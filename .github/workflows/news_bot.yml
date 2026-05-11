@@ -1,9 +1,7 @@
 name: Haber Botu
 
 on:
-  schedule:
-    - cron: '0 * * * *'  # Her saat başı
-  workflow_dispatch:       # Manuel tetikleme
+  workflow_dispatch:  # cron-job.org veya manuel tetikleme
 
 jobs:
   run:
