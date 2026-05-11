@@ -1,0 +1,38 @@
+name: Haber Botu
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Her saat başı
+  workflow_dispatch:       # Manuel tetikleme
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Bağımlılıkları kur
+        run: pip install feedparser requests
+
+      - name: Botu çalıştır
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+        run: python news_bot.py
+
+      - name: State dosyasını kaydet
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add sent_ids.json
+          git diff --staged --quiet || git commit -m "state güncelle"
+          git push
