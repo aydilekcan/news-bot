@@ -150,7 +150,7 @@ def main():
 
         for tweet in tweets:
             tweet_id = tweet.get("id")
-            if not tweet_id or tweet_id in sent:
+            if not tweet_id:
                 continue
 
             # Çok küçük hesapları atla
@@ -158,13 +158,18 @@ def main():
             if followers < MIN_FOLLOWERS:
                 continue
 
+            # Dashboard kaydı: daha önce Telegram'a gönderilmiş olsa bile sakla
+            if tweet_id not in existing_ids:
+                keyword_records.append(tweet_record(tweet, keyword))
+                existing_ids.add(tweet_id)
+
+            # Telegram: sadece daha önce gönderilmemiş olanları yolla
+            if tweet_id in sent:
+                continue
             msg = format_tweet(tweet, keyword)
             if send_telegram(msg):
                 sent.add(tweet_id)
                 new_count += 1
-                if tweet_id not in existing_ids:
-                    keyword_records.append(tweet_record(tweet, keyword))
-                    existing_ids.add(tweet_id)
                 time.sleep(0.3)
 
         keyword_records.sort(key=lambda r: r.get("captured_at", ""), reverse=True)
