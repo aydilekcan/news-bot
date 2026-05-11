@@ -22,7 +22,8 @@ KEYWORDS_FILE  = os.path.join(_base, "keywords.json")
 TWEETS_FILE    = os.path.join(_base, "tweets_data.json")
 
 XQUIK_HEADERS = {"x-api-key": XQUIK_API_KEY}
-MIN_FOLLOWERS = 100  # Çok küçük hesapları filtrele
+MIN_FOLLOWERS = 1000  # Çok küçük hesapları filtrele
+MIN_VIEWS     = 10000  # Düşük etkileşimli tweet'leri filtrele
 MAX_TWEETS_PER_KEYWORD = 50  # Dashboard için keyword başına saklanacak son tweet sayısı
 
 
@@ -154,9 +155,10 @@ def main():
             if not tweet_id:
                 continue
 
-            # Çok küçük hesapları atla
+            # Çok küçük hesapları VE düşük etkileşimli tweet'leri atla
             followers = tweet.get("author", {}).get("followers", 0)
-            if followers < MIN_FOLLOWERS:
+            views = tweet.get("viewCount", 0)
+            if followers < MIN_FOLLOWERS or views < MIN_VIEWS:
                 continue
 
             # Dashboard kaydı: daha önce Telegram'a gönderilmiş olsa bile sakla
