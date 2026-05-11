@@ -34,6 +34,13 @@ jobs:
         run: |
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
-          git add x_sent_ids.json x_bot.log || true
-          git diff --staged --quiet || git commit -m "x_bot state güncelle"
-          git push
+          git add x_sent_ids.json x_bot.log tweets_data.json || true
+          if ! git diff --staged --quiet; then
+            git commit -m "x_bot state güncelle"
+            # Dashboard üzerinden keywords.json değişmiş olabilir, çakışmayı engelle
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push && break
+              echo "Push denemesi $i başarısız, yeniden deniyorum..."
+              sleep 3
+            done
+          fi

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>X Bot Panel</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo">🐦</span>
+      <div>
+        <h1>X Bot Panel</h1>
+        <p class="muted" id="last-updated">Yükleniyor...</p>
+      </div>
+    </div>
+    <div class="actions">
+      <button id="refresh" class="btn ghost" title="Yenile">↻ Yenile</button>
+      <button id="lock-btn" class="btn ghost" title="Kilitle">🔒</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="card">
+      <div class="card-head">
+        <h2>Anahtar Kelimeler</h2>
+        <span class="muted" id="keyword-count"></span>
+      </div>
+
+      <form id="add-form" class="add-form">
+        <input id="new-keyword" type="text" placeholder="Yeni anahtar kelime ekle..." autocomplete="off" />
+        <button class="btn primary" type="submit">Ekle</button>
+      </form>
+
+      <ul id="keyword-list" class="keyword-list"></ul>
+    </section>
+
+    <section class="card">
+      <div class="card-head">
+        <h2 id="tweets-title">Tweetler</h2>
+        <select id="keyword-filter" class="select"></select>
+      </div>
+      <div id="tweets-container" class="tweets"></div>
+    </section>
+  </main>
+
+  <div id="password-modal" class="modal hidden">
+    <div class="modal-content">
+      <h3>Yönetici Şifresi</h3>
+      <p class="muted">Anahtar kelime eklemek/silmek için şifre gerekli.</p>
+      <form id="password-form">
+        <input id="password-input" type="password" placeholder="Şifre" autofocus />
+        <div class="modal-actions">
+          <button type="button" class="btn ghost" id="cancel-password">İptal</button>
+          <button type="submit" class="btn primary">Giriş</button>
+        </div>
+        <p id="password-error" class="error hidden">Şifre yanlış.</p>
+      </form>
+    </div>
+  </div>
+
+  <div id="toast" class="toast hidden"></div>
+
+  <script src="/app.js"></script>
+</body>
+</html>
