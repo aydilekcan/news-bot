@@ -28,6 +28,7 @@ jobs:
           XQUIK_API_KEY: ${{ secrets.XQUIK_API_KEY }}
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
+          DISABLE_TELEGRAM: '1'  # '0' veya satırı sil → Telegram tekrar aktif
         run: python x_bot.py
 
       - name: State dosyasını kaydet

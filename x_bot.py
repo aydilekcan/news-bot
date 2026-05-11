@@ -13,6 +13,7 @@ from datetime import datetime, timezone
 XQUIK_API_KEY  = os.environ.get("XQUIK_API_KEY", "xq_838324a6c51b759f1052cee45f4e13efef91683c998626bfb708acb0cad28fa1")
 TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN", "8735024977:AAGKdvu65vz8IZ4Cz-_Oqp0ALh9hry5px4w")
 CHAT_ID        = os.environ.get("CHAT_ID", "1173482573")
+DISABLE_TELEGRAM = os.environ.get("DISABLE_TELEGRAM", "").lower() in ("1", "true", "yes")
 
 _base          = os.path.dirname(os.path.abspath(__file__))
 STATE_FILE     = os.path.join(_base, "x_sent_ids.json")
@@ -166,6 +167,11 @@ def main():
             # Telegram: sadece daha önce gönderilmemiş olanları yolla
             if tweet_id in sent:
                 continue
+            if DISABLE_TELEGRAM:
+                # Telegram kapalı — yine de "gönderilmiş" olarak işaretle,
+                # böylece tekrar açıldığında eski tweet'ler spam yapmaz
+                sent.add(tweet_id)
+                continue
             msg = format_tweet(tweet, keyword)
             if send_telegram(msg):
                 sent.add(tweet_id)
@@ -183,7 +189,10 @@ def main():
 
     save_sent(sent)
     save_tweets_data(tweets_data)
-    log(f"{new_count} yeni tweet gönderildi.")
+    if DISABLE_TELEGRAM:
+        log(f"Telegram kapalı — sadece dashboard güncellendi.")
+    else:
+        log(f"{new_count} yeni tweet gönderildi.")
 
 
 if __name__ == "__main__":
