@@ -8,6 +8,7 @@ import feedparser
 import anthropic
 import requests
 import os
+import json
 import time
 from datetime import datetime, timezone, timedelta
 
@@ -15,6 +16,25 @@ TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN", "8735024977:AAGKdvu65vz8IZ4Cz-
 CHAT_ID        = os.environ.get("CHAT_ID", "1173482573")
 _base          = os.path.dirname(os.path.abspath(__file__))
 LOG_FILE       = os.path.join(_base, "morning_brief.log")
+STATE_FILE     = os.path.join(_base, "morning_brief_state.json")
+
+
+def today_tr():
+    """Türkiye saatine göre bugünün tarihi (YYYY-MM-DD)."""
+    return (datetime.now(timezone.utc) + timedelta(hours=3)).strftime("%Y-%m-%d")
+
+
+def already_sent_today():
+    try:
+        with open(STATE_FILE) as f:
+            return json.load(f).get("last_sent_date") == today_tr()
+    except (FileNotFoundError, json.JSONDecodeError):
+        return False
+
+
+def mark_sent_today():
+    with open(STATE_FILE, "w") as f:
+        json.dump({"last_sent_date": today_tr()}, f)
 
 FEEDS = [
     {"name": "Bloomberg HT",        "url": "https://www.bloomberght.com/rss"},
@@ -137,6 +157,10 @@ def send_telegram(text):
 
 
 def main():
+    if already_sent_today():
+        log("Bugün zaten gönderildi, atlanıyor.")
+        return
+
     log("Sabah brifing başlıyor...")
     headlines = collect_headlines()
     log(f"{len(headlines)} manşet toplandı.")
@@ -148,6 +172,7 @@ def main():
     brief = summarize(headlines)
     header = f"🌅 <b>SABAH BRİFİNG</b> — {datetime.now().strftime('%d %B %Y')}\n\n"
     send_telegram(header + brief)
+    mark_sent_today()
     log("Brifing gönderildi.")
 
 

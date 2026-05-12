@@ -1,16 +1,25 @@
 name: Sabah Brifing
 
+# GitHub Actions cron'u saatlerce gecikebildiği için 4 farklı zamanda dener.
+# morning_brief.py idempotent: bugün zaten gönderildiyse atlanır.
 on:
   schedule:
-    - cron: '30 4 * * *'  # 07:30 Türkiye saati (UTC+3)
+    - cron: '0 4 * * *'   # 07:00 TR (erken tampon)
+    - cron: '20 4 * * *'  # 07:20 TR
+    - cron: '40 4 * * *'  # 07:40 TR
+    - cron: '0 5 * * *'   # 08:00 TR (geç tampon)
   workflow_dispatch:
 
 jobs:
   run:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: actions/setup-python@v5
         with:
@@ -25,3 +34,17 @@ jobs:
           CHAT_ID: ${{ secrets.CHAT_ID }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python morning_brief.py
+
+      - name: State dosyasını kaydet
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add morning_brief_state.json morning_brief.log || true
+          if ! git diff --staged --quiet; then
+            git commit -m "morning_brief state güncelle"
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push && break
+              echo "Push denemesi $i başarısız, yeniden deniyorum..."
+              sleep 3
+            done
+          fi
