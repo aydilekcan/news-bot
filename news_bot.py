@@ -36,6 +36,9 @@ DEDUP_WINDOW_DAYS   = 30          # Bu kadar gun once gorulen basliklarla benzer
 SIMILARITY_THRESHOLD = 0.55       # Jaccard token overlap esigi (>= bu => ayni haber)
 MAX_LLM_CANDIDATES   = 120        # Tek calismada LLM'e gidecek maksimum baslik (maliyet sapkasi)
 PER_FEED_LIMIT       = 20         # Her beslemeden cekilecek maksimum baslik
+MIN_SCORE            = 6          # LLM score >= bu => gonder (1-10 olcek)
+MAX_DELIVER          = 15         # Tek run'da maksimum gonderim (top score'a gore)
+SEND_DELAY_S         = 3.5        # Mesajlar arasi bekleme (Telegram kanal rate limit'i icin)
 
 # --- Kaynaklar -------------------------------------------------------------
 # Google News'in topic/arama RSS'leri "kendi tarayicimiz" rolunu ustlenir;
@@ -220,23 +223,32 @@ def collect_candidates(state):
 
 
 # --- LLM onem filtresi ----------------------------------------------------
-LLM_SYSTEM = """Sen Turk bir karar vericinin haber editorusun. Onune koyacagim basliklar arasindan SADECE su konulardakileri "onemli" olarak isaretle:
+LLM_SYSTEM = """Sen Turk bir karar vericinin haber editorusun. COK SECICI ol — kullanici sadece gercekten kritik haberleri istiyor. Tipik bir saatte 5-15 baslik gecmeli; daha fazlasi gurultudur. Comert davranma.
 
-ONEMLI (true):
-- Turk siyasetinde somut gelisme: siyasi partiler, TBMM, milletvekilleri, parti genel baskanlari, kamu kurumlari (TCMB, TUIK, YSK, Sayistay, Anayasa Mahkemesi vb.), bakanlar/kabine, Cumhurbaskani
-- Turkiye ekonomi verisi/karari: enflasyon, faiz, kur, butce, issizlik, buyume, dis ticaret, vergi, Hazine/Maliye aciklamasi
-- Kuresel siyasi gelisme: ABD/AB/Rusya/Cin/Ortadogu liderleri ve hukumetleri, savas/ateskes, yaptirim, NATO/BM/IMF kararlari
-- Kuresel ekonomi: Fed/ECB faiz, kuresel piyasalar, petrol/altin/emtia, buyuk sirket-makro etkili haberler
+ONEMLI (true) — SADECE bu kategorilerden SOMUT gelisme/karar/data:
+- Turk siyaseti SOMUT karar: TBMM oylamasi, kabine karari, parti genel baskanindan onemli aciklama/karar, ust duzey atama/istifa, mahkeme karari (Anayasa Mahkemesi/Danistay/Yargitay/YSK), Sayistay raporu
+- Turkiye ekonomi VERISI veya KARARI: TCMB faiz karari, enflasyon/issizlik/buyume verisi yayini, Hazine ihale sonucu, butce-vergi degisikligi, ciddi kur hareketi (>%2 gunluk)
+- Kuresel siyaset SOMUT: ABD/AB/Rusya/Cin/Israil/Iran liderlerinden karar/aciklama, savas-ateskes gelismesi, yaptirim karari, NATO/BM Guvenlik Konseyi karari, secim sonucu
+- Kuresel ekonomi SOMUT: Fed/ECB faiz karari, ABD CPI/jobs data, BoJ karari, kritik emtia hareketi, sistemik finansal olay
 
-ONEMSIZ (false):
+ONEMSIZ (false) — sik yapilan hatalar:
 - Magazin, spor, kaza/asayis, hava durumu, kultur-sanat
 - Genel kose yazisi/fikir/yorum/analiz
-- Kucuk yerel olaylar, kisi reklam/PR icerigi
-- "X aciklama yapacak", "Y aciklama bekleniyor" gibi muphem on-haberler (somut karar olmadan)
-- Ayni gelismenin yan/tekrar baslik versiyonu
+- "Aciklama yapacak", "aciklama bekleniyor", "ele alacak", "gorusecek", "degerlendirecek" gibi GELECEK ZAMANLI muphem haberler — somut karar/sonuc olmadan
+- Tekrarlayan/turev basliklar, ayni olayin n'inci versiyonu
+- Sirket PR/halkla iliskiler, urun lansmani
+- Anket sonucu degil de "anket aciklanacak" gibi metahaberler
+- Gunluk normal piyasa kapanisi (sadece anormal hareketler onemli)
+- Yerel olay/asayis, kucuk capli haber
 
-ISTISNA — kose yazisi/yorum/analiz olsa BILE keep=true yap:
-- Baslikta veya ozette "DEVA Partisi" YA DA "Ali Babacan" geciyorsa (kullanici bu ikisinin her degerlendirmesini gormek istiyor)
+ISTISNA — sadece su iki anahtar bir baslik/ozette geciyorsa keep=true (kose yazisi/yorum olsa bile):
+- "DEVA Partisi" VEYA "Ali Babacan"
+
+SCORE skalasi (1-10):
+- 9-10: Cumhurbaskani/parti lideri kararlari, TCMB faiz, Fed faiz, savas/kriz gelismesi
+- 7-8: Onemli yasa/karar, kabine atamasi, kritik veri (CPI, buyume), AYM kararlari
+- 6: Onemli ama ikinci derece (yaptirim, lider aciklamasi, anket sonucu)
+- 1-5: Sinirda, gondermeyecegim (keep=false yap)
 
 Cikti format'i ZORUNLU: yalniz gecerli JSON array. Her item: {"i": <baslik_index_int>, "keep": <bool>, "score": <1-10 int>}. score yalniz keep=true ise anlamli. Aciklama yazma."""
 
@@ -298,11 +310,13 @@ def llm_filter(candidates):
             if 0 <= i < len(pool):
                 item = dict(pool[i])
                 item["score"] = int(v.get("score", 5))
+                if item["score"] < MIN_SCORE:
+                    continue
                 keepers.append(item)
         except Exception:
             continue
     keepers.sort(key=lambda x: -x["score"])
-    return keepers
+    return keepers[:MAX_DELIVER]
 
 
 # --- Telegram -------------------------------------------------------------
@@ -342,7 +356,7 @@ def deliver(item) -> bool:
             delivered = True
         else:
             log(f"Telegram hatasi ({target}): {resp[:160]}")
-        time.sleep(0.3)
+        time.sleep(SEND_DELAY_S)
     return delivered
 
 
