@@ -40,6 +40,31 @@ MIN_SCORE            = 6          # LLM score >= bu => gonder (1-10 olcek)
 MAX_DELIVER          = 15         # Tek run'da maksimum gonderim (top score'a gore)
 SEND_DELAY_S         = 3.5        # Mesajlar arasi bekleme (Telegram kanal rate limit'i icin)
 
+# Sessiz saat: Turkiye saatiyle 01:00-06:59 arasi gonderim yapma.
+# 00:00'da gunun son gonderimi olur, 07:00'de tekrar baslar.
+TURKEY_TZ = timezone(timedelta(hours=3))  # Turkiye sabit UTC+3 (DST yok, 2016'dan beri)
+QUIET_HOURS = set(range(1, 7))  # 1,2,3,4,5,6
+
+# Kaynak whitelist'i: trafigi yuksek ulusal Turkiye + buyuk uluslararasi yayinlar.
+# Substring matching (lowercase) yapilir; "Sözcü Gazetesi", "sozcu.com.tr", "Sozcu" hepsi gecer.
+NATIONAL_SOURCES = {
+    # TR ulusal — yuksek trafik
+    "hurriyet", "hürriyet", "milliyet", "sozcu", "sözcü", "sabah", "haberturk", "habertürk",
+    "cumhuriyet", "ntv", "cnn turk", "cnnturk", "cnn türk", "t24", "karar", "halk tv", "halktv",
+    "bloomberg ht", "bloomberght", "bloomberg", "anadolu ajansi", "anadolu ajansı", "aa.com",
+    "yeni safak", "yeni şafak", "yenisafak", "takvim", "turkiye gazetesi", "türkiye gazetesi",
+    "aksam", "akşam", "dunya", "dünya", "yenicag", "yeniçağ", "birgun", "birgün",
+    "evrensel", "diken", "bbc turkce", "bbc türkçe", "bbc news türkçe", "dw türkçe", "dw turkce",
+    "deutsche welle", "voa turkce", "voa türkçe", "amerika'nin sesi", "reuters",
+    "medyascope", "serbestiyet", "gazete duvar", "duvar", "ekonomim", "para analiz", "paraanaliz",
+    "fortune turkey", "ekonomi gazetesi",
+    # Uluslararasi — buyuk
+    "bbc", "financial times", "ft.com", "wall street journal", "wsj", "new york times", "nyt",
+    "the economist", "al jazeera", "aljazeera", "le monde", "der spiegel", "spiegel",
+    "the guardian", "guardian", "ap news", "associated press", "afp", "agence france-presse",
+    "cnbc", "cnn", "axios", "politico", "the times", "ft",
+}
+
 # --- Kaynaklar -------------------------------------------------------------
 # Google News'in topic/arama RSS'leri "kendi tarayicimiz" rolunu ustlenir;
 # yuzlerce yerli/yabanci kaynagi tek bir RSS'ten toplar.
@@ -178,10 +203,42 @@ def is_duplicate(title: str, link: str, state) -> bool:
     return False
 
 
+def is_national_source(source: str) -> bool:
+    if not source or source == "—":
+        return False
+    s = source.lower().strip()
+    return any(key in s for key in NATIONAL_SOURCES)
+
+
+def extract_source(entry, feed_obj, title_with_suffix: str) -> str:
+    """Google News basliginin sonundaki '— Kaynak', RSS entry'sinin source field'i veya feed adi."""
+    # 1) Baslikta "— Kaynak" eki
+    m = re.search(r"\s[-–|]\s([^-–|]{2,40})\s*$", title_with_suffix)
+    if m:
+        return m.group(1).strip()
+    # 2) entry.source (Google News bazen yapilandirilmis veriyor)
+    src = entry.get("source")
+    if isinstance(src, dict):
+        cand = src.get("title") or src.get("href") or ""
+        if cand:
+            return str(cand).strip()
+    if isinstance(src, str) and src:
+        return src.strip()
+    # 3) Feed-level title (direct RSS'lerde dolu)
+    try:
+        ft = feed_obj.feed.get("title") if hasattr(feed_obj, "feed") else None
+        if ft:
+            return str(ft).strip()
+    except Exception:
+        pass
+    return "—"
+
+
 # --- Toplama --------------------------------------------------------------
 def collect_candidates(state):
     seen_in_batch = set()  # ayni run'da farkli feedlerden gelen kopyalari at
     candidates = []
+    skipped_local = 0
     for url in FEEDS:
         try:
             feed = feedparser.parse(url)
@@ -195,10 +252,13 @@ def collect_candidates(state):
                 if not title or not link:
                     continue
 
-                # Google News'in "Baslik - Kaynak" formatindan kaynak adini cek
-                src_match = re.search(r"\s[-–|]\s([^-–|]{2,40})\s*$", title)
-                source = src_match.group(1).strip() if src_match else "—"
+                source = extract_source(entry, feed, title)
                 clean_title = re.sub(r"\s[-–|]\s[^-–|]{2,40}\s*$", "", title).strip()
+
+                # Yerel/kucuk site filtresi
+                if not is_national_source(source):
+                    skipped_local += 1
+                    continue
 
                 # In-run kopya
                 t_hash = title_hash(clean_title)
@@ -219,6 +279,8 @@ def collect_candidates(state):
                 })
         except Exception as e:
             log(f"HATA ({url[:60]}): {e}")
+    if skipped_local:
+        log(f"Yerel/listede olmayan kaynaktan {skipped_local} baslik elendi.")
     return candidates
 
 
@@ -383,6 +445,12 @@ def main():
 
     if not TELEGRAM_TOKEN or not (CHAT_ID or CHANNEL_ID):
         log("Eksik env: TELEGRAM_TOKEN ve en az bir hedef (CHAT_ID veya CHANNEL_ID) gerekli.")
+        return
+
+    # Sessiz saat kontrolu (Turkiye saatiyle 01:00 - 06:59 arasi atla, state'e dokunma)
+    tr_now = datetime.now(TURKEY_TZ)
+    if tr_now.hour in QUIET_HOURS:
+        log(f"Sessiz saat ({tr_now.strftime('%H:%M')} TR) — gonderim atlandi.")
         return
 
     state = load_state()
