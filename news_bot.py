@@ -1,14 +1,15 @@
 #!/usr/bin/env python3
 """
-Haber botu — siyaset + ekonomi odakli, LLM destekli onem filtresi.
+Haber botu — sabit kaynak listesi + admin'in panelden eklediği custom RSS'ler.
 
 Akis:
-  1. Google News'in topic aramalari + birkac genis besleme uzerinden ham basliklar toplanir.
+  1. SOURCES + custom_feeds.json'daki her kaynak icin RSS okunur.
   2. Daha once gonderilmis basliklar (link hash + normalize edilmis baslik hash + 30 gunluk
      token-overlap benzerligi) elenir.
-  3. Kalan adaylar tek bir Claude API cagrisiyla degerlendirilir; sadece "onemli" olanlar gecer.
+  3. Kalan adaylar tek bir Claude API cagrisiyla degerlendirilir; her keep=true item icin
+     LLM kisa ozet + siyasi yon (left/neutral/right) doner.
   4. Hem kullanicinin DM'ine (CHAT_ID) hem de varsa public kanala (CHANNEL_ID) gonderilir.
-  5. State dosyasi (sent_ids.json) yeni schema'ya yazilir, eski liste format'i otomatik migrate edilir.
+  5. news_data.json'a kaydedilir (dashboard buradan okur), state dosyasi (sent_ids.json) yazilir.
 """
 
 import feedparser
@@ -24,80 +25,65 @@ from datetime import datetime, timedelta, timezone
 
 TELEGRAM_TOKEN     = os.environ.get("TELEGRAM_TOKEN", "")
 CHAT_ID            = os.environ.get("CHAT_ID", "")
-CHANNEL_ID         = os.environ.get("CHANNEL_ID", "").strip()  # ornek: "@can_haber_botu" veya "-1001234567890"
+CHANNEL_ID         = os.environ.get("CHANNEL_ID", "").strip()
 ANTHROPIC_API_KEY  = os.environ.get("ANTHROPIC_API_KEY", "")
 LLM_MODEL          = os.environ.get("LLM_MODEL", "claude-haiku-4-5-20251001")
 
-_base      = os.path.dirname(os.path.abspath(__file__))
-STATE_FILE = os.path.join(_base, "sent_ids.json")
-LOG_FILE   = os.path.join(_base, "news_bot.log")
+_base             = os.path.dirname(os.path.abspath(__file__))
+STATE_FILE        = os.path.join(_base, "sent_ids.json")
+NEWS_DATA_FILE    = os.path.join(_base, "news_data.json")
+CUSTOM_FEEDS_FILE = os.path.join(_base, "custom_feeds.json")
+LOG_FILE          = os.path.join(_base, "news_bot.log")
 
-DEDUP_WINDOW_DAYS   = 30          # Bu kadar gun once gorulen basliklarla benzerlik karsilastirmasi yapilir
-SIMILARITY_THRESHOLD = 0.55       # Jaccard token overlap esigi (>= bu => ayni haber)
-MAX_LLM_CANDIDATES   = 120        # Tek calismada LLM'e gidecek maksimum baslik (maliyet sapkasi)
-PER_FEED_LIMIT       = 20         # Her beslemeden cekilecek maksimum baslik
-MIN_SCORE            = 6          # LLM score >= bu => gonder (1-10 olcek)
-MAX_DELIVER          = 15         # Tek run'da maksimum gonderim (top score'a gore)
-SEND_DELAY_S         = 3.5        # Mesajlar arasi bekleme (Telegram kanal rate limit'i icin)
+DEDUP_WINDOW_DAYS    = 30
+SIMILARITY_THRESHOLD = 0.55
+MAX_LLM_CANDIDATES   = 180
+PER_FEED_LIMIT       = 10
+MIN_SCORE            = 6
+MAX_DELIVER          = 15
+SEND_DELAY_S         = 3.5
+NEWS_DATA_KEEP_DAYS  = 30
 
-# Sessiz saat: Turkiye saatiyle 01:00-06:59 arasi gonderim yapma.
-# 00:00'da gunun son gonderimi olur, 07:00'de tekrar baslar.
-TURKEY_TZ = timezone(timedelta(hours=3))  # Turkiye sabit UTC+3 (DST yok, 2016'dan beri)
-QUIET_HOURS = set(range(1, 7))  # 1,2,3,4,5,6
+TURKEY_TZ   = timezone(timedelta(hours=3))
+QUIET_HOURS = set(range(1, 7))  # 01:00-06:59 TR
 
-# Kaynak whitelist'i: trafigi yuksek ulusal Turkiye + buyuk uluslararasi yayinlar.
-# Substring matching (lowercase) yapilir; "Sözcü Gazetesi", "sozcu.com.tr", "Sozcu" hepsi gecer.
-NATIONAL_SOURCES = {
-    # TR ulusal — yuksek trafik
-    "hurriyet", "hürriyet", "milliyet", "sozcu", "sözcü", "sabah", "haberturk", "habertürk",
-    "cumhuriyet", "ntv", "cnn turk", "cnnturk", "cnn türk", "t24", "karar", "halk tv", "halktv",
-    "bloomberg ht", "bloomberght", "bloomberg", "anadolu ajansi", "anadolu ajansı", "aa.com",
-    "yeni safak", "yeni şafak", "yenisafak", "takvim", "turkiye gazetesi", "türkiye gazetesi",
-    "aksam", "akşam", "dunya", "dünya", "yenicag", "yeniçağ", "birgun", "birgün",
-    "evrensel", "diken", "bbc turkce", "bbc türkçe", "bbc news türkçe", "dw türkçe", "dw turkce",
-    "deutsche welle", "voa turkce", "voa türkçe", "amerika'nin sesi", "reuters",
-    "medyascope", "serbestiyet", "gazete duvar", "duvar", "ekonomim", "para analiz", "paraanaliz",
-    "fortune turkey", "ekonomi gazetesi",
-    # Uluslararasi — buyuk
-    "bbc", "financial times", "ft.com", "wall street journal", "wsj", "new york times", "nyt",
-    "the economist", "al jazeera", "aljazeera", "le monde", "der spiegel", "spiegel",
-    "the guardian", "guardian", "ap news", "associated press", "afp", "agence france-presse",
-    "cnbc", "cnn", "axios", "politico", "the times", "ft",
-}
+VALID_LEANS = {"left", "neutral", "right"}
 
-# --- Kaynaklar -------------------------------------------------------------
-# Google News'in topic/arama RSS'leri "kendi tarayicimiz" rolunu ustlenir;
-# yuzlerce yerli/yabanci kaynagi tek bir RSS'ten toplar.
-def _gn(query: str) -> str:
-    return "https://news.google.com/rss/search?" + urllib.parse.urlencode({
-        "q": query,
-        "hl": "tr",
-        "gl": "TR",
-        "ceid": "TR:tr",
-    })
+# Bazi siteler default feedparser UA'sini engelliyor — tarayici UA gonderiyoruz.
+USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 
-FEEDS = [
-    # Yurt ici siyaset
-    _gn('("TBMM" OR "Meclis" OR "milletvekili" OR "Cumhurbaskani" OR "bakan" OR "kabine") when:1d'),
-    _gn('("CHP" OR "AKP" OR "MHP" OR "DEM Parti" OR "IYI Parti" OR "Yeniden Refah" OR "Zafer Partisi" OR "Gelecek Partisi" OR "DEVA Partisi" OR "Saadet Partisi") when:1d'),
-    _gn('("Erdogan" OR "Ozgur Ozel" OR "Devlet Bahceli" OR "Babacan" OR "Davutoglu" OR "Imamoglu" OR "Mansur Yavas" OR "Ozdag" OR "Erbakan" OR "Bakirhan" OR "Hatimogullari") when:1d'),
-    _gn('("kamu kurumu" OR "Sayistay" OR "Anayasa Mahkemesi" OR "YSK" OR "Danistay" OR "Yargitay" OR "HSK") when:1d'),
 
-    # Yurt ici ekonomi
-    _gn('("Merkez Bankasi" OR "TCMB" OR "faiz karari" OR "enflasyon" OR "TUIK" OR "isgucu" OR "issizlik" OR "buyume" OR "cari acik" OR "butce") when:1d'),
-    _gn('("dolar" OR "euro" OR "kur" OR "borsa Istanbul" OR "BIST" OR "tahvil" OR "Hazine" OR "Maliye Bakanligi" OR "vergi") when:1d'),
+def _gn(query: str, lang: str = "tr") -> str:
+    """Google News arama RSS'i — resmi RSS'i olmayan kaynaklar icin koprudur."""
+    if lang == "en":
+        params = {"q": query, "hl": "en-US", "gl": "US", "ceid": "US:en"}
+    else:
+        params = {"q": query, "hl": "tr", "gl": "TR", "ceid": "TR:tr"}
+    return "https://news.google.com/rss/search?" + urllib.parse.urlencode(params)
 
-    # Kuresel ekonomi
-    _gn('("Federal Reserve" OR "Fed faiz" OR "ECB" OR "IMF" OR "World Bank" OR "OECD" OR "global recession" OR "S&P 500" OR "oil price" OR "Brent") when:1d'),
 
-    # Kuresel siyaset
-    _gn('("Beyaz Saray" OR "White House" OR "NATO" OR "AB" OR "European Union" OR "BM Guvenlik Konseyi" OR "yaptirim" OR "sanctions" OR "Putin" OR "Trump" OR "Xi Jinping" OR "Netanyahu") when:1d'),
-    _gn('("Ortadogu" OR "Israil" OR "Gazze" OR "Iran" OR "Ukrayna" OR "Rusya savas" OR "Suriye" OR "Cin Tayvan") when:1d'),
+# Sabit kaynak listesi. Her item bir RSS (direkt veya Google News kopru) + sabit label + default_lean.
+# Bazi kaynaklarin resmi RSS'i bot trafigini blokluyor (T24, Medyascope, soL) -> Google News kopru.
+# Reuters/AP -> Google News EN (TR locale'da sonuc gelmiyor).
+SOURCES = [
+    # Direkt resmi RSS
+    {"url": "https://feeds.bbci.co.uk/turkce/rss.xml",                       "label": "BBC Türkçe",       "default_lean": "neutral"},
+    {"url": "https://rss.dw.com/rdf/rss-tur-all",                             "label": "DW Türkçe",        "default_lean": "neutral"},
+    {"url": "https://www.diken.com.tr/feed/",                                "label": "Diken",            "default_lean": "left"},
+    {"url": "https://yetkinreport.com/feed/",                                "label": "YetkinReport",     "default_lean": "neutral"},
+    {"url": "https://bianet.org/biamag.rss",                                 "label": "bianet",           "default_lean": "left"},
+    {"url": "https://www.cumhuriyet.com.tr/rss/son_dakika.xml",              "label": "Cumhuriyet",       "default_lean": "left"},
+    {"url": "https://www.sozcu.com.tr/feeds-rss-category-sozcu",             "label": "Sözcü",            "default_lean": "left"},
+    {"url": "https://www.aa.com.tr/tr/rss/default?cat=guncel",               "label": "Anadolu Ajansı",   "default_lean": "right"},
+    {"url": "https://www.trthaber.com/sondakika.rss",                        "label": "TRT Haber",        "default_lean": "right"},
+    {"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdS7OE5qbJQc7AG4SwlTzKg", "label": "Fatih Altaylı", "default_lean": "neutral"},
 
-    # Ek kapsama icin birkac genis besleme (filtre LLM'de)
-    "https://www.aa.com.tr/tr/rss/default?cat=guncel",
-    "https://feeds.bbci.co.uk/turkish/rss.xml",
-    "https://www.bloomberght.com/rss",
+    # Google News koprusu (resmi RSS bot engeli veya yok)
+    {"url": _gn("site:t24.com.tr when:1d"),         "label": "T24",          "default_lean": "left"},
+    {"url": _gn("site:medyascope.tv when:1d"),      "label": "Medyascope",   "default_lean": "left"},
+    {"url": _gn("site:sol.org.tr when:1d"),         "label": "soL",          "default_lean": "left"},
+    {"url": _gn("site:reuters.com when:1d", "en"),  "label": "Reuters",      "default_lean": "neutral"},
+    {"url": _gn("site:apnews.com when:1d", "en"),   "label": "AP",           "default_lean": "neutral"},
 ]
 
 
@@ -108,7 +94,38 @@ def log(msg: str):
         f.write(line + "\n")
 
 
-# --- State (id'ler + fingerprint'ler) -------------------------------------
+def load_custom_feeds():
+    """Admin'in dashboard'tan ekledigi RSS'leri oku. Hatali kayitlari ele."""
+    if not os.path.exists(CUSTOM_FEEDS_FILE):
+        return []
+    try:
+        with open(CUSTOM_FEEDS_FILE) as f:
+            data = json.load(f)
+    except Exception as e:
+        log(f"custom_feeds.json okunamadi: {e}")
+        return []
+    out = []
+    if not isinstance(data, list):
+        return []
+    for item in data:
+        if not isinstance(item, dict):
+            continue
+        url = (item.get("url") or "").strip()
+        if not url.startswith(("http://", "https://")):
+            continue
+        label = (item.get("label") or "").strip() or url
+        lean = (item.get("default_lean") or "neutral").lower()
+        if lean not in VALID_LEANS:
+            lean = "neutral"
+        out.append({"url": url, "label": label[:60], "default_lean": lean})
+    return out
+
+
+def all_feeds():
+    return SOURCES + load_custom_feeds()
+
+
+# --- State -----------------------------------------------------------------
 def _empty_state():
     return {"version": 2, "ids": {}, "fingerprints": []}
 
@@ -121,12 +138,9 @@ def load_state():
             data = json.load(f)
     except Exception:
         return _empty_state()
-
-    # Eski liste format'i: tum hash'leri "ancient" timestamp ile migrate et
     if isinstance(data, list):
         ancient = "1970-01-01T00:00:00+00:00"
         return {"version": 2, "ids": {h: ancient for h in data}, "fingerprints": []}
-
     if not isinstance(data, dict) or "ids" not in data:
         return _empty_state()
     data.setdefault("fingerprints", [])
@@ -134,14 +148,9 @@ def load_state():
 
 
 def save_state(state):
-    # Eski kayitlari budama: ids 60 gun, fingerprint DEDUP_WINDOW_DAYS gun
     cutoff_ids = (datetime.now(timezone.utc) - timedelta(days=60)).isoformat()
     cutoff_fp  = (datetime.now(timezone.utc) - timedelta(days=DEDUP_WINDOW_DAYS)).isoformat()
-    state["ids"] = {
-        h: ts for h, ts in state["ids"].items()
-        if ts >= cutoff_ids or ts.startswith("1970")  # ancient'lari koru
-    }
-    # ancient olanlardan en eskileri at, toplam 20000'i gecmesin
+    state["ids"] = {h: ts for h, ts in state["ids"].items() if ts >= cutoff_ids or ts.startswith("1970")}
     if len(state["ids"]) > 20000:
         items = sorted(state["ids"].items(), key=lambda kv: kv[1])
         state["ids"] = dict(items[-20000:])
@@ -151,6 +160,29 @@ def save_state(state):
     with open(tmp, "w") as f:
         json.dump(state, f, ensure_ascii=False)
     os.replace(tmp, STATE_FILE)
+
+
+# --- news_data.json (dashboard'in okudugu kalici store) -------------------
+def load_news_data():
+    if not os.path.exists(NEWS_DATA_FILE):
+        return []
+    try:
+        with open(NEWS_DATA_FILE) as f:
+            data = json.load(f)
+    except Exception:
+        return []
+    return data if isinstance(data, list) else []
+
+
+def save_news_data(items):
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=NEWS_DATA_KEEP_DAYS)).isoformat()
+    items = [it for it in items if it.get("ts", "") >= cutoff]
+    items.sort(key=lambda it: it.get("ts", ""), reverse=True)
+    items = items[:1000]
+    tmp = NEWS_DATA_FILE + ".tmp"
+    with open(tmp, "w") as f:
+        json.dump(items, f, ensure_ascii=False, indent=1)
+    os.replace(tmp, NEWS_DATA_FILE)
 
 
 # --- Normalize / hash / similarity ----------------------------------------
@@ -164,7 +196,7 @@ _STOPWORDS = {
 
 def normalize_title(title: str) -> str:
     t = title.lower()
-    t = re.sub(r"\s+[-–|]\s+[^-–|]{2,40}\s*$", "", t)  # Google News "- Kaynak" eki
+    t = re.sub(r"\s+[-–|]\s+[^-–|]{2,40}\s*$", "", t)
     t = re.sub(r"[^\w\s]", " ", t, flags=re.UNICODE)
     t = re.sub(r"\s+", " ", t).strip()
     return t
@@ -203,137 +235,101 @@ def is_duplicate(title: str, link: str, state) -> bool:
     return False
 
 
-def is_national_source(source: str) -> bool:
-    if not source or source == "—":
-        return False
-    s = source.lower().strip()
-    return any(key in s for key in NATIONAL_SOURCES)
-
-
-def extract_source(entry, feed_obj, title_with_suffix: str) -> str:
-    """Google News basliginin sonundaki '— Kaynak', RSS entry'sinin source field'i veya feed adi."""
-    # 1) Baslikta "— Kaynak" eki
-    m = re.search(r"\s[-–|]\s([^-–|]{2,40})\s*$", title_with_suffix)
-    if m:
-        return m.group(1).strip()
-    # 2) entry.source (Google News bazen yapilandirilmis veriyor)
-    src = entry.get("source")
-    if isinstance(src, dict):
-        cand = src.get("title") or src.get("href") or ""
-        if cand:
-            return str(cand).strip()
-    if isinstance(src, str) and src:
-        return src.strip()
-    # 3) Feed-level title (direct RSS'lerde dolu)
-    try:
-        ft = feed_obj.feed.get("title") if hasattr(feed_obj, "feed") else None
-        if ft:
-            return str(ft).strip()
-    except Exception:
-        pass
-    return "—"
-
-
-# --- Toplama --------------------------------------------------------------
+# --- Toplama ---------------------------------------------------------------
 def collect_candidates(state):
-    seen_in_batch = set()  # ayni run'da farkli feedlerden gelen kopyalari at
+    seen_in_batch = set()
     candidates = []
-    skipped_local = 0
-    for url in FEEDS:
+    for feed_meta in all_feeds():
+        url = feed_meta["url"]
+        label = feed_meta["label"]
+        default_lean = feed_meta["default_lean"]
         try:
-            feed = feedparser.parse(url)
+            feed = feedparser.parse(url, agent=USER_AGENT)
             if not feed.entries:
-                log(f"UYARI: 0 entry — {url[:80]}")
+                log(f"UYARI: 0 entry — {label}")
                 continue
             for entry in feed.entries[:PER_FEED_LIMIT]:
                 title = (entry.get("title") or "").strip()
                 link  = entry.get("link") or ""
-                summary = re.sub(r"<[^>]+>", " ", entry.get("summary") or "")[:300]
+                summary_raw = re.sub(r"<[^>]+>", " ", entry.get("summary") or "")[:400]
                 if not title or not link:
                     continue
-
-                source = extract_source(entry, feed, title)
+                # Google News bridge: baslik sonundaki "— Kaynak" ekini kirp
                 clean_title = re.sub(r"\s[-–|]\s[^-–|]{2,40}\s*$", "", title).strip()
 
-                # Yerel/kucuk site filtresi
-                if not is_national_source(source):
-                    skipped_local += 1
-                    continue
-
-                # In-run kopya
                 t_hash = title_hash(clean_title)
                 if t_hash in seen_in_batch:
                     continue
                 seen_in_batch.add(t_hash)
 
-                # State'e gore kopya
                 if is_duplicate(clean_title, link, state):
                     continue
 
                 candidates.append({
-                    "title":   clean_title,
-                    "link":    link,
-                    "summary": summary,
-                    "source":  source,
-                    "tokens":  tokenize(clean_title),
+                    "title":         clean_title,
+                    "link":          link,
+                    "raw_summary":   summary_raw,
+                    "source":        label,
+                    "default_lean":  default_lean,
+                    "tokens":        tokenize(clean_title),
                 })
         except Exception as e:
-            log(f"HATA ({url[:60]}): {e}")
-    if skipped_local:
-        log(f"Yerel/listede olmayan kaynaktan {skipped_local} baslik elendi.")
+            log(f"HATA ({label}): {e}")
     return candidates
 
 
-# --- LLM onem filtresi ----------------------------------------------------
-LLM_SYSTEM = """Sen Turk bir karar vericinin haber editorusun. COK SECICI ol — kullanici sadece gercekten kritik haberleri istiyor. Tipik bir saatte 5-15 baslik gecmeli; daha fazlasi gurultudur. Comert davranma.
+# --- LLM filtre + ozet + lean ---------------------------------------------
+LLM_SYSTEM = """Sen Turk bir karar vericinin haber editorusun. COK SECICI ol — kullanici sadece gercekten kritik haberleri istiyor. Tipik bir saatte 5-15 baslik gecmeli; daha fazlasi gurultudur.
 
-ONEMLI (true) — SADECE bu kategorilerden SOMUT gelisme/karar/data:
+ONEMLI (keep=true) — SADECE bu kategorilerden SOMUT gelisme/karar/data:
 - Turk siyaseti SOMUT karar: TBMM oylamasi, kabine karari, parti genel baskanindan onemli aciklama/karar, ust duzey atama/istifa, mahkeme karari (Anayasa Mahkemesi/Danistay/Yargitay/YSK), Sayistay raporu
 - Turkiye ekonomi VERISI veya KARARI: TCMB faiz karari, enflasyon/issizlik/buyume verisi yayini, Hazine ihale sonucu, butce-vergi degisikligi, ciddi kur hareketi (>%2 gunluk)
 - Kuresel siyaset SOMUT: ABD/AB/Rusya/Cin/Israil/Iran liderlerinden karar/aciklama, savas-ateskes gelismesi, yaptirim karari, NATO/BM Guvenlik Konseyi karari, secim sonucu
 - Kuresel ekonomi SOMUT: Fed/ECB faiz karari, ABD CPI/jobs data, BoJ karari, kritik emtia hareketi, sistemik finansal olay
 
-ONEMSIZ (false) — sik yapilan hatalar:
+ONEMSIZ (keep=false):
 - Magazin, spor, kaza/asayis, hava durumu, kultur-sanat
-- Genel kose yazisi/fikir/yorum/analiz
-- "Aciklama yapacak", "aciklama bekleniyor", "ele alacak", "gorusecek", "degerlendirecek" gibi GELECEK ZAMANLI muphem haberler — somut karar/sonuc olmadan
-- Tekrarlayan/turev basliklar, ayni olayin n'inci versiyonu
-- Sirket PR/halkla iliskiler, urun lansmani
-- Anket sonucu degil de "anket aciklanacak" gibi metahaberler
-- Gunluk normal piyasa kapanisi (sadece anormal hareketler onemli)
-- Yerel olay/asayis, kucuk capli haber
+- Genel kose yazisi/fikir/yorum/analiz (ISTISNA asagida)
+- "Aciklama yapacak", "ele alacak" gibi gelecek zamanli muphem haberler
+- Tekrarlayan/turev basliklar, sirket PR, urun lansmani, gunluk piyasa kapanisi
 
-ISTISNA — sadece su iki anahtar bir baslik/ozette geciyorsa keep=true (kose yazisi/yorum olsa bile):
+ISTISNA — bu iki anahtardan biri baslikta/ozette geciyorsa keep=true (kose yazisi olsa bile):
 - "DEVA Partisi" VEYA "Ali Babacan"
 
 SCORE skalasi (1-10):
 - 9-10: Cumhurbaskani/parti lideri kararlari, TCMB faiz, Fed faiz, savas/kriz gelismesi
 - 7-8: Onemli yasa/karar, kabine atamasi, kritik veri (CPI, buyume), AYM kararlari
-- 6: Onemli ama ikinci derece (yaptirim, lider aciklamasi, anket sonucu)
+- 6: Onemli ama ikinci derece
 - 1-5: Sinirda, gondermeyecegim (keep=false yap)
 
-Cikti format'i ZORUNLU: yalniz gecerli JSON array. Her item: {"i": <baslik_index_int>, "keep": <bool>, "score": <1-10 int>}. score yalniz keep=true ise anlamli. Aciklama yazma."""
+OZET (summary_tr): keep=true ise haberi 1-2 Turkce cumlede ozetle (max 240 karakter). Spesifik ol; "aciklama yapildi" gibi mubhem ifadeler kullanma — KIM, NE yapti/karar verdi yaz.
+
+LEAN: keep=true ise haberin/kaynagin siyasi yonelimi: "left" / "neutral" / "right". Kaynak ipucu sana verilecek (default_lean) ama icerik farkli bir yon gosteriyorsa override et. Reuters/AP/BBC/DW gibi uluslararasi servisler neutral'dir; haber Turk hukumetini destekleyici dille anlatiyorsa right, elestiriyorsa left dusunulebilir. Emin degilsen neutral.
+
+Cikti format'i ZORUNLU: yalniz gecerli JSON array. Her item:
+{"i": <int>, "keep": <bool>, "score": <1-10 int>, "summary_tr": "...", "lean": "left|neutral|right"}
+keep=false ise summary_tr ve lean atlanabilir. Aciklama veya markdown yazma."""
 
 
 def llm_filter(candidates):
     if not ANTHROPIC_API_KEY:
-        log("ANTHROPIC_API_KEY yok — LLM filtresi devre disi, hicbir haber gonderilmiyor.")
+        log("ANTHROPIC_API_KEY yok — LLM filtresi devre disi.")
         return []
     if not candidates:
         return []
 
-    # Maliyet sapkasi
     pool = candidates[:MAX_LLM_CANDIDATES]
-    items = "\n".join(
-        f"[{i}] {c['title']}" + (f" — {c['summary'][:140]}" if c['summary'] else "")
+    items_text = "\n".join(
+        f"[{i}] ({c['source']}, default_lean={c['default_lean']}) {c['title']}"
+        + (f" — {c['raw_summary'][:140]}" if c['raw_summary'] else "")
         for i, c in enumerate(pool)
     )
 
     body = {
         "model": LLM_MODEL,
-        "max_tokens": 4000,
+        "max_tokens": 6000,
         "system": LLM_SYSTEM,
-        "messages": [{"role": "user", "content": f"Asagidaki {len(pool)} basligi degerlendir:\n\n{items}\n\nSadece JSON array dondur."}],
+        "messages": [{"role": "user", "content": f"Asagidaki {len(pool)} basligi degerlendir:\n\n{items_text}\n\nSadece JSON array dondur."}],
     }
     try:
         r = requests.post(
@@ -344,16 +340,14 @@ def llm_filter(candidates):
                 "content-type": "application/json",
             },
             json=body,
-            timeout=60,
+            timeout=90,
         )
         if not r.ok:
             log(f"LLM HTTP hata: {r.status_code} — {r.text[:200]}")
             return []
         data = r.json()
         text = "".join(blk.get("text", "") for blk in data.get("content", []) if blk.get("type") == "text").strip()
-        # Olasi markdown/code fence temizle
         text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text, flags=re.MULTILINE).strip()
-        # Ilk array'i yakala
         m = re.search(r"\[.*\]", text, flags=re.DOTALL)
         if not m:
             log(f"LLM cikti JSON degil: {text[:200]}")
@@ -369,12 +363,19 @@ def llm_filter(candidates):
             i = int(v["i"])
             if not v.get("keep"):
                 continue
-            if 0 <= i < len(pool):
-                item = dict(pool[i])
-                item["score"] = int(v.get("score", 5))
-                if item["score"] < MIN_SCORE:
-                    continue
-                keepers.append(item)
+            if not (0 <= i < len(pool)):
+                continue
+            score = int(v.get("score", 5))
+            if score < MIN_SCORE:
+                continue
+            item = dict(pool[i])
+            item["score"] = score
+            item["summary_tr"] = (v.get("summary_tr") or "").strip()[:300]
+            lean = (v.get("lean") or item["default_lean"]).lower()
+            if lean not in VALID_LEANS:
+                lean = item["default_lean"]
+            item["lean"] = lean
+            keepers.append(item)
         except Exception:
             continue
     keepers.sort(key=lambda x: -x["score"])
@@ -382,6 +383,9 @@ def llm_filter(candidates):
 
 
 # --- Telegram -------------------------------------------------------------
+LEAN_EMOJI = {"left": "🟥", "neutral": "⬜", "right": "🟦"}
+
+
 def send_telegram(chat_id: str, text: str):
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     r = requests.post(url, json={
@@ -393,7 +397,7 @@ def send_telegram(chat_id: str, text: str):
     return r.ok, r.text
 
 
-def emoji_for(title: str, summary: str) -> str:
+def topic_emoji(title: str, summary: str) -> str:
     blob = (title + " " + summary).lower()
     if any(k in blob for k in ["fed", "ecb", "imf", "nato", "putin", "trump", "xi ", "netanyahu", "iran", "ukrayna", "gazze", "israil", "white house", "ab ", "sanctions", "yaptirim"]):
         return "🌍"
@@ -403,10 +407,12 @@ def emoji_for(title: str, summary: str) -> str:
 
 
 def deliver(item) -> bool:
-    icon = emoji_for(item["title"], item["summary"])
+    icon = topic_emoji(item["title"], item.get("summary_tr", ""))
+    lean_dot = LEAN_EMOJI.get(item["lean"], "⬜")
+    summary_line = f"\n<i>{item['summary_tr']}</i>" if item.get("summary_tr") else ""
     msg = (
-        f"<b>{icon} {item['source']}</b>\n"
-        f"{item['title']}\n"
+        f"<b>{icon} {item['source']}</b> {lean_dot}\n"
+        f"{item['title']}{summary_line}\n"
         f"<a href='{item['link']}'>→ Habere git</a>"
     )
     delivered = False
@@ -422,13 +428,13 @@ def deliver(item) -> bool:
     return delivered
 
 
-# --- Yardimci komutlar ---------------------------------------------------
+# --- Yardimci --------------------------------------------------------------
 def get_chat_id():
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/getUpdates"
     r = requests.get(url, timeout=10)
     data = r.json()
     if not data.get("result"):
-        print("Henuz guncelleme yok. Bota mesaj atin ve tekrar deneyin.")
+        print("Henuz guncelleme yok.")
         return
     for update in data["result"]:
         msg = update.get("message") or update.get("channel_post")
@@ -437,20 +443,19 @@ def get_chat_id():
             print(f"Chat ID: {chat['id']}  (Tip: {chat['type']}, Ad: {chat.get('first_name') or chat.get('title', '')})")
 
 
-# --- Main ----------------------------------------------------------------
+# --- Main ------------------------------------------------------------------
 def main():
     if "--get-chat-id" in sys.argv:
         get_chat_id()
         return
 
     if not TELEGRAM_TOKEN or not (CHAT_ID or CHANNEL_ID):
-        log("Eksik env: TELEGRAM_TOKEN ve en az bir hedef (CHAT_ID veya CHANNEL_ID) gerekli.")
+        log("Eksik env: TELEGRAM_TOKEN ve en az bir hedef gerekli.")
         return
 
-    # Sessiz saat kontrolu (Turkiye saatiyle 01:00 - 06:59 arasi atla, state'e dokunma)
     tr_now = datetime.now(TURKEY_TZ)
     if tr_now.hour in QUIET_HOURS:
-        log(f"Sessiz saat ({tr_now.strftime('%H:%M')} TR) — gonderim atlandi.")
+        log(f"Sessiz saat ({tr_now.strftime('%H:%M')} TR) — atlandi.")
         return
 
     state = load_state()
@@ -464,11 +469,14 @@ def main():
     keepers = llm_filter(candidates)
     log(f"LLM {len(keepers)} basligi onemli buldu.")
 
+    news_data = load_news_data()
     now_iso = datetime.now(timezone.utc).isoformat()
+    delivered_count = 0
     for item in keepers:
         if is_duplicate(item["title"], item["link"], state):
             continue
         if deliver(item):
+            delivered_count += 1
             state["ids"][link_hash(item["link"], item["title"])] = now_iso
             state["ids"][title_hash(item["title"])] = now_iso
             state["fingerprints"].append({
@@ -476,14 +484,23 @@ def main():
                 "ts": now_iso,
                 "title": item["title"][:100],
             })
+            news_data.append({
+                "title":      item["title"],
+                "link":       item["link"],
+                "source":     item["source"],
+                "summary_tr": item.get("summary_tr", ""),
+                "lean":       item["lean"],
+                "score":      item["score"],
+                "ts":         now_iso,
+            })
 
-    # Gonderilmeyen adaylarin baslik hashleri de state'e — bir sonraki turda LLM'e tekrar gitmesin
     for c in candidates:
         state["ids"].setdefault(link_hash(c["link"], c["title"]), now_iso)
         state["ids"].setdefault(title_hash(c["title"]), now_iso)
 
     save_state(state)
-    log(f"Gonderildi: {sum(1 for _ in keepers)}. Toplam state: {len(state['ids'])} id / {len(state['fingerprints'])} fingerprint.")
+    save_news_data(news_data)
+    log(f"Gonderildi: {delivered_count}. State: {len(state['ids'])} id / {len(state['fingerprints'])} fp. News store: {len(news_data)}.")
 
 
 if __name__ == "__main__":

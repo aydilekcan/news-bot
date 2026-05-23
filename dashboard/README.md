@@ -1,6 +1,14 @@
-# X Bot Panel
+# Haber Botu Paneli
 
-X (Twitter) botunun keyword'lerini yönetmek ve eşleşen tweet'leri görmek için web panel.
+`news_bot.py`'nin gönderdiği haberleri kaynak rozeti, siyasi yön etiketi (sol/nötr/sağ) ve AI özetiyle birlikte gösteren web panel. Ayrıca yönetici şifresiyle özel RSS feed eklenebilir.
+
+## Mimari
+
+- Bot (`news_bot.py`) GitHub Actions üzerinden çalışır, haberleri:
+  - **Telegram'a** gönderir (mevcut akış)
+  - **`news_data.json`'a** yazıp commit'ler (son 30 gün, max 1000 kayıt)
+- Panel (Vercel'de host edilen statik site + serverless API), `news_data.json`'u GitHub API'siyle okur.
+- "Özel RSS ekle" formuyla yönetici `custom_feeds.json`'u günceller; bot bir sonraki run'da bu kaynaklardan da çeker. LLM her haber için özet ve lean üretir — admin'in tanımladığı default_lean ipucu LLM'e iletilir, gerekirse LLM override eder.
 
 ## Kurulum
 
@@ -10,65 +18,49 @@ X (Twitter) botunun keyword'lerini yönetmek ve eşleşen tweet'leri görmek iç
 2. **Repository access**: sadece bu repo (`news_bot`)
 3. **Permissions** → **Repository permissions**:
    - **Contents**: Read and write
-4. Token'ı kopyala (sadece bir kez gösterilir).
+4. Token'ı kopyala.
 
 ### 2) Vercel'e deploy et
 
 1. https://vercel.com → **Add New → Project** → bu GitHub repo'sunu import et
-2. **Root Directory**: `dashboard` olarak ayarla
-3. **Environment Variables** sekmesinde şunları ekle:
+2. **Root Directory**: `dashboard`
+3. **Environment Variables**:
 
 | Key | Value |
 | --- | --- |
-| `GITHUB_TOKEN` | yukarıda oluşturduğun PAT |
-| `GITHUB_REPO` | `kullanici-adi/news_bot` (örnek: `aydilekcan/news_bot`) |
-| `GITHUB_BRANCH` | `main` (opsiyonel, default `main`) |
-| `DASHBOARD_PASSWORD` | panel için belirleyeceğin şifre |
+| `GITHUB_TOKEN` | PAT |
+| `GITHUB_REPO` | `kullanici/news_bot` |
+| `GITHUB_BRANCH` | `main` (opsiyonel) |
+| `DASHBOARD_PASSWORD` | yönetici şifresi |
 
 4. **Deploy**.
 
 ### 3) Kullanım
 
-- Vercel'in verdiği URL'i aç (örnek: `https://news-bot-dashboard.vercel.app`).
-- Tweet'leri ve keyword'leri görüntülemek için şifre gerekmiyor.
-- Keyword eklemek/silmek için bir kerelik şifre sorulur, sonra `localStorage`'da tutulur.
-
-## Nasıl çalışıyor?
-
-- Panel, `keywords.json` ve `tweets_data.json` dosyalarını GitHub API üzerinden okur.
-- Keyword eklendiğinde/silindiğinde, panel `keywords.json`'u GitHub API ile günceller.
-- Bot bir sonraki çalışmasında (her 2 saatte bir) yeni keyword listesini kullanır.
-- Bot her çalıştığında `tweets_data.json` dosyasına son tweet'leri yazar ve commit'ler.
+- Panel URL'sini aç. Haberler şifresiz görüntülenir.
+- Özel RSS eklemek/silmek için sağ üstteki kilit ikonu üzerinden şifre.
+- Sol panelden kaynağa veya siyasi yöne göre filtrele.
 
 ## Lokal geliştirme
 
-`vercel dev` ile hem statik dosyaları hem de API route'larını lokalde çalıştırabilirsin.
-
 ```bash
-# 1) Vercel CLI'yi kur (bir kerelik)
-npm i -g vercel
-
-# 2) dashboard klasörüne gir
 cd dashboard
-
-# 3) .env.local dosyasını oluştur (örnek dosyadan kopyala)
-cp .env.example .env.local
-# .env.local içini gerçek değerlerle doldur
-
-# 4) Lokal sunucuyu başlat
-vercel dev
+cp .env.example .env.local      # değerleri doldur
+npm i -g vercel                  # bir kerelik
+vercel dev                       # http://localhost:3000
 ```
 
-Tarayıcıda `http://localhost:3000` aç.
+## Veri dosyaları
 
-**Notlar:**
-- `.env.local` `.gitignore`'da, secret'lar repo'ya gitmez.
-- Lokal'de yaptığın "keyword ekle/sil" işlemleri **canlı repo'da** `keywords.json`'u değiştirir (test için ayrı bir branch'e yönlendirmek istersen `GITHUB_BRANCH=test` yapabilirsin — o branch'in mevcut olması gerekir).
-- İlk `vercel dev` çağrısı projeyi Vercel hesabına bağlamak ister; "link to existing project" hayır de, sadece local olarak çalıştırıyorsun.
+| Dosya | Kim yazıyor | Ne içeriyor |
+| --- | --- | --- |
+| `news_data.json` | bot (her run'da) | Son 30 gün gönderilmiş haberler (özet+lean+score dahil) |
+| `custom_feeds.json` | panel (admin) | Bot'a eklenecek ekstra RSS'ler (`url`, `label`, `default_lean`) |
+| `sent_ids.json` | bot | Dedup için ID + fingerprint state'i |
 
 ## Sorun giderme
 
-- **"Veri yüklenemedi"**: `GITHUB_TOKEN` ve `GITHUB_REPO` ayarlarını kontrol et.
-- **Keyword eklediğimde 401**: `DASHBOARD_PASSWORD` ayarı eksik veya yanlış girdin → kilit ikonuna tıkla, tekrar gir.
-- **Yeni tweet'ler gelmiyor**: GitHub Actions sekmesinden X bot workflow'unun çalışıp çalışmadığını kontrol et.
-- **Push çakışması**: Bot push'u en fazla 3 kere rebase'le dener. Çok sık keyword değişikliği yapmazsan sorun olmaz.
+- **"Veri yüklenemedi"**: `GITHUB_TOKEN` / `GITHUB_REPO` env'lerini kontrol et.
+- **401 RSS eklerken**: kilit ikonuna basıp şifreyi yeniden gir.
+- **Bot yeni haber çekmiyor**: GitHub Actions sekmesinde Haber Botu workflow'unun çalıştığını doğrula. `news_bot.log` çıktısına bak.
+- **Lean yanlış**: `default_lean` sadece ipucu — LLM içerik bağlamına göre override edebiliyor. Sistematik bir hata varsa `LLM_SYSTEM` prompt'unu güncelle.

@@ -1,14 +1,14 @@
-// Paylaşılan GitHub API yardımcıları
+// Paylasilan GitHub API yardimcilari
 
 export function getRepo() {
   const repo = process.env.GITHUB_REPO;
-  if (!repo) throw new Error("GITHUB_REPO env var ayarlı değil");
+  if (!repo) throw new Error("GITHUB_REPO env var ayarli degil");
   return repo;
 }
 
 export function getToken() {
   const t = process.env.GITHUB_TOKEN;
-  if (!t) throw new Error("GITHUB_TOKEN env var ayarlı değil");
+  if (!t) throw new Error("GITHUB_TOKEN env var ayarli degil");
   return t;
 }
 
@@ -79,33 +79,34 @@ export function checkAuth(req) {
   return auth.substring("Bearer ".length) === expected;
 }
 
-// keywords.json'u oku — yoksa boş liste döner
-export async function readKeywords() {
-  const file = await ghGetFile("keywords.json");
-  if (!file) return { keywords: [], sha: null };
+// custom_feeds.json'u oku — yoksa bos liste
+export async function readCustomFeeds() {
+  const file = await ghGetFile("custom_feeds.json");
+  if (!file) return { feeds: [], sha: null };
   try {
-    return { keywords: JSON.parse(file.content), sha: file.sha };
+    const parsed = JSON.parse(file.content);
+    return { feeds: Array.isArray(parsed) ? parsed : [], sha: file.sha };
   } catch {
-    return { keywords: [], sha: file.sha };
+    return { feeds: [], sha: file.sha };
   }
 }
 
-// keywords.json'u yaz — çakışma durumunda yeniden dener
-export async function writeKeywords(updateFn, commitMessage) {
+// custom_feeds.json'u yaz — cakisma durumunda yeniden dener
+export async function writeCustomFeeds(updateFn, commitMessage) {
   for (let attempt = 0; attempt < 3; attempt++) {
-    const { keywords, sha } = await readKeywords();
-    const updated = updateFn([...keywords]);
-    if (JSON.stringify(updated) === JSON.stringify(keywords)) {
-      return { keywords, changed: false };
+    const { feeds, sha } = await readCustomFeeds();
+    const updated = updateFn([...feeds]);
+    if (JSON.stringify(updated) === JSON.stringify(feeds)) {
+      return { feeds, changed: false };
     }
     const content = JSON.stringify(updated, null, 2) + "\n";
     try {
-      await ghPutFile("keywords.json", content, sha, commitMessage);
-      return { keywords: updated, changed: true };
+      await ghPutFile("custom_feeds.json", content, sha, commitMessage);
+      return { feeds: updated, changed: true };
     } catch (e) {
-      if (e.status === 409 && attempt < 2) continue; // sha conflict, retry
+      if (e.status === 409 && attempt < 2) continue;
       throw e;
     }
   }
-  throw new Error("keywords.json güncellenemedi (çakışma)");
+  throw new Error("custom_feeds.json guncellenemedi (cakisma)");
 }

@@ -1,14 +1,16 @@
-// X Bot Dashboard - vanilla JS, no framework
+// Haber Botu Dashboard - vanilla JS
 
 const state = {
-  keywords: [],
-  tweets: {},          // { keyword: [tweet, ...] }
-  activeKeyword: null, // null = tüm tweetler
+  news: [],             // [{title, link, source, summary_tr, lean, score, ts}, ...]
+  sources: [],          // [{label, default_lean, builtin, url?}, ...]
+  activeSource: null,   // null = tum kaynaklar
+  activeLean: "all",    // all|left|neutral|right
   password: localStorage.getItem("dashboard_password") || "",
 };
 
-// --- API çağrıları ---
+const LEAN_LABEL = { left: "Sol", neutral: "Nötr", right: "Sağ" };
 
+// --- API ---
 async function apiGet(path) {
   const r = await fetch(path);
   if (!r.ok) throw new Error(`GET ${path} failed: ${r.status}`);
@@ -32,20 +34,19 @@ async function apiAuth(method, path, body) {
   }
   if (!r.ok) {
     const txt = await r.text();
-    throw new Error(`${method} ${path} failed: ${r.status} ${txt}`);
+    throw new Error(`${method} ${path}: ${r.status} ${txt}`);
   }
   return r.json();
 }
 
-// --- Veri yükle ---
-
+// --- Veri ---
 async function loadData() {
   try {
     const data = await apiGet("/api/data");
-    state.keywords = data.keywords || [];
-    state.tweets = data.tweets || {};
+    state.news = data.news || [];
+    state.sources = data.sources || [];
     document.getElementById("last-updated").textContent =
-      `Son güncelleme: ${data.updated_at ? formatTime(data.updated_at) : "henüz veri yok"}`;
+      `Son haber: ${data.updated_at ? formatTime(data.updated_at) : "henüz veri yok"}`;
     render();
   } catch (e) {
     toast("Veri yüklenemedi: " + e.message, "error");
@@ -53,139 +54,136 @@ async function loadData() {
 }
 
 // --- Render ---
-
 function render() {
-  renderKeywordList();
-  renderFilter();
-  renderTweets();
-  document.getElementById("keyword-count").textContent =
-    `${state.keywords.length} kelime`;
+  renderSources();
+  renderNews();
 }
 
-function renderKeywordList() {
-  const ul = document.getElementById("keyword-list");
+function newsForSource(label) {
+  return state.news.filter(n => n.source === label);
+}
+
+function renderSources() {
+  const ul = document.getElementById("source-list");
   ul.innerHTML = "";
 
-  // "Tümü" item
+  // "Tümü"
   const allLi = document.createElement("li");
-  allLi.className = "keyword-item" + (state.activeKeyword === null ? " active" : "");
-  const totalTweets = Object.values(state.tweets).reduce((s, arr) => s + arr.length, 0);
+  allLi.className = "source-item" + (state.activeSource === null ? " active" : "");
   allLi.innerHTML = `
     <span class="name">📊 Tümü</span>
-    <span class="count">${totalTweets}</span>
+    <span class="count">${state.news.length}</span>
   `;
-  allLi.onclick = () => { state.activeKeyword = null; render(); };
+  allLi.onclick = () => { state.activeSource = null; render(); };
   ul.appendChild(allLi);
 
-  for (const kw of state.keywords) {
+  for (const src of state.sources) {
+    const count = newsForSource(src.label).length;
     const li = document.createElement("li");
-    li.className = "keyword-item" + (state.activeKeyword === kw ? " active" : "");
-    const count = (state.tweets[kw] || []).length;
+    li.className = "source-item" + (state.activeSource === src.label ? " active" : "");
     li.innerHTML = `
-      <span class="name">${escape(kw)}</span>
+      <span class="name">
+        <span class="dot lean-${src.default_lean}"></span>
+        ${escape(src.label)}
+        ${src.builtin ? "" : '<span class="custom-tag">özel</span>'}
+      </span>
       <span class="count">${count}</span>
-      <button class="delete" title="Sil">✕</button>
+      ${src.builtin ? "" : `<button class="delete" title="Sil" data-url="${escape(src.url)}">✕</button>`}
     `;
-    li.querySelector(".name").onclick = () => { state.activeKeyword = kw; render(); };
-    li.querySelector(".count").onclick = () => { state.activeKeyword = kw; render(); };
-    li.querySelector(".delete").onclick = (e) => {
-      e.stopPropagation();
-      deleteKeyword(kw);
-    };
+    li.querySelector(".name").onclick = () => { state.activeSource = src.label; render(); };
+    li.querySelector(".count").onclick = () => { state.activeSource = src.label; render(); };
+    const del = li.querySelector(".delete");
+    if (del) {
+      del.onclick = (e) => {
+        e.stopPropagation();
+        deleteFeed(src.url, src.label);
+      };
+    }
     ul.appendChild(li);
   }
+
+  document.getElementById("source-count").textContent = `${state.sources.length} kaynak`;
 }
 
-function renderFilter() {
-  const sel = document.getElementById("keyword-filter");
-  const current = state.activeKeyword;
-  sel.innerHTML = `<option value="">Tüm kelimeler</option>` +
-    state.keywords.map(k => `<option value="${escape(k)}">${escape(k)}</option>`).join("");
-  sel.value = current || "";
-  sel.onchange = () => {
-    state.activeKeyword = sel.value || null;
-    render();
-  };
-}
+function renderNews() {
+  const container = document.getElementById("news-container");
+  const title = document.getElementById("news-title");
 
-function renderTweets() {
-  const container = document.getElementById("tweets-container");
-  const title = document.getElementById("tweets-title");
+  let items = state.news;
+  if (state.activeSource) items = items.filter(n => n.source === state.activeSource);
+  if (state.activeLean !== "all") items = items.filter(n => n.lean === state.activeLean);
 
-  let tweets;
-  if (state.activeKeyword) {
-    title.textContent = `Tweetler — ${state.activeKeyword}`;
-    tweets = state.tweets[state.activeKeyword] || [];
-  } else {
-    title.textContent = "Tüm Tweetler";
-    tweets = Object.values(state.tweets).flat();
-  }
+  items = [...items].sort((a, b) => (b.ts || "").localeCompare(a.ts || ""));
 
-  tweets = [...tweets].sort((a, b) =>
-    (b.captured_at || "").localeCompare(a.captured_at || "")
-  );
+  title.textContent = state.activeSource ? `Haberler — ${state.activeSource}` : "Tüm Haberler";
+  document.getElementById("news-count").textContent = `${items.length} haber`;
 
-  if (tweets.length === 0) {
-    container.innerHTML = `<div class="empty">Bu kelime için henüz tweet kaydedilmemiş.</div>`;
+  if (items.length === 0) {
+    container.innerHTML = `<div class="empty">Bu filtreyle eşleşen haber yok.</div>`;
     return;
   }
 
-  container.innerHTML = tweets.map(t => `
-    <article class="tweet">
-      <div class="tweet-head">
-        <div class="tweet-author">
-          <span class="name">${escape(t.author?.name || t.author?.username || "?")} ${t.author?.verified ? "✓" : ""}</span>
-          <span class="handle">@${escape(t.author?.username || "?")} · ${formatTime(t.captured_at)}</span>
-        </div>
-        <span class="tweet-keyword">${escape(t.keyword)}</span>
+  container.innerHTML = items.map(n => `
+    <article class="news-card">
+      <div class="news-head">
+        <span class="source-badge"><span class="dot lean-${n.lean || 'neutral'}"></span>${escape(n.source || "—")}</span>
+        <span class="lean-badge lean-${n.lean || 'neutral'}">${LEAN_LABEL[n.lean] || "Nötr"}</span>
+        <span class="news-time">${formatTime(n.ts)}</span>
       </div>
-      <div class="tweet-text">${escape(t.text || "")}</div>
-      <div class="tweet-meta">
-        <span>❤️ ${t.likes ?? 0}</span>
-        <span>🔁 ${t.retweets ?? 0}</span>
-        <span>👁 ${t.views ?? 0}</span>
-        ${t.url ? `<a href="${escape(t.url)}" target="_blank" rel="noopener">Tweete git →</a>` : ""}
+      <h3 class="news-title"><a href="${escape(n.link)}" target="_blank" rel="noopener">${escape(n.title)}</a></h3>
+      ${n.summary_tr ? `<p class="news-summary">${escape(n.summary_tr)}</p>` : ""}
+      <div class="news-meta">
+        <span class="score">Skor: ${n.score ?? "?"}</span>
+        <a href="${escape(n.link)}" target="_blank" rel="noopener">Habere git →</a>
       </div>
     </article>
   `).join("");
 }
 
-// --- Mutations ---
+// --- Lean filter chips ---
+document.querySelectorAll(".lean-chip").forEach(chip => {
+  chip.onclick = () => {
+    document.querySelectorAll(".lean-chip").forEach(c => c.classList.remove("active"));
+    chip.classList.add("active");
+    state.activeLean = chip.dataset.lean;
+    render();
+  };
+});
 
-async function addKeyword(keyword) {
+// --- Feed ekle / sil ---
+async function addFeed({ url, label, default_lean }) {
   if (!state.password) {
-    pendingAction = () => addKeyword(keyword);
+    pendingAction = () => addFeed({ url, label, default_lean });
     showPasswordModal();
     return;
   }
   try {
-    await apiAuth("POST", "/api/keywords", { keyword });
-    toast(`"${keyword}" eklendi`, "success");
+    await apiAuth("POST", "/api/feeds", { url, label, default_lean });
+    toast(`"${label || url}" eklendi`, "success");
     await loadData();
   } catch (e) {
     if (e.message !== "unauthorized") toast("Eklenemedi: " + e.message, "error");
   }
 }
 
-async function deleteKeyword(keyword) {
-  if (!confirm(`"${keyword}" silinsin mi?`)) return;
+async function deleteFeed(url, label) {
+  if (!confirm(`"${label}" kaynak silinsin mi?`)) return;
   if (!state.password) {
-    pendingAction = () => deleteKeyword(keyword);
+    pendingAction = () => deleteFeed(url, label);
     showPasswordModal();
     return;
   }
   try {
-    await apiAuth("DELETE", "/api/keywords", { keyword });
-    toast(`"${keyword}" silindi`, "success");
-    if (state.activeKeyword === keyword) state.activeKeyword = null;
+    await apiAuth("DELETE", "/api/feeds", { url });
+    toast(`"${label}" silindi`, "success");
+    if (state.activeSource === label) state.activeSource = null;
     await loadData();
   } catch (e) {
     if (e.message !== "unauthorized") toast("Silinemedi: " + e.message, "error");
   }
 }
 
-// --- Şifre modal ---
-
+// --- Sifre modal ---
 let pendingAction = null;
 
 function showPasswordModal() {
@@ -200,19 +198,13 @@ function hidePasswordModal() {
 }
 
 async function tryPassword(pw) {
-  // Auth'u doğrulamak için "ping" rolünde küçük bir istek
-  state.password = pw;
   try {
-    const r = await fetch("/api/keywords", {
+    const r = await fetch("/api/feeds", {
       method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        "Authorization": `Bearer ${pw}`,
-      },
-      body: JSON.stringify({ keyword: "__ping__" }),
+      headers: { "Content-Type": "application/json", "Authorization": `Bearer ${pw}` },
+      body: JSON.stringify({ url: "__ping__" }),
     });
     if (r.status === 401) return false;
-    // 400 (validation) veya 200/409 = şifre doğru
     return true;
   } catch {
     return false;
@@ -220,7 +212,6 @@ async function tryPassword(pw) {
 }
 
 // --- Helpers ---
-
 function escape(s) {
   return String(s ?? "")
     .replace(/&/g, "&amp;")
@@ -234,8 +225,7 @@ function formatTime(iso) {
   if (!iso) return "?";
   const d = new Date(iso);
   if (isNaN(d)) return iso;
-  const now = new Date();
-  const diff = (now - d) / 1000;
+  const diff = (new Date() - d) / 1000;
   if (diff < 60) return "az önce";
   if (diff < 3600) return `${Math.floor(diff / 60)} dk önce`;
   if (diff < 86400) return `${Math.floor(diff / 3600)} sa önce`;
@@ -249,19 +239,16 @@ function toast(msg, kind = "") {
   setTimeout(() => el.classList.add("hidden"), 3000);
 }
 
-// --- Event listeners ---
-
-document.getElementById("add-form").addEventListener("submit", (e) => {
+// --- Events ---
+document.getElementById("add-feed-form").addEventListener("submit", (e) => {
   e.preventDefault();
-  const input = document.getElementById("new-keyword");
-  const kw = input.value.trim().toLowerCase();
-  if (!kw) return;
-  if (state.keywords.includes(kw)) {
-    toast("Bu kelime zaten listede.", "error");
-    return;
-  }
-  input.value = "";
-  addKeyword(kw);
+  const url = document.getElementById("feed-url").value.trim();
+  const label = document.getElementById("feed-label").value.trim();
+  const default_lean = document.getElementById("feed-lean").value;
+  if (!url) return;
+  document.getElementById("feed-url").value = "";
+  document.getElementById("feed-label").value = "";
+  addFeed({ url, label, default_lean });
 });
 
 document.getElementById("refresh").addEventListener("click", loadData);
@@ -295,4 +282,4 @@ document.getElementById("password-form").addEventListener("submit", async (e) =>
 
 // --- Init ---
 loadData();
-setInterval(loadData, 5 * 60 * 1000); // 5 dakikada bir otomatik yenile
+setInterval(loadData, 5 * 60 * 1000);
