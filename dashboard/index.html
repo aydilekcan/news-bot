@@ -3,65 +3,93 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Haber Botu Paneli</title>
+  <title>Haber Botu</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="/style.css" />
 </head>
 <body>
   <header class="topbar">
     <div class="brand">
-      <span class="logo">📰</span>
+      <span class="logo-mark">N°</span>
       <div>
-        <h1>Haber Botu Paneli</h1>
-        <p class="muted" id="last-updated">Yükleniyor...</p>
+        <h1>Haber Botu</h1>
+        <p class="muted" id="last-updated">Yükleniyor…</p>
       </div>
     </div>
     <div class="actions">
-      <button id="refresh" class="btn ghost" title="Yenile">↻ Yenile</button>
-      <button id="lock-btn" class="btn ghost" title="Çıkış">🔒</button>
+      <button id="refresh" class="icon-btn" title="Yenile" aria-label="Yenile">↻</button>
+      <button id="lock-btn" class="icon-btn" title="Çıkış" aria-label="Çıkış">🔒</button>
     </div>
   </header>
 
-  <main class="container">
-    <aside class="card sidebar">
-      <div class="card-head">
-        <h2>Kaynaklar</h2>
-        <span class="muted" id="source-count"></span>
-      </div>
-
-      <div class="filter-row">
-        <label class="filter-label">Siyasi yön</label>
-        <div class="lean-filters">
-          <button class="lean-chip active" data-lean="all">Tümü</button>
-          <button class="lean-chip" data-lean="left"><span class="dot lean-left"></span> Sol</button>
-          <button class="lean-chip" data-lean="neutral"><span class="dot lean-neutral"></span> Nötr</button>
-          <button class="lean-chip" data-lean="right"><span class="dot lean-right"></span> Sağ</button>
+  <nav class="filter-bar">
+    <div class="filter-bar-inner">
+      <div class="filter-group">
+        <span class="filter-label">ZAMAN</span>
+        <div class="chip-row" id="time-filters">
+          <button class="chip" data-time="1">Son 1 saat</button>
+          <button class="chip" data-time="6">6 saat</button>
+          <button class="chip active" data-time="24">24 saat</button>
+          <button class="chip" data-time="168">7 gün</button>
+          <button class="chip" data-time="0">Tümü</button>
         </div>
       </div>
+      <div class="filter-group">
+        <span class="filter-label">SİYASİ YÖN</span>
+        <div class="chip-row" id="lean-filters">
+          <button class="chip active" data-lean="all">Tümü</button>
+          <button class="chip" data-lean="left"><span class="dot lean-left"></span>Sol</button>
+          <button class="chip" data-lean="neutral"><span class="dot lean-neutral"></span>Nötr</button>
+          <button class="chip" data-lean="right"><span class="dot lean-right"></span>Sağ</button>
+        </div>
+      </div>
+      <div class="filter-group right">
+        <span class="filter-label">SIRALAMA</span>
+        <select id="sort-by" class="select-mini">
+          <option value="recent">En yeni</option>
+          <option value="coverage">Çok kaynak</option>
+          <option value="score">Skor</option>
+        </select>
+      </div>
+    </div>
+  </nav>
 
-      <ul id="source-list" class="source-list"></ul>
+  <main class="container">
+    <aside class="sidebar">
+      <section class="panel">
+        <div class="panel-head">
+          <h2>Kaynaklar</h2>
+          <span class="muted" id="source-count"></span>
+        </div>
+        <ul id="source-list" class="source-list"></ul>
 
-      <details class="custom-feeds">
-        <summary>+ Özel RSS ekle</summary>
-        <form id="add-feed-form" class="add-feed-form">
-          <input id="feed-url" type="url" placeholder="https://example.com/rss" autocomplete="off" required />
-          <input id="feed-label" type="text" placeholder="Görünür ad (örn. X Sitesi)" autocomplete="off" />
-          <select id="feed-lean" class="select">
-            <option value="neutral">Nötr (default)</option>
-            <option value="left">Sol</option>
-            <option value="right">Sağ</option>
-          </select>
-          <p class="muted small">AI, içeriğe göre lean'i override edebilir.</p>
-          <button class="btn primary" type="submit">RSS Ekle</button>
-        </form>
-      </details>
+        <details class="custom-feeds">
+          <summary>+ Özel RSS ekle</summary>
+          <form id="add-feed-form" class="add-feed-form">
+            <input id="feed-url" type="url" placeholder="https://example.com/rss" autocomplete="off" required />
+            <input id="feed-label" type="text" placeholder="Görünür ad" autocomplete="off" />
+            <select id="feed-lean" class="select-mini">
+              <option value="neutral">Nötr (default)</option>
+              <option value="left">Sol</option>
+              <option value="right">Sağ</option>
+            </select>
+            <button class="btn primary" type="submit">RSS Ekle</button>
+            <p class="muted small">AI içeriğe göre lean'i override edebilir.</p>
+          </form>
+        </details>
+      </section>
+
+      <section class="panel stats-panel" id="stats-panel"></section>
     </aside>
 
-    <section class="card">
-      <div class="card-head">
-        <h2 id="news-title">Haberler</h2>
-        <span class="muted" id="news-count"></span>
+    <section class="feed">
+      <div class="feed-head">
+        <h2 id="feed-title">Hikayeler</h2>
+        <span class="muted" id="feed-count"></span>
       </div>
-      <div id="news-container" class="news"></div>
+      <div id="story-container" class="stories"></div>
     </section>
   </main>
 

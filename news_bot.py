@@ -382,6 +382,39 @@ def llm_filter(candidates):
     return keepers[:MAX_DELIVER]
 
 
+# --- Clustering ------------------------------------------------------------
+CLUSTER_THRESHOLD = 0.40  # jaccard >= bu -> ayni cluster
+
+
+def cluster_keepers(keepers):
+    """Run-scope clustering. Donus: list[{id, tokens, members[]}]."""
+    clusters = []
+    for item in keepers:
+        tokens = item["tokens"]
+        matched = None
+        for c in clusters:
+            if jaccard(tokens, c["tokens"]) >= CLUSTER_THRESHOLD:
+                matched = c
+                break
+        if matched:
+            matched["members"].append(item)
+            # Temsilci: en yuksek skorlu uyenin token'lari
+            if item["score"] > matched["best_score"]:
+                matched["best_score"] = item["score"]
+                matched["tokens"] = tokens
+        else:
+            # Deterministik id: sorted tokens hash'i
+            cid = "c" + hashlib.md5("|".join(sorted(tokens)).encode()).hexdigest()[:12]
+            clusters.append({"id": cid, "tokens": tokens, "best_score": item["score"], "members": [item]})
+
+    for c in clusters:
+        # En yuksek skor en basa
+        c["members"].sort(key=lambda m: -m["score"])
+        for m in c["members"]:
+            m["cluster_id"] = c["id"]
+    return clusters
+
+
 # --- Telegram -------------------------------------------------------------
 LEAN_EMOJI = {"left": "🟥", "neutral": "⬜", "right": "🟦"}
 
@@ -406,14 +439,20 @@ def topic_emoji(title: str, summary: str) -> str:
     return "🏛️"
 
 
-def deliver(item) -> bool:
-    icon = topic_emoji(item["title"], item.get("summary_tr", ""))
-    lean_dot = LEAN_EMOJI.get(item["lean"], "⬜")
-    summary_line = f"\n<i>{item['summary_tr']}</i>" if item.get("summary_tr") else ""
+def deliver_cluster(cluster) -> bool:
+    """Cluster basina tek Telegram mesaji — en yuksek skorlu uyenin metni + diger kaynaklarin sayisi."""
+    top = cluster["members"][0]
+    icon = topic_emoji(top["title"], top.get("summary_tr", ""))
+    lean_dot = LEAN_EMOJI.get(top["lean"], "⬜")
+    summary_line = f"\n<i>{top['summary_tr']}</i>" if top.get("summary_tr") else ""
+    coverage = ""
+    if len(cluster["members"]) > 1:
+        others = [m["source"] for m in cluster["members"][1:6]]
+        coverage = f"\n<i>+ {len(cluster['members']) - 1} kaynak daha: {', '.join(others)}</i>"
     msg = (
-        f"<b>{icon} {item['source']}</b> {lean_dot}\n"
-        f"{item['title']}{summary_line}\n"
-        f"<a href='{item['link']}'>→ Habere git</a>"
+        f"<b>{icon} {top['source']}</b> {lean_dot}\n"
+        f"{top['title']}{summary_line}{coverage}\n"
+        f"<a href='{top['link']}'>→ Habere git</a>"
     )
     delivered = False
     for target in [CHAT_ID, CHANNEL_ID]:
@@ -467,48 +506,50 @@ def main():
         return
 
     keepers = llm_filter(candidates)
-    log(f"LLM {len(keepers)} basligi onemli buldu.")
+    clusters = cluster_keepers(keepers)
+    log(f"LLM {len(keepers)} basligi onemli buldu -> {len(clusters)} cluster.")
 
     news_data = load_news_data()
     now_iso = datetime.now(timezone.utc).isoformat()
     telegram_sent = 0
     web_recorded = 0
-    for item in keepers:
-        if is_duplicate(item["title"], item["link"], state):
-            continue
-        # Sessiz saatte Telegram'i atla; her durumda web'e + state'e kaydet.
-        if quiet:
-            recorded = True
-        else:
-            recorded = deliver(item)
-            if recorded:
+    for cluster in clusters:
+        if not quiet:
+            if deliver_cluster(cluster):
                 telegram_sent += 1
-        if recorded:
+
+        # Web: cluster icindeki tum uyeleri (her kaynak ayri kart)
+        for m in cluster["members"]:
             web_recorded += 1
-            state["ids"][link_hash(item["link"], item["title"])] = now_iso
-            state["ids"][title_hash(item["title"])] = now_iso
-            state["fingerprints"].append({
-                "tokens": sorted(item["tokens"]),
-                "ts": now_iso,
-                "title": item["title"][:100],
-            })
+            state["ids"][link_hash(m["link"], m["title"])] = now_iso
+            state["ids"][title_hash(m["title"])] = now_iso
             news_data.append({
-                "title":      item["title"],
-                "link":       item["link"],
-                "source":     item["source"],
-                "summary_tr": item.get("summary_tr", ""),
-                "lean":       item["lean"],
-                "score":      item["score"],
+                "title":      m["title"],
+                "link":       m["link"],
+                "source":     m["source"],
+                "summary_tr": m.get("summary_tr", ""),
+                "lean":       m["lean"],
+                "score":      m["score"],
                 "ts":         now_iso,
+                "cluster_id": cluster["id"],
             })
 
+        # Cluster basina tek fingerprint -> cross-run dedup
+        state["fingerprints"].append({
+            "tokens":     sorted(cluster["tokens"]),
+            "ts":         now_iso,
+            "title":      cluster["members"][0]["title"][:100],
+            "cluster_id": cluster["id"],
+        })
+
+    # Gonderilmeyen tum candidate'lari da state'e isaretle (LLM bir daha bakmasin)
     for c in candidates:
         state["ids"].setdefault(link_hash(c["link"], c["title"]), now_iso)
         state["ids"].setdefault(title_hash(c["title"]), now_iso)
 
     save_state(state)
     save_news_data(news_data)
-    log(f"Telegram: {telegram_sent}, web: {web_recorded}. State: {len(state['ids'])} id / {len(state['fingerprints'])} fp. News store: {len(news_data)}.")
+    log(f"Telegram: {telegram_sent} cluster, web: {web_recorded} item. State: {len(state['ids'])} id / {len(state['fingerprints'])} fp. News store: {len(news_data)}.")
 
 
 if __name__ == "__main__":
