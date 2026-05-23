@@ -42,7 +42,8 @@ PER_FEED_LIMIT       = 10
 MIN_SCORE            = 6
 MAX_DELIVER          = 15
 SEND_DELAY_S         = 3.5
-NEWS_DATA_KEEP_DAYS  = 30
+NEWS_DATA_KEEP_DAYS  = 90
+NEWS_DATA_MAX_ITEMS  = 5000
 
 TURKEY_TZ   = timezone(timedelta(hours=3))
 QUIET_HOURS = set(range(1, 7))  # 01:00-06:59 TR
@@ -178,7 +179,7 @@ def save_news_data(items):
     cutoff = (datetime.now(timezone.utc) - timedelta(days=NEWS_DATA_KEEP_DAYS)).isoformat()
     items = [it for it in items if it.get("ts", "") >= cutoff]
     items.sort(key=lambda it: it.get("ts", ""), reverse=True)
-    items = items[:1000]
+    items = items[:NEWS_DATA_MAX_ITEMS]
     tmp = NEWS_DATA_FILE + ".tmp"
     with open(tmp, "w") as f:
         json.dump(items, f, ensure_ascii=False, indent=1)

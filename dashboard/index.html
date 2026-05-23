@@ -6,7 +6,7 @@
   <title>Haber Botu</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Source+Serif+4:opsz,wght@8..60,500;8..60,700;8..60,800&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="/style.css" />
 </head>
 <body>
@@ -27,17 +27,29 @@
   <nav class="filter-bar">
     <div class="filter-bar-inner">
       <div class="filter-group">
-        <span class="filter-label">ZAMAN</span>
+        <span class="filter-label">HIZLI</span>
         <div class="chip-row" id="time-filters">
-          <button class="chip" data-time="1">Son 1 saat</button>
+          <button class="chip" data-time="1">1 saat</button>
           <button class="chip" data-time="6">6 saat</button>
           <button class="chip active" data-time="24">24 saat</button>
           <button class="chip" data-time="168">7 gün</button>
+          <button class="chip" data-time="720">30 gün</button>
           <button class="chip" data-time="0">Tümü</button>
         </div>
       </div>
+
+      <div class="filter-group date-range">
+        <span class="filter-label">ARALIK</span>
+        <div class="date-inputs">
+          <input id="date-from" type="datetime-local" />
+          <span class="dash">—</span>
+          <input id="date-to" type="datetime-local" />
+          <button id="date-clear" class="link-btn" type="button">Temizle</button>
+        </div>
+      </div>
+
       <div class="filter-group">
-        <span class="filter-label">SİYASİ YÖN</span>
+        <span class="filter-label">YÖN</span>
         <div class="chip-row" id="lean-filters">
           <button class="chip active" data-lean="all">Tümü</button>
           <button class="chip" data-lean="left"><span class="dot lean-left"></span>Sol</button>
@@ -45,6 +57,7 @@
           <button class="chip" data-lean="right"><span class="dot lean-right"></span>Sağ</button>
         </div>
       </div>
+
       <div class="filter-group right">
         <span class="filter-label">SIRALAMA</span>
         <select id="sort-by" class="select-mini">
@@ -90,6 +103,9 @@
         <span class="muted" id="feed-count"></span>
       </div>
       <div id="story-container" class="stories"></div>
+      <div id="load-more-wrap" class="load-more-wrap hidden">
+        <button id="load-more" class="btn">Daha fazla göster</button>
+      </div>
     </section>
   </main>
 
