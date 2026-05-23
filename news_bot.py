@@ -454,9 +454,9 @@ def main():
         return
 
     tr_now = datetime.now(TURKEY_TZ)
-    if tr_now.hour in QUIET_HOURS:
-        log(f"Sessiz saat ({tr_now.strftime('%H:%M')} TR) — atlandi.")
-        return
+    quiet = tr_now.hour in QUIET_HOURS
+    if quiet:
+        log(f"Sessiz saat ({tr_now.strftime('%H:%M')} TR) — Telegram atlandi, web'e kaydedilecek.")
 
     state = load_state()
     candidates = collect_candidates(state)
@@ -471,12 +471,20 @@ def main():
 
     news_data = load_news_data()
     now_iso = datetime.now(timezone.utc).isoformat()
-    delivered_count = 0
+    telegram_sent = 0
+    web_recorded = 0
     for item in keepers:
         if is_duplicate(item["title"], item["link"], state):
             continue
-        if deliver(item):
-            delivered_count += 1
+        # Sessiz saatte Telegram'i atla; her durumda web'e + state'e kaydet.
+        if quiet:
+            recorded = True
+        else:
+            recorded = deliver(item)
+            if recorded:
+                telegram_sent += 1
+        if recorded:
+            web_recorded += 1
             state["ids"][link_hash(item["link"], item["title"])] = now_iso
             state["ids"][title_hash(item["title"])] = now_iso
             state["fingerprints"].append({
@@ -500,7 +508,7 @@ def main():
 
     save_state(state)
     save_news_data(news_data)
-    log(f"Gonderildi: {delivered_count}. State: {len(state['ids'])} id / {len(state['fingerprints'])} fp. News store: {len(news_data)}.")
+    log(f"Telegram: {telegram_sent}, web: {web_recorded}. State: {len(state['ids'])} id / {len(state['fingerprints'])} fp. News store: {len(news_data)}.")
 
 
 if __name__ == "__main__":
