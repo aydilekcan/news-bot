@@ -1,5 +1,95 @@
 [
  {
+  "title": "Beyaz Saray: İran'la anlaşmanın tamamlanması günler sürebilir",
+  "link": "https://www.aa.com.tr/tr/dunya/beyaz-saray-iranla-anlasmanin-tamamlanmasi-gunler-surebilir/3947650",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Beyaz Saray, ABD-İran anlaşmasının 'iyi bir noktada' olduğunu ancak tamamlanmasının günler sürebileceğini duyurdu.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-24T21:00:50.684945+00:00",
+  "cluster_id": "c1bff9bdb1469"
+ },
+ {
+  "title": "Aydın’dan sonra Afyon: ‘Facebook yetkilerimiz kayyum yöneticileri tarafından kaldırılmıştır’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/aydin-dan-sonra-afyon-facebook-yetkilerimiz-kayyum-yoneticileri-tarafindan-kaldirilmistir-2506724",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Afyon İl Başkanlığı, mahkeme kararı sonrasında Facebook hesaplarının kayyum yöneticileri tarafından kaldırıldığını duyurdu.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-05-24T21:00:50.684945+00:00",
+  "cluster_id": "c94ba70cdf4b3"
+ },
+ {
+  "title": "‘Bilgi Üniversitesi yeniden açılıyor’ iddiası: Gözler Resmi Gazete’ye çevrildi",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/bilgi-universitesi-yeniden-aciliyor-iddiasi-gozler-resmi-gazete-ye-cevrildi-2506713",
+  "source": "Cumhuriyet",
+  "summary_tr": "Bilgi Üniversitesi, öğrenci tepkileri sonrasında kapatma kararından geri adım attı; yeniden açılması bekleniyor.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-05-24T21:00:50.684945+00:00",
+  "cluster_id": "cd92800ebbb93"
+ },
+ {
+  "title": "Polis müdahalesiyle yapılan CHP Genel Merkezi tahliyesinde neler yaşandı?",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPREZoTXlDbTZUalB1N2dxNTlVYnpMb05idVlxb1U5S05Md3B4WUhmRkxscDY1d1hwNGVjU2h6YURtTWk1TGg5T1VqTE5kQkVEWTM5VUx0TWNIa2Z4S3dZNlI3QXN6ZTlQenJZWTE0R0k4aTl0dmxjWU5XVHdrOXJMTkV0TmlMRXRUeHNGU2JzVWxGb3MtTng2SEhURThIa05VOEtnc2NQZVBIOU5y?oc=5",
+  "source": "T24",
+  "summary_tr": "Polis müdahalesi ile CHP Genel Merkezi tahliye edildi.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-05-24T21:00:50.684945+00:00",
+  "cluster_id": "c4c07014152e3"
+ },
+ {
+  "title": "DEM Parti İmralı Heyeti Abdullah Öcalan ile görüştü",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUVFKS2xZSlRYTjhDbUIzbVpMSVozZEEtSW9GbjQxUzBEdEhid3BNNjQ5NHZaOHE5cWZnalBaeHpRTmJEVm9hWko4NjBLTmJwVlcyQU1YdkV5ZzFHdXNTNTc3SEdVT2ZQQ0MtVUdPQVVQSktPRElpNmZMamZGSlA5bmVyNA?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "DEM Parti İmralı Heyeti Abdullah Öcalan ile görüştü.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-05-24T21:00:50.684945+00:00",
+  "cluster_id": "c9a26486e2e28"
+ },
+ {
+  "title": "CHP Genel Merkezi’ne polis operasyonu bekleniyor: Medyascope muhabirleri anlattı",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQXpBRVI0eWlHUjhkRFRxSldWTmp5SjJ3U09XYl9ra2pLX0o2Smh5T2NKOWNqbWpPalVmQnNkZHZqSkY5ZE42U2VoZWVucUdNeHpjN1lqQzhKa2VCWXlrNWVPYTRHeVJNOHpxN0N2QVRlWUJCLVJ6Skl1d3JST2w4UVlLaG56Zw?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "CHP Genel Merkezi'ne polis operasyonu yapılması bekleniyor.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-05-24T21:00:50.684945+00:00",
+  "cluster_id": "cc1d6f6980144"
+ },
+ {
+  "title": "Ümit Dikbayır’dan Kılıçdaroğlu çıkışı: “CHP’nin başında olsaydı gelmezdim”",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/umit-dikbayir-dan-kilicdaroglu-cikisi-chp-nin-basinda-olsaydi-gelmezdim-2506710",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Sakarya Milletvekili Ümit Dikbayır, mahkeme kararıyla başkanlığa dönen Kılıçdaroğlu hakkında eleştiri yaptı.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-05-24T21:00:50.684945+00:00",
+  "cluster_id": "c7f93cd3d70ef"
+ },
+ {
+  "title": "Ümit Dikbayır'dan Kemal Kılıçdaroğlu ile ilgili çarpıcı sözler",
+  "link": "https://www.sozcu.com.tr/umit-dikbayir-kemal-kilicdaroglu-sert-sozler-o-olsaydi-gelmezdim-p322504",
+  "source": "Sözcü",
+  "summary_tr": "CHP Sakarya vekili Ümit Dikbayır, Kılıçdaroğlu'nun mahkeme kararıyla başkanlığa dönüşüyle ilgili çarpıcı açıklamalar yaptı.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-05-24T21:00:50.684945+00:00",
+  "cluster_id": "c3de8a0bdab85"
+ },
+ {
+  "title": "Yandaşlar ihraç edilecek CHP’li vekil listesi paylaştı",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ0dYS1VyaDExQ1lhNTJuakRuWWhZVDU1empveGdfVF9ZSmNudkFOenNTLUpfaDFaZnViZ1RMbFZXVXF5M1dPQV9jUjRiM3FxR3h3ckl1ZmxEM1R5Nzd0bGR0U1hsUU9Hb19nZDdBQXVxdGY4aTVEeE1vUE9PQlR0b3gteGYtTlhpcVIzd3V6U0gwRnZqZ3c?oc=5",
+  "source": "soL",
+  "summary_tr": "CHP'de ihraç edilecek vekiller listesi açıklandı.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-05-24T21:00:50.684945+00:00",
+  "cluster_id": "c5a0db90374d3"
+ },
+ {
   "title": "İsrail cumhurbaşkanı: Korkunç bir canavarlaşma süreci yaşanıyor",
   "link": "https://www.diken.com.tr/israil-cumhurbaskani-korkunc-bir-canavarlasma-sureci-yasaniyor/?utm_source=rss&utm_medium=rss&utm_campaign=israil-cumhurbaskani-korkunc-bir-canavarlasma-sureci-yasaniyor",
   "source": "Diken",
