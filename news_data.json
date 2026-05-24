@@ -1,5 +1,125 @@
 [
  {
+  "title": "Rusya'dan Ukrayna'ya saldırı: Ölü ve yaralılar var",
+  "link": "https://www.cumhuriyet.com.tr/dunya/rusya-dan-ukrayna-ya-saldiri-olu-ve-yaralilar-var-2506536",
+  "source": "Cumhuriyet",
+  "summary_tr": "Rusya, Kiev'e gece yarısından beri hava saldırıları düzenliyor; ölü ve yaralılar var.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-24T07:00:52.865254+00:00",
+  "cluster_id": "cac42167f55c1"
+ },
+ {
+  "title": "ABD ve İran’ın 60 günlük ateşkes uzatmasına yakın olduğu iddia edildi",
+  "link": "https://www.sozcu.com.tr/abd-ve-iran-in-60-gunluk-ateskes-uzatmasina-yakin-oldugu-iddia-edildi-p322364",
+  "source": "Sözcü",
+  "summary_tr": "ABD ile İran'ın Hürmüz Boğazı ve nükleer programını kapsayan 60 günlük ateşkes uzatmasına yakın olduğu iddia edildi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-24T07:00:52.865254+00:00",
+  "cluster_id": "cb50487509805"
+ },
+ {
+  "title": "ABD İran arasında Hürmüz Boğazı ve nükleer müzakereleri kapsayan 60 günlük anlaşma iddiası",
+  "link": "https://www.trthaber.com/haber/dunya/abd-iran-arasinda-hurmuz-bogazi-ve-nukleer-muzakereleri-kapsayan-60-gunluk-anlasma-iddiasi-946121.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD ile İran'ın Hürmüz Boğazı'nın açılması ve nükleer programının sınırlandırılmasını kapsayan 60 günlük anlaşma müzakere edildiği iddia edildi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-24T07:00:52.865254+00:00",
+  "cluster_id": "c55026d245182"
+ },
+ {
+  "title": "İsrail basını yazdı: Trump’ın İran planı Tel Aviv’i rahatsız etti",
+  "link": "https://www.cumhuriyet.com.tr/dunya/israil-basini-yazdi-trump-in-iran-plani-tel-aviv-i-rahatsiz-etti-2506538",
+  "source": "Cumhuriyet",
+  "summary_tr": "İsrail basını, Trump'ın İran'la geçici nükleer anlaşması planının Tel Aviv'i rahatsız ettiğini yazdı.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-05-24T07:00:52.865254+00:00",
+  "cluster_id": "c10737c2159e7"
+ },
+ {
+  "title": "İsrail'in Gazze'ye saldırısında anne, baba ve 1 yaşındaki bebekleri hayatını kaybetti",
+  "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzeye-saldirisinda-anne-baba-ve-1-yasindaki-bebekleri-hayatini-kaybetti/3947136",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail'in Gazze'deki hava saldırısında aynı aileden anne, baba ve 1 yaşındaki bebekler hayatını kaybetti.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-24T07:00:52.865254+00:00",
+  "cluster_id": "ce85c15982698"
+ },
+ {
+  "title": "Kapatılan Bilgi Üniversitesi’nde Rektör Yazgan’dan kampüsü kapatma kararı: Öğrenci ve akademisyenler kampüse alınmayacak, erzak girişine izin verilmeyecek",
+  "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQS184OXVXQzFSR2hrX2gyb3E3Z3pTb2xnM3VkbWt5dzktTzdKZmZqQ2tIMjBCUlM4SnRvVkxwWVloUG83MWtQYWw5ZlhLaGQ2MDhCbDNpN2M3TE56d0NQZ3VKeEN3YmZZbDVVUlhlYjlhS3NyWUh1NVNlWmtUOHVISlNobXlXYVROWkVvTnRNdjZqSnlSZmNkRVFqRFVvY3lyLThMckN0SXZjbTJSNGZxOHZWaHZIeGhwZXVraGNER0M0a0tqT28zWUQ0MEY3WThmZTNTSlBmRUNnZWpKSFhWU240TjBGWTZpSFA5RmtySlB1U2wyaDg0V0xkaGVBV194OEVnQlFIRlB0MV94RmZma1pR?oc=5",
+  "source": "T24",
+  "summary_tr": "Kapatılan Bilgi Üniversitesi'nde Rektör Yazgan, öğrenci ve akademisyenlerin kampüse alınmayacağı ve erzak girişine izin verilmeyeceği kararını duyurdu.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-05-24T07:00:52.865254+00:00",
+  "cluster_id": "c285e81b2a9c3"
+ },
+ {
+  "title": "Iran executes person for sending information to US, Israel during war, judiciary says",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWEhRY25USjF5eDJsUHVRSGprTHFpbE84WlRfWjV0SVA3bmtzUmZkNVA3SWhfVVFtVHJja01Fek1ocDRiNlB4cDM5Z0o0Y3h2TUJGQ05EWEZhSWJyTGFHdzVxSmN0Sk9UTGs3Ti1RNG1yRF94TGRacEVvMkptZ1VCRnVJMnBYNEZRdlhOX2JpRW9COEg0Mm1pdk5VNWpWOHVxMlNOTTVBNHk5VGV4N0otQmNnYmdUa2dQT2hsYzlCSGlLU3A0alVYbjN3?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran, savaş sırasında ABD ve İsrail'e bilgi gönderdiği gerekçesiyle bir kişiyi idam etti.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-24T07:00:52.865254+00:00",
+  "cluster_id": "c3943b54c4118"
+ },
+ {
+  "title": "Özgür Özel ve Kemal Kılıçdaroğlu arasında ikinci görüşme",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-ve-kemal-kilicdaroglu-arasinda-ikinci-gorusme-2506535",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Genel Başkanı Özgür Özel ile Kemal Kılıçdaroğlu arasında ikinci görüşme gerçekleşti.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-05-24T07:00:52.865254+00:00",
+  "cluster_id": "c66ffaf9e1e7f"
+ },
+ {
+  "title": "GYO’lara kar dağıtım şartı netleşti: Yeni düzenleme yürürlüğe girdi",
+  "link": "https://www.sozcu.com.tr/gyo-lara-kar-dagitim-sarti-netlesti-yeni-duzenleme-yururluge-girdi-p322368",
+  "source": "Sözcü",
+  "summary_tr": "Gayrimenkul yatırım ortaklıklarının kar dağıtım şartları belirlendi; yeni düzenleme yürürlüğe girdi.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-24T07:00:52.865254+00:00",
+  "cluster_id": "c1eec780fe197"
+ },
+ {
+  "title": "Gayrimenkul yatırım ortaklıklarında kar dağıtım şartları belirlendi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/gayrimenkul-yatirim-ortakliklarinda-kar-dagitim-sartlari-belirlendi/3947137",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Gayrimenkul yatırım ortaklıklarında kar dağıtım şartları belirlendi.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-24T07:00:52.865254+00:00",
+  "cluster_id": "c80ed2e20d80e"
+ },
+ {
+  "title": "CHP Genel Merkezi önünde arbede: Kılıçdaroğlu ekibi binaya geldi, çevik kuvvet sevk edildi",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZUxKQ3F6eHdJSl9fUlNnRXFvR0lkeUc5dlJIRjNxbkhjWDdLRlhZSXRueExVYjltalcwbmMyVGFRUTkwQVpfTnJEMHVtMzJrU3lobk9pc0xPVGJ6bmhMcTZIWHBYYTEza25iSFlZdjJaSTJScFhRcE50bVlaQ21qS1BKc2pjTHg1dEw4ZjNYZ3ZDMnByQWVzclNIbnRwci1SaUJ2T2RVSEMxQl9GRUV2bEhNRmNyOWJoNllv?oc=5",
+  "source": "soL",
+  "summary_tr": "CHP Genel Merkezi'nde arbede yaşandı; Kılıçdaroğlu ekibi binaya geldi, çevik kuvvet sevk edildi.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-05-24T07:00:52.865254+00:00",
+  "cluster_id": "ccbaeaadebd36"
+ },
+ {
+  "title": "Özgür Özel’in kurultay planı belli oldu",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONGdQeXI4SExwYlllNXUtbm1WYkVtXzBsNjFVdzhoQ1lwZG5NZnQzcmdzMVUwRXFoS1dmbnd1eFpEVVFoMV9nRVV3M1oyaXNRSTFnSHlRRWsxZmE2ZHJLc1lNZDV3RmdUWUg5R2pmYV9IQ0JXQmJ4RjgtckZiRjEyUjJR?oc=5",
+  "source": "soL",
+  "summary_tr": "CHP Genel Başkanı Özgür Özel'in kurultay planı açıklandı.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-05-24T07:00:52.865254+00:00",
+  "cluster_id": "c317545e7285f"
+ },
+ {
   "title": "Russia pounds Kyiv with missiles and drones, shaking city center and injuring 10",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ2JXX3JSekpLS3g3WUdNMHhscHJNNk53TEx0bUxidktWMndCaFZfbTV1cFZhUGhuVWN2aE1RbEhZR2R0OTJQR2dpY2hKZDJQMUZuMmtoa25IOENLT3R3WkFoRWdGYXRZaVk2VG85MzFpODY1WFNQTHhzazlBVzFIX29aSDRSTWRpTWx6ZmJqNkptT0NFMC0wVnYwWmJ0YkxjRjRwUV8wZw?oc=5",
   "source": "AP",
