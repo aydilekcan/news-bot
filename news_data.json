@@ -1,5 +1,155 @@
 [
  {
+  "title": "Ben-Gvir’den Netanyahu’ya çağrı: Trump’ın masasına vur, Lübnan’da savaşa dön",
+  "link": "https://www.cumhuriyet.com.tr/dunya/ben-gvir-den-netanyahu-ya-cagri-trump-in-masasina-vur-lubnan-da-savasa-don-2506833",
+  "source": "Cumhuriyet",
+  "summary_tr": "İsrail Ulusal Güvenlik Bakanı Ben-Gvir, Netanyahu'ya Trump'ın masasına vurarak Lübnan'da askeri operasyonlara dönmesi çağrısında bulundu.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-25T12:01:03.234962+00:00",
+  "cluster_id": "c1d869e49cded"
+ },
+ {
+  "title": "Trump’tan İran açıklaması: Ya büyük bir anlaşma olacak ya da hiç olmayacak",
+  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-iran-aciklamasi-ya-buyuk-bir-anlasma-olacak-ya-da-hic-olmayacak-2506828",
+  "source": "Cumhuriyet",
+  "summary_tr": "Trump, İran ile yürütülen görüşmelere ilişkin 'Ya büyük bir anlaşma olacak ya da hiç olmayacak' dedi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-25T12:01:03.234962+00:00",
+  "cluster_id": "c02592a584663"
+ },
+ {
+  "title": "BenGvir'den Netanyahu'ya: Trump'ın masasına vurup Lübnan'da savaşa geri döneceğimizi söyle",
+  "link": "https://www.trthaber.com/haber/dunya/ben-gvirden-netanyahuya-trumpin-masasina-vurup-lubnanda-savasa-geri-donecegimizi-soyle-946221.html",
+  "source": "TRT Haber",
+  "summary_tr": "İsrail Ulusal Güvenlik Bakanı BenGvir, Netanyahu'ya Trump'ın masasına vurarak Lübnan'da askeri operasyonlara dönüş yapılacağını söylemesi çağrısında bulundu.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-25T12:01:03.234962+00:00",
+  "cluster_id": "c9a84418332d3"
+ },
+ {
+  "title": "CHP'de 'ikili yapı' dönemi: Özel'in önündeki seçenekler ve riskler neler?",
+  "link": "https://www.bbc.com/turkce/articles/cpvppnmg399o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "CHP'ye verilen 'mutlak butlan' kararı sonrası partide 'ikili yapı' dönemine girildi; Kılıçdaroğlu ve Özel'in liderlik pozisyonları çatışmaya neden oldu.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-05-25T12:01:03.234962+00:00",
+  "cluster_id": "c1e4931255ee4"
+ },
+ {
+  "title": "AKP Sözcüsü Çelik: 'Cumhurbaşkanı Erdoğan kırmızı çizgimizdir'",
+  "link": "https://www.bbc.com/turkce/articles/c0k228dldjjo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "AKP Sözcüsü Çelik, CHP Genel Merkezi'nin polis tarafından tahliyesine ilişkin 'Cumhurbaşkanı Erdoğan kırmızı çizgimizdir' dedi ve müdahalenin CHP'lilerin kendi aralarındaki çatışmadan kaynaklandığını iddia etti.",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-05-25T12:01:03.234962+00:00",
+  "cluster_id": "c32c4a60a50ed"
+ },
+ {
+  "title": "CHP'ye 'mutlak butlan' kararı için AKP'den ilk açıklama geldi",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-ye-mutlak-butlan-karari-icin-akp-den-ilk-aciklama-geldi-2506826",
+  "source": "Cumhuriyet",
+  "summary_tr": "AKP Sözcüsü Çelik, CHP'ye yönelik 'mutlak butlan' kararında AKP'nin 'hiçbir şekilde' rol almadığını savundu.",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-05-25T12:01:03.234962+00:00",
+  "cluster_id": "c105ff816c5b9"
+ },
+ {
+  "title": "AK Parti Sözcüsü Çelik: Siyasi zorbalığa, siyasi eşkıyalığa asla izin vermeyiz",
+  "link": "https://www.trthaber.com/haber/gundem/ak-parti-sozcusu-celik-siyasi-zorbaliga-siyasi-eskiyaliga-asla-izin-vermeyiz-946225.html",
+  "source": "TRT Haber",
+  "summary_tr": "AK Parti Sözcüsü Çelik, istinafın CHP kurultay davası kararına ilişkin 'siyasi zorbalığa, siyasi eşkıyalığa asla izin vermeyiz' dedi.",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-05-25T12:01:03.234962+00:00",
+  "cluster_id": "c4c473255fa5a"
+ },
+ {
+  "title": "Kılıçdaroğlu Genel Merkez'i, Özel Meclis'i işaret etti: Mutlak butlan sonrası CHP'de neler oluyor?",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDNSWXpraUUxb2pqWnZVaUhFRXVOTFloUmZ2WDRpcm1pNmxRNG5xR0J4eVFQeHY2VW42QXMzV29qSkJTVXBCUktlVTNzZlRLZ3dCcjgzMTI0czRxM2JWbE82T3lWSG95RFJCWnhQOTJuNzlLeGgzTGV5Wmp1NklCYjA0TGZTNDBwMjRocUJFSldQRi02QlduRkEtY3k1djZNbmtFdHBzU2d5WGsyV0VMNHFHQXZTXzJUYVJyZmdIVWo?oc=5",
+  "source": "soL",
+  "summary_tr": "Kılıçdaroğlu Genel Merkez'i, Özel Meclis'i işaret ederek 'mutlak butlan' sonrası CHP'deki yapıyı eleştirdi.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-05-25T12:01:03.234962+00:00",
+  "cluster_id": "c37ad936ce3f4"
+ },
+ {
+  "title": "AKP'den ikinci Bilgi Üniversitesi kararı için 'kamu yararı' açıklaması",
+  "link": "https://www.bbc.com/turkce/articles/c042x3pn63zo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Bilgi Üniversitesi kapatıldıktan üç gün sonra başka bir cumhurbaşkanı kararıyla yeniden açılması hakkında AKP 'kamu yararı' açıklaması yaptı.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-05-25T12:01:03.234962+00:00",
+  "cluster_id": "cd4c4a40030ec"
+ },
+ {
+  "title": "CHP Genel Merkezi'ne müdahaleden yeni ayrıntı: 'Kemal Bey'in ülkücüleri de oradaydı'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-genel-merkezi-ne-mudahaleden-yeni-ayrinti-kemal-bey-in-ulkuculeri-de-oradaydi-2506831",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Genel Merkezi'ni ele almaya çalışan grubun içinde 'Kemal Bey'in ülkücüleri' olarak bilinen grup da yer aldığı ortaya çıktı.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-05-25T12:01:03.234962+00:00",
+  "cluster_id": "c65aa696ebfaa"
+ },
+ {
+  "title": "Mansur Yavaş cephesinden, yandaş gazetecinin 'çay çorba' iddiasına yanıt: 'Kulis adı altında iftira...'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/mansur-yavas-cephesinden-yandas-gazetecinin-cay-corba-iddiasina-yanit-kulis-adi-altinda-iftira-2506830",
+  "source": "Cumhuriyet",
+  "summary_tr": "Mansur Yavaş cephesi, iktidara yakın gazetecinin 'çay-çorba' iddiasına 'kulis adı altında iftira' diye yanıt verdi.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-05-25T12:01:03.234962+00:00",
+  "cluster_id": "c261c818cb881"
+ },
+ {
+  "title": "Ziyaret sonrası DEM Parti heyeti ile Özel'den açıklama",
+  "link": "https://www.sozcu.com.tr/ziyaret-sonrasi-dem-parti-heyeti-ile-ozel-den-aciklama-p322650",
+  "source": "Sözcü",
+  "summary_tr": "DEM Parti heyeti Meclis'te CHP Genel Başkanı Özel'i ziyaret etti; ziyaret sonrası açıklama yapıldı.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-05-25T12:01:03.234962+00:00",
+  "cluster_id": "cc649cf57c0cb"
+ },
+ {
+  "title": "AK Parti Sözcüsü Çelik'ten istinafın CHP kurultay davası kararına ilişkin açıklama",
+  "link": "https://www.aa.com.tr/tr/gundem/ak-parti-sozcusu-celikten-istinafin-chp-kurultay-davasi-kararina-iliskin-aciklama/3948064",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "AK Parti Sözcüsü Çelik, CHP kurultay davası istinafı kararı hakkında 'CHP'lilerin kendi içindeki çatışma' olduğunu belirtti.",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-05-25T12:01:03.234962+00:00",
+  "cluster_id": "cd1325294b1d3"
+ },
+ {
+  "title": "Öcalan: Bir siyasi partiye balyozla girmek olacak şey mi; demokrasiye sanki bir lüksmüş, demagojiymiş gibi yaklaşmak vahim bir hata!",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTUF1ODRxVzRHZUJPemRrd2FrVEdJR1YxLUo2NkhKTWdTRHNLNnBkNUJ5b25kM3NpZXFEY2MxSGhISzJkUlF5NE1ncGw2SWRmR245c2N2cGduMU9QbkdwT0RwcFczcUkzSk94YnZJZFNQUEo4SlZiMS1ZOWt3TlZTajBYdW43aERNLTYwRnUxNEZGX1RDdUhkNkU0SUpZdmRaQ1lrUHgzaTZBTWJQcTRJMmVhazJkb3JvOHQwMHlBb1lSTFNHd1hwUFZVWXlCX3Vza2tYVVBud0tTX3ZvX0V3?oc=5",
+  "source": "T24",
+  "summary_tr": "Öcalan, CHP Genel Merkezi'ne balyozla girmek olayını eleştirerek demokrasiye demagojik yaklaşılmasını 'vahim bir hata' olarak nitelendirdi.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-05-25T12:01:03.234962+00:00",
+  "cluster_id": "cedab73e0e873"
+ },
+ {
+  "title": "Öcalan: \"Bir siyasi partinin genel merkezine kapısını balyozla kırarak girmek demokraside olacak şey midir?\"",
+  "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOT2NyNEY2MjE0QWhLZnRHY3BCbWhfS0xrRno3U3RsQVIwcVl6NExCUllheDA5SXZmbGF2UkYtbkduNWs1VnFFc1ZRZGY0WDVBZGxoNU1XYTI4TzZHdzRveFFOMm1jVlZ6TjhqSmpKWUZVQXhkVktKN1RKRlJIbHpNa2FDaXVSMFZUTE9pb3ZHcE5hQ2djZzlGV3Rjclh4anI1STNsTGtxbF9vRTJXYmZEVVYzUHJFWFUzWnNkcEU3MXF2b1o4RDlrZzI4V0ZnQTJsRVdsQWprUnlZdGhqdlRScHdjMV8wOURsSGxsSUJQN0JoSWl3TXgtS1ZkMWkzOWFuVXJJTA?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Öcalan, siyasi partinin genel merkezinin kapısının balyozla kırılmasının demokraside yeri olup olmadığını sorguladı.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-05-25T12:01:03.234962+00:00",
+  "cluster_id": "c7288873ea506"
+ },
+ {
   "title": "AKP, 'butlan'ın tarafı değilmiş: Atlatılmayacak kriz yok",
   "link": "https://www.diken.com.tr/akp-butlanin-tarafi-degilmis-atlatilmayacak-kriz-yok/?utm_source=rss&utm_medium=rss&utm_campaign=akp-butlanin-tarafi-degilmis-atlatilmayacak-kriz-yok",
   "source": "Diken",
