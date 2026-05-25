@@ -1,5 +1,155 @@
 [
  {
+  "title": "AKP, 'butlan'ın tarafı değilmiş: Atlatılmayacak kriz yok",
+  "link": "https://www.diken.com.tr/akp-butlanin-tarafi-degilmis-atlatilmayacak-kriz-yok/?utm_source=rss&utm_medium=rss&utm_campaign=akp-butlanin-tarafi-degilmis-atlatilmayacak-kriz-yok",
+  "source": "Diken",
+  "summary_tr": "AKP Sözcüsü Ömer Çelik, CHP'ye verilen 'mutlak butlan' kararına tepki göstererek 'çatışmanın CHP içinde' olduğunu söyledi.",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-05-25T11:01:06.624945+00:00",
+  "cluster_id": "c3a91f5229f84"
+ },
+ {
+  "title": "CHP Genel Merkezi'ne polis müdahalesinden yeni görüntüler: Özel'in makam katında yaşananlar paylaşıldı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-genel-merkezi-ne-polis-mudahalesinden-yeni-goruntuler-ozel-in-makam-katinda-yasananlar-paylasildi-2506821",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Genel Merkezi'ne polis müdahalesi sırasında Genel Başkan Özgür Özel'in makam odasında yaşanan olayların görüntüleri yayımlandı.",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-05-25T11:01:06.624945+00:00",
+  "cluster_id": "ce2428deb5140"
+ },
+ {
+  "title": "Özgür Özel'in TBMM'deki tabelası değiştirildi",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-in-tbmm-deki-tabelasi-degistirildi-2506816",
+  "source": "Cumhuriyet",
+  "summary_tr": "TBMM'de Özgür Özel'in odasındaki 'CHP Genel Başkanı' tabelası 'CHP Grup Başkanı' olarak değiştirildi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-25T11:01:06.624945+00:00",
+  "cluster_id": "c8856de0a4019"
+ },
+ {
+  "title": "İsimler tabeladan söküldü: Karar kapıya asıldı!",
+  "link": "https://www.sozcu.com.tr/dikkat-ceken-adim-isimler-tabeladan-sokuldu-karar-kapiya-asildi-p322637",
+  "source": "Sözcü",
+  "summary_tr": "Ankara Bölge Adliye Mahkemesi'nin CHP kurultaylarına ilişkin 'mutlak butlan' kararı, parti genel merkezi girişine asıldı.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-25T11:01:06.624945+00:00",
+  "cluster_id": "c7b29e9b1fed2"
+ },
+ {
+  "title": "Kiev’e ağır misilleme: Rusya Oreşnik füzelerini kullandı",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN2o2M2V2TjVwd1JTQWhzSUtvZDlobmxmeUtCbFg3YkxpRmJDQzFpMU5ENTl2N2Q2dkpMbTJ1TE5Bcml0UHlYV3ZDdm5TX2Z4Qlc5Ty1iTGh5N2lRUkJqS3MyWUNGTnpiaGNOOWVyWTZzQUhDY2NVb3hjeTR2QVhKdGJXSTl3aXN6SkQ0NTZVT3QzQ1hOQWdj?oc=5",
+  "source": "soL",
+  "summary_tr": "Rusya, Kiev'e Oreşnik füzelerini kullanarak ağır misilleme gerçekleştirdi.",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-05-25T11:01:06.624945+00:00",
+  "cluster_id": "c4bef9cd010f7"
+ },
+ {
+  "title": "Özgür Özel Meclis'te DEM Parti heyeti ile biraraya gelecek",
+  "link": "https://www.bbc.com/turkce/articles/c0k228dldjjo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Özgür Özel, Meclis'teki makam odasında Grup Başkanı olarak tabelasıyla DEM Parti heyetiyle görüşecek.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-25T11:01:06.624945+00:00",
+  "cluster_id": "c1e04a0611f15"
+ },
+ {
+  "title": "DEM Parti'den TBMM'de Özgür Özel'e ziyaret",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/dem-parti-den-tbmm-de-ozgur-ozel-e-ziyaret-2506819",
+  "source": "Cumhuriyet",
+  "summary_tr": "DEM Parti Eş Genel Başkanı Tuncer Bakırhan öncülüğündeki heyet, CHP Genel Başkanı Özgür Özel'i TBMM'de ziyaret etti.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-25T11:01:06.624945+00:00",
+  "cluster_id": "cbd9997c3554e"
+ },
+ {
+  "title": "Rusya’dan Erivan’a açık uyarı: İlişkiler doğrudan tehdit altında",
+  "link": "https://www.cumhuriyet.com.tr/dunya/rusya-dan-erivan-a-acik-uyari-iliskiler-dogrudan-tehdit-altinda-2506818",
+  "source": "Cumhuriyet",
+  "summary_tr": "Rusya Güvenlik Konseyi Başkan Yardımcısı Medvedev, Ermenistan'a Moskova ile ilişkileri koparma konusunda açık uyarı yaptı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-25T11:01:06.624945+00:00",
+  "cluster_id": "c5f5aea6f3774"
+ },
+ {
+  "title": "CHP Grup Başkanvekili Gökhan Günaydın: 'Dün olanları hiç kimse unutmayacak'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-grup-baskanvekili-gokhan-gunaydin-dun-olanlari-hic-kimse-unutmayacak-2506817",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Grup Başkanvekili Gökhan Günaydın, CHP genel merkezinin tahliyesini 'Türk siyaset tarihi açısından çok önemli' bulduğunu söyledi.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-05-25T11:01:06.624945+00:00",
+  "cluster_id": "c444ff53434ff"
+ },
+ {
+  "title": "Son dakika... CHP'de yaşananlar için AKP'den ilk açıklama...",
+  "link": "https://www.sozcu.com.tr/son-dakika-chp-ye-yonelik-mutlak-butlan-kararina-iliskin-akp-den-ilk-aciklama-p322642",
+  "source": "Sözcü",
+  "summary_tr": "AKP Sözcüsü Ömer Çelik, CHP'ye 'mutlak butlan' kararında 'çatışmanın CHP içinde' olduğunu belirtti.",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-05-25T11:01:06.624945+00:00",
+  "cluster_id": "c80cabe194273"
+ },
+ {
+  "title": "Özgür Özel'in 12. kattaki görüntüleri ilk kez paylaşıldı",
+  "link": "https://www.sozcu.com.tr/ozgur-ozel-in-12-kattaki-goruntuleri-ilk-kez-paylasildi-p322641",
+  "source": "Sözcü",
+  "summary_tr": "CHP Genel Başkanı Özgür Özel, polis baskını sırasında CHP Genel Merkezi'nin 12. katında yaşanan olayların görüntülerini paylaştı.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-05-25T11:01:06.624945+00:00",
+  "cluster_id": "c54b3db627a39"
+ },
+ {
+  "title": "İran’dan ABD görüşmeleri için dikkat çeken açıklama: \"Birçok konuda uzlaşı sağlandı\"",
+  "link": "https://www.sozcu.com.tr/iran-dan-abd-gorusmeleri-icin-dikkat-ceken-aciklama-bircok-konuda-uzlasi-saglandi-p322636",
+  "source": "Sözcü",
+  "summary_tr": "İran Dışişleri Bakanlığı, Tahran-Washington müzakerelerinde birçok konuda uzlaşı sağlandığını açıkladı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-25T11:01:06.624945+00:00",
+  "cluster_id": "c7c4bbb18aca5"
+ },
+ {
+  "title": "İran: ABD ile görüşülen konuların büyük bir kısmında sonuca ulaştığımızı söyleyebiliriz",
+  "link": "https://www.aa.com.tr/tr/gundem/iran-abd-ile-gorusulen-konularin-buyuk-bir-kisminda-sonuca-ulastigimizi-soyleyebiliriz/3948005",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Dışişleri Bakanlığı sözcüsü, Washington ile imzalanması muhtemel mutabakat zaptında sonuca ulaşıldığını söyledi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-25T11:01:06.624945+00:00",
+  "cluster_id": "c23a5981dc198"
+ },
+ {
+  "title": "Netanyahu admits difficulty influencing Trump decisions on Iran, sources say",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ2l0UGtUZ3J0TlhELW00ZDZ3TTRMSlhWU3g1RlZSMG5uMjIzczBiME4tUE5HZVFNSm5zazJqOGNwNlFRbk4xbl9CVVJtMkNhNjVBdFhBNmtJV0FIVGJLZ1BzbVd1UFFRZnBKemhzSURRVVBNbjZwYk0yczhIRFEtY19LS3NRQnZOTndlVDhnc2hNd3oxTkZUM2lYTm51dE9ReWZlR0dNSnhyNW5mb1M3cHotYUgwb0hnNWV1RzkzNnBBb2pn?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Netanyahu kaynaklar tarafından, İran konusunda Trump'ı etkilemekte zorluk çektiğini kabul ediyor.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-25T11:01:06.624945+00:00",
+  "cluster_id": "ccddc9d1e7023"
+ },
+ {
+  "title": "Yüz binler toplandı: İran savaşı gölgesinde Mekke'de hac",
+  "link": "https://www.dw.com/tr/yüz-binler-toplandı-iran-savaşı-gölgesinde-mekke-de-hac/a-77239395?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "İran-İsrail gerilimine rağmen yaklaşık 1,5 milyon Müslüman Mekke'de hac ibadetini yerine getirdi.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-25T11:01:06.624945+00:00",
+  "cluster_id": "cea5d78d96f1e"
+ },
+ {
   "title": "Bilgisayara el koyma ve aramaya izin veren düzenleme iptal",
   "link": "https://www.diken.com.tr/bilgisayara-el-koyma-ve-aramaya-izin-veren-duzenleme-iptal/?utm_source=rss&utm_medium=rss&utm_campaign=bilgisayara-el-koyma-ve-aramaya-izin-veren-duzenleme-iptal",
   "source": "Diken",
