@@ -1,5 +1,155 @@
 [
  {
+  "title": "Erdoğan kapattığı Bilgi Üniversitesi'ni yeniden açtı",
+  "link": "https://www.dw.com/tr/erdoğan-kapattığı-bilgi-üniversitesi-ni-yeniden-açtı/a-77283134?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Erdoğan, kapatma kararının ardından İstanbul Bilgi Üniversitesi'ni 3 gün sonra yeniden açmayı imzaladı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-25T07:01:02.967968+00:00",
+  "cluster_id": "c47428ea9ad55"
+ },
+ {
+  "title": "Rubio’dan dikkat çeken İran mesajı: \"Bugün yeni gelişmeler olabilir\"",
+  "link": "https://www.sozcu.com.tr/rubio-dan-dikkat-ceken-iran-mesaji-bugun-yeni-gelismeler-olabilir-p322569",
+  "source": "Sözcü",
+  "summary_tr": "ABD Dışişleri Bakanı Rubio, Washington-Tahran müzakerelerinde ilerleme sağlandığını ve bugün yeni gelişmeler olabileceğini söyledi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-25T07:01:02.967968+00:00",
+  "cluster_id": "c62a008314479"
+ },
+ {
+  "title": "Rubio, ABD ile İran arasında olası anlaşmaya ilişkin bugün gelişme olabileceğini söyledi",
+  "link": "https://www.aa.com.tr/tr/dunya/rubio-abd-ile-iran-arasinda-olasi-anlasmaya-iliskin-bugun-gelisme-olabilecegini-soyledi/3947735",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Dışişleri Bakanı Rubio, ABD-İran anlaşması müzakerelerinin devam ettiğini ve bugün gelişme olabileceğini açıkladı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-25T07:01:02.967968+00:00",
+  "cluster_id": "cf645a68a1c91"
+ },
+ {
+  "title": "Rubio says US will find 'another way' if Iran talks fail",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVngxZVRLZ1JuQXprdzRzMDIwazZnY2tvWExLS2ZlNkhEMWYxeVF4YTVldGFYSEt4dVU1NEo5bng1Sm9EUFFZNzN3bTJZR1Z1akRjd1o2emJhU0J3TGMtZVZfcWI4ejdyNWhvd1hXRmRPVkFXYmFKUWl0YVM4Q2pyeHJmQW1jSWxsaDdfVXBORmFWQjcwamxWSXFHYlE4ZDFtcGo1SlRzT3RwSHJ3?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rubio, İran müzakerelerine ilişkin 'eğer başarısız olursa başka yol bulacağız' dedi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-25T07:01:02.967968+00:00",
+  "cluster_id": "cfac7ba057a84"
+ },
+ {
+  "title": "Rubio says US will either have a good agreement with Iran or deal with it 'another way'",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQXJPbzB5am5ZdHNqZkJRREdQZ0hwcUI5SmpIR2szdERaa0ZoZG94RmQ2RjkzcXpuRUt6MldxNTUtZ3BneGdpTTFNUUxnUllZekZ0UnllRkl5ejFJSU01NGhJWF9PRDJvWUJYSkQ3c0FUVWplUHdod1BSVTk1NC0xdXA4ekx5a3Y0YV9xMk5oVWpQS3pXMzBXLVRWX2lDZWthTkZpUTFjMVl6MTd2b3VqT09BcTFNSkwyNmJMVUQwemFSbXdWT2UyWnZBLUxBdw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rubio, ABD'nin İran ile ya iyi bir anlaşma yapacağını ya da başka yollarla muhteviyatı sağlayacağını söyledi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-25T07:01:02.967968+00:00",
+  "cluster_id": "cfac7ba057a84"
+ },
+ {
+  "title": "Ermenistan: Türkiye demiryolu ticarete açıldı",
+  "link": "https://www.diken.com.tr/ermenistan-turkiye-demiryolu-ticarete-acildi/?utm_source=rss&utm_medium=rss&utm_campaign=ermenistan-turkiye-demiryolu-ticarete-acildi",
+  "source": "Diken",
+  "summary_tr": "Ermenistan Başbakanı Paşinyan, Türkiye demiryolu hattının ticarete açıldığını duyurdu.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-25T07:01:02.967968+00:00",
+  "cluster_id": "ca622ced9da5f"
+ },
+ {
+  "title": "Davutoğlu’ndan 'Bilgi Üniversitesi' açıklaması: '48 saat içinde birbirine zıt iki çelişkili karar'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/davutoglu-ndan-bilgi-universitesi-aciklamasi-48-saat-icinde-birbirine-zit-iki-celiskili-karar-2506767",
+  "source": "Cumhuriyet",
+  "summary_tr": "Gelecek Partisi lideri Davutoğlu, Bilgi Üniversitesi kararının geri çekilmesini '48 saat içinde çelişkili iki karar' olarak eleştirdi.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-05-25T07:01:02.967968+00:00",
+  "cluster_id": "c2d32a062ccdf"
+ },
+ {
+  "title": "Küresel piyasalarda İran iyimserliği: Petrol düştü, borsalar yükseldi",
+  "link": "https://www.sozcu.com.tr/kuresel-piyasalarda-iran-iyimserligi-petrol-dustu-borsalar-yukseldi-p322574",
+  "source": "Sözcü",
+  "summary_tr": "ABD-İran anlaşma ihtimali petrol fiyatlarını düşürdü, küresel borsalar yükseldi.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-25T07:01:02.967968+00:00",
+  "cluster_id": "c4a243b5aa994"
+ },
+ {
+  "title": "Petrolde sert düşüş: İran anlaşması beklentisi fiyatları çakıldı",
+  "link": "https://www.sozcu.com.tr/petrolde-sert-dusus-iran-anlasmasi-beklentisi-fiyatlari-cakildi-p322570",
+  "source": "Sözcü",
+  "summary_tr": "ABD-İran uzlaşı beklentisiyle Brent petrol sert düştü, varil fiyatı geriledi.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-25T07:01:02.967968+00:00",
+  "cluster_id": "cfe588b460bec"
+ },
+ {
+  "title": "İsrail ordusu ateşkese rağmen Lübnan'da 10 belde için saldırı tehdidinde bulundu",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanda-10-belde-icin-saldiri-tehdidinde-bulundu/3947732",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyi ve doğusundaki 10 belde için saldırı tehdidi yayınladı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-25T07:01:02.967968+00:00",
+  "cluster_id": "c3a2ad47decec"
+ },
+ {
+  "title": "Brent petrolün varil fiyatı ABD-İran uzlaşısı beklentisiyle yüzde 5'in üzerinde geriledi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/brent-petrolun-varil-fiyati-abd-iran-uzlasisi-beklentisiyle-yuzde-5in-uzerinde-geriledi/3947728",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Brent petrol ABD-İran uzlaşı beklentisiyle varil başına yüzde 5'in üzerinde geriledi.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-25T07:01:02.967968+00:00",
+  "cluster_id": "c8b1391b72485"
+ },
+ {
+  "title": "Petrol fiyatları geriliyor",
+  "link": "https://www.trthaber.com/haber/ekonomi/petrol-fiyatlari-geriliyor-946191.html",
+  "source": "TRT Haber",
+  "summary_tr": "Trump'ın İran müzakerelerine yönelik 'yapıcı ilerleme' açıklamasının ardından petrol fiyatları geriledi.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-25T07:01:02.967968+00:00",
+  "cluster_id": "cc80ed561d0d3"
+ },
+ {
+  "title": "Trump, İran ile anlaşma için frene bastı: “Acele etmeyin”",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZGVMbHFvWDdXUWs0V2ZjQ0lFSk5KTTdpQmJLQTFPMmExdWs2b0h0OFVoUWVGU2ljSEdxUnBHaDBLSUJ1b1ZtLVBzODNPYld2LWxpMnpJUVNNT3dZTHhxd2xfOUNSRHc4STBkVHNlaGhTM25iWXVPdGljeER6WUVod3hxa0Q3UTF6a25rQWUtQWs?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Trump, İran ile anlaşma konusunda 'acele etmeyin' uyarısı yaparak temkinli bir mesaj verdi.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-25T07:01:02.967968+00:00",
+  "cluster_id": "cd3f15f2bc1a9"
+ },
+ {
+  "title": "Energy infrastructure damaged in missile attack on Russia's Belgorod region, local authorities say",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTE9RZDZ2N2FHck1HakdlV2RReHlYR2dWUnRGbHB2VHBxbW91cEtJMWFrOUxDNF9Bckp6QWN4dTFkcU0xekw4WUVmMjZrcW1sZmdPZW1xTmY5TW5VUGNZUnZhWUNNaWdNX2tRR3Z0YUtjUVRHSGR5OFB4S3pPUkFlbnllN3VuQ3llTS04TUcyTlUwcFE5djVjX2c3YmpzTy1mNXpUcWlScWVaZ1lZdm5ES3FoU1R5OG5RSzJHT2JtZWhQanFk?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya'nın Belgorod bölgesine yapılan füze saldırısında enerji altyapısı hasara uğradı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-25T07:01:02.967968+00:00",
+  "cluster_id": "c6d9d8c11304f"
+ },
+ {
+  "title": "Asian shares mostly gain and oil prices fall after Trump says peace talks on Iran war are proceeding",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdTkwYW9nZUowenF1ZHZyQjFQdVRaQldXblFzVE5rMG1aTDFCSW9mMXBfeDhOM1lFRFl5aXlKR2NVMXRTNFdCczBBQzliUmtEeUs5Qmticjk5ZEVIZmtpTUdoY2lSQnhkQWF3aG8yaUVJVklrR042d1Itc3RsajYtOXcwV3JHYk0zZDRIMlFpRmwwVkk?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump'ın İran barış müzakerelerinin ilerlediğine yönelik açıklamasının ardından Asya borsaları yükseldi, petrol düştü.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-25T07:01:02.967968+00:00",
+  "cluster_id": "c16b713063567"
+ },
+ {
   "title": "CHP Genel Merkezi'nin polis zoruyla tahliyesi, Özgür Özel'in memleketi Manisa'da protesto edildi",
   "link": "https://www.cumhuriyet.com.tr/siyaset/chp-genel-merkezi-nin-polis-zoruyla-tahliyesi-ozgur-ozel-in-memleketi-manisa-da-protesto-edildi-2506745",
   "source": "Cumhuriyet",
