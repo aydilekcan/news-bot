@@ -1,5 +1,85 @@
 [
  {
+  "title": "Kayyum fedaileri böyle geldi",
+  "link": "https://www.sozcu.com.tr/kayyum-fedaileri-boyle-geldi-p322527",
+  "source": "Sözcü",
+  "summary_tr": "CHP Genel Merkezi'ne hükümet müdahalesi: Kayyım tarafından parti binasına girişin engellendiği iddia ediliyor.",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-05-25T03:00:54.778868+00:00",
+  "cluster_id": "ceb75613169f2"
+ },
+ {
+  "title": "İktidar, kapısını kırıp CHP’ye girdi",
+  "link": "https://www.sozcu.com.tr/iktidar-kapisini-kirip-chp-ye-girdi-p322525",
+  "source": "Sözcü",
+  "summary_tr": "CHP'nin kayyımla müzakere sonrası İçişleri Bakanlığı polis kullanarak parti binasına girdi.",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-05-25T03:00:54.778868+00:00",
+  "cluster_id": "c578fc44f5322"
+ },
+ {
+  "title": "Trump'tan ABD müzakerecilerine: 'İran'la anlaşma için acele etmeyin'",
+  "link": "https://www.bbc.com/turkce/articles/cz728zwegdpo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Trump, ABD müzakerecilerine İran'la anlaşmada acele etmemesini söyledi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-25T03:00:54.778868+00:00",
+  "cluster_id": "c8929bfaa6d75"
+ },
+ {
+  "title": "Ekonominin hali mutlak harap",
+  "link": "https://www.sozcu.com.tr/ekonominin-hali-mutlak-harap-p322529",
+  "source": "Sözcü",
+  "summary_tr": "Sözcü, CHP'ye verilen yönetim kayyımlığı kararını hükümetin ekonomik politikasına eleştiri ile bağlantılandırıyor.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-05-25T03:00:54.778868+00:00",
+  "cluster_id": "ceba4d76234ac"
+ },
+ {
+  "title": "Londra’ya vaat CHP’ye butlan",
+  "link": "https://www.sozcu.com.tr/londra-ya-vaat-chp-ye-butlan-p322528",
+  "source": "Sözcü",
+  "summary_tr": "Sözcü, Hazine Bakanı Şimşek'in Londra ziyareti sırasında CHP'ye kayyım atanması kararını eleştiriyor.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-05-25T03:00:54.778868+00:00",
+  "cluster_id": "c8ed06682d378"
+ },
+ {
+  "title": "Kurultay olmazsa imza süreci başlıyor",
+  "link": "https://www.sozcu.com.tr/kurultay-olmazsa-imza-sureci-basliyor-p322526",
+  "source": "Sözcü",
+  "summary_tr": "CHP yönetimi kurultay yapılmazsa imza sürecine geçileceğini bildirdi.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-05-25T03:00:54.778868+00:00",
+  "cluster_id": "c3489cb32a8b0"
+ },
+ {
+  "title": "Taykonotları taşıyan uzay mekiği, Tiengong Uzay İstasyonu'na ulaştı",
+  "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/taykonotlari-tasiyan-uzay-mekigi-tiengong-uzay-istasyonu-na-ulasti-2506733",
+  "source": "Cumhuriyet",
+  "summary_tr": "Çin'in Tiengong Uzay İstasyonu'na yeni taykonot ekibi başarıyla ulaştı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-25T03:00:54.778868+00:00",
+  "cluster_id": "cae56e6e053a6"
+ },
+ {
+  "title": "Şıncou23 uzay mekiği Tiengong Uzay İstasyonu'na ulaştı",
+  "link": "https://www.trthaber.com/haber/bilim-teknoloji/sincou-23-uzay-mekigi-tiengong-uzay-istasyonuna-ulasti-946182.html",
+  "source": "TRT Haber",
+  "summary_tr": "Çin'in Tiengong Uzay İstasyonu'na yeni taykonot ekibi başarıyla ulaştı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-25T03:00:54.778868+00:00",
+  "cluster_id": "cae56e6e053a6"
+ },
+ {
   "title": "Katil İsrail'in Lübnan'a hava saldırılarında can kaybı 21'e yükseldi",
   "link": "https://www.trthaber.com/haber/dunya/katil-israilin-lubnana-hava-saldirilarinda-can-kaybi-21e-yukseldi-946180.html",
   "source": "TRT Haber",
