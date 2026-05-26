@@ -1,5 +1,145 @@
 [
  {
+  "title": "ABD'nin İran'a saldırılarına Tahran'dan tepki: 'Ateşkes ihlal edildi'",
+  "link": "https://www.bbc.com/turkce/articles/ce8ppzzpmlzo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD ordusu İran'ın füze sahalarını vurdu; Tahran, ateşkes ihlali iddiasında bulundu.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-26T15:01:03.383245+00:00",
+  "cluster_id": "c5c1e45a7a866"
+ },
+ {
+  "title": "İsrail Lübnan’da kara saldırılarını genişletti: 'Sarı Hat' aşıldı",
+  "link": "https://www.cumhuriyet.com.tr/dunya/israil-lubnan-da-kara-saldirilarini-genisletti-sari-hat-asildi-2507107",
+  "source": "Cumhuriyet",
+  "summary_tr": "İsrail, Lübnan'da 'Sarı Hat'ın ötesine kara saldırılarını genişletti; ateşkesi ihlal etti.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-26T15:01:03.383245+00:00",
+  "cluster_id": "c57f48e62af3a"
+ },
+ {
+  "title": "İsrail'den Güney Lübnanda yeni kara harekatı",
+  "link": "https://www.trthaber.com/haber/dunya/israilden-guney-lubnanda-yeni-kara-harekati-946321.html",
+  "source": "TRT Haber",
+  "summary_tr": "İsrail ordusunun Lübnan'da 'Sarı Hat'ın ötesine kara harekatı genişletmesi ateşkesi ihlal etti.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-26T15:01:03.383245+00:00",
+  "cluster_id": "cfce4bee48c2b"
+ },
+ {
+  "title": "Russia maintains attacks on Ukraine, as Kyiv is warned to brace for a possible major barrage",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGJWRVZDYk9rRXdSQUdDUS1EWEE4R2ZfMm8zU0RxeFJ1LVFzYVBQNzFRcnJvV05OS0xoLUxwZENFV015NnhoaHBtV3ZIeF9YQmNrbG10VEdaWC1ERjJ0dGNFeWcyTHowUlhjV2JYRGpCRTFfbmR5UVlDTlBmaTJDVXliSnJRVUFpUzA1VUVjTU1DXzRxd3FZcGRtTW1uYUI1UnhZ?oc=5",
+  "source": "AP",
+  "summary_tr": "Rusya, Ukrayna'ya saldırılarını sürdürüyor; Kyiv büyük füze saldırısına hazırlanmaya uyarıldı.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-26T15:01:03.383245+00:00",
+  "cluster_id": "c51124b22178b"
+ },
+ {
+  "title": "CHP'de kurultay olasılıkları: Kılıçdaroğlu 'olağanüstü durum' kartını kullanabilir",
+  "link": "https://www.bbc.com/turkce/articles/cqlppx53775o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Kılıçdaroğlu, mahkeme kararıyla genel başkanlığa döndü; 'olağanüstü kurultay' çağrısı ile Özel'e karşı hamle yapabilir.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-26T15:01:03.383245+00:00",
+  "cluster_id": "cef100eda4f9c"
+ },
+ {
+  "title": "Özgür Özel, Erdoğan ve Kılıçdaroğlu'na meydan okudu",
+  "link": "https://www.dw.com/tr/özgür-özel-erdoğan-ve-kılıçdaroğlu-na-meydan-okudu/a-77300380?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Özgür Özel, 'CHP fiilen kapanmıştır' diyerek seçim çağrısı yaptı ve Kılıçdaroğlu'na meydan okudu.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-26T15:01:03.383245+00:00",
+  "cluster_id": "cf0135f6d5865"
+ },
+ {
+  "title": "ABD ile Ermenistan arasında stratejik ortaklık anlaşması imzalandı",
+  "link": "https://www.cumhuriyet.com.tr/dunya/abd-ile-ermenistan-arasinda-stratejik-ortaklik-anlasmasi-imzalandi-2507105",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD ve Ermenistan arasında stratejik ortaklık anlaşması imzalandı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-26T15:01:03.383245+00:00",
+  "cluster_id": "c66966dc52f77"
+ },
+ {
+  "title": "US plans to cut strategic bombers and warships available to NATO in a crisis, Spiegel reports",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaWZ0Z0VLMmwyN3ZiWTRrdHowV0VVWDVsNnF4MmVoeWhPZGJBb0d1NlQ0OFJxbHdCUEFsczUtVWNwQXM2S3JjYm5SSXFzbUJpTW9Vc2ZKc0psOEN4VkZiQzE3eFZkeGRXOENMSzRSRmlBVEp4b2JDNUNJaWh6QzRRaTFVLTZRVzA3VTBsUzd4Q3NZV2dYSmJ6MU1nV0UtV2NxVHZnN1VKWHg2WFZxR0lwWkJaamE1cGowS2JBdGpmVzRialBfSjhWbFlwODNyajJMWHJ6dmZfTQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, Spiegel'e göre NATO'ya sağlayacağı stratejik bombardıman ve savaş gemilerini azaltmayı planlıyor.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-26T15:01:03.383245+00:00",
+  "cluster_id": "c1566dc22baac"
+ },
+ {
+  "title": "Manisa'da 'mutlak butlan' protestosu: CHP lideri Özgür Özel, memleketinde hemşehrileriyle buluştu",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/mutlak-butlan-kararina-karsi-manisalilar-hemserileri-chp-lideri-ozel-e-destek-verdi-2507101",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP'nin 'mutlak butlan' kararına karşı Manisa'da protestolar düzenlendi.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-05-26T15:01:03.383245+00:00",
+  "cluster_id": "c255a9f512526"
+ },
+ {
+  "title": "MHP duyurdu: Bahçeli, Kılıçdaroğlu ve Özgür Özel'e 'tarihi çağrı' yapacak",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/mhp-duyurdu-bahceli-kilicdaroglu-ve-ozgur-ozel-e-tarihi-cagri-yapacak-2507099",
+  "source": "Cumhuriyet",
+  "summary_tr": "MHP Genel Başkanı Bahçeli, CHP liderlerine 'tarihi çağrı' yapacağını duyurdu.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-26T15:01:03.383245+00:00",
+  "cluster_id": "c5f62253be3a2"
+ },
+ {
+  "title": "ABD basını: Hürmüz Boğazı'nda normalleşme süreci aylar alabilir",
+  "link": "https://www.sozcu.com.tr/hurmuz-bogazinda-gemilerin-gecmesi-aylar-surebilir-p322912",
+  "source": "Sözcü",
+  "summary_tr": "ABD basını: Hürmüz Boğazı'nda normalleşme için anlaşma temasları sürerken normalleşme aylar alabilir.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-26T15:01:03.383245+00:00",
+  "cluster_id": "cf6f2697eaa5d"
+ },
+ {
+  "title": "Cumhurbaşkanı Erdoğan, İran Cumhurbaşkanı Pezeşkiyan ile telefonda görüştü",
+  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-iran-cumhurbaskani-pezeskiyan-ile-telefonda-gorustu/3949123",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, İran Cumhurbaşkanı Pezeşkiyan ile telefonda görüştü.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-26T15:01:03.383245+00:00",
+  "cluster_id": "c9e13218b0862"
+ },
+ {
+  "title": "Cumhurbaşkanı Erdoğan, İran Cumhurbaşkanı Pezeşkiyan ile görüştü",
+  "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-iran-cumhurbaskani-pezeskiyan-ile-gorustu-946320.html",
+  "source": "TRT Haber",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, İran Cumhurbaşkanı Pezeşkiyan ile telefonda görüştü.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-26T15:01:03.383245+00:00",
+  "cluster_id": "c9e13218b0862"
+ },
+ {
+  "title": "Iranian hackers responsible for Los Angeles transit system breach, Israeli researchers say",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM083VkF0cWwteXd5ZnhaZ3ZDbEluaDJoV2hDU1VFOGw0THBIQVpaYVZiR09jSGk3NXB0a0g4ZEhPSXhHRG16X2tUT1NVd29Bb3FnU2Q1dmo5Y2hyMTY1TXQ0V2o4ZkpUaEZvMEFxT1poLUtpZzk3YmJzX3pJZHZSOERlVktUbGRycEdtd2ppTGk1OFJ0R1YtSVJiWTAxSFk1WWFXNmp6c1VQV2lXWjhnNHFmRmNtVWZlbDZheVpXWQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İsrailli araştırmacılara göre Los Angeles transit sistemi hacklenmesinin sorumlusu İranlı hackerler.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-26T15:01:03.383245+00:00",
+  "cluster_id": "c4a59f23b46c6"
+ },
+ {
   "title": "ABD’den NATO’da kesinti planı: Avrupa’ya 'açığı kapatın' uyarısı",
   "link": "https://www.cumhuriyet.com.tr/dunya/abd-den-nato-da-kesinti-plani-avrupa-ya-acigi-kapatin-uyarisi-2507095",
   "source": "Cumhuriyet",
