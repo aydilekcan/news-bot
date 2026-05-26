@@ -1,5 +1,85 @@
 [
  {
+  "title": "Netanyahu, İsrail ordusunun Lübnan'da kara saldırılarını genişlettiğini duyurdu",
+  "link": "https://www.aa.com.tr/tr/dunya/netanyahu-israil-ordusunun-lubnanda-kara-saldirilarini-genislettigini-duyurdu/3949293",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail Başbakanı Netanyahu, ateşkese rağmen ordusunun Lübnan'da kara saldırılarını genişlettiğini duyurdu.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-26T18:00:57.942451+00:00",
+  "cluster_id": "c7f61ba2df33a"
+ },
+ {
+  "title": "İsrailin Lübnan saldırıları: Can kaybı 3 bin 213 oldu",
+  "link": "https://www.trthaber.com/haber/dunya/israilin-lubnan-saldirilari-can-kaybi-3-bin-213-oldu-946328.html",
+  "source": "TRT Haber",
+  "summary_tr": "İsrail ordusunun Lübnan'a düzenlediği saldırılarda ateşkese rağmen can kaybı 3 bin 213'e yükseldi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-26T18:00:57.942451+00:00",
+  "cluster_id": "c4d744b999437"
+ },
+ {
+  "title": "Bahçeli Özel'i aradı",
+  "link": "https://www.diken.com.tr/bahceli-ozeli-aradi/?utm_source=rss&utm_medium=rss&utm_campaign=bahceli-ozeli-aradi",
+  "source": "Diken",
+  "summary_tr": "MHP lideri Devlet Bahçeli, mahkeme kararıyla görevinden alınan CHP lideri Özgür Özel'i arayıp Kurban Bayramı'nı tebrik etti.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-26T18:00:57.942451+00:00",
+  "cluster_id": "cc487dfcd497d"
+ },
+ {
+  "title": "Son dakika... Devlet Bahçeli Özgür Özel'i aradı",
+  "link": "https://www.sozcu.com.tr/son-dakika-devlet-bahceli-ozgur-ozel-i-aradi-p322947",
+  "source": "Sözcü",
+  "summary_tr": "MHP Genel Başkanı Devlet Bahçeli, CHP Lideri Özgür Özel'i telefonla arayarak Kurban Bayramı'nı tebrik etti.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-26T18:00:57.942451+00:00",
+  "cluster_id": "cc487dfcd497d"
+ },
+ {
+  "title": "Son Dakika... Özgür Özel'e telefon: İlk tebriği Devlet Bahçeli etti!",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-ozgur-ozel-e-telefon-ilk-tebrigi-devlet-bahceli-etti-2507132",
+  "source": "Cumhuriyet",
+  "summary_tr": "MHP Genel Başkanı Devlet Bahçeli, seçilmiş CHP Genel Başkanı Özgür Özel'i telefonla arayarak Kurban Bayramı'nı tebrik etti.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-26T18:00:57.942451+00:00",
+  "cluster_id": "c5fd4d337b203"
+ },
+ {
+  "title": "DSÖ: KDC'de 10 milyon kişi açlıkla karşı karşıya",
+  "link": "https://www.trthaber.com/haber/dunya/dso-kdcde-10-milyon-kisi-aclikla-karsi-karsiya-946330.html",
+  "source": "TRT Haber",
+  "summary_tr": "DSÖ Genel Direktörü, Kongo Demokratik Cumhuriyeti'nde 10 milyon kişinin açlıkla karşı karşıya olduğunu bildirdi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-26T18:00:57.942451+00:00",
+  "cluster_id": "cd095d5267d21"
+ },
+ {
+  "title": "Antalya'da dere yatağındaki TOKİ projesine mahkemeden iptal kararı",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObDM5Y2hIaXk3d180cGdYbWcxd2ZDOEdkemdmbVMtTVY5SUowTDhyZjBvV2txcm5meVVubURqcm5vUzNoTklMRGIteWF6SVRvaGptV1h0ck9aUjF6YzRVa3BaMTJKYWtfNkZjRmE0MWhGWlcya0tLX3BpSTZPcHFDelNjdi11RExzeFVRWmhMV0lQTGVvaDF3SDZzSkI0OVB3U3V5OUFn?oc=5",
+  "source": "soL",
+  "summary_tr": "Antalya'da dere yatağındaki TOKİ projesine mahkemeden iptal kararı verildi.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-26T18:00:57.942451+00:00",
+  "cluster_id": "c42aca1fd929a"
+ },
+ {
+  "title": "Trump administration proposes NDAs for federal workers to crack down on leaks to journalists",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSG9sVlhqVTlJNl81RVREa2Z5VHRLUm40M1E5QjhwMGJZeDlQbFJoS2MtREx1NHIwRk5wUDBFVzg0cFc4Z1JUejRTcFk3bGU5WHBlY1pXOUYya0pCcl9YQnZFMWFzREZHMUhidHZRTGppWjE1UGpMcjRvSU1UcTJZWHlsQVBVcGl5c1FiY3NjWjVWaF92QzhPM2N5by1FVmtNWWNkU0FmQ1R1b2tsb2dTZWZfXzA3bXV4UUtn?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump yönetimi, federal çalışanlara gazetecilere sızıntı yapmasını önlemek için gizlilik anlaşmaları imzalatmayı önerdi.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-26T18:00:57.942451+00:00",
+  "cluster_id": "cf18d719fe009"
+ },
+ {
   "title": "Israel expands ground operation beyond demarcation line in south Lebanon as clashes intensify",
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbmYzaGNfS3diVERUUElLNzRjVGpQMm9BUjE2c1FsVUp1WVpORklZWXptY3o5ck1jMmhJanZ1VDBHZDdmR09EMTJ6aWliR3B2akRHak1jaU5LbXhqWVdLdTYyZjBLVXhZYjR3VGoyamlsb01zQVFlNGJNREFpRTg0T1NpX0dHbEE1VGxTeE5YbEhOSzNQVTJIVWg0cXlnNGxBMmRrUkRrUFdJTm1Kc2lyaEd2ZkhPdF82b2hlaDhWa2dXVTBi?oc=5",
   "source": "Reuters",
