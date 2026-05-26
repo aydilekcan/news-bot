@@ -1,5 +1,155 @@
 [
  {
+  "title": "İran: ABD'ye ait İHA düşürüldü",
+  "link": "https://www.diken.com.tr/iran-abdye-ait-iha-dusuruldu/?utm_source=rss&utm_medium=rss&utm_campaign=iran-abdye-ait-iha-dusuruldu",
+  "source": "Diken",
+  "summary_tr": "İran, Basra Körfezi'nde hava sahasını ihlal eden ABD'ye ait MQ-9 Reaper İHA'sını düşürdü.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-26T09:00:59.990937+00:00",
+  "cluster_id": "c6faf5d79616c"
+ },
+ {
+  "title": "CHP Krizi mi, Demokratik Vatandaşlığın Yeniden Doğuşu mu?",
+  "link": "https://yetkinreport.com/2026/05/26/chp-krizi-mi-demokratik-vatandasligin-yeniden-dogusu-mu/",
+  "source": "YetkinReport",
+  "summary_tr": "Kemal Kılıçdaroğlu, mahkeme kararıyla CHP Genel Başkanlığına iade edildi; eski Parti Meclisi göreve gelecek.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-26T09:00:59.990937+00:00",
+  "cluster_id": "c63429952286e"
+ },
+ {
+  "title": "Son Dakika... Kılıçdaroğlu'nun talebi kabul edildi: CHP'de eski PM göreve gelecek",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-kilicdaroglu-nun-talebi-kabul-edildi-eski-pm-goreve-donuyor-2507016",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ankara İcra Dairesi, Kılıçdaroğlu'nun talebini kabul etti; CHP'de eski Parti Meclisi göreve başlayacak.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-26T09:00:59.990937+00:00",
+  "cluster_id": "ca91524956230"
+ },
+ {
+  "title": "Yargıtay Cumhuriyet Başsavcılığı Özgür Özel'i sildi: Kayıtlara 'CHP Genel Başkanı Kemal Kılıçdaroğlu' yazıldı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/yargitay-cumhuriyet-bassavciligi-ozgur-ozel-i-sildi-kayitlara-chp-genel-baskani-kemal-kilicdaroglu-yazildi-2507012",
+  "source": "Cumhuriyet",
+  "summary_tr": "Yargıtay Cumhuriyet Başsavcılığı CHP Genel Başkanı bölümünde Özgür Özel'in yerine Kemal Kılıçdaroğlu'nun ismini yazdı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-26T09:00:59.990937+00:00",
+  "cluster_id": "ce410a08f1c1c"
+ },
+ {
+  "title": "Hamaney’den ABD üsleri çıkışı: Ortadoğu ülkeleri artık kalkan olmayacak",
+  "link": "https://www.cumhuriyet.com.tr/dunya/hamaney-den-abd-usleri-cikisi-ortadogu-ulkeleri-artik-kalkan-olmayacak-2507010",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran dini lideri Hamaney, Ortadoğu ülkelerinin ABD'ye karşı kalkan olmayacağını belirtti.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-26T09:00:59.990937+00:00",
+  "cluster_id": "c100871b52a16"
+ },
+ {
+  "title": "İçişleri Bakanı Mustafa Çiftçi, CHP'ye müdahale için ilk açıklamasını Katar merkezli gazeteye yaptı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/icisleri-bakani-mustafa-ciftci-chp-ye-mudahale-icin-ilk-aciklamasini-katar-merkezli-gazeteye-yapti-2507009",
+  "source": "Cumhuriyet",
+  "summary_tr": "İçişleri Bakanı Çiftçi, CHP Genel Merkezi'ne polis müdahalesine ilişkin ilk kez Katar merkezli gazeteye konuştu.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-26T09:00:59.990937+00:00",
+  "cluster_id": "c2f562c5b2bdf"
+ },
+ {
+  "title": "'Yandaştan' al haberi... Kılıçdaroğlu'ndan Ekrem İmamoğlu ve Özgür Özel hamlesi: '9 milletvekilinin dokunulmazlığı kaldırılır'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/yandastan-al-haberi-kilicdaroglu-ndan-ekrem-imamoglu-ve-ozgur-ozel-hamlesi-9-milletvekilinin-dokunulmazligi-kaldirilir-2507008",
+  "source": "Cumhuriyet",
+  "summary_tr": "Kılıçdaroğlu, mahkeme kararıyla genel başkanlığa döndü; CHP'de yapısal değişiklikler yapacağını açıkladı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-26T09:00:59.990937+00:00",
+  "cluster_id": "ccbfa31745425"
+ },
+ {
+  "title": "CHP lideri Özgür Özel, Cumhuriyet aracılığıyla çağrı yaptı: 'Partiden istifa etmeyin'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-lideri-ozgur-ozel-cumhuriyet-araciligiyla-cagri-yapti-partiden-istifa-etmeyin-2507007",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Genel Başkanı Özgür Özel, partiden istifa etmeyen üyelerine seslendi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-26T09:00:59.990937+00:00",
+  "cluster_id": "c1a87c0c3f3f7"
+ },
+ {
+  "title": "Yargıtay'dan Kılıçdaroğlu adımı",
+  "link": "https://www.sozcu.com.tr/yargitay-dan-kilicdaroglu-adimi-p322841",
+  "source": "Sözcü",
+  "summary_tr": "Yargıtay Cumhuriyet Başsavcılığı, CHP Genel Başkanı bölümünde resmi değişiklik yaptı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-26T09:00:59.990937+00:00",
+  "cluster_id": "ca7dd4eee36c5"
+ },
+ {
+  "title": "CHP'de eski Parti Meclisi göreve geliyor",
+  "link": "https://www.sozcu.com.tr/chp-de-eski-parti-meclisi-goreve-geliyor-p322835",
+  "source": "Sözcü",
+  "summary_tr": "Ankara İcra Dairesi, CHP'de eski Parti Meclisi göreve gelmesi için Kılıçdaroğlu'nun dilekçesini kabul etti.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-26T09:00:59.990937+00:00",
+  "cluster_id": "c5920c7b367aa"
+ },
+ {
+  "title": "CHP'de eski Parti Meclisi üyeleri göreve dönüyor",
+  "link": "https://www.trthaber.com/haber/gundem/chpde-eski-parti-meclisi-uyeleri-goreve-donuyor-946279.html",
+  "source": "TRT Haber",
+  "summary_tr": "CHP'de Kemal Kılıçdaroğlu, eski Parti Meclisi üyelerinin göreve getirilmesini sağladı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-26T09:00:59.990937+00:00",
+  "cluster_id": "c5920c7b367aa"
+ },
+ {
+  "title": "Hindistan, ABD, Avustralya ve Japonya dışişleri bakanları, Quad toplantısı kapsamında görüştü",
+  "link": "https://www.aa.com.tr/tr/dunya/hindistan-abd-avustralya-ve-japonya-disisleri-bakanlari-quad-toplantisi-kapsaminda-gorustu/3948672",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Quad ülkeleri (Hindistan, ABD, Avustralya, Japonya) dışişleri bakanları Yeni Delhi'de görüştü.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-26T09:00:59.990937+00:00",
+  "cluster_id": "cef2aa948a7c7"
+ },
+ {
+  "title": "Kılıçdaroğlu'nun CHP'si AKP'yi ziyaret edecek",
+  "link": "https://www.sozcu.com.tr/kilicdaroglu-nun-chp-si-akp-yi-ziyaret-edecek-p322840",
+  "source": "Sözcü",
+  "summary_tr": "Mahkeme kararıyla CHP Genel Başkanı olan Kılıçdaroğlu'nun ekibi Kurban Bayramı'nda AKP'yi ziyaret edecek.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-26T09:00:59.990937+00:00",
+  "cluster_id": "c7fcb4b886cae"
+ },
+ {
+  "title": "Özgür Özel'den 'istifa' çağrılarına yanıt",
+  "link": "https://www.sozcu.com.tr/ozgur-ozel-den-istifa-cagrilarina-yanit-p322839",
+  "source": "Sözcü",
+  "summary_tr": "CHP Lideri Özgür Özel, istifa çağrılarına karşı partide kalınması çağrısı yaptı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-26T09:00:59.990937+00:00",
+  "cluster_id": "c50c7d53760b5"
+ },
+ {
+  "title": "Kılıçdaroğlu, ilk PM ve YDK toplantılarını 1 Haziran'da yapacak",
+  "link": "https://www.trthaber.com/haber/gundem/kilicdaroglu-ilk-pm-ve-ydk-toplantilarini-1-haziranda-yapacak-946274.html",
+  "source": "TRT Haber",
+  "summary_tr": "CHP Genel Başkanı Kılıçdaroğlu, 1 Haziran'da ilk Parti Meclisi toplantılarını yapacak.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-26T09:00:59.990937+00:00",
+  "cluster_id": "cbe18fb70715a"
+ },
+ {
   "title": "North Korea fired projectiles, including short-range ballistic missile, Seoul says",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMTJ6ZndIUG9uWlpBVGJ4bmFCX3JiRzlVY2FjdzJpMVBTTnJobExCVVNxdGFJb0VBQTJNZl9JU0dJQUw5V1pSNnUxSnNNWXNNUFNEY2VnWEJOa25jRFhsUkZ3RDBtNTdic29zc0JEY3U2el9PZnlWV0RWWlFsSjhfN1RSMUxFb05YZk1QZzJDaklQb0czX2dESmEweTNHOVd1S3NxaGotMjR0LVdVSmxfS1o2NEU4dw?oc=5",
   "source": "Reuters",
