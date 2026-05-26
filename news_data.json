@@ -1,5 +1,155 @@
 [
  {
+  "title": "ABD’den NATO’da kesinti planı: Avrupa’ya 'açığı kapatın' uyarısı",
+  "link": "https://www.cumhuriyet.com.tr/dunya/abd-den-nato-da-kesinti-plani-avrupa-ya-acigi-kapatin-uyarisi-2507095",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD, NATO'ya yaptığı askeri katkıları önemli ölçüde azaltmayı planlıyor ve Avrupa müttefiklerini açığı kapatmaya çağırıyor.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-26T14:01:20.493680+00:00",
+  "cluster_id": "c3d58c2021d15"
+ },
+ {
+  "title": "Komşu ülke balistik füze için seri üretime geçti",
+  "link": "https://www.sozcu.com.tr/komsu-ulke-balistik-fuze-icin-seri-uretime-gecti-p322898",
+  "source": "Sözcü",
+  "summary_tr": "İran, ABD ile müzakereye devam ederken balistik füze için seri üretime geçtiğini bildirdi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-26T14:01:20.493680+00:00",
+  "cluster_id": "c542eb72c59ca"
+ },
+ {
+  "title": "Der Spiegel: ABD NATOya yaptığı askeri katkıları keskin şekilde azaltacak",
+  "link": "https://www.trthaber.com/haber/dunya/der-spiegel-abd-natoya-yaptigi-askeri-katkilari-keskin-sekilde-azaltacak-946314.html",
+  "source": "TRT Haber",
+  "summary_tr": "Der Spiegel'in haberine göre ABD, NATO'ya yaptığı askeri katkıları keskin şekilde azaltacak.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-26T14:01:20.493680+00:00",
+  "cluster_id": "c6eea82148698"
+ },
+ {
+  "title": "Hamaney: ABD bölgede askeri üsler kuramayacak, İsrail ise son günlerine yaklaşıyor",
+  "link": "https://www.trthaber.com/haber/dunya/hamaney-abd-bolgede-askeri-usler-kuramayacak-israil-ise-son-gunlerine-yaklasiyor-946311.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran lideri Hamaney, ABD'nin bölgede askeri üsler kuramayacağını ve İsrail'in son günlerine yaklaştığını söyledi.",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-05-26T14:01:20.493680+00:00",
+  "cluster_id": "cfe15fb69246d"
+ },
+ {
+  "title": "Özgür Özel'in İzmir buluşması: 2 kişi gözaltına alındı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/ozgur-ozel-in-izmir-bulusmasi-2-kisi-gozaltina-alindi-2507094",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP lideri Özgür Özel'in İzmir buluşma çağrısı sonrası polis barikatları kuruldu, 2 kişi gözaltına alındı.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-05-26T14:01:20.493680+00:00",
+  "cluster_id": "c4baba7967600"
+ },
+ {
+  "title": "Küresel ekonomide kritik hafta: Gözler ABD, Almanya ve Japonya verilerinde",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/kuresel-ekonomide-kritik-hafta-gozler-abd-almanya-ve-japonya-verilerinde-2507092",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD GSYH, Almanya ve Japonya ekonomik verileri bu hafta açıklanacak; yatırımcılar küresel ekonomik eğilimleri izliyor.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-26T14:01:20.493680+00:00",
+  "cluster_id": "cd51ccc98571e"
+ },
+ {
+  "title": "Bahçeli'den Kılıçdaroğlu ve Özel'e tarihi çağrı!",
+  "link": "https://www.sozcu.com.tr/bahceli-den-kilicdaroglu-ve-ozel-e-tarihi-cagri-p322897",
+  "source": "Sözcü",
+  "summary_tr": "MHP Genel Başkanı Bahçeli, Kılıçdaroğlu ve Özel'e tarihi çağrı yaptı.",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-05-26T14:01:20.493680+00:00",
+  "cluster_id": "c7fcc44be26fe"
+ },
+ {
+  "title": "Cezaevi mahkumlarına 'af' yerine yeni model",
+  "link": "https://www.sozcu.com.tr/cezaevi-mahkumlarina-af-yerine-yeni-model-p322896",
+  "source": "Sözcü",
+  "summary_tr": "AKP Grup Başkanı Güler, af yerine ceza infaz sisteminde yeni rehabilitasyon modeli uygulanacağını açıkladı.",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-05-26T14:01:20.493680+00:00",
+  "cluster_id": "cba85ac6d1316"
+ },
+ {
+  "title": "İsrail Genelkurmay Başkanı, Sde Teiman'da Filistinli esire tecavüzü ortaya çıkaran savcıyı ordudan ihraç etti",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-genelkurmay-baskani-sde-teimanda-filistinli-esire-tecavuzu-ortaya-cikaran-savciyi-ordudan-ihrac-etti/3949076",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail Genelkurmay Başkanı, 2024'te Gazze'den alıkonulan Filistinli esire tecavüz olayını ifşa eden savcıyı ordudan ihraç etti.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-26T14:01:20.493680+00:00",
+  "cluster_id": "c0aa3c2d80467"
+ },
+ {
+  "title": "UK targets Russian crypto networks in latest sanctions",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM2hDVXJmTWVoQWVQazFLUElkOGd3VWRZaWVJZmdTR1RQVHk1dEZWRlJfbzFjYUlXcGdFRWlyTHQ1MnlpVHF1UFR6TXQ4MkhlcjJZWmtOLWkzSVVoUkozLXBOY1VQMnpQamdEU2VhNHZYTXdSN3c2Tmw1TE52UVYydnpFTkpVM2RmX01nZEtvM1hwVVlyM2staw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İngiltere, Rusya'ya karşı yeni yaptırımlar çerçevesinde kripto ağlarını hedef aldı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-26T14:01:20.493680+00:00",
+  "cluster_id": "cb32fad850af6"
+ },
+ {
+  "title": "Russian business to Putin: we need heavier weapons for drone defence",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa2lxYmpSODVuS2pIUElGS19CMFF4Y2ZQcVlIZUpNM1RxR0I5N25ILWlnRHVBVUQ3Wi00djh2ei0tSGZ6S001d19rd1BQV0dYRVFnLTVFUDRWc0JZanNDRnU3QjJVS0tlY2NtZFFhUm55UmZqVXFneVJnN0NDRFJZNFZObnFWSUlCNlJoSmliTGdqR0ZyVjBiOTRTX3Z6TF8zcDVLQQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rus işletmeciler Putin'den drone savunması için daha ağır silahlar talebinde bulundu.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-26T14:01:20.493680+00:00",
+  "cluster_id": "ca0ba22e51a23"
+ },
+ {
+  "title": "Alman basını: Erdoğan CHP'nin başına bir kukla yerleştirdi",
+  "link": "https://www.dw.com/tr/alman-basını-erdoğan-chp-nin-başına-bir-kukla-yerleştirdi/a-77300143?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Alman basını, CHP Genel Merkezi'ne yapılan polis baskınını ve mutlak butlan kararını yorumlarken Cumhurbaşkanı Erdoğan'ı eleştirdi.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-05-26T14:01:20.493680+00:00",
+  "cluster_id": "c173660087053"
+ },
+ {
+  "title": "Dilek İmamoğlu siyasilere seslendi: Millet değişim istiyor",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/dilek-imamoglu-siyasilere-seslendi-millet-degisim-istiyor-2507087",
+  "source": "Cumhuriyet",
+  "summary_tr": "Tutuklu cumhurbaşkanı adayı İmamoğlu'nun eşi Dilek İmamoğlu, siyasi liderlere seslenerek \"millet değişim istiyor\" dedi.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-05-26T14:01:20.493680+00:00",
+  "cluster_id": "c0eea57275180"
+ },
+ {
+  "title": "Özel'den Kılıçdaroğlu'na karşı bayramlaşma hamlesi",
+  "link": "https://www.sozcu.com.tr/ozel-den-kilicdaroglu-na-karsi-bayramlasma-hamlesi-p322900",
+  "source": "Sözcü",
+  "summary_tr": "CHP'de mutlak butlan tartışmaları sürüyor; Özel, Kılıçdaroğlu'nun Kurban Bayramı bayramlaşmasına karşı hamle yapıyor.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-05-26T14:01:20.493680+00:00",
+  "cluster_id": "ced8addcfc66f"
+ },
+ {
+  "title": "İran'da uluslararası internet erişimi aylar sonra aşamalı olarak yeniden sağlandı",
+  "link": "https://www.aa.com.tr/tr/dunya/iranda-uluslararasi-internet-erisimi-aylar-sonra-asamali-olarak-yeniden-saglandi/3949087",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran, aylar sonra uluslararası internet erişimini aşamalı olarak yeniden sağladı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-26T14:01:20.493680+00:00",
+  "cluster_id": "c8f894f32cb1a"
+ },
+ {
   "title": "Özel'den Kılıçdaroğlu'na İzmir'den çağrı: '2 milyon üyemize genel başkan seçtirelim'",
   "link": "https://www.bbc.com/turkce/articles/c20228kj8plo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
