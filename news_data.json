@@ -1,5 +1,85 @@
 [
  {
+  "title": "Trump: ABD İran anlaşmasından henüz memnun değil",
+  "link": "https://www.bbc.com/turkce/articles/c9d326y527lo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Trump, İran'la yapılan anlaşmanın koşullarından memnun olmadığını ve müzakerelerin devam edebileceğini belirtti.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-27T19:01:00.158147+00:00",
+  "cluster_id": "c44f3e0926651"
+ },
+ {
+  "title": "Trump'tan 'yaptırım' cevabı: 'İran uranyumdan vazgeçse de...'",
+  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-yaptirim-cevabi-iran-uranyumdan-vazgecse-de-2507370",
+  "source": "Cumhuriyet",
+  "summary_tr": "Trump, İran'ın uranyum üretiminden vazgeçmesinin tek başına yaptırımlardan kurtulmaya yetmeyeceğini açıkladı.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-27T19:01:00.158147+00:00",
+  "cluster_id": "c11e4a140e69c"
+ },
+ {
+  "title": "Trump açıkladı: İran dursa bile ABD durmayacak",
+  "link": "https://www.sozcu.com.tr/trump-acikladi-iran-dursa-bile-abd-durmayacak-p323193",
+  "source": "Sözcü",
+  "summary_tr": "Trump, İran'ın uranyum üretimini durdursa bile ABD'nin yapıların devam edeceğini bildirdi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-27T19:01:00.158147+00:00",
+  "cluster_id": "cc563a17e211a"
+ },
+ {
+  "title": "Trump, İran’ın anlaşmaya yanaşmaması halinde savaşın sürebileceği mesajını verdi",
+  "link": "https://www.aa.com.tr/tr/dunya/trump-iran-in-anlasmaya-yanasmamasi-halinde-savasin-surebilecegi-mesajini-verdi/3949998",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Trump, İran'ın anlaşmaya yanaşmaması durumunda saldırılara yeniden başlanabilecek mesajını verdi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-27T19:01:00.158147+00:00",
+  "cluster_id": "c26d974922302"
+ },
+ {
+  "title": "Trump'tan Umman'a Hürmüz tehdidi",
+  "link": "https://www.sozcu.com.tr/trump-tan-umman-a-hurmuz-tehdidi-p323194",
+  "source": "Sözcü",
+  "summary_tr": "Trump, Hürmüz Boğazı konusunda Umman'a sert açıklamalar yaparak bölge güvenliğine ilişkin tehdit mesajı verdi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-27T19:01:00.158147+00:00",
+  "cluster_id": "c2eb726faa62b"
+ },
+ {
+  "title": "Çin'den Panama'ya \"ilişkilerimiz üçüncü taraflarca bozulmamalı\" mesajı",
+  "link": "https://www.aa.com.tr/tr/dunya/cinden-panamaya-iliskilerimiz-ucuncu-taraflarca-bozulmamali-mesaji/3949995",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Çin Dışişleri Bakanı, Trump'ın Panama Kanalı'ndaki Çin varlığına ilişkin açıklamalarına karşı ilişkilerin bozulmaması çağrısında bulundu.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-27T19:01:00.158147+00:00",
+  "cluster_id": "c87c24d7fa1f6"
+ },
+ {
+  "title": "Norway will come under France's nuclear umbrella, says PM Stoere",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSWhGclhya1dZamx6TUFuSXNUNTZQOVlNRWZnTldPdE1uS1lyZ1JOUjhfWng1YzVfdzJDeWtmTWtMRFI3WFdxX2g2QUxWX3VGaFVhaEV1TlFDd3pFWGVVUzFFX2dMMTJ3R0VSUndkb3dYMXJKT2gzcEh4SGlxVFpxSnVxU2pYY1dEYll0aVkyR080R21Qbl9WX0JhYm44M3M3WXRycVM2TQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Norveç Başbakanı Stoere, Norveç'in Fransa'nın nükleer şemsiyesi altına gireceğini açıkladı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-27T19:01:00.158147+00:00",
+  "cluster_id": "c3f7a6a44d373"
+ },
+ {
+  "title": "Rusya ve Afganistan askeri teknik işbirliği anlaşması imzaladı",
+  "link": "https://www.aa.com.tr/tr/dunya/rusya-ve-afganistan-askeri-teknik-isbirligi-anlasmasi-imzaladi/3949990",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Rusya ve Afganistan arasında askeri teknik işbirliği anlaşması imzalandı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-27T19:01:00.158147+00:00",
+  "cluster_id": "c34bde4a4e7a1"
+ },
+ {
   "title": "Lübnanda gerilim tırmanıyor: İsrailden yeni saldırı tehditleri",
   "link": "https://www.trthaber.com/haber/dunya/lubnanda-gerilim-tirmaniyor-israilden-yeni-saldiri-tehditleri-946397.html",
   "source": "TRT Haber",
