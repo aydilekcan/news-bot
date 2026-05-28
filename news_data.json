@@ -1,5 +1,105 @@
 [
  {
+  "title": "Dünya alarma geçti, kırmızı kod verildi: Ölümcül Ebola salgını 11 ülkeyi tehdit ediyor!",
+  "link": "https://www.cumhuriyet.com.tr/yasam/dunya-alarma-gecti-kirmizi-kod-verildi-olumcul-ebola-salgini-11-ulkeyi-tehdit-ediyor-2507496",
+  "source": "Cumhuriyet",
+  "summary_tr": "DSÖ, Demokratik Kongo'daki Ebola salgınının kontrolden çıktığını açıkladı; 11 ülkeyi tehdit ediyor.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-28T10:01:03.436000+00:00",
+  "cluster_id": "c8dd90e3c4838"
+ },
+ {
+  "title": "Karadeniz'de üç yük gemisi saldırıya uğradı",
+  "link": "https://www.bbc.com/turkce/articles/cvgz492n8g2o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Karadeniz'de Sinop açıklarında üç yük gemisine İHA saldırısı düzenlendi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-28T10:01:03.436000+00:00",
+  "cluster_id": "c7987cc5a7b75"
+ },
+ {
+  "title": "Trump'ın Gazze İstikrar Gücü çöktü: Sözler havada kaldı",
+  "link": "https://www.dw.com/tr/trump-ın-gazze-istikrar-gücü-çöktü-sözler-havada-kaldı/a-77326475?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Trump'ın Gazze İstikrar Gücü planı çöktü; askeri katkı sözü veren ülkeler gelmedi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-28T10:01:03.436000+00:00",
+  "cluster_id": "c7eb8f405ba5b"
+ },
+ {
+  "title": "Rusya-Ukrayna savaşı nereye gidiyor?",
+  "link": "https://www.aa.com.tr/tr/analiz/rusya-ukrayna-savasi-nereye-gidiyor/3950263",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Rusya-Ukrayna savaşının çıkmazında Rusya diplomasiye yeşil ışık yakmaya başladı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-28T10:01:03.436000+00:00",
+  "cluster_id": "ce086a32dcef6"
+ },
+ {
+  "title": "Hamas: Gazzedeki ateşkes anlaşması İsrailin ihlalleri nedeniyle çökme tehlikesinde",
+  "link": "https://www.trthaber.com/haber/dunya/hamas-gazzedeki-ateskes-anlasmasi-israilin-ihlalleri-nedeniyle-cokme-tehlikesinde-946430.html",
+  "source": "TRT Haber",
+  "summary_tr": "Hamas, İsrail'in ateşkes ihlallerinin Gazze anlaşmasını bozulma riski taşıdığını belirtti.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-28T10:01:03.436000+00:00",
+  "cluster_id": "cc6e4f9ded75d"
+ },
+ {
+  "title": "İran Dışişleri Bakanlığı, ABD'nin geçici ateşkese rağmen düzenlediği saldırıları kınadı",
+  "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakanligi-abdnin-gecici-ateskese-ragmen-duzenledigi-saldirilari-kinadi-946429.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran, geçici ateşkese rağmen ABD'nin Bender Abbas bölgesine yönelik saldırılarını kınadı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-28T10:01:03.436000+00:00",
+  "cluster_id": "c43d7ac5b6dbc"
+ },
+ {
+  "title": "Exclusive: China works on AI token futures market, sources say, in race with US",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU2htMEhYNVR5MlRObmtjRDFKMTJxelQxTklVT2c4YXIyUDBMY3FBcXRIT3lYX0RpX3dxTDlCcVJBNnRGb0MyN2luWF9RTldzNW1yWWNkdVhESHQ3d3Fwdzg3bzRGZ1paUG5LZ2N3NnpvemFRRFhaTXFocVBpYWM0OXRWWXhHNk9WR3haZGRmRVN1cXlzRDFrNklWQ2o5X2lvQkZmaUFFQ05nU3k2?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin, ABD ile yarışarak AI token vadeli işlem piyasası geliştiriyor.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-28T10:01:03.436000+00:00",
+  "cluster_id": "c6a63342b00f2"
+ },
+ {
+  "title": "İspanya Başbakanı Pedro Sanchez'in kardeşi hakim karşısına çıktı",
+  "link": "https://www.cumhuriyet.com.tr/dunya/ispanya-basbakani-pedro-sanchez-in-kardesi-hakim-karsisina-cikti-2507497",
+  "source": "Cumhuriyet",
+  "summary_tr": "İspanya Başbakanı Sanchez'in kardeşi nepotizm soruştırmasında mahkemeye çıktı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-28T10:01:03.436000+00:00",
+  "cluster_id": "cb52c9280e0a7"
+ },
+ {
+  "title": "Peru, Türkiye'nin madencilik alanındaki tecrübesinden yararlanmak istiyor",
+  "link": "https://www.aa.com.tr/tr/ekonomi/peru-turkiyenin-madencilik-alanindaki-tecrubesinden-yararlanmak-istiyor/3950184",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Peru, Türkiye'nin madencilik alanındaki tecrübesinden yararlanmak istiyor.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-28T10:01:03.436000+00:00",
+  "cluster_id": "cb52fa4729a0a"
+ },
+ {
+  "title": "Boeing CEO says 200-jet China deal an 'initial tranche' with more to come",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSEJwODhWM1E2bWh3VG0wYU96b0NNN0xmTG5MQUVnekp1UWo3d2c1ZUt6N0ttNW1rdWZfcDFodm1iQzNoSlg2Nndwd2xwVERYREhuT0ZHSnJfTGZOZHVucFFQM0k0c3JTejBVbTNVeTFZc3R6bTZ5NGR1ZENpT25FdHNaRE5zbktlWkpma1U3aE10Wk1vVEYzb3M2eURJVl9BRW5zQkgzU3dXaXNvRDFndWlMMzQ3c2pCWkMyeU52NWZwZVRYVzNrMjdfSQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Boeing CEO, Çin'e 200 uçak satışının ilk etap olduğunu ve daha fazlasının geleceğini söyledi.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-28T10:01:03.436000+00:00",
+  "cluster_id": "cc3a8228d1b61"
+ },
+ {
   "title": "Washington vurdu, Tahran karşılık verdi: Ateşkesten bu yana en tehlikeli gerilim!",
   "link": "https://www.cumhuriyet.com.tr/dunya/washington-vurdu-tahran-karsilik-verdi-ateskesten-bu-yana-en-tehlikeli-gerilim-2507485",
   "source": "Cumhuriyet",
