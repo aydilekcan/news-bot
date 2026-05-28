@@ -1,5 +1,115 @@
 [
  {
+  "title": "ABD ve İran'dan karşılıklı yeni saldırılar",
+  "link": "https://www.bbc.com/turkce/articles/ce8ppzzpmlzo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD ordusu İran'ın Bender Abbas limanındaki askeri tesisine saldırı düzenledi; Tahran karşılık verdi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-28T08:01:01.539403+00:00",
+  "cluster_id": "c2a13d0c465af"
+ },
+ {
+  "title": "İran: Ateşkes yine ihlal edildi, Hürmüz'de tansiyon yüksek",
+  "link": "https://www.dw.com/tr/iran-ateşkes-yine-ihlal-edildi-hürmüz-de-tansiyon-yüksek/a-77322364?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "ABD İran'ın İHA'larını ve dron merkezini vurdu; İran Hürmüz'deki ABD üslerine saldırarak misilleme yaptı.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-28T08:01:01.539403+00:00",
+  "cluster_id": "cad99096a6edd"
+ },
+ {
+  "title": "Trump şimdi de müttefiki Umman’ı ‘havaya uçurmak’la tehdit etti",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc0ZzcVpocE9WTVpXRFFldlZyakpHN3NJYks2ZnRxRVNLSk5EX0pOUWROSkNfdm1Dd28zMDBsaXRmT2NEaVI5bDlQUzljNmE1Vi10OU5MWGdiTzY1V3JwTE5Gc3lLc2czRVJGU2ppUVVLVmJDNFhiX0cwZzMwTTNBbDNMQk4yb0ZLV0RvMFdQSnRuLXN1UUt4d0VZZXZzMFE?oc=5",
+  "source": "soL",
+  "summary_tr": "Trump müttefiki Umman'ı tehdit etmiştir.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-28T08:01:01.539403+00:00",
+  "cluster_id": "cf459a9efcb0b"
+ },
+ {
+  "title": "İsrail'in Lübnan'a saldırıları sürüyor: Sur kenti hedef alındı",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYlE1VzdXQlJXb21FdjdKaEd3MWprZ1VLS3NRUTEySVM2LTV6c05hSHRXeG11SXRidXNlTkR6UUthSWhGZjlnQ0pTaUFnTDEzRlZJMDZ1Q2lndzlqbUZPMGx6YWFiQjU0UllOd1VQNjhjRGVCTmp4eGhUTWU0SE5YR0VaeU1CQ29NMFowZ0NYdXpzUjktRXpmYzR1cU5oZw?oc=5",
+  "source": "soL",
+  "summary_tr": "İsrail Lübnan'a saldırılarını sürdürerek Sur kenti hedef aldı.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-28T08:01:01.539403+00:00",
+  "cluster_id": "c97124aeaf5ad"
+ },
+ {
+  "title": "Bayram tatilinde kur depremi: Dolar/TL rekor kırdı",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/bayram-tatilinde-kur-depremi-dolar-tl-rekor-kirdi-2507468",
+  "source": "Cumhuriyet",
+  "summary_tr": "Kurban Bayramı tatilinde dolar/TL yeni zirve kırdı; jeopolitik gerginlik kur üzerinde baskı yarattı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-28T08:01:01.539403+00:00",
+  "cluster_id": "ce5052068673b"
+ },
+ {
+  "title": "Çin ile Hollanda arasında Güney Çin Denizi'nde gerilim",
+  "link": "https://www.aa.com.tr/tr/dunya/cin-ile-hollanda-arasinda-guney-cin-denizinde-gerilim/3950165",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Çin, Güney Çin Denizi'nde seyreden Hollanda savaş gemisine gerginlik oluşturdu.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-28T08:01:01.539403+00:00",
+  "cluster_id": "cc26313121215"
+ },
+ {
+  "title": "Petrolün jeopolitik sarkaç sınavı: Yön yine yukarı",
+  "link": "https://www.trthaber.com/haber/ekonomi/petrolun-jeopolitik-sarkac-sinavi-yon-yine-yukari-946412.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD-İran restleşmeleri petrol piyasasını jeopolitik gerginlikle dalgalandırıyor.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-28T08:01:01.539403+00:00",
+  "cluster_id": "c4d64a66c53dc"
+ },
+ {
+  "title": "Kılıçdaroğlu-Butlan hamlesiyle perdelenip Erdoğan’ı rahatlatan gelişmeler",
+  "link": "https://yetkinreport.com/2026/05/28/kilicdaroglu-butlan-hamlesiyle-perdelenip-erdogani-rahatlatan-gelismeler/",
+  "source": "YetkinReport",
+  "summary_tr": "İstinaf Mahkemesi'nin 'mutlak butlan' kararıyla Kemal Kılıçdaroğlu CHP başına atandı; hukuki ve siyasi çekişme devam ediyor.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-28T08:01:01.539403+00:00",
+  "cluster_id": "cb1fa36a856d1"
+ },
+ {
+  "title": "Avustralya'dan ABD merkezli 3M şirketine \"sonsuz kimyasallar\" nedeniyle 1,4 milyar dolarlık tazminat davası",
+  "link": "https://www.aa.com.tr/tr/dunya/avustralyadan-abd-merkezli-3m-sirketine-sonsuz-kimyasallar-nedeniyle-1-4-milyar-dolarlik-tazminat-davasi/3950151",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Avustralya, 3M şirketine 'sonsuz kimyasallar' nedeniyle 1,4 milyar dolarlık tazminat davası açtı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-28T08:01:01.539403+00:00",
+  "cluster_id": "c2a6315d542ef"
+ },
+ {
+  "title": "ABDde Google çalışanı, şirket verileriyle bahis oynadığı iddiasıyla gözaltına alındı",
+  "link": "https://www.trthaber.com/haber/dunya/abdde-google-calisani-sirket-verileriyle-bahis-oynadigi-iddiasiyla-gozaltina-alindi-946413.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD'de Google çalışanı şirket verileriyle bahis oynadığı iddiasıyla gözaltına alındı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-28T08:01:01.539403+00:00",
+  "cluster_id": "c3299a199562e"
+ },
+ {
+  "title": "Iran expands restrictions on distribution of news content by international media outlets",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUTl5TEJCWGJGenFFUl9odUZ0WjFyWVhmR2lEUnJ3X2tiazNpSzRqUnJ0MG42YmM5WWd2LWpLZG5YT0N6UWNEZDJ6NElSUVJPS3hiMXA4MlI5OG9MZ044NktyRnp6d0FuVFU3aWNNSHFjaDNSeFoyZGhQRXJXS2hKZmhQVGwtRVk5T3Y3OGtLd2U4dXIyX0ZJOVFVQnFsS0FibnlBSzdOVDFKdw?oc=5",
+  "source": "AP",
+  "summary_tr": "İran, uluslararası medya kuruluşlarının haber dağıtımına yönelik kısıtlamaları genişletti.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-28T08:01:01.539403+00:00",
+  "cluster_id": "c49d7d9f26e65"
+ },
+ {
   "title": "Iran and US trade air strikes after Trump dismisses report of Hormuz deal",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMDAxUGdSUGJhV19NajdXRE5yZGtxMFRVYnpEb1I3ZEMwZlZsUnBvdlJyb3RlbG4tX0dLMXFEN25ZeER4N3pOblRJYjJGS3NyR1JEZFNlR3VsN1gxd3MxMnhTVHU5VVVadWxCV1VBcFNiRHAtczFfX3FIMW9GZEJRTHFWMzIya1ZQa0ZSMUVQQXhLWVJVSUMzTVNFOGVBNUxKMEhvQW92eWZwaW8zMFpPbDRTYjlxa3NTTVNTaQ?oc=5",
   "source": "Reuters",
