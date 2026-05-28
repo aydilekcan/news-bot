@@ -1,5 +1,75 @@
 [
  {
+  "title": "Iran and US trade air strikes after Trump dismisses report of Hormuz deal",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMDAxUGdSUGJhV19NajdXRE5yZGtxMFRVYnpEb1I3ZEMwZlZsUnBvdlJyb3RlbG4tX0dLMXFEN25ZeER4N3pOblRJYjJGS3NyR1JEZFNlR3VsN1gxd3MxMnhTVHU5VVVadWxCV1VBcFNiRHAtczFfX3FIMW9GZEJRTHFWMzIya1ZQa0ZSMUVQQXhLWVJVSUMzTVNFOGVBNUxKMEhvQW92eWZwaW8zMFpPbDRTYjlxa3NTTVNTaQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran ve ABD hava saldırıları gerçekleştirdi; Trump Hormuz anlaşması raporunu reddetme de dahil olmak üzere gerilim tırmanıyor.",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-05-28T06:00:55.067992+00:00",
+  "cluster_id": "c8d9491a4b3d0"
+ },
+ {
+  "title": "The US-Iran ceasefire is unravelling",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sd29STjJKTTBfWEN4NXUwdjI2YmVYOTJEVU16QzlfWWlhNDY5dVd5SlJuTk5wTEh0d1BoSjFadzRTd0I0V3daeGVJZjh0c1d1cTNFUkV1UmpwUWRtN056c1ZSNFBzS0Z1eDR5RWFTNWdsT3UwVm52SU5zNjdSbHc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD-İran ateşkesi çözmekte; bölgede yeni gerilimler baş gösteriyor.",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-05-28T06:00:55.067992+00:00",
+  "cluster_id": "c9d359fc46421"
+ },
+ {
+  "title": "Savaş tekrar hareketlendi: Altın ve gümüş çakıldı, petrol yükseldi",
+  "link": "https://www.sozcu.com.tr/savas-tekrar-hareketlendi-altin-ve-gumus-cakildi-petrol-yukseldi-p323263",
+  "source": "Sözcü",
+  "summary_tr": "ABD-İran hattındaki gerilim artışıyla altın, gümüş ve petrol fiyatları hareket etti; dolar sert güçlendi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-28T06:00:55.067992+00:00",
+  "cluster_id": "ca80cbb10ae47"
+ },
+ {
+  "title": "Kuwait says air defences intercepting hostile missile, drone attacks",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOamh0TWJzT0NSdVFrSXJvWG45UF96QS1haFVwdFMyZTZIMXNIenBzVGYxUUNKNlVTeVV6NUJSV3ZGYVdxaS1EVUZael8zNllmelh6LTlTUi1MTlpQc3JzWVF0Yk9aMDBscXNJRTlpX25jZVJjdTRrM3l2cjU1eG5ERnRwUVhycmcxWDFGcFkxcC0walJhT25jWTF4aVhhUFdQUHRWeVVsZFRhV0lrUVV5dEVEQUdNVGpScWZ3d3ZyMl85dnd0U3c?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Kuveyt, hava savunma sistemlerinin düşmanca füze ve insansız hava araçlarını durdurduğunu duyurdu.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-28T06:00:55.067992+00:00",
+  "cluster_id": "cb2f2b1277074"
+ },
+ {
+  "title": "CHP'li Başkan Mustafa Günay görevden uzaklaştırıldı",
+  "link": "https://www.dw.com/tr/chp-li-başkan-mustafa-günay-görevden-uzaklaştırıldı/a-77321967?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "İçişleri Bakanlığı, tutuklanan CHP'li İzmir Güzelbahçe Belediye Başkanı Mustafa Günay'ı görevden uzaklaştırdı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-28T06:00:55.067992+00:00",
+  "cluster_id": "cb1ad58327980"
+ },
+ {
+  "title": "Kılıçdaroğlu işi yokuşa sürüyor",
+  "link": "https://www.sozcu.com.tr/kilicdaroglu-isi-yokusa-suruyor-p323271",
+  "source": "Sözcü",
+  "summary_tr": "CHP Genel Başkanı Kılıçdaroğlu, partinin kurultay yapılacağını söyleyerek Yargıtay'a işaret etti.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-28T06:00:55.067992+00:00",
+  "cluster_id": "c3317911c7a65"
+ },
+ {
+  "title": "Yandaşlardan üç senaryo iddiası: ‘Yeni kurulacak parti sağ ve liberal çizgide olacak, Özal modeli’",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQUkyWXVfNkhxbkR4RlpyRjFldnRSaVpSQms1a29WSEUzN2s3YjRSSVB0ZWJIVk96M1JaNnAwT1RPWTFiS0ZueW5qVkZkZFRHNnQ2SUNaSEdmd01nektEckZfYWhNS09xZmx5MTFxUTAwM1plUlNXNUZtSG5Rdm8xZUw2ellnR3U2MHhhYnc2SWVvVG95UExfNElWVGNLWnd4enFPRF9Sa3BSdnJQalRYTUNQRFltNzJtS1E?oc=5",
+  "source": "soL",
+  "summary_tr": "Kaynaklar, yeni kurulacak partinin sağ ve liberal çizgide olabileceğine ve Özal modelini takip edebileceğine işaret etti.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-05-28T06:00:55.067992+00:00",
+  "cluster_id": "cc2ebeca8d5c6"
+ },
+ {
   "title": "Ortadoğu'da yeniden savaş alarmı... İran, Kuveyt'teki ABD üssünü vurdu",
   "link": "https://www.cumhuriyet.com.tr/dunya/ortadogu-da-yeniden-savas-alarmi-iran-kuveyt-teki-abd-ussunu-vurdu-2507425",
   "source": "Cumhuriyet",
