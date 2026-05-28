@@ -1,5 +1,155 @@
 [
  {
+  "title": "İsrail Lübnan'a 'nokta atışı' saldırı gerçekleştirdi: 15 kişi öldü",
+  "link": "https://www.sozcu.com.tr/israil-lubnan-a-nokta-atisi-saldiri-gerceklestirdi-15-kisi-oldu-p323375",
+  "source": "Sözcü",
+  "summary_tr": "İsrail, Beyrut'ta bir 'nokta atışı' saldırı düzenleyerek 15 kişinin ölümüne neden oldu.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-28T13:01:04.553816+00:00",
+  "cluster_id": "c6750f98475de"
+ },
+ {
+  "title": "İsrail ordusu ateşkese rağmen başkent Beyrut'a hava saldırısı düzenledi",
+  "link": "https://www.trthaber.com/haber/dunya/israil-ordusu-ateskese-ragmen-baskent-beyruta-hava-saldirisi-duzenledi-946444.html",
+  "source": "TRT Haber",
+  "summary_tr": "İsrail ordusu, ateşkese rağmen Beyrut'un güneyindeki Şuveyfet bölgesine hava saldırısı düzenledi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-28T13:01:04.553816+00:00",
+  "cluster_id": "c063649a1911d"
+ },
+ {
+  "title": "CENTCOM: İran, Kuveyt'e doğru balistik füze fırlattı",
+  "link": "https://www.trthaber.com/haber/dunya/centcom-iran-kuveyte-dogru-balistik-fuze-firlatti-946442.html",
+  "source": "TRT Haber",
+  "summary_tr": "CENTCOM, İran'ın Kuveyt'i balistik füzeyle hedef aldığını; füzenin Kuveyt tarafından engellendi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-28T13:01:04.553816+00:00",
+  "cluster_id": "c20415a9ee48b"
+ },
+ {
+  "title": "World shares decline and oil prices gain more than $2 after US strikes on Iran",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGVrczJoVUNSTVZFZ19mUm4wNVR0bGR1aXFTX3lqU1htb1VCd1IxMGxqNzlaUkJiN2pxZ2w1TGFLZU0zc09TV0tJSWdOM2F4QjZ3Y2JtcDB5cUFKUHh6MlFiZWEzRnFOT1dWeTN5aUtSNWhramlOT2kxVEYyVFB1QXJqeFZNdS1yV3JEYWlNYVZneC1MSjZpUGw5bHJYbEht?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD'nin İran'a saldırısının ardından dünya hisse senetleri düştü, petrol fiyatları 2 dolardan fazla yükseldi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-28T13:01:04.553816+00:00",
+  "cluster_id": "c6e313741bf8c"
+ },
+ {
+  "title": "Bahçeli Özel'e 'Çok ıslandın, dikkat et' demiş",
+  "link": "https://www.diken.com.tr/bahceli-ozele-cok-islandin-dikkat-et-demis/?utm_source=rss&utm_medium=rss&utm_campaign=bahceli-ozele-cok-islandin-dikkat-et-demis",
+  "source": "Diken",
+  "summary_tr": "MHP Genel Başkanı Bahçeli, mahkeme kararıyla CHP başkanı olan Kılıçdaroğlu'na uyarı mesajı verdi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-28T13:01:04.553816+00:00",
+  "cluster_id": "cc85a7d023dbd"
+ },
+ {
+  "title": "Trump'tan Ermenistan Başbakanı Paşinyan'a tam destek",
+  "link": "https://www.sozcu.com.tr/trump-tan-ermenistan-basbakani-pasinyan-a-tam-destek-p323370",
+  "source": "Sözcü",
+  "summary_tr": "ABD Başkanı Trump, 7 Haziran'daki Ermeni parlamento seçimleri öncesinde Başbakan Paşinyan'a tam destek açıklaması yaptı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-28T13:01:04.553816+00:00",
+  "cluster_id": "c0caf110c4fe6"
+ },
+ {
+  "title": "ABD ekonomisi yılın ilk çeyreğinde yüzde 1,6 büyüdü",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abd-ekonomisi-yilin-ilk-ceyreginde-yuzde-1-6-buyudu/3950448",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD ekonomisi 2026 ilk çeyreğinde yüzde 1,6 büyüme kaydetti; tahminlerin altında kaldı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-28T13:01:04.553816+00:00",
+  "cluster_id": "cf02dc275e024"
+ },
+ {
+  "title": "İsrail, BM tarafından cinsel şiddetle ilgili kara listeye aldı",
+  "link": "https://www.trthaber.com/haber/dunya/israil-bm-tarafindan-cinsel-siddetle-ilgili-kara-listeye-aldi-946445.html",
+  "source": "TRT Haber",
+  "summary_tr": "BM, İsrail'i çatışma bölgelerinde cinsel şiddet uyguladığı gerekçesiyle kara listeye aldı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-28T13:01:04.553816+00:00",
+  "cluster_id": "c3329614f95da"
+ },
+ {
+  "title": "Karadeniz'de üç tankere İHA saldırısı",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wNHNNVG9zaVVDeHVvU1owdHk0dWxsV1RjTXBYUkJxbGVSV25UWUZPT0dJZklzVk1pSWREdXUybk5FOUVHRjd3bW5XSXh0ZVV2WmQ4SElWWXkxcDN2S3BpRDk2Ni1ablFicU5GLWx1RE1IV3djVHJtZGppeXhDb0k?oc=5",
+  "source": "soL",
+  "summary_tr": "Karadeniz'de üç tanker İHA saldırısına maruz kaldı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-28T13:01:04.553816+00:00",
+  "cluster_id": "cb60ebc384eee"
+ },
+ {
+  "title": "Ukraine to buy 20 new Gripen jets, Sweden to donate older jets sooner",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWTcza2ZHeURkeV9KTFZfdmFUU2NManZHci1saVl4NUUzVDZpYXRwVGRBMHhLQS1OdndnTDd1a2puQzBVRmZkcU9NTm1zNDI5UVg3bFlGMTdnanVzMDRjMjdESjlwNUZSckQxQkJKdWFFNDhWSWhaMDJBOXJFSjk2SF9vRnlhNVBvWmxmYUxnNERBLUNIYktmZ2k4cndGc1NoTGprRC1abTBtaHM2bHc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ukrayna 20 yeni Gripen savaş jeti satın alacak; İsveç eski jetleri daha erken hibe edecek.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-28T13:01:04.553816+00:00",
+  "cluster_id": "cbddd76adb4da"
+ },
+ {
+  "title": "Kılıçdaroğlu'ndan 'grup toplantısı' hamlesi: 'Talimatım olmadan yapılmayacak'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/kilicdaroglu-ndan-grup-toplantisi-hamlesi-talimatim-olmadan-yapilmayacak-2507555",
+  "source": "Cumhuriyet",
+  "summary_tr": "Kılıçdaroğlu, CHP grup toplantısının tarihinin henüz belirlenmediğini ve talimatı olmadan yapılmayacağını bildirdi.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-28T13:01:04.553816+00:00",
+  "cluster_id": "cd1a660150f85"
+ },
+ {
+  "title": "Kılıçdaroğlu'ndan bir hamle daha! CHP'nin grup toplantısı yapılmayacak",
+  "link": "https://www.sozcu.com.tr/kilicdaroglu-ndan-bir-hamle-daha-chp-nin-grup-toplantisi-yapilmayacak-p323368",
+  "source": "Sözcü",
+  "summary_tr": "Kılıçdaroğlu, CHP TBMM grup toplantısının yapılmayacağını açıkladı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-28T13:01:04.553816+00:00",
+  "cluster_id": "cd1a660150f85"
+ },
+ {
+  "title": "Kılıçdaroğlu aradı, Özel telefonu açmadı",
+  "link": "https://www.sozcu.com.tr/kilicdaroglu-aradi-ozel-telefonu-acmadi-p323374",
+  "source": "Sözcü",
+  "summary_tr": "Mahkeme kararıyla CHP başkanı olan Kılıçdaroğlu, seçilmiş genel başkan Özel'i aradığında telefon açılmadı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-28T13:01:04.553816+00:00",
+  "cluster_id": "cb7862826498e"
+ },
+ {
+  "title": "Kılıçdaroğlu ilk yenilgisini aldı",
+  "link": "https://www.sozcu.com.tr/kilicdaroglu-ilk-yenilgisini-aldi-p323371",
+  "source": "Sözcü",
+  "summary_tr": "Mahkemenin 'mutlak butlan' kararının ardından CHP'de siyasi gerilim yaşanıyor; Kılıçdaroğlu bayramlaşma ziyaretlerinde yenilgiye uğradı.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-05-28T13:01:04.553816+00:00",
+  "cluster_id": "c77f8d54a07ef"
+ },
+ {
+  "title": "AB'den Temu'ya 200 milyon avro ceza",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abden-temuya-200-milyon-avro-ceza/3950446",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "AB Komisyonu, Dijital Hizmetler Yasası'nı ihlal ettiği gerekçesiyle Temu'ya 200 milyon euro ceza kesti.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-28T13:01:04.553816+00:00",
+  "cluster_id": "cc73d83ee1f63"
+ },
+ {
   "title": "Kılıçdaroğlu'nun yapacağı PM ve YDK toplantıları ertelendi: Siyasi isimlerden tepki yağdı!",
   "link": "https://www.cumhuriyet.com.tr/siyaset/kilicdaroglu-nun-yapacagi-pm-ve-ydk-toplantilari-ertelendi-siyasi-isimlerden-tepki-yagdi-2507527",
   "source": "Cumhuriyet",
