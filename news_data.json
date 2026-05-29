@@ -1,5 +1,75 @@
 [
  {
+  "title": "ABD Başkanı Trump, İran'la ilgili son kararı bugün verebileceğini açıkladı",
+  "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trump-iranla-ilgili-son-karari-bugun-verebilecegini-acikladi-946559.html",
+  "source": "TRT Haber",
+  "summary_tr": "Trump İran'la anlaşma konusunda Cuma günü nihai karar vereceğini Beyaz Saray'da güvenlik ekibiyle görüşme sonrasında açıkladı.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-29T17:00:56.288907+00:00",
+  "cluster_id": "c486c50918240"
+ },
+ {
+  "title": "Trump says meeting Friday to make final decision on deal with Iran",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc3lQZEkwQjl6c2E5OWJKWmZfZ2ZXeXlZd1NDUVNNeEFMUUJHLUVWd0w2c3Vqb3hweHRVaVdqbWtuS3hPVkpHcG5DdGgxN1lxSjdlVGRwcm5WT2pvMW5pQkNtTDg1ZkoxZF93LUJ4T2VIWWlUWlFxVzBBY2RGbTBQQ3d1Z1hXZ0FlcXRTdGpDRUs2ZklLNWhRU2hmc1hUc0xGOVkxWA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump İran'la anlaşmaya ilişkin nihai kararı Cuma günü vermesi bekleniyor.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-29T17:00:56.288907+00:00",
+  "cluster_id": "c91d00bf15113"
+ },
+ {
+  "title": "İran basınından Trump’ın müzakerelere ilişkin açıklamasına tepki: 'Sahte bir zafer algısı...'",
+  "link": "https://www.cumhuriyet.com.tr/dunya/iran-basinindan-trump-in-muzakerelere-iliskin-aciklamasina-tepki-sahte-bir-zafer-algisi-2507840",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD Başkanı Trump İran müzakere sürecine ilişkin açıklamaları yapıyor; İran medyası bunları 'sahte zafer algısı' olarak nitelendiriyor.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-29T17:00:56.288907+00:00",
+  "cluster_id": "c17d2dcd7b62a"
+ },
+ {
+  "title": "İstanbul Barosu Başkanı: Mazbata Özgür Özel'dedir, YSK Kılıçdaroğlu için herhangi bir işlemde bulunmadı",
+  "link": "https://www.sozcu.com.tr/istanbul-barosu-baskani-mazbata-ozgur-ozel-dedir-ysk-kilicdaroglu-icin-herhangi-bir-islemde-p323613",
+  "source": "Sözcü",
+  "summary_tr": "İstanbul Barosu Başkanı: YSK Kılıçdaroğlu için işlem yapmadı; CHP Genel Başkanlığı mazbatası Özgür Özel'dedir.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-29T17:00:56.288907+00:00",
+  "cluster_id": "caa0a81685f2a"
+ },
+ {
+  "title": "Canada enters surprise technical recession amid tariff uncertainty",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR3FxR1BJTUFCRGMzcm1STDI5cW8xZURFaEk0Q0VLQTV6M1NXWHo4eVc0Yk9SRjg5Mng3VUEzTUp6ellwZGxaT00xR3BmUE8yRklucnJuVWZUTF9UM3pSaHQ4UGF1Y2dOMnMwY1VJN0JUVTZqWnA5YnBSTzVPY25DWXRRSlZqYzlxbmpOaGJHbGdlWUFVR1MzeXU3Y24tZWJnc0ZaNFNjUVIyUkIweU1VbV95eXhoX3dvUHJxdkl3?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Kanada gümrük tarifeleri belirsizliği ortamında beklenmedik teknik resesyona girdi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-29T17:00:56.288907+00:00",
+  "cluster_id": "c16f4d53e7772"
+ },
+ {
+  "title": "Özgür Özel'den Silivri ziyaretleri: 19 kişiyle görüştü",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-den-silivri-ziyaretleri-19-kisiyle-gorustu-2507839",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Genel Başkanı Özgür Özel Silivri Cezaevi'nde 19 tutuklu belediye başkanı ve siyasi tutuklularla görüşme gerçekleştirdi.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-05-29T17:00:56.288907+00:00",
+  "cluster_id": "ce9b17128675d"
+ },
+ {
+  "title": "Russian drone targeting Ukraine hits apartment building in Romania, injuring 2, officials say",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMG54YnVtMmZTU1JmaWlTbDVRb1B4d3JiaUhwNzZTWlNvR0xsZy1sS3NjdnJDS1otSVAtd19VOEZxbVI3YkRVLXZZeWV3dFFmaDV0aGpSVmhVNEl1UDhQLWpBZUQ4RkJNWjVZOVNySXlLX0htR2RwVFNrOEs3bVcyXzlGM29jNlpHaXRrUVB5V2tFZkdHLVZJ?oc=5",
+  "source": "AP",
+  "summary_tr": "Rusya'nın Ukrayna'ya yönelik İHA saldırısı Romanya'daki apartman binasına çarptı; 2 kişi yaralandı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-29T17:00:56.288907+00:00",
+  "cluster_id": "cc0699fb37bbe"
+ },
+ {
   "title": "Trump, İran'la anlaşma konusunda 'nihai' kararını bugün verecekmiş",
   "link": "https://www.diken.com.tr/trump-iranla-anlasma-konusunda-nihai-kararini-bugun-verecekmis/?utm_source=rss&utm_medium=rss&utm_campaign=trump-iranla-anlasma-konusunda-nihai-kararini-bugun-verecekmis",
   "source": "Diken",
