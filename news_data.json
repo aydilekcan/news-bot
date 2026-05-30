@@ -1,5 +1,95 @@
 [
  {
+  "title": "İran Savaşı Sonrası Ortadoğu: Türkiye İçin Fırsat mı, Tuzak mı?",
+  "link": "https://yetkinreport.com/2026/05/30/iran-savasi-sonrasi-ortadogu-turkiye-icin-firsat-mi-tuzak-mi/",
+  "source": "YetkinReport",
+  "summary_tr": "İran savaşı sonrası Ortadoğu yapılanmasında Trump, İsrail, İran iç dinamikleri ve Körfez güvenliği Türkiye'nin konumunu etkileyebilir.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-30T08:00:55.011155+00:00",
+  "cluster_id": "c572228b0dc19"
+ },
+ {
+  "title": "ABD’den zengin müttefiklere uyarı: Savunma yükünü artık biz taşımayacağız",
+  "link": "https://www.cumhuriyet.com.tr/dunya/abd-den-zengin-muttefiklere-uyari-savunma-yukunu-artik-biz-tasimayacagiz-2507919",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD Savunma Bakanı Hegseth, Hint-Pasifik müttefiklerine savunma yükünün artık ABD'nin sorumlulluğunda olmadığını belirtti.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-30T08:00:55.011155+00:00",
+  "cluster_id": "c61df30b4efa6"
+ },
+ {
+  "title": "CANLI: Seçilmiş-atanmış CHP! Türk siyasetinin gözleri Ankara'ya çevrildi",
+  "link": "https://www.sozcu.com.tr/secilmis-atanmis-chp-karsi-karsiya-turk-siyasetinin-gozleri-ankara-ya-cevrildi-p323711",
+  "source": "Sözcü",
+  "summary_tr": "Ankara Bölge Adliye Mahkemesi CHP'nin mutlak butlan kararını verdi; Özgür Özel geçici Genel Başkan olarak atandı.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-05-30T08:00:55.011155+00:00",
+  "cluster_id": "cfe400c918785"
+ },
+ {
+  "title": "Mehmet Ali Güller: Mesele Özel/İmamoğlu ile Kılıçdaroğlu çatışmasından ötedir",
+  "link": "https://www.diken.com.tr/mehmet-ali-guller-mesele-ozel-imamoglu-ile-kilicdaroglu-catismasindan-otedir/?utm_source=rss&utm_medium=rss&utm_campaign=mehmet-ali-guller-mesele-ozel-imamoglu-ile-kilicdaroglu-catismasindan-otedir",
+  "source": "Diken",
+  "summary_tr": "CHP'de iç çatışma: Özel/İmamoğlu ile Kılıçdaroğlu arasında yaşanan anlaşmazlık cumhuriyet kurumlarına yönelik bir tehdit olarak değerlendiriliyor.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-05-30T08:00:55.011155+00:00",
+  "cluster_id": "c6a7d4a33b5f2"
+ },
+ {
+  "title": "CHP İlke ve Demokrasi Hareketi’nden 'mutlak butlan' açıklaması",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-ilke-ve-demokrasi-hareketi-nden-mutlak-butlan-aciklamasi-2507915",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP İlke ve Demokrasi Hareketi, Örsan Öymen aracılığıyla mahkemenin mutlak butlan kararını yok hükmünde saydığını açıkladı.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-05-30T08:00:55.011155+00:00",
+  "cluster_id": "c2e75b66fefa8"
+ },
+ {
+  "title": "ABD Dışişleri Bakanı açıkladı: Tom Barrack için yol göründü",
+  "link": "https://www.sozcu.com.tr/abd-disisleri-bakani-acikladi-tom-barrack-icin-yol-gorundu-p323704",
+  "source": "Sözcü",
+  "summary_tr": "ABD Dışişleri Bakanı Rubio, Türkiye Büyükelçisi Tom Barrack'ın görev süresinin uzatılacağını açıkladı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-30T08:00:55.011155+00:00",
+  "cluster_id": "cd025974a7bcb"
+ },
+ {
+  "title": "ABD, Doğu Pasifik'te uyuşturucu taşıdığını öne sürdüğü tekneyi vurduğunu açıkladı",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-dogu-pasifikte-uyusturucu-tasidigini-one-surdugu-tekneyi-vurdugunu-acikladi/3951617",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD ordusu Pasifik Okyanusu'nda uyuşturucu taşıdığı öne sürülen tekneye saldırı düzenleyerek 3 kişinin öldürüldüğünü duyurdu.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-30T08:00:55.011155+00:00",
+  "cluster_id": "c88fa9d088be9"
+ },
+ {
+  "title": "Kılıçdaroğlu PM toplantısını ertelemişti: 'Tebliğ bahane edildi, denge Özel lehine'",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTDg3VXJWaUFpTHJqamVFcmlTWWh3ZGpnVkU4dlNKWnpEQnVBd0dsMDk4TXk2cGo1MGIzT3ZuTWh1dW5xeVYybUVlczFfN3V1SE95Rl9xOXNNNUNBQjdSd0NFTXpvRHV2NGZQWWUyUEJWSV9JcmtqdFdnTnhwRkUzODZZdW1Rd3ZRTU03UmNFdUl0dDZYSlJFLUh5Y3lRLVZDQnFrLTRGY1IzUEJZMkZvTGcwUWlUR1hU?oc=5",
+  "source": "soL",
+  "summary_tr": "Kılıçdaroğlu PM toplantısını ertelerken tebliğ bahane edilerek dengenin Özel lehine kaydığı iddia edildi.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-05-30T08:00:55.011155+00:00",
+  "cluster_id": "c634f9476ed01"
+ },
+ {
+  "title": "Hegseth tones down warnings about China but says US remains committed to Pacific security",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUFFvM2o3X3drYmpRVDFjd3NaZkRqbEtnNEw0OHgyTzdXNDZXT0xtTEZYWEo5amlBcTZhSks2ZTdzR2VDdTV1bmh3X3dYQ1FzamY0ZHhiSWpRRThjbnh4NFYtY003VG5pYVlnT2JvenFHVjh2RUFVeW5RT1dQb0Nrcmt4aUwwMTNrU3Fxa2hOQUtRenhlR3JDS2dUZElPVjF5cHd3VTVWSXNIelZ6VTNsSzl3?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD Savunma Bakanı Hegseth, Çin konusunda uyarılarını hafifletirken ABD'nin Pasifik güvenliğine kararlı kaldığını vurguladı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-30T08:00:55.011155+00:00",
+  "cluster_id": "cf55c4fb6ed0d"
+ },
+ {
   "title": "Kuveyt'de İran füzesi sebebiyle 5 ABD askeri yaralandı",
   "link": "https://www.sozcu.com.tr/kuveyt-de-iran-fuzesi-sebebiyle-5-abd-askeri-yaralandi-p323684",
   "source": "Sözcü",
