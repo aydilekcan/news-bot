@@ -1,5 +1,85 @@
 [
  {
+  "title": "Zelenski: Rusya, son bir haftada 108 füze ve 2300'den fazla SİHA ile hava saldırıları düzenledi",
+  "link": "https://www.trthaber.com/haber/dunya/zelenski-rusya-son-bir-haftada-108-fuze-ve-2300den-fazla-siha-ile-hava-saldirilari-duzenledi-946715.html",
+  "source": "TRT Haber",
+  "summary_tr": "Zelenski, Rusya'nın son haftada Ukrayna'ya 108 füze ve 2300'den fazla SİHA ile saldırı düzenlediğini açıkladı.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-31T13:01:00.211001+00:00",
+  "cluster_id": "c523e2baac13f"
+ },
+ {
+  "title": "Kılıçdaroğlu: Kul hakkı yemedim",
+  "link": "https://www.diken.com.tr/kilicdaroglu-kul-hakki-yemedim/?utm_source=rss&utm_medium=rss&utm_campaign=kilicdaroglu-kul-hakki-yemedim",
+  "source": "Diken",
+  "summary_tr": "CHP Genel Başkanı Kılıçdaroğlu, mahkeme kararıyla göreve gelmesinin ardından 'kul hakkı yemedim' açıklaması yaptı.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-05-31T13:01:00.211001+00:00",
+  "cluster_id": "c69e3b2da131d"
+ },
+ {
+  "title": "Fransa’dan İsrail’e Lübnan tepkisi: Hiçbir şey haklı çıkaramaz",
+  "link": "https://www.cumhuriyet.com.tr/dunya/fransa-dan-israil-e-lubnan-tepkisi-hicbir-sey-hakli-cikaramaz-2508165",
+  "source": "Cumhuriyet",
+  "summary_tr": "Fransa Dışişleri Bakanı Barrot, İsrail'in Lübnan işgalinin hiçbir şeyle haklı çıkarılamayacağını belirtti.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-31T13:01:00.211001+00:00",
+  "cluster_id": "c4aa4ffbce98c"
+ },
+ {
+  "title": "DEM ‘çerçeve yasa’ için bastırıyor, AKP’de gözler MİT raporunda: Yasal düzenleme çıkmazı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/dem-cerceve-yasa-icin-bastiriyor-akp-de-gozler-mit-raporunda-yasal-duzenleme-cikmazi-2508158",
+  "source": "Cumhuriyet",
+  "summary_tr": "DEM Parti, PKK mensuplarını kapsayan çerçeve yasa için Meclis kapanmadan bastırıyor; AKP'nin MİT raporuna bakıyor.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-05-31T13:01:00.211001+00:00",
+  "cluster_id": "cfed69a379fb3"
+ },
+ {
+  "title": "İran, Güney Pars doğal gaz sahasındaki üç deniz üstü platformunda gaz üretimini yeniden başlattı",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-guney-pars-dogal-gaz-sahasindaki-uc-deniz-ustu-platformunda-gaz-uretimini-yeniden-baslatti/3952317",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran, ABD ve İsrail saldırıları nedeniyle durdurduğu Güney Pars doğal gaz sahasındaki üç platformda gaz üretimini yeniden başlattı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-31T13:01:00.211001+00:00",
+  "cluster_id": "c9109f2e54f19"
+ },
+ {
+  "title": "Eski CHP'li vekil İhsan Özkes'ten dikkat çeken çıkış: \"‘Cemaat ile yakınlaşmak bize zarar verir’ dedim, Kılıçdaroğlu bozuldu\"",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/eski-chp-li-vekil-ihsan-ozkes-ten-dikkat-ceken-cikis-cemaat-ile-yakinlasmak-bize-zarar-verir-dedim-kilicdaroglu-bozuldu-2508164",
+  "source": "Cumhuriyet",
+  "summary_tr": "Eski CHP milletvekili Özkes, Kılıçdaroğlu'nun cemaatlerle yakınlaşma konusunda kendisine karşı tepkili davrandığını söyledi.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-05-31T13:01:00.211001+00:00",
+  "cluster_id": "c3ee3b4b206a1"
+ },
+ {
+  "title": "Ankara kulislerinde konuşulan bomba iddiayı CHP doğruladı: Pazartesi düğmeye basılıyor",
+  "link": "https://www.sozcu.com.tr/ankara-kulislerinde-konusulan-bomba-iddiayi-chp-dogruladi-pazartesi-dugmeye-basiliyor-p323959",
+  "source": "Sözcü",
+  "summary_tr": "CHP'nin olağanüstü kurultay için Pazartesi günü karar vereceği öğrenildi; eski İzmir milletvekili Balbay tarafından doğrulandı.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-05-31T13:01:00.211001+00:00",
+  "cluster_id": "c94572517531a"
+ },
+ {
+  "title": "CHP'li Zeynel Emre: 'Kurultay yapılmazsa seçime girilemez'",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUlQRFpDZGpQMndMaVZhQkU5ZGE1VmpNeUxpZ1FRYk81Tm9rVlZHRVNmTTAtWFlqMlVELXFsS1JnSnc1UU9PSHNmSmFYdENfU2laVG9wVXJTT0FtTjFTMFRSRUZXZ2NacEhNRWFVemt4Yjc3LVRNNjJGc1ZnY05zbkE2N1BUYk5YVlZqVGthUERTSmtvbkFZ?oc=5",
+  "source": "soL",
+  "summary_tr": "CHP'li Emre, kurultay yapılmazsa seçime girilemeyeceğini belirtti.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-05-31T13:01:00.211001+00:00",
+  "cluster_id": "c126b4a4bb4cd"
+ },
+ {
   "title": "Netanyahu’dan Lübnan talimatı: İşgal genişletilecek",
   "link": "https://www.cumhuriyet.com.tr/dunya/netanyahu-dan-lubnan-talimati-isgal-genisletilecek-2508153",
   "source": "Cumhuriyet",
