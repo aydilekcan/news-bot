@@ -1,5 +1,105 @@
 [
  {
+  "title": "Netanyahu’dan Lübnan talimatı: İşgal genişletilecek",
+  "link": "https://www.cumhuriyet.com.tr/dunya/netanyahu-dan-lubnan-talimati-isgal-genisletilecek-2508153",
+  "source": "Cumhuriyet",
+  "summary_tr": "İsrail Başbakanı Netanyahu, ateşkese rağmen Lübnan'daki kara saldırılarının ve işgalin genişletilmesi talimatını verdi.",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-05-31T12:00:56.502189+00:00",
+  "cluster_id": "c9205f8e9ca5b"
+ },
+ {
+  "title": "Ateşkesi bitiren İsrail stratejik kaleyi ele geçirdi",
+  "link": "https://www.sozcu.com.tr/ateskesi-bitiren-israil-stratejik-kaleyi-ele-gecirdi-p323954",
+  "source": "Sözcü",
+  "summary_tr": "İsrail ordusu Lübnan'daki Beaufort Kalesi'ni ele geçirerek Litani Nehri'ni geçti; ateşkes tamamen bozuldu.",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-05-31T12:00:56.502189+00:00",
+  "cluster_id": "c23a72172f315"
+ },
+ {
+  "title": "Netanyahu, İsrail ordusuna Lübnan'daki işgali daha da genişletme talimatı verdi",
+  "link": "https://www.aa.com.tr/tr/dunya/netanyahu-israil-ordusuna-lubnandaki-isgali-daha-da-genisletme-talimati-verdi/3952274",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Netanyahu, ateşkese rağmen İsrail ordusuna Lübnan'daki işgali genişletme talimatı verdi.",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-05-31T12:00:56.502189+00:00",
+  "cluster_id": "ca3635274a72b"
+ },
+ {
+  "title": "İşgalci Netanyahu, İsrail ordusuna Lübnan'daki işgali daha da genişletme talimatı verdi",
+  "link": "https://www.trthaber.com/haber/dunya/isgalci-netanyahu-israil-ordusuna-lubnandaki-isgali-daha-da-genisletme-talimati-verdi-946708.html",
+  "source": "TRT Haber",
+  "summary_tr": "Netanyahu, ateşkese rağmen İsrail ordusuna Lübnan'daki işgali genişletme talimatı verdi.",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-05-31T12:00:56.502189+00:00",
+  "cluster_id": "ca3635274a72b"
+ },
+ {
+  "title": "Israeli army captures strategic castle in Lebanon in deepest incursion into the country in 26 years",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT2p1RlRMTENDT3BFN3poMnZVcnhHTkswOUxReVNMYS1hOGY0SDBPNWREMGhMeFR4UUZreGU4VlJEYVJhbWZ1ekRjc0wySTc2clhFemZISmlmYW90dU5jd0xOZjIxSkVhaVR3MUhzZkZvUE02M2g3Y09sMWkxUms5eVQya0ZnWjliUnFQV21vcDZ5Qlp4TTJubFhWS1dkVDg?oc=5",
+  "source": "AP",
+  "summary_tr": "İsrail ordusu Lübnan'da Beaufort Kalesi'ni ele geçirerek 26 yılın en derin ilerlemesini gerçekleştirdi.",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-05-31T12:00:56.502189+00:00",
+  "cluster_id": "c154ba7d43109"
+ },
+ {
+  "title": "Son Dakika... CHP MYK toplantısı sona erdi... CHP Sözcüsü Zeynel Emre açıkladı: Olağanüstü kurultay için düğmeye basılıyor!",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-chp-myk-toplantisi-sona-erdi-chp-sozcusu-zeynel-emre-acikladi-olaganustu-kurultay-icin-dugmeye-basiliyor-2508154",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP MYK toplantısı sona erdi; Seçilmiş Genel Başkan Özgür Özel başkanlığında yapılan toplantıda olağanüstü kurultay kararı alındı.",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-05-31T12:00:56.502189+00:00",
+  "cluster_id": "cdd56cf921491"
+ },
+ {
+  "title": "CHP MYK, seçilmiş genel başkan Özgür Özel başkanlığında toplandı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-myk-secilmis-genel-baskan-ozgur-ozel-baskanliginda-toplandi-2508147",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Seçilmiş Genel Başkanı Özgür Özel başkanlığında TBMM'de MYK toplantısı gerçekleştirildi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-31T12:00:56.502189+00:00",
+  "cluster_id": "c8d2dc3556ec2"
+ },
+ {
+  "title": "Ukrayna’dan Rusya’nın enerji altyapısına yeni saldırılar",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQnZlSDl3OFMza0FwOS1zY3NJdjFfaDVCbjhfQTFEc2JOSFVTUGRWemVMMUhPY1ozWGVwWEhNOUliOWxjZlJvanl1cndRY3lwLXZvMy0yNGZzbUg2NGZOM3RZWll0NDVJUUJ5TnVKdy1NWWNGZWdZWndRYWpqd2VLYi11bmZhUXpKcUpXU3Y2bjRaOENLRlZj?oc=5",
+  "source": "soL",
+  "summary_tr": "Ukrayna, Rusya'nın enerji altyapısına yeni saldırılar düzenledi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-31T12:00:56.502189+00:00",
+  "cluster_id": "caca49feec01c"
+ },
+ {
+  "title": "Dev tünellerle 1 saatlik yol 5 dakikaya düşecek: Bakan açıkladı",
+  "link": "https://www.sozcu.com.tr/dev-tunellerle-1-saatlik-yol-5-dakikaya-dusecek-bakan-acikladi-p323952",
+  "source": "Sözcü",
+  "summary_tr": "Ulaştırma Bakanı Uraloğlu, Hatay'daki Dörtyol-Hassa Demiryolu ve Otoyolu Projesi'ni tanıttı; 1 saatlik yol 5 dakikaya düşecek.",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-05-31T12:00:56.502189+00:00",
+  "cluster_id": "c872004506c6e"
+ },
+ {
+  "title": "Hatay'daki Dörtyol-Hassa Demir Yolu ve Otoyolu Projesi ile Amik Ovası'na ulaşım kolaylaşacak",
+  "link": "https://www.aa.com.tr/tr/ekonomi/hataydaki-dortyol-hassa-demir-yolu-ve-otoyolu-projesi-ile-amik-ovasina-ulasim-kolaylasacak/3952287",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ulaştırma Bakanı Uraloğlu, Hatay'daki Dörtyol-Hassa Demir Yolu ve Otoyolu Projesi'nin Amik Ovası'na ulaşımı kolaylaştıracağını açıkladı.",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-05-31T12:00:56.502189+00:00",
+  "cluster_id": "c49bb4d241109"
+ },
+ {
   "title": "US castigates Europe over defence spend as NATO reassures Asia",
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeW5Rc1FldFFIVWxqVFhMLW45WGM4TWlvNmhFUTdVdE9DMW1veEdxaUg2cm0zbm4xOEJ0a2pYVWZsOF9ueHB3VndHTVNIb2ZuLV9TaWF3eHREN2w5MDRNV1FSTGN6VzJwdUJVcFlTQnVDOTFiLTR5ODRvWnhvV0dLVnZVSUNzaU9HdnI0SjFjTm4wTXprRlRraGpodEMtdVEtSjl1eGxhR2ttVlZlUU16TEUxMXRDQ1BmY2g0cTNqMA?oc=5",
   "source": "Reuters",
