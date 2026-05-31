@@ -1,5 +1,85 @@
 [
  {
+  "title": "US castigates Europe over defence spend as NATO reassures Asia",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeW5Rc1FldFFIVWxqVFhMLW45WGM4TWlvNmhFUTdVdE9DMW1veEdxaUg2cm0zbm4xOEJ0a2pYVWZsOF9ueHB3VndHTVNIb2ZuLV9TaWF3eHREN2w5MDRNV1FSTGN6VzJwdUJVcFlTQnVDOTFiLTR5ODRvWnhvV0dLVnZVSUNzaU9HdnI0SjFjTm4wTXprRlRraGpodEMtdVEtSjl1eGxhR2ttVlZlUU16TEUxMXRDQ1BmY2g0cTNqMA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, NATO'da Avrupa'yı savunma harcamalarının yetersizliği konusunda sert şekilde eleştirirken, NATO Asya'ya güvence verdi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-31T11:00:58.887612+00:00",
+  "cluster_id": "c280661de5b59"
+ },
+ {
+  "title": "Ukrainian drones hit pipeline, refinery, fuel depot in overnight strikes",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc29NbGRQTERqM0hUOU9zc1ZhVlFIaGktVUNkRjAtbVoydV9uRGlrSDkwemFHcTQ2ZFh6WUVOd3hwb2xYTWJ3NnpKSGZ1YW8yVjI1NEk5bk5HRDY1b1B0Q1ZycWVmYktIMWVhOEdxdVlXSUc2LWtsTy1TNzUxYVh1ZjloM3NsOFR1TEVaVVVWZHFxQlk4UlRBMnpoWElnYWlxZ01OVUNhbUVCYUVt?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ukrayna, gece saatlerinde drone saldırılarıyla Rusya'nın boru hattı, rafinerisi ve yakıt deposunu hedef aldı.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-05-31T11:00:58.887612+00:00",
+  "cluster_id": "c4f270dd7846e"
+ },
+ {
+  "title": "İran’dan ABD’ye iki seçenekli mesaj: Kötü yol ya da daha kötüsü",
+  "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-abd-ye-iki-secenekli-mesaj-kotu-yol-ya-da-daha-kotusu-2508134",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran Devrim Muhafızları Ordusu Komutan Yardımcısı, ABD'ye sert mesaj vererek Tahran'ın bölgede üstün konuma geçtiğini savundu.",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-05-31T11:00:58.887612+00:00",
+  "cluster_id": "ccb1df9d637d7"
+ },
+ {
+  "title": "İran Meclis Başkanı Kalibaf: Haklarımız güvence altına alınana kadar hiçbir anlaşmayı onaylamayacağız",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-meclis-baskani-kalibaf-haklarimiz-guvence-altina-alinana-kadar-hicbir-anlasmayi-onaylamayacagiz/3952261",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Meclisi Başkanı Kalibaf, İran halkının hakları güvence altına alınana kadar ABD ile anlaşmayı onaylamayacaklarını bildirdi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-31T11:00:58.887612+00:00",
+  "cluster_id": "ced56b8a9738a"
+ },
+ {
+  "title": "İsrail'in Kurban Bayramı'nda Gazze'ye düzenlediği saldırılarda 33 Filistinli yaşamını yitirdi",
+  "link": "https://www.aa.com.tr/tr/dunya/israilin-kurban-bayraminda-gazzeye-duzenledigi-saldirilarda-33-filistinli-yasamini-yitirdi/3952248",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusu Kurban Bayramı'nda Gazze'ye düzenlediği saldırılarda 33 Filistinliyi öldürdü, 130'dan fazla kişi yaralandı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-05-31T11:00:58.887612+00:00",
+  "cluster_id": "c7553d4131644"
+ },
+ {
+  "title": "Türkiye kapakları açınca köyler su altında kaldı: Komşuda binler evsiz kaldı",
+  "link": "https://www.sozcu.com.tr/turkiye-baraj-kapaklarini-acti-komsuda-onlar-koy-sular-altinda-kaldi-p323935",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye'nin kapakları açması sonucu Suriye'de sel felaketi meydana geldi, 2.400'den fazla aile tahliye edildi.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-31T11:00:58.887612+00:00",
+  "cluster_id": "cbf2bb246ee08"
+ },
+ {
+  "title": "Gazze'deki Aksa Şehitleri Hastanesi'nde jeneratör krizi: Yoğun bakım ve diyaliz üniteleri hizmet dışı kalabilir",
+  "link": "https://www.aa.com.tr/tr/dunya/gazzedeki-aksa-sehitleri-hastanesinde-jenerator-krizi-yogun-bakim-ve-diyaliz-uniteleri-hizmet-disi-kalabilir/3952253",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Gazze'deki Aksa Şehitleri Hastanesi'nde jeneratör arızaları kritik aşamaya ulaştı, yoğun bakım ve diyaliz üniteleri hizmet dışı kalabilir.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-31T11:00:58.887612+00:00",
+  "cluster_id": "ccb6efe300bbb"
+ },
+ {
+  "title": "Gazze'de jeneratör krizi: Yoğun bakım ve diyaliz üniteleri hizmet dışı kalabilir",
+  "link": "https://www.trthaber.com/haber/dunya/gazzede-jenerator-krizi-yogun-bakim-ve-diyaliz-uniteleri-hizmet-disi-kalabilir-946703.html",
+  "source": "TRT Haber",
+  "summary_tr": "Gazze'deki Aksa Şehitleri Hastanesi'nde jeneratör arızaları kritik aşamaya ulaştı, yoğun bakım ve diyaliz üniteleri hizmet dışı kalabilir.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-05-31T11:00:58.887612+00:00",
+  "cluster_id": "ccb6efe300bbb"
+ },
+ {
   "title": "Trump baskısına karşı Powell’a 'cesaret' ödülü",
   "link": "https://www.cumhuriyet.com.tr/dunya/trump-baskisina-karsi-powell-a-cesaret-odulu-2508126",
   "source": "Cumhuriyet",
