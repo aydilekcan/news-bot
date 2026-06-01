@@ -1,5 +1,125 @@
 [
  {
+  "title": "Israel's Netanyahu orders attacks in Beirut's southern suburbs",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTGVNZ0JwVmtPajlZNnZFWU96LVZ4WlpjdjdlSGtsTzhta0JoTXR3WE9zQjFqV0tFalJ6dWNWVGVtQzRXRExaUlZGUURjVEpDdFVSaUdZb2k4WFNsblBVX0phMFNhN1N2dS0taVNOOFdORnlBQm0wQ1U5aUpUQV9COThOaThpWVBGY3RSWVZ5RjMwRkJCdVNQOHc3S0xSaWNZQ1Q1a19CQUlvejV1YlhYMk5TUEtRa3pSSGJkd0wtRGpYY1hBNVE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Netanyahu, Beyrut'un güney banliyölerine saldırılar düzenlenmesini emretti.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-01T10:01:07.100040+00:00",
+  "cluster_id": "c71947156a849"
+ },
+ {
+  "title": "Şimşek hala 'bayram havası'nda: Ekonomimiz kesintisiz büyüyor",
+  "link": "https://www.diken.com.tr/simsek-hala-bayram-havasinda-ekonomimiz-kesintisiz-buyuyor/?utm_source=rss&utm_medium=rss&utm_campaign=simsek-hala-bayram-havasinda-ekonomimiz-kesintisiz-buyuyor",
+  "source": "Diken",
+  "summary_tr": "Hazine ve Maliye Bakanı Mehmet Şimşek, Türkiye ekonomisinin 23 çeyrektir kesintisiz büyüdüğünü açıkladı.",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-06-01T10:01:07.100040+00:00",
+  "cluster_id": "c0affe2328b0a"
+ },
+ {
+  "title": "Bakan Şimşek: Ekonomimiz 23 çeyrektir kesintisiz büyüyor",
+  "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-ekonomimiz-23-ceyrektir-kesintisiz-buyuyor-946778.html",
+  "source": "TRT Haber",
+  "summary_tr": "Hazine Bakanı Şimşek, ekonominin 23 çeyrektir kesintisiz büyümesini sürdürdüğünü açıkladı.",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-06-01T10:01:07.100040+00:00",
+  "cluster_id": "c0affe2328b0a"
+ },
+ {
+  "title": "Bakan Şimşek'ten büyüme verileri sonrası ilk açıklama: 'Ekonomimiz çoklu şoklara rağmen...'",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/bakan-simsek-ten-buyume-verileri-sonrasi-ilk-aciklama-ekonomimiz-coklu-soklara-ragmen-2508357",
+  "source": "Cumhuriyet",
+  "summary_tr": "Hazine Bakanı Şimşek, ekonominin çoklu şoklara rağmen 23. çeyrektir kesintisiz büyümesini sürdürdüğünü bildirdi.",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-06-01T10:01:07.100040+00:00",
+  "cluster_id": "c1caf89aeb753"
+ },
+ {
+  "title": "İstanbul'un mayıs ayı enflasyonu açıklandı: Dışarıda yemek yemek lüks oldu",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/istanbul-un-mayis-ayi-enflasyonu-aciklandi-disarida-yemek-yemek-luks-oldu-2508359",
+  "source": "Cumhuriyet",
+  "summary_tr": "İstanbul'da mayıs ayında perakende enflasyonu aylık yüzde 1,53 arttı; yıllık enflasyon yüzde 36,77'ye ulaştı.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-01T10:01:07.100040+00:00",
+  "cluster_id": "c1f210dc3d5fe"
+ },
+ {
+  "title": "İstanbul'un mayıs ayı enflasyonu belli oldu",
+  "link": "https://www.sozcu.com.tr/istanbul-un-mayis-ayi-enflasyonu-belli-oldu-p324207",
+  "source": "Sözcü",
+  "summary_tr": "İstanbul'da mayıs ayında tüketici fiyatları aylık yüzde 1,53 arttı.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-01T10:01:07.100040+00:00",
+  "cluster_id": "c1f210dc3d5fe"
+ },
+ {
+  "title": "Macaristan’da koltuk savaşı: Hükümet ile cumhurbaşkanı karşı karşıya",
+  "link": "https://www.cumhuriyet.com.tr/dunya/macaristan-da-koltuk-savasi-hukumet-ile-cumhurbaskani-karsi-karsiya-2508351",
+  "source": "Cumhuriyet",
+  "summary_tr": "Macaristan Başbakanı Magyar, Cumhurbaşkanı Sulyok istifa etmezse görevden alma sürecini başlatacaklarını açıkladı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-01T10:01:07.100040+00:00",
+  "cluster_id": "c7c5ee2c892c7"
+ },
+ {
+  "title": "İngiltere'de imalat sanayi aktivitesi mayısta son 4 yılın en yüksek seviyesini gördü",
+  "link": "https://www.aa.com.tr/tr/ekonomi/ingilterede-imalat-sanayi-aktivitesi-mayista-son-4-yilin-en-yuksek-seviyesini-gordu/3952951",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İngiltere'de imalat sanayi PMI mayısta 53,9 puanla son 4 yılın en yüksek seviyesine ulaştı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-01T10:01:07.100040+00:00",
+  "cluster_id": "c49f99c0d9bc3"
+ },
+ {
+  "title": "İsrail, Gazze'den sonra Batı Şeria'da da sağlık sistemini adım adım yok ediyor",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-gazzeden-sonra-bati-seriada-da-saglik-sistemini-adim-adim-yok-ediyor/3952862",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail, Batı Şeria'da Filistinli gümrük gelirlerine el koyarak ve yardım kuruluşlarını kısıtlayarak sağlık sistemini zayıflatıyor.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-01T10:01:07.100040+00:00",
+  "cluster_id": "cac817859a1f2"
+ },
+ {
+  "title": "İran Meclis Başkanı Kalibaf: Deniz ablukasının uygulanması ABD'nin ateşkese bağlı kalmadığının açık kanıtı",
+  "link": "https://www.trthaber.com/haber/dunya/iran-meclis-baskani-kalibaf-deniz-ablukasinin-uygulanmasi-abdnin-ateskese-bagli-kalmadiginin-acik-kaniti-946785.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Meclis Başkanı Kalibaf, ABD'nin Hürmüz Boğazı'ndaki deniz ablukasını ateşkese bağlı kalmaması kanıtı olarak nitelendirdi.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-01T10:01:07.100040+00:00",
+  "cluster_id": "cd7ea7ca66b03"
+ },
+ {
+  "title": "Hungary's Magyar threatens legal action if president refuses to resign",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORDVNOVBxOGxSSktIOVN6cmdGcjgwaWd6WTFWVXRBMzVYS1BvZFRDZ3VQbm93WjJJXzdKMV9Oc19sdWxIY0VDblg2cjREOXhnVVdtdklqeDhfLUczLUVRZmVFZjV2UnNlcXAzSDFibEZDS1hiNFZId1B5cktFYm5MLVVzdkcyclBUejRZOFlXbmhOTHg3TUNVcS05enJNZTlOckdBS0FVZ0lra3FGRENLQUoyRHZIc3EtUGln?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Macaristan Başbakanı Magyar, Cumhurbaşkanı'nın istifa etmemesi durumunda hukuki yol başlatacağını açıkladı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-01T10:01:07.100040+00:00",
+  "cluster_id": "c23ffeafc909d"
+ },
+ {
+  "title": "Russia bans aviation fuel exports until November 30",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1Z2d3FpVXNuTjFrX3d6ZDU0TEMtNVJsamhQbUVjY292OHhoQU43anlCMnNnQkZkcUpDa1hQQ1M2RkdaMHBvd1g1SDJyMDBmMEtXNkNHY1ltOXRoRzdjUGJaekNHNHRSSVZQZ2kyNlpLWnpnWVJJQ2VzOUNnT005QURrYXlWV2FER0Q2SFZkZTFUS1JZaUppbEhySXltdjlpaXlEVmNn?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya, havacılık yakıtı ihracatını 30 Kasım'a kadar yasakladı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-01T10:01:07.100040+00:00",
+  "cluster_id": "c0cc4d4cb4864"
+ },
+ {
   "title": "Rusya ve NATO arasındaki küçücük adada dev savaş hazırlığı",
   "link": "https://www.sozcu.com.tr/rusya-ve-nato-arasindaki-kucucuk-adada-dev-savas-hazirligi-p324183",
   "source": "Sözcü",
