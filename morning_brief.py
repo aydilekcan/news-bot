@@ -12,9 +12,26 @@ import json
 import time
 from datetime import datetime, timezone, timedelta
 
-TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN", "8735024977:AAGKdvu65vz8IZ4Cz-_Oqp0ALh9hry5px4w")
-CHAT_ID        = os.environ.get("CHAT_ID", "1173482573")
 _base          = os.path.dirname(os.path.abspath(__file__))
+
+
+def _load_dotenv():
+    path = os.path.join(_base, ".env")
+    if not os.path.exists(path):
+        return
+    with open(path) as f:
+        for raw in f:
+            line = raw.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            k, v = line.split("=", 1)
+            os.environ.setdefault(k.strip(), v.strip().strip('"').strip("'"))
+
+
+_load_dotenv()
+
+TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN", "")
+CHAT_ID        = os.environ.get("CHAT_ID", "")
 LOG_FILE       = os.path.join(_base, "morning_brief.log")
 STATE_FILE     = os.path.join(_base, "morning_brief_state.json")
 

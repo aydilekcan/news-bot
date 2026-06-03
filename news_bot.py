@@ -23,13 +23,30 @@ import time
 import urllib.parse
 from datetime import datetime, timedelta, timezone
 
+_base             = os.path.dirname(os.path.abspath(__file__))
+
+
+def _load_dotenv():
+    path = os.path.join(_base, ".env")
+    if not os.path.exists(path):
+        return
+    with open(path) as f:
+        for raw in f:
+            line = raw.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            k, v = line.split("=", 1)
+            os.environ.setdefault(k.strip(), v.strip().strip('"').strip("'"))
+
+
+_load_dotenv()
+
 TELEGRAM_TOKEN     = os.environ.get("TELEGRAM_TOKEN", "")
 CHAT_ID            = os.environ.get("CHAT_ID", "")
 CHANNEL_ID         = os.environ.get("CHANNEL_ID", "").strip()
 ANTHROPIC_API_KEY  = os.environ.get("ANTHROPIC_API_KEY", "")
 LLM_MODEL          = os.environ.get("LLM_MODEL", "claude-haiku-4-5-20251001")
 
-_base             = os.path.dirname(os.path.abspath(__file__))
 STATE_FILE        = os.path.join(_base, "sent_ids.json")
 NEWS_DATA_FILE    = os.path.join(_base, "news_data.json")
 CUSTOM_FEEDS_FILE = os.path.join(_base, "custom_feeds.json")

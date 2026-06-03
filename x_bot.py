@@ -10,12 +10,28 @@ import os
 import time
 from datetime import datetime, timezone
 
-XQUIK_API_KEY  = os.environ.get("XQUIK_API_KEY", "xq_838324a6c51b759f1052cee45f4e13efef91683c998626bfb708acb0cad28fa1")
-TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN", "8735024977:AAGKdvu65vz8IZ4Cz-_Oqp0ALh9hry5px4w")
-CHAT_ID        = os.environ.get("CHAT_ID", "1173482573")
-DISABLE_TELEGRAM = os.environ.get("DISABLE_TELEGRAM", "").lower() in ("1", "true", "yes")
-
 _base          = os.path.dirname(os.path.abspath(__file__))
+
+
+def _load_dotenv():
+    path = os.path.join(_base, ".env")
+    if not os.path.exists(path):
+        return
+    with open(path) as f:
+        for raw in f:
+            line = raw.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            k, v = line.split("=", 1)
+            os.environ.setdefault(k.strip(), v.strip().strip('"').strip("'"))
+
+
+_load_dotenv()
+
+XQUIK_API_KEY  = os.environ.get("XQUIK_API_KEY", "")
+TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN", "")
+CHAT_ID        = os.environ.get("CHAT_ID", "")
+DISABLE_TELEGRAM = os.environ.get("DISABLE_TELEGRAM", "").lower() in ("1", "true", "yes")
 STATE_FILE     = os.path.join(_base, "x_sent_ids.json")
 LOG_FILE       = os.path.join(_base, "x_bot.log")
 KEYWORDS_FILE  = os.path.join(_base, "keywords.json")
