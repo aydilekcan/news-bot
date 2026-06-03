@@ -1,5 +1,115 @@
 [
  {
+  "title": "Donald Trump NATO zirvesi için Ankara'ya gidecek",
+  "link": "https://www.bbc.com/turkce/articles/c5ye19r40jlo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Trump, Temmuz 2026'de Ankara'da yapılacak NATO Zirvesi'ne katılacak.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-03T18:01:06.726145+00:00",
+  "cluster_id": "c23e98170242c"
+ },
+ {
+  "title": "Trump'ın Türkiye ziyareti netleşti: NATO zirvesine bizzat katılacak",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/trump-in-turkiye-ziyareti-netlesti-nato-zirvesine-bizzat-katilacak-2509060",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD Dışişleri Bakanı Rubio, Trump'ın Ankara NATO Zirvesi'ne bizzat katılacağını teyit etti.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-03T18:01:06.726145+00:00",
+  "cluster_id": "c3012e1fa2203"
+ },
+ {
+  "title": "Rubio, İran'a saldırı öncesinde Tahran'ın nasıl misillemede bulunabileceğini öngördüklerini belirtti",
+  "link": "https://www.aa.com.tr/tr/dunya/rubio-irana-saldiri-oncesinde-tahranin-nasil-misillemede-bulunabilecegini-ongorduklerini-belirtti/3955749",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Dışişleri Bakanı Rubio, İran'a saldırıdan önce İran'ın misilleme şeklini öngördüklerini belirtti.",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-06-03T18:01:06.726145+00:00",
+  "cluster_id": "cec1dfaee5a7d"
+ },
+ {
+  "title": "İran Meclis Başkanı Kalibaf: İran’a yönelik boş tehditler dönemi sona erdi",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-meclis-baskani-kalibaf-iran-a-yonelik-bos-tehditler-donemi-sona-erdi/3955739",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Meclis Başkanı Kalibaf, İran'a yönelik tehditlerin döneminin sona erdiğini ve her saldırganlığa hazır olduklarını açıkladı.",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-06-03T18:01:06.726145+00:00",
+  "cluster_id": "c5b58944a231a"
+ },
+ {
+  "title": "İran Meclis Başkanı Kalibaf: İrana yönelik boş tehditler dönemi sona erdi",
+  "link": "https://www.trthaber.com/haber/dunya/iran-meclis-baskani-kalibaf-irana-yonelik-bos-tehditler-donemi-sona-erdi-947062.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Meclis Başkanı Kalibaf, İran'a yönelik tehditlerin döneminin sona erdiğini ve her saldırganlığa hazır olduklarını açıkladı.",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-06-03T18:01:06.726145+00:00",
+  "cluster_id": "c5b58944a231a"
+ },
+ {
+  "title": "ABD Dışişleri Bakanı Rubio, Trump'ın Ankara'daki NATO Zirvesi'ne \"bizzat katılacağını\" belirtti",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-disisleri-bakani-rubio-trumpin-ankaradaki-nato-zirvesine-bizzat-katilacagini-belirtti/3955690",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Dışişleri Bakanı Rubio, Trump'ın Ankara NATO Zirvesi'ne bizzat katılacağını bildirdi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-03T18:01:06.726145+00:00",
+  "cluster_id": "c71dfd881376f"
+ },
+ {
+  "title": "Rusya'nın kontrolündeki Donetsk bölgesinde otobüse yönelik İHA saldırısında 8 kişi öldü",
+  "link": "https://www.aa.com.tr/tr/dunya/rusyanin-kontrolundeki-donetsk-bolgesinde-otobuse-yonelik-iha-saldirisinda-8-kisi-oldu/3955561",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Rus kontrolündeki Donetsk'te bir otobüse İHA saldırısında 8 kişi öldü.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-03T18:01:06.726145+00:00",
+  "cluster_id": "c87839f95aa9c"
+ },
+ {
+  "title": "Zelenskiy, savaşın bitirilmesi için Putin ile doğrudan görüşmeye hazır olduğunu açıkladı",
+  "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-savasin-bitirilmesi-icin-putin-ile-dogrudan-gorusmeye-hazir-oldugunu-acikladi-/3955675",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ukrayna Başkanı Zelenskiy, savaşı bitirmek için Putin ile doğrudan görüşmeye hazır olduğunu açıkladı.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-03T18:01:06.726145+00:00",
+  "cluster_id": "cc1daf7367c42"
+ },
+ {
+  "title": "Almanya BM Güvenlik Konseyi'ne seçilemedi",
+  "link": "https://www.dw.com/tr/almanya-bm-güvenlik-konseyi-ne-seçilemedi/a-77403281?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Almanya, BM Güvenlik Konseyi geçici üyeliği seçiminde ilk kez başarısız oldu.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-03T18:01:06.726145+00:00",
+  "cluster_id": "cf9b619897050"
+ },
+ {
+  "title": "Ukrainian drones hit St Petersburg oil terminal before it hosts Russian economic forum",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXlOckxvdi1hSVFuQ1ZpU28xdlJWYjBQbzJ1YURNa2x6dDJUWjY3bDh5SjhYaXVqTlJwcGloVkc0emt1Vm1neGNURXF1bXlHaXlfZVdwWW9nTmRjSHhvVF84MG5DVkZDMjQ2UkVwR0Nka3BRU1ozWEtyVGo4WXpZYVNMSlVqOWdGVjFfQzhFdFVEMlhubk84UlE5NGtBV0tXcUt1LWRJUlJTMlBZWVFZ?oc=5",
+  "source": "AP",
+  "summary_tr": "Ukrayna, Rus ekonomik forumu öncesinde St. Petersburg'daki petrol terminaline insansız hava aracı saldırısı düzenledi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-03T18:01:06.726145+00:00",
+  "cluster_id": "c425f74dda50a"
+ },
+ {
+  "title": "ABD Hazine Bakanı Bessent, enflasyondaki artışın \"kısa vadeli\" olacağını söyledi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abd-hazine-bakani-bessent-enflasyondaki-artisin-kisa-vadeli-olacagini-soyledi/3955742",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Hazine Bakanı Bessent, İran savaşıyla tetiklenen enflasyon artışının kısa vadeli olacağını söyledi.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-03T18:01:06.726145+00:00",
+  "cluster_id": "cb6d648be6241"
+ },
+ {
   "title": "Donald Trump Ankara'daki NATO zirvesine katılacak",
   "link": "https://www.bbc.com/turkce/articles/c5ye19r40jlo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
