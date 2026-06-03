@@ -473,9 +473,12 @@ def deliver_cluster(cluster) -> bool:
         f"<a href='{top['link']}'>→ Habere git</a>"
     )
     delivered = False
+    seen_targets = set()
     for target in [CHAT_ID, CHANNEL_ID]:
-        if not target:
-            continue
+        target = (target or "").strip()
+        if not target or target in seen_targets:
+            continue  # bos veya ayni hedefe ikinci kez gonderme (CHAT_ID==CHANNEL_ID ise cift mesaji onler)
+        seen_targets.add(target)
         ok, resp = send_telegram(target, msg)
         if ok:
             delivered = True
