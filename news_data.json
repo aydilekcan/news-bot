@@ -1,5 +1,75 @@
 [
  {
+  "title": "Trump’tan İran çıkışı: Hamaney ile görüşebilirim",
+  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-iran-cikisi-hamaney-ile-gorusebilirim-2508947",
+  "source": "Cumhuriyet",
+  "summary_tr": "Trump, İran lideri Mücteba Hamaney ile görüşebileceğini ve İran'ın nükleer silah almayacağını kabul ettiğini söyledi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-03T12:01:06.518031+00:00",
+  "cluster_id": "c90b1664030a5"
+ },
+ {
+  "title": "Trump says Iran has agreed to not have a nuclear weapon",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNclpNOGV6ZDdVV04yTGFpTW9NaG9peGpnRTNuYkM2dmg1dmctSEJnRl80a01OZjgydVdueURjUVpMLVJZbWlzVWxxZ3BkSi03b0RsaThqdnk0bzJsaEhkdzhZbE52OTFCd1N4bWdKc3hfMnNBVlYtTTgwV0FMYXgxd1BCdU1MRi1MX0huLW93M2RqNWZjczgyUlhERmZrcEdPS3RjZ2Z6UQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, İran'ın nükleer silah olmamayı kabul ettiğini duyurdu.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-03T12:01:06.518031+00:00",
+  "cluster_id": "cf354c6502bb3"
+ },
+ {
+  "title": "Ukraine strikes St Petersburg oil terminal, naval base as Putin's 'Davos' gets under way",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSXU1OFZuOUl3SEFtWTlaSzlzOTVNQVdreDdLaHVGcVdqeEM4aUY4MHg4Tmg3Z1FKb25kXzJuc2RoejFrcUhFcEsyYkxaenZnc0h0ZVhuN0UyLWthVUQzME5MV2swek5DeG9qaUh5U0dsdUhoallBUllBV1BHX0FucFRtWjhhbmU3TDFIYVhtWFNObTNyQkdydkMxVWJsbC00Z0h4eWR0SUdscFlrQVotbTFXUHBCR3V1bl85cmtqalFueEZaVnc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ukrayna, Rusya'nın St. Petersburg'daki petrol terminali ve deniz üssünü vurdu; Putin'in ekonomik forumu başladı.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-03T12:01:06.518031+00:00",
+  "cluster_id": "c0917e324af48"
+ },
+ {
+  "title": "Son Dakika... Kemal Kılıçdaroğlu yönetimi: 'Diyalog heyeti oluşturulacak'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-kemal-kilicdaroglu-yonetimi-diyalog-heyeti-kuruldu-2508949",
+  "source": "Cumhuriyet",
+  "summary_tr": "Kemal Kılıçdaroğlu CHP Genel Başkanlığına getirilen sonrası 'diyalog heyeti oluşturulacak' açıklaması yapıldı.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-03T12:01:06.518031+00:00",
+  "cluster_id": "c78f3b8003989"
+ },
+ {
+  "title": "Germany sees window opening for talks between Europe and Russia",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0Ixd1VBMW9rTmY3bUZ6czlGTkF6WHQ5UVprYTB2WUVxSWYzeGJQdDhMTGd1Q1dvMUlHQlpfM29FRlE2Q3Q1aEdQeXkyVzdfYXdaRW1rSWgtOUFzb1FKbDV3ajc4d2VpdldzWnpfRUdBbVF5d0RManVSdklJblJhTzJyMUNtWDdhcF82Tkhmc01ZZy0xNV9QdXdWS0haTHFBMjRqQ3lIOWFjVlU?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Almanya, Avrupa ile Rusya arasında görüşmeler için bir pencere açıldığını söyledi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-03T12:01:06.518031+00:00",
+  "cluster_id": "c8471ba5ee88f"
+ },
+ {
+  "title": "Kılıçdaroğlu salı günü CHP grup toplantısında konuşacak",
+  "link": "https://www.trthaber.com/haber/gundem/kilicdaroglu-sali-gunu-chp-grup-toplantisinda-konusacak-947034.html",
+  "source": "TRT Haber",
+  "summary_tr": "CHP Genel Başkanı Kılıçdaroğlu salı günü grup toplantısında konuşacak; Parti Meclisi 11 Haziran'da toplanacak.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-03T12:01:06.518031+00:00",
+  "cluster_id": "cfe79ea46c933"
+ },
+ {
+  "title": "Kılıçdaroğlu: Toplum tepkili diye arınmaktan vaz mı geçelim, arınmadan kurultaya gitmem",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN3lPSlYyQnZYS2hRbFMzeWRuZHlyRURfTm1YaWdMY2V5NGdxeERQOXVCT3BxSWlNVVZFWEt4aUJvWGVkYUlfcDRUdl9ZMGpPcmZZZ0lzdTBBcDhCN1lrclZhU0x2aWZoYzRhYU84b1AzRUUyRFM3UnlCczdxZnd6cWEzOVI0Mkl5aUxkRWU3dWhHZXhFVzExU0xRSGhJT2JqUERkODdpNmlMRlBLYVNvcUUxMjZiQWE3dEV0MUp4MDg?oc=5",
+  "source": "soL",
+  "summary_tr": "Kılıçdaroğlu toplumun tepkisine rağmen arınma sürecini tamamlamadan kurultaya gitmeyeceğini söyledi.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-03T12:01:06.518031+00:00",
+  "cluster_id": "c47d3cc878a22"
+ },
+ {
   "title": "İran’dan ABD’ye açık tehdit: Füze ve İHA yağmuruyla karşılık veririz",
   "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-abd-ye-acik-tehdit-fuze-ve-iha-yagmuruyla-karsilik-veririz-2508929",
   "source": "Cumhuriyet",
