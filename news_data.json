@@ -1,5 +1,65 @@
 [
  {
+  "title": "Ukraine strikes kill three in Russia-annexed Crimea",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLVVQSlBfNmJnUWYwUWtpYjFveGxmM2dXbU1wbTAzYktSV1BDU3NlOE8yQzBRLXJzamg1ZVppTmpnbFlMUXZhQWJaVTN1amNVb2p4WGlyTVJzT0ZETzdxZHJEWEF4QnBrZUFKc1dfM2tiTTFRcUFpcnpVOW9oOTBIcHY1WmdUOFBaSGVrMk1iUUJueUhKcExHYWpvSmhPUQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ukrayna, işgal altındaki Kırım'da Rus hedeflerine saldırı düzenleyerek üç kişinin ölümüne neden oldu.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-04T07:00:57.498153+00:00",
+  "cluster_id": "c97035b57b1f4"
+ },
+ {
+  "title": "Trump 'anlaşma yakın' dedi, İran’dan yalanlama geldi",
+  "link": "https://www.cumhuriyet.com.tr/dunya/trump-anlasma-yakin-dedi-iran-dan-yalanlama-geldi-2509161",
+  "source": "Cumhuriyet",
+  "summary_tr": "Trump müzakerelerin İran'la 'çok iyi ilerlediğini' açıkları; İran tarafı iddiayı yalanladı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-04T07:00:57.498153+00:00",
+  "cluster_id": "c5a04280560d2"
+ },
+ {
+  "title": "Trump plans $700 million in new coal support, White House official says",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYTZWVXlod0w4TEZVdW5vMzhjMTVVNDlkZG5Ib1gzblg4WkthQXJrMkdNcW41WFp6eHpMZDBRRTZwem9fUWQ0bnpGLUxva2NIQTEwcUNPSGVaYWxZbjNid01JOURSSG5SSmloNFAwYVA0ZEpud2ZlT2hIYmJSLVhyRnNpd1U2S3F0NXF3c0ZVQ1JZZ2h6NWh3RzF1YTNtSXg5X3c5NUVYbnJZV1BaWF9ZMGxld2xOYll1Q1Jr?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump yönetimi, yeni kömür desteği paketinde 700 milyon dolar ayırmayı planlıyor.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-04T07:00:57.498153+00:00",
+  "cluster_id": "c1549ffb28c23"
+ },
+ {
+  "title": "Mahfi Eğilmez'den Türkiye için ilk çeyrek karnesi: 'Çok iyi değil ama...'",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/mahfi-egilmez-den-turkiye-icin-ilk-ceyrek-karnesi-cok-iyi-degil-ama-2509165",
+  "source": "Cumhuriyet",
+  "summary_tr": "İktisatçı Mahfi Eğilmez, Türkiye'nin ilk çeyrek büyümesini 2,5% olarak değerlendirdi; sanayi sektöründe ciddi daralma yaşandığını belirtti.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-04T07:00:57.498153+00:00",
+  "cluster_id": "cd5acea9fc061"
+ },
+ {
+  "title": "Devlet Bahçeli: CHP, siyasi rekabet ve nezaketten uzaklaşmamalı",
+  "link": "https://www.trthaber.com/haber/gundem/devlet-bahceli-chp-siyasi-rekabet-ve-nezaketten-uzaklasmamali-947100.html",
+  "source": "TRT Haber",
+  "summary_tr": "MHP Genel Başkanı Devlet Bahçeli, CHP'nin siyasi rekabet ve nezaketten uzaklaşmaması gerektiğini belirtti.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-04T07:00:57.498153+00:00",
+  "cluster_id": "c79142ad29965"
+ },
+ {
+  "title": "European Union launches tech sovereignty initiative to boost chips, cloud and AI at home",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY0xqY1JRcWpHRjZXRl8yUW5fR2NqTDlydXZPLW1IR2pLWmY1bjBMcE8wMXlGYnNkSWJicHh4Z1pscnp6QWw3QVNXMS1LUkhyaDRnWDVqeXB3SXJCSzk2XzljT1NxSlNtSFI1aXRzeWsxV3VrLUZwOWVCTnJtMUllODljbk5qZDV2aVNtRE9PY0ZDWGRGLXhVVTNhYnMwUGdZZ0U2SlYxMWExaWtUTHc?oc=5",
+  "source": "AP",
+  "summary_tr": "Avrupa Birliği, çipler, bulut altyapısı ve yapay zeka alanında teknolojik egemenliği güçlendirmek amacıyla inisiyatif başlattı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-04T07:00:57.498153+00:00",
+  "cluster_id": "c311056468cb9"
+ },
+ {
   "title": "Trump acknowledges calling Netanyahu 'crazy' and says Israel is complicating peace talks with Iran",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeUJLY2FURzR0NU9tVGcxLWNIa0pIZEJYVXg2eFF0NlkyYzI2VU5BcWRoMXd1S19lWjdfck5lVVJPMmRSSU1xVURMYmFqUWR3SEh4MWxOV2JJc2NWZVhWVlJnUmpHeDJKVGF6ZkwtcXQxZm1FMEZ5dXZrX0YxZERmUlVQRWF0cGxlUV9GSDNxS1ZwVVVxdEpaX3FfSHo3b1BudWRwbGxTaw?oc=5",
   "source": "AP",
