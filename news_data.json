@@ -1,5 +1,65 @@
 [
  {
+  "title": "Stocks slide on flare-up in Middle East fighting; oil eases off highs",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMGphS3NPLVBWc1FHMDZFdklTMS1VQ2tzOE5zQnlOaXJaUTdwcW13VjNfUkowNnljUmhDTUhuNy0xS05sdVNkTmZqS1F0dDVCYkoyR053M05IR1c5QWFyR0RrY3BDcEtFS0NaRFZxTkhER0N6eHByMlJLTzdBeW8yOFFYSQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Orta Doğu'daki çatışmaların yeniden yoğunlaşması borsaları sarsarken petrol fiyatları gerileyerek değişim gösterdi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-04T04:00:55.815112+00:00",
+  "cluster_id": "cd42c882adc72"
+ },
+ {
+  "title": "Kuwait says Iranian drones hit airport and killed 1 as ceasefire is tested again",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMWw3aG9uNmppOHRXVF9yQ2tkOGdlN3g5c2FnQllkOUxxYXhqSUVoUlRYc21pVHlHdjNFOE1nbDZjNlYta2dsVW4tUV9kekZFM2NVWUZ2UGRXSzZkXzBmSm54VTdlb2FBQkdsVHJnQ0R1aEJncGF5N2xPaEdGVDdWZG1vaS1WQU9EeVJZZWJzQlgyaWV1S21MNmhQT1pXb0tNbXBrbzQ0bmRaQXFjQ3JETEpCVVM3Zw?oc=5",
+  "source": "AP",
+  "summary_tr": "Kuveyt, İran'ın insansız hava araçlarının havaalanını vurmasında 1 kişinin öldüğünü bildirdi; ateşkes sınavla karşı karşıya.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-04T04:00:55.815112+00:00",
+  "cluster_id": "cb2c8355d8193"
+ },
+ {
+  "title": "ABD Temsilciler Meclisi, Trump'a bir tepki olarak İran savaşını durdurma kararı aldı",
+  "link": "https://www.trthaber.com/haber/dunya/abd-temsilciler-meclisi-trumpa-bir-tepki-olarak-iran-savasini-durdurma-karari-aldi-947088.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Temsilciler Meclisi, Trump'ın İran'a yönelik askeri adımları durdurmayı amaçlayan tasarıyı kabul etti.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-04T04:00:55.815112+00:00",
+  "cluster_id": "c161def9e0c8c"
+ },
+ {
+  "title": "Meta accuses Australia of breaching FTA, invokes US 'trade action'",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ3hsQ0NuendWbVRWZE9hV2ZYa1paeXZRY0ExcnFMWG02WDJTYUdFTGN6cV9ocEJrMkhKcWlfUGIwZnNjZ0R0bC1NQUFVamI0bHFzX1pHNEEwbFFRTGxUNERaOEFYaFZCdVFTQmFaZ0lQZnl6R3ZpbWdtUWxHM1NYSGlqYU9uckJQaml3SDRhTEY3SjZ3cFJ1VzNEOURsNU41a29fZVBnYmxKQUM4X3hPUGx6QzA5WjQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Meta, Avustralya'yı serbest ticaret anlaşmasını ihlal etmekle suçladı ve ABD ticari aksiyonunu öne sürüyor.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-04T04:00:55.815112+00:00",
+  "cluster_id": "cb0622219d810"
+ },
+ {
+  "title": "Dervişoğlu: Sırtını yaslamak isteyen varsa dağ gibi buradayız",
+  "link": "https://www.sozcu.com.tr/dervisoglu-sirtini-yaslamak-isteyen-varsa-dag-gibi-buradayiz-p325033",
+  "source": "Sözcü",
+  "summary_tr": "İYİ Parti lideri Dervişoğlu, partisinin cumhuriyet ilkelerine bağlılığını vurgulayarak 'saltanat değil cumhuriyet istiyoruz' mesajı verdi.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-04T04:00:55.815112+00:00",
+  "cluster_id": "c52bbf3600439"
+ },
+ {
+  "title": "Macaristan'dan, Ukrayna'nın AB'ye katılım müzakerelerinin ilk fasıl kümesinin açılabileceği mesajı",
+  "link": "https://www.trthaber.com/haber/dunya/macaristandan-ukraynanin-abye-katilim-muzakerelerinin-ilk-fasil-kumesinin-acilabilecegi-mesaji-947087.html",
+  "source": "TRT Haber",
+  "summary_tr": "Macaristan Başbakanı Magyar, Ukrayna'nın AB'ye katılım müzakerelerinin ilerletilmesi konusunda Kiev ile anlaşmaya vardığını bildirdi.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-04T04:00:55.815112+00:00",
+  "cluster_id": "ca369fd0eed1b"
+ },
+ {
   "title": "Oil falls as Lebanon and Israel agree to implement ceasefire",
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVjFnWWJPa2JCQmk0aWtNQ0VrdVdDellpTDRJLUk2ckpvcV9GZGdxVEJkNEJmZ25BU3Rwd3NXV0ZmNkNjOEZSdVllSTl1cWx2bVFjVUV0bXBST3RXU01pSGxWb19qVGpsdjFzRHdBYUxablpCZXg2WGdnOUFVN21zRjlzZVBWeUh3YlFzVUdEZEhTanBTNDdFdFZZSV9ubG9qemN1TQ?oc=5",
   "source": "Reuters",
