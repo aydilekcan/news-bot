@@ -437,6 +437,31 @@ def cluster_keepers(keepers):
 LEAN_EMOJI = {"left": "🟥", "neutral": "⬜", "right": "🟦"}
 
 
+_canonical_cache = {}
+
+def canonical_chat_id(target: str) -> str:
+    """Hedefi (@kanal veya -100... gibi farkli yazimlar) Telegram'in dondurdugu
+    sayisal chat id'ye cevir. Boylece ayni kanalin iki farkli yazimi tek hedef sayilir."""
+    target = (target or "").strip()
+    if not target:
+        return ""
+    if target in _canonical_cache:
+        return _canonical_cache[target]
+    try:
+        url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/getChat"
+        r = requests.get(url, params={"chat_id": target}, timeout=10)
+        data = r.json()
+        if data.get("ok"):
+            target_id = str(data["result"]["id"])
+            _canonical_cache[target] = target_id
+            return target_id
+    except Exception as e:
+        log(f"getChat hatasi ({target}): {e}")
+    # Cozulemezse ham degeri kullan (dedup en azindan birebir esleseni yakalar)
+    _canonical_cache[target] = target
+    return target
+
+
 def send_telegram(chat_id: str, text: str):
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     r = requests.post(url, json={
@@ -476,9 +501,12 @@ def deliver_cluster(cluster) -> bool:
     seen_targets = set()
     for target in [CHAT_ID, CHANNEL_ID]:
         target = (target or "").strip()
-        if not target or target in seen_targets:
-            continue  # bos veya ayni hedefe ikinci kez gonderme (CHAT_ID==CHANNEL_ID ise cift mesaji onler)
-        seen_targets.add(target)
+        if not target:
+            continue
+        canon = canonical_chat_id(target)
+        if canon in seen_targets:
+            continue  # ayni kanalin farkli yazimi -> cift mesaji onle
+        seen_targets.add(canon)
         ok, resp = send_telegram(target, msg)
         if ok:
             delivered = True
