@@ -1,5 +1,55 @@
 [
  {
+  "title": "US weekly jobless claims increase to four-month high; worker productivity revised down",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT09NS0RiRDI4MHVvRDZEVTJUTkFYUHNtQjJIdjF3ZHNleEJPQndjYWdERE9aUXJSWms0QWFMTUlVU2JydEVEZnVnSG5TeW03WDhEZEVTQjdEWi04Ry00TkQzV1BLRDdkeHEzZEZ3dmV3cEJnWXE4blZWYWcxM3hqRm45UHd2NXFmMnQ1NG1lMmlBbklxS3dkaFlkV3h0YVV5WWJCTlJNZDA3ZnFTZGtnS3ZaT0hRRWNfX1Z4MzZ2X1RfaVBaRW83ZXlJWWxCQQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD'de haftalık işsizlik başvuruları dört aylık yüksek seviyeye çıkmış, işçi verimliliği düşürülmüştür.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-04T16:05:39.223772+00:00",
+  "cluster_id": "cfcf921b57229"
+ },
+ {
+  "title": "Türkiye'nin dev bankası satıldı: İşte yeni sahibi",
+  "link": "https://www.sozcu.com.tr/turkiye-nin-dev-bankasi-satildi-iste-yeni-sahibi-p325284",
+  "source": "Sözcü",
+  "summary_tr": "BankPozitif, TMSF tarafından yönetiminin devralmesının ardından ihale sonucunda Efor Çay'a satılmıştır.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-04T16:05:39.223772+00:00",
+  "cluster_id": "c00d16f488e9a"
+ },
+ {
+  "title": "İran: İsrail, Lübnan topraklarından çekilmeden bölgede barış olmayacak",
+  "link": "https://www.trthaber.com/haber/dunya/iran-israil-lubnan-topraklarindan-cekilmeden-bolgede-baris-olmayacak-947184.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran, İsrail-Lübnan ateşkesine tepki göstererek, İsrail'in Lübnan topraklarından çekilmeden bölgede barış olmayacağını bildirmiştir.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-04T16:05:39.223772+00:00",
+  "cluster_id": "cd36d2bf25673"
+ },
+ {
+  "title": "Türkiye'den İsrail'in Batı Şeria'daki yeni yasa dışı yerleşim kararına tepki",
+  "link": "https://www.trthaber.com/haber/gundem/turkiyeden-israilin-bati-seriadaki-yeni-yasa-disi-yerlesim-kararina-tepki-947183.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye Dışişleri Bakanlığı, İsrail'in Batı Şeria'da yeni yasa dışı yerleşim birimlerini onaylama kararını kınamıştır.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-04T16:05:39.223772+00:00",
+  "cluster_id": "cf572163789aa"
+ },
+ {
+  "title": "Türkiye ile Nijer arasında ortak anlaşmalar imzalandı",
+  "link": "https://www.trthaber.com/haber/gundem/turkiye-ile-nijer-arasinda-ortak-anlasmalar-imzalandi-947181.html",
+  "source": "TRT Haber",
+  "summary_tr": "Cumhurbaşkanı Erdoğan ile Nijer Cumhurbaşkanı Tchiani arasında ortak anlaşmalar imzalanmıştır.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-04T16:05:39.223772+00:00",
+  "cluster_id": "c3707c3920a14"
+ },
+ {
   "title": "Hizbullah, İsrail ve Lübnan arasındaki ateşkesi reddetti: 'Teslim olmak anlamına gelir'",
   "link": "https://www.bbc.com/turkce/articles/cn0prr2x6lko?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
