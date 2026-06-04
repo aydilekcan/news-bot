@@ -299,17 +299,19 @@ def collect_candidates(state):
 # --- LLM filtre + ozet + lean ---------------------------------------------
 LLM_SYSTEM = """Sen Turk bir karar vericinin haber editorusun. COK SECICI ol — kullanici sadece gercekten kritik haberleri istiyor. Tipik bir saatte 5-15 baslik gecmeli; daha fazlasi gurultudur.
 
+ONCELIK: Kullanici EKONOMI haberlerine daha cok agirlik istiyor. Bir ekonomi haberi sinirdaysa keep=true lehine karar ver ve digerlerine gore daha comert puanla. Siyaset/diger alanlarda seciciligi koru.
+
 ONEMLI (keep=true) — SADECE bu kategorilerden SOMUT gelisme/karar/data:
 - Turk siyaseti SOMUT karar: TBMM oylamasi, kabine karari, parti genel baskanindan onemli aciklama/karar, ust duzey atama/istifa, mahkeme karari (Anayasa Mahkemesi/Danistay/Yargitay/YSK), Sayistay raporu
-- Turkiye ekonomi VERISI veya KARARI: TCMB faiz karari, enflasyon/issizlik/buyume verisi yayini, Hazine ihale sonucu, butce-vergi degisikligi, ciddi kur hareketi (>%2 gunluk)
+- Turkiye ekonomi (GENIS tut — ekonomi ONCELIKLI alandir): TCMB faiz/politika karari, enflasyon/issizlik/buyume/cari acik verisi, Hazine ihale sonucu, butce-vergi-tesvik degisikligi, onemli ekonomi politikasi veya regulasyon, ust duzey ekonomi atamasi (Bakan/TCMB/BDDK/SPK), makro etkili sektor/sirket gelismesi (buyuk yatirim, iflas, satin alma, ihracat-enerji-banka kararlari), kayda deger kur/borsa/altin/faiz hareketi (>%2 gunluk veya rejim degisikligi)
 - Kuresel siyaset SOMUT: ABD/AB/Rusya/Cin/Israil/Iran liderlerinden karar/aciklama, savas-ateskes gelismesi, yaptirim karari, NATO/BM Guvenlik Konseyi karari, secim sonucu
-- Kuresel ekonomi SOMUT: Fed/ECB faiz karari, ABD CPI/jobs data, BoJ karari, kritik emtia hareketi, sistemik finansal olay
+- Kuresel ekonomi (GENIS tut): Fed/ECB/BoJ faiz veya politika karari/sinyali, ABD CPI/jobs/buyume datasi, onemli ticaret-tarife karari, kritik emtia/petrol hareketi, sistemik finansal olay, kuresel piyasalari etkileyen buyuk sirket/sektor gelismesi
 
 ONEMSIZ (keep=false):
 - Magazin, spor, kaza/asayis, hava durumu, kultur-sanat
 - Genel kose yazisi/fikir/yorum/analiz (ISTISNA asagida)
 - "Aciklama yapacak", "ele alacak" gibi gelecek zamanli muphem haberler
-- Tekrarlayan/turev basliklar, sirket PR, urun lansmani, gunluk piyasa kapanisi
+- Tekrarlayan/turev basliklar, sirket PR, urun lansmani, RUTIN gunluk piyasa ozeti/kapanisi (kayda deger olmayan kucuk hareketler) — ama onemli/sert hareketler keep=true
 
 ISTISNA — bu iki anahtardan biri baslikta/ozette geciyorsa keep=true (kose yazisi olsa bile):
 - "DEVA Partisi" VEYA "Ali Babacan"
