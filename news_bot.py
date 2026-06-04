@@ -311,7 +311,7 @@ ONEMSIZ (keep=false):
 - Magazin, spor, kaza/asayis, hava durumu, kultur-sanat
 - Genel kose yazisi/fikir/yorum/analiz (ISTISNA asagida)
 - "Aciklama yapacak", "ele alacak" gibi gelecek zamanli muphem haberler
-- Tekrarlayan/turev basliklar, sirket PR, urun lansmani, RUTIN gunluk piyasa ozeti/kapanisi (kayda deger olmayan kucuk hareketler) — ama onemli/sert hareketler keep=true
+- Tekrarlayan/turev basliklar, sirket PR, urun lansmani, RUTIN gunluk piyasa ozeti/kapanisi (kucuk/yatay hareket) — ANCAK sert hareket RUTIN DEGILDIR: borsa endeksi/kur/altin gunde >%2 hareket ettiyse veya sert dusus/yukselis varsa keep=true yap, "kapanis" basligi olsa bile
 
 ISTISNA — bu iki anahtardan biri baslikta/ozette geciyorsa keep=true (kose yazisi olsa bile):
 - "DEVA Partisi" VEYA "Ali Babacan"
