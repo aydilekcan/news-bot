@@ -1,5 +1,75 @@
 [
  {
+  "title": "Ulaştırma ve Altyapı Bakanı Uraloğlu: Türkiye, uydu ihracatçısı ülkeler kategorisine girdi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/ulastirma-ve-altyapi-bakani-uraloglu-turkiye-uydu-ihracatcisi-ulkeler-kategorisine-girdi/3956608",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ulaştırma Bakanı Uraloğlu: Türkiye TÜRKSAT 6A uydusunu hizmete aldı; ülke uydu ihracatçısı kategorisine girdi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-04T17:01:44.239368+00:00",
+  "cluster_id": "ca0ffbf56487d"
+ },
+ {
+  "title": "Türkiye'nin 24 yıllık bankası satıldı: Yeni sahibi tanıdık çıktı",
+  "link": "https://www.sozcu.com.tr/turkiye-nin-24-yillik-bankasi-satildi-yeni-sahibi-tanidik-cikti-p325284",
+  "source": "Sözcü",
+  "summary_tr": "BankPozitif 24 yılın ardından Efor Çay'ın sahibine satıldı; TMSF ihalesinde mahkeme müdahalesi sonrasında yeni sahip belirlenmiş.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-04T17:01:44.239368+00:00",
+  "cluster_id": "cebe8821e2ca0"
+ },
+ {
+  "title": "TBMM Adalet Komisyonu Başkanı Yüksel, AYM'nin \"süresiz nafaka düzenlemesinin iptali\" kararını değerlendirdi",
+  "link": "https://www.aa.com.tr/tr/gundem/tbmm-adalet-komisyonu-baskani-yuksel-aymnin-suresiz-nafaka-duzenlemesinin-iptali-kararini-degerlendirdi/3956848",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Anayasa Mahkemesi süresiz nafaka düzenlemesini iptal etti; TBMM Adalet Komisyonu Başkanı kararı değerlendirdi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-04T17:01:44.239368+00:00",
+  "cluster_id": "c19997b133f5f"
+ },
+ {
+  "title": "IMF'den ABD'nin enflasyon hedefine \"gecikmeli\" döneceği öngörüsü",
+  "link": "https://www.aa.com.tr/tr/ekonomi/imfden-abdnin-enflasyon-hedefine-gecikmeli-donecegi-ongorusu/3956846",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "IMF: ABD'nin enflasyon hedefine dönüşü gecikmeli olacak; Fed'in politikalarında yukarı yönlü riskler söz konusu.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-04T17:01:44.239368+00:00",
+  "cluster_id": "cd672b77c4f14"
+ },
+ {
+  "title": "Kılıçdaroğlu’nun danışmanı görevine ‘geri döndü’: CHP Genel Merkezi’nde ‘bozkurtlu’ fotoğraf ortaya çıktı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/kilicdaroglu-nun-danismani-gorevine-geri-dondu-chp-genel-merkezi-nde-bozkurtlu-fotograf-ortaya-cikti-2509411",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP'nin atanan yönetiminde Kılıçdaroğlu'nun danışmanı Ramazan Kubat göreve geri döndü; mahkeme kararıyla yönetim değişti.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-04T17:01:44.239368+00:00",
+  "cluster_id": "ca3f71e469e0e"
+ },
+ {
+  "title": "Son Dakika... CHP'li 3 isim Kılıçdaroğlu ile görüşecek: 'Özgür Özel' ayrıntısı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-chp-li-3-isim-kilicdaroglu-ile-gorusecek-ozgur-ozel-ayrintisi-2509407",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP'li üç vekil (Engin Altay, Gürsel Erol, Ali Öztunç) Kılıçdaroğlu ile görüşecek; Özgür Özel hakkında ayrıntılar bekleniyor.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-04T17:01:44.239368+00:00",
+  "cluster_id": "c2d1e9400d737"
+ },
+ {
+  "title": "Türk Kızılay Kanunu Teklifi, TBMM İçişleri Komisyonunda kabul edildi",
+  "link": "https://www.aa.com.tr/tr/gundem/turk-kizilay-kanunu-teklifi-tbmm-icisleri-komisyonunda-kabul-edildi-/3956876",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türk Kızılay Kanunu Teklifi TBMM İçişleri Komisyonunda kabul edildi; derneğe daha geniş görev ve yetkileri verilecek.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-04T17:01:44.239368+00:00",
+  "cluster_id": "c521fadb8d22a"
+ },
+ {
   "title": "US weekly jobless claims increase to four-month high; worker productivity revised down",
   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT09NS0RiRDI4MHVvRDZEVTJUTkFYUHNtQjJIdjF3ZHNleEJPQndjYWdERE9aUXJSWms0QWFMTUlVU2JydEVEZnVnSG5TeW03WDhEZEVTQjdEWi04Ry00TkQzV1BLRDdkeHEzZEZ3dmV3cEJnWXE4blZWYWcxM3hqRm45UHd2NXFmMnQ1NG1lMmlBbklxS3dkaFlkV3h0YVV5WWJCTlJNZDA3ZnFTZGtnS3ZaT0hRRWNfX1Z4MzZ2X1RfaVBaRW83ZXlJWWxCQQ?oc=5",
   "source": "Reuters",
