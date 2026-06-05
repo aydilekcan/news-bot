@@ -1,5 +1,135 @@
 [
  {
+  "title": "Hamas heyeti, Gazze'deki ateşkes müzakereleri için Kahire'de",
+  "link": "https://www.aa.com.tr/tr/dunya/hamas-heyeti-gazzedeki-ateskes-muzakereleri-icin-kahirede/3957950",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Hamas heyeti, Gazze ateşkes müzakereleri için Kahire'ye gitti.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-05T18:01:02.555529+00:00",
+  "cluster_id": "cae25e9e18b4f"
+ },
+ {
+  "title": "House passes bill to aid Ukraine and impose new sanctions on Russia",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFNBczRNemh1NVo1aEkxWHVocVUya19YR05tbUVJaFZrR25Ccmt2X2JXLVllVjJXRV9jNnkyOC02TjBzaVB1cUdNSmxIRHZVZS1kM3hkS2RwU2ZzUnNxSlJhbzNkb0JlZ1lWdVBlSHJ5ZGNZYXIzLWV5S0J4OWZjaFY2RUZRdHgzVFJMTG51MUFTU04zQWlMWDBJcEhneFh2YkxfdVkySm4?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD Temsilciler Meclisi, Ukrayna yardım ve Rusya'ya yeni yaptırımlar yasasını kabul etti.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-05T18:01:02.555529+00:00",
+  "cluster_id": "c34f5462065c3"
+ },
+ {
+  "title": "CHP'nin yeni MYK'sı toplandı: 'Kılıçdaroğlu Grup Toplantısına katılacak'",
+  "link": "https://www.bbc.com/turkce/articles/cd7p7pn740eo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Kemal Kılıçdaroğlu, mutlak butlan kararıyla CHP genel başkanlığına döndü ve yeni Merkez Yönetim Kurulu toplandı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-05T18:01:02.555529+00:00",
+  "cluster_id": "c2988fade80d1"
+ },
+ {
+  "title": "İsmail Arı'ya tahliye, polislere suç duyurusu kararı",
+  "link": "https://www.dw.com/tr/ismail-arı-ya-tahliye-polislere-suç-duyurusu-kararı/a-77404722?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Birgün gazetesi muhabiri İsmail Arı, 75 gün sonra tahliye edildi; mahkeme polisler hakkında suç duyurusu kararı aldı.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-05T18:01:02.555529+00:00",
+  "cluster_id": "cad7d1cddf568"
+ },
+ {
+  "title": "Putin, Zelenskiy ile görüşmesinin \"şimdilik anlamının olmadığını\" söyledi",
+  "link": "https://www.aa.com.tr/tr/dunya/putin-zelenskiy-ile-gorusmesinin-simdilik-anlaminin-olmadigini-soyledi/3957984",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Putin, Zelenskiy ile görüşmenin şimdilik anlamının olmadığını söyledi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-05T18:01:02.555529+00:00",
+  "cluster_id": "c8448177e1811"
+ },
+ {
+  "title": "İsrail ordusu, Suriye'nin Kuneytra iline mayıs ayında 38 baskın düzenledi",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-suriyenin-kuneytra-iline-mayis-ayinda-38-baskin-duzenledi/3957973",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusu, Mayıs ayında Suriye'nin Kuneytra ilinde 38 kara baskını düzenledi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-05T18:01:02.555529+00:00",
+  "cluster_id": "c434e52b1e1f8"
+ },
+ {
+  "title": "Putin says he currently sees no reason to meet Ukraine's Zelenskiy",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV2JqeXdjdF9hSy1oc2VFZFcxUWxaQTRWb3RFcWM4anBsLXozZkNScV9JQ0t6Wkx2S3hWR095Mm5VRnBvcmRhYVNTcW9FNHlvdXJUQVROYTB4T2FMM01rVnpCdWQtS3lJaWFodG1wUG8tb3dJaERnMXZBT1ZUTTZoQVQyRXFfQTZUSmJidmg3d1lTR1p0VUFXVFRSYUplMkRJQXotTDh0MA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Putin, Zelenskiy ile görüşmenin şu anda herhangi bir nedeni olmadığını söyledi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-05T18:01:02.555529+00:00",
+  "cluster_id": "c8fbd177db875"
+ },
+ {
+  "title": "US judge strikes down Trump policies targeting immigrants from 39 countries",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMkstOFU0cXFkQ1dVbEZwNldfU3lLU2VHbzYwRE90Y2dOX0VYeTVPMWUxRUo1aVBqc3k2ZmFvNGFLMS1lNS1IMkk2MkhtZnNUS2xZNlhBM2w3ajZOWTZuTXYwNlZHbWRYbDIyRUo1ajRta3dCbFRCeDNDXzIyREVsTU0xTnQyUXdfQk9zMUtMWkdXT1hVUzdGdEV1eEp0MnlUSnNlcWtoSXRwRnlzbUtKMQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD yargısı, Trump'ın 39 ülkeden göçmenleri hedef alan politikalarını iptal etti.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-05T18:01:02.555529+00:00",
+  "cluster_id": "c3b07594d137b"
+ },
+ {
+  "title": "Karadeniz'de Türk balıkçı teknesine saldırı",
+  "link": "https://www.sozcu.com.tr/karadeniz-de-turk-balikci-teknesine-saldiri-p325576",
+  "source": "Sözcü",
+  "summary_tr": "Karadeniz'de Türk balıkçı teknesine saldırı: tekne battı, 1 kişi öldü, 4 yaralandı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-05T18:01:02.555529+00:00",
+  "cluster_id": "cdb9b1551f8d2"
+ },
+ {
+  "title": "Hürmüz’deki gerilim onlara yaradı! Ülke bütçesine 13 milyar dolarlık ek kaynak",
+  "link": "https://www.sozcu.com.tr/hurmuz-deki-gerilim-onlara-yaradi-ulke-butcesine-13-milyar-dolarlik-ek-kaynak-p325575",
+  "source": "Sözcü",
+  "summary_tr": "Rusya Maliye Bakanı, Hürmüz Boğazı geriliminin Rus ekonomisine 13 milyar dolarlık ek kaynak sağlayabileceğini açıkladı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-05T18:01:02.555529+00:00",
+  "cluster_id": "c4fb550d176a1"
+ },
+ {
+  "title": "ABD'den Yeni Zelanda'ya 1,5 milyar doları aşan helikopter ve torpido satışına onay",
+  "link": "https://www.aa.com.tr/tr/dunya/abdden-yeni-zelandaya-1-5-milyar-dolari-asan-helikopter-ve-torpido-satisina-onay/3958001",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD, Yeni Zelanda'ya 1,5 milyar doları aşan helikopter ve torpido satışına onay verdi.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-05T18:01:02.555529+00:00",
+  "cluster_id": "c2bb10a4af122"
+ },
+ {
+  "title": "İsrail'in Gazze'den alıkoyduğu doktor Hüsam Ebu Safiyye hücre hapsine alındı",
+  "link": "https://www.trthaber.com/haber/dunya/israilin-gazzeden-alikoydugu-doktor-husam-ebu-safiyye-hucre-hapsine-alindi-947315.html",
+  "source": "TRT Haber",
+  "summary_tr": "İsrail tarafından alıkonulan Gazze Şeridi'nin kuzeyindeki hastane müdürü Dr. Hüsam Ebu Safiyye hücre hapsine alındı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-05T18:01:02.555529+00:00",
+  "cluster_id": "c9a585f915873"
+ },
+ {
+  "title": "Alaattin Köseler’in tutukluluğunun devamına karar verildi",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRXE3ZkpmNXBaaGlqVUNRQ0JMYW1yb3dkWUswamdCX0VNZ3ZUa1lESlFEV01WMGM3TnprUlg0cG1fWXlyeW95VU1EQU05YnUyYkt0X1lCOFQzMVdzMUF6dmZZWkpxRVc0R2NBQ21mM0tDV3hCQXpNTm5FY25mQ0pFMERBZWhiTGlHT1QzNEhrdm1SLUk3?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Alaattin Köseler'in tutukluluğunun devamına karar verildi.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-05T18:01:02.555529+00:00",
+  "cluster_id": "cd67ca2ec2085"
+ },
+ {
   "title": "Putin'den Zelenskiy'nin görüşme çağrısında yanıt",
   "link": "https://www.sozcu.com.tr/putin-den-zelenskiy-nin-gorusme-cagrisinda-yanit-p325569",
   "source": "Sözcü",
