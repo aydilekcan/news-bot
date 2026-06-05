@@ -1,5 +1,75 @@
 [
  {
+  "title": "İşsiz sayısı, nisanda; ‘dar tanımlı’da 2 milyon 868, ‘geniş tanımlı’da 12.2 milyon kişi",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/issiz-sayisi-nisanda-dar-tanimli-da-2-milyon-868-genis-tanimli-da-12-2-milyon-kisi-2509485",
+  "source": "Cumhuriyet",
+  "summary_tr": "Nisan 2026'da dar tanımlı işsizlik %8.2'ye çıktı (+0.1 puan), geniş tanımlı işsizlik 12.2 milyona ulaştı (+1.2 puan). TÜİK raporu.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-05T02:00:55.635429+00:00",
+  "cluster_id": "c660dd7a64bb7"
+ },
+ {
+  "title": "Zelenskiy, in open letter, invites Putin to talks to end the war",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkZhWnVxeU0zSy02QnlmbUFKeGtVUmNXM3NNWEtvc3RXOUZ5VUc4Rkw0WUlaS09FbGx4bkZfc3lMSnc1TEZSLXZOMTZQVHpZSnJSbktBWklGSGNKeDJlVk5CMjNsZEowRDRpOHlWb1Y4QUZNVkp5MzBrS1poWVVDMDYwS3ByMHBmRGxGS2c3VF9SUEo5bnBzeXhrMkhqZWc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Zelenskiy, Putin'i açık mektupla savaşı sonlandırmak için görüşmelere çağırdı.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-05T02:00:55.635429+00:00",
+  "cluster_id": "c66a915f1cdd1"
+ },
+ {
+  "title": "Hukukçular ve kadın derneklerinden tepki",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/hukukcular-ve-kadin-derneklerinden-tepki-2509484",
+  "source": "Cumhuriyet",
+  "summary_tr": "Anayasa Mahkemesi, boşanmada süresiz nafaka düzenlemesini iptal etti. Karar hukukçu ve kadın örgütlerinden tepki aldı.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-05T02:00:55.635429+00:00",
+  "cluster_id": "c7ae3cee2c6d7"
+ },
+ {
+  "title": "İstihdamda alarm",
+  "link": "https://www.sozcu.com.tr/istihdamda-alarm-p325345",
+  "source": "Sözcü",
+  "summary_tr": "İstihdam oranı 0.6 puan geriledi, %48.1'e düştü. İşsizlik artış trendine girdi.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-05T02:00:55.635429+00:00",
+  "cluster_id": "c914057bc22f9"
+ },
+ {
+  "title": "US House backs Russia sanctions, Ukraine aid, in latest blow to Trump",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYU8zSVNZN0FKTnFpdlNVNmdPVkZyTFNJanZsclRyNmNRaEozcnYwd093VVVrRzE1aWp3RlRDeUw0dXVqMk1KcURLZlptSGc4LVl1bkJLV0dlQjk2ZTlCY3BLTDQ1UFE0enk1VjJlMWJIM19WbmhMWlVvaEM0X0FJTDNPUHlUTGlNZGhPYWF4TmpaUEtjbmVPSGpQUnNaTEJLQkc2bTJxWVpQZw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Temsilciler Meclisi, Rusya yaptırımlarını ve Ukrayna yardımını onayladı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-05T02:00:55.635429+00:00",
+  "cluster_id": "c6e0b71b056c9"
+ },
+ {
+  "title": "Mayısta ihracat yüzde 9.3, ithalat yüzde 10.7 düştü",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/mayista-ihracat-yuzde-9-3-ithalat-yuzde-10-7-dustu-2509487",
+  "source": "Cumhuriyet",
+  "summary_tr": "Mayıs'ta ihracat %9.3 düştü, ithalat %10.7 düştü. Bakan Bolat, bayram tatilinin etkisini vurguladı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-05T02:00:55.635429+00:00",
+  "cluster_id": "cca323da753f2"
+ },
+ {
+  "title": "Supreme Court sides with Trump administration on federal regulation of telecom companies",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY3d0alN6REJ4M2ZpRTlmWnQtMlY2bkRMQnNMY01NWEo0TC1TUUdzWE50RHE4dWpYaUFkSVJRY2hiZmZIT1p3aF9LRENTVy1ONG9HNkI1dm9mS3AyRm9oYWM4M2xJSTQ2Tkd6YWFDQTlDa2dRYjRZTHFJM1BvQ2lwaWF2ZjBOdllzM2pWNFYwQ0M2WTVUS0xQRzFwN3NvbWRQQVRZcTRB?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD Yüksek Mahkemesi, Trump yönetimine telekomünikasyon düzenlemelerinde destek verdi.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-05T02:00:55.635429+00:00",
+  "cluster_id": "c610782391680"
+ },
+ {
   "title": "UN nuclear watchdog says it’s unable to implement its monitoring responsibilities in Iran",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdGVKTm9NQ1ROd3BWeUU3clNpZjlXNlladzlEMXR2NndNeVhHbzVpcUhOMjBxTmVlZExZeWNjbC1wWmRTVW02UHZMVzQ2Xy0xR0FBT2xYanBxS2QwME1VY2FjMEs3ZzJvQXpiM0N0cGZZcTEtbGNMWnhkU3ZnaG1VUkhFTE9NR2NKSEN1TndOSmJ2NVZBZWJvTHJwbW10ckhlb0hwTzVQbWZKSlBKbTZtb3dn?oc=5",
   "source": "AP",
