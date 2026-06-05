@@ -1,5 +1,135 @@
 [
  {
+  "title": "ENAG mayıs ayı enflasyon oranını %53,13 olarak açıkladı",
+  "link": "https://www.bbc.com/turkce/articles/c8xw008ll85o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "TÜİK mayıs enflasyon oranını %53,13 olarak açıkladı. Tüketici Fiyat Endeksi verileri açıklanıyor.",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-06-05T07:01:07.769359+00:00",
+  "cluster_id": "c6cd31ddda5e0"
+ },
+ {
+  "title": "Zelenski barış mektubu yazdı, Putin'e yolladı: Görüşmeler Türkiye'de mi olacak?",
+  "link": "https://www.sozcu.com.tr/zelenski-baris-mektubu-yazdi-putin-e-yolladi-gorusmeler-turkiye-de-mi-olacak-p325398",
+  "source": "Sözcü",
+  "summary_tr": "Zelenski Putin'e barış mektubu göndererek Türkiye'de yüz yüze görüşmeleri önerdi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-05T07:01:07.769359+00:00",
+  "cluster_id": "c8845e91396b8"
+ },
+ {
+  "title": "2.500 kilometre menzilli füzeleri tam alacaklardı: Rusya'dan korkup satmaktan vazgeçtiler",
+  "link": "https://www.sozcu.com.tr/2-500-kilometre-menzilli-fuzeleri-tam-alacaklardi-rusya-dan-korkup-satmaktan-vazgectiler-p325390",
+  "source": "Sözcü",
+  "summary_tr": "ABD, Rusya misilleme kaygısıyla Almanya'ya 2.500 km menzilli Tomahawk füzesi gönderme planını iptal etti.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-05T07:01:07.769359+00:00",
+  "cluster_id": "c4f06ef447829"
+ },
+ {
+  "title": "İsrail'den, ABD'nin ateşkes girişiminin başarısız olmasının arından Lübnan'daki bazı beldelere saldırı tehdidi",
+  "link": "https://www.aa.com.tr/tr/dunya/israilden-abdnin-ateskes-girisiminin-basarisiz-olmasinin-arindan-lubnandaki-bazi-beldelere-saldiri-tehdidi/3957163",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD ateşkes girişimi başarısız olduktan sonra İsrail, Lübnan'daki beldelere saldırı tehdidinde bulundu.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-05T07:01:07.769359+00:00",
+  "cluster_id": "c5bab21b2d411"
+ },
+ {
+  "title": "Soykırımcı İsrail'den Lübnan halkına tehdit",
+  "link": "https://www.trthaber.com/haber/dunya/soykirimci-israilden-lubnan-halkina-tehdit-947235.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD ateşkes girişimi başarısız olduktan sonra İsrail, Lübnan'daki beldelere saldırı tehdidinde bulundu.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-05T07:01:07.769359+00:00",
+  "cluster_id": "cb0a6d6aaed11"
+ },
+ {
+  "title": "Sevda Karaca'dan AYM'nin 'süresiz nafaka' kararına tepki: 'Nafaka hakkından vazgeçmiyoruz'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/sevda-karaca-dan-aym-nin-suresiz-nafaka-kararina-tepki-nafaka-hakkindan-vazgecmiyoruz-2509531",
+  "source": "Cumhuriyet",
+  "summary_tr": "Anayasa Mahkemesi 'süresiz nafaka' düzenlemesinin iptali kararı verdi. CHP milletvekili Sevda Karaca kararı eleştirdi.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-05T07:01:07.769359+00:00",
+  "cluster_id": "c24c11b2ec65f"
+ },
+ {
+  "title": "Kartal'daki duruşma için Silivri'den çıkarılan İmamoğlu geri götürüldü",
+  "link": "https://www.sozcu.com.tr/kartal-daki-durusma-icin-silivri-den-cikarilan-imamoglu-geri-getirildi-p325392",
+  "source": "Sözcü",
+  "summary_tr": "Tutuklu İBB Başkanı Ekrem İmamoğlu Kartal'daki duruşmaya katılmak için Silivri'den çıkarıldı.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-05T07:01:07.769359+00:00",
+  "cluster_id": "c2ac323e93c21"
+ },
+ {
+  "title": "Piyasaların gözü ABD istihdam verisinde: Teknoloji rallisi yavaşladı, jeopolitik riskler öne çıktı",
+  "link": "https://www.sozcu.com.tr/piyasalarin-gozu-abd-istihdam-verisinde-teknoloji-rallisi-yavasladi-jeopolitik-riskler-one-cikti-p325387",
+  "source": "Sözcü",
+  "summary_tr": "Küresel piyasalarda yapay zeka rallisi duraksıyor; jeopolitik riskler öne çıktı. Gözler ABD istihdam verisinde.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-05T07:01:07.769359+00:00",
+  "cluster_id": "cecd0ffbd6299"
+ },
+ {
+  "title": "Çin Devlet Başkanı Şi, 8-9 Haziran'da Kuzey Kore'yi ziyaret edecek",
+  "link": "https://www.aa.com.tr/tr/dunya/cin-devlet-baskani-si-8-9-haziranda-kuzey-koreyi-ziyaret-edecek/3957118",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Çin Devlet Başkanı Şi Cinping, 8-9 Haziran'da Kuzey Kore'yi ziyaret edecek.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-05T07:01:07.769359+00:00",
+  "cluster_id": "cfbba0c70778a"
+ },
+ {
+  "title": "Küresel piyasalarda gözler ABD'de açıklanacak tarım dışı istihdam verisine çevrildi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-gozler-abdde-aciklanacak-tarim-disi-istihdam-verisine-cevrildi/3957166",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Küresel piyasalar ABD'nin tarım dışı istihdam verisini bekliyor. Jeopolitik gelişmeler ve teknoloji rallisinin duraksaması dikkat çekiyor.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-05T07:01:07.769359+00:00",
+  "cluster_id": "c24c554d60c8c"
+ },
+ {
+  "title": "Küresel piyasalarda gözler ABD'de açıklanacak verilerde",
+  "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-gozler-abdde-aciklanacak-verilerde-947236.html",
+  "source": "TRT Haber",
+  "summary_tr": "Küresel piyasalar ABD istihdam verisini bekliyor. Teknoloji rallisi duraksıyor.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-05T07:01:07.769359+00:00",
+  "cluster_id": "c24c554d60c8c"
+ },
+ {
+  "title": "CHP'deki krizde 'arabulucu' formülü: Başkanlar Seçer, Yavaş ve Karalar devrede",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSkswdVZ2b01kX2dwOEZLeUlmTzhJVE5BanlmQzNfeEFtNHV1Z0wwR3FpdWg4T043a0FzbDM1OVB1eWc2SzdjOUoyb3FmS1JVS3hJZzRWSmJWV01Lel9hcVh4TURFZ09GUGlybUQteGNlQi00RXVZMVZjUmxaWjlXVFo1RGxHb2I0VGUtRjdpMzBPYklUQ0pSajVTUE9ZUkx3VmdYZHVlVWwtQ0hYTmx4QQ?oc=5",
+  "source": "soL",
+  "summary_tr": "CHP krizinde Seçer, Yavaş ve Karalar arabulucu formülü devreye girdi.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-05T07:01:07.769359+00:00",
+  "cluster_id": "cfcb56cff6184"
+ },
+ {
+  "title": "India holds rates, ramps up measures to support faltering rupee",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUHNYYmwybW5sTVN2MVdxZndGODhiTFE5Y0xZRU14bU1tYnQtZU9zenpHZVBkRGRmWDQ4TExyNHJYelNSb01POWdXY0cxNmpxcmZ0ODZpeU1vdzI3RmhBbFFHcEd6dUw3Q0owRUxPUVdRLTFvVEpVZTFqRWFUdW1MTHBLZ19fbHdoaFJDN05lOURnT29fMlRYVjRDdVIzSmlzV0g5bldsZW5FQkdCbnIxMzZ4Q1hGZWRBSEtKcnNiT3QzVFd0?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Hindistan faiz oranlarını sabit tutarken, zayıflayan rupi desteklemek için önlemler artırdı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-05T07:01:07.769359+00:00",
+  "cluster_id": "c51f6ca2fce58"
+ },
+ {
   "title": "Zelenski mektup yazdı, Putin cevap verdi: Savaş sona mı eriyor?",
   "link": "https://www.cumhuriyet.com.tr/dunya/zelenski-mektup-yazdi-putin-cevap-verdi-savas-sona-mi-eriyor-2509511",
   "source": "Cumhuriyet",
