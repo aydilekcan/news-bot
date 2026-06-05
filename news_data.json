@@ -1,5 +1,95 @@
 [
  {
+  "title": "Mayıs ayı enflasyonunu TÜİK %32,61; ENAG %53,13 olarak açıkladı",
+  "link": "https://www.bbc.com/turkce/articles/c8xw008ll85o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "TÜİK mayıs enflasyonunu %32,61 olarak açıkladı; ENAG veri seti %53,13 gösterdi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-05T08:01:04.208470+00:00",
+  "cluster_id": "ce4c3ad64a49f"
+ },
+ {
+  "title": "Mayıs enflasyonu belli oldu",
+  "link": "https://www.trthaber.com/haber/ekonomi/mayis-enflasyonu-belli-oldu-947242.html",
+  "source": "TRT Haber",
+  "summary_tr": "Mayıs TÜFE aylık %1,71, yıllık %32,61 arttı.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-05T08:01:04.208470+00:00",
+  "cluster_id": "c0e900ee18b4f"
+ },
+ {
+  "title": "Hürmüz Boğazı'nda İHA saldırısı dev limanı kapattı",
+  "link": "https://www.sozcu.com.tr/hurmuz-bogazi-nda-iha-saldirisi-dev-limani-kapatti-p325420",
+  "source": "Sözcü",
+  "summary_tr": "İHA saldırısı Umman'ın Salalah Limanı'ndaki yakıt depolarını ve vinç vurdu; terminal faaliyetleri durdu.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-05T08:01:04.208470+00:00",
+  "cluster_id": "c19960b1196df"
+ },
+ {
+  "title": "Mayıs ayının zam şampiyonu belli oldu",
+  "link": "https://www.sozcu.com.tr/mayis-ayinin-zam-sampiyonu-belli-oldu-p325419",
+  "source": "Sözcü",
+  "summary_tr": "Mayıs ayında yurt içi uçak biletleri %15,65 ile en yüksek zam gördü.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-05T08:01:04.208470+00:00",
+  "cluster_id": "ccd7c119c69a8"
+ },
+ {
+  "title": "Sanayide verimlilik ilk çeyrekte yükseldi",
+  "link": "https://www.sozcu.com.tr/sanayide-verimlilik-ilk-ceyrekte-yukseldi-p325417",
+  "source": "Sözcü",
+  "summary_tr": "Sanayi verimlilik endeksi 2026 ilk çeyreğinde çalışan başına %3 arttı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-05T08:01:04.208470+00:00",
+  "cluster_id": "cfec5ff909a2b"
+ },
+ {
+  "title": "TMO çiftçilere ürün paralarını erken ödemeyi planlıyor",
+  "link": "https://www.trthaber.com/haber/ekonomi/tmo-ciftcilere-urun-paralarini-erken-odemeyi-planliyor-947246.html",
+  "source": "TRT Haber",
+  "summary_tr": "TMO çiftçilere ürün paralarının erken ödenmesini planlıyor.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-05T08:01:04.208470+00:00",
+  "cluster_id": "ce48f350d44b1"
+ },
+ {
+  "title": "Sanayide çalışan kişi başına üretim endeksi ilk çeyrekte yıllık bazda yüzde 3 arttı",
+  "link": "https://www.trthaber.com/haber/ekonomi/sanayide-calisan-kisi-basina-uretim-endeksi-ilk-ceyrekte-yillik-bazda-yuzde-3-artti-947244.html",
+  "source": "TRT Haber",
+  "summary_tr": "Sanayide çalışan kişi başına üretim endeksi ilk çeyrekte yıllık %3 arttı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-05T08:01:04.208470+00:00",
+  "cluster_id": "c517cae6299d3"
+ },
+ {
+  "title": "Oman says Mina al Fahal terminal operations normal after reported oil export halt",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN09XbDZ2X3c4NmJuMHFyWUltX3Q3VVRaTnBxVEZUWkdROVdPQ04zalFzX3E5RXY4bVVqTlB6akdjS1NSaTk2RmR5eFRIOVBiM29WdURtZ2FwcVpwOHpOZWE5LWoycXRudmlJd21ubUQyMXVNUXRHVkpzQXJYck1NcHI4MktzcS1XVGtfTF9rRFdWZndObzR1aGtZVldSOEVraGUtTndVRk9lUTZ0ZU9SRjB0ek5xeXhtUWtBZENLX2NIMThFekQ3ZzNZTXU?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Umman Mina al Fahal terminal operasyonlarının normal olduğunu açıkladı; ihracat durdurma haberlerini yalanladı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-05T08:01:04.208470+00:00",
+  "cluster_id": "c71a863649207"
+ },
+ {
+  "title": "India ramps up support for faltering rupee after holding fire on rates",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUHNYYmwybW5sTVN2MVdxZndGODhiTFE5Y0xZRU14bU1tYnQtZU9zenpHZVBkRGRmWDQ4TExyNHJYelNSb01POWdXY0cxNmpxcmZ0ODZpeU1vdzI3RmhBbFFHcEd6dUw3Q0owRUxPUVdRLTFvVEpVZTFqRWFUdW1MTHBLZ19fbHdoaFJDN05lOURnT29fMlRYVjRDdVIzSmlzV0g5bldsZW5FQkdCbnIxMzZ4Q1hGZWRBSEtKcnNiT3QzVFd0?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Hindistan faiz kararında tutum almaktan kaçınırken rüpe desteğini artırdı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-05T08:01:04.208470+00:00",
+  "cluster_id": "c5951475828ed"
+ },
+ {
   "title": "ENAG mayıs ayı enflasyon oranını %53,13 olarak açıkladı",
   "link": "https://www.bbc.com/turkce/articles/c8xw008ll85o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
