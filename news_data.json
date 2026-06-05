@@ -1,5 +1,85 @@
 [
  {
+  "title": "US job market notches third straight month of solid growth",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYzlNSjdHTDNFS0c2TWFWbEdfdWFZX3NrNVZPT2paMzhIZWlub1RieWJvNUE0bFJSOFNwOXhOT0pBc3oyYzFsZ1Y0MzJ2cFBwZGZPNUVtdXp6SDl1dXNNMWNkQmliMkpEMFhNN2Y3bzd0N3dEdzZRYTRxaDhzZi1FWE45dTRqSUZMNUtscVFQS1VkWWN6NnloVjh5QWZqenc5NDE3VHg4MEphcXVhbnBCWE5yNGlIWm5mRFdfeDVaVUdCemxBNUh6Z3Zn?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD iş pazarı üçüncü ay üst üste solid büyüme kaydettiğini Federal istatistikleri gösterdi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-05T16:01:06.970279+00:00",
+  "cluster_id": "c6fed536886ca"
+ },
+ {
+  "title": "US jobs report tilts hawkish as Warsh takes over at Fed",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0JkR3ZHY2thbGpLU2FrRnM5VWp3aHZicWd2VU1zamZ3aU9QVTZ3bjN6ejdEU0hGWmVDT1lKWDZGbjVlN2NZaGNJZktqa08xdHNxSzB5eHAtSEN2dTZMOGlkLWk4TkhMZUczNE1tWjluOUdaQnJIVTBxQkpHNHZUN0t3VldpR1dBWUFoc2xYNzRuaGFlUnpJbUdRcElSMlI2NW5J?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD iş raporları Fed başkanlığında Warsh döneminde hawkish eğilim gösterirken, piyasalara baskı oluşturuyor.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-05T16:01:06.970279+00:00",
+  "cluster_id": "c707e3e9a0e4f"
+ },
+ {
+  "title": "UYAP skandalı davasında karar: Zabıt katibine 27 yıl ceza, adli kontrollü tahliye",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/uyap-skandali-davasinda-karar-zabit-katibine-27-yil-ceza-adli-kontrollu-tahliye-2509705",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ankara Adliyesi'nde UYAP şifrelerini kötüye kullanan zabıt katibi Ahmet Yılmaz hakkında 27 yıl ceza kararı verildi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-05T16:01:06.970279+00:00",
+  "cluster_id": "ce77c340c0406"
+ },
+ {
+  "title": "AB Komisyonu, Rusya ile Ukrayna arasında doğrudan müzakere yapılması teklifinden memnun",
+  "link": "https://www.aa.com.tr/tr/dunya/ab-komisyonu-rusya-ile-ukrayna-arasinda-dogrudan-muzakere-yapilmasi-teklifinden-memnun/3957862",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "AB Komisyonu, Ukrayna Devlet Başkanı Zelenskiy'nin Rusya-Ukrayna Savaşı'nı sona erdirmek için doğrudan müzakere yapılması teklifinden memnun olduğunu belirtti.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-05T16:01:06.970279+00:00",
+  "cluster_id": "ca5e4ca056971"
+ },
+ {
+  "title": "İrlanda, İsrailli bakanlar Ben-Gvir ve Smotrich'in ülkeye girişini yasakladı",
+  "link": "https://www.aa.com.tr/tr/dunya/irlanda-israilli-bakanlar-ben-gvir-ve-smotrichin-ulkeye-girisini-yasakladi/3957854",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İrlanda, İsrailli bakanlar Ben-Gvir ve Smotrich'in ülkeye girişini yasakladı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-05T16:01:06.970279+00:00",
+  "cluster_id": "c050af9de69d5"
+ },
+ {
+  "title": "Özgür Özel'den Tokat'ta 'taşıma seçmen' iddiası: AKP, seçim öncesi 550 kişinin kayıtlarını bu beldeye aldırdı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-den-tokat-ta-tasima-secmen-iddiasi-bu-beldeye-darbe-yapamazsiniz-2509704",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Genel Başkanı Özgür Özel, Tokat'ta yapılacak ara seçimden önce 550 seçmenin kaydının beldeye taşındığını iddia etti.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-05T16:01:06.970279+00:00",
+  "cluster_id": "c39e62e8f77df"
+ },
+ {
+  "title": "Dervişoğlu: Türk siyaseti üzerindeki yargı vesayetini asla ve kata kabul etmiyorum",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/dervisoglu-turk-siyaseti-uzerindeki-yargi-vesayetini-asla-ve-kata-kabul-etmiyorum-2509699",
+  "source": "Cumhuriyet",
+  "summary_tr": "İYİ Parti Genel Başkanı Dervişoğlu, Türk siyaseti üzerindeki yargı vesayetini kabul etmediğini ve siyasi rekabetin milletin iradesiyle sonuçlanması gerektiğini söyledi.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-05T16:01:06.970279+00:00",
+  "cluster_id": "c316b025ed658"
+ },
+ {
+  "title": "Borsa günü düşüşle tamamladı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/3957888",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Borsa İstanbul BIST 100 endeksi günü %1,28 değer kaybederek 13.694,19 puandan kapattı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-05T16:01:06.970279+00:00",
+  "cluster_id": "c49833b995b2b"
+ },
+ {
   "title": "Katil İsrail'in Lübnan'a düzenlediği saldırılarda ölenlerin sayısı 3 bin 558'e çıktı",
   "link": "https://www.trthaber.com/haber/dunya/katil-israilin-lubnana-duzenledigi-saldirilarda-olenlerin-sayisi-3-bin-558e-cikti-947303.html",
   "source": "TRT Haber",
