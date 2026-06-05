@@ -1,5 +1,85 @@
 [
  {
+  "title": "Zelenski mektup yazdı, Putin cevap verdi: Savaş sona mı eriyor?",
+  "link": "https://www.cumhuriyet.com.tr/dunya/zelenski-mektup-yazdi-putin-cevap-verdi-savas-sona-mi-eriyor-2509511",
+  "source": "Cumhuriyet",
+  "summary_tr": "Zelenski, Putin'e açık mektup göndererek doğrudan görüşme ve ateşkes çağrısında bulundu.",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-06-05T06:02:10.021744+00:00",
+  "cluster_id": "c14f63c045cd6"
+ },
+ {
+  "title": "China's Xi to visit North Korea as Beijing seeks deeper Pyongyang ties",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMVpSWUNvcTYwOUc0MWVVN0FuSklCZTY2SDNHV0RTbklXdEZCRkRkcnZrUGNsc2xGc1d3eDFrZmYwalFxck1yeUxIWmcySE5ZOXBJWmwxbnhMeHpFMEpKcVk0d2hHaTUzNmc0bTJETmdyY1JvR2dWakQ0enU1dVppQl9aSHBLcVdia0tCWkNXQklpUDdjejAzOENiSVhSbEZMVFdRdGx6NXF4SFZ2Tm9PSzUxTzBmWnc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin Devlet Başkanı Xi, Kuzey Kore'ye ziyaret gerçekleştirerek Beijing-Pyongyang ilişkilerini derinleştirmeyi amaçlıyor.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-05T06:02:10.021744+00:00",
+  "cluster_id": "cfd81e1c0f570"
+ },
+ {
+  "title": "İran’dan Hürmüz Boğazı çıkışı: Kararı biz vereceğiz",
+  "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-hurmuz-bogazi-cikisi-karari-biz-verecegiz-2509514",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran Dışişleri Bakanı Erakçi, Hürmüz Boğazı'na ilişkin nihai kararı İran'ın vereceğini belirtti.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-05T06:02:10.021744+00:00",
+  "cluster_id": "c69cfbeebb2bf"
+ },
+ {
+  "title": "ABD yaptırım uyguladı, Küba’dan yanıt gecikmedi: Çatışma ortamını tırmandırıyor",
+  "link": "https://www.cumhuriyet.com.tr/dunya/abd-yaptirim-uyguladi-kuba-dan-yanit-gecikmedi-catisma-ortamini-tirmandiriyor-2509513",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD, Küba'ya yaptırım uyguladı; Küba Devlet Başkanı Díaz-Canel karşı yaptırımlarla yanıt verdi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-05T06:02:10.021744+00:00",
+  "cluster_id": "cb76d7f2d2d42"
+ },
+ {
+  "title": "11 Avrupa ülkesi Schengen için harekete geçti: Vize verilmesini engelleyecekler",
+  "link": "https://www.sozcu.com.tr/11-avrupa-ulkesi-schengen-icin-harekete-gecti-vize-verilmesini-engelleyecekler-p325375",
+  "source": "Sözcü",
+  "summary_tr": "11 Avrupa ülkesi, Rus vatandaşlarına Schengen vizesi verilmesini engellemek için AB Komisyonu'na başvurdu.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-05T06:02:10.021744+00:00",
+  "cluster_id": "c9532cc018c15"
+ },
+ {
+  "title": "Indian central bank keeps key policy rate on hold, despite falling currency",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUHNYYmwybW5sTVN2MVdxZndGODhiTFE5Y0xZRU14bU1tYnQtZU9zenpHZVBkRGRmWDQ4TExyNHJYelNSb01POWdXY0cxNmpxcmZ0ODZpeU1vdzI3RmhBbFFHcEd6dUw3Q0owRUxPUVdRLTFvVEpVZTFqRWFUdW1MTHBLZ19fbHdoaFJDN05lOURnT29fMlRYVjRDdVIzSmlzV0g5bldsZW5FQkdCbnIxMzZ4Q1hGZWRBSEtKcnNiT3QzVFd0?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Hindistan Merkez Bankası, para birimi zayıflamasına rağmen ana politika faizini sabit tuttu.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-05T06:02:10.021744+00:00",
+  "cluster_id": "c1bb672db675f"
+ },
+ {
+  "title": "Yen teeters near 160 level after fresh warning; dollar buoyed by Gulf tension",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY1I1UFVHbFdub2xoRDE3aktGWXBsaC1XNFZReFFnVEFiMl9YR2t1UVlXMjhtYWtWbHJjNkMtWlZKZERtTEZMTEE4TzFtZGhFS3oyc3p1Wm1nVEtxdEN6OENxWWFtdTNYOEpnNFRDaVdKMTNySW1MZTlQWEZyd0tMSEdkaVpvOU1VY19CZ2hrR3JhY0R5LUFiQlFhNy1PYllOcGlnVzhHY3lqNnNQS0RxOW5MSzFIb2Y3Rnc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Japon yeni 160 seviyesinde dalgalanıyor; dolar Körfez geriliminden güç alıyor.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-05T06:02:10.021744+00:00",
+  "cluster_id": "c920e31e749cd"
+ },
+ {
+  "title": "Oil edges up on US-Iran deal uncertainty, Oman's Mina al Fahal loading suspension",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTlEyVHU4OGhfS1RSaDItak5sQTZxNEptRjdDemtZdGs1aG5YMjEtV2tnTG1OM2ZxQl9pZGo1cnIyMFNmWElfUmpXcEJJSDRkTHZqdmRWRks4MG5GYUNMNDFaS3RKNUtwYTQtdjNEZGM4eVZjd3FqYlpRSGZHbl9vYTRPTkxWNVF5b0pBV2M1dzgwdk1tOEZHVTRBcEZnX0ZncWZSVWtuOWNrdw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Petrol, ABD-İran anlaşma belirsizliği ve Oman'ın Mina al Fahal yükleme suspansiyonuyla yükselişe geçti.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-05T06:02:10.021744+00:00",
+  "cluster_id": "ced76c41927d2"
+ },
+ {
   "title": "Chinese leader Xi Jinping will travel to North Korea next week in first visit since 2019",
   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU1FDa1VlaWR1MXlwUEZQMGlxVzR4TWtZWld1blZWcGlSZ0pFSmpDMEhjVWtoc2ZyS21udjZYVGMyUEZYT3lFR1N6aDNJSGIzWmdQTm9DRW9SOE4ycHp5OUxtY2VFRDU5eWFPdDd1SE10NDA0ZHpEdFhreWxLVHhIREE1ckVGcjk3QzZZbQ?oc=5",
   "source": "AP",
