@@ -1,5 +1,105 @@
 [
  {
+  "title": "Putin barış teklifini reddedince, İHA'lar kalktı: St. Petersburg yine yandı",
+  "link": "https://www.sozcu.com.tr/putin-baris-teklifini-reddedince-iha-lar-kalkti-st-petersburg-yine-yandi-p325714",
+  "source": "Sözcü",
+  "summary_tr": "Putin'in müzakereleri reddetmesinin ardından Ukrayna, St. Petersburg'a 144 İHA ile saldırı düzenledi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-06T10:01:06.204402+00:00",
+  "cluster_id": "c16491a350fae"
+ },
+ {
+  "title": "Kati İsrail'in Gazze Şeridi'ne saldırılarında can kaybı 72 bin 961'e yükseldi",
+  "link": "https://www.trthaber.com/haber/dunya/kati-israilin-gazze-seridine-saldirilarinda-can-kaybi-72-bin-961e-yukseldi-947375.html",
+  "source": "TRT Haber",
+  "summary_tr": "İsrail ordusunun Gazze Şeridi'ne Ekim 2023'ten bu yana düzenlediği saldırılarda can kaybı 72 bin 961'e ulaştı.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-06T10:01:06.204402+00:00",
+  "cluster_id": "cdbc862d5fc44"
+ },
+ {
+  "title": "Piyasalarda kırmızı cuma: Faiz korkusu Avrupa, altın ve  Bitcoin'i düşürdü",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/piyasalarda-kirmizi-cuma-faiz-korkusu-avrupa-altin-ve-bitcoin-i-dusurdu-2509854",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD'deki güçlü istihdam verisi Fed'in faiz artırım ihtimalini artırırken, çip üreticilerindeki kar satışları Avrupa borsalarında düşüşe neden oldu.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-06T10:01:06.204402+00:00",
+  "cluster_id": "c3e944bac9222"
+ },
+ {
+  "title": "Trump yönetimi dev şirketlere ortak mı olacak?",
+  "link": "https://www.sozcu.com.tr/trump-yonetimi-dev-sirketlere-ortak-mi-olacak-p325715",
+  "source": "Sözcü",
+  "summary_tr": "ABD Başkanı Trump, hükümet adına yapay zeka şirketlerinden hisse almayı değerlendirdiğini açıkladı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-06T10:01:06.204402+00:00",
+  "cluster_id": "cd148661d5086"
+ },
+ {
+  "title": "Küresel piyasalarda gözler faiz kararlarına çevrildi",
+  "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-gozler-faiz-kararlarina-cevrildi-947377.html",
+  "source": "TRT Haber",
+  "summary_tr": "Küresel piyasalar jeopolitik gerginlikler ve teknoloji hisselerindeki satış baskısıyla karışık seyir gösterirken faiz kararları bekleniyor.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-06T10:01:06.204402+00:00",
+  "cluster_id": "cdf52ab3f08b8"
+ },
+ {
+  "title": "Taiwan says Chinese coast guard, research ships near key S. China Sea islands",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZFFTeVhDeGJPVmVhYzd6d0hJTXlPTE56LWlqLWI1N3pPMFB2dVNKOGZXZ0NuY05vbXFqcU5KRGJCU2JNUHhxRVRaRGh4V2Y5WEFwTlhDRGdkenZXVXNnalYwRmNnQm5fR29fQWRRZlNnRFVNc0Q2bENEbGhxZjdhWW04c1N6dVlkOHh4bF9BaVREaEhuaFI5NmZuQUQwSGEwQmZJRDNvN0ZydzNDV2hUSVVTVTZnbEVIWnBjOFI3ZUc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Tayvan, Çin sahil güvenlik ve araştırma gemilerinin anahtar Güney Çin Denizi adaları yakınında bulunduğunu duyurdu.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-06T10:01:06.204402+00:00",
+  "cluster_id": "c820673a0eff7"
+ },
+ {
+  "title": "Yurttaşlardan TÜİK’in enflasyon verisine tepki: 'Göz göre göre yalan söylüyorlar'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/yurttaslardan-tuik-in-enflasyon-verisine-tepki-goz-gore-gore-yalan-soyluyorlar-2509851",
+  "source": "Cumhuriyet",
+  "summary_tr": "Yurttaşlar TÜİK'in mayıs enflasyon verisinin inandırıcı olmadığını ifade etti.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-06T10:01:06.204402+00:00",
+  "cluster_id": "c186bcfa7cbeb"
+ },
+ {
+  "title": "ABD Hazine Bakanlığı'ndan finans kurumlara 'yasa dışı istihdam' uyarısı",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/abd-hazine-bakanligi-ndan-finans-kurumlara-yasa-disi-istihdam-uyarisi-2509850",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD Hazine Bakanlığı finans kurumlarına yasadışı göçmen istihdamı konusunda uyarı yaptı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-06T10:01:06.204402+00:00",
+  "cluster_id": "cb4824d2f1757"
+ },
+ {
+  "title": "Şimdiye kadar ne dediyse çıktı: Emekli ve memur maaş zammı için rakam verdi",
+  "link": "https://www.sozcu.com.tr/simdiye-kadar-ne-dediyse-cikti-emekli-ve-memur-maas-zammi-icin-rakam-verdi-p325705",
+  "source": "Sözcü",
+  "summary_tr": "SGK Uzmanı Özgür Erdursun, memur ve emekli maaş zammı için rakam verdi.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-06T10:01:06.204402+00:00",
+  "cluster_id": "ce418a44068d3"
+ },
+ {
+  "title": "Türk karavan sektörü AR-GE yatırımlarıyla küresel rekabet gücünü artırıyor",
+  "link": "https://www.aa.com.tr/tr/ekonomi/turk-karavan-sektoru-ar-ge-yatirimlariyla-kuresel-rekabet-gucunu-artiriyor/3958293",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türk karavan sektörü AR-GE yatırımları ve teknolojik gelişimle küresel rekabet gücünü artırıyor.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-06T10:01:06.204402+00:00",
+  "cluster_id": "c6616ba24d2cb"
+ },
+ {
   "title": "IŞİD'e 39 ilde operasyon: 361 şüpheli yakalandı",
   "link": "https://www.cumhuriyet.com.tr/turkiye/isid-e-39-ilde-operasyon-361-supheli-yakalandi-2509831",
   "source": "Cumhuriyet",
