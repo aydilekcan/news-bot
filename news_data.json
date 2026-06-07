@@ -1,5 +1,75 @@
 [
  {
+  "title": "İsrail ordusu duyurdu: İran, İsrail'e füze saldırısı başlattı",
+  "link": "https://www.sozcu.com.tr/iran-dan-israil-e-fuze-saldirisi-iddiasi-7-haziran-2026-p325991",
+  "source": "Sözcü",
+  "summary_tr": "İsrail ordusu, İran'dan İsrail'e yönelik füze saldırısı başlatıldığını duyurdu ve hava savunma sistemleri devreye girdi.",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-06-07T20:01:02.437799+00:00",
+  "cluster_id": "c0dd7942529bf"
+ },
+ {
+  "title": "İran'dan İsrail'e füze saldırısı",
+  "link": "https://www.trthaber.com/haber/dunya/irandan-israile-fuze-saldirisi-947458.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran, İsrail'in Beyrut'a yönelik saldırısının ardından İsrail'e füze saldırısı başlattı; ülkenin kuzeyinde sirenler çaldı.",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-06-07T20:01:02.437799+00:00",
+  "cluster_id": "c0dd7942529bf"
+ },
+ {
+  "title": "İran'dan fırlatılan füzeler nedeniyle İsrail'in kuzeyinde art arda sirenler çaldı",
+  "link": "https://www.aa.com.tr/tr/live-blog/dakika-dakika-gelismeler-abd-israil-iran-lubnan-savasi-ve-ateskes-sureci/3298",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran'dan fırlatılan füzeler nedeniyle İsrail'in kuzeyinde sirenler çalındı; İsrail'in Beyrut'a yönelik saldırısının ardından gelişme.",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-06-07T20:01:02.437799+00:00",
+  "cluster_id": "c48fdac58cac1"
+ },
+ {
+  "title": "Iran's top negotiator threatens US targets over Lebanon escalation",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY3hNVzdZOFg3MlVZY1VVYkw5Nmt2bHVTUk43T184cnRoZTR0T1pHVktFVXV5akFCQ05RSnhYa2lfRzVEY1NaVjFOajVnY2poY0F0dGo5SWdoY2tLdjZNaHVOWkN2bEZMWEl3VlgyRUF1cWFKbUpkYlY4MjJucFpVbzRYOWRaRFFaaTN4S3hta1Q4R1ZHRURJRjZVbUtjUjdWUHk3eWU1MUgwQXM4MlU4aFFZX0xndF9VWDFR?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran'ın en üst seviye müzakereciği, Lübnan gerginliğinin ardından ABD hedeflerine karşı tehdit içeren açıklama yaptı.",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-06-07T20:01:02.437799+00:00",
+  "cluster_id": "cc88f9e6c1cdc"
+ },
+ {
+  "title": "Netanyahu, İran tehdidinin ardından güvenlik istişare toplantısı düzenleyecek",
+  "link": "https://www.aa.com.tr/tr/dunya/netanyahu-iran-tehdidinin-ardindan-guvenlik-istisare-toplantisi-duzenleyecek/3959356",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Netanyahu, İran tehdidinin ardından güvenlik istişare toplantısı düzenlemeye hazırlanıyor.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-07T20:01:02.437799+00:00",
+  "cluster_id": "c30b11e45af63"
+ },
+ {
+  "title": "Eski AYM Başkanı Haşim Kılıç'dan 'mutlak butlan' yorumu: Kapatılma kararından daha ağır",
+  "link": "https://www.sozcu.com.tr/hasim-kilic-mutlak-butlan-yorumu-p325993",
+  "source": "Sözcü",
+  "summary_tr": "Eski AYM Başkanı Haşim Kılıç, CHP'ye verilen 'mutlak butlan' kararını, kapatılma kararından daha ağır olduğu yönünde yorumladı.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-07T20:01:02.437799+00:00",
+  "cluster_id": "cec93eed5d935"
+ },
+ {
+  "title": "Filistinli gruplar, Gazze ateşkesinin ikinci aşamasını görüşmek üzere Kahire'de temaslarını sürdürüyor",
+  "link": "https://www.aa.com.tr/tr/dunya/filistinli-gruplar-gazze-ateskesinin-ikinci-asamasini-gorusmek-uzere-kahirede-temaslarini-surduruyor/3959354",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Filistinli gruplar Gazze ateşkesinin ikinci aşaması görüşmelerine devam etmek üzere Kahire'de temaslarını sürdürüyor.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-07T20:01:02.437799+00:00",
+  "cluster_id": "c25be192ea70d"
+ },
+ {
   "title": "6 beldede seçim yapıldı... CHP'li Zeybek tabloyu paylaştı, artan seçmen sayısına dikkat çekti: ‘Yalnızca iki yıl içerisinde…’",
   "link": "https://www.cumhuriyet.com.tr/siyaset/6-beldede-secim-yapildi-chp-li-zeybek-tabloyu-paylasti-artan-secmen-sayisina-dikkat-cekti-yalnizca-iki-yil-icerisinde-2510176",
   "source": "Cumhuriyet",
