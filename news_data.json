@@ -1,5 +1,85 @@
 [
  {
+  "title": "Trump: Füzelerinizi fırlattınız, bu yeterli. Masaya geri dönün ve bir anlaşma yapın",
+  "link": "https://www.aa.com.tr/tr/dunya/trump-fuzelerinizi-firlattiniz-bu-yeterli-masaya-geri-donun-ve-bir-anlasma-yapin/3959541",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Trump, İran'ı anlaşma masasına dönmeye çağırdı ve füze saldırısını yeterli görmedi.",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-06-08T00:01:00.490288+00:00",
+  "cluster_id": "c0162c4181825"
+ },
+ {
+  "title": "E3 ülkelerinin liderleri, Londra'da Ukrayna Devlet Başkanı Zelenskiy ile görüştü",
+  "link": "https://www.aa.com.tr/tr/dunya/e3-ulkelerinin-liderleri-londrada-ukrayna-devlet-baskani-zelenskiy-ile-gorustu/3959645",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İngiltere, Fransa ve Almanya liderleri Londra'da Zelenskiy ile görüşerek Ukrayna konusunu ele aldı.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-08T00:01:00.490288+00:00",
+  "cluster_id": "c50f1c1e075e3"
+ },
+ {
+  "title": "İsrail Ulusal Güvenlik Bakanı Itamar Ben-Gvir: Bu gece Tahran alevler içinde kalmalı!",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-ulusal-guvenlik-bakani-itamar-ben-gvir-bu-gece-tahran-alevler-icinde-kalmali/3959547",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail Ulusal Güvenlik Bakanı Ben-Gvir, İran saldırısı sonrası Tahran'ı tehdit etti.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-08T00:01:00.490288+00:00",
+  "cluster_id": "c35fde35ae2a8"
+ },
+ {
+  "title": "Ermenistan Başbakanı Paşinyan: 7 Haziran parlamento seçimini kazandık",
+  "link": "https://www.aa.com.tr/tr/dunya/ermenistan-basbakani-pasinyan-7-haziran-parlamento-secimini-kazandik/3959650",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ermenistan Başbakanı Paşinyan, 7 Haziran parlamento seçimlerini kazandıklarını açıkladı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-08T00:01:00.490288+00:00",
+  "cluster_id": "c6614a68278b1"
+ },
+ {
+  "title": "İsrail güçleri Suriye'nin güneyindeki Dera kırsalında bir köye baskın düzenledi",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-gucleri-suriyenin-guneyindeki-dera-kirsalinda-bir-koye-baskin-duzenledi/3959631",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail güçleri Suriye'nin Dera kırsalında bir köye baskın düzenlemişdir.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-08T00:01:00.490288+00:00",
+  "cluster_id": "c70beae77f488"
+ },
+ {
+  "title": "IATA, küresel hava yolu şirketlerinin 2026 kar tahminini yakıt şokuyla yaklaşık yarı yarıya düşürdü",
+  "link": "https://www.aa.com.tr/tr/ekonomi/iata-kuresel-hava-yolu-sirketlerinin-2026-kar-tahminini-yakit-sokuyla-yaklasik-yari-yariya-dusurdu/3959552",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "IATA, küresel hava yolu şirketlerinin 2026 kar tahminini yakıt şokuyla 23 milyar dolara indirildi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-08T00:01:00.490288+00:00",
+  "cluster_id": "ca7cd68a4c706"
+ },
+ {
+  "title": "Armenia's Pashinyan declares victory in parliamentary election, vote counting continues",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON0k3VGoxVUhIemw0Vkdpb2ZHeHQxcUdLQ05GY0ZxcjhrWWNXRVY0RFNTVFZqcTA1QXVRV2ctMjAwMktJZDBpZHdoQnpNZ1Q2TEdzcjh3WUdlUmZ5dGRKbHNZdzE5d1FjZjBfdmEzVG00bGFhYkhhTzdEa1JLY1B4QmFCSEpMMllQdWZXNnFBcjMwaUpYNktUZjJ5N3VxTXdBZ0xReTNqMmZKeVphd1FN?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ermenistan Başbakanı Paşinyan parlamento seçimlerinde zafer ilan etti; oy sayımı devam etmektedir.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-08T00:01:00.490288+00:00",
+  "cluster_id": "ca2260a4c8dbf"
+ },
+ {
+  "title": "KOBİ’ye destekten yüksek faiz çıktı",
+  "link": "https://www.sozcu.com.tr/kobi-ye-destekten-yuksek-faiz-cikti-p326017",
+  "source": "Sözcü",
+  "summary_tr": "KOBİ destek kredisinin üçüncü dönemi başladı; geçen yıl yüksek faiz oranları uygulanmıştı.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-08T00:01:00.490288+00:00",
+  "cluster_id": "c89956cba6bcf"
+ },
+ {
   "title": "Ermenistan'da seçim: Paşinyan'dan erken zafer ilanı",
   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYS05S192dUlVTDl4YUlLQklwS0dDSmplZE51Yk1qUlRES0V4M3k2eGFXZm9VMXE1VHk4UEdoWmp6N1Y3TFdCd0txY2FNR1dSX1BnODFWdEtEbnVvUE8wWVluTnd4R0Y0QTNmbzlESnVteDJ5UTBuZUhWZmduand3YzFKeVh0TkhacThqZTZDbw?oc=5",
   "source": "soL",
