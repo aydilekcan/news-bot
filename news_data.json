@@ -1,5 +1,155 @@
 [
  {
+  "title": "İran, İsrail'e saldırıları durdurdu: 'Lübnan'a saldırırlarsa daha sert karşılık veririz'",
+  "link": "https://www.bbc.com/turkce/articles/c3rydr91l0no?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "İran, İsrail'e yönelik füze saldırılarını durdurduğunu açıkladı; Lübnan saldırısına karşılık tehdidi sürdürüyor.",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-06-08T12:01:07.367219+00:00",
+  "cluster_id": "c46f16f6ee425"
+ },
+ {
+  "title": "İran, İsrail'e operasyonların durdurulduğunu açıkladı",
+  "link": "https://www.trthaber.com/haber/dunya/iran-israile-operasyonlarin-durduruldugunu-acikladi-947528.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Silahlı Kuvvetleri, İsrail'e yönelik operasyonlarını durdurduğunu resmen açıkladı.",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-06-08T12:01:07.367219+00:00",
+  "cluster_id": "c35da725f81bc"
+ },
+ {
+  "title": "Trump ve İran’dan zıt mesajlar: Savaş mı ateşkes mi?",
+  "link": "https://www.cumhuriyet.com.tr/dunya/trump-ve-iran-dan-zit-mesajlar-savas-mi-ateskes-mi-2510393",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran ve ABD'den zıt mesajlar: İran uzun süreli savaşa hazır olduğunu belirtirken, ABD ateşkes istıyor.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-08T12:01:07.367219+00:00",
+  "cluster_id": "c4d6b66a67681"
+ },
+ {
+  "title": "İran pembe renkli silahını sahaya sürdü: Hava savunmaları tanıyamıyor",
+  "link": "https://www.sozcu.com.tr/iran-pembe-renkli-silahini-sahaya-surdu-hava-savunmalari-taniyamiyor-p326183",
+  "source": "Sözcü",
+  "summary_tr": "İran, Beyrut'a yapılan saldırı sonrası operasyonlara başladı; pembe renkli silahları kullandığı iddia ediliyor.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-08T12:01:07.367219+00:00",
+  "cluster_id": "c5268f8842f3f"
+ },
+ {
+  "title": "Ukraine recaptures more than 600 square km of territory in 2026, military chief says",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX1QwQzAzUXV1MlgwUV9NOWNYa2YyU1pISkF6SGVtM1VjcGNta1cyS2lpaGlzWnhOS3dPMFl6YllNX0VLMUI3MW0yQ1JaRl9SYTJGaHhuMVQxUV9HVlhRaGI0TEtwUm5PMUt4VV9ldFRMTEcwMEZ6NUp0dWdiblVrUjNkTEhNNGRRNjdmeUhTZmwwalk3aTFzalZJa2ppYzhLWTdVY2hWdnFRTkhyT0Z3enhqWDE1TlVCQ1Nr?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ukrayna 2026'da 600 km² den fazla toprağı geri aldığını bildirdi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-08T12:01:07.367219+00:00",
+  "cluster_id": "cc221a11103ea"
+ },
+ {
+  "title": "Kılıçdaroğlu yönetiminden Özgür Özel'in 'grup toplantısı' kararına yanıt: 'Biz aynı yerde duruyoruz'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/kilicdaroglu-yonetiminden-ozgur-ozel-in-grup-toplantisi-kararina-yanit-biz-ayni-yerde-duruyoruz-2510399",
+  "source": "Cumhuriyet",
+  "summary_tr": "Mahkemenin 'mutlak butlan' kararıyla CHP Genel Başkanı olan Kılıçdaroğlu yarın grup toplantısında konuşacak.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-08T12:01:07.367219+00:00",
+  "cluster_id": "c0cecab212e4c"
+ },
+ {
+  "title": "Altın 2.5 ayın dibini gördü: 3 gün sonra her şey değişebilir",
+  "link": "https://www.sozcu.com.tr/altin-2-5-ayin-dibini-gordu-3-gun-sonra-her-sey-degisebilir-p326186",
+  "source": "Sözcü",
+  "summary_tr": "Altın fiyatları jeopolitik gerilim ve Fed politikası beklentileriyle 2.5 ayın en düşük seviyesini gördü.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-08T12:01:07.367219+00:00",
+  "cluster_id": "c9bc5aad6acb6"
+ },
+ {
+  "title": "Orta Doğu'daki savaş AB'nin enerji faturasını 47 milyar avro yükseltti",
+  "link": "https://www.aa.com.tr/tr/ekonomi/orta-dogudaki-savas-abnin-enerji-faturasini-47-milyar-avro-yukseltti/3960372",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Orta Doğu'daki savaş AB'nin son 100 günde enerji ithalatını 47 milyar avro arttırdı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-08T12:01:07.367219+00:00",
+  "cluster_id": "cd04a88ccb0de"
+ },
+ {
+  "title": "Gazze ateşkesinin ikinci aşaması için Kahire’de görüşmeler sürüyor",
+  "link": "https://www.aa.com.tr/tr/dunya/gazze-ateskesinin-ikinci-asamasi-icin-kahire-de-gorusmeler-suruyor/3960351",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Gazze ateşkesinin ikinci aşaması için Kahire'de Filistinli gruplar ve garantör ülkeler görüşüyor.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-08T12:01:07.367219+00:00",
+  "cluster_id": "cbf4758358448"
+ },
+ {
+  "title": "Gazze ateşkesinin ikinci aşaması için Kahirede görüşmeler sürüyor",
+  "link": "https://www.trthaber.com/haber/dunya/gazze-ateskesinin-ikinci-asamasi-icin-kahirede-gorusmeler-suruyor-947529.html",
+  "source": "TRT Haber",
+  "summary_tr": "Gazze ateşkesinin ikinci aşaması için Kahire'de Filistinli gruplar ve garantör ülkeler görüşüyor.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-08T12:01:07.367219+00:00",
+  "cluster_id": "cbf4758358448"
+ },
+ {
+  "title": "French jet on NATO mission shoots down drone in Latvian airspace",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZV9iTmFacDhXa29kdWd4bVptSkRuT2NmY1Q4U1lFRVRiTDFtbXRQem1YeGd0bjN1QkR0VHgzUHQwdEROamNpY19DQWlha1c2a09GZDlYZlZReXBTVTFuTWdVZ0RvV0xxWGljdklIWFNfaG5UVEc1NWczcXExb2F5a1BFVUQyYkoyajR3WFo4YjN4aXNYLU9KUTJQa0RnR25LbE45a0ZkNlJOc19nM2N0cWxibw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Fransız F-16 savaş uçağı, NATO görevinde Letonya hava sahasında İHA'yı düşürdü.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-08T12:01:07.367219+00:00",
+  "cluster_id": "ccf10d4be8954"
+ },
+ {
+  "title": "Armenian PM Nikol Pashinyan claims victory in election seen as test of Russia’s influence",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR1UxMmp4emQxQWU2Tjl6RWJvdDYtWlJkNUlwNk43YmJFWngtVjhZWjdaeExFZjlWbVNLRTFIR19oSWhJX2xLcEd5VndSdmRVbzBmMWUxWElOR2M4Mjdxdm9CRUk2UlllTURoMDZoTjZjbTBvUUpXc1U5R1lkR3FaTVFTSnhqSmlHSFJmQWN3SQ?oc=5",
+  "source": "AP",
+  "summary_tr": "Ermenistan Başbakanı Pashinyan, Rusya'nın etkisini ölçen seçimde zafer ilan etti.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-08T12:01:07.367219+00:00",
+  "cluster_id": "c6b317db5f212"
+ },
+ {
+  "title": "Rum basınının 'Türk savaş uçakları' iddiasına Cumhurbaşkanlığından yalanlama",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/rum-basininin-turk-savas-ucaklari-iddiasina-cumhurbaskanligindan-yalanlama-2510397",
+  "source": "Cumhuriyet",
+  "summary_tr": "Cumhurbaşkanlığı, Türk uçaklarının Yunan Savunma Bakanı taşıyan uçakları taciz ettiği iddiasını yalanladı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-08T12:01:07.367219+00:00",
+  "cluster_id": "c07f825d9e1fb"
+ },
+ {
+  "title": "Kılıçdaroğlu'nun konuşmasını Meclis TV yayınlayacak mı?",
+  "link": "https://www.sozcu.com.tr/kilicdaroglu-nun-konusmasini-meclis-tv-yayinlayacak-mi-p326193",
+  "source": "Sözcü",
+  "summary_tr": "CHP Meclis Grubu, Kılıçdaroğlu'nun grup toplantısında konuşma talebini işleme almadı.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-08T12:01:07.367219+00:00",
+  "cluster_id": "c630cd98280af"
+ },
+ {
+  "title": "Kılıçdaroğlu'nun grup toplantısı talebi işleme alınmadı",
+  "link": "https://www.sozcu.com.tr/kilicdarogl-nun-grup-toplantisi-talebi-isleme-alinmadi-p326189",
+  "source": "Sözcü",
+  "summary_tr": "Mahkemenin 'mutlak butlan' kararıyla atanan Kılıçdaroğlu, Parti Meclisi'ni 11 Haziran'da toplantıya çağırdı.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-08T12:01:07.367219+00:00",
+  "cluster_id": "ca764a4a297a4"
+ },
+ {
   "title": "Trump, İran ve İsrail'i karşılıklı saldırılara son vermeye çağırdı",
   "link": "https://www.bbc.com/turkce/articles/c3rydr91l0no?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
