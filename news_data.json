@@ -1,5 +1,115 @@
 [
  {
+  "title": "Trump says Israel and Iran 'looking to do an immediate ceasefire'",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPalF4ZG9xOHFXbHQyMDR0ZVJCSnJsWl9xT2tza1F1dEpWNzhCamRnTDVJcXQ4TW1UYm1URDZuaG1mZnFNWXoxVHlKbHJOZWY0dFlRVTJfUnEyTFBFeWdnbGpJc3o1V2tDWExGbVhKSUVXdUNEU3gtVVp3ekI2UDR5ekYxZ05PQU13WmNNVHh6bS14SEx4Y3ZoOXAwMjBRRERxX0xmSC1aRS1HbFVpekE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Donald Trump, İsrail ve İran'ın acil ateşkes için görüşmeler yaptığını söyledi; Orta Doğu gerilimi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-08T15:01:18.243339+00:00",
+  "cluster_id": "c23fc29ad053d"
+ },
+ {
+  "title": "GKRY ile Fransa arasında askeri işbirliği anlaşması",
+  "link": "https://www.cumhuriyet.com.tr/dunya/gkry-ile-fransa-arasinda-askeri-isbirligi-anlasmasi-2510483",
+  "source": "Cumhuriyet",
+  "summary_tr": "Güney Kıbrıs Rum Yönetimi ile Fransa arasında askeri işbirliği anlaşması imzalandı; Fransız askeri GKRY'de konuşlandırılacak.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-08T15:01:18.243339+00:00",
+  "cluster_id": "c0070995cec9d"
+ },
+ {
+  "title": "Fransa Kıbrıs'ta Rum Kesimi ile askeri anlaşma yaptı",
+  "link": "https://www.sozcu.com.tr/fransa-kibris-ta-rum-kesimi-ile-askeri-anlasma-yapti-p326245",
+  "source": "Sözcü",
+  "summary_tr": "Güney Kıbrıs Rum Yönetimi ile Fransa arasında imzalanan Kuvvetler Statüsü Anlaşması yürürlüğe girdi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-08T15:01:18.243339+00:00",
+  "cluster_id": "ca87574c8ba68"
+ },
+ {
+  "title": "Rusya: Ukrayna'yla krizin çözümüne yönelik dürüst ve hilesiz müzakerelere hazırız",
+  "link": "https://www.aa.com.tr/tr/dunya/rusya-ukraynayla-krizin-cozumune-yonelik-durust-ve-hilesiz-muzakerelere-haziriz/3960587",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Rusya Dışişleri Bakanı Sergey Lavrov, Ukrayna ile krizin çözümü için dürüst müzakerelere hazır olduklarını belirtti.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-08T15:01:18.243339+00:00",
+  "cluster_id": "c0770db253d21"
+ },
+ {
+  "title": "Alphabet taps Intel to make three million in-house chips, The Information reports",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZmR2dkxzTTRVc2F2MzdYOFR2MzVPSXdkWm9NSlBGdkQ1b05uZ3VzRVFzcVEtRXhQZUc4WVhkMmRhcngzNGNWUDBLSGNLSHZoN0U5b1FDd2hKR0t3dTdlak1RMnNVU25UdEx4YnpwbHJTaGo3NndhNVltT3NmaF8wYTFjdTFjTkdDN1VYeUx3akNNUlVzVjAwSWNIVDZidFJ4dXBhVEw2enYyZUxyN0JqV3FKZW91am1EeHc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Alphabet, Intel'den 3 milyon in-house çip üretimi sipariş etti; yapay zeka stratejisinin kritik bileşeni.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-08T15:01:18.243339+00:00",
+  "cluster_id": "c8afc39965b66"
+ },
+ {
+  "title": "İYİ Parti Sözcüsü Buğra Kavuncu'dan süreç eleştirisi: 'AK Parti kanadı ölüm sessizliğine yattı'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/iyi-parti-surec-elestirisi-ak-parti-kanadi-olum-sessizligine-yatti-2510480",
+  "source": "Cumhuriyet",
+  "summary_tr": "İYİ Parti Sözcüsü Buğra Kavuncu, 'Terörsüz Türkiye' yasası taslağını eleştirerek AK Parti'nin sessiz kaldığını söyledi.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-08T15:01:18.243339+00:00",
+  "cluster_id": "c6b15aad246b4"
+ },
+ {
+  "title": "Cumhurbaşkanı Erdoğan, Venezuela Geçici Devlet Başkanı Rodriguez'i resmi törenle karşıladı",
+  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-venezuela-gecici-devlet-baskani-rodriguezi-resmi-torenle-karsiladi/3960612",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, Venezuela Geçici Devlet Başkanı Delcy Rodriguez'i resmi törenle karşıladı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-08T15:01:18.243339+00:00",
+  "cluster_id": "c0bcc909e59b3"
+ },
+ {
+  "title": "TBMM Başkanı Kurtulmuş: Türkiye'nin yeni bir anayasayı yapma gücüne sahip olduğunun altını çizmek isterim",
+  "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-turkiyenin-yeni-bir-anayasayi-yapma-gucune-sahip-oldugunun-altini-cizmek-isterim/3960611",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "TBMM Başkanı Numan Kurtulmuş, Türkiye'nin yeni anayasa yapma gücüne sahip olduğunu vurguladı.",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-06-08T15:01:18.243339+00:00",
+  "cluster_id": "c66dfab51590e"
+ },
+ {
+  "title": "Ara zam yok, sefalet var: Temmuzda milyonları ne bekliyor?",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX0ZGUmN6bU9wZjltNGtMdWllVm9IWDdnc0pyTTMtVjNjR2tYUXhmNWxvUFdWV3FoX1FZQVNLOGg5N3VDUmgzYmJYbXhiQ3dIYm80eERRZHNvRUdjeXRXYndXN0xSMlBORF9DdnQtQzhaMTRvMHdhUjZmVGJ4QUtPTEFrSVhtekVLZWZGNGxhLVNWdF8tdEpuSw?oc=5",
+  "source": "soL",
+  "summary_tr": "Temmuz ayında milyonlara ara zam verilmeyeceği, ekonomik zorlukların devam edeceği belirtiliyor.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-08T15:01:18.243339+00:00",
+  "cluster_id": "cc8c0e2564a70"
+ },
+ {
+  "title": "CHP’de grup toplantısı krizi: Kılıçdaroğlu’nun planı da karşı hamle de belli oldu",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWWc1eWNtZXpwbGFUbW5IdXJ5RVE2X183aUN6SWJJc3V3U3Nrb0hPSHNHNG5fR2NDRGtkSE9ZUEhJaXZQejNqcjFMU3Y2OEV6UWNzMVp5ZUV5TzU0MC1TaUcxU0dHamN1bVhmZGRMVnhHMEJtdFduN2twVnpMM1lJekRQZmpEd0F5UnQxT2UyUUROc19XSDNDQzBBZk9SSDZOclhCZnZRRWxMcEVOQU1rSk8xc1o4Nm8?oc=5",
+  "source": "soL",
+  "summary_tr": "CHP'de grup toplantısı krizi yaşanıyor; Kılıçdaroğlu'nun planı ve muhalefet hamleleri belirginleşti.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-08T15:01:18.243339+00:00",
+  "cluster_id": "cd3f27e0c10da"
+ },
+ {
+  "title": "Cerebras shares climb as Wall Street brokerages back AI chip strategy",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbHJ0VzJmTVJweXVKSTVfUUtaSzV5TllPSUExMTFRNE1EQTQxVlBIYlpqSlFLVS1DWEdTZ1QzLXFrR01uNVpuRm5QYkZYbTBOT24yUWs2UzFNZGhibjVjbkNmbEVTV0lzUEFMZUNUMXcxU2w3U3pjbkhaYUx1WDZfNnZzcFJxeVRoUmtuTWdPZ3JhbDlhOS1fQWVBMTlNME85Vm1pU01LYkRXb1NHaXZYYg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Cerebras hisseleri, Wall Street aracı kurumlarının yapay zeka çipi stratejisine destek vermesiyle yükseldi.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-08T15:01:18.243339+00:00",
+  "cluster_id": "c763508d8b531"
+ },
+ {
   "title": "İran: İsrail'e saldırıları durdurduk",
   "link": "https://www.dw.com/tr/iran-israil-e-saldırıları-durdurduk/a-77454095?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
