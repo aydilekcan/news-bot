@@ -1,5 +1,115 @@
 [
  {
+  "title": "İsrail, İran'ın uyarısına karşın Lübnan'ın güneyine saldırmaya devam ediyor",
+  "link": "https://www.bbc.com/turkce/articles/ckgp8nkyzzno?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "İsrail, İran'ın uyarısına rağmen Lübnan güneyine saldırıya devam ediyor; Tire kentine tahliye emri verilen bölgeye saldırı düzenledi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-09T11:01:11.122423+00:00",
+  "cluster_id": "c50bc93252818"
+ },
+ {
+  "title": "Petrolde Çin ve Batı Asya etkisi: Fiyatlar sert düştü",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/petrolde-cin-ve-bati-asya-etkisi-fiyatlar-sert-dustu-2510690",
+  "source": "Cumhuriyet",
+  "summary_tr": "Batı Asya geriliminin yumuşaması petrol fiyatlarını düşürdü; risk primi azaldı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-09T11:01:11.122423+00:00",
+  "cluster_id": "c640d6e04f508"
+ },
+ {
+  "title": "ABD Başkanı Trump, Todd Blanche'ı Adalet Bakanlığına resmen aday gösterdi",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-todd-blanchei-adalet-bakanligina-resmen-aday-gosterdi/3961154",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, Todd Blanche'ı Adalet Bakanlığına resmen aday gösterdi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-09T11:01:11.122423+00:00",
+  "cluster_id": "c7bf0cb19399b"
+ },
+ {
+  "title": "China prepares $295 billion plan to fund nationwide AI buildout, Bloomberg News reports",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVc1MVBsYnkwTWZPT2FCMy14QjFGYnc3ZzBhSmdSTGdCRTlfM1dkY3RoXzJvbjRVc0U1dXRnUC1QalZvalE1eUpoRllIOVZhN2hMSmxTaFdWMGViRF9QSS16NXN0VjRkS01NMXdMc0t6ZVNsMEc5dXRsaGNpNDRjQUl3NFNZRzN0YWxmVjJ0ZEtORG5tTnYyYU1weFctbGJwM3R1NEFWcVZ5TllWUm1NakR1elE3X3hJMVN4RUlldw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin, yapay zeka altyapısına 295 milyar dolar yatırım planı hazırladığını bildirdi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-09T11:01:11.122423+00:00",
+  "cluster_id": "c3f132fdfaa7b"
+ },
+ {
+  "title": "Indonesia hikes rates in surprise off-cycle move to prop up sinking rupiah",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNemdGSzNQOFdlajRhaFoxRVM2ejFMQ01sbmhuSGxPdFpNY0JZQWF3RmlCb2NYV0lqMDNBTE5tWHB0MFE2RnVrU3NnUF92VHB1MDdrRjczRGU4MERKalJUSF9NODRWVmx5bzJzT3BIY3JPa1hpeDBlVllieFdWeE53d0hnbDQyZll0MEt4cDJpYm05RU1LR0lWa0NGRUx1RTVQcGRTcm9lcjVpWGFLVGhRYUJkeHY?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Endonezya, rupiah'ı desteklemek için periyot dışı olarak faiz artırma kararı aldı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-09T11:01:11.122423+00:00",
+  "cluster_id": "c941a81a516ab"
+ },
+ {
+  "title": "Altında 'güvenli liman' ezberi bozuldu: Savaş zamanı fiyatlar neden yükselmiyor?",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/altinda-guvenli-liman-ezberi-bozuldu-savas-zamani-fiyatlar-neden-yukselmiyor-2510700",
+  "source": "Cumhuriyet",
+  "summary_tr": "Savaş zamanında altın fiyatları beklentinin aksine sert düştü; güvenli liman algısı zayıfladı.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-09T11:01:11.122423+00:00",
+  "cluster_id": "c55c6b135d584"
+ },
+ {
+  "title": "Kılıçdaroğlu MYK'yı topluyor",
+  "link": "https://www.sozcu.com.tr/kilicdaroglu-myk-yi-topluyor-p326478",
+  "source": "Sözcü",
+  "summary_tr": "Kılıçdaroğlu grup toplantısında konuşmama kararı aldıktan sonra MYK toplantısı yapıyor.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-09T11:01:11.122423+00:00",
+  "cluster_id": "cc05190d19b73"
+ },
+ {
+  "title": "Türk bankaları komşunun dört bir yanına şube açacak",
+  "link": "https://www.sozcu.com.tr/turk-bankalari-komsunun-dort-bir-yanina-sube-acacak-p326473",
+  "source": "Sözcü",
+  "summary_tr": "Türk bankaları Suriye'de şube açmaya hazırlanıyor; Ticaret Bakanı ile Suriye karşılığı müzakere başladı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-09T11:01:11.122423+00:00",
+  "cluster_id": "c18710a128f4d"
+ },
+ {
+  "title": "SON DAKİKA | Özgür Özel partisinin grup toplantısında konuşuyor",
+  "link": "https://www.sozcu.com.tr/son-dakika-veya-ozgur-ozel-partisinin-grup-toplantisinda-konusuyor-p326469",
+  "source": "Sözcü",
+  "summary_tr": "Kılıçdaroğlu geri adım attı, Özgür Özel CHP grup toplantısında konuşacak; Meclis krizinde çözüm sağlandı.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-09T11:01:11.122423+00:00",
+  "cluster_id": "c169b1062e2db"
+ },
+ {
+  "title": "GSK boosts cancer portfolio with $10.6 billion Nuvalent takeover",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVHFPVWp5ckQtdGRRYXFDSU1kMER6VlRhaC1tTkNzd0dBbWY5WmxZbFdQaG5fY3VVSFJtLWFvb3BPckoxbndhcGd6ZlNjbEI4akxBNkt0eVZucm1VVUpDSXlobHB5TUoxcTNUd2MzOHdmUE1KV1gwaEZBd05qMEdONkwxMzdlUWdyR3RJajVWMXNVMzd4bG03WlI4Um43V0NCbzJVb29RUzBrNzNQVWVkTUgxbl9TWWJ3YVRJS3VfUnEyWVMteEJEZDZR?oc=5",
+  "source": "Reuters",
+  "summary_tr": "GSK, kanser portföyünü güçlendirmek için Nuvalent'i 10,6 milyar dolara satın alıyor.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-09T11:01:11.122423+00:00",
+  "cluster_id": "c66a155c6a8c3"
+ },
+ {
+  "title": "China’s exports jump 19.4% in May from a year earlier, boosted by demand for autos and tech goods",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV3FJejlBMGNaUV9ZNnVTMGV6Yy01NDNnSEs4QXFhTmQtakJRR3l1RnJtOUlTQURuNU1vbWlBaHlUSHVheGZLbHpGUWE0T1BYTTBVSjhQcUFjNFVsZWdfeDVjWE9NR3JJMXQ4cjZ3aDdOUm1WNnRRT0tRSzk1dVctNm5zaEZtNHU5aUtuLVRCejRLeGg0TVF5WFdCVFNOcnM?oc=5",
+  "source": "AP",
+  "summary_tr": "Çin ihracatı, otomotiv ve teknoloji ürünleri talebiyle bir yıl öncesine kıyasla %19,4 arttı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-09T11:01:11.122423+00:00",
+  "cluster_id": "cd037bbb9058a"
+ },
+ {
   "title": "İsrail saldırılarında İran ordusundan iki üst düzey kayıp",
   "link": "https://www.cumhuriyet.com.tr/dunya/israil-saldirilarinda-iran-ordusundan-iki-ust-duzey-kayip-2510678",
   "source": "Cumhuriyet",
