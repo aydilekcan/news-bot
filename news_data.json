@@ -1,5 +1,95 @@
 [
  {
+  "title": "Trump: İran helikopterimizi düşürdü, karşılık vermemiz gerekiyor",
+  "link": "https://www.bbc.com/turkce/articles/cgk61y0g2vvo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Trump, İran'ın ABD helikopterini düşürdüğünü açıklayarak karşılık verileceğini belirtti.",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-06-09T17:01:04.866449+00:00",
+  "cluster_id": "cb06d6c44f224"
+ },
+ {
+  "title": "Trump, İran'ın ABD helikopterini düşürdüğünü açıkladı: 'Karşılık vereceğiz'",
+  "link": "https://www.cumhuriyet.com.tr/dunya/trump-iran-in-abd-helikopterini-dusurdugunu-acikladi-karsilik-verecegiz-2510831",
+  "source": "Cumhuriyet",
+  "summary_tr": "Trump, İran'ın Hürmüz Boğazı'nda ABD helikopterini düşürdüğünü açıklayarak karşılık vereceğini söyledi.",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-06-09T17:01:04.866449+00:00",
+  "cluster_id": "c359d58906ee5"
+ },
+ {
+  "title": "Trump Doğruladı: İran, ABD'ye ait helikopteri düşürdü",
+  "link": "https://www.sozcu.com.tr/trump-dogruladi-iran-abd-helikopteri-dusurdu-p326563",
+  "source": "Sözcü",
+  "summary_tr": "Trump, Hürmüz Boğazı'nda İran tarafından düşürülen ABD helikopterini doğruladı.",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-06-09T17:01:04.866449+00:00",
+  "cluster_id": "c2cb717027ce3"
+ },
+ {
+  "title": "Hamas'tan Gazze'de ateşkes anlaşmasına ilişkin açıklama",
+  "link": "https://www.trthaber.com/haber/dunya/hamastan-gazzede-ateskes-anlasmasina-iliskin-aciklama-947669.html",
+  "source": "TRT Haber",
+  "summary_tr": "Hamas, İsrail ile Gazze'deki ateşkes anlaşması konusunda kabul edilebilir yaklaşımlara ulaşıldığını belirtti.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-09T17:01:04.866449+00:00",
+  "cluster_id": "c6bb5c288173d"
+ },
+ {
+  "title": "ABD Enerji Bakanı Wright, Hürmüz Boğazı'ndaki trafiğin \"oldukça belirgin\" şekilde arttığını söyledi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abd-enerji-bakani-wright-hurmuz-bogazindaki-trafigin-oldukca-belirgin-sekilde-arttigini-soyledi/3961724",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Enerji Bakanı Wright, Hürmüz Boğazı'ndaki gemi trafiğinin belirgin şekilde arttığını açıkladı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-09T17:01:04.866449+00:00",
+  "cluster_id": "cf618ac3ef5da"
+ },
+ {
+  "title": "EU regulators order Meta to allow rival AI chatbots free access to WhatsApp",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcXp3X1FBSF9FaFhHYXROV2RXZGlhSm5QemljMlBHQ25xbmpZM3I1dGtuc20tQmN5ME9SN2hTS09aZjVzZjdiU0RZQ3Fsb3QwS2I5UHdWc2VMTHpPdU9DWEx3YndGV2tza3dsQUJIZUpsUXNwOE1vVV8wRzZBQ1AwQkNlbnBDazNpMmZ0OHBjVk4yRTdyUThpdEg1ZGIyYkpZWUhNdm5LdF8yeHlHN2w3Tg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "AB düzenleyicileri, Meta'yı WhatsApp'ta rakip yapay zeka chatbotlarına ücretsiz erişim sağlamaya yönelik karar verdi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-09T17:01:04.866449+00:00",
+  "cluster_id": "c430dd3821656"
+ },
+ {
+  "title": "Bakan Kurum \"COP31 Eylem Gündemi\"nin 10 öncelikli alanı ve 6 hedefini açıkladı",
+  "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-cop31-eylem-gundeminin-10-oncelikli-alani-ve-6-hedefini-acikladi/3961725",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Bakan Kurum, COP31 Eylem Gündeminin 10 öncelikli alanı ve 6 hedefini açıkladı.",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-06-09T17:01:04.866449+00:00",
+  "cluster_id": "c711896e541fa"
+ },
+ {
+  "title": "Bakan Kurum COP31 Eylem Gündeminin 10 öncelikli alanı ve 6 hedefini açıkladı",
+  "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-cop31-eylem-gundeminin-10-oncelikli-alani-ve-6-hedefini-acikladi-947668.html",
+  "source": "TRT Haber",
+  "summary_tr": "Bakan Kurum, COP31 Eylem Gündeminin 10 öncelikli alanı ve 6 hedefini açıkladı.",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-06-09T17:01:04.866449+00:00",
+  "cluster_id": "c711896e541fa"
+ },
+ {
+  "title": "Kılıçdaroğlu, grup toplantısı krizinin ardından Genel Merkez’de konuştu: Arınacağız, mutlak butlan davasını bu partinin başına bela edenlerden hesap sormazsam namerdim!",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV2dUcWZ3WFpOTUQ5MzBvaGREMVdiUU9hSWJkN183OWJZU0lqTkhiLVYwZmszOHFtaENHcEFQWDVsNk1pWkVOT3o1OWVBYUNTejFjRFdVUDJJV2Rhcnd4NzloSHo4b3VjSXZ6alFMUjlMYmQwczFBMUgwaFZXVEVBSm9NU01pUnNuMUhacFBEdldaVEJ0N2VmSVZLand1TFBOVG0xT2Y2OUhZOF9mTHgtVzhRYTRrVnJDSHBB?oc=5",
+  "source": "T24",
+  "summary_tr": "Kılıçdaroğlu, grup toplantısı krizinin ardından mutlak butlan davasında hesap soracağını söyledi.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-09T17:01:04.866449+00:00",
+  "cluster_id": "c086481c81209"
+ },
+ {
   "title": "Özel'den Kılıçdaroğlu'na: Seçime gideceğim derseniz 'on milyonlarca kişiyi' kaybedersiniz",
   "link": "https://www.bbc.com/turkce/articles/c70ywdnkxxzo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
