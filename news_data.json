@@ -1,5 +1,155 @@
 [
  {
+  "title": "İran saldırısı sonrası Ramat David Üssü’nde hasar",
+  "link": "https://www.cumhuriyet.com.tr/dunya/iran-saldirisi-sonrasi-ramat-david-ussu-nde-hasar-2510765",
+  "source": "Cumhuriyet",
+  "summary_tr": "Uydu görüntüleri, İran'ın 7 Haziran'da İsrail'in Ramat David Hava Üssü'nü balistik füzelerle vurduğunu, hasara neden olduğunu gösterdi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-09T14:01:18.096267+00:00",
+  "cluster_id": "c716d41ceca3f"
+ },
+ {
+  "title": "Ukrayna Devlet Başkanı Zelenskiy, Avrupa'nın müzakerelerde yer alması gerektiğini belirtti",
+  "link": "https://www.aa.com.tr/tr/dunya/ukrayna-devlet-baskani-zelenskiy-avrupanin-muzakerelerde-yer-almasi-gerektigini-belirtti/3961607",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ukrayna Devlet Başkanı Zelenskiy, savaşın sona erdirilmesi müzakerelerinde Avrupa'nın kesinlikle yer alması gerektiğini vurguladı.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-09T14:01:18.096267+00:00",
+  "cluster_id": "c6199e50b81da"
+ },
+ {
+  "title": "Lübnan'da hayatını kaybedenlerin sayısı 3 bin 666'ya yükseldi",
+  "link": "https://www.trthaber.com/haber/dunya/lubnanda-hayatini-kaybedenlerin-sayisi-3-bin-666ya-yukseldi-947658.html",
+  "source": "TRT Haber",
+  "summary_tr": "İsrail'in Lübnan'a 2 Mart'tan beri düzenlediği saldırılarda ölenlerin sayısı 3 bin 666'ya yükseldi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-09T14:01:18.096267+00:00",
+  "cluster_id": "c525252415bca"
+ },
+ {
+  "title": "Russia holds naval drills in Baltic Sea during major NATO exercises",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeVJpN0RhQnZ4a0pwZkgtXzAxM2Z6bWYwZlJLakdfUjlkdmxYeEx4T0FQYlZmY2xKbTNUVEFIdlh0OHZkb25SRUtOTUotSlZ5VlljYmFvOTlTUnhzWTNLZGpSdWtMQml0UnE3VnIzQzJ6YXFBOTR0RlpjYk5lZVJHS0xrQWVQaEJjeUU1UTlLUHhCeW0wYThEQjVlem5QZHVxNEY3OXVKWFRjV0VWVERBRHUwdW40Skpia0VhZmpabzM2d1R0S2c?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya, NATO'nun büyük egzersizleri sırasında Baltık Denizi'nde deniz tatbikatı yaptı.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-09T14:01:18.096267+00:00",
+  "cluster_id": "cbe105a010616"
+ },
+ {
+  "title": "Kılıçdaroğlu genel merkezde konuştu: 'Ahlaklı bir kurultayı elbette yapacağız'",
+  "link": "https://www.bbc.com/turkce/articles/cjdg5v7dz2xo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "CHP Genel Başkanı Kılıçdaroğlu, 21 Mayıs'taki yargı kararıyla görevine döndükten sonra ilk grup toplantısını gerçekleştirdi; kurultay yapılacağını belirtti.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-09T14:01:18.096267+00:00",
+  "cluster_id": "c3023da4f0b86"
+ },
+ {
+  "title": "Fransa’dan İsrail Maliye Bakanı Smotrich’e giriş yasağı",
+  "link": "https://www.cumhuriyet.com.tr/dunya/fransa-dan-israil-maliye-bakani-smotrich-e-giris-yasagi-2510768",
+  "source": "Cumhuriyet",
+  "summary_tr": "Fransa, Batı Şeria'nın ilhakını destekleyen İsrail Maliye Bakanı Smotrich'e giriş yasağı koydu.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-09T14:01:18.096267+00:00",
+  "cluster_id": "c10123b45d766"
+ },
+ {
+  "title": "CHP'li 72 il başkanından 'kurultay' çağrısı",
+  "link": "https://www.sozcu.com.tr/chp-li-72-il-baskanindan-kurultay-cagrisi-p326533",
+  "source": "Sözcü",
+  "summary_tr": "CHP'nin 72 il başkanı, TBMM'de basın açıklaması yaparak 25 Haziran'da parti kurultayı düzenlenmesini talep etti.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-09T14:01:18.096267+00:00",
+  "cluster_id": "cb4d7d7343d26"
+ },
+ {
+  "title": "Gazze ve Batı Şeria'da Ekim 2023'ten beri İsrail saldırılarında yaklaşık 21 bin öğrenci yaşamını yitirdi",
+  "link": "https://www.aa.com.tr/tr/dunya/gazze-ve-bati-seriada-ekim-2023ten-beri-israil-saldirilarinda-yaklasik-21-bin-ogrenci-yasamini-yitirdi/3961548",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Filistin Eğitim Bakanlığı, Ekim 2023'ten beri İsrail saldırılarında Gazze ve Batı Şeria'da 20 bin 814 öğrencinin yaşamını yitirdiğini bildirdi.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-09T14:01:18.096267+00:00",
+  "cluster_id": "c3c257913f113"
+ },
+ {
+  "title": "Apple failed to make its AI tool to comply to EU regulations, EU Commission says",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVzNjcTNvOF9vcGtjQlkwczJ2Znk2SGllam1yRlZ2OEdOOHVUdGV6dnl2OW1rMk13cEVxcFlXaHIyVW9FV2liTlhmVHdmT1FlZzFodV9qejNlM2ZRREZkLVNublllRTA0WGRHWnVKS3ViWFFaNEFvUm5JbkZUN0I1NC1MOFF6dXNZY2g0cUl1cFJZQVYwS3VVdnFwdmRFV0Y5TE9KVmFyc1NIMlpseDloU3FkRElFUQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "AB Komisyonu, Apple'ın yapay zeka aracını AB düzenlemelerine uygun hale getiremedğini bildirdi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-09T14:01:18.096267+00:00",
+  "cluster_id": "c41613135b1b0"
+ },
+ {
+  "title": "MHP'de Kırıkkale, Zonguldak ve Kocaeli il teşkilatlarında yönetim değişimi",
+  "link": "https://www.bbc.com/turkce/articles/cdj7pze7zzlo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "MHP Genel Başkan Yardımcısı Yalçın, Kırıkkale, Zonguldak ve Kocaeli il teşkilatlarının feshedildiğini duyurdu.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-09T14:01:18.096267+00:00",
+  "cluster_id": "c96c5f5cc7891"
+ },
+ {
+  "title": "İstanbul’un iki ayrı ucundaki havalimanları demiryoluyla birleşiyor",
+  "link": "https://www.sozcu.com.tr/istanbul-un-iki-ayri-ucundaki-havalimanlari-demiryoluyla-birlesiyor-p326537",
+  "source": "Sözcü",
+  "summary_tr": "Asya Kalkınma Bankası, Sabiha Gökçen Havalimanı ile İstanbul Havalimanı'nı demiryoluyla birleştirecek projeyi finanse edecek.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-09T14:01:18.096267+00:00",
+  "cluster_id": "c30adfed8b70a"
+ },
+ {
+  "title": "AA Finans Ödemeler Dengesi Beklenti Anketi sonuçlandı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/aa-finans-odemeler-dengesi-beklenti-anketi-sonuclandi/3961586",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "AA Finans Anketi sonuçlarına göre ekonomistler Türkiye'nin nisanda cari işlemler hesabında 5.4 milyar dolar açık vereceğini tahmin ediyor.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-09T14:01:18.096267+00:00",
+  "cluster_id": "cf779fabd4e91"
+ },
+ {
+  "title": "Türkiye ile Suudi Arabistan, lojistik ve demir yolu alanlarında işbirliğine gitti",
+  "link": "https://www.aa.com.tr/tr/gundem/turkiye-ile-suudi-arabistan-lojistik-ve-demir-yolu-alanlarinda-isbirligine-gitti/3961583",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye ile Suudi Arabistan, Ulaştırma Bakanı Uraloğlu'nun ziyareti sırasında demir yolu ve lojistik alanlarında işbirliği anlaşması imzaladı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-09T14:01:18.096267+00:00",
+  "cluster_id": "c5273baddf198"
+ },
+ {
+  "title": "CANLI | Murat Karayalçın, T24'te: CHP kurultayı tartışmalarına ilişkin önerileri neler?",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQenZvSnFhblZ2V2x2ZlFJaHhxc3lnbVQxTGcyamRPenF2aEFRSjBKRjlLUUlYN2NLWklxdWc4Y0lpYnFtaEx0eWg4dmdZWDR0N1FvbnNFdkF0Y2RUdjY3V094OU14YS0yREMyeTR3UFJUbHlDRzUtZ2RnN3FGVkY3ZGVsVnpIN0ZyUHVOMVZRWmFnYlplNWpNckMxb0tZaHVGNUk1YUVkSFpfbGtGOTRneUVn?oc=5",
+  "source": "T24",
+  "summary_tr": "Murat Karayalçın, T24'te canlı yayında CHP kurultayı tartışmalarına ilişkin önerilerini sunuyor.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-09T14:01:18.096267+00:00",
+  "cluster_id": "c2e8df14969b9"
+ },
+ {
+  "title": "Özel'den ileri, Kılıçdaroğlu'ndan geri adım (Video)",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94VGRpV0pweDVmQmUzYW9aQlFlUl9PU0VUY1VQZkgzVE8wYS1CbU9nbEJlcHJ3aUxIbDV0ZUdjRUFUclU3Rnk2TXhoNnRXaXpxTWxhdEpmUzY2b0dLVzdCeXJhWEhTcmQ1OHZsbEU4VTVQUXlpZXlkXzVUcXk1Q3M?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Medyascope analizi: CHP'de Özel ileri adım atarken Kılıçdaroğlu geri adım atarak farklı tutumlar sergiliyor.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-09T14:01:18.096267+00:00",
+  "cluster_id": "c95a3acdc36fa"
+ },
+ {
   "title": "EU to propose 21st package of sanctions targeting Russia's banks",
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDNheFk3dldYOFdsYmc3RTlRMHNpZjEzbGc3Z29YWWMyZ2RoRHVyaXhZcjNPSTExaXJpNlFoOWRwc2pjUmZsSVNUYVlzQjZKMVRMYVVYMDFZZjVNQ0tuZmJiOUk1UU0zWUNXMnFMbGd3N1NKQ2RZbHgyczFEOVZ2TzNJb0JUZ0hsYVlkS2FnTEc2YUluZFM1ZzBQZENIRDZveTNCb2Z2eVN4REV3YlJZ?oc=5",
   "source": "Reuters",
