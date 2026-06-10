@@ -1,5 +1,155 @@
 [
  {
+  "title": "US consumer inflation posts largest increase in three years in May",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWNSSWh5eDBlWmZCYkN5ZjVjSFNVaC1jVmUteC1pelBkR2ltcmpwYUhYa01sV3Y5dGpGUGNFMDZMeTFRT082Wk5yb1BiU3ZQMjZqR2ZpLV9zY25oOU5STURWR2xjZ0dDVTlhQnB4RFNuRTVxd3ZKbVlDVWpvT1pFMmp2Z2JNa2JlTGJsNFN3?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD tüketici enflasyonu Mayıs'ta 3 yılın en yüksek artışını kaydetti.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-10T15:01:13.421641+00:00",
+  "cluster_id": "cfe6c0df03332"
+ },
+ {
+  "title": "CHP'de Özgür Özel'e yakın dokuz vekile kesin ihraç istemi",
+  "link": "https://www.bbc.com/turkce/articles/cdr4dn443x4o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "CHP'de Kılıçdaroğlu'nun MYK toplantısında Özgür Özel'e yakın 9 vekilin ihracı istendi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-10T15:01:13.421641+00:00",
+  "cluster_id": "c823ccfe35e74"
+ },
+ {
+  "title": "Kılıçdaroğlu Olağan Kurultay Toplayamaz Ama Olağanüstü Toplayabilir",
+  "link": "https://yetkinreport.com/2026/06/10/kilicdaroglu-olagan-kurultay-toplayamaz-ama-olaganustu-toplayabilir/",
+  "source": "YetkinReport",
+  "summary_tr": "Kılıçdaroğlu 11 Haziran'da olağanüstü kurultay toplayabilir; olağan kurultay toplamada yasal engel var.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-10T15:01:13.421641+00:00",
+  "cluster_id": "c32c6fabefadb"
+ },
+ {
+  "title": "Mecliste Irmak Öğretmeni savunurken atanmış yönetim ihracını istendi",
+  "link": "https://www.sozcu.com.tr/mecliste-irmak-ogretmeni-savunurken-atanmis-yonetim-ihracini-istendi-p326863",
+  "source": "Sözcü",
+  "summary_tr": "CHP'de Kılıçdaroğlu yönetimi tarafından ihraç istenen vekillerden biri Mersin Milletvekili Ali Mahir Başarır.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-10T15:01:13.421641+00:00",
+  "cluster_id": "cb7988eea4275"
+ },
+ {
+  "title": "Atanmış Genel Başkan Kılıçdaroğlu'nun sözcüsünden Özgür Özel ihraç edilecek mi sorusuna yanıt",
+  "link": "https://www.sozcu.com.tr/kilicdaroglu-ekibinden-ozgur-ozel-ihrac-edilecek-mi-sorusuna-yanit-p326860",
+  "source": "Sözcü",
+  "summary_tr": "CHP Sözcüsü Müslim Sarı, 9 vekilin ihraç istemiyle disiplin kuruluna sevk edildiğini doğruladı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-10T15:01:13.421641+00:00",
+  "cluster_id": "c18b4491cb604"
+ },
+ {
+  "title": "Rusya: ABD ile İran'ı itidale ve saldırıları derhal durdurmaya çağırıyoruz",
+  "link": "https://www.aa.com.tr/tr/dunya/rusya-abd-ile-irani-itidale-ve-saldirilari-derhal-durdurmaya-cagiriyoruz/3962900",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Rusya, ABD ve İran'a itidal çağrısında bulunarak krizin derinleşmesine karşı uyarı verdi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-10T15:01:13.421641+00:00",
+  "cluster_id": "c8de3154b7ff0"
+ },
+ {
+  "title": "İsrail devlet televizyonu: İsrail ordusu, kuzeydeki üssün İran'ın son saldırılarında vurulduğunu itiraf etti",
+  "link": "https://www.trthaber.com/haber/dunya/israil-devlet-televizyonu-israil-ordusu-kuzeydeki-ussun-iranin-son-saldirilarinda-vuruldugunu-itiraf-etti-947783.html",
+  "source": "TRT Haber",
+  "summary_tr": "İsrail ordusu, Ramat David Hava Üssü'nün İran saldırılarında vurulduğunu itiraf etti.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-10T15:01:13.421641+00:00",
+  "cluster_id": "c9e865a769ae7"
+ },
+ {
+  "title": "CHP'de 9 ismin ihracı istendi",
+  "link": "https://www.trthaber.com/haber/gundem/chpde-9-ismin-ihraci-istendi-947781.html",
+  "source": "TRT Haber",
+  "summary_tr": "CHP Sözcüsü, şaibe bulunan ve kamuoyunda tartışılan 9 üyenin ihracı için disiplin süreci başlattıklarını açıkladı.",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-06-10T15:01:13.421641+00:00",
+  "cluster_id": "cd78c1bd75757"
+ },
+ {
+  "title": "Russia probes two car bombs in Moscow",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWHN2aVFpaVRYd1l1U1RtaXEwUUdKZEJqRHk0ajZ0YURHNVUyNzItSWFhbURCNzZtSU5tSFpBbDN0ZHF6SHYycUxmOGJITENOUlIzNkg4OURfMEdOeFl5V3NTeDd1dXZrZ0FzajZheDVUejRoSDFvYzFUWjVvd2pfMXFrMzhWWlVBLU44Q2NwZXpVLU5oY1c2bA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Moskova'da iki araba bombası inceleniyor.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-10T15:01:13.421641+00:00",
+  "cluster_id": "c407c3ad99650"
+ },
+ {
+  "title": "İhraç için ismi geçen Umut Akdoğan'dan çarpıcı itiraz",
+  "link": "https://www.sozcu.com.tr/ihrac-icin-ismi-gecen-umut-akdogan-dan-carpici-itiraz-p326861",
+  "source": "Sözcü",
+  "summary_tr": "İhraç istenen CHP vekili Umut Akdoğan sosyal medyada itiraz yaptı.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-10T15:01:13.421641+00:00",
+  "cluster_id": "c5ae5a89f6632"
+ },
+ {
+  "title": "Sanayi ve Teknoloji Bakanlığı'ndan BYD açıklaması",
+  "link": "https://www.aa.com.tr/tr/ekonomi/sanayi-ve-teknoloji-bakanligindan-byd-aciklamasi/3962938",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Sanayi ve Teknoloji Bakanlığı BYD'nin Türkiye'deki üretim tesisi yatırımı sürecine ilişkin açıklama yaptı.",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-06-10T15:01:13.421641+00:00",
+  "cluster_id": "cbdc666d31c8a"
+ },
+ {
+  "title": "DMM, \"e-Devlet Kapısı'na siber saldırı gerçekleştirildiği\" iddiasını yalanladı",
+  "link": "https://www.aa.com.tr/tr/gundem/dmm-e-devlet-kapisina-siber-saldiri-gerceklestirildigi-iddiasini-yalanladi/3962892",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Cumhurbaşkanlığı İletişim Başkanlığı, e-Devlet Kapısı'na siber saldırı iddiasını yalanladı.",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-06-10T15:01:13.421641+00:00",
+  "cluster_id": "c6dbf1d351939"
+ },
+ {
+  "title": "AB, 2027'de yaklaşık 200 milyar euro bütçe istiyor",
+  "link": "https://www.trthaber.com/haber/ekonomi/ab-2027de-yaklasik-200-milyar-euro-butce-istiyor-947778.html",
+  "source": "TRT Haber",
+  "summary_tr": "AB Komisyonu 2027 yılı bütçesinin yaklaşık 200 milyar euro olmasını teklif etti.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-10T15:01:13.421641+00:00",
+  "cluster_id": "c51c99dfe7531"
+ },
+ {
+  "title": "\"EDevlet Kapısına siber saldırı gerçekleştirildiği\" iddialarına yalanlama",
+  "link": "https://www.trthaber.com/haber/gundem/e-devlet-kapisina-siber-saldiri-gerceklestirildigi-iddialarina-yalanlama-947777.html",
+  "source": "TRT Haber",
+  "summary_tr": "DMM, e-Devlet Kapısı siber saldırısı iddialarını yalanladı.",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-06-10T15:01:13.421641+00:00",
+  "cluster_id": "ccf9a7f24275b"
+ },
+ {
+  "title": "Özgür Özel’in eski danışmanı gözaltına alındı: Soruşturmada gizlilik kararı",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUdBUlFleFBtVS00T0M4UC1mMEpPUjVkZ283UHRwbk5IWDg1OGdpWVRiUzljZ1JpV2o3YXJnblY3dEttdGxNSFVHM2hwa0tDYkFTVHQwb0lxaFBxMTdta3JXR2VGLWdsWVRnMlpwTkx1N2M3UXFJTnlzR0F6TXA2YXllTXpXQVlQd1BNekJWakFjODIwODQwc3A0QlB4S01tNGF5czNDX0xIbGdJbVpaeA?oc=5",
+  "source": "soL",
+  "summary_tr": "Özgür Özel'in eski danışmanı gözaltına alındı; soruşturmada gizlilik kararı var.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-10T15:01:13.421641+00:00",
+  "cluster_id": "cfce423ff3d1f"
+ },
+ {
   "title": "Hükümet ikna edemedi, BYD Manisa fabrikasından vazgeçti",
   "link": "https://www.dw.com/tr/hükümet-ikna-edemedi-byd-manisa-fabrikasından-vazgeçti/a-77489777?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
