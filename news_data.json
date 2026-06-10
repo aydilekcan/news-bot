@@ -1,5 +1,85 @@
 [
  {
+  "title": "Hükümet ikna edemedi, BYD Manisa fabrikasından vazgeçti",
+  "link": "https://www.dw.com/tr/hükümet-ikna-edemedi-byd-manisa-fabrikasından-vazgeçti/a-77489777?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Çinli BYD, Ankara'nın girişimlerine rağmen Manisa fabrikası planını iptal etti ve Macaristan'a yöneldi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-10T14:01:16.330684+00:00",
+  "cluster_id": "c25e616338827"
+ },
+ {
+  "title": "US consumer prices increase as expected in May",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWNSSWh5eDBlWmZCYkN5ZjVjSFNVaC1jVmUteC1pelBkR2ltcmpwYUhYa01sV3Y5dGpGUGNFMDZMeTFRT082Wk5yb1BiU3ZQMjZqR2ZpLV9zY25oOU5STURWR2xjZ0dDVTlhQnB4RFNuRTVxd3ZKbVlDVWpvT1pFMmp2Z2JNa2JlTGJsNFN3?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD'de Mayıs ayında tüketici fiyatları beklentiler doğrultusunda artış gösterdi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-10T14:01:16.330684+00:00",
+  "cluster_id": "cd79568487f9b"
+ },
+ {
+  "title": "Avrupa'dan Türkiye'ye Fatoş Pınar Türker tepkisi",
+  "link": "https://www.dw.com/tr/avrupa-dan-türkiye-ye-fatoş-pınar-türker-tepkisi/a-77490802?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "İBB davasında yargılanan Medya AŞ Genel Müdürü Fatoş Pınar Türker'in gözaltı sırasında çıplak arama iddialarına Avrupa'dan tepki geldi.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-10T14:01:16.330684+00:00",
+  "cluster_id": "c4795754ea2bb"
+ },
+ {
+  "title": "İstanbul İl Emniyet Müdürlüğü'nden 'Fatoş Pınar Türker' açıklaması",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/istanbul-il-emniyet-mudurlugu-nden-fatos-pinar-turker-aciklamasi-2511047",
+  "source": "Cumhuriyet",
+  "summary_tr": "İstanbul Emniyet Müdürlüğü, İBB Medya AŞ Genel Müdürü Fatoş Pınar Türker'in gözaltı sırasında çıplak aranıp aranmadığına ilişkin açıklama yaptı.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-10T14:01:16.330684+00:00",
+  "cluster_id": "c638cb4a7b155"
+ },
+ {
+  "title": "Dışişleri'nden katil Netanyahu'ya tepki",
+  "link": "https://www.trthaber.com/haber/gundem/disislerinden-katil-netanyahuya-tepki-947774.html",
+  "source": "TRT Haber",
+  "summary_tr": "Dışişleri Bakanlığı, İsrail Başbakanı Netanyahu'nun sözlerine tepki gösterdi.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-10T14:01:16.330684+00:00",
+  "cluster_id": "ca9e191c6840c"
+ },
+ {
+  "title": "Bakan Gürlek: Netanyahu'nun hadsiz sözleri yok hükmündedir",
+  "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-netanyahunun-hadsiz-sozleri-yok-hukmundedir-947773.html",
+  "source": "TRT Haber",
+  "summary_tr": "Adalet Bakanı Akın Gürlek, Netanyahu'nun Gaza'da sivil ölümlerine ilişkin sözlerini kınadı.",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-06-10T14:01:16.330684+00:00",
+  "cluster_id": "c41b83e3ae93f"
+ },
+ {
+  "title": "Uluslararası Af Örgütü: İsrail, Batı Şeriada devlet destekli etnik temizlik yürütüyor",
+  "link": "https://www.trthaber.com/haber/dunya/uluslararasi-af-orgutu-israil-bati-seriada-devlet-destekli-etnik-temizlik-yurutuyor-947772.html",
+  "source": "TRT Haber",
+  "summary_tr": "Amnesty International, İsrail'in işgal altındaki Batı Şeria'da Filistinlilere karşı devlet destekli etnik temizlik yürüttüğünü rapor etti.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-10T14:01:16.330684+00:00",
+  "cluster_id": "cf67d54381964"
+ },
+ {
+  "title": "İşgalci İsrail'in Lübnan'da bir araca düzenlediği İHA saldırısında 2 kişi öldü",
+  "link": "https://www.trthaber.com/haber/dunya/isgalci-israilin-lubnanda-bir-araca-duzenledigi-iha-saldirisinda-2-kisi-oldu-947770.html",
+  "source": "TRT Haber",
+  "summary_tr": "İsrail'in Lübnan'da İHA saldırısında 2 kişi hayatını kaybetti.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-10T14:01:16.330684+00:00",
+  "cluster_id": "c9c1fc47c0b01"
+ },
+ {
   "title": "Fox News: Trump, İran'a karşı yeni saldırı emri vermeye yaklaştığını söyledi",
   "link": "https://www.trthaber.com/haber/dunya/fox-news-trump-irana-karsi-yeni-saldiri-emri-vermeye-yaklastigini-soyledi-947765.html",
   "source": "TRT Haber",
