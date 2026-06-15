@@ -1,7 +1,9 @@
 name: Haber Botu
 
 on:
-  workflow_dispatch:  # cron-job.org veya manuel tetikleme
+  schedule:
+    - cron: '0 * * * *'  # Her saat başı (UTC). GitHub yoğunlukta birkaç dk gecikebilir.
+  workflow_dispatch:  # Gerektiğinde manuel tetikleme
 
 jobs:
   run:
