@@ -10,7 +10,21 @@ import requests
 import os
 import json
 import time
+import html as _html
 from datetime import datetime, timezone, timedelta
+
+TR_MONTHS = ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran",
+             "Temmuz", "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"]
+
+# Kategori adı -> emoji. LLM emoji vermezse bunu kullanırız.
+CATEGORY_EMOJI = {
+    "Siyaset": "🏛️",
+    "Ekonomi": "💰",
+    "Dünya Gündemi": "🌍",
+    "Türkiye Gündemi": "🇹🇷",
+    "Spor": "⚽",
+    "Teknoloji & Bilim": "💻",
+}
 
 _base          = os.path.dirname(os.path.abspath(__file__))
 
@@ -39,6 +53,12 @@ STATE_FILE     = os.path.join(_base, "morning_brief_state.json")
 def today_tr():
     """Türkiye saatine göre bugünün tarihi (YYYY-MM-DD)."""
     return (datetime.now(timezone.utc) + timedelta(hours=3)).strftime("%Y-%m-%d")
+
+
+def date_label_tr():
+    """Okunabilir Türkçe tarih: '16 Haziran 2026'."""
+    d = datetime.now(timezone.utc) + timedelta(hours=3)
+    return f"{d.day} {TR_MONTHS[d.month - 1]} {d.year}"
 
 
 def already_sent_today():
@@ -106,71 +126,171 @@ def collect_headlines():
                     if pub_dt < cutoff:
                         continue
 
-                headlines.append(f"[{feed_cfg['name']}] {title} | {link}")
+                headlines.append({"source": feed_cfg["name"], "title": title, "link": link})
         except Exception as e:
             log(f"HATA ({feed_cfg['name']}): {e}")
 
     return headlines
 
 
+CATEGORY_NAMES = ["Siyaset", "Ekonomi", "Dünya Gündemi",
+                  "Türkiye Gündemi", "Spor", "Teknoloji & Bilim"]
+
+BRIEF_TOOL = {
+    "name": "brifing_yayinla",
+    "description": "Hazırlanan sabah brifingini kategorilere ayrılmış olarak döndür.",
+    "input_schema": {
+        "type": "object",
+        "properties": {
+            "categories": {
+                "type": "array",
+                "description": "Sadece haber içeren kategoriler, önem sırasına göre.",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "name": {"type": "string", "enum": CATEGORY_NAMES},
+                        "items": {
+                            "type": "array",
+                            "items": {
+                                "type": "object",
+                                "properties": {
+                                    "title": {"type": "string", "description": "Kısa, net başlık. Kaynak/tarih ekleme."},
+                                    "summary": {"type": "string", "description": "2-3 cümle, bağlam ve önem."},
+                                    "ref": {"type": "integer", "description": "Bu haberin dayandığı manşetin numarası (listedeki [n])."},
+                                },
+                                "required": ["title", "summary", "ref"],
+                            },
+                        },
+                    },
+                    "required": ["name", "items"],
+                },
+            }
+        },
+        "required": ["categories"],
+    },
+}
+
+
 def summarize(headlines):
+    """LLM'den brifingi tool-use ile alır; ref numaralarından URL/kaynağı eşleştirir."""
     client = anthropic.Anthropic()
-    headlines_text = "\n".join(headlines[:250])
+    pool = headlines[:250]
+    numbered = "\n".join(f"[{i}] [{h['source']}] {h['title']}" for i, h in enumerate(pool))
 
-    prompt = f"""Aşağıda bugün çeşitli Türk ve uluslararası haber kaynaklarından toplanan manşetler var.
+    prompt = f"""Aşağıda bugün çeşitli Türk ve uluslararası haber kaynaklarından toplanan manşetler var. Her satır: [numara] [Kaynak] Başlık
 
-Bu manşetleri analiz ederek kapsamlı bir Türkçe sabah brifing özeti hazırla. Amaç dünü tam olarak yansıtan, hiçbir önemli gelişmeyi kaçırmayan bir özet sunmak.
+Bunları analiz ederek kapsamlı bir Türkçe sabah brifingi hazırla ve `brifing_yayinla` aracıyla döndür. Amaç dünü tam yansıtan, hiçbir önemli gelişmeyi kaçırmayan bir özet.
 
-Şu kategorilerde en önemli 4-6 gelişmeyi seç:
-- 🏛️ Siyaset (Türkiye iç siyaseti)
-- 💰 Ekonomi (Türkiye ve küresel ekonomi)
-- 🌍 Dünya Gündemi (uluslararası gelişmeler)
-- 🇹🇷 Türkiye Gündemi (iç politika dışı önemli gelişmeler: hukuk, toplum, afet, güvenlik vb.)
-- ⚽ Spor
-- 💻 Teknoloji & Bilim
+Kategoriler ve kategori başına en önemli 4-6 gelişmeyi seç:
+- Siyaset (Türkiye iç siyaseti)
+- Ekonomi (Türkiye ve küresel ekonomi)
+- Dünya Gündemi (uluslararası gelişmeler)
+- Türkiye Gündemi (iç politika dışı önemli gelişmeler: hukuk, toplum, afet, güvenlik vb.)
+- Spor
+- Teknoloji & Bilim
 
-ÖNEMLİ — Aşağıdaki siyasi liderlerin açıklamaları veya haberlerini mutlaka Siyaset kategorisine dahil et:
+ÖNEMLİ — Şu siyasi liderlerin açıklama/haberlerini mutlaka Siyaset'e dahil et:
 Recep Tayyip Erdoğan, Devlet Bahçeli, Özgür Özel, Ekrem İmamoğlu, Mansur Yavaş,
 Ali Babacan, Ahmet Davutoğlu, Müsavat Dervişoğlu, Ümit Özdağ, Fatih Erbakan,
 Mahmut Arıkan, Tülay Hatimoğulları, Tuncer Bakırhan.
-Bu isimlerden biri geçen haber varsa mutlaka özetle.
-
-Her madde için format:
-• Başlık (Kaynak) — link
-  2-3 cümle açıklayıcı özet. Bağlam ve önem belirt.
 
 Kurallar:
-- Tekrar eden haberleri tek maddede birleştir, kaynağı en güvenilir olanı seç
-- Önemsiz, magazin veya trafik haberi gibi içerikleri atla
-- Her kategori gerçekten dolu ve bilgilendirici olsun
-- Eğer bir kategoride haber yoksa o kategoriyi yazma
-- Mesajın en sonuna bugünün tarihini ekle
+- Tekrar eden haberleri tek maddede birleştir; en güvenilir/kapsamlı manşeti seç.
+- ref: o maddenin dayandığı manşetin başındaki numara (örn. [42] için 42).
+- Önemsiz, magazin, trafik haberlerini atla.
+- Sadece gerçekten haber içeren kategorileri döndür; boş kategori ekleme.
 
-Haberler:
-{headlines_text}"""
+Manşetler:
+{numbered}"""
 
     message = client.messages.create(
         model="claude-sonnet-4-6",
-        max_tokens=4000,
+        max_tokens=8000,
+        tools=[BRIEF_TOOL],
+        tool_choice={"type": "tool", "name": "brifing_yayinla"},
         messages=[{"role": "user", "content": prompt}],
     )
-    return message.content[0].text
+
+    tool_input = None
+    for block in message.content:
+        if block.type == "tool_use" and block.name == "brifing_yayinla":
+            tool_input = block.input
+            break
+    if tool_input is None:
+        raise ValueError("Model tool_use döndürmedi")
+
+    # ref numaralarını gerçek URL/kaynakla eşleştir
+    for cat in tool_input.get("categories", []):
+        for it in cat.get("items", []):
+            ref = it.get("ref")
+            if isinstance(ref, int) and 0 <= ref < len(pool):
+                it["url"] = pool[ref]["link"]
+                it["source"] = pool[ref]["source"]
+    return tool_input
+
+
+def _esc(s):
+    return _html.escape((s or "").strip(), quote=False)
+
+
+def render_blocks(data, date_label):
+    """Yapılandırılmış brifingi Telegram-HTML bloklarına çevirir (her blok bölünmez bir birim)."""
+    blocks = [f"🌅 <b>SABAH BRİFİNG — {_esc(date_label)}</b>"]
+    for cat in data.get("categories", []):
+        name = (cat.get("name") or "").strip()
+        items = cat.get("items") or []
+        if not name or not items:
+            continue
+        emoji = CATEGORY_EMOJI.get(name, "📌")
+        blocks.append(f"<b>{emoji} {_esc(name)}</b>")
+        for it in items:
+            title = _esc(it.get("title"))
+            if not title:
+                continue
+            parts = [f"<b>{title}</b>"]
+            summary = _esc(it.get("summary"))
+            if summary:
+                parts.append(summary)
+            url = (it.get("url") or "").strip()
+            source = _esc(it.get("source"))
+            footer = ""
+            if url:
+                footer = f"<a href=\"{_html.escape(url, quote=True)}\">→ Habere git</a>"
+            if source:
+                footer = (footer + " · " if footer else "") + f"<i>{source}</i>"
+            if footer:
+                parts.append(footer)
+            blocks.append("\n".join(parts))
+    return blocks
+
+
+def pack_messages(blocks, limit=3800):
+    """Blokları, hiçbir bloğu bölmeden, limit altındaki mesajlara paketle."""
+    messages, cur = [], ""
+    for b in blocks:
+        add = ("\n\n" + b) if cur else b
+        if cur and len(cur) + len(add) > limit:
+            messages.append(cur)
+            cur = b
+        else:
+            cur += add
+    if cur:
+        messages.append(cur)
+    return messages
 
 
 def send_telegram(text):
+    """Tek bir Telegram mesajı gönderir. Bölme işi pack_messages tarafından yapılır."""
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
-    # Telegram 4096 karakter sınırı — gerekirse böl
-    chunks = [text[i:i+4000] for i in range(0, len(text), 4000)]
-    for chunk in chunks:
-        r = requests.post(url, json={
-            "chat_id": CHAT_ID,
-            "text": chunk,
-            "parse_mode": "HTML",
-            "disable_web_page_preview": True,
-        }, timeout=10)
-        if not r.ok:
-            log(f"Telegram hatası: {r.text[:120]}")
-        time.sleep(0.5)
+    r = requests.post(url, json={
+        "chat_id": CHAT_ID,
+        "text": text,
+        "parse_mode": "HTML",
+        "disable_web_page_preview": True,
+    }, timeout=15)
+    if not r.ok:
+        log(f"Telegram hatası: {r.text[:200]}")
+    return r.ok
 
 
 def main():
@@ -186,11 +306,29 @@ def main():
         log("Haber bulunamadı, çıkılıyor.")
         return
 
-    brief = summarize(headlines)
-    header = f"🌅 <b>SABAH BRİFİNG</b> — {datetime.now().strftime('%d %B %Y')}\n\n"
-    send_telegram(header + brief)
-    mark_sent_today()
-    log("Brifing gönderildi.")
+    try:
+        data = summarize(headlines)
+        blocks = render_blocks(data, date_label_tr())
+    except Exception as e:
+        log(f"Özet/JSON işleme hatası: {e}")
+        return
+
+    if len(blocks) <= 1:  # sadece başlık var, haber yok
+        log("Brifingde gösterilecek haber yok, çıkılıyor.")
+        return
+
+    messages = pack_messages(blocks)
+    all_ok = True
+    for msg in messages:
+        if not send_telegram(msg):
+            all_ok = False
+        time.sleep(0.5)
+
+    if all_ok:
+        mark_sent_today()
+        log(f"Brifing gönderildi ({len(messages)} mesaj).")
+    else:
+        log("Brifing kısmen başarısız, state işaretlenmedi.")
 
 
 if __name__ == "__main__":
