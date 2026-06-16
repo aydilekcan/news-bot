@@ -112,15 +112,22 @@ SOURCES = [
 
 # Resmi/guvenilir veri kaynaklari (ayri kanal). Konu-odakli haber suzgecinden bagimsiz
 # ikinci bir LLM pass'inde yapilandirilmis veri (gosterge -> deger -> donem) cikarilir.
-# Linkler dogrulanabilir olsun diye resmi sitelere site: filtresiyle Google News koprusu kullanilir;
-# resmi sitelerin RSS'i cogu zaman bot trafigini blokluyor veya tutarsiz.
+# NOT: TUIK/TCMB siteleri JS-render + RSS rakam icermiyor; bu yuzden resmi rakami KOTALAYAN
+# haber kapsamini izliyoruz (veri resmi kurumun verisi, link ise haber). source_tr daima
+# resmi kurum olur (TUIK/TCMB/OECD/Eurostat/bakanlik), haberi yapan gazete degil.
+# OECD/Eurostat: yalniz TURKIYE'yi iceren/Turkiye ile ilgili veri (kullanicinin istegi).
 DATA_SOURCES = [
-    {"url": _gn('site:tuik.gov.tr OR site:data.tuik.gov.tr (enflasyon OR TÜFE OR ÜFE OR işsizlik OR büyüme OR "dış ticaret" OR endeks OR fiyat) when:4d'), "label": "TÜİK"},
-    {"url": _gn('site:tcmb.gov.tr (faiz OR "para politikası" OR rezerv OR kur OR beklenti) when:4d'),                                                   "label": "TCMB"},
-    {"url": _gn('site:ticaret.gov.tr (ihracat OR ithalat OR "dış ticaret") when:5d'),                                                                  "label": "Ticaret Bakanlığı"},
-    {"url": _gn('site:hmb.gov.tr (bütçe OR "bütçe gerçekleşme" OR borç OR nakit) when:5d'),                                                            "label": "Hazine ve Maliye"},
-    {"url": _gn('site:oecd.org (Turkey OR Türkiye) (GDP OR inflation OR unemployment OR outlook OR forecast) when:7d', "en"),                          "label": "OECD"},
-    {"url": _gn('Eurostat (euro area OR EU) (inflation OR GDP OR unemployment OR "trade balance") when:5d', "en"),                                     "label": "Eurostat"},
+    # TÜİK — en onemli veriler (enflasyon, isgucu, buyume, dis ticaret). Haber bulteni rakamlari.
+    {"url": _gn('TÜİK (enflasyon OR TÜFE OR ÜFE OR "kira artış oranı") when:10d'),                          "label": "TÜİK"},
+    {"url": _gn('TÜİK (işsizlik OR işgücü OR büyüme OR GSYH OR "milli gelir") when:16d'),                   "label": "TÜİK"},
+    {"url": _gn('TÜİK ("dış ticaret" OR ihracat OR ithalat OR "cari açık" OR "sanayi üretim") when:16d'),   "label": "TÜİK"},
+    # TCMB — faiz / para politikasi (rakam haberde net)
+    {"url": _gn('TCMB ("politika faizi" OR "faiz kararı" OR "para politikası" OR rezerv OR "enflasyon raporu") when:12d'), "label": "TCMB"},
+    # Bakanliklar — butce / dis ticaret
+    {"url": _gn('(Hazine OR "Ticaret Bakanlığı" OR "Mehmet Şimşek") (bütçe OR "bütçe açığı" OR "dış ticaret" OR ihracat OR ithalat) when:14d'), "label": "Hazine/Ticaret Bakanlığı"},
+    # OECD / Eurostat — YALNIZ Turkiye'yi iceren veriler
+    {"url": _gn('OECD (Turkey OR Türkiye) (GDP OR inflation OR unemployment OR growth OR forecast OR outlook) when:21d', "en"), "label": "OECD"},
+    {"url": _gn('Eurostat (Turkey OR Türkiye) (inflation OR GDP OR unemployment OR prices OR trade) when:21d', "en"),          "label": "Eurostat"},
 ]
 
 
@@ -589,9 +596,13 @@ CIKAR (is_data=true) — su tur SAYISAL resmi veriler:
 - Enflasyon (TUFE/UFE), issizlik, buyume (GSYH), dis ticaret (ihracat/ithalat/denge), cari acik, butce gerceklesme/borc, sanayi/perakende/tarim-gida fiyat endeksleri, TCMB politika faizi/rezerv, OECD/Eurostat makro gostergeleri
 - Item'da SOMUT bir SAYI (oran/tutar/endeks puani) olmali. Sayi yoksa is_data=false.
 
-ONCELIK: TURKIYE gostergeleri (TUIK/TCMB/bakanliklar) en onemli. Yabanci (OECD/Eurostat/euro bolgesi) verisi de cikar ama sadece manset gosterge ise (euro bolgesi enflasyon/buyume/issizlik/ticaret dengesi gibi).
+ONCELIK: TURKIYE gostergeleri (TUIK/TCMB/bakanliklar) en onemli — ozellikle vatandasin gecim maliyeti (enflasyon/TUFE, kira artis orani, asgari ucret, issizlik). Bunlari her zaman cikar.
 
-TEKILLESTIR: Ayni temel yayini/rakami farkli baslik veya farkli kaynak tekrar ediyorsa (or. ayni donem ayni ticaret acigi rakami birkac kez) SADECE BIR KEZ cikar — en net/resmi olani sec. Ayni rakami farkli para biriminde (euro/dolar) tekrar verme; kaynaktaki ASIL birimi kullan.
+OECD/Eurostat KISITI: Bu kaynaklardan SADECE Turkiye'yi iceren / Turkiye ile ilgili veriyi cikar (or. "OECD Turkiye buyume tahmini", "Eurostat'a gore Turkiye enflasyonu AB'de en yuksek"). Sirf euro bolgesi / baska ulke / Turkiye'siz AB verisini is_data=false yap, ELE.
+
+KAYNAK: Veri cogu zaman bir gazete/haber sitesi tarafindan kotalanir ama ASIL kaynak resmi kurumdur. source_tr'yi DAIMA verinin resmi kaynagi yap (TUIK / TCMB / OECD / Eurostat / Hazine ve Maliye / Ticaret Bakanligi) — haberi yapan gazete (AA, Bloomberg HT, Cumhuriyet vb.) DEGIL.
+
+TEKILLESTIR: Ayni temel yayini/rakami farkli baslik veya farkli kaynak tekrar ediyorsa (or. ayni donem ayni enflasyon rakami onlarca haberde) SADECE BIR KEZ cikar — en net olani sec. Ayni rakami farkli para biriminde (euro/dolar) tekrar verme; kaynaktaki ASIL birimi kullan.
 
 ELE (is_data=false):
 - Genel haber/yorum/duyuru/etkinlik, "aciklanacak/ele alinacak" gibi gelecek zamanli, sayisiz metinler
