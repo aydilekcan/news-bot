@@ -1,9 +1,11 @@
 name: X Tweet Botu
 
 on:
-  schedule:
-    - cron: '0 */2 * * *'  # Her 2 saatte bir
-  workflow_dispatch:
+  workflow_dispatch:  # cron-job.org 2 saatte bir tetikler; manuel de çalıştırılabilir
+
+concurrency:
+  group: x-bot
+  cancel-in-progress: false
 
 jobs:
   run:

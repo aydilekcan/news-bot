@@ -1,14 +1,14 @@
 name: Sabah Brifing
 
-# GitHub Actions cron'u saatlerce gecikebildiği için 4 farklı zamanda dener.
-# morning_brief.py idempotent: bugün zaten gönderildiyse atlanır.
+# cron-job.org her sabah punctual tetikler. morning_brief.py idempotent:
+# bugün zaten gönderildiyse atlanır.
 on:
-  schedule:
-    - cron: '0 4 * * *'   # 07:00 TR (erken tampon)
-    - cron: '20 4 * * *'  # 07:20 TR
-    - cron: '40 4 * * *'  # 07:40 TR
-    - cron: '0 5 * * *'   # 08:00 TR (geç tampon)
   workflow_dispatch:
+
+# Çoklu tetikleme olursa runlar git push'ta çakışmasın (eski "All jobs failed" nedeni)
+concurrency:
+  group: morning-brief
+  cancel-in-progress: false
 
 jobs:
   run:
