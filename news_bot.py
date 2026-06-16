@@ -50,6 +50,7 @@ LLM_MODEL          = os.environ.get("LLM_MODEL", "claude-haiku-4-5-20251001")
 STATE_FILE        = os.path.join(_base, "sent_ids.json")
 NEWS_DATA_FILE    = os.path.join(_base, "news_data.json")
 CUSTOM_FEEDS_FILE = os.path.join(_base, "custom_feeds.json")
+DATA_STATE_FILE   = os.path.join(_base, "data_state.json")
 LOG_FILE          = os.path.join(_base, "news_bot.log")
 
 DEDUP_WINDOW_DAYS    = 30
@@ -58,6 +59,10 @@ MAX_LLM_CANDIDATES   = 180
 PER_FEED_LIMIT       = 10
 MIN_SCORE            = 6
 MAX_DELIVER          = 15
+MAX_DATA_CANDIDATES  = 60
+DATA_PER_FEED_LIMIT  = 8
+MAX_DATA_DELIVER     = 8
+DATA_LINK_KEEP_DAYS  = 14   # ayni resmi makaleyi tekrar LLM'e gondermemek icin
 SEND_DELAY_S         = 3.5
 NEWS_DATA_KEEP_DAYS  = 90
 NEWS_DATA_MAX_ITEMS  = 5000
@@ -102,6 +107,20 @@ SOURCES = [
     {"url": _gn("site:sol.org.tr when:1d"),         "label": "soL",          "default_lean": "left"},
     {"url": _gn("site:reuters.com when:1d", "en"),  "label": "Reuters",      "default_lean": "neutral"},
     {"url": _gn("site:apnews.com when:1d", "en"),   "label": "AP",           "default_lean": "neutral"},
+]
+
+
+# Resmi/guvenilir veri kaynaklari (ayri kanal). Konu-odakli haber suzgecinden bagimsiz
+# ikinci bir LLM pass'inde yapilandirilmis veri (gosterge -> deger -> donem) cikarilir.
+# Linkler dogrulanabilir olsun diye resmi sitelere site: filtresiyle Google News koprusu kullanilir;
+# resmi sitelerin RSS'i cogu zaman bot trafigini blokluyor veya tutarsiz.
+DATA_SOURCES = [
+    {"url": _gn('site:tuik.gov.tr OR site:data.tuik.gov.tr (enflasyon OR TÜFE OR ÜFE OR işsizlik OR büyüme OR "dış ticaret" OR endeks OR fiyat) when:4d'), "label": "TÜİK"},
+    {"url": _gn('site:tcmb.gov.tr (faiz OR "para politikası" OR rezerv OR kur OR beklenti) when:4d'),                                                   "label": "TCMB"},
+    {"url": _gn('site:ticaret.gov.tr (ihracat OR ithalat OR "dış ticaret") when:5d'),                                                                  "label": "Ticaret Bakanlığı"},
+    {"url": _gn('site:hmb.gov.tr (bütçe OR "bütçe gerçekleşme" OR borç OR nakit) when:5d'),                                                            "label": "Hazine ve Maliye"},
+    {"url": _gn('site:oecd.org (Turkey OR Türkiye) (GDP OR inflation OR unemployment OR outlook OR forecast) when:7d', "en"),                          "label": "OECD"},
+    {"url": _gn('Eurostat (euro area OR EU) (inflation OR GDP OR unemployment OR "trade balance") when:5d', "en"),                                     "label": "Eurostat"},
 ]
 
 
@@ -203,6 +222,36 @@ def save_news_data(items):
     os.replace(tmp, NEWS_DATA_FILE)
 
 
+# --- data_state.json (resmi veri kanali: gosterge basina son gorulen deger) ---
+def _empty_data_state():
+    return {"version": 1, "indicators": {}, "seen_links": {}}
+
+
+def load_data_state():
+    if not os.path.exists(DATA_STATE_FILE):
+        return _empty_data_state()
+    try:
+        with open(DATA_STATE_FILE) as f:
+            data = json.load(f)
+    except Exception:
+        return _empty_data_state()
+    if not isinstance(data, dict):
+        return _empty_data_state()
+    data.setdefault("version", 1)
+    data.setdefault("indicators", {})
+    data.setdefault("seen_links", {})
+    return data
+
+
+def save_data_state(ds):
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=DATA_LINK_KEEP_DAYS)).isoformat()
+    ds["seen_links"] = {h: ts for h, ts in ds.get("seen_links", {}).items() if ts >= cutoff}
+    tmp = DATA_STATE_FILE + ".tmp"
+    with open(tmp, "w") as f:
+        json.dump(ds, f, ensure_ascii=False, indent=1)
+    os.replace(tmp, DATA_STATE_FILE)
+
+
 # --- Normalize / hash / similarity ----------------------------------------
 _STOPWORDS = {
     "ve", "ile", "icin", "bir", "bu", "su", "o", "da", "de", "ki", "mi", "mu",
@@ -301,6 +350,12 @@ LLM_SYSTEM = """Sen Turk bir karar vericinin haber editorusun. COK SECICI ol —
 
 ONCELIK: Kullanici EKONOMI haberlerine daha cok agirlik istiyor. Bir ekonomi haberi sinirdaysa keep=true lehine karar ver ve digerlerine gore daha comert puanla. Siyaset/diger alanlarda seciciligi koru.
 
+OZEL ONCELIK — GECIM MALIYETI & SAYISAL KIYAS: Asagidakileri ONE CIKAR (keep=true lehine, +1 puan):
+- Icinde "fiyat", "zam", "ucret", "asgari ucret", "oran", "enflasyon", "iflas", "kapanma/kapandi", "yuzde"/"%" gecen haberler
+- Vatandasin gunluk gecim maliyetini dogrudan etkileyen haberler (akaryakit/dogalgaz/elektrik/su zam, gida fiyati, kira, faiz/kredi, maas/emekli ayligi, vergi/harc)
+- Bir oncekiyle KIYASLANABILIR somut bir sayi iceren haberler (eski deger -> yeni deger)
+RUTIN istisnasi yine gecerli: yatay/kucuk gunluk piyasa hareketi gurultudur; ama yukaridaki kategorilerde somut bir DEGISIM varsa gecir.
+
 ONEMLI (keep=true) — SADECE bu kategorilerden SOMUT gelisme/karar/data:
 - Turk siyaseti SOMUT karar: TBMM oylamasi, kabine karari, parti genel baskanindan onemli aciklama/karar, ust duzey atama/istifa, mahkeme karari (Anayasa Mahkemesi/Danistay/Yargitay/YSK), Sayistay raporu
 - Turkiye ekonomi (GENIS tut — ekonomi ONCELIKLI alandir): TCMB faiz/politika karari, enflasyon/issizlik/buyume/cari acik verisi, Hazine ihale sonucu, butce-vergi-tesvik degisikligi, onemli ekonomi politikasi veya regulasyon, ust duzey ekonomi atamasi (Bakan/TCMB/BDDK/SPK), makro etkili sektor/sirket gelismesi (buyuk yatirim, iflas, satin alma, ihracat-enerji-banka kararlari), kayda deger kur/borsa/altin/faiz hareketi (>%2 gunluk veya rejim degisikligi)
@@ -324,11 +379,13 @@ SCORE skalasi (1-10):
 
 OZET (summary_tr): keep=true ise haberi 1-2 Turkce cumlede ozetle (max 240 karakter). Spesifik ol; "aciklama yapildi" gibi mubhem ifadeler kullanma — KIM, NE yapti/karar verdi yaz.
 
+METRIK (metric): Haberde bir oncekiyle KIYASLANABILIR sayisal degisim VARSA su formatta cikar: "[ne] [eski deger] -> [yeni deger] ([% veya puan degisim])". Ornek: "Asgari ucret 17.002 TL -> 22.104 TL (+%30)" veya "TUFE (yillik) %38,1 -> %41,6 (+3,5 puan)". Eski deger veya degisim haberde YOKSA bos birak (""). Tahmin etme, uydurma; sadece haberde acikca gecen rakamlari kullan.
+
 LEAN: keep=true ise haberin/kaynagin siyasi yonelimi: "left" / "neutral" / "right". Kaynak ipucu sana verilecek (default_lean) ama icerik farkli bir yon gosteriyorsa override et. Reuters/AP/BBC/DW gibi uluslararasi servisler neutral'dir; haber Turk hukumetini destekleyici dille anlatiyorsa right, elestiriyorsa left dusunulebilir. Emin degilsen neutral.
 
 Cikti format'i ZORUNLU: yalniz gecerli JSON array. Her item:
-{"i": <int>, "keep": <bool>, "score": <1-10 int>, "summary_tr": "...", "lean": "left|neutral|right"}
-keep=false ise summary_tr ve lean atlanabilir. Aciklama veya markdown yazma."""
+{"i": <int>, "keep": <bool>, "score": <1-10 int>, "summary_tr": "...", "metric": "...", "lean": "left|neutral|right"}
+keep=false ise summary_tr, metric ve lean atlanabilir. metric yoksa "" birak. Aciklama veya markdown yazma."""
 
 
 def llm_filter(candidates):
@@ -391,6 +448,7 @@ def llm_filter(candidates):
             item = dict(pool[i])
             item["score"] = score
             item["summary_tr"] = (v.get("summary_tr") or "").strip()[:300]
+            item["metric"] = (v.get("metric") or "").strip()[:160]
             lean = (v.get("lean") or item["default_lean"]).lower()
             if lean not in VALID_LEANS:
                 lean = item["default_lean"]
@@ -475,6 +533,27 @@ def send_telegram(chat_id: str, text: str):
     return r.ok, r.text
 
 
+def broadcast(msg: str) -> bool:
+    """Mesaji tum hedeflere (CHAT_ID + CHANNEL_ID) gonder; ayni kanalin farkli yazimini ele."""
+    delivered = False
+    seen_targets = set()
+    for target in [CHAT_ID, CHANNEL_ID]:
+        target = (target or "").strip()
+        if not target:
+            continue
+        canon = canonical_chat_id(target)
+        if canon in seen_targets:
+            continue
+        seen_targets.add(canon)
+        ok, resp = send_telegram(target, msg)
+        if ok:
+            delivered = True
+        else:
+            log(f"Telegram hatasi ({target}): {resp[:160]}")
+        time.sleep(SEND_DELAY_S)
+    return delivered
+
+
 def topic_emoji(title: str, summary: str) -> str:
     blob = (title + " " + summary).lower()
     if any(k in blob for k in ["fed", "ecb", "imf", "nato", "putin", "trump", "xi ", "netanyahu", "iran", "ukrayna", "gazze", "israil", "white house", "ab ", "sanctions", "yaptirim"]):
@@ -490,32 +569,265 @@ def deliver_cluster(cluster) -> bool:
     icon = topic_emoji(top["title"], top.get("summary_tr", ""))
     lean_dot = LEAN_EMOJI.get(top["lean"], "⬜")
     summary_line = f"\n<i>{top['summary_tr']}</i>" if top.get("summary_tr") else ""
+    metric_line = f"\n📊 <b>{top['metric']}</b>" if top.get("metric") else ""
     coverage = ""
     if len(cluster["members"]) > 1:
         others = [m["source"] for m in cluster["members"][1:6]]
         coverage = f"\n<i>+ {len(cluster['members']) - 1} kaynak daha: {', '.join(others)}</i>"
     msg = (
         f"<b>{icon} {top['source']}</b> {lean_dot}\n"
-        f"{top['title']}{summary_line}{coverage}\n"
+        f"{top['title']}{metric_line}{summary_line}{coverage}\n"
         f"<a href='{top['link']}'>→ Habere git</a>"
     )
-    delivered = False
-    seen_targets = set()
-    for target in [CHAT_ID, CHANNEL_ID]:
-        target = (target or "").strip()
-        if not target:
+    return broadcast(msg)
+
+
+# --- Resmi veri kanali -----------------------------------------------------
+DATA_LLM_SYSTEM = """Sen resmi istatistik kurumlarinin yayinlarini izleyen bir veri analistisin. Sana resmi kaynaklardan (TUIK, TCMB, OECD, Eurostat, bakanliklar) gelen baslik+ozet listesi verilecek. Gorevin YALNIZCA yayinlanmis SOMUT bir SAYISAL gosterge iceren item'lari cikarmak.
+
+CIKAR (is_data=true) — su tur SAYISAL resmi veriler:
+- Enflasyon (TUFE/UFE), issizlik, buyume (GSYH), dis ticaret (ihracat/ithalat/denge), cari acik, butce gerceklesme/borc, sanayi/perakende/tarim-gida fiyat endeksleri, TCMB politika faizi/rezerv, OECD/Eurostat makro gostergeleri
+- Item'da SOMUT bir SAYI (oran/tutar/endeks puani) olmali. Sayi yoksa is_data=false.
+
+ELE (is_data=false):
+- Genel haber/yorum/duyuru/etkinlik, "aciklanacak/ele alinacak" gibi gelecek zamanli, sayisiz metinler
+
+BEKLENTI/TAHMIN: Rakam resmi GERCEKLESMIS bir sonuc degil de beklenti/tahmin/anket/projeksiyon ise is_forecast=true (yine cikar, isaretle). Resmi gerceklesmis veri ise is_forecast=false.
+
+Her item icin alanlar:
+- key: gosterge icin KARARLI, kisa snake_case anahtar; ayni gosterge HER ZAMAN ayni key almali. Yillik/aylik varyantlari ayri key yap. Ornek: "tr_tufe_yillik", "tr_tufe_aylik", "tr_ufe_yillik", "tr_issizlik", "tr_gsyh_buyume", "tr_dis_ticaret_dengesi", "tr_cari_acik", "tr_butce_dengesi", "tcmb_politika_faizi", "ea_hicp_yillik", "oecd_tr_buyume_tahmin"
+- indicator_tr: Turkce insan-okur ad. Ornek: "TUFE (yillik)", "Issizlik orani", "Politika faizi"
+- value: aciklanan deger, kaynaktaki haliyle. Ornek: "%41,6", "3,2 milyar $", "%50"
+- period: verinin donemi. Ornek: "Mayis 2025", "2025 1. ceyrek". Bilinmiyorsa "".
+- prev_in_text: kaynak metninde ACIKCA gecen bir onceki donem degeri varsa yaz, yoksa "".
+- yoy: metinde gecen gecen-yil-ayni-donem kiyasi varsa yaz, yoksa "".
+- is_forecast: bool
+- source_tr: kurum adi (TUIK/TCMB/OECD/Eurostat/Ticaret Bakanligi/Hazine ve Maliye)
+
+Cikti ZORUNLU: yalniz gecerli JSON array. Her item:
+{"i": <int>, "is_data": <bool>, "key": "...", "indicator_tr": "...", "value": "...", "period": "...", "prev_in_text": "...", "yoy": "...", "is_forecast": <bool>, "source_tr": "..."}
+is_data=false ise diger alanlar atlanabilir. Tahmin etme, uydurma — sadece metinde acikca gecen rakami kullan. Aciklama veya markdown yazma."""
+
+
+def collect_data_candidates(data_state):
+    seen_links = data_state.get("seen_links", {})
+    seen_in_batch = set()
+    candidates = []
+    for feed_meta in DATA_SOURCES:
+        url = feed_meta["url"]
+        label = feed_meta["label"]
+        try:
+            feed = feedparser.parse(url, agent=USER_AGENT)
+            if not feed.entries:
+                log(f"VERI UYARI: 0 entry — {label}")
+                continue
+            for entry in feed.entries[:DATA_PER_FEED_LIMIT]:
+                title = (entry.get("title") or "").strip()
+                link  = entry.get("link") or ""
+                summary_raw = re.sub(r"<[^>]+>", " ", entry.get("summary") or "")[:500]
+                if not title or not link:
+                    continue
+                clean_title = re.sub(r"\s[-–|]\s[^-–|]{2,40}\s*$", "", title).strip()
+                lh = link_hash(link, clean_title)
+                if lh in seen_links or lh in seen_in_batch:
+                    continue
+                seen_in_batch.add(lh)
+                candidates.append({
+                    "title":       clean_title,
+                    "link":        link,
+                    "raw_summary": summary_raw,
+                    "source":      label,
+                    "link_hash":   lh,
+                })
+        except Exception as e:
+            log(f"VERI HATA ({label}): {e}")
+    return candidates
+
+
+def _llm_json_array(system: str, user_content: str, max_tokens: int):
+    """Anthropic messages cagrisi -> JSON array (list) veya None."""
+    body = {
+        "model": LLM_MODEL,
+        "max_tokens": max_tokens,
+        "system": system,
+        "messages": [{"role": "user", "content": user_content}],
+    }
+    try:
+        r = requests.post(
+            "https://api.anthropic.com/v1/messages",
+            headers={
+                "x-api-key": ANTHROPIC_API_KEY,
+                "anthropic-version": "2023-06-01",
+                "content-type": "application/json",
+            },
+            json=body,
+            timeout=90,
+        )
+        if not r.ok:
+            log(f"LLM HTTP hata: {r.status_code} — {r.text[:200]}")
+            return None
+        data = r.json()
+        text = "".join(blk.get("text", "") for blk in data.get("content", []) if blk.get("type") == "text").strip()
+        text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text, flags=re.MULTILINE).strip()
+        m = re.search(r"\[.*\]", text, flags=re.DOTALL)
+        if not m:
+            log(f"LLM cikti JSON degil: {text[:200]}")
+            return None
+        return json.loads(m.group(0))
+    except Exception as e:
+        log(f"LLM hata: {e}")
+        return None
+
+
+def data_filter(candidates):
+    if not ANTHROPIC_API_KEY:
+        log("ANTHROPIC_API_KEY yok — veri pass'i devre disi.")
+        return []
+    if not candidates:
+        return []
+    pool = candidates[:MAX_DATA_CANDIDATES]
+    items_text = "\n".join(
+        f"[{i}] ({c['source']}) {c['title']}" + (f" — {c['raw_summary'][:240]}" if c['raw_summary'] else "")
+        for i, c in enumerate(pool)
+    )
+    verdicts = _llm_json_array(
+        DATA_LLM_SYSTEM,
+        f"Asagidaki {len(pool)} resmi kaynak basligini degerlendir:\n\n{items_text}\n\nSadece JSON array dondur.",
+        4000,
+    )
+    if not verdicts:
+        return []
+    points = []
+    for v in verdicts:
+        try:
+            i = int(v["i"])
+            if not (0 <= i < len(pool)):
+                continue
+            if not v.get("is_data"):
+                continue
+            key = (v.get("key") or "").strip().lower()
+            value = (v.get("value") or "").strip()
+            if not key or not value:
+                continue
+            src = pool[i]
+            points.append({
+                "key":          key,
+                "indicator_tr": (v.get("indicator_tr") or key).strip()[:80],
+                "value":        value[:60],
+                "period":       (v.get("period") or "").strip()[:40],
+                "prev_in_text": (v.get("prev_in_text") or "").strip()[:60],
+                "yoy":          (v.get("yoy") or "").strip()[:120],
+                "is_forecast":  bool(v.get("is_forecast")),
+                "source_tr":    (v.get("source_tr") or src["source"]).strip()[:40],
+                "title":        src["title"],
+                "link":         src["link"],
+                "link_hash":    src["link_hash"],
+            })
+        except Exception:
             continue
-        canon = canonical_chat_id(target)
-        if canon in seen_targets:
-            continue  # ayni kanalin farkli yazimi -> cift mesaji onle
-        seen_targets.add(canon)
-        ok, resp = send_telegram(target, msg)
-        if ok:
-            delivered = True
-        else:
-            log(f"Telegram hatasi ({target}): {resp[:160]}")
-        time.sleep(SEND_DELAY_S)
-    return delivered
+    return points
+
+
+_SCALE = {"trilyon": 1e12, "milyar": 1e9, "milyon": 1e6, "bin": 1e3}
+
+
+def _parse_num(s: str):
+    """Turkce sayi metnini (float, is_percent) cifti olarak coz; cozulemezse None."""
+    if not s:
+        return None
+    low = s.lower()
+    is_pct = "%" in s or "yuzde" in low or "yüzde" in low or "puan" in low
+    m = re.search(r"-?\d[\d.,]*", low)
+    if not m:
+        return None
+    num = m.group(0).rstrip(".,")
+    if "," in num:                       # ',' ondalik, '.' binlik
+        num = num.replace(".", "").replace(",", ".")
+    else:
+        parts = num.split(".")           # sadece nokta varsa: binlik mi ondalik mi?
+        if len(parts) > 2 or (len(parts) == 2 and len(parts[1]) == 3):
+            num = num.replace(".", "")
+    try:
+        val = float(num)
+    except ValueError:
+        return None
+    for w, mult in _SCALE.items():
+        if w in low:
+            val *= mult
+            break
+    return (val, is_pct)
+
+
+def compute_delta(old_s: str, new_s: str) -> str:
+    """Iki deger arasindaki degisimi insan-okur ifadeye cevir; cozulemezse ''."""
+    o = _parse_num(old_s)
+    n = _parse_num(new_s)
+    if not o or not n:
+        return ""
+    ov, op = o
+    nv, np = n
+    if op and np:                        # iki oran -> puan farki
+        d = nv - ov
+        if abs(d) < 1e-9:
+            return ""
+        return f"{d:+.1f} puan".replace(".", ",")
+    if ov == 0:
+        return ""
+    pct = (nv - ov) / abs(ov) * 100
+    if abs(pct) < 0.05:
+        return ""
+    return f"%{pct:+.1f}".replace(".", ",")
+
+
+def process_data_points(points, data_state):
+    """Yeni/degisen gostergeleri dondur, data_state'i guncelle. Deger-bazli dedup."""
+    indicators = data_state.setdefault("indicators", {})
+    now_iso = datetime.now(timezone.utc).isoformat()
+    out = []
+    for p in points:
+        key = p["key"]
+        store_key = ("fc:" + key) if p["is_forecast"] else key
+        prev_stored = indicators.get(store_key)
+        # Ayni deger + ayni donem zaten gonderildiyse atla
+        if prev_stored and prev_stored.get("value") == p["value"] and prev_stored.get("period") == p["period"]:
+            continue
+        baseline = indicators.get(key)   # gercek veri baseline'i (forecast icin de kiyas)
+        prev_value = (baseline or {}).get("value", "") or p.get("prev_in_text", "")
+        item = dict(p)
+        item["prev_value"] = prev_value
+        item["delta"]      = compute_delta(prev_value, p["value"]) if prev_value else ""
+        item["is_first"]   = (baseline is None) and not p.get("prev_in_text")
+        out.append(item)
+        indicators[store_key] = {
+            "value":        p["value"],
+            "period":       p["period"],
+            "ts":           now_iso,
+            "indicator_tr": p["indicator_tr"],
+        }
+        if len(out) >= MAX_DATA_DELIVER:
+            break
+    return out
+
+
+def deliver_data_item(item) -> bool:
+    head = (f"📈 BEKLENTİ — {item['source_tr']}" if item["is_forecast"]
+            else f"📊 RESMİ VERİ — {item['source_tr']}")
+    if item["prev_value"] and not item["is_first"]:
+        delta = f" ({item['delta']})" if item["delta"] else ""
+        metric = f"<b>{item['indicator_tr']}:</b> {item['prev_value']} → {item['value']}{delta}"
+    elif item["is_first"]:
+        metric = f"<b>{item['indicator_tr']}:</b> {item['value']} <i>(ilk kayıt)</i>"
+    else:
+        metric = f"<b>{item['indicator_tr']}:</b> {item['value']}"
+    period_line = f" — {item['period']}" if item["period"] else ""
+    yoy_line = f"\n<i>Geçen yıl kıyas: {item['yoy']}</i>" if item["yoy"] else ""
+    date_str = datetime.now(TURKEY_TZ).strftime("%d.%m.%Y")
+    msg = (
+        f"<b>{head}</b>\n"
+        f"{metric}{period_line}{yoy_line}\n"
+        f"<a href='{item['link']}'>→ Kaynak</a> · {date_str}"
+    )
+    return broadcast(msg)
 
 
 # --- Yardimci --------------------------------------------------------------
@@ -579,9 +891,11 @@ def main():
                 "link":       m["link"],
                 "source":     m["source"],
                 "summary_tr": m.get("summary_tr", ""),
+                "metric":     m.get("metric", ""),
                 "lean":       m["lean"],
                 "score":      m["score"],
                 "ts":         now_iso,
+                "type":       "news",
                 "cluster_id": cluster["id"],
             })
 
@@ -597,6 +911,40 @@ def main():
     for c in candidates:
         state["ids"].setdefault(link_hash(c["link"], c["title"]), now_iso)
         state["ids"].setdefault(title_hash(c["title"]), now_iso)
+
+    # --- Resmi veri kanali (konu suzgecinden bagimsiz ikinci pass) ---
+    try:
+        data_state = load_data_state()
+        data_candidates = collect_data_candidates(data_state)
+        data_points = data_filter(data_candidates)
+        data_items = process_data_points(data_points, data_state)
+        log(f"Veri: {len(data_candidates)} aday -> {len(data_points)} gosterge -> {len(data_items)} yeni/degisen.")
+        data_sent = 0
+        for item in data_items:
+            if not quiet and deliver_data_item(item):
+                data_sent += 1
+            change = (f"{item['prev_value']} → {item['value']}"
+                      + (f" ({item['delta']})" if item['delta'] else "")) if item['prev_value'] else item['value']
+            news_data.append({
+                "title":      f"{item['indicator_tr']}: {item['value']}" + (f" ({item['period']})" if item['period'] else ""),
+                "link":       item["link"],
+                "source":     item["source_tr"],
+                "summary_tr": change,
+                "metric":     item.get("delta", ""),
+                "lean":       "neutral",
+                "score":      0,
+                "ts":         now_iso,
+                "type":       "forecast" if item["is_forecast"] else "data",
+                "cluster_id": "",
+            })
+        # Tum veri adaylarini gorildi isaretle -> ayni makaleyi tekrar LLM'e gonderme
+        seen = data_state.setdefault("seen_links", {})
+        for c in data_candidates:
+            seen.setdefault(c["link_hash"], now_iso)
+        save_data_state(data_state)
+        log(f"Veri kanali: {data_sent} mesaj gonderildi.")
+    except Exception as e:
+        log(f"Veri kanali HATA: {e}")
 
     save_state(state)
     save_news_data(news_data)
