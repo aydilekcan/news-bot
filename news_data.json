@@ -1,5 +1,155 @@
 [
  {
+  "title": "Trump'tan İsrail'e Lübnan eleştirisi: 'Her seferinde bir binayı havaya uçurmak zorunda değilsiniz'",
+  "link": "https://www.bbc.com/turkce/articles/cddly2l63g3o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Trump, Netanyahu'ya Lübnan'daki operasyonlarında daha ölçülü davranması gerektiğini söyledi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-16T10:59:04.071030+00:00",
+  "cluster_id": "c8c43fd42a64d"
+ },
+ {
+  "title": "Trump'tan Netanyahu'ya soğuk duş: Her aradığınız kişi için apartman yıkamazsınız",
+  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-netanyahu-ya-soguk-dus-her-aradiginiz-kisi-icin-apartman-yikamazsiniz-2512650",
+  "source": "Cumhuriyet",
+  "summary_tr": "Trump, Netanyahu'ye İran nükleer anlaşması konusunda tepki gösterdi ve İsrail'in Lübnan operasyonlarını eleştirdi.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-16T10:59:04.071030+00:00",
+  "cluster_id": "ca2f24110d71f"
+ },
+ {
+  "title": "İran: Kalibaf, ABD ile mutabakatın imza törenine katılacak",
+  "link": "https://www.trthaber.com/haber/dunya/iran-kalibaf-abd-ile-mutabakatin-imza-torenine-katilacak-948371.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran, ABD ile mutabakatın imza töreninde resmi temsilyetle katılacak.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-16T10:59:04.071030+00:00",
+  "cluster_id": "c5517968c80bf"
+ },
+ {
+  "title": "Trump tarih verdi: Hürmüz Boğazı açılıyor",
+  "link": "https://www.dw.com/tr/trump-tarih-verdi-hürmüz-boğazı-açılıyor/a-77571339?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Trump, Hürmüz Boğazı'nın Cuma günü tamamen açılacağını duyurdu.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-16T10:59:04.071030+00:00",
+  "cluster_id": "cfbc8c24eb6bd"
+ },
+ {
+  "title": "DEM Parti'den 'mutlak butlan' kararına tepki: 'Siyasi çoğulculuğa tahammülsüzlüğün yeni halkası'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/dem-parti-den-mutlak-butlan-kararina-tepki-siyasi-cogulculuga-tahammulsuzlugun-yeni-halkasi-2512648",
+  "source": "Cumhuriyet",
+  "summary_tr": "DEM Parti, CHP'ye yönelik mutlak butlan kararına siyasi çoğulculuğa tahammülsüzlük olarak tepki gösterdi.",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-16T10:59:04.071030+00:00",
+  "cluster_id": "c7d6343e98cdc"
+ },
+ {
+  "title": "Ciro artışı yetmiyor: İşletmelerde nakit akışı sorunu",
+  "link": "https://www.sozcu.com.tr/ciro-artisi-yetmiyor-isletmelerde-nakit-akisi-sorunu-p328431",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye'de birçok şirket kârlı olsa da artan finansman maliyetleri ve uzayan tahsilat süreleri nakit akışı sorunu yaratıyor.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-16T10:59:04.071030+00:00",
+  "cluster_id": "c1c9db567a60d"
+ },
+ {
+  "title": "Prens Selman, Türk devine ortak oluyor",
+  "link": "https://www.sozcu.com.tr/prens-selman-turk-devine-ortak-oluyor-p328429",
+  "source": "Sözcü",
+  "summary_tr": "Saudi Aramco, Türkiye'de akaryakıt dağıtım sektörüne yatırım yapacak.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-16T10:59:04.071030+00:00",
+  "cluster_id": "c27f922d86254"
+ },
+ {
+  "title": "Rekabet Kurulundan lastik üreticilerine 3,6 milyar lira rekabet cezası",
+  "link": "https://www.trthaber.com/haber/ekonomi/rekabet-kurulundan-lastik-ureticilerine-36-milyar-lira-rekabet-cezasi-948380.html",
+  "source": "TRT Haber",
+  "summary_tr": "Rekabet Kurulu, otomotiv lastik üreticilerine 3,6 milyar lira ceza verdi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-16T10:59:04.071030+00:00",
+  "cluster_id": "c98dbb4c1add5"
+ },
+ {
+  "title": "Konut fiyatlarındaki reel düşüş yüzde 6,1'e yükseldi",
+  "link": "https://www.trthaber.com/haber/ekonomi/konut-fiyatlarindaki-reel-dusus-yuzde-61e-yukseldi-948378.html",
+  "source": "TRT Haber",
+  "summary_tr": "Konut fiyatlarındaki reel düşüş mayıs ayında yıllık %6,1'e çıktı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-16T10:59:04.071030+00:00",
+  "cluster_id": "cf4623eaed68a"
+ },
+ {
+  "title": "SİPER Ürün2 manevra yapan hedefi tam isabetle vurdu",
+  "link": "https://www.trthaber.com/haber/savunma/siper-urun-2-manevra-yapan-hedefi-tam-isabetle-vurdu-948376.html",
+  "source": "TRT Haber",
+  "summary_tr": "SİPER Ürün2 hava savunma sistemi, manevra yapan hedefi tam isabetle vurdu.",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-06-16T10:59:04.071030+00:00",
+  "cluster_id": "ce675986902d7"
+ },
+ {
+  "title": "Bakan Gürlek: Yargı paketi ayrı, Terörsüz Türkiye süreci ayrı yürüyor",
+  "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-yargi-paketi-ayri-terorsuz-turkiye-sureci-ayri-yuruyor-948374.html",
+  "source": "TRT Haber",
+  "summary_tr": "Adalet Bakanı, Terörsüz Türkiye süreci ve 12. Yargı Paketi'nin ayrı yürüdüğünü açıkladı.",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-06-16T10:59:04.071030+00:00",
+  "cluster_id": "c03eaf0fb88ec"
+ },
+ {
+  "title": "TBMM Başkanı Kurtulmuş, DEM heyetini kabul etti",
+  "link": "https://www.trthaber.com/haber/gundem/tbmm-baskani-kurtulmus-dem-heyetini-kabul-etti-948372.html",
+  "source": "TRT Haber",
+  "summary_tr": "TBMM Başkanı Kurtulmuş, DEM Parti heyeti ile Terörsüz Türkiye süreci konusunda görüştü.",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-06-16T10:59:04.071030+00:00",
+  "cluster_id": "cadeb4ca574e1"
+ },
+ {
+  "title": "Rusya ile Laos arasında iş birliği anlaşması imzalandı",
+  "link": "https://www.sozcu.com.tr/rusya-ile-laos-arasinda-is-birligi-anlasmasi-imzalandi-p328436",
+  "source": "Sözcü",
+  "summary_tr": "Rusya Rosatom, Laos ile nükleer enerji konusunda iş birliği anlaşması imzaladı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-16T10:59:04.071030+00:00",
+  "cluster_id": "c17c4e36a2b8e"
+ },
+ {
+  "title": "AB'de saatlik iş gücü maliyeti ilk çeyrekte arttı",
+  "link": "https://www.sozcu.com.tr/ab-de-saatlik-is-gucu-maliyeti-ilk-ceyrekte-artti-p328434",
+  "source": "Sözcü",
+  "summary_tr": "AB'de saatlik iş gücü maliyeti Q1 2026'da yıllık %3,6 arttı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-16T10:59:04.071030+00:00",
+  "cluster_id": "cf3a5f57e121f"
+ },
+ {
+  "title": "Almanya'da batarya üretimi 2025'te rekor seviyeye ulaştı",
+  "link": "https://www.sozcu.com.tr/almanya-da-batarya-uretimi-2025-te-rekor-seviyeye-ulasti-p328433",
+  "source": "Sözcü",
+  "summary_tr": "Almanya'da 2025'te batarya üretimi rekor seviyeye ulaştı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-16T10:59:04.071030+00:00",
+  "cluster_id": "c722ab187e7f8"
+ },
+ {
   "title": "Vance: Trump, ABD-İran anlaşmasını Cuma gününden önce açıklayabilir",
   "link": "https://www.bbc.com/turkce/articles/c04yzzgqkw3o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
