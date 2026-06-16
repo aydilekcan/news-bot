@@ -1,5 +1,115 @@
 [
  {
+  "title": "Bank of Japan raises its key interest rate to a three-decade high of 1%, citing inflation",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbHNSZXhfNnZtZDR0ZmJmNlJmRmZNZGVxazZWMTR2R0Zjc1JGdFRGRk5DNll2NDR0SzFGdGFYVXptazd3cTNPam92NHdtOHJvSEpoeEdlbXNGcHhITy1CZkpqTTBRZVR0bUpLLTI3WFZEVTdnZ0g5U3piblZrQU9fSUFvdkNPdjZQdGtGOGFfWTdkTEhINjVGOGVMcw?oc=5",
+  "source": "AP",
+  "summary_tr": "Japonya Merkez Bankası politika faizini 31 yılın en yüksek seviyesi olan %1'e yükseltedi; enflasyonla mücadele amacı.",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-06-16T13:01:25.542870+00:00",
+  "cluster_id": "c66b6fc0907f4"
+ },
+ {
+  "title": "Japonya Merkez Bankasının \"sıkılaştırmaya\" devam etmesi bekleniyor",
+  "link": "https://www.aa.com.tr/tr/ekonomi/japonya-merkez-bankasinin-sikilastirmaya-devam-etmesi-bekleniyor/3968735",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Japonya Merkez Bankası politika faizini %1'e yükseltedi; 31 yılın en yüksek seviyesine çıktı.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-16T13:01:25.542870+00:00",
+  "cluster_id": "ceed42cbd3c76"
+ },
+ {
+  "title": "EU lawmakers clear US trade deal to avert return to trade conflict",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcG1ON1h0eGNTZVBuV0tlQVJVN2FjZS1jbjhQMlBHVm9vWmN5NTZ3OHUwMjBoWWw2VkJzd0lwQW5UZmxoRVR6QzdGU1BZNFVsOGtkQUJQUEpGZUs0bTZvS1hhWEY0cHdudm41VzFJZUNoQ2N1MEtXbjVua0MxMmV2eVowMmhSUjE2enFCamwtMVNIcDBHd3oyQXNXbw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "AB Parlamenteri ABD ticaret anlaşmasını onayladı; ticaret çatışmasının tekrar başlamasını önleyecek.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-16T13:01:25.542870+00:00",
+  "cluster_id": "c52d2b983a74a"
+ },
+ {
+  "title": "Russian artist critical of Kremlin shot dead in Poland",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQXRFSEFoOVdnbkJZZ0sydThVc2xZWWFkaGZ2aDFVZ1doZUJ2Q3dBWmpETFRxT01icXYwUFNnUzFiekh3c19XMDdaSm1GNG5zTmRLbEV1dnZVUFZJcldtVW1zT0N0NEZkUlBxa1ZMQUlHN21BX0Vkcm9CY3p5OGpKeGRjMndBdm5abVhkRnp4b2RDOUo4?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Kremlin muhalifi Rus sanatçı Polonya'da öldürüldü.",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-16T13:01:25.542870+00:00",
+  "cluster_id": "c4d5c1ecbe2d1"
+ },
+ {
+  "title": "Brent petrolün varil fiyatı, ABD-İran mutabakatına ilişkin iyimserlikle 80 doların altına indi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/brent-petrolun-varil-fiyati-abd-iran-mutabakatina-iliskin-iyimserlikle-80-dolarin-altina-indi/3968744",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Brent petrol ABD-İran mutabakatı iyimserliğiyle 80 dolar altına düştü.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-16T13:01:25.542870+00:00",
+  "cluster_id": "c1e1a64c735bd"
+ },
+ {
+  "title": "Brent petrolün varil fiyatı 80 doların altına indi",
+  "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varil-fiyati-80-dolarin-altina-indi-948387.html",
+  "source": "TRT Haber",
+  "summary_tr": "Brent petrol ABD-İran mutabakatına yönelik iyimserlikle 80 dolar altına indi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-16T13:01:25.542870+00:00",
+  "cluster_id": "c1e1a64c735bd"
+ },
+ {
+  "title": "SpaceX locks in $60 billion Cursor deal to power AI coding push",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmxuTnhpZnhfWk9xMXRkVFVNeXBjXzZSRmZRakJpR0RzZnBxOWFfMk40NW1yaXBvTlBQY2FhbG1wY0w4d0wyRFhIOUhjSlF5VW5Fc3pwZ2xRaERESmhmWGp0UE4yT1l2d0M2N2R2UTlLRGFYSkczc2wxcWxCSU1TMzhleHJMR2pKSjcydDRGMHE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "SpaceX, Cursor'a 60 milyar dolarlık anlaşmayla AI kodlama çalışmalarını güçlendiriyor.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-16T13:01:25.542870+00:00",
+  "cluster_id": "cc62e7fce58d8"
+ },
+ {
+  "title": "SpaceX set to vault past Amazon in market value as shares extend IPO surge",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVC1iZzVJc29mUWNsenRlX2UwQkNscTgtTzFVSU10SkNYT013VDNVNnFJa2dUcnBkQkUxNTExSGpNc0RGV0ZFcWdmWmt2STZGV0NjVGJyRkwwWExVSUlpb2FPdERsWGFTZVlScmg4Znh5QUtDUHl3TTF2UjNQdlctWWVIN2tGTnZQQXMtM09CUGpHQ2ZfeGlocFI5bEtOZ1RCWl9hMWpqMjFYYTFBSVRvWkJXLTBYRzZ5S1E?oc=5",
+  "source": "Reuters",
+  "summary_tr": "SpaceX hisseleri halka arz sonrası yükselişini sürdürerek Amazon'u geçme yolunda.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-16T13:01:25.542870+00:00",
+  "cluster_id": "c8c945a08561f"
+ },
+ {
+  "title": "Ukraine starts EU membership talks and faces years of reforms while fighting Russia",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR01RMWtHSTJlYkNILS1ySTl5T1dTbS1ZV3F5bWRBQ3ZjTFFheVl1NmdNV0JlaDE4T3VPaW85aElUWklvNTJBX0lOdElydENfNk1NRGkzZzQ5S1NWUExjU3ZLU2paVzJETEVXYUtRdmpPekxxUFRNXzh6aDR2b095M25BdmVaOGlqWjc0RG8zeVBsamhOOXU1Y3A5Mk8tMXQ0VzZiejBLRzE5YlRLanVTY3dCelMxakU?oc=5",
+  "source": "AP",
+  "summary_tr": "Ukrayna AB üyelik müzakerelerine başladı; savaşı sürdürürken yıllar sürecek reformlar yapması gerekiyor.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-16T13:01:25.542870+00:00",
+  "cluster_id": "c57de08391fa0"
+ },
+ {
+  "title": "Tavukçulardan sonra lastikçilere de milyarlık ceza yağdı!",
+  "link": "https://www.sozcu.com.tr/tavukculardan-sonra-lastikcilere-de-milyarlik-ceza-yagdi-p328463",
+  "source": "Sözcü",
+  "summary_tr": "Rekabet Kurulu lastik sektörüne milyarlık ceza yaptırımı uyguladı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-16T13:01:25.542870+00:00",
+  "cluster_id": "c26d745dbce4c"
+ },
+ {
+  "title": "SPK'nin yeni düzenlemesi borsada derinlik ve güven açısından olumlu görülüyor",
+  "link": "https://www.aa.com.tr/tr/ekonomi/spknin-yeni-duzenlemesi-borsada-derinlik-ve-guven-acisindan-olumlu-goruluyor/3968746",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "SPK'nin yeni düzenlemesi borsada işlem gören şirketlerin fiili dolaşımdaki pay oranı hesaplamasını değiştirdi; piyasa uzmanları olumlu değerlendiriyor.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-16T13:01:25.542870+00:00",
+  "cluster_id": "cc7fc3a572a97"
+ },
+ {
   "title": "AYM'den kritik karar: Erdoğan'ın bir yetkisi iptal edildi",
   "link": "https://www.cumhuriyet.com.tr/turkiye/aym-den-kritik-karar-erdogan-in-bir-yetkisi-iptal-edildi-2512659",
   "source": "Cumhuriyet",
