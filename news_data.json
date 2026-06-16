@@ -1,5 +1,65 @@
 [
  {
+  "title": "Ukrayna'nın bombardıman uçağı düştü: 2 pilot hayatını kaybetti",
+  "link": "https://www.cumhuriyet.com.tr/dunya/ukrayna-nin-bombardiman-ucagi-dustu-2-pilot-hayatini-kaybetti-2512854",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ukrayna'ya ait Su-24M bombardıman uçağı Hmelnitski bölgesinde düştü, 2 pilot hayatını kaybetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-16T22:01:12.648935+00:00",
+  "type": "news",
+  "cluster_id": "c1b997a814471"
+ },
+ {
+  "title": "Ukrayna’da bombardıman uçağı düştü",
+  "link": "https://www.sozcu.com.tr/ukrayna-da-bombardiman-ucagi-dustu-p328567",
+  "source": "Sözcü",
+  "summary_tr": "Ukrayna Hava Kuvvetleri'ne ait Su-24M bombardıman uçağı Hmelnitski bölgesinde görev uçuşu sırasında düştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-16T22:01:12.648935+00:00",
+  "type": "news",
+  "cluster_id": "c1b997a814471"
+ },
+ {
+  "title": "İsrail basını: ABD, İsrail'in Gazze'ye saldırısını durdurdu",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-basini-abd-israilin-gazzeye-saldirisini-durdurdu/3969188",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail basınına göre ABD Başkanı Trump, İsrail'in Gazze'ye başlatmayı planladığı yeni saldırıyı durdurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-16T22:01:12.648935+00:00",
+  "type": "news",
+  "cluster_id": "c16ca60d5ceeb"
+ },
+ {
+  "title": "Beyaz et operasyonunda geri adım: Mahkeme 4 şirkete kayyım kararı uygulamasını durdurdu",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/beyaz-et-operasyonunda-geri-adim-mahkeme-4-sirkete-kayyim-karari-uygulamasini-durdurdu-2512834",
+  "source": "Cumhuriyet",
+  "summary_tr": "Mahkeme, beyaz et operasyonunda Gedik Piliç, Erpiliç, Keskinoğlu ve Lezita'ya atanan kayyım kararını uygulamayı durdurdu.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-16T22:01:12.648935+00:00",
+  "type": "news",
+  "cluster_id": "ce2da207cf31a"
+ },
+ {
+  "title": "Beyaz et operasyonunda geri adım: Mahkeme 4 şirkete kayyumu kaldırdı",
+  "link": "https://www.sozcu.com.tr/beyaz-et-operasyonunda-geri-adim-mahkeme-4-sirkete-kayyumu-kaldirdi-p328570",
+  "source": "Sözcü",
+  "summary_tr": "Mahkeme, beyaz et sektörü soruşturmasında denetim kayyımı atanan 4 şirkete kayyım kaldırılmasını onayladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-16T22:01:12.648935+00:00",
+  "type": "news",
+  "cluster_id": "ce2da207cf31a"
+ },
+ {
   "title": "ABD ve İran el sıkıştı; anlaşmanın maddeleri ortaya çıktı",
   "link": "https://www.sozcu.com.tr/abd-iran-anlasmasinin-maddeleri-p328555",
   "source": "Sözcü",
