@@ -1,5 +1,77 @@
 [
  {
+  "title": "Meclis 1 Temmuz’da tatile girmeyecek! CHP’den ‘Superman’ tepkisi",
+  "link": "https://www.sozcu.com.tr/meclis-1-temmuz-da-tatile-girmeyecek-chp-den-superman-tepkisi-p328558",
+  "source": "Sözcü",
+  "summary_tr": "TBMM, AKP grup önerisiyle Meclis'in çalışma takvimini değiştirdi; Meclis 1 Temmuz'da tatile girmeyecek.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-16T20:12:36.953700+00:00",
+  "type": "news",
+  "cluster_id": "cdf798546330d"
+ },
+ {
+  "title": "İşte madde madde ABD-İran anlaşması",
+  "link": "https://www.sozcu.com.tr/abd-iran-anlasmasinin-maddeleri-p328555",
+  "source": "Sözcü",
+  "summary_tr": "ABD ve İran arasında 14 maddelik dijital anlaşma imzalandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-16T20:12:36.953700+00:00",
+  "type": "news",
+  "cluster_id": "c69bcefdfa8f5"
+ },
+ {
+  "title": "Avro Bölgesi Dış Ticaret Açığı: 1,0 milyar avro (Nisan 2026)",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS3JlUzVfNXZNdzBBVFREQTY5RlhHXzkyX2NRd0U4MXVZU1RWZ21jZ0FVZU4xOWszYUtBR0YzbTB3djBmWVBhRnk3UFhQbWdfWko4c3pMTENaODF3aEhZVWlIeG5fM04taGo0b285U0ZQMlFzWmxpa2VPMEs2MkF3S0lQODVKMHF2LTdfdFR5RjQ5WEJGTjNGMG5qbG5COFp3QXRNZVEwb0p0VWg1TXB6dFBDT3NOM21TYm5SSFBn?oc=5",
+  "source": "Ticaret Bakanlığı",
+  "summary_tr": "1,0 milyar avro",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-06-16T20:12:36.953700+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
+  "title": "Avro Bölgesi Uluslararası Mal Ticareti Açığı: €1,0 milyar (Nisan 2026)",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBldWs3RXlUNnEzMXdRbzJpTUx6aDhFX2dvdEVpVnoyTWtiMmVJeWJqRExIR0JGajJMUnI1N2pqM2tEb1R4THBMS3F4ZzRRcndWQXk2ZTl6YjdDWU82UmRGbGhGVVlUTFFnSEVjdUZBNG1SN21UT21kV0p6R01ZcHc?oc=5",
+  "source": "Eurostat",
+  "summary_tr": "1,0 milyar avro → €1,0 milyar",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-06-16T20:12:36.953700+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
+  "title": "Avro Bölgesi Ticaret Açığı: 1,0 milyar euro (Nisan 2026)",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaWdVRWhTMWpOXzZCWHVrc2daajBVdGhkZlR2clZNVG9aaGpXZXJDZ3k4RW9LUjk0UFZkU2dxelZSaFlsdWUwY1lvQ0hoLURKeUdsZ0g5ZWQ5RlJQNWVsX2tHM3BGdjVzNF9XdG5ZUjRZclhFNU5PcU5rbVFmbE9DYzBKOHBwZzhwV2t5ZzZCbG1adjVPam1CZG9Hc295TFAxWUpZTkZiMDF6WHJSLTg5NFRnaWRZS05heDdaUm9fMi1mcEltd3c?oc=5",
+  "source": "Eurostat",
+  "summary_tr": "€1,0 milyar → 1,0 milyar euro",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-06-16T20:12:36.953700+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
+  "title": "Avro Bölgesi Ticaret Dengesi: 1,2 milyar dolar açık (Nisan 2026)",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVExtaXFxSVJmYk1XYnpDR2luRE5DSFJ5Zkt2NGFXNjVpOEJjd0UyYktTLTMycjhtTE9maXpwYW5Oc0tTcDRWcTJVYUl3SEhQbGMzbGRfUncyNU0zamY2UWNvdmszNUY3bmtqRUpFei1nUHJ5bGtUV0Y1bUc2Z0VOWkVwcENqSnFXRkhRUjFSblI2UmxMQks1MWhIcEtIQW5PTEZsVVd5c0xkTmpHMEtQenNHallnUHBhOWI4MEJ2Z3dGU3pJMEVLdUxFUEo5Q3FkN2pNbHprNGhjdU5YN0lyaUNR?oc=5",
+  "source": "Eurostat",
+  "summary_tr": "1,0 milyar euro → 1,2 milyar dolar açık (%+20,0)",
+  "metric": "%+20,0",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-06-16T20:12:36.953700+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Netanyahu küplere bindi: Trump’ın önünde bizi utandırdı",
   "link": "https://www.sozcu.com.tr/netanyahu-kuplere-bindi-trump-in-onunde-bizi-utandirdi-p328551",
   "source": "Sözcü",

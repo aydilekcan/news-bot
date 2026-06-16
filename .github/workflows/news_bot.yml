@@ -40,6 +40,7 @@ jobs:
           git config user.name "GitHub Action"
           [ -f sent_ids.json ] && git add sent_ids.json || true
           [ -f news_data.json ] && git add news_data.json || true
+          [ -f data_state.json ] && git add data_state.json || true
           git diff --staged --quiet || git commit -m "state + news_data güncelle"
           git pull --rebase || true
           git push
