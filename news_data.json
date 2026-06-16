@@ -1,5 +1,75 @@
 [
  {
+  "title": "TBMM'de Sayıştay Başkanlığı için iki adayı belirledi",
+  "link": "https://www.sozcu.com.tr/tbmm-de-sayistay-baskanligi-icin-iki-adayi-belirledi-p328518",
+  "source": "Sözcü",
+  "summary_tr": "TBMM Plan ve Bütçe Komisyonu Sayıştay Başkanlığı için mevcut başkan Metin Yener ile Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı müsteşarı olmak üzere iki adayı belirledi.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-16T17:01:19.850245+00:00",
+  "cluster_id": "c7160c0d089a3"
+ },
+ {
+  "title": "Exclusive: Binance set to lose permission to operate in EU, sources say",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdGE2UlVKWF90dTFvY0w1eDFlTEJMVFBYRnBULXB2d0NfajdKVllRS2dOLURKTVQ4M0RTOUFXTVFtaXU3R3ZXX2tMMXJLa0p1MlpQWVoybHY2VkVfZkItVHVIZnRzajF1N3lUVE83MWdwMFRGbWt4SGlzWXFibmZ0ZmQwWFRyYkEyRF9Kem5MZE85WXVvQ2VJbHotRy1BanZ4amFSdUE4ZnZzRHZsODJxT0JjaGRvQ0VJTnhQQTN0OTlsT0Q3SFE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Binance AB'de faaliyet gösterme izni kaybetmeye hazırlanıyor; kaynaklar bunu doğruladı.",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-16T17:01:19.850245+00:00",
+  "cluster_id": "cbc277ed9c611"
+ },
+ {
+  "title": "AP Türkiye Raportörü: 'Mevcut durumda müzakere yeniden başlayamaz'",
+  "link": "https://www.bbc.com/turkce/articles/clyer0d2mr5o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Avrupa Parlamentosu Türkiye Raporu taslağında sert eleştiriler yer alıyor; AP raportörü müzakere yeniden başlayamayacağını söyledi.",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-16T17:01:19.850245+00:00",
+  "cluster_id": "c05f260fac4ac"
+ },
+ {
+  "title": "Bakanlık duyurdu: Doruk Madencilik işçilerinin alacakları ödenecek, eylemler sonlandırılacak",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/bakanlik-duyurdu-doruk-madencilik-iscilerinin-alacaklari-odenecek-eylemler-sonlandirilacak-2512763",
+  "source": "Cumhuriyet",
+  "summary_tr": "Çalışma Bakanlığı Doruk Madencilik işçilerinin alacaklarının ödenmesine ilişkin takvim belirledi; eylemler sonlandırılacak.",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-06-16T17:01:19.850245+00:00",
+  "cluster_id": "cec998588ebe5"
+ },
+ {
+  "title": "Son dakika... Bakanlık açıkladı: Maden işçileriyle işveren uzlaştı",
+  "link": "https://www.sozcu.com.tr/son-dakika-bakanlik-acikladi-maden-iscileriyle-isveren-uzlasti-p328520",
+  "source": "Sözcü",
+  "summary_tr": "Çalışma Bakanlığı Doruk maden işçileri ile işveren arasında uzlaşı sağlandığını açıkladı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-16T17:01:19.850245+00:00",
+  "cluster_id": "c5ce5f49d3f73"
+ },
+ {
+  "title": "Kremlin: Putin, Dışişleri Bakanı Hakan Fidan ile yarın Tataristan'da görüşecek",
+  "link": "https://www.aa.com.tr/tr/dunya/kremlin-putin-disisleri-bakani-hakan-fidan-ile-yarin-tataristanda-gorusecek/3968978",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Kremlin, Putin'in yarın Tataristan'da Dışişleri Bakanı Hakan Fidan ile görüşeceğini açıkladı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-16T17:01:19.850245+00:00",
+  "cluster_id": "c0cfdf9ef871f"
+ },
+ {
+  "title": "Trump: Nükleer silah üretimine dönmesi halinde İran inanılmaz sonuçlarla karşılaşacak",
+  "link": "https://www.trthaber.com/haber/dunya/trump-nukleer-silah-uretimine-donmesi-halinde-iran-inanilmaz-sonuclarla-karsilasacak-948400.html",
+  "source": "TRT Haber",
+  "summary_tr": "Trump, İran nükleer silah üretime dönerse inanılmaz sonuçlarla karşılaşacağını uyardı.",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-16T17:01:19.850245+00:00",
+  "cluster_id": "cae08facddb8e"
+ },
+ {
   "title": "G7'de Rusya'ya baskıyı artırma mutabakatı sağlandı",
   "link": "https://www.dw.com/tr/g7-de-rusya-ya-baskıyı-artırma-mutabakatı-sağlandı/a-77580944?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
