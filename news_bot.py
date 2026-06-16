@@ -589,6 +589,10 @@ CIKAR (is_data=true) — su tur SAYISAL resmi veriler:
 - Enflasyon (TUFE/UFE), issizlik, buyume (GSYH), dis ticaret (ihracat/ithalat/denge), cari acik, butce gerceklesme/borc, sanayi/perakende/tarim-gida fiyat endeksleri, TCMB politika faizi/rezerv, OECD/Eurostat makro gostergeleri
 - Item'da SOMUT bir SAYI (oran/tutar/endeks puani) olmali. Sayi yoksa is_data=false.
 
+ONCELIK: TURKIYE gostergeleri (TUIK/TCMB/bakanliklar) en onemli. Yabanci (OECD/Eurostat/euro bolgesi) verisi de cikar ama sadece manset gosterge ise (euro bolgesi enflasyon/buyume/issizlik/ticaret dengesi gibi).
+
+TEKILLESTIR: Ayni temel yayini/rakami farkli baslik veya farkli kaynak tekrar ediyorsa (or. ayni donem ayni ticaret acigi rakami birkac kez) SADECE BIR KEZ cikar — en net/resmi olani sec. Ayni rakami farkli para biriminde (euro/dolar) tekrar verme; kaynaktaki ASIL birimi kullan.
+
 ELE (is_data=false):
 - Genel haber/yorum/duyuru/etkinlik, "aciklanacak/ele alinacak" gibi gelecek zamanli, sayisiz metinler
 
@@ -758,8 +762,25 @@ def _parse_num(s: str):
     return (val, is_pct)
 
 
+def _unit_class(s: str) -> str:
+    """Degerin birim sinifi — farkli birimleri kiyaslamayi engellemek icin."""
+    low = s.lower()
+    if "%" in s or "yuzde" in low or "yüzde" in low or "puan" in low:
+        return "pct"
+    if "$" in s or "dolar" in low or "usd" in low:
+        return "usd"
+    if "€" in s or "euro" in low or "avro" in low or "eur" in low:
+        return "eur"
+    if "₺" in s or "lira" in low or re.search(r"\btl\b", low):
+        return "try"
+    return "num"
+
+
 def compute_delta(old_s: str, new_s: str) -> str:
     """Iki deger arasindaki degisimi insan-okur ifadeye cevir; cozulemezse ''."""
+    # Farkli birim (euro vs dolar, oran vs tutar...) -> kiyas anlamsiz
+    if _unit_class(old_s) != _unit_class(new_s):
+        return ""
     o = _parse_num(old_s)
     n = _parse_num(new_s)
     if not o or not n:
@@ -784,8 +805,15 @@ def process_data_points(points, data_state):
     indicators = data_state.setdefault("indicators", {})
     now_iso = datetime.now(timezone.utc).isoformat()
     out = []
+    batch_sigs = set()   # ayni run icinde farkli kaynak/isimle gelen ayni rakam-donem -> tek mesaj
     for p in points:
         key = p["key"]
+        # Run-ici yakin-tekrar: ayni (donem, sayisal deger, birim) imzasi bir kez gecsin
+        parsed = _parse_num(p["value"])
+        sig = (p["period"], round(parsed[0], 2) if parsed else p["value"], _unit_class(p["value"]))
+        if sig in batch_sigs:
+            continue
+        batch_sigs.add(sig)
         store_key = ("fc:" + key) if p["is_forecast"] else key
         prev_stored = indicators.get(store_key)
         # Ayni deger + ayni donem zaten gonderildiyse atla
