@@ -1,5 +1,53 @@
 [
  {
+  "title": "US Senate narrowly blocks new bid to rein in Trump war powers",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ3BkOGFOZWprVXBFclU0NTlBdHVtaU02NWVuNlNKd2VpY2doVmt4czVBbzZCNGpFaU9saXozY1pDZnVmUE9RX1I1T0NzaHoxakxzajc4QW5nNVYtR3pBQl9yQVE4TUllc1NZUkZTOXROWGFtSlpEZDdzTW14SWpxUk1ETUpOVXpJRndqaHowVHpsdTRSTFF1TEk2TFJZbUk4YVF5VjFqc040bUxC?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Senatı, Trump'ın savaş yetkilerini kısıtlamaya yönelik yeni girişimi dar farkla engelledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-17T02:01:04.351724+00:00",
+  "type": "news",
+  "cluster_id": "c88d15f3e90a6"
+ },
+ {
+  "title": "All eyes turn to Fed chair Kevin Warsh and his first moves on interest rates",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM0dDTE8wWmtTSDZIRFI5V3BYcFl2UEN4a1JCc3NnX3dvZWZwVWxPRDdKTEl2VWZjdmU5Sk03TlJvclZKNFR4RURoMW5CdU9xSkFJOEZXM29NS2RsTDR2RHNibzNfYUlkTDlXR05hRWdiUVlrblFQcHlYT3ZWX1E5blVWNktnZmo2Zi1uRlgzTVFKbl91SERPYmtmdFNtQjFCdnFzTg?oc=5",
+  "source": "AP",
+  "summary_tr": "Yeni Fed Başkanı Kevin Warsh'ın ilk faiz kararları bekleniyor; piyasaların odağında.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-17T02:01:04.351724+00:00",
+  "type": "news",
+  "cluster_id": "cdda80104ce6a"
+ },
+ {
+  "title": "İl başkanları imzaları teslim edecek ama başkanların değişmesi gündemde: Gerilim tabana sıçrıyor",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/il-baskanlari-imzalari-teslim-edecek-ama-baskanlarin-degismesi-gundemde-gerilim-tabana-sicriyor-2512821",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP'de olağanüstü kurultay için 74 il başkanından imza toplanıyor; mahkeme kararıyla başkanların değişmesi gündemde.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-17T02:01:04.351724+00:00",
+  "type": "news",
+  "cluster_id": "ccaa1aab2ab37"
+ },
+ {
+  "title": "CHP’de kâr ve zarar hesabı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-de-kar-ve-zarar-hesabi-2512833",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Özgür Özel ekibi olağanüstü kurultay imzalarını genel merkeze sunacak; sürecin sonucu belirsiz.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-17T02:01:04.351724+00:00",
+  "type": "news",
+  "cluster_id": "ca3cb94c4b2a9"
+ },
+ {
   "title": "Beceriksizliğin ödülü 8 milyar TL",
   "link": "https://www.sozcu.com.tr/beceriksizligin-odulu-8-milyar-tl-p328587",
   "source": "Sözcü",
