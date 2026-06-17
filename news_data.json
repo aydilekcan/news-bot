@@ -1,5 +1,65 @@
 [
  {
+  "title": "Trump criticizes Israel's tactics in Lebanon, says it is killing civilians",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYVJHMDhXX2JXOXZyVDRCSTBWWXMtZElwSjNsV1RnRmxuT2xjNlpnUkJWbF9GQWhLY0RJM0dIMXNMQVE0c1VVU05GS0JaMzdreGlaX0VYdkgyYjZ0aEFZanoyYU00elZweE1wdzdsNTdFMUo4dllzWGYyWWZkM29HRlNReXdGRlNlaktlNUYwWFlPbGVCaTUxTVA5Wm9iU2VEelpHVmdBaXJqR2xFZzYzeEdqaEJFYXJYMlV2MTFHV0g?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, İsrail'in Lübnan'daki taktiklerini eleştirerek sivil kayıplardan bahsetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-17T04:01:02.354992+00:00",
+  "type": "news",
+  "cluster_id": "c6f855c2ff3b3"
+ },
+ {
+  "title": "Trump, BAE Devlet Başkanı Al Nahyan ile kameralar önünde dalga geçti",
+  "link": "https://www.sozcu.com.tr/trump-bae-devlet-baskani-al-nahyan-ile-kameralar-onunde-dalga-gecti-p328597",
+  "source": "Sözcü",
+  "summary_tr": "Trump, G7 Liderler Zirvesi'nde BAE Devlet Başkanı Al Nahyan ile kameralar önünde dalga geçti ve diplomatik protokolleri ihlal etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-17T04:01:02.354992+00:00",
+  "type": "news",
+  "cluster_id": "cbbd653e44588"
+ },
+ {
+  "title": "Oil slides on Iran supply prospects as traders wait on Warsh",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOU5DMTRIOHpLY0VUdlJ6RW1fcEhveWNmVmZaNFo0YkdfNmN0a0VZN1JHMDcxVFdlMl81aVpWQV8td2hxb1dZcldhVE5USmVqeEhDNDA4Yk5RSDBpWnBuN3FTblFLMUxEa3poLTZsR3pfMmNfUENaOVZDRjVFNGl5V0l6MA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Petrol fiyatları İran arz beklentileri nedeniyle düşüş gösterdi; yatırımcılar Warsh'ın açıklamalarını bekliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-17T04:01:02.354992+00:00",
+  "type": "news",
+  "cluster_id": "c7daa0f098706"
+ },
+ {
+  "title": "Hollanda'da \"Lahey'den Ankara Zirvesi'ne: Dönüşen Küresel Güvenlik Ortamında NATO'nun Geleceği\" paneli düzenlendi",
+  "link": "https://www.aa.com.tr/tr/gundem/hollandada-laheyden-ankara-zirvesine-donusen-kuresel-guvenlik-ortaminda-natonun-gelecegi-paneli-duzenlendi/3969199",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Lahey'de NATO Ankara Zirvesi'nin gündemi hakkında panel düzenlendi; küresel güvenlik ortamında NATO'nun geleceği tartışıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-17T04:01:02.354992+00:00",
+  "type": "news",
+  "cluster_id": "c8a4c0da969a3"
+ },
+ {
+  "title": "Ambani's Jio set to file for India IPO within days, FT reports",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZXYtOXk2SEhGS0djQ20ybkVfQzlvRVR4SzlFZ0JRc2hTZlZhWnB6S2gtc3VmQ1k0YzFpMVRaYjB6S2V3cTc3WDloUGowWEtnMk5tRjBPX1QxbzlKYXQzbUhRbllrX1dySFpVbmRWa0lnbFkwOW5SbjktUElZLWNXUFV3U3VuS3BVSHBJc1FkcTVuR0Y4TndrZGdsbndDbnNfYmN3?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ambani'nin Jio şirketi, günler içinde Hindistan'da halka arz başvurusunu yapacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-17T04:01:02.354992+00:00",
+  "type": "news",
+  "cluster_id": "cb337d93a2ce6"
+ },
+ {
   "title": "CHP'de kritik gün: Olağanüstü kurultay imzaları Kılıçdaroğlu'na sunuluyor",
   "link": "https://www.bbc.com/turkce/articles/cgevnnyxl84o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
