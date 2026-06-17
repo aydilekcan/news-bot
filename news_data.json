@@ -1,5 +1,65 @@
 [
  {
+  "title": "CHP'de delegeler \"kurultay\" istedi, Kılıçdaroğlu \"ihraç\" dedi",
+  "link": "https://www.dw.com/tr/chp-de-delegeler-kurultay-istedi-kılıçdaroğlu-ihraç-dedi/a-77584512?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "CHP'de olağanüstü kurultay için 833 delegenin imzası teslim edildi; Özel ve Kılıçdaroğlu arasında uzlaşma zor görülüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-17T16:01:16.850641+00:00",
+  "type": "news",
+  "cluster_id": "cc104f2436d9d"
+ },
+ {
+  "title": "CHP’ye olağanüstü kurultay talebiyle 833 delegenin imzaları teslim edildi: Şimdi ne olacak?",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbGpGdENHcUYxekNXcHp1Z2ZWYkc5TEc0ZDVEcWU2UUpiZXNDSkdUZnF4UGZHYl90cnRSdUJaS3pxS2VOR0VadUlZQWpvOGtyWEt6TXNaODVIUUxoN2dVRFFjc3BiY2tZcGlGbHpuX3FXbFpfVFZ2RU9wcFNxamdxd2VyT2xDX3BBWUJQa0RQYURWbkQ5aEJtUkphWmZyOWR5a2RjMHk0eEVoaW5VQnBvMEM2NDVIQXNTQXhuZERzVQ?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "CHP'de olağanüstü kurultay talebiyle 833 delegenin imzaları teslim edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-17T16:01:16.850641+00:00",
+  "type": "news",
+  "cluster_id": "caaacf2f01521"
+ },
+ {
+  "title": "AP'de kabul edilen Türkiye raporunda 'Mavi Vatan' ve 12 mil vurgusu",
+  "link": "https://www.bbc.com/turkce/articles/cgl3x8jx6yzo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Avrupa Parlamentosu, Türkiye'yi eleştiren raporu 381'e karşı 107 oyla kabul etti; rapor 'Mavi Vatan' ve 12 mil vurgusunu içeriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-17T16:01:16.850641+00:00",
+  "type": "news",
+  "cluster_id": "c66e4fc2feb26"
+ },
+ {
+  "title": "Dışişleri Bakanlığı'ndan Avrupa Parlamentosu raporuna sert tepki",
+  "link": "https://www.sozcu.com.tr/disisleri-bakanligi-ndan-avrupa-parlamentosu-raporuna-sert-tepki-p328844",
+  "source": "Sözcü",
+  "summary_tr": "Dışişleri Bakanlığı, Avrupa Parlamentosu'nun 2025 Türkiye Raporu'na sert tepki gösterdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-17T16:01:16.850641+00:00",
+  "type": "news",
+  "cluster_id": "ced014e7cf977"
+ },
+ {
+  "title": "Dışişleri Bakanlığından, Avrupa Parlamentosunun 2025 Yılı Türkiye Raporu'na tepki",
+  "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligindan-avrupa-parlamentosunun-2025-yili-turkiye-raporuna-tepki/3969971",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Dışişleri Bakanlığı, Avrupa Parlamentosu'nun 2025 Türkiye Raporu'na ülkeyi karşıtı çevreler tarafından hedef alındığını söyleyerek tepki gösterdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-17T16:01:16.850641+00:00",
+  "type": "news",
+  "cluster_id": "c32eaa881fa52"
+ },
+ {
   "title": "ABD'de 9 yıldır devam eden Halkbank davası düştü",
   "link": "https://www.bbc.com/turkce/articles/cd95lgjgl5lo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
