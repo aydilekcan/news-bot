@@ -1,5 +1,65 @@
 [
  {
+  "title": "Petrol ithalatı nisanda yüzde 12 azaldı",
+  "link": "https://www.trthaber.com/haber/ekonomi/petrol-ithalati-nisanda-yuzde-12-azaldi-948446.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye'nin petrol ithalatı nisanda geçen yılın aynı ayına göre %12,6 azalarak 3 milyon 757 bin 501 tona düştü.",
+  "metric": "Petrol ithalatı -12,6%",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-17T07:01:04.807421+00:00",
+  "type": "news",
+  "cluster_id": "cb5130fd03c03"
+ },
+ {
+  "title": "İngiltere'de yıllık enflasyon mayısta da değişmedi",
+  "link": "https://www.sozcu.com.tr/ingiltere-de-yillik-enflasyon-mayista-da-degismedi-p328648",
+  "source": "Sözcü",
+  "summary_tr": "İngiltere'de mayıs enflasyonu yıllık %2,8'de sabit kaldı.",
+  "metric": "Enflasyon (yıllık) %2,8 (değişim yok)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-17T07:01:04.807421+00:00",
+  "type": "news",
+  "cluster_id": "c14594aacb6f0"
+ },
+ {
+  "title": "Bakan Bayraktar, Türkiye'nin rekabetçi fiyatlarla güvenli nükleer teknolojiye sahip olmak istediğini bildirdi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-turkiyenin-rekabetci-fiyatlarla-guvenli-nukleer-teknolojiye-sahip-olmak-istedigini-bildirdi/3969279",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Bakan Bayraktar, Türkiye'nin rekabetçi fiyatlarla güvenli nükleer teknolojiye sahip olmak istediğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-17T07:01:04.807421+00:00",
+  "type": "news",
+  "cluster_id": "c92b636c46a62"
+ },
+ {
+  "title": "Bakan Bayraktar: Rekabetçi fiyatlarla güvenli nükleer teknolojiye sahip olmak istiyoruz",
+  "link": "https://www.trthaber.com/haber/ekonomi/bakan-bayraktar-rekabetci-fiyatlarla-guvenli-nukleer-teknolojiye-sahip-olmak-istiyoruz-948451.html",
+  "source": "TRT Haber",
+  "summary_tr": "Bakan Bayraktar, Türkiye'nin rekabetçi fiyatlarla güvenli nükleer santral istediğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-17T07:01:04.807421+00:00",
+  "type": "news",
+  "cluster_id": "c92b636c46a62"
+ },
+ {
+  "title": "Geniş tanımlı işsizlik oranı: %30'u aştı",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZS1yY1k0MHc4V0ZhVmpDcE00OVkwOWVxU2xMRndGdGJXcnFxWHJDcFl3THFxeDVfLVBjMXVZNXBiZVNHSU1jWlZ4U3hTMjVrTVdMT09KNlJFeVhpNUlCVXFTbXlSQ2FMUF84MHVYOXpJbk44cVNFVFBGdENCeEZjQzhnaFZtZy1ELUZZY3VXeVdQWmllVkZYMlJONlUzeTlNTXpfVVRPZVVBUFU?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%30'u aştı",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-06-17T07:01:04.807421+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Dollar on the defensive ahead of first Fed decision under Warsh",
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkJCUU94WGx5UkN1MWF6aFdac2FRV2c4NVd4WHVkTXE3clBpZzVpdndJQmVJTDd1RllVdGtwNDZtS0xoYVNmZFFqSHJhUlBYczQxMXZKZ2hvSGdPOExILURHT1R3UHdYY2VwZWxoUE9SN2U0OW8zTDNBUHRYWU5VVUhkZWVuTE83OHk3a09XMWt6SEpwRjZMRE1janN2SGV3Wi1JbjBlaEQ0cmdy?oc=5",
   "source": "Reuters",
