@@ -1,5 +1,65 @@
 [
  {
+  "title": "Trump: Tahran nükleer silaha sahip olamayacak",
+  "link": "https://www.trthaber.com/haber/dunya/trump-tahran-nukleer-silaha-sahip-olamayacak-948517.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Başkanı Trump, İran ile vardığı mutabakat çerçevesinde Tahran'ın nükleer silaha sahip olamayacağını vurguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-06-17T18:01:11.449518+00:00",
+  "type": "news",
+  "cluster_id": "c7f31f76227ee"
+ },
+ {
+  "title": "ABD-İran anlaşmasıyla açıklanan yeni detaylar neler?",
+  "link": "https://www.bbc.com/turkce/articles/cly0w9yy4jzo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD Başkanı Trump, İran ile vardığı mutabakat hakkında yeni detayları açıkladı. Trump, anlaşmanın şartlarını ve ABD'nin konuşlandıracağı yetkililer hakkında bilgi verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-17T18:01:11.449518+00:00",
+  "type": "news",
+  "cluster_id": "cb264c8429bdc"
+ },
+ {
+  "title": "BM'den Lübnan'da İsrail ihlalleri ve ateş açma olaylarının \"kademeli olarak\" arttığı uyarısı",
+  "link": "https://www.aa.com.tr/tr/dunya/bmden-lubnanda-israil-ihlalleri-ve-ates-acma-olaylarinin-kademeli-olarak-arttigi-uyarisi/3970129",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "BM, İsrail-Lübnan ateşkesine rağmen İsrail ordusunun Lübnan'a yönelik saldırı ve ihlallerinin kademeli olarak arttığını uyardı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-17T18:01:11.449518+00:00",
+  "type": "news",
+  "cluster_id": "c422fe787cb9a"
+ },
+ {
+  "title": "BM kurumları, kötüleşen açlık koşullarının 13 noktayı riske attığı konusunda uyardı",
+  "link": "https://www.aa.com.tr/tr/dunya/bm-kurumlari-kotulesen-aclik-kosullarinin-13-noktayi-riske-attigi-konusunda-uyardi/3970131",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "BM FAO ve WFP, 13 ülkede milyonlarca insanın kötüleşen açlık koşulları nedeniyle riske girdiğini uyardı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-17T18:01:11.449518+00:00",
+  "type": "news",
+  "cluster_id": "c8b6ba4ca13f4"
+ },
+ {
+  "title": "The Hormuz shock didn’t break Europe's gas market. Time might",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObWFGX1ZHbTNQWThvdDhONnI5RTI5R2kzVXpndWpEbG9ramxHN1VIX0NBbGRHWjBKZjMwY0g3MlNRTjlJZVZtSWNPTUtwb0pjaUNZUkZtR2ZYOTlxTlhkOXhvU28tNTBnTGNIRHpEaFlZQ0ltSWdyNDFNLUpvUXRpYlZxSkRmZExrYWJMUHZRM2s0QzlvZFlaNTRKdEJyRXl1X0s2eDF4a3lzdklVUENzdEZramVBUmNwWkpidFAxcFk?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Reuters analizi: Hormuz Boğazı şoku Avrupa gaz piyasasını kırmadı ancak zaman faktörü riski artıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-17T18:01:11.449518+00:00",
+  "type": "news",
+  "cluster_id": "c3b41b4a85eed"
+ },
+ {
   "title": "Son Dakika... Trump'tan 'İran'la anlaşma' çıkışı: '60 gün içinde tamamlanmazsa...'",
   "link": "https://www.cumhuriyet.com.tr/dunya/son-dakika-trump-tan-iran-la-anlasma-cikisi-60-gun-icinde-tamamlanmazsa-2513054",
   "source": "Cumhuriyet",
