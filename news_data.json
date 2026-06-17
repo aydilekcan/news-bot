@@ -1,5 +1,77 @@
 [
  {
+  "title": "Son Dakika... Fed, faiz kararını açıkladı",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/son-dakika-fed-faiz-kararini-acikladi-2513065",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD Merkez Bankası (Fed) politika faizini %3,5-3,75 aralığında sabit tuttu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-17T19:01:04.723415+00:00",
+  "type": "news",
+  "cluster_id": "c1a0ceabc59b1"
+ },
+ {
+  "title": "Son dakika... Fed haziran ayı faiz kararını açıkladı: Altın sert düştü",
+  "link": "https://www.sozcu.com.tr/son-dakika-fed-haziran-ayi-faiz-kararini-acikladi-p328864",
+  "source": "Sözcü",
+  "summary_tr": "Fed haziran ayında faiz oranını %3,5-3,75 aralığında sabit tuttu; altın fiyatları sert düşüş kaydetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-17T19:01:04.723415+00:00",
+  "type": "news",
+  "cluster_id": "c1a0ceabc59b1"
+ },
+ {
+  "title": "Fed faiz oranını sabit tuttu",
+  "link": "https://www.aa.com.tr/tr/ekonomi/fed-faiz-oranini-sabit-tuttu/3970140",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Merkez Bankası (Fed) politika faizini %3,5-3,75 aralığında sabit tuttu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-17T19:01:04.723415+00:00",
+  "type": "news",
+  "cluster_id": "c005852f255d9"
+ },
+ {
+  "title": "Fed beklendiği üzere faizi sabit bıraktı",
+  "link": "https://www.trthaber.com/haber/dunya/fed-beklendigi-uzere-faizi-sabit-birakti-948522.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Merkez Bankası politika faizini %3,5-3,75 aralığında sabit bıraktı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-17T19:01:04.723415+00:00",
+  "type": "news",
+  "cluster_id": "cb687e1d4ee7c"
+ },
+ {
+  "title": "ABD'li yetkili, ABD ile İran arasında varılan 14 maddelik mutabakatı ilk kez paylaştı",
+  "link": "https://www.aa.com.tr/tr/dunya/abdli-yetkili-abd-ile-iran-arasinda-varilan-14-maddelik-mutabakati-ilk-kez-paylasti/3970173",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD ile İran arasında 14 maddelik mutabakat imzalandı; 60 günlük müzakere süresi öngörülüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-17T19:01:04.723415+00:00",
+  "type": "news",
+  "cluster_id": "c456a97753782"
+ },
+ {
+  "title": "ABD basını, 14 maddelik ABDİran mutabakat metnini paylaştı",
+  "link": "https://www.trthaber.com/haber/dunya/abd-basini-14-maddelik-abd-iran-mutabakat-metnini-paylasti-948521.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD ile İran arasındaki 14 maddelik mutabakat metni yayınlandı; Hürmüz Boğazı ticarete açılacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-17T19:01:04.723415+00:00",
+  "type": "news",
+  "cluster_id": "c2e7153ef8314"
+ },
+ {
   "title": "Trump: Tahran nükleer silaha sahip olamayacak",
   "link": "https://www.trthaber.com/haber/dunya/trump-tahran-nukleer-silaha-sahip-olamayacak-948517.html",
   "source": "TRT Haber",
