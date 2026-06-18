@@ -1,5 +1,53 @@
 [
  {
+  "title": "US and Iran sign initial deal to end war, ease sanctions and open strait as nuclear talks continue",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzhJLTNmdndOU3pZcnk5NHo0eTlWSXd1OTNGenFWRDUxbGVuZnhXLUN4QWs4RTAwUEpvT0xtd29yZ1J3U1d5Q0hhWkpBZ2U3MGx5QkltNGl3SkdvRWY2aGU2dmZCMnZ0aU5Td0xidVZ4VHExdnBkQmJYeEhYUjFWTXUxMlJKaFVwcFJfNHI3eDJqcnYtX09wM09YcmN5U2JjbkE?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD ve İran, savaşı sona erdirme, yaptırımları hafifletme ve boğazı açma konularında ilk anlaşmaya imza attı. Nükleer görüşmeler devam etmektedir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-18T02:01:07.345218+00:00",
+  "type": "news",
+  "cluster_id": "cdaedb6250059"
+ },
+ {
+  "title": "AKP’den ‘komik’ tavuk operasyonu savunması: ‘Gıda enflasyonunun sorumlusu biz değiliz’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/akp-den-komik-tavuk-operasyonu-savunmasi-gida-enflasyonunun-sorumlusu-biz-degiliz-2513073",
+  "source": "Cumhuriyet",
+  "summary_tr": "AKP, gıda enflasyonuna yönelik tavuk operasyonunun sorumluluğunu reddetti. Beyaz et sektörüne operasyon sonrası yönetim kurullarındaki AKP'li isimleri tartışılmaktadır.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-18T02:01:07.345218+00:00",
+  "type": "news",
+  "cluster_id": "c51816bb941b6"
+ },
+ {
+  "title": "Doruk Madencilik işçileri, imzalanan protokol üzerine eylemlerini sonlandırdı: 23 Temmuz son tarih!",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/doruk-madencilik-iscileri-imzalanan-protokol-uzerine-eylemlerini-sonlandirdi-23-temmuz-son-tarih-2513072",
+  "source": "Cumhuriyet",
+  "summary_tr": "Doruk Madencilik işçileri, 23 Temmuz'a kadar alacaklarının tamamının ödeneceğine dair protokol imzalaması üzerine eylemlerini sonlandırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-18T02:01:07.345218+00:00",
+  "type": "news",
+  "cluster_id": "cc7834bf10e94"
+ },
+ {
+  "title": "İşsizlik oranı: %8,2",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLXFjdkF1WV9XdFlDMjNXczBTbWMwbnlROEdkazdKWEQ1UmtoYWJnM2Z0RzdfbnJzQVdyNHBnU0Vpa0ZYM0M3MGlrSWNfN0VteEJxcHRJSF9Ybk5mZEE4eWNJQVBWSktaSXhQbHBnRzc3YmtJY2ladmp0UVpPVTF0WVhtR3pHdw?oc=5",
+  "source": "TÜİK",
+  "summary_tr": "%8,2 → %8,2",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-06-18T02:01:07.345218+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Yürürlüğe giren ABD-İran anlaşmasında neler var?",
   "link": "https://www.bbc.com/turkce/articles/cly0w9yy4jzo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
