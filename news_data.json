@@ -1,5 +1,65 @@
 [
  {
+  "title": "ABD Başkanı Trump, İran ile mutabakat zaptını Versay'da imzaladı",
+  "link": "https://www.aa.com.tr/tr/live-blog/abd-baskani-trump-iran-ile-mutabakat-zaptini-versayda-imzaladi/4067",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, Versay Sarayı'nda Fransa Cumhurbaşkanı Macron'un katılımı altında ABD-İran mutabakat zaptını imzaladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-06-18T06:01:01.404152+00:00",
+  "type": "news",
+  "cluster_id": "c8c8fafee9fd9"
+ },
+ {
+  "title": "Resmi açıklama beklenmeden sızdı: İşte memur ve emeklinin yeni maaşı",
+  "link": "https://www.sozcu.com.tr/resmi-aciklama-beklenmeden-sizdi-iste-memur-ve-emeklinin-yeni-maasi-p328937",
+  "source": "Sözcü",
+  "summary_tr": "Temmuz ayı memur ve emekli maaşı zammı resmi açıklama öncesi sızdı; milyonlarca vatandaş yeni maaş rakamlarını öğrenme aradığında konuya ilgi gösterdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-18T06:01:01.404152+00:00",
+  "type": "news",
+  "cluster_id": "c4f3dcd4677f0"
+ },
+ {
+  "title": "Dışişleri Bakanı Fidan: İsrail’in saldırgan tavrı bütün dünyanın sorunu haline geldi",
+  "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-israil-in-saldirgan-tavri-butun-dunyanin-sorunu-haline-geldi/3970337",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Dışişleri Bakanı Fidan, İsrail'in saldırgan tavrının artık sadece Türkiye'nin değil tüm dünyanın sorunu haline geldiğini belirtti.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-18T06:01:01.404152+00:00",
+  "type": "news",
+  "cluster_id": "c71259079efe5"
+ },
+ {
+  "title": "Oil down 2% after US, Iran sign ceasefire agreement",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZU5Zdm80MlhXLVFYajFEdy1GcU9zNGNaa2FvM2ExTmZkZXJieS10V1ZjQ3NqTndMcG1hT1hpb0FGYTN5M1ZMY2VFRG9QNDZkVGhxVEJTcUVpakJGQWNtODJYOTJpSFJOM0hwN01DT21ZaUxKN2FBa2czX3ZFUHlTMXpuUnZpa1dNOFUtOXFFaUx1LTJwN1E?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD ile İran arasında ateşkes anlaşmasının imzalanmasının ardından petrol fiyatları %2 oranında düştü.",
+  "metric": "Petrol fiyatı -%2",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-18T06:01:01.404152+00:00",
+  "type": "news",
+  "cluster_id": "c810758b6bba1"
+ },
+ {
+  "title": "Asian stocks steady, oil lower as US and Iran sign peace deal",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQWc5blRuNGVXLWNEeGRWUHBJTi1tNG1oR2wzR3R0RXY1dWdVS3JVMmRRSlI0NEgwZUpVNTNLdUphd1Q4OGpXSmtSc0lwVmNONzFpYWZFVG05OFQ4Y1JtaVAyN0lCblhSVEUwZ2RDTUx4eTFzWl9SR1NVT1RvTGxwSTg0dw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Asya borsaları sabit kalırken, ABD-İran barış anlaşmasının ardından petrol fiyatları geriledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-18T06:01:01.404152+00:00",
+  "type": "news",
+  "cluster_id": "ce0c8950a5824"
+ },
+ {
   "title": "Tarihi imza böyle atıldı... Macron izlerken salondan alkış yükseldi...",
   "link": "https://www.sozcu.com.tr/tarihi-imza-boyle-atildi-macron-izlerken-salondan-alkis-yukseldi-p328914",
   "source": "Sözcü",
