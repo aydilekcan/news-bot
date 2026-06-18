@@ -1,5 +1,77 @@
 [
  {
+  "title": "Tarihi imza böyle atıldı... Macron izlerken salondan alkış yükseldi...",
+  "link": "https://www.sozcu.com.tr/tarihi-imza-boyle-atildi-macron-izlerken-salondan-alkis-yukseldi-p328914",
+  "source": "Sözcü",
+  "summary_tr": "ABD Başkanı Trump ve İran Cumhurbaşkanı Pezeşkiyan arasında imzalanan anlaşma küresel siyasette önemli bir gelişme teşkil ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-18T05:01:10.130194+00:00",
+  "type": "news",
+  "cluster_id": "c8e530be471ec"
+ },
+ {
+  "title": "Milli Güvenlik Kurulu toplanıyor",
+  "link": "https://www.trthaber.com/haber/gundem/milli-guvenlik-kurulu-toplaniyor-948549.html",
+  "source": "TRT Haber",
+  "summary_tr": "Cumhurbaşkanı Erdoğan başkanlığında Milli Güvenlik Kurulu toplanıyor; gündemi ABD-İran ilişkileri ve bölgesel güvenlik meselelerine odaklanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-18T05:01:10.130194+00:00",
+  "type": "news",
+  "cluster_id": "c57640815a671"
+ },
+ {
+  "title": "Gold climbs over 1% as oil drops on US-Iran interim deal",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa254NGd0TnM3NEliRVJYV2J3blZ4NzZ0b1dhMEMzSE9YWG9qQ2xmSzE3WHN1cEV1WXVrVGkzcUhFQVVnZXVtT2cyejY3UzdLM3JtRVlzaVpWNzNDZXdzOHlveGk3Wm13aXpaQVVTVnZYT0xZRmxHcXJtNTlsOEFYeXJaWEdKeHR0MWVnT3hJNkRYbFVCUEJEM0RCbjd6QQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Altın fiyatı %1'den fazla yükseldi; ABD-İran arasında geçici anlaşma sonrası petrol fiyatları düştü.",
+  "metric": "Altın >%1 yükseldi",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-18T05:01:10.130194+00:00",
+  "type": "news",
+  "cluster_id": "cfc406562442f"
+ },
+ {
+  "title": "Bodrum'a atanan kadın doktor, 500 bin TL kira istenince çadırda yaşamaya başladı",
+  "link": "https://www.sozcu.com.tr/bodrum-a-atanan-kadin-doktor-500-bin-tl-kira-istenince-cadirda-yasamaya-basladi-p328919",
+  "source": "Sözcü",
+  "summary_tr": "Bodrum'a atanan kadın doktor, 500 bin TL aylık kira talepleri nedeniyle çadırda yaşamaya başladı. Türkiye'deki artan kira fiyatlarını somut olarak yansıtıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-18T05:01:10.130194+00:00",
+  "type": "news",
+  "cluster_id": "c7939463ae2eb"
+ },
+ {
+  "title": "Taiwan needs US weapons for self-defense as threat from China grows, diplomat tells AP",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNXlQNjlmazB0SVA1UWJIaEVmbmZ0YWJNRml3MjZGOHhJdmNkQXZkaEcxbDRJUXNUM2k2VUpkOXdKQWlvRHhhYlZpOThsTDJIb1Z4bnkwS0JSLVZKT0NIS1poZ0NPQktOeHF4WkozT1E1cDZsNE1RdUZhNGVUendIRUtqZi15TFQ0cjNpNlViWl81R00?oc=5",
+  "source": "AP",
+  "summary_tr": "Tayvan diplomatı, Çin tehdidinin artması nedeniyle ABD'den silah desteğinin gerekli olduğunu ifade etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-18T05:01:10.130194+00:00",
+  "type": "news",
+  "cluster_id": "c47cc6954adb4"
+ },
+ {
+  "title": "Taiwan’s foreign minister says Chinese pressure on countries over the island is a ‘new normal’",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa0FsVEFJUW04MEd6bVVXMlpwQTlST0NQSS16M0hFOG9GS0N6Q1l1enE1allTVXZiWHRMRG5ncldWTFVValZQdUFBTmlfUDdVbXlfRDduTS1WNUpOcUppWUJ5eDhXWWFMSGpjYzRKSmtzSXlKMlpBNDNJNGxvemFhUlBjWl9aOVRYa2Ntb3VUaGc0dEFLT1lEUWlnNTFkNGZwbTN1eHI2VDI4dw?oc=5",
+  "source": "AP",
+  "summary_tr": "Tayvan Dışişleri Bakanı, Çin'in ülke üzerindeki baskısını 'yeni normal' olarak nitelendirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-18T05:01:10.130194+00:00",
+  "type": "news",
+  "cluster_id": "c9d923535648e"
+ },
+ {
   "title": "ABD-İran anlaşması neler içeriyor?",
   "link": "https://www.bbc.com/turkce/articles/cly0w9yy4jzo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
