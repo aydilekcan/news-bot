@@ -1,5 +1,77 @@
 [
  {
+  "title": "Ukrayna İHA'ları Moskova'yı vurdu: Rafineri alev aldı",
+  "link": "https://www.dw.com/tr/ukrayna-iha-ları-moskova-yı-vurdu-rafineri-alev-aldı/a-77608767?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Ukrayna Moskova'daki bir rafineride İHA saldırısı düzenledi ve yangın çıkardı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-18T14:01:25.794659+00:00",
+  "type": "news",
+  "cluster_id": "c20eb1078b8a9"
+ },
+ {
+  "title": "Ukrainian drones set a Moscow refinery ablaze in a major attack on the Russian capital",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObnJLLU9lQkl6M1NlTnlwMVNFYllySjZfU3FJdElaRTVZYjZqeUlnT0lQS2VPSGpJdW5sWktCTHF0NXJrRTVobFNvN01zREI5dDVlX0RtQmhnQ0FTWkFybXFGU1ZSMFRjRVNTXzlFdlRVRENZS3hoaHZPZmE4dHRNeTBVVVhpblVQczd2Q3JtYnQ4T1dZZ0NxWkd3d3dWdU9xM2N4QVRsemI?oc=5",
+  "source": "AP",
+  "summary_tr": "Ukrayna dronları Moskova'daki bir rafineride büyük bir saldırı gerçekleştirerek yangın çıkardı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-18T14:01:25.794659+00:00",
+  "type": "news",
+  "cluster_id": "c9728d921327a"
+ },
+ {
+  "title": "TBMM Genel Kurulu'nda gergin anlar: İYİ Parti ve DEM Parti arasında 'Öcalan' tartışması",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/tbmm-genel-kurulu-nda-gergin-anlar-iyi-parti-ve-dem-parti-arasinda-ocalan-tartismasi-2513297",
+  "source": "Cumhuriyet",
+  "summary_tr": "TBMM'de İYİ Parti ve DEM Parti milletvekilleri arasında terör ve barış konusunda gergin tartışma yaşandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-18T14:01:25.794659+00:00",
+  "type": "news",
+  "cluster_id": "cba208b35fe94"
+ },
+ {
+  "title": "İsviçre ekonomisine Orta Doğu darbesi! Büyüme beklentisi düşürüldü",
+  "link": "https://www.sozcu.com.tr/isvicre-ekonomisine-orta-dogu-darbesi-buyume-beklentisi-dusuruldu-p329130",
+  "source": "Sözcü",
+  "summary_tr": "İsviçre hükümeti, Orta Doğu krizinin küresel ekonomiyi yavaşlatması nedeniyle bu yıl büyüme beklentisini düşürdü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-18T14:01:25.794659+00:00",
+  "type": "news",
+  "cluster_id": "caa67dac5d9f4"
+ },
+ {
+  "title": "İsviçre Orta Doğu'daki kriz nedeniyle büyüme beklentisini yüzde 0,9'a çekti",
+  "link": "https://www.aa.com.tr/tr/ekonomi/isvicre-orta-dogudaki-kriz-nedeniyle-buyume-beklentisini-yuzde-0-9a-cekti/3971009",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsviçre hükümeti Orta Doğu krizinin etkisiyle 2024 büyüme beklentisini yüzde 0,9'a çekti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-18T14:01:25.794659+00:00",
+  "type": "news",
+  "cluster_id": "c2b1bfd60875d"
+ },
+ {
+  "title": "Ifo, Orta Doğu’daki çatışmaların ekonomik yansımaları nedeniyle Almanya için büyüme beklentisini düşürdü",
+  "link": "https://www.aa.com.tr/tr/ekonomi/ifo-orta-dogu-daki-catismalarin-ekonomik-yansimalari-nedeniyle-almanya-icin-buyume-beklentisini-dusurdu/3970947",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Almanya'nın Ifo Enstitüsü, Orta Doğu çatışmalarının ekonomik etkisi nedeniyle gelecek yıl büyüme tahminini düşürdü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-18T14:01:25.794659+00:00",
+  "type": "news",
+  "cluster_id": "ccc2a866cc8cc"
+ },
+ {
   "title": "Savaşın başından bu yana Ukrayna'dan Moskova'ya en büyük saldırı",
   "link": "https://www.bbc.com/turkce/articles/c4gyrzyqvj9o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
