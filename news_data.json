@@ -1,5 +1,53 @@
 [
  {
+  "title": "Trump, NATO Zirvesi'ni işaret ederek Türkiye'ye geleceğini duyurdu",
+  "link": "https://www.sozcu.com.tr/trump-turkiye-yi-ne-zaman-ziyaret-edecek-p329477",
+  "source": "Sözcü",
+  "summary_tr": "ABD Başkanı Trump, 7-8 Temmuz'da Ankara'da düzenlenecek NATO Zirvesi'ne katılacağını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-19T21:01:01.734414+00:00",
+  "type": "news",
+  "cluster_id": "cef11ad1245d9"
+ },
+ {
+  "title": "ABD Başkanı Trump, Türkiye’ye geleceğini söyledi",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-turkiye-ye-gelecegini-soyledi/3972617",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, 7-8 Temmuz'da Ankara'da yapılacak NATO Zirvesi'ne katılacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-19T21:01:01.734414+00:00",
+  "type": "news",
+  "cluster_id": "c090faf227e0c"
+ },
+ {
+  "title": "UNICEF: Gazze'de ateşkes ilan edildiğinden bu yana 265 çocuk öldürüldü",
+  "link": "https://www.trthaber.com/haber/dunya/unicef-gazzede-ateskes-ilan-edildiginden-bu-yana-265-cocuk-olduruldu-948767.html",
+  "source": "TRT Haber",
+  "summary_tr": "UNICEF: Gazze'de Ekim 2025'ten bu yana ateşkes ilan edilmesine rağmen 265 çocuk öldürüldü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-19T21:01:01.734414+00:00",
+  "type": "news",
+  "cluster_id": "cca8fb275b996"
+ },
+ {
+  "title": "Kanada konserve sebze ithalatına yüzde 10'luk ek vergi getirdi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/kanada-konserve-sebze-ithalatina-yuzde-10luk-ek-vergi-getirdi/3972578",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Kanada, konserve sebze ithalatına geçici olarak %10 ek vergi uygulamaya başladı.",
+  "metric": "Konserve sebze ithalatı vergisi: 0% -> %10",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-19T21:01:01.734414+00:00",
+  "type": "news",
+  "cluster_id": "c281945f3261e"
+ },
+ {
   "title": "Zelenski: Rusya tarafıyla müzakere turlarının yeniden başlayacağını düşünüyorum",
   "link": "https://www.trthaber.com/haber/dunya/zelenski-rusya-tarafiyla-muzakere-turlarinin-yeniden-baslayacagini-dusunuyorum-948766.html",
   "source": "TRT Haber",
