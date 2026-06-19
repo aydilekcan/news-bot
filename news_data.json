@@ -1,5 +1,77 @@
 [
  {
+  "title": "Kılıçdaroğlu bir yıl sonra ilk kez televizyona çıkıyor: İşte bilmeniz gerekenler",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaXphTFZxb2hUSTVRaGUtNGlidjY0NERPNFFQQjctV0l6YVRkX0xTSnhjYk8tSFZ1NHNQRllKb01MZC1XbVZpTlhxRGxMNzJOYW5qTmtwYndJU1czcGpkZGh2dmVaMVd1bmIxTmVMblVsWER2ZGx5aGVpeTFwSzhmMGJHYVRsMHIxc09mSjF5WHktdw?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Kılıçdaroğlu bir yıl aradan sonra ilk kez televizyona çıkıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-19T14:01:08.408464+00:00",
+  "type": "news",
+  "cluster_id": "cb7471f964fc1"
+ },
+ {
+  "title": "Pervin Buldan'dan 'çerçeve yasa' açıklaması: 'Meclis tatile girmeden çıkmasını önemsiyoruz'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/pervin-buldan-dan-cerceve-yasa-aciklamasi-meclis-tatile-girmeden-cikmasini-onemsiyoruz-2513601",
+  "source": "Cumhuriyet",
+  "summary_tr": "DEM Partili Pervin Buldan, 'çerçeve yasanın' TBMM tatile girmeden çıkarılmasının önemli olduğunu vurguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-19T14:01:08.408464+00:00",
+  "type": "news",
+  "cluster_id": "ca7ff4991de88"
+ },
+ {
+  "title": "Goldman Sachs'tan dikkat çeken Türkiye raporu: Yıl sonu enflasyon beklentisi yükseltildi",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/goldman-sachs-tan-dikkat-ceken-turkiye-raporu-yil-sonu-enflasyon-beklentisi-yukseltildi-2513594",
+  "source": "Cumhuriyet",
+  "summary_tr": "Goldman Sachs, Türkiye'nin yıl sonu enflasyon beklentisini yükseltti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-19T14:01:08.408464+00:00",
+  "type": "news",
+  "cluster_id": "ce4e875150518"
+ },
+ {
+  "title": "Rusya Merkez Bankası Başkanı Nabiullina'dan \"Faiz indirimleri yavaşlayabilir\" sinyali",
+  "link": "https://www.aa.com.tr/tr/ekonomi/rusya-merkez-bankasi-baskani-nabiullinadan-faiz-indirimleri-yavaslayabilir-sinyali/3972195",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Rusya Merkez Bankası Başkanı Nabiullina, enflasyonist risklerin arttığını ve faiz indirimlerinin yavaşlayabileceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-19T14:01:08.408464+00:00",
+  "type": "news",
+  "cluster_id": "c68d506ffcd41"
+ },
+ {
+  "title": "Bankada parası olanlar dikkat: Farkında olmadan her ay yüzlerce liranız eriyor",
+  "link": "https://www.sozcu.com.tr/bankada-parasi-olanlar-dikkat-farkinda-olmadan-her-ay-yuzlerce-liraniz-eriyor-p329435",
+  "source": "Sözcü",
+  "summary_tr": "Finans uzmanları, banka müşterilerinin birikim hesaplarında aylık yüzlerce lira kayıp yaşayabileceğini uyarıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-19T14:01:08.408464+00:00",
+  "type": "news",
+  "cluster_id": "cfd77b8d263c3"
+ },
+ {
+  "title": "Bakan Bayraktar, güneş enerjisinin Türkiye'deki toplam kapasitenin en büyük tekil kaynağı olacağını söyledi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-gunes-enerjisinin-turkiyedeki-toplam-kapasitenin-en-buyuk-tekil-kaynagi-olacagini-soyledi/3972170",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Enerji Bakanı Bayraktar, güneş enerjisinin yıl sonunda Türkiye'deki en büyük tekil enerji kaynağı olacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-19T14:01:08.408464+00:00",
+  "type": "news",
+  "cluster_id": "cdced42f1bb0b"
+ },
+ {
   "title": "Goldman Sachs Türkiye enflasyon tahminini yükseltti",
   "link": "https://www.sozcu.com.tr/goldman-sachs-turkiye-enflasyon-tahminini-yukseltti-p329423",
   "source": "Sözcü",
