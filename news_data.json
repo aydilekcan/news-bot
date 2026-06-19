@@ -1,5 +1,65 @@
 [
  {
+  "title": "BM: Hizbullah ile İsrail arasındaki ateşkes haberlerini memnuniyetle karşılıyoruz",
+  "link": "https://www.trthaber.com/haber/dunya/bm-hizbullah-ile-israil-arasindaki-ateskes-haberlerini-memnuniyetle-karsiliyoruz-948756.html",
+  "source": "TRT Haber",
+  "summary_tr": "İsrail ve Hizbullah arasında ateşkes anlaşması sağlandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-19T18:01:09.483558+00:00",
+  "type": "news",
+  "cluster_id": "cbb21ab761d17"
+ },
+ {
+  "title": "Israel and Hezbollah agree to halt fighting as talks between the US and Iran hang in the balance",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdDdtMWZ0SDdDbThCNEFjb2p2aE5QVFhETEFOT0RyUG9MaHlta2VNWWpjWE1sOFNEM3pYOE9NYkhRM2x3d0hnYzRQZ2F6eG5zSl9aZEpHd0xaRFR6LTFfNHFKdFBWVXdZSTNMMVZOY3RaZmVjRVZ0T0ZYVEZvWU8xZDBtdk5OMGpMaFhOR3RKU3MyUHFQU3NmMzluUFlFaDBD?oc=5",
+  "source": "AP",
+  "summary_tr": "İsrail ve Hizbullah arasında ateşkes anlaşması imzalandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-19T18:01:09.483558+00:00",
+  "type": "news",
+  "cluster_id": "c012f78fc5a93"
+ },
+ {
+  "title": "Iran says it will waive fees for Hormuz during 60 day negotiation period",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUXNFdk9kOGRINmxCdTJYVm9wX0p1NF9TUWF0NHJKX3V5UVB6am05Q2FMUG5DSWl0SVd6N2ttN3h6TG1paE83VFRZelhGcGZqcG1BZDQ3d2xxd3JwQWlURFl0Yl9KcFVNeWMxVkZySW5jRHItWDEtNXJGMFJ2d2c4TXB6ZUluZVY0bUhSaDloeEk2QTdZVDB5V0I1RWhWZVRpYVRqcGcxeHBPTC1IMlJNa3Y5bWlWTWlScnQ3NzNlOA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran, 60 günlük müzakere döneminde Hürmüz Boğazı geçiş ücreti almayacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-19T18:01:09.483558+00:00",
+  "type": "news",
+  "cluster_id": "cac8ba377fb3a"
+ },
+ {
+  "title": "US push to get Iran talks started hits an early bump. Vance stays at home, for now",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN3BNOERVVFFxUGJ3enFmQ3RqemY1dWVubjJHOVZHMFRfZXh4Q21BMmFkNGVrMk14YUM4bXhjb1dOdElOZ3k3dGRCcHBZZ3kzQ2VtVVllZ1RvZ1VqaE5ZdUlVcllXd05JN1dZWHNnMk9yeVZqS05WLXZsaWk5cEVyV21KR0N4d3hvR3E4UklDQUFoUQ?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD-İran müzakereleri başlamadan erkenden engelle ile karşı karşıya kaldı; ABD Dışişleri Danışmanı Vance şimdilik evinde kalacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-19T18:01:09.483558+00:00",
+  "type": "news",
+  "cluster_id": "c5174b2cd44c0"
+ },
+ {
+  "title": "Beş aylık bütçe açığı: >1 trilyon TL (İlk beş ay)",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLXNhb1Z5UFFhYzN3XzNyRHdQbGJVTjFTeUtoUFF4X3VHSDRPY3BDZ1dQcVF5R3FsWTZMT3NFWkpoVmx2QzRnOFBlbDhTZWpCT09ITE9qTzI4UHBnWFJfNnA4WjNGVmdQWVp6cTRJZlQwQ2UtQzZYUklDRFV3ZnBRNVRWeXlDQdIBiwFBVV95cUxNLVhjRTNTM05XNVdleVhoWmtwdFpZUHZpb28tTVBscmZLZnFxS3BCMmxnaGNfSG5BaFBWU3Y5Vmw2cWtYNzNWV24wV2FoNk5Ia3JfQmVmc1FpSUd4a3BqNmFDYW1oeFlkZE5URVFReGxDZzhhUTVxT0g0Qzd0NzViSFJvQTAxMXRIbEpz?oc=5",
+  "source": "Hazine ve Maliye Bakanlığı",
+  "summary_tr": ">1 trilyon TL",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-06-19T18:01:09.483558+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "İsrail ve Hizbullah ateşkeste uzlaştı",
   "link": "https://www.bbc.com/turkce/articles/ce8k0znpgd3o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
