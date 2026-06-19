@@ -1,5 +1,65 @@
 [
  {
+  "title": "Son dakika… 'Kılıçlı yemin' nedeniyle ihraç edilen komutanlar için görev iadesi kararı!",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-kilicli-yemin-nedeniyle-ihrac-edilen-komutanlar-icin-gorev-iadesi-karari-2513638",
+  "source": "Cumhuriyet",
+  "summary_tr": "TSK tarafından 'Kılıçlı yemin' nedeniyle ihraç edilen teğmenler için görev iadesi kararı alındı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-19T16:01:12.768422+00:00",
+  "type": "news",
+  "cluster_id": "ca321d77ade40"
+ },
+ {
+  "title": "'Kılıçlı yemin' sonrası ihraç edilen Halit Türkoğlu için göreve iade kararı",
+  "link": "https://www.sozcu.com.tr/kilicli-yemin-sonrasi-ihrac-edilen-3-komutan-yeniden-gorevde-p329458",
+  "source": "Sözcü",
+  "summary_tr": "Kara Harp Okulu mezuniyet töreninde 'Mustafa Kemal'in askerleriyiz' söylemi nedeniyle TSK'den ihraç edilen Halit Türkoğlu için göreve iade kararı verildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-19T16:01:12.768422+00:00",
+  "type": "news",
+  "cluster_id": "ca321d77ade40"
+ },
+ {
+  "title": "LGBTİ+ örgütlerinin ve hak savunucularının X hesaplarına erişim engeli",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/lgbti-orgutlerinin-ve-hak-savunucularinin-x-hesaplarina-erisim-engeli-2513632",
+  "source": "Cumhuriyet",
+  "summary_tr": "Türkiye'de çok sayıda LGBTİ+ derneği ve sivil toplum örgütünün X hesaplarına erişim engellendi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-19T16:01:12.768422+00:00",
+  "type": "news",
+  "cluster_id": "c79a09afba0c9"
+ },
+ {
+  "title": "İsrail güçleri, Batı Şeria'da yasa dışı yerleşimleri protesto eden Filistinlilere saldırdı",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-gucleri-bati-seriada-yasa-disi-yerlesimleri-protesto-eden-filistinlilere-saldirdi-/3972373",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail askerleri, Batı Şeria'da yasa dışı yerleşimleri protesto eden Filistinlilere saldırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-19T16:01:12.768422+00:00",
+  "type": "news",
+  "cluster_id": "cccd321a5c65a"
+ },
+ {
+  "title": "Kassam Tugayları: İsrail diğer alanlardaki başarısızlığını Lübnan'da telafi etmeye çalıştı",
+  "link": "https://www.trthaber.com/haber/dunya/kassam-tugaylari-israil-diger-alanlardaki-basarisizligini-lubnanda-telafi-etmeye-calisti-948746.html",
+  "source": "TRT Haber",
+  "summary_tr": "Hamas'ın Kassam Tugayları sözcüsü, İsrail'in Lübnan'a yönelik saldırılarını başarısızlık telafisi olarak değerlendirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-19T16:01:12.768422+00:00",
+  "type": "news",
+  "cluster_id": "c30afc3733b52"
+ },
+ {
   "title": "Bolu Belediye Başkanı Tanju Özcan CHP'den istifa etti",
   "link": "https://www.dw.com/tr/bolu-belediye-başkanı-tanju-özcan-chp-den-istifa-etti/a-77630003?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
