@@ -1,5 +1,53 @@
 [
  {
+  "title": "Bolu Belediye Başkanı Tanju Özcan CHP'den istifa etti",
+  "link": "https://www.dw.com/tr/bolu-belediye-başkanı-tanju-özcan-chp-den-istifa-etti/a-77630003?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "CHP'nin yeni yönetimi tarafından kesin ihraç talebiyle disipline sevk edilen Bolu Belediye Başkanı Tanju Özcan, CHP üyeliğinden istifa etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-19T15:01:06.776684+00:00",
+  "type": "news",
+  "cluster_id": "c0a3d504eca81"
+ },
+ {
+  "title": "Erkan Baş'tan Genel Kurul'daki 'yoklama' skandalına sert tepki: 'Kanun oylamasına gelip oy bile kullanmayacaksanız, istifa edin'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/erkan-bas-tan-genel-kurul-daki-yoklama-skandalina-sert-tepki-kanun-oylamasina-gelip-oy-bile-kullanmayacaksaniz-istifa-edin-2513623",
+  "source": "Cumhuriyet",
+  "summary_tr": "TİP Genel Başkanı Erkan Baş, Suudi Arabistan enerji anlaşmasının oylaması sırasında yaşanan yoklama tartışmasına sert tepki gösterdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-19T15:01:06.776684+00:00",
+  "type": "news",
+  "cluster_id": "cf1fe694a858c"
+ },
+ {
+  "title": "İran: İsviçre'deki görüşmeler \"daha sonraki bir tarihe\" ertelendi",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-isvicredeki-gorusmeler-daha-sonraki-bir-tarihe-ertelendi/3972302",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran, İsviçre'de yapılması planlanan İran-ABD müzakerelerinin daha sonraki bir tarihe erteleneceğini bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-19T15:01:06.776684+00:00",
+  "type": "news",
+  "cluster_id": "c7d409cf69567"
+ },
+ {
+  "title": "Altının kilogram fiyatı 6,3 milyon liraya geriledi",
+  "link": "https://www.trthaber.com/haber/ekonomi/altinin-kilogram-fiyati-63-milyon-liraya-geriledi-948741.html",
+  "source": "TRT Haber",
+  "summary_tr": "Borsa İstanbul'da KMKTP standart altının kilogram fiyatı 6,3 milyon liraya geriledi.",
+  "metric": "Altın (kg) 6.5+ milyon TL -> 6,3 milyon TL (düşüş)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-19T15:01:06.776684+00:00",
+  "type": "news",
+  "cluster_id": "cee694a046f89"
+ },
+ {
   "title": "Kılıçdaroğlu bir yıl sonra ilk kez televizyona çıkıyor: İşte bilmeniz gerekenler",
   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaXphTFZxb2hUSTVRaGUtNGlidjY0NERPNFFQQjctV0l6YVRkX0xTSnhjYk8tSFZ1NHNQRllKb01MZC1XbVZpTlhxRGxMNzJOYW5qTmtwYndJU1czcGpkZGh2dmVaMVd1bmIxTmVMblVsWER2ZGx5aGVpeTFwSzhmMGJHYVRsMHIxc09mSjF5WHktdw?oc=5",
   "source": "Medyascope",
