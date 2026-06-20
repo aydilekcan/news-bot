@@ -1,5 +1,41 @@
 [
  {
+  "title": "Ukraine's Zelenskiy confirms drone strike on refining facilities in Russia's Tyumen region",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYkZCVmhQT0VCLVhFWTMwWFpwd1E2R0NvNmgyLUU0S0pvOE51YTFNNVlhdnprZmxhWmE2dmoyZ3JNMVFOMHlfWm9ybEZBQVNvcXU4elozMGhwVzZOT1dId3ZDNGpTNC1nZUQ2SjdvRTAycXFXeGpwdGc4LXNkTXAwYXFfd3IzWWdJeERUY0xvZXhObEhXczdCcmYxOVFzZVpxa0hlX3U0MXlwc0FKSHJXZUlZSHRzTGJsa2hIRXNMWXg4WUZHR3c?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Zelenskiy, Rusya'nın Tyumen bölgesindeki rafineri tesislerine İnsansız hava aracı saldırısı düzenlediğini doğruladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-20T21:01:04.422185+00:00",
+  "type": "news",
+  "cluster_id": "c5f3308eedb35"
+ },
+ {
+  "title": "Trump: 'Hürmüz Boğazı'nda 60 gün boyunca geçiş ücreti alınmayacak'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/trump-hurmuz-bogazi-nda-60-gun-boyunca-gecis-ucreti-alinmayacak-2513975",
+  "source": "Cumhuriyet",
+  "summary_tr": "Trump, Hürmüz Boğazı'ndan geçişlere 60 gün boyunca ücret alınmayacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-20T21:01:04.422185+00:00",
+  "type": "news",
+  "cluster_id": "c027f191e8a63"
+ },
+ {
+  "title": "Trump: 60 günlük ateşkes süresi boyunca Hürmüz Boğazı'nda geçiş ücreti olmayacak",
+  "link": "https://www.trthaber.com/haber/dunya/trump-60-gunluk-ateskes-suresi-boyunca-hurmuz-bogazinda-gecis-ucreti-olmayacak-948855.html",
+  "source": "TRT Haber",
+  "summary_tr": "Trump, 60 günlük ateşkes süresi boyunca Hürmüz Boğazı'ndan geçiş ücreti alınmayacağını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-20T21:01:04.422185+00:00",
+  "type": "news",
+  "cluster_id": "c027f191e8a63"
+ },
+ {
   "title": "İsrail ordusu: Lübnan'da işgal altındaki bölgeler dışında saldırıları durdurma talimatı aldık",
   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-lubnanda-isgal-altindaki-bolgeler-disinda-saldirilari-durdurma-talimati-aldik-/3973294",
   "source": "Anadolu Ajansı",
