@@ -1,5 +1,77 @@
 [
  {
+  "title": "İsrailli yetkili, Hizbullah'tan karşılık gelmesi halinde İsrail ordusunun şiddetle saldıracağı tehdidinde bulundu",
+  "link": "https://www.aa.com.tr/tr/dunya/israilli-yetkili-hizbullahtan-karsilik-gelmesi-halinde-israil-ordusunun-siddetle-saldiracagi-tehdidinde-bulundu/3973247",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail Hizbullah'ın karşılık gelmesi halinde şiddetle saldıracağını tehdid etti.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-06-20T17:01:10.188329+00:00",
+  "type": "news",
+  "cluster_id": "cd2476eef70c9"
+ },
+ {
+  "title": "İsrail basını: Netanyahu, Lübnana yönelik saldırıları durdurma talimatı verdi",
+  "link": "https://www.trthaber.com/haber/dunya/israil-basini-netanyahu-lubnana-yonelik-saldirilari-durdurma-talimati-verdi-948843.html",
+  "source": "TRT Haber",
+  "summary_tr": "İsrail basınına göre Netanyahu, İsrail ordusuna ateşkese rağmen devam eden Lübnan güneyine saldırıları durdurma talimatı verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-20T17:01:10.188329+00:00",
+  "type": "news",
+  "cluster_id": "c107a33cc1718"
+ },
+ {
+  "title": "Kolombiya lideri Petro'dan Trump'a \"İsrail'in Lübnan'a saldırılarını durdurun\" çağrısı",
+  "link": "https://www.aa.com.tr/tr/dunya/kolombiya-lideri-petrodan-trumpa-israilin-lubnana-saldirilarini-durdurun-cagrisi/3973240",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Kolombiya Lideri Petro, ABD Başkanı Trump'tan İsrail'in Lübnan saldırılarını durdurması çağrısında bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-20T17:01:10.188329+00:00",
+  "type": "news",
+  "cluster_id": "ce9fb9f08710d"
+ },
+ {
+  "title": "Petro'dan Trump'a 'İsrail'in Lübnan'a saldırılarını durdurun' çağrısı",
+  "link": "https://www.trthaber.com/haber/dunya/petrodan-trumpa-israilin-lubnana-saldirilarini-durdurun-cagrisi-948846.html",
+  "source": "TRT Haber",
+  "summary_tr": "Kolombiya Cumhurbaşkanı Petro, Trump'tan ateşkese rağmen devam eden İsrail'in Lübnan saldırılarını durdurması çağrısında bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-20T17:01:10.188329+00:00",
+  "type": "news",
+  "cluster_id": "ce9fb9f08710d"
+ },
+ {
+  "title": "Hizbullah: İsrail, ateşkes ihlalinden bizi sorumlu tutarak saldırılarını haklı çıkarmaya çalışıyor",
+  "link": "https://www.trthaber.com/haber/dunya/hizbullah-israil-ateskes-ihlalinden-bizi-sorumlu-tutarak-saldirilarini-hakli-cikarmaya-calisiyor-948845.html",
+  "source": "TRT Haber",
+  "summary_tr": "Hizbullah, İsrail'in ateşkes ihlalini Hizbullah'a atfetme iddialarını reddetti ve sivillere karşı saldırıları kınandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-20T17:01:10.188329+00:00",
+  "type": "news",
+  "cluster_id": "c090279214b4b"
+ },
+ {
+  "title": "Filistin ve Lübnan'a saldırılarını sürdüren İsrail, İsveç'te protesto edildi",
+  "link": "https://www.aa.com.tr/tr/dunya/filistin-ve-lubnana-saldirilarini-surduren-israil-isvecte-protesto-edildi/3973081",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsveç'te İsrail'in Gazze ve Lübnan'a yönelik saldırıları protesto edildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-20T17:01:10.188329+00:00",
+  "type": "news",
+  "cluster_id": "c5c2ddac8b51c"
+ },
+ {
   "title": "US-Iran talks to begin Sunday in Switzerland as Tehran closes the strait over Lebanon fighting",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZU83bXR0RDhtTHExa0dVVFJOTWlvNS1DMVM0WUdqX0JyNWQ0RnRTcUNzQlkzR2xtWDdnTVA0NEt3NDVMZXBZcl83X2lEVU9jRktXNlc4SjhKMWMxRUZidDJvdDBreDZLbmpsRklMU01GNkJiYVJVWnhyZnlzUkFhYzY1VFdtUjRUbTh6aHlCVkFQUGttSU44TDBWVDZZTlRJbUhTY3JzRHA?oc=5",
   "source": "AP",
