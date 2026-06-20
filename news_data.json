@@ -1,5 +1,53 @@
 [
  {
+  "title": "Drone attack on Panama-flagged ship in Black Sea kills 1, injures 2",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORkFtNXVWWktoZ2ttbjhibUM2ZUVLQlVBZURYLUhTaV9WV0ZvNG1Zem9TZ296di1lbExEUF82Mnp5bG9adVg1MTlqZ3p2TTN5UzNvWW00SzNvZU5FRW5ad3Z3elBPRURWeHh5RUpBZHBheHg2aDVhVUFMSFpuUjVRZXNXVDJXRjZXN0c5SnBYYTh3enRPcU8zbXdBTDZmYnVUaDBMYW0wX0gxbWxGSEtPeg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Kara Deniz'de Panama bayraklı gemi üzerine insansız hava aracı saldırısı düzenlendi; 1 ölü, 2 yaralı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-20T06:01:04.351849+00:00",
+  "type": "news",
+  "cluster_id": "c734a28ac3a92"
+ },
+ {
+  "title": "Üretilmemiş elektrik için yandaş şirketlere 'teşvik': '5 şirkete 559 milyon dolar ödeme'",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV0VSbHpLdzBpNFZ2SDhGN1otemc3WnZJTUt6Z2FrZWI0WlRUcHBMdU9kVkpCM2R0VkNRQjlMaE55ODVlS2F3bTRBbU9xbHBuTmVoQU9aeW9maUhSRDlaMDNIZUJvOUduRFBfRXNpMlVmMHVrdk9LbGE0TWF4NWhpdjhzaTVxN3VVYjBSMG5RN2w3R1VQRXpSMHFNZWhLSkcyMURPNWJkN20xRnNCbGJ1SHB4dl9TdDJLTlUyZDFB?oc=5",
+  "source": "soL",
+  "summary_tr": "Yapılandırılan haber: 5 şirkete üretilmemiş elektrik için 559 milyon dolar teşvik/ödeme yapıldığı iddia ediliyor.",
+  "metric": "[elektrik teşviki] 559 milyon dolar",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-20T06:01:04.351849+00:00",
+  "type": "news",
+  "cluster_id": "cb2d795bd8c14"
+ },
+ {
+  "title": "Trump envoy, Iranian minister head to Switzerland for talks",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMmZyRmRQdUo5dlpLWnZaTEVkV2JBOXpMS2hNTEg1LVN6YzN2VjNlMXZkNXlNdVY4bWhaMG0wd1JtVWtmV1BNbXk5UjNHODNLT3ZJZUNfcmFZSmVvWkRfQ2J2eHNoZGRiWUpwbGZBT04zbjBILVZoV21rUC1VU2pWeENyaDJNRGMtY2otYWV5eG1fdjc3RFhFNmNCQzkyTWJLRVhVbjhFZWhfQQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump'ın temsilcisi ve İran Dışişleri Bakanı İsviçre'de müzakere için bir araya geliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-20T06:01:04.351849+00:00",
+  "type": "news",
+  "cluster_id": "c970e4e12002f"
+ },
+ {
+  "title": "Milyonlarca araca af yolda: Şartları sağlayanın borcu sıfırlanacak",
+  "link": "https://www.sozcu.com.tr/milyonlarca-araca-af-yolda-sartlari-saglayanin-borcu-sifirlanacak-p329534",
+  "source": "Sözcü",
+  "summary_tr": "Uzun süredir muayenesi ve sigortası olmayan eski araçların trafik tescil kayıtlarında af uygulanması planlanıyor; şartları sağlayanların borcu sıfırlanacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-20T06:01:04.351849+00:00",
+  "type": "news",
+  "cluster_id": "c7ebb368782c1"
+ },
+ {
   "title": "Memur ve emekliyi bekleyen Temmuz kâbusu",
   "link": "https://www.sozcu.com.tr/memur-ve-emekliyi-bekleyen-temmuz-kabusu-p329522",
   "source": "Sözcü",
