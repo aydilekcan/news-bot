@@ -1,5 +1,53 @@
 [
  {
+  "title": "Kozan pazarındaki esnaf: '7 liralık yumurta için pazarlık yapıyorlar'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/kozan-pazarindaki-esnaf-7-liralik-yumurta-icin-pazarlik-yapiyorlar-2514060",
+  "source": "Cumhuriyet",
+  "summary_tr": "Adana Kozan pazarında yumurta fiyatı 7 liraya yükselmiş, vatandaşlar pahalılıktan şikayetçi.",
+  "metric": "Yumurta fiyatı: 7 TL",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-21T10:01:13.656531+00:00",
+  "type": "news",
+  "cluster_id": "c038cbe796aa2"
+ },
+ {
+  "title": "İran Cumhurbaşkanı Pezeşkiyan: Katar'da bloke edilen 6 milyar dolarımız geri dönecek",
+  "link": "https://www.trthaber.com/haber/dunya/iran-cumhurbaskani-pezeskiyan-katarda-bloke-edilen-6-milyar-dolarimiz-geri-donecek-948881.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Cumhurbaşkanı Pezeşkiyan, Katar'da bloke edilen 6 milyar dolarının geri döneceğini açıkladı.",
+  "metric": "Bloke edilen para: 6 milyar dolar",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-21T10:01:13.656531+00:00",
+  "type": "news",
+  "cluster_id": "c8df560971cef"
+ },
+ {
+  "title": "Piyasalar alev aldı: Altın, gümüş ve platin çakıldı, dolar yükseldi",
+  "link": "https://www.sozcu.com.tr/piyasalar-alev-aldi-altin-gumus-ve-platin-cakildi-dolar-yukseldi-p329815",
+  "source": "Sözcü",
+  "summary_tr": "Emtia piyasalarında altın, gümüş ve platinin düştüğü, dolar yükselişinin kaydedildiği belirtiliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-21T10:01:13.656531+00:00",
+  "type": "news",
+  "cluster_id": "c4a757dbbe75d"
+ },
+ {
+  "title": "Halkalı-Arnavutköy Metro Hattı bir günde 10 binden fazla yolcuya hizmet verdi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/halkali-arnavutkoy-metro-hatti-bir-gunde-10-binden-fazla-yolcuya-hizmet-verdi-/3973540",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Halkalı-Arnavutköy Metro Hattı ilk gününde 10 bin 21 yolcuya hizmet verdi.",
+  "metric": "İlk gün yolcu: 10.021",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-21T10:01:13.656531+00:00",
+  "type": "news",
+  "cluster_id": "c751faf225bfd"
+ },
+ {
   "title": "İsviçre'de​ yapılan kritik ABD-İran müzakerelerinin gündeminde ne var?",
   "link": "https://www.dw.com/tr/isviçre-de​-yapılan-kritik-abd-iran-müzakerelerinin-gündeminde-ne-var/a-77643379?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
