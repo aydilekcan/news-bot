@@ -1,5 +1,77 @@
 [
  {
+  "title": "Trump’tan İran’a Hürmüz Boğazı tehdidi: Boğazı kapatırsanız ülkeniz kalmaz",
+  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-iran-a-hurmuz-bogazi-tehdidi-bogazi-kapatirsaniz-ulkeniz-kalmaz-2514115",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD Başkanı Trump, İran'ın Hürmüz Boğazı'nı kapatması halinde İran'ın yok edileceğini söyledi. İsviçre'de devam eden ABD-İran müzakereleri sırasında yapılan açıklama.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-21T14:01:09.295388+00:00",
+  "type": "news",
+  "cluster_id": "c00fde594e465"
+ },
+ {
+  "title": "ABD ve İran’dan tarihi temas: Gözler İsviçre’deki barış masasında",
+  "link": "https://www.cumhuriyet.com.tr/dunya/abd-ve-iran-dan-tarihi-temas-gozler-isvicre-deki-baris-masasinda-2514112",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD ve İran heyetleri İsviçre'de doğrudan görüşmelere başladı. Savasında sona erdirmeye yönelik ön anlaşmanın ardından 60 gün içinde müzakereler sürecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-21T14:01:09.295388+00:00",
+  "type": "news",
+  "cluster_id": "c42baba3795a8"
+ },
+ {
+  "title": "Trump müzakere heyetini tehdit etti: 'Hürmüz'ü kapatırsanız İran'ı yok ederiz'",
+  "link": "https://www.sozcu.com.tr/trump-yine-tehdit-etti-hurmuz-u-kapatirsaniz-iran-i-yok-ederiz-p329869",
+  "source": "Sözcü",
+  "summary_tr": "ABD Başkanı Trump, İran müzakere heyetini tehdit ederek Hürmüz Boğazı'nı kapatırlarsa İran'ı yok edeceklerini söyledi. İsviçre'de devam eden barış görüşmelerine gölge düştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-21T14:01:09.295388+00:00",
+  "type": "news",
+  "cluster_id": "c08508d445266"
+ },
+ {
+  "title": "ABD Başkanı Trump'tan İran'a \"Hürmüz Boğazı'nı kapatmayın\" uyarısı",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trumptan-irana-hurmuz-bogazini-kapatmayin-uyarisi/3973728",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, Hürmüz Boğazı'nı kapatmadıkça İran'a ağır sonuçlar çekileceğini uyardı. İran yetkilileriyle temasa geçtiğini belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-21T14:01:09.295388+00:00",
+  "type": "news",
+  "cluster_id": "c24ae4606f125"
+ },
+ {
+  "title": "İsviçre'de diplomasi masası sarsılıyor: Görüşmeler sürerken Lübnan'a saldırı!",
+  "link": "https://www.sozcu.com.tr/isvicre-de-diplomasi-masasi-sarsiliyor-gorusmeler-surerken-lubnan-a-saldiri-p329864",
+  "source": "Sözcü",
+  "summary_tr": "İsviçre'deki ABD-İran zirvesi devam ederken, İsrail Lübnan'a saldırıyla ilgili sert açıklamalar yaptı. Diplomasi masası gerginlik yaşadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-21T14:01:09.295388+00:00",
+  "type": "news",
+  "cluster_id": "c037d93fb19f8"
+ },
+ {
+  "title": "Türkiye dahil 4 ülkenin bakanları ABDİran mutabakatını memnuniyetle karşıladı",
+  "link": "https://www.trthaber.com/haber/gundem/turkiye-dahil-4-ulkenin-bakanlari-abd-iran-mutabakatini-memnuniyetle-karsiladi-948892.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye, Pakistan, Mısır ve Suudi Arabistan dışişleri bakanları, 18 Haziran'da varılan ABD-İran mutabakatını memnuniyetle karşıladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-21T14:01:09.295388+00:00",
+  "type": "news",
+  "cluster_id": "c9190d4c5fae7"
+ },
+ {
   "title": "İran'ın nükleer programı sona eriyor, Hürmüz Boğazı açılıyor",
   "link": "https://www.trthaber.com/haber/dunya/iranin-nukleer-programi-sona-eriyor-hurmuz-bogazi-aciliyor-948890.html",
   "source": "TRT Haber",
