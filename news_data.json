@@ -1,5 +1,53 @@
 [
  {
+  "title": "İran'ın nükleer programı sona eriyor, Hürmüz Boğazı açılıyor",
+  "link": "https://www.trthaber.com/haber/dunya/iranin-nukleer-programi-sona-eriyor-hurmuz-bogazi-aciliyor-948890.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Başkan Yardımcısı JD Vance, İran'ın nükleer programının sona ereceğini ve Hürmüz Boğazı'nın açılacağını açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-06-21T13:01:02.998172+00:00",
+  "type": "news",
+  "cluster_id": "c868facbd3dad"
+ },
+ {
+  "title": "ABD-İran görüşmeleri İsviçre'de arabulucuların katılımıyla başladı",
+  "link": "https://www.bbc.com/turkce/articles/ce8k0znpgd3o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD ve İran, İsviçre'de arabulucuların katılımıyla savaşı sona erdirecek barış anlaşmasının ayrıntılarını görüşmeye başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-21T13:01:02.998172+00:00",
+  "type": "news",
+  "cluster_id": "cc4c80d49f78b"
+ },
+ {
+  "title": "Iran's Tasnim news agency says Hormuz will not reopen until Lebanon ceasefire holds, oil waivers issued",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPa005aHFiRnFPT0lhdUYwazVqbHV2cEhrTWJHWFVEZDhBWlpzNEtzRFptdVZsRkpwcnQ0ZVVfNXh5aE1JR202NGpWX3liaE1aeE4ybk5oRUhwLUJFWTNPOTdfMHRxMkM5bllwRDdVcXBLbUVCSDhKTEpCQS1rcERlUW9YLTBHZEQzYVRPanVKUFlpMHo1M1hpOTdvYlp6b0lUVk5OT2FXT196RjEwZ2dBRGxpNERROG5QOFVVVGlzWGcwMU1NNWE2X1FR?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran'ın Tasnim haber ajansı, Hürmüz Boğazı'nın Lübnan ateşkesinin devam etmesi ve petrol muafiyetlerinin verilmesine bağlı olacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-21T13:01:02.998172+00:00",
+  "type": "news",
+  "cluster_id": "cff493dd92179"
+ },
+ {
+  "title": "Katar, İsviçre'deki ABDİran görüşmelerinin anlaşmayla sonuçlanmasını beklediklerini açıkladı",
+  "link": "https://www.trthaber.com/haber/dunya/katar-isvicredeki-abd-iran-gorusmelerinin-anlasmayla-sonuclanmasini-beklediklerini-acikladi-948888.html",
+  "source": "TRT Haber",
+  "summary_tr": "Katar, İsviçre'deki ABD-İran görüşmelerinden kapsamlı ve kalıcı bir anlaşma çıkmasını beklediklerini bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-21T13:01:02.998172+00:00",
+  "type": "news",
+  "cluster_id": "cb5516719ad76"
+ },
+ {
   "title": "İsrail bir kez daha Lübnan'a saldırdı: 20 ölü",
   "link": "https://www.dw.com/tr/israil-bir-kez-daha-lübnan-a-saldırdı-20-ölü/a-77645058?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
