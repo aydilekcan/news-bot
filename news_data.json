@@ -1,5 +1,53 @@
 [
  {
+  "title": "İsviçre'de başlayan ABD-İran görüşmelerinde son durum ne?",
+  "link": "https://www.bbc.com/turkce/articles/ce8k0znpgd3o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD ve İran, İsviçre'de savaşı sona erdirecek uzun vadeli barış anlaşmasının ayrıntılarını görüşmeye başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-21T17:01:03.356527+00:00",
+  "type": "news",
+  "cluster_id": "c479141bbc1a2"
+ },
+ {
+  "title": "Trump tehdit etti, İran'dan yanıt geldi: 'Heyet müzakere alanından ayrıldı'",
+  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tehdit-etti-iran-dan-yanit-geldi-ciddiye-almiyoruz-2514142",
+  "source": "Cumhuriyet",
+  "summary_tr": "Trump'ın tehditleri nedeniyle İran heyeti, İsviçre'deki müzakere alanından ayrıldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-06-21T17:01:03.356527+00:00",
+  "type": "news",
+  "cluster_id": "cc5f50aaa3054"
+ },
+ {
+  "title": "İran heyeti ABD ile görüşmelerin yapıldığı alandan ayrıldı",
+  "link": "https://www.trthaber.com/haber/dunya/iran-heyeti-abd-ile-gorusmelerin-yapildigi-alandan-ayrildi-948904.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran heyeti, Trump'ın tehditleri nedeniyle ABD müzakereleri alanından ayrıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-21T17:01:03.356527+00:00",
+  "type": "news",
+  "cluster_id": "c27c59558017c"
+ },
+ {
+  "title": "Vance meets top Iranian officials as US looks to get negotiations back on track",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNFh5b3dHTzJSUUpQVUtRWDdqTG5SYWtlNHhyNXBuRWZEbHgycFNiZUVkLTJsa3d5NkJiMDVjeDE2LVpEVGJ1YkZURGlpZnc0WlAySkJVcVc2dTJsNHAzNVZQaElzS1BZeVN6TzJDTGFzOV9TZVdZMV9FRHhYNVpsMkV2MjcwNXI0NUtORXlMd2lzTmdlUDl3TWxOblBZQQ?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD Başkan Yardımcısı Vance, müzakereleri yola sokmak için İran üst düzey yetkililerle görüştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-21T17:01:03.356527+00:00",
+  "type": "news",
+  "cluster_id": "c62953e733c46"
+ },
+ {
   "title": "ABD-İran görüşmeleri İsviçre'de başladı: Trump 'İran Lübnan'daki vekillerini durdurmalı' dedi",
   "link": "https://www.bbc.com/turkce/articles/ce8k0znpgd3o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
