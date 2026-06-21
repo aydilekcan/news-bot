@@ -1,5 +1,65 @@
 [
  {
+  "title": "Emekli 3.600 lira zamma mahkum",
+  "link": "https://www.sozcu.com.tr/emekli-3-600-lira-zamma-mahkum-p329722",
+  "source": "Sözcü",
+  "summary_tr": "Temmuz ayında emeklilere yapılacak zam hesaplamalara göre sadece 3.600 lira olacak.",
+  "metric": "Emekli zammı: 3.600 TL",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-21T03:01:07.398855+00:00",
+  "type": "news",
+  "cluster_id": "c0a685e220a2c"
+ },
+ {
+  "title": "US disputes Iranian claims about closing Strait of Hormuz as negotiators head to Switzerland",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd3B1UzBaM0FMeEpSTFF5N3J3NXFHanp0a0VKUlprczNXWVJCa0VmSUZxY1ZqYkNPdHBrVml3clJUZzdpck1DY3djZHR6ZTFMeU5HdHVTaTJPMV81Q0VJY1E3TWZyU2RlM0ZVZDJKZ2RERnRETURQRmM4MElPajdMV3VzNW4tUEVVWDZlWG1QTGU5dHVTX2NXdjd5UHd2blpVeW5QNE91cnRnYy1vN25BRTA0RjdzMTZ4X2lQd01JdmM2SnVD?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, İran'ın Hormuç Boğazı'nı kapatma iddiasını reddetti; müzakereciler İsviçre'ye gidiyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-21T03:01:07.398855+00:00",
+  "type": "news",
+  "cluster_id": "cb519a6e9cb62"
+ },
+ {
+  "title": "Kazanıp gittiler",
+  "link": "https://www.sozcu.com.tr/kazanip-gittiler-p329720",
+  "source": "Sözcü",
+  "summary_tr": "Yabancı yatırımcılar savaş ve iç siyasi riskler nedeniyle Türkiye'ye dönmüyor; üç ayda 25 milyar dolarlık yatırım kaybı yaşandı.",
+  "metric": "Yabancı yatırım: 25 milyar $ düşüş (3 ay)",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-21T03:01:07.398855+00:00",
+  "type": "news",
+  "cluster_id": "c8f72aedd0fd9"
+ },
+ {
+  "title": "Sanayi Üretimi (yıllık): %6",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaDV0MWNyc2N4OGFGYXBmejRWN1ZRaHoyVzRyMmRpcVhQbzBPTWZZbzJWMTFHeXY4aEpTYUdjZGVBUFN0a3hfdlJCcVlYUHdUTC1Sa0JwMVdoeGtxSWpoY3BuTklCQmNPSUlZaWQ1UTE4YW9LcF9aZ2U0ZFI5R1M2bjRhSFpMbDAxYkZMY1VDLS1ZdUFlNTFBOVppX1o2RzV6UFIyc2VhWEtpSHdQV2RR?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%6",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-06-21T03:01:07.398855+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
+  "title": "Sanayi Üretimi (yıllık): %6,0 (Nisan 2025)",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTWxodDdSRzNsdEVOblItWUpwclplc3NrUUN3MzBSU3FJTmphVWphVXNoZVlLTVRqcm55b29uR2dHQ0dzQk5xMlp1clNrcUwzZFFmdnhoM0dodmg4VUFCSkRpUjAtLXpiaGlPemQ3dGVtVGROWGhsZUk5NVFBQ1Z0a3ROZ1JRc2gxR200TVZTbzNqcUpnUG9rY01VTmMzakZzd09fS0xHZ2JUMG80anVubTBoNlM3Q2s4cVJhUdIBugFBVV95cUxOQTBKQU5JY05tUjlxMV9hbWRuNndNX0pyNmRMLXVTQUhkYXd1Tmt4VlBHREd2Wmdvd0RIWm52S1o4WFQyTjhTM0gtWGE3eC10ZE9VelNyaVF3VGJjTWVzZEtreW43cnFiTUhibzJCcnB2UHAtN1czMlV1VC05NGNNWkZpWnNQTTBMNkNKU0w0ZFU2SHV5NGQ0SmNiRmJqRVFjNGxKX0lOOWtKV3hvZnlnZTh2M3lTV1IzaXc?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%6 → %6,0",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-06-21T03:01:07.398855+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Kadıköy’de emekli yurttaşın geçim mücadelesi: Evdeki kitaplarını satıyor",
   "link": "https://www.cumhuriyet.com.tr/turkiye/kadikoy-de-emekli-yurttasin-gecim-mucadelesi-evdeki-kitaplarini-satiyor-2513993",
   "source": "Cumhuriyet",
