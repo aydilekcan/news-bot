@@ -1,5 +1,77 @@
 [
  {
+  "title": "ABD-İran görüşmeleri İsviçre'de başlayacak: Tahran Hürmüz Boğazı'nı kapattığını açıkladı",
+  "link": "https://www.bbc.com/turkce/articles/ce8k0znpgd3o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "İran ordusu, İsrail'in güney Lübnan saldırılarına yanıt olarak Hürmüz Boğazı'nı kapattığını açıkladı. ABD-İran görüşmeleri İsviçre'de başlayacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-06-21T08:01:07.812205+00:00",
+  "type": "news",
+  "cluster_id": "c920911a09a79"
+ },
+ {
+  "title": "Hürmüz düğümü petrol stoklarını vurdu: Dünyayı büyük felaket bekliyor",
+  "link": "https://www.sozcu.com.tr/hurmuz-dugumu-petrol-stoklarini-vurdu-dunyayi-buyuk-felaket-bekliyor-p329786",
+  "source": "Sözcü",
+  "summary_tr": "İran-ABD gerilimi nedeniyle Hürmüz Boğazı'ndaki darboğazda petrol stokları etkilendi. Orta Doğu krizi enerji piyasalarını vurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-21T08:01:07.812205+00:00",
+  "type": "news",
+  "cluster_id": "c3d83f535d39d"
+ },
+ {
+  "title": "İsviçre, ABD ve Pakistan heyetlerinin İran'la müzakereler için ülkeye gelişini memnuniyetle karşıladı",
+  "link": "https://www.aa.com.tr/tr/dunya/isvicre-abd-ve-pakistan-heyetlerinin-iranla-muzakereler-icin-ulkeye-gelisini-memnuniyetle-karsiladi/3973439",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsviçre, ABD ve Pakistan heyetleri İran-ABD arası görüşmeler için İran'a geldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-21T08:01:07.812205+00:00",
+  "type": "news",
+  "cluster_id": "c6ed70867ec8a"
+ },
+ {
+  "title": "CHP'den istifa eden Cemil Tugay: Yeni parti kurulacak, orada olacağım",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-den-istifa-eden-cemil-tugay-yeni-parti-kurulacak-orada-olacagim-2514042",
+  "source": "Cumhuriyet",
+  "summary_tr": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay, CHP'deki 'mutlak butlan' yönetimine tepki olarak istifa etti ve yeni bir parti kurulacağını açıkladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-21T08:01:07.812205+00:00",
+  "type": "news",
+  "cluster_id": "c375e51444536"
+ },
+ {
+  "title": "1 Temmuz'da başlıyor: Avukatı olmayan dairesini satamayacak",
+  "link": "https://www.sozcu.com.tr/1-temmuz-da-basliyor-avukati-olmayan-dairesini-satamayacak-p329789",
+  "source": "Sözcü",
+  "summary_tr": "12. Yargı Paketi kapsamında 1 Temmuz'dan itibaren 30 milyon TL üzerindeki gayrimenkul satışlarında avukat zorunluluğu getirilecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-21T08:01:07.812205+00:00",
+  "type": "news",
+  "cluster_id": "c9ceb67c51187"
+ },
+ {
+  "title": "AKP, IBAN mağdurlarıyla dalga geçiyor",
+  "link": "https://www.sozcu.com.tr/akp-iban-magdurlariyla-dalga-geciyor-p329785",
+  "source": "Sözcü",
+  "summary_tr": "Yüz binlerce IBAN mağduru tarafından beklenen düzenleme, AKP'nin son dakika kararıyla tekrar ertelendi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-21T08:01:07.812205+00:00",
+  "type": "news",
+  "cluster_id": "c7f89ad2ce4c7"
+ },
+ {
   "title": "ABD-İran savaşında gözler İsviçre’de: Hürmüz Boğazı krizi barış masasına taşındı",
   "link": "https://www.cumhuriyet.com.tr/dunya/abd-iran-savasinda-gozler-isvicre-de-hurmuz-bogazi-krizi-baris-masasina-tasindi-2514032",
   "source": "Cumhuriyet",
