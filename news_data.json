@@ -1,5 +1,65 @@
 [
  {
+  "title": "İsviçre'de​ yapılan kritik ABD-İran müzakerelerinin gündeminde ne var?",
+  "link": "https://www.dw.com/tr/isviçre-de​-yapılan-kritik-abd-iran-müzakerelerinin-gündeminde-ne-var/a-77643379?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "ABD ve İran heyetleri İsviçre'de kalıcı barış için müzakereye başladı; Hürmüz Boğazı ve Lübnan çatışmaları gündemde.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-21T09:01:18.069820+00:00",
+  "type": "news",
+  "cluster_id": "c7e2734bc279c"
+ },
+ {
+  "title": "İran ve ABD heyetleri öğleden sonra görüşecek",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-ve-abd-heyetleri-ogleden-sonra-gorusecek/3973492",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran heyeti ABD'yle Bürgenstock'ta öğleden sonra görüşecek; Pakistan ve Katar aracılık yapıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-21T09:01:18.069820+00:00",
+  "type": "news",
+  "cluster_id": "c7cc1bae0559c"
+ },
+ {
+  "title": "İran Dışişleri: Bürgenstock toplantısı öğleden sonra yapılacak",
+  "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-burgenstock-toplantisi-ogleden-sonra-yapilacak-948874.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Dışişleri Bakanlığı, İran-ABD müzakerelerinin Bürgenstock'ta öğleden sonra yapılacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-21T09:01:18.069820+00:00",
+  "type": "news",
+  "cluster_id": "c6462024a84ca"
+ },
+ {
+  "title": "Top-level US-Iran peace talks to begin at Swiss resort with Hormuz in spotlight",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd3B1UzBaM0FMeEpSTFF5N3J3NXFHanp0a0VKUlprczNXWVJCa0VmSUZxY1ZqYkNPdHBrVml3clJUZzdpck1DY3djZHR6ZTFMeU5HdHVTaTJPMV81Q0VJY1E3TWZyU2RlM0ZVZDJKZ2RERnRETURQRmM4MElPajdMV3VzNW4tUEVVWDZlWG1QTGU5dHVTX2NXdjd5UHd2blpVeW5QNE91cnRnYy1vN25BRTA0RjdzMTZ4X2lQd01JdmM2SnVD?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD ve İran üst düzey heyetleri İsviçre'deki dağ kuşkısında barış müzakerelerine başladı; Hürmüz Boğazı ve bölgesel istikrar ana konular.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-21T09:01:18.069820+00:00",
+  "type": "news",
+  "cluster_id": "c8697f69f5e46"
+ },
+ {
+  "title": "Aile ve Gençlik Fonu kapsamında bu ay 1 milyar 52 milyon liralık ödeme yapıldı",
+  "link": "https://www.aa.com.tr/tr/gundem/aile-ve-genclik-fonu-kapsaminda-bu-ay-1-milyar-52-milyon-liralik-odeme-yapildi/3973493",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Aile ve Gençlik Fonu kapsamında bu ay 9 bin 200 gence toplam 1 milyar 52 milyon lira ödeme yapıldı.",
+  "metric": "Aile ve Gençlik Fonu ödeme: 1 milyar 52 milyon TL (9.200 gence)",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-06-21T09:01:18.069820+00:00",
+  "type": "news",
+  "cluster_id": "c60922be6c71e"
+ },
+ {
   "title": "ABD-İran görüşmeleri İsviçre'de başlayacak: Tahran Hürmüz Boğazı'nı kapattığını açıkladı",
   "link": "https://www.bbc.com/turkce/articles/ce8k0znpgd3o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
