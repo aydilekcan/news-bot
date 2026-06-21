@@ -27,8 +27,8 @@
   },
   "tr_dis_ticaret_haddi": {
    "value": "90,1",
-   "period": "",
-   "ts": "2026-06-16T21:01:42.701458+00:00",
+   "period": "Nisan 2026",
+   "ts": "2026-06-21T11:01:14.970464+00:00",
    "indicator_tr": "Dış ticaret haddi"
   },
   "tr_sanayi_uretim_endeksi_yillik": {
@@ -56,10 +56,10 @@
    "indicator_tr": "Geniş tanımlı işsizlik oranı"
   },
   "tr_tufe_aylik": {
-   "value": "%32,61",
-   "period": "Mayis 2025",
-   "ts": "2026-06-17T08:02:10.393603+00:00",
-   "indicator_tr": "TUFE (aylik)"
+   "value": "%2,16",
+   "period": "Mayıs 2026",
+   "ts": "2026-06-21T11:01:14.970464+00:00",
+   "indicator_tr": "TUFE (aylık)"
   },
   "tr_ihracat_birim_degeri_endeksi_yillik": {
    "value": "%13,7",
@@ -128,10 +128,10 @@
    "indicator_tr": "Emekli zammı (5 aylık enflasyon)"
   },
   "tr_tufe_yillik": {
-   "value": "%4,2",
-   "period": "",
-   "ts": "2026-06-20T11:01:16.284127+00:00",
-   "indicator_tr": "TUFE (yillik)"
+   "value": "%53,13",
+   "period": "Mayıs 2026",
+   "ts": "2026-06-21T11:01:14.970464+00:00",
+   "indicator_tr": "TUFE (yıllık)"
   },
   "tr_ihracat_birim_deger_endeksi": {
    "value": "%13,7",
@@ -392,6 +392,9 @@
   "b0688f893d1a95e09ba26d8fecb6bd26": "2026-06-21T07:01:04.846793+00:00",
   "1f5da34829533568c576918e7437bd90": "2026-06-21T07:01:04.846793+00:00",
   "041ea730a4a6d3a69dd39732caf73fe9": "2026-06-21T07:01:04.846793+00:00",
-  "a08c66655507ba9d846b6aa235f178b8": "2026-06-21T08:01:07.812205+00:00"
+  "a08c66655507ba9d846b6aa235f178b8": "2026-06-21T08:01:07.812205+00:00",
+  "22de9e247e35c26ad9c85d31982160e8": "2026-06-21T11:01:01.863993+00:00",
+  "ac10a2cd79e9875212e83688ea67e588": "2026-06-21T11:01:01.863993+00:00",
+  "1a890377dfe9e1b93b52c7ac7c835399": "2026-06-21T11:01:01.863993+00:00"
  }
 }

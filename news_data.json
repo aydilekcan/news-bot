@@ -1,5 +1,65 @@
 [
  {
+  "title": "'Asgari' piyasadan siliniyor: İşe yeni başlayanın maaş beklentisi 35 bin lira",
+  "link": "https://www.sozcu.com.tr/asgari-piyasadan-siliniyor-ise-yeni-baslayanin-maas-beklentisi-35-bin-lira-p329829",
+  "source": "Sözcü",
+  "summary_tr": "İşe yeni başlayanların maaş beklentisi enflasyon nedeniyle 35 bin liraya yükseldi; resmi asgari ücret teklifle karşılaştırıldığında ciddi fark ortaya çıktı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-21T11:01:01.863993+00:00",
+  "type": "news",
+  "cluster_id": "cc7d3b7381bf3"
+ },
+ {
+  "title": "Bakanların 'haberimiz yok' cevabı Erdoğan'ı kızdırdı",
+  "link": "https://www.sozcu.com.tr/bakanlar-haberimiz-yok-dedi-beyaz-et-operasyonu-saray-i-rahatsiz-etti-p329819",
+  "source": "Sözcü",
+  "summary_tr": "Tavuk üreticilerine yüksek fiyat belirleme gerekçesiyle yapılan operasyon Erdoğan'ı kızdırdı; bakanların 'haberimiz yok' cevabı eleştirildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-21T11:01:01.863993+00:00",
+  "type": "news",
+  "cluster_id": "c7d33c52a72dc"
+ },
+ {
+  "title": "TUFE (aylık): %2,16 (Mayıs 2026)",
+  "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWEMxLVVTZHZ4VVhUWTROMDhWSENPYzhnb1dDV0xNVC04U29PYzZyU3pPQXI3cFlNVk5Udi1TcUlSblFjVGg4WUlJNk50MUhOQllBeXFjTUVSTmxMZ3NSMFpNY0NERGF6SW1QTDY3THMydy1xWW5zbS1xWGFFcEtZSklHR0JKS2Q4cmNFUkJJZkRJTUcyMjE5S244MVNGV19PMkRLeFo2Ykc4Rl9DTEdESnp1X2RNWElyYWhheXVoQWdrUzJJeWNpalhYS3FLa3JQekswaXlUckxYb1ZHX0JLbzRBcWRJdnJsRzJXTkt3?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%32,61 → %2,16 (-30,4 puan)",
+  "metric": "-30,4 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-06-21T11:01:01.863993+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
+  "title": "TUFE (yıllık): %53,13 (Mayıs 2026)",
+  "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWEMxLVVTZHZ4VVhUWTROMDhWSENPYzhnb1dDV0xNVC04U29PYzZyU3pPQXI3cFlNVk5Udi1TcUlSblFjVGg4WUlJNk50MUhOQllBeXFjTUVSTmxMZ3NSMFpNY0NERGF6SW1QTDY3THMydy1xWW5zbS1xWGFFcEtZSklHR0JKS2Q4cmNFUkJJZkRJTUcyMjE5S244MVNGV19PMkRLeFo2Ykc4Rl9DTEdESnp1X2RNWElyYWhheXVoQWdrUzJJeWNpalhYS3FLa3JQekswaXlUckxYb1ZHX0JLbzRBcWRJdnJsRzJXTkt3?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%4,2 → %53,13 (+48,9 puan)",
+  "metric": "+48,9 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-06-21T11:01:01.863993+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
+  "title": "Dış ticaret haddi: 90,1 (Nisan 2026)",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeVFwaVZyRFM5Slp5eG9PX1dmTTdIV0lfRzRKcXBWUC0yNzRCX0xGZ2VZb0xSbndWckJaaktPTXMzLUk4S3ZpNGtSN1NFZDQ3QVJrd3RNb284X3dpQmlRR0R0WV9IeTRFTWZhblVDTndlOEptcERnQ3ZqdFdsa0l5N2p1dGVCa0VRMWZ1S0dzWmJSN082ZHh2aHN30gGcAUFVX3lxTE5QdWRBOGpYZ19QRDhlMnZmZUxreG1ra3hXUTdiWm50dTNqV0dvVk5oVmd3S0dDdF96aTcwVUprQ0J3c3JjeEtSLU80WG9paXRfc1dSLWVpc1hUM3FEZ3dFLXhHSFBwdmh3SGxFOHJpSDM2czdNZl84UjZaX2JhUjEzN3VBaWt2V3NFMGJac0paQVdFbjlMMHRqSWJxcw?oc=5",
+  "source": "TUIK",
+  "summary_tr": "90,1 → 90,1",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-06-21T11:01:01.863993+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Kozan pazarındaki esnaf: '7 liralık yumurta için pazarlık yapıyorlar'",
   "link": "https://www.cumhuriyet.com.tr/turkiye/kozan-pazarindaki-esnaf-7-liralik-yumurta-icin-pazarlik-yapiyorlar-2514060",
   "source": "Cumhuriyet",
