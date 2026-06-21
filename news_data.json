@@ -1,5 +1,41 @@
 [
  {
+  "title": "Trump, Netanyahu'yu masadan kaldırıyor",
+  "link": "https://www.sozcu.com.tr/trump-netanyahu-yu-masadan-kaldiriyor-p329743",
+  "source": "Sözcü",
+  "summary_tr": "Trump, Netanyahu'yu masadan kaldırarak ABD-İsrail ilişkilerinde yeni bir süreç başlatıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-21T05:00:59.692373+00:00",
+  "type": "news",
+  "cluster_id": "ced1379590605"
+ },
+ {
+  "title": "Avrupa macerası 63 yıl sonra bitti",
+  "link": "https://www.sozcu.com.tr/avrupa-macerasi-63-yil-sonra-bitti-p329737",
+  "source": "Sözcü",
+  "summary_tr": "Avrupa Parlamentosu raporu ile Türkiye'nin 1963'ten beri sürdürdüğü AB müzakere süreci zorlayıcı bir dönemece giriyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-21T05:00:59.692373+00:00",
+  "type": "news",
+  "cluster_id": "c4a14b59012eb"
+ },
+ {
+  "title": "Valilik duyurdu: Taksim Metro İstasyonu kapanıyor",
+  "link": "https://www.sozcu.com.tr/valilik-duyurdu-taksim-metro-istasyonu-kapaniyor-p329740",
+  "source": "Sözcü",
+  "summary_tr": "İstanbul Valiliği 21 Haziran Pazar günü saat 10.00'dan itibaren Taksim Metro İstasyonu'nu kapattığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-21T05:00:59.692373+00:00",
+  "type": "news",
+  "cluster_id": "c73958aa51898"
+ },
+ {
   "title": "Emekli 3.600 lira zamma mahkum",
   "link": "https://www.sozcu.com.tr/emekli-3-600-lira-zamma-mahkum-p329722",
   "source": "Sözcü",
