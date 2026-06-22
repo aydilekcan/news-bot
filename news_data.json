@@ -1,5 +1,41 @@
 [
  {
+  "title": "ABD Başkan Yardımcısı Vance: 'İran nükleer denetçilerin ülkeye girişine izin verdi'",
+  "link": "https://www.bbc.com/turkce/articles/ce8k0znpgd3o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD Başkan Yardımcısı Vance, İran'ın nükleer denetçilerin ülkeye geri dönmesine izin verdiğini ve IAEA'nın erişim sağladığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-22T17:01:20.821254+00:00",
+  "type": "news",
+  "cluster_id": "c3f675b805637"
+ },
+ {
+  "title": "ABD İran'a petrol yaptırımlarını askıya aldı",
+  "link": "https://www.dw.com/tr/abd-iran-a-petrol-yaptırımlarını-askıya-aldı/a-77663823?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "ABD Hazine Bakanlığı, İran petrolüne yönelik yaptırımları 21 Ağustos'a kadar askıya aldığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-22T17:01:20.821254+00:00",
+  "type": "news",
+  "cluster_id": "c19d7c7b93e2c"
+ },
+ {
+  "title": "AK Parti Sözcüsü Çelik: (İran-ABD mutabakatı ve müzakere süreci) Gelinen nokta, bölge ve dünya barışı için önemlidir",
+  "link": "https://www.aa.com.tr/tr/gundem/ak-parti-sozcusu-celik-iran-abd-mutabakati-ve-muzakere-sureci-gelinen-nokta-bolge-ve-dunya-barisi-icin-onemlidir/3974761",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "AK Parti Sözcüsü Çelik, İran-ABD mutabakatı ve 60 günlük müzakere sürecinin bölge ve dünya barışı için önemli olduğunu belirtti.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-06-22T17:01:20.821254+00:00",
+  "type": "news",
+  "cluster_id": "c7b3e9c4717a9"
+ },
+ {
   "title": "Akkuyu Nükleer Güç Santrali'nin 1'inci güç ünitesinin inşaatı tamamlandı",
   "link": "https://www.aa.com.tr/tr/ekonomi/akkuyu-nukleer-guc-santralinin-1inci-guc-unitesinin-insaati-tamamlandi/3974699",
   "source": "Anadolu Ajansı",
