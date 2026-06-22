@@ -1,5 +1,53 @@
 [
  {
+  "title": "Trump’tan 'Hürmüz' mesajı: İran anlaşmaya uymazsa gerekeni yapacağım",
+  "link": "https://www.sozcu.com.tr/trump-iran-aciklamalari-2026-06-22-p330256",
+  "source": "Sözcü",
+  "summary_tr": "ABD Başkanı Trump, İran anlaşmaya uymazsa Hürmüz Boğazı konusunda gerekli adımları atacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-22T21:01:10.200272+00:00",
+  "type": "news",
+  "cluster_id": "c47fc50453fc8"
+ },
+ {
+  "title": "Silifke Belediye Başkanı Turgut ve 7 kişi tutuklandı: 11 kişiye adli kontrol",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/silifke-belediye-baskani-turgut-ve-7-kisi-tutuklandi-11-kisiye-adli-kontrol-2514521",
+  "source": "Cumhuriyet",
+  "summary_tr": "Silifke Belediye Başkanı Mustafa Turgut ve 7 kişi rüşvet, ihaleye fesat karıştırma ve irtikap suçlarından tutuklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-22T21:01:10.200272+00:00",
+  "type": "news",
+  "cluster_id": "cd0eda7e62d39"
+ },
+ {
+  "title": "Silifke Belediye Başkanı Mustafa Turgut tutuklandı",
+  "link": "https://www.sozcu.com.tr/silifke-belediye-baskani-mustafa-turgut-hakkinda-karar-p330258",
+  "source": "Sözcü",
+  "summary_tr": "Silifke Belediye Başkanı Mustafa Turgut ve 7 kişi tutuklandı; belediyeye yönelik soruşturmada rüşvet ve ihaleye fesat suçlaması var.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-22T21:01:10.200272+00:00",
+  "type": "news",
+  "cluster_id": "cd0eda7e62d39"
+ },
+ {
+  "title": "Silifke Belediyesine yönelik soruşturmada Başkan Turgut ve 7 şüpheli tutuklandı",
+  "link": "https://www.trthaber.com/haber/turkiye/silifke-belediyesine-yonelik-sorusturmada-baskan-turgut-ve-7-supheli-tutuklandi-949004.html",
+  "source": "TRT Haber",
+  "summary_tr": "Silifke Belediyesi soruşturmasında Başkan Turgut ve 7 kişi rüşvet, ihaleye fesat karıştırma ve irtikap suçlarından tutuklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-22T21:01:10.200272+00:00",
+  "type": "news",
+  "cluster_id": "c118bc33f718b"
+ },
+ {
   "title": "Dışişleri: Karadeniz'de vurulan yük gemisinde iki Türk yaralandı",
   "link": "https://www.bbc.com/turkce/articles/cg4wxrvxlz9o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
