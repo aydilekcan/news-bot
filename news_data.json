@@ -1,5 +1,77 @@
 [
  {
+  "title": "'İran nükleer denetçilere izin verdi, ABD petrol yaptırımını kaldırdı'",
+  "link": "https://www.bbc.com/turkce/articles/ce8k0znpgd3o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD, İran'ın nükleer denetçilerin ülkeye dönmesine izin vermesine karşılık, İran petrol yaptırımını kaldırdı. Nükleer anlaşmada kritik gelişme.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-22T18:01:15.588989+00:00",
+  "type": "news",
+  "cluster_id": "c522007cf5ee8"
+ },
+ {
+  "title": "ABD'den İran petrolünün satışına izin",
+  "link": "https://www.sozcu.com.tr/abd-den-iran-petrolunun-satisina-gecici-izin-p330227",
+  "source": "Sözcü",
+  "summary_tr": "ABD, İran petrolünün üretimi, teslimatı ve satışına 60 günlük geçici genel lisans vererek izin verdi. Yaptırım yumuşatılması kareektif kararı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-22T18:01:15.588989+00:00",
+  "type": "news",
+  "cluster_id": "c3fcf53081fb8"
+ },
+ {
+  "title": "Rubio heads to UAE, Kuwait, Bahrain to discuss Iran deal with Gulf allies",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa3pPeDA3VWswbEdsWVBhVWxMcE54bWlTbTd3RXJiajBUeDR6cTFqMlVhTHQ4YndKeTRkRDE0Vmxpd1F4ZkgyakNPSHdrQnRuQXpvZk5wLWRRa1hRRVo2a053cFdZOUM4SWZtOFUwQVpkSTJNeHpRcFdIM3BVUnlhMnFyUExELTVhbEc2WTlBd1BzM0ZNZjNmT3JnVm5sNzBWT19NY1BKZ1ZmZFcwckFxXzNrSDhFZl90clA3Sg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Dışişleri Bakanı Rubio, Birleşik Arap Emirlikleri, Kuveyt ve Bahreyn'i ziyaret ederek İran anlaşmasını gözden geçirmek üzere müttefiklerle görüşecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-22T18:01:15.588989+00:00",
+  "type": "news",
+  "cluster_id": "cb1f01afa0f88"
+ },
+ {
+  "title": "Trump'tan İran ile ilgili 'silah denetimi' iddiası",
+  "link": "https://www.sozcu.com.tr/trump-tan-iran-ile-ilgili-silah-denetimi-iddiasi-p330233",
+  "source": "Sözcü",
+  "summary_tr": "ABD Başkanı Trump, İran'ın 'uzun bir süre boyunca' kapsamlı silah denetimlerini kabul edeceğini iddia etti. İran nükleer müzakereleri çerçevesinde önemli açıklama.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-22T18:01:15.588989+00:00",
+  "type": "news",
+  "cluster_id": "c1b3e6f4f3174"
+ },
+ {
+  "title": "Dokuz Eylül Üniversitesi Hastanesi ‘hacklendi’, ameliyatlar durdu",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTVBUaTJmeXZ6SmtYUzlTVGptWU5MVjN3a2RQNTBiTFBnQ3ZhWGQ1Q0xvNTR2T214dWl0ZGZ3aFNLM3E2b0g1MUM1UFR4NW1RVmtEdXJ4ek1WaVU0bHZkUGc3b2tGWFlBMWhvSS1rVklDRDloM0NNSUFRRlZuU2xPcE96Z1FJelJqTWdqcUpfdW1HODgyOVJ5M0dTQXl3T1RvRmc?oc=5",
+  "source": "soL",
+  "summary_tr": "Dokuz Eylül Üniversitesi Hastanesi siber saldırıya uğradı; ameliyatlar durdu. Kritik sağlık hizmeti kesintisi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-22T18:01:15.588989+00:00",
+  "type": "news",
+  "cluster_id": "cb51ff5705a41"
+ },
+ {
+  "title": "Ukraine's military strikes Russian satellite communications site in Moscow region",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMEFDY3lFRUhJMVBXUHhGSUl2Y1U4YTN4YTdFdHZnYnVnSjF0T2NCMmg4LTBXNVZncFN0NmR2cXhfbzJibVVaMjVrV2g0UVZ6MlJMei1DcjJaMUF4QnBlVVllQ0NySG1keHpxc2JJdV9NSTV0NFRiUW9XMGhRVlNlWTVSMml5QzNEMnYzWW5uaHRKZkEtdjlabU1NVHgydWF4NnFlVzJ2S0dPbFJ2TVlTQnhER2Y2MVVLblI0dEt1cUhsZjlNa0hwZlZZSGtzdk44TXprV2FORQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ukrayna ordusu, Moskova bölgesinde Rus uydu iletişim tesisini vurdu. Rus askeri altyapısına saldırı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-22T18:01:15.588989+00:00",
+  "type": "news",
+  "cluster_id": "c9dfed9ffd588"
+ },
+ {
   "title": "ABD Başkan Yardımcısı Vance: 'İran nükleer denetçilerin ülkeye girişine izin verdi'",
   "link": "https://www.bbc.com/turkce/articles/ce8k0znpgd3o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
