@@ -1,5 +1,65 @@
 [
  {
+  "title": "ABD'den İran'a petrol jesti",
+  "link": "https://www.sozcu.com.tr/abd-den-iran-a-petrol-jesti-p330201",
+  "source": "Sözcü",
+  "summary_tr": "ABD Hazine Bakanı, İran petrolünün üretimi, teslimatı ve satışına izin veren 60 günlük geçici bir genel lisans açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-22T15:01:21.795405+00:00",
+  "type": "news",
+  "cluster_id": "c83fafa1fcc8d"
+ },
+ {
+  "title": "US issues Iran-related general license for oil sales",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzdZaTNrdXFNYWlPV2hKM1g2TDZkUFRmM3pMTE5HZzc1NnRuY1Y1cEdkLWl4bWpWOWFHdmZnMDN0cS0zdFdOeVIzalM0cGN1Yk1PV1lmc0I1NElkUjI5cWtKQzVvdHVqZFFNUm9nT01BZDdlYXFJdnVPM2NiMF9mUFduSFhlcUZWUjV0RVJtY0NFcFVmSElZSXk0V1IxN3ZrLXc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, İran petrolünün satışına ilişkin genel lisans yayımladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-22T15:01:21.795405+00:00",
+  "type": "news",
+  "cluster_id": "c6f45e2bfe26d"
+ },
+ {
+  "title": "TBMM Adalet Komisyonu, 12. Yargı Paketi'nin görüşmelerine 24 Haziran'da başlayacak",
+  "link": "https://www.aa.com.tr/tr/gundem/tbmm-adalet-komisyonu-12-yargi-paketinin-gorusmelerine-24-haziranda-baslayacak/3974575",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "TBMM Adalet Komisyonu, 12. Yargı Paketi'nin görüşmelerine 24 Haziran'da başlayacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-22T15:01:21.795405+00:00",
+  "type": "news",
+  "cluster_id": "c9bfd21486e0d"
+ },
+ {
+  "title": "Shares of Russia's Gazprom fall below 100 roubles, lowest since 2009",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTW1xZmdsbE9reXJpakNieWVWeFg0T2ZOcFpXX1NtdDl3N3dKUHVfQk5QQUV0SzN4ZldRQkRoRGFLcTBVM3hvd04tY0RrNTdMOGNaOUdqUFNaM3pXSFltVlJSSld5dzNpTnBNYlRFczhGQm1PTXVjWHMyS1dsakpQenZ6bWVNemVQYURYOERVdWFjNERPNFJWRkpuS24wMllsd0trMnFzU0MwV2lfZmNZckdyYlBhUQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Gazprom hisseleri 2009'dan bu yana en düşük seviye olan 100 ruble altına düştü.",
+  "metric": "Gazprom hisse fiyatı 100 ruble altında (2009'dan bu yana en düşük)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-22T15:01:21.795405+00:00",
+  "type": "news",
+  "cluster_id": "c58b8693aadaf"
+ },
+ {
+  "title": "EV maker Lucid to cut about 18% of US workforce, COO Winterhoff exits",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXhPRzl5b1VSdFYwaldiOUV2LTZ1VDdQbVpvTUttX2VVVWNHTlBEYmZSZXFBcjlSN21MbXpCSlZsN21KWVI4SW5ZSXlybTBEaHM5YklnMXU0R2lIcC02b3JpT25EZVhIOExMT2JsZV9wRlJObS1Xc3VobGZjUndxemdlbmxBNWI0VnFQdWp4dGl2Y2Z5MWxkbnoweHFJUWQ4bHNnNC13?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Lucid Motors, ABD işgücünün yaklaşık %18'ini azaltacak; COO Winterhoff görevinden ayrıldı.",
+  "metric": "Lucid Motors işgücü %18 azalacak",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-22T15:01:21.795405+00:00",
+  "type": "news",
+  "cluster_id": "c8797c7d07593"
+ },
+ {
   "title": "US Treasury waives sanctions on Iranian oil as part of interim agreement to end war",
   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUJQNlpPSVpIZmFCR1pnckJLd25Eblo1OERBRFdscDFOOUZHbURVM2tNd1hPaHo5aHIxeExhbGt5R2RxZjFDMWhENm9GQnpadlRNQVg4QTN4ODBwRUNuVGNYLUt3YUdBODJSTXpEZHF3QjN0Zk1iVlVzdnhEblh3N0JkZUNTU3Q5QmxKdUEwTVc5LUd2czMxTC1FQVpDdnVvaWg2Tkh3?oc=5",
   "source": "AP",
