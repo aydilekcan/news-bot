@@ -1,5 +1,53 @@
 [
  {
+  "title": "Dışişleri: Karadeniz'de vurulan yük gemisinde iki Türk yaralandı",
+  "link": "https://www.bbc.com/turkce/articles/cg4wxrvxlz9o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Karadeniz'de Türk kuru yük gemisi Victress'e insansız hava aracı saldırısında iki Türk gemi personeli yaralandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-22T19:01:20.544180+00:00",
+  "type": "news",
+  "cluster_id": "c3c10153ec69f"
+ },
+ {
+  "title": "Dışişleri: Karadeniz'deki gemiye saldırıda 2 Türk yaralandı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/disisleri-karadeniz-deki-gemiye-saldirida-2-turk-yaralandi-2514488",
+  "source": "Cumhuriyet",
+  "summary_tr": "Dışişleri Bakanlığı, Karadeniz'de Türk sahipli Panama bayraklı gemiye insansız hava aracı saldırısında iki vatandaşın yaralandığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-22T19:01:20.544180+00:00",
+  "type": "news",
+  "cluster_id": "cd2f4523783ce"
+ },
+ {
+  "title": "Dışişleri Bakanlığı: Karadeniz’de Türk sahipli gemiye saldırıda iki vatandaşımız yaralandı",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUzNUWkVhUlF4NGhOU05SVGFrQkUxaEpjamZ1UTNpeUZjdmV6bnE5QU5jUzZ5WXV4TVBHSDBfLW9hYVJ3Z1NsTjE2ME9wOWE3SjE5TVBQN0RYZXhXODhFZDZQTFRjU0gzTXNaT25RNzVTTnNGakE5di03N1hzc05Sdm9fWWVWbWJFR0kzdFZXMWRKSWdDZjJtWTMzTm1tR3ltSTJPRTZUbkpoUmRYZEJQX1JJc3Z5bVRQVlRZ?oc=5",
+  "source": "soL",
+  "summary_tr": "Dışişleri Bakanlığı, Karadeniz'de Türk sahipli gemiye saldırıda iki vatandaşın yaralandığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-22T19:01:20.544180+00:00",
+  "type": "news",
+  "cluster_id": "cd2f4523783ce"
+ },
+ {
+  "title": "ÜFE (aylık): %1,71",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRGRXRVA2UTdWQ2ZmalVhYmp4T3k2TmwweUNmdHJvQVpSa2o3VjFRNElVNlB0bHJxYnhGTG1zREhfN3lPUTdJTG54a1dMQmI3YnIwVEl4am9sNXFMNFoyQU9ucVp0b1EwNEN5YWxmclBIbzJOZE5VVkVpc2JrYmFDYmZ6cHVORVc4?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%1,71",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-06-22T19:01:20.544180+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "'İran nükleer denetçilere izin verdi, ABD petrol yaptırımını kaldırdı'",
   "link": "https://www.bbc.com/turkce/articles/ce8k0znpgd3o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
