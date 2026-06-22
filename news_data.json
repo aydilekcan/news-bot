@@ -1,5 +1,77 @@
 [
  {
+  "title": "Trump, İran ile görüşmeler 'olumlu' dedi: Tehditlerini sürdürdü",
+  "link": "https://www.cumhuriyet.com.tr/dunya/trump-iran-ile-gorusmeler-olumlu-dedi-tehditlerini-surdurdu-2514531",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD Başkanı Trump, İran ile görüşmelerin olumlu ilerlediğini belirtti ve uyma konusunda uyarı verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-22T22:01:07.643093+00:00",
+  "type": "news",
+  "cluster_id": "cd9b3f262fb06"
+ },
+ {
+  "title": "ABD Başkanı Trump'tan \"İran uygun davranmazsa gerekeni yaparım\" uyarısı",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trumptan-iran-uygun-davranmazsa-gerekeni-yaparim-uyarisi/3974989",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Trump, İran'ın anlaşma koşullarına uymaması durumunda gerekli adımları alacağını uyardı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-22T22:01:07.643093+00:00",
+  "type": "news",
+  "cluster_id": "c2e95e7f69e8b"
+ },
+ {
+  "title": "Trump'tan İran'a uyarı: Uygun davranmazsa gerekeni yaparım",
+  "link": "https://www.trthaber.com/haber/dunya/trumptan-irana-uyari-uygun-davranmazsa-gerekeni-yaparim-949008.html",
+  "source": "TRT Haber",
+  "summary_tr": "Trump, İran ile uygun davranmadığı takdirde gerekli hamleler yapılacağını belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-22T22:01:07.643093+00:00",
+  "type": "news",
+  "cluster_id": "c2e95e7f69e8b"
+ },
+ {
+  "title": "Polonya Cumhurbaşkanı Nawrocki Ankara'da",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/polonya-cumhurbaskani-nawrocki-ankara-da-2514538",
+  "source": "Cumhuriyet",
+  "summary_tr": "Polonya Cumhurbaşkanı Karol Nawrocki Ankara'ya geldi; uluslararası diplomatik ziyaret.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-22T22:01:07.643093+00:00",
+  "type": "news",
+  "cluster_id": "ce51589f049f8"
+ },
+ {
+  "title": "Polonya Cumhurbaşkanı, Türkiye'yi ziyaret edecek",
+  "link": "https://www.trthaber.com/haber/gundem/polonya-cumhurbaskani-turkiyeyi-ziyaret-edecek-949006.html",
+  "source": "TRT Haber",
+  "summary_tr": "Polonya Cumhurbaşkanı Karol Nawrocki, Cumhurbaşkanı Erdoğan'ın davetine icabetle Türkiye'yi ziyaret edecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-22T22:01:07.643093+00:00",
+  "type": "news",
+  "cluster_id": "c6699b0c0d1b0"
+ },
+ {
+  "title": "Çimento sektörü ihracatı (ilk 5 ay): 551 milyon $ (2025 ilk 5 ayı)",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcHV3N0dvRXN1YUlmbE96Z1JsUm4tWWFZYUdDVG5XdktDN0E5UEtZVjZDTTBIcUFlVTZZVGVvODhUVDE2aEItWDltLXVvUVQxam5LNEZzWVdHNUo4eHBzVi1kemI5RGh4ZUM0Q2R1cDdMRjF4Z09GNFhzUndWaTQtRzBaQWhadUlRZVlkQjZ4MnFtUG9Sd2xDdXV5dGlKT2RKSVNZQzVMWEtVdDRxTkdXQjdkaw?oc=5",
+  "source": "TUIK",
+  "summary_tr": "551 milyon $ → 551 milyon $",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-06-22T22:01:07.643093+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Trump’tan 'Hürmüz' mesajı: İran anlaşmaya uymazsa gerekeni yapacağım",
   "link": "https://www.sozcu.com.tr/trump-iran-aciklamalari-2026-06-22-p330256",
   "source": "Sözcü",

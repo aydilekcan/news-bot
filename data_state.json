@@ -75,9 +75,9 @@
   },
   "tr_cimento_ihracat_5ay": {
    "value": "551 milyon $",
-   "period": "İlk 5 ay (2025)",
-   "ts": "2026-06-18T08:02:22.586759+00:00",
-   "indicator_tr": "Çimento sektörü ihracatı (5 aylık)"
+   "period": "2025 ilk 5 ayı",
+   "ts": "2026-06-22T22:01:12.844221+00:00",
+   "indicator_tr": "Çimento sektörü ihracatı (ilk 5 ay)"
   },
   "tr_butce_acigi_5ay": {
    "value": "1 trilyon TL'yi aştı",
@@ -458,6 +458,7 @@
   "f7523639c97ad6fcd14ee00dff3044d0": "2026-06-22T19:01:20.544180+00:00",
   "1277ea78588bc3ddf3cef1aa499fe525": "2026-06-22T19:01:20.544180+00:00",
   "fad72160536d324cf1346a584d37dc6d": "2026-06-22T21:01:10.200272+00:00",
-  "58887b777add30a38a603db8bce8d6f6": "2026-06-22T21:01:10.200272+00:00"
+  "58887b777add30a38a603db8bce8d6f6": "2026-06-22T21:01:10.200272+00:00",
+  "056d6e5fca8f1ad8071927cc3d603ee2": "2026-06-22T22:01:07.643093+00:00"
  }
 }
