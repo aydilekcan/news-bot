@@ -1,5 +1,77 @@
 [
  {
+  "title": "AKP 12. Yargı Paketi’ni Meclis’e sundu: 30 madde, çok sayıda kanunda değişiklik",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMzl1Y1lTelBTbU1jV3JaXzJabU1IdWFpRWd6b3oyNGtuS0ZFdmVhdXJiRE9RcmJQNnF0ZzVWU3VoYUhjNklMNUpQc1I0REZxS2JkdTA5Rk1vUkJJQ29VUWtIaG4teXFZQWQzWjBrZE5lMjVkc1lNRWVYckVyS2N2ZEpkRXcwMk8xcVBkbEhpVUR3YW5EdWxQaUxn?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "AKP, 30 madde içeren 12. Yargı Paketi'ni TBMM'ye sundu; çok sayıda kanunda değişiklik öngörüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-22T12:01:14.785385+00:00",
+  "type": "news",
+  "cluster_id": "c4065ea70c901"
+ },
+ {
+  "title": "Vance says talks in Switzerland with Iranian officials set 'good foundation' for a deal to end war",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUJQNlpPSVpIZmFCR1pnckJLd25Eblo1OERBRFdscDFOOUZHbURVM2tNd1hPaHo5aHIxeExhbGt5R2RxZjFDMWhENm9GQnpadlRNQVg4QTN4ODBwRUNuVGNYLUt3YUdBODJSTXpEZHF3QjN0Zk1iVlVzdnhEblh3N0JkZUNTU3Q5QmxKdUEwTVc5LUd2czMxTC1FQVpDdnVvaWg2Tkh3?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD Başkan Yardımcısı Vance, İsviçre'de İran yetkililerine karşı yapılan görüşmelerin savaşı bitirmek için 'iyi bir temel' oluşturduğunu belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-22T12:01:14.785385+00:00",
+  "type": "news",
+  "cluster_id": "c96383b6f3792"
+ },
+ {
+  "title": "Özgür Özel, TBMM'de grup toplantısı yapmak için başvuruda bulundu",
+  "link": "https://www.bbc.com/turkce/articles/cwyl19vzkn7o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "CHP Genel Başkanlığı iptal edilen Özgür Özel, TBMM'de grup toplantısı yapmak için başvuruda bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-22T12:01:14.785385+00:00",
+  "type": "news",
+  "cluster_id": "c867971ec35d7"
+ },
+ {
+  "title": "İsviçre’de ABD-İran zirvesi: 60 günlük anlaşma yol haritası",
+  "link": "https://www.cumhuriyet.com.tr/dunya/isvicre-de-abd-iran-zirvesi-60-gunluk-anlasma-yol-haritasi-2514363",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD ve İran, İsviçre'de Katar ve Pakistan'ın arabuluculuğunda yaptığı görüşmelerde 60 gün içinde nihai anlaşmaya ulaşmayı hedefleyen yol haritası oluşturdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-22T12:01:14.785385+00:00",
+  "type": "news",
+  "cluster_id": "c5d32787e2ef6"
+ },
+ {
+  "title": "ABD Başkan Yardımcısı'ndan İran müjdesi",
+  "link": "https://www.sozcu.com.tr/abd-baskan-yardimcisi-ndan-iran-mujdesi-p330139",
+  "source": "Sözcü",
+  "summary_tr": "ABD Başkan Yardımcısı JD Vance, İran ile müzakerelerde ilerleme kaydedildiğini ve başarılı bir temel atıldığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-22T12:01:14.785385+00:00",
+  "type": "news",
+  "cluster_id": "c14c07ff047fc"
+ },
+ {
+  "title": "Rus hükümeti akaryakıt piyasası için tedbir planı hazırlıyor",
+  "link": "https://www.aa.com.tr/tr/ekonomi/rus-hukumeti-akaryakit-piyasasi-icin-tedbir-plani-hazirliyor/3974446",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Rusya Başbakan Yardımcısı Novak, akaryakıt piyasasında istikrarın korunmasına yönelik tedbir planı hazırlanması için talimat verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-22T12:01:14.785385+00:00",
+  "type": "news",
+  "cluster_id": "c6e0aeb288d58"
+ },
+ {
   "title": "UK PM Starmer says he will resign, how is his successor chosen?",
   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeXZPel9RdmE3SDQzbUJicTE1ajZzMjU1c283OUE4a2lVWDZSUlNrUXJLenpDNTFsV2VLcE56V3V5TkJYbTVtQl82Z2JJVlRzdWkxbzh2dUQtc3dpQ1cwcXA2bHN2TTllSnJnTzNLVDBXa1cyV29lNUFrd2VVU0ZpVzlzUlMwclhTdVpkR1Q5cmdhQ0JkQldleTVRMA?oc=5",
   "source": "Reuters",
