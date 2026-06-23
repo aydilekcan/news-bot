@@ -1,5 +1,65 @@
 [
  {
+  "title": "U.S. Senate votes to halt Iran war, bucking Trump",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbTRaMVd3TU94enBqRXpUc0tCNzVEQ2dQaHlnN0oyMm9sak5aTFNybDQtTkJBU25xYlVSV2ZBR2Jwal9WNE5HQWh1N3A3UGpCNlZkUEo0SVoyaThBVmZmamtaaThxT3dBYl9iUE9JU2xNQUhWN2hSUVltdXZJYThsUEVtcnQzV3c4cGZSSlBGQndRdw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Senatosu, Trump'a karşı çıkarak İran savaşını durdurma kararı aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-23T21:01:11.273092+00:00",
+  "type": "news",
+  "cluster_id": "c590212a2c373"
+ },
+ {
+  "title": "Few in US say Iran war was worth it; Trump approval ties lowest of term, Reuters/Ipsos poll finds",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVWJLQVNrUDByX0d0MGo0ZEVtSzJRTTlsSjBYMUp3Wk5VZkYyeVVHYlJMQUtLZ01sV2c5cFNacnRUTHB3eFI0cGI5ZW44UG9fUW5hZVZkdE10XzkxRWp5d3dvRlBFNDJVeXE4Z3V5UW9GY0lPWWxLRG1famNNR0xTeVJMWnJRVTU0dHVwSkJkVV9tejBES0lPdkFMdzljblE0ak5VcW1kS0RSY3lycVczVmQzSnVRMnBFVGpQd2tRR25sOFlKRnRrdUhwMA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Reuters/Ipsos anketine göre, ABD'de çoğunluğun İran savaşının değer olduğunu düşünmediği ve Trump onayı en düşük seviyelerine geriledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-23T21:01:11.273092+00:00",
+  "type": "news",
+  "cluster_id": "c2a3d488f0072"
+ },
+ {
+  "title": "Trump administration can expand fast-track deportation process, US appeals court rules",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOTBDSUNSQnRZNmNrVXdzUnFUT3pOUTRWbXJZVWFaYWx2M0FWVWxsRHdSUExONmJhbnY1bm8xX2x4OXNtT05XelBNOFplNGl1c05BakZ0R01TQnNfOUJsT0hUamNha1B3TFNpZ2RiNGxqN3pYbWZnbmJZOGJ2di0zbURlaFUyM3dMR3JZYjZuUUYwaW5IeDBicmZrNHRLbHAwS3BESEtGbFRjOVVrQ3NXZ0NMRGZOaW5WbE1ENmJR?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD federal mahkemesi, Trump yönetiminin hızlı sınır dışı etme sürecini genişletmesine izin verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-23T21:01:11.273092+00:00",
+  "type": "news",
+  "cluster_id": "c475b7d060a74"
+ },
+ {
+  "title": "Rusya'da akaryakıtta bir kısıtlama kararı daha",
+  "link": "https://www.sozcu.com.tr/rusya-da-akaryakitta-bir-kisitlama-karari-daha-p330574",
+  "source": "Sözcü",
+  "summary_tr": "Rusya, Kursk ve Bryansk bölgelerinde artan talep ve tedarik sorunları nedeniyle akaryakıt satışına kısıtlama getirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-23T21:01:11.273092+00:00",
+  "type": "news",
+  "cluster_id": "c11b218e4c2cd"
+ },
+ {
+  "title": "GSYH büyümesi (kesintisiz dönem): 23 çeyrek",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOGsxZVBTN0s1NjZ3NUt4THFEaDJDaWt3U19lMzhjMWphMXVBSjJ5Zy1JcWdjeG56c1Jjc243RHhXRkRqMVByaEhzdXR3c2RsdTZnQzVpTjZGcTA0czlkTnBjQVVxVW5ha3lGWWJzSGlpeUZHTTV0TnN3UGpneVVJdjlBa9IBiAFBVV95cUxPSmxKQ3NrVG41TnVQaFpRU1N3Z29yNXlucXlBbUdhLUQtTlI2QlJJRndRYjVqMGl5Qk1MM0NlcVhWTUVHUDZESXBFOEMtZkJNbEpzU1ljTklDWDZiUVpJZ3kxNUhZZl9EdTY0NW9Wd016S3RDUmNtWXUxZ2hJdlAySXU3b0RTNnRs?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%2,5 → 23 çeyrek",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-06-23T21:01:11.273092+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "BM soruşturma komisyonu, İsrail'in Gazze'de çocukları kasıtlı hedef alarak soykırım işlediğini söylüyor",
   "link": "https://www.bbc.com/turkce/articles/c2dyn4r2zzno?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
