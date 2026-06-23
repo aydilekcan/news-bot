@@ -1,5 +1,77 @@
 [
  {
+  "title": "Son Dakika... Putin'den 'Zelenski'ye ret... 'İstanbul'a işaret etti: 'Ukrayna ile barış görüşmelerine hazırız'",
+  "link": "https://www.cumhuriyet.com.tr/dunya/son-dakika-putin-den-zelenski-ye-ret-istanbul-a-isaret-etti-ukrayna-ile-baris-gorusmelerine-haziriz-2514790",
+  "source": "Cumhuriyet",
+  "summary_tr": "Putin, Rusya'nın Ukrayna ile İstanbul 2022 mutabakatı temelinde barış görüşmelerine hazır olduğunu söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-23T16:01:17.644675+00:00",
+  "type": "news",
+  "cluster_id": "cee6d8ca10363"
+ },
+ {
+  "title": "Putin, İstanbul'u işaret etti: Ukrayna ile masaya oturmaya hazırız",
+  "link": "https://www.sozcu.com.tr/putin-den-baris-aciklamasi-2026-06-23-p330523",
+  "source": "Sözcü",
+  "summary_tr": "Putin, Rusya'nın Ukrayna ile İstanbul mutabakatı çerçevesinde barış görüşmelerine hazır olduğunu belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-23T16:01:17.644675+00:00",
+  "type": "news",
+  "cluster_id": "cee6d8ca10363"
+ },
+ {
+  "title": "Putin: Ukrayna ile İstanbul'da yapılan barış görüşmeleri temelinde yeniden masaya oturmaya hazırız",
+  "link": "https://www.trthaber.com/haber/dunya/putin-ukrayna-ile-istanbulda-yapilan-baris-gorusmeleri-temelinde-yeniden-masaya-oturmaya-haziriz-949112.html",
+  "source": "TRT Haber",
+  "summary_tr": "Putin, Rusya'nın Ukrayna ile İstanbul 2022 barış görüşmeleri temelinde yeniden masaya oturmaya hazır olduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-23T16:01:17.644675+00:00",
+  "type": "news",
+  "cluster_id": "cd8b56edf3735"
+ },
+ {
+  "title": "Almanya: Emeklilik yaşı yükseliyor, 63'te emeklilik kalkıyor",
+  "link": "https://www.dw.com/tr/almanya-emeklilik-yaşı-yükseliyor-63-te-emeklilik-kalkıyor/a-77678037?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Almanya emeklilik yaşını yükseltiyor; 63'te emeklilik uygulaması kaldırılıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-23T16:01:17.644675+00:00",
+  "type": "news",
+  "cluster_id": "cd4681f843eb4"
+ },
+ {
+  "title": "Araç muayenesinde yeni dönem: Yıllardır tepki çeken ücret kaldırılıyor",
+  "link": "https://www.sozcu.com.tr/arac-muayenesinde-yeni-donem-yillardir-tepki-ceken-ucret-kaldiriliyor-p330525",
+  "source": "Sözcü",
+  "summary_tr": "Araç muayenesinde yıllardır eleştirilen kredi kartı komisyonu uygulaması sona eriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-23T16:01:17.644675+00:00",
+  "type": "news",
+  "cluster_id": "ce31dce6ffb39"
+ },
+ {
+  "title": "Cumhurbaşkanı Erdoğan: Polonya ile ticaret hacmi hedefimizi 15 milyar dolar belirledik",
+  "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-polonya-ile-ticaret-hacmi-hedefimizi-15-milyar-dolar-belirledik-949116.html",
+  "source": "TRT Haber",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, Polonya ile ticaret hacmi hedefini 10 milyar dolardan 15 milyar dolara yükseltti.",
+  "metric": "Polonya ticaret hedefi 10 milyar $ -> 15 milyar $ (+%50)",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-06-23T16:01:17.644675+00:00",
+  "type": "news",
+  "cluster_id": "cc6164efcc5ec"
+ },
+ {
   "title": "Kademeli emeklilik ne zaman çıkacak? 1999-2008 arası SGK girişliler için kademeli emeklilik çıkacak mı?",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/kademeli-emeklilik-ne-zaman-cikacak-1999-2008-arasi-sgk-girisliler-icin-kademeli-emeklilik-cikacak-mi-2514746",
   "source": "Cumhuriyet",
