@@ -1,5 +1,77 @@
 [
  {
+  "title": "Oil gains after selloff, awaits progress on Strait of Hormuz flows",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORGVfZjVpeWcwVGgyVzhLV2tRWk5MS25BWWFual9TakpqRHJIQWtpNjFjVFVVS0U1ckYyOWg0QWJuQm5aLU5xV0ZXQ0dfOExaN0cwQWk5cWZzSXdoUkdybTE4VlZnZjJuS3NrTHM5Q01IUjVwSzNGYUstWmlxZTJpNUNGcll6WEpLR2FoMGVoLXZaVml1QV81QlZ0YXVRdHRKVkxGN24yckhoTUdtbGpqQg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Petrol, satış dalgasından sonra toparlandı; Ormuz Boğazı'ndaki akış ilerlemesi bekleniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-23T03:01:02.937513+00:00",
+  "type": "news",
+  "cluster_id": "ce780a2fbd51c"
+ },
+ {
+  "title": "Asia shares slip as markets reprice Fed expectations, oil gains",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRmhDU00zNnJxQ0g3SWFxOFJ0RVlnTl8tSHl2cS1sRS16eTJtVmxHOU15dkRqR2NKU3BRMUZtTEx1RjFzSVFwRzRWVFpQdnNBU1VwMDM5RFpBTU1HRzJiV2tFUXhvdGRSenhPcTVVVldGV2pDd0lEZms2UVMwUmE4RzJLYnhJYWloLVJUNA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Asya borsaları Fed beklentilerinin yeniden fiyatlanması ile düştü; petrol yükseldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-23T03:01:02.937513+00:00",
+  "type": "news",
+  "cluster_id": "cac66f4b0d580"
+ },
+ {
+  "title": "China hits back at US sanctions on tech giants, restricting its exports to American defense firms",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWpCdDBoT09GWWxwbGxRNVZfTmNUMXNDUEZvYVlRRVk4bmVPdUsxQzBXb1ZnbWdPUFRsbmFaY1MyRDlKaUJscWd5c0FPeUVmQXZRNTVpVjQxLXE2LWtQcU1jRHkwNnc0ajlPTHpHOGFPb0F0Nm91LVZTR3d1MGtnMVluMnpOUXFNeEZQcXJyLWJiR0g2RUNWZ2VRVHRneUQ4eklWdURTXzZqMHRI?oc=5",
+  "source": "AP",
+  "summary_tr": "Çin ABD yapay zeka şirketlerine yönelik yaptırımlara karşılık İş savunma firmalarına ihracat kısıtlaması uyguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-23T03:01:02.937513+00:00",
+  "type": "news",
+  "cluster_id": "cae3165698952"
+ },
+ {
+  "title": "Altın ve Bitcoin piyasalardan 10 trilyon dolar sildi",
+  "link": "https://www.sozcu.com.tr/altin-ve-bitcoin-piyasalardan-10-trilyon-dolar-sildi-p330278",
+  "source": "Sözcü",
+  "summary_tr": "Altın ve Bitcoin piyasalarında 10 trilyon dolarlık değer silindi; altının düşüşü sert gerçekleşti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-23T03:01:02.937513+00:00",
+  "type": "news",
+  "cluster_id": "c022f8b8cf5db"
+ },
+ {
+  "title": "US judge blocks Trump administration SNAP restrictions on soda, candy​",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVW50Vjc1VWdIM185SlgxN2p2VXBZZGdLc1YtUWZOYklaR3h0dWhyYTJlM0RTQ1JldGJtclEtWTJZT19ZT2JKdlBkWjJ1R3Q0bFpGamkzeWNLbElQSV9zeGtqT3VaZmUwVjl6MEJLcEZCV3ZlZktvQlF1LUxib0x1Z1d3bHZ3RTVjX1ZDYUdfWFhwUUJVdkYwUkpBYkZid0ZSek0zcjFUV05GQ0lfblFWOWFWeVFGY2xOOXc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD federal hakim Trump yönetiminin SNAP programında soda ve şeker kısıtlaması kararını engelledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-23T03:01:02.937513+00:00",
+  "type": "news",
+  "cluster_id": "ccab9f3c3bbf5"
+ },
+ {
+  "title": "Federal judge halts Trump administration effort to subpoena Walz in immigration enforcement probe",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWnJOYUtMa3BTMjY4azNCdkthYjFCaE5rNDBVR2dzbHZUZDg1bGNKS0lkTzNDOVVwU3VzcWtpT0R4LTRkNGtCSXpITkMzZjlZS3Rob2hfQ1lpUVFSZEFtQ3IyckJNWHBsRjdTZEpSUmxlSFdnXzJIclU4a1JEeElHalNMQ1JraWpGV1I2MzcybW84ZXpGQzNzcV9Td09nNUZ0TkNNalF3?oc=5",
+  "source": "AP",
+  "summary_tr": "Federal hakim Trump yönetiminin göçmen işçi uygulaması soruşturmasında Walz'a çağrı çıkarmasını durdurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-23T03:01:02.937513+00:00",
+  "type": "news",
+  "cluster_id": "c45af90f07093"
+ },
+ {
   "title": "12. Yargı Paketi Meclis’te: Beklenen düzenlemeler dışarıda kaldı",
   "link": "https://www.cumhuriyet.com.tr/turkiye/12-yargi-paketi-meclis-te-beklenen-duzenlemeler-disarida-kaldi-2514490",
   "source": "Cumhuriyet",
