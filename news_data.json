@@ -1,5 +1,41 @@
 [
  {
+  "title": "12. Yargı Paketi Meclis’te: Beklenen düzenlemeler dışarıda kaldı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/12-yargi-paketi-meclis-te-beklenen-duzenlemeler-disarida-kaldi-2514490",
+  "source": "Cumhuriyet",
+  "summary_tr": "AKP'nin hazırladığı 12. Yargı Paketi TBMM'ye sunuldu. IBAN, infaz ve Avukatlık Kanunu düzenlemeleri beklentilerin dışında kaldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-23T02:01:06.219269+00:00",
+  "type": "news",
+  "cluster_id": "c089e49e6d47c"
+ },
+ {
+  "title": "Yurttaş batağa saplandı: ‘Butlan’ rezervi vurdu",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/yurttas-bataga-saplandi-butlan-rezervi-vurdu-2514493",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP, vatandaşın finansal borcunun ilk kez 7 trilyon lirayı aştığını açıkladı. Varlık yönetim şirketlerine olan borçlar da dahil edildi.",
+  "metric": "Vatandaş borcu 7 trilyon TL (+)",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-23T02:01:06.219269+00:00",
+  "type": "news",
+  "cluster_id": "ce34e0d5d5833"
+ },
+ {
+  "title": "İktidar mutfaktaki yangını söndüremiyor",
+  "link": "https://www.cumhuriyet.com.tr/yazarlar/olaylar-ve-gorusler/iktidar-mutfaktaki-yangini-sonduremiyor-suleyman-girgin-2514506",
+  "source": "Cumhuriyet",
+  "summary_tr": "Hükümet, Cumhurbaşkanı Erdoğan'ın 2018'deki faiz ve ekonomi politikası açıklamasının ardından ortaya çıkan mutfak maliyetindeki zorlukları çözemediği iddia edildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-23T02:01:06.219269+00:00",
+  "type": "news",
+  "cluster_id": "c91b706a03b8e"
+ },
+ {
   "title": "CHP'li Silifke Belediye Başkanı dahil 8 kişi tutuklandı",
   "link": "https://www.bbc.com/turkce/articles/cpwe70eejqxo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
