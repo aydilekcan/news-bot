@@ -1,5 +1,77 @@
 [
  {
+  "title": "İran: Hürmüz Boğazı'nı biz yöneteceğiz",
+  "link": "https://www.dw.com/tr/iran-hürmüz-boğazı-nı-biz-yöneteceğiz/a-77666788?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "İranlı müzakereci Kalibaf, Hürmüz Boğazı'nı İran'ın yöneteceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-23T07:01:16.068980+00:00",
+  "type": "news",
+  "cluster_id": "c7bfbfff3924a"
+ },
+ {
+  "title": "US waives Iran sanctions, Trump says he will 'do what I have to' if Tehran misbehaves",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcS1OdmpfbHlfTkxhM2xVM0cwWHVDeWhRUTNiY284YkViREtCTWpoSmRJVGpVdFBVWnpaS1BpZEFHcjd1Y2s0VDZ1Z25oOUQzY1FtQ1ZTOGlKRE1JRm1Ma3k0RUZoN0RCTlBjTV84eUtfZ05Cdk1lSzd3aXV3QkJtVklEa3FIYk92MkUzTW5YMm82Wmd0TmpYMEF5dnBnUmU2M0RKamprTjRJcnd1Z292dE1nM1A0ekFiS1M3YVhGZUQ3T0pQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD İran yaptırımlarından feragat etti; Trump, Tahran kural dışı davranırsa gerekli adımları atacağını söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-23T07:01:16.068980+00:00",
+  "type": "news",
+  "cluster_id": "c67545b47a4a2"
+ },
+ {
+  "title": "Özel grup toplantısı yapacak, Kılıçdaroğlu MYK toplayacak",
+  "link": "https://www.bbc.com/turkce/articles/cwyl19vzkn7o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "CHP Genel Başkanlığına mahkeme kararıyla atanan Kılıçdaroğlu MYK toplantısı yapacak; Grup Başkanı Özgür Özel 23 Haziran'da TBMM'de konuşacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-23T07:01:16.068980+00:00",
+  "type": "news",
+  "cluster_id": "c6cec6045256f"
+ },
+ {
+  "title": "Kılıçdaroğlu Genel Merkez'de MYK'yi topluyor: Özgür Özel TBMM'de Grup Toplantısı'nda konuşacak",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/kilicdaroglu-genel-merkez-de-myk-yi-topluyor-ozgur-ozel-tbmm-de-grup-toplantisi-nda-konusacak-2514575",
+  "source": "Cumhuriyet",
+  "summary_tr": "Mahkeme kararıyla CHP Genel Başkanlığına atanan Kılıçdaroğlu bugün MYK toplantısı yapıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-23T07:01:16.068980+00:00",
+  "type": "news",
+  "cluster_id": "c03b92043cf0b"
+ },
+ {
+  "title": "Altının güne düşüşle başladı",
+  "link": "https://www.trthaber.com/haber/ekonomi/altinin-gune-dususle-basladi-949040.html",
+  "source": "TRT Haber",
+  "summary_tr": "Gram altın 6.152 TL'den işlem görüyor; güne düşüşle başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-23T07:01:16.068980+00:00",
+  "type": "news",
+  "cluster_id": "ca0f43ec1e1e9"
+ },
+ {
+  "title": "Gold falls as dollar holds firm on Fed rate-hike expectations",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUVBUOEYtdFRVZ0FwQ2pUYXpSUFQ1YjhZdHh6RjU2ZzV5RzdRUGtjajlLRTBIUDBoYk5ZcXcwNTE5UmZZVnR5aDVHR2MzVG5UUlE5TEVnTGo0VnplM2FuZnk3SnpQNmJ2ZnpSZ1A4RWhVcU5DUnBMUUh3YXFTUkktZGJXV25TSzBOODNaYm93ckJ0NUZDOF9pazlHRQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Altın fiyatı düştü; dolar Fed faiz artışı beklentisiyle güçlü kalıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-23T07:01:16.068980+00:00",
+  "type": "news",
+  "cluster_id": "cf7af32db4193"
+ },
+ {
   "title": "Emekli maaşı alan herkes e-Devlet'ini kontrol etsin: SGK haber vermeden iptal ediyor",
   "link": "https://www.sozcu.com.tr/emekli-maasi-alan-herkes-e-devlet-ini-kontrol-etsin-sgk-haber-vermeden-iptal-ediyor-p330327",
   "source": "Sözcü",
