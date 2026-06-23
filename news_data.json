@@ -1,5 +1,77 @@
 [
  {
+  "title": "Trump: İran nükleer denetimi kabul etti",
+  "link": "https://www.trthaber.com/haber/dunya/trump-iran-nukleer-denetimi-kabul-etti-949082.html",
+  "source": "TRT Haber",
+  "summary_tr": "Trump, İran'ın kapsamlı nükleer denetim koşullarını kabul ettiğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-23T12:01:12.736182+00:00",
+  "type": "news",
+  "cluster_id": "c4687624abe42"
+ },
+ {
+  "title": "30 yıl sonra gelen dolar izninin ardından İran bankalarına siber saldırı",
+  "link": "https://www.sozcu.com.tr/30-yil-sonra-gelen-dolar-izninin-ardindan-iran-bankalarina-siber-saldiri-p330461",
+  "source": "Sözcü",
+  "summary_tr": "ABD, İran petrolüne 30 yıl sonra yaptırım muafiyeti tanıdıktan sonra İran bankaları siber saldırıya uğradı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-23T12:01:12.736182+00:00",
+  "type": "news",
+  "cluster_id": "ce0ba8bb11008"
+ },
+ {
+  "title": "İran'da siber saldırı nedeniyle bankacılık sistemlerinde aksaklıklar meydana geldiği açıklandı",
+  "link": "https://www.aa.com.tr/tr/dunya/iranda-siber-saldiri-nedeniyle-bankacilik-sistemlerinde-aksakliklar-meydana-geldigi-aciklandi/3975463",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD'nin İran petrolüne yaptırım muafiyetinin ardından İran bankacılık sisteminde siber saldırıdan dolayı aksaklıklar yaşanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-23T12:01:12.736182+00:00",
+  "type": "news",
+  "cluster_id": "c3f3c498d4c38"
+ },
+ {
+  "title": "Hürmüz Boğazı'nda ticari gemi geçişleri savaş öncesi seviyenin yüzde 25'ine ulaştı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/hurmuz-bogazinda-ticari-gemi-gecisleri-savas-oncesi-seviyenin-yuzde-25ine-ulasti/3975460",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Hürmüz Boğazı'nda ticari gemi geçişleri son 5 günde savaş öncesi seviyenin %25'ine ulaştı.",
+  "metric": "Hürmüz Boğazı ticari gemi geçişleri: savaş öncesi seviyenin %25'ine (5 günde)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-23T12:01:12.736182+00:00",
+  "type": "news",
+  "cluster_id": "c9f48c3befef7"
+ },
+ {
+  "title": "South Korea's KOSPI plunges nearly 10% after regulator cautions on leveraged ETFs",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWUdDOF9YWnk5UExOWFVMYTRlWUhBcmI5cGM3aE5nMEwwYWhnbkpKMVFYcy1UMEhLbjQ2Mm1rc0RKQWtyRG9pczQtTjN6TE12WUVoNmUyZTFkb01yQl84aldiaWpTT1RmRzlZQVF2M2VKdUdFZ29sMzdXR2t0XzVfQnNhVXZIR01PNVRiVVNmTmxpQ0JheFl5bXBHVG9iLXdNN3RlS1ZyOEhpaTlhX0w4Zk11Tlh2MXRhazlsVkNRelVCNUVYM1l1X1VTaw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Güney Kore borsası (KOSPI) kaldıraçlı ETF uyarısının ardından yaklaşık %10 düştü.",
+  "metric": "KOSPI: yaklaşık -%10",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-23T12:01:12.736182+00:00",
+  "type": "news",
+  "cluster_id": "c95e74c23d53c"
+ },
+ {
+  "title": "Öğretmenlerden madencilere: Son çare açlık grevi",
+  "link": "https://www.dw.com/tr/öğretmenlerden-madencilere-son-çare-açlık-grevi/a-77672201?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Ankara'da öğretmenler dokuzuncu gün açlık grevini sürdürüyor; polis müdahaleleri devam ediyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-23T12:01:12.736182+00:00",
+  "type": "news",
+  "cluster_id": "c5407fd3a634a"
+ },
+ {
   "title": "CHP’li Çakırözer’den iktidar milletvekillerine çağrı: ‘Suudi Arabistan anlaşmasını reddedin’",
   "link": "https://www.cumhuriyet.com.tr/turkiye/chp-li-cakirozer-den-iktidar-milletvekillerine-cagri-suudi-arabistan-anlasmasini-reddedin-2514676",
   "source": "Cumhuriyet",
