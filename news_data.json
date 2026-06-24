@@ -1,5 +1,65 @@
 [
  {
+  "title": "Fed'in stres testi, ABD'nin büyük bankalarının olası bir resesyona karşı dayanıklı olduğunu gösterdi",
+  "link": "https://www.aa.com.tr/tr/dunya/fedin-stres-testi-abdnin-buyuk-bankalarinin-olasi-bir-resesyona-karsi-dayanikli-oldugunu-gosterdi/3977198",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Fed stres testi, ABD'nin büyük bankalarının ciddi resesyonu atlatabilecek dayanıklılığa sahip olduğunu gösterdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-24T22:01:10.567152+00:00",
+  "type": "news",
+  "cluster_id": "c496f055924c2"
+ },
+ {
+  "title": "Qualcomm forecasts $15 billion data center chip sales by 2029, shares soar",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYnR1NDI4aWZHU3RPUlpodXhUMGlKSXFMU3k0QWZOY2hYSVdsVDlDdnhuSF9BaHh3UlV2WURZeFZQVGVKSFluTlJ4WmVHTEJVQy04clNMR3VONzUycVVUNm5zcHhOVW9EcmdGVXFtR2V6bEVMeE4zOVVNUnAyYUpnRklIWWh3eTZyR0lnUzBkeGNiWXhMRFN4ME9IZm9WMlFwM2I0eC1mY2lwY1B3T21RYUhqNjhNbXhGcHB5UHQxOTlQcXJfN2VV?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Qualcomm, 2029 yılına kadar veri merkezi çip satışlarının 15 milyar dolara ulaşacağını tahmin etti; hisseler yükseldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-24T22:01:10.567152+00:00",
+  "type": "news",
+  "cluster_id": "c40513317df2b"
+ },
+ {
+  "title": "Trump: (Ankara'daki NATO Zirvesi) Cumhurbaşkanı Erdoğan'a duyduğum saygıdan dolayı gidiyorum",
+  "link": "https://www.aa.com.tr/tr/dunya/trump-ankaradaki-nato-zirvesi-cumhurbaskani-erdogana-duydugum-saygidan-dolayi-gidiyorum/3977177",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Trump, Cumhurbaşkanı Erdoğan'a duyduğu saygıdan dolayı Ankara'daki NATO Zirvesi'ne katılacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-24T22:01:10.567152+00:00",
+  "type": "news",
+  "cluster_id": "cbaeabfc4c35f"
+ },
+ {
+  "title": "Elon Muskın trilyoner unvanı kısa sürdü",
+  "link": "https://www.trthaber.com/haber/dunya/elon-muskin-trilyoner-unvani-kisa-surdu-949246.html",
+  "source": "TRT Haber",
+  "summary_tr": "Elon Musk, SpaceX ve Tesla hisselerindeki sert düşüşler nedeniyle trilyoner unvanını kaybetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-24T22:01:10.567152+00:00",
+  "type": "news",
+  "cluster_id": "c9d8b8758e449"
+ },
+ {
+  "title": "Micron forecasts strong quarterly results on soaring memory chip demand",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONHFoOERlZ21UYTlHdmVQYVo5NUpYcFMtS2g1VnBrU2I0S3lEUlJCRHNQSjE5TV9keWZhTFBFUjBsdzFOVE9iQkpiNzZ4OGU3WFZSR1RmV1Y0M2NiWEVLQjRqSzRwNzJrWDBwcUxQYUlsNWxqN3ZZazg2RFAwUkhaakZYN2JSN1NtbTVxTE5tdWRrc3dFOVRhdS1iQQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Micron, hafıza çipi talebinin yükselmesi nedeniyle güçlü üç aylık sonuçlar tahmin ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-24T22:01:10.567152+00:00",
+  "type": "news",
+  "cluster_id": "ce29cf891ee48"
+ },
+ {
   "title": "NATO zirvesi öncesi Trump'tan 'Erdoğan' övgüleri: 'O olmasaydı gelmezdim, saygın bir lider'",
   "link": "https://www.cumhuriyet.com.tr/dunya/nato-zirvesi-oncesi-trump-tan-erdogan-ovguleri-o-olmasaydi-gelmezdim-saygin-bir-lider-2515174",
   "source": "Cumhuriyet",
