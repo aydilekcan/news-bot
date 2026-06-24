@@ -1,5 +1,65 @@
 [
  {
+  "title": "EXCLUSIVE: Moscow oil refinery hit by drone attacks is unlikely to resume production this year, sources say",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaWNMVV82eDZ2MEtDRnBUbkJXNGgtbHduNnJjMnlCTnpYR3ZQMXVSQU81enhoS3FJQW5TS3VZcnlaemgweVRSS2J1VFhmUE1iQzdfWjd4SGJMb3RicnpQRTFTRkRvenNvTG1wazRBTmt3bkprOTlSemhXTUdTSkJRUHdLZUFfUm1WdTBUN3NKUldvRWtHaGt3LWJiSVNKVS1PRGlFdUtTci1MaDNNcDNLcnN1ZG5HdDJhX2JzOWlpZ1pYb3BKSWMtYm5SbjI?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Moskova'da İHA saldırısı sonrası vurulmuş bir petrol rafinerisi bu yıl üretimi sürdürme olasılığı düşük görülüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-24T11:01:12.670630+00:00",
+  "type": "news",
+  "cluster_id": "cb516ed898e3e"
+ },
+ {
+  "title": "Alman ekonomisi yeniden umutlanıyor",
+  "link": "https://www.dw.com/tr/alman-ekonomisi-yeniden-umutlanıyor/a-77688847?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Almanya ekonomisine olan güven Haziran'da yükseldi. Ifo iş iklimi endeksi 85,0'dan 85,6 puana çıktı.",
+  "metric": "Ifo iş iklimi endeksi 85,0 -> 85,6 (+0,6 puan)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-24T11:01:12.670630+00:00",
+  "type": "news",
+  "cluster_id": "cedff0dd817df"
+ },
+ {
+  "title": "İki dev banka aynı kararı aldı: 95 şube birden kapatılıyor",
+  "link": "https://www.sozcu.com.tr/iki-dev-banka-ayni-karari-aldi-95-sube-birden-kapatiliyor-p330761",
+  "source": "Sözcü",
+  "summary_tr": "Lloyds Bank ve Halifax dijital bankacılığa geçiş kapsamında 95 şubesini kapatıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-24T11:01:12.670630+00:00",
+  "type": "news",
+  "cluster_id": "c9f77313e8542"
+ },
+ {
+  "title": "Doğu Karadeniz'in su ürünleri ihracatı 5 ayda 73,7 milyon doları aştı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/dogu-karadenizin-su-urunleri-ihracati-5-ayda-73-7-milyon-dolari-asti/3976552",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Doğu Karadeniz'in su ürünleri ihracatı ocak-mayıs döneminde geçen yılın aynı dönemine göre yüzde 6 artarak 73,7 milyon doları aştı.",
+  "metric": "Su ürünleri ihracatı (ocak-mayıs) +%6",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-24T11:01:12.670630+00:00",
+  "type": "news",
+  "cluster_id": "cd03ebab06b69"
+ },
+ {
+  "title": "Global physical crude markets mired in discounts as Middle East ramps up supply",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLXUxZVlBdXJnZm1yZjBMY0p2LXNzMGdBTFliN0trUVU3eExBM1h3Zmd2T0tTX0VOdm5OOWFZMFJBaEc4cVRUOHlfSnQ4bWJlT0tzWjVCaUt2WU1tV0JwMDZRd3VWMFhZM2d2RkVVdGh0d0t4ZmcxTWQwUkQzSnZBOUxDTXMxbEtLUXpTYk9CUGJudGxiazlNR2owQ2VpNDhDVHJiXzRWQ3hhd2kza2ZNMDVrTjdjbWl0eWFXUFlndHlubmM?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Orta Doğu'nun petrol arzını artırması sonrası küresel ham petrol piyasaları indirim basıncı altında.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-24T11:01:12.670630+00:00",
+  "type": "news",
+  "cluster_id": "c3e11cee1737d"
+ },
+ {
   "title": "ABD Kongresi'nden Trump'a İran çıkışı: 'Ya savaşı bitir ya onayımızı al'",
   "link": "https://www.bbc.com/turkce/articles/c4gy73408e2o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
