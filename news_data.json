@@ -1,5 +1,77 @@
 [
  {
+  "title": "Köylü can suyu bekliyor ama milyarlarca dolarlık kırsal refah bütçesi sermayeye gidecek: Tarımda dolaylı tasfiye",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/koylu-can-suyu-bekliyor-ama-milyarlarca-dolarlik-kirsal-refah-butcesi-sermayeye-gidecek-tarimda-dolayli-tasfiye-2514896",
+  "source": "Cumhuriyet",
+  "summary_tr": "Türkiye'de tarımsal girdi enflasyonu %38,97'ye yükseldi; 5,3 milyar dolarlık kırsal refah bütçesinin sermayeye yönlendirilmesi tartışılıyor.",
+  "metric": "Tarımsal girdi enflasyonu -> %38,97",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-24T06:01:07.923347+00:00",
+  "type": "news",
+  "cluster_id": "c25bc0a3e4128"
+ },
+ {
+  "title": "Dolar rekor kırdı: Euro ters köşe yaptı!",
+  "link": "https://www.sozcu.com.tr/dolar-rekor-kirdi-euro-ters-kose-yapti-p330645",
+  "source": "Sözcü",
+  "summary_tr": "Dolar/TL kuru rekor kırıp 46,48 liraya yükseldi; Euro/TL ise aşağı yönlü eğilim gösterdi.",
+  "metric": "Dolar/TL -> 46,48 (rekor)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-24T06:01:07.923347+00:00",
+  "type": "news",
+  "cluster_id": "c4da18b0539b5"
+ },
+ {
+  "title": "Trump instructs DOJ to probe oil companies over higher gasoline prices",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSUV2eHhaNm43T1loajA0dFNuLWJuNDlydGxjRjQ2ZzBFYlAyWnM5dldhZlptMFhnWHR1N2s2b3p4UTFoSFRsMDNlYVJ4TWtTcUlxczJGZ0RMd2hnQVFTcFM5dkdSQkpNbzFoZWlFVlVwdk82eWQ1OG55MVN1aTdVUTJOZ0I4X1EtSkRPdUEybjZhQ1J3UWFtOUVzUUxmNk83aHlmVjIwbUlucEd5VkJrNFpyTVFQbk5lRjEw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, Adalet Bakanlığından petrol şirketlerinin yüksek benzin fiyatları hakkında soruşturma yapmasını istedi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-24T06:01:07.923347+00:00",
+  "type": "news",
+  "cluster_id": "ce74907b8414b"
+ },
+ {
+  "title": "Ukraine says it hit a railway bridge to Crimea, seeking to isolate the Russian-held peninsula",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd1VSejl2SUhJMm5fZDVLcW84X0FKOUpnc0tKUHVSYkNLR3lxY1JFNFBRTE50RkgxcVRJY1hMR0VQVGlkcWRIaldSNjZDbnRPQW44R2dLWFdoWGV2c2lHVGNpWWxxU2xIdHhSTWVya2xXUElVb3M1NFRjdk9SWjN3Y3JjUjRza3kyX0pIOTVHOWVMdnlHWVVET0d5SWNKV25HLWlZ?oc=5",
+  "source": "AP",
+  "summary_tr": "Ukrayna, Kırım'a giden demiryolu köprüsünü vurdu; Rusya kontrolündeki yarımadayı izole etmeyi hedefledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-24T06:01:07.923347+00:00",
+  "type": "news",
+  "cluster_id": "c2326f9ac00b8"
+ },
+ {
+  "title": "İktidarın gözdesi Nurol 66 bin ağaç keserek siyanürlü altın arayacak: Madra Dağı’nda altın uğruna büyük talan",
+  "link": "https://www.cumhuriyet.com.tr/cevre/iktidarin-gozdesi-nurol-66-bin-agac-keserek-siyanurlu-altin-arayacak-madra-dagi-nda-altin-ugruna-buyuk-talan-2514889",
+  "source": "Cumhuriyet",
+  "summary_tr": "Nurol Holding'e bağlı TÜMAD, Balıkesir İvrindi'deki altın madeninin kapasitesini iki katına çıkaracak; 66 bin ağaç kesilecek.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-24T06:01:07.923347+00:00",
+  "type": "news",
+  "cluster_id": "c3597c5ef77b5"
+ },
+ {
+  "title": "Trump, petroldeki düşüşün pompa fiyatlarına yansıtılmamasının incelenmesini istedi",
+  "link": "https://www.aa.com.tr/tr/dunya/trump-petroldeki-dususun-pompa-fiyatlarina-yansitilmamasinin-incelenmesini-istedi/3976123",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, petroldeki düşüşün benzin fiyatlarına yansımaması konusunda Adalet Bakanlığına inceleme talimatı verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-24T06:01:07.923347+00:00",
+  "type": "news",
+  "cluster_id": "c1456f4962d70"
+ },
+ {
   "title": "Russian-held Sevastopol without power after Ukraine strikes, Moscow-installed governor says",
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMDVOS0NpeGZQWlNiTjB0VWE4eUJDenFjc1JkbzNidVdwV1FES2VqNnpVMy1Sal9JbmpFcldCVmxiZGcyazVJX0xQNlNLbTdsa0JGN1VyRFFvODFtRExaek85LVBZcVNxaDM0VDZUZ3RqVVNCS3gtQUxlR255Tk9WUTdDb3B5YmJ3SmotSFFkdzlrb2Rqd2lhT2VaNnBnNjJkTGlvckxpTEp5aUZtdGNVSFltYm1GSTlzRkJIYnZJR0pVaUk?oc=5",
   "source": "Reuters",
