@@ -1,5 +1,65 @@
 [
  {
+  "title": "Hem kazandırdı hem kaybettirdi! Tarihe geçen halka arzda büyük çöküş",
+  "link": "https://www.sozcu.com.tr/hem-kazandirdi-hem-kaybettirdi-tarihe-gecen-halka-arzda-buyuk-cokus-p330667",
+  "source": "Sözcü",
+  "summary_tr": "SpaceX halka arzı sonrası hisseleri 3 günde önemli düşüş yaşadı. Şirket 600 milyar dolardan fazla değer kaybetti.",
+  "metric": "SpaceX hisse değeri: 600+ milyar dolar kayıp",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-24T07:01:14.852754+00:00",
+  "type": "news",
+  "cluster_id": "ca78f5e886c00"
+ },
+ {
+  "title": "Altın fiyatları kritik seviyelere geriledi: Gram, çeyrek ve Cumhuriyet altını bugün ne kadar oldu? Güncel altın fiyatları 24 Haziran 2026 Çarşamba...",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/altin-fiyatlari-kritik-seviyelere-geriledi-gram-ceyrek-ve-cumhuriyet-altini-bugun-ne-kadar-oldu-guncel-altin-fiyatlari-24-haziran-2026-carsamba-2514921",
+  "source": "Cumhuriyet",
+  "summary_tr": "Altın fiyatları 24 Haziran 2026'de kritik seviyelere geriledi. Gram, çeyrek ve Cumhuriyet altını fiyatları düşüş kaydetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-24T07:01:14.852754+00:00",
+  "type": "news",
+  "cluster_id": "cfbcc5133460f"
+ },
+ {
+  "title": "ABD'de vatandaşlık başvuru ücretlerine yüzde 80'e varan zam teklifi",
+  "link": "https://www.trthaber.com/haber/dunya/abdde-vatandaslik-basvuru-ucretlerine-yuzde-80e-varan-zam-teklifi-949158.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Trump yönetimi, vatandaşlık başvuru ücretlerinde %80'e varan zam teklif etti. Dar gelirliler için ücret indirimi öngörülüyor.",
+  "metric": "Vatandaşlık başvuru ücreti: +%80 zam önerisi",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-24T07:01:14.852754+00:00",
+  "type": "news",
+  "cluster_id": "c873a49d935eb"
+ },
+ {
+  "title": "Trump calls for probe into gasoline price 'gouging'",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSUV2eHhaNm43T1loajA0dFNuLWJuNDlydGxjRjQ2ZzBFYlAyWnM5dldhZlptMFhnWHR1N2s2b3p4UTFoSFRsMDNlYVJ4TWtTcUlxczJGZ0RMd2hnQVFTcFM5dkdSQkpNbzFoZWlFVlVwdk82eWQ1OG55MVN1aTdVUTJOZ0I4X1EtSkRPdUEybjZhQ1J3UWFtOUVzUUxmNk83aHlmVjIwbUlucEd5VkJrNFpyTVFQbk5lRjEw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, benzin fiyatlarında 'aşırı kar' soruşturması açılmasını talep etti. Yakıt fiyatlarındaki artışları ele alacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-24T07:01:14.852754+00:00",
+  "type": "news",
+  "cluster_id": "c4adb9062789e"
+ },
+ {
+  "title": "Türkiye büyüme tahmini 2026: %2,8 (2026)",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa3BrNXcwNGRCZ2lRUllzZDYwcWpYUWx4Ykhrcjd0VVNkQmkwNjE5UjlqVGExN2N2NzR1Y0N3UUgyamE1WG85c2FNal80RTNpdVItUVFBcXdBMjhIMnFnR1p5S3M1LUNCNzlib09aZFlIdnlxNUVDYm5nN2gwTFBodWNyMmZhdUdmeTZHUWRSUnVNMnZsSmdJdE5OR2xocU5rM256ZU1GUG9nWkRpdl9HOQ?oc=5",
+  "source": "Dünya Bankası",
+  "summary_tr": "%2,8",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-06-24T07:01:14.852754+00:00",
+  "type": "forecast",
+  "cluster_id": ""
+ },
+ {
   "title": "Köylü can suyu bekliyor ama milyarlarca dolarlık kırsal refah bütçesi sermayeye gidecek: Tarımda dolaylı tasfiye",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/koylu-can-suyu-bekliyor-ama-milyarlarca-dolarlik-kirsal-refah-butcesi-sermayeye-gidecek-tarimda-dolayli-tasfiye-2514896",
   "source": "Cumhuriyet",
