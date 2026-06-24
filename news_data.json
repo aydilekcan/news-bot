@@ -1,5 +1,77 @@
 [
  {
+  "title": "Reuters: ABD KAAN uçaklarına motor satışına izin verecek",
+  "link": "https://www.bbc.com/turkce/articles/c05y9q2dqnyo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD, Türkiye'nin yerli KAAN uçaklarına motor satışına izin verecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-24T19:01:08.068273+00:00",
+  "type": "news",
+  "cluster_id": "ca66857e668a4"
+ },
+ {
+  "title": "Emniyet, vergi ve basın mevzuatındaki değişiklikler Meclis'ten geçti",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/emniyet-vergi-ve-basin-mevzuatindaki-degisiklikler-meclis-ten-gecti-2515146",
+  "source": "Cumhuriyet",
+  "summary_tr": "TBMM, Emniyet Teşkilatında amir rütbe oranları ve atama şartlarını yeniden belirleyen yasayı kabul etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-24T19:01:08.068273+00:00",
+  "type": "news",
+  "cluster_id": "ce7cf0cd7b5a4"
+ },
+ {
+  "title": "Emniyet teşkilatında düzenlemeleri içeren kanun teklifi Meclis'te kabul edildi",
+  "link": "https://www.trthaber.com/haber/gundem/emniyet-teskilatinda-duzenlemeleri-iceren-kanun-teklifi-mecliste-kabul-edildi-949230.html",
+  "source": "TRT Haber",
+  "summary_tr": "TBMM Genel Kurulu, AK Parti'nin hazırladığı Emniyet Teşkilat Kanunu'ndaki düzenlemeleri kabul etti.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-06-24T19:01:08.068273+00:00",
+  "type": "news",
+  "cluster_id": "c48df3e1c6812"
+ },
+ {
+  "title": "Açlık grevindeki öğretmenlere sessiz kalan bakan Tekin: Öğretmenlerin fedakarlıklarını göz ardı etmiyoruz",
+  "link": "https://www.sozcu.com.tr/aclik-grevindeki-ogretmenlere-sessiz-kalan-bakan-tekin-ogretmenlerin-fedakarliklarini-goz-ardi-p330864",
+  "source": "Sözcü",
+  "summary_tr": "Özel okul ve mülakat mağduru öğretmenler açlık grevinin 10. günü yapıyor; bakan açıklama yapmadı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-24T19:01:08.068273+00:00",
+  "type": "news",
+  "cluster_id": "c04fbfdb609e8"
+ },
+ {
+  "title": "ABD Enerji Bakanı Wright, son 24 saatte Hürmüz Boğazı'ndan 20 milyon varil petrol geçirildiğini söyledi",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-enerji-bakani-wright-son-24-saatte-hurmuz-bogazindan-20-milyon-varil-petrol-gecirildigini-soyledi/3977087",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Enerji Bakanı Wright, Hürmüz Boğazı'ndan son 24 saatte 20 milyon varil petrol geçtiğini duyurdu.",
+  "metric": "Petrol akışı: son 24 saat 20 milyon varil",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-24T19:01:08.068273+00:00",
+  "type": "news",
+  "cluster_id": "c85e38968f2d9"
+ },
+ {
+  "title": "Russian anti-war politician jailed for seven years over social media posts",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYS1jYVA4dlhQOGp4dFRQSURZZmJEQ3VhSzhjUVZTN1B3ZlY5ZmlXSmxMOUVnTFhBY2hHUG45YnFQQzdjbjhRc2dJREwwUjRnREJ3QzJwdUFkbUMzcXVSaXR3RXAyT0pGZXpyM0lNWmJiMVk2Nk5wc2F4MnNQb0FfZ3pzV2RqQkU5WWtPX0Z6MVYtTDVON2FMbGd0cS1BVmFEdlM4U3hhWUgyYUFhM1pEbWVMa3hPTnpzRVREU0pyMV9RQQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rus muhalif politikacı sosyal medya paylaşımları nedeniyle 7 yıl hapis cezasına çarptırıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-24T19:01:08.068273+00:00",
+  "type": "news",
+  "cluster_id": "c8a8a9a44e721"
+ },
+ {
   "title": "Küresel piyasalarda altının ons fiyatı 4 bin doların, bitcoin 60 bin doların altını gördü",
   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-altinin-ons-fiyati-4-bin-dolarin-bitcoin-60-bin-dolarin-altini-gordu/3977052",
   "source": "Anadolu Ajansı",
