@@ -1,5 +1,65 @@
 [
  {
+  "title": "Son dakika... Metin Yener yeniden Sayıştay Başkanı seçildi: CHP, oylamaya katılmama kararı aldı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-metin-yener-yeniden-sayistay-baskani-secildi-chp-oylamaya-katilmama-karari-aldi-2515109",
+  "source": "Cumhuriyet",
+  "summary_tr": "Metin Yener TBMM seçiminde 272 oy alarak yeniden Sayıştay Başkanı seçildi. CHP oylamaya katılmama kararı aldı.",
+  "metric": "Metin Yener: 272 oy",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-24T16:01:13.379620+00:00",
+  "type": "news",
+  "cluster_id": "c11cda4fca046"
+ },
+ {
+  "title": "Sayıştay Başkanlığına yeniden Metin Yener seçildi",
+  "link": "https://www.aa.com.tr/tr/gundem/sayistay-baskanligina-yeniden-metin-yener-secildi/3976970",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "TBMM Genel Kurulu'nda Metin Yener yeniden Sayıştay Başkanlığına seçildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-24T16:01:13.379620+00:00",
+  "type": "news",
+  "cluster_id": "c11cda4fca046"
+ },
+ {
+  "title": "Metin Yener yeniden Sayıştay Başkanı seçildi",
+  "link": "https://www.trthaber.com/haber/gundem/metin-yener-yeniden-sayistay-baskani-secildi-949220.html",
+  "source": "TRT Haber",
+  "summary_tr": "TBMM Genel Kurulu seçiminde 272 oy alan Metin Yener yeniden Sayıştay Başkanı seçildi.",
+  "metric": "Metin Yener: 272 oy",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-24T16:01:13.379620+00:00",
+  "type": "news",
+  "cluster_id": "c11cda4fca046"
+ },
+ {
+  "title": "Yeni Sayıştay Başkanı belli oldu",
+  "link": "https://www.sozcu.com.tr/yeni-sayistay-baskani-belli-oldu-p330834",
+  "source": "Sözcü",
+  "summary_tr": "TBMM seçiminde Metin Yener 272 oy alarak yeniden Sayıştay Başkanı olarak seçildi.",
+  "metric": "Metin Yener: 272 oy",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-24T16:01:13.379620+00:00",
+  "type": "news",
+  "cluster_id": "c2545d2fa1d3f"
+ },
+ {
+  "title": "Öğretmenlerin açlık grevi sürerken… Özel sektör öğretmenleri ve mülakat mağdurlarıyla ilgili bir grup önerisi daha reddedildi",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/ogretmenlerin-aclik-grevi-surerken-ozel-sektor-ogretmeleri-ve-mulakat-magdurlariyla-ilgili-bir-grup-onerisi-daha-reddedildi-2515114",
+  "source": "Cumhuriyet",
+  "summary_tr": "TBMM'de özel sektör öğretmenlerinin ve mülakat mağdurlarının sorunlarının araştırılması önerisi reddedildi. Öğretmenlerin açlık grevi devam ediyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-24T16:01:13.379620+00:00",
+  "type": "news",
+  "cluster_id": "c3bf8f8f40740"
+ },
+ {
   "title": "Suriye'de ilk kez bir Esad yargılanıyor",
   "link": "https://www.dw.com/tr/suriye-de-ilk-kez-bir-esad-yargılanıyor/a-77695363?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
