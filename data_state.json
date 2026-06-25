@@ -216,6 +216,18 @@
    "period": "",
    "ts": "2026-06-24T18:01:27.436858+00:00",
    "indicator_tr": "Çorum bölgesi ihracat"
+  },
+  "tr_butce_dengesi_aylik": {
+   "value": "298,2 milyar TL",
+   "period": "Mayıs 2025",
+   "ts": "2026-06-25T07:01:34.066441+00:00",
+   "indicator_tr": "Bütçe açığı (aylık)"
+  },
+  "tr_il_ihracat_yillik": {
+   "value": "21 il",
+   "period": "2025 Ocak-Mayıs",
+   "ts": "2026-06-25T07:01:34.066441+00:00",
+   "indicator_tr": "1 milyar doların üzerinde ihracat yapan il sayısı (yılın ilk 5 ayı)"
   }
  },
  "seen_links": {
@@ -558,6 +570,9 @@
   "bcb56954fce73a06f6fd2934956f289b": "2026-06-24T23:01:04.958990+00:00",
   "b85a04fb466f6450996f81ece493d631": "2026-06-25T03:01:03.663093+00:00",
   "b4923b7d5ee2c8f0d0c6776971fc37e5": "2026-06-25T06:01:09.075781+00:00",
-  "d8b36aab2949c2cbd8b9c81627e110a3": "2026-06-25T06:01:09.075781+00:00"
+  "d8b36aab2949c2cbd8b9c81627e110a3": "2026-06-25T06:01:09.075781+00:00",
+  "092bd9b9e2409276a5a1702af0e72a26": "2026-06-25T07:01:09.072646+00:00",
+  "45b2cd8d40d1b06ae4c3c25ea515dc3c": "2026-06-25T07:01:09.072646+00:00",
+  "604f429ded5c198f4946bcb1cab61cc5": "2026-06-25T07:01:09.072646+00:00"
  }
 }
