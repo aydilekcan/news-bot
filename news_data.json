@@ -1,5 +1,77 @@
 [
  {
+  "title": "Trump says Exxon, Chevron among firms probed as part of surge in gas prices",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWxhdzNlZ3B2VldKRVg5RHRMcmFhdjl5eHM0MmlBTTZkTkxtc3NvektpVy05d05xMWdTWUVPdUhVN1RWaWdNRGpqMngxVmgwVG93YXp1LTJFV3ZLbEdYa2hlTXhnclNZNWxrY1NMbTBZMUlOalZPbldpTmJicFNFQmdiMTlxVmY1T2x5S0c0QzBMZHhJbFVYRVFMMjNDTjNPNExESnZyRWZWNjA2eUJmRDd5V2lFVksw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, petrol fiyatlarındaki artışın nedenleri konusunda Exxon ve Chevron dahil firmalarının soruşturma altında olduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-25T02:01:03.071093+00:00",
+  "type": "news",
+  "cluster_id": "c278c65fa90e3"
+ },
+ {
+  "title": "Venezuela'da 7,2 ve 7,5 şiddetinde ardışık iki deprem meydana geldi",
+  "link": "https://www.aa.com.tr/tr/dunya/venezuelada-7-2-ve-7-5-siddetinde-ardisik-iki-deprem-meydana-geldi/3977220",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Venezuela'da 39 saniye arayla 7,5 ve 7,2 büyüklüğünde iki güçlü deprem meydana geldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-25T02:01:03.071093+00:00",
+  "type": "news",
+  "cluster_id": "cbbbbbaa750be"
+ },
+ {
+  "title": "Rescue work underway after quakes rock Venezuela, 'high casualties' likely",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc09ZREJlMlRMQTdKeWM3QUI4RmpVbHBtWl9zamk2V1lxU2NESnVPaXZYa2pWdllSWGpHZ3hpWVMxbzV5OUJLN084ZDNtWEJSV1R5d3Fqb29GajBGbTFGaldHWmxaM1phOEw4YUdUYklTTEo3cU0tVHNDMmsyVTZ1Q3JrcThUeUZkajl3ZVlGYw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Venezuela'da ardışık depremlerin ardından ağır hasarlarla birlikte kurtarma çalışmaları başlatıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-25T02:01:03.071093+00:00",
+  "type": "news",
+  "cluster_id": "c9232a4b7f050"
+ },
+ {
+  "title": "Back-to-back powerful earthquakes slam Venezuela, collapsing buildings in the capital of Caracas",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVXpHa29VWnJ2cGpHZkR5NUJiU1NaTHNkNFJmeTU3WGhlMlFodlZ5cGFSRVhLVnlEcHhJUDN1VVZCenR5UExaQmNrYS1OSVFJRE5yUkN3RjlzZWxPZktaSjY2b0R3YW9oRzh3S05WanhJQjRLb1NUanp1ZEdrb3FVWWxaR1ViTGhxU0FhQTJTajI0UQ?oc=5",
+  "source": "AP",
+  "summary_tr": "Venezuela'da arka arkaya gelen güçlü depremler Caracas başkentinde binalar çökmesine neden oldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-25T02:01:03.071093+00:00",
+  "type": "news",
+  "cluster_id": "c12601f9c8545"
+ },
+ {
+  "title": "Aylarca işçilerin alacaklarını ödemeyen şirketin kaç ruhsatı olduğu açıklanmadı: Madenci perişan, ruhsat ‘sır’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/aylarca-iscilerin-alacaklarini-odemeyen-sirketin-kac-ruhsati-oldugu-aciklanmadi-madenci-perisan-ruhsat-sir-2515110",
+  "source": "Cumhuriyet",
+  "summary_tr": "Doruk Madencilik işçilerinin ücret ve tazminatlarını ödemeyen şirketin Türkiye genelinde kaç maden ruhsatı olduğu açıklanmadı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-25T02:01:03.071093+00:00",
+  "type": "news",
+  "cluster_id": "c68581120cab1"
+ },
+ {
+  "title": "İktidarın 2023 seçimleri öncesinde verdiği 7200 prim gün sözü tutulmadı, muhalefetin önergesi de reddedildi: Esnafı ortada bıraktılar!",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/iktidarin-2023-secimleri-oncesinde-verdigi-7200-prim-gun-sozu-tutulmadi-muhalefetin-onergesi-de-reddedildi-esnafi-ortada-biraktilar-2515111",
+  "source": "Cumhuriyet",
+  "summary_tr": "İktidarın 2023 seçimleri öncesinde verdiği esnafa prim gün sayısını 9 binden 7 bin 200'e düşürmesi sözü aradan yıllar geçmesine rağmen yerine getirilmedi.",
+  "metric": "Esnaf prim gün sözü 9.000 -> 7.200 (-800 gün)",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-25T02:01:03.071093+00:00",
+  "type": "news",
+  "cluster_id": "cbf91482bd7da"
+ },
+ {
   "title": "NATO Genel Sekreteri Rutte: İran hiçbir şekilde nükleer silah kapasitesine sahip olmamalı",
   "link": "https://www.aa.com.tr/tr/dunya/nato-genel-sekreteri-rutte-iran-hicbir-sekilde-nukleer-silah-kapasitesine-sahip-olmamali/3977242",
   "source": "Anadolu Ajansı",
