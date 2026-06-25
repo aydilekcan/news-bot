@@ -1,5 +1,77 @@
 [
  {
+  "title": "İBB soruşturması: Tutuklular aylardır iddianame bekliyor",
+  "link": "https://www.dw.com/tr/ibb-soruşturması-tutuklular-aylardır-iddianame-bekliyor/a-77695041?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "İstanbul'da CHP'li belediyelere yönelik soruşturmada tutuklanan kişiler aylardır iddianame beklemektedir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-25T05:01:05.298481+00:00",
+  "type": "news",
+  "cluster_id": "c82bbc1ec2129"
+ },
+ {
+  "title": "Son dakika... CHP'li Balçova ve Seferihisar Belediyesi'ne operasyon: Başkanlar gözaltına alındı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-chp-li-balcova-ve-seferihisar-belediyesi-ne-operasyon-baskanlar-gozaltina-alindi-2515204",
+  "source": "Cumhuriyet",
+  "summary_tr": "İzmir'de CHP'li Balçova ve Seferihisar Belediye Başkanları yolsuzluk soruşturması kapsamında gözaltına alındı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-25T05:01:05.298481+00:00",
+  "type": "news",
+  "cluster_id": "c47e9af23b783"
+ },
+ {
+  "title": "Son dakika... Seferihisar ve Balçova belediye başkanları gözaltına alındı",
+  "link": "https://www.sozcu.com.tr/son-dakika-balcova-belediyesi-ne-operasyon-baskan-onur-yigit-gozaltinda-p330926",
+  "source": "Sözcü",
+  "summary_tr": "İzmir'de CHP'li Balçova ve Seferihisar Belediye Başkanları rüşvet ve yolsuzluk soruşturması kapsamında gözaltına alındı.",
+  "metric": "24 kişi gözaltı",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-25T05:01:05.298481+00:00",
+  "type": "news",
+  "cluster_id": "c47e9af23b783"
+ },
+ {
+  "title": "İzmir'de iki belediyeye soruşturma: 24 gözaltı",
+  "link": "https://www.trthaber.com/haber/turkiye/izmirde-iki-belediyeye-sorusturma-24-gozalti-949260.html",
+  "source": "TRT Haber",
+  "summary_tr": "İzmir'de Balçova ve Seferihisar Belediye Başkanları da dahil olmak üzere 24 kişi yolsuzluk soruşturması kapsamında gözaltına alındı.",
+  "metric": "24 gözaltı",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-25T05:01:05.298481+00:00",
+  "type": "news",
+  "cluster_id": "c088d7d564957"
+ },
+ {
+  "title": "Balçova Belediyesi’ne operasyon: Belediye Başkanı Onur Yiğit gözaltında",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaEkxMGdiTk1TU21LY3U5cE0zaVlwdmwtWjlTVlFNXzdURklVb3R5Q2V4YUo4R0JPWDRmSlNCQ19zOUlhMTYtX1VLTVczWHhldzFJTE0zX2hMTnFKelFYREpmbU81SEdMaXIyaDN3T3lROWd5M1Exc0xRa0V1S1pyUUE2aEFzYkVtblNPRl9IMjh0cmVzUTFrdm9uMDBrSVZGcTdvUGZkeFhZSkE?oc=5",
+  "source": "soL",
+  "summary_tr": "Balçova Belediye Başkanı Onur Yiğit operasyon kapsamında gözaltına alındı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-25T05:01:05.298481+00:00",
+  "type": "news",
+  "cluster_id": "c0a37227ec0a0"
+ },
+ {
+  "title": "Seferihisar Belediyesi operasyonunda üçüncü dalga: Belediye Başkanı İsmail Yetişkin gözaltına alındı",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWl9yeVJlT3R1eVFjU1Jxa2JhWlBEbThvdzlaSWhjVktMZkR3ZmtYTmlwWjhreTItNzJfcFVpeVVacjBLS3RzLU92M2huVWZ6MnlwdVctaTdTdnJTMlVWTHMzak9CMk5ZVjhxU1Z5OF9iNGN0OGh3SGdld0R3XzVXSzM3Xy04cXhPVVVPUVoyc0tvWE55REpkYzVmVDN5MnN6cC15aUpNZ2JfdHRNVlBVQ2QzRGhWSFZNOGJ3R0o5MHg?oc=5",
+  "source": "soL",
+  "summary_tr": "Seferihisar Belediye Başkanı İsmail Yetişkin operasyon kapsamında gözaltına alındı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-25T05:01:05.298481+00:00",
+  "type": "news",
+  "cluster_id": "ca98c197c33b5"
+ },
+ {
   "title": "Trump says Exxon, Chevron among firms probed as part of surge in gas prices",
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWxhdzNlZ3B2VldKRVg5RHRMcmFhdjl5eHM0MmlBTTZkTkxtc3NvektpVy05d05xMWdTWUVPdUhVN1RWaWdNRGpqMngxVmgwVG93YXp1LTJFV3ZLbEdYa2hlTXhnclNZNWxrY1NMbTBZMUlOalZPbldpTmJicFNFQmdiMTlxVmY1T2x5S0c0QzBMZHhJbFVYRVFMMjNDTjNPNExESnZyRWZWNjA2eUJmRDd5V2lFVksw?oc=5",
   "source": "Reuters",
