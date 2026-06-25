@@ -1,5 +1,77 @@
 [
  {
+  "title": "Germany's Merck boosts life sciences business with $11 billion Bio-Techne deal",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcWNaOGNZamhRcU9HZTBZWHcxSjN3WFNFcVhBNVNmeE1uYW5DRFJNcVpFQy1GZDZLS1ZfQmRmeUVJVjg3ZWtqVldBOFRuWE1sVEtwRjJ4WVFIYzhSQjJHTVNOM1JndmhmNUF3OFdXVkhtS1NaWUkyMk1zMjZTYlFJbjQ4WURocHdPN3d5NHM5eHhveEFlQjlaeHBKYWNmbXd0TS00UWF0OXVNbnZRMmtKQ3RtXzI?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Merck, 11 milyar dolar değerinde Bio-Techne satın alımıyla yaşam bilimleri işini güçlendiriyor.",
+  "metric": "Bio-Techne satın alma 11 milyar $",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-25T12:01:17.263657+00:00",
+  "type": "news",
+  "cluster_id": "ccee25779d00f"
+ },
+ {
+  "title": "Amazon to invest additional $13 billion in India cloud, AI",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUjc3RVFRSkZPMUtsVDFNeXp3cFl5dnZ0LVVSd0x6VjlrdXdWUkxmZ1RsQUN4ZTZnbVlSb2w5bDd1UGhoOTBxcXlaS2Y5QkJJNWJJTDVoZkFXYUlLRl85MWhkcUFTcjVLT0VvbVlhaElvZFRqWWU1aXBYV1QzLW1fdnl6RnRXc05qeEZsRGVwYzFydzg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Amazon, bulut ve yapay zeka hizmetlerine Hindistan'da ilave 13 milyar dolar yatırım yapacak.",
+  "metric": "Amazon Hindistan yatırımı 13 milyar $",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-25T12:01:17.263657+00:00",
+  "type": "news",
+  "cluster_id": "c8c19ac2ffb18"
+ },
+ {
+  "title": "Yabancı yatırımcıdan Türk varlıklarına güçlü giriş",
+  "link": "https://www.sozcu.com.tr/yabanci-yatirimcidan-turk-varliklarina-guclu-giris-p331097",
+  "source": "Sözcü",
+  "summary_tr": "Yurt dışı yatırımcılar Türk hisse senedi, devlet iç borçlanma senedi ve tahvillere güçlü giriş yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-25T12:01:17.263657+00:00",
+  "type": "news",
+  "cluster_id": "cce74640a88da"
+ },
+ {
+  "title": "Merkez Bankası rezervlerinde sınırlı yükseliş",
+  "link": "https://www.sozcu.com.tr/merkez-bankasi-rezervlerinde-sinirli-yukselis-p331090",
+  "source": "Sözcü",
+  "summary_tr": "Merkez Bankası brüt rezervleri bir önceki haftaya göre 5 milyar dolar artarak 157,2 milyar dolara yükseldi.",
+  "metric": "Merkez Bankası brüt rezervleri 152,2 milyar $ -> 157,2 milyar $ (+%3,3)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-25T12:01:17.263657+00:00",
+  "type": "news",
+  "cluster_id": "cafcfd02d2445"
+ },
+ {
+  "title": "KKM’de gerileme sürerken mevduatlar yükseldi",
+  "link": "https://www.sozcu.com.tr/kkm-de-gerileme-surerken-mevduatlar-yukseldi-p331082",
+  "source": "Sözcü",
+  "summary_tr": "Bankacılık sektöründe toplam mevduat 142,6 milyar lira artarken, kredi hacminde sınırlı düşüş yaşandı.",
+  "metric": "Toplam mevduat +142,6 milyar TL",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-25T12:01:17.263657+00:00",
+  "type": "news",
+  "cluster_id": "cf68d9c53c538"
+ },
+ {
+  "title": "TMO, hububat alımlarında ödemelere başladı",
+  "link": "https://www.trthaber.com/haber/ekonomi/tmo-hububat-alimlarinda-odemelere-basladi-949313.html",
+  "source": "TRT Haber",
+  "summary_tr": "TMO hububat alımlarında ilk ödemeleri çiftçilere yapmaya başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-25T12:01:17.263657+00:00",
+  "type": "news",
+  "cluster_id": "c2267e53bbfc2"
+ },
+ {
   "title": "Venezuela'daki depremlerde can kaybı 164'e yükseldi",
   "link": "https://www.bbc.com/turkce/articles/cj3gy31vz8yo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
