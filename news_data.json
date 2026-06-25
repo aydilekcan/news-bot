@@ -1,5 +1,77 @@
 [
  {
+  "title": "NATO zirvesi öncesi Ankara'da çok sayıda kişi tutuklandı",
+  "link": "https://www.bbc.com/turkce/articles/cwyd855ee7po?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "NATO zirvesi öncesinde Ankara ve İstanbul'da 233 kişi gözaltına alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-25T18:01:21.758735+00:00",
+  "type": "news",
+  "cluster_id": "c9c2cc8f6fd1d"
+ },
+ {
+  "title": "Mutabakat sonrası Hürmüz Boğazı'nda ilk gerginlik",
+  "link": "https://www.sozcu.com.tr/mutabakat-sonrasi-hurmuz-bogazi-nda-ilk-gerginlik-p331184",
+  "source": "Sözcü",
+  "summary_tr": "ABD-İran mutabakatı sonrası Hürmüz Boğazı'nda ilk gerginlik yaşandı; bir gemi saldırıya uğradı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-25T18:01:21.758735+00:00",
+  "type": "news",
+  "cluster_id": "cb34c24cbe45f"
+ },
+ {
+  "title": "İngiltere: ABDİran mutabakatının ardından bir gemi ilk kez saldırıya uğradı",
+  "link": "https://www.trthaber.com/haber/dunya/ingiltere-abd-iran-mutabakatinin-ardindan-bir-gemi-ilk-kez-saldiriya-ugradi-949347.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD-İran mutabakatı sonrası Hürmüz Boğazı'nda bir gemi ilk kez saldırıya uğradı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-25T18:01:21.758735+00:00",
+  "type": "news",
+  "cluster_id": "c7587196cf007"
+ },
+ {
+  "title": "NATO zirvesi öncesi tutuklama dalgası",
+  "link": "https://www.dw.com/tr/nato-zirvesi-öncesi-tutuklama-dalgası/a-77713463?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "NATO zirvesi öncesinde gözaltına alınan kişiler hakkında tutuklama kararları verilmeye başlandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-25T18:01:21.758735+00:00",
+  "type": "news",
+  "cluster_id": "c039597185720"
+ },
+ {
+  "title": "NATO gözaltıları: Aralarında TEMA Vakfı temsilcisi ve Doç. Dr. Emel Memiş'in de olduğu 16 kişi tutuklandı; sayı artabilir",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSmZCanNNODU3NDJueWstR2dEUFdraDdwUlFtVFNyQjh2NFJWRDVuZ3NmbVZHQlQ0dEVxMVZYQklTUHFlcE1obTJXUEhqLWlSOEpma3pVd1EtcjJPMzI3NTUycGUyb1M3alRLbnk5V29JOXBjQXNtQUkwbWkyVGNWVXZ5R2xnNUE4OUltcjJjWld2UQ?oc=5",
+  "source": "T24",
+  "summary_tr": "NATO zirvesi öncesi gözaltılarında TEMA Vakfı temsilcisi ve Doç. Dr. Emel Memiş dahil 16 kişi tutuklandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-25T18:01:21.758735+00:00",
+  "type": "news",
+  "cluster_id": "ca4fc6ae13a97"
+ },
+ {
+  "title": "Dozens of Turkish journalists denied accreditation for NATO summit in Ankara, media says",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUWh5eTg0SkxHb1UxU2FMSmh0QWZfLThoRVh1dmowRXROTHVJTmY0UDB5eC00Y25IV0M1Uk5URzlTSXo2MldvZmdFejJ4ZU1fQ1JCcS14VVRPYmFHRks5bVFGNUJoYVVLWDNNUl92NEt2b3ljRl9wTUhWVDRRS21sWExIbjhHUWJzbXQ4eWJXZ2dSVGJMbk5kQl8xOV93Ul9zdDYzRklNc0VGU3Ffd010eDhsa2pNY1dyd1p0VWlFSGR3SXlVcGViVmtfRXlxTTl2Ymc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "NATO zirvesi için Ankara'ya akredite edilmek isteyen onlarca Türk gazeteciye akreditasyon verilmedi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-25T18:01:21.758735+00:00",
+  "type": "news",
+  "cluster_id": "c56bdb6fb3866"
+ },
+ {
   "title": "ABD Yüksek Mahkemesi, Haitili ve Suriyelilerin yasal koruma statülerinin sonlandırılmasına izin verdi",
   "link": "https://www.aa.com.tr/tr/dunya/abd-yuksek-mahkemesi-haitili-ve-suriyelilerin-yasal-koruma-statulerinin-sonlandirilmasina-izin-verdi/3978117",
   "source": "Anadolu Ajansı",
