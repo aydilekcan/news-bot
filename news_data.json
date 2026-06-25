@@ -1,5 +1,77 @@
 [
  {
+  "title": "Iran fired on cargo ship, US officials tell Reuters",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb1JqTWo2bzlJWXAwR2pkVTMyRVpTZkotam9lUlBxMzhyZ1FRM195WWlpay1nemFSX0kxTU9reDJVRnZQYm5QbTVxMUtsajZkVllBZUxaVUQ3YWJWSnRQYVZDX1QzQjhZdjV4Yjh2c1F0N2dvNnNrWXJ0YS1ZNU1HNXRyNmlxM2FycnBNUFVaQWExTVBNY2JIb1JaMDh4WWJPTmRF?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD yetkilileri, İran'ın bir kargo gemisine ateş açtığını Reuters'a bildirmiştir. Bölgedeki gerilimin belirtisidir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-25T20:01:05.107906+00:00",
+  "type": "news",
+  "cluster_id": "ce6153d5d3059"
+ },
+ {
+  "title": "Ukraine's Zelenskiy says he approved 40-day campaign to 'influence' Russia to end the war",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVzA3Zy1xVTVhUFJuTUVyUUIwZnNCbUNDZTFzZ2Q4RVZzYWV2OVRKR1JkUHJjY2JtazJkOVVUZ1pBWjVnTDE2Rk9uRU5FUmRQT09SOUdfcVpYVWxnal9xMXh5WFBCSm5GalRpU1lJajNGalpObVpZZFFvLUlNTkZES3hYNmh0TElKcFMtQ1pFbzdsdU51N3VyTG1kOEN1djBvZGNQUzNtWUQxbVIybnIzTmlTb0RIVk01OHc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ukrayna Başkanı Zelenskiy, savaşı sona erdirmek için Rusya'yı etkilemek amacıyla 40 günlük bir kampanyayı onayladığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-25T20:01:05.107906+00:00",
+  "type": "news",
+  "cluster_id": "c1af760e589fe"
+ },
+ {
+  "title": "NATO Zirvesi öncesi operasyon: 103 kişi tutuklandı",
+  "link": "https://www.dw.com/tr/nato-zirvesi-öncesi-operasyon-103-kişi-tutuklandı/a-77713463?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "NATO Zirvesi öncesi güvenlik operasyonunda gözaltına alınan 135 kişiden 103'ü tutuklandı. Gazeteci Yıldız Tar ve akademisyenler arasında yer aldığı belirtiliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-25T20:01:05.107906+00:00",
+  "type": "news",
+  "cluster_id": "cc5be010b4831"
+ },
+ {
+  "title": "Ankara'da NATO Zirvesi öncesi operasyon: Akademisyen Emel Memiş dahil 103 kişi tutuklandı",
+  "link": "https://www.sozcu.com.tr/ankara-da-nato-zirvesi-oncesi-operasyon-p331196",
+  "source": "Sözcü",
+  "summary_tr": "Ankara'da NATO Zirvesi öncesi terör örgütlerine yönelik operasyonda 225 kişi gözaltına alınmış, 103'ü tutuklanmıştır. Akademisyen Emel Memiş ve gazeteci Yıldız Tar arasında yer almaktadır.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-06-25T20:01:05.107906+00:00",
+  "type": "news",
+  "cluster_id": "cc5be010b4831"
+ },
+ {
+  "title": "Terör örgütlerine yönelik operasyonlarda 103 tutuklama",
+  "link": "https://www.trthaber.com/haber/gundem/teror-orgutlerine-yonelik-operasyonlarda-103-tutuklama-949354.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ankara Cumhuriyet Başsavcılığı koordinesinde terör örgütlerine yönelik operasyonda gözaltına alınan 225 şüpheliden 103'ü tutuklanmıştır.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-06-25T20:01:05.107906+00:00",
+  "type": "news",
+  "cluster_id": "c61e274a333b2"
+ },
+ {
+  "title": "NATO gözaltıları: Doç. Dr. Emel Memiş, TEMA gönüllüleri ve gazeteci Yıldız Tar‘ın da olduğu 103 kişi tutuklandı",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSmZCanNNODU3NDJueWstR2dEUFdraDdwUlFtVFNyQjh2NFJWRDVuZ3NmbVZHQlQ0dEVxMVZYQklTUHFlcE1obTJXUEhqLWlSOEpma3pVd1EtcjJPMzI3NTUycGUyb1M3alRLbnk5V29JOXBjQXNtQUkwbWkyVGNWVXZ5R2xnNUE4OUltcjJjWld2UQ?oc=5",
+  "source": "T24",
+  "summary_tr": "NATO Zirvesi öncesi güvenlik operasyonunda Doç. Dr. Emel Memiş, TEMA gönüllüleri ve gazeteci Yıldız Tar dahil 103 kişi tutuklanmıştır.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-25T20:01:05.107906+00:00",
+  "type": "news",
+  "cluster_id": "cd5cf6ca6f99c"
+ },
+ {
   "title": "17 yıl sonra ilk ziyaret: Trump ile hangi konular masada?",
   "link": "https://www.dw.com/tr/17-yıl-sonra-ilk-ziyaret-trump-ile-hangi-konular-masada/a-77710555?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
