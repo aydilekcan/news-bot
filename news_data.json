@@ -1,5 +1,41 @@
 [
  {
+  "title": "Alman medyası: Volkswagen 100 bin işçi çıkaracak",
+  "link": "https://www.dw.com/tr/alman-medyası-volkswagen-100-bin-işçi-çıkaracak/a-77721487?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Volkswagen 100 bin işçi çıkarmayı ve Almanya'da dört fabrikayı kapatmayı planlıyor.",
+  "metric": "Volkswagen işçi çıkarması: 100.000 kişi",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-26T11:01:15.640142+00:00",
+  "type": "news",
+  "cluster_id": "c8c371db7c819"
+ },
+ {
+  "title": "Yasa dışı bahis çetesinin 12 milyar liralık para trafiği MASAK raporuyla deşifre edildi",
+  "link": "https://www.aa.com.tr/tr/gundem/yasa-disi-bahis-cetesinin-12-milyar-liralik-para-trafigi-masak-raporuyla-desifre-edildi/3978721",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Yasa dışı bahis örgütünün 12 milyar liralık para trafiği MASAK tarafından belirlenmiş.",
+  "metric": "Illegal bahis örgütü para trafiği: 12 milyar TL",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-26T11:01:15.640142+00:00",
+  "type": "news",
+  "cluster_id": "ce98ef33581a5"
+ },
+ {
+  "title": "Yasa dışı bahis çetesinin 12 milyar liralık para trafiği MASAK'a takıldı",
+  "link": "https://www.trthaber.com/haber/turkiye/yasa-disi-bahis-cetesinin-12-milyar-liralik-para-trafigi-masaka-takildi-949426.html",
+  "source": "TRT Haber",
+  "summary_tr": "Yasa dışı bahis çetesinin 12 milyar liralık para trafiği MASAK'a takıldı.",
+  "metric": "Illegal bahis örgütü para trafiği: 12 milyar TL",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-26T11:01:15.640142+00:00",
+  "type": "news",
+  "cluster_id": "ce98ef33581a5"
+ },
+ {
   "title": "Volkswagen'de tarihi küçülme: 4 fabrikanın kapatılması ve 100 bin kişinin işten çıkarılması planlanıyor",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/volkswagen-de-tarihi-kuculme-4-fabrikanin-kapatilmasi-ve-100-bin-kisinin-isten-cikarilmasi-planlaniyor-2515645",
   "source": "Cumhuriyet",
