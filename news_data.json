@@ -1,5 +1,77 @@
 [
  {
+  "title": "Oil down 2% amid resumption of Hormuz shipments even as vessel hit near Oman",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWjhLRmoxOGtYcldWSWt2aDlpcExleWFoYzhFendSc0pJV0d0bE0wbUpvVzF5R1JwbHNsWEtfWm9vcnByc3NERm1RanQwRnVrZ1FrNVJ0OTZHMG5uRmhxaVMtbThOTU96b21VbkF5Ny1sV3V4bE5FZEJ0LUNxMFIxaTJjOTd1dUJxVE9zYlp0WFhLLUozVWNQX2lrd2E2SlRMVjI0Ym9Sb0pkMWJESWFQTFdaa3FlRkJoT21yajlpSTdCRVh5?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ham petrol fiyatları Hormuz Boğazı'ndan gemi sevkiyatlarının yeniden başlaması nedeniyle %2 düştü. Oman açıklarında gemi saldırısı gerçekleşmesine rağmen fiyatlar geriledi.",
+  "metric": "Petrol fiyatı -%2",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-26T05:01:04.909012+00:00",
+  "type": "news",
+  "cluster_id": "c0b9e14a1749e"
+ },
+ {
+  "title": "Murat Ülker neden 40 fabrikasını birden sattığını açıkladı",
+  "link": "https://www.sozcu.com.tr/murat-ulker-neden-40-fabrikasini-birden-sattigini-acikladi-p331250",
+  "source": "Sözcü",
+  "summary_tr": "Yıldız Holding Yönetim Kurulu Üyesi Murat Ülker, 2018'de yeniden yapılandırma çerçevesinde 40 fabrikasını satışının nedenlerini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-26T05:01:04.909012+00:00",
+  "type": "news",
+  "cluster_id": "cec2de264baf9"
+ },
+ {
+  "title": "Soma Santrali icradan satılıyor: 20 milyar TL borç birikti",
+  "link": "https://www.sozcu.com.tr/soma-santrali-icradan-satiliyor-20-milyar-tl-borc-birikti-p331242",
+  "source": "Sözcü",
+  "summary_tr": "Soma Termik Santrali, devlete olan kömür borçları sebebiyle eylül ayının ilk haftasında icraya konu olacak. Birikmiş borç 20 milyar TL.",
+  "metric": "Soma Santrali borcu 20 milyar TL",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-26T05:01:04.909012+00:00",
+  "type": "news",
+  "cluster_id": "c3a9a0b8674c3"
+ },
+ {
+  "title": "Samsung readies $648 billion bet, report says, as AI boom reshapes South Korea",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2F3d094MUpXQUcxZUloQzFSYVNpRWRjUWhSSEtQZ2RMVDdGdU1hZnl4VnFGSjd4emtNYm5FTkFITFByZXpFX3BQNmstbDZDVDJITjgtYnBIN1NiQ3RfSG5CbEdaQnlqaXFva2RRcDZqUDdFTGlZck1rcmtadU96R0hETkk1bnlNNGgwTGs2N3JYQl9jMVJGWlo3OXlhTzBwa2UtOWhQUDJrdGExaTZnTGRRbEJXVF9o?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Samsung, yapay zeka patlamasının etkisiyle Güney Kore ekonomisini yeniden şekillendirdikçe 648 milyar dolarlık yatırım planlaması yapıyor.",
+  "metric": "Samsung yatırım planı: 648 milyar dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-26T05:01:04.909012+00:00",
+  "type": "news",
+  "cluster_id": "c5d382a6709c5"
+ },
+ {
+  "title": "Gold poised for fourth weekly loss on hawkish Fed bets",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRXc4NjVKdS0yVG1sdzYzZEIwNno3QXhNVzFKRktkSHJZa3l0dUZFTmd2blZtbVVSM2MzR0dNX0VTR1VzMEd2d3NxQjROYU5LdF9zMVY3SkNsZzRSSUVPOFdnMEZ6Qm9CdmlNVWx4V2Z6UlhianlDVUZxMGw4WlNOUjlhS2VwcGRqZmEtTHJMTXlhUG1CdWhUR0w1WmhxZ1ZOSTFNdUI2NA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Altın, Fed'in hawkish tutumuna karşı dördüncü haftalık kaybına doğru ilerleme gösteriyor ve fiyatlar gerileme yaşıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-26T05:01:04.909012+00:00",
+  "type": "news",
+  "cluster_id": "c32d4dedb2d35"
+ },
+ {
+  "title": "Asian shares fall as Apple's price hikes dents tech optimism",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3plX1VFX3pHcHl4UU1KTVJQbE9QSjdINDd3MGRIZU1JQlhkS19CRl9zbnVKWGpyN0ZBMEZsS1BUSzlMVHJlUFotX09QN3FXeFQyS3dtUlVaYmh3dm54QkQ0VTNMWlRoTjVURXVsMEdZTEpQU1d1YWF0amVsMjRKdHlncw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Asya hisseleri, Apple'ın fiyat artışları teknoloji iyimserliğini sarsarken geriledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-26T05:01:04.909012+00:00",
+  "type": "news",
+  "cluster_id": "cc9efc7192462"
+ },
+ {
   "title": "Zelenski'den Rusya'ya karşı 40 günlük operasyon talimatı",
   "link": "https://www.trthaber.com/haber/dunya/zelenskiden-rusyaya-karsi-40-gunluk-operasyon-talimati-949370.html",
   "source": "TRT Haber",
