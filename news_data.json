@@ -1,5 +1,77 @@
 [
  {
+  "title": "Apple'ın zam kararı borsaları vurdu: 250 milyar dolar bir gecede eridi",
+  "link": "https://www.sozcu.com.tr/apple-in-zam-karari-borsalari-vurdu-250-milyar-dolar-bir-gecede-eridi-p331276",
+  "source": "Sözcü",
+  "summary_tr": "Apple'ın MacBook ve iPad ürünlerinde %30'a varan fiyat artışı kararı borsaları olumsuz etkiledi; 250 milyar dolar değer kaybı yaşandı.",
+  "metric": "Apple fiyat artışı %30'a varan oranlarda",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-26T06:01:07.024740+00:00",
+  "type": "news",
+  "cluster_id": "cca90a45bf963"
+ },
+ {
+  "title": "İsrail'den Türkiye'ye karşı 'soykırım' hamlesi",
+  "link": "https://www.sozcu.com.tr/israil-den-turkiye-ye-karsi-soykirim-hamlesi-p331270",
+  "source": "Sözcü",
+  "summary_tr": "İsrail Dışişleri Bakanı Sa'ar, Türkiye ile bozulan ilişkiler sonrasında sözde Ermeni soykırımını resmen tanıma çağrısı yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-26T06:01:07.024740+00:00",
+  "type": "news",
+  "cluster_id": "c9aaa52c67c22"
+ },
+ {
+  "title": "Piyasaların beklediği anket sonuçlandı: İşte haziran enflasyonu ve dolar tahminleri",
+  "link": "https://www.sozcu.com.tr/piyasalarin-bekledigi-anket-sonuclandi-iste-haziran-enflasyonu-ve-dolar-tahminleri-p331277",
+  "source": "Sözcü",
+  "summary_tr": "30 finansal kuruluşun katılımıyla yapılan beklenti anketinde Haziran enflasyonu ve dolar tahminleri açıklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-26T06:01:07.024740+00:00",
+  "type": "news",
+  "cluster_id": "c001295360a6e"
+ },
+ {
+  "title": "Suç örgütlerine 48 ayrı operasyon! Yüzlerce kişi gözaltında",
+  "link": "https://www.sozcu.com.tr/suc-orgutlerine-48-ayri-operasyon-841-supheliye-adli-islem-yapildi-p331274",
+  "source": "Sözcü",
+  "summary_tr": "Organize suç örgütlerine yönelik 48 ayrı operasyonda 841 şüpheli hakkında adli işlem yapıldı.",
+  "metric": "48 operasyon, 841 şüpheli",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-26T06:01:07.024740+00:00",
+  "type": "news",
+  "cluster_id": "c837058d148ff"
+ },
+ {
+  "title": "Suç örgütlerine ülke çapında operasyon",
+  "link": "https://www.trthaber.com/haber/turkiye/suc-orgutlerine-ulke-capinda-operasyon-949380.html",
+  "source": "TRT Haber",
+  "summary_tr": "24 ilde suç işlemek amacıyla örgüt kurma suçuna yönelik 35 operasyon yapıldı; 711 şüpheli hakkında adli işlem başlatıldı.",
+  "metric": "35 operasyon, 711 şüpheli",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-06-26T06:01:07.024740+00:00",
+  "type": "news",
+  "cluster_id": "c3fd87166cb75"
+ },
+ {
+  "title": "Morning Bid: Chipflation",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kZUJQRkVoeVFWR0V4dWNNVFo2RHF2b1lYeTRuTWNMVkc1Mm9EUUJUZ2xmQWk4aFpKeDc1UGItakRnWFVrdVN5NGZrZnI0QnJUTm9ScXBlajJTMEhNWGViajgwMXlsUVJHb2NZdFBuWnZCX29YRU1XbGlFSmFLemM?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Reuters piyasa analizi: Çip sektöründe fiyat artışları (chipflation) tartışılıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-26T06:01:07.024740+00:00",
+  "type": "news",
+  "cluster_id": "c34518fe7159b"
+ },
+ {
   "title": "Oil down 2% amid resumption of Hormuz shipments even as vessel hit near Oman",
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWjhLRmoxOGtYcldWSWt2aDlpcExleWFoYzhFendSc0pJV0d0bE0wbUpvVzF5R1JwbHNsWEtfWm9vcnByc3NERm1RanQwRnVrZ1FrNVJ0OTZHMG5uRmhxaVMtbThOTU96b21VbkF5Ny1sV3V4bE5FZEJ0LUNxMFIxaTJjOTd1dUJxVE9zYlp0WFhLLUozVWNQX2lrd2E2SlRMVjI0Ym9Sb0pkMWJESWFQTFdaa3FlRkJoT21yajlpSTdCRVh5?oc=5",
   "source": "Reuters",
