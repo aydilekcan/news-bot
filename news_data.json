@@ -1,5 +1,53 @@
 [
  {
+  "title": "Trump'tan \"dijital hizmet vergisi\" uygulayacak ülkelere yüzde 100 tarife tehdidi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/trumptan-dijital-hizmet-vergisi-uygulayacak-ulkelere-yuzde-100-tarife-tehdidi/3979216",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, dijital hizmet vergisi uygulayan ülkelere karşı %100 tarife tehdidi yaptı.",
+  "metric": "%100 tarife",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-26T18:01:04.803327+00:00",
+  "type": "news",
+  "cluster_id": "cee2f765c9dd6"
+ },
+ {
+  "title": "Cumhurbaşkanı ve AK Parti Genel Başkanı Erdoğan, Sapanca'ya geldi",
+  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-ve-ak-parti-genel-baskani-erdogan-sapancaya-geldi/3979205",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, AK Parti'nin 33. İstişare ve Değerlendirme Toplantısı'nın yapılacağı Sakarya'nın Sapanca ilçesine geldi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-06-26T18:01:04.803327+00:00",
+  "type": "news",
+  "cluster_id": "c3c8716e18954"
+ },
+ {
+  "title": "Falling energy prices won't defuse rising risk of civil unrest in emerging markets",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa01tVTFaeGFiVkRfdC1fYW5JYm11RGFEVFdVUTc0Z2RPNTdFdWhDdmM4NEpPbFZkWXp0U09OZGtsa0RZU2RveTJ1NUY1d3k1bHYzNWs1QWNDNjlHMkZoZHFidm9VYzQ5eHQzMFJoVXNLNDBZQ1VnXzc2MkcxQVFjQU5OLW41MGZ2cjFjVE5WV0VPbWUzVjh1QWNVbU1KWmd5R1J5RENvandsb1FKb29Zb2V2YzhMWFptVTBSRy0tZEdrSl91TkE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Enerji fiyatlarındaki düşüş, gelişmekte olan piyasalarda sivil huzursuzluk riskini azaltmaya yeterli olmayacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-26T18:01:04.803327+00:00",
+  "type": "news",
+  "cluster_id": "c7503bfd38e0f"
+ },
+ {
+  "title": "Beş aylık bütçe açığı: >1 trilyon TL (5 aylık (2025))",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbW9XclU1a0JiaFQ3a3czV255WlZGQkFnZlZ0MGFkQi1KNFNWOEJONGFPckg2Y3NrTFl6NEdON2Exb0p4ZVMyRWRwLXZQLW1KX0hrX3E4S2VHNDFyWkFhOGswaWEzQ3Y0LUp2dXlzTWs5VzBqQUVCa2ZWSjBzaEhtUVVHdUVfcnM?oc=5",
+  "source": "Hazine ve Maliye",
+  "summary_tr": ">1 trilyon TL → >1 trilyon TL",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-06-26T18:01:04.803327+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Trump'tan İran'a ateşkes suçlaması: 'Hürmüz'de tankeri dronlarla hedef aldılar'",
   "link": "https://www.cumhuriyet.com.tr/turkiye/trump-tan-iran-a-ateskes-suclamasi-hurmuz-de-tankeri-dronlarla-hedef-aldilar-2515754",
   "source": "Cumhuriyet",
