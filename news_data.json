@@ -1,5 +1,65 @@
 [
  {
+  "title": "Rubio announces framework agreement between Israel and Lebanon after talks in Washington",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS19OY2wzQTNLNDQ4bWJUZkZwU0tqRjAxaXZhenR3LThReEVGcTBLV29FT3FpWU44WXFXTlZnY19vR2ZUWmxyclF1dkVtaUY1Tlh2R1ZDNjduWjFfcXprVVhNRURuRXdJYktYY20wcVJDal9PT05leWpReWdLWkxnTlotQ2ZVakdsWG5KaVZPbldBOS1HZzJlNnM1dVRvbE8zcUdhdUwzSkt6ZXhHOTAxT0NuMkNMZw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Dışişleri Bakanı Rubio, Washington'daki görüşmelerin ardından İsrail ve Lübnan arasında çerçeve anlaşmasını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-26T20:01:05.605689+00:00",
+  "type": "news",
+  "cluster_id": "c97fe84588bfe"
+ },
+ {
+  "title": "Lübnan Cumhurbaşkanı: İsrail ile imzalanan çerçeve anlaşması, egemenliği yeniden kazanma yolunda ilk adım",
+  "link": "https://www.trthaber.com/haber/dunya/lubnan-cumhurbaskani-israil-ile-imzalanan-cerceve-anlasmasi-egemenligi-yeniden-kazanma-yolunda-ilk-adim-949473.html",
+  "source": "TRT Haber",
+  "summary_tr": "Lübnan Cumhurbaşkanı, İsrail ile imzalanan çerçeve anlaşmasını egemenliği kazanma yolunda ilk adım olarak değerlendirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-26T20:01:05.605689+00:00",
+  "type": "news",
+  "cluster_id": "c8f13a602f07c"
+ },
+ {
+  "title": "ABD Başkanı Trump'a göre İran'ın sınırlı ölçüde askeri kapasitesi kaldı",
+  "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trumpa-gore-iranin-sinirli-olcude-askeri-kapasitesi-kaldi-949472.html",
+  "source": "TRT Haber",
+  "summary_tr": "Trump, İran'ın sınırlı askeri kapasitesi kaldığını belirterek, tankerin dronla vurulmasına atıfta bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-26T20:01:05.605689+00:00",
+  "type": "news",
+  "cluster_id": "c120649734d9d"
+ },
+ {
+  "title": "İran'la barış yapmadan 27 ülkeye birden savaş açtı",
+  "link": "https://www.sozcu.com.tr/iran-la-baris-yapmadan-27-ulkeye-birden-savas-acti-p331514",
+  "source": "Sözcü",
+  "summary_tr": "Donald Trump, Avrupa ülkelerine dijital hizmetler vergisine karşılık tarife tehdidi ile yanıt verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-26T20:01:05.605689+00:00",
+  "type": "news",
+  "cluster_id": "c1624d3c78662"
+ },
+ {
+  "title": "Bakan Yumaklı, çay üreticilerine 2,6 milyar liralık tarımsal destek ödemesinin yapıldığını bildirdi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-cay-ureticilerine-2-6-milyar-liralik-tarimsal-destek-odemesinin-yapildigini-bildirdi/3979323",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Tarım ve Orman Bakanı Yumaklı, çay üreticilerine 2,677 milyar liralık tarımsal destek ödemesinin yapıldığını duyurdu.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-06-26T20:01:05.605689+00:00",
+  "type": "news",
+  "cluster_id": "c309c3dbe85c8"
+ },
+ {
   "title": "TCMB Başkanı Karahan, Uluslararası Ödemeler Bankası 25. Yıllık Konferansı'nda sunum yaptı",
   "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-uluslararasi-odemeler-bankasi-25-yillik-konferansinda-sunum-yapti/3979269",
   "source": "Anadolu Ajansı",
