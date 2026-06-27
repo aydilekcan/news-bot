@@ -1,5 +1,65 @@
 [
  {
+  "title": "Beyrut yanıyor... Hizbullah 'iç savaş' uyarısı yapıyor! İsrail-Lübnan antlaşması neleri içeriyor?",
+  "link": "https://www.cumhuriyet.com.tr/dunya/beyrut-yaniyor-hizbullah-ic-savas-uyarisi-yapti-israil-ile-lubnan-arasindaki-anlasma-neleri-iceriyor-2515903",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD arabuluculuğunda İsrail ile Lübnan arasında imzalanan çerçeve anlaşması Hizbullah'ın silahsızlandırılmasını ve İsrail'in çekilmesini öngörüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-27T11:01:07.219322+00:00",
+  "type": "news",
+  "cluster_id": "c638e1f61b457"
+ },
+ {
+  "title": "Ukraine hits defence plant in Russia's Volgograd region, Zelenskiy says",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNnpzc0lONVV0bEpIUXhSNUpGZXFzYzhSQnZNX2ZlbmE5ZjVWZnFJVHhXbmhHYW9aZkcxYm5kRlJIZmtwbWNMUWhBYkFzNy04MjBodjhBRnBmMHpQcFhTVGVVSzdsQTc3eFgwTm40MVlFZUJTR2tqUzd6dEQ1Y3BoZFFhQmFvWU9aazFCSTZJeDdFTnQ1N3FOMzZ4bktGQVRoVFdlc252aWtXTXpIOVpYbk43cUFOX3ZVZGtPeTR2ODU4RXN3QkxORA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Zelenskiy, Ukrayna'nın Rusya'nın Volgograd bölgesindeki savunma tesisini hedef aldığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-27T11:01:07.219322+00:00",
+  "type": "news",
+  "cluster_id": "c179d96460b5a"
+ },
+ {
+  "title": "Iran says it hits US-linked targets as Bahrain reports drone attack",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamVFR0VfZVlNU01BWjNWakdNczVUSHAzNWFlM0J3MGV1b0ZmbldmdnhQUHVpLTNabjVZSG5tSDJ0RDlQREk0emJnT3ZGbjFEZjVpTEt2UDgxOXpMdWV3dTIzX1ZtQVNpeUdDRVplMkUxd0FVNzNPTEFwZ3BVSUo4SG1BcHFDeEdYS2tIM3RUaWpZNEtyeWlub0h5c29pNjJmdDZ6Y2tha2hKWkNGa3Y0Y2JNYnk4ZWJuUlk4?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran, ABD'ye bağlı hedefleri vurmakla, Bahreyn ise İran tarafından insansız hava aracı saldırısına uğramakla rapor etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-27T11:01:07.219322+00:00",
+  "type": "news",
+  "cluster_id": "cd1081df3c20f"
+ },
+ {
+  "title": "Enerji verimliliği ve karbon azaltımına hibe desteği sağlanacak",
+  "link": "https://www.trthaber.com/haber/ekonomi/enerji-verimliligi-ve-karbon-azaltimina-hibe-destegi-saglanacak-949518.html",
+  "source": "TRT Haber",
+  "summary_tr": "Enerji ve Tabii Kaynaklar Bakanlığı, enerji verimliliğini artıran ve karbon emisyonlarını azaltan işletmelere performans esaslı hibe desteği sağlayacak.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-06-27T11:01:07.219322+00:00",
+  "type": "news",
+  "cluster_id": "c2f834f731ade"
+ },
+ {
+  "title": "Sanayi üretimi (yıllık): %6 (Nisan 2025)",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcm1RRkJCaS1BdHRGMHo2bnJlVHlZalhFRkE0UG9OcTZRUmpmREZsYXhHanpfX05hMG95Sm9NYWlLQTlFMkdYWkNCR2lWLXkyTjNrSTRQMmNCbW1DTnlZRVFBTjJ0bF9SUGpIVTgwTkNoS0laNldZeTJHTk5OdHNEYllpSURwYzBzZVNuNTVxY1RTWmtRZllGVmFweWhUeEp1bFNj?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%6 → %6",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-06-27T11:01:07.219322+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Iran says it struck US-linked targets in response to US attacks",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMXpUT2FRX1NCT3hyTF9kaXZmRVFXeDF5dmliRDNpb0R1S2VtYXJOYnMtWUlZNlM2bkRVX2twR2tqVElmeENmQzBnZ3ZyNXRiZGFZT2lpR2tuVU5ISkdTSERPb05BWDdrRHZSVV9UWkZ6S2lxUVM1VHo0dk0yZzJKVlZiTGVuaTJDRHcwdkRFZ1ktT2RHTkFoQmZVeGhuX2wzRjh0MGIyMEZQUmhXVTlhcg?oc=5",
   "source": "Reuters",
