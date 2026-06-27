@@ -1,5 +1,65 @@
 [
  {
+  "title": "Wall Street duayeninden \"büyük çöküş\" uyarısı: Yapay zeka çılgınlığı devasa bir riski gizliyor olabilir",
+  "link": "https://www.sozcu.com.tr/wall-street-duayeninden-buyuk-cokus-uyarisi-yapay-zeka-cilginligi-devasa-bir-riski-gizliyor-olabilir-p331666",
+  "source": "Sözcü",
+  "summary_tr": "Ünlü yatırımcı Jeremy Grantham, yapay zeka hisselerindeki mevcut yükselişin tarihsel bir baloncuk olabilir ve patladıktan sonra büyük kayıplar yaşanabileceği konusunda uyarı yapıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-27T12:01:13.161880+00:00",
+  "type": "news",
+  "cluster_id": "cc164d75b4a52"
+ },
+ {
+  "title": "Ateşkes unutuldu: Hürmüz Boğazı'nda bir gemiye daha saldırı",
+  "link": "https://www.sozcu.com.tr/ateskes-unutuldu-hurmuz-bogazi-nda-bir-gemiye-daha-saldiri-p331664",
+  "source": "Sözcü",
+  "summary_tr": "Hürmüz Boğazı'nda bir tankere saldırı düzenlendi; İran'ın İHA saldırısı ve Basra Körfezi'ndeki çatışmalar devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-27T12:01:13.161880+00:00",
+  "type": "news",
+  "cluster_id": "cd35811792022"
+ },
+ {
+  "title": "Pazarda değil, dalında satılıyor: 10 ton beklerken 3 ton aldı",
+  "link": "https://www.cumhuriyet.com.tr/yasam/pazarda-degil-dalinda-satiliyor-10-ton-beklerken-3-ton-aldi-2515919",
+  "source": "Cumhuriyet",
+  "summary_tr": "Iğdır'da kayısı hasadında üreticiler beklenen miktardan daha az ürün satabiliyor; planlanan 10 ton yerine 3 ton ile yetinmek zorunda kaldılar.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-27T12:01:13.161880+00:00",
+  "type": "news",
+  "cluster_id": "c96d45fd99eff"
+ },
+ {
+  "title": "Kosova'daki erken genel seçimlerin kesin sonuçları açıklandı",
+  "link": "https://www.aa.com.tr/tr/dunya/kosovadaki-erken-genel-secimlerin-kesin-sonuclari-aciklandi/3979814",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Kosova'da 7 Haziran'da yapılan erken genel seçimlerin kesin sonuçları açıklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-27T12:01:13.161880+00:00",
+  "type": "news",
+  "cluster_id": "cc4e6a83bff83"
+ },
+ {
+  "title": "Mısır: İsrail ile imzalanan çerçeve anlaşması, İsrail'in Lübnan'dan tamamen çekilmesine zemin hazırlamalı",
+  "link": "https://www.aa.com.tr/tr/dunya/misir-israil-ile-imzalanan-cerceve-anlasmasi-israilin-lubnandan-tamamen-cekilmesine-zemin-hazirlamali/3979789",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Mısır Dışişleri Bakanı, İsrail ile Lübnan arasında varılan çerçeve anlaşmasının İsrail'in bölgeden çekilmesine zemin hazırlaması gerektiğini belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-27T12:01:13.161880+00:00",
+  "type": "news",
+  "cluster_id": "cf78115109cbc"
+ },
+ {
   "title": "Beyrut yanıyor... Hizbullah 'iç savaş' uyarısı yapıyor! İsrail-Lübnan antlaşması neleri içeriyor?",
   "link": "https://www.cumhuriyet.com.tr/dunya/beyrut-yaniyor-hizbullah-ic-savas-uyarisi-yapti-israil-ile-lubnan-arasindaki-anlasma-neleri-iceriyor-2515903",
   "source": "Cumhuriyet",
