@@ -1,5 +1,53 @@
 [
  {
+  "title": "İsrail'in 2 Mart'tan bu yana Lübnan'a düzenlediği saldırılarda ölenlerin sayısı 4 bin 246'ya ulaştı",
+  "link": "https://www.aa.com.tr/tr/dunya/israilin-2-marttan-bu-yana-lubnana-duzenledigi-saldirilarda-olenlerin-sayisi-4-bin-246ya-ulasti/3979984",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail'in 2 Mart'tan bu yana Lübnan'a düzenlediği saldırılarda 4 bin 246 kişi öldü.",
+  "metric": "Ölü sayısı: 4.246",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-27T19:01:09.757464+00:00",
+  "type": "news",
+  "cluster_id": "c99361aeb848d"
+ },
+ {
+  "title": "Serbian President Vucic says he will resign within weeks",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQajRQNTlFVUtNb1ItSGkyUTQ4WUE0VkcyUWtBRHdQQk1FeUNOQmJSbFJoRFdWV3IyX0Qtb0JyOFZ3YkxxOEZ1WjNpSFRDWF8xZFJCYklNRWYyRjFfUnNaaUNZc1EyeDg3LUFEMXdWTnc4UmdEdDhHWlpscE1felVGQVVJaWZCVXlZb0lTM1UyamRlMk50SElvQ25fSTRQZUh3Q1pTMzhqaXpJYmF1ZHp3eUpxdTNXalgt?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Sırbistan Cumhurbaşkanı Vucic, önümüzdeki haftalarda istifa edeceğini duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-27T19:01:09.757464+00:00",
+  "type": "news",
+  "cluster_id": "cdc4b542e0f35"
+ },
+ {
+  "title": "Peş peşe depremlerle sarsılan Venezuela’da can kaybı 1430’a yükseldi",
+  "link": "https://www.sozcu.com.tr/pes-pese-depremlerle-sarsilan-venezuela-da-can-kaybi-1430-a-yukseldi-p331735",
+  "source": "Sözcü",
+  "summary_tr": "Venezuela'daki peş peşe depremlerinde ölü sayısı 1430'a yükseldi.",
+  "metric": "Ölü sayısı: -> 1430",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-27T19:01:09.757464+00:00",
+  "type": "news",
+  "cluster_id": "c7daa1c2f3cfa"
+ },
+ {
+  "title": "Venezuela'daki depremlerde hayatını kaybedenlerin sayısı 1430'a yükseldi",
+  "link": "https://www.trthaber.com/haber/dunya/venezueladaki-depremlerde-hayatini-kaybedenlerin-sayisi-1430a-yukseldi-949545.html",
+  "source": "TRT Haber",
+  "summary_tr": "Venezuela'daki depremlerde ölü sayısı 1430'a, yaralı sayısı 3 bin 238'e yükseldi.",
+  "metric": "Ölü: 1.430 | Yaralı: 3.238",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-27T19:01:09.757464+00:00",
+  "type": "news",
+  "cluster_id": "c3fedf5690cff"
+ },
+ {
   "title": "Bolivia ends 15-year dollar peg in attempt to restore economic stability",
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdzN5VTZHV29DU0dLZWFUQXhFYm5JTHBldjlvaW5EbGpVSGFBc3B5aUQ1d0tYT240SHFXUUxfSEFNeFV0X0liOVhTR2E3RFgzMFBHb1lGM3RnT2ZRY0lZTWtRVHQ4SFRWb1pqMS1SeDlBVE8yRW1RdmhiZE9qaG5oZ1I0WUJzMnhGZ056MzZiZjdBNnBJc1JoYmVLN09kYlRmeXRjU3U2eWtHbWZGdVo1a2k5UUFrWGJp?oc=5",
   "source": "Reuters",
