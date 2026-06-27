@@ -1,5 +1,77 @@
 [
  {
+  "title": "Son dakika... ABD İran’a yeniden saldırdı",
+  "link": "https://www.sozcu.com.tr/son-dakika-abd-iran-a-yeniden-saldirdi-p331755",
+  "source": "Sözcü",
+  "summary_tr": "ABD Merkez Komutanlığı, İran'a yeni hava saldırıları düzenlediğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-27T22:01:03.069502+00:00",
+  "type": "news",
+  "cluster_id": "cd0ea882844b2"
+ },
+ {
+  "title": "İran devlet televizyonu, ülkenin güneyindeki Sirik kentinde patlama sesleri duyulduğunu bildirdi",
+  "link": "https://www.aa.com.tr/tr/live-blog/iran-devlet-televizyonu-ulkenin-guneyindeki-sirik-kentinde-patlama-sesleri-duyuldugunu-bildirdi-/4420",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran devlet televizyonu, ülkenin güneyindeki Sirik kentinde patlama sesleri duyulduğunu bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-27T22:01:03.069502+00:00",
+  "type": "news",
+  "cluster_id": "c4ceb24fddd4e"
+ },
+ {
+  "title": "Lübnan Cumhurbaşkanı Avn ile ABD Başkanı Trump, Lübnan-İsrail çerçeve anlaşmasını görüştü",
+  "link": "https://www.aa.com.tr/tr/dunya/lubnan-cumhurbaskani-avn-ile-abd-baskani-trump-lubnan-israil-cerceve-anlasmasini-gorustu/3980112",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Lübnan Cumhurbaşkanı Avn ile ABD Başkanı Trump, ABD'nin arabuluculuğunda varılan Lübnan-İsrail çerçeve anlaşmasını görüştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-27T22:01:03.069502+00:00",
+  "type": "news",
+  "cluster_id": "c615c8981460b"
+ },
+ {
+  "title": "İran'da patlama sesleri",
+  "link": "https://www.trthaber.com/haber/dunya/iranda-patlama-sesleri-949551.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran devlet televizyonu, ülkenin güneyinde Hürmüz Boğazı yakınlarındaki Sirik kentinde patlama sesleri duyulduğunu bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-27T22:01:03.069502+00:00",
+  "type": "news",
+  "cluster_id": "c5ef79b45ba34"
+ },
+ {
+  "title": "Lebanon’s deal with Israel requires Hezbollah to disarm. That might be difficult",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWFkZF9wUl9TeDFXU3VOeF9MZEFtakdEcTRQdE9xdkNUOEsxcWhHNXl4OUZkVGZ3R1g1elFQT2h1WFZXVEpYdzFGSkstdm9DUGZadzFLcTBZRldadlRZQkREZFFxWnZvX0JSdG5sUGRIZzJvMXBmU2JTVHh4VFNuR2tSU3NoUVFNcmZTTGlPSTVWd09tM3VJYkhvREJQbGlYTXc?oc=5",
+  "source": "AP",
+  "summary_tr": "Lübnan ile İsrail arasında varılan anlaşma Hezbollah'ın silahsızlandırılmasını gerektiriyor; bunu yerine getirmek zor olabilir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-27T22:01:03.069502+00:00",
+  "type": "news",
+  "cluster_id": "c30443bd4a8a2"
+ },
+ {
+  "title": "Anadolu Birliği Partisi Genel Başkanı Yalçın: Özel ekibiyle görüşmeler yapılıyor, 86 milletvekili ve 74 il başkanı CHP'den istifa edip ABP'ye katılacak",
+  "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNbEhtajJ0Z2JrS2ZRQVZJd29XNUVzY050UWNsdklDX1NlWHFtRE9jWXVnSXBMTE1kbGo3aTg1Z2x5VkVGemcyTEVWclVUNnE3WXRNSlFnb29rQnp4UTIxbzY3OGl1eGtqZmtVR0t5UEU1WnZzZHl4SWYwNFpoc0NONmtmSjJPRDVGNkpwb3dPbnNzcm8wWnBoRHNjZW5OczBndXZNTzV6UFBRbVN0dy1Ld29BUm9TUHZFdWpyMjdkT3N2bElMU0ZMOERYSi15ZlVtdURkTVZoVTZzYVJSUUpoeHNjUVROWktXS1ZwZmJ6Mng2bi1NOVU4emV2bWhuUjg3T1BRUmV1ZmlNTnRhdlE?oc=5",
+  "source": "T24",
+  "summary_tr": "Anadolu Birliği Partisi Genel Başkanı Yalçın, CHP'den 86 milletvekili ve 74 il başkanının istifa edip ABP'ye katılacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-27T22:01:03.069502+00:00",
+  "type": "news",
+  "cluster_id": "c880a97a8c53c"
+ },
+ {
   "title": "Trump, ABD Göçmenlik ve Gümrük Muhafaza Dairesi için direktör adayını açıkladı",
   "link": "https://www.aa.com.tr/tr/dunya/trump-abd-gocmenlik-ve-gumruk-muhafaza-dairesi-icin-direktor-adayini-acikladi/3980094",
   "source": "Anadolu Ajansı",
