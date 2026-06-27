@@ -1,5 +1,53 @@
 [
  {
+  "title": "Fresh ship struck in Hormuz as Iran, US trade attacks in worst escalation since peace deal",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamVFR0VfZVlNU01BWjNWakdNczVUSHAzNWFlM0J3MGV1b0ZmbldmdnhQUHVpLTNabjVZSG5tSDJ0RDlQREk0emJnT3ZGbjFEZjVpTEt2UDgxOXpMdWV3dTIzX1ZtQVNpeUdDRVplMkUxd0FVNzNPTEFwZ3BVSUo4SG1BcHFDeEdYS2tIM3RUaWpZNEtyeWlub0h5c29pNjJmdDZ6Y2tha2hKWkNGa3Y0Y2JNYnk4ZWJuUlk4?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran-ABD arasında Hormuz Boğazında gemi saldırıları ve ticari saldırılar son 3 yılın en ciddi gerginliğini yaşatıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-27T13:01:00.537781+00:00",
+  "type": "news",
+  "cluster_id": "cb61c59b6bff7"
+ },
+ {
+  "title": "Kurtulmuş: Terörsüz Türkiye için çıkacak yasa af niteliğinde olmayacak",
+  "link": "https://www.trthaber.com/haber/gundem/kurtulmus-terorsuz-turkiye-icin-cikacak-yasa-af-niteliginde-olmayacak-949531.html",
+  "source": "TRT Haber",
+  "summary_tr": "TBMM Başkanı Kurtulmuş, Terörsüz Türkiye sürecinin ardından çıkarılacak yasanın geçici ve af niteliğinde olmayacağını açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-06-27T13:01:00.537781+00:00",
+  "type": "news",
+  "cluster_id": "caa36b19d4fd7"
+ },
+ {
+  "title": "Kiraz üreticisi dertli: 'Böyle giderse ağaçlarımızı köklemek zorunda kalacağız'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/kiraz-ureticisi-dertli-boyle-giderse-agaclarimizi-koklemek-zorunda-kalacagiz-2515939",
+  "source": "Cumhuriyet",
+  "summary_tr": "Isparta'da kiraz üreticileri düşük fiyatlar nedeniyle ürün ağaçlarını söküp atmayı düşünüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-27T13:01:00.537781+00:00",
+  "type": "news",
+  "cluster_id": "c3dc9a41d0aa3"
+ },
+ {
+  "title": "Çinli rakipler pazarı kuşattı: Alman otomotiv devlerinden tarihi işten çıkarma dalgası",
+  "link": "https://www.sozcu.com.tr/cinli-rakipler-pazari-kusatti-alman-otomotiv-devlerinden-tarihi-isten-cikarma-dalgasi-p331682",
+  "source": "Sözcü",
+  "summary_tr": "Almanya'nın otomotiv sektörü, Çinli üreticilerin rekabeti nedeniyle tarihsel işten çıkarma dalgasıyla karşı karşıya.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-27T13:01:00.537781+00:00",
+  "type": "news",
+  "cluster_id": "cbeac733c5b16"
+ },
+ {
   "title": "Wall Street duayeninden \"büyük çöküş\" uyarısı: Yapay zeka çılgınlığı devasa bir riski gizliyor olabilir",
   "link": "https://www.sozcu.com.tr/wall-street-duayeninden-buyuk-cokus-uyarisi-yapay-zeka-cilginligi-devasa-bir-riski-gizliyor-olabilir-p331666",
   "source": "Sözcü",
