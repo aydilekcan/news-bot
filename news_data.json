@@ -1,5 +1,41 @@
 [
  {
+  "title": "İsrail hükümetinden \"Ermeni soykırımını tanıma\" kararı",
+  "link": "https://www.dw.com/tr/israil-hükümetinden-ermeni-soykırımını-tanıma-kararı/a-77744238?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "İsrail kabinesi, Dışişleri Bakanı Saar'ın önerisiyle Ermeni soykırımını tanıma kararını oybirliğiyle kabul etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-28T14:00:57.942613+00:00",
+  "type": "news",
+  "cluster_id": "c3201509d3e67"
+ },
+ {
+  "title": "İsrail Dışişleri Bakanından Lübnan'la anlaşma sonrası \"Hizbullah silahsızlandırılana kadar\" işgalin süreceği mesajı",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-disisleri-bakanindan-lubnanla-anlasma-sonrasi-hizbullah-silahsizlandirilana-kadar-isgalin-surecegi-mesaji/3980506",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail Dışişleri Bakanı Saar, Lübnan anlaşmasına rağmen Hizbullah silahsızlandırılana kadar işgalin devam edeceğini bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-28T14:00:57.942613+00:00",
+  "type": "news",
+  "cluster_id": "c5706a4feb1b3"
+ },
+ {
+  "title": "Gazze'de enkaz altındaki 8 bin 500 kayıp cenazeyi bulmak için tek iş makinasıyla verilen \"umutsuz\" mücadele",
+  "link": "https://www.aa.com.tr/tr/dunya/gazzede-enkaz-altindaki-8-bin-500-kayip-cenazeyi-bulmak-icin-tek-is-makinasiyla-verilen-umutsuz-mucadele/3980439",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Gazze'de İsrail saldırılarında enkaz altında kalan yaklaşık 8.500 cesedin bulunması için tek bir iş makinasıyla çabalar sürüyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-28T14:00:57.942613+00:00",
+  "type": "news",
+  "cluster_id": "c581456eb7c1b"
+ },
+ {
   "title": "Akaryakıtta vergi zamanı... Fiyatlar uçacak",
   "link": "https://www.sozcu.com.tr/vergi-zammi-akaryakit-fiyatlarina-yansiyacak-iste-yeni-benzin-motorin-ve-lpg-fiyatlari-p331902",
   "source": "Sözcü",
