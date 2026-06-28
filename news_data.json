@@ -1,5 +1,77 @@
 [
  {
+  "title": "Hizbullah yeni anlaşmayı reddetti, İsrail Lübnan'ın güneyini vurdu",
+  "link": "https://www.bbc.com/turkce/articles/cjdgr1v0g0mo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Hizbullah Lübnan-İsrail çerçeve anlaşmasını reddetti; İsrail Lübnan güneyine hava saldırısı düzenledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-28T11:01:20.487035+00:00",
+  "type": "news",
+  "cluster_id": "c1f2f35b091de"
+ },
+ {
+  "title": "İran'ın Bahreyn'e saldırısında bir bina zarar gördü",
+  "link": "https://www.trthaber.com/haber/dunya/iranin-bahreyne-saldirisinda-bir-bina-zarar-gordu-949577.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran, Bahreyn'e hava saldırısı düzenledi; ElMuharrak bölgesinde bir bina hasarı meydana geldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-28T11:01:20.487035+00:00",
+  "type": "news",
+  "cluster_id": "c8eb9e6738293"
+ },
+ {
+  "title": "BIS says debt, AI boom and fragilities raise global risks",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVR4T0hxcEdBMnhpb3UwQThfajRZbl9DVkdCNVRmaUFoaHhNX1hzWm9MM3pXTk5aazFzMGpySTRCY3BPWUJfX0cyZE41ZjlmOVVOdWZBVk81QkllWjdxcEFSYmJnU19tZjN2MEpabDFrSS1FZk9LMXNfR3FTX0pLYg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "BIS raporuna göre küresel borç, yapay zeka hızı ve finansal kırılganlıklar önemli risk oluşturuyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-28T11:01:20.487035+00:00",
+  "type": "news",
+  "cluster_id": "c24398ffbb9bf"
+ },
+ {
+  "title": "Değerli metaller alarm veriyor: Altını dolar çarptı",
+  "link": "https://www.sozcu.com.tr/degerli-metaller-alarm-veriyor-altini-dolar-carpti-p331892",
+  "source": "Sözcü",
+  "summary_tr": "Altın fiyatları dolar baskısı ve Fed politikası ile düşüş içinde; emtia piyasalarında bu hafta harekete girdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-28T11:01:20.487035+00:00",
+  "type": "news",
+  "cluster_id": "c0a6b8f028e24"
+ },
+ {
+  "title": "Iraq arrests politicians and government officials in anti-corruption crackdown",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObjhiREF4Z2I3aFhFRG1DTVJEaDlpcERlMWRmd19NRks1T05nYVUtcS05N1p6NmNZeWsyeEl0c3lRMkFsYnBfQmU5TU1kR0FnQ3ZaNTJNcGhtRmE1ODBLd1dCS0NHNkRYLTVCZ1duX052Mmw2a2l3WW9Cb3NkeHlrYXNqcnFFZU5LSUJwZnlqUVhWY2haeFBIU20zYk4xd25rUFhqY3F4NlBqUEJMWXZlZHh5UQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Irak yolsuzluk operasyonunda siyasetçi ve hükümet yetkililerini gözaltına aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-28T11:01:20.487035+00:00",
+  "type": "news",
+  "cluster_id": "c112c96049793"
+ },
+ {
+  "title": "Iraqi officials, including lawmakers, arrested on corruption charges in overnight raid",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMGNjMGlKN1dXNmp4T1lwWkhISjhBZF8wRXhHa0o5YzVPUjRiemZub1BFNFJBLWxCakU3d1NFUkxxb3k0aHR2a1V5OEFBMmRsQ3hWMXl4U0RtVDVOTVVuN0JTQkZwbWViWXBOWlV2NVJpNU1BelRoVmNkWHFHLWFJUmtrNWk0N1RVN1NF?oc=5",
+  "source": "AP",
+  "summary_tr": "Irak yolsuzluk iddiasıyla gece baskınında milletvekili dahil resmi görevlileri tutukladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-28T11:01:20.487035+00:00",
+  "type": "news",
+  "cluster_id": "cb3a48380d40a"
+ },
+ {
   "title": "Butlan yönetiminden 'Özel yerine grup başkanlığına Öztrak atandı' iddiasına yalanlama!",
   "link": "https://www.cumhuriyet.com.tr/siyaset/butlan-yonetiminden-ozel-yerine-grup-baskanligina-oztrak-atandi-iddiasina-yalanlama-2516151",
   "source": "Cumhuriyet",
