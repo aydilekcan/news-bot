@@ -1,5 +1,53 @@
 [
  {
+  "title": "ABD ile İran bir ileri iki geri: Uçuşlar için kritik açıklama",
+  "link": "https://www.sozcu.com.tr/abd-ile-iran-bir-ileri-iki-geri-ucuslar-icin-kritik-aciklama-p331943",
+  "source": "Sözcü",
+  "summary_tr": "ABD-İran geriliminin ardından Tahran-Dubai uçuşları için karar çıktı. Bölgesel ticaret ve seyahat hareketleri etkilenebilir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-28T16:01:00.240527+00:00",
+  "type": "news",
+  "cluster_id": "ca5eb68da37fc"
+ },
+ {
+  "title": "İsrail hükümeti sözde Ermeni soykırımını tanıdı",
+  "link": "https://www.sozcu.com.tr/israil-hukumetinden-ermeni-soykirimini-tanima-karari-p331942",
+  "source": "Sözcü",
+  "summary_tr": "İsrail hükümeti parlamentonun tasarısıyla Ermeni soykırımını tanıdığını resmi olarak açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-28T16:01:00.240527+00:00",
+  "type": "news",
+  "cluster_id": "c9db593812bc5"
+ },
+ {
+  "title": "İsrail saldırıları Lübnan’ın kültürel hafızasını da vurdu",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMHgta0p3U2JUeDItb0prcXZZOUg0VjlmV3pkUDFNZTh1LWZkWGZlRjR4dmZqTkdJWDBsRFRuTjVFY3ZrTXJvNEZ0T1M1ZWF0eHRObExiaE4xaWZtOTVDMklNME96WWQzbVpQbmpudlJTQWYxZUdpbkU3NFExS1E3c1Y4RFdXZlZVSnhSeV9OVlZpUVlxVXVvdTZn?oc=5",
+  "source": "soL",
+  "summary_tr": "İsrail'in Lübnan'a yönelik saldırıları ülkenin kültürel mirasını da zarar görmüştür.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-28T16:01:00.240527+00:00",
+  "type": "news",
+  "cluster_id": "c504a649dc15a"
+ },
+ {
+  "title": "Key Volkswagen shareholder pitches producing China car models in Germany",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeERBal9MZVI0Q0d4anN0bjEwbnNkSWFXbUJpeUc4LWFYMzlkMXZXWU1WaUdwcGk1QklXNTBtVTIyYnR4RG4ydkZLT2xqckQ3SHdjM251WDRTTXBSVmVkWldRaGRqMEFPcTZJWG9MWDBiUGxLaXVrRDRZWFBNbUhRcGNoRktVLU82RVY0WkZIOFRXSDRYc01SRVQwc0lRemVYYWFfWkQtOWpFYVZmZDVZb1RUUUl3NW5N?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Volkswagen'in ana hissedarı Çin otomobil modellerinin Almanya'da üretilmesini önerdi. Otomotiv sektöründe önemli üretim kararı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-28T16:01:00.240527+00:00",
+  "type": "news",
+  "cluster_id": "c1c9dee39bf6d"
+ },
+ {
   "title": "İsrail’den Lübnan mesajı: Hizbullah silahsızlandırılana kadar çekilmeyeceğiz",
   "link": "https://www.cumhuriyet.com.tr/dunya/israil-den-lubnan-mesaji-hizbullah-silahsizlandirilana-kadar-cekilmeyecegiz-2516222",
   "source": "Cumhuriyet",
