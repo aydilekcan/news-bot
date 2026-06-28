@@ -1,5 +1,65 @@
 [
  {
+  "title": "İran'dan ABD üslerine saldırı",
+  "link": "https://www.sozcu.com.tr/iran-dan-abd-uslerine-saldiri-p331776",
+  "source": "Sözcü",
+  "summary_tr": "İran Devrim Muhafızları Ordusu, ABD'nin İran'a yönelik saldırılarına karşılık olarak Kuveyt ve Bahreyn'deki ABD üslerine saldırı düzenledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-06-28T03:01:06.299996+00:00",
+  "type": "news",
+  "cluster_id": "c1945614ab267"
+ },
+ {
+  "title": "Kılıçdaroğlu Meclis'e başvurdu: Özel'in yerine o ismi atadı",
+  "link": "https://www.sozcu.com.tr/kilicdaroglu-meclis-e-basvurdu-ozel-in-yerine-o-ismi-atadi-p331775",
+  "source": "Sözcü",
+  "summary_tr": "Kılıçdaroğlu ekibi, CHP Grup Başkanı Özel'in sıfatının düşürülmesi için TBMM'ye başvurdu ve yerine Tekirdağ Milletvekili'ni atadı.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-06-28T03:01:06.299996+00:00",
+  "type": "news",
+  "cluster_id": "c48e52cb5d008"
+ },
+ {
+  "title": "Sizinki seçim derdi bizimki geçim derdi",
+  "link": "https://www.sozcu.com.tr/sizinki-secim-derdi-bizimki-gecim-derdi-p331765",
+  "source": "Sözcü",
+  "summary_tr": "Alım gücü eriyen emekliler, beslenememe, kira ve temel ihtiyaçlara yetişememe sorunlarıyla meydanlara çıktı.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-06-28T03:01:06.299996+00:00",
+  "type": "news",
+  "cluster_id": "c169d4b9a48d1"
+ },
+ {
+  "title": "Yatırım inşaata aktı, teknoloji sınıfta kaldı",
+  "link": "https://www.sozcu.com.tr/yatirim-insaata-akti-teknoloji-sinifta-kaldi-p331773",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye'de kaynaklar teknolojiye değil inşaata yöneldi; Ar-Ge harcaması yapan şirket sayısı 2018 seviyesine düştü.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-28T03:01:06.299996+00:00",
+  "type": "news",
+  "cluster_id": "c2df1e79a0dfd"
+ },
+ {
+  "title": "Erdoğan, Suudilere verilen ‘Kapitülasyonu’ onayladı",
+  "link": "https://www.sozcu.com.tr/erdogan-suudilere-verilen-kapitulasyonu-onayladi-p331764",
+  "source": "Sözcü",
+  "summary_tr": "Erdoğan'ın onayıyla Suudi Arabistan, Türkiye'de ürettiği elektriği Euro cinsinden satacak.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-28T03:01:06.299996+00:00",
+  "type": "news",
+  "cluster_id": "ca3fd005107fa"
+ },
+ {
   "title": "Kuveyt'te hava savunma sistemleri devrede, Bahreyn'de sirenler çaldı",
   "link": "https://www.aa.com.tr/tr/dunya/kuveytte-hava-savunma-sistemleri-devrede-bahreynde-sirenler-caldi/3980155",
   "source": "Anadolu Ajansı",
