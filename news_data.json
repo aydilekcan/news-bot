@@ -1,5 +1,41 @@
 [
  {
+  "title": "US carries out fresh strikes against Iran after tanker struck in Hormuz, escalating hostilities",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa1VBd0lTLXNIN1ZWWnpuTUVydFpzcmdpU2ZnRFRjVlk2djhWNk1HNi1Hd1V4Q3d4czhkOHE3TzdmQ045Wkl2bUktNURLTTdNU1ZJZGhKbDd5YnY3RXZCak5OTXZNTVM1V1lpM0F1WG9tOTJOYy1zRUY4VG8wazNTU29wRFh5clkzMnFxeWdBWUdyVk1GVmhWUDRmT3E5WTJkSmlaWFJWYk5RUXQ3QnRiTWUyRE81T0d1ODhYSDJEM0FTNUxBZXFmbGtoX3F4SkE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, Hormuz Boğazı'nda vurulmuş tankerden sonra İran'a yeni hava saldırıları düzenledi; gerginlik tırmanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-28T00:01:00.920011+00:00",
+  "type": "news",
+  "cluster_id": "c8beddb3ded64"
+ },
+ {
+  "title": "İsrail askerleri, işgal altındaki Batı Şeria’da kuşattığı evdeki Filistinliyi gözaltına aldı",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-isgal-altindaki-bati-seria-da-kusattigi-evdeki-filistinliyi-gozaltina-aldi/3980138",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusu, işgal altındaki Batı Şeria'da bir Filistinliyi gözaltına aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-28T00:01:00.920011+00:00",
+  "type": "news",
+  "cluster_id": "c01a2d3ce7476"
+ },
+ {
+  "title": "Numan Kurtulmuş'tan 'Terörsüz Türkiye' açıklaması: Bana göre işin çoğunluğu bitti, çıkarılacak yasa af niteliğinde olmayacak",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeTZER3RGcEgyWk1jM0FLYTM5VzY3LVE5Xzc3TWVmMEw2c255c01UVno5SlhxQUxXLXd5b2xRLXlrdEN2WjRvM2VId2JrUmdxSThXeHlQWHdweDRINEc2N3RyQlRPMS1sWTR0c3ViSk5sMWZpaXZlRk1Vc3Nzd1RyU2JQeWVkSXVHbXcwTlBVMFN5VXZHTFpXRWFFSDl3WVhsdm9jY3ZOMUVlMDc2TEZEWlJJVlBKZw?oc=5",
+  "source": "T24",
+  "summary_tr": "Numan Kurtulmuş, 'Terörsüz Türkiye' sürecinde yasalaşacak kanunun af niteliğinde olmayacağını açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-06-28T00:01:00.920011+00:00",
+  "type": "news",
+  "cluster_id": "c2e74bcc4f2ca"
+ },
+ {
   "title": "ABD ordusu, \"ticari taşımacılığa yönelik saldırıları\" gerekçesiyle İran’da bazı hedeflere saldırılar düzenledi",
   "link": "https://www.aa.com.tr/tr/dunya/abd-ordusu-ticari-tasimaciliga-yonelik-saldirilari-gerekcesiyle-iran-da-bazi-hedeflere-saldirilar-duzenledi/3980136",
   "source": "Anadolu Ajansı",
