@@ -218,10 +218,10 @@
    "indicator_tr": "Çorum bölgesi ihracat"
   },
   "tr_butce_dengesi_aylik": {
-   "value": "298,2 milyar TL",
+   "value": "-300 milyar TL",
    "period": "Mayıs 2025",
-   "ts": "2026-06-25T07:01:34.066441+00:00",
-   "indicator_tr": "Bütçe açığı (aylık)"
+   "ts": "2026-06-28T07:01:46.285544+00:00",
+   "indicator_tr": "Bütçe dengesi (aylık)"
   },
   "tr_il_ihracat_yillik": {
    "value": "21 il",
@@ -264,6 +264,24 @@
    "period": "",
    "ts": "2026-06-26T14:01:37.127479+00:00",
    "indicator_tr": "Kişi Başına GSYH Endeksi (SGP)"
+  },
+  "tr_sanayi_uretim_aylik": {
+   "value": "%3,7",
+   "period": "Nisan 2025",
+   "ts": "2026-06-28T07:01:46.285544+00:00",
+   "indicator_tr": "Sanayi üretimi (aylık)"
+  },
+  "tr_ihracat_bolge": {
+   "value": "17,6 milyar USD",
+   "period": "2026 Ocak-Mayıs",
+   "ts": "2026-06-28T07:01:46.285544+00:00",
+   "indicator_tr": "Ege Bölgesi ihracatı (5 aylık)"
+  },
+  "tr_sanayi_uretim_satis": {
+   "value": "24 trilyon TL",
+   "period": "",
+   "ts": "2026-06-28T07:01:46.285544+00:00",
+   "indicator_tr": "Sanayi üretim satışları"
   }
  },
  "seen_links": {
@@ -678,6 +696,14 @@
   "54741e4b5a3f031a1a4863ccc6473b75": "2026-06-27T23:01:03.265080+00:00",
   "998e0dd2444a0760ef89b5939cc833cc": "2026-06-28T02:01:07.207219+00:00",
   "e7fd00af681b625e4ccf1d09db93f6dd": "2026-06-28T04:01:05.426560+00:00",
-  "ec65aacd4031c040b0c07be0759723da": "2026-06-28T06:01:23.888453+00:00"
+  "ec65aacd4031c040b0c07be0759723da": "2026-06-28T06:01:23.888453+00:00",
+  "75ae1691ede1bd81c85457e002b4f3a8": "2026-06-28T07:01:09.638692+00:00",
+  "5e1363de68868d7ee50c0e422b1e5089": "2026-06-28T07:01:09.638692+00:00",
+  "ad12e428d924c4baedc52582528b49ec": "2026-06-28T07:01:09.638692+00:00",
+  "b5b3fa1757fe7e4ec64f056c0e3c487d": "2026-06-28T07:01:09.638692+00:00",
+  "758dff586f1741b3f443b87c5606dae6": "2026-06-28T07:01:09.638692+00:00",
+  "1e60ef9b1a5b02624f0bf13af3fe847d": "2026-06-28T07:01:09.638692+00:00",
+  "942d9d07e41c8eba951f7b195338e995": "2026-06-28T07:01:09.638692+00:00",
+  "b15a2e8e834fe3374e96b202c4137027": "2026-06-28T07:01:09.638692+00:00"
  }
 }
