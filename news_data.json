@@ -1,5 +1,65 @@
 [
  {
+  "title": "ABD-İran görüşmelerine ilişkin flaş iddia: 'Saldırıların ardından görüşmeler durduruldu'",
+  "link": "https://www.cumhuriyet.com.tr/dunya/abd-iran-gorusmelerine-iliskin-flas-iddia-saldirilarin-ardindan-gorusmeler-durduruldu-2516257",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD ile İran arasında Hürmüz Boğazı'nda yaşanan saldırıların ardından İsviçre'de planlanması düşünülen barış görüşmeleri durduruldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-28T20:01:01.556807+00:00",
+  "type": "news",
+  "cluster_id": "c333961c4a343"
+ },
+ {
+  "title": "ABD medyası: Washington-Tahran barış görüşmeleri durduruldu",
+  "link": "https://www.sozcu.com.tr/abd-iran-anlasma-bozuldu-mu-p331973",
+  "source": "Sözcü",
+  "summary_tr": "ABD ile İran arasında Hürmüz'de yaşanan gerilimlerin ardından İsviçre'de yapılması planlanan barış görüşmeleri durduruldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-28T20:01:01.556807+00:00",
+  "type": "news",
+  "cluster_id": "cea1313372364"
+ },
+ {
+  "title": "Russia's Putin acknowledges fuel shortages, task force set up to ensure supplies",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWEtoU2U4NVRZUERGeUU1Ui1ieHh4dlR2R3ZBcEwxT1dtNWUzT0h2N3h2RHBZdmh0elFfbnBONDdmRTR4bE5pN1l3d1NvdFZpQVhlaW9WQkRHS3VCa1NULWxZZG84M3kzTl84a0U0SlF3T2l6bnpZb3B6NHJNTGw3b0hkanVONEpXeTlOSXlDd05HMjltVDZKMnVsX19nZ085cnFZRHdlTVdYaGNRQ0E2SmNnXzNfamNKUGFsbHZneE82czdjc1E?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya Devlet Başkanı Putin, yakıt kıtlığını kabul etti ve tedariki sağlamak için görev gücü kuruldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-28T20:01:01.556807+00:00",
+  "type": "news",
+  "cluster_id": "c8a095ba23f50"
+ },
+ {
+  "title": "Dışişleri Bakanlığından İsrail'in 1915 olaylarına ilişkin Ermeni iddialarıyla ilgili kararına tepki",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/disisleri-bakanligindan-israil-in-1915-olaylarina-iliskin-ermeni-iddialariyla-ilgili-kararina-tepki-2516264",
+  "source": "Cumhuriyet",
+  "summary_tr": "Dışişleri Bakanlığı, İsrail'in 1915 olaylarına ilişkin Ermeni iddialarını tanımasına tepki gösterdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-28T20:01:01.556807+00:00",
+  "type": "news",
+  "cluster_id": "c7ef931d2a8d2"
+ },
+ {
+  "title": "Türkiye'den İsrail'in 1915 olaylarına ilişkin Ermeni iddialarıyla ilgili kararına tepki",
+  "link": "https://www.trthaber.com/haber/dunya/turkiyeden-israilin-1915-olaylarina-iliskin-ermeni-iddialariyla-ilgili-kararina-tepki-949609.html",
+  "source": "TRT Haber",
+  "summary_tr": "Dışişleri Bakanlığı, İsrail'in 1915 olaylarına ilişkin Ermeni iddialarını tanımasına tepki gösterdi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-06-28T20:01:01.556807+00:00",
+  "type": "news",
+  "cluster_id": "c7ef931d2a8d2"
+ },
+ {
   "title": "Putin'den ülkeleri tedirgin eden akaryakıt açıklaması geldi",
   "link": "https://www.sozcu.com.tr/putin-den-ulkeleri-tedirgin-eden-akaryakit-aciklamasi-geldi-p331965",
   "source": "Sözcü",
