@@ -1,5 +1,77 @@
 [
  {
+  "title": "ABD basını: İran ve ABD, karşılıklı saldırılarını durdurarak bu hafta teknik görüşmelere başlayacak",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-basini-iran-ve-abd-karsilikli-saldirilarini-durdurarak-bu-hafta-teknik-gorusmelere-baslayacak/3980685",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD basınına göre İran ve ABD, Hürmüz Boğazı çevresinde karşılıklı saldırılarını durdurarak bu hafta teknik görüşmelere başlama kararı aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-28T22:01:07.495481+00:00",
+  "type": "news",
+  "cluster_id": "cafe304fb8811"
+ },
+ {
+  "title": "ABD basını: İran ve ABD bu hafta teknik görüşmelere başlayacak",
+  "link": "https://www.trthaber.com/haber/dunya/abd-basini-iran-ve-abd-bu-hafta-teknik-gorusmelere-baslayacak-949616.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran ve ABD, Hürmüz Boğazı çevresinde karşılıklı saldırılarını durdurarak bu hafta teknik görüşmelere başlama kararı aldığı iddia edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-28T22:01:07.495481+00:00",
+  "type": "news",
+  "cluster_id": "cafe304fb8811"
+ },
+ {
+  "title": "Saldırıların ardından İranlı yetkili net konuştu: 'İran, ABD ile yapılan görüşmelere katılmadı'",
+  "link": "https://www.cumhuriyet.com.tr/dunya/saldirilarin-ardindan-iranli-yetkili-net-konustu-iran-abd-ile-yapilan-gorusmelere-katilmadi-2516282",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran Dini Lideri'nin Ofisi üyesi Mehdi Fezaeili, İran heyetinin ABD ile yapılan görüşmelere katılmadığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-28T22:01:07.495481+00:00",
+  "type": "news",
+  "cluster_id": "c78078e9884b2"
+ },
+ {
+  "title": "İran basını: İran planlanan teknik görüşmeye katılmadı",
+  "link": "https://www.trthaber.com/haber/dunya/iran-basini-iran-planlanan-teknik-gorusmeye-katilmadi-949610.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran basını, İran'ın son saldırılar ve yerine getirilmeyen şartlar nedeniyle ABD ile planlanan teknik görüşmelere katılmadığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-28T22:01:07.495481+00:00",
+  "type": "news",
+  "cluster_id": "cc3b6ef832933"
+ },
+ {
+  "title": "Israel destroys Hezbollah underground infrastructure in southern Lebanon",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeHpnQ2htRldyN2wyQkhMc0JqSVdwbDA5VkRCZklRS0t1QURDWHFWRUJEM1BxNnFhN0hCcnRNQ3hvQm9USV9wSkhKZXl2OXJSc2xObjFxRTdCNXVaUVNsdlVsZHd4dDNwVHZTUU5LY1BodWRrZkZHdU1NcFVGMDhfVmpJTnkwSDc4NzdBWTlVUnhKaFg2ZTZiSnNFeDdteG5TVmZDbEtFRGhLSk0yNDFabDdUTDV6SmFJejQ0akZ4OWg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İsrail, Güney Lübnan'da Hezbollah'ın yeraltı altyapısını imha etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-28T22:01:07.495481+00:00",
+  "type": "news",
+  "cluster_id": "c587070c41dc1"
+ },
+ {
+  "title": "Pakistan says it carried out ground operation, strikes along Afghan border, killing 29 militants",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc250eHJQZFk2c1RkdkdnQ3RvRHd1QmV6OU8yQ3B3a3NEMlFiYXd1SXpOLVBqTmM4dnZMa2U4QnRKZFhQSlV1OG1lM0hkY1oybi0wd0QtV0UydlcwOEN1TkN6MzFoVnhrUFZVaXpwOU80T0dYMkoxRmtQQndQamZ6MXRCbk5sZy10WlMxOURpOXZLTkV0cW5HUGtHOE9ET3V4WnZwd3FQMA?oc=5",
+  "source": "AP",
+  "summary_tr": "Pakistan, Afgan sınırı boyunca yer operasyonu ve hava saldırıları düzenleyerek 29 militanı öldürdüğünü bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-28T22:01:07.495481+00:00",
+  "type": "news",
+  "cluster_id": "c6db874d6aac2"
+ },
+ {
   "title": "İran planlanan görüşmelere katılmadı",
   "link": "https://www.trthaber.com/haber/dunya/iran-planlanan-gorusmelere-katilmadi-949610.html",
   "source": "TRT Haber",
