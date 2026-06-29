@@ -1,5 +1,77 @@
 [
  {
+  "title": "İsrail ordusunun Gazze'ye düzenlediği saldırılarda hayatını kaybedenlerin sayısı 8'e yükseldi",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-gazzeye-duzenledigi-saldirilarda-hayatini-kaybedenlerin-sayisi-8e-yukseldi/3981740",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusunun ateşkese rağmen Gazze'ye düzenlediği saldırılarda ölü sayısı 8'e yükseldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-29T21:01:03.484638+00:00",
+  "type": "news",
+  "cluster_id": "c7cd5772a0413"
+ },
+ {
+  "title": "Trump: Doha'daki toplantı belki önemli olacak, belki de olmayacak. Bunu göreceğiz",
+  "link": "https://www.aa.com.tr/tr/dunya/trump-dohadaki-toplanti-belki-onemli-olacak-belki-de-olmayacak-bunu-gorecegiz/3981721",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, yarın Katar'da gerçekleşecek ABD-İran görüşmeleri hakkında belirsiz açıklamada bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-29T21:01:03.484638+00:00",
+  "type": "news",
+  "cluster_id": "c1504c7d95b21"
+ },
+ {
+  "title": "Trump: Doha'daki toplantı belki önemli olacak, belki de olmayacak",
+  "link": "https://www.trthaber.com/haber/dunya/trump-dohadaki-toplanti-belki-onemli-olacak-belki-de-olmayacak-949705.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Başkanı Trump, yarın Katar'da gerçekleşecek ABD-İran görüşmeleri hakkında belirsiz açıklamada bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-29T21:01:03.484638+00:00",
+  "type": "news",
+  "cluster_id": "c1504c7d95b21"
+ },
+ {
+  "title": "US and Iran pause strikes but disagree over next steps on talks",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOGllc29LZmZnSEdXeXdTZ0x1Sml0M2VVZVBWRVdvZG9DTEF4RnE2YjAwQzlITU9EcThTSjJBMjM1MUsxWjlWRkctVUdzalFkaE9KQUNnaHp6c3J1YThkOGxEWFprQkFTaThCczNmYWl0UTRNeFBWYS1uVUtaM0FhTVpTQXhSYVlEN08zR1F6ZFNiRE13YTJGTHppdmFCTS1SZlo4?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD ve İran, grevleri durdurdu ancak görüşmelerin sonraki adımları konusunda anlaşmazlıkta kaldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-29T21:01:03.484638+00:00",
+  "type": "news",
+  "cluster_id": "c729e507cc5e6"
+ },
+ {
+  "title": "Lübnan, İsrail ve ABD arasında imzalanan çerçeve anlaşmasındaki güvenlik ekine ilişkin detaylar ortaya çıktı",
+  "link": "https://www.aa.com.tr/tr/dunya/lubnan-israil-ve-abd-arasinda-imzalanan-cerceve-anlasmasindaki-guvenlik-ekine-iliskin-detaylar-ortaya-cikti/3981720",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Lübnan, İsrail ve ABD arasında imzalanan çerçeve anlaşmasının gizli güvenlik ekine ilişkin detaylar açığa çıktı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-29T21:01:03.484638+00:00",
+  "type": "news",
+  "cluster_id": "c343a3f13ca0f"
+ },
+ {
+  "title": "İsrailli Bakan Katz, itirazlarına rağmen ABD'nin İran ve Lübnan cephelerini birbirine bağladığını itiraf etti",
+  "link": "https://www.aa.com.tr/tr/dunya/israilli-bakan-katz-itirazlarina-ragmen-abdnin-iran-ve-lubnan-cephelerini-birbirine-bagladigini-itiraf-etti/3981668",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail Savunma Bakanı, ABD'nin İran ve Lübnan cephelerini birbirine bağladığını itiraf etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-29T21:01:03.484638+00:00",
+  "type": "news",
+  "cluster_id": "caee369428721"
+ },
+ {
   "title": "İsrailli Bakan Smotrich, Gazze'nin kuzeyinde 3 yasa dışı yerleşim için plan hazırladıklarını söyledi",
   "link": "https://www.aa.com.tr/tr/dunya/israilli-bakan-smotrich-gazzenin-kuzeyinde-3-yasa-disi-yerlesim-icin-plan-hazirladiklarini-soyledi/3981686",
   "source": "Anadolu Ajansı",
