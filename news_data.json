@@ -1,5 +1,65 @@
 [
  {
+  "title": "NATO Zirvesi öncesi Ankara'ya AB çıkarması: 3 komiser geliyor",
+  "link": "https://www.dw.com/tr/nato-zirvesi-öncesi-ankara-ya-ab-çıkarması-3-komiser-geliyor/a-77755889?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "NATO Zirvesi öncesinde AB'den üç komisyon başkanı Ankara'da Türk bakanlarla kritik görüşmeler yapacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-29T15:01:04.168728+00:00",
+  "type": "news",
+  "cluster_id": "c028d48af0ee3"
+ },
+ {
+  "title": "İstanbul'da metroya gizli zam hazırlığı: Mesafe bazlı tarife için cihazlar yerleştiriliyor",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHVHZUlXcDdCcEFaTnN5eEVSNl9sSWFzdUNfVG5sRTlzX3BPemRscERDWFczTU9zbmxUV182N3o0SUVOdWxpVi1xSExBZVZBa2g3TEpYWHMxU01SdVpFSFRwMy0wUmZ1aFpjMUt5M0NiNDcyaTFTT2ZZUXg3aGJwN0dvejRGVWV2M01lOFFVcm0yY05Gei1vLUVuNkJPOHROOVM1SzZpRU5xQXF5MkYyN2ZGQk9LdklEanVj?oc=5",
+  "source": "soL",
+  "summary_tr": "İstanbul'da metro tarifelerine gizli zam hazırlığı: Mesafe bazlı sistem için cihazlar yerleştiriliyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-29T15:01:04.168728+00:00",
+  "type": "news",
+  "cluster_id": "c3f7469d180f3"
+ },
+ {
+  "title": "Tanju Özcan hakkında tahliye kararı: Cezaevinde kalmaya devam edecek",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/tanju-ozcan-hakkinda-tahliye-karari-cezaevinde-kalmaya-devam-edecek-2516533",
+  "source": "Cumhuriyet",
+  "summary_tr": "Bolu Belediye Başkanı Tanju Özcan cinsel istismar davasında tahliye kararı aldı ancak cezaevinde kalmaya devam edecek.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-29T15:01:04.168728+00:00",
+  "type": "news",
+  "cluster_id": "cc627715fcb96"
+ },
+ {
+  "title": "Tanju Özcan hakkında tahliye kararı",
+  "link": "https://www.sozcu.com.tr/tanju-ozcan-hakkinda-tahliye-karari-p332249",
+  "source": "Sözcü",
+  "summary_tr": "Bolu Belediye Başkanı Tanju Özcan cinsel istismar davasında tahliye kararı aldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-29T15:01:04.168728+00:00",
+  "type": "news",
+  "cluster_id": "cc627715fcb96"
+ },
+ {
+  "title": "Orzax halka arz oluyor",
+  "link": "https://www.sozcu.com.tr/orzax-halka-arz-oluyor-p332242",
+  "source": "Sözcü",
+  "summary_tr": "Takviye edici gıda üreticisi Orzax, SPK onayının ardından borsa halka arz sürecini başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-29T15:01:04.168728+00:00",
+  "type": "news",
+  "cluster_id": "c24d59dbbea21"
+ },
+ {
   "title": "Memur ve emeklinin zam oranları cuma günü netleşecek",
   "link": "https://www.trthaber.com/haber/ekonomi/memur-ve-emeklinin-zam-oranlari-cuma-gunu-netlesecek-949682.html",
   "source": "TRT Haber",
