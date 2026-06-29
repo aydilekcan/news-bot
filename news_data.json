@@ -1,5 +1,65 @@
 [
  {
+  "title": "İsrail'in Suriye'deki operasyonları bölgede gerilimi artırdı",
+  "link": "https://www.dw.com/tr/israil-in-suriye-deki-operasyonları-bölgede-gerilimi-artırdı/a-77759211?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "İsrail'in Suriye'deki askerî operasyonları bölgede gerilimi artırdı; Suriye ve Türkiye, İsrail'in saldırılarını uluslararası hukuku ihlal ettiğini belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-29T18:01:03.974306+00:00",
+  "type": "news",
+  "cluster_id": "cde2b2ab6dc8b"
+ },
+ {
+  "title": "SSB Başkanı Görgün: 250 milyon dolarlık ihracatı biz artık bir haftada yapar hale geldik",
+  "link": "https://www.trthaber.com/haber/savunma/ssb-baskani-gorgun-250-milyon-dolarlik-ihracati-biz-artik-bir-haftada-yapar-hale-geldik-949695.html",
+  "source": "TRT Haber",
+  "summary_tr": "Savunma Sanayii Başkanı Görgün, 2002'de yıllık 250 milyon dolar olan savunma ihracatının şimdi haftalık yapıldığını belirtti.",
+  "metric": "Savunma ihracatı 250 milyon dolar/yıl -> 250 milyon dolar/hafta (x52 artış)",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-06-29T18:01:03.974306+00:00",
+  "type": "news",
+  "cluster_id": "c86f7194ffa90"
+ },
+ {
+  "title": "İletişim Başkanı Duran: İsrail'in, Suriyenin egemenliğini hedef alan saldırılarını kınıyorum",
+  "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-israilin-suriyenin-egemenligini-hedef-alan-saldirilarini-kiniyorum-949691.html",
+  "source": "TRT Haber",
+  "summary_tr": "İletişim Başkanı Duran, İsrail'in Suriye'nin egemenliğini hedef alan saldırılarını kınadı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-06-29T18:01:03.974306+00:00",
+  "type": "news",
+  "cluster_id": "cc26fb8f9f454"
+ },
+ {
+  "title": "Eski AKP milletvekili Metiner, Bahçeli’yi ziyaret etti: ‘Süreç son aşamasında’",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/eski-akp-milletvekili-metiner-bahceli-yi-ziyaret-etti-surec-son-asamasinda-2516554",
+  "source": "Cumhuriyet",
+  "summary_tr": "Eski AKP Milletvekili Mehmet Metiner, MHP Genel Başkanı Devlet Bahçeli'yi ziyaret ederek 'sürecin son aşamasında' olduğunu belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-29T18:01:03.974306+00:00",
+  "type": "news",
+  "cluster_id": "c9b0aae3e46b2"
+ },
+ {
+  "title": "Özgür Özel İzmir’de sert çıktı, 'sloganı' duyurdu: ‘Butlancılar bir elin parmakları kadar kişiyle ziyaret yaparken biz çay içmeye on binlerle geliyoruz!’",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-izmir-de-sert-cikti-slogani-duyurdu-butlancilar-bir-elin-parmaklari-kadar-kisiyle-ziyaret-yaparken-biz-cay-icmeye-on-binlerle-geliyoruz-2516552",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP lideri Özgür Özel, İzmir'de sert çıkarak parti faaliyetlerini vurguladı ve oy potansiyelini destekleyen kitle katılımını öne çıkardı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-29T18:01:03.974306+00:00",
+  "type": "news",
+  "cluster_id": "cf36bceea9b44"
+ },
+ {
   "title": "Rosatom, Akkuyu NGS'nin ilk ünitesinin ne zaman devreye alınacağını duyurdu",
   "link": "https://www.sozcu.com.tr/rosatom-akkuyu-ngs-nin-ilk-unitesinin-ne-zaman-devreye-alinacagini-duyurdu-p332262",
   "source": "Sözcü",
