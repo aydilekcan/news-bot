@@ -1,5 +1,65 @@
 [
  {
+  "title": "NATO üyesi ülkenin istihbaratı açıkladı: \"Rusya ile silahlı çatışma ihtimali var\"",
+  "link": "https://www.sozcu.com.tr/nato-uyesi-ulkenin-istihbarati-acikladi-rusya-ile-silahli-catisma-ihtimali-var-p332305",
+  "source": "Sözcü",
+  "summary_tr": "Polonya istihbaratı: Rusya ile silahlı çatışma ihtimali bulunuyor",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-29T22:03:18.813219+00:00",
+  "type": "news",
+  "cluster_id": "c0b1b278e5b19"
+ },
+ {
+  "title": "Doha'daki kritik görüşme öncesi Trump'tan açıklama",
+  "link": "https://www.sozcu.com.tr/doha-daki-kritik-gorusme-oncesi-trump-tan-aciklama-p332304",
+  "source": "Sözcü",
+  "summary_tr": "ABD Başkanı Trump, Katar'da yapılacak ABD-İran mutabakat zaptı görüşmelerine ilişkin açıklama yaptı",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-29T22:03:18.813219+00:00",
+  "type": "news",
+  "cluster_id": "ca6e1a0f33aa0"
+ },
+ {
+  "title": "Dilovası soruşturmasında ortaya çıkan skandal: Belediye şirketinin işçisine, “zabıta” yetkisiyle denetim yaptırdılar!",
+  "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVC1PTEJpMnloNngzaVRBd29pVjhoVG51Sk1DNk5ZSkQ5VHVQNzNTUF8yOGZVU2ZuaGhsOHBDUktFcGFyNU4zbDhWS1ZQb2l3OXo0UDlHbmFHVGl4aEwtdnczdHc3QWt0NGVWQkc2cTV6b1FPYW5scUNJZ2VYbVlrQk9uR2gwTzQ0NWpGNVVUTkpOVm1vMWRxdV9NM0U2QUFnUzVrQkVyUHdQTGZaZGotUmdXbElCd0hMV0tCLXM0UEgyZ2dBS2dDWlBHVWV5TWloQ0ZiRjR0VTA5SWpsdmtJZnctd244eEhtU1JqTlZJTGs3Yk9kR1JnRVQzNA?oc=5",
+  "source": "T24",
+  "summary_tr": "Dilovası soruşturmasında belediye şirketinin işçisine zabıta yetkisiyle denetim yaptırıldığı ortaya çıktı",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-29T22:03:18.813219+00:00",
+  "type": "news",
+  "cluster_id": "c81b18f6ccc4d"
+ },
+ {
+  "title": "Israeli strikes kill at least 8 in Gaza, including 2 children, health officials say",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSGw4TkJCNUpfellkLVZuMWludlVPMnpDMFJ3OS1WcDRWVHNyUks0MjB2ZERaOXYwQ3BIa3I3VzU1VWhjMHFES0tVZG5tbDdjbGllN05xNWtyZGd1Z2J6cy1tQ01XNTVWMjNtUUFXUk5LQ1ZiNXZiZDZqamRuaHNWRkQ2SnJ4UVRCTWFxb2dMR1A5cVctaVhyYnpmclVUZw?oc=5",
+  "source": "AP",
+  "summary_tr": "İsrail'in Gazze'deki hava saldırılarında en az 8 kişi hayatını kaybetti, aralarında 2 çocuk var",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-29T22:03:18.813219+00:00",
+  "type": "news",
+  "cluster_id": "c5bb1e7835fbb"
+ },
+ {
+  "title": "Supreme Court rejects Trump’s push to toss $5 million verdict in E. Jean Carroll sexual abuse case",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMTFWU0ZjYjRjbE5rYjlyYjRnN21BNmJ6YmtyZHR0RlV3V2VONnRCRjdTejl5LUtMNFBCSTMtWjJObnV6T3F4UGNleF9Ebmc0dXlLeWlrYS1Hd3BfaWpVSHJMOEJVaVlsM3FnQWJHZW8zT09OMWdCYmFNNG5aeHZuakVIZ0pzaXc3aFNTd3pRdHo1YklDTzUtWVdWT3RaQ1NDVHpOamhaejBmaXc?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD Yüksek Mahkemesi, Trump'ın E. Jean Carroll davasındaki 5 milyon dolarlık kararı iptal etme başvurusunu reddetti",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-29T22:03:18.813219+00:00",
+  "type": "news",
+  "cluster_id": "c1bbe725adf8e"
+ },
+ {
   "title": "İsrail ordusunun Gazze'ye düzenlediği saldırılarda hayatını kaybedenlerin sayısı 8'e yükseldi",
   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-gazzeye-duzenledigi-saldirilarda-hayatini-kaybedenlerin-sayisi-8e-yukseldi/3981740",
   "source": "Anadolu Ajansı",
