@@ -1,5 +1,65 @@
 [
  {
+  "title": "Bloomberg: Emirates NBD, HSBC Türkiye’yi satın alabilir",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXBNajhBUWJxdWw4T01Hby16LWZEZ1pFYTVUOXk1ZElUM3pMVk9xd0hvU0pEem5OUXdmOTRjOGdNd1JfMEEzV2dvOWlVNjRKV0w4eUNUTU1VUGhwSWZuZ25fTFc1c0RHN09kZm5WMDlTc3kxeUp5U0M5YmJlOENUUGQ4cUpkTUI3VGI5OTExTQ?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Bloomberg'e göre Emirates NBD, HSBC Türkiye'yi satın alabilir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-30T11:01:11.322029+00:00",
+  "type": "news",
+  "cluster_id": "c9dab3c1046bb"
+ },
+ {
+  "title": "Trafik sigortasında yeni dönem: Çözüm mü, yeni yük mü?",
+  "link": "https://www.cumhuriyet.com.tr/anketler/trafik-sigortasinda-yeni-donem-cozum-mu-yeni-yuk-mu-2516734",
+  "source": "Cumhuriyet",
+  "summary_tr": "Zorunlu trafik sigortasında 1 Temmuz'dan itibaren hasar süreçlerinde önemli değişiklikler yapılacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-30T11:01:11.322029+00:00",
+  "type": "news",
+  "cluster_id": "c587a869e29d6"
+ },
+ {
+  "title": "Kulisleri sallayan 'beğeni' ve 'istifa' iddiasına Mehmet Şimşek'ten net yanıt",
+  "link": "https://www.sozcu.com.tr/kulisleri-sallayan-begeni-ve-istifa-iddiasina-mehmet-simsek-ten-net-yanit-p332480",
+  "source": "Sözcü",
+  "summary_tr": "Hazine ve Maliye Bakanı Mehmet Şimşek, istifa söylentilerine karşı net bir yanıt verdi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-06-30T11:01:11.322029+00:00",
+  "type": "news",
+  "cluster_id": "cce8781a8133d"
+ },
+ {
+  "title": "Hürmüz Boğazı'nda ticari gemi trafiği son bir haftada yüzde 50'den fazla arttı",
+  "link": "https://www.aa.com.tr/tr/dunya/hurmuz-bogazinda-ticari-gemi-trafigi-son-bir-haftada-yuzde-50den-fazla-artti/3982128",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD-İran mutabakatı sonrası Hürmüz Boğazı'nda ticari gemi trafiği son haftada öncekine göre %50'den fazla arttı.",
+  "metric": "Gemi trafiği %50+ artış (bir haftada)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-30T11:01:11.322029+00:00",
+  "type": "news",
+  "cluster_id": "c7c00a6390d31"
+ },
+ {
+  "title": "Akkuyu'da yerlileştirme hacmi 12 milyar dolara ulaştı",
+  "link": "https://www.trthaber.com/haber/ekonomi/akkuyuda-yerlilestirme-hacmi-12-milyar-dolara-ulasti-949782.html",
+  "source": "TRT Haber",
+  "summary_tr": "Akkuyu Nükleer Santrali'nde yerlileştirme hacmi 12 milyar dolara ulaştı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-06-30T11:01:11.322029+00:00",
+  "type": "news",
+  "cluster_id": "cb4efa56b7095"
+ },
+ {
   "title": "Gözler enflasyon ve faiz kararlarında: Türkiye ekonomisini temmuzda ne bekliyor?",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/gozler-enflasyon-ve-faiz-kararlarinda-turkiye-ekonomisini-temmuzda-ne-bekliyor-2516719",
   "source": "Cumhuriyet",
