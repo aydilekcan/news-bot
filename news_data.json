@@ -1,5 +1,77 @@
 [
  {
+  "title": "Açlık sınırı haziranda 35 bin 759 liraya yükseldi",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVk04T1o1dXhQRExHdU1PUUZZc25UQ1FfWi1VX2xKa2hvM0hpbnNwMjdmcDVqclUzWklqR1g5RGZlODk0cWRWSU9jbDdOSTV6eGFyR0ZhcU9ISkhRWFBwRXFDS29ORVBFbnZlS3lYc0QyZFhYT3dnZTlzekZlS2M0ZWpBZkFYZ040MHRv?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Açlık sınırı haziranda 35 bin 759 liraya yükseldi.",
+  "metric": "Açlık sınırı (haziran) -> 35.759 TL",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-30T20:00:59.393527+00:00",
+  "type": "news",
+  "cluster_id": "c5767ee20df51"
+ },
+ {
+  "title": "Erdoğan'a sunulacak not suç unsuru sayıldı: Eski hukuk danışmanına dava açıldı",
+  "link": "https://www.sozcu.com.tr/erdogan-a-sunulacak-not-suc-unsuru-sayildi-eski-hukuk-danismanina-dava-acildi-p332610",
+  "source": "Sözcü",
+  "summary_tr": "Türk Ceza Kanunu hazırlayan hukukçu Prof. Dr. İzzet Özgenç hakkında Cumhurbaşkanı Erdoğan'a sunulacak not nedeniyle dava açıldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-06-30T20:00:59.393527+00:00",
+  "type": "news",
+  "cluster_id": "c7909eb4e714d"
+ },
+ {
+  "title": "Restoran ve kafelerde 'şeffaf menü' uygulaması zorunlu hale getiriliyor",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/restoran-ve-kafelerde-seffaf-menu-uygulamasi-zorunlu-hale-getiriliyor-2516885",
+  "source": "Cumhuriyet",
+  "summary_tr": "Tarım Bakanı, restoran ve kafelerde şeffaf menü uygulamasının zorunlu hale getirileceğini duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-30T20:00:59.393527+00:00",
+  "type": "news",
+  "cluster_id": "c897aeeaacac3"
+ },
+ {
+  "title": "Emeklileri üzecek bir haber daha: AKP ve MHP oylarıyla reddedildi",
+  "link": "https://www.sozcu.com.tr/emeklileri-uzecek-bir-haber-daha-akp-ve-mhp-oylariyla-reddedildi-p332612",
+  "source": "Sözcü",
+  "summary_tr": "AKP ve MHP oylarıyla muhalefet tarafından emeklilere yönelik araştırma ve maaş artışı talepleri reddedildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-06-30T20:00:59.393527+00:00",
+  "type": "news",
+  "cluster_id": "c4c15ec538bbd"
+ },
+ {
+  "title": "MİT Başkanı Kalın, Mısır Genel İstihbarat Servisi Başkanı Reşat ile Ankara'da görüştü",
+  "link": "https://www.aa.com.tr/tr/gundem/mit-baskani-kalin-misir-genel-istihbarat-servisi-baskani-resat-ile-ankarada-gorustu/3982663",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "MİT Başkanı Kalın, Mısır Genel İstihbarat Servisi Başkanı Reşat ile Ankara'da görüştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-30T20:00:59.393527+00:00",
+  "type": "news",
+  "cluster_id": "c88b3f1238933"
+ },
+ {
+  "title": "Türkiye ile Suriye arasında afet ve acil durum yönetimi alanında protokol imzalandı",
+  "link": "https://www.trthaber.com/haber/gundem/turkiye-ile-suriye-arasinda-afet-ve-acil-durum-yonetimi-alaninda-protokol-imzalandi-949821.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye ile Suriye afet ve acil durum yönetimi alanında protokol imzaladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-30T20:00:59.393527+00:00",
+  "type": "news",
+  "cluster_id": "c1b535a9534bf"
+ },
+ {
   "title": "ABD Yüksek Mahkemesi'nden iki kritik karar: Doğumla vatandaşlık korundu, trans sporcu yasağı onaylandı",
   "link": "https://www.cumhuriyet.com.tr/turkiye/abd-yuksek-mahkemesi-nden-iki-kritik-karar-dogumla-vatandaslik-korundu-trans-sporcu-yasagi-onaylandi-2516876",
   "source": "Cumhuriyet",
