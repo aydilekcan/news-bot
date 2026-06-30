@@ -1,5 +1,53 @@
 [
  {
+  "title": "İç borçlanma stratejisi açıklandı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/ic-borclanma-stratejisi-aciklandi/3982386",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Hazine ve Maliye Bakanlığı temmuz-eylül döneminde iç borç servisine karşılık 1 trilyon 538 milyar liralık iç borçlanma stratejisini açıkladı.",
+  "metric": "İç borçlanma 1 trilyon 500,3 milyar TL -> 1 trilyon 538 milyar TL",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-30T15:01:04.647166+00:00",
+  "type": "news",
+  "cluster_id": "c6e6584f478a2"
+ },
+ {
+  "title": "Doğum yapan anneler için yeni düzenleme Meclis'e sunuluyor",
+  "link": "https://www.sozcu.com.tr/dogum-yapan-anneler-icin-yeni-duzenleme-meclis-e-sunuluyor-p332557",
+  "source": "Sözcü",
+  "summary_tr": "MHP doğum yapan kadınlar için ilk 6 aylık analık izninin ardından yeni ödeme düzenlemesini TBMM'ye sunacak.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-06-30T15:01:04.647166+00:00",
+  "type": "news",
+  "cluster_id": "cb46bb0983001"
+ },
+ {
+  "title": "CHP'de 26 il başkanı görevden alındı",
+  "link": "https://www.trthaber.com/haber/gundem/chpde-26-il-baskani-gorevden-alindi-949807.html",
+  "source": "TRT Haber",
+  "summary_tr": "CHP'de 26 il başkanı görevden alındı, 7 il başkanı da ihraç talebiyle disiplin sevk edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-30T15:01:04.647166+00:00",
+  "type": "news",
+  "cluster_id": "cdc41d33d25be"
+ },
+ {
+  "title": "Analysts dial down oil forecasts as Hormuz reopening eases supply concerns: Reuters poll",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVThReXJuYnZtcENQZmI0cGNETzlENi1qMVhQcUFvNUV5TjFSWndweVc0d0c2bnd2cWU2MTNMa3FBa0JRYmFsNGJ2cWw4eXBlSnIybU9mcE9tUTh1ZmZyNERYSUxUSk1WTkp4NG9NZ2ZMWHpjLTFfQ3RDdjVRNk9ZeTg1YVR4Wk95OVQtUU1iNWh5NkJrVnA5QWpWMXl6UlZIZHZjVnRPdkREbkphRDJNaUcxWlhUWHBXb1lfMWVmLVFnX1gxUV9z?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Reuters analizcileri, Hormuz Boğazı'nın açılması nedeniyle petrol arzı endişeleri azalırken yıl sonu petrol fiyat tahminlerini aşağı yönlü revize etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-30T15:01:04.647166+00:00",
+  "type": "news",
+  "cluster_id": "cdaea5e443b38"
+ },
+ {
   "title": "İçişleri Bakanı Mustafa Çiftçi Suriye'de: 'Gönüllü geri dönüşleri teşvik edici adımlar bekliyoruz'",
   "link": "https://www.cumhuriyet.com.tr/turkiye/icisleri-bakani-mustafa-ciftci-suriye-de-gonullu-geri-donusleri-tesvik-edici-adimlar-bekliyoruz-2516815",
   "source": "Cumhuriyet",
