@@ -1,5 +1,41 @@
 [
  {
+  "title": "'10 yıl boyunca öğle yemeğimizi evden götürüp, 40 yaşında emekli olduk'",
+  "link": "https://www.bbc.com/turkce/articles/cp367v3zygpo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Erken emeklilik için günlük masrafları aşırı şekilde kısıp hayatından fedakarlık yapan bir çift 10 yılda emekli oldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-30T05:01:00.503049+00:00",
+  "type": "news",
+  "cluster_id": "ccf6c1712a644"
+ },
+ {
+  "title": "AYM'den CHP'nin başvurusu hakkında karar",
+  "link": "https://www.sozcu.com.tr/aym-den-chp-nin-basvurusu-hakkinda-karar-p332329",
+  "source": "Sözcü",
+  "summary_tr": "Anayasa Mahkemesi, CHP'nin ismi ve amblemine ilişkin başvurusunu karara bağladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-06-30T05:01:00.503049+00:00",
+  "type": "news",
+  "cluster_id": "c151970111351"
+ },
+ {
+  "title": "30 milyar liralık yasa dışı bahis ağına operasyon",
+  "link": "https://www.trthaber.com/haber/turkiye/30-milyar-liralik-yasa-disi-bahis-agina-operasyon-949719.html",
+  "source": "TRT Haber",
+  "summary_tr": "İstanbul merkezli 9 ilde gerçekleştirilen operasyonda 37 şüpheli gözaltına alınırken 30 milyar liralık yasa dışı bahis ağına darbe vuruldu.",
+  "metric": "Yasa dışı bahis ağı 30 milyar lira",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-06-30T05:01:00.503049+00:00",
+  "type": "news",
+  "cluster_id": "c6b5f1f9d2aef"
+ },
+ {
   "title": "Yen hits 40-year low as clock ticks on intervention",
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUXZ6T3FUR1VKRXVTa05UdkplVkhySmRiWGhZaGpFV1VPYVBEeGpMMDlMM1RTT0E2SFdEc0REN3NReGc5ZkNvNmxWbHJjSVFtdTFFaVU1WXJFRWVqZlNyRWpjWVZEOFNXRUdqdEktRW9ZQnc1Zy1EMTRPZHdWdFlyZC1PUzdlY3JsMEJNS2ZFU0RUMWNoX0Z3emF2czV1MEZNOVE?oc=5",
   "source": "Reuters",
