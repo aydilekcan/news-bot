@@ -1,5 +1,77 @@
 [
  {
+  "title": "Temmuzda ekonomi trafiği hızlanıyor: Gözler enflasyon verisi ve Merkez Bankası'nın faiz kararında",
+  "link": "https://www.sozcu.com.tr/temmuzda-ekonomi-trafigi-hizlaniyor-gozler-enflasyon-verisi-ve-merkez-bankasi-nin-faiz-kararinda-p332448",
+  "source": "Sözcü",
+  "summary_tr": "Temmuz ayında kritik ekonomi verisi (enflasyon) ve Merkez Bankası faiz kararı bekleniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-30T09:01:06.333924+00:00",
+  "type": "news",
+  "cluster_id": "c352383eab76b"
+ },
+ {
+  "title": "Yılın ikinci yarısında ekonomi ajandası yoğun olacak",
+  "link": "https://www.trthaber.com/haber/ekonomi/yilin-ikinci-yarisinda-ekonomi-ajandasi-yogun-olacak-949764.html",
+  "source": "TRT Haber",
+  "summary_tr": "Yılın ikinci yarısında ekonomi ajandası yoğun: 3 Temmuz enflasyon verisi ve TCMB Para Politikası Kurulu kararı bekleniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-06-30T09:01:06.333924+00:00",
+  "type": "news",
+  "cluster_id": "c411e2e6b4b40"
+ },
+ {
+  "title": "Avrupa'yı kavuran sıcaklar ekonomiyi vuruyor: Almanya için 131 milyar dolarlık kayıp riski",
+  "link": "https://www.sozcu.com.tr/avrupa-yi-kavuran-sicaklar-ekonomiyi-vuruyor-almanya-icin-131-milyar-dolarlik-kayip-riski-p332443",
+  "source": "Sözcü",
+  "summary_tr": "Avrupa'daki aşırı sıcak dalgası ekonomiye vuruyor; Almanya için 131 milyar dolarlık kayıp riski söz konusu.",
+  "metric": "Almanya kayıp riski: 131 milyar dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-30T09:01:06.333924+00:00",
+  "type": "news",
+  "cluster_id": "c586546d401f2"
+ },
+ {
+  "title": "İhracatta rekor yıl: İlk 1000 ihracatçı listesi açıklandı",
+  "link": "https://www.trthaber.com/haber/ekonomi/ihracatta-rekor-yil-ilk-1000-ihracatci-listesi-aciklandi-949763.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye ilk 1000 ihracatçı listesinde Bilgin Yatçılık 727 basamak yükselerek en hızlı yükselen şirket oldu.",
+  "metric": "Bilgin Yatçılık sıralaması: +727 basamak",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-30T09:01:06.333924+00:00",
+  "type": "news",
+  "cluster_id": "cee6e343a751f"
+ },
+ {
+  "title": "Yapay zeka dönüşümü ABD'de teknoloji şirketlerinde işten çıkarmaları hızlandırıyor",
+  "link": "https://www.trthaber.com/haber/dunya/yapay-zeka-donusumu-abdde-teknoloji-sirketlerinde-isten-cikarmalari-hizlandiriyor-949759.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD teknoloji şirketleri yapay zeka yatırımlarını artırırken işten çıkarmaları hızlandırıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-06-30T09:01:06.333924+00:00",
+  "type": "news",
+  "cluster_id": "c18005f1e4098"
+ },
+ {
+  "title": "Dış ticaret açığı (aylık): 5,61 milyar dolar (Mayıs 2025)",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZkZFNlluamxUNTRCcnpfVVpMZUZFZ19MaXJPbE5vdU5NUjMzSkhDV0x4UWp6VnVUaE5nZHVYRUgyT2x0WDNadm5UdU1ESEdTcFRZcW40VUVGOG9ST1lmR3YwdjZ4bTRDVzlKT1ExOWNZUWNWenVDQmYydkJmTG1qR0t4SVNuRkRQcm1oWTF1TW9McC1obFBUMWxR?oc=5",
+  "source": "TÜİK",
+  "summary_tr": "5,61 milyar dolar",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-06-30T09:01:06.333924+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "TÜİK açıkladı: Türkiye'nin enerji faturası bir yılda uçuşa geçti!",
   "link": "https://www.sozcu.com.tr/tuik-acikladi-turkiye-nin-enerji-faturasi-bir-yilda-ucusa-gecti-p332414",
   "source": "Sözcü",
