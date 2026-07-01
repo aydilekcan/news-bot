@@ -1,5 +1,29 @@
 [
  {
+  "title": "Nike forecasts fall in first-half revenue, shares tumble 4%",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWnNzWkdGLVk5dVdwM0ZUQ3RObWpYSkdGNnhsc1JuMFhWeXBtT1pSS3luR3UxcVNEcTVTM0tCdFRTSHlYQVNZTGFkQXIzeldDUV91djhzbFN1dWZyOWVKOHVrbGFpcy1rRkYxd3dTTzNKMjdTcFN6OFVSVk5iX3ZhU2tULVpzR1RfdVpEcXFkUFZ4ZlFYT01EY1VvNlR3dDBG?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Nike ilk yarıyıl gelirinde düşüş öngördü; hisse senetleri %4 geriledi.",
+  "metric": "Nike hisse senetleri -%4",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-01T00:01:02.211452+00:00",
+  "type": "news",
+  "cluster_id": "c2d7005dbd071"
+ },
+ {
+  "title": "Sanayi üretim endeksi (yıllık): %6 (Nisan 2025)",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOemxYeWl4QXpHOGpIbUJpajcxOGVtOVVwbE1mOE40ajdyckYwc1hLTnB4eld1azdWNUloYWJVNHZPV01uc1JkQWVYS3AyOWpzUVZtdmYyOGZ3TjZqV0Yxb1hpWTk5ODVuZmMzSnNnUjRVNHJWS0o1U0d2UlQwSUlXdXFzemxSbF9jbnZRMHZFZ1FCTl9DQnNn?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%6 → %6",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-01T00:01:02.211452+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Tutuklanan Seferihisar Belediye Başkanı İsmail Yetişkin görevden uzaklaştırıldı",
   "link": "https://www.bbc.com/turkce/articles/c1eygdvp8w8o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
