@@ -1,5 +1,77 @@
 [
  {
+  "title": "Somali Savunma Bakanlığı: 'Türk F-16'ları Eş Şebab militanlarını vurdu'",
+  "link": "https://www.bbc.com/turkce/articles/cm2dr993ed3o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Somali Savunma Bakanlığı, Türk F-16 savaş jetlerinin Eş-Şebab militanlarını vurduğunu açıkladı; saldırıda 35 kişi öldü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-01T12:01:07.140690+00:00",
+  "type": "news",
+  "cluster_id": "cb0bfe5ed0c9f"
+ },
+ {
+  "title": "11 yılda üretim 4 kat arttı fiyatlar çakıldı: Üreticiler isyanda",
+  "link": "https://www.sozcu.com.tr/11-yilda-uretim-4-kat-artti-fiyatlar-cakildi-ureticiler-isyanda-p332833",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye'de son 11 yılda örtü altı yatırımların etkisiyle üretim yaklaşık 4 kat arttı ancak fiyatlar düştü; üreticiler isyanda.",
+  "metric": "Üretim artışı: 4 kat",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-01T12:01:07.140690+00:00",
+  "type": "news",
+  "cluster_id": "c863fd943991b"
+ },
+ {
+  "title": "Depozito iade sistemi nedir, nasıl işleyecek?",
+  "link": "https://www.bbc.com/turkce/articles/c621gelrprpo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Türkiye'de Depozitosu Olan Ambalajlar Sistemi (DOA) kapsamında iade edilen her plastik, cam ve alüminyum içecek ambalajı için 1 lira ödeme yapılacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-01T12:01:07.140690+00:00",
+  "type": "news",
+  "cluster_id": "cff4f4a9b7dfc"
+ },
+ {
+  "title": "Zararı 61 milyar TL’yi aşmıştı: Ünlü market zinciri 7 bin 500 çalışanını işten çıkardı",
+  "link": "https://www.sozcu.com.tr/zarari-61-milyar-tl-yi-asmisti-unlu-market-zinciri-7-bin-500-calisanini-isten-cikardi-p332835",
+  "source": "Sözcü",
+  "summary_tr": "İngiltere'nin önde gelen süpermarket zinciri Asda, artan finansman maliyetleri nedeniyle 7 bin 500 çalışanını işten çıkardı.",
+  "metric": "Çalışan kaybı: 7.500",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-01T12:01:07.140690+00:00",
+  "type": "news",
+  "cluster_id": "c1947dcb5ea13"
+ },
+ {
+  "title": "Türkiye'nin mayıstaki ham çelik üretimi geçen yılın aynı ayına göre yüzde 8,9 arttı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-mayistaki-ham-celik-uretimi-gecen-yilin-ayni-ayina-gore-yuzde-8-9-artti/3983287",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye'nin mayıstaki ham çelik üretimi geçen yılın aynı ayına göre yüzde 8,9 arttı ve 3,4 milyon tona yükseldi.",
+  "metric": "Ham çelik üretimi (yıllık karş.): +%8,9",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-01T12:01:07.140690+00:00",
+  "type": "news",
+  "cluster_id": "cc785a9f67f46"
+ },
+ {
+  "title": "TMO 21 günde rekor miktarda alım yaptı",
+  "link": "https://www.trthaber.com/haber/ekonomi/tmo-21-gunde-rekor-miktarda-alim-yapti-949909.html",
+  "source": "TRT Haber",
+  "summary_tr": "Tarım ve Orman Bakanlığı, TMO'nun 21 günde 1 milyon tonluk tarım ürünü aldığını belirtti; bu bir rekordur.",
+  "metric": "TMO alımı (21 gün): 1 milyon ton",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-01T12:01:07.140690+00:00",
+  "type": "news",
+  "cluster_id": "c8899eddac6d6"
+ },
+ {
   "title": "The next Iran war may come sooner than you think",
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaGhZVGxYcGxXVFlVSXdiMDkxN0Z1QnJwX1k1Nm1pWTRJX0hBR0c4QW5CUFg2Ukw3dmxJUUstR2EtUDY2TDNuMjBVWmRTNnNNeTR4MkVGU3AwYkV5Wmo4OU9ZYWR1enRRNk9PUlNLcnBpVElzTnNaVTBTOVNkcmtyVE9FSXRVUWpKQ3ZWeDA1QWxVblNaTURUWk92YlR5VF9VRDNJczJTaDhYakQtbk9PVHo5a0R4MldOcW12amV5bVhYRm05VVJOTQ?oc=5",
   "source": "Reuters",
