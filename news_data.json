@@ -1,5 +1,77 @@
 [
  {
+  "title": "ECB Başkanı Lagarde: Küresel ekonomide riskler artık çok daha geniş ölçüde dengelendi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/ecb-baskani-lagarde-kuresel-ekonomide-riskler-artik-cok-daha-genis-olcude-dengelendi/3983503",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ECB Başkanı Lagarde, küresel ekonomideki risklerin çeşitlendiğini ve birkaç hafta öncesine kıyasla dengelendiğini belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-01T15:01:12.714288+00:00",
+  "type": "news",
+  "cluster_id": "c108ace81666c"
+ },
+ {
+  "title": "US June private payrolls growth misses expectations; layoffs decline",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHdmbG9IWkhIbExKVnpqbXROZmtHRDE5bXljc2JXaF9vd0pUbmRmWVZGZmNnb3B1YTE3a2I5a0JDY05odEd3UHVGSXJEU0E3b21Za0ZrREFqWnVfcWxVUHFUakg5RTBnU1ZBLTdhaWtFQ3JTUFphRjR2ZnJNb0dISklZVHZidFdpOVM2cGdLeWxyRUV2TU81c00wYkNiRi1Wd1p2S28tbw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD'de Haziran ayı özel sektör istihdam artışı beklentileri karşılayamadı; işten çıkarmalar azaldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-01T15:01:12.714288+00:00",
+  "type": "news",
+  "cluster_id": "c7639fb2421f8"
+ },
+ {
+  "title": "Trump says the U.S. and Iran getting along very well",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSmVQdnh2NEFfRURhdUkyalRaYzc3WFduRjdGY2ZzcXhIUDJNUkhqY19Jb193Ri1tSjBjTmlUbHJiV1VuSkV6MUtOcVZQQ3BqZURsZGgtSnUxcGptTDlPZVN4M2ZxLUlaT1NkZUQzSWFiNFNPa2dOTjhoY0wwdXJreG1mRE5qdHJWMTdEbmVtYncxSFc4emhZNnllakk?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, ABD ve İran arasında çok iyi ilişkiler oluştuğunu söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-01T15:01:12.714288+00:00",
+  "type": "news",
+  "cluster_id": "c47bc8020a6cc"
+ },
+ {
+  "title": "Wall St dips as US-Iran tensions weigh on sentiment",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUlRDSDhyZXpFd2lVaWQyUllERFNzcHA4T2ZZZzZhWGdGaDRRcDVKY202NmFRbGFwSnRZcmhOeTBIVG1kci1qc0Zld2lKX2Z0bW1reTRiZkJCV21UNW16dFd5cWFXVW9JbXI0R0RxWGhFa1NsWXB2NFJXZTM1dHI2cmY1NmVDRHFFTm9MZEJMSnlLZUxiSGtIb1pPM1NsdFliWlI0OWR2R0V4T2tneUkw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD-İran gerilimi nedeniyle Wall Street endeksleri geriledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-01T15:01:12.714288+00:00",
+  "type": "news",
+  "cluster_id": "cd2ecb0a21814"
+ },
+ {
+  "title": "Fed's Warsh: Will decide on rate hike when policymakers 'shut the door' at next meeting",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdUF5Q0pZdzR1UV9XT1dZMVE1ZUpUd1lDbDVzUXlyV0pYUTFwdmFueTIxc3B5QjR6TjFjVXJDS1BIWm9yMi15eGh0aWVaa0ZMeExhM2llbG5IQTBKZlFQZUphY3ZjR2lkZTRGNWNneGdvc3lJQXBoM21RWnlVajVRWGtUbENnZ3ZsU25QNGVDY1FuWjhXV0VrVkVSUU9EMU82OFdJa1hSdTljNUE1b1BHZXRUZEdmMk9WaWpN?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Fed yetkilisi Warsh, sonraki toplantıda politika kapılarının kapanması halinde faiz artırım kararı vereceğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-01T15:01:12.714288+00:00",
+  "type": "news",
+  "cluster_id": "c5c15c90d2abc"
+ },
+ {
+  "title": "Iran warns of immediate response to any threat, cites US commitment to restrain Israel",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYWN4MVRUWnFzZkJNVjRneXVXUFlxcG0zekxKbXRqdml6bVhUUmI3ajV0THo0NVRTR1BaUjRXaVJHUjBoRVM3dlViekpfY1FtWERPODNGVEdiQ3BnajJ6YjNiZTZmYjM1ZzZ4NHN1UTRSbU1fdUtxc25MdGMzUjQtNjlKRGEzWFhXTjNHRS1ZX2pOYmtxUm1jSzRaSld6Wk9MSnUwYTJUUDI3bkhBSGprNUMtN0Rabk40d2JKTjV5VTJsV0RnMjVHaU9n?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran, herhangi bir tehdide karşı derhal yanıt vereceğini ve ABD'nin İsrail'i frenlemesi gerektiğini uyarı yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-01T15:01:12.714288+00:00",
+  "type": "news",
+  "cluster_id": "cc21214a36ca1"
+ },
+ {
   "title": "Su faturaları elektrikle yarışıyor: İzmir'de yüksek faturalar yurttaşları bezdirdi",
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS0l2cmFkWHF1X3lnTldBT2Q3UkNESE8xT2cwWG9kNU83VnROVTg2a3Z0NTBkS2Zfam56THhlOHpOODN4UnRvemhodHZhbXNyWFVTcy15YlRVVU9PNF96X0hiUzNIUlI3cTg5MzJ6dk1uR1pCTFN3Um5IUkF4VF90YmpJTzgtenUzMThlUC1YbFdJcGpwNUEya0NWakJuemdwWVpkYld2VFFRNHJyM0NqMUdaY2c3LWZSd0E?oc=5",
   "source": "soL",
