@@ -1,5 +1,65 @@
 [
  {
+  "title": "Su faturaları elektrikle yarışıyor: İzmir'de yüksek faturalar yurttaşları bezdirdi",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS0l2cmFkWHF1X3lnTldBT2Q3UkNESE8xT2cwWG9kNU83VnROVTg2a3Z0NTBkS2Zfam56THhlOHpOODN4UnRvemhodHZhbXNyWFVTcy15YlRVVU9PNF96X0hiUzNIUlI3cTg5MzJ6dk1uR1pCTFN3Um5IUkF4VF90YmpJTzgtenUzMThlUC1YbFdJcGpwNUEya0NWakJuemdwWVpkYld2VFFRNHJyM0NqMUdaY2c3LWZSd0E?oc=5",
+  "source": "soL",
+  "summary_tr": "İzmir'de su faturaları vatandaşları elektrik faturalarıyla yarışacak düzeyde yükseldi ve bezdirdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-01T14:01:08.968482+00:00",
+  "type": "news",
+  "cluster_id": "cccaaca775c2a"
+ },
+ {
+  "title": "Tutuklu TEMA gönüllüsü emekli öğretmen serbest bırakıldı",
+  "link": "https://www.dw.com/tr/tutuklu-tema-gönüllüsü-emekli-öğretmen-serbest-bırakıldı/a-77789673?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "NATO Zirvesi öncesi tutuklanan TEMA gönüllüsü emekli öğretmen Ayten Yakut serbest bırakıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-01T14:01:08.968482+00:00",
+  "type": "news",
+  "cluster_id": "cab10ace88f88"
+ },
+ {
+  "title": "Bakan Fidan'dan NATO Zirvesi açıklaması",
+  "link": "https://www.trthaber.com/haber/gundem/bakan-fidandan-nato-zirvesi-aciklamasi-949924.html",
+  "source": "TRT Haber",
+  "summary_tr": "Dışişleri Bakanı Hakan Fidan, NATO Zirvesi'nin Türkiye'de yapılıyor olmasının Türkiye'nin stratejik önemini ve NATO içindeki rolünü vurguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-01T14:01:08.968482+00:00",
+  "type": "news",
+  "cluster_id": "cc4373caac325"
+ },
+ {
+  "title": "Tutuklu gazeteci Pınar Gayıp hakkında 4 ay sonra iddianame: Emine Ocak’ın cenazesine katılması “suç” sayıldı",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTHFHM0hZaVpkbnFsMmtHY3pFaEhLRVY0ZjYyYlhQT2VzcmNkb1RFU3Y4TUktc3RXdzd3aFlBVmJ6d0t2SGZOV0tGd3ZXcnYzYmc4cHFaNEJQTkRXZ2xzdkJZVVpnTklVNUlQd2dmZjgxcjJLbWRaUHBfWGpycmwxVDlJbHFzX0pEclpIM2JESVZCQ1FhMEY1Rw?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Tutuklu gazeteci Pınar Gayıp hakkında 4 ay sonra iddianame açıldı; Emine Ocak'ın cenazesine katılması suç saydı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-01T14:01:08.968482+00:00",
+  "type": "news",
+  "cluster_id": "c41155b6e46e0"
+ },
+ {
+  "title": "TCMB rezervlerinde ideal hedefe uzaklık: 123,1 milyar dolar",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZEg0eG1YSnZnUnhHTndCZE81aWhCTE9Cc3k0LW9EYy01VHotNHhNWkpPb2dwMTVFWFB5UGU4V2tlTXB5bF9XUGJXOVl1ZzAwcnlWUHI4YnV2RW96b19YMVpCN3BTUngzMXdYU1NHRkJwQkI4d1d5QlpjVENDRDJOMC1xMWd3elNHQTV6OE9tckFrUWJETEZHNEtlR21CaHFkQkwxajNrN0UwUFht?oc=5",
+  "source": "TCMB",
+  "summary_tr": "123,1 milyar dolar",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-01T14:01:08.968482+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Trump’tan İran açıklaması: Görüşmeler çok iyi gidiyor",
   "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-iran-aciklamasi-gorusmeler-cok-iyi-gidiyor-2517085",
   "source": "Cumhuriyet",
