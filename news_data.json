@@ -1,5 +1,77 @@
 [
  {
+  "title": "Memur ve emekli maaşlarına zam nasıl olacak?",
+  "link": "https://www.dw.com/tr/memur-ve-emekli-maaşlarına-zam-nasıl-olacak/a-77775410?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Milyonlarca memur ve emeklinin maaş zammı, cuma günü açıklanacak enflasyon rakamına bağlı olarak netleşecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-01T05:00:58.400108+00:00",
+  "type": "news",
+  "cluster_id": "c49a11a205c9b"
+ },
+ {
+  "title": "Köprü geçiş ücretlerine zam",
+  "link": "https://www.dw.com/tr/köprü-geçiş-ücretlerine-zam/a-77778742?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Yap-işlet-devret modeli ile inşa edilen köprülerin geçiş ücretlerine zam yapıldı. Yeni fiyatlar bugünden itibaren geçerli.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-01T05:00:58.400108+00:00",
+  "type": "news",
+  "cluster_id": "c45411abb9a81"
+ },
+ {
+  "title": "KGM duyurdu: Otoyol ve köprü geçiş ücretlerine zam",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaFFablA3ZWtNWG1OYS1pM2V6Y2NwVjBxZWNRdG5veEYyemJKOXpHa0lpMGFSbkJJZkEwZ2FuN1V0eHJQLWRjcVVWTFp3Z2l5Nmg4Tzlhbno2U1lmeWxLNENpcGdka3llMDRiSUdVQU1mWG56bFZ5WjBUcGF5QWNTMWgwS1I3d2JJZTMxYjU1a1k?oc=5",
+  "source": "soL",
+  "summary_tr": "Karayolları Genel Müdürlüğü otoyol ve köprü geçiş ücretlerine zam yaptığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-01T05:00:58.400108+00:00",
+  "type": "news",
+  "cluster_id": "c45411abb9a81"
+ },
+ {
+  "title": "Sarı metalde kan kaybı durmuyor! Altını faiz vurdu!",
+  "link": "https://www.sozcu.com.tr/sari-metalde-kan-kaybi-durmuyor-altini-faiz-vurdu-p332675",
+  "source": "Sözcü",
+  "summary_tr": "Altın fiyatları ABD tahvil faizlerindeki yükseliş ve Fed faiz artışı beklentileriyle son 7 ayın en düşük seviyesine geriledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-01T05:00:58.400108+00:00",
+  "type": "news",
+  "cluster_id": "cbbc9ca21ef74"
+ },
+ {
+  "title": "Boyner’den ekonomi yönetimine zehir zemberek sözler",
+  "link": "https://www.sozcu.com.tr/boyner-den-ekonomi-yonetimine-zehir-zemberek-sozler-p332667",
+  "source": "Sözcü",
+  "summary_tr": "Boyner başkanı, sanayicilerin Mısır'a rotasını kâr arayışından çok ekonomik ayakta kalma çabası olarak değerlendirdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-01T05:00:58.400108+00:00",
+  "type": "news",
+  "cluster_id": "c07cf71877b8d"
+ },
+ {
+  "title": "Ford yapay zekaya güvenip işten çıkardığı çalışanları geri aldı",
+  "link": "https://www.trthaber.com/haber/dunya/ford-yapay-zekaya-guvenip-isten-cikardigi-calisanlari-geri-aldi-949846.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ford, yapay zeka ile kalite kontrol otomasyonunun beklenen performansı gösterememesi üzerine işten çıkardığı yüzlerce çalışanı geri aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-01T05:00:58.400108+00:00",
+  "type": "news",
+  "cluster_id": "c2872635003b4"
+ },
+ {
   "title": "Eski İsrail Başbakanı Bennett: Netanyahu artık ülkeyi yönetemiyor, aşırı sağcı bakanların esiri oldu",
   "link": "https://www.trthaber.com/haber/dunya/eski-israil-basbakani-bennett-netanyahu-artik-ulkeyi-yonetemiyor-asiri-sagci-bakanlarin-esiri-oldu-949844.html",
   "source": "TRT Haber",
