@@ -1,5 +1,53 @@
 [
  {
+  "title": "SGK 'güncelleme'ye gitti: Muayene katılım payına büyük zam",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/sgk-guncelleme-ye-gitti-muayene-katilim-payina-buyuk-zam-2517006",
+  "source": "Cumhuriyet",
+  "summary_tr": "SGK, ayakta tedavide hekim ve diş hekimi muayene katılım paylarına yüzde 250'ye yakın zam yaptı.",
+  "metric": "Muayene katılım payı: ~%250 zam",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-01T08:01:07.877906+00:00",
+  "type": "news",
+  "cluster_id": "c0953c48cbada"
+ },
+ {
+  "title": "Hekim ve diş hekimi muayenelerinde alınan katılım payları güncellendi",
+  "link": "https://www.trthaber.com/haber/ekonomi/hekim-ve-dis-hekimi-muayenelerinde-alinan-katilim-paylari-guncellendi-949870.html",
+  "source": "TRT Haber",
+  "summary_tr": "SGK, ayakta tedavide hekim ve diş hekimi muayene katılım paylarında güncelleme yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-01T08:01:07.877906+00:00",
+  "type": "news",
+  "cluster_id": "cece7c731d9c4"
+ },
+ {
+  "title": "Diyarbakır OSB Başkanı: 'Sanayide çarklar durma noktasına geldi'",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/diyarbakir-osb-baskani-sanayide-carklar-durma-noktasina-geldi-2517004",
+  "source": "Cumhuriyet",
+  "summary_tr": "Diyarbakır OSB Başkanı, yüksek enflasyon ve faiz oranları nedeniyle sanayide üretimin durma noktasına geldiğini bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-01T08:01:07.877906+00:00",
+  "type": "news",
+  "cluster_id": "cff45d1b5f08c"
+ },
+ {
+  "title": "Türkiye'de bir banka daha Kazakların oluyor",
+  "link": "https://www.sozcu.com.tr/turkiye-de-bir-banka-daha-kazaklarin-oluyor-p332746",
+  "source": "Sözcü",
+  "summary_tr": "Kazakistan merkezli Freedom Holding, Turkish Bank'ın hisselerinin büyük çoğunluğunu devralması için gerekli yasal onayları almakta.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-01T08:01:07.877906+00:00",
+  "type": "news",
+  "cluster_id": "cbcf06197fc4d"
+ },
+ {
   "title": "ABD ve Suudi Arabistan arasındaki kriz! Trump saldırıları durdurmak zorunda kaldı",
   "link": "https://www.sozcu.com.tr/abd-ve-suudi-arabistan-arasindaki-kriz-trump-saldirilari-durdurmak-zorunda-kaldi-p332717",
   "source": "Sözcü",
