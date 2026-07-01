@@ -1,5 +1,53 @@
 [
  {
+  "title": "Eski İsrail Başbakanı Bennett: Netanyahu artık ülkeyi yönetemiyor, aşırı sağcı bakanların esiri oldu",
+  "link": "https://www.trthaber.com/haber/dunya/eski-israil-basbakani-bennett-netanyahu-artik-ulkeyi-yonetemiyor-asiri-sagci-bakanlarin-esiri-oldu-949844.html",
+  "source": "TRT Haber",
+  "summary_tr": "İsrail eski başbakanı Bennett, Netanyahu'nun aşırı sağcı bakanlar tarafından esir alındığını ve artık ülkeyi yönetemediğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-01T04:01:00.522450+00:00",
+  "type": "news",
+  "cluster_id": "c7f66adf15add"
+ },
+ {
+  "title": "Merkez Bankası'ndan sadeleşme adımı: Döviz mevduatlarında yeni düzenleme",
+  "link": "https://www.trthaber.com/haber/ekonomi/merkez-bankasindan-sadelesme-adimi-doviz-mevduatlarinda-yeni-duzenleme-949842.html",
+  "source": "TRT Haber",
+  "summary_tr": "Merkez Bankası, makrofinansal istikrarı güçlendirmek amacıyla döviz mevduatlarında yeni düzenleme yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-01T04:01:00.522450+00:00",
+  "type": "news",
+  "cluster_id": "cd4ea449f5bed"
+ },
+ {
+  "title": "Oil prices rise as breakdown in Iran-US talks raises supply concerns",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMHJEenFKWkIxQUo3U2hMR2RKY0h3MldHWmhUSlFrbUloR195NWh0cE41c3BGc25aRlk5RlR5bEVVTHN0Qk95d3dfTHZUQnRxdVdmOERFRUlrQzRBYlB5d1dSM3RtdUJsRUV0WkxIVnpGZFg5TnRYQXR3TEVDUV9tUC12dWcyTW94WDVkbUZYUE95Y1ZXRkRRX1ByYXJ0c0xxTmhrTXQwaFM3eXJkMWp1ZVBmRy0tSklWMWc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran-ABD görüşmelerinin bozulması nedeniyle petrol arzı endişeleri artıyor ve petrol fiyatları yükseliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-01T04:01:00.522450+00:00",
+  "type": "news",
+  "cluster_id": "c8fa3062e23d5"
+ },
+ {
+  "title": "TCMB Rezervleri (haftalık değişim): -8,2 milyar dolar (geçen hafta)",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaVB3d25FdHU1QXRRR1BpMXNfUkd2bzd3U1pIdExhVVFrVWRFZ1B4VC12Y1laVGhhaUpieFBZaFB5Z2VLbnpLNl8zaTRmRGhyNWhGcURqWmxfVVFWQlVPT1N4dWd1bXVQVkhLcDI5aUhCeGRTN1ZuTGNSc3ZYNTNBTzJfZXFBaHo5ZVlEYVd1ZmdoYkh1Q21NbTRhaHZCbk9OdmJROHZXWQ?oc=5",
+  "source": "TCMB",
+  "summary_tr": "-8,2 milyar dolar",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-01T04:01:00.522450+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "İsrail ordusu, Suriye’yi işgale başladı",
   "link": "https://www.sozcu.com.tr/israil-ordusu-suriye-yi-isgale-basladi-p332657",
   "source": "Sözcü",
