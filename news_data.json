@@ -1,5 +1,53 @@
 [
  {
+  "title": "Fed Başkanı'ndan enflasyon mesajı",
+  "link": "https://www.sozcu.com.tr/fed-baskani-ndan-enflasyon-mesaji-p332899",
+  "source": "Sözcü",
+  "summary_tr": "Fed Başkanı Kevin Warsh, enflasyon beklentileri ve enflasyona ilişkin risklerin son haftalarda gerilediğini belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-01T16:01:11.775096+00:00",
+  "type": "news",
+  "cluster_id": "c15c31a323183"
+ },
+ {
+  "title": "Fed Başkanı Warsh: Piyasalarda oynaklık artmadı, azaldı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/fed-baskani-warsh-piyasalarda-oynaklik-artmadi-azaldi/3983513",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Fed Başkanı Kevin Warsh, piyasalardaki oynaklığın azaldığını ve enflasyon beklentilerinin gerilediğini belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-01T16:01:11.775096+00:00",
+  "type": "news",
+  "cluster_id": "c7119d536f3cc"
+ },
+ {
+  "title": "Micron, GM sign semiconductor supply agreement for vehicles",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTzBDSjNpak1rX0FwX3phTURLa2dYbkRSUzFyWDNBTlZ0MXR3aElaWEhjMEUxOHRiNmY1NWlRYm50ZUxiRl9zcldSUjBQNGNCV0tDdGpSLUNyTEZleXpFSUphSEk2RVRURGU0QS00Q1hHZkdoUU44UXBLeEhVM3FQSTBLdjVNNUpMT0t6cjNndW1zNWlIcVBRNm43T3FJaGNoaEw4?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Micron ve GM, araçlar için yarı iletken arz anlaşması imzaladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-01T16:01:11.775096+00:00",
+  "type": "news",
+  "cluster_id": "c03d9ed9467dc"
+ },
+ {
+  "title": "CMA CGM to buy FedEx third-party logistics arm in $1.4 billion deal",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdS1JUGhGT0JHVHBZOTQ4UEVQb0xGMXlVbDl1RDlsWWJfM21abmZ3Yk9ydHdKdWpBM09yS0xnV0duNl80Mkh0Z2NUVmVMTkRwcEJpSTBiajBYOW9vMnRMT0JNWHlSRld1YVZvVlk2YTFjbDBURllmVTlFREdCMHBtRzdwcDZrbGhUbmlZNnktZlBaZUxfMElBSW95OU5zeFpoRWVsNGlxeGpGOElxNm5iczBJLTJrQQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "CMA CGM, FedEx'in üçüncü taraf lojistik bölümünü 1,4 milyar dolara satın alıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-01T16:01:11.775096+00:00",
+  "type": "news",
+  "cluster_id": "cacb6163fdf46"
+ },
+ {
   "title": "ECB Başkanı Lagarde: Küresel ekonomide riskler artık çok daha geniş ölçüde dengelendi",
   "link": "https://www.aa.com.tr/tr/ekonomi/ecb-baskani-lagarde-kuresel-ekonomide-riskler-artik-cok-daha-genis-olcude-dengelendi/3983503",
   "source": "Anadolu Ajansı",
