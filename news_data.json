@@ -1,5 +1,53 @@
 [
  {
+  "title": "İsrail ordusu, Suriye’yi işgale başladı",
+  "link": "https://www.sozcu.com.tr/israil-ordusu-suriye-yi-isgale-basladi-p332657",
+  "source": "Sözcü",
+  "summary_tr": "İsrail ordusu Suriye'nin güneyine (Dera) girişini başlattı; Netanyahu yönetimi Gazze ve Lübnan'daki ateşkes çabalarından hareket ettiğini gösterdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-01T03:00:58.795028+00:00",
+  "type": "news",
+  "cluster_id": "c0142f4e2e0ec"
+ },
+ {
+  "title": "Erdoğan 'çözüm süreci takvimini' açıkladı: Çerçeve yasa Meclis tatile girmeden çıkacak",
+  "link": "https://www.bbc.com/turkce/articles/cz6venxlyl5o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, 'Terörsüz Türkiye' çözüm sürecinin çerçeve yasasının Meclis tatile girmeden çıkarılacağını açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-07-01T03:00:58.795028+00:00",
+  "type": "news",
+  "cluster_id": "c9f100690e13b"
+ },
+ {
+  "title": "İki gün sonra zamlara uyanacağız",
+  "link": "https://www.sozcu.com.tr/iki-gun-sonra-zamlara-uyanacagiz-p332655",
+  "source": "Sözcü",
+  "summary_tr": "Özel Tüketim Vergisi (ÖTV) zamları yaklaştıkça, vatandaşın gelir artışlarının enflasyon karşısında erozyona uğrayacağı uyarısı yapılıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-01T03:00:58.795028+00:00",
+  "type": "news",
+  "cluster_id": "cc005f67d692d"
+ },
+ {
+  "title": "Menülerde kalori bilgisi zorunlu oluyor",
+  "link": "https://www.trthaber.com/haber/gundem/menulerde-kalori-bilgisi-zorunlu-oluyor-949841.html",
+  "source": "TRT Haber",
+  "summary_tr": "1 Temmuz'dan itibaren restoran ve kafelerde menülerde kalori, protein, yağ ve diğer içerik bilgileri zorunlu olarak gösterilecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-01T03:00:58.795028+00:00",
+  "type": "news",
+  "cluster_id": "c0829a24ab1b5"
+ },
+ {
   "title": "Haziran ayının son günü olan Emekliler Günü’nde sendikal örgütler taleplerini açıkladı",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/haziran-ayinin-son-gunu-olan-emekliler-gunu-nde-sendikal-orgutler-taleplerini-acikladi-2516933",
   "source": "Cumhuriyet",
