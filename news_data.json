@@ -1,5 +1,41 @@
 [
  {
+  "title": "Memur ve emeklinin zam oranları belli oluyor",
+  "link": "https://www.trthaber.com/haber/gundem/memur-ve-emeklinin-zam-oranlari-belli-oluyor-949855.html",
+  "source": "TRT Haber",
+  "summary_tr": "Memur, emekli ve sosyal yardım alıcılarının Temmuz zam oranları cuma günü açıklanacak; haziran enflasyon verisiyle belirlenecek.",
+  "metric": "",
+  "lean": "right",
+  "score": 9,
+  "ts": "2026-07-01T06:01:04.853559+00:00",
+  "type": "news",
+  "cluster_id": "c51e67dc3dddb"
+ },
+ {
+  "title": "Bankaların 32 günlük vadeli mevduat faiz yarışında getiriler uçtu",
+  "link": "https://www.sozcu.com.tr/bankalarin-32-gunluk-vadeli-mevduat-faiz-yarisinda-getiriler-uctu-p332694",
+  "source": "Sözcü",
+  "summary_tr": "Vadeli mevduat faiz oranları Temmuz 2026'da %46'ye ulaştı; tasarruf sahipleri için yüksek getiri fırsatı.",
+  "metric": "Vadeli mevduat faiz oranı %46",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-01T06:01:04.853559+00:00",
+  "type": "news",
+  "cluster_id": "c74ffe73ecf1c"
+ },
+ {
+  "title": "Almanya'da indirimli akaryakıt dönemi bitti",
+  "link": "https://www.dw.com/tr/almanya-da-indirimli-akaryakıt-dönemi-bitti/a-77748542?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Almanya'da akaryakıt vergi indiriminin sona ermesiyle pompalarda fiyat artışı başladı.",
+  "metric": "Akaryakıt vergi indirimi 17 cent kaldırıldı",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-01T06:01:04.853559+00:00",
+  "type": "news",
+  "cluster_id": "c74cd37ff192c"
+ },
+ {
   "title": "Memur ve emekli maaşlarına zam nasıl olacak?",
   "link": "https://www.dw.com/tr/memur-ve-emekli-maaşlarına-zam-nasıl-olacak/a-77775410?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
