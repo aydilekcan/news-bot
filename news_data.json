@@ -1,5 +1,41 @@
 [
  {
+  "title": "Asgari ücretin 45 bin 800 liraya çıkarılması için kanun teklifi verildi",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/asgari-ucretin-45-bin-800-liraya-cikarilmasi-icin-kanun-teklifi-verildi-2517500",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Grup Başkanvekili, asgari ücretin 45.800 TL'ye yükseltilmesini öngören kanun teklifini TBMM'ye sundu.",
+  "metric": "Asgari ücret teklifinin yeni seviyesi: 45.800 TL",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-02T19:01:03.827646+00:00",
+  "type": "news",
+  "cluster_id": "caac95d642cbe"
+ },
+ {
+  "title": "Alman hükümetinden 34 maddelik \"Canlandırma Programı\"",
+  "link": "https://www.dw.com/tr/alman-hükümetinden-34-maddelik-canlandırma-programı/a-77809532?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Almanya hükümeti ekonomiyi canlandırmak için 34 maddelik reform paketi üzerinde anlaştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-02T19:01:03.827646+00:00",
+  "type": "news",
+  "cluster_id": "c23e6494fda56"
+ },
+ {
+  "title": "Dışişleri Bakanı Fidan: Trump’ta, CAATSA yaptırımlarını kaldırma yönünde güçlü irade var",
+  "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-trump-ta-caatsa-yaptirimlarini-kaldirma-yonunde-guclu-irade-var-/3984709",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Dışişleri Bakanı Fidan, Trump yönetiminin ABD'nin CAATSA yaptırımlarını kaldırmaya güçlü irade gösterdiğini açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-02T19:01:03.827646+00:00",
+  "type": "news",
+  "cluster_id": "c166eb1899dc1"
+ },
+ {
   "title": "Madımak Katliamı'nın araştırılması önergesi AKP ve MHP oylarıyla reddedildi",
   "link": "https://www.cumhuriyet.com.tr/turkiye/madimak-katliami-nin-arastirilmasi-onergesi-akp-ve-mhp-oylariyla-reddedildi-2517494",
   "source": "Cumhuriyet",
