@@ -1,5 +1,41 @@
 [
  {
+  "title": "200 liracık geçiş ücreti 4 yılda 1170 lira oldu",
+  "link": "https://www.sozcu.com.tr/200-liracik-gecis-ucreti-4-yilda-1170-lira-oldu-p332980",
+  "source": "Sözcü",
+  "summary_tr": "Geçiş ücreti 200 TL'den 1.170 TL'ye çıktı. İktidar döneminde benzin, alkol, köprü ve hastane ücretlerine yoğun zam yapılmış.",
+  "metric": "Geçiş ücreti 200 TL -> 1.170 TL (+%485)",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-02T03:01:06.521668+00:00",
+  "type": "news",
+  "cluster_id": "c1009a20e0a61"
+ },
+ {
+  "title": "Emekliye yüzde 18, memura yüzde 13 zam",
+  "link": "https://www.sozcu.com.tr/emekliye-yuzde-18-memura-yuzde-13-zam-p332979",
+  "source": "Sözcü",
+  "summary_tr": "Emekliye %18, memura %13 zam. Haziran enflasyonu verilerine göre yaşlı ve kamu çalışanları için zam oranları belirlenecek.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-02T03:01:06.521668+00:00",
+  "type": "news",
+  "cluster_id": "ccc12496e8394"
+ },
+ {
+  "title": "Faizin faturası 2.2 trilyon lira",
+  "link": "https://www.sozcu.com.tr/faizin-faturasi-2-2-trilyon-lira-p332978",
+  "source": "Sözcü",
+  "summary_tr": "Hazine Temmuz ayında 326,7 milyar liralık faiz ödeyecek. Faizin yıllık toplam faturası 2,2 trilyon liraya ulaştı.",
+  "metric": "Temmuz faiz ödemesi: 326,7 milyar TL",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-02T03:01:06.521668+00:00",
+  "type": "news",
+  "cluster_id": "c2c1e544729f4"
+ },
+ {
   "title": "Uzmanlar artan ücretlerin sağlığa erişimdeki eşitsizliği derinleştireceği söylüyor: Muayene ücretlerine fahiş zam",
   "link": "https://www.cumhuriyet.com.tr/turkiye/uzmanlar-artan-ucretlerin-sagliga-erisimdeki-esitsizligi-derinlestirecegi-soyluyor-muayene-ucretlerine-fahis-zam-2517214",
   "source": "Cumhuriyet",
