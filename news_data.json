@@ -1,5 +1,53 @@
 [
  {
+  "title": "US job growth misses expectations in June; unemployment rate falls to 4.2%",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcC1JUDBLdzUyXy1CSEd3TV8tc3BUcUVheXREal9lcXhza1NIVlVHcHZrYWZmYmtSV2Q2SmdpdW9KbHIzTzFpeElNUGlNTG5MTnN0WFpwN2tCVjBpRGZzbTk2Y0VwMzQ0WDA5dTdkclhmVndRZnB0YTN3QXVzcUtvMl9qMXhSMHJ0RUY0WjJlN2h2RTZIWi1yaXZCOC1qcVAwS1RRcWxyckQyeXR4VW53?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD'de haziran ayında istihdam büyümesi beklentilerin altında kaldı; işsizlik oranı yüzde 4,2'ye düştü.",
+  "metric": "İşsizlik oranı %4,2",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-02T14:01:07.339490+00:00",
+  "type": "news",
+  "cluster_id": "c19373fb9890b"
+ },
+ {
+  "title": "Fitch'ten Türk finans sektörü için görünüm indirimi: Üç sektörde riskler arttı",
+  "link": "https://www.sozcu.com.tr/fitch-ten-turk-finans-sektoru-icin-gorunum-indirimi-uc-sektorde-riskler-artti-p333203",
+  "source": "Sözcü",
+  "summary_tr": "Fitch Ratings, Türk finans sektörü için görünüm indiriminde bulundu. Yüksek enflasyon, uzun süreli yüksek faizler ve jeopolitik riskleri ekonomik etki gerekçesi gösteriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-02T14:01:07.339490+00:00",
+  "type": "news",
+  "cluster_id": "c2dec2dee2055"
+ },
+ {
+  "title": "Euro Bölgesi'nde işsizlik mayısta yüzde 6,2 oldu",
+  "link": "https://www.sozcu.com.tr/euro-bolgesi-nde-issizlik-mayista-yuzde-6-2-oldu-p333200",
+  "source": "Sözcü",
+  "summary_tr": "Euro Bölgesi'nde işsizlik oranı mayısta yüzde 6,2 oldu.",
+  "metric": "İşsizlik oranı %6,2",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-02T14:01:07.339490+00:00",
+  "type": "news",
+  "cluster_id": "c36fc2bd10959"
+ },
+ {
+  "title": "TCMB Brüt Dış Rezerv: 149,2 milyar dolar",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMXYtRURsZ05WZnItekFqSmRKOUVRY2w5bnY3RlhBNU0wazE4NGVXQzFvbVMyeUdxY0ZxRUotcUR6N2ZHZjEzVEJEekFCelRDSV94WS12WXhjYWZ2eWVxTU5Ra0dFeXpabXpNZ0dhU1dZOTBwUkhsM2RVSVVUdjdRTmd3MjJJb2ZmTE5sVnZodXRhc1U?oc=5",
+  "source": "TCMB",
+  "summary_tr": "149,2 milyar dolar",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-02T14:01:07.339490+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Son dakika... ABD'de haziran ayı tarım dışı istihdam rakamları açıklandı",
   "link": "https://www.sozcu.com.tr/son-dakika-abd-de-haziran-ayi-tarim-disi-istihdam-rakamlari-aciklandi-p333181",
   "source": "Sözcü",
