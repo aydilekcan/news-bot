@@ -1,5 +1,65 @@
 [
  {
+  "title": "US job growth slows sharply in June; labor force participation rate at more than 5-year low",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcC1JUDBLdzUyXy1CSEd3TV8tc3BUcUVheXREal9lcXhza1NIVlVHcHZrYWZmYmtSV2Q2SmdpdW9KbHIzTzFpeElNUGlNTG5MTnN0WFpwN2tCVjBpRGZzbTk2Y0VwMzQ0WDA5dTdkclhmVndRZnB0YTN3QXVzcUtvMl9qMXhSMHJ0RUY0WjJlN2h2RTZIWi1yaXZCOC1qcVAwS1RRcWxyckQyeXR4VW53?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD'de haziran ayında istihdam büyümesi keskin düştü; işgücü katılım oranı 5 yılın en düşük seviyesine geriledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-02T20:01:08.339917+00:00",
+  "type": "news",
+  "cluster_id": "c0c0e3a362898"
+ },
+ {
+  "title": "Türkiye'den Euro Ödeme Alanı'na katılma başvurusu",
+  "link": "https://www.bbc.com/turkce/articles/cx2d9pvr93vo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Türkiye, AB ile Yüksek Düzeyli Ekonomik Diyalog toplantısında Euro Ödeme Alanı'na katılma başvurusunu resmileştirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-02T20:01:08.339917+00:00",
+  "type": "news",
+  "cluster_id": "c0ae68e653bd1"
+ },
+ {
+  "title": "Dışişleri Bakanı Fidan: CAATSA yaptırımları konusunda gereken adımları atıyoruz",
+  "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-caatsa-yaptirimlari-konusunda-gereken-adimlari-atiyoruz/3984709",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Dışişleri Bakanı Fidan, CAATSA yaptırımlarının kaldırılması konusunda gereken adımların atıldığını açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-02T20:01:08.339917+00:00",
+  "type": "news",
+  "cluster_id": "c56e1d00994f0"
+ },
+ {
+  "title": "Trump yönetimi, ev aletlerinde enerji kısıtlamalarını kaldırmak için harekete geçti",
+  "link": "https://www.aa.com.tr/tr/ekonomi/trump-yonetimi-ev-aletlerinde-enerji-kisitlamalarini-kaldirmak-icin-harekete-gecti/3984713",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Trump yönetimi, tüketici tercihlerini sınırladığı gerekçesiyle ev aletlerindeki enerji kısıtlamalarını kaldırmak için harekete geçti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-02T20:01:08.339917+00:00",
+  "type": "news",
+  "cluster_id": "ccf72f7966c71"
+ },
+ {
+  "title": "Bakan Fidan'dan CAATSA aÃ§Ä±klamasÄ±: Ä°rade var, sÃ¼reÃ§ iÅŸliyor",
+  "link": "https://www.trthaber.com/haber/gundem/bakan-fidandan-caatsa-aciklamasi-irade-var-surec-isliyor-950084.html",
+  "source": "TRT Haber",
+  "summary_tr": "Bakan Fidan, CAATSA yaptırımlarının kaldırılması yönünde süreci işlettiğini belirtti.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-02T20:01:08.339917+00:00",
+  "type": "news",
+  "cluster_id": "cfdeb42e6a933"
+ },
+ {
   "title": "Asgari ücretin 45 bin 800 liraya çıkarılması için kanun teklifi verildi",
   "link": "https://www.cumhuriyet.com.tr/turkiye/asgari-ucretin-45-bin-800-liraya-cikarilmasi-icin-kanun-teklifi-verildi-2517500",
   "source": "Cumhuriyet",
