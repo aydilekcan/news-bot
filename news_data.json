@@ -1,5 +1,77 @@
 [
  {
+  "title": "Rusya'dan Kiev'e gece saldırısı: En az 13 sivil öldü",
+  "link": "https://www.dw.com/tr/rusya-dan-kiev-e-gece-saldırısı-en-az-13-sivil-öldü/a-77796165?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Rusya, Kiev'e geniş çaplı gece saldırısı düzenledi; en az 13 sivil öldü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-02T08:01:10.187032+00:00",
+  "type": "news",
+  "cluster_id": "cb04ca49f70ae"
+ },
+ {
+  "title": "En düşük emekli maaşı ne kadar olacak? TÜİK'in açıklamasına son 24 saat",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/en-dusuk-emekli-maasi-ne-kadar-olacak-tuik-in-aciklamasina-son-24-saat-2517306",
+  "source": "Cumhuriyet",
+  "summary_tr": "TÜİK haziran enflasyon verilerinin ardından emekli, memur ve sosyal yardım alan milyonlarca kişinin temmuz zam oranları belirlenecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-02T08:01:10.187032+00:00",
+  "type": "news",
+  "cluster_id": "c2331a1aa2293"
+ },
+ {
+  "title": "Russian attack kills at least 13, injures scores and causes damage across Ukraine capital",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaHNTaXZqSXdZU3VxemduZGktc2NXazJYODljRUdSQTJlMEFBQ0xwY1JLdlNwWUo2MG5ETnVNWGFUanRZRXJUQVROTjZuZVVPeU9jVXpBSHBTZ1lWYnVzWVoxS3Ywa2dORElkdEt3TFBaNzhyX0Z5dVZnTktQVXZMM0EtUFh1MjRFd1M3cEpkRXkxTVdXNmtGUmJyV0VmQks5MEw4V0hkdw?oc=5",
+  "source": "AP",
+  "summary_tr": "Rusya saldırısında Kiev'de en az 13 kişi öldü, çok sayıda yaralı ve hasar meydana geldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-02T08:01:10.187032+00:00",
+  "type": "news",
+  "cluster_id": "c7900f227967c"
+ },
+ {
+  "title": "Akaryakıt fiyatlarına zam! Benzin, motorin ve LPG'ye ne kadar zam geldi? Güncel yakıt fiyatları ne kadar?",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/akaryakit-fiyatlarina-zam-benzin-motorin-ve-lpg-ye-ne-kadar-zam-geldi-guncel-yakit-fiyatlari-ne-kadar-2517305",
+  "source": "Cumhuriyet",
+  "summary_tr": "Benzin, motorin ve LPG fiyatlarına zam yapıldı; ÖTV artışları ve küresel piyasa dalgalanmaları etkili.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-02T08:01:10.187032+00:00",
+  "type": "news",
+  "cluster_id": "cd8b70e0a5802"
+ },
+ {
+  "title": "Bir evde 4 asgari ücret bile yoksulluğu geçemiyor",
+  "link": "https://www.sozcu.com.tr/bir-evde-4-asgari-ucret-bile-yoksullugu-gecemiyor-p333074",
+  "source": "Sözcü",
+  "summary_tr": "KAMU-AR araştırmasına göre bir evde 4 asgari ücret bile yoksulluk sınırını aşamıyor; haziran 2026 açlık ve yoksulluk sınırı açıklandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-02T08:01:10.187032+00:00",
+  "type": "news",
+  "cluster_id": "c985d6a87d4f4"
+ },
+ {
+  "title": "Fitch'ten Vestel'e kötü haber: Kredi notu iki kademe birden düşürüldü",
+  "link": "https://www.sozcu.com.tr/fitch-ten-vestel-e-kotu-haber-kredi-notu-iki-kademe-birden-dusuruldu-p333066",
+  "source": "Sözcü",
+  "summary_tr": "Uluslararası kredi derecelendirme kuruluşu Fitch, Vestel Elektronik'in kredi notunu iki kademe düşürdü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-02T08:01:10.187032+00:00",
+  "type": "news",
+  "cluster_id": "c47db5d423620"
+ },
+ {
   "title": "En düşük emekli maaşı ne kadar olacak? Emekliye zam oranı ne kadar?",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/en-dusuk-emekli-maasi-ne-kadar-olacak-emekliye-zam-orani-ne-kadar-2517275",
   "source": "Cumhuriyet",
