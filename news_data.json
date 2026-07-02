@@ -1,5 +1,53 @@
 [
  {
+  "title": "NYT: ABD, müzakereler sırasında İsrail'in İran temsilcilerine suikast planladığına kanaat getirdi",
+  "link": "https://www.aa.com.tr/tr/dunya/nyt-abd-muzakereler-sirasinda-israilin-iran-temsilcilerine-suikast-planladigina-kanaat-getirdi/3984801",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD, müzakereler sırasında İsrail'in İran Dışişleri Bakanı Abbas Erakçi'ye suikast planladığına kanaat getirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-02T22:01:05.683209+00:00",
+  "type": "news",
+  "cluster_id": "c07da6c68eae0"
+ },
+ {
+  "title": "NYT: ABD, mÃ¼zakereler sÄ±rasÄ±nda Ä°srail'in Ä°ran temsilcilerine suikast planladÄ±ÄŸÄ±na kanaat getirdi",
+  "link": "https://www.trthaber.com/haber/dunya/nyt-abd-muzakereler-sirasinda-israilin-iran-temsilcilerine-suikast-planladigina-kanaat-getirdi-950092.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD, müzakereler sırasında İsrail'in İran Dışişleri Bakanı Abbas Erakçi'ye suikast planladığına kanaat getirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-02T22:01:05.683209+00:00",
+  "type": "news",
+  "cluster_id": "c07da6c68eae0"
+ },
+ {
+  "title": "Memur ve emeklinin gözü enflasyon verisinde",
+  "link": "https://www.trthaber.com/haber/ekonomi/memur-ve-emeklinin-gozu-enflasyon-verisinde-950089.html",
+  "source": "TRT Haber",
+  "summary_tr": "Milyonlarca memur, emekli ve sosyal yardım alıcısını ilgilendiren temmuz ayı maaş artış oranları bugün açıklanacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-02T22:01:05.683209+00:00",
+  "type": "news",
+  "cluster_id": "c4b4afcb431c7"
+ },
+ {
+  "title": "Çiftçi artık istediğini değil, umut ettiği ürünü ekiyor",
+  "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/ciftci-artik-istedigini-degil-umut-ettigi-urunu-ekiyor-2517573",
+  "source": "Cumhuriyet",
+  "summary_tr": "Çiftçiler kuraklık ve hızla yükselen girdi maliyetleri nedeniyle umut ettikleri ürünleri değil, sadece hayatta kalabilecekleri ürünleri ekiyorlar.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-02T22:01:05.683209+00:00",
+  "type": "news",
+  "cluster_id": "cad5433306402"
+ },
+ {
   "title": "Cevdet Yılmaz, İran'da Hamaney’in cenaze törenine katılacak",
   "link": "https://www.cumhuriyet.com.tr/siyaset/cevdet-yilmaz-iran-da-hamaney-in-cenaze-torenine-katilacak-2517530",
   "source": "Cumhuriyet",
