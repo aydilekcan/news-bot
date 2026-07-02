@@ -1,5 +1,65 @@
 [
  {
+  "title": "Rusya'dan Kiev'e büyük hava saldırısı: Polonya savaş uçaklarını havalandırdı",
+  "link": "https://www.trthaber.com/haber/dunya/rusyadan-kieve-buyuk-hava-saldirisi-polonya-savas-ucaklarini-havalandirdi-949974.html",
+  "source": "TRT Haber",
+  "summary_tr": "Rusya, Ukrayna'nın başkenti Kiev'e geniş çaplı hava saldırısı düzenlerken Polonya ihtiyati tedbir olarak savaş uçaklarını havalandırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-02T05:01:04.086852+00:00",
+  "type": "news",
+  "cluster_id": "cb03f5e07945c"
+ },
+ {
+  "title": "Russian air strikes kill eight, injure dozens in Ukraine's Kyiv",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUXpINkNPNmhoNlBLZ1FyUHM5alRZVWp0dUlGS3F2ajlhNGJmUFlrU1lYNHBWQzlZenZUYWRaSFByeFVxTG5vVlMtQm5Gd3E1U3FKVlM0TTdZXzFJMEZ3RFZGQV8xdDB5dVUya2dXNWRhTF9Xa1hmdXQ1bXF0WjFELU0xaWdvVFhSbEhMRElBdUtnNk5sRFEtR0NsUmxZNXZLV1NlVEtrNHBTaEFhWmlHQ2luUQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya'nın Kyiv'e yönelik hava saldırılarında sekiz kişi hayatını kaybetti ve onlarca kişi yaralandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-02T05:01:04.086852+00:00",
+  "type": "news",
+  "cluster_id": "c1e1a7c4c52dc"
+ },
+ {
+  "title": "EXCLUSIVE: Japan shifts to ambush intervention tactics against yen short sellers, sources say",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa1Q0c01xOGdLNWgwRUR2cE15dWRUR2YxZk41d2I2LVpaMDdDcVpTOTNNa2p0MEhLZmZjdTIwRjdVQ25WLUc0TVlXUFZRM2xEdXl2N3ZlWWlTck1IOUxHNTZBT2d1N0FxR05HUkV3SUdkcFJRUEkzWk9GRmZlWTBxak1jRDdLWDZTT2h1UUZvcnBISlBvT1BNLXNzV21LN2ljQWR4cHpDNFUyUjBTVDJiOWlyN1pNVVpnLUFJdENMNkJ6d0x0MDhHTENoX3dpZw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Japonya, yen karşıtı spekülatörlere karşı sürpriz müdahale taktiğine geçiş yaparak döviz kuru savunmasını değiştirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-02T05:01:04.086852+00:00",
+  "type": "news",
+  "cluster_id": "c73ea6724719f"
+ },
+ {
+  "title": "12 yıldır AYM’de bekleyen Madımak davasını AİHM’e taşıyan avukat Dr. Kurşun konuştu: 'Kararı iktidar engelliyor'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/12-yildir-aym-de-bekleyen-madimak-davasini-aihm-e-tasiyan-avukat-dr-kursun-konustu-karari-iktidar-engelliyor-2517244",
+  "source": "Cumhuriyet",
+  "summary_tr": "Madımak katliamı davasını AİHM'ye taşıyan avukat Dr. Kurşun, dosyanın 12 yıldır Anayasa Mahkemesi'nde bekletilmesini hukuki açıdan sorguladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-02T05:01:04.086852+00:00",
+  "type": "news",
+  "cluster_id": "c39ecc855acfc"
+ },
+ {
+  "title": "Oil falls for a third straight day after US, Iran talks conclude in Doha",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQjJuTlNEejJjWHZfckJtT3BHcWVLbXpJQUZzOVEzaDJCMThGUmJaU1pXRXdKYV9RUG9Nc09WaVRaVHhYUXh5LW43QzNzU3dzNDd5dGVQaFpmQzNhenJRcW1HMVVOQ3pnNVptVHpCSk9mUC1BWl9xTUJyQmttcHdRWF9jdkZiS3dZMkQ2ekY5aWpPX284MnFMOVVBaw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD ve İran'ın Doha'daki görüşmelerinin sonlanması sonrasında petrol fiyatları üçüncü ardışık gün düştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-02T05:01:04.086852+00:00",
+  "type": "news",
+  "cluster_id": "c82dfa3db6736"
+ },
+ {
   "title": "200 liracık geçiş ücreti 4 yılda 1170 lira oldu",
   "link": "https://www.sozcu.com.tr/200-liracik-gecis-ucreti-4-yilda-1170-lira-oldu-p332980",
   "source": "Sözcü",
