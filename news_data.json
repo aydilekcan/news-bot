@@ -1,5 +1,53 @@
 [
  {
+  "title": "Rusya'dan Kiev'e hava saldırısı... Ölü ve yaralılar var",
+  "link": "https://www.cumhuriyet.com.tr/dunya/rusya-dan-kiev-e-hava-saldirisi-olu-ve-yaralilar-var-2517252",
+  "source": "Cumhuriyet",
+  "summary_tr": "Rusya, Kiev'e gece yarısından beri hava saldırısı düzenliyor; ölü ve yaralılar var.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-02T06:01:01.753159+00:00",
+  "type": "news",
+  "cluster_id": "cd8c2abd9ddd4"
+ },
+ {
+  "title": "Kiev Belediye Başkanı Kliçko, kentin hava saldırısı altında olduğunu açıkladı",
+  "link": "https://www.aa.com.tr/tr/dunya/kiev-belediye-baskani-klicko-kentin-hava-saldirisi-altinda-oldugunu-acikladi-/3983835",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Kiev Belediye Başkanı Kliçko, Rus ordusunun gece yarısından beri kente yönelik hava saldırılarını sürdürdüğünü açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-02T06:01:01.753159+00:00",
+  "type": "news",
+  "cluster_id": "ca1ca0b50c8a2"
+ },
+ {
+  "title": "Russian missiles and drones kill 8 and cause damage across Ukraine capital",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaHNTaXZqSXdZU3VxemduZGktc2NXazJYODljRUdSQTJlMEFBQ0xwY1JLdlNwWUo2MG5ETnVNWGFUanRZRXJUQVROTjZuZVVPeU9jVXpBSHBTZ1lWYnVzWVoxS3Ywa2dORElkdEt3TFBaNzhyX0Z5dVZnTktQVXZMM0EtUFh1MjRFd1M3cEpkRXkxTVdXNmtGUmJyV0VmQks5MEw4V0hkdw?oc=5",
+  "source": "AP",
+  "summary_tr": "Rus füzeleri ve insansız hava araçları, Ukrayna'nın başkenti Kiev'de 8 kişi öldürerek hasar oluşturdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-02T06:01:01.753159+00:00",
+  "type": "news",
+  "cluster_id": "c06951bcfcff7"
+ },
+ {
+  "title": "Akaryakıtta tabela değişti! Benzine zam geldi",
+  "link": "https://www.sozcu.com.tr/akaryakitta-tabela-degisti-benzine-zam-geldi-p333015",
+  "source": "Sözcü",
+  "summary_tr": "Akaryakıt fiyatlarında zam geldi; petrol fiyatları ve döviz kurundaki hareketler benzin fiyatını etkiledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-02T06:01:01.753159+00:00",
+  "type": "news",
+  "cluster_id": "c888fdbea3d2e"
+ },
+ {
   "title": "Rusya'dan Kiev'e büyük hava saldırısı: Polonya savaş uçaklarını havalandırdı",
   "link": "https://www.trthaber.com/haber/dunya/rusyadan-kieve-buyuk-hava-saldirisi-polonya-savas-ucaklarini-havalandirdi-949974.html",
   "source": "TRT Haber",
