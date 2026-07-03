@@ -1,5 +1,41 @@
 [
  {
+  "title": "Vatandaş kuru soğana muhtaç",
+  "link": "https://www.sozcu.com.tr/vatandas-kuru-sogana-muhtac-p333292",
+  "source": "Sözcü",
+  "summary_tr": "İstanbul'da haziranda kuru soğan %46,5, patlıcan, limon ve patates de çift haneli oranda zamlandı; vatandaşın gıda harcamaları önemli ölçüde arttı.",
+  "metric": "Kuru soğan zamı +%46,5",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-03T03:01:04.453558+00:00",
+  "type": "news",
+  "cluster_id": "caeb3d6d96973"
+ },
+ {
+  "title": "DEVA lideri Babacan: Geniş ittifak için partilerle görüşüyoruz",
+  "link": "https://www.bbc.com/turkce/articles/c79yj77ep45o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "DEVA Partisi Genel Başkanı Ali Babacan, Gelecek ve Saadet partileriyle oluşturdukları Yeni Yol Grubu'nu daha geniş bir siyasi ittifaka dönüştürmek için görüşmeler yürütüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-03T03:01:04.453558+00:00",
+  "type": "news",
+  "cluster_id": "c42537cc161af"
+ },
+ {
+  "title": "İktidarın zenginleri servetini katladı",
+  "link": "https://www.sozcu.com.tr/iktidarin-zenginleri-servetini-katladi-p333293",
+  "source": "Sözcü",
+  "summary_tr": "UBS verilerine göre Türkiye'deki dolar milyoneri sayısı 2023'te 60 bin, 2025'te 93 bin kişiye ulaştı; zengin kesim son iki yılda servetini önemli ölçüde artırdı.",
+  "metric": "Dolar milyoneri sayısı 60.000 -> 93.000 (+%55)",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-03T03:01:04.453558+00:00",
+  "type": "news",
+  "cluster_id": "c641e071dc88f"
+ },
+ {
   "title": "Russia lands heavy strikes on Ukraine’s capital, killing at least 21",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaHNTaXZqSXdZU3VxemduZGktc2NXazJYODljRUdSQTJlMEFBQ0xwY1JLdlNwWUo2MG5ETnVNWGFUanRZRXJUQVROTjZuZVVPeU9jVXpBSHBTZ1lWYnVzWVoxS3Ywa2dORElkdEt3TFBaNzhyX0Z5dVZnTktQVXZMM0EtUFh1MjRFd1M3cEpkRXkxTVdXNmtGUmJyV0VmQks5MEw4V0hkdw?oc=5",
   "source": "AP",
