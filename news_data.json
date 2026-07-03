@@ -1,5 +1,41 @@
 [
  {
+  "title": "Russia lands heavy strikes on Ukraine’s capital, killing at least 21",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaHNTaXZqSXdZU3VxemduZGktc2NXazJYODljRUdSQTJlMEFBQ0xwY1JLdlNwWUo2MG5ETnVNWGFUanRZRXJUQVROTjZuZVVPeU9jVXpBSHBTZ1lWYnVzWVoxS3Ywa2dORElkdEt3TFBaNzhyX0Z5dVZnTktQVXZMM0EtUFh1MjRFd1M3cEpkRXkxTVdXNmtGUmJyV0VmQks5MEw4V0hkdw?oc=5",
+  "source": "AP",
+  "summary_tr": "Rusya, Kiev'e yoğun hava saldırıları düzenleyerek en az 21 kişinin ölümüne neden oldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-03T02:01:01.574637+00:00",
+  "type": "news",
+  "cluster_id": "ca8ac7c19cb54"
+ },
+ {
+  "title": "Beklenen öğrenci affı geldi, tartışmalı düzenlemeler de pakette: Yükseköğretimde kapsamlı değişiklik",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/beklenen-ogrenci-affi-geldi-tartismali-duzenlemeler-de-pakette-yuksekogretimde-kapsamli-degisiklik-2517507",
+  "source": "Cumhuriyet",
+  "summary_tr": "TBMM'ye sunulan 28 maddelik Yükseköğretim Kanunu teklifi kapsamında öğrenci affı ve yükseköğretimde kapsamlı düzenlemeler getirildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-03T02:01:01.574637+00:00",
+  "type": "news",
+  "cluster_id": "cee2370b20e85"
+ },
+ {
+  "title": "Rusyada bazÄ± rafinerilere dÃ¼ÅŸÃ¼k standartlÄ± yakÄ±t Ã¼retme izni verildi",
+  "link": "https://www.trthaber.com/haber/ekonomi/rusyada-bazi-rafinerilere-dusuk-standartli-yakit-uretme-izni-verildi-950098.html",
+  "source": "TRT Haber",
+  "summary_tr": "Rusya, akaryakıt sorunu nedeniyle bazı petrol rafinerilerine yıl sonuna kadar daha düşük standartlı yakıt üretme izni verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-03T02:01:01.574637+00:00",
+  "type": "news",
+  "cluster_id": "ced126cc04b30"
+ },
+ {
   "title": "Rusya'nın Kiev'e 'şimdiye kadarki en büyük saldırılarında' en az 27 kişi öldü",
   "link": "https://www.bbc.com/turkce/articles/cn0784njj71o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
