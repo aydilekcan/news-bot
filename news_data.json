@@ -1,5 +1,221 @@
 [
  {
+  "title": "2026 Haziran ayı enflasyonu açıklandı: TÜİK enflasyonu ne kadar açıkladı? Enflasyon beklentileri ne yöndeydi?",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/2026-haziran-ayi-enflasyonu-aciklandi-tuik-enflasyonu-ne-kadar-acikladi-enflasyon-beklentileri-ne-yondeydi-2517627",
+  "source": "Cumhuriyet",
+  "summary_tr": "Türkiye İstatistik Kurumu haziran ayı enflasyon verilerini açıkladı. TUFE aylık %0,99, yıllik %32,11 olarak gerçekleşti.",
+  "metric": "TUFE (yillik) %32,11",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-03T08:01:26.379558+00:00",
+  "type": "news",
+  "cluster_id": "ce06363d796fc"
+ },
+ {
+  "title": "TÜİK verisi sonrası tüm kalemler güncellendi: İşte yeni bedelli askerlik ücreti, engelli maaşı ve kıdem tazminatı tavanı",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/tuik-verisi-sonrasi-tum-kalemler-guncellendi-iste-yeni-bedelli-askerlik-ucreti-engelli-maasi-ve-kidem-tazminati-tavani-2517628",
+  "source": "Cumhuriyet",
+  "summary_tr": "TÜİK haziran enflasyon verisi sonrası bedelli askerlik ücreti, engelli maaşı, kıdem tazminatı tavanı ve memur maaş katsayısında artış gerçekleşti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-03T08:01:26.379558+00:00",
+  "type": "news",
+  "cluster_id": "cb250efb2f5f2"
+ },
+ {
+  "title": "A'dan Z'ye tüm ödemeler değişti: İşte yeni kıdem tazminatı tavanı, bedelli askerlik, 65 yaş aylığı ve engelli maaşı",
+  "link": "https://www.sozcu.com.tr/a-dan-z-ye-tum-odemeler-degisti-iste-yeni-65-yas-ayligi-engelli-maasi-ve-kidem-tazminati-tavani-p333389",
+  "source": "Sözcü",
+  "summary_tr": "Memur maaş katsayısında artış oranı sonrası yeni kıdem tazminatı tavanı, bedelli askerlik ücreti, 65 yaş aylığı ve engelli maaşı güncellendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-03T08:01:26.379558+00:00",
+  "type": "news",
+  "cluster_id": "cb250efb2f5f2"
+ },
+ {
+  "title": "Erdoğan ve milletvekillerine dev zam",
+  "link": "https://www.sozcu.com.tr/erdogan-ve-milletvekillerine-dev-zam-p333397",
+  "source": "Sözcü",
+  "summary_tr": "TÜİK haziran enflasyonunu %0,99 olarak açıkladı. Memur ve memur emeklilerine %13 zam verilecektir.",
+  "metric": "Memur-emekli zam oranı %13",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-03T08:01:26.379558+00:00",
+  "type": "news",
+  "cluster_id": "c76642699c478"
+ },
+ {
+  "title": "Enflasyon rakamları açıklandı",
+  "link": "https://www.trthaber.com/haber/ekonomi/enflasyon-rakamlari-aciklandi-950123.html",
+  "source": "TRT Haber",
+  "summary_tr": "Tüketici Fiyat Endeksi haziranda aylık %0,99, yıllik %32,11 olarak gerçekleşti.",
+  "metric": "TUFE aylık %0,99, yillik %32,11",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-03T08:01:26.379558+00:00",
+  "type": "news",
+  "cluster_id": "c700ac6fb90c5"
+ },
+ {
+  "title": "Trump: ABD'nin NATO'ya tek taraflı desteği sürdürmesi saçma",
+  "link": "https://www.dw.com/tr/trump-abd-nin-nato-ya-tek-taraflı-desteği-sürdürmesi-saçma/a-77813566?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "ABD Başkanı Trump, NATO Ankara Zirvesi öncesi ittifaka yönelik eleştirilerini sürdürerek ABD'nin tek taraflı desteğinin sürdürülmesinin saçma olduğunu söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-03T08:01:26.379558+00:00",
+  "type": "news",
+  "cluster_id": "c1559cd3276d6"
+ },
+ {
+  "title": "ÖTV düzenlemesi Resmi Gazete'de yayımlandı: Eşel mobil sistemi kademeli olarak kaldırılacak",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/otv-duzenlemesi-resmi-gazete-de-yayimlandi-esel-mobil-sistemi-kademeli-olarak-kaldirilacak-2517630",
+  "source": "Cumhuriyet",
+  "summary_tr": "Akaryakıt ürünlerinde uygulanan eşel mobil sistemi kademeli olarak kaldırılacak. Sistem, ÖTV tutarlarının fiyat artışlarına göre otomatik olarak ayarlanmasını sağlıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-03T08:01:26.379558+00:00",
+  "type": "news",
+  "cluster_id": "c176cf927ddac"
+ },
+ {
+  "title": "Kıdem tazminatı oranı ne oldu? Kıdem tazminatında tavan fiyat ne kadar?",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/kidem-tazminati-orani-ne-oldu-kidem-tazminatinda-tavan-fiyat-ne-kadar-2517625",
+  "source": "Cumhuriyet",
+  "summary_tr": "TÜİK haziran enflasyon verisi açıklanması sonrası kıdem tazminatı oranında ve tavanında artış gerçekleşti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-03T08:01:26.379558+00:00",
+  "type": "news",
+  "cluster_id": "c0392f82ebb6e"
+ },
+ {
+  "title": "Trump NATO’yu hedef aldı: Bizim yanımızda değildiler",
+  "link": "https://www.cumhuriyet.com.tr/dunya/trump-nato-yu-hedef-aldi-bizim-yanimizda-degildiler-2517623",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD Başkanı Donald Trump, ülkesinin NATO'ya yaptığı harcamaları eleştirerek ABD'nin tek taraflı desteğinin devamının doğru olmadığını söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-03T08:01:26.379558+00:00",
+  "type": "news",
+  "cluster_id": "c8074eca55d0d"
+ },
+ {
+  "title": "Ticaret Bakanı Bolat açıkladı: Türkiye'nin dış ticaret açığı belli oldu",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/ticaret-bakani-bolat-acikladi-turkiye-nin-dis-ticaret-acigi-belli-oldu-2517622",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ticaret Bakanı Ömer Bolat, haziran ayında Türkiye'nin dış ticaret dengesinde hareketlilik yaşandığını ve veriler açıklandığını belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-03T08:01:26.379558+00:00",
+  "type": "news",
+  "cluster_id": "c25b7a639df2a"
+ },
+ {
+  "title": "Zamlı memur maaşları belli oldu",
+  "link": "https://www.aa.com.tr/tr/ekonomi/zamli-memur-maaslari-belli-oldu/3985004",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Memur ve memur emeklilerinin 2026 yılının ikinci 6 ayında alacağı zamlı maaşlar ile SSK ve Bağ-Kur emeklilerinin aylıklarındaki artış oranları açıklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-03T08:01:26.379558+00:00",
+  "type": "news",
+  "cluster_id": "c628c19cbc19f"
+ },
+ {
+  "title": "Kiev Belediye Başkanı Kliçko, kente yapılan saldırıda hayatını kaybedenlerin sayısının 30'a çıktığını açıkladı",
+  "link": "https://www.aa.com.tr/tr/dunya/kiev-belediye-baskani-klicko-kente-yapilan-saldirida-hayatini-kaybedenlerin-sayisinin-30a-ciktigini-acikladi/3984963",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Kiev Belediye Başkanı Kliçko, Rusya'nın Kiev'e yönelik saldırısında ölü sayısının 30'a çıktığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-03T08:01:26.379558+00:00",
+  "type": "news",
+  "cluster_id": "c5ceb104939b2"
+ },
+ {
+  "title": "Eşel mobil sistemi üç ay içinde kademeli olarak sonlandırılacak",
+  "link": "https://www.trthaber.com/haber/ekonomi/esel-mobil-sistemi-uc-ay-icinde-kademeli-olarak-sonlandirilacak-950128.html",
+  "source": "TRT Haber",
+  "summary_tr": "Akaryakıt ürünlerinde fiyat dalgalanmalarını azaltmak için kullanılan eşel mobil sistemi üç ay içinde kademeli olarak sonlandırılacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-03T08:01:26.379558+00:00",
+  "type": "news",
+  "cluster_id": "c2d117214a815"
+ },
+ {
+  "title": "NATO’da AB ile savunma sanayi ortaklığı ararken otomotiv de tehlikede",
+  "link": "https://yetkinreport.com/2026/07/03/natoda-ab-ile-savunma-sanayi-ortakligi-ararken-otomotiv-de-tehlikede/",
+  "source": "YetkinReport",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, Türkiye'nin NATO Ankara Zirvesi'nden en stratejik beklentilerinden birinin Avrupa savunma sanayisinde ortaklık kurmak olduğunu belirtti.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-03T08:01:26.379558+00:00",
+  "type": "news",
+  "cluster_id": "c28e0c108d8c7"
+ },
+ {
+  "title": "2026 Temmuz ayı ev ve iş yerleri ne kadar oldu? Ev ve iş yerleri kira oranına ne kadar zam geldi?",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/2026-temmuz-ayi-ev-ve-is-yerleri-ne-kadar-oldu-ev-ve-is-yerleri-kira-oranina-ne-kadar-zam-geldi-2517624",
+  "source": "Cumhuriyet",
+  "summary_tr": "TÜİK haziran enflasyon verileri sonrası ev ve iş yerleri kiralarında artış yapılmıştır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-03T08:01:26.379558+00:00",
+  "type": "news",
+  "cluster_id": "cdd74e83482a8"
+ },
+ {
+  "title": "TUFE (aylik): %32,11 (Haziran 2026)",
+  "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pc0FOQkcxbVRINjNjYy1OcDZRWktINGVmUmhRZ3FUeHdXelpUNU1UbUtSc2Jjb3ZSUkpMbFI1THY5MlFSNl9UOW53emZmcWhzbnMzek5JZ2xpNW5q0gFiQVVfeXFMT2p1X09WYUwxZUJ0V21KTmhmajMtTXRZYkl1NUQ3aU1iUWxfYXhYbXhLc0w5NlRZTzkxZlhjU1lvVmczNGlSc011RlhOTzBrR1FnME1wcFd5YlNuOGplbHNvN2c?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%2,16 → %32,11 (+29,9 puan)",
+  "metric": "+29,9 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-03T08:01:26.379558+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
+  "title": "ENAG (aylik): %51,49 (Haziran 2026)",
+  "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pc0FOQkcxbVRINjNjYy1OcDZRWktINGVmUmhRZ3FUeHdXelpUNU1UbUtSc2Jjb3ZSUkpMbFI1THY5MlFSNl9UOW53emZmcWhzbnMzek5JZ2xpNW5q0gFiQVVfeXFMT2p1X09WYUwxZUJ0V21KTmhmajMtTXRZYkl1NUQ3aU1iUWxfYXhYbXhLc0w5NlRZTzkxZlhjU1lvVmczNGlSc011RlhOTzBrR1FnME1wcFd5YlNuOGplbHNvN2c?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%51,49",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-03T08:01:26.379558+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
+  "title": "Issizlik orani: %8,2 (Mayis 2026)",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10SHczMDdJelFMOFdsVXdhWGhZdDQyQm1CVXRVVE9kRmFkLTNWbUo3VmxUQktRdEFfbHEzMEluSkx2bFNUSVBPeWpuZnMtUnROb1dyYnJmS3EycWMxekNlSU5tVUVNSWVzS3JlRE9aTTRSbXFMQnp0UA?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%8.2 → %8,2",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-03T08:01:26.379558+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Tüm zamanların en yüksek haziran ayı ihracat değerine ulaşıldı",
   "link": "https://www.aa.com.tr/tr/ekonomi/tum-zamanlarin-en-yuksek-haziran-ayi-ihracat-degerine-ulasildi/3984913",
   "source": "Anadolu Ajansı",
@@ -53683,123 +53899,6 @@
   "summary_tr": "ABD Başkanı Trump, İran'la anlaşmanın son detaylarının tartışıldığını ve kısa sürede duyurulacağını söyledi.",
   "lean": "neutral",
   "score": 8,
-  "ts": "2026-05-23T22:58:10.211902+00:00"
- },
- {
-  "title": "ABD Başkanı Trump, İran konusunda liderlerle görüştü: 'Anlaşma büyük ölçüde müzakere edildi'",
-  "link": "https://www.cumhuriyet.com.tr/dunya/abd-baskani-trump-iran-konusunda-liderlerle-gorustu-anlasma-buyuk-olcude-muzakere-edildi-2506509",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Başkanı Trump, İran konusunda Erdoğan da dahil olmak üzere liderlerle görüştüğünü ve anlaşmanın büyük ölçüde müzakere edildiğini söyledi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-23T22:58:10.211902+00:00"
- },
- {
-  "title": "Trump, nihai hale getirilmek üzere İran'la \"büyük oranda\" bir anlaşmaya varıldığını açıkladı",
-  "link": "https://www.aa.com.tr/tr/dunya/trump-nihai-hale-getirilmek-uzere-iranla-buyuk-oranda-bir-anlasmaya-varildigini-acikladi/3947032",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Başkanı Trump, İran'la 'büyük oranda' bir anlaşmanın müzakere edilmekte olduğunu açıkladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-23T22:58:10.211902+00:00"
- },
- {
-  "title": "Trump: İran ile anlaşma son hale gelmek üzere",
-  "link": "https://www.trthaber.com/haber/dunya/trump-iran-ile-anlasma-son-hale-gelmek-uzere-946109.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD Başkanı Trump, İran ile anlaşmanın son hale getirilmekte olduğunu ve son unsurlarının müzakere edildiğini söyledi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-23T22:58:10.211902+00:00"
- },
- {
-  "title": "Trump says Iran peace deal is 'largely negotiated'",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONVVFalhkZm9MVTdKRUlmTFpRdzFWUVFVd0FMNG4yTWVBbnpLSEpjcTZfVDRRODlKbXVvazVnY3RfOXZTbER4WVVTOWgySVdCVXY3aFQ2RnM3UVN4UVNxeG9OcFhLcDdCOUV6UVBxNGc5d3UtcjRwRFBhRnNiRk1ILXBrVFVTaDYtVzNXdzZPaXVMQTFCbHRMNVREVFBtdHpNTldwMw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, İran barış anlaşmasının 'büyük ölçüde müzakere edildiğini' açıkladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-23T22:58:10.211902+00:00"
- },
- {
-  "title": "Russia preparing strike on Ukraine using hypersonic 'Oreshnik' missile, Zelenskiy says",
-  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYXlkdVBNNk50dlU3elVGaE1XYm1RX21FZHlwRFI4eTFFR1RBTVB1R0w5OU0tdHNqTGVhMlQtcTR6VEg5bjEwOE1ycHFlRkh2R0FEYjZZcEFPbXJHNkNMblVYNDZMREQycmZwUlN5Tlp3RWtoaklWOS1tNVdwR0Q5c1FaMlFWYlN1OTEwRjdUWi1RNGtFelBVSVpfWnYzMHRLQUw2NW9nbDl0X0s3Vzk0cVJOajI4Sld3R3VIRVVkVWVPTUlMSWFJRmU4LU55b25ZSF94LU1QSlZxa28?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Zelenskiy, Rusya'nın hipersonik 'Oreshnik' füzesiyle saldırı hazırladığını söyledi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-23T22:58:10.211902+00:00"
- },
- {
-  "title": "Trump says negotiators are getting closer to Iran deal, media interviews show",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNemZRTFNxTFlDOHRNeDVEQnVKeVlIUElVNWtRZFBxOElQZUJucWJ6Z0wyTlNMbm0xZEJHQmt4bi1mNko5MlY4Tld1NzFBX3FBZjdKa2RRRUFwa0ZLRmVLRG1zazVYRzUybkNQZkxWb2NFRlRoeDV1MXRtMVVPbVBwSzNSeFpXTmtWbmQ4R1pDd0hKczVaR0MyT3dGX2VSTVJuLXZBNmtXN2tMNmRwMmRjU0lLLWhaS0JQM3pCR2xPa0syeERjQlhF?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, müzakerecilerin İran anlaşmasına doğru yaklaştığını söyledi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-23T22:58:10.211902+00:00"
- },
- {
-  "title": "Trump says framework of Iran deal 'largely negotiated,' with provision to reopen strait",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXExaUpDRVJ1QU4yZGJTQ2ZQWkdkb1pYWHNrZFE4ZWZQalNIY0R6MzFNSGJzb01qNlpwbjd4NlVRSExPdGUtaGRnV1VMZC16OHVvay1Kczg3T3AxbHRPLU9jVlpNLUhrM21FNmJlZGJYTjVNSlVnOFJfZEdkNDFFMVhnS3F2a1gzWTZadzc4bTVJSUctMFBhcUV1MnZINDlYRm5sY0lxOWZlYkxOLUJpR01KNkltN2M4?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, İran anlaşmasının çerçevesinin 'büyük ölçüde müzakere edildiğini' ve Hormuç Boğazı açılması hükmünü içerdiğini söyledi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-23T22:58:10.211902+00:00"
- },
- {
-  "title": "Mutlak butlan kararında 'yetki' tartışması için hukukçular ne diyor?",
-  "link": "https://www.bbc.com/turkce/articles/cg4p0yw405do?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "İstinaf mahkemesi CHP kurultayını iptal ederek Kılıçdaroğlu'nu genel başkana getirdi; yetkinin YSK mi yoksa mahkemede mi olduğu tartışılıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-23T22:58:10.211902+00:00"
- },
- {
-  "title": "Özgür Özel'den Kılıçdaroğlu ile görüşme için 'kurultay kararı' şartı",
-  "link": "https://www.bbc.com/turkce/articles/cgkp2lr7gg3o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Mahkeme kararıyla görevden alınan CHP Genel Başkanı Özgür Özel, Kılıçdaroğlu ile görüşme için kurultay kararını şart koştu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-23T22:58:10.211902+00:00"
- },
- {
-  "title": "Kemal Kılıçdaroğlu: 'Partinin ahlaki değerlerini düzeltmemiz lazım'",
-  "link": "https://www.bbc.com/turkce/articles/cn0pe0yj1yyo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Mahkeme kararıyla CHP genel başkanlığına getirilen Kılıçdaroğlu, partinin ahlaki değerlerini düzeltmesi gerektiğini söyledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-23T22:58:10.211902+00:00"
- },
- {
-  "title": "Mutlak butlan soruşturması: 13 CHP'li gözaltında",
-  "link": "https://www.dw.com/tr/mutlak-butlan-soruşturması-13-chp-li-gözaltında/a-77272732?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "CHP'nin iptal edilen kurultayıyla ilgili 'rüşvet' ve 'kara para' iddialarıyla soruşturma kapsamında 7 ilde 13 kişi gözaltına alındı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-23T22:58:10.211902+00:00"
- },
- {
-  "title": "CHP’de İlk Kılıçdaroğlu-Özel Çatışması 2 Haziran’da",
-  "link": "https://yetkinreport.com/2026/05/23/chpde-ilk-kilicdaroglu-ozel-catismasi-2-haziranda/",
-  "source": "YetkinReport",
-  "summary_tr": "İstinaf mahkemesinin mutlak butlan kararıyla CHP Genel Başkanlığına atanan Kılıçdaroğlu ile Özel arasında 2 Haziran'da çatışma bekleniyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-23T22:58:10.211902+00:00"
- },
- {
-  "title": "CHP’ye “Mutlak Butlan” Darbesi: Mahkeme “Kılıçdaroğlu Dönsün” dedi.",
-  "link": "https://yetkinreport.com/2026/05/21/chpye-mutlak-butlan-darbesi-mahkeme-kilicdaroglu-donsun-dedi/",
-  "source": "YetkinReport",
-  "summary_tr": "İstinaf Mahkemesi CHP'nin 2023 kurultayını iptal ederek Kılıçdaroğlu'nun geri dönmesine karar verdi.",
-  "lean": "neutral",
-  "score": 7,
   "ts": "2026-05-23T22:58:10.211902+00:00"
  }
 ]
