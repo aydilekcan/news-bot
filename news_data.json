@@ -1,5 +1,29 @@
 [
  {
+  "title": "Emeklilerden 'zam' tepkisi: Sadaka düzeyindeki zamları kabul etmiyoruz",
+  "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/emeklilerden-zam-tepkisi-sadaka-duzeyindeki-zamlari-kabul-etmiyoruz-2517740",
+  "source": "Cumhuriyet",
+  "summary_tr": "Emekliler Temmuz ayı maaş zamlarına tepki gösteriyor; sendika 'sadaka düzeyinde' olduğunu bildiriyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-03T14:01:07.739267+00:00",
+  "type": "news",
+  "cluster_id": "c520304d8dfcf"
+ },
+ {
+  "title": "Savunma ve havacılık sanayi ihracatta 11 milyar dolar eşiğini aştı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/savunma-ve-havacilik-sanayi-ihracatta-11-milyar-dolar-esigini-asti-/3985439",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Savunma ve havacılık sanayi ihracatı 11 milyar dolar eşiğini aştı.",
+  "metric": "Savunma ve havacılık ihracatı 11 milyar dolar eşiğini aştı",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-03T14:01:07.739267+00:00",
+  "type": "news",
+  "cluster_id": "c94b01a49c2b2"
+ },
+ {
   "title": "Enflasyon belli oldu: Memur ve emekliler ne zam alacak?",
   "link": "https://www.dw.com/tr/enflasyon-belli-oldu-memur-ve-emekliler-ne-zam-alacak/a-77821755?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -53974,25 +53998,5 @@
   "score": 8,
   "ts": "2026-05-24T08:00:52.738171+00:00",
   "cluster_id": "c62ce1edee27c"
- },
- {
-  "title": "Kılıçdaroğlu'nun avukatından Ankara Emniyet Müdürlüğüne başvuru",
-  "link": "https://www.trthaber.com/haber/gundem/kilicdaroglunun-avukatindan-ankara-emniyet-mudurlugune-basvuru-946125.html",
-  "source": "TRT Haber",
-  "summary_tr": "Kılıçdaroğlu'nun avukatı, CHP genel merkezinin tahliyesi için Ankara Emniyet Müdürlüğü'ne başvurdu.",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-05-24T08:00:52.738171+00:00",
-  "cluster_id": "c9b89d199d264"
- },
- {
-  "title": "CHP Genel Merkezi önünde tansiyon yüksek: Tahliye tebligatı yapılması bekleniyor; kapılar kilitlendi, bir grup bina önünde içeri girmek istiyor!",
-  "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPUG9PTmN6eFhRSEZfNWRUWEZzODBFNjVmRGhZNm50YklzdG9SY1NETU9RSEdrSlg4N1BLNGI3eHU0dl9ucUtHdndwSFZvcTRhSkdVTURWcU1kUkdGSWlDTXdLRUVNa3F3bmUwcGI1STJDYUU5TXdKWUh2NVEwOFRLTUU1OERfdjc1SF8zZHNacDVjWnZtR016ZlVfcXpZR3YyeU5CRjgtZDFzb25NVy10TVBrZUxKTU1MTGUwTnhJU0IxSFlhb01MNGgyYkZLWTBhZU5falZiSWtnVHNLVEZHVS05bm9hUlJXbVREN2h1UTdmY2pNcTJnSzhGZE5EbkI5Yy1NQg?oc=5",
-  "source": "T24",
-  "summary_tr": "CHP Genel Merkezi önünde tansiyon yükseldi; kapılar kilitlendi, tahliye tebligatı bekleniyor.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-24T08:00:52.738171+00:00",
-  "cluster_id": "c1b5cad061486"
  }
 ]
