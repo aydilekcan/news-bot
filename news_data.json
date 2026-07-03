@@ -1,5 +1,53 @@
 [
  {
+  "title": "Rusya'nın Kiev'e 'şimdiye kadarki en büyük saldırılarında' en az 27 kişi öldü",
+  "link": "https://www.bbc.com/turkce/articles/cn0784njj71o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Rusya, Ukrayna'nın başkenti Kiev'e çarşamba gece insansız hava araçları ve füzelerle büyük çaplı saldırı düzenledi; en az 27 kişi öldü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-03T01:01:08.763116+00:00",
+  "type": "news",
+  "cluster_id": "c670bbc54187a"
+ },
+ {
+  "title": "Memur ve emekliler için zam oranı netleşiyor",
+  "link": "https://www.bbc.com/turkce/articles/c1eyq6549n8o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Memur, sözleşmeli ve emekli maaşlarına yapılacak zam oranı haziran enflasyon verisiyle netleşecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-03T01:01:08.763116+00:00",
+  "type": "news",
+  "cluster_id": "cdf98a1b15486"
+ },
+ {
+  "title": "İhracat değişimi: %−9,5",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMlYtSkd2b2JDT2dmQlJ3M3VSR3hkdkRVOVdrSkYxMjk4dWVjODRVRlpzSURHYzd2aURaTzB3dENjVm5kRDdocFF2WEFHVDR2YW5BVXRPNG5HZXl1VEJDaW90amRuVnJxcmExRl9jM1NxY0N1OGtOSlhONVZXMWJhUFp2LXRNZXhQZ1ZNWG8xYWU1bHFELUQ5bHhNbDhqcF9TLTJLMFNDVmxET0pF0gGnAUFVX3lxTE52cGhEb3FmcWZNdjZBT1gySmxDbE9uR0gyODZoc3ZLUk5RNzBtRWtPQXlhRm1oa2tSSzdjazNLcmwyWWNPNVhRc0pNbW9mb2YxSTlXcGcyWUs1MGR6eG1KR21OOFZkTzAyNEFSWnZlRXV6RW91SldzckFBM3hUMFZhTEQ4ZTNfU0hqVWhvQ3dkbkhHb2Z0RGRUeDJ1bndUeXBibVNBUi1z?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%−9,5",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-03T01:01:08.763116+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
+  "title": "İthalat değişimi: %−10,8",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa1Z2WVhINTFmdzJfOWNrWThhU3JGWnA1M1dCTTRmQVl4THNxWXBkTWhfMC16UDRsNjVHR2xzbmNXX054MmZPQU5rUWtQUV83RjRVaWRpMGRCWlJUNE9VQkJOQ290ZGthUjVhMHhhYnNEbU5maEN0aHdxTmhoNE04el85d0hVZHFo?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%−10,8",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-03T01:01:08.763116+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Trump: (İran) Sanırım ihtiyaç duyduğumuz şeylerin neredeyse hepsini kabul ettiler",
   "link": "https://www.aa.com.tr/tr/dunya/trump-iran-sanirim-ihtiyac-duydugumuz-seylerin-neredeyse-hepsini-kabul-ettiler/3984825",
   "source": "Anadolu Ajansı",
