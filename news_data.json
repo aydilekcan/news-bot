@@ -1,5 +1,101 @@
 [
  {
+  "title": "Enflasyon belli oldu: Memur ve emekliler ne zam alacak?",
+  "link": "https://www.dw.com/tr/enflasyon-belli-oldu-memur-ve-emekliler-ne-zam-alacak/a-77821755?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Haziran enflasyonu verilerine göre memur ve emeklilerin Temmuz zam oranları kesinleşti; yüksek hayat pahalılığı karşısında alım gücü etkisi analiz ediliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-03T13:01:11.162535+00:00",
+  "type": "news",
+  "cluster_id": "c2767cf321ab8"
+ },
+ {
+  "title": "Yabancı kurumlardan TCMB için temkinli faiz mesajı",
+  "link": "https://www.sozcu.com.tr/yabanci-kurumlardan-tcmb-icin-temkinli-faiz-mesaji-p333494",
+  "source": "Sözcü",
+  "summary_tr": "Haziran enflasyon verilerinin ardından Citi ve Goldman Sachs, Türkiye Cumhuriyet Merkez Bankası'nın para politikası adımlarına ilişkin temkinli mesajlar verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-03T13:01:11.162535+00:00",
+  "type": "news",
+  "cluster_id": "cf18e00cd2834"
+ },
+ {
+  "title": "Cumhurbaşkanı Erdoğan: Kadın ve genç çiftçi kredisi limitini 3 milyon liradan 5 milyon liraya çıkarıyoruz",
+  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-kadin-ve-genc-ciftci-kredisi-limitini-3-milyon-liradan-5-milyon-liraya-cikariyoruz/3985206",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, Ziraat Bankası aracılığıyla kadın ve genç çiftçi kredisi limitini 3 milyon liradan 5 milyon liraya yükselttiğini açıkladı.",
+  "metric": "Kadın ve genç çiftçi kredisi limiti 3 milyon TL -> 5 milyon TL (+%66,7)",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-03T13:01:11.162535+00:00",
+  "type": "news",
+  "cluster_id": "c5d724c579bd1"
+ },
+ {
+  "title": "Şişe başına para dönemi resmen başladı: 2 günde 4,5 milyon ambalaj toplandı",
+  "link": "https://www.sozcu.com.tr/sise-basina-para-donemi-resmen-basladi-2-gunde-4-5-milyon-ambalaj-toplandi-p333493",
+  "source": "Sözcü",
+  "summary_tr": "1 Temmuz'da başlayan Depozito Yönetim Sistemi (DOA) uygulamasında ilk 2 günde 4,5 milyon ambalaj toplandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-03T13:01:11.162535+00:00",
+  "type": "news",
+  "cluster_id": "cdab027c37c95"
+ },
+ {
+  "title": "Euro Bölgesi'nde bileşik PMI 3 ayın en yüksek seviyesinde",
+  "link": "https://www.sozcu.com.tr/euro-bolgesi-nde-bilesik-pmi-3-ayin-en-yuksek-seviyesinde-p333486",
+  "source": "Sözcü",
+  "summary_tr": "Euro Bölgesi'nde haziran ayı bileşik PMI 50 puanla son 3 ayın en yüksek seviyesine ulaştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-03T13:01:11.162535+00:00",
+  "type": "news",
+  "cluster_id": "c8a94419965f0"
+ },
+ {
+  "title": "Küçük market ve bakkallarda Haribo dönemi değişiyor: Rekabet Kurulu'ndan geçici tedbir kararı!",
+  "link": "https://www.sozcu.com.tr/kucuk-market-ve-bakkallarda-haribo-donemi-degisiyor-rekabet-kurulu-ndan-gecici-tedbir-karari-p333485",
+  "source": "Sözcü",
+  "summary_tr": "Rekabet Kurulu, yumuşak şeker pazarında adil rekabeti sağlamak amacıyla Haribo'ya karşı geçici tedbir kararı aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-03T13:01:11.162535+00:00",
+  "type": "news",
+  "cluster_id": "ce3dd4f05c63f"
+ },
+ {
+  "title": "AB Komisyonu Ekonomiden Sorumlu Üyesi Dombrovskis: Türkiye'nin reformları dayanıklılık açısından önemli",
+  "link": "https://www.aa.com.tr/tr/dunya/ab-komisyonu-ekonomiden-sorumlu-uyesi-dombrovskis-turkiyenin-reformlari-dayaniklilik-acisindan-onemli/3985233",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "AB Komisyonu Ekonomiden Sorumlu Üyesi Dombrovskis, Türk hükümetinin ekonomik reform gündemi ve dezenflasyon sürecinin önemli olduğunu vurguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-03T13:01:11.162535+00:00",
+  "type": "news",
+  "cluster_id": "c90ab5ee3c20d"
+ },
+ {
+  "title": "Savunma ve havacılık ihracatında tarihi eşik aşıldı",
+  "link": "https://www.trthaber.com/haber/ekonomi/savunma-ve-havacilik-ihracatinda-tarihi-esik-asildi-950168.html",
+  "source": "TRT Haber",
+  "summary_tr": "Savunma Sanayii Başkanı Haluk Görgün, Türk savunma ve havacılık sanayiinin ihracat performansında tarihi eşik aşıldığını bildirdi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-03T13:01:11.162535+00:00",
+  "type": "news",
+  "cluster_id": "ce218518d0c04"
+ },
+ {
   "title": "Hayat pahalılığı nedeniyle veresiye defterine rağbet arttı",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/hayat-pahaliligi-nedeniyle-veresiye-defterine-ragbet-artti-2517697",
   "source": "Cumhuriyet",
@@ -53898,85 +53994,5 @@
   "score": 8,
   "ts": "2026-05-24T08:00:52.738171+00:00",
   "cluster_id": "c1b5cad061486"
- },
- {
-  "title": "CHP'de 'tahliye' gerginliği: Kılıçdaroğlu'nun avukatı Genel Merkez'in teslimini istedi",
-  "link": "https://www.bbc.com/turkce/articles/ceqpw2wv7qeo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Mahkeme Kılıçdaroğlu'nu CHP genel başkanlığına iade etti; avukatı genel merkezin teslimini istedi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T08:00:52.738171+00:00",
-  "cluster_id": "c02b6e440fea4"
- },
- {
-  "title": "Özgür Özel'e göre genel merkeze gelenler CHP'li değil",
-  "link": "https://www.diken.com.tr/ozgur-ozele-gore-genel-merkeze-gelenler-chpli-degil/?utm_source=rss&utm_medium=rss&utm_campaign=ozgur-ozele-gore-genel-merkeze-gelenler-chpli-degil",
-  "source": "Diken",
-  "summary_tr": "Özgür Özel, CHP genel merkezine gelen kişileri partili olmadığını iddia etti.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T08:00:52.738171+00:00",
-  "cluster_id": "c1d920809a615"
- },
- {
-  "title": "CHP'li Suat Özçağdaş: 'Kim oldukları belli olmayan insanlar CHP Genel Merkezi’ni basmaya geldi'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-li-suat-ozcagdas-kim-olduklari-belli-olmayan-insanlar-chp-genel-merkezi-ni-basmaya-geldi-2506551",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'li Özçağdaş, genel merkez önündeki gerginlikte kimliği belli olmayan kişiler olduğunu iddia etti.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T08:00:52.738171+00:00",
-  "cluster_id": "cecb94a636ddb"
- },
- {
-  "title": "Sırbistan’da sokaklar karıştı: On binler erken seçim için meydanda",
-  "link": "https://www.cumhuriyet.com.tr/dunya/sirbistan-da-sokaklar-karisti-on-binler-erken-secim-icin-meydanda-2506547",
-  "source": "Cumhuriyet",
-  "summary_tr": "Sırbistan'da on binler Cumhurbaşkanı Vucic yönetimine karşı erken seçim talebiyle eylem yaptı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T08:00:52.738171+00:00",
-  "cluster_id": "c06a03caf6f67"
- },
- {
-  "title": "Son Dakika... Özgür Özel'den CHP Genel Merkezi önündeki 'tahliye gerginliği' hakkında ilk açıklama",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-ozgur-ozel-den-chp-genel-merkezi-onundeki-tahliye-gerginligi-hakkinda-ilk-aciklama-2506545",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Genel Başkanı Özel, genel merkez gerginliğine ilişkin açıklama yaptı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T08:00:52.738171+00:00",
-  "cluster_id": "cfb898d8e2a4e"
- },
- {
-  "title": "Özgür Özel: Ankara barlarında bodyguardlık yapan mafyatik tiplerle partiye girmeye çalıştılar",
-  "link": "https://www.sozcu.com.tr/ozgur-ozel-ankara-barlarinda-bodyguardlik-yapan-mafyatik-tiplerle-partiye-girmeye-calistilar-p322386",
-  "source": "Sözcü",
-  "summary_tr": "CHP lideri Özel, Kılıçdaroğlu destekçilerini 'mafyatik tipler' olarak nitelendirdi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T08:00:52.738171+00:00",
-  "cluster_id": "c16317098f983"
- },
- {
-  "title": "MİT Başkanı Kalın: Ülkemiz krizlerin yönetildiği masalarda söz sahibi olan bir aktör haline geldi",
-  "link": "https://www.aa.com.tr/tr/gundem/mit-baskani-kalin-ulkemiz-krizlerin-yonetildigi-masalarda-soz-sahibi-olan-bir-aktor-haline-geldi/3947195",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "MİT Başkanı Kalın, Türkiye'nin bölgesel krizlerin yönetimine söz sahibi bir aktör olduğunu belirtti.",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-05-24T08:00:52.738171+00:00",
-  "cluster_id": "c3c1c5043651e"
- },
- {
-  "title": "İsrail'in Lübnan'ın güneyine düzenlediği İHA saldırılarında 3 kişi hayatını kaybetti",
-  "link": "https://www.aa.com.tr/tr/dunya/israilin-lubnanin-guneyine-duzenledigi-iha-saldirilarinda-3-kisi-hayatini-kaybetti/3947194",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail ateşkese rağmen Lübnan'ın Nebatiye bölgesine saldırı düzenledi; 3 kişi öldü.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T08:00:52.738171+00:00",
-  "cluster_id": "c6ad115679cd9"
  }
 ]
