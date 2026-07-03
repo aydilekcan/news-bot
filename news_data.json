@@ -1,5 +1,53 @@
 [
  {
+  "title": "Kremlin: Rus ordusu, Donetskte Konstantinovka şehrini ele geçirdi",
+  "link": "https://www.trthaber.com/haber/dunya/kremlin-rus-ordusu-donetskte-konstantinovka-sehrini-ele-gecirdi-950193.html",
+  "source": "TRT Haber",
+  "summary_tr": "Kremlin sözcüsü, Rus ordusunun Donetsk bölgesinde stratejik öneme sahip Konstantinovka şehrini ele geçirdiğini duyurdu.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-07-03T22:01:06.680012+00:00",
+  "type": "news",
+  "cluster_id": "cfc8210026de3"
+ },
+ {
+  "title": "Largest US power grid PJM orders emergency curbs as electricity use nears record peak",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc1AxOV83VXpuZGNyLTd1Q2hFVHVXR29GQ3VRZy1BaDhUSkFkVVM2SEtJenlGTkhDRUdjOHY1cVNCOFF3dWZOVFgzSWtqR3NDSHlOekpzazEwOGNvakxfb3cxYWtJX1lyc0VKeGZRTVpfeENhMjMxZkhUTUhOMGNiSVc5Rk43OWt4MmlfM29wY2Nha0J6bmh6SWRNVHBVYzFfMjhVd1hPZFB2eGVHY2dGRkFaTjFYa3J2OWRvV2oteE5KN3czelE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD'nin en büyük elektrik şebekesi PJM, elektrik tüketimi rekor seviyeye yaklaşırken acil durum kısıtlamaları ilan etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-03T22:01:06.680012+00:00",
+  "type": "news",
+  "cluster_id": "c41127934ab31"
+ },
+ {
+  "title": "Ulaştırma Bakanlığı ve EPDK'da kritik atamalar",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/ulastirma-bakanligi-nda-kritik-atama-bakan-yardimcisi-degisti-2517842",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ulaştırma Bakanlığı Bakan Yardımcılığına Ahmet Hamdi Atalay, EPDK başkanlığına ise Hasan Köse atandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-03T22:01:06.680012+00:00",
+  "type": "news",
+  "cluster_id": "cf895a178e9e2"
+ },
+ {
+  "title": "Son dakika... Ulaştırma ve Altyapı Bakanlığı Bakan Yardımcılığına yeni isim atandı",
+  "link": "https://www.sozcu.com.tr/son-dakika-ulastirma-ve-altyapi-bakanligi-bakan-yardimciligina-yeni-isim-atandi-p333570",
+  "source": "Sözcü",
+  "summary_tr": "Ulaştırma Bakanlığı Bakan Yardımcılığına Ahmet Hamdi Atalay atandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-03T22:01:06.680012+00:00",
+  "type": "news",
+  "cluster_id": "c93eb848a9ec4"
+ },
+ {
   "title": "Deniz Göktaş, yüksek güvenlikli Çorlu F Tipi Cezaevi’ne götürüldü",
   "link": "https://www.cumhuriyet.com.tr/turkiye/deniz-goktas-yuksek-guvenlikli-corlu-f-tipi-cezaevi-ne-goturuldu-2517817",
   "source": "Cumhuriyet",
@@ -54008,45 +54056,5 @@
   "score": 6,
   "ts": "2026-05-24T11:00:49.968307+00:00",
   "cluster_id": "c6328ac10f7fb"
- },
- {
-  "title": "Iran has not agreed to hand over highly enriched uranium stockpile, senior Iranian source tells Reuters",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLTVwdlNITDVXTG5kaEY3VVFfRk9PLXlETVUwRnA5aGl3TFRZS19pR1l1MDdRc3lNMHdWV2M5S1JVdWZzTDJxOGM1aUNmTGVlMVBaTms2WWxtOVRpMDM0UGN6SFhtWTJLd1dEZWFFSEhEMUd4bURCTDJ6M0xDZEdVR1Y5cWRFdkMzX1JVUWx5NE5TVTFCNmF4NWhMZS14djRIUEFJRmtwcC1wUFctRDJSWk1GaG1nQ0kzQWRDMXp5OVhGQTJsM2J2WEpR?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran, yüksek oranda zenginleştirilmiş uranyum stoklarını teslim etmeyi kabul etmemiş.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-05-24T10:00:55.423630+00:00",
-  "cluster_id": "cc02cd21211a0"
- },
- {
-  "title": "Rubio: İran’la anlaşma için “gün içinde yeni haberler” gelebilir",
-  "link": "https://www.sozcu.com.tr/rubio-iran-la-anlasma-icin-gun-icinde-yeni-haberler-gelebilir-p322430",
-  "source": "Sözcü",
-  "summary_tr": "ABD Dışişleri Bakanı Rubio, İran ile yapılan anlaşma taslağında ciddi ilerleme sağlandığını ve gün içinde yeni haberlerin gelebileceğini açıkladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-24T10:00:55.423630+00:00",
-  "cluster_id": "c3a88e0f83d5a"
- },
- {
-  "title": "Slovenya’da sandıktan sağ koalisyon çıktı: Trump’ın müttefiki yeniden sahnede",
-  "link": "https://www.cumhuriyet.com.tr/dunya/slovenya-da-sandiktan-sag-koalisyon-cikti-trump-in-muttefiki-yeniden-sahnede-2506569",
-  "source": "Cumhuriyet",
-  "summary_tr": "Slovenya'da sağ popülist lider Janez Jansa, dördüncü kez başbakanlık görevine yükseldi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T10:00:55.423630+00:00",
-  "cluster_id": "c8be9ae9e9946"
- },
- {
-  "title": "Filistin topraklarını gasbeden İsrailliler, Batı Şeria'da camiyi kundaklamaya çalıştı",
-  "link": "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israilliler-bati-seriada-camiyi-kundaklamaya-calisti/3947280",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail güçleri, işgal altındaki Batı Şeria'da bir köye baskın düzenleyerek camiyi kundaklama girişiminde bulundu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T10:00:55.423630+00:00",
-  "cluster_id": "cb5f028abf1cf"
  }
 ]
