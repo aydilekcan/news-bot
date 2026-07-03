@@ -1,5 +1,149 @@
 [
  {
+  "title": "Memur ve emekliler için zam farkı ve kira artış oranı netleşti",
+  "link": "https://www.bbc.com/turkce/articles/c1eyq6549n8o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Memur, sözleşmeli ve memur emeklilerinin maaş zammı oranı haziran enflasyon verilerine göre netleşti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-03T09:01:12.570908+00:00",
+  "type": "news",
+  "cluster_id": "c18330f5f4dd6"
+ },
+ {
+  "title": "Temmuz zammı sonrası hangi memur kaç lira alacak? İşte meslek meslek tam liste...",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/temmuz-zammi-sonrasi-hangi-memur-kac-lira-alacak-iste-meslek-meslek-tam-liste-2517648",
+  "source": "Cumhuriyet",
+  "summary_tr": "Haziran enflasyon verilerine dayalı temmuz maaş zamlı memur maaş listesi açıklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-03T09:01:12.570908+00:00",
+  "type": "news",
+  "cluster_id": "cd42a8d7e58f9"
+ },
+ {
+  "title": "Memur maaşları kuruşu kuruşuna belli oldu: İşte meslek meslek Temmuz 2026 zamlı maaş listesi",
+  "link": "https://www.sozcu.com.tr/memur-maaslari-kurusu-kurusuna-belli-oldu-iste-meslek-meslek-temmuz-2026-zamli-maas-listesi-p333417",
+  "source": "Sözcü",
+  "summary_tr": "TÜİK haziran enflasyon verilerine göre milyonlarca memur ve emeklinin temmuz 2026 zamlı maaşları belirlendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-03T09:01:12.570908+00:00",
+  "type": "news",
+  "cluster_id": "c63fb30d234ce"
+ },
+ {
+  "title": "Bakan Şimşek: Dezenflasyon süreci yeniden başladı",
+  "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-dezenflasyon-sureci-yeniden-basladi-950135.html",
+  "source": "TRT Haber",
+  "summary_tr": "Hazine ve Maliye Bakanı Mehmet Şimşek, küresel enerji fiyatları nedeniyle kesintiye uğrayan dezenflasyon sürecinin yeniden başladığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-03T09:01:12.570908+00:00",
+  "type": "news",
+  "cluster_id": "cb3ddae5f1126"
+ },
+ {
+  "title": "Ukrainian rescuers clear rubble as Kyiv mourns 30 killed in Russian attack",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONU1hNlBDTURsc1NhcHNqODU1dTRDdnVLOUladWNPbTBGTUVVaDlzbFRVUU94SVVuM2w2c3E3Zjk2b0hUSVEtZk5tSkxoVzRRWDNsWjd0NmE0V2J6NnJGWXhoYzlETDdfT3VGaGtLaWhfUlFPc3JPYkM5djFBM3ZuTFZCYXVpcUpKcUt2M1ZueEpEWm9SYWNFdzE0Z2FCek1Qek9JM250M1hUUkNQTHVIUksybURObjJT?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rus saldırısında Kyiv'de 30 kişi öldü; kurtarma ekipleri enkazı temizlemeye devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-03T09:01:12.570908+00:00",
+  "type": "news",
+  "cluster_id": "c5ff90e11c455"
+ },
+ {
+  "title": "Petrol devi ülkede benzin bitti!",
+  "link": "https://www.sozcu.com.tr/petrol-devi-ulkede-benzin-bitti-p333418",
+  "source": "Sözcü",
+  "summary_tr": "Rusya'nın Novorossiysk şehrindeki akaryakıt istasyonlarında benzin stoklarının tükenmesi nedeniyle satışlar durduruldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-03T09:01:12.570908+00:00",
+  "type": "news",
+  "cluster_id": "c3b5360dd5281"
+ },
+ {
+  "title": "Emekliler açıklanan zamma öfkeli",
+  "link": "https://www.sozcu.com.tr/emekliler-aciklanan-zamma-ofkeli-p333412",
+  "source": "Sözcü",
+  "summary_tr": "TÜİK'in açıkladığı haziran enflasyonuyla SSK, Bağ-Kur ve memur emeklilerinin maaş zammı belli oldu; emekliler zamma öfkeli.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-03T09:01:12.570908+00:00",
+  "type": "news",
+  "cluster_id": "cc4cb5754f1e8"
+ },
+ {
+  "title": "Ticaret Bakanlığı haziran ayı veri bültenini yayımladı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-haziran-ayi-veri-bultenini-yayimladi/3985078",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ticaret Bakanlığı haziran ayı veri bülteninde ihracatın geçen yıla göre %21,9 arttığını, 24 milyar 940 milyon dolara ulaştığını açıkladı.",
+  "metric": "İhracat +%21,9",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-03T09:01:12.570908+00:00",
+  "type": "news",
+  "cluster_id": "c12576f50a662"
+ },
+ {
+  "title": "Bakanlık net rakamları yayımladı: Hangi sendikanın kaç üyesi var?",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/bakanlik-net-rakamlari-yayimladi-hangi-sendikanin-kac-uyesi-var-2517651",
+  "source": "Cumhuriyet",
+  "summary_tr": "Çalışma Bakanlığı temmuz ayı istatistiklerine göre kamu görevlilerindeki sendikalaşma oranını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-03T09:01:12.570908+00:00",
+  "type": "news",
+  "cluster_id": "cc7c87aae95d8"
+ },
+ {
+  "title": "Haziranın zam şampiyonu belli oldu",
+  "link": "https://www.sozcu.com.tr/haziranin-zam-sampiyonu-belli-oldu-p333411",
+  "source": "Sözcü",
+  "summary_tr": "Haziranda tüketici fiyatları bazında en yüksek aylık artış %54,26 ile diğer taze meyvelerde gerçekleşti.",
+  "metric": "Taze meyveler %54,26 (+%54,26)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-03T09:01:12.570908+00:00",
+  "type": "news",
+  "cluster_id": "cb3c788313209"
+ },
+ {
+  "title": "Rusyanın Novorossiysk şehrinde benzin bitti",
+  "link": "https://www.trthaber.com/haber/dunya/rusyanin-novorossiysk-sehrinde-benzin-bitti-950140.html",
+  "source": "TRT Haber",
+  "summary_tr": "Rusya'nın Novorossiysk şehrindeki akaryakıt istasyonlarında benzinin tükenmesi nedeniyle yakıt satışı durduruldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-03T09:01:12.570908+00:00",
+  "type": "news",
+  "cluster_id": "c730fa3fad269"
+ },
+ {
+  "title": "EU trade with US hits record high despite tariff tensions, study shows",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcmRSZ1pJNUhacVlzZWFEeGF6aDNXUk5tTkc5cWNsb2dnWkZFUnYxWlpELXJlX0lzUEVvV0JpRVdEQVZwN3FoNWJieUNQa2pxZWthMEZFUXRwbm1GYXdqN29hTlN2RnAtSzJHc3VnUEx1aExRcG5MSDdzSzk1RnZOendzdk9RQ3NRT1dtY1FNMmIzNnk0WnFqYmp2VVNkZWI4M1IwQ1V6Zmd3S2ZWWmc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Tarife gerilimlerine rağmen AB-ABD ticareti rekor seviyeye ulaştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-03T09:01:12.570908+00:00",
+  "type": "news",
+  "cluster_id": "cb314d1689113"
+ },
+ {
   "title": "2026 Haziran ayı enflasyonu açıklandı: TÜİK enflasyonu ne kadar açıkladı? Enflasyon beklentileri ne yöndeydi?",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/2026-haziran-ayi-enflasyonu-aciklandi-tuik-enflasyonu-ne-kadar-acikladi-enflasyon-beklentileri-ne-yondeydi-2517627",
   "source": "Cumhuriyet",
@@ -53782,123 +53926,5 @@
   "score": 6,
   "ts": "2026-05-24T03:00:45.274879+00:00",
   "cluster_id": "c79f96aa3735a"
- },
- {
-  "title": "Ukraine’s capital Kyiv hit by massive missile, drone attack",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZTF3TzRleUdUZEptV2xCbjAyVWRISkNuTTBEM1hTWXZtZk9fT25jV0M3X0x5NlJWN2FxeUtqMjRMWWhac1RSX1U1MHl4dFJJSkZPZWE2M3lsNlJkTUtTZ3BvSkRmWXdBOHRTbG1FSDdiSUpGN0p1THdLaE1mUFBGM2FEY19wLXZEcjA4V0doX1BCUmlINUkzYU0zQTZ6djYyY0V4NTZNOEpEZw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ukrayna başkenti Kyiv'e gece saatlerinde büyük çaplı füze ve drone saldırısı gerçekleştirildi.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-05-24T02:00:45.405091+00:00",
-  "cluster_id": "ceeec6c073ef2"
- },
- {
-  "title": "CHP lideri Özel, kurultay için çağrı yaptı: ‘40 gün içinde gidilmeli’",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-lideri-ozel-kurultay-icin-cagri-yapti-40-gun-icinde-gidilmeli-2506470",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP lideri Özel, Kılıçdaroğlu ile mahkeme kararı sonrası kurultay için görüşeceğini, 40 gün içinde karar verilmesi gerektiğini söyledi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T02:00:45.405091+00:00",
-  "cluster_id": "c41e86ae4692e"
- },
- {
-  "title": "Beyaz Saray yakınlarında silahla ateş açan şüpheli Gizli Servis tarafından hedef alındı",
-  "link": "https://www.aa.com.tr/tr/dunya/beyaz-saray-yakinlarinda-silahla-ates-acan-supheli-gizli-servis-tarafindan-hedef-alindi/3947051",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Gizli Servisi, Beyaz Saray yakınlarında silahla ateş açan şüpheliyi hedef alarak düşürdü.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T02:00:45.405091+00:00",
-  "cluster_id": "c03670b2c2853"
- },
- {
-  "title": "Bilgi Üniversitesi’nin kapatılmasının ardından öğrenci ve akademisyenlerin eylemi sürüyor: ‘Bir gecede işsiz kaldılar’",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/bilgi-universitesi-nin-kapatilmasinin-ardindan-ogrenci-ve-akademisyenlerin-eylemi-suruyor-bir-gecede-issiz-kaldilar-2506492",
-  "source": "Cumhuriyet",
-  "summary_tr": "Cumhurbaşkanı kararıyla kapatılan İstanbul Bilgi Üniversitesi'nde öğrenciler protestoya devam ediyor; öğrenciler işsiz kaldıklarını vurguluyor.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-24T02:00:45.405091+00:00",
-  "cluster_id": "c9977f81294e2"
- },
- {
-  "title": "Suspect dies after trading gunfire with officers near White House, Secret Service says",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZHF1QnlfQmhUenRrRnkzaV9ZRVFXYU90SktVREhvWGtmWGZrRnlVZkgxcGpGbENUYmJ1TW1MZUVVMnBiT0FieE5QbmlKMlhCTUFFV2NVbzlnWFVOTWZrYnJjR0t5dERUUHNBUjBZbm92SzRWTFlWaGx4SmdmZUQ5TllsYThMTzJOUHpLQURnQzM1VlJKSWJvTTB0d1VkNXcwRGQzNmtBZTlYZw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Beyaz Saray yakınlarında polis memurlarıyla çatışan şüpheli öldürüldü.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-24T02:00:45.405091+00:00",
-  "cluster_id": "c508452a02b75"
- },
- {
-  "title": "Conference at UN to review nuclear nonproliferation treaty fails to reach agreement",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbzFLMnB6clpuTzUwLWthT2FTZWlHNlRVTV9kUGNRbXJ0MVBGVjlIc3NUb205Ynh6Y2paSGpaZGNTOEhkeGk3cFB3NUFOOThxS01jTmdQRHhQOVkxQ3VRUkQ0LTEzWWtJLUNSRGdReVlBZy1hSEpfRWRwdmUzT0t2RDJvVmY4RHdrVDJPMldHZ1pNbDRucHBmZW0yQ214RVU?oc=5",
-  "source": "AP",
-  "summary_tr": "BM'de Nükleer Silahsızlanma Antlaşması gözden geçirme konferansı uzlaşma sağlayamadan sonlandırıldı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T01:00:45.841439+00:00",
-  "cluster_id": "cd2565e2f2774"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ve birçok mevkidaşıyla telekonferans yoluyla görüştü",
-  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-abd-baskani-trump-ve-bircok-mevkidasiyla-telekonferans-yoluyla-gorustu/3947054",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ve diğer Orta Doğu liderleriyse telekonferans yoluyla görüştü.",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-05-24T00:00:48.629522+00:00",
-  "cluster_id": "c30fca3ad9d32"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan'dan telefon diplomasisi",
-  "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-telefon-diplomasisi-946111.html",
-  "source": "TRT Haber",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ve Orta Doğu liderleriyse telefon diplomasisi yürütüyor.",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-05-24T00:00:48.629522+00:00",
-  "cluster_id": "cbd479adc0b25"
- },
- {
-  "title": "US Secret Service investigates reports of shots near White House",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZHF1QnlfQmhUenRrRnkzaV9ZRVFXYU90SktVREhvWGtmWGZrRnlVZkgxcGpGbENUYmJ1TW1MZUVVMnBiT0FieE5QbmlKMlhCTUFFV2NVbzlnWFVOTWZrYnJjR0t5dERUUHNBUjBZbm92SzRWTFlWaGx4SmdmZUQ5TllsYThMTzJOUHpLQURnQzM1VlJKSWJvTTB0d1VkNXcwRGQzNmtBZTlYZw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD Gizli Servisi, Beyaz Saray yakınında ateş sesi bildirimleri üzerinden soruşturma başlattı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T00:00:48.629522+00:00",
-  "cluster_id": "c0575630a5cb4"
- },
- {
-  "title": "Beyaz Saray yakınlarında silah sesleri duyuldu",
-  "link": "https://www.aa.com.tr/tr/dunya/beyaz-saray-yakinlarinda-silah-sesleri-duyuldu/3947051",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Beyaz Saray yakınlarında silah sesleri duyuldu; Gizli Servis ve FBI olay yerine müdahale etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-23T23:19:25.723653+00:00",
-  "cluster_id": "c7aef0008edc7"
- },
- {
-  "title": "Ukraine says it hit Russia's Sheskharis oil terminal on Black Sea",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMnZ4SlFrVi1vaEJOaFpxYmZseFRhbjN6bUZQdUZuMXRVRW5iWEY5N1d6c2RoREVZT3JMcTdIVUo4R0lBeHNHN3R1V0RHNzUzak43VG9tZThTTFVfNW03dkxEWEk3RklIOUhtOTJsNVpncDB0S1hKWk53Y3Y2cVBFUy1DWk1HTG1QRlJ4NVViSk9GVmRaUWJQWlB6S3VVck1QajBwR2I5SG1jODIzckdv?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ukrayna, Karadeniz'de Rus Sheskharis petrol terminalini vurduğunu duyurdu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-23T23:00:40.716457+00:00"
- },
- {
-  "title": "Trump: İran'la anlaşmanın son detayları tartışılıyor, kısa sürede duyurulacak",
-  "link": "https://www.diken.com.tr/trump-iranla-anlasmanin-son-detaylari-tartisiliyor-kisa-surede-duyurulacak/?utm_source=rss&utm_medium=rss&utm_campaign=trump-iranla-anlasmanin-son-detaylari-tartisiliyor-kisa-surede-duyurulacak",
-  "source": "Diken",
-  "summary_tr": "ABD Başkanı Trump, İran'la anlaşmanın son detaylarının tartışıldığını ve kısa sürede duyurulacağını söyledi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-23T22:58:10.211902+00:00"
  }
 ]
