@@ -1,5 +1,89 @@
 [
  {
+  "title": "En düşük emekli aylığının artırılmasına yönelik düzenlemeyi de içeren kanun teklifi TBMM'de",
+  "link": "https://www.aa.com.tr/tr/gundem/en-dusuk-emekli-ayliginin-artirilmasina-yonelik-duzenlemeyi-de-iceren-kanun-teklifi-tbmmde-/3985239",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "AK Parti'nin TBMM'ye sunduğu kanun teklifinde en düşük emekli aylığının artırılması öngörülüyor.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-07-03T11:01:10.718060+00:00",
+  "type": "news",
+  "cluster_id": "cc16737245591"
+ },
+ {
+  "title": "CHP’li Aşkın Genç’ten TÜİK'e tepki: 'Enflasyon rakamlarla makyajlanabilir, mutfaktaki yangın makyajlanamaz'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-li-askin-genc-ten-tuik-e-tepki-enflasyon-rakamlarla-makyajlanabilir-mutfaktaki-yangin-makyajlanamaz-2517685",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP'li Genç, TÜİK'in haziran enflasyon verilerini eleştirerek emekli aylığı zamlarının yetersiz olduğunu vurguladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-03T11:01:10.718060+00:00",
+  "type": "news",
+  "cluster_id": "c86451938e3cf"
+ },
+ {
+  "title": "Uzmanlar enflasyonu değerlendirdi: Faizde dengeler değişebilir",
+  "link": "https://www.sozcu.com.tr/uzmanlar-enflasyonu-degerlendirdi-faizde-dengeler-degisebilir-p333451",
+  "source": "Sözcü",
+  "summary_tr": "Enflasyon verileri açıklandı; uzmanlar TCMB'nin faiz politikasında değişiklik yapabileceğini değerlendiriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-03T11:01:10.718060+00:00",
+  "type": "news",
+  "cluster_id": "cab32f183cabb"
+ },
+ {
+  "title": "Geçim derdi büyüyor: Emekliye makyajlı zam dayatıldı, kamu emekçisine o bile fazla görüldü",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUTlUSEVaNHlCXzM0cldLNlBFT0w5ZG5iZXhQLVROdkR2UURSVFpHUkxSLWJQR3FzcGhua1ludmNfRmZhSHFzNzNCa2kxeThSbDRNY3J0dkZVWnZvM1IzV21FYmlseUtqWEkxT3R3a2pUdW1rZmxBQmZYZklfQzlrQ05ab2xFNVQwODhvc2lsZldsc0x1VDNjZmt4cFdLcVlwZXB4QVMyZTAzcjQ2Ym5tYkFvdHdzb1g2Z2xj?oc=5",
+  "source": "soL",
+  "summary_tr": "Emeklilere verilen zam yetersiz bulunurken, kamu emekçilerine daha az artış yapıldığı belirtiliyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-03T11:01:10.718060+00:00",
+  "type": "news",
+  "cluster_id": "cf3fc93e76303"
+ },
+ {
+  "title": "Türkiye'nin ünlü bebek mağazası konkordato ilan etti",
+  "link": "https://www.sozcu.com.tr/turkiye-nin-unlu-bebek-magazasi-konkordato-ilan-etti-p333458",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye genelinde 11 şubesi bulunan BabyMall bebek ürünleri zinciri konkordato ilan etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-03T11:01:10.718060+00:00",
+  "type": "news",
+  "cluster_id": "c04b4b0e88550"
+ },
+ {
+  "title": "İhracatın lokomotif sektörü değişmedi",
+  "link": "https://www.trthaber.com/haber/ekonomi/ihracatin-lokomotif-sektoru-degismedi-950157.html",
+  "source": "TRT Haber",
+  "summary_tr": "Otomotiv sektörü haziran ayında 3,8 milyar dolar ihracatla en fazla dış satış yapan sektör oldu.",
+  "metric": "Otomotiv ihracatı 3,8 milyar dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-03T11:01:10.718060+00:00",
+  "type": "news",
+  "cluster_id": "c2d80004b7e95"
+ },
+ {
+  "title": "TUFE (aylık): %32 (Haziran 2025)",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ204TUxoczNuVkp5LVUtQkFWRTZGMElNUXYzSHc3OVR6T3k2SEppTU85RnZzckN3TTRZSW9TU3gxV3NsYm53VGhkRU4wcDhhZDBESU53NmRvbTY3Vkp4OVpJN0liYzZzMmEzd21vaF9rRXFYUkwzREplVU5Mcm9IdXc3MndiQjBWZmhPTlpDSWNsTVRPdGZRYVJaNVExVFpUNWl5eWNfaw?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%32,11 → %32 (-0,1 puan)",
+  "metric": "-0,1 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-03T11:01:10.718060+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Yurt içi üretici enflasyonu haziranda yüzde 28,09'a yükseldi",
   "link": "https://www.sozcu.com.tr/yurt-ici-uretici-enflasyonu-haziranda-yuzde-28-09-a-yukseldi-p333421",
   "source": "Sözcü",
@@ -53884,75 +53968,5 @@
   "score": 7,
   "ts": "2026-05-24T07:00:52.865254+00:00",
   "cluster_id": "ce85c15982698"
- },
- {
-  "title": "Kapatılan Bilgi Üniversitesi’nde Rektör Yazgan’dan kampüsü kapatma kararı: Öğrenci ve akademisyenler kampüse alınmayacak, erzak girişine izin verilmeyecek",
-  "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQS184OXVXQzFSR2hrX2gyb3E3Z3pTb2xnM3VkbWt5dzktTzdKZmZqQ2tIMjBCUlM4SnRvVkxwWVloUG83MWtQYWw5ZlhLaGQ2MDhCbDNpN2M3TE56d0NQZ3VKeEN3YmZZbDVVUlhlYjlhS3NyWUh1NVNlWmtUOHVISlNobXlXYVROWkVvTnRNdjZqSnlSZmNkRVFqRFVvY3lyLThMckN0SXZjbTJSNGZxOHZWaHZIeGhwZXVraGNER0M0a0tqT28zWUQ0MEY3WThmZTNTSlBmRUNnZWpKSFhWU240TjBGWTZpSFA5RmtySlB1U2wyaDg0V0xkaGVBV194OEVnQlFIRlB0MV94RmZma1pR?oc=5",
-  "source": "T24",
-  "summary_tr": "Kapatılan Bilgi Üniversitesi'nde Rektör Yazgan, öğrenci ve akademisyenlerin kampüse alınmayacağı ve erzak girişine izin verilmeyeceği kararını duyurdu.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T07:00:52.865254+00:00",
-  "cluster_id": "c285e81b2a9c3"
- },
- {
-  "title": "Iran executes person for sending information to US, Israel during war, judiciary says",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWEhRY25USjF5eDJsUHVRSGprTHFpbE84WlRfWjV0SVA3bmtzUmZkNVA3SWhfVVFtVHJja01Fek1ocDRiNlB4cDM5Z0o0Y3h2TUJGQ05EWEZhSWJyTGFHdzVxSmN0Sk9UTGs3Ti1RNG1yRF94TGRacEVvMkptZ1VCRnVJMnBYNEZRdlhOX2JpRW9COEg0Mm1pdk5VNWpWOHVxMlNOTTVBNHk5VGV4N0otQmNnYmdUa2dQT2hsYzlCSGlLU3A0alVYbjN3?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran, savaş sırasında ABD ve İsrail'e bilgi gönderdiği gerekçesiyle bir kişiyi idam etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T07:00:52.865254+00:00",
-  "cluster_id": "c3943b54c4118"
- },
- {
-  "title": "Özgür Özel ve Kemal Kılıçdaroğlu arasında ikinci görüşme",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-ve-kemal-kilicdaroglu-arasinda-ikinci-gorusme-2506535",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel ile Kemal Kılıçdaroğlu arasında ikinci görüşme gerçekleşti.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-24T07:00:52.865254+00:00",
-  "cluster_id": "c66ffaf9e1e7f"
- },
- {
-  "title": "GYO’lara kar dağıtım şartı netleşti: Yeni düzenleme yürürlüğe girdi",
-  "link": "https://www.sozcu.com.tr/gyo-lara-kar-dagitim-sarti-netlesti-yeni-duzenleme-yururluge-girdi-p322368",
-  "source": "Sözcü",
-  "summary_tr": "Gayrimenkul yatırım ortaklıklarının kar dağıtım şartları belirlendi; yeni düzenleme yürürlüğe girdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-24T07:00:52.865254+00:00",
-  "cluster_id": "c1eec780fe197"
- },
- {
-  "title": "Gayrimenkul yatırım ortaklıklarında kar dağıtım şartları belirlendi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/gayrimenkul-yatirim-ortakliklarinda-kar-dagitim-sartlari-belirlendi/3947137",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Gayrimenkul yatırım ortaklıklarında kar dağıtım şartları belirlendi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-24T07:00:52.865254+00:00",
-  "cluster_id": "c80ed2e20d80e"
- },
- {
-  "title": "CHP Genel Merkezi önünde arbede: Kılıçdaroğlu ekibi binaya geldi, çevik kuvvet sevk edildi",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZUxKQ3F6eHdJSl9fUlNnRXFvR0lkeUc5dlJIRjNxbkhjWDdLRlhZSXRueExVYjltalcwbmMyVGFRUTkwQVpfTnJEMHVtMzJrU3lobk9pc0xPVGJ6bmhMcTZIWHBYYTEza25iSFlZdjJaSTJScFhRcE50bVlaQ21qS1BKc2pjTHg1dEw4ZjNYZ3ZDMnByQWVzclNIbnRwci1SaUJ2T2RVSEMxQl9GRUV2bEhNRmNyOWJoNllv?oc=5",
-  "source": "soL",
-  "summary_tr": "CHP Genel Merkezi'nde arbede yaşandı; Kılıçdaroğlu ekibi binaya geldi, çevik kuvvet sevk edildi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-24T07:00:52.865254+00:00",
-  "cluster_id": "ccbaeaadebd36"
- },
- {
-  "title": "Özgür Özel’in kurultay planı belli oldu",
-  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONGdQeXI4SExwYlllNXUtbm1WYkVtXzBsNjFVdzhoQ1lwZG5NZnQzcmdzMVUwRXFoS1dmbnd1eFpEVVFoMV9nRVV3M1oyaXNRSTFnSHlRRWsxZmE2ZHJLc1lNZDV3RmdUWUg5R2pmYV9IQ0JXQmJ4RjgtckZiRjEyUjJR?oc=5",
-  "source": "soL",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel'in kurultay planı açıklandı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-24T07:00:52.865254+00:00",
-  "cluster_id": "c317545e7285f"
  }
 ]
