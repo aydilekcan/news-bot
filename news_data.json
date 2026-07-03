@@ -1,5 +1,41 @@
 [
  {
+  "title": "Grönland Başbakanı açıkladı: Trump ilhak fikrinden vazgeçti",
+  "link": "https://www.sozcu.com.tr/gronland-basbakani-acikladi-trump-ilhak-fikrinden-vazgecti-p333559",
+  "source": "Sözcü",
+  "summary_tr": "Grönland Başbakanı Jens-Frederik Nielsen, ABD Başkanı Donald Trump'ın Grönland ilhak fikrinden vazgeçtiğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-03T20:00:58.061648+00:00",
+  "type": "news",
+  "cluster_id": "c2b1302a19719"
+ },
+ {
+  "title": "AKP'nin engeline rağmen su indirimi meclisten geçti: Balıkesir'de yüzde 20 indirim kabul edildi",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/akp-nin-engeline-ragmen-su-indirimi-meclisten-gecti-balikesir-de-yuzde-20-indirim-kabul-edildi-2517809",
+  "source": "Cumhuriyet",
+  "summary_tr": "Balıkesir Büyükşehir Belediyesi'nin dar gelirli vatandaşlar için hazırladığı yüzde 20 su indirimi teklifi AKP muhalefetine rağmen meclisten geçti.",
+  "metric": "Su indirimi %20",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-03T20:00:58.061648+00:00",
+  "type": "news",
+  "cluster_id": "c0ea9303c89a0"
+ },
+ {
+  "title": "Largest US power grid PJM escalates emergency actions to avoid blackouts",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc1AxOV83VXpuZGNyLTd1Q2hFVHVXR29GQ3VRZy1BaDhUSkFkVVM2SEtJenlGTkhDRUdjOHY1cVNCOFF3dWZOVFgzSWtqR3NDSHlOekpzazEwOGNvakxfb3cxYWtJX1lyc0VKeGZRTVpfeENhMjMxZkhUTUhOMGNiSVc5Rk43OWt4MmlfM29wY2Nha0J6bmh6SWRNVHBVYzFfMjhVd1hPZFB2eGVHY2dGRkFaTjFYa3J2OWRvV2oteE5KN3czelE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD'nin en büyük elektrik şebekesi PJM, karataşları önlemek için acil müdahalelerini yoğunlaştırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-03T20:00:58.061648+00:00",
+  "type": "news",
+  "cluster_id": "ccd423d92fb1a"
+ },
+ {
   "title": "Çin'in Rusya'ya desteği Almanya'yı kızdırdı",
   "link": "https://www.dw.com/tr/çin-in-rusya-ya-desteği-almanya-yı-kızdırdı/a-77825425?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -54010,35 +54046,5 @@
   "score": 7,
   "ts": "2026-05-24T10:00:55.423630+00:00",
   "cluster_id": "c29d82ebf1873"
- },
- {
-  "title": "3 büyükşehir birbirine bağlanacak: Mesafe 2 saate düşecek",
-  "link": "https://www.sozcu.com.tr/3-buyuksehir-birbirine-baglanacak-mesafe-2-saate-dusecek-p322425",
-  "source": "Sözcü",
-  "summary_tr": "Ulaştırma Bakanı Uraloğlu, yılın ikinci yarısında 3 büyükşehri birbirine bağlayan hızlı tren projesinin tamamlanacağını açıkladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-24T10:00:55.423630+00:00",
-  "cluster_id": "c42acd7c46b86"
- },
- {
-  "title": "Aidat kabusu bitiyor: Fahiş zam yapan yönetime \"3 ay\" sınırı geldi!",
-  "link": "https://www.sozcu.com.tr/aidat-kabusu-bitiyor-fahis-zam-yapan-yonetime-3-ay-siniri-geldi-p322417",
-  "source": "Sözcü",
-  "summary_tr": "Resmi Gazete'de yayımlanan yeni düzenlemeyle site yönetimlerinin keyfi aidat artışlarına 3 aylık sınır getirildi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-24T10:00:55.423630+00:00",
-  "cluster_id": "cb57bcee99e32"
- },
- {
-  "title": "Uçaklarda internet dönemi başlıyor! Tarih verildi",
-  "link": "https://www.sozcu.com.tr/ucaklarda-internet-donemi-basliyor-tarih-verildi-p322414",
-  "source": "Sözcü",
-  "summary_tr": "Ulaştırma ve Altyapı Bakanlığı, TÜRKSAT uydu altyapısını kullanarak uçaklarda yerli internet hizmetini başlatıyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-24T10:00:55.423630+00:00",
-  "cluster_id": "c60e20f218264"
  }
 ]
