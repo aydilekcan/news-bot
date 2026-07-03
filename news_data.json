@@ -1,5 +1,137 @@
 [
  {
+  "title": "Çin'in Rusya'ya desteği Almanya'yı kızdırdı",
+  "link": "https://www.dw.com/tr/çin-in-rusya-ya-desteği-almanya-yı-kızdırdı/a-77825425?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Almanya, Çin'in Rusya'ya desteğinden rahatsız olarak Çin Büyükelçisi'ni Dışişleri Bakanlığı'na çağırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-03T17:01:05.935649+00:00",
+  "type": "news",
+  "cluster_id": "c4e563e0cc65d"
+ },
+ {
+  "title": "Ebrar Sitesi G Blok davasında 2'si kamu görevlisi 3 kişiye 6 ile 17 yıl arasında hapis cezası",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/ebrar-sitesi-g-blok-davasinda-2-si-kamu-gorevlisi-3-kisiye-6-ile-17-yil-arasinda-hapis-cezasi-2517778",
+  "source": "Cumhuriyet",
+  "summary_tr": "6 Şubat depremlerinde 123 kişinin yaşamını yitirdiği Ebrar Sitesi G Blok davasında müteahhit Tevfik Tepebaşı'na 17 yıl 4 ay hapis cezası verildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-03T17:01:05.935649+00:00",
+  "type": "news",
+  "cluster_id": "cd6aee8ec1ace"
+ },
+ {
+  "title": "Depremde 123 kişiye mezar olan Ebrar Sitesi davasında 2'si kamu görevlisi 3 kişiye hapis cezası",
+  "link": "https://www.sozcu.com.tr/depremde-123-kisiye-mezar-olan-ebrar-sitesi-davasinda-2-si-kamu-gorevlisi-3-kisiye-hapis-cezasi-p333534",
+  "source": "Sözcü",
+  "summary_tr": "6 Şubat depremlerinde 123 kişinin yaşamını yitirdiği Ebrar Sitesi davasında mahkeme, 2'si kamu görevlisi 3 kişiye hapis cezası verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-03T17:01:05.935649+00:00",
+  "type": "news",
+  "cluster_id": "cd6aee8ec1ace"
+ },
+ {
+  "title": "Köprü ve otoyol soygununda yeni perde: Zamlar otomatiğe bağlanacak, şirketlerin kasası enflasyonla dolacak",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUGtEWkRHbmNpaE5zejIzZkF2UDRIOVFTRjFpMmtTajBINWxnVnpWUkVYMDZkelFCdGc5SnhPLU8tc1I1dUhFbGlGZnBUYjZXZE1wR2J2MFc5ellsTllOUS10Q3RNaWRzSmxmeHVKT25uZDBjNnRpZ3ZMNk1wdXlJOFppUm1fUzNRejFaUTV4WjFmc09jTlFXWHhPalhiSEJ5NDBXRGFCYzE3UDVLQWpFTmRyWlhyUQ?oc=5",
+  "source": "soL",
+  "summary_tr": "Köprü ve otoyol ücretlerine yeni düzenleme: Zamlar otomatik hale bağlanacak ve şirketlerin gelirleri enflasyonla artacak.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-03T17:01:05.935649+00:00",
+  "type": "news",
+  "cluster_id": "c5caf7c18032c"
+ },
+ {
+  "title": "Pakistan Başbakanı Şerif, Türkiye'ye gelecek",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/pakistan-basbakani-serif-turkiye-ye-gelecek-2517781",
+  "source": "Cumhuriyet",
+  "summary_tr": "Pakistan Başbakanı Şahbaz Şerif, Cumhurbaşkanı Erdoğan'ın daveti üzerine 4 Temmuz'da Türkiye'ye geliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-03T17:01:05.935649+00:00",
+  "type": "news",
+  "cluster_id": "c51d287166f7e"
+ },
+ {
+  "title": "Pakistan Başbakanı Şahbaz Şerif Türkiye’ye geliyor",
+  "link": "https://www.sozcu.com.tr/pakistan-basbakani-sahbaz-serif-turkiye-ye-geliyor-p333536",
+  "source": "Sözcü",
+  "summary_tr": "Pakistan Başbakanı Şahbaz Şerif, Cumhurbaşkanı Erdoğan'ın daveti üzerine 4 Temmuz'da Türkiye'ye geliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-03T17:01:05.935649+00:00",
+  "type": "news",
+  "cluster_id": "c51d287166f7e"
+ },
+ {
+  "title": "Pakistan Başbakanı Şerif, Türkiye'yi ziyaret edecek",
+  "link": "https://www.aa.com.tr/tr/dunya/pakistan-basbakani-serif-turkiyeyi-ziyaret-edecek/3985625",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Pakistan Başbakanı Şahbaz Şerif, Cumhurbaşkanı Erdoğan'ın davetine icabetle Türkiye'ye ziyaret gerçekleştirecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-03T17:01:05.935649+00:00",
+  "type": "news",
+  "cluster_id": "c51d287166f7e"
+ },
+ {
+  "title": "Pakistan Başbakanı Şerif yarın Türkiye'ye geliyor",
+  "link": "https://www.trthaber.com/haber/gundem/pakistan-basbakani-serif-yarin-turkiyeye-geliyor-950179.html",
+  "source": "TRT Haber",
+  "summary_tr": "Pakistan Başbakanı Şahbaz Şerif, Cumhurbaşkanı Erdoğan'ın davetine icabetle yarın Türkiye'ye çalışma ziyareti gerçekleştirecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-03T17:01:05.935649+00:00",
+  "type": "news",
+  "cluster_id": "c51d287166f7e"
+ },
+ {
+  "title": "Belediye kreşlerine yeni düzenleme: Bakanlık izni zorunlu hale geldi",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/belediye-kreslerine-yeni-duzenleme-bakanlik-izni-zorunlu-hale-geldi-2517779",
+  "source": "Cumhuriyet",
+  "summary_tr": "Resmi Gazete'de yayımlanan yeni yönetmelikle belediye kreşleri için Aile ve Sosyal Hizmetler Bakanlığı'nın izni zorunlu hale geldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-03T17:01:05.935649+00:00",
+  "type": "news",
+  "cluster_id": "cc28aca9a21a7"
+ },
+ {
+  "title": "İktidarın kreşlerle derdi bitmiyor! Bakanlık izni zorunlu hale getirildi",
+  "link": "https://www.sozcu.com.tr/iktidarin-kreslerle-derdi-bitmiyor-bakanlik-izni-zorunlu-hale-getirildi-p333531",
+  "source": "Sözcü",
+  "summary_tr": "Resmi Gazete'de yayımlanan yeni karar ile belediye kreşleri için bakanlık izni zorunlu hale geldi; 6 ay içinde başvurmayanlar kapatılacak.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-03T17:01:05.935649+00:00",
+  "type": "news",
+  "cluster_id": "ce0b08782664e"
+ },
+ {
+  "title": "TUFE (yıllık): %32,11 (Haziran)",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNXEtamMtN3E3Yk5FLUNSOXExcWE4WDBNRWlnM1ZFajlVOEpLQ1lubXlQS1lZWjdZRTFQVWdJMERoWUZ5T1BYRm91WlRCM3hzbVMxcDBWWm1YV1JBY1ZNbWNkY25nWERiOGVwQjkxZEJtQTdkY2hma1NRMmF0Y3hBajgwRHppbExRUFVramVqZTFHUXlsY1E2NDh5X0RpQ2MxRUpxcnd0NnJLQ1pHOFB4b25wWE81emJ0TkJEWTVKTC0?oc=5",
+  "source": "TÜİK",
+  "summary_tr": "%32,61 → %32,11 (-0,5 puan)",
+  "metric": "-0,5 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-03T17:01:05.935649+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "NATO leaders including Trump to affirm 'ironclad commitment' to collective defence in Ankara, summit text says",
   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR21mS1FvbzMzXzlxSUFEVVV5ZENiRktERHRtQ1hycW16UmphZF9RdUEybTVmYjNkOWY4dTFvZ3MyVlZPSnVaLVU2dS1DRjBkempBVkRvd2NROFBkRjlTajI5cjVLSjBxSzlaWmp2Z1RxQVlPaFBJMjQzNUd0VUdFejN1OVItOEhTQUtQU1Zzc2VfU0xQUFgxdWlvZEJfYUROWG9ZMlBhZUNsaTNLWDVzcTc0b2pLc0pRWDBkUGVSbTljVjNudFhGcU84amZSb1dPTzN2TDN0TQ?oc=5",
   "source": "Reuters",
@@ -53908,115 +54040,5 @@
   "score": 6,
   "ts": "2026-05-24T10:00:55.423630+00:00",
   "cluster_id": "c60e20f218264"
- },
- {
-  "title": "Makine sektörünün ihracatı 4 ayda 9,3 milyar dolara yükseldi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/makine-sektorunun-ihracati-4-ayda-9-3-milyar-dolara-yukseldi/3947309",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Makine sektörünün ihracatı ocak-nisan döneminde yüzde 4,5 artarak 9,3 milyar dolara ulaştı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-24T10:00:55.423630+00:00",
-  "cluster_id": "ce39b97e686fa"
- },
- {
-  "title": "CHP Genel Merkezi'nde arbede: Valilik polise talimat verildiğini açıkladı",
-  "link": "https://www.bbc.com/turkce/articles/ceqpw2wv7qeo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Mahkeme kararıyla CHP genel başkanlığına getirilen Kılıçdaroğlu'nun avukatları Ankara Valiliği'nin CHP Genel Merkezi'nin polise teslimi için talimat verdiğini açıkladı.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-24T09:01:05.766782+00:00",
-  "cluster_id": "ccdc09eac3ba2"
- },
- {
-  "title": "CHP Genel Merkezinde tahliye gerilimi: Şimdiye kadar neler yaşandı?",
-  "link": "https://www.dw.com/tr/chp-genel-merkezinde-tahliye-gerilimi-şimdiye-kadar-neler-yaşandı/a-77278529?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "CHP Genel Merkezi'nde tahliye gerginliği tırmanıyor; İstinaf kararı sonrası Özel ve Kılıçdaroğlu destekçileri çatışma halindedir.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-24T09:01:05.766782+00:00",
-  "cluster_id": "cb63718f8f4e8"
- },
- {
-  "title": "Ankara Valiliği'nden CHP Genel Merkezi'nin 'teslimi için' talimat",
-  "link": "https://www.diken.com.tr/ankara-valiliginden-chp-genel-merkezinin-teslimi-icin-talimat/?utm_source=rss&utm_medium=rss&utm_campaign=ankara-valiliginden-chp-genel-merkezinin-teslimi-icin-talimat",
-  "source": "Diken",
-  "summary_tr": "Ankara Valiliği, CHP Genel Merkezi'nin 'teslimi için' talimat verdi.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-24T09:01:05.766782+00:00",
-  "cluster_id": "cd95cf9de276d"
- },
- {
-  "title": "Bu da oldu. Kılıçdaroğlu CHP’ye polis çağırdı: Özel’i çıkartın",
-  "link": "https://yetkinreport.com/2026/05/24/bu-da-oldu-kilicdaroglu-chpye-polis-cagirdi-ozeli-cikartin/",
-  "source": "YetkinReport",
-  "summary_tr": "Mahkeme kararıyla genel başkanlığa getirilen Kılıçdaroğlu, Özgür Özel'in Genel Merkez binasından çıkartılması için polis çağırdı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-24T09:01:05.766782+00:00",
-  "cluster_id": "ce0a655d04b42"
- },
- {
-  "title": "Ukrayna: Rusya, biri Oreşnik olmak üzere 90 füze ve 600 SİHA ile saldırı düzenledi",
-  "link": "https://www.trthaber.com/haber/dunya/ukrayna-rusya-biri-oresnik-olmak-uzere-90-fuze-ve-600-siha-ile-saldiri-duzenledi-946128.html",
-  "source": "TRT Haber",
-  "summary_tr": "Rusya, Oreşnik hipersonik füzesi dahil 90 füze ve 600 SİHA ile Ukrayna'ya gece saldırı düzenledi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-24T09:01:05.766782+00:00",
-  "cluster_id": "ce892bfbc7e2f"
- },
- {
-  "title": "Russia uses hypersonic Oreshnik missile in mass attack on Kyiv",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ2JXX3JSekpLS3g3WUdNMHhscHJNNk53TEx0bUxidktWMndCaFZfbTV1cFZhUGhuVWN2aE1RbEhZR2R0OTJQR2dpY2hKZDJQMUZuMmtoa25IOENLT3R3WkFoRWdGYXRZaVk2VG85MzFpODY1WFNQTHhzazlBVzFIX29aSDRSTWRpTWx6ZmJqNkptT0NFMC0wVnYwWmJ0YkxjRjRwUV8wZw?oc=5",
-  "source": "AP",
-  "summary_tr": "Rusya, Kiyev'e karşı Oreşnik hipersonik füzesi kullanarak kitlesel saldırı düzenledi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-24T09:01:05.766782+00:00",
-  "cluster_id": "cbe6ebef6ca6d"
- },
- {
-  "title": "Kılıçdaroğlu'ndan CHP'lilere talimat: Aykırı hareket edenlerle ilgili tedbir alınacak",
-  "link": "https://www.diken.com.tr/kilicdaroglundan-chplilere-talimat-aykiri-hareket-edenlerle-ilgili-tedbir-alinacak/?utm_source=rss&utm_medium=rss&utm_campaign=kilicdaroglundan-chplilere-talimat-aykiri-hareket-edenlerle-ilgili-tedbir-alinacak",
-  "source": "Diken",
-  "summary_tr": "Kılıçdaroğlu, CHP örgütlerine aykırı hareket edenler hakkında tedbir alınacağını belirtti.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T09:01:05.766782+00:00",
-  "cluster_id": "ccece09188955"
- },
- {
-  "title": "CHP Genel Merkezi'nde 'tahliye' gerginliği... Mahmut Tanal, elinde hortumla çatıya çıktı: Polisler geri çekildi!",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-genel-merkezi-nde-tahliye-gerginligi-mahmut-tanal-elinde-hortumla-catiya-cikti-polisler-geri-cekildi-2506559",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Genel Merkezi'nde tahliye gerginliği devam ederken CHP'li vekiller nöbetine devam ediyor.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T09:01:05.766782+00:00",
-  "cluster_id": "cb2ca8b0dbc94"
- },
- {
-  "title": "Pakistan’da askeri personeli taşıyan trene saldırı: En az 23 ölü, 70 yaralı",
-  "link": "https://www.cumhuriyet.com.tr/dunya/pakistan-da-askeri-personeli-tasiyan-trene-saldiri-en-az-23-olu-70-yarali-2506556",
-  "source": "Cumhuriyet",
-  "summary_tr": "Pakistan'ın Beluçistan eyaletinde demir yolu hattında meydana gelen patlama sonucu en az 23 kişi öldü, 70 kişi yaralandı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T09:01:05.766782+00:00",
-  "cluster_id": "cf7da0a019ea8"
- },
- {
-  "title": "Taiwan, China coast guards in standoff at top of South China Sea",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUDhuTThCNWVtYUVDSmZub3hwUHY5ZHlIcktESk9Fbk9LY2RtZDZuVlFFalRmM054T3NNNFZnWUhueE5HRGtUdlUzVmJGUVdydHRES3dHNjVpMzBuTk5tbTR4ZFliMzhRenNDSFJDNGU1bXI0ZGgzcllUbndQQ3FGSXlaSkREb25fWVE3TGpkeWFlLXFpLXZQZ0ZENkl0T1AtODN5NA?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Tayvan ve Çin sahil güvenlik güçleri Güney Çin Denizi'nin kuzeyinde karşı karşıya geldi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T09:01:05.766782+00:00",
-  "cluster_id": "c36e9aa80f1b1"
  }
 ]
