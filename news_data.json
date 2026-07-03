@@ -1,5 +1,65 @@
 [
  {
+  "title": "Hayat pahalılığı nedeniyle veresiye defterine rağbet arttı",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/hayat-pahaliligi-nedeniyle-veresiye-defterine-ragbet-artti-2517697",
+  "source": "Cumhuriyet",
+  "summary_tr": "Yüksek enflasyon ve hayat pahalılığı nedeniyle alım gücü düşen vatandaşlar temel ihtiyaçlarını veresiye defterine başvurarak karşılamaya başladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-03T12:01:08.643152+00:00",
+  "type": "news",
+  "cluster_id": "ce83873a58607"
+ },
+ {
+  "title": "DİSK-AR haziran bültenini yayımladı: Asgari ücret enflasyon karşısında 5 bin lira eridi",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/disk-ar-haziran-bultenini-yayimladi-asgari-ucret-enflasyon-karsisinda-5-bin-lira-eridi-2517696",
+  "source": "Cumhuriyet",
+  "summary_tr": "DİSK-AR haziran verilerine göre asgari ücretin satın alma gücü enflasyon karşısında 5 bin lira düştü.",
+  "metric": "Asgari ücretin satın alma gücü 5.000 TL kaybı",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-03T12:01:08.643152+00:00",
+  "type": "news",
+  "cluster_id": "c494999b66848"
+ },
+ {
+  "title": "İzmir Emekliler platformu: İktidar emekli düşmanı olduğunu bir kez daha gösterdi",
+  "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/izmir-emekliler-platformu-iktidar-emekli-dusmani-oldugunu-bir-kez-daha-gosterdi-2517701",
+  "source": "Cumhuriyet",
+  "summary_tr": "İzmir Emekliler Platformu, emekli maaşlarına yapılan zamları yetersiz bularak sert tepki gösterdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-03T12:01:08.643152+00:00",
+  "type": "news",
+  "cluster_id": "c0285f98fea82"
+ },
+ {
+  "title": "ÜNİPERSEN ve KASK'tan TÜİK önünde açıklama: 'Kamu çalışanı enflasyona değil, refaha ortak olmalıdır'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/unipersen-ve-kask-tan-tuik-onunde-aciklama-kamu-calisani-enflasyona-degil-refaha-ortak-olmalidir-2517698",
+  "source": "Cumhuriyet",
+  "summary_tr": "Kamu sendikaları TÜİK önünde açıklama yaparak kamu çalışanlarının enflasyona değil refaha ortak olmasını talep etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-03T12:01:08.643152+00:00",
+  "type": "news",
+  "cluster_id": "c927001b33c3c"
+ },
+ {
+  "title": "Kredi kartıyla alışverişte yeni düzenleme: Kanun teklifi Meclis’e sunuldu",
+  "link": "https://www.sozcu.com.tr/kredi-kartiyla-alisveriste-yeni-duzenleme-kanun-teklifi-meclis-e-sunuldu-p333468",
+  "source": "Sözcü",
+  "summary_tr": "Kredi kartıyla alışverişlere ilişkin yeni düzenleme içeren kanun teklifi TBMM'ye sunuldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-03T12:01:08.643152+00:00",
+  "type": "news",
+  "cluster_id": "cad7ce7b4df7a"
+ },
+ {
   "title": "En düşük emekli aylığının artırılmasına yönelik düzenlemeyi de içeren kanun teklifi TBMM'de",
   "link": "https://www.aa.com.tr/tr/gundem/en-dusuk-emekli-ayliginin-artirilmasina-yonelik-duzenlemeyi-de-iceren-kanun-teklifi-tbmmde-/3985239",
   "source": "Anadolu Ajansı",
@@ -53918,55 +53978,5 @@
   "score": 7,
   "ts": "2026-05-24T08:00:52.738171+00:00",
   "cluster_id": "c6ad115679cd9"
- },
- {
-  "title": "Rusya'dan Ukrayna'ya saldırı: Ölü ve yaralılar var",
-  "link": "https://www.cumhuriyet.com.tr/dunya/rusya-dan-ukrayna-ya-saldiri-olu-ve-yaralilar-var-2506536",
-  "source": "Cumhuriyet",
-  "summary_tr": "Rusya, Kiev'e gece yarısından beri hava saldırıları düzenliyor; ölü ve yaralılar var.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-24T07:00:52.865254+00:00",
-  "cluster_id": "cac42167f55c1"
- },
- {
-  "title": "ABD ve İran’ın 60 günlük ateşkes uzatmasına yakın olduğu iddia edildi",
-  "link": "https://www.sozcu.com.tr/abd-ve-iran-in-60-gunluk-ateskes-uzatmasina-yakin-oldugu-iddia-edildi-p322364",
-  "source": "Sözcü",
-  "summary_tr": "ABD ile İran'ın Hürmüz Boğazı ve nükleer programını kapsayan 60 günlük ateşkes uzatmasına yakın olduğu iddia edildi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-24T07:00:52.865254+00:00",
-  "cluster_id": "cb50487509805"
- },
- {
-  "title": "ABD İran arasında Hürmüz Boğazı ve nükleer müzakereleri kapsayan 60 günlük anlaşma iddiası",
-  "link": "https://www.trthaber.com/haber/dunya/abd-iran-arasinda-hurmuz-bogazi-ve-nukleer-muzakereleri-kapsayan-60-gunluk-anlasma-iddiasi-946121.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD ile İran'ın Hürmüz Boğazı'nın açılması ve nükleer programının sınırlandırılmasını kapsayan 60 günlük anlaşma müzakere edildiği iddia edildi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-24T07:00:52.865254+00:00",
-  "cluster_id": "c55026d245182"
- },
- {
-  "title": "İsrail basını yazdı: Trump’ın İran planı Tel Aviv’i rahatsız etti",
-  "link": "https://www.cumhuriyet.com.tr/dunya/israil-basini-yazdi-trump-in-iran-plani-tel-aviv-i-rahatsiz-etti-2506538",
-  "source": "Cumhuriyet",
-  "summary_tr": "İsrail basını, Trump'ın İran'la geçici nükleer anlaşması planının Tel Aviv'i rahatsız ettiğini yazdı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T07:00:52.865254+00:00",
-  "cluster_id": "c10737c2159e7"
- },
- {
-  "title": "İsrail'in Gazze'ye saldırısında anne, baba ve 1 yaşındaki bebekleri hayatını kaybetti",
-  "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzeye-saldirisinda-anne-baba-ve-1-yasindaki-bebekleri-hayatini-kaybetti/3947136",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail'in Gazze'deki hava saldırısında aynı aileden anne, baba ve 1 yaşındaki bebekler hayatını kaybetti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T07:00:52.865254+00:00",
-  "cluster_id": "ce85c15982698"
  }
 ]
