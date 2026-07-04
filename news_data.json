@@ -1,5 +1,41 @@
 [
  {
+  "title": "Memur ve emekli zamları netleşti: İşte yeni rakamlar ve ödeme takvimi",
+  "link": "https://www.trthaber.com/haber/gundem/memur-ve-emekli-zamlari-netlesti-iste-yeni-rakamlar-ve-odeme-takvimi-950210.html",
+  "source": "TRT Haber",
+  "summary_tr": "Haziran enflasyon verilerine göre milyonlarca memur, memur emeklisi, SSK ve BağKur emeklisinin yılın ikinci yarısında zam alacak. Yeni rakamlar ve ödeme takvimi açıklandı.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-07-04T07:01:04.597378+00:00",
+  "type": "news",
+  "cluster_id": "c1c4c915b901b"
+ },
+ {
+  "title": "Sigara bırakma tedavisinde yeni karar: Resmi Gazete'de yayımlandı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/sigara-birakma-tedavisinde-yeni-karar-resmi-gazete-de-yayimlandi-2517889",
+  "source": "Cumhuriyet",
+  "summary_tr": "Sigarayı bırakma tedavisi gören 1 milyon kişiye cumhurbaşkanı kararıyla ücretsiz ilaç desteği sağlanacak.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-04T07:01:04.597378+00:00",
+  "type": "news",
+  "cluster_id": "cb9d8ceb4ed2e"
+ },
+ {
+  "title": "Sigarayı bırakmak isteyen 1 milyon kişiye ücretsiz ilaç desteği sağlanacak",
+  "link": "https://www.trthaber.com/haber/ekonomi/sigarayi-birakmak-isteyen-1-milyon-kisiye-ucretsiz-ilac-destegi-saglanacak-950207.html",
+  "source": "TRT Haber",
+  "summary_tr": "Cumhurbaşkanı Erdoğan imzasıyla Resmi Gazete'de yayımlanan karara göre sigarayı bırakma tedavisi alan 1 milyon kişiye ücretsiz ilaç desteği sağlanacak.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-04T07:01:04.597378+00:00",
+  "type": "news",
+  "cluster_id": "c04cc53271f71"
+ },
+ {
   "title": "Zelenskiy, Sumi'ye düzenlenen saldırıda 4 kişinin öldüğünü, 27 kişinin yaralandığını bildirdi",
   "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-sumiye-duzenlenen-saldirida-4-kisinin-oldugunu-27-kisinin-yaralandigini-bildirdi/3985832",
   "source": "Anadolu Ajansı",
@@ -54056,35 +54092,5 @@
   "score": 8,
   "ts": "2026-05-24T12:01:06.901809+00:00",
   "cluster_id": "c76d691a66545"
- },
- {
-  "title": "CHP Genel Merkezi'ne yürümek isteyen il başkanlarına biber gazı",
-  "link": "https://www.sozcu.com.tr/chp-genel-merkezi-ne-yurumek-isteyen-il-baskanlarina-biber-gazi-p322444",
-  "source": "Sözcü",
-  "summary_tr": "Polis, CHP Genel Merkezi'ne yürümek isteyen il başkanlarına biber gazıyla müdahale etti.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-24T12:01:06.901809+00:00",
-  "cluster_id": "cf4a306ee8732"
- },
- {
-  "title": "CHP Genel Merkezi’nde tansiyon yüksek: Kılıçdaroğlu 'tahliye' istedi; CHP'li vekiller içeriden barikatlar kurdu; polis müdahalesi başladı!",
-  "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPUG9PTmN6eFhRSEZfNWRUWEZzODBFNjVmRGhZNm50YklzdG9SY1NETU9RSEdrSlg4N1BLNGI3eHU0dl9ucUtHdndwSFZvcTRhSkdVTURWcU1kUkdGSWlDTXdLRUVNa3F3bmUwcGI1STJDYUU5TXdKWUh2NVEwOFRLTUU1OERfdjc1SF8zZHNacDVjWnZtR016ZlVfcXpZR3YyeU5CRjgtZDFzb25NVy10TVBrZUxKTU1MTGUwTnhJU0IxSFlhb01MNGgyYkZLWTBhZU5falZiSWtnVHNLVEZHVS05bm9hUlJXbVREN2h1UTdmY2pNcTJnSzhGZE5EbkI5Yy1NQg?oc=5",
-  "source": "T24",
-  "summary_tr": "CHP Genel Merkezi'nde gerginlik: Kılıçdaroğlu tahliye istedi, CHP vekillerinin barikat kurması üzerine polis müdahale başladı.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-24T12:01:06.901809+00:00",
-  "cluster_id": "c81a2f3cd1766"
- },
- {
-  "title": "Pezeşkiyan’dan ABD açıklaması: Son sözü Hamaney söyleyecek",
-  "link": "https://www.cumhuriyet.com.tr/dunya/pezeskiyan-dan-abd-aciklamasi-son-sozu-hamaney-soyleyecek-2506593",
-  "source": "Cumhuriyet",
-  "summary_tr": "İran Cumhurbaşkanı Pezeşkiyan, ABD-İran anlaşmasında son sözü Hamaney'in söyleyeceğini belirtti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T12:01:06.901809+00:00",
-  "cluster_id": "c3e239ce7e733"
  }
 ]
