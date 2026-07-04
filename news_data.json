@@ -1,5 +1,29 @@
 [
  {
+  "title": "Russian defence ministry says its forces captured Kostiantynivka in eastern Ukraine",
+  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQ0RBRmlpN2UtbDdMQUpmZDNuaXozSW1uMm1qWTBoT3lWc25yamFFUklpYW81bFk4ZHY4cVVqdGtIU0o2bGlpeldFcjJ4b1d4aGxxQTlzS1R0T2JxRXplR1M0MGphWnpTdVFzcFJQUGFPVWhmNUFISVNHSURvYnpOMnBUVVhHWlpOekJNUkxKS3N3cEZlYUlJZzhScllvc29yVFV6UmFNa2Q0cGRqQ2dkSUhERHoyS1dxelBGVS1NM0lwOE5iN1VZSWlxaXUwZzdtQmFGenJHaVVKalE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya Savunma Bakanlığı, güçlerinin Ukrayna'nın doğusundaki Kostiantynivka şehrini ele geçirdiğini duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-04T00:01:07.026936+00:00",
+  "type": "news",
+  "cluster_id": "c7ef03edb1331"
+ },
+ {
+  "title": "Gelir İdaresi Başkanlığı bazı vergi düzenlemelerinin uygulama esaslarını belirledi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/gelir-idaresi-baskanligi-bazi-vergi-duzenlemelerinin-uygulama-esaslarini-belirledi/3985804",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Hazine ve Maliye Bakanlığı, yurt dışındaki varlıkların Türkiye'ye getirilmesine ilişkin vergi düzenlemelerinin uygulama esaslarını belirledi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-04T00:01:07.026936+00:00",
+  "type": "news",
+  "cluster_id": "ce6eb24394926"
+ },
+ {
   "title": "Kremlin: Rus ordusu, Donetskte Konstantinovka şehrini ele geçirdi",
   "link": "https://www.trthaber.com/haber/dunya/kremlin-rus-ordusu-donetskte-konstantinovka-sehrini-ele-gecirdi-950193.html",
   "source": "TRT Haber",
@@ -54036,25 +54060,5 @@
   "score": 6,
   "ts": "2026-05-24T11:00:49.968307+00:00",
   "cluster_id": "c249386efbf75"
- },
- {
-  "title": "Son Dakika... CHP Grup Başkanvekili Murat Emir: Birazdan İçişleri Bakanı ile görüşeceğiz",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-chp-grup-baskanvekili-murat-emir-birazdan-icisleri-bakani-ile-gorusecegiz-2506577",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Grup Başkanvekili Murat Emir, CHP Genel Merkezi tahliye gerginliğinin ardından İçişleri Bakanı ile görüşme yapacağını açıkladı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-24T11:00:49.968307+00:00",
-  "cluster_id": "ccfef48c27df9"
- },
- {
-  "title": "CHP'de heyetlerin görüşmesi iptal edildi",
-  "link": "https://www.trthaber.com/haber/gundem/chpde-heyetlerin-gorusmesi-iptal-edildi-946135.html",
-  "source": "TRT Haber",
-  "summary_tr": "Mahkemece görevine iade edilen Kemal Kılıçdaroğlu ile Özgür Özel'in heyetlerinin görüşmesi iptal edildi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-24T11:00:49.968307+00:00",
-  "cluster_id": "c6328ac10f7fb"
  }
 ]
