@@ -1,5 +1,65 @@
 [
  {
+  "title": "Resmi Gazete'de yayımlandı: İşsizlik Fonu istihdam desteği yüzde 50'ye çıkarıldı!",
+  "link": "https://www.sozcu.com.tr/resmi-gazete-de-yayimlandi-issizlik-fonu-istihdam-destegi-yuzde-50-ye-cikarildi-p333593",
+  "source": "Sözcü",
+  "summary_tr": "İşsizlik Sigortası Fonu'nun istihdam desteği Cumhurbaşkanı kararıyla %50'ye çıkarıldı. Hükümet istihdam koruma programını genişletiyor.",
+  "metric": "İşsizlik Fonu istihdam desteği -> %50 (+%25)",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-04T05:01:07.088684+00:00",
+  "type": "news",
+  "cluster_id": "c11620ce69b60"
+ },
+ {
+  "title": "Varlık barışı geri geldi: Parasını getirenden 20 yıl vergi alınmayacak",
+  "link": "https://www.sozcu.com.tr/varlik-barisi-geri-geldi-parasini-getirenden-20-yil-vergi-alinmayacak-p333591",
+  "source": "Sözcü",
+  "summary_tr": "Varlık barışı düzenlemesi 2027'ye kadar uzatıldı. Parasını getiren vatandaşlardan 20 yıl boyunca vergi alınmayacak.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-04T05:01:07.088684+00:00",
+  "type": "news",
+  "cluster_id": "c8c23d03dd1c6"
+ },
+ {
+  "title": "Bütün tahminler altüst oldu! Altın eylülde bu rakamı görecek!",
+  "link": "https://www.sozcu.com.tr/butun-tahminler-altust-oldu-altin-eylulde-bu-rakami-gorecek-p333596",
+  "source": "Sözcü",
+  "summary_tr": "JPMorgan, stratejik sektörlerden gelen altın talebinin zayıflayacağını öngörüyor ve eylül için düşük fiyat hedefi belirliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-04T05:01:07.088684+00:00",
+  "type": "news",
+  "cluster_id": "c5536e0367b83"
+ },
+ {
+  "title": "Sigarayı bırakmak isteyene ücretsiz ilaç!",
+  "link": "https://www.sozcu.com.tr/sigarayi-birakmak-isteyene-ucretsiz-ilac-p333589",
+  "source": "Sözcü",
+  "summary_tr": "Cumhurbaşkanı kararıyla sigara bırakma tedavisi gören 1 milyon kişiye sosyal güvence şartı aranmaksızın ücretsiz ilaç verilecek.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-04T05:01:07.088684+00:00",
+  "type": "news",
+  "cluster_id": "ccd9d46917701"
+ },
+ {
+  "title": "Murat Batı | Sigarada ÖTV düşürüldü ama vergi yükü arttı: Bu sigaraya zam olarak yansıyacak mı?",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMDRUY2d4NGNnaHBkTEZaS1VyTzllZHVPU05iTGdta3pNcExETDBUX0Z0clFVeDJ4aV9uY2k3bXhQaG9ieUdrNkJ3X3h4NTBPNFFUc1BSdUFYWHlrd3prRG9JTzQ3M0d0NzhqTEpZUGtkSkZHUTRaNVFFN3VLQkNndFpaRDdRQk5TWGw3ZE9GQnpxVFN2V1ctd2pJRDlEQ2N0dUNTTGpxeVAxNlZtYVRqeWhHbEw1WjBnU2FRTDJxR19NX0U?oc=5",
+  "source": "T24",
+  "summary_tr": "Sigara ÖTV'si düşürülmesine rağmen genel vergi yükü arttı; bu artış sigaraya zam olarak yansıyabilir.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-04T05:01:07.088684+00:00",
+  "type": "news",
+  "cluster_id": "c4b58f5430ee2"
+ },
+ {
   "title": "Erdoğan'ın zammı 3 emeklinin maaşı",
   "link": "https://www.sozcu.com.tr/erdogan-in-zammi-3-emeklinin-maasi-p333576",
   "source": "Sözcü",
@@ -54020,55 +54080,5 @@
   "score": 7,
   "ts": "2026-05-24T12:01:06.901809+00:00",
   "cluster_id": "cabc5eabcb849"
- },
- {
-  "title": "İran Cumhurbaşkanı Pezeşkiyan: Dünyaya, nükleer silah peşinde olmadığımıza ilişkin güvence vermeye hazırız",
-  "link": "https://www.aa.com.tr/tr/dunya/iran-cumhurbaskani-pezeskiyan-dunyaya-nukleer-silah-pesinde-olmadigimiza-iliskin-guvence-vermeye-haziriz/3947378",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran Cumhurbaşkanı Pezeşkiyan, nükleer silah üretmeyi hedeflemediğini ve dünyaya güvence verebileceğini söyledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T12:01:06.901809+00:00",
-  "cluster_id": "c90d724e11c10"
- },
- {
-  "title": "Turkey orders police to evict ousted opposition leadership from headquarters",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMnMwZ0FRRTdCSVoxX0t2aXBkaWZneGZLVlJFM2lYb2dJZkV4S3pHLTJUbE1lVWY0UU8waVRVNjA2enN0azhZdGtfRERVUFFXWURjUEpZVFdvRWZseWh2UnRqMmJpQmR3VmNRbXkybG1XQ0hpZ2YxNjktaGN5eGxoNmFfWnFlQ2R6dWotMzI5SGtnQU5ZLWd5MGtyVklLek80ZVhHZmd0QU1XWjVjOUVBeWswZ3VxRG1OOHVCQUJIbw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Türkiye polis tarafından muhalefet liderliğinin genel merkez binasından tahliye emri verdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-24T11:00:49.968307+00:00",
-  "cluster_id": "c198308efe8be"
- },
- {
-  "title": "Russia says it hit Ukraine with hypersonic and ballistic missiles, state news agencies report",
-  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRVItRkM4MTdzR3hxWk1SUUI1Um5Xa3BrejhJNnlTdC1UUnZNQ3ZjU00yMVpvUzFvQlI0T2M2Ums0MEk3cWlFRDRfSjZpN0thQkoza1NSRk1zTlkzUDRNRjZZZnRUQnYwei1NanU3clUtamJuRDRfa2I0bDVMcWVPZEN0LUpKV2VxOHJFdHRJY3ZwZkc3Z3dUWVlTa2tuNzJMZkpSS2JyTWozMEVEYk1McGlzYUNJWkdxZGJZMVVWbzRpdjc0aFktMWhqNGtpN21U?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Rusya, Ukrayna'ya hipersonik ve balistik füzelerle saldırı düzenlediğini duyurdu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-24T11:00:49.968307+00:00",
-  "cluster_id": "c6f228018076d"
- },
- {
-  "title": "At least 24 killed in Pakistan train blast claimed by separatist militants",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa2p2dFBGZGJLX3hVNUxOQUxCS0Y5MjdhTG1TMGRaakFXSHNJUXVWLVRTSmUwRWZ2SmlNNmNoVkVaNWUwaDd1b0s5S3V5MjJFTlk3d2pXamlfcC1nYUpYVHp6NGFnLUgwdTl4SEdjWkp1MjZ6QXh3YmJvd3VtbVJpOG56RXo4MUpGQ0RUMjI0Q2hoOEo5ZTF3dGhKOHN2d1RBSmlYSVZpV2pRbDZzMDZtU0xIaUVBQV9iZV9HenY5UXNBUV9M?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Pakistan'da tren patlamasında en az 24 kişi öldü; ayrılıkçı militanlar saldırıyı üstlendi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-24T11:00:49.968307+00:00",
-  "cluster_id": "cf7ae916da2f8"
- },
- {
-  "title": "CHP'li Emir: \"Tek çıkış yolu acil kurultay\"",
-  "link": "https://www.dw.com/tr/chp-li-emir-tek-çıkış-yolu-acil-kurultay/a-77279427?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "CHP Grup Başkanvekili Murat Emir, partinin iç krizine çözüm olarak acil kurultay çağrısı yaptı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T11:00:49.968307+00:00",
-  "cluster_id": "ce69e9532f159"
  }
 ]
