@@ -1,5 +1,53 @@
 [
  {
+  "title": "2026 Temmuz ayı dul ve yetim aylığı ne kadar oldu? Dul maaşına ne kadar zam geldi?",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/2026-temmuz-ayi-dul-ve-yetim-ayligi-ne-kadar-oldu-dul-maasina-ne-kadar-zam-geldi-2518025",
+  "source": "Cumhuriyet",
+  "summary_tr": "Temmuz 2026'de dul ve yetim aylığı artışı gerçekleşti; vatandaşın sosyal yardım geliri yeniden düzenlendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-04T15:01:10.074321+00:00",
+  "type": "news",
+  "cluster_id": "c425cb9b5fe2f"
+ },
+ {
+  "title": "Tarımdaki plansızlığın faturası: 'Kırmızı altın' çay fiyatına düştü",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/tarimdaki-plansizligin-faturasi-kirmizi-altin-cay-fiyatina-dustu-2518017",
+  "source": "Cumhuriyet",
+  "summary_tr": "Çay üreticileri, girdi maliyetlerinin artması ve tarım politikasındaki öngörüsüzlük nedeniyle ağır kayıplarla karşı karşıya; çay fiyatları rekor düşüşe uğradı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-04T15:01:10.074321+00:00",
+  "type": "news",
+  "cluster_id": "c4f5f4ca22c3b"
+ },
+ {
+  "title": "Bakan Memişoğlu'ndan 'sigara' hesabı: 'Türkiye'de kişi başı sağlık harcaması 840 dolar, sigara harcaması ise 1024 dolar'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/bakan-memisoglu-ndan-sigara-hesabi-turkiye-de-kisi-basi-saglik-harcamasi-840-dolar-sigara-harcamasi-ise-1024-dolar-2518021",
+  "source": "Cumhuriyet",
+  "summary_tr": "Sağlık Bakanı Memişoğlu, kişi başı sigara harcamasının 1.024 dolar, sağlık harcamasının 840 dolar olduğunu bildirdi; sigara tüketiminin ekonomik yükünü vurguladı.",
+  "metric": "Kişi başı sigara harcaması 1.024 dolar (sağlık harcaması 840 dolara kıyasla)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-04T15:01:10.074321+00:00",
+  "type": "news",
+  "cluster_id": "c396dfdc131f0"
+ },
+ {
+  "title": "Rusya: Ukrayna'nın Rus topraklarına düzenlediği hava saldırıları cevapsız kalmayacak",
+  "link": "https://www.trthaber.com/haber/dunya/rusya-ukraynanin-rus-topraklarina-duzenledigi-hava-saldirilari-cevapsiz-kalmayacak-950249.html",
+  "source": "TRT Haber",
+  "summary_tr": "Rusya, Ukrayna'nın Rus topraklarına düzenlediği hava saldırılarının cevapsız kalmayacağını ilan etti; savaş tırmanışı riski artıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-04T15:01:10.074321+00:00",
+  "type": "news",
+  "cluster_id": "c2ef504518584"
+ },
+ {
   "title": "Asya borsalarında 'yapay zeka' rüzgârı: Güney Kore ve Japonya'da sert yükseliş",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/asya-borsalarinda-yapay-zeka-ruzgari-guney-kore-ve-japonya-da-sert-yukselis-2518000",
   "source": "Cumhuriyet",
@@ -54126,45 +54174,5 @@
   "score": 8,
   "ts": "2026-05-24T15:00:55.667152+00:00",
   "cluster_id": "c76518ba97f5a"
- },
- {
-  "title": "Trump İran için düğmeye bastı: Hata yapılmasına yer yok",
-  "link": "https://www.cumhuriyet.com.tr/dunya/trump-iran-icin-dugmeye-basti-hata-yapilmasina-yer-yok-2506641",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Başkanı Trump, İran ile müzakerelerin düzenli ilerlediğini, anlaşma için acele edilmeyeceğini belirtti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-24T15:00:55.667152+00:00",
-  "cluster_id": "c298a1654f617"
- },
- {
-  "title": "ABD Dışişleri Bakanı Rubio: İran ile anlaşma taslağında ilerleme kaydedildi",
-  "link": "https://www.trthaber.com/haber/dunya/abd-disisleri-bakani-rubio-iran-ile-anlasma-taslaginda-ilerleme-kaydedildi-946156.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD Dışişleri Bakanı Rubio, İran ile olası anlaşmaya ilişkin taslakta ilerleme kaydedildiğini bildirdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-24T15:00:55.667152+00:00",
-  "cluster_id": "ceca74917a53b"
- },
- {
-  "title": "İsrail, Lübnan'ın güneyinde ambulansı vurdu: 1 sağlık çalışanı hayatını kaybetti",
-  "link": "https://www.trthaber.com/haber/dunya/israil-lubnanin-guneyinde-ambulansi-vurdu-1-saglik-calisani-hayatini-kaybetti-946155.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail ordusunun Lübnan güneyinde bir ambulans aracını vurması sonucunda 1 sağlık çalışanı hayatını kaybetti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-24T15:00:55.667152+00:00",
-  "cluster_id": "c99f7daca7429"
- },
- {
-  "title": "Turkish riot police force ousted opposition leadership out of headquarters",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMnMwZ0FRRTdCSVoxX0t2aXBkaWZneGZLVlJFM2lYb2dJZkV4S3pHLTJUbE1lVWY0UU8waVRVNjA2enN0azhZdGtfRERVUFFXWURjUEpZVFdvRWZseWh2UnRqMmJpQmR3VmNRbXkybG1XQ0hpZ2YxNjktaGN5eGxoNmFfWnFlQ2R6dWotMzI5SGtnQU5ZLWd5MGtyVklLek80ZVhHZmd0QU1XWjVjOUVBeWswZ3VxRG1OOHVCQUJIbw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Türk polis, mahkeme kararı uyarınca CHP Genel Merkezi'nden muhalefet liderliğini çıkarttı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-24T15:00:55.667152+00:00",
-  "cluster_id": "c4fd2a3766e77"
  }
 ]
