@@ -1,5 +1,101 @@
 [
  {
+  "title": "Yeni bir ittifak geliyor: Ali Babacan doğruladı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/yeni-bir-ittifak-geliyor-ali-babacan-dogruladi-2517933",
+  "source": "Cumhuriyet",
+  "summary_tr": "DEVA Partisi lideri Ali Babacan, Yeniden Refah ve Saadet Partisi'nin sorunları aştığını doğruladı; Gelecek Partisi ile diğer partileri içeren yeni bir ittifak geliyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-04T10:01:14.207770+00:00",
+  "type": "news",
+  "cluster_id": "cb9a00a07cd22"
+ },
+ {
+  "title": "Katil İsrail'in Gazze Şeridindeki saldırılarında can kaybı 73 bin 90'a çıktı",
+  "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazze-seridindeki-saldirilarinda-can-kaybi-73-bin-90a-cikti-950221.html",
+  "source": "TRT Haber",
+  "summary_tr": "İsrail ordusunun Ekim 2023'ten bu yana Gazze Şeridi'ne düzenlediği saldırılarda hayatını kaybedenlerin sayısı 73 bin 90'a yükseldi.",
+  "metric": "Gazze ölü sayısı: 73.090",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-04T10:01:14.207770+00:00",
+  "type": "news",
+  "cluster_id": "c275ef686659c"
+ },
+ {
+  "title": "Rusya Konstantinovka şehrini ele geçirdi, Ukrayna St. Petersburg'a saldırdı",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa2w4Y05IZlFuTHRpTVFNZWVla2g0aHJDWFU4c2xMTnRYNExQa2d4SnBGMGd5TnJFQlgwMnFseDRKX2JLOFI4UF9ub1F0cGhQZlAtekNFN1hTaEpBRzNKZ0NyQ1U4U1dXdzNjUVI2WllYeFFmVWt0NjVCa0tlbEZVeGJWUXd5ZGprS3NDOEg4cmZkVjRoaHNzMlRYZ1lGNzByVl82eHBoekRRWWFMa2JR?oc=5",
+  "source": "soL",
+  "summary_tr": "Rusya Konstantinovka şehrini ele geçirdi; Ukrayna St. Petersburg'a drone saldırısı düzenledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-04T10:01:14.207770+00:00",
+  "type": "news",
+  "cluster_id": "c43fdc0539a55"
+ },
+ {
+  "title": "St Petersburg region port, oil terminal hit in major Ukrainian drone attack",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdG5OWkQ3QVl5emhaZDcyRE9PNU5mSF93SVk5RmU0ME4tNjYyTEVOT3RQaGR4Y3pqWnh1NVlQTm1TTFFnel95RG9UNjlTbjU0aWdkWHZjV05EcnNVaTVLVDdHRzF6TGxGQkYxTVk5R0htcll0T3FJT3pKSFVxcGthc0VTdlg3TkdWWDdkZ0JONGVCbk9Yd3d2RzBPcnRoVEJCc3BNRUFJSXpzSDJLeVZlZnl1TUdsOVI2WkY4ZA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "St. Petersburg bölgesinde liman ve petrol terminali Ukrayna'nın büyük ölçekli drone saldırısında hedef alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-04T10:01:14.207770+00:00",
+  "type": "news",
+  "cluster_id": "c051d3ea89020"
+ },
+ {
+  "title": "Kadirlili emekli: 'Bu emekli yeni bir hükümet arayışına girmek zorunda'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/kadirlili-emekli-bu-emekli-yeni-bir-hukumet-arayisina-girmek-zorunda-2517934",
+  "source": "Cumhuriyet",
+  "summary_tr": "Kadirli'deki emekliler, maaşlarına yapılacak zammın yetersiz olduğunu ifade etti ve yeni bir hükümet arayışına girmek zorunda olduklarını söyledi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-04T10:01:14.207770+00:00",
+  "type": "news",
+  "cluster_id": "c17b75fbce549"
+ },
+ {
+  "title": "Balıkesir'de emeklilerden açıklanan maaş zammına tepki",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/balikesir-de-emeklilerden-aciklanan-maas-zammina-tepki-2517929",
+  "source": "Cumhuriyet",
+  "summary_tr": "Balıkesir'de emekliler, açıklanan maaş zammına tepki göstererek enflasyon karşısında yetersiz olduğunu vurguladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-04T10:01:14.207770+00:00",
+  "type": "news",
+  "cluster_id": "c85b3d2b732ca"
+ },
+ {
+  "title": "Türkiye ile AB arasındaki e-ticaretin kesintisiz sürmesi için yeni adım",
+  "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-ile-ab-arasindaki-e-ticaretin-kesintisiz-surmesi-icin-yeni-adim/3985940",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ticaret Bakanı Ömer Bolat, Türkiye ile AB arasındaki e-ticaretin kesintisiz sürmesi için yeni uygulamayı devreye aldığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-04T10:01:14.207770+00:00",
+  "type": "news",
+  "cluster_id": "cd77182121920"
+ },
+ {
+  "title": "Türkiye ile AB arasında kesintisiz eticaret için yeni adım",
+  "link": "https://www.trthaber.com/haber/ekonomi/turkiye-ile-ab-arasinda-kesintisiz-e-ticaret-icin-yeni-adim-950225.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ticaret Bakanı Ömer Bolat, Türkiye ile AB arasındaki e-ticaretin kesintisiz sürmesi için yeni uygulamayı devreye aldığını belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-04T10:01:14.207770+00:00",
+  "type": "news",
+  "cluster_id": "cd77182121920"
+ },
+ {
   "title": "Ekonomiye kaynak arayışında 'varlık barışı' dönemi: Yurtdışından gelene 20 yıl vergi muafiyeti!",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/ekonomiye-kaynak-arayisinda-varlik-barisi-donemi-yurtdisindan-gelene-20-yil-vergi-muafiyeti-2517916",
   "source": "Cumhuriyet",
@@ -54026,85 +54122,5 @@
   "score": 8,
   "ts": "2026-05-24T13:00:54.315252+00:00",
   "cluster_id": "c7fd452f7feee"
- },
- {
-  "title": "#chpde mutlak butlan gerilimi",
-  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KS2NQcmhNTFFwZlBROXhUMTltdHRZV1B3WHFzSUs2VWZsUGt5czBWWVJEWU54Y0N6MHMwRGlXUDRSY1VRXzAtU1NoRDYwTFM5MEFPeHoyM1J4S1N5NU5lMDU5RGk5MFFfMF93TVl5Q205dnA5?oc=5",
-  "source": "T24",
-  "summary_tr": "CHP'de mutlak butlan gerilimi: Mahkeme kararıyla Kılıçdaroğlu'nun genel başkanlığa getirilmesi ve Özgür Özel'in tahliyesi sürecindeki çatışma.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-24T13:00:54.315252+00:00",
-  "cluster_id": "cfb3e3028b45e"
- },
- {
-  "title": "Turkish riot police enter opposition headquarters to evict ousted leaders",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZkFROUtlb3FQWWh6czFCQWZJejlwajlCdHhyZlp6Nll1UjQ5azhST2xXWGRQYndNNFhBZnBmOVNBeHFTbTE0dWw5WWVQVkdLdFRsOWZjWVNNSGRVOFRSd3ZVcFZTeEpJdGcwNk5qb2Eyb0FvcjYtOXplMHNHRV9RWUFGR3VvdjdrdWxpYnhqZHItM1BxOXlEblY3dTBuaWdHVHgycmx2aXJBdk8zbmIwcWgySWUxRkNKdHNmQVVOS09fQQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Turkish riot police entered CHP opposition headquarters to evict ousted leaders following court decision.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-24T13:00:54.315252+00:00",
-  "cluster_id": "c89f58c43b391"
- },
- {
-  "title": "Turkish riot police enter opposition headquarters to evict ousted leadership",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMnMwZ0FRRTdCSVoxX0t2aXBkaWZneGZLVlJFM2lYb2dJZkV4S3pHLTJUbE1lVWY0UU8waVRVNjA2enN0azhZdGtfRERVUFFXWURjUEpZVFdvRWZseWh2UnRqMmJpQmR3VmNRbXkybG1XQ0hpZ2YxNjktaGN5eGxoNmFfWnFlQ2R6dWotMzI5SGtnQU5ZLWd5MGtyVklLek80ZVhHZmd0QU1XWjVjOUVBeWswZ3VxRG1OOHVCQUJIbw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Turkish riot police entered CHP opposition headquarters to evict ousted leadership following court decision.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-24T13:00:54.315252+00:00",
-  "cluster_id": "c89f58c43b391"
- },
- {
-  "title": "Özel: \"Bedenimizi teslim alabilirler ama mücadele sürecek\"",
-  "link": "https://www.dw.com/tr/özel-bedenimizi-teslim-alabilirler-ama-mücadele-sürecek/a-77279719?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel, polis müdahalesine karşı 'Bu parti savaş meydanlarında kuruldu' diyerek mücadelenin devam edeceğini açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T13:00:54.315252+00:00",
-  "cluster_id": "c3f26dc6992a9"
- },
- {
-  "title": "İmamoğlu: Darbeci, yargı kolları başkanı, kukla ve dahili bedhah kayyım; hepiniz aynı yerdesiniz",
-  "link": "https://www.diken.com.tr/imamoglu-darbeci-yargi-kollari-baskani-kukla-ve-dahili-bedhah-kayyim-hepiniz-ayni-yerdesiniz/?utm_source=rss&utm_medium=rss&utm_campaign=imamoglu-darbeci-yargi-kollari-baskani-kukla-ve-dahili-bedhah-kayyim-hepiniz-ayni-yerdesiniz",
-  "source": "Diken",
-  "summary_tr": "İstanbul Büyükelçisi İmamoğlu, mahkeme kararını 'darbeci' ve 'kukla' olarak nitelendirerek sert bir açıklama yaptı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T13:00:54.315252+00:00",
-  "cluster_id": "cee6138a34c7d"
- },
- {
-  "title": "Kukla ve dahili bedhah kayyım: İmamoğlu'ndan Kılıçdaroğlu'na",
-  "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOd0c4aHJoZDN4cWxxazYtVTlHTDFHdmRXWk9vZUtfTDhRbk82TWFnZ2VIcXZvNXpScFByZGRZZDIxLXh3Z014RzQ3c2wzWV9ab01JTlBKNDNpQXVxS25sOEJQMDVvZkRsSlRsc1Rhc1NRUEFFU0FpdHBMMnJFc2F2UDhsQVNvNkVwRkVXeDB3RDhGZkY2SW5MVTkxRkJyOERzdHhIRkNPZUVrQmY5cXY0Y2YzMU9VdnY1RkNocjkwYlpvcExmZWZEUVluSF9kMDByYjZzLXlBUm1tZFBRZXFwMGJaT0ExLWdzbEMtZFJhZDM5ZDFXdzZkelBBcw?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "İmamoğlu, Kılıçdaroğlu'na 'kukla' ve 'dahili bedhah kayyım' nitelemesiyle tepki gösterdi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T13:00:54.315252+00:00",
-  "cluster_id": "c409e6df441d1"
- },
- {
-  "title": "Baba ocağında polisleri gören Mahmut Tanal hüngür hüngür ağladı",
-  "link": "https://www.sozcu.com.tr/mahmut-tanal-hungur-hungur-agladi-p322450",
-  "source": "Sözcü",
-  "summary_tr": "CHP Genel Merkezi'ne sert polis müdahalesinin ardından Şanlıurfa milletvekili Mahmut Tanal gözyaşlarını tutamadı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-24T13:00:54.315252+00:00",
-  "cluster_id": "c7627a623b5e0"
- },
- {
-  "title": "CHP Genel Merkezi'ne çevik kuvvet ekipleri girdi, Özel 'Sonuna kadar mücadele edeceğiz' dedi",
-  "link": "https://www.bbc.com/turkce/articles/ceqpw2wv7qeo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Mahkeme kararıyla genel başkanlığa getirilen Kılıçdaroğlu için çevik kuvvet ekipleri CHP Genel Merkezi'ne girdi; Özel direneceğini açıkladı.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-24T12:01:06.901809+00:00",
-  "cluster_id": "ca0600d62f6e1"
  }
 ]
