@@ -1,5 +1,29 @@
 [
  {
+  "title": "Asya borsalarında 'yapay zeka' rüzgârı: Güney Kore ve Japonya'da sert yükseliş",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/asya-borsalarinda-yapay-zeka-ruzgari-guney-kore-ve-japonya-da-sert-yukselis-2518000",
+  "source": "Cumhuriyet",
+  "summary_tr": "Asya borsalarında yapay zeka yatırımları ve çip talebi damga vurdu. Güney Kore borsası yüzde 101'lik rekor getiri elde etti.",
+  "metric": "Güney Kore borsa getirisi %101",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-04T14:01:03.207033+00:00",
+  "type": "news",
+  "cluster_id": "c6a1fef30e005"
+ },
+ {
+  "title": "Evlilik kredisine 285 binden fazla başvuru yapıldı",
+  "link": "https://www.trthaber.com/haber/gundem/evlilik-kredisine-285-binden-fazla-basvuru-yapildi-950243.html",
+  "source": "TRT Haber",
+  "summary_tr": "Aile ve Sosyal Hizmetler Bakanı Göktaş, Evlenecek Gençlerin Desteklenmesi Projesi'ne 285 binden fazla başvuru yapıldığını açıkladı.",
+  "metric": "Evlilik kredisi başvurusu 285.000+",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-04T14:01:03.207033+00:00",
+  "type": "news",
+  "cluster_id": "cc18479775680"
+ },
+ {
   "title": "Ukrayna'dan St. Petersburg'a İHA saldırısı: Petrol terminali alevler içinde",
   "link": "https://www.bbc.com/turkce/articles/cn0784njj71o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -54142,25 +54166,5 @@
   "score": 8,
   "ts": "2026-05-24T15:00:55.667152+00:00",
   "cluster_id": "c4fd2a3766e77"
- },
- {
-  "title": "Turkey’s main opposition party in standoff over court-ordered leadership",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLW81WmxCTG9iNTVNZlJoZTZQYlpDSmREYVRQTDQzRjlUM1N4dWtNalJ0QlFZQ2dPc2FFdkV5X0hybW5zNFVnT0NRcGlNTUpERWh0Uy1uMlppQjVpdk5NcTU4UnBpYlVUdF9NWVBZblFfbHAwZ3lTRlg5MnhlSkplQnNUalowV0ltSEZrMHZhRXg1bFNn?oc=5",
-  "source": "AP",
-  "summary_tr": "Türkiye'nin ana muhalefet partisi CHP, mahkeme kararı neticesinde liderlik konusunda çatışma yaşıyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-24T15:00:55.667152+00:00",
-  "cluster_id": "cfe4191fcdfe5"
- },
- {
-  "title": "Özgür Özel TOMA'ya çıktı: Makam odasını meraklısına bıraktık",
-  "link": "https://www.diken.com.tr/ozgur-ozel-tomaya-cikti-makam-odasini-meraklisina-biraktik/?utm_source=rss&utm_medium=rss&utm_campaign=ozgur-ozel-tomaya-cikti-makam-odasini-meraklisina-biraktik",
-  "source": "Diken",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel, polis müdahalesi sırasında TOMA aracına çıkarak kitleye hitap etti.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T15:00:55.667152+00:00",
-  "cluster_id": "c1b326e8ce121"
  }
 ]
