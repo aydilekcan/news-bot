@@ -1,5 +1,53 @@
 [
  {
+  "title": "Müsavat Dervişoğlu'ndan en düşük emekli aylığı artışına tepki: '20 bin lira ile geçinemeyen emekli 23 bin lirayla nasıl geçinecek?'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/musavat-dervisoglu-ndan-en-dusuk-emekli-ayligi-artisina-tepki-20-bin-lira-ile-gecinemeyen-emekli-23-bin-lirayla-nasil-gecinecek-2517945",
+  "source": "Cumhuriyet",
+  "summary_tr": "İYİ Parti Genel Başkanı Dervişoğlu, emekli aylığında 3.500 TL artışın yetersiz olduğunu; 20 bin liradan geçinemeyenin 23 bin lirayla nasıl geçineceğini sorgulamıştır.",
+  "metric": "En düşük emekli aylığı +3.500 TL",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-04T11:01:36.997678+00:00",
+  "type": "news",
+  "cluster_id": "c2d5850b84fc8"
+ },
+ {
+  "title": "Çin menşeli dişçilik malzemesi ithalatına damping önlemi",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/cin-menseli-discilik-malzemesi-ithalatina-damping-onlemi-2517941",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ticaret Bakanlığı, Çin menşeli dişçilik malzemeleri ithalatında dampinge karşı koruma önlemi aldı; ithalatçılar adet başına 8.555 dolar ek ödeyecekler.",
+  "metric": "Damping karşı ceza: 8.555 USD/adet",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-04T11:01:36.997678+00:00",
+  "type": "news",
+  "cluster_id": "c42476a2cad92"
+ },
+ {
+  "title": "Ayçiçeği ithalatında yeni tarife kontenjanı",
+  "link": "https://www.sozcu.com.tr/aycicegi-ithalatinda-yeni-tarife-kontenjani-p333687",
+  "source": "Sözcü",
+  "summary_tr": "Ticaret Bakanlığı, yağlık ayçiçeği tohumu ve ham ayçiçeği yağı ithalatında yeni tarife kontenjanı açtı; çiftçinin teşvik edilerek üretiminin artırılması hedefleniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-04T11:01:36.997678+00:00",
+  "type": "news",
+  "cluster_id": "c6ddada527e26"
+ },
+ {
+  "title": "Yağlık ayçiçeği tohumu ve ham ayçiçeği yağı ithalatında tarife kontenjanıyla üretim artışı hedefleniyor",
+  "link": "https://www.aa.com.tr/tr/ekonomi/yaglik-aycicegi-tohumu-ve-ham-aycicegi-yagi-ithalatinda-tarife-kontenjaniyla-uretim-artisi-hedefleniyor/3985959",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ticaret Bakanlığı, yağlık ayçiçeği tohumu ve ham ayçiçeği yağı ithalatında tarife kontenjanı uygulaması ile çiftçilerin teşvik edilerek üretiminin artırılmasını hedefliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-04T11:01:36.997678+00:00",
+  "type": "news",
+  "cluster_id": "cbf9d3be0787d"
+ },
+ {
   "title": "Yeni bir ittifak geliyor: Ali Babacan doğruladı",
   "link": "https://www.cumhuriyet.com.tr/turkiye/yeni-bir-ittifak-geliyor-ali-babacan-dogruladi-2517933",
   "source": "Cumhuriyet",
@@ -54082,45 +54130,5 @@
   "score": 8,
   "ts": "2026-05-24T13:00:54.315252+00:00",
   "cluster_id": "cf331f9947baa"
- },
- {
-  "title": "Özgür Özel tahliye tebligatını yırttı: Geri gelmek üzere çıkıyorum",
-  "link": "https://www.diken.com.tr/ozgur-ozel-tahliye-tebligatini-yirtti-geri-gelmek-uzere-cikiyorum/?utm_source=rss&utm_medium=rss&utm_campaign=ozgur-ozel-tahliye-tebligatini-yirtti-geri-gelmek-uzere-cikiyorum",
-  "source": "Diken",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel, mahkeme tarafından kendisine ulaştırılan tahliye tebligatını yırttı ve 'geri gelmek üzere çıkıyorum' dedi.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-24T13:00:54.315252+00:00",
-  "cluster_id": "c6a3ffbffeb70"
- },
- {
-  "title": "CHP Genel Başkanı Özgür Özel tebligatı yırttı, TBMM'ye yürüyor!",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-genel-baskani-ozgur-ozel-tebligati-yirtti-tbmm-ye-yuruyor-2506626",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel, 'mutlak butlan' kararı sonrası tahliye tebligatını yırttı ve TBMM'ye yürüdü.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-24T13:00:54.315252+00:00",
-  "cluster_id": "c241e8fb36db8"
- },
- {
-  "title": "Özgür Özel, kendisine ulaştırılan tebligatı yırttı: 'Bunun için yıktılar baba ocağını'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-kendisine-ulastirilan-tebligati-yirtti-bunun-icin-yiktilar-baba-ocagini-2506623",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP lideri Özgür Özel, genel merkezde kendisine ulaştırılan tahliye tebligatını yırttı: 'Bunun için yıktılar baba ocağını'.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-24T13:00:54.315252+00:00",
-  "cluster_id": "c8ce46e6b7a1a"
- },
- {
-  "title": "SON DAKİKA",
-  "link": "https://www.sozcu.com.tr/son-dakika-veya-ozgur-ozel-tbmm-ye-yuruyor-p322451",
-  "source": "Sözcü",
-  "summary_tr": "Polis müdahalesinin ardından CHP lideri Özgür Özel parti binasının bahçesinde muhabirlerle konuştu.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-24T13:00:54.315252+00:00",
-  "cluster_id": "c7fd452f7feee"
  }
 ]
