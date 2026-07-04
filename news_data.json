@@ -1,5 +1,41 @@
 [
  {
+  "title": "Trump, İsrail Başbakanı Netanyahu'nun Beyaz Saray'da görüşme talep ettiğini belirtti",
+  "link": "https://www.aa.com.tr/tr/dunya/trump-israil-basbakani-netanyahunun-beyaz-sarayda-gorusme-talep-ettigini-belirtti/3986306",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, İsrail Başbakanı Netanyahu'nun gelecek hafta Beyaz Saray'da görüşme talebinde bulunduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-04T18:01:01.955994+00:00",
+  "type": "news",
+  "cluster_id": "c773795ebdb15"
+ },
+ {
+  "title": "Turkey's Erdogan says Israel must not scupper US-Iran deal",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0ViRlNyVWgyNWhQRFFuQ3A3SHhQV3VyRmxDQlBEQnVZVU1jdk5ZdEhMVHhSeHZZR2FYTk94cFM5THdSRHV5c25EQjJ4cFJaZHhFVTNWaG1IUEQxTDBGYU5Ca2syUE5oQUM5UUJ6bm1IeEdBS0phcjl1MUVhd1VFV3k5VDN5MG9Ea0lQNzZvSTY0MHlzTVMycWJpSWgwNGZjUGlVVVhRSjQ0VHo2bG5tYm93?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, İsrail'in ABD-İran anlaşmasını engellememesi gerektiğini bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-04T18:01:01.955994+00:00",
+  "type": "news",
+  "cluster_id": "c505d415f9164"
+ },
+ {
+  "title": "TUFE (yillik): %32,11 (Haziran 2026)",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNXEtamMtN3E3Yk5FLUNSOXExcWE4WDBNRWlnM1ZFajlVOEpLQ1lubXlQS1lZWjdZRTFQVWdJMERoWUZ5T1BYRm91WlRCM3hzbVMxcDBWWm1YV1JBY1ZNbWNkY25nWERiOGVwQjkxZEJtQTdkY2hma1NRMmF0Y3hBajgwRHppbExRUFVramVqZTFHUXlsY1E2NDh5X0RpQ2MxRUpxcnd0NnJLQ1pHOFB4b25wWE81emJ0TkJEWTVKTC0?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%32,11 → %32,11",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-04T18:01:01.955994+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Rusya, Ukrayna tarafına Konstantinovka’da geçici ateşkes teklif etti",
   "link": "https://www.aa.com.tr/tr/dunya/rusya-ukrayna-tarafina-konstantinovka-da-gecici-ateskes-teklif-etti/3986279",
   "source": "Anadolu Ajansı",
@@ -54154,35 +54190,5 @@
   "score": 8,
   "ts": "2026-05-24T16:00:54.374161+00:00",
   "cluster_id": "ca7a9368badb4"
- },
- {
-  "title": "Turkish police storm offices of main opposition CHP party, firing tear gas and rubber bullets",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLW81WmxCTG9iNTVNZlJoZTZQYlpDSmREYVRQTDQzRjlUM1N4dWtNalJ0QlFZQ2dPc2FFdkV5X0hybW5zNFVnT0NRcGlNTUpERWh0Uy1uMlppQjVpdk5NcTU4UnBpYlVUdF9NWVBZblFfbHAwZ3lTRlg5MnhlSkplQnNUalowV0ltSEZrMHZhRXg1bFNn?oc=5",
-  "source": "AP",
-  "summary_tr": "Türk polis, muhalefet partisi CHP'nin ofislerine baskın düzenledi; biber gazı ve plastik mermi kullanıldı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-24T16:00:54.374161+00:00",
-  "cluster_id": "cd3796fd5bd4a"
- },
- {
-  "title": "Dünya ajansları Ankara’yı böyle duyurdu: CHP Genel Merkezi’nde gazlı müdahale",
-  "link": "https://www.cumhuriyet.com.tr/dunya/dunya-ajanslari-ankara-yi-boyle-duyurdu-chp-genel-merkezi-nde-gazli-mudahale-2506650",
-  "source": "Cumhuriyet",
-  "summary_tr": "AFP, AP ve Reuters, CHP Genel Merkezi'ne polis müdahalesini uluslararası camiaya duyurdu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T16:00:54.374161+00:00",
-  "cluster_id": "cfcd1ceeebf39"
- },
- {
-  "title": "Kemal Kılıçdaroğlu'nun bazı kurmayları, CHP Genel Merkezine geldi",
-  "link": "https://www.sozcu.com.tr/kemal-kilicdaroglu-nun-bazi-kurmaylari-chp-genel-merkezine-geldi-p322471",
-  "source": "Sözcü",
-  "summary_tr": "Mahkeme tarafından CHP Genel Başkanlığına iade edilen Kemal Kılıçdaroğlu'nun kurmayları, Genel Merkez'de incelemeler yaptı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T16:00:54.374161+00:00",
-  "cluster_id": "cb58ddcf90aca"
  }
 ]
