@@ -1,5 +1,29 @@
 [
  {
+  "title": "Dış ticaret açığı 53.1 milyar doları buldu",
+  "link": "https://www.sozcu.com.tr/dis-ticaret-acigi-53-1-milyar-dolari-buldu-p333583",
+  "source": "Sözcü",
+  "summary_tr": "Yılın ilk yarısında dış ticaret açığı 53,1 milyar dolara ulaştı. İhracat %3,6 artarken ithalat %4,6 yükseldi.",
+  "metric": "Dış ticaret açığı 53,1 milyar dolar",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-04T01:00:59.527210+00:00",
+  "type": "news",
+  "cluster_id": "c8f2e2041e7df"
+ },
+ {
+  "title": "Varlık barışı geri döndü! Son tarih 31 Temmuz",
+  "link": "https://www.sozcu.com.tr/varlik-barisi-geri-dondu-son-tarih-31-temmuz-p333584",
+  "source": "Sözcü",
+  "summary_tr": "Gelir İdaresi Başkanlığı, varlık barışı düzenlemesinin uygulama esaslarını yayımladı. Son başvuru tarihi 31 Temmuz.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-04T01:00:59.527210+00:00",
+  "type": "news",
+  "cluster_id": "ca921657e682c"
+ },
+ {
   "title": "Russian defence ministry says its forces captured Kostiantynivka in eastern Ukraine",
   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQ0RBRmlpN2UtbDdMQUpmZDNuaXozSW1uMm1qWTBoT3lWc25yamFFUklpYW81bFk4ZHY4cVVqdGtIU0o2bGlpeldFcjJ4b1d4aGxxQTlzS1R0T2JxRXplR1M0MGphWnpTdVFzcFJQUGFPVWhmNUFISVNHSURvYnpOMnBUVVhHWlpOekJNUkxKS3N3cEZlYUlJZzhScllvc29yVFV6UmFNa2Q0cGRqQ2dkSUhERHoyS1dxelBGVS1NM0lwOE5iN1VZSWlxaXUwZzdtQmFGenJHaVVKalE?oc=5",
   "source": "Reuters",
@@ -54040,25 +54064,5 @@
   "score": 6,
   "ts": "2026-05-24T11:00:49.968307+00:00",
   "cluster_id": "ce12c59c6cbc4"
- },
- {
-  "title": "Son Dakika... CHP'li Akçakoca Belediye Başkanı Fikret Albayrak görevden uzaklaştırıldı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-chp-li-akcakoca-belediye-baskani-fikret-albayrak-gorevden-uzaklastirildi-2506582",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'li Akçakoca Belediye Başkanı Fikret Albayrak irtikap suçlamasıyla görevden uzaklaştırıldı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-24T11:00:49.968307+00:00",
-  "cluster_id": "c249386efbf75"
- },
- {
-  "title": "Akçakoca Belediye Başkanı görevden uzaklaştırıldı",
-  "link": "https://www.trthaber.com/haber/gundem/akcakoca-belediye-baskani-gorevden-uzaklastirildi-946140.html",
-  "source": "TRT Haber",
-  "summary_tr": "Düzce Akçakoca Belediye Başkanı Fikret Albayrak İçişleri Bakanlığınca görevden uzaklaştırıldı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-24T11:00:49.968307+00:00",
-  "cluster_id": "c249386efbf75"
  }
 ]
