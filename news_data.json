@@ -1,5 +1,29 @@
 [
  {
+  "title": "Erdoğan'ın zammı 3 emeklinin maaşı",
+  "link": "https://www.sozcu.com.tr/erdogan-in-zammi-3-emeklinin-maasi-p333576",
+  "source": "Sözcü",
+  "summary_tr": "Cumhurbaşkanı Erdoğan'ın aldığı ek gelir, 3 emeklinin aylığına eşit. Asgari ücretli temmuz'da ara zam alamadı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-04T03:00:57.776048+00:00",
+  "type": "news",
+  "cluster_id": "c9f299e5d30d8"
+ },
+ {
+  "title": "TCMB altınları sat sat bitiremedi",
+  "link": "https://www.sozcu.com.tr/tcmb-altinlari-sat-sat-bitiremedi-p333574",
+  "source": "Sözcü",
+  "summary_tr": "TCMB mayıs'ta 3 ton, ocak-mayıs döneminde 81 ton altın sattı.",
+  "metric": "TCMB altın satışı (ocak-mayıs): 81 ton",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-04T03:00:57.776048+00:00",
+  "type": "news",
+  "cluster_id": "c00809a48103a"
+ },
+ {
   "title": "Hakan Fidan, Trump’ın sözlerindeki o kısmı görmezden geldi: ‘Zirveye Rutte için de giderdim’",
   "link": "https://www.cumhuriyet.com.tr/turkiye/hakan-fidan-trump-in-sozlerindeki-o-kismi-gormezden-geldi-zirveye-rutte-icin-de-giderdim-2517818",
   "source": "Cumhuriyet",
@@ -54046,25 +54070,5 @@
   "score": 7,
   "ts": "2026-05-24T11:00:49.968307+00:00",
   "cluster_id": "ce69e9532f159"
- },
- {
-  "title": "Paşinyan: \"Türkiye ve Gürcistan üzerinden demir yolu bağlantısı açıldı\"",
-  "link": "https://www.dw.com/tr/paşinyan-türkiye-ve-gürcistan-üzerinden-demir-yolu-bağlantısı-açıldı/a-77279366?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Ermenistan Başbakanı Paşinyan, Türkiye-Gürcistan demir yolu hattının ticarete açıldığını duyurdu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T11:00:49.968307+00:00",
-  "cluster_id": "c2e45f53ce03b"
- },
- {
-  "title": "Son Dakika... CHP Genel Merkezi'nde müdahale başladı: İl başkanlarına polis engeli",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-chp-il-baskanlarina-polis-mudahalesi-2506575",
-  "source": "Cumhuriyet",
-  "summary_tr": "Polis, CHP Genel Merkezi'ne yürümeye çalışan il başkanlarına biber gazı ve su sıkarak müdahale etti.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T11:00:49.968307+00:00",
-  "cluster_id": "cadb67759cb02"
  }
 ]
