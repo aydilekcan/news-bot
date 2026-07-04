@@ -1,5 +1,101 @@
 [
  {
+  "title": "Ukrayna'dan St. Petersburg'a İHA saldırısı: Petrol terminali alevler içinde",
+  "link": "https://www.bbc.com/turkce/articles/cn0784njj71o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Ukrayna, St. Petersburg'daki petrol terminaline İHA saldırısı düzenledi; tesiste yangın çıktı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-04T13:01:03.695246+00:00",
+  "type": "news",
+  "cluster_id": "c5f858da25762"
+ },
+ {
+  "title": "Emeklilerden enflasyon ve maaş zammı tepkisi: 'Geçinemiyoruz, insanca ücret istiyoruz'",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNekxadmRndEdObEEyelMxMHBzQ3pUOGRnVnhMNnAyenpQS3N6OXd2dUhYcV9fQWtEOUozLUcwRGZwS2IwZ1RzSzEwMUQ4QmZmaUE1TGYtY2pCVXJVakxxbTR1SlhtS3c0RkppLUM0eVdQaU1sSFZwWDIzMzVVb0pCUXdsT28tbmFWSHltMFNpMUpJWXA5S0hXNWZHVnh5VmVpWXBhQzJXXzY1TzJucDAzRU8xaDZDNzhqa1F6OA?oc=5",
+  "source": "soL",
+  "summary_tr": "Emekliler enflasyon ve yetersiz maaş zammına tepki göstererek insanca ücret talep ediyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-04T13:01:03.695246+00:00",
+  "type": "news",
+  "cluster_id": "c13c85a610202"
+ },
+ {
+  "title": "Son dakika... Adnan Beker, CHP'den istifa ettiğini duyurdu!",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-adnan-beker-chp-den-istifa-ettigini-duyurdu-2517972",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Ankara Milletvekili Adnan Beker, partisinden istifa ettiğini açıkladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-04T13:01:03.695246+00:00",
+  "type": "news",
+  "cluster_id": "c8626729565e1"
+ },
+ {
+  "title": "Adnan Beker CHP'den istifa etti",
+  "link": "https://www.sozcu.com.tr/adnan-beker-chp-den-istifa-etti-p333701",
+  "source": "Sözcü",
+  "summary_tr": "CHP Ankara Milletvekili Adnan Beker, partisinden istifa ettiğini duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-04T13:01:03.695246+00:00",
+  "type": "news",
+  "cluster_id": "c8626729565e1"
+ },
+ {
+  "title": "Yargıtay kararı: Siyasetçiye 'pislik' demek hakaret sayılmadı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/yargitay-karari-siyasetciye-pislik-demek-hakaret-sayilmadi-2517971",
+  "source": "Cumhuriyet",
+  "summary_tr": "Yargıtay, bir siyasetçiye 'pislik' demek hakaretten sayılmayacağına karar verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-04T13:01:03.695246+00:00",
+  "type": "news",
+  "cluster_id": "c84f99cad5e36"
+ },
+ {
+  "title": "CHP Ankara Milletvekili Adnan Beker, partisinden istifa etti",
+  "link": "https://www.trthaber.com/haber/gundem/chp-ankara-milletvekili-adnan-beker-partisinden-istifa-etti-950239.html",
+  "source": "TRT Haber",
+  "summary_tr": "CHP Ankara Milletvekili Adnan Beker, CHP üyeliğinden istifa ettiğini duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-04T13:01:03.695246+00:00",
+  "type": "news",
+  "cluster_id": "c97bdfe2d49c8"
+ },
+ {
+  "title": "TUFE (aylik): %0,99 (Haziran 2025)",
+  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JeVZrX0EwWklRYkNQTmdxSk9LdmNRMHQxdXVnOGxXblBYaG5VaEJKZkExVnN2WllGTlRrMnVYQ0dmSHN5TjdnOV9kLVliamZRVEE?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%32 → %0,99 (-31,0 puan)",
+  "metric": "-31,0 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-04T13:01:03.695246+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
+  "title": "TUFE (yillik): %32,11 (Haziran 2025)",
+  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JeVZrX0EwWklRYkNQTmdxSk9LdmNRMHQxdXVnOGxXblBYaG5VaEJKZkExVnN2WllGTlRrMnVYQ0dmSHN5TjdnOV9kLVliamZRVEE?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%32,11 → %32,11",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-04T13:01:03.695246+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Hamaney için Tahran'da 'veda ve cenaze' töreni devam ediyor",
   "link": "https://www.bbc.com/turkce/articles/clyrxndzv9zo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -54066,85 +54162,5 @@
   "score": 7,
   "ts": "2026-05-24T15:00:55.667152+00:00",
   "cluster_id": "c1b326e8ce121"
- },
- {
-  "title": "Özgür Özel, Cumhuriyet'e konuştu: 'İktidar yürüyüşünde meydanlar, sokaklar bizim'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-cumhuriyet-e-konustu-iktidar-yuruyusunde-meydanlar-sokaklar-bizim-2506642",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel, mahkeme kararı sonrası basında konuşarak muhalefet direncini vurguladı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T15:00:55.667152+00:00",
-  "cluster_id": "cdc1e763b3240"
- },
- {
-  "title": "Netanyahu told Trump Israel will remain free to act against threats, Israeli source says",
-  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWVhDbVFXYWRENzhZZ1piQTBOSnJpSzFENzJuT2Y3R0ROb3IxOVZqN0tHcTRCaVNDcXZVak10YUJGYWpfOFdoQ3E2UGlNZTVlWEV2dTRNT29iNF84RTFsaVlQQVRZLTlXSXhLYzg1WUF6Z0pFUHNLRWhPWHpzYVI3NE1LV19Kd0lmT2gyalBfZDVSN2xyNUU3MzU0YnhTRmJIVFQ5eTAyY0hiSWFxNURLVEFuTHVnYmpzXzNaTm40YkpaRVlhR0Nxb2RBWjBUdw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Netanyahu, Trump'a İsrail'in tehditlere karşı özgür hareket etme hakkına sahip olduğunu ifade etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T15:00:55.667152+00:00",
-  "cluster_id": "c063e7731a9df"
- },
- {
-  "title": "US Treasury rout tests Washington's tolerance for higher borrowing costs",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbUlHRkl5U0tyN1c0dTU3Rmw5NlRIWTFDcWtSaXRCVkpSLWVsWjlRNmVyYl9OOG9jVFRQUU45UVpVNVU1VVdsVGV4SnozTlVDdjlVcktDRnFaakNrQ1d0REc2TkQzYXRxU0dIbWI5Nm1PcVhid1hxbjdodWhFa0dSQW9ZS2JJRTVYUF95RlA2QTZfeGxJSXYyY0E5Mk1rdTRtUE92WDR2SHNSeWVRUlV3RkdSOUZGZ0QyZm5pWQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD Hazine tahvillerindeki satış, Washington'un artan borçlanma maliyetlerine toleransını test ediyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T15:00:55.667152+00:00",
-  "cluster_id": "c0bfea7e576a1"
- },
- {
-  "title": "'Görüntüler bizi üzüyor' demişti: Kılıçdaroğlu ekibinin ilk işi afiş indirmek oldu",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/goruntuler-bizi-uzuyor-demisti-kilicdaroglu-ekibinin-ilk-isi-afis-indirmek-oldu-2506648",
-  "source": "Cumhuriyet",
-  "summary_tr": "Polis müdahalesiyle CHP Genel Merkezi'ne giren Kılıçdaroğlu ekibi, Özgür Özel'in afişini indirildi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-24T15:00:55.667152+00:00",
-  "cluster_id": "cc035e6c949a3"
- },
- {
-  "title": "Gıdada yeni dönem: Menü ve etiketlerde yeni kurallar açıklandı",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/gidada-yeni-donem-menu-ve-etiketlerde-yeni-kurallar-aciklandi-2506643",
-  "source": "Cumhuriyet",
-  "summary_tr": "Tarım ve Orman Bakanlığı, gıda etiketlerindeki yanıltıcı ifadeleri yasaklayan ve restoran menülerine yeni kurallar getiren düzenleme yayınladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-24T15:00:55.667152+00:00",
-  "cluster_id": "c07d5df269228"
- },
- {
-  "title": "Özgür Özel tahliye tebligatını yırttı: Baba ocağını geri almak üzere çıkıyoruz",
-  "link": "https://www.diken.com.tr/ozgur-ozel-tahliye-tebligatini-yirtti-baba-ocagini-geri-almak-uzere-cikiyoruz/?utm_source=rss&utm_medium=rss&utm_campaign=ozgur-ozel-tahliye-tebligatini-yirtti-baba-ocagini-geri-almak-uzere-cikiyoruz",
-  "source": "Diken",
-  "summary_tr": "CHP Genel Merkezi'ne polis müdahalesi sonrası Özgür Özel tahliye kararını yırtarak TBMM'ye yürüyüş başlattı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T14:00:48.746731+00:00",
-  "cluster_id": "ca1c48b7fac7b"
- },
- {
-  "title": "CHP Genel Merkezi'ne polis müdahalesi... TİP: 'Konu bir parti meselesi değil'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-genel-merkezi-ne-polis-mudahalesi-tip-konu-bir-parti-meselesi-degil-2506634",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Genel Merkezi polis müdahalesiyle tahliye edildi; TİP olayı demokrasi krizi olarak nitelendirdi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T14:00:48.746731+00:00",
-  "cluster_id": "c727e0dbb9058"
- },
- {
-  "title": "CHP Genel Merkezi'ne polis müdahalesi... Cemil Tugay: 'Boyun eğmeyeceğiz'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-genel-merkezi-ne-polis-mudahalesi-cemil-tugay-boyun-egmeyecegiz-2506628",
-  "source": "Cumhuriyet",
-  "summary_tr": "İBB Başkanı Tugay, CHP Genel Merkezi'ne polis müdahalesine tepki göstererek direniş çağrısı yaptı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T14:00:48.746731+00:00",
-  "cluster_id": "c5e183f2f95e3"
  }
 ]
