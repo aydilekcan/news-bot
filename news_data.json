@@ -1,5 +1,29 @@
 [
  {
+  "title": "Kremlin: Putin ve Trump telefonda yaklaşık 1,5 saat görüştü",
+  "link": "https://www.aa.com.tr/tr/dunya/kremlin-putin-ve-trump-telefonda-yaklasik-1-5-saat-gorustu/3986391",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Putin ve Trump telefonda yaklaşık 1,5 saat görüştü. Kremlin Dış Politika Danışmanı Uşakov görüşmeyi duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-04T23:00:56.300345+00:00",
+  "type": "news",
+  "cluster_id": "c802b5c1cd978"
+ },
+ {
+  "title": "Dış ticaret açığı: 5 milyar 610 milyon dolar",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ3huaUszdlBnekJwQjlEWGhqNEd0dHY4eDRYTm8yNnR5cFZReHBKOWVpamRWeGFlNzdCblZLcDNYMUZ3a09Qa3Y3MG1qSy1KMlBlTFlwb2FmV0xwOURZbldHTGVFYW1EM3BjYnBXUUxMVWFEdkk1ZnNzVzhWQmJWTW5kY1ZBeVVDWm44T183NEY3ZnRtV0RWdXhOWnJWdFQ3dnFSMEdPbjhrbFJPNWlpbDhYTlRtZw?oc=5",
+  "source": "TUIK",
+  "summary_tr": "$5.61 milyar → 5 milyar 610 milyon dolar (%-10,9)",
+  "metric": "%-10,9",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-04T23:00:56.300345+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Trump, Hamaney’in cenaze törenini işaret ederek İran'ı tehdit etti",
   "link": "https://www.sozcu.com.tr/trump-hamaney-in-cenaze-torenini-isaret-ederek-iran-i-tehdit-etti-p333766",
   "source": "Sözcü",
@@ -54176,25 +54200,5 @@
   "score": 7,
   "ts": "2026-05-24T17:00:49.685412+00:00",
   "cluster_id": "c2cae8fd488a1"
- },
- {
-  "title": "Efkan Ala: CHP'nin kurumsallaşmış geleneği olan parti içi kavgalarına ayıracak vaktimiz de yok niyetimiz de",
-  "link": "https://www.trthaber.com/haber/gundem/efkan-ala-chpnin-kurumsallasmis-gelenegi-olan-parti-ici-kavgalarina-ayiracak-vaktimiz-de-yok-niyetimiz-de-946162.html",
-  "source": "TRT Haber",
-  "summary_tr": "AK Parti Genel Başkanvekili Efkan Ala, TBMM önünde Cumhurbaşkanı'na yönelik saygısız sloganları kınadığını belirtti.",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-05-24T17:00:49.685412+00:00",
-  "cluster_id": "c85ad3b46cf07"
- },
- {
-  "title": "CHP Genel Merkezi’nde polis müdahalesinin ardından… Kılıçdaroğlu ekibi durumu çikolata yiyerek kutladı!",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-genel-merkezi-nde-polis-mudahalesinin-ardindan-kilicdaroglu-ekibi-durumu-cikolata-yiyerek-kutladi-2506655",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Genel Merkezi polis müdahalesinden sonra Özgür Özel'in TBMM'ye yürümesinin ardından genel merkeze gelen Kılıçdaroğlu ekibi durumu çikolata yiyerek kutladı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-24T17:00:49.685412+00:00",
-  "cluster_id": "c0c49b182800b"
  }
 ]
