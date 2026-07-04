@@ -1,5 +1,17 @@
 [
  {
+  "title": "Ukraine says Russia damaged more than 200 railway locomotives in 2026",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFQwdlh0cWRleHdwbVpJQ2E3cnNvUzE0TGE3RHZiVlZ3SlhDemlsLWlfOG81a1dWX0Iwc0Z4NEk1cmxxc3pCMFh3TDA3X3pVWTcyN0ZQMGRXazFiNlZiblRtblllT2hHUkhxa0VCNTlYWnh2aDZSQUQtY1NjWlRkVFlWbVROZjBjNzRzaGtMMTBwa0g2VDFneU5sc2h6MVlrZkJGcHhmUFdXaGtP?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ukrayna, 2026'da Rusya'nın 200'den fazla demir yolu lokomotifini hasar görmüştür.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-04T16:01:01.635286+00:00",
+  "type": "news",
+  "cluster_id": "c73148a2e673e"
+ },
+ {
   "title": "2026 Temmuz ayı dul ve yetim aylığı ne kadar oldu? Dul maaşına ne kadar zam geldi?",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/2026-temmuz-ayi-dul-ve-yetim-ayligi-ne-kadar-oldu-dul-maasina-ne-kadar-zam-geldi-2518025",
   "source": "Cumhuriyet",
@@ -54164,15 +54176,5 @@
   "score": 6,
   "ts": "2026-05-24T16:00:54.374161+00:00",
   "cluster_id": "cb4e3c313d824"
- },
- {
-  "title": "Özgür Özel TBMM önünde: 'Babaocağını işgalden kurtaracağız'",
-  "link": "https://www.bbc.com/turkce/articles/czx2r42z6zyo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel, mahkeme kararı sonrası polis tarafından boşaltılan genel merkez binası önünde basın açıklaması yaptı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-24T15:00:55.667152+00:00",
-  "cluster_id": "c76518ba97f5a"
  }
 ]
