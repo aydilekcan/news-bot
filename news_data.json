@@ -1,5 +1,17 @@
 [
  {
+  "title": "Trump, Hamaney’in cenaze törenini işaret ederek İran'ı tehdit etti",
+  "link": "https://www.sozcu.com.tr/trump-hamaney-in-cenaze-torenini-isaret-ederek-iran-i-tehdit-etti-p333766",
+  "source": "Sözcü",
+  "summary_tr": "Trump, İran ile görüşmelere Hamaney'in cenaze töreni nedeniyle bir hafta ara verdiklerini açıkladı ve İran'ı tehdit etti.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-07-04T20:00:59.772387+00:00",
+  "type": "news",
+  "cluster_id": "c502289f833fb"
+ },
+ {
   "title": "Hamaney'in cenazesinde milyonarca İranlı intikam yemini etti",
   "link": "https://www.sozcu.com.tr/hamaney-in-cenazesinde-milyonarca-iranli-intikam-yemini-etti-p333757",
   "source": "Sözcü",
@@ -54184,15 +54196,5 @@
   "score": 6,
   "ts": "2026-05-24T17:00:49.685412+00:00",
   "cluster_id": "c0c49b182800b"
- },
- {
-  "title": "Özgür Özel TBMM önünde konuştu: 'Sarayın seçtiği yönetiyorsa CHP kapatılmıştır'",
-  "link": "https://www.bbc.com/turkce/articles/czx2r42z6zyo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel, mahkeme kararıyla görevden alındıktan sonra TBMM önünde konuştu ve 'Sarayın seçtiği yönetim varsa CHP kapatılmıştır' dedi.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-24T16:00:54.374161+00:00",
-  "cluster_id": "cb4f2f217b0ce"
  }
 ]
