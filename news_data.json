@@ -1,5 +1,29 @@
 [
  {
+  "title": "Ukraine's Zelenskiy says he spoke to Trump, calls for 'American resolve' to help end war",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR1ctYWUyVXNZVTQ3Qld0Y2pmMmQ0MFVEUE9qalZVMldzSWlfc0FSdHo2VENpbHhwX2lxWVNzSl9TQWVqMlgyRmNPYkY3OWk0ZjNTQzEyV25CTV9WX1F3dzFFaWJSNEVaQnJqNzNMUzlTWkN4aHFEZ2FYc3cwUTFhdHZzZllIUWVVMnZpQng1MVl1aXRrX045U21NQ3I5eW0yOU1NN2JPNW8wdjRCcDRPcGJBekZ5bXM?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Zelenskiy, Trump ile görüştüğünü belirterek savaşı sonlandırmak için 'Amerikan kararlılığı' çağrısında bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-05T00:00:59.860276+00:00",
+  "type": "news",
+  "cluster_id": "cb1078033277f"
+ },
+ {
+  "title": "Yasal takibe düşen kişi sayısı 4.3 milyonu aştı",
+  "link": "https://www.sozcu.com.tr/yasal-takibe-dusen-kisi-sayisi-4-3-milyonu-asti-p333786",
+  "source": "Sözcü",
+  "summary_tr": "Yasal takibe düşen kişi sayısı 4,3 milyonu aştı. Vatandaşların borç yükü ağırlaşıyor.",
+  "metric": "Yasal takibe düşen kişi sayısı 4,3 milyonu aştı",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-05T00:00:59.860276+00:00",
+  "type": "news",
+  "cluster_id": "c32fc3bc9daf7"
+ },
+ {
   "title": "Kremlin: Putin ve Trump telefonda yaklaşık 1,5 saat görüştü",
   "link": "https://www.aa.com.tr/tr/dunya/kremlin-putin-ve-trump-telefonda-yaklasik-1-5-saat-gorustu/3986391",
   "source": "Anadolu Ajansı",
@@ -54180,25 +54204,5 @@
   "score": 7,
   "ts": "2026-05-24T17:00:49.685412+00:00",
   "cluster_id": "c75a9d8aa82a0"
- },
- {
-  "title": "Mansur Yavaş, Özgür Özel ile görüştü; polis müdahalesine tepki gösterdi",
-  "link": "https://www.sozcu.com.tr/mansur-yavas-ozgur-ozel-ziyareti-sonrasi-konustu-p322478",
-  "source": "Sözcü",
-  "summary_tr": "ABDD Başkanı Mansur Yavaş, CHP Genel Merkezi'ne yönelik polis müdahalesine tepki göstererek Özgür Özel'i ziyaret etti.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T17:00:49.685412+00:00",
-  "cluster_id": "ce6940a4f3d68"
- },
- {
-  "title": "Bakan Fidan, Ukrayna Ulusal Güvenlik ve Savunma Konseyi Sekreteri Umerov ile görüştü",
-  "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-ukrayna-ulusal-guvenlik-ve-savunma-konseyi-sekreteri-umerov-ile-gorustu-946163.html",
-  "source": "TRT Haber",
-  "summary_tr": "Dışişleri Bakanı Hakan Fidan, Ukrayna Ulusal Güvenlik ve Savunma Konseyi Sekreteri Umerov'la Ankara'da görüştü.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T17:00:49.685412+00:00",
-  "cluster_id": "c2cae8fd488a1"
  }
 ]
