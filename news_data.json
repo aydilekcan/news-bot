@@ -1,5 +1,17 @@
 [
  {
+  "title": "X kararı uyguladı: Sol Haber'in hesabı 'görünmez' hale getirildi",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/x-karari-uyguladi-sol-haber-in-hesabi-gorunmez-hale-getirildi-2518325",
+  "source": "Cumhuriyet",
+  "summary_tr": "X platformu, 'milli güvenlik ve kamu düzeni' gerekçesiyle Sol Haber hesabına erişim engeli getirdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-05T22:01:04.235197+00:00",
+  "type": "news",
+  "cluster_id": "cbe55b7ab8f5f"
+ },
+ {
   "title": "Kadıköy’de binlerce kişi NATO Zirvesi'ni protesto etti: 'İstenmiyorsunuz'",
   "link": "https://www.cumhuriyet.com.tr/siyaset/kadikoy-de-binlerce-kisi-nato-zirvesi-ni-protesto-etti-istenmiyorsunuz-2518301",
   "source": "Cumhuriyet",
@@ -54330,15 +54342,5 @@
   "score": 8,
   "ts": "2026-05-25T03:00:54.778868+00:00",
   "cluster_id": "ceb75613169f2"
- },
- {
-  "title": "İktidar, kapısını kırıp CHP’ye girdi",
-  "link": "https://www.sozcu.com.tr/iktidar-kapisini-kirip-chp-ye-girdi-p322525",
-  "source": "Sözcü",
-  "summary_tr": "CHP'nin kayyımla müzakere sonrası İçişleri Bakanlığı polis kullanarak parti binasına girdi.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-25T03:00:54.778868+00:00",
-  "cluster_id": "c578fc44f5322"
  }
 ]
