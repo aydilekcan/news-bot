@@ -1,5 +1,29 @@
 [
  {
+  "title": "Açlık sınırının altındaki en düşük emekli aylığını alanların sayısı 4.9 milyondan 5.1 milyona çıkıyor: Yoksullukta birleştik!",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/aclik-sinirinin-altindaki-en-dusuk-emekli-ayligini-alanlarin-sayisi-4-9-milyondan-5-1-milyona-cikiyor-yoksullukta-birlestik-2518078",
+  "source": "Cumhuriyet",
+  "summary_tr": "Açlık sınırının altında emekli aylığı alanların sayısı 4,9 milyondan 5,1 milyona çıkıyor; milyonlarca yurttaş yoksullukta eşitlendi.",
+  "metric": "Emekli sayısı (açlık sınırı altı) 4,9 milyon -> 5,1 milyon (+200 bin)",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-05T02:01:02.287391+00:00",
+  "type": "news",
+  "cluster_id": "cbef1ba95f1a7"
+ },
+ {
+  "title": "PTT’nin personel sistemi sil baştan değiştiriliyor, iş güvencesi, ücret dahil her şey yönetim kurulunun kararına bırakılıyor: Emekçiye yol göründü!",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/ptt-nin-personel-sistemi-sil-bastan-degistiriliyor-is-guvencesi-ucret-dahil-her-sey-yonetim-kurulunun-kararina-birakiliyor-emekciye-yol-gorundu-2518079",
+  "source": "Cumhuriyet",
+  "summary_tr": "AKP'nin torba teklifle PTT'nin personel sistemi değiştiriliyor; tüm personel idari hizmet sözleşmeli olacak, iş güvencesi ve ücret yönetim kurulunun kararına bırakılıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-05T02:01:02.287391+00:00",
+  "type": "news",
+  "cluster_id": "c81907d0a3d9b"
+ },
+ {
   "title": "Trump offers to help Putin find deal with Ukraine, also speaks with Zelenskiy",
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ3Z6dHlGeW9Jcy1FYzg0OGJMRFhNWlFucnlnalREWTZnQnlrVUxMSm9Mclloclh2QkRqMlRTSDBCNHNBS0VFV08xLUVBejFrVVFKQk5rNGk0YlhiSXZYcFlJbWFqY0tpQWNnTkdNMVRhd0ZYN2s1bThsbk5xMEc2VklRd1pCc1huMDNFTjBlLTlHeE1XaUFudmR6RTE4ejhtUERSREVGNEN0emdyd3RSekJwWm5IRUgzWmdsVGs1dDMtNTg?oc=5",
   "source": "Reuters",
@@ -54186,25 +54210,5 @@
   "score": 8,
   "ts": "2026-05-24T17:00:49.685412+00:00",
   "cluster_id": "c7f9fff6ed16d"
- },
- {
-  "title": "Özgür Özel CHP Genel Merkezi'nden Meclis Parkı'na yürüdü, Kılıçdaroğlu'na seslendi: Sarayın seçtikleri yönetiyorsa CHP kapanmıştır; üzerimizdeki biber gazından gayrı 'arınacağımız' bir şey yok!",
-  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1YnRyZ3V6UTVjTUxKTjI1M3ZDZ19VQm9kNUFtdDFzdVhXNHRfUmU5UjYtVThTbmNlNUQ3ZVBPbEdYZ005T0xSRXVERjc5cnR1ZmNzRWFrTXJmWDRJQ2dmSzlxY3VwQklscTM0VmVIeUxuX1VFcUs0Y1dfd0Q?oc=5",
-  "source": "T24",
-  "summary_tr": "Özgür Özel, CHP Genel Merkezi'nden TBMM'ye yürüyerek Kılıçdaroğlu'na seslendi: 'Sarayın seçtikleri yönetiyorsa CHP kapanmıştır'.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-24T17:00:49.685412+00:00",
-  "cluster_id": "c1867a840d323"
- },
- {
-  "title": "Özgür Özel posteri, CHP Genel Merkezi'nden kaldırıldı",
-  "link": "https://www.diken.com.tr/ozgur-ozel-posteri-chp-genel-merkezinden-kaldirildi/?utm_source=rss&utm_medium=rss&utm_campaign=ozgur-ozel-posteri-chp-genel-merkezinden-kaldirildi",
-  "source": "Diken",
-  "summary_tr": "Polis müdahalesinin ardından CHP Genel Merkezi'nden Özgür Özel posteri kaldırıldı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T17:00:49.685412+00:00",
-  "cluster_id": "c927ff20b6fca"
  }
 ]
