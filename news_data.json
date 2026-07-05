@@ -1,5 +1,29 @@
 [
  {
+  "title": "Son ankette Erdoğan'ı düşündürecek sonuç: AKP'lilerin yüzde 53'ü 'ekonomi iyi değil' diyor",
+  "link": "https://www.sozcu.com.tr/metropol-arastirma-ekonomi-anketi-temmuz-2026-p333955",
+  "source": "Sözcü",
+  "summary_tr": "Metropol anketi: Vatandaşların %75'i ekonominin kötüye gittiğini düşünüyor; AKP seçmeninin %53'ü de 'ekonomi iyi değil' diyor.",
+  "metric": "Ekonomi iyi değil: AKP seçmeni %53, genel nüfus %75",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-05T17:01:02.687314+00:00",
+  "type": "news",
+  "cluster_id": "c7555b4f08127"
+ },
+ {
+  "title": "ÇAY-KUR'dan üçüncü zam",
+  "link": "https://www.sozcu.com.tr/cay-kur-dan-ucuncu-zam-p333957",
+  "source": "Sözcü",
+  "summary_tr": "ÇAY-KUR çaya üçüncü kez zam yapıyor. 2026'ın ilk 6 ayında iki zam yapan işletme yarından itibaren yeniden fiyat artırıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-05T17:01:02.687314+00:00",
+  "type": "news",
+  "cluster_id": "c9063fe0e4f48"
+ },
+ {
   "title": "OPEC+ approves further oil output increase as Hormuz exports start to recover",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY1FJeFM4MnVqdWlMNmZ5M3pqUDAtcm9PcVg0SFVxVHh0dW5SVmhSN21WWFB1MDQ5dDdsc3JNRGxPRXE2bDdhTFVZdHhXdExvSE1KSklESjRUeVZnTUdCR1ppU1FhaVN4WnZGc3BGUWZybUl2Tzk3V3BWTnNVczhYRzJkcDdBNmZGUmQ0NXlOYmNqa09MY2xXNWlrczk4ZWdSRHlQdlpWajQ4QQ?oc=5",
   "source": "Reuters",
@@ -54284,25 +54308,5 @@
   "score": 8,
   "ts": "2026-05-24T22:00:54.700424+00:00",
   "cluster_id": "cde0581abf11a"
- },
- {
-  "title": "Bilgi Üniversitesi yeniden açıldı",
-  "link": "https://www.sozcu.com.tr/bilgi-universitesi-yeniden-acildi-p322510",
-  "source": "Sözcü",
-  "summary_tr": "Erdoğan imzasıyla 3 gün önce kapatılan İstanbul Bilgi Üniversitesi yeniden açıldı.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-24T22:00:54.700424+00:00",
-  "cluster_id": "cde0581abf11a"
- },
- {
-  "title": "Bilgi Üniversitesi açıldı mı? Bilgi Üniversitesi eğitime devam edecek mi?",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/bilgi-universitesi-acildi-mi-bilgi-universitesi-egitime-devam-edecek-mi-2506726",
-  "source": "Cumhuriyet",
-  "summary_tr": "İstanbul Bilgi Üniversitesi Resmi Gazete'de yayımlanan karar ile yeniden eğitime devam edecek.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-24T22:00:54.700424+00:00",
-  "cluster_id": "c561be35dc0b2"
  }
 ]
