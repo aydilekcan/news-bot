@@ -1,5 +1,113 @@
 [
  {
+  "title": "Cumhurbaşkanlığından 'NATO Zirvesi' açıklaması: Hangi konular görüşülecek?",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/cumhurbaskanligindan-nato-zirvesi-aciklamasi-hangi-konular-gorusulecek-2518154",
+  "source": "Cumhuriyet",
+  "summary_tr": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Ankara'da düzenlenecek NATO Zirvesi'nde savunma yatırımları, ittifak güvenliği ve bölgesel konuların görüşüleceğini açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-05T09:01:01.838007+00:00",
+  "type": "news",
+  "cluster_id": "c4724b1959179"
+ },
+ {
+  "title": "İletişim Başkanı Duran'dan NATO Zirvesi'ne ilişkin açıklama",
+  "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-nato-zirvesine-iliskin-aciklama/3986499",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Cumhurbaşkanlığı İletişim Başkanı Duran, NATO Zirvesi'nde savunma yatırımları kararı, ittifak güvenliği ve bölgesel tehditler ele alınacağını belirtti.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-05T09:01:01.838007+00:00",
+  "type": "news",
+  "cluster_id": "cdfded76a754f"
+ },
+ {
+  "title": "İletişim Başkanı Duran, NATO Zirvesi programının detayını açıkladı",
+  "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-nato-zirvesi-programinin-detayini-acikladi-950280.html",
+  "source": "TRT Haber",
+  "summary_tr": "İletişim Başkanı Burhanettin Duran, 8 Temmuz'da Ankara'da düzenlenecek NATO Zirvesi'nin detaylı programını ve gündem maddelerini açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-05T09:01:01.838007+00:00",
+  "type": "news",
+  "cluster_id": "cdfded76a754f"
+ },
+ {
+  "title": "NATO'nun gözü Ankara'da: Liderler zirvesi başlıyor",
+  "link": "https://www.trthaber.com/haber/gundem/natonun-gozu-ankarada-liderler-zirvesi-basliyor-950279.html",
+  "source": "TRT Haber",
+  "summary_tr": "NATO İstanbul 2004 Zirvesi'nden sonra Türkiye, belirsizlik döneminde ittifakın en önemli toplantılarından biriyle Ankara'da NATO Zirvesi'ne ev sahipliği yapacak.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-05T09:01:01.838007+00:00",
+  "type": "news",
+  "cluster_id": "c6e07e81d7747"
+ },
+ {
+  "title": "China, Russia navies to hold drills off China coast",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSkh1azJTOTZ0czF5WkFZZ185TlZPUVdkOERpUGVFTm12ekY4cjdFY2NiUzBrb2lHQ0ducnRkS0E2aGdjMTVfVHAyZ2txNEdGaVhpblFBZG5KTndFc0c1aEtBbHZ4UjVSNWJMRGpzRUMwVXIyU1p6MkV3Y2d5X0FvNkp4YW4xVnlfX25Ic0FTc2JqTFlGTHNVNy01RQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin ve Rusya donanmaları, Çin sahillerinde ortak askeri tatbikat düzenleyecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-05T09:01:01.838007+00:00",
+  "type": "news",
+  "cluster_id": "c206e6137085e"
+ },
+ {
+  "title": "Mazot yerine bu otu kullanmaya başlayınca yakıt masrafları yüzde 80 azaldı",
+  "link": "https://www.sozcu.com.tr/mazot-yerine-bu-otu-kullanmaya-baslayinca-yakit-masraflari-yuzde-80-azaldi-p333871",
+  "source": "Sözcü",
+  "summary_tr": "Mazot yerine ot kullanılan bölgede ısınma yakıt masrafları yüzde 80 azaldı.",
+  "metric": "Yakıt masrafları %80 azaldı",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-05T09:01:01.838007+00:00",
+  "type": "news",
+  "cluster_id": "c55c831fb0844"
+ },
+ {
+  "title": "Altın fiyatlarında 5 hafta sonra ilk",
+  "link": "https://www.sozcu.com.tr/altin-fiyatlarinda-5-hafta-sonra-ilk-p333868",
+  "source": "Sözcü",
+  "summary_tr": "ABD'de tarım dışı istihdam verisinin beklentilerin altında kalması üzerine altın fiyatları 5 haftanın ardından yükselişe geçti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-05T09:01:01.838007+00:00",
+  "type": "news",
+  "cluster_id": "c873375f9c01d"
+ },
+ {
+  "title": "Temmuz ayı yaşlı ve engelli aylıkları hesaplara yatırılmaya başlandı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/temmuz-ayi-yasli-ve-engelli-ayliklari-hesaplara-yatirilmaya-baslandi/3986488",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, temmuz ayı yaşlı ve engelli aylıklarının (toplam 8,1 milyar lira) hesaplara yatırılmaya başlandığını duyurdu.",
+  "metric": "Temmuz yaşlı-engelli aylıkları: 8,1 milyar TL",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-05T09:01:01.838007+00:00",
+  "type": "news",
+  "cluster_id": "c04983df54966"
+ },
+ {
+  "title": "Altın yatırımcısının yüzü 5 hafta sonra güldü",
+  "link": "https://www.trthaber.com/haber/ekonomi/altin-yatirimcisinin-yuzu-5-hafta-sonra-guldu-950282.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD tarım dışı istihdam verisinin zayıf çıkması sonrası altın fiyatları 5 haftanın ardından yükselişe döndü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-05T09:01:01.838007+00:00",
+  "type": "news",
+  "cluster_id": "cb964125287ac"
+ },
+ {
   "title": "Trump’tan Putin’e Ukrayna teklifi: ‘Çözüm bulmaya yardım edebilirim’",
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMXEzUTNka3A1amhUOHJLY0NBajBKNTBlVWhSb3o1UDYxOF82V0RXOF9LNTNjR3FfYTRpY2k2NUZRSUNqamtJT1JyeWFiR2h1WkwtNlVjbm5uY3BWNWRhekFoVFRBQzVPYnd1eE5MQTB5RktPeUFzd0JqdW9yLW95TmpFWDFONG5Ibjk1ckRnS0o3LVF4MjVzS1JxOFl1Q2J2MkNN?oc=5",
   "source": "soL",
@@ -54144,95 +54252,5 @@
   "score": 7,
   "ts": "2026-05-24T19:00:51.014334+00:00",
   "cluster_id": "c843388d66dc1"
- },
- {
-  "title": "Başsavcılıktan, CHP Genel Merkezi'ndeki tahliye sırasında ve sonrasında yaşananlara ilişkin soruşturma",
-  "link": "https://www.aa.com.tr/tr/gundem/bassavciliktan-chp-genel-merkezindeki-tahliye-sirasinda-ve-sonrasinda-yasananlara-iliskin-sorusturma-/3947605",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Ankara Cumhuriyet Başsavcılığı, CHP Genel Merkezi'ndeki tahliye sırasında yaşanan olaylar hakkında soruşturma başlattı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T19:00:51.014334+00:00",
-  "cluster_id": "c9446f6706ec8"
- },
- {
-  "title": "CHP Genel Merkezi'ndeki tahliye sırasında ve sonrasında yaşananlara ilişkin soruşturma",
-  "link": "https://www.trthaber.com/haber/gundem/chp-genel-merkezindeki-tahliye-sirasinda-ve-sonrasinda-yasananlara-iliskin-sorusturma-946165.html",
-  "source": "TRT Haber",
-  "summary_tr": "Ankara Cumhuriyet Başsavcılığı, CHP Genel Merkezi'ndeki tahliye sırasında yaşanan olaylar hakkında soruşturma başlattı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T19:00:51.014334+00:00",
-  "cluster_id": "c9446f6706ec8"
- },
- {
-  "title": "Özgür Özel, 'yeni Genel Merkezi'miz dediği TBMM'de: Partinin kapatılması, faaliyetlerine son vermesi, rakibinin istediği birisinin yönetmesinden evladır",
-  "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPTmhNcEFtMUhpSnJKR2tDV1R0WUhWY3RaQ25FTW5oSWxpdThRZjJKblRZUWRZamRqYVZ1X2l0ODBQd3c5WVhmeHlldXpqMGg4TXpWd3E5MEttMUh2a0hocTB6RmhGbHE1cEFXdFpNNHY0VVNTeHdtVmNORWFMY2FfbURxVDF2Z0dOeFFNRHJpOE1jTGNUcHAwRUZ3WlU5N2hMc3libWpnUTNkY1ZSV0R2MlkzRWsteWFFMVZ6YWh2cldYVEFKbXotWlhfS0dVdmZiYUV0Q0w4cURzTlR1OW1QTkgtNWJIck44Mkxsa2FhNjdiaGlBcnVLV2t3cV9SN3NjY1VGZFIyM2p1elNWUWc?oc=5",
-  "source": "T24",
-  "summary_tr": "CHP Grup Başkanvekili Özgür Özel, TBMM'de partinin kapatılmasından iyedir, rakibinin istediği birinin yönetmesi kabul edilemez dedi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T19:00:51.014334+00:00",
-  "cluster_id": "cf5d8f269a700"
- },
- {
-  "title": "CHP’nin İzmir çağrısına binlerce kişi katıldı: 'Kalplerimize kayyım atayacak halleri yok'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-nin-izmir-cagrisina-binlerce-kisi-katildi-kalplerimize-kayyim-atayacak-halleri-yok-2506679",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'nin 'il başkanlıkları' çağrısına İzmir'de binlerce kişi katıldı; 'mutlak butlan' kararına tepki gösterildi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-24T19:00:51.014334+00:00",
-  "cluster_id": "c7572b70e2e5b"
- },
- {
-  "title": "CHP Genel Merkezi önünde bekleyenleri ezmişti: O aracın plakası sahte çıktı!",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-genel-merkezi-onunde-bekleyenleri-ezmisti-o-aracin-plakasi-sahte-cikti-2506678",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Genel Merkezi önünde yurttaşları ezerek bir kadını yaralan aracın plakası sahte çıktı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-24T19:00:51.014334+00:00",
-  "cluster_id": "c86b48c268da1"
- },
- {
-  "title": "CHP'li ilçe başkanından Kılıçdaroğlu için 'kesin ihraç' başvurusu",
-  "link": "https://www.sozcu.com.tr/kemal-kilicdaroglu-icin-kesin-ihrac-istemli-basvuru-p322487",
-  "source": "Sözcü",
-  "summary_tr": "CHP Ayvalık İlçe Başkanı Kılıçdaroğlu hakkında 'kesin ihraç' başvurusunda bulundu.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-24T19:00:51.014334+00:00",
-  "cluster_id": "ca53df190a8b8"
- },
- {
-  "title": "Özgür Özel'in Meclis yürüyüşüne soruşturma",
-  "link": "https://www.diken.com.tr/ozgur-ozelin-meclis-yuruyusune-sorusturma/?utm_source=rss&utm_medium=rss&utm_campaign=ozgur-ozelin-meclis-yuruyusune-sorusturma",
-  "source": "Diken",
-  "summary_tr": "Ankara Başsavcılığı, CHP Genel Başkanı Özgür Özel'in Meclis yürüyüşüne soruşturma başlattı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T18:00:51.258964+00:00",
-  "cluster_id": "c5793f1c9e851"
- },
- {
-  "title": "Son dakika... Ankara Başsavcılığı’ndan CHP yürüyüşüne soruşturma!",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-ankara-bassavciligi-ndan-chp-yuruyusune-sorusturma-2506668",
-  "source": "Cumhuriyet",
-  "summary_tr": "Ankara Başsavcılığı, Özgür Özel liderliğindeki CHP yürüyüşüne soruşturma başlattı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T18:00:51.258964+00:00",
-  "cluster_id": "cb131a3a971ca"
- },
- {
-  "title": "CHP'nin Meclis yürüyüşüne soruşturma başlatıldı",
-  "link": "https://www.sozcu.com.tr/ozgur-ozel-e-sorusturma-24-mayis-2026-p322479",
-  "source": "Sözcü",
-  "summary_tr": "Ankara Başsavcılığı, CHP'nin Meclis yürüyüşüne soruşturma başlattı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T18:00:51.258964+00:00",
-  "cluster_id": "c616ddeb87762"
  }
 ]
