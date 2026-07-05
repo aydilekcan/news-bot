@@ -1,5 +1,41 @@
 [
  {
+  "title": "Tarih belli oldu: Motorine yine zam geliyor",
+  "link": "https://www.sozcu.com.tr/tarih-belli-oldu-motorine-yine-zam-geliyor-p333816",
+  "source": "Sözcü",
+  "summary_tr": "Petrol fiyatları ve döviz kuru hareketliliği nedeniyle motorine pazartesi gece yarısından itibaren yeni zam uygulanacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-05T06:00:58.511269+00:00",
+  "type": "news",
+  "cluster_id": "c80cb4d21c610"
+ },
+ {
+  "title": "Motorine yine zam geliyor",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SSzhQOU15WGt4eHBQa3pCMmVldXI3eGR1SDBDZFYtaXRuTVJMWFUxcmlJSU00SlJXdFgxUi1VOHo1aFlSN1F2VE5NVkNKOGt0dDZmMkgtWGhoWF9JckpIMXFNNDRlUjZaLWpFVVNEWG4?oc=5",
+  "source": "soL",
+  "summary_tr": "Petrol fiyatları ve döviz kurundaki hareketlilik nedeniyle motorine yeni zam geliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-05T06:00:58.511269+00:00",
+  "type": "news",
+  "cluster_id": "c80cb4d21c610"
+ },
+ {
+  "title": "Dev fabrika kapanıyor: İşçileri çıkarmayıp özel hizmet verecekler",
+  "link": "https://www.sozcu.com.tr/dev-fabrika-kapaniyor-iscileri-cikarmayip-ozel-hizmet-verecekler-p333817",
+  "source": "Sözcü",
+  "summary_tr": "Dev fabrika üretim stratejisini değiştiriyor; işçi çıkarmak yerine özel hizmet verme modeline geçiliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-05T06:00:58.511269+00:00",
+  "type": "news",
+  "cluster_id": "cd10227080465"
+ },
+ {
   "title": "Elektrik gündüzleri bedava oldu: Fiyatı gece iki katına çıkacak",
   "link": "https://www.sozcu.com.tr/elektrik-gunduzleri-bedava-oldu-fiyati-gece-iki-katina-cikacak-p333792",
   "source": "Sözcü",
@@ -54182,35 +54218,5 @@
   "score": 8,
   "ts": "2026-05-24T17:00:49.685412+00:00",
   "cluster_id": "c78d0effb523b"
- },
- {
-  "title": "CHP Genel Merkezi'ne polis müdahalesi: Şişhane'de protesto eylemi düzenlendi",
-  "link": "https://www.diken.com.tr/chp-genel-merkezine-polis-mudahalesi-sishanede-protesto-eylemi-duzenlendi/?utm_source=rss&utm_medium=rss&utm_campaign=chp-genel-merkezine-polis-mudahalesi-sishanede-protesto-eylemi-duzenlendi",
-  "source": "Diken",
-  "summary_tr": "CHP Genel Merkezi'ne polis müdahalesi sonrası İstanbul'da protesto eylemler düzenlendi.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-24T17:00:49.685412+00:00",
-  "cluster_id": "c72c9308dbbe6"
- },
- {
-  "title": "Özel: Dost bildiğimizin ihanetinden gayrı arınacak bir şey yok",
-  "link": "https://www.diken.com.tr/ozel-dost-bildigimizin-ihanetinden-gayri-arinacak-bir-sey-yok/?utm_source=rss&utm_medium=rss&utm_campaign=ozel-dost-bildigimizin-ihanetinden-gayri-arinacak-bir-sey-yok",
-  "source": "Diken",
-  "summary_tr": "Mahkeme kararıyla CHP başkanlığından uzaklaştırılan Özgür Özel, 'dost ihanetinden başka arınacak şey yok' açıklaması yaptı.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-24T17:00:49.685412+00:00",
-  "cluster_id": "cd353b334d848"
- },
- {
-  "title": "CHP Genel Merkezi polis müdahalesiyle tahliye edildi... İstanbullular sokağa akın etti!",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-genel-merkezi-polis-mudahalesiyle-tahliye-edildi-istanbullular-sokaga-akin-etti-2506658",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Genel Merkezi polis müdahalesiyle tahliye edilmesi üzerine İstanbul'da eylemler düzenlendi.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-24T17:00:49.685412+00:00",
-  "cluster_id": "c010874e23572"
  }
 ]
