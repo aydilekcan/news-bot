@@ -1,5 +1,53 @@
 [
  {
+  "title": "Mısır’dan İsrail çıkışı: İşgal bitmeden normalleşme olmaz",
+  "link": "https://www.cumhuriyet.com.tr/dunya/misir-dan-israil-cikisi-isgal-bitmeden-normallesme-olmaz-2518231",
+  "source": "Cumhuriyet",
+  "summary_tr": "Mısır Cumhurbaşkanı Sisi, İsrail ile normalleşmenin işgal sona erdikten sonra mümkün olacağını belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-05T13:01:03.579685+00:00",
+  "type": "news",
+  "cluster_id": "cb5c3327663c3"
+ },
+ {
+  "title": "Diploma, İBB ve casusluk davası... Ekrem İmamoğlu, yarın üç ayrı dosyadan yargılanacak",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/diploma-ibb-ve-casusluk-davasi-ekrem-imamoglu-yarin-uc-ayri-dosyadan-yargilanacak-2518230",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP'nin cumhurbaşkanı adayı Ekrem İmamoğlu, diploma, İBB ve casusluk davalarından üçünde hakim karşısına çıkacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-05T13:01:03.579685+00:00",
+  "type": "news",
+  "cluster_id": "cb1e5b5398be3"
+ },
+ {
+  "title": "Putin NATO Zirvesi öncesi üniformayı giydi, gövde gösterisi yaptı",
+  "link": "https://www.sozcu.com.tr/putin-nato-zirvesi-oncesi-uniformayi-giydi-govde-gosterisi-yapti-p333922",
+  "source": "Sözcü",
+  "summary_tr": "Putin, NATO Zirvesi öncesinde askeri üniformasıyla kameraların karşısına çıkarak güç gösterisi yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-05T13:01:03.579685+00:00",
+  "type": "news",
+  "cluster_id": "c3496c601b0fa"
+ },
+ {
+  "title": "İşgalci İsrail, haziranda Mescidi Aksa'ya 26 baskın düzenledi",
+  "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-haziranda-mescid-i-aksaya-26-baskin-duzenledi-950295.html",
+  "source": "TRT Haber",
+  "summary_tr": "Filistin Vakıfları, haziran ayında İsrail'in Mescidi Aksa'ya 26 baskın düzenlendiğini bildirdi.",
+  "metric": "Mescidi Aksa baskın sayısı (haziran) 26",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-05T13:01:03.579685+00:00",
+  "type": "news",
+  "cluster_id": "c6fb5ca21c803"
+ },
+ {
   "title": "Ukrayna: Rusya, bir haftada 106 füze ve yaklaşık 2 bin 200 SİHA ile saldırdı",
   "link": "https://www.aa.com.tr/tr/dunya/ukrayna-rusya-bir-haftada-106-fuze-ve-yaklasik-2-bin-200-siha-ile-saldirdi/3986590",
   "source": "Anadolu Ajansı",
@@ -54250,45 +54298,5 @@
   "score": 8,
   "ts": "2026-05-24T22:00:54.700424+00:00",
   "cluster_id": "c313a65df6dc6"
- },
- {
-  "title": "Erdoğan kararından geri döndü: Kapatılan Bilgi Üniversitesi yeniden açılacak!",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNXzFCNy1zaHhZcTNmNHNJTURxMFZHMldsNVA5SU54d0pHdDlGcEZaMXZvaERjbkVKdFZjOEduZ3lwcldCOFdzbzA2clNXRU1UZGNUQXZ4RncxaTBuWWZWMFJBaDUwcDZ0LWIwanBNQ1BZdUR3aVdNZ2FoNy1wMXltdm1DZHdSd1lPalRJVHRTNDJJb2JNeG9QRWhJVUJkel9RaVVSMVczTTRUWFVrdWc?oc=5",
-  "source": "T24",
-  "summary_tr": "Erdoğan kararından geri dönerek kapatılan İstanbul Bilgi Üniversitesi yeniden açılacak.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-24T22:00:54.700424+00:00",
-  "cluster_id": "cba3b5f146587"
- },
- {
-  "title": "Bilgi Üniversitesi yeniden açılıyor iddiası: Karar geri çekilecek",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXlPRVRFM0gwbmc5ZGhzY29qQjQyZXpmdGljOXFUX2t6aHpHem4yeXJJWURoWVdxZG53RUo0RXZjbTdSVVJyZWRXOUd1VmdGdHk3VDA1VWppRkxKNXoxZmtfWG14Qm44RjVYSk14MW5TMGxGV3dRNm1JNGtrV1FLeUdxa0ZZTkhyNU51cnJkYl9iUlRMNDNXV2hZNldWbFo0Y1ZyRw?oc=5",
-  "source": "soL",
-  "summary_tr": "İstanbul Bilgi Üniversitesi kapatma kararı geri çekilecek.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-24T22:00:54.700424+00:00",
-  "cluster_id": "c80dbcc5974ee"
- },
- {
-  "title": "İsrail basınına göre, Natenyahu, Trump'ın İran meselesindeki tutumunu etkilemekte zorluk çekiyor",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-basinina-gore-natenyahu-trumpin-iran-meselesindeki-tutumunu-etkilemekte-zorluk-cekiyor/3947673",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Netanyahu, Trump'ın İran meselesindeki tutumunu etkilemekte zorluk çekiyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T22:00:54.700424+00:00",
-  "cluster_id": "c6a706598ea2c"
- },
- {
-  "title": "Iran negotiations, Oreshnik missile strike and Enhanced Games",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRlh4bEpZZ01aemtMbkpOWE9fRnI4QjBKaWMwUEF4REFLSVBwZ1oxYURFYUduSVFsRnVjUTQtTHRYMFJtMElCZ2lpOVdBcmxXai1UQVVHSEw1YjBOUlNGdGtTOHp5a1JhM09DSmtfTDIwZmtKREVDSmlRQ19aQnBkcUJKcTV2bm9welJRVWliM3l1Z2lwYWtJcFFDV2pKQzBQSGZv?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran müzakereleri ve Oreshnik füze saldırısı uluslararası gündemde yer aldı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T22:00:54.700424+00:00",
-  "cluster_id": "c1beddfc8c927"
  }
 ]
