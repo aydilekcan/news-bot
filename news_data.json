@@ -1,5 +1,29 @@
 [
  {
+  "title": "İsrail hükümeti, ülke tarihinde ilk defa Yüksek Mahkeme kararını reddetti",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-hukumeti-ulke-tarihinde-ilk-defa-yuksek-mahkeme-kararini-reddetti/3986799",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail hükümeti, Yüksek Mahkeme'nin ülke tarihinde ilk kez kararını reddetti; hükümet kurumsal denetimin çalışmalarını durdurma kararı aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-05T18:01:02.002921+00:00",
+  "type": "news",
+  "cluster_id": "cb47fd4a1b093"
+ },
+ {
+  "title": "TBMM Başkanı Kurtulmuş: (Terörsüz Türkiye) Ümit ediyorum ki parlamentomuz tatile girmeden bu iş büyük oranda bitmiş olur",
+  "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-terorsuz-turkiye-umit-ediyorum-ki-parlamentomuz-tatile-girmeden-bu-is-buyuk-oranda-bitmis-olur/3986798",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "TBMM Başkanı Kurtulmuş, 'Terörsüz Türkiye' sürecinin parlamentonun tatile girmeden önce büyük oranda tamamlanacağını umduğunu bildirdi.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-05T18:01:02.002921+00:00",
+  "type": "news",
+  "cluster_id": "c66594a2cd1b6"
+ },
+ {
   "title": "Son ankette Erdoğan'ı düşündürecek sonuç: AKP'lilerin yüzde 53'ü 'ekonomi iyi değil' diyor",
   "link": "https://www.sozcu.com.tr/metropol-arastirma-ekonomi-anketi-temmuz-2026-p333955",
   "source": "Sözcü",
@@ -54288,25 +54312,5 @@
   "score": 6,
   "ts": "2026-05-24T23:00:47.502987+00:00",
   "cluster_id": "c246e8dfb5e9a"
- },
- {
-  "title": "Kapatılan Bilgi Üniversitesi üç gün sonra tekrar açıldı",
-  "link": "https://www.bbc.com/turkce/articles/c042x3pn63zo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Cumhurbaşkanı kararıyla kapatılan İstanbul Bilgi Üniversitesi 3 gün sonra yeniden açılma kararı yayımlandı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-24T22:00:54.700424+00:00",
-  "cluster_id": "c76b776812acf"
- },
- {
-  "title": "Karardan dönüldü: Bilgi Üniversitesi yeniden açıldı",
-  "link": "https://www.diken.com.tr/karardan-donuldu-bilgi-universitesi-yeniden-acildi/?utm_source=rss&utm_medium=rss&utm_campaign=karardan-donuldu-bilgi-universitesi-yeniden-acildi",
-  "source": "Diken",
-  "summary_tr": "Cumhurbaşkanı kararıyla kapatılan İstanbul Bilgi Üniversitesi yeniden açılma kararı Resmi Gazete'de yayımlandı.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-24T22:00:54.700424+00:00",
-  "cluster_id": "cde0581abf11a"
  }
 ]
