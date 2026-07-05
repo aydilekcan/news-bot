@@ -1,5 +1,101 @@
 [
  {
+  "title": "Ukrayna: Rusya, bir haftada 106 füze ve yaklaşık 2 bin 200 SİHA ile saldırdı",
+  "link": "https://www.aa.com.tr/tr/dunya/ukrayna-rusya-bir-haftada-106-fuze-ve-yaklasik-2-bin-200-siha-ile-saldirdi/3986590",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ukrayna açıklamasına göre Rusya son haftada 106 füze ve yaklaşık 2.200 SİHA ile saldırdı.",
+  "metric": "Rus füze saldırısı: 106 füze + 2.200 SİHA (1 hafta)",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-05T12:01:04.076660+00:00",
+  "type": "news",
+  "cluster_id": "c3fe0dea0c122"
+ },
+ {
+  "title": "NATO Zirvesi öncesi T24 ve Odatv editörlerine gözaltı",
+  "link": "https://www.dw.com/tr/nato-zirvesi-öncesi-t24-ve-odatv-editörlerine-gözaltı/a-77837295?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "NATO Zirvesi öncesi T24 ve Odatv editörleri gözaltına alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-05T12:01:04.076660+00:00",
+  "type": "news",
+  "cluster_id": "c7c14ba220ac8"
+ },
+ {
+  "title": "Son ankette çok çarpıcı sonuçlar: Özgür Özel'in olası yeni partisi AKP'ye fark atıyor, Kılıçdaroğlu CHP'si barajı geçemiyor",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/son-ankette-cok-carpici-sonuclar-ozgur-ozel-in-olasi-yeni-partisi-akp-ye-fark-atiyor-kilicdaroglu-chp-si-baraji-gecemiyor-2518196",
+  "source": "Cumhuriyet",
+  "summary_tr": "MetroPoll anketine göre Özgür Özel'in yeni partisi AKP'ye fark atıyor; Kılıçdaroğlu yönetimindeki CHP barajı geçemiyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-05T12:01:04.076660+00:00",
+  "type": "news",
+  "cluster_id": "cb71fd6e860cf"
+ },
+ {
+  "title": "Gazeteci, avukat ve akademisyenler gözaltına alındı",
+  "link": "https://www.bbc.com/turkce/articles/c6211mnvlz5o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "İstanbul, İzmir, Kocaeli, Ankara'da 39 gazeteci, avukat ve akademisyen gözaltına alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-05T12:01:04.076660+00:00",
+  "type": "news",
+  "cluster_id": "cfdaf6c32a8a4"
+ },
+ {
+  "title": "TGC'den gazetecilerin gözaltına alınmasına tepki",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/tgc-den-gazetecilerin-gozaltina-alinmasina-tepki-2518197",
+  "source": "Cumhuriyet",
+  "summary_tr": "Türkiye Gazeteciler Cemiyeti, NATO Zirvesi öncesi gazeteci gözaltılarına tepki gösterdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-05T12:01:04.076660+00:00",
+  "type": "news",
+  "cluster_id": "c370d3f387ea3"
+ },
+ {
+  "title": "Hem düşüş hem rekor! Dev bankalar tahminlerini değiştirdi!",
+  "link": "https://www.sozcu.com.tr/hem-dusus-hem-rekor-dev-bankalar-tahminlerini-degistirdi-p333912",
+  "source": "Sözcü",
+  "summary_tr": "Global bankalar 2026 sonu altın fiyat hedefini aşağı revize etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-05T12:01:04.076660+00:00",
+  "type": "news",
+  "cluster_id": "c0ca1a65eef39"
+ },
+ {
+  "title": "İstanbul merkezli 8 ilde terör soruşturmasında 39 gözaltı",
+  "link": "https://www.trthaber.com/haber/turkiye/istanbul-merkezli-8-ilde-teror-sorusturmasinda-39-gozalti-950292.html",
+  "source": "TRT Haber",
+  "summary_tr": "THKP/C DEV YOL örgütünün gençlik yapılanmasına yönelik 8 ilde düzenlenen operasyonlarda 39 gözaltı yapıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-05T12:01:04.076660+00:00",
+  "type": "news",
+  "cluster_id": "c0e7931652ff0"
+ },
+ {
+  "title": "İhracat tutarı: 27 milyon dolar",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VX1N5MHFBTUV3T0d4Vm81aWJyQ0tCUkVZek1ZODBwY0VoS2JKb2FYbmZRZHdPTkZOQVRxVUx5Y2N5QkVGNFdaRXl4OXdMcnhCcDhCdXdQVVZPZTJ4VHlIYjBab25YZ1dxRm1GU1BVNnRXRGZqMW8tYdIBfkFVX3lxTE1HeFpKbUxSOXNmYV9TT2xSbGQ1Nm1XVENiYVRPUVd0UXUzNzZvd1dqX25KLW4yMU11ekMtLVFHUTMxTTJUYmtmQ3pQNDhoOHpLOHpORlNqMjc0TW5JSVdUcHB4XzVuSngtUGxCd2NRZDNHMWNoeGNjSERtWHFmUQ?oc=5",
+  "source": "Ticaret Bakanlığı",
+  "summary_tr": "27 milyon dolar",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-05T12:01:04.076660+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "İsrail, ateşkese rağmen Lübnan'ın güneyinde bir beldeyi vurdu",
   "link": "https://www.aa.com.tr/tr/dunya/israil-ateskese-ragmen-lubnanin-guneyinde-bir-beldeyi-vurdu/3986567",
   "source": "Anadolu Ajansı",
@@ -54194,85 +54290,5 @@
   "score": 7,
   "ts": "2026-05-24T22:00:54.700424+00:00",
   "cluster_id": "c1beddfc8c927"
- },
- {
-  "title": "Resmi Gazete'de yayımlandı: Çok sayıda atama ve görevden alma...",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/resmi-gazete-de-yayimlandi-cok-sayida-atama-ve-gorevden-alma-2506727",
-  "source": "Cumhuriyet",
-  "summary_tr": "Cumhurbaşkanı Erdoğan imzasıyla çok sayıda bakanlık ve kamu kurumunda atama ve görevden alma kararları yayımlandı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-24T22:00:54.700424+00:00",
-  "cluster_id": "ccf1d93f1085a"
- },
- {
-  "title": "Göç İdaresi Başkanlığı'na, Muhammet Selami Yazıcı atandı",
-  "link": "https://www.sozcu.com.tr/goc-idaresi-baskanligi-na-muhammet-selami-yazici-atandi-p322515",
-  "source": "Sözcü",
-  "summary_tr": "Muhammet Selami Yazıcı Göç İdaresi Başkanlığına atandı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-24T22:00:54.700424+00:00",
-  "cluster_id": "c36219395c2e0"
- },
- {
-  "title": "Göç İdaresi Başkanlığına Muhammet Selami Yazıcı atandı",
-  "link": "https://www.trthaber.com/haber/gundem/goc-idaresi-baskanligina-muhammet-selami-yazici-atandi-946177.html",
-  "source": "TRT Haber",
-  "summary_tr": "Muhammet Selami Yazıcı Göç İdaresi Başkanlığına atandı.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-05-24T22:00:54.700424+00:00",
-  "cluster_id": "c36219395c2e0"
- },
- {
-  "title": "Beyaz Saray: İran'la anlaşmanın tamamlanması günler sürebilir",
-  "link": "https://www.aa.com.tr/tr/dunya/beyaz-saray-iranla-anlasmanin-tamamlanmasi-gunler-surebilir/3947650",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Beyaz Saray, ABD-İran anlaşmasının 'iyi bir noktada' olduğunu ancak tamamlanmasının günler sürebileceğini duyurdu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-24T21:00:50.684945+00:00",
-  "cluster_id": "c1bff9bdb1469"
- },
- {
-  "title": "Aydın’dan sonra Afyon: ‘Facebook yetkilerimiz kayyum yöneticileri tarafından kaldırılmıştır’",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/aydin-dan-sonra-afyon-facebook-yetkilerimiz-kayyum-yoneticileri-tarafindan-kaldirilmistir-2506724",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Afyon İl Başkanlığı, mahkeme kararı sonrasında Facebook hesaplarının kayyum yöneticileri tarafından kaldırıldığını duyurdu.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T21:00:50.684945+00:00",
-  "cluster_id": "c94ba70cdf4b3"
- },
- {
-  "title": "‘Bilgi Üniversitesi yeniden açılıyor’ iddiası: Gözler Resmi Gazete’ye çevrildi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/bilgi-universitesi-yeniden-aciliyor-iddiasi-gozler-resmi-gazete-ye-cevrildi-2506713",
-  "source": "Cumhuriyet",
-  "summary_tr": "Bilgi Üniversitesi, öğrenci tepkileri sonrasında kapatma kararından geri adım attı; yeniden açılması bekleniyor.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T21:00:50.684945+00:00",
-  "cluster_id": "cd92800ebbb93"
- },
- {
-  "title": "Polis müdahalesiyle yapılan CHP Genel Merkezi tahliyesinde neler yaşandı?",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPREZoTXlDbTZUalB1N2dxNTlVYnpMb05idVlxb1U5S05Md3B4WUhmRkxscDY1d1hwNGVjU2h6YURtTWk1TGg5T1VqTE5kQkVEWTM5VUx0TWNIa2Z4S3dZNlI3QXN6ZTlQenJZWTE0R0k4aTl0dmxjWU5XVHdrOXJMTkV0TmlMRXRUeHNGU2JzVWxGb3MtTng2SEhURThIa05VOEtnc2NQZVBIOU5y?oc=5",
-  "source": "T24",
-  "summary_tr": "Polis müdahalesi ile CHP Genel Merkezi tahliye edildi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T21:00:50.684945+00:00",
-  "cluster_id": "c4c07014152e3"
- },
- {
-  "title": "DEM Parti İmralı Heyeti Abdullah Öcalan ile görüştü",
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUVFKS2xZSlRYTjhDbUIzbVpMSVozZEEtSW9GbjQxUzBEdEhid3BNNjQ5NHZaOHE5cWZnalBaeHpRTmJEVm9hWko4NjBLTmJwVlcyQU1YdkV5ZzFHdXNTNTc3SEdVT2ZQQ0MtVUdPQVVQSktPRElpNmZMamZGSlA5bmVyNA?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "DEM Parti İmralı Heyeti Abdullah Öcalan ile görüştü.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T21:00:50.684945+00:00",
-  "cluster_id": "c9a26486e2e28"
  }
 ]
