@@ -1,5 +1,53 @@
 [
  {
+  "title": "ABD Başkanı Trump, Ankara'da Zelenskiy ve Şara ile de görüşecek",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-ankarada-zelenskiy-ve-sara-ile-de-gorusecek/3986849",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, Ankara'daki NATO Zirvesi sırasında Zelenskiy ve Suriye Cumhurbaşkanı Şara ile görüşecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-05T20:01:03.645285+00:00",
+  "type": "news",
+  "cluster_id": "c86bd4a92a32f"
+ },
+ {
+  "title": "Trump to meet leaders of Ukraine, Syria alongside NATO summit",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUVSRWRYR0tBanMzMFByTDJXVnVNUGc2R3NYc1ZtWHNaU29MczRvdWN3MU1qQXVpYWNjRWtBSEFwMHFpTFM5TDJRSUJ6RzhCbGUxM3RZbjBCM3k2ZVhMN1hTWjcwcEdPMGRweTZXTW1zeWRESW1tVGVlakNKQVg1UXVyLTFORDJNVmZwT0dIY3loeGpwTFJDN2VzYjhLQlJudzZZOW9B?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, NATO Zirvesi sırasında Ukrayna Devlet Başkanı Zelenskiy ve Suriye liderini ayrı ayrı görecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-05T20:01:03.645285+00:00",
+  "type": "news",
+  "cluster_id": "c390e7ad3b2ce"
+ },
+ {
+  "title": "CHP'li Yavuzyılmaz: NATO Zirvesi bahanesiyle Erdoğan kendine tahsisli havalimanına sahip oldu",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-li-yavuzyilmaz-nato-zirvesi-bahanesiyle-erdogan-kendine-tahsisli-havalimanina-sahip-oldu-2518291",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP'li Yavuzyılmaz, NATO Zirvesi için Esenboğa Havalimanı'nın aşırı kullanımını eleştirdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-05T20:01:03.645285+00:00",
+  "type": "news",
+  "cluster_id": "cd782aedc0e17"
+ },
+ {
+  "title": "TUFE (yillik): %32,11 (Haziran)",
+  "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pc0FOQkcxbVRINjNjYy1OcDZRWktINGVmUmhRZ3FUeHdXelpUNU1UbUtSc2Jjb3ZSUkpMbFI1THY5MlFSNl9UOW53emZmcWhzbnMzek5JZ2xpNW5q?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%32,11 → %32,11",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-05T20:01:03.645285+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "İsrail'in kontrol noktasında beklettiği 4 aylık Filistinli bebek hayatını kaybetti",
   "link": "https://www.sozcu.com.tr/israil-in-kontrol-noktasinda-beklettigi-4-aylik-filistinli-bebek-hayatini-kaybetti-p333973",
   "source": "Sözcü",
@@ -54284,45 +54332,5 @@
   "score": 7,
   "ts": "2026-05-25T03:00:54.778868+00:00",
   "cluster_id": "c3489cb32a8b0"
- },
- {
-  "title": "Taykonotları taşıyan uzay mekiği, Tiengong Uzay İstasyonu'na ulaştı",
-  "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/taykonotlari-tasiyan-uzay-mekigi-tiengong-uzay-istasyonu-na-ulasti-2506733",
-  "source": "Cumhuriyet",
-  "summary_tr": "Çin'in Tiengong Uzay İstasyonu'na yeni taykonot ekibi başarıyla ulaştı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T03:00:54.778868+00:00",
-  "cluster_id": "cae56e6e053a6"
- },
- {
-  "title": "Şıncou23 uzay mekiği Tiengong Uzay İstasyonu'na ulaştı",
-  "link": "https://www.trthaber.com/haber/bilim-teknoloji/sincou-23-uzay-mekigi-tiengong-uzay-istasyonuna-ulasti-946182.html",
-  "source": "TRT Haber",
-  "summary_tr": "Çin'in Tiengong Uzay İstasyonu'na yeni taykonot ekibi başarıyla ulaştı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T03:00:54.778868+00:00",
-  "cluster_id": "cae56e6e053a6"
- },
- {
-  "title": "Katil İsrail'in Lübnan'a hava saldırılarında can kaybı 21'e yükseldi",
-  "link": "https://www.trthaber.com/haber/dunya/katil-israilin-lubnana-hava-saldirilarinda-can-kaybi-21e-yukseldi-946180.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail ordusunun ateşkese rağmen Lübnan'ın güneyine düzenlediği hava saldırılarında ölü sayısı 21'e yükseldi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-25T02:00:50.783297+00:00",
-  "cluster_id": "c655e09bd2402"
- },
- {
-  "title": "Milyonlarca memurun toplu sözleşmesini düzenleyen yasada değişiklik için görüşmeler sürerken, tartışmalı konular da açılıyor: Baraj mı geliyor?",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/milyonlarca-memurun-toplu-sozlesmesini-duzenleyen-yasada-degisiklik-icin-gorusmeler-surerken-tartismali-konular-da-aciliyor-baraj-mi-geliyor-2506703",
-  "source": "Cumhuriyet",
-  "summary_tr": "Milyonlarca memurun zam oranlarini belirleyen toplu sozlesme yasasinda degisiklik calismalari sürüyor; baraj sistemi gibi tartisili konular aciliyor.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-25T02:00:50.783297+00:00",
-  "cluster_id": "c3826c1b443de"
  }
 ]
