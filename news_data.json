@@ -1,5 +1,17 @@
 [
  {
+  "title": "Emekliler Kadıköy'den iktidara seslendi: 'Sadaka değil hakkımızı, lütuf değil adalet istiyoruz'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/emekliler-kadikoy-den-iktidara-seslendi-sadaka-degil-hakkimizi-lutuf-degil-adalet-istiyoruz-2518243",
+  "source": "Cumhuriyet",
+  "summary_tr": "Emekliler Kadıköy'de TÜİK'in yüzde 17,76'lık seyyanen zam oranına tepki göstererek hakkın ödenmesini talep etti.",
+  "metric": "Seyyanen zam oranı %17,76",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-05T14:01:01.198733+00:00",
+  "type": "news",
+  "cluster_id": "c6b44c62a11a0"
+ },
+ {
   "title": "Mısır’dan İsrail çıkışı: İşgal bitmeden normalleşme olmaz",
   "link": "https://www.cumhuriyet.com.tr/dunya/misir-dan-israil-cikisi-isgal-bitmeden-normallesme-olmaz-2518231",
   "source": "Cumhuriyet",
@@ -54288,15 +54300,5 @@
   "score": 8,
   "ts": "2026-05-24T22:00:54.700424+00:00",
   "cluster_id": "cf33f4d994f18"
- },
- {
-  "title": "İstanbul Bilgi Üniversitesi'ne yeniden faaliyet izni verildi",
-  "link": "https://www.trthaber.com/haber/gundem/istanbul-bilgi-universitesine-yeniden-faaliyet-izni-verildi-946176.html",
-  "source": "TRT Haber",
-  "summary_tr": "İstanbul Bilgi Üniversitesinin faaliyet izni iptali kararı Resmi Gazete'de yürürlükten kaldırıldı.",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-05-24T22:00:54.700424+00:00",
-  "cluster_id": "c313a65df6dc6"
  }
 ]
