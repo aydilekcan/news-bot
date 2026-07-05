@@ -1,5 +1,101 @@
 [
  {
+  "title": "Yargıtay'dan milyonlarca evli çifti ilgilendiren karar! Bunu yapan artık nafaka ve tazminat alamayacak...",
+  "link": "https://www.sozcu.com.tr/yargitay-dan-milyonlarca-evli-cifti-ilgilendiren-karar-bunu-yapan-artik-nafaka-ve-tazminat-p333881",
+  "source": "Sözcü",
+  "summary_tr": "Yargıtay, eşini dinleme cihazıyla izleyen kişilerin nafaka ve tazminat alamayacağına karar verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-05T10:01:10.878747+00:00",
+  "type": "news",
+  "cluster_id": "c187757f976e1"
+ },
+ {
+  "title": "Yaşlı ve engelli aylıkları için 8,1 milyar liralık ödeme başladı",
+  "link": "https://www.trthaber.com/haber/ekonomi/yasli-ve-engelli-ayliklari-icin-81-milyar-liralik-odeme-basladi-950286.html",
+  "source": "TRT Haber",
+  "summary_tr": "Temmuz ayına ait toplam 8,1 milyar liralık yaşlı ve engelli aylıkları hesaplara yatırılmaya başlandı.",
+  "metric": "Yaşlı ve engelli aylıkları (Temmuz) 8,1 milyar TL",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-05T10:01:10.878747+00:00",
+  "type": "news",
+  "cluster_id": "c1c07228688d9"
+ },
+ {
+  "title": "RTÜK'ten gazetecilere NATO uyarısı: Yayınlarınızı izliyoruz",
+  "link": "https://www.dw.com/tr/rtük-ten-gazetecilere-nato-uyarısı-yayınlarınızı-izliyoruz/a-77836715?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "RTÜK, NATO Zirvesi öncesinde gazetecilere yayınlarının izlendiğini belirterek 'millî güvenlik' uyarısı yaptı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-05T10:01:10.878747+00:00",
+  "type": "news",
+  "cluster_id": "c0d0c6afac9eb"
+ },
+ {
+  "title": "ABD'nin zayıf istihdam verisi emtia piyasalarını hareketlendirdi",
+  "link": "https://www.sozcu.com.tr/abd-nin-zayif-istihdam-verisi-emtia-piyasalarini-hareketlendirdi-p333886",
+  "source": "Sözcü",
+  "summary_tr": "ABD'nin haziran tarım dışı istihdam verisi beklentilerin altında kaldı, emtia piyasalarını hareketlendirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-05T10:01:10.878747+00:00",
+  "type": "news",
+  "cluster_id": "c7f809aa851ab"
+ },
+ {
+  "title": "Çok sayıda kentte sabaha karşı NATO gözaltıları!",
+  "link": "https://www.sozcu.com.tr/cok-sayida-kentte-sabaha-karsi-nato-gozaltilari-p333880",
+  "source": "Sözcü",
+  "summary_tr": "NATO Zirvesi öncesinde Ankara ve diğer şehirlerde çok sayıda kişi gözaltına alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-05T10:01:10.878747+00:00",
+  "type": "news",
+  "cluster_id": "c288140689fe3"
+ },
+ {
+  "title": "Terör örgütü THKP/C DEV YOL'a yönelik operasyonlarda 39 zanlı yakalandı",
+  "link": "https://www.aa.com.tr/tr/gundem/teror-orgutu-thkp-c-dev-yola-yonelik-operasyonlarda-39-zanli-yakalandi/3986545",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Terör örgütü THKP/C DEV YOL'un gençlik yapılanmasına yönelik İstanbul merkezli operasyonlarda 39 şüpheli gözaltına alındı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-05T10:01:10.878747+00:00",
+  "type": "news",
+  "cluster_id": "c83461532d240"
+ },
+ {
+  "title": "RTÜK'ten NATO Zirvesi'ne ilişkin açıklama",
+  "link": "https://www.aa.com.tr/tr/gundem/rtukten-nato-zirvesine-iliskin-aciklama/3986512",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "RTÜK, NATO Zirvesi kapsamında yayıncılara kamu yararı ve millî güvenlik uyarısı yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-05T10:01:10.878747+00:00",
+  "type": "news",
+  "cluster_id": "cda7ce7855b57"
+ },
+ {
+  "title": "NATO zirvesi öncesi çok sayıda ilde gazeteciler, avukatlar ve öğrenciler gözaltına alındı",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYWs0eFg3Q3MyNjY1QlZvdnFjMkN4MUY1M1AtNFJpNkd3UDVzZkJna2hneVRoVTJieTcxa0dUY05BSnMzXzZhMlNOTXlJc2xrRHVoU2VoZlE1bHdOdGNlcTRyend4eVpjdmstWGVPa3otZS1tbWZabXJCemtJb3NFUWxwcEFZaThkbF9fVFZDWFAxMk1VM05vSVRfQmk?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "NATO zirvesi öncesinde çok sayıda ilde gazeteciler, avukatlar ve öğrenciler gözaltına alındı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-05T10:01:10.878747+00:00",
+  "type": "news",
+  "cluster_id": "c5f07113dc49c"
+ },
+ {
   "title": "Cumhurbaşkanlığından 'NATO Zirvesi' açıklaması: Hangi konular görüşülecek?",
   "link": "https://www.cumhuriyet.com.tr/siyaset/cumhurbaskanligindan-nato-zirvesi-aciklamasi-hangi-konular-gorusulecek-2518154",
   "source": "Cumhuriyet",
@@ -54172,85 +54268,5 @@
   "score": 6,
   "ts": "2026-05-24T21:00:50.684945+00:00",
   "cluster_id": "c3de8a0bdab85"
- },
- {
-  "title": "Yandaşlar ihraç edilecek CHP’li vekil listesi paylaştı",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ0dYS1VyaDExQ1lhNTJuakRuWWhZVDU1empveGdfVF9ZSmNudkFOenNTLUpfaDFaZnViZ1RMbFZXVXF5M1dPQV9jUjRiM3FxR3h3ckl1ZmxEM1R5Nzd0bGR0U1hsUU9Hb19nZDdBQXVxdGY4aTVEeE1vUE9PQlR0b3gteGYtTlhpcVIzd3V6U0gwRnZqZ3c?oc=5",
-  "source": "soL",
-  "summary_tr": "CHP'de ihraç edilecek vekiller listesi açıklandı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-24T21:00:50.684945+00:00",
-  "cluster_id": "c5a0db90374d3"
- },
- {
-  "title": "İsrail cumhurbaşkanı: Korkunç bir canavarlaşma süreci yaşanıyor",
-  "link": "https://www.diken.com.tr/israil-cumhurbaskani-korkunc-bir-canavarlasma-sureci-yasaniyor/?utm_source=rss&utm_medium=rss&utm_campaign=israil-cumhurbaskani-korkunc-bir-canavarlasma-sureci-yasaniyor",
-  "source": "Diken",
-  "summary_tr": "İsrail Cumhurbaşkanı Isaac Herzog, ülkede yaşanan durumu \"korkunç bir canavarlaşma süreci\" olarak nitelendirdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T20:00:50.780995+00:00",
-  "cluster_id": "c1bf3adda8004"
- },
- {
-  "title": "ABD ile İran arasındaki anlaşmanın adı ve tarihi belli oldu",
-  "link": "https://www.sozcu.com.tr/abd-iran-anlasti-mi-p322500",
-  "source": "Sözcü",
-  "summary_tr": "ABD ile İran arasında \"İslamabad Deklarasyonu\" adıyla bir ön anlaşma imzalanmış olup, son müzakerenin tarihi belirlendi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T20:00:50.780995+00:00",
-  "cluster_id": "c9a97e307324c"
- },
- {
-  "title": "Possible deal on Iran divides US lawmakers largely along party lines",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNU1ZY1RXSE9MNXdKM1NJQ0xLRlM1V3QycnFMRjVxWGZrd2ktVUNYTERGc3M0N2ZqcVhQUVNLMVFZY29GZUl6MVFrWXAwQ0dWa3FRS3FQQzNvTElvLVMwTnZpZmJiU0lwbVhvM203N0FIUS1FeXVwcFRYVXhCaXVQQlF5OWY3dGRJTEE1M21tOE5SSXRFOVBDcEZpVWFhLWVVRS1SaHNZSEFMWUtaVFNZ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD'de olası İran anlaşması parlamenter çekişme haline geldi ve yaşanan bölünme partiler arasındaki ideolojik çizgiyi yansıttı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T20:00:50.780995+00:00",
-  "cluster_id": "c22e527223632"
- },
- {
-  "title": "Kılıçdaroğlu hakkında kesin ihraç talebi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/kilicdaroglu-hakkinda-kesin-ihrac-talebi-2506702",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Ayvalık İlçe Başkanı, Kemal Kılıçdaroğlu'nun parti üyeliğinden kesin çıkarılması için disiplin soruşturması talep etti.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-24T20:00:50.780995+00:00",
-  "cluster_id": "c6442a3ac09ff"
- },
- {
-  "title": "Türkiye ve 7 ülkeden ortak açıklama",
-  "link": "https://www.sozcu.com.tr/turkiye-ve-7-ulkeden-ortak-aciklama-p322499",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye ve 7 ülke (BAE, Endonezya, Katar, Mısır, Pakistan, Suudi Arabistan, Ürdün) Dışişleri Bakanları ortak açıklama yayınladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-24T20:00:50.780995+00:00",
-  "cluster_id": "cc19abca110ec"
- },
- {
-  "title": "Most Gulf markets surge on US-Iran peace deal expectations",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNFcxbVVJUzd4cnlvMmZTZnBTa1dVS3E5VTJROFdYYzNmOWFtZEVldUZJem40dWdpOGRoRWNHdEZVSHZqWHQzV2QteG9Rc1o0dTEzSlkxSElseFYwTWVkWmR6MU1jc0QyTkNNOHFsVGdGaFZENlc1SENNNWw2WHE0WjIxeW15UUM4bWFaRmVPX2RyMmQwU2U3UGppOUlscUhNUTcxdW9kc1VCQ1NtZFE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD-İran barış anlaşması beklentisiyle Körfez piyasaları sert yükselişe geçti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-24T19:00:51.014334+00:00",
-  "cluster_id": "c81835b1db3cb"
- },
- {
-  "title": "CHP’ye “mutlak butlan” kararı sonrası Aydın İl Başkanlığı Facebook hesabına el konuldu",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-ye-mutlak-butlan-karari-sonrasi-aydin-il-baskanligi-facebook-hesabina-el-konuldu-2506682",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'ye 'mutlak butlan' kararı sonrası Aydın İl Başkanlığı'na Genel Merkez yönetimi tarafından el konuldu.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-24T19:00:51.014334+00:00",
-  "cluster_id": "c843388d66dc1"
  }
 ]
