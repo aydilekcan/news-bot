@@ -1,5 +1,29 @@
 [
  {
+  "title": "OPEC+ approves further oil output increase as Hormuz exports start to recover",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY1FJeFM4MnVqdWlMNmZ5M3pqUDAtcm9PcVg0SFVxVHh0dW5SVmhSN21WWFB1MDQ5dDdsc3JNRGxPRXE2bDdhTFVZdHhXdExvSE1KSklESjRUeVZnTUdCR1ppU1FhaVN4WnZGc3BGUWZybUl2Tzk3V3BWTnNVczhYRzJkcDdBNmZGUmQ0NXlOYmNqa09MY2xXNWlrczk4ZWdSRHlQdlpWajQ4QQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "OPEC+ petrol çıkışını daha da artırmaya karar verdi; Hormuz ihracatı toparlanmaya başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-05T15:01:03.682504+00:00",
+  "type": "news",
+  "cluster_id": "c6d9c0a403768"
+ },
+ {
+  "title": "Iran and Qatar resume maritime trade, Iranian state media reports",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNGpKTHAxUnc3bjEyYzczRHhyc2JxYUdEbWlKY3g5MWlVZWJfT3RSRVl5MDJQemVfTHRydm94TUktcTQ1ZjlSOEkyR2Ital9NUUllbVBLcUZEckxPWk40c0dJTXNKQkQxcWlBOEVNZTFtYnA2X3dTNERvZmJNWDRXTVRxRXc2S0JFX3F4cTRvTXZiUjBKRlEzYUh1VkR0UmxGcUpEWFJ4OU1TWko2VVhaM1A5UVY?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran ve Katar denizcilik ticaretini yeniden başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-05T15:01:03.682504+00:00",
+  "type": "news",
+  "cluster_id": "c96e65f0db9bf"
+ },
+ {
   "title": "Emekliler Kadıköy'den iktidara seslendi: 'Sadaka değil hakkımızı, lütuf değil adalet istiyoruz'",
   "link": "https://www.cumhuriyet.com.tr/turkiye/emekliler-kadikoy-den-iktidara-seslendi-sadaka-degil-hakkimizi-lutuf-degil-adalet-istiyoruz-2518243",
   "source": "Cumhuriyet",
@@ -54280,25 +54304,5 @@
   "score": 8,
   "ts": "2026-05-24T22:00:54.700424+00:00",
   "cluster_id": "c561be35dc0b2"
- },
- {
-  "title": "Son dakika... Resmi Gazete’de yayımlandı: Bilgi Üniversitesi kararı geri çekildi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-resmi-gazete-de-yayimlandi-bilgi-universitesi-karari-geri-cekildi-2506725",
-  "source": "Cumhuriyet",
-  "summary_tr": "İstanbul Bilgi Üniversitesi hakkında kapatma kararı Resmi Gazete'de geri çekildi.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-24T22:00:54.700424+00:00",
-  "cluster_id": "cd7888223f644"
- },
- {
-  "title": "İstanbul Bilgi Üniversitesinde eğitim öğretim faaliyetleri devam edecek",
-  "link": "https://www.aa.com.tr/tr/gundem/istanbul-bilgi-universitesinde-egitim-ogretim-faaliyetleri-devam-edecek/3947679",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İstanbul Bilgi Üniversitesinin faaliyet izni iptali kararı Resmi Gazete'de yürürlükten kaldırıldı.",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-05-24T22:00:54.700424+00:00",
-  "cluster_id": "cf33f4d994f18"
  }
 ]
