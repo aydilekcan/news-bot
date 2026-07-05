@@ -1,5 +1,65 @@
 [
  {
+  "title": "Trump’tan Avrupa’ya göçmen karşıtı mesaj: Üçüncü dünya ülkesi haline geldi",
+  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-avrupa-ya-gocmen-karsiti-mesaj-ucuncu-dunya-ulkesi-haline-geldi-2518127",
+  "source": "Cumhuriyet",
+  "summary_tr": "Trump, Avrupa'nın göçmen kabulünü eleştirerek 'üçüncü dünya ülkesi haline geldi' dedi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-05T07:01:02.430290+00:00",
+  "type": "news",
+  "cluster_id": "cdc46470a70f6"
+ },
+ {
+  "title": "Türkiye'nin AB üyeliği hayal oldu: Oylamada '381 evet' çıktı",
+  "link": "https://www.sozcu.com.tr/turkiye-nin-ab-uyeligi-hayal-oldu-oylamada-381-evet-cikti-p333837",
+  "source": "Sözcü",
+  "summary_tr": "Avrupa Parlamentosu, Türkiye raporunda reform eksiklikleri nedeniyle AB sürecinin durduğunu belirten 381 evet oyuyla karar verdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-05T07:01:02.430290+00:00",
+  "type": "news",
+  "cluster_id": "c39d250f8ba52"
+ },
+ {
+  "title": "Pezeşkiyan’dan İsrail açıklaması: Bölgesel istikrarsızlığın sebebi onlar",
+  "link": "https://www.cumhuriyet.com.tr/dunya/pezeskiyan-dan-israil-aciklamasi-bolgesel-istikrarsizligin-sebebi-onlar-2518126",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran Cumhurbaşkanı Pezeşkiyan, İsrail'i bölgesel istikrarsızlığın sebebi olarak suçladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-05T07:01:02.430290+00:00",
+  "type": "news",
+  "cluster_id": "ce5169733124c"
+ },
+ {
+  "title": "Trump'tan Netanyahu çıkışı: Patronun kim olduğunu biliyor",
+  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-netanyahu-cikisi-patronun-kim-oldugunu-biliyor-2518124",
+  "source": "Cumhuriyet",
+  "summary_tr": "Trump, Netanyahu'nun Beyaz Saray görüşmesi talep ettiğini açıklayarak, İsrail liderinin kimden emir aldığını ima etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-05T07:01:02.430290+00:00",
+  "type": "news",
+  "cluster_id": "c62df20863c60"
+ },
+ {
+  "title": "Altın, gümüş ve dolar için kritik hafta! Gelecek haberler piyasayı yerinden oynatabilir",
+  "link": "https://www.sozcu.com.tr/altin-gumus-ve-dolar-icin-kritik-hafta-gelecek-haberler-piyasayi-yerinden-oynatabilir-p333831",
+  "source": "Sözcü",
+  "summary_tr": "Altın, gümüş ve dolar bu hafta Fed'in enflasyon politikası ve ekonomik veriler nedeniyle dalgalı seyir gösterebilir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-05T07:01:02.430290+00:00",
+  "type": "news",
+  "cluster_id": "c579cbdb8736f"
+ },
+ {
   "title": "Tarih belli oldu: Motorine yine zam geliyor",
   "link": "https://www.sozcu.com.tr/tarih-belli-oldu-motorine-yine-zam-geliyor-p333816",
   "source": "Sözcü",
@@ -54168,55 +54228,5 @@
   "score": 7,
   "ts": "2026-05-24T18:00:51.258964+00:00",
   "cluster_id": "c17bd00bd4069"
- },
- {
-  "title": "Details emerge of a potential Iran deal as Trump says not to rush",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNFJLcXNSaEFNZkMyZGZOMWtkUHhjLV9aS0RobHJUMWtQckEtWTFCaUcyVDVUcVFCcHQtbW1LaVptenhHWXd5aHJ5NXNDZ2dfdnR5YTJ3MVBnNzZGR2JndEVoZUNJMmhmNy1BX2dWRzZVSEI1ZVRjZmlodUpsUVpRT21hLUV1bzI5bmR5TmNYT1FjS0lYUmdQSHdoRC1YV0o1MmJZ?oc=5",
-  "source": "AP",
-  "summary_tr": "Trump, İran anlaşması detaylarının ortaya çıktığını söyleyerek aceleye gerek olmadığını ifade etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-24T18:00:51.258964+00:00",
-  "cluster_id": "c87328c2110ea"
- },
- {
-  "title": "Özgür Özel yarın TBMM'de DEM Parti heyeti ile görüşecek",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/ozgur-ozel-yarin-tbmm-de-dem-parti-heyeti-ile-gorusecek-2506674",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel, TBMM'de DEM Parti heyeti ile görüşecek.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-24T18:00:51.258964+00:00",
-  "cluster_id": "c74b8ab87c7a9"
- },
- {
-  "title": "Özgür Özel'den 'Bugün bir milattır' paylaşımı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/ozgur-ozel-den-bugun-bir-milattir-paylasimi-2506672",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel, polis müdahalesiyle çıkarıldıktan sonra 'Bugün bir milattır' açıklaması yaptı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-24T18:00:51.258964+00:00",
-  "cluster_id": "cd97a540b9143"
- },
- {
-  "title": "İmralı Heyeti, Abdullah Öcalan'ı ziyaret etti",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTZsYkhDdXJ6bTZWUGhVM0N0LTcyc2lGc0RzcHdaN09CczRBdENDdjZFdUhaSWpwV1NJeF9LS1Z4OE01bTdMcTBCM0RoWldpVXlqR1dzekxBNG05LXJQLUVncDh6Z3J2Umt3YlFzZEthVzV4emZLZzdGd1F1TzFpWUEzeDhlODF3QmpTRzVxX0J4MGNmdkZ1RFdmOG8?oc=5",
-  "source": "T24",
-  "summary_tr": "İmralı Heyeti, Abdullah Öcalan'ı ziyaret etti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-24T18:00:51.258964+00:00",
-  "cluster_id": "c95e982545efa"
- },
- {
-  "title": "Özgür Özel'in tarihi Meclis yürüşü",
-  "link": "https://www.dw.com/tr/özgür-özel-in-tarihi-meclis-yürüşü/a-77280999?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Mahkeme kararıyla CHP genel başkanlığından uzaklaştırılan Özgür Özel, CHP Genel Merkezi'ne polis müdahalesinin ardından binlerce Ankaralı'nın eşliğinde TBMM'ye yürüdü.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-24T17:00:49.685412+00:00",
-  "cluster_id": "c78d0effb523b"
  }
 ]
