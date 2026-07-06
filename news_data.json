@@ -1,5 +1,17 @@
 [
  {
+  "title": "İsrail'den ABD'ye: Türkiye'ye F-35 satmayın",
+  "link": "https://www.dw.com/tr/israil-den-abd-ye-türkiye-ye-f-35-satmayın/a-77856459?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "İsrail Başbakanı Netanyahu, ABD'nin Türkiye'ye F-35 savaş uçağı motorları satmasına karşı çıktı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-06T18:01:01.685416+00:00",
+  "type": "news",
+  "cluster_id": "cb22bce555154"
+ },
+ {
   "title": "Trump: (Rusya-Ukrayna savaşı) NATO'ya gideceğiz, konuyu görüşeceğiz ve sanırım bunu başaracağız",
   "link": "https://www.aa.com.tr/tr/dunya/trump-rusya-ukrayna-savasi-natoya-gidecegiz-konuyu-gorusecegiz-ve-sanirim-bunu-basaracagiz/3987687",
   "source": "Anadolu Ajansı",
@@ -54570,15 +54582,5 @@
   "score": 6,
   "ts": "2026-05-25T18:00:57.344032+00:00",
   "cluster_id": "c7a5de1086b97"
- },
- {
-  "title": "Trump'tan İran anlaşması için Türkiye dahil 6 ülkeye İbrahim Anlaşmaları'nı imzalama şartı",
-  "link": "https://www.bbc.com/turkce/articles/crrppdpdr0xo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Trump, İran ile anlaşma şartı olarak Türkiye dahil 6 ülkenin İsrail ile normalleşmesini istedi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-25T17:00:53.698957+00:00",
-  "cluster_id": "c6f7eb3d82f03"
  }
 ]
