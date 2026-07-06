@@ -1,5 +1,53 @@
 [
  {
+  "title": "Khamenei funeral signals Iran's defiance and new regional order",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTmloVTVHdy1pN25CSUVVb3RkUG53eGhzUFBoZWhlZjJSZ3pwaEhVcEFCU2hFdVUtS0JRN2xleTQ2ZFRRcHFhOXhidk9tc3hNcmFCTVlHc0dOVDIyRGhTSVJBR2dDQjZ3YTFHZlkyeG1zSmhEbThpaUFlSk9YelVYVkVzTmdDSEh1b1JRN1BsNnkzT3ZkVkRkRDJLZ3BJakRnVU5pYlNmald4RF80R3FhREZ3?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran, Hamaney'nin cenaze törenini yaparak bölgesel gücünü ve direncini gösterdi. Ölüm sonrası İran'ın yeni bölgesel düzeni şekillendiriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-06T20:01:04.938261+00:00",
+  "type": "news",
+  "cluster_id": "c8b2e4129d567"
+ },
+ {
+  "title": "Hamas dissolves its government in Gaza to transfer power to a UN-backed committee",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQW81TnNaY1YwT3NlaUtUODNiS1hzU3pTbTdGNUlhWl9DQ0M3NHllS2R2bDRCZGpRWllYS3loRDZ6RklsbHRiYS1EbFBXRnBxUVpsNlhaVDJzX1FON2VPU0NVTHd6bXhfQXpsaWZXdmx6a00xLURKNUR3QUpUcDVhay1FUnJ3ZFVnUGxoRzkxWmVHSm5aSS0zN25EUXZ6RjhJT1ZjRjlJQlY?oc=5",
+  "source": "AP",
+  "summary_tr": "Hamas, Gazze'deki hükümetini feshederek iktidarı BM destekli bir komiteye devretme kararı aldı. Gazze'deki yönetim yapısında kritik değişim.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-06T20:01:04.938261+00:00",
+  "type": "news",
+  "cluster_id": "cfcf598e68c01"
+ },
+ {
+  "title": "Asgari ücretin 28 bin TL olduğu ülkede 420 bin TL trafik cezası gelince evine gidip intihar etti",
+  "link": "https://www.sozcu.com.tr/420-bin-liralik-trafik-cezasi-sonrasi-yasamini-yitirdi-p334290",
+  "source": "Sözcü",
+  "summary_tr": "Bilecik'te 420 bin lira trafik cezası alan 26 yaşındaki genç intihar etti. Asgari ücretin 28 bin TL olduğu ülkede cezanın vatandaş hayatını sonlandırmaya yettiği olay dikkat çekti.",
+  "metric": "Trafik cezası: 420.000 TL (asgari ücret: 28.000 TL = cezanın ~15 katı)",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-06T20:01:04.938261+00:00",
+  "type": "news",
+  "cluster_id": "c4635a88af03c"
+ },
+ {
+  "title": "AKP'de 'Afyonkarahisar' depremi: Belediye başkanının ardından İl Başkanı da istifa etti",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/akp-de-afyonkarahisar-depremi-belediye-baskaninin-ardindan-il-baskani-da-istifa-etti-2518587",
+  "source": "Cumhuriyet",
+  "summary_tr": "AKP Afyonkarahisar İl Başkanı Turgay Şahin görevinden istifa etti. Belediye başkanından sonra il başkanının da ayrılması partide hareketlenmeye işaret ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-06T20:01:04.938261+00:00",
+  "type": "news",
+  "cluster_id": "c48b11aa643fd"
+ },
+ {
   "title": "İmamoğlu üç duruşmada yargılanıyor: Casusluk davasında tüm sanıkların tutukluluklarının devamına karar verildi",
   "link": "https://www.bbc.com/turkce/articles/c8922001gv9o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -54552,45 +54600,5 @@
   "score": 6,
   "ts": "2026-05-25T19:00:55.552557+00:00",
   "cluster_id": "cf0928389d801"
- },
- {
-  "title": "İran Cumhurbaşkanı, internet kısıtlamalarının kaldırılmasına yönelik kararı onayladı",
-  "link": "https://www.aa.com.tr/tr/dunya/iran-cumhurbaskani-internet-kisitlamalarinin-kaldirilmasina-yonelik-karari-onayladi/3948369",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran Cumhurbaşkanı Pezeşkiyan, internetin uluslararası erişime açılması kararını onayladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T19:00:55.552557+00:00",
-  "cluster_id": "ce8e59fcc3544"
- },
- {
-  "title": "Iran's president orders reopening of international internet access, state media reports",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaG1OOWpIU3AwQ2FPZjNFMzJiOU9qSUNHdGNwcngtNkhxTDRtRUFXSW1fWDZzTktOZk44OWZleGVQNU9ZTkpCQmhjNUx4VjlzcEhsRVZlTVFJTl9LSk9CQkVnZWFVNGF2YVk4VU9PaEFlYmtBN1NRZHE5WW5RRmVibFhDRURROUg1Nms1VG9wbzJpQ2s4Yklndy1ZMHRkaDktVkcxZkRxRmF6a2xsQm1Dc25xY0ZLQ0dUTm1YTHA4ckZzQmNVWmpZ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran Cumhurbaşkanı, uluslararası internet erişiminin yeniden açılmasını emrettiğini devlet medyası bildirdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T19:00:55.552557+00:00",
-  "cluster_id": "c06bb04a33d82"
- },
- {
-  "title": "Özgür Özel: Partiden ayrılmayacağız, baskın seçim olursa yüzde 60’la kazanırız",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/ozgur-ozel-partiden-ayrilmayacagiz-baskin-secim-olursa-yuzde-60-la-kazaniriz-2506904",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel, mahkeme kararı sonrası partiden ayrılmayacaklarını ve baskın seçim durumunda yüzde 60 oranında kazanabileceklerini belirtti.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-25T18:00:57.344032+00:00",
-  "cluster_id": "c839498ca325f"
- },
- {
-  "title": "Özgür Özel, T24’e konuştu: Partiden ayrılmayacağız, baskın seçim olursa yüzde 60’la kazanırız",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdEhBeTlKYjBtVURGZTlFVlFIbjFMUjZlM0pyLVBHVEl3SlhJdFhSRkJ6UmdnWUdUeFBFZHgwd2FVczdDX0dmS0ZIREhLTkdCelJ3OFJBdkVPNFVuVkxGRmRPZ0lCSlJDM2Y3dGJlZHc3bWNJMUZUY3VQUnQwYmdCWUx5VVdIQTV3eC1WWElqSkxUSW5vWWRzeWxtTW5JeW1MRm1kaUNvTDBEdldDeFdzR2R5b0lUcXRXSG5JVWM3Z2ZlZw?oc=5",
-  "source": "T24",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel, partiden ayrılmayacaklarını ve baskın seçimde yüzde 60 oranında başarılı olabileceklerini açıkladı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-25T18:00:57.344032+00:00",
-  "cluster_id": "c839498ca325f"
  }
 ]
