@@ -1,5 +1,101 @@
 [
  {
+  "title": "Motorin fiyatlarına yeni zam yolda: Fiyat ve ayrıntılar belli oldu",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/motorin-fiyatlarina-yeni-zam-yolda-fiyat-ve-ayrintilar-belli-oldu-2518422",
+  "source": "Cumhuriyet",
+  "summary_tr": "Motorin fiyatlarında yeni zam dalgası yaklaşıyor. Döviz kuru ve ÖTV ayarlamalarıyla akaryakıt fiyatları yeniden yükselişe geçiyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-06T09:01:10.038401+00:00",
+  "type": "news",
+  "cluster_id": "ccaadfab465cd"
+ },
+ {
+  "title": "Zirve başlıkları belli oldu: Ankara'dan Trump'a istek listesi",
+  "link": "https://www.sozcu.com.tr/konu-basliklari-belli-oldu-ankara-dan-trump-a-istek-listesi-p334135",
+  "source": "Sözcü",
+  "summary_tr": "NATO Ankara Zirvesi'nde Türkiye, F-35 programına dönüş ve yaptırımların kaldırılmasını gündeme getirecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-06T09:01:10.038401+00:00",
+  "type": "news",
+  "cluster_id": "cdf502cdc5292"
+ },
+ {
+  "title": "Ege'nin 6 aylık ihracatı 14 milyar dolara yaklaştı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/egenin-6-aylik-ihracati-14-milyar-dolara-yaklasti/3987056",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ege Bölgesi'nin ilk yarı ihracatı geçen yıl aynı dönemine kıyasla yüzde 3,7 artarak 13,6 milyar dolara çıktı.",
+  "metric": "Ege ihracatı (6 ay) %3,7 artış (13,6 milyar dolar)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-06T09:01:10.038401+00:00",
+  "type": "news",
+  "cluster_id": "c3dfee1a48bf0"
+ },
+ {
+  "title": "Kocaeli ihracatta vites yükseltti",
+  "link": "https://www.aa.com.tr/tr/ekonomi/kocaeli-ihracatta-vites-yukseltti/3987060",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Kocaeli yılın ilk yarısında 12,7 milyar dolarlık ihracat gerçekleştirerek ihracatı artırdı.",
+  "metric": "Kocaeli ihracatı (6 ay) 12,7 milyar dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-06T09:01:10.038401+00:00",
+  "type": "news",
+  "cluster_id": "cdac0b9698465"
+ },
+ {
+  "title": "Türkiye'nin fıstık ihracatı yılın ilk yarısında 60,8 milyon dolar oldu",
+  "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-fistik-ihracati-yilin-ilk-yarisinda-608-milyon-dolar-oldu-950361.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye'nin fıstık ihracatı yılın ilk yarısında 66 ülkeye 60,8 milyon dolarlık oldu.",
+  "metric": "Türkiye fıstık ihracatı (6 ay) 60,8 milyon dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-06T09:01:10.038401+00:00",
+  "type": "news",
+  "cluster_id": "c5672caa4f6a3"
+ },
+ {
+  "title": "MetroPoll anketi: AKP ve Kılıçdaroğlu CHP'sinin oyları geriledi; Özgür Özel yeni parti kurarsa AKP'yi geçiyor",
+  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTjJWRDhJYXpGZ2xJalNMYVA2RXpfVEdaUmJJb0dBQTY4OWJlelNGSDdXeDh6VnYzN3hKeE9DYTVNZTR5TlVyY3JlVEFjQ1V0aXMwaUxXNVRkeWtMQlJmczZmLWRCc3ZCTEpPM0RHdHJLeE5DWk5tNzA4Rm5UQjFMMmpaMGdaQ2FSekE0UUtTZUVVaFBhUVEzWXZVcG84VWduekhpSXlNZ19VS00wbUkxUTA5UFBGNUJqSlZmVmUtTnV5VlQ4YkQwaURVamdDN19LeF9KUC16NnA?oc=5",
+  "source": "T24",
+  "summary_tr": "MetroPoll anketine göre AKP ve Kılıçdaroğlu CHP'sinin oyları geriledi; Özgür Özel yeni parti kurarsa AKP'yi geçiyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-06T09:01:10.038401+00:00",
+  "type": "news",
+  "cluster_id": "c740a2cedd6ab"
+ },
+ {
+  "title": "İmamoğlu üç davada yargılanıyor (CANLI BLOG)",
+  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sSFV4dXhvc09kS1RSdXFpUGVTY1oyaDVkcS1Wc0k1WnRza29FV1VQaHJ3U3ZVckxqNzlLNWt2NTBuZFdBNHNpNnZMOGdDUGwzOWpqNjZscjBKQWtzeXJHcEZsTWFSVkhveWZlcE9Xa1N3ekE?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Ekrem İmamoğlu üç davada yargılanıyor; canlı blog haberin gelişmelerini takip ediyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-06T09:01:10.038401+00:00",
+  "type": "news",
+  "cluster_id": "c25e3caee171e"
+ },
+ {
+  "title": "İmamoğlu'nun diploma davası: Gerekçeli karar UYAP'a yüklendi",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdEdVQzQ5aVl4UVkyZmRIanhiOUtONGpyN2F6MTNNWWkwUUhkQ1RBVVl5cWVSTUZFQmxnREtMQW5LdXJ4c2JYTUFQTm9UMUZiSGFzT083d2RReEY2VngtNlV0eE5NaDd4a0Q5UUlaQUlWVHBhYWkwTzdIcDlzQmhxcDRtSXYtcUdfaThGSGZDd1V6cFBSSVQ0TUZMbw?oc=5",
+  "source": "soL",
+  "summary_tr": "İmamoğlu'nun diploma davası gerekçeli kararı UYAP'a yüklendi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-06T09:01:10.038401+00:00",
+  "type": "news",
+  "cluster_id": "cc49e2b1b53bc"
+ },
+ {
   "title": "Bedelli askerlik ücreti ne kadar oldu? 2026 Bedelli askerlik ücretine ne kadar zam geldi?",
   "link": "https://www.cumhuriyet.com.tr/turkiye/bedelli-askerlik-ucreti-ne-kadar-oldu-2026-bedelli-askerlik-ucretine-ne-kadar-zam-geldi-2518396",
   "source": "Cumhuriyet",
@@ -54358,85 +54454,5 @@
   "score": 7,
   "ts": "2026-05-25T11:01:06.624945+00:00",
   "cluster_id": "cbd9997c3554e"
- },
- {
-  "title": "Rusya’dan Erivan’a açık uyarı: İlişkiler doğrudan tehdit altında",
-  "link": "https://www.cumhuriyet.com.tr/dunya/rusya-dan-erivan-a-acik-uyari-iliskiler-dogrudan-tehdit-altinda-2506818",
-  "source": "Cumhuriyet",
-  "summary_tr": "Rusya Güvenlik Konseyi Başkan Yardımcısı Medvedev, Ermenistan'a Moskova ile ilişkileri koparma konusunda açık uyarı yaptı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-25T11:01:06.624945+00:00",
-  "cluster_id": "c5f5aea6f3774"
- },
- {
-  "title": "CHP Grup Başkanvekili Gökhan Günaydın: 'Dün olanları hiç kimse unutmayacak'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-grup-baskanvekili-gokhan-gunaydin-dun-olanlari-hic-kimse-unutmayacak-2506817",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Grup Başkanvekili Gökhan Günaydın, CHP genel merkezinin tahliyesini 'Türk siyaset tarihi açısından çok önemli' bulduğunu söyledi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-25T11:01:06.624945+00:00",
-  "cluster_id": "c444ff53434ff"
- },
- {
-  "title": "Son dakika... CHP'de yaşananlar için AKP'den ilk açıklama...",
-  "link": "https://www.sozcu.com.tr/son-dakika-chp-ye-yonelik-mutlak-butlan-kararina-iliskin-akp-den-ilk-aciklama-p322642",
-  "source": "Sözcü",
-  "summary_tr": "AKP Sözcüsü Ömer Çelik, CHP'ye 'mutlak butlan' kararında 'çatışmanın CHP içinde' olduğunu belirtti.",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-05-25T11:01:06.624945+00:00",
-  "cluster_id": "c80cabe194273"
- },
- {
-  "title": "Özgür Özel'in 12. kattaki görüntüleri ilk kez paylaşıldı",
-  "link": "https://www.sozcu.com.tr/ozgur-ozel-in-12-kattaki-goruntuleri-ilk-kez-paylasildi-p322641",
-  "source": "Sözcü",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel, polis baskını sırasında CHP Genel Merkezi'nin 12. katında yaşanan olayların görüntülerini paylaştı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-25T11:01:06.624945+00:00",
-  "cluster_id": "c54b3db627a39"
- },
- {
-  "title": "İran’dan ABD görüşmeleri için dikkat çeken açıklama: \"Birçok konuda uzlaşı sağlandı\"",
-  "link": "https://www.sozcu.com.tr/iran-dan-abd-gorusmeleri-icin-dikkat-ceken-aciklama-bircok-konuda-uzlasi-saglandi-p322636",
-  "source": "Sözcü",
-  "summary_tr": "İran Dışişleri Bakanlığı, Tahran-Washington müzakerelerinde birçok konuda uzlaşı sağlandığını açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-25T11:01:06.624945+00:00",
-  "cluster_id": "c7c4bbb18aca5"
- },
- {
-  "title": "İran: ABD ile görüşülen konuların büyük bir kısmında sonuca ulaştığımızı söyleyebiliriz",
-  "link": "https://www.aa.com.tr/tr/gundem/iran-abd-ile-gorusulen-konularin-buyuk-bir-kisminda-sonuca-ulastigimizi-soyleyebiliriz/3948005",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran Dışişleri Bakanlığı sözcüsü, Washington ile imzalanması muhtemel mutabakat zaptında sonuca ulaşıldığını söyledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-25T11:01:06.624945+00:00",
-  "cluster_id": "c23a5981dc198"
- },
- {
-  "title": "Netanyahu admits difficulty influencing Trump decisions on Iran, sources say",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ2l0UGtUZ3J0TlhELW00ZDZ3TTRMSlhWU3g1RlZSMG5uMjIzczBiME4tUE5HZVFNSm5zazJqOGNwNlFRbk4xbl9CVVJtMkNhNjVBdFhBNmtJV0FIVGJLZ1BzbVd1UFFRZnBKemhzSURRVVBNbjZwYk0yczhIRFEtY19LS3NRQnZOTndlVDhnc2hNd3oxTkZUM2lYTm51dE9ReWZlR0dNSnhyNW5mb1M3cHotYUgwb0hnNWV1RzkzNnBBb2pn?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Netanyahu kaynaklar tarafından, İran konusunda Trump'ı etkilemekte zorluk çektiğini kabul ediyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-25T11:01:06.624945+00:00",
-  "cluster_id": "ccddc9d1e7023"
- },
- {
-  "title": "Yüz binler toplandı: İran savaşı gölgesinde Mekke'de hac",
-  "link": "https://www.dw.com/tr/yüz-binler-toplandı-iran-savaşı-gölgesinde-mekke-de-hac/a-77239395?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "İran-İsrail gerilimine rağmen yaklaşık 1,5 milyon Müslüman Mekke'de hac ibadetini yerine getirdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T11:01:06.624945+00:00",
-  "cluster_id": "cea5d78d96f1e"
  }
 ]
