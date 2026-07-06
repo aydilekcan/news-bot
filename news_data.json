@@ -1,5 +1,53 @@
 [
  {
+  "title": "Ankara'da NATO Zirvesi: Yedi maddede bilinmesi gerekenler",
+  "link": "https://www.dw.com/tr/ankara-da-nato-zirvesi-yedi-maddede-bilinmesi-gerekenler/a-77837493?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "NATO Zirvesi Ankara'da başlıyor; Trump'ın katılımıyla savunma harcamaları ve Ukrayna savaşı gibi kritik konular görüşülecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-06T05:01:02.591135+00:00",
+  "type": "news",
+  "cluster_id": "c3b57ed058965"
+ },
+ {
+  "title": "Savaş birden bire şiddetlendi: Başkent'e gece yarısı bomba yağdı",
+  "link": "https://www.sozcu.com.tr/savas-birden-bire-siddetlendi-baskent-e-gece-yarisi-bomba-yagdi-p334029",
+  "source": "Sözcü",
+  "summary_tr": "Rusya, Ukrayna'nın başkenti Kiev dahil olmak üzere gece yarısı bomba saldırısı düzenledi; savaştaki gerilim tırmanmaya devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-06T05:01:02.591135+00:00",
+  "type": "news",
+  "cluster_id": "c6a418701b9ba"
+ },
+ {
+  "title": "Havayolu şirketi iflas etti: 17 bin kişi işsiz kaldı, uçaklar çöle çekiliyor",
+  "link": "https://www.sozcu.com.tr/havayolu-sirketi-iflas-etti-17-bin-kisi-issiz-kaldi-ucaklar-cole-cekiliyor-p334025",
+  "source": "Sözcü",
+  "summary_tr": "ABD merkezli Spirit Airlines havayolu şirketi kapandı; 17 bin personel işsiz kaldı.",
+  "metric": "Spirit Airlines personel: 17.000 kişi işsiz",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-06T05:01:02.591135+00:00",
+  "type": "news",
+  "cluster_id": "c7365c32d4b73"
+ },
+ {
+  "title": "Piyasalarda 9 Temmuz endişesi",
+  "link": "https://www.sozcu.com.tr/piyasalarda-9-temmuz-endisesi-p334026",
+  "source": "Sözcü",
+  "summary_tr": "Ankara'daki NATO zirvesi ve sonrasında yaşanması beklenen olaylar piyasalarda endişe yaratıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-06T05:01:02.591135+00:00",
+  "type": "news",
+  "cluster_id": "c1dc261718336"
+ },
+ {
   "title": "ABD Başkanı Trump'ın Ankara programı belli oldu",
   "link": "https://www.trthaber.com/haber/gundem/abd-baskani-trumpin-ankara-programi-belli-oldu-950331.html",
   "source": "TRT Haber",
@@ -54338,45 +54386,5 @@
   "score": 7,
   "ts": "2026-05-25T07:01:02.967968+00:00",
   "cluster_id": "cfac7ba057a84"
- },
- {
-  "title": "Rubio says US will either have a good agreement with Iran or deal with it 'another way'",
-  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQXJPbzB5am5ZdHNqZkJRREdQZ0hwcUI5SmpIR2szdERaa0ZoZG94RmQ2RjkzcXpuRUt6MldxNTUtZ3BneGdpTTFNUUxnUllZekZ0UnllRkl5ejFJSU01NGhJWF9PRDJvWUJYSkQ3c0FUVWplUHdod1BSVTk1NC0xdXA4ekx5a3Y0YV9xMk5oVWpQS3pXMzBXLVRWX2lDZWthTkZpUTFjMVl6MTd2b3VqT09BcTFNSkwyNmJMVUQwemFSbXdWT2UyWnZBLUxBdw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Rubio, ABD'nin İran ile ya iyi bir anlaşma yapacağını ya da başka yollarla muhteviyatı sağlayacağını söyledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-25T07:01:02.967968+00:00",
-  "cluster_id": "cfac7ba057a84"
- },
- {
-  "title": "Ermenistan: Türkiye demiryolu ticarete açıldı",
-  "link": "https://www.diken.com.tr/ermenistan-turkiye-demiryolu-ticarete-acildi/?utm_source=rss&utm_medium=rss&utm_campaign=ermenistan-turkiye-demiryolu-ticarete-acildi",
-  "source": "Diken",
-  "summary_tr": "Ermenistan Başbakanı Paşinyan, Türkiye demiryolu hattının ticarete açıldığını duyurdu.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T07:01:02.967968+00:00",
-  "cluster_id": "ca622ced9da5f"
- },
- {
-  "title": "Davutoğlu’ndan 'Bilgi Üniversitesi' açıklaması: '48 saat içinde birbirine zıt iki çelişkili karar'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/davutoglu-ndan-bilgi-universitesi-aciklamasi-48-saat-icinde-birbirine-zit-iki-celiskili-karar-2506767",
-  "source": "Cumhuriyet",
-  "summary_tr": "Gelecek Partisi lideri Davutoğlu, Bilgi Üniversitesi kararının geri çekilmesini '48 saat içinde çelişkili iki karar' olarak eleştirdi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-25T07:01:02.967968+00:00",
-  "cluster_id": "c2d32a062ccdf"
- },
- {
-  "title": "Küresel piyasalarda İran iyimserliği: Petrol düştü, borsalar yükseldi",
-  "link": "https://www.sozcu.com.tr/kuresel-piyasalarda-iran-iyimserligi-petrol-dustu-borsalar-yukseldi-p322574",
-  "source": "Sözcü",
-  "summary_tr": "ABD-İran anlaşma ihtimali petrol fiyatlarını düşürdü, küresel borsalar yükseldi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T07:01:02.967968+00:00",
-  "cluster_id": "c4a243b5aa994"
  }
 ]
