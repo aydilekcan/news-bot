@@ -1,5 +1,77 @@
 [
  {
+  "title": "Bakanlıktan ekmek fiyatları için kritik adım: Üretim süreçleri yeniden düzenleniyor",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/bakanliktan-ekmek-fiyatlari-icin-kritik-adim-uretim-surecleri-yeniden-duzenleniyor-2518440",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ticaret Bakanlığı, ekmek fiyatlarını kontrol etmek için tedarik zincirini düzenleyen yeni yönetmelik taslağını hazırladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-06T10:01:14.384545+00:00",
+  "type": "news",
+  "cluster_id": "ca7835532bd1b"
+ },
+ {
+  "title": "Yabancı dev bankadan TCMB mesajı: Faiz indirimi bekleyenler üzülecek",
+  "link": "https://www.sozcu.com.tr/yabanci-dev-bankadan-tcmb-mesaji-faiz-indirimi-bekleyenler-uzulecek-p334151",
+  "source": "Sözcü",
+  "summary_tr": "Commerzbank, haziran enflasyon verilerine rağmen çekirdek enflasyonun yüksek seyretmeye devam ettiğini ve TCMB'nin faiz indirmesinin yakın olmadığını belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-06T10:01:14.384545+00:00",
+  "type": "news",
+  "cluster_id": "c7d4dbe475605"
+ },
+ {
+  "title": "Son dakika: İmamoğlu'nun diploma davası 25 Aralık'a ertelendi!",
+  "link": "https://www.sozcu.com.tr/son-dakika-imamoglu-nun-diploma-davasi-25-aralik-a-ertelendi-p334150",
+  "source": "Sözcü",
+  "summary_tr": "İBB Başkanı Ekrem İmamoğlu'nun sahte diploma iddiasıyla yargılandığı davada üçüncü duruşma 25 Aralık'a ertelendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-06T10:01:14.384545+00:00",
+  "type": "news",
+  "cluster_id": "cdbd7f75e2f2d"
+ },
+ {
+  "title": "Euro Bölgesi'nde üretici fiyatları mayısta beklentilere paralel yükseldi",
+  "link": "https://www.sozcu.com.tr/euro-bolgesi-nde-uretici-fiyatlari-mayista-beklentilere-paralel-yukseldi-p334147",
+  "source": "Sözcü",
+  "summary_tr": "Euro Bölgesi'nde Üretici Fiyat Endeksi mayısta aylık %0,2, yıllık %5,9 artış gösterdi.",
+  "metric": "ÜFE (yıllık) +%5,9",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-06T10:01:14.384545+00:00",
+  "type": "news",
+  "cluster_id": "c3f93dd32eba8"
+ },
+ {
+  "title": "Avro Bölgesi'nde yatırımcı güveni temmuzda yükseldi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/avro-bolgesinde-yatirimci-guveni-temmuzda-yukseldi/3987162",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Avro Bölgesi yatırımcı güven endeksi temmuzda yükselişini sürdürerek üçüncü ay üst üste artış kaydetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-06T10:01:14.384545+00:00",
+  "type": "news",
+  "cluster_id": "c57f8f178783d"
+ },
+ {
+  "title": "İmamoğlu'nun sahte diploma iddiasıyla yargılandığı davada 5. duruşma",
+  "link": "https://www.trthaber.com/haber/gundem/imamoglunun-sahte-diploma-iddiasiyla-yargilandigi-davada-5-durusma-950374.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ekrem İmamoğlu'nun sahte diploma iddiasıyla yargılandığı davada beşinci duruşma yapılıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-06T10:01:14.384545+00:00",
+  "type": "news",
+  "cluster_id": "cd6ab0ccbbebc"
+ },
+ {
   "title": "Motorin fiyatlarına yeni zam yolda: Fiyat ve ayrıntılar belli oldu",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/motorin-fiyatlarina-yeni-zam-yolda-fiyat-ve-ayrintilar-belli-oldu-2518422",
   "source": "Cumhuriyet",
@@ -54394,65 +54466,5 @@
   "score": 8,
   "ts": "2026-05-25T11:01:06.624945+00:00",
   "cluster_id": "c3a91f5229f84"
- },
- {
-  "title": "CHP Genel Merkezi'ne polis müdahalesinden yeni görüntüler: Özel'in makam katında yaşananlar paylaşıldı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-genel-merkezi-ne-polis-mudahalesinden-yeni-goruntuler-ozel-in-makam-katinda-yasananlar-paylasildi-2506821",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Genel Merkezi'ne polis müdahalesi sırasında Genel Başkan Özgür Özel'in makam odasında yaşanan olayların görüntüleri yayımlandı.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-25T11:01:06.624945+00:00",
-  "cluster_id": "ce2428deb5140"
- },
- {
-  "title": "Özgür Özel'in TBMM'deki tabelası değiştirildi",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-in-tbmm-deki-tabelasi-degistirildi-2506816",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM'de Özgür Özel'in odasındaki 'CHP Genel Başkanı' tabelası 'CHP Grup Başkanı' olarak değiştirildi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-25T11:01:06.624945+00:00",
-  "cluster_id": "c8856de0a4019"
- },
- {
-  "title": "İsimler tabeladan söküldü: Karar kapıya asıldı!",
-  "link": "https://www.sozcu.com.tr/dikkat-ceken-adim-isimler-tabeladan-sokuldu-karar-kapiya-asildi-p322637",
-  "source": "Sözcü",
-  "summary_tr": "Ankara Bölge Adliye Mahkemesi'nin CHP kurultaylarına ilişkin 'mutlak butlan' kararı, parti genel merkezi girişine asıldı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-25T11:01:06.624945+00:00",
-  "cluster_id": "c7b29e9b1fed2"
- },
- {
-  "title": "Kiev’e ağır misilleme: Rusya Oreşnik füzelerini kullandı",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN2o2M2V2TjVwd1JTQWhzSUtvZDlobmxmeUtCbFg3YkxpRmJDQzFpMU5ENTl2N2Q2dkpMbTJ1TE5Bcml0UHlYV3ZDdm5TX2Z4Qlc5Ty1iTGh5N2lRUkJqS3MyWUNGTnpiaGNOOWVyWTZzQUhDY2NVb3hjeTR2QVhKdGJXSTl3aXN6SkQ0NTZVT3QzQ1hOQWdj?oc=5",
-  "source": "soL",
-  "summary_tr": "Rusya, Kiev'e Oreşnik füzelerini kullanarak ağır misilleme gerçekleştirdi.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-25T11:01:06.624945+00:00",
-  "cluster_id": "c4bef9cd010f7"
- },
- {
-  "title": "Özgür Özel Meclis'te DEM Parti heyeti ile biraraya gelecek",
-  "link": "https://www.bbc.com/turkce/articles/c0k228dldjjo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Özgür Özel, Meclis'teki makam odasında Grup Başkanı olarak tabelasıyla DEM Parti heyetiyle görüşecek.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-25T11:01:06.624945+00:00",
-  "cluster_id": "c1e04a0611f15"
- },
- {
-  "title": "DEM Parti'den TBMM'de Özgür Özel'e ziyaret",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/dem-parti-den-tbmm-de-ozgur-ozel-e-ziyaret-2506819",
-  "source": "Cumhuriyet",
-  "summary_tr": "DEM Parti Eş Genel Başkanı Tuncer Bakırhan öncülüğündeki heyet, CHP Genel Başkanı Özgür Özel'i TBMM'de ziyaret etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-25T11:01:06.624945+00:00",
-  "cluster_id": "cbd9997c3554e"
  }
 ]
