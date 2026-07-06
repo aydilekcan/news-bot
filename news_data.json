@@ -1,5 +1,65 @@
 [
  {
+  "title": "İmamoğlu üç duruşmada yargılanıyor: Casusluk davasında tüm sanıkların tutukluluklarının devamına karar verildi",
+  "link": "https://www.bbc.com/turkce/articles/c8922001gv9o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "İBB Başkanı İmamoğlu casusluk davasında tutuklu yargılanıyor; mahkeme tüm sanıkların tutukluluğunun devamına karar verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-06T19:01:10.955015+00:00",
+  "type": "news",
+  "cluster_id": "cfc0fe9b5249a"
+ },
+ {
+  "title": "Zirve öncesi ABD'den kritik çıkış: NATO'dan ayrılacaklar mı?",
+  "link": "https://www.sozcu.com.tr/zirve-oncesi-abd-dan-kritik-cikis-nato-dan-ayrilacaklar-mi-p334285",
+  "source": "Sözcü",
+  "summary_tr": "NATO Zirvesi öncesinde ABD Büyükelçi Whitaker, Washington'ın ittifaktan ayrılmayacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-06T19:01:10.955015+00:00",
+  "type": "news",
+  "cluster_id": "c311471bfa37c"
+ },
+ {
+  "title": "Ukraine's Zelenskiy: It is 'absurd' that production of missile defence arms cannot meet demand",
+  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON3QtNTJ6ZURCbFZ5ejgxcExKUVJJbmVER1MwR2VDdlc4SG5WNnU1Sk5VZWxlUXZra1VXOWNONHA2TlgzaTdFM0NvNWwwZ19aeDVJelUyOEJmQUZOZ09CSkl2UHF5SnRLVk1wLWpxVk5XVVU0Wmd5SHh2ZS1KOEhjNWtIN3c5eG0zbTQwSkM1ajd0Wm5hbHR4UEI0bkItczF6dzNVaFJDZXItSmxiS2JlZm9pTkxlbWppYlA4RWl2ckR0Y1NoVXFaX1lWMzZHZ2ctcWhETEtfOWlJV1U?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Zelenskiy, füze savunma silahları üretiminin talebi karşılayamamasının 'saçma' olduğunu söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-06T19:01:10.955015+00:00",
+  "type": "news",
+  "cluster_id": "c4a61571cc937"
+ },
+ {
+  "title": "Trump says there will either be a deal with Iran or US will 'finish the job'",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTkNkUE5kLUozQnVZUy1YTVJodXBJWmZmQ3Y5cTBCcTkzb0NCdl82TW1kbGJON1ZkYXM0LVhMWTJiSDFTNndDTkEyTk1jaWs3UEZmUjlzV3V6ZVc5MjBac3lVVFFpQlFfMkFZdVlaVmhOM1Zsa0FlaVVzSHlDX0s5NVNNMXRKNUg5aWRJcTNURmFGVW1nRElxRk5NVEdPdkJSVDdfVzJTVGMxMGZBOVpmWG9pblNKRXVEeVVrbXRycw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, İran ile anlaşma sağlanması veya ABD'nin 'işi bitirmesi' gerektiğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-06T19:01:10.955015+00:00",
+  "type": "news",
+  "cluster_id": "ca2f7a918a1f3"
+ },
+ {
+  "title": "France's Macron visits Syria, in first trip by an EU head of state since Assad toppled",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQk9jblFRY3RqU2RNMlB1dGQ4V3lsZkFxYmNDNWNYNWNPdWFMUVNlUFowTXIxMzQ4b2lOU3dtMGFZYnVra0Jnano2MjdBR0xjbk9VazZENEx4S25oMF92T2F5bkR4WFJwZE5XcWNmTmp6OVVmOGdYekMxQlJnVWhwWjk3c0hZS0tLaFJJZUNqNFRheXo4aEpJYmh6WHo5ektuZXN5NWs0V3pTb3R6UVJkNEw2Q0lIOUhQaE83U1pid20ydUxFMU9Vd0hPbGs?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Macron, Esad'ın devrilmesinden sonra AB lideri olarak ilk kez Suriye'yi ziyaret etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-06T19:01:10.955015+00:00",
+  "type": "news",
+  "cluster_id": "cefe8692dad96"
+ },
+ {
   "title": "İsrail'den ABD'ye: Türkiye'ye F-35 satmayın",
   "link": "https://www.dw.com/tr/israil-den-abd-ye-türkiye-ye-f-35-satmayın/a-77856459?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -54532,55 +54592,5 @@
   "score": 7,
   "ts": "2026-05-25T18:00:57.344032+00:00",
   "cluster_id": "c839498ca325f"
- },
- {
-  "title": "Mutlak butlan kararı aslında ne zaman verildi, neden beklendi, Yargıtay aşamasında neler olacak?",
-  "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQV0ZJNzF3RjFoUUJnVlV6NllyMzB3aWVVT2FDNU00bWhCZEM3ci1SSGNhMUQ4WGltMUs0ejVvWE1yaC0xNlpEVUIwR0FhdU5wdjRYaVlvdk5ieElsTXNBeW5nOUEtbDEweUV0YWt0dW1aSlAzTVAxeE5BQVVhNy10bDRWMVFYSHNrUFE0UVBScDFyLUx2a05wWlpRZ3pVRjkzemdDQncwdlQyLTA3b3phOHVhdnVVaU5wT1AxYnE4Z0dIQkVYSkNxSlhBLTliRlNZTWZzUFdIRzRsR0xBeW5TQXJIT1hsemc0MVM0?oc=5",
-  "source": "T24",
-  "summary_tr": "Anayasa Mahkemesi'nin CHP'ye verdiği 'mutlak butlan' kararının zaman çizelgesi, sebepleri ve Yargıtay sürecinde yaşanabilecekler analiz edildi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-25T18:00:57.344032+00:00",
-  "cluster_id": "c10e7f82a3afe"
- },
- {
-  "title": "Trump says Iran deal should include additional countries joining Abraham Accords",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORXlFelRZR2pXWkQzZ1NEbmhudU9MTXVwNEJVSWI0QzAtQ3F2bjNwcjYwbS1iRzRoWGRTUEk1LTJkbGg1czkwaFZScV8zNW9ZUXdnZEp0NVNvYlZaTGZJYlNEazFtMzMtdDhkX3V1SlF2Umt2WkdqMEIzZUxpZmJLdl9HZjVnZ0NIMEZvU250Q2lMVGs?oc=5",
-  "source": "AP",
-  "summary_tr": "Trump, İran anlaşmasının Abraham Anlaşmalarına katılan ek ülkelerle yapılması gerektiğini belirtti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-25T18:00:57.344032+00:00",
-  "cluster_id": "c589a88c735c1"
- },
- {
-  "title": "Özgür Özel için bu defa 'Cumhuriyet Halk Partisi lideri' ifadesi kullanıldı",
-  "link": "https://www.sozcu.com.tr/ozgur-ozel-icin-chp-lideri-unvani-kullanildi-p322702",
-  "source": "Sözcü",
-  "summary_tr": "Özgür Özel'in CHP Genel Başkanı tabelasının değiştirilmesinin ardından, Meclis odasında 'Cumhuriyet Halk Partisi lideri' ifadesi kullanılmaya başlandı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-25T18:00:57.344032+00:00",
-  "cluster_id": "c2e04d033c32d"
- },
- {
-  "title": "Özgür Özel'den net mesaj: İşte 'Baskın Seçim' yol haritası",
-  "link": "https://www.sozcu.com.tr/ozgur-ozel-den-net-mesaj-iste-baskin-secim-yol-haritasi-p322701",
-  "source": "Sözcü",
-  "summary_tr": "CHP lideri Özgür Özel, mahkeme kararı sonrası 'Baskın Seçim' yol haritasını açıklamış ve partide kalacağını vurgulamıştır.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-25T18:00:57.344032+00:00",
-  "cluster_id": "cf66528d341ab"
- },
- {
-  "title": "İçişleri Bakanlığında NATO Zirvesi öncesi güvenlik toplantısı yapıldı",
-  "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakanliginda-nato-zirvesi-oncesi-guvenlik-toplantisi-yapildi/3948338",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İçişleri Bakanlığında NATO Zirvesi öncesi güvenlik tedbirlerine ilişkin toplantı gerçekleştirildi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T18:00:57.344032+00:00",
-  "cluster_id": "c7a5de1086b97"
  }
 ]
