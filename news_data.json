@@ -1,5 +1,65 @@
 [
  {
+  "title": "Trump: (Rusya-Ukrayna savaşı) NATO'ya gideceğiz, konuyu görüşeceğiz ve sanırım bunu başaracağız",
+  "link": "https://www.aa.com.tr/tr/dunya/trump-rusya-ukrayna-savasi-natoya-gidecegiz-konuyu-gorusecegiz-ve-sanirim-bunu-basaracagiz/3987687",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, Türkiye'de başlayacak NATO Zirvesi'nde Ukrayna-Rusya arasında anlaşmaya varmak için görüşmelerde bulunacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-06T17:01:08.263566+00:00",
+  "type": "news",
+  "cluster_id": "c365532e9149b"
+ },
+ {
+  "title": "Trump'tan UkraynaRusya mesajı: NATO'ya gideceğiz, konuyu görüşeceğiz",
+  "link": "https://www.trthaber.com/haber/dunya/trumptan-ukrayna-rusya-mesaji-natoya-gidecegiz-konuyu-gorusecegiz-950424.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Başkanı Trump, NATO Zirvesi'nde Ukrayna-Rusya arasında anlaşmaya varmak için görüşmelerde bulunacağını söyledi.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-07-06T17:01:08.263566+00:00",
+  "type": "news",
+  "cluster_id": "ca3af0f9f7338"
+ },
+ {
+  "title": "Türkiye'ye gelen NATO nezdindeki Daimi Temsilciler heyeti, Anıtkabir'i ziyaret etti",
+  "link": "https://www.aa.com.tr/tr/gundem/turkiyeye-gelen-nato-nezdindeki-daimi-temsilciler-heyeti-anitkabiri-ziyaret-etti/3987706",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "NATO Zirvesi öncesi NATO nezdindeki Daimi Temsilciler heyeti Türkiye'ye geldi ve Anıtkabir'i ziyaret etti.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-06T17:01:08.263566+00:00",
+  "type": "news",
+  "cluster_id": "c05f04be7adb3"
+ },
+ {
+  "title": "NATO heyeti, Anıtkabir'i ziyaret etti",
+  "link": "https://www.trthaber.com/haber/gundem/nato-heyeti-anitkabiri-ziyaret-etti-950422.html",
+  "source": "TRT Haber",
+  "summary_tr": "NATO nezdindeki Daimi Temsilciler heyeti, 36. NATO Zirvesi kapsamında Anıtkabir'i ziyaret etti.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-06T17:01:08.263566+00:00",
+  "type": "news",
+  "cluster_id": "c05f04be7adb3"
+ },
+ {
+  "title": "Microsoft to cut 4,800 jobs, overhaul Xbox unit",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjdJSlpLcUl6ZjVHNk80NEd0VFVkWjJzUTJPYUNBUjFjUjQySmFFblBYRFFKemFZR3FER2FuUlVUR2UzMXV5bnJ4VDY1R2Rpb3FpX2xlelMyMzJUd0tySzJmRTlDeUl1ZU82a3JsYjUtNVUtLXVic09jdktfZWpzSjgwOW5uakQxYXdFRlk3NDd1ZEI5WktfT0pZdmNyVjlyNkVqR3VGVWF4Ums5TExLRUxUT3FPTnVZXzNETw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Microsoft, 4.800 kişiyi işten çıkaracak ve Xbox bölümünü yapılandıracak.",
+  "metric": "Microsoft işten çıkış 4.800 çalışan",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-06T17:01:08.263566+00:00",
+  "type": "news",
+  "cluster_id": "c506268ffc521"
+ },
+ {
   "title": "Trump'tan NATO Zirvesi öncesi İran'a gözdağı: Tamamını 1 saat içinde imha ederiz",
   "link": "https://www.sozcu.com.tr/donald-trump-iran-aciklamasi-6-temmuz-2026-p334256",
   "source": "Sözcü",
@@ -54520,55 +54580,5 @@
   "score": 8,
   "ts": "2026-05-25T17:00:53.698957+00:00",
   "cluster_id": "c6f7eb3d82f03"
- },
- {
-  "title": "Kılıçdaroğlu’nun ilk durağı TGRT Haber oldu: İktidar medyasıyla poz verdi!",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/kilicdaroglu-nun-ilk-duragi-tgrt-haber-oldu-iktidar-medyasiyla-poz-verdi-2506898",
-  "source": "Cumhuriyet",
-  "summary_tr": "Mahkeme kararıyla CHP Genel Başkanlığına atanan Kılıçdaroğlu'nun ilk teması iktidar medyasıyla oldu.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-25T17:00:53.698957+00:00",
-  "cluster_id": "cb77da06dce45"
- },
- {
-  "title": "Trump, 'anlaşmanın son detayları tartışılıyor' demişti: İran müzakere heyeti Katar'a gitti",
-  "link": "https://www.diken.com.tr/trump-anlasmanin-son-detaylari-tartisiliyor-demisti-iran-muzakere-heyeti-katara-gitti/?utm_source=rss&utm_medium=rss&utm_campaign=trump-anlasmanin-son-detaylari-tartisiliyor-demisti-iran-muzakere-heyeti-katara-gitti",
-  "source": "Diken",
-  "summary_tr": "İran müzakere heyeti Katar'a gitti; Trump anlaşmanın son detaylarının tartışıldığını belirtmişti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-25T17:00:53.698957+00:00",
-  "cluster_id": "c057452c6c0aa"
- },
- {
-  "title": "Bilgi Üniversitesi yeniden açıldı | Öğrenciler ve akademisyenler: Direniş kazandı!",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/bilgi-universitesi-yeniden-acildi-ogrenciler-ve-akademisyenler-direnis-kazandi-2506897",
-  "source": "Cumhuriyet",
-  "summary_tr": "Cumhurbaşkanlığı kararıyla kapatılan İstanbul Bilgi Üniversitesi üç gün sonra yeniden açıldı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-25T17:00:53.698957+00:00",
-  "cluster_id": "cf2e33c00ca1e"
- },
- {
-  "title": "Tahran, Mücteba Hamaney’in yaralandığı doğrulandı",
-  "link": "https://www.sozcu.com.tr/mucteba-hamaney-saglik-durumu-nasil-p322696",
-  "source": "Sözcü",
-  "summary_tr": "İran Sağlık Bakanlığı, Mücteba Hamaney'in ABD-İsrail saldırılarında yaralandığını doğruladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-25T17:00:53.698957+00:00",
-  "cluster_id": "c6681a7f97f61"
- },
- {
-  "title": "Genel Merkez’e baskın sonrası eylemler sürüyor… İstanbul’da 3 noktada demokrasi eylemi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/genel-merkez-e-baskin-sonrasi-eylemler-suruyor-istanbul-da-3-noktada-demokrasi-eylemi-2506895",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP, Genel Merkez'e düzenlenen polis baskını ve mutlak butlan kararına karşı eylemlerini sürdürüyor.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-25T17:00:53.698957+00:00",
-  "cluster_id": "c08a5da547f40"
  }
 ]
