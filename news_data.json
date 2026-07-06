@@ -1,5 +1,29 @@
 [
  {
+  "title": "Samsung likely to post 18-fold jump in profit on surging AI demand for memory",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdGJMNzJxUHljaTQ1aDhlVHRYUEQ5WVZOX0xOallVeUNlR0E2cHFSeEh6S2tzZ0VWXzdrY1B3czNRanpQTk5fNmhtTlE0TmtiYmRwOE9VQ05Cd2VaSVpIY2pVa29YM3FLQ0ZIOXNUVGxyUGdaNjNlQUZSOXVibEZYalk0a0pnbWlvc0pSaGd1bVdSUXl0NVpNNlMzMF84RkZJQ0hyMWxQUnA2Tjh2b0RhZW5Yb0M4d1Y0cVdr?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Samsung, yapay zeka talep nedeniyle karda 18 kat artış ile karşı karşıya. Bellek ürünlerine yönelik yoğun talep şirketi güçlü sonuçlara taşıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-06T02:00:58.186187+00:00",
+  "type": "news",
+  "cluster_id": "c395ced9fbacc"
+ },
+ {
+  "title": "7 OPEC+ countries agree to expand monthly oil production modestly as prices slide",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUt5T2hYa3VMNTRLSEI4Nm1RMVFLazlrWmxPb1RVRGJGaDZ1SjdkNzlIZmtPVFI4bTg0b2ZrcW9namNyVEFza05CQ2dzMGtGLVFNbnZGSmhaOG5wekg5anN4ejVScmREbUFMWVd4VVZULVV3dmstWjdaSVY3YzIybGNiLURGQno2TE5rbzN3Wi0yNWtwZlJmdjRWUVBiNWQxRkE?oc=5",
+  "source": "AP",
+  "summary_tr": "OPEC+ ülkelerinden 7 tanesi petrol fiyatlarındaki düşüşe karşılık aylık üretimlerini mütevazı düzeyde artırmayı kabul etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-06T02:00:58.186187+00:00",
+  "type": "news",
+  "cluster_id": "c12cc391ac707"
+ },
+ {
   "title": "Ukrainian capital Kyiv under missile attack, officials say",
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVHY0emVJd3h3VUdFQlJhMWNwckpjWGU4M2pvWmgxazFCNF9mWnhqeWhVS0RDbjFsSmVpZVZ6NUpkWlBNbk5OeG40a3JoOXVzb2thM1ZKWHJRQk5kTGU4d3ROYnhKUEhjOE5zR21fWlJrNWN3TXMxeENqaFdOa1BPMThtZFZlWjZWaElqTDNYWk8xcG5kblE4cW9ZeDRpTmZj?oc=5",
   "source": "Reuters",
@@ -54336,25 +54360,5 @@
   "score": 7,
   "ts": "2026-05-25T06:00:53.686777+00:00",
   "cluster_id": "c821368e6802a"
- },
- {
-  "title": "Zeydan Karalar'dan 'kurultay' çağrısı: 'CHP bu zor günleri de aşacak kudrete sahiptir'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/zeydan-karalar-dan-kurultay-cagrisi-chp-bu-zor-gunleri-de-asacak-kudrete-sahiptir-2506746",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'nin görevden uzaklaştırılan Adana Büyükşehir Belediye Başkanı Zeydan Karalar, partinin zorluk dönemlerini aşacak güce sahip olduğunu belirtti.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-25T06:00:53.686777+00:00",
-  "cluster_id": "c5e6ed360aa08"
- },
- {
-  "title": "Samsun'da 'Atatürk'ün eserine sahip çıkıyoruz' eylemi: 'CHP Genel Merkezi'ne darbe yapıldı'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/samsun-da-ataturk-un-eserine-sahip-cikiyoruz-eylemi-chp-genel-merkezi-ne-darbe-yapildi-2506744",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Samsun İl Örgütü öncülüğünde Genel Merkez tahliyesine karşı eylem düzenlendi; muhalefet ve sendikalar CHP'ye destek gösterisi yaptı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-25T06:00:53.686777+00:00",
-  "cluster_id": "ce711bf39e80b"
  }
 ]
