@@ -1,5 +1,29 @@
 [
  {
+  "title": "Ukrainian capital Kyiv under missile attack, officials say",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVHY0emVJd3h3VUdFQlJhMWNwckpjWGU4M2pvWmgxazFCNF9mWnhqeWhVS0RDbjFsSmVpZVZ6NUpkWlBNbk5OeG40a3JoOXVzb2thM1ZKWHJRQk5kTGU4d3ROYnhKUEhjOE5zR21fWlJrNWN3TXMxeENqaFdOa1BPMThtZFZlWjZWaElqTDNYWk8xcG5kblE4cW9ZeDRpTmZj?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ukrayna'nın başkenti Kyiv füze saldırısı altında. Ülke yetkilileri saldırıyı doğruladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-06T01:01:03.228562+00:00",
+  "type": "news",
+  "cluster_id": "c4f2ae9ccebed"
+ },
+ {
+  "title": "#2 milyar dolarlık imza",
+  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZV0xGYU5pd3QyRDQ3T2FPMmNtS1p2MXNsam41Yk41dTVFRmtONmowWmhibzM3YnhITEUwZUFsNmNESnhIdFpxMDNpNXpfQVo2eHpFbkYzMzV1RFRmTWppQ3FLdkV6ckNPcEs2SUU3RQ?oc=5",
+  "source": "T24",
+  "summary_tr": "2 milyar dolarlık önemli bir imza/anlaşma gerçekleşti. Detaylar haberde bulunmamaktadır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-06T01:01:03.228562+00:00",
+  "type": "news",
+  "cluster_id": "c2c9c0d58bcda"
+ },
+ {
   "title": "NATO Zirvesi neden önemli, Ankara'da hangi kararlar alınabilir?",
   "link": "https://www.bbc.com/turkce/articles/c70yy6wxgl9o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -54332,25 +54356,5 @@
   "score": 6,
   "ts": "2026-05-25T06:00:53.686777+00:00",
   "cluster_id": "ce711bf39e80b"
- },
- {
-  "title": "Erdoğan imzaladı, 7 IŞİD'li mal varlığını kurtardı",
-  "link": "https://www.sozcu.com.tr/erdogan-imzaladi-isid-li-7-isim-icin-mal-varligi-dondurma-hukmu-kaldirildi-p322551",
-  "source": "Sözcü",
-  "summary_tr": "Erdoğan imzaladığı kararla BM Güvenlik Konseyi listesinde yer alan 7 IŞİD'linin mal varlığı kurtarıldı.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-05-25T06:00:53.686777+00:00",
-  "cluster_id": "ca23652116275"
- },
- {
-  "title": "China's Huawei reveals chip design breakthrough amid US sanctions",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRS04bHUwcjl3V05GLUpvanRzUmRya0NNc1ZUcTR4S3RxSU50S0JTRzFUMnFZX2FRRFFYS2tROVU2TDNkSGJOa3VkZVhueFZZVWthSFlzdkJ4TDZhQ0xGQlp2WWFrbnluQ3g3VzU1dkY2X2kwSi10OGJRcnprbmQxcm9lVzNDa3pORW9sWGZxcXp0R3RPOGtBbklFVmZUQUFUZlJ5UXVkbkhubFdfV18yU0ZMNFg?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Huawei, ABD yaptırımları arasında çip tasarımında atılım gerçekleştirdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T06:00:53.686777+00:00",
-  "cluster_id": "c442c8763e2dc"
  }
 ]
