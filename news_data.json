@@ -1,5 +1,77 @@
 [
  {
+  "title": "Zelenskiy, NATO Zirvesi'nin Ukrayna için boş geçmeyeceğini umduklarını söyledi",
+  "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-nato-zirvesinin-ukrayna-icin-bos-gecmeyecegini-umduklarini-soyledi/3987868",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Zelenskiy, NATO Zirvesi'nin Ukrayna için önemli olduğunu vurgulayarak, Ankara'da alınan kararların Ukrayna'yı desteklemesini beklediklerini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-06T21:01:12.510458+00:00",
+  "type": "news",
+  "cluster_id": "c30ab53d304a8"
+ },
+ {
+  "title": "Zelenski, NATO Zirvesi'nin Ukrayna için boş geçmeyeceğini umduklarını söyledi",
+  "link": "https://www.trthaber.com/haber/dunya/zelenski-nato-zirvesinin-ukrayna-icin-bos-gecmeyecegini-umduklarini-soyledi-950432.html",
+  "source": "TRT Haber",
+  "summary_tr": "Zelenskiy, 36. NATO Zirvesi'nin Ukrayna'ya destek sağlanması açısından önemli olduğunu vurgulayarak beklentilerini dile getirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-06T21:01:12.510458+00:00",
+  "type": "news",
+  "cluster_id": "c30ab53d304a8"
+ },
+ {
+  "title": "NATO şefi Rutte, Ankara’dan Rusya'yı hedef aldı: 'Putin çaresiz'",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMk5HTGhrSzRfblpTTG5WdFJJejFiRzJuMzVtYXFwTFRZaUU0N3dTdE5MVEplNUI1TnF0dnJ3X093RWNldzg0Q2JRRUoxMWVOeGtRUElCemsydDRGSGZKUmZ1NFI0REswQnY1UkM1OWhiWkhKWC1UQ3I5Y01CQzhHZktfMHdzZVRRSVR5bFhxMjF3NjdIbTVnVmNyWHA?oc=5",
+  "source": "soL",
+  "summary_tr": "NATO Sekreteri Rutte, Ankara'da Putin'in çaresiz kaldığını vurgulayarak Rusya'yı eleştirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-06T21:01:12.510458+00:00",
+  "type": "news",
+  "cluster_id": "c7b9b818deede"
+ },
+ {
+  "title": "Trump won big spending promises from NATO last year. This week in Turkey, he'll try to enforce them",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNODIwR3c3SkhwQUpYcS1vOXl4cjZuSmlydnRnNXZnR2h0MTJTRGhhcmo5a05fOFZZaHZZek54SFFJSXZwblh1UXlKRlNIWUk0YU9ZVGdPOHZ4dkUzdnhqX1FZM0tqOGEtaXlkQlB2S0dRVEJoTm5qT1YxLWljLUFTdmUxRkpDRW1PVFdwV2JMUGFaTkNtYlViQnlQZUJlZw?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump, geçen yıl NATO'dan harcama artışı taahhütü aldı ve bu hafta Türkiye'de buluşacağı zirve sırasında bu taahhütleri uygulatmaya çalışacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-06T21:01:12.510458+00:00",
+  "type": "news",
+  "cluster_id": "c1a4d46c30788"
+ },
+ {
+  "title": "İmamoğlu üç farklı davadan hâkim karşısında | 'Casusluk' davasında ara karar: İmamoğlu, Merdan Yanardağ, Necati Özkan ve Hüseyin Gün hakkında tutukluluğa devam kararı!",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYlFVcXJ2WGhhNEVkbVZkcWhkNGVKTmlSLXE1LVJlMHFhUE9CZW9Cd1VIenRzV3E0MGEwbUpHWjVmRm1WbEtTVFpoUlN5TmdObXpFWXR5TUp3QXd6UXlxNm0xTmRJNDJmeTdqRDRzVmhfOXRiMzUzMXhuRElfMWFhc0h3SDJ6ei1WMFR2MDhqMGFjZ1M1Zk52TW1GY3ZRVElCVDJfNFd1RTB2dF90TVg4QVhOMDJHek1uNHRvY2VGdTVjVll4NFE?oc=5",
+  "source": "T24",
+  "summary_tr": "İmamoğlu ve diğerleri hakkında 'casusluk' davasında mahkeme tutukluluğun devamına karar verdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-06T21:01:12.510458+00:00",
+  "type": "news",
+  "cluster_id": "c3d243a72eaa0"
+ },
+ {
+  "title": "As Khamenei mourners fill Iran's streets, discontent still simmers",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTnBNdnMxQ1NUTHFxMmxGUmNrQjV3YTRvZUFKZ3RmUzVDYjBHaTNiWE9nZm51SWJhQXhVc0JLSXo0X0JucmxYcGZMR0xYVTBLYjJ6N2lzc1BZWEZQTGpWQlBCelBPQ0pQYlB4akFmbXFNOG5ON1RDOW5PaVl1R1ZHYXZERXB0SWdyYVBUR25ody15Qi0xTHFkRUZCTDB6WDhhWGJBN2xFYXI3ODRjMjF3emMzbkNWZw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Humeyni'nin cenaze töreninde Tahran sokaklarını dolduran kalabalığa rağmen İran'da yaygın bir hoşnutsuzluk devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-06T21:01:12.510458+00:00",
+  "type": "news",
+  "cluster_id": "c533d7261bc49"
+ },
+ {
   "title": "Khamenei funeral signals Iran's defiance and new regional order",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTmloVTVHdy1pN25CSUVVb3RkUG53eGhzUFBoZWhlZjJSZ3pwaEhVcEFCU2hFdVUtS0JRN2xleTQ2ZFRRcHFhOXhidk9tc3hNcmFCTVlHc0dOVDIyRGhTSVJBR2dDQjZ3YTFHZlkyeG1zSmhEbThpaUFlSk9YelVYVkVzTmdDSEh1b1JRN1BsNnkzT3ZkVkRkRDJLZ3BJakRnVU5pYlNmald4RF80R3FhREZ3?oc=5",
   "source": "Reuters",
@@ -54540,65 +54612,5 @@
   "score": 7,
   "ts": "2026-05-25T19:00:55.552557+00:00",
   "cluster_id": "c407100d8479c"
- },
- {
-  "title": "Özgür Özel: Baskın seçim olursa adayımızı gösterir, yüzde 60’la seçiliriz",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeV9kU21oQUgwRndhR0JEd1BVYTJYeWtWZUJ0UVhuVXJnNmJUTzZmaGJTRkZiak4tdndNREZZcEc2ZVJxSk9FeXkyY1A2ZzJfRHltX0NweDBRRVdPdUlfNW9mekwyVkUyQ1VCeEZkOHNGbE5PZDhEaF90ZGw3TUNXcGZGajVaWmhxSDRxNElHb2ctWU1lYkZVYXBuN0tWRktjT3hZUGdRbi1RVUo0?oc=5",
-  "source": "soL",
-  "summary_tr": "CHP Genel Başkanı Özel, erken seçim olması halinde partinin adayını göstereceklerini ve yüzde 60 oyla seçileceklerini söyledi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-25T19:00:55.552557+00:00",
-  "cluster_id": "c7ff55ca77ffc"
- },
- {
-  "title": "Iran would open Strait of Hormuz 30 days after peace deal, Nikkei reports citing source",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWGpVeEs4ak4xUEV1Qm1hOEVNUUVLTno5N3l4Z3QzVzctcDFROTRNZHNHQjhMSEwzRXlqODVENTExNkp5WFNjb09nY01lYmFLVmVsMS1sVnc4aTdEX3p5THpiR0NDVDhnanczRVpLYUN6bGptN1RUM2FDdFhtMFZQcDN5ODFvSEh1V1dIVzdKZUdpbGY4dWNEWjBzaUVOV1Q5cE9kMU4wWnppYUt3UU5KODN4a3ZDcU9OUm1IbnI3b01SWFloNjFiclpn?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Reuters'e göre, İran barış anlaşmasından 30 gün sonra Hürmüz Boğazı'nı açacağını bildirdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-25T19:00:55.552557+00:00",
-  "cluster_id": "c19dff35eb951"
- },
- {
-  "title": "İran'da internet kısıtlaması kaldırıldı",
-  "link": "https://www.diken.com.tr/iranda-internet-kisitlamasi-kaldirildi/?utm_source=rss&utm_medium=rss&utm_campaign=iranda-internet-kisitlamasi-kaldirildi",
-  "source": "Diken",
-  "summary_tr": "İran Cumhurbaşkanı Pezeşkiyan, internetin uluslararası erişime açılmasını onayladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T19:00:55.552557+00:00",
-  "cluster_id": "cabc6e947d862"
- },
- {
-  "title": "Kemal Kılıçdaroğlu'nun fotoğrafı, CHP Genel Merkezi'ne asıldı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/kemal-kilicdaroglu-nun-fotografi-chp-genel-merkezi-ne-asildi-2506919",
-  "source": "Cumhuriyet",
-  "summary_tr": "Kemal Kılıçdaroğlu'nun fotoğrafı, polis müdahalesiyle tahliye edilen CHP Genel Merkezi'ne asıldı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-25T19:00:55.552557+00:00",
-  "cluster_id": "c1314b3ed5878"
- },
- {
-  "title": "“Mutlak butlan” sonrası AKP ve CHP yeniden bayramlaşacak",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/mutlak-butlan-sonrasi-akp-ve-chp-yeniden-bayramlasacak-2506907",
-  "source": "Cumhuriyet",
-  "summary_tr": "AKP, mahkemenin 'mutlak butlan' kararı sonrası oluşturulan yeni CHP yönetimi ile Kurban Bayramı bayramlaşmasını programladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T19:00:55.552557+00:00",
-  "cluster_id": "cf0928389d801"
- },
- {
-  "title": "'Mutlak butlan' sonrası ilk: CHP ile AKP bayramlaşacak",
-  "link": "https://www.sozcu.com.tr/chp-ile-akp-bayramlasacak-mi-p322714",
-  "source": "Sözcü",
-  "summary_tr": "CHP'de 'mutlak butlan' kararı sonrası atanan yönetim, AKP ile bayramlaşmaya karar verdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T19:00:55.552557+00:00",
-  "cluster_id": "cf0928389d801"
  }
 ]
