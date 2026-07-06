@@ -1,5 +1,89 @@
 [
  {
+  "title": "Yurttaşın maaşı enflasyon ve vergilerle eridi: Ücretlerdeki kayıp 15 bin lirayı aştı",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/yurttasin-maasi-enflasyon-ve-vergilerle-eridi-ucretlerdeki-kayip-15-bin-lirayi-asti-2518484",
+  "source": "Cumhuriyet",
+  "summary_tr": "DİSK-AR raporu: Yılın ilk beş ayında sigortalı işçiler enflasyon ve vergilerle 890 milyon lira kayıp yaşadı, ücretlerdeki kayıp 15 bin lirayı aştı.",
+  "metric": "İşçi ücret kaybı: 15.000+ TL",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-06T13:01:09.645800+00:00",
+  "type": "news",
+  "cluster_id": "c29d3d3f97b6b"
+ },
+ {
+  "title": "ABD Başkanı Trump yarın Türkiye'ye geliyor",
+  "link": "https://www.trthaber.com/haber/gundem/abd-baskani-trump-yarin-turkiyeye-geliyor-950399.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Başkanı Trump, Cumhurbaşkanı Erdoğan'ın davetine icabetle Türkiye'ye resmi bir ziyarette bulunuyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-06T13:01:09.645800+00:00",
+  "type": "news",
+  "cluster_id": "cc6b54ecdd203"
+ },
+ {
+  "title": "Kredi kartı aidatlarına yüzde 70 zam geldi",
+  "link": "https://www.sozcu.com.tr/kredi-karti-aidatlarina-yuzde-70-zam-geldi-p334213",
+  "source": "Sözcü",
+  "summary_tr": "Kredi kartı yıllık aidatlarında yüzde 70 zam uygulandı; bazı bankalarda ücretler 2 bin TL'yi aştı.",
+  "metric": "Kredi kartı aidatı: +%70",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-06T13:01:09.645800+00:00",
+  "type": "news",
+  "cluster_id": "c23c5b04ba991"
+ },
+ {
+  "title": "İletişim Başkanı Duran'dan ABD Başkanı Trump'ın Türkiye ziyaretine ilişkin açıklama",
+  "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-abd-baskani-trumpin-turkiye-ziyaretine-iliskin-aciklama/3987380",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İletişim Başkanı Duran, Trump'ın Türkiye ziyaretinde savunma, ticaret ve yatırımlar başta olmak üzere Türkiye-ABD ilişkilerinin ele alınacağını açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-06T13:01:09.645800+00:00",
+  "type": "news",
+  "cluster_id": "caff978f6eebf"
+ },
+ {
+  "title": "Societe Generale'den dolar tahmini: 2026'nın ikinci yarısı nasıl geçecek?",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/societe-generale-den-dolar-tahmini-2026-nin-ikinci-yarisi-nasil-gececek-2518491",
+  "source": "Cumhuriyet",
+  "summary_tr": "Societe Generale, doların 2026'nın ikinci yarısında küresel piyasalarda güçlü kalacağını tahmin ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-06T13:01:09.645800+00:00",
+  "type": "news",
+  "cluster_id": "ce5e8d6785d46"
+ },
+ {
+  "title": "Veriler açıkladı: Tüketici büyük harcamaları indirim dönemine erteliyor",
+  "link": "https://www.cumhuriyet.com.tr/yasam/veriler-acikladi-tuketici-buyuk-harcamalari-indirim-donemine-erteliyor-2518489",
+  "source": "Cumhuriyet",
+  "summary_tr": "Tüketici verileri, vatandaşların temel ihtiyaçları hızla karşıladıktan sonra büyük harcamaları indirim dönemine ertelediğini gösteriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-06T13:01:09.645800+00:00",
+  "type": "news",
+  "cluster_id": "c71d4c31f8b3f"
+ },
+ {
+  "title": "TL'nin değeri haziranda geriledi",
+  "link": "https://www.sozcu.com.tr/tl-nin-degeri-haziranda-geriledi-p334219",
+  "source": "Sözcü",
+  "summary_tr": "Türk lirasının reel efektif döviz kuru haziranda 0,8 puan azalarak 104,90'a indi.",
+  "metric": "REK endeksi: 104,90 (-0,8 puan)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-06T13:01:09.645800+00:00",
+  "type": "news",
+  "cluster_id": "c30e70e9eb842"
+ },
+ {
   "title": "Zelenskiy'den NATO'ya: Acil hava savunması gönderin",
   "link": "https://www.dw.com/tr/zelenskiy-den-nato-ya-acil-hava-savunması-gönderin/a-77850395?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -54436,75 +54520,5 @@
   "score": 7,
   "ts": "2026-05-25T13:00:57.547881+00:00",
   "cluster_id": "c1a814886b480"
- },
- {
-  "title": "AA Finans, 1. Çeyrek Büyüme Beklenti Anketi sonuçlandı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/aa-finans-1-ceyrek-buyume-beklenti-anketi-sonuclandi/3948091",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "AA Finans anketi sonuçlarına göre ekonomistler birinci çeyrekte yıllık bazda yüzde 2,7 büyüme bekliyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-25T13:00:57.547881+00:00",
-  "cluster_id": "c80f83d949a92"
- },
- {
-  "title": "DEM Parti'den Özel'e ziyaret: Müdahaleyi meşru görmüyoruz",
-  "link": "https://www.diken.com.tr/dem-partiden-ozele-ziyaret-mudahaleyi-mesru-gormuyoruz/?utm_source=rss&utm_medium=rss&utm_campaign=dem-partiden-ozele-ziyaret-mudahaleyi-mesru-gormuyoruz",
-  "source": "Diken",
-  "summary_tr": "DEM Parti Eş Başkanı Bakırhan, CHP Genel Merkezi'ne yapılan polis müdahalesini ziyaretinde eleştirdi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-25T13:00:57.547881+00:00",
-  "cluster_id": "c107f9cff687c"
- },
- {
-  "title": "Erdoğan, Umman Sultanı Heysem Bin Tarık ile telefonda görüştü",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/erdogan-umman-sultani-heysem-bin-tarik-ile-telefonda-gorustu-2506854",
-  "source": "Cumhuriyet",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, Umman Sultanı Heysem Bin Tarık ile bölgesel gelişmeler ve Filistin meselesi hakkında telefonda görüştü.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T13:00:57.547881+00:00",
-  "cluster_id": "c00486e5b1021"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan, Umman Sultanı Heysem bin Tarık ile görüştü",
-  "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-umman-sultani-heysem-bin-tarik-ile-gorustu-946229.html",
-  "source": "TRT Haber",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, Umman Sultanı Heysem Bin Tarık ile telefon görüşmesi gerçekleştirdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T13:00:57.547881+00:00",
-  "cluster_id": "c00486e5b1021"
- },
- {
-  "title": "Çin'in kurulu elektrik üretim kapasitesinde 4 ayda yüzde 14,2 artış",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/cin-in-kurulu-elektrik-uretim-kapasitesinde-4-ayda-yuzde-14-2-artis-2506848",
-  "source": "Cumhuriyet",
-  "summary_tr": "Çin'in kurulu elektrik üretim kapasitesi ilk 4 ayda yüzde 14,2 oranında arttı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T13:00:57.547881+00:00",
-  "cluster_id": "cad8a8b324d77"
- },
- {
-  "title": "Trump'tan İran açıklaması: Türkiye de dahil olmalı",
-  "link": "https://www.sozcu.com.tr/trump-tan-iran-aciklamasi-turkiye-de-dahil-olmali-p322664",
-  "source": "Sözcü",
-  "summary_tr": "Trump, İran müzakerelerine Türkiye de dahil olmak üzere bölge ülkelerinin katılmasını talep etti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T13:00:57.547881+00:00",
-  "cluster_id": "c4d1e235016cc"
- },
- {
-  "title": "İran Meclisi ve Müzakere Heyeti Başkanı Kalibaf, beraberindeki heyetle Katar'a gitti",
-  "link": "https://www.aa.com.tr/tr/dunya/iran-meclisi-ve-muzakere-heyeti-baskani-kalibaf-beraberindeki-heyetle-katara-gitti/3948128",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran Meclisi Başkanı Kalibaf, Katar'a gitti; çeşitli temaslarda bulunacak.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T13:00:57.547881+00:00",
-  "cluster_id": "c201cd3b0e687"
  }
 ]
