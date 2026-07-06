@@ -1,5 +1,29 @@
 [
  {
+  "title": "ABD Başkanı Trump'ın Ankara programı belli oldu",
+  "link": "https://www.trthaber.com/haber/gundem/abd-baskani-trumpin-ankara-programi-belli-oldu-950331.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Başkanı Trump, Ankara'da düzenlenecek 36. NATO Devlet ve Hükümet Başkanları Zirvesi'ne katılacak; zirve yaklaşıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-06T04:01:03.330892+00:00",
+  "type": "news",
+  "cluster_id": "c99a93ee29a41"
+ },
+ {
+  "title": "South Korea's SK Hynix to launch $28 billion US listing to ride global AI wave",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOExMMERoTnlfeUtLdDFoejc3emp1SXBuQ3NHUGk4YndsTjBxamcyYnh5Qmp6ckFrNk4xTGtld1ZNT2NDOVJHZGVwODVfSENhYXA1Qkg3SjhnZnNjTmhmSjg5Y2x5MzhZbWRDU3M1VHhBV0NxdGJqYkg0ZnlUSUEybVVNRm9MN3R2VnBWRHZVN2NTbFZJZjVSVEpaV3k3ZGVGOXg1Rl9Hd0dveVlLMGRYQ0xtQWx3VkM4N3Bmc1p1MmRSMVk?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Güney Kore'nin SK Hynix şirketi, yapay zeka talebini değerlendirmek için 28 milyar dolar değerinde ABD borsasında halka arz yapacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-06T04:01:03.330892+00:00",
+  "type": "news",
+  "cluster_id": "c284f0ff51103"
+ },
+ {
   "title": "Ekrem İmamoğlu bugün üç ayrı davada hakim karşısına çıkacak",
   "link": "https://www.bbc.com/turkce/articles/c8922001gv9o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -54354,25 +54378,5 @@
   "score": 6,
   "ts": "2026-05-25T07:01:02.967968+00:00",
   "cluster_id": "c4a243b5aa994"
- },
- {
-  "title": "Petrolde sert düşüş: İran anlaşması beklentisi fiyatları çakıldı",
-  "link": "https://www.sozcu.com.tr/petrolde-sert-dusus-iran-anlasmasi-beklentisi-fiyatlari-cakildi-p322570",
-  "source": "Sözcü",
-  "summary_tr": "ABD-İran uzlaşı beklentisiyle Brent petrol sert düştü, varil fiyatı geriledi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T07:01:02.967968+00:00",
-  "cluster_id": "cfe588b460bec"
- },
- {
-  "title": "İsrail ordusu ateşkese rağmen Lübnan'da 10 belde için saldırı tehdidinde bulundu",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanda-10-belde-icin-saldiri-tehdidinde-bulundu/3947732",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyi ve doğusundaki 10 belde için saldırı tehdidi yayınladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T07:01:02.967968+00:00",
-  "cluster_id": "c3a2ad47decec"
  }
 ]
