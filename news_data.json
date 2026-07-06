@@ -1,5 +1,65 @@
 [
  {
+  "title": "Cumhurbaşkanlığı Külliyesi NATO Zirvesi'ne hazır",
+  "link": "https://www.trthaber.com/haber/gundem/cumhurbaskanligi-kulliyesi-nato-zirvesine-hazir-950383.html",
+  "source": "TRT Haber",
+  "summary_tr": "36. NATO Devlet ve Hükümet Başkanları Zirvesi yarın Ankara'da başlıyor. Cumhurbaşkanlığı Külliyesi ve tüm hazırlıklar tamamlandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-06T11:01:06.043054+00:00",
+  "type": "news",
+  "cluster_id": "c24148f008de7"
+ },
+ {
+  "title": "17 yıl sonra bir ilk: Trump Erdoğan'a ne hediye verecek?",
+  "link": "https://www.dw.com/tr/17-yıl-sonra-bir-ilk-trump-erdoğan-a-ne-hediye-verecek/a-77710555?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "ABD Başkanı Trump, 17 yıl sonra ilk kez Ankara'yı ziyaret ediyor. Görüşmelerde KAAN motorları, F-35 programı ve CAATSA yaptırımları gibi kritik konular ele alınacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-06T11:01:06.043054+00:00",
+  "type": "news",
+  "cluster_id": "ce17556fc7253"
+ },
+ {
+  "title": "Iranian mourners call for vengeance on Trump during Khamenei funeral procession",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYk1zeXpDeENmeEt5T2RZaHg1YUFWX1hOSmtZZnFWcnBlck02WDZNSk1QUUtRZTRfYkJuQmtvOW5iTkVZTEo0QzlUcHlIcmcybjZUUHJzWHBGWGd2aUxody1nMW9uSXRxTnRmbGd3WDVlaFVXSVBTazZ2eGtudk5YbUd2aXVJdXpjTjZXa1FDYUJpa2o4ZUNPUTVCMW1VMEtBWWFKRDVqXzlJUTJuS0VxaEdwdnZMNlNvOVczdXRCVmpsekJj?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran'ın dini lideri Hamaney'nin cenaze merasiminde binlerce kişi Trump'tan intikam çağrısında bulundu. Gerilim Ortadoğu'da yüksek seviyelerde devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-06T11:01:06.043054+00:00",
+  "type": "news",
+  "cluster_id": "c2362d3c35975"
+ },
+ {
+  "title": "Türkiye'nin okul kıyafeti üreten firması iflas etti",
+  "link": "https://www.sozcu.com.tr/turkiye-nin-okul-kiyafeti-ureten-firmasi-iflas-etti-p334169",
+  "source": "Sözcü",
+  "summary_tr": "İzmir'de okul ve iş kıyafetleri üreten Cece Tekstil şirketi iflas etti. Şirket daha önce kesin mühlet ve komiser görevlendirilmesi kararı almıştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-06T11:01:06.043054+00:00",
+  "type": "news",
+  "cluster_id": "c7a5631a224ec"
+ },
+ {
+  "title": "Dev havayolu şirketi satılıyor: Milyar dolarlık teklife 'evet' dedi",
+  "link": "https://www.sozcu.com.tr/dev-havayolu-sirketi-satiliyor-milyar-dolarlik-teklife-evet-dedi-p334165",
+  "source": "Sözcü",
+  "summary_tr": "Avrupa'nın ucuz fiyatlı havayolu şirketi EasyJet, ABD yatırım şirketinin milyar dolarlık satın alma teklifini kabul etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-06T11:01:06.043054+00:00",
+  "type": "news",
+  "cluster_id": "c1a00a41243a9"
+ },
+ {
   "title": "Bakanlıktan ekmek fiyatları için kritik adım: Üretim süreçleri yeniden düzenleniyor",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/bakanliktan-ekmek-fiyatlari-icin-kritik-adim-uretim-surecleri-yeniden-duzenleniyor-2518440",
   "source": "Cumhuriyet",
@@ -54416,55 +54476,5 @@
   "score": 6,
   "ts": "2026-05-25T12:01:03.234962+00:00",
   "cluster_id": "c261c818cb881"
- },
- {
-  "title": "Ziyaret sonrası DEM Parti heyeti ile Özel'den açıklama",
-  "link": "https://www.sozcu.com.tr/ziyaret-sonrasi-dem-parti-heyeti-ile-ozel-den-aciklama-p322650",
-  "source": "Sözcü",
-  "summary_tr": "DEM Parti heyeti Meclis'te CHP Genel Başkanı Özel'i ziyaret etti; ziyaret sonrası açıklama yapıldı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-25T12:01:03.234962+00:00",
-  "cluster_id": "cc649cf57c0cb"
- },
- {
-  "title": "AK Parti Sözcüsü Çelik'ten istinafın CHP kurultay davası kararına ilişkin açıklama",
-  "link": "https://www.aa.com.tr/tr/gundem/ak-parti-sozcusu-celikten-istinafin-chp-kurultay-davasi-kararina-iliskin-aciklama/3948064",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "AK Parti Sözcüsü Çelik, CHP kurultay davası istinafı kararı hakkında 'CHP'lilerin kendi içindeki çatışma' olduğunu belirtti.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-05-25T12:01:03.234962+00:00",
-  "cluster_id": "cd1325294b1d3"
- },
- {
-  "title": "Öcalan: Bir siyasi partiye balyozla girmek olacak şey mi; demokrasiye sanki bir lüksmüş, demagojiymiş gibi yaklaşmak vahim bir hata!",
-  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTUF1ODRxVzRHZUJPemRrd2FrVEdJR1YxLUo2NkhKTWdTRHNLNnBkNUJ5b25kM3NpZXFEY2MxSGhISzJkUlF5NE1ncGw2SWRmR245c2N2cGduMU9QbkdwT0RwcFczcUkzSk94YnZJZFNQUEo4SlZiMS1ZOWt3TlZTajBYdW43aERNLTYwRnUxNEZGX1RDdUhkNkU0SUpZdmRaQ1lrUHgzaTZBTWJQcTRJMmVhazJkb3JvOHQwMHlBb1lSTFNHd1hwUFZVWXlCX3Vza2tYVVBud0tTX3ZvX0V3?oc=5",
-  "source": "T24",
-  "summary_tr": "Öcalan, CHP Genel Merkezi'ne balyozla girmek olayını eleştirerek demokrasiye demagojik yaklaşılmasını 'vahim bir hata' olarak nitelendirdi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-25T12:01:03.234962+00:00",
-  "cluster_id": "cedab73e0e873"
- },
- {
-  "title": "Öcalan: \"Bir siyasi partinin genel merkezine kapısını balyozla kırarak girmek demokraside olacak şey midir?\"",
-  "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOT2NyNEY2MjE0QWhLZnRHY3BCbWhfS0xrRno3U3RsQVIwcVl6NExCUllheDA5SXZmbGF2UkYtbkduNWs1VnFFc1ZRZGY0WDVBZGxoNU1XYTI4TzZHdzRveFFOMm1jVlZ6TjhqSmpKWUZVQXhkVktKN1RKRlJIbHpNa2FDaXVSMFZUTE9pb3ZHcE5hQ2djZzlGV3Rjclh4anI1STNsTGtxbF9vRTJXYmZEVVYzUHJFWFUzWnNkcEU3MXF2b1o4RDlrZzI4V0ZnQTJsRVdsQWprUnlZdGhqdlRScHdjMV8wOURsSGxsSUJQN0JoSWl3TXgtS1ZkMWkzOWFuVXJJTA?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Öcalan, siyasi partinin genel merkezinin kapısının balyozla kırılmasının demokraside yeri olup olmadığını sorguladı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-25T12:01:03.234962+00:00",
-  "cluster_id": "c7288873ea506"
- },
- {
-  "title": "AKP, 'butlan'ın tarafı değilmiş: Atlatılmayacak kriz yok",
-  "link": "https://www.diken.com.tr/akp-butlanin-tarafi-degilmis-atlatilmayacak-kriz-yok/?utm_source=rss&utm_medium=rss&utm_campaign=akp-butlanin-tarafi-degilmis-atlatilmayacak-kriz-yok",
-  "source": "Diken",
-  "summary_tr": "AKP Sözcüsü Ömer Çelik, CHP'ye verilen 'mutlak butlan' kararına tepki göstererek 'çatışmanın CHP içinde' olduğunu söyledi.",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-05-25T11:01:06.624945+00:00",
-  "cluster_id": "c3a91f5229f84"
  }
 ]
