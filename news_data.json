@@ -1,5 +1,17 @@
 [
  {
+  "title": "Trump says Walmart will lower prices on ground beef, other items",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVFPbnM1STRBMzd5c09xOVpoOEpELXdqMENhNjFjVUp5eWYtdTVyQW9pcUNaSW1FSzBSZmlNSG0wOHFnTGZCWFh2NHFUNlJVeVJaTklDRHcxUTdBQVAzV3lrVmt3Q0pLbVgxZ090eE4xczBjQ3ItX3lsdnZ2VmRiSHAtcEdJbGhuc0lwUi1LbkRQZFlST0JrYmI3VQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, Walmart'ın yer etli ve diğer ürünlerde fiyat indirimini yapacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-06T23:01:00.914801+00:00",
+  "type": "news",
+  "cluster_id": "cea7e1b72ab25"
+ },
+ {
   "title": "TUFE (yillik): %32,11",
   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfUDJuWFJIdkZTcUlJc1IxdkI3TW84RzFRYTRqNjRWMjhUMTg1anp2dnpTM1ZOalZQQ2xiVkRvc3lpeFB0VjFqMmljcVFYRm14MG5UVHZsSWhXRW4tYjVTSHJLQ1k0SEVo?oc=5",
   "source": "TUIK",
@@ -54604,15 +54616,5 @@
   "score": 8,
   "ts": "2026-05-25T19:00:55.552557+00:00",
   "cluster_id": "c33345d1534a8"
- },
- {
-  "title": "Netanyahu, Lübnan'a saldırıların arttırılması talimatını verdiğini duyurdu",
-  "link": "https://www.aa.com.tr/tr/dunya/netanyahu-lubnana-saldirilarin-arttirilmasi-talimatini-verdigini-duyurdu/3948381",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail Başbakanı Netanyahu, orduya Lübnan'a yönelik saldırıların artırılması talimatını verdiğini açıkladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-25T19:00:55.552557+00:00",
-  "cluster_id": "ca48f6b918695"
  }
 ]
