@@ -1,5 +1,53 @@
 [
  {
+  "title": "NATO Zirvesi neden önemli, Ankara'da hangi kararlar alınabilir?",
+  "link": "https://www.bbc.com/turkce/articles/c70yy6wxgl9o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "NATO Zirvesi Ankara'da başlıyor. İttifak ABD yönetiminin yaklaşımı nedeniyle zorlu dönemden geçerken, zirvede önemli kararlar alınması bekleniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-06T00:01:00.975366+00:00",
+  "type": "news",
+  "cluster_id": "cffdb3e1b94ea"
+ },
+ {
+  "title": "ABD'den İsrail'e \"Batı Şeria'da şiddeti durdurma talebi\" iddiası",
+  "link": "https://www.aa.com.tr/tr/dunya/abdden-israile-bati-seriada-siddeti-durdurma-talebi-iddiasi/3986899",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD, İsrail Başbakanı Netanyahu'nun gelecek haftaki ziyareti sırasında Batı Şeria'daki şiddeti durdurması konusunda baskı yapacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-06T00:01:00.975366+00:00",
+  "type": "news",
+  "cluster_id": "cd03eeb6d072f"
+ },
+ {
+  "title": "British military says cargo ship reports attack in the Red Sea off Yemen",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONm9jMzVyNFJ5NlJ3dXAzcWpYTkxGam1ZNE1wSEVBVmNlSWFIUndEdEhsMDJfdUNvN2FTS0JnMkpjOVBpS3VnZGh2bWptN1ZHYjhuQkNxOHBlMjVPZjIzdTlkVHRWckxYUHBsTGwzQTFWeUdrU2JoTnFneFhQbWZ5V1hWNGVoNjM4NmVV?oc=5",
+  "source": "AP",
+  "summary_tr": "İngiliz ordusu, Kızıldeniz'de Yemen açıklarında bir kargo gemisinin saldırıya uğradığını bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-06T00:01:00.975366+00:00",
+  "type": "news",
+  "cluster_id": "cadb82f43af73"
+ },
+ {
+  "title": "Gerçek işsizlik oranı: %31",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTDFubktaNWYwMVZZT0hRNlkxazVvanAtbWpvM21uWjVrcnBXNmlpZjVWRnJhajNsVUtfRmVBMTVEWWRYb2V3a25wbFYtQ1hXa0lSNzRiRXNDR3RKbVE3VVgwT0tkc1VqOG1BT2g3RUNKUklST0RuRzR6WmJyUGJNUm83LTJQd0VUeS1GTF9FeUY?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%31",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-06T00:01:00.975366+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "#kiraya çıkma maliyeti",
   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjWlU0R1NTLXB0NlU3RDY1bS12V09ydmlKMFJsUEVzekJaRFBnVEc3cThSX1Z0SGFuMm5rdHBMbTJuY2Rwb09YUW41TU9TY0dnV05WZmtkbWdyampGWnVVaHl6RWFmNXNCOFJyNkVMYjkwdw?oc=5",
   "source": "T24",
@@ -54304,45 +54352,5 @@
   "score": 6,
   "ts": "2026-05-25T06:00:53.686777+00:00",
   "cluster_id": "c442c8763e2dc"
- },
- {
-  "title": "Tokyo stocks hit record, oil and dollar ease on Middle East peace hopes",
-  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80REpkZUY0REpKR1N0dkFWY29kaGdsYVlCdnhDdTNGNTYyWTVZSF9NOGl0bE5iM0ZoY1BjNnY3S0NGLXFFTVg0RkkycW90SG1oX3JNTXVuZlVHN182UUlkX29mNndnRktCTEozdk5IaF9UVDVnb19wc1RNUQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Tokyo borsası rekor kırdı; Orta Doğu barış umutları petrol ve doların değer kaybetmesine yol açtı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T06:00:53.686777+00:00",
-  "cluster_id": "c11caf688e31d"
- },
- {
-  "title": "107 yıllık partinin seçilmiş yönetimi, polis baskınıyla genel merkezden çıkarıldı: 'CHP yıkılmaz'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/107-yillik-partinin-secilmis-yonetimi-polis-baskiniyla-genel-merkezden-cikarildi-chp-yikilmaz-2506739",
-  "source": "Cumhuriyet",
-  "summary_tr": "Anayasa Mahkemesi'nin mutlak butlan kararı sonrası seçilmiş CHP yönetimi polis baskınıyla genel merkezden çıkarıldı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-25T05:00:44.888863+00:00",
-  "cluster_id": "cd8a6dd762462"
- },
- {
-  "title": "Oil slips 6% as US, Iran seen moving closer to peace deal",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZm9XX0ZzVmNoTnljTTdPaDRsYTRiMHA0ajVydVFGWjh2cjEteHJ0THhXemlXUmlzMThlUHU3S2RtNXRmRE1oUGlrWUFjdFBwSEpkN18zTTVzZWRzT29LZ3YwekNuVWdSZnpFRVA4cGs1R3laWFMtb2QwTVB6V1htQlpfRXJRQk5YVWg2ek94OWJSNTl6LWFVSThkb0s0QUMwOFY3eUhMMlkxQW1teFE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD ve İran barış anlaşmasına yaklaştığı görüşüyle petrol fiyatları %6 düştü.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-25T05:00:44.888863+00:00",
-  "cluster_id": "cc2334c2f2c0f"
- },
- {
-  "title": "CHP'den İstanbul’un 3 noktasında eylem çağrısı: 'Halkın dediği olur'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-den-istanbul-un-3-noktasinda-eylem-cagrisi-halkin-dedigi-olur-2506742",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP İstanbul İl Başkanlığı, 'halk iradesi' ve 'demokrasi' vurgusuyla İstanbul'un 3 noktasında eylem ve basın açıklaması düzenliyor.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-25T05:00:44.888863+00:00",
-  "cluster_id": "cd537c3e85628"
  }
 ]
