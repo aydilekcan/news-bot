@@ -1,5 +1,101 @@
 [
  {
+  "title": "ABD’den Netanyahu’ya Batı Şeria baskısı",
+  "link": "https://www.cumhuriyet.com.tr/dunya/abd-den-netanyahu-ya-bati-seria-baskisi-2518377",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD yönetimi, Netanyahu'nin Washington ziyareti sırasında Batı Şeria operasyonlarında baskı uygulamayı planlıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-06T07:01:08.770809+00:00",
+  "type": "news",
+  "cluster_id": "c19f16463553f"
+ },
+ {
+  "title": "İran'ın eski lideri Hamaney için Tahran caddelerinde veda töreni düzenleniyor",
+  "link": "https://www.aa.com.tr/tr/dunya/iranin-eski-lideri-hamaney-icin-tahran-caddelerinde-veda-toreni-duzenleniyor/3986924",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran'ın eski lideri Ali Hamaney için Tahran'da veda töreni düzenleniyor; bölgede siyasi gerilimin devam ettiğini gösteriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-06T07:01:08.770809+00:00",
+  "type": "news",
+  "cluster_id": "cfd86b4a0243a"
+ },
+ {
+  "title": "Trump to meet with Ukraine’s Zelenskyy and Syria’s al-Sharaa during the NATO summit",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQkJoSHVRc0hnS0Z0dHNIcDNROUJvRUFGbjctbjQ5OXd3bWROZkFmNTJ4ZWVYUnc3MWh6M1dJRlF1bTRSQ0VnVVFRX2d0NkRLWHdGNHMzTGg2RlBiR2xNbkY2WjQyR1M0ejk3RFBFYVJvdkNyMFVkbjBvV2lFNDZ5Sm5keHY3c3RHeUMwVm9ZbHNEd2ZxMW45RnRR?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump, NATO zirvesi sırasında Ukrayna lideri Zelenskyy ve Suriye lideri al-Sharaa ile görüşmeler yapacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-06T07:01:08.770809+00:00",
+  "type": "news",
+  "cluster_id": "c5ef29403b50c"
+ },
+ {
+  "title": "Dolar rekor kırdı: 47 liraya merdiven dayadı!",
+  "link": "https://www.sozcu.com.tr/dolar-rekor-kirdi-47-liraya-merdiven-dayadi-p334078",
+  "source": "Sözcü",
+  "summary_tr": "Dolar/TL kurı 46,82 seviyesine yükselerek rekor kırdı; vatandaşın dış ticaret ve ithalatı etkileyen gelişme.",
+  "metric": "Dolar/TL rekor seviyeye ulaştı",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-06T07:01:08.770809+00:00",
+  "type": "news",
+  "cluster_id": "c289308087c07"
+ },
+ {
+  "title": "Filistin topraklarını gasbeden silahlı İsrailliler, Batı Şeria'da 6 Filistinliyi yaraladı",
+  "link": "https://www.aa.com.tr/tr/dunya/-filistin-topraklarini-gasbeden-silahli-israilliler-bati-seriada-6-filistinliyi-yaraladi-/3986981",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail güçleri Batı Şeria'da saldırı düzenleyerek 6 Filistinliyi yaraladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-06T07:01:08.770809+00:00",
+  "type": "news",
+  "cluster_id": "c7f7838ee2b95"
+ },
+ {
+  "title": "İsrail ordusunun Gazze'de bir evi hedef aldığı saldırıda karı-koca hayatını kaybetti",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-gazzede-bir-evi-hedef-aldigi-saldirida-kari-koca-hayatini-kaybetti/3986971",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusunun Gazze'de ateşkese rağmen düzenlediği hava saldırısında karı-koca öldü, 6 kişi yaralandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-06T07:01:08.770809+00:00",
+  "type": "news",
+  "cluster_id": "c4283acc11513"
+ },
+ {
+  "title": "Ticaret Bakanlığı perakende ticarete yönelik düzenlemeleri hayata geçirmeye hazırlanıyor",
+  "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-perakende-ticarete-yonelik-duzenlemeleri-hayata-gecirmeye-hazirlaniyor/3986953",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ticaret Bakanlığı perakende ticareti düzenlemek için yeni yönetmelik hayata geçirmeye hazırlanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-06T07:01:08.770809+00:00",
+  "type": "news",
+  "cluster_id": "cb049ba5d59b6"
+ },
+ {
+  "title": "Perakende ticarette yeni dönem",
+  "link": "https://www.trthaber.com/haber/ekonomi/perakende-ticarette-yeni-donem-950346.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ticaret Bakanlığı tarafından perakende ticaret yönetmeliği yeniden düzenlenerek tedarik zinciri güçlendirilecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-06T07:01:08.770809+00:00",
+  "type": "news",
+  "cluster_id": "c2ecd6cc88cfb"
+ },
+ {
   "title": "Dünyanın gözü NATO zirvesinde: Bu görüşmeler barışın temeli olacak",
   "link": "https://www.sozcu.com.tr/dunyanin-gozu-nato-zirvesinde-bu-gorusmeler-barisin-temeli-olacak-p334054",
   "source": "Sözcü",
@@ -54324,85 +54420,5 @@
   "score": 6,
   "ts": "2026-05-25T10:00:58.837118+00:00",
   "cluster_id": "cc97f3f93e301"
- },
- {
-  "title": "Eski UCM Başsavcısı Bensouda, eski Mossad Başkanı'nın Filistin soruşturmasını durdurmasını istediğini söyledi",
-  "link": "https://www.aa.com.tr/tr/dunya/eski-ucm-bassavcisi-bensouda-eski-mossad-baskaninin-filistin-sorusturmasini-durdurmasini-istedigini-soyledi/3947958",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Uluslararası Ceza Mahkemesi eski Başsavcısı Bensouda, İsrail'in eski Mossad Başkanı'nın Filistin soruşturmasını durdurmaya çalıştığını söyledi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T10:00:58.837118+00:00",
-  "cluster_id": "ceec701054cd5"
- },
- {
-  "title": "Iran says conclusions reached on many topics in potential U.S. memorandum but no deal imminent",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMjBpbDBUX3k2cW1VQzN4NWhBUDRCdlZZbmtCVHpodXItREI4WENia18zRmNzblZ4RTAtd19LaDY3N1YwVFVGUGY5a0dIZklkMmFRRnBpaU5zTjZMVjFaMUVVQlRQNGFiSjZ3aHFRT0diY3p3TlhCOU1YWHZRUnRtcjd1Nkxic19vb3ZlU0tITEZxbXZrbTM5eEYyc3ozeWJKQXNId0xNcV9YWVBYa0J1czM0R3p1NjdTbDVZUDhvdFUtSDJtS2c?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran, ABD ile mutabakat konularında ilerleme sağlandığını ancak anlaşmanın yakın olmadığını açıkladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T10:00:58.837118+00:00",
-  "cluster_id": "ccf44ff5f6cd4"
- },
- {
-  "title": "Rubio: İran'la anlaşma Pazartesi açıklanabilir",
-  "link": "https://www.bbc.com/turkce/articles/cz728zwegdpo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD Dışişleri Bakanı Rubio, ABD-İran savaş sona erdirme anlaşmasının Pazartesi açıklanabileceğini, masada sağlam bir teklifin olduğunu söyledi.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-05-25T08:00:53.286430+00:00",
-  "cluster_id": "cf178b665fa72"
- },
- {
-  "title": "Gold rises as dollar, oil ease on US-Iran deal prospects",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMDVQTzQ1X3VQMUVSTFg1QXJHaHV3Vy1ZTnlOLUV0YjJfenBZbVlDSm96dk4zQU93UWlvbHllYmZ3OC1ULTJaa2VRdk4wV1lQZlkxbWVXdkxycWVQamJjTzRsdThTek1lT1dmR0tDbmt6MDd3cmE3NlVtZERtMzkxdzRPa0ZYM1oxZVFQaGJBUHhKbVJWdWxKVGFaQzEyWmVYZ2tmZS10SWhMbjFLcVZlblJtQzlQQWc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Altın fiyatları, ABD-İran anlaşma beklentisiyle dolar ve petrol fiyatlarının gerilmesi üzerine yükseldi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-25T08:00:53.286430+00:00",
-  "cluster_id": "cadb657f10a7f"
- },
- {
-  "title": "İstanbul Üniversitesi'ne kadro ihdasına AYM'den iptal",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-universitesi-ne-kadro-ihdasina-aym-den-iptal-2506784",
-  "source": "Cumhuriyet",
-  "summary_tr": "Anayasa Mahkemesi, İstanbul Üniversitesi'nde 'musiki paleograf ve icra memuru' kadrosu ihdas kararını iptal etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-25T08:00:53.286430+00:00",
-  "cluster_id": "c0f22c47bbe82"
- },
- {
-  "title": "Anayasa Mahkemesinden CMK 134. maddeye ilişkin iptal kararı",
-  "link": "https://www.aa.com.tr/tr/gundem/anayasa-mahkemesinden-cmk-134-maddeye-iliskin-iptal-karari/3947805",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Anayasa Mahkemesi, Ceza Muhakemesi Kanunu'nun 134. maddesine ilişkin iptal kararı verdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-25T08:00:53.286430+00:00",
-  "cluster_id": "c5d987e3f28ed"
- },
- {
-  "title": "Kılıçdaroğlu bayramın ikinci günü genel merkeze gidecekmiş",
-  "link": "https://www.diken.com.tr/kilicdaroglu-bayramin-ikinci-gunu-genel-merkeze-gidecekmis/?utm_source=rss&utm_medium=rss&utm_campaign=kilicdaroglu-bayramin-ikinci-gunu-genel-merkeze-gidecekmis",
-  "source": "Diken",
-  "summary_tr": "Mahkeme kararıyla CHP Genel Başkanlığına getirilen Kemal Kılıçdaroğlu, Kurban Bayramı'nın ikinci günü (28 Mayıs) genel merkeze gidecek.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T08:00:53.286430+00:00",
-  "cluster_id": "cb5526b55c6f9"
- },
- {
-  "title": "Kılıçdaroğlu, bayramın ikinci günü CHP Genel Merkezi'ne gidecek",
-  "link": "https://www.trthaber.com/haber/gundem/kilicdaroglu-bayramin-ikinci-gunu-chp-genel-merkezine-gidecek-946197.html",
-  "source": "TRT Haber",
-  "summary_tr": "Mahkemece CHP Genel Başkanlığı görevine iade edilen Kemal Kılıçdaroğlu, Kurban Bayramı'nın ikinci günü genel merkeze gidecek.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T08:00:53.286430+00:00",
-  "cluster_id": "cb5526b55c6f9"
  }
 ]
