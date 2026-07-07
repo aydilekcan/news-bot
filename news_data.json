@@ -1,5 +1,65 @@
 [
  {
+  "title": "Asgari ücret eksiye düşecek",
+  "link": "https://www.sozcu.com.tr/asgari-ucret-eksiye-dusecek-p334316",
+  "source": "Sözcü",
+  "summary_tr": "Ara zam verilmeyen asgari ücret hayat pahalılığıyla erimeye devam ediyor; yılbaşında verilen artış enflasyonun gerisinde kaldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-07T03:01:17.219757+00:00",
+  "type": "news",
+  "cluster_id": "cd7a42403d811"
+ },
+ {
+  "title": "PTT zararın faturasını çalışanlarına kesecek",
+  "link": "https://www.sozcu.com.tr/ptt-zararin-faturasini-calisanlarina-kesecek-p334324",
+  "source": "Sözcü",
+  "summary_tr": "AKP'li vekillerin kanun teklifine göre zarar eden PTT'deki çalışanlar yeni statü ile etkilenecek.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-07T03:01:17.219757+00:00",
+  "type": "news",
+  "cluster_id": "cb34f93f369e7"
+ },
+ {
+  "title": "2 milyar dolarlık görüşme",
+  "link": "https://www.sozcu.com.tr/2-milyar-dolarlik-gorusme-p334314",
+  "source": "Sözcü",
+  "summary_tr": "Erdoğan'la görüşmenin ardından BlackRock'ın Türkiye yatırımları 2 milyar doları aştı.",
+  "metric": "BlackRock Türkiye yatırımı 2+ milyar dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-07T03:01:17.219757+00:00",
+  "type": "news",
+  "cluster_id": "cac0d88c35ecb"
+ },
+ {
+  "title": "China breaks step with global markets, and investors buy in",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ3h0djZqeHZyVGNZTGlJbXFQMmhSQ1NobzBncUpLV2dLcnBJV0JVQWhjUlhQcDZCVWVxSzJiSWNlelJtU1NoUkt3eTkxS1FBRUhZbWx6aExMLWtrXy1lVkZ1ZVE0blFHc1BRUmc4MDBoWVAwS3pDSjRFeDNBYUUyd3pqOU42R2ZpM0FUV19SVEFmejN2ZElnSThpbUExX1l2?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin küresel piyasalardan ayrı hareket ederek yatırımcıların ilgisini çekiyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-07T03:01:17.219757+00:00",
+  "type": "news",
+  "cluster_id": "c29304ba2a729"
+ },
+ {
+  "title": "Walmart rolls back barbecue staple prices after Trump says retailer acted at his request",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVFPbnM1STRBMzd5c09xOVpoOEpELXdqMENhNjFjVUp5eWYtdTVyQW9pcUNaSW1FSzBSZmlNSG0wOHFnTGZCWFh2NHFUNlJVeVJaTklDRHcxUTdBQVAzV3lrVmt3Q0pLbVgxZ090eE4xczBjQ3ItX3lsdnZ2VmRiSHAtcEdJbGhuc0lwUi1LbkRQZFlST0JrYmI3VQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Walmart, Trump'ın talebinin ardından barbekü ürün fiyatlarını geri aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-07T03:01:17.219757+00:00",
+  "type": "news",
+  "cluster_id": "cdc33cc4682a7"
+ },
+ {
   "title": "Faiz indirimi 1 puanla başlayacak",
   "link": "https://www.sozcu.com.tr/faiz-indirimi-1-puanla-baslayacak-p334313",
   "source": "Sözcü",
@@ -54586,55 +54646,5 @@
   "score": 8,
   "ts": "2026-05-25T21:00:52.382782+00:00",
   "cluster_id": "cdb78d02b188e"
- },
- {
-  "title": "CHP'nin sitesinde değişiklik: Kılıçdaroğlu 'genel başkan', Özel 'Manisa milletvekili'",
-  "link": "https://www.diken.com.tr/chpnin-sitesinde-degisiklik-kilicdaroglu-genel-baskan-ozel-manisa-milletvekili/?utm_source=rss&utm_medium=rss&utm_campaign=chpnin-sitesinde-degisiklik-kilicdaroglu-genel-baskan-ozel-manisa-milletvekili",
-  "source": "Diken",
-  "summary_tr": "CHP'nin resmi sitesinde Kılıçdaroğlu 'genel başkan', Özel 'Manisa milletvekili' olarak güncellendi; iç kriz devam ediyor.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-25T21:00:52.382782+00:00",
-  "cluster_id": "c13e4dbd39e7a"
- },
- {
-  "title": "AKP'de üst düzey ayrılık: MKYK Üyesi Tuncer görevlerinden 'affını' istedi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/akp-de-ust-duzey-ayrilik-mkyk-uyesi-tuncer-gorevlerinden-affini-istedi-2506951",
-  "source": "Cumhuriyet",
-  "summary_tr": "AKP MKYK Üyesi ve Genel Başkan Vekili Yardımcısı Mehmet Umut Tuncer, partisindeki görevlerinden ayrıldığını açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-25T21:00:52.382782+00:00",
-  "cluster_id": "cac56d04380ba"
- },
- {
-  "title": "İran'da art arda patlamalar",
-  "link": "https://www.sozcu.com.tr/iran-da-art-arda-patlamalar-p322732",
-  "source": "Sözcü",
-  "summary_tr": "İran'ın güneyindeki Bender Abbas, Sirik ve Cask bölgelerinde art arda patlama sesleri duyuldu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-25T21:00:52.382782+00:00",
-  "cluster_id": "c8d73c72bb514"
- },
- {
-  "title": "CHP'nin internet sitesinde dikkat çeken güncelleme",
-  "link": "https://www.sozcu.com.tr/chp-nin-internet-sitesinde-dikkat-ceken-guncelleme-p322723",
-  "source": "Sözcü",
-  "summary_tr": "CHP'nin internet sitesinde Kemal Kılıçdaroğlu'nun özgeçmişi 'Genel Başkan' sıfatıyla güncellendi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-25T21:00:52.382782+00:00",
-  "cluster_id": "c4f5b63039a80"
- },
- {
-  "title": "İran'ın Bender Abbas, Sirik ve Cask bölgelerinde patlama sesleri",
-  "link": "https://www.trthaber.com/haber/dunya/iranin-bender-abbas-sirik-ve-cask-bolgelerinde-patlama-sesleri-946251.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran'ın güneyindeki Bender Abbas, Sirik ve Cask bölgelerinde art arda patlama sesleri duyuldu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-25T21:00:52.382782+00:00",
-  "cluster_id": "cd4247e4f0517"
  }
 ]
