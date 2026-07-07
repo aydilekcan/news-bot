@@ -1,5 +1,77 @@
 [
  {
+  "title": "TESK verileri yayımladı: Esnaf kepenk indiriyor, yeni açılan işyeri sayısı çakıldı",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/tesk-verileri-yayimladi-esnaf-kepenk-indiriyor-yeni-acilan-isyeri-sayisi-cakildi-2518776",
+  "source": "Cumhuriyet",
+  "summary_tr": "TESK verilerine göre yılın ilk beş ayında açılan esnaf işyeri sayısı düştü, kepenk kapatan işletme sayısı arttı. Yüksek enflasyon sektörü olumsuz etkiliyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-07T11:01:05.819863+00:00",
+  "type": "news",
+  "cluster_id": "c7e25baaae4e0"
+ },
+ {
+  "title": "Sıcak hava dalgası piyasaları vurdu! Avrupa'da doğal gaz fiyatları fırladı",
+  "link": "https://www.sozcu.com.tr/sicak-hava-dalgasi-piyasalari-vurdu-avrupa-da-dogal-gaz-fiyatlari-firladi-p334473",
+  "source": "Sözcü",
+  "summary_tr": "Avrupa'da doğal gaz fiyatları sıcak hava dalgası ve elektrik talebindeki artış nedeniyle fırladı. Norveç'teki arz kesintileri de etkiledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-07T11:01:05.819863+00:00",
+  "type": "news",
+  "cluster_id": "cf1655d2f43b6"
+ },
+ {
+  "title": "S.Korea's KOSPI tumbles nearly 5% as chipmakers slump on AI worries",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLUxrR01LMGxJRUJUUGxGdHZiU0hsc2FYU2tuZW90bGk2ZWxhajl6WU1sYTBJb1lHLVpKZ2VoR0N2T3laNnUtOFk1TFFneGhXNFJhYTR4Y245eUFuTk9jMmM5OUxSbjczNTRZRVZERDR2dWZoMjhVcmZEQmhja29UOFU0bWNRUFNUQ0hYcE1tTXBkMnFpV0hPTHk0SUF1OWZ1RkY3ZmJ6X0hiWVdjZTgxXy16UQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Güney Kore borsası (KOSPI) yapay zeka endişeleri nedeniyle chip üreticilerinin düşüşüyle birlikte yaklaşık %5 geriledi.",
+  "metric": "KOSPI yaklaşık -%5",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-07T11:01:05.819863+00:00",
+  "type": "news",
+  "cluster_id": "c4d86b09b7c67"
+ },
+ {
+  "title": "Zam sonrası emekli promosyonları değişti: İşte güncel rakamlar",
+  "link": "https://www.sozcu.com.tr/zam-sonrasi-emekli-promosyonlari-degisti-iste-guncel-rakamlar-p334483",
+  "source": "Sözcü",
+  "summary_tr": "Temmuz 2026 emekli maaş zamlarının kesinleşmesinden sonra bankalar nakit promosyon tutarlarını revize etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-07T11:01:05.819863+00:00",
+  "type": "news",
+  "cluster_id": "c7226182915dc"
+ },
+ {
+  "title": "Çin Merkez Bankası’ndan dev altın hamlesi: 2023’ten beri en büyük alım",
+  "link": "https://www.sozcu.com.tr/cin-merkez-bankasi-ndan-dev-altin-hamlesi-2023-ten-beri-en-buyuk-alim-p334474",
+  "source": "Sözcü",
+  "summary_tr": "Çin Merkez Bankası Haziran ayında altın alımına devam etti; 2023'ten beri en büyük aylık alım gerçekleştirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-07T11:01:05.819863+00:00",
+  "type": "news",
+  "cluster_id": "c2eef15353944"
+ },
+ {
+  "title": "JeanChristophe Carret, Dünya Bankası Türkiye Ülke Direktörü oldu",
+  "link": "https://www.trthaber.com/haber/ekonomi/jean-christophe-carret-dunya-bankasi-turkiye-ulke-direktoru-oldu-950499.html",
+  "source": "TRT Haber",
+  "summary_tr": "JeanChristophe Carret 1 Temmuz itibarıyla Dünya Bankası Türkiye Ülke Direktörü olarak atandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-07T11:01:05.819863+00:00",
+  "type": "news",
+  "cluster_id": "c8d25b2eff035"
+ },
+ {
   "title": "‘Çelikte ihracat kaybı 3 milyar doları bulur’",
   "link": "https://www.sozcu.com.tr/celikte-ihracat-kaybi-3-milyar-dolari-bulur-p334455",
   "source": "Sözcü",
@@ -54710,65 +54782,5 @@
   "score": 7,
   "ts": "2026-05-26T08:00:56.950247+00:00",
   "cluster_id": "c9427927eb0fe"
- },
- {
-  "title": "Kılıçdaroğlu ekibinin CHP'nin internet sitesine müdahalesi sürüyor: PM ve MYK üyelerinin isimleri kaldırıldı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/kilicdaroglu-ekibinin-chp-nin-internet-sitesine-mudahalesi-suruyor-pm-ve-myk-uyelerinin-isimleri-kaldirildi-2507002",
-  "source": "Cumhuriyet",
-  "summary_tr": "Kurultay seçiminde kaybettiği halde mahkeme kararıyla göreve dönen Kılıçdaroğlu'nun ekibi CHP'nin internet sitesine müdahalelerine devam ediyor; PM ve MYK üyelerinin isimleri siliniyor.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-26T08:00:56.950247+00:00",
-  "cluster_id": "c3702aaccf24d"
- },
- {
-  "title": "İçişleri Bakanı tartışmaya son noktayı koydu: Genel Merkeze polis girmesini Kılıçdaroğlu yönetimi istedi",
-  "link": "https://www.sozcu.com.tr/icisleri-bakani-tartismaya-son-noktayi-koydu-genel-merkeze-polis-girmesini-kilicdaroglu-yonetimi-p322819",
-  "source": "Sözcü",
-  "summary_tr": "İçişleri Bakanı Mustafa Çiftçi, CHP Genel Merkezi'ne polis zoruyla girilmesinin Kılıçdaroğlu yönetiminin talebiyle gerçekleştirildiğini açıkladı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-26T08:00:56.950247+00:00",
-  "cluster_id": "c0305725e43ba"
- },
- {
-  "title": "South Korea aims to launch first nuclear-powered submarine by the mid-2030s",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRFpWYVZuMUJySS15MW8xOGlqMnAzNGQxY0pJNjZkQmMwcHJmcHdRV3JQTkVDUzkwX2owSHFaVnp5SER0V2pzU1QxVkFMNVB4RWVEeXdWQ0E2RDV2Z3JFZC1ieE8ydWdCZ1J6NWplSFQxTVdVOEZRR0ZaQW9DYVZuZlJ2dGlFeVVDTkFGbEZmLWhxRm13NjU4cV9CZDdlVzhkdFpVUFA5Q214LWhjY1BwakdBRGtXWFJGaDhPcU8tTm0?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Güney Kore, ilk nükleer güçlü denizaltısını 2030'lu yılların ortasına kadar fırlatmayı hedefliyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-26T08:00:56.950247+00:00",
-  "cluster_id": "c336e1ec3b22b"
- },
- {
-  "title": "Australia-India-Japan-US Quad to build a port, unveil pact on critical minerals",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWDRTVEVVRURicnVpd2hMQndOamN4cS1acjYxVmxBZ1JEaURlNWRBVkJRRlFhWk9zZUJnYmszZi03TnFOaTFLVnNjWlk3SDU2R0U2ZUdtZzZXRkFkeWFVdm9MOGNPQmZqRkIxM09WTjZ0eEhTb1NTcmt1bmpfeVdfUmZZczJaZ3U5U05EOFBRODBsOEJmcGxScjFnemxBUW4zNGNIamQ1Zjl6MWhkWjBzbVNGaERZMUN3SzhfeUFVRjRwYi1D?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Quad (Avustralya-Hindistan-Japonya-ABD) bir liman inşa edecek ve kritik mineraller konusunda anlaşma imzalayacak.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-26T08:00:56.950247+00:00",
-  "cluster_id": "cda95fba16be2"
- },
- {
-  "title": "'Mutlak butlan' kararı sonrası sosyal medyaya operasyon: 93 hesaba erişim engeli getirildi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/mutlak-butlan-karari-sonrasi-sosyal-medyaya-operasyon-93-hesaba-erisim-engeli-getirildi-2507006",
-  "source": "Cumhuriyet",
-  "summary_tr": "Bir mahkeme kararı sonrasında 93 sosyal medya hesabına 'provokatif paylaşımlar' ve 'devlet büyüklerine hakaret' gerekçesiyle erişim engeli konuldu.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-26T08:00:56.950247+00:00",
-  "cluster_id": "c9f3cbdc5f828"
- },
- {
-  "title": "Son dakika... İzmir'de polis ablukası: Meydan kapatıldı, TOMA'lar getirildi",
-  "link": "https://www.sozcu.com.tr/son-dakika-izmir-de-polis-ablukasi-meydan-kapatildi-toma-lar-getirildi-p322814",
-  "source": "Sözcü",
-  "summary_tr": "İzmir'de CHP eski Genel Başkanı Özgür Özel'in mitingi yasaklandı; polis bölgeyi abluka altına aldı ve TOMA'lar getirildi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-26T08:00:56.950247+00:00",
-  "cluster_id": "c3dcd2849eeb7"
  }
 ]
