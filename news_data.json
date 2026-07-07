@@ -1,5 +1,29 @@
 [
  {
+  "title": "İsrail ordusundan işgal altındaki Batı Şeria'da baskın ve gözaltı operasyonu",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusundan-isgal-altindaki-bati-seriada-baskin-ve-gozalti-operasyonu/3989822",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusu, işgal altındaki Batı Şeria'da baskın ve gözaltı operasyonlarını yoğunlaştırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-07T23:01:05.266134+00:00",
+  "type": "news",
+  "cluster_id": "c11f2a77c817e"
+ },
+ {
+  "title": "Ukraine's Zelenskiy signs 'drone deals' with three countries",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVU9MYUVrY2ZFdjVxd3plSTEwLW9SRFRHcFlDRVpGR0dvUk9wUUNNOV9ZbUZ2cWk3bndPc2FHU2xrZ3k0dXRjNkFwdC04dFE0MVZxSXYyYnFkNHZ5cU1jRVI5cXhUSWNkeEVaYTB3cU9jb0ZOWEppNVcwUW9qeXhvZ2poMnhReUNGTkZhbDBkZi1ta3oteTlWcEpfUGJPbnFZ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ukrayna Başkanı Zelenskiy, üç ülke ile drone anlaşması imzaladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-07T23:01:05.266134+00:00",
+  "type": "news",
+  "cluster_id": "c093919f75bd8"
+ },
+ {
   "title": "ABD'den İran'a 'güçlü' saldırı: 3 noktada peş peşe patlama!",
   "link": "https://www.cumhuriyet.com.tr/dunya/abd-den-iran-a-guclu-saldiri-3-noktada-pes-pese-patlama-2518967",
   "source": "Cumhuriyet",
@@ -54914,25 +54938,5 @@
   "score": 8,
   "ts": "2026-05-26T16:00:53.531657+00:00",
   "cluster_id": "c98bcd5eba4fb"
- },
- {
-  "title": "BM'den dikkat çeken uluslararası hukuk çağrısı",
-  "link": "https://www.sozcu.com.tr/bm-den-dikkat-ceken-uluslararasi-hukuk-cagrisi-p322923",
-  "source": "Sözcü",
-  "summary_tr": "BM Genel Sekreteri Guterres, dünyada uluslararası hukuka saygının tehlikeli şekilde aşındığını uyardı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-26T16:00:53.531657+00:00",
-  "cluster_id": "c0de4dc20a2f6"
- },
- {
-  "title": "BM Genel Sekreteri Guterres'ten uluslararası hukuka saygının tehlikeli şekilde aşındığı uyarısı",
-  "link": "https://www.aa.com.tr/tr/dunya/bm-genel-sekreteri-guterresten-uluslararasi-hukuka-sayginin-tehlikeli-sekilde-asindigi-uyarisi/3949174",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "BM Genel Sekreteri Guterres, uluslararası hukuka saygının tehlikeli biçimde aşındığını uyardı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-26T16:00:53.531657+00:00",
-  "cluster_id": "c73379f9fc138"
  }
 ]
