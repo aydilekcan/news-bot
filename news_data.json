@@ -1,5 +1,65 @@
 [
  {
+  "title": "NATO Savunma Fuarı: Türkiye ve müttefikler hangi anlaşmalara imza attı?",
+  "link": "https://www.bbc.com/turkce/articles/c4gyj0w77eyo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "NATO Ankara Zirvesi'nde Türkiye ve müttefikler on milyarlarca dolarlık savunma anlaşmaları imzaladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-07T12:01:10.157445+00:00",
+  "type": "news",
+  "cluster_id": "c35f796b4c9c2"
+ },
+ {
+  "title": "Trump Katar'ın hediyesi Air Force One ile Ankara'ya geldi",
+  "link": "https://www.dw.com/tr/trump-katar-ın-hediyesi-air-force-one-ile-ankara-ya-geldi/a-77862646?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "ABD Başkanı Trump NATO Zirvesi kapsamında Türkiye'ye geldi; Cumhurbaşkanı Erdoğan tarafından karşılandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-07T12:01:10.157445+00:00",
+  "type": "news",
+  "cluster_id": "ce0c5ccbe8456"
+ },
+ {
+  "title": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump’ı karşıladı",
+  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-abd-baskani-trump-i-karsiladi/3988696",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, NATO Zirvesi öncesi ABD Başkanı Trump'ı karşıladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-07T12:01:10.157445+00:00",
+  "type": "news",
+  "cluster_id": "c419919790cdc"
+ },
+ {
+  "title": "Kayseri Serbest Bölgesi'nden yılın ilk yarısında 319 milyon doların üzerinde ihracat yapıldı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/kayseri-serbest-bolgesinden-yilin-ilk-yarisinda-319-milyon-dolarin-uzerinde-ihracat-yapildi/3988767",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Kayseri Serbest Bölgesi 2025 ilk yarısında 319 milyon dolardan fazla ihracat yaptı.",
+  "metric": "Kayseri SB ihracatı: 319+ milyon dolar (H1 2025)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-07T12:01:10.157445+00:00",
+  "type": "news",
+  "cluster_id": "ca2c8f670a798"
+ },
+ {
+  "title": "Almanya: NATO müttefikleri Ukrayna'ya 140 milyar euro destek taahhüdünde bulunacak",
+  "link": "https://www.trthaber.com/haber/dunya/almanya-nato-muttefikleri-ukraynaya-140-milyar-euro-destek-taahhudunde-bulunacak-950511.html",
+  "source": "TRT Haber",
+  "summary_tr": "NATO müttefikleri 2026 ve sonrasında Ukrayna'ya toplam 140 milyar avro destek taahhüdünde bulunacak.",
+  "metric": "Ukrayna desteği: 140 milyar avro (2026+)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-07T12:01:10.157445+00:00",
+  "type": "news",
+  "cluster_id": "cbe6b756515fd"
+ },
+ {
   "title": "TESK verileri yayımladı: Esnaf kepenk indiriyor, yeni açılan işyeri sayısı çakıldı",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/tesk-verileri-yayimladi-esnaf-kepenk-indiriyor-yeni-acilan-isyeri-sayisi-cakildi-2518776",
   "source": "Cumhuriyet",
@@ -54732,55 +54792,5 @@
   "score": 7,
   "ts": "2026-05-26T09:00:59.990937+00:00",
   "cluster_id": "cef2aa948a7c7"
- },
- {
-  "title": "Kılıçdaroğlu'nun CHP'si AKP'yi ziyaret edecek",
-  "link": "https://www.sozcu.com.tr/kilicdaroglu-nun-chp-si-akp-yi-ziyaret-edecek-p322840",
-  "source": "Sözcü",
-  "summary_tr": "Mahkeme kararıyla CHP Genel Başkanı olan Kılıçdaroğlu'nun ekibi Kurban Bayramı'nda AKP'yi ziyaret edecek.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-26T09:00:59.990937+00:00",
-  "cluster_id": "c7fcb4b886cae"
- },
- {
-  "title": "Özgür Özel'den 'istifa' çağrılarına yanıt",
-  "link": "https://www.sozcu.com.tr/ozgur-ozel-den-istifa-cagrilarina-yanit-p322839",
-  "source": "Sözcü",
-  "summary_tr": "CHP Lideri Özgür Özel, istifa çağrılarına karşı partide kalınması çağrısı yaptı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-26T09:00:59.990937+00:00",
-  "cluster_id": "c50c7d53760b5"
- },
- {
-  "title": "Kılıçdaroğlu, ilk PM ve YDK toplantılarını 1 Haziran'da yapacak",
-  "link": "https://www.trthaber.com/haber/gundem/kilicdaroglu-ilk-pm-ve-ydk-toplantilarini-1-haziranda-yapacak-946274.html",
-  "source": "TRT Haber",
-  "summary_tr": "CHP Genel Başkanı Kılıçdaroğlu, 1 Haziran'da ilk Parti Meclisi toplantılarını yapacak.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-26T09:00:59.990937+00:00",
-  "cluster_id": "cbe18fb70715a"
- },
- {
-  "title": "North Korea fired projectiles, including short-range ballistic missile, Seoul says",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMTJ6ZndIUG9uWlpBVGJ4bmFCX3JiRzlVY2FjdzJpMVBTTnJobExCVVNxdGFJb0VBQTJNZl9JU0dJQUw5V1pSNnUxSnNNWXNNUFNEY2VnWEJOa25jRFhsUkZ3RDBtNTdic29zc0JEY3U2el9PZnlWV0RWWlFsSjhfN1RSMUxFb05YZk1QZzJDaklQb0czX2dESmEweTNHOVd1S3NxaGotMjR0LVdVSmxfS1o2NEU4dw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Kuzey Kore kısa menzilli balistik füze dahil mermi fırlatmış; Güney Kore tarafından haber verildi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-26T08:00:56.950247+00:00",
-  "cluster_id": "ca6512a8f7cad"
- },
- {
-  "title": "PM ve MYK üyeleri CHP'nin sitesinden kaldırıldı",
-  "link": "https://www.diken.com.tr/pm-ve-myk-uyeleri-chpnin-sitesinden-kaldirildi/?utm_source=rss&utm_medium=rss&utm_campaign=pm-ve-myk-uyeleri-chpnin-sitesinden-kaldirildi",
-  "source": "Diken",
-  "summary_tr": "Kılıçdaroğlu yönetimindeki CHP, Parti Meclisi ve Merkez Yönetim Kurulu üyelerinin adlarını partinin resmi internet sitesinden kaldırdı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-26T08:00:56.950247+00:00",
-  "cluster_id": "c9427927eb0fe"
  }
 ]
