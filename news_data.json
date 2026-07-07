@@ -1,5 +1,17 @@
 [
  {
+  "title": "Faiz indirimi 1 puanla başlayacak",
+  "link": "https://www.sozcu.com.tr/faiz-indirimi-1-puanla-baslayacak-p334313",
+  "source": "Sözcü",
+  "summary_tr": "TCMB faiz indirimini eylül ayında 1 puanla başlatacağı piyasanın beklentisi. İlk indirim sinyali ekonomiye yönelik temel karar.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-07T02:00:57.886706+00:00",
+  "type": "news",
+  "cluster_id": "c01ae53bbb1d1"
+ },
+ {
   "title": "NATO Zirvesi bugün Ankara'da başlıyor: Türkiye'nin beklentileri neler?",
   "link": "https://www.bbc.com/turkce/articles/cddlqe90pqgo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -54624,15 +54636,5 @@
   "score": 7,
   "ts": "2026-05-25T21:00:52.382782+00:00",
   "cluster_id": "cd4247e4f0517"
- },
- {
-  "title": "TÜSAM anketi: Olası bir durumda ‘Özgür Özel’in kuracağı yeni parti’ ilk sırada gösterildi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/tusam-anketi-olasi-bir-durumda-ozgur-ozel-in-kuracagi-yeni-parti-ilk-sirada-gosterildi-2506940",
-  "source": "Cumhuriyet",
-  "summary_tr": "TÜSAM anketinde Özgür Özel'in kuracağı yeni parti olası senaryoda ilk sıraya çıktı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-25T21:00:52.382782+00:00",
-  "cluster_id": "cd25ede3598f2"
  }
 ]
