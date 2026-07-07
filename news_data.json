@@ -1,5 +1,149 @@
 [
  {
+  "title": "Trump-Erdoğan görüşmesi: 'Yaptırımları kaldıracağız, F-35 satışını değerlendireceğiz'",
+  "link": "https://www.bbc.com/turkce/articles/c33y078x83zo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Trump Ankara'da Erdoğan ile görüştü; Türkiye'ye CAATSA yaptırımlarını kaldıracağını ve F-35 satışını değerlendireceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-07T14:01:21.638046+00:00",
+  "type": "news",
+  "cluster_id": "c24f7af5e4edd"
+ },
+ {
+  "title": "Trump'tan Ankara'ya ilk mesaj: CAATSA yaptırımları kalkacak",
+  "link": "https://www.dw.com/tr/trump-tan-ankara-ya-ilk-mesaj-caatsa-yaptırımları-kalkacak/a-77866083?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Trump, Ankara ziyaretinde Türkiye'ye yönelik CAATSA yaptırımlarını kaldıracağını ve F-35 programı konusunda olumlu mesajlar verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-07T14:01:21.638046+00:00",
+  "type": "news",
+  "cluster_id": "cb1ee84f867a5"
+ },
+ {
+  "title": "Trump: Türkiye'ye CAATSA yaptırımlarını kaldıracağız",
+  "link": "https://www.diken.com.tr/trump-erdogana-buyuk-saygim-var/?utm_source=rss&utm_medium=rss&utm_campaign=trump-erdogana-buyuk-saygim-var",
+  "source": "Diken",
+  "summary_tr": "Trump Erdoğan'la görüşmesinde Türkiye'ye yönelik CAATSA yaptırımlarını kaldıracağını duyurdu.",
+  "metric": "",
+  "lean": "left",
+  "score": 9,
+  "ts": "2026-07-07T14:01:21.638046+00:00",
+  "type": "news",
+  "cluster_id": "c2bd351ef81b7"
+ },
+ {
+  "title": "ABD Başkanı Trump: CAATSA yaptırımlarını kaldırabiliriz",
+  "link": "https://www.aa.com.tr/tr/gundem/abd-baskani-trump-caatsa-yaptirimlarini-kaldirabiliriz/3989197",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Trump CAATSA yaptırımlarını kaldırabileceğini söyledi.",
+  "metric": "",
+  "lean": "right",
+  "score": 9,
+  "ts": "2026-07-07T14:01:21.638046+00:00",
+  "type": "news",
+  "cluster_id": "c7149a412d38b"
+ },
+ {
+  "title": "Trump Beştepe'de Erdoğan'la basına konuştu: Yaptırımları kaldırıyoruz, tamam mı?",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcC13NVp0NWVwVVdrbkV5d3hkblpqaWRRZl9OU1V0MGxQOVRsNHlwMHM4QVNtSHBVZklQdVVmM3BlYWprQXJVaHJGdHBXTW9ObkVCaW9kX0QtSEJ4MFkybzFJTWx2RHR3WDZoVUJ6TVVIUjQ4Um5sbklzVFVKTk81NDI4ZzRHVkk1eDlQVS1MUGw5SW5iYW9tTEJFcV9Cenp1ZEtZWjFsaGFweS1uMzNjUEt6UQ?oc=5",
+  "source": "soL",
+  "summary_tr": "Trump, Beştepe'de Erdoğan'ın yanında basına yaptığı açıklamada yaptırımları kaldıracağını söyledi.",
+  "metric": "",
+  "lean": "left",
+  "score": 9,
+  "ts": "2026-07-07T14:01:21.638046+00:00",
+  "type": "news",
+  "cluster_id": "c123b4c92fbc5"
+ },
+ {
+  "title": "Erdoğan, F-35 için 'hayırlı bir karar' bekliyor: Trump'ın sözü var",
+  "link": "https://www.diken.com.tr/erdogan-f-35-icin-hayirli-bir-karar-bekliyor-trumpin-sozu-var/?utm_source=rss&utm_medium=rss&utm_campaign=erdogan-f-35-icin-hayirli-bir-karar-bekliyor-trumpin-sozu-var",
+  "source": "Diken",
+  "summary_tr": "Erdoğan, F-35 satışı konusunda Trump'tan olumlu karar bekliyor; Trump sözü verdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-07T14:01:21.638046+00:00",
+  "type": "news",
+  "cluster_id": "cd234fc10758a"
+ },
+ {
+  "title": "Erdoğan: F35 konusunda Liderler Zirvesi'nden hayırlı karar çıkacağına inanıyorum",
+  "link": "https://www.trthaber.com/haber/gundem/erdogan-f-35-konusunda-liderler-zirvesinden-hayirli-karar-cikacagina-inaniyorum-950527.html",
+  "source": "TRT Haber",
+  "summary_tr": "Erdoğan, F-35 konusunda NATO Liderler Zirvesi'nden hayırlı karar çıkacağına inandığını belirtti; daha önce 5 uçağın sözünü aldıklarını söyledi.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-07-07T14:01:21.638046+00:00",
+  "type": "news",
+  "cluster_id": "c685af503cead"
+ },
+ {
+  "title": "Esnaf yeni iş yeri açmaktan çekildi! İlk 5 ayda kapanışlar arttı",
+  "link": "https://www.sozcu.com.tr/esnaf-yeni-is-yeri-acmaktan-cekildi-ilk-5-ayda-kapanislar-artti-p334514",
+  "source": "Sözcü",
+  "summary_tr": "2026 yılının ilk 5 ayında açılan esnaf işyeri sayısı geçen yılın aynı dönemine göre yaklaşık %10 azaldı; kapananlar arttı.",
+  "metric": "Esnaf işyeri açılışı (yıllık karşılaştırma) -%10",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-07T14:01:21.638046+00:00",
+  "type": "news",
+  "cluster_id": "c750c7fff727d"
+ },
+ {
+  "title": "ABD'nin dış ticaret açığı bir yılı aşkın sürenin en yüksek seviyesine çıktı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abdnin-dis-ticaret-acigi-bir-yili-askin-surenin-en-yuksek-seviyesine-cikti/3989232",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD'nin dış ticaret açığı mayısta aylık bazda %42,2 artarak 77,6 milyar dolara ulaştı; Mart 2025'ten bu yana en yüksek seviye.",
+  "metric": "ABD dış ticaret açığı (aylık) +%42,2 → 77,6 milyar dolar",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-07T14:01:21.638046+00:00",
+  "type": "news",
+  "cluster_id": "c7eba741d9460"
+ },
+ {
+  "title": "Trump: Sayın Erdoğan olmasaydı NATO zirvesine katılmazdım",
+  "link": "https://www.trthaber.com/haber/gundem/trump-sayin-erdogan-olmasaydi-nato-zirvesine-katilmazdim-950524.html",
+  "source": "TRT Haber",
+  "summary_tr": "Trump, NATO Ankara Zirvesi'nde Erdoğan'a karşı yüksek takdir göstererek 'Sayın Cumhurbaşkanı olmasaydı bu zirveye katılmazdım' dedi.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-07T14:01:21.638046+00:00",
+  "type": "news",
+  "cluster_id": "ccdaa7015649f"
+ },
+ {
+  "title": "Kredi kartında otomatik ödemesi açık olanlara uyarı yapıldı",
+  "link": "https://www.sozcu.com.tr/kredi-kartinda-otomatik-odemesi-acik-olanlara-uyari-yapildi-p334527",
+  "source": "Sözcü",
+  "summary_tr": "Kredi kartında otomatik ödemeyi açık tutanlara uyarı yapıldı; uzmanlar bilinçsizce yapılan ödemeler konusunda vatandaşları uyardı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-07T14:01:21.638046+00:00",
+  "type": "news",
+  "cluster_id": "cdda712111604"
+ },
+ {
+  "title": "Bakan Yumaklı: Türkiye 2025 yılında yaptığı su ürünleri ihracatıyla yaklaşık 2,3 milyar dolarlık rakama ulaştı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-turkiye-2025-yilinda-yaptigi-su-urunleri-ihracatiyla-yaklasik-2-3-milyar-dolarlik-rakama-ulasti/3988911",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Tarım Bakanı Yumaklı, Türkiye'nin 2025 yılında su ürünleri ihracatının 2,3 milyar dola ulaştığını duyurdu.",
+  "metric": "Su ürünleri ihracatı 2,3 milyar dolar",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-07T14:01:21.638046+00:00",
+  "type": "news",
+  "cluster_id": "cb05adaa15de6"
+ },
+ {
   "title": "Trump-Erdoğan görüşmesi: ABD Başkanı Ankara'da",
   "link": "https://www.bbc.com/turkce/articles/c33y078x83zo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -54704,125 +54848,5 @@
   "score": 6,
   "ts": "2026-05-26T13:01:11.196851+00:00",
   "cluster_id": "c11fb2634b2fd"
- },
- {
-  "title": "İzmir'de Özgür Özel'in mitingi öncesi polis müdahalesi",
-  "link": "https://www.diken.com.tr/izmirde-ozgur-ozelin-mitingi-oncesi-polis-mudahalesi/?utm_source=rss&utm_medium=rss&utm_campaign=izmirde-ozgur-ozelin-mitingi-oncesi-polis-mudahalesi",
-  "source": "Diken",
-  "summary_tr": "İzmir'de Özgür Özel'in mitingi öncesi polis müdahalesi gerçekleşti.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-26T13:01:11.196851+00:00",
-  "cluster_id": "cfcae26434f8b"
- },
- {
-  "title": "Hürmüz Boğazı kapandı, dünya tasarruf moduna geçti",
-  "link": "https://www.trthaber.com/haber/ekonomi/hurmuz-bogazi-kapandi-dunya-tasarruf-moduna-gecti-946282.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD-İsrail'in İran'a yönelik saldırılarından sonra Hürmüz Boğazı kapandı; dünya gemi trafiğinde kesinti yaşandı.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-05-26T10:01:07.628466+00:00",
-  "cluster_id": "c688434e9996f"
- },
- {
-  "title": "Hamaney: Bölge artık ABD üslerine kalkan olmayacak, İsrail sona yaklaşıyor",
-  "link": "https://www.diken.com.tr/hamaney-bolge-artik-abd-uslerine-kalkan-olmayacak-israil-sona-yaklasiyor/?utm_source=rss&utm_medium=rss&utm_campaign=hamaney-bolge-artik-abd-uslerine-kalkan-olmayacak-israil-sona-yaklasiyor",
-  "source": "Diken",
-  "summary_tr": "İran lideri Hamaney, ABD üslerine bölge artık kalkan olmayacağını ve İsrail'in sonuna yaklaştığını söyledi.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-26T10:01:07.628466+00:00",
-  "cluster_id": "ca2f2d30a5c30"
- },
- {
-  "title": "ABD ve İran arasındaki gizli barış planı sızdı",
-  "link": "https://www.cumhuriyet.com.tr/dunya/abd-ve-iran-arasindaki-gizli-baris-plani-sizdi-2507029",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Dışişleri Bakanı Rubio, İran'la müzakerelerde anlaşmanın birkaç gün içinde mümkün olabileceğini belirtti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-26T10:01:07.628466+00:00",
-  "cluster_id": "ce20530ee59f3"
- },
- {
-  "title": "2.500 kilometre menzilli füzeleri ateşleyen roket sistemini Çin'in dibine yerleştirecekler",
-  "link": "https://www.sozcu.com.tr/2-500-kilometre-menzilli-fuzeleri-atesleyen-roket-sistemini-cin-in-dibine-yerlestirecekler-p322850",
-  "source": "Sözcü",
-  "summary_tr": "ABD, 2.500 km menzilli M142 HIMARS füze sistemini Japonya'ya konuşlandıracak.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-26T10:01:07.628466+00:00",
-  "cluster_id": "cc43b8433c54a"
- },
- {
-  "title": "Yargıtay, CHP Genel Başkanını güncelledi",
-  "link": "https://www.trthaber.com/haber/gundem/yargitay-chp-genel-baskanini-guncelledi-946289.html",
-  "source": "TRT Haber",
-  "summary_tr": "Yargıtay Cumhuriyet Başsavcılığı, istinafın CHP kurultay davası kararı sonrası CHP genel bilgilerini güncelleyerek genel başkanı güncelledi.",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-05-26T10:01:07.628466+00:00",
-  "cluster_id": "c8d22f5e616cd"
- },
- {
-  "title": "Türkiye sürü dron taarruzu konseptleri geliştiriyor",
-  "link": "https://www.trthaber.com/haber/savunma/turkiye-suru-dron-taarruzu-konseptleri-gelistiriyor-946284.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye, SİHA başarısını sürü dron taarruzu konsepti ile genişleterek düşük maliyetli otonom sistemler geliştiriyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-26T10:01:07.628466+00:00",
-  "cluster_id": "c287a50b9d60d"
- },
- {
-  "title": "Özgür Özel'in İzmir'deki mitingi için toplananlara müdahale",
-  "link": "https://www.bbc.com/turkce/articles/c20228kj8plo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Mahkeme kararıyla CHP başkanlığından alınan Özgür Özel'in İzmir mitingine polis müdahale etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-26T10:01:07.628466+00:00",
-  "cluster_id": "cee685f88fd0b"
- },
- {
-  "title": "İbrahim Anlaşmaları nedir?",
-  "link": "https://www.bbc.com/turkce/articles/cvgzz096e9vo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Trump, İran ile anlaşmak için Türkiye dahil bazı ülkelerin İbrahim Anlaşmaları'na katılması gerektiğini söyledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-26T10:01:07.628466+00:00",
-  "cluster_id": "ca0a888458335"
- },
- {
-  "title": "Sivas Kongresi'nden bölünmenin eşiğine: 107 yıllık CHP",
-  "link": "https://www.dw.com/tr/sivas-kongresi-nden-bölünmenin-eşiğine-107-yıllık-chp/a-73889268?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Mutlak butlan kararıyla bölünme eşiğine gelen CHP'nin 107 yıllık tarihi ve içtüzük krizinin analizi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-26T10:01:07.628466+00:00",
-  "cluster_id": "ccd8ab2c79c9b"
- },
- {
-  "title": "CHP Genel Merkezi'nin önündeki 9 Eylül Caddesi polis tarafından kapatıldı",
-  "link": "https://www.sozcu.com.tr/chp-genel-merkezi-nin-onundeki-9-eylul-caddesi-polis-tarafindan-kapatildi-p322852",
-  "source": "Sözcü",
-  "summary_tr": "İstinaf mahkemesinin CHP kurultayı iptali ve Kılıçdaroğlu'nu tedbiren görevlendirmesi kararı sonrası CHP merkezi polis tarafından kapatıldı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-26T10:01:07.628466+00:00",
-  "cluster_id": "ccf5d5bb89ccb"
- },
- {
-  "title": "Almanya’da ihracat alarmı: Beklentiler son bir yılın dibinde",
-  "link": "https://www.sozcu.com.tr/almanya-da-ihracat-alarmi-beklentiler-son-bir-yilin-dibinde-p322848",
-  "source": "Sözcü",
-  "summary_tr": "Almanya'da mayıs ihracat beklentileri son bir yılın dibine indi; otomotiv ve metal sektörlerinde düşüş öngörüsü.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-26T10:01:07.628466+00:00",
-  "cluster_id": "c7366f5249ed9"
  }
 ]
