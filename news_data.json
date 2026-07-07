@@ -1,5 +1,53 @@
 [
  {
+  "title": "Netanyahu: Türkiye'ye F-35 verilmesi Ortadoğu'da dengeyi bozar",
+  "link": "https://www.diken.com.tr/netanyahu-turkiyeye-f-35-verilmesi-ortadoguda-dengeyi-bozar/?utm_source=rss&utm_medium=rss&utm_campaign=netanyahu-turkiyeye-f-35-verilmesi-ortadoguda-dengeyi-bozar",
+  "source": "Diken",
+  "summary_tr": "Netanyahu, ABD'nin Türkiye'ye F-35 satışının Ortadoğu dengesini bozacağını iddia etti.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-07T21:01:07.092926+00:00",
+  "type": "news",
+  "cluster_id": "cada1e6720d5c"
+ },
+ {
+  "title": "Danimarka'dan 'Grönland' mesajı: 'Satılık değil'",
+  "link": "https://www.cumhuriyet.com.tr/dunya/danimarka-dan-gronland-mesaji-satilik-degil-2518941",
+  "source": "Cumhuriyet",
+  "summary_tr": "Danimarka Başbakanı Frederiksen, Grönland'ın satılık olmadığını Trump'ın iddialarına yanıt olarak yinelemişdir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-07T21:01:07.092926+00:00",
+  "type": "news",
+  "cluster_id": "c7bf1ad842dc7"
+ },
+ {
+  "title": "Trump'ın Grönland çıkışına NATO Zirvesi'nde yanıt",
+  "link": "https://www.sozcu.com.tr/trump-in-gronland-cikisina-nato-zirvesi-nde-yanit-p334597",
+  "source": "Sözcü",
+  "summary_tr": "NATO Zirvesi'nde Danimarka Başbakanı, Trump'ın Grönland satın alma çıkışına yanıt verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-07T21:01:07.092926+00:00",
+  "type": "news",
+  "cluster_id": "cd5e7becd5dd4"
+ },
+ {
+  "title": "İsrail: Lübnan ile görüşmeler gelecek hafta Roma'da yeniden başlayacak",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-lubnan-ile-gorusmeler-gelecek-hafta-romada-yeniden-baslayacak-/3989695",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail Dışişleri Bakanı, Lübnan ile müzakerelerin gelecek hafta Roma'da yeniden başlayacağını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-07T21:01:07.092926+00:00",
+  "type": "news",
+  "cluster_id": "cb305f3e8b753"
+ },
+ {
   "title": "ABD'den yeni hamle: İran petrolünün satışına izin veren lisansı iptal etti",
   "link": "https://www.cumhuriyet.com.tr/dunya/abd-den-yeni-hamle-iran-petrolunun-satisina-izin-veren-lisansi-iptal-etti-2518931",
   "source": "Cumhuriyet",
@@ -54874,45 +54922,5 @@
   "score": 7,
   "ts": "2026-05-26T15:01:03.383245+00:00",
   "cluster_id": "cf0135f6d5865"
- },
- {
-  "title": "ABD ile Ermenistan arasında stratejik ortaklık anlaşması imzalandı",
-  "link": "https://www.cumhuriyet.com.tr/dunya/abd-ile-ermenistan-arasinda-stratejik-ortaklik-anlasmasi-imzalandi-2507105",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD ve Ermenistan arasında stratejik ortaklık anlaşması imzalandı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-26T15:01:03.383245+00:00",
-  "cluster_id": "c66966dc52f77"
- },
- {
-  "title": "US plans to cut strategic bombers and warships available to NATO in a crisis, Spiegel reports",
-  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaWZ0Z0VLMmwyN3ZiWTRrdHowV0VVWDVsNnF4MmVoeWhPZGJBb0d1NlQ0OFJxbHdCUEFsczUtVWNwQXM2S3JjYm5SSXFzbUJpTW9Vc2ZKc0psOEN4VkZiQzE3eFZkeGRXOENMSzRSRmlBVEp4b2JDNUNJaWh6QzRRaTFVLTZRVzA3VTBsUzd4Q3NZV2dYSmJ6MU1nV0UtV2NxVHZnN1VKWHg2WFZxR0lwWkJaamE1cGowS2JBdGpmVzRialBfSjhWbFlwODNyajJMWHJ6dmZfTQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, Spiegel'e göre NATO'ya sağlayacağı stratejik bombardıman ve savaş gemilerini azaltmayı planlıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-26T15:01:03.383245+00:00",
-  "cluster_id": "c1566dc22baac"
- },
- {
-  "title": "Manisa'da 'mutlak butlan' protestosu: CHP lideri Özgür Özel, memleketinde hemşehrileriyle buluştu",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/mutlak-butlan-kararina-karsi-manisalilar-hemserileri-chp-lideri-ozel-e-destek-verdi-2507101",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'nin 'mutlak butlan' kararına karşı Manisa'da protestolar düzenlendi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-26T15:01:03.383245+00:00",
-  "cluster_id": "c255a9f512526"
- },
- {
-  "title": "MHP duyurdu: Bahçeli, Kılıçdaroğlu ve Özgür Özel'e 'tarihi çağrı' yapacak",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/mhp-duyurdu-bahceli-kilicdaroglu-ve-ozgur-ozel-e-tarihi-cagri-yapacak-2507099",
-  "source": "Cumhuriyet",
-  "summary_tr": "MHP Genel Başkanı Bahçeli, CHP liderlerine 'tarihi çağrı' yapacağını duyurdu.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-26T15:01:03.383245+00:00",
-  "cluster_id": "c5f62253be3a2"
  }
 ]
