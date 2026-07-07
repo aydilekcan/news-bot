@@ -1,5 +1,65 @@
 [
  {
+  "title": "‘Çelikte ihracat kaybı 3 milyar doları bulur’",
+  "link": "https://www.sozcu.com.tr/celikte-ihracat-kaybi-3-milyar-dolari-bulur-p334455",
+  "source": "Sözcü",
+  "summary_tr": "AB'nin gümrüksüz çelik ithalat kotasını daraltma kararı sonrası Türk çelik sektörü 3 milyar dolarlık ihracat kaybı bekliyor.",
+  "metric": "Çelik ihracat kaybı tahmini: 3 milyar dolar",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-07T10:01:17.452132+00:00",
+  "type": "news",
+  "cluster_id": "ca312625286b5"
+ },
+ {
+  "title": "Şam'da Macron'un ziyareti sırasında iki patlama: 18 yaralı",
+  "link": "https://www.bbc.com/turkce/articles/c5yz0417mm4o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Fransa Cumhurbaşkanı Macron'un Şam ziyareti sırasında otelin yakınında iki patlama meydana geldi, 18 kişi yaralandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-07T10:01:17.452132+00:00",
+  "type": "news",
+  "cluster_id": "cfe05802db0f3"
+ },
+ {
+  "title": "HSBC Türkiye'den resmi ayrılık sinyali: Dev banka Körfez sermayesine mi satılıyor?",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/hsbc-turkiye-den-resmi-ayrilik-sinyali-dev-banka-korfez-sermayesine-mi-satiliyor-2518765",
+  "source": "Cumhuriyet",
+  "summary_tr": "Küresel ölçekte sadeleşme adımları atan HSBC, Türkiye'deki bireysel ve kurumsal bankacılık faaliyetlerini satmayı düşünüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-07T10:01:17.452132+00:00",
+  "type": "news",
+  "cluster_id": "cd0b2a661184f"
+ },
+ {
+  "title": "Başkentten yılın ilk yarısında rekor ihracat",
+  "link": "https://www.trthaber.com/haber/turkiye/baskentten-yilin-ilk-yarisinda-rekor-ihracat-950491.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ankara'nın 2025 yılı ilk yarısında ihracatı geçen yılın aynı dönemine göre %27,5 artarak 9 milyar 78 milyon dolara ulaştı.",
+  "metric": "Ankara ihracatı (H1): +%27,5 artış (9,078 milyar dolar)",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-07T10:01:17.452132+00:00",
+  "type": "news",
+  "cluster_id": "c12fce144e0a2"
+ },
+ {
+  "title": "Ambalajlı içeceklerde depozito güncellemesi sonrası haksız fiyat artışları takibe alındı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/ambalajli-iceceklerde-depozito-guncellemesi-sonrasi-haksiz-fiyat-artislari-takibe-alindi/3988520",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ticaret Bakanlığı, plastik, cam ve metal ambalajlı içeceklerde depozito güncellemesi sonrası haksız fiyat artışlarını takip etmeye başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-07T10:01:17.452132+00:00",
+  "type": "news",
+  "cluster_id": "c512b228effd3"
+ },
+ {
   "title": "NATO'nun Ankara Zirvesi hakkında bilinmesi gerekenler: Yeni bir dönem mi başlıyor?",
   "link": "https://www.cumhuriyet.com.tr/dunya/nato-nun-ankara-zirvesi-hakkinda-bilinmesi-gerekenler-yeni-bir-donem-mi-basliyor-2518736",
   "source": "Cumhuriyet",
@@ -54710,55 +54770,5 @@
   "score": 6,
   "ts": "2026-05-26T08:00:56.950247+00:00",
   "cluster_id": "c3dcd2849eeb7"
- },
- {
-  "title": "CHP'de bugün: Özel miting çağrısı yaptı, yandaşlar dokunulmazlık kartını sürdü",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSS1HM21Fb1UxQ1kyLTBlWjBiVnhoeHpoRHNpZUtJb2JXOHczSTRPRW9CWDVGcmdoa2V4Q1JzMjh1amlSdzF5S3JHMXdBMkI5S0RYelBvZzA5S1cyanhNa0xSNmc2SDZtZm94dUswT3ZONTlvaHRVZlVCME9VM210aGJNblZ0Z2tabEZnNjU1cEs3Z3drZk1vUW1fMTFlTzVOeHdRVnV1eXViajJicm5SUUdBRQ?oc=5",
-  "source": "soL",
-  "summary_tr": "CHP'de Özgür Özel miting çağrısı yaptı; muhalif çevreler dokunulmazlık kartı dağıtmaya devam etti.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-26T08:00:56.950247+00:00",
-  "cluster_id": "cecb57747d7c7"
- },
- {
-  "title": "Netanyahu orduya talimat verdi: Lübnan’a saldırıların şiddeti artırılacak",
-  "link": "https://www.cumhuriyet.com.tr/dunya/netanyahu-orduya-talimat-verdi-lubnan-a-saldirilarin-siddeti-artirilacak-2506984",
-  "source": "Cumhuriyet",
-  "summary_tr": "İsrail Başbakanı Netanyahu, Lübnan'a yönelik saldırıların şiddetinin artırılması talimatını verdi.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-05-26T07:01:01.615465+00:00",
-  "cluster_id": "cd495d0817239"
- },
- {
-  "title": "North Korea fired several missiles, South Korean military says",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMTJ6ZndIUG9uWlpBVGJ4bmFCX3JiRzlVY2FjdzJpMVBTTnJobExCVVNxdGFJb0VBQTJNZl9JU0dJQUw5V1pSNnUxSnNNWXNNUFNEY2VnWEJOa25jRFhsUkZ3RDBtNTdic29zc0JEY3U2el9PZnlWV0RWWlFsSjhfN1RSMUxFb05YZk1QZzJDaklQb0czX2dESmEweTNHOVd1S3NxaGotMjR0LVdVSmxfS1o2NEU4dw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Güney Kore ordusuna göre Kuzey Kore birden fazla füze ateşledi.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-05-26T07:01:01.615465+00:00",
-  "cluster_id": "cbe6e300193d3"
- },
- {
-  "title": "Rubio’dan İran mesajı: \"Ya güçlü anlaşma olur ya hiç olmaz\"",
-  "link": "https://www.sozcu.com.tr/rubio-dan-iran-mesaji-ya-guclu-anlasma-olur-ya-hic-olmaz-p322795",
-  "source": "Sözcü",
-  "summary_tr": "ABD Dışişleri Bakanı Rubio, İran ile müzakerelerde ön taslak üzerinde önemli mutabakat sağlandığını bildirdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-26T07:01:01.615465+00:00",
-  "cluster_id": "c2590f3e6a8fd"
- },
- {
-  "title": "ABD Dışişleri Bakanı Rubio, İran ile anlaşmanın ön taslağı üzerinde güçlü bir uyum olduğunu söyledi",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-disisleri-bakani-rubio-iran-ile-anlasmanin-on-taslagi-uzerinde-guclu-bir-uyum-oldugunu-soyledi/3948537",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Dışişleri Bakanı Rubio, İran ile anlaşma ön taslağı üzerinde güçlü uyum sağlandığını açıkladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-26T07:01:01.615465+00:00",
-  "cluster_id": "c6c9a03bfac37"
  }
 ]
