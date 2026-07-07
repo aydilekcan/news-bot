@@ -1,5 +1,41 @@
 [
  {
+  "title": "NATO Zirvesi bugün Ankara'da başlıyor: Türkiye'nin beklentileri neler?",
+  "link": "https://www.bbc.com/turkce/articles/cddlqe90pqgo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "NATO Zirvesi bugün Ankara'da başlıyor. Uzmanlar, zirvede Türkiye'nin son dönemdeki beklentilerinin merkez alacağını değerlendiriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-07T01:01:02.436198+00:00",
+  "type": "news",
+  "cluster_id": "c56e633874aa0"
+ },
+ {
+  "title": "Samsung forecasts 19-fold jump in quarterly profit as AI demand fuels chip crunch",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRFZjMFBwSnN6V1JmdzFZcDR0TThPWWI4U3FKR19WZXMtLUp4N1J4RjlhOVpDMWhkYVd4a1RIdElqNjIyUGhSekZydGt5UHNEQjRYSmR0NWFQRnRGVGc1aVFzWWlDY3V5b1hvUjhaNld5NURaSWFYQ25wSEdGUGdKRGJaeVR2eWQ0WFo3VF9RTUNRUHdHZi1KMXphTlVIT2wxZkxJZGlsc3IyeTUwSFF5STE3OVYwRW5pNTJULWdiOG9pQWlj?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Samsung, yapay zeka talebinin çip krizini tetiklemesiyle üç aylık karı 19 kat artacağını tahmin ediyor.",
+  "metric": "Quarterly profit 1x -> 19x (+1.800%)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-07T01:01:02.436198+00:00",
+  "type": "news",
+  "cluster_id": "ca9cea7aba328"
+ },
+ {
+  "title": "AB'ye ihracatta A.TR dolaşım belgesi sistemi kullanıma sunuldu",
+  "link": "https://www.trthaber.com/haber/ekonomi/abye-ihracatta-atr-dolasim-belgesi-sistemi-kullanima-sunuldu-950441.html",
+  "source": "TRT Haber",
+  "summary_tr": "AB'ye ihracatta elektronik A.TR dolaşım belgesi sistemi Ticaret Bakanlığı tarafından kullanıma sunuldu, gümrük işlemlerini basitleştiriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-07T01:01:02.436198+00:00",
+  "type": "news",
+  "cluster_id": "cb2e6ad57336b"
+ },
+ {
   "title": "Ankara'daki Trump-Erdoğan görüşmesinde gündemde hangi konular var?",
   "link": "https://www.bbc.com/turkce/articles/c9d223e346jo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -54598,35 +54634,5 @@
   "score": 6,
   "ts": "2026-05-25T21:00:52.382782+00:00",
   "cluster_id": "cd25ede3598f2"
- },
- {
-  "title": "Özgür Özel’den İzmir mitingi çağrısı: 'Yine meydan meydanayız'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/ozgur-ozel-den-izmir-mitingi-cagrisi-yine-meydan-meydanayiz-2506939",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel, 'mutlak butlan' kararı sonrası İzmir mitingi çağrısı yaptı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-25T21:00:52.382782+00:00",
-  "cluster_id": "ce52ea62d27eb"
- },
- {
-  "title": "Meloni coalition wins Venice mayoral vote, defying polls",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbGtpanI5YXRmVGNtLW5FYzlkei14QVM4WE91XzAtX2xBel82eUdMVDNmMzU0R3lvYmttNHZmVGYyQ3RrWDZxV1EyekJ5aFpoNG9YSUtGd1d5SmF4VHh1Z2R1SnE5RlZUU1l5aDdWRVNJdVRRdThIN0FxclFXSjVoZUxyTjQydDJ3dnNQMG55UmcxMEdlZzBiRGZlQnFBUQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İtalya: Meloni koalisyonu Venedik belediye başkanlığı seçimini anketlere rağmen kazandı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T21:00:52.382782+00:00",
-  "cluster_id": "cde8c8548b0d9"
- },
- {
-  "title": "Netanyahu, Lübnan'a saldırıların artırılması talimatı verdi",
-  "link": "https://www.sozcu.com.tr/netanyahu-lubnan-saldiri-talimat-p322716",
-  "source": "Sözcü",
-  "summary_tr": "İsrail Başbakanı Netanyahu, orduya Lübnan'a yönelik saldırıların artırılması talimatını verdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-25T20:00:50.610679+00:00",
-  "cluster_id": "cc7d10ad8dd02"
  }
 ]
