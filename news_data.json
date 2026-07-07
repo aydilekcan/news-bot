@@ -1,5 +1,77 @@
 [
  {
+  "title": "ABD'den İran'a 'güçlü' saldırı: 3 noktada peş peşe patlama!",
+  "link": "https://www.cumhuriyet.com.tr/dunya/abd-den-iran-a-guclu-saldiri-3-noktada-pes-pese-patlama-2518967",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD, İran'a saldırı başlattı; Hürmüz Boğazı yakınlarındaki Sirik ve Bender Abbas'ta patlama sesleri duyuldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-07T22:01:11.178428+00:00",
+  "type": "news",
+  "cluster_id": "cb24e01bc4f0a"
+ },
+ {
+  "title": "ABD, İran'a gece yarısı saldırdı; üç noktada peş peşe patlama sesleri",
+  "link": "https://www.sozcu.com.tr/abd-den-iran-a-yeni-saldiri-8-temmuz-2026-p334613",
+  "source": "Sözcü",
+  "summary_tr": "ABD ordusu, Hürmüz Boğazı'ndaki ticari gemileri hedef aldığı gerekçesiyle İran'a saldırı gerçekleştirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-07T22:01:11.178428+00:00",
+  "type": "news",
+  "cluster_id": "cb24e01bc4f0a"
+ },
+ {
+  "title": "ABD: İran'a saldırı başlattık",
+  "link": "https://www.trthaber.com/haber/dunya/abd-irana-saldiri-baslattik-950575.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Merkez Kuvvetler Komutanlığı İran'a saldırı başlattığını açıkladı; İran'ın güneyinde Sirik ve Bender Abbas'ta patlama sesleri duyuldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-07T22:01:11.178428+00:00",
+  "type": "news",
+  "cluster_id": "c0743b582ab13"
+ },
+ {
+  "title": "US military launches strikes against Iran, Central Command says",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVV9wZ2FzeG9JZjdYeVFsay04cWxoUzB1dzRnQ3RwczlRc01vZ0tNUG5aa2JYVUFlRG5vRy1mTnNsLUs2TXk3dzFKTVliRUh2ckJuWkVzQTQtUHpzT0Q4OFFILUFydHlsdUsxaTlhak1hWXViVGZNZDFkNkZSVklSUjZXRV9uLW12X3VOcUlZbmpGQnZUR3gyc3M4WVItZXdjWEpBd01GWjdvRGVzaFc4emZBY0p5YlU?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Merkez Kuvvetler Komutanlığı İran'a karşı askeri hava saldırıları başlattığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-07T22:01:11.178428+00:00",
+  "type": "news",
+  "cluster_id": "c84fdfa285da8"
+ },
+ {
+  "title": "US launches new strikes against Iran after three ships were hit in Strait of Hormuz",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2tfRFIyMHM3Y3R0UHRSQ0xwNEdNX2pjVUV5QkFGZk4yLUpVeU9RN0RHLXpUYU5UMzVIZkNwOWV4Q2dKTnJYZVl6UzZadkxHYUVYNmUzYWxoUEo1S2pPRUkxWmFsMHhadUYyams3ME5TOTlVSHhuTmgtRVA4NGo1NlJIOF9ZOUU2dGc?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD, Hürmüz Boğazı'nda vurulan üç ticari gemi sonrasında İran'a yeni saldırılar başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-07T22:01:11.178428+00:00",
+  "type": "news",
+  "cluster_id": "c733c7d2d5755"
+ },
+ {
+  "title": "US reinstates sanctions on Iranian oil sales after LNG, oil tanker attacks",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRF9kZUxkQm9QMzgwTWI4c0hrMXRiWkdFWGNOZk9KSkxfcFplSUxKLWlwZGFRWTVCYnRSZzdBRU82eXJMRHduenF5RTF4bVBVSVNVMWcwNkdjUElzd05RcjVya2hsRkplYWhRcnR4ajBhVWphWW5rdS1UZlNBSjFPNUVzcXlxSHhrUWdkZC1pcHVjQUtLV0pzUFd5UXhoY01DaE9zYUQ0V3FqemM1UW8wTm9LUlpreFJfdnBj?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, Hürmüz Boğazı'ndaki gemi saldırılarının ardından İranlı petrol satışlarına yönelik yaptırımları yeniden yürürlüğe koydu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-07T22:01:11.178428+00:00",
+  "type": "news",
+  "cluster_id": "cb29b1182db44"
+ },
+ {
   "title": "Netanyahu: Türkiye'ye F-35 verilmesi Ortadoğu'da dengeyi bozar",
   "link": "https://www.diken.com.tr/netanyahu-turkiyeye-f-35-verilmesi-ortadoguda-dengeyi-bozar/?utm_source=rss&utm_medium=rss&utm_campaign=netanyahu-turkiyeye-f-35-verilmesi-ortadoguda-dengeyi-bozar",
   "source": "Diken",
@@ -54862,65 +54934,5 @@
   "score": 7,
   "ts": "2026-05-26T16:00:53.531657+00:00",
   "cluster_id": "c73379f9fc138"
- },
- {
-  "title": "ABD'nin İran'a saldırılarına Tahran'dan tepki: 'Ateşkes ihlal edildi'",
-  "link": "https://www.bbc.com/turkce/articles/ce8ppzzpmlzo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD ordusu İran'ın füze sahalarını vurdu; Tahran, ateşkes ihlali iddiasında bulundu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-26T15:01:03.383245+00:00",
-  "cluster_id": "c5c1e45a7a866"
- },
- {
-  "title": "İsrail Lübnan’da kara saldırılarını genişletti: 'Sarı Hat' aşıldı",
-  "link": "https://www.cumhuriyet.com.tr/dunya/israil-lubnan-da-kara-saldirilarini-genisletti-sari-hat-asildi-2507107",
-  "source": "Cumhuriyet",
-  "summary_tr": "İsrail, Lübnan'da 'Sarı Hat'ın ötesine kara saldırılarını genişletti; ateşkesi ihlal etti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-26T15:01:03.383245+00:00",
-  "cluster_id": "c57f48e62af3a"
- },
- {
-  "title": "İsrail'den Güney Lübnanda yeni kara harekatı",
-  "link": "https://www.trthaber.com/haber/dunya/israilden-guney-lubnanda-yeni-kara-harekati-946321.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail ordusunun Lübnan'da 'Sarı Hat'ın ötesine kara harekatı genişletmesi ateşkesi ihlal etti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-26T15:01:03.383245+00:00",
-  "cluster_id": "cfce4bee48c2b"
- },
- {
-  "title": "Russia maintains attacks on Ukraine, as Kyiv is warned to brace for a possible major barrage",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGJWRVZDYk9rRXdSQUdDUS1EWEE4R2ZfMm8zU0RxeFJ1LVFzYVBQNzFRcnJvV05OS0xoLUxwZENFV015NnhoaHBtV3ZIeF9YQmNrbG10VEdaWC1ERjJ0dGNFeWcyTHowUlhjV2JYRGpCRTFfbmR5UVlDTlBmaTJDVXliSnJRVUFpUzA1VUVjTU1DXzRxd3FZcGRtTW1uYUI1UnhZ?oc=5",
-  "source": "AP",
-  "summary_tr": "Rusya, Ukrayna'ya saldırılarını sürdürüyor; Kyiv büyük füze saldırısına hazırlanmaya uyarıldı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-26T15:01:03.383245+00:00",
-  "cluster_id": "c51124b22178b"
- },
- {
-  "title": "CHP'de kurultay olasılıkları: Kılıçdaroğlu 'olağanüstü durum' kartını kullanabilir",
-  "link": "https://www.bbc.com/turkce/articles/cqlppx53775o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Kılıçdaroğlu, mahkeme kararıyla genel başkanlığa döndü; 'olağanüstü kurultay' çağrısı ile Özel'e karşı hamle yapabilir.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-26T15:01:03.383245+00:00",
-  "cluster_id": "cef100eda4f9c"
- },
- {
-  "title": "Özgür Özel, Erdoğan ve Kılıçdaroğlu'na meydan okudu",
-  "link": "https://www.dw.com/tr/özgür-özel-erdoğan-ve-kılıçdaroğlu-na-meydan-okudu/a-77300380?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Özgür Özel, 'CHP fiilen kapanmıştır' diyerek seçim çağrısı yaptı ve Kılıçdaroğlu'na meydan okudu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-26T15:01:03.383245+00:00",
-  "cluster_id": "cf0135f6d5865"
  }
 ]
