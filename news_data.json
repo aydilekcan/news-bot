@@ -1,5 +1,53 @@
 [
  {
+  "title": "Trump says he will lift Turkey sanctions, decide on selling F-35s",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSnZfOE9xZ1c4MDlKOGw2UW1aZW96Wi1BeThtUXZOYmQzNjRTQTF1MnJvMmNXOXZudDAwYkFhbm9MTkhrYS1oc2YxSHgxajhMdVdURTVkck1FV3Z3bDlxdXpNUHdvOHl4eDhmOHJtbmxZNXQwcWt4UnlfSjhMM0JndnBpZHBCTkxlWTZBQlpXT1lEd0VCTGV1NHowY2VWTFFkYWh3MHQ5U09ZMnBEeXlKbWtn?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, Türkiye'ye yönelik yaptırımları kaldıracağını ve F-35 satışı konusunu değerlendireceğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-07T15:01:10.821197+00:00",
+  "type": "news",
+  "cluster_id": "c7da57461a1c3"
+ },
+ {
+  "title": "Ankara'da füze anlaşması: ATACMS Almanya'da üretilecek",
+  "link": "https://www.dw.com/tr/ankara-da-füze-anlaşması-atacms-almanya-da-üretilecek/a-77866760?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "NATO Zirvesi'nde Ankara, Lockheed Martin ve Rheinmetall ile ATACMS füzelerinin Almanya'da üretileceği anlaşmasını imzaladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-07T15:01:10.821197+00:00",
+  "type": "news",
+  "cluster_id": "ce35796a1a352"
+ },
+ {
+  "title": "Toyota, Texas'taki üretim tesisini genişletmek için 3,6 milyar dolarlık yatırım yapacak",
+  "link": "https://www.aa.com.tr/tr/ekonomi/toyota-texastaki-uretim-tesisini-genisletmek-icin-3-6-milyar-dolarlik-yatirim-yapacak/3989269",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Toyota, Texas San Antonio kentindeki üretim tesisini genişletmek için 3,6 milyar dolar yatırım yapacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-07T15:01:10.821197+00:00",
+  "type": "news",
+  "cluster_id": "cb3b66388bad0"
+ },
+ {
+  "title": "İhracat (aylık değişim): -9,5%",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbjltZW9Pdmd0NXJVNkZRWEVPSkp1bDhVWVFBWTd4Tng5bkZva1d3Q0ptckNBMmFuREdiUGVhRUtOdEJ6aGJPSm43Rzk3Si00TDRPTHhhV1dGdUs1cUxoQnIzWkJxS25KLV9VeHNWdWVTMmkwOGVFM2o0azAxdV9JN3Q2VnBHUnRURDBkeUtrWDZWcWlqbWtkT0RYX0xyTHPSAaMBQVVfeXFMTjNBSXdnZXlEU1h1dXk3U2tIclJERHFvamlqZ0NGWU9WTl92NUExeUZERjdwRm1mT0VlbHRoSXBDOGhBMFRwaEJoQkdKYmpPajQ1ckd4a1hkU0J3TXktYkIwN2tBTnh5ZGVhMEF1VU9qZExNdEFXWWdxTmlhMVlheEppMmJGNWZzbVpsWGx4dHVZYzdtRUFNcGIzTURGOVhHSU51NA?oc=5",
+  "source": "TÜİK",
+  "summary_tr": "~25 milyar $ → -9,5%",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-07T15:01:10.821197+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Trump-Erdoğan görüşmesi: 'Yaptırımları kaldıracağız, F-35 satışını değerlendireceğiz'",
   "link": "https://www.bbc.com/turkce/articles/c33y078x83zo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -54808,45 +54856,5 @@
   "score": 7,
   "ts": "2026-05-26T13:01:11.196851+00:00",
   "cluster_id": "cfa3800ed86ab"
- },
- {
-  "title": "Russia can falsify GPS signals deep into Europe, Lithuania says",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOWFvV1c3ckFhQ2tPNGdTQ0xKQWhReGZacXV0WXRNaWY1YXp3S0hETms3bWJNcmxjNW4xMXFKWm1hREFMTjBnbjFIZ0ZOTklZSWVjaVl3VW9SbERCemZnT21TMnBYRlE0RFFpdE45eTlzYUpJbGx3MDdmYXJSWUkwVnNQZnVaZkNYMUlEQU56aDI5V1hvZHE5VnhRS2NiUjRBWUVvTmlfNXpZZWdqSmFzOWRrVDdTRU1ERVBpVFZFQ1lBUDA?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Litvanya, Rusya'nın GPS sinyallerini Avrupa'nın derinlerine kadar tahrif edebildiğini belirtti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-26T13:01:11.196851+00:00",
-  "cluster_id": "c39cee445e08b"
- },
- {
-  "title": "Arınç'tan mutlak butlan yorumu: 'Görev ve usul hukuku bakımından yanlış buluyorum'",
-  "link": "https://www.bbc.com/turkce/articles/c93xxx4e7eeo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Eski TBMM Başkanı Bülent Arınç, CHP'ye verilen 'mutlak butlan' kararını 'yetki ve usul hukuku bakımından yanlış' bulduğunu açıkladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-26T13:01:11.196851+00:00",
-  "cluster_id": "cc9f537a1d1ee"
- },
- {
-  "title": "CHP'nin bayramlaşma programında bu kez AKP de var",
-  "link": "https://www.diken.com.tr/chpnin-bayramlasma-programinda-bu-kez-akp-de-var/?utm_source=rss&utm_medium=rss&utm_campaign=chpnin-bayramlasma-programinda-bu-kez-akp-de-var",
-  "source": "Diken",
-  "summary_tr": "CHP'nin bayramlaşma programına mahkeme kararıyla Kılıçdaroğlu'nun getirilmesinin ardından AKP de davet edildi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-26T13:01:11.196851+00:00",
-  "cluster_id": "ca9c1463a470c"
- },
- {
-  "title": "Arınç, mutlak butlan kararını 'yanlış' buldu",
-  "link": "https://www.diken.com.tr/arinc-mutlak-butlan-kararini-yanlis-buldu/?utm_source=rss&utm_medium=rss&utm_campaign=arinc-mutlak-butlan-kararini-yanlis-buldu",
-  "source": "Diken",
-  "summary_tr": "AKP kurucu üyesi Bülent Arınç, CHP kurultayındaki 'mutlak butlan' kararını 'yanlış' bulduğunu açıkladı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-26T13:01:11.196851+00:00",
-  "cluster_id": "c11fb2634b2fd"
  }
 ]

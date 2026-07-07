@@ -320,10 +320,10 @@
    "indicator_tr": "İhracat ve ithalat değişimi"
   },
   "tr_ihracat_aylik": {
-   "value": "~25 milyar $",
-   "period": "Haziran",
-   "ts": "2026-07-03T10:02:10.694994+00:00",
-   "indicator_tr": "İhracat"
+   "value": "-9,5%",
+   "period": "",
+   "ts": "2026-07-07T15:01:28.741263+00:00",
+   "indicator_tr": "İhracat (aylık değişim)"
   },
   "tr_butce_acigi": {
    "value": "1 trilyon TL'yi aştı",
@@ -860,6 +860,7 @@
   "2152ef17b59cac5eecd06c0f81b0fbdf": "2026-07-07T12:01:10.157445+00:00",
   "e488ae3df41b7d2e94b17770fe5feef7": "2026-07-07T13:01:25.414085+00:00",
   "e760892976912e0d2ce3dbd4f667c0ec": "2026-07-07T13:01:25.414085+00:00",
-  "cf10aef147028031ce670e1e9fb1e0f7": "2026-07-07T14:01:21.638046+00:00"
+  "cf10aef147028031ce670e1e9fb1e0f7": "2026-07-07T14:01:21.638046+00:00",
+  "a01d7a1c803498e551d9271844238357": "2026-07-07T15:01:10.821197+00:00"
  }
 }
