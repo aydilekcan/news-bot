@@ -1,5 +1,77 @@
 [
  {
+  "title": "Trump'ın \"kalkacak\" dediği CAATSA nedir?",
+  "link": "https://www.dw.com/tr/trump-ın-kalkacak-dediği-caatsa-nedir/a-77867066?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Trump, Türkiye'ye yönelik CAATSA yaptırımlarını kaldıracağını söyledi. CAATSA, S-400 satın alımına karşı ABD'nin uyguladığı yaptırım paketi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-07T16:01:12.034673+00:00",
+  "type": "news",
+  "cluster_id": "cb6c250455a14"
+ },
+ {
+  "title": "Russia's largest oil refinery halts processing after drone attack, sources say",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd0VnUGZPLW1xRUFGRWNnM0hkZzVHaDVrMWdLZEtmWW1tREZ0MDhURkhQWGJ1RnZ5T1ZVMzFkSlQ2X1NXWHlmNC10NmFfU3RFT3oxeFNqSW51OXFOeS1Wa2hfdWU5Ui1FWk5MUThFWGxlNDFmcDNBMWU4YUVMTVREaU1pajZxUmVWc0hkUnZhendKYl9ISTQxbktJNU1McUN2NWJGblBvSEduenZEME9HTy1lUDIyYUo4SGRDRTgwdnJ3dHRxVHo4?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya'nın en büyük petrol rafineresi drone saldırısının ardından işlem durdurmaya başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-07T16:01:12.034673+00:00",
+  "type": "news",
+  "cluster_id": "c43bb0b136974"
+ },
+ {
+  "title": "Mutlak butlan Kılıçdaroğlu, CHP MYK'yı cuma günü topluyor",
+  "link": "https://www.sozcu.com.tr/mutlak-butlan-kilicdaroglu-chp-myk-yi-cuma-gunu-topluyor-p334556",
+  "source": "Sözcü",
+  "summary_tr": "Mahkeme kararıyla CHP Genel Başkanlığına getirilen Kemal Kılıçdaroğlu, Merkez Yönetim Kurulu'nu cuma günü toplayacak.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-07T16:01:12.034673+00:00",
+  "type": "news",
+  "cluster_id": "ce1e93d0d2c3d"
+ },
+ {
+  "title": "İstanbul Ticaret İl Müdürlüğü ekipleri ambalajlı su fiyatlarına yönelik denetim yaptı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/istanbul-ticaret-il-mudurlugu-ekipleri-ambalajli-su-fiyatlarina-yonelik-denetim-yapti/3989349",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İstanbul Ticaret İl Müdürlüğü, ambalajlı su ve içeceklerdeki haksız fiyatlandırmaya karşı denetim yaptı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-07T16:01:12.034673+00:00",
+  "type": "news",
+  "cluster_id": "cb71ec559448c"
+ },
+ {
+  "title": "Katar, Hürmüz Boğazı yakınlarında petrol tankerinin vurulduğunu açıkladı",
+  "link": "https://www.trthaber.com/haber/dunya/katar-hurmuz-bogazi-yakinlarinda-petrol-tankerinin-vuruldugunu-acikladi-950545.html",
+  "source": "TRT Haber",
+  "summary_tr": "Katar, petrol tankeri ErRukeyyat'ın Hürmüz Boğazı yakınlarında vurulduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-07T16:01:12.034673+00:00",
+  "type": "news",
+  "cluster_id": "c879db01757df"
+ },
+ {
+  "title": "Ukraine steps up strikes on Russian 'shadow fleet' tankers",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNkJPTUhLWWxYT0hLeUhPQmQxZVZZYlV1M0lzVHVzRFEyeW1VeHhLbk9wZWxpb0JVOXRqeVQxb2dRN0Z6aFpHNVdXQmdIa1RUNlFiMkhVeEVGOF9kSm9HRDdSd2JFZGowUEdkaVNOa2FIZmJOeDVuVTV0SFdDMTV6LThFNW1YbXAtdUtfYmdEWDRsMm9DbUx2bDBPamo0UTRQYmsxU0IyWmt3dUkzamc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ukrayna, Rusya'nın 'gölge filo' tankerlerine karşı saldırılarını yoğunlaştırıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-07T16:01:12.034673+00:00",
+  "type": "news",
+  "cluster_id": "c8f193aa78291"
+ },
+ {
   "title": "Trump says he will lift Turkey sanctions, decide on selling F-35s",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSnZfOE9xZ1c4MDlKOGw2UW1aZW96Wi1BeThtUXZOYmQzNjRTQTF1MnJvMmNXOXZudDAwYkFhbm9MTkhrYS1oc2YxSHgxajhMdVdURTVkck1FV3Z3bDlxdXpNUHdvOHl4eDhmOHJtbmxZNXQwcWt4UnlfSjhMM0JndnBpZHBCTkxlWTZBQlpXT1lEd0VCTGV1NHowY2VWTFFkYWh3MHQ5U09ZMnBEeXlKbWtn?oc=5",
   "source": "Reuters",
@@ -54796,65 +54868,5 @@
   "score": 7,
   "ts": "2026-05-26T13:01:11.196851+00:00",
   "cluster_id": "cd49a0c295081"
- },
- {
-  "title": "Mutlak Butlan Yetmedi, CHP’ye Polis Çağırmak Tüy Dikti",
-  "link": "https://yetkinreport.com/2026/05/26/mutlak-butlan-yetmedi-chpye-polis-cagirmak-tuy-dikti/",
-  "source": "YetkinReport",
-  "summary_tr": "Seçilmiş genel başkan Özgür Özel, CHP içinde iki farklı yapı oluştuğunu belirtti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-26T13:01:11.196851+00:00",
-  "cluster_id": "cef5c63acb8a8"
- },
- {
-  "title": "ECB’den Orta Doğu alarmı: Enerji krizi Avrupa ekonomisini zorluyor",
-  "link": "https://www.sozcu.com.tr/ecb-den-orta-dogu-alarmi-enerji-krizi-avrupa-ekonomisini-zorluyor-p322888",
-  "source": "Sözcü",
-  "summary_tr": "ECB Başekonomisti Philip Lane, Orta Doğu'daki gerilim ve yükselen enerji fiyatlarının Euro Bölgesi büyümesini baskıladığını belirtti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-26T13:01:11.196851+00:00",
-  "cluster_id": "c94b3e92adbf3"
- },
- {
-  "title": "ECB Başekonomisti Philip Lane: Enflasyon ve büyüme tahminlerini güncelleyeceğiz",
-  "link": "https://www.aa.com.tr/tr/ekonomi/ecb-basekonomisti-philip-lane-enflasyon-ve-buyume-tahminlerini-guncelleyecegiz/3948965",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ECB Başekonomisti Philip Lane, jeopolitik gerilim ve enerji maliyetlerinin enflasyon ve büyüme tahminlerini etkileyeceğini açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-26T13:01:11.196851+00:00",
-  "cluster_id": "c6bcb8d68387f"
- },
- {
-  "title": "İsrail'den Lübnan işgalini genişletme, saldırıları şiddetlendirme kararı",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQlFidnhndXFnZTdhbzJnUGFkWnNjS2NZQnVKb3J5MG10LWdEdEJqclJlUXBDNnRLQ0N3QnJCN2t0RXdZVGVFUnJ2ZUNYMmozNUhaLVdzcEZRNThjQ1BZUXdRVkFMd1hrcGF0X1JUUGpmenMxclNMWVVCVWFxMTFxS2hqeUpkSU41QnRJUmlnM1pTNzdwalBGNHNIRk5lZThlZi1WOURGZzJiU0tO?oc=5",
-  "source": "soL",
-  "summary_tr": "İsrail, Lübnan'daki işgalini genişletme ve saldırılarını şiddetlendirme kararı aldı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-26T13:01:11.196851+00:00",
-  "cluster_id": "c319eff10fb44"
- },
- {
-  "title": "BP ousts Chair Albert Manifold in surprise move, citing unnamed governance issues",
-  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcFl5R1VSQnhST1NLbkpHblRmdHp6T1daWXc4TV9IaGF6clh3TktKVkpWS0FXZ2ZMS2t1Q1dKS2IxdnRTNkoyazBfQzFTT1gtbElUS0RuYWswMy1Ia01EeERQdHZSbGtzakNtWWJLRzJna3ludXRCb0tIWHhVcGE1N19JMkgtRElqcjBGSEYtNm0?oc=5",
-  "source": "Reuters",
-  "summary_tr": "BP, Yönetim Kurulu Başkanı Albert Manifold'u 'yönetişim sorunları' nedeniyle görevinden aldı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-26T13:01:11.196851+00:00",
-  "cluster_id": "c88d2d82a4fa5"
- },
- {
-  "title": "Exclusive: Pentagon spars with SpaceX over Starlink price hike during Iran war",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaUljVEJaNEJUaGgyZVVOd3Z5SS13OEltSVFPU1ZEc3UtcFpxNVE0VTZjZzVRV2F5Q0J2UHJtV2xZVmczbTlIYlVfZ2JielRqbGFSVktwZzVyRV9QVm4tTkhoVFdLS3kxeTZSVzBzaTM1b3Q1T1E1dllTSXhOWVQwSXVNUXAydEJySXU1anJackpLUHB0YllPaWtxb0FSZkQybEtnOGhpUjNKNDdnYjR5dDhzWHBOdU8wN09ocDdTeXpZZHppR3R0VnBR?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Pentagon, SpaceX'in Starlink fiyat artışı nedeniyle 'İran savaşı' sırasında anlaşmazlık yaşıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-26T13:01:11.196851+00:00",
-  "cluster_id": "cfa3800ed86ab"
  }
 ]
