@@ -21,9 +21,9 @@
   },
   "tr_issizlik": {
    "value": "%8,2",
-   "period": "Mayis 2026",
-   "ts": "2026-07-03T08:02:30.017261+00:00",
-   "indicator_tr": "Issizlik orani"
+   "period": "Mayıs 2025",
+   "ts": "2026-07-07T09:02:24.638758+00:00",
+   "indicator_tr": "İşsizlik oranı"
   },
   "tr_dis_ticaret_haddi": {
    "value": "90,1",
@@ -420,10 +420,21 @@
    "period": "Mayıs",
    "ts": "2026-07-07T06:01:24.751855+00:00",
    "indicator_tr": "İthalat (aylik degisim)"
+  },
+  "tr_dis_ticaret_ihracat_degisim": {
+   "value": "%-9,5",
+   "period": "",
+   "ts": "2026-07-07T09:02:24.638758+00:00",
+   "indicator_tr": "İhracat değişim oranı"
+  },
+  "tr_dis_ticaret_ithalat_degisim": {
+   "value": "%-10,8",
+   "period": "",
+   "ts": "2026-07-07T09:02:24.638758+00:00",
+   "indicator_tr": "İthalat değişim oranı"
   }
  },
  "seen_links": {
-  "bb4a2f52bc21573d136c658ee5abe9be": "2026-06-23T09:01:18.718963+00:00",
   "cab2dba350e60fd6de753b30135a4579": "2026-06-23T10:01:13.335391+00:00",
   "7fd6719c39f6ef637e32dd1a2ea891ee": "2026-06-23T10:01:13.335391+00:00",
   "1355233863dd8d27cbedead4af46c9cf": "2026-06-23T10:01:13.335391+00:00",
@@ -838,6 +849,8 @@
   "b8cde5dc43c1dfeb73d57f813feb948f": "2026-07-07T06:01:09.680206+00:00",
   "6258d60daa393e5654104d6a4b0cf6ec": "2026-07-07T06:01:09.680206+00:00",
   "2042c8a5d3986ac8dac861fd30e063d7": "2026-07-07T07:01:12.763439+00:00",
-  "ae8eeda178f02d2d894be201243cf5eb": "2026-07-07T08:01:16.742173+00:00"
+  "ae8eeda178f02d2d894be201243cf5eb": "2026-07-07T08:01:16.742173+00:00",
+  "a631a693c9b48f909ed30de348fc3472": "2026-07-07T09:01:19.397508+00:00",
+  "b6843e6a87fd66f36bf8ed56a83f0269": "2026-07-07T09:01:19.397508+00:00"
  }
 }
