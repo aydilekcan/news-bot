@@ -1,5 +1,41 @@
 [
  {
+  "title": "ABD'de tüketicilerin kısa vadeli enflasyon beklentisi 2023'ten bu yana en yüksek seviyeye çıktı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abdde-tuketicilerin-kisa-vadeli-enflasyon-beklentisi-2023ten-bu-yana-en-yuksek-seviyeye-cikti/3989408",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD'de tüketicilerin kısa vadeli enflasyon beklentisi Haziran'da %3,7'ye çıkarak Eylül 2023'ten bu yana en yüksek seviyesine ulaştı.",
+  "metric": "Tüketici enflasyon beklentisi (kısa vadeli) Eylül 2023 -> Haziran 2026: +%3,7 (en yüksek seviye)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-07T17:01:10.986252+00:00",
+  "type": "news",
+  "cluster_id": "c33ee92255443"
+ },
+ {
+  "title": "ABD Başkanı Trump'a \"A+ tipi resmi tören\"le karşılama",
+  "link": "https://www.aa.com.tr/tr/gundem/abd-baskani-trumpa-a-tipi-resmi-torenle-karsilama/3989475",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, Türkiye'ye resmi ziyarette bulunan ABD Başkanı Trump'ı A+ tipi resmi törenle karşıladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-07T17:01:10.986252+00:00",
+  "type": "news",
+  "cluster_id": "c141316be3d37"
+ },
+ {
+  "title": "Türkiye ile Kanada arasında STA müzakereleri resmen başlatıldı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-ile-kanada-arasinda-sta-muzakereleri-resmen-baslatildi/3989473",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye ve Kanada arasında Serbest Ticaret Anlaşması müzakereleri resmi olarak başlatıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-07T17:01:10.986252+00:00",
+  "type": "news",
+  "cluster_id": "c652db2efc9e1"
+ },
+ {
   "title": "Trump'ın \"kalkacak\" dediği CAATSA nedir?",
   "link": "https://www.dw.com/tr/trump-ın-kalkacak-dediği-caatsa-nedir/a-77867066?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -54838,35 +54874,5 @@
   "score": 7,
   "ts": "2026-05-26T13:01:11.196851+00:00",
   "cluster_id": "cb3c6ff5266e8"
- },
- {
-  "title": "Özel'den Kılıçdaroğlu'na çağrı: 'Kuralım sandığı, 2 milyon üye genel başkanı belirlesin'",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcHN3eGY2eGdNakpNd3Q1TDJEVE83Yjg1S29ud29BV19UV2NpaUJmRFBoLUVFZDN0OUR4SllUeHJvU3VQOWtVTHB5VGRfVkxpNFJ4NGtPNll1R0NZbmRLLVAtY29kTEJsb2p0TVlNa1VXUFpJaWNVYlZtRGdLdFJVLVQyNlR5dDk3NURqQkpWZF9VRkRwdkpZVEVFSVc5b3MzMWNkY3lkXzBOazIwemxEVGowZ20wM282YzNsaA?oc=5",
-  "source": "soL",
-  "summary_tr": "Özgür Özel, Kılıçdaroğlu'na 2 milyon CHP üyesinin genel başkanı belirlemesi için sandık kurulmasını çağırdı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-26T13:01:11.196851+00:00",
-  "cluster_id": "cb3c6ff5266e8"
- },
- {
-  "title": "Kemal Kılıçdaroğlu: 'Ayrışmadan yana olanların' CHP içinde yeri yoktur",
-  "link": "https://www.bbc.com/turkce/articles/c1l222gq110o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Kemal Kılıçdaroğlu, CHP içinde 'kavga eden ve ayrışmadan yana olanların yeri olmadığını' belirtti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-26T13:01:11.196851+00:00",
-  "cluster_id": "cf2cbc2c71138"
- },
- {
-  "title": "Özel'den Kılıçdaroğlu'na 'genel başkanı iki milyon üyemiz seçsin' teklifi",
-  "link": "https://www.diken.com.tr/ozelden-kilicdarogluna-genel-baskani-iki-milyon-uyemiz-secsin-teklifi/?utm_source=rss&utm_medium=rss&utm_campaign=ozelden-kilicdarogluna-genel-baskani-iki-milyon-uyemiz-secsin-teklifi",
-  "source": "Diken",
-  "summary_tr": "Özgür Özel, Kılıçdaroğlu'na CHP genel başkanını 2 milyon üyenin sandıkta seçmesini teklif etti.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-26T13:01:11.196851+00:00",
-  "cluster_id": "cd49a0c295081"
  }
 ]
