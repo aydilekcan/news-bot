@@ -1,5 +1,53 @@
 [
  {
+  "title": "Iran fires missiles at commercial ships in Strait of Hormuz, Axios reports",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUVFSZk5WeEJaVV96QWl0TDFIZDJUNWFlNTVkNERLdkxfYlVuY2paaS1KbkFHaDB6dkpEeVQ0ZXlLLW1RTXlBTmN2XzBPaklObVJ1VzdpWkFVTDhIYWFNbWlRdDVWZDJkZF9BY0FlNmJHaDBPbmY5ZTVDMEw3M0ozbjN5N2ljem83ZVBQZ3BhUEc4VTZBYmNZVnBiTVFoWUJUdml0dEdOUVYtMG02VEJKQUhMaUZSSnJuWmc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran, Hürmüz Boğazı'nda ticari gemilere füze attı; uluslararası deniz ticaretine tehdit oluşturdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-07T04:01:05.130825+00:00",
+  "type": "news",
+  "cluster_id": "ca6e849949c9c"
+ },
+ {
+  "title": "Trump says a resolution to Ukraine war is 'getting closer' after talks with Putin and Zelenskiy",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObk5lNTJzdkJTSjdRdmlRNGxZdnZKamZoSUhHUkduWVBIWExMcFNlc3ZhaTFiNm1yajctMk1VNEtuc1hTMVB0dEl4YTl6MFdRcWstRERLOEVVZlRoRlRZeVNSRHZrVzE1U2ZpY1E3Mk9sRl9hMTJrMXBMdDVOYmkwSnVJaW5lSlEyb3FGN1JtRkllZDJKeFdEU2NhbVBoRmNiWnIwV0R1aWxOb052YU9ycVhlV3F3U0x6LV93RXVXc0w?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, Putin ve Zelenskiy ile görüşme sonrası Ukrayna savaşının çözümünün 'yaklaştığını' söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-07T04:01:05.130825+00:00",
+  "type": "news",
+  "cluster_id": "c6f5fd45b9baa"
+ },
+ {
+  "title": "Trump, eşiyle gelecek Anıtkabir’e gitmeyecek",
+  "link": "https://www.sozcu.com.tr/trump-esiyle-gelecek-anitkabir-e-gitmeyecek-p334332",
+  "source": "Sözcü",
+  "summary_tr": "Trump NATO Zirvesi'ne katılacak ve Erdoğan ile görüşecek; Anıtkabir ziyareti programından çıkarıldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-07T04:01:05.130825+00:00",
+  "type": "news",
+  "cluster_id": "c742bc8b16469"
+ },
+ {
+  "title": "Samsung flags 19-fold jump in profit, but shares slump on jitters AI boom may stall",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRFZjMFBwSnN6V1JmdzFZcDR0TThPWWI4U3FKR19WZXMtLUp4N1J4RjlhOVpDMWhkYVd4a1RIdElqNjIyUGhSekZydGt5UHNEQjRYSmR0NWFQRnRGVGc1aVFzWWlDY3V5b1hvUjhaNld5NURaSWFYQ25wSEdGUGdKRGJaeVR2eWQ0WFo3VF9RTUNRUHdHZi1KMXphTlVIT2wxZkxJZGlsc3IyeTUwSFF5STE3OVYwRW5pNTJULWdiOG9pQWlj?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Samsung kâr 19 kat artış kaydetti; ancak yapay zeka resesyonu endişesiyle hisse senedi düştü.",
+  "metric": "Samsung kâr +1800% (yaklaşık)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-07T04:01:05.130825+00:00",
+  "type": "news",
+  "cluster_id": "cf274f025e18d"
+ },
+ {
   "title": "Asgari ücret eksiye düşecek",
   "link": "https://www.sozcu.com.tr/asgari-ucret-eksiye-dusecek-p334316",
   "source": "Sözcü",
@@ -54606,45 +54654,5 @@
   "score": 7,
   "ts": "2026-05-25T22:00:49.734439+00:00",
   "cluster_id": "c95ceef69c091"
- },
- {
-  "title": "İran basını: Bender Abbas kentinde patlama sesleri duyuldu",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/iran-basini-bender-abbas-kentinde-patlama-sesleri-duyuldu-2506955",
-  "source": "Cumhuriyet",
-  "summary_tr": "İran'ın güneyindeki Bender Abbas kentinde patlama sesleri duyuldu; nedeni henüz bilinmiyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T22:00:49.734439+00:00",
-  "cluster_id": "cd868b11f7dc1"
- },
- {
-  "title": "İran'ın güneyinde patlama sesleri",
-  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83QnVMRzZydXp6UXVjcVIzcDdaUElTR1FwcWc3WTZMbXBTTkgzZmFXQW8tb2w3b0l4QUc3TDNvQ1BmVVd3LXlZWHlrSmdOamZ3Tjd2TUZRRzJOTFBzaDlpZDhkS2t3NC1JNmNjRzBfUTZaQmgyRVhtcW5R?oc=5",
-  "source": "soL",
-  "summary_tr": "İran'ın güneyindeki Hürmüzgan eyaletinde patlama sesleri duyuldu.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T22:00:49.734439+00:00",
-  "cluster_id": "ce9487982cad9"
- },
- {
-  "title": "Zelenskiy: Little progress in talks with U.S. on missile defences",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR2NibElRblFPbVNxTEx5bFE4UzE3SXV6RzBOckhZVXhxY3BDeUxQTVVDd0JXUkhaN2Z4VWllSnpUVEp1a0N4czJtYS1mc2JHSXM2eXI4V0djdmozZ3UzTjRGbmUyX3ZscWVadHZHeEhxMHM5czVrcF82UlJ5Vy05RFVvS1dPUnc0MUhtVjhiTDVlU3lsYmcyWWQzTGFmRFBIM3hMVlhoTXZKc3paUWJqOUlKWUFtaWdJaVRj?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Zelenskiy, ABD ile hava savunma sistemleri konusunda müzakerelerde sınırlı ilerleme kaydedildiğini belirtti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-25T22:00:49.734439+00:00",
-  "cluster_id": "cb253e18e9be4"
- },
- {
-  "title": "Kılıçdaroğlu ekibinden peş peşe hamleler: Parti sitesinde Kılıçdaroğlu güncellemesi, Aday Ofisi kapatıldı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/kilicdaroglu-ekibinden-pes-pese-hamleler-parti-sitesinde-kilicdaroglu-guncellemesi-aday-ofisi-kapatildi-2506948",
-  "source": "Cumhuriyet",
-  "summary_tr": "Kılıçdaroğlu ekibi 'mutlak butlan' kararı sonrası hamle yapıyor: parti sitesinde güncelleme, Aday Ofisi kapatıldı.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-25T21:00:52.382782+00:00",
-  "cluster_id": "cdb78d02b188e"
  }
 ]
