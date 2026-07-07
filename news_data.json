@@ -1,5 +1,89 @@
 [
  {
+  "title": "Aziz İhsan Aktaş’a suikast dosyasında eski Ankara Başsavcıvekili’ne “rüşvet” iddiası; avukatın telefonundan ses kayıtları çıktı: 300 bin dolar verdik, tedbir kaldırıldı",
+  "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPcEt1X2NreWRJTWdRQmdnLXZ1clhhSkRJaE9XUUwzMUNPSTBZamZ5VEE3elZieW5PczhqUkRmc2hyVHplMDhZZjlrVGdsY3IwZVlGSUwzYTh0TkVyVnpzd2g5SWp0bkdqOGIxSzhzSDZxbHY3cm04OHQzaGJnNjVYUXRYUk1sVHJvU3hXVkk2aWtvd2FpOXpQeWZBNmRMaUpoUjI0d3ZkVEpIS2pFMkN0TVdSR28xcHA4SjhMUlp4bkhiVk50dXBxc21nQy0yOG5GX1RUWWtVVlUwVjBWVkJqYXN2aTkzZ3M1ZVdzbUo5dm5RcTBiYnh3YWdvSzBuTXEtYkhycUd2ZEYwX2JCU29VUnp1MEkwZHFGcFItREE0d0Y?oc=5",
+  "source": "T24",
+  "summary_tr": "Aziz İhsan Aktaş suikast dosyasında eski Ankara Başsavcıvekili'ne rüşvet iddiası: avukatın telefonundan 300 bin dolar alışverişine ilişkin ses kayıtları çıktı.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-07T19:01:07.049843+00:00",
+  "type": "news",
+  "cluster_id": "c07dfd3f5dcd2"
+ },
+ {
+  "title": "İBB davası: İmamoğlu 8 Temmuz Çarşamba günü 'savunma yapmak üzere davet edilecek'",
+  "link": "https://www.bbc.com/turkce/articles/czx5q8nld1vo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "İBB davasında İmamoğlu 8 Temmuz'da savunma yapmak üzere Silivri'de dinlenecek. 414 sanığın yargılanması 63. gününde devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-07T19:01:07.049843+00:00",
+  "type": "news",
+  "cluster_id": "c985d97c7da53"
+ },
+ {
+  "title": "Tarım ve Orman Bakanı Yumaklı: Tarımsal hasılada dünyada 7. sıraya çıkmış durumdayız",
+  "link": "https://www.aa.com.tr/tr/ekonomi/tarim-ve-orman-bakani-yumakli-tarimsal-hasilada-dunyada-7-siraya-cikmis-durumdayiz/3989610",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Tarım ve Orman Bakanı Yumaklı, Türkiye'nin tarımsal hasılada 2002'de 12. sıradan şu anda 7. sıraya yükseldiğini açıkladı.",
+  "metric": "Dünya tarımsal hasıla sıralaması 12 -> 7 (+5 sıra)",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-07T19:01:07.049843+00:00",
+  "type": "news",
+  "cluster_id": "cfc1f8cf91f60"
+ },
+ {
+  "title": "Kılıçdaroğlu MYK’sı cuma günü toplanacak",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/kilicdaroglu-myk-si-cuma-gunu-toplanacak-2518924",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Genel Başkanı Kılıçdaroğlu, mahkeme kararıyla atandığı görevde MYK toplantısını cuma günü yapacak.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-07T19:01:07.049843+00:00",
+  "type": "news",
+  "cluster_id": "cad91dc7691c6"
+ },
+ {
+  "title": "CHP'li Başarır'dan 'dokunulmazlık' açıklaması: ‘O kadar arkadaşımızın tutuklandığı…’",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-li-basarir-dan-dokunulmazlik-aciklamasi-o-kadar-arkadasimizin-tutuklandigi-2518914",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Mersin Milletvekili Başarır, bazı CHP milletvekillerinin dokunulmazlıklarının kaldırılacağı iddialarına tepki gösterdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-07T19:01:07.049843+00:00",
+  "type": "news",
+  "cluster_id": "cc1293c619278"
+ },
+ {
+  "title": "Rusya'dan 'NATO' açıklaması: 'Tüm haberleri yakından takip edeceğiz'",
+  "link": "https://www.cumhuriyet.com.tr/dunya/rusya-dan-nato-aciklamasi-tum-haberleri-yakindan-takip-edecegiz-2518909",
+  "source": "Cumhuriyet",
+  "summary_tr": "Kremlin Sözcüsü Peskov, NATO Ankara Zirvesi'nden çıkacak açıklamaları ve kararları yakından takip edeceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-07T19:01:07.049843+00:00",
+  "type": "news",
+  "cluster_id": "c28a47066514a"
+ },
+ {
+  "title": "Trump'ın uçağının Ankara'ya indiği dakikalarda Özgür Özel'den çok sert sözler",
+  "link": "https://www.sozcu.com.tr/trump-in-ucaginin-ankara-ya-indigi-dakikalarda-ozgur-ozel-den-cok-sert-sozler-p334582",
+  "source": "Sözcü",
+  "summary_tr": "CHP Genel Başkanı Özgür Özel, NATO Zirvesi'nin Ankara'da düzenlendiği sırada partisinin grup toplantısında sert açıklamalar yaptı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-07T19:01:07.049843+00:00",
+  "type": "news",
+  "cluster_id": "cd47e5717cbf6"
+ },
+ {
   "title": "Zelenskiy NATO'dan hava savunma sistemi istedi",
   "link": "https://www.bbc.com/turkce/articles/c77yg1mnlr1o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -54824,75 +54908,5 @@
   "score": 6,
   "ts": "2026-05-26T15:01:03.383245+00:00",
   "cluster_id": "c9e13218b0862"
- },
- {
-  "title": "Iranian hackers responsible for Los Angeles transit system breach, Israeli researchers say",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM083VkF0cWwteXd5ZnhaZ3ZDbEluaDJoV2hDU1VFOGw0THBIQVpaYVZiR09jSGk3NXB0a0g4ZEhPSXhHRG16X2tUT1NVd29Bb3FnU2Q1dmo5Y2hyMTY1TXQ0V2o4ZkpUaEZvMEFxT1poLUtpZzk3YmJzX3pJZHZSOERlVktUbGRycEdtd2ppTGk1OFJ0R1YtSVJiWTAxSFk1WWFXNmp6c1VQV2lXWjhnNHFmRmNtVWZlbDZheVpXWQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İsrailli araştırmacılara göre Los Angeles transit sistemi hacklenmesinin sorumlusu İranlı hackerler.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-26T15:01:03.383245+00:00",
-  "cluster_id": "c4a59f23b46c6"
- },
- {
-  "title": "ABD’den NATO’da kesinti planı: Avrupa’ya 'açığı kapatın' uyarısı",
-  "link": "https://www.cumhuriyet.com.tr/dunya/abd-den-nato-da-kesinti-plani-avrupa-ya-acigi-kapatin-uyarisi-2507095",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD, NATO'ya yaptığı askeri katkıları önemli ölçüde azaltmayı planlıyor ve Avrupa müttefiklerini açığı kapatmaya çağırıyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-26T14:01:20.493680+00:00",
-  "cluster_id": "c3d58c2021d15"
- },
- {
-  "title": "Komşu ülke balistik füze için seri üretime geçti",
-  "link": "https://www.sozcu.com.tr/komsu-ulke-balistik-fuze-icin-seri-uretime-gecti-p322898",
-  "source": "Sözcü",
-  "summary_tr": "İran, ABD ile müzakereye devam ederken balistik füze için seri üretime geçtiğini bildirdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-26T14:01:20.493680+00:00",
-  "cluster_id": "c542eb72c59ca"
- },
- {
-  "title": "Der Spiegel: ABD NATOya yaptığı askeri katkıları keskin şekilde azaltacak",
-  "link": "https://www.trthaber.com/haber/dunya/der-spiegel-abd-natoya-yaptigi-askeri-katkilari-keskin-sekilde-azaltacak-946314.html",
-  "source": "TRT Haber",
-  "summary_tr": "Der Spiegel'in haberine göre ABD, NATO'ya yaptığı askeri katkıları keskin şekilde azaltacak.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-26T14:01:20.493680+00:00",
-  "cluster_id": "c6eea82148698"
- },
- {
-  "title": "Hamaney: ABD bölgede askeri üsler kuramayacak, İsrail ise son günlerine yaklaşıyor",
-  "link": "https://www.trthaber.com/haber/dunya/hamaney-abd-bolgede-askeri-usler-kuramayacak-israil-ise-son-gunlerine-yaklasiyor-946311.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran lideri Hamaney, ABD'nin bölgede askeri üsler kuramayacağını ve İsrail'in son günlerine yaklaştığını söyledi.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-26T14:01:20.493680+00:00",
-  "cluster_id": "cfe15fb69246d"
- },
- {
-  "title": "Özgür Özel'in İzmir buluşması: 2 kişi gözaltına alındı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/ozgur-ozel-in-izmir-bulusmasi-2-kisi-gozaltina-alindi-2507094",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP lideri Özgür Özel'in İzmir buluşma çağrısı sonrası polis barikatları kuruldu, 2 kişi gözaltına alındı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-26T14:01:20.493680+00:00",
-  "cluster_id": "c4baba7967600"
- },
- {
-  "title": "Küresel ekonomide kritik hafta: Gözler ABD, Almanya ve Japonya verilerinde",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/kuresel-ekonomide-kritik-hafta-gozler-abd-almanya-ve-japonya-verilerinde-2507092",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD GSYH, Almanya ve Japonya ekonomik verileri bu hafta açıklanacak; yatırımcılar küresel ekonomik eğilimleri izliyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-26T14:01:20.493680+00:00",
-  "cluster_id": "cd51ccc98571e"
  }
 ]
