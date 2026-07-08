@@ -1,5 +1,53 @@
 [
  {
+  "title": "ABD  İran savaşı yeniden mi başladı?",
+  "link": "https://www.trthaber.com/haber/dunya/abd-iran-savasi-yeniden-mi-basladi-950583.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD, Hürmüz Boğazı'ndaki üç petrol tankerine yönelik saldırıların ardından İran'a hava saldırıları başlattı ve petrol satış iznini iptal etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-08T04:01:03.559778+00:00",
+  "type": "news",
+  "cluster_id": "c672e36608f2c"
+ },
+ {
+  "title": "US launches new strikes on Iran, revokes oil sales permit after 3 ships attacked in Strait of Hormuz",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2tfRFIyMHM3Y3R0UHRSQ0xwNEdNX2pjVUV5QkFGZk4yLUpVeU9RN0RHLXpUYU5UMzVIZkNwOWV4Q2dKTnJYZVl6UzZadkxHYUVYNmUzYWxoUEo1S2pPRUkxWmFsMHhadUYyams3ME5TOTlVSHhuTmgtRVA4NGo1NlJIOF9ZOUU2dGc?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD, Hürmüz Boğazı'nda üç gemi saldırısının ardından İran'a yeni hava saldırıları başlattı ve İranlı petrol satış iznini iptal etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-08T04:01:03.559778+00:00",
+  "type": "news",
+  "cluster_id": "c22f72563feda"
+ },
+ {
+  "title": "Tarihi Ankara Zirvesi'nin ilk günü dünya basınında nasıl yankılandı?",
+  "link": "https://www.trthaber.com/haber/dunya/tarihi-ankara-zirvesinin-ilk-gunu-dunya-basininda-nasil-yankilandi-950585.html",
+  "source": "TRT Haber",
+  "summary_tr": "Cumhurbaşkanı Erdoğan ile ABD Başkanı Trump, Ankara'daki NATO Zirvesi kapsamında ikili görüşme gerçekleştirdi. Görüşme dünya basınında geniş yankı uyandırdı.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-07-08T04:01:03.559778+00:00",
+  "type": "news",
+  "cluster_id": "ca7ec0bd4ac41"
+ },
+ {
+  "title": "Dollar at week-high after US resumes Iran strikes; RBNZ hike hoists kiwi",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWFIZEp3ZW1HMXBhLVIwNmF5TGp6dWZzeEc0ekw3Nk1FX18tLUJlRXZ0bkhTR2pyRWNKeF95bWZFVWQ1Ri16YjNuYnM1T0RBWVFfNTZNeGZtR1JTQ0p2Q2xQNUFzSnJmTzVQT3hVeTRtUkFMLXVJM3FyY3BZbGdaTDJVSm1KMl9mRlNzZ2t0a3BDN0QtWW5USmc1RW9ndWc4VHJn?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD'nin İran'a yönelik saldırıları ve RBNZ faiz artırımı sonrası dolar haftalık en yüksek seviyeye çıktı, Yeni Zelanda doları yükseldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-08T04:01:03.559778+00:00",
+  "type": "news",
+  "cluster_id": "cbec1b870a819"
+ },
+ {
   "title": "Vatandaş 1 lira için DOA’ya koştu",
   "link": "https://www.sozcu.com.tr/vatandas-1-lira-icin-doa-ya-kostu-p334626",
   "source": "Sözcü",
@@ -54920,45 +54968,5 @@
   "score": 6,
   "ts": "2026-05-26T18:00:57.942451+00:00",
   "cluster_id": "cf18d719fe009"
- },
- {
-  "title": "Israel expands ground operation beyond demarcation line in south Lebanon as clashes intensify",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbmYzaGNfS3diVERUUElLNzRjVGpQMm9BUjE2c1FsVUp1WVpORklZWXptY3o5ck1jMmhJanZ1VDBHZDdmR09EMTJ6aWliR3B2akRHak1jaU5LbXhqWVdLdTYyZjBLVXhZYjR3VGoyamlsb01zQVFlNGJNREFpRTg0T1NpX0dHbEE1VGxTeE5YbEhOSzNQVTJIVWg0cXlnNGxBMmRrUkRrUFdJTm1Kc2lyaEd2ZkhPdF82b2hlaDhWa2dXVTBi?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İsrail, çatışmaların yoğunlaştığı Güney Lübnan'da sınır ötesi yer alan bölgelerde kara operasyonlarını genişletti.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-05-26T17:00:57.519320+00:00",
-  "cluster_id": "c5afc2f1450be"
- },
- {
-  "title": "Trump raises refugee ceiling by 10,000 to bring in more white South Africans, White House document says",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYWY2QTdnQVBqMlFtSHlxMlNnYlhBWlAxWkhzVmZHRzBlSVhJUWVOeXJyQVdZb1ZpYzJOSXVnUGU0NkFHeVRWcnJYWC1PLXo1S3RDUFhRaEFlREpRcjk1MEF0TEI2UXFsRXlEWlg4RGNOQjNTZnRGaHJjRGZfRUF0NG5ydFR3M3ZqcHhBYzAwa21yTGtWdS1GNlZmNUg5X0RYOElNTDdYcG9fWDZubWNkSkdBQ0Q3bjNNaEFtN3dJVWZGQQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, Beyaz Saray belgesine göre Güney Afrika'daki beyaz göçmenleri kabul etmek için mülteci tavanını 10 bin artırdı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-26T17:00:57.519320+00:00",
-  "cluster_id": "c0ba6cc924c2c"
- },
- {
-  "title": "Remnants of Assad's chemical weapons program recovered, Syrian official says",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQUhWUUtIM29mMlVRT3dZSWR2dXNkYkJ1UHBwWGxFZ0tFVm1JeldvZ2JkR25XcTRJNEgyUFpLTVA3QzdVajVXR1NDMURGM1hHN0dDcHVZLU1fdVVQOGgxNmlUY0lQWC1DTmd2UEU1Q3RhNWZhck9CdjVtZlFPVEVnQUYtUUxoSG11TmxlaWM1dVQyd1JpcG1EWC1icU1PMGdfeU1wdF91WDVUUkxoTFBnMmRfSjNlbTFDV2xjWWhpZlNSVzQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Suriye yetkilileri, Esad rejiminin kimyasal silah programının kalıntılarını geri aldığını açıkladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-26T17:00:57.519320+00:00",
-  "cluster_id": "c472ca8a8297e"
- },
- {
-  "title": "ABD'den Nikol Paşinyan'a seçim desteği",
-  "link": "https://www.dw.com/tr/abd-den-nikol-paşinyan-a-seçim-desteği/a-77303883?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "ABD Dışişleri Bakanı Rubio, Ermenistan'daki seçimlerde Nikol Paşinyan hükümetine güçlü destek açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-26T17:00:57.519320+00:00",
-  "cluster_id": "cf8f5a401f28d"
  }
 ]
