@@ -1,5 +1,41 @@
 [
  {
+  "title": "Vatandaş 1 lira için DOA’ya koştu",
+  "link": "https://www.sozcu.com.tr/vatandas-1-lira-icin-doa-ya-kostu-p334626",
+  "source": "Sözcü",
+  "summary_tr": "Artan enflasyon ve düşen alım gücü nedeniyle milyonlarca vatandaş ek gelir için yardım kuruluşlarının kuyruğuna başvuruyor. Hayat pahalılığı derinleşiyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-08T03:01:09.188728+00:00",
+  "type": "news",
+  "cluster_id": "c91ddac7f3d64"
+ },
+ {
+  "title": "Bu neyin zammı?",
+  "link": "https://www.sozcu.com.tr/bu-neyin-zammi-p334625",
+  "source": "Sözcü",
+  "summary_tr": "Brent petrol fiyatı savaş öncesi seviyesine dönmesine rağmen akaryakıt zamları devam ediyor. Vatandaş yakıt maliyetlerinden olumsuz etkileniyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-08T03:01:09.188728+00:00",
+  "type": "news",
+  "cluster_id": "cb3aed5939ee8"
+ },
+ {
+  "title": "Çin’le aramızdaki boy farkı",
+  "link": "https://www.sozcu.com.tr/cin-le-aramizdaki-boy-farki-p334627",
+  "source": "Sözcü",
+  "summary_tr": "Çin'deki 42,5 km köprüde geçiş 210 lira, Türkiye'deki 3 km köprüde 1170 lira. Vatandaşın gecim maliyeti ve kamu hizmetlerindeki fiyat farklarını gözler önüne seriyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-08T03:01:09.188728+00:00",
+  "type": "news",
+  "cluster_id": "cfa240618fdb7"
+ },
+ {
   "title": "Oil prices climb as US strikes on Iran fuel fears truce is unravelling",
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcW1oQmNkNnFFdEdYaTI4SDJwR0FpbHZjaVZCYnAzdTEyanppYjZTNFlOeE1KODQ5SmtVNC1hOWVhNHh6d3dVNGJ4enNEYkdPZFlEamVaXzRtN3RKME5Od2VKR0dUbUFRWDJ0b0xMcy1TUThmaF9Tem5YNHZUZlZpMGw0Uzc4TzRTT3p2aFhNZU8xT3Fsa2xld2pBRDFvTE5QS3RORTQ5TkowYjB5X2JaVUtQVUU5c2owcXc?oc=5",
   "source": "Reuters",
@@ -54924,35 +54960,5 @@
   "score": 7,
   "ts": "2026-05-26T17:00:57.519320+00:00",
   "cluster_id": "cf8f5a401f28d"
- },
- {
-  "title": "BTP de 'Kılıçdaroğlu' kararını verdi",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/btp-de-kilicdaroglu-kararini-verdi-2507126",
-  "source": "Cumhuriyet",
-  "summary_tr": "BTP, istinaf kararıyla CHP Genel Başkanlığına atanan Kılıçdaroğlu yerine seçilmiş Genel Başkan Özgür Özel'i destekleme kararı verdi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-26T17:00:57.519320+00:00",
-  "cluster_id": "c2eaa07bf6a07"
- },
- {
-  "title": "ABD, BMGK'ya katılmak isteyen Rusya Temsilcisine vize vermedi",
-  "link": "https://www.sozcu.com.tr/abd-bmgk-ya-katilmak-isteyen-rusya-temsilcisine-vize-vermedi-p322934",
-  "source": "Sözcü",
-  "summary_tr": "ABD, Rusya BM Daimi Temsilcisinin yardımcısına BMGK'ya katılmak için vize vermedi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-26T17:00:57.519320+00:00",
-  "cluster_id": "c641966789130"
- },
- {
-  "title": "Rusya, ABD'nin BMGK'ye katılmak isteyen Rus Dışişleri yetkilisine vize vermediğini bildirdi",
-  "link": "https://www.aa.com.tr/tr/dunya/rusya-abdnin-bmgkye-katilmak-isteyen-rus-disisleri-yetkilisine-vize-vermedigini-bildirdi/3949261",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Rusya, ABD'nin Rus Dışişleri yetkilisine BMGK ziyareti için vize vermediğini bildirdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-26T17:00:57.519320+00:00",
-  "cluster_id": "c641966789130"
  }
 ]
