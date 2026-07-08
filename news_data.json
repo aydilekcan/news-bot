@@ -1,5 +1,53 @@
 [
  {
+  "title": "ABD, Hürmüz Boğazı'nda tankerlerin vurulması sonrası İran'a hava saldırıları başlattı",
+  "link": "https://www.bbc.com/turkce/articles/czdemgm5gjmo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD, İran'a Hürmüz Boğazı'daki tanker saldırılarına karşı hava operasyonları başlattı. İran karşılık tehdidi vererek duruma karşılık alacağını bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-08T01:01:03.448376+00:00",
+  "type": "news",
+  "cluster_id": "c471c526a94b4"
+ },
+ {
+  "title": "US oil prices jump after US military launches strikes against Iran",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcW1oQmNkNnFFdEdYaTI4SDJwR0FpbHZjaVZCYnAzdTEyanppYjZTNFlOeE1KODQ5SmtVNC1hOWVhNHh6d3dVNGJ4enNEYkdPZFlEamVaXzRtN3RKME5Od2VKR0dUbUFRWDJ0b0xMcy1TUThmaF9Tem5YNHZUZlZpMGw0Uzc4TzRTT3p2aFhNZU8xT3Fsa2xld2pBRDFvTE5QS3RORTQ5TkowYjB5X2JaVUtQVUU5c2owcXc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD'nin İran'a karşı hava saldırılarının ardından petrol fiyatları keskin yükselişe geçti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-08T01:01:03.448376+00:00",
+  "type": "news",
+  "cluster_id": "cc82a5d680039"
+ },
+ {
+  "title": "Exxon signals Q2 profit windfall as higher oil prices boost bottom line",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZXlvX2Y4cVBldFJ5ajRsRVpOZkcyd2g0NVV1c3RmOVBPSHAwWkI4Wmt6dWZ3djBUVDNtQ0ZlYjJ1aTZ1akZJMjg4WHprbmxGUmtmdktuelg1eURDY0ctRlBURV8xY1ZKVjB6dGEwMENPdnFXTzlEYnZoTnVMOWxoUVN4cUl3Q1FpR1ZITzJvdEZxOGJBT1pVa3VudjNnT0kyYkVzTA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Exxon, artan petrol fiyatlarının ikinci çeyrek karlarını önemli ölçüde artıracağını öngördü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-08T01:01:03.448376+00:00",
+  "type": "news",
+  "cluster_id": "c6e091a507dea"
+ },
+ {
+  "title": "Türkiye ile Kanada arasında STA müzakerelerinin başlatılmasına ilişkin ortak bildiri",
+  "link": "https://www.trthaber.com/haber/gundem/turkiye-ile-kanada-arasinda-sta-muzakerelerinin-baslatilmasina-iliskin-ortak-bildiri-950580.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye ve Kanada, Serbest Ticaret Anlaşması müzakerelerinin başlatılmasına ilişkin ortak bildiri yayımladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-08T01:01:03.448376+00:00",
+  "type": "news",
+  "cluster_id": "cfd241030f04f"
+ },
+ {
   "title": "İki liderden ortak basın toplantısı; Trump, F-35'ler için yeşil ışık yaktı; Erdoğan, \"Sözümüzü aldık\" dedi",
   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZVBNaDBDYXBYeTVjYnN3VHRiazZlZkt2bC1xVkppbFVjUEx2OExsYXhQZndyeldiLTBaTmxUelVSUGd1aFdFNHc4RnRrN201aUNSbUoxc0FSUVZtSTJJSkFZUzR6d2lYQ21xVTNJMFdTS2M0?oc=5",
   "source": "T24",
@@ -54902,45 +54950,5 @@
   "score": 7,
   "ts": "2026-05-26T17:00:57.519320+00:00",
   "cluster_id": "c04163c63ea10"
- },
- {
-  "title": "Kılıçdaroğlu’nun heyetinde yer alan CHP milletvekili açıkladı: 'AK Parti'den başlayarak...'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/kilicdaroglu-nun-heyetinde-yer-alan-chp-milletvekili-acikladi-ak-parti-den-baslayarak-2507122",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP milletvekili, 'mutlak butlan' kararıyla görevine gelen Kılıçdaroğlu'nun Bayramlaşma Heyeti'nin AK Parti ziyaretlerinde AK Parti'den başladığını açıkladı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-26T17:00:57.519320+00:00",
-  "cluster_id": "c2a32bd46ce10"
- },
- {
-  "title": "Adres ve saat verdiler: Özgür Özel’in ‘Ankara’ programı açıklandı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/adres-ve-saat-verdiler-ozgur-ozel-in-ankara-programi-aciklandi-2507120",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP seçilmiş Genel Başkanı Özgür Özel, 30 Mayıs saat 14:00'te Ankara İl Başkanlığı'nda halkla bayramlaşacak.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-26T17:00:57.519320+00:00",
-  "cluster_id": "c616cbc336f93"
- },
- {
-  "title": "Adres ve saat verildi; Özel'in 'Ankara' programı belli oldu",
-  "link": "https://www.sozcu.com.tr/ozgur-ozel-30-mayis-ta-ankara-da-olacak-p322933",
-  "source": "Sözcü",
-  "summary_tr": "CHP lideri Özgür Özel, 30 Mayıs saat 14:00'te Ankara İl Başkanlığı'nda halkla bayramlaşacak.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-26T17:00:57.519320+00:00",
-  "cluster_id": "c616cbc336f93"
- },
- {
-  "title": "10 ilçe başkanından Özgür Özel’e destek",
-  "link": "https://www.sozcu.com.tr/10-ilce-baskanindan-ozgur-ozel-e-destek-p322937",
-  "source": "Sözcü",
-  "summary_tr": "10 CHP ilçe başkanı, 'mutlak butlan' kararı sonrası Genel Başkan Özgür Özel'e destek verdi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-26T17:00:57.519320+00:00",
-  "cluster_id": "cd3bf15f479df"
  }
 ]
