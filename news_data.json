@@ -1,5 +1,89 @@
 [
  {
+  "title": "IMF: Dünya ekonomisi ancak 2027'de toparlanacak",
+  "link": "https://www.dw.com/tr/imf-dünya-ekonomisi-ancak-2027-de-toparlanacak/a-77880654?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "IMF, 2026 yılı küresel ekonomik büyüme tahminini aşağı revize etti; toparlanmanın ancak 2027'de gelebileceğini öngördü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-08T17:01:21.755431+00:00",
+  "type": "news",
+  "cluster_id": "c7266b418bd17"
+ },
+ {
+  "title": "Rusya dizel yakıt ihracatını yasakladı",
+  "link": "https://www.aa.com.tr/tr/dunya/rusya-dizel-yakit-ihracatini-yasakladi/3991640",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Rusya Başbakan Yardımcısı Novak, iç piyasada akaryakıt arzını artırmak amacıyla dizel yakıt ihracatını yasakladığını bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-08T17:01:21.755431+00:00",
+  "type": "news",
+  "cluster_id": "c1d015d5890a5"
+ },
+ {
+  "title": "Russia bans diesel exports to ensure domestic supply after targeted Ukrainian drone strikes",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNGJYMUZ3UGdSbzVjQ1lZdEE2RWJYclBpczc3c3k2OXhROTk5NTFtTjJrbUhuWGhaaEhCQm1KQ19jQWxfZEFjUHZoS0J5Wjg0Z1lmNTQ0azNJblhrV3NCWS0zeTNGS2VsdTZ4eHJtV0Jmci14MVI2UXF0Wlh6UXBZMGczM1RsUkVOT09Mb0JCdlB3LVZDaGZfRzkxaHI3VkxYVlJGSVVhNmlBWmhOWDJ1cWVteGowZzRPbFE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya, Ukrayna drone saldırılarının ardından iç arz sağlamak için dizel ihracatını yasakladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-08T17:01:21.755431+00:00",
+  "type": "news",
+  "cluster_id": "c3b351c52fa1c"
+ },
+ {
+  "title": "Özel: Mahkeme başkanı İmamoğlu'na savunma yaptırmamak için elinden geleni yaptı",
+  "link": "https://www.diken.com.tr/ozel-mahkeme-baskani-imamogluna-savunma-yaptirmamak-icin-elinden-geleni-yapti/?utm_source=rss&utm_medium=rss&utm_campaign=ozel-mahkeme-baskani-imamogluna-savunma-yaptirmamak-icin-elinden-geleni-yapti",
+  "source": "Diken",
+  "summary_tr": "Mahkeme başkanı, İmamoğlu'na savunma yaptırmamak için çaba harcadığı iddia edildi; CHP genel başkanlığıyla ilgili soruşturma devam ediyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-08T17:01:21.755431+00:00",
+  "type": "news",
+  "cluster_id": "cc4350c2861e7"
+ },
+ {
+  "title": "300 bin dolar alıp tedbir kararını kaldırdığı iddiası sonrası: HSK, Ankara Cumhuriyet Savcısı Yıkılmaz hakkında inceleme başlattı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/300-bin-dolar-alip-tedbir-kararini-kaldirdigi-iddiasi-sonrasi-hsk-ankara-cumhuriyet-savcisi-yikilmaz-hakkinda-inceleme-baslatti-2519204",
+  "source": "Cumhuriyet",
+  "summary_tr": "HSK, Ankara Batı Cumhuriyet Savcısı Ahmet Yıkılmaz hakkında inceleme başlattı; 300 bin dolar alıp tedbir kararını kaldırdığı iddia edildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-08T17:01:21.755431+00:00",
+  "type": "news",
+  "cluster_id": "c1588a4fc9a51"
+ },
+ {
+  "title": "ABD ve Rusya'nın açıklamaları piyasalarda tansiyonu yükseltti",
+  "link": "https://www.sozcu.com.tr/abd-ve-rusya-nin-aciklamalari-piyasalarda-tansiyonu-yukseltti-p334848",
+  "source": "Sözcü",
+  "summary_tr": "Küresel piyasalarda tansiyon yükseldi; Trump'ın İran'a yönelik açıklamaları ve Rusya'nın dizel ihracatı kısıtlaması etkili oldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-08T17:01:21.755431+00:00",
+  "type": "news",
+  "cluster_id": "c48ff4f457524"
+ },
+ {
+  "title": "Trump says Ukraine to be allowed to make Patriot missile interceptors",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnZfNjg1eEdZNWlueERQYzhObG1hQ05BN3FNUVlvV1dYRk5uakl0SHFwNkVpTmluWGo2aGdHc29lWFhZNnBWUUVTSTc1MVgwWFZ4cmM5aThvQldlYzZyTktnRG9MRXdUdGI1ekhTLUhGNGJlak1xcFJnYkNRQlMzVm9iV043djdqQ0lyang5NkJ6eVJQUTJUbHFDUlJoWkU?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, Ukrayna'nın Patriot füze müteahhitleri yapmasına izin verileceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-08T17:01:21.755431+00:00",
+  "type": "news",
+  "cluster_id": "cf9c19c1e8d1a"
+ },
+ {
   "title": "Tansiyon yükseliyor: Trump'ın \"Vuracağız\" dedi, İran'dan sert yanıt geldi",
   "link": "https://www.sozcu.com.tr/tansiyon-yukseliyor-trump-in-vuracagiz-dedi-iran-dan-sert-yanit-geldi-p334831",
   "source": "Sözcü",
@@ -55190,75 +55274,5 @@
   "score": 7,
   "ts": "2026-05-27T21:01:04.316367+00:00",
   "cluster_id": "cbdca6fbddacf"
- },
- {
-  "title": "US, Mexico set three rounds of trade deal talks without Canada",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSGwwdl9NdUQ0dlNFdndSb1VyUndEcjVvNGZhSHdyWWNWaTV6bjRXN2x2My14S3AwTnVkeEQtTDI5OWZORE4taXZYSlVjS3BOZFhNeWxIdUpqcktzMWM3ZjA0NGFBTlVpUG5EeDVycjdjdVd6bDQ3bWh1NjFaNjRaeWYya0tSY21uSExqOVhkSkd3R2NKck1pR0ladC1HWEM1YVppckJ3?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD ve Meksika, Kanada'sız ticaret anlaşması görüşmeleri için üç tur müzakere planladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-27T21:01:04.316367+00:00",
-  "cluster_id": "ca004c512dede"
- },
- {
-  "title": "Muhittin Böcek'in bayram mesajı dikkat çekti: Kendimi bu kadar acılı hissetmemiştim",
-  "link": "https://www.sozcu.com.tr/muhittin-bocek-in-kurban-bayrami-mesaji-p323229",
-  "source": "Sözcü",
-  "summary_tr": "Tutuklu Antalya Belediye Başkanı Muhittin Böcek, Kurban Bayramı mesajında kendini acılı hissettiğini belirtti.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-27T21:01:04.316367+00:00",
-  "cluster_id": "ced91519e29ca"
- },
- {
-  "title": "Suudi Arabistan'dan Yemen'e 150 milyon dolarlık \"acil akaryakıt desteği\"",
-  "link": "https://www.aa.com.tr/tr/dunya/-suudi-arabistandan-yemene-150-milyon-dolarlik-acil-akaryakit-destegi/3950045",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Suudi Arabistan, Yemen'e elektrik santralları için 150 milyon dolarlık acil akaryakıt desteği sağladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-27T21:01:04.316367+00:00",
-  "cluster_id": "c46f7c6060d40"
- },
- {
-  "title": "Kolombiya Cumhurbaşkanı Petro, ABD hükümetine protesto notası gönderilmesini istedi",
-  "link": "https://www.aa.com.tr/tr/dunya/kolombiya-cumhurbaskani-petro-abd-hukumetine-protesto-notasi-gonderilmesini-istedi/3950042",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Kolombiya Cumhurbaşkanı Petro, ABD'nin ICE merkezinde Kolombiyalı gözaltılar nedeniyle protesto notası gönderilmesini istedi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-27T21:01:04.316367+00:00",
-  "cluster_id": "c0b64698d9b31"
- },
- {
-  "title": "İngiltere: 500 bin Rus askeri öldü",
-  "link": "https://www.sozcu.com.tr/ingiltere-500-bin-rus-askeri-oldu-p323202",
-  "source": "Sözcü",
-  "summary_tr": "İngiltere'nin GCHQ'su, Rusya'nın Ukrayna savaşında yaklaşık 500 bin asker kaybettiğini açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-27T20:00:50.346367+00:00",
-  "cluster_id": "c6caf2c11e45b"
- },
- {
-  "title": "EU ministers to discuss Russia strategy as Kyiv pushes for European role",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNGE0M3dqUFdkclprMXVXRndZQXlBSXFtUm9uYzBZb3RVS3c4WWhHUGVXVjZOYzBXUERjcG9sczJRS05xcjlOaHZXYmExRjd3QUJVX1JDNFdIa1hLT2VvVnAwbkRMRGhSakV6Y1RNRm4tTXdRWWxUWHZWbzZNd1FkZGczY2toYXl2VDNXcGpYa2JIWktkT1ZNQkltVDR1d2dhQW1BYXYtUnFuRzl6c25Dcg?oc=5",
-  "source": "Reuters",
-  "summary_tr": "AB bakanları Rusya stratejisini görüşecek; Kyiv, Avrupa'nın oynaması gereken rolü talep etmekte.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-27T20:00:50.346367+00:00",
-  "cluster_id": "c17923f21fb88"
- },
- {
-  "title": "Özel ve Kılıçdaroğlu medya üzerinden tartışırken Bahçeli devreye girdi",
-  "link": "https://yetkinreport.com/2026/05/27/ozel-ve-kilicdaroglu-medya-uzerinden-tartisirken-bahceli-devreye-girdi/",
-  "source": "YetkinReport",
-  "summary_tr": "CHP'nin seçilmiş Genel Başkanı Özel ve atanmış Genel Başkanı Kılıçdaroğlu medya üzerinden tartışırken, MHP lideri Bahçeli devreye girdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-27T20:00:50.346367+00:00",
-  "cluster_id": "c3749e25c28f6"
  }
 ]
