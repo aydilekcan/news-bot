@@ -1,5 +1,77 @@
 [
  {
+  "title": "ABD'nin saldırıları sonrası İran'ın güney kıyısında patlama sesleri duyuluyor",
+  "link": "https://www.bbc.com/turkce/articles/c0my308zd4go?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD, Hürmüz Boğazı çevresinde İran'a karşı yeni hava saldırıları başlattı; İran'ın güney kıyısında patlama sesleri duyuluyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-08T22:01:12.570192+00:00",
+  "type": "news",
+  "cluster_id": "c56bbfe2557a3"
+ },
+ {
+  "title": "Hamas heyeti, ateşkes müzakereleri için Kahire’ye ulaştı",
+  "link": "https://www.aa.com.tr/tr/dunya/hamas-heyeti-ateskes-muzakereleri-icin-kahire-ye-ulasti/3992483",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Hamas heyeti, Gazze'de kalıcı ateşkes sağlanması için Kahire'ye ulaştı; ateşkes müzakereleri tamamlandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-08T22:01:12.570192+00:00",
+  "type": "news",
+  "cluster_id": "c37979375af4e"
+ },
+ {
+  "title": "İran: ABD'liler, onlara ezici bir karşılık vereceğimizi bilmeli",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-abdliler-onlara-ezici-bir-karsilik-verecegimizi-bilmeli/3992466",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Meclisi Ulusal Güvenlik Komisyonu Başkanı, ABD'nin İran saldırılarına karşı ezici bir karşılık verileceğini bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-08T22:01:12.570192+00:00",
+  "type": "news",
+  "cluster_id": "c351397ed499f"
+ },
+ {
+  "title": "Erdoğan'dan NATO mesajı: Trump F-35 konusunda olumlu yaklaşıyor, yaptırımlar büyük ölçüde kalktı; Türkiye gibi AB üyesi olmayan müttefikler savunmadaki teşebbüslere tam dâhil edilmeli",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeWVyalJmWGJ5cjFuNW93UzFXVE5VQXBsdjZfeVdYZGZqRDd2R0Qwdm80bXBqMkozM21KVU1FMDhqeWxrU0wtRXRhYlBWdWhfZjlWV3NQTlRzdUhGd252ckt1cXdnTkRTV2xwTkJPak9leUh2SFlLdFV6NmtoZk9HZzBDN2JIY0wtODNKOFpwaG93Szh3WXJZ?oc=5",
+  "source": "T24",
+  "summary_tr": "Erdoğan NATO zirvesinde, Trump'ın F-35 konusunda olumlu yaklaştığını ve yaptırımların büyük ölçüde kalktığını, AB üyesi olmayan müttefiklerin savunma teşebbüslerine tam dahil edilmesi gerektiğini belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-08T22:01:12.570192+00:00",
+  "type": "news",
+  "cluster_id": "c2080db16156e"
+ },
+ {
+  "title": "Bakan Fidan: Tarihi zirveye tüm müttefiklerin lider düzeyinde katılmış olması ülkemize duyulan güvenin bir göstergesidir",
+  "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidandan-nato-ankara-zirvesine-iliskin-paylasim/3992407",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Bakan Fidan, NATO Ankara Zirvesi'nin başarıyla tamamlandığını ve tüm müttefiklerin lider düzeyinde katılmış olmasının Türkiye'ye duyulan güvenin göstergesi olduğunu belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-08T22:01:12.570192+00:00",
+  "type": "news",
+  "cluster_id": "c95bebdc9b0eb"
+ },
+ {
+  "title": "Investors get inflation 'wake-up call' as Trump fires up oil prices",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOUlsWGRCWlNlNDNKOWRucV85aUlzWVRwaUpkanJjbGltWURSSWlFbWUwaFpwX0JjbXRfa2Z0cHk4WXJ2QlJiSDNOeG9PcXphYUNnRDZTQmdkTks4MDVqV3lRODZrVE1oSU02c0h5RkItN1FtMG45cDVwQUoyYko0elhIaGoyY3Y1RFhERA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump'ın petrol fiyatlarını yükseltmesi, yatırımcılara enflasyon konusunda bir 'uyarı' niteliğinde olmuştur.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-08T22:01:12.570192+00:00",
+  "type": "news",
+  "cluster_id": "c521ed084878d"
+ },
+ {
   "title": "ABD'den İran'a yeni saldırılar",
   "link": "https://www.diken.com.tr/abdden-irana-yeni-saldirilar/?utm_source=rss&utm_medium=rss&utm_campaign=abdden-irana-yeni-saldirilar",
   "source": "Diken",
@@ -55286,65 +55358,5 @@
   "score": 6,
   "ts": "2026-05-28T08:01:01.539403+00:00",
   "cluster_id": "c3299a199562e"
- },
- {
-  "title": "Iran expands restrictions on distribution of news content by international media outlets",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUTl5TEJCWGJGenFFUl9odUZ0WjFyWVhmR2lEUnJ3X2tiazNpSzRqUnJ0MG42YmM5WWd2LWpLZG5YT0N6UWNEZDJ6NElSUVJPS3hiMXA4MlI5OG9MZ044NktyRnp6d0FuVFU3aWNNSHFjaDNSeFoyZGhQRXJXS2hKZmhQVGwtRVk5T3Y3OGtLd2U4dXIyX0ZJOVFVQnFsS0FibnlBSzdOVDFKdw?oc=5",
-  "source": "AP",
-  "summary_tr": "İran, uluslararası medya kuruluşlarının haber dağıtımına yönelik kısıtlamaları genişletti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-28T08:01:01.539403+00:00",
-  "cluster_id": "c49d7d9f26e65"
- },
- {
-  "title": "Iran and US trade air strikes after Trump dismisses report of Hormuz deal",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMDAxUGdSUGJhV19NajdXRE5yZGtxMFRVYnpEb1I3ZEMwZlZsUnBvdlJyb3RlbG4tX0dLMXFEN25ZeER4N3pOblRJYjJGS3NyR1JEZFNlR3VsN1gxd3MxMnhTVHU5VVVadWxCV1VBcFNiRHAtczFfX3FIMW9GZEJRTHFWMzIya1ZQa0ZSMUVQQXhLWVJVSUMzTVNFOGVBNUxKMEhvQW92eWZwaW8zMFpPbDRTYjlxa3NTTVNTaQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran ve ABD hava saldırıları gerçekleştirdi; Trump Hormuz anlaşması raporunu reddetme de dahil olmak üzere gerilim tırmanıyor.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-05-28T06:00:55.067992+00:00",
-  "cluster_id": "c8d9491a4b3d0"
- },
- {
-  "title": "The US-Iran ceasefire is unravelling",
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sd29STjJKTTBfWEN4NXUwdjI2YmVYOTJEVU16QzlfWWlhNDY5dVd5SlJuTk5wTEh0d1BoSjFadzRTd0I0V3daeGVJZjh0c1d1cTNFUkV1UmpwUWRtN056c1ZSNFBzS0Z1eDR5RWFTNWdsT3UwVm52SU5zNjdSbHc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD-İran ateşkesi çözmekte; bölgede yeni gerilimler baş gösteriyor.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-05-28T06:00:55.067992+00:00",
-  "cluster_id": "c9d359fc46421"
- },
- {
-  "title": "Savaş tekrar hareketlendi: Altın ve gümüş çakıldı, petrol yükseldi",
-  "link": "https://www.sozcu.com.tr/savas-tekrar-hareketlendi-altin-ve-gumus-cakildi-petrol-yukseldi-p323263",
-  "source": "Sözcü",
-  "summary_tr": "ABD-İran hattındaki gerilim artışıyla altın, gümüş ve petrol fiyatları hareket etti; dolar sert güçlendi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-28T06:00:55.067992+00:00",
-  "cluster_id": "ca80cbb10ae47"
- },
- {
-  "title": "Kuwait says air defences intercepting hostile missile, drone attacks",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOamh0TWJzT0NSdVFrSXJvWG45UF96QS1haFVwdFMyZTZIMXNIenBzVGYxUUNKNlVTeVV6NUJSV3ZGYVdxaS1EVUZael8zNllmelh6LTlTUi1MTlpQc3JzWVF0Yk9aMDBscXNJRTlpX25jZVJjdTRrM3l2cjU1eG5ERnRwUVhycmcxWDFGcFkxcC0walJhT25jWTF4aVhhUFdQUHRWeVVsZFRhV0lrUVV5dEVEQUdNVGpScWZ3d3ZyMl85dnd0U3c?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Kuveyt, hava savunma sistemlerinin düşmanca füze ve insansız hava araçlarını durdurduğunu duyurdu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-28T06:00:55.067992+00:00",
-  "cluster_id": "cb2f2b1277074"
- },
- {
-  "title": "CHP'li Başkan Mustafa Günay görevden uzaklaştırıldı",
-  "link": "https://www.dw.com/tr/chp-li-başkan-mustafa-günay-görevden-uzaklaştırıldı/a-77321967?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "İçişleri Bakanlığı, tutuklanan CHP'li İzmir Güzelbahçe Belediye Başkanı Mustafa Günay'ı görevden uzaklaştırdı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T06:00:55.067992+00:00",
-  "cluster_id": "cb1ad58327980"
  }
 ]
