@@ -1,5 +1,29 @@
 [
  {
+  "title": "Oil prices climb as US strikes on Iran fuel fears truce is unravelling",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcW1oQmNkNnFFdEdYaTI4SDJwR0FpbHZjaVZCYnAzdTEyanppYjZTNFlOeE1KODQ5SmtVNC1hOWVhNHh6d3dVNGJ4enNEYkdPZFlEamVaXzRtN3RKME5Od2VKR0dUbUFRWDJ0b0xMcy1TUThmaF9Tem5YNHZUZlZpMGw0Uzc4TzRTT3p2aFhNZU8xT3Fsa2xld2pBRDFvTE5QS3RORTQ5TkowYjB5X2JaVUtQVUU5c2owcXc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD'nin İran'a yönelik hava saldırıları petrol fiyatlarını yükseltti; ateşkesinin çöküşü endişeleri artıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-08T02:01:08.408600+00:00",
+  "type": "news",
+  "cluster_id": "cbd922f7182be"
+ },
+ {
+  "title": "CHP ve DİSK DEV Emekli-Sen: 'Açlığa mahkumlar'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-ve-disk-dev-emekli-sen-acliga-mahkumlar-2518960",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP ve DİSK DEV Emekli-Sen, emekli aylıklarının açlık sınırının altında olduğunu protesto etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-08T02:01:08.408600+00:00",
+  "type": "news",
+  "cluster_id": "ca4f1f3be3bdc"
+ },
+ {
   "title": "ABD, Hürmüz Boğazı'nda tankerlerin vurulması sonrası İran'a hava saldırıları başlattı",
   "link": "https://www.bbc.com/turkce/articles/czdemgm5gjmo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -54930,25 +54954,5 @@
   "score": 7,
   "ts": "2026-05-26T17:00:57.519320+00:00",
   "cluster_id": "c641966789130"
- },
- {
-  "title": "AB, Baltık ülkelerinin savunması için ek kaynak ayırıyor",
-  "link": "https://www.aa.com.tr/tr/dunya/ab-baltik-ulkelerinin-savunmasi-icin-ek-kaynak-ayiriyor/3949239",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "AB Komisyonu Başkanı von der Leyen, Baltık ülkelerinin savunması için ortak savunma finansman programı kapsamında ek kaynak ayırmayı açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-26T17:00:57.519320+00:00",
-  "cluster_id": "c2304cdc532c1"
- },
- {
-  "title": "Rusyadan ABDye \"vize engeli\" tepkisi",
-  "link": "https://www.trthaber.com/haber/dunya/rusyadan-abdye-vize-engeli-tepkisi-946326.html",
-  "source": "TRT Haber",
-  "summary_tr": "Rusya BM Daimi Temsilcisi, ABD'nin Rus yetkilisine BMGK ziyareti için vize vermemesine tepki gösterdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-26T17:00:57.519320+00:00",
-  "cluster_id": "c04163c63ea10"
  }
 ]
