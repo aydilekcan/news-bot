@@ -1,5 +1,137 @@
 [
  {
+  "title": "IMF 2026 kartlarını yeniden dağıttı: Türkiye ve dünyaya kötü haber!",
+  "link": "https://www.sozcu.com.tr/imf-2026-kartlarini-yeniden-dagitti-turkiye-ve-dunyaya-kotu-haber-p334817",
+  "source": "Sözcü",
+  "summary_tr": "IMF, Türkiye'nin 2026 büyüme beklentisini yüzde 3,4'ten 2,9'a düşürdü.",
+  "metric": "Türkiye 2026 büyüme beklentisi %3,4 -> %2,9 (-0,5 puan)",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-08T14:02:00.890086+00:00",
+  "type": "news",
+  "cluster_id": "c3c3612552d2a"
+ },
+ {
+  "title": "ABD Başkanı Trump: Büyük ihtimalle bu akşam İran'ı çok sert şekilde vuracağız",
+  "link": "https://www.aa.com.tr/tr/abd-israil-iran-savasi/abd-baskani-trump-buyuk-ihtimalle-bu-aksam-irani-cok-sert-sekilde-vuracagiz/3991166",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, NATO Zirvesi'nde İran'ı 'bu akşam çok sert şekilde' vuracaklarını açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-07-08T14:02:00.890086+00:00",
+  "type": "news",
+  "cluster_id": "c8cc6f6b83530"
+ },
+ {
+  "title": "IMF bu yıla ilişkin küresel ekonomik büyüme tahminini düşürdü",
+  "link": "https://www.aa.com.tr/tr/ekonomi/imf-bu-yila-iliskin-kuresel-ekonomik-buyume-tahminini-dusurdu/3991157",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "IMF, 2026 küresel ekonomik büyüme tahminini yüzde 3,1'den 3'e düşürdü.",
+  "metric": "Küresel ekonomik büyüme (IMF 2026) %3,1 -> %3,0 (-0,1 puan)",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-07-08T14:02:00.890086+00:00",
+  "type": "news",
+  "cluster_id": "c31db6caafb93"
+ },
+ {
+  "title": "İBB davasında mahkeme salonundan atılan İmamoğlu'na 'kamu görevlisini tehdit' soruşturması",
+  "link": "https://www.bbc.com/turkce/articles/c05yqd2y949o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "İBB davasında mahkeme başkanıyla tartışan İmamoğlu salondan atıldı; 'kamu görevlisini tehdit' soruşturması başlatıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-08T14:02:00.890086+00:00",
+  "type": "news",
+  "cluster_id": "c5fde1a0d7636"
+ },
+ {
+  "title": "İBB davasında savunma krizi: İmamoğlu salondan çıkarıldı",
+  "link": "https://www.dw.com/tr/ibb-davasında-savunma-krizi-imamoğlu-salondan-çıkarıldı/a-77878181?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "İBB davasında İmamoğlu ile mahkeme başkanı arasında tartışma yaşandı; savunma süresi 9 Temmuz'a kadar uzatıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-08T14:02:00.890086+00:00",
+  "type": "news",
+  "cluster_id": "c1d861ab1447e"
+ },
+ {
+  "title": "Ekrem İmamoğlu hakkında soruşturma",
+  "link": "https://www.diken.com.tr/ekrem-imamoglu-hakkinda-sorusturma/?utm_source=rss&utm_medium=rss&utm_campaign=ekrem-imamoglu-hakkinda-sorusturma",
+  "source": "Diken",
+  "summary_tr": "Tutuklu İBB Başkanı Ekrem İmamoğlu hakkında mahkemede 'kamu görevlisini tehdit' soruşturması başlatıldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-08T14:02:00.890086+00:00",
+  "type": "news",
+  "cluster_id": "c5358475b3bd2"
+ },
+ {
+  "title": "Son Dakika... Ekrem İmamoğlu hakkında soruşturma başlatıldı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-ekrem-imamoglu-hakkinda-sorusturma-baslatildi-2519162",
+  "source": "Cumhuriyet",
+  "summary_tr": "Bakırköy Cumhuriyet Başsavcılığı, tutuklu cumhurbaşkanı adayı Ekrem İmamoğlu hakkında mahkeme heyeti önündeki söylemleri nedeniyle soruşturma başlattı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-08T14:02:00.890086+00:00",
+  "type": "news",
+  "cluster_id": "c5358475b3bd2"
+ },
+ {
+  "title": "İmamoğlu ‘Savunma hakkım engelleniyor’ dedi, hâkim dışarı çıkarttı",
+  "link": "https://yetkinreport.com/2026/07/08/imamoglu-savunma-hakkim-engelleniyor-dedi-hakim-disari-cikartti/",
+  "source": "YetkinReport",
+  "summary_tr": "Silivri'deki İBB davasında mahkeme başkanı, savunma hakkını engellediğini iddia eden İmamoğlu'yu salondan çıkarttı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-08T14:02:00.890086+00:00",
+  "type": "news",
+  "cluster_id": "c05706c56bf81"
+ },
+ {
+  "title": "Türkiye'nin önde gelen savunma sanayi şirketi ASSAN Group satıldı: TMSF tarafından satışa çıkarılmıştı",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/turkiye-nin-onde-gelen-savunma-sanayi-sirketi-assan-group-satildi-tmsf-tarafindan-satisa-cikarilmisti-2519166",
+  "source": "Cumhuriyet",
+  "summary_tr": "Askeri casusluk soruşturması nedeniyle TMSF'ye devredilen savunma şirketi ASSAN Group satıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-08T14:02:00.890086+00:00",
+  "type": "news",
+  "cluster_id": "cf72bc6f48554"
+ },
+ {
+  "title": "Son dakika... İBB Davası'nda 3 tahliye talebi",
+  "link": "https://www.sozcu.com.tr/son-dakika-ibb-davasi-nda-3-tahliye-talebi-p334814",
+  "source": "Sözcü",
+  "summary_tr": "İBB davasında savcılık, İnan Güney, Ceyda Kıryak ve Serap Karay'ın tahliyesini talep etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-08T14:02:00.890086+00:00",
+  "type": "news",
+  "cluster_id": "c2ef7df84ef47"
+ },
+ {
+  "title": "Türk savunma sanayisinden \"güvenilir çözüm ortaklığı\" vurgusu",
+  "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turk-savunma-sanayisinden-guvenilir-cozum-ortakligi-vurgusu/3991022",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Savunma Sanayii Başkanlığı, son 12 ayda 11 milyar doları aşan savunma ihracatının %56'sının NATO ülkelerine gittiğini vurguladı.",
+  "metric": "Savunma ihracatı (NATO oranı) 11 milyar dolar, %56 NATO'ya",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-08T14:02:00.890086+00:00",
+  "type": "news",
+  "cluster_id": "c5ad8fb553360"
+ },
+ {
   "title": "NATO'dan ortak savunma taahhüdü: 5. Madde'ye bağlılık yinelendi",
   "link": "https://www.bbc.co.uk/turkce/live/c1dy1ygwd9vt?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -55068,115 +55200,5 @@
   "score": 6,
   "ts": "2026-05-27T15:01:04.935530+00:00",
   "cluster_id": "c3edd77e965f0"
- },
- {
-  "title": "Altın ve gümüş peş peşe düştü: Toparlanma için tarih açıklandı",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/altin-ve-gumus-pes-pese-dustu-toparlanma-icin-tarih-aciklandi-2507331",
-  "source": "Cumhuriyet",
-  "summary_tr": "Altın ve gümüş fiyatları ABD-İran gerilimi ve Fed politikası belirsizliği nedeniyle düştü.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-27T15:01:04.935530+00:00",
-  "cluster_id": "c22acca6a0c8f"
- },
- {
-  "title": "Özel “Yeni parti kurmayacağız, kimse istifa etmesin” dedi, Kılıçdaroğlu’na seçim çağrısını yineledi: Butlanı irade gaspına döndürmeyeceğini umuyoruz!",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWV9jNWJSbVhzbDJfYkJFaE41Y0pOb3dMNlFXRk13b0xiQzJtRnFIZ24wQzlEdC04WkN3a1RUU1pMSE85eE9YeTBzX1c0MGVYa2VGSVl4S3BIODlvWHYybHlWQ0N3cnRjcmFaSUZkWUFxVXh6N1NCM2JWaUFLYWtnZkNsbkVwdkJvallKUV8wbExFZw?oc=5",
-  "source": "T24",
-  "summary_tr": "CHP Genel Başkanı Özel, yeni parti kurmayacaklarını belirterek seçim çağrısında bulundu.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-27T15:01:04.935530+00:00",
-  "cluster_id": "cdeb6a3a678d4"
- },
- {
-  "title": "İsrail'den ateşkese rağmen Lübnan'ın güneyine saldırı tehdidi",
-  "link": "https://www.trthaber.com/haber/dunya/israilden-ateskese-ragmen-lubnanin-guneyine-saldiri-tehdidi-946384.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail ordusu, Lübnan'la ateşkese rağmen Lübnan'ın güneyindeki 5 belde için yeni saldırı tehdidi ve zorunlu tahliye emri yayınladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-27T14:01:06.184527+00:00",
-  "cluster_id": "cf46f53903f89"
- },
- {
-  "title": "Özel'den Kılıçdaroğlu'na kurultay yanıtı: Hukuki engel yok",
-  "link": "https://www.dw.com/tr/özel-den-kılıçdaroğlu-na-kurultay-yanıtı-hukuki-engel-yok/a-77318448?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "CHP Genel Başkanı Özel, Kılıçdaroğlu'nun tedbir kararının olağanüstü kurultay engeli olamayacağını belirtti; hukuki engel bulunmadığını açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-27T14:01:06.184527+00:00",
-  "cluster_id": "c456af11fea3b"
- },
- {
-  "title": "DSÖ'den Ebola salgınını kontrol altına almak için KDC'de savaşan taraflara ateşkes çağrısı",
-  "link": "https://www.aa.com.tr/tr/dunya/dsoden-ebola-salginini-kontrol-altina-almak-icin-kdcde-savasan-taraflara-ateskes-cagrisi/3949813",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "DSÖ Genel Direktörü Ghebreyesus, Kongo Demokratik Cumhuriyeti'ndeki Ebola salgınını kontrol altına almak için taraflara ateşkes çağrısında bulundu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-27T14:01:06.184527+00:00",
-  "cluster_id": "ce0f9f132d3a4"
- },
- {
-  "title": "'Breakneck' Ebola epidemic in Congo outpaces world's response",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSHhlSkZEX3FGVWc5X2tsTUFxZ1BGZzI2V3JfSGFFa3F3a0VIczJCcjRiRmFNdG14aXg0aExVVDNxT1ZCWXAtcHB6TEtDWlhmd1V1SldsYUw1WWtrMldhZzhFMkdyTWZ5TDB5YUM4UmJkcDFkWUhIakFTV3dGSEZSTDRVQUFoOTJxc2dwNDZVS1lCcFBCUEp6T1RwdllqVUd5djJfakViYnlhemV2bFRUdVl4OTBZS1Ric3R5NDJET1B2UzEyNnc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Kongo Demokratik Cumhuriyeti'ndeki Ebola salgını hızla yayılıyor; dünya tepkisi yetersiz kalıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-27T14:01:06.184527+00:00",
-  "cluster_id": "c406d2401cdc4"
- },
- {
-  "title": "Palestinians mourn slain Hamas militant chief as Israel escalates Gaza attacks",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNemtsS3VoVVBUdExGWHcxbXFEN3B5YkJuM3NBX2pPenhtaU9rQU93YXc4YnZrY19LdmlqdnI4bUE2dzEwb25xVlIyVkRkNGFuLXZqV0RHVWprMThnRlhpdVg2dHNoMGZtMFdyWlMxT1NISlV2Y1drNm1La2JTUjgyUE5rMllzY19tZTY4NWpTaVZrTlVDNTFPdzU1cmFIWW92TGx1bXU2RmhuRFE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Hamas'ın öldürülen komutan başkasının ardından İsrail, Gazze'de saldırılarını yoğunlaştırdı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-27T14:01:06.184527+00:00",
-  "cluster_id": "c7c903cf6fca6"
- },
- {
-  "title": "Kılıçdaroğlu yönetimi, iki aracı satışa çıkardı: 'Haram'",
-  "link": "https://www.diken.com.tr/kilicdaroglu-yonetimi-iki-araci-satisa-cikardi-haram/?utm_source=rss&utm_medium=rss&utm_campaign=kilicdaroglu-yonetimi-iki-araci-satisa-cikardi-haram",
-  "source": "Diken",
-  "summary_tr": "Mahkeme kararıyla CHP başkanlığına getirilen Kılıçdaroğlu yönetimi, iki aracı satışa çıkardı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-27T14:01:06.184527+00:00",
-  "cluster_id": "cd9eb2e9de7b8"
- },
- {
-  "title": "İspanya'da yolsuzluk soruşturması kapsamında Başbakan Sanchez'in partisinde arama yapıldı",
-  "link": "https://www.aa.com.tr/tr/dunya/ispanyada-yolsuzluk-sorusturmasi-kapsaminda-basbakan-sanchezin-partisinde-arama-yapildi-/3949815",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İspanya'da Başbakan Sanchez'in koalisyon ortağı partisinin genel merkezine yolsuzluk soruşturması kapsamında arama yapıldı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-27T14:01:06.184527+00:00",
-  "cluster_id": "cd13ec03a20d2"
- },
- {
-  "title": "AB, mobil uydu frekanslarında kendi şirketlerini öne çıkaracak",
-  "link": "https://www.aa.com.tr/tr/ekonomi/ab-mobil-uydu-frekanslarinda-kendi-sirketlerini-one-cikaracak/3949811",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Avrupa Birliği, mobil uydu frekanslarında dışa bağımlılığı azaltmak amacıyla kendi şirketlerini öne çıkaracak.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-27T14:01:06.184527+00:00",
-  "cluster_id": "ccab42bca9649"
- },
- {
-  "title": "İspanya Başbakanı Sanchez’in partisinin genel merkezine operasyon",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMGoyNmJReEgybm5OUnY0ZmJEb1BKdGU2NVY4MUFxZjk4alhJV01sLWYyVnNESWdQYXdMNTh2b0pRYjlyWFNVcVl1VUJEcjA3dE1VZG04TFJEel91ckhrLVI5U2lNSG1HM09KUGFabzlObXB0R3NyVmhFUUczOE9qMk9Ndi1xdllDamdJcV9hMGdrQTh3UnMxTEd6V1BWMDg?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "İspanya Başbakanı Sanchez'in partisinin genel merkezine yolsuzluk soruşturması kapsamında polis operasyonu düzenlendi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-27T14:01:06.184527+00:00",
-  "cluster_id": "c04564f3832f4"
  }
 ]
