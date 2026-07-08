@@ -1,5 +1,113 @@
 [
  {
+  "title": "NATO Ankara Zirvesi sona erdi: 50 milyar dolarlık yeni tedarik anlaşması",
+  "link": "https://www.sozcu.com.tr/nato-ankara-zirvesi-sona-erdi-50-milyar-dolarlik-yeni-tedarik-anlasmasi-p334862",
+  "source": "Sözcü",
+  "summary_tr": "36. NATO Ankara Zirvesi sona erdi. Sonuç bildirgesinde müttefiklerin 50 milyar doları aşan yeni savunma tedarik anlaşması yer aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-08T19:01:11.901001+00:00",
+  "type": "news",
+  "cluster_id": "cb50734fa5ca5"
+ },
+ {
+  "title": "NATO Ankara zirvesi: İstenen birlik sağlandı mı?",
+  "link": "https://www.dw.com/tr/nato-ankara-zirvesi-istenen-birlik-sağlandı-mı/a-77882202?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "NATO Ankara Zirvesi sona erdi. Zirve sonuç bildirgesinde müttefiklerin savunma işbirliğine ilişkin kararlar yer aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-08T19:01:11.901001+00:00",
+  "type": "news",
+  "cluster_id": "cad6eaa12b526"
+ },
+ {
+  "title": "İsrail ordusunun ateşkese rağmen Lübnan'ın güneyinde hastane yakınına düzenlediği saldırıda 2 kişi öldü",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-ateskese-ragmen-lubnanin-guneyinde-hastane-yakinina-duzenledigi-saldirida-2-kisi-oldu/3991995",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusu ateşkes ve Lübnan anlaşmasına rağmen Nebatiye'deki hastane yakınına saldırı düzenledi; 2 kişi öldü.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-08T19:01:11.901001+00:00",
+  "type": "news",
+  "cluster_id": "c02d78ac13b2b"
+ },
+ {
+  "title": "İran'dan Trump'a sert çıkış: 'Katil Trump ile anladığı dilden konuşmak gerekiyor'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/iran-dan-trump-a-sert-cikis-katil-trump-ile-anladigi-dilden-konusmak-gerekiyor-2519217",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran Dışişleri Bakan Yardımcısı Kazım Garibabadi, Trump'ın İran'a yönelik saldırı açıklamasına sert tepki gösterdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-08T19:01:11.901001+00:00",
+  "type": "news",
+  "cluster_id": "c81c8a7e20c53"
+ },
+ {
+  "title": "Erdoğan'dan 'F-35' ve 'S-400' sorusuna yanıt: 'Bizi izlemeye devam edin'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/erdogan-dan-f-35-ve-s-400-sorusuna-yanit-bizi-izlemeye-devam-edin-2519216",
+  "source": "Cumhuriyet",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, NATO Zirvesi sonrası F-35 tedariki ve S-400'lerin geleceğine ilişkin soruya yanıt verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-08T19:01:11.901001+00:00",
+  "type": "news",
+  "cluster_id": "cb938ae88d44f"
+ },
+ {
+  "title": "İsrail basını: Cumhurbaşkanı Erdoğan, Türkiye'yi bölgesel süper güce dönüştürmeye başladı",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-basini-cumhurbaskani-erdogan-turkiyeyi-bolgesel-super-guce-donusturmeye-basladi/3992238",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail basını, Cumhurbaşkanı Erdoğan'ın Türkiye'yi bölgesel bir süper güce dönüştürmeye başladığını yazdı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-08T19:01:11.901001+00:00",
+  "type": "news",
+  "cluster_id": "c90ac2ec9ab41"
+ },
+ {
+  "title": "Erdoğan: F-35'lerin Türkiye'ye tesliminde tüm dünya ‘ABD sözünü tuttu’ diyecek",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOGFDaldGUXpOY2h2ZlZGbk56WU9JX0tWNk4xeHdwZTJUQ1Jpbk52VXhEU2l6bEFHUllYb3ZuNDVvUi1wbGxwRkh0eU5pT3JwLXVlRHUzZ1g0ZDBqZHVYRTNBZ1JRRDNUNW1iLWMzbmpRRGZEcnI3ZnhEaEwxTW1YOTlWTjFWY3VzOWd1aFBuTkE2MnY5M0JXNldpOWsySllDZ0E2S3gzcDJvLUdKN20wLQ?oc=5",
+  "source": "soL",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, F-35'lerin Türkiye'ye tesliminde ABD'nin sözünü tutacağını söyledi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-08T19:01:11.901001+00:00",
+  "type": "news",
+  "cluster_id": "cde10843d6f6b"
+ },
+ {
+  "title": "Trump says he doesn't think Iran conflict will start again",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNjNfYy16UERGMkFmTE01eDZtUXllSmtob0sxSHNnSzE2S1g2NFBSbm9kc1hkWEQ2alp2NV9WVG9YSjlfLWxwVDRnYjhNZTAtanB3LW42eFNTUTNaVHp4TkJjdHNoTURyTXduMnpRQzlBcndEZndjQm5DcWowVHk0OG1yUWltQWlyMmpOdTlRQURydUJla2w2UHJQRENvbnhZQjRKTW1pV3hzUWNKWWsydg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Başkanı Trump, İran ile çatışmanın tekrar başlamayacağını söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-08T19:01:11.901001+00:00",
+  "type": "news",
+  "cluster_id": "c3adc5ea178ac"
+ },
+ {
+  "title": "Macron says Europe has stepped up in NATO ahead of Ukraine coalition summit",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOFdUNV91OXU4WlZGSFk4MnNHclhmWDZXQS1CekdPc1V0Rko1SGdwM2ptVTY1S1cxbXpKb21xLVVoSllFWkE1N3Z0MGgxc0pFMlpPVlpWbmQyRUlYUXJYU0pWS2Y5aExkZ2VnM3c4Mkw2MkRsVGNYSnJkSEYtamdPUW1DVE5zdzg4Y0hTTDBtZndxNEN3UkExeUU0b1hXVjVreWd3cENjanZ0dGxPaDU1YWZrZEwyRzJOS3c2OEhIdFczVWtQNHJHclYycFk?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Fransa Cumhurbaşkanı Macron, NATO çerçevesinde Avrupa'nın Ukrayna'ya desteği arttırdığını söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-08T19:01:11.901001+00:00",
+  "type": "news",
+  "cluster_id": "ca271ed3ba199"
+ },
+ {
   "title": "Erdoğan: Netanyahu ve Miçotakis'in F-35 açıklamasının benim dünyamda yeri yok",
   "link": "https://www.diken.com.tr/erdogan-netanyahu-ve-micotakisin-f-35-aciklamasinin-benim-dunyamda-yeri-yok/?utm_source=rss&utm_medium=rss&utm_campaign=erdogan-netanyahu-ve-micotakisin-f-35-aciklamasinin-benim-dunyamda-yeri-yok",
   "source": "Diken",
@@ -55200,95 +55308,5 @@
   "score": 8,
   "ts": "2026-05-28T01:00:47.792875+00:00",
   "cluster_id": "ccbeb53e86587"
- },
- {
-  "title": "İsrail ordusunun Lübnan'ın Sayda kentinde bir eve düzenlediği saldırıda 2 kişi öldü",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-lubnanin-sayda-kentinde-bir-eve-duzenledigi-saldirida-2-kisi-oldu/3950081",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail ordusu Lübnan'ın Sayda kentindeki bir eve hava saldırısı düzenledi; 2 kişi öldü.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T01:00:47.792875+00:00",
-  "cluster_id": "ce9de08ad1199"
- },
- {
-  "title": "Trump says he can outwait Iran, dismisses midterm election pressure",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdVBXYVEzOGJ2QldueDNNUnFTLWxiTHFmaTZaRi1jRnM1T2RrWVg2S3M0OUZSNmxOaEZVclJHVWJEbWdxb0hlWWlTT1dZdk5ZbDR6SGV5ZWd3QmlrWGRjS2JMZ3pzaVZmWC1XaDhlUVBKcS1NWVVJNEh1MEVTYW9ZcHF5QXpXajJ2RE5VTWUxTzRsS3ZXTkh1TFNSQjdrYmdaa09QMnJCOXJFUGFHTFdnRg?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, İran ile pazarlık konusunda ısrarcı olabileceğini söyledi ve ara seçim baskısını görmezden geldi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T01:00:47.792875+00:00",
-  "cluster_id": "c126fc3da5669"
- },
- {
-  "title": "Israel declares new swathe of Lebanon 'a combat zone,' warns residents to leave",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaG41VWMxSW52REt5QUhIcFpPTVQzY2Vsbld6QWdzYndldTloS2VFYTUtUHp2bFo4Mi1MLVVqRkd0RzctUkt0dVYzN0hpZ2FfMUNqRktORENoR0g1VDV1eEVOeE1mMldINEJOUS1PMkd6RmxzY0gtVzhfR19NRnNYRmN2TE4tWjBKZ2RVeUxJNTZzOGphSC1kdTNrUnRKRS1wNi1MN3N5Qk5yUzE5eC1YU1g1S0NKUVdUMnZJbVJlVGxqZw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İsrail, Lübnan'ın geniş bir bölgesini savaş alanı ilan etti ve sakinleri tahliye etmesi için uyardı.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-05-28T00:00:52.459946+00:00",
-  "cluster_id": "cef962a4b5a0b"
- },
- {
-  "title": "Exclusive: US carries out new strikes in Iran against military site, official says",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSTRRSVJycmxrcVZhN2F2OF8zR2JIWW1Ua0F4V1dIV2NIYUxEMGZSRElNYzBVVlRGazQtX1NuZGNmTzZBYWx3cWlCdVg3Q0xPQkVUZHhTM21ReXdrWHNKMDhzVHRiUkJ5N0tSM1BuNl9NbmhCMUFVRFd1N0dYelB2RkpBYmRTZDVQOExXU1JtdlVsaEw1bGR6aHJUR3lFLVN3dl9ERnVnNlF2b2lLdjhkX1dHLUJNZy1HT1dIdVNB?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, İran'daki askeri tesisine karşı yeni hava saldırıları gerçekleştirdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-28T00:00:52.459946+00:00",
-  "cluster_id": "c8cf86ee74d3c"
- },
- {
-  "title": "İsrail'in Gazze'ye düzenlediği saldırıda hayatını kaybedenlerin sayısı 8'e yükseldi",
-  "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzeye-duzenledigi-saldirida-hayatini-kaybedenlerin-sayisi-8e-yukseldi/3950063",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail ateşkese rağmen Gazze'ye düzenlediği saldırıda 8 Filistinli hayatını kaybetti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-27T23:00:53.523493+00:00",
-  "cluster_id": "cef8193b713b4"
- },
- {
-  "title": "Tutuklanmıştı: Güzelbahçe Belediye Başkanı Mustafa Günay görevden uzaklaştırıldı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/tutuklanmisti-guzelbahce-belediye-baskani-mustafa-gunay-gorevden-uzaklastirildi-2507419",
-  "source": "Cumhuriyet",
-  "summary_tr": "Tutuklu Güzelbahçe Belediye Başkanı Mustafa Günay İçişleri Bakanlığı tarafından görevden uzaklaştırıldı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-27T23:00:53.523493+00:00",
-  "cluster_id": "cb478551b087b"
- },
- {
-  "title": "Ateşkese rağmen... İsrail’den Gazze’ye hava saldırısı: 7 ölü, 15 yaralı",
-  "link": "https://www.cumhuriyet.com.tr/dunya/ateskese-ragmen-israil-den-gazze-ye-hava-saldirisi-7-olu-15-yarali-2507400",
-  "source": "Cumhuriyet",
-  "summary_tr": "İsrail, Gazze'ye ateşkes döneminde hava saldırısı düzenledi; 7 ölü, 15 yaralı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-27T22:00:46.984204+00:00",
-  "cluster_id": "c3a3564dfcd18"
- },
- {
-  "title": "Trump says Iran and Oman will not control Strait of Hormuz, deal remains elusive",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWJLNTAwYTVGSkZnNzU5aUtkM0RhMUpvdXBkN1FzSW52RVhEZG9TZzdMTEJlNnc4QWUzdkhrRkh6R25nRnE3dnpUd3FxYzd3RmluZ1NuZTF1WHlYZEJKV0xnQ3FHVVlZY3RyMWVKc1NVMFVYZ2NlUXJibVZGbjRrVDk2QVVjSU5GUFJNRXd0WnNlMkZmcFpiajk1SWNTblU5bUpfSmRqQTR0UUtUam90WHJaZDhYS0JCa0h5ZUdWenFSckVa?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, İran ve Umman'ın Hormutz Boğazı'nı kontrol etmeyeceğini belirtti; anlaşma henüz sağlanmadı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-27T22:00:46.984204+00:00",
-  "cluster_id": "c1c027128dcd9"
- },
- {
-  "title": "Uganda closes its border with Congo, where suspected cases of a rare Ebola type are surging",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX1hLLXN2RUdNOTg4aElackEzZnRtYTVya01zek8zTFFjbjJXYllGS2RudzlLbWZub0JSMHNDNkpFVnJZQTdSbXdnakhvcFJlVk1ETFlTaFJpWENJRHBaZ0h5NTZDSzlRY0JrRHFxa3A2TkV4U1NJLV92T29ZbGpXaGhpRGxnQTA1eVlWazUwa1p6TkJ3TUE?oc=5",
-  "source": "AP",
-  "summary_tr": "Uganda, Kongo sınırını kapatıyor; nadir görülen Ebola türü şüpheli vakaları artıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-27T22:00:46.984204+00:00",
-  "cluster_id": "c25871ec8e7cf"
  }
 ]
