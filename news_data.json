@@ -1,5 +1,101 @@
 [
  {
+  "title": "Erdoğan: Netanyahu ve Miçotakis'in F-35 açıklamasının benim dünyamda yeri yok",
+  "link": "https://www.diken.com.tr/erdogan-netanyahu-ve-micotakisin-f-35-aciklamasinin-benim-dunyamda-yeri-yok/?utm_source=rss&utm_medium=rss&utm_campaign=erdogan-netanyahu-ve-micotakisin-f-35-aciklamasinin-benim-dunyamda-yeri-yok",
+  "source": "Diken",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, Netanyahu ve Miçotakis'in F-35 açıklamalarına tepki göstererek \"benim dünyamda yeri yok\" dedi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-08T18:01:13.301817+00:00",
+  "type": "news",
+  "cluster_id": "cb26181d71139"
+ },
+ {
+  "title": "Trump'tan F-35 sorusuna yanıt: 'Brunson'u hatırlattı, 'karar vereceğiz' dedi",
+  "link": "https://www.cumhuriyet.com.tr/dunya/trump-su-anda-tiktok-ta-bir-numaradayim-2519211",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD Başkanı Trump, İran ile savaş olacağını sanmadığını söyledi ve Çin ile yapay zeka alanında rekabet konusunda açıklama yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-08T18:01:13.301817+00:00",
+  "type": "news",
+  "cluster_id": "c3b02aa71a602"
+ },
+ {
+  "title": "Erdoğan'dan Netanyahu ve Miçotakis'e F-35 yanıtı",
+  "link": "https://www.sozcu.com.tr/erdogan-dan-netanyahu-ve-micotakis-e-f-35-yaniti-p334857",
+  "source": "Sözcü",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, Netanyahu ve Miçotakis'in F-35 açıklamalarına yanıt verdi ve eleştirel bir tutum ortaya koydu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-08T18:01:13.301817+00:00",
+  "type": "news",
+  "cluster_id": "c4f212a040355"
+ },
+ {
+  "title": "Cumhurbaşkanı Erdoğan:  NATO birbirine bağımlı ülkelerin değil, birbirine güç katan müttefiklerin ittifakı olmalıdır",
+  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-nato-birbirine-bagimli-ulkelerin-degil-birbirine-guc-katan-muttefiklerin-ittifaki-olmalidir/3991133",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, NATO'nun \"birbirine bağımlı değil, birbirine güç katan müttefiklerin ittifakı\" olması gerektiğini vurguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-08T18:01:13.301817+00:00",
+  "type": "news",
+  "cluster_id": "c9323ee6a3d65"
+ },
+ {
+  "title": "Bir sonraki NATO Zirvesi'nin yapılacağı ülke belli oldu",
+  "link": "https://www.sozcu.com.tr/bir-sonraki-nato-zirvesi-nin-yapilacagi-ulke-belli-oldu-p334856",
+  "source": "Sözcü",
+  "summary_tr": "NATO Genel Sekreteri Mark Rutte, bir sonraki NATO Zirvesi'nin 2027'de Arnavutluk'ta düzenleneceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-08T18:01:13.301817+00:00",
+  "type": "news",
+  "cluster_id": "c9f09005150a0"
+ },
+ {
+  "title": "Bu şartları sağlayan ofisler konuta dönüşebilecek: Son tarih belli oldu",
+  "link": "https://www.sozcu.com.tr/bu-sartlari-saglayan-ofisler-konuta-donusebilecek-son-tarih-belli-oldu-p334852",
+  "source": "Sözcü",
+  "summary_tr": "Belirli şartları sağlayan ofisler 1 Temmuz 2027'ye kadar konutya dönüştürülebilecek. Resmi Gazete'de yürürlüğe giren düzenleme yayımlandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-08T18:01:13.301817+00:00",
+  "type": "news",
+  "cluster_id": "c89c3f970f0e2"
+ },
+ {
+  "title": "İran Dışişleri Bakan Yardımcısı: Katil Trump ile anladığı dilden konuşmak gerekiyor",
+  "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakan-yardimcisi-katil-trump-ile-anladigi-dilden-konusmak-gerekiyor-950691.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Dışişleri Bakan Yardımcısı, ABD Başkanı Trump'ın İrana yönelik saldırı açıklamalarına karşılık, \"dilden konuşmak gerekiyor\" dedi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-08T18:01:13.301817+00:00",
+  "type": "news",
+  "cluster_id": "cc45f835545e2"
+ },
+ {
+  "title": "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOWpMRm9OdWtFYkF0N1gyUUJyZi1iRzJUcHRJV25fbDNXTmpxWWFlSFNNckpOVjhNcFlSYmVuelJiVDg4V1dBRHZlRnFjNDlRS0JWQlFVeW5obUw2RVU2RFBEc2V1SVFXUEVmMXlVUkJSM0NQNFN1eDk3RTFtM3g2eGstQktpQmRESEJLRlF6SWNrbVZQamFjUV9zdGVySkVaSnUzNllYTmJIU1FTWnZ6VGV1ZW1WQjF0RHljX0MzdVRlNUE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin, üst düzey yapay zeka firmaları için sınırlı sayıda Nvidia H200 çipi satın almalarına izin vermeyi planlıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-08T18:01:13.301817+00:00",
+  "type": "news",
+  "cluster_id": "cfe2616a3dc39"
+ },
+ {
   "title": "IMF: Dünya ekonomisi ancak 2027'de toparlanacak",
   "link": "https://www.dw.com/tr/imf-dünya-ekonomisi-ancak-2027-de-toparlanacak/a-77880654?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -55194,85 +55290,5 @@
   "score": 7,
   "ts": "2026-05-27T22:00:46.984204+00:00",
   "cluster_id": "c25871ec8e7cf"
- },
- {
-  "title": "İngiliz istihbaratına göre Rusya'nın 2022'den bu yana 500 bin askeri öldü",
-  "link": "https://www.diken.com.tr/ingiliz-istihbaratina-gore-rusyanin-2022den-bu-yana-500-bin-askeri-oldu/?utm_source=rss&utm_medium=rss&utm_campaign=ingiliz-istihbaratina-gore-rusyanin-2022den-bu-yana-500-bin-askeri-oldu",
-  "source": "Diken",
-  "summary_tr": "İngiliz istihbaratına göre Rusya, 2022'den bu yana 500 bin asker kaybetti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-27T21:01:04.316367+00:00",
-  "cluster_id": "cb6d8e947a44f"
- },
- {
-  "title": "Zelenskiy: Rusya diplomasiye samimi değil, füzelere güveniyor",
-  "link": "https://www.trthaber.com/haber/dunya/zelenskiy-rusya-diplomasiye-samimi-degil-fuzelere-guveniyor-946399.html",
-  "source": "TRT Haber",
-  "summary_tr": "Zelenskiy, Rusya'nın diplomasiye samimi olmadığını, füzelere güvendiğini belirtti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-27T21:01:04.316367+00:00",
-  "cluster_id": "c706b07993bf5"
- },
- {
-  "title": "Trump'tan kritik 'Hürmüz Boğazı' açıklaması: Umman'ı tehdit etti",
-  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-kritik-hurmuz-bogazi-aciklamasi-umman-i-tehdit-etti-2507385",
-  "source": "Cumhuriyet",
-  "summary_tr": "Trump, İran görüşmelerinde Hürmüz Boğazı konusunda Umman'ı tehdit etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-27T21:01:04.316367+00:00",
-  "cluster_id": "c80edfcc5eb42"
- },
- {
-  "title": "Norveç, Fransa'nın nükleer caydırıcılık şemsiyesine dahil olmayı kabul etti",
-  "link": "https://www.sozcu.com.tr/norvec-fransa-nin-nukleer-caydiricilik-semsiyesine-dahil-olmayi-kabul-etti-p323220",
-  "source": "Sözcü",
-  "summary_tr": "Norveç, Fransa'nın nükleer caydırıcılık şemsiyesine dahil olmayı kabul etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-27T21:01:04.316367+00:00",
-  "cluster_id": "c4a1d92857a16"
- },
- {
-  "title": "Ölümcül virüs alarmı: sınırlar kapatıldı, karantina başladı",
-  "link": "https://www.sozcu.com.tr/olumcul-virus-alarmi-sinirlar-kapatildi-karantina-basladi-p323217",
-  "source": "Sözcü",
-  "summary_tr": "Uganda, Demokratik Kongo'da yayılan Ebola salgını nedeniyle sınırlarını kapattı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-27T21:01:04.316367+00:00",
-  "cluster_id": "cb97d5730b615"
- },
- {
-  "title": "İsrail'in Gazze'ye düzenlediği saldırıda 7 Filistinli hayatını kaybetti, 18 kişi yaralandı",
-  "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzeye-duzenledigi-saldirida-7-filistinli-hayatini-kaybetti-18-kisi-yaralandi-/3950025",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail'in Gazze merkeze düzenlediği saldırıda 7 Filistinli öldü, 18 yaralandı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-27T21:01:04.316367+00:00",
-  "cluster_id": "c0aa81b7815da"
- },
- {
-  "title": "Katil İsrail Gazze'de bir binayı vurdu: 4 ölü, 15 yaralı",
-  "link": "https://www.trthaber.com/haber/dunya/katil-israil-gazzede-bir-binayi-vurdu-4-olu-15-yarali-946400.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail ordusu Gazze'ye düzenlediği saldırıda 4 Filistinli öldürüp 15 kişiyi yaraladı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-27T21:01:04.316367+00:00",
-  "cluster_id": "c01124f7aa0a2"
- },
- {
-  "title": "US and Iran remain divided on Hormuz deal as White House rejects Tehran TV report",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWJLNTAwYTVGSkZnNzU5aUtkM0RhMUpvdXBkN1FzSW52RVhEZG9TZzdMTEJlNnc4QWUzdkhrRkh6R25nRnE3dnpUd3FxYzd3RmluZ1NuZTF1WHlYZEJKV0xnQ3FHVVlZY3RyMWVKc1NVMFVYZ2NlUXJibVZGbjRrVDk2QVVjSU5GUFJNRXd0WnNlMkZmcFpiajk1SWNTblU5bUpfSmRqQTR0UUtUam90WHJaZDhYS0JCa0h5ZUdWenFSckVa?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD ve İran, Hürmüz anlaşması konusunda ayrılıkta kalmaya devam ediyor; Beyaz Saray, Tahran TV'nin haberini yalanladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-27T21:01:04.316367+00:00",
-  "cluster_id": "cbdca6fbddacf"
  }
 ]
