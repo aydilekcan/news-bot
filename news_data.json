@@ -1,5 +1,41 @@
 [
  {
+  "title": "Arif Kızılyalın: Kutulu ürünlere örtülü zam var; ticaret bakanı umarız uzaktan 'bak'maz",
+  "link": "https://www.diken.com.tr/arif-kizilyalin-kutulu-urunlere-ortulu-zam-var-ticaret-bakani-umariz-uzaktan-bakmaz/?utm_source=rss&utm_medium=rss&utm_campaign=arif-kizilyalin-kutulu-urunlere-ortulu-zam-var-ticaret-bakani-umariz-uzaktan-bakmaz",
+  "source": "Diken",
+  "summary_tr": "Diken yazarı, kutulu ürünlere gizli zam yapıldığını ve ticaret bakanının bunu görmezden geleceğini eleştirdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-08T06:01:44.183549+00:00",
+  "type": "news",
+  "cluster_id": "c6acde5b81055"
+ },
+ {
+  "title": "Mevduat faizinde dengeler değişti: 3 milyon TL'nin getirisi uçtu",
+  "link": "https://www.sozcu.com.tr/mevduat-faizinde-dengeler-degisti-3-milyon-tl-nin-getirisi-uctu-p334659",
+  "source": "Sözcü",
+  "summary_tr": "TÜİK'in enflasyon verileri sonrası bankaların vadeli mevduat faiz oranları değişti; 3 milyon TL'nin getirisi etkilendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-08T06:01:44.183549+00:00",
+  "type": "news",
+  "cluster_id": "c3ca2cb460040"
+ },
+ {
+  "title": "NATO Şefi Rutte'den İran'a uyarı: 'Ateşkesi ihlal etti'",
+  "link": "https://www.sozcu.com.tr/nato-sefi-rutte-den-iran-a-uyari-ateskesi-ihlal-etti-p334661",
+  "source": "Sözcü",
+  "summary_tr": "NATO Genel Sekreteri Rutte, Ankara Zirvesi'nde İran'ın ateşkesi ihlal ettiğini ve savunma bütçelerinin artırılmasını vurguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-08T06:01:44.183549+00:00",
+  "type": "news",
+  "cluster_id": "c5be179864211"
+ },
+ {
   "title": "Hürmüz Boğazı’nda gerilim yeniden tırmandı: ABD’den İran’a gece saldırısı",
   "link": "https://www.cumhuriyet.com.tr/dunya/hurmuz-bogazi-nda-gerilim-yeniden-tirmandi-abd-den-iran-a-gece-saldirisi-2518978",
   "source": "Cumhuriyet",
@@ -54960,35 +54996,5 @@
   "score": 7,
   "ts": "2026-05-26T21:00:57.124509+00:00",
   "cluster_id": "cebf31bd026b5"
- },
- {
-  "title": "Kemal Kılıçdaroğlu TBMM'ye başvuru yaptı",
-  "link": "https://www.trthaber.com/haber/gundem/kemal-kilicdaroglu-tbmmye-basvuru-yapti-946340.html",
-  "source": "TRT Haber",
-  "summary_tr": "Kemal Kılıçdaroğlu, TBMM'ye Özgür Özel'in CHP Grup Başkanlığı görevinin geçersiz sayılması için başvuru yaptı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-26T21:00:57.124509+00:00",
-  "cluster_id": "cfcf829a71e1d"
- },
- {
-  "title": "Son Dakika... Kılıçdaroğlu'ndan yeni hamle: Özel'in grup başkanlığının iptali için dilekçe verdi!",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-kilicdaroglu-ndan-yeni-hamle-ozel-in-grup-baskanliginin-iptali-icin-dilekce-verdi-2507153",
-  "source": "Cumhuriyet",
-  "summary_tr": "Kılıçdaroğlu, Özgür Özel'in CHP Grup Başkanlığı'nın iptali için TBMM Başkanlığı'na dilekçe verdi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-26T20:00:49.106988+00:00",
-  "cluster_id": "cf6a358af7c4a"
- },
- {
-  "title": "Son dakika... Kılıçdaroğlu Özel'in grup başkanlığının iptalini istedi",
-  "link": "https://www.sozcu.com.tr/son-dakika-kilicdaroglu-ozel-in-grup-baskanliginin-iptalini-istedi-p322972",
-  "source": "Sözcü",
-  "summary_tr": "Kılıçdaroğlu, Özgür Özel'in CHP Grup Başkanlığı'nın iptali için TBMM Başkanlığı'na dilekçe verdi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-26T20:00:49.106988+00:00",
-  "cluster_id": "c87eacd9da681"
  }
 ]
