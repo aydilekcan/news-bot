@@ -1,5 +1,77 @@
 [
  {
+  "title": "ABD, son saldırılarda İranın Hürmüz Boğazı yakınındaki bölgelerini hedef aldı",
+  "link": "https://www.trthaber.com/haber/dunya/abd-son-saldirilarda-iranin-hurmuz-bogazi-yakinindaki-bolgelerini-hedef-aldi-950706.html",
+  "source": "TRT Haber",
+  "summary_tr": "Trump'ın saldırı tehdidinin ardından ABD ordusu, İran'ın Hürmüz Boğazı yakınındaki bölgelerini gece bombardımanında hedef aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-08T23:01:13.822351+00:00",
+  "type": "news",
+  "cluster_id": "cb017e46cbf10"
+ },
+ {
+  "title": "BBC editörü Jeremy Bowen: Tüm kabadayılığına rağmen Trump'ın İran'la görüşmekten daha iyi bir seçeneği yok",
+  "link": "https://www.bbc.com/turkce/articles/cvgeyl7lrqqo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "BBC Editörü Jeremy Bowen, Trump'ın İran ile müzakere etmesinin tek seçenek olduğunu belirterek müzakere sürecinin kırılgan olduğunu vurguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-08T23:01:13.822351+00:00",
+  "type": "news",
+  "cluster_id": "cbdcae3dea59d"
+ },
+ {
+  "title": "ABD dışında ilk kez üretilecek: Avrupa’da dengeleri değiştirecek füze hamlesi",
+  "link": "https://www.sozcu.com.tr/abd-disinda-ilk-kez-uretilecek-avrupa-da-dengeleri-degistirecek-fuze-hamlesi-p334899",
+  "source": "Sözcü",
+  "summary_tr": "Almanya, ABD dışında ilk kez ATACMS taktik balistik füzelerinin üretileceği ülke olmaya hazırlanıyor; Avrupa'da askeri dengeleri değiştirecek hamle.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-08T23:01:13.822351+00:00",
+  "type": "news",
+  "cluster_id": "ccf39fa4632ca"
+ },
+ {
+  "title": "NATO Zirvesi’nin ardından: 50 milyar doları aşkın silah tedarik anlaşması",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNenZEV0dFeUxSY0RLZ013REpBalpmWHNIWTdZWksyeVdiRzUzZnNnbUFXOS1aT3VCVXRCN2paT09zaHhuRHZXTmNGSUZjaTVBVFVNTHg5ZHY5U3VfZnUtYmt2SnJvWkEzdl9MRjFSTFlibDA0TllFZnlac0gtX0psQ1JnV01GTTZxNWtydllLQlFrM0xZTU5xQUdqdF9wMFE2MTRjag?oc=5",
+  "source": "soL",
+  "summary_tr": "NATO Zirvesi'nin ardından 50 milyar doları aşkın silah tedarik anlaşması imzalandı.",
+  "metric": "Silah tedarik anlaşması 50 milyar dolar",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-08T23:01:13.822351+00:00",
+  "type": "news",
+  "cluster_id": "c8429799deed1"
+ },
+ {
+  "title": "Suriye, ABD'nin \"teröre destek veren ülkeler\" listesinden çıkarma kararını memnuniyetle karşıladı",
+  "link": "https://www.aa.com.tr/tr/dunya/suriye-abdnin-terore-destek-veren-ulkeler-listesinden-cikarma-kararini-memnuniyetle-karsiladi/3992503",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Suriye, ABD'nin kendisini 'teröre destek veren ülkeler' listesinden çıkarma işlemlerini başlatma kararını memnuniyetle karşıladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-08T23:01:13.822351+00:00",
+  "type": "news",
+  "cluster_id": "c730105ec5f56"
+ },
+ {
+  "title": "Hizbullah: Lübnan'ın İsrail ile yürüttüğü müzakerelere karşıyız, çerçeve anlaşması İsrail'in lehine",
+  "link": "https://www.aa.com.tr/tr/dunya/hizbullah-lubnanin-israil-ile-yuruttugu-muzakerelere-karsiyiz-cerceve-anlasmasi-israilin-lehine/3992499",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Hizbullah Genel Sekreteri Naim Kasım, Lübnan'ın İsrail ile yürüttüğü müzakerelere karşı olduklarını ve çerçeve anlaşmasının İsrail'in lehine olduğunu açıkladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-08T23:01:13.822351+00:00",
+  "type": "news",
+  "cluster_id": "c12980bc45ddd"
+ },
+ {
   "title": "ABD'nin saldırıları sonrası İran'ın güney kıyısında patlama sesleri duyuluyor",
   "link": "https://www.bbc.com/turkce/articles/c0my308zd4go?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -55298,65 +55370,5 @@
   "score": 8,
   "ts": "2026-05-28T08:01:01.539403+00:00",
   "cluster_id": "c97124aeaf5ad"
- },
- {
-  "title": "Bayram tatilinde kur depremi: Dolar/TL rekor kırdı",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/bayram-tatilinde-kur-depremi-dolar-tl-rekor-kirdi-2507468",
-  "source": "Cumhuriyet",
-  "summary_tr": "Kurban Bayramı tatilinde dolar/TL yeni zirve kırdı; jeopolitik gerginlik kur üzerinde baskı yarattı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T08:01:01.539403+00:00",
-  "cluster_id": "ce5052068673b"
- },
- {
-  "title": "Çin ile Hollanda arasında Güney Çin Denizi'nde gerilim",
-  "link": "https://www.aa.com.tr/tr/dunya/cin-ile-hollanda-arasinda-guney-cin-denizinde-gerilim/3950165",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Çin, Güney Çin Denizi'nde seyreden Hollanda savaş gemisine gerginlik oluşturdu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T08:01:01.539403+00:00",
-  "cluster_id": "cc26313121215"
- },
- {
-  "title": "Petrolün jeopolitik sarkaç sınavı: Yön yine yukarı",
-  "link": "https://www.trthaber.com/haber/ekonomi/petrolun-jeopolitik-sarkac-sinavi-yon-yine-yukari-946412.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD-İran restleşmeleri petrol piyasasını jeopolitik gerginlikle dalgalandırıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T08:01:01.539403+00:00",
-  "cluster_id": "c4d64a66c53dc"
- },
- {
-  "title": "Kılıçdaroğlu-Butlan hamlesiyle perdelenip Erdoğan’ı rahatlatan gelişmeler",
-  "link": "https://yetkinreport.com/2026/05/28/kilicdaroglu-butlan-hamlesiyle-perdelenip-erdogani-rahatlatan-gelismeler/",
-  "source": "YetkinReport",
-  "summary_tr": "İstinaf Mahkemesi'nin 'mutlak butlan' kararıyla Kemal Kılıçdaroğlu CHP başına atandı; hukuki ve siyasi çekişme devam ediyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-28T08:01:01.539403+00:00",
-  "cluster_id": "cb1fa36a856d1"
- },
- {
-  "title": "Avustralya'dan ABD merkezli 3M şirketine \"sonsuz kimyasallar\" nedeniyle 1,4 milyar dolarlık tazminat davası",
-  "link": "https://www.aa.com.tr/tr/dunya/avustralyadan-abd-merkezli-3m-sirketine-sonsuz-kimyasallar-nedeniyle-1-4-milyar-dolarlik-tazminat-davasi/3950151",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Avustralya, 3M şirketine 'sonsuz kimyasallar' nedeniyle 1,4 milyar dolarlık tazminat davası açtı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-28T08:01:01.539403+00:00",
-  "cluster_id": "c2a6315d542ef"
- },
- {
-  "title": "ABDde Google çalışanı, şirket verileriyle bahis oynadığı iddiasıyla gözaltına alındı",
-  "link": "https://www.trthaber.com/haber/dunya/abdde-google-calisani-sirket-verileriyle-bahis-oynadigi-iddiasiyla-gozaltina-alindi-946413.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD'de Google çalışanı şirket verileriyle bahis oynadığı iddiasıyla gözaltına alındı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-28T08:01:01.539403+00:00",
-  "cluster_id": "c3299a199562e"
  }
 ]
