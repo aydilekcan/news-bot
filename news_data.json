@@ -1,5 +1,17 @@
 [
  {
+  "title": "Supreme Leader Ayatollah Ali Khamenei has been laid to rest months after being killed in Iran war",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmZnOENNRXdELTloYWdZVG84OGRxcnFydXg5S1RNYWYyeTVkZGQ3XzkwV0hJdXRDNzBrSEp2ZUw2UkU5LVJkcWtyc0FXOHZkM1cwanhvaUFFM3g2WjJ6bkdHZmJVbE8zNGFneWF4VzM5VFdWcGNmUWo4VnljNktvSWJ3eE9XaThVZVVPM2NlQlhoUVh4T2E0cnJB?oc=5",
+  "source": "AP",
+  "summary_tr": "İran Rehberi Ayatollah Ali Hamaney aylardır önceki savaşta öldükten sonra gömüldü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-09T23:01:01.000664+00:00",
+  "type": "news",
+  "cluster_id": "cc8bb9293dd56"
+ },
+ {
   "title": "MHP'li Özdemir’den çarpıcı FETÖ açıklaması: ‘Yakında Türkiye gündemini ilgilendirecek yasal süreçler…’",
   "link": "https://www.cumhuriyet.com.tr/turkiye/mhp-li-ozdemir-den-carpici-feto-aciklamasi-yakinda-turkiye-gundemini-ilgilendirecek-yasal-surecler-2519559",
   "source": "Cumhuriyet",
@@ -55646,15 +55658,5 @@
   "score": 6,
   "ts": "2026-05-29T08:01:03.614066+00:00",
   "cluster_id": "c9c6e6a332f50"
- },
- {
-  "title": "Küresel piyasalarda jeopolitik sarkaç ateşkes yönünde",
-  "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-jeopolitik-sarkac-ateskes-yonunde-946491.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD-İran ateşkesinin uzatılacağı beklentisiyle petrol fiyatları 91 dolara düştü.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-29T08:01:03.614066+00:00",
-  "cluster_id": "cc61b66097149"
  }
 ]
