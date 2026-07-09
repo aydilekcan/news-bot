@@ -1,5 +1,89 @@
 [
  {
+  "title": "ABD'nin saldırıları sonrası İran'ın güney kıyısında peş peşe patlamalar",
+  "link": "https://www.bbc.com/turkce/articles/c0my308zd4go?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD, Hürmüz Boğazı çevresinde İran'a karşı yeni hava saldırıları başlattı; CENTCOM saldırıları doğruladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-09T02:01:09.664876+00:00",
+  "type": "news",
+  "cluster_id": "cbe39411e03f5"
+ },
+ {
+  "title": "US launches new airstrikes on Iran, with Tehran firing back at 3 Gulf Arab states",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTXRXN1ZOY3dWb0Y3bFliM0t6QVRjQkxGNmNRRkVPM29YazVXaXVpaFo3N2h2MHdBLUlTMWNROTJuTUJQNFhaR3BwTzV5b0NDYk1WOG5NMXRHLWhuNHF1NXJqOFM0Vzg2TWo2bXRCUS11WmFEeU45UURDV0dqX0szLWxfbkptQXFxQVJXM0hjY2lkS1VJdkljZWFR?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD İran'a yeni hava saldırıları başlattı; Tahran, Körfez'deki 3 Arap devletine karşılık saldırısı gerçekleştirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-09T02:01:09.664876+00:00",
+  "type": "news",
+  "cluster_id": "c54b0a9dd9881"
+ },
+ {
+  "title": "Bahreyn'de halka güvenli bölgelere yönelme çağrısı yapıldı",
+  "link": "https://www.trthaber.com/haber/dunya/bahreynde-halka-guvenli-bolgelere-yonelme-cagrisi-yapildi-950713.html",
+  "source": "TRT Haber",
+  "summary_tr": "Bahreyn İçişleri Bakanlığı halka güvenli bölgelere yönelme çağrısı yaptı; ülkede siren sesleri duyuldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-09T02:01:09.664876+00:00",
+  "type": "news",
+  "cluster_id": "c2b647cb2ffbb"
+ },
+ {
+  "title": "Kuveyt ordusu, füze ve İHA saldırılarını önlemeye çalıştığını açıkladı",
+  "link": "https://www.trthaber.com/haber/dunya/kuveyt-ordusu-fuze-ve-iha-saldirilarini-onlemeye-calistigini-acikladi-950711.html",
+  "source": "TRT Haber",
+  "summary_tr": "Kuveyt ordusu hava savunma sistemlerinin füze ve İHA saldırılarını önlemeye çalıştığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-09T02:01:09.664876+00:00",
+  "type": "news",
+  "cluster_id": "cd244f796bf7a"
+ },
+ {
+  "title": "İran basını: ABD ülkenin kuzeyindeki bir demir yolu köprüsüne saldırdı",
+  "link": "https://www.trthaber.com/haber/dunya/iran-basini-abd-ulkenin-kuzeyindeki-bir-demir-yolu-koprusune-saldirdi-950710.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran basını, ABD'nin ülkenin kuzeyindeki Gülistan eyaletinde demir yolu köprüsüne saldırdığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-09T02:01:09.664876+00:00",
+  "type": "news",
+  "cluster_id": "c8d12c7f5dfe5"
+ },
+ {
+  "title": "Fed minutes: Officials deeply divided over future path of US inflation",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMHk1X2dxdlJMSVBaYnZuTnJBSGFfYjktN2ZSa2N3VkZVUDd6dU9LZl9QOU9BMko5MDltYkh6ZDhKMlJpZGt0R0k5SXN0Rjd4WUhTZFdqaUk0UG0tVFZBLW1xZjMzTkhEOFZxVEk0RVFpajhjMTloWVZZeXhsYVdRM2pRV2Q4b1JNTTdGUXNZRnFZTGhJdVE?oc=5",
+  "source": "AP",
+  "summary_tr": "Fed tutanakları: Resmi görevliler ABD enflasyonunun gelecekteki seyri konusunda derinden bölünmüş durumda.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-09T02:01:09.664876+00:00",
+  "type": "news",
+  "cluster_id": "c56897cc22bbe"
+ },
+ {
+  "title": "Russia denounces NATO summit decisions on aid for Ukraine, defence",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbWQzMGJ2Z3l6TWJNM0ZyTFM1M1cyaE5wcGlwaW56UEZ0OG9TclUzMTZvazlDSUJDenduQ0V6V0FtbXBjNUVIOGpnOHBVY2JMS1BxNlpEOXpHX2JVYWdZWG00ZnA5SXpGUW9tczZEZmMtdmFyYlJON1Z4VWt1Y2dEOXN4TVZLal9FRFo4SmJtMjlYaGpVdndhUWR5Z0hkUmlreHc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya, NATO zirvesinde Ukrayna'ya yardım ve savunma kararlarını kınadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T02:01:09.664876+00:00",
+  "type": "news",
+  "cluster_id": "c8ae04e8b2efc"
+ },
+ {
   "title": "Trump wants to leave the Iran war behind. That won't happen soon",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdlZTdUh2QUFmVGl3LV9rMW8yR0NLVENkMG1oTFB5X0xLbU1Pd09fdDlEZ0hlSUU3NXdVbDFQSzNHc2F3dWlZby1yT05mVzJuVHRrT2x3VzA2NVJOQmNFZ0JrRkZZNzk1T1RUSnk4Y0hkak1QR2t5OFE1UDRJRWdMTHVVRjlFS0V2OF82WGRoc0xkXzdSWTVaZzlFXzVBd0hVNlNlMnoxYS1UbjVGVGc?oc=5",
   "source": "Reuters",
@@ -55314,75 +55398,5 @@
   "score": 6,
   "ts": "2026-05-28T10:01:03.436000+00:00",
   "cluster_id": "cb52fa4729a0a"
- },
- {
-  "title": "Boeing CEO says 200-jet China deal an 'initial tranche' with more to come",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSEJwODhWM1E2bWh3VG0wYU96b0NNN0xmTG5MQUVnekp1UWo3d2c1ZUt6N0ttNW1rdWZfcDFodm1iQzNoSlg2Nndwd2xwVERYREhuT0ZHSnJfTGZOZHVucFFQM0k0c3JTejBVbTNVeTFZc3R6bTZ5NGR1ZENpT25FdHNaRE5zbktlWkpma1U3aE10Wk1vVEYzb3M2eURJVl9BRW5zQkgzU3dXaXNvRDFndWlMMzQ3c2pCWkMyeU52NWZwZVRYVzNrMjdfSQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Boeing CEO, Çin'e 200 uçak satışının ilk etap olduğunu ve daha fazlasının geleceğini söyledi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-28T10:01:03.436000+00:00",
-  "cluster_id": "cc3a8228d1b61"
- },
- {
-  "title": "Washington vurdu, Tahran karşılık verdi: Ateşkesten bu yana en tehlikeli gerilim!",
-  "link": "https://www.cumhuriyet.com.tr/dunya/washington-vurdu-tahran-karsilik-verdi-ateskesten-bu-yana-en-tehlikeli-gerilim-2507485",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD ordusunun İran'ın İHA'larını düşürmesi ve hedef vurması sonrası Tahran karşılık olarak Amerikan üssünü hedef aldı; ateşkesten bu yana en tehlikeli gerilim yaşandı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-28T09:01:09.997336+00:00",
-  "cluster_id": "c1aa86f167c21"
- },
- {
-  "title": "Ortadoğuda yeni ittifaklar: Türkiye kiminle yakınlaşıyor?",
-  "link": "https://www.dw.com/tr/ortadoğuda-yeni-ittifaklar-türkiye-kiminle-yakınlaşıyor/a-77314399?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "BAE-İsrail yakınlaşmasının yanında Suudi Arabistan, Mısır, Türkiye ve Pakistan ile işbirliğini güçlendiriyor; Ortadoğu'da yeni bölgesel ittifaklar şekilleniyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T09:01:09.997336+00:00",
-  "cluster_id": "cf0e6444c3e30"
- },
- {
-  "title": "AP Exclusive: Trump administration tells prosecutors to stand down on Venezuela leader, sources say",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMTRrZENCa1lqbVR3R2Vzb2ExNHJ2ZHhmZVJtLUZ3WTZuT1JoZTMwV0JMTGZrLTEwRVdqR0tEQ054OEFOejI1UmJyREprckVKdFJVOVJQN0w1dnhnT1duM0VYV1BUaXdPREhGV2JGQXEyUkdEaEcta2RtdXM0bktxS1VpQmNBYUJuSGRQTElpT0FEMzhaaUpsRGtoa1B2ZzUySjMzWXh4ODh4UDhYclZ5RzhPQXdSbzF4NWE0VWl2eWx1ZWxPRmp6WA?oc=5",
-  "source": "AP",
-  "summary_tr": "Trump yönetimi savcılara Venezuela lideri Maduro hakkında dava açmaktan vazgeçmelerini söyledi; ABD'nin Venezuela politikasında değişim sinyali.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T09:01:09.997336+00:00",
-  "cluster_id": "c337a06b0a407"
- },
- {
-  "title": "CHP'de parti meclisi toplantısı ertelendi",
-  "link": "https://www.diken.com.tr/chpde-parti-meclisi-toplantisi-ertelendi/?utm_source=rss&utm_medium=rss&utm_campaign=chpde-parti-meclisi-toplantisi-ertelendi",
-  "source": "Diken",
-  "summary_tr": "CHP'de parti meclisi toplantısı ertelendi; mahkeme kararıyla göreve dönen üyelere resmi tebligat ulaşmadığı gerekçe gösterildi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-28T09:01:09.997336+00:00",
-  "cluster_id": "cd9ea8dbe2d8a"
- },
- {
-  "title": "Asya borsaları Çin hariç negatif seyirde",
-  "link": "https://www.sozcu.com.tr/asya-borsalari-cin-haric-negatif-seyirde-p323315",
-  "source": "Sözcü",
-  "summary_tr": "ABD'nin İran'a yönelik yeni saldırıları sonrası jeopolitik gerilimlerin yükselmesiyle Asya borsaları (Çin hariç) negatif seyir izliyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-28T09:01:09.997336+00:00",
-  "cluster_id": "c19d5b1441000"
- },
- {
-  "title": "Güney Kore Hürmüz Boğazı'ndaki gemisine saldırıda kanıtların İran’ı işaret ettiğini bildirdi",
-  "link": "https://www.aa.com.tr/tr/dunya/guney-kore-hurmuz-bogazindaki-gemisine-saldirida-kanitlarin-iran-i-isaret-ettigini-bildirdi/3950238",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Güney Kore Dışişleri Bakan Yardımcısı, Hürmüz Boğazı'nda Güney Kore gemisine düzenlenen saldırının kanıtlarının İran'ı işaret ettiğini bildirdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-28T09:01:09.997336+00:00",
-  "cluster_id": "c0692bcc6312b"
  }
 ]
