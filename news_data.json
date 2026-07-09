@@ -1,5 +1,29 @@
 [
  {
+  "title": "Almanya ABD'den Tomahawk füzesi alacak",
+  "link": "https://www.dw.com/tr/almanya-abd-den-tomahawk-füzesi-alacak/a-77893542?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Almanya NATO Zirvesi'nde ABD'den Tomahawk füze sistemleri satın almak için anlaşma sağladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T16:01:05.113711+00:00",
+  "type": "news",
+  "cluster_id": "c3fd40cd3c882"
+ },
+ {
+  "title": "Russia's Saratov oil refinery at a halt since Wednesday's drone attack, sources say",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcjJ3MFQwQ3VucnA5X2wzVVA4S2M2dm54OExheU41WFVMQWZXd2hKNzQzaktCUGFGTWdFNS02WEttdlhaU1R2WHY3ZDBBbE9zdW9CeVlhWEx2OUtOVkU2cnRqZkVPMWMzUE5ZbW1nSDVqb2hrd0M0aHdFRVE2SFpfVlY4OFZ2cWV0TWhCcWE1NVRxQVRZRkJxaWVCR005ZkRnRU9xdjV1Ty01NlIyZEZKbUVmN3pLdXc5bDFZcDRTUXZFdC1zM3c?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya'nın Saratov petrol rafineresi Çarşamba günü drone saldırısından beri kapalı durumda.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-09T16:01:05.113711+00:00",
+  "type": "news",
+  "cluster_id": "c3c949998b0cf"
+ },
+ {
   "title": "Iran fired ten ballistic missiles on Jordan's Azraq military base",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaEw3T3U5RHNmcmVFb2VhWGdmRExEb1VHVFYwbFBsX1UxWGlJRW5pM0R0NGwtQVVlUHAwckdpcHIyaXZ3dkFTR2ZvV3JKams0TzhvQ0NYVnRkOFlFa1EtR19nVHFDcTJYQVYtaG9wYWxoRjlaX3kxeW9tdTNkZ0d0MGpVNjljem9DRTJaN2pSTmtoMEhJd3ZFTzlMTmtQOHF2WWYxSVpWNmwteWZBVG5iY2F4ZUtHZw?oc=5",
   "source": "Reuters",
@@ -55578,25 +55602,5 @@
   "score": 8,
   "ts": "2026-05-28T23:00:49.787897+00:00",
   "cluster_id": "ca1e56687180c"
- },
- {
-  "title": "İsrail, Kurban Bayramı'nın ikinci gününde Gazze'de 3 Filistinliyi öldürdü",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-kurban-bayraminin-ikinci-gununde-gazzede-3-filistinliyi-oldurdu/3950827",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail ordusunun Gazze'de Kurban Bayramı'nın ikinci gününde düzenlediği saldırılarda 3 Filistinli hayatını kaybetti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T23:00:49.787897+00:00",
-  "cluster_id": "c32e05e15ccc0"
- },
- {
-  "title": "Rusya Ukrayna’da 3 bölgeyi ele geçirdi",
-  "link": "https://www.sozcu.com.tr/rusya-ukrayna-da-3-bolgeyi-ele-gecirdi-p323451",
-  "source": "Sözcü",
-  "summary_tr": "Rusya Savunma Bakanlığı, Harkiv bölgesinde Novovasilevka dahil 3 yerleşim birimini ele geçirdiğini açıkladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-28T22:00:48.477540+00:00",
-  "cluster_id": "cc39de862a605"
  }
 ]
