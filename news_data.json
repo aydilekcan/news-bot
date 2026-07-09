@@ -1,5 +1,113 @@
 [
  {
+  "title": "Erdoğan'dan 'NATO' mesajları... Ankaralılara teşekkür etti, Trump ile 'masada' olan konuları hatırlattı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/erdogan-dan-nato-mesajlari-ankaralilara-tesekkur-etti-trump-ile-masada-olan-konulari-hatirlatti-2519509",
+  "source": "Cumhuriyet",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, tamamlanan NATO Ankara Zirvesi'nin Türkiye'nin uluslararası güvenlik gündemine yön veren bir aktör olduğunu gösterdiğini vurguladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-09T18:01:13.097120+00:00",
+  "type": "news",
+  "cluster_id": "c7de97690c2ea"
+ },
+ {
+  "title": "İran'dan Hürmüz Boğazı uyarısı",
+  "link": "https://www.sozcu.com.tr/iran-hurmuz-aciklamasi-9-temmuz-2026-p335174",
+  "source": "Sözcü",
+  "summary_tr": "İran Devrim Muhafızları Ordusu, ABD'nin İran'a yönelik saldırılarına karşılık olarak Hürmüz Boğazı'nda tehdit oluşturmakla uyarmıştır.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-09T18:01:13.097120+00:00",
+  "type": "news",
+  "cluster_id": "cbc7148f14dd5"
+ },
+ {
+  "title": "Cumhurbaşkanı Erdoğan: Ankara Zirvesi, Türkiye'nin NATO'nun güvenlik gündemine yön veren bir aktör olduğunu göstermiştir",
+  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-ankara-zirvesi-turkiyenin-natonun-guvenlik-gundemine-yon-veren-bir-aktor-oldugunu-gostermistir/3993535",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, Türkiye'nin ev sahipliğinde gerçekleştirilen 36. NATO Zirvesi'nin başarıyla tamamlandığını açıklamış; Ankara'nın NATO'nun güvenlik gündemine yön veren bir aktör olduğunu vurgulamıştır.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-09T18:01:13.097120+00:00",
+  "type": "news",
+  "cluster_id": "c9e311dfa99c7"
+ },
+ {
+  "title": "Cumhurbaşkanı Erdoğan'dan Ankaralılara teşekkür",
+  "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-ankaralilara-tesekkur-950796.html",
+  "source": "TRT Haber",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, Türkiye'nin ev sahipliğinde başarıyla tamamlanan 36. NATO Zirvesi nedeniyle Ankaralılara teşekkür etmiştir.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-09T18:01:13.097120+00:00",
+  "type": "news",
+  "cluster_id": "c8b96483c4fa3"
+ },
+ {
+  "title": "1.443 kilometrelik hat tamamlanıyor: Elektrikle ısıtılarak günde 216 bin varil taşıyacak",
+  "link": "https://www.sozcu.com.tr/1-443-kilometrelik-hat-tamamlaniyor-elektrikle-isitilarak-gunde-216-bin-varil-tasiyacak-p335168",
+  "source": "Sözcü",
+  "summary_tr": "Uganda-Tanzanya arasında inşa edilen Doğu Afrika Ham Petrol Boru Hattı tamamlanmaya yakın; proje günde 216 bin varil petrol taşıyacak kapasitededir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-09T18:01:13.097120+00:00",
+  "type": "news",
+  "cluster_id": "cb4a5fe53ebe2"
+ },
+ {
+  "title": "Cumhurbaşkanı Erdoğan, Lübnan Başbakanı Selam'ı kabul edecek",
+  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-lubnan-basbakani-selami-kabul-edecek/3993516",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, Lübnan Başbakanı Nevvaf Selam'ı İstanbul'da kabul edecektir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-09T18:01:13.097120+00:00",
+  "type": "news",
+  "cluster_id": "cdc3aedf2fe0f"
+ },
+ {
+  "title": "Cumhurbaşkanı Erdoğan, Lübnan Başbakanı Selam'ı ağırlayacak",
+  "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-lubnan-basbakani-selami-agirlayacak-950795.html",
+  "source": "TRT Haber",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, Lübnan Başbakanı Nevvaf Selam'ı İstanbul'da kabul edecektir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-09T18:01:13.097120+00:00",
+  "type": "news",
+  "cluster_id": "cdc3aedf2fe0f"
+ },
+ {
+  "title": "DEM Parti’nin “çerçeve yasa” rahatsızlığı ve İmralı’da yaşananlar: Yasa çıkarsa Öcalan yeni yerine geçecek",
+  "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSFY2QjJZU3hRSlg5N2NubHRScXM5bnV1elgwUEk3N2hCZ1k4aUVjNjdTVUw3NkVQcWxtYVU1M2ZEbXl3OTlaZ0s2WnlqeEFDVG9sWWx1d2x3LXVIWlg2Tm5LclZDMU5rVXZWT1hMS1FiXzdWRFpIaFVSOUxReUdRM3dWd2kxbmtLTzc3M0NVOTBwd1E2blQ2UWplSkRnRUcyb3dWZDU0dkwzak1xM1l0WXd5eDFKYXRGVU1iajFVYTB0YmxaVVY5bmViSmpFMlh0dmREd0pUeFN5Z2laWjBVZEp3WTdWMzlfVWNjYWtnXy1xOWNlRGc?oc=5",
+  "source": "T24",
+  "summary_tr": "DEM Parti, hazırlanacak çerçeve yasa hakkında rahatsızlık duymuş ve İmralı'da yaşananları gündeme getirmiştir.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-09T18:01:13.097120+00:00",
+  "type": "news",
+  "cluster_id": "c51132b317739"
+ },
+ {
+  "title": "Zirve nedeniyle gümrükler kapatıldı: Yurtdışından gelen ilacına ulaşamayan kanser hastasının durumu kritik",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTmRDNHg5OHdvazdNWTUxbEVFellIVEtfZFRzS1Fpal9EX3p6Ni1zUExpblh4UFI4Ynk2dktlc0RxVXFuM21KZE10dlp5cE9YUDhsQVcyN05SOTB6TV9IckMzaUF1UmlNMjRvRF9tUFh6Vi13VC1VNFFOUXdtZndXZEQ0SWpYOXlWajhRbF9hSlFFMlFlMkxIakVaYkt6Y293TXk5WDdpQzhNMy1sakFUUGg0ck5xcTd4bldfTzItUQ?oc=5",
+  "source": "soL",
+  "summary_tr": "NATO Zirvesi nedeniyle gümrükler kapatılmış; yurtdışından gelen ilacına ulaşamayan bir kanser hastasının durumu kritik hale gelmiştir.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-09T18:01:13.097120+00:00",
+  "type": "news",
+  "cluster_id": "cf198fb3ac2ac"
+ },
+ {
   "title": "Soma'da 1361 madenci için kritik gün: Maden ocağında faaliyetler durdu",
   "link": "https://www.cumhuriyet.com.tr/turkiye/soma-da-1361-madenci-icin-kritik-gun-maden-ocaginda-faaliyetler-durdu-2519498",
   "source": "Cumhuriyet",
@@ -55516,95 +55624,5 @@
   "score": 7,
   "ts": "2026-05-29T04:00:50.768174+00:00",
   "cluster_id": "cabb2f9169902"
- },
- {
-  "title": "Russia brushes off US call not to launch 'systemic strikes' on Kyiv",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbk1salVKU3lxM2VXZmtnZ3MwbERfd25xd0ltcHFhelVZZlJKRXZiQzB6WTJqd1pWc0RWU29MUk9ja2xoT0JuZWZwcjZfUi1kWnhIVHJUdjFQdnBtMzRPaFB1VTlpQVJiWkFUMnloVGcwNy1uRmhvZUpwSnVxZS05eGZXNFVjVzJNSUlyQXhMVlhEMVlxcVV2T0J6OTZuMTY4SnBN?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Rusya, Kyiv'e sistematik saldırı düzenlememeye çağıran ABD uyarısını göz ardı etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T04:00:50.768174+00:00",
-  "cluster_id": "c8014c635fdde"
- },
- {
-  "title": "Romania says Russian drone hit block of flats in Galati area",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWjRyZi1PcHk5ZFpWNVBoZ0FxTDE1Y1FMRlJQVUV2NEFUdFp0STBYdml3dzFKU0pHM2VVY2FYTEVoNTZjUVJXZEdKdTZyemF5Yl95U1NYaWttZzUtSlB3SG9iQ3ZKOGJwQ1pDM3hFQzVCdDd6QmEyZXlUZkJ2TkJ1M3JPM2ZuVkRMSmtUdjdHNnBQamdsZURGSks5ekM?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Romanya, Galatı bölgesinde Rus insansız hava aracının bir apartman bloğuna çarptığını bildirdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T03:00:51.045598+00:00",
-  "cluster_id": "cb5d89c89075f"
- },
- {
-  "title": "Zelenskyy says he's pressing US for more Patriot missiles for Ukraine to counter Russian strikes",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNamQ4enZxYnE3Wnd3OERMbjNkSkYwRy1KaEpkSDhsSUktZEFQdFpWTEZRRnNpZEYyc0RXMDh2Y1VVWEQwX3lucXlfb044NVM0UVYwOW00d2tPR1hJeG5TQjA2NjNYY0s0azZNMGxvVl9ONUtucnR1SVVnR283MF9naVNSbHFBUzR2dXVkN1Q4WkpDMEhCZm5rTWhtWWUxZTRyaE44?oc=5",
-  "source": "AP",
-  "summary_tr": "Zelenskyy, Ukrayna'nın Rus saldırılarına karşı koymak için ABD'den daha fazla Patriot füzesi talep ettiğini açıkladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-29T02:00:49.510476+00:00",
-  "cluster_id": "c4c619d290439"
- },
- {
-  "title": "Aktan butlan kararının öngörülemeyen risklerine dikkat çekti",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/aktan-butlan-kararinin-ongorulemeyen-risklerine-dikkat-cekti-2507627",
-  "source": "Cumhuriyet",
-  "summary_tr": "Hukukçular, CHP'ye verilen tedbirli mutlak butlan kararının hukuki risklerine dikkat çekti.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-29T02:00:49.510476+00:00",
-  "cluster_id": "ccbc6a121b462"
- },
- {
-  "title": "US military denies claim US aircraft downed near Iran's Bushehr",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdnZMUkdzWk51dXlpUVhUcFUwR09oTjBETy1hQjRSZDlYc1Jxb1U2SWpaZHR2TmY4VUFmSklaYzZ5eVRiWFZoTXJUSE1DMHJqbjZlblRFTWtmTW92RGYybWtYQjg0WXBUY1V2UEgzWUNCTV9yVVd3UUZrN0RWLWFIQlRtcWtSeGJYNmxWOFBJTVFSQ2NIal95SVVZNDZ6czN6TGhkS254VVFTRk9xTGVYZ285U2Z6TmxUZTh0V25VWG9nbE91TWFz?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD Ordusu, İran'ın Buşehr yakınlarında bir ABD uçağının düşürüldüğü iddiasını yalanladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T01:00:50.928632+00:00",
-  "cluster_id": "caaa517755843"
- },
- {
-  "title": "Netanyahu directs Israeli forces to expand Gaza control to 70 percent",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLXh1UU1WMjh1NkpKSFhWOGtxSDBOZGFwU21rX1dMVmNFcTk0SjF6Sm8tQWlpcDV1aFBuekNRR3lvS2lEQjJWYS1MVlV0UU5vYVkxNkhGeGp3b2dtaVZhU283dmhMTnRBU3pvbk4tQTFyV3lzY1JjSUJkVjB2dlNwWnMtam5wT3NWWjBReTY1Y1pfZ1NGdjJRYmE5aXlMOEJ1aHRTOUx3QXdyZ3E3QzNrQ09WVVhwSkY2?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Başkan Netanyahu, İsrail kuvvetlerine Gazze'deki kontrolü yüzde 70'e çıkarması talimatı verdi.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-05-29T00:00:58.486806+00:00",
-  "cluster_id": "ccdbabed19e46"
- },
- {
-  "title": "ABD: İran'la anlaşmaya çok yakınız ama henüz anlaşmadık",
-  "link": "https://www.bbc.com/turkce/articles/crmprnxkwnro?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD yetkilileri İran ile anlaşmaya çok yakın olduklarını ancak henüz Başkan Trump ve İran yönetiminin onaylamadığını belirtti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-29T00:00:58.486806+00:00",
-  "cluster_id": "c7417d9036a4b"
- },
- {
-  "title": "Özgür Özel: 'Tedbir kararı genel başkanlığımı elimden almıyor'",
-  "link": "https://www.bbc.com/turkce/articles/cdjpkdm2kgeo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel, mahkemenin mutlak butlan kararının ardından görevinden alındığını, tedbir kararının ise yetkilerini etkilemediğini savundu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T00:00:58.486806+00:00",
-  "cluster_id": "c04f455e16886"
- },
- {
-  "title": "US official denies claim US aircraft destroyed in Iran's Bushehr",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdnZMUkdzWk51dXlpUVhUcFUwR09oTjBETy1hQjRSZDlYc1Jxb1U2SWpaZHR2TmY4VUFmSklaYzZ5eVRiWFZoTXJUSE1DMHJqbjZlblRFTWtmTW92RGYybWtYQjg0WXBUY1V2UEgzWUNCTV9yVVd3UUZrN0RWLWFIQlRtcWtSeGJYNmxWOFBJTVFSQ2NIal95SVVZNDZ6czN6TGhkS254VVFTRk9xTGVYZ285U2Z6TmxUZTh0V25VWG9nbE91TWFz?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD yetkilisi, İran'ın Bercam'da bir ABD uçağını yok ettiği iddiasını yalanladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T00:00:58.486806+00:00",
-  "cluster_id": "c941ad8d216eb"
  }
 ]
