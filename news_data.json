@@ -1,5 +1,89 @@
 [
  {
+  "title": "Oil prices rise, and stocks drop worldwide after Trump says ceasefire with Iran is ‘over’",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM255ZEIteU82bFZRNFpWYW9fTTlFaXdIajdXbjBYNmEzQTZBNUdXYjNjTGxTRm02S0NUQTBDa2lmYndWOV9sN3JqVFFvemRIaXhXTXFEdlFiVDB3cnc2b09hVF9Pd0dBVWhLMWpsV0UzV0NGQ194SFNVRjZBdGJRbExDN3dyVWROTFJscg?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump, İran ile ateşkesi 'bittiğini' açıkladı; petrol fiyatları yükseldi ve küresel borsalar düştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-09T20:01:12.088779+00:00",
+  "type": "news",
+  "cluster_id": "ccf684a8d50d6"
+ },
+ {
+  "title": "Netanyahu, Türkiye'nin F-35'lere erişimi konusunda ABD'ye üstü kapalı rahatsızlığını dile getirdi",
+  "link": "https://www.aa.com.tr/tr/dunya/netanyahu-turkiyenin-f-35lere-erisimi-konusunda-abdye-ustu-kapali-rahatsizligini-dile-getirdi/3993685",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Netanyahu, ABD'nin Türkiye'ye F-35 satışına ilişkin olumlu açıklamaları konusunda üstü kapalı rahatsızlığını dile getirdi.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-09T20:01:12.088779+00:00",
+  "type": "news",
+  "cluster_id": "cc503049347d0"
+ },
+ {
+  "title": "BM: Dün Lübnan hava sahasında İsrail uçaklarının 41'den fazla ihlali tespit edildi",
+  "link": "https://www.aa.com.tr/tr/dunya/bm-dun-lubnan-hava-sahasinda-israil-ucaklarinin-41den-fazla-ihlali-tespit-edildi/3993672",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "BM, İsrail uçaklarının Lübnan hava sahasını ateşkes görüşmeleri sırasında 41 defadan fazla ihlal ettiğini tespit etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T20:01:12.088779+00:00",
+  "type": "news",
+  "cluster_id": "cb9e0f1c3002d"
+ },
+ {
+  "title": "Fuel markets flash supply crunch despite calmer oil prices",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNDZ1NldKak53VnZLd1p1SUtzd0htUnB0QTV6akdPUEphWFBDb09Xcm04NnVMZXp1bUtIRlgwd3J6b1VKbjZIMWZfbXNyLWlMc2ZETTktRExibFdEMWFuRjZOYUttS0FXd0k5eDdmcV9pTmVxUlJ6eUk0R2RqVXg3bEZwc3I0cVFYUEFvVHlMRmRUc3JxODk3LWRtdm4xN3AyS2xHZjRZZkdrLXR0YjRz?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Petrol fiyatları sakin kalmasına rağmen yakıt piyasalarında arz darboğazı belirtileri gözlenmektedir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T20:01:12.088779+00:00",
+  "type": "news",
+  "cluster_id": "c4a2ae0abf8ef"
+ },
+ {
+  "title": "Clashes in Ukraine's Lviv highlight wartime tensions over draft",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdTJOcE50NG1qUTVFVjQta1hxN2hHWmxPT0VRMjdIQ0ZsRUtIcDBRb01SOVAyZG1PNXFtUXZNRDVMR2dRTTd5bXlQQklTaE9Rdm1pTVQzcXlOVmpfUGt5bWYtazl0bmhGODNUWFd1ZkcxMFlIMWRWdDlhenRrd2kyVkx4NTZ5d0ROWndQT21LRXVsNXk5bzQ2Sk9Pd1dxbkdLa0JV?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ukrayna'nın Lviv şehrinde askeri çekişte yaşanan çatışmalar, savaş zamanında asker alımı konusundaki gerilimleri ortaya koymaktadır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T20:01:12.088779+00:00",
+  "type": "news",
+  "cluster_id": "c77ff95f45d3d"
+ },
+ {
+  "title": "İBB Davası'nda 64 ara karar: Etkin pişmanlıkçı hakkında suç duyurusu",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/ibb-davasi-ndan-64-ara-karar-etkin-pismanlikci-hakkinda-suc-duyurusu-2519522",
+  "source": "Cumhuriyet",
+  "summary_tr": "İBB Davası ilk celesi yaklaşık dört ayın ardından sona erdi; mahkeme 64 ara karar verdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-09T20:01:12.088779+00:00",
+  "type": "news",
+  "cluster_id": "c1037ba5bfd55"
+ },
+ {
+  "title": "Malatya'da 4 bin 359 deprem konutu ve 115 iş yeri hak sahiplerine teslim edildi",
+  "link": "https://www.aa.com.tr/tr/gundem/malatyada-4-bin-359-deprem-konutu-ve-115-is-yeri-hak-sahiplerine-teslim-edildi/3993322",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Malatya'da yapımı tamamlanan 4.359 deprem konutu ve 115 iş yeri hak sahiplerine teslim edildi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-09T20:01:12.088779+00:00",
+  "type": "news",
+  "cluster_id": "c34bde29c43fa"
+ },
+ {
   "title": "ABD'nin İran'a saldırıları sürüyor: Ülkenin güneyinde patlama sesleri!",
   "link": "https://www.cumhuriyet.com.tr/dunya/abd-nin-iran-a-saldirilari-suruyor-3-kentte-patlama-sesleri-2519519",
   "source": "Cumhuriyet",
@@ -55564,75 +55648,5 @@
   "score": 8,
   "ts": "2026-05-29T07:01:00.743661+00:00",
   "cluster_id": "cdd5bc4776acc"
- },
- {
-  "title": "Rus dronları Türk gemisini ve Romanya'da bir binayı vurdu",
-  "link": "https://www.dw.com/tr/rus-dronları-türk-gemisini-ve-romanya-da-bir-binayı-vurdu/a-77339041?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Ukrayna açıklarında Rus dronunun Türk yük gemisini vurması sonucu 2 denizci yaralandı; aynı gece Romanya'da da bir binaya Rus dronu çarptı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T07:01:00.743661+00:00",
-  "cluster_id": "cd7a09afe69c3"
- },
- {
-  "title": "Karadeniz'de Türk gemisine saldırı: İki denizci yaralandı",
-  "link": "https://www.cumhuriyet.com.tr/dunya/karadeniz-de-turk-gemisine-saldiri-iki-denizci-yaralandi-2507701",
-  "source": "Cumhuriyet",
-  "summary_tr": "Karadeniz'de seyir halindeki Türk yük gemisine Rus insansız hava aracı saldırısı düzenledi, 2 denizci yaralandı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T07:01:00.743661+00:00",
-  "cluster_id": "c6229f8d16b40"
- },
- {
-  "title": "Barış anlaşmasının ihtimali bile altın ve gümüşü uçurdu, petrolü düşürdü",
-  "link": "https://www.sozcu.com.tr/baris-anlasmasinin-ihtimali-bile-altin-ve-gumusu-ucurdu-petrolu-dusurdu-p323489",
-  "source": "Sözcü",
-  "summary_tr": "ABD-İran barış anlaşması ihtimali altın ve gümüş fiyatlarını yükseltti, petrol ve dolar endeksini düşürdü.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T07:01:00.743661+00:00",
-  "cluster_id": "c841f542e58ac"
- },
- {
-  "title": "ABD ve İran hattında misilleme kıskacında diplomasi",
-  "link": "https://www.trthaber.com/haber/dunya/abd-ve-iran-hattinda-misilleme-kiskacinda-diplomasi-946481.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD ve İran arasında karşılıklı askeri saldırılar devam ederken, 60 günlük ateşkes taslağı diplomatik görüşmelerde gündeme geldi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T07:01:00.743661+00:00",
-  "cluster_id": "c8ac9013ca9f4"
- },
- {
-  "title": "Özel: CHP bu kara düzene payanda olanlardan arınacak",
-  "link": "https://www.diken.com.tr/ozel-chp-bu-kara-duzene-payanda-olanlardan-arinacak/?utm_source=rss&utm_medium=rss&utm_campaign=ozel-chp-bu-kara-duzene-payanda-olanlardan-arinacak",
-  "source": "Diken",
-  "summary_tr": "Özgür Özel, CHP'nin 'kara düzene payanda olanlardan' arınması gerektiğini açıkladı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-29T07:01:00.743661+00:00",
-  "cluster_id": "c5bb2da182fb4"
- },
- {
-  "title": "Sosyalist Enternasyonal, Özel yönetimini tanıyacak: Kılıçdaroğlu'na kurultay çağrısı",
-  "link": "https://www.diken.com.tr/sosyalist-enternasyonal-ozel-yonetimini-taniyacak-kilicdarogluna-kurultay-cagrisi/?utm_source=rss&utm_medium=rss&utm_campaign=sosyalist-enternasyonal-ozel-yonetimini-taniyacak-kilicdarogluna-kurultay-cagrisi",
-  "source": "Diken",
-  "summary_tr": "Sosyalist Enternasyonal, Özel yönetimini tanıyacak ve Kılıçdaroğlu'na kurultay çağrısında bulundu.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-29T07:01:00.743661+00:00",
-  "cluster_id": "c8650d23c3f5c"
- },
- {
-  "title": "France’s parliament votes to repeal slavery-era Black Code, with tears and history in the chamber",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZEpDNW45MGd6UjYtTDBrUFZoVC00TGFIbkNYODBsSm5WbnA1UHl1YUs0M3ZFZXozb0h5VDRXUFZYZWlLSk5JaDZTdjdBXy1CdzYwR1RDX3lBZ1lPUXNGVzlHeXdqR2czaXdkRF9RVDVUcmcwZzVWN0lBRGc2VDg3T1pwWnFGaEs0VG5iLTFsMUhDdTQwQmx0QTEwQQ?oc=5",
-  "source": "AP",
-  "summary_tr": "Fransa parlamentosu kölelik döneminin 'Siyah Kanununu' yürürlükten kaldıran yasayı oyladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-29T07:01:00.743661+00:00",
-  "cluster_id": "c84029d8f9241"
  }
 ]
