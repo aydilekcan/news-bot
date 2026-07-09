@@ -1,5 +1,113 @@
 [
  {
+  "title": "Iran fired ten ballistic missiles on Jordan's Azraq military base",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaEw3T3U5RHNmcmVFb2VhWGdmRExEb1VHVFYwbFBsX1UxWGlJRW5pM0R0NGwtQVVlUHAwckdpcHIyaXZ3dkFTR2ZvV3JKams0TzhvQ0NYVnRkOFlFa1EtR19nVHFDcTJYQVYtaG9wYWxoRjlaX3kxeW9tdTNkZ0d0MGpVNjljem9DRTJaN2pSTmtoMEhJd3ZFTzlMTmtQOHF2WWYxSVpWNmwteWZBVG5iY2F4ZUtHZw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran, Ürdün'deki Azraq askeri üssüne on balistik füze fırlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-09T15:01:16.702094+00:00",
+  "type": "news",
+  "cluster_id": "c892b843e666f"
+ },
+ {
+  "title": "Oil tanker traffic through Hormuz at near standstill as attacks strain Iran truce",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYWUtOFlPYmpMTHRWUjQ5ZTNjOFRaaVNCV0Z1aWZJY2E1UkcxV0t5M1dUYjExWWljV0lEbTd2ZE9semxVZjZQXzlYQnlQWjY0dWx0YUMyTXUtWnJsa3hYUlJGY3MxSWpuQmRUNmJxU19YZU41S0l5WDBLWlY1aTZHQVROdzNIcE1GYjlfTXJka3NNbGNTV2hvRFlxRllZd1AzOHlYRVJwSUtFUURha0NtbWdtWXBxb0MwaEEwNkFpaW9sQzlfajAwSQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran'a yönelik saldırılar nedeniyle Hürmüz Boğazı'ndan tanker trafiği neredeyse durma noktasına geldi; ateşkes anlaşması tehdit altında.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-09T15:01:16.702094+00:00",
+  "type": "news",
+  "cluster_id": "c880f6cebb610"
+ },
+ {
+  "title": "US and Iran exchange more attacks across the Mideast, threatening ceasefire deal",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmZnOENNRXdELTloYWdZVG84OGRxcnFydXg5S1RNYWYyeTVkZGQ3XzkwV0hJdXRDNzBrSEp2ZUw2UkU5LVJkcWtyc0FXOHZkM1cwanhvaUFFM3g2WjJ6bkdHZmJVbE8zNGFneWF4VzM5VFdWcGNmUWo4VnljNktvSWJ3eE9XaThVZVVPM2NlQlhoUVh4T2E0cnJB?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD ve İran Ortadoğu'da karşılıklı saldırılar düzenliyor; ateşkes anlaşması tehlikede.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-09T15:01:16.702094+00:00",
+  "type": "news",
+  "cluster_id": "ccd901b2034bc"
+ },
+ {
+  "title": "Türkiye dahil dokuz ülke savunma bankası kuracak",
+  "link": "https://www.diken.com.tr/turkiye-dahil-dokuz-ulke-savunma-bankasi-kuracak/?utm_source=rss&utm_medium=rss&utm_campaign=turkiye-dahil-dokuz-ulke-savunma-bankasi-kuracak",
+  "source": "Diken",
+  "summary_tr": "Türkiye dahil dokuz NATO ülkesi Ukrayna'nın silahlanması için ortak savunma bankası kuracak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T15:01:16.702094+00:00",
+  "type": "news",
+  "cluster_id": "c6be4fad6e366"
+ },
+ {
+  "title": "Bakan Şimşek: Türk lirası mevduatın toplam mevduat içindeki payı 11 yılın en yüksek seviyelerine ulaştı",
+  "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-turk-lirasi-mevduatin-toplam-mevduat-icindeki-payi-11-yilin-en-yuksek-seviyelerine-ulasti-950785.html",
+  "source": "TRT Haber",
+  "summary_tr": "Hazine Bakanı Şimşek, Türk lirası mevduatının toplam mevduat içindeki payının 11 yılın en yüksek seviyesine ulaştığını açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-09T15:01:16.702094+00:00",
+  "type": "news",
+  "cluster_id": "c1cf6b202a2ef"
+ },
+ {
+  "title": "Suudi Arabistan, IMEC için İsrail'i devre dışı bırakıp Suriye'den geçecek yeni bir rota değerlendiriyor",
+  "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistan-imec-icin-israili-devre-disi-birakip-suriyeden-gececek-yeni-bir-rota-degerlendiriyor/3993256",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Suudi Arabistan IMEC koridoru için İsrail'i devre dışı bırakıp Suriye üzerinden alternatif rota değerlendiriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-09T15:01:16.702094+00:00",
+  "type": "news",
+  "cluster_id": "c72b6f791918d"
+ },
+ {
+  "title": "Dışişleri Bakanı Fidan, İranlı mevkidaşı Erakçi ile telefonda görüştü",
+  "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-iranli-mevkidasi-erakci-ile-telefonda-gorustu/3993334",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Dışişleri Bakanı Fidan, İranlı mevkidaşı Erakçi ile telefonda bölgedeki gelişmeleri ve ateşkes durumunu görüştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-09T15:01:16.702094+00:00",
+  "type": "news",
+  "cluster_id": "cf6e397dd5eff"
+ },
+ {
+  "title": "AB'den Çin araç lastiklerine yüzde 45,3'e varan anti-damping vergisi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abden-cin-arac-lastiklerine-yuzde-45-3e-varan-anti-damping-vergisi/3993265",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "AB, Çin'den ithal edilen otomobil lastiklerine yüzde 45,3'e varan anti-damping vergisi uygulamaya başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-09T15:01:16.702094+00:00",
+  "type": "news",
+  "cluster_id": "c9dc5dce14f76"
+ },
+ {
+  "title": "Takeaways: Trump leaves NATO summit declaring ‘a lot of love’ with allies after a rocky start",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUnJ4emZJOHlwdVE3aEZWU1M1MGhvdThNNmlfNDF3NXpTN1RLX1N5YnJoaWtIUkxUX0plQVA0TTFCaHZKVnNCZ0dxQmdjdjJyNzRBVnhVdEptNUZBRXFkbkhTLWswV0V3MlRreFM4S0JsQ2JwM0xhMWtkWE5DVHAxQ1dXWlpmb0FlY2J0S2JnOVlMcjBVTDhNREhHWEE3UFJxaFhXRjJJQTR5ZHd3?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump NATO zirvesinden ayrılarak müttefiklerle 'çok sevgi' olduğunu duyurdu; zirvenin başında gerilimler yaşanmıştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-09T15:01:16.702094+00:00",
+  "type": "news",
+  "cluster_id": "cbbb2beeb210d"
+ },
+ {
   "title": "İran'dan bölgedeki ABD hedeflerine yeni saldırılar",
   "link": "https://www.bbc.com/turkce/articles/c0my308zd4go?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -55490,95 +55598,5 @@
   "score": 8,
   "ts": "2026-05-28T22:00:48.477540+00:00",
   "cluster_id": "cc39de862a605"
- },
- {
-  "title": "İran devlet televizyonu: ABD'ye ait hava aracı düşürüldü",
-  "link": "https://www.trthaber.com/haber/dunya/iran-devlet-televizyonu-abdye-ait-hava-araci-dusuruldu-946467.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Silahlı Kuvvetleri, Buşehr kıyısında düşman hava aracını düşürdüğünü bildirdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-28T22:00:48.477540+00:00",
-  "cluster_id": "c5b508b3d2da2"
- },
- {
-  "title": "Basra Körfezi'nde patlama sesi: 'İran Silahlı Kuvvetleri düşmana ait bir hava aracını düşürdü'",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSFlRVjhIc1gxZlhlbnFPbkNMU3hFMEp0d1pYZUE5TlZjWjBnZWx5RENtYy1CTWJtMHdPV2NyQmVkeTBUeENpbWZValA4N0tmUVZzbGhrZHZDYWNuY2JqWFB5Rnh3eEtqakpMUEZ0VjV4ZGNkUndYSWJlWEY3R1J2WmNLT3F2Tm1CdXg1TERlWWVtaHZ2QzdfT2JNN2djZVNXa2ItVlZoRXN5TTRTZzAtZUR1TUZDUTljMDVuY3B3?oc=5",
-  "source": "soL",
-  "summary_tr": "İran Silahlı Kuvvetleri, Basra Körfezi'nde düşmana ait bir hava aracını imha ettiğini açıkladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-28T22:00:48.477540+00:00",
-  "cluster_id": "c89b0e5a2ad96"
- },
- {
-  "title": "ABD'den İran ordusunun petrol satışlarına yönelik yeni yaptırımlar",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/abd-den-iran-ordusunun-petrol-satislarina-yonelik-yeni-yaptirimlar-2507676",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Hazine Bakanlığı, İran ordusunun petrol satışlarına yönelik yeni yaptırımlar uygulamaya başladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T22:00:48.477540+00:00",
-  "cluster_id": "ce4eb122904e3"
- },
- {
-  "title": "ABD, İran ordusunun petrol satışlarına yönelik yeni yaptırımlar açıkladı",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-iran-ordusunun-petrol-satislarina-yonelik-yeni-yaptirimlar-acikladi/3950849",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Hazine Bakanlığı, İran ordusunun petrol satışlarına yönelik yeni yaptırımlar uyguladığını duyurdu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T22:00:48.477540+00:00",
-  "cluster_id": "ce4eb122904e3"
- },
- {
-  "title": "US imposes fresh sanctions on Iran's military oil sales, Treasury says",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTGN5U0hILU5zdG9XalBqazFVZGtCQXZmTnY5SlZ3Y1g2d293c0tGaXM0QnpXUkRGNWxMclNJSl96YmFPYnNRd3V0aEhKSDd0eEtBcmlTX1B6VXNRZlNic0ZRMGF5dmtsU3RZdDczS1FTWFRCS2FnTEZfMkxZRnhENHVEMDh0N2VtYjl4WXhIUGV0RnVJNk80TGNBdm1xbTQzUG1pNmhySjcwVXAyNVYtSjVTaw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD Hazine Bakanlığı, İran'ın askeri petrol satışlarına karşı yeni yaptırımlar uyguladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T22:00:48.477540+00:00",
-  "cluster_id": "cf2c3babc1b0f"
- },
- {
-  "title": "İran basını duyurdu: Füzeler ateşlendi, patlama sesleri duyuldu",
-  "link": "https://www.sozcu.com.tr/iran-basini-duyurdu-fuzeler-ateslendi-p323434",
-  "source": "Sözcü",
-  "summary_tr": "İran Silahlı Kuvvetleri ülkenin güney bölgelerinde belirlenen hedeflere füze saldırısı gerçekleştirdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-28T21:01:02.455468+00:00",
-  "cluster_id": "cd166bd6496be"
- },
- {
-  "title": "İsrail savaş uçakları Gazze kentindeki Şati Mülteci Kampı’nda yerleşim alanını hedef aldı",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-savas-ucaklari-gazze-kentindeki-sati-multeci-kampi-nda-yerlesim-alanini-hedef-aldi/3950827",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail savaş uçakları Gazze'nin Şati Mülteci Kampı'nda yerleşim alanına hava saldırısı düzenlediler.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T21:01:02.455468+00:00",
-  "cluster_id": "cd8adf03dbf74"
- },
- {
-  "title": "US imposes sanctions on Iranian agency trying to control shipping in the Strait of Hormuz",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdzVSVFY2TFF5NkdUcmhYQzN3REgzdXoxVXV5eF9tZ1E1bXFNOTAxS2FMRFpqajQwZXZPYjlsLUMwZkJodExnTlFhT2JOdE1zZEdSNVZvdW0tVU9BV3BnQnhEa3NIZTRoSGE5cVhRWXRORUI2cms4elNUU2tfemVzc3BnUTF6X1RGQWtmaWM0ellXek9yNmh1ZGZJNEttR1U?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD, İran'ın Hormuç Boğazı'ndaki nakliye kontrolünü sağlamaya çalışan ajansal üzerine yaptırım uyguladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T21:01:02.455468+00:00",
-  "cluster_id": "c61c19a417b8e"
- },
- {
-  "title": "ABD basını anlaşmaya varıldığını iddia etti, İran basını yalanladı",
-  "link": "https://www.trthaber.com/haber/dunya/abd-basini-anlasmaya-varildigini-iddia-etti-iran-basini-yalanladi-946455.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD ve İran'ın ateşkes uzatılması ve nükleer program görüşmeleri için 60 günlük süre konusunda anlaşmazlık yaşanıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T20:00:55.017954+00:00",
-  "cluster_id": "caf3ecb652d23"
  }
 ]
