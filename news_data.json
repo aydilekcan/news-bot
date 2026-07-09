@@ -1,5 +1,29 @@
 [
  {
+  "title": "Soma'da 1361 madenci için kritik gün: Maden ocağında faaliyetler durdu",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/soma-da-1361-madenci-icin-kritik-gun-maden-ocaginda-faaliyetler-durdu-2519498",
+  "source": "Cumhuriyet",
+  "summary_tr": "Soma'daki Yeni Anadolu Madencilik maden ocağında 1361 madenci için faaliyetler durdu; uzun belirsizliğin ardından yeni bir süreç başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-09T17:01:05.845332+00:00",
+  "type": "news",
+  "cluster_id": "cb3e65c23cce7"
+ },
+ {
+  "title": "Bakan Çiftçi Türkiye’deki Suriyelilerin sayısını açıkladı: Her gün kaç kişi geri dönüyor?",
+  "link": "https://www.sozcu.com.tr/bakan-ciftci-turkiye-deki-suriyelilerin-sayisini-acikladi-her-gun-kac-kisi-geri-donuyor-p335160",
+  "source": "Sözcü",
+  "summary_tr": "İçişleri Bakanı Çiftçi, Türkiye'deki geçici korunmadaki Suriyeli sayısının 2 milyon 245 bin olduğunu açıkladı.",
+  "metric": "Suriyeliler 2.245.000",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-09T17:01:05.845332+00:00",
+  "type": "news",
+  "cluster_id": "c67576176db30"
+ },
+ {
   "title": "Almanya ABD'den Tomahawk füzesi alacak",
   "link": "https://www.dw.com/tr/almanya-abd-den-tomahawk-füzesi-alacak/a-77893542?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -55582,25 +55606,5 @@
   "score": 7,
   "ts": "2026-05-29T00:00:58.486806+00:00",
   "cluster_id": "c941ad8d216eb"
- },
- {
-  "title": "ABD'li yetkililer İran'la ateşkes çerçevesinde uzlaştıklarını söylüyor",
-  "link": "https://www.bbc.com/turkce/articles/crmprnxkwnro?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD yetkililerine göre İran'la ateşkes çerçevesinde uzlaşma sağlandı, ancak Trump ve İran yönetiminin onayı bekleniyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-28T23:00:49.787897+00:00",
-  "cluster_id": "c925d2e946b1c"
- },
- {
-  "title": "İsrail'in Lübnan'a bayramın ikinci gününde düzenlediği saldırılarda 28 kişi öldü",
-  "link": "https://www.aa.com.tr/tr/dunya/israilin-lubnana-bayramin-ikinci-gununde-duzenledigi-saldirilarda-28-kisi-oldu/3950854",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail, Kurban Bayramı'nın ikinci gününde Lübnan'a 108 saldırı düzenleyerek 28 kişiyi öldürdü.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-28T23:00:49.787897+00:00",
-  "cluster_id": "ca1e56687180c"
  }
 ]
