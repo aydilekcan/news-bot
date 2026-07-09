@@ -1,5 +1,65 @@
 [
  {
+  "title": "ABD'nin İran'a saldırıları sürüyor: Ülkenin güneyinde patlama sesleri!",
+  "link": "https://www.cumhuriyet.com.tr/dunya/abd-nin-iran-a-saldirilari-suruyor-3-kentte-patlama-sesleri-2519519",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran'ın güney bölgelerinde patlama sesleri duyuluyor; ABD'nin saldırıları sürüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T19:01:13.965258+00:00",
+  "type": "news",
+  "cluster_id": "c89f5d51d41f3"
+ },
+ {
+  "title": "ABD bir kez daha İran'a saldırı başlattı",
+  "link": "https://www.sozcu.com.tr/abd-bir-kez-daha-iran-a-saldiri-baslatti-p335182",
+  "source": "Sözcü",
+  "summary_tr": "ABD, İran'ın Sistan-Beluçistan, Buşehr ve Hürmüzgan eyaletlerine saldırı düzenliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T19:01:13.965258+00:00",
+  "type": "news",
+  "cluster_id": "c61eb9d576935"
+ },
+ {
+  "title": "Erdoğan'dan 'NATO Zirvesi' paylaşımı: Ankaralılara teşekkür etti, Trump görüşmesine değindi",
+  "link": "https://www.sozcu.com.tr/erdogan-dan-nato-zirvesi-paylasimi-9-tammuz-2026-p335180",
+  "source": "Sözcü",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, Ankara'da düzenlenen NATO Zirvesi'ni tamamladığını ve Trump ile görüştüğünü açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-09T19:01:13.965258+00:00",
+  "type": "news",
+  "cluster_id": "cc6723a7f4ab1"
+ },
+ {
+  "title": "Rusya: İran'la ilgili meselenin sonlandırılması gerekiyor",
+  "link": "https://www.aa.com.tr/tr/dunya/rusya-iranla-ilgili-meselenin-sonlandirilmasi-gerekiyor/3993611",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Rusya Dışişleri Bakanı Lavrov, İran meselesinin tüm tarafların katılımı ile sonlandırılması gerektiğini belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-09T19:01:13.965258+00:00",
+  "type": "news",
+  "cluster_id": "cefb145850be0"
+ },
+ {
+  "title": "Cumhurbaşkanı Erdoğan: 36'ncı NATO Zirvesi'ni başarıyla tamamladık",
+  "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-36nci-nato-zirvesini-basariyla-tamamladik-950796.html",
+  "source": "TRT Haber",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, Türkiye'nin ev sahipliğinde gerçekleştirilen 36. NATO Zirvesi'nin başarıyla tamamlandığını açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-09T19:01:13.965258+00:00",
+  "type": "news",
+  "cluster_id": "c510f9240237a"
+ },
+ {
   "title": "Erdoğan'dan 'NATO' mesajları... Ankaralılara teşekkür etti, Trump ile 'masada' olan konuları hatırlattı",
   "link": "https://www.cumhuriyet.com.tr/siyaset/erdogan-dan-nato-mesajlari-ankaralilara-tesekkur-etti-trump-ile-masada-olan-konulari-hatirlatti-2519509",
   "source": "Cumhuriyet",
@@ -55574,55 +55634,5 @@
   "score": 6,
   "ts": "2026-05-29T07:01:00.743661+00:00",
   "cluster_id": "c84029d8f9241"
- },
- {
-  "title": "NATO'yu ayağa kaldıran olay: Rus İHA'sı Romanya'yı vurdu",
-  "link": "https://www.sozcu.com.tr/nato-yu-ayaga-kaldiran-olay-rus-iha-si-romanya-yi-vurdu-p323484",
-  "source": "Sözcü",
-  "summary_tr": "Rus kamikaze İHA'sı NATO üyesi Romanya'da apartmana çarparak 2 kişiyi yaraladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-29T06:00:52.637348+00:00",
-  "cluster_id": "c79ca580046c6"
- },
- {
-  "title": "NATO member Romania says Russian drone hit block of flats, injuring two",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY0FxTTNJMUZNTG1PVnRLd2daS2VBbUl4S2lPZjNLUFlRTnItSWlrdW5SQU03T3lsc0VrTm1NVVVMUUt4ODNyOU9ld0FqTEFOQkJjSG9rTUg0SlJTNzE1UC1KaWtTT0IyZTlwTzhLTjBqbUdMeC1iYWxUeGJxZW9vSU9UaU1GbDQyVVcwWUFjcGtmVTdSaWpzWWl5QjV4S1Bwemw0QjI5dG1mZmhuZ0FpME9zbkdqSFdHUkExS2N3blhNSlZYcTdF?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Rus İHA'sı NATO üyesi Romanya'da sivillere çarparak 2 kişiyi yaraladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-29T06:00:52.637348+00:00",
-  "cluster_id": "c3e7d334f7a49"
- },
- {
-  "title": "Oil falls over 1% on reports of potential US-Iran ceasefire deal",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNME9kd0xNOHBUWk45Q05sRmpnQlBXN3h5VW95NVR5clRwalJRR28wcHhSMjgxVnAtcU9peTBIeXBXX25CU3luOUtsZ0I1VTE5bEhnalNsci11UXo3SlRQUVk2R0NEUHZHYmFrc2o0QVNkTGJUYkRhWUI0cmtRNHQxdS16T2g3MnhvajU4b25iTmpoYkNwa003MmpneThDZTI5cXdNWlV6TUoyNHNIYTJfTg?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD ve İran arasında ateşkes anlaşmasına dair söylentiler üzerine petrol fiyatları %1'den fazla düştü.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-29T05:00:55.943277+00:00",
-  "cluster_id": "c767504b7c80d"
- },
- {
-  "title": "İsrailden Lübnana bayramda 108 saldırı: 28 ölü",
-  "link": "https://www.trthaber.com/haber/dunya/israilden-lubnana-bayramda-108-saldiri-28-olu-946471.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail, Kurban Bayramı'nın ikinci gününde Lübnan'ın çeşitli bölgelerine 108 saldırı düzenleyerek 28 kişinin ölümüne neden oldu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-29T04:00:50.768174+00:00",
-  "cluster_id": "c760e0f7db75a"
- },
- {
-  "title": "Two injured as drone hits Romanian apartment building close to Ukraine border",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY0FxTTNJMUZNTG1PVnRLd2daS2VBbUl4S2lPZjNLUFlRTnItSWlrdW5SQU03T3lsc0VrTm1NVVVMUUt4ODNyOU9ld0FqTEFOQkJjSG9rTUg0SlJTNzE1UC1KaWtTT0IyZTlwTzhLTjBqbUdMeC1iYWxUeGJxZW9vSU9UaU1GbDQyVVcwWUFjcGtmVTdSaWpzWWl5QjV4S1Bwemw0QjI5dG1mZmhuZ0FpME9zbkdqSFdHUkExS2N3blhNSlZYcTdF?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ukrayna sınırına yakın Romanya'daki bir apartman binasına düşen drone iki kişiyi yaraladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T04:00:50.768174+00:00",
-  "cluster_id": "cabb2f9169902"
  }
 ]
