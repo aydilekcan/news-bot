@@ -1,5 +1,113 @@
 [
  {
+  "title": "İran'dan bölgedeki ABD hedeflerine yeni saldırılar",
+  "link": "https://www.bbc.com/turkce/articles/c0my308zd4go?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "İran, ABD'nin Huzistan bölgesindeki saldırılarına misilleme olarak yeni saldırılar düzenleyecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-09T14:01:23.424804+00:00",
+  "type": "news",
+  "cluster_id": "cebe4020bb25c"
+ },
+ {
+  "title": "İran Devrim Muhafızları Ordusu, Ürdün'deki ABD Hava Üssünün hedef alındığını duyurdu",
+  "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-ordusu-urdundeki-abd-hava-ussunun-hedef-alindigini-duyurdu-950780.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Devrim Muhafızları Ordusu, Batı Asya'daki ABD komuta merkezlerini hedef aldığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-09T14:01:23.424804+00:00",
+  "type": "news",
+  "cluster_id": "c9a6aab01d843"
+ },
+ {
+  "title": "Bakan Şimşek: TL mevduatın toplamdaki payı yüzde 62 ile 11 yılın en yüksek seviyelerinde",
+  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-tl-mevduatin-toplamdaki-payi-yuzde-62-ile-11-yilin-en-yuksek-seviyelerinde/3993300",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Maliye Bakanı Şimşek: TL mevduatın pay yüzde 62 ile 11 yılın en yüksek seviyesine ulaştı.",
+  "metric": "TL mevduatın payı %62 (11 yılın zirvesi)",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-09T14:01:23.424804+00:00",
+  "type": "news",
+  "cluster_id": "c83a6aa556c8c"
+ },
+ {
+  "title": "ABD'nin İran'ın Huzistan eyaletine saldırılarında 3 asker öldü",
+  "link": "https://www.trthaber.com/haber/dunya/abdnin-iranin-huzistan-eyaletine-saldirilarinda-3-asker-oldu-950776.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD'nin İran Huzistan eyaletine hava saldırılarında 3 Devrim Muhafızları Ordusu mensup öldü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T14:01:23.424804+00:00",
+  "type": "news",
+  "cluster_id": "c5133ba302aaa"
+ },
+ {
+  "title": "ING, dolarda değer kaybı bekliyor",
+  "link": "https://www.diken.com.tr/ing-dolarda-deger-kaybi-bekliyor/?utm_source=rss&utm_medium=rss&utm_campaign=ing-dolarda-deger-kaybi-bekliyor",
+  "source": "Diken",
+  "summary_tr": "ING, dolar/TL kurunda yıl sonu ve 2027'de değer kaybı beklediğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-09T14:01:23.424804+00:00",
+  "type": "news",
+  "cluster_id": "c28f4683436d3"
+ },
+ {
+  "title": "Rekabet Kurumu onay verdi: Türkiye'nin 88 yıllık gıda devi el değiştirdi",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/rekabet-kurumu-onay-verdi-turkiye-nin-88-yillik-gida-devi-el-degistirdi-2519451",
+  "source": "Cumhuriyet",
+  "summary_tr": "Rekabet Kurumu, Seğmen Kardeşler Gıda'nın çoğunluk hisselerinin milyonluk devrine onay verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-09T14:01:23.424804+00:00",
+  "type": "news",
+  "cluster_id": "c8d51611e8b4a"
+ },
+ {
+  "title": "Bakan Bayraktar: (Irak-Türkiye boru hattı) Önümüzdeki 12 ayı kapsayacak anlaşmayı son aşamasına getirdik",
+  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-irak-turkiye-boru-hatti-onumuzdeki-12-ayi-kapsayacak-anlasmayi-son-asamasina-getirdik/3993277",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Enerji Bakanı Bayraktar: Irak-Türkiye boru hattı anlaşması son aşamada, önümüzdeki 12 ayı kapsayacak.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-09T14:01:23.424804+00:00",
+  "type": "news",
+  "cluster_id": "cc8fcfa324145"
+ },
+ {
+  "title": "Bakan Bayraktar: Irak'tan Ceyhan'a petrol akışı devam edecek",
+  "link": "https://www.trthaber.com/haber/gundem/bakan-bayraktar-iraktan-ceyhana-petrol-akisi-devam-edecek-950779.html",
+  "source": "TRT Haber",
+  "summary_tr": "Enerji Bakanı Bayraktar: Irak'tan Ceyhan'a petrol akışı devam edecek.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-09T14:01:23.424804+00:00",
+  "type": "news",
+  "cluster_id": "c258fec225fa8"
+ },
+ {
+  "title": "S&P 500, Nasdaq open higher as chip stocks gain; US-Iran tensions in focus",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWlJrcUhGNjUtY2dOX1RQcWxqNW1KNGtrZU9uYU5KSjZiaDdZM3ozU1BZUjR4WmJyLVJjLW9yYjJGRHdSSEo4T0NNVUQ1T2VHN19keUtvRklORURPYUhtS0hUR2NJWnRIcnd3VFRLdGpDTmcwSnA0WHcxSUJ2RHhrNG1hOWUycm5kUjl6OHhoTjhSNVZXRmFUVnRMclJYMW9FdXRJZ1VLSkFrbmxRWVg5N3Z5c3M?oc=5",
+  "source": "Reuters",
+  "summary_tr": "S&P 500 ve Nasdaq yüksek açıldı; çip hisseleri kazanç gösterirken ABD-İran gerilimi odak noktasında.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-09T14:01:23.424804+00:00",
+  "type": "news",
+  "cluster_id": "cb276b54b041a"
+ },
+ {
   "title": "Ek ödeme tutarındaki kritik formül: e-Devlet üzerinden zamlı emekli maaşı nasıl hesaplanır?",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/ek-odeme-tutarindaki-kritik-formul-e-devlet-uzerinden-zamli-emekli-maasi-nasil-hesaplanir-2519434",
   "source": "Cumhuriyet",
@@ -55472,95 +55580,5 @@
   "score": 7,
   "ts": "2026-05-28T20:00:55.017954+00:00",
   "cluster_id": "caf3ecb652d23"
- },
- {
-  "title": "US should send Ukraine more air defence missiles, congressmen say",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLU1NTjdIZEhKR2w4ckI1ZGo4SmlEUk41cTFmb05jMmpXYWRjdWpteUt6ZTZXSG5KcHBGdGExTDNzX3ljS2FBanMtMy1fVzY2SjRwd21pcTItYlJGNGt1QTBmaGVIRzJXZ2hfX09NbmVmTFA3UXNzU3JxZ1F4Skpnb2YzQTBWVkw1aU40c0Q2bHpINzE5RXprcjZyN3NmTkxEVUJQTWpzckFnQkJRcHRvWUl4QzNXX0lO?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD kongre üyeleri, Ukrayna'ya daha fazla hava savunma füzesi gönderilmesini talep etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T20:00:55.017954+00:00",
-  "cluster_id": "c6c364f21482f"
- },
- {
-  "title": "Özgür Özel'den tutuklu Mustafa Günay'ın ailesine ziyaret",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-den-tutuklu-mustafa-gunay-in-ailesine-ziyaret-2507629",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel, tutuklanan Güzelbahçe Belediye Başkanı Mustafa Günay'ın ailesini ziyaret etti.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-28T20:00:55.017954+00:00",
-  "cluster_id": "c6dccab5c5bcf"
- },
- {
-  "title": "Özgür Özel'den Kılıçdaroğlu'na 'grup toplantısı' yanıtı: Meclis iç tüzüğü bellidir, Allah sağlık verirse grup başkanlığı boşalmıyor",
-  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FZXlVRXBpOHVsMENxc3l0YlVJMXp1QjZFVkhaT1VJSEZtZVdRYjhtU1RXNG5wN2VGUG9SVnEzcXJLTFlyY20wTGcwTVFWYUJsbk1zU0xqR2ZtUQ?oc=5",
-  "source": "T24",
-  "summary_tr": "Özgür Özel, Kılıçdaroğlu'na yanıt verdi: Meclis iç tüzüğüne göre grup başkanlığı boş değildir.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-28T20:00:55.017954+00:00",
-  "cluster_id": "c2180ce14f45e"
- },
- {
-  "title": "Özel'den Kılıçdaroğlu'na: 'Ben kurultaydan grup başkanı seçilmiştim'",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMnRxWUdkaERNNGZGN1ZHVzNiV21HdW52WVZJUllIeUJBS2Nnd2RZMVNqN0g1WlBfRmllbnV5MjRsZnl6dXBwX0xYa0tycTZ6dF9iYjNEcnJEeDducWdKQzZlS0NzOFpzbWVjV1U3TU5YV2FCM2t2UWRxdnNfUmllVm1tTGxueXBlbXZZVThXUVhHV21VcFBjcFF3cUVZbU8zYUhj?oc=5",
-  "source": "soL",
-  "summary_tr": "Özgür Özel, Kılıçdaroğlu'na cevap verdi: Ben kurultaydan grup başkanı seçilmiştim.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-28T20:00:55.017954+00:00",
-  "cluster_id": "c815378a4e81a"
- },
- {
-  "title": "US-Iran MOU on 60-day ceasefire extension reached, but Trump must approve, sources say",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcmtYNmpNOXg4SFczcnFmbWt0UDhOMktQZmtQcHQ2TE14QnV1ZkVvY2FtakZWRWNPaHlPZGI0WEp3ODViVVhSR05ldV85SDFVS2Vqa1JjZWJqX1BuUFh2QUFBaWgtZlRSd20xZEFYUlZhTG84VTRMd1hMay1LSE9aSTNqTDY1dlNLNnc2UlpIMThjUFJxOVlrTVhIV0pjbkZoMnlMdm5meDZPU2ZUbGRnSW5aUDdXM21uWHk4dEh4b3NGcm50OElUZF9wOA?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD-İran arasında 60 günlük ateşkes uzatma anlaşmasına varıldı; Trump'ın onayı bekleniyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-28T19:00:53.552748+00:00",
-  "cluster_id": "cb62dc4be09e4"
- },
- {
-  "title": "Temu'ya 200 milyon euro para cezası verildi",
-  "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/temu-ya-200-milyon-euro-para-cezasi-verildi-2507610",
-  "source": "Cumhuriyet",
-  "summary_tr": "AB Komisyonu, Dijital Hizmetler Yasası ihlali gerekçesiyle Temu'ya 200 milyon euro para cezası verdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T18:00:59.934430+00:00",
-  "cluster_id": "cae4a45141ee7"
- },
- {
-  "title": "ABD uçakları İran savaşı için konuşlandıkları İsrail havalimanını iki ayda 248 milyon dolar zarara uğrattı",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-ucaklari-iran-savasi-icin-konuslandiklari-israil-havalimanini-iki-ayda-248-milyon-dolar-zarara-ugratti/3950712",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD uçakları, İsrail'deki Ben Gurion Havalimanı'nda iki ayda 248 milyon dolar zarara neden oldu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T18:00:59.934430+00:00",
-  "cluster_id": "cb3a8975a82d1"
- },
- {
-  "title": "US warns Oman not to engage in facilitating tolls for Strait of Hormuz",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZnQwUlAxaC1KeEhsZjJtd0duLU03eEN0R1pMT1E2NFJRN2IxTzVHLWxFd2l6UGhoSUZNeWc5RGVhNUFXMlBwcUF2TV9JeWhsY1I2NXAwUXZLZEJjWlFNWlRGUGwxaGNYRXN2QmNvc0lsN2FXNnlEUmlaR2xBdFc1dXFZcTJ3S2pNcGVBSlhLYzlSMk5kZjdUalcyRmRQQ3NheXNwZHF3RW9DNTU5dG1GLQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, Umman'ı Hürmüz Boğazı'nda geçiş ücreti talep etmemeye uyardı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T18:00:59.934430+00:00",
-  "cluster_id": "c17b816cc5bdf"
- },
- {
-  "title": "Drones hit 3 ‘shadow fleet’ oil tankers off Turkey’s Black Sea coast",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORnhzbzNlVEhQOXo0bUppNWJ5WUdvLXdsV0dvdk5lNG5Fem53VlFpVm9kMkNGNzRWUlhpdC1kRFJERGR3Z0dSck13SldRX1ZVamk0aTVwOGxfbm1laEpyV0lRMkRpbWZzeVFLQkZBOHozQWxlemFtUmV0Umt6OUk0UDFxOVJiZTRkZEZfQnJ6dWFEemJQUVU5LVRNOHJobmRYN2c?oc=5",
-  "source": "AP",
-  "summary_tr": "İnsansız hava araçları Türkiye'nin Karadeniz kıyısı açında 3 'gölge filo' tanker petrol gemisini vurdu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T18:00:59.934430+00:00",
-  "cluster_id": "c76f23e5d30b2"
  }
 ]
