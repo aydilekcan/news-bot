@@ -1,5 +1,113 @@
 [
  {
+  "title": "Trump \"kalkacak\" dedi: CAATSA için yol haritası ne?",
+  "link": "https://www.dw.com/tr/trump-kalkacak-dedi-caatsa-için-yol-haritası-ne/a-77867066?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Trump, NATO Zirvesi'nde CAATSA yaptırımlarını kaldıracağını söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-09T09:01:14.895336+00:00",
+  "type": "news",
+  "cluster_id": "cc36a321d4f63"
+ },
+ {
+  "title": "Ankara NATO Zirvesi: Güvenlik Vardı, Peki Barış?",
+  "link": "https://yetkinreport.com/2026/07/09/ankara-nato-zirvesi-guvenlik-vardi-peki-baris/",
+  "source": "YetkinReport",
+  "summary_tr": "Ankara NATO Zirvesi'nde güvenlik konuları ele alındı ancak barış perspektifi tartışılmıştır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T09:01:14.895336+00:00",
+  "type": "news",
+  "cluster_id": "c3035e00b7e31"
+ },
+ {
+  "title": "Türkiye o üç balığı dünyaya satarak milyar dolarlar kazandı: Rusya ve İtalya sıraya girdi",
+  "link": "https://www.sozcu.com.tr/turkiye-o-uc-baligi-dunyaya-satarak-milyar-dolarlar-kazandi-rusya-ve-italya-siraya-girdi-p335028",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye su ürünleri ihracatını yılın ilk yarısında %14 artırarak 1,11 milyar dolara çıkardı.",
+  "metric": "Su ürünleri ihracatı -> 1 milyar 110 milyon dolar (+%14)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T09:01:14.895336+00:00",
+  "type": "news",
+  "cluster_id": "c1e8f052b1f90"
+ },
+ {
+  "title": "Netanyahu F-35 kararının önüne geçmek için Washington'a gidiyor",
+  "link": "https://www.sozcu.com.tr/netanyahu-f-35-kararinin-onune-gecmek-icin-washington-a-gidiyor-p335020",
+  "source": "Sözcü",
+  "summary_tr": "Netanyahu, F-35 kararı ile ilgili Trump ile görüşmek için ABD'yi ziyaret edecek; Türkiye konusu gündemde.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T09:01:14.895336+00:00",
+  "type": "news",
+  "cluster_id": "cbadd4c56765d"
+ },
+ {
+  "title": "Türkiye'nin su ürünleri ihracatı ilk yarıda 1 milyar doları aşarak rekor kırdı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-su-urunleri-ihracati-ilk-yarida-1-milyar-dolari-asarak-rekor-kirdi/3992833",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye su ürünleri ihracatını yılın ilk yarısında %14 artırarak 1,11 milyar dolara çıkarttı, ilk kez ocak-haziran rekorunu kırdı.",
+  "metric": "Su ürünleri ihracatı -> 1 milyar 110 milyon dolar (+%14)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T09:01:14.895336+00:00",
+  "type": "news",
+  "cluster_id": "c16d17a90d67d"
+ },
+ {
+  "title": "Su ürünleri ihracatı ilk yarıda 1 milyar doları aştı",
+  "link": "https://www.trthaber.com/haber/ekonomi/su-urunleri-ihracati-ilk-yarida-1-milyar-dolari-asti-950749.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye su ürünleri ihracatını yılın ilk yarısında %14 artırarak 1,11 milyar dolara ulaştı.",
+  "metric": "Su ürünleri ihracatı -> 1 milyar 110 milyon dolar (+%14)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T09:01:14.895336+00:00",
+  "type": "news",
+  "cluster_id": "c16d17a90d67d"
+ },
+ {
+  "title": "Konya savunma ve havacılık sanayisi ihracatını yılın ilk yarısında yüzde 13,5 artırdı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/konya-savunma-ve-havacilik-sanayisi-ihracatini-yilin-ilk-yarisinda-yuzde-13-5-artirdi/3992869",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Konya savunma ve havacılık sanayisi ihracatını yılın ilk yarısında %13,5 artırarak 107 milyon dolara ulaştırdı.",
+  "metric": "Savunma ve havacılık sanayi ihracatı +%13,5",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-09T09:01:14.895336+00:00",
+  "type": "news",
+  "cluster_id": "c2c3f8ed9613f"
+ },
+ {
+  "title": "Otomotiv sektöründen 8 milyar dolarlık yan sanayi ürünü ihracatı",
+  "link": "https://www.trthaber.com/haber/ekonomi/otomotiv-sektorunden-8-milyar-dolarlik-yan-sanayi-urunu-ihracati-950754.html",
+  "source": "TRT Haber",
+  "summary_tr": "Otomotiv yan sanayi sektörü ocak-haziran döneminde 8,09 milyar dolarlık ihracat gerçekleştirdi.",
+  "metric": "Otomotiv yan sanayi ihracatı -> 8 milyar 86 milyon dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-09T09:01:14.895336+00:00",
+  "type": "news",
+  "cluster_id": "cd462263d65f6"
+ },
+ {
+  "title": "Kimyevi maddeler ve mamulleri ihracatında rekor",
+  "link": "https://www.trthaber.com/haber/ekonomi/kimyevi-maddeler-ve-mamulleri-ihracatinda-rekor-950747.html",
+  "source": "TRT Haber",
+  "summary_tr": "Kimyevi maddeler ve mamulleri sektörü yılın ilk 6 ayında 17,1 milyar dolarlık rekor ihracat gerçekleştirdi.",
+  "metric": "Kimyevi maddeler ihracatı -> 17,1 milyar dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-09T09:01:14.895336+00:00",
+  "type": "news",
+  "cluster_id": "ccf9901bcacc8"
+ },
+ {
   "title": "ABD ve İran'dan karşılıklı saldırılar: Tahran, Körfez'deki üsleri hedef aldı",
   "link": "https://www.bbc.com/turkce/articles/c0my308zd4go?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -55400,95 +55508,5 @@
   "score": 8,
   "ts": "2026-05-28T14:01:08.672450+00:00",
   "cluster_id": "cbec7d940bdea"
- },
- {
-  "title": "Tam 40 kat birden artarak 5 milyara dayandı! En büyük banknotta tarihi rekor",
-  "link": "https://www.sozcu.com.tr/tam-40-kat-birden-artarak-5-milyara-dayandi-en-buyuk-banknotta-tarihi-rekor-p323377",
-  "source": "Sözcü",
-  "summary_tr": "Merkez Bankası verilerine göre Türk lirası satın alma gücü 2013'ten bu yana 40 kat eridi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-28T14:01:08.672450+00:00",
-  "cluster_id": "c93c545cf17a9"
- },
- {
-  "title": "Kılıçdaroğlu: Grup toplantısı tarihi henüz belirlenmedi",
-  "link": "https://www.diken.com.tr/kilicdaroglu-grup-toplantisi-tarihi-henuz-belirlenmedi/?utm_source=rss&utm_medium=rss&utm_campaign=kilicdaroglu-grup-toplantisi-tarihi-henuz-belirlenmedi",
-  "source": "Diken",
-  "summary_tr": "Kılıçdaroğlu, mahkeme kararıyla gelen CHP genel başkanlığında grup toplantısı tarihinin henüz belirlenmediğini açıkladı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-28T14:01:08.672450+00:00",
-  "cluster_id": "cf60ddfd8443f"
- },
- {
-  "title": "'Grup toplantısı' hamlesine CHP'li Emir'den yanıt geldi: 'Kılıçdaroğlu’nun yetkisi ve onayı söz konusu değildir'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/grup-toplantisi-hamlesine-chp-li-emir-den-yanit-geldi-kilicdaroglu-nun-yetkisi-ve-onayi-soz-konusu-degildir-2507564",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'li Emir, Kılıçdaroğlu'nun grup toplantısı konusunda talimatı olmadığını, bunun yetki ve onayı dışında olduğunu yanıtladı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-28T14:01:08.672450+00:00",
-  "cluster_id": "cb2054e3bf5cc"
- },
- {
-  "title": "CHP'deki krize yeni randevu! Grup toplantısı yapılacak mı yapılmayacak mı?",
-  "link": "https://www.sozcu.com.tr/chp-deki-krize-yeni-randevu-grup-toplantisi-yapilacak-mi-yapilmayacak-mi-p323386",
-  "source": "Sözcü",
-  "summary_tr": "Kılıçdaroğlu, talimatı dışında CHP grup toplantısı yapılmayacağını açıkladı; parti içinde yeni kriz ortaya çıktı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-28T14:01:08.672450+00:00",
-  "cluster_id": "c89ef7c975b2d"
- },
- {
-  "title": "Kılıçdaroğlu Parti Meclisi toplantısı yapmayacak: Dengeler kimin lehine, toplantı neden ertelendi?",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTmtXN1BKSi04LWVyYXo1YWw5SHo5ampSdVR2MTZiVDZCZ2hob3JzV3FXV2RRMXNPUDE1LVU5YmljOE5mMGhScVFVTXltb2hXSTQtOHFtOGN3aXRyb2d3YU02MVhkOUp4dnRRbjZVUkY3SVc3UWRRWENIU09DeVViWEZMV2psNVZwV2J1UmlKNURLMkpkMFFCX2ViUFpzUWlwR18tSldRZ2VvWWs0U1R0ZWd2bU13YUZBZUoxQjRpNEJDZHZrYXppdw?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Kılıçdaroğlu Parti Meclisi toplantısını yapmayacak; CHP içinde denge değişimi analiz ediliyor.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-28T14:01:08.672450+00:00",
-  "cluster_id": "c4e28f2f3f9d5"
- },
- {
-  "title": "Kılıçdaroğlu'ndan yeni hamle: 'Talimatım dışında grup toplantısı yapılmayacak'",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmVGc3EzTVVPMHcyWEp5RTdjaXRzZ2xOY1BRX1JwT1phNVhQeDlYMDRPOTNCMGd0emJBZ2c5a0p4S2E5R2xLOXY0NTdpaE5tWlRzb2tZN1FfTWJMeGhEQ29YWVZxZWU0Z0hicGtiNUp5XzZRdXpBa29vNHp0QTRROXR4S2hhdGtRcHY1RUtvaGtaVGtybjluTTR6NzA5NFRnRGV4LVhhRGt6WktEbHBPdmV3?oc=5",
-  "source": "soL",
-  "summary_tr": "Kılıçdaroğlu, talimatı dışında grup toplantısı yapılmayacağını açıkladı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-28T14:01:08.672450+00:00",
-  "cluster_id": "c873496bd9451"
- },
- {
-  "title": "DEM Partili Buldan'dan 'süreç' çağrısı: 'Bir an önce yasal zeminin oluşturulması gerekiyor'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/dem-partili-buldan-dan-surec-cagrisi-bir-an-once-yasal-zeminin-olusturulmasi-gerekiyor-2507560",
-  "source": "Cumhuriyet",
-  "summary_tr": "DEM Partili Buldan, 'Terörsüz Türkiye' süreci için yasal zeminin oluşturulması gerektiğini vurguladı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-28T14:01:08.672450+00:00",
-  "cluster_id": "ca2ed7f7fb1d4"
- },
- {
-  "title": "Yasa dışı ürün satan dünya devi Temu'ya Avrupa'dan 200 milyon euro ceza!",
-  "link": "https://www.sozcu.com.tr/yasa-disi-urun-satan-dunya-devi-temu-ya-avrupa-dan-200-milyon-euro-ceza-p323394",
-  "source": "Sözcü",
-  "summary_tr": "AB Komisyonu, Dijital Hizmetler Yasası'nı ihlal ettiği gerekçesiyle Temu'ya 200 milyon euro ceza verdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-28T14:01:08.672450+00:00",
-  "cluster_id": "c3a5eca46b06c"
- },
- {
-  "title": "ABD verileri açıklandı: Piyasalar hareketlendi",
-  "link": "https://www.sozcu.com.tr/abd-verileri-aciklandi-altin-ve-gumus-dususlerini-dizginledi-p323382",
-  "source": "Sözcü",
-  "summary_tr": "ABD ekonomisi ilk çeyrek sonuçlarında yüzde 1,6 büyüme kaydetti; tahminlerin altında kaldı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-28T14:01:08.672450+00:00",
-  "cluster_id": "c0bd0d34ab051"
  }
 ]
