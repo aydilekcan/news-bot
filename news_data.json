@@ -1,5 +1,77 @@
 [
  {
+  "title": "Altın fiyatları için 14 Temmuz uyarısı: Her şey altüst olabilir",
+  "link": "https://www.sozcu.com.tr/altin-fiyatlari-icin-14-temmuz-uyarisi-her-sey-altust-olabilir-p334947",
+  "source": "Sözcü",
+  "summary_tr": "ABD haziran enflasyon verisi 14 Temmuz'da açıklanacak; altın fiyatlarında önemli hareketlilik bekleniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T06:01:19.763644+00:00",
+  "type": "news",
+  "cluster_id": "cea52ed902eff"
+ },
+ {
+  "title": "Türkiye'nin dev santrali icradan satışa çıktı: Bedeli belli oldu",
+  "link": "https://www.sozcu.com.tr/turkiye-nin-dev-santrali-icradan-satisa-cikti-bedeli-belli-oldu-p334946",
+  "source": "Sözcü",
+  "summary_tr": "Soma B Termik Santral icradan satışa çıktı; Konya Şeker'in 20 milyar TL'yi aşan borcu nedeniyle icralık hale geldi.",
+  "metric": "Borç tutarı 20+ milyar TL",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T06:01:19.763644+00:00",
+  "type": "news",
+  "cluster_id": "cfc23245474e3"
+ },
+ {
+  "title": "BofA altın tahminini düşürdü",
+  "link": "https://www.diken.com.tr/bofa-altin-tahminini-dusurdu/?utm_source=rss&utm_medium=rss&utm_campaign=bofa-altin-tahminini-dusurdu",
+  "source": "Diken",
+  "summary_tr": "Bank of America altın tahminini %14 düşürdü.",
+  "metric": "Altın tahmini %14 indirildi",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-09T06:01:19.763644+00:00",
+  "type": "news",
+  "cluster_id": "c81ab7f4d50d9"
+ },
+ {
+  "title": "Altında rüzgar tersine döndü: İşte 15 küresel devin yıl sonu tahminleri",
+  "link": "https://www.sozcu.com.tr/altinda-ruzgar-tersine-dondu-iste-15-kuresel-devin-yil-sonu-tahminleri-p334938",
+  "source": "Sözcü",
+  "summary_tr": "Küresel finans devleri altına yönelik yıl sonu tahminlerini Fed faiz artışı beklentisiyle revize ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-09T06:01:19.763644+00:00",
+  "type": "news",
+  "cluster_id": "c24a20fb02d14"
+ },
+ {
+  "title": "Japan benchmark bond yield extends rise after hitting 30-year high",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQ2VaM2wyWXJ2MHBHdzl4YmhTTW5mRGo3QkxPRVhnbWxaN0xGOUMzTjJ5czRhQ1lJUjJ5aU05MUVfdkQ5Sjd2bjhBVzgtTUFXSnktbmR4N1JFWmpWSXYwODVic2s2OVctUzlSR0d3SDF0QzhHMUdaZ296WFl4R0NseER4endVVENsV1Y5SzdicEVEbEdYeHpWdkZzdmU4SDFRaDY3cmxadmxfRW5aZXREMFhrWVJkdFFDZW5reG9PMUxHaXlIZXNzQ2lPUjQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Japonya benchmark tahvil getirisi 30 yıllık en yüksek seviyeyi kırdıktan sonra yükselişini sürdürüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-09T06:01:19.763644+00:00",
+  "type": "news",
+  "cluster_id": "c6e61d4382f47"
+ },
+ {
+  "title": "Ticaret açığı (altı aylık): 16,65 milyar $ (2025 ilk altı ay)",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXpTZTNyRkxPdVBuT3duT3RHQ3g4ZElmU2Ytb0JVR2ZtSkJSZVJRa2JDY1hrOFpLV04tNjNKdGRHUlRwQVhTYThNVW5zenA0MTFWeXR0UEJCNWVBOXJKNmVBWFB0NnpwU21abF9DR3dqRW92US1PbWQwZEE0YWlROUVtWDY2TlBHQ3JiVTJyTjQ0UXZkZEZDaw?oc=5",
+  "source": "Sanayi ve Ticaret Bakanlığı",
+  "summary_tr": "16,65 milyar $",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-09T06:01:19.763644+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "ABD ve İran'dan karşılıklı saldırılar: İki ülkeden hangi açıklamalar yapıldı?",
   "link": "https://www.bbc.com/turkce/articles/c0my308zd4go?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -55360,65 +55432,5 @@
   "score": 8,
   "ts": "2026-05-28T11:00:56.968130+00:00",
   "cluster_id": "c77de936b63eb"
- },
- {
-  "title": "İran'dan yeni savaş konsepti: ABD'ye 'kirpi stratejisi' ile karşı koyacaklar!",
-  "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-yeni-savas-konsepti-abd-ye-kirpi-stratejisi-ile-karsi-koyacaklar-2507514",
-  "source": "Cumhuriyet",
-  "summary_tr": "İran, ABD'nin geniş çaplı operasyonlarına karşı 'kirpi stratejisi' ile yanıt vermeyi planladığını açıkladı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-28T11:00:56.968130+00:00",
-  "cluster_id": "c15da9da95535"
- },
- {
-  "title": "DEVA Partisi, Anavatan Partisi ve Anahtar Parti'den CHP'ye bayramlaşma ziyareti",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/deva-partisi-anavatan-partisi-ve-anahtar-parti-den-chp-ye-bayramlasma-ziyareti-2507510",
-  "source": "Cumhuriyet",
-  "summary_tr": "DEVA Partisi liderliğindeki küçük partiler, Özgür Özel yönetimindeki CHP'ye bayramlaşma ziyaretinde bulundu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T11:00:56.968130+00:00",
-  "cluster_id": "cf8afd09a1074"
- },
- {
-  "title": "İran’dan Trump’ın tehdit ettiği Umman’la dayanışma mesajı",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcmt0bFRoWk9hcWxlYVgwOER6elExZmhLNHUxYWxiYW02TVB2SHgyNE9TcTNjVmlvd285Nzh6M0lMQ0ZvZ0hkZ0VvamNKcTNYZjR5MzdadU9ReHRMWmRGOWhTUnhyalpiLUlfaTBVbDZ2WW5McDM2UUlRX0Vhei05RDRucTlxSURseTBQQmFzMkc4Nkt4N0ow?oc=5",
-  "source": "soL",
-  "summary_tr": "İran, Trump'ın tehdit ettiği Umman ile dayanışma mesajı verdi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-28T11:00:56.968130+00:00",
-  "cluster_id": "cf2928d6b2340"
- },
- {
-  "title": "Judge allows Trump to implement mail-in voting executive order",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYUltbng0U2JsbFpON0MzTjFNMmZNdUNrNUVJVG1WS3NjVlJoYng2THFhYWk3Q0FheGtCYkpSZGwwRXB3RTk2SERuWEgySnNaQ1VvR18wY0xGVGEzNUFjbWFFX2dlUmJLRFhGYUxkejJHemlQUzNoclJkU3Q5T3JwOG93eWZidHZYdFJ4ZGZxRWxydkh5RmY4TWM3ZFczVjVYTTlpZzVBaGpFZDI3ZWozMTRB?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD mahkemesi Trump'ın posta oylaması konusundaki yürütme kararını uygulanmasına izin verdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T11:00:56.968130+00:00",
-  "cluster_id": "cb8c0d72cb698"
- },
- {
-  "title": "Bitcoin artan jeopolitik risklerle yeniden 74 bin doların altına geriledi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/bitcoin-artan-jeopolitik-risklerle-yeniden-74-bin-dolarin-altina-geriledi/3950334",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Bitcoin, artan jeopolitik risklerle 74 bin doların altına geriledi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-28T11:00:56.968130+00:00",
-  "cluster_id": "c6a9e4eb6fd01"
- },
- {
-  "title": "Bitcoin 74 bin doların altına geriledi",
-  "link": "https://www.trthaber.com/haber/ekonomi/bitcoin-74-bin-dolarin-altina-geriledi-946435.html",
-  "source": "TRT Haber",
-  "summary_tr": "Jeopolitik risklerle bitcoin 74 bin doların altına düştü.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-28T11:00:56.968130+00:00",
-  "cluster_id": "c6a9e4eb6fd01"
  }
 ]
