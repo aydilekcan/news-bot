@@ -1,5 +1,77 @@
 [
  {
+  "title": "Trump wants to leave the Iran war behind. That won't happen soon",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdlZTdUh2QUFmVGl3LV9rMW8yR0NLVENkMG1oTFB5X0xLbU1Pd09fdDlEZ0hlSUU3NXdVbDFQSzNHc2F3dWlZby1yT05mVzJuVHRrT2x3VzA2NVJOQmNFZ0JrRkZZNzk1T1RUSnk4Y0hkak1QR2t5OFE1UDRJRWdMTHVVRjlFS0V2OF82WGRoc0xkXzdSWTVaZzlFXzVBd0hVNlNlMnoxYS1UbjVGVGc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump yönetimi İran konusunda çıkış arayışında. Reuters analizi, bu çerçevede kalıcı çözümün yakında gerçekleşmeyeceğini gösteriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-09T01:01:13.536601+00:00",
+  "type": "news",
+  "cluster_id": "c6abeb0f9f41f"
+ },
+ {
+  "title": "Oil rises more than a dollar per barrel as US launches fresh strikes against Iran",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVkg2NWtteXRjblpQRDNvZVBHcVdOTUlJYlYzZUltRS10OWVVSGpjcnU4bjl3U3doZnJMRGREdEoxaTAtMXRhTVA2WGJSUjZHN244dlZsSXM2SHJwbGxmYnZxdVJNb2JNRWd6M1ZPMmd2dmlHN3FpdWt3aUZjSFE0SHBGYUVRMlloTE5tSVNzcjJqOVNqZkdDRjhOS3Jja1gyYWN6VlVNNEVtZ2NrYWFyeWdLcmNwMUFNbExiWmJxS2R1eUdodXM0?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, İran'a karşı yeni hava saldırıları düzenledi. Petrol fiyatları bu hamle sonrası 1 dolardan fazla yükseldi.",
+  "metric": "Petrol: +1$ gün içi hareket",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-09T01:01:13.536601+00:00",
+  "type": "news",
+  "cluster_id": "ce3242fb9d00a"
+ },
+ {
+  "title": "ABD'nin Türkiye'ye yaptırımları kaldırması için nasıl bir yol haritası izlenecek?",
+  "link": "https://www.bbc.com/turkce/articles/c4gylzjdx0lo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD Başkanı Trump, Türkiye ziyaretinde yaptırımların kaldırılmasından bahsetti. Trump'ın bu açıklaması Türkiye-ABD ilişkilerinde yeni bir dönem işareti taşıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T01:01:13.536601+00:00",
+  "type": "news",
+  "cluster_id": "c485f51466d13"
+ },
+ {
+  "title": "İYİ Partili Paçacı’dan emekliler için zam çağrısı: ‘Maaşı asgari ücrete çıkartalım’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/iyi-partili-pacaci-dan-emekliler-icin-zam-cagrisi-maasi-asgari-ucrete-cikartalim-2519219",
+  "source": "Cumhuriyet",
+  "summary_tr": "İYİ Parti milletvekili Paçacı, en düşük emekli aylığının asgari ücret seviyesine (23.552 TL) çıkarılmasını talep etti. Emeklilerin gecim maliyeti artan baskısına karşı siyasi çağrı.",
+  "metric": "Emekli asgari maaş: (mevcut) -> 23.552 TL (talep)",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-09T01:01:13.536601+00:00",
+  "type": "news",
+  "cluster_id": "cec60ac4c5cee"
+ },
+ {
+  "title": "Missile alerts sound in Bahrain and Qatar after US launches new round of airstrikes against Iran",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTXRXN1ZOY3dWb0Y3bFliM0t6QVRjQkxGNmNRRkVPM29YazVXaXVpaFo3N2h2MHdBLUlTMWNROTJuTUJQNFhaR3BwTzV5b0NDYk1WOG5NMXRHLWhuNHF1NXJqOFM0Vzg2TWo2bXRCUS11WmFEeU45UURDV0dqX0szLWxfbkptQXFxQVJXM0hjY2lkS1VJdkljZWFR?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD'nin İran'a karşı yeni hava saldırıları sonrası Bahreyn ve Katar'da füze uyarıları seslendirildi. Bölgesel gerginlik tırmanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T01:01:13.536601+00:00",
+  "type": "news",
+  "cluster_id": "c262d8886b435"
+ },
+ {
+  "title": "IMF expects world economy to grow a sluggish 3% this year, weighed down by Iran war but helped by AI",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjRnZ0ltTDdid25Ea0RwWXVlbzB5and5V19zcm8zUVpGSUVIN2xlX1BDM2F1WkJtLTh4ZlFlbDlWMWo4NkdUV3kxR3ZWaFBHSFpNbXYyWndxRTlfVHhNRGJfMTFQcFQxX2RzRnMtUUdBMHJjalN6ZEl5ZmtEOTJxSmotaTVmSUdlWVJkaw?oc=5",
+  "source": "AP",
+  "summary_tr": "IMF, 2024 küresel ekonomik büyümesini yüzde 3 olarak öngörmektedir. İran krizi olumsuz etkiye karşın yapay zeka pozitif katkı sağlıyor.",
+  "metric": "IMF küresel büyüme tahmini: %3 (2024)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T01:01:13.536601+00:00",
+  "type": "news",
+  "cluster_id": "cb69d763629f3"
+ },
+ {
   "title": "İsrail, ABD'nin saldırılarının ardından olası İran ve Lübnan misillemelerine karşı alarmda",
   "link": "https://www.aa.com.tr/tr/dunya/israil-abdnin-saldirilarinin-ardindan-olasi-iran-ve-lubnan-misillemelerine-karsi-alarmda/3992529",
   "source": "Anadolu Ajansı",
@@ -55312,65 +55384,5 @@
   "score": 6,
   "ts": "2026-05-28T09:01:09.997336+00:00",
   "cluster_id": "c0692bcc6312b"
- },
- {
-  "title": "Özgür Özel'den Kemal Kılıçdaroğlu'na kurultay yanıtı: Tedbir olması yapılmasına engel değil; mesele niyet meselesi",
-  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM1JOYklsbFk2cjBDMTNZQ1NzLTY4dW1WQ1c0RGN0MHBHbUU2dmZkUGlUbjV1ekswVWl2cVBPeWxtUTVaQU40ZlFKSV9ja3NPQW1rckxtbGFfVHI3dWpuVGVSX0FkU01vWnBYR2NVM1REVXhUcGQzOVdmVm1tY3hzczlXQTVsbGgzY0hmVGJHdkY3MVNvZGxjMmJja1BjZ0RkMTdEU2hQWXRucC13ZFBIeVkyU25aV2ltS2dGeC1ZYXlVa25Fd2pFa0N6MWtsWnVvdTdVcVZ3?oc=5",
-  "source": "T24",
-  "summary_tr": "CHP Sözcüsü Özgür Özel, Kemal Kılıçdaroğlu'nun kurultay kararına yanıt verdi; tedbir alınması yapılmasına engel değil, ancak niyet meselesi olduğunu vurguladı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-28T09:01:09.997336+00:00",
-  "cluster_id": "c493c131aa3f1"
- },
- {
-  "title": "Three tankers reportedly attacked by drones in Black Sea, shipping agency says",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV3lHTlBDZzJ3RnBlTWI3bkhSX01iNXd5QXRiRVJTV25jbkduNFA4WlVIZmtGb25kZ09UU3ptWkltc2RFX29QVTNEd0RxbmdjMDQ1TUxuUkt4T01UZHNmZHBTcFFmaGJQbFBKNm5UUlJZM21VSDJCMTl6eGRzQldvR2JXVE1vRjF3RTlEcnRvTVJ5X0E3OHF3dXphWVgxTVZJRXVWZjN6TlZzVFhSWDB3R1FOLVliZVk?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Karadeniz'de üç tanker drone tarafından saldırıya uğradığı bildirildi; gemi kargo şirketi olayı rapor etti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-28T09:01:09.997336+00:00",
-  "cluster_id": "cec5411a71bab"
- },
- {
-  "title": "Three oil, LNG tankers exit Hormuz with transponders off",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNWxXdlJKT0l4US1ZM2pFVHFrd2pZRVBCR0MzMURRMVBGY2E2NlpBSENsQWJodGdpRXFrYlN2eDB5ZlNVZ3dOWi1NUkctd3o4Y1cwazlYRFpvMmNIcnI0dDl5aHQxQUpPNFp3cExWaXdkYkRQcjkxQWF0V2U2c09ZMXRZMHJYSmV5V2NQYmxod0p3UUhwV2MxUjN5M1lfa0hKYzRHWGkzeThsczA?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Hürmüz Boğazı'ndan transponderler kapalı halde üç petrol ve LNG tankerinin çıkışı bildirildi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-28T09:01:09.997336+00:00",
-  "cluster_id": "c390832b3f790"
- },
- {
-  "title": "ABD ve İran'dan karşılıklı yeni saldırılar",
-  "link": "https://www.bbc.com/turkce/articles/ce8ppzzpmlzo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD ordusu İran'ın Bender Abbas limanındaki askeri tesisine saldırı düzenledi; Tahran karşılık verdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-28T08:01:01.539403+00:00",
-  "cluster_id": "c2a13d0c465af"
- },
- {
-  "title": "İran: Ateşkes yine ihlal edildi, Hürmüz'de tansiyon yüksek",
-  "link": "https://www.dw.com/tr/iran-ateşkes-yine-ihlal-edildi-hürmüz-de-tansiyon-yüksek/a-77322364?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "ABD İran'ın İHA'larını ve dron merkezini vurdu; İran Hürmüz'deki ABD üslerine saldırarak misilleme yaptı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-28T08:01:01.539403+00:00",
-  "cluster_id": "cad99096a6edd"
- },
- {
-  "title": "Trump şimdi de müttefiki Umman’ı ‘havaya uçurmak’la tehdit etti",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc0ZzcVpocE9WTVpXRFFldlZyakpHN3NJYks2ZnRxRVNLSk5EX0pOUWROSkNfdm1Dd28zMDBsaXRmT2NEaVI5bDlQUzljNmE1Vi10OU5MWGdiTzY1V3JwTE5Gc3lLc2czRVJGU2ppUVVLVmJDNFhiX0cwZzMwTTNBbDNMQk4yb0ZLV0RvMFdQSnRuLXN1UUt4d0VZZXZzMFE?oc=5",
-  "source": "soL",
-  "summary_tr": "Trump müttefiki Umman'ı tehdit etmiştir.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-28T08:01:01.539403+00:00",
-  "cluster_id": "cf459a9efcb0b"
  }
 ]
