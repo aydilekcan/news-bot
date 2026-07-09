@@ -1,5 +1,77 @@
 [
  {
+  "title": "İran: Buşehr Nükleer Santralinin çevresi ABD tarafından hedef alındı",
+  "link": "https://www.trthaber.com/haber/dunya/iran-busehr-nukleer-santralinin-cevresi-abd-tarafindan-hedef-alindi-950765.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran, ABD saldırısında Buşehr Nükleer Santrali çevresinin hedef alındığını açıkladı; nükleer tesisin durumu belirsiz.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-09T12:06:14.844963+00:00",
+  "type": "news",
+  "cluster_id": "c07b0f8b56a6c"
+ },
+ {
+  "title": "ABD İran'ın Buşehr kentini vurdu: 3 kişi öldü",
+  "link": "https://www.sozcu.com.tr/abd-iran-in-busehr-kentini-vurdu-p335080",
+  "source": "Sözcü",
+  "summary_tr": "ABD'nin İran'ın Buşehr kentine düzenlediği hava saldırısında 3 kişi öldü; nükleer santra çevresi hedef alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T12:06:14.844963+00:00",
+  "type": "news",
+  "cluster_id": "c6cf7693e797b"
+ },
+ {
+  "title": "Ürdün: İrandan topraklarımıza füze saldırıları düzenlendi",
+  "link": "https://www.trthaber.com/haber/dunya/urdun-irandan-topraklarimiza-fuze-saldirilari-duzenlendi-950766.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ürdün ordusu, İrandan Ürdün topraklarına fırlatılan 8 füzeyi başarıyla engellemişdir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T12:06:14.844963+00:00",
+  "type": "news",
+  "cluster_id": "ca0fe7d0330db"
+ },
+ {
+  "title": "China’s ballistic missile launch was a message for the US",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLVQ5Vk1TZlNBeWtGa2lkM0Vkc2dGMWpSMW5ib0U5b0o3ZGd6a0ZjOEtpOGJFUEF1Y0RVTnRVNndhWjhfRGptdGhmVzZvcjFsUW1JSHM5aDMzLU1OMTdfaGZCNzJYQVVQaEgwXzNBWjRWVWQwejNmTC1pa0s0VHJOd18wRW1OeGxIc2o5cXNmUXNLOHUzSVJZdXZFOUlDajNIeVFPZ1ZpbVV3MWM?oc=5",
+  "source": "AP",
+  "summary_tr": "Çin'in balistik füze fırlatması ABD'ye yönelik bir mesaj olarak değerlendirilmektedir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T12:06:14.844963+00:00",
+  "type": "news",
+  "cluster_id": "ca2b340100f68"
+ },
+ {
+  "title": "Enflasyonu düşüren sebep: 155 milyar dolar buhar oldu!",
+  "link": "https://www.sozcu.com.tr/enflasyonu-dusuren-sebep-155-milyar-dolar-buhar-oldu-p335085",
+  "source": "Sözcü",
+  "summary_tr": "Altının küresel değer kaybı (155 milyar dolar) Türkiye'de enflasyonu düşürme etkisi yarattı.",
+  "metric": "Altın rezervi: 155 milyar dolar kaybedildi",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-09T12:06:14.844963+00:00",
+  "type": "news",
+  "cluster_id": "cdfedf4a756a8"
+ },
+ {
+  "title": "Filistin'de yasama seçimlerinin tarihi 28 Kasım olarak belirlendi",
+  "link": "https://www.aa.com.tr/tr/dunya/filistinde-yasama-secimlerinin-tarihi-28-kasim-olarak-belirlendi/3993133",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Filistin Devlet Başkanı Mahmud Abbas, yasama seçimlerinin 28 Kasım'da yapılmasını öngören kararnameyi yayımladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-09T12:06:14.844963+00:00",
+  "type": "news",
+  "cluster_id": "cd084275e1d4a"
+ },
+ {
   "title": "Bedelli askerlik ücreti 472 bin 653 liraya çıktı",
   "link": "https://www.diken.com.tr/bedelli-askerlik-ucreti-472-bin-653-liraya-cikti/?utm_source=rss&utm_medium=rss&utm_campaign=bedelli-askerlik-ucreti-472-bin-653-liraya-cikti",
   "source": "Diken",
@@ -55474,65 +55546,5 @@
   "score": 7,
   "ts": "2026-05-28T17:00:57.768030+00:00",
   "cluster_id": "cc2e16575fdb7"
- },
- {
-  "title": "Key inflation gauge worsens as Americans’ income and spending power erodes",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX3BtS2tpNUl5WTdRV1J3dVJoUGdUdjVrcFU0bEFSLXByQTl6ckY4d3RZQnNyT0dlbVlEejE3NjlHbkpLNEI3Z0gzS3hmZUY5Y0U3ZXhSbkV4eVFnN2NvbGt4dXktOXhxUFR6LWsyZEIwT3VXLTgtRlQyM1pNVXpwT3pYVl95LXlHdWJ5SlR3azQ5T2pqUjF2cnFaRTcydS05V3hfUjJCTW92MGZTZTBhbDln?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD'de ana enflasyon göstergesi kötüleşti; Amerikalıların satın alma gücü aşınmaya devam ediyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T17:00:57.768030+00:00",
-  "cluster_id": "c5797916dad3d"
- },
- {
-  "title": "Son Dakika... Özgür Özel'den 'satılık haram haraç' hamlesine sert yanıt! 'Yeni yönetimin TGRT'den gelme CHP düşmanı basın danışmanı...'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-ozgur-ozel-den-satilik-haram-harac-hamlesine-sert-yanit-yeni-yonetimin-tgrt-den-gelme-chp-dusmani-basin-danismani-2507603",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel, Kılıçdaroğlu yönetimine sert eleştiriler yönelterek basın danışmanlarına tepki gösterdi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-28T17:00:57.768030+00:00",
-  "cluster_id": "c189ebe02ea8c"
- },
- {
-  "title": "Kemal Kılıçdaroğlu'ndan grup toplantısı açıklaması!",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd1N6dS02MmdzcnV4dXRpeTJ2dG0wRjF4c2tyUmZLYWlGSEtCaTRsdlIzci1JWDBnc3hCRWFBWFFFODJua2dnNEMxSllDYzBaajliOGtJN0FERUlrS2xVbjFjdGYydGNFbklVUktodEdBVW1NV0hySkhuTDlIU2dxWjdyRFRhdVc2MTBxWHFR?oc=5",
-  "source": "T24",
-  "summary_tr": "Kemal Kılıçdaroğlu CHP grup toplantısı hakkında açıklama yaptı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-28T17:00:57.768030+00:00",
-  "cluster_id": "cd695cb724661"
- },
- {
-  "title": "ABD basını duyurdu: 'ABD-İran arasında anlaşmaya varıldı, Trump’ın onayı bekleniyor'",
-  "link": "https://www.cumhuriyet.com.tr/dunya/abd-basini-duyurdu-abd-iran-arasinda-anlasmaya-varildi-trump-in-onayi-bekleniyor-2507591",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD ile İran müzakere sürecinde taraflar 60 günlük mutabakat zaptı üzerinde anlaşmaya vardı; Trump'ın onayı bekleniyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-28T16:01:08.827129+00:00",
-  "cluster_id": "c9ec0673d7fbe"
- },
- {
-  "title": "ABD medyası: ABD ile İranlı müzakereciler anlaşmaya vardı",
-  "link": "https://www.trthaber.com/haber/dunya/abd-medyasi-abd-ile-iranli-muzakereciler-anlasmaya-vardi-946455.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD ve İran müzakerecileri ateşkesi uzatmak ve nükleer programa ilişkin görüşmeler için 60 günlük anlaşma zaptına vardı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-28T16:01:08.827129+00:00",
-  "cluster_id": "c83f226111c8e"
- },
- {
-  "title": "US and Iran reach deal but need Trump's final approval, Axios reports",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUEloTkNxRGlXTHJlZkRyZGY5WTZQVkhjRHBiMHVqcnJ3VUVYYmZuOHhBaXBlVDFFUVVlaDBhMjYzNE5tWUlRRFU2RVdjbVZsRG9xZUxwMnRCTko2RTdPTlhpUHdPLXdTcXYtU2oydVVfWE5BNkJ0NzRSUFRlcFpaQkotUUd2Q0N1bVdrY1pRR0Z6Q0xtSXVSaFRrNFJVSUl0Zk5mRzFsWkg3WnR1Tk85SmIyVQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD ve İran ateşkes uzatması ve nükleer görüşmeler için 60 günlük anlaşmaya vardı; Trump'ın nihai onayı gerekli.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-28T16:01:08.827129+00:00",
-  "cluster_id": "c25cae7c8e6a3"
  }
 ]
