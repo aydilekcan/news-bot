@@ -1,5 +1,41 @@
 [
  {
+  "title": "Fed, para politikasının yürütülmesini inceleyecek çalışma gruplarının liderlerini açıkladı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/fed-para-politikasinin-yurutulmesini-inceleyecek-calisma-gruplarinin-liderlerini-acikladi/3993722",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Fed, para politikasının yürütülmesini incelemek üzere 5 çalışma grubunun liderlerini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-09T21:01:07.101078+00:00",
+  "type": "news",
+  "cluster_id": "c17b44142889f"
+ },
+ {
+  "title": "Bakan Bolat: Otomotiv sektöründe dünyada 13’üncü büyük üretim üssü konumuna ulaştık",
+  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-otomotiv-sektorunde-dunyada-13-uncu-buyuk-uretim-ussu-konumuna-ulastik/3993710",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ticaret Bakanı Bolat: Otomotiv sektöründe dünyada 13'üncü, Avrupa'da 5'inci konumdayız.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-09T21:01:07.101078+00:00",
+  "type": "news",
+  "cluster_id": "c6d79bd886312"
+ },
+ {
+  "title": "AP Başkanı Metsola'ya göre petrol fiyatları açısından Avrupa'yı zor bir yaz ve sonbahar bekliyor",
+  "link": "https://www.aa.com.tr/tr/dunya/ap-baskani-metsolaya-gore-petrol-fiyatlari-acisindan-avrupayi-zor-bir-yaz-ve-sonbahar-bekliyor/3993719",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "AP Başkanı Metsola: Petrol fiyatları Avrupa'yı zor bir yaz ve sonbahar bekliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-09T21:01:07.101078+00:00",
+  "type": "news",
+  "cluster_id": "cb59949f74ce2"
+ },
+ {
   "title": "Oil prices rise, and stocks drop worldwide after Trump says ceasefire with Iran is ‘over’",
   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM255ZEIteU82bFZRNFpWYW9fTTlFaXdIajdXbjBYNmEzQTZBNUdXYjNjTGxTRm02S0NUQTBDa2lmYndWOV9sN3JqVFFvemRIaXhXTXFEdlFiVDB3cnc2b09hVF9Pd0dBVWhLMWpsV0UzV0NGQ194SFNVRjZBdGJRbExDN3dyVWROTFJscg?oc=5",
   "source": "AP",
@@ -55618,35 +55654,5 @@
   "score": 8,
   "ts": "2026-05-29T07:01:00.743661+00:00",
   "cluster_id": "c4610a338ee4e"
- },
- {
-  "title": "ABD Başkan Yardımcısı Vance, müzakerelerde İran ile anlaşmaya \"çok yakın\" olduklarını belirtti",
-  "link": "https://www.aa.com.tr/tr/live-blog/abd-baskan-yardimcisi-vance-muzakerelerde-iran-ile-anlasmaya-cok-yakin-olduklarini-belirtti/2971",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Başkan Yardımcısı JD Vance, İran ile nükleer program konusunda bazı anlaşmazlıklar devam etse de anlaşmaya 'çok yakın' olduklarını belirtti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-29T07:01:00.743661+00:00",
-  "cluster_id": "c7ff76376703a"
- },
- {
-  "title": "ABD Başkan Yardımcısı Vance: Müzakerelerde İran ile anlaşmaya çok yakınız",
-  "link": "https://www.trthaber.com/haber/dunya/abd-baskan-yardimcisi-vance-muzakerelerde-iran-ile-anlasmaya-cok-yakiniz-946480.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD Başkan Yardımcısı Vance, İran ile müzakerelerde nükleer program konusunda bazı anlaşmazlıklar devam etse de anlaşmaya yakın olduklarını söyledi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-29T07:01:00.743661+00:00",
-  "cluster_id": "c7ff76376703a"
- },
- {
-  "title": "China is building launch pads near its nuclear missile silos",
-  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OOXRkQVhPR0xRRVRkX2tNMzBla1o3MHhlenVvU1VndTNQX0g5TjRRYllhX3JrZ0FwUnJJVmlhZWJWZ0E3YVNPX3NVcWduem5Cai1tc250ZDRoZFpXVjVWREVGcDlJTGRhMTR2TDJTRXFwNGladjc0?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Çin, nükleer füze silolarının yakınında fırlatma rampaları inşa ediyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-29T07:01:00.743661+00:00",
-  "cluster_id": "cdd5bc4776acc"
  }
 ]
