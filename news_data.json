@@ -1,5 +1,53 @@
 [
  {
+  "title": "Trump, İran’a saldırının emrini Ankara’dan verdi",
+  "link": "https://www.sozcu.com.tr/trump-iran-a-saldirinin-emrini-ankara-dan-verdi-p334907",
+  "source": "Sözcü",
+  "summary_tr": "Trump, ABD'nin İran'a yönelik askeri operasyon düzenlemesini Ankara'dan emrettiğini açıkladı. Operasyon S-400 ve F-35 meselesine gönderme yapıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-09T03:01:08.697431+00:00",
+  "type": "news",
+  "cluster_id": "c6bac45b0d947"
+ },
+ {
+  "title": "NATO’nun faturası halka çıkacak",
+  "link": "https://www.sozcu.com.tr/nato-nun-faturasi-halka-cikacak-p334905",
+  "source": "Sözcü",
+  "summary_tr": "NATO'nun savunma harcamalarını GSYH'nın %5'ine çıkarma hedefi Türkiye'ye yaklaşık 2 trilyon lira ek yük getirecek.",
+  "metric": "NATO harcama hedefi: GSYH %5 (~2 trilyon TL ek yük)",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-09T03:01:08.697431+00:00",
+  "type": "news",
+  "cluster_id": "cb41c6657df07"
+ },
+ {
+  "title": "Üretimdeki alarmı TÜİK de gizleyemedi",
+  "link": "https://www.sozcu.com.tr/uretimdeki-alarmi-tuik-de-gizleyemedi-p334906",
+  "source": "Sözcü",
+  "summary_tr": "TÜİK verilerine göre tarımda yaşanan kriz nedeniyle üretim düşüşü kaydedildi. Ekonomik aktivitede alarm seviyesi işaretleri görülüyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-09T03:01:08.697431+00:00",
+  "type": "news",
+  "cluster_id": "c00e2def3a716"
+ },
+ {
+  "title": "Oil rises after US launches fresh strikes against Iran",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdklGcG9tdzh1UWdoWldFbWpRaXJELXpXclBKYzlJbzBpaXNJMWJBTnRYUFh1WndvTmNVN2x3ZHBlQm94ZVI0M24zdnVHSVZtR0dNVDMxdmM0SmJUTGZLUWZTWGdwcWlQM0JfcHlBVVB6V2lZOEo1bzFHMUZ1ZkM4b2ZCdnFWOGhOZmVkSXVIODdhUWxDYU9mNlMxdnRoRkZBUV9iNEVMakdpZw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD'nin İran'a karşı yeni hava saldırıları sonrasında petrol fiyatları yükselişe geçti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T03:01:08.697431+00:00",
+  "type": "news",
+  "cluster_id": "cf21af9ae8ed6"
+ },
+ {
   "title": "ABD'nin saldırıları sonrası İran'ın güney kıyısında peş peşe patlamalar",
   "link": "https://www.bbc.com/turkce/articles/c0my308zd4go?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -55358,45 +55406,5 @@
   "score": 7,
   "ts": "2026-05-28T10:01:03.436000+00:00",
   "cluster_id": "cc6e4f9ded75d"
- },
- {
-  "title": "İran Dışişleri Bakanlığı, ABD'nin geçici ateşkese rağmen düzenlediği saldırıları kınadı",
-  "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakanligi-abdnin-gecici-ateskese-ragmen-duzenledigi-saldirilari-kinadi-946429.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran, geçici ateşkese rağmen ABD'nin Bender Abbas bölgesine yönelik saldırılarını kınadı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T10:01:03.436000+00:00",
-  "cluster_id": "c43d7ac5b6dbc"
- },
- {
-  "title": "Exclusive: China works on AI token futures market, sources say, in race with US",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU2htMEhYNVR5MlRObmtjRDFKMTJxelQxTklVT2c4YXIyUDBMY3FBcXRIT3lYX0RpX3dxTDlCcVJBNnRGb0MyN2luWF9RTldzNW1yWWNkdVhESHQ3d3Fwdzg3bzRGZ1paUG5LZ2N3NnpvemFRRFhaTXFocVBpYWM0OXRWWXhHNk9WR3haZGRmRVN1cXlzRDFrNklWQ2o5X2lvQkZmaUFFQ05nU3k2?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Çin, ABD ile yarışarak AI token vadeli işlem piyasası geliştiriyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T10:01:03.436000+00:00",
-  "cluster_id": "c6a63342b00f2"
- },
- {
-  "title": "İspanya Başbakanı Pedro Sanchez'in kardeşi hakim karşısına çıktı",
-  "link": "https://www.cumhuriyet.com.tr/dunya/ispanya-basbakani-pedro-sanchez-in-kardesi-hakim-karsisina-cikti-2507497",
-  "source": "Cumhuriyet",
-  "summary_tr": "İspanya Başbakanı Sanchez'in kardeşi nepotizm soruştırmasında mahkemeye çıktı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-28T10:01:03.436000+00:00",
-  "cluster_id": "cb52c9280e0a7"
- },
- {
-  "title": "Peru, Türkiye'nin madencilik alanındaki tecrübesinden yararlanmak istiyor",
-  "link": "https://www.aa.com.tr/tr/ekonomi/peru-turkiyenin-madencilik-alanindaki-tecrubesinden-yararlanmak-istiyor/3950184",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Peru, Türkiye'nin madencilik alanındaki tecrübesinden yararlanmak istiyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-28T10:01:03.436000+00:00",
-  "cluster_id": "cb52fa4729a0a"
  }
 ]
