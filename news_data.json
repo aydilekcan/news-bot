@@ -1,5 +1,77 @@
 [
  {
+  "title": "ABD ve İran'dan karşılıklı saldırılar: İki ülkeden hangi açıklamalar yapıldı?",
+  "link": "https://www.bbc.com/turkce/articles/c0my308zd4go?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD, Hürmüz Boğazı çevresinde İran'a karşı yeni hava saldırıları başlattı; İran 'ezici bir karşılık' verileceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-09T05:01:12.229093+00:00",
+  "type": "news",
+  "cluster_id": "c2965efa3ed2a"
+ },
+ {
+  "title": "İran'dan ABD'ye: Ezici bir karşılık vereceğiz",
+  "link": "https://www.diken.com.tr/irandan-abdye-ezici-bir-karsilik-verecegiz/?utm_source=rss&utm_medium=rss&utm_campaign=irandan-abdye-ezici-bir-karsilik-verecegiz",
+  "source": "Diken",
+  "summary_tr": "İran, ABD'nin saldırılarına 'ezici bir karşılık vereceğini' açıkladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-09T05:01:12.229093+00:00",
+  "type": "news",
+  "cluster_id": "cf8c6d9f65d6b"
+ },
+ {
+  "title": "ABD, Suriye'yi 'teröre destek veren ülkeler' listesinden çıkarıyor",
+  "link": "https://www.bbc.com/turkce/articles/cjeg8v0e9g4o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD Başkanı Trump, Suriye'yi 'teröre destek veren ülkeler' listesinden çıkaracağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T05:01:12.229093+00:00",
+  "type": "news",
+  "cluster_id": "c0b2ef92720a4"
+ },
+ {
+  "title": "Trump'ın anlaşmadaki imzası yılana dönüştü",
+  "link": "https://www.sozcu.com.tr/trump-in-anlasmadaki-imzasi-yilana-donustu-p334918",
+  "source": "Sözcü",
+  "summary_tr": "ABD-İran arasındaki ateşkes anlaşması sonrası yeniden gerginlik yaşanıyor; Trump'ın imzalı anlaşma çatışmaya dönüştü.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-09T05:01:12.229093+00:00",
+  "type": "news",
+  "cluster_id": "c9b2819558314"
+ },
+ {
+  "title": "ABD Başkanı Trump: İran bir anlaşma yapmayı çok istiyor",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-iran-bir-anlasma-yapmayi-cok-istiyor/3992637",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Trump, İran'ın anlaşma yapmak için arattığını ve bunu çok istediğini söyledi.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-09T05:01:12.229093+00:00",
+  "type": "news",
+  "cluster_id": "c6746ca1a31c9"
+ },
+ {
+  "title": "HSK, Ankara Cumhuriyet Savcısı Yıkılmaz hakkındaki rüşvet iddialarıyla ilgili inceleme başlattı",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdXlBb3c3THJZNEM1N2NFVXhGWTNpSy1ia0ZhczZDeXhmcTFuRjVWWmIwZF81bWQ5bTNnbTZZTW5wNXZQWjN5UFlHQnJhYTBUSmFMT1VOX2lreWdtN0k4NUVoV2pCMUUzejRIdW85dXlfbV9HZkdDTzE3VXJFRFhSdllxVkIzYjVieEx5bVU4VnFBX2p0Q3hIb2dpbWIxUFpmYTRXY0doVi1uVEgyZEtIMmd2enN6bzQ?oc=5",
+  "source": "soL",
+  "summary_tr": "HSK, Ankara Cumhuriyet Savcısı Yıkılmaz hakkındaki rüşvet iddialarıyla ilgili inceleme başlattı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-09T05:01:12.229093+00:00",
+  "type": "news",
+  "cluster_id": "cf17c8dceb666"
+ },
+ {
   "title": "ABD ordusu İran sınırında hava trafiğini artırdı",
   "link": "https://www.trthaber.com/haber/dunya/abd-ordusu-iran-sinirinda-hava-trafigini-artirdi-950719.html",
   "source": "TRT Haber",
@@ -55348,65 +55420,5 @@
   "score": 6,
   "ts": "2026-05-28T11:00:56.968130+00:00",
   "cluster_id": "c6a9e4eb6fd01"
- },
- {
-  "title": "GÖKDOĞAN ve BOZDOĞAN'dan kritik başarı",
-  "link": "https://www.trthaber.com/haber/gundem/gokdogan-ve-bozdogandan-kritik-basari-946433.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye'nin milli hava-hava füzeleri GÖKDOĞAN ve BOZDOĞAN harp başlıklı atış testlerini başarıyla tamamladı.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-05-28T11:00:56.968130+00:00",
-  "cluster_id": "c48906f569540"
- },
- {
-  "title": "Temu fined $232 million for breaching EU rules on sale of illegal products",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZk9abWFIckZ0VzRwTExyUnFwMmpvdmFoRW1FX3R6cGhvQXN5VEpycmJ6Z3RMSkg5c0Z3dmR4MFowR2tsWDA4cEQ1dWpTS19hclZ3a2hvQVIxa1g1Z2NENlB3b0tjcmczRENRZVNWMm1ORkU3OWZocFN2SmZtV2lsLTYyc3lWOVVyS3YwMVJrTFZkdzBKNlB1RldWZFVEUmxtczVDbTlGNXlqZGtzZXNoZw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Temu, AB'nin yasadışı ürün satış kurallarını ihlal ettiği gerekçesiyle 232 milyon dolar para cezası aldı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-28T11:00:56.968130+00:00",
-  "cluster_id": "c00c925f70334"
- },
- {
-  "title": "Dünya alarma geçti, kırmızı kod verildi: Ölümcül Ebola salgını 11 ülkeyi tehdit ediyor!",
-  "link": "https://www.cumhuriyet.com.tr/yasam/dunya-alarma-gecti-kirmizi-kod-verildi-olumcul-ebola-salgini-11-ulkeyi-tehdit-ediyor-2507496",
-  "source": "Cumhuriyet",
-  "summary_tr": "DSÖ, Demokratik Kongo'daki Ebola salgınının kontrolden çıktığını açıkladı; 11 ülkeyi tehdit ediyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-28T10:01:03.436000+00:00",
-  "cluster_id": "c8dd90e3c4838"
- },
- {
-  "title": "Karadeniz'de üç yük gemisi saldırıya uğradı",
-  "link": "https://www.bbc.com/turkce/articles/cvgz492n8g2o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Karadeniz'de Sinop açıklarında üç yük gemisine İHA saldırısı düzenlendi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T10:01:03.436000+00:00",
-  "cluster_id": "c7987cc5a7b75"
- },
- {
-  "title": "Trump'ın Gazze İstikrar Gücü çöktü: Sözler havada kaldı",
-  "link": "https://www.dw.com/tr/trump-ın-gazze-istikrar-gücü-çöktü-sözler-havada-kaldı/a-77326475?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Trump'ın Gazze İstikrar Gücü planı çöktü; askeri katkı sözü veren ülkeler gelmedi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T10:01:03.436000+00:00",
-  "cluster_id": "c7eb8f405ba5b"
- },
- {
-  "title": "Rusya-Ukrayna savaşı nereye gidiyor?",
-  "link": "https://www.aa.com.tr/tr/analiz/rusya-ukrayna-savasi-nereye-gidiyor/3950263",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Rusya-Ukrayna savaşının çıkmazında Rusya diplomasiye yeşil ışık yakmaya başladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T10:01:03.436000+00:00",
-  "cluster_id": "ce086a32dcef6"
  }
 ]
