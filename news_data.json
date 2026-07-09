@@ -1,5 +1,77 @@
 [
  {
+  "title": "US and Iran exchange intensifying fire across the Gulf, threatening the interim deal to end war",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmZnOENNRXdELTloYWdZVG84OGRxcnFydXg5S1RNYWYyeTVkZGQ3XzkwV0hJdXRDNzBrSEp2ZUw2UkU5LVJkcWtyc0FXOHZkM1cwanhvaUFFM3g2WjJ6bkdHZmJVbE8zNGFneWF4VzM5VFdWcGNmUWo4VnljNktvSWJ3eE9XaThVZVVPM2NlQlhoUVh4T2E0cnJB?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD ve İran Basra Körfezi'nde kuvvet gösterisinde bulunarak savaşı sonlandırmak için varılan geçici anlaşmayı tehdit ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-09T10:01:09.972887+00:00",
+  "type": "news",
+  "cluster_id": "cb4763d4953de"
+ },
+ {
+  "title": "Türkiye dahil sekiz NATO ülkesi yeni savunma bankası kuruyor",
+  "link": "https://www.bbc.com/turkce/articles/c4gyd2np25yo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Türkiye dahil sekiz NATO ülkesi ve Ukrayna, müttefiklerin silahlanmasını desteklemek için yeni bir küresel savunma bankası kuruyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T10:01:09.972887+00:00",
+  "type": "news",
+  "cluster_id": "c9336fcc89b60"
+ },
+ {
+  "title": "Trump imzayı attı: Suriye'ye yaptırımlar kaldırılacak",
+  "link": "https://www.sozcu.com.tr/trump-imzayi-atti-suriye-ye-yaptirimlar-kaldirilacak-p335040",
+  "source": "Sözcü",
+  "summary_tr": "ABD Başkanı Trump, Suriye'ye yaptırımların kaldırılacağını ve ülkenin teröre destek veren devletler listesinden çıkarılacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T10:01:09.972887+00:00",
+  "type": "news",
+  "cluster_id": "cf7d0bd887f4a"
+ },
+ {
+  "title": "Merz says Germany agreed to acquire US Tomahawk missiles",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ184b0haNkh6NGFSaDg0NnFjVnZkWFdzV0ZxS3Vnb0JFa1ZEbDR4N1JROERaTXBrdGVfMUhXMEd5ZXIwMHFERURueWRrUWg3YXFYZUFUMVJYNEozWkZEZ3lMajRpRHlieGlTZXRHdFVOSUpObENXMGpra2MyZkY0SzJ0Q2FIeDJFRURvb2pmZ1R1cE1rd1U0NTRaYw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Almanya Başbakanı Merz, ABD Tomahawk füzelerinin satın alınmasını onayladığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T10:01:09.972887+00:00",
+  "type": "news",
+  "cluster_id": "cab01fc1def9e"
+ },
+ {
+  "title": "Araç muayenesi için önemli: Vergi borcu yapılandırması için son tarih 31 Ağustos",
+  "link": "https://www.diken.com.tr/arac-muayenesi-icin-onemli-vergi-borcu-yapilandirmasi-icin-son-tarih-31-agustos/?utm_source=rss&utm_medium=rss&utm_campaign=arac-muayenesi-icin-onemli-vergi-borcu-yapilandirmasi-icin-son-tarih-31-agustos",
+  "source": "Diken",
+  "summary_tr": "Vergi borcu yapılandırmak isteyen araç sahipleri için 31 Ağustos son tarih belirlenmiştir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-09T10:01:09.972887+00:00",
+  "type": "news",
+  "cluster_id": "c809015486ee5"
+ },
+ {
+  "title": "Vergi borcunu yapılandıran araç sahipleri muayenelerini yaptırabilecek",
+  "link": "https://www.trthaber.com/haber/ekonomi/vergi-borcunu-yapilandiran-arac-sahipleri-muayenelerini-yaptirabilecek-950760.html",
+  "source": "TRT Haber",
+  "summary_tr": "Vergi borcu yapılandırmadan yararlanan araç sahipleri TÜVTÜRK'te muayenelerini yaptırabiliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-09T10:01:09.972887+00:00",
+  "type": "news",
+  "cluster_id": "c47ea295cead6"
+ },
+ {
   "title": "Trump \"kalkacak\" dedi: CAATSA için yol haritası ne?",
   "link": "https://www.dw.com/tr/trump-kalkacak-dedi-caatsa-için-yol-haritası-ne/a-77867066?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -55448,65 +55520,5 @@
   "score": 8,
   "ts": "2026-05-28T15:01:04.103128+00:00",
   "cluster_id": "c0f839cbf2869"
- },
- {
-  "title": "ABD basını duyurdu: Washington ile Tahran anlaştı; nihai karar Trump'ta",
-  "link": "https://www.sozcu.com.tr/abd-basini-abd-ve-iran-anlasti-trump-in-onayi-bekleniyor-p323395",
-  "source": "Sözcü",
-  "summary_tr": "ABD basını: Washington ile Tahran ateşkes ve nükleer program müzakereleri konusunda anlaştı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-28T15:01:04.103128+00:00",
-  "cluster_id": "c8234efa12a41"
- },
- {
-  "title": "Katil Netanyahudan Gazze talimatı: İşgal alanını yüzde 70e çıkarın",
-  "link": "https://www.trthaber.com/haber/dunya/katil-netanyahudan-gazze-talimati-isgal-alanini-yuzde-70e-cikarin-946451.html",
-  "source": "TRT Haber",
-  "summary_tr": "Netanyahu, İsrail ordusuna Gazze'de işgal alanını yüzde 70'e çıkarmak için talimat verdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-28T15:01:04.103128+00:00",
-  "cluster_id": "c0ef526f5c762"
- },
- {
-  "title": "ECB tutanakları, para politikasında faiz artışı baskısını ortaya koydu",
-  "link": "https://www.aa.com.tr/tr/ekonomi/ecb-tutanaklari-para-politikasinda-faiz-artisi-baskisini-ortaya-koydu/3950609",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ECB tutanakları: Yönetim Konseyi üyeleri faizleri sabit tutma kararında faiz artışı baskısı hissetti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T15:01:04.103128+00:00",
-  "cluster_id": "cb8d3b1c73b4c"
- },
- {
-  "title": "US PCE inflation firmer in April",
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42UDdTXzBaWFpQZFVPSzJ1cFJ5bXhVTE1vdlIzOHpWRHpoQzFKcDBodVNkd0tUanRkcTZGNUJpcXA3NXdFcFhYeGxEcDh1QlFHUGVGLUNjR0t3ODFtVFlkMjBRU0tWQmxqcFhyX2dVc05EYlJFS3lrYl9rTXpWUDg?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD PCE enflasyonu Nisan'da beklenenden daha sıkı seyretti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T15:01:04.103128+00:00",
-  "cluster_id": "cb42a49161319"
- },
- {
-  "title": "CHP'de PM toplantısı ertelendi, meclis grubu toplantısının da yapılmayacağı açıklandı",
-  "link": "https://www.bbc.com/turkce/articles/c4g88yld21vo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "CHP'de PM toplantısı ertelendi, meclis grubu toplantısı yapılmayacak.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-28T15:01:04.103128+00:00",
-  "cluster_id": "cc98bf27cf5b6"
- },
- {
-  "title": "Kayyım Gürsel Tekin, konutunda Kemal Kılıçdaroğlu'nu ve CHP Genel Merkezi'ni ziyaret etti",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/kayyim-gursel-tekin-konutunda-kemal-kilicdaroglu-nu-ve-chp-genel-merkezi-ni-ziyaret-etti-2507563",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'ye kayyım olarak atanan Gürsel Tekin, Kılıçdaroğlu'nu ve CHP Genel Merkezi'ni ziyaret etti.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-28T14:01:08.672450+00:00",
-  "cluster_id": "cbec7d940bdea"
  }
 ]
