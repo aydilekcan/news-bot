@@ -1,5 +1,17 @@
 [
  {
+  "title": "ABD ordusu İran sınırında hava trafiğini artırdı",
+  "link": "https://www.trthaber.com/haber/dunya/abd-ordusu-iran-sinirinda-hava-trafigini-artirdi-950719.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD, İran gerilimi ortamında Doğu Akdeniz ve Basra Körfezi'ndeki hava trafiğini artırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-09T04:01:09.152787+00:00",
+  "type": "news",
+  "cluster_id": "c88893c748191"
+ },
+ {
   "title": "Trump, İran’a saldırının emrini Ankara’dan verdi",
   "link": "https://www.sozcu.com.tr/trump-iran-a-saldirinin-emrini-ankara-dan-verdi-p334907",
   "source": "Sözcü",
@@ -55396,15 +55408,5 @@
   "score": 7,
   "ts": "2026-05-28T10:01:03.436000+00:00",
   "cluster_id": "ce086a32dcef6"
- },
- {
-  "title": "Hamas: Gazzedeki ateşkes anlaşması İsrailin ihlalleri nedeniyle çökme tehlikesinde",
-  "link": "https://www.trthaber.com/haber/dunya/hamas-gazzedeki-ateskes-anlasmasi-israilin-ihlalleri-nedeniyle-cokme-tehlikesinde-946430.html",
-  "source": "TRT Haber",
-  "summary_tr": "Hamas, İsrail'in ateşkes ihlallerinin Gazze anlaşmasını bozulma riski taşıdığını belirtti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-28T10:01:03.436000+00:00",
-  "cluster_id": "cc6e4f9ded75d"
  }
 ]
