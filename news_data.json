@@ -1,5 +1,53 @@
 [
  {
+  "title": "Netanyahu Cumhurbaşkanı Erdoğan'ı Trump'a şikayet etti",
+  "link": "https://www.bbc.com/turkce/articles/crlw6pp2r4lo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Netanyahu, Cumhurbaşkanı Erdoğan'ı Trump'a şikâyet etti. İki lider NATO Zirvesi sonrası telefonda görüştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-10T02:01:04.597363+00:00",
+  "type": "news",
+  "cluster_id": "ca11de85175e0"
+ },
+ {
+  "title": "Sanayi icraya düştü işsizlik zirveye çıktı",
+  "link": "https://www.sozcu.com.tr/sanayi-icraya-dustu-issizlik-zirveye-cikti-p335222",
+  "source": "Sözcü",
+  "summary_tr": "İmalat sanayinde borç yükü artıyor, iflas ve konkordato başvuruları zirveye çıktı, işsizlik rekor seviyelerde.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-10T02:01:04.597363+00:00",
+  "type": "news",
+  "cluster_id": "ca18378212cb4"
+ },
+ {
+  "title": "Motorin zammında kayış koptu",
+  "link": "https://www.sozcu.com.tr/motorin-zamminda-kayis-koptu-p335224",
+  "source": "Sözcü",
+  "summary_tr": "Akaryakıt zamlarında ivme devam ediyor. Brent petrol fiyatları düşerken dahi motorine zammalar hız kesmiyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-10T02:01:04.597363+00:00",
+  "type": "news",
+  "cluster_id": "c06898f34d40f"
+ },
+ {
+  "title": "NATO’ya 13 milyar lira harcayan Türkiye’nin acı tablosu",
+  "link": "https://www.sozcu.com.tr/nato-ya-13-milyar-lira-harcayan-turkiye-nin-aci-tablosu-p335223",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye NATO'ya 13 milyar lira harcıyor. Emekliler yoksulluk içinde yaşıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-10T02:01:04.597363+00:00",
+  "type": "news",
+  "cluster_id": "cb5daa0f8ee63"
+ },
+ {
   "title": "Türkiye'den AP'nin Kıbrıs kararına tepki: 'Yok hükmünde'",
   "link": "https://www.bbc.com/turkce/articles/ceqd8vq1l7lo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -55620,45 +55668,5 @@
   "score": 7,
   "ts": "2026-05-29T08:01:03.614066+00:00",
   "cluster_id": "cb48d292fa66c"
- },
- {
-  "title": "Oil falls more than 1% on reports of possible US-Iran ceasefire deal",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNME9kd0xNOHBUWk45Q05sRmpnQlBXN3h5VW95NVR5clRwalJRR28wcHhSMjgxVnAtcU9peTBIeXBXX25CU3luOUtsZ0I1VTE5bEhnalNsci11UXo3SlRQUVk2R0NEUHZHYmFrc2o0QVNkTGJUYkRhWUI0cmtRNHQxdS16T2g3MnhvajU4b25iTmpoYkNwa003MmpneThDZTI5cXdNWlV6TUoyNHNIYTJfTg?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Olası ABD-İran ateşkes anlaşması haberlerine tepki olarak petrol fiyatları %1'den fazla düştü.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T08:01:03.614066+00:00",
-  "cluster_id": "ce5a02fb4381a"
- },
- {
-  "title": "CHP’de ‘grup toplantısı’ tartışması… Özgür Özel: ‘Kemal Bey milletvekili olmadığı için grup başkanı olamaz’",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-de-grup-toplantisi-tartismasi-ozgur-ozel-kemal-bey-milletvekili-olmadigi-icin-grup-baskani-olamaz-2507721",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Grup Başkanı Özgür Özel, milletvekilliği olmayan Kılıçdaroğlu'nun grup toplantısı çağrısını hukuksuz saydı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-29T08:01:03.614066+00:00",
-  "cluster_id": "c5419243a9e24"
- },
- {
-  "title": "30 Mayıs düellosu: Kılıçdaroğlu Genel Merkez’de, Özel Güvenpark’ta",
-  "link": "https://www.sozcu.com.tr/30-mayis-duellosu-kilicdaroglu-genel-merkez-de-ozel-guvenpark-ta-p323505",
-  "source": "Sözcü",
-  "summary_tr": "Mahkeme kararıyla CHP genel başkanı olan Kılıçdaroğlu, 30 Mayıs'ta Genel Merkez'de etkinlik düzenleyecek; Özgür Özel ise aynı gün başka yerde etkinlik yapacak.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-29T08:01:03.614066+00:00",
-  "cluster_id": "cc69494e984de"
- },
- {
-  "title": "Japonya, ilk kez NATO'nun Ukrayna destek misyonuna personel gönderecek",
-  "link": "https://www.aa.com.tr/tr/dunya/japonya-ilk-kez-natonun-ukrayna-destek-misyonuna-personel-gonderecek/3950932",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Japonya, ilk kez NATO'nun Ukrayna destek misyonuna (Almanya'da) askeri personel göndereceğini duyurdu.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-29T08:01:03.614066+00:00",
-  "cluster_id": "c3d2fe92bc650"
  }
 ]
