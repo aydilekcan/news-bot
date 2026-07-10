@@ -1,5 +1,101 @@
 [
  {
+  "title": "S-400'leri Türkiye neden aldı, neden satıyor?",
+  "link": "https://www.dw.com/tr/s-400-leri-türkiye-neden-aldı-neden-satıyor/a-77903874?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Türkiye S-400 hava savunma sistemlerini üçüncü ülkeye transfer etme konusunda Rusya ile görüşüyor. Bu hamle CAATSA yaptırımlarına yol açabilir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-10T12:01:12.743471+00:00",
+  "type": "news",
+  "cluster_id": "cf450a9ab8d8a"
+ },
+ {
+  "title": "Rusya: S-400'lerin satışı hassas bir konu, Türkiye'yle görüşüyoruz",
+  "link": "https://www.diken.com.tr/rusya-s-400lerin-satisi-hassas-bir-konu-turkiyeyle-gorusuyoruz/?utm_source=rss&utm_medium=rss&utm_campaign=rusya-s-400lerin-satisi-hassas-bir-konu-turkiyeyle-gorusuyoruz",
+  "source": "Diken",
+  "summary_tr": "Rusya, S-400 hava savunma sistemlerinin satışını hassas bir konu olarak görüyor ve Türkiye ile bu konuda görüşmeler yapıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-10T12:01:12.743471+00:00",
+  "type": "news",
+  "cluster_id": "c51b60644f6a0"
+ },
+ {
+  "title": "Türkiye'nin Şam Büyükelçisi Yılmaz'dan NATO müttefiklerine \"İsrail'e baskı\" çağrısı",
+  "link": "https://www.aa.com.tr/tr/gundem/turkiyenin-sam-buyukelcisi-yilmazdan-nato-muttefiklerine-israile-baski-cagrisi-/3994144",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye'nin Şam Büyükelçisi, İsrail'in Suriye'de istikrarsızlığa yol açtığını ve NATO üyesi ülkelerin İsrail'e baskı yapmasını talep etti.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-10T12:01:12.743471+00:00",
+  "type": "news",
+  "cluster_id": "c65b91a7cdc89"
+ },
+ {
+  "title": "IEA cuts Russian oil output forecasts on Ukrainian attacks",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObWQ4UnNjMXliTjY3NzF2S085UGJKVXE0TmM1LUFGcVZISkpkaGk2bG5GU0Z2aVlHRXItTlR4bzJ0bUNHUEs0TU0ydzNwa2ZZMkFsUWpETEkyOGJNMkNGNlJKRlYyZE5zbVFhbzlYOGg3NlZreERfcFNjYnBEdEYxSkZibzN0R05lWmJmZC1oa1hkMF9jWW5ZSk1EaHVoNjkyay1ET2RlMy1FamdTSVdTeQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "IEA, Ukrayna saldırıları nedeniyle Rusya'nın petrol üretim tahminlerini aşağıya revize etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-10T12:01:12.743471+00:00",
+  "type": "news",
+  "cluster_id": "cc09de97393bc"
+ },
+ {
+  "title": "Osmaniyeli emekli Asu Kaya’ya dert yandı: 'Bize geldiği vakit para yok oluyor'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/osmaniyeli-emekli-asu-kaya-ya-dert-yandi-bize-geldigi-vakit-para-yok-oluyor-2519706",
+  "source": "Cumhuriyet",
+  "summary_tr": "Emekli yurttaş, yaşadığı ekonomik zorlukları anlatıyor; gelirinin yeterli olmadığını belirtiyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-10T12:01:12.743471+00:00",
+  "type": "news",
+  "cluster_id": "cb790a7b66622"
+ },
+ {
+  "title": "Türkiye'nin 16 ilçesinde klimalar kesilecek",
+  "link": "https://www.sozcu.com.tr/turkiye-nin-16-ilcesinde-klimalar-kesilecek-p335389",
+  "source": "Sözcü",
+  "summary_tr": "GDZ Elektrik, İzmir'in 16 ilçesinde şebeke yenileme için 10 Temmuz'da enerji kesintisi yapacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T12:01:12.743471+00:00",
+  "type": "news",
+  "cluster_id": "ce2b5d0e6d4dc"
+ },
+ {
+  "title": "İstanbul'un havalimanları, 78 ilin nüfusundan fazla yolcu ağırladı",
+  "link": "https://www.trthaber.com/haber/ekonomi/istanbulun-havalimanlari-78-ilin-nufusundan-fazla-yolcu-agirladi-950867.html",
+  "source": "TRT Haber",
+  "summary_tr": "İstanbul havalimanları ocak-haziran döneminde 111 milyon 960 bin yolcuya hizmet verdi.",
+  "metric": "Havalimanı yolcu trafiği: 111.960.564 yolcu (6 aylık dönem)",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-10T12:01:12.743471+00:00",
+  "type": "news",
+  "cluster_id": "c3565f1f7e07c"
+ },
+ {
+  "title": "Bakan Bayraktar: KKTC'yi enerji güvenliğinin ayrılmaz parçası olarak görüyoruz",
+  "link": "https://www.trthaber.com/haber/ekonomi/bakan-bayraktar-kktcyi-enerji-guvenliginin-ayrilmaz-parcasi-olarak-goruyoruz-950864.html",
+  "source": "TRT Haber",
+  "summary_tr": "Enerji Bakanı Bayraktar, Türkiye'nin KKTC'yi enerji güvenliğinin ayrılmaz parçası olarak gördüğünü belirtti.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-10T12:01:12.743471+00:00",
+  "type": "news",
+  "cluster_id": "c7a058e57657e"
+ },
+ {
   "title": "US-Iran escalation could threaten 2027 oil market surplus, IEA says",
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcS1IS0o0Q2RIbVZsMWFQc3hWY2lheW5Zb09jdVlENDBxeFVOYk0xRUozaTI4NFVUUzlGem1tLUdnVURUYXcySHVNdk5kd185ZTAzOHFkUjV2MHYxQkNOejZSbTl3VlQyb3c5NWM4ejhFZUlNN3FUYnA3SW1uWGtzaFVXTDFYY2MzRHRBZzh3N2tfeUw0ZnlELXRNX2JKb1dsalpzVkppVmZjMTVTZ2ZWcnZCRUNGMzByaFE?oc=5",
   "source": "Reuters",
@@ -55670,85 +55766,5 @@
   "score": 6,
   "ts": "2026-05-29T15:01:01.843353+00:00",
   "cluster_id": "c3aba17a1fd7b"
- },
- {
-  "title": "Rusya'dan Avrupa'ya huzurlu uyku sona erdi mesajı",
-  "link": "https://www.trthaber.com/haber/dunya/rusyadan-avrupaya-huzurlu-uyku-sona-erdi-mesaji-946546.html",
-  "source": "TRT Haber",
-  "summary_tr": "Rusya Güvenlik Konseyi Başkan Yardımcısı Medvedev, Avrupa'ya savaş uyarısında bulundu.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-05-29T15:01:01.843353+00:00",
-  "cluster_id": "ca52aa51052c1"
- },
- {
-  "title": "9 bin kişilik dev anket: CHP’liler Erdoğan’a, Kılıçdaroğlu’ndan daha olumlu bakıyor!",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUm9kd2I0azhSMmpjcWRDdzJ4RmtPQVYyYmh4TDNDeFpEUFVUNEh3WHE5QlMwYXJZMmNPLWNZTTVsTXR3RmU4em9Kcmhua1NIa1V1SnpGcTJFT2o1dmE2WmhIZEc2Skh0SDZZaVJQV0djenBvUGVOZmFEY0phVUN5N1Z1OVg2N0N0a1dMVjQzRlVSMWlJZkJ4dWdVNkY1U292MXlucUtWNnFKS2V1ZWpoVzVwTm8?oc=5",
-  "source": "T24",
-  "summary_tr": "9 bin kişilik ankete göre CHP seçmenleri Erdoğan'a Kılıçdaroğlu'ndan daha olumlu bakıyor.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-29T15:01:01.843353+00:00",
-  "cluster_id": "c761182e78dba"
- },
- {
-  "title": "Romanya'da bir apartmana Rus İHA'sı isabet etti: NATO'dan kınama",
-  "link": "https://www.bbc.com/turkce/articles/c8e8n1976d7o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Rus İHA'sı Romanya'nın Galați kentindeki apartmana çarptı, iki kişi yaralandı. NATO kınama yapacağı bildiriliyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-29T14:01:21.399218+00:00",
-  "cluster_id": "c0cabcdd41688"
- },
- {
-  "title": "\"Rusya Ermenistan seçimlerine müdahale planlıyor\" iddiası",
-  "link": "https://www.dw.com/tr/rusya-ermenistan-seçimlerine-müdahale-planlıyor-iddiası/a-77348964?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Batılı kaynaklar, Rusya'nın Ermenistan seçimlerine müdahale için gizli operasyonlar yürüttüğünü iddia ediyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T14:01:21.399218+00:00",
-  "cluster_id": "c310cb1588188"
- },
- {
-  "title": "İran Parlamento Başkanı: 'ABD'den imtiyazları füzeyle aldık'",
-  "link": "https://www.sozcu.com.tr/iran-parlamento-baskani-ndan-abd-ye-gozdagi-p323591",
-  "source": "Sözcü",
-  "summary_tr": "İran Parlamento Başkanı Galibaf, füzelerle ABD'den imtiyazları aldıklarını söyledi; ABD barış anlaşması iddialarına sert yanıt verdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T14:01:21.399218+00:00",
-  "cluster_id": "ced57497b6486"
- },
- {
-  "title": "Haaretz: Netanyahu savaşları siyasi ve şahsi çıkarları için sürdürüyor",
-  "link": "https://www.aa.com.tr/tr/dunya/haaretz-netanyahu-savaslari-siyasi-ve-sahsi-cikarlari-icin-surduruyor/3951182",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Haaretz, Netanyahu'nun Gazze, Lübnan ve İran'a saldırıları siyasi ve şahsi çıkarları için sürdürdüğünü yazdı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-29T14:01:21.399218+00:00",
-  "cluster_id": "c381f6d0f3038"
- },
- {
-  "title": "İran Meclis Başkanı Kalibaf: Biz tavizleri görüşmelerle değil füzelerle alıyoruz",
-  "link": "https://www.trthaber.com/haber/dunya/iran-meclis-baskani-kalibaf-biz-tavizleri-gorusmelerle-degil-fuzelerle-aliyoruz-946545.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Meclis Başkanı Kalibaf, müzakere sürecinde tavizleri füzelerle aldıklarını, söz garantilerine güvenmediklerini söyledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T14:01:21.399218+00:00",
-  "cluster_id": "ce2d675ea0538"
- },
- {
-  "title": "WHO reports 906 suspected cases and 223 suspected deaths from Bundibugyo strain of Ebola",
-  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdmFaUlA1Q2ZuLVNtenhNcWpxcTNvQ05Jd2VtNlowTHhvWnVsVFF5VDJCRWFYNldhaTk5c09rM2EtNW9hX0RqS1M2SF9FbmlrZTc4WW10Q19kMlhIdXVVMWlfaTB2SnhJVGhyMndZaG5URXRsRU84RUVpN1hIN2d0ZzNqM0NTVzEtdVJ4NVZqZW5HTk5US3JyNERTb1d4Tl8tWGxFTURkUk5NanQxdk9OZUxIT3JMRWd4am1DVHA1WGJVOFNxeWx5V1ZYVFE2VklqWS1mT3FOWXd3MkVsVXc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "DSÖ, Ebola Bundibugyo suşunun 906 şüpheli vakası ve 223 ölümü rapor etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T14:01:21.399218+00:00",
-  "cluster_id": "c62d421bcf172"
  }
 ]
