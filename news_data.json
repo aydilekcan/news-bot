@@ -1,5 +1,29 @@
 [
  {
+  "title": "Tavuk satıp sığır aldık",
+  "link": "https://www.sozcu.com.tr/tavuk-satip-sigir-aldik-p335225",
+  "source": "Sözcü",
+  "summary_tr": "Üreticiler tavuk yetiştirmeyi bırakıp sığır alırken, tavuk ithalatı azalmıyor. Yılın ilk 5 ayında 12,8 milyon dolar tavuk ithal edildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-10T03:01:05.212278+00:00",
+  "type": "news",
+  "cluster_id": "ca2f3d0b55888"
+ },
+ {
+  "title": "Fragile yen set for weekly decline as intervention risks mount",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVlNWNVhscmdMTlRQTTRaVzNnQzU3Vk9OM1g1VjZlZkRTVGl3MWs1bWFIYjF0WnhUMlVfNjZ5UDNrOXdZS0hXR2VYbmRzc2lnOUdkYk10Tk1FXzBMS2g5clZLMWJFTi1YdlE4anNBTzV5R21QUURNTS00VG9kY29TQlItRjRnaDBpeURaRkJQQlFJZ2R0ak5xVC1WRjZTb3diQ1lYUU5ibXR5Y2U1RzN3?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Japon yeni düşüş riski altında; müdahale beklentileri artıyor. Haftalık düşüş sinyali veriliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T03:01:05.212278+00:00",
+  "type": "news",
+  "cluster_id": "cc5423a2758ef"
+ },
+ {
   "title": "Netanyahu Cumhurbaşkanı Erdoğan'ı Trump'a şikayet etti",
   "link": "https://www.bbc.com/turkce/articles/crlw6pp2r4lo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -55648,25 +55672,5 @@
   "score": 7,
   "ts": "2026-05-29T08:01:03.614066+00:00",
   "cluster_id": "c47c2d31c616f"
- },
- {
-  "title": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyinde bir sağlık merkezine hava saldırısı düzenledi",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyinde-bir-saglik-merkezine-hava-saldirisi-duzenledi/3950944",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail ordusu, ateşkese rağmen Lübnan'ın güneyindeki Deyr Kanun en-Nehr beldesindeki bir sağlık merkezine hava saldırısı düzenledi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-29T08:01:03.614066+00:00",
-  "cluster_id": "cb48d292fa66c"
- },
- {
-  "title": "Katil İsrail ateşkese rağmen Lübnan'ın güneyinde bir sağlık merkezine hava saldırısı düzenledi",
-  "link": "https://www.trthaber.com/haber/dunya/katil-israil-ateskese-ragmen-lubnanin-guneyinde-bir-saglik-merkezine-hava-saldirisi-duzenledi-946494.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail ordusu, ateşkese rağmen Lübnan'ın güneyindeki Deyr Kanun en-Nehr beldesinde sağlık merkezine hava saldırısı düzenledi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-29T08:01:03.614066+00:00",
-  "cluster_id": "cb48d292fa66c"
  }
 ]
