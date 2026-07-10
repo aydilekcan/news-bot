@@ -1,5 +1,29 @@
 [
  {
+  "title": "Trump CAATSA ve F-35 sözlerini yerine getirebilecek mi?",
+  "link": "https://www.dw.com/tr/trump-caatsa-ve-f-35-sözlerini-yerine-getirebilecek-mi/a-77898772?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Trump'ın CAATSA yaptırımları ve F-35 konusundaki Ankara'daki açıklamaları Türkiye-ABD ilişkilerinde bu iki kritik sorunu gündeme getirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-10T06:01:07.734944+00:00",
+  "type": "news",
+  "cluster_id": "c11b41ae25ac0"
+ },
+ {
+  "title": "ABD Ticaret ve Kalkınma Ajansından Türkiye'nin SMR yatırımları için işbirliği mesajı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abd-ticaret-ve-kalkinma-ajansindan-turkiyenin-smr-yatirimlari-icin-isbirligi-mesaji/3993805",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Ticaret ve Kalkınma Ajansı, Türkiye'nin küçük modüler reaktör (SMR) yatırımlarında işbirliğe hazır olduğunu bildirdi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-10T06:01:07.734944+00:00",
+  "type": "news",
+  "cluster_id": "ce4e5066d98ae"
+ },
+ {
   "title": "ABD-İran ateşkesi neden kalıcı olamadı, tarafların pozisyonları ne?",
   "link": "https://www.bbc.com/turkce/articles/cyv0zg82m8ro?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -55668,25 +55692,5 @@
   "score": 6,
   "ts": "2026-05-29T10:01:02.110502+00:00",
   "cluster_id": "c32cd98db11b5"
- },
- {
-  "title": "Gürsel Tekin: Kemal Kılıçdaroğlu bazı belge ve ses kayıtlarına ulaştı",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYUs0RE9oTHFSZ29zVDByZkxoazA2RzFoUmZfaG9pTWM1NFFTem9aemlDZ1hPQlVWWmZxbkh4bHZJam9lVVBKNWM3eUdvZVktSG5jTW1CdVdzOHhqMW9RdnN5eDF1Y3BKcmk1ZExGNUx4cnB3VW1JUHJGSFdQREJqVHZRY0VkRU9SRWF2RU9lNXFXSnNXcXVFV3pheU85LVhfVV8yenNBODB3dw?oc=5",
-  "source": "soL",
-  "summary_tr": "CHP'li Gürsel Tekin: Kılıçdaroğlu bazı belge ve ses kayıtlarına ulaştı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-29T10:01:02.110502+00:00",
-  "cluster_id": "c55d9cdc10716"
- },
- {
-  "title": "Netanyahu ordusuna Gazze'nin yüzde 70'ini ele geçirme emri verdi",
-  "link": "https://www.sozcu.com.tr/netanyahu-ordusuna-gazze-nin-yuzde-70-ini-ele-gecirme-emri-verdi-p323528",
-  "source": "Sözcü",
-  "summary_tr": "İsrail Başbakanı Netanyahu, ordusuna Gazze'nin en az %70'ini kontrol altına alma talimatı verdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T09:01:01.136329+00:00",
-  "cluster_id": "cd53f36d85a09"
  }
 ]
