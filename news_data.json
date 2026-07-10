@@ -1,5 +1,53 @@
 [
  {
+  "title": "Özgür Özel görevden alınıyor",
+  "link": "https://www.sozcu.com.tr/ozgur-ozel-gorevden-aliniyor-p335228",
+  "source": "Sözcü",
+  "summary_tr": "Mahkeme kararıyla CHP Genel Başkanlığına getirilen Kılıçdaroğlu, Özgür Özel'i görevden alacağı bildirildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-10T04:01:09.141779+00:00",
+  "type": "news",
+  "cluster_id": "c02372313273f"
+ },
+ {
+  "title": "12. Yargı Paketi Meclis Genel Kurulu'nda görüşülecek",
+  "link": "https://www.trthaber.com/haber/gundem/12-yargi-paketi-meclis-genel-kurulunda-gorusulecek-950819.html",
+  "source": "TRT Haber",
+  "summary_tr": "TBMM'de görüşülecek 12. Yargı Paketi ile yargılama süreçleri kısalacak ve duruşmalar arası süre 3 aydan fazla olmayacak.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-10T04:01:09.141779+00:00",
+  "type": "news",
+  "cluster_id": "cea6ddec5cfaa"
+ },
+ {
+  "title": "Okul saldırıları TBMM gündeminde: Sosyal medya temsilcileri sunum yapacak",
+  "link": "https://www.trthaber.com/haber/gundem/okul-saldirilari-tbmm-gundeminde-sosyal-medya-temsilcileri-sunum-yapacak-950820.html",
+  "source": "TRT Haber",
+  "summary_tr": "TBMM, Şanlıurfa ve Kahramanmaraş'taki okul saldırılarını araştırmaya devam ediyor; bu hafta sosyal medya temsilcileri komisyona sunum yapacak.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-10T04:01:09.141779+00:00",
+  "type": "news",
+  "cluster_id": "c164349e023b7"
+ },
+ {
+  "title": "Meclis'e sunuldu: Sahte diploma düzenleyene hapis cezası geliyor",
+  "link": "https://www.trthaber.com/haber/gundem/meclise-sunuldu-sahte-diploma-duzenleyene-hapis-cezasi-geliyor-950818.html",
+  "source": "TRT Haber",
+  "summary_tr": "AK Parti tarafından Meclis'e sunulan Yükseköğretim Kanunu değişikliğine göre, sahte diploma düzenleyenlere 4 yıla kadar hapis cezası getirilecek.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-10T04:01:09.141779+00:00",
+  "type": "news",
+  "cluster_id": "ce02e5e05dda6"
+ },
+ {
   "title": "Tavuk satıp sığır aldık",
   "link": "https://www.sozcu.com.tr/tavuk-satip-sigir-aldik-p335225",
   "source": "Sözcü",
@@ -55632,45 +55680,5 @@
   "score": 6,
   "ts": "2026-05-29T09:01:01.136329+00:00",
   "cluster_id": "c3cb65f2c2cc1"
- },
- {
-  "title": "UAEA: Zaporijya Nükleer Santrali, tüm dış güç kaynağını geçici olarak kaybetti",
-  "link": "https://www.trthaber.com/haber/dunya/uaea-zaporijya-nukleer-santrali-tum-dis-guc-kaynagini-gecici-olarak-kaybetti-946509.html",
-  "source": "TRT Haber",
-  "summary_tr": "UAEA, Zaporijya Nükleer Santrali'nin Rusya-Ukrayna Savaşı'ndan bu yana 16. kez tüm dış güç kaynağını geçici olarak kaybettiğini açıkladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-29T09:01:01.136329+00:00",
-  "cluster_id": "c4cd712aed3c2"
- },
- {
-  "title": "Huawei bets on speed over shrinking transistors to sidestep US chip sanctions",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNTF0aFdWRThWajFHMkhDSk1na25UREdhcWc5WVZOSkFHNjJYa1kzVTVlVVotaTNkb0U4aGsyWFhmVy12RmdrY25GNkhsc0tEQkxEa1VQRy1lZk1pcUpjTzIzcUlhTzRJcEQ4Nk4xX25Nby1sVFpza3AzWUxndVRDXzNTZHZSQzhVSmVmY2xlNlc3WUdzZC1paHVVb01RS0hMWnJILUxKdkFQeGJTZ2JDMmhybFhESWFRdmJF?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Huawei, ABD çip yaptırımlarından kaçınmak için hız üzerine odaklanarak transistör küçültmeyi es geçme stratejisi izliyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-29T09:01:01.136329+00:00",
-  "cluster_id": "c3b2ddff959f1"
- },
- {
-  "title": "Yen back in danger zone as Tokyo officials keep investors on edge",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbXplZGhjckEzem5STHNmWVJfVHFEUFFyTF9iNHVMZHplbzhMNFJVVmNUR003SDNtTkY4d1lzYU01QTExY0xJTkVoUm1fcTBTOFVlOVBCVnNXTGlaX2NTTkhZOHhDR1Fpb2dISlN2dzBrUjN2QlNZZmJFRWtxd0gyTDUyV1VHbmF1NFduSVQzQ3Vhd3M1aEN1dWhBRmNmdzkyMmhDazYxbl9qaGFjbjFXTg?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Yen, Tokyo yetkililerin yatırımcıları belirsiz tutması nedeniyle tehlike bölgesinde kaldı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-29T09:01:01.136329+00:00",
-  "cluster_id": "c8b6d847ac641"
- },
- {
-  "title": "Ukrayna: Rusya Türk gemisini vurdu",
-  "link": "https://www.diken.com.tr/ukrayna-rusya-turk-gemisini-vurdu/?utm_source=rss&utm_medium=rss&utm_campaign=ukrayna-rusya-turk-gemisini-vurdu",
-  "source": "Diken",
-  "summary_tr": "Ukrayna ordusu, Rusya'nın Türk mürettebatlı bir yük gemisini dronlarla hedef aldığını duyurdu.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-29T08:01:03.614066+00:00",
-  "cluster_id": "c47c2d31c616f"
  }
 ]
