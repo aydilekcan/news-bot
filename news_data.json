@@ -1,5 +1,53 @@
 [
  {
+  "title": "Bakanlık markalarını ifşa etti: Köfte diye 'taşlık' yedirmişler, çaya 'gıda boyası' karıştırmışlar!",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSjJmbVhVejRxMjRNNkZwSndURnBTMGs5VURZMGVwZXFjTFNSTnJKS2hIV2JnMjZxRk90TElJYWxJNG9WU2dLMzl5N0h1bDZvbGZQX053MTg3YV9RbldnS0ZCWU5TUHFFeS16eU5JOTlraVBrQkx6X3RaSkdreUF6aFgtdkxjYkdpRW5IM1ozdWJLSjhPdkFCalNFUEd6VnR2NjZxaDBwaGtWVC1faG5SQ2NnVHVlVUhBMDhhVmpwTzRyMUxOUUpJ?oc=5",
+  "source": "T24",
+  "summary_tr": "Bakanlık markalarında gıda güvenliği ihlalleri tespit edildi: köfte yerine taşlık, çaya gıda boyası karıştırıldığı ortaya çıktı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-10T17:01:19.318221+00:00",
+  "type": "news",
+  "cluster_id": "c9c7b386b8c1c"
+ },
+ {
+  "title": "Trump's promise on Patriots will take time, leaving Ukraine facing tough choices",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcVdWY0NjczVVRGxiRi03NEdERE5zdDlpX2oyZnRiVzM1aWE0MlBUcGNVZXF4dGxrWm1LcVlXemtJN3NNZU92WU91bW9hbFhRaEN2Ql9fYnJLNFpiZnA5Z0xfU1ZBTmxCbWlkOHlHRXYxSlR6dlY0N0Y2eEhIMDgtckVpM0VYNTdsc3ZnRXJnQkVsanNWRThrZnBQVXVSTlVqYUlCSE1BOGF2QThoMmNuaXJUalRkZUMxaHdZYWl3MllNdGxWTi1TLVEtUTdvR0IzMmxPSA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, Ukrayna'ya Patriots hava savunma sistemi sağlanması konusunda vaadinin zaman alacağını, bu durum Ukrayna'nın zor tercihler yapmasına neden olacağını belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-10T17:01:19.318221+00:00",
+  "type": "news",
+  "cluster_id": "c177b2b01839a"
+ },
+ {
+  "title": "Bakan Işıkhan: İŞKUR aracılığıyla geçtiğimiz yıl yaklaşık 1 milyon 478 bin vatandaşımızı işe yerleştirdik",
+  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-isikhan-iskur-araciligiyla-gectigimiz-yil-yaklasik-1-milyon-478-bin-vatandasimizi-ise-yerlestirdik/3994520",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Çalışma Bakanı Işıkhan, geçtiğimiz yıl İŞKUR aracılığıyla yaklaşık 1 milyon 478 bin vatandaşın işe yerleştirildiğini açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-10T17:01:19.318221+00:00",
+  "type": "news",
+  "cluster_id": "c0d5e27fc7049"
+ },
+ {
+  "title": "Iran has asked to continue talks and the US agreed, Trump says",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcUtqQnRSYkhpd2ZXamR3RVhpdVVWaWIwVFc4RGRNT2xzaUpaNEdkOENLbHN0SUU3Yzd3ZXZsT3k3WFhEcEpOZWZFbEhYSXFJbGpiYlpsRnp2MTAwc09DLThKOU1meXJBS0l1SXhyUHhGZmhUR0R4VFBjeG9lVUVGN1Jnd2RaQllDTC1EQnlNTEZEQzdqNFhkSE1CYTNYZk5KVTdlSm9iUQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, İran'ın müzakereleri sürdürme talebinde bulunduğunu ve ABD'nin buna razı olduğunu duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T17:01:19.318221+00:00",
+  "type": "news",
+  "cluster_id": "ca254ffc1e774"
+ },
+ {
   "title": "Trump: İran'a ateşkesin kesin olarak bittiğini ilettik",
   "link": "https://www.cumhuriyet.com.tr/dunya/trump-iran-a-ateskesin-kesin-olarak-bittigini-ilettik-2519774",
   "source": "Cumhuriyet",
@@ -55788,45 +55836,5 @@
   "score": 7,
   "ts": "2026-05-29T18:00:51.762537+00:00",
   "cluster_id": "c3420f16fcc03"
- },
- {
-  "title": "İran basını: Trump'ın iddiasının aksine ABD ile henüz anlaşmaya varılmadı",
-  "link": "https://www.trthaber.com/haber/dunya/iran-basini-trumpin-iddiasinin-aksine-abd-ile-henuz-anlasmaya-varilmadi-946563.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran basını, Trump'ın ABD'yle anlaşma yaptığı iddiaını yalanladı; henüz müzakere sürmektedir.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T18:00:51.762537+00:00",
-  "cluster_id": "c3420f16fcc03"
- },
- {
-  "title": "İşgalci İsrail ordusu, Lübnan'ın güneyinde birçok beldeyi bombaladı",
-  "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-lubnanin-guneyinde-bircok-beldeyi-bombaladi-946561.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail ordusu Lübnan'ın güneyindeki Nebatiye, Sur ve Sayda'ya hava saldırıları düzenledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T18:00:51.762537+00:00",
-  "cluster_id": "c942720be0a9d"
- },
- {
-  "title": "Romanya'da 'İHA' paniği: Putin'den açıklama geldi",
-  "link": "https://www.cumhuriyet.com.tr/dunya/romanya-da-iha-panigi-putin-den-aciklama-geldi-2507846",
-  "source": "Cumhuriyet",
-  "summary_tr": "Putin, Romanya'da bir binaya çarpan İHA'nın Rus ordusuna ait olduğunu doğruladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-29T18:00:51.762537+00:00",
-  "cluster_id": "ce51762a199e0"
- },
- {
-  "title": "CHP’li vekile parti binasında protesto: Üç gündür neredeydin?",
-  "link": "https://www.sozcu.com.tr/chp-li-vekile-parti-binasinda-protesto-uc-gundur-neredeydin-p323620",
-  "source": "Sözcü",
-  "summary_tr": "CHP'li vekile parti binasında protesto; Kılıçdaroğlu'nun genel başkanlığa dönüşüne tepki.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-29T18:00:51.762537+00:00",
-  "cluster_id": "cf2dcb82b8bc9"
  }
 ]
