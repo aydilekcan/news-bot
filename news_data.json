@@ -1,5 +1,41 @@
 [
  {
+  "title": "Motorine üç zamdan sonra indirim geliyor",
+  "link": "https://www.diken.com.tr/motorine-uc-zamdan-sonra-indirim-geliyor/?utm_source=rss&utm_medium=rss&utm_campaign=motorine-uc-zamdan-sonra-indirim-geliyor",
+  "source": "Diken",
+  "summary_tr": "Motorine üç zamdan sonra 11 Temmuz'da 2 lira indirim uygulanacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-10T07:01:11.300509+00:00",
+  "type": "news",
+  "cluster_id": "c2e6c7b993a29"
+ },
+ {
+  "title": "Dolar/TL rekorlara doymak bilmiyor: 47 liraya göz kırptı",
+  "link": "https://www.sozcu.com.tr/dolar-tl-rekorlara-doymak-bilmiyor-47-liraya-goz-kirpti-p335277",
+  "source": "Sözcü",
+  "summary_tr": "Dolar/TL kuru 47 liraya yükselerek rekor tazeledi.",
+  "metric": "Dolar/TL 47 liraya ulaştı",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-10T07:01:11.300509+00:00",
+  "type": "news",
+  "cluster_id": "c028b1ad6cf91"
+ },
+ {
+  "title": "CHP İstanbul il binasına polis girdi: İmamoğlu pankartı indirildi",
+  "link": "https://www.diken.com.tr/chp-istanbul-il-binasina-polis-girdi-imamoglu-pankarti-indirildi/?utm_source=rss&utm_medium=rss&utm_campaign=chp-istanbul-il-binasina-polis-girdi-imamoglu-pankarti-indirildi",
+  "source": "Diken",
+  "summary_tr": "CHP İstanbul il binasına polis girdi, İmamoğlu pankartı indirildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-10T07:01:11.300509+00:00",
+  "type": "news",
+  "cluster_id": "c0a876d7b19b2"
+ },
+ {
   "title": "Trump CAATSA ve F-35 sözlerini yerine getirebilecek mi?",
   "link": "https://www.dw.com/tr/trump-caatsa-ve-f-35-sözlerini-yerine-getirebilecek-mi/a-77898772?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -55662,35 +55698,5 @@
   "score": 6,
   "ts": "2026-05-29T10:01:02.110502+00:00",
   "cluster_id": "cac941bfb24ad"
- },
- {
-  "title": "Ekonomi gündemi bayram tatilinden sonra yoğunlaşıyor",
-  "link": "https://www.sozcu.com.tr/ekonomi-gundemi-bayram-tatilinden-sonra-yogunlasiyor-p323538",
-  "source": "Sözcü",
-  "summary_tr": "Haziranda birinci çeyrek büyüme, enflasyon verileri ve TCMB Para Politikası Kurulu kararı piyasaları etkileyecek.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-29T10:01:02.110502+00:00",
-  "cluster_id": "ca63a0379a0d6"
- },
- {
-  "title": "Kılıçdaroğlu’nun Aziz İhsan Aktaş’tan aldığı araç teşhir edildi",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbFRXcUVOTDZRQk81dGVad3FLRnFtMzZzWnF0aDFvZ0hCdTZObFpHdXBndkFXQkVSRzFRZDJsUlZVWm4xSTZvRzg2NFkybEs4MUgxM1FQX3RLVGtZaFlrYWdfX3g5NENQMFFqd242WWY5UDRTczZncnJoN2VuOGR4amd6R3IzN2dYRHZwNjczaktwOW5ENlhxWEh3?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Kılıçdaroğlu'nun Aziz İhsan Aktaş'tan aldığı araç teşhir edildi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-29T10:01:02.110502+00:00",
-  "cluster_id": "c5c3c6b69a44a"
- },
- {
-  "title": "Ruşen Çakır yorumladı: Özgür Özel yeni parti kuracak mı?",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWduUFg0SkxDQmdzYktoUm5wdy1CYjZkMjlEWWhpR0RKTzNjZ0U2SExqY2Ntb3RwbWRYYkx4aTdZZW1hVV9FcFVfZVZsUnZtVDNBYTlWWjNNaWxuUXFGdVN3M0hremdQejdtUzZ0dXlFZDBSMG1SWUx3UmtUbVRKOWUza256aFNzVmZhdEEyM2ctZw?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Ruşen Çakır: Özgür Özel'in yeni parti kurma ihtimali üzerine yorum.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-29T10:01:02.110502+00:00",
-  "cluster_id": "c32cd98db11b5"
  }
 ]
