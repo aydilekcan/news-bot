@@ -1,5 +1,101 @@
 [
  {
+  "title": "İsrail devlet televizyonu: İsrail, ABD'nin talebi üzerine Lübnan'a saldırılarını durdurdu",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-devlet-televizyonu-israil-abdnin-talebi-uzerine-lubnana-saldirilarini-durdurdu/3994619",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusunun ABD'nin talebinin ardından Lübnan'ın güneyine düzenlediği saldırıları durdurduğu bildirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-10T19:01:11.329393+00:00",
+  "type": "news",
+  "cluster_id": "cdcfea0d211bf"
+ },
+ {
+  "title": "İran Meclis Başkanı Kalibaf'tan, \"ABD'nin anlaşmayı ihlal etmesi durumunda karşılık verecekleri\" uyarısı",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-meclis-baskani-kalibaftan-abdnin-anlasmayi-ihlal-etmesi-durumunda-karsilik-verecekleri-uyarisi/3994627",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Meclis Başkanı Kalibaf, ABD'nin Tahran ile yaptığı anlaşmayı ihlal etmesi durumunda İran'ın karşılık vereceği uyarısında bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-10T19:01:11.329393+00:00",
+  "type": "news",
+  "cluster_id": "c7341080782a6"
+ },
+ {
+  "title": "US senators say agreement reached with Trump on Russia sanctions bill",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMG9jWDI1MnV3NXctZEhMVGpDb0ZmdTI5U1ZBV2xZTUN6bU52SUxRVmRIZURoOUtfcDYwN200WTRCZ1FuRWVOX215eFBKTlM1TDVHLWZHTlJJYmNPRXU4TlBDYWtKaE1oZUlLWk1Ta0JvRmpwOTNvaG1jNW5sWlU3ekc0ZkxFQ2dpMVdpOENlUXdnSlB4NmlJTDhtakNQSjhScHJLakxhb2ZEcXExeVlDMw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD senatörleri Trump ile Rusya yaptırımları tasarısı konusunda anlaşmaya vardığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-10T19:01:11.329393+00:00",
+  "type": "news",
+  "cluster_id": "cbf930c88d6df"
+ },
+ {
+  "title": "Özel’den ‘yeni parti için geç kalındı’ eleştirilerine yanıt: ‘Sabrın taştığı yerde yeni partiyi kurar birinci parti yine oluruz’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/ozel-den-yeni-parti-icin-gec-kalindi-elestirilerine-yanit-sabrin-tastigi-yerde-yeni-partiyi-kurar-birinci-parti-yine-oluruz-2519813",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Genel Başkanı Özgür Özel, yeni parti kurulmasında geç kalındığı eleştirilerine yanıt vererek, \"Sabrın taştığı yerde yeni partiyi kurar birinci parti yine oluruz\" dedi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-10T19:01:11.329393+00:00",
+  "type": "news",
+  "cluster_id": "c93e7b95c0774"
+ },
+ {
+  "title": "Kılıçdaroğlu MYK'sı Çağatay Güç'ün kesin ihracını istedi; 7 il başkanı görevden alındı, 15 il başkanlığına yeni atama",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFNFQUxUajdldG5TWjF5eVBveGN1VXdDb01jaGYtT0dVZWxqV1Y3SG5pZUp5b3ZSLTVtclFQZDN1Y2NPcTRjQW9VdXJQaWp3LW0wWDlIR3VyU0JYYkFnUF9Nc29zdzRIaC1LQzNiR2twcWVRYXNDRFRSTzhTdkNZcTI0elkzZDM3QzRNVFVXZ290aVljQnpSQXlSYlA3NGk3eUZkdkVTcHFFQQ?oc=5",
+  "source": "T24",
+  "summary_tr": "Kılıçdaroğlu MYK'sı Çağatay Güç'ün kesin ihracını istedi; 7 il başkanı görevden alındı, 15 il başkanlığına yeni atama yapıldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-10T19:01:11.329393+00:00",
+  "type": "news",
+  "cluster_id": "c591834ad2e28"
+ },
+ {
+  "title": "AFP Türkiye’de grev beşinci gününde: Gazeteciler “insanca ücret” talebiyle direniyor",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ1VpZ3dWME1yU282Yk15UllVRDE0SFk1M25EWFczYmkxU0cyWXc4MVhpNDMyUFA2bGRpN1Q2YnpIRmNEU3kyY1Rld3RidFMtVGIzQ09lTS0xeHhReVotUGlIQ0hLeHY3akR2MzJJcy1xVW9LaGxnWE9VY3FCcjNjMHFDa0ZncUJTZGdvZFBYdTRnbFQxX1o1bTZnei1fWVVXYTVsTWFXLVlKMzZnSndEYks2eVc?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "AFP Türkiye'de grev beşinci gününde; gazeteciler \"insanca ücret\" talebiyle direniyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-10T19:01:11.329393+00:00",
+  "type": "news",
+  "cluster_id": "ca670aaaaf54c"
+ },
+ {
+  "title": "Hakan Fidan’dan CAATSA ve F-35 açıklaması: ‘Yakında neticeye ulaşacağız’",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeHQyRUdpcGl6VU1xRHNlbGhxQnB4bmRWeUZqX0FRa084X2ZXdTBVN002UC1LeE1rQ0NxcTl4MzZxTDNLTnBXQVZMdXFwVkdGWV8yb281YndoY0hrdFo4dm9jSXF0TVJ0b2ZWdnZqTTBLVmduTGtNeGV6a0MwS1JpalNOTnVDcmpxekdWR2NlVVBDcEtmbUJFa3BDSHZOWjlmTmdKQ1NRbmxBUQ?oc=5",
+  "source": "soL",
+  "summary_tr": "Dışişleri Bakanı Hakan Fidan, CAATSA ve F-35 meselesi hakkında \"Yakında neticeye ulaşacağız\" açıklaması yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T19:01:11.329393+00:00",
+  "type": "news",
+  "cluster_id": "c8dfad4f49f42"
+ },
+ {
+  "title": "US makes it easier to export certain military items, AI chips and commercial satellites to the UAE",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd0RpM0tkVDY3RXZ5NzBYZnZKR1hkME1NSVE2TVdNYUJCSjY5VWk1LUhfUFd3NTlMdktER1MtOHhEUjVVOHRhSHcxTGh2TFlFMTNsZmt2dzk0WTdFbHUxZm5SNExFX3JyNldDWHpYcHg1dFRGWGdoX2Y5QU1UUGR1TmpodmktT3lXenhad3JqOTMtUERoZmpFX0dMTFh1VEtQdEp5ZERMRGJYNjloTG94X05Ka2pYQWFlU1NENjFTd0tTN002dFBOb3g0d0QxUQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, belirli askeri ürünler, yapay zeka çipleri ve ticari uydu ihracatını BAE'ye kolaylaştırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T19:01:11.329393+00:00",
+  "type": "news",
+  "cluster_id": "c8eee9348bf26"
+ },
+ {
   "title": "Yoksuldan alıp zengine verdiler: 17 milyon yurttaşı sosyal yardıma mahkum ettiler",
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcmRUc2JidnAxYU1PVk9mUDBiaHdPVnFUXzh5eDRGZzR0U3ZFbVJEMUxNaUlsWloyUmtybS1hOV9LUjA1YWZsNGZRYUNBenZhVGpyNTlHV3FzXzZMT3h0bHBQc2MyN3ZvSlBIbUgzWklmd3YxSFJHZ1R0YURxRFFjNDg1RHlNZDdvYWZlcmU4ZU1WWkpvVlpQMm85dHVCdmZBMkFQVmFFX29USUF6ZEhlS0hsbUxwR3NUZmc?oc=5",
   "source": "soL",
@@ -55768,85 +55864,5 @@
   "score": 6,
   "ts": "2026-05-29T20:00:55.910902+00:00",
   "cluster_id": "c73ad4378156c"
- },
- {
-  "title": "BM: İsrail, cinsel şiddeti önlemek için çaba gösterdiğine dair hiçbir kanıt sunmadı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/bm-israil-cinsel-siddeti-onlemek-icin-caba-gosterdigine-dair-hicbir-kanit-sunmadi-2507855",
-  "source": "Cumhuriyet",
-  "summary_tr": "BM raporu: İsrail, cinsel şiddet suçlarını önlemeye yönelik çaba gösterdiğine dair hiçbir kanıt sunmadı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-29T20:00:55.910902+00:00",
-  "cluster_id": "c03f3ca6ddea1"
- },
- {
-  "title": "Brezilya lideri Lula da Silva: ABD, Brezilya'ya çocuk gibi muamele etmemeli",
-  "link": "https://www.trthaber.com/haber/dunya/brezilya-lideri-lula-da-silva-abd-brezilyaya-cocuk-gibi-muamele-etmemeli-946570.html",
-  "source": "TRT Haber",
-  "summary_tr": "Brezilya Devlet Başkanı Lula, ABD'nin ülkedeki 2 çeteyi terör örgütü listesine alması kararını eleştirdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-29T20:00:55.910902+00:00",
-  "cluster_id": "cfe00600a59c5"
- },
- {
-  "title": "Rusya Avrupa’yı açık açık tehdit etti: Huzurlu uyku sona erdi",
-  "link": "https://www.sozcu.com.tr/rusya-avrupa-yi-acik-acik-tehdit-etti-huzurlu-uyku-sona-erdi-p323626",
-  "source": "Sözcü",
-  "summary_tr": "Rusya Güvenlik Konseyi Başkan Yardımcısı Medvedev, AB'nin Rusya ile çatışma sürecine girdiğini belirterek tehdit etti.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-29T19:01:04.578520+00:00",
-  "cluster_id": "c4bb0e50ae203"
- },
- {
-  "title": "Medvedev’den Avrupa’ya İHA yanıtı: 'Savaşın doğrudan tarafısınız, huzur içinde uyuyamayacaksınız'",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTTIyOExaR0lCM21RQmFSSzdmZmMyVkxBRXR3UTlWb1F3Vkc2ODBCbTZVLXZJWVQzd0hQUVpzbUFlUWpOQ0c1STNMLUV0WWtxX1ZaUHcxa04wb25zcWR4Skx0cFU0cFcxbnROY2tRa0Y4WFRKS0Ric1ZmeHZWZllXRTg5bkpvUzJkcG1Ob0ZMWDRBRjVvX1ZrUVMzRUlqMDFJMDVmMkNGR21HTVZ3dExTa2VaSnJTbWhZUTgwdl9jUQ?oc=5",
-  "source": "soL",
-  "summary_tr": "Medvedev, Avrupa'nın savaşın doğrudan tarafı olduğunu ve huzur içinde uyuyamayacağını söyledi.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-29T19:01:04.578520+00:00",
-  "cluster_id": "ce0debc62efbd"
- },
- {
-  "title": "Son Dakika... Yandaş gazeteci duyurdu, avukatı yalanladı: Kılıçdaroğlu'nun ekibi CHP’lilerin mitingini engellemek için Vali'ye başvurdu mu?",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-yandas-gazeteci-duyurdu-kilicdaroglu-nun-ekibi-chp-lilerin-mitingini-engellemek-icin-vali-ye-basvurdu-2507852",
-  "source": "Cumhuriyet",
-  "summary_tr": "Mahkeme kararıyla atanan Kılıçdaroğlu yönetimi, seçilmiş CHP Genel Başkanı Özel'in mitingini iptal ettirmek için Vali'ye başvurdu iddiası ortaya çıktı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-29T19:01:04.578520+00:00",
-  "cluster_id": "c445e49d8b7cc"
- },
- {
-  "title": "Israeli push to take more of Gaza raises alarm as Hamas warns against escalation",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMnpBWnZINGo1aU12NnEtczN6TWh3RWVVMlNMNlpZVGRWM193WFZPR183ZUZ5Tm9TandfYXM4OTZ1U3dnLW5mSml5Vk1OV0pKbWtUd19KVGs3NUNiVGpqV0VvNXNBZUlXc0lTV2tscWdnLTJ4TjBiQXhBcXA2b21yRTE1NExOOUV5dXhmaVBHR1RvTW8xWml4NXBBNDhmVnYwODZKWWpvcmw2WGlqTm9ZeWJMbjVQOGswU0JSS1Ztdw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İsrail'in Gazze'de daha fazla alan ele geçirmesi planı alarm yarıyor, Hamas ise eskalasyona karşı uyarıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T19:01:04.578520+00:00",
-  "cluster_id": "cf2b9522ea92c"
- },
- {
-  "title": "ABD'nin İran açıklaması sonrası Bulgaristan'dan dikkat çeken karar",
-  "link": "https://www.sozcu.com.tr/abd-nin-iran-aciklamasi-sonrasi-bulgaristan-dan-dikkat-ceken-karar-p323630",
-  "source": "Sözcü",
-  "summary_tr": "Bulgaristan, ABD uçakları ve personelinin ülkede kalış süresini 30 Haziran 2026'ya uzattı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-29T19:01:04.578520+00:00",
-  "cluster_id": "ceb314e26e187"
- },
- {
-  "title": "Kılıçdaroğlu Özgür Özel'in mitingini engellemek için Vali'ye başvurduğu iddiasına yalanlama",
-  "link": "https://www.sozcu.com.tr/kilicdaroglu-ozgur-ozel-in-mitingini-engellemek-icin-vali-ye-basvurdu-p323629",
-  "source": "Sözcü",
-  "summary_tr": "Kılıçdaroğlu'nun Özel'in mitingini engellemek için Vali'ye başvurduğu iddiasına yalanlama geldi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-29T19:01:04.578520+00:00",
-  "cluster_id": "c13cc9bca5ce2"
  }
 ]
