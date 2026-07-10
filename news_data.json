@@ -1,5 +1,53 @@
 [
  {
+  "title": "Trump: İran'a ateşkesin kesin olarak bittiğini ilettik",
+  "link": "https://www.cumhuriyet.com.tr/dunya/trump-iran-a-ateskesin-kesin-olarak-bittigini-ilettik-2519774",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD Başkanı Trump, İran'a ateşkesin kesin olarak bittiğini iletti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-10T16:01:08.273561+00:00",
+  "type": "news",
+  "cluster_id": "c627acb10dfb1"
+ },
+ {
+  "title": "Trump: İran’la ateşkes sona erdi, görüşmeler sürecek",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWVNnSkFlVXRQWDNjbGRkc2UxVEdGN3JteVZOa2tGbjJqSi1PdWFtUklUV2xXYWZUTnBzN3pWNkszNGtGam9jaURPNVgzekRpWkFJaUFSV0NpR3ViSUJDb1kzMXowcDh0WjREWlNydXpmZElINkxyNzlCb0pLcm9yX3hCSWpfT2o1M0xvT0FDSEQ?oc=5",
+  "source": "soL",
+  "summary_tr": "Trump, İran'la ateşkesin sona erdiğini ancak görüşmelerin devam edeceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-10T16:01:08.273561+00:00",
+  "type": "news",
+  "cluster_id": "cf90f3ccf0c7a"
+ },
+ {
+  "title": "Trump says US agreed to Iran's request to continue talks, but ceasefire is over",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWU8weHNqWU10dDFxUGpMR3Z5LW0xVVVnTlNuU2ZBaWpXS0ZnbHQ4c3BENmZ2QVZMZ0VLWmIyUnU0NVM2Tkp4T0lONVM2NnF5cHluZWRxR3FkOXdsNEJoQ3I1VmV3a3hOcExFWll0Vkp2VUJKN2xpcU13US1lOEkxWE1CcEY2dWZGbUZ4TzZ3V0lYRUhLdC1CZjJNTDVJZVM2TDZpSUU0V0lQdkZn?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, ABD'nin İran'ın görüşmelere devam talebini kabul ettiğini, ancak ateşkesin sona erdiğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-10T16:01:08.273561+00:00",
+  "type": "news",
+  "cluster_id": "cf3feef5935c8"
+ },
+ {
+  "title": "TUFE (aylık): %32,11",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ2YwQmx2Y0JTTHdiNlNtM2JSZFFLVlhUbDh6Y0taQ0xqdDBSODNYTVhjaV9wYm9taEtURVJsdVZnSjl3aDFTNmtKeUJCRkl5bzRPem9XYWZ6QlN4YmFsUjlLNzRFekt0VnRPMHNpZHg3dnUzbFloWTdQN0pBbUNuSFR2SXljeTl4YnFPT3ZMc2JGbnJZQ1FoLQ?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%0.99 → %32,11 (+31,1 puan)",
+  "metric": "+31,1 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-10T16:01:08.273561+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Trump: ABD, İran'a ateşkesin sona erdiğini bildirdi",
   "link": "https://www.diken.com.tr/trump-abd-irana-ateskesin-sona-erdigini-bildirdi/?utm_source=rss&utm_medium=rss&utm_campaign=trump-abd-irana-ateskesin-sona-erdigini-bildirdi",
   "source": "Diken",
@@ -55780,45 +55828,5 @@
   "score": 6,
   "ts": "2026-05-29T18:00:51.762537+00:00",
   "cluster_id": "cf2dcb82b8bc9"
- },
- {
-  "title": "ABD Başkanı Trump, İran'la ilgili son kararı bugün verebileceğini açıkladı",
-  "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trump-iranla-ilgili-son-karari-bugun-verebilecegini-acikladi-946559.html",
-  "source": "TRT Haber",
-  "summary_tr": "Trump İran'la anlaşma konusunda Cuma günü nihai karar vereceğini Beyaz Saray'da güvenlik ekibiyle görüşme sonrasında açıkladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-29T17:00:56.288907+00:00",
-  "cluster_id": "c486c50918240"
- },
- {
-  "title": "Trump says meeting Friday to make final decision on deal with Iran",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc3lQZEkwQjl6c2E5OWJKWmZfZ2ZXeXlZd1NDUVNNeEFMUUJHLUVWd0w2c3Vqb3hweHRVaVdqbWtuS3hPVkpHcG5DdGgxN1lxSjdlVGRwcm5WT2pvMW5pQkNtTDg1ZkoxZF93LUJ4T2VIWWlUWlFxVzBBY2RGbTBQQ3d1Z1hXZ0FlcXRTdGpDRUs2ZklLNWhRU2hmc1hUc0xGOVkxWA?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump İran'la anlaşmaya ilişkin nihai kararı Cuma günü vermesi bekleniyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-29T17:00:56.288907+00:00",
-  "cluster_id": "c91d00bf15113"
- },
- {
-  "title": "İran basınından Trump’ın müzakerelere ilişkin açıklamasına tepki: 'Sahte bir zafer algısı...'",
-  "link": "https://www.cumhuriyet.com.tr/dunya/iran-basinindan-trump-in-muzakerelere-iliskin-aciklamasina-tepki-sahte-bir-zafer-algisi-2507840",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Başkanı Trump İran müzakere sürecine ilişkin açıklamaları yapıyor; İran medyası bunları 'sahte zafer algısı' olarak nitelendiriyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T17:00:56.288907+00:00",
-  "cluster_id": "c17d2dcd7b62a"
- },
- {
-  "title": "İstanbul Barosu Başkanı: Mazbata Özgür Özel'dedir, YSK Kılıçdaroğlu için herhangi bir işlemde bulunmadı",
-  "link": "https://www.sozcu.com.tr/istanbul-barosu-baskani-mazbata-ozgur-ozel-dedir-ysk-kilicdaroglu-icin-herhangi-bir-islemde-p323613",
-  "source": "Sözcü",
-  "summary_tr": "İstanbul Barosu Başkanı: YSK Kılıçdaroğlu için işlem yapmadı; CHP Genel Başkanlığı mazbatası Özgür Özel'dedir.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T17:00:56.288907+00:00",
-  "cluster_id": "caa0a81685f2a"
  }
 ]
