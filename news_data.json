@@ -1,5 +1,41 @@
 [
  {
+  "title": "Trump, kendisine suikast düzenlemeleri halinde İran'ın \"hiç görülmemiş seviyede bombalanmasını\" istedi",
+  "link": "https://www.aa.com.tr/tr/dunya/trump-kendisine-suikast-duzenlemeleri-halinde-iranin-hic-gorulmemis-seviyede-bombalanmasini-istedi/3994742",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, kendisine yönelik suikast planı durumunda İran'ın \"hiç görülmemiş seviyede bombalanmasını\" istedi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-10T23:01:07.877304+00:00",
+  "type": "news",
+  "cluster_id": "c35147d3f3a19"
+ },
+ {
+  "title": "ABD, İran'dan Hürmüz Boğazı’nda gemilere saldırmama ve tüm geçişlere açık tutma taahhüdü istiyor",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-irandan-hurmuz-bogazi-nda-gemilere-saldirmama-ve-tum-gecislere-acik-tutma-taahhudu-istiyor/3994741",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD yönetimi, İran'dan Hürmüz Boğazı'ndaki saldırıları durdurup tüm deniz geçiş hatlarını açık tutmasını talep ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-10T23:01:07.877304+00:00",
+  "type": "news",
+  "cluster_id": "c1a055c807c15"
+ },
+ {
+  "title": "US insists Iran commit to stopping attacks in Hormuz strait, say US officials",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTDI4WnJQY1UzQVd1QjZQMXRFUkM2SHdzNV9EYmd2cTQ2a1h3cTN0NTlza0JSMWFlbFhibmY0SnVRSHU0U2ZsRGpoMEhMamd5RXNZUXZRVUJRQnVzVGhtajFJbHdXSUtjNy1iOGpTODU3dG5YLUphaGlYRDRXLUZSdXF2U3laZDhaeTVvalFJbjlGOGJYaTFFdnRuMUJmZXE3U1Z0LTRxaUtiNTNnQnQ2bGdDZEVhUzV4OHdBVlBTSVVBdw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, İran'dan Hürmüz Boğazı'ndaki saldırıları durdurmasına ve deniz geçişlerine açık tutmasına dair taahhüt talep ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-10T23:01:07.877304+00:00",
+  "type": "news",
+  "cluster_id": "c699286ad280b"
+ },
+ {
   "title": "Atama ve görevden alma kararları Resmi Gazete'de",
   "link": "https://www.cumhuriyet.com.tr/turkiye/atama-ve-gorevden-alma-kararlari-resmi-gazete-de-2519860",
   "source": "Cumhuriyet",
@@ -55860,35 +55896,5 @@
   "score": 7,
   "ts": "2026-05-29T23:00:48.573525+00:00",
   "cluster_id": "c26e92570282b"
- },
- {
-  "title": "Trump ponders whether to move forward with Iran deal but hasn’t yet decided",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUxZdlYtVWNyZDJncHVnbE0xVVFKUG1xbmFUUWZ1MnMwNWI5NTBwSk1MZ242MTFFZGdBeUFRa0FWaHRoSkRjdEJuU0RkS1JGUl9JNXVDb1VQbDFDWmtiZElsc0Q5andtZ0RDeEc2MUtsdTl4TXZObnplVkdRWWJTdHJ3bFB4U3RodG5NSnJaY0JmZDFvaUpXOHl4Yw?oc=5",
-  "source": "AP",
-  "summary_tr": "Trump, İran nükleer anlaşmasıyla ilgili kararını henüz vermedi; değerlendirme devam ediyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T23:00:48.573525+00:00",
-  "cluster_id": "cc79dcdc6897b"
- },
- {
-  "title": "With a stalemate in Ukraine and discontent at home, Putin seems ready to escalate his war",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUnBDOE82RmJOQm9MUWxDRnJteVkwU2FseW0yOE5TM1NteWtMb1EwMzJYOWVISFFsODJZNG1QMzQzYXZ5Vm56WkdNMElhUEowb2hwNVFiYzVLQ3pEMmhxMndyQVpHbWs5UXpjNHJaTUtiODV2VVktbkNjSWRhTVA5Q0lfSEE1Qzl0QUdSaGRodGVXbmMyNVJvRlN3?oc=5",
-  "source": "AP",
-  "summary_tr": "Ukraine'de çıkmaza giren Putin, iç hoşnutsuzluk ortamında savaşı eskalasyon için hazır görünüyor.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-05-29T22:01:00.282825+00:00",
-  "cluster_id": "c2d9ae46d429a"
- },
- {
-  "title": "More Fed policymakers eye possible rate hike as inflation risks rise",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONHZGRC1lZE9FMWRpVnlkVVFaZWFLWkowZWZjaW8teHlXenZhdVJ3OWw3WW1pejA2YUhHNTRpTExYSGE1bDFKQ1JWdVo5YnNSeDEwMGFsanJreTc2SDR6MlFIRnl5UEMwV3VDXzNGcERrX3ZlRS16c2xscjlNeXZoM2pGM25oNjNCcGJiN2tFbjAydWdyOUZYal9fallKcUo3VWZjd1htTnI?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Fed politikacılarının birçoğu enflasyon riskleri artarken faiz artırımı yapılabileceğini düşünüyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-29T22:01:00.282825+00:00",
-  "cluster_id": "c9f3b84f9395a"
  }
 ]
