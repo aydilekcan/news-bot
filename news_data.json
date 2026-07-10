@@ -1,5 +1,17 @@
 [
  {
+  "title": "Türkiye'den AP'nin Kıbrıs kararına tepki: 'Yok hükmünde'",
+  "link": "https://www.bbc.com/turkce/articles/ceqd8vq1l7lo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Türkiye, Avrupa Parlamentosu'nun Kıbrıs kararına tepki gösterdi ve kararı hükümsüz saymıştır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T00:01:17.868921+00:00",
+  "type": "news",
+  "cluster_id": "c062482be1110"
+ },
+ {
   "title": "Supreme Leader Ayatollah Ali Khamenei has been laid to rest months after being killed in Iran war",
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmZnOENNRXdELTloYWdZVG84OGRxcnFydXg5S1RNYWYyeTVkZGQ3XzkwV0hJdXRDNzBrSEp2ZUw2UkU5LVJkcWtyc0FXOHZkM1cwanhvaUFFM3g2WjJ6bkdHZmJVbE8zNGFneWF4VzM5VFdWcGNmUWo4VnljNktvSWJ3eE9XaThVZVVPM2NlQlhoUVh4T2E0cnJB?oc=5",
   "source": "AP",
@@ -55648,15 +55660,5 @@
   "score": 6,
   "ts": "2026-05-29T08:01:03.614066+00:00",
   "cluster_id": "c3d2fe92bc650"
- },
- {
-  "title": "Ebola mücadelesine Batı'dan bütçe darbesi: Salgın küresel riske dönebilir",
-  "link": "https://www.trthaber.com/haber/dunya/ebola-mucadelesine-batidan-butce-darbesi-salgin-kuresel-riske-donebilir-946493.html",
-  "source": "TRT Haber",
-  "summary_tr": "Kongo'daki Ebola salgını, ABD ve İngiltere'nin bütçe kesintileriyle küresel riskeye dönüyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-29T08:01:03.614066+00:00",
-  "cluster_id": "c9c6e6a332f50"
  }
 ]
