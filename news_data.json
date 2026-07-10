@@ -1,5 +1,89 @@
 [
  {
+  "title": "Hamas Gazze'de sivil yönetimden neden çekiliyor?",
+  "link": "https://www.dw.com/tr/hamas-gazze-de-sivil-yönetimden-neden-çekiliyor/a-77900024?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Hamas, Gazze'deki 2007'den beri devam eden fiili yönetimini feshedeceğini açıkladı. Hareketin iktidardan çekilip çekilmediği açık değil.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-10T09:01:12.461301+00:00",
+  "type": "news",
+  "cluster_id": "c7062c044ede1"
+ },
+ {
+  "title": "Dünyanın en büyük 20 ekonomisi belli oldu: Türkiye kaçıncı sırada?",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/dunyanin-en-buyuk-20-ekonomisi-belli-oldu-turkiye-kacinci-sirada-2519641",
+  "source": "Cumhuriyet",
+  "summary_tr": "IMF'nin nominal GSYİH projeksiyonlarına göre Türkiye'nin dünyanın en büyük 20 ekonomisi arasında sıralaması belli oldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-10T09:01:12.461301+00:00",
+  "type": "news",
+  "cluster_id": "c7ca67fb43146"
+ },
+ {
+  "title": "ASELSAN'a yaklaşık 1,5 milyar avroluk hava savunma görevi",
+  "link": "https://www.aa.com.tr/tr/bilim-teknoloji/aselsana-yaklasik-1-5-milyar-avroluk-hava-savunma-gorevi/3993997",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ASELSAN, hava savunma sistemleri seri üretim projelerine yaklaşık 1,5 milyar avroluk yeni görev üstlendi.",
+  "metric": "Değer: 1,5 milyar avro",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-10T09:01:12.461301+00:00",
+  "type": "news",
+  "cluster_id": "c9064722a238b"
+ },
+ {
+  "title": "ASELSAN'a yaklaşık 1,5 milyar euroluk hava savunma görevi",
+  "link": "https://www.trthaber.com/haber/savunma/aselsana-yaklasik-15-milyar-euroluk-hava-savunma-gorevi-950846.html",
+  "source": "TRT Haber",
+  "summary_tr": "ASELSAN, hava savunma sistemleri seri üretim projelerine yaklaşık 1,5 milyar avroluk yeni görev üstlendi.",
+  "metric": "Değer: 1,5 milyar avro",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-10T09:01:12.461301+00:00",
+  "type": "news",
+  "cluster_id": "c9064722a238b"
+ },
+ {
+  "title": "Bakan Gürlek'ten İstanbul ve Ankara'daki operasyonlara dair açıklama",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/bakan-gurlek-ten-istanbul-ve-ankara-daki-operasyonlara-dair-aciklama-2519645",
+  "source": "Cumhuriyet",
+  "summary_tr": "Bakan Gürlek, İstanbul ve Ankara'da yasa dışı bahis gelirlerinin kripto para üzerinden aklanmasına yönelik soruşturmada 76,3 milyar liralık işlem tespit edildiğini açıkladı.",
+  "metric": "İşlem: 76,3 milyar lira",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T09:01:12.461301+00:00",
+  "type": "news",
+  "cluster_id": "c7bba353643cd"
+ },
+ {
+  "title": "Avrupa İmar ve Kalkınma Bankası, yılın ilk yarısında Türkiye'ye 1,2 milyar avroluk yatırım yaptı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/avrupa-imar-ve-kalkinma-bankasi-yilin-ilk-yarisinda-turkiyeye-1-2-milyar-avroluk-yatirim-yapti/3993990",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Avrupa İmar ve Kalkınma Bankası, 2026'nın ilk yarısında Türkiye'ye 1,2 milyar avro yatırım yaptığını açıkladı.",
+  "metric": "Yatırım: 1,2 milyar avro",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T09:01:12.461301+00:00",
+  "type": "news",
+  "cluster_id": "c7f1751ffaff8"
+ },
+ {
+  "title": "IEA: Hürmüz'deki petrol akışıyla küresel arz haziranda günlük 4,1 milyon varil arttı",
+  "link": "https://www.trthaber.com/haber/dunya/iea-hurmuzdeki-petrol-akisiyla-kuresel-arz-haziranda-gunluk-41-milyon-varil-artti-950841.html",
+  "source": "TRT Haber",
+  "summary_tr": "Uluslararası Enerji Ajansı, Hürmüz Boğazı'ndan petrol akışının yeniden başlamasıyla Körfez üretiminde haziranda günlük 4,1 milyon varil artış sağlandığını bildirdi.",
+  "metric": "Petrol arzı artışı: günlük 4,1 milyon varil",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T09:01:12.461301+00:00",
+  "type": "news",
+  "cluster_id": "c294ae1bc8cee"
+ },
+ {
   "title": "Türkiye dolar milyoneri artışında dünya ikincisi: Ekonomik krizin ortasında zengin sayısında artış",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/turkiye-dolar-milyoneri-artisinda-dunya-ikincisi-ekonomik-krizin-ortasinda-zengin-sayisinda-artis-2519631",
   "source": "Cumhuriyet",
@@ -55638,75 +55722,5 @@
   "score": 6,
   "ts": "2026-05-29T12:00:59.043833+00:00",
   "cluster_id": "c03db125b937b"
- },
- {
-  "title": "Ukrayna açıklarında vurulan gemi için Dışişleri Bakanlığı açıklama yaptı",
-  "link": "https://www.sozcu.com.tr/ukrayna-aciklarinda-vurulan-gemi-icin-disisleri-bakanligi-aciklama-yapti-p323568",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye Dışişleri Bakanlığı Odesa açıklarında vurulan Türk kargo gemisi ANT hakkında açıklama yaptı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-29T12:00:59.043833+00:00",
-  "cluster_id": "cd305b66d0cf8"
- },
- {
-  "title": "Fransa'da, İsrail'in Sumud Filosu'ndaki aktivistlere kötü muamelesine ilişkin soruşturma açılacak",
-  "link": "https://www.aa.com.tr/tr/dunya/fransada-israilin-sumud-filosundaki-aktivistlere-kotu-muamelesine-iliskin-sorusturma-acilacak/3951100",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Fransa, İsrail'in Sumud Filosu'ndaki Fransız aktivistlere kötü muamelesine ilişkin soruşturma açacak.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-29T12:00:59.043833+00:00",
-  "cluster_id": "cfaa9132d1b0f"
- },
- {
-  "title": "Malaysia PM Anwar under pressure amid growing defections from his party",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUHlPTngzOThIUHB6TU5jSFA4V1lKdy1kWUNYQ1MtXzR0TEpIQXhkNDdDWkRVNWZJQ293aUFFcmIwemR2cWhFTEJZajc5NTdCZWpUU1ZjeHBndlFaVThlcHdkQmxyS3RnTHRESXNyd2VBdko4QTFRVVVsREZqWThhcTJjbGJKVzJCUzhST3BuVXdkTDFXUGw3ZHk2SkRiTXk5UUd0aFJJaDhTOUR6Z0Y1TnVseXdmTGhwdUU5cEh3?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Malezya Başbakanı Anwar, partisinden ayrılıklar nedeniyle artan baskı altında.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-29T12:00:59.043833+00:00",
-  "cluster_id": "cb8d9f6931f9f"
- },
- {
-  "title": "e-Duruşma sisteminin kapsamı genişliyor",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/e-durusma-sisteminin-kapsami-genisliyor-2507755",
-  "source": "Cumhuriyet",
-  "summary_tr": "Adalet Bakanlığı e-Duruşma sisteminin bölge adliye mahkemelerine genişletilmesi için çalışma başlattı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-29T11:00:50.097886+00:00",
-  "cluster_id": "c38255574c8e8"
- },
- {
-  "title": "Kıbrıs meselesi hortluyor: AB'den Türkiye'ye kınama geldi",
-  "link": "https://www.sozcu.com.tr/kibris-meselesi-hortluyor-ab-den-turkiye-ye-kinama-geldi-p323555",
-  "source": "Sözcü",
-  "summary_tr": "Avrupa Komisyonu, COP31 iklim zirvesine Güney Kıbrıs'ı hazırlık toplantılarına dahil etmeyen Türkiye'yi kınadı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-29T11:00:50.097886+00:00",
-  "cluster_id": "c48617affc2fc"
- },
- {
-  "title": "Kamulaştırma davalarında mahkemenin belirlediği bedeller merkezi sistemde toplanacak",
-  "link": "https://www.aa.com.tr/tr/gundem/kamulastirma-davalarinda-mahkemenin-belirledigi-bedeller-merkezi-sistemde-toplanacak/3951127",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Adalet Bakanlığı kamulaştırma davalarında mahkeme tarafından belirlenen bedelleri merkezi sistemde toplamaya yönelik yeni düzenleme planlıyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-29T11:00:50.097886+00:00",
-  "cluster_id": "cadf589d7b2d8"
- },
- {
-  "title": "CHP'de kritik gün yarın: İki lider, iki ayrı program",
-  "link": "https://www.dw.com/tr/chp-de-kritik-gün-yarın-iki-lider-iki-ayrı-program/a-77341303?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "CHP'de mutlak butlan kararıyla bölünme eşiğinde; Kılıçdaroğlu ve Özel Ankara'da ayrı programlarla partililerle buluşacak.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-29T10:01:02.110502+00:00",
-  "cluster_id": "c460ed59282b6"
  }
 ]
