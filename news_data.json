@@ -1,5 +1,125 @@
 [
  {
+  "title": "Haziranda ikinci el araç fiyatları belli oldu: Yıllık artış yüzde 15,4",
+  "link": "https://www.cumhuriyet.com.tr/otomotiv/haziranda-ikinci-el-arac-fiyatlari-belli-oldu-yillik-artis-yuzde-15-4-2519749",
+  "source": "Cumhuriyet",
+  "summary_tr": "İkinci el araç fiyatları Haziran'da yıllık %15,4 arttı; ilk 6 ayda %5 artış gösterdi.",
+  "metric": "İkinci el araç fiyatları (yıllık artış) %15,4; ilk 6 ayda +%5",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-10T14:01:20.503402+00:00",
+  "type": "news",
+  "cluster_id": "c7165f602c1a7"
+ },
+ {
+  "title": "Dev bankadan döviz analizi: Paradan para kazanmada 20 yılın fırsatı",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/dev-bankadan-doviz-analizi-paradan-para-kazanmada-20-yilin-firsati-2519746",
+  "source": "Cumhuriyet",
+  "summary_tr": "Goldman Sachs, küresel döviz piyasasında carry trade stratejisi için son 20 yılın en elverişli koşullarının oluştuğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-10T14:01:20.503402+00:00",
+  "type": "news",
+  "cluster_id": "cdc1e2225bbb4"
+ },
+ {
+  "title": "EXCLUSIVE: Russia’s gasoline output covers 65% of demand after Ukrainian strikes, sources say",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM3RKMFk3cHFOdURWcDhtd0trdzhsYWhsdjZ5dzBrQUx2Q01KeDVvTnFkODhIZTZKeXVYTUh4MzZKQ1U3NklhSWlRQUJuN0dPNTFLelFZcWY4WGVHWXNuZkxBYlZ6Nk5yQzZVSHNBZjRROHE1d3FpRGNOa194ZUczamtzdVdlQnFDUHkwb0t4bXlyWnZTWUwwcWs2OVVXQUVETndjRXJaaTJERnd4MXlUWVNpUkhwV1pQeEFZTXJRdkQ4U0ZXRHNr?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ukrayna saldırıları sonrası Rusya'nın benzin üretimi talebin sadece %65'ini karşılıyor; kritik enerji açığı ortaya çıktı.",
+  "metric": "Rusya benzin üretimi talepte %65 kapsama",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-10T14:01:20.503402+00:00",
+  "type": "news",
+  "cluster_id": "cb460c7a77ecb"
+ },
+ {
+  "title": "5,9 milyar dolarlık anlaşma: Vodafone'nun en büyük hissedarı değişiyor",
+  "link": "https://www.diken.com.tr/59-milyar-dolarlik-anlasma-vodafonenun-en-buyuk-hissedari-degisiyor/?utm_source=rss&utm_medium=rss&utm_campaign=59-milyar-dolarlik-anlasma-vodafonenun-en-buyuk-hissedari-degisiyor",
+  "source": "Diken",
+  "summary_tr": "Vodafone'nun en büyük hissedarı değişiyor: Fransız milyarder Xavier Niel, 5,9 milyar dolarlık anlaşmayla şirketi satın alıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T14:01:20.503402+00:00",
+  "type": "news",
+  "cluster_id": "c4a1afaff2fbb"
+ },
+ {
+  "title": "Taze Fındık tezgaha indi: Kilosu 200 TL'den alıcı bekliyor",
+  "link": "https://www.cumhuriyet.com.tr/yasam/taze-findik-tezgaha-indi-kilosu-200-tl-den-alici-bekliyor-2519747",
+  "source": "Cumhuriyet",
+  "summary_tr": "Taze fındık hasat dönemi yaklaşırken Ordu'da üreticiler ürünlerini kilosu 200 TL'den satmaya başladı.",
+  "metric": "Taze fındık fiyatı 200 TL/kg",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T14:01:20.503402+00:00",
+  "type": "news",
+  "cluster_id": "c0b17ef452627"
+ },
+ {
+  "title": "Hafta başında el sıkışmışlardı, bugün her şey değişti! Ünlü hava yolu şirketine dudak uçuklatan teklif",
+  "link": "https://www.sozcu.com.tr/hafta-basinda-el-sikismislardi-bugun-her-sey-degisti-unlu-hava-yolu-sirketine-dudak-ucuklatan-teklif-p335428",
+  "source": "Sözcü",
+  "summary_tr": "easyJet, Castlelake ile anlaştıktan sonra ABD'li Apollo'nun 5,7 milyar sterlinlik sürpriz teklifini aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T14:01:20.503402+00:00",
+  "type": "news",
+  "cluster_id": "c307d6e4402cb"
+ },
+ {
+  "title": "Çay, salam ve sucukta büyük hile: Bakanlık markaları bugün açıkladı",
+  "link": "https://www.sozcu.com.tr/bakanlik-markalari-tek-tek-acikladi-cay-salam-ve-sucukta-buyuk-hile-p335425",
+  "source": "Sözcü",
+  "summary_tr": "Tarım ve Orman Bakanlığı, taklit veya tağşiş yapılan gıdalar listesine çay, salam ve sucuk gibi 15 yeni ürün ekledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T14:01:20.503402+00:00",
+  "type": "news",
+  "cluster_id": "c425f0ea20ece"
+ },
+ {
+  "title": "Euroya geçer geçmez işler ters gitti: AB disiplin süreci başlattı",
+  "link": "https://www.sozcu.com.tr/euroya-gecer-gecmez-isler-ters-gitti-ab-disiplin-sureci-baslatti-p335424",
+  "source": "Sözcü",
+  "summary_tr": "Avrupa Birliği, yüksek bütçe açığı nedeniyle Bulgaristan'a yönelik disiplin süreci başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T14:01:20.503402+00:00",
+  "type": "news",
+  "cluster_id": "cdd4194ab00a3"
+ },
+ {
+  "title": "İsvea, 1 milyar liranın üzerinde yatırımla sektördeki konumu güçlendirecek",
+  "link": "https://www.aa.com.tr/tr/ekonomi/isvea-1-milyar-liranin-uzerinde-yatirimla-sektordeki-konumu-guclendirecek/3994310",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Vitrifiye seramik ve banyo ürünleri şirketi İsvea, halka arzdan sağladığı kaynakla 1 milyar liradan fazla yatırım yapacak.",
+  "metric": "İsvea yatırım tutarı 1+ milyar TL",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T14:01:20.503402+00:00",
+  "type": "news",
+  "cluster_id": "c5d6c8adec4e0"
+ },
+ {
+  "title": "Shein wins Chinese approval for Hong Kong IPO",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRUNNTVNVXzJTN3FSaDhQSU5FTzhEdldaaHdva194ZVgxM1AxWV90QmhJbmpzejMyQUxRUVBsZTFvVzU3NER3M1h3T2d6R1FpcjR0NkVsYkluMS01SW9vbVM5UE5oR3kwMXFNV0tuaGYxT2ljVVlmcGJqRjVXMDlhZTdPZ0hSS3hl?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin malı Shein, Hong Kong borsasında halka arz için Çin onayını aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T14:01:20.503402+00:00",
+  "type": "news",
+  "cluster_id": "cb36e17644b85"
+ },
+ {
   "title": "TCMB Başkanı Karahan, JP Morgan Türkiye Ekonomi Forumu'nda sunum yaptı",
   "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-jp-morgan-turkiye-ekonomi-forumunda-sunum-yapti/3994140",
   "source": "Anadolu Ajansı",
@@ -55684,105 +55804,5 @@
   "score": 7,
   "ts": "2026-05-29T16:01:10.183055+00:00",
   "cluster_id": "c791193d454f1"
- },
- {
-  "title": "Emekli Danıştay Başsavcısı’ndan ‘mutlak butlan’ değerlendirmesi: ‘BAM değil YSK yetkili’",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/emekli-danistay-bassavcisi-ndan-mutlak-butlan-karari-degerlendirmesi-bam-degil-ysk-yetkili-2507831",
-  "source": "Cumhuriyet",
-  "summary_tr": "Emekli Danıştay Başsavcısı, Ankara Bölge Adliye Mahkemesi'nin CHP kurultaylarına ilişkin 'mutlak butlan' kararının YSK yetkisi kapsamında olması gerektiğini değerlendirdi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-29T16:01:10.183055+00:00",
-  "cluster_id": "ca1f10ccabc7a"
- },
- {
-  "title": "Russia's diesel output falls a further 10% in May after drone attacks, data analysis shows",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX21mUF9hMFUtaTJpMFBFSVJ6R3ZTVG5HX1o3STB3bURTTS1XR0FPZjhDSWpPZE1OS1NQSWNjNUNoNDAtNXJodDRBVnN6bkt3YjdqX29BNnpmZDE1eHN5WlVOYlFsOEVGM3dZWjNfdkJOUWR6b1RNR3pORWlGcHRueUIxWTFmZFhxWC1aVFJUcHFzdHNpQUF2cUFhZDBDZGJXanhkblVlcTJjcHhvWFVrSU96a0hVM3VQTkdLNXVZMHczSlY0VVhv?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Rusya'nın dizel üretimi mayısta drone saldırılarının ardından %10 daha düştü.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T16:01:10.183055+00:00",
-  "cluster_id": "c51c38a97e61b"
- },
- {
-  "title": "European Union unlocks billions in funding for Hungary after rapid reforms by new leader Magyar",
-  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTDRzT1BSc2tKWGx1TVBISUYyMWwxTWtIeTRSMVE3QzVITkpYcXFxbG5rTk5YLVhzY2VoclZCcUw2RnJQby1xNWpZTERWX3JJWEY5bmtBSHdoWmFnTmhRaU5zaEwwVjVlXzFQT2ZyaWE5cnI4SnJfNGI0WEZhM0lyaFItSlpQLWRrODVZ?oc=5",
-  "source": "AP",
-  "summary_tr": "AB, yeni lider Magyar'ın hızlı reformları sonrası Macaristan'ın kilitli fonlarını açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T16:01:10.183055+00:00",
-  "cluster_id": "cf6d06c9cf62c"
- },
- {
-  "title": "CHP’nin eski Grup Başkanvekili Engin Altay’dan ‘mutlak butlan’ çıkışı: ‘Pimi çekilmiş bir bomba; Kemal Bey’e yönelik tepki öngörülenden çok büyük’",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-nin-eski-grup-baskanvekili-engin-altay-dan-mutlak-butlan-cikisi-pimi-cekilmis-bir-bomba-kemal-bey-e-yonelik-tepki-ongorulenden-cok-buyuk-2507829",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP eski Grup Başkanvekili Altay, Kılıçdaroğlu'nun MYK'sına karşı tepkinin beklentiden büyük olduğunu söyledi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-29T16:01:10.183055+00:00",
-  "cluster_id": "ceaef4acf3aa5"
- },
- {
-  "title": "AB'nin 6 büyük ekonomisinden, \"Sermaye Piyasaları Birliği\" için ortak hamle",
-  "link": "https://www.aa.com.tr/tr/ekonomi/abnin-6-buyuk-ekonomisinden-sermaye-piyasalari-birligi-icin-ortak-hamle/3951400",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "AB'nin 6 büyük ekonomisi sermaye piyasalarında entegrasyon için ortak hamle yaptı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-29T16:01:10.183055+00:00",
-  "cluster_id": "c99871989e353"
- },
- {
-  "title": "e-Duruşma sistemi bölge adliye mahkemelerinde de uygulanmaya başlayacak",
-  "link": "https://www.aa.com.tr/tr/gundem/e-durusma-sistemi-bolge-adliye-mahkemelerinde-de-uygulanmaya-baslayacak/3951390",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Adalet Bakanı, e-Duruşma sisteminin bölge adliye mahkemelerine genişletileceğini açıkladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-29T16:01:10.183055+00:00",
-  "cluster_id": "c58927c987e70"
- },
- {
-  "title": "Ateşkes görüşmelerinde dikkat çeken iddia: İran, yüksek düzeyde zenginleştirilmiş uranyumu Çin'e gönderebilir",
-  "link": "https://www.cumhuriyet.com.tr/dunya/ateskes-gorusmelerinde-dikkat-ceken-iddia-iran-yuksek-duzeyde-zenginlestirilmis-uranyumu-cin-e-gonderebilir-2507819",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD-İran ateşkes müzakerelerinde İran, yüzde 60 zenginleştirilmiş uranyum stokunu Çin'e transfer etmeyi teklif edebilir.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-29T15:01:01.843353+00:00",
-  "cluster_id": "c670630e2c590"
- },
- {
-  "title": "Israeli and Russian forces added to UN blacklist for sexual violence in conflict zones",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeHFURS00TDI3LXpqOTdiaWF0ZWVQTXFvQWhFN3hGVHJlN1RlZG43ajFHcjdkYnBvX1U2WTNhMG4wcENaenhjQVZWcVZRajJTZjFEdG1FY09FUTh2YVk4X2ZhRWRlZnM5Zk0xWGYwU1RZQzRhRVZ2ZjBteXItenZIMHBYOUJLYjNRd3RjalpTS3lvcjFMZGVOblFwSVpzWDRzNlZvVTh0NjZnR0lJLWx5OVJ3X3BjQQ?oc=5",
-  "source": "AP",
-  "summary_tr": "BM, cinsel şiddet konusunda İsrail ve Rusya güçlerini kara listeye ekledi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-29T15:01:01.843353+00:00",
-  "cluster_id": "c8c0765467d3b"
- },
- {
-  "title": "Karadeniz'de yük gemilerine saldırılar: Dışişleri Bakanlığı'ndan taraflara uyarı",
-  "link": "https://www.bbc.com/turkce/articles/cvgz492n8g2o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Dışişleri Bakanlığı, Karadeniz'de Türk gemisine İHA saldırısını kınadı; iki denizci yaralandı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T15:01:01.843353+00:00",
-  "cluster_id": "c3369e8674cfe"
- },
- {
-  "title": "Rus dronu krizi: Romanya, Rusya'nın Köstence Başkonsolosluğu'nu kapatıyor",
-  "link": "https://www.diken.com.tr/rus-dronu-krizi-romanya-rusyanin-kostence-baskonsoloslugunu-kapatiyor/?utm_source=rss&utm_medium=rss&utm_campaign=rus-dronu-krizi-romanya-rusyanin-kostence-baskonsoloslugunu-kapatiyor",
-  "source": "Diken",
-  "summary_tr": "Romanya, Rus dronu krizi sonrası Rusya'nın Köstence Başkonsolosluğu'nu kapatıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T15:01:01.843353+00:00",
-  "cluster_id": "cb8b8d04ae816"
  }
 ]
