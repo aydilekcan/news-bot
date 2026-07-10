@@ -1,5 +1,77 @@
 [
  {
+  "title": "Atama ve görevden alma kararları Resmi Gazete'de",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/atama-ve-gorevden-alma-kararlari-resmi-gazete-de-2519860",
+  "source": "Cumhuriyet",
+  "summary_tr": "Cumhurbaşkanı Erdoğan'ın imzasıyla Milli Savunma, Aile ve Sosyal Hizmetler, Kültür ve Turizm bakanlıklarında atama ve görevden alma kararları Resmi Gazete'de yayımlandı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-10T22:01:15.059962+00:00",
+  "type": "news",
+  "cluster_id": "cb5fb3d293dd8"
+ },
+ {
+  "title": "Ukraine creates 'long-range' command to step up strikes on Russia",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWFlVMElxNkZJbUx6S0lWcVZfSEhLd0g2RXJEbU10OTNkZjFfZmFLVmtMZWlabTBkcGlERDJVT0ZkMktiMkhCeUN3NnA0QWN3d2Z2UFNTaEtwZjJKNDhMWFJmbDZOZV8zWFluVkUtOTc3M2hCcTF5RFNSRVczRDhIR2VjLVN0Sk83eGxoTmJ2N2otYzNMbU50RzRDVFdrRU1MUEwwVXo2UW9OcUFW?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ukrayna, Rusya'ya karşı uzun menzilli saldırıları artırmak için özel bir komuta oluşturdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-10T22:01:15.059962+00:00",
+  "type": "news",
+  "cluster_id": "c7eedd798c5dc"
+ },
+ {
+  "title": "Resmi Gazete yayınlandı: Danimarka Büyükelçiliği'ne Burak Özügergin atandı",
+  "link": "https://www.sozcu.com.tr/resmi-gazete-yayinlandi-danimarka-buyukelciligi-ne-burak-ozugergin-atandi-p335506",
+  "source": "Sözcü",
+  "summary_tr": "Cumhurbaşkanı Erdoğan'ın imzasıyla Burak Özügergin Danimarka Büyükelçiliği'ne atandı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-10T22:01:15.059962+00:00",
+  "type": "news",
+  "cluster_id": "c4b14014ca946"
+ },
+ {
+  "title": "Apple \"ticari sırlarını çaldığı\" iddiasıyla iki eski çalışanı ve OpenAI'a dava açtı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/apple-ticari-sirlarini-caldigi-iddiasiyla-iki-eski-calisani-ve-openaia-dava-acti/3994735",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Apple, iki eski çalışanı ve yapay zeka şirketi OpenAI'a ticari sırlarını çaldığı iddiasıyla dava açtı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T22:01:15.059962+00:00",
+  "type": "news",
+  "cluster_id": "cc99c54dd6762"
+ },
+ {
+  "title": "İran Dışişleri Bakanlığı Sözcüsü: İran, ABD ile müzakere talebinde bulunmadı",
+  "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakanligi-sozcusu-iran-abd-ile-muzakere-talebinde-bulunmadi-950905.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Dışişleri Bakanlığı Sözcüsü İsmail Bekayi, İran'ın ABD ile müzakere talebinde bulunduğu yönündeki iddiaları reddetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T22:01:15.059962+00:00",
+  "type": "news",
+  "cluster_id": "c72cced738b84"
+ },
+ {
+  "title": "Apple sues OpenAI, two former employees for trade secrets theft",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU2NSa1NYbHVibGtrWnV6T2hRd180dUp6WWxFQ2c0bm1POHhGeHk1TlpBQXV6dDBKZVh0MWpkbUVacjlFczV4RmQ2N3ctYVEtcTVrWjdXYTJ1WmRkZ2U5WEh2Q3Nkc05LREJaM19IQS1lRzQ5Q051aGdKRjh1QnIyaENVR2FxWllSMzUycmczRXV5MnVRNFBOMG5RUU5jYkpjYVdiMmMzNjcwdVBZd3AtREJSNEVpdVFnd2JQOHRDM1ZUWjFCS1JMTQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Apple, iki eski çalışanı ve OpenAI'a ticari sırlarını çaldığı iddiasıyla dava açtı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T22:01:15.059962+00:00",
+  "type": "news",
+  "cluster_id": "c673bb388625f"
+ },
+ {
   "title": "Trump, gizli İran talimatını ilk kez açıkladı",
   "link": "https://www.sozcu.com.tr/trump-gizli-iran-talimatini-ilk-kez-acikladi-p335496",
   "source": "Sözcü",
@@ -55818,65 +55890,5 @@
   "score": 8,
   "ts": "2026-05-29T22:01:00.282825+00:00",
   "cluster_id": "c9f3b84f9395a"
- },
- {
-  "title": "Trump meets with aides to determine whether to move forward with Iran deal",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUxZdlYtVWNyZDJncHVnbE0xVVFKUG1xbmFUUWZ1MnMwNWI5NTBwSk1MZ242MTFFZGdBeUFRa0FWaHRoSkRjdEJuU0RkS1JGUl9JNXVDb1VQbDFDWmtiZElsc0Q5andtZ0RDeEc2MUtsdTl4TXZObnplVkdRWWJTdHJ3bFB4U3RodG5NSnJaY0JmZDFvaUpXOHl4Yw?oc=5",
-  "source": "AP",
-  "summary_tr": "Trump, Iran anlaşmasıyla ilgili yönü belirlemek için danışmanlarıyla görüşüyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-29T22:01:00.282825+00:00",
-  "cluster_id": "c651b7add678e"
- },
- {
-  "title": "Mutlak butlana bir tepki daha: Görevi kabul etmeyeceğim",
-  "link": "https://www.sozcu.com.tr/mutlak-butlana-bir-tepki-daha-gorevi-kabul-etmeyecegim-p323653",
-  "source": "Sözcü",
-  "summary_tr": "Mahkemenin mutlak butlan kararına görevine iade edilen isimlerden biri görevi kabul etmeyeceğini açıkladı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-29T22:01:00.282825+00:00",
-  "cluster_id": "cc469788f5aa1"
- },
- {
-  "title": "Iran's strongest card in nuclear talks: its highly enriched uranium",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLVB1eHR2RnVCbmhWRnllZXpzUE9qNXFCeW5BNU5DQ3Uwcy1MVTUxbURrSC1rTUVGakxlZjktLURZZFEtYzFPbjU4TExmYlVFYnBQZ1VrSVRlLW14TUhnd01mbWIxamhkQzloeTZMQkNKSHlabkE2QUhyakNXcWNvSmdZQW1KM2RfYlRQLUJneFBDS25oZ011Um5WQlU5SjA3TGtKeG5IOA?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Iran, nükleer müzakerelerde yüksek oranda zenginleştirilmiş uranyumunu ana kozası olarak kullanıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T22:01:00.282825+00:00",
-  "cluster_id": "ca4737dee5dd0"
- },
- {
-  "title": "NYT: Trump, İran konusunda nihai kararını vermedi",
-  "link": "https://www.diken.com.tr/nyt-trump-iran-konusunda-nihai-kararini-vermedi/?utm_source=rss&utm_medium=rss&utm_campaign=nyt-trump-iran-konusunda-nihai-kararini-vermedi",
-  "source": "Diken",
-  "summary_tr": "NYT: Trump İran konusunda nihai kararını henüz vermedi; ABD üst düzey yetkililer koşullu müzakereler üzerinde çalışıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T21:00:56.499204+00:00",
-  "cluster_id": "c9efd5b1ac4a5"
- },
- {
-  "title": "İsrail ve Rusya kara listeye alındı! Tüm detaylar raporda yer aldı",
-  "link": "https://www.sozcu.com.tr/israil-ve-rusya-kara-listeye-alindi-tum-detaylar-raporda-yer-aldi-p323643",
-  "source": "Sözcü",
-  "summary_tr": "BM raporu İsrail ve Rusya'yı cinsel şiddet nedeniyle kara listeye aldı; Gazze ve Batı Şeria'da insan hakları ihlalleri doğrulandı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T21:00:56.499204+00:00",
-  "cluster_id": "cea93cb429119"
- },
- {
-  "title": "ABD, İran bağlantılı 1 milyar dolarlık kripto varlığa el koyduğunu duyurdu",
-  "link": "https://www.trthaber.com/haber/dunya/abd-iran-baglantili-1-milyar-dolarlik-kripto-varliga-el-koydugunu-duyurdu-946573.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD Hazine Bakanı Bessent, İran bağlantılı 1 milyar dolarlık kripto varlığına el konduğunu açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T21:00:56.499204+00:00",
-  "cluster_id": "cb28c536f2dbf"
  }
 ]
