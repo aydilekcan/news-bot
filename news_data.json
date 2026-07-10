@@ -1,5 +1,53 @@
 [
  {
+  "title": "Türkiye, Kıbrıs'ın kuzeyinde doğalgaz boru hattı inşa edecek",
+  "link": "https://www.bbc.com/turkce/articles/c892jz3kgn5o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Türkiye ve Kıbrıs'ın kuzeyindeki Türk yönetimi, yaklaşık 100 km doğalgaz boru hattı inşası için anlaşma imzalayacak.",
+  "metric": "100 kilometrelik boru hattı",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-10T10:01:11.491049+00:00",
+  "type": "news",
+  "cluster_id": "c982be8f406c4"
+ },
+ {
+  "title": "Türk lirasıyla dış ticaret 6 ayda 773 milyar liraya ulaştı",
+  "link": "https://www.trthaber.com/haber/ekonomi/turk-lirasiyla-dis-ticaret-6-ayda-773-milyar-liraya-ulasti-950849.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türk lirasıyla dış ticaret yılın ilk yarısında 773 milyar liraya ulaştı, bir önceki yılın aynı dönemine kıyasla %10,7 arttı.",
+  "metric": "Dış ticaret (TL) yılın ilk 6 ayında: +%10,7 artış (773 milyar TL)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-10T10:01:11.491049+00:00",
+  "type": "news",
+  "cluster_id": "cb33a05994120"
+ },
+ {
+  "title": "ŞA-RA Enerji talep toplama sürecinin son günü",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/sa-ra-enerji-talep-toplama-surecinin-son-gunu-2519666",
+  "source": "Cumhuriyet",
+  "summary_tr": "ŞA-RA Enerji'nin halka arzında talep toplama süreci 10 Temmuz'da sona eriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T10:01:11.491049+00:00",
+  "type": "news",
+  "cluster_id": "cd754bf0a152d"
+ },
+ {
+  "title": "Dünyanın en zengin ülkeleri belli oldu: İşte Türkiye'nin güncel sırası",
+  "link": "https://www.sozcu.com.tr/dunyanin-en-zengin-ulkeleri-belli-oldu-iste-turkiye-nin-guncel-sirasi-p335358",
+  "source": "Sözcü",
+  "summary_tr": "IMF verilerine göre dünyanın en büyük ekonomileri sıralaması açıklandı; Türkiye'nin güncel konumu belirtildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T10:01:11.491049+00:00",
+  "type": "news",
+  "cluster_id": "c04087a524912"
+ },
+ {
   "title": "Hamas Gazze'de sivil yönetimden neden çekiliyor?",
   "link": "https://www.dw.com/tr/hamas-gazze-de-sivil-yönetimden-neden-çekiliyor/a-77900024?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -55682,45 +55730,5 @@
   "score": 6,
   "ts": "2026-05-29T13:01:04.083587+00:00",
   "cluster_id": "c3fc9761dcb9d"
- },
- {
-  "title": "CHP'de 'mutlak butlan' krizi... Murat Karayalçın'dan 'yeni parti' açıklaması: 'Tasfiye olursa düşünülmeli'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-de-mutlak-butlan-krizi-murat-karayalcin-dan-yeni-parti-aciklamasi-tasfiye-olursa-dusunulmeli-2507777",
-  "source": "Cumhuriyet",
-  "summary_tr": "Eski bakanlardan Murat Karayalçın, CHP'deki 'mutlak butlan' krizine ilişkin tasfiye olması durumunda yeni parti kurulmasının düşünülmesi gerektiğini söylemiştir.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-29T13:01:04.083587+00:00",
-  "cluster_id": "c0b39a87ab71c"
- },
- {
-  "title": "DSÖ Başkanı ebola salgının başladığı ülkeden dünyaya seslendi",
-  "link": "https://www.sozcu.com.tr/dso-baskani-ebola-salginin-basladigi-ulkeden-dunyaya-seslendi-p323557",
-  "source": "Sözcü",
-  "summary_tr": "DSÖ Başkanı Ebola salgınının vurduğu Demokratik Kongo'ya giderek taraflardan ateşkese çağrı yaptı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T12:00:59.043833+00:00",
-  "cluster_id": "ce9185b01c862"
- },
- {
-  "title": "UN to place Israel on sexual violence in conflict blacklist, Israeli envoy says",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNTkxUVZfQW5WRzlpYWxBTXdnVG84b3REbktTUjlrUVVWWklBZGdTRFpfY0xMSXd5amwyaU52WXM2M2FYRF9Tb2d3NS1QNm1CSWFuY0JXYmJVOEM2ODd3aWU4c2FSc2llU2lxeWFhQkFMVGJJWU5KckE3NUVBb1ZLck14bXlyZVZRdzNrV1R5dXh4c3dQSUxNS2dqcDVDMU81dmJPQVhmSkhodmh5RTRHZ1g1azctRGJocnV6cVJmeHYxdEM1?oc=5",
-  "source": "Reuters",
-  "summary_tr": "BM, İsrail'i cinsel şiddet konusunda çatışma kara listesine almaya hazırlanıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T12:00:59.043833+00:00",
-  "cluster_id": "cb6ef856c3e2a"
- },
- {
-  "title": "Ankara’da iki ayrı bayramlaşma hazırlığı: Özgür Özel ve Kemal Kılıçdaroğlu yurttaşlarla bir araya gelecek",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/ankara-da-iki-ayri-bayramlasma-hazirligi-ozgur-ozel-ve-kemal-kilicdaroglu-yurttaslarla-bir-araya-gelecek-2507767",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Ankara'da iki ayrı bayramlaşma programı düzenliyor; Kılıçdaroğlu ve Özgür Özel katılacak.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-29T12:00:59.043833+00:00",
-  "cluster_id": "c03db125b937b"
  }
 ]
