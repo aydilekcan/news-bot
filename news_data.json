@@ -1,5 +1,53 @@
 [
  {
+  "title": "ABD-İran ateşkesi neden kalıcı olamadı, tarafların pozisyonları ne?",
+  "link": "https://www.bbc.com/turkce/articles/cyv0zg82m8ro?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD-İran ateşkesi neden başarısız oldu: Tahran ve Washington'ın Hürmüz Boğazı, Lübnan ve yatırım konularında ortak çıkarlara odaklanamaması.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-10T05:01:09.052759+00:00",
+  "type": "news",
+  "cluster_id": "ce813726f74e1"
+ },
+ {
+  "title": "Oil heads for weekly gain as Middle East supply risks persist",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdU1pbkMwaXhwRm5RZ000RGVzRzA0b0hTa24wcF9ZWG8wcThYNnRmSTlDdDBsdFhBZEk3OWg5Uzl1WHlvZ3hNSUlZVUtfSFp2Y1RqYmx0bGpfNlRNT05jY2JrUXQxSkR5bWY4UUtjUjl4VWROSnZoeEpIaGtYTkJfZjdET2I0eDk0ZzlNek9QZ1JJYXRIcEhvaWJNWGlZbV9SN2hRSlZwQmJpZFN1ajNSYzBZNmFYR2ZIMlE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ortadoğu'daki arz riskleri petrol fiyatlarını yükseliş yönünde desteklemeye devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-10T05:01:09.052759+00:00",
+  "type": "news",
+  "cluster_id": "ce2771af513c7"
+ },
+ {
+  "title": "Küresel elektrikli araç satışları haziranda yüzde 7 artışla 2 milyona ulaştı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-elektrikli-arac-satislari-haziranda-yuzde-7-artisla-2-milyona-ulasti/3993792",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Küresel elektrikli araç satışları haziranda yılda %7 artarak 2 milyona ulaştı; ilk yarı satışları 9,6 milyondu.",
+  "metric": "EV satışları (haziran, yılda) +%7",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T05:01:09.052759+00:00",
+  "type": "news",
+  "cluster_id": "cc495b788c3be"
+ },
+ {
+  "title": "Yen rises as Japan encourages pension funds to invest in domestic assets",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVlNWNVhscmdMTlRQTTRaVzNnQzU3Vk9OM1g1VjZlZkRTVGl3MWs1bWFIYjF0WnhUMlVfNjZ5UDNrOXdZS0hXR2VYbmRzc2lnOUdkYk10Tk1FXzBMS2g5clZLMWJFTi1YdlE4anNBTzV5R21QUURNTS00VG9kY29TQlItRjRnaDBpeURaRkJQQlFJZ2R0ak5xVC1WRjZTb3diQ1lYUU5ibXR5Y2U1RzN3?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Japonya emeklilik fonlarını yerli varlıklara yatırımı teşvik ederken yen yükselişe geçti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T05:01:09.052759+00:00",
+  "type": "news",
+  "cluster_id": "cf944c8b1937f"
+ },
+ {
   "title": "Özgür Özel görevden alınıyor",
   "link": "https://www.sozcu.com.tr/ozgur-ozel-gorevden-aliniyor-p335228",
   "source": "Sözcü",
@@ -55640,45 +55688,5 @@
   "score": 7,
   "ts": "2026-05-29T09:01:01.136329+00:00",
   "cluster_id": "cd53f36d85a09"
- },
- {
-  "title": "Oil steadies as market awaits possible US-Iran ceasefire deal",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNME9kd0xNOHBUWk45Q05sRmpnQlBXN3h5VW95NVR5clRwalJRR28wcHhSMjgxVnAtcU9peTBIeXBXX25CU3luOUtsZ0I1VTE5bEhnalNsci11UXo3SlRQUVk2R0NEUHZHYmFrc2o0QVNkTGJUYkRhWUI0cmtRNHQxdS16T2g3MnhvajU4b25iTmpoYkNwa003MmpneThDZTI5cXdNWlV6TUoyNHNIYTJfTg?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Petrol fiyatları, olası ABD-İran ateşkes anlaşması beklentisiyle istikrara kavuştu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T09:01:01.136329+00:00",
-  "cluster_id": "c1e4ab2c60632"
- },
- {
-  "title": "Tahran 'vurduk' dedi... Washington yalanladı! Körfez'de İHA bilmecesi",
-  "link": "https://www.cumhuriyet.com.tr/dunya/tahran-vurduk-dedi-washington-yalanladi-korfez-de-iha-bilmecesi-2507727",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD CENTCOM, İran medyasının Amerikan İHA'sını düşürdüğü iddiasını yalanladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-29T09:01:01.136329+00:00",
-  "cluster_id": "c7c21489cc921"
- },
- {
-  "title": "Türkiye, çeşitlendirilmiş tedarik yapısıyla Hürmüz kaynaklı risklere karşı enerji arz güvenliğini korudu",
-  "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-cesitlendirilmis-tedarik-yapisiyla-hurmuz-kaynakli-risklere-karsi-enerji-arz-guvenligini-korudu/3951017",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye, Hürmüz Boğazı riskleri karşısında çeşitlendirilmiş tedarik yapısıyla enerji arz güvenliğini korudu.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-29T09:01:01.136329+00:00",
-  "cluster_id": "c3cb65f2c2cc1"
- },
- {
-  "title": "Türkiye, tedarik çeşitliliğiyle enerji arz güvenliğini korudu",
-  "link": "https://www.trthaber.com/haber/ekonomi/turkiye-tedarik-cesitliligiyle-enerji-arz-guvenligini-korudu-946503.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye, tedarik çeşitliliğiyle Hürmüz Boğazı aksaklıklarına karşı enerji arz güvenliğini korudu.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-29T09:01:01.136329+00:00",
-  "cluster_id": "c3cb65f2c2cc1"
  }
 ]
