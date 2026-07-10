@@ -1,5 +1,77 @@
 [
  {
+  "title": "Yoksuldan alıp zengine verdiler: 17 milyon yurttaşı sosyal yardıma mahkum ettiler",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcmRUc2JidnAxYU1PVk9mUDBiaHdPVnFUXzh5eDRGZzR0U3ZFbVJEMUxNaUlsWloyUmtybS1hOV9LUjA1YWZsNGZRYUNBenZhVGpyNTlHV3FzXzZMT3h0bHBQc2MyN3ZvSlBIbUgzWklmd3YxSFJHZ1R0YURxRFFjNDg1RHlNZDdvYWZlcmU4ZU1WWkpvVlpQMm85dHVCdmZBMkFQVmFFX29USUF6ZEhlS0hsbUxwR3NUZmc?oc=5",
+  "source": "soL",
+  "summary_tr": "Sosyal yardım sistemindeki değişiklikle 17 milyon yurttaş sosyal yardımdan mahrum kaldı; yoksuldan alınan kaynaklar zenginlere aktarıldı.",
+  "metric": "Sosyal yardımdan mahrum kalan yurttaş sayısı: 17 milyon",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-10T18:01:11.843011+00:00",
+  "type": "news",
+  "cluster_id": "cfa603abb08a0"
+ },
+ {
+  "title": "Bakan Fidan'dan CAATSA yaptırımları ve F-110 motoru açıklaması",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/bakan-fidan-dan-caatsa-yaptirimlari-ve-f-110-motoru-aciklamasi-2519794",
+  "source": "Cumhuriyet",
+  "summary_tr": "Dışişleri Bakanı Hakan Fidan, CAATSA yaptırımları ve F-35 tedarikindeki sorunlara ilişkin açıklama yaptı; irade devam ettiğinde çözüm konusunda iki liderin de kararlı olduğunu belirtti.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-10T18:01:11.843011+00:00",
+  "type": "news",
+  "cluster_id": "c4e81f8a785f1"
+ },
+ {
+  "title": "Fed, yüksek belirsizliğe rağmen ekonomik faaliyetin sağlam hızda genişlediğini belirtti",
+  "link": "https://www.aa.com.tr/tr/ekonomi/fed-yuksek-belirsizlige-ragmen-ekonomik-faaliyetin-saglam-hizda-genisledigini-belirtti/3994571",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Merkez Bankası (Fed), yüksek belirsizliğe rağmen ABD ekonomik faaliyetinin sağlam bir hızda genişlediğini belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-10T18:01:11.843011+00:00",
+  "type": "news",
+  "cluster_id": "c580cb76a8de2"
+ },
+ {
+  "title": "Bakan Bayraktar: Anamur'dan Teknecik'e doğal gaz iletim hattı inşa edeceğiz",
+  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-anamurdan-teknecike-dogal-gaz-iletim-hatti-insa-edecegiz/3994495",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Bakan Bayraktar, Anamur'dan Teknecik'e doğal gaz iletim hattı inşaatını açıkladı; yaklaşık 101 km uzunluğunda (97 km denizde, 4 km karada) olacak.",
+  "metric": "Doğal gaz hattı uzunluğu 101 km (97 km denizde, 4 km karada)",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-10T18:01:11.843011+00:00",
+  "type": "news",
+  "cluster_id": "caaba8ec2d8a4"
+ },
+ {
+  "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Ülkelerimizi deniz altından bağlayacak doğal gaz hattı için çalışmaları başlatıyoruz",
+  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-ulkelerimizi-deniz-altindan-baglayacak-dogal-gaz-hatti-icin-calismalari-baslatiyoruz/3994532",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Türkiye ile KKTC'yi deniz altından bağlayacak doğal gaz hattı için çalışmaları başlatıldığını duyurdu.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-10T18:01:11.843011+00:00",
+  "type": "news",
+  "cluster_id": "c64bfd1d6252f"
+ },
+ {
+  "title": "Türkiye ile KKTC arasında \"KKTC'ye Doğal Gaz Tedarikine Dair Mutabakat Zaptı\" imzalandı",
+  "link": "https://www.aa.com.tr/tr/gundem/turkiye-ile-kktc-arasinda-kktcye-dogal-gaz-tedarikine-dair-mutabakat-zapti-imzalandi/3994559",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye ile KKTC arasında 'KKTC'ye Doğal Gaz Tedarikine Dair Mutabakat Zaptı' imzalandı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-10T18:01:11.843011+00:00",
+  "type": "news",
+  "cluster_id": "c300d73f3a3c8"
+ },
+ {
   "title": "Bakanlık markalarını ifşa etti: Köfte diye 'taşlık' yedirmişler, çaya 'gıda boyası' karıştırmışlar!",
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSjJmbVhVejRxMjRNNkZwSndURnBTMGs5VURZMGVwZXFjTFNSTnJKS2hIV2JnMjZxRk90TElJYWxJNG9WU2dLMzl5N0h1bDZvbGZQX053MTg3YV9RbldnS0ZCWU5TUHFFeS16eU5JOTlraVBrQkx6X3RaSkdreUF6aFgtdkxjYkdpRW5IM1ozdWJLSjhPdkFCalNFUEd6VnR2NjZxaDBwaGtWVC1faG5SQ2NnVHVlVUhBMDhhVmpwTzRyMUxOUUpJ?oc=5",
   "source": "T24",
@@ -55776,65 +55848,5 @@
   "score": 6,
   "ts": "2026-05-29T19:01:04.578520+00:00",
   "cluster_id": "c13cc9bca5ce2"
- },
- {
-  "title": "İsrail'in Lübnan'a saldırılarında 8 Suriyeli öldürüldü",
-  "link": "https://www.sozcu.com.tr/israil-in-lubnan-a-saldirilarinda-8-suriyeli-olduruldu-p323628",
-  "source": "Sözcü",
-  "summary_tr": "İsrail'in Lübnan'daki Adlun bölgesine hava saldırısında 8 Suriyeli hayatını kaybetti.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-29T19:01:04.578520+00:00",
-  "cluster_id": "c0140f742fb71"
- },
- {
-  "title": "Katil İsrail bayramda Gazze'yi vuruyor",
-  "link": "https://www.trthaber.com/haber/dunya/katil-israil-bayramda-gazzeyi-vuruyor-946567.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail ordusu Kurban Bayramı'nın üçüncü gününde Gazze Şeridi'ndeki saldırılarda 2 Filistinliyi öldürdü.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-29T19:01:04.578520+00:00",
-  "cluster_id": "c52d75a1df5a5"
- },
- {
-  "title": "Putin says it's too early to say if the drone which strayed into Romania was Russian",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS0dYXzdRX2dPWFByc2ZERjU4aHJjdjh4cVVtTl9FSjVLeVhnN09OLWVlcXd6a0E3b18tbkQ3VzlxNFFzbUpzM3V4MUgtVjVJZkpJMmVoRHVvNDBJQ2dKSlZyWDd2eU5icDVYSGxEMlpRN0thb1J4cjNwN1dxVlVhNDJFNXNDUUdsblFWV0pYS0hiZVZ0am5LOFNpalR2LXQ1MjAzTTNMX3hzbjFfQXNUaWxjWHI5QVZhb00yeWtEcGFDeU0?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Putin, Romanya'ya giren İHA'nın Rusya'ya ait olup olmadığı konusunda henüz kesin konuşmanın erken olduğunu söyledi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-29T19:01:04.578520+00:00",
-  "cluster_id": "c00944ef8b133"
- },
- {
-  "title": "Trump administration wants to raise N American auto content to 82%, with half from US",
-  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRlVKUzlVMWk3R2drSW5iOUZQeURZSVdMbmN5TXZiVndReC1BZ2JockQtbFZLQXVfQ0pyRU1MUGRYMHFReUNaam0wc3FZRjhjckxFYkJfcE1qVzg1U3NOcXJvb29rMXU4b1FlR0dnMVJkNExXeER4S0Jtem5qczA3ZWhHbHhMUk1OQkd6NHhqVEFZOWdDVUtRcW9vUDJhRWVFR2ZvWjR3cTRhSFpVVjU5bzlfUU5aSW0ySkIyc3NWalFac1lMVEN2ODlhU2VLWnNOWWszeFkweThLZw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump yönetimi Kuzey Amerika otomotiv içeriğini %82'ye çıkarmak istiyor, bunun yarısı ABD'den olmalı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-29T19:01:04.578520+00:00",
-  "cluster_id": "ccf5c8dd634b8"
- },
- {
-  "title": "Trump to decide imminently on Iran deal, says Hormuz Strait must open",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVE5ESU5VTnpnd09UZ3VvYnJ5WmtPOUR1STFHREZuSXBjTmZob2tEUUZUTUZsOWZyaDlCbk9OdVZlM2ZaRUZyMnNvUG83QVl3d3EzbFlZZ3UyaThBaTRXRXBPRktIb0cxWEhrUUdqVHl0NlVBZUFYS3VkTkJlbU1ISUhpdFVKUTFSMklXWHY3TXBXWFptWkNvTWlhMXROQy14RlNvTUh5eFlTUm1ueUNMTnQ1U0p4REp5OTUwaVo2QkhVZw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, İran anlaşması hakkında yakında karar vereceğini söyledi; Hürmüz Boğazı açılmalı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-29T18:00:51.762537+00:00",
-  "cluster_id": "c4e3abd6150c5"
- },
- {
-  "title": "İran basını: Trump'ın iddiasının aksine ABD'yle henüz anlaşılmadı",
-  "link": "https://www.diken.com.tr/iran-basini-trumpin-iddiasinin-aksine-abdyle-henuz-anlasilmadi/?utm_source=rss&utm_medium=rss&utm_campaign=iran-basini-trumpin-iddiasinin-aksine-abdyle-henuz-anlasilmadi",
-  "source": "Diken",
-  "summary_tr": "İran basını, Trump'ın ABD'yle anlaşma yaptığı iddiasını yalanladı; henüz müzakere devam ediyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T18:00:51.762537+00:00",
-  "cluster_id": "c3420f16fcc03"
  }
 ]
