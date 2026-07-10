@@ -1,5 +1,113 @@
 [
  {
+  "title": "TCMB Başkanı Karahan, JP Morgan Türkiye Ekonomi Forumu'nda sunum yaptı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-jp-morgan-turkiye-ekonomi-forumunda-sunum-yapti/3994140",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "TCMB Başkanı Fatih Karahan, hanehalkı döviz talebinin sınırlı kaldığını belirtmiş ve Türk lirası kullanımının önemini vurgulamıştır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-10T13:01:18.838939+00:00",
+  "type": "news",
+  "cluster_id": "c1ef6dc1f3767"
+ },
+ {
+  "title": "'S-400'ler satılacak' iddiasına Rusya'dan ilk yanıt: 'Çok hassas bir mesele'",
+  "link": "https://www.bbc.com/turkce/articles/cpd30d6g8qjo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Rusya, Türkiye'nin S-400 sistemlerinin başka ülkeye satılması konusunda Ankara ile temasta olduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T13:01:18.838939+00:00",
+  "type": "news",
+  "cluster_id": "cbc3b1e7f774d"
+ },
+ {
+  "title": "Rusya: Türkiye ile S-400 konusunu görüşüyoruz",
+  "link": "https://www.dw.com/tr/rusya-türkiye-ile-s-400-konusunu-görüşüyoruz/a-77905538?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Rusya, Türkiye'nin S-400 hava savunma sistemlerinin satışı meselesini 'son derece hassas' bir konu olarak nitelendirdi ve görüşmelerin devam ettiğini belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T13:01:18.838939+00:00",
+  "type": "news",
+  "cluster_id": "c51ac524839ea"
+ },
+ {
+  "title": "Son ankette çarpıcı sonuç: Özgür Özel en yakın rakibini 5 puan geçti",
+  "link": "https://www.sozcu.com.tr/son-ankette-cok-carpici-sonuclar-ozgur-ozel-in-olasi-yeni-partisi-fark-atiyor-p335413",
+  "source": "Sözcü",
+  "summary_tr": "MetroPOLL anketine göre CHP lideri Özgür Özel en yakın rakibini 5 puan farkla geçti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-10T13:01:18.838939+00:00",
+  "type": "news",
+  "cluster_id": "cd64a13181970"
+ },
+ {
+  "title": "Akdeniz İhracatçı Birlikleri, yıl sonunda 18 milyar dolarlık dış satım hedefliyor",
+  "link": "https://www.aa.com.tr/tr/ekonomi/akdeniz-ihracatci-birlikleri-yil-sonunda-18-milyar-dolarlik-dis-satim-hedefliyor/3993955",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Akdeniz İhracatçı Birlikleri, yılın ilk yarısında 9,68 milyar dolar ihracat yaparak yıl sonunda 18 milyar dolar hedefini belirledi.",
+  "metric": "Akdeniz ihracatı (yılın ilk yarısı) 9,68 milyar dolar (yıl hedefi 18 milyar dolar)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T13:01:18.838939+00:00",
+  "type": "news",
+  "cluster_id": "c35781ce1f8dc"
+ },
+ {
+  "title": "ABD'li özel sermaye şirketi Apollo, easyJet'i satın almak için 5,7 milyar sterlin teklif verdi",
+  "link": "https://www.aa.com.tr/tr/dunya/abdli-ozel-sermaye-sirketi-apollo-easyjeti-satin-almak-icin-5-7-milyar-sterlin-teklif-verdi/3994258",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD'li Apollo özel sermaye şirketi, İngiltere'nin easyJet havayolu şirketini 5,7 milyar sterline satın almak için teklif verdi.",
+  "metric": "easyJet satın alma teklifi 5,7 milyar sterlin",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T13:01:18.838939+00:00",
+  "type": "news",
+  "cluster_id": "c766f0d95854a"
+ },
+ {
+  "title": "Rusya'dan S-400 açıklaması: 'Türkiye ile temas halindeyiz'",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZEVqdEV3aFp0OEF2MHhPY1hFZXpRZk9NZGpzQWlObmhJVVdoUjlZOXVFTGItbDBKa2E5MElGUFVLaWlTWGNvMHUxOWYzbFU2ck5Dd1ZQeGpXWmNRY000Unc2aWVtaG5PbEFrb3V1VENoUVFmLVZDeWpGNmpzY0d1enRPT1pQeU5tMWdDdnB4UzlLbDgwS2FR?oc=5",
+  "source": "soL",
+  "summary_tr": "Rusya, Türkiye'nin S-400 sistemleri konusunda temasta olduğunu ve meselenin hassas bir konu olduğunu ifade etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T13:01:18.838939+00:00",
+  "type": "news",
+  "cluster_id": "c3e9ce18e497e"
+ },
+ {
+  "title": "Kremlin says Russia is in touch with Turkey on fate of Russian S-400 missiles",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMEthVDdGM0cyb0p2am5ackVQbkFKckJRWXhDdGsxM2t5UFFhOGpMdkZEcUg0Z2NmWnR2X01OU3JaZGFteXF1SE5rTXFxU1JJWEF1MEdoSXRScFkzQTBhbzh6ZXRzRnZqakRjaWd6bldQeUdIR1V0TmItZnN4azViYnl4WTBMVi0xTmU0R3dXMll1bTJvbm0xd0VQQXEtSXYtc2EwSC02eDdfNmVvOUJj?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Kremlin, Rusya'nın Türkiye'nin S-400 hava savunma sistemlerinin yazgısı konusunda Ankara ile temasta olduğunu doğruladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T13:01:18.838939+00:00",
+  "type": "news",
+  "cluster_id": "ce1b43960a971"
+ },
+ {
+  "title": "UK to regulate cloud service providers Microsoft, Google and others to protect financial stability",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTURGc0ZPdHY3WEU0TGdWcnJsZ3JGWXZuZzR1dmM2V1hLR1BneXMxZXp6aUJveVpNNTdhMUZ1Q0RUX245UENvLWw1MXFfMXpBQXZoNllqWVZURE4yUkxKb0k5SW84ZFVWUXZORkdqXzItUzlBWDg5X0lDTzduTm1pWUlmbjVjdGJkUVJ6NHlFVWNBZm81ejMxUDA0ZDMwQVN2cnIzdkNLc1lRNllsN1N1YUlsQkdLbmJGa19BVHdfSkV0V3A5UDVPN0xrbUtwN01XWFoySg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Birleşik Krallık, finansal istikrarı korumak için Microsoft, Google ve diğer bulut hizmet sağlayıcılarını düzenleyecektir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-10T13:01:18.838939+00:00",
+  "type": "news",
+  "cluster_id": "c19b90edd6ae7"
+ },
+ {
   "title": "S-400'leri Türkiye neden aldı, neden satıyor?",
   "link": "https://www.dw.com/tr/s-400-leri-türkiye-neden-aldı-neden-satıyor/a-77903874?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -55676,95 +55784,5 @@
   "score": 7,
   "ts": "2026-05-29T15:01:01.843353+00:00",
   "cluster_id": "cb8b8d04ae816"
- },
- {
-  "title": "İki denizci yaralandı: İHA saldırısına ilişkin Dışişleri Bakanlığı'ndan açıklama",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/iki-denizci-yaralandi-iha-saldirisina-iliskin-disisleri-bakanligi-ndan-aciklama-2507820",
-  "source": "Cumhuriyet",
-  "summary_tr": "Dışişleri Bakanlığı, Karadeniz'deki kuru yük gemisine yapılan İHA saldırısına ilişkin açıklama yaptı; iki denizci yaralandı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T15:01:01.843353+00:00",
-  "cluster_id": "c4ae569699499"
- },
- {
-  "title": "AB, Macaristan'ın dondurulan 10 milyar avroluk fonunun serbest bırakılabileceğini duyurdu",
-  "link": "https://www.aa.com.tr/tr/dunya/ab-macaristanin-dondurulan-10-milyar-avroluk-fonunun-serbest-birakilabilecegini-duyurdu/3951305",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "AB Komisyonu, Macaristan'ın yolsuzlukla mücadele taahhütleri sonrası dondurulan 10 milyar avro fonunu serbest bırakabileceğini duyurdu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T15:01:01.843353+00:00",
-  "cluster_id": "c2cc7516f5fe2"
- },
- {
-  "title": "Haaretz: BM, İsrail güçlerinin 10'u çocuk 31 Filistinliye cinsel şiddet uyguladığını doğruladı",
-  "link": "https://www.aa.com.tr/tr/dunya/haaretz-bm-israil-guclerinin-10u-cocuk-31-filistinliye-cinsel-siddet-uyguladigini-dogruladi/3951338",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "BM, İsrail güçlerinin işgal altındaki bölgelerde 31 Filistinliye (10'u çocuk) cinsel şiddet uyguladığını doğruladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T15:01:01.843353+00:00",
-  "cluster_id": "cc896c180eebb"
- },
- {
-  "title": "US judge temporarily blocks Trump's $1.8 billion 'weaponization' fund",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb0xLNy01M0Q1MUNIYVhQb2ZiR1VTVU0zSmtNYWt5S1hSaFFqMnI5SmQ3M0FqRk5Sa0FqN0N6eTRRX1ozaWpyWUFoYWVYUlRJMktULVU4Qjk1RmJwVnIzNjdSbi1hdG5IQjRmSjVwdnZJRC03R09DXzFPY242SGIyMGpBNkU0UU4tY3R0OU1ZZGl0WEx6a1JJMTJPdXNscjJTb01BQ3RnV3Zqdw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD hakim, Trump'ın 1,8 milyar dolarlık 'silahlandırma' fonunu geçici olarak bloke etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T15:01:01.843353+00:00",
-  "cluster_id": "c1d5746ba511d"
- },
- {
-  "title": "Russian official warns Europe to brace for more drone incidents after Romania episode",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMDBQVkdUSU0wajMxWGY0X2RwRUVtd0NDYWlqV1lrYV9XN1R5UHk4aXBCV0w0a3hkWFVEekNKMkhGMzJxdWJCdzE1dFd5RWNBY2xWeU9WUlUyZ19aYk1SS3dFS3d6M283TDVfd2hOZWFvZ1RGX19aUWhFandYbEZjZmNmVnVMZDlNM2FRX1A0Ukg5MjAyVnVIMTdseW1rQTltZDZZd0d0WDdScEhOblZZUzZBcGtvOEpqQnZlTkdiQU14cnNqeXc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Rusya, Romanya dronu krizi sonrası Avrupa'yı daha fazla olay yaşanacağı konusunda uyardı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T15:01:01.843353+00:00",
-  "cluster_id": "c9dcb30ee45ca"
- },
- {
-  "title": "EU Commission agrees to unlock €16.4 billion for Hungary",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNFZhMHhlRmhLUk1CLV9kNlliVWlyYmc4NTJmeEE1X1Q4RWRIR1k3WlZ2azRFS1BxYzFkNW9lVlVRcWpxV0RDN3RnRk1GXzBrZTNDREI1VnNXdFFfbFpnUVhsZmljWFo2YWs4ZGlqWHZKSW0zMFlyRXc5RVpfaW5CRHhxUlhHRGhaSXBSOHYwVWw2b0NRS0UtanhBb2hNOUE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "AB Komisyonu, Macaristan için dondurulan 16,4 milyar euro fonunu serbest bırakmayı kabul etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T15:01:01.843353+00:00",
-  "cluster_id": "c669bdb441fa6"
- },
- {
-  "title": "Kılıçdaroğlu cephesinden Altay: Mutlak butlan CHP’ye bombaya dönüştü",
-  "link": "https://yetkinreport.com/2026/05/29/kilicdaroglu-cephesinden-altay-mutlak-butlan-chpye-bombaya-donustu/",
-  "source": "YetkinReport",
-  "summary_tr": "CHP 38. Olağan Kurultay'ına ilişkin mahkeme kararı (mutlak butlan) sonrası siyasi tartışma devam ediyor.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-29T15:01:01.843353+00:00",
-  "cluster_id": "c9dc7758b063f"
- },
- {
-  "title": "İbrahim Kaboğlu’ndan ‘mutlak butlan’ tepkisi: 'Bu zorlama bir karardır'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/ibrahim-kaboglu-ndan-mutlak-butlan-tepkisi-bu-zorlama-bir-karardir-2507827",
-  "source": "Cumhuriyet",
-  "summary_tr": "İstanbul Barosu Başkanı, CHP'nin kurultay kararına tepki göstererek 'zorlama karar' dedi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-29T15:01:01.843353+00:00",
-  "cluster_id": "c144fb7bcd409"
- },
- {
-  "title": "Bu da 9 bin kişilik yeni bir dev anket! Kılıçdaroğlu tepkinin bu kadar büyük olduğunun farkında mı?",
-  "link": "https://www.sozcu.com.tr/bu-da-9-bin-kisilik-yeni-bir-dev-anket-kilicdaroglu-tepkinin-bu-kadar-buyuk-oldugunun-farkinda-mi-p323593",
-  "source": "Sözcü",
-  "summary_tr": "9 bin katılımcılı ankete göre CHP üyeleri Erdoğan'a Kılıçdaroğlu'ndan daha olumlu bakıyor.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-29T15:01:01.843353+00:00",
-  "cluster_id": "c3aba17a1fd7b"
  }
 ]
