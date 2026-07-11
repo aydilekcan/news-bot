@@ -1,5 +1,77 @@
 [
  {
+  "title": "Iran's Supreme Leader pledges revenge for slain father and predecessor",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVFJ6QzJlMkc1VWtrWHlLcms2NkZhSWZ5VnhDazNkY04zS0RMN01UUjhUOGZUajRWVGRqREUtbWRDUjlLakFZaFByZDgySm9mcFNGQi1rLWJFd3RHS09iUVZRZHZGTHFfM1BlTXVYdmhZczl2bFBkZVZDRHE5T0phT2NDd2dTb1F0aS1vRW12SlFCbEFrMGJhRGdSY3FCRHhhd21vbVg5QVNKMl82c1VQd1NaaEp2dw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran'ın yeni dini lideri, öldürülen babası Ayetullah Ali Hamaney'in intikamını almayı taahhüt etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-11T12:01:19.726463+00:00",
+  "type": "news",
+  "cluster_id": "c1ccaf5fb63f6"
+ },
+ {
+  "title": "Trump threatens Iran after open calls for the US leader's assassination during ayatollah's funeral",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb29YUXh5MnNRTjVBazdXOUdMSkx5bkU0WHJFVFRGX1pyY0E5cWZfRXc5NnhQVjdOUVFzZTJFNkpBNlZpdUZIVGdoNk5ieU1sVUw1dDMwdkhSYWF4a0pKUk9nYVFMLW5HRFRjOUJTSTBuVEkxLTQ1X2NEZk5FWDMwV2lnRlBhYmhyY2FjQU82S2pnM2RQSEpfTjFwSXBlbk54OGdr?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump, Hamaney'in cenaze töreninde ABD liderine yönelik açık intikam çağrılarının ardından İran'ı tehdit etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-11T12:01:19.726463+00:00",
+  "type": "news",
+  "cluster_id": "c0a6aabee9191"
+ },
+ {
+  "title": "İsrail ordusu Lübnan'ın güneyindeki bazı beldelere İHA saldırıları gerçekleştirdi",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-lubnanin-guneyindeki-bazi-beldelere-iha-saldirilari-gerceklestirdi/3995004",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusu, Lübnan'ın güneyindeki Nebatiye vilayetine bağlı Kefr Tebnit beldesine İHA saldırıları düzenledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-11T12:01:19.726463+00:00",
+  "type": "news",
+  "cluster_id": "c0a7bf30b03f9"
+ },
+ {
+  "title": "One killed in drone attack on vessels in Taganrog Bay, Russian authorities say",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdzdRZHlYRGh3cmZQMjczcXBqZGtPZGRqaE91NFZKTUhDblk1OEZqRG1BWU1PVnVQbkstWnVNZGtnTUdwX1NaR0c4UHlpNVVoYm9UWEFkd2x5aDBHNmJCeWhFWkhURFF1Y09uYTkwS0NLR2ZZUXZmVGVGbjl0dmNpWlpJUjJKcnoxNWg5dDRfR0kzLVREVXdyQmVLeTdaVmJ3MDAtMkFyblFRTTd4OEFGRC1YVEIzTk5s?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Taganrog Körfezi'ndeki gemi ve gemilere yapılan insansız hava aracı saldırısında 1 kişi öldü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-11T12:01:19.726463+00:00",
+  "type": "news",
+  "cluster_id": "cdbbbebaec18d"
+ },
+ {
+  "title": "ABD'den BAE'ye yönelik ihracat kontrollerini hafifletme kararı",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/abd-den-bae-ye-yonelik-ihracat-kontrollerini-hafifletme-karari-2519923",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD, BAE'nin ihracat yönetmelikleri statüsünü yükselterek askeri ürünler ve ticari uydular gibi belirli ürünlerin ihracatına izin verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-11T12:01:19.726463+00:00",
+  "type": "news",
+  "cluster_id": "c52f45157ec4a"
+ },
+ {
+  "title": "Avrupa'nın en popüler tatil rotaları karşılaştırıldı: Yeme-içme ve konaklamada en ucuz ülke hangisi?",
+  "link": "https://www.sozcu.com.tr/avrupa-nin-en-populer-tatil-rotalari-karsilastirildi-yeme-icme-ve-konaklamada-en-ucuz-ulke-hangisi-p335611",
+  "source": "Sözcü",
+  "summary_tr": "Avrupa'nın en popüler tatil destinasyonlarından yapılan analiz sonucu Türkiye, yeme-içme ve konaklamada en ucuz ülke olarak saptandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-11T12:01:19.726463+00:00",
+  "type": "news",
+  "cluster_id": "ce0b2a9407e9a"
+ },
+ {
   "title": "ABD, İran'ın Hürmüz Boğazı'nda ateş açmayı durduracağına dair taahhüt istiyor",
   "link": "https://www.bbc.com/turkce/articles/ce8jlnm787jo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -55948,65 +56020,5 @@
   "score": 7,
   "ts": "2026-05-30T13:00:56.602938+00:00",
   "cluster_id": "c89d2658c8c70"
- },
- {
-  "title": "Özgür Özel, Anıtkabir'e yürüyor: Bütün üyelerle ön seçim istiyorum",
-  "link": "https://www.diken.com.tr/canli-ozgur-ozel-anitkabire-yuruyor-butun-uyelerle-on-secim-istiyorum/?utm_source=rss&utm_medium=rss&utm_campaign=canli-ozgur-ozel-anitkabire-yuruyor-butun-uyelerle-on-secim-istiyorum",
-  "source": "Diken",
-  "summary_tr": "Özgür Özel Anıtkabir'e yürüyerek tüm üyelerle ön seçim yapılmasını talep etti.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-30T13:00:56.602938+00:00",
-  "cluster_id": "c2d8e7b721bf0"
- },
- {
-  "title": "Japonya'dan gelen haber pazartesi piyasaları sarsabilir",
-  "link": "https://www.sozcu.com.tr/japonya-dan-gelen-haber-pazartesi-piyasalari-sarsabilir-p323760",
-  "source": "Sözcü",
-  "summary_tr": "Japonya para çekme programını durduran tahvil piyasası çöküşü nedeniyle para basma ayarlarını revize ediyor ve pazartesi piyasalarını etkileyebilir.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T13:00:56.602938+00:00",
-  "cluster_id": "c803885271eb7"
- },
- {
-  "title": "Son dakika... Özgür Özel Anıtkabir’e yürüyor.... Özel'den Kemal Kılıçdaroğlu'na jet yanıt",
-  "link": "https://www.sozcu.com.tr/ozgur-ozel-anitkabir-e-dogru-yuruyuse-gecti-p323758",
-  "source": "Sözcü",
-  "summary_tr": "Özgür Özel Ankara'da partililere hitap ederek Kılıçdaroğlu'na yanıt verdi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-30T13:00:56.602938+00:00",
-  "cluster_id": "c2213b3ba7b34"
- },
- {
-  "title": "Polonya’da Zelenski krizi: En yüksek devlet nişanı geri alınabilir",
-  "link": "https://www.cumhuriyet.com.tr/dunya/polonya-da-zelenski-krizi-en-yuksek-devlet-nisani-geri-alinabilir-2507956",
-  "source": "Cumhuriyet",
-  "summary_tr": "Polonya Cumhurbaşkanı, Zelenski'ye verilen Beyaz Kartal Nişanı'nın geri alınabilir hale gelmesi konusunu gündeme getirdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-30T13:00:56.602938+00:00",
-  "cluster_id": "cf5d4a899bd46"
- },
- {
-  "title": "SPK, açığa satış yasağını 12 Haziran'a kadar uzattı",
-  "link": "https://www.trthaber.com/haber/ekonomi/spk-aciga-satis-yasagini-12-hazirana-kadar-uzatti-946621.html",
-  "source": "TRT Haber",
-  "summary_tr": "SPK açığa satış yasağını 12 Haziran'a kadar uzattı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-30T13:00:56.602938+00:00",
-  "cluster_id": "ce764136638d5"
- },
- {
-  "title": "Kılıçdaroğlu 2,5 yıl sonra ilk kez CHP Genel Merkezi'nde",
-  "link": "https://www.dw.com/tr/kılıçdaroğlu-2-5-yıl-sonra-ilk-kez-chp-genel-merkezi-nde/a-77355165?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "İstinaf Mahkemesi'nin mutlak butlan kararının ardından Kemal Kılıçdaroğlu, 2,5 yıl sonra ilk kez CHP Genel Merkezi'nde makam odasına oturdu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T12:00:56.556644+00:00",
-  "cluster_id": "c74cad33fc4bb"
  }
 ]
