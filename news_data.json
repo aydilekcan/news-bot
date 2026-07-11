@@ -1,5 +1,41 @@
 [
  {
+  "title": "İsrail basını: Tel Aviv, İran altyapısına yönelik geniş çaplı saldırıya hazırlanıyor",
+  "link": "https://www.cumhuriyet.com.tr/dunya/israil-basini-tel-aviv-iran-altyapisina-yonelik-genis-capli-saldiriya-hazirlaniyor-2519915",
+  "source": "Cumhuriyet",
+  "summary_tr": "İsrail ordusu, İran ile geniş çaplı savaş çıkması ihtimaline karşı ülke altyapısına yönelik saldırıya hazırlanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-11T10:01:10.910733+00:00",
+  "type": "news",
+  "cluster_id": "c6080b6b0c28f"
+ },
+ {
+  "title": "İran: ABD'nin 8-9 Temmuz'daki saldırılarında 17 kişi hayatını kaybetti, 115 kişi yaralandı",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-abdnin-8-9-temmuzdaki-saldirilarinda-17-kisi-hayatini-kaybetti-115-kisi-yaralandi-/3994951",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Sağlık Bakanlığı, ABD'nin 8-9 Temmuz'da ülkeye düzenlediği saldırılarda 17 kişinin öldüğünü, 115 kişinin yaralandığını duyurdu.",
+  "metric": "Ölü sayısı: 17, Yaralı sayısı: 115",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-11T10:01:10.910733+00:00",
+  "type": "news",
+  "cluster_id": "ca5abf37d95c9"
+ },
+ {
+  "title": "Memur zam ve tazminatlarına ilişkin yeni düzenleme Resmi Gazete'de yayımlandı",
+  "link": "https://www.sozcu.com.tr/memur-zam-ve-tazminatlarina-iliskin-yeni-duzenleme-resmi-gazete-de-yayimlandi-p335593",
+  "source": "Sözcü",
+  "summary_tr": "Cumhurbaşkanı Kararı ile MEB bünyesindeki yöneticilerin ve öğretmenlerin özel hizmet tazminatlarına ilişkin yeni düzenleme Resmi Gazete'de yayımlandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-11T10:01:10.910733+00:00",
+  "type": "news",
+  "cluster_id": "c878b74093adb"
+ },
+ {
   "title": "Türkiye ile Kanada arasında Serbest Ticaret Anlaşması imzalanacak",
   "link": "https://www.sozcu.com.tr/turkiye-ile-kanada-arasinda-serbest-ticaret-anlasmasi-imzalanacak-p335581",
   "source": "Sözcü",
@@ -55954,35 +55990,5 @@
   "score": 7,
   "ts": "2026-05-30T11:00:53.754733+00:00",
   "cluster_id": "cbeb15850e240"
- },
- {
-  "title": "İsrail'in Gazze'ye düzenlediği saldırılarda son 48 saatte 7 Filistinli hayatını kaybetti",
-  "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzeye-duzenledigi-saldirilarda-son-48-saatte-7-filistinli-hayatini-kaybetti/3951718",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail ordusunun ateşkese rağmen Gazze'ye düzenlediği saldırılarda son 48 saatte 7 Filistinli öldü.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T11:00:53.754733+00:00",
-  "cluster_id": "c999309e4e802"
- },
- {
-  "title": "CHP Genel Merkezi'nde 'Halkla Bayramlaşma' programı...",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-genel-merkezi-nde-halkla-bayramlasma-programi-2507943",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Genel Başkanı Kılıçdaroğlu, CHP Genel Merkezi'nde halkla bayramlaşma programı düzenledi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-30T11:00:53.754733+00:00",
-  "cluster_id": "c0f1e80b8385e"
- },
- {
-  "title": "Seçilmiş CHP Genel Başkanı Özgür Özel'in bayramlaşmasına yurttaştan yoğun katılım",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/secilmis-chp-genel-baskani-ozgur-ozel-in-bayramlasmasina-yurttastan-yogun-katilim-2507944",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP seçilmiş lideri Özgür Özel'in Güvenpark'taki bayramlaşmasına yoğun kitle katılımı oldu.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-30T11:00:53.754733+00:00",
-  "cluster_id": "c880a22159764"
  }
 ]
