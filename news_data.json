@@ -1,5 +1,53 @@
 [
  {
+  "title": "CHP'li Çankaya Belediyesi'ne operasyon: 36 gözaltı kararı",
+  "link": "https://www.dw.com/tr/chp-li-çankaya-belediyesi-ne-operasyon-36-gözaltı-kararı/a-77913751?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Ankara Cumhuriyet Başsavcılığı, CHP'li Çankaya Belediye Başkanı Hüseyin Can Güner dahil 36 kişi hakkında rüşvet suçlamasıyla gözaltı kararı verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-11T07:01:13.790068+00:00",
+  "type": "news",
+  "cluster_id": "cd65593151b25"
+ },
+ {
+  "title": "Çankaya Belediye Başkanı Güner'in de aralarında bulunduğu 36 şüpheli hakkında gözaltı kararı",
+  "link": "https://www.aa.com.tr/tr/gundem/cankaya-belediye-baskani-gunerin-de-aralarinda-bulundugu-36-supheli-hakkinda-gozalti-karari/3994783",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ankara Cumhuriyet Başsavcılığı, Çankaya Belediye Başkanı Hüseyin Can Güner'in de aralarında olduğu 36 şüpheli hakkında gözaltı kararı verdi.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-07-11T07:01:13.790068+00:00",
+  "type": "news",
+  "cluster_id": "cfe5c47c99e48"
+ },
+ {
+  "title": "Çankaya Belediyesine rüşvet soruşturması: 36 gözaltı kararı",
+  "link": "https://www.trthaber.com/haber/turkiye/cankaya-belediyesine-rusvet-sorusturmasi-36-gozalti-karari-950913.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ankara Cumhuriyet Başsavcılığı, yolsuzluk soruşturması kapsamında Çankaya Belediye Başkanı Hüseyin Can Güner dahil 36 kişi hakkında gözaltı kararı çıkardı.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-07-11T07:01:13.790068+00:00",
+  "type": "news",
+  "cluster_id": "ce8f0e512abb9"
+ },
+ {
+  "title": "Merkez Bankası Başkanı'ndan faiz artışı sinyali",
+  "link": "https://www.sozcu.com.tr/merkez-bankasi-baskani-ndan-faiz-artisi-sinyali-p335546",
+  "source": "Sözcü",
+  "summary_tr": "TCMB Başkanı Fatih Karahan, enflasyondaki düşüşe rağmen jeopolitik faktörler nedeniyle faiz artışı sinyali verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-11T07:01:13.790068+00:00",
+  "type": "news",
+  "cluster_id": "c186189456d64"
+ },
+ {
   "title": "CHP'li Çankaya Belediyesi'ne polis baskını: Belediye başkanı Güner dahil 36 gözaltı kararı",
   "link": "https://www.diken.com.tr/chpli-cankaya-belediyesine-polis-baskini-belediye-baskani-guner-dahil-36-gozalti-karari/?utm_source=rss&utm_medium=rss&utm_campaign=chpli-cankaya-belediyesine-polis-baskini-belediye-baskani-guner-dahil-36-gozalti-karari",
   "source": "Diken",
@@ -55892,45 +55940,5 @@
   "score": 6,
   "ts": "2026-05-30T08:00:55.011155+00:00",
   "cluster_id": "cd025974a7bcb"
- },
- {
-  "title": "ABD, Doğu Pasifik'te uyuşturucu taşıdığını öne sürdüğü tekneyi vurduğunu açıkladı",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-dogu-pasifikte-uyusturucu-tasidigini-one-surdugu-tekneyi-vurdugunu-acikladi/3951617",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD ordusu Pasifik Okyanusu'nda uyuşturucu taşıdığı öne sürülen tekneye saldırı düzenleyerek 3 kişinin öldürüldüğünü duyurdu.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-30T08:00:55.011155+00:00",
-  "cluster_id": "c88fa9d088be9"
- },
- {
-  "title": "Kılıçdaroğlu PM toplantısını ertelemişti: 'Tebliğ bahane edildi, denge Özel lehine'",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTDg3VXJWaUFpTHJqamVFcmlTWWh3ZGpnVkU4dlNKWnpEQnVBd0dsMDk4TXk2cGo1MGIzT3ZuTWh1dW5xeVYybUVlczFfN3V1SE95Rl9xOXNNNUNBQjdSd0NFTXpvRHV2NGZQWWUyUEJWSV9JcmtqdFdnTnhwRkUzODZZdW1Rd3ZRTU03UmNFdUl0dDZYSlJFLUh5Y3lRLVZDQnFrLTRGY1IzUEJZMkZvTGcwUWlUR1hU?oc=5",
-  "source": "soL",
-  "summary_tr": "Kılıçdaroğlu PM toplantısını ertelerken tebliğ bahane edilerek dengenin Özel lehine kaydığı iddia edildi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-30T08:00:55.011155+00:00",
-  "cluster_id": "c634f9476ed01"
- },
- {
-  "title": "Hegseth tones down warnings about China but says US remains committed to Pacific security",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUFFvM2o3X3drYmpRVDFjd3NaZkRqbEtnNEw0OHgyTzdXNDZXT0xtTEZYWEo5amlBcTZhSks2ZTdzR2VDdTV1bmh3X3dYQ1FzamY0ZHhiSWpRRThjbnh4NFYtY003VG5pYVlnT2JvenFHVjh2RUFVeW5RT1dQb0Nrcmt4aUwwMTNrU3Fxa2hOQUtRenhlR3JDS2dUZElPVjF5cHd3VTVWSXNIelZ6VTNsSzl3?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD Savunma Bakanı Hegseth, Çin konusunda uyarılarını hafifletirken ABD'nin Pasifik güvenliğine kararlı kaldığını vurguladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-30T08:00:55.011155+00:00",
-  "cluster_id": "cf55c4fb6ed0d"
- },
- {
-  "title": "Kuveyt'de İran füzesi sebebiyle 5 ABD askeri yaralandı",
-  "link": "https://www.sozcu.com.tr/kuveyt-de-iran-fuzesi-sebebiyle-5-abd-askeri-yaralandi-p323684",
-  "source": "Sözcü",
-  "summary_tr": "İran'ın Kuveyt'teki ABD hava üssüne düzenlediği füze saldırısında 5 ABD askeri yaralandı; askeri İHA'lar ağır hasar gördü.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-30T07:00:49.658749+00:00",
-  "cluster_id": "cb92188a3ff9d"
  }
 ]
