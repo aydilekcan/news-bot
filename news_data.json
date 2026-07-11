@@ -1,5 +1,65 @@
 [
  {
+  "title": "Çankaya belediye başkanı gözaltına alındı",
+  "link": "https://www.diken.com.tr/cankaya-belediye-baskani-gozaltina-alindi/?utm_source=rss&utm_medium=rss&utm_campaign=cankaya-belediye-baskani-gozaltina-alindi",
+  "source": "Diken",
+  "summary_tr": "Ankara Çankaya Belediye Başkanı Hüseyin Can Güner suç örgütü kurma ve rüşvet iddialarıyla gözaltına alındı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-11T17:01:07.061945+00:00",
+  "type": "news",
+  "cluster_id": "cd83bb46e77a8"
+ },
+ {
+  "title": "Ankara Büyükşehir Belediye Başkanı Mansur Yavaş'tan Çankaya operasyonu tepkisi: ‘Biz eşit hukuk istiyoruz’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/ankara-buyuksehir-belediye-baskani-mansur-yavas-tan-cankaya-operasyonu-tepkisi-biz-esit-hukuk-istiyoruz-2519988",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ankara Büyükşehir Belediye Başkanı Mansur Yavaş, Çankaya Belediyesi operasyonuna tepki göstererek eşit hukuk talep etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-11T17:01:07.061945+00:00",
+  "type": "news",
+  "cluster_id": "c538b46780b51"
+ },
+ {
+  "title": "Mansur Yavaş'tan Çankaya operasyonuna tepki: Korkacak hiçbir şeyimiz yok",
+  "link": "https://www.sozcu.com.tr/mansur-yavas-tan-cankaya-operasyonuna-tepki-korkacak-hicbir-seyimiz-yok-p335651",
+  "source": "Sözcü",
+  "summary_tr": "Ankara Büyükşehir Belediye Başkanı Mansur Yavaş, Çankaya Belediyesi operasyonuna tepki göstererek korkacak bir şey olmadığını söyledi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-11T17:01:07.061945+00:00",
+  "type": "news",
+  "cluster_id": "c800d29d530ce"
+ },
+ {
+  "title": "CHP'li Ankara Çankaya Belediyesi'ne \"suç örgütü kurma ve rüşvet\" operasyonu: Başkan Güner havaalanında gözaltına alındı",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUnM1N2RnekRLVGdiMzFwS1JwZDNWOUxKdHhOZEQ5WW9zNFh3Uk40SkxlQmVKVUZkY1dWQkhJV2pVTkp6SEIwcHNuYXQ0UkpTS1JUM1lmaVhVa2FXXzgtQlpETnpyU3c2TGwzcnJGOEFMdlVrYV9zRmZCSnYxSEg2MV9rMDJESnZVY05nZV9OdVRUeUFTU1lxUGoxZnE?oc=5",
+  "source": "T24",
+  "summary_tr": "CHP'li Ankara Çankaya Belediye Başkanı Hüseyin Can Güner suç örgütü kurma ve rüşvet iddialarıyla operasyonda gözaltına alındı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-11T17:01:07.061945+00:00",
+  "type": "news",
+  "cluster_id": "cba69b6c723eb"
+ },
+ {
+  "title": "CHP'li Çankaya Belediyesi’ne operasyon: Başkan Güner havaalanında gözaltına alındı",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY3I5OHNEVzBTVFRjd0pxeGhRX3psR3NLVklQWGRfdU93emlJSk9qQTB2OUNFb0FrSzZKdE9tY0dtVmxtb0dsUFdmU01sTWpOdUZsWWhsNXRwM0NVcy0zMU5yNWcxRDlVeU94R1RpdlBGX2JiaG1yVFhOa29HbklhLWlQa1VmRGtrQ2kyYXFLLTU1eFBYc2RfS3huMWJLZmVLV1BzdlNSTUdGWFNxa1Z4RHA0WVpJVEZo?oc=5",
+  "source": "soL",
+  "summary_tr": "CHP'li Ankara Çankaya Belediye Başkanı Hüseyin Can Güner suç örgütü kurma ve rüşvet iddialarıyla havaalanında gözaltına alındı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-11T17:01:07.061945+00:00",
+  "type": "news",
+  "cluster_id": "cba69b6c723eb"
+ },
+ {
   "title": "Çankaya Belediye Başkanı Hüseyin Güner, Esenboğa Havalimanı'nda gözaltına alındı",
   "link": "https://www.cumhuriyet.com.tr/turkiye/cankaya-belediye-baskani-guner-esenboga-havalimani-nda-gozaltina-alindi-2519985",
   "source": "Cumhuriyet",
@@ -56002,55 +56062,5 @@
   "score": 7,
   "ts": "2026-05-30T16:00:54.070646+00:00",
   "cluster_id": "c75ca66544949"
- },
- {
-  "title": "Gelecek Partili isimden kritik iddia: '26'sına kadar olmazsa CHP seçimlere giremez'",
-  "link": "https://www.sozcu.com.tr/gelecek-partili-isimden-kritik-iddia-26-sina-kadar-olmazsa-chp-secimlere-giremez-p323786",
-  "source": "Sözcü",
-  "summary_tr": "Gelecek Partisi Genel Başkan Vekili Üstün, CHP'nin kurultayını 26 Haziran'a kadar yapmazsa seçimlere giremeyeceğini iddia etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T16:00:54.070646+00:00",
-  "cluster_id": "c6bf990563542"
- },
- {
-  "title": "Borsa İstanbul'da açığa satış yasağı uzatıldı",
-  "link": "https://www.diken.com.tr/borsa-istanbulda-aciga-satis-yasagi-uzatildi-4/?utm_source=rss&utm_medium=rss&utm_campaign=borsa-istanbulda-aciga-satis-yasagi-uzatildi-4",
-  "source": "Diken",
-  "summary_tr": "Sermaye Piyasası Kurulu, Borsa İstanbul'da açığa satış yasağını uzattı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-30T16:00:54.070646+00:00",
-  "cluster_id": "c502e4016974c"
- },
- {
-  "title": "‘Hain’ ilan ettiği AKP'li Ensarioğlu açıkladı: ‘Bahçeli benden helallik istedi’",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/hain-ilan-ettigi-akp-li-ensarioglu-acikladi-bahceli-benden-helallik-istedi-2508001",
-  "source": "Cumhuriyet",
-  "summary_tr": "AKP İstanbul Milletvekili Ensarioğlu, MHP lideri Bahçeli'nin kendisinden helallik istediğini açıkladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-30T16:00:54.070646+00:00",
-  "cluster_id": "c82babd068b49"
- },
- {
-  "title": "Kılıçdaroğlu’na memleketinden destek yok…Otobüsü bile dolduramadılar",
-  "link": "https://www.sozcu.com.tr/kilicdaroglu-na-memleketinden-destek-yok-otobusu-bile-dolduramadilar-p323788",
-  "source": "Sözcü",
-  "summary_tr": "Kılıçdaroğlu'nun memleketi Diyarbakır'da destek düşük; mitinge katılımın az olması basında tartışıldı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-30T16:00:54.070646+00:00",
-  "cluster_id": "cca6de3ce7f5a"
- },
- {
-  "title": "Hürmüz Boğazı’nda yeni dönem: Rusya ve Çin’e ayrıcalık",
-  "link": "https://www.cumhuriyet.com.tr/dunya/hurmuz-bogazi-nda-yeni-donem-rusya-ve-cin-e-ayricalik-2507988",
-  "source": "Cumhuriyet",
-  "summary_tr": "İran Meclisi Güvenlik Komisyonu Başkanı: Rusya ve Çin'e Hürmüz Boğazı geçişinde özel muafiyet tanınıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T15:00:51.224589+00:00",
-  "cluster_id": "c237d3d0387e9"
  }
 ]
