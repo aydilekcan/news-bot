@@ -1,5 +1,89 @@
 [
  {
+  "title": "CHP'li Çankaya Belediyesi'ne polis baskını: Belediye başkanı Güner dahil 36 gözaltı kararı",
+  "link": "https://www.diken.com.tr/chpli-cankaya-belediyesine-polis-baskini-belediye-baskani-guner-dahil-36-gozalti-karari/?utm_source=rss&utm_medium=rss&utm_campaign=chpli-cankaya-belediyesine-polis-baskini-belediye-baskani-guner-dahil-36-gozalti-karari",
+  "source": "Diken",
+  "summary_tr": "CHP'li Ankara Çankaya Belediye Başkanı Hüseyin Can Güner dahil 36 kişi hakkında polis baskını sonrası gözaltı kararı çıkarıldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-11T06:01:13.357963+00:00",
+  "type": "news",
+  "cluster_id": "c7b775022d646"
+ },
+ {
+  "title": "Çankaya Belediyesine yönelik soruşturma",
+  "link": "https://www.trthaber.com/haber/turkiye/cankaya-belediyesine-yonelik-sorusturma-950913.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ankara Cumhuriyet Başsavcılığı, Çankaya Belediyesine karşı yürütülen yolsuzluk soruşturması kapsamında belediye başkanı hakkında işlem başlatmıştır.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-07-11T06:01:13.357963+00:00",
+  "type": "news",
+  "cluster_id": "c3ef57d619e61"
+ },
+ {
+  "title": "Emekli maaşları kesildi: Nedenini öğrenmenin yolunu SGK açıkladı",
+  "link": "https://www.sozcu.com.tr/emekli-maaslari-kesildi-nedenini-ogrenmenin-yolunu-sgk-acikladi-p335536",
+  "source": "Sözcü",
+  "summary_tr": "Milyonlarca SSK ve BAĞ-KUR emeklisinin maaş kesintilerinin nedenini SGK e-Devlet üzerinden öğrenme yolunun açıldığı duyuruldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-11T06:01:13.357963+00:00",
+  "type": "news",
+  "cluster_id": "cea4502273d8c"
+ },
+ {
+  "title": "Trump: İran bana suikast girişiminde bulunursa ordu onları yok etmeye hazır",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNXB3bXR4NTVzaUZWRk5hNFZiX1o4X2VxazFrd1Y5SUx2amZFYTRBMm5HaHFwb3hHSFAxRVlEWTRpWEs5aXo3dTJ2Mm1Iazc3SWI3bHlfXzJZYmV1VzdPM0hYN1V5Zkt2d0d3czJ0cnBsVEtBdGtiRDBGT0czS1RiQ2ZNRG5LMVlLdTVJY0wwM1JCOTYxR3ktNlA1YWlxUWd6SV9pMGdZckVDRDh0a2wtN1ln?oc=5",
+  "source": "soL",
+  "summary_tr": "Trump, İran'ın kendisine suikast girişiminde bulunması durumunda ABD ordusunun bunu bertaraf etmeye hazır olduğunu açıklamıştır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-11T06:01:13.357963+00:00",
+  "type": "news",
+  "cluster_id": "c7052a44e3a35"
+ },
+ {
+  "title": "Gümüş fiyatlarındaki düşüşün arkasındaki gizem: \"Mahkemede kanıt olacak\" döngü!",
+  "link": "https://www.sozcu.com.tr/gumus-fiyatlarindaki-dususun-arkasindaki-gizem-mahkemede-kanit-olacak-dongu-p335538",
+  "source": "Sözcü",
+  "summary_tr": "Gümüş fiyatlarında belirli dönemlerde görülen sert dalgalanmaların COMEX opsiyon vadelerine bağlı olduğu ortaya çıktı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-11T06:01:13.357963+00:00",
+  "type": "news",
+  "cluster_id": "c6af283fc4dce"
+ },
+ {
+  "title": "AFP Türkiye ofisinde gazeteciler grevde: Resmi enflasyonu bile kabul etmediler",
+  "link": "https://www.sozcu.com.tr/afp-turkiye-ofisinde-gazeteciler-grevde-resmi-enflasyonu-bile-kabul-etmediler-p335535",
+  "source": "Sözcü",
+  "summary_tr": "AFP Türkiye bürosu gazetecileri, Gazeteciler Sendikası ile işveren arasındaki toplu iş görüşmelerinde grevde.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-11T06:01:13.357963+00:00",
+  "type": "news",
+  "cluster_id": "cc7e6f6943795"
+ },
+ {
+  "title": "Özgür Özel'den Kılıçdaroğlu'na çok konuşulacak 'kayyum' yanıtı",
+  "link": "https://www.sozcu.com.tr/ozgur-ozel-den-kilicdaroglu-na-cok-konusulacak-kayyum-yaniti-p335529",
+  "source": "Sözcü",
+  "summary_tr": "CHP lideri Özgür Özel, Kılıçdaroğlu'nun kayyum yorumuna 'Vallahi daha iyi' yanıtını verdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-11T06:01:13.357963+00:00",
+  "type": "news",
+  "cluster_id": "cfccbdffa1510"
+ },
+ {
   "title": "Trump says missiles aimed at Iran if Tehran targets US president",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzc3RWxTLVZuRllmY19VQ244ZjcxcjY2TVRNWnh1WkI1ck5qUkFyMzBZNTZTYUZqbTVRSmc4V3BqMl9zY21GdnJmSGU0OTNRd0Q4ekxDMnlGQ0I1UEJScFZhUGZoZ1A1aEdZTWRYZ0FGazJ3aXpJd2Zad044SzhMWXFETXRmQnBvTnMxSjhzdXVjZnp1YmRkNWJlVWdqWWdFdnRKeHlrOFQtdjZqRk9mMFhMbFFHUQ?oc=5",
   "source": "Reuters",
@@ -55848,75 +55932,5 @@
   "score": 8,
   "ts": "2026-05-30T07:00:49.658749+00:00",
   "cluster_id": "cb92188a3ff9d"
- },
- {
-  "title": "Kılıçdaroğlu 'talimatım dışında yapılmayacak' demişti ama... Özgür Özel'den 'grup toplantısı' açıklaması geldi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/kilicdaroglu-talimatim-disinda-yapilmayacak-demisti-ama-ozgur-ozel-den-grup-toplantisi-aciklamasi-geldi-2507903",
-  "source": "Cumhuriyet",
-  "summary_tr": "Özgür Özel, Kılıçdaroğlu'nun talimatına rağmen grup toplantısı düzenlemek üzere cuma günü geniş katılımlı toplantı yapacak.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-30T07:00:49.658749+00:00",
-  "cluster_id": "cf41056655341"
- },
- {
-  "title": "Kılıçdaroğlu'nun ekibi yurdun dört bir yanından otobüs kaldırdı",
-  "link": "https://www.sozcu.com.tr/kilicdaroglu-nun-ekibi-yurdun-dort-bir-yanindan-otobus-kaldirdi-p323694",
-  "source": "Sözcü",
-  "summary_tr": "Kılıçdaroğlu'nun ekibi mahkeme kararının ardından yurdun dört bir yanından otobüs kaldırmaya başladı; Valilik dilekçesi sonrası polis kontrol başlatmıştır.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-30T07:00:49.658749+00:00",
-  "cluster_id": "c0fa6efb47027"
- },
- {
-  "title": "Pentagon chief says U.S. ready to restart strikes on Iran if no deal",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMDJGOWhzbXNmcjJKZV9ldldtcUliNDM5RUduV3loQVpDYlowVGlhd1g4S2t3RzhYOVpTS3pDUXlYT0tnZ21jVGxGNTR3MVRvZF9GMW5SYWpVUnJyRnd0dldUZlVWbmxQRzRuZjUzV0lqNGpNc0tSZ0RqOU5PeGNZQXl3dG1WWHVGRWVXTnpOT196X193YlFsZGROWk53akFuM2RNWDhtMVl4YVpPS0dZemNYcTNDZw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Pentagon Başkanı, İran ile anlaşma sağlanmazsa ABD'nin İran'a karşı hava saldırılarını yeniden başlatmaya hazır olduğunu açıkladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-30T06:00:54.960350+00:00",
-  "cluster_id": "cc4fb280a1402"
- },
- {
-  "title": "Unvanı sona erdi, görevi bitmedi: Tom Barrack, Suriye ve Irak dosyasında kalıyor",
-  "link": "https://www.cumhuriyet.com.tr/dunya/unvani-sona-erdi-gorevi-bitmedi-tom-barrack-suriye-ve-irak-dosyasinda-kaliyor-2507893",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Dışişleri Bakanı Marco Rubio, Suriye Özel Temsilcisi unvanı süresi dolan Tom Barrack'ı Trump yönetiminin Suriye ve Irak politikasında görevde tutacağını açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T06:00:54.960350+00:00",
-  "cluster_id": "c79048adb4d00"
- },
- {
-  "title": "Emekliye yeni çifte zam formülü: işte kuruş kuruş Temmuz hesapları",
-  "link": "https://www.sozcu.com.tr/emekliye-yeni-cifte-zam-formulu-iste-kurus-kurus-temmuz-hesaplari-p323680",
-  "source": "Sözcü",
-  "summary_tr": "Emeklilerin temmuz ayında alacakları zam miktarı, açıklanmamış olan mayıs enflasyon verisine bağlıdır. SSK ve Bağ-Kur emeklileri bayram sonrası açıklanacak veriyi beklemektedir.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-30T06:00:54.960350+00:00",
-  "cluster_id": "c1ddeca24fafa"
- },
- {
-  "title": "Trump signs order to use HHS vaccine assessment as federal guide",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQkxSak1aaFdLS0RVZDlvaThWUE1XQk56bkxOSmJTRWRQM1MwbXNjOVloSlZ5SHhhUjhvSVhPdl9hQlJ2U0JGZWNXVWU4NXJpUFJfc3NDamwxOWd4ZTZZMllGLV80NHJnclF2V1VCM3lOUVhISjQ3ZTVwQ0hJVWt5ZWtpNDhZOVpXbFdpWGFLV3J3bEs2NTlBcjlhLWxMSTBUNTZrbmV5YjItNmVjUThoY0VwTy1ZX1E5UWJRMjZTa2ZhRURmMFNNdVRR?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, HHS'nin aşı değerlendirmesini federal rehber olarak kullanmayı emreden bir kararnameyi imzaladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-30T06:00:54.960350+00:00",
-  "cluster_id": "c50a8efa38978"
- },
- {
-  "title": "Hegseth reassures Pacific allies as he softens China ‘threat’ rhetoric",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUFFvM2o3X3drYmpRVDFjd3NaZkRqbEtnNEw0OHgyTzdXNDZXT0xtTEZYWEo5amlBcTZhSks2ZTdzR2VDdTV1bmh3X3dYQ1FzamY0ZHhiSWpRRThjbnh4NFYtY003VG5pYVlnT2JvenFHVjh2RUFVeW5RT1dQb0Nrcmt4aUwwMTNrU3Fxa2hOQUtRenhlR3JDS2dUZElPVjF5cHd3VTVWSXNIelZ6VTNsSzl3?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD Savunma Sekreteri Hegseth, Pasifik müttefikleri ile görüşmeler sırasında Çin'e yönelik sert retorikten geri adım attı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-30T06:00:54.960350+00:00",
-  "cluster_id": "c9ada51653236"
  }
 ]
