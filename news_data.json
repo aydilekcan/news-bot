@@ -1,5 +1,17 @@
 [
  {
+  "title": "‘Enflasyon beklentileri bozuldu’ itirafı",
+  "link": "https://www.sozcu.com.tr/enflasyon-beklentileri-bozuldu-itirafi-p335514",
+  "source": "Sözcü",
+  "summary_tr": "TCMB Başkanı Karahan, enflasyon beklentilerinin bozulduğunu JPMorgan sunumunda duyurdu; piyasa ve reel sektörün beklentileri uyumsuz hale gelmiş durumda.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-11T01:01:03.093799+00:00",
+  "type": "news",
+  "cluster_id": "c57df1ab003ac"
+ },
+ {
   "title": "RPT Russia halts Don-Azov channel shipping, affecting grain trade, after Ukraine attacks",
   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZzVJeVFGQ0JzVVB1VEQxRUhyZGQ3Tm5PcmR4TW9YVEFhd1NCbFJMUk5oNVdySjk3S1EyTG82VFRoRUhLTzB4TGx3ek93UjFxQ2o3VUZaUGRKNWszQUlEX2h0VUk4dmF5c05hOHd0M1U4NllxS3QwNjhIRlJuYU1zdHBPSDJuMGh0OXFwZEhjR1V1clJ6YTVTMFpLbE1tMlBMQmV2WDA2TkRxbWk3eWswclZOV3c4RVRObU4wbUMzQjE?oc=5",
   "source": "Reuters",
@@ -55890,15 +55902,5 @@
   "score": 7,
   "ts": "2026-05-30T02:00:47.877099+00:00",
   "cluster_id": "cc77ebd150d9e"
- },
- {
-  "title": "Supreme Court rules for Black death row inmate from Mississippi over racial bias in makeup of jury",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZUlaczdHb2FfUlh2OWMxUFpFLThVSzZKLWF4YjlQbDlzQUpNNW10M0JiS09mRTVvZG9qUFdEdnhMMlBDNDd0QnV3SXJ3YmlSckJZdnFES0RILWFpVGpNX0lEN3dTamw5QUtTQS1Vd3RpeWZPblZlcFVXQzdOTnZOMHdhV1ptODJjczhIa1l2aFg1c1BrdEpUX1RTLWF0QWxqcFhTellKdjZQeXFIc1E?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD Yüksek Mahkemesi, Mississippi'deki ölüm cezası davası kapsamında jüri oluşumundaki ırksal önyargı nedeniyle siyahi sanık lehine karar verdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T02:00:47.877099+00:00",
-  "cluster_id": "c11dcb021e87f"
  }
 ]
