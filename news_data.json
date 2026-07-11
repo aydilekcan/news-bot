@@ -1,5 +1,17 @@
 [
  {
+  "title": "Mezar fiyatları üçe katlandı",
+  "link": "https://www.sozcu.com.tr/mezar-fiyatlari-uce-katlandi-p335518",
+  "source": "Sözcü",
+  "summary_tr": "Mezar fiyatları üç kattan arttığı için vatandaş yaşarken olduğu gibi ölümünde de ekonomik zorlukla karşılaşıyor.",
+  "metric": "Mezar fiyatları 1x -> 3x (+%200)",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-11T02:01:05.312070+00:00",
+  "type": "news",
+  "cluster_id": "c7933478dd1ed"
+ },
+ {
   "title": "‘Enflasyon beklentileri bozuldu’ itirafı",
   "link": "https://www.sozcu.com.tr/enflasyon-beklentileri-bozuldu-itirafi-p335514",
   "source": "Sözcü",
@@ -55892,15 +55904,5 @@
   "score": 7,
   "ts": "2026-05-30T03:00:49.923286+00:00",
   "cluster_id": "c13d95b07ef65"
- },
- {
-  "title": "Beyaz Saray: Başkan Trump, yalnızca ABD için iyi olan bir anlaşma yapacaktır",
-  "link": "https://www.aa.com.tr/tr/dunya/beyaz-saray-baskan-trump-yalnizca-abd-icin-iyi-olan-bir-anlasma-yapacaktir/3951584",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Beyaz Saray, Başkan Trump'ın İran'la yapılabilecek anlaşmada yalnızca ABD çıkarlarına uygun şartlar içereceğini bildirdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T02:00:47.877099+00:00",
-  "cluster_id": "cc77ebd150d9e"
  }
 ]
