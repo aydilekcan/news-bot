@@ -1,5 +1,101 @@
 [
  {
+  "title": "Çankaya Belediye Başkanı Hüseyin Güner, Esenboğa Havalimanı'nda gözaltına alındı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/cankaya-belediye-baskani-guner-esenboga-havalimani-nda-gozaltina-alindi-2519985",
+  "source": "Cumhuriyet",
+  "summary_tr": "Çankaya Belediye Başkanı Hüseyin Can Güner, yolsuzluk soruşturması kapsamında Esenboğa Havalimanı'nda gözaltına alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-11T16:01:10.647378+00:00",
+  "type": "news",
+  "cluster_id": "c8c7b8b3f344d"
+ },
+ {
+  "title": "Son dakika... Çankaya Belediye Başkanı Hüseyin Güner gözaltına alındı",
+  "link": "https://www.sozcu.com.tr/son-dakika-cankaya-belediye-baskani-gozaltina-alindi-p335649",
+  "source": "Sözcü",
+  "summary_tr": "Çankaya Belediye Başkanı Hüseyin Güner, Ankara Cumhuriyet Başsavcılığı tarafından gözaltına alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-11T16:01:10.647378+00:00",
+  "type": "news",
+  "cluster_id": "c8c7b8b3f344d"
+ },
+ {
+  "title": "Çankaya Belediye Başkanı Güner gözaltına alındı",
+  "link": "https://www.trthaber.com/haber/gundem/cankaya-belediye-baskani-guner-gozaltina-alindi-950962.html",
+  "source": "TRT Haber",
+  "summary_tr": "Çankaya Belediye Başkanı Hüseyin Can Güner, yolsuzluk soruşturması kapsamında Esenboğa Havalimanı'nda gözaltına alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-11T16:01:10.647378+00:00",
+  "type": "news",
+  "cluster_id": "c8c7b8b3f344d"
+ },
+ {
+  "title": "CHP'li kaç belediyeye operasyon yapıldı, kaç başkan tutuklu?",
+  "link": "https://www.dw.com/tr/chp-li-kaç-belediyeye-operasyon-yapıldı-kaç-başkan-tutuklu/a-77917748?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "31 Mart yerel seçimlerinden sonra en az 39 CHP'li belediyeye operasyon düzenlendi; kaç belediye başkanının halen tutuklu olduğu sorgulanıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-11T16:01:10.647378+00:00",
+  "type": "news",
+  "cluster_id": "c3cb98a7dfef2"
+ },
+ {
+  "title": "İran, ABD saldırılarındaki ölü sayısını açıkladı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/iran-abd-saldirilarindaki-olu-sayisini-acikladi-2519984",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran, ABD'nin iki gün süren saldırı dalgasında 17 kişinin öldüğünü, 115 kişinin yaralandığını açıkladı.",
+  "metric": "Ölü sayısı: 17, Yaralı sayısı: 115",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-11T16:01:10.647378+00:00",
+  "type": "news",
+  "cluster_id": "ce02308b7bff7"
+ },
+ {
+  "title": "Trump and Iran’s supreme leader trade threats as mediators try to save their crumbling deal",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb29YUXh5MnNRTjVBazdXOUdMSkx5bkU0WHJFVFRGX1pyY0E5cWZfRXc5NnhQVjdOUVFzZTJFNkpBNlZpdUZIVGdoNk5ieU1sVUw1dDMwdkhSYWF4a0pKUk9nYVFMLW5HRFRjOUJTSTBuVEkxLTQ1X2NEZk5FWDMwV2lnRlBhYmhyY2FjQU82S2pnM2RQSEpfTjFwSXBlbk54OGdr?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump ve İran en yüksek lideri arasında tehditler artarken, arabulucular çökülen anlaşmayı kurtarmaya çalışıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-11T16:01:10.647378+00:00",
+  "type": "news",
+  "cluster_id": "c84e67e38e7a5"
+ },
+ {
+  "title": "Özgür Özel Adana'da Erdoğan'a seslendi: 'Sana bu seçimi kazandırmayacağız'",
+  "link": "https://www.sozcu.com.tr/ozgur-ozel-adana-da-erdogan-a-seslendi-sana-bu-secimi-kazandirmayacagiz-p335650",
+  "source": "Sözcü",
+  "summary_tr": "CHP Genel Başkanı Özgür Özel, Çankaya Belediyesine düzenlenen operasyona ilişkin Erdoğan'a seslenerek tepki gösterdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-11T16:01:10.647378+00:00",
+  "type": "news",
+  "cluster_id": "c8d5aad7dd50c"
+ },
+ {
+  "title": "Türkiye dolar milyoneri artışında dünya ikincisi!",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX1JkRzJrekNSdzVGdGYzZ3NXMzJKanhJQ2g4Ml9wZzlaX3VEVTU2ZlJLWF9jV2VQNUNyU1IzM09NQVNIV21CdlliaHdBT2Myd3Bsb2hxWGNhQkowV1hiYzFZdFkwSVFsWW1qc2RrbVlGQmhveFI2NlhfM3FBSmNhNDJtZm1pODQxdWJZ?oc=5",
+  "source": "T24",
+  "summary_tr": "Türkiye, dolar milyoneri artışında dünya ikincisi konumundadır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-11T16:01:10.647378+00:00",
+  "type": "news",
+  "cluster_id": "ca332e714996c"
+ },
+ {
   "title": "Mersin'de 15 aydır evlerine girmeyi bekleyen TOKİ mağdurlarından protesto",
   "link": "https://www.cumhuriyet.com.tr/turkiye/mersin-de-15-aydir-evlerine-girmeyi-bekleyen-toki-magdurlarindan-protesto-2519977",
   "source": "Cumhuriyet",
@@ -55956,85 +56052,5 @@
   "score": 7,
   "ts": "2026-05-30T15:00:51.224589+00:00",
   "cluster_id": "c237d3d0387e9"
- },
- {
-  "title": "'Amasra katliamı' aileleri 4 yıldır tazminat bekliyor: “Cumhurbaşkanı bize sahip çıkacağını söyledi, tuvalet temizliyoruz!”",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/amasra-katliami-aileleri-4-yildir-tazminat-bekliyor-cumhurbaskani-bize-sahip-cikacagini-soyledi-tuvalet-temizliyoruz-2507986",
-  "source": "Cumhuriyet",
-  "summary_tr": "Amasra maden faciasının (43 ölü) üzerinden 4 yıl geçmesine rağmen aileler tazminat ve adalet bekliyor.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-30T15:00:51.224589+00:00",
-  "cluster_id": "c33b784fd7f40"
- },
- {
-  "title": "Kolombiya'da halk, yarın cumhurbaşkanı seçimi için sandık başına gidiyor",
-  "link": "https://www.aa.com.tr/tr/dunya/kolombiyada-halk-yarin-cumhurbaskani-secimi-icin-sandik-basina-gidiyor/3951681",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Kolombiya'da yarın cumhurbaşkanı seçimi yapılacak; 2026-2030 dönemi lider belirlenecek.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T15:00:51.224589+00:00",
-  "cluster_id": "c431ee106d8af"
- },
- {
-  "title": "Tiny Guyana poised for big Iran oil gains and growth strains",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU3dHcWZTWTJ3cHcyV3VUdHAteUZiTElWMzJtQlM2RC1mZDhsWFh0Sm9uWk9KYzk5akFkeWhtUU55WEliSzc0TXJxN1p0SHNWTi1RY2sxZ3R4alRhWDhqeHlrdFJGcW85UFJFMDN3SF9uaV9sNDVDUl9kV2tpbHd0NldmcnMzX01CUXo0a2lhSzdvMDZRLTREVEpjQzQ1eFpBX2lzQlVDVQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Guyana İran petrolünden kazanç sağlamak üzere, ekonomik büyüme ve zorluklar yaşayacağı öngörülüyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T15:00:51.224589+00:00",
-  "cluster_id": "c80f9f345a6fb"
- },
- {
-  "title": "Hükümetten TGRT’ye uyarı: O haber provokasyon olarak değerlendirildi",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/hukumetten-tgrt-ye-uyari-o-haber-provokasyon-olarak-degerlendirildi-2507995",
-  "source": "Cumhuriyet",
-  "summary_tr": "Hükümete yakın TGRT'ye İletişim Başkanlığı'ndan uyarı yapıldı; haber provokasyon olarak değerlendirildi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-30T15:00:51.224589+00:00",
-  "cluster_id": "c4e190de24dd3"
- },
- {
-  "title": "Kılıçdaroğlu, \"Yaşadığımız, siyasetin ahlâkla mı parayla mı şekilleneceği meselesidir\" dedi; 'FETÖ' vurgusuyla 'özür diledi': Aramıza sızanları fark edemedim!",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY3VsR0FjVThfT2pDdW1id2x3VTMxZFV4dGNkR3EtZ2lVaFJkRTdjNFJ5WVVWejhnRmloZVdWTFE4c3B4YzRiOHh6bnFuaUo0WXVDY1MyN0VOYVB4T2ZYVjM3OHhtZDJwMmprdnJOUEE3aWh6V2FqRUptVE96T1BmcEJibVZFMUdxTDJGMXdiOVVzWXBCd0FVa1kwcHdGR1BXUzBTYWlwa0t6MFZBeER5REVDV1oyUVNsVkNBdXBGS29hVGM?oc=5",
-  "source": "T24",
-  "summary_tr": "Kılıçdaroğlu CHP genel başkanlığına oturdu; FETÖ ajanlarını fark edemediği için özür diledi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-30T15:00:51.224589+00:00",
-  "cluster_id": "cf61ea0b5c3cc"
- },
- {
-  "title": "Kılıçdaroğlu genel başkanlık koltuğuna oturdu, kürsüden seçilmiş yönetimi hedef aldı: \"FETÖ ajanlarını fark edemediğim için özür dilerim\"",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZzVlSUdERk5xeDVFcXF2U3I2N0ZlSURZSm05U3k3OUFNb09DSmdwQlFxU1N0VEhYNnN1d0E2X014VFBvSVBPbWZ6Uk1feGw3a1RjNkVaT09TUWVPQ29mQjBMX1Bqa3E4X2VvX2g5ZWp4V0xTbzlJZExsWmgzNVBnbEJ1ODE0WTRNWXZKSWxNMGNVUQ?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Kılıçdaroğlu CHP genel başkanlığını devraldı; FETÖ ajanlarını tanıyamadığını açıkça itiraf etti.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-30T15:00:51.224589+00:00",
-  "cluster_id": "ca1d3604de8b6"
- },
- {
-  "title": "ABD Savunma Bakanı: Anlaşma yapılmazsa yeni saldırılara hazırız",
-  "link": "https://www.sozcu.com.tr/abd-savunma-bakani-anlasma-yapilmazsa-yeni-saldirilara-haziriz-p323776",
-  "source": "Sözcü",
-  "summary_tr": "ABD Savunma Bakanı Hegseth, İran ile anlaşma sağlanamazsa yeni saldırılara hazır olduklarını söyledi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-30T14:01:00.396379+00:00",
-  "cluster_id": "c396f71c56a08"
- },
- {
-  "title": "Kılıçdaroğlu'ndan 'Önce hesaplaşma, sonra kurultay' mesajı",
-  "link": "https://www.bbc.com/turkce/articles/cy92zj24qy7o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "CHP'de Kılıçdaroğlu mahkeme kararıyla genel başkanlığa geri döndü; 'Önce hesaplaşma, sonra kurultay' mesajı verdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T14:01:00.396379+00:00",
-  "cluster_id": "c0c27dcf1ae78"
  }
 ]
