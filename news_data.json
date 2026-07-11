@@ -1,5 +1,113 @@
 [
  {
+  "title": "ABD, İran'ın Hürmüz Boğazı'nda ateş açmayı durduracağına dair taahhüt istiyor",
+  "link": "https://www.bbc.com/turkce/articles/ce8jlnm787jo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD, 11 Temmuz müzakerelerinde İran'dan Hürmüz Boğazı'nın açık tutulmasına dair taahhüt istiyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-11T11:01:10.887288+00:00",
+  "type": "news",
+  "cluster_id": "c2e3a037d283f"
+ },
+ {
+  "title": "Fed'in yarı yıllık raporu: Ekonomiye Ortadoğu baskısı ve yapay zeka desteği",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/fed-in-yari-yillik-raporu-ekonomiye-ortadogu-baskisi-ve-yapay-zeka-destegi-2519921",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD Merkez Bankası'nın raporu, Ortadoğu gerilimlerine rağmen ABD ekonomisinin büyümeye devam ettiğini gösteriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-11T11:01:10.887288+00:00",
+  "type": "news",
+  "cluster_id": "c4348d05a9ff6"
+ },
+ {
+  "title": "300 bin çalışanı ilgilendiriyor: Dev şirket geriye dönük servet ödeyecek!",
+  "link": "https://www.sozcu.com.tr/300-bin-calisani-ilgilendiriyor-dev-sirket-geriye-donuk-servet-odeyecek-p335608",
+  "source": "Sözcü",
+  "summary_tr": "AT&T, 300 bin mevcut ve emekli çalışanının emekli maaşlarında eksik ödeme yapıp geri ödeyecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-11T11:01:10.887288+00:00",
+  "type": "news",
+  "cluster_id": "c4cc54c3f0952"
+ },
+ {
+  "title": "İranlı kaynağa göre ABD mevcut tutumundan geri adım atmadıkça müzakereler söz konusu değil",
+  "link": "https://www.aa.com.tr/tr/dunya/iranli-kaynaga-gore-abd-mevcut-tutumundan-geri-adim-atmadikca-muzakereler-soz-konusu-degil/3994986",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran kaynakları, ABD tutumundan geri adım atmadıkça müzakerelerin söz konusu olmadığını belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-11T11:01:10.887288+00:00",
+  "type": "news",
+  "cluster_id": "c541d5f39a83d"
+ },
+ {
+  "title": "U.S. seeks Iranian pledge to free up Strait of Hormuz",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDY4WWlhcGlFTE0zWE9HdXJlWnFJNXRhLWthUlFCZVdiVV91elpLUlh3Ni1UQUU2OXg2RXV0MUVWVHk0SE9CSFA4RjdOV05hTFRUX3ZEb3Z0OEJWNkYtdGR2ajRDR0FWS2xXaEhQeFNuLTZ0NXVKLS1mbklIQnpPT2VINnQ1ZmF5eDFHNXQtY01aSVVMYXkwTEh4RnlmRUthcjlGOG1LYndabUJ6NWc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, İran'dan Hürmüz Boğazı'nın açık tutulmasına dair taahhüt istiyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-11T11:01:10.887288+00:00",
+  "type": "news",
+  "cluster_id": "c692e731ba521"
+ },
+ {
+  "title": "Özel'den Çankaya Belediyesi operasyonuna tepki: 'Dimdik ayaktayız. Bu da size dert olsun'",
+  "link": "https://www.bbc.com/turkce/articles/cqx1n3re3lvo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Ankara Çankaya Belediyesi'ne yönelik soruşturmada Belediye Başkanı Hüseyin Can Güner dahil 36 kişi gözaltına alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-11T11:01:10.887288+00:00",
+  "type": "news",
+  "cluster_id": "c073674862dac"
+ },
+ {
+  "title": "Türkiye denizin altına 97 kilometre uzunluğunda doğal gaz borusu döşeyecek",
+  "link": "https://www.sozcu.com.tr/turkiye-denizin-altina-97-kilometre-uzunlugunda-dogal-gaz-borusu-doseyecek-p335605",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye, KKTC ile arasında deniz altına 97 km uzunluğunda doğal gaz borusu döşeyecek.",
+  "metric": "97 kilometre",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-11T11:01:10.887288+00:00",
+  "type": "news",
+  "cluster_id": "c4ea9c8430d96"
+ },
+ {
+  "title": "Eğitim çalışanlarının özel hizmet tazminatı oranları düzenlendi",
+  "link": "https://www.aa.com.tr/tr/gundem/egitim-calisanlarinin-ozel-hizmet-tazminati-oranlari-duzenlendi/3994995",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Eğitim çalışanlarının özel hizmet tazminat oranları Resmi Gazete'de düzenlendi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-11T11:01:10.887288+00:00",
+  "type": "news",
+  "cluster_id": "c851a67ff27a6"
+ },
+ {
+  "title": "Türk somonu ihracatı yılın ilk yarısında 201,8 milyon dolar kazandırdı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/turk-somonu-ihracati-yilin-ilk-yarisinda-201-8-milyon-dolar-kazandirdi-/3994880",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye'nin 6 aylık somon ihracatı 201,8 milyon dolara ulaştı.",
+  "metric": "Somon ihracatı 201,8 milyon dolar",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-11T11:01:10.887288+00:00",
+  "type": "news",
+  "cluster_id": "c997f87d5e64b"
+ },
+ {
   "title": "İsrail basını: Tel Aviv, İran altyapısına yönelik geniş çaplı saldırıya hazırlanıyor",
   "link": "https://www.cumhuriyet.com.tr/dunya/israil-basini-tel-aviv-iran-altyapisina-yonelik-genis-capli-saldiriya-hazirlaniyor-2519915",
   "source": "Cumhuriyet",
@@ -55900,95 +56008,5 @@
   "score": 7,
   "ts": "2026-05-30T12:00:56.556644+00:00",
   "cluster_id": "c74cad33fc4bb"
- },
- {
-  "title": "Mutlak butlan sonrası ilk: Kılıçdaroğlu CHP Genel Başkanlığı makamında",
-  "link": "https://www.diken.com.tr/mutlak-butlan-sonrasi-ilk-kilicdaroglu-chp-genel-baskanligi-makaminda/?utm_source=rss&utm_medium=rss&utm_campaign=mutlak-butlan-sonrasi-ilk-kilicdaroglu-chp-genel-baskanligi-makaminda",
-  "source": "Diken",
-  "summary_tr": "İstinaf Mahkemesi'nin mutlak butlan kararı sonrası Kemal Kılıçdaroğlu, CHP Genel Başkanlığı makamına döndü.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T12:00:56.556644+00:00",
-  "cluster_id": "c7588736be4da"
- },
- {
-  "title": "Kemal Kılıçdaroğlu, 933 gün sonra makam odasında",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/kemal-kilicdaroglu-933-gun-sonra-makam-odasinda-2507947",
-  "source": "Cumhuriyet",
-  "summary_tr": "933 gün aranın ardından İstinaf kararıyla Kemal Kılıçdaroğlu, CHP Genel Başkanlığı makam odasında bayramlaşma programına katıldı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T12:00:56.556644+00:00",
-  "cluster_id": "c19fb02cf6ae6"
- },
- {
-  "title": "Kılıçdaroğlu: Saray dalkavuklarına, beşli çetelere, uyuşturu baronlarına geçit vermeyeceğiz",
-  "link": "https://www.diken.com.tr/kilicdaroglu-saray-dalkavuklarina-besli-cetelere-uyusturu-baronlarina-gecit-vermeyecegiz/?utm_source=rss&utm_medium=rss&utm_campaign=kilicdaroglu-saray-dalkavuklarina-besli-cetelere-uyusturu-baronlarina-gecit-vermeyecegiz",
-  "source": "Diken",
-  "summary_tr": "Kılıçdaroğlu, butlan kararının ardından ilk kez halka hitap ederek 'Saray dalkavuklarına, beşli çetelere, uyuşturu baronlarına geçit vermeyeceğiz' mesajı verdi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-30T12:00:56.556644+00:00",
-  "cluster_id": "c5b94c3c8c23b"
- },
- {
-  "title": "Canlı | Özgür Özel: Diplomasız Erdoğan, mazbatasız genel başkan istiyor",
-  "link": "https://www.diken.com.tr/canli-ozgur-ozel-chp-ankara-il-baskanligi-onunde/?utm_source=rss&utm_medium=rss&utm_campaign=canli-ozgur-ozel-chp-ankara-il-baskanligi-onunde",
-  "source": "Diken",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel, Kılıçdaroğlu'nun iadesi kararını eleştirerek 'diplomasız Erdoğan, mazbatasız genel başkan istiyor' diye protestoda bulundu.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-30T12:00:56.556644+00:00",
-  "cluster_id": "c88d9f0ef69d6"
- },
- {
-  "title": "Özgür Özel: Diplomasız Erdoğan, mazbatasız genel başkan istiyor",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQk1kUk9WcWpXZ2ktcXNrWk1qbXYtRkVxY3ZmdVZCRGg2dzU3ODYwN0tmZjM4Nkt4NEFoWXBDWmMtYnJlS0NvRUJPTVQ3eDZxOXZYTTdsM0R0OTNlbTE2SjlzWUVDam1JR1MxZUZlZ3pMQXJ3aTh0Yk1CSWJVMnZMV3h2UzNxSHczalNNTVVPa1prQ0h6aDBwTzNJMnc0M1hy?oc=5",
-  "source": "soL",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel, 'Diplomasız Erdoğan, mazbatasız genel başkan istiyor' diyerek Kılıçdaroğlu'nun iadesi kararını eleştirdi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-30T12:00:56.556644+00:00",
-  "cluster_id": "c88d9f0ef69d6"
- },
- {
-  "title": "CHP Genel Merkezi'nde 'Halkla Bayramlaşma' programı... Kılıçdaroğlu kürsüde: 'Ben hesap soracağım! Herkes bunu bilsin'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-genel-merkezi-nde-halkla-bayramlasma-programi-kilicdaroglu-kursude-ben-hesap-soracagim-herkes-bunu-bilsin-2507943",
-  "source": "Cumhuriyet",
-  "summary_tr": "İstinafın mutlak butlan kararıyla CHP'ye dönen Kılıçdaroğlu, 'Ben hesap soracağım' mesajını halka iletdi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-30T12:00:56.556644+00:00",
-  "cluster_id": "cdf68fbd10af9"
- },
- {
-  "title": "Özgür Özel çağrı yapmıştı: Binlerce kişi Güvenpark’ta bir araya geldi",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeE1jVG5BbVg1bmJTWW5QZ1hGZ1VMNWpSWXJlNEh2QTJsOVVDWm1FRFBLWnplVnFVVmJBLTMwTl94VmU2cFM0aFJOUTNSMnJzUXBMRWZaVkxXaEJzcWZucXFoYzVoX0ZUZ3pydzZyaUdnOG5jbHZhM3Q2NVpvNHVub0NVSTNLZHlVUzNRWGFtY1o0RlFaNng1SHhLU3N0LS1VdGRNMUowWnA?oc=5",
-  "source": "soL",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel'in çağrısına binlerce kişi Ankara Güvenpark'ta toplandı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-30T12:00:56.556644+00:00",
-  "cluster_id": "c2cbce8c5fb60"
- },
- {
-  "title": "İran’dan Trump’a sert suçlama: Diplomasiye üçüncü kez ihanet etti",
-  "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-trump-a-sert-suclama-diplomasiye-ucuncu-kez-ihanet-etti-2507945",
-  "source": "Cumhuriyet",
-  "summary_tr": "İran lideri danışmanı Rızai, ABD Başkanı Trump'ın diplomasiye üçüncü kez ihanet ettiğini söyledi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-30T11:00:53.754733+00:00",
-  "cluster_id": "c7faca43e2113"
- },
- {
-  "title": "İsrail'in Gazze'de işgali genişletmesi, etnik temizlik planını yeniden hayata geçirdiği endişesini artırdı",
-  "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzede-isgali-genisletmesi-etnik-temizlik-planini-yeniden-hayata-gecirdigi-endisesini-artirdi/3951721",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail'in Gazze'de işgali genişletme çabası, etnik temizlik endişesini artırdı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T11:00:53.754733+00:00",
-  "cluster_id": "cbeb15850e240"
  }
 ]
