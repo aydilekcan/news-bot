@@ -1,5 +1,149 @@
 [
  {
+  "title": "Çankaya Belediyesi'nde 27 gözaltı",
+  "link": "https://www.bbc.com/turkce/articles/cqx1n3re3lvo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Ankara Çankaya Belediyesi Başkanı Hüseyin Can Güner dahil 36 kişi hakkında suç örgütü kurma ve rüşvet iddiasıyla gözaltı kararı verildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-11T08:01:15.572743+00:00",
+  "type": "news",
+  "cluster_id": "ceef47db18e53"
+ },
+ {
+  "title": "Özel: Mahkeme başvuracağız, vallahi kayyım atansa daha iyi",
+  "link": "https://www.diken.com.tr/ozel-mahkeme-basvuracagiz-vallahi-kayyim-atansa-daha-iyi/?utm_source=rss&utm_medium=rss&utm_campaign=ozel-mahkeme-basvuracagiz-vallahi-kayyim-atansa-daha-iyi",
+  "source": "Diken",
+  "summary_tr": "CHP Genel Başkanı Özgür Özel, mahkeme kararıyla görevinden alındığını açıklayarak kayyım atanmasının daha iyi olacağını söyledi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-11T08:01:15.572743+00:00",
+  "type": "news",
+  "cluster_id": "c8a30bada95a1"
+ },
+ {
+  "title": "Küresel asgari kurumlar vergisi uygulanacak ülkeler belli oldu",
+  "link": "https://www.sozcu.com.tr/kuresel-asgari-kurumlar-vergisi-uygulanacak-ulkeler-belli-oldu-p335559",
+  "source": "Sözcü",
+  "summary_tr": "Cumhurbaşkanı Kararı ile küresel asgari kurumlar vergisinin uygulanacağı ülke ve bölgeler resmi olarak belirlendi.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-11T08:01:15.572743+00:00",
+  "type": "news",
+  "cluster_id": "cddfe84c3e2e2"
+ },
+ {
+  "title": "Yerel ve küresel asgari tamamlayıcı kurumlar vergisinin uygulandığı ülkeler belirlendi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/yerel-ve-kuresel-asgari-tamamlayici-kurumlar-vergisinin-uygulandigi-ulkeler-belirlendi/3994822",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Küresel asgari tamamlayıcı kurumlar vergisinin uygulanacağı ülkeler ve yerel verginin uygulanacağı bölgeler belirlendi.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-11T08:01:15.572743+00:00",
+  "type": "news",
+  "cluster_id": "c0d801ac585bc"
+ },
+ {
+  "title": "CHP'li Ankara Çankaya Belediyesi'ne \"suç örgütü kurma ve rüşvet\" operasyonu: Başkan Güner dâhil 36 kişi hakkında gözaltı kararı; evi yedek anahtarla girilip arandı",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUnM1N2RnekRLVGdiMzFwS1JwZDNWOUxKdHhOZEQ5WW9zNFh3Uk40SkxlQmVKVUZkY1dWQkhJV2pVTkp6SEIwcHNuYXQ0UkpTS1JUM1lmaVhVa2FXXzgtQlpETnpyU3c2TGwzcnJGOEFMdlVrYV9zRmZCSnYxSEg2MV9rMDJESnZVY05nZV9OdVRUeUFTU1lxUGoxZnE?oc=5",
+  "source": "T24",
+  "summary_tr": "Ankara Çankaya Belediyesi'ne suç örgütü ve rüşvet operasyonu: Başkan Güner dahil 36 kişi hakkında gözaltı kararı verildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-11T08:01:15.572743+00:00",
+  "type": "news",
+  "cluster_id": "c63541a82369c"
+ },
+ {
+  "title": "CHP'li Çankaya Belediyesi’ne yönelik operasyon: Çok sayıda kişi hakkında gözaltı kararı",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSUNCTk16QUtuMnhlLWkzeEduTVlGMEpyQS00N2J1WEhQdjRBLU1pREFNS0hYUktRRlVOc2NlcTdMSkhZWjhCMkl4LTZkUHY0WUluaTJoNm1lQzhHU083UGFHU2JOTkdvcWlJdWx1QWRTaUR5TWdzbXpoZF9ORkQ2NXVWemZwU1UwaGFjZXBMOFM5bElOS3dRS2ZzaEFQS0d3NS1ObE1IZU9kdE55QmhtUFJrdURQaWticlZ4cG9tcw?oc=5",
+  "source": "soL",
+  "summary_tr": "CHP'li Çankaya Belediyesi'ne operasyon: Çok sayıda kişi hakkında gözaltı kararı çıkarıldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-11T08:01:15.572743+00:00",
+  "type": "news",
+  "cluster_id": "ce4fa3d55cf37"
+ },
+ {
+  "title": "Ten wounded as Russia strikes Kyiv with missiles",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY3k1cm9pSmZSWW94aGcyM09sWWdadXpEWWZBbGhFTjlfWDFkbzBZV3o4bmpycmY2QmQyelNrUVBFUmRLY1FwMS1XbVl4NU0tNGxIbmplTEstaXFlQV9na3IzdHd2YUxMNzQ1ZXRvMFlmQ05lR1gwT09oYXIyWkV4aWJDdEE5ZnVDMFVMalpnNjZpNFNfNThLR1ZEeGk?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya Kyiv'e füze saldırısı düzenledi; 10 kişi yaralandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-11T08:01:15.572743+00:00",
+  "type": "news",
+  "cluster_id": "cf7acb67ecacc"
+ },
+ {
+  "title": "Tepkilerin odağındaki MYK'ye dikkat çeken görev: Kılıçdaroğlu’ndan 'illeri gezin' talimatı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/tepkilerin-odagindaki-myk-ye-dikkat-ceken-gorev-kilicdaroglu-ndan-illeri-gezin-talimati-2519891",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Genel Başkanı Kemal Kılıçdaroğlu, MYK toplantısında parti yöneticilerine illeri gezme talimatı verdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-11T08:01:15.572743+00:00",
+  "type": "news",
+  "cluster_id": "c532a05387045"
+ },
+ {
+  "title": "Tarihin en yüksek rekolteli hasadı başladı ama fiyatı gören tarladan kaçıyor",
+  "link": "https://www.sozcu.com.tr/tarihin-en-yuksek-rekolteli-hasadi-basladi-ama-fiyati-goren-tarladan-kaciyor-p335564",
+  "source": "Sözcü",
+  "summary_tr": "Afyonkarahisar'da kiraz hasadı başladı; rekolte tarihin en yüksek seviyesinde olmasına rağmen fiyatlar çiftçileri kaçırmaya neden oluyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-11T08:01:15.572743+00:00",
+  "type": "news",
+  "cluster_id": "cad42cfa43728"
+ },
+ {
+  "title": "Kredi kartı komisyonu esnafı bıktırdı",
+  "link": "https://www.sozcu.com.tr/kredi-karti-komisyonu-esnafi-biktirdi-p335562",
+  "source": "Sözcü",
+  "summary_tr": "Kredi kartı komisyon oranları tırmanışıyla esnafın finansal yükü artıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-11T08:01:15.572743+00:00",
+  "type": "news",
+  "cluster_id": "c12202894f235"
+ },
+ {
+  "title": "Suudi Arabistan Veliaht Prensi Bin Selman ve Trump, deniz ulaşımının güvenliğini görüştü",
+  "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistan-veliaht-prensi-bin-selman-ve-trump-deniz-ulasiminin-guvenligini-gorustu/3994802",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Suudi Arabistan Veliaht Prensi Muhammed bin Selman ve ABD Başkanı Trump, Hürmüz Boğazı güvenliği ve İran müzakereleri görüştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-11T08:01:15.572743+00:00",
+  "type": "news",
+  "cluster_id": "c5f5e6f16a6aa"
+ },
+ {
+  "title": "ABD, İran'dan Hürmüz Boğazının tüm geçişlere açık tutulması taahhüdünü istiyor",
+  "link": "https://www.trthaber.com/haber/dunya/abd-irandan-hurmuz-bogazinin-tum-gecislere-acik-tutulmasi-taahhudunu-istiyor-950921.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD, İran'dan Hürmüz Boğazı'ndaki gemilere yönelik saldırıları durdurup boğazı tüm geçişlere açık tutmasını talep ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-11T08:01:15.572743+00:00",
+  "type": "news",
+  "cluster_id": "cccdb951bee85"
+ },
+ {
   "title": "CHP'li Çankaya Belediyesi'ne operasyon: 36 gözaltı kararı",
   "link": "https://www.dw.com/tr/chp-li-çankaya-belediyesi-ne-operasyon-36-gözaltı-kararı/a-77913751?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -55820,125 +55964,5 @@
   "score": 7,
   "ts": "2026-05-30T09:01:02.485246+00:00",
   "cluster_id": "c6ee910639a90"
- },
- {
-  "title": "JPMorgan yüzde 55 kârı cebine koydu, fırtına öncesi Türkiye'nin fişi çekti!",
-  "link": "https://www.sozcu.com.tr/jpmorgan-yuzde-55-kari-cebine-koydu-firtina-oncesi-turkiye-nin-fisi-cekti-p323719",
-  "source": "Sözcü",
-  "summary_tr": "JPMorgan, Türk lirasındaki 2 yıllık pozisyonunu erken seçim ihtimali nedeniyle yüzde 55 kârla kapattı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-30T09:01:02.485246+00:00",
-  "cluster_id": "c9ecabd789560"
- },
- {
-  "title": "Ukrainian drones strike port, oil depot in southern Russia, authorities say",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdnZxblV0SVJBVXhYQnRlM29HdnZpUHN5Y1JLQVN5N29senRaM29DQk9ZeVlJeHgzR0Vab0pqQmktQ201SldBd0Z5RUNSQjdnSXNmSzdTSFVaY3NWTThMQTgtQUJFeGd6Z1AzUmdta3ZucjZ6MW1qVFlRZzYwQzVYWk5QYnFuenVxN2xjZHI1RGZfTFE1bFhQbXdxUVVsVVd1YzBTajFaYkJBSUQ0YUJ4X3Zn?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ukrayna, Güney Rusya'daki limanı ve petrol deposunu vurdu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T09:01:02.485246+00:00",
-  "cluster_id": "c32d64d021c93"
- },
- {
-  "title": "Vietnam’s To Lam points to the Strait of Hormuz as a warning for Asia-Pacific rivals",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVmhEMWlWOGxCWjM3VXJiTXptZjJ1MXVBalZMVjdjYVh0dzVLUGRwTENFYlRHMHNTUVZEWEhwaUF1Wi0tQ2lkYkwzVmt2Mk0weEFoRWpvMFVDaVhEYVpGQ0dpakRBOW1zbFFPUUF6NzJCOXlKOHFXVVljb2hYSUgyamhTZ1BoaktITkNsMDN5eWhPWEcxaVVET0ZiLU1ZNHYxQ2VJcmYxeWJqSWs?oc=5",
-  "source": "AP",
-  "summary_tr": "Vietnam Liderliği, Hormuş Boğazı'ndaki durumu Asya-Pasifik rakipleri için uyarı örneği gösterdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T09:01:02.485246+00:00",
-  "cluster_id": "c24df2a488ac9"
- },
- {
-  "title": "Kemal Kılıçdaroğlu'nun MYK'sinde kriz: Ekibinde 'koltuk kavgası' çıktı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/kemal-kilicdaroglu-nun-myk-sinde-kriz-ekibinde-koltuk-kavgasi-cikti-2507931",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Genel Başkanı Kemal Kılıçdaroğlu'nun MYK'sinde sözcü atama konusunda iç kriz yaşanıyor.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-30T09:01:02.485246+00:00",
-  "cluster_id": "c3db5f097e523"
- },
- {
-  "title": "ABDİran müzakerelerinde yeni safha",
-  "link": "https://www.trthaber.com/haber/dunya/abd-iran-muzakerelerinde-yeni-safha-946591.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD ve İran müzakere sürecinde tarafların karşılıklı açıklamalarıyla bazı konularda uzlaşma sinyalleri görülüyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-30T09:01:02.485246+00:00",
-  "cluster_id": "c5d0c698b7e1b"
- },
- {
-  "title": "Özgür Özel: Parti Meclisi’nin toplanması için 12 üyenin imzası yeterli",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYzhFVG4zV3cwSHlLZ01Cb3c2NTF3djd2TThIWmhONE4ySUhMY1ZRazdLNE1QaDdmc01wQ3ZzcXRQZWtlcHJZLXItVms2V1JVVVRJdmhwSWc5NVBhZGlyOW9hQlhmUnkySHJDcUE1WVp4SVB3VEtDemd0eWVIZ2xqU1o2dGN4bnNjdk1TRXdsWjl4M2NCSkY4ZGtWRy1zZ0UwZkZvbUE5S3J5QQ?oc=5",
-  "source": "soL",
-  "summary_tr": "CHP Genel Sekreteri Özgür Özel, Parti Meclisi'nin toplanması için 12 üyenin imzasının yeterli olduğunu söyledi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-30T09:01:02.485246+00:00",
-  "cluster_id": "c9f6203e2c5a3"
- },
- {
-  "title": "İran Savaşı Sonrası Ortadoğu: Türkiye İçin Fırsat mı, Tuzak mı?",
-  "link": "https://yetkinreport.com/2026/05/30/iran-savasi-sonrasi-ortadogu-turkiye-icin-firsat-mi-tuzak-mi/",
-  "source": "YetkinReport",
-  "summary_tr": "İran savaşı sonrası Ortadoğu yapılanmasında Trump, İsrail, İran iç dinamikleri ve Körfez güvenliği Türkiye'nin konumunu etkileyebilir.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T08:00:55.011155+00:00",
-  "cluster_id": "c572228b0dc19"
- },
- {
-  "title": "ABD’den zengin müttefiklere uyarı: Savunma yükünü artık biz taşımayacağız",
-  "link": "https://www.cumhuriyet.com.tr/dunya/abd-den-zengin-muttefiklere-uyari-savunma-yukunu-artik-biz-tasimayacagiz-2507919",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Savunma Bakanı Hegseth, Hint-Pasifik müttefiklerine savunma yükünün artık ABD'nin sorumlulluğunda olmadığını belirtti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T08:00:55.011155+00:00",
-  "cluster_id": "c61df30b4efa6"
- },
- {
-  "title": "CANLI: Seçilmiş-atanmış CHP! Türk siyasetinin gözleri Ankara'ya çevrildi",
-  "link": "https://www.sozcu.com.tr/secilmis-atanmis-chp-karsi-karsiya-turk-siyasetinin-gozleri-ankara-ya-cevrildi-p323711",
-  "source": "Sözcü",
-  "summary_tr": "Ankara Bölge Adliye Mahkemesi CHP'nin mutlak butlan kararını verdi; Özgür Özel geçici Genel Başkan olarak atandı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-30T08:00:55.011155+00:00",
-  "cluster_id": "cfe400c918785"
- },
- {
-  "title": "Mehmet Ali Güller: Mesele Özel/İmamoğlu ile Kılıçdaroğlu çatışmasından ötedir",
-  "link": "https://www.diken.com.tr/mehmet-ali-guller-mesele-ozel-imamoglu-ile-kilicdaroglu-catismasindan-otedir/?utm_source=rss&utm_medium=rss&utm_campaign=mehmet-ali-guller-mesele-ozel-imamoglu-ile-kilicdaroglu-catismasindan-otedir",
-  "source": "Diken",
-  "summary_tr": "CHP'de iç çatışma: Özel/İmamoğlu ile Kılıçdaroğlu arasında yaşanan anlaşmazlık cumhuriyet kurumlarına yönelik bir tehdit olarak değerlendiriliyor.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-30T08:00:55.011155+00:00",
-  "cluster_id": "c6a7d4a33b5f2"
- },
- {
-  "title": "CHP İlke ve Demokrasi Hareketi’nden 'mutlak butlan' açıklaması",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-ilke-ve-demokrasi-hareketi-nden-mutlak-butlan-aciklamasi-2507915",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP İlke ve Demokrasi Hareketi, Örsan Öymen aracılığıyla mahkemenin mutlak butlan kararını yok hükmünde saydığını açıkladı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-30T08:00:55.011155+00:00",
-  "cluster_id": "c2e75b66fefa8"
- },
- {
-  "title": "ABD Dışişleri Bakanı açıkladı: Tom Barrack için yol göründü",
-  "link": "https://www.sozcu.com.tr/abd-disisleri-bakani-acikladi-tom-barrack-icin-yol-gorundu-p323704",
-  "source": "Sözcü",
-  "summary_tr": "ABD Dışişleri Bakanı Rubio, Türkiye Büyükelçisi Tom Barrack'ın görev süresinin uzatılacağını açıkladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-30T08:00:55.011155+00:00",
-  "cluster_id": "cd025974a7bcb"
  }
 ]
