@@ -1,5 +1,17 @@
 [
  {
+  "title": "Başkanlık sistemi faizi patlattı",
+  "link": "https://www.sozcu.com.tr/baskanlik-sistemi-faizi-patlatti-p335517",
+  "source": "Sözcü",
+  "summary_tr": "Başkanlık sistemine geçişten sonra faiz harcamaları bütçenin %8.9'undan %17'ye yükseldi; 2026'da daha da artması bekleniyor.",
+  "metric": "Faiz harcamaları (bütçe payı) %8.9 -> %17 (+8.1 puan)",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-11T03:01:10.845688+00:00",
+  "type": "news",
+  "cluster_id": "cc0ab0a9cb670"
+ },
+ {
   "title": "Mezar fiyatları üçe katlandı",
   "link": "https://www.sozcu.com.tr/mezar-fiyatlari-uce-katlandi-p335518",
   "source": "Sözcü",
@@ -55894,15 +55906,5 @@
   "score": 8,
   "ts": "2026-05-30T03:00:49.923286+00:00",
   "cluster_id": "cb47abfcdde43"
- },
- {
-  "title": "Lübnan'da ateşkese rağmen kayıplar ağırlaşıyor: İsrail saldırılarında can kaybı 3 bin 355'e çıktı",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRHg3VzhfUldpZXpVc3RnR0RqSkQ4VzhQTHFjQjV3Y1JoM0ZRTWlLbTV1bnBCaVNKTDJuVDdmY0lEUWdZekw4cGRoNHZLRHhvWW9JTWRtdEpyVFJSRzV6V1ZtQnBpVXlESTdoR293aXI1d3lTM1RhZ1lYRW4tNlNTNWhzc1c0dklLZVphQTVpaE1BMG02YUQ2M2ZPT0xRcXJCM1pyMU9mUVJ0dm9qVnpxd2RWZVJsTkQyN1pCVUszRXdWdlBsVXdJNA?oc=5",
-  "source": "T24",
-  "summary_tr": "Lübnan'da ateşkese rağmen İsrail saldırılarında can kaybı 3 bin 355'e yükseldi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T03:00:49.923286+00:00",
-  "cluster_id": "c13d95b07ef65"
  }
 ]
