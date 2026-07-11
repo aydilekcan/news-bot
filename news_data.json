@@ -1,5 +1,29 @@
 [
  {
+  "title": "RPT Russia halts Don-Azov channel shipping, affecting grain trade, after Ukraine attacks",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZzVJeVFGQ0JzVVB1VEQxRUhyZGQ3Tm5PcmR4TW9YVEFhd1NCbFJMUk5oNVdySjk3S1EyTG82VFRoRUhLTzB4TGx3ek93UjFxQ2o3VUZaUGRKNWszQUlEX2h0VUk4dmF5c05hOHd0M1U4NllxS3QwNjhIRlJuYU1zdHBPSDJuMGh0OXFwZEhjR1V1clJ6YTVTMFpLbE1tMlBMQmV2WDA2TkRxbWk3eWswclZOV3c4RVRObU4wbUMzQjE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya, Ukrayna saldırılarının ardından Don-Azov kanalında gemi trafiğini durdurdu; tahıl ticareti etkileniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-11T00:01:09.983040+00:00",
+  "type": "news",
+  "cluster_id": "cff45e21c6582"
+ },
+ {
+  "title": "TUFE (aylık): %1'in altında (Haziran)",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ0NmUVI1ZGI4ZzA0Y2JPQncza21VWFkyU3J1a0xHampGTTl4MGcwelJLNmZFbXB2SWk4VUxNYU1wXzVjM3BlUGxkNnBMRlp0d2NFb29rRlFHTjhFdkNZaHEyV0RhVEF6dXB4ak5PTzBDdUlfcVdwUzB6aUJGZTJ4dS0xT2h1TGhqaXRVR0ZTU3NqTEU?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%32,11 → %1'in altında (-31,1 puan)",
+  "metric": "-31,1 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-11T00:01:09.983040+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Trump, kendisine suikast düzenlemeleri halinde İran'ın \"hiç görülmemiş seviyede bombalanmasını\" istedi",
   "link": "https://www.aa.com.tr/tr/dunya/trump-kendisine-suikast-duzenlemeleri-halinde-iranin-hic-gorulmemis-seviyede-bombalanmasini-istedi/3994742",
   "source": "Anadolu Ajansı",
@@ -55876,25 +55900,5 @@
   "score": 7,
   "ts": "2026-05-30T02:00:47.877099+00:00",
   "cluster_id": "c11dcb021e87f"
- },
- {
-  "title": "İsrail'in Lübnan'da Sur kentine bağlı beldelere düzenlediği saldırılarda 11 kişi öldü",
-  "link": "https://www.aa.com.tr/tr/dunya/israilin-lubnanda-sur-kentine-bagli-beldelere-duzenledigi-saldirilarda-11-kisi-oldu/3951575",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail, ateşkes rağmen Lübnan'ın Sur kentine hava saldırısı düzenledi; 11 kişi öldü.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-29T23:00:48.573525+00:00",
-  "cluster_id": "c0d1760770758"
- },
- {
-  "title": "IMF, World Bank, others warn Middle East war is straining energy supplies",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcnJzOC1UQWtTREhyMklUSzZ5MFh3QWNweDMtcWRrdWpUQ3Azd2xpVjIyenJPdzFyN216V0FZOHRhR0FWNG83STJGUHpoaXhOakdWOE9xTWZ4eDd1VDBXZG1ja1Jvb1VRaDZVRUNRT2JlMk5MYXFJaDY1ckNKTGdVQl92dVV2R3A5cFRQQU1xSWhnMmREUGI1NXRtWmlYck05VVFxZWtSU002WkEzSW1FNVpZM3lXWEwtTnNhbHBycVM?oc=5",
-  "source": "Reuters",
-  "summary_tr": "IMF ve Dünya Bankası, Ortadoğu savaşının enerji arzını tehdit ettiğini uyarıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-29T23:00:48.573525+00:00",
-  "cluster_id": "c26e92570282b"
  }
 ]
