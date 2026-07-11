@@ -1,5 +1,53 @@
 [
  {
+  "title": "Özel: Bugün ilk kez Ankara'da gizli tanıkla Hüseyin canımıza saldırdılar, hesabını soracağız",
+  "link": "https://www.diken.com.tr/ozel-bugun-ilk-kez-ankarada-gizli-tanikla-huseyin-canimiza-saldirdilar-hesabini-soracagiz/?utm_source=rss&utm_medium=rss&utm_campaign=ozel-bugun-ilk-kez-ankarada-gizli-tanikla-huseyin-canimiza-saldirdilar-hesabini-soracagiz",
+  "source": "Diken",
+  "summary_tr": "CHP'nin seçilmiş Genel Başkanı Özgür Özel, Ankara'da gizli tanık desteğiyle mahkemede yeniden yargılanmaya başlandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-11T19:01:13.619323+00:00",
+  "type": "news",
+  "cluster_id": "c6aaacac58bf0"
+ },
+ {
+  "title": "Murat Emir’den Çankaya Belediyesine operasyon tepkisi: ‘Asla eğilmeyeceğiz, bir adım geri atmayacağız’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/murat-emir-den-cankaya-belediyesine-operasyon-tepkisi-asla-egilmeyecegiz-bir-adim-geri-atmayacagiz-2520008",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Grup Başkanvekili Murat Emir, Çankaya Belediyesine yönelik operasyona tepki göstererek siyasi kumpas olduğunu öne sürdü.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-11T19:01:13.619323+00:00",
+  "type": "news",
+  "cluster_id": "ce66e2a3b9b08"
+ },
+ {
+  "title": "İranlı komutan, savaş döneminde İHA üretimini üç katına çıkardıklarını açıkladı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/iranli-komutan-savas-doneminde-iha-uretimini-uc-katina-cikardiklarini-acikladi-2520006",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran Savunma Bakan Vekili, savaş döneminde insansız hava aracı üretimini üç katına çıkardıklarını açıkladı.",
+  "metric": "İHA üretimi -> 3 kat artış",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-11T19:01:13.619323+00:00",
+  "type": "news",
+  "cluster_id": "ca7426cc3b713"
+ },
+ {
+  "title": "Özgür Özel Adana’dan seslendi: ‘Çok yakında ya partimizi geri alacak bir yolu bulacağız ya da yeni bir yol açacağız’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/ozgur-ozel-adana-dan-seslendi-cok-yakinda-ya-partimizi-geri-alacak-bir-yolu-bulacagiz-ya-da-yeni-bir-yol-acacagiz-2520005",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP'nin seçilmiş Genel Başkanı Özgür Özel, Adana'da partinin iade edilmesi veya yeni bir yol açılması konusunda söz verdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-11T19:01:13.619323+00:00",
+  "type": "news",
+  "cluster_id": "c93420a70d7fc"
+ },
+ {
   "title": "TUFE (yıllık): %32",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONktVWkN6MmJFdUpBdm1hZnZQYU9MRWxtYjFZeEtyYkRGX1hoNWVrUy1KR2F6RlA4WmhoMmFEVm83NGpDRmtXZ2hrckVMUlFtQWFMNEVGYjg5UTFtaUpZMjhqOFlaV0dsTE1INDRsSkY0aUVRUW9PMkRGUlN0YkFvWEVQLW5PS0dwcVpTZXlmVzlta2h5U2c?oc=5",
   "source": "TÜİK",
@@ -56024,45 +56072,5 @@
   "score": 6,
   "ts": "2026-05-30T17:00:54.349085+00:00",
   "cluster_id": "cda45c9e21e80"
- },
- {
-  "title": "Kılıçdaroğlu \"FETÖ ajanları\" dedi, Özel Anıtkabir'e yürüdü (CANLI BLOG)",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbjBjX2JTNWVJVldDYWh0WUZkRzcwUjlFV3ZJeEQtTW1UMGVhV0x4Q1NTaFdJRXdzSWdxLTJYZHpLZWhzeGhiWDAycExUWHc4ZTZ5R3Q3U1dSbWV6VWZYbGZHSFFLLVRPNzhUY3plLWFxTDM1Z2ZQcjNMbFBIdHhFTWxQYU5kN0gxLTV1RDh4eE5FY0ZiQjdUdkIxSzdMSEp5?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Kılıçdaroğlu, konuşmasında 'FETÖ ajanları' ifadesini kullanırken Özel Anıtkabir'e yürüdü.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-30T17:00:54.349085+00:00",
-  "cluster_id": "ce8fda7188e8c"
- },
- {
-  "title": "CHP lideri Özel, iktidar yürüyüşünü Ankara’dan başlattı: Özel, arkasında 10 binlerle Atatürk’ün huzuruna yürüdü",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-lideri-ozel-iktidar-yuruyusunu-ankara-dan-baslatti-ozel-arkasinda-10-binlerle-ataturk-un-huzuruna-yurudu-2507999",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP lideri Özgür Özel, Ankara'da 10 binlerce kişiyle bayramlaşma mitinginde 'iktidar yürüyüşü'nü başlattı ve Anıtkabir'e yürüdü.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-30T16:00:54.070646+00:00",
-  "cluster_id": "c9a4c43cf6eb1"
- },
- {
-  "title": "Kılıçdaroğlu CHP’deki bölünmeyi tescil ederken kurultay senaryoları",
-  "link": "https://yetkinreport.com/2026/05/30/kilicdaroglu-chpdeki-bolunmeyi-tescil-ederken-kurultay-senaryolari/",
-  "source": "YetkinReport",
-  "summary_tr": "CHP'de Özel ve Yavaş'ın bayramlaşma mitingleri partinin ayrılık ve kurultay senaryolarını tescil etti; Kılıçdaroğlu'nun konumu zayıfladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T16:00:54.070646+00:00",
-  "cluster_id": "c01673ee59690"
- },
- {
-  "title": "CHP’de İlk Hesaplaşmanın Kazananı Özel ve Yavaş, Kaybedeni Kılıçdaroğlu",
-  "link": "https://yetkinreport.com/2026/05/30/chpde-ilk-hesaplasmanin-kazanani-ozel-ve-yavas-kaybedeni-kilicdaroglu/",
-  "source": "YetkinReport",
-  "summary_tr": "Ankara ve İzmir'deki bayramlaşma mitingleri CHP tarihinin dönüm noktası: Özel-Yavaş kazandı, Kılıçdaroğlu kaybetti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T16:00:54.070646+00:00",
-  "cluster_id": "c55aebcd71794"
  }
 ]
