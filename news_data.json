@@ -1,5 +1,17 @@
 [
  {
+  "title": "TUFE (yıllık): %32",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONktVWkN6MmJFdUpBdm1hZnZQYU9MRWxtYjFZeEtyYkRGX1hoNWVrUy1KR2F6RlA4WmhoMmFEVm83NGpDRmtXZ2hrckVMUlFtQWFMNEVGYjg5UTFtaUpZMjhqOFlaV0dsTE1INDRsSkY0aUVRUW9PMkRGUlN0YkFvWEVQLW5PS0dwcVpTZXlmVzlta2h5U2c?oc=5",
+  "source": "TÜİK",
+  "summary_tr": "%32,11 → %32 (-0,1 puan)",
+  "metric": "-0,1 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-11T18:01:08.228369+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Çankaya belediye başkanı gözaltına alındı",
   "link": "https://www.diken.com.tr/cankaya-belediye-baskani-gozaltina-alindi/?utm_source=rss&utm_medium=rss&utm_campaign=cankaya-belediye-baskani-gozaltina-alindi",
   "source": "Diken",
@@ -56052,15 +56064,5 @@
   "score": 7,
   "ts": "2026-05-30T16:00:54.070646+00:00",
   "cluster_id": "c55aebcd71794"
- },
- {
-  "title": "Gelecek Partili isimden CHP’ye ‘kongre’ uyarısı… Tarih verdi: ‘Yapmazsa seçimlere giremeyecektir’",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/gelecek-partili-isimden-chp-ye-kongre-uyarisi-tarih-verdi-yapmazsa-secimlere-giremeyecektir-2507998",
-  "source": "Cumhuriyet",
-  "summary_tr": "Gelecek Partisi Genel Başkan Vekili Üstün, CHP'nin 3 yıl içinde kongre yapması gerektiğini, aksi takdirde seçimlere giremeyeceğini uyardı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T16:00:54.070646+00:00",
-  "cluster_id": "c75ca66544949"
  }
 ]
