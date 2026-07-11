@@ -1,5 +1,65 @@
 [
  {
+  "title": "Trump says missiles aimed at Iran if Tehran targets US president",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzc3RWxTLVZuRllmY19VQ244ZjcxcjY2TVRNWnh1WkI1ck5qUkFyMzBZNTZTYUZqbTVRSmc4V3BqMl9zY21GdnJmSGU0OTNRd0Q4ekxDMnlGQ0I1UEJScFZhUGZoZ1A1aEdZTWRYZ0FGazJ3aXpJd2Zad044SzhMWXFETXRmQnBvTnMxSjhzdXVjZnp1YmRkNWJlVWdqWWdFdnRKeHlrOFQtdjZqRk9mMFhMbFFHUQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, İran Tahran'ı ABD başkanını hedef alırsa füzelerle karşılık vereceğini belirtmiştir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-11T05:01:06.318403+00:00",
+  "type": "news",
+  "cluster_id": "c39471b9be5e1"
+ },
+ {
+  "title": "Trump threatens Iran after Ayatollah Ali Khamenei’s funeral saw open calls for his killing",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb29YUXh5MnNRTjVBazdXOUdMSkx5bkU0WHJFVFRGX1pyY0E5cWZfRXc5NnhQVjdOUVFzZTJFNkpBNlZpdUZIVGdoNk5ieU1sVUw1dDMwdkhSYWF4a0pKUk9nYVFMLW5HRFRjOUJTSTBuVEkxLTQ1X2NEZk5FWDMwV2lnRlBhYmhyY2FjQU82S2pnM2RQSEpfTjFwSXBlbk54OGdr?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump, Ayatollah Khamenei'nin cenaze töreninde kendisini öldürme çağrılarının yapıldığı ve İran'ı tehdit etmiştir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-11T05:01:06.318403+00:00",
+  "type": "news",
+  "cluster_id": "ce1ea4b2c2e6f"
+ },
+ {
+  "title": "Son dakika... Çankaya Belediyesi'ne operasyon: Çok sayıda gözaltı!",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-cankaya-belediyesi-ne-operasyon-cok-sayida-gozalti-2519874",
+  "source": "Cumhuriyet",
+  "summary_tr": "Çankaya Belediyesi'ne polis operasyonu; çok sayıda gözaltı kararı çıkartılmıştır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-11T05:01:06.318403+00:00",
+  "type": "news",
+  "cluster_id": "c299ac7378ba5"
+ },
+ {
+  "title": "Cumhurbaşkanı Erdoğan imzaladı: Çok sayıda görevden alma ve atama kararı",
+  "link": "https://www.sozcu.com.tr/cumhurbaskani-erdogan-imzaladi-cok-sayida-gorevden-alma-ve-atama-karari-p335524",
+  "source": "Sözcü",
+  "summary_tr": "Cumhurbaşkanı Erdoğan tarafından Milli Savunma, Aile ve Sosyal Hizmetler bakanlıklarında çok sayıda görevden alma ve atama kararı imzalanmıştır.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-11T05:01:06.318403+00:00",
+  "type": "news",
+  "cluster_id": "c87686d43a304"
+ },
+ {
+  "title": "İran Dışişleri Bakanı Erakçi, ABD'nin mutabakatı ihlal ettiğini belirtti",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-abdnin-mutabakati-ihlal-ettigini-belirtti/3994769",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Dışişleri Bakanı Erakçi, ABD'nin karşılıklı mutabakat yükümlülüklerini ihlal ettiğini belirtmiştir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-11T05:01:06.318403+00:00",
+  "type": "news",
+  "cluster_id": "c2b9a01aa3085"
+ },
+ {
   "title": "US pain at the pump worsens after more US-Iran fighting lifts oil prices",
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmRTRTU1SVQyc05BT2JHSGRkZ0JQaFI5WjVraUplNlJaQVUzUk1jeHp2eE9WQ191SkRkSDRZZjJiVWtBZHg2VXdCWW9jV0xNLXR4QzhQak5NSDd6QVp5dWtFbl95TGVwVDhBRGV3V05CWGV0U2JVeU52OW1XSHhkVENveUdMSEF4Um8yc1B0cVphckZzd0dOZ0l5VHlVdHdEYXRrem4tNzlmSEJKZUNkRDJCMjhBSG5x?oc=5",
   "source": "Reuters",
@@ -55858,55 +55918,5 @@
   "score": 6,
   "ts": "2026-05-30T06:00:54.960350+00:00",
   "cluster_id": "c9ada51653236"
- },
- {
-  "title": "Beyaz Saray'da kritik bekleyiş: Trump’ın ‘Nihai Karar’ toplantısından sonuç çıkmadı",
-  "link": "https://www.sozcu.com.tr/beyaz-saray-da-kritik-bekleyis-trump-in-nihai-karar-toplantisindan-sonuc-cikmadi-p323664",
-  "source": "Sözcü",
-  "summary_tr": "ABD Başkanı Trump, İran gerilimi hakkında 'nihai karar' vermek üzere Beyaz Saray'da kurmaylarıyla görüştü.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T05:00:44.538775+00:00",
-  "cluster_id": "c30263fa89f8d"
- },
- {
-  "title": "İsrailLübnan görüşmelerinde 4. tur ABDde 9 saat sürdü",
-  "link": "https://www.trthaber.com/haber/dunya/israil-lubnan-gorusmelerinde-4-tur-abdde-9-saat-surdu-946578.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail ve Lübnan arasında ABD'de 4. tur görüşmeler Pentagon'da 9 saati aşkın sürdü.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-30T05:00:44.538775+00:00",
-  "cluster_id": "cb96979297d20"
- },
- {
-  "title": "İran: ABD ile mesaj alışverişi devam ediyor, anlaşma henüz kesinleşmedi",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONkNHZ2ZEUjNCOEpjNENPOEUxUU5MVkc0SkwzbnRkNzNIeTFLVmh5a0hlOXRaUExkdVF4TTRQX3M1dnhHSG1LcVBKSWxabmwzQjVFOGlIZF9DSUJnWEVxdzNIaVktUExaRnQ3MFZSNzgwZUs4eHEyajRKLVhBa0ltbkNkLTJ3bDNUeWlhSk1OS0xQaDFENXBWY01GdHBuRUI5U1V1ZloxeU11M2c?oc=5",
-  "source": "soL",
-  "summary_tr": "İran, ABD ile mesaj alışverişinin devam ettiğini ancak anlaşmanın henüz kesinleşmediğini açıkladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-30T05:00:44.538775+00:00",
-  "cluster_id": "c18582aea1888"
- },
- {
-  "title": "US and Iranian negotiators reach tentative deal to extend ceasefire and start new nuclear talks",
-  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZkpNTFpBTDhFTFczZnNxSVpaSDRnYnZiX2pKSmFIWTFJZVh0ZG5Ka2o1SmxjVHl0MzVoTEVIZUMySGRmYWdPbGcyNVEwRWJCdGdHQTNIbXNadWJCMV9IeVB3TVh2S21NUEZoXzhTNWxjdTdmSFdTSUFwQ2w4UWQ4aVBqMHdwQ24yQ0xIS05rNUc?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD ve İran müzakerecileri, ateşkesin uzatılması ve yeni nükleer görüşmelerin başlatılması konusunda geçici anlaşmaya vardı.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-05-30T04:00:48.154243+00:00",
-  "cluster_id": "c655f546c8137"
- },
- {
-  "title": "Pentagon chief sounds 'alarm' over China's buildup, urges allies to boost defence spend",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWEhBX2lMYlRGNFRaUmJZTWYxbngyWHBqZFA4Q21ZNlplVHRud1NvdERIZFJkTmZSWmtUeU1wQ21hOVBEbjlUOUVFRXNhcXlHRmgyOVBxUGZBMlhveVMtNUpTaWNFc3ExWG9OeHhsRW8xUWtZaHFQMng0OWpJX2xqZVdIQzZzVzJBaHNGTWVqMnR3bkpaR25zY2c5ajFfM1pNQTR5M3hxb1ZFNUNBM3VqczJiNmhuV3RieGF5RkNn?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD Savunma Sekreteri, Çin'in asker yığınağından endişe duyuyor ve müttefiklere savunma harcamalarını artırmaya çağırıyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-30T04:00:48.154243+00:00",
-  "cluster_id": "c610a37205647"
  }
 ]
