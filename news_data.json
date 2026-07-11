@@ -1,5 +1,29 @@
 [
  {
+  "title": "İran, Hürmüz Boğazı'nı ikinci bir duyuruya kadar kapattığını duyurdu",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazini-ikinci-bir-duyuruya-kadar-kapattigini-duyurdu/3995302",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Devrim Muhafızları, Hürmüz Boğazı'nı kapatıp ikinci bir duyuruya kadar bu kararı sürdüreceğini duyurdu; bölgede enerji kaynakları ve küresel ticaret riski artıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-11T23:01:05.014319+00:00",
+  "type": "news",
+  "cluster_id": "cd7dbcd243be4"
+ },
+ {
+  "title": "İran Hürmüz Boğazı'nı kapattı",
+  "link": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazini-kapatti-950970.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Devrim Muhafızları Donanması, Hürmüz Boğazı'nda onaylanmamış rotada ilerlemeye çalışan bir gemiye uyarı ateşi açtı; boğaz kapanması küresel petrol ticaretini tehdit ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-11T23:01:05.014319+00:00",
+  "type": "news",
+  "cluster_id": "c197761c2a194"
+ },
+ {
   "title": "Trump and Iran's supreme leader trade threats as the fate of Strait of Hormuz challenges talks",
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb29YUXh5MnNRTjVBazdXOUdMSkx5bkU0WHJFVFRGX1pyY0E5cWZfRXc5NnhQVjdOUVFzZTJFNkpBNlZpdUZIVGdoNk5ieU1sVUw1dDMwdkhSYWF4a0pKUk9nYVFMLW5HRFRjOUJTSTBuVEkxLTQ1X2NEZk5FWDMwV2lnRlBhYmhyY2FjQU82S2pnM2RQSEpfTjFwSXBlbk54OGdr?oc=5",
   "source": "AP",
@@ -56054,25 +56078,5 @@
   "score": 7,
   "ts": "2026-05-30T17:00:54.349085+00:00",
   "cluster_id": "c84ce1da0f369"
- },
- {
-  "title": "Soykırımcı İsrail, bayramın son gününde de Gazzeye saldırılarını sürdürdü",
-  "link": "https://www.trthaber.com/haber/dunya/soykirimci-israil-bayramin-son-gununde-de-gazzeye-saldirilarini-surdurdu-946639.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail'in hava saldırılarında Gazze'de Kurban Bayramı'nın son gününde iki kişi öldü.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-30T17:00:54.349085+00:00",
-  "cluster_id": "cbe8dc2777e42"
- },
- {
-  "title": "Kılıçdaroğlu’ndan ‘tarihi’ hata: ‘Bilmeyenler dinlesin’ dedi, Atatürk’ün ‘idam’ kararını karıştırdı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/kilicdaroglu-ndan-tarihi-hata-bilmeyenler-dinlesin-dedi-ataturk-un-idam-kararini-karistirdi-2508007",
-  "source": "Cumhuriyet",
-  "summary_tr": "Mahkeme tarafından CHP'ye atanan Kılıçdaroğlu, bayramlaşma konuşmasında Atatürk hakkında tarihî hata yaptığı eleştirildi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-30T17:00:54.349085+00:00",
-  "cluster_id": "ca005eac557e6"
  }
 ]
