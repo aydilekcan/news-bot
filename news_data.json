@@ -1,5 +1,29 @@
 [
  {
+  "title": "Mersin'de 15 aydır evlerine girmeyi bekleyen TOKİ mağdurlarından protesto",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/mersin-de-15-aydir-evlerine-girmeyi-bekleyen-toki-magdurlarindan-protesto-2519977",
+  "source": "Cumhuriyet",
+  "summary_tr": "Mersin'de TOKİ mağdurları, evlerinin 15 ay geciktirilmesine karşı eylem yaptı; hem kira hem taksit ödüyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-11T15:01:05.516396+00:00",
+  "type": "news",
+  "cluster_id": "c1d70a5bdf732"
+ },
+ {
+  "title": "TESK'ten kredi kartı komisyonları çağrısı: 'Esnaf altından kalkamaz'",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/tesk-ten-kredi-karti-komisyonlari-cagrisi-esnaf-altindan-kalkamaz-2519975",
+  "source": "Cumhuriyet",
+  "summary_tr": "TESK Başkanı, kredi kartı faizlerinin düşürülmesini talep etti; esnafın mali yükü artıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-11T15:01:05.516396+00:00",
+  "type": "news",
+  "cluster_id": "cc658e03a2e01"
+ },
+ {
   "title": "İran: Oğul Hamaney'den intikam yemini",
   "link": "https://www.dw.com/tr/iran-oğul-hamaney-den-intikam-yemini/a-77917048?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -56012,25 +56036,5 @@
   "score": 7,
   "ts": "2026-05-30T14:01:00.396379+00:00",
   "cluster_id": "c0c27dcf1ae78"
- },
- {
-  "title": "DSÖden Ebola salgınında alarm seviyesini yükseltti: Ölüm oranı yüzde 50'ye ulaştı",
-  "link": "https://www.trthaber.com/haber/dunya/dsoden-ebola-salgininda-alarm-seviyesini-yukseltti-olum-orani-yuzde-50ye-ulasti-946628.html",
-  "source": "TRT Haber",
-  "summary_tr": "DSÖ, Demokratik Kongo'daki Ebola salgınında alarm seviyesini yükseltti; ölüm oranı yüzde 30-50'ye ulaştı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T14:01:00.396379+00:00",
-  "cluster_id": "cdae1d465cc00"
- },
- {
-  "title": "Özgür Özel'den Kemal Kılıçdaroğlu'nun sözlerine yanıt: 'Kemal Bey bu sözleri hazır bir metinden kullanıyor'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-den-kemal-kilicdaroglu-nun-sozlerine-yanit-kemal-bey-bu-sozleri-hazir-bir-metinden-kullaniyor-2507984",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Grup Başkanı Özel, Kılıçdaroğlu'nun açıklamalarına yanıt verdi; 'hazır metinden kullanıyor' eleştirisi yaptı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-30T14:01:00.396379+00:00",
-  "cluster_id": "c0f495494ff0e"
  }
 ]
