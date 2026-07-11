@@ -1,5 +1,29 @@
 [
  {
+  "title": "Akaryakıtta indirim bekleyenlere kötü  haber!",
+  "link": "https://www.sozcu.com.tr/akaryakitta-indirim-bekleyenlere-kotu-haber-p335624",
+  "source": "Sözcü",
+  "summary_tr": "Akaryakıtta beklenen indirim gerçekleşmeyecek; Motorinde 2,16 TL'lik fiyat indirimi planlanırken sistem kapanması nedeniyle iptal edildi.",
+  "metric": "Akaryakıt indirim tahmini 2,16 TL iptal",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-11T13:01:05.960146+00:00",
+  "type": "news",
+  "cluster_id": "c2e057f083e60"
+ },
+ {
+  "title": "Kamuda nöbet sistemine uygun esnek kreş dönemi başlıyor",
+  "link": "https://www.trthaber.com/haber/gundem/kamuda-nobet-sistemine-uygun-esnek-kres-donemi-basliyor-950950.html",
+  "source": "TRT Haber",
+  "summary_tr": "Kamu personeli için nöbet ve vardiyalı çalışanlara yönelik 7/24 hizmet veren esnek kreş hizmeti başlatılıyor.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-11T13:01:05.960146+00:00",
+  "type": "news",
+  "cluster_id": "cbb362cb102a0"
+ },
+ {
   "title": "Iran's Supreme Leader pledges revenge for slain father and predecessor",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVFJ6QzJlMkc1VWtrWHlLcms2NkZhSWZ5VnhDazNkY04zS0RMN01UUjhUOGZUajRWVGRqREUtbWRDUjlLakFZaFByZDgySm9mcFNGQi1rLWJFd3RHS09iUVZRZHZGTHFfM1BlTXVYdmhZczl2bFBkZVZDRHE5T0phT2NDd2dTb1F0aS1vRW12SlFCbEFrMGJhRGdSY3FCRHhhd21vbVg5QVNKMl82c1VQd1NaaEp2dw?oc=5",
   "source": "Reuters",
@@ -56000,25 +56024,5 @@
   "score": 6,
   "ts": "2026-05-30T14:01:00.396379+00:00",
   "cluster_id": "c1793fa1be346"
- },
- {
-  "title": "Ateşkes altında işgal: İsrail, Lübnan içlerine ilerledi",
-  "link": "https://www.cumhuriyet.com.tr/dunya/ateskes-altinda-isgal-israil-lubnan-iclerine-ilerledi-2507961",
-  "source": "Cumhuriyet",
-  "summary_tr": "İsrail, Lübnan'la ateşkese rağmen Litani Nehri kuzeyindeki bölgeleri işgal etmeye devam ediyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-30T13:00:56.602938+00:00",
-  "cluster_id": "c8313d66bb613"
- },
- {
-  "title": "Kılıçdaroğlu'ndan \"hesap sorma\" ve \"FETÖ\" çıkışı",
-  "link": "https://www.dw.com/tr/kılıçdaroğlu-ndan-hesap-sorma-ve-fetö-çıkışı/a-77355165?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Kılıçdaroğlu CHP Genel Merkezi'ne geri dönerek kurultay çağrısında bulundu ve hesap sormadan sonra partiyi yeni yönetim altına alacağını açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T13:00:56.602938+00:00",
-  "cluster_id": "c89d2658c8c70"
  }
 ]
