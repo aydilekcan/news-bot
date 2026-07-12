@@ -1,5 +1,125 @@
 [
  {
+  "title": "İsrail Savunma Bakanı, İran'a yeni saldırılar için orduya hazırlık yapması talimatını verdiğini duyurdu",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-savunma-bakani-irana-yeni-saldirilar-icin-orduya-hazirlik-yapmasi-talimatini-verdigini-duyurdu/3995813",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail Savunma Bakanı, ordusuna İran'a yönelik yeni saldırılara hazırlık yapması talimatını verdiğini duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-12T15:01:09.209485+00:00",
+  "type": "news",
+  "cluster_id": "c724a2f5a91db"
+ },
+ {
+  "title": "Lindsey Graham, US Republican senator and Trump ally, dies at 71",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYnRDNk5QRjFpeWtrdW9rUFNnMXQ0SDYtRVlLUmdSWlczOWZQUDYxd2tGcU1PeXVkeW96eThZbTlRSXcxVno4Z0QyaGxsT0V0UXdFSlE3MEE1UmtOWExaS2xhamdmZEVqaURNOEZFS251S3RFLS1idzNjZ0tITnQ4eXZLcHlRa2lScUE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Senatörü Lindsey Graham, 71 yaşında öldü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-12T15:01:09.209485+00:00",
+  "type": "news",
+  "cluster_id": "c3f3519b1ce1e"
+ },
+ {
+  "title": "Sen. Lindsey Graham, a close Trump ally and foreign policy hawk, dies after a brief illness",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcGhrZ2FzTUtJem9sWmVlbWNIVFdEdmw0dGNpXzZoenpMLXNIVXZGblVJOEs3MUhPU2hwQTF2cUVtU0VfWjZlOUdmc0pfQy0xWE0xYlFuaDhCY0pBcVFMU3p3dkM3ZXhlc04tdTlEOEpSMDVzWkJ4ZkFlQmVPOVM4ZjhoOVZJdHFXRDVIOUhTMDlVZDMtenEyWmxR?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump müttefiki ABD Senatörü Lindsey Graham, kısa bir hastalığın ardından 71 yaşında hayatını kaybetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-12T15:01:09.209485+00:00",
+  "type": "news",
+  "cluster_id": "c2d74b52a96fa"
+ },
+ {
+  "title": "US strikes Iran over latest ship attack and Tehran responds by hitting Arab states",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD İran'a gemi saldırısı nedeniyle saldırı düzenledi; Tahran, Arap devletlerine karşılık verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-12T15:01:09.209485+00:00",
+  "type": "news",
+  "cluster_id": "cbbf938f7b84e"
+ },
+ {
+  "title": "İrandan Hürmüz Boğazından izinli geçişler için \"huzur ve istikrar\" şartı",
+  "link": "https://www.trthaber.com/haber/dunya/irandan-hurmuz-bogazindan-izinli-gecisler-icin-huzur-ve-istikrar-sarti-951017.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran, Hürmüz Boğazı'ndan geçişleri düzenlemek için 'huzur ve istikrar' şartı koşmuştur.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-12T15:01:09.209485+00:00",
+  "type": "news",
+  "cluster_id": "c548b94584168"
+ },
+ {
+  "title": "Ukrayna: Rus gölge filosuna ait 14 gemiye saldırılar düzenledik",
+  "link": "https://www.trthaber.com/haber/dunya/ukrayna-rus-golge-filosuna-ait-14-gemiye-saldirilar-duzenledik-951016.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ukrayna ordusu, Rus gölge filosuna ait 14 gemiye saldırı gerçekleştirdiğini duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-12T15:01:09.209485+00:00",
+  "type": "news",
+  "cluster_id": "c5267b85f6ef3"
+ },
+ {
+  "title": "Ukraine's Zelenskiy dismisses Prime Minister Svyrydenko after only a year",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSnhGVVA5VTN4M0liQkZxblJjLVplazZxT3FLTGtrbGp6d2dldFBmX2dkT2M3a0lQNV94enRxaTV6ZUdia2JLTnpzZ3dLdW50aDh2UldEY1ZRemJ3dmFwNTExTFFnOGh0bmtzb1plNm5oeDZkdy1WVjZEMVp5a1JWd19Rb2MydlpNVTFCSnRrRFpVZzFNTHZRaW9kUmJZWU1QaXQxZkxmSExRem1lZ3Zr?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ukrayna Cumhurbaşkanı Zelenskiy, Başbakan Svyrydenko'yu görevden aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-12T15:01:09.209485+00:00",
+  "type": "news",
+  "cluster_id": "c80be1c6b1ecc"
+ },
+ {
+  "title": "Ahbap kurucusu Haluk Levent gözaltında: Neyle suçlanıyor?",
+  "link": "https://www.dw.com/tr/ahbap-kurucusu-haluk-levent-gözaltında-neyle-suçlanıyor/a-77924505?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Ahbap Derneği kurucusu Haluk Levent Bursa'da gözaltına alındı; başsavcılık deprem bağışlarının şüphelilerce şahsi hesaplara aktarıldığını iddia ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-12T15:01:09.209485+00:00",
+  "type": "news",
+  "cluster_id": "ce812a497cc68"
+ },
+ {
+  "title": "Başsavcılık: Ahbap Derneği'ne deprem bağışları şüphelilerce şahsi hesaplara aktarıldı",
+  "link": "https://www.diken.com.tr/bassavcilik-ahbap-dernegine-deprem-bagislari-suphelilerce-sahsi-hesaplara-aktarildi/?utm_source=rss&utm_medium=rss&utm_campaign=bassavcilik-ahbap-dernegine-deprem-bagislari-suphelilerce-sahsi-hesaplara-aktarildi",
+  "source": "Diken",
+  "summary_tr": "İstanbul Başsavcılığı, Ahbap Derneği'ne gelen deprem bağışlarının şüpheliler tarafından şahsi hesaplara aktarıldığını belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-12T15:01:09.209485+00:00",
+  "type": "news",
+  "cluster_id": "c02fb1d386f79"
+ },
+ {
+  "title": "Hakkında yakalama kararı çıkarılan Haluk Levent Bursa’da gözaltına alındı",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT0syY3JueTY0bXE0NHVHZGRNZmZfaHMwVzZ5bFU1TWd2YVdkTFBTel9IaGNIdDJQUUNnNHB0VWt1ZFVrTDZFUEc5NU93bHVoZ3NrOVZvNlZGajJuTGgyM3VTMk13NVlVaXcwa2ZiNzdfdF9yUlpzS1pucUJEWHMxX29hUkVGUWQ1ZVVvVWQ0SHZxSUhRQ213TTJ2cEhmRlk?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Haluk Levent hakkında yakalama kararı çıkarılmış ve Bursa'da gözaltına alınmıştır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-12T15:01:09.209485+00:00",
+  "type": "news",
+  "cluster_id": "cdf10e9fc5d58"
+ },
+ {
   "title": "Almanya Ukrayna için 50 bin İHA sipariş etti",
   "link": "https://www.dw.com/tr/almanya-ukrayna-için-50-bin-iha-sipariş-etti/a-77924210?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -56140,105 +56260,5 @@
   "score": 6,
   "ts": "2026-05-31T13:01:00.211001+00:00",
   "cluster_id": "c126b4a4bb4cd"
- },
- {
-  "title": "Netanyahu’dan Lübnan talimatı: İşgal genişletilecek",
-  "link": "https://www.cumhuriyet.com.tr/dunya/netanyahu-dan-lubnan-talimati-isgal-genisletilecek-2508153",
-  "source": "Cumhuriyet",
-  "summary_tr": "İsrail Başbakanı Netanyahu, ateşkese rağmen Lübnan'daki kara saldırılarının ve işgalin genişletilmesi talimatını verdi.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-05-31T12:00:56.502189+00:00",
-  "cluster_id": "c9205f8e9ca5b"
- },
- {
-  "title": "Ateşkesi bitiren İsrail stratejik kaleyi ele geçirdi",
-  "link": "https://www.sozcu.com.tr/ateskesi-bitiren-israil-stratejik-kaleyi-ele-gecirdi-p323954",
-  "source": "Sözcü",
-  "summary_tr": "İsrail ordusu Lübnan'daki Beaufort Kalesi'ni ele geçirerek Litani Nehri'ni geçti; ateşkes tamamen bozuldu.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-05-31T12:00:56.502189+00:00",
-  "cluster_id": "c23a72172f315"
- },
- {
-  "title": "Netanyahu, İsrail ordusuna Lübnan'daki işgali daha da genişletme talimatı verdi",
-  "link": "https://www.aa.com.tr/tr/dunya/netanyahu-israil-ordusuna-lubnandaki-isgali-daha-da-genisletme-talimati-verdi/3952274",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Netanyahu, ateşkese rağmen İsrail ordusuna Lübnan'daki işgali genişletme talimatı verdi.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-05-31T12:00:56.502189+00:00",
-  "cluster_id": "ca3635274a72b"
- },
- {
-  "title": "İşgalci Netanyahu, İsrail ordusuna Lübnan'daki işgali daha da genişletme talimatı verdi",
-  "link": "https://www.trthaber.com/haber/dunya/isgalci-netanyahu-israil-ordusuna-lubnandaki-isgali-daha-da-genisletme-talimati-verdi-946708.html",
-  "source": "TRT Haber",
-  "summary_tr": "Netanyahu, ateşkese rağmen İsrail ordusuna Lübnan'daki işgali genişletme talimatı verdi.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-05-31T12:00:56.502189+00:00",
-  "cluster_id": "ca3635274a72b"
- },
- {
-  "title": "Israeli army captures strategic castle in Lebanon in deepest incursion into the country in 26 years",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT2p1RlRMTENDT3BFN3poMnZVcnhHTkswOUxReVNMYS1hOGY0SDBPNWREMGhMeFR4UUZreGU4VlJEYVJhbWZ1ekRjc0wySTc2clhFemZISmlmYW90dU5jd0xOZjIxSkVhaVR3MUhzZkZvUE02M2g3Y09sMWkxUms5eVQya0ZnWjliUnFQV21vcDZ5Qlp4TTJubFhWS1dkVDg?oc=5",
-  "source": "AP",
-  "summary_tr": "İsrail ordusu Lübnan'da Beaufort Kalesi'ni ele geçirerek 26 yılın en derin ilerlemesini gerçekleştirdi.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-05-31T12:00:56.502189+00:00",
-  "cluster_id": "c154ba7d43109"
- },
- {
-  "title": "Son Dakika... CHP MYK toplantısı sona erdi... CHP Sözcüsü Zeynel Emre açıkladı: Olağanüstü kurultay için düğmeye basılıyor!",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-chp-myk-toplantisi-sona-erdi-chp-sozcusu-zeynel-emre-acikladi-olaganustu-kurultay-icin-dugmeye-basiliyor-2508154",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP MYK toplantısı sona erdi; Seçilmiş Genel Başkan Özgür Özel başkanlığında yapılan toplantıda olağanüstü kurultay kararı alındı.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-31T12:00:56.502189+00:00",
-  "cluster_id": "cdd56cf921491"
- },
- {
-  "title": "CHP MYK, seçilmiş genel başkan Özgür Özel başkanlığında toplandı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-myk-secilmis-genel-baskan-ozgur-ozel-baskanliginda-toplandi-2508147",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Seçilmiş Genel Başkanı Özgür Özel başkanlığında TBMM'de MYK toplantısı gerçekleştirildi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T12:00:56.502189+00:00",
-  "cluster_id": "c8d2dc3556ec2"
- },
- {
-  "title": "Ukrayna’dan Rusya’nın enerji altyapısına yeni saldırılar",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQnZlSDl3OFMza0FwOS1zY3NJdjFfaDVCbjhfQTFEc2JOSFVTUGRWemVMMUhPY1ozWGVwWEhNOUliOWxjZlJvanl1cndRY3lwLXZvMy0yNGZzbUg2NGZOM3RZWll0NDVJUUJ5TnVKdy1NWWNGZWdZWndRYWpqd2VLYi11bmZhUXpKcUpXU3Y2bjRaOENLRlZj?oc=5",
-  "source": "soL",
-  "summary_tr": "Ukrayna, Rusya'nın enerji altyapısına yeni saldırılar düzenledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T12:00:56.502189+00:00",
-  "cluster_id": "caca49feec01c"
- },
- {
-  "title": "Dev tünellerle 1 saatlik yol 5 dakikaya düşecek: Bakan açıkladı",
-  "link": "https://www.sozcu.com.tr/dev-tunellerle-1-saatlik-yol-5-dakikaya-dusecek-bakan-acikladi-p323952",
-  "source": "Sözcü",
-  "summary_tr": "Ulaştırma Bakanı Uraloğlu, Hatay'daki Dörtyol-Hassa Demiryolu ve Otoyolu Projesi'ni tanıttı; 1 saatlik yol 5 dakikaya düşecek.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-05-31T12:00:56.502189+00:00",
-  "cluster_id": "c872004506c6e"
- },
- {
-  "title": "Hatay'daki Dörtyol-Hassa Demir Yolu ve Otoyolu Projesi ile Amik Ovası'na ulaşım kolaylaşacak",
-  "link": "https://www.aa.com.tr/tr/ekonomi/hataydaki-dortyol-hassa-demir-yolu-ve-otoyolu-projesi-ile-amik-ovasina-ulasim-kolaylasacak/3952287",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Ulaştırma Bakanı Uraloğlu, Hatay'daki Dörtyol-Hassa Demir Yolu ve Otoyolu Projesi'nin Amik Ovası'na ulaşımı kolaylaştıracağını açıkladı.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-05-31T12:00:56.502189+00:00",
-  "cluster_id": "c49bb4d241109"
  }
 ]
