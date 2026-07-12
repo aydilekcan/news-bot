@@ -1,5 +1,65 @@
 [
  {
+  "title": "Zelenskiy, \"Ukrayna'nın yeni siyasi stratejisi\" için hükümette değişikliğe gidileceğini açıkladı",
+  "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-ukraynanin-yeni-siyasi-stratejisi-icin-hukumette-degisiklige-gidilecegini-acikladi/3995722",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ukrayna Devlet Başkanı Zelenskiy, ülkenin siyasi stratejisini değiştirmek için hükümette değişiklikler yapılacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-12T13:03:15.392146+00:00",
+  "type": "news",
+  "cluster_id": "cd86ea5b02862"
+ },
+ {
+  "title": "Ukrayna Devlet Başkanı Zelenski hükümette değişikliğe gidileceğini açıkladı",
+  "link": "https://www.trthaber.com/haber/dunya/ukrayna-devlet-baskani-zelenski-hukumette-degisiklige-gidilecegini-acikladi-951009.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ukrayna Devlet Başkanı Zelenskiy, ülkenin siyasi stratejisini değiştirmek için hükümette değişiklikler yapılacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-12T13:03:15.392146+00:00",
+  "type": "news",
+  "cluster_id": "c46054618d365"
+ },
+ {
+  "title": "Ukraine's Zelenskiy says he will replace Prime Minister Svyrydenko",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSnhGVVA5VTN4M0liQkZxblJjLVplazZxT3FLTGtrbGp6d2dldFBmX2dkT2M3a0lQNV94enRxaTV6ZUdia2JLTnpzZ3dLdW50aDh2UldEY1ZRemJ3dmFwNTExTFFnOGh0bmtzb1plNm5oeDZkdy1WVjZEMVp5a1JWd19Rb2MydlpNVTFCSnRrRFpVZzFNTHZRaW9kUmJZWU1QaXQxZkxmSExRem1lZ3Zr?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ukrayna Devlet Başkanı Zelenskiy, Başbakan Svyrydenko'yu değiştireceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-12T13:03:15.392146+00:00",
+  "type": "news",
+  "cluster_id": "c9b79b62a8239"
+ },
+ {
+  "title": "İran'da sanayiye yönelik elektrik kesintisi haftada 2 güne çıkarıldı",
+  "link": "https://www.trthaber.com/haber/dunya/iranda-sanayiye-yonelik-elektrik-kesintisi-haftada-2-gune-cikarildi-951008.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran'da sanayiye yönelik elektrik kesintisi haftada 1 güne çıkarıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-12T13:03:15.392146+00:00",
+  "type": "news",
+  "cluster_id": "c3b606bba3592"
+ },
+ {
+  "title": "Sürece dair çerçeve yasa Meclis'e geliyor: Kimleri kapsayacak, şartlar neler?",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTTBRMVp4NGJJYlhJS2R5aFdVcTQ1R0VycDFLTFg2NEw3MUNlNko3V2xwZHV5eUhDRGNjdUh4WkpQYVhXYTlGSGlNMGRXLTJ5OHhDVS15ZUJVRFdHRm5tSFl5VkRLSFBzS182VlB6QWJ0MS0yNDVvVXRlMUI0a29QWDR3TzRzX3c5Sm8taVN3UmM3cjlrYVFSLWdXRVF0cC1tS3Q3ck4yNUthdjlzX1VNSA?oc=5",
+  "source": "soL",
+  "summary_tr": "Kapsayıcı bir çerçeve yasa ile ilgili sürece dair yasal çerçeve Meclis'e geliyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-12T13:03:15.392146+00:00",
+  "type": "news",
+  "cluster_id": "c5e2f2bd81ac8"
+ },
+ {
   "title": "ABDİran gerilimi, karşılıklı saldırılarla sürüyor",
   "link": "https://www.trthaber.com/haber/dunya/abd-iran-gerilimi-karsilikli-saldirilarla-suruyor-951003.html",
   "source": "TRT Haber",
@@ -56164,55 +56224,5 @@
   "score": 6,
   "ts": "2026-05-31T11:00:58.887612+00:00",
   "cluster_id": "ccb6efe300bbb"
- },
- {
-  "title": "Trump baskısına karşı Powell’a 'cesaret' ödülü",
-  "link": "https://www.cumhuriyet.com.tr/dunya/trump-baskisina-karsi-powell-a-cesaret-odulu-2508126",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Merkez Bankası eski Başkanı Jerome Powell, Trump baskılarına rağmen Fed'in bağımsızlığını koruduğu için ödüllendirildi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-31T10:01:03.360715+00:00",
-  "cluster_id": "ce3326234cdbd"
- },
- {
-  "title": "İşgalci İsrail ordusu, Lübnan'da Sur kenti ile çok sayıda beldeye hava saldırıları başlattı",
-  "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-lubnanda-sur-kenti-ile-cok-sayida-beldeye-hava-saldirilari-baslatti-946701.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyindeki Sur kenti ve beldelere hava saldırıları başlattı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-31T10:01:03.360715+00:00",
-  "cluster_id": "c0befad337d80"
- },
- {
-  "title": "Israel troops capture Beaufort Castle in southern Lebanon push against Hezbollah",
-  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ19uYndNRDdIVlVObEJCQjhHUnhNUTRqWTM3NFppenBsU01tWU5ILXU2ZHA3QmVHYllWU0ZQeU1nVzlITlhsUDlFTkJoU19OUXJPUFFyMDBYZ2l2a3EtSVo0YkFRQUF0bTlvOVJ3Vm40dHFGTUoyNm9ZTnlBQWltYXZxak1xLXdOQ29XR05ZNzd3cTF1MWtuZjZRZW14dWZlLWhEcHJfRzVMTlZTMVhhbHdsQ2I0S3hIY2NqdWZMUlZWNjJteVhRd19QVEpJVFBVMjdPd0NtRQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İsrail askerleri Güney Lübnan'daki Beaufort Kalesi'ni Hizbullah'a karşı operasyonda ele geçirdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-31T10:01:03.360715+00:00",
-  "cluster_id": "c76cf415d3dfe"
- },
- {
-  "title": "Beyoğlu Kaymakamlığı: Eylem ve gösteriler yasaklandı",
-  "link": "https://www.diken.com.tr/beyoglu-kaymakamligi-eylem-ve-gosteriler-yasaklandi/?utm_source=rss&utm_medium=rss&utm_campaign=beyoglu-kaymakamligi-eylem-ve-gosteriler-yasaklandi",
-  "source": "Diken",
-  "summary_tr": "İstanbul Valiliği'nin kararıyla Beyoğlu'daki tüm eylem ve gösteriler yasaklandı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T10:01:03.360715+00:00",
-  "cluster_id": "c9ebeb7c6ba52"
- },
- {
-  "title": "Japonya ve Çin arasındaki diplomatik savaş kızıştı: Savunma Bakanı'ndan sert açıklamalar",
-  "link": "https://www.sozcu.com.tr/japonya-ve-cin-arasindaki-diplomatik-savas-kizisti-savunma-bakani-ndan-sert-aciklamalar-p323932",
-  "source": "Sözcü",
-  "summary_tr": "Japonya Savunma Bakanı Koizumi, Çin'in militarizm suçlamalarını reddetti ve diplomatik krizi çözme çağrısı yaptı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T10:01:03.360715+00:00",
-  "cluster_id": "cc561c40cfe02"
  }
 ]
