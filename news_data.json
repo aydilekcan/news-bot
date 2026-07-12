@@ -1,5 +1,29 @@
 [
  {
+  "title": "ANK-AR’dan dikkat çeken anket: ‘Seçmen erken seçim istiyor, ekonomiden umutsuz’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/ank-ar-dan-dikkat-ceken-anket-secmen-erken-secim-istiyor-ekonomiden-umutsuz-2519992",
+  "source": "Cumhuriyet",
+  "summary_tr": "ANK-AR anketine göre seçmen ekonomiden endişeli ve erken seçim istiyor; ekonomi yurttaşın en büyük sorunu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-12T02:01:06.050235+00:00",
+  "type": "news",
+  "cluster_id": "cd7f72412e93f"
+ },
+ {
+  "title": "Vatandaş altın satıyor",
+  "link": "https://www.sozcu.com.tr/vatandas-altin-satiyor-p335699",
+  "source": "Sözcü",
+  "summary_tr": "Altın fiyatlarındaki düşüşün ardından yatırımcılar birikimlerini satmaya başladı; TEFAS'ta işlem gören kıymetli madenler düşüş kaydediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-12T02:01:06.050235+00:00",
+  "type": "news",
+  "cluster_id": "c7a38509ee2e9"
+ },
+ {
   "title": "Iran's IRGC navy says Strait of Hormuz closed until further notice, state media reports",
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSmZVRzVlODludmRUd2hpVXBuRFY1Z0wwMTNNdGJBUEc1b01YcUtzVVRMVUxvMVg1dTROcEVOdWVfRUlOYWNvTkY4b2REM0QzRDVfVnp5MUJIcVhoeXVPb3l4RVI3MnVtWUpZUk9QRHkzUjFvcDR1UFpXeVZWOG5sSWJGSGtvTlRYeEhHYVhScE1RUWQyRUR2aUROMG9BckEtbG04QmxMSmcyMzRLMkFCZUFlWkM1cHN3UFQ5Z3IxbFpMNVVIdUw4?oc=5",
   "source": "Reuters",
@@ -56072,25 +56096,5 @@
   "score": 8,
   "ts": "2026-05-30T18:00:49.949620+00:00",
   "cluster_id": "c21578f157aa9"
- },
- {
-  "title": "Russia's Rosatom says Ukrainian drone struck Zaporizhzhia nuclear plant",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTmhILXhZa18tS0tYbG8tMFNOZzFXaU53TURVMDlPNmtDLTk1X0Z1MHdpWmZOLTJoRUtLRWRnQXNiZlpmd3VPaURRNGhxS2JpamtzZW05Y1RTc2piTzZMU1lUekZyTndfQ0dBV2JvLVdZUU1Ncm5xR2ZaQ1FUdDV1SzNvclIxb2pIZExVNEJzeEhseDlnbDFFWkpIVHZUcGJ1YUhjbkxYZlpmU284ckxnNVhiUU84enllNF9J?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Rusya'nın Rosatom kuruluşu, Ukrayna'nın İnsansız Hava Aracı saldırısının Zaporijya nükleer santralına isabet ettiğini duyurdu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-30T18:00:49.949620+00:00",
-  "cluster_id": "c7460b2b99e74"
- },
- {
-  "title": "CHP'de iki bayramlaşma: Kılıçdaroğlu'ndan 'hesaplaşma', Özel'den 'derhal kurultay' çağrısı",
-  "link": "https://www.bbc.com/turkce/articles/ckgpvqzexpgo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "CHP'de Kılıçdaroğlu ve Özel arasında gerilim: Kılıçdaroğlu 'hesaplaşma' yapacağını, Özel 'derhal kurultay' çağrısı yaptı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T18:00:49.949620+00:00",
-  "cluster_id": "c8af0915d4827"
  }
 ]
