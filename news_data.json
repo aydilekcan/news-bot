@@ -1,5 +1,53 @@
 [
  {
+  "title": "ABD 'saldırı başlattık' dedi: İran'da patlama sesleri duyuldu",
+  "link": "https://www.cumhuriyet.com.tr/dunya/abd-saldiri-baslattik-dedi-iran-da-patlama-sesleri-duyuldu-2520239",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD İran'a yeni bir saldırı dalgası başlattığını duyurdu; İran'ın Bender Abbas, Sirik ve Cask kentlerinde patlama sesleri duyuldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-12T22:01:17.827775+00:00",
+  "type": "news",
+  "cluster_id": "cbe28564f798a"
+ },
+ {
+  "title": "İran basını: İran’ın Bender Abbas, Sirik ve Cask kenti ile Keşm Adası'nda yeni patlama sesleri duyuldu",
+  "link": "https://www.aa.com.tr/tr/live-blog/son-gelismeler-abdnin-irana-yonelik-saldirilari-ve-iran-in-misillemeleri/5148",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD'nin İran'a saldırı başlattığını açıklamasının ardından İran'ın Bender Abbas, Sirik ve Cask kentleri ile Keşm Adası'nda patlama sesleri duyuldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-12T22:01:17.827775+00:00",
+  "type": "news",
+  "cluster_id": "c460301e6eb3e"
+ },
+ {
+  "title": "ABD İran'ı yine vuruyor",
+  "link": "https://www.trthaber.com/haber/dunya/abd-irani-yine-vuruyor-951030.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM) İran'a yönelik yeni saldırılar başlattığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-12T22:01:17.827775+00:00",
+  "type": "news",
+  "cluster_id": "c2197c8df3539"
+ },
+ {
+  "title": "US strikes Iran again as it tries to limit attacks on ships on the Strait of Hormuz",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD, Hürmüz Boğazı'nda gemilere yönelik saldırıları sınırlandırmak amacıyla İran'a yeniden saldırı başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-12T22:01:17.827775+00:00",
+  "type": "news",
+  "cluster_id": "c39bce97c06b0"
+ },
+ {
   "title": "İsrail’de parlamento seçimlerinin yapılacağı tarih belli oldu",
   "link": "https://www.cumhuriyet.com.tr/siyaset/israil-de-parlamento-secimlerinin-yapilacagi-tarih-belli-oldu-2520221",
   "source": "Cumhuriyet",
@@ -56258,45 +56306,5 @@
   "score": 8,
   "ts": "2026-05-31T15:00:48.918486+00:00",
   "cluster_id": "cb0f721f74e6e"
- },
- {
-  "title": "Congo and Uganda report 263 confirmed Ebola cases with 43 deaths, Africa CDC says",
-  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZ1JnY0kyR2Y5cXQ5N3pNSFhQRmFldk11djBqTXhJTVVyNTV4dGdCSXpuNVRTVVhOYkUxWGdBdVFFTmlva0g0c05lcndjSERIdnRXZVl6ckpDX2dvZElnLURDT2FaWlZRTjlybExnNExqYVpCSnp0MEptZWVDMy14aHdmaGVzVWlFbmdTX3lYQVdqcng2MkZOd1JuNFRLclo1aHJyUnRQWVhmbzM0NzZKRGM2d1RVakJoWnZ0eVl4T0FBUkpfT3p5NmlWMTVzOVVQQm55NktSdS1Qc0JwTDF6SWVR?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Afrika hastalık kontrolü merkezi Kongo ve Uganda'da 263 konfirme Ebola vakası ve 43 ölüm rapor etti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-31T15:00:48.918486+00:00",
-  "cluster_id": "c08c036a798dc"
- },
- {
-  "title": "Özel yönetimi, olağanüstü kurultay için düğmeye basıyor",
-  "link": "https://www.bbc.com/turkce/articles/cy52z2n04leo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel'in MYK'sı parti sözcüsü Zeynel Emre aracılığıyla pazartesi günü mahkemeye olağanüstü kurultay başvurusu yapıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T15:00:48.918486+00:00",
-  "cluster_id": "c5fa17f685271"
- },
- {
-  "title": "Takipteki borçlarda rekor artış! BDDK verileri bir yılda yüzde 82’lik artışa dikkat çekti",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/takipteki-borclarda-rekor-artis-bddk-verileri-bir-yilda-yuzde-82-lik-artisa-dikkat-cekti-2508200",
-  "source": "Cumhuriyet",
-  "summary_tr": "Takipteki borçlarda bir yılda yüzde 82'lik artış: Yüksek enflasyon ve düşen alım gücü vatandaş ve reel sektörün borç ödeme kapasitesini zorlüyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T15:00:48.918486+00:00",
-  "cluster_id": "cbd97b77bc29f"
- },
- {
-  "title": "Tom Barrack, Trump'ın Suriye ve Irak özel temsilcisi oldu",
-  "link": "https://www.sozcu.com.tr/tom-barrack-in-yeni-gorevi-belli-oldu-p323988",
-  "source": "Sözcü",
-  "summary_tr": "ABD Başkanı Trump, Türkiye Büyükelçisi Tom Barrack'ı Suriye ve Irak'a yönelik Özel Temsilci olarak atadı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-31T15:00:48.918486+00:00",
-  "cluster_id": "c40d335482307"
  }
 ]
