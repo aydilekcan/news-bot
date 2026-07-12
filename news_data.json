@@ -1,5 +1,41 @@
 [
  {
+  "title": "İran, Körfez'deki ABD üslerini hedef aldı",
+  "link": "https://www.trthaber.com/haber/dunya/iran-korfezdeki-abd-uslerini-hedef-aldi-950976.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran, ABD'nin saldırısı sonrası Körfez'deki (Kuveyt, Bahreyn, BAE) ABD üslerine saldırı düzenledi.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-07-12T06:01:10.103213+00:00",
+  "type": "news",
+  "cluster_id": "c8a7b6d7b6ab4"
+ },
+ {
+  "title": "Bir meslek, bir bilezik",
+  "link": "https://www.diken.com.tr/bir-meslek-bir-bilezik/?utm_source=rss&utm_medium=rss&utm_campaign=bir-meslek-bir-bilezik",
+  "source": "Diken",
+  "summary_tr": "Türkiye, Avrupa'da üniversite mezunu işsizliğinin genel işsizlik oranını geçen tek ülke konumunda.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-12T06:01:10.103213+00:00",
+  "type": "news",
+  "cluster_id": "c33d2b028f1fd"
+ },
+ {
+  "title": "Kamu kurumlarında kreş açma şartı değişti: Alt sınır 30'a indirildi",
+  "link": "https://www.sozcu.com.tr/kamu-kurumlarinda-kres-acma-sarti-degisti-alt-sinir-30-a-indirildi-p335729",
+  "source": "Sözcü",
+  "summary_tr": "Kamu kurumlarında kreş açma şartı değişti: çocuk sayısı alt sınırı 50'den 30'a indirildi.",
+  "metric": "Kreş açma şartı 50 çocuk -> 30 çocuk (-40)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-12T06:01:10.103213+00:00",
+  "type": "news",
+  "cluster_id": "c3e8829d1e2ca"
+ },
+ {
   "title": "US strikes Iran, Tehran says Strait of Hormuz closed, Gulf states hit",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWNfWDBGeUlZdnVYdk9zTTBTa05FcHZQZ2NTaE14ZU9SUFRKcDgyamdEaUFjVi1ycHRuaEdaV2cwU3FSWjZqb3BzNXBvMmdobFNvejdtRGo0QUk3emV4alhETFNOcWgyQUg0MnFDVF9mSHRuM3R0Zng3ZnNWUDlqajlyWndRaHk2dkdycXVNdFA0S21RYk5YRElCTVBQZjloVEF2bU5ZTEl6bDFabTdCWWVSdw?oc=5",
   "source": "Reuters",
@@ -56084,35 +56120,5 @@
   "score": 6,
   "ts": "2026-05-30T22:00:46.471589+00:00",
   "cluster_id": "ca291d9c86e07"
- },
- {
-  "title": "İsrailli bakan Ben-Gvir'den Netanyahu'ya \"Dahiye'yi yerle bir et\" çağrısı",
-  "link": "https://www.aa.com.tr/tr/dunya/israilli-bakan-ben-gvirden-netanyahuya-dahiyeyi-yerle-bir-et-cagrisi/3952050",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail Ulusal Güvenlik Bakanı Ben-Gvir, Lübnan'ın başkenti Beyrut'un güneyindeki Dahiye bölgesinin yerle bir edilmesini çağırdı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-30T22:00:46.471589+00:00",
-  "cluster_id": "cf0871c05c314"
- },
- {
-  "title": "Hamas: Gazze'deki ateşkesin ikinci aşamasıyla ilgili ara bulucularla temas halindeyiz",
-  "link": "https://www.trthaber.com/haber/dunya/hamas-gazzedeki-ateskesin-ikinci-asamasiyla-ilgili-ara-bulucularla-temas-halindeyiz-946651.html",
-  "source": "TRT Haber",
-  "summary_tr": "Hamas, Gazze ateşkes anlaşmasının ikinci aşamasıyla ilgili ara bulucu ülkelerle temas halinde olduğunu bildirdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-30T22:00:46.471589+00:00",
-  "cluster_id": "cb93eda541425"
- },
- {
-  "title": "İran devlet televizyonu: ABD, İran'ın dondurulmuş 12 milyar dolarına erişim sözü verdi",
-  "link": "https://www.diken.com.tr/iran-devlet-televizyonu-abd-iranin-dondurulmus-12-milyar-dolarina-erisim-sozu-verdi/?utm_source=rss&utm_medium=rss&utm_campaign=iran-devlet-televizyonu-abd-iranin-dondurulmus-12-milyar-dolarina-erisim-sozu-verdi",
-  "source": "Diken",
-  "summary_tr": "ABD, İran'ın dondurulmuş 12 milyar dolarına erişim sözü verdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T21:00:47.253413+00:00",
-  "cluster_id": "c0d491b49e747"
  }
 ]
