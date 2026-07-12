@@ -1,5 +1,89 @@
 [
  {
+  "title": "ABDİran gerilimi, karşılıklı saldırılarla sürüyor",
+  "link": "https://www.trthaber.com/haber/dunya/abd-iran-gerilimi-karsilikli-saldirilarla-suruyor-951003.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD, Hürmüz Boğazı'ndan geçen ticari gemiye ateş açan İran'a karşı bu hafta üçüncü saldırı turunu başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-12T12:01:16.181664+00:00",
+  "type": "news",
+  "cluster_id": "c4cc0c151b6c5"
+ },
+ {
+  "title": "İmamoğlu'nun yargılandığı 'bilirkişi' davasında kritik gelişme: Ön ödeme yapıldı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/imamoglu-nun-yargilandigi-bilirkisi-davasinda-kritik-gelisme-on-odeme-yapildi-2520136",
+  "source": "Cumhuriyet",
+  "summary_tr": "İmamoğlu'nun 'bilirkişiyi etkilemeye teşebbüs' suçlamasıyla yargılandığı davada ön ödeme yapıldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-12T12:01:16.181664+00:00",
+  "type": "news",
+  "cluster_id": "cf5499ef56887"
+ },
+ {
+  "title": "Suriye’de Esed rejimi sonrası ilk Halk Meclisi Oturumu, Cumhurbaşkanı Şara başkanlığında gerçekleştirildi",
+  "link": "https://www.aa.com.tr/tr/dunya/suriye-de-esed-rejimi-sonrasi-ilk-halk-meclisi-oturumu-cumhurbaskani-sara-baskanliginda-gerceklestirildi/3995700",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Suriye'de Esed rejiminin devrilmesinin ardından ilk Halk Meclisi Oturumu Cumhurbaşkanı Ahmed Şara başkanlığında gerçekleştirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-12T12:01:16.181664+00:00",
+  "type": "news",
+  "cluster_id": "c5a73bd2ab974"
+ },
+ {
+  "title": "14 nations and the EU reaffirm 2016 ruling invalidating China’s claims in South China Sea",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc3pmZ2dBZ2dRWHNTeGJnYUoxRUlqR3hPa3hsMzQyVVU5Nl9kT2FEdlY1SU9QZE9MR1dqM0FxTWNNdzdTOHdCUFRQOE9FNFR4WmtsSjJMZU0tSVZRVlFadTJmU2VzN1JMY1VpYlRzWGtvUl9rT0pDQ2d1ZmgxTTZMRHlBWk1GZEpxZVJHbEYxRTVzVExibVNnVlBJbk11QzlueDNNTlBTX2UzZTFP?oc=5",
+  "source": "AP",
+  "summary_tr": "14 ülke ve AB, Çin'in Güney Çin Denizi'ndeki iddialarını geçersiz kılan 2016 kararını yeniden teyit etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-12T12:01:16.181664+00:00",
+  "type": "news",
+  "cluster_id": "ca710484110ab"
+ },
+ {
+  "title": "Katar, denizcilik faaliyetlerini askıya aldı",
+  "link": "https://www.diken.com.tr/katar-denizcilik-faaliyetlerini-askiya-aldi/?utm_source=rss&utm_medium=rss&utm_campaign=katar-denizcilik-faaliyetlerini-askiya-aldi",
+  "source": "Diken",
+  "summary_tr": "Katar, İran saldırılarının ardından gezi tekneleri dahil denizcilik faaliyetlerini askıya aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-12T12:01:16.181664+00:00",
+  "type": "news",
+  "cluster_id": "cdd5ca47b28a4"
+ },
+ {
+  "title": "Emekli maaşında dananın kuyruğu bu hafta Meclis'te kopacak",
+  "link": "https://www.sozcu.com.tr/emekli-maasinda-dananin-kuyrugu-bu-hafta-meclis-te-kopacak-p335828",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye Büyük Millet Meclisi yeni haftada milyonlarca kişiyi ilgilendiren emekli maaşı düzenlemesini masaya yatıracak.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-12T12:01:16.181664+00:00",
+  "type": "news",
+  "cluster_id": "c2bef3b54512c"
+ },
+ {
+  "title": "Cumhur İttifakı için alarm zili gibi anket",
+  "link": "https://www.sozcu.com.tr/cumhur-ittifaki-icin-alarm-zili-gibi-anket-p335820",
+  "source": "Sözcü",
+  "summary_tr": "Metropoll'un son anketi Cumhur İttifakı için alarm zili gibi sonuçları ortaya çıkardı ve Cumhurbaşkanı Erdoğan'ı etkiledi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-12T12:01:16.181664+00:00",
+  "type": "news",
+  "cluster_id": "c275469fcf19b"
+ },
+ {
   "title": "MetroPOLL anketinde çok konuşulacak MHP ayrıntısı: Yüzde 40'ı, Erdoğan'ı onaylamadı!",
   "link": "https://www.cumhuriyet.com.tr/siyaset/metropoll-anketinde-cok-konusulacak-mhp-ayrintisi-yuzde-40-i-erdogan-i-onaylamadi-2520128",
   "source": "Cumhuriyet",
@@ -56130,75 +56214,5 @@
   "score": 7,
   "ts": "2026-05-31T10:01:03.360715+00:00",
   "cluster_id": "cc561c40cfe02"
- },
- {
-  "title": "Türkiye adım adım 'su kısıtı' sürecine giriyor! Kişi başına düşen miktar 1700'ün altına indi",
-  "link": "https://www.sozcu.com.tr/turkiye-adim-adim-su-kisiti-surecine-giriyor-kisi-basina-dusen-miktar-1700-un-altina-indi-p323925",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye'de kişi başına düşen su miktarı 1700 metreküpün altına inererek su kısıtı sürecine girildi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T10:01:03.360715+00:00",
-  "cluster_id": "c44d46464a594"
- },
- {
-  "title": "Sınır Tanımayan Doktorlar: Ebola daha önce benzeri görülmemiş bir hızla yayılıyor",
-  "link": "https://www.trthaber.com/haber/dunya/sinir-tanimayan-doktorlar-ebola-daha-once-benzeri-gorulmemis-bir-hizla-yayiliyor-946693.html",
-  "source": "TRT Haber",
-  "summary_tr": "Demokratik Kongo'da patlak veren Ebola salgını daha önce benzeri görülmemiş hızla yayılıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T10:01:03.360715+00:00",
-  "cluster_id": "c17690ff1a032"
- },
- {
-  "title": "Taksim metro durağı kapatıldı",
-  "link": "https://www.diken.com.tr/taksim-metro-duragi-kapatildi/?utm_source=rss&utm_medium=rss&utm_campaign=taksim-metro-duragi-kapatildi",
-  "source": "Diken",
-  "summary_tr": "İstanbul Valiliği kararıyla Taksim metro durağı kapatıldı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-31T10:01:03.360715+00:00",
-  "cluster_id": "c218d49b904cb"
- },
- {
-  "title": "İstanbul'da metro seferlerine Gezi düzenlemesi: Taksim durağı kapatıldı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-metro-seferlerine-gezi-duzenlemesi-taksim-duragi-kapatildi-2508123",
-  "source": "Cumhuriyet",
-  "summary_tr": "Taksim Dayanışması'nın Gezi Direnişi etkinliği çağrısı nedeniyle Metro İstanbul, Taksim durağını kapatıldı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-31T10:01:03.360715+00:00",
-  "cluster_id": "c218d49b904cb"
- },
- {
-  "title": "Beyoğlu ve Şişli'deki bazı yollar trafiğe kapatıldı",
-  "link": "https://www.diken.com.tr/beyoglu-ve-sislideki-bazi-yollar-trafige-kapatildi/?utm_source=rss&utm_medium=rss&utm_campaign=beyoglu-ve-sislideki-bazi-yollar-trafige-kapatildi",
-  "source": "Diken",
-  "summary_tr": "İstanbul Valiliği'nin kararıyla Beyoğlu ve Şişli'deki bazı yollar trafiğe kapatıldı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-31T10:01:03.360715+00:00",
-  "cluster_id": "cbafe34617ab8"
- },
- {
-  "title": "İstanbul'da bazı yollar trafiğe kapatıldı",
-  "link": "https://www.trthaber.com/haber/turkiye/istanbulda-bazi-yollar-trafige-kapatildi-946697.html",
-  "source": "TRT Haber",
-  "summary_tr": "İstanbul Valiliğinin kararıyla Beyoğlu ve Şişli'deki bazı yollar trafiğe kapatıldı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-31T10:01:03.360715+00:00",
-  "cluster_id": "cbafe34617ab8"
- },
- {
-  "title": "TBMM gündemi: İçki markalarının görünürlüğüne kısıt",
-  "link": "https://www.diken.com.tr/tbmm-gundemi-icki-markalarinin-gorunurlugune-kisit/?utm_source=rss&utm_medium=rss&utm_campaign=tbmm-gundemi-icki-markalarinin-gorunurlugune-kisit",
-  "source": "Diken",
-  "summary_tr": "TBMM bu hafta içki markalarının görünürlüğüne kısıt konulması gündeminede alıyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-31T10:01:03.360715+00:00",
-  "cluster_id": "cefb918341136"
  }
 ]
