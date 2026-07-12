@@ -1,5 +1,161 @@
 [
  {
+  "title": "ABD, İran'ı vurdu",
+  "link": "https://www.diken.com.tr/abd-irani-vurdu-2/?utm_source=rss&utm_medium=rss&utm_campaign=abd-irani-vurdu-2",
+  "source": "Diken",
+  "summary_tr": "ABD, İran'a düzenlediği saldırıda 140 askeri hedefi vurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-12T07:01:13.045068+00:00",
+  "type": "news",
+  "cluster_id": "c39c5e5a35970"
+ },
+ {
+  "title": "Basra Körfezi'nde gerilim zirvede: ABD İran'ı, İran dört Körfez ülkesini vurdu",
+  "link": "https://www.cumhuriyet.com.tr/dunya/basra-korfezi-nde-gerilim-zirvede-abd-iran-i-iran-dort-korfez-ulkesini-vurdu-2520073",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD İran'da 300'den fazla askeri hedefi vurduktan sonra İran, dört Körfez ülkesine İHA ve füze saldırıları düzenlemişti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-12T07:01:13.045068+00:00",
+  "type": "news",
+  "cluster_id": "c08282845c982"
+ },
+ {
+  "title": "Hamaney sonrası İran'da yeni dönem resmen başladı",
+  "link": "https://www.dw.com/tr/hamaney-sonrası-iran-da-yeni-dönem-resmen-başladı/a-77906844?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "İran'da Ayetullah Ali Hamaney'in ölümünün ardından yeni dönem resmen başladı. Hamaney'in oğlu Mücteba yönetimi devraldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-12T07:01:13.045068+00:00",
+  "type": "news",
+  "cluster_id": "cb74191758920"
+ },
+ {
+  "title": "Ürdün ordusu: İran'dan ateşlenen 3 füze ülke topraklarına düştü",
+  "link": "https://www.sozcu.com.tr/urdun-ordusu-iran-dan-ateslenen-3-fuze-ulke-topraklarina-dustu-p335751",
+  "source": "Sözcü",
+  "summary_tr": "Ürdün, İran'dan ateşlenen 3 füzenin ülke topraklarına düştüğünü, can kaybı ya da yaralanma olmadığını bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-12T07:01:13.045068+00:00",
+  "type": "news",
+  "cluster_id": "c5755e036ae89"
+ },
+ {
+  "title": "İran Meclis Başkanı Kalibaf: Tek taraflı anlaşmalar dönemi sona erdi",
+  "link": "https://www.trthaber.com/haber/dunya/iran-meclis-baskani-kalibaf-tek-tarafli-anlasmalar-donemi-sona-erdi-950977.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD'nin İrana yönelik saldırıları sonrası 'tek taraflı anlaşmalar döneminin sona erdiğini' söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-12T07:01:13.045068+00:00",
+  "type": "news",
+  "cluster_id": "cc407fdca532e"
+ },
+ {
+  "title": "CHP'li Çankaya Belediye Başkanı Hüseyin Can Güner gözaltında",
+  "link": "https://www.dw.com/tr/chp-li-çankaya-belediye-başkanı-hüseyin-can-güner-gözaltında/a-77913751?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "CHP'li Çankaya Belediye Başkanı Hüseyin Can Güner rüşvet suçlamasıyla gözaltına alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-12T07:01:13.045068+00:00",
+  "type": "news",
+  "cluster_id": "c71bffa72f666"
+ },
+ {
+  "title": "TBMM'de yoğun hafta... 12. Yargı Paketi'nin görüşmelerine başlanacak: En düşük emekli aylığı ve öğrenci affı Genel Kurul'da",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/tbmm-de-yogun-hafta-12-yargi-paketi-nin-gorusmelerine-baslanacak-en-dusuk-emekli-ayligi-ve-ogrenci-affi-genel-kurul-da-2520074",
+  "source": "Cumhuriyet",
+  "summary_tr": "TBMM'de bu hafta 12. Yargı Paketi görüşmelerine başlanacak. Paket içinde en düşük emekli aylığı ve öğrenci affı bulunuyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-12T07:01:13.045068+00:00",
+  "type": "news",
+  "cluster_id": "c3e6d546bc07b"
+ },
+ {
+  "title": "ABD Dışişleri Bakanı Rubio'nun Venezuela politikasındaki etkisinin arttığı öne sürüldü",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-disisleri-bakani-rubionun-venezuela-politikasindaki-etkisinin-arttigi-one-suruldu/3995417",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Dışişleri Bakanı Marco Rubio'nun Venezuela politikasındaki etkisinin arttığı öne sürüldü. Maduro'nun 3 Ocak'ta alıkonulmasından sonra Rubio'nun rolü vurgulanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-12T07:01:13.045068+00:00",
+  "type": "news",
+  "cluster_id": "c495c4f16a608"
+ },
+ {
+  "title": "Türkiyenin F35 hamlesi Yunanistan ve İsraili panikletti: Bu ulusal bir yenilgi",
+  "link": "https://www.trthaber.com/haber/dunya/turkiyenin-f-35-hamlesi-yunanistan-ve-israili-panikletti-bu-ulusal-bir-yenilgi-950979.html",
+  "source": "TRT Haber",
+  "summary_tr": "NATO Zirvesi'nde ABD Başkanı Trump, Türkiye'nin F35 alımına yönelik olumlu mesaj verdi. Yunanistand ve İsrail'de tepki yarattı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-12T07:01:13.045068+00:00",
+  "type": "news",
+  "cluster_id": "c2e0786d5dec8"
+ },
+ {
+  "title": "ABD savaş gemisi Mersin Limanı’na demirledi: Yaklaşık iki yıl sonra ilk ziyaret",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTFfQnA1X1FldS15QXhVUkhBdHlmbnRfcDU0bEhIRnNRYlh4b0lPamhabTNiWHJXY3VRZXM4d1Z6R3RoRnFaTXFSRHM5U2VDU0t1ZUx2MlNQVUhickRBWHdQNTNzSGNJZVZQMEtEOU9YQmlyaHJNVEMzWWp4OXFORlN0b2dFR2d4el9qYnRkMEpkSi1qZE90SDVSdGJEUFd5SEtyUkJOdnZ6RTJIQ25xT2dJeEdUdw?oc=5",
+  "source": "soL",
+  "summary_tr": "ABD savaş gemisi yaklaşık iki yıl sonra ilk kez Mersin Limanı'na demirledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-12T07:01:13.045068+00:00",
+  "type": "news",
+  "cluster_id": "cc92a84e2d6dd"
+ },
+ {
+  "title": "İçişleri Bakanı Çiftçi duyurdu: Polislerin mesai saatlerine düzenleme",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/icisleri-bakani-ciftci-duyurdu-polislerin-mesai-saatlerine-duzenleme-2520078",
+  "source": "Cumhuriyet",
+  "summary_tr": "İçişleri Bakanı Mustafa Çiftçi, polis memurlarının çalışma saatleri konusunda düzenlemeler yapıldığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-12T07:01:13.045068+00:00",
+  "type": "news",
+  "cluster_id": "c73fe2510a260"
+ },
+ {
+  "title": "Şirketin kararını beğenmeyen CEO hisselerini sattı",
+  "link": "https://www.sozcu.com.tr/sirketin-kararini-begenmeyen-ceo-hisselerini-satti-p335745",
+  "source": "Sözcü",
+  "summary_tr": "Sony PlayStation'da fiziksel disk dönemini sonlandıracağını açıkladıktan sonra şirketin CEO'su hisselerini sattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-12T07:01:13.045068+00:00",
+  "type": "news",
+  "cluster_id": "c9cf5b7ba5647"
+ },
+ {
+  "title": "KKTC'nin 50 yıllık su ihtiyacı güvence altında",
+  "link": "https://www.trthaber.com/haber/gundem/kktcnin-50-yillik-su-ihtiyaci-guvence-altinda-950982.html",
+  "source": "TRT Haber",
+  "summary_tr": "KKTC'nin 14 proje içeren 69 milyar liralık yatırım programının 41 milyar liralık kısmı tamamlandı. Mesarya Ovası'nda su projeleri güvence altına alındı.",
+  "metric": "KKTC yatırım programı 69 milyar TL -> 41 milyar TL tamamlandı",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-12T07:01:13.045068+00:00",
+  "type": "news",
+  "cluster_id": "c71716c36bf18"
+ },
+ {
   "title": "İran, Körfez'deki ABD üslerini hedef aldı",
   "link": "https://www.trthaber.com/haber/dunya/iran-korfezdeki-abd-uslerini-hedef-aldi-950976.html",
   "source": "TRT Haber",
@@ -55990,135 +56146,5 @@
   "score": 7,
   "ts": "2026-05-31T05:00:56.506904+00:00",
   "cluster_id": "ccd128134243b"
- },
- {
-  "title": "China factory activity stalls in May as demand weakens",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPanZKQzNsZFNEVm1SdlpJbnhFOWdvMUJaWFdHWHdtNkVJcFc2VUtSM2tDMHJDdG56ZkJMNXJQTGVJNmkteTZzOU5SNkFaSTVveFExU2xWdk0yT0JCbjE2RzdzNE41ZUJOX3hrNEVZOU42c1pqcFkwZ29naEFtYXhwalZ5QjVsMC1qNHJua1h5blIzejNudEFBRWFIOG4?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Çin'de Mayıs ayında fabrika faaliyeti durgunlaştı; talep zayıflaması devam ediyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T05:00:56.506904+00:00",
-  "cluster_id": "c557b1f963e77"
- },
- {
-  "title": "US says it struck another vessel in eastern Pacific, killing three",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTTkybGdjbkdKMmItNnF2MEpOczJiOUdERGhEMDcxMlRuUG5mRFJYbHRBQlV4VXJoVTZ4RjlEd3c3ZzBpNFVsYU5kZW5jTkdSSVVCRWtsYUZMQUpvZmhBMzVWamZsMjQ3aV9qTTVuNEszTERrbW4yWVRwdGJ1bVgyaWl6NHNPTFZVQ0ZwZ1dCZWc1NWhidGlDYU1JMjlBY3BMNUluMG9ZZw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, Doğu Pasifik'te bir gemiye saldırı düzenledikten sonra üç kişinin öldüğünü açıkladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-31T05:00:56.506904+00:00",
-  "cluster_id": "c14185455d210"
- },
- {
-  "title": "India cuts export duties on petrol, diesel and aviation turbine fuel",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR0w3cW9DenowOE8wSVYtbko2azJGcFhrWXdSSGtGYnNpMXktSjRiZDREZXBXVlZIdUtCZ3o2Y2pGWFJsd1dHcFNUX0pjOVpFdE9mWWM2djQtb1RwanoxaTVqM0EyRHdOTjZyUk9RMGg5YmwyektkV3pPQ1MwdUkxWmxHT2R0eUZBOUJWZmVqb0d0M1ZwSkdUT1pxSl9KRXRJb050eEUyTVIyeGZLcHR5ak5n?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Hindistan benzin, dizel ve havacılık yakıtı ihraç gümrüğünü indirdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-31T05:00:56.506904+00:00",
-  "cluster_id": "ca552e4be3b6d"
- },
- {
-  "title": "İsrail'in Lübnan'a saldırısında aynı aileden 6'sı çocuk 9 kişi öldü",
-  "link": "https://www.trthaber.com/haber/dunya/israilin-lubnana-saldirisinda-ayni-aileden-6si-cocuk-9-kisi-oldu-946660.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail, Lübnan'ın Adlun beldesine hava saldırısı düzenledi; aynı aileden 9 kişi (6'sı çocuk) öldü.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T04:00:49.380748+00:00",
-  "cluster_id": "cd34a51c0f937"
- },
- {
-  "title": "‘To call it a ceasefire is a joke': Israeli soldiers share rare accounts from Gaza with AP",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOclA0NlpjUUJjcGhkUjFBZHh3dkxEeFJ3cXRwQUhVTW9nUGY3eW5uWEhkaHZEOUg2enF5M2ZMUnhnWUxuMF96NDFYYjE0M25EWGlSTi1zZHNpRVF0MlUtLWZrMFRHaTNxRFl2REc0SkRRNnpObXdFM2pTdXdlSzdvU3NzRkl3QXJqOXNiQlpsaVh1Snd0Mm9SYVluWk5aZw?oc=5",
-  "source": "AP",
-  "summary_tr": "AP tarafından İsrailli askerler Gazadaki ateşkes sonrası deneyimlerini nadir bir şekilde paylaştı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-31T04:00:49.380748+00:00",
-  "cluster_id": "c1aebbf294a4f"
- },
- {
-  "title": "Akbelen'de parsel parsel açgözlülük",
-  "link": "https://www.sozcu.com.tr/akbelen-de-parsel-parsel-acgozluluk-p323841",
-  "source": "Sözcü",
-  "summary_tr": "Danıştay, Akbelen'deki 679 parsel arsanın acele kamulaştırmasını iptal etti; Limak ve IC İçtaş etkilendi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T02:00:44.659767+00:00",
-  "cluster_id": "c67a9a8f0e567"
- },
- {
-  "title": "İsveç yabancılara kapılarını kapatıyor",
-  "link": "https://www.cumhuriyet.com.tr/pazar-yazilari/isvec-yabancilara-kapilarini-kapatiyor-2508049",
-  "source": "Cumhuriyet",
-  "summary_tr": "İsveç, 7 Haziran'da yürürlüğe girecek Avrupa'nın en sert yabancılar yasasını kabul etti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-31T02:00:44.659767+00:00",
-  "cluster_id": "c6a2e9a8601b0"
- },
- {
-  "title": "Stat localarının faturası vergiden düşülmeyecek",
-  "link": "https://www.sozcu.com.tr/stat-localarinin-faturasi-vergiden-dusulmeyecek-p323840",
-  "source": "Sözcü",
-  "summary_tr": "Danıştay, şirketlerin futbol kulüplerinden kiraladığı stat localarına vergi avantajını kaldırdı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-31T01:00:45.388398+00:00",
-  "cluster_id": "c4d6c2d719441"
- },
- {
-  "title": "US says it struck a commercial ship trying to breach blockade and reach Iran",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS3M1WGV6elZYQWhScGxaeXNPZEdpOWlmamR2bnl3b3JjbFpGZWlLM0g3b05JRUlWR0RiLW9NOC1mbmVsQzhLY3VJaDVqa2VQSTR0bE9QRUd6bmJVZVozZzk2ZzhMV2pnVEVJcXB1NXVuTEk5dUQ0UzJ0c0pCN3k5QmN0ZmpuSzh2QmFZR2Q4N3FyYnpKa01talFsSDlFdlY1?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD, İran'a ulaşmaya çalışan ticari bir gemiyi vurduğunu açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T01:00:45.388398+00:00",
-  "cluster_id": "c3c626831b81f"
- },
- {
-  "title": "Israeli launches strikes near ancient heritage castle site in southern Lebanon",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcmhfbVNWVjcwaUd2YlpUdW5XeVlQVUp1RF9kdlhxWF9lV2FkQmdrOWR0UDFmS1BRTFAyWnVtc2Jnak9zMkhoZXRNZlNvcXZRM1BKLUstRWJ6V0oyTERJZnJIYmtEZ0tKenBHN3FTdmJsSksxMHp5OFNhNS1KemV2R3FhZ2lFOWNXN2lPSkFRc1hoZFdqN3pORDVMTzJyLXlUN2c?oc=5",
-  "source": "AP",
-  "summary_tr": "İsrail, Güney Lübnan'da tarihi kale sitesi yakınlarında hava saldırısı düzenledi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-30T23:00:43.054292+00:00",
-  "cluster_id": "c185b9e03b9cd"
- },
- {
-  "title": "Zelenskiy, Rusya'nın ülkesine yoğun hava saldırısı düzenlemesi ihtimalinin geçerli olduğunu belirtti",
-  "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-rusyanin-ulkesine-yogun-hava-saldirisi-duzenlemesi-ihtimalinin-gecerli-oldugunu-belirtti/3952054",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Zelenskiy, Rusya'nın Ukrayna'ya yoğun hava saldırısı düzenlemesi ihtimalinin halen geçerli olduğunu belirtti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T22:00:46.471589+00:00",
-  "cluster_id": "c42922b97de1a"
- },
- {
-  "title": "ABD Dışişleri Bakanı Rubio, Tom Barrack'ın Suriye konusunda \"merkezi muhatap\" olduğunu belirtti",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-disisleri-bakani-rubio-tom-barrackin-suriye-konusunda-merkezi-muhatap-oldugunu-belirtti/3952053",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Dışişleri Bakanı Rubio, Tom Barrack'ın Suriye konusunda merkezi muhatap olduğunu açıkladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-30T22:00:46.471589+00:00",
-  "cluster_id": "cd3bd9a20c2f0"
- },
- {
-  "title": "İsrail'in Lübnan'da sürdürdüğü saldırılarda biri sağlık görevlisi 2 kişi hayatını kaybetti",
-  "link": "https://www.aa.com.tr/tr/dunya/israilin-lubnanda-surdurdugu-saldirilarda-biri-saglik-gorevlisi-2-kisi-hayatini-kaybetti/3952051",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail, ateşkese rağmen Lübnan'ın güneyindeki saldırılarını sürdürerek 2 kişiyi öldürdü, 4 kişiyi yaraladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-30T22:00:46.471589+00:00",
-  "cluster_id": "ca291d9c86e07"
  }
 ]
