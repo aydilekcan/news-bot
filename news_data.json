@@ -1,5 +1,101 @@
 [
  {
+  "title": "Almanya Ukrayna için 50 bin İHA sipariş etti",
+  "link": "https://www.dw.com/tr/almanya-ukrayna-için-50-bin-iha-sipariş-etti/a-77924210?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Almanya, Ukrayna ordusuna teslim edilmek üzere 50 bin İHA siparişi verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-12T14:01:10.058826+00:00",
+  "type": "news",
+  "cluster_id": "c87bcc7a9d6ea"
+ },
+ {
+  "title": "Germany funds 50,000 strike drones for Ukraine, source says",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmw1bUVFVGYxWlZDbmR2eVB0QkZreWY0SW8wUW9rYkdSXzF6QVJWa1QyeDhOLVRjWVNiSkhSVURjdFg4RHA5eW9peC14SzZ3cHNqLVNTS0VsbWdFTlNVREtzTEFnaHpfSFEzWEppbG9taElxMUlHMllGenJiSGJzemQyRFBGS0labzdCX1dYQlEzcDh0ODJ2enpScw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Almanya, Ukrayna'ya teslim edilmek üzere 50 bin adet saldırı İHA'sı için finansman sağladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-12T14:01:10.058826+00:00",
+  "type": "news",
+  "cluster_id": "c64815ab290ab"
+ },
+ {
+  "title": "Suriye'de yeni parlamento ilk kez toplandı",
+  "link": "https://www.dw.com/tr/suriye-de-yeni-parlamento-ilk-kez-toplandı/a-77924494?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Suriye'de Beşar Esad'ın devrilmesinden sonra parlamento ilk kez toplandı; yeni anayasa ve bütçe üzerinde çalışmaya başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-12T14:01:10.058826+00:00",
+  "type": "news",
+  "cluster_id": "cdceb5ea70b85"
+ },
+ {
+  "title": "Katar, BAE, Mısır ve Ürdün'den İran'ın bölge ülkelerine yönelik saldırılarına kınama",
+  "link": "https://www.aa.com.tr/tr/dunya/katar-bae-misir-ve-urdunden-iranin-bolge-ulkelerine-yonelik-saldirilarina-kinama/3995761",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Katar, BAE, Mısır ve Ürdün, İran'ın bölge ülkelerine yönelik saldırılarını şiddetle kınadıklarını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-12T14:01:10.058826+00:00",
+  "type": "news",
+  "cluster_id": "c50fd6dbcb4c1"
+ },
+ {
+  "title": "Suriye’de Esed rejiminin devrilmesinin ardından ilk Halk Meclisi oturumu yapıldı",
+  "link": "https://www.aa.com.tr/tr/dunya/suriye-de-esed-rejiminin-devrilmesinin-ardindan-ilk-halk-meclisi-oturumu-yapildi/3995700",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Suriye'de Esed rejiminin devrilmesinden sonra ilk Halk Meclisi oturumu Cumhurbaşkanı Ahmed Şara başkanlığında gerçekleştirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-12T14:01:10.058826+00:00",
+  "type": "news",
+  "cluster_id": "ca570975e8927"
+ },
+ {
+  "title": "Özgür Özel: Savcılarla, 'Şu isimlere tutuklama istenirse yapabilecek misin' deyip mülakat yapıyorlar",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-savcilarla-su-isimlere-tutuklama-istenirse-yapabilecek-misin-deyip-mulakat-yapiyorlar-2520156",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Genel Başkanı Özgür Özel, savcılarla tutuklama kararlarını önceden koordine ettikleri iddiasında bulundu.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-12T14:01:10.058826+00:00",
+  "type": "news",
+  "cluster_id": "c45eb9e4f6979"
+ },
+ {
+  "title": "Spot piyasada doğal gaz fiyatları -12 Temmuz 2026",
+  "link": "https://www.sozcu.com.tr/spot-piyasada-dogal-gaz-fiyatlari-12-temmuz-2026-p335844",
+  "source": "Sözcü",
+  "summary_tr": "Spot doğal gaz piyasasında 1000 metreküp gaz referans fiyatı 17 bin 179 lira olarak belirlendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-12T14:01:10.058826+00:00",
+  "type": "news",
+  "cluster_id": "c8c3de72f9f23"
+ },
+ {
+  "title": "İktidar neye hazırlanıyor: 'Sana bunu tutukla dendiğinde gözünü kırpmadan tutuklayabilecek misin?'",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR1BqLXZmMDY5NXRYZDlUZ2pCTEVVVnMzWXI1djZLZGUxM05Kd28xWHJvazN4NTR0YWZFQUpKbV9hNFpNY0w3eU5hR0tic0pfdGtsUU8tZjJIUXY4alM0MDNyMHJ4ZWhYZDlzY2hXdWRlNnJrVkZSUXVNTE51OTUxRE9BbEdBR3hsNS1QUktpUGxHNzVMOXRmVE1QYlFFUTZmUks0TXFid1NLdHlvcmltUTdsNjRxYTE2SFI0?oc=5",
+  "source": "soL",
+  "summary_tr": "CHP Genel Başkanı, savcılarla tutuklama kararlarını önceden koordine ettikleri iddiasında bulundu.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-12T14:01:10.058826+00:00",
+  "type": "news",
+  "cluster_id": "cfa7a405bc3f4"
+ },
+ {
   "title": "Zelenskiy, \"Ukrayna'nın yeni siyasi stratejisi\" için hükümette değişikliğe gidileceğini açıkladı",
   "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-ukraynanin-yeni-siyasi-stratejisi-icin-hukumette-degisiklige-gidilecegini-acikladi/3995722",
   "source": "Anadolu Ajansı",
@@ -56144,85 +56240,5 @@
   "score": 6,
   "ts": "2026-05-31T12:00:56.502189+00:00",
   "cluster_id": "c49bb4d241109"
- },
- {
-  "title": "US castigates Europe over defence spend as NATO reassures Asia",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeW5Rc1FldFFIVWxqVFhMLW45WGM4TWlvNmhFUTdVdE9DMW1veEdxaUg2cm0zbm4xOEJ0a2pYVWZsOF9ueHB3VndHTVNIb2ZuLV9TaWF3eHREN2w5MDRNV1FSTGN6VzJwdUJVcFlTQnVDOTFiLTR5ODRvWnhvV0dLVnZVSUNzaU9HdnI0SjFjTm4wTXprRlRraGpodEMtdVEtSjl1eGxhR2ttVlZlUU16TEUxMXRDQ1BmY2g0cTNqMA?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, NATO'da Avrupa'yı savunma harcamalarının yetersizliği konusunda sert şekilde eleştirirken, NATO Asya'ya güvence verdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-31T11:00:58.887612+00:00",
-  "cluster_id": "c280661de5b59"
- },
- {
-  "title": "Ukrainian drones hit pipeline, refinery, fuel depot in overnight strikes",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc29NbGRQTERqM0hUOU9zc1ZhVlFIaGktVUNkRjAtbVoydV9uRGlrSDkwemFHcTQ2ZFh6WUVOd3hwb2xYTWJ3NnpKSGZ1YW8yVjI1NEk5bk5HRDY1b1B0Q1ZycWVmYktIMWVhOEdxdVlXSUc2LWtsTy1TNzUxYVh1ZjloM3NsOFR1TEVaVVVWZHFxQlk4UlRBMnpoWElnYWlxZ01OVUNhbUVCYUVt?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ukrayna, gece saatlerinde drone saldırılarıyla Rusya'nın boru hattı, rafinerisi ve yakıt deposunu hedef aldı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-31T11:00:58.887612+00:00",
-  "cluster_id": "c4f270dd7846e"
- },
- {
-  "title": "İran’dan ABD’ye iki seçenekli mesaj: Kötü yol ya da daha kötüsü",
-  "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-abd-ye-iki-secenekli-mesaj-kotu-yol-ya-da-daha-kotusu-2508134",
-  "source": "Cumhuriyet",
-  "summary_tr": "İran Devrim Muhafızları Ordusu Komutan Yardımcısı, ABD'ye sert mesaj vererek Tahran'ın bölgede üstün konuma geçtiğini savundu.",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-05-31T11:00:58.887612+00:00",
-  "cluster_id": "ccb1df9d637d7"
- },
- {
-  "title": "İran Meclis Başkanı Kalibaf: Haklarımız güvence altına alınana kadar hiçbir anlaşmayı onaylamayacağız",
-  "link": "https://www.aa.com.tr/tr/dunya/iran-meclis-baskani-kalibaf-haklarimiz-guvence-altina-alinana-kadar-hicbir-anlasmayi-onaylamayacagiz/3952261",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran Meclisi Başkanı Kalibaf, İran halkının hakları güvence altına alınana kadar ABD ile anlaşmayı onaylamayacaklarını bildirdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T11:00:58.887612+00:00",
-  "cluster_id": "ced56b8a9738a"
- },
- {
-  "title": "İsrail'in Kurban Bayramı'nda Gazze'ye düzenlediği saldırılarda 33 Filistinli yaşamını yitirdi",
-  "link": "https://www.aa.com.tr/tr/dunya/israilin-kurban-bayraminda-gazzeye-duzenledigi-saldirilarda-33-filistinli-yasamini-yitirdi/3952248",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail ordusu Kurban Bayramı'nda Gazze'ye düzenlediği saldırılarda 33 Filistinliyi öldürdü, 130'dan fazla kişi yaralandı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T11:00:58.887612+00:00",
-  "cluster_id": "c7553d4131644"
- },
- {
-  "title": "Türkiye kapakları açınca köyler su altında kaldı: Komşuda binler evsiz kaldı",
-  "link": "https://www.sozcu.com.tr/turkiye-baraj-kapaklarini-acti-komsuda-onlar-koy-sular-altinda-kaldi-p323935",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye'nin kapakları açması sonucu Suriye'de sel felaketi meydana geldi, 2.400'den fazla aile tahliye edildi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-31T11:00:58.887612+00:00",
-  "cluster_id": "cbf2bb246ee08"
- },
- {
-  "title": "Gazze'deki Aksa Şehitleri Hastanesi'nde jeneratör krizi: Yoğun bakım ve diyaliz üniteleri hizmet dışı kalabilir",
-  "link": "https://www.aa.com.tr/tr/dunya/gazzedeki-aksa-sehitleri-hastanesinde-jenerator-krizi-yogun-bakim-ve-diyaliz-uniteleri-hizmet-disi-kalabilir/3952253",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Gazze'deki Aksa Şehitleri Hastanesi'nde jeneratör arızaları kritik aşamaya ulaştı, yoğun bakım ve diyaliz üniteleri hizmet dışı kalabilir.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-31T11:00:58.887612+00:00",
-  "cluster_id": "ccb6efe300bbb"
- },
- {
-  "title": "Gazze'de jeneratör krizi: Yoğun bakım ve diyaliz üniteleri hizmet dışı kalabilir",
-  "link": "https://www.trthaber.com/haber/dunya/gazzede-jenerator-krizi-yogun-bakim-ve-diyaliz-uniteleri-hizmet-disi-kalabilir-946703.html",
-  "source": "TRT Haber",
-  "summary_tr": "Gazze'deki Aksa Şehitleri Hastanesi'nde jeneratör arızaları kritik aşamaya ulaştı, yoğun bakım ve diyaliz üniteleri hizmet dışı kalabilir.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-31T11:00:58.887612+00:00",
-  "cluster_id": "ccb6efe300bbb"
  }
 ]
