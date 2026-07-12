@@ -1,5 +1,29 @@
 [
  {
+  "title": "İsrail’de parlamento seçimlerinin yapılacağı tarih belli oldu",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/israil-de-parlamento-secimlerinin-yapilacagi-tarih-belli-oldu-2520221",
+  "source": "Cumhuriyet",
+  "summary_tr": "İsrail'de parlamento seçimleri 27 Ekim'de yapılacak. Netanyahu hükümeti 2022'deki son seçimlerde kazanan taraf olmuştu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-12T21:01:11.735615+00:00",
+  "type": "news",
+  "cluster_id": "cd2de90718cfc"
+ },
+ {
+  "title": "ABD'nin NATO Daimi Temsilcisi, F-35 uçaklarının \"Türkiye'ye satışının gerçekleşeceğine\" inanıyor",
+  "link": "https://www.aa.com.tr/tr/dunya/abdnin-nato-daimi-temsilcisi-f-35-ucaklarinin-turkiyeye-satisinin-gerceklesecegine-inaniyor/3995959",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD'nin NATO Daimi Temsilcisi Whitaker, F-35 uçaklarının Türkiye'ye satışının gerçekleşmesinin mümkün olduğunu belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-12T21:01:11.735615+00:00",
+  "type": "news",
+  "cluster_id": "c8c37baddf2bc"
+ },
+ {
   "title": "Son dakika... İran müzakere heyeti Bağdat'a gidiyor",
   "link": "https://www.sozcu.com.tr/iran-muzakere-heyeti-bagdat-a-gidiyor-iddiasi-p335897",
   "source": "Sözcü",
@@ -56274,25 +56298,5 @@
   "score": 6,
   "ts": "2026-05-31T15:00:48.918486+00:00",
   "cluster_id": "c40d335482307"
- },
- {
-  "title": "Trump, Tom Barrack'ı Türkiye ve Suriye görevlerinin yanı sıra Irak Özel Temsilcisi olarak atadı",
-  "link": "https://www.aa.com.tr/tr/dunya/trump-tom-barracki-turkiye-ve-suriye-gorevlerinin-yani-sira-irak-ozel-temsilcisi-olarak-atadi/3952414",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Başkanı Trump, Tom Barrack'ı Ankara Büyükelçiliği, Suriye ve Irak özel temsilciliği görevlerine atadı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-31T15:00:48.918486+00:00",
-  "cluster_id": "c40d335482307"
- },
- {
-  "title": "Truck carrying returning refugees crashes in eastern Afghanistan, killing 22",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRDYtUTdOcjl0Rjd2ZzNoQmlLLUd1bzVxSk8zX2hZV1U1LUxVZVgyeWZDMWhKRkFYcEhic3c0SE1KU19sSm5vemJvYWh6bElQZFhwVTl1bkREc1BiWk1uYS1JNVY1TFJoSUYtX1VBamJmdlQ3UEtyMjJFWU9QMDY5bmYzUXVnd244ZzJYZUJOaFhGaGFvNEtrQnNIdlJjOHo2aDZ2N0tLNGw2VlUydjhkWXhEYXM0OGR4NWs1QQ?oc=5",
-  "source": "AP",
-  "summary_tr": "Afganistan'ın doğusunda mültecileri taşıyan kamyon kaza yaptı, 22 kişi öldü.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-31T15:00:48.918486+00:00",
-  "cluster_id": "c2203b4eeb1fc"
  }
 ]
