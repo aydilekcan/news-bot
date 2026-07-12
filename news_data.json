@@ -1,5 +1,41 @@
 [
  {
+  "title": "İsrail’den İran’a saldırı sinyali: ‘Orduya hazırlık talimatı verdik’",
+  "link": "https://www.cumhuriyet.com.tr/dunya/israil-den-iran-a-saldiri-sinyali-orduya-hazirlik-talimati-verdik-2520186",
+  "source": "Cumhuriyet",
+  "summary_tr": "İsrail Savunma Bakanı Yisrael Katz, İran'a yönelik yeni saldırılar için ordusuna hazırlık talimatı verdiğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-12T16:01:08.118924+00:00",
+  "type": "news",
+  "cluster_id": "caab66838ab41"
+ },
+ {
+  "title": "Trump canlı yayında yine bildiğiniz gibi konuştu! Hürmüz Boğazı açık mı kapalı mı?",
+  "link": "https://www.sozcu.com.tr/abd-baskani-trump-tan-hurmuz-bogazi-aciklamasi-p335860",
+  "source": "Sözcü",
+  "summary_tr": "ABD Başkanı Trump, Hürmüz Boğazı'nın açık olduğunu ve dün gece İran'a müdahale yapıldığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-12T16:01:08.118924+00:00",
+  "type": "news",
+  "cluster_id": "c2149706b48e7"
+ },
+ {
+  "title": "Gıda etiketlerinde yeni dönem başlıyor: Alışveriş yaparken gözünüz ilk buna takılacak",
+  "link": "https://www.sozcu.com.tr/gida-etiketlerinde-yeni-donem-basliyor-alisveris-yaparken-gozunuz-ilk-buna-takilacak-p335865",
+  "source": "Sözcü",
+  "summary_tr": "Gıda ürünü etiketlerinde alerjen uyarıları için uluslararası düzeyde yeni bir dönem başlıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-12T16:01:08.118924+00:00",
+  "type": "news",
+  "cluster_id": "c82cc0e34de99"
+ },
+ {
   "title": "İsrail Savunma Bakanı, İran'a yeni saldırılar için orduya hazırlık yapması talimatını verdiğini duyurdu",
   "link": "https://www.aa.com.tr/tr/dunya/israil-savunma-bakani-irana-yeni-saldirilar-icin-orduya-hazirlik-yapmasi-talimatini-verdigini-duyurdu/3995813",
   "source": "Anadolu Ajansı",
@@ -56230,35 +56266,5 @@
   "score": 7,
   "ts": "2026-05-31T13:01:00.211001+00:00",
   "cluster_id": "c9109f2e54f19"
- },
- {
-  "title": "Eski CHP'li vekil İhsan Özkes'ten dikkat çeken çıkış: \"‘Cemaat ile yakınlaşmak bize zarar verir’ dedim, Kılıçdaroğlu bozuldu\"",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/eski-chp-li-vekil-ihsan-ozkes-ten-dikkat-ceken-cikis-cemaat-ile-yakinlasmak-bize-zarar-verir-dedim-kilicdaroglu-bozuldu-2508164",
-  "source": "Cumhuriyet",
-  "summary_tr": "Eski CHP milletvekili Özkes, Kılıçdaroğlu'nun cemaatlerle yakınlaşma konusunda kendisine karşı tepkili davrandığını söyledi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-31T13:01:00.211001+00:00",
-  "cluster_id": "c3ee3b4b206a1"
- },
- {
-  "title": "Ankara kulislerinde konuşulan bomba iddiayı CHP doğruladı: Pazartesi düğmeye basılıyor",
-  "link": "https://www.sozcu.com.tr/ankara-kulislerinde-konusulan-bomba-iddiayi-chp-dogruladi-pazartesi-dugmeye-basiliyor-p323959",
-  "source": "Sözcü",
-  "summary_tr": "CHP'nin olağanüstü kurultay için Pazartesi günü karar vereceği öğrenildi; eski İzmir milletvekili Balbay tarafından doğrulandı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-31T13:01:00.211001+00:00",
-  "cluster_id": "c94572517531a"
- },
- {
-  "title": "CHP'li Zeynel Emre: 'Kurultay yapılmazsa seçime girilemez'",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUlQRFpDZGpQMndMaVZhQkU5ZGE1VmpNeUxpZ1FRYk81Tm9rVlZHRVNmTTAtWFlqMlVELXFsS1JnSnc1UU9PSHNmSmFYdENfU2laVG9wVXJTT0FtTjFTMFRSRUZXZ2NacEhNRWFVemt4Yjc3LVRNNjJGc1ZnY05zbkE2N1BUYk5YVlZqVGthUERTSmtvbkFZ?oc=5",
-  "source": "soL",
-  "summary_tr": "CHP'li Emre, kurultay yapılmazsa seçime girilemeyeceğini belirtti.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-31T13:01:00.211001+00:00",
-  "cluster_id": "c126b4a4bb4cd"
  }
 ]
