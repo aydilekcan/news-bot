@@ -1,5 +1,65 @@
 [
  {
+  "title": "MetroPOLL anketinde çok konuşulacak MHP ayrıntısı: Yüzde 40'ı, Erdoğan'ı onaylamadı!",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/metropoll-anketinde-cok-konusulacak-mhp-ayrintisi-yuzde-40-i-erdogan-i-onaylamadi-2520128",
+  "source": "Cumhuriyet",
+  "summary_tr": "MetroPOLL anketine göre Erdoğan'ın görev yapış tarzını onaylayanların oranı %44,5'te kaldı; MHP seçmeninin %40'ı Erdoğan'ı onaylamadı.",
+  "metric": "Erdoğan onay oranı %44,5",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-12T11:01:14.316854+00:00",
+  "type": "news",
+  "cluster_id": "c68b1e17e3ea5"
+ },
+ {
+  "title": "Piyasalarda hareketli hafta: Tarım ve petrol uçtu, altın düştü",
+  "link": "https://www.sozcu.com.tr/piyasalarda-hareketli-hafta-tarim-ve-petrol-uctu-altin-dustu-p335818",
+  "source": "Sözcü",
+  "summary_tr": "Emtia piyasasında tarım ve petrol ürünleri sert yükselirken altın düştü; arz endişeleri ve iklimsel etkiler piyasaları hareketlendirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-12T11:01:14.316854+00:00",
+  "type": "news",
+  "cluster_id": "c79d7abbd68b4"
+ },
+ {
+  "title": "İthalatta ek gümrük vergisi arttı: Yerli üretici korunacak, bazı ürünlerde fiyatlar yükselebilir",
+  "link": "https://www.sozcu.com.tr/ithalatta-ek-gumruk-vergisi-artti-yerli-uretici-korunacak-bazi-urunlerde-fiyatlar-yukselebilir-p335813",
+  "source": "Sözcü",
+  "summary_tr": "Cumhurbaşkanı Kararı ile ithalat rejiminde ek gümrük vergisi artırılarak yerli üretim korunacak; bazı ürünlerde fiyat artışı öngörülüyor.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-12T11:01:14.316854+00:00",
+  "type": "news",
+  "cluster_id": "cac7800946a4e"
+ },
+ {
+  "title": "Aşağı Kaleköy Barajı ve Hibrit Enerji Santrali'nde üretim 6 ayda rekora ulaştı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/asagi-kalekoy-baraji-ve-hibrit-enerji-santralinde-uretim-6-ayda-rekora-ulasti/3995590",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Bingöl'deki Aşağı Kaleköy Barajı ve Hibrit Enerji Santrali'nde yılın ilk 6 ayında enerji üretimi rekor seviyeye ulaştı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-12T11:01:14.316854+00:00",
+  "type": "news",
+  "cluster_id": "ca2bf882bebea"
+ },
+ {
+  "title": "TBMM'de yoğun hafta: Yargı Paketi ve 15 Temmuz programı",
+  "link": "https://www.trthaber.com/haber/gundem/tbmmde-yogun-hafta-yargi-paketi-ve-15-temmuz-programi-951002.html",
+  "source": "TRT Haber",
+  "summary_tr": "TBMM Genel Kurulu 14 Temmuz'da haftalık çalışmalarına başlayacak; gündemin ilk sırasında 12. Yargı Paketi bulunacak.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-12T11:01:14.316854+00:00",
+  "type": "news",
+  "cluster_id": "cf398e672e16a"
+ },
+ {
   "title": "İran, ABD saldırılarına karşı Hürmüz Boğazı'nı kapattığını açıkladı",
   "link": "https://www.bbc.com/turkce/articles/ce8jlnm787jo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -56140,55 +56200,5 @@
   "score": 6,
   "ts": "2026-05-31T10:01:03.360715+00:00",
   "cluster_id": "cefb918341136"
- },
- {
-  "title": "CHP'de yeni düellonun günü Salı yeri Meclis!",
-  "link": "https://www.sozcu.com.tr/chp-de-yeni-duellonun-gunu-sali-yeri-meclis-p323929",
-  "source": "Sözcü",
-  "summary_tr": "Kemal Kılıçdaroğlu, CHP Grup Genel Kurulu'nun bilgilendirmesi olmadan toplanmayacağını açıkladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-31T10:01:03.360715+00:00",
-  "cluster_id": "ca406e3347e50"
- },
- {
-  "title": "TBMM'de bu hafta gündem yoğun",
-  "link": "https://www.trthaber.com/haber/gundem/tbmmde-bu-hafta-gundem-yogun-946696.html",
-  "source": "TRT Haber",
-  "summary_tr": "TBMM'de bu hafta tarım ve ormana yönelik Toprak Koruma ve Arazi Kullanımı Kanunu gündeme alınacak.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-31T10:01:03.360715+00:00",
-  "cluster_id": "cca206428bfa2"
- },
- {
-  "title": "İHA'lara dijital takip dönemi: Tüm uçuşlar merkezden izlenecek",
-  "link": "https://www.trthaber.com/haber/ekonomi/ihalara-dijital-takip-donemi-tum-ucuslar-merkezden-izlenecek-946695.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye'ye getirilen insansız hava araçları dijital takip sistemiyle merkezden izlenecek.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-31T10:01:03.360715+00:00",
-  "cluster_id": "c875c8b2007fb"
- },
- {
-  "title": "Haziranda gözler kritik haberlere çevrildi: Altın, gümüş ve dolarda taşlar yerinden oynayabilir",
-  "link": "https://www.sozcu.com.tr/haziranda-gozler-kritik-haberlere-cevrildi-altin-gumus-ve-dolarda-taslar-yerinden-oynayabilir-p323909",
-  "source": "Sözcü",
-  "summary_tr": "Haziran ayında küresel piyasalar Fed, ECB, BoE faiz kararları ve ABD enflasyon verileriyle oynanacak; altın, gümüş, dolar taşlar yerinden oynayabilir.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-31T09:00:59.153837+00:00",
-  "cluster_id": "cb5ff7362ff21"
- },
- {
-  "title": "Trump’tan İran çıkışı: İstediğimizi alamazsak farklı sonlandırırız",
-  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-iran-cikisi-istedigimizi-alamazsak-farkli-sonlandiririz-2508108",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Başkanı Trump, İran'a yönelik 'ılımlı olmayan' asker ve yetkililer hakkında farklı bir sonlandırma seçeneği olduğunu belirtti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T09:00:59.153837+00:00",
-  "cluster_id": "cf56077aa0c33"
  }
 ]
