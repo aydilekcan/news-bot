@@ -1,5 +1,41 @@
 [
  {
+  "title": "ABD, Hürmüz Boğazı'nda ticari bir gemiye ateş açan İran'a karşı yeniden saldırı başlattı",
+  "link": "https://www.sozcu.com.tr/abd-hurmuz-bogazi-nda-ticari-bir-gemiye-ates-acan-iran-a-karsi-yeniden-saldiri-baslatti-p335701",
+  "source": "Sözcü",
+  "summary_tr": "ABD, Hürmüz Boğazı'nda İran'a karşı bu hafta üçüncü saldırı turunu başlattı. İran daha önce bölgedeki ticari bir gemiye ateş açmıştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-12T03:01:11.061384+00:00",
+  "type": "news",
+  "cluster_id": "c0d4fedcdb3a5"
+ },
+ {
+  "title": "US launches more strikes on Iran after commercial ship struck in Strait of Hormuz",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWNfWDBGeUlZdnVYdk9zTTBTa05FcHZQZ2NTaE14ZU9SUFRKcDgyamdEaUFjVi1ycHRuaEdaV2cwU3FSWjZqb3BzNXBvMmdobFNvejdtRGo0QUk3emV4alhETFNOcWgyQUg0MnFDVF9mSHRuM3R0Zng3ZnNWUDlqajlyWndRaHk2dkdycXVNdFA0S21RYk5YRElCTVBQZjloVEF2bU5ZTEl6bDFabTdCWWVSdw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, Hürmüz Boğazı'nda ticari gemiye ateş açan İran'a karşı üçüncü saldırı turunu başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-12T03:01:11.061384+00:00",
+  "type": "news",
+  "cluster_id": "c41bfafa22d8e"
+ },
+ {
+  "title": "Erdoğan’ın marketinde işçi kıyımı",
+  "link": "https://www.sozcu.com.tr/erdogan-in-marketinde-isci-kiyimi-p335695",
+  "source": "Sözcü",
+  "summary_tr": "Tarım Kredi Kooperatifi 2025'te 652 çalışanını işten çıkardı.",
+  "metric": "İşçi kıyımı: 652 çalışan",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-12T03:01:11.061384+00:00",
+  "type": "news",
+  "cluster_id": "cfe5574a92ced"
+ },
+ {
   "title": "ANK-AR’dan dikkat çeken anket: ‘Seçmen erken seçim istiyor, ekonomiden umutsuz’",
   "link": "https://www.cumhuriyet.com.tr/turkiye/ank-ar-dan-dikkat-ceken-anket-secmen-erken-secim-istiyor-ekonomiden-umutsuz-2519992",
   "source": "Cumhuriyet",
@@ -56066,35 +56102,5 @@
   "score": 7,
   "ts": "2026-05-30T20:00:49.448517+00:00",
   "cluster_id": "c7fcd0c2b2a29"
- },
- {
-  "title": "İsrail askerleri Batı Şeria'da bir köye baskın düzenledi",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-bati-seriada-bir-koye-baskin-duzenledi/3952011",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail askerleri Batı Şeria'daki El-Mugayir köyüne baskın düzenledi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-30T19:00:44.931295+00:00",
-  "cluster_id": "c98035813f439"
- },
- {
-  "title": "Philippines remains under threat from China despite Trump-Xi summit, minister says",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObGNFdWhDOWpjdXJSU1o2ZGNtLTJMZEhMU0txYTV5dWcwZlh4LU4tb3JTQjhNSVplOFExeFRLY3QzelFqOGtWYmg1NEotVGE3dmJOY0dadjgxeGVLRUswY0RLNnRZQ3N4TXBSNkZJNjZmVy11SGd6WFRKaDlsbGpnRUhYOVphZTB4YkhCZEhJem5DRE9uaC1nTU1IS1YwUTJ3cGdOc1NoZUowcDhZM2o0emxpa3o1NldvRU9UYWNpRmYyUQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Filipinler Bakanı, Trump-Xi zirvesine rağmen Çin tehdidinin devam ettiğini bildirdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-30T19:00:44.931295+00:00",
-  "cluster_id": "cb1b0caf63228"
- },
- {
-  "title": "US planning faster troop withdrawal from Europe, newspaper says",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYnEybF9EeDRqOGwxZnNCTzljb1lXM0RaT08yS3R1UUQ1N1o2bS1VbFFUcGVhbnJUaExpdXpiTmdfa21OQ2x2MHpXX1JUVVFkNnlEM0VwU3pIdV9JT1lhMEhYZjhQYmowN1ZDZnZzcjVDMkltS3liNmtDM0k2cnVmYjVIY3ZHazE1Rk9RV0pNeHVRVFQ2NUkwMTVhdEdXcG5i?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, Avrupa'daki asker çekilişini hızlandırmayı planlıyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-30T18:00:49.949620+00:00",
-  "cluster_id": "c21578f157aa9"
  }
 ]
