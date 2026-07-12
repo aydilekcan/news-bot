@@ -1,5 +1,77 @@
 [
  {
+  "title": "US says it struck 140 Iranian military targets Saturday",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1VUX0t6UEtnSzZZLVkwYUctMk1IbVZabTZtcGgyOW91RVdLZy1KQmI2SWRydDloNHJxNkJFYVdFTnpmMDV2cGNYamVXZVJISmVkem5XaC0yc09STlFHU2RJX3dXM3owZzJ3U0RLOFRjSXJOR2VqQWJtMG5aZDdmOUgxOHJSZldmWTRvV1MxMWFNZ3hGYlplWWtTUk5Ra2ZNR001dDZSbmY3Nm9YY2c?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, Cumartesi günü 140 İran askeri hedefine saldırı düzenlediğini duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-12T08:01:52.166155+00:00",
+  "type": "news",
+  "cluster_id": "cd4fcf30c8241"
+ },
+ {
+  "title": "31 Temmuz'a kadar ödemeyen araç sahiplerinin borcuna faiz eklenecek!",
+  "link": "https://www.sozcu.com.tr/31-temmuz-a-kadar-odemeyen-arac-sahiplerinin-borcuna-faiz-eklenecek-p335772",
+  "source": "Sözcü",
+  "summary_tr": "31 Temmuz'a kadar ödemeyen araç sahiplerinin 2026 Motorlu Taşıtlar Vergisi borcuna faiz eklenecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-12T08:01:52.166155+00:00",
+  "type": "news",
+  "cluster_id": "ce130deebff2a"
+ },
+ {
+  "title": "CHP’li Yavuzyılmaz: Türkiye 1,47 milyar dolarlık tahkim davasını kaybetti",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWFNFRUdfWnYwVzlfOU5rREJQajlxeVYwdnBCUWNFV0VURzEtYVJoc3Z3c3Q1bDBwWnd4X2h1cjFzNEFIZ0lkS0xNeGMtZ3JhbGVSRWNaSXduUC0xa3NxUTBrUS1yenBFOWl1c2JjaEo0b3lmSjZpMTFHZlpyckJZcVhONmlvY0QwbzZqN2dUb01BX0ZNeXczNE1oYnNRZ0dHR1NwVkFFX0tSWldi?oc=5",
+  "source": "soL",
+  "summary_tr": "CHP'li Yavuzyılmaz, Türkiye'nin 1,47 milyar dolarlık tahkim davasını kaybettiğini açıkladı.",
+  "metric": "Tahkim davası 1,47 milyar dolar",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-12T08:01:52.166155+00:00",
+  "type": "news",
+  "cluster_id": "ca1c99312b408"
+ },
+ {
+  "title": "İki çay markasında boya tespit edildi",
+  "link": "https://www.diken.com.tr/iki-cay-markasinda-boya-tespit-edildi-3/?utm_source=rss&utm_medium=rss&utm_campaign=iki-cay-markasinda-boya-tespit-edildi-3",
+  "source": "Diken",
+  "summary_tr": "Tarım ve Orman Bakanlığı iki çay markasında kullanımına izin verilmeyen boya tespit etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-12T08:01:52.166155+00:00",
+  "type": "news",
+  "cluster_id": "ce9a69d47cf9e"
+ },
+ {
+  "title": "CHP'li Bulut, 'Bu utanç Saray'ın' diyerek paylaştı: 'Tek bir kare, ekonominin geldiği noktayı anlatmaya yetiyor...'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-li-bulut-bu-utanc-saray-in-diyerek-paylasti-tek-bir-kare-ekonominin-geldigi-noktayi-anlatmaya-yetiyor-2520088",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP'li Bulut, Datça'da 'Kredi Kartına 5 Taksit Sebze Meyve' yazılı pankartı paylaşarak ekonominin kötü durumuna dikkat çekti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-12T08:01:52.166155+00:00",
+  "type": "news",
+  "cluster_id": "c7a2d3b47e4ab"
+ },
+ {
+  "title": "Otomotiv Sanayii Derneği, 2026'nın ilk yarısına ilişkin verilerini açıkladı",
+  "link": "https://www.sozcu.com.tr/otomotiv-sanayii-dernegi-2026-nin-ilk-yarisina-iliskin-verilerini-acikladi-p335765",
+  "source": "Sözcü",
+  "summary_tr": "Otomotiv Sanayii Derneği 2026'nın ilk yarısında otomotiv ihracatının ocak-haziran döneminde 462 bin adetinin verilerini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-12T08:01:52.166155+00:00",
+  "type": "news",
+  "cluster_id": "c641624c8d6b7"
+ },
+ {
   "title": "ABD, İran'ı vurdu",
   "link": "https://www.diken.com.tr/abd-irani-vurdu-2/?utm_source=rss&utm_medium=rss&utm_campaign=abd-irani-vurdu-2",
   "source": "Diken",
@@ -56086,65 +56158,5 @@
   "score": 8,
   "ts": "2026-05-31T07:00:57.150713+00:00",
   "cluster_id": "c7d5d162ab5aa"
- },
- {
-  "title": "ABD Başkanı Trump'ın İran'la anlaşma taslağında değişiklik istediği iddiası",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trumpin-iranla-anlasma-taslaginda-degisiklik-istedigi-iddiasi/3952122",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Trump'ın, ABD-İran müzakere edilen anlaşma taslağında bazı maddelerin değiştirilmesini istediği iddia edildi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-31T07:00:57.150713+00:00",
-  "cluster_id": "ce142da3a3ba8"
- },
- {
-  "title": "Rubio’dan Tom Barrack açıklaması: Suriye’de merkezi muhatap, Irak’ta güvenilir isim",
-  "link": "https://www.cumhuriyet.com.tr/dunya/rubio-dan-tom-barrack-aciklamasi-suriye-de-merkezi-muhatap-irak-ta-guvenilir-isim-2508089",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Dışişleri Bakanı Rubio, Suriye Özel Temsilcisi Tom Barrack'ı Suriye'de merkezi muhatap olarak tanımladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T07:00:57.150713+00:00",
-  "cluster_id": "c9aa9497a499c"
- },
- {
-  "title": "Mayıs ayı enflasyonu cuma günü açıklanacak",
-  "link": "https://www.trthaber.com/haber/ekonomi/mayis-ayi-enflasyonu-cuma-gunu-aciklanacak-946669.html",
-  "source": "TRT Haber",
-  "summary_tr": "Mayıs ayı enflasyon verisi cuma günü açıklanacak; nisan'da aylık artış %4,18 olmuştu.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-31T07:00:57.150713+00:00",
-  "cluster_id": "c3672c68d1b26"
- },
- {
-  "title": "UBS altın tahminini 400 dolar aşağı çekti",
-  "link": "https://www.diken.com.tr/ubs-altin-tahminini-400-dolar-asagi-cekti/?utm_source=rss&utm_medium=rss&utm_campaign=ubs-altin-tahminini-400-dolar-asagi-cekti",
-  "source": "Diken",
-  "summary_tr": "İsviçreli UBS yatırım bankası, altın fiyat tahminini 400 dolar aşağı revize etti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-31T06:00:47.753787+00:00",
-  "cluster_id": "cc367fae2b506"
- },
- {
-  "title": "Ekonomide haziran ayı yoğun geçecek",
-  "link": "https://www.trthaber.com/haber/ekonomi/ekonomide-haziran-ayi-yogun-gececek-946663.html",
-  "source": "TRT Haber",
-  "summary_tr": "Haziran ayında TCMB ve TUİK'ten ekonomiye ilişkin önemli veri ve karar bekleniyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T05:00:56.506904+00:00",
-  "cluster_id": "c3f14ea15593d"
- },
- {
-  "title": "Japan refutes 'new militarism', accuses China of rapidly arming",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmlJTHUyX0Z5aVh2RXE3aThmbDRINlhvcTNoMElRRHoxaXpnT1JNR0NUWnppNE5DSEdsaGFGQVM3ZWtmV0ZmWHVuV09RRTlPemFqcEJNWWEwSURpSW80WVdTT1pjOEFhVHEtQ3JyTWx2MGQwX0JxME5sTjUweXZKRTY1SFh5ZjlnX3NkVXpka3VHZjd3UXlzRzFIbDdOZGR6YVE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Japonya, Çin'i hızlı silahlanmakla suçluyor ve 'yeni militarizm' ithamlarını reddediyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T05:00:56.506904+00:00",
-  "cluster_id": "ccd128134243b"
  }
 ]
