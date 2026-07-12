@@ -1,5 +1,53 @@
 [
  {
+  "title": "İsrail’de genel seçimler 27 Ekim'de yapılacak",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-de-genel-secimler-27-ekimde-yapilacak/3995852",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail, genel seçimlerini 27 Ekim'de yapacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-12T17:01:08.792755+00:00",
+  "type": "news",
+  "cluster_id": "c7f6dbaa7db6d"
+ },
+ {
+  "title": "ABD İran'a saldırıyor: 10 ila 11 adet füze fırlatıldı",
+  "link": "https://www.trthaber.com/haber/dunya/abd-irana-saldiriyor-10-ila-11-adet-fuze-firlatildi-951024.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD, İran'a Hürmüzgan eyaletinde saldırı düzenledi; 10-11 füze fırlatıldığı bildirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-12T17:01:08.792755+00:00",
+  "type": "news",
+  "cluster_id": "c256ee66cee82"
+ },
+ {
+  "title": "ABD Hürmüz Boğazı'nın açıldığını savunuyor",
+  "link": "https://www.bbc.com/turkce/articles/ce8jlnm787jo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD, İran'ın Hürmüz Boğazı'nı kapattığı iddiasına rağmen boğazın açık olduğunu savunuyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-12T17:01:08.792755+00:00",
+  "type": "news",
+  "cluster_id": "c4fb9f45ee6dd"
+ },
+ {
+  "title": "Asgari ücrete ara zam gelecek mi? 2026 Temmuz Asgari ücret ne kadar olacak?",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/asgari-ucrete-ara-zam-gelecek-mi-2026-temmuz-asgari-ucret-ne-kadar-olacak-2520188",
+  "source": "Cumhuriyet",
+  "summary_tr": "Asgari ücret ara zam için tartışmalar yoğunlaşıyor; Temmuz 2026'da zam beklentileri gündeme geldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-12T17:01:08.792755+00:00",
+  "type": "news",
+  "cluster_id": "cf628c285cd1d"
+ },
+ {
   "title": "İsrail’den İran’a saldırı sinyali: ‘Orduya hazırlık talimatı verdik’",
   "link": "https://www.cumhuriyet.com.tr/dunya/israil-den-iran-a-saldiri-sinyali-orduya-hazirlik-talimati-verdik-2520186",
   "source": "Cumhuriyet",
@@ -56226,45 +56274,5 @@
   "score": 8,
   "ts": "2026-05-31T13:01:00.211001+00:00",
   "cluster_id": "c523e2baac13f"
- },
- {
-  "title": "Kılıçdaroğlu: Kul hakkı yemedim",
-  "link": "https://www.diken.com.tr/kilicdaroglu-kul-hakki-yemedim/?utm_source=rss&utm_medium=rss&utm_campaign=kilicdaroglu-kul-hakki-yemedim",
-  "source": "Diken",
-  "summary_tr": "CHP Genel Başkanı Kılıçdaroğlu, mahkeme kararıyla göreve gelmesinin ardından 'kul hakkı yemedim' açıklaması yaptı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-31T13:01:00.211001+00:00",
-  "cluster_id": "c69e3b2da131d"
- },
- {
-  "title": "Fransa’dan İsrail’e Lübnan tepkisi: Hiçbir şey haklı çıkaramaz",
-  "link": "https://www.cumhuriyet.com.tr/dunya/fransa-dan-israil-e-lubnan-tepkisi-hicbir-sey-hakli-cikaramaz-2508165",
-  "source": "Cumhuriyet",
-  "summary_tr": "Fransa Dışişleri Bakanı Barrot, İsrail'in Lübnan işgalinin hiçbir şeyle haklı çıkarılamayacağını belirtti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T13:01:00.211001+00:00",
-  "cluster_id": "c4aa4ffbce98c"
- },
- {
-  "title": "DEM ‘çerçeve yasa’ için bastırıyor, AKP’de gözler MİT raporunda: Yasal düzenleme çıkmazı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/dem-cerceve-yasa-icin-bastiriyor-akp-de-gozler-mit-raporunda-yasal-duzenleme-cikmazi-2508158",
-  "source": "Cumhuriyet",
-  "summary_tr": "DEM Parti, PKK mensuplarını kapsayan çerçeve yasa için Meclis kapanmadan bastırıyor; AKP'nin MİT raporuna bakıyor.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-31T13:01:00.211001+00:00",
-  "cluster_id": "cfed69a379fb3"
- },
- {
-  "title": "İran, Güney Pars doğal gaz sahasındaki üç deniz üstü platformunda gaz üretimini yeniden başlattı",
-  "link": "https://www.aa.com.tr/tr/dunya/iran-guney-pars-dogal-gaz-sahasindaki-uc-deniz-ustu-platformunda-gaz-uretimini-yeniden-baslatti/3952317",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran, ABD ve İsrail saldırıları nedeniyle durdurduğu Güney Pars doğal gaz sahasındaki üç platformda gaz üretimini yeniden başlattı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T13:01:00.211001+00:00",
-  "cluster_id": "c9109f2e54f19"
  }
 ]
