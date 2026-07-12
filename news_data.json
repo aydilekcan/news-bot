@@ -1,5 +1,65 @@
 [
  {
+  "title": "İran, ABD saldırılarına karşı Hürmüz Boğazı'nı kapattığını açıkladı",
+  "link": "https://www.bbc.com/turkce/articles/ce8jlnm787jo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "İran, ABD saldırılarına karşı Hürmüz Boğazı'nı kapattığını açıkladı; ABD yeni bir saldırı dalgası başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-12T10:01:11.012545+00:00",
+  "type": "news",
+  "cluster_id": "ced4eb0c3fd3b"
+ },
+ {
+  "title": "Avrupa'nın Trump'a karşı silahı: Dijital euro",
+  "link": "https://www.dw.com/tr/avrupa-nın-trump-a-karşı-silahı-dijital-euro/a-77892412?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Avrupa Merkez Bankası dijital euroyu hayata geçirerek ABD merkezli dijital ödeme sistemlerine bağımlılığını azaltmayı hedefliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-12T10:01:11.012545+00:00",
+  "type": "news",
+  "cluster_id": "cc83766384c43"
+ },
+ {
+  "title": "2026 TOKİ kurasız konut başvuruları ne zaman bitiyor? TOKİ kurasız açık satış  konut başvuruları nasıl yapılır?",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/2026-toki-kurasiz-konut-basvurulari-ne-zaman-bitiyor-toki-kurasiz-acik-satis-konut-basvurulari-nasil-yapilir-2520122",
+  "source": "Cumhuriyet",
+  "summary_tr": "TOKİ tarafından 64 ilde 20 bin konutluk kurasız açık satış kampanyası devam ediyor; başvuru süreci açık.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-12T10:01:11.012545+00:00",
+  "type": "news",
+  "cluster_id": "cf4ab1305c403"
+ },
+ {
+  "title": "Gıda fiyatlarını düşüren ülkeye dava açtılar",
+  "link": "https://www.sozcu.com.tr/gida-fiyatlarini-dusuren-ulkeye-dava-actilar-p335798",
+  "source": "Sözcü",
+  "summary_tr": "Avrupa Komisyonu, temel gıda ürünlerinde kâr marjını %10 ile sınırlandıran uygulamayı gerekçe göstererek bir ülkeye dava açtı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-12T10:01:11.012545+00:00",
+  "type": "news",
+  "cluster_id": "cab8077bf30b0"
+ },
+ {
+  "title": "Vergi borçlarının taksitlendirilmesine yoğun ilgi",
+  "link": "https://www.trthaber.com/haber/ekonomi/vergi-borclarinin-taksitlendirilmesine-yogun-ilgi-950996.html",
+  "source": "TRT Haber",
+  "summary_tr": "Vergi borçlarının 72 aya kadar taksitlendirilmesini sağlayan düzenlemeye ilk 25 günde 228 binden fazla mükellef başvurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-12T10:01:11.012545+00:00",
+  "type": "news",
+  "cluster_id": "c62e3318ce3ce"
+ },
+ {
   "title": "Körfez'de gerilim tırmanıyor: Hürmüz kapandı, ABD saldırdı, İran cevap verdi",
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUEc1R2lPN2dkeDFyeEo3V29Fd2UycllUMFFmNktZbGFhWnlNUHUycjM5NFQxQmExaDRwNVJKNm1YNVZOc1VJVGYxY0JsVFVqWHltSjRUZHBCSFpxalkxQzJHYmtCN1AxZFBXT01JajVfdEpONk1XSDBvWWdIa3JMb2xBVjl6bmhDVnlfQy1ub1hkQnhnRWRSOUNELXY0cW9DYXJ5WWplT201NEJ2dDhj?oc=5",
   "source": "soL",
@@ -56130,55 +56190,5 @@
   "score": 7,
   "ts": "2026-05-31T09:00:59.153837+00:00",
   "cluster_id": "cf56077aa0c33"
- },
- {
-  "title": "Ukrayna'da savaş müfredata girdi: Çocuklar tüfek kullanmayı, İHA uçurmayı öğreniyor",
-  "link": "https://www.sozcu.com.tr/ukrayna-da-savas-mufredata-girdi-cocuklar-tufek-kullanmayi-iha-ucurmayi-ogreniyor-p323914",
-  "source": "Sözcü",
-  "summary_tr": "Ukrayna, Rusya saldırılarının 4. yılında lise öğrencilerine zorunlu müfredat kapsamında askeri eğitim (tüfek kullanımı, İHA uçurma) veriyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T09:00:59.153837+00:00",
-  "cluster_id": "ceb1b9e9ac30c"
- },
- {
-  "title": "İşgalci fanatik Yahudiler, Mescidi Aksa'da İsrail bayrağı açıp marş okudu",
-  "link": "https://www.trthaber.com/haber/dunya/isgalci-fanatik-yahudiler-mescid-i-aksada-israil-bayragi-acip-mars-okudu-946686.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail polisi korumasında Mescidi Aksa'ya baskın düzenleyen fanatik Yahudiler Haremi Şerif'te İsrail bayrağı açıp marş okudu.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-31T09:00:59.153837+00:00",
-  "cluster_id": "cb2ae7177e087"
- },
- {
-  "title": "Türkiye su kısıtı riskiyle karşı karşıya",
-  "link": "https://www.trthaber.com/haber/gundem/turkiye-su-kisiti-riskiyle-karsi-karsiya-946683.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye kişi başına yılda 1301 metreküp su düşmesi nedeniyle nüfus artışı ve iklim değişikliği dikkate alındığında su kısıtı riskiyle karşı karşıya.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T09:00:59.153837+00:00",
-  "cluster_id": "c71ad3b94fcb3"
- },
- {
-  "title": "Ukrainian drones hit targets across several Russian regions",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc29NbGRQTERqM0hUOU9zc1ZhVlFIaGktVUNkRjAtbVoydV9uRGlrSDkwemFHcTQ2ZFh6WUVOd3hwb2xYTWJ3NnpKSGZ1YW8yVjI1NEk5bk5HRDY1b1B0Q1ZycWVmYktIMWVhOEdxdVlXSUc2LWtsTy1TNzUxYVh1ZjloM3NsOFR1TEVaVVVWZHFxQlk4UlRBMnpoWElnYWlxZ01OVUNhbUVCYUVt?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ukrayna, Rusya'nın çeşitli bölgelerine karşı insansız hava araçlarıyla hedeflere saldırı düzenliyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T09:00:59.153837+00:00",
-  "cluster_id": "ca88254422e70"
- },
- {
-  "title": "The great Indo-Pacific hedge - deeper defence ties as US doubts grow and China ascends",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRTBQc0NzWnJaUkU5UmtiRV9yUzNVdjA1MzYxUVd5cXpEUVhqZUdsVVZTazBPX3N4UVJQWFFqYmhKelJzbGtUdjBSOHpvV1BtTlpFTG1TVEM0TUtEeXJoSWVkM0pSQ184bGc4c1hyWXRCdWdxOGlOWTZnZmFiWmRTRVdIdHN4N1d1UmZuQmZjNWhQUnRnTEVJWHB5bmZHNUFCcU80MERuQWt3ZG8wV3J2d1RUVlZFb2FWV0JiT0pn?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD'nin zayıflaması ve Çin'in yükselişi ortamında Indo-Pasifik ülkeleri savunma işbirliğini derinleştiriyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T09:00:59.153837+00:00",
-  "cluster_id": "c5557e278b0c9"
  }
 ]
