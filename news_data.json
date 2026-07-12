@@ -1,5 +1,41 @@
 [
  {
+  "title": "İran’da patlama sesleri: Keşm Adası yakınlarına füze saldırısı",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVzRFZ0R0STNUMlByVFktYi1IUFVOSUJOdktBcUJhV3NjbDdBS0pjRjVwUkJ2c3FoTjFHSTVKM1RVbnRnaEZwbWVRcFFFMHRPRmJCRTctbjdyNGtUY190aFJwR3F1SFFjckVaNTlMaDE0cFFmNlNUWTR3M0hPa013NUZmaDc4TnBDSmkxbmVvc3diRWdkczdhVU1KeWNDTUk?oc=5",
+  "source": "soL",
+  "summary_tr": "İran, Keşm Adası yakınlarına füze saldırısı yapıldığını duyurdu. Ülkede patlama sesleri duyulmuş olup, gelişme izlenmektedir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-12T18:01:16.840934+00:00",
+  "type": "news",
+  "cluster_id": "c5a37d520dc72"
+ },
+ {
+  "title": "Iran's IRNA says 'enemy' launches missiles towards Qeshm Island",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcFNWV2l4NHpONDVaQ0VPNVczX3ZhaHJHS08ycWJvWDhabVJlZDZrQU5rSDZ0bGRNZXhudFVxSDkzQnNoSTZqWkRXd0RrSWNEVGpHMzBVS2J5ZlZXZ0RPeG93ZWF2QjJWY05oV2FlVlFTODJ3dmJOSnVVOFlJSHFLUzdfYXVhY0NDOEdOVXctakZucmJZLUoxVFhuSk9qRGxPX2lMT3lmenA5LXdmTUpaSVhGcTg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran haber ajansı IRNA, ülkeye yönelik füze saldırısı olduğunu açıkladı. Keşm Adası yakınlarına düzenlenmiş saldırıyla ilgili detaylar araştırılmaktadır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-12T18:01:16.840934+00:00",
+  "type": "news",
+  "cluster_id": "c0cc06efdcf73"
+ },
+ {
+  "title": "Qatar’s former ruler Sheikh Hamad bin Khalifa Al Thani has died at 74",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWjRDaUlZZWhZMlBnRGVNSmRGNzBoLWVGeXJEWVljdkZwNVkwcTNJT3pURUs5aXR5UkF1RzdzZDRUUWNGSnJnajlYRGptM3U1a01lUEVGRk1xT05sWjdRYjd6MFVOd0JYV3paSndLTEJkVkxwQ01UZmp1S0ZvS2ItOFlVT0xfN2dQd05DZThBVk43NldxaElUUEh4S19JdDl6WGc?oc=5",
+  "source": "AP",
+  "summary_tr": "Katar'ın eski emiri Şeyh Hamad bin Halifa Al Sani, 74 yaşında vefat etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-12T18:01:16.840934+00:00",
+  "type": "news",
+  "cluster_id": "c15478122c336"
+ },
+ {
   "title": "İsrail’de genel seçimler 27 Ekim'de yapılacak",
   "link": "https://www.aa.com.tr/tr/dunya/israil-de-genel-secimler-27-ekimde-yapilacak/3995852",
   "source": "Anadolu Ajansı",
@@ -56244,35 +56280,5 @@
   "score": 7,
   "ts": "2026-05-31T14:00:54.356647+00:00",
   "cluster_id": "ccbbf82c08d8d"
- },
- {
-  "title": "Ergenekon ve Balyoz kumpaslarında FETÖ'nün hedef aldığı isimlerden Özgür Özel'e destek",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/ergenekon-ve-balyoz-kumpaslarinda-feto-nun-hedef-aldigi-isimlerden-ozgur-ozel-e-destek-2508188",
-  "source": "Cumhuriyet",
-  "summary_tr": "FETÖ'nün kumpas kurduğu eski askerlerin kuruluşu KUMPASDER, Kılıçdaroğlu'nun FETÖ açıklamalarına karşı Özgür Özel'e destek gösterdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-31T14:00:54.356647+00:00",
-  "cluster_id": "c93794d4fd04a"
- },
- {
-  "title": "Kılıçdaroğlu'na bir tepki de FETÖ'nün kumpas kurduğu askerlerden",
-  "link": "https://www.sozcu.com.tr/kilicdaroglu-na-bir-tepki-de-feto-nun-kumpas-kurdugu-askerlerden-p323980",
-  "source": "Sözcü",
-  "summary_tr": "FETÖ'nün kumpas kurduğu askerlerden Kılıçdaroğlu'nun CHP Genel Başkanlığına yeniden seçilmesine tepki.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-31T14:00:54.356647+00:00",
-  "cluster_id": "cee9ab886fcb8"
- },
- {
-  "title": "Zelenski: Rusya, son bir haftada 108 füze ve 2300'den fazla SİHA ile hava saldırıları düzenledi",
-  "link": "https://www.trthaber.com/haber/dunya/zelenski-rusya-son-bir-haftada-108-fuze-ve-2300den-fazla-siha-ile-hava-saldirilari-duzenledi-946715.html",
-  "source": "TRT Haber",
-  "summary_tr": "Zelenski, Rusya'nın son haftada Ukrayna'ya 108 füze ve 2300'den fazla SİHA ile saldırı düzenlediğini açıkladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-31T13:01:00.211001+00:00",
-  "cluster_id": "c523e2baac13f"
  }
 ]
