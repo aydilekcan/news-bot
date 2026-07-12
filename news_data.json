@@ -1,5 +1,65 @@
 [
  {
+  "title": "US conducts strikes on Iran missile systems around Strait of Hormuz, Axios reports",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVlFEMTBmd3hvZzZpVnBYcnNnUlBnQW9DRlkydFVqUTM0S3I2emo0TDczX3NJSGNHdXJqZGJreUhDRDhoYnNUck9vRGVpWEVtMGNnNElfY1lzR0NZakdlSWtTZEExQ2YyWFFKWTNhLXpwbk9HRkF6VGs4V0pLTDRRT013Z3dvc1hZVWthV0x6MzFneHlxei1LZWg5NVNKUE1oV2pfTUNlbkIwNU1tVU14MmhXc1Z2VmNNZnR5Q2thYjFDMWRyaUNJbw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, Hürmüz Boğazı yakınında İran'ın füze sistemlerine karşı saldırı düzenledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-12T19:01:11.459753+00:00",
+  "type": "news",
+  "cluster_id": "ccafd24e866dd"
+ },
+ {
+  "title": "Iran reports new attacks on military targets on its largest island near the Strait of Hormuz",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
+  "source": "AP",
+  "summary_tr": "İran, Hürmüz Boğazı yakınında bulunan Keshm Adasında askeri hedeflere karşı saldırılar yaşandığını bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-12T19:01:11.459753+00:00",
+  "type": "news",
+  "cluster_id": "cc07ca98a41b7"
+ },
+ {
+  "title": "Trump: Hürmüz Boğazı açık",
+  "link": "https://www.diken.com.tr/trump-hurmuz-bogazi-acik/?utm_source=rss&utm_medium=rss&utm_campaign=trump-hurmuz-bogazi-acik",
+  "source": "Diken",
+  "summary_tr": "ABD Başkanı Trump, İran'ın Hürmüz Boğazı'nı kapattığı iddiasını reddetti. Boğaz açık kaldığını vurguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-12T19:01:11.459753+00:00",
+  "type": "news",
+  "cluster_id": "c704e210c8454"
+ },
+ {
+  "title": "Bakan Gürlek'in eşine yönelik eylem hazırlığı iddiası; 2 kişi tutuklandı",
+  "link": "https://www.sozcu.com.tr/akin-gurlek-in-esine-yonelik-eylem-hazirligi-iddiasi-p335889",
+  "source": "Sözcü",
+  "summary_tr": "Adalet Bakanı Akın Gürlek'in eşine yönelik eylem hazırlığı iddiasıyla 2 kişi tutuklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-12T19:01:11.459753+00:00",
+  "type": "news",
+  "cluster_id": "c5d055ad576e8"
+ },
+ {
+  "title": "Akın Gürlek'in eşine yönelik 'eylem hazırlığı' iddiasıyla 2 kişi tutuklandı",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzV3cUdvZnpKaWVpaGEzM29rR1lsWlg0WHJGNzRiSXQ3NzZPWXEyM2VGbWRETzBvREVlSjZwZVVvT2dXcUZoY2xaZUg4ZDVYanRJaXhBM1NqY0dQbDYzVndUQTdxdVotbEFiZlhoVUVnVVUzd0JlV2I3ZE00MEliZDdsQ1dhOGxUZGFfZTRNSlJTVTNvYnFLbU5DQnhPM2MtRlQwVklqMUhPU2duZ2dv?oc=5",
+  "source": "soL",
+  "summary_tr": "Adalet Bakanı Akın Gürlek'in eşine yönelik eylem hazırlığı iddiasıyla 2 kişi tutuklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-12T19:01:11.459753+00:00",
+  "type": "news",
+  "cluster_id": "c5d055ad576e8"
+ },
+ {
   "title": "İran’da patlama sesleri: Keşm Adası yakınlarına füze saldırısı",
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVzRFZ0R0STNUMlByVFktYi1IUFVOSUJOdktBcUJhV3NjbDdBS0pjRjVwUkJ2c3FoTjFHSTVKM1RVbnRnaEZwbWVRcFFFMHRPRmJCRTctbjdyNGtUY190aFJwR3F1SFFjckVaNTlMaDE0cFFmNlNUWTR3M0hPa013NUZmaDc4TnBDSmkxbmVvc3diRWdkczdhVU1KeWNDTUk?oc=5",
   "source": "soL",
@@ -56230,55 +56290,5 @@
   "score": 8,
   "ts": "2026-05-31T14:00:54.356647+00:00",
   "cluster_id": "cd1fc27ee70fd"
- },
- {
-  "title": "İsrail ordusu, Lübnan'daki stratejik Şakif Kalesi'ni işgal etti",
-  "link": "https://www.trthaber.com/haber/dunya/israil-ordusu-lubnandaki-stratejik-sakif-kalesini-isgal-etti-946717.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail ordusu, ateşkese rağmen Lübnan'da Litani Nehri'nin kuzeyindeki stratejik Şakif Kalesi'ni işgal etti.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-31T14:00:54.356647+00:00",
-  "cluster_id": "c74252e86478c"
- },
- {
-  "title": "Soykırımcı İsrail ateşkesten bu yana Gazze'de 247 çocuk ve 191 kadını katletti",
-  "link": "https://www.trthaber.com/haber/dunya/soykirimci-israil-ateskesten-bu-yana-gazzede-247-cocuk-ve-191-kadini-katletti-946716.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail, 10 Ekim 2025 ateşkesinden bu yana Gazze'de 247 çocuk ve 191 kadını öldürdü.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-31T14:00:54.356647+00:00",
-  "cluster_id": "cd6738a268890"
- },
- {
-  "title": "Güney Çin Denizi’nde tansiyon yükseldi: Çin’den muharebe devriyesi",
-  "link": "https://www.cumhuriyet.com.tr/dunya/guney-cin-denizi-nde-tansiyon-yukseldi-cin-den-muharebe-devriyesi-2508192",
-  "source": "Cumhuriyet",
-  "summary_tr": "Çin, Filipinler ile egemenlik ihtilafı yaşadığı Güney Çin Denizi'nde Scarborough Sığı çevresinde muharebe hazırlık devriyesi gerçekleştirdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T14:00:54.356647+00:00",
-  "cluster_id": "c12f7441b5225"
- },
- {
-  "title": "ABD, Avrupa’dan asker çekmeyi hızlandırıyor",
-  "link": "https://www.cumhuriyet.com.tr/dunya/abd-avrupa-dan-asker-cekmeyi-hizlandiriyor-2508185",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD, Avrupa'daki askeri varlığını azaltma planını hızlandırmaya hazırlanıyor; Almanya'dan asker çekmeyi gündeme aldı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T14:00:54.356647+00:00",
-  "cluster_id": "c61843f24186d"
- },
- {
-  "title": "How Trump’s Ukraine aid cuts undermine justice for Russian war crimes",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc3owaFpGUmRoeDZ3enhUbXJ2YVJndVdaUmo2M0F5Ujk5NEFkZzhVdFJvb01ORWlxbzhRdzl2ckY2ekxKNmJTTEJTZklJLUs4UEtrVzRaU1JUX1liWUtpUWdxVXpObER1YXQ4MnN5N3dNSXZSQVpadWhqalpKWnFwS2VHTUV2LXRTdFRUcHA4bjRNNXR3TkNJaHF2blJMYU8zWE5XQ2FWNnNWaXZ3Xzh3RzZpSTkyMTZRUGlZMDBpdWZ6ZnM?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump'ın Ukrayna yardım kesintileri, Rusya'nın savaş suçları için uluslararası adalet çabalarını zayıflatıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T14:00:54.356647+00:00",
-  "cluster_id": "ccbbf82c08d8d"
  }
 ]
