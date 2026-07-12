@@ -1,5 +1,17 @@
 [
  {
+  "title": "US says it launched strikes against Iran after attack on Cyprus-flagged container ship",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaVlDWEtfWEhnNkZzeE9nRTlmaHlPRUlBQU9MRXZjb0MwM2lIdUUxVkt1V1ZIUDJzeGkzQXRtaEkxc09nQWhUN0VOZnN5NVlpLUF1UGt1UXZ4NmhjdzJ1UjJ1dFdsV081TXNoLWwwNFhjLTNXcVVfTFZET1l4SjVPNHNfMlhrclZhZzZFQ2FReUU0bEtLSHlGVjJLeFczQjRabHpyejB6eng3ajlnRWdHX29IVElRMU1VUFJ5bGJkblFqUjYtZl9fVy1QZDU?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, Kıbrıs bayraklı bir gemi saldırısına karşılık İran'a karşı hava saldırıları düzenledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-12T04:01:07.602199+00:00",
+  "type": "news",
+  "cluster_id": "c55e66941b293"
+ },
+ {
   "title": "ABD, Hürmüz Boğazı'nda ticari bir gemiye ateş açan İran'a karşı yeniden saldırı başlattı",
   "link": "https://www.sozcu.com.tr/abd-hurmuz-bogazi-nda-ticari-bir-gemiye-ates-acan-iran-a-karsi-yeniden-saldiri-baslatti-p335701",
   "source": "Sözcü",
@@ -56092,15 +56104,5 @@
   "score": 7,
   "ts": "2026-05-30T20:00:49.448517+00:00",
   "cluster_id": "c279d4ab9948a"
- },
- {
-  "title": "İran'dan Hürmüz uyarısı: Müdahale eden askeri gemiler vurulacak",
-  "link": "https://www.trthaber.com/haber/dunya/irandan-hurmuz-uyarisi-mudahale-eden-askeri-gemiler-vurulacak-946645.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran, Hürmüz Boğazı'ndan geçen gemilere müdahale tehdidinde bulundu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-30T20:00:49.448517+00:00",
-  "cluster_id": "c7fcd0c2b2a29"
  }
 ]
