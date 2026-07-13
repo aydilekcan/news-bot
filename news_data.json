@@ -1,5 +1,89 @@
 [
  {
+  "title": "CENTCOM duyurdu: Hürmüz Boğazı'ndaki abluka yarın TSİ 23.00'te başlayacak",
+  "link": "https://www.cumhuriyet.com.tr/dunya/centcom-duyurdu-hurmuz-bogazi-ndaki-abluka-yarin-tsi-23-00-te-baslayacak-2520526",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD CENTCOM, Hürmüz Boğazı'na abluka başlatacağını duyurdu. Abluka 14 Temmuz TSİ 23:00'te başlayacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-13T19:01:28.167606+00:00",
+  "type": "news",
+  "cluster_id": "cf4427b8b1290"
+ },
+ {
+  "title": "Memur emeklisi yurttaş isyan etti: 'Şişe kutusu topluyorum, bu hale düştüm'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/memur-emeklisi-yurttas-isyan-etti-sise-kutusu-topluyorum-bu-hale-dustum-2520523",
+  "source": "Cumhuriyet",
+  "summary_tr": "DEVA Partisi Genel Başkanı Ali Babacan, Antalya'da memur emeklisi yurttaşla karşılaştı; emekli 30 yıl çalışmasına rağmen maaşıyla geçinemiyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-13T19:01:28.167606+00:00",
+  "type": "news",
+  "cluster_id": "ce97b5569605d"
+ },
+ {
+  "title": "ABD-İran etkisi: Petrol 80 doları aştı",
+  "link": "https://www.diken.com.tr/abd-iran-etkisi-petrol-80-dolari-asti/?utm_source=rss&utm_medium=rss&utm_campaign=abd-iran-etkisi-petrol-80-dolari-asti",
+  "source": "Diken",
+  "summary_tr": "ABD-İran gerilimi nedeniyle Brent petrolü 80 doları aştı.",
+  "metric": "Brent petrol fiyatı 80 $ üstü",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T19:01:28.167606+00:00",
+  "type": "news",
+  "cluster_id": "c6e5071d0fe9b"
+ },
+ {
+  "title": "İran'dan Trump'a 'Hürmüz Boğazı' yanıtı: 'Yüzde 20 çok fazla, biz adil olacağız'",
+  "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-trump-a-hurmuz-bogazi-yaniti-yuzde-20-cok-fazla-biz-adil-olacagiz-2520530",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran Dışişleri Bakanı Abbas Arakçi, Trump'ın Hürmüz Boğazı açıklamalarına karşı İran'ın adil davranacağını belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T19:01:28.167606+00:00",
+  "type": "news",
+  "cluster_id": "c59b907e8d446"
+ },
+ {
+  "title": "Ukrainian PM Svyrydenko has submitted resignation, parliament speaker says",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdVVaaHVBMjk1UVJVZUFKS3BEWlVTaVhCWXBDcmhucUNVcGZOSTN1QVlXUEthVWxPNmdwVkNvcEs2NzVEQjVKTG10VF8tdXlUNE1UWGVHRnVQdEFEclFYRmlXUmRaM1d5WTRZcy1Mc2NORHNrQnBnM0kwNmJkYUJrZHVFSFhoeFhCOXkwYlFyUEZQSHNreWFZNkpQbEVMUWs4NHZhOEtZVlJSd3dhVDhuVllkWmFsdw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ukrayna Başbakanı Svyrydenko istifasını sundu; Parlamento Başkanı tarafından açıklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T19:01:28.167606+00:00",
+  "type": "news",
+  "cluster_id": "c80ca3c32eab7"
+ },
+ {
+  "title": "İş dünyası temsilcileri Yatırım Taahhütlü Avans Kredisi Programı'nın bütçesinin artırılmasını değerlendirdi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/is-dunyasi-temsilcileri-yatirim-taahhutlu-avans-kredisi-programinin-butcesinin-artirilmasini-degerlendirdi/3996939",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İş dünyası temsilcileri, Yatırım Taahhütlü Avans Kredisi Programı bütçesinin 750 milyar liraya çıkarılmasını değerlendirdi.",
+  "metric": "Program bütçesi hedefi: 750 milyar TL",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-13T19:01:28.167606+00:00",
+  "type": "news",
+  "cluster_id": "c3bc46665ed03"
+ },
+ {
+  "title": "Dışişleri Bakanı Fidan, Ukrayna konulu Gönüllüler Koalisyonu Liderler Zirvesi'ne katıldı",
+  "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-ukrayna-konulu-gonulluler-koalisyonu-liderler-zirvesine-katildi/3996920",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Dışişleri Bakanı Hakan Fidan, Paris'te düzenlenen Ukrayna konulu Gönüllüler Koalisyonu Liderler Zirvesi'ne katıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-13T19:01:28.167606+00:00",
+  "type": "news",
+  "cluster_id": "cc12235977a6b"
+ },
+ {
   "title": "Trump'tan Hürmüz Boğazı çıkışı: Gemilerden ücret alacağız",
   "link": "https://www.dw.com/tr/trump-tan-hürmüz-boğazı-çıkışı-gemilerden-ücret-alacağız/a-77941469?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -56532,75 +56616,5 @@
   "score": 8,
   "ts": "2026-06-01T15:01:04.745174+00:00",
   "cluster_id": "cbb22661d089a"
- },
- {
-  "title": "İsrail, Dahiye bölgesi sakinlerinden evlerini terk etmelerini istedi",
-  "link": "https://www.sozcu.com.tr/israil-dahiye-bolgesi-sakinlerinden-evlerini-terk-etmelerini-istedi-p324309",
-  "source": "Sözcü",
-  "summary_tr": "İsrail ordusu, Lübnan Beyrut'taki Dahiye bölgesi sakinlerini evlerini terk etmeye uyardı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T15:01:04.745174+00:00",
-  "cluster_id": "cab3028f254e1"
- },
- {
-  "title": "İşgalci İsrail, Beyrut'taki Dahiye bölgesi sakinlerinden evlerini terk etmelerini istedi",
-  "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-beyruttaki-dahiye-bolgesi-sakinlerinden-evlerini-terk-etmelerini-istedi-946817.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail ordusu, Lübnan Beyrut'taki Dahiye bölgesi sakinlerini evlerini terk etmeye uyardı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-01T15:01:04.745174+00:00",
-  "cluster_id": "cab3028f254e1"
- },
- {
-  "title": "Rusya Merkez Bankası yurt dışına para transferi kısıtlamasını uzattı",
-  "link": "https://www.sozcu.com.tr/rusya-merkez-bankasi-yurt-disina-para-transferi-kisitlamasini-uzatti-p324308",
-  "source": "Sözcü",
-  "summary_tr": "Rusya Merkez Bankası, yurt dışına para transferi kısıtlamalarını 6 ay uzattı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T15:01:04.745174+00:00",
-  "cluster_id": "c33f23855ef29"
- },
- {
-  "title": "Rusya Merkez Bankası yurt dışına para transferine yönelik kısıtlamaları uzattı",
-  "link": "https://www.trthaber.com/haber/ekonomi/rusya-merkez-bankasi-yurt-disina-para-transferine-yonelik-kisitlamalari-uzatti-946819.html",
-  "source": "TRT Haber",
-  "summary_tr": "Rusya Merkez Bankası, yurt dışına para transferi kısıtlamalarını 6 ay uzattı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T15:01:04.745174+00:00",
-  "cluster_id": "c33f23855ef29"
- },
- {
-  "title": "TBMM Başkanı Kurtulmuş: CHP meseleyi kendi iç dinamikleri ve kurumsal yapısı çerçevesinde çözmeli",
-  "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-chp-meseleyi-kendi-ic-dinamikleri-ve-kurumsal-yapisi-cercevesinde-cozmeli/3953281",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "TBMM Başkanı Kurtulmuş, CHP'nin iç sorunlarını kendi iç dinamikleriyle çözmesi gerektiğini bildirdi.",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-06-01T15:01:04.745174+00:00",
-  "cluster_id": "cc7402518c938"
- },
- {
-  "title": "Belediye başkanı tutuklanmıştı: Akçakoca belediyesi CHP'den AKP'ye geçti",
-  "link": "https://www.diken.com.tr/belediye-baskani-tutuklanmisti-akcakoca-belediyesi-chpden-akpye-gecti/?utm_source=rss&utm_medium=rss&utm_campaign=belediye-baskani-tutuklanmisti-akcakoca-belediyesi-chpden-akpye-gecti",
-  "source": "Diken",
-  "summary_tr": "Düzce Akçakoca Belediye Başkanı tutuklanmasının ardından belediye CHP'den AKP'ye geçti.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-01T15:01:04.745174+00:00",
-  "cluster_id": "cd54dfb0ed682"
- },
- {
-  "title": "Akçakoca'da belediye CHP'den AKP'ye geçti; seçim sonrası kavga çıktı",
-  "link": "https://www.sozcu.com.tr/akcakoca-belediye-baskan-vekili-secildi-p324304",
-  "source": "Sözcü",
-  "summary_tr": "Düzce Akçakoca Belediye Başkanı tutuklanmasının ardından belediye meclis CHP'den AKP'ye geçti.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-01T15:01:04.745174+00:00",
-  "cluster_id": "cd54dfb0ed682"
  }
 ]
