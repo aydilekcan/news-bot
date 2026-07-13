@@ -1,5 +1,113 @@
 [
  {
+  "title": "Trump duyurdu: \"Bu gece ve yarın İran'ı sert şekilde vuracağız!\"",
+  "link": "https://www.sozcu.com.tr/trump-mutabakat-bir-sinavdi-iran-i-cok-sert-vuracagiz-p336222",
+  "source": "Sözcü",
+  "summary_tr": "ABD Başkanı Trump, İran'ı bu gece ve yarın sert şekilde vuracaklarını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-13T21:01:14.579102+00:00",
+  "type": "news",
+  "cluster_id": "c8c6b138fcc47"
+ },
+ {
+  "title": "Trump'tan İran'ı sert şekilde vuracağız açıklaması",
+  "link": "https://www.trthaber.com/haber/dunya/trumptan-irani-sert-sekilde-vuracagiz-aciklamasi-951116.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Başkanı Trump, İran'ı bu gece ve yarın sert şekilde vuracaklarını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-13T21:01:14.579102+00:00",
+  "type": "news",
+  "cluster_id": "c8c6b138fcc47"
+ },
+ {
+  "title": "NYT: İsrail istihbaratı Ahmedinejad'ı iktidara getirmeye çalıştı",
+  "link": "https://www.diken.com.tr/nyt-israil-istihbarati-ahmedinejadi-iktidara-getirmeye-calisti/?utm_source=rss&utm_medium=rss&utm_campaign=nyt-israil-istihbarati-ahmedinejadi-iktidara-getirmeye-calisti",
+  "source": "Diken",
+  "summary_tr": "İsrail istihbaratı, İran'ın eski Cumhurbaşkanı Ahmedinejad'ı iktidara getirmeye çalıştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T21:01:14.579102+00:00",
+  "type": "news",
+  "cluster_id": "c01d70cf2c968"
+ },
+ {
+  "title": "Zelenskiy: \"Ukrayna'nın cephedeki konumu, savaşın başlangıcından bu yana hiç olmadığı kadar güçlü\"",
+  "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-ukraynanin-cephedeki-konumu-savasin-baslangicindan-bu-yana-hic-olmadigi-kadar-guclu/3996995",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ukrayna Devlet Başkanı Zelenskiy, cephe hattındaki konumunun savaşın başlangıcından bu yana hiç olmadığı kadar güçlü olduğunu söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T21:01:14.579102+00:00",
+  "type": "news",
+  "cluster_id": "ca8a070917b1a"
+ },
+ {
+  "title": "Fed yetkilisi Waller, çekirdek enflasyon yüksek gelirse faiz artışı gerekebileceğini söyledi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/fed-yetkilisi-waller-cekirdek-enflasyon-yuksek-gelirse-faiz-artisi-gerekebilecegini-soyledi/3996983",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Fed Yönetim Kurulu Üyesi Waller, çekirdek enflasyon yüksek gelirse faiz artışı gerekebileceğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T21:01:14.579102+00:00",
+  "type": "news",
+  "cluster_id": "cce93a37bd197"
+ },
+ {
+  "title": "İngiltere Başbakanı Starmer, ABD-İran arasındaki ateşkesin acilen tekrar başlatılması çağrısında bulundu",
+  "link": "https://www.aa.com.tr/tr/dunya/ingiltere-basbakani-starmer-abd-iran-arasindaki-ateskesin-acilen-tekrar-baslatilmasi-cagrisinda-bulundu/3996988",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İngiltere Başbakanı Starmer, ABD-İran arasında ateşkesin acilen başlatılması çağrısında bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T21:01:14.579102+00:00",
+  "type": "news",
+  "cluster_id": "c2910c23f4a69"
+ },
+ {
+  "title": "Fed's Waller says rate hike may be needed if core inflation stays hot",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaW0tUldZeEtOTXVXNFlST05jYjZUMzcxcVZQNl9MVXh3ZXltWVVUcUlMelA2OENsVmdtSDNqTUVBSTBNdEVpbzg3Q1E2N28wMVBlYlZCVS1SYU5XUkVuMUdtUzUwcEJrWmRDYVp2ajg3cHdXMnpHbHhfSHc4Z2VaNmpVZUNrLTFKY2hBdmFwNWt3b2xJdzdRYzFpbUMxSERsdmtTZQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Fed Yönetim Kurulu Üyesi Waller, çekirdek enflasyon yüksek kalırsa faiz artışı gerekebileceğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T21:01:14.579102+00:00",
+  "type": "news",
+  "cluster_id": "c2ff54740dc25"
+ },
+ {
+  "title": "Yemen's Houthis strike Saudi Arabia's Abha airport with missiles and drones in a sharp escalation",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMGJJX3RrZlBnOUd3aXc5VlloY3JNOVN4V0xqX1EycG5QcU5DNUlWQU1qNmZWbUpMTTFLZjdyTzY1NTFNOFJ1d3F1aFlobUMzN1VDdnp3RWJibHI2MGFaaWZzdTJGVEJfYlFVZk5DUVRCN1V6Z1JOMTl5aldnOFUtUXdSSFFEZmR4ZUhueEM0M1o4VE4wck1HTmF5SQ?oc=5",
+  "source": "AP",
+  "summary_tr": "Yemen'in Houthileri, Suudi Arabistan'ın Abha havaalanına füze ve dronlarla saldırı düzenlediler.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T21:01:14.579102+00:00",
+  "type": "news",
+  "cluster_id": "ce07a63ac55a7"
+ },
+ {
+  "title": "Mansur Yavaş’tan iktidara Çankaya tepkisi: ‘Madem kazanamayacağınıza inanıyorsunuz, ya seçime girmeyin ya seçim yapmayın’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/mansur-yavas-tan-iktidara-cankaya-tepkisi-madem-kazanamayacaginiza-inaniyorsunuz-ya-secime-girmeyin-ya-secim-yapmayin-2520563",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ankara Büyükşehir Belediye Başkanı Mansur Yavaş, seçim konusunda iktidara tepki göstererek 'eşit hukuk, eşit adalet' istediğini söyledi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-13T21:01:14.579102+00:00",
+  "type": "news",
+  "cluster_id": "c1606b9a93f65"
+ },
+ {
   "title": "US to begin enforcing maritime blockade on Iran on Tuesday",
   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOHhfWjBMY0wxWWV6RkVYbWw0bXN6LTFSX25HY1FDNXFwb0I5MndOZ2RSSmhjengxS2xKdFdmRi1Yd1J4ZnZkR3lHaTlabTZFbFl4dkdvOHh1MUs0cTNVc2NhOWc3OTJNbVhLa3NRQ0RzRkNUUlVGdk91eHlLX1hkRFBkYndhTjlfU3BCYzUwVHZlT0ZNZHBSV3NESmZjNXItY3Z2bTJ3?oc=5",
   "source": "Reuters",
@@ -56550,95 +56658,5 @@
   "score": 7,
   "ts": "2026-06-01T17:01:05.720697+00:00",
   "cluster_id": "c8f62191acef8"
- },
- {
-  "title": "Mayıs ayı enflasyon verileri 5 Haziran'da açıklanacak",
-  "link": "https://www.aa.com.tr/tr/ekonomi/mayis-ayi-enflasyon-verileri-5-haziranda-aciklanacak/3953430",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "TÜİK, Mayıs 2026 enflasyon verilerini 5 Haziran'da açıklayacak.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T17:01:05.720697+00:00",
-  "cluster_id": "c5f25ec3473e3"
- },
- {
-  "title": "İşgalci İsrail, Lübnan'da hastane yakınını bombaladı",
-  "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-lubnanda-hastane-yakinini-bombaladi-946826.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail ordusu Lübnan'daki Cebel Amil Hastanesi çevresine hava saldırısı düzenledi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-01T17:01:05.720697+00:00",
-  "cluster_id": "c74c8cd0b8fa6"
- },
- {
-  "title": "US manufacturing activity scales four-year high in May, ISM says",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZjc5Q2hpM1pvd3lxbzdDY3lhdDFVeEdJa3ZNVEc5OHNMZ2ZCaVJyVWcxOWRXM0lxZ1g1cmhMNGpkUzU3X0duNk9XdHpjZDJkME1qX09BcFdBeFJUb2JJd2VPZDJJZ0VGc3VUb2xoNEFNcFF0ZmtxTkpTeVU0WHpmUU43anYtTVdLNmQ5dEo5MF9NU0ZnTlV3NUtsWlBwVUdPZTBHZmpWaHo?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD imalat sektörü aktivitesi mayıs ayında dört yıllık en yüksek seviyeye çıktı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T17:01:05.720697+00:00",
-  "cluster_id": "c44cf3d4696e2"
- },
- {
-  "title": "Bakan Fidan, İranlı mevkidaşı Arakçi ile İran-ABD müzakere sürecini görüştü",
-  "link": "https://www.sozcu.com.tr/bakan-fidan-iranli-mevkidasi-arakci-ile-iran-abd-muzakere-surecini-gorustu-p324324",
-  "source": "Sözcü",
-  "summary_tr": "Dışişleri Bakanı Fidan, İranlı mevkidaşı Arakçi ile telefonda İran-ABD müzakere sürecini görüştü.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-01T17:01:05.720697+00:00",
-  "cluster_id": "cf41b1204df5c"
- },
- {
-  "title": "Bakan Fidan, İranlı mevkidaşı Arakçi ile görüştü",
-  "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-iranli-mevkidasi-arakci-ile-gorustu-946824.html",
-  "source": "TRT Haber",
-  "summary_tr": "Dışişleri Bakanı Fidan, İranlı mevkidaşı Arakçi ile telefon görüşmesi yaptı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-01T17:01:05.720697+00:00",
-  "cluster_id": "cf41b1204df5c"
- },
- {
-  "title": "İsrail, Lübnan'ın güneyinde kara harekatını genişletiyor: Önemli kaleyi ele geçirdi",
-  "link": "https://www.bbc.com/turkce/articles/cn0prr2x6lko?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "İsrail, Lübnan'ın güneyinde kara harekatını genişleterek stratejik bir kaleyi ele geçirdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-01T16:01:04.795693+00:00",
-  "cluster_id": "c7d1c72189de2"
- },
- {
-  "title": "İşgalci İsrail'in Lübnan'a saldırılarında can kaybı 3 bin 433'e çıktı",
-  "link": "https://www.trthaber.com/haber/dunya/isgalci-israilin-lubnana-saldirilarinda-can-kaybi-3-bin-433e-cikti-946820.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail'in Lübnan'a düzenlediği saldırılarda can kaybı 3.433'e çıktı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-01T16:01:04.795693+00:00",
-  "cluster_id": "cc495a0a827b5"
- },
- {
-  "title": "TBMM Başkanı Kurtulmuş: 'CHP'deki çelişkiyi çözme yeri Meclis Başkanlığı değil'",
-  "link": "https://www.bbc.com/turkce/articles/cx219jk1p1lo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "TBMM Başkanı Kurtulmuş, CHP'nin grup başkanlığı seçimi konusunda Meclis Başkanlığı'nın rol oynamaması gerektiğini açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T16:01:04.795693+00:00",
-  "cluster_id": "c9afd28cee9c8"
- },
- {
-  "title": "Meclis programına eklendi: CHP'nin yarınki grup toplantısı yapılacak",
-  "link": "https://www.diken.com.tr/meclis-programina-eklendi-chpnin-yarinki-grup-toplantisi-yapilacak/?utm_source=rss&utm_medium=rss&utm_campaign=meclis-programina-eklendi-chpnin-yarinki-grup-toplantisi-yapilacak",
-  "source": "Diken",
-  "summary_tr": "Meclis programına eklendi: CHP'nin 2 Haziran'daki grup toplantısı yapılacak.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T16:01:04.795693+00:00",
-  "cluster_id": "c97ae5d6e995f"
  }
 ]
