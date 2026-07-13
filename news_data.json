@@ -1,5 +1,17 @@
 [
  {
+  "title": "Yüzde 30’a varan ek ara mal gümrük vergisinin faturası yurttaşa çıkacak: İçi boş korumacılık",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/yuzde-30-a-varan-ek-ara-mal-gumruk-vergisinin-faturasi-yurttasa-cikacak-ici-bos-korumacilik-2520246",
+  "source": "Cumhuriyet",
+  "summary_tr": "Hükümet, ithalatçı ara malzemelere yüzde 30'a varan ek gümrük vergisi getirdi; iç üretim ve ikame koşulları oluşturulmadığı sürece bu vergiler ürün fiyatlarına yansıyarak vatandaşa zam getireceği belirtiliyor.",
+  "metric": "Ek gümrük vergisi %30'a varan oranda",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-13T02:01:08.404875+00:00",
+  "type": "news",
+  "cluster_id": "c698045a5c6ed"
+ },
+ {
   "title": "ABD'den İran'a yeni saldırılar, Hürmüz Boğazı'ndaki durum belirsiz",
   "link": "https://www.bbc.com/turkce/articles/ce8jlnm787jo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -56306,15 +56318,5 @@
   "score": 7,
   "ts": "2026-05-31T17:00:46.382262+00:00",
   "cluster_id": "c9e6417639ffe"
- },
- {
-  "title": "How the Supreme Court is reshaping the US midterm elections",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLWZMeWNHVGx1MXZNOXFDTnNuNTVXVlI3aER3XzVRdkJsejBMOUNhQ1hzN09tZkgxNXE5eUNJWnZuajYxQlpxTWxXX3cwaWprOTlVMU1BV1NJV2c5cXljT1QtbmV1NjhVY040SnZkMDRJazRLWW9fcm9ycTdFZXRMTEgyNUZSa2NINm1sWG12VENQMUhscDdIZy1ZaERTRWdkTk9GcFJmTQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD Yüksek Mahkemesi orta dönem seçimlerini şekillendiriyor; mahkemenin seçim kurallarına ilişkin kararları seçim dinamiklerini önemli ölçüde etkiliyordu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T17:00:46.382262+00:00",
-  "cluster_id": "c5604d4347d5f"
  }
 ]
