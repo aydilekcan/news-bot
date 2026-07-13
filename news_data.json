@@ -1,5 +1,149 @@
 [
  {
+  "title": "Trump, ABD'nin Hürmüz Boğazı'na ablukayı geri getireceğini açıkladı",
+  "link": "https://www.bbc.com/turkce/articles/ce8jlnm787jo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD Başkanı Trump, İran'a yönelik ablukayı yeniden uygulamaya başladığını ve Hürmüz Boğazı'ndan geçen gemilere ABD tarifesi getireceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-13T15:01:27.202729+00:00",
+  "type": "news",
+  "cluster_id": "cf959ba46a99a"
+ },
+ {
+  "title": "Trump: İran'ı yeniden ablukaya alıyoruz",
+  "link": "https://www.diken.com.tr/trump-irani-yeniden-ablukaya-aliyoruz/?utm_source=rss&utm_medium=rss&utm_campaign=trump-irani-yeniden-ablukaya-aliyoruz",
+  "source": "Diken",
+  "summary_tr": "ABD Başkanı Trump, İran'a ablukayı yeniden başlattığını açıkladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 9,
+  "ts": "2026-07-13T15:01:27.202729+00:00",
+  "type": "news",
+  "cluster_id": "cfc0a6c833dc7"
+ },
+ {
+  "title": "Trump’tan Hürmüz Boğazı mesajı: İran’a abluka, gemilere ABD tarifesi",
+  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-hurmuz-bogazi-mesaji-iran-a-abluka-gemilere-abd-tarifesi-2520481",
+  "source": "Cumhuriyet",
+  "summary_tr": "Trump, Hürmüz Boğazı'nın açık tutulacağını ve İran'a abluka ile gemilere ABD tarifesi getirileceğini belirtti.",
+  "metric": "",
+  "lean": "left",
+  "score": 9,
+  "ts": "2026-07-13T15:01:27.202729+00:00",
+  "type": "news",
+  "cluster_id": "c59eac3469543"
+ },
+ {
+  "title": "Trump dünyaya ilan etti: İran'a ablukayı yeniden başlatıyoruz",
+  "link": "https://www.sozcu.com.tr/trump-hurmuz-aciklamasi-13-temmuz-2026-p336172",
+  "source": "Sözcü",
+  "summary_tr": "Trump, İran'a ablukayı yeniden başlattığını duyurdu ve Hürmüz Boğazı'ndan taşınan ticari yüklerden %25 vergi alınacağını açıkladı.",
+  "metric": "Tarife oranı: %25",
+  "lean": "left",
+  "score": 9,
+  "ts": "2026-07-13T15:01:27.202729+00:00",
+  "type": "news",
+  "cluster_id": "c5c32239c7a2d"
+ },
+ {
+  "title": "Hürmüz'de defalarca hüsrana uğrayan Trump: 'Boğaz'ın gardiyanları olacağız'",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTHJGdmVSZjBxNXozaWUxM1dhX3F3RjNvZDJDRFlsUzEzVmZZQlZMUFhsM2pncklGcktJVHktSFBSSThSREFLdGNIQk5QaHNvemJHZlAwbmp0ZXJSYlVGdm9IY0NzUXE3REFMSWtmSDYxTGRtbkt4WnZ5ajdpYmpqMGJCVmRQZTcxU2dTSXd0WWJJSTdkU3lBeFNvWlRiWFg0UmQ3aVVNVWhrc244?oc=5",
+  "source": "soL",
+  "summary_tr": "Trump, Hürmüz Boğazı'nın gardiyanları olacaklarını belirterek İran'a yönelik abluka politikasını yineledi.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-13T15:01:27.202729+00:00",
+  "type": "news",
+  "cluster_id": "c3f68daaedb59"
+ },
+ {
+  "title": "Trump administration launches effort to isolate International Criminal Court",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQTBNdERDYVRUMURpVDAzcXVQWUwtRl80S09ud3hCc0ZZZkdQNFZXSEVUV0UySGJEZjE5aUJyeWtwM0VHVHNJeVNIR05RWFhWODcwZy1oLWZwNnZLU2E0SUxobTlFSDNrQ1hsRkdrYmxjd3JyVk40NlFFdkdZZGVEc2dGU2R6X1RheWxoOTdpdTBsMmJtN0tBRnhsc0ZjVzZWRUI5YVc0d2NUSUdzRlJJcEwwUlBuZw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump yönetimi, Uluslararası Ceza Mahkemesi'ni izole etmek için bir girişim başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-13T15:01:27.202729+00:00",
+  "type": "news",
+  "cluster_id": "c9fe669cbf3cf"
+ },
+ {
+  "title": "JP Morgan'dan yıl sonu dolar tahmini: 51,4 lira",
+  "link": "https://www.diken.com.tr/jp-morgandan-yil-sonu-dolar-tahmini-514-lira/?utm_source=rss&utm_medium=rss&utm_campaign=jp-morgandan-yil-sonu-dolar-tahmini-514-lira",
+  "source": "Diken",
+  "summary_tr": "JPMorgan, yıl sonu dolar/TL kurunu 51,4 lira olarak tahmin etti.",
+  "metric": "Dolar/TL tahmini: 51,4 TL",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T15:01:27.202729+00:00",
+  "type": "news",
+  "cluster_id": "c801532d76ad4"
+ },
+ {
+  "title": "NATO'dan Rusya'nın siber faaliyetlerine kınama",
+  "link": "https://www.aa.com.tr/tr/dunya/natodan-rusyanin-siber-faaliyetlerine-kinama/3996680",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "NATO, Rusya'nın NATO müttefikleri ve ortaklarını hedef alan siber faaliyetlerini güçlü şekilde kınadı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-13T15:01:27.202729+00:00",
+  "type": "news",
+  "cluster_id": "cb4b2b29958a9"
+ },
+ {
+  "title": "Global smartphone shipments in second quarter hit lowest in 13 years on memory chip crunch",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUzVTX3dRNjRNZWhfaklORDE4aXE1RzV4NGwtNXVNSDBHMllBN1ZlOU44NnQxMWk5WXlXckRHcWNreFNGb3BKY1RFdjdIbWNNUF90TE1QVUtFTEMzeXNCTlFfRktPbXJETTNlLUk5MjZxQUZxVkItUkZ1NW1NWU5nVUVLYXl0d3FrU3B3U0NqQ1E0bGU3SHltSm1RTjk3NHVkdFRKOFRPNl9xZm5VNks1Q3N0bF9EZE4yRjhfZzVzT3dJVE5KZko0RFpxdjBldw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İkinci çeyrekte küresel akıllı telefon gönderileri 13 yılın en düşük seviyesine indi; bellek çipi sıkıntısı etkili oldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T15:01:27.202729+00:00",
+  "type": "news",
+  "cluster_id": "c31b9afa1072b"
+ },
+ {
+  "title": "AB'nin Rusya'dan sıvılaştırılmış doğal gaz ithalatı rekor kırdı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abnin-rusyadan-sivilastirilmis-dogal-gaz-ithalati-rekor-kirdi/3996686",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "AB ülkeleri, Rusya'nın Yamal LNG tesisinden bu yılın ilk yarısında rekor miktarda sıvılaştırılmış doğal gaz ithal ettiler.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-13T15:01:27.202729+00:00",
+  "type": "news",
+  "cluster_id": "cb0c1151fa78f"
+ },
+ {
+  "title": "Türkiye ile Mısır arasında savunma sanayisi alanında niyet mektubu imzalandı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-ile-misir-arasinda-savunma-sanayisi-alaninda-niyet-mektubu-imzalandi/3996672",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye ile Mısır arasında savunma sanayisi alanında niyet mektubu imzalandı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-13T15:01:27.202729+00:00",
+  "type": "news",
+  "cluster_id": "c127c2fd755b7"
+ },
+ {
+  "title": "MASAK'tan Ahbap raporu: 190 milyon liralık bahis ve izaha muhtaç para trafiği",
+  "link": "https://www.trthaber.com/haber/gundem/masaktan-ahbap-raporu-190-milyon-liralik-bahis-ve-izaha-muhtac-para-trafigi-951096.html",
+  "source": "TRT Haber",
+  "summary_tr": "MASAK raporu, Ahbap Derneği soruşturması kapsamında 190 milyon lira bahis ve izaha muhtaç para trafiği tespit etti.",
+  "metric": "Para trafiği: 190 milyon TL",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-13T15:01:27.202729+00:00",
+  "type": "news",
+  "cluster_id": "ca8dc4a6cf775"
+ },
+ {
   "title": "İran'da yeni patlamalar bildirildi, Hürmüz Boğazı'ndan geçişler sınırlı",
   "link": "https://www.bbc.com/turkce/articles/ce8jlnm787jo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -56420,125 +56564,5 @@
   "score": 6,
   "ts": "2026-06-01T13:01:04.538213+00:00",
   "cluster_id": "c2ac1272426aa"
- },
- {
-  "title": "Cumhuriyet CHP’deki tazminatsız işten çıkarmaların perde arkasına ulaştı: Çalışanların eşyaları çalındı, 8 ay önce doğum yapan emekçi atıldı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/cumhuriyet-chp-deki-tazminatsiz-isten-cikarmalarin-perde-arkasina-ulasti-calisanlarin-esyalari-calindi-8-ay-once-dogum-yapan-emekci-atildi-2508384",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP yönetimi 24 parti çalışanını tazminatsız şekilde işten çıkardı; eleştiriler tazminat ve işçi hakları üzerine yoğunlaştı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-01T13:01:04.538213+00:00",
-  "cluster_id": "c6c581269ebf1"
- },
- {
-  "title": "İş dünyası temsilcileri büyüme rakamlarını değerlendirdi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/is-dunyasi-temsilcileri-buyume-rakamlarini-degerlendirdi/3953131",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İş dünyası temsilcileri Türkiye ekonomisinin Q1'de %2,5 büyümesini değerlendirdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-01T13:01:04.538213+00:00",
-  "cluster_id": "c1852a8c1d83b"
- },
- {
-  "title": "MİT Başkanı Kalın, Hamas heyeti ile Ankara'da bir araya geldi",
-  "link": "https://www.aa.com.tr/tr/gundem/mit-baskani-kalin-hamas-heyeti-ile-ankarada-bir-araya-geldi/3953095",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "MİT Başkanı Kalın, Hamas Şura Meclisi Başkanı ve siyasi büro üyeleriyle Ankara'da görüştü.",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-06-01T12:01:04.916536+00:00",
-  "cluster_id": "c3d75d8307b76"
- },
- {
-  "title": "İBB davası: Bir etkin pişmanlık ifadesi daha geri çekildi",
-  "link": "https://www.diken.com.tr/ibb-davasi-bir-etkin-pismanlik-ifadesi-daha-geri-cekildi/?utm_source=rss&utm_medium=rss&utm_campaign=ibb-davasi-bir-etkin-pismanlik-ifadesi-daha-geri-cekildi",
-  "source": "Diken",
-  "summary_tr": "İstanbul Büyükşehir Belediyesi yolsuzluk davasında bir etkin pişmanlık ifadesi daha geri çekildi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-01T12:01:04.916536+00:00",
-  "cluster_id": "c0b834cb8a70c"
- },
- {
-  "title": "Bakan Bayraktar: Türkiye ve Azerbaycan enerjide Avrupa'nın arz güvenliğine önemli katkı sunuyor",
-  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-turkiye-ve-azerbaycan-enerjide-avrupanin-arz-guvenligine-onemli-katki-sunuyor/3953084",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Enerji Bakanı Bayraktar, Türkiye-Azerbaycan enerji işbirliğinin Avrupa'nın arz güvenliğine katkı sunduğunu belirtti.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-01T12:01:04.916536+00:00",
-  "cluster_id": "c72fd40ea3815"
- },
- {
-  "title": "Bakan Bayraktar: Türkiye ve Azerbaycan Avrupa'nın arz güvenliğine önemli katkı sunuyor",
-  "link": "https://www.trthaber.com/haber/ekonomi/bakan-bayraktar-turkiye-ve-azerbaycan-avrupanin-arz-guvenligine-onemli-katki-sunuyor-946804.html",
-  "source": "TRT Haber",
-  "summary_tr": "Enerji Bakanı Bayraktar, Türkiye-Azerbaycan enerji iş birliğinin Avrupa'nın arz güvenliğine katkı sunduğunu vurguladı.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-01T12:01:04.916536+00:00",
-  "cluster_id": "c72fd40ea3815"
- },
- {
-  "title": "ABD-İran arasında karşılıklı saldırılar: Kuveyt'e füze saldırısı düzenlendi",
-  "link": "https://www.bbc.com/turkce/articles/crmprnxkwnro?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD-İran çatışması tırmanıyor: Kuveyt'e füze saldırısı, Hürmüz Boğazı'nda gerginlik artıyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-01T11:01:06.780737+00:00",
-  "cluster_id": "cfb8accc622e3"
- },
- {
-  "title": "İşgalci İsrail ateşkese rağmen Lübnan'da işgal alanını genişletiyor",
-  "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ateskese-ragmen-lubnanda-isgal-alanini-genisletiyor-946793.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail, ateşkese rağmen Lübnan'da Litani Nehri'nin kuzeyine geçerek stratejik Şakif Kalesi'ni işgal etti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-01T11:01:06.780737+00:00",
-  "cluster_id": "cd06c6d5f1dd5"
- },
- {
-  "title": "Iran says contradictory US positions, Israeli attacks on Lebanon delaying diplomacy",
-  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZnIxQXZjN2g5eGVDdkhRLXdlZENwOGFQQk8tamg4eW9sWU1IOVFaV3dFMk9TOGRtUDBRSzBUN1JYY2t2bVFXVDJJb1MtNnJoLU1sSVdWbUs1RkFlTzdWd3ViakVLbnRZb3V4c2pLWmFXX3J0NWctWXhtSUZqZ28yY1g4VlhmSW5pYm5QYkdDS3MyU3d0N3ZRTDdvcWJNT3IzeFhDQnVHUHNzRERlQXNwUDM5SDJRLVJOZVNaUTJnSE1KR1FJY2lSRDJ3N1Rqdw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran, ABD'nin çelişkili duruşu ve İsrail'in Lübnan saldırılarının diplomasi çabalarını geciktirdiğini söyledi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-01T11:01:06.780737+00:00",
-  "cluster_id": "ce245d8cc5c37"
- },
- {
-  "title": "Yarın Meclis'te CHP Grup Toplantısı yapılabilecek mi?",
-  "link": "https://www.dw.com/tr/yarın-meclis-te-chp-grup-toplantısı-yapılabilecek-mi/a-77375503?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "CHP iç krizi derinleşiyor: Özgür Özel, 2 Haziran'da Kılıçdaroğlu'nu hariç tutarak grup toplantısı yapacak.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T11:01:06.780737+00:00",
-  "cluster_id": "c35978e02117a"
- },
- {
-  "title": "İTO: İstanbul'da yıllık enflasyon yüzde 36,77",
-  "link": "https://www.diken.com.tr/ito-istanbulda-yillik-enflasyon-yuzde-3677/?utm_source=rss&utm_medium=rss&utm_campaign=ito-istanbulda-yillik-enflasyon-yuzde-3677",
-  "source": "Diken",
-  "summary_tr": "İTO verilerine göre İstanbul'da yıllık enflasyon Mayıs'ta %36,77'ye ulaştı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T11:01:06.780737+00:00",
-  "cluster_id": "cebdaacc16a20"
- },
- {
-  "title": "Kuşoğlu: “Kemal Bey’in Gruba katılacağını sanmıyorum”",
-  "link": "https://yetkinreport.com/2026/06/01/kusoglu-kemal-beyin-gruba-katilacagini-sanmiyorum/",
-  "source": "YetkinReport",
-  "summary_tr": "Kuşoğlu: Kılıçdaroğlu'nun 2 Haziran'daki CHP Grup Toplantısı'na katılmayacağını düşünüyorum.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T11:01:06.780737+00:00",
-  "cluster_id": "c91ccfe113328"
  }
 ]
