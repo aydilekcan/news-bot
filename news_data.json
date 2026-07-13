@@ -1,5 +1,149 @@
 [
  {
+  "title": "İran'dan bölgede yeni saldırılar, Hürmüz Boğazı'ndan geçişler durdu",
+  "link": "https://www.bbc.com/turkce/articles/ce8jlnm787jo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "İran, ABD üsleri ve radar sistemlerine misilleme saldırısı düzenledi; Hürmüz Boğazı'ndan geçişler durdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-13T11:01:24.387158+00:00",
+  "type": "news",
+  "cluster_id": "c38cf19df235b"
+ },
+ {
+  "title": "CENTCOM: ABD ordusu, İran'a ait onlarca hedefi hassas mühimmatlarla vurdu",
+  "link": "https://www.trthaber.com/haber/dunya/centcom-abd-ordusu-irana-ait-onlarca-hedefi-hassas-muhimmatlarla-vurdu-951076.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD ordusu, İran'ın Hürmüz Boğazı üzerindeki nakliye gemilerine saldırı kapasitesini azaltmak için onlarca hedefi hassas mühimmatlarla vurdu.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-07-13T11:01:24.387158+00:00",
+  "type": "news",
+  "cluster_id": "cd26e269f3123"
+ },
+ {
+  "title": "ABD'den İran kentlerine bombardıman, Tahran'dan Körfez'deki üslere misilleme",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNkV2UzkteEFCekZXNmNGekFOdW9CeUNDMUFvXzNhSGlrSzRxVkt5VmhQbG00U2Jtek1VS1VRbHp3eVVJQl8ySnpHdHAtMWZDLV9SVVVvajFhYnJOdkNwU2Z0bm5MejdBOG9lOFVVanVWcjMwR2NycXpRQWNBY2d5Z3lZWV9ic19pMi0tWWZYbHczQkc1dTBuUFlYdjVXel9DZDJLR09pRnRqZTRHLVlZ?oc=5",
+  "source": "soL",
+  "summary_tr": "ABD, İran kentlerine bombardıman düzenledi; Tahran, Körfez'deki ABD üslerine misilleme yaptı.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-13T11:01:24.387158+00:00",
+  "type": "news",
+  "cluster_id": "cddf11182150e"
+ },
+ {
+  "title": "Avrupa’da uçak yakıtı alarmı: Stoklar 30 günü bile karşılamıyor",
+  "link": "https://www.cumhuriyet.com.tr/dunya/avrupa-da-ucak-yakiti-alarmi-stoklar-30-gunu-bile-karsilamiyor-2520389",
+  "source": "Cumhuriyet",
+  "summary_tr": "Avrupa'nın uçak yakıtı stokları 30 günü bile karşılamıyor; Hürmüz Boğazı'daki gerilim arz tehdit ediyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-13T11:01:24.387158+00:00",
+  "type": "news",
+  "cluster_id": "cdd27245a0a1c"
+ },
+ {
+  "title": "ABD'li şirket açıkladı! Diyarbakır'da Türkiye'nin kaderini değiştirecek petrol rezervi.",
+  "link": "https://www.sozcu.com.tr/abd-li-sirket-acikladi-diyarbakir-da-turkiye-nin-kaderini-degistirecek-petrol-rezervi-p336090",
+  "source": "Sözcü",
+  "summary_tr": "ABD şirketi TransAtlantic Petroleum, Diyarbakır Havzası'nda Türkiye'nin kaderini değiştirebilecek petrol rezervi açıkladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-13T11:01:24.387158+00:00",
+  "type": "news",
+  "cluster_id": "cd74c7c22475e"
+ },
+ {
+  "title": "Volkswagen CEO says 50,000 more job cuts may be needed to close competitive gap",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN2o2QnVTcDBKZVhGQmFLZ2tPUVRIZGJGa2NNdU5kRm9WVzAzQkJ6Z09sQ3JFR19VUUM4M0h2ZncwSW5iS3ZZSTBHeXRCbWg0bFVBb004RGFZcnUzcUtqSHlYS2REQXdqODFfMmgwRTFWZ1RkQVEzbGJ0VFU0QWRwZWgwbmRWRFktMHdLcGlkU3BNWDFDWGVKSlpBbVloZl9vUTh3X3F6R0Y0MGZmNG1oU3lVWFo?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Volkswagen CEO'su, rekabet açığını kapatmak için 50.000 ek işçi çıkarılmasının gerekebileceğini söyledi.",
+  "metric": "Volkswagen ek işçi çıkarma: 50.000",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T11:01:24.387158+00:00",
+  "type": "news",
+  "cluster_id": "c57d1da973cc2"
+ },
+ {
+  "title": "EU imports record LNG volumes from Russia's biggest plant",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNFNYaWdWVnhkOWpJTTItbGUtMUtPdTFoUmlndFExemVGOEsySmx2RkdCVzItZjNtS21sZ2EzMHZLd1MzNzVjNXk1bzdqSUx6dXNvWTBhUVpfSGs5QWQ5TnlKZXVwNHVqY3lONnNWMVNPMjR3U0Iwbm1sTVdZM1RjTUlkaFJWSEtUY0VUS3Vab0swczJpQkthMXlWUm5RMzJMZWQ3c0tR?oc=5",
+  "source": "Reuters",
+  "summary_tr": "AB, Rusya'nın en büyük LNG tesisinden rekor hacimde sıvılaştırılmış gaz ithal etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T11:01:24.387158+00:00",
+  "type": "news",
+  "cluster_id": "c7709d2a09ad1"
+ },
+ {
+  "title": "25 kişinin gözaltına alındığı Muhsin Yazıcıoğlu soruşturması hakkında neler biliniyor?",
+  "link": "https://www.bbc.com/turkce/articles/cvge2zwq0e2o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Muhsin Yazıcıoğlu'nun 2009'daki helikopter kazası soruşturmasında 25 kişi gözaltına alındı; aramalarda 20 tabanca ve 2.507 mermi ele geçirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-13T11:01:24.387158+00:00",
+  "type": "news",
+  "cluster_id": "ca304970e2b66"
+ },
+ {
+  "title": "10 soruda Haluk Levent ve Ahbap dosyası: İddialar neler?",
+  "link": "https://www.dw.com/tr/10-soruda-haluk-levent-ve-ahbap-dosyası-iddialar-neler/a-77931614?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Haluk Levent ve Ahbap Derneği'ne kapsamlı soruşturma başlatıldı; Levent'in üzerinde 4 cep telefonu bulundu.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-13T11:01:24.387158+00:00",
+  "type": "news",
+  "cluster_id": "ca201ad5f9a0d"
+ },
+ {
+  "title": "Muhsin Yazıcıoğlu soruşturmasında yeni ayrıntılar: Aramalarda 20 tabanca ve 2 bin 507 mermi ele geçirildi",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/muhsin-yazicioglu-sorusturmasinda-yeni-ayrintilar-aramalarda-20-tabanca-ve-2-bin-507-mermi-ele-gecirildi-2520392",
+  "source": "Cumhuriyet",
+  "summary_tr": "Muhsin Yazıcıoğlu kazası soruşturmasında yeni ayrıntılar: aramalarda 20 tabanca ve 2.507 mermi ele geçirildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-13T11:01:24.387158+00:00",
+  "type": "news",
+  "cluster_id": "c4829d4861888"
+ },
+ {
+  "title": "Haluk Levent'in Üzerinden 4 cep telefonu çıktı: Şifrelerini polisle paylaşmadı",
+  "link": "https://www.sozcu.com.tr/haluk-levent-in-uzerinden-4-cep-telefonu-cikti-sifrelerini-polisle-paylasmadi-p336093",
+  "source": "Sözcü",
+  "summary_tr": "Ahbap Derneği soruşturmasında gözaltına alınan Haluk Levent'in üzerinde 4 cep telefonu çıktı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-13T11:01:24.387158+00:00",
+  "type": "news",
+  "cluster_id": "ca0c180005264"
+ },
+ {
+  "title": "Ticaret Bakanı Bolat, TCMB Başkanı Karahan ile bir araya geldi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-tcmb-baskani-karahan-ile-bir-araya-geldi/3996399",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ticaret Bakanı Bolat, TCMB Başkanı Karahan ile dış ticaret, ihracat ve ithalatı görüştü.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-13T11:01:24.387158+00:00",
+  "type": "news",
+  "cluster_id": "c08f3014c7c9e"
+ },
+ {
   "title": "Benzine zam bekleniyor",
   "link": "https://www.diken.com.tr/benzine-zam-bekleniyor-2/?utm_source=rss&utm_medium=rss&utm_campaign=benzine-zam-bekleniyor-2",
   "source": "Diken",
@@ -56322,125 +56466,5 @@
   "score": 9,
   "ts": "2026-06-01T08:01:12.533341+00:00",
   "cluster_id": "c08984d42d226"
- },
- {
-  "title": "TÜİK: Ekonomi ilk çeyrekte yüzde 2,5 büyüdü",
-  "link": "https://www.diken.com.tr/tuik-ekonomi-ilk-ceyrekte-yuzde-25-buyudu/?utm_source=rss&utm_medium=rss&utm_campaign=tuik-ekonomi-ilk-ceyrekte-yuzde-25-buyudu",
-  "source": "Diken",
-  "summary_tr": "TÜİK: Türkiye ekonomisi ilk çeyrekte yüzde 2,5 büyüdü.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-01T08:01:12.533341+00:00",
-  "cluster_id": "c3cb562b441d4"
- },
- {
-  "title": "BBC: İran'ın misillemesinde 20 ABD üssü hasar aldı",
-  "link": "https://www.trthaber.com/haber/dunya/bbc-iranin-misillemesinde-20-abd-ussu-hasar-aldi-946753.html",
-  "source": "TRT Haber",
-  "summary_tr": "BBC: İran'ın misillemesinde 28 Şubat saldırılarına karşı ABD'ye ait 20 askeri tesis hasar aldı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-01T08:01:12.533341+00:00",
-  "cluster_id": "ca117ade09983"
- },
- {
-  "title": "Akaryakıtta tabelalar değişiyor: Benzin ve motorin fiyatlarına indirim yolda",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/akaryakitta-tabelalar-degisiyor-benzin-ve-motorin-fiyatlarina-indirim-yolda-2508326",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD-İran gerilimi azalması ve Hürmüz Boğazı tanker geçişlerinin yeniden başlaması küresel petrol fiyatlarını düşürdü; akaryakıt fiyatlarında indirim bekleniyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T08:01:12.533341+00:00",
-  "cluster_id": "ce8fd982c136e"
- },
- {
-  "title": "France's Macron says French Navy boarded Russia-linked oil tanker",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNjRkd1JwTGZ1ZXFMMkdtUWlPZlZjMU1SUElIMWZYMzVZZGVMVm9pX3d3M3JsUGlsTXlKdm9sSXF4c29BcEtDRFA3REd1RFhSYkI5QWZadU1RNG1nTGg0R1ktMFJxeklYZzBnNFBBVHZmMVJrNlc1LTg1SzNHdlVMZF9QMkYwZm5xRlJUaEU4d0Z6LW5leW1XRjEtNE1QNWlmNGpfTFl6V2lRdw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Macron: Fransa Donanması Rusya bağlantılı bir petrol tankeri denetledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T08:01:12.533341+00:00",
-  "cluster_id": "ccd7589b323cb"
- },
- {
-  "title": "US proposes new plan to ease Israel-Lebanon tensions amid fighting",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVGtjd242MlB2VFBVVTZkTkc4c1pKVlBUcVJuWnpiaXVHQmUySDBZbmVHTlE4ZTROWnNfWGJOSDdURGZsejVGdlpjcGNZNGlxNmZiZTdjQWNWRzlRczQzRERqRU5sWWhhY0dRcU1YcUxWekQzRHRZTl9nQ1ktM2dCTWh4Wi1jZC1GMElDS3hGVElTbXkxYlRlN3NRazFKQWUtUThZeXlFYzlmMmRfRE56RA?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, savaş ortamında İsrail-Lübnan gerilimini hafifletmek için yeni bir plan önerdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T08:01:12.533341+00:00",
-  "cluster_id": "ca50f81ea150c"
- },
- {
-  "title": "Kolombiya’da seçim krizi: Petro ilk tur sonuçlarını tanımadı",
-  "link": "https://www.cumhuriyet.com.tr/dunya/kolombiya-da-secim-krizi-petro-ilk-tur-sonuclarini-tanimadi-2508324",
-  "source": "Cumhuriyet",
-  "summary_tr": "Kolombiya'da cumhurbaşkanı seçimi: Cumhuş Petro ilk tur sonuçlarında ayrıntı özeleştiri tarafına açıklığını tanımadı; ikinci tur yapılacak.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-01T08:01:12.533341+00:00",
-  "cluster_id": "cd060e561f47a"
- },
- {
-  "title": "Sayıştay Başkanı seçimi için başvuru süreci başladı",
-  "link": "https://www.sozcu.com.tr/sayistay-baskani-secimi-icin-basvuru-sureci-basladi-p324156",
-  "source": "Sözcü",
-  "summary_tr": "TBMM Başkanlığı Sayıştay Başkanı seçimi için başvuru sürecini başlattı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-01T08:01:12.533341+00:00",
-  "cluster_id": "c53b3cab19cb1"
- },
- {
-  "title": "TİM İhracat Pazar Monitörü'nün nisan sonuçları açıklandı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/tim-ihracat-pazar-monitorunun-nisan-sonuclari-aciklandi/3952765",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "TİM İhracat Pazar Monitörü: Nisan ayında İhracat Talep Endeksi 99,7'ye ulaştı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-01T08:01:12.533341+00:00",
-  "cluster_id": "c62d580b8f9b8"
- },
- {
-  "title": "Borusan, ABD'de yaklaşık 742 milyon dolarlık yeni sipariş aldı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/borusan-abdde-yaklasik-742-milyon-dolarlik-yeni-siparis-aldi/3952760",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Borusan Berg Pipe, ABD'de 742 milyon dolarlık yeni sipariş aldı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-01T08:01:12.533341+00:00",
-  "cluster_id": "cbc2741c22bbd"
- },
- {
-  "title": "İSO Türkiye İmalat PMI mayısta 49,8'e yükseldi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/iso-turkiye-imalat-pmi-mayista-49-8e-yukseldi/3952762",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İSO: Türkiye İmalat PMI mayısta 49,8'e yükseldi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-01T08:01:12.533341+00:00",
-  "cluster_id": "c37dafb142e19"
- },
- {
-  "title": "Lübnan Cumhurbaşkanı Avn: Bu zorlu günlerde devleti yeniden ayağa kaldırmak için kararlı adımlar atıyoruz",
-  "link": "https://www.aa.com.tr/tr/dunya/lubnan-cumhurbaskani-avn-bu-zorlu-gunlerde-devleti-yeniden-ayaga-kaldirmak-icin-kararli-adimlar-atiyoruz/3952714",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Lübnan Cumhurbaşkanı Avn: İsrail saldırıları ve iç sorunlarla karşı karşıya olan ülkeyi ayağa kaldırmak için kararlı adımlar atıyoruz.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-01T08:01:12.533341+00:00",
-  "cluster_id": "cdec79df3e07f"
- },
- {
-  "title": "Petrol fiyatları jeopolitik risklerle yeniden tırmanışa geçti",
-  "link": "https://www.trthaber.com/haber/ekonomi/petrol-fiyatlari-jeopolitik-risklerle-yeniden-tirmanisa-gecti-946758.html",
-  "source": "TRT Haber",
-  "summary_tr": "Petrol fiyatları jeopolitik risklerle yeniden yükselişe geçti; Brent petrol varili 93,33 dolarda işlem görüyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-01T08:01:12.533341+00:00",
-  "cluster_id": "ca862d979d8ba"
  }
 ]
