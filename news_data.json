@@ -1,5 +1,149 @@
 [
  {
+  "title": "Trump'tan Hürmüz Boğazı çıkışı: Gemilerden ücret alacağız",
+  "link": "https://www.dw.com/tr/trump-tan-hürmüz-boğazı-çıkışı-gemilerden-ücret-alacağız/a-77941469?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Trump, Hürmüz Boğazı'ndan geçen gemilerden ücret almayı yeniden uygulamaya koyduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-13T18:01:28.273749+00:00",
+  "type": "news",
+  "cluster_id": "c5e39165f5339"
+ },
+ {
+  "title": "ABD-İran gerilimi tırmandı, petrol fırladı",
+  "link": "https://www.sozcu.com.tr/abd-iran-gerilimi-tirmandi-petrol-firladi-p336203",
+  "source": "Sözcü",
+  "summary_tr": "ABD-İran geriliminin etkisiyle Brent petrol fiyatı yükseldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-13T18:01:28.273749+00:00",
+  "type": "news",
+  "cluster_id": "c79a945cdc79c"
+ },
+ {
+  "title": "Husiler saldırdı: Çatışmalar Suudi Arabistan'a sıçradı",
+  "link": "https://www.sozcu.com.tr/catismalar-suudi-arabistan-a-sicradi-p336202",
+  "source": "Sözcü",
+  "summary_tr": "İran destekli Husiler Suudi Arabistan'a saldırı düzenledi; çatışmalar tırmandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-13T18:01:28.273749+00:00",
+  "type": "news",
+  "cluster_id": "c1afc22e4aec4"
+ },
+ {
+  "title": "ABD Deniz dronlarını ilk kez sıcak çatışmada kullandı; İran tesislerini vurdu",
+  "link": "https://www.sozcu.com.tr/abd-deniz-dronu-kullandi-p336200",
+  "source": "Sözcü",
+  "summary_tr": "ABD, insansız deniz araçlarıyla ilk kez sıcak çatışmada İran donanma tesislerini vurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-13T18:01:28.273749+00:00",
+  "type": "news",
+  "cluster_id": "c92aa073c5ab7"
+ },
+ {
+  "title": "Brent petrolün fiyatı ABD-İran geriliminin etkisiyle 80 doları aştı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/brent-petrolun-fiyati-abd-iran-geriliminin-etkisiyle-80-dolari-asti/3996896",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Brent petrol fiyatı ABD-İran geriliminin etkisiyle 80 doları aştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-13T18:01:28.273749+00:00",
+  "type": "news",
+  "cluster_id": "c6fa8e5727b09"
+ },
+ {
+  "title": "115 kişinin öldüğü Penta Park Sitesi davasında karar",
+  "link": "https://www.diken.com.tr/115-kisinin-oldugu-penta-park-sitesi-davasinda-karar/?utm_source=rss&utm_medium=rss&utm_campaign=115-kisinin-oldugu-penta-park-sitesi-davasinda-karar",
+  "source": "Diken",
+  "summary_tr": "6 Şubat depremlerinde 115 kişinin öldüğü Penta Park Sitesi davasında mahkeme karar verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T18:01:28.273749+00:00",
+  "type": "news",
+  "cluster_id": "c3ad5b6441829"
+ },
+ {
+  "title": "Depremde 115 kişinin öldüğü Penta Park Sitesi 1. ve 3. Bloklara ilişkin davada karar çıktı",
+  "link": "https://www.aa.com.tr/tr/gundem/depremde-115-kisinin-oldugu-penta-park-sitesi-1-ve-3-bloklara-iliskin-davada-karar-cikti/3996886",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Depremde 115 kişinin öldüğü Penta Park Sitesi davasında karar çıktı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T18:01:28.273749+00:00",
+  "type": "news",
+  "cluster_id": "c3ad5b6441829"
+ },
+ {
+  "title": "Depremde 115 kişinin öldüğü Penta Park Sitesi davasında karar",
+  "link": "https://www.trthaber.com/haber/turkiye/depremde-115-kisinin-oldugu-penta-park-sitesi-davasinda-karar-951104.html",
+  "source": "TRT Haber",
+  "summary_tr": "Depremde 115 kişinin öldüğü Penta Park Sitesi davasında mahkeme karar verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T18:01:28.273749+00:00",
+  "type": "news",
+  "cluster_id": "c3ad5b6441829"
+ },
+ {
+  "title": "Ukrayna Başbakanı Sviridenko, parlamentoya istifa dilekçesini sundu",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/ukrayna-basbakani-sviridenko-parlamentoya-istifa-dilekcesini-sundu-2520519",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ukrayna Başbakanı Yuliya Sviridenko istifa dilekçesini parlamentoya sundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T18:01:28.273749+00:00",
+  "type": "news",
+  "cluster_id": "c9bf2dd554dfa"
+ },
+ {
+  "title": "Suudi Arabistan'da hava savunma sistemleri devreye girdi",
+  "link": "https://www.trthaber.com/haber/dunya/suudi-arabistanda-hava-savunma-sistemleri-devreye-girdi-951103.html",
+  "source": "TRT Haber",
+  "summary_tr": "Suudi Arabistan hava savunma sistemlerini devreye aldı; Husilerin füze saldırısına karşı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T18:01:28.273749+00:00",
+  "type": "news",
+  "cluster_id": "cd25150dafc6c"
+ },
+ {
+  "title": "Ukraine awaits new government after prime minister's shock dismissal",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTWgwQjdDV2piQVFsWGljUnBQMnItQlNVcVRJVXlrNmR3d3BDNTZBd2hCRlh3anpMc2hGelZhLTRkcE90bHgtWlBFaFhYa0F4UnIzZVQycDl5dUEyUk56TTE5Zl9aVE0wZXJoZjNlNkpNLXI4RW43Wmd3RXJJOVlNOFlYZjN1UzVBSnVRdTZDU29TMG9FanV5MHhITkRzQkhNWkNTUG5jaGVjeUFTdDNIQUZsZHhHRzQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ukrayna başbakanının ani görevden alınmasının ardından yeni hükümet bekleniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T18:01:28.273749+00:00",
+  "type": "news",
+  "cluster_id": "c9bb81a866f0f"
+ },
+ {
+  "title": "Iran-backed Houthis accuse Saudi Arabia of striking Yemen’s international airport",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMGJJX3RrZlBnOUd3aXc5VlloY3JNOVN4V0xqX1EycG5QcU5DNUlWQU1qNmZWbUpMTTFLZjdyTzY1NTFNOFJ1d3F1aFlobUMzN1VDdnp3RWJibHI2MGFaaWZzdTJGVEJfYlFVZk5DUVRCN1V6Z1JOMTl5aldnOFUtUXdSSFFEZmR4ZUhueEM0M1o4VE4wck1HTmF5SQ?oc=5",
+  "source": "AP",
+  "summary_tr": "Husiler, Suudi Arabistan'ın Yemen'in uluslararası havalimanına saldırı düzenlediğini ileri sürdü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T18:01:28.273749+00:00",
+  "type": "news",
+  "cluster_id": "c4f2ad8cffbc7"
+ },
+ {
   "title": "Babacan ile emekli vatandaş arasında dikkat çeken diyalog",
   "link": "https://www.sozcu.com.tr/babacan-ile-emekli-vatandas-arasinda-dikkat-ceken-diyalog-p336193",
   "source": "Sözcü",
@@ -56458,125 +56602,5 @@
   "score": 6,
   "ts": "2026-06-01T15:01:04.745174+00:00",
   "cluster_id": "cd54dfb0ed682"
- },
- {
-  "title": "Meclis başkanlığı, grup toplantısı için CHP'ye yazacak",
-  "link": "https://www.diken.com.tr/meclis-baskanligi-grup-toplantisi-icin-chpye-yazacak/?utm_source=rss&utm_medium=rss&utm_campaign=meclis-baskanligi-grup-toplantisi-icin-chpye-yazacak",
-  "source": "Diken",
-  "summary_tr": "TBMM Meclis Başkanlığı, CHP grup başkanlığı tartışmaları çerçevesinde Özgür Özel'in grup toplantısı için yazacak.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-01T15:01:04.745174+00:00",
-  "cluster_id": "c8ef64942e971"
- },
- {
-  "title": "Kemal Kılıçdaroğlu’nun 'FETÖ' sözleri sonrası İlker Başbuğ’dan açıklama: 'Özgür Özel, akla gelecek en son isimlerden biridir'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/kemal-kilicdaroglu-nun-feto-sozleri-sonrasi-ilker-basbug-dan-aciklama-ozgur-ozel-akla-gelecek-en-son-isimlerden-biridir-2508432",
-  "source": "Cumhuriyet",
-  "summary_tr": "Eski Genelkurmay Başkanı İlker Başbuğ, Kılıçdaroğlu'nun FETÖ ithamlarına yanıt verdi; Özgür Özel'e destek açıklaması yaptı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-01T15:01:04.745174+00:00",
-  "cluster_id": "c4ad3ea91e499"
- },
- {
-  "title": "Bakan Uraloğlu, Bakü-Tiflis-Kars Demir Yolu Hattı'nın açılış törenine katılacak",
-  "link": "https://www.aa.com.tr/tr/gundem/bakan-uraloglu-baku-tiflis-kars-demir-yolu-hattinin-acilis-torenine-katilacak/3953304",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Ulaştırma Bakanı Uraloğlu, Bakü-Tiflis-Kars Demir Yolu Hattı'nın tam kapasiteyle işletmeye alınması törenine katılacak.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-01T15:01:04.745174+00:00",
-  "cluster_id": "c266a300cb51e"
- },
- {
-  "title": "Demir İpek Yolu'nda dev adım: BTK Hattı tam kapasiteye geçiyor",
-  "link": "https://www.trthaber.com/haber/gundem/demir-ipek-yolunda-dev-adim-btk-hatti-tam-kapasiteye-geciyor-946818.html",
-  "source": "TRT Haber",
-  "summary_tr": "Bakü-Tiflis-Kars Demir Yolu Hattı tam kapasiteyle işletmeye alınıyor.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-01T15:01:04.745174+00:00",
-  "cluster_id": "ca74716a7fd48"
- },
- {
-  "title": "İmamoğlu: Allah affetsin ama millet affetmeyecek",
-  "link": "https://www.diken.com.tr/imamoglu-allah-affetsin-ama-millet-affetmeyecek/?utm_source=rss&utm_medium=rss&utm_campaign=imamoglu-allah-affetsin-ama-millet-affetmeyecek",
-  "source": "Diken",
-  "summary_tr": "İmamoğlu, mahkeme kararıyla CHP genel başkanlığına oturan Kılıçdaroğlu'na tepki göstererek \"millet affetmeyecek\" dedi.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-06-01T14:01:07.750724+00:00",
-  "cluster_id": "c05506c609240"
- },
- {
-  "title": "Kılıçdaroğlu'nun danışmanı: Parti yöneticilerine hakaret edenlerle devamsızlık yapanlar işten çıkarıldı",
-  "link": "https://www.diken.com.tr/kilicdaroglunun-danismani-parti-yoneticilerine-hakaret-edenlerle-devamsizlik-yapanlar-isten-cikarildi/?utm_source=rss&utm_medium=rss&utm_campaign=kilicdaroglunun-danismani-parti-yoneticilerine-hakaret-edenlerle-devamsizlik-yapanlar-isten-cikarildi",
-  "source": "Diken",
-  "summary_tr": "Kılıçdaroğlu'nun danışmanı, parti yöneticilerine hakaret edenler ve devamsızlık yapanların işten çıkarıldığını bildirdi.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-06-01T14:01:07.750724+00:00",
-  "cluster_id": "cab21be7cd018"
- },
- {
-  "title": "İran’dan ABD ile mesaj trafiğini durdurma kararı",
-  "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-abd-ile-mesaj-trafigini-durdurma-karari-2508417",
-  "source": "Cumhuriyet",
-  "summary_tr": "İran, İsrail'in Lübnan'a yönelik saldırıları nedeniyle arabulucular üzerinden ABD ile mesaj alışverişini durdurdu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-01T14:01:07.750724+00:00",
-  "cluster_id": "c0be95c81a34e"
- },
- {
-  "title": "BM raportörlerine göre, Filistin topraklarını gasbeden İsraillilerin şiddeti benzeri görülmemiş seviyelerde",
-  "link": "https://www.aa.com.tr/tr/dunya/bm-raportorlerine-gore-filistin-topraklarini-gasbeden-israillilerin-siddeti-benzeri-gorulmemis-seviyelerde/3953214",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "BM raportörleri, İsrail'in işgal altındaki Filistin topraklarında uyguladığı devlet destekli şiddetin 2026'da eşi benzeri görülmemiş seviyelerde olduğunu bildirdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-01T14:01:07.750724+00:00",
-  "cluster_id": "cef04aa1f4da0"
- },
- {
-  "title": "Dışişleri Bakanlığı, İsrail'in Lübnan'daki işgalini genişletmesini en güçlü biçimde kınadı",
-  "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligi-israilin-lubnandaki-isgalini-genisletmesini-en-guclu-bicimde-kinadi/3953216",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye Dışişleri Bakanlığı, İsrail'in Lübnan'daki işgalini genişletmesini en güçlü biçimde kınadı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-01T14:01:07.750724+00:00",
-  "cluster_id": "cf1ac4b63ddd7"
- },
- {
-  "title": "İran, İsrail'in Lübnan'a saldırıları nedeniyle ABD'yle olan mesaj alışverişini durdurdu",
-  "link": "https://www.trthaber.com/haber/dunya/iran-israilin-lubnana-saldirilari-nedeniyle-abdyle-olan-mesaj-alisverisini-durdurdu-946810.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran, İsrail'in Lübnan'a yönelik saldırıları nedeniyle müzakereler kapsamında ABD'yle mesaj alışverişini durdurdu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-01T14:01:07.750724+00:00",
-  "cluster_id": "cdb79c1c6b064"
- },
- {
-  "title": "Türkiye'den İsrail'in Lübnan'daki işgalini genişletmesine sert tepki",
-  "link": "https://www.trthaber.com/haber/gundem/turkiyeden-israilin-lubnandaki-isgalini-genisletmesine-sert-tepki-946809.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye Dışişleri Bakanlığı, İsrail'in Lübnan topraklarındaki işgal faaliyetlerini artırmasına sert tepki gösterdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-01T14:01:07.750724+00:00",
-  "cluster_id": "cfb8fe557571b"
- },
- {
-  "title": "TÜRK-İŞ: Açlık sınırı 35 bin TL, yoksulluk sınırı 114 bin TL",
-  "link": "https://www.dw.com/tr/türk-iş-açlık-sınırı-35-bin-tl-yoksulluk-sınırı-114-bin-tl/a-77379034?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "TÜRK-İŞ Mayıs 2026 verilerine göre dört kişilik ailenin açlık sınırı 35 bin TL, yoksulluk sınırı 114 bin TL'ye yükseldi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T14:01:07.750724+00:00",
-  "cluster_id": "c6c51e0330942"
  }
 ]
