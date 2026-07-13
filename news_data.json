@@ -1,5 +1,41 @@
 [
  {
+  "title": "İSKİ, Maliye’ye 46 milyon dolar ödeyecek",
+  "link": "https://www.sozcu.com.tr/iski-maliye-ye-46-milyon-dolar-odeyecek-p335935",
+  "source": "Sözcü",
+  "summary_tr": "İSKİ, Sazlıdere barajının kaldırılmasına ilişkin Maliye'ye 46 milyon dolar ödeyecek.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-13T03:01:12.286751+00:00",
+  "type": "news",
+  "cluster_id": "caf15381257ec"
+ },
+ {
+  "title": "Müdürlere zam yaptı asıl mağdurları unuttu",
+  "link": "https://www.sozcu.com.tr/mudurlere-zam-yapti-asil-magdurlari-unuttu-p335934",
+  "source": "Sözcü",
+  "summary_tr": "Milli Eğitim Bakanlığı müdürlere özel hizmet tazminatı artırdı: 3.713 TL'den 7.000 TL'ye (tahmini %89 artış).",
+  "metric": "Özel hizmet tazminatı 3.713 TL -> ~7.000 TL (+%89)",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-13T03:01:12.286751+00:00",
+  "type": "news",
+  "cluster_id": "c42aace570895"
+ },
+ {
+  "title": "Tavuğa zam yolda!",
+  "link": "https://www.sozcu.com.tr/tavuga-zam-yolda-p335923",
+  "source": "Sözcü",
+  "summary_tr": "Tavuk eti fiyatları iki kat arttı; tüketicilere de aynı oranda yansıması bekleniyor.",
+  "metric": "Beyaz et fiyatı yaklaşık iki katına çıktı",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-13T03:01:12.286751+00:00",
+  "type": "news",
+  "cluster_id": "c4fbe1f224da9"
+ },
+ {
   "title": "Yüzde 30’a varan ek ara mal gümrük vergisinin faturası yurttaşa çıkacak: İçi boş korumacılık",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/yuzde-30-a-varan-ek-ara-mal-gumruk-vergisinin-faturasi-yurttasa-cikacak-ici-bos-korumacilik-2520246",
   "source": "Cumhuriyet",
@@ -56288,35 +56324,5 @@
   "score": 7,
   "ts": "2026-05-31T18:00:49.682012+00:00",
   "cluster_id": "c0db1a6e82071"
- },
- {
-  "title": "221 eski CHP’li vekilden derhal olağanüstü kurultay çağrısı",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUk8tMkZtNDJsVnBKd1dXQk5LUkFacjRlQmFXOEJuMWtydzVPMF9kc1kxWExfc1ZSMzVqWXRGMkNYOE1GYjZyMjFUSVZPYVJOUS1YMGpOdGx5eEF1cnRoRnlfTVllWkpSalVMekM4OUI5WVExT1ZJUHhIbkE3MjRwTVlnMFJyNElXMWpRbktHUnhoNWVyTlNr?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "221 eski CHP'li vekilden CHP için derhal olağanüstü kurultay çağrısı yapıldı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-31T18:00:49.682012+00:00",
-  "cluster_id": "c9de34beb51f3"
- },
- {
-  "title": "Ukraine hits Russian energy targets and denies striking Kremlin-occupied nuclear plant",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS3RMcTJSR0lheGNpamhvbVozMG9uV3pUalVSQV81M1VhUlpCejU5ZGoxc1UwN0ppMmxPT3d0Yk9WNGdTTzQ5WXM3Z3lSOHJFYU1qTl9oOVZIeURBSzI0aDRDeDZnNGxTcGpsOTNFSjVwaVlNaVhmTEsxVkkxb3hRT3FRNWM3Vjk1UGdoa1lJVl9hT0g1dXM1ZzdTM293NmdN?oc=5",
-  "source": "AP",
-  "summary_tr": "Ukrayna Rus enerji altyapısını vuştu; Kremlin kontrol alanındaki nükleer tesise saldırı yaptığını reddetti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-31T17:00:46.382262+00:00",
-  "cluster_id": "c0bdbbdc27fea"
- },
- {
-  "title": "İsrail hapishanelerindeki idari tutuklu sayısı mayıs ayı itibarıyla 3 bin 376'ya yükseldi",
-  "link": "https://www.aa.com.tr/tr/dunya/-israil-hapishanelerindeki-idari-tutuklu-sayisi-mayis-ayi-itibariyla-3-bin-376ya-yukseldi/3952474",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail hapishanelerinde Filistinli esirlerden 139'una idari tutukluluk kararı verildi; toplam sayı 3.376'ya ulaştı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T17:00:46.382262+00:00",
-  "cluster_id": "c9e6417639ffe"
  }
 ]
