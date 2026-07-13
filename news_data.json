@@ -1,5 +1,101 @@
 [
  {
+  "title": "Benzine zam bekleniyor",
+  "link": "https://www.diken.com.tr/benzine-zam-bekleniyor-2/?utm_source=rss&utm_medium=rss&utm_campaign=benzine-zam-bekleniyor-2",
+  "source": "Diken",
+  "summary_tr": "Benzine 1 lira 60 kuruş zam bekleniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T10:01:16.014831+00:00",
+  "type": "news",
+  "cluster_id": "c9e5851033f92"
+ },
+ {
+  "title": "Bakan Bolat: Cari işlemler açığı ikinci çeyrekte 12 milyar dolara gerileyecek",
+  "link": "https://www.trthaber.com/haber/ekonomi/bakan-bolat-cari-islemler-acigi-ikinci-ceyrekte-12-milyar-dolara-gerileyecek-951071.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ticaret Bakanı Bolat, cari işlemler açığının birinci çeyrekte 23,6 milyar dolardan ikinci çeyrekte 12 milyar dolara ineceğini öngördü.",
+  "metric": "Cari işlemler açığı 23,6 milyar $ -> 12,5 milyar $ (tahmini)",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-13T10:01:16.014831+00:00",
+  "type": "news",
+  "cluster_id": "ca5b2a2ae5c22"
+ },
+ {
+  "title": "Iran widens attacks on US bases in Gulf, Hormuz tensions lift oil prices",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMG0wMGZybUNSMnZyOWQzck1Eb0JwcFdfWUVXNlBYbk10c3VveDRrdzVpYVJhNjdwdUdnR1ZMZDhVTXdnWE41M09iZnZwUmJzbEpsX2V0Q2xDWmdHVjZGRkxtRmVsOFU2OWM3aGsyUGljckNVb1F1WlpmMk5GQVE4S0Q4QXJQYlI4V1hZSktORXBZYm1YXzNsQUYwQ2dOSUJtSTJrNmpvR3M5Q2szcXYzWENxeGFIbnRHS0lhaXdnN3FFcnM?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran, Körfez'deki ABD üslerine yönelik saldırılarını genişleterek Hormuz Boğazı gerilimini artırdı ve petrol fiyatlarını yükseltti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T10:01:16.014831+00:00",
+  "type": "news",
+  "cluster_id": "c904ed95541b2"
+ },
+ {
+  "title": "Volkswagen CEO threatens 50,000 more job cuts in memo to staff",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN2o2QnVTcDBKZVhGQmFLZ2tPUVRIZGJGa2NNdU5kRm9WVzAzQkJ6Z09sQ3JFR19VUUM4M0h2ZncwSW5iS3ZZSTBHeXRCbWg0bFVBb004RGFZcnUzcUtqSHlYS2REQXdqODFfMmgwRTFWZ1RkQVEzbGJ0VFU0QWRwZWgwbmRWRFktMHdLcGlkU3BNWDFDWGVKSlpBbVloZl9vUTh3X3F6R0Y0MGZmNG1oU3lVWFo?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Volkswagen CEO'su, personel temennamesinde 50 bin kişi daha işten çıkarma tehdidinde bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T10:01:16.014831+00:00",
+  "type": "news",
+  "cluster_id": "ce00e18c9e380"
+ },
+ {
+  "title": "TCMB mayıs ayı ödemeler dengesini açıkladı: Rezervlerdeki düşüş 3 milyar doları aştı",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/tcmb-mayis-ayi-odemeler-dengesini-acikladi-rezervlerdeki-dusus-3-milyar-dolari-asti-2520369",
+  "source": "Cumhuriyet",
+  "summary_tr": "TCMB mayıs ödemeler dengesinde dış rezervlerde 3 milyar doları aşan düşüş yaşandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-13T10:01:16.014831+00:00",
+  "type": "news",
+  "cluster_id": "cee650f2ba33c"
+ },
+ {
+  "title": "Dev Alman bankası Türk lirası için uyardı",
+  "link": "https://www.sozcu.com.tr/dev-alman-bankasi-turk-lirasi-icin-uyardi-p336059",
+  "source": "Sözcü",
+  "summary_tr": "Alman Commerzbank, yüksek enflasyon ve dış riskler nedeniyle Türk lirasının değer kaybetmesi uyarısında bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-13T10:01:16.014831+00:00",
+  "type": "news",
+  "cluster_id": "cdf236c02f847"
+ },
+ {
+  "title": "Türkiye'den Norveç'e ihracatta ilk yarı rekoru",
+  "link": "https://www.trthaber.com/haber/ekonomi/turkiyeden-norvece-ihracatta-ilk-yari-rekoru-951070.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye'nin Norveç'e ihracatı ilk yarıda %38 artarak 615 milyon 992 bin dolara ulaştı.",
+  "metric": "Norveç'e ihracat yıl-bazında +%38",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-13T10:01:16.014831+00:00",
+  "type": "news",
+  "cluster_id": "c5672acd092d4"
+ },
+ {
+  "title": "China's GDP growth set to slow, raising expectations for more stimulus",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaDRzUXJhcGQwVGFqa24yUkZSTjVKbzh6WURPM1YwT1NsUWp5TEI4UE1lSS1HRVZHa3p2el83Ui12d2hTYnBFdExxOFQwZmw5eGpDWFdoSmFXYmpoTFZkT3lTd1paRnkwMlFITnQwdHYxbmxQdEpncGhDU0ZlZ0laQ210NE9YVG1VTHotTlpsaDdETkdiaUwxazBpWlZPdnlVcEQ4N3FJZ0dIeTZXSVE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin ekonomisinin büyüme hızı yavaşlaması beklentileri, daha fazla teşvik paketine yönelik beklentileri artırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-13T10:01:16.014831+00:00",
+  "type": "news",
+  "cluster_id": "c329e6942a86b"
+ },
+ {
   "title": "İran: Saldırılar hızlandı, Hürmüz'den geçişler dip yaptı",
   "link": "https://www.dw.com/tr/iran-saldırılar-hızlandı-hürmüz-den-geçişler-dip-yaptı/a-77928222?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -56346,85 +56442,5 @@
   "score": 6,
   "ts": "2026-06-01T08:01:12.533341+00:00",
   "cluster_id": "ca862d979d8ba"
- },
- {
-  "title": "İzmir'de Buca Belediyesine yönelik operasyonda Belediye Başkanı Duman ve 52 şüpheli yakalandı",
-  "link": "https://www.aa.com.tr/tr/gundem/izmirde-buca-belediyesine-yonelik-operasyonda-belediye-baskani-duman-ve-52-supheli-yakalandi/3952638",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İzmir Buca Belediye Başkanı Görkem Duman ve 52 şüpheli yolsuzluk operasyonunda yakalandı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T07:00:55.356088+00:00",
-  "cluster_id": "c2b26423bd153"
- },
- {
-  "title": "Trump, İran'ın ABD ile anlaşmaya varmak istediğini savundu",
-  "link": "https://www.aa.com.tr/tr/live-blog/trump-iranin-abd-ile-anlasmaya-varmak-istedigini-savundu/3040",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Trump, İran'ın ABD ile anlaşma yapmak istediğini savundu ve bu anlaşmanın her iki taraf için faydalı olacağını belirtti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T07:00:55.356088+00:00",
-  "cluster_id": "c2c0f48f844ea"
- },
- {
-  "title": "Trump: İran anlaşmaya hazır",
-  "link": "https://www.trthaber.com/haber/dunya/trump-iran-anlasmaya-hazir-946745.html",
-  "source": "TRT Haber",
-  "summary_tr": "Trump, İran'ın gerçekten anlaşma yapmak istediğini savundu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T07:00:55.356088+00:00",
-  "cluster_id": "c31135a682914"
- },
- {
-  "title": "Trump says Iran really wants to make a deal with the US",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOWlIZXNlZGs2OUx6T1lmZW9qTDBFWTZYTWlGVThNNzB6WmtJTnNXX1puQUl5aDc0cnF1azFpdDhMem45T0dKQlQ5anctNm5sbG5KdGFJMWZ4azJqWkVQVHI1QVB5U0pqR2dHTWJMc0tSeU0zbjRtaS1sMnNVdWxDQWxORmQtRkxnTU1QNmVicmlCQmVWS25qSlNPTnVOWHl2dVE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, İran'ın ABD ile anlaşma yapmak istediğini ve bunun her iki taraf için faydalı olacağını söyledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T07:00:55.356088+00:00",
-  "cluster_id": "cea140cb235eb"
- },
- {
-  "title": "ASELSAN ile SSB arasında 845 milyon dolarlık sözleşmeler imzalandı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/aselsan-ile-ssb-arasinda-845-milyon-dolarlik-sozlesmeler-imzalandi/3952650",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ASELSAN ile Savunma Sanayii Başkanlığı arasında toplam 845 milyon dolarlık sözleşmeler imzalandı.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-01T07:00:55.356088+00:00",
-  "cluster_id": "c6b84fec4e4a7"
- },
- {
-  "title": "ASELSAN ile SSB arasında 845 milyon dolarlık yeni anlaşma",
-  "link": "https://www.trthaber.com/haber/ekonomi/aselsan-ile-ssb-arasinda-845-milyon-dolarlik-yeni-anlasma-946748.html",
-  "source": "TRT Haber",
-  "summary_tr": "ASELSAN ile SSB arasında kamu güvenliği haberleşme ve uydu sistemlerine yönelik toplam 845 milyon dolarlık anlaşma imzalandı.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-01T07:00:55.356088+00:00",
-  "cluster_id": "c6b84fec4e4a7"
- },
- {
-  "title": "Rusya uçak yakıtı ihracatını yasakladı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/rusya-ucak-yakiti-ihracatini-yasakladi/3952625",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Rusya, uçak yakıtı ihracatını 30 Kasım'a kadar geçici olarak yasakladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-01T07:00:55.356088+00:00",
-  "cluster_id": "c26c0374686b4"
- },
- {
-  "title": "İsrail ordusu Batı Şeria'da sebze pazarındaki iş yerlerini yıktı",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-bati-seriada-sebze-pazarindaki-is-yerlerini-yikti/3952623",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail ordusu, işgal altındaki Batı Şeria'nın Nablus kentinde sebze pazarı iş yerlerini yıktı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-01T07:00:55.356088+00:00",
-  "cluster_id": "ca0a4fec8d0a0"
  }
 ]
