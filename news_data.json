@@ -1,5 +1,53 @@
 [
  {
+  "title": "Trump, İran'a yönelik ABD deniz ablukasının yeniden başladığını duyurdu",
+  "link": "https://www.aa.com.tr/tr/dunya/trump-irana-yonelik-abd-deniz-ablukasinin-yeniden-basladigini-duyurdu/3996726",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Trump, Hürmüz Boğazı'nda İran'a yönelik ABD deniz ablukasının yeniden başladığını ve boğazdan geçen kargolara %20 ücret alınacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-13T16:01:25.537174+00:00",
+  "type": "news",
+  "cluster_id": "c33897a5da3ac"
+ },
+ {
+  "title": "Trump: Iran blockade reinstated, US to charge 20% on Strait of Hormuz cargo",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMV9vbjgzc3lGdFhGN0tRekRlTDItNXRiUnN1OV90MG5VeXVsRzRXNVItYUZPLWdPZlZtVUVFYTBaQlhhUkFTU1JTQzVfSVhoMHV1VUhQUmhtelBMMllPQk40dUhjWW16dEpaaWc0bVpjazBLWmRvakxGUEtkNHExcmlmRTBMRGxaSDF3VGk3d3BqZTNRU3pZRkUzTENvUk5KYVg5Rk4tUjZ1dw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, Hürmüz Boğazı'nda İran ablukasının yeniden yürürlüğe girdiğini ve boğazdan geçen kargolara %20 ücret alınacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-13T16:01:25.537174+00:00",
+  "type": "news",
+  "cluster_id": "cf82086178fb3"
+ },
+ {
+  "title": "JPMorgan’dan Türkiye için peş peşe kötü tahminler",
+  "link": "https://www.sozcu.com.tr/jpmorgan-dan-turkiye-icin-pes-pese-kotu-tahminler-p336182",
+  "source": "Sözcü",
+  "summary_tr": "JPMorgan, Türkiye ekonomisine yönelik beklentilerini güncelledi; enflasyonun yüksek seviyelerde devam edeceğini öngörüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-13T16:01:25.537174+00:00",
+  "type": "news",
+  "cluster_id": "cc3726dac934f"
+ },
+ {
+  "title": "Erdoğan’dan NATO Zirvesi tepkilerine yanıt: ‘Türkiye'nin müstesna ev sahipliğine kara çalmak için hezeyanlar üretiyorlar’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/erdogan-dan-nato-zirvesi-tepkilerine-yanit-turkiye-nin-mustesna-ev-sahipligine-kara-calmak-icin-hezeyanlar-uretiyorlar-2520493",
+  "source": "Cumhuriyet",
+  "summary_tr": "Erdoğan, NATO Zirvesi eleştirilerine yanıt vererek Türkiye'nin ev sahipliğini savundu.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-13T16:01:25.537174+00:00",
+  "type": "news",
+  "cluster_id": "caec31336f9ba"
+ },
+ {
   "title": "Trump, ABD'nin Hürmüz Boğazı'na ablukayı geri getireceğini açıkladı",
   "link": "https://www.bbc.com/turkce/articles/ce8jlnm787jo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -56524,45 +56572,5 @@
   "score": 6,
   "ts": "2026-06-01T14:01:07.750724+00:00",
   "cluster_id": "cdc8c7145f050"
- },
- {
-  "title": "Bakan Bolat'ın katılacağı OECD toplantısında stratejik sektörlerde yatırım fırsatlarına odaklanılacak",
-  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolatin-katilacagi-oecd-toplantisinda-stratejik-sektorlerde-yatirim-firsatlarina-odaklanilacak/3953250",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Ticaret Bakanı Ömer Bolat, OECD Bakanlar Konseyi Toplantısı'nda stratejik sektörlerdeki yatırım fırsatlarını ele almak üzere Paris'e gidecek.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-01T14:01:07.750724+00:00",
-  "cluster_id": "c05f913d6ddad"
- },
- {
-  "title": "CHP’de seçilmiş yönetim, kurultay için imza sürecini başlattı: ‘Yönetmek isteyen aday olur’",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-de-secilmis-yonetim-kurultay-icin-imza-surecini-baslatti-yonetmek-isteyen-aday-olur-2508387",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP seçilmiş yönetimi, kurultaya gitmeye zorlayacak delegelerden imza toplamaya başladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T13:01:04.538213+00:00",
-  "cluster_id": "c24a5f9647013"
- },
- {
-  "title": "Türkiye doğalgaz için Rusya ile masaya oturdu",
-  "link": "https://www.sozcu.com.tr/turkiye-dogalgaz-icin-rusya-ile-masaya-oturdu-p324266",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye ve Rusya, 2026 sonrasına uzatmak üzere doğal gaz tedarik sözleşmelerini yeniden müzakere etmeye başladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T13:01:04.538213+00:00",
-  "cluster_id": "c907d7bc1e3f6"
- },
- {
-  "title": "CHP'de yeni tartışma: Kurultay yapılmazsa seçimlere girme hakkı kaybolur mu?",
-  "link": "https://www.bbc.com/turkce/articles/cvgzxde05kpo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "CHP'de kurultay yapılmadığı takdirde seçimlere girme hakkının kaybolacağı tartışması başlatıldı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-01T13:01:04.538213+00:00",
-  "cluster_id": "c2ac1272426aa"
  }
 ]
