@@ -56,10 +56,10 @@
    "indicator_tr": "Geniş tanımlı işsizlik oranı"
   },
   "tr_tufe_aylik": {
-   "value": "%1'in altında",
-   "period": "Haziran",
-   "ts": "2026-07-11T00:01:14.057528+00:00",
-   "indicator_tr": "TUFE (aylık)"
+   "value": "%0,99",
+   "period": "Haziran 2026",
+   "ts": "2026-07-13T08:04:19.453184+00:00",
+   "indicator_tr": "TÜFE (aylık)"
   },
   "tr_ihracat_birim_degeri_endeksi_yillik": {
    "value": "%13,7",
@@ -129,9 +129,9 @@
   },
   "tr_tufe_yillik": {
    "value": "%32,11",
-   "period": "",
-   "ts": "2026-07-13T07:01:59.318838+00:00",
-   "indicator_tr": "TUFE (yillik)"
+   "period": "Haziran 2026",
+   "ts": "2026-07-13T08:04:19.453184+00:00",
+   "indicator_tr": "TÜFE (yıllık)"
   },
   "tr_ihracat_birim_deger_endeksi": {
    "value": "%13,7",
@@ -789,6 +789,9 @@
   "701082b5e9f0d837997bbe034dc22178": "2026-07-13T07:01:16.111138+00:00",
   "5a2e8d7f34786b2322dba804dc4b60a7": "2026-07-13T07:01:16.111138+00:00",
   "3c1464383a45ee5022725abe90dacfd8": "2026-07-13T07:01:16.111138+00:00",
-  "fe324573982489bb109bea9e979e4bb5": "2026-07-13T07:01:16.111138+00:00"
+  "fe324573982489bb109bea9e979e4bb5": "2026-07-13T07:01:16.111138+00:00",
+  "e4e75d9f31ebd2df22ed499f9b672741": "2026-07-13T08:03:30.592711+00:00",
+  "64779b14601da166282521eaa769c925": "2026-07-13T08:03:30.592711+00:00",
+  "b69cfb7406f6a186f7671c41bfeece20": "2026-07-13T08:03:30.592711+00:00"
  }
 }
