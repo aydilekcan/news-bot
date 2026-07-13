@@ -1,5 +1,89 @@
 [
  {
+  "title": "ABD yeni saldırı başlattı, İran'dan jet misilleme",
+  "link": "https://www.diken.com.tr/abd-yeni-saldiri-baslatti-irandan-jet-misilleme/?utm_source=rss&utm_medium=rss&utm_campaign=abd-yeni-saldiri-baslatti-irandan-jet-misilleme",
+  "source": "Diken",
+  "summary_tr": "ABD İran'a yeni saldırı düzenledi; İran misilleme olarak düşman üslerine geniş çaplı füze ve İHA saldırıları başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-13T05:01:13.237083+00:00",
+  "type": "news",
+  "cluster_id": "cd4d5a48bcf84"
+ },
+ {
+  "title": "İran: Bölgedeki düşman üslerine geniş çaplı saldırılar başlatıldı",
+  "link": "https://www.trthaber.com/haber/dunya/iran-bolgedeki-dusman-uslerine-genis-capli-saldirilar-baslatildi-951039.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran ordusu, ABD saldırılarına karşılık olarak bölgedeki düşman üslerine geniş çaplı füze ve insansız hava aracı saldırıları başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-13T05:01:13.237083+00:00",
+  "type": "news",
+  "cluster_id": "c9d0722597572"
+ },
+ {
+  "title": "Oil jumps 4% as new military strikes threaten Hormuz shipments",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFpPY1lfc0lIc0xsNVlaSkZQanVuM3RZd0lUMTdLMlktT0dLajFOWExXSTZEd1pJd1kteDBWeTk5UnFHMmFtdUE1cWdmMEZwaDR4M09lV3NENXlhTHIwOUc1NEhTbGNYQTBZUmFNYlRIT3RUWWNyc3JZOXR2WXFrTWRFTmc1V2FHWnlDRW90YkJrOW1WWGstZ0d1bS1JaEJYZTcya0dUdkN4VzZQczhz?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Orta Doğu'daki askeri çatışmalar Hürmüz Boğazı'ndan sevkiyatları tehdit ederek petrol fiyatlarını %4 yükseltti.",
+  "metric": "Petrol %4 yükseliş",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-13T05:01:13.237083+00:00",
+  "type": "news",
+  "cluster_id": "c032bff63bab9"
+ },
+ {
+  "title": "Akaryakıt için kötü haber! Yeni zamlar yolda mı?",
+  "link": "https://www.sozcu.com.tr/akaryakit-icin-kotu-haber-yeni-zamlar-yolda-mi-p335948",
+  "source": "Sözcü",
+  "summary_tr": "ABD-İran askeri çatışmaları ve Hürmüz Boğazı'nda daralan ticaret trafiği petrol fiyatlarını önemli ölçüde yükseltme tehdidi oluşturuyor; akaryakıt zamı beklentisi artıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T05:01:13.237083+00:00",
+  "type": "news",
+  "cluster_id": "c7e80f3c381f3"
+ },
+ {
+  "title": "İran, Hürmüz'den izinsiz geçmeye çalışan 2 gemiye müdahalede bulundu",
+  "link": "https://www.trthaber.com/haber/dunya/iran-hurmuzden-izinsiz-gecmeye-calisan-2-gemiye-mudahalede-bulundu-951040.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Devrim Muhafızları, Hürmüz Boğazı'ndan izinsiz geçmeye çalışan 2 gemiye müdahalede bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T05:01:13.237083+00:00",
+  "type": "news",
+  "cluster_id": "c7947df9a3960"
+ },
+ {
+  "title": "Sanayi devi isyan etti: Türkiye ‘yol geçen hanı’ oldu",
+  "link": "https://www.sozcu.com.tr/sanayi-devi-isyan-etti-turkiye-yol-gecen-hani-oldu-p335947",
+  "source": "Sözcü",
+  "summary_tr": "HABAŞ yönetimi, dünyada korumacı politikalar uygulanırken Türkiye'nin çelik sektöründe açık pazar haline geldiğini belirterek isyan etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-13T05:01:13.237083+00:00",
+  "type": "news",
+  "cluster_id": "c9221ea3835d4"
+ },
+ {
+  "title": "Altın yatırımcısına pazartesi şoku: Güvenli limandan kaçış başladı",
+  "link": "https://www.sozcu.com.tr/altin-yatirimcisina-pazartesi-soku-guvenli-limandan-kacis-basladi-p335940",
+  "source": "Sözcü",
+  "summary_tr": "Orta Doğu krizinin petrol fiyatlarını yükseltmesi altın piyasasında dalgalanmalara neden olurken, yüksek enflasyon ve faiz endişeleri altın yatırımcılarını stres altına almış durumda.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-13T05:01:13.237083+00:00",
+  "type": "news",
+  "cluster_id": "c22b03d3b6bc1"
+ },
+ {
   "title": "İSKİ, Maliye’ye 46 milyon dolar ödeyecek",
   "link": "https://www.sozcu.com.tr/iski-maliye-ye-46-milyon-dolar-odeyecek-p335935",
   "source": "Sözcü",
@@ -56254,75 +56338,5 @@
   "score": 6,
   "ts": "2026-05-31T20:00:49.570319+00:00",
   "cluster_id": "c9de1ced6d702"
- },
- {
-  "title": "Rescuers say a blast at a building storing explosives in Myanmar has killed more than 45 people",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeEU3NnhDMDJ0OVk0azlGc01mbGJvN2RTb2Z6THJYZkNvaXpvY0YzazBhR2VSYW40Um1FVk9zN2xEVkdET2RCMkNxajAyQlNLX25Hald3Yl9CNVRXRFVjSTF2OTFfUFB5VDFJc09uWnVsdTJhZXFzV1VKYW5keHpubHBfT0E3eXlWX0FMRg?oc=5",
-  "source": "AP",
-  "summary_tr": "Myanmar'da patlayıcı depo deposunda meydana gelen patlama 45'den fazla kişinin ölümüne neden oldu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-31T19:00:51.371409+00:00",
-  "cluster_id": "c39bc8f5848f4"
- },
- {
-  "title": "CHP'li Zeynel Emre: Olağanüstü kurultay için pazartesi imza toplamaya başlayacağız",
-  "link": "https://www.diken.com.tr/chpli-zeynel-emre-olaganustu-kurultay-icin-pazartesi-imza-toplamaya-baslayacagiz/?utm_source=rss&utm_medium=rss&utm_campaign=chpli-zeynel-emre-olaganustu-kurultay-icin-pazartesi-imza-toplamaya-baslayacagiz",
-  "source": "Diken",
-  "summary_tr": "CHP'li Zeynel Emre, olağanüstü kurultay için pazartesi günü imza toplamaya başlayacaklarını açıkladı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-05-31T19:00:51.371409+00:00",
-  "cluster_id": "c777459ae7083"
- },
- {
-  "title": "İran Cumhurbaşkanı Pezeşkiyan'ın istifa ettiği iddialarına yalanlama",
-  "link": "https://www.sozcu.com.tr/mesud-pezeskiyan-istifa-mi-etti-p324017",
-  "source": "Sözcü",
-  "summary_tr": "İran Cumhurbaşkanlığı Ofisi, Pezeşkiyan'ın istifa ettiği yönündeki iddiaları yalanladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-31T19:00:51.371409+00:00",
-  "cluster_id": "c64e5523954ae"
- },
- {
-  "title": "İran Cumhurbaşkanlığı Ofisi, Cumhurbaşkanı Pezeşkiyan’ın istifa ettiği yönündeki iddiaları yalanladı",
-  "link": "https://www.aa.com.tr/tr/dunya/iran-cumhurbaskanligi-ofisi-cumhurbaskani-pezeskiyan-in-istifa-ettigi-yonundeki-iddialari-yalanladi/3952509",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran Cumhurbaşkanlığı Ofisi, Cumhurbaşkan Pezeşkiyan'ın istifa ettiği iddialarını resmî olarak yalanladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-31T19:00:51.371409+00:00",
-  "cluster_id": "c64e5523954ae"
- },
- {
-  "title": "CENTCOM duyurdu: İran'a giden 118 geminin rotası değiştirildi",
-  "link": "https://www.cumhuriyet.com.tr/dunya/centcom-duyurdu-iran-a-giden-118-geminin-rotasi-degistirildi-2508229",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD CENTCOM, İran'a giden 118 geminin rotasını değiştirdi ve deniz ablukasını ilan etti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-31T18:00:49.682012+00:00",
-  "cluster_id": "cb417888722da"
- },
- {
-  "title": "What to know as Israeli forces’ historic push inside Lebanon complicates an Iran deal",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSUZTeU9KS3NvbWQyeEMxZzExYXByNTZFTGhYdU13Qzd5cExUVTlUdFVEb0lEdUZ1Vm1UWmRNMG9uY3dlT1JMeGNMX1BGVjUxQngza21sX1B2Yms2RkhOQnlwYXdDenQ4MF92N1R6NmpHRFBmd2ZiYkt6WGl0aGRYNXpzcFdSQWQ5dXo1NVU3clVwVHh0RE5BbEJYWktILWJ1aTFQWV9B?oc=5",
-  "source": "AP",
-  "summary_tr": "İsrail kuvvetleri Lübnan'a tarihi girişim yapıyor ve bu İran anlaşmasını karmaşıklaştırıyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-05-31T18:00:49.682012+00:00",
-  "cluster_id": "c5816c2bff459"
- },
- {
-  "title": "İran'dan ABD'ye savaşırız resti",
-  "link": "https://www.sozcu.com.tr/iran-dan-abd-ye-savasiriz-resti-p324013",
-  "source": "Sözcü",
-  "summary_tr": "İran Devrim Muhafızları Deniz Kuvvetleri, ABD'yle savaşırlarsa bataklığa sürükleyeceklerini açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T18:00:49.682012+00:00",
-  "cluster_id": "c0db1a6e82071"
  }
 ]
