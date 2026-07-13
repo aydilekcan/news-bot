@@ -1,5 +1,125 @@
 [
  {
+  "title": "Hatimoğulları'ndan dikkat çeken 'çerçeve yasa' çıkışı: AKP 'mutabakat sağlandı' diyor fakat bize ulaşan bir metin yok",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/hatimogullari-ndan-dikkat-ceken-cerceve-yasa-cikisi-akp-mutabakat-saglandi-diyor-fakat-bize-ulasan-bir-metin-yok-2520285",
+  "source": "Cumhuriyet",
+  "summary_tr": "DEM Parti Eş Genel Başkanı Hatimoğulları, iktidarın hazırladığı çerçeve yasa taslağının kendilerine ulaşmadığını belirtti.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-13T07:01:16.111138+00:00",
+  "type": "news",
+  "cluster_id": "c96bd020ea038"
+ },
+ {
+  "title": "Petrol fiyatlarında savaş etkisi: Brent yeniden 79 doların üzerine çıktı",
+  "link": "https://www.sozcu.com.tr/petrol-fiyatlarinda-savas-etkisi-brent-yeniden-79-dolarin-uzerine-cikti-p335999",
+  "source": "Sözcü",
+  "summary_tr": "ABD'nin İran'a saldırıları ve İran'ın misillemeleri nedeniyle Brent petrol fiyatı 79 doların üzerine çıktı.",
+  "metric": "Brent petrol fiyatı 79 USD üzerine çıktı",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T07:01:16.111138+00:00",
+  "type": "news",
+  "cluster_id": "cac3f0db39b26"
+ },
+ {
+  "title": "Petrol fiyatları, ABD'nin İran'a yönelik saldırıları ve İran'ın misillemeleriyle yaklaşık yüzde 5 arttı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/petrol-fiyatlari-abdnin-irana-yonelik-saldirilari-ve-iranin-misillemeleriyle-yaklasik-yuzde-5-artti/3996092",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Petrol fiyatları, ABD'nin İran'a saldırıları ve İran'ın misillemeleriyle yaklaşık %5 arttı.",
+  "metric": "Petrol fiyatları %5 arttı",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T07:01:16.111138+00:00",
+  "type": "news",
+  "cluster_id": "c11d434878428"
+ },
+ {
+  "title": "Less than a month's supply: Europe's jet fuel stocks are wafer thin as Iran tensions flare",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR1lCYWdoRS1ZVjB4RTR3bHhleGU2aFlLOTdxckNDWXFtMGxQZVdTUklud0N1SXRXaG50LUk3dTBLZl8tV0FVVGg1cHNPZ3ZCOEFQY0FBUkhINUQzMEFDVUNqTzg2a3FsUkJiclZCZjJSbF9vd3AycW5ta1lNZHBObjF0Y1ZMV3UyUzVfR05iMmhLLTl2MmJ1YUhzX2pKZEZtMk14OEtHNVRPVFdYN1BkMDlscUlXRTAycjB1cGJ1Q1NYcTNyYTFr?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran gerilimleriyle gündeme gelen Hürmüz Boğazı kapanma endişesi, Avrupa'nın jet yakıt stokunu aydan az seviyeye düşürdü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T07:01:16.111138+00:00",
+  "type": "news",
+  "cluster_id": "cb9616a9fcc2b"
+ },
+ {
+  "title": "Gold slides over 1% as oil surges on Strait of Hormuz closure fears",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQclJuSi1YOVNaUjRBaVVhUkY3bjhqa2paOEZrM0FES0pvZ1BpTm1waUtGb2RHdzhhcHNVRWRxM2dGdXVkS1prcEZRdzhDQjhLLVpYNnlKWDdPekxsWHgxU016NlVzTllUZ1AtSWFMajhrcmRXcUFWNThJVjdLYWlpakZEVHI1eWFmS3pSS3RWelgwY1NUVXpaZ2RuV2RKdkVxckxoNlRpOEo?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Petrol fiyatlarının Hürmüz Boğazı kapanma endişesiyle artmasıyla altın %1'in üzerinde düştü.",
+  "metric": "Altın %1 düştü; petrol yükseldi",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T07:01:16.111138+00:00",
+  "type": "news",
+  "cluster_id": "c968968b510c6"
+ },
+ {
+  "title": "Zeytin üreticisi hasat öncesi destek istiyor: 'Yüksek maliyet üreticiyi zorluyor'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/zeytin-ureticisi-hasat-oncesi-destek-istiyor-yuksek-maliyet-ureticiyi-zorluyor-2520287",
+  "source": "Cumhuriyet",
+  "summary_tr": "Balıkesir zeytin üreticileri, artan hasat maliyetleri nedeniyle devletten prim desteği talep ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-13T07:01:16.111138+00:00",
+  "type": "news",
+  "cluster_id": "cfcb8f58906f0"
+ },
+ {
+  "title": "Soğanda vergi düştü, ceviz ve makarnada arttı",
+  "link": "https://www.sozcu.com.tr/soganda-vergi-dustu-ceviz-ve-makarnada-artti-p335987",
+  "source": "Sözcü",
+  "summary_tr": "Resmi Gazete'de tarım ürünlerinin ithalat rejiminde değişiklik yapıldı: soğanda vergi düştü, ceviz ve makarnada arttı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-13T07:01:16.111138+00:00",
+  "type": "news",
+  "cluster_id": "c429e379760a7"
+ },
+ {
+  "title": "Küresel piyasalar haftaya jeopolitik gerilimlerden kaynaklı satış baskısıyla başladı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-haftaya-jeopolitik-gerilimlerden-kaynakli-satis-baskisiyla-basladi/3996077",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Küresel piyasalar, ABD'nin İran'a saldırıları ve Hürmüz Boğazı kaynaklı risklerin artmasından dolayı satış baskısıyla haftaya başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-13T07:01:16.111138+00:00",
+  "type": "news",
+  "cluster_id": "cb675f6a935ef"
+ },
+ {
+  "title": "TSMC posts record revenue in second quarter on AI demand",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcEVtckxTOVlzOGY4clpUVGtUcEpoUTc1Qjg5NWxTUFh3TFRwbjJyTkhSLXh0d1AxVE5JRUJOVlVMQWxVT2NUMERNSzBRc1lWYnQyX0x2S0hjci1kLTNTTm9aQ3BaTWpvRHdqemxSYXZiSmVuQXI5eUdJblYxa01wSnl0U085Z056NldneVZBNVQ3VzBKTTVPZHlkRVRzR2JZX3J1NG1GVnk1WmRRUjlmNHBvYUFaekNQS1VMYw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "TSMC, yapay zeka talebinin etkisiyle ikinci çeyrekte rekor gelir elde etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-13T07:01:16.111138+00:00",
+  "type": "news",
+  "cluster_id": "c13e1f09e696b"
+ },
+ {
+  "title": "TUFE (yillik): %32,11",
+  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83d1JWVGpfZmpCTnoycXpNR243RjlyZmFXdUt1T3dZMFdMMVZsc19uU3ZIRWZGMS1KWWJZUVZmNUh5YWpOYm9Ob2JJX3RjU1JyenlNbmxUeWc1bjR5UmkxZ29SMmJDVWg3ZGVGXzhpVThIZ1Z4WXN1N1E3ZW5XQQ?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%32 → %32,11 (+0,1 puan)",
+  "metric": "+0,1 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-13T07:01:16.111138+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Barış olmazsa TCMB’den faiz indirimi gelmez",
   "link": "https://www.sozcu.com.tr/baris-olmazsa-tcmb-den-faiz-indirimi-gelmez-p335969",
   "source": "Sözcü",
@@ -56250,105 +56370,5 @@
   "score": 6,
   "ts": "2026-06-01T00:00:47.015360+00:00",
   "cluster_id": "cc613a5efec2d"
- },
- {
-  "title": "US takes step to halt Nvidia AI chip shipments to Chinese firms outside China",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbURTRGdXd0FJdXdDeHdxbHFpdWdiSUZ4eG0tZ1E1UmVOSHpZbnpiNEhweC1HclNuZkt1bmd2RVowVnRvZnliTjktcGNkb3JENmRXTVJqN3lXTWNnWE5zWjV4R0dqU050Z2p2ZnJxb1N1ZTlhci0tUndRbFNPdVctOVFNM2pWcUtNZExrSFV6cjhhV2VLSGtQWTRLbTNxZjdtNFJjVTQzS0YtOXNFQWllVUJrS2dGSkxpTG4w?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, Nvidia'nın Çin dışındaki firmalara yapacağı yapay zeka çip satışlarını durdurmak için adım atıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T22:00:47.340867+00:00",
-  "cluster_id": "cf47c2f552c71"
- },
- {
-  "title": "Israeli strike kills at least two at Gaza seaport cafe, medics say",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaXhacHAzNzRXeG5EajJtUVpEVWlvX1lZR0d5S3pIczlFSGotbVFLNFE3WmRHRGVVOE9TbmhnTHZ1UElKVC05MEc5Zzh0QmZvSmRRSUhWRDkweDdlMWxfbFJjS0h6TnZUdDByQUJCUUl6VlRmTTNBcDBpTnFudnlCeTh0ZmxsTzNXcGZjNW9KSmRrZXFvQTQ3N1NmMXpocHlIdGFZMzJKN0dDdG5VaVBhek5RRQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İsrail'in Gaza limanında bir kafe konumuna düzenlediği hava saldırısında en az iki kişi öldü.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-31T22:00:47.340867+00:00",
-  "cluster_id": "cb329be0a4a27"
- },
- {
-  "title": "İsrail'in Beyrut'a hava saldırıları düzenlemek için ABD'den onay istediği iddia edildi",
-  "link": "https://www.aa.com.tr/tr/dunya/israilin-beyruta-hava-saldirilari-duzenlemek-icin-abdden-onay-istedigi-iddia-edildi/3952554",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail Başbakanı Netanyahu'nun ateşkes rağmen Beyrut'a hava saldırıları düzenlemek için ABD'den onay istediği iddia edildi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T21:00:53.744002+00:00",
-  "cluster_id": "c6530e9f73bf3"
- },
- {
-  "title": "İsrail ordusu, \"araçla ezme\" girişiminde bulunduğu iddiasıyla Batı Şeria'da bir Filistinliyi öldürdü",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-aracla-ezme-girisiminde-bulundugu-iddiasiyla-bati-seriada-bir-filistinliyi-oldurdu/3952551",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail ordusu Batı Şeria'da 'araçla ezme' girişimi iddiasıyla bir Filistinliyi öldürdü.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T21:00:53.744002+00:00",
-  "cluster_id": "c8c3b0ba6a980"
- },
- {
-  "title": "Syria's Sharaa holds phone call with Trump, Syrian presidency says",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQXzRITzhyOHlrZkN3RUZ6eVkxY3lBQkZIbTNvWG9WWUxzenVZaTZzNTVxUDBWYTV6cmtCTDBDdU5fbE1GZjNsaGszSklXWDF3OW5hdTJSVDdSeF8wM0I2bDVCUTYxZ3JzM0h1S2hINlZhcVlvUWc5cDlSV0dvWERMeUlsZUh0NlJNaVdSNkhXc0lWNEtzczRILXdNbXZKczZBUU5LR3h4VS1DQTdjSzd2N2JwZndsU0h6d0E?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Suriye lideri Şaar, ABD Başkanı Trump ile telefon görüşmesi gerçekleştirdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-05-31T21:00:53.744002+00:00",
-  "cluster_id": "cf6f915392984"
- },
- {
-  "title": "CHP'nin internet sitesinde dikkat çeken değişiklik: PM ve MYK üyelerinin isimleri kaldırıldı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-nin-internet-sitesinde-dikkat-ceken-degisiklik-pm-ve-myk-uyelerinin-isimleri-kaldirildi-2508271",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'nin resmi internet sitesinde PM ve MYK üyelerinin isimleri kaldırıldı; mahkemenin 'mutlak butlan' kararı sonrası yönetim değişikliği sürüyor.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-31T21:00:53.744002+00:00",
-  "cluster_id": "c5fb6dcaa1148"
- },
- {
-  "title": "CHP'li vekil yol haritasını açıkladı: 1 Haziran itibarıyla başlatıyoruz",
-  "link": "https://www.sozcu.com.tr/ensar-aytekin-1-haziran-itibariyla-kurultay-surecini-baslatiyoruz-p324039",
-  "source": "Sözcü",
-  "summary_tr": "CHP Balıkesir vekili Ensar Aytekin, 1 Haziran'dan itibaren kurultay sürecini başlatacaklarını ve delegelerden imza toplayacaklarını açıkladı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-05-31T21:00:53.744002+00:00",
-  "cluster_id": "ce8b4b1ca9bed"
- },
- {
-  "title": "İran, olası mutabakat zaptında kendi değişikliklerini uygulayacak",
-  "link": "https://www.aa.com.tr/tr/dunya/iran-olasi-mutabakat-zaptinda-kendi-degisikliklerini-uygulayacak/3952542",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran, ABD ile olası mutabakat zaptında kendi değişikliklerini uygulayacağını bildirildi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-31T21:00:53.744002+00:00",
-  "cluster_id": "cfae8aa620402"
- },
- {
-  "title": "Almanya: İsrail'in Lübnan'ın güneyinde ilerlemesi büyük endişe kaynağı",
-  "link": "https://www.aa.com.tr/tr/dunya/almanya-israilin-lubnanin-guneyinde-ilerlemesi-buyuk-endise-kaynagi/3952538",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Almanya Dışişleri Bakanı, İsrail ordusunun Lübnan güneyinde ilerlemesinin büyük endişe kaynağı olduğunu söyledi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-05-31T21:00:53.744002+00:00",
-  "cluster_id": "ce04f7a5c89ea"
- },
- {
-  "title": "Katil İsrail Gazze Limanı'na saldırdı: 1 kişi öldü, 18 kişi yaralandı",
-  "link": "https://www.trthaber.com/haber/dunya/katil-israil-gazze-limanina-saldirdi-1-kisi-oldu-18-kisi-yaralandi-946730.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail ordusunun Gazze Limanı'na düzenlediği saldırıda 1 kişi öldü, 18 kişi yaralandı.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-05-31T20:00:49.570319+00:00",
-  "cluster_id": "cca264b319758"
  }
 ]
