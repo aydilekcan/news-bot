@@ -1,5 +1,125 @@
 [
  {
+  "title": "İran'da yeni patlamalar bildirildi, Hürmüz Boğazı'ndan geçişler sınırlı",
+  "link": "https://www.bbc.com/turkce/articles/ce8jlnm787jo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "İran, ABD ve müttefiklerinin askeri üslerine misilleme saldırısı düzenledi; Hürmüz Boğazı'ndan geçişler sınırlandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-13T14:01:22.035000+00:00",
+  "type": "news",
+  "cluster_id": "c61d655cd5c10"
+ },
+ {
+  "title": "İran Silahlı Kuvvetleri: ABD'nin Hürmüz Boğazı'na müdahale etmesine izin vermeyeceğiz",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-silahli-kuvvetleri-abdnin-hurmuz-bogazina-mudahale-etmesine-izin-vermeyecegiz/3996640",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Silahlı Kuvvetleri Sözcüsü, ABD'nin Hürmüz Boğazı'na müdahale etmesine izin vermeyeceklerini bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-13T14:01:22.035000+00:00",
+  "type": "news",
+  "cluster_id": "cf1e4a6a5024b"
+ },
+ {
+  "title": "İran'dan Trump'a jet yanıt: Hürmüz'e müdahaleye izin vermeyeceğiz",
+  "link": "https://www.diken.com.tr/irandan-trumpa-jet-yanit-hurmuze-mudahaleye-izin-vermeyecegiz/?utm_source=rss&utm_medium=rss&utm_campaign=irandan-trumpa-jet-yanit-hurmuze-mudahaleye-izin-vermeyecegiz",
+  "source": "Diken",
+  "summary_tr": "İran ordusu, Trump'ın Hürmüz Boğazı müdahalesine karşı hazır olduğunu bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-13T14:01:22.035000+00:00",
+  "type": "news",
+  "cluster_id": "cabf53538df75"
+ },
+ {
+  "title": "Trump says the US should control the Strait of Hormuz and get paid for it",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMV9vbjgzc3lGdFhGN0tRekRlTDItNXRiUnN1OV90MG5VeXVsRzRXNVItYUZPLWdPZlZtVUVFYTBaQlhhUkFTU1JTQzVfSVhoMHV1VUhQUmhtelBMMllPQk40dUhjWW16dEpaaWc0bVpjazBLWmRvakxGUEtkNHExcmlmRTBMRGxaSDF3VGk3d3BqZTNRU3pZRkUzTENvUk5KYVg5Rk4tUjZ1dw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, ABD'nin Hürmüz Boğazı'nı kontrol etmesi ve bunun için ödeme alması gerektiğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-13T14:01:22.035000+00:00",
+  "type": "news",
+  "cluster_id": "cabc12986d506"
+ },
+ {
+  "title": "Oil prices rise following the latest fighting in the Middle East, as AI stocks sink",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcHZ0YWpGZjBZakNRRmRveklzX1hRUklIWUc2MzVoWE51Z1Bjc0JFU05vd2tGVWhaSVVVSmFvbHU3QWJZcEs0R2dkRjFxcG9WaGMtWFo2SmhqTTVjSDNFVFk5Zl8xcmdiaTFHUmM5cWU0RzNDeDU2TGM4RWJJMjg3Y2lYeEJBWkdqeXFWUjg0eWpNZw?oc=5",
+  "source": "AP",
+  "summary_tr": "Orta Doğu çatışmalarının ardından petrol fiyatları yükseldi; yapay zeka hisseleri düştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-13T14:01:22.035000+00:00",
+  "type": "news",
+  "cluster_id": "cb423471272ac"
+ },
+ {
+  "title": "UK outlaws two Iranian groups over antisemitic attacks in Britain",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWhXdHRncXZPOURpc2ZuRVNjWWRFVjhiN1hEQzhicm41WGZzbFR4Zkk0ZWtYMTRXeFMwVW9xOEhVWVpyc3oyeFhGZWJyMFRfXzFDczhQalczWGNRQUxzMUxZdTNvLXhVUmVSejUxT1Q2NE1ZNVh0OS1Yc3NIV18tWFVKaHFiWHZlVUxxa0trMzZXV3haelpfZEtrRF96U0M2NWNEbDhyQWVFTHNkX1E?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İngiltere, İran kökenli iki grubu antisemitik saldırılardan dolayı yasakladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T14:01:22.035000+00:00",
+  "type": "news",
+  "cluster_id": "c9b29ab10f0af"
+ },
+ {
+  "title": "Houthis accuse Saudi Arabia of striking Sanaa airport, vow retaliation",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV2Q4MUdSUXZ0ZWdUWnM4SFNoV0lqYlBHTy1PMURKeFA1TS02RWRjbVZDYzJTY29obkdIa29MV2Y1WjZta2c5TXRzTEdNRjc3alR0MGtNV3QzUXpoanJyLWQ4VHV4NlM2WloyaWZaenV1Y1hqUjY1dHNaaXRiWnoxdmxLYWtyNURVQlRfblZjaFBYTmdXNDVVVFFlM1BWS3M2SzFOcm5MakVrYWNwM01aT0s2UThnckpQRDlSUjdqRjlMaWM4eTJtRG5JZU9FQQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Houthi'ler Suudi Arabistan'ın Sana'a havaalanına saldırmasını kınayıp misilleme tehdidi yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-13T14:01:22.035000+00:00",
+  "type": "news",
+  "cluster_id": "c74dfe3a6bb9a"
+ },
+ {
+  "title": "Rusya'nın dış ticaret fazlası 5 ayda yıllık bazda arttı",
+  "link": "https://www.sozcu.com.tr/rusya-nin-dis-ticaret-fazlasi-5-ayda-yillik-bazda-artti-p336163",
+  "source": "Sözcü",
+  "summary_tr": "Rusya'nın dış ticaret fazlası 2025 ocak-mayıs döneminde geçen yıl aynı dönemine göre %9,4 artarak 59,1 milyar dolara ulaştı.",
+  "metric": "Dış ticaret fazlası %9,4 artış",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-13T14:01:22.035000+00:00",
+  "type": "news",
+  "cluster_id": "c83b343d7fe38"
+ },
+ {
+  "title": "Intel announces $5.7 billion AI-driven capital investment in Ireland",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdUpmMER1MXFvS29zY1R4cWY5N3pGQkR0bnFYeVFuY0NCWkFMWXBCQlBLWFh3Vk5VVDkwaTlwMWtxQm1jTG9MY0dRSVA4R2VmVmtxZ1o2eXlUVGl4Q1EwUjBwdjRlSWEtZW1TQVRUVkRYemJHWXYyamQwVmxHWUotVzhlRDltRXBLZURpdDhSYmM1ZmZYUVljcEtCSFo0c2szblRQQ0RDdThoT2NLZFdEREpjbVI?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Intel, İrlanda'ya yapay zeka odaklı 5,7 milyar dolar yatırım yapacağını açıkladı.",
+  "metric": "Yatırım: 5,7 milyar dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-13T14:01:22.035000+00:00",
+  "type": "news",
+  "cluster_id": "c8bdc6e0c9cdf"
+ },
+ {
+  "title": "EU and partners launch $1 billion scheme to help Gaza recover from war",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeGI1VkFkR0VDbHY3VTJESEFyVjg4MFFleTRRVTRsODdrRlhHQ0N5RlZaaVJLdHl4OVBmVGprMXk0ZGRJZ0ppM2MtemNMTEt2ZWdyeDlVVVNxVmxpWW5Xa1Qzc1JqdmEzT0hTQXhWTTFUdllGTDAxYUV5aFl3cEtYOTlhbXhkTDhkX21nNzdtSzA5SlZkcG55TzRWUQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "AB ve ortakları, Gazze'nin savaştan kurtulması için 1 milyar dolar plan başlattı.",
+  "metric": "Yardım: 1 milyar dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-13T14:01:22.035000+00:00",
+  "type": "news",
+  "cluster_id": "c223a747cf842"
+ },
+ {
   "title": "Trump: Hürmüz'ü muhtemelen biz yöneteceğiz, masraflarımız ödenmeli",
   "link": "https://www.diken.com.tr/trump-hurmuzu-muhtemelen-biz-yonetecegiz-masraflarimiz-odenmeli/?utm_source=rss&utm_medium=rss&utm_campaign=trump-hurmuzu-muhtemelen-biz-yonetecegiz-masraflarimiz-odenmeli",
   "source": "Diken",
@@ -56420,105 +56540,5 @@
   "score": 7,
   "ts": "2026-06-01T11:01:06.780737+00:00",
   "cluster_id": "c91ccfe113328"
- },
- {
-  "title": "Paşinyan’dan Türkiye ve Azerbaycan çıkışı: Normalleşmeye hazırız",
-  "link": "https://www.cumhuriyet.com.tr/dunya/pasinyan-dan-turkiye-ve-azerbaycan-cikisi-normallesmeye-haziriz-2508365",
-  "source": "Cumhuriyet",
-  "summary_tr": "Ermenistan Başbakanı Paşinyan, Türkiye ve Azerbaycan ile ilişkilerin tamamen normalleşmesine hazır olduğunu açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T11:01:06.780737+00:00",
-  "cluster_id": "c4a9fd47a9837"
- },
- {
-  "title": "Azerbaycan'dan Türkiye'ye 33 milyar metreküp doğal gaz arzı için anlaşma imzalandı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/azerbaycandan-turkiyeye-33-milyar-metrekup-dogal-gaz-arzi-icin-anlasma-imzalandi/3953036",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "BOTAŞ, Azerbaycan'dan 33 milyar metreküp doğal gaz arzı için TotalEnergies ve ADNOC ile anlaşma imzaladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T11:01:06.780737+00:00",
-  "cluster_id": "c737e788ef7d4"
- },
- {
-  "title": "Cevdet Yılmaz: Kesintisiz büyüme 23'üncü çeyreğe taşındı",
-  "link": "https://www.trthaber.com/haber/gundem/cevdet-yilmaz-kesintisiz-buyume-23uncu-ceyrege-tasindi-946791.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye ekonomisi 2026 Q1'de yıllık %2,5 büyüme ile 23'üncü çeyrekle kesintisiz büyümeyi sürdürdü.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T11:01:06.780737+00:00",
-  "cluster_id": "cb2eaaf80b6ae"
- },
- {
-  "title": "İmamoğlu'ndan yeni parti ve Kılıçdaroğlu açıklaması",
-  "link": "https://www.dw.com/tr/imamoğlu-ndan-yeni-parti-ve-kılıçdaroğlu-açıklaması/a-77375450?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "İmamoğlu, Kılıçdaroğlu için 'dahili bedhah kayyım' dedi ve yeni partiye işaret etti.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-01T11:01:06.780737+00:00",
-  "cluster_id": "cfbb36188a317"
- },
- {
-  "title": "İmamoğlu, Kılıçdaroğlu'nu yerden yere vurdu",
-  "link": "https://www.diken.com.tr/imamoglu-kilicdaroglunu-yerden-yere-vurdu/?utm_source=rss&utm_medium=rss&utm_campaign=imamoglu-kilicdaroglunu-yerden-yere-vurdu",
-  "source": "Diken",
-  "summary_tr": "İmamoğlu, Kılıçdaroğlu'nu sert şekilde eleştirdi ve Erdoğan'a yakınlaştığını öne sürdü.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-01T11:01:06.780737+00:00",
-  "cluster_id": "cc0e3e857ba7b"
- },
- {
-  "title": "Resmi takvimde yer almadı: Özgür Özel'den flaş hamle",
-  "link": "https://www.sozcu.com.tr/resmi-takvimde-yer-almadi-ozgur-ozel-geri-adim-atmadi-p324221",
-  "source": "Sözcü",
-  "summary_tr": "Özgür Özel'in yarın yapacağı CHP Grup Toplantısı TBMM'nin resmi programında yer almadı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-01T11:01:06.780737+00:00",
-  "cluster_id": "c42a253be8b52"
- },
- {
-  "title": "Açlık sınırı 35 bin lirayı geçti",
-  "link": "https://www.sozcu.com.tr/aclik-siniri-35-bin-lirayi-gecti-p324215",
-  "source": "Sözcü",
-  "summary_tr": "TÜRK-İŞ verilerine göre Mayıs'ta açlık sınırı 35.174 TL'ye yükseldi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-01T11:01:06.780737+00:00",
-  "cluster_id": "c39ec5be25036"
- },
- {
-  "title": "Paşinyan, Türkiye ve Azerbaycan ile ilişkilerin Ermenistan için fırsatlar doğuracağını söyledi",
-  "link": "https://www.trthaber.com/haber/dunya/pasinyan-turkiye-ve-azerbaycan-ile-iliskilerin-ermenistan-icin-firsatlar-doguracagini-soyledi-946795.html",
-  "source": "TRT Haber",
-  "summary_tr": "Paşinyan, Türkiye ve Azerbaycan ile ilişkilerin Ermenistan'a yeni fırsatlar doğuracağını söyledi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-01T11:01:06.780737+00:00",
-  "cluster_id": "cd14ffea3b005"
- },
- {
-  "title": "Israel's Netanyahu orders attacks in Beirut's southern suburbs",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTGVNZ0JwVmtPajlZNnZFWU96LVZ4WlpjdjdlSGtsTzhta0JoTXR3WE9zQjFqV0tFalJ6dWNWVGVtQzRXRExaUlZGUURjVEpDdFVSaUdZb2k4WFNsblBVX0phMFNhN1N2dS0taVNOOFdORnlBQm0wQ1U5aUpUQV9COThOaThpWVBGY3RSWVZ5RjMwRkJCdVNQOHc3S0xSaWNZQ1Q1a19CQUlvejV1YlhYMk5TUEtRa3pSSGJkd0wtRGpYY1hBNVE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Netanyahu, Beyrut'un güney banliyölerine saldırılar düzenlenmesini emretti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-01T10:01:07.100040+00:00",
-  "cluster_id": "c71947156a849"
- },
- {
-  "title": "Şimşek hala 'bayram havası'nda: Ekonomimiz kesintisiz büyüyor",
-  "link": "https://www.diken.com.tr/simsek-hala-bayram-havasinda-ekonomimiz-kesintisiz-buyuyor/?utm_source=rss&utm_medium=rss&utm_campaign=simsek-hala-bayram-havasinda-ekonomimiz-kesintisiz-buyuyor",
-  "source": "Diken",
-  "summary_tr": "Hazine ve Maliye Bakanı Mehmet Şimşek, Türkiye ekonomisinin 23 çeyrektir kesintisiz büyüdüğünü açıkladı.",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-06-01T10:01:07.100040+00:00",
-  "cluster_id": "c0affe2328b0a"
  }
 ]
