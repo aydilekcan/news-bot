@@ -1,5 +1,89 @@
 [
  {
+  "title": "Son dakika... İran'dan Bahreyn ve Kuveyt'e saldırı",
+  "link": "https://www.sozcu.com.tr/son-dakika-iran-dan-bahreyn-ve-kuveyt-e-saldiri-p336504",
+  "source": "Sözcü",
+  "summary_tr": "İran Devrim Muhafızları, Bahreyn ve Kuveyt'teki düşman silah ve parça depolarını hedef aldıklarını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-14T20:01:25.354495+00:00",
+  "type": "news",
+  "cluster_id": "c4a34638ba890"
+ },
+ {
+  "title": "İran Devrim Muhafızları Ordusu: Bahreyn ve Kuveytteki ABD hedeflerine saldırı düzenlendi",
+  "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-ordusu-bahreyn-ve-kuveytteki-abd-hedeflerine-saldiri-duzenlendi-951221.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Devrim Muhafızları Ordusu, ABD'nin İran kıyılarına yönelik saldırılarına misilleme olarak Bahreyn ve Kuveytte bulunan ABD hedeflerine saldırı düzenledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-14T20:01:25.354495+00:00",
+  "type": "news",
+  "cluster_id": "c72e79c8e0a85"
+ },
+ {
+  "title": "Gözaltına alınan Çankaya Belediye Başkanı Hüseyin Can Güner'in ifadesine Cumhuriyet ulaştı: 'Gizli tanık' ifadeleri soruldu",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/gozaltina-alinan-cankaya-belediye-baskani-huseyin-can-guner-in-ifadesine-cumhuriyet-ulasti-gizli-tanik-ifadeleri-soruldu-2520858",
+  "source": "Cumhuriyet",
+  "summary_tr": "Çankaya Belediye Başkanı Hüseyin Can Güner, belediyeye yönelik soruşturmada gözaltına alınarak ifade verdi; savcılıkta 'gizli tanık' ifadeleri sorgulandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-14T20:01:25.354495+00:00",
+  "type": "news",
+  "cluster_id": "c1d7876963bd7"
+ },
+ {
+  "title": "Dışişleri, Husilerin Suudi Arabistan'ın güneyine yaptığı füze saldırısını en güçlü biçimde kınadı",
+  "link": "https://www.aa.com.tr/tr/gundem/disisleri-husilerin-suudi-arabistanin-guneyine-yaptigi-fuze-saldirisini-en-guclu-bicimde-kinadi/3998220",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye Dışişleri Bakanlığı, Suudi Arabistan'ın güney bölgesine yapılan Husiler'in füze saldırısını en güçlü biçimde kınadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-14T20:01:25.354495+00:00",
+  "type": "news",
+  "cluster_id": "ce374ec31ce50"
+ },
+ {
+  "title": "Katil İsrail'in Gazze'ye yönelik saldırılarında hayatını kaybedenlerin sayısı 13'e çıktı",
+  "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazzeye-yonelik-saldirilarinda-hayatini-kaybedenlerin-sayisi-13e-cikti-951224.html",
+  "source": "TRT Haber",
+  "summary_tr": "İsrail'in Gazze'ye karşı ateşkese rağmen düzenlediği saldırılarda can kaybı sayısı 13'e yükseldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-14T20:01:25.354495+00:00",
+  "type": "news",
+  "cluster_id": "cd67bfa5261fb"
+ },
+ {
+  "title": "Dışişleri Bakanlığı'ndan Suudi Arabistan'a yapılan füze saldırısına tepki",
+  "link": "https://www.trthaber.com/haber/gundem/disisleri-bakanligindan-suudi-arabistana-yapilan-fuze-saldirisina-tepki-951223.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye Dışişleri Bakanlığı, Suudi Arabistan'a yapılan Husiler'in füze saldırısına tepki gösterdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-14T20:01:25.354495+00:00",
+  "type": "news",
+  "cluster_id": "cf7e8fb608cc7"
+ },
+ {
+  "title": "Trump'tan Irak işgali açıklaması: Yanlış ülkeye saldırdılar",
+  "link": "https://www.trthaber.com/haber/dunya/trumptan-irak-isgali-aciklamasi-yanlis-ulkeye-saldirdilar-951220.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Başkanı Trump, ülkesinin 11 Eylül sonrasında Irak'ı işgal etmesiyle ilgili 'yanlış ülkeye saldırdılar' açıklaması yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-14T20:01:25.354495+00:00",
+  "type": "news",
+  "cluster_id": "c7166cc429ec0"
+ },
+ {
   "title": "Axios: Trump Netanyahu'dan ordusunu Suriye ve Lübnan'dan çekmesini istedi",
   "link": "https://www.diken.com.tr/axios-trump-netanyahudan-ordusunu-suriye-ve-lubnandan-cekmesini-istedi/?utm_source=rss&utm_medium=rss&utm_campaign=axios-trump-netanyahudan-ordusunu-suriye-ve-lubnandan-cekmesini-istedi",
   "source": "Diken",
@@ -56884,75 +56968,5 @@
   "score": 7,
   "ts": "2026-06-02T14:01:11.994786+00:00",
   "cluster_id": "cd54fa8cc0293"
- },
- {
-  "title": "SON DAKİKA | Kemal Kılıçdaroğlu'nun A Takımı belli oldu",
-  "link": "https://www.sozcu.com.tr/son-dakika-veya-kemal-kilicdaroglu-nun-a-takimi-belli-oldu-p324592",
-  "source": "Sözcü",
-  "summary_tr": "Mahkeme kararıyla genel başkan olan Kemal Kılıçdaroğlu'nun MYK listesi ('A Takımı') resmi olarak açıklandı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-02T14:01:11.994786+00:00",
-  "cluster_id": "cdbc528b51445"
- },
- {
-  "title": "İran'ın önceki lideri Hamaney için cenaze törenleri düzenlenecek",
-  "link": "https://www.trthaber.com/haber/dunya/iranin-onceki-lideri-hamaney-icin-cenaze-torenleri-duzenlenecek-946934.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran'ın önceki lideri Ali Hamaney'nin cenaze törenleri Tahran, Kum ve Meşhed'de düzenlenecek.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-02T14:01:11.994786+00:00",
-  "cluster_id": "c17900dc09a5c"
- },
- {
-  "title": "Merkez Bankası'nın resmi rezerv varlıkları 160,2 milyar dolar oldu",
-  "link": "https://www.trthaber.com/haber/ekonomi/merkez-bankasinin-resmi-rezerv-varliklari-1602-milyar-dolar-oldu-946933.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye Cumhuriyet Merkez Bankası resmi rezerv varlıkları 160,2 milyar dolara düştü (haftalık %5 azalış).",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-02T14:01:11.994786+00:00",
-  "cluster_id": "cc31c4ce23f4b"
- },
- {
-  "title": "Israel kills 8 in Lebanon, a day after Trump said Israel and Hezbollah will de-escalate",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc2tkQ1lmaGN2YnZhR19aM3RadUJRYmZnZkp5ZF91OHRBZkhuWUNZbzVLMW5JN25wX29YR1VmZy05ci1NRHhoREFMNGpQaXVlZ3ZqenJyVTc0VUlqLW9xVlpTLUttb2F3bG1zMlRmYm5QS1IydlVCYnFvZGNNTGQzOFU0UEMwOWZuRDNTd2VCNUVMMUR4ZzZ5dXJVdWZJMXBEWkZJOU1QeTl5TF8yeEpJaXN1emk?oc=5",
-  "source": "AP",
-  "summary_tr": "Trump'ın de-eskalasyon çağrısından bir gün sonra İsrail, Lübnan'da 8 kişiyi öldürdü.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-02T14:01:11.994786+00:00",
-  "cluster_id": "ce7ddc5366a83"
- },
- {
-  "title": "Cumhuriyet'in X hesabına erişim engeli kararı",
-  "link": "https://www.diken.com.tr/cumhuriyetin-x-hesabina-erisim-engeli-karari/?utm_source=rss&utm_medium=rss&utm_campaign=cumhuriyetin-x-hesabina-erisim-engeli-karari",
-  "source": "Diken",
-  "summary_tr": "Türk mahkemesi, Cumhuriyet gazetesinin 3,5 milyona yakın takipçili X hesabına erişim engeli kararı aldı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-02T14:01:11.994786+00:00",
-  "cluster_id": "c42f51200f897"
- },
- {
-  "title": "CHP'li Oğuz Kaan Salıcı'dan ortak bildiriye şerh: 'Seçimlere giremeyeceğimizi ileri sürmek...'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-li-oguz-kaan-salici-dan-ortak-bildiriye-serh-secimlere-giremeyecegimizi-ileri-surmek-2508724",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'li Oğuz Kaan Salıcı, 111 milletvekilinin imzaladığı kurultay çağrısı konusunda şerh yazarak seçimlere girebileceklerini savundu.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-02T14:01:11.994786+00:00",
-  "cluster_id": "cd4d3b74b2d5b"
- },
- {
-  "title": "Müslim Sarı kimdir? Mutlak butlan yönetiminin sözcüsü Müslim Sarı kaç yaşında, nereli?",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/muslim-sari-kimdir-mutlak-butlan-yonetiminin-sozcusu-muslim-sari-kac-yasinda-nereli-2508715",
-  "source": "Cumhuriyet",
-  "summary_tr": "Kılıçdaroğlu'nun yeni MYK'sında sözcü olarak Müslim Sarı görev aldı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-02T14:01:11.994786+00:00",
-  "cluster_id": "c662c1f3a246a"
  }
 ]
