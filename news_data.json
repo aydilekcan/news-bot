@@ -1,5 +1,149 @@
 [
  {
+  "title": "Trump: (ABD'nin Irak'ı işgali) Yanlış ülkeye saldırdılar ve büyük hasara yol açtılar",
+  "link": "https://www.aa.com.tr/tr/dunya/trump-abdnin-iraki-isgali-yanlis-ulkeye-saldirdilar-ve-buyuk-hasara-yol-actilar/3998160",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Trump, ABD'nin 11 Eylül sonrası Irak'ı işgal etmesini 'yanlış ülkeyi işgal' olarak niteledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-14T18:01:22.038861+00:00",
+  "type": "news",
+  "cluster_id": "cdd2516563521"
+ },
+ {
+  "title": "US consumer inflation moderates; upside risks remain amid renewed Middle East conflict",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYW9Yb2N3aXZuNlJEWEtmbTZfd1Q3ZGtGWnFGRkdHSjdNelZQd0dWUktpMUhFdVM3UWxUNms0TC1YUFFZTU5HZkRxWmlpdk45QnlkWEItbmlRb19lQzl1OVV2Ml9UMkFJc2xoVUFtQU9jQk5lMmRhM2liUGJzNllvNV9VM1Q1c1R0NEpnZ05TXy1MWGJWcWN3Ukh5OUc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD tüketici enflasyonu ılımlılaştı; Ortadoğu çatışması yüksek yönlü riskleri koruyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-14T18:01:22.038861+00:00",
+  "type": "news",
+  "cluster_id": "c9fff7ce6f99d"
+ },
+ {
+  "title": "Trump, Hürmüz'den geçişlere yüzde 20 ücret tehdidini geri çekti",
+  "link": "https://www.bbc.com/turkce/articles/cze9e190y1zo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Trump, Hürmüz Boğazı'ndaki gemilere geçiş ücreti tehdidini geri çekti; ABD, İran limanlarına abluka yeniden başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-14T18:01:22.038861+00:00",
+  "type": "news",
+  "cluster_id": "c6b7869e6f7a3"
+ },
+ {
+  "title": "Ahbap soruşturması: Denetim raporları ne diyor?",
+  "link": "https://www.dw.com/tr/ahbap-soruşturması-denetim-raporları-ne-diyor/a-77958788?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "AHBAP Derneği, Şubat-Haziran 2023'te 3,917 milyar TL bağış aldı; 2,797 milyar TL harcadı.",
+  "metric": "AHBAP bağışları 3.917 milyar TL (girdi) / 2.797 milyar TL (giderler)",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-14T18:01:22.038861+00:00",
+  "type": "news",
+  "cluster_id": "c7d945078425a"
+ },
+ {
+  "title": "MASAK'ın AHBAP raporu ortaya çıktı",
+  "link": "https://www.sozcu.com.tr/masak-in-ahbap-raporu-ortaya-cikti-p336495",
+  "source": "Sözcü",
+  "summary_tr": "MASAK, AHBAP Derneği ve Haluk Levent hakkında soruşturma raporunu açıkladı; EFT kullanımı gözden geçirildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-14T18:01:22.038861+00:00",
+  "type": "news",
+  "cluster_id": "c086a9922c50b"
+ },
+ {
+  "title": "Trump'tan Netanyahu'ya Lübnan ve Suriye teklifi",
+  "link": "https://www.sozcu.com.tr/trump-tan-netanyahu-ya-lubnan-ve-suriye-teklifi-p336494",
+  "source": "Sözcü",
+  "summary_tr": "Trump, Netanyahu'ya Lübnan ve Suriye'deki askeri varlığını sona erdirmesini teklif etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-14T18:01:22.038861+00:00",
+  "type": "news",
+  "cluster_id": "c689cd902d155"
+ },
+ {
+  "title": "Irak Başbakanı Zeydi: ABD ile stratejik bir ortaklığı ilan etmek amacıyla buradayız",
+  "link": "https://www.trthaber.com/haber/dunya/irak-basbakani-zeydi-abd-ile-stratejik-bir-ortakligi-ilan-etmek-amaciyla-buradayiz-951212.html",
+  "source": "TRT Haber",
+  "summary_tr": "Irak Başbakanı Zeydi, Washington ziyaretinde ABD ile stratejik ortaklık ilan edileceğini belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-14T18:01:22.038861+00:00",
+  "type": "news",
+  "cluster_id": "cf179496cdc92"
+ },
+ {
+  "title": "US official says Nvidia has begun shipping powerful H200 AI chips to China",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDItR0c4WHhNYk9SeEpucGtPSmk3ZnBnS1lPUll3QkNSLWx3LWpWTk92MldIc3RlWGJUVTQ5ZFQtT3pBSkhfN3B4ZDB4VFpvVEZTVThMMXFVS1hhTGZBSFI2OXRncjFTVndGTUwyRHpXb0I3UXFRZWhBOUpFRm15MURsUnRXMFJfak5sOWNDZlJFWDdJT3Y3NVRleW5iZFZzM2hwUQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Nvidia, güçlü H200 yapay zeka çiplerini Çin'e sevk etmeye başladı; ABD resmiyet tarafından doğrulandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-14T18:01:22.038861+00:00",
+  "type": "news",
+  "cluster_id": "cade2ab55eb2c"
+ },
+ {
+  "title": "ABD mahkemesinden Rıza Sarraf kararı",
+  "link": "https://www.diken.com.tr/abd-mahkemesinden-riza-sarraf-karari/?utm_source=rss&utm_medium=rss&utm_campaign=abd-mahkemesinden-riza-sarraf-karari",
+  "source": "Diken",
+  "summary_tr": "ABD mahkemesi, Rıza Sarraf'ı İran yaptırımlarını yasadışı yollarla delme suçlamasından mahkum etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-14T18:01:22.038861+00:00",
+  "type": "news",
+  "cluster_id": "c79306f496012"
+ },
+ {
+  "title": "Hüküm açıklandı: Reza Zarrab hakkında karar çıktı",
+  "link": "https://www.cumhuriyet.com.tr/dunya/hukum-aciklandi-reza-zarrab-hakkinda-karar-cikti-2520844",
+  "source": "Cumhuriyet",
+  "summary_tr": "Reza Zarrab hakkında ABD mahkemesi karar açıkladı; yaptırım delme, dolandırıcılık ve kara para aklama suçlamalarından mahkum oldu.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-14T18:01:22.038861+00:00",
+  "type": "news",
+  "cluster_id": "c6c05a79c0496"
+ },
+ {
+  "title": "Reza Zarrab hakkında karar çıktı",
+  "link": "https://www.sozcu.com.tr/reza-zarrab-hakkinda-karar-cikti-p336492",
+  "source": "Sözcü",
+  "summary_tr": "ABD mahkemesi, Reza Zarrab hakkında karar açıkladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-14T18:01:22.038861+00:00",
+  "type": "news",
+  "cluster_id": "c6c05a79c0496"
+ },
+ {
+  "title": "EU aviation body reinstates Middle East flights warning as fighting resumes",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT3RURUV1aDVOdzI3Ui1jN1YxUjBBdUtnME1lN3VIMlZ0OS12alN1Znl5OHhyaG5xQk12dWNPeDNSRTVHWFpfQ1VjLW5wSzlGSFRZZGNPZkRUX0RvbDVTekJVOVBvMjhlZDl4N2hTYXR5anVvemFqQ1NMT2hsUGwwTHQ4cXdzTVF3ekxmbEpQWFNhaUxKTDVKNjVIOFdubDlHd2N3b1UxVFFvbDZBSHRlTEU2RzdsT2NGNGh1QXp3TGpJeXU4?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ortadoğu'da savaş yeniden alevlenince AB havacılık otoritesi, bölge uçuşları için uyarıyı yeniden başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-14T18:01:22.038861+00:00",
+  "type": "news",
+  "cluster_id": "c8e2360b34641"
+ },
+ {
   "title": "En düşük emekli maaşının 23 bin 552 liraya yükseltilmesi komisyonda kabul edildi",
   "link": "https://www.diken.com.tr/en-dusuk-emekli-maasinin-23-bin-552-liraya-yukseltilmesi-komisyonda-kabul-edildi/?utm_source=rss&utm_medium=rss&utm_campaign=en-dusuk-emekli-maasinin-23-bin-552-liraya-yukseltilmesi-komisyonda-kabul-edildi",
   "source": "Diken",
@@ -56800,125 +56944,5 @@
   "score": 6,
   "ts": "2026-06-02T13:01:08.199325+00:00",
   "cluster_id": "cb310f8133290"
- },
- {
-  "title": "Son Dakika... Hacıbektaş’ta bir kültür merkezine daha önce adı verilmişti: Kılıçdaroğlu’nun adı kaldırıldı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-hacibektas-ta-bir-kultur-merkezine-daha-once-adi-verilmisti-kilicdaroglu-nun-adi-kaldirildi-2508699",
-  "source": "Cumhuriyet",
-  "summary_tr": "Mahkeme kararıyla CHP Genel Başkanı olarak görevlendirilen Kemal Kılıçdaroğlu'nun adı Hacıbektaş'taki kültür merkezinden kaldırıldı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-02T13:01:08.199325+00:00",
-  "cluster_id": "ccee771fc2fce"
- },
- {
-  "title": "Mutlak butlan sonrası ilk grup toplantısı: CHP lideri Özel konuşuyor",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVlBsUEc0eVVmZGhFT1FyNmQ2YVJIYlpROENNYzNoOXVhSVc3WmtXajl4UWlaR1U1d1U2STFNX0RKbVBaSlBFV1g2U2dkRkVNWi1DMEdUR0VYUTFmQ3AxbkJVdE1LUklVZFgwWGJfR05nMDFkb21mVHVzTU55VlBHRkJ3TlhBUVdBV05UNldFLUtXTW5uZUtvZWtoTDMwaExramUwUUJB?oc=5",
-  "source": "T24",
-  "summary_tr": "Mutlak butlan sonrası ilk grup toplantısında CHP lideri Özgür Özel konuştu.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-02T13:01:08.199325+00:00",
-  "cluster_id": "cedac4b2eaa18"
- },
- {
-  "title": "Kremlin talks of new 'paradigm' in Ukraine war, accusing Kyiv of 'acts of terror'",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHlCX19ldlI1MUVuYjRvb0piZDAxalpDUkEySVVQQ3Y3RVBwbXZqd1gwRU9faXpTc3FxUE5BalpXQjNMcFZkSmRIaE1TVThhZUZWZnk3NlR2MzJuSTlOdWZHTnEzQnpxT05wTkJGZzR2QkpPalBwZHBKR1p0c3NaQTRDdVJBQTJEUDNfLXFrM3NMcW5UaXpGMGRuT29KZERQU3FJSmZqZFBDUDFLWWIzeWhwSQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Kremlin, Ukrayna savaşında 'yeni bir paradigmadan' bahsederek Kyiv'i 'terör eylemleri'yle suçladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-02T12:01:10.376310+00:00",
-  "cluster_id": "c15272b132db5"
- },
- {
-  "title": "Russian attack kills at least 18 in Ukraine, some of them children buried under rubble",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGxXR2U4dDJ3b3g0YXhjUmhVaWE4enNrdmlGRy1hZ0tsalhWaFNzalQwTUlEY3Q2bzBfRUpZMWptek1IdjUyLS16U2I2eFpKbDVVd0tnbHh0WW40ak9VME0zNU1wVjd4WnI3V2s5NjJTV25HdG42VjFNVVJXbTRVb1RQUnhzSVcwWEVqNEJFS2JZM0pZTktYOF9LMVN3b1dz?oc=5",
-  "source": "AP",
-  "summary_tr": "Rus saldırısında Ukrayna'da en az 18 kişi öldü; çocukların bazıları enkazın altında bulundu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-02T12:01:10.376310+00:00",
-  "cluster_id": "c27ff6e7cd2b4"
- },
- {
-  "title": "Özel: 'Karşımızda mutlak sultan ile mutlak butlanın ittifakı var'",
-  "link": "https://www.bbc.com/turkce/articles/c5y8nze5pvlo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel, Meclis grup toplantısında mahkeme kararıyla görevinden alınmasını 'mutlak butlan' olarak nitelendirdi ve muhalefet etmişlerdir.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-02T12:01:10.376310+00:00",
-  "cluster_id": "cc2f12845b18d"
- },
- {
-  "title": "Özgür Özel'den Erdoğan'a: Talimatı sen verdin",
-  "link": "https://www.diken.com.tr/ozgur-ozelden-erdogana-talimati-sen-verdin/?utm_source=rss&utm_medium=rss&utm_campaign=ozgur-ozelden-erdogana-talimati-sen-verdin",
-  "source": "Diken",
-  "summary_tr": "Mahkeme kararıyla genel başkanlığından alınan Özgür Özel, grup toplantısında Erdoğan'ı 'talimat verdi' suçlamasıyla eleştirdi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-02T12:01:10.376310+00:00",
-  "cluster_id": "c1d66c02efe01"
- },
- {
-  "title": "Dışişleri Bakanı Fidan, Trump'ın NATO Zirvesi'ne katılmayı planladığını söyledi",
-  "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-trumpin-nato-zirvesine-katilmayi-planladigini-soyledi/3954138",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Dışişleri Bakanı Hakan Fidan, ABD Başkanı Donald Trump'ın 7-8 Temmuz'da yapılacak NATO Zirvesi'ne katılmayı planladığını açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-02T12:01:10.376310+00:00",
-  "cluster_id": "c9e64540db6f8"
- },
- {
-  "title": "Bakan Fidan: Trump, NATO Zirvesi'ne katılmayı planlıyor",
-  "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-trump-nato-zirvesine-katilmayi-planliyor-946927.html",
-  "source": "TRT Haber",
-  "summary_tr": "Dışişleri Bakanı Hakan Fidan, ABD Başkanı Trump'ın NATO Zirvesi'ne katılmayı planladığını belirtti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-02T12:01:10.376310+00:00",
-  "cluster_id": "c9e64540db6f8"
- },
- {
-  "title": "Buca Belediyesi'ne yolsuzluk operasyonunda gözaltı sayısı 54 oldu",
-  "link": "https://www.trthaber.com/haber/turkiye/buca-belediyesine-yolsuzluk-operasyonunda-gozalti-sayisi-54-oldu-946926.html",
-  "source": "TRT Haber",
-  "summary_tr": "İzmir Buca Belediye Başkanı Görkem Duman'ın da aralarında olduğu yolsuzluk operasyonunda gözaltı sayısı 54'e yükseldi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-02T12:01:10.376310+00:00",
-  "cluster_id": "c15a6e4453eb9"
- },
- {
-  "title": "Hürmüz Boğazı 94 gündür kapalı: Nakliye ücretleri katlanıyor",
-  "link": "https://www.trthaber.com/haber/dunya/hurmuz-bogazi-94-gundur-kapali-nakliye-ucretleri-katlaniyor-946920.html",
-  "source": "TRT Haber",
-  "summary_tr": "Hürmüz Boğazı 94 gündür kapalı kalarak nakliye ücretleri katlanmaktadır; sektör temsilcileri tam güvenlik garantisi talep ediyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-02T12:01:10.376310+00:00",
-  "cluster_id": "cf83bda7029ac"
- },
- {
-  "title": "Bakırhan 'mutlak butlan' kararı için Yargıtay'a seslendi",
-  "link": "https://www.diken.com.tr/bakirhan-mutlak-butlan-karari-icin-yargitaya-seslendi/?utm_source=rss&utm_medium=rss&utm_campaign=bakirhan-mutlak-butlan-karari-icin-yargitaya-seslendi",
-  "source": "Diken",
-  "summary_tr": "DEM Parti Eş Genel Başkanı Tuncer Bakırhan, CHP'nin 'mutlak butlan' kararı konusunda Yargıtay'a başvurdu.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-02T12:01:10.376310+00:00",
-  "cluster_id": "c5a9411fbf43a"
- },
- {
-  "title": "CHP Genel Merkezindeki o görüntüler Özgür Özel'i çileden çıkardı",
-  "link": "https://www.sozcu.com.tr/chp-genel-merkezindeki-o-goruntuler-ozgur-ozel-i-cileden-cikardi-p324564",
-  "source": "Sözcü",
-  "summary_tr": "CHP Meclis grup toplantısında Özgür Özel, 24 Mayıs'ta polisin CHP genel merkezini tahliye etmesine tepki gösterdi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-02T12:01:10.376310+00:00",
-  "cluster_id": "cf7f22c711bf6"
  }
 ]
