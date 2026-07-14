@@ -1,5 +1,101 @@
 [
  {
+  "title": "İran'ın güneyinde patlama sesleri, Tahran'dan Hürmüz Boğazı'nda tanker saldırıları",
+  "link": "https://www.bbc.com/turkce/articles/cze9e190y1zo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "İran, ABD ile karşılıklı saldırılar sırasında güney limanlarında patlama sesleri bildirdi; Hürmüz Boğazı'nda tanker saldırıları devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-14T15:01:29.987686+00:00",
+  "type": "news",
+  "cluster_id": "ca37937a54b26"
+ },
+ {
+  "title": "İran Meclisi’nde ABD’ye karşı fesih çağrısı",
+  "link": "https://www.cumhuriyet.com.tr/dunya/iran-meclisi-nde-abd-ye-karsi-fesih-cagrisi-2520813",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran Meclisinin 180 milletvekili, ABD'nin uluslararası anlaşmayı feshetmesine karşılık söz konusu mutabakatın feshedilmesini çağırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-14T15:01:29.987686+00:00",
+  "type": "news",
+  "cluster_id": "c7fa98875e105"
+ },
+ {
+  "title": "Fed Başkanı Warsh, yüksek seyreden enflasyona karşı toleranslarının olmadığını vurguladı",
+  "link": "https://www.aa.com.tr/tr/dunya/fed-baskani-warsh-yuksek-seyreden-enflasyona-karsi-toleranslarinin-olmadigini-vurguladi/3997852",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Fed Başkanı Warsh, yüksek seyreden enflasyona karşı toleranslarının olmadığını vurgulayarak fiyat istikrarı hedeflediğini belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-14T15:01:29.987686+00:00",
+  "type": "news",
+  "cluster_id": "c2f3394005bbd"
+ },
+ {
+  "title": "ABD-İran çatışmaları şiddetleniyor: Hürmüz'de çözüm çıkmazda",
+  "link": "https://www.dw.com/tr/abd-iran-çatışmaları-şiddetleniyor-hürmüz-de-çözüm-çıkmazda/a-77955875?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "ABD-İran çatışmaları nedeniyle Hürmüz Boğazı'nda ulaşım kesintileri yaşanıyor; havayolu şirketleri ve kargo firmaları uyarıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-14T15:01:29.987686+00:00",
+  "type": "news",
+  "cluster_id": "c214c5bdb3854"
+ },
+ {
+  "title": "Özel'den Kılıçdaroğlu'na genel başkanlık yarışı çağrısı: 'Kaybeden CHP'yi salsın'",
+  "link": "https://www.bbc.com/turkce/articles/cpv3vjdzvvdo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "CHP Grup Başkanı Özel, mahkeme kararıyla göreve dönen Kılıçdaroğlu'nun genel başkanlık yarışına katılmasını istedi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-14T15:01:29.987686+00:00",
+  "type": "news",
+  "cluster_id": "ced66341c68ec"
+ },
+ {
+  "title": "Kılıçdaroğlu'nun avukatının başkanlık ettiği kurul yarın toplanıyor: Hedef belediyeler",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/kilicdaroglu-nun-avukatinin-baskanlik-ettigi-kurul-yarin-toplaniyor-hedef-belediyeler-2520814",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP'de belediyelere yönelik idari ve adli süreçleri incelemek üzere kurulan Yerel Yönetimler Hukuki Süreci kurulu yakında toplanacak.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-14T15:01:29.987686+00:00",
+  "type": "news",
+  "cluster_id": "c4fb024ac76b4"
+ },
+ {
+  "title": "Rusya’dan Türkiye’ye Ukrayna çağrısı: Sert bir mesaj vermesini bekliyoruz",
+  "link": "https://www.cumhuriyet.com.tr/dunya/rusya-dan-turkiye-ye-ukrayna-cagrisi-sert-bir-mesaj-vermesini-bekliyoruz-2520810",
+  "source": "Cumhuriyet",
+  "summary_tr": "Rusya Dışişleri Bakanı Lavrov, Türkiye'den Ukrayna'ya sert bir mesaj vermesini beklediğini söyledi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-14T15:01:29.987686+00:00",
+  "type": "news",
+  "cluster_id": "cd3cf64dafcd2"
+ },
+ {
+  "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "IBM, yapay zeka patlamasının yazılım bütçelerini sıkıştırdığını uyarırken hisse senetleri sektörde düştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-14T15:01:29.987686+00:00",
+  "type": "news",
+  "cluster_id": "c323058b5564f"
+ },
+ {
   "title": "US consumer inflation slows more than expected in June",
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYW9Yb2N3aXZuNlJEWEtmbTZfd1Q3ZGtGWnFGRkdHSjdNelZQd0dWUktpMUhFdVM3UWxUNms0TC1YUFFZTU5HZkRxWmlpdk45QnlkWEItbmlRb19lQzl1OVV2Ml9UMkFJc2xoVUFtQU9jQk5lMmRhM2liUGJzNllvNV9VM1Q1c1R0NEpnZ05TXy1MWGJWcWN3Ukh5OUc?oc=5",
   "source": "Reuters",
@@ -56796,85 +56892,5 @@
   "score": 8,
   "ts": "2026-06-02T09:01:04.382376+00:00",
   "cluster_id": "cb8d1e20324f6"
- },
- {
-  "title": "Kılıçdaroğlu yönetiminden Meclis'e yanıt: CHP grup toplantısı yapılmayacak",
-  "link": "https://www.diken.com.tr/kilicdaroglu-yonetiminden-meclise-yanit-chp-grup-toplantisi-yapilmayacak/?utm_source=rss&utm_medium=rss&utm_campaign=kilicdaroglu-yonetiminden-meclise-yanit-chp-grup-toplantisi-yapilmayacak",
-  "source": "Diken",
-  "summary_tr": "Mahkeme tarafından CHP genel başkanlığına getirilen Kılıçdaroğlu yönetimi, CHP grup toplantısı yapılmayacağını bildirdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-02T09:01:04.382376+00:00",
-  "cluster_id": "c1f35db6cb08a"
- },
- {
-  "title": "Süresiz nafaka kalkacak mı? Anayasa Mahkemesi görüşecek",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/suresiz-nafaka-kalkacak-mi-anayasa-mahkemesi-gorusecek-2508606",
-  "source": "Cumhuriyet",
-  "summary_tr": "Anayasa Mahkemesi, boşanmada süresiz nafaka verilmesini düzenleyen Medeni Kanun maddesinin iptal istemini 4 Haziran'da görüşecek.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-02T09:01:04.382376+00:00",
-  "cluster_id": "ce5514f980ce1"
- },
- {
-  "title": "CHP'de şaibeli kurultayda yeni ifade",
-  "link": "https://www.trthaber.com/haber/gundem/chpde-saibeli-kurultayda-yeni-ifade-946896.html",
-  "source": "TRT Haber",
-  "summary_tr": "CHP'nin 38. Olağan Kurultayı soruşturmasında tutuklu Uşak Belediye Başkanı Özkan Yalım ile Özel ve Ağbaba'ya yakın görevliler ifade verdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-02T09:01:04.382376+00:00",
-  "cluster_id": "cc426e9d9cde2"
- },
- {
-  "title": "Süreç için 9 maddelik yasa hazırlığı: Silah bırakan PKK'ye bir yıl süre, siyasete 5 yıl yasak iddiası",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTU1wUVRGOTlXWUQwdF9sVHNEaHg3cHA5UUc4TlJ4eDdqUFEyWGRJa3NPZ2xOYnRFdGdGa0pQenppOUJxSlVmQzA4NkhVc19SZHhQaVR4WjdZVVpxYVJZdmN3czhZbV9BS2g0eHpMajFjXzJyMThONktkaHJOV2k0YmpHTFlFMEJ6cHQ0S3lXTnFPSEdDaEpoTWFHNng0ay1FR1hMazRUVGZRWS1xQjBnYUtwS0c3LVRkeUFhaVBB?oc=5",
-  "source": "soL",
-  "summary_tr": "PKK silah bıraksın diye 9 maddelik yasa hazırlığı yapılıyor: silah bırakanlara 1 yıl süre, siyasete 5 yıl yasak iddiası.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-02T09:01:04.382376+00:00",
-  "cluster_id": "c842106cf2095"
- },
- {
-  "title": "Bahçeli: Türk siyasetini kirleten kişiler siyasetten temizlenmeli",
-  "link": "https://www.diken.com.tr/bahceli-turk-siyasetini-kirleten-kisiler-siyasetten-temizlenmeli/?utm_source=rss&utm_medium=rss&utm_campaign=bahceli-turk-siyasetini-kirleten-kisiler-siyasetten-temizlenmeli",
-  "source": "Diken",
-  "summary_tr": "MHP Genel Başkanı Bahçeli, Türk siyasetini kirleten kişilerin siyasetten temizlenmesi gerektiğini söyledi.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-02T09:01:04.382376+00:00",
-  "cluster_id": "c7b03014b285f"
- },
- {
-  "title": "KVKK'den 'mesai takibi için biyometrik veri işlenmesin' kararı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/kvkk-den-mesai-takibi-icin-biyometrik-veri-islenmesin-karari-2508602",
-  "source": "Cumhuriyet",
-  "summary_tr": "KVKK, biyometrik tanıma sistemlerinin mesai takibinde kullanılmamasını karar aldı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-02T09:01:04.382376+00:00",
-  "cluster_id": "cc14f7eade46c"
- },
- {
-  "title": "Avrupa Parlamentosu komitesinden ABD ile ticaret anlaşmasına \"yeşil ışık\"",
-  "link": "https://www.aa.com.tr/tr/ekonomi/avrupa-parlamentosu-komitesinden-abd-ile-ticaret-anlasmasina-yesil-isik/3953925",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Avrupa Parlamentosu Uluslararası Ticaret Komitesi, AB-ABD ticaret anlaşmasının uygulanmasına onay verdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-02T09:01:04.382376+00:00",
-  "cluster_id": "cb2a920f0d67e"
- },
- {
-  "title": "İsrailli eski istihbarat şefi, ABD/İsrail'in İran yönetimini devirme planını Türkiye'nin engellediğini söyledi",
-  "link": "https://www.aa.com.tr/tr/dunya/israilli-eski-istihbarat-sefi-abd-israilin-iran-yonetimini-devirme-planini-turkiyenin-engelledigini-soyledi/3953901",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail eski istihbarat şefi, ABD ve İsrail'in İran yönetimine karşı plan yaptığını ve Türkiye'nin bunu engellediğini söyledi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-02T09:01:04.382376+00:00",
-  "cluster_id": "c6d0a56f8aab0"
  }
 ]
