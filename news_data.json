@@ -1,5 +1,65 @@
 [
  {
+  "title": "Asian stocks drop as oil rises after Trump's Hormuz levy threat",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWRaMVFPRFNSMDhQQ1dQT09aWlhsdzdhVGVFcGUzblZreE9kSms3eXc3ZjRlbVhvdUtFRW5IQ3ZSSE42bnhoTGxIaVlwbVVQR0tLUE0yY1N3NTJ2Qko2S01pNHREcW5CbmpweXpORmVRRzdCR0RDcTRjeG9oS2tqR2hIWQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump'ın Hormuz geçişine vergi tehdidi sonrası petrol yükseldi, Asya borsaları düştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-14T05:01:15.540871+00:00",
+  "type": "news",
+  "cluster_id": "cf2b02356555f"
+ },
+ {
+  "title": "Nvidia halves Asia AI chip customer list, FT reports",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ042c2NBTzI2SnhBeFZzMC03WndWMmFTRG1KbXI4V2hacnh2SWZUZ29nbkRvcUNVRi1NVEhWd19hSmNNNzh0QzNLVjhZcjFLWXhGdjFhLXIxcDRnUEQ0X0RRaXRVckJRd2Q1bmNpTklSbW5NUnNJUTdNejllLTVpTzF2QkI5V1YwUHVCWVgyREVXZG1QVS1fYWNGRVFweUlVQlpJSVhWNDF6WDd2TGc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Nvidia, Asya'daki yapay zeka çip müşterilerinin listesini yarıya indirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-14T05:01:15.540871+00:00",
+  "type": "news",
+  "cluster_id": "c4acc51cb7090"
+ },
+ {
+  "title": "China's June trade tops forecasts buoyed by AI boom",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRGpqNHVtR2tXdDB5RnBUeHF0U2oyRDRMNnduQVM0eHBWOTVxalVjSGdOMXlFZGxNRUc2dW9fcUttclVoVTdKbk5rRUlVOEdqWHFQRzd5WllrZGI2dnhOVEJXRDU1eFhSVlAtZDk2UEFCRExBdEQxMEdhTENzdzVRVWpaVUhJU2l2RU1KT0xobmNyeGtPcEY1S3Exb3doaG8?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin'in haziran ticareti yapay zeka patlaması ile tahminleri aştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-14T05:01:15.540871+00:00",
+  "type": "news",
+  "cluster_id": "cfda5b77f8fc2"
+ },
+ {
+  "title": "Alman ekonomistler altın fiyatlarında ne bekliyor?",
+  "link": "https://www.dw.com/tr/alman-ekonomistler-altın-fiyatlarında-ne-bekliyor/a-77937834?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Alman ekonomistler altın fiyatlarında yükseliş eğilimi bekliyor. Merkez bankaları altın alımlarını artırıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-14T05:01:15.540871+00:00",
+  "type": "news",
+  "cluster_id": "c92ab88771c9b"
+ },
+ {
+  "title": "Inside South Korea's world-beating bear market",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaEJndTJ6U0M1a0pZNjRWQmRvUS1HRUpuUmdlcUtMZWhqY3NZbS1sZ1RZdmlsWHJOakF0M3hlX0hwZlgzWmJEMTV3WUthQkN0S01KbjdxWjl0X0NJcXNOZXJJZlZ4SmNadnRlWms1UkJqcXVrM3YtbTJVSm9sejBhYTBlS3NKUG5sTzQ3QU5kdkdDV09EcnBsWWRvdVFnTFU5S0E?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Güney Kore dünya çapında birinci sıradaki bear market deneyimi yaşıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-14T05:01:15.540871+00:00",
+  "type": "news",
+  "cluster_id": "cffc450ce615f"
+ },
+ {
   "title": "Trump, Hürmüz Boğazı'na ablukayı geri getirdiğini açıkladı, karşılıklı saldırılar sürüyor",
   "link": "https://www.bbc.com/turkce/articles/ce8jlnm787jo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -56656,55 +56716,5 @@
   "score": 7,
   "ts": "2026-06-01T19:01:03.674580+00:00",
   "cluster_id": "ca2d03f3ad63a"
- },
- {
-  "title": "Trump says Israel and Hezbollah have agreed to dial back fighting",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVVpVdS1EUXBJSVJ5OXF3WW8ybjhqUUhvbVl1NXBJS3JwYjQ0UXhLRHZwUXZpRzVITVR4amw0WFcwNVZPalJpV3ctU1hzOHB6Y0daY2l6M3V2ZXB1Z0thblRnVURodXFGRmtBbHpOSFlNVjJYRVRSM3VzYi1VQkNaU3dfSVpBUUlBTWgzOTJCN2djVV84Y3dhTUJHWUE5UGROTW1tdlljWmxvSjcyUEFFeUY1dk96ZjhZdUVxZFU5Mkg5OUdaWE5Bag?oc=5",
-  "source": "AP",
-  "summary_tr": "Trump, İsrail ve Hizbullah'ın çatışmaları azaltmaya razı olduklarını açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T19:01:03.674580+00:00",
-  "cluster_id": "ce9f0d48335a4"
- },
- {
-  "title": "Jefferies International: ABD seçimler öncesi Türkiye'ye dolar swap hattı açabilir",
-  "link": "https://www.diken.com.tr/jefferies-international-abd-secimler-oncesi-turkiyeye-dolar-swap-hatti-acabilir/?utm_source=rss&utm_medium=rss&utm_campaign=jefferies-international-abd-secimler-oncesi-turkiyeye-dolar-swap-hatti-acabilir",
-  "source": "Diken",
-  "summary_tr": "Yatırım bankası Jefferies, ABD seçimleri öncesi Türkiye'ye dolar swap hattı açılabileceğini bildirdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-01T19:01:03.674580+00:00",
-  "cluster_id": "c7e296ce80702"
- },
- {
-  "title": "İran'dan İsrail ve ABD'ye Lübnan uyarısı",
-  "link": "https://www.sozcu.com.tr/iran-dan-israil-ve-abd-ye-lubnan-uyarisi-p324343",
-  "source": "Sözcü",
-  "summary_tr": "İran Meclisi Ulusal Güvenlik ve Dış Politika Komisyonu Başkanı, İsrail'in Lübnan saldırılarına karşı uyarı yaptı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-01T19:01:03.674580+00:00",
-  "cluster_id": "cb19502627630"
- },
- {
-  "title": "“Vize İmparatorluğu” araştırma dosyasına erişim engeli getirildi",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdUtCcklMNU5mZ2RYRmE5V1RNZjU2bUtRWnhnTk50dTVvQjd4TVVOalZqa2V5VzJZYW1PVXRxV2QtRFFKaG16NTV6UVQwUUVPS2p4ZGpuYjdiVWJ0cUlZZDJXQzB4NUwyOEJuYWJtcDVrQUprOHhYUkxtMzcxaGpIOXJEczlZVFh2VUdCOWItYUItNlh5dVpBemNEM0w?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "'Vize İmparatorluğu' araştırma dosyasına erişim engeli getirildi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-01T19:01:03.674580+00:00",
-  "cluster_id": "cafbd759fb049"
- },
- {
-  "title": "Two explosions hit cargo vessel in Gulf off Iraq, officials say",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd2lJSVY2enVaVm9LN3VvTzJYR1cwMlUtNkNyQ2dadl95SkVGM3J6Szg3X0VOb2ZQbldQWDRmbkFuYkJpRXFLLVVOSThxRFBDY1ZPU2d5ekdncVFTblc4V3ZkN2RXZEJRM09kVFRPU2EzZk9vUU54amxoWWtTNG1yNjhtQ0VicDhjbnRYZm9VV2RXSmt1UjI5QW9BTngwQzNLNUNYZ2JETUhaSU9KMzUzY2ZUcw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Irak açıklarında yüklü bir kargo gemisine iki patlama meydana geldi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-01T19:01:03.674580+00:00",
-  "cluster_id": "c3da575ddc7c3"
  }
 ]
