@@ -1,5 +1,53 @@
 [
  {
+  "title": "En düşük emekli aylığı 23 bin 552 liraya yükseltilecek",
+  "link": "https://www.trthaber.com/haber/gundem/en-dusuk-emekli-ayligi-23-bin-552-liraya-yukseltilecek-951225.html",
+  "source": "TRT Haber",
+  "summary_tr": "TBMM Plan ve Bütçe Komisyonu en düşük emekli aylığını 23.552 liraya yükselttı. Emekli gelirinde somut artış kararı.",
+  "metric": "En düşük emekli aylığı -> 23.552 TL",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-14T22:01:17.285276+00:00",
+  "type": "news",
+  "cluster_id": "c4fcde65f8761"
+ },
+ {
+  "title": "Türkiye-Ukrayna Serbest Ticaret Anlaşması onaylandı",
+  "link": "https://www.sozcu.com.tr/turkiye-ukrayna-serbest-ticaret-anlasmasi-onaylandi-p336528",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye-Ukrayna Serbest Ticaret Anlaşması onaylandı. Ticaret ve enerji politikası düzeyinde gelişme.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-14T22:01:17.285276+00:00",
+  "type": "news",
+  "cluster_id": "c8cbba353ade5"
+ },
+ {
+  "title": "İran: İslamabad Mutabakatı ortadan kalktı",
+  "link": "https://www.trthaber.com/haber/dunya/iran-islamabad-mutabakati-ortadan-kalkti-951230.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran, ABD'nin saldırıları ve deniz ablukası nedeniyle İslamabad Mutabakatı'nı geçersiz saydığını açıkladı. Kuresel jeopolitik gelişme.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-14T22:01:17.285276+00:00",
+  "type": "news",
+  "cluster_id": "c6b9e91ab1d4d"
+ },
+ {
+  "title": "US stocks rise after data shows slowing inflation, even as IBM plunges",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOEF6RnpLaF9jU0tsSVNGdDZ4SW41OGZhMlplaTl3cExkUUJlS1g5Y2JveDRTbWFwa2RRWXlEdDgwTE9HNzc2aXVrdEltZ1JVcHhCdW5kd2JxOTF5MTNTb1l6ZDZIXzUxVnZaWVRjbTMtWTlRZjRCV2xORzcxYi1wNzRPdDN4cnlicno2aUhZdS1mN2R3X0F3?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD hisse senetleri enflasyon verileri zayıflarken yükseldi. Fed politikasına yönelik piyasa reaksiyonu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-14T22:01:17.285276+00:00",
+  "type": "news",
+  "cluster_id": "c937b5003c075"
+ },
+ {
   "title": "ABD, İran'a yönelik deniz ablukasının yürürlüğe girdiğini duyurdu",
   "link": "https://www.cumhuriyet.com.tr/dunya/abd-iran-a-yonelik-deniz-ablukasinin-yururluge-girdigini-duyurdu-2520866",
   "source": "Cumhuriyet",
@@ -56940,45 +56988,5 @@
   "score": 7,
   "ts": "2026-06-02T15:01:03.983264+00:00",
   "cluster_id": "cccb4f1939517"
- },
- {
-  "title": "İran basını: Tahran-Washington arasındaki mesaj alışverişi durdu",
-  "link": "https://www.sozcu.com.tr/iran-basini-tahran-washington-arasindaki-mesaj-alisverisi-durdu-p324613",
-  "source": "Sözcü",
-  "summary_tr": "İran basını, Tahran-Washington arasındaki mesaj alışverişinin birkaç gündür kesildiğini bildirdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-02T15:01:03.983264+00:00",
-  "cluster_id": "c20b4899ccd6a"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan, Sudan Egemenlik Konseyi Başkanı Burhan ile görüştü",
-  "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-sudan-egemenlik-konseyi-baskani-burhan-ile-gorustu-946939.html",
-  "source": "TRT Haber",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, Sudan Egemenlik Konseyi Başkanı elBurhan ile görüştü.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-02T15:01:03.983264+00:00",
-  "cluster_id": "c40a7d4bbe912"
- },
- {
-  "title": "İran basını: TahranWashington arasındaki mesaj alışverişi birkaç gündür kesintiye uğradı",
-  "link": "https://www.trthaber.com/haber/dunya/iran-basini-tahran-washington-arasindaki-mesaj-alisverisi-birkac-gundur-kesintiye-ugradi-946938.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran basını, Tahran-Washington arasındaki mesaj alışverişinin birkaç gündür kesildiğini bildirdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-02T15:01:03.983264+00:00",
-  "cluster_id": "c3da3c18e02b7"
- },
- {
-  "title": "Kılıçdaroğlu'nun A Takımı belli oldu: İşte 18 kişilik MYK listesi",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVkRBUGVHa2xTajVwSjRaRUpGdXEzVGprZFpWNGI3RXVsZW0yc3k0eUZZV0s2QWd2bzRqTUN0ZHM3RmNqc0phVUJkRV82Ny00N2htN0ExdzhrWU1zQnpNSWRZeF80cExXWTRTc1paRDMxWmhxT0FSUm8ydENuZDBQMGdaS1ZXcHJtRkxpY3ZFTGNrNEhVLW5raWxEbzhrTHRzVEE?oc=5",
-  "source": "T24",
-  "summary_tr": "Kılıçdaroğlu'nun 18 kişilik Merkez Yönetim Kurulu listesi açıklandı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-02T15:01:03.983264+00:00",
-  "cluster_id": "c5a2be6f3a3d5"
  }
 ]
