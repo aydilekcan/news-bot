@@ -1,5 +1,41 @@
 [
  {
+  "title": "İran'ın Hürmüzgan Valiliği: Şu anda deniz üzerinde çatışmalar yaşanmaktadır",
+  "link": "https://www.aa.com.tr/tr/live-blog/son-gelismeler-abdnin-irana-yonelik-saldirilari-ve-iran-in-misillemeleri/5275",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD ve İran arasında Hürmüz Boğazı çevresinde çatışmalar yaşanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-14T23:01:16.633480+00:00",
+  "type": "news",
+  "cluster_id": "ccc446df67673"
+ },
+ {
+  "title": "Trump says no one should be able to charge a fee for the Strait of Hormuz",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOTVHNU1vRzltYktZWFFsVWJkR0pKaVh4S3ZsMVZhekZUUXRTSGZwZ2JibVFGRkVsdVRHck5maU9xclVyTGJIYmRLOG11REx5X2JQSGpoOGV6WG42NmhoZFVBQndMNGZsUUxMNzhzOFd4a2ozdE5VdHpFR0VaNVZYMUNRdi0yMmk2a0l1Z3VjN3AyMkNBeUd6V1pObmZQdTR5VzFmQw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, Hürmüz Boğazı için ücret talep edilmemesi gerektiğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-14T23:01:16.633480+00:00",
+  "type": "news",
+  "cluster_id": "c1bdbb3a37dff"
+ },
+ {
+  "title": "Ukraine downs 5 Russian ballistic missiles as Kyiv looks to boost its air defenses",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOGlUSjEtcGs2cXl3c3llbFhFNGtvcENoQkF5WTB0TVZVYnk4Y3o5TEZmcXREUjhFRFJBbDQwakM2WjF0S01nQ2ZhaWZaRXdJRk8yc3h2SVhrYTBrZkxpbGpRTWRHWm9Rc2RwRmJfOHNLREVRUzBYNDM3QjNXRF9aM0Rwb3lEc01EUDBKdWZrOVNMaElmZnh2eUI2dEZUWDdTc1pTOVVTaGFCMjN0WDJPaURrX1M?oc=5",
+  "source": "AP",
+  "summary_tr": "Ukrayna 5 Rus balistik füzesini düşürdü; hava savunması güçlendirme çalışmaları sürüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-14T23:01:16.633480+00:00",
+  "type": "news",
+  "cluster_id": "c9cbed948944f"
+ },
+ {
   "title": "En düşük emekli aylığı 23 bin 552 liraya yükseltilecek",
   "link": "https://www.trthaber.com/haber/gundem/en-dusuk-emekli-ayligi-23-bin-552-liraya-yukseltilecek-951225.html",
   "source": "TRT Haber",
@@ -56958,35 +56994,5 @@
   "score": 6,
   "ts": "2026-06-02T16:01:06.539011+00:00",
   "cluster_id": "ced5bac852a96"
- },
- {
-  "title": "Özgür Özel en kalabalık grup toplantısını yaptı, \"Mutlak butlan ve mutlak sultan ittifakı\" diyerek meydan okudu",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQel9jUVBqTGVCQU43aFJLdmVsdVREQnktUmZIV1plZXUwTUhGNDYxeVczQmRXT1gyd2dYc1JaMnJhUXhjcm1yQ2xXazV3a25lUEZJdVFiRExtVW1jRmVVNmdYc05QNEUyU1FIazRtQ2JKWkM4VzE4dEp4djNWb2lPYjRCY2ViTlJh?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "CHP Grup Başkanvekili Özgür Özel, 'mutlak butlan ve mutlak sultan ittifakı' ifadesiyle hükümeti eleştirdi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-02T16:01:06.539011+00:00",
-  "cluster_id": "cc39d65dead6e"
- },
- {
-  "title": "CHP’deki ‘mutlak butlan’ kararı Meclis’i karıştırdı: ‘Türkiye’de demokrasiye darbe yapıldı’",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-deki-mutlak-butlan-karari-meclis-i-karistirdi-turkiye-de-demokrasiye-darbe-yapildi-2508744",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'nin 38. Kurultayı'na ilişkin 'mutlak butlan' kararı TBMM Genel Kurulu'nda tartışmalara yol açtı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-02T15:01:03.983264+00:00",
-  "cluster_id": "c4a2bb570a19d"
- },
- {
-  "title": "Massive Russian attack kills 18 people across Ukraine, officials say, as Moscow escalates fighting",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGxXR2U4dDJ3b3g0YXhjUmhVaWE4enNrdmlGRy1hZ0tsalhWaFNzalQwTUlEY3Q2bzBfRUpZMWptek1IdjUyLS16U2I2eFpKbDVVd0tnbHh0WW40ak9VME0zNU1wVjd4WnI3V2s5NjJTV25HdG42VjFNVVJXbTRVb1RQUnhzSVcwWEVqNEJFS2JZM0pZTktYOF9LMVN3b1dz?oc=5",
-  "source": "AP",
-  "summary_tr": "Rusya'nın masif saldırısında Ukrayna'da 18 kişi öldü; Moskova savaşı yoğunlaştırıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-02T15:01:03.983264+00:00",
-  "cluster_id": "cccb4f1939517"
  }
 ]
