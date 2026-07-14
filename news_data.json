@@ -1,5 +1,77 @@
 [
  {
+  "title": "ABD, İran'a yönelik deniz ablukasının yürürlüğe girdiğini duyurdu",
+  "link": "https://www.cumhuriyet.com.tr/dunya/abd-iran-a-yonelik-deniz-ablukasinin-yururluge-girdigini-duyurdu-2520866",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD, İran'a yönelik deniz ablukasının yürürlüğe girdiğini duyurdu ve ek hava saldırıları düzenledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-14T21:01:13.126504+00:00",
+  "type": "news",
+  "cluster_id": "c7ac0c5999ab2"
+ },
+ {
+  "title": "TBMM'de Türkiye - Irak petrol hattı tartışması... Muhalefetin araştırma önerisi AKP ve MHP oylarıyla reddedildi",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/tbmm-de-turkiye-irak-petrol-hatti-tartismasi-muhalefetin-arastirma-onerisi-akp-ve-mhp-oylariyla-reddedildi-2520879",
+  "source": "Cumhuriyet",
+  "summary_tr": "TBMM'de Türkiye-Irak petrol hattı tahkim davası ve 1,47 milyar dolarlık tazminat kararının araştırılması önerisi AKP ve MHP oylarıyla reddedildi.",
+  "metric": "1,47 milyar dolar tazminat",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-14T21:01:13.126504+00:00",
+  "type": "news",
+  "cluster_id": "c90768462959f"
+ },
+ {
+  "title": "Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun Teklifi kabul edildi",
+  "link": "https://www.trthaber.com/haber/gundem/bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasina-dair-kanun-teklifi-kabul-edildi-951226.html",
+  "source": "TRT Haber",
+  "summary_tr": "TBMM Plan ve Bütçe Komisyonu, en düşük emekli aylığının artırılmasını içeren kanun teklifini kabul etti.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-14T21:01:13.126504+00:00",
+  "type": "news",
+  "cluster_id": "c516a470ef4cd"
+ },
+ {
+  "title": "Trump, yıllar sonra ABD'nin Irak'ı işgalini eleştirdi: Yanlış ülkeye saldırdılar",
+  "link": "https://www.sozcu.com.tr/trump-yillar-sonra-abd-nin-irak-isgalini-elestirdi-yanlis-ulkeye-saldirdilar-p336515",
+  "source": "Sözcü",
+  "summary_tr": "Trump, 11 Eylül sonrası ABD'nin Irak işgalini \"yanlış ülkeye saldırı\" olarak eleştirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-14T21:01:13.126504+00:00",
+  "type": "news",
+  "cluster_id": "cbe5d79ac53cf"
+ },
+ {
+  "title": "Ukrayna'nın Odessa açıklarında bir Türk şirketine ait sivil ticaret gemisi İHA saldırısına uğradı",
+  "link": "https://www.aa.com.tr/tr/dunya/ukraynanin-odessa-aciklarinda-bir-turk-sirketine-ait-sivil-ticaret-gemisi-iha-saldirisina-ugradi/3998308",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ukrayna'nın Odessa açıklarında bir Türk şirketine ait sivil ticaret gemisi İHA saldırısına uğradı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-14T21:01:13.126504+00:00",
+  "type": "news",
+  "cluster_id": "c43ff03a9734e"
+ },
+ {
+  "title": "US Russia sanctions bill eases threat of tariffs on China and India",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQktFMlI0T1BvR192M1JmY0ZQRmdwc0JQRHhiYUMzWG02R1ozUGFrMFE3amJFWDZvbkhkTTJjZC1hRG5xRmM2WDB3MU5SUnlsbXFnSHU0NnFpOTVtalZPNk4zdWlkcmIySTJpbGJIVGFKdDJtYTdOaGdIcWNvcmowcHNKNFVtX0MwTFV2UnQwTUhZTmc0emFiZE1jdkVZQlBv?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD'nin Rusya yaptırımları tasarısı, Çin ve Hindistan'a yönelik tarife tehdidini hafifletmeyi sağladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-14T21:01:13.126504+00:00",
+  "type": "news",
+  "cluster_id": "ccfb3b15dc0a1"
+ },
+ {
   "title": "Son dakika... İran'dan Bahreyn ve Kuveyt'e saldırı",
   "link": "https://www.sozcu.com.tr/son-dakika-iran-dan-bahreyn-ve-kuveyt-e-saldiri-p336504",
   "source": "Sözcü",
@@ -56908,65 +56980,5 @@
   "score": 6,
   "ts": "2026-06-02T15:01:03.983264+00:00",
   "cluster_id": "c5a2be6f3a3d5"
- },
- {
-  "title": "Kılıçdaroğlu'nun MYK listesi belli oldu: İlk toplantı bugün",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRGQwM3kwTWpsb2l0VmZodXZSQ0JKNkdZR1pISGdzR0t5TDVONV84TmZ4WVRDQ2I3Z2IxeWw2anBPa0UtNnBkbHFzckZyTTkxbzRrY0xQYktBQ1ZqV1gtZXNCZVg3LWVCUFVlRFVlVHN4Zjg1SjFpeldzUzVreTNQMnhOejN3ZEY4YTRzWnpaQXgzXzRQT1pfZXBFQQ?oc=5",
-  "source": "soL",
-  "summary_tr": "Kılıçdaroğlu'nun 18 kişilik Merkez Yönetim Kurulu listesi açıklandı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-02T15:01:03.983264+00:00",
-  "cluster_id": "c5a2be6f3a3d5"
- },
- {
-  "title": "Netanyahu faces criticism after Trump halts Israeli strikes on Beirut",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZWZLTTJ4UXAzSlBOV095bmFhd2hLQW1TSDhQUGRFVWNfMVNXekxMem9KNXVXVTdmQWFvcms3ZEpzSDFiVVd4MEF3SzdMYkJJZDRwY0dLT3FTNHk3SFN5TmhxWXk4SnROLUpLZnctbUNOZXhLWVRjdUt0cWNMVnVmN3FYUlFCdVpPQmVhQVM0c3NoQlRUTmdOU3dUeFVsckE1VlBuSElPcU1IT2xXcXNwVEk3clY3dDBrbkpVY3pPWWgwaEREYUlXTA?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Netanyahu, Trump'ın İsrail'in Beyrut'a yapacağı hava saldırılarını durdurması sonrası eleştiriler aldı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-02T14:01:11.994786+00:00",
-  "cluster_id": "c276fe23edb5a"
- },
- {
-  "title": "'Some kind of apocalypse': A Kyiv resident recalls terror of Russian attack",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGFMYktFT0VXSmtnU2tqTzRRVlBIVHFLOFhPZmZzbC0tZF9mTjBKRUVjRUw1aWVteW1KdzhWT3RRRDU5NkcwSU12TklCcFZOZThncUdtbkpSZUFfRWRwa2F0bklqOXpGdk45R0xTeUxaNVI4Y1A2cVdTUzNmU3J3MmxfQjJaZ3M2VmxZSENNdGRxcnZDeVRSNlltdGVxRU5fS0VIN003V2xiWDZJLXBKNGhtNzdadU5IZ3YwR015OGdNaEliYkE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Kyiv sakinleri Rusya'nın son saldırılarının terörünü anlatıyor; çatışmalar devam ediyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-02T14:01:11.994786+00:00",
-  "cluster_id": "c9b80e2e37223"
- },
- {
-  "title": "Iran studying deal to halt war as stalemate persists",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcG1DSFVhQ3MxRlgtdV9LYlZndTBDX0VvZDZ4ZkZuZEV5QnhMYlhmd2phazdVMnBlUXRWXzUzWTZFSXZfSDhNMzF2VTVwdlZiMU9aMEVVVVhyWEk1QmFNWjJRSFNfWTFzOGNMXzk1ZnJSOE5EZDJycERabElIeEQ1SjQxWE9CejBZT2FDY1FnLVdFaGlvR0FQeVVkM3JSanNmdkE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran, savaşı durdurmak için bir anlaşma müzakere etmeyi inceliyor; çatışmada çıkmaz yaşanıyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-02T14:01:11.994786+00:00",
-  "cluster_id": "c95f24001fd92"
- },
- {
-  "title": "CHP'de 19 kişilik yeni MYK açıklandı, ilk toplantı bugün",
-  "link": "https://www.bbc.com/turkce/articles/c9d3zwz3xzpo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Kemal Kılıçdaroğlu, mahkeme kararıyla CHP genel başkanlığına geri dönerek 19 kişilik yeni Merkez Yönetim Kurulu'nu açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-02T14:01:11.994786+00:00",
-  "cluster_id": "cc8976676ba9e"
- },
- {
-  "title": "Kılıçdaroğlu'nun MYK'sı açıklandı: İlk toplantı 18'de",
-  "link": "https://www.diken.com.tr/kilicdaroglunun-myksi-aciklandi-ilk-toplanti-18de/?utm_source=rss&utm_medium=rss&utm_campaign=kilicdaroglunun-myksi-aciklandi-ilk-toplanti-18de",
-  "source": "Diken",
-  "summary_tr": "Kemal Kılıçdaroğlu'nun yeni MYK'sı açıklandı; ilk toplantı 18:00'de başladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-02T14:01:11.994786+00:00",
-  "cluster_id": "cd54fa8cc0293"
  }
 ]
