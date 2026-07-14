@@ -1,5 +1,17 @@
 [
  {
+  "title": "US consumer inflation slows more than expected in June",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYW9Yb2N3aXZuNlJEWEtmbTZfd1Q3ZGtGWnFGRkdHSjdNelZQd0dWUktpMUhFdVM3UWxUNms0TC1YUFFZTU5HZkRxWmlpdk45QnlkWEItbmlRb19lQzl1OVV2Ml9UMkFJc2xoVUFtQU9jQk5lMmRhM2liUGJzNllvNV9VM1Q1c1R0NEpnZ05TXy1MWGJWcWN3Ukh5OUc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD tüketici enflasyonu Haziran'da beklentileri aşarak yavaşladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-14T14:01:16.828566+00:00",
+  "type": "news",
+  "cluster_id": "cc2622107bd90"
+ },
+ {
   "title": "Son dakika... ABD'de enflasyon verisi sürpriz yaptı",
   "link": "https://www.sozcu.com.tr/son-dakika-abd-de-enflasyon-verisi-surpriz-yapti-p336425",
   "source": "Sözcü",
@@ -56864,15 +56876,5 @@
   "score": 6,
   "ts": "2026-06-02T09:01:04.382376+00:00",
   "cluster_id": "c6d0a56f8aab0"
- },
- {
-  "title": "Bloomberg yazdı: Trump seçimlerden önce Erdoğan’a dolar desteği mi verecek?",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbTVfclZXcjVhb2U5SEcyTXdkdlR4QUFQTkNpbWhEVGtINmxJRE5iWkNsSUJub2FzQlpuYzFWTVlEXzl1NHFzdTRETUVjSVA5WDRMU1hhaURLczlQV1JkNW5WdVVfYlAtdC1JWm9tdDdkQ25jRlpQbzdobi0zX3Buc3c3cE5lUUdweVlkbGFrRWFua3JiWExsOXFEYW1BNXhaa2xVZGVUZm5EUQ?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Bloomberg, Trump seçimlerden önce Erdoğan'a dolar desteği verebileceği ihtimalini yazdı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-02T09:01:04.382376+00:00",
-  "cluster_id": "ccc1ca2e7990c"
  }
 ]
