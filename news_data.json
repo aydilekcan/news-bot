@@ -1,5 +1,137 @@
 [
  {
+  "title": "İran-ABD gerginliği: Hürmüz yeniden savaş alanı",
+  "link": "https://www.dw.com/tr/iran-abd-gerginliği-hürmüz-yeniden-savaş-alanı/a-77944813?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "İran ve ABD Hürmüz Boğazı'nda üçüncü gece karşılıklı saldırıda bulundu; İran tankerleri vurdu, ABD adaları hedef aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-14T08:01:18.989997+00:00",
+  "type": "news",
+  "cluster_id": "c0f08ed86ba4f"
+ },
+ {
+  "title": "Iran says it struck US air base in Jordan, US military ends five hours of attacks",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV1NVbmwxanV3R25iWTRkMnNoY3hRblJYYVdDTU9FSGVrbDJkRDlNazBlbGV2MjBUYlNDX09Mcng5Vk9BdGJRSEIyNGdXdzlZOFV4aTh5N0xBSlB4WklnZ2VvUFc2WENOalA4Z1p0djZXVmFzV3RpMklJekp2U1JYbmxVREk4bTFtR19jQ2pJVzJkQU0xWmtsZzhBOHc5UkYtMGtld1RYUE91ZE9nNFQ5MTdvT2xxY2xoVjdzX2JqMG1uYy1IRTJz?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran, Ürdün'deki ABD hava üssüne saldırı düzenledi; ABD askeri beş saatlik saldırılarını sonlandırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-14T08:01:18.989997+00:00",
+  "type": "news",
+  "cluster_id": "ce64e47a6ee46"
+ },
+ {
+  "title": "China purges third Politburo member in deepening anti-graft drive",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVDJ0bDJkYnZTU2tsTDVzUjZPQnlveXk3dW9oYjlGMkVUcmt0YllQQ0RPTGYyenczYWtCMVlXbWJtVlp2ODNWdlhZd3ZUemcxOFVDdlFKZEZMTFVBa2VacXRISXB4MGtHTV9LVHFEMWoxd0hqTXFrRHhyVS1OemNGTHQ1eW54QWhlVUlfajBSV0FWbVozZEgyQTBCTUJGTUNiZkRHU292M2pCMURRNUxB?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin, yolsuzluk mücadelesi çerçevesinde üçüncü Politburo üyesini görevinden aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-14T08:01:18.989997+00:00",
+  "type": "news",
+  "cluster_id": "c74dbbcb8e705"
+ },
+ {
+  "title": "En düşük emekli maaşı için kritik gün: Milyonların gözü Meclis'te",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/en-dusuk-emekli-maasi-icin-kritik-gun-milyonlarin-gozu-meclis-te-2520654",
+  "source": "Cumhuriyet",
+  "summary_tr": "SSK ve Bağ-Kur emeklilerinin taban aylığı artırılması için kanun teklifi bugün TBMM Plan ve Bütçe Komisyonu'nda görüşülüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-14T08:01:18.989997+00:00",
+  "type": "news",
+  "cluster_id": "c5f6cf6cdcec0"
+ },
+ {
+  "title": "Bu durumda olanların maaşlarının kesilmesine karar verildi: Yapılan ödemeler de geri istenecek",
+  "link": "https://www.sozcu.com.tr/bu-durumda-olanlarin-maaslarinin-kesilmesine-karar-verildi-yapilan-odemeler-de-geri-istenecek-p336335",
+  "source": "Sözcü",
+  "summary_tr": "Anayasa Mahkemesi, boşandıktan sonra fiilen eski eşiyle birlikte yaşayan kişilerin gelir ve aylıklarının kesilmesine karar verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-14T08:01:18.989997+00:00",
+  "type": "news",
+  "cluster_id": "ccd4dafa7cb22"
+ },
+ {
+  "title": "Son Dakika... Devlet Bahçeli, grup toplantısında açıklamalarda bulunuyor",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-devlet-bahceli-grup-toplantisinda-aciklamalarda-bulunuyor-2520651",
+  "source": "Cumhuriyet",
+  "summary_tr": "MHP Genel Başkanı Devlet Bahçeli grup toplantısında açıklamalarda bulundu.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-14T08:01:18.989997+00:00",
+  "type": "news",
+  "cluster_id": "cf7c6b5dd318c"
+ },
+ {
+  "title": "Volkswagen 50 bin kişiyi daha işten çıkarmayı değerlendiriyor",
+  "link": "https://www.sozcu.com.tr/volkswagen-50-bin-kisiyi-daha-isten-cikarmayi-degerlendiriyor-p336339",
+  "source": "Sözcü",
+  "summary_tr": "Alman otomotiv üreticisi Volkswagen dünya genelinde yaklaşık 50 bin kişiyi işten çıkarmayı değerlendiriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-14T08:01:18.989997+00:00",
+  "type": "news",
+  "cluster_id": "ce29ca975decb"
+ },
+ {
+  "title": "Suça sürüklenen çocuk düzenlemesi: 15-18 yaş arasına müebbet verilebilecek",
+  "link": "https://www.sozcu.com.tr/suca-suruklenen-cocuk-duzenlemesi-15-18-yas-arasina-muebbet-verilebilecek-p336328",
+  "source": "Sözcü",
+  "summary_tr": "AKP Grup Başkanvekili Leyla Şahin Usta, suça sürüklenen çocuklarla ilgili kanun teklifinde 15-18 yaş arasına müebbet ceza verilmesini öngörüyor.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-14T08:01:18.989997+00:00",
+  "type": "news",
+  "cluster_id": "c43336ecd8d23"
+ },
+ {
+  "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Yeni anayasa süreci Meclis'teki siyasi partilerin katkısıyla ilerlemeli",
+  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-yeni-anayasa-sureci-meclisteki-siyasi-partilerin-katkisiyla-ilerlemeli/3997260",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Cumhurbaşkanı Yardımcısı Yılmaz, yeni anayasa sürecinin tüm Meclis partilerinin katkısıyla ilerlemesi gerektiğini söyledi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-14T08:01:18.989997+00:00",
+  "type": "news",
+  "cluster_id": "c58cb9ea61275"
+ },
+ {
+  "title": "1518 yaş grubuna müebbet hapis cezası verilebilecek",
+  "link": "https://www.trthaber.com/haber/gundem/15-18-yas-grubuna-muebbet-hapis-cezasi-verilebilecek-951156.html",
+  "source": "TRT Haber",
+  "summary_tr": "AK Parti Grup Başkan Vekili, kasten öldürme ve ağırlaştırılmış yaralama suçlarında 15-18 yaş grubuna müebbet hapis cezası verilmesini öngörüyor.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-14T08:01:18.989997+00:00",
+  "type": "news",
+  "cluster_id": "c42844fbc9db4"
+ },
+ {
+  "title": "Tavuk eti üretimi mayısta azaldı",
+  "link": "https://www.trthaber.com/haber/ekonomi/tavuk-eti-uretimi-mayista-azaldi-951153.html",
+  "source": "TRT Haber",
+  "summary_tr": "Tavuk eti üretimi mayısta geçen yılın aynı ayına göre yüzde 16,3 azalarak 202 bin 336 tona gerilerken, tavuk yumurtası üretimi de düştü.",
+  "metric": "Tavuk eti üretimi (mayıs) %16,3 azalış -> 202.336 ton",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-14T08:01:18.989997+00:00",
+  "type": "news",
+  "cluster_id": "c138966fd9f7c"
+ },
+ {
   "title": "Anne ve babaları üzecek haber: Kreş fiyatları 1 milyon TL'ye dayandı",
   "link": "https://www.sozcu.com.tr/anne-ve-babalari-uzecek-haber-kres-fiyatlari-1-milyon-tl-ye-dayandi-p336315",
   "source": "Sözcü",
@@ -56628,115 +56760,5 @@
   "score": 7,
   "ts": "2026-06-01T22:00:54.699711+00:00",
   "cluster_id": "c939d7436e90f"
- },
- {
-  "title": "AB kurumları, geri dönüş merkezleri anlaşmalarını yasallaştıran düzenlemede anlaştı",
-  "link": "https://www.aa.com.tr/tr/dunya/ab-kurumlari-geri-donus-merkezleri-anlasmalarini-yasallastiran-duzenlemede-anlasti/3953650",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "AB Parlamentosu ve AB Konseyi, reddedilen sığınmacıların üçüncü ülkelere geri gönderilmesini kolaylaştıran geri dönüş merkezi anlaşmalarını yasallaştıran düzenlemeyi onayladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-01T22:00:54.699711+00:00",
-  "cluster_id": "c2fe42ec66612"
- },
- {
-  "title": "Denmark's Frederiksen secures third term as prime minister",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYjNUdkd6THlCejY0TzQxLTZDVnRRbWVRNm5KLUNXX1BxQ2lzLXRPN0ZZd1lFVTdxc0xuZTZSMFFmYXNsWl9kOG5acjF5RHVWZmJuVTJjQ2pqdVA3aDJWdmRDTE5oMFFIVGZuUUZrdjA5MlFaNVd1UzB4Q0c3dEtsOGE5RF8xT0VyN1BnUEFlbjUwUENDa2w0X3AxNHU?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Danimarka Başbakanı Frederiksen üçüncü kez hükümet kurmayı başardı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-01T22:00:54.699711+00:00",
-  "cluster_id": "c5e271e5e484f"
- },
- {
-  "title": "Netanyahu Trump'ı dinlemiyor: Lübnan'a saldırılar sürecek",
-  "link": "https://www.diken.com.tr/netanyahu-trumpi-dinlemiyor-lubnana-saldirilar-surecek/?utm_source=rss&utm_medium=rss&utm_campaign=netanyahu-trumpi-dinlemiyor-lubnana-saldirilar-surecek",
-  "source": "Diken",
-  "summary_tr": "İsrail Başbakanı Netanyahu, ABD Başkanı Trump'ın çatışmaların durması yönündeki açıklamasına rağmen Lübnan'a saldırılara devam edeceğini açıkladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-01T21:00:59.619137+00:00",
-  "cluster_id": "c90bddec9475c"
- },
- {
-  "title": "Trump \"çatışmalar duracak\" dedi, Netanyahu yalanladı: Lübnan'a saldırılar sürecek",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/trump-catismalar-duracak-dedi-netanyahu-yalanladi-lubnan-a-saldirilar-surecek-2508498",
-  "source": "Cumhuriyet",
-  "summary_tr": "İsrail Başbakanı Netanyahu, Trump'ın çatışmaların duracağı açıklamasını yalanladı ve Lübnan'a saldırılar sürecektir dedi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-01T21:00:59.619137+00:00",
-  "cluster_id": "c90bddec9475c"
- },
- {
-  "title": "Katil Netanyahu'dan Lübnan'a saldırmaya devam edeceğiz açıklaması",
-  "link": "https://www.trthaber.com/haber/dunya/katil-netanyahudan-lubnana-saldirmaya-devam-edecegiz-aciklamasi-946836.html",
-  "source": "TRT Haber",
-  "summary_tr": "Netanyahu, Trump'ın çatışmaların duracağı açıklamasına karşılık, Lübnan'ın güneyinde saldırılara devam edileceğini duyurdu.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-06-01T21:00:59.619137+00:00",
-  "cluster_id": "c26cbf1c06cc2"
- },
- {
-  "title": "İsrailli siyasetçiler, Netanyahu'yu Lübnan konusunda eleştiri yağmuruna tuttu",
-  "link": "https://www.aa.com.tr/tr/dunya/israilli-siyasetciler-netanyahuyu-lubnan-konusunda-elestiri-yagmuruna-tuttu/3953641",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrailli siyasetçiler Netanyahu'yu Trump'ın Hizbullah ile 'saldırmama' anlaşmasına ilişkin açıklamasını desteklemediği için eleştirdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T21:00:59.619137+00:00",
-  "cluster_id": "c11fa3541d6fb"
- },
- {
-  "title": "Katil İsrail, Gazze Şeridi'nde Ekim 2025'te varılan ateşkesi 3 bin 76 kez ihlal etti",
-  "link": "https://www.trthaber.com/haber/dunya/katil-israil-gazze-seridinde-ekim-2025te-varilan-ateskesi-3-bin-76-kez-ihlal-etti-946838.html",
-  "source": "TRT Haber",
-  "summary_tr": "Filistin hükümeti, İsrail'in Ekim 2025'ten beri yürürlükte olan ateşkesi 3 bin 76 kez ihlal ettiğini açıkladı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-01T21:00:59.619137+00:00",
-  "cluster_id": "cf83eab276cca"
- },
- {
-  "title": "Zelenskiy says Ukrainian military can hit Russian logistics throughout occupied areas",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaktIY2pXTFJHeVJpQlNpb0tGeElCRnd2NjJDajh1TV9DaVFWdlBoWWZGWWJZSFB2Zm5weDJaaGtXWlhyQVZ5V1NGWE8yN25FeGpjV2NlR2pGQW9XS3hHYk9QQmFieWRLMnJ6cnZXNUdINl90bDEtb05GaERqN1pQT1REWmxHUkZBeXhpR0lJSUN6NFFOdGdXbkJOZkxWM0pnRk5uTklGanJkUzBic05LMVM4QVFUdEhXTkNEb3FB?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Zelenskiy, Ukrayna ordusunun işgal altındaki alanlarda Rus lojistik hedeflerine vurabileceğini söyledi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-01T20:00:57.297949+00:00",
-  "cluster_id": "cc0cef12a78d7"
- },
- {
-  "title": "BM: İsrail'in saldırılarını sürdürdüğü Lübnan'da hafta sonu 88 kişi hayatını kaybetti",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/bm-israil-in-saldirilarini-surdurdugu-lubnan-da-hafta-sonu-88-kisi-hayatini-kaybetti-2508483",
-  "source": "Cumhuriyet",
-  "summary_tr": "BM, İsrail'in Lübnan'a yönelik saldırılarında hafta sonu 88 kişinin öldüğünü bildirdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T20:00:57.297949+00:00",
-  "cluster_id": "cbfd0c9b51460"
- },
- {
-  "title": "Trump says he spoke to Lebanon's Hezbollah through intermediaries",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONDZETGU3TFh2UFRaRjc2b3lGU3RSRDZwUzVpWU9YRXRwWlM5MDdoMS1JQ09NVXR5TUQ1SnRXQWl2S2sxNWg3eTNxR2RPNTdEY0RhSWxMQ1Jndm1SaHZMRklDZVNuZ1dQdGJCRkw5alY0ekpTNllfZFpfNkNob2lRaWJqWV8zR2d5eXFKNDdWOXl6UnNqa0pyc2kyeE5aejRQX2lyMnppcjdoeXR5RzZwckxNT0NpejdKNzdOTU1EbFo?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, Lübnan'daki Hezbollah ile aracılar aracılığıyla görüştüğünü söyledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T20:00:57.297949+00:00",
-  "cluster_id": "c6a59ba796a09"
- },
- {
-  "title": "İsrail basınında yeni iddia: Mossad'ın dış ilişkilerden sorumlu direktörü istifa etti",
-  "link": "https://www.sozcu.com.tr/israil-basini-mossad-in-dis-iliskilerden-sorumlu-direktoru-istifa-etti-p324348",
-  "source": "Sözcü",
-  "summary_tr": "İsrail basınına göre Mossad'ın dış istihbarat ilişkilerinden sorumlu Tevel biriminin direktörü görevinden istifa etti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-01T20:00:57.297949+00:00",
-  "cluster_id": "c897e0831bfec"
  }
 ]
