@@ -1,5 +1,29 @@
 [
  {
+  "title": "Benzine 1 lira 60 kuruş zam yolda",
+  "link": "https://www.sozcu.com.tr/benzine-1-lira-60-kurus-zam-yolda-p336254",
+  "source": "Sözcü",
+  "summary_tr": "Benzine 1 lira 60 kuruş zam uygulanmak üzere. Motorine son günlerde 5,5 liralık zam gelmiş durumda.",
+  "metric": "Benzin zamı: 1,60 TL/litre",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-14T01:01:06.701029+00:00",
+  "type": "news",
+  "cluster_id": "c717e12171c49"
+ },
+ {
+  "title": "Irak’tan 1.6 milyar dolar alacağımız var",
+  "link": "https://www.sozcu.com.tr/irak-tan-1-6-milyar-dolar-alacagimiz-var-p336256",
+  "source": "Sözcü",
+  "summary_tr": "Irak, Türkiye'ye 1,6 milyar dolarlık borcunu ödemesi gerekiyor. Petrol boru hattı için Türkiye'nin Irak'a 1,5 milyar dolarlık borcu bulunuyor.",
+  "metric": "Türkiye'nin Irak alacağı: 1,6 milyar dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-14T01:01:06.701029+00:00",
+  "type": "news",
+  "cluster_id": "ca32283f9785f"
+ },
+ {
   "title": "BAE: İran Hürmüz Boğazı'nda 2 tankerimize füze saldırısı düzenledi, bir ölü, 8 yaralı",
   "link": "https://www.sozcu.com.tr/bae-iran-hurmuz-bogazi-nda-2-tankerimize-fuze-saldirisi-duzenledi-bir-olu-8-yarali-p336252",
   "source": "Sözcü",
@@ -56668,25 +56692,5 @@
   "score": 7,
   "ts": "2026-06-01T18:01:09.429806+00:00",
   "cluster_id": "cf450e36a6a60"
- },
- {
-  "title": "Trump'tan İran açıklaması: \"Müzakerelerin bitip bitmemesi umurumda değil\"",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/trump-tan-iran-aciklamasi-muzakerelerin-bitip-bitmemesi-umurumda-degil-2508465",
-  "source": "Cumhuriyet",
-  "summary_tr": "Trump, İran'ın müzakereleri durdurmasının ardından müzakerelerin sona erip ermemesinin önemli olmadığını söyledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T18:01:09.429806+00:00",
-  "cluster_id": "cabdaf40ef843"
- },
- {
-  "title": "Özel’den “iktidar yürüyüşü” mesajı: ‘Köhnemiş kara düzeni arkamızda bırakarak yürüyeceğiz!’",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/ozel-den-iktidar-yuruyusu-mesaji-kohnemis-kara-duzeni-arkamizda-birakarak-yuruyecegiz-2508463",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel, olağanüstü kurultay kararı için 600 imzaya ulaşılmasının ardından 'iktidar yürüyüşü' mesajı verdi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-01T18:01:09.429806+00:00",
-  "cluster_id": "cc0441638abe2"
  }
 ]
