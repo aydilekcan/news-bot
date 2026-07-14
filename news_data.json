@@ -1,5 +1,89 @@
 [
  {
+  "title": "Anne ve babaları üzecek haber: Kreş fiyatları 1 milyon TL'ye dayandı",
+  "link": "https://www.sozcu.com.tr/anne-ve-babalari-uzecek-haber-kres-fiyatlari-1-milyon-tl-ye-dayandi-p336315",
+  "source": "Sözcü",
+  "summary_tr": "İstanbul'da özel kreş yıllık ücretleri 1 milyon TL sınırına ulaştı. Ailelerin çocuk bakım masrafları ciddi şekilde artmış durumda.",
+  "metric": "Kreş yıllık ücreti 1 milyon TL'ye dayandı",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-14T07:01:19.287119+00:00",
+  "type": "news",
+  "cluster_id": "c08c3c569e1a6"
+ },
+ {
+  "title": "Küresel piyasalarda gözler kritik saatte",
+  "link": "https://www.sozcu.com.tr/kuresel-piyasalarda-gozler-kritik-saatte-p336308",
+  "source": "Sözcü",
+  "summary_tr": "ABD-İran gerilimi petrol fiyatlarını 85 dolar sınırına taşıdı. Hürmüz Boğazı'ndaki belirsizlikler küresel enerji piyasalarını etkilemeye devam ediyor.",
+  "metric": "Petrol fiyatı 85 dolar seviyesinde",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-14T07:01:19.287119+00:00",
+  "type": "news",
+  "cluster_id": "c3edcd1172e6d"
+ },
+ {
+  "title": "Küresel piyasalarda 'Hürmüz' gerilimi",
+  "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-hurmuz-gerilimi-951139.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD-İran gerilimi petrol fiyatlarını yükselterek küresel piyasaları olumsuz etkilemeye devam ediyor. Tahvil piyasasında satış baskısı artış gösteriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-14T07:01:19.287119+00:00",
+  "type": "news",
+  "cluster_id": "cbfbb2c2e2e5c"
+ },
+ {
+  "title": "Dollar steady before US inflation data; yen under pressure",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS1RNVXBTdkRXby15dzUxdkN6WW1Qemk4aWlTaTg1ZVhkby15RjNVbnlXbzNTdWtvNndfV2lINEtjVEZJN191cDRta0lEc2Q0aGR1M0ZydElNOVd0UTBYbXJ3RHYxOUhENW5IUWU0TVF0X3gxQXRNUzVkSTB4dENGeHNpMnMtNEJVRlhoUUhScUdUeUpfZHhtdU5CUkowZ25JRThsWFFTT0w?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Dolar, ABD enflasyon verisi öncesinde sabit tutunuyor. Yen gelişmiş ekonomilerde satış baskısı altında yer alıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-14T07:01:19.287119+00:00",
+  "type": "news",
+  "cluster_id": "c171c21c6b994"
+ },
+ {
+  "title": "Araç sahiplerini ilgilendiren yeni zam göründü: Herkesi etkileyecek",
+  "link": "https://www.sozcu.com.tr/arac-sahiplerini-ilgilendiren-yeni-zam-gorundu-p336312",
+  "source": "Sözcü",
+  "summary_tr": "Artan yedek parça ve işçilik ücretleri, zorunlu trafik sigortası primlerini yükseltmeye başladı. Araç sahipleri için yeni maliyet baskısı oluştu.",
+  "metric": "Sigorta primleri arttı (yedek parça/işçilik zammı etkisiyle)",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-14T07:01:19.287119+00:00",
+  "type": "news",
+  "cluster_id": "cd35bbbc9c5d7"
+ },
+ {
+  "title": "Brent petrolün varili 85,27 dolardan işlem görüyor",
+  "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-8527-dolardan-islem-goruyor-951140.html",
+  "source": "TRT Haber",
+  "summary_tr": "Brent petrolü 85,27 dolardan işlem görüyor. Uluslararası enerji piyasasında belirgin seviyelere ulaşıldı.",
+  "metric": "Brent petrol 85,27 dolar/varil",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-14T07:01:19.287119+00:00",
+  "type": "news",
+  "cluster_id": "cc54cb279826e"
+ },
+ {
+  "title": "China's exports ride AI boom as domestic economy struggles",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRGpqNHVtR2tXdDB5RnBUeHF0U2oyRDRMNnduQVM0eHBWOTVxalVjSGdOMXlFZGxNRUc2dW9fcUttclVoVTdKbk5rRUlVOEdqWHFQRzd5WllrZGI2dnhOVEJXRDU1eFhSVlAtZDk2UEFCRExBdEQxMEdhTENzdzVRVWpaVUhJU2l2RU1KT0xobmNyeGtPcEY1S3Exb3doaG8?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin'de yapay zeka tarafından desteklenen ihracat artarken, iç ekonomi zayıf kalmaya devam ediyor. Ekonomik dengesi riskli durumda.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-14T07:01:19.287119+00:00",
+  "type": "news",
+  "cluster_id": "c42437650a12c"
+ },
+ {
   "title": "Benzine zam geliyor! Tabela yeniden değişiyor",
   "link": "https://www.sozcu.com.tr/benzine-zam-geliyor-tabela-yeniden-degisiyor-p336281",
   "source": "Sözcü",
@@ -56654,75 +56738,5 @@
   "score": 6,
   "ts": "2026-06-01T20:00:57.297949+00:00",
   "cluster_id": "c897e0831bfec"
- },
- {
-  "title": "Mexico's Sheinbaum escalates rhetoric against U.S., blames far-right 'offensive'",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQXZfUUhkY0l6Vml6TVJ2QU02R0dtWHpYYUFiWTJfQzQ3RTZTR1pfb3hDbTBKTm1lVVVBN2Vtc1J1c09KWWNxaVd6ZGFoSW0zZ0lBcEt5Nkd2Sl9vRjNtZVpMN0NVWUN4NlhLbjN6SWJUdDhjX195UF9ETW5MeUdqZVlPbXgzQXFfRl96d2NJVFVyQzdnVVJNeGViMFhXMUZWVFJaOXpJNnlVVG5raW0yUGs3aUxtNFpWbU9uc0hEbWUtT0E?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Meksika Başkanı Sheinbaum, ABD'ye karşı söylemini yükseltti ve aşırı sağ 'saldırısını' suçladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-01T20:00:57.297949+00:00",
-  "cluster_id": "c3bcc44a6d85d"
- },
- {
-  "title": "CHP'li 111 milletvekilinden 12 Temmuz'da olağanüstü kurultay çağrısı",
-  "link": "https://www.diken.com.tr/chpli-111-milletvekilinden-12-temmuzda-olaganustu-kurultay-cagrisi/?utm_source=rss&utm_medium=rss&utm_campaign=chpli-111-milletvekilinden-12-temmuzda-olaganustu-kurultay-cagrisi",
-  "source": "Diken",
-  "summary_tr": "CHP'li 111 milletvekili, 12 Temmuz'da olağanüstü kurultay çağrısında bulundu.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-06-01T19:01:03.674580+00:00",
-  "cluster_id": "ceb0029e02e01"
- },
- {
-  "title": "Kurtulmuş, Kılıçdaroğlu’nu geri çevirdi: Özel CHP Grubunu topluyor",
-  "link": "https://yetkinreport.com/2026/06/01/kurtulmus-kilicdaroglunu-geri-cevirdi-ozel-chp-grubunu-topluyor/",
-  "source": "YetkinReport",
-  "summary_tr": "TBMM Başkanı Kurtulmuş, Kılıçdaroğlu'nun CHP grubunu toplamaya yetkisi olmadığını belirterek Özgür Özel'i geri çevirdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-01T19:01:03.674580+00:00",
-  "cluster_id": "c0e24c116c190"
- },
- {
-  "title": "CHP'li milletvekillerinden ortak bildiri: \"Olağanüstü kurultay 12 Temmuz'da toplansın\"",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-li-milletvekillerinden-ortak-bildiri-olaganustu-kurultay-12-temmuz-da-toplansin-2508468",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'nin 111 milletvekili, 'mutlak butlan' kararına tepki göstererek olağanüstü kurultay çağrısında bulundu.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-06-01T19:01:03.674580+00:00",
-  "cluster_id": "cff1bba0bd323"
- },
- {
-  "title": "CHP'li 111 vekil de imza kampanyasına katıldı: Kılıçdaroğlu kurultay içi köşeye sıkıştı",
-  "link": "https://www.sozcu.com.tr/chp-li-vekillerden-12-temmuz-da-kurultay-cagrisi-p324340",
-  "source": "Sözcü",
-  "summary_tr": "CHP'li 111 vekil, 'mutlak butlan' yönetimine karşı kurultay çağrısında imza kampanyasına katıldı.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-06-01T19:01:03.674580+00:00",
-  "cluster_id": "ca0da1947fb0a"
- },
- {
-  "title": "CHP'nin 38. Kurultayı'na ilişkin soruşturmada mali inceleme istendi",
-  "link": "https://www.bbc.com/turkce/articles/c202yd61d08o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Mahkeme kararıyla CHP genel başkanlığına dönen Kılıçdaroğlu'nun 38. Kurultayı ile ilgili soruşturmada mali inceleme istendi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T19:01:03.674580+00:00",
-  "cluster_id": "ca6863a6f9987"
- },
- {
-  "title": "Kılıçdaroğlu'nun MYK listesi yarın açıklanacak",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/kilicdaroglu-nun-myk-listesi-yarin-aciklanacak-2508474",
-  "source": "Cumhuriyet",
-  "summary_tr": "Kılıçdaroğlu'nun yeni Merkez Yönetim Kurulu (MYK) listesi açıklanacak.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T19:01:03.674580+00:00",
-  "cluster_id": "c47e362e5c272"
  }
 ]
