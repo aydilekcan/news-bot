@@ -1,5 +1,41 @@
 [
  {
+  "title": "İmralı Heyeti AKP ve Kurtulmuş ile görüşecek: DEM Parti çerçeve yasa taslağının sunulmasını bekliyor",
+  "link": "https://www.bbc.com/turkce/articles/c0kykjpvexzo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "DEM Parti, PKK'nın silah yakma töreninin ardından çerçeve yasanın bu hafta iletilmesini bekliyor. İmralı Heyeti AKP ve Kurtulmuş ile görüşecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-14T02:01:11.166203+00:00",
+  "type": "news",
+  "cluster_id": "c2cf0479c30f6"
+ },
+ {
+  "title": "İsrail, Batı Şeria'daki Yahudi yerleşim birimlerine 12 bin yeni konut yapacak",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-bati-seriadaki-yahudi-yerlesim-birimlerine-12-bin-yeni-konut-yapacak/3997096",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail hükümeti, işgal altındaki Batı Şeria'daki yasa dışı Yahudi yerleşim birimlerinin genişletilmesi kapsamında 12 bin yeni konut yapacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-14T02:01:11.166203+00:00",
+  "type": "news",
+  "cluster_id": "c5dd6805281d7"
+ },
+ {
+  "title": "İran’dan Hakan Fidan’a sert yanıt: ‘İsrail’e hizmet edecek analizleri tekrarlamaktan kaçının’",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcEpjbU5uRENKTTZtcXZyOENKQ3RIRVVCZW4tVWQwaEtKTGNLZTBZVnpSMUc3NUF2ZHpaT2pQLXNmTXBmRlU3cXRsdXBVakhGdHpJaVVRVlU2XzFNNVczTHY1MTBiTHF0TWJvcDZiVVJNNE5iTTM3Z2lOTnhpWlRJTG1IenZTYVVUOGI0eDNVLWdTc3VQOUs5a2RGQ0JSODJXSy1zQ042WFBnX1VZOFdtRkNuRFNwUXhOMkE?oc=5",
+  "source": "soL",
+  "summary_tr": "İran Dış İşleri Bakanı Hakan Fidan'a sert yanıt verdi: 'İsrail'e hizmet edecek analizleri tekrarlamaktan kaçının'.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-14T02:01:11.166203+00:00",
+  "type": "news",
+  "cluster_id": "ca1fa07e0e093"
+ },
+ {
   "title": "Benzine 1 lira 60 kuruş zam yolda",
   "link": "https://www.sozcu.com.tr/benzine-1-lira-60-kurus-zam-yolda-p336254",
   "source": "Sözcü",
@@ -56662,35 +56698,5 @@
   "score": 8,
   "ts": "2026-06-01T18:01:09.429806+00:00",
   "cluster_id": "c7b304d659e91"
- },
- {
-  "title": "Özgür Özel TBMM Grup Toplantısı için kürsüye çıkıyor",
-  "link": "https://www.dw.com/tr/özgür-özel-tbmm-grup-toplantısı-için-kürsüye-çıkıyor/a-77375503?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "CHP Genel Merkezi'nin itirazına rağmen Özgür Özel yarın TBMM Grup Toplantısı'nda kürsüye çıkacak.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T18:01:09.429806+00:00",
-  "cluster_id": "ce3f4cfef5a6b"
- },
- {
-  "title": "Trump: İran'la görüşmeler sürüyor; İsrail ve Hizbullah birbirine saldırmayacak",
-  "link": "https://www.diken.com.tr/trump-iranla-gorusmeler-suruyor-israil-ve-hizbullah-birbirine-saldirmayacak/?utm_source=rss&utm_medium=rss&utm_campaign=trump-iranla-gorusmeler-suruyor-israil-ve-hizbullah-birbirine-saldirmayacak",
-  "source": "Diken",
-  "summary_tr": "Trump, İran'la görüşmelerin devam ettiğini, İsrail ve Hizbullah'ın birbirine saldırmayacağını açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T18:01:09.429806+00:00",
-  "cluster_id": "cf56e39d0b4be"
- },
- {
-  "title": "Başsavcılık, CHP kurultayında oy kullanan delegelerin mali kayıtlarını talep etti",
-  "link": "https://www.diken.com.tr/bassavcilik-chp-kurultayinda-oy-kullanan-delegelerin-mali-kayitlarini-talep-etti/?utm_source=rss&utm_medium=rss&utm_campaign=bassavcilik-chp-kurultayinda-oy-kullanan-delegelerin-mali-kayitlarini-talep-etti",
-  "source": "Diken",
-  "summary_tr": "İstanbul Başsavcılığı, iptal edilen CHP kurultayında oy kullanan delegelerin mali kayıtlarını talep etti.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-01T18:01:09.429806+00:00",
-  "cluster_id": "cf450e36a6a60"
  }
 ]
