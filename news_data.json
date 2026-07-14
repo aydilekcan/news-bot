@@ -1,5 +1,53 @@
 [
  {
+  "title": "BAE: İran Hürmüz Boğazı'nda 2 tankerimize füze saldırısı düzenledi, bir ölü, 8 yaralı",
+  "link": "https://www.sozcu.com.tr/bae-iran-hurmuz-bogazi-nda-2-tankerimize-fuze-saldirisi-duzenledi-bir-olu-8-yarali-p336252",
+  "source": "Sözcü",
+  "summary_tr": "BAE: İran, Hürmüz Boğazı'nda BAE'ye ait 2 tankeri füzelerle vurdu; 1 ölü, 8 yaralı.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-14T00:01:12.894905+00:00",
+  "type": "news",
+  "cluster_id": "cdc4617f0db15"
+ },
+ {
+  "title": "BAE: İran Hürmüz Boğazı'nda 2 tankerimize füze saldırısı düzenledi, 1 ölü, 8 yaralı",
+  "link": "https://www.aa.com.tr/tr/dunya/bae-iran-hurmuz-bogazinda-2-tankerimize-fuze-saldirisi-duzenledi-1-olu-8-yarali/3997074",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "BAE: İran, Hürmüz Boğazı'nda BAE'ye ait 2 tankeri füzelerle vurdu; 1 ölü, 8 yaralı.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-07-14T00:01:12.894905+00:00",
+  "type": "news",
+  "cluster_id": "cdc4617f0db15"
+ },
+ {
+  "title": "UAE says Iranian missiles struck oil tankers in Strait of Hormuz, one sailor killed",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdF9iNjRwdm9pODdabFB6TGd0b0llZjQxY3NDQWktelE1c2NnUERlYUs2TnNPc0JBaFZvWlZhM3VfRUVwTV9MZUFteVh3VlV0QVhfZi1NUGpQdEp3elpuYnFrVE9Yb1BzNmtGLWdiYlJ2THBOT3NrRmppdG5mNWFVRDcyWmFSRHJzWXJyVVpQYy16cVZKb1I1UEh4eFdYN1VURkFtQmNVanhnM2I4Y3JSLXhHTmhOMXBmSTRMZE4xam5CSlN1eGFR?oc=5",
+  "source": "Reuters",
+  "summary_tr": "BAE: İran, Hürmüz Boğazı'nda BAE'ye ait 2 tankeri füzelerle vurdu; 1 ölü, 8 yaralı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-14T00:01:12.894905+00:00",
+  "type": "news",
+  "cluster_id": "caf1426a6960f"
+ },
+ {
+  "title": "Volkswagen yaklaşık 100 bin çalışanını işten çıkarmayı planlıyor",
+  "link": "https://www.bbc.com/turkce/articles/cg4w4ynrgw6o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Volkswagen Grubu (Porsche, Audi dahil) Çin rekabeti ve kar düşüşü nedeniyle yaklaşık 100 bin çalışanını işten çıkarmayı planlıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-14T00:01:12.894905+00:00",
+  "type": "news",
+  "cluster_id": "c462e775f30a9"
+ },
+ {
   "title": "Trump, İran'a yönelik saldırıların süreceğini ve anlaşmanın mümkün olduğunu belirtti",
   "link": "https://www.aa.com.tr/tr/dunya/trump-irana-yonelik-saldirilarin-surecegini-ve-anlasmanin-mumkun-oldugunu-belirtti/3997071",
   "source": "Anadolu Ajansı",
@@ -56640,45 +56688,5 @@
   "score": 7,
   "ts": "2026-06-01T18:01:09.429806+00:00",
   "cluster_id": "cc0441638abe2"
- },
- {
-  "title": "İsrail Lübnan'da hastane vurdu: 2 kişi öldü",
-  "link": "https://www.sozcu.com.tr/israil-lubnan-da-hastane-vurdu-2-kisi-oldu-p324335",
-  "source": "Sözcü",
-  "summary_tr": "İsrail ordusunun Lübnan'ın guneyindeki Sur'da Cebel Amil Hastanesi yakınlarına hava saldırısında 2 kişi öldü.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-01T18:01:09.429806+00:00",
-  "cluster_id": "c88562cb21a76"
- },
- {
-  "title": "İran'ın 'müzakere' hamlesine Trump'tan ilk tepki",
-  "link": "https://www.sozcu.com.tr/donald-trump-iran-aciklama-1-haziran-2026-p324333",
-  "source": "Sözcü",
-  "summary_tr": "Trump, İran'ın dolaylı görüşmeleri askıya aldığına ilişkin haberlerden haberdar olmadığını ifade etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T18:01:09.429806+00:00",
-  "cluster_id": "cab42c44a1b4c"
- },
- {
-  "title": "İsrail askerleri Gazze'deki Cibaliya Mülteci Kampı'nda onlarca evi ateşe verdi",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-gazzedeki-cibaliya-multeci-kampinda-onlarca-evi-atese-verdi/3953506",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail askerlerinin Gazze'nin kuzeyindeki Cibaliya Mülteci Kampı'nda onlarca ev ve mülkü ateşe verdiği bildirildi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-01T18:01:09.429806+00:00",
-  "cluster_id": "c685e6425c61e"
- },
- {
-  "title": "Trump'tan İran'ın müzakereleri askıya almasına ilişkin Bize bilgi vermediler açıklaması",
-  "link": "https://www.trthaber.com/haber/dunya/trumptan-iranin-muzakereleri-askiya-almasina-iliskin-bize-bilgi-vermediler-aciklamasi-946828.html",
-  "source": "TRT Haber",
-  "summary_tr": "Trump, İran'ın ABD ile müzakereleri askıya aldığı yönündeki açıklamasına ilişkin kendilerine bilgi verilmediğini söyledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-01T18:01:09.429806+00:00",
-  "cluster_id": "c5a9ad8c4b486"
  }
 ]
