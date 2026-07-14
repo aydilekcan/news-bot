@@ -1,5 +1,41 @@
 [
  {
+  "title": "Trump, Hürmüz Boğazı'na ablukayı geri getirdiğini açıkladı, karşılıklı saldırılar sürüyor",
+  "link": "https://www.bbc.com/turkce/articles/ce8jlnm787jo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD Başkanı Trump, İran'ın Hürmüz Boğazı limanlarına yeniden abluka uygulanacağını açıkladı. Kararı 14 Temmuz'da ilan etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-14T04:01:09.286127+00:00",
+  "type": "news",
+  "cluster_id": "c010c101c76da"
+ },
+ {
+  "title": "Piyasalarda deprem! Petrol son 4 haftanın zirvesine çıktı",
+  "link": "https://www.sozcu.com.tr/piyasalarda-deprem-petrol-son-4-haftanin-zirvesine-cikti-p336258",
+  "source": "Sözcü",
+  "summary_tr": "Hürmüz Boğazı'ndaki ABD-İran gerginliği küresel enerji piyasalarını etkiledi. Brent petrol son 4 haftanın en yüksek seviyesine çıktı.",
+  "metric": "Brent petrol son 4 haftanın zirvesine ulaştı",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-14T04:01:09.286127+00:00",
+  "type": "news",
+  "cluster_id": "c55bf10bfff2d"
+ },
+ {
+  "title": "Brezilya Devlet Başkanı Lula da Silva, Trump'ı \"korsanlıkla\" suçladı",
+  "link": "https://www.aa.com.tr/tr/dunya/brezilya-devlet-baskani-lula-da-silva-trumpi-korsanlikla-sucladi/3997109",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Brezilya Devlet Başkanı Lula, Trump'ın Hürmüz Boğazı'ndan geçen kargolara %20 geçiş ücreti uygulanması kararını 'korsanlıkla' suçladı.",
+  "metric": "Önerilen geçiş ücreti oran: %20",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-14T04:01:09.286127+00:00",
+  "type": "news",
+  "cluster_id": "ce5aa33c90dbd"
+ },
+ {
   "title": "Oil climbs to one-month high as US, Iran step up attacks in Strait of Hormuz",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObjBFQ0x4dHAxeGhVUDB4NlR2LVlyU1JTNnJhWkV1bnI4b1Zneng1X0E4bmpBWnJLVjBHZm1aaDctN19OejdjdGpnYVlxaHJxcjRGQzZZLUNhbmtvakJmc0MxTVpmc1l3ZzBXWFhzWE8teV91d0x0WFlTc2JUM2RDNFUyMzVCWl9mMWltOTJjTWM5Mlpta3dtN3VtT1A1RHpCcUhGQmNUMWNIaTYtZGU3MjQxMnExZw?oc=5",
   "source": "Reuters",
@@ -56670,35 +56706,5 @@
   "score": 6,
   "ts": "2026-06-01T19:01:03.674580+00:00",
   "cluster_id": "c3da575ddc7c3"
- },
- {
-  "title": "İran, ABD ile dolaylı müzakereleri askıya aldı",
-  "link": "https://www.dw.com/tr/iran-abd-ile-dolaylı-müzakereleri-askıya-aldı/a-77381256?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "İran, ateşkes ihlalinden ABD ve İsrail'i sorumlu tutarak Trump yönetimi ile dolaylı müzakereleri askıya aldığını duyurdu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-01T18:01:09.429806+00:00",
-  "cluster_id": "c3b3d63f1e9ac"
- },
- {
-  "title": "CHP'de 'mutlak butlan'ın MYK'sı yarın açıklanacak",
-  "link": "https://www.sozcu.com.tr/chp-myk-listesi-ne-zaman-aciklanacak-p324332",
-  "source": "Sözcü",
-  "summary_tr": "Yargı kararıyla CHP yönetimine getirilen Kemal Kılıçdaroğlu'nun yeni Merkez Yürütme Kurulu listesi yarın açıklanacak.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-01T18:01:09.429806+00:00",
-  "cluster_id": "ccf77d978df1f"
- },
- {
-  "title": "Erdoğan'dan Kabine sonrası açıklama",
-  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51NHFnZ2FFNWNKNkFPbTJIX205N3R0QUUyT1pXdU1lWFJCMS1Rb1lUekpUQlFaOE4wZjhkOUx3bndib1VKQmpDOWYzeFJ0ZEszRjgwSV93Rmh3c010aE9DOUdtOXdTLTBoSHBaRlFaN2FWMnF2RFQ2VDZB?oc=5",
-  "source": "T24",
-  "summary_tr": "Erdoğan, Kabine toplantısının ardından açıklama yaptı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-01T18:01:09.429806+00:00",
-  "cluster_id": "cf5b318b859d1"
  }
 ]
