@@ -1,5 +1,149 @@
 [
  {
+  "title": "Ukrayna'nın İHA saldırısında Rusya'daki kritik isim öldürüldü",
+  "link": "https://www.sozcu.com.tr/ukrayna-nin-iha-saldirisinda-rusya-daki-kritik-isim-olduruldu-p336826",
+  "source": "Sözcü",
+  "summary_tr": "Ukrayna tarafından düzenlenen İHA saldırısında Rusya'nın Rosatom Genel Müdürü Aleksey Likhachev öldürüldüğü iddia edilmektedir.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-15T19:01:14.448544+00:00",
+  "type": "news",
+  "cluster_id": "c2dcace4fb561"
+ },
+ {
+  "title": "İsrail basını: Ordu, Lübnan'ın güneyindeki iki bölgeden çekilmeye hazırlanıyor",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/israil-basini-ordu-lubnan-in-guneyindeki-iki-bolgeden-cekilmeye-hazirlaniyor-2521159",
+  "source": "Cumhuriyet",
+  "summary_tr": "İsrail basınına göre ordu, Lübnan'ın güneyindeki işgal ettiği pilot bölgelerden yakında çekilmeye hazırlanmaktadır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T19:01:14.448544+00:00",
+  "type": "news",
+  "cluster_id": "c43df95855cb3"
+ },
+ {
+  "title": "İsrail basını: İsrail ordusu, Lübnan'da işgal ettiği pilot bölgelerden birkaç gün içinde çekilebilir",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-basini-israil-ordusu-lubnanda-isgal-ettigi-pilot-bolgelerden-birkac-gun-icinde-cekilebilir/3999480",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail basınına göre ordu, Lübnan'da işgal ettiği pilot bölgelerden birkaç gün içinde çekilebilir.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-15T19:01:14.448544+00:00",
+  "type": "news",
+  "cluster_id": "caebf27e9e86a"
+ },
+ {
+  "title": "Ukrayna Devlet Başkanı Zelenski: Biz, AB'nin tam üyesi olmayı hak ediyoruz",
+  "link": "https://www.trthaber.com/haber/dunya/ukrayna-devlet-baskani-zelenski-biz-abnin-tam-uyesi-olmayi-hak-ediyoruz-951317.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ukrayna Devlet Başkanı Zelenski, ülkesinin Avrupa Birliği'ne tam üye olmayı hak ettiğini bildirmiştir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T19:01:14.448544+00:00",
+  "type": "news",
+  "cluster_id": "cc6b26d1bcdfe"
+ },
+ {
+  "title": "UK's incoming prime minister Burnham to name Mahmood as finance minister, FT reports",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUFhFQkF4WEpWaVgzSEZ3ZndGT2pfSXFXZFp2VnE3cV96SnZJQjMxMHRkVnFMbkVtbklheXgzbXoxbDlydzd5MDBRUW1XdnNSRzBHTzlPVzJYeVg1TDFCT3UwbTh0WDVBTFp4VV9IWlAyWEp6WGY2MXh2dnJzdkVPQlZZR2x4TW51Mmw0T3RvSDlEcUdxSmhaR1pmWC1XbVV0RmU0RkRQdEgteFJw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İngiltere'nin gelecek başbakanı Burnham, Mahmood'u maliye bakanı olarak atamayı planlıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T19:01:14.448544+00:00",
+  "type": "news",
+  "cluster_id": "c481da4019a5b"
+ },
+ {
+  "title": "French parliament approves landmark assisted-dying bill",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaWx5WlFjcWE0Rjd2a3QyaV9md2lHRE5GS3VUb2xzNk5oUlZNVk00Rm9RVEJKZVVUcUNuV2Z6ZjNaU2xZV1JUSzdzMkx4SDZaeFhSUTRsNGRIbUhCd0VKSnV0VlRFd1dYM2tyUjJQNURPTi1yc1pVaXd4dUU3d2JSOUZVVVhFR2UxN2tBTGpwM2VyeXROM3pRRXZTUVhQbVJCMmJtWHJNWWo?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Fransa Parlamentosu, yardımcı ölüme izin veren tarihi bir yasa tasarısını onaylamıştır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T19:01:14.448544+00:00",
+  "type": "news",
+  "cluster_id": "c1db922ba4c9d"
+ },
+ {
+  "title": "Ahbap soruşturması: Haluk Levent dahil 19 kişiye tutuklama talebi",
+  "link": "https://www.bbc.com/turkce/articles/c24ye7d207no?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Ahbap Derneği soruşturmasında müzisyen Haluk Levent dahil 19 kişiye tutuklama talebi yapılmıştır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-15T19:01:14.448544+00:00",
+  "type": "news",
+  "cluster_id": "c2d05dc05a56a"
+ },
+ {
+  "title": "Haluk Levent dahil 19 kişiye tutuklama talebi",
+  "link": "https://www.diken.com.tr/haluk-levent-dahil-19-kisiye-tutuklama-talebi/?utm_source=rss&utm_medium=rss&utm_campaign=haluk-levent-dahil-19-kisiye-tutuklama-talebi",
+  "source": "Diken",
+  "summary_tr": "Ahbap Derneği soruşturmasında müzisyen Haluk Levent dahil 19 kişiye tutuklama talebi yapılmıştır.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-15T19:01:14.448544+00:00",
+  "type": "news",
+  "cluster_id": "c2d05dc05a56a"
+ },
+ {
+  "title": "Son dakika... Haluk Levent dahil 19 şüpheliye tutuklama istemi",
+  "link": "https://www.sozcu.com.tr/haluk-levent-hakkinda-ne-kadar-cikacak-p336825",
+  "source": "Sözcü",
+  "summary_tr": "Ahbap Derneği soruşturmasında müzisyen Haluk Levent dahil 19 şüpheliye tutuklama isteminde bulunulmuştur.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-15T19:01:14.448544+00:00",
+  "type": "news",
+  "cluster_id": "c2d05dc05a56a"
+ },
+ {
+  "title": "Ahbap Derneği soruşturmasında Haluk Levent dahil 19 kişiye tutuklama talebi",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVXFmRzJWdE5vQ2UyVTRMRE9DMFpRWDBjLUlSc2pkcGFnQ1g0aHlwc0o4Z1M1bjJvWHZaalMyekNkVFdfTWRlcHAtdkVJNmNOVmhRaFB6V29HSWs2cXVveXQyUTNoZllrMzM2eG04Zms2ZEhfWU1GU1NWaG1BVGF4SVdROHJ1Qk9iUHgxVDZnZkRNTFozcWk4WjNNbk9PcktrSzIxYnB6OWRBb2VKMndERVVNbw?oc=5",
+  "source": "soL",
+  "summary_tr": "Ahbap Derneği soruşturmasında müzisyen Haluk Levent dahil 19 kişiye tutuklama talebi yapılmıştır.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-15T19:01:14.448544+00:00",
+  "type": "news",
+  "cluster_id": "c2d05dc05a56a"
+ },
+ {
+  "title": "Bazı şüphelilerden banka hesaplarının Haluk Levent tarafından kullanıldığı iddiası",
+  "link": "https://www.aa.com.tr/tr/gundem/bazi-suphelilerden-banka-hesaplarinin-haluk-levent-tarafindan-kullanildigi-iddiasi/3999502",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ahbap Derneği soruşturmasında, bağışların şüphelilerin hesaplarına aktarıldığı ve bazı hesapların Haluk Levent tarafından kullanıldığı iddia edilmektedir.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-15T19:01:14.448544+00:00",
+  "type": "news",
+  "cluster_id": "cb2db6cff0775"
+ },
+ {
+  "title": "Haluk Levent, tutuklama talebiyle hakimliğe sevk edildi",
+  "link": "https://www.trthaber.com/haber/gundem/haluk-levent-tutuklama-talebiyle-hakimlige-sevk-edildi-951320.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ahbap Derneği soruşturması kapsamında müzisyen Haluk Levent dahil 19 şüpheli tutuklama istemiyle hakimliğe sevk edilmiştir.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-15T19:01:14.448544+00:00",
+  "type": "news",
+  "cluster_id": "c115025ad4f73"
+ },
+ {
   "title": "İran'dan ABD'ye: Saldırılar cevapsız kalmayacak",
   "link": "https://www.sozcu.com.tr/iran-dan-abd-ye-saldirilar-cevapsiz-kalmayacak-p336812",
   "source": "Sözcü",
@@ -57112,125 +57256,5 @@
   "score": 6,
   "ts": "2026-06-03T12:01:06.518031+00:00",
   "cluster_id": "cfe79ea46c933"
- },
- {
-  "title": "Kılıçdaroğlu: Toplum tepkili diye arınmaktan vaz mı geçelim, arınmadan kurultaya gitmem",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN3lPSlYyQnZYS2hRbFMzeWRuZHlyRURfTm1YaWdMY2V5NGdxeERQOXVCT3BxSWlNVVZFWEt4aUJvWGVkYUlfcDRUdl9ZMGpPcmZZZ0lzdTBBcDhCN1lrclZhU0x2aWZoYzRhYU84b1AzRUUyRFM3UnlCczdxZnd6cWEzOVI0Mkl5aUxkRWU3dWhHZXhFVzExU0xRSGhJT2JqUERkODdpNmlMRlBLYVNvcUUxMjZiQWE3dEV0MUp4MDg?oc=5",
-  "source": "soL",
-  "summary_tr": "Kılıçdaroğlu toplumun tepkisine rağmen arınma sürecini tamamlamadan kurultaya gitmeyeceğini söyledi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-03T12:01:06.518031+00:00",
-  "cluster_id": "c47d3cc878a22"
- },
- {
-  "title": "İran’dan ABD’ye açık tehdit: Füze ve İHA yağmuruyla karşılık veririz",
-  "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-abd-ye-acik-tehdit-fuze-ve-iha-yagmuruyla-karsilik-veririz-2508929",
-  "source": "Cumhuriyet",
-  "summary_tr": "İran lideri danışmanı Rızai, ABD'nin her türlü saldırısına füze ve İHA ile karşılık vereceğini açıkladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-03T11:01:08.416633+00:00",
-  "cluster_id": "cca0188911b97"
- },
- {
-  "title": "Gulf tensions escalate as Iran hits Kuwait, US strikes near Hormuz",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0pCM2JwVC1jclluOW5wcnktSUJHZ2ZLUUxwMnY5c3F6VWhuSVFLQ29mbmc0cHdhSWkyTzNyVzJvWnBxNjlVWnhqQ0FOUUpiY2YtTld2b3hWWmpYTzJueElSOUVmeTBweDFYWUwxcnZhdVlzYTNvZXp2SXJNcnNhdGh6TElzTWtzUDlvNlBQS3pQREk4a0cwb1NXa1YzWG5jb3lOaC1jZDNRT2JZQkNxbA?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran, Kuveyt'e saldırı düzenledi; ABD, Hormuz Boğazı yakınında karşılık verdi; Körfez gerilimleri tırmanıyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-03T11:01:08.416633+00:00",
-  "cluster_id": "cecc7f261a6c1"
- },
- {
-  "title": "YSK, CHP'ye mutlak butlan ile ilgili ret kararının gerekçesini açıkladı",
-  "link": "https://www.bbc.com/turkce/articles/cevpr0zn0gdo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "YSK, CHP'nin 38. Kurultayı iptaline karşı yapılan başvuruyu reddetme gerekçesini açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T11:01:08.416633+00:00",
-  "cluster_id": "c537831b5be92"
- },
- {
-  "title": "'Mutlak butlan' başvurusu: YSK, CHP'ye ret kararının gerekçesini açıkladı",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ0Q1YjdQbUhGamNZaWNNTnNoTjlqYXZlVW5sekYtQXVKUHFYaTYxcnRmUUJibHljRURvSkRwNmNZVHYwUHNjM1F2QTAxMHFYYnRjZTZwWnFlRkQtaUpmUGpneGNjN3JTVXA0bkw4R2UwNDYtNVhzcnhoUG5jYkJZTXVncXRqekdwZkluYVdPSUtiWDVxcHlVdk1fM2l2N1RneGU3N2VsVjhJZw?oc=5",
-  "source": "soL",
-  "summary_tr": "YSK, CHP'nin mutlak butlan başvurusunu reddetti; gerekçesini açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T11:01:08.416633+00:00",
-  "cluster_id": "c537831b5be92"
- },
- {
-  "title": "Tanju Özcan hakkında hazırlanan iddianame kabul edildi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/tanju-ozcan-hakkinda-hazirlanan-iddianame-kabul-edildi-2508940",
-  "source": "Cumhuriyet",
-  "summary_tr": "Tutuklanan Bolu Belediye Başkanı Tanju Özcan'ın da aralarında bulunduğu 19 sanık hakkında iddianame kabul edildi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T11:01:08.416633+00:00",
-  "cluster_id": "c435a6456a26b"
- },
- {
-  "title": "Trump, Hamaney ile konuşmak istediğini duyurdu",
-  "link": "https://www.sozcu.com.tr/trump-hamaney-ile-konusmak-istedigini-duyurdu-p324883",
-  "source": "Sözcü",
-  "summary_tr": "ABD Başkanı Trump, İran lideri Hamaney ile konuşmak istediğini ve nükleer anlaşma olabilir miş gibi konuştu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T11:01:08.416633+00:00",
-  "cluster_id": "c522d998dc805"
- },
- {
-  "title": "İddianame ortaya çıktı, 263 yıl hapsi isteniyor",
-  "link": "https://www.sozcu.com.tr/bolu-belediyesi-iddianamesi-kabul-edildi-ozcan-a-263-yil-hapis-talebi-p324879",
-  "source": "Sözcü",
-  "summary_tr": "Bolu Belediye Başkanı Tanju Özcan'ın da aralarında bulunduğu 19 sanık hakkında iddianamede 263 yıl hapis istendi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T11:01:08.416633+00:00",
-  "cluster_id": "cc2da54f28608"
- },
- {
-  "title": "Bolu Belediyesine yönelik \"irtikap\" soruşturmasına ilişkin iddianame kabul edildi",
-  "link": "https://www.aa.com.tr/tr/gundem/bolu-belediyesine-yonelik-irtikap-sorusturmasina-iliskin-iddianame-kabul-edildi/3955175",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Bolu Belediyesi'ne yönelik irtikap soruşturmasında, görevden uzaklaştırılan Tanju Özcan'ın da bulunduğu iddianame kabul edildi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T11:01:08.416633+00:00",
-  "cluster_id": "c2150e2849c24"
- },
- {
-  "title": "Bolu Belediyesi'ndeki irtikap soruşturmasında iddianame kabul edildi",
-  "link": "https://www.trthaber.com/haber/gundem/bolu-belediyesindeki-irtikap-sorusturmasinda-iddianame-kabul-edildi-947028.html",
-  "source": "TRT Haber",
-  "summary_tr": "Bolu Belediyesi irtikap soruşturmasında, Tanju Özcan'ın da aralarında olduğu iddianame kabul edildi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T11:01:08.416633+00:00",
-  "cluster_id": "c2150e2849c24"
- },
- {
-  "title": "Mutlak butlan itirazına ret kararı",
-  "link": "https://www.trthaber.com/haber/gundem/mutlak-butlan-itirazina-ret-karari-947025.html",
-  "source": "TRT Haber",
-  "summary_tr": "YSK, CHP'nin mutlak butlan itirazına ret kararı verdi; mahkeme tarafından denetlenmesi mümkün olmadığını açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T11:01:08.416633+00:00",
-  "cluster_id": "c3976575a24e4"
- },
- {
-  "title": "Germany sees window opening for EU-Russia dialogue, E3 seen as key",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0Ixd1VBMW9rTmY3bUZ6czlGTkF6WHQ5UVprYTB2WUVxSWYzeGJQdDhMTGd1Q1dvMUlHQlpfM29FRlE2Q3Q1aEdQeXkyVzdfYXdaRW1rSWgtOUFzb1FKbDV3ajc4d2VpdldzWnpfRUdBbVF5d0RManVSdklJblJhTzJyMUNtWDdhcF82Tkhmc01ZZy0xNV9QdXdWS0haTHFBMjRqQ3lIOWFjVlU?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Almanya, AB-Rusya diyalog için bir pencere açıldığını belirtti; E3'ün anahtar rol oynayabileceğini söyledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T11:01:08.416633+00:00",
-  "cluster_id": "c5e82e4f82150"
  }
 ]
