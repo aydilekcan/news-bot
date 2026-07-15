@@ -1,5 +1,161 @@
 [
  {
+  "title": "Karadeniz'de gerilim artıyır: Ukrayna 20 gemiye saldırdı",
+  "link": "https://www.sozcu.com.tr/karadeniz-de-gerilim-artiyir-ukrayna-20-gemiye-saldirdi-p336780",
+  "source": "Sözcü",
+  "summary_tr": "Ukrayna İnsansız Sistemler Kuvvetleri, Rusya'nın 'gölge filosuna' ait olduğunu iddia ettiği 20 gemiye saldırı düzenledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-15T15:01:26.112531+00:00",
+  "type": "news",
+  "cluster_id": "ce5754116cfef"
+ },
+ {
+  "title": "Almanya Başbakanı Merz, AfD'nin hükümete gelmesini engellemek için elinden geleni yapacağını belirtti",
+  "link": "https://www.aa.com.tr/tr/dunya/almanya-basbakani-merz-afdnin-hukumete-gelmesini-engellemek-icin-elinden-geleni-yapacagini-belirtti/3999223",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Almanya Başbakanı Friedrich Merz, aşırı sağcı AfD Partisinin hükümete gelmesini engellemek için elinden geleni yapacağını belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-15T15:01:26.112531+00:00",
+  "type": "news",
+  "cluster_id": "c34a60959c46c"
+ },
+ {
+  "title": "US military will be out of Iraq by end of September, Iraqi prime minister and Pentagon say",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUkxsUVYwX1hUM0VOOTFXdG5YXzlGV08tSlJrdGdLc21hZVZBS1J4c2JIT1R2Q0tRTUtzTFNXRGN3RGFpT0JpU2NJWXNseUl3VnlCaXQ1ZFBjNDN4Q0JaYXdpM1ZkVFZEU2NLNDlKcjRBQlZLUnFLYU1rMlpiS2JEb3hZYXhfNlAwS0s0QjY2bXEzNFVtejdyNWNJTTlocTZo?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD askeri personeli, Irak'tan Eylül sonuna kadar çekilecektir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-15T15:01:26.112531+00:00",
+  "type": "news",
+  "cluster_id": "c49bc12b9155d"
+ },
+ {
+  "title": "TBMM Başkanı Kurtulmuş'tan 'süreç' mesajı: 'Yasal düzenlemelerle son noktaya ulaştıracağız'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/tbmm-baskani-kurtulmus-tan-surec-mesaji-yasal-duzenlemelerle-son-noktaya-ulastiracagiz-2521118",
+  "source": "Cumhuriyet",
+  "summary_tr": "TBMM Başkanı Numan Kurtulmuş, 'Terörsüz Türkiye' sürecini tamamlamak ve TBMM'de yasal düzenlemelerle son noktaya ulaştıracaklarını belirtti.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-15T15:01:26.112531+00:00",
+  "type": "news",
+  "cluster_id": "c4f34442a0807"
+ },
+ {
+  "title": "Elon Musk’ın SpaceX’i çakıldı: Halka arz sonrası rekor kayıp",
+  "link": "https://www.sozcu.com.tr/elon-musk-in-spacex-i-cakildi-halka-arz-sonrasi-rekor-kayip-p336782",
+  "source": "Sözcü",
+  "summary_tr": "SpaceX, rekor büyüklükteki halka arzdan sonra son üç işlem günündeki sert düşüşle halka arz sonrası kayıp kaydetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T15:01:26.112531+00:00",
+  "type": "news",
+  "cluster_id": "cbe909f01391e"
+ },
+ {
+  "title": "Batı’nın desteklediği yeni Suriye: Sübvansiyonlar kaldırıldı, yoksulluk büyüdü",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR0t2RnlvNkRoY1JLTkJuSGVvdXRxZ2JiaEVzRWtlS3hwbzVhY0tIWV9GTU9FRkRsdkNGQ3BoZl9adDFwaVNMZ3pZUUZ2VUN1RHR3X2pWM01qZE9JRG1qd0w1S0pTbWJiNmhZLXppMHMtbzIxejJBUnowWkFfX3UyV0hoTHFFS1JsVDRzT3hjaVhKN3B2SGdFdzFiZEQ5d1UxVHNyY2xTSFZPX3JFY2k1S1NCTQ?oc=5",
+  "source": "soL",
+  "summary_tr": "Batı tarafından desteklenen Suriye'de sübvansiyonlar kaldırılmış, yoksulluk artmıştır.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-15T15:01:26.112531+00:00",
+  "type": "news",
+  "cluster_id": "cc182740c7666"
+ },
+ {
+  "title": "EU, Ukraine seal 'drone deal' to boost production, establish joint ventures",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVzV0TkplU2pSb1RNbnVZTnAteUt2Y2xqZVphRzNVeWk2bGpYNjA0UmlyZnZwRTdlU3Q3aDhxTVNFRzU1UEtkMHRSS21ZVjhRTGROQXFXRExxNTQxOHRSVnY0TFpvWk00dE9QdjhsU2k2WjFXVXFPNmI5RjFLb3ZBTVptWkowcUFfTVV6Yld3?oc=5",
+  "source": "Reuters",
+  "summary_tr": "AB ve Ukrayna, insansız hava araçlarının üretimini artırmak ve ortak girişimler kurmak için anlaştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T15:01:26.112531+00:00",
+  "type": "news",
+  "cluster_id": "cff791856dd9e"
+ },
+ {
+  "title": "Trump to address defense technology gathering as the Iran war has reduced US weapon stocks",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWS0tckRmWUFEdW5qU0stNnFVeU9BZ0VQZmkxSzA5ZzhRT19QejNiNXNXbXNXcXJuSWhsSkwtZ1pjSHc5YWtfV3lNb0xnUFBha2JhLWpsOWN4cXh0b1JiY3U2RVlBMUZIN0xuaVRpdnlVcUF6YVVfTzNqY1NDWTlxOTdkM0hrRzlTVy1qT2sxd1Z6VkFOVjdwS1I0MGZiaGJ3QmllME5wMzliNHk5?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump, İran savaşının ABD silah stoklarını azaltması nedeniyle savunma teknolojisi toplantısında konuşacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T15:01:26.112531+00:00",
+  "type": "news",
+  "cluster_id": "ca51fa36070d4"
+ },
+ {
+  "title": "Çankaya: Hüseyin Can Güner hangi ihaleler nedeniyle suçlanıyor?",
+  "link": "https://www.dw.com/tr/çankaya-hüseyin-can-güner-hangi-ihaleler-nedeniyle-suçlanıyor/a-77971489?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Çankaya Belediye Başkanı Hüseyin Can Güner, belediye ihalelerinde usulsüzlük gerekçesiyle tutuklandı ve görevinden uzaklaştırıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-15T15:01:26.112531+00:00",
+  "type": "news",
+  "cluster_id": "c39892bad786b"
+ },
+ {
+  "title": "DEM Parti'den Hüseyin Can Güner'in tutuklanmasına tepki",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/dem-parti-den-huseyin-can-guner-in-tutuklanmasina-tepki-2521113",
+  "source": "Cumhuriyet",
+  "summary_tr": "DEM Parti, Çankaya Belediye Başkanı Hüseyin Can Güner'in tutuklanmasını seçme-seçilme hakkının hedeflenmesi olarak değerlendirerek tepki gösterdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-15T15:01:26.112531+00:00",
+  "type": "news",
+  "cluster_id": "cd2fe6a985d6f"
+ },
+ {
+  "title": "Çin yapımı tek taşlar elmas devine kurulduğu ülkede fabrika kapattırdı",
+  "link": "https://www.sozcu.com.tr/cin-yapimi-tek-taslar-elmas-devine-kuruldugu-ulkede-fabrika-kapattirdi-p336779",
+  "source": "Sözcü",
+  "summary_tr": "Çin yapımı laboratuvar elmaslarının rekabeti nedeniyle De Beers, Güney Afrika'daki fabrikasını kapattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-15T15:01:26.112531+00:00",
+  "type": "news",
+  "cluster_id": "cbd6c1c1cf4ff"
+ },
+ {
+  "title": "Bakan Bolat'ın Brüksel ziyaretinde Türkiye-AB ticaret ve sanayi entegrasyonu ele alınacak",
+  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolatin-bruksel-ziyaretinde-turkiye-ab-ticaret-ve-sanayi-entegrasyonu-ele-alinacak/3999167",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ticaret Bakanı Ömer Bolat, 16-17 Temmuz'da Brüksel'e giderek Türkiye-AB ticari ve ekonomik bağlarını ele alacak.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-15T15:01:26.112531+00:00",
+  "type": "news",
+  "cluster_id": "ca76f0350b410"
+ },
+ {
+  "title": "Geniş tanımlı işsiz sayısı: 12,6 milyon",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUjZKMzZ6OWFFbThPbXFvdV9FMS1aVzJpRE5MSzc2RFdBOXdlYlVJUV8yS0o1MjkzRzVnRGpoeGZnQmxKTFpYLXBqV3FCUHNhMmtUcmdFWDdUVldWQUszYTNnT0IzT3FlNlQ2OUxSWTIxM05YRnM3Mk1OQmk5S0NfdEdLX0t1dG9LbUdFVQ?oc=5",
+  "source": "DİSK-AR",
+  "summary_tr": "12,6 milyon",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-15T15:01:26.112531+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "ABD ordusu İran’a yeniden saldırdı: Hürmüz’deki adayı vurduğunu duyurdu",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc2EwWmlRVGRGdFpUeEZDMXE5QTVvUzZTYWtFLUVCei1aQ1RQV3hYWVh4SWk5enUwelFMbWRscVRxUVpaTWx3eDdlTkxTRTBCdW12aFpvRlcyVGxHNzBydEJrcHBiQlNpdDRLYnp1dFBxYW9saVp1RjF3MnBMX08xRmNIQWxIT203WEtPbVl6RlBVVTNOLXVwUGhoMWZlRngyNlNTQk1ldjVyUQ?oc=5",
   "source": "soL",
@@ -57052,135 +57208,5 @@
   "score": 6,
   "ts": "2026-06-03T10:01:22.093547+00:00",
   "cluster_id": "cba6c71032bad"
- },
- {
-  "title": "İşgalci İsrail, Batı Şeria'da Filistinlilere ait arazilere el koydu",
-  "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-bati-seriada-filistinlilere-ait-arazilere-el-koydu-947024.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail, Batı Şeria'nın Tubas kentinde Filistinlilere ait 42 dönüm araziyi askeri bölge adıyla el koydu.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-03T10:01:22.093547+00:00",
-  "cluster_id": "c7a6933098574"
- },
- {
-  "title": "Yargıtay’ın CHP kararı: AKP kulislerinde eylül ayı konuşuluyor",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVlGTmJXMWNMVTVxZVVJQTdaR1cyUE5hVk1leTJ2eGtnZnk4cklZcnRQZUtYY1V0RFZOSWduQ3RhS0pBeU92a0NIV2NsX3dXOU1OVzNjZW1tVVl1ZUJPWVZ2VDJSR2NZWjlIZTZrN1lDNzBaTDZGLWREcmFaYTdNOFJpUXpXVDlMUUw0ajNQUGZGLVRUQVZseGNwQ2JjUlk?oc=5",
-  "source": "soL",
-  "summary_tr": "Yargıtay'ın CHP kararına tepki; AKP çevrelerinde eylül seçimleri konuşuluyor.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-03T10:01:22.093547+00:00",
-  "cluster_id": "c4b182a715bdd"
- },
- {
-  "title": "New U.S. tariffs on EU goods would be unacceptable, EU trade committee head says",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONnpwOEVXLURXS3lSNDRtaGx3eWRwUllsYXpYT3hDMFI3QmMzRDg0MS1lTmh1aGd6NEt1ZXFaektUdzdOckpjU2hJQzgxVHhiVnFuWWRCazhuWXUxSFdiZ3N1TkdObGIxWE1TLTUtTXFSaEhDdk1LdEFJS1ZLdzBBSURQRVVpbks4WE5wY05MSXZobnZtSFhHRzROdnpPNjdLdVpLMWFNbUpReG5welpwcnQzcXNINGJBWnVr?oc=5",
-  "source": "Reuters",
-  "summary_tr": "AB Ticaret Komitesi Başkanı, ABD'nin AB mallarına karşı yeni tarifeleri kabul edilemez buldu.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T10:01:22.093547+00:00",
-  "cluster_id": "ce4fc62583b2b"
- },
- {
-  "title": "Ukrayna'nın saldırısı Putin'in 'vitrinini' kırdı: Rus Davosu'nu İHA korkusu sardı",
-  "link": "https://www.sozcu.com.tr/ukrayna-nin-saldirisi-putin-in-vitrinini-kirdi-rus-davos-unu-iha-korkusu-sardi-p324845",
-  "source": "Sözcü",
-  "summary_tr": "Ukrayna, Putin'in St. Petersburg ekonomi forumundan önce şehirdeki petrol terminalini ve askeri üssü İHA'larla vurdu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-03T09:01:03.338581+00:00",
-  "cluster_id": "c2f11cbf9470a"
- },
- {
-  "title": "İran, ABD'nin Trump'a suikast planı iddiasını reddetti",
-  "link": "https://www.trthaber.com/haber/dunya/iran-abdnin-trumpa-suikast-plani-iddiasini-reddetti-947011.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran, ABD'nin Trump'a suikast planı iddiasını reddetti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-03T09:01:03.338581+00:00",
-  "cluster_id": "cfec3ec13d742"
- },
- {
-  "title": "Ukrainian drones strike oil terminal in St Petersburg as Putin's 'Davos' gets under way",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSXU1OFZuOUl3SEFtWTlaSzlzOTVNQVdreDdLaHVGcVdqeEM4aUY4MHg4Tmg3Z1FKb25kXzJuc2RoejFrcUhFcEsyYkxaenZnc0h0ZVhuN0UyLWthVUQzME5MV2swek5DeG9qaUh5U0dsdUhoallBUllBV1BHX0FucFRtWjhhbmU3TDFIYVhtWFNObTNyQkdydkMxVWJsbC00Z0h4eWR0SUdscFlrQVotbTFXUHBCR3V1bl85cmtqalFueEZaVnc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ukrayna, Putin'in ekonomi forumundan önce St. Petersburg'daki petrol terminalini drone saldırısıyla vurdu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-03T09:01:03.338581+00:00",
-  "cluster_id": "c8fa65d00c92e"
- },
- {
-  "title": "AKP dört il başkanını görevden aldı",
-  "link": "https://www.diken.com.tr/akp-dort-il-baskanini-gorevden-aldi/?utm_source=rss&utm_medium=rss&utm_campaign=akp-dort-il-baskanini-gorevden-aldi",
-  "source": "Diken",
-  "summary_tr": "AKP, Adana, Diyarbakır, Giresun ve Siirt il başkanlıklarında görev değişikliği yaptı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T09:01:03.338581+00:00",
-  "cluster_id": "cf38c75e535ad"
- },
- {
-  "title": "AK Parti'de 4 il başkanlığında görev değişikliği yapıldı",
-  "link": "https://www.aa.com.tr/tr/gundem/ak-partide-4-il-baskanliginda-gorev-degisikligi-yapildi/3955049",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "AK Parti Teşkilat Başkanlığı, Adana, Diyarbakır, Giresun ve Siirt il başkanlıklarında görev değişikliği yaptığını bildirdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T09:01:03.338581+00:00",
-  "cluster_id": "c58a0d9cdd72f"
- },
- {
-  "title": "AK Parti 4 ilde yeni il başkanlarını belirledi",
-  "link": "https://www.trthaber.com/haber/gundem/ak-parti-4-ilde-yeni-il-baskanlarini-belirledi-947009.html",
-  "source": "TRT Haber",
-  "summary_tr": "AK Parti, Adana, Diyarbakır, Giresun ve Siirt il başkanlıklarında görev değişikliği yaptı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T09:01:03.338581+00:00",
-  "cluster_id": "c208596b2d007"
- },
- {
-  "title": "Stocks dip on new Iran attacks as oil prices rise",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeVllVU5TSEVpajhKb3hSRUx6NDY3bWU2cDJpaUtOMllscG9lckFqZzJrMEowQ0IxSENhamFtNjZuOXVGb2Ywd0VfSUhlTnUzRkR5dlJlNHI1ME02YnhJV1RWRk5PZml5QlRIRlRQWEZIMzNUYlBmQ183aGEzNXFZU3V3ZFFXb0dw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran saldırıları sonrası piyasalar düştü, petrol fiyatları yükseldi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T09:01:03.338581+00:00",
-  "cluster_id": "cf6370b26f660"
- },
- {
-  "title": "Milyonlarca öğrencinin beklediği gün: 2026 LGS sınav giriş yerleri açıklandı!",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/milyonlarca-ogrencinin-bekledigi-gun-2026-lgs-sinav-giris-yerleri-aciklandi-2508895",
-  "source": "Cumhuriyet",
-  "summary_tr": "Milli Eğitim Bakanlığı, 13 Haziran'da yapılacak LGS sınavının giriş belgelerini açıkladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T09:01:03.338581+00:00",
-  "cluster_id": "c66ae0fa1eeb4"
- },
- {
-  "title": "17 ilde 'nitelikli dolandırıcılık' operasyonu: 261 tutuklama",
-  "link": "https://www.sozcu.com.tr/17-ilde-nitelikli-dolandiricilik-operasyonu-261-tutuklama-p324840",
-  "source": "Sözcü",
-  "summary_tr": "İçişleri Bakanlığı, 17 ilde 'nitelikli dolandırıcılık' operasyonunda 261 şüpheliyi tutuklatıp 503'ü gözaltına aldı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T09:01:03.338581+00:00",
-  "cluster_id": "c186c675b5e47"
- },
- {
-  "title": "LGS giriş belgeleri erişime açıldı",
-  "link": "https://www.sozcu.com.tr/lgs-giris-belgeleri-erisime-acildi-p324837",
-  "source": "Sözcü",
-  "summary_tr": "Milli Eğitim Bakanlığı, 13 Haziran'da yapılacak LGS sınavının giriş belgelerini erişime açtı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T09:01:03.338581+00:00",
-  "cluster_id": "cfc7633acae14"
  }
 ]
