@@ -1,5 +1,29 @@
 [
  {
+  "title": "İmralı-AKP görüşmesi... DEM Partili Buldan: 'Haber bekliyoruz'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/imrali-akp-gorusmesi-dem-partili-buldan-haber-bekliyoruz-2521133",
+  "source": "Cumhuriyet",
+  "summary_tr": "DEM Parti İmralı Heyeti Üyesi Pervin Buldan, İmralı-AKP görüşmesiyle ilgili haber beklediklerini söyledi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-15T16:01:22.808290+00:00",
+  "type": "news",
+  "cluster_id": "c3b8b94df5066"
+ },
+ {
+  "title": "AB'den Ukrayna'nın dron kapasitesine 1 milyar avroluk destek",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abden-ukraynanin-dron-kapasitesine-1-milyar-avroluk-destek/3999266",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "AB, Ukrayna'nın insansız hava aracı kapasitesini güçlendirmek için 1 milyar avro serbest bıraktı.",
+  "metric": "AB savunma desteği 1 milyar avro",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-15T16:01:22.808290+00:00",
+  "type": "news",
+  "cluster_id": "c6600d56f89c7"
+ },
+ {
   "title": "Karadeniz'de gerilim artıyır: Ukrayna 20 gemiye saldırdı",
   "link": "https://www.sozcu.com.tr/karadeniz-de-gerilim-artiyir-ukrayna-20-gemiye-saldirdi-p336780",
   "source": "Sözcü",
@@ -57188,25 +57212,5 @@
   "score": 6,
   "ts": "2026-06-03T10:01:22.093547+00:00",
   "cluster_id": "ccc19b58d5e9b"
- },
- {
-  "title": "DEM Parti süreç için 5 Haziran'a dikkat çekti: 'CHP'de yaşananlar süreci etkiler'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/dem-parti-surec-icin-5-haziran-a-dikkat-cekti-chp-de-yasananlar-sureci-etkiler-2508916",
-  "source": "Cumhuriyet",
-  "summary_tr": "DEM Parti, 5 Haziran'daki CHP gelişmelerinin barış süreci müzakerelerini etkileyebileceğini vurguladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T10:01:22.093547+00:00",
-  "cluster_id": "c1ff788b7049d"
- },
- {
-  "title": "Bitcoin 2 ayın en düşük seviyesine geriledi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/bitcoin-2-ayin-en-dusuk-seviyesine-geriledi/3955143",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Bitcoin spot ETF'lerinden çıkışların etkisiyle kripto 2 ayın en düşük seviyesi olan 65.426 dolara geriledi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T10:01:22.093547+00:00",
-  "cluster_id": "cba6c71032bad"
  }
 ]
