@@ -1,5 +1,65 @@
 [
  {
+  "title": "Memurların 14 günlük maaş farkı hesaplandı: İşte meslek meslek tam liste...",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/memurlarin-14-gunluk-maas-farki-hesaplandi-iste-meslek-meslek-tam-liste-2520985",
+  "source": "Cumhuriyet",
+  "summary_tr": "Memur ve emekli memurlar temmuz ayında %13,52 zam aldı; 14 günlük maaş farkı hesaplandı.",
+  "metric": "Memur zam oranı: %13,52",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-15T09:01:14.772382+00:00",
+  "type": "news",
+  "cluster_id": "cd1c42c868530"
+ },
+ {
+  "title": "İran savaşında yeni eşik: Hürmüz’den sonra Babülmendep de kapanabilir",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWm5UeGx1OTIxZzEyZmYxa1ZobGJOWmFPNE5XS01QblhpZDF1V3FXOXJSMHlrYllBYWMxNGJMeUJhVzJ4eW5PaERsNGRLaWF5bUxLLThYVG5lNWVZNXdsNGVfVnhWazZFZDA1TkljT0FGNWRHbUV6VS1LQThUUHJxaTk3N3dRbGR5bXhBc0w4XzRGUm9JVkNPNVQ2Z3p6QXYyRlh5dTc0Sm0?oc=5",
+  "source": "soL",
+  "summary_tr": "İran savaşında stratejik deniz boğazları tehdit altında: Hürmüz'den sonra Babülmendep de kapanabilir.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-15T09:01:14.772382+00:00",
+  "type": "news",
+  "cluster_id": "c70c0547c15ff"
+ },
+ {
+  "title": "Halkın bütçesi enerji şirketlerine: Patronlara vergi kıyağı",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTmswd3F6bUdXQVQza1VtRmx4Y3BySmpUbnNJMFV3amdIM1hWTTJ5aXY2Ulcydy03aDN6Y0M1Tkd4dEJqRGFxOEpHVDZHNVNGMVlib2dUeUQ4T2lZNGcxd25OdFhDbU9jbmJfQW50NjdENmQwY2d5cmt1QWxING9zNGVRODhIanQtU3NDeFIxVUZ6WDdCYVZTX0V3OGY?oc=5",
+  "source": "soL",
+  "summary_tr": "Enerji şirketlerine vergi kıyağı uygulanırken halkın bütçesi enerji kesintisine uğruyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-15T09:01:14.772382+00:00",
+  "type": "news",
+  "cluster_id": "c7bc6dcf96e05"
+ },
+ {
+  "title": "Gümüşte sürpriz... Yüzde 20 artış bekleniyor",
+  "link": "https://www.sozcu.com.tr/gumus-yatirimcisini-bekleyen-buyuk-kriz-6-yildir-bitmeyen-acik-p336665",
+  "source": "Sözcü",
+  "summary_tr": "Gümüş fiyatlarında %20 artış bekleniyor; ABD enflasyonundaki yavaşlama ve zayıflayan dolar destek veriyor.",
+  "metric": "Gümüş fiyatı beklenen artış: %20",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-15T09:01:14.772382+00:00",
+  "type": "news",
+  "cluster_id": "c8723f9ed0f50"
+ },
+ {
+  "title": "Türkiye sağlık turizminde yılın ilk çeyreğinde 761,5 milyon dolar gelir elde etti",
+  "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-saglik-turizminde-yilin-ilk-ceyreginde-761-5-milyon-dolar-gelir-elde-etti/3998615",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye sağlık turizminde 2026 ilk çeyreğinde 761,5 milyon dolar gelir elde etti; 302 bin 487 uluslararası hastaya hizmet sağlandı.",
+  "metric": "Sağlık turizmi geliri: 761,5 milyon dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-15T09:01:14.772382+00:00",
+  "type": "news",
+  "cluster_id": "cf44ccf9ad7bd"
+ },
+ {
   "title": "İran: Saldırılar şiddetlendi, Hürmüz yeniden ablukada",
   "link": "https://www.dw.com/tr/iran-saldırılar-şiddetlendi-hürmüz-yeniden-ablukada/a-77962174?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -57028,55 +57088,5 @@
   "score": 8,
   "ts": "2026-06-02T22:00:52.895106+00:00",
   "cluster_id": "c0bc71a31ade6"
- },
- {
-  "title": "ABD ordusu: İran limanına doğru seyreden yüksüz petrol tankeri etkisiz hale getirildi",
-  "link": "https://www.trthaber.com/haber/dunya/abd-ordusu-iran-limanina-dogru-seyreden-yuksuz-petrol-tankeri-etkisiz-hale-getirildi-946959.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD CENTCOM, Basra Körfezi'nde İran limanına doğru seyreden yüksüz petrol tankerini etkisiz hale getirdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-02T22:00:52.895106+00:00",
-  "cluster_id": "cfbec9d666b01"
- },
- {
-  "title": "Mahkeme kararıyla CHP Genel Başkanlığı’na atanan Kılıçdaroğlu’nun MYK listesi: Kimler hangi görevde yer aldı, önceden ne yapıyordu?",
-  "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPczJWajVoVnp2MG5xR1JXZ2tqcURzUEstLWRSWXVMbk5SLUJoSEZ6TjlNb1owNFA3Mk5sU2RrbW1SOXNzMDJHWlVYVXJYamp2bE93YXp2cUJ5XzBRY0lXQkNEWlhmNDFUZUNDQmJSZlltdHBiNk1HbWhsWmFXXzNTeV9OZzVCaW80VUd5djFqVzFYRXFFTHAzT0t4Y1drNXBwbVp5VTEzQTlLSU1uVHlQY0lVUUg5UHRmVFlXNlVkOU44aDBMU1MwcjZwd0syVTA2V3FfMzFOY0g2aHVhd2NhazFvQl9zYmtoLVdCNnJxMV9IUQ?oc=5",
-  "source": "T24",
-  "summary_tr": "Mahkeme kararıyla atanan Kılıçdaroğlu'nun Merkez Yönetim Kurulu listesi açıklandı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-02T22:00:52.895106+00:00",
-  "cluster_id": "c2d69bdfe9876"
- },
- {
-  "title": "Trump administration drops $1.8 billion 'weaponization' fund after Republican backlash",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMC1iN2ZnOXMwRHVjRlphMC13akFIY3dfaU5VNHZyQlpQVnN4ajlEdmx2bHdxdDBCVUNvMzBSMzNSblg2aGczRFpKXzlleFFSYWh2ejU5RVEzV0VXbVp4M1IxdG5haUhPRGNTMUZKdWRyR2RzUWt5dVdEdUM5REplejFPZU02cU9UdkY5QXlWdXdDMElkTU5qdGZqY2JtVTF3LUx0bVJKVmVSR05sZ3g1SDQ1WE5aMW1NM09CZWFxZVZ0Y2pBd0NGQg?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump yönetimi Cumhuriyan ters oyları sonrası 1,8 milyar dolarlık 'silahlandırma' fonunu iptal etti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-02T22:00:52.895106+00:00",
-  "cluster_id": "c1258f5a83a60"
- },
- {
-  "title": "US sanctions Iran's largest crypto exchange over IRGC links",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdlg5TE9NT092Z3lQQnBKS2RrcTRSOHFIZXdXaFpfS2tVenVPemg4OHRyaktHUnRMUkVoTU9FcUU3cE9HZWJZWnNSNm90LUsxNWJYOUdCcXViSTFlT0NheFRfdWFxSm9EdXdxdUdfTVFkb3NNUEdramUzWDZ2RUhNX2ZUTkh1am5SZjVucjdxVUk1SWFLYkJGZVN4QWdqUVZVMGYwZ3RvdDZvb1FCX2JFZGd3?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, İRGC bağlantıları nedeniyle İran'ın en büyük kripto para borsasına yaptırım uyguladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-02T22:00:52.895106+00:00",
-  "cluster_id": "c55aa25eb914c"
- },
- {
-  "title": "'Butlan' yönetimi ilk MYK toplantısını yaptı: Açıklama için saat verdiler",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/butlan-yonetimi-ilk-myk-toplantisini-yapti-aciklama-icin-saat-verdiler-2508816",
-  "source": "Cumhuriyet",
-  "summary_tr": "Kılıçdaroğlu'nun mahkeme kararıyla atandığı CHP yönetimi ilk MYK toplantısını yapıp açıklama zamanı belirledi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-02T21:00:58.741091+00:00",
-  "cluster_id": "c76745381d025"
  }
 ]
