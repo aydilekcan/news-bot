@@ -1,5 +1,77 @@
 [
  {
+  "title": "US producer prices post largest monthly drop in 14 months on lower energy costs",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQakxCblFJX3pRLTFSM2t1Q0NXa3oxWTExeXlMREpyMU1UYlJEM29pN1ZjQUxUUVpPM2pQcWgwOU9zNTE4NUlrbmk5TWk3cm9vRWVITF9kLVo1TExxRWRfUGZVenlYSFIzdGZYZzFQMVFEaDdDWUNHVXQ3cnlJVHh5WGFNRmItVFcyajdsaG1NQQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD üretici fiyatları enerji maliyetlerindeki düşüşle 14 aylık en büyük aylık düşüşü yaşadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-15T17:01:16.480736+00:00",
+  "type": "news",
+  "cluster_id": "c9b8ce517bdea"
+ },
+ {
+  "title": "IMF, petrol piyasasında tamponların azaldığı konusunda uyardı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/imf-petrol-piyasasinda-tamponlarin-azaldigi-konusunda-uyardi/3999283",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "IMF, Orta Doğu'daki savaşın petrol piyasasında ciddi aksamalara neden olmasına rağmen, düşen talep ve artan üretimle piyasadaki tamponların azaldığı konusunda uyardı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T17:01:16.480736+00:00",
+  "type": "news",
+  "cluster_id": "c70d35974e56f"
+ },
+ {
+  "title": "ABD'nin İran'a son saldırılarında hayatını kaybedenlerin sayısı 35'e yükseldi",
+  "link": "https://www.trthaber.com/haber/dunya/abdnin-irana-son-saldirilarinda-hayatini-kaybedenlerin-sayisi-35e-yukseldi-951313.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD'nin İran'a düzenlediği saldırılarda hayatını kaybedenlerin sayısı 35'e yükseldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T17:01:16.480736+00:00",
+  "type": "news",
+  "cluster_id": "c3cd55b1d81d7"
+ },
+ {
+  "title": "Russia says foreign troops sent to Ukraine after a peace deal would be legitimate targets",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUE8yOHhuLW9oYlU5MlVfcnJCQTVmdTE5Wml0cEpmMTdINTJYQ0tSd192SmJWXzlxYTJDd0tYVDFMeVdVaW5zUEV6WFBUOExDaXh2T0pnQ0FEaUlnSElhSzU2RmhQUzBIcjhRZzl1SUVPamlUeHJIY1JwbU02Z2ZPRkRiVkNUc3RzZ05WYVJRRmNwaEx6bDk3TjZLeXg5TWh6aUIzS01CUWRmckJhaXNGaVBPQnJLSkE2S1Rjc21lcjBwX0U?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya, barış anlaşması sonrası Ukrayna'ya gönderilen yabancı askerlerin meşru hedef olacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T17:01:16.480736+00:00",
+  "type": "news",
+  "cluster_id": "c29df189e6997"
+ },
+ {
+  "title": "Yurttaşlar tutuklama sonrası belediye önünde toplandı: Güner'in suçu \"Yürünecekse yol Özgür Özel'le yürünür\" demesidir",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/yurttaslar-tutuklama-sonrasi-belediye-onunde-toplandi-guner-in-sucu-yurunecekse-yol-ozgur-ozel-le-yurunur-demesidir-2521140",
+  "source": "Cumhuriyet",
+  "summary_tr": "Çankaya Belediye Başkanı Hüseyin Can Güner tutuklanarak görevden uzaklaştırıldı. CHP lideri Özgür Özel tarafından ziyaret edildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-15T17:01:16.480736+00:00",
+  "type": "news",
+  "cluster_id": "c552612d225ae"
+ },
+ {
+  "title": "Cumhurbaşkanı Recep Tayyip Erdoğan konuşuyor",
+  "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-recep-tayyip-erdogan-konusuyor-951310.html",
+  "source": "TRT Haber",
+  "summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, '10. Yılında 15 Temmuz' programında konuştu.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-15T17:01:16.480736+00:00",
+  "type": "news",
+  "cluster_id": "c468194afa5fb"
+ },
+ {
   "title": "İmralı-AKP görüşmesi... DEM Partili Buldan: 'Haber bekliyoruz'",
   "link": "https://www.cumhuriyet.com.tr/turkiye/imrali-akp-gorusmesi-dem-partili-buldan-haber-bekliyoruz-2521133",
   "source": "Cumhuriyet",
@@ -57152,65 +57224,5 @@
   "score": 8,
   "ts": "2026-06-03T10:01:22.093547+00:00",
   "cluster_id": "c29b2fbd2a413"
- },
- {
-  "title": "BM Güvenlik Konseyi'nde Almanya için kader seçimi",
-  "link": "https://www.dw.com/tr/bm-güvenlik-konseyi-nde-almanya-için-kader-seçimi/a-77403281?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Almanya, BM Güvenlik Konseyi'nde geçici üyelik için aday oldu; Gazze konusu seçimi etkileyebilir.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T10:01:22.093547+00:00",
-  "cluster_id": "c8c7c20fa02f7"
- },
- {
-  "title": "OECD, Türkiye için büyüme tahminini düşürdü: 'Faiz artışı ihtimaller dahilinde'",
-  "link": "https://www.diken.com.tr/oecd-turkiye-icin-buyume-tahminini-dusurdu-faiz-artisi-ihtimaller-dahilinde/?utm_source=rss&utm_medium=rss&utm_campaign=oecd-turkiye-icin-buyume-tahminini-dusurdu-faiz-artisi-ihtimaller-dahilinde",
-  "source": "Diken",
-  "summary_tr": "OECD, Türkiye büyüme tahminini düşürdü; merkez bankasının faiz artışı olasılığını dile getirdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T10:01:22.093547+00:00",
-  "cluster_id": "cb0eb61439003"
- },
- {
-  "title": "SON DAKİKA... YSK'dan flaş CHP açıklaması",
-  "link": "https://www.sozcu.com.tr/son-dakika-ysk-dan-flas-chp-aciklamasi-p324865",
-  "source": "Sözcü",
-  "summary_tr": "YSK, CHP'ye reddin gerekçesini açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T10:01:22.093547+00:00",
-  "cluster_id": "c527142f05c67"
- },
- {
-  "title": "Spor kulüplerinin vergi borcu sporculara yüklenemeyecek",
-  "link": "https://www.trthaber.com/haber/gundem/spor-kuluplerinin-vergi-borcu-sporculara-yuklenemeyecek-947022.html",
-  "source": "TRT Haber",
-  "summary_tr": "Anayasa Mahkemesi, spor kulüplerinin vergi borcunun sporculara yüklenmesini Anayasa'ya aykırı buldu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T10:01:22.093547+00:00",
-  "cluster_id": "c98c748cdf70b"
- },
- {
-  "title": "İran: ABD'nin saldırıları Kuveyt ve Bahreyn üzerinden gerçekleştirildi",
-  "link": "https://www.trthaber.com/haber/dunya/iran-abdnin-saldirilari-kuveyt-ve-bahreyn-uzerinden-gerceklestirildi-947016.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Dışişleri Bakanlığı, ABD'nin Hürmüz Boğazı'nda bir İran petrol tankerine ve Keşm Adası'ndaki iletişim kulesine saldırı düzenlendiğini açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T10:01:22.093547+00:00",
-  "cluster_id": "c83a2134de1a2"
- },
- {
-  "title": "AKP'de dört il yönetiminde değişiklik",
-  "link": "https://www.bbc.com/turkce/articles/cj3pkj8rrllo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "AKP, Adana, Diyarbakır, Giresun ve Siirt il başkanlıklarında yönetim değişikliğine gitti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T10:01:22.093547+00:00",
-  "cluster_id": "ccc19b58d5e9b"
  }
 ]
