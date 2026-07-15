@@ -1,5 +1,89 @@
 [
  {
+  "title": "ABD'nin saldırısının ardından İran'da peş peşe patlamalar: 4 kent hedef alındı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/abd-nin-saldirisinin-ardindan-iran-da-pes-pese-patlamalar-4-kent-hedef-alindi-2521196",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD, İran'a saldırı başlattı; Ahvaz, Bender Abbas, Çabahar ve Rask kentlerinde patlamalar yaşandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-15T21:01:13.749794+00:00",
+  "type": "news",
+  "cluster_id": "cc6e225fe3567"
+ },
+ {
+  "title": "Son dakika... AKP ve DEM Parti'den süreç görüşmesi",
+  "link": "https://www.sozcu.com.tr/son-dakika-akp-ve-dem-parti-den-surec-gorusmesi-p336846",
+  "source": "Sözcü",
+  "summary_tr": "AKP Genel Başkan Vekili Efkan Ala ve İmralı heyeti, sürece ilişkin çerçeve yasayı görüştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T21:01:13.749794+00:00",
+  "type": "news",
+  "cluster_id": "c7f9f66164626"
+ },
+ {
+  "title": "İsrail'den Lübnan'dan çekilme mesajı",
+  "link": "https://www.sozcu.com.tr/israil-den-lubnan-dan-cekilme-mesaji-p336842",
+  "source": "Sözcü",
+  "summary_tr": "İsrail, Lübnan ile doğrudan müzakerelerin Roma'daki 6. turunda çekilme mesajı verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T21:01:13.749794+00:00",
+  "type": "news",
+  "cluster_id": "cf6db641fbde2"
+ },
+ {
+  "title": "İran basını: ABD füzeleri Ahvaz’da bir hastanenin yakınına isabet etti",
+  "link": "https://www.aa.com.tr/tr/live-blog/son-gelismeler-abdnin-irana-yonelik-saldirilari-ve-iran-in-misillemeleri/5333",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran basınına göre ABD füzeleri Ahvaz'da bir hastanenin yakınına isabet etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-15T21:01:13.749794+00:00",
+  "type": "news",
+  "cluster_id": "c39feaa7e37c9"
+ },
+ {
+  "title": "Katil İsrail, ateşkese rağmen yine Gazze'ye saldırdı",
+  "link": "https://www.trthaber.com/haber/dunya/katil-israil-ateskese-ragmen-yine-gazzeye-saldirdi-951326.html",
+  "source": "TRT Haber",
+  "summary_tr": "İsrail ordusu, 10 Ekim 2025'te yürürlüğe giren ateşkese rağmen Gazze Şeridi'nin orta kesiminde saldırılara devam etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-15T21:01:13.749794+00:00",
+  "type": "news",
+  "cluster_id": "c12947db8648b"
+ },
+ {
+  "title": "Fed Başkanı Warsh, yapay zeka kaynaklı fiyat baskılarını enflasyonist görmediğini söyledi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/fed-baskani-warsh-yapay-zeka-kaynakli-fiyat-baskilarini-enflasyonist-gormedigini-soyledi/3999619",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Fed Başkanı Kevin Warsh, yapay zeka yatırımlarından kaynaklanan fiyat baskılarını kısa vadede enflasyonist görmediğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-15T21:01:13.749794+00:00",
+  "type": "news",
+  "cluster_id": "c589ae0ec6a27"
+ },
+ {
+  "title": "Sanayi üretim endeksi (aylık değişim): -2,9% (Mayıs 2025)",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeDF4MHBoazRzc1NiNkMwZWxsb1FRYWlINHhESlBQQzR6S2lGd2phdXptWjZRbkJaRGtFaUpaSnVyMXpqRUNOWWRNSmdJeWt2Wm84dC1uRDctNXV2Sks2b2FfYURxQW1jMkx0U29IUHl1TFFWMkZZWkloamF4WFdaZnhBVzBTVXJQVVBfbVBUM3pBVjZ2cWpmRUJkYjlFRVdua245aEpZcWRIMW5BeEg4c2VFVWlfYUE?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%3,7 → -2,9% (-6,6 puan)",
+  "metric": "-6,6 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-15T21:01:13.749794+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Son dakika... ABD İran'a 2'nci hava saldırısını başlattı",
   "link": "https://www.sozcu.com.tr/son-dakika-abd-iran-a-2-nci-hava-saldirisini-baslatti-p336835",
   "source": "Sözcü",
@@ -57200,75 +57284,5 @@
   "score": 7,
   "ts": "2026-06-03T13:01:09.045031+00:00",
   "cluster_id": "cac603ba80232"
- },
- {
-  "title": "Müslim Sarı: Kılıçdaroğlu Meclis Grup Toplantısı'nda konuşacak, diyalog heyeti oluşturulacak",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSkxSMTZYUTdDZXdnWlloYnZEbVVvX3pYRHVZNnR0SG5zRXBBbEJQTVRDS1g0dTFOanpDdUhhTERSXzMwUjh0Zm9UOFBLN2F1OEwzOXlNSlUzb3h2c3Boa19qSnowZ210RWtwX0UtTl8yWGVUeVFPdzdBWFZsclgtS2pKTHZESlZ4SnZaTHZPU3R5TkNnekt5Y25VdEo3ekZBSUZSX000NXRsLWNnRUhiNG8yYWNwUTdoOWJZag?oc=5",
-  "source": "soL",
-  "summary_tr": "CHP Sözcüsü Müslim Sarı, Kılıçdaroğlu'nun Meclis Grup Toplantısı'nda konuşacağını ve diyalog heyeti oluşturulacağını açıkladı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-03T13:01:09.045031+00:00",
-  "cluster_id": "c7b8a46236ed1"
- },
- {
-  "title": "İran basınından Trump’a yalanlama: ABD ile temas kesildi",
-  "link": "https://www.cumhuriyet.com.tr/dunya/iran-basinindan-trump-a-yalanlama-abd-ile-temas-kesildi-2508986",
-  "source": "Cumhuriyet",
-  "summary_tr": "İran basını, Trump'ın ABD-İran temas açıklamasını yalanladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T13:01:09.045031+00:00",
-  "cluster_id": "c8985a0acddff"
- },
- {
-  "title": "ABD'de özel sektör istihdamı beklentileri aştı",
-  "link": "https://www.sozcu.com.tr/abd-de-ozel-sektor-istihdami-beklentileri-asti-p324923",
-  "source": "Sözcü",
-  "summary_tr": "ABD özel sektör istihdamı mayıs ayında 122 bin kişi artış göstererek beklentileri aştı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T13:01:09.045031+00:00",
-  "cluster_id": "ccf1d4b193e5c"
- },
- {
-  "title": "AB'den İran savaşı alarmı: 1,3 milyon kişiye işsizlik tehdidi",
-  "link": "https://www.sozcu.com.tr/ab-den-iran-savasi-alarmi-1-3-milyon-kisiye-issizlik-tehdidi-p324922",
-  "source": "Sözcü",
-  "summary_tr": "Avrupa Komisyonu, Ortadoğu'daki çatışmaların enerji maliyetlerini ve işsizliği artıracağını uyardı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T13:01:09.045031+00:00",
-  "cluster_id": "cfd496aa585e5"
- },
- {
-  "title": "Enerji ve Tabii Kaynaklar Bakanı Bayraktar, 2025'te \"rekor kurulu güç\" sözünün yerine getirildiğini bildirdi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/enerji-ve-tabii-kaynaklar-bakani-bayraktar-2025te-rekor-kurulu-guc-sozunun-yerine-getirildigini-bildirdi/3955356",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Bakan Bayraktar, 2024'te 6.818 megavatlık kurulu güç rekorı kırıldığını açıkladı.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-03T13:01:09.045031+00:00",
-  "cluster_id": "c0fe7af6626b4"
- },
- {
-  "title": "Merkez Bankası rezervleri 160,2 milyar dolar oldu",
-  "link": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-rezervleri-160-2-milyar-dolar-oldu/3955351",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "TCMB toplam rezervleri 160,2 milyar dolara geriledi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T13:01:09.045031+00:00",
-  "cluster_id": "c9e4c7de0fa43"
- },
- {
-  "title": "Bakan Bayraktar: 2025'te 'rekor kurulu güç' sözümüzü yerine getirdik",
-  "link": "https://www.trthaber.com/haber/ekonomi/bakan-bayraktar-2025te-rekor-kurulu-guc-sozumuzu-yerine-getirdik-947040.html",
-  "source": "TRT Haber",
-  "summary_tr": "Bakan Bayraktar, 2024'te 6.818 megavatlık kurulu güç rekorı kırıldığını açıkladı.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-03T13:01:09.045031+00:00",
-  "cluster_id": "cf70713eea6d5"
  }
 ]
