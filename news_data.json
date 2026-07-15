@@ -1,5 +1,41 @@
 [
  {
+  "title": "Inflation cools more than expected in June as gas costs fall, underlying prices ease",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0ZNbFlHYm1IRUhtaVZuak9fcUVtc0UySC1qWnN6Snk2Rzl1NEFQWU9DblNXVGNVak8wNDNCVEwzRFUtc0xVM0xWWUFEMGFWSzlzcDdJYVQ5U0FxMHkxVDZ6YnpJNmNvdWhJRFlsMWpXYUoyRVd3SVVQS0xuNEdiMWdERkh3VDhHMXNjNDV4c0xURVBfOHc?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD'de Haziran enflasyonu beklentileri aşarak düşüş gösterdi. Gaz maliyetleri düşerken temel fiyatlar da yumuşadı, Fed politikası açısından önemli bir sinyal taşıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-15T04:01:15.540213+00:00",
+  "type": "news",
+  "cluster_id": "c5fdb9cecd9ce"
+ },
+ {
+  "title": "EXCLUSIVE: Stripe, Advent offer to buy PayPal for more than $53 billion, sources say",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeTJ6Wng1a0VaQXRFS3dXYml0Vk1TWTZEYWxOTElCNzJhNU5xamNacW0yczJVT3RZZ2oxcnE0VVhkTEYtS1FZWFIxZTJHNjNaXzVoci00aTNGcEFpTFRXcE1xaVA1cEZ1ZmFKZWRKcm1LcU0wUGZIRXJEMDdXaUM5ektPWUhaQU5mZmMxdWZIYTB3a2hqWlpfR3d3V0tIQWs0SmhKcVpuTVdfbS1VVEx2RjI5RXVkTFk?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Stripe ve Advent, PayPal'ı satın almak için 53 milyar dolardan fazla bir teklif sundu. Girişim, finansal teknoloji sektörünün önemli bir birleşme adımını temsil ediyor.",
+  "metric": "PayPal satın alma teklifi $53 milyard+",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T04:01:15.540213+00:00",
+  "type": "news",
+  "cluster_id": "c5bf30de6dc44"
+ },
+ {
+  "title": "Üniversitelilere öğrenci affı düzenlemesi komisyondan geçti",
+  "link": "https://www.trthaber.com/haber/gundem/universitelilere-ogrenci-affi-duzenlemesi-komisyondan-gecti-951242.html",
+  "source": "TRT Haber",
+  "summary_tr": "TBMM Milli Eğitim Komisyonu, üniversitelilere yönelik öğrenci affı düzenlemesini kabul etti. İstisnalar dışında ilişiği kesilen veya kayıt hakkını kullanamayan öğrenciler düzenleme kapsamına alınacak.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-15T04:01:15.540213+00:00",
+  "type": "news",
+  "cluster_id": "c3067c86cd04b"
+ },
+ {
   "title": "Oil rises after US-Iran hostilities flare again with strikes on energy targets",
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUFh4aWhsMnJmRnlKQkFsZXUxTWd4cjVvU0pKZG1TemNJTzZHWF9qZUFMZkFCR1Vic05WN2dqVk03RU1JWkxfOG1nQ3lzT3hmeVF6SDZkcVpiZFpTNGtBaUZyRUFxNmg0b0ZqMFJXSlRobGFqRmZwSE1ycy1TaEF2UTdQZU1WbGctVkNtTm8xaUdyMkpvZGlvMm4wOTBRVXZjVWhtYURYSHU5alBWREx6ZGF0YkYyalFkb0ZBLUd0LTVGdXdWZGc?oc=5",
   "source": "Reuters",
@@ -56976,35 +57012,5 @@
   "score": 7,
   "ts": "2026-06-02T17:01:15.700110+00:00",
   "cluster_id": "c2a4300339b18"
- },
- {
-  "title": "US job openings jump to near two-year high in April",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUVQxbGUxb2FQUnNjdURXbjRMTUdGX3FtOTFEaTlOR2ZGSEVBaTFRUW41LXo2LXJIakZ4bWphOU1hcUlXa0U0aUVkSjBXYlZHbm5CTFZESVpuclYwbmJlTVhPVS1qTTFVcVF4WFp3V0x3cGhyM2NhR1NhYk1obFZuNmlZTlNfNkpTNTN5ZWFMQzZCY20t?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD'de iş açılışları Nisan ayında iki yıllık yüksek seviyeye ulaştı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-02T17:01:15.700110+00:00",
-  "cluster_id": "c4e0d7bf3cb54"
- },
- {
-  "title": "Hungary PM Magyar ready to meet Ukraine's Zelenskiy in post-Orban reset",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTUUyZG9zQjhNcFJUZnVVN01oXy1IZ3U3eWxVTnp2TURVdVo0b0RNUXA3STlFczlUaDdweFg2R1I3UzVkOFlQbnNpdTNwQ2FvVm0zZVhmNklrNGEtSXQxWjZhYl9lenJPVVpqVTJ5RmFjeFMyUXVIeTZPYTlxdmtGa2lyY1VZTG4tMEFTSlppeE5tMzhhSDBORWFSUmoycW10YUtQSkE4SmhXZ0RUUUotalRYbw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Macaristan başbakanı Magyar, Orban sonrası dönüşümde Zelenski ile görüşmeye hazır.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-02T17:01:15.700110+00:00",
-  "cluster_id": "ccda73f1b85f8"
- },
- {
-  "title": "Alican Uludağ: Ankara Adliyesi'nin basın odasını özledim",
-  "link": "https://www.dw.com/tr/alican-uludağ-ankara-adliyesi-nin-basın-odasını-özledim/a-77395835?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "DW Türkçe muhabiri Alican Uludağ, Silivri Cezaevi'nde üç ay tutuklu kaldıktan sonra serbest bırakıldı ve izlenimlerini paylaştı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-02T17:01:15.700110+00:00",
-  "cluster_id": "cd100b6a1b156"
  }
 ]
