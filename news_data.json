@@ -1,5 +1,89 @@
 [
  {
+  "title": "Son dakika... ABD İran'a 2'nci hava saldırısını başlattı",
+  "link": "https://www.sozcu.com.tr/son-dakika-abd-iran-a-2-nci-hava-saldirisini-baslatti-p336835",
+  "source": "Sözcü",
+  "summary_tr": "ABD, İran'a ikinci hava saldırısını başlattığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-15T20:01:12.849756+00:00",
+  "type": "news",
+  "cluster_id": "c5b5928274bbe"
+ },
+ {
+  "title": "Kuveyt: Hava sahamızda bugün İran kaynaklı 21 İHA ve 4 füze imha edildi",
+  "link": "https://www.cumhuriyet.com.tr/dunya/kuveyt-hava-sahamizda-bugun-iran-kaynakli-21-iha-ve-4-fuze-imha-edildi-2521188",
+  "source": "Cumhuriyet",
+  "summary_tr": "Kuveyt, İran'dan 21 insansız hava aracı ve 4 balistik füze saldırısına maruz kaldığını açıkladı; tüm hedefler imha edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T20:01:12.849756+00:00",
+  "type": "news",
+  "cluster_id": "c4ef5a31e096e"
+ },
+ {
+  "title": "Fed'in Bej Kitabı, ABD'de ekonomik faaliyetin \"hafif ila orta\" hızda arttığını ortaya koydu",
+  "link": "https://www.aa.com.tr/tr/ekonomi/fedin-bej-kitabi-abdde-ekonomik-faaliyetin-hafif-ila-orta-hizda-arttigini-ortaya-koydu/3999550",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Fed'in Bej Kitabı, ABD ekonomisinde ekonomik faaliyetin hafif ila orta hızda arttığını gösterdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T20:01:12.849756+00:00",
+  "type": "news",
+  "cluster_id": "c5a7ae56aeade"
+ },
+ {
+  "title": "İsrail, ateşkese rağmen Gazze'nin orta kesimini yoğun hava saldırılarıyla hedef aldı",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-ateskese-ragmen-gazzenin-orta-kesimini-yogun-hava-saldirilariyla-hedef-aldi/3999556",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail, ateşkese rağmen Gazze'nin orta kesiminde ağır hava saldırıları düzenlemeye devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T20:01:12.849756+00:00",
+  "type": "news",
+  "cluster_id": "c6ddee9340645"
+ },
+ {
+  "title": "İran basını: Ahvaz ve Çabahar kentlerinde patlama sesleri duyuldu",
+  "link": "https://www.trthaber.com/haber/dunya/iran-basini-ahvaz-ve-cabahar-kentlerinde-patlama-sesleri-duyuldu-951322.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD'nin yeni saldırı duyurusunun ardından İran'ın Ahvaz ve Çabahar kentlerinde patlama sesleri duyuldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T20:01:12.849756+00:00",
+  "type": "news",
+  "cluster_id": "ce199ae2cd1ff"
+ },
+ {
+  "title": "Irak'ın Erbil kentinde patlama sesleri duyuldu",
+  "link": "https://www.aa.com.tr/tr/dunya/irakin-erbil-kentinde-patlama-sesleri-duyuldu/3999539",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Irak'ın Erbil kentinde ardışık patlama sesleri duyuldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-15T20:01:12.849756+00:00",
+  "type": "news",
+  "cluster_id": "cd674a01a3954"
+ },
+ {
+  "title": "İran Meclis Başkanı Kalibaf: Savaşa hazır olmalı, müzakere araçlarından da yararlanmalıyız",
+  "link": "https://www.trthaber.com/haber/dunya/iran-meclis-baskani-kalibaf-savasa-hazir-olmali-muzakere-araclarindan-da-yararlanmaliyiz-951323.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Meclis Başkanı Kalibaf, savaşa hazır olunması gerektiğini ancak diplomasi seçeneklerinin de değerlendirilmesi gerektiğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-15T20:01:12.849756+00:00",
+  "type": "news",
+  "cluster_id": "c964848ec672f"
+ },
+ {
   "title": "Ukrayna'nın İHA saldırısında Rusya'daki kritik isim öldürüldü",
   "link": "https://www.sozcu.com.tr/ukrayna-nin-iha-saldirisinda-rusya-daki-kritik-isim-olduruldu-p336826",
   "source": "Sözcü",
@@ -57186,75 +57270,5 @@
   "score": 6,
   "ts": "2026-06-03T13:01:09.045031+00:00",
   "cluster_id": "cf70713eea6d5"
- },
- {
-  "title": "Bakan Gürlek: 20 yıldır karanlıkta kalan faili meçhul çözüldü",
-  "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-20-yildir-karanlikta-kalan-faili-mechul-cozuldu-947036.html",
-  "source": "TRT Haber",
-  "summary_tr": "Adalet Bakanı Gürlek, Samsun'da 20 yıldır çözülememiş faili meçhul bir cinayeti çözdüğünü duyurdu.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-03T13:01:09.045031+00:00",
-  "cluster_id": "cc5e92bccdc95"
- },
- {
-  "title": "Trump’tan İran çıkışı: Hamaney ile görüşebilirim",
-  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-iran-cikisi-hamaney-ile-gorusebilirim-2508947",
-  "source": "Cumhuriyet",
-  "summary_tr": "Trump, İran lideri Mücteba Hamaney ile görüşebileceğini ve İran'ın nükleer silah almayacağını kabul ettiğini söyledi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-03T12:01:06.518031+00:00",
-  "cluster_id": "c90b1664030a5"
- },
- {
-  "title": "Trump says Iran has agreed to not have a nuclear weapon",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNclpNOGV6ZDdVV04yTGFpTW9NaG9peGpnRTNuYkM2dmg1dmctSEJnRl80a01OZjgydVdueURjUVpMLVJZbWlzVWxxZ3BkSi03b0RsaThqdnk0bzJsaEhkdzhZbE52OTFCd1N4bWdKc3hfMnNBVlYtTTgwV0FMYXgxd1BCdU1MRi1MX0huLW93M2RqNWZjczgyUlhERmZrcEdPS3RjZ2Z6UQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, İran'ın nükleer silah olmamayı kabul ettiğini duyurdu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-03T12:01:06.518031+00:00",
-  "cluster_id": "cf354c6502bb3"
- },
- {
-  "title": "Ukraine strikes St Petersburg oil terminal, naval base as Putin's 'Davos' gets under way",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSXU1OFZuOUl3SEFtWTlaSzlzOTVNQVdreDdLaHVGcVdqeEM4aUY4MHg4Tmg3Z1FKb25kXzJuc2RoejFrcUhFcEsyYkxaenZnc0h0ZVhuN0UyLWthVUQzME5MV2swek5DeG9qaUh5U0dsdUhoallBUllBV1BHX0FucFRtWjhhbmU3TDFIYVhtWFNObTNyQkdydkMxVWJsbC00Z0h4eWR0SUdscFlrQVotbTFXUHBCR3V1bl85cmtqalFueEZaVnc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ukrayna, Rusya'nın St. Petersburg'daki petrol terminali ve deniz üssünü vurdu; Putin'in ekonomik forumu başladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-03T12:01:06.518031+00:00",
-  "cluster_id": "c0917e324af48"
- },
- {
-  "title": "Son Dakika... Kemal Kılıçdaroğlu yönetimi: 'Diyalog heyeti oluşturulacak'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-kemal-kilicdaroglu-yonetimi-diyalog-heyeti-kuruldu-2508949",
-  "source": "Cumhuriyet",
-  "summary_tr": "Kemal Kılıçdaroğlu CHP Genel Başkanlığına getirilen sonrası 'diyalog heyeti oluşturulacak' açıklaması yapıldı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-03T12:01:06.518031+00:00",
-  "cluster_id": "c78f3b8003989"
- },
- {
-  "title": "Germany sees window opening for talks between Europe and Russia",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0Ixd1VBMW9rTmY3bUZ6czlGTkF6WHQ5UVprYTB2WUVxSWYzeGJQdDhMTGd1Q1dvMUlHQlpfM29FRlE2Q3Q1aEdQeXkyVzdfYXdaRW1rSWgtOUFzb1FKbDV3ajc4d2VpdldzWnpfRUdBbVF5d0RManVSdklJblJhTzJyMUNtWDdhcF82Tkhmc01ZZy0xNV9QdXdWS0haTHFBMjRqQ3lIOWFjVlU?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Almanya, Avrupa ile Rusya arasında görüşmeler için bir pencere açıldığını söyledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T12:01:06.518031+00:00",
-  "cluster_id": "c8471ba5ee88f"
- },
- {
-  "title": "Kılıçdaroğlu salı günü CHP grup toplantısında konuşacak",
-  "link": "https://www.trthaber.com/haber/gundem/kilicdaroglu-sali-gunu-chp-grup-toplantisinda-konusacak-947034.html",
-  "source": "TRT Haber",
-  "summary_tr": "CHP Genel Başkanı Kılıçdaroğlu salı günü grup toplantısında konuşacak; Parti Meclisi 11 Haziran'da toplanacak.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T12:01:06.518031+00:00",
-  "cluster_id": "cfe79ea46c933"
  }
 ]
