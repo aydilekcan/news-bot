@@ -1,5 +1,65 @@
 [
  {
+  "title": "Beklenen görüşme yapıldı: İmralı Heyeti, AKP’li Ala ile görüştü",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/beklenen-gorusme-yapildi-imrali-heyeti-akp-li-ala-ile-gorustu-2521219",
+  "source": "Cumhuriyet",
+  "summary_tr": "İmralı Heyeti üyeleri Pervin Buldan ve Mithat Sancar, AKP Genel Başkan Vekili Efkan Ala ile görüşerek sürece ilişkin değerlendirme yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T22:01:11.871825+00:00",
+  "type": "news",
+  "cluster_id": "c45e94e61c279"
+ },
+ {
+  "title": "Vance, İsrail'in Amerikan siyaseti üzerinde \"anlaşma ve çıkar\" ayrımına dikkati çekti:",
+  "link": "https://www.aa.com.tr/tr/dunya/vance-israilin-amerikan-siyaseti-uzerinde-anlasma-ve-cikar-ayrimina-dikkati-cekti/3999654",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkan Yardımcısı JD Vance, İsrail'in ABD siyasetini etkilemeye çalışmak konusunda çoğu ülkeden daha etkili olduğunu belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T22:01:11.871825+00:00",
+  "type": "news",
+  "cluster_id": "c9181d3a4507e"
+ },
+ {
+  "title": "Emekliye huzurevi bile hayal!",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUnpZMnZFVGk0eld5cHBqZEtnU0RGSkxZQ0UtV1c1eEFnRmQ3R0xHWlB3LVBrLWtaNUZXY1lUWEUySEhELUVXb3hDU0pQTThfSjJrdm44UmZmS1BWUjdTeC1mSThnTzRfdFExWmZtdGlGdEI1UDF5ajJfNGRRNDF2bXhTNHlrTFNkaGhjTQ?oc=5",
+  "source": "soL",
+  "summary_tr": "Emeklilerin huzurevi gibi temel ihtiyaçlarını karşılayamadığını vurgulayan başlık, yaşlı nüfusun hayat standartlarının düşüklüğünü gündeme getiriyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-15T22:01:11.871825+00:00",
+  "type": "news",
+  "cluster_id": "cc0f2b6742f31"
+ },
+ {
+  "title": "Russia seeks more gasoline from India after Ukraine attacks refineries, sources say",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTVR6bzJlcGVZV2szYzd6SGw0emVaWGVESDNMT1p5YTZRRmJROE56NklpYjNsYkduQW82UGpWbDNqWGpXUVhibVJSY0FuOGlXRE9zdDV6dzBhV2U5V1Y5cW4yXzlFSEJJWDZFazJKLTljVUFubFZLOUJwN1I1Zk9tN2d5Y0puYUxraG9QaVY5aEtZTlBUNW5oNWlnWGpENU82V0RPV1p6aUNVSE5QSXI3dFkxQ1l6UV9tYlg0OUI1QmYzVm1fdU94NQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya, Ukrayna'nın rafinerilere saldırıları sonrasında Hindistan'dan daha fazla benzin almaya çalışıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-15T22:01:11.871825+00:00",
+  "type": "news",
+  "cluster_id": "c4c45d464f828"
+ },
+ {
+  "title": "White House weighs extending Jones Act waivers as Iran conflict raises price concerns",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWZReE9FcDlsUGt6NVY4cGU2QzRvVUdMSjlkTEd4dXgzWVF2ZnhLRDFjMmZjdzlZSkVfODYxRjdpdERhc2N2TTZDal9rUnZzZ1d1Ulp2eFVLTzhPc29Ja0xuMUVpYnB2VGxFbTVXVk5scjVaOV9CcVZsbTgtMnhNVnlZNVZrS1JaNTNybFkyQ3N1ZXNkUTViVjJKRDRNaGs3QjlwQWhBblMwTDlZd2hVZ3hBMXVHUQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Beyaz Saray, İran çatışmasının fiyat endişeleri artırması üzerine Jones Act muafiyetlerini uzatmayı değerlendiriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-15T22:01:11.871825+00:00",
+  "type": "news",
+  "cluster_id": "c5fe9e061e879"
+ },
+ {
   "title": "ABD'nin saldırısının ardından İran'da peş peşe patlamalar: 4 kent hedef alındı",
   "link": "https://www.cumhuriyet.com.tr/turkiye/abd-nin-saldirisinin-ardindan-iran-da-pes-pese-patlamalar-4-kent-hedef-alindi-2521196",
   "source": "Cumhuriyet",
@@ -57234,55 +57294,5 @@
   "score": 8,
   "ts": "2026-06-03T13:01:09.045031+00:00",
   "cluster_id": "c02e5a59622b6"
- },
- {
-  "title": "YSK, CHP ile ilgili \"mutlak butlan\" başvurusunun reddine ilişkin kararının gerekçesini tamamladı",
-  "link": "https://www.aa.com.tr/tr/gundem/ysk-chp-ile-ilgili-mutlak-butlan-basvurusunun-reddine-iliskin-kararinin-gerekcesini-tamamladi/3955414",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "YSK, Özgür Özel'in görevden uzaklaştırılmasına ilişkin 'mutlak butlan' başvurusunun reddine dair kararının gerekçesini tamamladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-03T13:01:09.045031+00:00",
-  "cluster_id": "c1cddd1c1fe3b"
- },
- {
-  "title": "Ukrayna, St. Petersburg saldırısıyla Putin'e meydan okudu",
-  "link": "https://www.dw.com/tr/ukrayna-st-petersburg-saldırısıyla-putin-e-meydan-okudu/a-77407896?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Ukrayna, Rusya'nın St. Petersburg şehrindeki forumu hedef aldı; Putin'in imajına yönelik operasyonel gelişme.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T13:01:09.045031+00:00",
-  "cluster_id": "c4fe3d7421fa1"
- },
- {
-  "title": "ABD Başkanı Trump: İran nükleer silaha sahip olmamayı çoktan kabul etti",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-iran-nukleer-silaha-sahip-olmamayi-coktan-kabul-etti/3955439",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Trump, İran'ın nükleer silah geliştirmemesini kabul ettiğini iddia etti.",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-06-03T13:01:09.045031+00:00",
-  "cluster_id": "c614057a44cd8"
- },
- {
-  "title": "Kuveyt: İran'ın saldırısında hasar alan uluslararası havalimanında uçuşlar yeniden başladı",
-  "link": "https://www.trthaber.com/haber/dunya/kuveyt-iranin-saldirisinda-hasar-alan-uluslararasi-havalimaninda-ucuslar-yeniden-basladi-947038.html",
-  "source": "TRT Haber",
-  "summary_tr": "Kuveyt Uluslararası Havalimanı, İran'ın İHA saldırısından sonra uçuşlara yeniden başladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T13:01:09.045031+00:00",
-  "cluster_id": "cb3afe4068e7b"
- },
- {
-  "title": "Kılıçdaroğlu yönetimindeki CHP Sözcüsü Sarı: Haftaya grup toplantısı yapacağız; bir diyalog heyeti kurma kararı aldık",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQlV0YU0xeFpneWdPWjFGM1FkMmVSOThGZklBQzM3QjdJU1IzY2p5c1puZ2JydmgtY3JBWVdYSUpSTnZwYTVYRUo4Wkhsajg4b01FYnpxRFU4Tm5sZ3NDSWJWd2ltOVItaUZsWmllVU04dGZrMXhHSW1PWHpvTVA5cV9VVzRXSjdvUHdlazZSTjJSUDhQRXpvTi1wMDM?oc=5",
-  "source": "T24",
-  "summary_tr": "CHP Sözcüsü Sarı, Kılıçdaroğlu yönetiminde haftaya grup toplantısı yapılacağını ve diyalog heyeti kurulacağını bildirdi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-03T13:01:09.045031+00:00",
-  "cluster_id": "cac603ba80232"
  }
 ]
