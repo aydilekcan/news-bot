@@ -1,5 +1,113 @@
 [
  {
+  "title": "US launches new round of strikes against Iran as escalation threatens shipping",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUFEyN1NxTHNCaG5RT2lOTWY4WWxWd1JQUGpLdV8wY3J0RVp3RmZaN21hcm9YX1A1TWdYc3RMU3BKNV9rd0tqdnM4SEpmamFRLXJIU1NvdnhUYlo5WDFnb2dPY2JfZU5HXzBMR184ei1kSS1zeUthWmltb1VzZWhOR0lCX2FlR0NXSGUxY0gxbVJTVkw2RFo5NnZSVXFhcGYxOUhOS1BJU2gza3VYY3VHT2JEWVV2VHdCdDdmeTRyOElucVF4Mk9r?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, İran'a karşı yeni bir hava saldırısı turu başlattı; uluslararası denizcilik güvenliğinde yükselen gerginlik tehdidi oluşturuyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-15T13:01:20.721012+00:00",
+  "type": "news",
+  "cluster_id": "c578ef110f05e"
+ },
+ {
+  "title": "Reform oylaması İtalya Başbakanı Meloni için hezimet oldu",
+  "link": "https://www.dw.com/tr/reform-oylaması-italya-başbakanı-meloni-için-hezimet-oldu/a-77967244?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "İtalya Başbakanı Meloni'nin seçim yasası reform önerisi, Temsilciler Meclisi'nde gizli oylamada 1 oy farkla reddedildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T13:01:20.721012+00:00",
+  "type": "news",
+  "cluster_id": "c553e838ca9e4"
+ },
+ {
+  "title": "ABD için kritik veri açıklandı: Altın yükselişe geçti",
+  "link": "https://www.sozcu.com.tr/abd-icin-kritik-veri-aciklandi-p336750",
+  "source": "Sözcü",
+  "summary_tr": "ABD'de Üretici Fiyat Endeksi (ÜFE) haziranda aylık bazda %0,3 azalırken, yıllık bazda %5,5 artarak beklentilerin altında gerçekleşti.",
+  "metric": "ÜFE (yıllık) %5,5",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T13:01:20.721012+00:00",
+  "type": "news",
+  "cluster_id": "cabf34a748a95"
+ },
+ {
+  "title": "ABD'de üretici enflasyonu haziranda beklentilerin altında gerçekleşti",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abdde-uretici-enflasyonu-haziranda-beklentilerin-altinda-gerceklesti/3998991",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD'de Üretici Fiyat Endeksi (ÜFE) haziranda aylık bazda %0,3 azalırken, yıllık bazda %5,5 artarak beklentilerin altında gerçekleşti.",
+  "metric": "ÜFE (yıllık) %5,5",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T13:01:20.721012+00:00",
+  "type": "news",
+  "cluster_id": "c7be6d8bb01f5"
+ },
+ {
+  "title": "İstanbul'da barajların doluluk oranı yüzde 60'ın altına düştü",
+  "link": "https://www.aa.com.tr/tr/gundem/istanbulda-barajlarin-doluluk-orani-yuzde-60in-altina-dustu/3998982",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İstanbul'a su sağlayan barajların ortalama doluluk oranı %59,71 seviyesine geriledi.",
+  "metric": "Baraj doluluk oranı %59,71",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-15T13:01:20.721012+00:00",
+  "type": "news",
+  "cluster_id": "c00469fc92649"
+ },
+ {
+  "title": "Özgür Özel: Her ihtimale karşı yeni partinin ismini ve logosunu çalışıyoruz, temmuz sonu resmî adım atılır",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbU5hUXVwTHdGaWw3SUtISnA0a1dFNmh5czF3MG1wMEdKckJLOC1Hdk16VGdqeW9IY1FoX1hxbzR3Y2hxTUR0RkpRZTRPaGV2SUM2TGJUOVBnZWdJc0VDNnpaUVpoSmpOcDFQQnBWc2NLVEppS3k1ZUp5cFExeDNVWW1ndVEyU2VXYlE4eWI0S0g5bEI1ZFV3bElqTDhRYmtoYS1RT0FwR0VCSjByWWh0YlRLdTVMMlVCSGhYU2hybGZVaUdYbHp5RGhBZ1RJWG1qenhpOW9R?oc=5",
+  "source": "T24",
+  "summary_tr": "CHP Genel Başkanı Özgür Özel, yeni partinin ismini ve logosunun hazırlandığını, temmuz sonu resmî adım atılacağını belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-15T13:01:20.721012+00:00",
+  "type": "news",
+  "cluster_id": "cf512c8a583c5"
+ },
+ {
+  "title": "Japan to recognise cryptocurrency as 'financial assets', NHK says",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPenBUOVBWN19jZk5GUGdSTVhfcTIwZl9BNzU5TDI3M3FyNk50S3VPME1hRTZMc2hKUXhDcFcwLUhmNFI1Vi1Ea0Q1TndmVmQ5eTQzS2txdm9FUUVTUG05NlRYRUtOaGZKYnl2b2dKM05tNEg1aEZfUUZHcno4dTNDazluaEdKOEthSHRYN3cwaWZ2MmpOYzNERmhXSEVBY0N1VG1ydUpmc3pCeWRoSGc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Japonya, kripto para birimleri için 'finansal varlık' statüsü tanıyacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-15T13:01:20.721012+00:00",
+  "type": "news",
+  "cluster_id": "c8d4c88016674"
+ },
+ {
+  "title": "İhracat değişimi (aylık): %-9,5 (Mayıs 2025)",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbjltZW9Pdmd0NXJVNkZRWEVPSkp1bDhVWVFBWTd4Tng5bkZva1d3Q0ptckNBMmFuREdiUGVhRUtOdEJ6aGJPSm43Rzk3Si00TDRPTHhhV1dGdUs1cUxoQnIzWkJxS25KLV9VeHNWdWVTMmkwOGVFM2o0azAxdV9JN3Q2VnBHUnRURDBkeUtrWDZWcWlqbWtkT0RYX0xyTHPSAaMBQVVfeXFMTjNBSXdnZXlEU1h1dXk3U2tIclJERHFvamlqZ0NGWU9WTl92NUExeUZERjdwRm1mT0VlbHRoSXBDOGhBMFRwaEJoQkdKYmpPajQ1ckd4a1hkU0J3TXktYkIwN2tBTnh5ZGVhMEF1VU9qZExNdEFXWWdxTmlhMVlheEppMmJGNWZzbVpsWGx4dHVZYzdtRUFNcGIzTURGOVhHSU51NA?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%9,5 azalış → %-9,5 (-19,0 puan)",
+  "metric": "-19,0 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-15T13:01:20.721012+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
+  "title": "İthalat değişimi (aylık): %-10,8 (Mayıs 2025)",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTTVxc0lfS2NFUUhyTGhkZkdPRnZySHhuQ3Z1R2hzTlRPTDdnT09nWXAyd2E5UnlBb05Ic04tbmxJT2JHZ1hUa0ctMzhUTDR6b1FaQVRjd25kMkNMbk50cnVOcU9hdlI2SEJBUGtPU0twSTNpd3NtX3FTU1dtYnpNcGlZa1oxMGpIdUlkS0pzTkRCNU9QVzEtaXlR0gGaAUFVX3lxTE5NNXFzSV9LY0VRSHJMaGRmR09GdnJIeG5DdnVHaHNOVE9MN2dPT2dZcDJ3YTlSeUFvTkhzTi1ubElPYkdnWFRrRy0zOFRMNHpvUVpBVGN3bmQyQ0xuTnRydU5xT2F2UjZIQkFQa09TS3BJM2l3c21fcVNTV21iek1waVlrWjEwakh1SWRLSnNOREI1T1BXMS1peVE?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%10,8 azalış → %-10,8 (-21,6 puan)",
+  "metric": "-21,6 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-15T13:01:20.721012+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Gazprom hisselerinde 17 yılın en sert düşüşü! Kritik boru hattı iddiası piyasayı sarstı",
   "link": "https://www.sozcu.com.tr/gazprom-hisselerinde-17-yilin-en-sert-dususu-kritik-boru-hatti-iddiasi-piyasayi-sarsti-p336723",
   "source": "Sözcü",
@@ -57044,95 +57152,5 @@
   "score": 6,
   "ts": "2026-06-03T08:01:10.643412+00:00",
   "cluster_id": "c7f4c9660c63a"
- },
- {
-  "title": "Kılıçdaroğlu talimat verdi: CHP'li tüm belediyeler denetlenecek",
-  "link": "https://www.sozcu.com.tr/kilicdaroglu-ndan-chp-li-belediyeler-icin-tartisma-yaratan-talimat-p324806",
-  "source": "Sözcü",
-  "summary_tr": "Kemal Kılıçdaroğlu, CHP'li tüm belediyelerin denetlenmesini talimat verdi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-03T08:01:10.643412+00:00",
-  "cluster_id": "c8021bc886b40"
- },
- {
-  "title": "İran Devrim Muhafızları: Keşm Adası saldırısına karşılık Kuveyt ve Bahreyn'deki ABD üslerini vurduk",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYVhrenYzV01WZkJ1TWtRaWFyaUcyVEdMTXd1ZlRHZG0zT1ZqaVVrbnVWcm1vdXd2YkxqSmVQYlViUE5jNGFQa25TVnBuMmkydGFteXFfZlpkSllrLVMweEN4eVdPRi05Z3BFaHhDWGV0LTRYd1lzVkZRQ3lEXzYtZTdQOGJaTll2UTlnZkI4Rk9ZNktLUURHSXNMaFFRYUtUeXdKd0tyb3Qxb2FialpuaGZIUUlOazlrRjlTUkdR?oc=5",
-  "source": "soL",
-  "summary_tr": "İran Devrim Muhafızları, Keşm Adası saldırısına karşılık olarak Kuveyt ve Bahreyn'deki ABD üslerini vurduklarını açıkladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-03T06:05:37.506974+00:00",
-  "cluster_id": "cebe39755560a"
- },
- {
-  "title": "Tanrıkulu: 'CHP'ye ilişkin gerekçeli karar 5 Mart’tan önce yazılmış'... YSK üyelerinin değişmesi mi beklendi?",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/tanrikulu-chp-ye-iliskin-gerekceli-karar-5-mart-tan-once-yazilmis-ysk-uyelerinin-degismesi-mi-beklendi-2508839",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Milletvekili Sezgin Tanrıkulu, YSK'nın gerekçeli kararının 5 Mart'tan önce yazıldığını, ancak sonradan UYAP'a yüklendiğini iddia etti.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-03T06:05:37.506974+00:00",
-  "cluster_id": "cc007db5c8915"
- },
- {
-  "title": "CENTCOM, İran'ın Kuveyt'teki ABD güçlerine İHA saldırısının başarısız olduğunu açıkladı",
-  "link": "https://www.trthaber.com/haber/dunya/centcom-iranin-kuveytteki-abd-guclerine-iha-saldirisinin-basarisiz-oldugunu-acikladi-946983.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD CENTCOM, İran'ın Kuveyt'teki ABD güçlerine düzenlediği insansız hava aracı saldırısının başarısız olduğunu açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T06:05:37.506974+00:00",
-  "cluster_id": "c3c5618e084b2"
- },
- {
-  "title": "CHP lideri Özel’den kurultay açıklaması: ‘Sokağa rağmen siyaset olmaz’",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-lideri-ozel-den-kurultay-aciklamasi-sokaga-ragmen-siyaset-olmaz-2508800",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Grup Başkanı Özgür Özel, kurultay tartışmalarında 'sokağa rağmen siyaset olmaz' diyerek partide kalacağını vurguladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T06:05:37.506974+00:00",
-  "cluster_id": "c15bad4c14b64"
- },
- {
-  "title": "Avrupa, Türkiye'nin büyüme tahminlerini düşürdü",
-  "link": "https://www.sozcu.com.tr/avrupa-turkiye-nin-buyume-tahminlerini-dusurdu-p324750",
-  "source": "Sözcü",
-  "summary_tr": "EBRD, artan enerji maliyetleri, inatçı enflasyon ve bölgesel çatışmalar nedeniyle Türkiye'nin büyüme tahminlerini düşürdü.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T06:05:37.506974+00:00",
-  "cluster_id": "ccc0cfd245ca0"
- },
- {
-  "title": "US proposes tariffs of 10% or 12.5% on goods from 60 economies over forced labor failures",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZDdlM2ZsVEQ4RmFKOTBNbWdrZHEwaWpfc0kyOWJkcExOc1V2emFBamZLLW5ySlRoT0NpTnRKYi1FNnE1Y3l6TVZjNzRyTDFQWWlya3NZSXdSRWpSTTJ5azBUWVlvNVZJY2lYMnZsN2k2VWo1V1NGMWxkblRLcE1zTVhNdHdnM1I5bWV4NWljYzBjX201UEtCUjN5Njh4enB4LUxiNzZJOUpOZlQ3VzY0WnEyNFlrOEE2?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, çocuk işçiliği başta olmak üzere zorunlu çalışmaya karşı 60 ekonomiye %10-12.5 gümrük vergisi uygulamayı önerdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T06:05:37.506974+00:00",
-  "cluster_id": "c3e882a898185"
- },
- {
-  "title": "China services activity grows at fastest pace in three months, private PMI shows",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMUhyWkJHUlYySmpSSjhhOHZ3NUxlU1paeE5NSTFsZjhaTnRxOEJKNVk0Q243YkVmMTZXejBXNHZnb0ctd1NqT1oxOHk2UGs3enJRZ3RTOThjdjBpRlhOWEl0Rl9PLUp5UUNBQlI2dWRUSGd1VUJlSGhsNktoWjAySnQwNWdDTE85R05XZDFWcHY1SGMxSmpobXhIYXhfdExyMXA4M1FMQ28wc21kSm9KNjNXemZjcVp4TzM3S1FidTFkSE8t?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Çin hizmetler sektörü faaliyeti son 3 ayın en hızlı büyümesini kaydetti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T05:00:58.232621+00:00",
-  "cluster_id": "c65490ca0a957"
- },
- {
-  "title": "Trump signs an executive order that invites vetting of top AI models for national security risks",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORk5acWZlZXFfQ096M19hRG55VkUzeXBlX29hTE9UY3hPTnBLZUhWVUtIVEJRN0lYTHpYeUJDdGhqUWVGMG5FUlpSU1VBdXBrT1ZOY05rZUVfbW1Bb3lPUV9rbGtpUElyNS1yOGpVRm5ISWttUU1jSzJjSm1mN2pkeU5Fcm1jRlJQTS1LbQ?oc=5",
-  "source": "AP",
-  "summary_tr": "Trump, yapay zeka modellerinin ulusal güvenlik risklerine karşı incelenmesini sağlayan yürütme emri imzaladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T05:00:58.232621+00:00",
-  "cluster_id": "c987d2f36d501"
  }
 ]
