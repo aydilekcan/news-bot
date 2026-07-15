@@ -1,5 +1,29 @@
 [
  {
+  "title": "Benzine zam geldi: Güncel akaryakıt fiyatları",
+  "link": "https://www.diken.com.tr/benzine-zam-geldi-guncel-akaryakit-fiyatlari-9/?utm_source=rss&utm_medium=rss&utm_campaign=benzine-zam-geldi-guncel-akaryakit-fiyatlari-9",
+  "source": "Diken",
+  "summary_tr": "Benzine 1 lira 55 kuruş zam geldi.",
+  "metric": "Benzin fiyatı +1,55 TL/litre",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-15T06:01:11.728305+00:00",
+  "type": "news",
+  "cluster_id": "c967ef5ffd06e"
+ },
+ {
+  "title": "China's Q2 economic growth cools to 3-1/2-year low as imbalances worsen",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXcxSUg1T2RHY1dUVkFETk5ic3hjNnh6eTNKV2Y2M1lvVXh1LTRKUEE2blRYVnVKVkxXWVpSdGg0Q08wTkdSY25aNC1HMGtRUkl1bFIxSGVYb3hJT0dPc1pmNmN6Rl9ROU5xQkJaR0l5YUV0eDl3dW1CbTIxWjBpNjZYZ1Z2alJpRDZPTmktU3NnWW5ETjhMeG5GcDVYRnFMekV5dHR3?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin Q2 ekonomik büyümesi 3,5 yılın en düşük seviyesine indi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T06:01:11.728305+00:00",
+  "type": "news",
+  "cluster_id": "c60c37aeea5ad"
+ },
+ {
   "title": "Trump İran'ı yeniden tehdit etti, İran Ortadoğu'da yeni hedefleri vurdu",
   "link": "https://www.bbc.com/turkce/articles/cze9e190y1zo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -57004,25 +57028,5 @@
   "score": 7,
   "ts": "2026-06-02T18:01:10.833920+00:00",
   "cluster_id": "c6f7803f774d4"
- },
- {
-  "title": "CHP 38. Olağan Kurultay soruşturması: Özkan Yalım ve Turgut Koç ifade verdi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-38-olagan-kurultay-sorusturmasi-ozkan-yalim-ve-turgut-koc-ifade-verdi-2508774",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'nin 38. Olağan Kurultayı soruşturmasında Özkan Yalım ve Turgut Koç ifade verdi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-02T18:01:10.833920+00:00",
-  "cluster_id": "cff184ff4d407"
- },
- {
-  "title": "Kılıçdaroğlu'nun A Takımı'nda yer alan Necdet Saraç'ın \"mutlak butlan\" sözleri gündemde: Hukuki değil, siyasi bir karar",
-  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWUNGSW1CYVotazloTmlBQm9WNUFaOVNtRmlWRlJLaHBNb3lCTURETzJDU0haUEE0c1pwNnkwSW1tNzdrcm45eDhIVWx0cG5aY1R2M2gyeExYR0NJelJzUlFMQVNMRndBXzRhMXgyYkhKbnVhZHFCNWpEV3U5Vlg1VDBaZ1FwMXo1UUFwTzhGSlRsR1REVUlTMDFUY0o5VXJBUE1aYVE1c0NBOEEyODdyYXNsOXN2bVdTa1FfR2IwcFZ3UXY5TnY0S0R3d0tDekZDcno5c0hVc0x1ZE0?oc=5",
-  "source": "T24",
-  "summary_tr": "Necdet Saraç, CHP kurultayı iptalinin hukuki değil siyasi bir karar olduğunu söyledi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-02T18:01:10.833920+00:00",
-  "cluster_id": "c8fa6b42a1d85"
  }
 ]
