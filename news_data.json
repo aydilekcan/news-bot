@@ -1,5 +1,125 @@
 [
  {
+  "title": "Trump 'İran'ı yok etmek' için ekibini topladı",
+  "link": "https://www.sozcu.com.tr/trump-iran-i-yok-etmek-icin-ekibini-topladi-p336598",
+  "source": "Sözcü",
+  "summary_tr": "ABD Başkanı Trump, İran'a karşı askeri operasyonların kapsamını genişletmek için güvenlik ekibiyle toplantı yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-15T07:01:18.459333+00:00",
+  "type": "news",
+  "cluster_id": "c0ba9aef6bfa2"
+ },
+ {
+  "title": "CENTCOM: İran'a yönelik 7 saat süren son saldırı dalgası tamamlandı",
+  "link": "https://www.trthaber.com/haber/dunya/centcom-irana-yonelik-7-saat-suren-son-saldiri-dalgasi-tamamlandi-951247.html",
+  "source": "TRT Haber",
+  "summary_tr": "CENTCOM: ABD, İran'a yönelik 7 saatlik saldırı dalgasını tamamladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-15T07:01:18.459333+00:00",
+  "type": "news",
+  "cluster_id": "c44ac86fc7844"
+ },
+ {
+  "title": "Tehran threatens to halt all Middle East energy exports after US reimposes its blockade on Iran",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc0ZjN3ZmUVdvbVVLMXFrejJubVRQczZPdVF0QkVwQ3B4SkdNWERtQU5Na0NFWGdrZ0pjU0w1MC05SjhpOHRRVDRZY2lDQkFnRERXWGR6QmlIcV9LaDBQcFdhTThxejdyUDFVbDNBZVlfR0I1Vmg1U19HWERQbnBqUFJJSmpoM2w5VDNacHA4RWZSalpUQ0xwTEpKazJMeGM?oc=5",
+  "source": "AP",
+  "summary_tr": "İran, ABD'nin yeniden uyguladığı ablukaya karşı Orta Doğu enerji ihracatının tamamını durdurma tehdidinde bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-15T07:01:18.459333+00:00",
+  "type": "news",
+  "cluster_id": "c414888180c81"
+ },
+ {
+  "title": "İbrahim Kahveci: Açlığa çalışan bir millet var",
+  "link": "https://www.diken.com.tr/ibrahim-kahveci-acliga-calisan-bir-millet-var/?utm_source=rss&utm_medium=rss&utm_campaign=ibrahim-kahveci-acliga-calisan-bir-millet-var",
+  "source": "Diken",
+  "summary_tr": "İbrahim Kahveci: 12 aylık açlık sınırı 717,9$ iken asgari ücret 581,3 dolar — işçi geçim krizi.",
+  "metric": "Asgari ücret / Açlık sınırı: 581,3$ -> 717,9$ (açlık sınırı %23,4 daha yüksek)",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-15T07:01:18.459333+00:00",
+  "type": "news",
+  "cluster_id": "c44360b4ba5e4"
+ },
+ {
+  "title": "Pompaya çifte zam kapıda: Tarih belli oldu!",
+  "link": "https://www.sozcu.com.tr/pompaya-cifte-zam-kapida-tarih-belli-oldu-p336597",
+  "source": "Sözcü",
+  "summary_tr": "Akaryakıt zamı: Benzine 1,55 TL artış bugün yansıdı; cuma günü motorine 3,90 TL, benzine ek zam geliyor.",
+  "metric": "Benzin: +1,55 TL (bugün), Motorin: +3,90 TL (planlanmış cuma)",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-15T07:01:18.459333+00:00",
+  "type": "news",
+  "cluster_id": "caf38e4e159e4"
+ },
+ {
+  "title": "Nevzat Saygılıoğlu: İkiz açık",
+  "link": "https://www.diken.com.tr/nevzat-saygilioglu-ikiz-acik/?utm_source=rss&utm_medium=rss&utm_campaign=nevzat-saygilioglu-ikiz-acik",
+  "source": "Diken",
+  "summary_tr": "Nevzat Saygılıoğlu: Türkiye'nin kronik sorunu olan ikiz açık (cari açık ve bütçe açığı) analizi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T07:01:18.459333+00:00",
+  "type": "news",
+  "cluster_id": "cd194c82073d1"
+ },
+ {
+  "title": "Akaryakıta zam: 15 Temmuz 2026 motorine zam mı geldi? Benzin fiyatları ne kadar oldu?",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/akaryakita-zam-15-temmuz-2026-motorine-zam-mi-geldi-benzin-fiyatlari-ne-kadar-oldu-2520938",
+  "source": "Cumhuriyet",
+  "summary_tr": "Akaryakıt zam: 15 Temmuz 2026'de motorin ve benzin fiyatlarında artış yaşandı. Orta Doğu gerilimi ve döviz etkili.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T07:01:18.459333+00:00",
+  "type": "news",
+  "cluster_id": "c8cebd0434b40"
+ },
+ {
+  "title": "ASML raises 2026 forecast, expands capacity on AI chip demand",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPXzZLbXpRNUdRRjYtV203dG1SS1l6U29PMFZGelkzMVV3Mm1tSXI4ak90clF2Q0EwMW5sV1ptV2JURmVSRzYtMUZjenlvLWNuQklqZ2FDX1EzUWR1ZWI0bkZYcXVrbXNTZHdPZS1sNmthTlpOTHNpMkMxc1FfSUR1NEplT3l5Nk84Z3c?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ASML: 2026 tahminini yükseltti ve yapı kapasitesini genişletti; yapay zeka çip talebinden yararlanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-15T07:01:18.459333+00:00",
+  "type": "news",
+  "cluster_id": "c279548205942"
+ },
+ {
+  "title": "Gold slips as oil rally keeps inflation, rate outlook on investors' radar",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTjJUTW5TUVpyUkM5bDJ0NFJ2ZE9raUlKYUFGOUVrdUJ3Z24tSWE4c2NaLW9EMmpDamxPNjJkTjQ1Zi1WbVd4bWNDSlZSdkJzY29LbWNESGxyUURLMTl1Wm4tZFFZLWRvSzNPcnZJMnEzWEVaaEtBbWg3bTBCWnp3MzlGUGNXZE9uVHF2STRzRlp3S3RtbUR1ZE9fUTFOcXdFUVhyZk16S3ZCXzlZZGJj?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Altın fiyatları petrol rallisi nedeniyle gerilemişti; enflasyon ve faiz görünümü yatırımcıları etkiliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-15T07:01:18.459333+00:00",
+  "type": "news",
+  "cluster_id": "c4edd44a23f21"
+ },
+ {
+  "title": "İhracat ve ithalat birim değer endeksleri (aylık): %14,2 (Mayıs 2025)",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdGg1VHlSeDNLeGU1RDZYbmM0eU10OHpvVFFDbEhaNXlubjBlcThtenV5U2J5ckd2eDc0X0liSDdZR2FkdnV6U1lQRUhvQjhlbW1feVozdFEwQXRYdmtfOFRkSjBhcWZ1ME10QmlpVDR5N1FDSkZaTy1Yd3A3WFB3Tkd6d3UtSTNsQWhzSWZuUkVWUmNGaVNzenVqRlA1Q0pPT3dsRU1LSU5SaV9JTTBRZ3RoaGMwcmFUOWkyaUdDdmdwUQ?oc=5",
+  "source": "TÜİK",
+  "summary_tr": "%14,2",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-15T07:01:18.459333+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Benzine zam geldi: Güncel akaryakıt fiyatları",
   "link": "https://www.diken.com.tr/benzine-zam-geldi-guncel-akaryakit-fiyatlari-9/?utm_source=rss&utm_medium=rss&utm_campaign=benzine-zam-geldi-guncel-akaryakit-fiyatlari-9",
   "source": "Diken",
@@ -56928,105 +57048,5 @@
   "score": 6,
   "ts": "2026-06-02T19:01:02.888494+00:00",
   "cluster_id": "c10e64cef2d7d"
- },
- {
-  "title": "İtalya Başbakan Yardımcısı ve Dışişleri Bakanı Tajani: İsrail'i durdurması gereken ABD'dir",
-  "link": "https://www.aa.com.tr/tr/dunya/italya-basbakan-yardimcisi-ve-disisleri-bakani-tajani-israili-durdurmasi-gereken-abddir/3954464",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İtalya Dışişleri Bakanı Tajani, ABD'nin İsrail'i durdurması gereken taraf olduğunu söyledi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-02T19:01:02.888494+00:00",
-  "cluster_id": "c4f3f94316c05"
- },
- {
-  "title": "Hamas, Gazze'de yönetimi devretmeyi reddettiği yönündeki iddiaları yalanladı",
-  "link": "https://www.trthaber.com/haber/dunya/hamas-gazzede-yonetimi-devretmeyi-reddettigi-yonundeki-iddialari-yalanladi-946952.html",
-  "source": "TRT Haber",
-  "summary_tr": "Hamas, Gazze'de yönetimi devretmeyi reddettiği iddialarını yalanladı; bunun İsrail saldırılarına zemin hazırladığını söyledi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-02T19:01:02.888494+00:00",
-  "cluster_id": "c1e54190159db"
- },
- {
-  "title": "ECB Iran savaşı nedeniyle teyakkuzda: Enflasyon 3,2'ye çıktı",
-  "link": "https://www.dw.com/tr/ecb-iran-savaşı-nedeniyle-teyakkuzda-enflasyon-3-2-ye-çıktı/a-77397195?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "ECB, İran savaşı nedeniyle yükselen enflasyon (3,2%) karşısında Haziran'da faiz artışına gidiyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-02T18:01:10.833920+00:00",
-  "cluster_id": "cafa513c7a435"
- },
- {
-  "title": "Iran studying deal to halt war, as Trump says talks going on continuously",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcG1DSFVhQ3MxRlgtdV9LYlZndTBDX0VvZDZ4ZkZuZEV5QnhMYlhmd2phazdVMnBlUXRWXzUzWTZFSXZfSDhNMzF2VTVwdlZiMU9aMEVVVVhyWEk1QmFNWjJRSFNfWTFzOGNMXzk1ZnJSOE5EZDJycERabElIeEQ1SjQxWE9CejBZT2FDY1FnLVdFaGlvR0FQeVVkM3JSanNmdkE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran, savaşı durdurma anlaşmasını inceliyor; Trump müzakerelerin sürdüğünü söyledi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-02T18:01:10.833920+00:00",
-  "cluster_id": "c5b9176e3fac7"
- },
- {
-  "title": "Trump'tan 'İran' açıklaması: O iddiayı yalanladı",
-  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-iran-aciklamasi-o-iddiayi-yalanladi-2508775",
-  "source": "Cumhuriyet",
-  "summary_tr": "Trump, İran'la müzakerelerin sürdüğünü ve bir anlaşmaya varılması gerektiğini söyledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-02T18:01:10.833920+00:00",
-  "cluster_id": "cbd61eed08f06"
- },
- {
-  "title": "Telefonda fırça yiyen Netanyahu’dan Trump’a rest!",
-  "link": "https://www.sozcu.com.tr/telefonda-firca-yiyen-netanyahu-dan-trump-a-rest-p324650",
-  "source": "Sözcü",
-  "summary_tr": "Netanyahu, Trump'a İsrail-Hizbullah çatışmasında ateşkes konusunda direniş gösterdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-02T18:01:10.833920+00:00",
-  "cluster_id": "cc6ee4e8abf38"
- },
- {
-  "title": "ABD ve İran arasında nükleer programla yeniden gündemde",
-  "link": "https://www.sozcu.com.tr/abd-ve-iran-arasinda-nukleer-programla-yeniden-gundemde-p324649",
-  "source": "Sözcü",
-  "summary_tr": "ABD Dışişleri Bakanı Rubio, İran görüşmelerinin Hürmüz Boğazı'nın açılmasına yardımcı olabileceğini söyledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-02T18:01:10.833920+00:00",
-  "cluster_id": "cf8a364e47cf9"
- },
- {
-  "title": "IEA forecasts chance of critically low stockpiles before peak summer demand",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjdxVy1XNFBaQTh5RWJLR21iZ1Nfak9Fa3NyWm1QY0RpSUdjSmFwejlORHpMUTRBczNZcGYtdmx3WkdnY1FaUTVHTFBlQXhKT1hIYXBJWEdrdm5feGRkcGRfRnB4R2V1YTBob19iNU9yVlhGWFo4VTRHdklqVE5pQ2d3R2NQV2plSTlrZDc2cjA4c2hiNXZCSnc0WVBnYUsyaEZ6SEVBNlhuTXYtV3c?oc=5",
-  "source": "Reuters",
-  "summary_tr": "IEA, yaz ayında kritik derecede düşük petrol stokları riskine karşı uyarı yaptı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-02T18:01:10.833920+00:00",
-  "cluster_id": "cbceb5f384972"
- },
- {
-  "title": "US job openings rise by the most since 2021; hiring weak amid economic uncertainty",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUVQxbGUxb2FQUnNjdURXbjRMTUdGX3FtOTFEaTlOR2ZGSEVBaTFRUW41LXo2LXJIakZ4bWphOU1hcUlXa0U0aUVkSjBXYlZHbm5CTFZESVpuclYwbmJlTVhPVS1qTTFVcVF4WFp3V0x3cGhyM2NhR1NhYk1obFZuNmlZTlNfNkpTNTN5ZWFMQzZCY20t?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD'de iş ilanları 2021'den bu yana en yüksek artışı gösterirken işe alımlar zayıf kaldı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-02T18:01:10.833920+00:00",
-  "cluster_id": "cab2cb7b8d911"
- },
- {
-  "title": "Trump taps housing regulator Pulte to be acting director of national intelligence",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYkFnU3NmWnY2UldLdTRlN0ZYUDNHUFRsSmt0a2R6T3U1TlRMdlJ4VHpldFpzUXp3d0JVeGg1Ql9ILTNxNk1lZ0xWS01ZVzBudUxDZ2RzYzFPZktDMnowOTR2TDBiZnBnWlBfUHJYdU5tVGQ4ZzNqTWxCZF9lUVE4NWJrR0c5a1A3Q01YeFYxSVdVWGM1d2czRnV0ZDBvZ21DZGtr?oc=5",
-  "source": "AP",
-  "summary_tr": "Trump, konut düzenleyicisi Pulte'u ulusal istihbarat müdürü vekili olarak atadı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-02T18:01:10.833920+00:00",
-  "cluster_id": "c6f7803f774d4"
  }
 ]
