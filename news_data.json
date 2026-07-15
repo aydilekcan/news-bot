@@ -1,5 +1,41 @@
 [
  {
+  "title": "Oil rises after US-Iran hostilities flare again with strikes on energy targets",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUFh4aWhsMnJmRnlKQkFsZXUxTWd4cjVvU0pKZG1TemNJTzZHWF9qZUFMZkFCR1Vic05WN2dqVk03RU1JWkxfOG1nQ3lzT3hmeVF6SDZkcVpiZFpTNGtBaUZyRUFxNmg0b0ZqMFJXSlRobGFqRmZwSE1ycy1TaEF2UTdQZU1WbGctVkNtTm8xaUdyMkpvZGlvMm4wOTBRVXZjVWhtYURYSHU5alBWREx6ZGF0YkYyalFkb0ZBLUd0LTVGdXdWZGc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD-İran gerginliği nedeniyle enerji hedeflerine saldırılar yapıldı, petrol fiyatları yükseldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-15T03:01:09.086699+00:00",
+  "type": "news",
+  "cluster_id": "c680e9abbf9af"
+ },
+ {
+  "title": "Çankaya Belediye Başkanı Hüseyin Can Güner'in de arasında olduğu 24 kişi tutuklandı",
+  "link": "https://www.sozcu.com.tr/cankaya-belediye-baskani-huseyin-can-guner-in-de-arasinda-oldugu-24-kisi-tutuklandi-p336550",
+  "source": "Sözcü",
+  "summary_tr": "Ankara Çankaya Belediye Başkanı Hüseyin Can Güner dahil 24 kişi rüşvet ve ihaleye fesat soruşturması kapsamında tutuklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T03:01:09.086699+00:00",
+  "type": "news",
+  "cluster_id": "cd24e68c6f541"
+ },
+ {
+  "title": "Maliyetler 17 ayın zirvesine çıktı, konutta fiyat artışı yolda",
+  "link": "https://www.sozcu.com.tr/maliyetler-17-ayin-zirvesine-cikti-konutta-fiyat-artisi-yolda-p336542",
+  "source": "Sözcü",
+  "summary_tr": "Konut maliyetleri 17 ayın zirvesine çıktı; dar ve orta gelirlilerin ev sahipliği sorunu derinleşiyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-15T03:01:09.086699+00:00",
+  "type": "news",
+  "cluster_id": "c15f265a837db"
+ },
+ {
   "title": "İş dünyası yeni teşvik sisteminin puanlama yöntemiyle kurulmasını talep etti: ‘Şeffaf destek’ çağrısı",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/is-dunyasi-yeni-tesvik-sisteminin-puanlama-yontemiyle-kurulmasini-talep-etti-seffaf-destek-cagrisi-2520909",
   "source": "Cumhuriyet",
@@ -56970,35 +57006,5 @@
   "score": 6,
   "ts": "2026-06-02T17:01:15.700110+00:00",
   "cluster_id": "cd100b6a1b156"
- },
- {
-  "title": "Türkiye’de yakalanmıştı: Uyuşturucu kartelinin önemli ismi Hollanda’ya iade edildi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/turkiye-de-yakalanmisti-uyusturucu-kartelinin-onemli-ismi-hollanda-ya-iade-edildi-2508771",
-  "source": "Cumhuriyet",
-  "summary_tr": "MİT ve polisin operasyonuyla İstanbul'da yakalanan uyuşturucu kartelinin önemli ismi Hollanda'ya iade edildi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-02T17:01:15.700110+00:00",
-  "cluster_id": "c5e67aa976548"
- },
- {
-  "title": "Kurultaya 'ret oyu vermem' dedi, Kılıçdaroğlu’nun A takımına girdi: MYK'ye giren isim partilileri şaşırttı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/kurultaya-ret-oyu-vermem-dedi-kilicdaroglu-nun-a-takimina-girdi-myk-ye-giren-isim-partilileri-sasirtti-2508769",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'de Adnan Demirci Kılıçdaroğlu'nun MYK'sine dahil edildi ve kurultaya ret oyu vermiş olmasının partilileri şaşırttığı duyuruldu.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-02T17:01:15.700110+00:00",
-  "cluster_id": "c57949999771b"
- },
- {
-  "title": "Erdoğan'ın eski hukuk danışmanından 'mutlak butlan' çıkışı: 'Ortada, görevsiz mahkemenin verdiği bir karar mevcut'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/erdogan-in-eski-hukuk-danismanindan-mutlak-butlan-cikisi-ortada-gorevsiz-mahkemenin-verdigi-bir-karar-mevcut-2508755",
-  "source": "Cumhuriyet",
-  "summary_tr": "AKP eski hukuk danışmanı Prof. İzzet Özgenç, CHP kurultayı kararına ilişkin 'mutlak butlan' tartışmasında görüşlerini belirtti.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-02T16:01:06.539011+00:00",
-  "cluster_id": "c9439f693c55a"
  }
 ]
