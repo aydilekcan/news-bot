@@ -1,5 +1,77 @@
 [
  {
+  "title": "Trump İran'ı yeniden tehdit etti, İran Ortadoğu'da yeni hedefleri vurdu",
+  "link": "https://www.bbc.com/turkce/articles/cze9e190y1zo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Trump, müzakereye dönmezse gelecek hafta İran'ın köprü ve enerji santrallerini vurmakla tehdit etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-15T05:01:11.083036+00:00",
+  "type": "news",
+  "cluster_id": "c6b0fc6fe3820"
+ },
+ {
+  "title": "US reimposes its blockade on Iran after Tehran’s attacks on ships in the Strait of Hormuz",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc0ZjN3ZmUVdvbVVLMXFrejJubVRQczZPdVF0QkVwQ3B4SkdNWERtQU5Na0NFWGdrZ0pjU0w1MC05SjhpOHRRVDRZY2lDQkFnRERXWGR6QmlIcV9LaDBQcFdhTThxejdyUDFVbDNBZVlfR0I1Vmg1U19HWERQbnBqUFJJSmpoM2w5VDNacHA4RWZSalpUQ0xwTEpKazJMeGM?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD, Tahran'ın Hormutz Boğazı'ndaki gemi saldırılarından sonra İran'a ambargosunu yeniden uygulamaya başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-15T05:01:11.083036+00:00",
+  "type": "news",
+  "cluster_id": "c36b4ace07cb2"
+ },
+ {
+  "title": "Akaryakıta gece yarısı zam geldi",
+  "link": "https://www.sozcu.com.tr/akaryakita-gece-yarisi-zam-geldi-p336558",
+  "source": "Sözcü",
+  "summary_tr": "Küresel petrol piyasasındaki dalgalanmalar ve döviz kuru hareketliği nedeniyle akaryakıta gece yarısı zam geldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T05:01:11.083036+00:00",
+  "type": "news",
+  "cluster_id": "c45851fcae34b"
+ },
+ {
+  "title": "Çankaya Belediyesi'ne operasyon: Belediye Başkanı dahil 24 kişi tutuklandı",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0dkUHo1SndHTERrNWQ1alliTC1JYUgxSHdXTUt2TU9vYndLaXFRZy15b1NYMjdyV0FSaE50YURka0lxU09sYlRaQUpUYU9TSGowZ0s1NVh4UmdYU2FUcWdaeVVGNDl5X0oxUGVCZHN0eGFaaXVZbEo4dWFXRk11Vm1SYnFqdGFWTVpxV2REbG1mSWh2emJtSzRyNUQ3ekFXUTF2Mkl4a0s0TDNIVHVr?oc=5",
+  "source": "soL",
+  "summary_tr": "Çankaya Belediyesi'ne operasyon: Belediye Başkanı dahil 24 kişi tutuklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T05:01:11.083036+00:00",
+  "type": "news",
+  "cluster_id": "c2e18646567a4"
+ },
+ {
+  "title": "Oil prices rise as hostilities worsen in the Middle East",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUFh4aWhsMnJmRnlKQkFsZXUxTWd4cjVvU0pKZG1TemNJTzZHWF9qZUFMZkFCR1Vic05WN2dqVk03RU1JWkxfOG1nQ3lzT3hmeVF6SDZkcVpiZFpTNGtBaUZyRUFxNmg0b0ZqMFJXSlRobGFqRmZwSE1ycy1TaEF2UTdQZU1WbGctVkNtTm8xaUdyMkpvZGlvMm4wOTBRVXZjVWhtYURYSHU5alBWREx6ZGF0YkYyalFkb0ZBLUd0LTVGdXdWZGc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ortadoğu'da düşmanlıkların kötüleşmesiyle petrol fiyatları yükseldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T05:01:11.083036+00:00",
+  "type": "news",
+  "cluster_id": "c264f156bdb89"
+ },
+ {
+  "title": "Piyasalar yangın yeri: Kayıplar tekrar başladı",
+  "link": "https://www.sozcu.com.tr/piyasalar-yangin-yeri-kayiplar-tekrar-basladi-p336552",
+  "source": "Sözcü",
+  "summary_tr": "Altın yeni güne düşüşle başlarken yatırımcılar kayıplarla karşı karşıya; petrol fiyat artışları enflasyon kaygısını artırıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-15T05:01:11.083036+00:00",
+  "type": "news",
+  "cluster_id": "ccbdef5d423d7"
+ },
+ {
   "title": "Inflation cools more than expected in June as gas costs fall, underlying prices ease",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0ZNbFlHYm1IRUhtaVZuak9fcUVtc0UySC1qWnN6Snk2Rzl1NEFQWU9DblNXVGNVak8wNDNCVEwzRFUtc0xVM0xWWUFEMGFWSzlzcDdJYVQ5U0FxMHkxVDZ6YnpJNmNvdWhJRFlsMWpXYUoyRVd3SVVQS0xuNEdiMWdERkh3VDhHMXNjNDV4c0xURVBfOHc?oc=5",
   "source": "AP",
@@ -56952,65 +57024,5 @@
   "score": 6,
   "ts": "2026-06-02T18:01:10.833920+00:00",
   "cluster_id": "c8fa6b42a1d85"
- },
- {
-  "title": "Trump administration to ask US AI firms to voluntarily submit models for cybersecurity tests",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUVpoMXdGZFYyY3laSUs1ZWVEdFpWS0NHM01qbV8xSzJjVlpLQk5tQkh6djN6MXU4cVFKNjFXUnZMdWhXaUNhS1BRQnhhTldTaW5QLTBVbXNTR3BQSWFYLUFzT0xjb3dVbzlzbVk5bndJaVJXSnNycURmdVRlcFdaYUVieUNoSENnV1ZDWFpoZWFJamx5NkFDaWhpVUJISmQwbFptTDQxdWNabEhOcXhsSmwxU0hoak5M?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump yönetimi, ABD yapay zeka şirketlerinden siber güvenlik testlerine gönüllü katılımını isteyecek.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-02T18:01:10.833920+00:00",
-  "cluster_id": "c4987fb5433b1"
- },
- {
-  "title": "BM: İsrailin Filistinlilere yönelik uygulamaları savaş suçu teşkil ediyor",
-  "link": "https://www.trthaber.com/haber/dunya/bm-israilin-filistinlilere-yonelik-uygulamalari-savas-sucu-teskil-ediyor-946949.html",
-  "source": "TRT Haber",
-  "summary_tr": "BM İnsan Hakları Yüksek Komiserliği, İsrail'in Filistinlilere yönelik uygulamalarının savaş suçu teşkil ettiğini açıkladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-02T17:01:15.700110+00:00",
-  "cluster_id": "c09b5c6fe5f6c"
- },
- {
-  "title": "Trump appoints ally Bill Pulte as acting US intelligence director",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWl8wSWFORkM1TzR0bHpobDFzbXRWMzBmX081ZTRVX3VkeEcxTk5pMDIwbHd6a2lialBBdDM1dGVPbVhPNjJoUVRmWWRSS0JrYmRUb1I2ZUxneDVULXRYY0wwQUlxbnJqM3JmeTZRQ0dBU3pDRGZPWnpyYUFSV3ZVWE94RXpRN1d3eUM1QlU1SnhCQ0Q4U2pleFhmOE5HRjJyOU1iNFl0OXhkV2RLR1dkSHlGSQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, müttefiki Bill Pulte'u ABD İstihbarat Direktörü vekili olarak atadı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-02T17:01:15.700110+00:00",
-  "cluster_id": "cf02da45a0b55"
- },
- {
-  "title": "Israel strikes south Lebanon after stepping back from Beirut attack",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1dIT2RKU2Z4cFA1OUZ1WlloWFJmRVB5ajNzQkstZEVISUF6bEswTnY3Ml9tVWZuNnFySGdWWW1ibWllQWgzdUExWV9mZGNrYjg1RV9CZ0xzZ2NaQjRyMTNMTk5uZ2c5Uk5FY2kxRkFNX19VV0Z3ejRzU3dGSDY1a2F3VDU4dUhEZ0JqQ2x2YlczS3BuVi1NbzJXVjBXZ1M3YkF2cEJoNHZRSU1IRGxodGRnMEs?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İsrail, Beyrut saldırısından çekildi ve Güney Lübnan'a hava saldırıları düzenledi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-02T17:01:15.700110+00:00",
-  "cluster_id": "c07bcd485d098"
- },
- {
-  "title": "Fidan: Bildiğimiz kadarıyla Trump, Ankara'daki NATO Zirvesi'ne katılacak",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON0tmOXQzWXFuanQzZzhzWWo0VFZlQWZISFE1NkpyQ20wakVfYkZIQTB6VldyUkJ5OTU3a0U2U251eHpBRjVnUEJJdXBBa1ljODZEdHFvQ1NaY1VsVWVDbndZVkt6OGlnT3VQekxFeXVfOW1telNoZHVkc1ZKVHF4bXJuRmsxUUxwT3F5eF9nRGNFNTRlelZZZ3ZDUG5GZVExTF84MDR2bW5pdw?oc=5",
-  "source": "soL",
-  "summary_tr": "Dışişleri Bakanı Fidan: Bildiğimiz kadarıyla Trump, Ankara'daki NATO Zirvesi'ne katılacak.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-02T17:01:15.700110+00:00",
-  "cluster_id": "cd3c06007362d"
- },
- {
-  "title": "Exclusive: UK adopts SpaceX's Starshield for military operations, sources say",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYlpjLURXTHYtVGxlcjAzdFVHbGZGZ1BqVjBYTS15N01XVHl5S0lfSWlUWE5oQ3o1ZEhEU3hCYUdIUmFBMHBneWwtOVVxaDlKWm5ueEJuMFN5ZzhqRkNzRVN4ajVzellMQmRPcGdTZDMzTU84VVBhd0VLZjNLSktCNEZzdkpQbk1aTHh0dUVaM1pzSWlRUzVfczFqTWJKT192ZC1uYkNjV1BCU2NHSmp4SzBOa25KdmpRRHFz?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İngiltere, SpaceX'in Starshield sistemini askerî operasyonlar için benimsedi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-02T17:01:15.700110+00:00",
-  "cluster_id": "c2a4300339b18"
  }
 ]
