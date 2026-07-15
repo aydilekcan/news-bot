@@ -1,5 +1,41 @@
 [
  {
+  "title": "İran basını: ABD, Sirik kenti ile Keşm Adası çevresine saldırılar düzenledi",
+  "link": "https://www.aa.com.tr/tr/live-blog/son-gelismeler-abdnin-irana-yonelik-saldirilari-ve-iran-in-misillemeleri/5333",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD, Hürmüz Boğazı yakınlarında İran'ın Sirik kenti ve Keşm Adası çevresine saldırılar düzenledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T23:01:11.971343+00:00",
+  "type": "news",
+  "cluster_id": "c80c7b7428909"
+ },
+ {
+  "title": "İran basını: ABD, Bender Abbas kentinin doğusuna saldırı düzenledi",
+  "link": "https://www.trthaber.com/haber/dunya/iran-basini-abd-bender-abbas-kentinin-dogusuna-saldiri-duzenledi-951335.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD, Hürmüz Boğazı yakınlarında İran'ın Bender Abbas kentinin doğusuna saldırı düzenledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T23:01:11.971343+00:00",
+  "type": "news",
+  "cluster_id": "c52687d26b1b1"
+ },
+ {
+  "title": "US House defeats bid to cut off Israel aid in vote dividing Democrats",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQm8waXB1ckxpM2VtUUJHNEdoZVpEVjE3bTRNb1pueDFKSlJMMWtWYlQ5SFE3dXoyTDlxY0ZldTFyMmhCTVo3NzhielpuN255QTZKeVlRZWVHYW1pakdjT1RiVnJidFN5RlB2aEdmRnlzTGxxZzlDTFdvN0hDMmNITmFEZHhFU2QycG1kTm5sRGJlRkgwVl9lb2ZYVDlxQU1qaDNSd09zLXl3ZzVx?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Kongresi, İsrail yardımını kesme teklifini reddetti; karar Demokratlar arasında bölünmeyi gözler önüne serdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T23:01:11.971343+00:00",
+  "type": "news",
+  "cluster_id": "cfb25d7b620c3"
+ },
+ {
   "title": "Beklenen görüşme yapıldı: İmralı Heyeti, AKP’li Ala ile görüştü",
   "link": "https://www.cumhuriyet.com.tr/siyaset/beklenen-gorusme-yapildi-imrali-heyeti-akp-li-ala-ile-gorustu-2521219",
   "source": "Cumhuriyet",
@@ -57264,35 +57300,5 @@
   "score": 6,
   "ts": "2026-06-03T14:01:16.316330+00:00",
   "cluster_id": "c85f8d782b4e5"
- },
- {
-  "title": "Çürüyen siyaset, itirafçı patronlar, Erdoğan'a göz kırpan açıklamalar: CHP'yi bu isimler mi arındıracak?",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRmw5QUZQaHpyc0RyMmpBNTk3a21jcDBIaGdTdi02VElrWmZoWmU1eXBuUmRDa1RKOURmS09TbS0zM3NIUjlMSjZwQUdrM2NZV0lsQkJxVUp3ckZUSjhlaWEzRTdPOEhOYjNldkhKSkx0SklUWW5SY0c3M0NMWjdfWHJCcGRyLTQ4Z3RhVk5Mekx2Slo4TzZBdGJrY3lBSERtY0t3YXhxRko1TE9aTXZwYmdvMXdoOVNh?oc=5",
-  "source": "soL",
-  "summary_tr": "CHP'nin yeni yönetimi üzerine eleştirel köşe yazısı: Siyaseti arındırmak mümkün mü?",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-03T14:01:16.316330+00:00",
-  "cluster_id": "c87f2c094dd70"
- },
- {
-  "title": "Exclusive: India set for $2-billion drone order in biggest buy, industry body says",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbVFSaGZ3RzU0WkVJTnJTSS1XUHhZZXJ3cUJJWERWUkJlOFY5UEpib21uMFBORHFJaGdnV3FpQjA2Y2pQZGNVUXczYk03RG52bUpHTnBIZUVVcHFYYzBkS1pqTFRPVUppeC12emZxWEV1TWY2OUgwQURhOG9XRVRwa2J1MktpUDVKdTZNTlZjR3FTQ0MtVGFFSEtyOU9BWEJpNWdpLXdPTXRxaHZKcVBF?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Hindistan 2 milyar dolarlık drone siparişine hazırlanıyor; en büyük alımı gerçekleştirecek.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T14:01:16.316330+00:00",
-  "cluster_id": "c076cfc25b1d8"
- },
- {
-  "title": "YSK \"mutlak butlan\" itirazına reddinin gerekçesini açıkladı",
-  "link": "https://www.dw.com/tr/ysk-mutlak-butlan-itirazına-reddinin-gerekçesini-açıkladı/a-77407320?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "YSK, CHP kurultayı hakkındaki 'mutlak butlan' itirazını reddetti ve gerekçesini açıkladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-03T13:01:09.045031+00:00",
-  "cluster_id": "c02e5a59622b6"
  }
 ]
