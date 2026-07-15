@@ -1,5 +1,125 @@
 [
  {
+  "title": "ABD, İran'a saldırılarını sürdürüyor: Trump tehditle müzakereye çağırdı",
+  "link": "https://www.diken.com.tr/abd-irana-saldirilarini-surduruyor-trump-tehditle-muzakereye-cagirdi/?utm_source=rss&utm_medium=rss&utm_campaign=abd-irana-saldirilarini-surduruyor-trump-tehditle-muzakereye-cagirdi",
+  "source": "Diken",
+  "summary_tr": "ABD İran'a saldırılarını sürdürüyor. Trump müzakere için tehdit kullanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-15T10:01:19.704598+00:00",
+  "type": "news",
+  "cluster_id": "c8b72d06fcc07"
+ },
+ {
+  "title": "İran’a büyük saldırı hazırlığı iddiası: Trump ekibini topladı",
+  "link": "https://www.cumhuriyet.com.tr/dunya/iran-a-buyuk-saldiri-hazirligi-iddiasi-trump-ekibini-topladi-2521009",
+  "source": "Cumhuriyet",
+  "summary_tr": "Trump İran'a karşı geniş kapsamlı saldırıları Durum Odası'nda görüştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-15T10:01:19.704598+00:00",
+  "type": "news",
+  "cluster_id": "c1fd266b0e35f"
+ },
+ {
+  "title": "Axios: Trump, Durum Odası'nda İran'a karşı geniş çaplı saldırılara ilişkin toplantı yaptı",
+  "link": "https://www.aa.com.tr/tr/dunya/axios-trump-durum-odasinda-irana-karsi-genis-capli-saldirilara-iliskin-toplanti-yapti/3998749",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Trump İran'a karşı geniş kapsamlı saldırılara ilişkin Durum Odası'nda toplantı yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-15T10:01:19.704598+00:00",
+  "type": "news",
+  "cluster_id": "caa0b16168c31"
+ },
+ {
+  "title": "Ukrayna, Türkiye ile serbest ticaret anlaşmasını onayladı: 'Tarihi bir eşik aşıldı'",
+  "link": "https://www.bbc.com/turkce/articles/c78y8071dw5o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Ukrayna parlamentosu Türkiye ile serbest ticaret anlaşmasını onayladı. Türkiye Ağustos 2024'te onaylamıştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T10:01:19.704598+00:00",
+  "type": "news",
+  "cluster_id": "cdb4cb8381dc1"
+ },
+ {
+  "title": "Çin ekonomisinde büyüme hızı son 3,5 yılın en düşük seviyesinde",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/cin-ekonomisinde-buyume-hizi-son-3-5-yilin-en-dusuk-seviyesinde-2521006",
+  "source": "Cumhuriyet",
+  "summary_tr": "Çin ekonomisi son 3,5 yılın en düşük büyüme oranında kaldı. İç talepteki zayıflık ve emlak krizi etkili.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T10:01:19.704598+00:00",
+  "type": "news",
+  "cluster_id": "cde2f251fc38e"
+ },
+ {
+  "title": "ABD'li Stripe ve Advent'tan PayPal için 53 milyar dolarlık ortak satın alma teklifi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abdli-stripe-ve-adventtan-paypal-icin-53-milyar-dolarlik-ortak-satin-alma-teklifi/3998731",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Stripe ve Advent International PayPal'ı yaklaşık 53 milyar dolara satın almak için ortak teklif sundu.",
+  "metric": "PayPal satın alma teklifi 53 milyar dolar",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T10:01:19.704598+00:00",
+  "type": "news",
+  "cluster_id": "c1f98a9de3ba7"
+ },
+ {
+  "title": "Elon Musk likely broke the law by promising voters $1 million payouts, Wisconsin board says",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdDM4UnNsUDhnczFrWFRuSVpwNVhlOWIxMENFVlJDSUx6c2U1b3k3MzltVnFVRzRNQUNCN18zbHRfOGNhNDJFSEk2X1JUYk9saUtCclctQURTaWNNNEQwTkZkdFRjdHhQU2xxNXRVeEVFRktkYzRmT2MtTGl1bmJkdE00QUYtYzFrbU9xV2pQcEJqZ3htOFVoaEVCNXRXVHRxUEU3VUt1VlVNbnBFTzZV?oc=5",
+  "source": "AP",
+  "summary_tr": "Wisconsin seçim kurulu Elon Musk'ın seçmenlere 1 milyon dolar vaat etmesiyle yasayı ihlal ettiğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-15T10:01:19.704598+00:00",
+  "type": "news",
+  "cluster_id": "c3f656f0bf0f8"
+ },
+ {
+  "title": "İSKİ duyurdu: Zeytinburnu'nda 12 mahalleye 15 saat su verilemeyecek",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/iski-duyurdu-zeytinburnu-nda-12-mahalleye-15-saat-su-verilemeyecek-2521011",
+  "source": "Cumhuriyet",
+  "summary_tr": "İSKİ Zeytinburnu'nda 12 mahallede 15 saatlik su kesintisi uygulayacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-15T10:01:19.704598+00:00",
+  "type": "news",
+  "cluster_id": "cb32664ed7516"
+ },
+ {
+  "title": "Petrol krizinden sonra artınca set çektiler: Ya tazminat ya para cezası",
+  "link": "https://www.sozcu.com.tr/petrol-krizinden-sonra-artinca-set-cektiler-ya-tazminat-ya-para-cezasi-p336687",
+  "source": "Sözcü",
+  "summary_tr": "İran-ABD çatışması petrol fiyatlarını artırdı. Araç içi kameralar talebi arttı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-15T10:01:19.704598+00:00",
+  "type": "news",
+  "cluster_id": "cac533c188399"
+ },
+ {
+  "title": "Türkiye, turist sayısını en fazla artıran ülkeler arasında 4'üncü sırada",
+  "link": "https://www.trthaber.com/haber/ekonomi/turkiye-turist-sayisini-en-fazla-artiran-ulkeler-arasinda-4uncu-sirada-951270.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye OECD raporuna göre turist sayısını yüzde 21 artırarak en fazla büyüme kaydeden ülkeler arasında 4'üncü sırada.",
+  "metric": "Türkiye turist sayısı artışı +%21",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-15T10:01:19.704598+00:00",
+  "type": "news",
+  "cluster_id": "c08650f3896ed"
+ },
+ {
   "title": "Memurların 14 günlük maaş farkı hesaplandı: İşte meslek meslek tam liste...",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/memurlarin-14-gunluk-maas-farki-hesaplandi-iste-meslek-meslek-tam-liste-2520985",
   "source": "Cumhuriyet",
@@ -56988,105 +57108,5 @@
   "score": 8,
   "ts": "2026-06-03T02:00:51.543003+00:00",
   "cluster_id": "c4a98b0dd4a3d"
- },
- {
-  "title": "Hostilities flare again in Iran war, talks at a stalemate",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ092UV9OdWRIX2c1Yk9BM0V5dllqa0RIS1lmZHRBMnlZZE5FN0VJUC03R3p1WjEwcGdnRnNDQkNqT1JXVkRvbzllU185NzhRUzhsMEJpeS02Y2RCT3cwOHNDa3NQUkZKYi1iV1VKbWJtYktiWXR3RU5zUHZ3SGFjOUlqX3ZvaGRtMnZyMGs0eHFpTTJzM2VGcVhhMzF3MG9uQzN5Ng?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran savaşında çatışmalar yoğunlaşırken barış görüşmeleri durma noktasına geldi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-03T02:00:51.543003+00:00",
-  "cluster_id": "c8bb2b0f6d938"
- },
- {
-  "title": "Exclusive: SpaceX plans to raise $75 billion in IPO at $135 per share, source says",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTGxqbWcwbFNSdnZhNURUaVl6YUhmNzUtbU9vOE5CeU1aejRnMlpxdTRPbm5QY0tUTmp5UWtzZGJ0TTVUTm91cXBBVzVINDZJdjVJLXE0eDQ4TzEtem8xWDdrOVNQeGMyOGRDN3lydHoxdFJZQUpNRWtwWWJidW42VURzMGFpQmV4b3IyTHdNbk9YQ3lSVzY5Tm1rMFAzSnlaUV90VGJRWWZDOUtvX2gtNVJXYVR2eTlfd3c?oc=5",
-  "source": "Reuters",
-  "summary_tr": "SpaceX, 135 dolar hisse fiyatından 75 milyar dolar toplama hedefiyle halka arzını planlıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T02:00:51.543003+00:00",
-  "cluster_id": "cd3fe307b2f4b"
- },
- {
-  "title": "İran'dan misilleme: ABD'nin Kuveyt'teki üsleri vuruldu",
-  "link": "https://www.sozcu.com.tr/iran-dan-misilleme-abd-nin-kuveyt-teki-usleri-vuruldu-p324712",
-  "source": "Sözcü",
-  "summary_tr": "İran Devrim Muhafızları Ordusu, ABD'nin Keşm saldırısına karşılık Kuveyt'teki ABD üslerini vurdu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-03T01:00:56.991816+00:00",
-  "cluster_id": "cb1973ce12c5b"
- },
- {
-  "title": "İran, Kuveyt'te ABD üslerini vurdu",
-  "link": "https://www.trthaber.com/haber/dunya/iran-kuveytte-abd-uslerini-vurdu-946963.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Devrim Muhafızları, ABD'nin Keşm Adası'na saldırısına karşılık Kuveyt'teki ABD askeri üslerini vurdu.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-03T00:00:51.367809+00:00",
-  "cluster_id": "c9444ba73750e"
- },
- {
-  "title": "US fires Hellfire missile at tanker heading toward Iran",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUGF6b0w5ZnVMeklFdlUwaGxybjhzekdKNm55MHdVNFFOVEhzWUNMdnd0cVl3QmVBOUs2clh5TEtUMEx4bmJzSmRsU252SDBCXzJDRVNvWDdWRlBLWFlYMGFlU3YtV3QxaEZ4Qkk5dG4xbFBYYjB2THd3R3IybGRkaUdiTHV4TnR5WUx4azR6OWJ1M2RLWjdNeDJn?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, İran'a giden tankerı Hellfire misiliyle hedef aldı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-03T00:00:51.367809+00:00",
-  "cluster_id": "ca34fe2a814dc"
- },
- {
-  "title": "İtirafçı denilen İlbak’ın dev arazisine imar izni",
-  "link": "https://www.sozcu.com.tr/itirafci-denilen-ilbak-in-dev-arazisine-imar-izni-p324710",
-  "source": "Sözcü",
-  "summary_tr": "İş insanı Murat İlbak, İBB operasyonunda gözaltına alındıktan sonra serbest kaldı; iddianamede adı olmadığı halde dev arazisine imar izni verildi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-03T00:00:51.367809+00:00",
-  "cluster_id": "c9d85cf8259be"
- },
- {
-  "title": "Kılıçdaroğlu yönetimi, parti avukatı Tolga Şirin'i vekillikten azletti",
-  "link": "https://www.sozcu.com.tr/tolga-sirin-vekillikten-azledildi-p324707",
-  "source": "Sözcü",
-  "summary_tr": "Kılıçdaroğlu, CHP parti avukatı Prof. Dr. Tolga Şirin'i vekillikten azletti.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-02T23:00:52.003902+00:00",
-  "cluster_id": "c95591e779247"
- },
- {
-  "title": "Kuveyt ordusu, ülkeye yönelik füze ve İHA saldırılarını önlemeye çalıştığını duyurdu",
-  "link": "https://www.trthaber.com/haber/dunya/kuveyt-ordusu-ulkeye-yonelik-fuze-ve-iha-saldirilarini-onlemeye-calistigini-duyurdu-946962.html",
-  "source": "TRT Haber",
-  "summary_tr": "Kuveyt ordusu, hava savunma sistemlerinin füze ve İHA saldırılarını engellediklerini duyurdu.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-02T23:00:52.003902+00:00",
-  "cluster_id": "cc37b6eded394"
- },
- {
-  "title": "Trump administration is scrapping $1.8B fund meant to compensate president's allies, Blanche says",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQjhoUGhmaGZ1djNQQk15T1phTkIwQ25LZnlXd2JQeV9nY2gxWkFYeE9RMm16a0JmR1M5U1lZSzQ3WGpnSEFUQmFLOUZ1ekNNMm5mU1NfYU03SXByRFRmb3Yxb0VLNWpVS0ZOWXdGTVpwekQyRlpuaG9EUHRJVDhxNnFUSVpsYnBtT2tIcGtRY0h1QU5WU0dESGxlMUlMTnY0QlFJ?oc=5",
-  "source": "AP",
-  "summary_tr": "Trump yönetimi, başkanın müttefiklerini tazmin etmek için ayrılan 1,8 milyar dolarlık fonun kaldırılmasına karar verdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-02T23:00:52.003902+00:00",
-  "cluster_id": "c7bc4a6af6fd6"
- },
- {
-  "title": "“Mutlak butlan” senaryosunda ikinci perde açılıyor: gerilim yüksek",
-  "link": "https://yetkinreport.com/2026/06/03/mutlak-butlan-senaryosunda-ikinci-perde-aciliyor-gerilim-yuksek/",
-  "source": "YetkinReport",
-  "summary_tr": "TBMM Başkanı Numan Kurtulmuş, Özgür Özel'in CHP Grup toplantısını engellemesine ilişkin başvuruyu reddetti; Kılıçdaroğlu 2 Haziran'da kurultay çağrısı yapacak.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-02T22:00:52.895106+00:00",
-  "cluster_id": "c0bc71a31ade6"
  }
 ]
