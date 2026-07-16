@@ -1,5 +1,149 @@
 [
  {
+  "title": "İran’dan ABD’ye Hürmüz Boğazı resti: Tavizsiz kırmızı çizgimiz",
+  "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-abd-ye-hurmuz-bogazi-resti-tavizsiz-kirmizi-cizgimiz-2521284",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran, ABD'nin Hürmüz Boğazı'na müdahalesine karşı sert uyarı yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-16T08:01:19.605622+00:00",
+  "type": "news",
+  "cluster_id": "ca01b25d0d314"
+ },
+ {
+  "title": "Akaryakıta çifte zam bekleniyor: 16 Temmuz güncel akaryakıt fiyatları ne kadar? Mazot (dizel), benzin, LPG'ye zam var mı?",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/akaryakita-cifte-zam-bekleniyor-16-temmuz-guncel-akaryakit-fiyatlari-ne-kadar-mazot-dizel-benzin-lpg-ye-zam-var-mi-2521281",
+  "source": "Cumhuriyet",
+  "summary_tr": "Akaryakıta çifte zam bekleniyor; 16 Temmuz güncel benzin, mazot ve LPG fiyatları güncellendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-16T08:01:19.605622+00:00",
+  "type": "news",
+  "cluster_id": "cfb381a20afab"
+ },
+ {
+  "title": "Uber'den milyar euroluk hamle: Trendyol, Getir şimdi de Yemeksepeti",
+  "link": "https://www.sozcu.com.tr/uber-den-milyar-euroluk-hamle-trendyol-getir-simdi-de-yemeksepeti-p336955",
+  "source": "Sözcü",
+  "summary_tr": "Uber, Yemeksepeti sahibi Delivery Hero'yu yaklaşık 12,5 milyar euro karşılığında satın almak için ileri aşama görüşmelere başladı.",
+  "metric": "Uber satın alma değeri: ~12,5 milyar euro",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-16T08:01:19.605622+00:00",
+  "type": "news",
+  "cluster_id": "cfd706c659444"
+ },
+ {
+  "title": "Dışişleri Bakanı Fidan: Rusya-Ukrayna Savaşı'nın Karadeniz'e taşınmasını istemiyoruz",
+  "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-rusya-ukrayna-savasinin-karadenize-tasinmasini-istemiyoruz/3999885",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Dışişleri Bakanı Fidan, Rusya-Ukrayna Savaşı'nın Karadeniz'e taşınmasını istemediğini belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-16T08:01:19.605622+00:00",
+  "type": "news",
+  "cluster_id": "c458f8826c2cf"
+ },
+ {
+  "title": "Bakan Fidan: Savaşın Karadeniz'e taşınmasını istemiyoruz",
+  "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-savasin-karadenize-tasinmasini-istemiyoruz-951350.html",
+  "source": "TRT Haber",
+  "summary_tr": "Dışişleri Bakanı Fidan, Rusya-Ukrayna Savaşı'nın Karadeniz'e taşınmasını istemediğini vurguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-16T08:01:19.605622+00:00",
+  "type": "news",
+  "cluster_id": "c948f80d92aac"
+ },
+ {
+  "title": "Uber launches $14.8 billion takeover bid for Delivery Hero",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYndXVGNVbjBuek9wVkRnRENmNWdDMGJjTG5BcUdLenpZYnZGUE9LSGpGX1VxT2JmWGtpa3JRR2E0MGx2bnFqbjBQUDdXVENhWDNrSXAyd1ZpSkllVXVqMXhFSjVLczVEZ0x3WWxkWmhOZ3JVbzVwaW55UVJKWEtaMHJIX19UMUtSTU9rZGJ6YS0xZ1cyXzV6NDhQNXVEUQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Uber, Delivery Hero için 14,8 milyar dolar değerinde devralma teklifinde bulundu.",
+  "metric": "Uber satın alma teklifi: 14,8 milyar dolar",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-16T08:01:19.605622+00:00",
+  "type": "news",
+  "cluster_id": "c8160d7c27e54"
+ },
+ {
+  "title": "Avrupa faizde sürprize hazırlanıyor!",
+  "link": "https://www.sozcu.com.tr/avrupa-faizde-surprize-hazirlaniyor-p336953",
+  "source": "Sözcü",
+  "summary_tr": "ING Think, Avrupa Merkez Bankası'nın 23 Temmuz toplantısında faiz değişmemesini bekliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-16T08:01:19.605622+00:00",
+  "type": "news",
+  "cluster_id": "c71d2a1af73f9"
+ },
+ {
+  "title": "Evde Bakım Yardımı ödemeleri hesaplara yatırıldı",
+  "link": "https://www.aa.com.tr/tr/gundem/evde-bakim-yardimi-odemeleri-hesaplara-yatirildi/3999901",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Aile ve Sosyal Hizmetler Bakanlığı, evde bakılan tam bağımlı vatandaşlara bu ay toplam 7 milyar lira Evde Bakım Yardımı ödedi.",
+  "metric": "Evde Bakım Yardımı: 7 milyar lira",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-16T08:01:19.605622+00:00",
+  "type": "news",
+  "cluster_id": "c7b7a5b0f8d4b"
+ },
+ {
+  "title": "Evde Bakım Yardımı hesaplara yatırıldı",
+  "link": "https://www.trthaber.com/haber/ekonomi/evde-bakim-yardimi-hesaplara-yatirildi-951348.html",
+  "source": "TRT Haber",
+  "summary_tr": "Aile ve Sosyal Hizmetler Bakanı Göktaş, evde bakılan tam bağımlı vatandaşlara Evde Bakım Yardımı hesaplara yatırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-16T08:01:19.605622+00:00",
+  "type": "news",
+  "cluster_id": "c7b7a5b0f8d4b"
+ },
+ {
+  "title": "Tarım ÜFE haziranda aylık bazda yüzde 9,02 azaldı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/tarim-ufe-haziranda-aylik-bazda-yuzde-9-02-azaldi/3999862",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Tarım Ürünleri Üretici Fiyat Endeksi (Tarım ÜFE), haziranda aylık bazda yüzde 9,02 azaldı.",
+  "metric": "Tarım ÜFE (aylık): -%9,02",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-16T08:01:19.605622+00:00",
+  "type": "news",
+  "cluster_id": "ca3374197df33"
+ },
+ {
+  "title": "Britain nationalises British Steel in bid to safeguard domestic steelmaking",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbW1QSTNLcmtKbnJ3YXBuVW9NclBGZG5oLWNkR1hHNV9PcjZjSXVNdmRYanpnRDZwN0cxemV4TnczUnR6SzQ0Y0tfcjFEWEJDY3g5b2x0OF9UbUhSdHV3Y20ya0E2R1d5MnpybHR3aVMzMGRDeVJoYXdZeFRtQXhxb3RRMDVSWXAxS2xJZUI0bll0VEdQZ2RVdGt3?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Britanya, yerli çelik üretimini güvence altına almak için British Steel'i millileştirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-16T08:01:19.605622+00:00",
+  "type": "news",
+  "cluster_id": "c904e1bf411d5"
+ },
+ {
+  "title": "İşsiz sayısı: 3 milyon",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00UHVIdTBuSFNrb2UwM3RidWpCVzNJdE1VeUpOTldfUEZZX0RqT1VYRHB3NU9LcE5wWVd0Y3dNUmN5RnE1YTF6TENvU3BJeXJtM24yTGs3LWszMFQwWHFlUHhTemY3UXJ3cWZxYzNlS2N1d1dDX2FYeNIBfkFVX3lxTFBKV3B4R29VSlVyQ3RfZDRTQklUSElMMXpPZ2RhN3JHUjcxSnNLbXNxY2VwZnV4TXVqY3JkY1A2aWZPQ0RjTkpyR1RSRjJGOVM3M1lZOFhkN0x1aGlFVnV0R2YxMzZuWC1SdW1NWk9uWDJMNmVlRm9vbXJSZ2hpUQ?oc=5",
+  "source": "TUIK",
+  "summary_tr": "3 milyon",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-16T08:01:19.605622+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Hem euro hem dolar peş peşe rekor kırdı",
   "link": "https://www.sozcu.com.tr/hem-euro-hem-dolar-pes-pese-rekor-kirdi-p336936",
   "source": "Sözcü",
@@ -57256,125 +57400,5 @@
   "score": 8,
   "ts": "2026-06-03T18:01:06.726145+00:00",
   "cluster_id": "c3012e1fa2203"
- },
- {
-  "title": "Rubio, İran'a saldırı öncesinde Tahran'ın nasıl misillemede bulunabileceğini öngördüklerini belirtti",
-  "link": "https://www.aa.com.tr/tr/dunya/rubio-irana-saldiri-oncesinde-tahranin-nasil-misillemede-bulunabilecegini-ongorduklerini-belirtti/3955749",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Dışişleri Bakanı Rubio, İran'a saldırıdan önce İran'ın misilleme şeklini öngördüklerini belirtti.",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-06-03T18:01:06.726145+00:00",
-  "cluster_id": "cec1dfaee5a7d"
- },
- {
-  "title": "İran Meclis Başkanı Kalibaf: İran’a yönelik boş tehditler dönemi sona erdi",
-  "link": "https://www.aa.com.tr/tr/dunya/iran-meclis-baskani-kalibaf-iran-a-yonelik-bos-tehditler-donemi-sona-erdi/3955739",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran Meclis Başkanı Kalibaf, İran'a yönelik tehditlerin döneminin sona erdiğini ve her saldırganlığa hazır olduklarını açıkladı.",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-06-03T18:01:06.726145+00:00",
-  "cluster_id": "c5b58944a231a"
- },
- {
-  "title": "İran Meclis Başkanı Kalibaf: İrana yönelik boş tehditler dönemi sona erdi",
-  "link": "https://www.trthaber.com/haber/dunya/iran-meclis-baskani-kalibaf-irana-yonelik-bos-tehditler-donemi-sona-erdi-947062.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Meclis Başkanı Kalibaf, İran'a yönelik tehditlerin döneminin sona erdiğini ve her saldırganlığa hazır olduklarını açıkladı.",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-06-03T18:01:06.726145+00:00",
-  "cluster_id": "c5b58944a231a"
- },
- {
-  "title": "ABD Dışişleri Bakanı Rubio, Trump'ın Ankara'daki NATO Zirvesi'ne \"bizzat katılacağını\" belirtti",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-disisleri-bakani-rubio-trumpin-ankaradaki-nato-zirvesine-bizzat-katilacagini-belirtti/3955690",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Dışişleri Bakanı Rubio, Trump'ın Ankara NATO Zirvesi'ne bizzat katılacağını bildirdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-03T18:01:06.726145+00:00",
-  "cluster_id": "c71dfd881376f"
- },
- {
-  "title": "Rusya'nın kontrolündeki Donetsk bölgesinde otobüse yönelik İHA saldırısında 8 kişi öldü",
-  "link": "https://www.aa.com.tr/tr/dunya/rusyanin-kontrolundeki-donetsk-bolgesinde-otobuse-yonelik-iha-saldirisinda-8-kisi-oldu/3955561",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Rus kontrolündeki Donetsk'te bir otobüse İHA saldırısında 8 kişi öldü.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-03T18:01:06.726145+00:00",
-  "cluster_id": "c87839f95aa9c"
- },
- {
-  "title": "Zelenskiy, savaşın bitirilmesi için Putin ile doğrudan görüşmeye hazır olduğunu açıkladı",
-  "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-savasin-bitirilmesi-icin-putin-ile-dogrudan-gorusmeye-hazir-oldugunu-acikladi-/3955675",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Ukrayna Başkanı Zelenskiy, savaşı bitirmek için Putin ile doğrudan görüşmeye hazır olduğunu açıkladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-03T18:01:06.726145+00:00",
-  "cluster_id": "cc1daf7367c42"
- },
- {
-  "title": "Almanya BM Güvenlik Konseyi'ne seçilemedi",
-  "link": "https://www.dw.com/tr/almanya-bm-güvenlik-konseyi-ne-seçilemedi/a-77403281?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Almanya, BM Güvenlik Konseyi geçici üyeliği seçiminde ilk kez başarısız oldu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T18:01:06.726145+00:00",
-  "cluster_id": "cf9b619897050"
- },
- {
-  "title": "Ukrainian drones hit St Petersburg oil terminal before it hosts Russian economic forum",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXlOckxvdi1hSVFuQ1ZpU28xdlJWYjBQbzJ1YURNa2x6dDJUWjY3bDh5SjhYaXVqTlJwcGloVkc0emt1Vm1neGNURXF1bXlHaXlfZVdwWW9nTmRjSHhvVF84MG5DVkZDMjQ2UkVwR0Nka3BRU1ozWEtyVGo4WXpZYVNMSlVqOWdGVjFfQzhFdFVEMlhubk84UlE5NGtBV0tXcUt1LWRJUlJTMlBZWVFZ?oc=5",
-  "source": "AP",
-  "summary_tr": "Ukrayna, Rus ekonomik forumu öncesinde St. Petersburg'daki petrol terminaline insansız hava aracı saldırısı düzenledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T18:01:06.726145+00:00",
-  "cluster_id": "c425f74dda50a"
- },
- {
-  "title": "ABD Hazine Bakanı Bessent, enflasyondaki artışın \"kısa vadeli\" olacağını söyledi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/abd-hazine-bakani-bessent-enflasyondaki-artisin-kisa-vadeli-olacagini-soyledi/3955742",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Hazine Bakanı Bessent, İran savaşıyla tetiklenen enflasyon artışının kısa vadeli olacağını söyledi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T18:01:06.726145+00:00",
-  "cluster_id": "cb6d648be6241"
- },
- {
-  "title": "Donald Trump Ankara'daki NATO zirvesine katılacak",
-  "link": "https://www.bbc.com/turkce/articles/c5ye19r40jlo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD Başkanı Trump, 7-8 Temmuz'da Ankara'da yapılacak NATO Zirvesi'ne katılacak. Marco Rubio tarafından açıklandı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-03T17:01:06.391974+00:00",
-  "cluster_id": "c6b459d2528f9"
- },
- {
-  "title": "SON DAKİKA: Trump NATO Zirvesi için Ankara'ya geliyor",
-  "link": "https://www.sozcu.com.tr/son-dakika-trump-nato-zirvesine-katilacak-p324968",
-  "source": "Sözcü",
-  "summary_tr": "ABD Başkanı Trump, 7-8 Temmuz'da Ankara'da yapılacak NATO Zirvesi'ne katılacak.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-03T17:01:06.391974+00:00",
-  "cluster_id": "c6b459d2528f9"
- },
- {
-  "title": "ABD Başkanı Trump, Ankara'daki NATO Zirvesi'ne katılacak",
-  "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trump-ankaradaki-nato-zirvesine-katilacak-947057.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD Başkanı Trump, Ankara'daki NATO Zirvesi'ne bizzat katılacak. Marco Rubio tarafından açıklandı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-03T17:01:06.391974+00:00",
-  "cluster_id": "c6b459d2528f9"
  }
 ]
