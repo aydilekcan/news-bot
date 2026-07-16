@@ -1,5 +1,65 @@
 [
  {
+  "title": "Beyaz Saray'dan 'İran' mesajı: 'ABD ile görüşmeyi sürdürüyor'",
+  "link": "https://www.cumhuriyet.com.tr/dunya/beyaz-saray-dan-iran-mesaji-abd-ile-gorusmeyi-surduruyor-2521487",
+  "source": "Cumhuriyet",
+  "summary_tr": "Beyaz Saray sözcüsü, İran'ın ABD ile görüşmeyi sürdürdüğünü ve anlaşma yapmak istediğini belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-16T20:01:08.239470+00:00",
+  "type": "news",
+  "cluster_id": "c2304082b090c"
+ },
+ {
+  "title": "İran: Altyapımıza saldırı olursa bölgedeki tüm altyapılar hedef olur",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-altyapimiza-saldiri-olursa-bolgedeki-tum-altyapilar-hedef-olur/4000784",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Genelkurmay Başkanlığı, altyapısına saldırı olması durumunda bölgedeki tüm altyapıların hedef olacağını bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-16T20:01:08.239470+00:00",
+  "type": "news",
+  "cluster_id": "cfa42f3862615"
+ },
+ {
+  "title": "US expands attacks on Iran, which calls Strait of Hormuz a ‘red line’ as it retaliates",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYXFnZWtOU1NXb01HY2FxbTBsUmJqNDlaa3NORmpyZ0pYVzhSVFZkaUNYTjczY0E1YjhpR1F1OGRoT3dJNnVTMjVuUGJyamVCckJwMi1WY0hJR2NyVGQ0ZDdzbF9LMzgteGZDRGtMd0ZQV211YWF3cHpYLWdhTXZjTXVhTG1zRkRmR3Q1NVdQRWNEb2xhZU0zRTFodmM4ZXc?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD, İran'a karşı saldırılarını genişletirken İran, Hormuç Boğazı'nı kırmızı çizgi olarak ilan etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-16T20:01:08.239470+00:00",
+  "type": "news",
+  "cluster_id": "c4536f7c9d313"
+ },
+ {
+  "title": "İran Dışişleri Bakanlığı: ABD mutabakat zaptını ihlal ederek diplomasiye bir kez daha ihanet etti",
+  "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakanligi-abd-mutabakat-zaptini-ihlal-ederek-diplomasiye-bir-kez-daha-ihanet-etti-951407.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Dışişleri Bakanlığı, ABD'nin mutabakatı ihlal ederek diplomasiye ihanet ettiğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-16T20:01:08.239470+00:00",
+  "type": "news",
+  "cluster_id": "ca1f18a155a8b"
+ },
+ {
+  "title": "Brazil readies 'tough' retaliation to new Trump tariffs, sources say",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNXRXblpXS0Mtc2pTcF9iNTZaZ0NuYzMySmRjY3JDUmtLRjdhY016OUpGOG1GdnNaRVRWZjNSa1VmLVB4R1lvYUpQdTA5RTlZU3BaQUZFaFdDZjNnTHAxY2dLNmItQ3lPNzBfNGRFTkVETzdWSEdsV1lNM2VWMlNKS1FrMHRWMjhWXzcxYm5raVlsdGZxdDRiYnM1bjVmYnhxcEZTS3hEY1l1Ul9wNVVCb09zSQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Brezilya, Trump'ın yeni tarifelerine karşı sert bir şekilde karşılık vermeye hazırlanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-16T20:01:08.239470+00:00",
+  "type": "news",
+  "cluster_id": "c54ad6bd8261c"
+ },
+ {
   "title": "Bakan Gürlek: Deprem bağışlarına ilişkin iddialar sonuna kadar incelenecek",
   "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-deprem-bagislarina-iliskin-iddialar-sonuna-kadar-incelenecek-951405.html",
   "source": "TRT Haber",
@@ -57526,55 +57586,5 @@
   "score": 8,
   "ts": "2026-06-04T11:01:18.281084+00:00",
   "cluster_id": "c0b650775848f"
- },
- {
-  "title": "BM Güvenlik Konseyi hezimeti Almanya için ne anlama geliyor?",
-  "link": "https://www.dw.com/tr/bm-güvenlik-konseyi-hezimeti-almanya-için-ne-anlama-geliyor/a-77419804?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Almanya ilk kez BM Güvenlik Konseyi geçici üyeliğine seçilenmedi; ülkede şok etkisi yarattı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-04T11:01:18.281084+00:00",
-  "cluster_id": "cf4d140f3573e"
- },
- {
-  "title": "BM Güvenlik Konseyi’nin yeni üyeleri belli oldu",
-  "link": "https://www.cumhuriyet.com.tr/dunya/bm-guvenlik-konseyi-nin-yeni-uyeleri-belli-oldu-2509263",
-  "source": "Cumhuriyet",
-  "summary_tr": "BM Genel Kurulu 2027-2028 dönemi için Avusturya, Kırgızistan, Portekiz, Trinidad ve Tobago, Zimbabve'yi Güvenlik Konseyi geçici üyeliğine seçti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-04T11:01:18.281084+00:00",
-  "cluster_id": "cf7a4801a537e"
- },
- {
-  "title": "Almanya’da Rusya tartışması: AfD, Moskova ile temasta",
-  "link": "https://www.cumhuriyet.com.tr/dunya/almanya-da-rusya-tartismasi-afd-moskova-ile-temasta-2509260",
-  "source": "Cumhuriyet",
-  "summary_tr": "Almanya'nın aşırı sağcı AfD partisinin dış politika sözcüsü Gazprom CEO'su ile St. Petersburg'da görüştü.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-04T11:01:18.281084+00:00",
-  "cluster_id": "c698b11ff0143"
- },
- {
-  "title": "Bu görüntüler Putin'i zorladı: Avrupa ile masaya oturma planı",
-  "link": "https://www.sozcu.com.tr/bu-goruntuler-putin-i-zorladi-avrupa-ile-masaya-oturma-plani-p325193",
-  "source": "Sözcü",
-  "summary_tr": "Fransa, İngiltere ve Almanya, Ukrayna ile ortak plan yürüterek Putin'i müzakere masasına çekmeyi hedefliyorlar.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-04T11:01:18.281084+00:00",
-  "cluster_id": "cc796e79415fd"
- },
- {
-  "title": "Sıkı dostların arası açıldı: Trump ve Netanyahu arasında Lübnan uçurumu",
-  "link": "https://www.sozcu.com.tr/siki-dostlarin-arasi-acildi-trump-ve-netanyahu-arasinda-lubnan-ucurumu-p325189",
-  "source": "Sözcü",
-  "summary_tr": "Trump ile Netanyahu arasında Lübnan ve İran politikalarında çıkar çatışması ve sert gerginlik yaşanıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-04T11:01:18.281084+00:00",
-  "cluster_id": "c4fc6290bd01f"
  }
 ]
