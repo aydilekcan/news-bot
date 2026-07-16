@@ -1,5 +1,113 @@
 [
  {
+  "title": "Trump'ın altyapıya saldırı tehdidinin ardından ABD ordusu İran'da 2 köprüyü vurdu",
+  "link": "https://www.aa.com.tr/tr/live-blog/son-gelismeler-abdnin-irana-yonelik-saldirilari-ve-iran-in-misillemeleri/5413",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD ordusu, Trump'ın tehdidinin ardından İran'da Hürmüzgan eyaletindeki iki köprüyü hedef aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-16T21:01:03.396122+00:00",
+  "type": "news",
+  "cluster_id": "cd791a0cc10f6"
+ },
+ {
+  "title": "İran basını: ABD ordusu, İranşehr Havalimanı, Hamidiye kenti ve Bender Abbasta bir köprüyü hedef aldı",
+  "link": "https://www.trthaber.com/haber/dunya/iran-basini-abd-ordusu-iransehr-havalimani-hamidiye-kenti-ve-bender-abbasta-bir-kopruyu-hedef-aldi-951417.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran basınına göre ABD ordusu İranşehr Havalimanı, Hamidiye kenti ve Bender Abbas'ta bir köprüyü hedef aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-16T21:01:03.396122+00:00",
+  "type": "news",
+  "cluster_id": "cfebd1be3e9c9"
+ },
+ {
+  "title": "12'nci Yargı Paketi Meclis'ten geçti",
+  "link": "https://www.diken.com.tr/12nci-yargi-paketi-meclisten-gecti/?utm_source=rss&utm_medium=rss&utm_campaign=12nci-yargi-paketi-meclisten-gecti",
+  "source": "Diken",
+  "summary_tr": "12'nci Yargı Paketi TBMM'de kabul edilerek yasalaştı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-16T21:01:03.396122+00:00",
+  "type": "news",
+  "cluster_id": "c6bbe39761bbe"
+ },
+ {
+  "title": "'12'nci Yargı Paketi' TBMM'de kabul edildi: İki kritik madde, AKP'nin önergesiyle çıkarıldı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/12-nci-yargi-paketi-tbmm-de-kabul-edildi-iki-kritik-madde-akp-nin-onergesiyle-cikarildi-2521494",
+  "source": "Cumhuriyet",
+  "summary_tr": "12'nci Yargı Paketi TBMM'de kabul edildi; AKP'nin önergesiyle iki kritik madde çıkarıldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-16T21:01:03.396122+00:00",
+  "type": "news",
+  "cluster_id": "c6a9e8dcbf733"
+ },
+ {
+  "title": "12. Yargı Paketi'nde Genel Kurul revizyonu: İki madde çıkarıldı, iki maddede değişiklik yapıldı",
+  "link": "https://www.sozcu.com.tr/12-nci-yargi-paketi-kabul-edildi-p337140",
+  "source": "Sözcü",
+  "summary_tr": "12'nci Yargı Paketi'nde Genel Kurul revizyonu yapıldı; AK Parti'nin verdiği önerge ile iki madde çıkarıldı, ikisinde değişiklik yapıldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-16T21:01:03.396122+00:00",
+  "type": "news",
+  "cluster_id": "cd4156c3fb49d"
+ },
+ {
+  "title": "12. Yargı Paketi, TBMM Genel Kurulunda kabul edildi",
+  "link": "https://www.aa.com.tr/tr/gundem/12-yargi-paketi-tbmm-genel-kurulunda-kabul-edildi/4000797",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "12'nci Yargı Paketi TBMM Genel Kurulunda kabul edildi.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-16T21:01:03.396122+00:00",
+  "type": "news",
+  "cluster_id": "c5e595b73a680"
+ },
+ {
+  "title": "12inci Yargı Paketi, TBMM Genel Kurulunda kabul edildi",
+  "link": "https://www.trthaber.com/haber/gundem/12inci-yargi-paketi-tbmm-genel-kurulunda-kabul-edildi-951412.html",
+  "source": "TRT Haber",
+  "summary_tr": "12'nci Yargı Paketi TBMM Genel Kurulunda kabul edildi.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-16T21:01:03.396122+00:00",
+  "type": "news",
+  "cluster_id": "c5e595b73a680"
+ },
+ {
+  "title": "Beyaz Saray: İran, ABD ile görüşmeye devam ediyor ve anlaşma yapmak istediğini ifade ediyor",
+  "link": "https://www.trthaber.com/haber/dunya/beyaz-saray-iran-abd-ile-gorusmeye-devam-ediyor-ve-anlasma-yapmak-istedigini-ifade-ediyor-951414.html",
+  "source": "TRT Haber",
+  "summary_tr": "Beyaz Saray, İran'ın ABD ile görüşmeye devam ettiğini ve anlaşma yapmak istediğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-16T21:01:03.396122+00:00",
+  "type": "news",
+  "cluster_id": "c73d529651b85"
+ },
+ {
+  "title": "Netflix earnings forecast disappoints investors, shares tumble",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaElBaG14Wm9OcTNhcTdGWVdBUWRnN0NqY2pBOUhkajZ0V3Jnb2FsbkUyd3J5bUY2TG9kM2gzanFkODEtdVZpR3UxZmNyeU9VYjBwTGtzd0c0R0Y0ZEpqd0k5WEtnRWpCT3pEaURUNzFmZmt2bDVyQUsxX2poOVFiVFg2OG9wQzR1bDBUQ3lNMDZ1SUJNenBOQmdod1N0LVpJM3RodzhKelhDTXVtTVJfM2dldmZVMFVfYUZSaGpKajNrN1djdW10T1NfSjhGUQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Netflix'in kazanç tahminleri yatırımcıları hayal kırıklığına uğrattı; hisseler düştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-16T21:01:03.396122+00:00",
+  "type": "news",
+  "cluster_id": "c43e6805d772b"
+ },
+ {
   "title": "Beyaz Saray'dan 'İran' mesajı: 'ABD ile görüşmeyi sürdürüyor'",
   "link": "https://www.cumhuriyet.com.tr/dunya/beyaz-saray-dan-iran-mesaji-abd-ile-gorusmeyi-surduruyor-2521487",
   "source": "Cumhuriyet",
@@ -57496,95 +57604,5 @@
   "score": 6,
   "ts": "2026-06-04T13:01:13.752209+00:00",
   "cluster_id": "c99b31967b44f"
- },
- {
-  "title": "Bakan Uraloğlu: TÜRKSAT 7A için kollarımızı sıvadık",
-  "link": "https://www.trthaber.com/haber/ekonomi/bakan-uraloglu-turksat-7a-icin-kollarimizi-sivadik-947170.html",
-  "source": "TRT Haber",
-  "summary_tr": "Ulaştırma Bakanı Uraloğlu, TÜRKSAT 7A projesi için çalışmalar başladığını ve Türkiye'nin uydu ihracatçısı ülkeler kategorisine girdiğini belirtti.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-04T13:01:13.752209+00:00",
-  "cluster_id": "cf708c29385fe"
- },
- {
-  "title": "Savunma ve havacılıktan 1 milyar dolara yakın ihracat",
-  "link": "https://www.trthaber.com/haber/ekonomi/savunma-ve-havaciliktan-1-milyar-dolara-yakin-ihracat-947165.html",
-  "source": "TRT Haber",
-  "summary_tr": "Savunma ve havacılık sanayisi mayıs ayında 992 milyon dolar ihracat gerçekleştirdi; geçen yılın aynı ayına göre yüzde 33,9 artış sağladı.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-04T13:01:13.752209+00:00",
-  "cluster_id": "c7415c6bdb5c5"
- },
- {
-  "title": "Türkiye ile Türkmenistan arasında 9. Dönem HEK Protokolü imzalandı",
-  "link": "https://www.trthaber.com/haber/gundem/turkiye-ile-turkmenistan-arasinda-9-donem-hek-protokolu-imzalandi-947163.html",
-  "source": "TRT Haber",
-  "summary_tr": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Türkiye-Türkmenistan arasında 9. Dönem Hazar Geçişli Orta Koridor Protokolü imzalandığını açıkladı.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-04T13:01:13.752209+00:00",
-  "cluster_id": "ca2679f1bda40"
- },
- {
-  "title": "İsrail-Hizbullah çatışması: Siyasi çözüm zorlaşıyor mu?",
-  "link": "https://www.dw.com/tr/israil-hizbullah-çatışması-siyasi-çözüm-zorlaşıyor-mu/a-77408005?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "İsrail, ateşkese rağmen Lübnan'daki askeri operasyonlarını sürdürerek Hizbullah üzerindeki baskıyı artırıyor; uzmanlar siyasi çözümün zorlaştığını söylüyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-04T12:01:07.668621+00:00",
-  "cluster_id": "c4c9b3debbe7b"
- },
- {
-  "title": "İsrail Meclisi'nden Batı Şeria'da 59 işgal biriminin vergi muafiyetine onay",
-  "link": "https://www.trthaber.com/haber/dunya/israil-meclisinden-bati-seriada-59-isgal-biriminin-vergi-muafiyetine-onay-947154.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail Meclisi, işgal altındaki Batı Şeria'daki 59 yasa dışı yerleşime vergi muafiyeti getiren yasayı onayladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-04T12:01:07.668621+00:00",
-  "cluster_id": "c66c206e6ec8b"
- },
- {
-  "title": "Putin faces rival visions of war and peace at Russia's 'Davos'",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTTJRTHBCTURmWWtXSlBDdjlVMGhSN3FIN0hISnNMSjhJZnFJdXhQeXlabVB2TVl4M19uUDFMYW5xTDROUl9USzRHZ05ZbnpHM1JfMEl0cmZDQ2tSVkJOV3NFSmdXRHZxbTZ4cnNwa2VGQ282Z3JWTzB2NGpRdG1qMTZQZXRTZHEyQ2JrNDllWHJoTnVNMFItanJ3?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Putin, Rusya'nın 'Davos'u olarak bilinen forumda savaş ve barış konularında çatışan vizyonlarla karşı karşıya kalıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-04T12:01:07.668621+00:00",
-  "cluster_id": "cd70117b78031"
- },
- {
-  "title": "Rusya ile ABD arasındaki kargo sevkiyatı yeniden başladı",
-  "link": "https://www.sozcu.com.tr/rusya-ile-abd-arasindaki-kargo-sevkiyati-yeniden-basladi-p325213",
-  "source": "Sözcü",
-  "summary_tr": "Rusya ile ABD arasında 2022'den beri durmuş olan kargo ve posta hizmetleri yeniden başladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-04T12:01:07.668621+00:00",
-  "cluster_id": "c2322de3dc18f"
- },
- {
-  "title": "South Korea's ruling party wins most races in local elections but loses the crucial Seoul contest",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNelphM1JyT1NNbjRNRlM4dlBiWTNvcHlkWDdwdFlMV3J6R0kwbUxxOVNNcGtwLUVZalBSZkpkejMtTnA4VnY2TVF5ZHluY0d1blp4OE5Cdy00bW9XdUZ0WTVSSHV5STI0Ti1iNE5iX3BQWTBfQl9Jb25UZ3lTMDFDRWJVWnQ5ZjJpV0VOUVVDaktVR0t3Y3BpempsaUVrUQ?oc=5",
-  "source": "AP",
-  "summary_tr": "Güney Kore seçimlerinde iktidardaki parti çoğu yarışmayı kazandı ancak kritik Seul seçimini kaybetti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-04T12:01:07.668621+00:00",
-  "cluster_id": "c4f59689c3e5a"
- },
- {
-  "title": "Trump da katılacak: NATO Zirvesi için Ankara'da 'kırmızı alan' uygulaması",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/trump-da-katilacak-nato-zirvesi-icin-ankara-da-kirmizi-alan-uygulamasi-2509267",
-  "source": "Cumhuriyet",
-  "summary_tr": "NATO Zirvesi 7-8 Temmuz'da Ankara'da yapılacak; Trump da katılacak, güvenlik önlemleri alınıyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-04T11:01:18.281084+00:00",
-  "cluster_id": "c0b650775848f"
  }
 ]
