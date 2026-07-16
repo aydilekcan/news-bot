@@ -1,5 +1,77 @@
 [
  {
+  "title": "Iran warns Strait of Hormuz is a 'red line' and will resist until the end",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGxQSEpXZmFYRldBSGhRcTZWZlBvbUFOZFJDeVoxdXVZczVtY2w1TlhqSnhFaGxsSWlINnBKbDZhNi1mT0Q1anJRTjM0Z0toaVg3QXhMcmkyZlBQRTZ1cVZvbmhZSmU4WDU4NGdnN3FJZGRzbnYzdm0zQUVxWjNUZ1dTZHlwMTA0VTNhbUg0UHVxZmFLUlVtSmVfeHZCb0tfWEE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran, Hormuç Boğazı'nın kırmızı bir çizgi olduğunu uyararak, dirençle son bulunca kadar direneceğini belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-16T09:01:16.508620+00:00",
+  "type": "news",
+  "cluster_id": "c902cf230c827"
+ },
+ {
+  "title": "Bütçe açığı 942 milyar 835 milyon lira",
+  "link": "https://www.diken.com.tr/butce-acigi-942-milyar-835-milyon-lira/?utm_source=rss&utm_medium=rss&utm_campaign=butce-acigi-942-milyar-835-milyon-lira",
+  "source": "Diken",
+  "summary_tr": "Türkiye'nin ocak-haziran döneminde bütçe açığı 942 milyar 835 milyon lira oldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-16T09:01:16.508620+00:00",
+  "type": "news",
+  "cluster_id": "c5ee952b28355"
+ },
+ {
+  "title": "Dev çip üreticisinden ABD'ye 100 milyar dolarlık rekor yatırım",
+  "link": "https://www.sozcu.com.tr/dev-cip-ureticisinden-abd-ye-100-milyar-dolarlik-rekor-yatirim-p336977",
+  "source": "Sözcü",
+  "summary_tr": "Dünyanın en büyük yarı iletken üreticisi TSMC, ABD operasyonlarını genişletmek için 100 milyar dolar ek yatırım yapacak.",
+  "metric": "TSMC ABD yatırımı 100 milyar dolar",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-16T09:01:16.508620+00:00",
+  "type": "news",
+  "cluster_id": "cb1fc653edc51"
+ },
+ {
+  "title": "Rekor: Avro 54 liranın üzerinde",
+  "link": "https://www.diken.com.tr/rekor-avro-54-liranin-uzerinde/?utm_source=rss&utm_medium=rss&utm_campaign=rekor-avro-54-liranin-uzerinde",
+  "source": "Diken",
+  "summary_tr": "Avro kuru 54,1137 TL'ye ulaşarak rekor kırdı.",
+  "metric": "Avro kuru 54,1137 TL (rekor seviye)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-16T09:01:16.508620+00:00",
+  "type": "news",
+  "cluster_id": "c638a0f58da5a"
+ },
+ {
+  "title": "Öğrenci affından kimler yararlanacak, aftan kimler muaf tutulacak?",
+  "link": "https://www.sozcu.com.tr/ogrenci-affindan-kimler-yararlanacak-aftan-kimler-muaf-tutulacak-p336979",
+  "source": "Sözcü",
+  "summary_tr": "TBMM komisyonunda kabul edilen yeni kanun teklifiyle üniversitelerde geniş kapsamlı öğrenci affı başlıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-16T09:01:16.508620+00:00",
+  "type": "news",
+  "cluster_id": "c176c43fd3ba9"
+ },
+ {
+  "title": "Uber launches $14.8 billion offer for Delivery Hero to create global platform",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYndXVGNVbjBuek9wVkRnRENmNWdDMGJjTG5BcUdLenpZYnZGUE9LSGpGX1VxT2JmWGtpa3JRR2E0MGx2bnFqbjBQUDdXVENhWDNrSXAyd1ZpSkllVXVqMXhFSjVLczVEZ0x3WWxkWmhOZ3JVbzVwaW55UVJKWEtaMHJIX19UMUtSTU9rZGJ6YS0xZ1cyXzV6NDhQNXVEUQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Uber, küresel bir platform oluşturmak için Delivery Hero'yu 14,8 milyar dolar karşılığında satın almayı teklif etti.",
+  "metric": "Uber'in Delivery Hero teklifi 14,8 milyar dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-16T09:01:16.508620+00:00",
+  "type": "news",
+  "cluster_id": "cc39f7200eaa1"
+ },
+ {
   "title": "İran’dan ABD’ye Hürmüz Boğazı resti: Tavizsiz kırmızı çizgimiz",
   "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-abd-ye-hurmuz-bogazi-resti-tavizsiz-kirmizi-cizgimiz-2521284",
   "source": "Cumhuriyet",
@@ -57340,65 +57412,5 @@
   "score": 7,
   "ts": "2026-06-03T19:01:18.125858+00:00",
   "cluster_id": "cd05d2308a950"
- },
- {
-  "title": "Emniyet Teşkilatı ve basına yönelik düzenlemeleri de içeren kanun teklifi, Plan ve Bütçe Komisyonunda kabul edildi",
-  "link": "https://www.aa.com.tr/tr/gundem/emniyet-teskilati-ve-basina-yonelik-duzenlemeleri-de-iceren-kanun-teklifi-plan-ve-butce-komisyonunda-kabul-edildi/3955775",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "TBMM Plan ve Bütçe Komisyonu, Emniyet Teşkilatı ve basına yönelik düzenlemeleri içeren kanun teklifini kabul etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T19:01:18.125858+00:00",
-  "cluster_id": "c00f83656de26"
- },
- {
-  "title": "Five countries elected to UN Security Council; Germany misses out",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdFJ5dy14a252eHR0UFVQNFVPWTd1UnhnS2MzN1hQc1BodGhVdTRSeldoVkZ4MmFaem0zb05CRXd1QjZ2anMwbnVpUXNQSXVYamFwc0VaTjJTREdKLTRoc2Z1aF8wbkhLZlNmSmhHYkhqRnlDRkVoSnQ2RmxfLUJZOWJNTWIxRUJtckNqWUZiZklBSk5nNjd2N3pNTjAzbWItS3ZFVDR2Q1Q1ci1mOTVya2tKN2l5VS15WXFtdQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "BM Güvenlik Konseyi seçiminde beş ülke seçildi; Almanya başarısız oldu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T19:01:18.125858+00:00",
-  "cluster_id": "c03c59db1a5a0"
- },
- {
-  "title": "Son dakika... Bahçeli: CHP’deki paralel liderlik siyaset ve toplumsal istikrarı bozar",
-  "link": "https://www.sozcu.com.tr/son-dakika-bahceli-chp-deki-paralel-liderlik-siyaset-ve-toplumsal-istikrari-bozar-p324988",
-  "source": "Sözcü",
-  "summary_tr": "Devlet Bahçeli, CHP'deki paralel liderliğin siyaset ve toplumsal istikrarı bozduğunu açıkladı.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-03T19:01:18.125858+00:00",
-  "cluster_id": "c926770d2cc65"
- },
- {
-  "title": "Germany says Russia stirred up opposition to UN Security Council bid",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOGlDTFlPS2pVSkVxekc5QVFzS2VObWpNZWp2Tm9pRGhhMFNpVlBsNHAtLUROdnZNTlg0RTNCNUpWNkVfNkwxS0pZMnFJTFJVbkNxZXpOcWhoU2FCTTNLdXBDZWdBVFRjU25rbUxDb2JoVmZaNjlwSy04cE93dElsUWRWZW1UZjFtYml2T1FKRVhXS2ZmeWpB?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Almanya, BM Güvenlik Konseyi üyeliği adaylığı karşısında Rusya'nın muhalefet çıkardığını açıkladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T19:01:18.125858+00:00",
-  "cluster_id": "c1fecf15a63c0"
- },
- {
-  "title": "Donald Trump NATO zirvesi için Ankara'ya gidecek",
-  "link": "https://www.bbc.com/turkce/articles/c5ye19r40jlo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Trump, Temmuz 2026'de Ankara'da yapılacak NATO Zirvesi'ne katılacak.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-03T18:01:06.726145+00:00",
-  "cluster_id": "c23e98170242c"
- },
- {
-  "title": "Trump'ın Türkiye ziyareti netleşti: NATO zirvesine bizzat katılacak",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/trump-in-turkiye-ziyareti-netlesti-nato-zirvesine-bizzat-katilacak-2509060",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Dışişleri Bakanı Rubio, Trump'ın Ankara NATO Zirvesi'ne bizzat katılacağını teyit etti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-03T18:01:06.726145+00:00",
-  "cluster_id": "c3012e1fa2203"
  }
 ]
