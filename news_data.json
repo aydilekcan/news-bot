@@ -1,5 +1,17 @@
 [
  {
+  "title": "Russia says Ukrainian drone kills chief engineer at Zaporizhzhia nuclear plant",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNXY2MTVja3gxVm9Ld1JEVlc1dWF3QW1OQlZWMkM2Mkg2WllyLUJRWnIwVzZwOTJJb3VnaXQ5Z1BobjRDc24tdl9CMUs3bTJfOHRFckN4cGxDSGstcjR2eE9JZXFWTmNQT1dXcnhqRGlMYmFsWjBxOWxyNjI1VDFzemZjYThHNUVLQXVEX05FWG92NHdjU0M5T0lYZzdyNndsYUVQb1A2dElSWHV6Q3VSUWxZYzlzRW1WRVdFSUdLZ0F0Zw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya, Ukrayna'nın insansız hava aracı saldırısında Zaporizhzhia nükleer santralinin baş mühendisinin öldüğünü iddia etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-16T01:01:11.797663+00:00",
+  "type": "news",
+  "cluster_id": "c4b3e9750e804"
+ },
+ {
   "title": "EXCLUSIVE: US strikes on Iran strengthen Trump's options for new escalation, officials say",
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcmxvcGs1aXFWckc4eXhtejF1N0hTeUlYakpDOHRfdTFRUk1ab3lTaXE0QVRNWlUyQnhrWnhaVEsySmE0R0ZuODVuUy1iMEdPbFZxNXotNkF2bU1VeENlZ3kwQTBKU3E3WDYwdnlPT00wZi0zeVplanZIbjZtWjY4TVNqRlBST2VENW1OMzFRb3VGSFgtalZodnF6c2ZPc2kyM1NDeUc3LTZnWUF4SXlaeE1LYzNWcExPamZubmhWRGRLQQ?oc=5",
   "source": "Reuters",
@@ -57298,15 +57310,5 @@
   "score": 6,
   "ts": "2026-06-03T14:01:16.316330+00:00",
   "cluster_id": "c845a72e403eb"
- },
- {
-  "title": "Adalet Bakanı Akın Gürlek açıkladı: Defnedilen kadın cesedi Gülcan Yazıcı'ya ait",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/adalet-bakani-akin-gurlek-acikladi-defnedilen-kadin-cesedi-gulcan-yazici-ya-ait-2509005",
-  "source": "Cumhuriyet",
-  "summary_tr": "Adalet Bakanı Gürlek, kayıp Gülcan Yazıcı'nın yıllardır arama sonucu defnedilen cesette bulunduğunu açıkladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T14:01:16.316330+00:00",
-  "cluster_id": "c3306151603fa"
  }
 ]
