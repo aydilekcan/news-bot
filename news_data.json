@@ -1,5 +1,53 @@
 [
  {
+  "title": "İran ekonomisinin kalbi hedef alındı: ABD füzelerle vurdu",
+  "link": "https://www.sozcu.com.tr/iran-ekonomisinin-kalbi-hedef-alindi-abd-fuzelerle-vurdu-p337095",
+  "source": "Sözcü",
+  "summary_tr": "ABD, Hürmüz Boğazı yakınlarındaki Keşm Adası'nı füzelerle vurdu. Dünya enerji tedarikatının kritik noktasını hedef alan saldırı küresel petrol fiyatlarını etkileyebilir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-16T17:01:08.691293+00:00",
+  "type": "news",
+  "cluster_id": "c108fb53edf41"
+ },
+ {
+  "title": "İran: Ülkenin altyapısına zarar verilmesi durumunda, bölgedeki enerji tedarik zinciri yok olur",
+  "link": "https://www.trthaber.com/haber/dunya/iran-ulkenin-altyapisina-zarar-verilmesi-durumunda-bolgedeki-enerji-tedarik-zinciri-yok-olur-951398.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Lideri'nin danışmanı, ülke altyapısına saldırı durumunda bölgenin enerji tedarik zincirinin yok olacağını uyardı. Bölge istikrarı için ciddi tehdit sinyali.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-16T17:01:08.691293+00:00",
+  "type": "news",
+  "cluster_id": "c034928b6772f"
+ },
+ {
+  "title": "IMF: Orta Doğu'daki savaş Avro Bölgesi'nin ekonomik görünümünü zayıflattı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/imf-orta-dogudaki-savas-avro-bolgesinin-ekonomik-gorunumunu-zayiflatti/4000616",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "IMF, Orta Doğu'daki savaşın Avro Bölgesi ekonomisinin büyümesini zayıflattığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-16T17:01:08.691293+00:00",
+  "type": "news",
+  "cluster_id": "cb10eee7d0a7b"
+ },
+ {
+  "title": "Bakan Bolat'tan Brüksel'de AB'ye ticaret ve yatırım politikası mesajı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolattan-brukselde-abye-ticaret-ve-yatirim-politikasi-mesaji/4000628",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ticaret Bakanı Ömer Bolat, Avrupa Birliği'ne Türkiye-AB ticaret ve yatırım politikasını sundu.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-16T17:01:08.691293+00:00",
+  "type": "news",
+  "cluster_id": "cce68e4d939fd"
+ },
+ {
   "title": "DEM Parti: İstişarelerimiz sürecek, ardından Öcalan'la görüşeceğiz",
   "link": "https://www.diken.com.tr/dem-parti-istisarelerimiz-surecek-ardindan-ocalanla-gorusecegiz/?utm_source=rss&utm_medium=rss&utm_campaign=dem-parti-istisarelerimiz-surecek-ardindan-ocalanla-gorusecegiz",
   "source": "Diken",
@@ -57516,45 +57564,5 @@
   "score": 6,
   "ts": "2026-06-04T11:01:18.281084+00:00",
   "cluster_id": "c8d53eeb21b14"
- },
- {
-  "title": "Bakan Şimşek: İslami finans varlıkları açısından Türkiye dahil birçok ülkede henüz kullanılmamış fırsatlar var",
-  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-islami-finans-varliklari-acisindan-turkiye-dahil-bircok-ulkede-henuz-kullanilmamis-firsatlar-var/3956387",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Hazine Bakanı Şimşek, Türkiye'nin İslami finansta piyasa büyüklüğü açısından 9. sırada yer aldığını, büyüme potansiyeli olduğunu belirtti.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-04T11:01:18.281084+00:00",
-  "cluster_id": "c68285edbf331"
- },
- {
-  "title": "Çalışma ve Sosyal Güvenlik Bakanı Işıkhan: İşsizlik oranı 36 aydır tek haneli seyrini sürdürüyor",
-  "link": "https://www.aa.com.tr/tr/gundem/calisma-ve-sosyal-guvenlik-bakani-isikhan-issizlik-orani-36-aydir-tek-haneli-seyrini-surduruyor/3956372",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Çalışma Bakanı Işıkhan, işsizlik oranının 36 aydır tek haneli seyrini sürdürdüğünü açıkladı.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-04T11:01:18.281084+00:00",
-  "cluster_id": "c6f8207a6bef8"
- },
- {
-  "title": "Bakan Bayraktar: Enerji arz güvenliği açısından ülkemiz için bir risk öngörülmemektedir",
-  "link": "https://www.trthaber.com/haber/ekonomi/bakan-bayraktar-enerji-arz-guvenligi-acisindan-ulkemiz-icin-bir-risk-ongorulmemektedir-947146.html",
-  "source": "TRT Haber",
-  "summary_tr": "Enerji Bakanı Bayraktar, mevcut uluslararası enerji krizine rağmen Türkiye'nin enerji arz güvenliğinde risk olmadığını belirtti.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-04T11:01:18.281084+00:00",
-  "cluster_id": "c0ae692f01a35"
- },
- {
-  "title": "Önce Çocuklar ve Kadınlar Derneği'nden süresiz nafaka düzenlemesinin iptaline tepki",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/once-cocuklar-ve-kadinlar-dernegi-nden-suresiz-nafaka-duzenlemesinin-iptaline-tepki-2509242",
-  "source": "Cumhuriyet",
-  "summary_tr": "Anayasa Mahkemesi, süresiz nafaka düzenlemesini iptal etti; hak örgütleri karar sonuçlarından endişeli.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-04T10:01:13.083094+00:00",
-  "cluster_id": "c19ba57de2656"
  }
 ]
