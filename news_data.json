@@ -1,5 +1,101 @@
 [
  {
+  "title": "Uber, Delivery Hero için resmi satın alma süreci başlattı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/uber-delivery-hero-icin-resmi-satin-alma-sureci-baslatti/4000167",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Uber, Alman yemek siparişi şirketi Delivery Hero'yu yaklaşık 14,8 milyar dolara satın alma teklifinde bulundu.",
+  "metric": "Uber-Delivery Hero satın alma 14,8 milyar dolar",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-16T10:01:19.993505+00:00",
+  "type": "news",
+  "cluster_id": "ce6a02b7f65c6"
+ },
+ {
+  "title": "Tayvan merkezli yarı iletken üreticisi TSMC, ABD'ye 100 milyar dolarlık ek yatırım planlıyor",
+  "link": "https://www.aa.com.tr/tr/ekonomi/tayvan-merkezli-yari-iletken-ureticisi-tsmc-abdye-100-milyar-dolarlik-ek-yatirim-planliyor/4000057",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "TSMC, ABD'deki yarı iletken üretim kapasitesini artırmak için 100 milyar dolar ek yatırım planlıyor.",
+  "metric": "TSMC ABD yatırımı 100 milyar dolar",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-16T10:01:19.993505+00:00",
+  "type": "news",
+  "cluster_id": "c1cf51b03e524"
+ },
+ {
+  "title": "Rusya 2026 federal bütçe harcama planında artışa gitti",
+  "link": "https://www.sozcu.com.tr/rusya-2026-federal-butce-harcama-planinda-artisa-gitti-p337004",
+  "source": "Sözcü",
+  "summary_tr": "Rusya 2026 federal bütçe harcama planında yaklaşık 1 trilyon ruble (12,8 milyar dolar) artırıldı.",
+  "metric": "Rusya 2026 bütçe harcaması yaklaşık 1 trilyon ruble artış",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-16T10:01:19.993505+00:00",
+  "type": "news",
+  "cluster_id": "c4502f919c663"
+ },
+ {
+  "title": "Rusya 2026 federal bütçe harcama planında 1 trilyon ruble artışa gitti",
+  "link": "https://www.aa.com.tr/tr/ekonomi/rusya-2026-federal-butce-harcama-planinda-1-trilyon-ruble-artisa-gitti-/4000149",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Rusya 2026 federal bütçe harcama planını 1 trilyon ruble artırarak yaklaşık 12,8 milyar dolar ek harcama yaptı.",
+  "metric": "Rusya 2026 bütçe 1 trilyon ruble artışı",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-16T10:01:19.993505+00:00",
+  "type": "news",
+  "cluster_id": "c4502f919c663"
+ },
+ {
+  "title": "AB'nin dış ticaret açığı mayısta 12 milyar avroyu aştı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abnin-dis-ticaret-acigi-mayista-12-milyar-avroyu-asti/4000179",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "AB mayıs ayında 12,1 milyar avroluk dış ticaret açığı verdi; enerji ithalatı harcaması artmıştır.",
+  "metric": "AB dış ticaret açığı 12,1 milyar avro",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-16T10:01:19.993505+00:00",
+  "type": "news",
+  "cluster_id": "c487cb75aea8b"
+ },
+ {
+  "title": "Tarım-ÜFE (yıllık): %9,55",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOVJNSTJoQ1JJZzFDOE53YkhzX0dsOWdJLXN4UF9GWXB2cXNzTkI0aEJVTkoyWGlqQnQ2QlRvdmhaRWcxVkFmdjdWQ2N5aUItS09VbTFIazF5WWdoQV9zTVFIX29PRlc2NmpyNFVmdEJDRDQ1N0ZfT0FGZ0RVVTBwONIBgAFBVV95cUxNOVJNSTJoQ1JJZzFDOE53YkhzX0dsOWdJLXN4UF9GWXB2cXNzTkI0aEJVTkoyWGlqQnQ2QlRvdmhaRWcxVkFmdjdWQ2N5aUItS09VbTFIazF5WWdoQV9zTVFIX29PRlc2NmpyNFVmdEJDRDQ1N0ZfT0FGZ0RVVTBwOA?oc=5",
+  "source": "TÜİK",
+  "summary_tr": "%43,08 → %9,55 (-33,5 puan)",
+  "metric": "-33,5 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-16T10:01:19.993505+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
+  "title": "Tarım-ÜFE (aylık): %-9,02",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOVJNSTJoQ1JJZzFDOE53YkhzX0dsOWdJLXN4UF9GWXB2cXNzTkI0aEJVTkoyWGlqQnQ2QlRvdmhaRWcxVkFmdjdWQ2N5aUItS09VbTFIazF5WWdoQV9zTVFIX29PRlc2NmpyNFVmdEJDRDQ1N0ZfT0FGZ0RVVTBwONIBgAFBVV95cUxNOVJNSTJoQ1JJZzFDOE53YkhzX0dsOWdJLXN4UF9GWXB2cXNzTkI0aEJVTkoyWGlqQnQ2QlRvdmhaRWcxVkFmdjdWQ2N5aUItS09VbTFIazF5WWdoQV9zTVFIX29PRlc2NmpyNFVmdEJDRDQ1N0ZfT0FGZ0RVVTBwOA?oc=5",
+  "source": "TÜİK",
+  "summary_tr": "%-9,02",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-16T10:01:19.993505+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
+  "title": "Tarım-ÜFE (aylık): %-9 (Haziran)",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZUxMZW9HaExwbDBaTE1nNXVYRHRBZWdobl9ZS0syQm5zbHVSYUU4WkR6NDNvUFV6MktaeFRwWW1nS2wzdVFITnZscmhVVzJrZkFYZFE2MW5Ldkh1Skd4ek1mWHB5bllrbTJvNEdWZkxEamFHbHphaFBhX21kUkNMM0hoZUNOLUZDWld5NDZlV2Q0VHF5?oc=5",
+  "source": "TÜİK",
+  "summary_tr": "%-9,02 → %-9 (+0,0 puan)",
+  "metric": "+0,0 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-16T10:01:19.993505+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Iran warns Strait of Hormuz is a 'red line' and will resist until the end",
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGxQSEpXZmFYRldBSGhRcTZWZlBvbUFOZFJDeVoxdXVZczVtY2w1TlhqSnhFaGxsSWlINnBKbDZhNi1mT0Q1anJRTjM0Z0toaVg3QXhMcmkyZlBQRTZ1cVZvbmhZSmU4WDU4NGdnN3FJZGRzbnYzdm0zQUVxWjNUZ1dTZHlwMTA0VTNhbUg0UHVxZmFLUlVtSmVfeHZCb0tfWEE?oc=5",
   "source": "Reuters",
@@ -57332,85 +57428,5 @@
   "score": 7,
   "ts": "2026-06-03T20:01:08.004615+00:00",
   "cluster_id": "c46cafc9ed04b"
- },
- {
-  "title": "Bahçeli’den ‘CHP’ mesajı: ‘Paralel liderlik’ vurgusu yaptı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/bahceli-den-chp-mesaji-paralel-liderlik-vurgusu-yapti-2509083",
-  "source": "Cumhuriyet",
-  "summary_tr": "MHP Genel Başkanı Bahçeli, CHP'nin 'mutlak butlan' süreci hakkında 'Paralel liderlik toplumsal istikrarı bozar' mesajı verdi.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-03T20:01:08.004615+00:00",
-  "cluster_id": "ccf143207b464"
- },
- {
-  "title": "Meclis komisyonunda kabul edildi: Emniyette yeni kadro düzenlemesi!",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/meclis-komisyonunda-kabul-edildi-emniyette-yeni-kadro-duzenlemesi-2509082",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM Plan ve Bütçe Komisyonu, emniyet teşkilatında kadro oranlarını yeniden düzenleyen 24 maddelik kanun teklifini kabul etti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T20:01:08.004615+00:00",
-  "cluster_id": "c55fd95608408"
- },
- {
-  "title": "Emniyette yeni düzenleme! Komisyonda kabul edildi",
-  "link": "https://www.sozcu.com.tr/emniyette-yeni-duzenleme-komisyonda-kabul-edildi-p324995",
-  "source": "Sözcü",
-  "summary_tr": "TBMM Plan ve Bütçe Komisyonu, Emniyet Teşkilatı'nda amir rütbelerine ilişkin kadro oranlarını düzenleyen kanun teklifini kabul etti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T20:01:08.004615+00:00",
-  "cluster_id": "c55fd95608408"
- },
- {
-  "title": "İran: Kuveyt Havalimanını biz vurmadık, ABD'nin Patriot sisteminin füzesi düştü",
-  "link": "https://www.trthaber.com/haber/dunya/iran-kuveyt-havalimanini-biz-vurmadik-abdnin-patriot-sisteminin-fuzesi-dustu-947066.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Devrim Muhafızları Sözcüsü, Kuveyt Havalimanı hasarının ABD'nin Patriot füzesi düşüşünden kaynaklandığını iddia etti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T20:01:08.004615+00:00",
-  "cluster_id": "c8de7f2094ab9"
- },
- {
-  "title": "Uluslararası kurumlar Türkiye’nin büyüme tahminlerini aşağı çekti",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeDJhSUxITlpCNENxV3g3c0RPSTg2V0Itbno0Uk81cDhBT3IwNDRvRXJQM3Y4QXdxcTVIN1JGRkRQbFhMeVVZbGdHWndnZWtXMzVWY2FuYmc4R29aOTBDZnIzdFZGZTRQbWEzbVBadjhmejFHd2NORC1Rck4yT08xVG43b3dkVjAwSndRT2JPUTZzZXc5cHB6bzJpTHBzYnM?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Uluslararası kurumlar Türkiye'nin büyüme tahminlerini aşağı yönde revize etti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T20:01:08.004615+00:00",
-  "cluster_id": "cffa83968b21b"
- },
- {
-  "title": "ABD-İran arasında saldırılar: Vurulan Kuveyt havalimanında en az bir ölü",
-  "link": "https://www.bbc.com/turkce/articles/crmprnxkwnro?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD, İran'a karşı savunma amaçlı saldırılar düzenledi; Kuveyt havalimanında en az bir ölü.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-03T19:01:18.125858+00:00",
-  "cluster_id": "cb2626cbdd815"
- },
- {
-  "title": "NATO chief warns young Russians they would die in Ukraine war",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPenpzOTFjZ3N5NWo4WVZjcGFnb1MzUERKV1dDMzlCTW85MkxXdG5uMGJMQXI5U3kwcXViX1p6WVE1ZjlxV3MtczlhdDRmZkc4bVZfdmtmRnF4MkdGejZXODNyTWtEekxQX0FUNFcxZmZlTERWdFJpdm1rVUlYRUY0Z0ZiRGZ4SFpVTlM5X0s2Rms3RWZQaW5rT1U1TjhSbG1yVFE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "NATO Genel Sekreteri, Ukrayna savaşında öleceklerini uyararak genç Ruslar'a hitap etti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-03T19:01:18.125858+00:00",
-  "cluster_id": "cabfc389632af"
- },
- {
-  "title": "Özgür Özel ve Veli Ağbaba hakkındaki dosyalar Ankara'ya gönderildi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/ozgur-ozel-ve-veli-agbaba-hakkindaki-dosyalar-ankara-ya-gonderildi-2509071",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Kurultayı usulsüzlük ve Antalya adaylığı sürecindeki rüşvet iddiaları Ankara Cumhuriyet Başsavcılığına gönderildi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T19:01:18.125858+00:00",
-  "cluster_id": "cd05d2308a950"
  }
 ]
