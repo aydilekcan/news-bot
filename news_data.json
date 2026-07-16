@@ -1,5 +1,65 @@
 [
  {
+  "title": "DEM Parti: İstişarelerimiz sürecek, ardından Öcalan'la görüşeceğiz",
+  "link": "https://www.diken.com.tr/dem-parti-istisarelerimiz-surecek-ardindan-ocalanla-gorusecegiz/?utm_source=rss&utm_medium=rss&utm_campaign=dem-parti-istisarelerimiz-surecek-ardindan-ocalanla-gorusecegiz",
+  "source": "Diken",
+  "summary_tr": "DEM Parti, PKK lideri Abdullah Öcalan'la görüşmeden önce istişareleri sürdüreceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-16T16:01:11.224030+00:00",
+  "type": "news",
+  "cluster_id": "cdbf4e5a3c7d5"
+ },
+ {
+  "title": "AKP ve Bahçeli ile görüşmelerin ardından İmralı Heyeti'nden ‘çerçeve yasa’ açıklaması: 'En kısa zamanda…’",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/akp-ve-bahceli-ile-gorusmelerin-ardindan-imrali-heyeti-nden-cerceve-yasa-aciklamasi-en-kisa-zamanda-2521443",
+  "source": "Cumhuriyet",
+  "summary_tr": "DEM Parti İmralı Heyeti, AKP ve MHP ile görüşmeler sonrası 'çerçeve yasa' için en kısa zamanda açıklama yapılacağını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-16T16:01:11.224030+00:00",
+  "type": "news",
+  "cluster_id": "c11c720a5345f"
+ },
+ {
+  "title": "KKTC'de yeni asgari ücret Türkiye'yi ikiye katladı",
+  "link": "https://www.sozcu.com.tr/kktc-de-asgari-ucret-ne-kadar-oldu-2026-p337091",
+  "source": "Sözcü",
+  "summary_tr": "KKTC asgari ücret 2026 ikinci yarısı için %16 oranında artırıldı.",
+  "metric": "KKTC asgari ücret %16 artış (+16%)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-16T16:01:11.224030+00:00",
+  "type": "news",
+  "cluster_id": "c47832c35860a"
+ },
+ {
+  "title": "Muhsin Yazıcıoğlu'nun ölümüne ilişkin soruşturmada FETÖ izi",
+  "link": "https://www.aa.com.tr/tr/gundem/muhsin-yazicioglunun-olumune-iliskin-sorusturmada-feto-izi/4000575",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Muhsin Yazıcıoğlu helikopter kazasına ilişkin soruşturmada FETÖ izi bulunduğu belirlendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-16T16:01:11.224030+00:00",
+  "type": "news",
+  "cluster_id": "c58ed47c81311"
+ },
+ {
+  "title": "Yazıcıoğlu soruşturmasında yeni deliller: FETÖ bağlantısı mercek altında",
+  "link": "https://www.trthaber.com/haber/gundem/yazicioglu-sorusturmasinda-yeni-deliller-feto-baglantisi-mercek-altinda-951397.html",
+  "source": "TRT Haber",
+  "summary_tr": "Muhsin Yazıcıoğlu helikopter kazasına ilişkin soruşturmada FETÖ bağlantısı mercek altında inceleniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-16T16:01:11.224030+00:00",
+  "type": "news",
+  "cluster_id": "c2ed34d56e853"
+ },
+ {
   "title": "ABD'den İran'a yeni saldırılar, Tahran'dan bölgedeki ticaret yollarını kapatma tehdidi",
   "link": "https://www.bbc.com/turkce/articles/cze9e190y1zo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -57496,55 +57556,5 @@
   "score": 7,
   "ts": "2026-06-04T10:01:13.083094+00:00",
   "cluster_id": "c19ba57de2656"
- },
- {
-  "title": "AYM, süresiz nafaka düzenlemesini iptal etti... Akın Gürlek'ten açıklama geldi: 'Son derece kıymetli'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/aym-suresiz-nafaka-duzenlemesini-iptal-etti-akin-gurlek-ten-aciklama-geldi-son-derece-kiymetli-2509238",
-  "source": "Cumhuriyet",
-  "summary_tr": "AYM, süresiz nafaka düzenlemesini iptal etti; Adalet Bakanı Gürlek kararı 'adalet ve hakkaniyet adına kıymetli' buldu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-04T10:01:13.083094+00:00",
-  "cluster_id": "cf2332d9bc5a6"
- },
- {
-  "title": "Bakan Bolat mayıs ayı dış ticaret verilerini açıkladı",
-  "link": "https://www.trthaber.com/haber/ekonomi/bakan-bolat-mayis-ayi-dis-ticaret-verilerini-acikladi-947132.html",
-  "source": "TRT Haber",
-  "summary_tr": "Ticaret Bakanı Bolat, mayıs ayı ihracatının %9,3 azalarak 22,5 milyar dolar olduğunu açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-04T10:01:13.083094+00:00",
-  "cluster_id": "cb58c868822c7"
- },
- {
-  "title": "Bakan Gürlek: Hakkaniyete uygun yeni düzenlemeyi Meclis'e sunacağız",
-  "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-hakkaniyete-uygun-yeni-duzenlemeyi-meclise-sunacagiz-947128.html",
-  "source": "TRT Haber",
-  "summary_tr": "Adalet Bakanı Gürlek, AYM'nin süresiz nafaka iptal kararı doğrultusunda yeni bir düzenlemeyi Meclis'e sunacağını belirtti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-04T10:01:13.083094+00:00",
-  "cluster_id": "ce479fb44fca9"
- },
- {
-  "title": "Israel strikes in Lebanon despite ceasefire deal",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0tZZnRwemFBYWROV0xINzJVYVdzUjFuOXVvZTBCbktuTnM2T01kYnozQmFBSVJIak1GdG5vNzdPNV9sdUVuSDZBTGFWbTlTa2FWRzBzNEhTYUJucmtwRjdIU05HWm9fWFlwVmpLT1M4QnoxeHlSc2htYWVsTTlxTXJ6b0ZDU05RdEFZZ2pyUW9VTjVGd1A3akFzZVNTa0JYYlljVzlVaUVrOGxpeWlVbk1zUi1KdG5ITXRyOVJoRTVnclVCZ0lnUnRJeWU?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İsrail, Lübnan ile ateşkesi rağmen bölgede hava saldırılarına devam ediyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-04T10:01:13.083094+00:00",
-  "cluster_id": "c16b7247c8a4b"
- },
- {
-  "title": "Bahçeli'den Özgür Özel'e sert sözler ve kurultay vurgusu",
-  "link": "https://www.dw.com/tr/bahçeli-den-özgür-özel-e-sert-sözler-ve-kurultay-vurgusu/a-77417539?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "MHP lideri Bahçeli, CHP Genel Sekreteri Özgür Özel'i eleştirerek Anıtkabir yürüyüşü ve parti içi uyuşmazlıkları konu aldı.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-04T10:01:13.083094+00:00",
-  "cluster_id": "c49df698621e9"
  }
 ]
