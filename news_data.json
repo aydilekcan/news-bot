@@ -1,5 +1,53 @@
 [
  {
+  "title": "EXCLUSIVE: US strikes on Iran strengthen Trump's options for new escalation, officials say",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcmxvcGs1aXFWckc4eXhtejF1N0hTeUlYakpDOHRfdTFRUk1ab3lTaXE0QVRNWlUyQnhrWnhaVEsySmE0R0ZuODVuUy1iMEdPbFZxNXotNkF2bU1VeENlZ3kwQTBKU3E3WDYwdnlPT00wZi0zeVplanZIbjZtWjY4TVNqRlBST2VENW1OMzFRb3VGSFgtalZodnF6c2ZPc2kyM1NDeUc3LTZnWUF4SXlaeE1LYzNWcExPamZubmhWRGRLQQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD'nin İran'a yönelik saldırıları Trump yönetimine yeni tırmanış seçenekleri sunuyor. Amerikan yetkilileri bu saldırıların opsiyonları güçlendirdiğini belirtiyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-16T00:01:08.106221+00:00",
+  "type": "news",
+  "cluster_id": "cff34d36f466f"
+ },
+ {
+  "title": "Ahbap soruşturması: Haluk Levent tutuklandı",
+  "link": "https://www.bbc.com/turkce/articles/c24ye7d207no?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Ahbap Derneği soruşturmasında aktivist Haluk Levent dahil 14 şüpheli tutuklandı. Bağışların şüphelilerin hesaplarına aktarıldığı iddiası soruşturmanın konusu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-16T00:01:08.106221+00:00",
+  "type": "news",
+  "cluster_id": "c98c5e59d1cc4"
+ },
+ {
+  "title": "Son Dakika... Ahbap soruşturmasında Haluk Levent dahil 14 kişi tutuklandı!",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-ahbap-sorusturmasinda-haluk-levent-dahil-14-kisi-tutuklandi-2521229",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ahbap Derneği soruşturmasında Haluk Levent'in de arası olduğu 14 şüpheli tutuklandı. Bağış kullanımına yönelik soruşturma devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-16T00:01:08.106221+00:00",
+  "type": "news",
+  "cluster_id": "c98c5e59d1cc4"
+ },
+ {
+  "title": "Ahbap Derneğine yönelik soruşturmada 14 şüpheli tutuklandı",
+  "link": "https://www.aa.com.tr/tr/gundem/ahbap-dernegine-yonelik-sorusturmada-14-supheli-tutuklandi/3999694",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ahbap Derneğine yönelik soruşturmada, bağışların şüphelilerin hesaplarına aktarıldığı iddiasıyla 14 şüpheli tutuklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-16T00:01:08.106221+00:00",
+  "type": "news",
+  "cluster_id": "cd81d46af07eb"
+ },
+ {
   "title": "İran basını: ABD, Sirik kenti ile Keşm Adası çevresine saldırılar düzenledi",
   "link": "https://www.aa.com.tr/tr/live-blog/son-gelismeler-abdnin-irana-yonelik-saldirilari-ve-iran-in-misillemeleri/5333",
   "source": "Anadolu Ajansı",
@@ -57260,45 +57308,5 @@
   "score": 6,
   "ts": "2026-06-03T14:01:16.316330+00:00",
   "cluster_id": "c3306151603fa"
- },
- {
-  "title": "Slovenya’da İsrail uçağına iniş izni verilmedi",
-  "link": "https://www.cumhuriyet.com.tr/dunya/slovenya-da-israil-ucagina-inis-izni-verilmedi-2509003",
-  "source": "Cumhuriyet",
-  "summary_tr": "Slovenya, İsrail hava yolu şirketinin Ljubljana'ya inişine izin vermedi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T14:01:16.316330+00:00",
-  "cluster_id": "cf398142db6a8"
- },
- {
-  "title": "AB, teknolojide dışa bağımlılıktan kurtulma planı hazırladı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/ab-teknolojide-disa-bagimliliktan-kurtulma-plani-hazirladi/3955515",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "AB Komisyonu, yarı iletkenler, yapay zeka ve bulut bilişimde dışa bağımlılık azaltma planı hazırladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T14:01:16.316330+00:00",
-  "cluster_id": "c7c7063c12c09"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan Nijer Cumhurbaşkanı Tchiani ile görüşecek",
-  "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-nijer-cumhurbaskani-tchiani-ile-gorusecek-947042.html",
-  "source": "TRT Haber",
-  "summary_tr": "Nijer Cumhurbaşkanı Tchiani, Cumhurbaşkanı Erdoğan'ın davetine karşılık Türkiye'ye resmi ziyaret yapacak.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T14:01:16.316330+00:00",
-  "cluster_id": "cff3b1f0c6bd7"
- },
- {
-  "title": "Analiz: ABD-İran müzakerelerinin en büyük engeli Binyamin Netanyahu",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeFh3cE1idGdIc1FBNHZoLVEyRkNTaGhyLTRKOE9mVzJFV1Y0MGJVX3Y4Y2lOYThmSVZQUXdRNDF4V2hkZzJZcm5iLVlXUDBjVGVrZ0UwMmJyVzhtZVFmWEFUQjJiMWVQTjBHeHpYTnNqSWtndHk4Y3NwOHpLY2lqZDdtMk1ieXdqdnlFZjI5elJaMnBvWVJhdzltX09mMjRESEE?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Analiz: Netanyahu, ABD-İran müzakerelerinin temel engelini oluşturuyor.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-03T14:01:16.316330+00:00",
-  "cluster_id": "c85f8d782b4e5"
  }
 ]
