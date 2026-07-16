@@ -1,5 +1,77 @@
 [
  {
+  "title": "Bakan Gürlek: Deprem bağışlarına ilişkin iddialar sonuna kadar incelenecek",
+  "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-deprem-bagislarina-iliskin-iddialar-sonuna-kadar-incelenecek-951405.html",
+  "source": "TRT Haber",
+  "summary_tr": "Adalet Bakanı Akın Gürlek, 6 Şubat deprem bağışlarına ilişkin soruşturmanın sonuna kadar inceleneceğini söyledi.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-16T19:01:04.611105+00:00",
+  "type": "news",
+  "cluster_id": "c3b35a13e6ac8"
+ },
+ {
+  "title": "Ahbap soruşturması: Deprem yardımlarının kullanımına ilişkin bilirkişi heyeti görevlendirildi",
+  "link": "https://www.bbc.com/turkce/articles/c24ye7d207no?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Ahbap Derneği'nin 6 Şubat deprem bağışlarının kullanımına ilişkin soruşturmada bilirkişi heyeti görevlendirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-16T19:01:04.611105+00:00",
+  "type": "news",
+  "cluster_id": "c4974bd6dccd7"
+ },
+ {
+  "title": "Ahbap soruşturmasında bilirkişi heyeti görevlendirildi",
+  "link": "https://www.sozcu.com.tr/ahbap-sorusturmasinda-bilirkisi-heyeti-gorevlendirildi-p337119",
+  "source": "Sözcü",
+  "summary_tr": "Ahbap Derneği'nin deprem bağışlarının kullanımına ilişkin soruşturmada bilirkişi heyeti görevlendirildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-16T19:01:04.611105+00:00",
+  "type": "news",
+  "cluster_id": "c4974bd6dccd7"
+ },
+ {
+  "title": "Ahbap Derneği'ne deprem bağışlarını incelemesi için bilirkişi heyeti görevlendirildi",
+  "link": "https://www.diken.com.tr/ahbap-dernegine-deprem-bagislarini-incelemesi-icin-bilirkisi-heyeti-gorevlendirildi/?utm_source=rss&utm_medium=rss&utm_campaign=ahbap-dernegine-deprem-bagislarini-incelemesi-icin-bilirkisi-heyeti-gorevlendirildi",
+  "source": "Diken",
+  "summary_tr": "Ahbap Derneği'nin deprem bağışlarını incelemesi için bilirkişi heyeti görevlendirildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-16T19:01:04.611105+00:00",
+  "type": "news",
+  "cluster_id": "c4d3fd2dd68f7"
+ },
+ {
+  "title": "Ahbap soruşturmasında yeni gelişme: Başsavcılık bilirkişi heyeti görevlendirdi",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/ahbap-sorusturmasinda-yeni-gelisme-bassavcilik-bilirkisi-heyeti-gorevlendirdi-2521476",
+  "source": "Cumhuriyet",
+  "summary_tr": "İstanbul Cumhuriyet Başsavcılığı, Ahbap Derneği'nin deprem bağışlarının kullanımına ilişkin soruşturmada bilirkişi heyeti görevlendirdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-16T19:01:04.611105+00:00",
+  "type": "news",
+  "cluster_id": "c8edd64f9681d"
+ },
+ {
+  "title": "Ahbap soruşturmasında tutuklama kararının detayları ortaya çıktı",
+  "link": "https://www.trthaber.com/haber/gundem/ahbap-sorusturmasinda-tutuklama-kararinin-detaylari-ortaya-cikti-951403.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ahbap Derneği adına toplanan bağışların şüphelilerin hesaplarına aktarıldığı iddiasıyla yürütülen soruşturmada tutuklama kararı verildi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-16T19:01:04.611105+00:00",
+  "type": "news",
+  "cluster_id": "cdf07a4f3662c"
+ },
+ {
   "title": "İran ekonomisinin kalbi hedef alındı: ABD füzelerle vurdu",
   "link": "https://www.sozcu.com.tr/iran-ekonomisinin-kalbi-hedef-alindi-abd-fuzelerle-vurdu-p337095",
   "source": "Sözcü",
@@ -57504,65 +57576,5 @@
   "score": 7,
   "ts": "2026-06-04T11:01:18.281084+00:00",
   "cluster_id": "c4fc6290bd01f"
- },
- {
-  "title": "Hamaney'den düşman hibrit savaşa yöneldi açıklaması",
-  "link": "https://www.trthaber.com/haber/dunya/hamaneyden-dusman-hibrit-savasa-yoneldi-aciklamasi-947148.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran lideri Hamaney, ABD-İsrail'in savaş sonrası halkın direncini zayıflatmayı hedefleyen hibrit savaş başlattığını açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-04T11:01:18.281084+00:00",
-  "cluster_id": "cd8757e57c246"
- },
- {
-  "title": "OECD'den çelik sektörü alarmı: Çin’in sübvansiyonları ve enerji krizi piyasayı zorluyor",
-  "link": "https://www.sozcu.com.tr/oecd-den-celik-sektoru-alarmi-cin-in-subvansiyonlari-ve-enerji-krizi-piyasayi-zorluyor-p325194",
-  "source": "Sözcü",
-  "summary_tr": "OECD, Çin'in sübvansiyonları ve enerji krizi nedeniyle küresel çelik sektörünün zorlandığını uyarıyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-04T11:01:18.281084+00:00",
-  "cluster_id": "c23b7cc656580"
- },
- {
-  "title": "Euro Bölgesi’nde perakende satışlar geriledi: Tüketici harcamalarında fren sinyali",
-  "link": "https://www.sozcu.com.tr/euro-bolgesi-nde-perakende-satislar-geriledi-tuketici-harcamalarinda-fren-sinyali-p325187",
-  "source": "Sözcü",
-  "summary_tr": "Euro Bölgesi'nde nisan ayında perakende satışlar yüzde 0,4 düştü; tüketici harcamalarında fren sinyali.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-04T11:01:18.281084+00:00",
-  "cluster_id": "cbb428bf55683"
- },
- {
-  "title": "Otomotiv endüstrisi mayısta 3,3 milyar dolarla en fazla ihracat yapan sektör oldu",
-  "link": "https://www.sozcu.com.tr/otomotiv-endustrisi-mayista-3-3-milyar-dolarla-en-fazla-ihracat-yapan-sektor-oldu-p325185",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye otomotiv endüstrisi mayısta 3,3 milyar dolarla en fazla ihracat yapan sektör oldu.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-04T11:01:18.281084+00:00",
-  "cluster_id": "cc9d21a3ae117"
- },
- {
-  "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Gençlerde işsizlik oranı 1,4 puan, kadınlarda ise 0,6 puan azaldı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskani-yardimcisi-yilmaz-genclerde-issizlik-orani-1-4-puan-kadinlarda-ise-0-6-puan-azaldi/3956404",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Cumhurbaşkanı Yardımcısı Yılmaz, gençlerde işsizlik 1,4 puan, kadınlarda 0,6 puan azaldığını açıkladı.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-04T11:01:18.281084+00:00",
-  "cluster_id": "cd451e04001f6"
- },
- {
-  "title": "Finlandiya Cumhurbaşkanı Stubb, AB'nin Kanada dahil 40 üyeye genişlemesi gerektiğini söyledi",
-  "link": "https://www.aa.com.tr/tr/dunya/finlandiya-cumhurbaskani-stubb-abnin-kanada-dahil-40-uyeye-genislemesi-gerektigini-soyledi/3956392",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Finlandiya Cumhurbaşkanı Stubb, AB'nin Kanada dahil 40 üyeye genişlemesi gerektiğini söyledi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-04T11:01:18.281084+00:00",
-  "cluster_id": "c8d53eeb21b14"
  }
 ]
