@@ -1,5 +1,101 @@
 [
  {
+  "title": "DEM Parti çerçeve yasa taslağı için Bahçeli ile görüştü",
+  "link": "https://www.bbc.com/turkce/articles/c78gln0xe75o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "DEM Parti, Bahçeli ile görüşerek Meclis tatile girmeden çerçeve yasasının çıkarılması için müzakereleri sürdürüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-16T11:01:20.484539+00:00",
+  "type": "news",
+  "cluster_id": "cfd0067c17e98"
+ },
+ {
+  "title": "BİSAM'dan temmuz ayı açlık sınırını açıkladı: Dengeli beslenmenin aylık bedeli 36 bin TL",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/bisam-dan-temmuz-ayi-aclik-sinirini-acikladi-dengeli-beslenmenin-aylik-bedeli-36-bin-tl-2521349",
+  "source": "Cumhuriyet",
+  "summary_tr": "BİSAM verilerine göre temmuz ayında dört kişilik bir ailenin dengeli beslenebilmesi için aylık gıda harcaması olan açlık sınırı 36 bin TL olarak açıklandı.",
+  "metric": "Aylık açlık sınırı 36.000 TL",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-16T11:01:20.484539+00:00",
+  "type": "news",
+  "cluster_id": "c7843a9c3b4e2"
+ },
+ {
+  "title": "Merz'ten Trump'a uyarı: Almanya seçimlerine karışmayın",
+  "link": "https://www.dw.com/tr/merz-ten-trump-a-uyarı-almanya-seçimlerine-karışmayın/a-77973765?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Almanya Başbakanı Merz, Trump yönetiminin Avrupa'daki göçmen karşıtı siyasi gruplara mali destek verme girişiminden rahatsızlığını dile getirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-16T11:01:20.484539+00:00",
+  "type": "news",
+  "cluster_id": "c3fb9ed3c9ad8"
+ },
+ {
+  "title": "Memurlardan ‘YHS kaldırılsın’ eylemi: Kamu bu sınavdan geçmek durumundadır",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/memurlardan-yhs-kaldirilsin-eylemi-kamu-bu-sinavdan-gecmek-durumundadir-2521353",
+  "source": "Cumhuriyet",
+  "summary_tr": "Devlet Memurları Konfederasyonu, Yardımcı Hizmetler Sınıfının kaldırılması için Çalışma Bakanlığı önünde eylem yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-16T11:01:20.484539+00:00",
+  "type": "news",
+  "cluster_id": "c2495c25529a1"
+ },
+ {
+  "title": "Özgür Özel'in 'Yeni Parti' çıkışı sonrası gözler anketlere çevrildi: CHP seçmeninin yüzde 75'i 'Altı Ok'tan vazgeçmeye hazır!",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-in-yeni-parti-cikisi-sonrasi-gozler-anketlere-cevrildi-chp-secmeninin-yuzde-75-i-alti-ok-tan-vazgecmeye-hazir-2521347",
+  "source": "Cumhuriyet",
+  "summary_tr": "Özgür Özel liderliğindeki olası yeni parti anketlerinde kararsızlar dağıtıldığında yüzde 3 oranına ulaşıyor; CHP seçmeninin %75'i değişime açık görülüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-16T11:01:20.484539+00:00",
+  "type": "news",
+  "cluster_id": "c470f2a2251c4"
+ },
+ {
+  "title": "Tarım ve Orman Bakanlığı 1874 sözleşmeli personel alacak",
+  "link": "https://www.aa.com.tr/tr/ekonomi/tarim-ve-orman-bakanligi-1874-sozlesmeli-personel-alacak/4000267",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Tarım ve Orman Bakanlığı taşra teşkilatında istihdam edilmek üzere 1874 sözleşmeli personel alacağını duyurdu.",
+  "metric": "1.874 personel alımı",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-16T11:01:20.484539+00:00",
+  "type": "news",
+  "cluster_id": "c043dbebe6751"
+ },
+ {
+  "title": "Tarım ve Orman Bakanlığı 1874 personel alacak",
+  "link": "https://www.trthaber.com/haber/ekonomi/tarim-ve-orman-bakanligi-1874-personel-alacak-951371.html",
+  "source": "TRT Haber",
+  "summary_tr": "Tarım ve Orman Bakanlığı taşra teşkilatında 1874 sözleşmeli personel alınacağını açıkladı.",
+  "metric": "1.874 personel alımı",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-16T11:01:20.484539+00:00",
+  "type": "news",
+  "cluster_id": "c043dbebe6751"
+ },
+ {
+  "title": "Ukrayna Parlamentosu, Sergiy Koretskiy'nin yeni başbakan olarak atanmasını onayladı",
+  "link": "https://www.aa.com.tr/tr/dunya/ukrayna-parlamentosu-sergiy-koretskiynin-yeni-basbakan-olarak-atanmasini-onayladi/4000255",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ukrayna Parlamentosu, Naftogaz Genel Müdürü Sergiy Koretskiy'nin başbakan olarak atanmasını onayladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-16T11:01:20.484539+00:00",
+  "type": "news",
+  "cluster_id": "ca7af397cddff"
+ },
+ {
   "title": "Uber, Delivery Hero için resmi satın alma süreci başlattı",
   "link": "https://www.aa.com.tr/tr/ekonomi/uber-delivery-hero-icin-resmi-satin-alma-sureci-baslatti/4000167",
   "source": "Anadolu Ajansı",
@@ -57348,85 +57444,5 @@
   "score": 6,
   "ts": "2026-06-03T21:00:56.277703+00:00",
   "cluster_id": "c61d2f2249e89"
- },
- {
-  "title": "Rusya’dan nükleer resti! Ne zaman kullanacaklarını açıkladı",
-  "link": "https://www.sozcu.com.tr/rusya-dan-nukleer-resti-ne-zaman-kullanacaklarini-acikladi-p324997",
-  "source": "Sözcü",
-  "summary_tr": "Rusya Dışişleri Bakan Yardımcısı Ryabkov, ülkenin toprak bütünlüğüne teşebbüs durumunda nükleer silah kullanacağını açıkladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-03T20:51:41.881358+00:00",
-  "cluster_id": "cfef874de1bdf"
- },
- {
-  "title": "Son dakika...ABD- İran müzakeresinde yeni tarih",
-  "link": "https://www.sozcu.com.tr/son-dakika-abd-iran-muzakeresinde-yeni-tarih-p325004",
-  "source": "Sözcü",
-  "summary_tr": "ABD Başkanı Trump, İran ile nükleer müzakerelerde anlaşmaya yakın olduklarını açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T20:51:41.881358+00:00",
-  "cluster_id": "c1d1be92afd6c"
- },
- {
-  "title": "US consumers, businesses squeezed by inflation, Fed survey shows",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZXgwNGZ5MmpkYzNQRDlxQ2NJbTJVOVNUa0JZT2s2LTE1cENuYlJZTFZacmhpRkg3RVVMUktnN0hrLTZjY1FYOXh6WGNvRmpVaHl2bmUyWEJ1Q2p2TkRiS256U2ZzODVJbWNUcE4zR0FJT1pENkpjQWlTV1Q0TVJVc3dHRXBhUGdwZVRXVG5sSGJuQzJvSVhSZUFCVVVoYzhXNkNRZEtmdXAzdXJEZUlTSWtMcw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Fed araştırması, ABD tüketicileri ve işletmelerinin enflasyondan sıkıştırıldığını gösteriyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T20:51:41.881358+00:00",
-  "cluster_id": "c13565c597dae"
- },
- {
-  "title": "ABD Dışişleri Bakanı Rubio, Venezuela'da \"en kısa sürede\" seçim komisyonu kurulması çağrısı yaptı",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-disisleri-bakani-rubio-venezuelada-en-kisa-surede-secim-komisyonu-kurulmasi-cagrisi-yapti/3955864",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Dışişleri Bakanı Rubio, Venezuela'da en kısa sürede seçim komisyonu kurulması çağrısı yaptı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T20:51:41.881358+00:00",
-  "cluster_id": "c0979a20caf4e"
- },
- {
-  "title": "Erakçi, ABD ile iletişimin kesilmediğini ancak müzakere sürecinde somut bir ilerleme kaydedilmediğini söyledi",
-  "link": "https://www.aa.com.tr/tr/dunya/erakci-abd-ile-iletisimin-kesilmedigini-ancak-muzakere-surecinde-somut-bir-ilerleme-kaydedilmedigini-soyledi/3955857",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran Dışişleri Bakanı Erakçi, ABD ile iletişimin devam ettiğini, ancak Beyrut saldırılarının durdurulması gerektiğini söyledi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-03T20:51:41.881358+00:00",
-  "cluster_id": "ce444b9bcc6e2"
- },
- {
-  "title": "Erdoğan’a bir iyi haber de Trump’tan: NATO zirvesine geliyor",
-  "link": "https://yetkinreport.com/2026/06/03/erdogana-bir-iyi-haber-de-trumptan-nato-zirvesine-geliyor/",
-  "source": "YetkinReport",
-  "summary_tr": "Trump, 7-8 Temmuz'da Ankara'da yapılacak NATO Zirvesi'ne katılacağını ABD Dışişleri Bakanı Rubio aracılığıyla açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T20:01:08.004615+00:00",
-  "cluster_id": "c51072d1012ee"
- },
- {
-  "title": "Irak'ta “silahın yalnızca devletin elinde toplanması” için kurulan komitenin çalışmalarına başladığı duyuruldu",
-  "link": "https://www.aa.com.tr/tr/dunya/irakta-silahin-yalnizca-devletin-elinde-toplanmasi-icin-kurulan-komitenin-calismalarina-basladigi-duyuruldu/3955828",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Irak, silahın yalnızca devletin kontrolünde olmasını sağlamak için Başbakan Ali ez-Zeydi'nin talimatıyla bir komite kurdu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T20:01:08.004615+00:00",
-  "cluster_id": "c1788f2afe481"
- },
- {
-  "title": "Fed'in Bej Kitabı, enerji maliyetlerinin enflasyonist baskıların itici gücü olarak görüldüğünü gösterdi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/fedin-bej-kitabi-enerji-maliyetlerinin-enflasyonist-baskilarin-itici-gucu-olarak-goruldugunu-gosterdi/3955821",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Fed'in Bej Kitabı, Orta Doğu çatışmalarına bağlı enerji maliyetlerinin enflasyonist baskıların ana itici gücü olduğunu gösterdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T20:01:08.004615+00:00",
-  "cluster_id": "c46cafc9ed04b"
  }
 ]
