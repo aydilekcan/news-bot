@@ -1,5 +1,77 @@
 [
  {
+  "title": "ABD, İran'a başlattığı son saldırı dalgasını bitirdi",
+  "link": "https://www.trthaber.com/haber/dunya/abd-irana-baslattigi-son-saldiri-dalgasini-bitirdi-951345.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD, İran'a karşı başlattığı son saldırı dalgasını tamamladığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-16T06:01:14.988464+00:00",
+  "type": "news",
+  "cluster_id": "caf75934bd243"
+ },
+ {
+  "title": "China's record consumer defaults undermine Beijing's push to boost spending",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMEJHUEN2amRSQmw5SGtqZ2lLRG5zcm80NnZQTjZWc3R5V2xVRUNYeC1QeEFwQmF4S1FkZWRzYjZJa0dRQWdrWE9HS0VXZXVIc1pWQkZnWHNaUVFPMzFsWmdJTTVZUWlRVGZMQTRSd1V0UlZ1TzJmZ0czcGFXazAtaG5JTVEtMlB4cW12SXdaMFN4bFdRbW5KRUNYaVo5a2VWUEhCMkRoSlJDN3lCWjlycFBCYzdpQjRaZXFYNGctTHk?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin'de rekor tüketici borcları, hükümetin harcama artışı hedefini zayıflatıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-16T06:01:14.988464+00:00",
+  "type": "news",
+  "cluster_id": "c74bc66d06562"
+ },
+ {
+  "title": "US imposes 25% tariff on some imports from Brazil",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbGRpMHZ2OHBuOU0tdVU1ZDFaQ29kd2RUNTZxV0VDWGVDcHBtSmxZal9LZjhWMC14T3pwcUt1RHFfUFJ6bDJYMUgyYjFCd293dVlnUndVLXZRS2VkR1AtUVhyZzVraVczVHRNMmNzWGdlNHBONEhnUnYxTlR3d3p2aUxYLW5JVTI1RkgtODEzX3lIUG8?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, Brezila'dan bazı ithalatlarına %25 tarife uygulamaya başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-16T06:01:14.988464+00:00",
+  "type": "news",
+  "cluster_id": "c8c12afa87522"
+ },
+ {
+  "title": "Reuters: Yemeksepeti satılabilir",
+  "link": "https://www.diken.com.tr/reuters-yemeksepeti-satilabilir/?utm_source=rss&utm_medium=rss&utm_campaign=reuters-yemeksepeti-satilabilir",
+  "source": "Diken",
+  "summary_tr": "Delivery Hero'nun sahibi olduğu Yemeksepeti uygulaması satılabilir hale geldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-16T06:01:14.988464+00:00",
+  "type": "news",
+  "cluster_id": "c059dbadd7e80"
+ },
+ {
+  "title": "Oil prices turn lower as traders weigh impact of renewed US strikes on Iran",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ09hT2dSaHFGQjJ2ckhSbUVfdGhGdVZYLXA4SGZ2ZWJCNTlkQU1LN2pYdURFX2F1QTFhNnVCMzZjMklKRXowdnF1YjdXSDR2TGVHMjBSb21pT1JmT3ZuNTNEWktLd3FZNlFHV29fVDhmTElfVXUxOWs0RDdWUHg2Qkt0QXJpMTgxUm02a08yOVBxRTJTOUhiSkVtQXBKclFWQUppMThudWFvV3dXejYyN3BBMzhiM2JKUXc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Petrol fiyatları, ABD'nin İran'a yönelik yeni saldırılarının etkisinin tartışılması üzerine düştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-16T06:01:14.988464+00:00",
+  "type": "news",
+  "cluster_id": "ca660f46377ff"
+ },
+ {
+  "title": "TSMC posts 77% profit jump for Q2, surging past market expectations",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUk5mYmNUVFNRQ1VkeFE1RHUyQzZEb1YzRncyMVVTR2VSdVZiaFJRM0Q3RWNXZUl6c3JQV2xldkowNmdKUTNzVmZvVGt3NDZjZy1lN0I3S1Y4a2dvT2psbUNvVFhjWW12ckZLREdHeWlweUgzbGJ6UG0za25BRGlpcVlhMkJpRHFkVVFZWWRZeFVIV18xelNBV2x1QWF3aFAyY1NydG1pWmpCWDJNY1ZF?oc=5",
+  "source": "Reuters",
+  "summary_tr": "TSMC, 2. çeyrek dönem karını %77 artırarak pazar beklentilerini aştı.",
+  "metric": "TSMC net kar +%77",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-16T06:01:14.988464+00:00",
+  "type": "news",
+  "cluster_id": "c7490e9a54bb1"
+ },
+ {
   "title": "BOK hikes rates for first time in 3-1/2 years, signals more",
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFJ6VVR1ZnRmU2FSeHRiRnJHa1ZvZE0tQ05aUkRScnBKSE94Yk1sWGNQQUU5N3NZdjVGSWhsX3Nsd1JsTnEtWUEwamRyX19QOHFBTjNjYV9GTUJSd0JydDdCaDI0YThvWUJFLXd2SVJrT09hS0VuRS1RTXhUa0pDQmpsTW9zM1RXSzlCM0g1UXdNdk5QempFMWFJelBYZWFmRF9PbVFHR1dlNEV1TEV1bXktS2RuczJMRzlr?oc=5",
   "source": "Reuters",
@@ -57272,65 +57344,5 @@
   "score": 6,
   "ts": "2026-06-03T16:01:13.753263+00:00",
   "cluster_id": "c505a6aed432b"
- },
- {
-  "title": "Kılıçdaroğlu'na bir şok da kadın il başkanlarından",
-  "link": "https://www.sozcu.com.tr/kilicdaroglu-na-bir-sok-da-kadin-il-baskanlarindan-p324962",
-  "source": "Sözcü",
-  "summary_tr": "CHP kadın il başkanları, Özgür Özel'in yanında olduklarını ortak açıklamayla duyurdu.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-03T16:01:13.753263+00:00",
-  "cluster_id": "c79c2381c6ebb"
- },
- {
-  "title": "İran-ABD hattında tırmanış: Kuveyt'te bir ölü onlarca yaralı",
-  "link": "https://www.dw.com/tr/iran-abd-hattında-tırmanış-kuveyt-te-bir-ölü-onlarca-yaralı/a-77409957?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "İran, ABD'nin saldırısına yanıt olarak Kuveyt'i vurdu; 1 ölü, onlarca yaralı; Ortadoğu'da İran-ABD gerilimi tırmandı.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-03T15:01:08.888463+00:00",
-  "cluster_id": "ce8a1df1a29d8"
- },
- {
-  "title": "Iran strikes Kuwait’s main airport and kills 1 as ceasefire is tested again",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMWw3aG9uNmppOHRXVF9yQ2tkOGdlN3g5c2FnQllkOUxxYXhqSUVoUlRYc21pVHlHdjNFOE1nbDZjNlYta2dsVW4tUV9kekZFM2NVWUZ2UGRXSzZkXzBmSm54VTdlb2FBQkdsVHJnQ0R1aEJncGF5N2xPaEdGVDdWZG1vaS1WQU9EeVJZZWJzQlgyaWV1S21MNmhQT1pXb0tNbXBrbzQ0bmRaQXFjQ3JETEpCVVM3Zw?oc=5",
-  "source": "AP",
-  "summary_tr": "İran, Kuveyt'in ana havalimanını vurarak ateşkesi ihlal etti; 1 ölü.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-03T15:01:08.888463+00:00",
-  "cluster_id": "c4dd353cdd1b1"
- },
- {
-  "title": "Rusya'da ekonomi forumu başlarken Ukrayna İHA'ları saldırı düzenledi",
-  "link": "https://www.bbc.com/turkce/articles/c8e8n1976d7o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Rusya'nın ekonomi forumunun açılışı sırasında Ukrayna İHA'ları saldırı düzenledi; Rusya önceki gün Ukrayna'da 21 kişi öldürmüştü.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-03T15:01:08.888463+00:00",
-  "cluster_id": "c26c471924b60"
- },
- {
-  "title": "12. Yargı Paketi hazır: İçinde neler var?",
-  "link": "https://www.dw.com/tr/12-yargı-paketi-hazır-içinde-neler-var/a-77406710?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "12. Yargı Paketi hazırlandı: Çocuk suçluların üst hapis sınırı 18 yıla çıkıyor, cinsiyet değiştirilme düzenlemeleri içeriyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T15:01:08.888463+00:00",
-  "cluster_id": "c3b6f26d37f4d"
- },
- {
-  "title": "Kuveyt’ten İran’a sert yanıt: 2 diplomat sınır dışı ediliyor",
-  "link": "https://www.cumhuriyet.com.tr/dunya/kuveyt-ten-iran-a-sert-yanit-2-diplomat-sinir-disi-ediliyor-2509016",
-  "source": "Cumhuriyet",
-  "summary_tr": "Kuveyt, İran'ın gece saldırılarına karşı iki İranlı diplomatı sınır dışı ediyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T15:01:08.888463+00:00",
-  "cluster_id": "c8101d2fc4a63"
  }
 ]
