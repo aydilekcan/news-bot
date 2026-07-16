@@ -1,5 +1,53 @@
 [
  {
+  "title": "Adaletsizliğe Meclis'te isyan",
+  "link": "https://www.sozcu.com.tr/adaletsizlige-meclis-te-isyan-p336869",
+  "source": "Sözcü",
+  "summary_tr": "Emekliler, AKP'nin en düşük emekli aylığını 23.552 liraya çıkaran düzenlemesine karşı çıkarak en az 10 bin lira ilave zam talep ediyor.",
+  "metric": "Asgari emekli aylığı: 23.552 TL (emekliler 10.000+ TL daha zam istiyor)",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-16T03:01:13.802548+00:00",
+  "type": "news",
+  "cluster_id": "c3c559976d5a4"
+ },
+ {
+  "title": "‘Devletin kollarında olmam gerekmez mi?’",
+  "link": "https://www.sozcu.com.tr/devletin-kollarinda-olmam-gerekmez-mi-p336872",
+  "source": "Sözcü",
+  "summary_tr": "PKK çatışmasında iki gözünü kaybeden gazi, protez maliyeti (135 bin lira) nedeniyle devlet desteği talep ediyor.",
+  "metric": "Protez değiştirme maliyeti: 135.000 TL",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-16T03:01:13.802548+00:00",
+  "type": "news",
+  "cluster_id": "cb2c2decee53f"
+ },
+ {
+  "title": "Fark ödemeleri ay sonunda hesapta",
+  "link": "https://www.sozcu.com.tr/fark-odemeleri-ay-sonunda-hesapta-p336866",
+  "source": "Sözcü",
+  "summary_tr": "15 Temmuz itibarıyla zamlı maaşlar hesaplara yatıyor; öğretmen, polis, doktor ve memurlar için fark ödemeleri ay sonunda yapılacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-16T03:01:13.802548+00:00",
+  "type": "news",
+  "cluster_id": "cbee16047b045"
+ },
+ {
+  "title": "Güneşten sonra nükleere kıyak",
+  "link": "https://www.sozcu.com.tr/gunesten-sonra-nukleere-kiyak-p336873",
+  "source": "Sözcü",
+  "summary_tr": "Hükümet, Suudi Arabistan'a güneş enerjisi santralleri için 30 yıllık alım garantisi sunarken, nükleer santral yatırımcılarına da vergi teşviki sağlıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-16T03:01:13.802548+00:00",
+  "type": "news",
+  "cluster_id": "c0324494dbbca"
+ },
+ {
   "title": "En düşük emekli aylığının artırılmasına yönelik önergeler reddedildi, sendikaların PTT düzenlemesine yönelik eleştirileri de dikkate alınmadı: İktidar itirazları kabul etmedi",
   "link": "https://www.cumhuriyet.com.tr/turkiye/en-dusuk-emekli-ayliginin-artirilmasina-yonelik-onergeler-reddedildi-sendikalarin-ptt-duzenlemesine-yonelik-elestirileri-de-dikkate-alinmadi-iktidar-itirazlari-kabul-etmedi-2521177",
   "source": "Cumhuriyet",
@@ -57272,45 +57320,5 @@
   "score": 9,
   "ts": "2026-06-03T14:01:16.316330+00:00",
   "cluster_id": "c834763270110"
- },
- {
-  "title": "Sarı: 9 Haziran'daki grup toplantısında Kemal Kılıçdaroğlu konuşacak",
-  "link": "https://www.bbc.com/turkce/articles/c1j26n3083do?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Kılıçdaroğlu 9 Haziran'da CHP grup toplantısında konuşacak.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T14:01:16.316330+00:00",
-  "cluster_id": "c0b0ae5cd56ca"
- },
- {
-  "title": "Putin'in en büyük utancı: St. Petersburg alev alev",
-  "link": "https://www.sozcu.com.tr/petersburg-p324932",
-  "source": "Sözcü",
-  "summary_tr": "Ukrayna dronları, Putin'in ekonomi forumunun açılış günü St. Petersburg'daki petrol terminalini vurdu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T14:01:16.316330+00:00",
-  "cluster_id": "c579e74569f95"
- },
- {
-  "title": "Ukrayna forum günü St. Petersburg’u hedef aldı: Rusya yüzlerce İHA düşürdüğünü duyurdu",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX2FqTlNmTm9GanBzTUh6bGZKSDZITGZGay1aQWhEYU5IUjI5aGtoUV9ZR2gyUFVXRm44M1U0NW1DVFdTbTRBQmY4T19pMEtaWE5KQ2ZkOUlhSUhPQjNLczNGZXpVeGRBS1pKRHpCNFpITjdMamhBNjVUbDhuUktBSGRGeHc3YU1icnhtbUJGMjM1b1ZSM3E0MWFlTTkwbXAyekRfZldocnNnWHVHVkxPT1BZd3MtNWpEVWlTVmp3?oc=5",
-  "source": "soL",
-  "summary_tr": "Ukrayna, Rusya'nın ekonomi forumu sırasında St. Petersburg'u hedef aldı; Rusya yüzlerce İHA düşürdüğünü duyurdu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T14:01:16.316330+00:00",
-  "cluster_id": "c99bccd9f7784"
- },
- {
-  "title": "Trump confirms he called Netanyahu crazy in phone call",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYXBGWXJkR0NIUGdJVW9WZjFkeEpvZkxxQXJCUGNfbVQzbF9OQkdEUEVab052cEpuYmNuM3drVWdaTUlmbG1wYzJsTEFFYU8xNm5qMXN5SjYzQ3BiMnowYWtLTTh2Y09Bdl9hMjljUGV2Q1FESnZfT1FMeWhaVnRjbERfY2o0anVINUhQMjd0VU96UDJGdU9lRzJpZE9ObnE3TndDUkEtekQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, Netanyahu'yu telefonda 'çılgın' diye tanımladığını doğruladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-03T14:01:16.316330+00:00",
-  "cluster_id": "cb42fc5574039"
  }
 ]
