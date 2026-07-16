@@ -1,5 +1,41 @@
 [
  {
+  "title": "BOK hikes rates for first time in 3-1/2 years, signals more",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFJ6VVR1ZnRmU2FSeHRiRnJHa1ZvZE0tQ05aUkRScnBKSE94Yk1sWGNQQUU5N3NZdjVGSWhsX3Nsd1JsTnEtWUEwamRyX19QOHFBTjNjYV9GTUJSd0JydDdCaDI0YThvWUJFLXd2SVJrT09hS0VuRS1RTXhUa0pDQmpsTW9zM1RXSzlCM0g1UXdNdk5QempFMWFJelBYZWFmRF9PbVFHR1dlNEV1TEV1bXktS2RuczJMRzlr?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Güney Kore Merkez Bankası (BOK) 3,5 yıldır ilk kez faiz oranını yükseltti ve ek artışlar sinyali verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-16T05:01:15.687311+00:00",
+  "type": "news",
+  "cluster_id": "c64fad8809805"
+ },
+ {
+  "title": "Erkan Aydoğanoğlu: 'Geçinebiliyor' görünenler bile her ay biraz daha geriye gidiyor",
+  "link": "https://www.diken.com.tr/erkan-aydoganoglu-gecinebiliyor-gorunenler-bile-her-ay-biraz-daha-geriye-gidiyor/?utm_source=rss&utm_medium=rss&utm_campaign=erkan-aydoganoglu-gecinebiliyor-gorunenler-bile-her-ay-biraz-daha-geriye-gidiyor",
+  "source": "Diken",
+  "summary_tr": "Ekonomist Erkan Aydoğanoğlu: Orta sınıf da dahil 'geçinebiliyor' görünenler her ay biraz daha geriye gidiyor, satın alma gücü düşüyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-16T05:01:15.687311+00:00",
+  "type": "news",
+  "cluster_id": "c97d4657e0a36"
+ },
+ {
+  "title": "Altın hem korkuyor hem de korkutuyor",
+  "link": "https://www.sozcu.com.tr/altin-hem-korkuyor-hem-de-korkutuyor-p336889",
+  "source": "Sözcü",
+  "summary_tr": "Orta Doğu'daki çatışmalar ve petrol fiyatlarındaki sert yükseliş, altın fiyatlarını ve enflasyon endişelerini artırıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-16T05:01:15.687311+00:00",
+  "type": "news",
+  "cluster_id": "c3f4f6a79a672"
+ },
+ {
   "title": "Oil prices rise for 4th day as US strikes on Iran raise fears of wider conflict",
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ09hT2dSaHFGQjJ2ckhSbUVfdGhGdVZYLXA4SGZ2ZWJCNTlkQU1LN2pYdURFX2F1QTFhNnVCMzZjMklKRXowdnF1YjdXSDR2TGVHMjBSb21pT1JmT3ZuNTNEWktLd3FZNlFHV29fVDhmTElfVXUxOWs0RDdWUHg2Qkt0QXJpMTgxUm02a08yOVBxRTJTOUhiSkVtQXBKclFWQUppMThudWFvV3dXejYyN3BBMzhiM2JKUXc?oc=5",
   "source": "Reuters",
@@ -57296,35 +57332,5 @@
   "score": 7,
   "ts": "2026-06-03T15:01:08.888463+00:00",
   "cluster_id": "c8101d2fc4a63"
- },
- {
-  "title": "DEM Partili Sezai Temelli: 'IBAN mağdurlarına ilişkin düzenleme mutlaka 12. Yargı Paketi'ne eklenmeli'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/dem-partili-sezai-temelli-iban-magdurlarina-iliskin-duzenleme-mutlaka-12-yargi-paketi-ne-eklenmeli-2509019",
-  "source": "Cumhuriyet",
-  "summary_tr": "DEM Parti, IBAN'ına yanlışlıkla para gelen mağdurların TCK 158 kapsamında korunması için 12. Yargı Paketi'ne düzenleme eklenmesi istedi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-03T15:01:08.888463+00:00",
-  "cluster_id": "c93687c8802f9"
- },
- {
-  "title": "Çiftçi üretirken cezalandırıldı ithalat ise rekor kırdı: Buğdayda büyük çöküş...",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/ciftci-uretirken-cezalandirildi-ithalat-ise-rekor-kirdi-bugdayda-buyuk-cokus-2509014",
-  "source": "Cumhuriyet",
-  "summary_tr": "Türkiye'de buğday-arpa üretiminde alarm: Ekim alanlarının %40'ı bu ürünleri kaplarken üretim düşüyor, ithalat artıyor.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-03T15:01:08.888463+00:00",
-  "cluster_id": "c587b467ad077"
- },
- {
-  "title": "Bakan Gürlek: 140 yeni mahkeme kuruldu",
-  "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-140-yeni-mahkeme-kuruldu-947052.html",
-  "source": "TRT Haber",
-  "summary_tr": "Adalet Bakanı Gürlek, yargılamaların hızlanması amacıyla 140 yeni mahkeme kurulduğunu açıkladı.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-03T15:01:08.888463+00:00",
-  "cluster_id": "c5efadcb475fc"
  }
 ]
