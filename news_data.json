@@ -1,5 +1,65 @@
 [
  {
+  "title": "PKK'nın kurucularından Duran Kalkan: 'Bu süreç batmayacak'",
+  "link": "https://www.bbc.com/turkce/articles/c62xmz8d2emo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "PKK kurucusu Duran Kalkan, hükümetin 'Terörsüz Türkiye' adlı yeni çözüm sürecinin başarılı olacağını savundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-17T16:01:07.843175+00:00",
+  "type": "news",
+  "cluster_id": "c5b4eadbfdf66"
+ },
+ {
+  "title": "Yeni dokunulmazlık fezlekeleri TBMM'de",
+  "link": "https://www.trthaber.com/haber/gundem/yeni-dokunulmazlik-fezlekeleri-tbmmde-951495.html",
+  "source": "TRT Haber",
+  "summary_tr": "TBMM Başkanlığı'na 7 milletvekiline ait 9 dokunulmazlık dosyası sunuldu; CHP Grup Başkanı Özel'in 3 dosyası daha önce Komisyon'a sevk edilmişti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-17T16:01:07.843175+00:00",
+  "type": "news",
+  "cluster_id": "c059cf8fa8024"
+ },
+ {
+  "title": "İstanbul'da taksimetre açılış ücreti ve kısa mesafe ücreti ne kadar oldu? İstanbul'da taksi ücreti ne kadar?",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-taksimetre-acilis-ucreti-ve-kisa-mesafe-ucreti-ne-kadar-oldu-istanbul-da-taksi-ucreti-ne-kadar-2521709",
+  "source": "Cumhuriyet",
+  "summary_tr": "İstanbul'da taksi ücretlerine zam yapıldı; taksimetre açılış ücreti ve kısa mesafe ücreti güncellendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-17T16:01:07.843175+00:00",
+  "type": "news",
+  "cluster_id": "cbaf29f195a36"
+ },
+ {
+  "title": "İstanbul'da ulaşıma ne kadar zam yapıldı? Marmaray, metro, otobüs ve vapur ücretleri ne kadar oldu?",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-toplu-ulasima-zam-mi-yapildi-istanbul-da-ulasima-ne-kadar-zam-yapildi-2521706",
+  "source": "Cumhuriyet",
+  "summary_tr": "İstanbul'da Marmaray, metro, otobüs ve vapur ücretlerine zam uygulandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-17T16:01:07.843175+00:00",
+  "type": "news",
+  "cluster_id": "c0be5d09b0bee"
+ },
+ {
+  "title": "İstanbullunun ulaşım masrafına yeni zam: Tam bilet 46,20 TL",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYjF5NjdCRGFHWDNBdVY5MnJNZWdIWm5XbjlMMmZFUDAxTVp3OS1RSU55c3FQaUNzR19BVnRWSFJ2dWh0cGNBeW5iNjNHOFVVTkt4dnZaR1NWV2pIdzBQWW5hckVOVlJRN2JEb3JPcTYxWTliY1dnei1xcnU0S0tuSTE4a3E3V0g0NVVTSEZIczY1MThZYmtRcnBDNA?oc=5",
+  "source": "soL",
+  "summary_tr": "İstanbul'da toplu ulaşım ücretine zam: tam bilet 46,20 TL oldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-17T16:01:07.843175+00:00",
+  "type": "news",
+  "cluster_id": "cd95e53e2b5e8"
+ },
+ {
   "title": "Dokuz dokunulmazlık tezkeresi Meclis'te: Özel'in üç dosyası dahil",
   "link": "https://www.diken.com.tr/dokuz-dokunulmazlik-tezkeresi-mecliste-ozelin-uc-dosyasi-dahil/?utm_source=rss&utm_medium=rss&utm_campaign=dokuz-dokunulmazlik-tezkeresi-mecliste-ozelin-uc-dosyasi-dahil",
   "source": "Diken",
@@ -57776,55 +57836,5 @@
   "score": 8,
   "ts": "2026-06-05T07:01:07.769359+00:00",
   "cluster_id": "c8845e91396b8"
- },
- {
-  "title": "2.500 kilometre menzilli füzeleri tam alacaklardı: Rusya'dan korkup satmaktan vazgeçtiler",
-  "link": "https://www.sozcu.com.tr/2-500-kilometre-menzilli-fuzeleri-tam-alacaklardi-rusya-dan-korkup-satmaktan-vazgectiler-p325390",
-  "source": "Sözcü",
-  "summary_tr": "ABD, Rusya misilleme kaygısıyla Almanya'ya 2.500 km menzilli Tomahawk füzesi gönderme planını iptal etti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-05T07:01:07.769359+00:00",
-  "cluster_id": "c4f06ef447829"
- },
- {
-  "title": "İsrail'den, ABD'nin ateşkes girişiminin başarısız olmasının arından Lübnan'daki bazı beldelere saldırı tehdidi",
-  "link": "https://www.aa.com.tr/tr/dunya/israilden-abdnin-ateskes-girisiminin-basarisiz-olmasinin-arindan-lubnandaki-bazi-beldelere-saldiri-tehdidi/3957163",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD ateşkes girişimi başarısız olduktan sonra İsrail, Lübnan'daki beldelere saldırı tehdidinde bulundu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-05T07:01:07.769359+00:00",
-  "cluster_id": "c5bab21b2d411"
- },
- {
-  "title": "Soykırımcı İsrail'den Lübnan halkına tehdit",
-  "link": "https://www.trthaber.com/haber/dunya/soykirimci-israilden-lubnan-halkina-tehdit-947235.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD ateşkes girişimi başarısız olduktan sonra İsrail, Lübnan'daki beldelere saldırı tehdidinde bulundu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-05T07:01:07.769359+00:00",
-  "cluster_id": "cb0a6d6aaed11"
- },
- {
-  "title": "Sevda Karaca'dan AYM'nin 'süresiz nafaka' kararına tepki: 'Nafaka hakkından vazgeçmiyoruz'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/sevda-karaca-dan-aym-nin-suresiz-nafaka-kararina-tepki-nafaka-hakkindan-vazgecmiyoruz-2509531",
-  "source": "Cumhuriyet",
-  "summary_tr": "Anayasa Mahkemesi 'süresiz nafaka' düzenlemesinin iptali kararı verdi. CHP milletvekili Sevda Karaca kararı eleştirdi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-05T07:01:07.769359+00:00",
-  "cluster_id": "c24c11b2ec65f"
- },
- {
-  "title": "Kartal'daki duruşma için Silivri'den çıkarılan İmamoğlu geri götürüldü",
-  "link": "https://www.sozcu.com.tr/kartal-daki-durusma-icin-silivri-den-cikarilan-imamoglu-geri-getirildi-p325392",
-  "source": "Sözcü",
-  "summary_tr": "Tutuklu İBB Başkanı Ekrem İmamoğlu Kartal'daki duruşmaya katılmak için Silivri'den çıkarıldı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-05T07:01:07.769359+00:00",
-  "cluster_id": "c2ac323e93c21"
  }
 ]
