@@ -1,5 +1,125 @@
 [
  {
+  "title": "Rusya'dan, ABD ile İran'a derhal ateşkes çağrısı",
+  "link": "https://www.sozcu.com.tr/rusya-dan-abd-ile-iran-a-derhal-ateskes-cagrisi-p337406",
+  "source": "Sözcü",
+  "summary_tr": "Rusya Dışişleri Bakanı Lavrov, ABD ile İran arasında derhal ateşkes sağlanması çağrısında bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-17T17:01:16.551864+00:00",
+  "type": "news",
+  "cluster_id": "c0ac9d8e200da"
+ },
+ {
+  "title": "Rusya Dışişleri Bakanı Lavrov, ABD ile İran'a derhal ateşkes çağrısında bulundu",
+  "link": "https://www.aa.com.tr/tr/dunya/rusya-disisleri-bakani-lavrov-abd-ile-irana-derhal-ateskes-cagrisinda-bulundu/4001667",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Rusya Dışişleri Bakanı Lavrov, ABD ile İran arasında derhal ateşkes sağlanması çağrısında bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-17T17:01:16.551864+00:00",
+  "type": "news",
+  "cluster_id": "c0ac9d8e200da"
+ },
+ {
+  "title": "Fransa, Rusya'nın Paris Büyükelçiliği Maslahatgüzarı'nı Dışişleri Bakanlığına çağırdı",
+  "link": "https://www.aa.com.tr/tr/dunya/fransa-rusyanin-paris-buyukelciligi-maslahatguzarini-disisleri-bakanligina-cagirdi/4001687",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Fransa, siber faaliyetler gerekçesiyle Rusya'nın Paris Büyükelçiliği Maslahatgüzarı'nı Dışişleri Bakanlığına çağırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-17T17:01:16.551864+00:00",
+  "type": "news",
+  "cluster_id": "c42fce33c3cf0"
+ },
+ {
+  "title": "Yatırımda haftalık tablo: Gram altın yüzde 2,45 düştü",
+  "link": "https://www.diken.com.tr/yatirimda-haftalik-tablo-gram-altin-yuzde-245-dustu/?utm_source=rss&utm_medium=rss&utm_campaign=yatirimda-haftalik-tablo-gram-altin-yuzde-245-dustu",
+  "source": "Diken",
+  "summary_tr": "Gram altın bu hafta %2,45 düştü.",
+  "metric": "Gram altın %2,45 düştü",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-17T17:01:16.551864+00:00",
+  "type": "news",
+  "cluster_id": "c97b14d8762a8"
+ },
+ {
+  "title": "AFP Türkiye grevi kazanımla sonuçlandı: Gazeteciler ücret artışı ve ek haklar kazandı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/afp-turkiye-grevi-kazanimla-sonuclandi-gazeteciler-ucret-artisi-ve-ek-haklar-kazandi-2521717",
+  "source": "Cumhuriyet",
+  "summary_tr": "AFP Türkiye ile gazeteciler sendikası toplu iş sözleşmesinde uzlaştı; gazeteciler ücret artışı ve ek haklar kazandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-17T17:01:16.551864+00:00",
+  "type": "news",
+  "cluster_id": "c74d7789aac02"
+ },
+ {
+  "title": "Meksika açıklarında 7,3 ve 5,3 büyüklüğünde iki deprem: Tsunami uyarısı yapıldı",
+  "link": "https://www.sozcu.com.tr/meksika-da-deprem-17-temmuz-2026-p337398",
+  "source": "Sözcü",
+  "summary_tr": "Meksika açıklarında 7,3 büyüklüğünde deprem meydana geldi; tsunami uyarısı yapıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-17T17:01:16.551864+00:00",
+  "type": "news",
+  "cluster_id": "c1a1a788565fb"
+ },
+ {
+  "title": "Meksika açıklarında 7,3 ve 5,3 büyüklüğünde deprem meydana geldi",
+  "link": "https://www.trthaber.com/haber/dunya/meksika-aciklarinda-73-ve-53-buyuklugunde-deprem-meydana-geldi-951497.html",
+  "source": "TRT Haber",
+  "summary_tr": "Meksika açıklarında 7,3 ve 5,3 büyüklüğünde iki deprem meydana geldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-17T17:01:16.551864+00:00",
+  "type": "news",
+  "cluster_id": "c1a1a788565fb"
+ },
+ {
+  "title": "Bakan Yumaklı, 237 milyon lira tarımsal destek ödemesinin yapılacağını bildirdi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-237-milyon-lira-tarimsal-destek-odemesinin-yapilacagini-bildirdi/4001680",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Tarım Bakanı Yumaklı, 237 milyon lira tarımsal destek ödemesinin çiftçilere yapılacağını bildirdi.",
+  "metric": "237 milyon lira tarımsal destek ödemesi",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-17T17:01:16.551864+00:00",
+  "type": "news",
+  "cluster_id": "cb1acfced138a"
+ },
+ {
+  "title": "Almanya ile Fransa, başarısız savaş uçağı planının ardından yeni savunma işbirliğine gidecek",
+  "link": "https://www.aa.com.tr/tr/dunya/almanya-ile-fransa-basarisiz-savas-ucagi-planinin-ardindan-yeni-savunma-isbirligine-gidecek/4001603",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Almanya ve Fransa, başarısız ortak savaş uçağı planının ardından yeni savunma işbirliğine gidecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-17T17:01:16.551864+00:00",
+  "type": "news",
+  "cluster_id": "c4d4ff2a4dd1b"
+ },
+ {
+  "title": "Strong quake hits Mexican coast near Guatemala, triggers tsunami threat",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHJ6aE83OVlCb0JKd0VjVGtyRDhVNFBabUQydmNHVVNSMVZPYjdBd0RMQnpKWHdsR3Y4SDJ1VVZwWHkxTVN3ZTY3Wjd5WURKTndxUDl4M1Y1bGNGcVR1eXJWekRmREczcE5aOTlBaGhINTlBSjI1bHgzYWlLNkNMSzZSWm5waXZTRGhtZ2tKUV9tek9lbVlFazlEQ1paZGtDaGZ3Q0VlWkVVMEU?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Meksika kıyılarında 7,3 büyüklüğünde deprem; tsunami tehdidi oluştu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-17T17:01:16.551864+00:00",
+  "type": "news",
+  "cluster_id": "c69ba77ffab48"
+ },
+ {
   "title": "PKK'nın kurucularından Duran Kalkan: 'Bu süreç batmayacak'",
   "link": "https://www.bbc.com/turkce/articles/c62xmz8d2emo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -57736,105 +57856,5 @@
   "score": 8,
   "ts": "2026-06-05T08:01:04.208470+00:00",
   "cluster_id": "ce4c3ad64a49f"
- },
- {
-  "title": "Mayıs enflasyonu belli oldu",
-  "link": "https://www.trthaber.com/haber/ekonomi/mayis-enflasyonu-belli-oldu-947242.html",
-  "source": "TRT Haber",
-  "summary_tr": "Mayıs TÜFE aylık %1,71, yıllık %32,61 arttı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-05T08:01:04.208470+00:00",
-  "cluster_id": "c0e900ee18b4f"
- },
- {
-  "title": "Hürmüz Boğazı'nda İHA saldırısı dev limanı kapattı",
-  "link": "https://www.sozcu.com.tr/hurmuz-bogazi-nda-iha-saldirisi-dev-limani-kapatti-p325420",
-  "source": "Sözcü",
-  "summary_tr": "İHA saldırısı Umman'ın Salalah Limanı'ndaki yakıt depolarını ve vinç vurdu; terminal faaliyetleri durdu.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T08:01:04.208470+00:00",
-  "cluster_id": "c19960b1196df"
- },
- {
-  "title": "Mayıs ayının zam şampiyonu belli oldu",
-  "link": "https://www.sozcu.com.tr/mayis-ayinin-zam-sampiyonu-belli-oldu-p325419",
-  "source": "Sözcü",
-  "summary_tr": "Mayıs ayında yurt içi uçak biletleri %15,65 ile en yüksek zam gördü.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T08:01:04.208470+00:00",
-  "cluster_id": "ccd7c119c69a8"
- },
- {
-  "title": "Sanayide verimlilik ilk çeyrekte yükseldi",
-  "link": "https://www.sozcu.com.tr/sanayide-verimlilik-ilk-ceyrekte-yukseldi-p325417",
-  "source": "Sözcü",
-  "summary_tr": "Sanayi verimlilik endeksi 2026 ilk çeyreğinde çalışan başına %3 arttı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T08:01:04.208470+00:00",
-  "cluster_id": "cfec5ff909a2b"
- },
- {
-  "title": "TMO çiftçilere ürün paralarını erken ödemeyi planlıyor",
-  "link": "https://www.trthaber.com/haber/ekonomi/tmo-ciftcilere-urun-paralarini-erken-odemeyi-planliyor-947246.html",
-  "source": "TRT Haber",
-  "summary_tr": "TMO çiftçilere ürün paralarının erken ödenmesini planlıyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T08:01:04.208470+00:00",
-  "cluster_id": "ce48f350d44b1"
- },
- {
-  "title": "Sanayide çalışan kişi başına üretim endeksi ilk çeyrekte yıllık bazda yüzde 3 arttı",
-  "link": "https://www.trthaber.com/haber/ekonomi/sanayide-calisan-kisi-basina-uretim-endeksi-ilk-ceyrekte-yillik-bazda-yuzde-3-artti-947244.html",
-  "source": "TRT Haber",
-  "summary_tr": "Sanayide çalışan kişi başına üretim endeksi ilk çeyrekte yıllık %3 arttı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T08:01:04.208470+00:00",
-  "cluster_id": "c517cae6299d3"
- },
- {
-  "title": "Oman says Mina al Fahal terminal operations normal after reported oil export halt",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN09XbDZ2X3c4NmJuMHFyWUltX3Q3VVRaTnBxVEZUWkdROVdPQ04zalFzX3E5RXY4bVVqTlB6akdjS1NSaTk2RmR5eFRIOVBiM29WdURtZ2FwcVpwOHpOZWE5LWoycXRudmlJd21ubUQyMXVNUXRHVkpzQXJYck1NcHI4MktzcS1XVGtfTF9rRFdWZndObzR1aGtZVldSOEVraGUtTndVRk9lUTZ0ZU9SRjB0ek5xeXhtUWtBZENLX2NIMThFekQ3ZzNZTXU?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Umman Mina al Fahal terminal operasyonlarının normal olduğunu açıkladı; ihracat durdurma haberlerini yalanladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T08:01:04.208470+00:00",
-  "cluster_id": "c71a863649207"
- },
- {
-  "title": "India ramps up support for faltering rupee after holding fire on rates",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUHNYYmwybW5sTVN2MVdxZndGODhiTFE5Y0xZRU14bU1tYnQtZU9zenpHZVBkRGRmWDQ4TExyNHJYelNSb01POWdXY0cxNmpxcmZ0ODZpeU1vdzI3RmhBbFFHcEd6dUw3Q0owRUxPUVdRLTFvVEpVZTFqRWFUdW1MTHBLZ19fbHdoaFJDN05lOURnT29fMlRYVjRDdVIzSmlzV0g5bldsZW5FQkdCbnIxMzZ4Q1hGZWRBSEtKcnNiT3QzVFd0?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Hindistan faiz kararında tutum almaktan kaçınırken rüpe desteğini artırdı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T08:01:04.208470+00:00",
-  "cluster_id": "c5951475828ed"
- },
- {
-  "title": "ENAG mayıs ayı enflasyon oranını %53,13 olarak açıkladı",
-  "link": "https://www.bbc.com/turkce/articles/c8xw008ll85o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "TÜİK mayıs enflasyon oranını %53,13 olarak açıkladı. Tüketici Fiyat Endeksi verileri açıklanıyor.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-05T07:01:07.769359+00:00",
-  "cluster_id": "c6cd31ddda5e0"
- },
- {
-  "title": "Zelenski barış mektubu yazdı, Putin'e yolladı: Görüşmeler Türkiye'de mi olacak?",
-  "link": "https://www.sozcu.com.tr/zelenski-baris-mektubu-yazdi-putin-e-yolladi-gorusmeler-turkiye-de-mi-olacak-p325398",
-  "source": "Sözcü",
-  "summary_tr": "Zelenski Putin'e barış mektubu göndererek Türkiye'de yüz yüze görüşmeleri önerdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-05T07:01:07.769359+00:00",
-  "cluster_id": "c8845e91396b8"
  }
 ]
