@@ -1,5 +1,41 @@
 [
  {
+  "title": "US says it has ended its latest round of airstrikes targeting Iran",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYXFnZWtOU1NXb01HY2FxbTBsUmJqNDlaa3NORmpyZ0pYVzhSVFZkaUNYTjczY0E1YjhpR1F1OGRoT3dJNnVTMjVuUGJyamVCckJwMi1WY0hJR2NyVGQ0ZDdzbF9LMzgteGZDRGtMd0ZQV211YWF3cHpYLWdhTXZjTXVhTG1zRkRmR3Q1NVdQRWNEb2xhZU0zRTFodmM4ZXc?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD, İran'ı hedef alan hava saldırılarının son turunu sonlandırdığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-17T02:01:08.006949+00:00",
+  "type": "news",
+  "cluster_id": "c6f1bb2b63e7c"
+ },
+ {
+  "title": "Katar Savunma Bakanlığı: Ülkeyi hedef alan füze saldırıları engellendi",
+  "link": "https://www.trthaber.com/haber/dunya/katar-savunma-bakanligi-ulkeyi-hedef-alan-fuze-saldirilari-engellendi-951426.html",
+  "source": "TRT Haber",
+  "summary_tr": "Katar Savunma Bakanlığı, ülkeyi hedef alan füze saldırılarının başarıyla engellendiğini duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-17T02:01:08.006949+00:00",
+  "type": "news",
+  "cluster_id": "c5a4161bd5ff2"
+ },
+ {
+  "title": "İktidar, genel aydınlatma giderleri için daha fazla kesintiye hazırlanırken, muhalefet tepkili: ‘Belediyelere yük bindiriliyor’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/iktidar-genel-aydinlatma-giderleri-icin-daha-fazla-kesintiye-hazirlanirken-muhalefet-tepkili-belediyelere-yuk-bindiriliyor-2521519",
+  "source": "Cumhuriyet",
+  "summary_tr": "Hükümet, belediyeler tarafından karşılanacak genel aydınlatma giderlerinin kesintisini artırma planına gidiyor; muhalefet tepkili.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-17T02:01:08.006949+00:00",
+  "type": "news",
+  "cluster_id": "c522ddf97f46d"
+ },
+ {
   "title": "US expands its airstrike campaign against Iran by hitting more bridges",
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYXFnZWtOU1NXb01HY2FxbTBsUmJqNDlaa3NORmpyZ0pYVzhSVFZkaUNYTjczY0E1YjhpR1F1OGRoT3dJNnVTMjVuUGJyamVCckJwMi1WY0hJR2NyVGQ0ZDdzbF9LMzgteGZDRGtMd0ZQV211YWF3cHpYLWdhTXZjTXVhTG1zRkRmR3Q1NVdQRWNEb2xhZU0zRTFodmM4ZXc?oc=5",
   "source": "AP",
@@ -57604,35 +57640,5 @@
   "score": 6,
   "ts": "2026-06-04T15:01:16.593176+00:00",
   "cluster_id": "c70107a1ba349"
- },
- {
-  "title": "Sigorta sektörünün aktifleri ilk çeyrekte 4,2 trilyon liraya ulaştı",
-  "link": "https://www.trthaber.com/haber/ekonomi/sigorta-sektorunun-aktifleri-ilk-ceyrekte-42-trilyon-liraya-ulasti-947177.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye sigorta sektörünün toplam aktifleri yüzde 59 büyümeyle ilk çeyrekte 4,2 trilyon liraya ulaştı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-04T15:01:16.593176+00:00",
-  "cluster_id": "c4c1f35259829"
- },
- {
-  "title": "Özgür Özel ve üç milletvekili hakkında iki soruşturma dosyası daha Ankara’ya gönderildi",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcFNwaFA2RmlFb3pBbXNjYmVRendvRGNvcmJ1RzkyZG9neHdBdEFKOVFQdlBMUk9BNnYzc0VfRHNWRFRJQ1dKVlpyd3FxeWtIYnVrSE1LYW1CY19fWUwtN2U0Ry0wR0ZFZUhrdFA1SThtUzd4bkJQUmRFVFFKZG5pck11RVNWZ3RqOVVXRTBCT21RaUFFMFc5Z090a1oyQXlfeDZucTNSOVFDTnY5aUt3d1g3TTdWalBZN040OHU3UU1XUQ?oc=5",
-  "source": "soL",
-  "summary_tr": "Özgür Özel ve üç milletvekili hakkında iki soruşturma dosyası daha Ankara'ya gönderildi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-04T15:01:16.593176+00:00",
-  "cluster_id": "cbe6365fd481b"
- },
- {
-  "title": "CHP'de yeni Yüksek Disiplin Kurulu, Özel dönemindeki ihraçları iptal etti",
-  "link": "https://www.bbc.com/turkce/articles/c1j26n3083do?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "CHP Yüksek Disiplin Kurulu, 38. Olağan Kurultay'ının 'mutlak butlan' kararı sonrası Özel dönemindeki ihraçları iptal etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-04T14:01:08.249663+00:00",
-  "cluster_id": "cb0bbbff21319"
  }
 ]
