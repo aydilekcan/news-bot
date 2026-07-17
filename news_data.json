@@ -1,5 +1,89 @@
 [
  {
+  "title": "Konut fiyat endeksi bir yılda yüzde 24,5 yükseldi",
+  "link": "https://www.diken.com.tr/konut-fiyat-endeksi-bir-yilda-yuzde-245-yukseldi/?utm_source=rss&utm_medium=rss&utm_campaign=konut-fiyat-endeksi-bir-yilda-yuzde-245-yukseldi",
+  "source": "Diken",
+  "summary_tr": "Konut Fiyat Endeksi haziranda yıllık bazda %24,5 yükseldi.",
+  "metric": "Konut Fiyat Endeksi (yıllık) %24,5 artış",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-17T08:01:02.357520+00:00",
+  "type": "news",
+  "cluster_id": "c38249decc074"
+ },
+ {
+  "title": "Konut Fiyat Endeksi haziranda aylık bazda yüzde 2 arttı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/konut-fiyat-endeksi-haziranda-aylik-bazda-yuzde-2-artti/4001048",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Konut Fiyat Endeksi haziranda aylık %2, yıllık %24,5 arttı.",
+  "metric": "KFE (aylık) %2 / (yıllık) %24,5 artış",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-17T08:01:02.357520+00:00",
+  "type": "news",
+  "cluster_id": "c38249decc074"
+ },
+ {
+  "title": "Haziranda en çok hangi ülkenin vatandaşına konut satıldı? Gayrimenkulde yabancı ilgisi devam ediyor...",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/haziranda-en-cok-hangi-ulkenin-vatandasina-konut-satildi-gayrimenkulde-yabanci-ilgisi-devam-ediyor-2521579",
+  "source": "Cumhuriyet",
+  "summary_tr": "Haziranda Türkiye'de konut satışları yıllık bazda %15,8 artarak 129 bin 979'a ulaştı.",
+  "metric": "Konut satışları (yıllık) %15,8 artış -> 129.979 adet",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-17T08:01:02.357520+00:00",
+  "type": "news",
+  "cluster_id": "cea72857b22c6"
+ },
+ {
+  "title": "Türkiye'de haziranda 129 bin 979 konut satıldı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/turkiyede-haziranda-129-bin-979-konut-satildi/4001056",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Haziranda Türkiye'de 129 bin 979 konut satıldı, önceki yılın aynı ayına göre %15,8 artış kaydedildi.",
+  "metric": "Konut satışları (yıllık) %15,8 artış -> 129.979",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-17T08:01:02.357520+00:00",
+  "type": "news",
+  "cluster_id": "c1147871f0ff7"
+ },
+ {
+  "title": "12. Yargı Paketi yasalaştı: AYM'nin iptal ettiği HAGB yeniden düzenlendi",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZUNaYXFnZVVnZy11N3hmSTRVcjEzVXM4RjJiU24yODlMME5wWktNemczdHdQa29CVVRWOElVbmV0dVk0RV9zb2gzLWpQclllZndKNXF6MEJPeXBuVFpqLUJEODFXWjVxV1VmMHoxOWIybzY1ZzVTQmZZYnNic1YtdXVnZzdBT2JOOGxhMGVXOGpkbWNXdmUxVXlLbFdDT25KZ29DcWZHYXBVdzg?oc=5",
+  "source": "soL",
+  "summary_tr": "12. Yargı Paketi yasalaştı; Anayasa Mahkemesi'nin iptal ettiği HAGB yeniden düzenlendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-17T08:01:02.357520+00:00",
+  "type": "news",
+  "cluster_id": "c177750e06864"
+ },
+ {
+  "title": "Danske Bank'tan Euro, dolar ve sterlin tahmini: Beklentiler yukarı yönlü güncelledi",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/danske-bank-tan-euro-dolar-ve-sterlin-tahmini-beklentiler-yukari-yonlu-guncelledi-2521580",
+  "source": "Cumhuriyet",
+  "summary_tr": "Danske Bank, dolar, euro ve sterlin tahmini için beklentileri yukarı yönlü güncelleştirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-17T08:01:02.357520+00:00",
+  "type": "news",
+  "cluster_id": "c64d5a538baa3"
+ },
+ {
+  "title": "Trafiğe haziranda 194 bin 740 aracın kaydı yapıldı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/trafige-haziranda-194-bin-740-aracin-kaydi-yapildi/4001065",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Haziranda trafiğe 194 bin 740 araç kaydı yapılırken, toplam araç sayısı 188 bin 365 arttı.",
+  "metric": "Trafiğe kayıt aracı sayısı 194.740 (haziran)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-17T08:01:02.357520+00:00",
+  "type": "news",
+  "cluster_id": "c47dcc7286600"
+ },
+ {
   "title": "Iran launches fresh attacks after sixth day of US strikes",
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRW1QZlpEY3pwOHJJaDF2S2JVZG81S2xuakhndThpb1lLREpreFBCRW1TWTlZeFBGTFRaUER1dWRUU2FlaDlYTU9Yc0hzY3Juby0xSlRxN24yMGZvQ0ktN1NYcjVtZHc5a3F6UXQ5Qnc3aWNDNV84MV8ybWkxemptWEtlS1plM0kxQVNoM3A5RkpkUlZGSEtYbVVTN2RtNkhwc3VWZThNazhDTGpt?oc=5",
   "source": "Reuters",
@@ -57610,75 +57694,5 @@
   "score": 6,
   "ts": "2026-06-04T18:00:55.304992+00:00",
   "cluster_id": "c72d7440da2a8"
- },
- {
-  "title": "'İtirafçı ol, İBB davasını büyüt' iddiası: Kılıçdaroğlu'ndan gazeteci Timur Soykan hakkında suç duyurusu",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUnRCREh6WXMzUlFzTkhxMWZpRmVRSF81RzdNSEFLTTltY2czSFFRYWQ4ZFdZWmN2U1RNN01sYy1ndG82eUZacFNVTnpESW9tZjUwWHlENHUtZ3IzMVlWUmpPR251dzgwaHpoY1NjSS1WYWc0emdLM0tvdzNPYkFVbExjaUw1UGtlOERTaGZvM0p6dGhORE5hVXktQ3lwcWwyOGRTMlRfbVBmcm9XY3YxOWo5T3NPWG5BRVhUQmZ3?oc=5",
-  "source": "soL",
-  "summary_tr": "Kılıçdaroğlu, gazeteci Timur Soykan'ı 'İBB davasını büyütmeye yönelik itirafçı olmaya özendirmekle' suçlayarak adli şikayette bulundu.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-04T18:00:55.304992+00:00",
-  "cluster_id": "cf7085293fb43"
- },
- {
-  "title": "Romanian president nominates adviser Eugen Tomac as prime minister",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0NjSFJWV3VmbW1QRHhGMkc1VHJDS2dXTXpEdm4tSDliS0JaNk1nUEltN2J0UHNuY25obDNNNVpVdjVRTGZnWG1NVFBiVEJDRkFfVmVOT29TMjlsNUZXTEYzRFpJbE50bU0xLS1BRmtmOU1KY3kwblJUMC1QSlc1NzFHNEZaTTE2a1FVMXY3Tzh2YmFzUmVmTlp6NmlNWUxSb0ZrMGluNGM?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Romanya Cumhurbaşkanı, danışmanı Eugen Tomac'ı Başbakan adayı olarak atadı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-04T18:00:55.304992+00:00",
-  "cluster_id": "cecf46b30d341"
- },
- {
-  "title": "Ulaştırma ve Altyapı Bakanı Uraloğlu: Türkiye, uydu ihracatçısı ülkeler kategorisine girdi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/ulastirma-ve-altyapi-bakani-uraloglu-turkiye-uydu-ihracatcisi-ulkeler-kategorisine-girdi/3956608",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Ulaştırma Bakanı Uraloğlu: Türkiye TÜRKSAT 6A uydusunu hizmete aldı; ülke uydu ihracatçısı kategorisine girdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-04T17:01:44.239368+00:00",
-  "cluster_id": "ca0ffbf56487d"
- },
- {
-  "title": "Türkiye'nin 24 yıllık bankası satıldı: Yeni sahibi tanıdık çıktı",
-  "link": "https://www.sozcu.com.tr/turkiye-nin-24-yillik-bankasi-satildi-yeni-sahibi-tanidik-cikti-p325284",
-  "source": "Sözcü",
-  "summary_tr": "BankPozitif 24 yılın ardından Efor Çay'ın sahibine satıldı; TMSF ihalesinde mahkeme müdahalesi sonrasında yeni sahip belirlenmiş.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-04T17:01:44.239368+00:00",
-  "cluster_id": "cebe8821e2ca0"
- },
- {
-  "title": "TBMM Adalet Komisyonu Başkanı Yüksel, AYM'nin \"süresiz nafaka düzenlemesinin iptali\" kararını değerlendirdi",
-  "link": "https://www.aa.com.tr/tr/gundem/tbmm-adalet-komisyonu-baskani-yuksel-aymnin-suresiz-nafaka-duzenlemesinin-iptali-kararini-degerlendirdi/3956848",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Anayasa Mahkemesi süresiz nafaka düzenlemesini iptal etti; TBMM Adalet Komisyonu Başkanı kararı değerlendirdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-04T17:01:44.239368+00:00",
-  "cluster_id": "c19997b133f5f"
- },
- {
-  "title": "IMF'den ABD'nin enflasyon hedefine \"gecikmeli\" döneceği öngörüsü",
-  "link": "https://www.aa.com.tr/tr/ekonomi/imfden-abdnin-enflasyon-hedefine-gecikmeli-donecegi-ongorusu/3956846",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "IMF: ABD'nin enflasyon hedefine dönüşü gecikmeli olacak; Fed'in politikalarında yukarı yönlü riskler söz konusu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-04T17:01:44.239368+00:00",
-  "cluster_id": "cd672b77c4f14"
- },
- {
-  "title": "Kılıçdaroğlu’nun danışmanı görevine ‘geri döndü’: CHP Genel Merkezi’nde ‘bozkurtlu’ fotoğraf ortaya çıktı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/kilicdaroglu-nun-danismani-gorevine-geri-dondu-chp-genel-merkezi-nde-bozkurtlu-fotograf-ortaya-cikti-2509411",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'nin atanan yönetiminde Kılıçdaroğlu'nun danışmanı Ramazan Kubat göreve geri döndü; mahkeme kararıyla yönetim değişti.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-04T17:01:44.239368+00:00",
-  "cluster_id": "ca3f71e469e0e"
  }
 ]
