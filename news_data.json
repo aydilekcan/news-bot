@@ -1,5 +1,89 @@
 [
  {
+  "title": "İran'dan ABD'ye sivil altyapıyı hedef alma suçlaması",
+  "link": "https://www.bbc.com/turkce/articles/cze9e190y1zo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "İran ve ABD arasında karşılıklı saldırılar devam ediyor. ABD ordusu İran'daki köprüleri hedef aldı; İran misilleme tehdidi gösterdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-17T13:01:09.243608+00:00",
+  "type": "news",
+  "cluster_id": "c55d4ff9eda75"
+ },
+ {
+  "title": "İran Devrim Muhafızları: Suriye’de ABD komuta merkezini vurduk",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSG81Sm1ocmhRd3otdlJBRDVxRGs2SV9ocUI3Z1lOQUgtQ1lJZTQzUmRFdlpodW5zNklDbzBzT0d0MFZWc1VTVG1ZRlgxWko1M1JXU0dDcHp5dldGOWxvcXdCMlVmaUZfWWIwQ1pSM0h4Ui1JeXowNmJKaHloVDhEekNIOVliSW5hZEtsaENBSWQ3ajRFb2pYNVZiT1dsUlk?oc=5",
+  "source": "soL",
+  "summary_tr": "İran Devrim Muhafızları, Suriye'de ABD komuta merkezini vurduğunu duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-17T13:01:09.243608+00:00",
+  "type": "news",
+  "cluster_id": "cf15c10abc635"
+ },
+ {
+  "title": "Trump ulusa seslendi, Çin'in 2020 seçimine müdahale ettiğini öne sürdü",
+  "link": "https://www.bbc.com/turkce/articles/crmr223jnx8o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Trump, Çin'in 2020 ABD başkanlık seçimlerine müdahale ettiğini iddia etti. Çin Dışişleri Bakanlığı suçlamaları reddetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-17T13:01:09.243608+00:00",
+  "type": "news",
+  "cluster_id": "ce97b7c818dae"
+ },
+ {
+  "title": "İran Dışişleri Bakanı: İsrail, ABD'deki muhalifleri susturmak için yine ABD halkının dolarlarını kullanıyor",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-israil-abddeki-muhalifleri-susturmak-icin-yine-abd-halkinin-dolarlarini-kullaniyor/4001384",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Dışişleri Bakanı, İsrail'in ABD'yi manipülasyonlarla sonsuz savaşa çekmeye çalıştığını iddia etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-17T13:01:09.243608+00:00",
+  "type": "news",
+  "cluster_id": "ca2c23943f75c"
+ },
+ {
+  "title": "DEM Parti İmralı Heyeti İmralı Adası'na gidecek",
+  "link": "https://www.sozcu.com.tr/dem-parti-imrali-heyeti-imrali-adasi-na-gidecek-p337359",
+  "source": "Sözcü",
+  "summary_tr": "DEM Parti heyeti 23 Temmuz'da İmralı Adası'nda Abdullah Öcalan ile görüşme yapacak.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-17T13:01:09.243608+00:00",
+  "type": "news",
+  "cluster_id": "ccf13277d12c7"
+ },
+ {
+  "title": "Bankalarda mevduat yeniden yükselişte! Toplam tutar 31,4 trilyon lirayı aştı",
+  "link": "https://www.sozcu.com.tr/bankalarda-mevduat-yeniden-yukseliste-toplam-tutar-31-4-trilyon-lirayi-asti-p337355",
+  "source": "Sözcü",
+  "summary_tr": "Bankalardaki toplam mevduat 31 trilyon 458 milyar liraya yükseldi; haftalık 85,8 milyar lira artış.",
+  "metric": "Mevduat 31.372 milyar -> 31.458 milyar lira (+86 milyar)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-17T13:01:09.243608+00:00",
+  "type": "news",
+  "cluster_id": "c996e8c39b45d"
+ },
+ {
+  "title": "Küresel piyasalar jeopolitik gerilimin kıskacında",
+  "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-jeopolitik-gerilimin-kiskacinda-951483.html",
+  "source": "TRT Haber",
+  "summary_tr": "Küresel piyasalar çip hisselerindeki satış baskısı ve Orta Doğu gerilimi ile negatif seyir gösteriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-17T13:01:09.243608+00:00",
+  "type": "news",
+  "cluster_id": "c47d1ee652522"
+ },
+ {
   "title": "Her üç emekliden biri en düşük maaşı alıyor: 'Sadaka veriyor, çöpten alın yiyin diyor'",
   "link": "https://www.cumhuriyet.com.tr/turkiye/her-uc-emekliden-biri-en-dusuk-maasi-aliyor-sadaka-veriyor-copten-alin-yiyin-diyor-2521640",
   "source": "Cumhuriyet",
@@ -57720,75 +57804,5 @@
   "score": 7,
   "ts": "2026-06-05T06:02:10.021744+00:00",
   "cluster_id": "c9532cc018c15"
- },
- {
-  "title": "Indian central bank keeps key policy rate on hold, despite falling currency",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUHNYYmwybW5sTVN2MVdxZndGODhiTFE5Y0xZRU14bU1tYnQtZU9zenpHZVBkRGRmWDQ4TExyNHJYelNSb01POWdXY0cxNmpxcmZ0ODZpeU1vdzI3RmhBbFFHcEd6dUw3Q0owRUxPUVdRLTFvVEpVZTFqRWFUdW1MTHBLZ19fbHdoaFJDN05lOURnT29fMlRYVjRDdVIzSmlzV0g5bldsZW5FQkdCbnIxMzZ4Q1hGZWRBSEtKcnNiT3QzVFd0?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Hindistan Merkez Bankası, para birimi zayıflamasına rağmen ana politika faizini sabit tuttu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T06:02:10.021744+00:00",
-  "cluster_id": "c1bb672db675f"
- },
- {
-  "title": "Yen teeters near 160 level after fresh warning; dollar buoyed by Gulf tension",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY1I1UFVHbFdub2xoRDE3aktGWXBsaC1XNFZReFFnVEFiMl9YR2t1UVlXMjhtYWtWbHJjNkMtWlZKZERtTEZMTEE4TzFtZGhFS3oyc3p1Wm1nVEtxdEN6OENxWWFtdTNYOEpnNFRDaVdKMTNySW1MZTlQWEZyd0tMSEdkaVpvOU1VY19CZ2hrR3JhY0R5LUFiQlFhNy1PYllOcGlnVzhHY3lqNnNQS0RxOW5MSzFIb2Y3Rnc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Japon yeni 160 seviyesinde dalgalanıyor; dolar Körfez geriliminden güç alıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T06:02:10.021744+00:00",
-  "cluster_id": "c920e31e749cd"
- },
- {
-  "title": "Oil edges up on US-Iran deal uncertainty, Oman's Mina al Fahal loading suspension",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTlEyVHU4OGhfS1RSaDItak5sQTZxNEptRjdDemtZdGs1aG5YMjEtV2tnTG1OM2ZxQl9pZGo1cnIyMFNmWElfUmpXcEJJSDRkTHZqdmRWRks4MG5GYUNMNDFaS3RKNUtwYTQtdjNEZGM4eVZjd3FqYlpRSGZHbl9vYTRPTkxWNVF5b0pBV2M1dzgwdk1tOEZHVTRBcEZnX0ZncWZSVWtuOWNrdw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Petrol, ABD-İran anlaşma belirsizliği ve Oman'ın Mina al Fahal yükleme suspansiyonuyla yükselişe geçti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T06:02:10.021744+00:00",
-  "cluster_id": "ced76c41927d2"
- },
- {
-  "title": "Chinese leader Xi Jinping will travel to North Korea next week in first visit since 2019",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU1FDa1VlaWR1MXlwUEZQMGlxVzR4TWtZWld1blZWcGlSZ0pFSmpDMEhjVWtoc2ZyS21udjZYVGMyUEZYT3lFR1N6aDNJSGIzWmdQTm9DRW9SOE4ycHp5OUxtY2VFRDU5eWFPdDd1SE10NDA0ZHpEdFhreWxLVHhIREE1ckVGcjk3QzZZbQ?oc=5",
-  "source": "AP",
-  "summary_tr": "Çin lideri Xi Jinping önümüz hafta Kuzey Kore'yi ziyaret edecek; bu, 2019'dan bu yana ilk görüşme olacak.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-05T05:00:57.548755+00:00",
-  "cluster_id": "c906c3ca9aa58"
- },
- {
-  "title": "Ali Babacan: Ana muhalefetin başına bunlar geliyorsa… En korktuğum bu",
-  "link": "https://yetkinreport.com/2026/06/05/ali-babacan-ana-muhalefetin-basina-bunlar-geliyorsa-en-korktugum-bu/",
-  "source": "YetkinReport",
-  "summary_tr": "DEVA lideri Ali Babacan, CHP kurultayı kararı ile ilgili istinaf mahkemesinin butlan kararının sadece CHP meselesi olmadığını vurguladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T05:00:57.548755+00:00",
-  "cluster_id": "cc7a6728844a4"
- },
- {
-  "title": "Ukrayna lideri Zelenskiy, Putin'e Türkiye ya da İsviçre'de yüz yüze görüşme teklif etti",
-  "link": "https://www.bbc.com/turkce/articles/c7757vzp7e8o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Zelenskiy, Ukrayna-Rusya savaşını sona erdirmek için Putin'le Türkiye veya İsviçre'de yüz yüze görüşme teklifinde bulundu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-05T04:00:59.726053+00:00",
-  "cluster_id": "c089da0097f32"
- },
- {
-  "title": "Zelenski'den Putin'e mektup: Ukrayna savaşı için yüz yüze müzakere çağrısı",
-  "link": "https://www.trthaber.com/haber/dunya/zelenskiden-putine-mektup-ukrayna-savasi-icin-yuz-yuze-muzakere-cagrisi-947222.html",
-  "source": "TRT Haber",
-  "summary_tr": "Zelenskiy, Putin'e açık mektup ile Ukrayna savaşı için yüz yüze müzakereye çağrı yaptı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-05T04:00:59.726053+00:00",
-  "cluster_id": "c65046f31fd98"
  }
 ]
