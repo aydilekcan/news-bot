@@ -1,5 +1,17 @@
 [
  {
+  "title": "İBB kreşlerine yüzde 60 zam",
+  "link": "https://www.diken.com.tr/ibb-kreslerine-yuzde-60-zam/?utm_source=rss&utm_medium=rss&utm_campaign=ibb-kreslerine-yuzde-60-zam",
+  "source": "Diken",
+  "summary_tr": "İBB, işlettiği kreşlerin aylık ücretini yüzde 60 oranında artırdı. Ücret 5 bin liradan 8 bin liraya yükseltildi.",
+  "metric": "İBB kreş ücreti 5.000 TL -> 8.000 TL (+%60)",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-17T19:00:58.577967+00:00",
+  "type": "news",
+  "cluster_id": "c7db890796067"
+ },
+ {
   "title": "İranlılar: \"Suriyelilerin yaşadıklarını mı yaşayacağız?\"",
   "link": "https://www.dw.com/tr/iranlılar-suriyelilerin-yaşadıklarını-mı-yaşayacağız/a-78013765?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -57858,15 +57870,5 @@
   "score": 7,
   "ts": "2026-06-05T09:01:05.487087+00:00",
   "cluster_id": "c1f13f1e22098"
- },
- {
-  "title": "Rusya’dan Suriye hamlesi: Tartus’a askeri sevkıyat iddiası",
-  "link": "https://www.cumhuriyet.com.tr/dunya/rusya-dan-suriye-hamlesi-tartus-a-askeri-sevkiyat-iddiasi-2509572",
-  "source": "Cumhuriyet",
-  "summary_tr": "Rusya, Esad yönetiminin devrilmesinin ardından ilk kez Suriye'deki askeri varlığını desteklemek için Tartus Limanı'na kargo gemisi gönderdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T09:01:05.487087+00:00",
-  "cluster_id": "c258db965b833"
  }
 ]
