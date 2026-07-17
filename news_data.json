@@ -1,5 +1,29 @@
 [
  {
+  "title": "İran saldırıları nedeniyle Bahreyn'de sirenler çaldı, Kuveyt'te hava savunma sistemleri devreye girdi",
+  "link": "https://www.trthaber.com/haber/dunya/iran-saldirilari-nedeniyle-bahreynde-sirenler-caldi-kuveytte-hava-savunma-sistemleri-devreye-girdi-951425.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran'ın saldırıları nedeniyle Bahreyn'de sirenleri çaldığı, Kuveyt'te hava savunma sistemleri devreye girdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-17T00:01:07.148918+00:00",
+  "type": "news",
+  "cluster_id": "c850a6c45e073"
+ },
+ {
+  "title": "Trump threatens new Iran escalation and risks repeating old mistakes",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdnIySy12MVk2eUt1V3poZUtIbERIR0pMcHcwVGFUbW5CRlllQnFHU1FHYWNoNmh5YThaZGc1NHpId0pOVXZ0Z0Npb2xvZEZJaEJlaUlwSjBVaGw5WkJNWWlfckZfWVdNMGFucGVJUUE0Z1RzNXhRVklRUlhtUjgyYTMxY19DSEl2bkNiRTRjMjBKa0huQmVTUmtyNHZZNkdOdTJmY2daYVNMaTlJUEVEZC1LMFAxMjR1Tnc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, İran ile yeni bir çatışma riskine işaret ederek eski hatalarını tekrarlama tehlikesine dikkat çekti.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-17T00:01:07.148918+00:00",
+  "type": "news",
+  "cluster_id": "ca50102a5fef2"
+ },
+ {
   "title": "ABD Büyükelçiliğinden vatandaşlarına 'teyakkuzda olun' çağrısı",
   "link": "https://www.sozcu.com.tr/abd-buyukelciliginden-vatandaslarina-teyakkuzda-olun-cagrisi-p337159",
   "source": "Sözcü",
@@ -57606,25 +57630,5 @@
   "score": 6,
   "ts": "2026-06-04T14:01:08.249663+00:00",
   "cluster_id": "c2d19cb984689"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan: Afrika'yla ilişkilerimizi kazankazan temelinde geliştiriyoruz",
-  "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-afrikayla-iliskilerimizi-kazan-kazan-temelinde-gelistiriyoruz-947173.html",
-  "source": "TRT Haber",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, Afrika ülkeleriyle ilişkileri eşit ortaklık ve kazankazan ilkeleri temelinde geliştirdiklerini vurguladı.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-04T14:01:08.249663+00:00",
-  "cluster_id": "c64977b9c374a"
- },
- {
-  "title": "İstinaftan Yerebatan Sarnıcı kararı: Vakıflar Genel Müdürlüğü’ne devri durduruldu",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWGg1eFpXRVlsOGNVbWxUek9KOWVGR2dvaDVTdHBpM3ZQZzJ4TGN5dFRzd2x1dGFsWGJWQzAxeGJ0cXBCNExzeUxDUEozY3ZZTXJRcERwWV9fbkQ3T2UzNEEtU19MZ25LSTc2TTBWMm1aZzhqSlRFR0d6R2tCTUlzcVdTVk16VDBmNGF1RDl4dmdrdkp2WHZ5M0JEMmYxeDBlQ09mSWJzZkh3d01aUWhJWUVOdw?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "İstinaf Mahkemesi, Yerebatan Sarnıcı'nın Vakıflar Genel Müdürlüğü'ne devrini durdurdu.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-04T14:01:08.249663+00:00",
-  "cluster_id": "c4c0f8b1c813c"
  }
 ]
