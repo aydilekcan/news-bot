@@ -1,5 +1,53 @@
 [
  {
+  "title": "Iran launches fresh attacks after sixth day of US strikes",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRW1QZlpEY3pwOHJJaDF2S2JVZG81S2xuakhndThpb1lLREpreFBCRW1TWTlZeFBGTFRaUER1dWRUU2FlaDlYTU9Yc0hzY3Juby0xSlRxN24yMGZvQ0ktN1NYcjVtZHc5a3F6UXQ5Qnc3aWNDNV84MV8ybWkxemptWEtlS1plM0kxQVNoM3A5RkpkUlZGSEtYbVVTN2RtNkhwc3VWZThNazhDTGpt?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran, ABD'nin altıncı gün boyunca saldırılarına yanıt olarak yeni saldırılar düzenledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-17T06:01:04.786956+00:00",
+  "type": "news",
+  "cluster_id": "c08ace195e50b"
+ },
+ {
+  "title": "12. Yargı Paketi yasalaştı: HAGB ve temyizde yeni dönem",
+  "link": "https://www.dw.com/tr/12-yargı-paketi-yasalaştı-hagb-ve-temyizde-yeni-dönem/a-77997389?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "TBMM'de kabul edilen 12. Yargı Paketi yasalaştı. HAGB yeniden düzenlendi, temyiz sistemi değişti ve tek hakimli davaların kapsamı genişletildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-17T06:01:04.786956+00:00",
+  "type": "news",
+  "cluster_id": "c9f079e60fad1"
+ },
+ {
+  "title": "4x4 otomobillerin vergisi artırılacak",
+  "link": "https://www.sozcu.com.tr/otomobillere-cekis-sistemine-gore-vergi-geliyor-p337188",
+  "source": "Sözcü",
+  "summary_tr": "TBMM Plan ve Bütçe Komisyonu'nda 4x4 otomobillerin Özel Tüketim Vergisi (ÖTV) artırılmasına karar verildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-17T06:01:04.786956+00:00",
+  "type": "news",
+  "cluster_id": "c3041716b0873"
+ },
+ {
+  "title": "Stocks slump on chip selloff, oil set for weekly gain",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTBUX2ZaNk9EY2M2SU5BaEw4VkRFXzF6OE1MeENrcVRwT1hnd2gtbzVDODJ3VUh2ZXdOYi03b2ZobHhhdlMzSE1fOWM0b3lWTlh1Q2VENEFFdHlKWmNuOVltd0R4X254aFM0SmNjZ3RIWVNqREU3OXlHSFNsUGtBUXYyUQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Küresel borsalar çip sektörü satışlarından sert düştü; petrol haftalık kazançla kapandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-17T06:01:04.786956+00:00",
+  "type": "news",
+  "cluster_id": "cdf8dd07316dd"
+ },
+ {
   "title": "İran savaşı: Türkiye ekonomisinde Hürmüz kıskacı",
   "link": "https://www.dw.com/tr/iran-savaşı-türkiye-ekonomisinde-hürmüz-kıskacı/a-77993868?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -57632,45 +57680,5 @@
   "score": 6,
   "ts": "2026-06-04T17:01:44.239368+00:00",
   "cluster_id": "ca3f71e469e0e"
- },
- {
-  "title": "Son Dakika... CHP'li 3 isim Kılıçdaroğlu ile görüşecek: 'Özgür Özel' ayrıntısı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-chp-li-3-isim-kilicdaroglu-ile-gorusecek-ozgur-ozel-ayrintisi-2509407",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'li üç vekil (Engin Altay, Gürsel Erol, Ali Öztunç) Kılıçdaroğlu ile görüşecek; Özgür Özel hakkında ayrıntılar bekleniyor.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-04T17:01:44.239368+00:00",
-  "cluster_id": "c2d1e9400d737"
- },
- {
-  "title": "Türk Kızılay Kanunu Teklifi, TBMM İçişleri Komisyonunda kabul edildi",
-  "link": "https://www.aa.com.tr/tr/gundem/turk-kizilay-kanunu-teklifi-tbmm-icisleri-komisyonunda-kabul-edildi-/3956876",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türk Kızılay Kanunu Teklifi TBMM İçişleri Komisyonunda kabul edildi; derneğe daha geniş görev ve yetkileri verilecek.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-04T17:01:44.239368+00:00",
-  "cluster_id": "c521fadb8d22a"
- },
- {
-  "title": "US weekly jobless claims increase to four-month high; worker productivity revised down",
-  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT09NS0RiRDI4MHVvRDZEVTJUTkFYUHNtQjJIdjF3ZHNleEJPQndjYWdERE9aUXJSWms0QWFMTUlVU2JydEVEZnVnSG5TeW03WDhEZEVTQjdEWi04Ry00TkQzV1BLRDdkeHEzZEZ3dmV3cEJnWXE4blZWYWcxM3hqRm45UHd2NXFmMnQ1NG1lMmlBbklxS3dkaFlkV3h0YVV5WWJCTlJNZDA3ZnFTZGtnS3ZaT0hRRWNfX1Z4MzZ2X1RfaVBaRW83ZXlJWWxCQQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD'de haftalık işsizlik başvuruları dört aylık yüksek seviyeye çıkmış, işçi verimliliği düşürülmüştür.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-04T16:05:39.223772+00:00",
-  "cluster_id": "cfcf921b57229"
- },
- {
-  "title": "Türkiye'nin dev bankası satıldı: İşte yeni sahibi",
-  "link": "https://www.sozcu.com.tr/turkiye-nin-dev-bankasi-satildi-iste-yeni-sahibi-p325284",
-  "source": "Sözcü",
-  "summary_tr": "BankPozitif, TMSF tarafından yönetiminin devralmesının ardından ihale sonucunda Efor Çay'a satılmıştır.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-04T16:05:39.223772+00:00",
-  "cluster_id": "c00d16f488e9a"
  }
 ]
