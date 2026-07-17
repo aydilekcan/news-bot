@@ -1,5 +1,29 @@
 [
  {
+  "title": "US expands its airstrike campaign against Iran by hitting more bridges",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYXFnZWtOU1NXb01HY2FxbTBsUmJqNDlaa3NORmpyZ0pYVzhSVFZkaUNYTjczY0E1YjhpR1F1OGRoT3dJNnVTMjVuUGJyamVCckJwMi1WY0hJR2NyVGQ0ZDdzbF9LMzgteGZDRGtMd0ZQV211YWF3cHpYLWdhTXZjTXVhTG1zRkRmR3Q1NVdQRWNEb2xhZU0zRTFodmM4ZXc?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD, İran'a karşı hava saldırılarını genişleterek köprüleri hedef aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-17T01:01:08.080156+00:00",
+  "type": "news",
+  "cluster_id": "cb0511adf00f3"
+ },
+ {
+  "title": "Coca-Cola says fairlife halts US production after cyber attack",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSHgwT2dpVVRnaHkyYU1vM2RzMDVqSTdQNFpNZ3puazhoV3pBN2ExaU9hZzgxLXFKcGM1M0d6dlpUQ0djMjVPbUJUc1ZWNmZGbHpOZnhBTWQ3RlhaTEw3akhydUFyOVBWTkE2bWl4R3QtTGctdFNHUncwenBEMFNTbV9icDkzVDFtZ0Z2ampybDZmcHk4UmdsZDZpSXhKNXlJMkJZT01nckZIQUk?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Coca-Cola'nın fairlife markası siber saldırı nedeniyle ABD üretimini durdurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-17T01:01:08.080156+00:00",
+  "type": "news",
+  "cluster_id": "c69335d5176e2"
+ },
+ {
   "title": "İran saldırıları nedeniyle Bahreyn'de sirenler çaldı, Kuveyt'te hava savunma sistemleri devreye girdi",
   "link": "https://www.trthaber.com/haber/dunya/iran-saldirilari-nedeniyle-bahreynde-sirenler-caldi-kuveytte-hava-savunma-sistemleri-devreye-girdi-951425.html",
   "source": "TRT Haber",
@@ -57610,25 +57634,5 @@
   "score": 7,
   "ts": "2026-06-04T14:01:08.249663+00:00",
   "cluster_id": "cb0bbbff21319"
- },
- {
-  "title": "TGRT'ye teşekkür etmişti: Mahir Polat YDK Başkanı oldu",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ1RMZ1NsQVdWUk5lS3FTR0xhZXBzcE1uei1GazRmazN5X0J0aTlqUjJKXzRPTGxKWGkyR0FCdHZPQkVVVGp1VVhGc01OZDlBTmYwd3pYTTYweEd1bk5ya041OTJVNi1mUkpIQ0hjVzJKQW03ZDdmalZHdC12VHJWSjdtSkhzOVY2anNEYnJtcG9VdzBn?oc=5",
-  "source": "soL",
-  "summary_tr": "Mahir Polat, CHP Yüksek Disiplin Kurulu Başkanı oldu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-04T14:01:08.249663+00:00",
-  "cluster_id": "c940b589fa4b3"
- },
- {
-  "title": "Yerebatan Sarnıcı'nın İBB'den devrine yürütmeyi durdurma kararı",
-  "link": "https://www.bbc.com/turkce/articles/c1w4lnr10vgo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "İstanbul Mahkemesi, Yerebatan Sarnıcı'nın İBB'den Vakıflar Genel Müdürlüğü'ne devredilmesi işlemini yürütmeyi durdurma kararı verdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-04T14:01:08.249663+00:00",
-  "cluster_id": "c2d19cb984689"
  }
 ]
