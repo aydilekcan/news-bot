@@ -1,5 +1,149 @@
 [
  {
+  "title": "Her üç emekliden biri en düşük maaşı alıyor: 'Sadaka veriyor, çöpten alın yiyin diyor'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/her-uc-emekliden-biri-en-dusuk-maasi-aliyor-sadaka-veriyor-copten-alin-yiyin-diyor-2521640",
+  "source": "Cumhuriyet",
+  "summary_tr": "En düşük emekli aylığına 3 bin 552 liralık artış yapıldı ancak emekliler geçim sıkıntısı içinde kaldığını belirtiyor.",
+  "metric": "Emekli aylığı artışı: 3.552 TL",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-17T12:01:18.379685+00:00",
+  "type": "news",
+  "cluster_id": "c6ceb35003f40"
+ },
+ {
+  "title": "İsrail: Meclis feshedildi, seçim 27 Ekim'de",
+  "link": "https://www.dw.com/tr/israil-meclis-feshedildi-seçim-27-ekim-de/a-78007876?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "İsrail'de parlamento kendini feshetme kararı aldı; seçimler 27 Ekim'de yapılacak. Başbakan Netanyahu yeniden aday olacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-17T12:01:18.379685+00:00",
+  "type": "news",
+  "cluster_id": "c204b3f397029"
+ },
+ {
+  "title": "Zelenskiy: Odessa ve Zaporijya'ya düzenlenen saldırılarda 4 kişi hayatını kaybetti",
+  "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-odessa-ve-zaporijyaya-duzenlenen-saldirilarda-4-kisi-hayatini-kaybetti/4001349",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ukrayna Devlet Başkanı Zelenskiy, Rus ordusunun Odessa ve Zaporijya'ya düzenlediği saldırılarda 4 kişinin öldüğünü bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-17T12:01:18.379685+00:00",
+  "type": "news",
+  "cluster_id": "c71350b96b6df"
+ },
+ {
+  "title": "İran Devrim Muhafızları Ordusu: Katardaki üste konuşlu ABD uçakları hedef alındı",
+  "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-ordusu-katardaki-uste-konuslu-abd-ucaklari-hedef-alindi-951481.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Devrim Muhafızları Ordusu, Katar'daki ABD üssünde konuşlu yakıt ikmal uçakları ve radar sisteminin hedef alındığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-17T12:01:18.379685+00:00",
+  "type": "news",
+  "cluster_id": "cd83221c28384"
+ },
+ {
+  "title": "Eski AKUT Başkanı Nasuh Mahruki tutuklandı",
+  "link": "https://www.dw.com/tr/eski-akut-başkanı-nasuh-mahruki-tutuklandı/a-78007218?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Eski AKUT Başkanı Nasuh Mahruki, 15 Temmuz ile ilgili sosyal medya paylaşımı nedeniyle tutuklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-17T12:01:18.379685+00:00",
+  "type": "news",
+  "cluster_id": "cb999e07df2f1"
+ },
+ {
+  "title": "Ev ve araba hayali kuranlar dikkat: Şubelerde o saatten sonra işlem yapılamayacak",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/ev-ve-araba-hayali-kuranlar-dikkat-subelerde-o-saatten-sonra-islem-yapilamayacak-2521642",
+  "source": "Cumhuriyet",
+  "summary_tr": "BDDK gözetiminde tasarruf finansman şirketlerinin çalışma düzeni düzenleniyor; şubelerde belirli saatlerden sonra işlem yapılamayacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-17T12:01:18.379685+00:00",
+  "type": "news",
+  "cluster_id": "c1a3639c6bb4b"
+ },
+ {
+  "title": "Ünlü bankadan altın fiyatları için 'kısa vade' uyarısı",
+  "link": "https://www.sozcu.com.tr/unlu-bankadan-altin-fiyatlari-icin-kisa-vade-uyarisi-p337340",
+  "source": "Sözcü",
+  "summary_tr": "HSBC altın fiyatları için kısa ve orta vadede farklı senaryolar öne çıkıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-17T12:01:18.379685+00:00",
+  "type": "news",
+  "cluster_id": "c3267845a9ec6"
+ },
+ {
+  "title": "Genelkurmay çatı davasında yeniden yargılanan 139 sanık hakkında karar açıklandı",
+  "link": "https://www.aa.com.tr/tr/gundem/genelkurmay-cati-davasinda-yeniden-yargilanan-139-sanik-hakkinda-karar-aciklandi/4001335",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "FETÖ'nün 15 Temmuz darbe girişimine ilişkin Genelkurmay çatı davasında Yargıtay'ın bozma kararlarının ardından 139 sanık hakkında yeniden karar açıklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-17T12:01:18.379685+00:00",
+  "type": "news",
+  "cluster_id": "c08171538a91d"
+ },
+ {
+  "title": "Genelkurmay çatı davasında karar açıklandı",
+  "link": "https://www.trthaber.com/haber/gundem/genelkurmay-cati-davasinda-karar-aciklandi-951478.html",
+  "source": "TRT Haber",
+  "summary_tr": "FETÖ'nün 15 Temmuz darbe girişimine ilişkin Genelkurmay çatı davasında mahkumiyet ve beraatlere ilişkin karar açıklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-17T12:01:18.379685+00:00",
+  "type": "news",
+  "cluster_id": "c08171538a91d"
+ },
+ {
+  "title": "Nasuh Mahruki 15 Temmuz paylaşımına ilişkin soruşturma kapsamında tutuklandı",
+  "link": "https://www.aa.com.tr/tr/gundem/nasuh-mahruki-15-temmuz-paylasimina-iliskin-sorusturma-kapsaminda-tutuklandi/4001322",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Nasuh Mahruki, 15 Temmuz darbe teşebbüsüne ilişkin paylaşımı nedeniyle tutuklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-17T12:01:18.379685+00:00",
+  "type": "news",
+  "cluster_id": "cbe7542519690"
+ },
+ {
+  "title": "Elektrik üretiminde yenilenebilir enerjinin payı hız kesmeden artıyor",
+  "link": "https://www.trthaber.com/haber/ekonomi/elektrik-uretiminde-yenilenebilir-enerjinin-payi-hiz-kesmeden-artiyor-951477.html",
+  "source": "TRT Haber",
+  "summary_tr": "Yenilenebilir kaynaklardan elektrik üretimi 2024'te 2023'e göre %9,8 artış gösterdi.",
+  "metric": "Yenilenebilir enerji artışı: +%9,8",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-17T12:01:18.379685+00:00",
+  "type": "news",
+  "cluster_id": "ccd12623dcc10"
+ },
+ {
+  "title": "Russian courts target two outspoken critics of war in Ukraine",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZmFWUnd1OE9XanVTTXVmVldpM09tMVk5WWRVSGVGRUtma3lvT1NrMlNxUDBjT0xjVEVoejFHVVowOGQxdW0tY0hvMFA1ajZhbWZSbW4wRVlkb1pKaFpXekVmb2JJcllLSDA3LVdWQnlNc1gwdHhsMGNLMm45WUxIeHJPTkpJX2hIMVQ2dG1ieGxBQnVVdHExYTdlZlduUmw2bDJqbXZERlZIRVE4OFRHVXd3Rkt1VWpOa3hSRw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rus mahkemeler Ukrayna savaşına karşı açık eleştiri yapan iki muhalif kişiyi hedef almıştır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-17T12:01:18.379685+00:00",
+  "type": "news",
+  "cluster_id": "c4032ef779495"
+ },
+ {
   "title": "CHP'ye mutlak butlanın iptal başvurusu Yargıtay'a ulaştı",
   "link": "https://www.bbc.com/turkce/articles/cdewny8l469o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -57646,125 +57790,5 @@
   "score": 8,
   "ts": "2026-06-05T04:00:59.726053+00:00",
   "cluster_id": "c65046f31fd98"
- },
- {
-  "title": "Oman suspends oil loading at Mina al Fahal terminal following explosion, sources say",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN09XbDZ2X3c4NmJuMHFyWUltX3Q3VVRaTnBxVEZUWkdROVdPQ04zalFzX3E5RXY4bVVqTlB6akdjS1NSaTk2RmR5eFRIOVBiM29WdURtZ2FwcVpwOHpOZWE5LWoycXRudmlJd21ubUQyMXVNUXRHVkpzQXJYck1NcHI4MktzcS1XVGtfTF9rRFdWZndObzR1aGtZVldSOEVraGUtTndVRk9lUTZ0ZU9SRjB0ek5xeXhtUWtBZENLX2NIMThFekQ3ZzNZTXU?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Oman, Mina al Fahal terminalde meydana gelen patlama sonrası petrol yüklemeyi durdurdu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T04:00:59.726053+00:00",
-  "cluster_id": "c154c51503dbb"
- },
- {
-  "title": "Stocks drop as AI rally pauses, US-Iran peace talks stall",
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSDZvYjZiMW9PTFBnYWRFYVRVa0hDanhaTmdoRTFtSVJvY1NXMHR0LXMzdm9VZlJXcUVwbkdEbWd2UG9Tb1FCQk1Rdkl5YkNYWEJ6MkhxU1ZaS3A1eUhiOGxiSzZlbkNCUklYLUJhQmFzUFBmY0dPdGU0aEFTa0tDVmpLVQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Borsa endeksleri yapay zeka rallysi duruncası ve ABD-İran barış görüşmelerinin sekteye uğraması nedeniyle düştü.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T04:00:59.726053+00:00",
-  "cluster_id": "cc4ee206cf5b6"
- },
- {
-  "title": "Yen hits key 160 level for third session, dollar buoyed by Gulf woes",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY1I1UFVHbFdub2xoRDE3aktGWXBsaC1XNFZReFFnVEFiMl9YR2t1UVlXMjhtYWtWbHJjNkMtWlZKZERtTEZMTEE4TzFtZGhFS3oyc3p1Wm1nVEtxdEN6OENxWWFtdTNYOEpnNFRDaVdKMTNySW1MZTlQWEZyd0tMSEdkaVpvOU1VY19CZ2hrR3JhY0R5LUFiQlFhNy1PYllOcGlnVzhHY3lqNnNQS0RxOW5MSzFIb2Y3Rnc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Yen üçüncü seansında 160 seviyesini vurdu; dolar Körfez çatışmaları ile güçlenmeye devam ediyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T04:00:59.726053+00:00",
-  "cluster_id": "cedc5078060d2"
- },
- {
-  "title": "Ankara'da NATO Zirvesi için hazırlıklar başladı",
-  "link": "https://www.bbc.com/turkce/articles/cn0p03yj92ko?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Ankara'da NATO Zirvesi için yoğun hazırlıklar başladı; Cumhurbaşkanı Erdoğan etkinlikte yer alacak.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-05T03:00:56.972874+00:00",
-  "cluster_id": "c8b47a30d2ff4"
- },
- {
-  "title": "12. Yargı Paketi ikiye bölünüyor: LGBTİ ve süresiz nafaka ikinci pakete girebilir",
-  "link": "https://www.bbc.com/turkce/articles/c5yxy3z19w8o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "AKP, 12. Yargı Paketi'ni tatilden önce Meclis'ten geçirmeyi planlıyor; LGBTİ ve süresiz nafaka konuları ikinci pakete ertelenebilir.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T03:00:56.972874+00:00",
-  "cluster_id": "c6b050e8e1ed9"
- },
- {
-  "title": "Soykırımcı İsrail Gazzede çadırları vurdu: 1 ölü, 16 yaralı",
-  "link": "https://www.trthaber.com/haber/dunya/soykirimci-israil-gazzede-cadirlari-vurdu-1-olu-16-yarali-947214.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail'in Gazze'de yer değiştirmiş Filistinlilerin çadırlarına hava saldırısı: 1 ölü, 16 yaralı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-05T03:00:56.972874+00:00",
-  "cluster_id": "c83adf692c5ca"
- },
- {
-  "title": "UN nuclear watchdog says it’s been unable to inspect Iranian facilities",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdGVKTm9NQ1ROd3BWeUU3clNpZjlXNlladzlEMXR2NndNeVhHbzVpcUhOMjBxTmVlZExZeWNjbC1wWmRTVW02UHZMVzQ2Xy0xR0FBT2xYanBxS2QwME1VY2FjMEs3ZzJvQXpiM0N0cGZZcTEtbGNMWnhkU3ZnaG1VUkhFTE9NR2NKSEN1TndOSmJ2NVZBZWJvTHJwbW10ckhlb0hwTzVQbWZKSlBKbTZtb3dn?oc=5",
-  "source": "AP",
-  "summary_tr": "BM Nükleer İzleme Ajansı, İran'ın nükleer tesislerini denetleyemediğini bildirdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T03:00:56.972874+00:00",
-  "cluster_id": "cdc586ba637aa"
- },
- {
-  "title": "Özgür Özel’in yeni partisinin adı: İstiklal Partisi",
-  "link": "https://www.sozcu.com.tr/ozgur-ozel-in-yeni-partisinin-adi-istiklal-partisi-p325343",
-  "source": "Sözcü",
-  "summary_tr": "CHP eski Genel Başkanı Özgür Özel'in yeni partisinin adı İstiklal Partisi olarak açıklandı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T03:00:56.972874+00:00",
-  "cluster_id": "c088389e39a8e"
- },
- {
-  "title": "İşsiz sayısı, nisanda; ‘dar tanımlı’da 2 milyon 868, ‘geniş tanımlı’da 12.2 milyon kişi",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/issiz-sayisi-nisanda-dar-tanimli-da-2-milyon-868-genis-tanimli-da-12-2-milyon-kisi-2509485",
-  "source": "Cumhuriyet",
-  "summary_tr": "Nisan 2026'da dar tanımlı işsizlik %8.2'ye çıktı (+0.1 puan), geniş tanımlı işsizlik 12.2 milyona ulaştı (+1.2 puan). TÜİK raporu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-05T02:00:55.635429+00:00",
-  "cluster_id": "c660dd7a64bb7"
- },
- {
-  "title": "Zelenskiy, in open letter, invites Putin to talks to end the war",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkZhWnVxeU0zSy02QnlmbUFKeGtVUmNXM3NNWEtvc3RXOUZ5VUc4Rkw0WUlaS09FbGx4bkZfc3lMSnc1TEZSLXZOMTZQVHpZSnJSbktBWklGSGNKeDJlVk5CMjNsZEowRDRpOHlWb1Y4QUZNVkp5MzBrS1poWVVDMDYwS3ByMHBmRGxGS2c3VF9SUEo5bnBzeXhrMkhqZWc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Zelenskiy, Putin'i açık mektupla savaşı sonlandırmak için görüşmelere çağırdı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-05T02:00:55.635429+00:00",
-  "cluster_id": "c66a915f1cdd1"
- },
- {
-  "title": "Hukukçular ve kadın derneklerinden tepki",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/hukukcular-ve-kadin-derneklerinden-tepki-2509484",
-  "source": "Cumhuriyet",
-  "summary_tr": "Anayasa Mahkemesi, boşanmada süresiz nafaka düzenlemesini iptal etti. Karar hukukçu ve kadın örgütlerinden tepki aldı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-05T02:00:55.635429+00:00",
-  "cluster_id": "c7ae3cee2c6d7"
- },
- {
-  "title": "İstihdamda alarm",
-  "link": "https://www.sozcu.com.tr/istihdamda-alarm-p325345",
-  "source": "Sözcü",
-  "summary_tr": "İstihdam oranı 0.6 puan geriledi, %48.1'e düştü. İşsizlik artış trendine girdi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-05T02:00:55.635429+00:00",
-  "cluster_id": "c914057bc22f9"
  }
 ]
