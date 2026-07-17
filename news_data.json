@@ -1,5 +1,53 @@
 [
  {
+  "title": "Kıbrıs'ta asgari ücrete ne kadar zam yapıldı, Türkiye ile fark kaç TL?",
+  "link": "https://www.sozcu.com.tr/kibris-ta-asgari-ucrete-ne-kadar-zam-yapildi-turkiye-ile-fark-kac-tl-p337374",
+  "source": "Sözcü",
+  "summary_tr": "KKTC asgari ücreti %16,95 artırarak net 61 bin 677 liraya yükseltildi.",
+  "metric": "KKTC asgari ücreti (net) -> 61.677 TL (+%16,95)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-17T14:01:16.048480+00:00",
+  "type": "news",
+  "cluster_id": "c6ce7863c4da9"
+ },
+ {
+  "title": "Emeklilerden 3 bin 552 liralık zamma tepki: ‘Sadaka veriyor sadaka, çöpten alın yiyin diyor’",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTEIyYi1kZkdPYmxfc2JJdjNxMF9sQWttcHA5VlpyWnFScGRQRGt0aVRIRkxsRF9kcGFHVnVkR0t0SEhsU3ZPRlhIZTlEbVB4VkZEcXVFbWF3SzIwTW1KV0dWOWNJZV9JSzNBTWRvUWVsa016ZDgxSHVlcmhLakEwMUpvVFlFdDRyX21jWnB2d3lMWmNnNDdReTEwNEJMVnZFUnlTNnp3VTlBWndXNUhZbGtVNmxKdnRoMXE4?oc=5",
+  "source": "soL",
+  "summary_tr": "Emeklilere verilen 3 bin 552 liralık zam vatandaşlar tarafından yetersiz bulundu.",
+  "metric": "Emekli zam tutarı: 3.552 TL",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-17T14:01:16.048480+00:00",
+  "type": "news",
+  "cluster_id": "c971aa1d11f4c"
+ },
+ {
+  "title": "İstanbul'da yediemin otopark ve çekici ücretlerine zam",
+  "link": "https://www.trthaber.com/haber/ekonomi/istanbulda-yediemin-otopark-ve-cekici-ucretlerine-zam-951488.html",
+  "source": "TRT Haber",
+  "summary_tr": "İstanbul Büyükşehir Belediyesi yediemin otopark ve çekici ücretlerine %25-%42,86 arasında zam uyguladı.",
+  "metric": "Yediemin ücretleri +%25 - %42,86",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-17T14:01:16.048480+00:00",
+  "type": "news",
+  "cluster_id": "c7daa04f4b501"
+ },
+ {
+  "title": "18 binden fazla çiftçinin elektriği borç nedeniyle kesildi",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWUxWLXAtaFNpWmZpWmRlZmYzNG5zUkpyc2FRc2xVMTZaeTd6WkQwSkx4N1pZa1dtTDJ5bEE0aU9YWS1NMm45NGNrOU1Ic1VtNG5yS25IcjNBVmx6c3c1X29KQUpVVnV2OExmbk5sR1pWNjl5ZWl6NlY3RFFqVDU3STgxZHNIU1djejA4S1RhcWU5a3FzdjVZaUZJb0M?oc=5",
+  "source": "soL",
+  "summary_tr": "Elektrik borcu nedeniyle 18 binden fazla çiftçinin elektriği kesildi.",
+  "metric": "Elektriği kesilen çiftçi sayısı: 18.000+",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-17T14:01:16.048480+00:00",
+  "type": "news",
+  "cluster_id": "c259ef14f92e9"
+ },
+ {
   "title": "İran'dan ABD'ye sivil altyapıyı hedef alma suçlaması",
   "link": "https://www.bbc.com/turkce/articles/cze9e190y1zo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -57764,45 +57812,5 @@
   "score": 9,
   "ts": "2026-06-05T06:02:10.021744+00:00",
   "cluster_id": "c14f63c045cd6"
- },
- {
-  "title": "China's Xi to visit North Korea as Beijing seeks deeper Pyongyang ties",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMVpSWUNvcTYwOUc0MWVVN0FuSklCZTY2SDNHV0RTbklXdEZCRkRkcnZrUGNsc2xGc1d3eDFrZmYwalFxck1yeUxIWmcySE5ZOXBJWmwxbnhMeHpFMEpKcVk0d2hHaTUzNmc0bTJETmdyY1JvR2dWakQ0enU1dVppQl9aSHBLcVdia0tCWkNXQklpUDdjejAzOENiSVhSbEZMVFdRdGx6NXF4SFZ2Tm9PSzUxTzBmWnc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Çin Devlet Başkanı Xi, Kuzey Kore'ye ziyaret gerçekleştirerek Beijing-Pyongyang ilişkilerini derinleştirmeyi amaçlıyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-05T06:02:10.021744+00:00",
-  "cluster_id": "cfd81e1c0f570"
- },
- {
-  "title": "İran’dan Hürmüz Boğazı çıkışı: Kararı biz vereceğiz",
-  "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-hurmuz-bogazi-cikisi-karari-biz-verecegiz-2509514",
-  "source": "Cumhuriyet",
-  "summary_tr": "İran Dışişleri Bakanı Erakçi, Hürmüz Boğazı'na ilişkin nihai kararı İran'ın vereceğini belirtti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T06:02:10.021744+00:00",
-  "cluster_id": "c69cfbeebb2bf"
- },
- {
-  "title": "ABD yaptırım uyguladı, Küba’dan yanıt gecikmedi: Çatışma ortamını tırmandırıyor",
-  "link": "https://www.cumhuriyet.com.tr/dunya/abd-yaptirim-uyguladi-kuba-dan-yanit-gecikmedi-catisma-ortamini-tirmandiriyor-2509513",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD, Küba'ya yaptırım uyguladı; Küba Devlet Başkanı Díaz-Canel karşı yaptırımlarla yanıt verdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T06:02:10.021744+00:00",
-  "cluster_id": "cb76d7f2d2d42"
- },
- {
-  "title": "11 Avrupa ülkesi Schengen için harekete geçti: Vize verilmesini engelleyecekler",
-  "link": "https://www.sozcu.com.tr/11-avrupa-ulkesi-schengen-icin-harekete-gecti-vize-verilmesini-engelleyecekler-p325375",
-  "source": "Sözcü",
-  "summary_tr": "11 Avrupa ülkesi, Rus vatandaşlarına Schengen vizesi verilmesini engellemek için AB Komisyonu'na başvurdu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T06:02:10.021744+00:00",
-  "cluster_id": "c9532cc018c15"
  }
 ]
