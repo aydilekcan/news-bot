@@ -1,5 +1,89 @@
 [
  {
+  "title": "Dokuz dokunulmazlık tezkeresi Meclis'te: Özel'in üç dosyası dahil",
+  "link": "https://www.diken.com.tr/dokuz-dokunulmazlik-tezkeresi-mecliste-ozelin-uc-dosyasi-dahil/?utm_source=rss&utm_medium=rss&utm_campaign=dokuz-dokunulmazlik-tezkeresi-mecliste-ozelin-uc-dosyasi-dahil",
+  "source": "Diken",
+  "summary_tr": "CHP Genel Başkanı Özgür Özel'in de içinde bulunduğu 9 dokunulmazlık tezkeresi TBMM'ye sunuldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-17T15:01:45.003545+00:00",
+  "type": "news",
+  "cluster_id": "c00f82d292c29"
+ },
+ {
+  "title": "Son dakika... Özgür Özel'e ait 3 dosya dahil 9 dokunulmazlık tezkeresi Meclis'te",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-ozgur-ozel-e-ait-3-dosya-dahil-9-dokunulmazlik-tezkeresi-meclis-te-2521695",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP lideri Özgür Özel'in de aralarında bulunduğu 9 dokunulmazlık tezkeresi TBMM Başkanlığı'na sunuldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-17T15:01:45.003545+00:00",
+  "type": "news",
+  "cluster_id": "c00f82d292c29"
+ },
+ {
+  "title": "İBB kreş ücretlerine yüzde 60 zam: Yeni ücret belli oldu",
+  "link": "https://www.sozcu.com.tr/ibb-kres-ucretlerine-yuzde-60-zam-yeni-ucret-belli-oldu-p337388",
+  "source": "Sözcü",
+  "summary_tr": "İBB kreşlerine %60 zam uygulandı; aylık ücret 5 bin TL'den 8 bin TL'ye çıktı.",
+  "metric": "İBB kreş ücreti 5.000 TL -> 8.000 TL (+%60)",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-17T15:01:45.003545+00:00",
+  "type": "news",
+  "cluster_id": "c25a8c39f6683"
+ },
+ {
+  "title": "İBB'nin kreş ücretlerine yüzde 60 zam",
+  "link": "https://www.trthaber.com/haber/turkiye/ibbnin-kres-ucretlerine-yuzde-60-zam-951490.html",
+  "source": "TRT Haber",
+  "summary_tr": "İBB kreşlerine %60 zam yapıldı; aylık ücret 5 bin TL'den 8 bin TL'ye yükseltildi.",
+  "metric": "İBB kreş ücreti 5.000 TL -> 8.000 TL (+%60)",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-17T15:01:45.003545+00:00",
+  "type": "news",
+  "cluster_id": "c25a8c39f6683"
+ },
+ {
+  "title": "İstanbul'da toplu ulaşıma yüzde 10 zam",
+  "link": "https://www.diken.com.tr/istanbulda-toplu-ulasima-yuzde-10-zam/?utm_source=rss&utm_medium=rss&utm_campaign=istanbulda-toplu-ulasima-yuzde-10-zam",
+  "source": "Diken",
+  "summary_tr": "İstanbul toplu ulaşımda %10 zam yapıldı; otobüs, metro, metrobüs, minibüs ve vapur ücretleri artırıldı.",
+  "metric": "Toplu ulaşım zammı %10",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-17T15:01:45.003545+00:00",
+  "type": "news",
+  "cluster_id": "c8b48990711c1"
+ },
+ {
+  "title": "İstanbul'da toplu ulaşıma yüzde 10 zam yapıldı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-toplu-ulasima-yuzde-10-zam-yapildi-2521703",
+  "source": "Cumhuriyet",
+  "summary_tr": "İBB Meclisi, toplu ulaşım araçlarında %10 zam kararı aldı.",
+  "metric": "Toplu ulaşım zammı %10",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-17T15:01:45.003545+00:00",
+  "type": "news",
+  "cluster_id": "c8b48990711c1"
+ },
+ {
+  "title": "Kağıt karton ambalaj sektörü, ilk yarıda 528,8 milyon dolarlık ihracata ulaştı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/kagit-karton-ambalaj-sektoru-ilk-yarida-528-8-milyon-dolarlik-ihracata-ulasti/4001446",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye'nin 2026 yılı ilk yarısında kağıt-karton ambalaj ihracatı 528,8 milyon dolar oldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-17T15:01:45.003545+00:00",
+  "type": "news",
+  "cluster_id": "c8a6a5f7dc462"
+ },
+ {
   "title": "Kıbrıs'ta asgari ücrete ne kadar zam yapıldı, Türkiye ile fark kaç TL?",
   "link": "https://www.sozcu.com.tr/kibris-ta-asgari-ucrete-ne-kadar-zam-yapildi-turkiye-ile-fark-kac-tl-p337374",
   "source": "Sözcü",
@@ -57742,75 +57826,5 @@
   "score": 7,
   "ts": "2026-06-05T07:01:07.769359+00:00",
   "cluster_id": "c2ac323e93c21"
- },
- {
-  "title": "Piyasaların gözü ABD istihdam verisinde: Teknoloji rallisi yavaşladı, jeopolitik riskler öne çıktı",
-  "link": "https://www.sozcu.com.tr/piyasalarin-gozu-abd-istihdam-verisinde-teknoloji-rallisi-yavasladi-jeopolitik-riskler-one-cikti-p325387",
-  "source": "Sözcü",
-  "summary_tr": "Küresel piyasalarda yapay zeka rallisi duraksıyor; jeopolitik riskler öne çıktı. Gözler ABD istihdam verisinde.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T07:01:07.769359+00:00",
-  "cluster_id": "cecd0ffbd6299"
- },
- {
-  "title": "Çin Devlet Başkanı Şi, 8-9 Haziran'da Kuzey Kore'yi ziyaret edecek",
-  "link": "https://www.aa.com.tr/tr/dunya/cin-devlet-baskani-si-8-9-haziranda-kuzey-koreyi-ziyaret-edecek/3957118",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Çin Devlet Başkanı Şi Cinping, 8-9 Haziran'da Kuzey Kore'yi ziyaret edecek.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T07:01:07.769359+00:00",
-  "cluster_id": "cfbba0c70778a"
- },
- {
-  "title": "Küresel piyasalarda gözler ABD'de açıklanacak tarım dışı istihdam verisine çevrildi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-gozler-abdde-aciklanacak-tarim-disi-istihdam-verisine-cevrildi/3957166",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Küresel piyasalar ABD'nin tarım dışı istihdam verisini bekliyor. Jeopolitik gelişmeler ve teknoloji rallisinin duraksaması dikkat çekiyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T07:01:07.769359+00:00",
-  "cluster_id": "c24c554d60c8c"
- },
- {
-  "title": "Küresel piyasalarda gözler ABD'de açıklanacak verilerde",
-  "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-gozler-abdde-aciklanacak-verilerde-947236.html",
-  "source": "TRT Haber",
-  "summary_tr": "Küresel piyasalar ABD istihdam verisini bekliyor. Teknoloji rallisi duraksıyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T07:01:07.769359+00:00",
-  "cluster_id": "c24c554d60c8c"
- },
- {
-  "title": "CHP'deki krizde 'arabulucu' formülü: Başkanlar Seçer, Yavaş ve Karalar devrede",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSkswdVZ2b01kX2dwOEZLeUlmTzhJVE5BanlmQzNfeEFtNHV1Z0wwR3FpdWg4T043a0FzbDM1OVB1eWc2SzdjOUoyb3FmS1JVS3hJZzRWSmJWV01Lel9hcVh4TURFZ09GUGlybUQteGNlQi00RXVZMVZjUmxaWjlXVFo1RGxHb2I0VGUtRjdpMzBPYklUQ0pSajVTUE9ZUkx3VmdYZHVlVWwtQ0hYTmx4QQ?oc=5",
-  "source": "soL",
-  "summary_tr": "CHP krizinde Seçer, Yavaş ve Karalar arabulucu formülü devreye girdi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-05T07:01:07.769359+00:00",
-  "cluster_id": "cfcb56cff6184"
- },
- {
-  "title": "India holds rates, ramps up measures to support faltering rupee",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUHNYYmwybW5sTVN2MVdxZndGODhiTFE5Y0xZRU14bU1tYnQtZU9zenpHZVBkRGRmWDQ4TExyNHJYelNSb01POWdXY0cxNmpxcmZ0ODZpeU1vdzI3RmhBbFFHcEd6dUw3Q0owRUxPUVdRLTFvVEpVZTFqRWFUdW1MTHBLZ19fbHdoaFJDN05lOURnT29fMlRYVjRDdVIzSmlzV0g5bldsZW5FQkdCbnIxMzZ4Q1hGZWRBSEtKcnNiT3QzVFd0?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Hindistan faiz oranlarını sabit tutarken, zayıflayan rupi desteklemek için önlemler artırdı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T07:01:07.769359+00:00",
-  "cluster_id": "c51f6ca2fce58"
- },
- {
-  "title": "Zelenski mektup yazdı, Putin cevap verdi: Savaş sona mı eriyor?",
-  "link": "https://www.cumhuriyet.com.tr/dunya/zelenski-mektup-yazdi-putin-cevap-verdi-savas-sona-mi-eriyor-2509511",
-  "source": "Cumhuriyet",
-  "summary_tr": "Zelenski, Putin'e açık mektup göndererek doğrudan görüşme ve ateşkes çağrısında bulundu.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-05T06:02:10.021744+00:00",
-  "cluster_id": "c14f63c045cd6"
  }
 ]
