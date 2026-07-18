@@ -1,5 +1,125 @@
 [
  {
+  "title": "Bölgedeki gerilim 7. gecesinde: ABD İran'ı, İran Körfez'i vuruyor",
+  "link": "https://www.cumhuriyet.com.tr/dunya/bolgedeki-gerilim-7-gecesinde-abd-iran-i-iran-korfez-i-vuruyor-2521820",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD-İran savaşı yedinci gecesinde genişledi; CENTCOM, İran'ın farklı kentlerine yönelik yeni saldırı dalgası başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-18T08:01:02.125827+00:00",
+  "type": "news",
+  "cluster_id": "c0c55592f30f0"
+ },
+ {
+  "title": "İstanbul'da ev sahibi olmak servet değerinde: 100 metrekare dairenin ortalama fiyatı dudak uçuklattı",
+  "link": "https://www.sozcu.com.tr/istanbul-da-ev-sahibi-olmak-servet-degerinde-100-metrekare-dairenin-ortalama-fiyati-dudak-ucuklatti-p337523",
+  "source": "Sözcü",
+  "summary_tr": "Merkez Bankası Haziran ayı konut fiyatları ve kira endeksini açıkladı; İstanbul'da 100 metrekarelik dairenin ortalama fiyatı önemli ölçüde yükseldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-18T08:01:02.125827+00:00",
+  "type": "news",
+  "cluster_id": "c80f056a554b6"
+ },
+ {
+  "title": "Fitch'ten Türkiye ekonomisine güven mesajı: Kredi notu teyit edildi",
+  "link": "https://www.trthaber.com/haber/ekonomi/fitchten-turkiye-ekonomisine-guven-mesaji-kredi-notu-teyit-edildi-951532.html",
+  "source": "TRT Haber",
+  "summary_tr": "Uluslararası kredi derecelendirme kuruluşu Fitch Ratings, Türkiye'nin kredi notunu teyit etti ve düşük kamu borcu ile dayanıklı bankacılık sektörüne vurgu yaptı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-18T08:01:02.125827+00:00",
+  "type": "news",
+  "cluster_id": "c41e1898e0cd3"
+ },
+ {
+  "title": "Trump'tan Kanada'ya \"duman vergisi\" tehdidi",
+  "link": "https://www.dw.com/tr/trump-tan-kanada-ya-duman-vergisi-tehdidi/a-78016439?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Trump, Kanada'daki orman yangınları nedeniyle ABD'de havanın kirlendiğini öne sürerek kuzey komşusuna yeni gümrük vergileri ile tehdit etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-18T08:01:02.125827+00:00",
+  "type": "news",
+  "cluster_id": "cf0d2371569b6"
+ },
+ {
+  "title": "Faili meçhul dosyalarda kritik gelişme: 6 cinayet daha çözüldü",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/faili-mechul-dosyalarda-kritik-gelisme-6-cinayet-daha-cozuldu-2521818",
+  "source": "Cumhuriyet",
+  "summary_tr": "Adalet Bakanı Akın Gürlek, Faili Meçhul Suçları Araştırma Daire Başkanlığı koordinasyonunda yeniden incelenen 6 cinayet dosyasının aydınlatıldığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-18T08:01:02.125827+00:00",
+  "type": "news",
+  "cluster_id": "caa239f26e108"
+ },
+ {
+  "title": "6 faili meçhul cinayet daha aydınlatıldı",
+  "link": "https://www.sozcu.com.tr/6-faili-mechul-cinayet-daha-aydinlatildi-p337519",
+  "source": "Sözcü",
+  "summary_tr": "Adalet Bakanı Akın Gürlek, 2005-2016 yılları arasında işlenen 6 faili meçhul cinayet dosyasının aydınlatıldığını ve şüphelilerin belirlendiğini duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-18T08:01:02.125827+00:00",
+  "type": "news",
+  "cluster_id": "caa239f26e108"
+ },
+ {
+  "title": "Adalet Bakanı Gürlek, 6 faili meçhul cinayetin aydınlatıldığını duyurdu",
+  "link": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlek-6-faili-mechul-cinayetin-aydinlatildigini-duyurdu/4002011",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Adalet Bakanı Akın Gürlek, 2005-2016 yılları arasında farklı şehirlerde işlenen 6 cinayet dosyasının aydınlatıldığını duyurdu.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-18T08:01:02.125827+00:00",
+  "type": "news",
+  "cluster_id": "cd4b1a138bbac"
+ },
+ {
+  "title": "İsrail askerlerinin bir hafta önce yaraladığı Filistinli genç yaşamını yitirdi",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-askerlerinin-bir-hafta-once-yaraladigi-filistinli-genc-yasamini-yitirdi/4002003",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail askerlerinin bir hafta önce Batı Şeria'da yaraladığı 17 yaşındaki Filistinli yaşamını yitirdi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-18T08:01:02.125827+00:00",
+  "type": "news",
+  "cluster_id": "c5822adc66d91"
+ },
+ {
+  "title": "İsrail'in Gazze kentinde düzenlediği saldırıda 3 Filistinli hayatını kaybetti",
+  "link": "https://www.aa.com.tr/tr/dunya/israilin-gazze-kentinde-duzenledigi-saldirida-3-filistinli-hayatini-kaybetti/4001988",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusunun ateşkese rağmen Gazze'nin güneyindeki Zeytun Mahallesi'ndeki bir noktaya düzenlediği saldırıda 3 Filistinli hayatını kaybetti.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-18T08:01:02.125827+00:00",
+  "type": "news",
+  "cluster_id": "ca615155ecbcf"
+ },
+ {
+  "title": "Karanlıkta kalan 6 faili meçhul cinayet daha aydınlatıldı",
+  "link": "https://www.trthaber.com/haber/gundem/karanlikta-kalan-6-faili-mechul-cinayet-daha-aydinlatildi-951530.html",
+  "source": "TRT Haber",
+  "summary_tr": "Adalet Bakanı Akın Gürlek, Faili Meçhul Suçları Araştırma Daire Başkanlığı koordinasyonunda 2005-2016 yıllarına ait 6 cinayet dosyasının aydınlatıldığını bildirdi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-18T08:01:02.125827+00:00",
+  "type": "news",
+  "cluster_id": "cf17aca0bc63a"
+ },
+ {
   "title": "Fitch, Türkiye'nin kredi notuna dokunmadı: Enflasyon tahmini",
   "link": "https://www.diken.com.tr/fitch-turkiyenin-kredi-notuna-dokunmadi-enflasyon-tahmini/?utm_source=rss&utm_medium=rss&utm_campaign=fitch-turkiyenin-kredi-notuna-dokunmadi-enflasyon-tahmini",
   "source": "Diken",
@@ -57868,105 +57988,5 @@
   "score": 7,
   "ts": "2026-06-05T14:01:21.644931+00:00",
   "cluster_id": "cde1be09877f4"
- },
- {
-  "title": "Memur ve emekli zam oranları şekillenmeye başladı",
-  "link": "https://www.trthaber.com/haber/gundem/memur-ve-emekli-zam-oranlari-sekillenmeye-basladi-947300.html",
-  "source": "TRT Haber",
-  "summary_tr": "Mayıs enflasyon verilerine göre memur ve emeklilerin ikinci yarı zam oranları belirlenmeye başladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T14:01:21.644931+00:00",
-  "cluster_id": "ca0d25c6f63e2"
- },
- {
-  "title": "US forces board sanctioned tanker in Indian Ocean, Pentagon says",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONFVpNEYzc3huRHNUeEt6RHZxQllKemFLSnRlUmVYcWlGLVl1Q0RQSGVQQ0dCTFp4UmhJaXkySjdXNlloTlg3dTBxS0JnRWYzYkNhZmViLTE3SUljbkZTeW40U0p1OFhtdkk0eFBJaTIybGx0X2NHYVE0OEZ6MWpNR0RPUl9Ic1JCWTlFb2VYdU1kZUVVdGszVkJDTWU4Z1c0MGNoeA?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD kuvvetleri Hint Okyanusu'nda yaptırımlı bir tankerine el koydu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T14:01:21.644931+00:00",
-  "cluster_id": "c75c46cd2f4ea"
- },
- {
-  "title": "Iran declares support for Hezbollah with wider peace deal in doubt",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMkJmdHFzTERGVlZsOTRwbkozTUFSZ3N4cXZhUlJUY1ZaSTJ4ZjZaYXV0NEhZWHgwbUhYVlhYTmpDakgzXzNiTEJpeGdObmkzR1lVMGtIV3FrWVd5eGJUVHdZaEgzVWVGUnlHbHJOYnNGNlprMzNHY3djMWUweFlGWGoyMnJUNlJJNkJuUlhpWWVFanZZcW04aFBMTUlUd1ZjVUk1c2lrcmFwbTFnTHdZNU02WQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran, daha geniş bir barış anlaşmasının şüpheli hale gelmesi ortamında Hezbollah'a desteğini açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T14:01:21.644931+00:00",
-  "cluster_id": "cde3e765d59bb"
- },
- {
-  "title": "S&P 500, Nasdaq slip at open after solid jobs data fuels hawkish Fed fears; chip stocks fall",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZzdPM20tT2tIYkJrWFRJSmRaUDk5M1Z0ZHJRbEZ0dFpmSkpFWVAtTEZGdjFwa1YyN2hhU2NEbkx5NVJ2c0JCYzlZclV6NVh6SHhqbVk3V2h5V2J5azlCQ3MyN0ZsUmhvd1RYLXo1Ti1qNlJUOVhBaHVRQkNWckRJQ000UEZIWk9SLVk5QmZ6ZmpDUzhxbWRDZ2JSVER5VDZEbmtSWg?oc=5",
-  "source": "Reuters",
-  "summary_tr": "S&P 500 ve Nasdaq güçlü işsizlik verilerine karşı açılışta düştü; çip hisseleri geriledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T14:01:21.644931+00:00",
-  "cluster_id": "c35f373bd1369"
- },
- {
-  "title": "Trump's 'crazy' rebuke undercuts Netanyahu at a critical moment",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOVJhNXhDSC1NbGdmd1NJUnlTaGFMM3JxTnZFNUR6VVpDdXlMS2ZOLW05TW1YMXJhcUdGSVFfM1Q3VVNURUNVSnl4VVM3WnlFMGZuZjVOSUhQZkFCZjBBYVFBeEMzTVViNnFLZWtCWGdKMDFRTF8xZ0RVUlBPbDZBV2FFZVpCZmhHTG00RWNDRGtIS0N5TXI1RzRFY1ozQXR3SXpDNm9JX0ZPcUxQR0E?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump'un Netanyahu'ya yönelik eleştirisi kritik bir dönemde ittifakı zayıflatıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T14:01:21.644931+00:00",
-  "cluster_id": "cb7a4c2b66ceb"
- },
- {
-  "title": "Türk tekstil firması iflas etti",
-  "link": "https://www.sozcu.com.tr/turk-tekstil-firmasi-iflas-etti-p325538",
-  "source": "Sözcü",
-  "summary_tr": "Bursa merkezli Güzeldağ Tekstil Şirketi mahkeme tarafından iflas ettirildi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T14:01:21.644931+00:00",
-  "cluster_id": "c35e828785113"
- },
- {
-  "title": "Karahan: Katılım finans istikrarlı şekilde büyüyor",
-  "link": "https://www.trthaber.com/haber/ekonomi/karahan-katilim-finans-istikrarli-sekilde-buyuyor-947299.html",
-  "source": "TRT Haber",
-  "summary_tr": "TCMB Başkanı Karahan, katılım finansın Türkiye'de istikrarlı büyüdüğünü belirtti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T14:01:21.644931+00:00",
-  "cluster_id": "cb4cc579a089d"
- },
- {
-  "title": "Marine drone self-detonates in Romanian port after Ukraine says Russia jammed vessel",
-  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNODE4VF96MG1FWDhMRlBXbEFGbVozTGFJWmlVcG1rNjN4cTNXTjVkVWZzYzYwQkJpMkJrMGdKWnB0Z2xBSjJfNW4xT0xyNTdMa3FTeWdWYjZyNkRhRDBOSXBhbHdhYUlmWDdFdWh2eWdBeWNtT1FVcmsydjF6ZDlzbUVxQzRFbGRpQ2g1T2pDNFpWUVJKQk5GRDU3N1RtWmJiZS01aWxkV0ZUYV9RWGJXbXBJclVTdjJUVEJrWTIzVlRkY2dveG1VNzB5eThkM2lGV2c?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ukrayna'nın Rusya'nın korsanlığından bahsetmesinin ardından insansız deniz aracı Rumen limanında kendi kendine patladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T14:01:21.644931+00:00",
-  "cluster_id": "c4dba60f74f38"
- },
- {
-  "title": "Avrupa ekonomisine soğuk duş: Euro Bölgesi ilk çeyrekte daraldı",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/avrupa-ekonomisine-soguk-dus-euro-bolgesi-ilk-ceyrekte-daraldi-2509641",
-  "source": "Cumhuriyet",
-  "summary_tr": "Euro Bölgesi ilk çeyrekte beklentilerin aksine daralıp Eurostat büyüme tahminlerini aşağı revize etti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-05T13:01:15.669447+00:00",
-  "cluster_id": "cf3ed16c66b1e"
- },
- {
-  "title": "İran ABD gemilerine füze fırlattı: 'Gemiler kaçmak zorunda kaldı'",
-  "link": "https://www.sozcu.com.tr/iran-abd-gemilerine-fuze-firlatti-gemiler-kacmak-zorunda-kaldi-p325518",
-  "source": "Sözcü",
-  "summary_tr": "İran, Umman Denizi'nde ABD savaş gemilerine uyarı ateşi açarak gemileri bölgeden uzaklaştırdığını iddia etti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-05T13:01:15.669447+00:00",
-  "cluster_id": "c4b34730c3efe"
  }
 ]
