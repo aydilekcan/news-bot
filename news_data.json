@@ -1,5 +1,53 @@
 [
  {
+  "title": "ABD: İran'a yönelik yeni hava saldırıları başlattık",
+  "link": "https://www.trthaber.com/haber/dunya/abd-irana-yonelik-yeni-hava-saldirilari-baslattik-951576.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD ordusu Ürdün'de öldürülen askerlerine misilleme olarak İran'a yeni hava saldırıları başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-18T23:01:00.750293+00:00",
+  "type": "news",
+  "cluster_id": "caf7e3930c7dd"
+ },
+ {
+  "title": "US military launches new airstrikes to punish Iran for deaths of US troops",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbS1jN0tZcUtrbk9GU3RKeUxqTHM1Qk5DUDF1VDBVOUVqaVp4QV8xWGhEMmtFV3JRRDc1SXlxalZwcElvUlBXQk13R1NPdW91eUFNRF9UT3JRM3ZHTC03a2ZaZmg0Z2tJdXdCRjVMUml0eWtTSWFLU2U5WGxIMHBNSG1hb2dTS3VLak0zVXdZdHhKY1duRml2MW9Ea0xxVlU?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD ordusu, Ürdün'de öldürülen askerlerine karşılık vermek için İran'a yeni hava saldırıları başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-18T23:01:00.750293+00:00",
+  "type": "news",
+  "cluster_id": "cf59d3d4487ff"
+ },
+ {
+  "title": "İran basını, ABD'nin Hürmüz Boğazı yakınlarındaki Sirik kentine saldırı düzenlediğini duyurdu",
+  "link": "https://www.aa.com.tr/tr/live-blog/iran-basini-abdnin-hurmuz-bogazi-yakinlarindaki-sirik-kentine-saldiri-duzenledigini-duyurdu/5564",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD, İran'ın güney kıyısındaki Sirik kentine hava saldırısı düzenledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-18T23:01:00.750293+00:00",
+  "type": "news",
+  "cluster_id": "c28032776d7c1"
+ },
+ {
+  "title": "İsrail basını: ABD, İran'a yönelik hava saldırılarının kapsamını genişletmeye hazırlanıyor",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-basini-abd-irana-yonelik-hava-saldirilarinin-kapsamini-genisletmeye-hazirlaniyor/4002534",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail medyasına göre ABD, İran'a yönelik hava saldırılarının kapsamını genişletmeyi planlıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-18T23:01:00.750293+00:00",
+  "type": "news",
+  "cluster_id": "c23a3660f525d"
+ },
+ {
   "title": "US military says 2 troops are dead and 1 is missing after Iran attacks a base in Jordan",
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbS1jN0tZcUtrbk9GU3RKeUxqTHM1Qk5DUDF1VDBVOUVqaVp4QV8xWGhEMmtFV3JRRDc1SXlxalZwcElvUlBXQk13R1NPdW91eUFNRF9UT3JRM3ZHTC03a2ZaZmg0Z2tJdXdCRjVMUml0eWtTSWFLU2U5WGxIMHBNSG1hb2dTS3VLak0zVXdZdHhKY1duRml2MW9Ea0xxVlU?oc=5",
   "source": "AP",
@@ -58088,45 +58136,5 @@
   "score": 7,
   "ts": "2026-06-05T21:01:05.727769+00:00",
   "cluster_id": "cfc76c202dff2"
- },
- {
-  "title": "İran’dan ABD’ye ağır darbe! Gizli kalan hasarı Amerikan dergisi yazdı",
-  "link": "https://www.sozcu.com.tr/iran-dan-abd-ye-agir-darbe-gizli-kalan-hasari-amerikan-dergisi-yazdi-p325595",
-  "source": "Sözcü",
-  "summary_tr": "İran'ın ABD'nin Katar'daki El Udeid Hava Üssü'ne vuruşunun gizli hasarı ABD dergisinde açıklandı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T21:01:05.727769+00:00",
-  "cluster_id": "c4ac8059288f0"
- },
- {
-  "title": "BM Güvenlik Konseyinin, Ukrayna'nın çağrısı üzerine 8 Haziran'da acil toplanacağı açıklandı",
-  "link": "https://www.aa.com.tr/tr/dunya/bm-guvenlik-konseyinin-ukraynanin-cagrisi-uzerine-8-haziranda-acil-toplanacagi-aciklandi/3958112",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "BM Güvenlik Konseyi, Ukrayna'nın çağrısı üzerine 8 Haziran'da Rusya'nın saldırılarını görüşmek üzere acil toplanacak.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T21:01:05.727769+00:00",
-  "cluster_id": "c11c771e2daec"
- },
- {
-  "title": "Eli kanlı Netanyahu: Şu anda Lübnan'la ateşkes yok",
-  "link": "https://www.trthaber.com/haber/dunya/eli-kanli-netanyahu-su-anda-lubnanla-ateskes-yok-947327.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail Başbakanı Netanyahu, Lübnan ile ateşkes anlaşmasının henüz sağlanmadığını belirtti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T21:01:05.727769+00:00",
-  "cluster_id": "c831c2293a3c4"
- },
- {
-  "title": "SpaceX IPO running at two times oversubscribed, sources say",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX0J6ZDFyMUROYWtZQWZPckNHdjllc3laLVNtWXF0dFp5Q1JkME5pNkhyNXVXNzhTdUh2TzMwdXltb0VCNzBFM29IQ0xsM1pGcERSR1ptLUhRbVc5UVNERG1TUThpUWJlUEo2cnF6NWpHNTlEY3h2OVN5S2YwQm5sc0dlazR5OHlFMUh6WDc3cDViX0x4YmVZMVdRcEs4UGR4dFVGMElERERpVnkw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "SpaceX'in halka arz işlemi 2 kat aşırı talep görmektedir.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T21:01:05.727769+00:00",
-  "cluster_id": "cec478c4bc59b"
  }
 ]
