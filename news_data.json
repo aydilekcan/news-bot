@@ -1,5 +1,137 @@
 [
  {
+  "title": "Ukrayna'dan Moskova'ya şiddetli İHA saldırıları: Petrol ve lojistik depoları vuruldu, 7 ölü, onlarca yaralı",
+  "link": "https://www.cumhuriyet.com.tr/dunya/ukrayna-dan-moskova-ya-siddetli-iha-saldirilari-petrol-ve-lojistik-depolari-vuruldu-7-olu-onlarca-yarali-2521874",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ukrayna, Moskova'ya şiddetli İHA saldırıları düzenledi; petrol ve lojistik depoları vuruldu, 7 ölü ve onlarca yaralı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-18T12:01:06.190507+00:00",
+  "type": "news",
+  "cluster_id": "c860e4474c207"
+ },
+ {
+  "title": "İsrailli sağcı bakanlar Gazze ve Batı Şeria için yeni yerleşimler duyurdu",
+  "link": "https://www.sozcu.com.tr/israilli-sagci-bakanlar-gazze-ve-bati-seria-icin-yeni-yerlesimler-duyurdu-p337588",
+  "source": "Sözcü",
+  "summary_tr": "İsrail Savunma Bakanı ve Maliye Bakanı, Gazze'de üç yeni yerleşim kurulacağını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-18T12:01:06.190507+00:00",
+  "type": "news",
+  "cluster_id": "ce0b8a24d5242"
+ },
+ {
+  "title": "Avrupa Birliği'nin enerji planında elektrikli araçlara büyük görev: Hedef 120 milyon!",
+  "link": "https://www.cumhuriyet.com.tr/otomotiv/avrupa-birligi-nin-enerji-planinda-elektrikli-araclara-buyuk-gorev-hedef-120-milyon-2521869",
+  "source": "Cumhuriyet",
+  "summary_tr": "AB, elektrikli araçlar ile elektrifikasyon oranını 10 yılda %23'ten %50'ye çıkarmayı planlıyor.",
+  "metric": "Elektrifikasyon oranı hedefi: %23 -> %50",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-18T12:01:06.190507+00:00",
+  "type": "news",
+  "cluster_id": "c29e9a8aef3bf"
+ },
+ {
+  "title": "Ukrayna duyurdu: 13 gemiyi vurduk",
+  "link": "https://www.sozcu.com.tr/ukrayna-duyurdu-13-gemiyi-vurduk-p337585",
+  "source": "Sözcü",
+  "summary_tr": "Ukrayna Ordusu, Rus gölge filosuna ait 13 gemiye saldırı düzenledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-18T12:01:06.190507+00:00",
+  "type": "news",
+  "cluster_id": "c6d90da4e1c0f"
+ },
+ {
+  "title": "ABD'den kritik uyarı: 'Sakın bu ülkelere gitmeyin'",
+  "link": "https://www.sozcu.com.tr/abd-den-kritik-uyari-sakin-bu-ulkelere-gitmeyin-p337583",
+  "source": "Sözcü",
+  "summary_tr": "ABD, vatandaşlarına İsrail ve Lübnan'a seyahat etmemeleri çağrısında bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-18T12:01:06.190507+00:00",
+  "type": "news",
+  "cluster_id": "cf00ae6483cab"
+ },
+ {
+  "title": "İran, ABD saldırılarının bilançosunu açıkladı",
+  "link": "https://www.sozcu.com.tr/iran-abd-saldirilarinin-bilancosunu-acikladi-p337581",
+  "source": "Sözcü",
+  "summary_tr": "İran, ABD saldırılarında 50 kişinin öldüğünü ve 500'den fazla kişinin yaralandığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-18T12:01:06.190507+00:00",
+  "type": "news",
+  "cluster_id": "ce13f5289b75c"
+ },
+ {
+  "title": "Germany upgrades security stance to 'high threat level', interior minister tells paper",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRTV2cVk1WFpCWkR2cGlkcm90cVVvMkduU0hpUUltS3c3Tnh4QlJleUFveF96VmFIYjdsR0kyZVcxYmxqR1NpNDNpUTB4bnd2b1hCYUdyMWJiREJfczVXVmJoQjhlSV91Z0szcWRQY3pkU2phREdtSi1KRjI1MFI2ZklvWmNCLXllWWdObmszYzZ0dXItQ0g0WVRvcWNYejJ3Vkxac0VlYlQtWkdBWUZkQ1AwUmYyOGNORFhZX2lpVQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Almanya, iç güvenlik duruşunu 'yüksek tehdit seviyesi'ne yükselttiğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-18T12:01:06.190507+00:00",
+  "type": "news",
+  "cluster_id": "cdbe6f7d187f1"
+ },
+ {
+  "title": "Herkesi ilgilendiriyor: İstirahat raporlarında yeni dönem",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/herkesi-ilgilendiriyor-istirahat-raporlarinda-yeni-donem-2521871",
+  "source": "Cumhuriyet",
+  "summary_tr": "Sağlık Bakanlığı istirahat raporlarını e-Rapor Sistemi ile elektronik ortamda düzenlenmeye başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-18T12:01:06.190507+00:00",
+  "type": "news",
+  "cluster_id": "ccb316991be46"
+ },
+ {
+  "title": "İstirahat raporlarında artık bu işlem yapılmayacak: Her şey e-Devlet'e taşındı",
+  "link": "https://www.sozcu.com.tr/istirahat-raporlarinda-artik-bu-islem-yapilmayacak-her-sey-e-devlet-e-tasindi-p337590",
+  "source": "Sözcü",
+  "summary_tr": "Sağlık Bakanlığı e-Rapor Sistemi ile istirahat raporlarını e-Devlet üzerinden yönetmeye başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-18T12:01:06.190507+00:00",
+  "type": "news",
+  "cluster_id": "c0ced83d3a749"
+ },
+ {
+  "title": "Türk dondurmasına küresel ilgi sürüyor! İlk 4 ayda 23,5 milyon dolarlık ihracat",
+  "link": "https://www.sozcu.com.tr/turk-dondurmasina-kuresel-ilgi-suruyor-ilk-4-ayda-23-5-milyon-dolarlik-ihracat-p337586",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye, yılın ilk dört ayında 23,5 milyon dolarlık dondurma ihracatı gerçekleştirdi.",
+  "metric": "Dondurma ihracatı: 23,5 milyon dolar (ilk 4 ay)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-18T12:01:06.190507+00:00",
+  "type": "news",
+  "cluster_id": "c8086b063c920"
+ },
+ {
+  "title": "Makine sektöründen ilk yarıda 13,8 milyar dolarlık ihracat",
+  "link": "https://www.trthaber.com/haber/ekonomi/makine-sektorunden-ilk-yarida-138-milyar-dolarlik-ihracat-951554.html",
+  "source": "TRT Haber",
+  "summary_tr": "Makine sektörü ihracatı, ilk yarıda 2025 aynı dönemine göre %1,7 artışla 13,8 milyar dolara yükseldi.",
+  "metric": "Makine ihracatı artışı: +%1,7",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-18T12:01:06.190507+00:00",
+  "type": "news",
+  "cluster_id": "cc0abc3d62c92"
+ },
+ {
   "title": "Ali Babacan'dan 'Ahbap' açıklaması: 'Hükümet neden 3,5 yıl bekledi?'",
   "link": "https://www.cumhuriyet.com.tr/siyaset/ali-babacan-dan-ahbap-aciklamasi-hukumet-neden-3-5-yil-bekledi-2521856",
   "source": "Cumhuriyet",
@@ -57928,115 +58060,5 @@
   "score": 7,
   "ts": "2026-06-05T18:01:02.555529+00:00",
   "cluster_id": "cad7d1cddf568"
- },
- {
-  "title": "Putin, Zelenskiy ile görüşmesinin \"şimdilik anlamının olmadığını\" söyledi",
-  "link": "https://www.aa.com.tr/tr/dunya/putin-zelenskiy-ile-gorusmesinin-simdilik-anlaminin-olmadigini-soyledi/3957984",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Putin, Zelenskiy ile görüşmenin şimdilik anlamının olmadığını söyledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T18:01:02.555529+00:00",
-  "cluster_id": "c8448177e1811"
- },
- {
-  "title": "İsrail ordusu, Suriye'nin Kuneytra iline mayıs ayında 38 baskın düzenledi",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-suriyenin-kuneytra-iline-mayis-ayinda-38-baskin-duzenledi/3957973",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail ordusu, Mayıs ayında Suriye'nin Kuneytra ilinde 38 kara baskını düzenledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T18:01:02.555529+00:00",
-  "cluster_id": "c434e52b1e1f8"
- },
- {
-  "title": "Putin says he currently sees no reason to meet Ukraine's Zelenskiy",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV2JqeXdjdF9hSy1oc2VFZFcxUWxaQTRWb3RFcWM4anBsLXozZkNScV9JQ0t6Wkx2S3hWR095Mm5VRnBvcmRhYVNTcW9FNHlvdXJUQVROYTB4T2FMM01rVnpCdWQtS3lJaWFodG1wUG8tb3dJaERnMXZBT1ZUTTZoQVQyRXFfQTZUSmJidmg3d1lTR1p0VUFXVFRSYUplMkRJQXotTDh0MA?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Putin, Zelenskiy ile görüşmenin şu anda herhangi bir nedeni olmadığını söyledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T18:01:02.555529+00:00",
-  "cluster_id": "c8fbd177db875"
- },
- {
-  "title": "US judge strikes down Trump policies targeting immigrants from 39 countries",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMkstOFU0cXFkQ1dVbEZwNldfU3lLU2VHbzYwRE90Y2dOX0VYeTVPMWUxRUo1aVBqc3k2ZmFvNGFLMS1lNS1IMkk2MkhtZnNUS2xZNlhBM2w3ajZOWTZuTXYwNlZHbWRYbDIyRUo1ajRta3dCbFRCeDNDXzIyREVsTU0xTnQyUXdfQk9zMUtMWkdXT1hVUzdGdEV1eEp0MnlUSnNlcWtoSXRwRnlzbUtKMQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD yargısı, Trump'ın 39 ülkeden göçmenleri hedef alan politikalarını iptal etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T18:01:02.555529+00:00",
-  "cluster_id": "c3b07594d137b"
- },
- {
-  "title": "Karadeniz'de Türk balıkçı teknesine saldırı",
-  "link": "https://www.sozcu.com.tr/karadeniz-de-turk-balikci-teknesine-saldiri-p325576",
-  "source": "Sözcü",
-  "summary_tr": "Karadeniz'de Türk balıkçı teknesine saldırı: tekne battı, 1 kişi öldü, 4 yaralandı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T18:01:02.555529+00:00",
-  "cluster_id": "cdb9b1551f8d2"
- },
- {
-  "title": "Hürmüz’deki gerilim onlara yaradı! Ülke bütçesine 13 milyar dolarlık ek kaynak",
-  "link": "https://www.sozcu.com.tr/hurmuz-deki-gerilim-onlara-yaradi-ulke-butcesine-13-milyar-dolarlik-ek-kaynak-p325575",
-  "source": "Sözcü",
-  "summary_tr": "Rusya Maliye Bakanı, Hürmüz Boğazı geriliminin Rus ekonomisine 13 milyar dolarlık ek kaynak sağlayabileceğini açıkladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T18:01:02.555529+00:00",
-  "cluster_id": "c4fb550d176a1"
- },
- {
-  "title": "ABD'den Yeni Zelanda'ya 1,5 milyar doları aşan helikopter ve torpido satışına onay",
-  "link": "https://www.aa.com.tr/tr/dunya/abdden-yeni-zelandaya-1-5-milyar-dolari-asan-helikopter-ve-torpido-satisina-onay/3958001",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD, Yeni Zelanda'ya 1,5 milyar doları aşan helikopter ve torpido satışına onay verdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T18:01:02.555529+00:00",
-  "cluster_id": "c2bb10a4af122"
- },
- {
-  "title": "İsrail'in Gazze'den alıkoyduğu doktor Hüsam Ebu Safiyye hücre hapsine alındı",
-  "link": "https://www.trthaber.com/haber/dunya/israilin-gazzeden-alikoydugu-doktor-husam-ebu-safiyye-hucre-hapsine-alindi-947315.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail tarafından alıkonulan Gazze Şeridi'nin kuzeyindeki hastane müdürü Dr. Hüsam Ebu Safiyye hücre hapsine alındı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T18:01:02.555529+00:00",
-  "cluster_id": "c9a585f915873"
- },
- {
-  "title": "Alaattin Köseler’in tutukluluğunun devamına karar verildi",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRXE3ZkpmNXBaaGlqVUNRQ0JMYW1yb3dkWUswamdCX0VNZ3ZUa1lESlFEV01WMGM3TnprUlg0cG1fWXlyeW95VU1EQU05YnUyYkt0X1lCOFQzMVdzMUF6dmZZWkpxRVc0R2NBQ21mM0tDV3hCQXpNTm5FY25mQ0pFMERBZWhiTGlHT1QzNEhrdm1SLUk3?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Alaattin Köseler'in tutukluluğunun devamına karar verildi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T18:01:02.555529+00:00",
-  "cluster_id": "cd67ca2ec2085"
- },
- {
-  "title": "Putin'den Zelenskiy'nin görüşme çağrısında yanıt",
-  "link": "https://www.sozcu.com.tr/putin-den-zelenskiy-nin-gorusme-cagrisinda-yanit-p325569",
-  "source": "Sözcü",
-  "summary_tr": "Rus lideri Putin, Ukrayna lideri Zelenskiy'nin görüşme çağrısını reddetti; 'Görüşmenin anlamı yok' dedi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T17:01:00.080843+00:00",
-  "cluster_id": "cff878b4a9d91"
- },
- {
-  "title": "Global oil inventories depleted, next price spike could roil economies, markets",
-  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV01INndjOU8xWVM2Z1hYdU16cy1qQU85c0tLb0N6RDhaeG5Oa0J0YWQ4Yzh4TmRUUUJUTDBoVEdWUE5Kc2Y3NXFveG1NZHN6aVZpMHh5RV9waE96a3Z6ckxscHBVajJITGowdVFSeEV2cTVUaHhKcEFBSmxtdmFTU3Jpd1VMbzVyZnBN?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Küresel petrol envanterleri azaldı; sonraki fiyat yükselişi ekonomi ve piyasaları sarsabilir.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T17:01:00.080843+00:00",
-  "cluster_id": "c24be7f50336e"
  }
 ]
