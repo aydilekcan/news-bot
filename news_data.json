@@ -1,5 +1,29 @@
 [
  {
+  "title": "Hamaney: Mutabakat ihlali ABD Başkanı'nın imzasının değersiz olduğunu ispatladı",
+  "link": "https://www.trthaber.com/haber/dunya/hamaney-mutabakat-ihlali-abd-baskaninin-imzasinin-degersiz-oldugunu-ispatladi-951570.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran lideri Hamaney, ABD ile imzalanan mutabakat zaptının ihlal edilmesinin Amerikan Başkanı'nın sözünün değersiz olduğunu kanıtladığını belirtti.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-18T19:01:01.029369+00:00",
+  "type": "news",
+  "cluster_id": "c7a271f08e7ef"
+ },
+ {
+  "title": "Hamaney: ABD Başkanı’nın imzasının tamamen değersiz olduğu kanıtlanmıştır",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaXV2NHNqNUhKWndzbW1mU1VnYXc2T2xKbUdKOWxjNGJjQXR6alFERWZXcHN5MWc3T0hiSVhKZnFEckMxSjM3WDlaOTU0enQyeFEyLXZHOWViVUpjUktaVVZTbGVNTGV6RVpvWk1MVl9UZ2lwNEI4QXpRU3kyNzRJeEN6LWE0MW1jNkpYM2FvVlo1Y2FGNGxocm12NmgtLXdIMjJCbWl3bDFKQzRNRUE?oc=5",
+  "source": "soL",
+  "summary_tr": "İran lideri Hamaney, ABD Başkanı'nın imzasının tamamen değersiz olduğu kanıtlandığını açıkladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-18T19:01:01.029369+00:00",
+  "type": "news",
+  "cluster_id": "c7a271f08e7ef"
+ },
+ {
   "title": "Ürdün'de iki ABD askeri öldü",
   "link": "https://www.diken.com.tr/urdunde-iki-abd-askeri-oldu/?utm_source=rss&utm_medium=rss&utm_campaign=urdunde-iki-abd-askeri-oldu",
   "source": "Diken",
@@ -58098,25 +58122,5 @@
   "score": 6,
   "ts": "2026-06-05T21:01:05.727769+00:00",
   "cluster_id": "c255bad14dd3f"
- },
- {
-  "title": "Yeni parti iddiası kulisleri hareketlendirdi: Alan adının alındığı tarih dikkat çekti",
-  "link": "https://www.sozcu.com.tr/istiklal-partisi-ile-ilgili-carpici-detay-p325592",
-  "source": "Sözcü",
-  "summary_tr": "CHP lideri Özgür Özel'in yeni parti kuracağı iddialarında 'istiklalpartisi.com' alan adının alınış tarihi dikkat çekti.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-05T21:01:05.727769+00:00",
-  "cluster_id": "cb8a5272911dd"
- },
- {
-  "title": "İstanbul merkezli 27 ildeki dolandırıcılık operasyonunda gözaltına alınan şüphelilerden 79'u tutuklandı",
-  "link": "https://www.aa.com.tr/tr/gundem/istanbul-merkezli-27-ildeki-dolandiricilik-operasyonunda-gozaltina-alinan-suphelilerden-79u-tutuklandi/3958114",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İstanbul merkezli 27 ildeki dolandırıcılık operasyonunda 79 şüpheli tutuklandı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T21:01:05.727769+00:00",
-  "cluster_id": "c644f47867f46"
  }
 ]
