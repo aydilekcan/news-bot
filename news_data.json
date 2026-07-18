@@ -1,5 +1,89 @@
 [
  {
+  "title": "İçişleri Bakanlığı duyurdu... 30 ilde IŞİD operasyonu: 119 şüpheli gözaltına alındı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/icisleri-bakanligi-duyurdu-30-ilde-isid-operasyonu-119-supheli-gozaltina-alindi-2521838",
+  "source": "Cumhuriyet",
+  "summary_tr": "İçişleri Bakanlığı, 30 ilde IŞİD'e yönelik operasyonda 119 şüpheliyi gözaltına aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-18T09:01:35.178640+00:00",
+  "type": "news",
+  "cluster_id": "c93e5f1c047a7"
+ },
+ {
+  "title": "Yargıtay'dan emsal kira kararı: O belge artık resmen çöp",
+  "link": "https://www.sozcu.com.tr/yargitay-dan-emsal-kira-karari-o-belge-artik-resmen-cop-p337535",
+  "source": "Sözcü",
+  "summary_tr": "Yargıtay 3. Hukuk Dairesi, kira ilişkilerini etkileyecek emsal kira kararı verdi; ilgili belgenin artık hukuki niteliği değişti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-18T09:01:35.178640+00:00",
+  "type": "news",
+  "cluster_id": "c5ab46228b490"
+ },
+ {
+  "title": "30 ilde DEAŞ operasyonu: 119 gözaltı",
+  "link": "https://www.trthaber.com/haber/gundem/30-ilde-deas-operasyonu-119-gozalti-951538.html",
+  "source": "TRT Haber",
+  "summary_tr": "İçişleri Bakanlığı, 30 ilde terör örgütü DEAŞ'a yönelik operasyonlarda 119 kişiyi gözaltına aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-18T09:01:35.178640+00:00",
+  "type": "news",
+  "cluster_id": "c1f8231dce85c"
+ },
+ {
+  "title": "Küresel piyasalarda Çip depremi: TSMC’nin rekor kârı bile yatırımcıyı durduramadı",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/kuresel-piyasalarda-cip-depremi-tsmc-nin-rekor-kari-bile-yatirimciyi-durduramadi-2521832",
+  "source": "Cumhuriyet",
+  "summary_tr": "Küresel çip pazarında sert satış dalgası; TSMC'nin rekor kârı bile endeksleri durduramadı. ABD'den Asya'ya teknoloji hisselerinde kayıplar derinleşti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-18T09:01:35.178640+00:00",
+  "type": "news",
+  "cluster_id": "cff887a50e401"
+ },
+ {
+  "title": "Kadın işçilerin zorlu mesaisi başladı: Kavurucu sıcakta bin TL yevmiye için mücadele ediyorlar!",
+  "link": "https://www.cumhuriyet.com.tr/yasam/kadin-iscilerin-zorlu-mesaisi-basladi-kavurucu-sicakta-bin-tl-yevmiye-icin-mucadele-ediyorlar-2521831",
+  "source": "Cumhuriyet",
+  "summary_tr": "Erzincan'da kadın tarım işçileri, 35-40 derece sıcakta bin TL yevmiye karşılığında şeker pancarı tarlalarında çalışıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-18T09:01:35.178640+00:00",
+  "type": "news",
+  "cluster_id": "c8e27bd37cb01"
+ },
+ {
+  "title": "Milyonluk ÖTV cezalarında yüksek yargıdan ezber bozan karar!",
+  "link": "https://www.sozcu.com.tr/milyonluk-otv-cezalarinda-yuksek-yargidan-ezber-bozan-karar-p337534",
+  "source": "Sözcü",
+  "summary_tr": "Yargıdan traktör görünümlü ATV satışlarına ilişkin ÖTV cezalarında ezber bozan karar çıktı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-18T09:01:35.178640+00:00",
+  "type": "news",
+  "cluster_id": "cfb4dae8ff970"
+ },
+ {
+  "title": "Kafa karıştıran indirim reklamlarına sıkı takip",
+  "link": "https://www.trthaber.com/haber/ekonomi/kafa-karistiran-indirim-reklamlarina-siki-takip-951541.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ticaret Bakanlığı, indirimli satış reklamlarında artan ihlalleri üzerine saha denetimlerini sıklaştırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-18T09:01:35.178640+00:00",
+  "type": "news",
+  "cluster_id": "c16caab071ffa"
+ },
+ {
   "title": "Bölgedeki gerilim 7. gecesinde: ABD İran'ı, İran Körfez'i vuruyor",
   "link": "https://www.cumhuriyet.com.tr/dunya/bolgedeki-gerilim-7-gecesinde-abd-iran-i-iran-korfez-i-vuruyor-2521820",
   "source": "Cumhuriyet",
@@ -57918,75 +58002,5 @@
   "score": 7,
   "ts": "2026-06-05T15:01:13.033644+00:00",
   "cluster_id": "cc5a7bf28f774"
- },
- {
-  "title": "Türkiye'ye gidecek Patriot birliğine uğurlama töreni",
-  "link": "https://www.dw.com/tr/türkiye-ye-gidecek-patriot-birliğine-uğurlama-töreni/a-77438086?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Türkiye'ye konuşlandırılacak Alman Patriot hava savunma birliğine uğurlama töreni düzenlendi. Birliklerin Haziran ayı sonunda göreve başlaması planlanıyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T15:01:13.033644+00:00",
-  "cluster_id": "c3428b1b7df60"
- },
- {
-  "title": "Kripto para borsasından %148 sermaye artışı",
-  "link": "https://www.cumhuriyet.com.tr/is-dunyasi/kripto-para-borsasindan-148-sermaye-artisi-2509687",
-  "source": "Cumhuriyet",
-  "summary_tr": "Kripto para borsası OKX TR, Şubat 2024'ten bu yana Türkiye'de faaliyet göstermekte ve %148 sermaye artışı yaparak Türkiye'ye istikrarlı yatırım gerçekleştiriyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T15:01:13.033644+00:00",
-  "cluster_id": "cc3917978cc84"
- },
- {
-  "title": "Türkiye'de enflasyon yüzde 30'a takıldı",
-  "link": "https://www.dw.com/tr/türkiye-de-enflasyon-yüzde-30-a-takıldı/a-77437855?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Türkiye enflasyonu yüzde 30'da sabitlenmiş durumda; G-20'de Arjantin'den sonra en yüksek enflasyona sahip ülke konumundadır.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-05T14:01:21.644931+00:00",
-  "cluster_id": "cac491802bd7d"
- },
- {
-  "title": "US posts another month of strong job gains in May; unemployment rate steady at 4.3%",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYzlNSjdHTDNFS0c2TWFWbEdfdWFZX3NrNVZPT2paMzhIZWlub1RieWJvNUE0bFJSOFNwOXhOT0pBc3oyYzFsZ1Y0MzJ2cFBwZGZPNUVtdXp6SDl1dXNNMWNkQmliMkpEMFhNN2Y3bzd0N3dEdzZRYTRxaDhzZi1FWE45dTRqSUZMNUtscVFQS1VkWWN6NnloVjh5QWZqenc5NDE3VHg4MEphcXVhbnBCWE5yNGlIWm5mRFdfeDVaVUdCemxBNUh6Z3Zn?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD mayıs ayında işsizlik oranı yüzde 4,3'te sabit kalırken güçlü istihdam artışı kaydetti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-05T14:01:21.644931+00:00",
-  "cluster_id": "c0f51603bf0f4"
- },
- {
-  "title": "Erdoğan: Emlak Katılım halka arz edilecek, üç katılım bankası birleştirilecek",
-  "link": "https://www.bbc.com/turkce/articles/cnvpv6dj2zmo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Erdoğan, Emlak Katılım Bankası'nın halka arzını ve üç katılım bankasının birleştirilmesini açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T14:01:21.644931+00:00",
-  "cluster_id": "c6ed73eccda70"
- },
- {
-  "title": "ABD'de tarım dışı istihdam arttı: Altın çakıldı!",
-  "link": "https://www.sozcu.com.tr/abd-de-tarim-disi-istihdam-artti-altin-cakildi-p325539",
-  "source": "Sözcü",
-  "summary_tr": "ABD tarım dışı istihdamı mayısta 172 bin artarak beklentileri aştı; altın fiyatları düştü.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T14:01:21.644931+00:00",
-  "cluster_id": "c972f04c1091d"
- },
- {
-  "title": "Erdoğan açıkladı: 3 banka birleşiyor",
-  "link": "https://www.sozcu.com.tr/erdogan-acikladi-3-banka-birlesiyor-p325535",
-  "source": "Sözcü",
-  "summary_tr": "Erdoğan, üç kamu katılım bankasının tek çatı altında birleşeceğini açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T14:01:21.644931+00:00",
-  "cluster_id": "cde1be09877f4"
  }
 ]
