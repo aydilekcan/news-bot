@@ -1,5 +1,41 @@
 [
  {
+  "title": "Federal judge bars Trump administration from using obscure clause to make huge funding cuts",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQVREcjZLbkZKZy1kSF9aLXhDYjY2NkQwdl9GSEJnWUIzbWpiMC1hLUFVZjJwZFEtM2JXbnFaNjd4eXFNRHQ0NUVQaGxvSVNXTVJxYjBCc0JveFVEd0dwblh2djZMeGo0eEN6Ym5qU0h4OTM5MFVydjRESHotSnhVNXQ1SFpjVU1mWXFWak9YNzBxLWI2MXR0Y1E2X0VBTFVNbE1VVg?oc=5",
+  "source": "AP",
+  "summary_tr": "Federal hakim, Trump yönetiminin gizli bir maddeyi kullanarak devasa bütçe kesintileri yapmasını yasakladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-18T16:01:02.737385+00:00",
+  "type": "news",
+  "cluster_id": "c4ced1da10c6e"
+ },
+ {
+  "title": "Iranian strike damages a Kuwait desalination plant, exposing water vulnerability in dry Mideast",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRGVJbndDX0t6eVRMcXVhUEtKLVlUYmJZeG5yYWNja0VPdU9nYTRuN25NeVRYcGNhaU5YT1poZW5LN2ZxUHRXaFhOZnp5Y2V6YnpUdWxaWUEyZlMzc2M0c1lIaUxIMmVpMkwza1NUSXAtbkhZNmYyekcxaFJTNmdTckhQamhyNHEyM2JickFyUFNMOVVLM1F5WVFkUlFmdHJIMVd3LWFJTmw?oc=5",
+  "source": "AP",
+  "summary_tr": "İran saldırısı, Kuveyt'in tuzlanmış su tesisini hasara uğratarak Ortadoğu'daki su krizini gözler önüne serdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-18T16:01:02.737385+00:00",
+  "type": "news",
+  "cluster_id": "c6a7bca037685"
+ },
+ {
+  "title": "Dört bankadan altın tahmini",
+  "link": "https://www.diken.com.tr/dort-bankadan-altin-tahmini/?utm_source=rss&utm_medium=rss&utm_campaign=dort-bankadan-altin-tahmini",
+  "source": "Diken",
+  "summary_tr": "Dört uluslararası banka, 2026'da altın fiyatının yükseleceğini öngörüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-18T16:01:02.737385+00:00",
+  "type": "news",
+  "cluster_id": "cb1d30a78a78a"
+ },
+ {
   "title": "Iran hits Gulf states and Jordan after seventh night of US strikes",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVgwRnh4bGg5bXVrMEdSNXEydXpjb0dCTmQwQlV2MHlydHJTU05DcUxIbktrZW82aGUwZ2F4R2h6bkJXOEpFQy1DREthRVFySzUzNkpVMGNSdXdTMlVjVFR4ZTkyYlRqRTU4bEo1cHR1Y3RMSDJ0UV9Ed01tbnVZbUdyN29ZZWpqQU5VZDd3b3dkS0VlMVp5UUJSZHdPVUUzVjZGNmFHWUJOYWVFZDd0ekJnV293QTg?oc=5",
   "source": "Reuters",
@@ -58064,35 +58100,5 @@
   "score": 7,
   "ts": "2026-06-05T20:00:55.871689+00:00",
   "cluster_id": "c9e5b718c15ba"
- },
- {
-  "title": "Akın Gürlek duyurdu: 15 bin kişi işe alınacak",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/akin-gurlek-duyurdu-15-bin-kisi-ise-alinacak-2509735",
-  "source": "Cumhuriyet",
-  "summary_tr": "Adalet Bakanı Akın Gürlek, Cumhurbaşkanı Erdoğan'ın müjdesini ilerek adalet teşkilatına 15 bin kişi alınacağını duyurdu.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-05T20:00:55.871689+00:00",
-  "cluster_id": "c7112b7b43609"
- },
- {
-  "title": "Özel Amasya’dan seslendi: 'Kişisel beklentilerin bu millete bir hezimet daha yaşatmasına izin vermeyeceğim'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/ozel-amasya-dan-seslendi-kisisel-beklentilerin-bu-millete-bir-hezimet-daha-yasatmasina-izin-vermeyecegim-2509731",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel, Amasya'da kişisel beklentilerin millete hezimet yaşatmasına izin vermeyeceğini söyledi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-05T20:00:55.871689+00:00",
-  "cluster_id": "c7ce51b53907b"
- },
- {
-  "title": "SpaceX ve Google arasında bulut hizmeti anlaşması imzalandı",
-  "link": "https://www.aa.com.tr/tr/bilim-teknoloji/spacex-ve-google-arasinda-bulut-hizmeti-anlasmasi-imzalandi/3958064",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "SpaceX ve Google, bulut hizmeti alanında stratejik anlaşma imzaladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T20:00:55.871689+00:00",
-  "cluster_id": "c9a5bda4e45a1"
  }
 ]
