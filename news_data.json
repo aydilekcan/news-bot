@@ -1,5 +1,53 @@
 [
  {
+  "title": "AKP ekimi işaret ediyor, MHP ve DEM ‘tatilden önce’ diyor: Meclis’te çerçeve yasa çıkmazı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/akp-ekimi-isaret-ediyor-mhp-ve-dem-tatilden-once-diyor-meclis-te-cerceve-yasa-cikmazi-2521774",
+  "source": "Cumhuriyet",
+  "summary_tr": "TBMM'nin 23 Temmuz'da tatile girmesi öncesinde açılım kapsamında çerçeve yasanın çıkmasına ilişkin parti kulisleri tartışılıyor; AKP ekimi işaret ederken MHP ve DEM tatilden önce çıkışını istiyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-18T02:01:03.876883+00:00",
+  "type": "news",
+  "cluster_id": "c033434b1d244"
+ },
+ {
+  "title": "Vergilerimizi geze geze harcamışlar!",
+  "link": "https://www.sozcu.com.tr/vergilerimizi-geze-geze-harcamislar-p337471",
+  "source": "Sözcü",
+  "summary_tr": "Devlet yılın ilk 6 ayında 15,6 milyon lirayı 'itibardan tasarruf olmaz' anlayışıyla harcadı; emekli ve işçiler geçim sıkıntısı yaşıyor.",
+  "metric": "Devlet harcaması (ilk 6 ay) 15,6 milyon TL",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-18T02:01:03.876883+00:00",
+  "type": "news",
+  "cluster_id": "cabe19f1d940b"
+ },
+ {
+  "title": "Çok beygirli vergi geliyor",
+  "link": "https://www.sozcu.com.tr/cok-beygirli-vergi-geliyor-p337473",
+  "source": "Sözcü",
+  "summary_tr": "Hükümet, elektrikli araçlar ve yüksek çekiş gücüne sahip araçların vergi yükünü artırma kararı aldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-18T02:01:03.876883+00:00",
+  "type": "news",
+  "cluster_id": "cc2c98d4e2929"
+ },
+ {
+  "title": "Emekli kredi kuyruğunda",
+  "link": "https://www.sozcu.com.tr/emekli-kredi-kuyrugunda-p337470",
+  "source": "Sözcü",
+  "summary_tr": "Açlık sınırının altındaki maaşla geçinemeyen emekliler kredi kullanmaya başladı; bu yıl emeklilerde kredi kullanan sayısı artış gösterdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-18T02:01:03.876883+00:00",
+  "type": "news",
+  "cluster_id": "c712e8a0608b4"
+ },
+ {
   "title": "Israeli strikes kill Palestinians attending Gaza funeral for earlier strike victim",
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0l2SzBLNkJrRlU3OWNGWmE1MXdfeVZfUk5MRXdETUJHQ1Z0ZFdiVm5GV09IOTRDdFZMYXR2c05HTjZzZTNZMEJmOVdUVWVoaEJNLURmdjNhNlVWb0pMSHlHUDBEa2hyQmpldkh6RVZOSHhDaUVvLW1JeWppMFpvaU9YVTdfSEtWTFluS0pOcmRwRU00Z0ZWd01qR0ZJVnZUOTAzUzlqel9lQ2U5ejYtWVd6Rmx1RHdoZEF4TDNJSTFNOUZjMnhnWHlueVg?oc=5",
   "source": "Reuters",
@@ -57886,45 +57934,5 @@
   "score": 7,
   "ts": "2026-06-05T12:01:12.358373+00:00",
   "cluster_id": "c722aa2e0ba38"
- },
- {
-  "title": "Meta'ya soruşturma ve geçici tedbir kararı",
-  "link": "https://www.trthaber.com/haber/gundem/metaya-sorusturma-ve-gecici-tedbir-karari-947291.html",
-  "source": "TRT Haber",
-  "summary_tr": "Rekabet Kurulu, Meta'ya yapay zeka alanında soruşturma ve geçici tedbir kararı verdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T12:01:12.358373+00:00",
-  "cluster_id": "c722aa2e0ba38"
- },
- {
-  "title": "TBMM'deki 'cinsel taciz' davasında tutuklu sanıklara tahliye",
-  "link": "https://www.bbc.com/turkce/articles/cy4xw82z930o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "TBMM'de cinsel taciz davasında tutuklu sanıklara tahliye kararı verildi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T12:01:12.358373+00:00",
-  "cluster_id": "c14f3aad67cc5"
- },
- {
-  "title": "Bahar Aksu cinayeti davasında istinaf kararı: Ağırlaştırılmış müebbet cezaları onandı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/bahar-aksu-cinayeti-davasinda-istinaf-karari-agirlastirilmis-muebbet-cezalari-onandi-2509632",
-  "source": "Cumhuriyet",
-  "summary_tr": "Bahar Aksu cinayeti davasında istinaf mahkemesi, ağırlaştırılmış müebbet cezalarını onayladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T12:01:12.358373+00:00",
-  "cluster_id": "c848c61b75713"
- },
- {
-  "title": "Akaryakıtta fiyatlar yeniden değişiyor: Benzine indirim yolda",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/akaryakitta-fiyatlar-yeniden-degisiyor-benzine-indirim-yolda-2509625",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD-İran barış görüşmeleri sonrası küresel petrol fiyatları düştü; benzine indirim beklentisi oluştu.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T12:01:12.358373+00:00",
-  "cluster_id": "c9d4857068c7f"
  }
 ]
