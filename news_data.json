@@ -1,5 +1,29 @@
 [
  {
+  "title": "Israeli strikes kill Palestinians attending Gaza funeral for earlier strike victim",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0l2SzBLNkJrRlU3OWNGWmE1MXdfeVZfUk5MRXdETUJHQ1Z0ZFdiVm5GV09IOTRDdFZMYXR2c05HTjZzZTNZMEJmOVdUVWVoaEJNLURmdjNhNlVWb0pMSHlHUDBEa2hyQmpldkh6RVZOSHhDaUVvLW1JeWppMFpvaU9YVTdfSEtWTFluS0pOcmRwRU00Z0ZWd01qR0ZJVnZUOTAzUzlqel9lQ2U5ejYtWVd6Rmx1RHdoZEF4TDNJSTFNOUZjMnhnWHlueVg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İsrail ordusu, Gazze'de cenaze törenine katılan Filistinlilere saldırı düzenleyerek ölümler meydana gelmiştir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-18T00:01:02.319157+00:00",
+  "type": "news",
+  "cluster_id": "c03e4af3df0b5"
+ },
+ {
+  "title": "Fitch raporunda dikkat çeken detay: Rezervler 167 milyar dolara çıkabilir",
+  "link": "https://www.sozcu.com.tr/fitch-raporunda-dikkat-ceken-detay-rezervler-167-milyar-dolara-cikabilir-p337468",
+  "source": "Sözcü",
+  "summary_tr": "Fitch Ratings, Türkiye'nin kredi notunu ve görünümünü değiştirmezken, raporda dış rezervlerin 167 milyar dolara çıkabileceğini belirtmiştir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-18T00:01:02.319157+00:00",
+  "type": "news",
+  "cluster_id": "c4cfce7e5c16d"
+ },
+ {
   "title": "İran: Hürmüz Boğazı'nda mayınlı bölgeden geçmeye çalışan 2 gemide patlama meydana geldi",
   "link": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazinda-mayinli-bolgeden-gecmeye-calisan-2-gemide-patlama-meydana-geldi-951519.html",
   "source": "TRT Haber",
@@ -57902,25 +57926,5 @@
   "score": 6,
   "ts": "2026-06-05T12:01:12.358373+00:00",
   "cluster_id": "c9d4857068c7f"
- },
- {
-  "title": "İHA'lar Azerbaycan gemisini vurdu: 5 kişi öldü",
-  "link": "https://www.sozcu.com.tr/iha-lar-azerbaycan-gemisini-vurdu-5-kisi-oldu-p325504",
-  "source": "Sözcü",
-  "summary_tr": "Azak Denizi'nde İHA saldırısında Azerbaycan kargo gemisine vuruldu, 5 kişi öldü.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T12:01:12.358373+00:00",
-  "cluster_id": "c955cf681b04b"
- },
- {
-  "title": "Euro Bölgesi ekonomisi ilk çeyrekte daraldı",
-  "link": "https://www.sozcu.com.tr/euro-bolgesi-ekonomisi-ilk-ceyrekte-daraldi-p325489",
-  "source": "Sözcü",
-  "summary_tr": "Avro Bölgesi ekonomisi 2025 yılının ilk çeyreğinde beklentilerin aksine yüzde 0,2 daralarak resesyon sinyali verdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-05T11:01:11.781630+00:00",
-  "cluster_id": "c659d7fc3a938"
  }
 ]
