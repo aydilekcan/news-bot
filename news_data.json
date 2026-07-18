@@ -1,5 +1,53 @@
 [
  {
+  "title": "Altın fiyatları düşecek mi, yükselecek mi? Dev bankalar rakam verdi...",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/altin-fiyatlari-dusecek-mi-yukselecek-mi-dev-bankalar-rakam-verdi-2521908",
+  "source": "Cumhuriyet",
+  "summary_tr": "Jeopolitik krizler ve Fed politikası gölgesinde altın fiyatları için yeni dönem başlıyor; önde gelen yatırım bankaları alternatif senaryolar sunuyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-18T14:01:08.244786+00:00",
+  "type": "news",
+  "cluster_id": "c9ff60370ab08"
+ },
+ {
+  "title": "Ticaret Bakanı Bolat'tan dikkat çeken 'Schengen' açıklaması",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/ticaret-bakani-bolat-tan-dikkat-ceken-schengen-aciklamasi-2521902",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ticaret Bakanı Ömer Bolat, Schengen vizesi şikayetlerinin artması ve karaborsalaşan randevuları ele aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-18T14:01:08.244786+00:00",
+  "type": "news",
+  "cluster_id": "c916c8b80a2e5"
+ },
+ {
+  "title": "200 yıl yetecek kadar gazı var ama fabrikalar kapandı: 7 kat daha pahalı",
+  "link": "https://www.sozcu.com.tr/200-yil-yetecek-kadar-gazi-var-ama-fabrikalar-kapandi-7-kat-daha-pahali-p337609",
+  "source": "Sözcü",
+  "summary_tr": "Arjantin'de altyapı yetersizliği ve soğuklar nedeniyle doğalgaz fabrikaları kapatıldı; ürün 7 kat pahalılaştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-18T14:01:08.244786+00:00",
+  "type": "news",
+  "cluster_id": "c237c495c3ffc"
+ },
+ {
+  "title": "İhracat Birim Değer Endeksi (yıllık): %14,2 (Mayıs 2025)",
+  "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JVFZZZkVCdzNaVnFFQk5uY25WcGN4N18ydURRbm9UTU5RNTc1Nk1aVXREaW0tdU9TZk5YYkVNcnBFQWI4TXcwSk1Ycw?oc=5",
+  "source": "TÜİK",
+  "summary_tr": "%14,2",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-18T14:01:08.244786+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "ABD, İran'ın 12 şehrinde 95 noktaya saldırdı",
   "link": "https://www.trthaber.com/haber/dunya/abd-iranin-12-sehrinde-95-noktaya-saldirdi-951558.html",
   "source": "TRT Haber",
@@ -58036,45 +58084,5 @@
   "score": 8,
   "ts": "2026-06-05T19:01:02.727632+00:00",
   "cluster_id": "ce852f1ffc9ff"
- },
- {
-  "title": "İsrail askerleri Batı Şeria'da biri 7 aylık bebek 3 kişiyi yaraladı",
-  "link": "https://www.sozcu.com.tr/israil-askerleri-bati-seria-da-biri-7-aylik-bebek-3-kisiyi-yaraladi-p325583",
-  "source": "Sözcü",
-  "summary_tr": "İsrail askerleri Batı Şeria'da bir araca ateş açarak 7 aylık bebek de dahil 3 Filistinli'yi yaraladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T19:01:02.727632+00:00",
-  "cluster_id": "c2d1733edc584"
- },
- {
-  "title": "ABD Başkanı Trump, Rusya ile Ukrayna arasında anlaşmaya varılması konusunda umutlu",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-rusya-ile-ukrayna-arasinda-anlasmaya-varilmasi-konusunda-umutlu/3958021",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Başkanı Trump, Rusya-Ukrayna arasında bir anlaşmaya varılmasından umutlu olduğunu ifade etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T19:01:02.727632+00:00",
-  "cluster_id": "c597a535ee74f"
- },
- {
-  "title": "Reyhanlı katliamı davasında karar: 3 sanığa 53’er kez ağırlaştırılmış müebbet",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT0UzNWh5NDQ1bUZhTmZDbE5nNkNBbHpmeWFldTU1azA5YjZqMEk5aGFaM1hRUVdELWNaamE2TEhQSU1PNUFWU2l6UmlqUVFkOXJ1ZUJjNF9STDZoM3B0MU9GS2t4ZEJxRTlSMDFyNFN1ZnJlMFc4RmFCcVl2VEdKRTlnb2JtVzkyXzIzeG1JOXc3MFZLRHl3NDh4R0I5M0F5YWh6dG9ZTlFSX3FSV05vcmhuZw?oc=5",
-  "source": "soL",
-  "summary_tr": "Reyhanlı katliamı davasında 3 sanığa 53'er kez ağırlaştırılmış müebbet hapis cezası verildi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T19:01:02.727632+00:00",
-  "cluster_id": "ce961c11fbe7b"
- },
- {
-  "title": "Exclusive: US states preparing a lawsuit to block Paramount's acquisition of Warner Bros, sources say",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcC1pRHRKWUl1RVFGaVZUMGx3Uy1yeEd4ZUllTXpxTEc1amVEZ29USy1uZlYyX3lvMnVNMFFLQ2pfQ3JlQzItLXRjbmdOMUsta0tESm5SSjdMUGhrM0VKNk9wQllpUWk4TFVodndQZmJtaGY4dC12NGlabWdqVDlnZF9iQWpKdi1qRTRZellyMkNhUjRaci1wOFhqUmRVX19OdUV4cW80WWl4RkphR3llNjVZbm8?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD eyaletleri Paramount'un Warner Bros satın almasını engellemek için dava hazırlığı yapıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T19:01:02.727632+00:00",
-  "cluster_id": "cc962339bcaa2"
  }
 ]
