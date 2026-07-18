@@ -1,5 +1,77 @@
 [
  {
+  "title": "Kuveyt ve Bahreyn'de İran saldırıları nedeniyle alarm durumu",
+  "link": "https://www.trthaber.com/haber/dunya/kuveyt-ve-bahreynde-iran-saldirilari-nedeniyle-alarm-durumu-951525.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran'ın balistik füze ve insansız hava aracı saldırılarına karşı Kuveyt ve Bahreyn hava savunma sistemlerini devreye almıştır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-18T05:01:03.683586+00:00",
+  "type": "news",
+  "cluster_id": "c5ee4179cf8f9"
+ },
+ {
+  "title": "İran: ABD, Hürmüzgan'da 2 köprü ve 1 tüneli hedef aldı",
+  "link": "https://www.trthaber.com/haber/dunya/iran-abd-hurmuzganda-2-kopru-ve-1-tuneli-hedef-aldi-951524.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran, ABD'nin Hürmüzgan eyaletinde köprü ve ulaşım noktalarına saldırı düzenlediğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-18T05:01:03.683586+00:00",
+  "type": "news",
+  "cluster_id": "c256426f1cb50"
+ },
+ {
+  "title": "Ürdün: İran'dan ateşlenen 10 balistik füzeyi etkisiz hale getirdik",
+  "link": "https://www.trthaber.com/haber/dunya/urdun-irandan-ateslenen-10-balistik-fuzeyi-etkisiz-hale-getirdik-951522.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ürdün ordusu, İran'dan ateşlenen 10 balistik füzeyi hava savunma sistemleriyle etkisiz hale getirdiğini duyurdu.",
+  "metric": "İran füzesi: 10 adet",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-18T05:01:03.683586+00:00",
+  "type": "news",
+  "cluster_id": "c0e6ed50ce4cf"
+ },
+ {
+  "title": "Markete giden herkes bu oyuna gelerek daha fazla para harcıyor",
+  "link": "https://www.sozcu.com.tr/markete-giden-herkes-bu-oyuna-gelerek-daha-fazla-para-harciyor-p337483",
+  "source": "Sözcü",
+  "summary_tr": "Perakende sektöründeki 'bir alana bir bedava' kampanyaları ürün fiyatlarını iki katına çıkararak tüketicileri daha fazla harcamaya yönlendiriyor.",
+  "metric": "Ürün fiyatları normal -> %100 artış",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-18T05:01:03.683586+00:00",
+  "type": "news",
+  "cluster_id": "c528c0f43ce7b"
+ },
+ {
+  "title": "Merkez bankaları gizlice topluyor! Dev bankadan çarpıcı altın analizi",
+  "link": "https://www.sozcu.com.tr/merkez-bankalari-gizlice-topluyor-dev-bankadan-carpici-altin-analizi-p337484",
+  "source": "Sözcü",
+  "summary_tr": "Goldman Sachs analiziyle merkez bankaları altın alımlarını artırıyor; Fed'in şahin politikasına rağmen altın talebinin güçlü kaldığı vurgulanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-18T05:01:03.683586+00:00",
+  "type": "news",
+  "cluster_id": "c1575d2ff7b0b"
+ },
+ {
+  "title": "Altında rüzgar tersine dönecek! Dev finans kuruluşu altın tahminini yükseltti!",
+  "link": "https://www.sozcu.com.tr/altinda-ruzgar-tersine-donecek-dev-finans-kurulusu-altin-tahminini-yukseltti-p337481",
+  "source": "Sözcü",
+  "summary_tr": "Yatırım kuruluşu Bernstein, merkez bankaları tarafından desteklenen altın talebinin Fed'in faiz artışlarına rağmen fiyatları yükseltmeye devam edeceğini öngörüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-18T05:01:03.683586+00:00",
+  "type": "news",
+  "cluster_id": "c13ecd2c98fc4"
+ },
+ {
   "title": "Çift maaşlı vekillere konut kıyağı",
   "link": "https://www.sozcu.com.tr/cift-maasli-vekillere-konut-kiyagi-p337472",
   "source": "Sözcü",
@@ -57876,65 +57948,5 @@
   "score": 6,
   "ts": "2026-06-05T13:01:15.669447+00:00",
   "cluster_id": "cdf2b4471a0ce"
- },
- {
-  "title": "Boğaziçi Üniversitesi'nde Prof. Dr. Tuna Tuğcu'nun kamu görevinden çıkarılması protesto edildi: 'Akademik özgürlüğe saldırı, üniversiteye darbe'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/bogazici-universitesi-nde-prof-dr-tuna-tugcu-nun-kamu-gorevinden-cikarilmasi-protesto-edildi-akademik-ozgurluge-saldiri-universiteye-darbe-2509638",
-  "source": "Cumhuriyet",
-  "summary_tr": "Boğaziçi Üniversitesi'nde Prof. Dr. Tuna Tuğcu'nun kamu görevinden çıkarılması akademik özgürlük ihlali olarak protesto edildi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-05T13:01:15.669447+00:00",
-  "cluster_id": "c0d67330c9953"
- },
- {
-  "title": "Son dakika... Güzelbahçe Belediyesi CHP'de kaldı",
-  "link": "https://www.sozcu.com.tr/son-dakika-guzelbahce-belediyesi-chp-de-kaldi-p325530",
-  "source": "Sözcü",
-  "summary_tr": "Güzelbahçe Belediyesi, Başkan Mustafa Günay'ın tutuklanmasının ardından başkan vekilliği seçimleri yapıldı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-05T13:01:15.669447+00:00",
-  "cluster_id": "ca5d0b5c56a79"
- },
- {
-  "title": "Türkiye'de temiz hava kalmadı: En temiz il bile sınırı aştı",
-  "link": "https://www.sozcu.com.tr/turkiye-de-temiz-hava-kalmadi-en-temiz-il-bile-siniri-asti-p325523",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye'nin tüm illerinde WHO temiz hava sınırı aşılmış; en temiz il olan Kars bile limiti aştı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T13:01:15.669447+00:00",
-  "cluster_id": "ce273bbc80833"
- },
- {
-  "title": "TBMM'de dokunulmazlıklar nasıl kaldırılıyor?",
-  "link": "https://www.dw.com/tr/tbmm-de-dokunulmazlıklar-nasıl-kaldırılıyor/a-77434645?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "CHP lideri Özgür Özel'in 55 fezlekesi bulunuyor; TBMM'de dokunulmazlık kaldırma süreci işliyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T12:01:12.358373+00:00",
-  "cluster_id": "c26ca6b7c5fb7"
- },
- {
-  "title": "Enflasyon verilerinin ardından yayımlandı: ING Group'tan TCMB faiz kararı tahmini",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/enflasyon-verilerinin-ardindan-yayimlandi-ing-group-tan-tcmb-faiz-karari-tahmini-2509630",
-  "source": "Cumhuriyet",
-  "summary_tr": "ING Group, TÜİK enflasyon verileri sonrası TCMB faiz kararı tahminini güncelledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T12:01:12.358373+00:00",
-  "cluster_id": "c2e7055929a4e"
- },
- {
-  "title": "Bankacılık sektörü 4 ayda 363,6 milyar lira kar yazdı",
-  "link": "https://www.sozcu.com.tr/bankacilik-sektoru-4-ayda-363-6-milyar-lira-kar-yazdi-p325509",
-  "source": "Sözcü",
-  "summary_tr": "Türk bankacılık sektörü nisan sonu itibarıyla 363,6 milyar lira net kar elde etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T12:01:12.358373+00:00",
-  "cluster_id": "c3dcd2fb05c38"
  }
 ]
