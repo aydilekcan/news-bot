@@ -1,5 +1,65 @@
 [
  {
+  "title": "Iran hits Gulf states and Jordan after seventh night of US strikes",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVgwRnh4bGg5bXVrMEdSNXEydXpjb0dCTmQwQlV2MHlydHJTU05DcUxIbktrZW82aGUwZ2F4R2h6bkJXOEpFQy1DREthRVFySzUzNkpVMGNSdXdTMlVjVFR4ZTkyYlRqRTU4bEo1cHR1Y3RMSDJ0UV9Ed01tbnVZbUdyN29ZZWpqQU5VZDd3b3dkS0VlMVp5UUJSZHdPVUUzVjZGNmFHWUJOYWVFZDd0ekJnV293QTg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran, yedinci gece ABD saldırılarına karşılık olarak Körfez ülkeleri ve Ürdün'e saldırı düzenlemişti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-18T15:01:02.243997+00:00",
+  "type": "news",
+  "cluster_id": "cd6d24b4e010d"
+ },
+ {
+  "title": "US and Iran escalate strikes across Mideast",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNDdzTHpvMkVtSEIzSklZWnpnSk8wZVE4QVUzOHFBLXl2Smc0eUxaTkNQdi1KLTBtb3piRU5aeDlXcVB3eXRRazRlcXVWaHl4QTFMOUR6S0VwMjlpWGlCd1hwSGgyV3NEd3QycE1CWEZ5VEVpbFdKVEdUSE14MThPUmdoTFFJXzRQTDdBMVZaeDYxam41TWY2VnBhZjU4ME0?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD ve İran Orta Doğu'da karşılıklı saldırıları kademeli olarak artırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-18T15:01:02.243997+00:00",
+  "type": "news",
+  "cluster_id": "ce9859bbe92f9"
+ },
+ {
+  "title": "İran, İslamabad Mutabakatı'nı askıya aldı... ABD askeri yığınağı büyürken diplomasi çıkmaza girdi",
+  "link": "https://www.cumhuriyet.com.tr/dunya/iran-islamabad-mutabakati-ni-askiya-aldi-abd-askeri-yiginagi-buyurken-diplomasi-cikmaza-girdi-2521923",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran, İslamabad Mutabakatı kapsamındaki tüm taahhütlerini askıya aldı; ABD'nin yükümlülüklerini ihlal ettiğini öne sürdü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-18T15:01:02.243997+00:00",
+  "type": "news",
+  "cluster_id": "c5ae1c1af0baf"
+ },
+ {
+  "title": "ABD saldırılarının hedefinde yer alan İranın Hürmüz Boğazındaki gözü: Sirik",
+  "link": "https://www.trthaber.com/haber/dunya/abd-saldirilarinin-hedefinde-yer-alan-iranin-hurmuz-bogazindaki-gozu-sirik-951563.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD, İran'ın Hürmüz Boğazındaki Sirik kentini hedef alarak yedinci gece saldırısını gerçekleştirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-18T15:01:02.243997+00:00",
+  "type": "news",
+  "cluster_id": "cb07f1c6eb8f1"
+ },
+ {
+  "title": "Makine sektörünün yılın ilk yarısında ihracatı belli oldu",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/makine-sektorunun-yilin-ilk-yarisinda-ihracati-belli-oldu-2521922",
+  "source": "Cumhuriyet",
+  "summary_tr": "Makine sektörünün ilk yarı ihracatı %1,7 arttı ve 13,8 milyar dolara ulaştı.",
+  "metric": "Makine sektörü ihracatı %1,7 artış (13,8 milyar dolar)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-18T15:01:02.243997+00:00",
+  "type": "news",
+  "cluster_id": "c4df0c5d5e6a1"
+ },
+ {
   "title": "Altın fiyatları düşecek mi, yükselecek mi? Dev bankalar rakam verdi...",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/altin-fiyatlari-dusecek-mi-yukselecek-mi-dev-bankalar-rakam-verdi-2521908",
   "source": "Cumhuriyet",
@@ -58034,55 +58094,5 @@
   "score": 6,
   "ts": "2026-06-05T20:00:55.871689+00:00",
   "cluster_id": "c9a5bda4e45a1"
- },
- {
-  "title": "#fındık ihracat sezonu",
-  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96X1JWOGtFR0oyOVZBUkRhSEZWZjJ6OFd4MngzN0FvQTNTS2JreHcxN2RxS2NYeGRSWjlEa1VBdzV0YUR3cEo1MzhfZ1Q5UnpIV1l0d3M5UkJCZW16N1R0M2NsMXhlekQ4cE0xenoyQmdJUQ?oc=5",
-  "source": "T24",
-  "summary_tr": "Fındık ihracat sezonunun başlaması bekleniyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T20:00:55.871689+00:00",
-  "cluster_id": "caf44c305d495"
- },
- {
-  "title": "Kılıçdaroğlu cephesinden 'tasfiye' sinyali: 'İki başlılığa izin vermeyiz'",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT1RudG5aUHJMaEJvbW80dktHYTFqcThDZE1LQXBueTF0Q3MyNUtqTWpWS09Uc2JLSWRyLTF5d0NoX1NTMVFyUjJZRDE4SXRSNkQtREQzVUxBYnQ4MnNzaHhseXNwQjZaMHRGaDN0blpoZ0xCYjJEU1NIMWZ2OUVhQW5jdzlNdThNN25iaVgyMjJweVo0YUtjekFmaTZHODlRZWlrUElJQm9fZw?oc=5",
-  "source": "soL",
-  "summary_tr": "Kılıçdaroğlu cephesi, CHP içinde 'iki başlılığa' izin vermeyeceklerini ifade etti.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-05T20:00:55.871689+00:00",
-  "cluster_id": "c3184c4964e3a"
- },
- {
-  "title": "Türkiye’de NATO hattı: Çorlu’dan İncirlik’e askeri yakıt planı",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQVpPTUVBNnRRSHJqZnI4eDQ2SklUU1JLQ1hVTzJzV0lsWFg2NnZ6dE9taF9HZjRMQnM4eHF0TkpwVHd0cXJ0X3ExTWdzdnlCUDR1TXZoaTlPdWJMWW1BWmc2NEdhZEFkdFVNcmhjaXBGNVZydjN5V19rWGtaUklNTXZBalVsZW90cUpHRGpBWmMwYnJVUXN1elF5bmg?oc=5",
-  "source": "soL",
-  "summary_tr": "Türkiye'de NATO hattı kapsamında Çorlu'dan İncirlik'e askeri yakıt planı yapılıyor.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-05T20:00:55.871689+00:00",
-  "cluster_id": "c8acd40f11c40"
- },
- {
-  "title": "Iran World Cup players granted visas to enter the US, says White House official",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZU5Fb3BhUml4d0p4bk9yZjhvdUoydElaSjV4c3BvNUZHOURqVU82RENQd0FXak8teXBBcElyRzVrTjBHMWl6NGdiME1UdjVBbFFqMHBYWVo2bWNYMW15aUNLdnk5QmkzX1dLajNoTmJnQ1pjS3lzS1pVZnBNVWc0anBGa09MNDl4TG1yTDQ4RlFhNTRneTVwRHh1cXBjU01Xd09DWk03a2VuelpOTHo2WGNvWmYzdVNEYkMzNDFWdjl0Nmc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Beyaz Saray, İran futbol takımı oyuncularına ABD'ye giriş vizesi verildiğini duyurdu.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T20:00:55.871689+00:00",
-  "cluster_id": "ced54276931ae"
- },
- {
-  "title": "Putin, Zelenskiy'nin Türkiye ya da İsviçre'de görüşme teklifine 'anlamsız' dedi",
-  "link": "https://www.bbc.com/turkce/articles/c7757vzp7e8o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Putin, Zelenskiy'nin Türkiye veya İsviçre'de görüşme teklifini 'anlamsız' olarak nitelendirdi; savaş uzlaştırması görüşmeleri başarısızlıkla sonuçlandı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-05T19:01:02.727632+00:00",
-  "cluster_id": "ce852f1ffc9ff"
  }
 ]
