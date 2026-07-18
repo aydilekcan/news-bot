@@ -1,5 +1,101 @@
 [
  {
+  "title": "ABD, İran'ın 12 şehrinde 95 noktaya saldırdı",
+  "link": "https://www.trthaber.com/haber/dunya/abd-iranin-12-sehrinde-95-noktaya-saldirdi-951558.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD, son on günde İran'ın Hürmüzgan eyaletindeki 12 şehirde 95 noktaya saldırı düzenledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-18T13:01:12.951657+00:00",
+  "type": "news",
+  "cluster_id": "cca984ce366ea"
+ },
+ {
+  "title": "Teknoloji çakıldı, petrol uçtu! Piyasaları yoğun bir hafta bekliyor...",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/teknoloji-cakildi-petrol-uctu-piyasalari-yogun-bir-hafta-bekliyor-2521883",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD-İran gerilimi Brent petrolünü %14'ün üzerinde artırırken, yapay zeka endişesi Asya ve ABD borsalarında satış baskısı yarattı.",
+  "metric": "Brent petrolü %14+ artış",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-18T13:01:12.951657+00:00",
+  "type": "news",
+  "cluster_id": "ce59a9cf47c36"
+ },
+ {
+  "title": "Küresel piyasalarda kritik hafta: Gözler ECB ve TCMB'nin faiz kararlarında",
+  "link": "https://www.sozcu.com.tr/kuresel-piyasalarda-kritik-hafta-gozler-ecb-ve-tcmb-nin-faiz-kararlarinda-p337601",
+  "source": "Sözcü",
+  "summary_tr": "Küresel piyasalarda kritik hafta yaşanıyor; ECB ve TCMB faiz kararları bekleniyor, teknoloji hisselerinde sert satışlar ve Orta Doğu gerilimi risk etmeninizde",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-18T13:01:12.951657+00:00",
+  "type": "news",
+  "cluster_id": "cdf6ce1f6a26c"
+ },
+ {
+  "title": "Petrol zengini Rusya'da yakıt kalmadı",
+  "link": "https://www.sozcu.com.tr/petrol-zengini-rusya-da-yakit-kalmadi-p337598",
+  "source": "Sözcü",
+  "summary_tr": "Ukrayna'nın enerji altyapısına yönelik saldırıları petrol zengini Rusya'da ciddi akaryakıt krizine yol açtı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-18T13:01:12.951657+00:00",
+  "type": "news",
+  "cluster_id": "c459da9fae409"
+ },
+ {
+  "title": "Elazığ'ın Maden ilçesinde aylardır maaşlarını alamayan işçiler eylemde",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/elazig-in-maden-ilcesinde-aylardir-maaslarini-alamayan-isciler-eylemde-2521884",
+  "source": "Cumhuriyet",
+  "summary_tr": "Elazığ'daki Eti Gümüş İşletmesi'nde çalışan 176 işçi yaklaşık 1,5 yıldır maaş alamadığı iddiasıyla eylem yaptı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-18T13:01:12.951657+00:00",
+  "type": "news",
+  "cluster_id": "cedb0055e558e"
+ },
+ {
+  "title": "Çinliler dünya ekonomisine darbe vuracak: Felaket uyarısı yapıldı",
+  "link": "https://www.sozcu.com.tr/cinliler-dunya-ekonomisine-darbe-vuracak-felaket-uyarisi-yapildi-p337603",
+  "source": "Sözcü",
+  "summary_tr": "Küresel ekonomi analistleri Çin'in otomotiv, savunma ve enerji sektörlerindeki yavaşlamasının dünya ekonomisine darbeyi vuraabileceği uyarısı yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-18T13:01:12.951657+00:00",
+  "type": "news",
+  "cluster_id": "c03bc116f1cf6"
+ },
+ {
+  "title": "ABD’den vatandaşlarına İsrail ve Lübnan’a seyahat etmeme uyarısı",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-den-vatandaslarina-israil-ve-lubnan-a-seyahat-etmeme-uyarisi/4002288",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD, Orta Doğu'daki yüksek gerilim ve öngörülemeyen tırmanma ihtimali nedeniyle vatandaşlarına İsrail ve Lübnan'a seyahat etmeme uyarısı yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-18T13:01:12.951657+00:00",
+  "type": "news",
+  "cluster_id": "cb55faacfe71e"
+ },
+ {
+  "title": "China says it will take measures on UK's nationalisation of British Steel",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHlTMmdjMVZFUTF5SFhUeGV1Tlp2b294MVdtNXg0Q3BSMnEtNEd0eF9TQmx6LWVEclNYc3NBNjYtbm9NT2VyVE1yMWZhZ0k2WGRFQXpjYzlsNEFuTC1tYVB4QjBHMjhVOVdJLTE0a2RtYjMza29jTWJBcnRsdUlnOWhrUTQyLVRkeGc4cU14YmhrX1praE9LQ0libUxwcEZPd1VhRHZwNmQwdHB0UU1LNnFhWXY?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin, İngiltere'nin British Steel'i kamulaştırması konusunda karşı tedbirler alacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-18T13:01:12.951657+00:00",
+  "type": "news",
+  "cluster_id": "c100648c22e0b"
+ },
+ {
   "title": "Ukrayna'dan Moskova'ya şiddetli İHA saldırıları: Petrol ve lojistik depoları vuruldu, 7 ölü, onlarca yaralı",
   "link": "https://www.cumhuriyet.com.tr/dunya/ukrayna-dan-moskova-ya-siddetli-iha-saldirilari-petrol-ve-lojistik-depolari-vuruldu-7-olu-onlarca-yarali-2521874",
   "source": "Cumhuriyet",
@@ -57980,85 +58076,5 @@
   "score": 7,
   "ts": "2026-06-05T19:01:02.727632+00:00",
   "cluster_id": "cc962339bcaa2"
- },
- {
-  "title": "Resilient US economy posts third straight month of strong job growth",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYzlNSjdHTDNFS0c2TWFWbEdfdWFZX3NrNVZPT2paMzhIZWlub1RieWJvNUE0bFJSOFNwOXhOT0pBc3oyYzFsZ1Y0MzJ2cFBwZGZPNUVtdXp6SDl1dXNNMWNkQmliMkpEMFhNN2Y3bzd0N3dEdzZRYTRxaDhzZi1FWE45dTRqSUZMNUtscVFQS1VkWWN6NnloVjh5QWZqenc5NDE3VHg4MEphcXVhbnBCWE5yNGlIWm5mRFdfeDVaVUdCemxBNUh6Z3Zn?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD ekonomisi güçlü iş büyümesiyle 3. ayını üst üste güçlü kaydını korudu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T19:01:02.727632+00:00",
-  "cluster_id": "cf31d33c230e6"
- },
- {
-  "title": "Karadeniz'de balıkçı teknesine yönelik saldırı sonucu 1 kişi öldü, 4 kişi yaralandı",
-  "link": "https://www.aa.com.tr/tr/gundem/karadenizde-balikci-teknesine-yonelik-saldiri-sonucu-1-kisi-oldu-4-kisi-yaralandi/3958024",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Karadeniz'de Türk bayraklı balıkçı teknesine saldırı düzenlendi; 1 ölü, 4 yaralı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T19:01:02.727632+00:00",
-  "cluster_id": "ce708dd2db9ca"
- },
- {
-  "title": "İsrail ile Lübnan arasındaki şartlı ateşkesin ülkedeki gerilimleri artırmasından endişe ediliyor",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-ile-lubnan-arasindaki-sartli-ateskesin-ulkedeki-gerilimleri-artirmasindan-endise-ediliyor/3958011",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail-Lübnan arasındaki şartlı ateşkes mezhepsel gerilimleri artırabilir endişesi oluşturdu.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T19:01:02.727632+00:00",
-  "cluster_id": "ce586d7f3725a"
- },
- {
-  "title": "Fitch, Hürmüz Boğazı'nın açılmasıyla petrol piyasasında arz fazlası oluşacağını öngörüyor",
-  "link": "https://www.aa.com.tr/tr/ekonomi/fitch-hurmuz-bogazinin-acilmasiyla-petrol-piyasasinda-arz-fazlasi-olusacagini-ongoruyor/3958003",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Fitch Ratings, Hürmüz Boğazı'nın açılmasıyla petrol piyasasında arz fazlası oluşacağını tahmin ediyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T19:01:02.727632+00:00",
-  "cluster_id": "cbc29de307535"
- },
- {
-  "title": "Hamas heyeti, Gazze'deki ateşkes müzakereleri için Kahire'de",
-  "link": "https://www.aa.com.tr/tr/dunya/hamas-heyeti-gazzedeki-ateskes-muzakereleri-icin-kahirede/3957950",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Hamas heyeti, Gazze ateşkes müzakereleri için Kahire'ye gitti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-05T18:01:02.555529+00:00",
-  "cluster_id": "cae25e9e18b4f"
- },
- {
-  "title": "House passes bill to aid Ukraine and impose new sanctions on Russia",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFNBczRNemh1NVo1aEkxWHVocVUya19YR05tbUVJaFZrR25Ccmt2X2JXLVllVjJXRV9jNnkyOC02TjBzaVB1cUdNSmxIRHZVZS1kM3hkS2RwU2ZzUnNxSlJhbzNkb0JlZ1lWdVBlSHJ5ZGNZYXIzLWV5S0J4OWZjaFY2RUZRdHgzVFJMTG51MUFTU04zQWlMWDBJcEhneFh2YkxfdVkySm4?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD Temsilciler Meclisi, Ukrayna yardım ve Rusya'ya yeni yaptırımlar yasasını kabul etti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-05T18:01:02.555529+00:00",
-  "cluster_id": "c34f5462065c3"
- },
- {
-  "title": "CHP'nin yeni MYK'sı toplandı: 'Kılıçdaroğlu Grup Toplantısına katılacak'",
-  "link": "https://www.bbc.com/turkce/articles/cd7p7pn740eo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Kemal Kılıçdaroğlu, mutlak butlan kararıyla CHP genel başkanlığına döndü ve yeni Merkez Yönetim Kurulu toplandı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T18:01:02.555529+00:00",
-  "cluster_id": "c2988fade80d1"
- },
- {
-  "title": "İsmail Arı'ya tahliye, polislere suç duyurusu kararı",
-  "link": "https://www.dw.com/tr/ismail-arı-ya-tahliye-polislere-suç-duyurusu-kararı/a-77404722?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Birgün gazetesi muhabiri İsmail Arı, 75 gün sonra tahliye edildi; mahkeme polisler hakkında suç duyurusu kararı aldı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-05T18:01:02.555529+00:00",
-  "cluster_id": "cad7d1cddf568"
  }
 ]
