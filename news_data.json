@@ -1,5 +1,17 @@
 [
  {
+  "title": "US military says 2 troops are dead and 1 is missing after Iran attacks a base in Jordan",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbS1jN0tZcUtrbk9GU3RKeUxqTHM1Qk5DUDF1VDBVOUVqaVp4QV8xWGhEMmtFV3JRRDc1SXlxalZwcElvUlBXQk13R1NPdW91eUFNRF9UT3JRM3ZHTC03a2ZaZmg0Z2tJdXdCRjVMUml0eWtTSWFLU2U5WGxIMHBNSG1hb2dTS3VLak0zVXdZdHhKY1duRml2MW9Ea0xxVlU?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD askerisi, İran'ın Ürdün'deki bir üsse düzenlediği saldırıda 2 asker öldü, 1 asker kayıp olduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-18T22:00:58.570025+00:00",
+  "type": "news",
+  "cluster_id": "c7fc3ee91dc5e"
+ },
+ {
   "title": "Emekliye ÖTV’siz araç düzenlemesi Meclis’ten geçti mi? Emekliler hangi ÖTV'siz araçları alacak?",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/emekliye-otv-siz-arac-duzenlemesi-meclis-ten-gecti-mi-emekliler-hangi-otv-siz-araclari-alacak-2521975",
   "source": "Cumhuriyet",
@@ -58116,15 +58128,5 @@
   "score": 7,
   "ts": "2026-06-05T21:01:05.727769+00:00",
   "cluster_id": "cec478c4bc59b"
- },
- {
-  "title": "İsrail basınından dikkat çeken iddia: 'Erdoğan, Trump'ı ikna ederek İran’daki Kürt grupların silahlandırılması planını engelledi'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/israil-basinindan-dikkat-ceken-iddia-erdogan-trump-i-ikna-ederek-iran-daki-kurt-gruplarin-silahlandirilmasi-planini-engelledi-2509745",
-  "source": "Cumhuriyet",
-  "summary_tr": "İsrail basını, Erdoğan'ın Trump'ı ikna ederek İran'daki Kürt grupların silahlandırılması planını engellediğini iddia etti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T21:01:05.727769+00:00",
-  "cluster_id": "c048e9d15db19"
  }
 ]
