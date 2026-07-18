@@ -1,5 +1,53 @@
 [
  {
+  "title": "Fitch, Türkiye'nin kredi notuna dokunmadı: Enflasyon tahmini",
+  "link": "https://www.diken.com.tr/fitch-turkiyenin-kredi-notuna-dokunmadi-enflasyon-tahmini/?utm_source=rss&utm_medium=rss&utm_campaign=fitch-turkiyenin-kredi-notuna-dokunmadi-enflasyon-tahmini",
+  "source": "Diken",
+  "summary_tr": "Fitch Ratings, Türkiye'nin kredi notunu değiştirmedi; enflasyon tahminini güncelledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-18T07:01:01.824998+00:00",
+  "type": "news",
+  "cluster_id": "c5d36c8deb31d"
+ },
+ {
+  "title": "ABD'li enerji devi dibimizde petrol çıkaracak: İngilizler çağırınca koşa koşa geldiler",
+  "link": "https://www.sozcu.com.tr/abd-li-enerji-devi-dibimizde-petrol-cikaracak-ingilizler-cagirinca-kosa-kosa-geldiler-p337515",
+  "source": "Sözcü",
+  "summary_tr": "ConocoPhillips ve BP, Kerkük petrol sahaları için ortaklık anlaşması imzaladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-18T07:01:01.824998+00:00",
+  "type": "news",
+  "cluster_id": "c6d5663e370e4"
+ },
+ {
+  "title": "Büyükelçi atamaları Resmi Gazete'de yayımlandı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/buyukelci-atamalari-resmi-gazete-de-yayimlandi-2521806",
+  "source": "Cumhuriyet",
+  "summary_tr": "Cumhurbaşkanı Erdoğan'ın imzasıyla büyükelçi atama kararları Resmi Gazete'de yayımlandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-18T07:01:01.824998+00:00",
+  "type": "news",
+  "cluster_id": "cb1e39f00dd5c"
+ },
+ {
+  "title": "Irak ile ABD arasında 48 ekonomik işbirliği anlaşması imzalandı",
+  "link": "https://www.aa.com.tr/tr/dunya/irak-ile-abd-arasinda-48-ekonomik-isbirligi-anlasmasi-imzalandi/4001940",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Irak ile ABD, petrol, enerji, teknoloji ve finans alanlarında 48 ekonomik işbirliği anlaşması imzaladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-18T07:01:01.824998+00:00",
+  "type": "news",
+  "cluster_id": "c1024820078f9"
+ },
+ {
   "title": "Rusya’da İHA saldırılarında 7 kişi öldü, bazı tesislerde yangın çıktı",
   "link": "https://www.aa.com.tr/tr/dunya/rusya-da-iha-saldirilarinda-7-kisi-oldu-bazi-tesislerde-yangin-cikti/4001935",
   "source": "Anadolu Ajansı",
@@ -57920,45 +57968,5 @@
   "score": 8,
   "ts": "2026-06-05T13:01:15.669447+00:00",
   "cluster_id": "c4b34730c3efe"
- },
- {
-  "title": "Katil İsrail'in Lübnan'ın güneyine geceden bu yana düzenlediği saldırılarda 10 kişi öldü",
-  "link": "https://www.trthaber.com/haber/dunya/katil-israilin-lubnanin-guneyine-geceden-bu-yana-duzenledigi-saldirilarda-10-kisi-oldu-947296.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail, ateşkese rağmen Lübnan'ın güneyine düzenlediği hava saldırılarında 10 kişi öldürüldü.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-06-05T13:01:15.669447+00:00",
-  "cluster_id": "cfb9c607f6408"
- },
- {
-  "title": "Tutuklu gazeteci İsmail Arı hakim karşısında",
-  "link": "https://www.bbc.com/turkce/articles/c9q3q4ejvgjo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Gazeteci İsmail Arı, hakkında 2 yıl 3 aydan 8 yıl 3 aya kadar hapis istemiyle ilk kez mahkemede.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T13:01:15.669447+00:00",
-  "cluster_id": "ce620c704ad11"
- },
- {
-  "title": "Gazeteci İsmail Arı ilk kez hakim karşısında",
-  "link": "https://www.sozcu.com.tr/gazeteci-ismail-ari-ilk-kez-hakim-karsisinda-p325525",
-  "source": "Sözcü",
-  "summary_tr": "Gazeteci İsmail Arı, tutukluluğunun 75'inci gününde ilk kez hakim karşısına çıktı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-05T13:01:15.669447+00:00",
-  "cluster_id": "ce620c704ad11"
- },
- {
-  "title": "Güney Lübnan'da yeni bir işgal mi doğuyor?",
-  "link": "https://www.trthaber.com/haber/dunya/guney-lubnanda-yeni-bir-isgal-mi-doguyor-947293.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail, Hizbullah tehdidini gerekçe göstererek Güney Lübnan'da askeri varlığını artırıp stratejik noktaları ele geçiriyor.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-05T13:01:15.669447+00:00",
-  "cluster_id": "ce9097141480c"
  }
 ]
