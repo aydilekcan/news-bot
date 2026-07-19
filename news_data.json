@@ -1,5 +1,77 @@
 [
  {
+  "title": "Trump'tan arabulucu ülkelere İran ile bu hafta ateşkes sağlanmazsa “tırmanışa hazırlanma” mesajı iddiası",
+  "link": "https://www.aa.com.tr/tr/dunya/trumptan-arabulucu-ulkelere-iran-ile-bu-hafta-ateskes-saglanmazsa-tirmanisa-hazirlanma-mesaji-iddiasi/4003096",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, arabulucu ülkelere İran ile bu hafta ateşkes sağlanamaması halinde gerilimin tırmanmasına hazırlıklı olunması yönünde mesaj verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-19T20:01:03.601402+00:00",
+  "type": "news",
+  "cluster_id": "c139cc31017bc"
+ },
+ {
+  "title": "Dünya Kupası finali öncesi 'yasadışı bahis' operasyonu: 6 binden fazla hesaba bloke kondu, 23 kişiye yakalama kararı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/dunya-kupasi-finali-oncesi-yasadisi-bahis-operasyonu-6-binden-fazla-hesaba-bloke-kondu-23-kisiye-yakalama-karari-2522180",
+  "source": "Cumhuriyet",
+  "summary_tr": "Dünya Kupası finali öncesi yapılan operasyonda yasadışı bahis trafiğinde kullanılan 6 bin 314 banka hesabı bloke edildi, 23 kişiye yakalama kararı çıkarıldı.",
+  "metric": "Bloke edilen banka hesabı: 6.314",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-19T20:01:03.601402+00:00",
+  "type": "news",
+  "cluster_id": "c8d5ef6aaa479"
+ },
+ {
+  "title": "Dünya Kupası finali başlar başlamaz 6 binden fazla banka hesabına bloke konuldu",
+  "link": "https://www.sozcu.com.tr/dunya-kupasi-final-maci-basladi-bakanlik-dugmeye-basti-p337878",
+  "source": "Sözcü",
+  "summary_tr": "Adalet Bakanı Gürlek, Dünya Kupası finali başlamasıyla yasadışı bahis operasyonunun yapıldığını ve 6 binin üzerinde banka hesabının bloke edildiğini açıkladı.",
+  "metric": "Bloke edilen banka hesabı: 6.314+",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-19T20:01:03.601402+00:00",
+  "type": "news",
+  "cluster_id": "c84a91b50fe44"
+ },
+ {
+  "title": "Dünya Kupası finaliyle eşzamanlı yasa dışı bahis operasyonu: 6 binden fazla banka hesabına bloke konuldu",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb2RsMDFZdXAyTXVGUmZrcEhQbnhUWmY3S2VpaElmZDdsbVVmNGVhUmVNZnVqalZzb2tGamU4Ql81bUpqekFFQ3lNQ0loZU5fdTE4dlVnbmVreU1lV0RPU0VyNGNvb0Qyc2o3MTBkMWxvU0daWF9jZzFQN3hnZ0NjUHpLMG9YLVdBYWtZeVFwQUNmQm5Vb2w2dUcyMTktaTdKYjlVeVZUdjhKOWd4YzNReVNfYVMyYTFZYUNycg?oc=5",
+  "source": "soL",
+  "summary_tr": "Dünya Kupası finali sırasında yapılan yasadışı bahis operasyonunda 6 binden fazla banka hesabı bloke edildi.",
+  "metric": "Bloke edilen banka hesabı: 6.314+",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-19T20:01:03.601402+00:00",
+  "type": "news",
+  "cluster_id": "c84a91b50fe44"
+ },
+ {
+  "title": "Adalet Bakanı Gürlek'ten yasa dışı bahis operasyonu açıklaması",
+  "link": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlekten-yasa-disi-bahis-operasyonu-aciklamasi/4003102",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Adalet Bakanı Gürlek, Dünya Kupası final maçı öncesinde yasa dışı bahis trafiğinde kullanılan 6 bin 314 banka hesabının tespit edildiğini açıkladı.",
+  "metric": "Bloke edilen banka hesabı: 6.314",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-19T20:01:03.601402+00:00",
+  "type": "news",
+  "cluster_id": "cb319a059ef4e"
+ },
+ {
+  "title": "Dünya Kupası final maçı öncesi yasa dışı bahis operasyonu",
+  "link": "https://www.trthaber.com/haber/gundem/dunya-kupasi-final-maci-oncesi-yasa-disi-bahis-operasyonu-951635.html",
+  "source": "TRT Haber",
+  "summary_tr": "Adalet Bakanı Gürlek, yasadışı bahis operasyonunda 19 dış finans evinin deşifre edildiğini, 23 şüpheliye yakalama kararı çıkarıldığını açıkladı.",
+  "metric": "Bloke edilen banka hesabı: 6.314",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-19T20:01:03.601402+00:00",
+  "type": "news",
+  "cluster_id": "c510706ffe2a0"
+ },
+ {
   "title": "İran Ordusu: ABD’ye ait bir seyir füzesi ve İHA düşürüldü",
   "link": "https://www.cumhuriyet.com.tr/dunya/iran-ordusu-abd-ye-ait-bir-seyir-fuzesi-ve-iha-dusuruldu-2522165",
   "source": "Cumhuriyet",
@@ -58234,65 +58306,5 @@
   "score": 7,
   "ts": "2026-06-06T12:00:56.754989+00:00",
   "cluster_id": "c827841e1627d"
- },
- {
-  "title": "AB’den aday ülkelere yeni formül: Tam üyelikten önce sınırlı entegrasyon",
-  "link": "https://www.cumhuriyet.com.tr/dunya/ab-den-aday-ulkelere-yeni-formul-tam-uyelikten-once-sinirli-entegrasyon-2509880",
-  "source": "Cumhuriyet",
-  "summary_tr": "AB liderleri, aday ülkelere tam üyelikten önce sınırlı entegrasyon seçeneğini değerlendiriyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-06T12:00:56.754989+00:00",
-  "cluster_id": "cb594a7d050ad"
- },
- {
-  "title": "İş yerinde Whatsapp kullananları ilgilendiriyor: Yargıtay'dan emsal karar geldi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/is-yerinde-whatsapp-kullananlari-ilgilendiriyor-yargitay-dan-emsal-karar-geldi-2509879",
-  "source": "Cumhuriyet",
-  "summary_tr": "Yargıtay, işletmecilerin çalışan telefonlarında WhatsApp kullanımına ilişkin emsal karar verdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-06T12:00:56.754989+00:00",
-  "cluster_id": "cd73493d82cd0"
- },
- {
-  "title": "AB, aday ülkelere tam üyelik öncesi sınırlı entegrasyon seçeneğini değerlendiriyor",
-  "link": "https://www.trthaber.com/haber/dunya/ab-aday-ulkelere-tam-uyelik-oncesi-sinirli-entegrasyon-secenegini-degerlendiriyor-947388.html",
-  "source": "TRT Haber",
-  "summary_tr": "AB liderleri, üyelik müzakereleri devam eden aday ülkelere tam üyelikten önce sınırlı entegrasyon sunmayı değerlendiriyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-06T12:00:56.754989+00:00",
-  "cluster_id": "cfc814456793c"
- },
- {
-  "title": "Indonesia central bank, finance minister agree to boost asset yields to aid rupiah",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZE5mbTdUejNmVTZ6VzJQNzV1WTBGa013MmlqcC1Fcmt4QjVjQVgybUFMWVEtZmJBNW5BMnVWd1Z3c1Z6Vk9wbGpMZ1lnY0JIZnNYbmM0bmRzZGg0X3k2NkUtUXRPZ1kxd2VLOG50WUV0amdDT3doQl9haEJmQ2xwSnBsVFk4YkhiUXE4ZHFTNkVUazVsOUFnaGVtTmgwdFdFaVpjdzU1SkV5MWVabVliM2hUZmxrTVViZF9ySlpzM2M1REdvNnZNRlZR?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Endonezya Merkez Bankası ve Maliye Bakanı, rupiah stabilizasyonu için varlık getirilerini artırmayı kabul etti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-06T12:00:56.754989+00:00",
-  "cluster_id": "ce736784f5714"
- },
- {
-  "title": "İsrail’den Lübnan ordusuna saldırı: Çok sayıda asker hayatını kaybetti",
-  "link": "https://www.cumhuriyet.com.tr/dunya/israil-den-lubnan-ordusuna-saldiri-cok-sayida-asker-hayatini-kaybetti-2509863",
-  "source": "Cumhuriyet",
-  "summary_tr": "İsrail, Lübnan'ın güneyindeki Nebatiye'de ordusunun askeri aracını hedef alarak çok sayıda asker öldürdü.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T11:01:06.252784+00:00",
-  "cluster_id": "cb40f21df001d"
- },
- {
-  "title": "Piyasa İkinci Dünya Savaşı'ndan bu yana bunu sadece 4 kez yaptı",
-  "link": "https://www.sozcu.com.tr/piyasa-ikinci-dunya-savasi-ndan-bu-yana-bunu-sadece-4-kez-yapti-p325721",
-  "source": "Sözcü",
-  "summary_tr": "S&P 500 endeksi son 80 yılda sadece dört kez bu denli hızlı bir yükseliş yaşadı; Deutsche Bank analistleri bu hareketi analiz etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T11:01:06.252784+00:00",
-  "cluster_id": "cd11130da933d"
  }
 ]
