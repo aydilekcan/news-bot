@@ -1,5 +1,29 @@
 [
  {
+  "title": "İran Ordusu: ABD’ye ait bir seyir füzesi ve İHA düşürüldü",
+  "link": "https://www.cumhuriyet.com.tr/dunya/iran-ordusu-abd-ye-ait-bir-seyir-fuzesi-ve-iha-dusuruldu-2522165",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran, ülkenin batısında ABD'ye ait bir seyir füzesi ve İHA'nın düşürüldüğünü açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-07-19T19:01:06.814874+00:00",
+  "type": "news",
+  "cluster_id": "cfdc0e9540494"
+ },
+ {
+  "title": "Dolar için yeni zirve tahmini! Beklentileri 60'ın üzerine çıktı",
+  "link": "https://www.sozcu.com.tr/dolar-icin-yeni-zirve-tahmini-beklentileri-60-in-uzerine-cikti-p337876",
+  "source": "Sözcü",
+  "summary_tr": "Dolar/TL kuru için yatırım bankalarının beklentileri 60'ın üzerine çıktı; yeni zirve tahmini yapılıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-19T19:01:06.814874+00:00",
+  "type": "news",
+  "cluster_id": "cf5b2235a42cf"
+ },
+ {
   "title": "İsrail Savunma Bakanından, İran'ın İsrail'i hedef alması halinde \"tüm güçleriyle\" saldırı düzenleyecekleri tehdidi",
   "link": "https://www.aa.com.tr/tr/dunya/israil-savunma-bakanindan-iranin-israili-hedef-almasi-halinde-tum-gucleriyle-saldiri-duzenleyecekleri-tehdidi/4003059",
   "source": "Anadolu Ajansı",
@@ -58270,25 +58294,5 @@
   "score": 7,
   "ts": "2026-06-06T11:01:06.252784+00:00",
   "cluster_id": "cd11130da933d"
- },
- {
-  "title": "623 bin nüfuslu ülke rakiplerini sollayıp AB'ye giriyor",
-  "link": "https://www.sozcu.com.tr/623-bin-nufuslu-ulke-rakiplerini-sollayip-ab-ye-giriyor-p325717",
-  "source": "Sözcü",
-  "summary_tr": "623 bin nüfuslu Germaniya, 2013'ten bu yana ilk kez Avrupa Birliği'ne girmeye hazırlanıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T11:01:06.252784+00:00",
-  "cluster_id": "c4b5fa98aa5df"
- },
- {
-  "title": "Bakan Yumaklı: Gıda kaybı ve israfının küresel ekonomiye verdiği zarar (yıllık) 1 trilyon dolardır",
-  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-gida-kaybi-ve-israfinin-kuresel-ekonomiye-verdigi-zarar-yillik-1-trilyon-dolardir/3958368",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Tarım Bakanı Yumaklı, gıda kaybı ve israfının küresel ekonomiye yıllık 1 trilyon dolar zarar verdiğini belirtti.",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-06-06T11:01:06.252784+00:00",
-  "cluster_id": "c77ae88730855"
  }
 ]
