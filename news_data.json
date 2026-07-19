@@ -1,5 +1,65 @@
 [
  {
+  "title": "Irak'tan Türkiye'ye yeni petrol boru hattı",
+  "link": "https://www.dw.com/tr/irak-tan-türkiye-ye-yeni-petrol-boru-hattı/a-78026332?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Irak, ABD-İran gerilimi nedeniyle Türkiye'ye yeni petrol boru hattı kurma planını hızlandırıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-19T15:01:01.897461+00:00",
+  "type": "news",
+  "cluster_id": "cd9bccd3d12fd"
+ },
+ {
+  "title": "Zelenski açıkladı: Rusya'da 3 petrol rafinerisine saldırdık",
+  "link": "https://www.cumhuriyet.com.tr/dunya/zelenski-acikladi-rusya-da-3-petrol-rafinerisine-saldirdik-2522140",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ukrayna Devlet Başkanı Zelenski, Rusya'nın Stavropol bölgesinde 3 petrol rafinerisine saldırı düzenlediklerini bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-19T15:01:01.897461+00:00",
+  "type": "news",
+  "cluster_id": "c4b8675aa645d"
+ },
+ {
+  "title": "Gulf crude exports jump in July but shipments slowing on renewed hostilities, data shows",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON0s2bmk4NkZfVGZ5R2tpZzEwYXo4Ymhxb0lyYUlNQlR4X29mekhzS0RGUndSMllMbnpZTGdRYlRZV3NmT0dBNGFyOTkxSFNTZEJTcE05cWtoNzREYU16TW5IUGJ4Zm9qa0lkbUI5Rmg1X1dldEI4MnZJdjNLcTBjTlkyMnRPSzRaUGdtNG9hWFRkaExsV3B4S3ZTb3ptaGlmM2w1ZWcteU5Jc1RTSGFRVjJncHZZLXoxUFliWTFWdGhHWnlkSkRudQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Körfez bölgesi ham petrol ihracatı Temmuz'da artış gösterirken, yeniden alevlenen düşmanlıklar nedeniyle sevkiyatlar yavaşlıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-19T15:01:01.897461+00:00",
+  "type": "news",
+  "cluster_id": "cc786d358b8dc"
+ },
+ {
+  "title": "Evlenen de terk ediyor emekli olan da O şehir göçte rekorlar kırıyor",
+  "link": "https://www.sozcu.com.tr/evlenen-de-terk-ediyor-emekli-olan-da-o-sehir-gocte-rekorlar-kiriyor-p337844",
+  "source": "Sözcü",
+  "summary_tr": "TÜİK iç göç istatistiklerine göre Türkiye'de belirli bir şehir göç hareketliliğinde rekor kırıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-19T15:01:01.897461+00:00",
+  "type": "news",
+  "cluster_id": "c0a0ce38d0956"
+ },
+ {
+  "title": "Tarımı ayakta tutan dev yeraltı su rezervi göz göre göre yok oluyor",
+  "link": "https://www.sozcu.com.tr/tarimi-ayakta-tutan-dev-yeralti-su-rezervi-goz-gore-gore-yok-oluyor-p337837",
+  "source": "Sözcü",
+  "summary_tr": "ABD'nin Ogallala Akiferi su rezervi tarımsal üretimi desteklemesine rağmen hızla tükeniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-19T15:01:01.897461+00:00",
+  "type": "news",
+  "cluster_id": "c5478d09e8bf0"
+ },
+ {
   "title": "Trump says Republicans should add Iran to Russian bill",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMnFZbzUwRlM5eW5NN1JqbnNQcHdUdEsxRk11OEdEeEJ4RnltcERZSkl0dlVneU5mYlhURlN4R2F1TUliWjZ2dVZUX3dJS3JucHBEUG5hY04yUUgzWnF3SHVaNTBwb3o3cUdqNEVLWGttNjdqZ2lzSDJWQy1LeW1saG9xSjZxaXpzSFg1QzNWeG50MmtDRnpVb2NsNFlpRENJSjJ4ZTlfby0?oc=5",
   "source": "Reuters",
@@ -58220,55 +58280,5 @@
   "score": 6,
   "ts": "2026-06-06T11:01:06.252784+00:00",
   "cluster_id": "c03b6ab33a85c"
- },
- {
-  "title": "AKP Genel Başkan Yardımcısı Yazıcı'dan 'referandum' çıkışı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/akp-genel-baskan-yardimcisi-yazici-dan-referandum-cikisi-2509862",
-  "source": "Cumhuriyet",
-  "summary_tr": "AKP Genel Başkan Yardımcısı Hayati Yazıcı, anayasa değişikliği için toplumun tüm kesimlerinin doğrudan ve dolaylı yöntemlerle katılabileceği süreci işaret etti.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-06T11:01:06.252784+00:00",
-  "cluster_id": "c47746b605c7c"
- },
- {
-  "title": "AKP'den yeni anayasa için referandum sinyali",
-  "link": "https://www.sozcu.com.tr/akp-den-yeni-anayasa-icin-referandum-sinyali-p325726",
-  "source": "Sözcü",
-  "summary_tr": "AKP Genel Başkan Yardımcısı Hayati Yazıcı, yeni anayasa için referandum sinyali verdi.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-06T11:01:06.252784+00:00",
-  "cluster_id": "cbeaa0b6bfbb2"
- },
- {
-  "title": "Cumhurbaşkanı Yardımcısı Yılmaz'dan Rahmi Koç'un sözlerine tepki",
-  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmazdan-rahmi-kocun-sozlerine-tepki/3958380",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Rahmi Koç'un sözlerine tepki göstererek farklılıkların zenginlik olarak görülmesi gerektiğini vurguladı.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-06T11:01:06.252784+00:00",
-  "cluster_id": "cc9923f32cc93"
- },
- {
-  "title": "TMSF satışa çıkarmıştı: TELE1'in satış ihalesi durduruldu",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU1VOU0dVVDc3SE4wUmZZeGlXdmgxVXI2VUxtcm1FbGpzVW1sVE9od2JXc1VmTWVnWXZVcW9BZUxQdGNpaHJSdFFtaVI1alhTNVdSU2ZGU3U5SUhLeEg5cVBCbUVkV3hZMHBveDlkRkU3XzlCQUV1MmJGZ3VTRnFfRm5ldlh6a085azVFc0g4S0prR0JBWDBYNg?oc=5",
-  "source": "soL",
-  "summary_tr": "TMSF satışa çıkarmış olduğu TELE1'in satış ihalesi durduruldu.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-06T11:01:06.252784+00:00",
-  "cluster_id": "cf19d6ad3eda8"
- },
- {
-  "title": "Putin barış teklifini reddedince, İHA'lar kalktı: St. Petersburg yine yandı",
-  "link": "https://www.sozcu.com.tr/putin-baris-teklifini-reddedince-iha-lar-kalkti-st-petersburg-yine-yandi-p325714",
-  "source": "Sözcü",
-  "summary_tr": "Putin'in müzakereleri reddetmesinin ardından Ukrayna, St. Petersburg'a 144 İHA ile saldırı düzenledi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-06T10:01:06.204402+00:00",
-  "cluster_id": "c16491a350fae"
  }
 ]
