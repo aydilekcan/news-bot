@@ -1,5 +1,29 @@
 [
  {
+  "title": "Savaştaki İran bile Türkiye’den daha ucuz",
+  "link": "https://www.sozcu.com.tr/savastaki-iran-bile-turkiye-den-daha-ucuz-p337682",
+  "source": "Sözcü",
+  "summary_tr": "Sözcü'nün analiz yazısına göre Türkiye'de alım gücü düşüş ve hayat pahalılığı artışı, bölge ülkelerine kıyasla daha ciddi düzeyde.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-19T00:01:08.571482+00:00",
+  "type": "news",
+  "cluster_id": "c5d2ed0a491dd"
+ },
+ {
+  "title": "The sell-off for AI stars worsens, while oil prices keep jumping",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRjhsV0pGUU1wc3ZYY09ocnNhWDFWMGtwSXhoN3ZaRDEyNG5Eb3JpeWlmeWR4RHUyNmFfNzhSTmEyclZLaW91UFdsN2hUWHF3STczc0xMQnBTeG5QUEs1LTlLTDBMN3UtMHM5ZDdEVGRNR3cxcVdJM3luUEQ2Ry00V2hCdnVyQm1XR1lHdENWVTFEMWF6eFNQUHBR?oc=5",
+  "source": "AP",
+  "summary_tr": "Yapay zeka şirketlerindeki satışlar hızlanırken petrol fiyatları yükseliş gösteriyor; küresel piyasalarda dalgalanma devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-19T00:01:08.571482+00:00",
+  "type": "news",
+  "cluster_id": "c35116f4d6e12"
+ },
+ {
   "title": "ABD: İran'a yönelik yeni hava saldırıları başlattık",
   "link": "https://www.trthaber.com/haber/dunya/abd-irana-yonelik-yeni-hava-saldirilari-baslattik-951576.html",
   "source": "TRT Haber",
@@ -58116,25 +58140,5 @@
   "score": 8,
   "ts": "2026-06-05T21:01:05.727769+00:00",
   "cluster_id": "c35e00de17f03"
- },
- {
-  "title": "Chip selloff erases over $1 trillion in stock market value",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT1dxeHpfT3VRaWg4NVg2eW5SMmxTNGgzY0x2azZFQ1ItdVlEZjlPQjVtNzdxRGNLYThRRi1MNTRyVmZkQkpCZ18yZzkwbVRvNlBsVUdjVGVLN1VBVVcwOTZfU0NHYzV1MjFlbHFVb3RfenhQUlFqbW9BUlUtZ1lWV3RFblNMdmg1RW13YlU0aG82ZWVTM2tHOV9BcGdGWE9qVWROM1hYTWZCX3lSTHV5V1VQVQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Çip satışı salgını hisse senedi piyasasından 1 trilyon doları sildi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-05T21:01:05.727769+00:00",
-  "cluster_id": "cdc9c8af8cf52"
- },
- {
-  "title": "Buca Belediyesi operasyonunda Başkan Görkem Duman tutuklandı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/buca-belediyesi-operasyonunda-baskan-gorkem-duman-tutuklandi-2509759",
-  "source": "Cumhuriyet",
-  "summary_tr": "İzmir Buca Belediye Başkanı Görkem Duman, Cumhuriyet Başsavcılığı'nın operasyonunda gözaltına alınarak tutuklandı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T21:01:05.727769+00:00",
-  "cluster_id": "cfc76c202dff2"
  }
 ]
