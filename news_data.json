@@ -1,5 +1,29 @@
 [
  {
+  "title": "İran'ın Irak'taki saldırısının ardından bir ABD askeri öldü",
+  "link": "https://www.bbc.com/turkce/articles/c07rnxj949po?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD ordusu, İran'ın Irak'ta düzenlediği saldırı sonrasında bir askerinin öldüğünü açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-19T22:00:59.152367+00:00",
+  "type": "news",
+  "cluster_id": "ccbc22aa1c67a"
+ },
+ {
+  "title": "Ukrayna duyurdu: Karadeniz’de yük gemisi vuruldu, 5 kişi öldü, 5 kişiden haber alınamıyor",
+  "link": "https://www.cumhuriyet.com.tr/dunya/ukrayna-duyurdu-karadeniz-de-yuk-gemisi-vuruldu-5-kisi-oldu-5-kisiden-haber-alinamiyor-2522206",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ukrayna, Rusya'nın Odessa Limanı açıklarında Gine-Bissau bayraklı yük gemisine saldırı düzenlemesi sonucu 5 kişinin öldüğünü ve 5 kişinin kayıp olduğunu bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-19T22:00:59.152367+00:00",
+  "type": "news",
+  "cluster_id": "c0e3fad4f51fa"
+ },
+ {
   "title": "TBMM Başkanı Kurtulmuş’tan siyasi partilere 'çerçeve yasa' turu: Programı belli oldu",
   "link": "https://www.cumhuriyet.com.tr/siyaset/tbmm-baskani-kurtulmus-tan-siyasi-partilere-cerceve-yasa-turu-programi-belli-oldu-2522203",
   "source": "Cumhuriyet",
@@ -58288,25 +58312,5 @@
   "score": 7,
   "ts": "2026-06-06T12:00:56.754989+00:00",
   "cluster_id": "ce38eb0a182ae"
- },
- {
-  "title": "Yeni demir yolu hattı bu yıl hizmete açılacak: 4 saatlik yol 1,5 saate inecek",
-  "link": "https://www.sozcu.com.tr/yeni-demir-yolu-hatti-bu-yil-hizmete-acilacak-4-saatlik-yol-1-5-saate-inecek-p325738",
-  "source": "Sözcü",
-  "summary_tr": "Ulaştırma Bakanı Uraloğlu, Halkalı-Kapıkule Demir Yolu Hattı'nın bu yıl hizmete açılacağını ve seyahat süresinin 4 saatten 1,5 saate düşeceğini açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T12:00:56.754989+00:00",
-  "cluster_id": "caad9202caf2a"
- },
- {
-  "title": "Aylin Nazlıaka’dan ‘nafaka’ iptaline tepki: Kadınların can simidi kesildi",
-  "link": "https://www.sozcu.com.tr/aylin-nazliaka-dan-nafaka-iptaline-tepki-kadinlarin-can-simidi-kesildi-p325730",
-  "source": "Sözcü",
-  "summary_tr": "Anayasa Mahkemesi yoksulluk nafakasının süresizdirliğini kaldırdı; CHP'li Nazlıaka kararı eleştirdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T12:00:56.754989+00:00",
-  "cluster_id": "ca1701f0f12fd"
  }
 ]
