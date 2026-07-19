@@ -1,5 +1,29 @@
 [
  {
+  "title": "US strikes Iran over troop deaths as Israel warns Tehran’s attacks are coming close",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOVVPQXpIUjAzU1c2TG1GcXJUU19aU2FodDRTVWV4RVdVN2stQ1NueUtIRC03M2hXNFZLRkQzUUdqMWNQOVBMbzFmc1NGejY3bXFNSnJYMXNNRTIyMlNMYjFPbXVOcXJCSkFPVHNsMkRvblBzcjc5aXJhbHlndGlrek9RbmVBTlN4SHI3N1VHLUpGVlNmTE4tSlAwSktTd1k?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD, askerlerinin ölümü nedeniyle İran'a hava saldırısı düzenledi; İsrail, Tahran'ın saldırılarının yaklaştığını uyardı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-19T17:01:00.620220+00:00",
+  "type": "news",
+  "cluster_id": "cb18b703d380d"
+ },
+ {
+  "title": "Şeker vergisi getirme kararı aldılar: Kola, soğuk çay ve enerji içeceklerine zam kapıda",
+  "link": "https://www.sozcu.com.tr/seker-vergisi-getirme-karari-aldilar-kola-soguk-cay-ve-enerji-iceceklerine-zam-kapida-p337854",
+  "source": "Sözcü",
+  "summary_tr": "Almanya hükümetü şekerli içeceklere yeni vergi getirme kararı aldı; kola, soğuk çay ve enerji içecekleri zamlanacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-19T17:01:00.620220+00:00",
+  "type": "news",
+  "cluster_id": "cebdc529dd49c"
+ },
+ {
   "title": "Yüzde 50 + Yüzde 20 indirim dönemine son: Bakanlık o etiketler için harekete geçti",
   "link": "https://www.sozcu.com.tr/yuzde-50-yuzde-20-indirim-donemine-son-bakanlik-o-etiketler-icin-harekete-gecti-p337849",
   "source": "Sözcü",
@@ -58262,25 +58286,5 @@
   "score": 7,
   "ts": "2026-06-06T11:01:06.252784+00:00",
   "cluster_id": "c40286ea4e01b"
- },
- {
-  "title": "Gazze'de halk şimdi de kanalizasyon kaynaklı hastalıklarla mücadele ediyor",
-  "link": "https://www.trthaber.com/haber/dunya/gazzede-halk-simdi-de-kanalizasyon-kaynakli-hastaliklarla-mucadele-ediyor-947381.html",
-  "source": "TRT Haber",
-  "summary_tr": "Gazze'de İsrail saldırılarının tahrip ettiği altyapı nedeniyle kanalizasyon kaynaklı hastalıklarla mücadele artıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T11:01:06.252784+00:00",
-  "cluster_id": "c11b6428b65d3"
- },
- {
-  "title": "Musk's SpaceX IPO jolts life back into European retail investing",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd3BhSzBzQU9lSHlpeGd1TmxaQXJINEpNMHBKNzI1RjhhTF9zMEtuN2tkQ2lTZTNpSW94OWZySXpkaWdhLXZpZUJuQTNmVkp6ak5jejF0dmpxWmtBclhGcnh1dFR6WGVOZW0wdi1ZMUJ2a3lsaVdjcjNXd3ozd1lJZ01tbzV5c0REVDRCWDcwNU5KRlNDZHRHSkFiSXlRbHRaYVBoYUtmdGZJS2dTaVR6bHdVSFFMcnY0STZV?oc=5",
-  "source": "Reuters",
-  "summary_tr": "SpaceX'in halka arz planlaması Avrupa'da perakende yatırımcılara ilgi uyandırıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T11:01:06.252784+00:00",
-  "cluster_id": "cdb44ff893602"
  }
 ]
