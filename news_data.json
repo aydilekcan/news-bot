@@ -1,5 +1,89 @@
 [
  {
+  "title": "Trump says Republicans should add Iran to Russian bill",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMnFZbzUwRlM5eW5NN1JqbnNQcHdUdEsxRk11OEdEeEJ4RnltcERZSkl0dlVneU5mYlhURlN4R2F1TUliWjZ2dVZUX3dJS3JucHBEUG5hY04yUUgzWnF3SHVaNTBwb3o3cUdqNEVLWGttNjdqZ2lzSDJWQy1LeW1saG9xSjZxaXpzSFg1QzNWeG50MmtDRnpVb2NsNFlpRENJSjJ4ZTlfby0?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, Cumhuriyet Senatörlerine Rusya yaptırım yasasına İran'ı eklemelerini söyledi; ABD dış politikasında kritik karar.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-19T14:01:06.442332+00:00",
+  "type": "news",
+  "cluster_id": "cdd7535a178b3"
+ },
+ {
+  "title": "Hürmüz Boğazı’nda gerilim tırmanıyor: İran iki gemiyi durdurdu",
+  "link": "https://www.cumhuriyet.com.tr/dunya/hurmuz-bogazi-nda-gerilim-tirmaniyor-iran-iki-gemiyi-durdurdu-2522120",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran Devrim Muhafızları Hürmüz Boğazı'nda iki gemiyi durdurdu ve kazaya karıştıklarını bildirdi; bölgedeki gerilim artıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-19T14:01:06.442332+00:00",
+  "type": "news",
+  "cluster_id": "cc6a6d1b5f340"
+ },
+ {
+  "title": "İran Dışişleri Bakanı'ndan \"Hamaney'in ofisine saldırıya yol açan güvenlik açığı sürüyor olabilir\" açıklaması",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakanindan-hamaneyin-ofisine-saldiriya-yol-acan-guvenlik-acigi-suruyor-olabilir-aciklamasi/4002934",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Dışişleri Bakanı, eski lideri Hamaney'in ölümüne yol açan saldırının arkasında bir güvenlik açığı olabileceğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-19T14:01:06.442332+00:00",
+  "type": "news",
+  "cluster_id": "cff9f273190f5"
+ },
+ {
+  "title": "Trump’ın Lula’yı zayıflatma hamlesi ters tepti: Tarifeler desteği artırdı",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWnBvR1IzNHFhWnVCWUV2dGdyWWN4V0laamZBQjdzVEM4akxLWm1mRzdveHl4dlZMWkp1SlI3NUVjV01VVklUeEdJMmdZVE9sRElQb0NkemVzdVNJXzhHMzQ1ZXZiaDE5V0xER0QtazNrVWpuOTNEc1pJRzYtMFRvUGJ1TkQ3bGxFZHNfczQ4dFFnc3YzYU1qUmF5aWNTaWhNcEZ1UXBjNUxPdFI3?oc=5",
+  "source": "soL",
+  "summary_tr": "Trump'ın tarife tehditleri Brezilya Başkanı Lula'ya karşı hamlesi, halk tarafından desteklenerek ters tepti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-19T14:01:06.442332+00:00",
+  "type": "news",
+  "cluster_id": "c705c230ecec5"
+ },
+ {
+  "title": "Israel to receive more US refuelling planes as Iran attacks intensify, Israeli officials say",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR28xNFpKXzVoWU9qY0YtNnBqZlh4ck9aeTZnc1VlOVVKaTczV2J1M1pqSmRwUFc1TnFIRU5wRktydXhhXzhSY1ctbDhzU3dkX3I0dEliRDFJWDNUaFkzUUFsMEg4NnV2SWFpOGFhdHdMRHc2SDc4NE0tcXhpZ0VUVGNTQUVQazZONGdlT3hvbm4tQ0RoaFNBVkZWR0pBTlhiRmNJMnl1RFdzWWRrQl83akkybFFRUy1odzdkdFFmTmhXbS1fNDNPcG9UY0RjeFk?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran saldırılarının yoğunlaşması nedeniyle ABD, İsrail'e ek yakıt uçakları gönderiyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-19T14:01:06.442332+00:00",
+  "type": "news",
+  "cluster_id": "cd2d726de0bc6"
+ },
+ {
+  "title": "Özgür Özel CHP rozetini çıkarıyor mu? Siyaset dünyası 24 Temmuz'a kilitlendi",
+  "link": "https://www.sozcu.com.tr/ozgur-ozel-chp-rozetini-cikariyor-mu-siyaset-dunyasi-24-temmuz-a-kilitlendi-p337831",
+  "source": "Sözcü",
+  "summary_tr": "Özgür Özel'in 24 Temmuz'da yeni bir parti kuracağı iddia ediliyor; CHP'de önemli gelişme bekleniyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-19T14:01:06.442332+00:00",
+  "type": "news",
+  "cluster_id": "c82146833b9b8"
+ },
+ {
+  "title": "İddia: Özel yeni parti kararını ilan edecek, Kılıçdaroğlu tasfiyeyi genişletecek",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSVppajdGem5ucVpaYzk3ZjJtbEVfcXdwSEtmY0U1elQ1eFc3YmpjZlU5clJsT2haZ2xneURNMVItYVoydkFsd0dVRWVxZXRJNTJqRm1Ddk1zdUg4ZnJvWGpkdV9jajhyNXZabmdKbHV4dkdlM3VTRWlvaUdZcFVOMERmQnBBbGQwLUhJU1NRQkEtenR3cDJfU0RHVVhnLTgyVENneW1LSjRSVVktam4zWmV5UFdLQWM?oc=5",
+  "source": "soL",
+  "summary_tr": "Özgür Özel'in yeni partisini ilan edeceği ve Kılıçdaroğlu'nun tasfiye kararını genişleteceği iddia ediliyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-19T14:01:06.442332+00:00",
+  "type": "news",
+  "cluster_id": "c84116bf809aa"
+ },
+ {
   "title": "Son Dakika... Bakan Gürlek'ten Muhsin Yazıcıoğlu soruşturmasına ilişkin açıklama!",
   "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-bakan-gurlek-ten-muhsin-yazicioglu-sorusturmasina-iliskin-aciklama-2522116",
   "source": "Cumhuriyet",
@@ -58186,75 +58270,5 @@
   "score": 8,
   "ts": "2026-06-06T10:01:06.204402+00:00",
   "cluster_id": "c16491a350fae"
- },
- {
-  "title": "Kati İsrail'in Gazze Şeridi'ne saldırılarında can kaybı 72 bin 961'e yükseldi",
-  "link": "https://www.trthaber.com/haber/dunya/kati-israilin-gazze-seridine-saldirilarinda-can-kaybi-72-bin-961e-yukseldi-947375.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail ordusunun Gazze Şeridi'ne Ekim 2023'ten bu yana düzenlediği saldırılarda can kaybı 72 bin 961'e ulaştı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-06T10:01:06.204402+00:00",
-  "cluster_id": "cdbc862d5fc44"
- },
- {
-  "title": "Piyasalarda kırmızı cuma: Faiz korkusu Avrupa, altın ve  Bitcoin'i düşürdü",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/piyasalarda-kirmizi-cuma-faiz-korkusu-avrupa-altin-ve-bitcoin-i-dusurdu-2509854",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD'deki güçlü istihdam verisi Fed'in faiz artırım ihtimalini artırırken, çip üreticilerindeki kar satışları Avrupa borsalarında düşüşe neden oldu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T10:01:06.204402+00:00",
-  "cluster_id": "c3e944bac9222"
- },
- {
-  "title": "Trump yönetimi dev şirketlere ortak mı olacak?",
-  "link": "https://www.sozcu.com.tr/trump-yonetimi-dev-sirketlere-ortak-mi-olacak-p325715",
-  "source": "Sözcü",
-  "summary_tr": "ABD Başkanı Trump, hükümet adına yapay zeka şirketlerinden hisse almayı değerlendirdiğini açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T10:01:06.204402+00:00",
-  "cluster_id": "cd148661d5086"
- },
- {
-  "title": "Küresel piyasalarda gözler faiz kararlarına çevrildi",
-  "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-gozler-faiz-kararlarina-cevrildi-947377.html",
-  "source": "TRT Haber",
-  "summary_tr": "Küresel piyasalar jeopolitik gerginlikler ve teknoloji hisselerindeki satış baskısıyla karışık seyir gösterirken faiz kararları bekleniyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T10:01:06.204402+00:00",
-  "cluster_id": "cdf52ab3f08b8"
- },
- {
-  "title": "Taiwan says Chinese coast guard, research ships near key S. China Sea islands",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZFFTeVhDeGJPVmVhYzd6d0hJTXlPTE56LWlqLWI1N3pPMFB2dVNKOGZXZ0NuY05vbXFqcU5KRGJCU2JNUHhxRVRaRGh4V2Y5WEFwTlhDRGdkenZXVXNnalYwRmNnQm5fR29fQWRRZlNnRFVNc0Q2bENEbGhxZjdhWW04c1N6dVlkOHh4bF9BaVREaEhuaFI5NmZuQUQwSGEwQmZJRDNvN0ZydzNDV2hUSVVTVTZnbEVIWnBjOFI3ZUc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Tayvan, Çin sahil güvenlik ve araştırma gemilerinin anahtar Güney Çin Denizi adaları yakınında bulunduğunu duyurdu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T10:01:06.204402+00:00",
-  "cluster_id": "c820673a0eff7"
- },
- {
-  "title": "Yurttaşlardan TÜİK’in enflasyon verisine tepki: 'Göz göre göre yalan söylüyorlar'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/yurttaslardan-tuik-in-enflasyon-verisine-tepki-goz-gore-gore-yalan-soyluyorlar-2509851",
-  "source": "Cumhuriyet",
-  "summary_tr": "Yurttaşlar TÜİK'in mayıs enflasyon verisinin inandırıcı olmadığını ifade etti.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-06T10:01:06.204402+00:00",
-  "cluster_id": "c186bcfa7cbeb"
- },
- {
-  "title": "ABD Hazine Bakanlığı'ndan finans kurumlara 'yasa dışı istihdam' uyarısı",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/abd-hazine-bakanligi-ndan-finans-kurumlara-yasa-disi-istihdam-uyarisi-2509850",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Hazine Bakanlığı finans kurumlarına yasadışı göçmen istihdamı konusunda uyarı yaptı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-06T10:01:06.204402+00:00",
-  "cluster_id": "cb4824d2f1757"
  }
 ]
