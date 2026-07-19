@@ -1,5 +1,101 @@
 [
  {
+  "title": "Türk siyasetinde dönüm noktası olacak tarih: 21-22 Temmuz",
+  "link": "https://www.sozcu.com.tr/turk-siyasetinde-donum-noktasi-olacak-tarih-21-22-temmuz-p337779",
+  "source": "Sözcü",
+  "summary_tr": "CHP'nin seçilmiş lideri Özgür Özel, kuracakları Yeni Parti'yi 21-22 Temmuz'da kamuoyuna duyurmaya hazırlanıyor; Türk siyasetinde dönüm noktası olması bekleniyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-19T10:01:02.527519+00:00",
+  "type": "news",
+  "cluster_id": "c1807c17a44c8"
+ },
+ {
+  "title": "Zelenski: Rusya bu gece Kiev'e yönelik en yoğun balistik füze saldırılarından birini düzenledi",
+  "link": "https://www.trthaber.com/haber/dunya/zelenski-rusya-bu-gece-kieve-yonelik-en-yogun-balistik-fuze-saldirilarindan-birini-duzenledi-951605.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ukrayna Devlet Başkanı Zelenski, Rusya'nın Kiev'e savaşın başından bu yana en yoğun balistik füze saldırılarından birini gerçekleştirdiğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-19T10:01:02.527519+00:00",
+  "type": "news",
+  "cluster_id": "c9e293e3a5c06"
+ },
+ {
+  "title": "İmamoğlu'nun reddi hakim talebi reddedildi",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeTdPOFF0ejFmNGU2b0lYY0Y0ZWZMdFViQ0cxNHpRazdqd1Rqa1RxMEtqdk43eElhUnVQS0VRLWJhVk92Y1RyWUtyX3hQLU9PdXZXVDQtSmU1N2lkUmxYSEtoc2liWjdURkJ2eTAycS1SOTVJd2VwaFFhcEZ6OWZHRXA0UWxLdw?oc=5",
+  "source": "soL",
+  "summary_tr": "İmamoğlu'nun reddi hakim talebi mahkeme tarafından reddedildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-19T10:01:02.527519+00:00",
+  "type": "news",
+  "cluster_id": "ce8f3ab936dad"
+ },
+ {
+  "title": "Çin’den İngiltere’ye 'British Steel' tepkisi: 'Gerekli önlemleri alacağız'",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ2c2RFFMUnU3RjhHTndmcUx6NGJZUktRQ1o5TWFDdzhhM3FpdjQ1T0hYTFA1VjJWSWE5RE5mUGEwQ0VaV3VVaERzd2xwLXVwZ3ZnRDFNcFFfVEtYQ0pIQjgySDVDSU9JWDNoWlpFWUNNNzJLUVBIbGJhVUxyT01TU2FqTWlTLXBNZHhuM2hBWkstUXBwVHhKRkowclAxZG5NNE9aTS14NFA?oc=5",
+  "source": "soL",
+  "summary_tr": "Çin, İngiltere'nin 'British Steel' kararına tepki göstererek gerekli önlemler alacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-19T10:01:02.527519+00:00",
+  "type": "news",
+  "cluster_id": "c7afbfad9982b"
+ },
+ {
+  "title": "Halk pazarında memnun kimse yok: '35 senedir piyasadayım, en kötü yıllarımızı yaşıyoruz'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/halk-pazarinda-memnun-kimse-yok-35-senedir-piyasadayim-en-kotu-yillarimizi-yasiyoruz-2522063",
+  "source": "Cumhuriyet",
+  "summary_tr": "Karacasu halk pazarında satıcı ve alıcılar ekonomik sıkıntıdan yakınıyor; 35 yıldır satıcılık yapan esnaf krizin en ağır dönemini yaşadığını söylüyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-19T10:01:02.527519+00:00",
+  "type": "news",
+  "cluster_id": "c16f6ede226e4"
+ },
+ {
+  "title": "Sürücülerin tercihi değişti: Bir yılda yüzde 150'den fazla arttı",
+  "link": "https://www.sozcu.com.tr/suruculerin-tercihi-degisti-bir-yilda-yuzde-150-den-fazla-artti-p337776",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye'de elektrikli araçların şarj tüketimi yılın ilk yarısında geçen yılın aynı dönemine göre yüzde 150'den fazla arttı.",
+  "metric": "Elektrikli araç şarj tüketimi +%150 (ilk 6 ay)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-19T10:01:02.527519+00:00",
+  "type": "news",
+  "cluster_id": "cfd2d62307fbd"
+ },
+ {
+  "title": "Elektrikli araçların şarj tüketimi yılın ilk yarısında yüzde 153,5 arttı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/elektrikli-araclarin-sarj-tuketimi-yilin-ilk-yarisinda-yuzde-153-5-artti/4002729",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye'de elektrikli araçların şarj hizmeti kapsamındaki elektrik tüketimi, yılın ilk yarısında geçen yılın aynı dönemine göre yüzde 153,5 arttı.",
+  "metric": "Elektrikli araç şarj tüketimi +%153,5 (ilk 6 ay)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-19T10:01:02.527519+00:00",
+  "type": "news",
+  "cluster_id": "caaa71f78a7e6"
+ },
+ {
+  "title": "Türkiye'de son 6 ayda kapanan her bir şirket yerine 4'ten fazla şirket açıldı",
+  "link": "https://www.trthaber.com/haber/ekonomi/turkiyede-son-6-ayda-kapanan-her-bir-sirket-yerine-4ten-fazla-sirket-acildi-951609.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye'de yılın ilk yarısında kapanan her bir şirket yerine 4'ten fazla yeni şirket faaliyete başladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-19T10:01:02.527519+00:00",
+  "type": "news",
+  "cluster_id": "ca9bc1ee4450f"
+ },
+ {
   "title": "ABD İran'ı vurdu, Tahran Kuveyt'teki üslere saldırdı",
   "link": "https://www.dw.com/tr/abd-iran-ı-vurdu-tahran-kuveyt-teki-üslere-saldırdı/a-78024150?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -58140,85 +58236,5 @@
   "score": 6,
   "ts": "2026-06-06T09:00:56.928134+00:00",
   "cluster_id": "c9ec72c62d389"
- },
- {
-  "title": "Yurt içi piyasaların gözü faiz kararına çevrildi",
-  "link": "https://www.trthaber.com/haber/ekonomi/yurt-ici-piyasalarin-gozu-faiz-kararina-cevrildi-947364.html",
-  "source": "TRT Haber",
-  "summary_tr": "TCMB Para Politikası Kurulu perşembe günü yılın dördüncü faiz kararını açıklayacak; piyasalar bu karara odaklandı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-06T08:00:54.008527+00:00",
-  "cluster_id": "c80fb09510d7f"
- },
- {
-  "title": "ABD üst düzey nükleer ekibi topladı: Son imza için planlar çiziliyor",
-  "link": "https://www.sozcu.com.tr/abd-ust-duzey-nukleer-ekibi-topladi-son-imza-icin-planlar-ciziliyor-p325676",
-  "source": "Sözcü",
-  "summary_tr": "ABD Başkanı Trump'ın temsilcileri Oak Ridge laboratuvarında İran ile nükleer müzakereleri hızlandırmak için planlar çiziyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T08:00:54.008527+00:00",
-  "cluster_id": "c4b2af55a32c5"
- },
- {
-  "title": "AYM’den hastanede yaşamını yitiren bebek davasında hak ihlali kararı",
-  "link": "https://www.sozcu.com.tr/aym-den-hastanede-yasamini-yitiren-bebek-davasinda-hak-ihlali-karari-p325675",
-  "source": "Sözcü",
-  "summary_tr": "Anayasa Mahkemesi, hastanede yaşamını yitiren bebek davasında çiftin başvurusunu karşılayarak hak ihlali kararı verdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T08:00:54.008527+00:00",
-  "cluster_id": "c769b8f44f391"
- },
- {
-  "title": "Türk balıkçı teknesine Kırım açıklarında saldırı: Bir ölü",
-  "link": "https://www.dw.com/tr/türk-balıkçı-teknesine-kırım-açıklarında-saldırı-bir-ölü/a-77443469?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Kırım açıklarında Türk balıkçı teknesi saldırıya uğradı, bir kişi hayatını kaybetti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-06T08:00:54.008527+00:00",
-  "cluster_id": "c96f0cb329230"
- },
- {
-  "title": "AKP'den 'yeni anayasa' ile ilgili yeni hamle: 'Politika belgesi' hazırlığı başladı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/akp-den-yeni-anayasa-ile-ilgili-yeni-hamle-politika-belgesi-hazirligi-basladi-2509821",
-  "source": "Cumhuriyet",
-  "summary_tr": "AKP, yeni anayasa hedefiyle çalışmalarını son aşamaya taşıdı, partinin bakış açısını içeren 'politika belgesi' hazırlanıyor.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-06T08:00:54.008527+00:00",
-  "cluster_id": "ced99959bdbfd"
- },
- {
-  "title": "Türkiye'nin Yeşil Şehirler Projesine 191,5 milyon euroluk finansman",
-  "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-yesil-sehirler-projesine-1915-milyon-euroluk-finansman-947363.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye, Dünya Bankasından 'Yeşil ve Geleceğin Şehirleri Projesi' için 191,5 milyon euroluk finansman temin etti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-06T08:00:54.008527+00:00",
-  "cluster_id": "c0de67f27c390"
- },
- {
-  "title": "Turkish-flagged fishing boat is attacked in the Black Sea, leaving a sailor dead",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSEdnMnBVRHhjUnZoLWwxTHd2QkgzUmZTQzVYU19SZ21GdHRrV0p3TTFlR3ZEVGVCbU9CRndRZjgyVUNJTEU2cE0wNVJ2am9sT2dnVURIN3dST3NWbjRJdFYtbjJEcm9NVjVHNzlwOURzZzJiSnNLWGNqalFBVmZwVDM3aC12bk5YdzdySQ?oc=5",
-  "source": "AP",
-  "summary_tr": "Kara Deniz'de Türk flaglı balıkçı teknesi saldırıya uğradı ve batan teknede bir gemi adamı hayatını kaybetti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-06T08:00:54.008527+00:00",
-  "cluster_id": "c6b18c04611da"
- },
- {
-  "title": "Yandaş gazete duyurdu: Kılıçdaroğlu'nun sıradaki hedefi il başkanları",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/yandas-gazete-duyurdu-kilicdaroglu-nun-siradaki-hedefi-il-baskanlari-2509798",
-  "source": "Cumhuriyet",
-  "summary_tr": "Kemal Kılıçdaroğlu, mahkeme kararıyla CHP Genel Başkanlığına atandıktan sonra partinin il başkanlarıyla görüşmelere başlayacak.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-06T07:00:54.358790+00:00",
-  "cluster_id": "c87b2c33fc4bc"
  }
 ]
