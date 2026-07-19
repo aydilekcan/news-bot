@@ -1,5 +1,29 @@
 [
  {
+  "title": "İsrail Savunma Bakanından, İran'ın İsrail'i hedef alması halinde \"tüm güçleriyle\" saldırı düzenleyecekleri tehdidi",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-savunma-bakanindan-iranin-israili-hedef-almasi-halinde-tum-gucleriyle-saldiri-duzenleyecekleri-tehdidi/4003059",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail Savunma Bakanı Katz, İran'ın İsrail'i hedef alması durumunda 'tüm güçleriyle' saldırı yapacaklarını tehdid etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-19T18:01:00.236084+00:00",
+  "type": "news",
+  "cluster_id": "c43897609acc2"
+ },
+ {
+  "title": "Mevduat faizleri güncellendi: 2 milyon TL'nin 32 günlük getirisi belli oldu",
+  "link": "https://www.sozcu.com.tr/mevduat-faizleri-guncellendi-2-milyon-tl-nin-32-gunluk-getirisi-belli-oldu-p337864",
+  "source": "Sözcü",
+  "summary_tr": "Merkez Bankası faiz kararı sonrası mevduat faizleri güncellendi; emekli zammı ve piyasa hareketliliği devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-19T18:01:00.236084+00:00",
+  "type": "news",
+  "cluster_id": "cb01b4201358f"
+ },
+ {
   "title": "US strikes Iran over troop deaths as Israel warns Tehran’s attacks are coming close",
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOVVPQXpIUjAzU1c2TG1GcXJUU19aU2FodDRTVWV4RVdVN2stQ1NueUtIRC03M2hXNFZLRkQzUUdqMWNQOVBMbzFmc1NGejY3bXFNSnJYMXNNRTIyMlNMYjFPbXVOcXJCSkFPVHNsMkRvblBzcjc5aXJhbHlndGlrek9RbmVBTlN4SHI3N1VHLUpGVlNmTE4tSlAwSktTd1k?oc=5",
   "source": "AP",
@@ -58266,25 +58290,5 @@
   "score": 7,
   "ts": "2026-06-06T11:01:06.252784+00:00",
   "cluster_id": "c77ae88730855"
- },
- {
-  "title": "Bakan Yumaklı: Gıda kaybı ve israfının küresel ekonomiye yıllık maliyeti 1 trilyon dolar",
-  "link": "https://www.trthaber.com/haber/gundem/bakan-yumakli-gida-kaybi-ve-israfinin-kuresel-ekonomiye-yillik-maliyeti-1-trilyon-dolar-947382.html",
-  "source": "TRT Haber",
-  "summary_tr": "Tarım Bakanı Yumaklı, gıda kaybı ve israfının küresel ekonomiye yıllık 1 trilyon dolar maliyeti olduğunu vurguladı.",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-06-06T11:01:06.252784+00:00",
-  "cluster_id": "c77ae88730855"
- },
- {
-  "title": "KOSGEB destek üst limiti 30 milyon liraya yükseltildi",
-  "link": "https://www.trthaber.com/haber/ekonomi/kosgeb-destek-ust-limiti-30-milyon-liraya-yukseltildi-947383.html",
-  "source": "TRT Haber",
-  "summary_tr": "Sanayi Bakanı Kacır, KOSGEB Kapasite Geliştirme Destek Programı'nda destek üst limitini 30 milyon liraya yükseltti.",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-06-06T11:01:06.252784+00:00",
-  "cluster_id": "c40286ea4e01b"
  }
 ]
