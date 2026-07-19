@@ -1,5 +1,125 @@
 [
  {
+  "title": "ABD İran'ı vurdu, Tahran Kuveyt'teki üslere saldırdı",
+  "link": "https://www.dw.com/tr/abd-iran-ı-vurdu-tahran-kuveyt-teki-üslere-saldırdı/a-78024150?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "ABD İran'ı vurdu, İran misilleme olarak Kuveyt'teki Amerikan üslerine saldırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-19T09:01:08.640752+00:00",
+  "type": "news",
+  "cluster_id": "c0a3cce240dea"
+ },
+ {
+  "title": "Rusya’dan Kiev’e balistik füze yağmuru: Ölü ve yaralılar var",
+  "link": "https://www.cumhuriyet.com.tr/dunya/rusya-dan-kiev-e-balistik-fuze-yagmuru-olu-ve-yaralilar-var-2522045",
+  "source": "Cumhuriyet",
+  "summary_tr": "Rusya Kiev'i 41 füze ve 125 İHA ile vurdu; en az bir kişi hayatını kaybetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-19T09:01:08.640752+00:00",
+  "type": "news",
+  "cluster_id": "c8dc3c3e46fed"
+ },
+ {
+  "title": "Russia pounds Kyiv in major ballistic missile attack",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX2tmdG9jeU9JcGhlNVVYMTRHSG9ZejlGb2pRbG1SNUpqZVF5aTZSa0pXSGxjeUl6WTUydUE1TmdORFZrbURGcmNYWHRhQ3hTNmNmZTZXamtaVVBkczh3T09LYWVQRXJweHlSamppc2ViWFZGbnlOYWU0d0hjNWhpRzNaZzd3cTZQUEVWdXBGRDN2eWtTc3VmSGQwaXlBOE45aVBwUkxqNHg5VDc0cnI4?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya Kiev'i büyük çaplı balistik füze saldırısıyla hedef aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-19T09:01:08.640752+00:00",
+  "type": "news",
+  "cluster_id": "cdaee1ab65d62"
+ },
+ {
+  "title": "Butlan dosyasında kritik eşik: Yargıtay tedbiri kaldırırsa ne olacak?",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/butlan-dosyasinda-kritik-esik-yargitay-tedbiri-kaldirirsa-ne-olacak-2522047",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP'nin seçim butlanı kararına ilişkin dosya Yargıtay'a ulaştı; adli tatilde karar alınabilir.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-19T09:01:08.640752+00:00",
+  "type": "news",
+  "cluster_id": "c4eb5ee5e8bed"
+ },
+ {
+  "title": "Democratic Taiwan must not become 'China's Taiwan', president says",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNmMyZ1pTd2EyNnlYUW5BYnpZOXJXb1BkOGxER3c0SXpjajlNRzlzXzl6cU9qOUhBNmY4VFlOdlFHT0NFcWxMdTNLQkxndmY0ajk5SnBvLVItSWxkQ0lDNGxzZnNfU0ZBUFRhUnZPZHJHZUR4ZGxHdW9NTm41Y0dVSGxDRXdtU2ZHNGYwZzVaS3lMOEhZbWJSUkxyXzRkeE9aSG9rcElHNHpQRmd1X1RJ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Tayvan Cumhurbaşkanı, Tayvan'ın demokratik kimliğinin korunması gerektiğini vurgulayarak 'Çin'in Tayvanı' olunmasına karşı çıktı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-19T09:01:08.640752+00:00",
+  "type": "news",
+  "cluster_id": "ccb8536d77454"
+ },
+ {
+  "title": "Özgür Özel tarih vermişti: 'Yeni Parti' ismiyle marka başvurusu yapıldı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-tarih-vermisti-yeni-parti-ismiyle-marka-basvurusu-yapildi-2522048",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP'de Özgür Özel çevresince kurulacağı iddia edilen 'Yeni Parti' için TÜRKPATENT'e marka başvurusu yapıldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-19T09:01:08.640752+00:00",
+  "type": "news",
+  "cluster_id": "cecc976de07e6"
+ },
+ {
+  "title": "11 bin 885 kişi akın akın kaçtı: Hepsinin tek bir nedeni var!",
+  "link": "https://www.sozcu.com.tr/11-bin-885-kisi-akin-akin-kacti-hepsinin-tek-bir-nedeni-var-p337768",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye'de geçen yıl 11.885 kişi emeklilik nedeniyle şehir değiştirdi; en fazla göç İstanbul'a oldu.",
+  "metric": "Emekli göçü: 11.885 kişi",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-19T09:01:08.640752+00:00",
+  "type": "news",
+  "cluster_id": "cf1a581e43bd8"
+ },
+ {
+  "title": "Türkiye'de geçen yıl 11 bin 885 kişi emeklilik nedeniyle şehir değiştirdi",
+  "link": "https://www.aa.com.tr/tr/gundem/turkiyede-gecen-yil-11-bin-885-kisi-emeklilik-nedeniyle-sehir-degistirdi/4002683",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye'de geçen yıl 11.885 kişi emeklilik nedeniyle şehir değiştirdi; İstanbul en fazla göç alan il oldu.",
+  "metric": "Emekli göçü: 11.885 kişi",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-19T09:01:08.640752+00:00",
+  "type": "news",
+  "cluster_id": "cbcf74cf97536"
+ },
+ {
+  "title": "Hungary’s president signs a constitutional amendment ending his term",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOallUTVNENWo3T0loZmx6U1poMEJxWGpoYnF3aXVmeGFIeDZQNzUyek5mc0JCb01JZ2hmUUlfN25LdkJUR0xmVEUxYzZqMHdySmZUcTREWmQ0Mkg3bWc5bEl1OFdwbEZlal91VkxKbXEwdm0xWTdmU2Ftc1lBd1RCcGVucmFucXJiNjZvRWJrOWstdFdDZkhxWVBIOUl4YTg2aDY5Q0p5UEhVUQ?oc=5",
+  "source": "AP",
+  "summary_tr": "Macaristan Cumhurbaşkanı, görev süresini sonlandıran anayasa değişikliğini imzaladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-19T09:01:08.640752+00:00",
+  "type": "news",
+  "cluster_id": "ccd1754430b2b"
+ },
+ {
+  "title": "Memur ve memur emeklileri temmuz zam oranı: %13,52 (Temmuz 2025)",
+  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54ai1ybGNpanE1OS1OYzcwd1Z6VTI3MHZIZWxFSW5OUklwYVU1ZnMtdWo1RlRUMmdmcC1TckhYaDFPOFRMLWxEZ2pfYW5NVVZtTlE?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%13,52",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-19T09:01:08.640752+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Ürdün'de iki ABD askeri öldürüldü: ABD ve İran'dan karşılıklı saldırılar",
   "link": "https://www.bbc.com/turkce/articles/c07rnxj949po?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -58100,105 +58220,5 @@
   "score": 6,
   "ts": "2026-06-06T07:00:54.358790+00:00",
   "cluster_id": "c87b2c33fc4bc"
- },
- {
-  "title": "Enerji ve Tabii Kaynaklar Bakanlığı yeni YEKA belirledi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/enerji-ve-tabii-kaynaklar-bakanligi-yeni-yeka-belirledi/3958203",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Enerji ve Tabii Kaynaklar Bakanlığı, Erzurum'un Çat ilçesini güneş enerjisine dayalı YEKA olarak belirledi.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-06T07:00:54.358790+00:00",
-  "cluster_id": "c174be0b299ff"
- },
- {
-  "title": "İktidarın yeni maaş saldırısı: ‘Eşik gelir’ düzenlemesinin arkasında hangi tehlikeli hesaplar yatıyor?",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbUpPQzVpUlJVLW52Ynk2Z0IySnM2elkwcThvOVE0ZEJyQW5uYlJZa0tMSlkzdjRXX3l6bUZSVmNCcW84QTF6SmdsR2p2Y0YwNnIzdjBaZjZwU3FSVHV1T0lFTWJ1Z0JzNF9oRGwzbWhxQUJyZGpxTFJzZEVlMDdpWXQ3LW5LWHkyYk0yMVp4bHo0VTRNMzNkWVRQcjdGQ19EU0VNXzFnVGlMLVNEZnBQdUlubXZoNmVULVNidm1n?oc=5",
-  "source": "soL",
-  "summary_tr": "Hükümet 'eşik gelir' düzenlemesi getiriyor; muhalefet bunu maaş saldırısı olarak nitelendiriyor.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-06T07:00:54.358790+00:00",
-  "cluster_id": "c761e35cb1120"
- },
- {
-  "title": "Kılıçdaroğlu'ndan il başkanlarına davet: 'Reddedenler disipline sevk edilecek' iddiası",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdklueUxVc2NjMFcweU9GNFB1eklKNEVJTV9iTXZITGhsc0l1UnlEY09pM0JUelNDb1QtcTFLcHJzRkQtQi1ZVjh1U3haY2x1N0d3d1llRWJWODJQOHZ2Y2U1ek5TX2ZaSDhYeGJZVnk4SkFRNEhVVTJ4akdEbDJvUkd0eVhNT1lvdGJJSDQtSm1HZ3JKVEtzQmV1UDdLWFlRT0UzT1d0VUFmbF9QcHdKcENNNTZZUWxnWEZQZg?oc=5",
-  "source": "soL",
-  "summary_tr": "Kılıçdaroğlu, CHP il başkanlarını davete çağırıyor; davetleri reddedenlerin disipline sevk edileceği iddia ediliyor.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-06T07:00:54.358790+00:00",
-  "cluster_id": "c678df25a776a"
- },
- {
-  "title": "Karadeniz'de Türk teknesine saldırı: Yaralılar İnebolu Lİmanı'na getirildi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/karadeniz-de-turk-teknesine-saldiri-yaralilar-inebolu-limani-na-getirildi-2509780",
-  "source": "Cumhuriyet",
-  "summary_tr": "Karadeniz'de Türk balıkçı teknesine saldırı düzenlendi; 1 kişi hayatını kaybetti, 4 kişi yaralandı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-06T06:00:52.462064+00:00",
-  "cluster_id": "cc5b43891d334"
- },
- {
-  "title": "Körfez'de tansiyon yükseliyor: Masada müzakere, sahada karşılıklı saldırı",
-  "link": "https://www.trthaber.com/haber/dunya/korfezde-tansiyon-yukseliyor-masada-muzakere-sahada-karsilikli-saldiri-947350.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD Hürmüz Boğazı'nda İran İHA'larını düşürürken, İran Devrim Muhafızları Kuveyt ve Bahreyn'i tehdit etti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-06T06:00:52.462064+00:00",
-  "cluster_id": "ca8a919fe4e97"
- },
- {
-  "title": "Bitcoin'de tarihi kırılma: 8 ay sonra kritik eşik aşıldı",
-  "link": "https://www.sozcu.com.tr/bitcoin-de-tarihi-kirilma-8-ay-sonra-kritik-esik-asildi-p325640",
-  "source": "Sözcü",
-  "summary_tr": "Bitcoin Ekim 2024'ten bu yana ilk kez 60 bin doların altına inerek kritik seviyeyi kırdı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T06:00:52.462064+00:00",
-  "cluster_id": "c155e1a65c129"
- },
- {
-  "title": "Bakanlık duyurdu: Discord'un yeniden erişime açılması gündemde",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/bakanlik-duyurdu-discord-un-yeniden-erisime-acilmasi-gundemde-2509779",
-  "source": "Cumhuriyet",
-  "summary_tr": "Ulaştırma Bakanı Uraloğlu, Türkiye'de engeli bulunan Discord'un yeniden erişime açılabileceğini duyurdu.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-06T06:00:52.462064+00:00",
-  "cluster_id": "cd0e3fb17bac8"
- },
- {
-  "title": "Gözler haziran ayı enflasyonuna çevrildi",
-  "link": "https://www.trthaber.com/haber/ekonomi/gozler-haziran-ayi-enflasyonuna-cevrildi-947347.html",
-  "source": "TRT Haber",
-  "summary_tr": "Mayıs enflasyon verisiyle SSK emeklisine %16,61, memura %16,61 oranında 5 aylık zam belirlendi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-06T05:00:57.921600+00:00",
-  "cluster_id": "c3ea09952d13d"
- },
- {
-  "title": "Yargıtay'dan çalışanları mutlu edecek karar: Artık yasaklandı",
-  "link": "https://www.sozcu.com.tr/yargitay-dan-calisanlari-mutlu-edecek-karar-artik-yasaklandi-p325629",
-  "source": "Sözcü",
-  "summary_tr": "Yargıtay, işverenlerin işçilere tahsis ettiği akıllı telefon ve bilgisayarlardaki kişisel yazışmaları incelemesini yasakladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T05:00:57.921600+00:00",
-  "cluster_id": "c3dc07a03f7f7"
- },
- {
-  "title": "İran, ABD üslerini füzelerle hedef aldı",
-  "link": "https://www.trthaber.com/haber/dunya/iran-abd-uslerini-fuzelerle-hedef-aldi-947344.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Devrim Muhafızları Ordusu, ABD'nin Sirik ve Keşm Adası'na yönelik saldırısına karşılık olarak bölgedeki ABD üslerini füzelerle hedef aldı.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-06T04:00:48.042189+00:00",
-  "cluster_id": "cd4e68b488b70"
  }
 ]
