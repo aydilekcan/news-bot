@@ -1,5 +1,41 @@
 [
  {
+  "title": "US renews strikes on Iran after two military personnel killed by Iranian attack",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmZSOG9seXNyMUFGTW1NMF9XWUVNYUZLczBFRWFTTDZZYnRjX081R3pnUzl6NTFVM053aG50T09hb2pMSlFxTGV6T2V0ZEZaRUFtNjVTSk01MWFrb05KcHdVdHZHMktERXlFVEdKTGFrTlo0cl9SY0hjb0dpb01rMDh6Z2l5MFoyWGI2VjA3cGx1UTN1T1RqU0RCeHVLdVlWUEJIU0dHaFl2SEpKN1AySUlMeUJPQVBtWUtPY1BHUUw5bGZxTEpCRQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, iki askeri personelin İran saldırısında öldürülmesinin ardından İran'a karşı hava saldırılarını yeniledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-19T02:00:59.886432+00:00",
+  "type": "news",
+  "cluster_id": "c50b691cc7137"
+ },
+ {
+  "title": "Mutlak butlan kararının Yargıtay’a gönderilmesi siyasette yeni tartışmaların fitilini ateşledi: ‘İstifalardan dolayı karar geçerli olmayacak’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/mutlak-butlan-kararinin-yargitay-a-gonderilmesi-siyasette-yeni-tartismalarin-fitilini-atesledi-istifalardan-dolayi-karar-gecerli-olmayacak-2521959",
+  "source": "Cumhuriyet",
+  "summary_tr": "Anayasa Mahkemesi'nin mutlak butlan kararı Yargıtay'a gönderildi; bazı hukuk çevrelerinde istifalardan dolayı kararın geçerliliği tartışılıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-19T02:00:59.886432+00:00",
+  "type": "news",
+  "cluster_id": "c677e603d8431"
+ },
+ {
+  "title": "Yıldızlar SSS Holding’e bağlı Doruk Madencilik’in ardından Elazığ’daki Eti Gümüş işçileri de ücret ve tazminatları için eyleme başladı: Yine aynı şirket!",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/yildizlar-sss-holding-e-bagli-doruk-madencilik-in-ardindan-elazig-daki-eti-gumus-iscileri-de-ucret-ve-tazminatlari-icin-eyleme-basladi-yine-ayni-sirket-2521954",
+  "source": "Cumhuriyet",
+  "summary_tr": "Elazığ Eti Gümüş işçileri SSS Holding şirketine bağlı olarak ödenmeyen ücret ve tazminatlar için greve başladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-19T02:00:59.886432+00:00",
+  "type": "news",
+  "cluster_id": "cab077f390dbd"
+ },
+ {
   "title": "İhale yine iktidara yakın şirkete",
   "link": "https://www.sozcu.com.tr/ihale-yine-iktidara-yakin-sirkete-p337683",
   "source": "Sözcü",
@@ -58114,35 +58150,5 @@
   "score": 7,
   "ts": "2026-06-05T22:00:57.664827+00:00",
   "cluster_id": "c5d8f4384feec"
- },
- {
-  "title": "Sahte yatırım çetesine dev operasyon: 79 tutuklama, 15 akaryakıt istasyonuna kayyım",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-merkezli-27-ildeki-dolandiricilik-operasyonunda-gozaltina-alinan-suphelilerden-79-u-tutuklandi-2509774",
-  "source": "Cumhuriyet",
-  "summary_tr": "İstanbul merkezli 27 ilde sahte yatırım çetesine karşı operasyon: 79 tutuklama, 15 akaryakıt istasyonuna kayyım atandı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T22:00:57.664827+00:00",
-  "cluster_id": "c791e60020096"
- },
- {
-  "title": "Banka yöneticilerinin adlarıyla vurgun yaptılar! 4,6 milyar liralık mal varlığı",
-  "link": "https://www.sozcu.com.tr/banka-yoneticilerinin-adlariyla-vurgun-yaptilar-4-6-milyar-liralik-mal-varligi-p325607",
-  "source": "Sözcü",
-  "summary_tr": "27 ilde siber dolandırıcılık operasyonunda banka yöneticilerinin adları kullanılarak 4,6 milyar liralık vurgun yapıldığı ortaya çıktı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T22:00:57.664827+00:00",
-  "cluster_id": "ca905bd48e936"
- },
- {
-  "title": "SpaceX lands Google AI compute deal after Anthropic pact ahead of IPO",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUmJaWjFuRkZ4dWpWN2RkYnU4S3FpZ1FEOHFNa09HVnZ0ODdrTzBFMm0wcjQ4SWhTb1l4ZHBlVmNobGNhVG56LWRQQVdJc3poTjBMN2RxeFBVY0xDSXdNRkRJaFpaMHJzZHdqZnFDMmRCbTZPTkQ1bVlYdWpWNmk1X0QxM3BKczRQcjRfVUVhLWYyVU5FLUZmTjVB?oc=5",
-  "source": "Reuters",
-  "summary_tr": "SpaceX, Anthropic anlaşmasının ardından Google'ın yapay zeka işlem gücü için anlaşma imzaladı. IPO öncesinde önemli bir iş ortaklığı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T22:00:57.664827+00:00",
-  "cluster_id": "c781f509e6ef1"
  }
 ]
