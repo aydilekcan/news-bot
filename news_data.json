@@ -1,5 +1,41 @@
 [
  {
+  "title": "US announces another troop death as Israel warns Tehran’s attacks are coming close",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOVVPQXpIUjAzU1c2TG1GcXJUU19aU2FodDRTVWV4RVdVN2stQ1NueUtIRC03M2hXNFZLRkQzUUdqMWNQOVBMbzFmc1NGejY3bXFNSnJYMXNNRTIyMlNMYjFPbXVOcXJCSkFPVHNsMkRvblBzcjc5aXJhbHlndGlrek9RbmVBTlN4SHI3N1VHLUpGVlNmTE4tSlAwSktTd1k?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD bir asker ölüsünü daha açıklarken, İsrail İran'ın saldırılarının yaklaşmakta olduğu konusunda uyarı verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-19T23:01:02.591332+00:00",
+  "type": "news",
+  "cluster_id": "cbf651f74cdec"
+ },
+ {
+  "title": "Cansu Çamlıbel | İmamoğlu'nun avukatı Tora Pekin: Bu yargılamanın nereye gittiği besbelli, sonuç Ekrem Bey açısından ‘mahkûmiyet ve siyasî yasaktır’ diyebiliyorum!",
+  "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNRHFnTTA0a2NWcHFONmxTTXV1elRfWnY4ZHFDRkdHeUd6YWJVc20zWmJqbFIzV3c0VzIwRG9FMm5JZ3Y1OE5yOHZyOWZVRDc5SFpwNUNHUXVlZW9PSGkyOFUwZlM0c3lqNXp1clFxeFB3aVRTV1BMRW91dUx5OFRqTGprNldCc09UbTVlTXRzLVFwaDdESm5UYm5VYTRrNFQ1ZmZOaDJLRHhFNGYtMmw1TllSbm9fMW1ZN0Y2UUsyREpnQmNQUTJxQVFwTC1jbkJlSHdPYjRUMG12VnFRMlNPSW51RFVaZk5WVnRPMWFQczVMNDFXdjEwN2t4LVU0SnVZVFNjanZON2puQVJRZjluenJ0Z3d6UQ?oc=5",
+  "source": "T24",
+  "summary_tr": "İmamoğlu'nun avukatı Tora Pekin, davayı gözlemleyerek sonuç olarak mahkûmiyet ve siyasi yasağa işaret ettiğini belirtti.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-19T23:01:02.591332+00:00",
+  "type": "news",
+  "cluster_id": "ca35cb5ba2385"
+ },
+ {
+  "title": "17 US service members have died in the Iran war, reflecting a conflict fought largely in the air",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR0hpOHR6RFNuWW1CU2M2ZXdqMVgta1lXUld6b2VBSTMzTXdicTQweDJZZ2RaQnhoenBYdExDN0ZtRjlsb3NxRTB4SGtCQUw2aW9jbWZHaWJsc3dhUjVXeDVPRm5NcVQxSVdITmxRbFdMTXlmVTBiWFFDUTNJbnJscWVYc2k?oc=5",
+  "source": "AP",
+  "summary_tr": "İran savaşında 17 ABD askerinin öldüğü, çatışmanın çoğunlukla hava operasyonları aracılığıyla yürütüldüğü açıklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-19T23:01:02.591332+00:00",
+  "type": "news",
+  "cluster_id": "c5dbd9f2aa46d"
+ },
+ {
   "title": "İran'ın Irak'taki saldırısının ardından bir ABD askeri öldü",
   "link": "https://www.bbc.com/turkce/articles/c07rnxj949po?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -58282,35 +58318,5 @@
   "score": 6,
   "ts": "2026-06-06T13:01:04.736829+00:00",
   "cluster_id": "c500d384e9f6e"
- },
- {
-  "title": "DEM Parti'den Rahmi Koç hakkında suç duyurusu",
-  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkJiQkYzNm9kTUh6U3VDUEhheHkxMGd6cUVPV1FzWHVQcXJ2X0UyRmx4RnpmdHlka2Jua2dtSHZHWDc5NGhOd1lVRTJzN0NNVWJPdThuMEV1YkdqOW9BbnNxZ2RXSVZ4TE9zTHQ5ZlFlN294R20tMnZibTIxakFUMGJQZnpycmxCOGc?oc=5",
-  "source": "soL",
-  "summary_tr": "DEM Parti, Rahmi Koç hakkında suç duyurusunda bulundu.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-06T13:01:04.736829+00:00",
-  "cluster_id": "c4e328da245c7"
- },
- {
-  "title": "ABD ve İran ateşkesi Körfez'e saldırılarla bir kez daha sınandı",
-  "link": "https://www.bbc.com/turkce/articles/c6213758z6jo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD ve İran arasındaki ateşkes Körfez'de yeniden gerildi: ABD İran drone ve radarlarını hedef aldı, İran karşılık verdi.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-06T12:00:56.754989+00:00",
-  "cluster_id": "c75561fd5caef"
- },
- {
-  "title": "53 kişi hayatını kaybetmişti... Reyhanlı saldırısı davasında karar çıktı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/53-kisi-hayatini-kaybetmisti-reyhanli-saldirisi-davasinda-karar-cikti-2509882",
-  "source": "Cumhuriyet",
-  "summary_tr": "2013 Reyhanlı bombalı saldırısında (53 ölü) mahkeme kararı açıklandı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T12:00:56.754989+00:00",
-  "cluster_id": "ce38eb0a182ae"
  }
 ]
