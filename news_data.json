@@ -1,5 +1,29 @@
 [
  {
+  "title": "Emekli aylığı 3 günde bitiyor",
+  "link": "https://www.sozcu.com.tr/emekli-ayligi-3-gunde-bitiyor-p337687",
+  "source": "Sözcü",
+  "summary_tr": "Emekliler 27.500 TL aylıkla bir ayı geçirmektedir; emekli aylığı 3 günde tükenmektedir.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-19T03:00:58.514365+00:00",
+  "type": "news",
+  "cluster_id": "cb26340f74d06"
+ },
+ {
+  "title": "Deprem bölgesi toparlanamadı",
+  "link": "https://www.sozcu.com.tr/deprem-bolgesi-toparlanamadi-p337688",
+  "source": "Sözcü",
+  "summary_tr": "Deprem bölgesinde sanayi ve ihracat toparlanamamış, istihdam yapısı büyük şirketler lehine değişmiştir.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-19T03:00:58.514365+00:00",
+  "type": "news",
+  "cluster_id": "c63a7ebe0e52f"
+ },
+ {
   "title": "US renews strikes on Iran after two military personnel killed by Iranian attack",
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmZSOG9seXNyMUFGTW1NMF9XWUVNYUZLczBFRWFTTDZZYnRjX081R3pnUzl6NTFVM053aG50T09hb2pMSlFxTGV6T2V0ZEZaRUFtNjVTSk01MWFrb05KcHdVdHZHMktERXlFVEdKTGFrTlo0cl9SY0hjb0dpb01rMDh6Z2l5MFoyWGI2VjA3cGx1UTN1T1RqU0RCeHVLdVlWUEJIU0dHaFl2SEpKN1AySUlMeUJPQVBtWUtPY1BHUUw5bGZxTEpCRQ?oc=5",
   "source": "Reuters",
@@ -58130,25 +58154,5 @@
   "score": 7,
   "ts": "2026-06-05T22:00:57.664827+00:00",
   "cluster_id": "c003cdff15f9c"
- },
- {
-  "title": "Buca Belediye Başkanı Görkem Duman dahil 42 kişi tutuklandı",
-  "link": "https://www.sozcu.com.tr/gorkem-duman-tutuklandi-p325597",
-  "source": "Sözcü",
-  "summary_tr": "Buca Belediye Başkanı Görkem Duman ve eski başkan Erhan Kılıç dahil 42 kişi belediye yolsuzluğu soruşturmasında tutuklandı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T22:00:57.664827+00:00",
-  "cluster_id": "c5d8f4384feec"
- },
- {
-  "title": "Buca Belediye Başkanı tutuklandı",
-  "link": "https://www.trthaber.com/haber/turkiye/buca-belediye-baskani-tutuklandi-947333.html",
-  "source": "TRT Haber",
-  "summary_tr": "Buca Belediyesi yolsuzluk soruşturmasında mevcut başkan Görkem Duman ve eski başkan Erhan Kılıç tutuklandı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T22:00:57.664827+00:00",
-  "cluster_id": "c5d8f4384feec"
  }
 ]
