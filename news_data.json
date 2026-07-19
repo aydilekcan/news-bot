@@ -1,5 +1,137 @@
 [
  {
+  "title": "Ürdün'de iki ABD askeri öldürüldü: ABD ve İran'dan karşılıklı saldırılar",
+  "link": "https://www.bbc.com/turkce/articles/c07rnxj949po?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD, İran'a karşı hava saldırısı dalgası başlattı; İran kıyı gözetleme ve hava savunma tesislerini harekete geçirdi. Ürdün'de iki ABD askeri öldürüldü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-19T08:01:10.523993+00:00",
+  "type": "news",
+  "cluster_id": "c264f86696f50"
+ },
+ {
+  "title": "Milyonlarca emeklinin beklediği zamlı maaşlar ne zaman yatacak?",
+  "link": "https://www.sozcu.com.tr/milyonlarca-emeklinin-bekledigi-zamli-maaslar-ne-zaman-yatacak-p337733",
+  "source": "Sözcü",
+  "summary_tr": "Milyonlarca memur, SSK ve Bağ-Kur emeklisinin 2026 yılı zamlı maaş farkı ödemeleri bekleniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-19T08:01:10.523993+00:00",
+  "type": "news",
+  "cluster_id": "c247b1553d2d1"
+ },
+ {
+  "title": "Trump’tan İran’ın mutabakat çıkışına yanıt: Umurumda değil",
+  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-iran-in-mutabakat-cikisina-yanit-umurumda-degil-2522036",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD Başkanı Trump, İran'ın İslamabad Mutabakatı'ndan çıkış kararının kendisini umursamadığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-19T08:01:10.523993+00:00",
+  "type": "news",
+  "cluster_id": "c09da82444218"
+ },
+ {
+  "title": "CHP'li Gürer: 'Tarım kesiminin kredi borcu 1 trilyon 439 milyar lirayı aştı'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-li-gurer-tarim-kesiminin-kredi-borcu-1-trilyon-439-milyar-lirayi-asti-2522034",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Milletvekili Gürer, tarım kesiminin bankalara ve finans kuruluşlarına olan kredi borcunun 1 trilyon 439 milyar lirayı aştığını açıkladı.",
+  "metric": "Tarım kredi borcu 1.439 trilyon TL",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-19T08:01:10.523993+00:00",
+  "type": "news",
+  "cluster_id": "cffed6023ab3f"
+ },
+ {
+  "title": "Yatırımcı TL'ye sığındı: Mevduatta 11 yılın zirvesi görüldü!",
+  "link": "https://www.sozcu.com.tr/yatirimci-tl-ye-sigindi-mevduatta-11-yilin-zirvesi-goruldu-p337740",
+  "source": "Sözcü",
+  "summary_tr": "Yerli yatırımcılar TL'ye yöneldi; bankacılık mevduatları 11 yılın en yüksek seviyesine ulaştı.",
+  "metric": "Mevduat 11 yılın zirvesi",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-19T08:01:10.523993+00:00",
+  "type": "news",
+  "cluster_id": "c316358673c46"
+ },
+ {
+  "title": "Trump, İran'ın İslamabad Mutabakatı'na uymayacağını belirtmesinin umurunda olmadığını söyledi",
+  "link": "https://www.aa.com.tr/tr/dunya/trump-iranin-islamabad-mutabakatina-uymayacagini-belirtmesinin-umurunda-olmadigini-soyledi/4002659",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, İran'ın İslamabad Mutabakatı'na uyma yükümlülüğünün kalmadığını söylemesinin umurunda olmadığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-19T08:01:10.523993+00:00",
+  "type": "news",
+  "cluster_id": "cd6d3ce3c6f9f"
+ },
+ {
+  "title": "Lebanon's Aoun to meet Trump at White House, hoping to generate pressure on Israel",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOU4yVVlYeXdhdDFTY0pNZUZjSzRvWE1mWi1NcF9MVUI5Y3N3aTRrRzU2RnpCc2tzVV9LS21EQ1RPdUFDN0VnVURKZ0V5RTFScVUtTElSUlp3VU1xZE45UWY3ZmV6cnFmeEVFSE4yMEZ5UVFmVEFwczBtRzdoS3dyUGszV2V3anJEOTBOQ3l0bS16aU0zeU8tYUdwSzRBenlEZmVVT2oxNjZCU21mbkRzN1JIakN4UnoxRlpJWjVCNA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Lübnan Cumhurbaşkanı Aoun, Beyaz Saray'da Trump ile görüşeceği; İsrail üzerinde baskı oluşturmayı hedeflediği bildirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-19T08:01:10.523993+00:00",
+  "type": "news",
+  "cluster_id": "c0af6e4099dfa"
+ },
+ {
+  "title": "Ünlü analistten dev şirketi suçladı: Tüm dünyanın ekonomisi bir anda çökebilir",
+  "link": "https://www.sozcu.com.tr/unlu-analistten-dev-rapor-tum-dunyanin-ekonomisi-boyle-cokebilir-p337738",
+  "source": "Sözcü",
+  "summary_tr": "Analist, yapay zeka sektöründeki dev yatırımların küresel ekonomide ani bir çöküşe yol açabileceği uyarısında bulundu.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-19T08:01:10.523993+00:00",
+  "type": "news",
+  "cluster_id": "ca8a90e5d816c"
+ },
+ {
+  "title": "Başbakan cumhurbaşkanının fişini çekti: Felaket fermanını elleriyle imzaladı",
+  "link": "https://www.sozcu.com.tr/basbakan-cumhurbaskaninin-fisini-cekti-felaket-fermanini-elleriyle-imzaladi-p337735",
+  "source": "Sözcü",
+  "summary_tr": "Macaristan'da yeni Başbakan Peter Magyar, 16 yıllık Viktor Orban iktidarını sona erdirdi; anayasa değişikliği ile Cumhurbaşkanı'nın yetkilerini sınırlandırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-19T08:01:10.523993+00:00",
+  "type": "news",
+  "cluster_id": "c090cda35ab49"
+ },
+ {
+  "title": "Su ürünleri ve hayvansal mamulleri ihracatı ilk yarıda 1,9 milyar doları aştı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/su-urunleri-ve-hayvansal-mamulleri-ihracati-ilk-yarida-1-9-milyar-dolari-asti/4002661",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye'nin su ürünleri ve hayvansal mamuller ihracatı 2026 ilk yarısında 1,904 milyar dolara ulaştı.",
+  "metric": "Su ürünleri ve hayvansal mamuller ihracatı 1,904 milyar dolar",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-19T08:01:10.523993+00:00",
+  "type": "news",
+  "cluster_id": "cfa8e09e845e7"
+ },
+ {
+  "title": "China's Jingye Steel urges UK to compensate its investment losses",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc2RqYlFpN2JQRTF1eV9zWnJEWHQxeThpU1Uya2VLVEVqRUFDSUljajMzRTNodE1NWUhlVjdqc3hsMjNqZUVEZF9BSHFpNThWLXAtODZFeXgzdVotSFFla3B4RHo5OTlieHFldkdNaExoVE15WjAwYVZ4QkhtLTlFeXVrVGxHTUdxQjlvOE4zS2I4TC1YVUdoRkhXM1doMW9feEZuUmdMVHJheTFERVE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin'in Jingye Steel şirketi, İngiltere'den yatırım kayıplarının telafi edilmesini talep etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-19T08:01:10.523993+00:00",
+  "type": "news",
+  "cluster_id": "c12a75c54371e"
+ },
+ {
   "title": "ABD ordusu, İran'a yönelik başlattığı son saldırı dalgasını tamamladığını duyurdu",
   "link": "https://www.trthaber.com/haber/dunya/abd-ordusu-irana-yonelik-baslattigi-son-saldiri-dalgasini-tamamladigini-duyurdu-951592.html",
   "source": "TRT Haber",
@@ -58068,115 +58200,5 @@
   "score": 9,
   "ts": "2026-06-06T04:00:48.042189+00:00",
   "cluster_id": "cd4e68b488b70"
- },
- {
-  "title": "US attacks Iranian sites after Iran launches drones, in latest Gulf flare-up",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ1o1RDBJVGVQai1scDRmSmlnaWxVZlZBaDZyZUswRHNMY0c1N25BM053RXdmWGV5aGJkalg3V0lpUnpVOEFpUWY5YTBCY0syV1dmejdaUVlJVXZkc0tNVTQ2RmlTVWlEUVlDYkZEYl9yQVZ1QWtLVzZYNl9RRTBzaENsNlBVMWJCYjJLd0ZtdGlpUTljLVBhV0JlVDFJRWJwdm9YQjhIZ3BqdHdua2Z6TFMzS0xXbHhuZTFuNC0yWDhHaUlWSFo2MQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, İran'ın drone saldırısı sonrası İranlı hedefleri vurdu; Körfez bölgesinde gerilim yükselmesi devam ediyor.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-06T04:00:48.042189+00:00",
-  "cluster_id": "ce3b0a0b60fba"
- },
- {
-  "title": "Şimşek hikayesi duvara çarptı",
-  "link": "https://www.sozcu.com.tr/simsek-hikayesi-duvara-carpti-p325617",
-  "source": "Sözcü",
-  "summary_tr": "Mayıs enflasyonu %32,6 seviyesinde; Şimşek'in 3 yıllık 'geçici' söylemi sonuçsuz kaldı.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-06-06T03:00:54.531020+00:00",
-  "cluster_id": "c624a41a2feac"
- },
- {
-  "title": "ABD, Hürmüz Boğazı'nda 4 İran İHA'sını vurdu",
-  "link": "https://www.trthaber.com/haber/dunya/abd-hurmuz-bogazinda-4-iran-ihasini-vurdu-947343.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD, Hürmüz Boğazı'nda İran'a ait 4 insansız hava aracını vurdu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-06T03:00:54.531020+00:00",
-  "cluster_id": "c3418c9696cd9"
- },
- {
-  "title": "Batı’nın  Çin’le Yön Değiştiren Teknoloji  Transferinin Adı Var : “Reverse  Deng”",
-  "link": "https://yetkinreport.com/2026/06/05/batinin-cinle-tersine-donen-teknoloji-iliskisinin-adi-var-reverse-deng/",
-  "source": "YetkinReport",
-  "summary_tr": "Batı'nın Çin'le teknoloji transferi 'Reverse Deng' olarak adlandırılıyor; Avrupa endüstrisi büyük baskı altında.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T03:00:54.531020+00:00",
-  "cluster_id": "c8a8600dbb361"
- },
- {
-  "title": "Asgari ücretli 4 bin Emekli 2.849 lira kaybetti",
-  "link": "https://www.sozcu.com.tr/asgari-ucretli-4-bin-emekli-2-849-lira-kaybetti-p325618",
-  "source": "Sözcü",
-  "summary_tr": "Asgari ücretin alım gücü 5 ayda 3.999 liraya düştü; emekli aylıkları da eriyiş gösteriyor.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-06T03:00:54.531020+00:00",
-  "cluster_id": "c514bf71c0849"
- },
- {
-  "title": "Butlandan açılım kurtarma telaşı",
-  "link": "https://www.sozcu.com.tr/butlandan-acilim-kurtarma-telasi-p325616",
-  "source": "Sözcü",
-  "summary_tr": "HDP'li Sakık, Erdoğan'a barış süreci için çağrı yaptı; sabotaj riski uyarısında bulundu.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-06T03:00:54.531020+00:00",
-  "cluster_id": "cfa3e1280a386"
- },
- {
-  "title": "Palestinian baby killed by Israeli gunfire in occupied West Bank, health ministry says",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMWxYVWpjUC1mQkpudGNfVWdWSjRCQVVfSGs2Q0s0UFpfUWRkWkM2bnl2enltdEl0bjJ6TXR3eVh4MEZaNFVCdTY1TU9JdmtVRnFVUExLdEtfWHNPU2ZxNEIxQ3daV09xel8xU3BfSzVqelBXZk43M1Nnb1lvcFQyMFluVVdSQXRTUVUtQjhOdXBvZjRSVWowWDhneW51ekpoa0JtRWhsQnZNQ3Vmb2FhTlU4MVI0MXYwOS1xc2NPZF95RmpOZ0tlZUlUSQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İsrail güçleri Batı Şeria'da bir Filistinli bebeği öldürdü.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T03:00:54.531020+00:00",
-  "cluster_id": "c016e1e5ee7fc"
- },
- {
-  "title": "US says it will speed development and use of AI for national security",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPME5TUTRobTZNTTZ5LTVzM2JRZDBuQl85YjRGV2RTMXZKZXBiMWFBVk1oZERpWm1TWkVnR0NLRjRqZDdaZWVIZ2JpR20yQm9LRElJZTJtT0YweWxCT0pLQXVLRTZYV1dVOFFfd05OeENfVm14NG1PbVNyckFhSU0xN1VMcmFnWGl6QnZTZWRwNjEwbWF3VjBnWHZtcnN0d3Rvd0g2TTA2QlI?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, ulusal güvenlik için yapay zeka geliştirme ve kullanımını hızlandıracağını duyurdu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T03:00:54.531020+00:00",
-  "cluster_id": "c7475d5c0a986"
- },
- {
-  "title": "Kamu kurumları göz göre göre batıyor",
-  "link": "https://www.sozcu.com.tr/kamu-kurumlari-goz-gore-gore-batiyor-p325620",
-  "source": "Sözcü",
-  "summary_tr": "Ekonomik kriz ve liyakatsiz atamalar kamu iktisadi teşebbüslerini zayıflatıyor.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-06T03:00:54.531020+00:00",
-  "cluster_id": "cf0067ff06485"
- },
- {
-  "title": "Yağdı yağmur bu bahaneyi buldu memur",
-  "link": "https://www.sozcu.com.tr/yagdi-yagmur-bu-bahaneyi-buldu-memur-p325619",
-  "source": "Sözcü",
-  "summary_tr": "TMO'nun buğday alım fiyatlaması üreticileri olumsuz etkilemeye devam ediyor.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-06T03:00:54.531020+00:00",
-  "cluster_id": "ce23fa5acff8b"
- },
- {
-  "title": "US strikes Iran radar sites after Iranian drone launch",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONE1OaV8yX29rUGpfRjJCbElUcy0tM01SWVZES003OTE3ZVhpaDFJRVBmXzh5ZEY2OEthOHNJU2oyTlBSeU9na0owaEFveC0tZFRWdXc3WjF4VTVfN3dBdFdfcVVzV0tqT1BsRjZyQTlmelBhcDBiWlNhb3NsaDl4OHduY2FVRWxveGlCV21QQ3JldWpQOXlHTW9Xa1p3VHM4cUVqZkVUR09halph?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, İran'ın Hürmüz Boğazı'na yönelik İHA saldırısı sonrasında İran radar tesislerini vurdu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-06T02:00:54.128750+00:00",
-  "cluster_id": "cfd35c44a3349"
  }
 ]
