@@ -1,5 +1,29 @@
 [
  {
+  "title": "Barınma krizinde bugün: Kira borcu nedeniyle çocuklarıyla evden atıldı, eşyalarına el konuldu",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/barinma-krizinde-bugun-kira-borcu-nedeniyle-cocuklariyla-evden-atildi-esyalarina-el-konuldu-2522074",
+  "source": "Cumhuriyet",
+  "summary_tr": "Bursa'da kira borcu nedeniyle 2 çocuk annesi Nigar Yıldız evinden atıldı. Barınma krizinin somut örneği.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-19T11:01:05.757750+00:00",
+  "type": "news",
+  "cluster_id": "c5cb987c7161a"
+ },
+ {
+  "title": "Elinde olanlar dikkat: 5 banka, dolar/TL'nin kaderini çizdi",
+  "link": "https://www.sozcu.com.tr/elinde-olanlar-dikkat-5-banka-dolar-tl-nin-kaderini-cizdi-p337796",
+  "source": "Sözcü",
+  "summary_tr": "5 uluslararası yatırım bankası dolar/TL'ye ilişkin beklentilerini açıkladı. JPMorgan ve diğer kurumların kur senaryoları açıklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-19T11:01:05.757750+00:00",
+  "type": "news",
+  "cluster_id": "c47356a50af8a"
+ },
+ {
   "title": "Türk siyasetinde dönüm noktası olacak tarih: 21-22 Temmuz",
   "link": "https://www.sozcu.com.tr/turk-siyasetinde-donum-noktasi-olacak-tarih-21-22-temmuz-p337779",
   "source": "Sözcü",
@@ -58216,25 +58240,5 @@
   "score": 6,
   "ts": "2026-06-06T09:00:56.928134+00:00",
   "cluster_id": "cdcceaaa82db8"
- },
- {
-  "title": "İş insanının kadınları hedef alan sözlerine soruşturma açıldı",
-  "link": "https://www.trthaber.com/haber/gundem/is-insaninin-kadinlari-hedef-alan-sozlerine-sorusturma-acildi-947371.html",
-  "source": "TRT Haber",
-  "summary_tr": "İzmir Cumhuriyet Başsavcılığı, bir iş insanının hastane açılışındaki kadınları hedef alan sözlerine ilişkin resen soruşturma başlattı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-06T09:00:56.928134+00:00",
-  "cluster_id": "c75a1eeccf250"
- },
- {
-  "title": "İş insanı Rahmi Koç hakkında soruşturma",
-  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ubVA0aUVsOXM3SjhfamEyVE5oVW1ZaExFWXNrS09oVGotMTktWlBiOWlHQmVYQjhHdFFyS3dVb1A2MHRvdXJfNmdERVZ4X2ZlUTJPRk9uMGxxX2w2LWRRS3V4YkwxWElaMko3WUd4LTR3V3Q3c2U2ZmRFdFZrdw?oc=5",
-  "source": "T24",
-  "summary_tr": "İş insanı Rahmi Koç hakkında soruşturma açıldı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-06T09:00:56.928134+00:00",
-  "cluster_id": "c9ec72c62d389"
  }
 ]
