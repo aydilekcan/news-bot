@@ -1,5 +1,29 @@
 [
  {
+  "title": "Ukrainian drones hit warehouses and other sites across Russia, killing 9 and wounding over 80",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQldSVzRUSldGOFFxMWdpb2FFdm9oZURyN1VNakRvcVpBVlA1QmJJT0E0RUJPOVYxRTc5NEkwZEk1b1Q1dGlIWGRFd1RxMEcyUWlXMngzYTJmQTVVd0tESmJJN2doOHFwYVlzcnpYaF93MUtseFR1dmpzQVRHdld0bnY5WHljRkdWWTdUUEVFbTBZeVZZUmlZ?oc=5",
+  "source": "AP",
+  "summary_tr": "Ukrayna'nın İnsansız hava araçları Rusya'daki depoları vurdu; 9 ölü, 80'den fazla yaralı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-19T04:01:02.085453+00:00",
+  "type": "news",
+  "cluster_id": "c1e5016645b63"
+ },
+ {
+  "title": "KDC'de isyancıların düzenlediği saldırılarda 114 sivil öldü",
+  "link": "https://www.trthaber.com/haber/dunya/kdcde-isyancilarin-duzenledigi-saldirilarda-114-sivil-oldu-951579.html",
+  "source": "TRT Haber",
+  "summary_tr": "Kongo doğusunda M23 isyancı grubunun Haziran saldırılarında 114 sivil öldü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-19T04:01:02.085453+00:00",
+  "type": "news",
+  "cluster_id": "cbcfcfa08f702"
+ },
+ {
   "title": "Emekli aylığı 3 günde bitiyor",
   "link": "https://www.sozcu.com.tr/emekli-ayligi-3-gunde-bitiyor-p337687",
   "source": "Sözcü",
@@ -58134,25 +58158,5 @@
   "score": 6,
   "ts": "2026-06-05T23:00:52.424059+00:00",
   "cluster_id": "c78ecb3e0ceba"
- },
- {
-  "title": "Zelenski: Putin savaşı bitirmek istemiyor",
-  "link": "https://www.trthaber.com/haber/dunya/zelenski-putin-savasi-bitirmek-istemiyor-947330.html",
-  "source": "TRT Haber",
-  "summary_tr": "Ukrayna Devlet Başkanı Zelenski, Putin'in savaşı bitirmek istemediğini söyledi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-05T22:00:57.664827+00:00",
-  "cluster_id": "c515790e5aa77"
- },
- {
-  "title": "ABD Başkanı Trump: \"İran'dan çok kısa sürede ayrılacağız\"",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/abd-baskani-trump-iran-dan-cok-kisa-surede-ayrilacagiz-2509773",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Başkanı Trump, İran'la müzakerelerin yakında bitceğini söyledi. Anlaşma veya seçenek olmak üzere süreci sonlandıracağını belirtti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-05T22:00:57.664827+00:00",
-  "cluster_id": "c003cdff15f9c"
  }
 ]
