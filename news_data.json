@@ -1,5 +1,65 @@
 [
  {
+  "title": "Son Dakika... Bakan Gürlek'ten Muhsin Yazıcıoğlu soruşturmasına ilişkin açıklama!",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-bakan-gurlek-ten-muhsin-yazicioglu-sorusturmasina-iliskin-aciklama-2522116",
+  "source": "Cumhuriyet",
+  "summary_tr": "Adalet Bakanı Gürlek, Muhsin Yazıcıoğlu helikopter kazası soruşturmasında 29 şüpheli hakkında işlem başlatıldığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-19T13:01:07.035618+00:00",
+  "type": "news",
+  "cluster_id": "c2eb01fc6852d"
+ },
+ {
+  "title": "Trump, Rusya'ya yaptırımları içeren yasa tasarısına İran'ın dahil edilmesi çağrısı yaptı",
+  "link": "https://www.aa.com.tr/tr/dunya/trump-rusyaya-yaptirimlari-iceren-yasa-tasarisina-iranin-dahil-edilmesi-cagrisi-yapti/4002907",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, Rusya'ya yaptırımları içeren yasa tasarısına İran'ın da eklenmesi çağrısı yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-19T13:01:07.035618+00:00",
+  "type": "news",
+  "cluster_id": "caf5016b074d1"
+ },
+ {
+  "title": "Caspian Pipeline Consortium oil loadings suspended after drone attacks on tankers, CPC says",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQjFsc1o5b28zLW5TaGc1eWFHWmJfLUpxOGZnOGRRV1BYNm9SYWlKZU9qN3ozSG42cmRBU2p1MHJQN1JvbEpyd1JOc2pCMmNqY0pUbWJMdDhyQVRUYzFSNjBQakhXRl83VkhoX0VuSm1PeDRVRlhIRENBWG9CLW52MVBxQWhaTnllMllDUXZuQmwzTnRhYU5hMmxMSXI1bWlkeGp3dHFweFRGRi1fTjk1UXotT3k0NGdKM2VEc2FIanNuelIzaTF0QWRB?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Caspian Pipeline Consortium, drone saldırıları nedeniyle petrol yükleme operasyonlarını askıya aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-19T13:01:07.035618+00:00",
+  "type": "news",
+  "cluster_id": "cbcdbd7060feb"
+ },
+ {
+  "title": "Üç büyük anketin sonucu birden açıklandı: Yeni Parti ve CHP'nin oy oranları belli oldu",
+  "link": "https://www.sozcu.com.tr/uc-buyuk-anketin-sonucu-birden-aciklandi-yeni-parti-ve-chp-nin-oy-oranlari-belli-oldu-p337814",
+  "source": "Sözcü",
+  "summary_tr": "Üç anketin sonucu açıklandı; CHP Genel Başkanlığına Kılıçdaroğlu'nun getirilmesinin ardından anket oranları belli oldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-19T13:01:07.035618+00:00",
+  "type": "news",
+  "cluster_id": "c7782c182d5df"
+ },
+ {
+  "title": "MHP Genel Başkanı Bahçeli: Türk askerinin Ada'daki mevcudiyeti Kıbrıs Türkü'nün güvenliğinin yegane sigortasıdır",
+  "link": "https://www.aa.com.tr/tr/gundem/mhp-genel-baskani-bahceli-turk-askerinin-adadaki-mevcudiyeti-kibris-turkunun-guvenliginin-yegane-sigortasidir/4002897",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "MHP Genel Başkanı Bahçeli, Türk askerinin Kıbrıs'taki mevcudiyetinin Kıbrıs Türkü'nün güvenliğinin garantisi olduğunu belirtti.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-19T13:01:07.035618+00:00",
+  "type": "news",
+  "cluster_id": "c25b2e060c110"
+ },
+ {
   "title": "ABD-İran hattında nükleer gerilim: Darhovin Nükleer Santrali hedef alındı",
   "link": "https://www.cumhuriyet.com.tr/dunya/abd-iran-hattinda-nukleer-gerilim-darhovin-nukleer-santrali-hedef-alindi-2522088",
   "source": "Cumhuriyet",
@@ -58196,55 +58256,5 @@
   "score": 6,
   "ts": "2026-06-06T10:01:06.204402+00:00",
   "cluster_id": "cb4824d2f1757"
- },
- {
-  "title": "Şimdiye kadar ne dediyse çıktı: Emekli ve memur maaş zammı için rakam verdi",
-  "link": "https://www.sozcu.com.tr/simdiye-kadar-ne-dediyse-cikti-emekli-ve-memur-maas-zammi-icin-rakam-verdi-p325705",
-  "source": "Sözcü",
-  "summary_tr": "SGK Uzmanı Özgür Erdursun, memur ve emekli maaş zammı için rakam verdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-06T10:01:06.204402+00:00",
-  "cluster_id": "ce418a44068d3"
- },
- {
-  "title": "Türk karavan sektörü AR-GE yatırımlarıyla küresel rekabet gücünü artırıyor",
-  "link": "https://www.aa.com.tr/tr/ekonomi/turk-karavan-sektoru-ar-ge-yatirimlariyla-kuresel-rekabet-gucunu-artiriyor/3958293",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türk karavan sektörü AR-GE yatırımları ve teknolojik gelişimle küresel rekabet gücünü artırıyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-06T10:01:06.204402+00:00",
-  "cluster_id": "c6616ba24d2cb"
- },
- {
-  "title": "IŞİD'e 39 ilde operasyon: 361 şüpheli yakalandı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/isid-e-39-ilde-operasyon-361-supheli-yakalandi-2509831",
-  "source": "Cumhuriyet",
-  "summary_tr": "İçişleri Bakanlığı, son 20 günde 39 ilde IŞİD'e yönelik operasyonlarda 361 şüpheliyi yakaladığını açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T09:00:56.928134+00:00",
-  "cluster_id": "c4aaa62e79a93"
- },
- {
-  "title": "Axios: Witkoff ile Kushner, İran müzakerelerine hazırlık için nükleer uzmanlarıyla bir araya geldi",
-  "link": "https://www.trthaber.com/haber/dunya/axios-witkoff-ile-kushner-iran-muzakerelerine-hazirlik-icin-nukleer-uzmanlariyla-bir-araya-geldi-947369.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD Başkanı Trump'ın Orta Doğu temsilcisi Witkoff ve damadı Kushner, İran'la olası nükleer müzakereler için hazırlık yapıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T09:00:56.928134+00:00",
-  "cluster_id": "c91af1cba326d"
- },
- {
-  "title": "39 ilde DEAŞ operasyonu: 361 gözaltı",
-  "link": "https://www.trthaber.com/haber/gundem/39-ilde-deas-operasyonu-361-gozalti-947368.html",
-  "source": "TRT Haber",
-  "summary_tr": "İçişleri Bakanlığı, 39 ilde DEAŞ'a yönelik operasyonlarda 361 şüpheliyi yakaladığını açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T09:00:56.928134+00:00",
-  "cluster_id": "c0e7e3428c490"
  }
 ]
