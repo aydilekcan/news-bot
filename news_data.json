@@ -1,5 +1,29 @@
 [
  {
+  "title": "İhale yine iktidara yakın şirkete",
+  "link": "https://www.sozcu.com.tr/ihale-yine-iktidara-yakin-sirkete-p337683",
+  "source": "Sözcü",
+  "summary_tr": "AKP'li Kocaeli Büyükşehir Belediyesi, 510 milyon liralık 120 yataklı sağlık tesisi ihalesini iktidara yakın şirkete verdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-19T01:01:03.649192+00:00",
+  "type": "news",
+  "cluster_id": "c8449a6039523"
+ },
+ {
+  "title": "US lets Hong Kong emergency declaration lapse, lifting some sanctions as Trump order stays",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNampFOXhtR1UzaFhtSDZYUW04LVpsYXBRcktvYmdFVHBtcm9FWDJWTzVxQlNnaGdHeDFEd1pWdW9QX0FoX01kVGRCYjR5dThBZXF3dWdCZllZUnMwbU5NSW9VQUN6d1VScGJQWC1TaUlVQ3J2Z3g0T0h6al9walYzTnliUXBZbVpRd0RZand4c0VMT250SVhlVFBEQ28wUQ?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD, Hong Kong acil durum ilan etmesini sona erdirerek kısmen yaptırımları kaldırdı; Trump kararı yürürlükte kalıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-19T01:01:03.649192+00:00",
+  "type": "news",
+  "cluster_id": "c00c302a0ddc1"
+ },
+ {
   "title": "Savaştaki İran bile Türkiye’den daha ucuz",
   "link": "https://www.sozcu.com.tr/savastaki-iran-bile-turkiye-den-daha-ucuz-p337682",
   "source": "Sözcü",
@@ -58120,25 +58144,5 @@
   "score": 6,
   "ts": "2026-06-05T22:00:57.664827+00:00",
   "cluster_id": "c781f509e6ef1"
- },
- {
-  "title": "Marvell to join S&P 500 after AI boom helps chipmaker pass profitability test",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVFJMMHVDWFE3aVRBNDBIUEpjSkFmeGp1MWh4NnhnNDIxd2gwSzRnQ3g0NzllQ3BEdDhPdlJraWtqa3NoRVpMNElqQ1Q3V3lmYzV1bm0tU1F4VlFrRFI2Y3NUYWoxanBmLUhsSG1NRXlGb2hLOTI3Wnc3MXY3Z3VGQnU5VzIwalljTTNCcG1oV1AzRzh2bXRpdDNOU192VnF2c2ctZlREYmpqWndoMmRFS255QXNvUUhKTGc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Yapay zeka patlamasının ardından kârlılık testini geçen Marvell, S&P 500'e katılıyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-05T22:00:57.664827+00:00",
-  "cluster_id": "c0288e6c871d9"
- },
- {
-  "title": "Karadeniz’de Türk bayraklı balıkçı teknesine İHA saldırısı: 1 balıkçı yaşamını yitirdi",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaV9kMjdSallWaGdoV2hhX3gtbEFPTGhTeldHQVp6VUZGZkE2MFhWVTFRaVlFdEhIYi1NNXFFQ1pRNXZUSE9VN1dBZ0tCcV9RSmZXS0RBUXZjYzRPUlRUVW8tU0twN0FPNG42NjdXc1pWSjM1WDdkQWNLbklsY0lRd0ZRbFF0WGxTSGNqQ0FXdjFPYWxnMkFqV2J5Xy1WNExCYVplTkhpR2tBcndZWUZ0VTBzUm90SXR0RmRaX1ZHbw?oc=5",
-  "source": "soL",
-  "summary_tr": "Karadeniz'de Türk bayraklı balıkçı teknesine İHA saldırısında 1 balıkçı yaşamını yitirdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-05T21:01:05.727769+00:00",
-  "cluster_id": "c35e00de17f03"
  }
 ]
