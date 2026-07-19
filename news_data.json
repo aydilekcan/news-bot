@@ -1,5 +1,41 @@
 [
  {
+  "title": "ABD-İran hattında nükleer gerilim: Darhovin Nükleer Santrali hedef alındı",
+  "link": "https://www.cumhuriyet.com.tr/dunya/abd-iran-hattinda-nukleer-gerilim-darhovin-nukleer-santrali-hedef-alindi-2522088",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran, ABD'nin Huzistan eyaletindeki Darhovin Nükleer Santrali'ni hedef aldığını açıkladı; bölgede nükleer gerilim tırmanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-19T12:01:01.666818+00:00",
+  "type": "news",
+  "cluster_id": "c6e3b3c65590e"
+ },
+ {
+  "title": "Kılıçdaroğlu'nun davetine katılmayan herkes görevden alınacak",
+  "link": "https://www.sozcu.com.tr/kilicdaroglu-nun-davetine-katilmayan-herkes-gorevden-alinacak-p337807",
+  "source": "Sözcü",
+  "summary_tr": "CHP Genel Başkanı Kemal Kılıçdaroğlu, Temmuz sonunda yapılacak İl Başkanları Toplantısı'na katılmayan herkesi görevden almakla tehdit etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-19T12:01:01.666818+00:00",
+  "type": "news",
+  "cluster_id": "cbe62a6efe401"
+ },
+ {
+  "title": "Nakit ödemelerde kimlik göstermek zorunlu olacak",
+  "link": "https://www.sozcu.com.tr/nakit-odemelerde-kimlik-gostermek-zorunlu-olacak-p337800",
+  "source": "Sözcü",
+  "summary_tr": "AB, kayıt dışılıkla mücadele için nakit ödemelerde kimlik zorunluluğu getirdi; kural 2027'de yürürlüğe girecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-19T12:01:01.666818+00:00",
+  "type": "news",
+  "cluster_id": "c7b2f4cd83b76"
+ },
+ {
   "title": "Barınma krizinde bugün: Kira borcu nedeniyle çocuklarıyla evden atıldı, eşyalarına el konuldu",
   "link": "https://www.cumhuriyet.com.tr/turkiye/barinma-krizinde-bugun-kira-borcu-nedeniyle-cocuklariyla-evden-atildi-esyalarina-el-konuldu-2522074",
   "source": "Cumhuriyet",
@@ -58210,35 +58246,5 @@
   "score": 7,
   "ts": "2026-06-06T09:00:56.928134+00:00",
   "cluster_id": "c0e7e3428c490"
- },
- {
-  "title": "'Kürt kadın fıkrası' tepki çekti, soruşturma başlatıldı: Rahmi Koç özür diledi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/kurt-kadin-fikrasi-tepki-cekti-sorusturma-baslatildi-rahmi-koc-ozur-diledi-2509830",
-  "source": "Cumhuriyet",
-  "summary_tr": "İş insanı Rahmi Koç, Amerikan Hastanesi açılışında yaptığı 'Kürt kadın fıkrası' nedeniyle soruşturmayla karşı karşıya kaldı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-06T09:00:56.928134+00:00",
-  "cluster_id": "cdcceaaa82db8"
- },
- {
-  "title": "Son dakika... 'Kürt kadın' fıkrası tepki çekmişti: Rahmi Koç hakkında soruşturma başlatıldı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-kurt-kadin-fikrasi-tepki-cekmisti-rahmi-koc-hakkinda-sorusturma-baslatildi-2509827",
-  "source": "Cumhuriyet",
-  "summary_tr": "İş insanı Rahmi Koç, Amerikan Hastanesi açılışında yaptığı 'Kürt kadın fıkrası' nedeniyle soruşturmayla karşı karşıya kaldı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-06T09:00:56.928134+00:00",
-  "cluster_id": "cdcceaaa82db8"
- },
- {
-  "title": "'Kürt kadın' fıkrası tepki çekmişti: Rahmi Koç hakkında soruşturma başlatıldı",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRVd3Tl8ySWUwNFhpbG94SXNwQzZhMjVPRTJZVkZoTnQwMlhOR3hSTXRCX3NBUEJ2enVaQXBIUzV4WWx4elFNVHJfUEEwaUlGNGlBN3p0cHUxUG9SS3R4X3MxWDhXX0h3VFl2Wkg1cDdNeUtYVm5UTzBHQUxJX2V4N0NjY01NSng4ZjQ1UUpaR0hvVGVkdGs0SVllVlBDSG9xbHZtSGszQ0UyQW80X25fYWR3?oc=5",
-  "source": "soL",
-  "summary_tr": "Rahmi Koç'un yaptığı 'Kürt kadın' fıkrası nedeniyle soruşturma başlatıldı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-06T09:00:56.928134+00:00",
-  "cluster_id": "cdcceaaa82db8"
  }
 ]
