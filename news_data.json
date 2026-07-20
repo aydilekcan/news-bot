@@ -1,5 +1,65 @@
 [
  {
+  "title": "Trump 'talimatını' duyurdu: 'İran, her Amerikan askerini öldürdüğünde...'",
+  "link": "https://www.cumhuriyet.com.tr/dunya/trump-talimatini-duyurdu-iran-her-amerikan-askerini-oldurdugunde-2522440",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD Başkanı Trump, İran'ın saldırılarına karşı misilleme tehdidi yineleyerek, İran'ın her Amerikan askerini öldürdüğünde bunun bedelini misliyle ödeyeceğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-20T18:01:11.367248+00:00",
+  "type": "news",
+  "cluster_id": "ccb226a5f145d"
+ },
+ {
+  "title": "Trump, İran'ı tehdit etti; Netanyahu'ya güvence verdi",
+  "link": "https://www.sozcu.com.tr/donald-trump-iran-aciklamasi-20-temmuz-2026-p338203",
+  "source": "Sözcü",
+  "summary_tr": "ABD Başkanı Trump, İran'ı tehdit ederek her Amerikan askerinin öldürülmesi durumunda misil tehdidinde bulundu; Netanyahu'ya güvence verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-20T18:01:11.367248+00:00",
+  "type": "news",
+  "cluster_id": "c7a5c5928ff76"
+ },
+ {
+  "title": "Emekli maaş farkları ne zaman yatacak? İşte gün gün ödeme takvimi",
+  "link": "https://www.sozcu.com.tr/emekli-maas-farklari-ne-zaman-yatacak-iste-gun-gun-odeme-takvimi-p338206",
+  "source": "Sözcü",
+  "summary_tr": "Emekli maaşlarında Temmuz 2026 zammının ardından fark ödemeleri başlayacak; SSK, Bağ-Kur ve Emekli Sandığı ödeme takvimi açıklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-20T18:01:11.367248+00:00",
+  "type": "news",
+  "cluster_id": "cbf9474e40e5b"
+ },
+ {
+  "title": "ABD'de ortalama benzin fiyatı, Orta Doğu'daki gerilimle yeniden 4 dolara çıktı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abdde-ortalama-benzin-fiyati-orta-dogudaki-gerilimle-yeniden-4-dolara-cikti/4004008",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD'de benzin fiyatı Orta Doğu gerilimi ve petrol dalgalanmalarıyla galon başına 4 dolara yükseldi.",
+  "metric": "Benzin fiyatı (ABD ortalama) galon başına 4 dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-20T18:01:11.367248+00:00",
+  "type": "news",
+  "cluster_id": "c3d82ed5d8e68"
+ },
+ {
+  "title": "Ortega says Nicaragua will no longer hold elections",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYXJ3V1RkU0g0cGlJZVQ3d2szc184eVBWc21KR29wb05CNDZmX0dIaGpQNU9UU1BWV3JHcW4wZmNOa0p5d1FrOFJaRGxvcDNQcUI0ejRGRUxsbVNPd1dORGdyYmRLd2JMQl9oa09FZEEyLUFMTm5IMldneDNDOEM1cmJEYjVTSVBaLWVIR2l2ZkRYV2RJNGpETkFINk8xZVhHWnFsQQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Nikaragua Lideri Daniel Ortega, ülkede artık seçim yapılmayacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-20T18:01:11.367248+00:00",
+  "type": "news",
+  "cluster_id": "c082c288e5500"
+ },
+ {
   "title": "İran devlet televizyonu: ABD ordusu, İranın Merkezi eyaletinde bir sanayi birimine saldırı düzenledi",
   "link": "https://www.trthaber.com/haber/dunya/iran-devlet-televizyonu-abd-ordusu-iranin-merkezi-eyaletinde-bir-sanayi-birimine-saldiri-duzenledi-951720.html",
   "source": "TRT Haber",
@@ -58370,55 +58430,5 @@
   "score": 6,
   "ts": "2026-06-07T06:00:53.777117+00:00",
   "cluster_id": "c0c0b5cf55a4b"
- },
- {
-  "title": "North Korea calls the US push for its denuclearization ‘anachronistic dream’",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU3dnbWlwOFEwWWZvaWJtUUZaVXI4SlhnNUxrSXJyeG00X3Y4X1Q2R0xIc05ReWVzUEFxczNlcWtIeEppa2M3LTlPbjJLX0J4aGpuOFBYc1o4bXAwYV9scl9mV2x3a0hrdGpEVm9qS0ZkaVRWRnpsN3FrUThJNmh2a3ZRdkdKNUd3UDVkWjlUUFRjUUJja0RyWlQtcXczazdZ?oc=5",
-  "source": "AP",
-  "summary_tr": "Kuzey Kore, ABD'nin silahsızlandırma çabalarını 'zamanı geçmiş rüya' olarak nitelendirti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-07T05:00:54.756762+00:00",
-  "cluster_id": "cfc5b16d7bca0"
- },
- {
-  "title": "Türkiye'de üretilen ıslak mendil markası apar topar toplatılıyor",
-  "link": "https://www.sozcu.com.tr/turkiye-de-uretilen-islak-mendil-markasi-apar-topar-toplatiliyor-p325841",
-  "source": "Sözcü",
-  "summary_tr": "ABD'nin Target zinciri, Türkiye'de üretilen bebek ıslak mendillerini zararlı bakteri tespiti nedeniyle toplatıyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-07T05:00:54.756762+00:00",
-  "cluster_id": "cafb979d2212d"
- },
- {
-  "title": "Yurt içinde piyasaların gözü faiz kararında",
-  "link": "https://www.trthaber.com/haber/ekonomi/yurt-icinde-piyasalarin-gozu-faiz-kararinda-947412.html",
-  "source": "TRT Haber",
-  "summary_tr": "TCMB Para Politikası Kurulu perşembe günü 2024'ün dördüncü faiz kararını verecek; piyasalar bu karara odaklanıyor.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-07T03:00:52.208646+00:00",
-  "cluster_id": "cd98c6a47ab3b"
- },
- {
-  "title": "1.2 trilyon lira faize gitti",
-  "link": "https://www.sozcu.com.tr/1-2-trilyon-lira-faize-gitti-p325831",
-  "source": "Sözcü",
-  "summary_tr": "Hazine'nin faiz ödemeleri 2026'nı aşacak; 1.2 trilyon lira faize aktarıldı.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-06-07T03:00:52.208646+00:00",
-  "cluster_id": "cba14dd165e0c"
- },
- {
-  "title": "Emekliler, seyyanen zammı AYM’ye taşıdı",
-  "link": "https://www.sozcu.com.tr/emekliler-seyyanen-zammi-aym-ye-tasidi-p325833",
-  "source": "Sözcü",
-  "summary_tr": "Emekliler, Anayasa Mahkemesi'ne başvurarak verilmeyen 8 bin 77 liralık seyyanen zammı talep etti.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-07T03:00:52.208646+00:00",
-  "cluster_id": "c749ee29f9f08"
  }
 ]
