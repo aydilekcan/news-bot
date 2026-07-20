@@ -1,5 +1,101 @@
 [
  {
+  "title": "Yemen'deki Husiler, Suudi Arabistan'a karşı \"deniz ablukası uygulamaya başladıklarını\" duyurdu",
+  "link": "https://www.aa.com.tr/tr/dunya/yemendeki-husiler-suudi-arabistana-karsi-deniz-ablukasi-uygulamaya-basladiklarini-duyurdu/4003708",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Yemen'deki İran destekli Husiler, Suudi Arabistan'a karşı deniz ablukası uygulamaya başladıklarını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-20T13:01:04.681554+00:00",
+  "type": "news",
+  "cluster_id": "c43b789cfe4b3"
+ },
+ {
+  "title": "İran Meclis Başkanı: ABDliler bölgeye yeni askeri teçhizatlar getirmeye devam ediyor",
+  "link": "https://www.trthaber.com/haber/dunya/iran-meclis-baskani-abdliler-bolgeye-yeni-askeri-techizatlar-getirmeye-devam-ediyor-951698.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Meclis Başkanı Kalibaf, ABD'nin bölgeye yeni askeri teçhizatlar sevk etmeye devam ettiğini ve bunun savaş sonlandırma çabalarını baltaladığını söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-20T13:01:04.681554+00:00",
+  "type": "news",
+  "cluster_id": "cee69f57f390a"
+ },
+ {
+  "title": "Yemen's Houthis say they will impose naval blockade against Saudi Arabia",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUowRTU0M2hEUzRtdXAxY1FENjh0OWdXcEJlb2h4VlpBOVdGM2YzZ1BQSVhLMFQwOXhRN01aQ1poMVd5TTNRUHBZbV9jNWZRaGFaejU2ckpkNW5HUlZSdlJXWU5GNTlFU0NFUU9DYkJ1LXVFNHZBanlSemdrb3M1Vm80azBhNlRmTGRWbjQ2dEtkQVNfbTVNMUVReDIwYXB6aDNjN0pReHQ5S1BBUFl1NUc4Z1VyVHB4MWNnQ09JZw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Yemen'deki Husiler, Suudi Arabistan'a karşı deniz ablukası uygulamaya başladıklarını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-20T13:01:04.681554+00:00",
+  "type": "news",
+  "cluster_id": "ca138921d98aa"
+ },
+ {
+  "title": "Mediators propose 10-day ceasefire to revive Iran-U.S. interim deal, senior Iranian official tells Reuters",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSE4zQ25lM2VIMGM1RkYteUt5YW1tMXNWanVyRV9jX1NzUHlFU213Ry1BaTVzZ0xoc2ZzZ01IVmR2eW1BWTNMT04tci1Ual9WeDN6b1VJbjNKeFBHUlFVZi1zOEZNZ3NfckhfMkRSSjJuSU5KOGxpUG54WFdPT19YNUxCTzlrSVlXWmZZTmNZTHBpSEtVd0Zya2VqOUZpbjFMUlFiU1FJdl9MN0V0VWd0d1JnYkhhUnRoLWdFZ0ZpNDhmSW5yeVVlXy04NA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Aracılar, İran-ABD arasındaki geçici anlaşmayı yeniden canlandırmak için 10 günlük bir ateşkes önergesini masaya koydular.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-20T13:01:04.681554+00:00",
+  "type": "news",
+  "cluster_id": "c7fb1680b521a"
+ },
+ {
+  "title": "Hamas names Khalil Al-Hayya as new leader, statement says",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOHJqTDlBbG5vM09JMm5YLUVPLW5CbHFpbDhWREhJQk41NW1iMWhxMURadktJVklMWEMxVld1WmhzUDlNQkoxQmVQTHdibnhkbTVzODNhb3BCNkV3Y3NCSTZtZ0pOOV9nV2J1Nnl4ajFqOHhiZ2pJY3JqbUdhU0dJdWRZWklaRkV5U3FKa1EySU5jbUxDa0gyM0VsNkZ5Sk5QZ2dHR0VGRjhNc0E?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Hamas, Khalil Al-Hayya'yı yeni lideri olarak atadığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-20T13:01:04.681554+00:00",
+  "type": "news",
+  "cluster_id": "c8e585f00def3"
+ },
+ {
+  "title": "Türkiye'nin doğal gaz ithalatı mayısta arttı",
+  "link": "https://www.sozcu.com.tr/turkiye-nin-dogal-gaz-ithalati-mayista-artti-p338139",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye'nin doğal gaz ithalatı mayısta geçen yılın aynı ayına göre %2,95 artarak 3 milyar 644 milyon metreküpe ulaştı.",
+  "metric": "Doğal gaz ithalatı May 2025 -> May 2026 (+%2,95)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-20T13:01:04.681554+00:00",
+  "type": "news",
+  "cluster_id": "cd01c59b9fbbd"
+ },
+ {
+  "title": "Türkiye'nin doğal gaz ithalatı mayısta yüzde 2,95 arttı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-dogal-gaz-ithalati-mayista-yuzde-2-95-artti/4003730",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye'nin doğal gaz ithalatı mayısta bir önceki yılın aynı ayına kıyasla %2,95 artarak 3 milyar 644 milyon metreküp oldu.",
+  "metric": "Doğal gaz ithalatı May 2025 -> May 2026 (+%2,95)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-20T13:01:04.681554+00:00",
+  "type": "news",
+  "cluster_id": "cd01c59b9fbbd"
+ },
+ {
+  "title": "Türkiye'nin petrol ithalatı mayısta yüzde 2,97 arttı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-petrol-ithalati-mayista-yuzde-2-97-artti/4003728",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye'nin petrol ve petrol ürünleri ithalatı mayısta geçen yılın aynı ayına göre %2,97 artarak 4 milyon 85 bin 229 ton oldu.",
+  "metric": "Petrol ithalatı May 2025 -> May 2026 (+%2,97)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-20T13:01:04.681554+00:00",
+  "type": "news",
+  "cluster_id": "cd01c59b9fbbd"
+ },
+ {
   "title": "Petrol fırladı: Akaryakıta bir zam daha geliyor!",
   "link": "https://www.sozcu.com.tr/petrol-firladi-akaryakita-bir-zam-daha-geliyor-p337954",
   "source": "Sözcü",
@@ -58270,85 +58366,5 @@
   "score": 7,
   "ts": "2026-06-06T16:00:57.852933+00:00",
   "cluster_id": "c55f7a3e3ce4a"
- },
- {
-  "title": "İran'dan ABD'ye saldırı sonrası kınama",
-  "link": "https://www.sozcu.com.tr/iran-dan-abd-ye-saldiri-sonrasi-kinama-p325785",
-  "source": "Sözcü",
-  "summary_tr": "İran Dışişleri Bakanlığı, ABD'nin sahil gözetleme ve radar tesislerine düzenlediği saldırıyı kınadı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-06T16:00:57.852933+00:00",
-  "cluster_id": "c55f7a3e3ce4a"
- },
- {
-  "title": "İran-ABD vize krizi: Futbolculara evet, yöneticilere ret",
-  "link": "https://www.dw.com/tr/iran-abd-vize-krizi-futbolculara-evet-yöneticilere-ret/a-77445695?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "ABD, Dünya Kupası öncesi İran futbolcularına vize verdi ancak yöneticilere ret kararı aldı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T15:00:57.310833+00:00",
-  "cluster_id": "c9b84ed4310bf"
- },
- {
-  "title": "Armenia arrests six candidates for pro-Russian opposition day before vote",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLTE2bnktN2dfXzlnVnBYelExVjhuMC12WHl5NjFNMkdYRjdJVlkwODRNMEVlMnh2cFBlTFRQb1ZlNEVRT0pJaUs3NEJPXzl6anNVUE1fTlp5Zko0NXpUTGVONzRIM3RKN1RXVFg3czJXVzB6d0hjX1JPeFZ2TlhSZzlmQndrdGRveXNZTThSdkhySDQ3S3dsNElULVpxcFd0UWJfcjE1RzVVb2ZVSFlDSw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ermenistan, seçim öncesi Gün'de pro-Rusya muhalefet adaylarından altı kişiyi gözaltına aldı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T15:00:57.310833+00:00",
-  "cluster_id": "c8d234954e9e8"
- },
- {
-  "title": "Trump faces new Republican resistance in Congress as midterm pressures build",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMnBFZ3BMV3l4RlFnSE1xaDQyTkFLbDRkQ0JDMEg2OUJPd2xXWUxZNkV5c2xaU2dMYzRwZV9oekhkM3VheWFBZTZ3SUl4VWVJcTBrRi1YRkxILXdxQ0tkTi1NdWQ5ZDYteXhaUVNlMzVSNWNUTVRUVUl4b1NUS3NqeFBnM0ItaGh5VnZIZjFxektUZFNfd2hoTlNEYnEzUUlycE42cHdDUFNKdjFuMDRfVmVSZzhoZExVQUlic2dhN0Y?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, ara seçim baskıları altında Kongre'de Cumhuriyet partisi direnciyle karşı karşıya.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T15:00:57.310833+00:00",
-  "cluster_id": "c7690129ff284"
- },
- {
-  "title": "'Silah bırakma' eleştirisi, 'FETÖ' ve CHP grup toplantısı: Meclis Başkanı Kurtulmuş'tan kritik açıklamalar",
-  "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOV9sZW5YTElRNmtLazJYekd2SzRsZGdwdnRSQjJPbFNPVUl0b1FWSmhLcVBWWUxCSEFiNGMyaGw1VUtNMUdnRlFLbmZNSnB3cnM2TG9WRUlEUHRkT3dkSjVTR0VhWjd2bEJ4SGVUeHRJWDFnSHRRbVNUbmx4WmR2dEJ1LW9VZVN3U1lGUG8tRHl0RmEtZnB4NzQwNzI5Q3JuQlYtLWRpSkZYYzlmRVM4eDVxTXlHYm80MTg2OUczTXo1UzZBUm51bzgtSHI5SV8zcE5NQXZBWTRGcjhPWVNpbWxLdEx0V3JNcW0xNk82LTFRMTA?oc=5",
-  "source": "T24",
-  "summary_tr": "Meclis Başkanı Kurtulmuş, silah bırakma eleştirisi, FETÖ ve CHP grup toplantısı konularında kritik açıklamalar yaptı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-06T15:00:57.310833+00:00",
-  "cluster_id": "c9499467d35ae"
- },
- {
-  "title": "Ekibi ilan etti: 'Kılıçdaroğlu Meclis'te grup toplantısı yapacak'",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVXZTUTBMaktZTl90ZEJYYml2cEVORlpkX3RJV18walE5aEFiNGFwOWNRYWJVRmpLMjUwSnhzeUxsNDczTENHR3huaVMtMHZvUXg1TVZYUm5XenVLRW9ULVRrbmJJNy02aEp0OWhiNFNmdW9qTXJMenB3TnJ1eWU3V1l4eV9KUHBtd3F5aE5VNFFOa3JjcUFtV096RDRPNlN4?oc=5",
-  "source": "soL",
-  "summary_tr": "Kılıçdaroğlu'nun ekibi, onun Meclis'te grup toplantısı yapacağını ilan etti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-06T15:00:57.310833+00:00",
-  "cluster_id": "ccd89cd64b7d1"
- },
- {
-  "title": "China urges fund managers to support innovation, warns against concept hype",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN2VVRFp1QS14eTNTeElwd0NGTjRNa0xySDd5NjFlV2xadmhvWXc3SzRaS1FRU2dCRHNiczNGLUtYb3V2UEJQN2N2RlF3Z21hR3NGRzVCbDJseExrSnE3eDhXRGJUYUdOX2hHdGNnTDVPaHBtYXFCQkZiSTBKRzRBR05sZC1LM1ZRdXAzdmxlcmJqMENoZ3k1NkdIcERQemNoZHRuc0hUQnBfYUNYSnNUalljeEVKemdBZ0NXZ3Vycm5KZw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Çin, fon yöneticilerine inovasyonu desteklemelerini çağırdı ve kavram abartılarına karşı uyarıda bulundu.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-06T15:00:57.310833+00:00",
-  "cluster_id": "cc632a73629d9"
- },
- {
-  "title": "China can build humanoids at scale. The hard part is finding enough buyers",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWnh1UXF4c2t5RGRoZ0ZEX0JsUlVFTFl1ajVHUXBvcEl1c1N4TXBOanhRQXhkX21hdWlxalRSOGh6cW8xVEV0LXdvbWY0aF9jTUpBMGZuV0drbmp2Z0E4SGF3dGZOcm9kZkx0TmluaDc3T0ZKMVRnSzYtTzhEQVY2cmY2ZnptWUtwX3JvQXNkYkwxbmNqblE?oc=5",
-  "source": "AP",
-  "summary_tr": "Çin ölçekte insansı robot üretebiliyor ancak yeterli alıcı bulma ana zorluk.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-06T15:00:57.310833+00:00",
-  "cluster_id": "c8d2cd923f774"
  }
 ]
