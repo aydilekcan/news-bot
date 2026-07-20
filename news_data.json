@@ -1,5 +1,89 @@
 [
  {
+  "title": "İran bu defa da Ürdün'e saldırdı",
+  "link": "https://www.sozcu.com.tr/iran-bu-defa-da-urdun-e-saldirdi-p338218",
+  "source": "Sözcü",
+  "summary_tr": "Ürdün Ordusu İran tarafından gönderilen 3 füzeyi düşürdüğünü bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-20T19:01:05.665602+00:00",
+  "type": "news",
+  "cluster_id": "cc2d3414ba56c"
+ },
+ {
+  "title": "Ukraine's Zelenskiy meets commanders as street protests mount",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcDVzdmxJOV9IMFQ1QmVxa2JjM1FVWnVmU0ZaU1hLOERCamplcEplYkhsZHNUTk5NY2RpMjhIV0RCUjZ2LV9VSUNYZ1pkbDVYZVMzc1NHcUJFZDZkWUowcGpiV18wYlR2Y1o5a1FGZEk3eVZSanVfR0FLc3dxSldmQUZHSmg2N2ljb2VSQXctUVFkaFFEaU9DT3JtcXlndkRj?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Zelenskiy komutanlarla görüşüyor; sokak protestoları artıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-20T19:01:05.665602+00:00",
+  "type": "news",
+  "cluster_id": "c6258d12b24d6"
+ },
+ {
+  "title": "Yemen’s Iranian-backed Houthis say they will block Saudi shipping at Red Sea gateway",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeUxVTTdGN3I2VHpkcGVLZFAzeXZlSjh3TmVGaXpPVjlsdG5iMEtmR1hscHVmbnlNQjBVYUVoTFI1c2Q2VS15SDVfSTVPb3FjM1FFMVREY0NKdk1hQ2Y2SGhkN3hvN2p2NHk1MTd0RU1HbDJvM3ZDTGhvQmpBNzBLQ1hpNk1mNjhpQmNxUmMtMnJ1Vk45N25lN3NBUQ?oc=5",
+  "source": "AP",
+  "summary_tr": "Yemen'in İran destekli Husiler, Kızıldeniz'de Suudi gümrük geçidinde gemi trafiğini engelleyeceklerini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-20T19:01:05.665602+00:00",
+  "type": "news",
+  "cluster_id": "c1b2c35187ba5"
+ },
+ {
+  "title": "Warner Bros'un 110 milyar dolarlık satışına mahkeme engeli",
+  "link": "https://www.sozcu.com.tr/warner-bros-un-110-milyar-dolarlik-satisina-mahkeme-engeli-p338215",
+  "source": "Sözcü",
+  "summary_tr": "ABD federal yargıcı Paramount Skydance'in Warner Bros. Discovery'yi 110 milyar dolara satın alma anlaşmasını engelledi.",
+  "metric": "Warner Bros satış değeri ~110 milyar dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-20T19:01:05.665602+00:00",
+  "type": "news",
+  "cluster_id": "c399961048316"
+ },
+ {
+  "title": "Numan Kurtulmuş ‘çerçeve yasa’ turlarına başlıyor: Kılıçdaroğlu ile görüşecek",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnhEeVUxZWN0XzlzMFd4MjZ3c3Q0WGlPMG03M052TmlwU2o4ekRSZFpnSlA4VzFidWdPX0lHREc5bnFDRll2VnlQX3B5R094Ymh2dS1TbWZYaUdnbXhQRDNFT1h2b3NWaG03ekNPSkZudUJDWVV4T0tMMV9fNnhSUmp2YmxiQUtBakNPTHR0UFF3ZzBxWEkzTmEtYXF1S3FDNzZvUWZaREtoZUQ1WFczUHpB?oc=5",
+  "source": "soL",
+  "summary_tr": "Numan Kurtulmuş 'çerçeve yasa' turlarına başlayarak Kemal Kılıçdaroğlu ile görüşecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-20T19:01:05.665602+00:00",
+  "type": "news",
+  "cluster_id": "c3dd897e644e2"
+ },
+ {
+  "title": "Paramount Skydance ordered to pause Warner Bros acquisition through August 3",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa1FaMy1UbHJsTGt0b2hvMjdMSTJseExFVXljU0Q2QXphMzVRZ0h2SFAzRHdXdjBNNGF2enFHZUc5eGRHUzhDS3hKTlc4WWtqYzA2b1U3eGV2RlNpYXZsME1xUEViRnZISklTS3NRXzVRQlJEMWE5aHlGTnFCMFhXeXJ2UlgwWURISGRkdFE5bzgtMDRfUnlnUXRicDhTYUVjSGhwTEpLNWluZw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Paramount Skydance, Warner Bros. satın alma işlemini Ağustos 3'e kadar durdurmasına mahkeme tarafından karar verildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-20T19:01:05.665602+00:00",
+  "type": "news",
+  "cluster_id": "ccb5ec907ada7"
+ },
+ {
+  "title": "Serbest bölge ihracatı (6 aylık): 6,6 milyar $ (6 ay (tarihi dönem))",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ3FOU0l3RkhfdHVoZGZiRU1JT1J2bGlzTkc2S2EwRUhiVFNORW1feklWcmpxVVk2RjJZeTFtNXF1R1B2Y1BUNkpibHAyZXpEMXlzWGZmS19qNC1sSC1BY1NfN2lHM0RsSVMzdkNsSjdEUDJCSU0wOGZwVG5PMWFOR2gxRGFUNUFmclU0eEoySnByMkl3WkJsVlgxTFYySE9zYUxJSFMwTTR0UFg4bWE3cHFVX3FCcndjOVE5bXRseG83MkVqQS1OY2FkcWVmQkHSAdIBQVVfeXFMTTBraXc1aUJRNWJVV0FLYks4UkwxSXlQVkcxUkVkeDBOZE56LThoLXdlLThodEFOcS12Vm02U2FGTXF1QTdGY1lEU3F5RHlvS2dqWUY4Y3BQRVZBNnBNdWptRmwxWGJZNnc3UzlsSUcxUGxYckJwVnhOX3BOeHFrVzY3VkkySU5WLUJfOC16WjdDaU1LN0Zfc3psQmZ6SXBlZ1lQQ3huTC1NVGRrUVBEejIwQjN3SGNwa2RqZ0ZsUTN3aUllSFhKcWNUVzhGWURmX0N3?oc=5",
+  "source": "Ticaret Bakanlığı",
+  "summary_tr": "6,6 milyar $",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-20T19:01:05.665602+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Trump 'talimatını' duyurdu: 'İran, her Amerikan askerini öldürdüğünde...'",
   "link": "https://www.cumhuriyet.com.tr/dunya/trump-talimatini-duyurdu-iran-her-amerikan-askerini-oldurdugunde-2522440",
   "source": "Cumhuriyet",
@@ -58360,75 +58444,5 @@
   "score": 8,
   "ts": "2026-06-07T07:00:57.366883+00:00",
   "cluster_id": "c17b2dc6920a0"
- },
- {
-  "title": "Ermenistan'da seçim günü: Paşinyan iktidarda kalabilecek mi?",
-  "link": "https://www.dw.com/tr/ermenistan-da-seçim-günü-paşinyan-iktidarda-kalabilecek-mi/a-77409816?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Ermenistan'da seçim günü; Başbakan Paşinyan'ın Batı yakınlaşma politikası sınanıyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-07T07:00:57.366883+00:00",
-  "cluster_id": "c64f6846d836c"
- },
- {
-  "title": "Kosova'da düzenlenen erken genel seçimlerde oy kullanma işlemi başladı",
-  "link": "https://www.aa.com.tr/tr/dunya/kosovada-duzenlenen-erken-genel-secimlerde-oy-kullanma-islemi-basladi/3958853",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Kosova'da erken genel seçimlerde oy kullanma işlemi başladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-07T07:00:57.366883+00:00",
-  "cluster_id": "c3ddfecbcc09d"
- },
- {
-  "title": "ABD ile Çin rekabetinin gölgesindeki Peru'da 2. tur devlet başkanı seçimi için sandık başına gidiliyor",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-ile-cin-rekabetinin-golgesindeki-peruda-2-tur-devlet-baskani-secimi-icin-sandik-basina-gidiliyor/3958842",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Peru'da 2. tur devlet başkanı seçimi; ABD-Çin rekabetinin merkezinde.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-07T07:00:57.366883+00:00",
-  "cluster_id": "c4751ff2aa216"
- },
- {
-  "title": "Halka arz sayesinde dünyanın ilk trilyoneri olacak",
-  "link": "https://www.sozcu.com.tr/halka-arz-sayesinde-dunyanin-ilk-trilyoneri-olacak-p325862",
-  "source": "Sözcü",
-  "summary_tr": "SpaceX halka arz olursa Elon Musk dünyanın ilk trilyoneri olabilir.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-07T07:00:57.366883+00:00",
-  "cluster_id": "c8598659eb343"
- },
- {
-  "title": "Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZkg2TTloZGVNcDV1NVAwX2luNms1UXIwcG1MNkpod2NDT1VMS0lzTzNVeWp3a3dWTjFUWkhPWDRuR0piT1RVMVhrWDVKVkNJYTJlLWxXMVBONkx5OFdoR2FEMkwxNzhuLURNS3RJaG9vVUlwaEE1d2cxMmY0LWdIeHBJQzNDN0d4QXhFSVQ1ODdHOUZMUDhtd1p2WGVhaWo3VTdlMjhCcFVoTGo5R0hoeHdOX0tTQQ?oc=5",
-  "source": "AP",
-  "summary_tr": "İsrail ateşkesten sonra Lübnan'a hava saldırısı düzenleyerek 9 kişiyi öldürdü; Lübnan ordusu subayları da arasında yer aldı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-07T06:00:53.777117+00:00",
-  "cluster_id": "ccec1356ace0d"
- },
- {
-  "title": "Sadece altın değil gümüş de çöktü! Piyasaları sarsan gizli güç ne?",
-  "link": "https://www.sozcu.com.tr/sadece-altin-degil-gumus-de-coktu-piyasalari-sarsan-gizli-guc-ne-p325860",
-  "source": "Sözcü",
-  "summary_tr": "ABD tarım dışı istihdam beklentileri aştı; Fed faizleri yüksek tutacağı beklentisiyle altın ve gümüş fiyatları düştü.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-07T06:00:53.777117+00:00",
-  "cluster_id": "c068ff24c6373"
- },
- {
-  "title": "Üç şehirde oy verme işlemi başladı: 27 parti yarışıyor",
-  "link": "https://www.sozcu.com.tr/uc-sehirde-oy-verme-islemi-basladi-27-parti-yarisiyor-p325850",
-  "source": "Sözcü",
-  "summary_tr": "Tokat, Gümüşhane ve Nevşehir'deki yerel seçimlerde 27 parti yarışıyor; çeşitli bölgelerde 362 muhtar seçimi yapılıyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-07T06:00:53.777117+00:00",
-  "cluster_id": "c0c0b5cf55a4b"
  }
 ]
