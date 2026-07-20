@@ -1,5 +1,101 @@
 [
  {
+  "title": "ABD, İran'a yeni saldırılar başlattı: Trump'tan misilleme uyarısı",
+  "link": "https://www.bbc.com/turkce/articles/c935gy0rd2vo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD, İran'a yönelik yeni hava saldırıları başlattı; Trump misilleme uyarısında bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-20T22:01:04.312760+00:00",
+  "type": "news",
+  "cluster_id": "cec01e7cb16b4"
+ },
+ {
+  "title": "ABD, İran'a karşı \"yeni bir saldırı dalgası\" başlattığını açıkladı",
+  "link": "https://www.sozcu.com.tr/abd-iran-a-karsi-yeni-bir-saldiri-dalgasi-baslattigini-acikladi-p338238",
+  "source": "Sözcü",
+  "summary_tr": "ABD CENTCOM, Trump'ın talimatıyla İran'a yönelik yeni bir saldırı dalgası başlattığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-20T22:01:04.312760+00:00",
+  "type": "news",
+  "cluster_id": "cacb77f8acea0"
+ },
+ {
+  "title": "ABD basını yazdı: 'İran'ın bu ay düzenlediği saldırılarda yaklaşık 100 ABD askeri yaralandı'",
+  "link": "https://www.cumhuriyet.com.tr/dunya/abd-basini-yazdi-iran-in-bu-ay-duzenledigi-saldirilarda-yaklasik-100-abd-askeri-yaralandi-2522486",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD basınına göre, İran'ın bu ay gerçekleştirdiği saldırılarda yaklaşık 100 ABD askeri yaralandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-20T22:01:04.312760+00:00",
+  "type": "news",
+  "cluster_id": "c60d5866a8004"
+ },
+ {
+  "title": "İran'ın bu ay düzenlediği saldırılarda yaklaşık 100 ABD askerinin yaralandığı iddiası",
+  "link": "https://www.trthaber.com/haber/dunya/iranin-bu-ay-duzenledigi-saldirilarda-yaklasik-100-abd-askerinin-yaralandigi-iddiasi-951734.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD ordusunun Orta Doğu üslerine İran saldırılarında yaklaşık 100 Amerikan askeri yaralandığı iddia ediliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-20T22:01:04.312760+00:00",
+  "type": "news",
+  "cluster_id": "c60d5866a8004"
+ },
+ {
+  "title": "Özgür Özel'den 'çağrı heyeti' mesajı... İsim önerdi: '40 gün içinde bu kurultayın yapılmasını istiyoruz'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-den-cagri-heyeti-mesaji-isim-onerdi-40-gun-icinde-bu-kurultayin-yapilmasini-istiyoruz-2522479",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Genel Başkanı Özgür Özel, 40 gün içinde kurultay yapılmasını talep etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-20T22:01:04.312760+00:00",
+  "type": "news",
+  "cluster_id": "c1b111d720286"
+ },
+ {
+  "title": "US imposes new 50% tariffs on some Canadian products",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWJmZE81SUhjQV9Kc0hseUFwMGlDNml3alZscUFqSjljaUh5LTZRSEFjQXo4Y3JHSTdyNkVqLXFjOGZTQWoxUGY1LVRqQVFtSGx3aWhGWmhxR25LNDU5Nm5SQWFELWRER1dfeXNsdWV5Z05RMWRtTEF2em15T25JYm51SHdCRXNWNDd6YUdhY3dTdw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, Kanadalı ürünlerin bazılarına %50 tarife uygulamaya başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-20T22:01:04.312760+00:00",
+  "type": "news",
+  "cluster_id": "c1bfc682fc61e"
+ },
+ {
+  "title": "US gas prices back up to an average of $4 a gallon again as the US and Iran launch attacks",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdnQwZTRwYkFHa216RUhGUDBkaUVQQW8xeWk2S180OFo0ZUExYXJPcnZGUW5DQ21QSEpJRlQ1M05tcDNYZ2Z1MXRsNGRSbFFXREw1RWFUZGVhNnEtMnFBRlVsOGNvMk9Pd0NFM0hKRlkwWVhXNDRYY0U5bXd2QkZheTRfOUtLYi1kWXlvb3BsellRQQ?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD benzin fiyatları ortalama $4/galona yükseldi; ABD-İran çatışması fiyatları etkiledi.",
+  "metric": "ABD benzin fiyatı $4/galona",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-20T22:01:04.312760+00:00",
+  "type": "news",
+  "cluster_id": "c48d21c9d2b22"
+ },
+ {
+  "title": "Trump orders tightening of defense supply-chain waiver rules",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUlVaOGl2dl9fREtQNGRodl9wRjMyVG9zQ00xV0pySEtzSXlEWXpoN3BWQUpidHQwUHFSY3ZEazhKYzIwdk9zM1JHWXRRSk03WmEyQ21PV0lHUnFidVNuSXBSdE8yQmY1a1FrdEN6eUpBRjFaVjZudHJfU3V3N281aVlsSEctVFVhMmV0MlR1dFhRMFgyTUlfYklEVF9RY1RYYVhhRlN2UXhDcm1uYkJZ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, savunma tedarik zinciri muafiyet kurallarını sıkılaştırma emri verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-20T22:01:04.312760+00:00",
+  "type": "news",
+  "cluster_id": "c9d87c6e6f305"
+ },
+ {
   "title": "Dünya Kupası finali sonrası arbede yaşanmıştı: FIFA'dan soruşturma kararı!",
   "link": "https://www.cumhuriyet.com.tr/dunya-kupasi/dunya-kupasi-finali-sonrasi-arbede-yasanmisti-fifa-dan-sorusturma-karari-2522468",
   "source": "Cumhuriyet",
@@ -58378,85 +58474,5 @@
   "score": 7,
   "ts": "2026-06-07T09:01:04.193420+00:00",
   "cluster_id": "c81bdf7206501"
- },
- {
-  "title": "Israeli military says it intercepted two projectiles that crossed from Lebanon",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRWM3a2NBbFRYb3ZxLUNNb3kwYVRtckcyZjVValRobHBhYjJ2TUZUWkFqbHNmUjI5VjROeVlSR0RmcjRkMGJoc2htWjlGWmFtcnhNSUtyOG5WRk1fbjNPZ1NEV0VuaVNDYUw4Tk1oSWJyendTbWdUOHc0V0Z2a0JiUjdiRHNBMTRFclBzNzhaODI3ak9QZGFNMnY5bzEzQTB2WXZ5eUNLZmNPMzJ6bjk0UVZLSjVsLUhkSHRUOE56czIwUTVDeVE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İsrail ordusu Lübnan'dan geçen iki füzeyi abakus ile karşıladığını duyurdu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-07T09:01:04.193420+00:00",
-  "cluster_id": "c4adc011a0ef6"
- },
- {
-  "title": "100 ülkeye ihracat yapan Türk alüminyum devi iflas etti",
-  "link": "https://www.sozcu.com.tr/100-ulkeye-ihracat-yapan-turk-aluminyum-devi-iflas-etti-p325906",
-  "source": "Sözcü",
-  "summary_tr": "100 ülkeye ihracat yapan alüminyum şirketi Patrop Group iflas etti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-07T09:01:04.193420+00:00",
-  "cluster_id": "c1e4ea6844413"
- },
- {
-  "title": "Petrol çıkarmak için iki il seçildi: Bölgeler işaretlendi, arsa sahipleri yaşadı",
-  "link": "https://www.sozcu.com.tr/petrol-cikarmak-icin-iki-il-secildi-bolgeler-isaretlendi-arsa-sahipleri-yasadi-p325900",
-  "source": "Sözcü",
-  "summary_tr": "TPAO, Edirne ve Kırklareli'de petrol araması için kamu sahalarını işaretledi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-07T09:01:04.193420+00:00",
-  "cluster_id": "cc3b38b3d159d"
- },
- {
-  "title": "Çin'in döviz rezervleri mayısta yükseldi",
-  "link": "https://www.sozcu.com.tr/cin-in-doviz-rezervleri-mayista-yukseldi-p325896",
-  "source": "Sözcü",
-  "summary_tr": "Çin'in döviz rezervleri mayısta 3 trilyon 442 milyar dolara yükseldi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-07T09:01:04.193420+00:00",
-  "cluster_id": "c80f90d82e115"
- },
- {
-  "title": "Kritik mineral talebindeki artış derin deniz madenciliğini yeniden tartışmaların odağına yerleştirdi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/kritik-mineral-talebindeki-artis-derin-deniz-madenciligini-yeniden-tartismalarin-odagina-yerlestirdi/3958901",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Kritik mineral talebindeki artış derin deniz madenciliğini yeniden gündeme getirdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-07T09:01:04.193420+00:00",
-  "cluster_id": "cd83bac1712e3"
- },
- {
-  "title": "Stratejik rezervlerde ne kadar petrol kaldı?",
-  "link": "https://www.dw.com/tr/stratejik-rezervlerde-ne-kadar-petrol-kaldı/a-77397567?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "İran savaşı nedeniyle ülkeler stratejik petrol rezervlerini devreye aldı; küresel enerji stokları azalıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-07T08:01:00.112960+00:00",
-  "cluster_id": "cff9407266990"
- },
- {
-  "title": "Piyasalar tepetaklak oldu: Bitcoin çakıldı!",
-  "link": "https://www.sozcu.com.tr/piyasalar-tepetaklak-oldu-bitcoin-cakildi-p325882",
-  "source": "Sözcü",
-  "summary_tr": "Bitcoin Ekim 2024'ten bu yana ilk kez 59 bin doların altına düştü; haftalık kaybı %18'e ulaştı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-07T08:01:00.112960+00:00",
-  "cluster_id": "ceda958c28628"
- },
- {
-  "title": "With China's Xi in North Korea, Kim to project confidence, defiance",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMGZqUnhSNFBwVl9yTk1La2t0a2g0SzNranpqS0F2c1BJQ3NHRHJoaXVfMEQ2aGVaMVRWTXV0c2FiNFZsaEtNbGg4LTQzM2pSYk85Q3NnUktzekt4OXNfeWZ2LUFmVUdSTHpXNTZpOWZwWFVrT3poZWQ1UTJONHNieHhLUVM3QURwSlB2cDhxY0JTTEYzUXlrZ1daYnlfS2NXWktZTGJ2RU4zUQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Çin lideri Xi Jinping Kuzey Kore'de; Kim Jong Un güç ve direniş göstermeye hazırlanıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-07T08:01:00.112960+00:00",
-  "cluster_id": "ca21e054254f8"
  }
 ]
