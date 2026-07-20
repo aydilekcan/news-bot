@@ -1,5 +1,137 @@
 [
  {
+  "title": "Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSnM5TW1ZWS1VbC1iWXBVbmRfOVd2UENvWllLeTlpMGJ1NzByRkQ1a291WDNxaXJIb1NZUkhqdWJFOG5xcXFkYmpwaHFDdGdVVXFzc3V1a1MzaDdqeWVIaDVIQmZoYTdnSlRVdU80X1N2RHlmTFpoaEpzNmhsR2ZWVEhUaEZyUDYyZkZLNWx3THRxYkI5Zy1TZ21ZSkVzMnNlN2MzbnE4QQ?oc=5",
+  "source": "AP",
+  "summary_tr": "Ukrayna, Moskova'ya 400 dron göndererek saldırı gerçekleştirdi; Zelenskyy protestolarla mücadele ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-20T15:01:15.212027+00:00",
+  "type": "news",
+  "cluster_id": "c8928418ef821"
+ },
+ {
+  "title": "İngiltere'de yeni Başbakanı Andy Burnham oldu",
+  "link": "https://www.sozcu.com.tr/ingiltere-de-yeni-basbakani-andy-burnham-oldu-p338178",
+  "source": "Sözcü",
+  "summary_tr": "Andy Burnham, İngiltere İşçi Partisi liderliğine seçilerek ülkenin yeni başbakanı oldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-20T15:01:15.212027+00:00",
+  "type": "news",
+  "cluster_id": "c20cb69b69365"
+ },
+ {
+  "title": "İsrail ordusu, Gazze Şeridi'nde yürürlükte olan ateşkese \"taş\" koyuyor",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-gazze-seridinde-yururlukte-olan-ateskese-tas-koyuyor/4003869",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusu Gazze'deki ateşkese karşı 'Sarı Hat' bölgesine beton blok yerleştirerek pozisyon alıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-20T15:01:15.212027+00:00",
+  "type": "news",
+  "cluster_id": "ca35a602f2cd6"
+ },
+ {
+  "title": "İsrail'in yılın ilk yarısında gazetecileri hedef alan 467 ihlalinde 8 Filistinli gazeteci hayatını kaybetti",
+  "link": "https://www.aa.com.tr/tr/dunya/israilin-yilin-ilk-yarisinda-gazetecileri-hedef-alan-467-ihlalinde-8-filistinli-gazeteci-hayatini-kaybetti/4003855",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail, yılın ilk 6 ayında gazetecileri hedef alan 467 ihlalde 8 Filistinli gazeteci ölümüne neden oldu.",
+  "metric": "Filistinli gazeteci ölümleri: 8 kişi (yılın ilk yarısı)",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-20T15:01:15.212027+00:00",
+  "type": "news",
+  "cluster_id": "c350a49bef2cd"
+ },
+ {
+  "title": "Katil İsrail'in yılın ilk yarısında gazetecileri hedef alan 467 ihlalinde 8 Filistinli gazeteci hayatını kaybetti",
+  "link": "https://www.trthaber.com/haber/dunya/katil-israilin-yilin-ilk-yarisinda-gazetecileri-hedef-alan-467-ihlalinde-8-filistinli-gazeteci-hayatini-kaybetti-951712.html",
+  "source": "TRT Haber",
+  "summary_tr": "İsrail, yılın ilk 6 ayında gazetecileri hedef alan 467 ihlalde 8 Filistinli gazeteci ölümüne neden oldu.",
+  "metric": "Filistinli gazeteci ölümleri: 8 kişi (yılın ilk yarısı)",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-20T15:01:15.212027+00:00",
+  "type": "news",
+  "cluster_id": "c350a49bef2cd"
+ },
+ {
+  "title": "Gözler kritik kararda: Yargıtay'ın 'mutlak butlan' dosyasını ertelediği iddiası",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jWFhjWnNhU3M3dzNlSHNJM2pvTnBtVzBvNHV1d214X210WEF2Qm55ZDc1TEV5MFo1VFFvRW9oMFNORGlUU21PX1Q3S19MQVA0cXMwaWlYSnVMRjNPZWtaOEZUVWFtOGNLSXlKbXltM2t2RFJl?oc=5",
+  "source": "T24",
+  "summary_tr": "Yargıtay'ın 'mutlak butlan' dosyasını ertelediği iddia edildi; kamuoyu kritik kararın sonucunu bekliyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-20T15:01:15.212027+00:00",
+  "type": "news",
+  "cluster_id": "cc3e2026e4d70"
+ },
+ {
+  "title": "Andy Burnham becomes the UK’s seventh prime minister in a decade after Starmer resigns",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmpFTnBJcVJSbTdmSFR6SXIyOU9saWNFLWJ5QW1uS2QzanBfU3hyREhOdHJGTGI2VTlqeHJXTXA5NjZ5OEJyQ0k0bmliV0lsMTZfQXZWOGpmR244SUFCX3hRMjFFVFlCNV9feWNBMXd1NDFMRE9ZNkZrTTVMcWZZT3h4RHFxZzlZc3B6UlZsLUdndGdUUW93Rk1MdGY5MlJYamc2ZWdvaE4?oc=5",
+  "source": "AP",
+  "summary_tr": "Andy Burnham İngiltere başbakanı oldu; Starmer'ın istifasından sonra Birleşik Krallık'ın on yılda yedinci başbakanı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-20T15:01:15.212027+00:00",
+  "type": "news",
+  "cluster_id": "cb79a13b717ea"
+ },
+ {
+  "title": "Danıştay'dan Kartalkaya kararı: Çalışma Bakanlığına ikinci uyarı",
+  "link": "https://www.dw.com/tr/danıştay-dan-kartalkaya-kararı-çalışma-bakanlığına-ikinci-uyarı/a-78039045?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Danıştay, Kartalkaya otel yangınında Çalışma Bakanlığı'na ikinci uyarı yaptı; tüm sorumlular tespit edilmesini istedi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-20T15:01:15.212027+00:00",
+  "type": "news",
+  "cluster_id": "cc20e09f532ca"
+ },
+ {
+  "title": "Bakan Uraloğlu: Doğu Akdeniz Gemi Trafik Hizmetleri Projesi ile 'mavi vatan'ımızda çıkarlarımız korunacak",
+  "link": "https://www.aa.com.tr/tr/gundem/bakan-uraloglu-dogu-akdeniz-gemi-trafik-hizmetleri-projesi-ile-mavi-vatanimizda-cikarlarimiz-korunacak/4003824",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ulaştırma Bakanı Uraloğlu, Doğu Akdeniz Gemi Trafik Hizmetleri Projesi ile Türkiye'nin çıkarlarının korunacağını belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-20T15:01:15.212027+00:00",
+  "type": "news",
+  "cluster_id": "c8a2d549f7766"
+ },
+ {
+  "title": "Doğu Akdeniz Gemi Trafik Hizmetleri Sistemi hayata geçirildi",
+  "link": "https://www.trthaber.com/haber/gundem/dogu-akdeniz-gemi-trafik-hizmetleri-sistemi-hayata-gecirildi-951710.html",
+  "source": "TRT Haber",
+  "summary_tr": "Doğu Akdeniz Gemi Trafik Hizmetleri Sistemi hayata geçirildi; Türkiye ve KKTC'nin deniz güvenliği sağlanacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-20T15:01:15.212027+00:00",
+  "type": "news",
+  "cluster_id": "c4340b78212a6"
+ },
+ {
+  "title": "Yurt dışı ÜFE (yıllık): %30,3",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQODFZdFk4NFRJbzBWYmFCb3UxUTZ2VDFjZDlRZGtVVEtDM3pyaWgyT3h3YWpwT0FORG93NUhvVW53TUZRS0NoQUc2S1VyV2hva2RnMWU4QTY0T2ZRanJQMFZ0VV96ZEtPUVRlMFVGMjhoenZQQ3pBM2hMcDluRTVWX2h6bmVtZm5BU2pEd1N3?oc=5",
+  "source": "TUIK",
+  "summary_tr": ">%30 → %30,3 (+0,3 puan)",
+  "metric": "+0,3 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-20T15:01:15.212027+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Gözler 23 Temmuz'a çevrildi: Dövizde ve borsada dananın kuyruğu kopabilir",
   "link": "https://www.sozcu.com.tr/gozler-23-temmuz-a-cevrildi-dovizde-ve-borsada-dananin-kuyrugu-kopabilir-p338152",
   "source": "Sözcü",
@@ -58264,115 +58396,5 @@
   "score": 6,
   "ts": "2026-06-06T22:01:04.699238+00:00",
   "cluster_id": "c1e44ab384b73"
- },
- {
-  "title": "Gürsel Erol'dan kritik açıklama: \"Kılıçdaroğlu ve Özgür Özel'in grup toplantılarına katılmama kararı aldık\"",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/gursel-erol-dan-kritik-aciklama-kilicdaroglu-ve-ozgur-ozel-in-grup-toplantilarina-katilmama-karari-aldik-2509990",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Elazığ Milletvekili Gürsel Erol, Kılıçdaroğlu ve Özgür Özel'in grup toplantılarına katılmama kararı aldığını açıkladı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-06T22:01:04.699238+00:00",
-  "cluster_id": "c5c5972f2413a"
- },
- {
-  "title": "Salonda atanmış, bahçede seçilmiş konuşacak",
-  "link": "https://www.sozcu.com.tr/iceride-atanmis-bahcede-secilmis-konusacak-p325816",
-  "source": "Sözcü",
-  "summary_tr": "CHP'de mahkeme kararıyla genel başkanlığa getirilen Kılıçdaroğlu'nun grup toplantısı hareketi partide çekişmeyi artırdı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-06T22:01:04.699238+00:00",
-  "cluster_id": "c519c1dd05ae2"
- },
- {
-  "title": "Soykırımcı İsrail ateşkese rağmen Gazzeye saldırdı: 8 Filistinli hayatını kaybetti",
-  "link": "https://www.trthaber.com/haber/dunya/soykirimci-israil-ateskese-ragmen-gazzeye-saldirdi-8-filistinli-hayatini-kaybetti-947407.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail ordusunun Gazze'de ateşkese rağmen düzenlediği saldırıda 8 Filistinli öldü, 10 kişi yaralandı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-06T22:01:04.699238+00:00",
-  "cluster_id": "c2cf6e2ac59d1"
- },
- {
-  "title": "Yunan basını: Bir zamanlar dışa bağımlı olan Türkiye, artık 40tan fazla ülkeye silah satıyor",
-  "link": "https://www.trthaber.com/haber/dunya/yunan-basini-bir-zamanlar-disa-bagimli-olan-turkiye-artik-40tan-fazla-ulkeye-silah-satiyor-947403.html",
-  "source": "TRT Haber",
-  "summary_tr": "Yunan basını, Türkiye'nin savunma sanayisindeki ilerlemesini ve 40'tan fazla ülkeye silah satışını bölgesel güç artışı olarak yorumladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-06T22:01:04.699238+00:00",
-  "cluster_id": "c2bd71f63c5eb"
- },
- {
-  "title": "Airbus closing in on widebody order from Scandinavian airline, Bloomberg News reports",
-  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMFQxdTRDTU9rSHFBRTlyRmt4aWY0VVN5UU15SEdGRTRfSjlNdld6d2REU19fVUdRV29UclBZN3hmVUdsX3d4YThhdlNKc25WQTFwbW5lR3lKX1FJYXdrQW9wcjB1UWR0ZGlMaDFkQWhRNlN2cXJYeUJyMzFFbmZNSkNnVmJ0Vml6Z3ZZSzh4eFNjVzRWUm43bVBCRk94dFZuMGpmOTFmdndQVnRXRDBSOElhT3doOWs4LW5uRkhjY1Q1eG5sTF91V3lHd1BrNUxZMFE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Airbus, İskandinav havayolunun geniş gövdeli uçak siparişi için anlaşmanın kapısında.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-06T22:01:04.699238+00:00",
-  "cluster_id": "cc944b9030c7e"
- },
- {
-  "title": "Bakan Bayraktar: Türkiye artık kendi sahalarının dışında da petrol, doğal gaz arayan bir ülke haline geldi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-turkiye-artik-kendi-sahalarinin-disinda-da-petrol-dogal-gaz-arayan-bir-ulke-haline-geldi/3958751",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Enerji Bakanı Alparslan Bayraktar, Türkiye'nin sahip alanlarının dışında da petrol ve doğal gaz arama kapasitesine ulaştığını açıkladı.",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-06-06T20:01:24.245414+00:00",
-  "cluster_id": "c41d08c252489"
- },
- {
-  "title": "Kırsal kalkınma ve sulama desteklerine ilişkin başvuru süresi 30 Haziran'a uzatıldı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/kirsal-kalkinma-ve-sulama-desteklerine-iliskin-basvuru-suresi-30-hazirana-uzatildi/3958329",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Tarım Bakanı İbrahim Yumaklı, Kırsal Kalkınma Yatırım Programı ve tasarruflu sulama destekleri için başvuru süresini 30 Haziran'a uzattı.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-06T20:01:24.245414+00:00",
-  "cluster_id": "ce6da3a07419a"
- },
- {
-  "title": "Rahmi Koç’a fıkra soruşturması, Gürlek’ten çıkışma, Bahçeli’den itiraz",
-  "link": "https://yetkinreport.com/2026/06/06/rahmi-koca-fikra-sorusturmasi-gurlekten-cikisma-bahceliden-itiraz/",
-  "source": "YetkinReport",
-  "summary_tr": "Koç Grubu Onursal Başkanı Rahmi Koç hakkında hastane açılışındaki sözleri nedeniyle soruşturma başlatıldı; Bahçeli'den itiraz geldi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-06T19:00:54.942634+00:00",
-  "cluster_id": "ce8b23c19af05"
- },
- {
-  "title": "Devlet Bahçeli'den Rahmi Koç hakkında başlatılan soruşturmaya ilişkin açıklama",
-  "link": "https://www.trthaber.com/haber/gundem/devlet-bahceliden-rahmi-koc-hakkinda-baslatilan-sorusturmaya-iliskin-aciklama-947400.html",
-  "source": "TRT Haber",
-  "summary_tr": "MHP Genel Başkanı Devlet Bahçeli, Rahmi Koç hakkında başlatılan soruşturmaya ilişkin açıklama yaptı.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-06T19:00:54.942634+00:00",
-  "cluster_id": "c0924a7e3c998"
- },
- {
-  "title": "A new exchange of fire with Iran in the Gulf tests the fragile ceasefire",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMXRGdWhrdkFIbnc1VXhoemMydUpyWURDQUNxbGxiX2JFVTVVY1RkZVlnampsNjJxVU9MMC03cmdTN0c4OF9QTTJ2bm0zVmZiWnR4UnFmYXE3NllqYXhKbGxOWnk5MENxNUZMTjAwNDRBaWNKNjhPdkNwRDJHWFk2RHRXdklkSURSTkV6aEVwMEE5aTByTGRkOUt6N1F4bzA?oc=5",
-  "source": "AP",
-  "summary_tr": "İran ile Körfez'de yeni çatışma meydana geldi; istikrarsız ateşkesin güvenilirliğini test etti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-06T18:00:57.185998+00:00",
-  "cluster_id": "cb43f819c9934"
- },
- {
-  "title": "Stocks slump as Big Tech sinks and a strong May jobs report boosts odds for higher interest rates",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdnlVVzdGVS1peHBLMWJFckctN3N3anRtOWVfYXYwRXB1azdYRmF1WUhnbXNEWWdFMnZhYjBnbl9VcGVpT2dwSVRhOThQRzJMTzRJM2VBOWc1bEx1YmhKX3gtMjRWWUtwcmNZNmhZQ2c5aGhvSE5sY2w5ZEdac21Zb2l0X1UxYUpVMUUxRmRESmgyZ0U?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD'de güçlü iş verileri faiz artışı beklentilerini güçlendirerek borsa kırmızıya döndü; teknoloji hisseleri sert düştü.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T18:00:57.185998+00:00",
-  "cluster_id": "cbcdb0e017f88"
  }
 ]
