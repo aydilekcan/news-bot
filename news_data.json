@@ -1,5 +1,17 @@
 [
  {
+  "title": "İran basını: İsfahan, Şiraz ve Bender Lenge'de patlama sesi duyuldu",
+  "link": "https://www.trthaber.com/haber/dunya/iran-basini-isfahan-siraz-ve-bender-lengede-patlama-sesi-duyuldu-951736.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran'ın İsfahan, Şiraz ve Bender Lenge bölgelerinde patlama sesi duyuldu; ABD saldırı düzenlendiğini duyurmuştur.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-20T23:01:02.393799+00:00",
+  "type": "news",
+  "cluster_id": "cd827efb279ea"
+ },
+ {
   "title": "ABD, İran'a yeni saldırılar başlattı: Trump'tan misilleme uyarısı",
   "link": "https://www.bbc.com/turkce/articles/c935gy0rd2vo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -58464,15 +58476,5 @@
   "score": 7,
   "ts": "2026-06-07T09:01:04.193420+00:00",
   "cluster_id": "c23321470ed52"
- },
- {
-  "title": "Hürmüz Boğazı'nda savaşın 100 gününün bilançosu belli oldu",
-  "link": "https://www.trthaber.com/haber/dunya/hurmuz-bogazinda-savasin-100-gununun-bilancosu-belli-oldu-947424.html",
-  "source": "TRT Haber",
-  "summary_tr": "Hürmüz Boğazı'nda 100 günde 1000'e yakın gemi geçiş yaptı; ticari trafik yoğun devam ediyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-07T09:01:04.193420+00:00",
-  "cluster_id": "c81bdf7206501"
  }
 ]
