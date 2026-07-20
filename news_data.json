@@ -1,5 +1,41 @@
 [
  {
+  "title": "Petrol fırladı: Akaryakıta bir zam daha geliyor!",
+  "link": "https://www.sozcu.com.tr/petrol-firladi-akaryakita-bir-zam-daha-geliyor-p337954",
+  "source": "Sözcü",
+  "summary_tr": "Petrol fiyatlarındaki yükseliş ve döviz kuru hareketi akaryakıt zamlarını tetikliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-20T06:01:02.994144+00:00",
+  "type": "news",
+  "cluster_id": "ca26a20b10f7c"
+ },
+ {
+  "title": "Taiwan says Chinese vessel activity jumps, raising fears for Pacific supply routes",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNXVlMFZqaDVJQ0I0YzcweDlEUUdIdjFqTjNKcnBKWDJ2NktRZzNOQ3cyVlpsVEREWTBWR3hCNWNDMmpiajFESURySzE0eXZwUzJwSG1lcnZHVnRkc0FwdXdkY1I2V0xyLTgyMm9WSEwyXzMxdWFQYk5OeC1DQ2ItMVVPOUtQNWNOQWRWQ3UwMzVhWHVhc0MzX0lMMnhFdDQza0ktQ3VyZzMyaFVZSVFteGZnZ2REZGtyNTVSbEVWdDE4WWc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin'in Taiwan çevresindeki gemi faaliyetleri artışı, Pasifik ticaret güzergahlarında endişe yaratıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-20T06:01:02.994144+00:00",
+  "type": "news",
+  "cluster_id": "c03cdc185b4dd"
+ },
+ {
+  "title": "Morning Bid: Rising oil, yields rain on AI party",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53OUo4WnVpOHludUQ5TjJVSGhJaHoxUjRNVURHTnJOQmc2TlRaeTVlWnIycnBJY3JBem1HWVpqQjhCSDNYVkh4Tlo3aS1HM294cmREOXNxOHZFVDBsVm1lYmQ4dXRrWUhGZEtmQ2QxTWtIMGI2ZzJGX1k4WVdPVTg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Petrol fiyatlarının ve verim eğrisinin yükselişi, yapay zeka pazarındaki yükseliş momentumunu olumsuz etkiliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-20T06:01:02.994144+00:00",
+  "type": "news",
+  "cluster_id": "c07132d85cc7d"
+ },
+ {
   "title": "US strikes Iran for ninth day; Iran says two oil tankers in Strait of Hormuz exploded and immobilised",
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbmtOemhMR1UtaVNoMENBMHltNEpKTWJNekRXUEtSa3hidndTM0VZVnRoTEJlV2ZENWtkYVFCUkJtSk8zdFhPeEJQSXRNMS1vWC03N2NJek14WklXdzhNZWkzMnZRUFpGcHg2OXotaHpyVW9jblFTYUM4U2lGcXFWa1NFbnZSQnpreVF6OXVhMW1oeHdIdkFNMjBJa09UZGgycjRkMjZ6Z1dxNC10enJIVDZJdlVSQjRxQlBZc05Tdw?oc=5",
   "source": "Reuters",
@@ -58314,35 +58350,5 @@
   "score": 6,
   "ts": "2026-06-06T15:00:57.310833+00:00",
   "cluster_id": "c8d2cd923f774"
- },
- {
-  "title": "Enflasyon 5 ayda kazançları yok etti: Emekli aylıkları, maaşlar ve asgari ücret ne kadar eridi?",
-  "link": "https://www.sozcu.com.tr/enflasyon-5-ayda-kazanclari-yok-etti-emekli-ayliklari-maaslar-ve-asgari-ucret-ne-kadar-eridi-p325761",
-  "source": "Sözcü",
-  "summary_tr": "TÜİK verisine göre ocak-mayıs döneminde yüzde 16,61 enflasyon, yıl başı maaş artışlarını aşındırdı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-06T14:00:55.615285+00:00",
-  "cluster_id": "cdc4ae3df5d79"
- },
- {
-  "title": "Resmen ilan ettiler: Kılıçdaroğlu'ndan grup toplantısı duyurusu",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/resmen-ilan-ettiler-kilicdaroglu-ndan-grup-toplantisi-duyurusu-2509925",
-  "source": "Cumhuriyet",
-  "summary_tr": "Mahkeme kararıyla CHP Genel Başkanlığına atanan Kılıçdaroğlu, grup toplantısı yapacağını duyurdu.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-06T14:00:55.615285+00:00",
-  "cluster_id": "ced55bb1c073d"
- },
- {
-  "title": "Körfez ülkeleri alarmda: İran saldırılarına sert kınama",
-  "link": "https://www.cumhuriyet.com.tr/dunya/korfez-ulkeleri-alarmda-iran-saldirilarina-sert-kinama-2509921",
-  "source": "Cumhuriyet",
-  "summary_tr": "Suudi Arabistan, Kuveyt ve Bahreyn İran'ın füze ve İHA saldırılarını kınadı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T14:00:55.615285+00:00",
-  "cluster_id": "ce288e218683c"
  }
 ]
