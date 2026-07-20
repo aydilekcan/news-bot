@@ -1,5 +1,41 @@
 [
  {
+  "title": "Gazilerin haklı talebi iktidarın çerez parası",
+  "link": "https://www.sozcu.com.tr/gazilerin-hakli-talebi-iktidarin-cerez-parasi-p337910",
+  "source": "Sözcü",
+  "summary_tr": "Gazilerin maaş artırımının yıllık maliyeti 5,3-7,6 milyar TL arasında değişiyor; hükümet bunu çerez parası olarak görmektedir.",
+  "metric": "Yıllık ek maliyet 5,3-7,6 milyar TL",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-20T03:01:01.570258+00:00",
+  "type": "news",
+  "cluster_id": "c4b4df542b2fc"
+ },
+ {
+  "title": "Üreticiyi ithalatla batıracaklar",
+  "link": "https://www.sozcu.com.tr/ureticiyi-ithalatla-batiracaklar-p337912",
+  "source": "Sözcü",
+  "summary_tr": "Soğan fiyatı 60 TL'ye çıktı; üretici ve tüketici ithalatla karşı karşıya.",
+  "metric": "Soğan fiyatı markette 60 TL",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-20T03:01:01.570258+00:00",
+  "type": "news",
+  "cluster_id": "c7107377ca85b"
+ },
+ {
+  "title": "Emeklinin sınavı büyükşehir",
+  "link": "https://www.sozcu.com.tr/emeklinin-sinavi-buyuksehir-p337906",
+  "source": "Sözcü",
+  "summary_tr": "Büyükşehirlerde emekliler, eski binalar ve merkeze uzak yerleşim alanlarında yaşarken temel ihtiyaçlarını karşılamakta zorluk çekiyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-20T03:01:01.570258+00:00",
+  "type": "news",
+  "cluster_id": "c530f2e532950"
+ },
+ {
   "title": "İrana yönelik ABD saldırıları 9. gecesinde devam ediyor",
   "link": "https://www.trthaber.com/haber/dunya/irana-yonelik-abd-saldirilari-9-gecesinde-devam-ediyor-951645.html",
   "source": "TRT Haber",
@@ -58294,35 +58330,5 @@
   "score": 7,
   "ts": "2026-06-06T13:01:04.736829+00:00",
   "cluster_id": "c196e3569e11f"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan: İstikrar ve güven ortamını ağır bedeller ödeyerek sağladık",
-  "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-istikrar-ve-guven-ortamini-agir-bedeller-odeyerek-sagladik-947385.html",
-  "source": "TRT Haber",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, küresel ekonomik belirsizlik ortamında ülkenin istikrar ve güven ortamı sağladığını söyledi.",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-06-06T13:01:04.736829+00:00",
-  "cluster_id": "cbeec70b315ac"
- },
- {
-  "title": "Trump says he wants his new acting director of national intelligence to cut the office",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcWFMSjBXcDlNU0JxRUZtY1d0NGp0dWxTbEpnNmg3QXBEcFdPNm4wOFBLVnBhTGwxYjNiLWtZNUFCLURJanhGS3ZpNmcwclhTSS1aSjRSWGdwUnZ1OElFWFRobE8tTHJseGRJSlFCbGNVWkdGN0NIX1ZGTUt1NGx6OE1QeWVwT2VYOTJZQXdDTFN3SHY2d2Z3Wg?oc=5",
-  "source": "AP",
-  "summary_tr": "Trump, yeni istihbaratından sorumlu müdürün ofisini küçültmek istediğini söyledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T13:01:04.736829+00:00",
-  "cluster_id": "c51bf4c7684cf"
- },
- {
-  "title": "Orhan Sarıbal Halkevleri’nden ihraç edildi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/orhan-saribal-halkevleri-nden-ihrac-edildi-2509891",
-  "source": "Cumhuriyet",
-  "summary_tr": "Halkevleri, CHP'nin mutlak butlan kararını destekleyen CHP Bursa Milletvekili Orhan Sarıbal'ı ihraç etti.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-06T13:01:04.736829+00:00",
-  "cluster_id": "c9a309a750802"
  }
 ]
