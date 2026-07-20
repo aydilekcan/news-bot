@@ -1,5 +1,89 @@
 [
  {
+  "title": "İran devlet televizyonu: ABD ordusu, İranın Merkezi eyaletinde bir sanayi birimine saldırı düzenledi",
+  "link": "https://www.trthaber.com/haber/dunya/iran-devlet-televizyonu-abd-ordusu-iranin-merkezi-eyaletinde-bir-sanayi-birimine-saldiri-duzenledi-951720.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran devlet televizyonu, ABD ordusunun İranın Merkezi eyaletindeki Humeyn şehrindeki bir sanayi birimine saldırı düzenlediğini bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-20T17:01:05.771406+00:00",
+  "type": "news",
+  "cluster_id": "c9b76dc8632ea"
+ },
+ {
+  "title": "İmralı Heyeti'nin Öcalan'la görüşmesi sona erdi: 5 saat sürdü",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/imrali-heyeti-nin-ocalan-la-gorusmesi-sona-erdi-5-saat-surdu-2522433",
+  "source": "Cumhuriyet",
+  "summary_tr": "DEM Parti İmralı Heyeti, PKK lideri Abdullah Öcalan ile 5 saat süren görüşmeyi tamamladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-20T17:01:05.771406+00:00",
+  "type": "news",
+  "cluster_id": "ce4287f550983"
+ },
+ {
+  "title": "DEM İmralı Heyeti, Öcalan ile görüştü",
+  "link": "https://www.sozcu.com.tr/dem-parti-imrali-heyeti-ile-abdullah-ocalan-gorustu-p338194",
+  "source": "Sözcü",
+  "summary_tr": "DEM İmralı Heyeti, PKK elebaşı Abdullah Öcalan ile yaklaşık 5 saat süren görüşme gerçekleştirdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-20T17:01:05.771406+00:00",
+  "type": "news",
+  "cluster_id": "ce550f8609360"
+ },
+ {
+  "title": "ABD'nin İran'a deniz ablukasında 7 ticari geminin rotaları değiştirildi, 1 gemi hizmet dışı bırakıldı",
+  "link": "https://www.trthaber.com/haber/dunya/abdnin-irana-deniz-ablukasinda-7-ticari-geminin-rotalari-degistirildi-1-gemi-hizmet-disi-birakildi-951719.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD ordusu, İran'a yönelik deniz ablukası kapsamında 7 ticari geminin rotasını değiştirdi, 1 gemiyi hizmet dışı bıraktı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-20T17:01:05.771406+00:00",
+  "type": "news",
+  "cluster_id": "c76d71c09a2fe"
+ },
+ {
+  "title": "Bahreyn'de kısa süre içinde İran saldırıları nedeniyle yeniden sirenler çaldı",
+  "link": "https://www.trthaber.com/haber/dunya/bahreynde-kisa-sure-icinde-iran-saldirilari-nedeniyle-yeniden-sirenler-caldi-951718.html",
+  "source": "TRT Haber",
+  "summary_tr": "Bahreyn'de İran saldırıları nedeniyle kısa süre içinde ikinci kez hava alarm sirenlerinin çaldığı bildirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-20T17:01:05.771406+00:00",
+  "type": "news",
+  "cluster_id": "c1439371694ec"
+ },
+ {
+  "title": "Karadeniz’de gemilere İHA saldırıları: Petrol yüklemeleri durdu",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdVZ2T212cDZoUDgzNzRNUnp4dDZKZ1NveHdYaGw3c2xyMkk0Sl9uVUtFZmpUX1BSTkV0bWZuWWxJamZqc010ZUJ4bW5rSG5Dend3SUtJN041anV5NVV1Rkh4bDF3eVNaMUZ6SzA5emdHWFpHcXJfREY2Y1BhaHV0M3ZtSEFIcXdqSGhCYkJHMTR5bVE2NjVCYmdVbEhJX3Jo?oc=5",
+  "source": "soL",
+  "summary_tr": "Karadeniz'de gemilere İHA saldırıları sonucu petrol yüklemeleri durduruldu.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-20T17:01:05.771406+00:00",
+  "type": "news",
+  "cluster_id": "ce85644a209f3"
+ },
+ {
+  "title": "Gezi davasından 18 yıl hapis cezası alan Çiğdem Mater ve Mine Özerden, Bakırköy'den İzmir Şakran Cezaevi'ne sevk ediliyor: Gerekçe sunulmadı, ailelere ve avukatlara da yeterli bilgi verilmedi",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObDhNQll4ZXUwNHMxMzZvYXN0cjRnZ0Q1YXNMeVFPbkd1SE9OcERyVk9xd0lDeTdEMnBxY0pnSW1Lbm9ySzN3Q0djU1p5bExqWnJlRW1jaWlfYVUyQV9uV2ZTS0NiTm9PbGRQaDN6QzBqTkI1STk4R0laTW9wYWY5MEVzTXp5a2RfUjF6cjN2RmpEckJ3TDgzT0RIY1NQYUpoeGxySExWa1pZakY5dy1Pbg?oc=5",
+  "source": "T24",
+  "summary_tr": "Gezi davasından 18 yıl hapis cezası alan Çiğdem Mater ve Mine Özerden, Bakırköy'den İzmir Şakran Cezaevi'ne sevk edildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-20T17:01:05.771406+00:00",
+  "type": "news",
+  "cluster_id": "c6a35d2528bfa"
+ },
+ {
   "title": "Ukrayna'da askere gitmek istemeyenler ve şiddet olayları: 'Herkes ölmekten korkuyor'",
   "link": "https://www.bbc.com/turkce/articles/cy8m7zl1d44o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -58336,75 +58420,5 @@
   "score": 7,
   "ts": "2026-06-07T03:00:52.208646+00:00",
   "cluster_id": "c749ee29f9f08"
- },
- {
-  "title": "Emekliye 3.600 TL, memura 8 bin TL zam",
-  "link": "https://www.sozcu.com.tr/emekliye-3-600-tl-memura-8-bin-tl-zam-p325832",
-  "source": "Sözcü",
-  "summary_tr": "TÜİK haziran enflasyon verisine göre memur maaşı 8 bin lira, emekli aylığı 3.600 lira zam alabilir.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-07T03:00:52.208646+00:00",
-  "cluster_id": "cfb47e3f26569"
- },
- {
-  "title": "Sigara fiyatlarına 10 lira zam geldi",
-  "link": "https://www.sozcu.com.tr/sigara-fiyatlarina-10-lira-zam-geldi-p325836",
-  "source": "Sözcü",
-  "summary_tr": "Sigara fiyatlarına 10 lira zam uygulandı; en düşük sigara fiyatı 110 TL'ye yükseldi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-07T03:00:52.208646+00:00",
-  "cluster_id": "cc8aa56472b4e"
- },
- {
-  "title": "#mal ihracatı",
-  "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wNy1femd2dzNYRGd0ZnN3NmZ1QjlVUUZ1QzQxWjV2eTRqSXRaU1RwOG9YYzJaUUVhOS1LMWw2aXhCUmtUc1lfWi1PYzYwbGhET2c5elR6dUVvMXZY?oc=5",
-  "source": "T24",
-  "summary_tr": "Türkiye mal ihracatı haberinin detayları T24'te.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-07T01:00:46.149671+00:00",
-  "cluster_id": "cf8d8c8e75b0a"
- },
- {
-  "title": "North Korea reaffirms nuclear status a day before Chinese president's visit",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVjIxc3JQdWJBUHNieVRPZjF0RUlyZjBBdVJjSFNrdEVJRTEwakEydDJjaEtNc0d6WE5BY3JhbkE5ZXlvc3ZkYUxzVW8tQzhoSklGNE9jMmZEcnk3dU1lZ0prd3ZBc2VqUGMtdlN2eUNVVFlvSkd0OHR4RlBvb05oaE9DbkRFT2JMaGVjQzRoTWYtcmdIdWM5TEJ4c3NicFFzZG5YdjVzODFJeUZ1TDR2d1otbVF4YXM?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Kuzey Kore, Çin başkanının ziyaretinden bir gün önce nükleer statüsünü yeniden teyit etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-07T00:00:55.364149+00:00",
-  "cluster_id": "cc11349d7f25f"
- },
- {
-  "title": "US eyes Iranian assets for Gulf allies' reconstruction, source says",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ09pbXlqUEZwdUE4cVVKVEtySklkRGIwSmx6LXlNZm1qWnN1cE8wT1FkODFaUGtJVWh3UG1CRXRMM3JuUWpKQ3ZwOU82aGZpM0llWkZvNUhyLUx5dFJHeV9Bd1B0Rm9DQVdhWno2aG9IQWhxZFhlc2RSbGRlV3A4UklMVFhFZkxvSlBfS3pWaGljaE83RklTb0pIazNHejYydUFuT2ZoQTN5Y05LNU14bURUaWVOTGc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, Körfez müttefiklerinin yeniden inşası için İran varlıklarının kullanılmasını değerlendiriyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-07T00:00:55.364149+00:00",
-  "cluster_id": "cafb81f2d9402"
- },
- {
-  "title": "US attorney opens investigations into California's elections, sends prosecutor to LA vote center",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWGJrZjdlOW9CRTdmNnFVRXNrMjJKZ291aDRaN1UzellLQUMwcW9IU1M2UkRYVU5qM1dxQlJMR0tSN1J6b2ZpWHIwZkxXd0o3TjRVN19CWmI3bHp2b2NjbnRpSUs2aDU1Y1ZfTUNSUnNCa3VXU0syVUJZSlpuNDB4b0tXdHAtV2pRbF9qejBkQTZ6SFU5R0VOeEI2ZmlxM0Rxd0ZoZTBESG1MTE5oZ0puV2w3VE4?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD başsavcısı California seçimlerine soruşturma açtı ve Los Angeles oy merkezine savcı gönderdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-07T00:00:55.364149+00:00",
-  "cluster_id": "ceedb911dc6a8"
- },
- {
-  "title": "New York Times İsrail'in Lübnan'a beyaz fosforla saldırdığı görüntüleri yayımladı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/new-york-times-israil-in-lubnan-a-beyaz-fosforla-saldirdigi-goruntuleri-yayimladi-2509997",
-  "source": "Cumhuriyet",
-  "summary_tr": "New York Times, İsrail'in Lübnan saldırılarında beyaz fosfor bombası kullandığını gösteren görüntüleri yayımladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-06T22:01:04.699238+00:00",
-  "cluster_id": "c01d9e143c19b"
  }
 ]
