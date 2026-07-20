@@ -1,5 +1,53 @@
 [
  {
+  "title": "Gözler 23 Temmuz'a çevrildi: Dövizde ve borsada dananın kuyruğu kopabilir",
+  "link": "https://www.sozcu.com.tr/gozler-23-temmuz-a-cevrildi-dovizde-ve-borsada-dananin-kuyrugu-kopabilir-p338152",
+  "source": "Sözcü",
+  "summary_tr": "Merkez Bankası 23 Temmuz'da faiz kararını açıklayacak; piyasalarda döviz ve borsa için kritik gün bekleniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-20T14:01:21.721234+00:00",
+  "type": "news",
+  "cluster_id": "c81adbcfe3f2e"
+ },
+ {
+  "title": "Toplam sanayi üretici fiyat endeksi haziranda aylık yüzde 1,37, yıllık yüzde 28,78 arttı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/toplam-sanayi-uretici-fiyat-endeksi-haziranda-aylik-yuzde-1-37-yillik-yuzde-28-78-artti/4003816",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Sanayi üretici fiyat endeksi haziranda aylık %1,37, yıllık %28,78 arttı.",
+  "metric": "Sanayi üretici fiyat endeksi (yıllık) %? -> %28,78",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-20T14:01:21.721234+00:00",
+  "type": "news",
+  "cluster_id": "cb56ed8e8cc0b"
+ },
+ {
+  "title": "AA Finans'ın PPK Beklenti Anketi sonuçlandı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/aa-finansin-ppk-beklenti-anketi-sonuclandi/4003770",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "AA Finans anketine göre ekonomistler, TCMB'nin temmuz ayında politika faizini %37 seviyesinde tutacağını öngörüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-20T14:01:21.721234+00:00",
+  "type": "news",
+  "cluster_id": "c7c13ee354294"
+ },
+ {
+  "title": "YD-ÜFE (yıllık): >%30 (Haziran)",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTi1CZ29NOVNoaXN1S0ZxR2g1cjhadktzaHJDWHZ4Z3c1MGIzdW1neU80MEgtNXdLWmNIeXlycjEwVTMweTQ2TDg5SmFoNkJkanM5SURVVjJlbGhNSkE2LW1OSURfZWVnUHVlbjhTY0YyRF9zV1hBdWpNQ3NMNGxlNy1heV9BVTR3S2tsTGhOVzJuWHlQNm1IOVBoaUk?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%34,16 → >%30 (-4,2 puan)",
+  "metric": "-4,2 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-20T14:01:21.721234+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Yemen'deki Husiler, Suudi Arabistan'a karşı \"deniz ablukası uygulamaya başladıklarını\" duyurdu",
   "link": "https://www.aa.com.tr/tr/dunya/yemendeki-husiler-suudi-arabistana-karsi-deniz-ablukasi-uygulamaya-basladiklarini-duyurdu/4003708",
   "source": "Anadolu Ajansı",
@@ -58326,45 +58374,5 @@
   "score": 7,
   "ts": "2026-06-06T18:00:57.185998+00:00",
   "cluster_id": "cbcdb0e017f88"
- },
- {
-  "title": "Doruk Madencilik işçilerine barikat, Yıldızlar Holding'e kıyak: 'Borçlar için kamu bankasından kredi verildi'",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS3Nsc3hpdnJHYzA2Wk1ORnNfSlBaU3hDMnhBUmZGajNuYjBRMENLdWZ3QXg1OXdTR1lQdDlBTlJUTnkwZkthcXI1bU9tcWcwSnFKcFBSN2c2d2F5YXZMTkVxVVdPVFhzRHdWeDBlMTBad3A2ZUNFTUNzbEI1eTdBc3RpMy1rb05zSnQyOWdfUmRmdXZ2bGVTTlp3RTNEbE5PQ1FNR1g2TVdudm9teWVpX29rMGltR3N6MkVaTzZ3?oc=5",
-  "source": "soL",
-  "summary_tr": "Doruk Madencilik işçilerine barikat, Yıldızlar Holding'e kamu bankasından kredi desteği sağlandığı iddia ediliyor.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-06T18:00:57.185998+00:00",
-  "cluster_id": "cf7ce0386d8ef"
- },
- {
-  "title": "Rahmi Koç tartışmasına Bahçeli müdahalesi: ‘Hedef alınmasını doğru bulmuyoruz’",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/rahmi-koc-tartismasina-bahceli-mudahalesi-hedef-alinmasini-dogru-bulmuyoruz-2509960",
-  "source": "Cumhuriyet",
-  "summary_tr": "MHP Genel Başkanı Devlet Bahçeli, Kürtlerle ilgili fıkra nedeniyle soruşturma başlatılan iş insanı Rahmi Koç'a destek vererek hedef alınmasını doğru bulmadığını açıkladı.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-06T17:00:50.972081+00:00",
-  "cluster_id": "ca565e0aca42b"
- },
- {
-  "title": "Rahmi Koç hakkında soruşturma başlatıldı: Devlet Bahçeli'den çok sert tepki geldi",
-  "link": "https://www.sozcu.com.tr/bahceli-den-rahmi-koc-a-sorusturma-acilmasina-tepki-p325791",
-  "source": "Sözcü",
-  "summary_tr": "İş insanı Rahmi Koç, anlattığı 'Kürt kadın fıkrası' nedeniyle hakkında soruşturma başlatıldı; Devlet Bahçeli sert tepki gösterdi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-06T17:00:50.972081+00:00",
-  "cluster_id": "c71e91fec5e75"
- },
- {
-  "title": "İran'dan ABD saldırısına kınama: Ateşkesin açık bir ihlali",
-  "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-abd-saldirisina-kinama-ateskesin-acik-bir-ihlali-2509955",
-  "source": "Cumhuriyet",
-  "summary_tr": "İran Dışişleri Bakanlığı, ABD'nin Sirik bölgesi ve Keşm Adası'ndaki radar tesislerine düzenlediği saldırıyı kınadı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-06T16:00:57.852933+00:00",
-  "cluster_id": "c55f7a3e3ce4a"
  }
 ]
