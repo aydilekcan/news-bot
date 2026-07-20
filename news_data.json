@@ -1,5 +1,41 @@
 [
  {
+  "title": "İrana yönelik ABD saldırıları 9. gecesinde devam ediyor",
+  "link": "https://www.trthaber.com/haber/dunya/irana-yonelik-abd-saldirilari-9-gecesinde-devam-ediyor-951645.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD, İran'a yönelik saldırılarını 9. gecesine devam ediyor. ABD Merkez Komutanlığı yeni bir saldırı dalgasını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-20T02:01:01.494246+00:00",
+  "type": "news",
+  "cluster_id": "c31c0f53e298e"
+ },
+ {
+  "title": "US launches more airstrikes against Iran after announcing another death of a service member",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOVVPQXpIUjAzU1c2TG1GcXJUU19aU2FodDRTVWV4RVdVN2stQ1NueUtIRC03M2hXNFZLRkQzUUdqMWNQOVBMbzFmc1NGejY3bXFNSnJYMXNNRTIyMlNMYjFPbXVOcXJCSkFPVHNsMkRvblBzcjc5aXJhbHlndGlrek9RbmVBTlN4SHI3N1VHLUpGVlNmTE4tSlAwSktTd1k?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD, İran'a karşı ek hava saldırıları başlattı; bir Amerikan askerinin ölümü sonrası yeni operasyonlar duyuruldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-20T02:01:01.494246+00:00",
+  "type": "news",
+  "cluster_id": "c1291cabc8cc9"
+ },
+ {
+  "title": "Brent oil tops $90 as US, Iran intensify attacks in Middle East",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbDB0dzIyZzhDNXdvemNBWHdxR3dnWXcwVk4xM082SDRRTm9xel9yX3hJeFBDN1hyQXZpRlVWcElHNi13amFSaXFZLUEtYWpva20xcmFjLWt2TEc0QjFlMDJRMHFPZ3dpb0hZNlBib1ZMNk4xNXdPcmNfUHRpRzNzVDRtdmZlY2MydWVLdS1uVnZXSkdHZjlYelZOZ1M0SXlnVzlBSGFUUU43YlE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Brent petrolü, ABD-İran çatışmasının yoğunlaşması nedeniyle 90 doların üzerine çıktı.",
+  "metric": "Brent petrolü $90 üzerine",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-20T02:01:01.494246+00:00",
+  "type": "news",
+  "cluster_id": "cfc906f5e76a1"
+ },
+ {
   "title": "US announces another troop death as Israel warns Tehran’s attacks are coming close",
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOVVPQXpIUjAzU1c2TG1GcXJUU19aU2FodDRTVWV4RVdVN2stQ1NueUtIRC03M2hXNFZLRkQzUUdqMWNQOVBMbzFmc1NGejY3bXFNSnJYMXNNRTIyMlNMYjFPbXVOcXJCSkFPVHNsMkRvblBzcjc5aXJhbHlndGlrek9RbmVBTlN4SHI3N1VHLUpGVlNmTE4tSlAwSktTd1k?oc=5",
   "source": "AP",
@@ -58288,35 +58324,5 @@
   "score": 6,
   "ts": "2026-06-06T13:01:04.736829+00:00",
   "cluster_id": "c9a309a750802"
- },
- {
-  "title": "Eski TBMM Başkanı Bülent Arınç: Özgür Özel'in grup toplantısında konuşma yapması hukuka uygun",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/eski-tbmm-baskani-bulent-arinc-ozgur-ozel-in-grup-toplantisinda-konusma-yapmasi-hukuka-uygun-2509888",
-  "source": "Cumhuriyet",
-  "summary_tr": "Eski TBMM Başkanı Arınç, Özgür Özel'in CHP grup toplantısında konuşmasının hukuka uygun olduğunu söyledi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-06T13:01:04.736829+00:00",
-  "cluster_id": "c37199b31e5d0"
- },
- {
-  "title": "Hakan Fidan Bangladeşte: Kızılay kurumlarını inceledi",
-  "link": "https://www.sozcu.com.tr/hakan-fidan-bangladeste-kizilay-kurumlarini-inceledi-p325742",
-  "source": "Sözcü",
-  "summary_tr": "Dışişleri Bakanı Hakan Fidan, Bangladeş ziyaretinde Kızılay kurumlarını inceledi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-06T13:01:04.736829+00:00",
-  "cluster_id": "c4fb328612c35"
- },
- {
-  "title": "Erdoğan'dan uluslararası firmalara davet: 'Operasyonlarını Türkiye'den yönet, avantajlardan yararlan'",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSTJkRXZHVFFyWjgtR2VFdWdfaFVkY051dVJkd0RjbzZ0N2ZScWhsR0VpSkZraG5sTGdnbVJVZC15VHNCZ1hCblU5eWVxTDZxcjVpbUJodHA0Y3hELVBqaW1iY2FRbk1MTkxTU2FxWERaWlZyQ20wQk54QkFvdU5tU1JNeE5fcktsSmlHTjl2Um1DSmNiUUFKRXlacnlWWkJvWWI3SVpnUVkteTVvY1NrTE41WGNLWFJY?oc=5",
-  "source": "soL",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, uluslararası firmaları Türkiye'den operasyonlarını yönetmeye davet etti.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-06T13:01:04.736829+00:00",
-  "cluster_id": "c500d384e9f6e"
  }
 ]
