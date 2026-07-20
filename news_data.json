@@ -1,5 +1,77 @@
 [
  {
+  "title": "After deadly weekend for US troops, Trump vows revenge against Iran",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSnhXZVhURmd3ZGlYWXZfYUNSV3lOWkVuUUZPYlA0TVhUQmE5aDRUMVM5SncyVnBGdEdnN3dGMFlCUndzWG1jazFiUjhCU0hwaTJfVXloemlVLTRlcnNOUGdrREZ6SkVtVlliZ0dCVEV5Xzg1dFFObGN4ZGhNMF9iVGRFRDFHclJwMkNNc3RGRFQzdXJGaVI4LWlObVFEN0tlbHBQb3NWWVVyUmVGd3JmS2hpRU5fNm8?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD'de askerler ölümle sonuçlanan saldırının ardından Trump, İran'a karşı intikam sözü verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-20T20:01:18.933205+00:00",
+  "type": "news",
+  "cluster_id": "c165d337fa12d"
+ },
+ {
+  "title": "Mamdani UCM kararına işaret etmişti: Trump 'Netanyahu tutuklanmayacak' dedi",
+  "link": "https://www.diken.com.tr/mamdani-ucm-kararina-isaret-etmisti-trump-netanyahu-tutuklanmayacak-dedi/?utm_source=rss&utm_medium=rss&utm_campaign=mamdani-ucm-kararina-isaret-etmisti-trump-netanyahu-tutuklanmayacak-dedi",
+  "source": "Diken",
+  "summary_tr": "Trump, İsrail Başbakanı Netanyahu'nun ABD'de tutuklanmayacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-20T20:01:18.933205+00:00",
+  "type": "news",
+  "cluster_id": "c8f555d9976de"
+ },
+ {
+  "title": "Mamdani ‘Netanyahu New York’ta tutuklanacak mı’ sorusunu yanıtladı: Trump ve Netanyahu’dan sert tepki",
+  "link": "https://www.cumhuriyet.com.tr/dunya/mamdani-netanyahu-new-york-ta-tutuklanacak-mi-sorusunu-yanitladi-trump-ve-netanyahu-dan-sert-tepki-2522461",
+  "source": "Cumhuriyet",
+  "summary_tr": "New York Belediye Başkanı Mamdani, Netanyahu'nun New York ziyaretinde tutuklanıp tutuklanmayacağı konusunda soru işareti bıraktı; Trump sert tepki gösterdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-20T20:01:18.933205+00:00",
+  "type": "news",
+  "cluster_id": "c31989cd00cf8"
+ },
+ {
+  "title": "Netanyahu will not be arrested in US, Trump says, as New York mayor mulls options",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM0FBLVV2MC1GcnJCd1YzRkhhaUVpVlI5dHZoRlJwZktDQXBkcHVKSTJKWTFIdVJaMmxlWmgwWmlueFNHMUtBWC1kX3RoZWhWcl9RX29feHJOLU03THVKZjRVbGJTMDhuR0lZNjMzQXdaRHFxV2xWZ3hjdWthUmVMWG9hN1kyVkhoeDljTnJhMUE5aTRkN1dxTlgwOVpqOTlIR0VWNWtHSF9nVXo2OU00TGw5YnVuUEVnQlE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, Netanyahu'nun ABD'de tutuklanmayacağını bildirdi; New York Belediye Başkanı seçenekleri değerlendiriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-20T20:01:18.933205+00:00",
+  "type": "news",
+  "cluster_id": "c9e1569640916"
+ },
+ {
+  "title": "81 ilde 'Terör Suçları Soruşturma Bürosu' kurulacak",
+  "link": "https://www.diken.com.tr/81-ilde-teror-suclari-sorusturma-burosu-kurulacak/?utm_source=rss&utm_medium=rss&utm_campaign=81-ilde-teror-suclari-sorusturma-burosu-kurulacak",
+  "source": "Diken",
+  "summary_tr": "Adalet Bakanlığı tüm 81 ilde Terör Suçları Soruşturma Bürosu kurulmasını kararlaştırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-20T20:01:18.933205+00:00",
+  "type": "news",
+  "cluster_id": "c2b2d0d4ae5ba"
+ },
+ {
+  "title": "Adalet Bakanlığından tüm illere \"Terör Suçları Soruşturma Bürosu\" kurulması yazısı",
+  "link": "https://www.aa.com.tr/tr/gundem/adalet-bakanligindan-tum-illere-teror-suclari-sorusturma-burosu-kurulmasi-yazisi/4004091",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Adalet Bakanlığı tüm 81 ilde terör suçlarına ilişkin soruşturmaları daha etkin yürütmek amacıyla Terör Suçları Soruşturma Bürolarının kurulmasını emretti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-20T20:01:18.933205+00:00",
+  "type": "news",
+  "cluster_id": "c9cd4695be7d4"
+ },
+ {
   "title": "İran bu defa da Ürdün'e saldırdı",
   "link": "https://www.sozcu.com.tr/iran-bu-defa-da-urdun-e-saldirdi-p338218",
   "source": "Sözcü",
@@ -58384,65 +58456,5 @@
   "score": 6,
   "ts": "2026-06-07T08:01:00.112960+00:00",
   "cluster_id": "c78ef099f825e"
- },
- {
-  "title": "'Mutlak butlan' araştırması: Kılıçdaroğlu Erdoğan kadar tepki çekiyor, Özgür Özel'in yeni partisi yüzde 37'yi buluyor",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/mutlak-butlan-arastirmasi-kilicdaroglu-erdogan-kadar-tepki-cekiyor-ozgur-ozel-in-yeni-partisi-yuzde-37-yi-buluyor-2510044",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'deki 'mutlak butlan' sonrası anket: Özgür Özel'in yeni partisi %33-37 düzeyinde destek alabilir.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-07T08:01:00.112960+00:00",
-  "cluster_id": "c8ce14fe1e743"
- },
- {
-  "title": "O ülke altın stoklamaya başladı: 320 ton daha satın aldılar",
-  "link": "https://www.sozcu.com.tr/o-ulke-altin-stoklamaya-basladi-320-ton-daha-satin-aldilar-p325888",
-  "source": "Sözcü",
-  "summary_tr": "Çin 19 aydır aralıksız altın stoklayarak son 320 ton daha satın aldı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-07T08:01:00.112960+00:00",
-  "cluster_id": "c3effd83375a3"
- },
- {
-  "title": "Ermenistan'da halk, parlamento seçimleri için sandık başında",
-  "link": "https://www.aa.com.tr/tr/dunya/ermenistanda-halk-parlamento-secimleri-icin-sandik-basinda/3958886",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Ermenistan'da parlamento seçimleri başladı; 5 yıl görev yapacak yeni parlamentonun belirlenmesi için oy veriliyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-07T08:01:00.112960+00:00",
-  "cluster_id": "c099758a4203b"
- },
- {
-  "title": "ABD ile İsrail arasında casusluk gerilimi iddiası",
-  "link": "https://www.trthaber.com/haber/dunya/abd-ile-israil-arasinda-casusluk-gerilimi-iddiasi-947421.html",
-  "source": "TRT Haber",
-  "summary_tr": "Pentagon İsrail'in ABD'ye yönelik casusluk faaliyetlerinin artmasından endişe duyuyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-07T08:01:00.112960+00:00",
-  "cluster_id": "c90f4b15958c6"
- },
- {
-  "title": "South Korea nominates Han as country's first female prime minister in two decades",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOHhwUTc3dDFYR2ttMjRGcUM4NURmYU56NHJ4eWhpOWxadlpNcG1qNHhJT1pzeVBPM0h0VVBvTXVTTVFlTWlPVzNobmFJc1FxZXkyZGljTldxbmJ6X1FremVpZnEzSjBXQ3lHUWttZEZjSS1RU3o2bXgyMUI1RXJqS0stbjRXUi12MXYyM0ttZFlfOENUTlBwRHFHcU9ibTVmRFN1ZF83aW9XMDRuUE1MSWtQcWZ6eHp3d1ctZi1sczROZTRMdHBZRg?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Güney Kore Han'ı 20 yılda ilk kez kadın başbakan adayı olarak seçti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-07T08:01:00.112960+00:00",
-  "cluster_id": "c88e717e35cf5"
- },
- {
-  "title": "Ermenistan, Rusya ve AB'nin yakından izlediği seçimde sandık başında",
-  "link": "https://www.bbc.com/turkce/articles/c0mynwwepxxo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Ermenistan'da seçim yapılıyor; Batı-Rusya yönelişi belirlenecek.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-07T07:00:57.366883+00:00",
-  "cluster_id": "c17b2dc6920a0"
  }
 ]
