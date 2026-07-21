@@ -1,5 +1,29 @@
 [
  {
+  "title": "Oil prices dip as mediation efforts offset US-Iran strikes",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNE0xMnZLYmlVcE1nLTJzaGpmMW5pWkZyRWY3c3I5YnJtMlZ2OFo4TTlZTnJTTnRlUmpRRnFmcnB3S1U0bmx6N0k0LVp5YUFqX2tJeUZxX3Y1YjJIOTN2YWFSbi14ZzJ4THhoTG9XMi1WenpMd1dwTVhGYnFrWlRZTF9MSG15d2dpUE9uQUlDbmNtY0E4YVNmOU1jdnVudnU4aWhIWjlPRnNMdUU?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD-İran çatışmalarında aracılık çabaları petrol fiyatlarındaki düşüşü kısıtlıyor; küresel enerji piyasaları gerilim altında.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T03:01:01.778323+00:00",
+  "type": "news",
+  "cluster_id": "cb541a9571d1e"
+ },
+ {
+  "title": "US soldiers killed by Iran were from Texas and Hawaii, military says",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPelNiSUdhbjhraUJ2RmhZbDN4eDJydVAzdnZJODRIYnhpS3dVUjBFYW9IU01TWHlUdzZERFBMOHl5a1E1XzRYRlpmdGpkaGlDYzFMODNmU053X3JGeE9HVjB4bUdXcXJ6ZzdzdHd6d0oySkJIbEdOdGp5QkVNaGFSMGpFNDM5TEZWdjM0NmJKcFRPYmFfRDdROC0yS2tqcl9aVXc?oc=5",
+  "source": "AP",
+  "summary_tr": "İran tarafından öldürülen ABD askerlerinin Teksas ve Hawaii'den olduğu açıklandı; ABD-İran gerilimi devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-21T03:01:01.778323+00:00",
+  "type": "news",
+  "cluster_id": "c236dfddba44e"
+ },
+ {
   "title": "Varlık barışı ile ‘gri liste’ arasında bağlantı yokmuş: Şimşek’in içi rahat",
   "link": "https://www.cumhuriyet.com.tr/turkiye/varlik-barisi-ile-gri-liste-arasinda-baglanti-yokmus-simsek-in-ici-rahat-2522418",
   "source": "Cumhuriyet",
@@ -58472,25 +58496,5 @@
   "score": 7,
   "ts": "2026-06-07T10:01:00.724499+00:00",
   "cluster_id": "cb6a4e6ee1526"
- },
- {
-  "title": "Uzmanlar haziran sonu için uyardı Petrolde dünyayı sarsacak tehlike kapıda: Rezervler tükeniyor",
-  "link": "https://www.sozcu.com.tr/uzmanlar-haziran-sonu-icin-uyardi-petrolde-dunyayi-sarsacak-tehlike-kapida-rezervler-tukeniyor-p325917",
-  "source": "Sözcü",
-  "summary_tr": "Uzmanlar, İran savaşı ve Hürmüz Boğazı kapatılması riskinin haziran sonu için küresel enerji krizini tetikleyebileceğini uyardı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-07T10:01:00.724499+00:00",
-  "cluster_id": "cbedbad1a3b8e"
- },
- {
-  "title": "Işık Üniversitesi’nin ‘butlan’ araştırması: Özel ve Yavaş’ın yeni partisi yüzde 37 ile AKP’yi geçiyor, Kılıçdaroğlu’nun CHP’si baraj altı kalıyor",
-  "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUjNTcUxxRFFfTU11UVBLMGVYMV80OGZtR2hlbDJ6NEhxcDZGdWZjYnJQdUI2RUxHZWcxOGFtS2IzOXZqbjktS2tSVnp6bHVUMlJSRTJkRGVNMUtMYVo0T28xNlQ4RXFMdFg1UnBUbjduSDJSUWd2S3NKNEI3T2xyTEFmZF9scUlLWWtCVDdfNXJsN0k0akY3d05VNFI0YUpLRS1oZmpnRDVabUJXeldIcWkwVTRYc05oQm9DRzJGZTRIRWtZYThFN1E4aWNKaHNrY3hpSXJNWjZmMWVmWE4zay1wcWxBa0p3R3F2OEtRZnhpTFJjaEZ3TTRNVVYwaWs?oc=5",
-  "source": "T24",
-  "summary_tr": "Işık Üniversitesi araştırması: Özel ve Yavaş'ın yeni partisi yüzde 37 ile AKP'yi geçiyor, Kılıçdaroğlu'nun CHP'si baraj altı kalıyor.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-07T10:01:00.724499+00:00",
-  "cluster_id": "c0091262078fc"
  }
 ]
