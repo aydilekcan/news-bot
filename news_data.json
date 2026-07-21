@@ -1,5 +1,125 @@
 [
  {
+  "title": "Trump, İran savaşının bilançosunu açıkladı: 18 asker öldü",
+  "link": "https://www.sozcu.com.tr/donald-trump-abd-asker-bilanco-p338582",
+  "source": "Sözcü",
+  "summary_tr": "ABD Başkanı Trump, Orta Doğu'da İran ile devam eden savaşta 18 Amerikan askerinin hayatını kaybettiğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-21T22:01:14.771473+00:00",
+  "type": "news",
+  "cluster_id": "c32878c755803"
+ },
+ {
+  "title": "İran'dan ABD'ye \"Nükleer santrallere saldırı\" uyarısı",
+  "link": "https://www.aa.com.tr/tr/live-blog/dakika-dakika-gelismeler-abdnin-irana-yonelik-saldirilari-ve-iran-in-misillemeleri/5754",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran, ABD'ye nükleer santrallere saldırı düzenlenebileceği uyarısında bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-21T22:01:14.771473+00:00",
+  "type": "news",
+  "cluster_id": "c5440750958d3"
+ },
+ {
+  "title": "NATO tutuklamaları: Emel Memiş ve altı TEMA gönüllüsü hakkında tahliye kararı",
+  "link": "https://www.diken.com.tr/nato-tutuklamalari-emel-memis-ve-alti-tema-gonullusu-hakkinda-tahliye-karari/?utm_source=rss&utm_medium=rss&utm_campaign=nato-tutuklamalari-emel-memis-ve-alti-tema-gonullusu-hakkinda-tahliye-karari",
+  "source": "Diken",
+  "summary_tr": "NATO zirvesi öncesi tutuklanan Emel Memiş ve 6 TEMA gönüllüsü hakkında tahliye kararı verildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-21T22:01:14.771473+00:00",
+  "type": "news",
+  "cluster_id": "c3bf0adb1141a"
+ },
+ {
+  "title": "Eskişehir'de TUSAŞ'ın kritik tesisinde yangın: ekipler bölgede!",
+  "link": "https://www.sozcu.com.tr/eskisehir-tei-de-yangin-p338563",
+  "source": "Sözcü",
+  "summary_tr": "Eskişehir'de TUSAŞ Motor Sanayii (TEI) yerleşkesindeki kritik tesiste yangın çıktı; çalışanlar tahliye edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T22:01:14.771473+00:00",
+  "type": "news",
+  "cluster_id": "cbf498076f217"
+ },
+ {
+  "title": "ABD Savunma Bakanı Hegseth, İran'la savaşın maliyetinin \"37,5 milyar dolara ulaştığını\" belirtti",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-savunma-bakani-hegseth-iranla-savasin-maliyetinin-37-5-milyar-dolara-ulastigini-belirtti/4005246",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Savunma Bakanı Hegseth, İran ile devam eden savaşın maliyetinin 37,5 milyar dolara ulaştığını açıkladı.",
+  "metric": "Savaş maliyeti: 37,5 milyar dolar",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T22:01:14.771473+00:00",
+  "type": "news",
+  "cluster_id": "c44d568d8de36"
+ },
+ {
+  "title": "Eskişehir'de TEI yerleşkesinde çıkan yangına müdahale ediliyor",
+  "link": "https://www.aa.com.tr/tr/gundem/eskisehirde-tei-yerleskesinde-cikan-yangina-mudahale-ediliyor/4005234",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Eskişehir'de TUSAŞ Motor Sanayii AŞ (TEI) yerleşkesinde çıkan yangına müdahale devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T22:01:14.771473+00:00",
+  "type": "news",
+  "cluster_id": "c3c63c4cdb74b"
+ },
+ {
+  "title": "ABD: Ä°ran'la savaÅŸÄ±n maliyeti 37,5 milyar dolara ulaÅŸtÄ±",
+  "link": "https://www.trthaber.com/haber/dunya/abd-iranla-savasin-maliyeti-375-milyar-dolara-ulasti-951829.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Savunma Bakanı Hegseth, İran ile savaşın maliyetinin 37,5 milyar dolara ulaştığını belirtti.",
+  "metric": "Savaş maliyeti: 37,5 milyar dolar",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T22:01:14.771473+00:00",
+  "type": "news",
+  "cluster_id": "c538f14254ec5"
+ },
+ {
+  "title": "Özgür Özel’in yeni partiyi ilanı sonrası Zeydan Karalar tercihini yaptı",
+  "link": "https://www.sozcu.com.tr/ozgur-ozel-in-yeni-partiyi-ilani-sonrasi-zeydan-karalar-tercihini-yapti-p338571",
+  "source": "Sözcü",
+  "summary_tr": "CHP Genel Başkanı Özgür Özel'in yeni parti ilanı sonrası CHP'den istifalar başladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-21T22:01:14.771473+00:00",
+  "type": "news",
+  "cluster_id": "c9ce5474e0bfa"
+ },
+ {
+  "title": "Trump ile görüşen Lübnan Cumhurbaşkanı Avn: İsrail'in Lübnan'dan tamamen çekilmesi istikrar için temel adım",
+  "link": "https://www.aa.com.tr/tr/dunya/trump-ile-gorusen-lubnan-cumhurbaskani-avn-israilin-lubnandan-tamamen-cekilmesi-istikrar-icin-temel-adim/4005258",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Lübnan Cumhurbaşkanı Avn, Trump ile görüşmesinde İsrail'in Lübnan'dan tamamen çekilmesinin istikrar için temel adım olduğunu belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-21T22:01:14.771473+00:00",
+  "type": "news",
+  "cluster_id": "c869c692de260"
+ },
+ {
+  "title": "Trump says US-Lebanon flights can resume, pledges help for that country after meeting its president",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM0dLUVFUSUI0cG1faEJlMDl1ZVBEb2NZWFN5Z2REZThIRktHbDhpUVJ5UzlwTDNEUE4taWFpTXlSQTRLNzdhS25rN0JzS1lkSkMxUDZGMGszSFl1QlBuWWEzdXF3eWVyTGFYLS1jNlBoOUd2aWMxazVrNUQwMWlvU2d5QllFU2xQSUZpdjNJc3RaVjBpellDSVdpWk5xc3UyVTIxcS1UTmM?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump, ABD-Lübnan uçuşlarının devam edebileceğini açıkladı ve Lübnan'a yardım sözü verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-21T22:01:14.771473+00:00",
+  "type": "news",
+  "cluster_id": "c6c9dc0bf6325"
+ },
+ {
   "title": "Trump, Ä°ran'la savaÅŸta 18 ABD askerinin Ã¶ldÃ¼ÄŸÃ¼nÃ¼ aÃ§Ä±kladÄ±",
   "link": "https://www.trthaber.com/haber/dunya/trump-iranla-savasta-18-abd-askerinin-oldugunu-acikladi-951827.html",
   "source": "TRT Haber",
@@ -58732,105 +58852,5 @@
   "score": 7,
   "ts": "2026-06-08T10:01:14.281066+00:00",
   "cluster_id": "c2e2e326226d8"
- },
- {
-  "title": "NATO jetleri Letonya hava sahasında Rus İHA'sı düşürdü",
-  "link": "https://www.dw.com/tr/nato-jetleri-letonya-hava-sahasında-rus-iha-sı-düşürdü/a-77456238?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "NATO misyonundaki Fransız savaş uçakları, Rusya'dan Letonya'ya giren İHA'yı vurdu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T10:01:14.281066+00:00",
-  "cluster_id": "c820a1d23bba8"
- },
- {
-  "title": "Son Dakika... Kemal Kılıçdaroğlu, CHP Parti Meclisi’ni toplantıya çağırdı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-kemal-kilicdaroglu-chp-parti-meclisi-ni-toplantiya-cagirdi-2510355",
-  "source": "Cumhuriyet",
-  "summary_tr": "Mahkemenin 'mutlak butlan' kararıyla CHP Genel Başkanlığına atanan Kemal Kılıçdaroğlu, Parti Meclisi'ni 11 Haziran'da toplantıya çağırdı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T10:01:14.281066+00:00",
-  "cluster_id": "cb5427a6ac128"
- },
- {
-  "title": "Kılıçdaroğlu CHP Parti Meclisi'ni toplantıya çağırdı",
-  "link": "https://www.sozcu.com.tr/kilicdaroglu-chp-parti-meclisi-ni-toplantiya-cagirdi-p326151",
-  "source": "Sözcü",
-  "summary_tr": "Mahkemenin 'mutlak butlan' kararıyla CHP Genel Başkanlığına atanan Kemal Kılıçdaroğlu, Parti Meclisi'ni 11 Haziran'da toplantıya çağırdı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-08T10:01:14.281066+00:00",
-  "cluster_id": "cb5427a6ac128"
- },
- {
-  "title": "Yapay zeka, enerji, çip... AB yabancı yatırımları mercek altına aldı",
-  "link": "https://www.sozcu.com.tr/yapay-zeka-enerji-cip-ab-yabanci-yatirimlari-mercek-altina-aldi-p326150",
-  "source": "Sözcü",
-  "summary_tr": "Avrupa Birliği, savunma, yapay zeka, enerji gibi stratejik sektörlerdeki yabancı yatırımları daha sıkı denetimden geçirecek.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T10:01:14.281066+00:00",
-  "cluster_id": "c0eab45a394b6"
- },
- {
-  "title": "AB, stratejik sektörlerdeki yabancı yatırımları sıkı denetimden geçirecek",
-  "link": "https://www.aa.com.tr/tr/ekonomi/ab-stratejik-sektorlerdeki-yabanci-yatirimlari-siki-denetimden-gecirecek/3960185",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Avrupa Birliği, savunma, yarı iletkenler, yapay zeka, enerji ve kritik ham maddeler gibi stratejik sektörlerdeki yabancı yatırımları sıkı denetimden geçirecek.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T10:01:14.281066+00:00",
-  "cluster_id": "c1cf044d00591"
- },
- {
-  "title": "İsrail, cezaevlerindeki Filistinli tutukluların avukatları ile görüşmelerini iptal etti",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-cezaevlerindeki-filistinli-tutuklularin-avukatlari-ile-gorusmelerini-iptal-etti/3960136",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail, güvenlik durumu gerekçesiyle cezaevlerindeki Filistinli tutukluların avukat ziyaretlerini iptal etti.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-08T10:01:14.281066+00:00",
-  "cluster_id": "cef2c5cbb7a9c"
- },
- {
-  "title": "Paşinyan: Halk barışa sahip çıktı",
-  "link": "https://www.trthaber.com/haber/dunya/pasinyan-halk-barisa-sahip-cikti-947517.html",
-  "source": "TRT Haber",
-  "summary_tr": "Ermenistan Başbakanı Nikol Paşinyan, parlamento seçimlerinde halkın barışa sahip çıktığını açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T10:01:14.281066+00:00",
-  "cluster_id": "c8a412a6c0ed2"
- },
- {
-  "title": "Şi Cinping Kuzey Kore’de: Dostluk ziyareti mi, nüfuz yarışı mı?",
-  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FNExISUhCSW1WUExCaDdxN0Mxa2tUajFNNlFRN1lNQW9vMmlNVG5Qcldxd3ZneDZXYVNoQWd3ZGFYNFFWWGd0bkdES1NLa0U1TUx4T25nLVRrZ2otV2M4bS1jSWVVWDIxZ1A3OXFrTDFHZXNyTzRJbjRB?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Çin Lideri Şi Cinping, Kuzey Kore'yi ziyaret etti; Pekin-Pyongyang ilişkilerinde stratejik gelişme.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T10:01:14.281066+00:00",
-  "cluster_id": "c89e0c208165a"
- },
- {
-  "title": "Intesa launches $35 billion Monte dei Paschi bid in record Italian banking deal",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbWpYYW9Lci1OMkt0TU5FdU9ROFdYQUdEbE5OcU9EMG8xTUluNjd1UkRKeUpId0pxWjVYSWpWZkpheTlfSU9rUGZzTTk2Q1dzUnZ4cjhVSXM0QllKN1RGTnpMR2Z3cUc1NnJ5aUdZZ01OVW9EbHpkTUg5bm5BRWE4czZDMnBNVjdaM29aV3FybjdOcFN6UWZsNnNnQVkzdTdkZE9uYQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Intesa, Monte dei Paschi için 35 milyar dolarlık teklif sundu; İtalyan bankacılık tarihinin en büyük anlaşması.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T10:01:14.281066+00:00",
-  "cluster_id": "c15942a7b99d7"
- },
- {
-  "title": "Edirneli buğday üreticisinden TMO’ya fiyat tepkisi: 'Çiftçinin ekmeğiyle, alın teriyle oynamayın'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/edirneli-bugday-ureticisinden-tmo-ya-fiyat-tepkisi-ciftcinin-ekmegiyle-alin-teriyle-oynamayin-2510358",
-  "source": "Cumhuriyet",
-  "summary_tr": "Tarım Mahsulleri Ofisi'nin buğday alım fiyatı kararına çiftçilerden tepki geldi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-08T10:01:14.281066+00:00",
-  "cluster_id": "c9979dc1ac154"
  }
 ]
