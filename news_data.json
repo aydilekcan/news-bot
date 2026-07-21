@@ -1,5 +1,41 @@
 [
  {
+  "title": "ABD basını 'gizleniyor' iddiası üzerine ABD savaştaki kayıplarını açıkladı",
+  "link": "https://www.sozcu.com.tr/abd-basini-gizleniyor-iddiasi-uzerine-abd-savastaki-kayiplarini-acikladi-p338300",
+  "source": "Sözcü",
+  "summary_tr": "Pentagon, ABD'nin İran'a yönelik hava saldırılarından bu yana yaşanan çatışmalarda yaklaşık 100 askerini kaybettiğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T06:01:02.805115+00:00",
+  "type": "news",
+  "cluster_id": "c46bf2fda98e9"
+ },
+ {
+  "title": "US military completes its latest strikes on Iran, marking the 10th successive night of attacks",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWjlJZGJYNm5OYjczNWZJZkMxZGFGRFRJSHVGZjFaMS1KTkNfUTgzV2Y3Qk5VU0RDR0ZXOXBBUldobElBb0hRV2Y5MmlkR0pVNkNlN3RESGlzUlY2bnFBUFNJN3JaVmpyR3RzVkt0QTRVcklEQm05cmNIaUIyQkVJeWtzbi1sSk9XeFZpaURvUU1rM2hJLTMxcGJZa0RzdDFUcV8zdkNuQndVay0yYUc1Q3piMThnS2M2Wm1GMGNVREcxejFLNWxEcw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD ordusu İran'a yönelik ardı ardına 10. gece saldırılarını tamamladı; çatışmalar devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T06:01:02.805115+00:00",
+  "type": "news",
+  "cluster_id": "c0fe8499f7999"
+ },
+ {
+  "title": "İran: Hürmüz Boğazı'nda 2 petrol tankerinde patlama yaşandı",
+  "link": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazinda-2-petrol-tankerinde-patlama-yasandi-951747.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran basınına göre Hürmüz Boğazı'nda 2 petrol tankerinde patlama yaşandı; bölge enerji güvenliği açısından kritik öneme sahip.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-21T06:01:02.805115+00:00",
+  "type": "news",
+  "cluster_id": "c5252f3a18952"
+ },
+ {
   "title": "Motorin 74 TL'yi aştı: Savaş ve arz krizi pompaya yansıyor",
   "link": "https://www.dw.com/tr/motorin-74-tl-yi-aştı-savaş-ve-arz-krizi-pompaya-yansıyor/a-78039168?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -58484,35 +58520,5 @@
   "score": 6,
   "ts": "2026-06-07T12:01:06.231895+00:00",
   "cluster_id": "c1bf8f34c7763"
- },
- {
-  "title": "Sudan, Türkiye ile enerji işbirliğini yeniden canlandırarak geliştirmeyi hedefliyor",
-  "link": "https://www.aa.com.tr/tr/ekonomi/sudan-turkiye-ile-enerji-isbirligini-yeniden-canlandirarak-gelistirmeyi-hedefliyor/3958961",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Sudan, ülkenin yeniden inşası sürecinde Türkiye ile enerji işbirliğini canlandırmayı hedeflediğini belirtti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-07T12:01:06.231895+00:00",
-  "cluster_id": "c272032b1f435"
- },
- {
-  "title": "Milli yazılım F16'ların görev kabiliyetini artıracak",
-  "link": "https://www.trthaber.com/haber/savunma/milli-yazilim-f-16larin-gorev-kabiliyetini-artiracak-947438.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye'nin milli yazılımı F-16 uçaklarının yeteneklerini yerli aviyonik kabiliyetlerle artıracak.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-07T12:01:06.231895+00:00",
-  "cluster_id": "c771144f5e458"
- },
- {
-  "title": "Türkiyeden 4 ayda 195 milyon dolarlık limon ihracatı",
-  "link": "https://www.trthaber.com/haber/ekonomi/turkiyeden-4-ayda-195-milyon-dolarlik-limon-ihracati-947434.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye, 2026 yılının ocak-nisan döneminde limon ihracatından 195 milyon dolar gelir elde etti, yüzde 18 artış kaydetti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-07T12:01:06.231895+00:00",
-  "cluster_id": "ce74eff1afebb"
  }
 ]
