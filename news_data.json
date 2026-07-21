@@ -1,5 +1,53 @@
 [
  {
+  "title": "Russian President Putin meets with North Korean foreign minister in latest high-level diplomacy",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU2hmdF83T1YtSFB5VXB0ZTJLS01yY3RWREZiN28tMWhYUGhvRUY5MzBZQXpVZmRlWWdfMzNQemk3eVpYREVhLUx5QV9RMDZsWkVrMUZIY3NmbzAyQm5QUGRxOXFyQnlTdWt5QVlJdGdPLWJ5WTgtOWlwTGM5RFBrb050Q1ZYcjhhSHpUVTZmTVpMYjZ1NE1wV1NTUFE?oc=5",
+  "source": "AP",
+  "summary_tr": "Putin, Kuzey Kore Dışişleri Bakanı ile üst düzey diplomasi görüşmesi gerçekleştirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-21T00:01:02.228939+00:00",
+  "type": "news",
+  "cluster_id": "cde33448acf42"
+ },
+ {
+  "title": "Katar, İran’ın saldırılarına ilişkin BM ve BM Güvenlik Konseyi’ne mektup gönderdi",
+  "link": "https://www.aa.com.tr/tr/dunya/katar-iran-in-saldirilarina-iliskin-bm-ve-bm-guvenlik-konseyi-ne-mektup-gonderdi/4004171",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Katar, İran'ın toprak saldırılarını BM Genel Sekreteri ve Güvenlik Konseyi'ne şikayet etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T00:01:02.228939+00:00",
+  "type": "news",
+  "cluster_id": "c5d2798a24d60"
+ },
+ {
+  "title": "ABD, Kanada'dan ithal edilen bazı mallara yüzde 50 oranında gümrük vergisi getiriyor",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-kanadadan-ithal-edilen-bazi-mallara-yuzde-50-oraninda-gumruk-vergisi-getiriyor/4004170",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD, Kanada'dan ithal edilen mallara %50 gümrük vergisi uygulamaya başladı.",
+  "metric": "Gümrük vergisi oranı: %50",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T00:01:02.228939+00:00",
+  "type": "news",
+  "cluster_id": "c610ee7a6b046"
+ },
+ {
+  "title": "ABD yönetiminden alüminyum yatırımlarını teşvik için yeni ithalat düzenlemesi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abd-yonetiminden-aluminyum-yatirimlarini-tesvik-icin-yeni-ithalat-duzenlemesi/4004175",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, alüminyum ithalatına yönelik yeni gümrük düzenlemesi getirerek sektöre teşvik sağlayacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-21T00:01:02.228939+00:00",
+  "type": "news",
+  "cluster_id": "c56bebc595da4"
+ },
+ {
   "title": "İran basını: İsfahan, Şiraz ve Bender Lenge'de patlama sesi duyuldu",
   "link": "https://www.trthaber.com/haber/dunya/iran-basini-isfahan-siraz-ve-bender-lengede-patlama-sesi-duyuldu-951736.html",
   "source": "TRT Haber",
@@ -58436,45 +58484,5 @@
   "score": 6,
   "ts": "2026-06-07T10:01:00.724499+00:00",
   "cluster_id": "c9b74dc90b445"
- },
- {
-  "title": "OPEC+ set for fourth oil quota hike since Hormuz closure, sources say",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWZrV2dPZ2xjY0NWT0lIUFVNeUlJZ1I5V3BsdkU0X01tWFVHLWZWTVBQN0pHeHNGZF9fS01BY2RrbWtLWFcyazR0bVNOWERwQVFBYjhHMFNZYW5XWHNRM2VWZUU2aFpTd3IzRGhiVUZHNUJsbWlCb19CX19SUG5DOXozd1cyak1RdUFhS0FtaUYxMG5xNGtfYW9idFhNWGRUd25PeUFYTWJJWVhqeS1lNUJHS3pCUQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "OPEC+ Hürmüz'deki kapatılma sonrası dördüncü kez petrol üretim kotasını yükseltmeye hazırlanıyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-07T09:01:04.193420+00:00",
-  "cluster_id": "c13ed584ab3a4"
- },
- {
-  "title": "Rus İHA'sının Çernobil yakınlarında nükleer yakıt depolama tesisini vurduğu iddia edildi",
-  "link": "https://www.cumhuriyet.com.tr/dunya/rus-iha-sinin-cernobil-yakinlarinda-nukleer-yakit-depolama-tesisini-vurdugu-iddia-edildi-2510071",
-  "source": "Cumhuriyet",
-  "summary_tr": "Ukrayna, Rusya'nın insansız hava aracının Çernobil yakınlarındaki nükleer yakıt depolama tesisini vurduğunu iddia etti.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-07T09:01:04.193420+00:00",
-  "cluster_id": "c37c86d7f5b57"
- },
- {
-  "title": "Tayvan Boğazı'nda tansiyon yükseliyor: Çin 'özel operasyon' başlattı",
-  "link": "https://www.cumhuriyet.com.tr/dunya/tayvan-bogazi-nda-tansiyon-yukseliyor-cin-ozel-operasyon-baslatti-2510065",
-  "source": "Cumhuriyet",
-  "summary_tr": "Çin Donanması Tayvan Boğazı'nda özel deniz operasyonu başlattı; bölgede gerilim yükseliyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-07T09:01:04.193420+00:00",
-  "cluster_id": "c8d68c0fa58f5"
- },
- {
-  "title": "İstanbul Boğazı'nda gemi trafiği askıya alındı",
-  "link": "https://www.aa.com.tr/tr/gundem/istanbul-bogazinda-gemi-trafigi-askiya-alindi/3958951",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İstanbul Boğazı'nda gemi trafiği çift yönlü askıya alındı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-07T09:01:04.193420+00:00",
-  "cluster_id": "c23321470ed52"
  }
 ]
