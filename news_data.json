@@ -1,5 +1,41 @@
 [
  {
+  "title": "Trump imposes 50% tariffs on Canadian goods, citing disputes over autos, alcohol and cheese",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTVJzOTFERXBSclRBTElQM0l6VzlJV092REdRYkdyeFJRZVgwVzBhSEQ3NFItdWh6SGxCZnp1TFFqQzFyZnFzd21jSlpReEZDZ2lOVm51cV9GalNodHFyb0FsUC1kVy0tMFZUQ19hU2x6RDhYTHBWVDZlOXRUOWhXV2NQek1ONzVYblNGM3lIUDdVUnBnaEEzNmxMalV5NVdGX2c4UkJ3?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump, Kanada'ya otomobil, alkol ve peynir ticareti anlaşmazlıkları nedeniyle %50 tarife uyguladı.",
+  "metric": "Kanada malları tarifi: %50",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-21T01:01:02.869461+00:00",
+  "type": "news",
+  "cluster_id": "c564ed9af0443"
+ },
+ {
+  "title": "Türk gemisine ‘Rus’ saldırısında 10 kişi öldü: Dışişleri ve Rusya sessiz",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/turk-gemisine-rus-saldirisinda-10-kisi-oldu-disisleri-ve-rusya-sessiz-2522414",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ukrayna, Rusya'nın Odessa limanından ayrılan tahıl gemisini hedef aldığını iddia etti; gemide 10 kişi öldü.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-21T01:01:02.869461+00:00",
+  "type": "news",
+  "cluster_id": "cb14a6cf64984"
+ },
+ {
+  "title": "Emekli dururken Toki, Mekkeli zenginlere koştu",
+  "link": "https://www.sozcu.com.tr/emekli-dururken-toki-mekkeli-zenginlere-kostu-p338257",
+  "source": "Sözcü",
+  "summary_tr": "Emlak Konut, Mekke'de 1.014 adetlik lüks proje duyurdu; emeklilerin sosyal yardım kesintilerine karşı eleştiri.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-21T01:01:02.869461+00:00",
+  "type": "news",
+  "cluster_id": "c02451d314629"
+ },
+ {
   "title": "Russian President Putin meets with North Korean foreign minister in latest high-level diplomacy",
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU2hmdF83T1YtSFB5VXB0ZTJLS01yY3RWREZiN28tMWhYUGhvRUY5MzBZQXpVZmRlWWdfMzNQemk3eVpYREVhLUx5QV9RMDZsWkVrMUZIY3NmbzAyQm5QUGRxOXFyQnlTdWt5QVlJdGdPLWJ5WTgtOWlwTGM5RFBrb050Q1ZYcjhhSHpUVTZmTVpMYjZ1NE1wV1NTUFE?oc=5",
   "source": "AP",
@@ -58454,35 +58490,5 @@
   "score": 6,
   "ts": "2026-06-07T10:01:00.724499+00:00",
   "cluster_id": "ccd31bf570a88"
- },
- {
-  "title": "Van Bahçesaray'da çiftçiler, artan akaryakıt fiyatı nedeniyle sabana dönüş yaptı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/van-bahcesaray-da-ciftciler-artan-akaryakit-fiyati-nedeniyle-sabana-donus-yapti-2510076",
-  "source": "Cumhuriyet",
-  "summary_tr": "Van Bahçesaray çiftçileri, motorin fiyatlarının artışı nedeniyle üretimde eski yöntemlere döndü.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-07T10:01:00.724499+00:00",
-  "cluster_id": "c483e7895f1fb"
- },
- {
-  "title": "Müsavat Dervişoğlu'ndan 'Özgür Özel'e operasyon' iddialarına: 'Böyle bir hamle büyük sıkıntılar yaşatır'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/musavat-dervisoglu-ndan-ozgur-ozel-e-operasyon-iddialarina-boyle-bir-hamle-buyuk-sikintilar-yasatir-2510074",
-  "source": "Cumhuriyet",
-  "summary_tr": "İYİ Parti Genel Başkanı Müsavat Dervişoğlu, CHP'ye yönelik operasyonların Özgür Özel'e uzanmaması gerektiğini söyledi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-07T10:01:00.724499+00:00",
-  "cluster_id": "c7ae6d9e4255e"
- },
- {
-  "title": "Ermenistan sandık başına gidiyor: Seçimin gölgesinde Rusya-Batı gerilimi",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcVctSXhsOFFoZEQwaHFzcTRNa3pTSGtTaVdVSTlmRHBGSEZib0twNzYyYU9lRTd3TU5sX0JMTmVjTWxoNTNReF9WdGRMenZWQVA1THdQYmxRREhMc0FlUWJXaTFhQ0Y5aU85a1BLVnpjQjJDU0ZCU1FKM1p1SU5zbU90SVhBcWFEcUVPVXcyalhaTkVuUUVLVWVfRkQ5WmhOXzFkMjZUNEVveE9KTXc?oc=5",
-  "source": "soL",
-  "summary_tr": "Ermenistan seçimlere gidiyor; seçimin gölgesinde Rusya-Batı gerilimi yaşanıyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-07T10:01:00.724499+00:00",
-  "cluster_id": "c9b74dc90b445"
  }
 ]
