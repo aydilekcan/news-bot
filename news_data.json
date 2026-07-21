@@ -1,5 +1,137 @@
 [
  {
+  "title": "Financial Times duyurdu: Trump, yeni gümrük tarifeleri getirmeye hazırlanıyor",
+  "link": "https://www.sozcu.com.tr/financial-times-duyurdu-trump-yeni-gumruk-tarifeleri-getirmeye-hazirlaniyor-p338429",
+  "source": "Sözcü",
+  "summary_tr": "ABD Başkanı Trump, cuma günü sona erecek geçici %10 gümrük tarifesinden önce onlarca ülkeye yeni gümrük tarifeleri getirmeye hazırlanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-21T11:01:08.292178+00:00",
+  "type": "news",
+  "cluster_id": "c2f511dc095b8"
+ },
+ {
+  "title": "Numan Kurtulmuş'tan 'Çerçeve Yasa' turu: Bahçeli'yi ziyaret etti, Kılıçdaroğlu görüşmesi saat 16'da",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/numan-kurtulmus-tan-cerceve-yasa-turu-bahceli-yi-ziyaret-etti-kilicdaroglu-gorusmesi-saat-16-da-2522625",
+  "source": "Cumhuriyet",
+  "summary_tr": "TBMM Başkanı Numan Kurtulmuş, 'Terörsüz Türkiye' sürecinde hazırlanan 'Çerçeve Yasa' çalışmaları kapsamında MHP ve CHP liderlerini ziyaret etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T11:01:08.292178+00:00",
+  "type": "news",
+  "cluster_id": "c76dcdfd6a8de"
+ },
+ {
+  "title": "Et ve tavuktan daha fazla protein içeriyor: Hem de çok daha ucuz",
+  "link": "https://www.sozcu.com.tr/et-ve-tavuktan-daha-fazla-protein-iceriyor-hem-de-cok-daha-ucuz-p338427",
+  "source": "Sözcü",
+  "summary_tr": "Beslenme uzmanları, et ve tavuk fiyatlarının artması nedeniyle daha ucuz proteince zengin alternatif gıdaları tavsiye ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T11:01:08.292178+00:00",
+  "type": "news",
+  "cluster_id": "c68362c96113a"
+ },
+ {
+  "title": "İki Avrupa ülkesi kafa kafaya verdi: 2.000 km öteden hedefi parçalayacak",
+  "link": "https://www.sozcu.com.tr/iki-avrupa-ulkesi-kafa-kafaya-verdi-2-000-km-oteden-hedefi-parcalayacak-p338423",
+  "source": "Sözcü",
+  "summary_tr": "İngiltere ve Almanya, Rusya tehdidine karşı 2.000 km menzilli savunma sistemini geliştirmek için işbirliği yapıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T11:01:08.292178+00:00",
+  "type": "news",
+  "cluster_id": "c5eb17ee0befc"
+ },
+ {
+  "title": "WP: ABD, İran'a saldırıların genişletilmesi konusunda \"kısıtlamalarla\" karşı karşıya",
+  "link": "https://www.aa.com.tr/tr/dunya/wp-abd-irana-saldirilarin-genisletilmesi-konusunda-kisitlamalarla-karsi-karsiya/4004596",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Washington Post'a göre ABD, İran'a yönelik hava saldırılarının kapsamını genişletme konusunda kaynak yetersizliği nedeniyle kısıtlamalarla karşı karşıya.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T11:01:08.292178+00:00",
+  "type": "news",
+  "cluster_id": "ce04f2eee6bd0"
+ },
+ {
+  "title": "Rusya: Ukrayna'nın Belgorod bölgesine düzenlediği saldırılarda 8 kişi öldü",
+  "link": "https://www.aa.com.tr/tr/dunya/rusya-ukraynanin-belgorod-bolgesine-duzenledigi-saldirilarda-8-kisi-oldu/4004556",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Rusya, Ukrayna'nın Belgorod bölgesine düzenlediği saldırılarda 8 kişinin hayatını kaybettiğini bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T11:01:08.292178+00:00",
+  "type": "news",
+  "cluster_id": "c2463ea49b3bf"
+ },
+ {
+  "title": "Elektrik ve elektronik ihracatı 6 ayda rekor kırdı",
+  "link": "https://www.trthaber.com/haber/ekonomi/elektrik-ve-elektronik-ihracati-6-ayda-rekor-kirdi-951781.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye'nin elektrik ve elektronik sektörü, ocak-haziran döneminde geçen yıla kıyasla %9,8 artışla 9,1 milyar dolarlık ihracat gerçekleştirdi.",
+  "metric": "Elektrik-elektronik ihracatı (6 ay) +%9,8 artış (9,1 milyar dolar)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T11:01:08.292178+00:00",
+  "type": "news",
+  "cluster_id": "cfcd85204db48"
+ },
+ {
+  "title": "Iranian forces target Bahrain and Kuwait after US hits Iran's south",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0Jlc0k2UzBpUjR0R3ZWd2NKVzZVM2F6azd0VWk0WlYySWhpTU8zc2V2NTVWc3hWRzBYSUk2LXNTSzhoUnF1VUotZ1FhdTlMVE53TmtEUllYSThLU3hSU3hIRGRxZHFoaFZXM2VReGdxNGVVcGVOYXh4NTcwdHBpWkZqLWtCTHhOdjFIbWhJcExkcUo3amxFa0x3N3VadTVqbXh2LUxQYXV1Y05IM0N4QlVlUjNmWHM?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran, ABD'nin İran'a karşı hava saldırısı sonrasında Bahreyn ve Kuveyt'i hedef alan operasyonlar başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T11:01:08.292178+00:00",
+  "type": "news",
+  "cluster_id": "cb6608f476a86"
+ },
+ {
+  "title": "Euro zone banks tighten credit access on war fears",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUnZCTEdpTzdNc3hPTDRkMTIzYUlFcTdVSXJDR0FFM2x3SlZfZko1VkVfUVV2RFpfd0pLUWpwQVBCZXpJSzNTekgyMTNnOUVGUkhhOWpwTjVwS0owQm9ZbnRra0hyUWZiekxpSjk4TTlhUzhGOHJnazRHM1JKQ3Nvc0FFN0R3MGY2VnBydTBmYkNHV1AzT3ptZTlLRjBOLXY5Y2c?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Avrupa bankası savaş endişeleri nedeniyle kredi erişimini sıkılaştırıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T11:01:08.292178+00:00",
+  "type": "news",
+  "cluster_id": "ca82a7c303b25"
+ },
+ {
+  "title": "TBMM Başkanı Kurtulmuş, MHP Genel Başkanı Bahçeli'yi ziyaret etti",
+  "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-mhp-genel-baskani-bahceliyi-ziyaret-etti/4004564",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "TBMM Başkanı Numan Kurtulmuş, MHP Genel Başkanı Devlet Bahçeli ile görüştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-21T11:01:08.292178+00:00",
+  "type": "news",
+  "cluster_id": "cb72747e1e696"
+ },
+ {
+  "title": "Israeli airstrike kills family of six in Gaza, medics say",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRGFadURkNU0yOE16SU5UM2piR2NaQng1X0tKaDJzZUFwNUJRLXRHLTZnNUtJQ1dVVWtlXy1TQ21RMS1sNmF3SGFYRVNfbUNYSE1wZGpNcVowZnNDbEt4VE16Y013Sk9UdTdhUTlVeTNoUDBhVTBEZnV2bWxCb3lORXJMYS1oMGJMM3VOSExXWU05RjVoeFJ0amd6OVRKamlkOUN0bk16MA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İsrail'in Gaza'da düzenlediği hava saldırısında bir aile altı kişi öldürüldü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-21T11:01:08.292178+00:00",
+  "type": "news",
+  "cluster_id": "cefc31dbf48e5"
+ },
+ {
   "title": "Fitch’ten Türkiye uyarısı: Enflasyon kırılgan, dış finansman ihtiyacı yüksek",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/fitch-ten-turkiye-uyarisi-enflasyon-kirilgan-dis-finansman-ihtiyaci-yuksek-2522609",
   "source": "Cumhuriyet",
@@ -58506,115 +58638,5 @@
   "score": 7,
   "ts": "2026-06-07T22:01:08.847989+00:00",
   "cluster_id": "c70f94b96f3e0"
- },
- {
-  "title": "İran-İsrail saldırıları başladı: AJet ve Pegasus bazı uçuş seferlerini iptal etti",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/iran-israil-saldirilari-basladi-ajet-ve-pegasus-bazi-ucus-seferlerini-iptal-etti-2510223",
-  "source": "Cumhuriyet",
-  "summary_tr": "İran-İsrail saldırıları nedeniyle AJet ve Pegasus Havayolları İstanbul-Erbil ve Beyrut uçuşlarını iptal etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-07T22:01:08.847989+00:00",
-  "cluster_id": "cfe72dca0350d"
- },
- {
-  "title": "İran'ın batı hava sahası ikinci bir duyuruya kadar kapatıldı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/iran-in-bati-hava-sahasi-ikinci-bir-duyuruya-kadar-kapatildi-2510216",
-  "source": "Cumhuriyet",
-  "summary_tr": "İran, hava sahasının batı kısmını güvenlik nedeniyle kapattı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-07T22:01:08.847989+00:00",
-  "cluster_id": "cd461b7426375"
- },
- {
-  "title": "İran İsrail'i vurdu, uçuşlar iptal oldu",
-  "link": "https://www.sozcu.com.tr/iran-israil-i-vurdu-ucuslar-iptal-oldu-p326010",
-  "source": "Sözcü",
-  "summary_tr": "İran'ın İsrail'e yönelik füze saldırıları bölgedeki güvenlik riskini artırarak sivil havacılığı etkiledi ve uçuşlar iptal edildi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-07T22:01:08.847989+00:00",
-  "cluster_id": "cb7f6e9e8e92b"
- },
- {
-  "title": "Şamda uçuşlar geçici olarak durduruldu",
-  "link": "https://www.trthaber.com/haber/dunya/samda-ucuslar-gecici-olarak-durduruldu-947461.html",
-  "source": "TRT Haber",
-  "summary_tr": "Şam Uluslararası Havalimanı, İran'ın İsrail'e yönelik füze saldırısı sonrası 12 saatliğine uçuşları durdurdu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-07T22:01:08.847989+00:00",
-  "cluster_id": "cc6512b54835f"
- },
- {
-  "title": "Trump'tan İran'a: Füzelerinizi fırlattınız artık masaya dönün",
-  "link": "https://www.trthaber.com/haber/dunya/trumptan-irana-fuzelerinizi-firlattiniz-artik-masaya-donun-947460.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD Başkanı Trump, İran'a masaya dönme çağrısında bulundu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-07T22:01:08.847989+00:00",
-  "cluster_id": "c0535e9cb30ed"
- },
- {
-  "title": "Trump o sorulara tepki gösterdi: Hakaret edip, kanalı terk etti",
-  "link": "https://www.cumhuriyet.com.tr/dunya/trump-o-sorulara-tepki-gosterdi-hakaret-edip-kanali-terk-etti-2510212",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Başkanı Trump, röportajda iç politika sorularına tepki göstererek yayını yarıda terk etti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-07T22:01:08.847989+00:00",
-  "cluster_id": "cde736ecdee88"
- },
- {
-  "title": "Canlı yayında gergin anlar: Trump, gazeteciye sinirlenip yayını terk etti",
-  "link": "https://www.sozcu.com.tr/donald-trump-yayini-terk-etti-p326005",
-  "source": "Sözcü",
-  "summary_tr": "ABD Başkanı Trump, canlı yayında seçimlerle ilgili sorulara sinirlenip yayını erken sonlandırdı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-07T22:01:08.847989+00:00",
-  "cluster_id": "ce13a84cef158"
- },
- {
-  "title": "Bakan Fidan, İranlı mevkidaşı ile görüştü",
-  "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-iranli-mevkidasi-ile-gorustu-947459.html",
-  "source": "TRT Haber",
-  "summary_tr": "Dışişleri Bakanı Fidan, İran Dışişleri Bakanı Arakçi ile bölgedeki gerilimi görüşmek için telefon görüşmesi gerçekleştirdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-07T22:01:08.847989+00:00",
-  "cluster_id": "cfb4f662e6a87"
- },
- {
-  "title": "Iran rejects idea of using its assets to pay damages to US allies",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWENyVGtVLV9tWVN5M3FuNkRxRFlGcmNoM3Q0Y0huOVZrUjdvYnplcDRqNU1HMS1OdkZSVHR5QlRQXzV1QllZZ3RscUpFQmhUWktKVnFaWndQRzd6R2hBRTZkbzJ2OVQ5UXVfT1V0WkhsQk5DZ3hQbUtib21NSlV6NElQTzZ3RWVpbXlTRE5xN3U5TUMxdkRUbzF4TnhHenhXVWJhbEQwR0FOQ3ZodGc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran, varlıklarını ABD müttefikleriyle yapılan hasarların tazminine kullanma fikrini reddettiğini açıkladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-07T22:01:08.847989+00:00",
-  "cluster_id": "c51fefe2cbc93"
- },
- {
-  "title": "İsrail ordusu duyurdu: İran, İsrail'e füze saldırısı başlattı",
-  "link": "https://www.sozcu.com.tr/iran-dan-israil-e-fuze-saldirisi-iddiasi-7-haziran-2026-p325991",
-  "source": "Sözcü",
-  "summary_tr": "İsrail ordusu, İran'dan İsrail'e yönelik füze saldırısı başlatıldığını duyurdu ve hava savunma sistemleri devreye girdi.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-07T20:01:02.437799+00:00",
-  "cluster_id": "c0dd7942529bf"
- },
- {
-  "title": "İran'dan İsrail'e füze saldırısı",
-  "link": "https://www.trthaber.com/haber/dunya/irandan-israile-fuze-saldirisi-947458.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran, İsrail'in Beyrut'a yönelik saldırısının ardından İsrail'e füze saldırısı başlattı; ülkenin kuzeyinde sirenler çaldı.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-07T20:01:02.437799+00:00",
-  "cluster_id": "c0dd7942529bf"
  }
 ]
