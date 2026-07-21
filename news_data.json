@@ -1,5 +1,65 @@
 [
  {
+  "title": "Emekli maaş farkı ne zaman yatacak? SSK, Bağ-Kur en düşük emekli maaşı 23 bin 522 TL oldu mu?",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/emekli-maas-farki-ne-zaman-yatacak-ssk-bag-kur-en-dusuk-emekli-maasi-23-bin-522-tl-oldu-mu-2522552",
+  "source": "Cumhuriyet",
+  "summary_tr": "SSK ve Bağ-Kur emeklilerine %17,76 zam oranı kesinleşti; en düşük emekli maaşı 23.522 TL oldu.",
+  "metric": "Emekli maaş zam oranı %17,76",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-21T08:01:05.842679+00:00",
+  "type": "news",
+  "cluster_id": "c344c1726a319"
+ },
+ {
+  "title": "Kart verileri: Türklerin yurt dışı alışverişi patladı",
+  "link": "https://www.dw.com/tr/kart-verileri-türklerin-yurt-dışı-alışverişi-patladı/a-78038168?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Türk tüketiciler fahiş iç fiyatlar nedeniyle yurt dışı alışverişe yöneliyor; kredi kartı harcamaları rekor kırıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T08:01:05.842679+00:00",
+  "type": "news",
+  "cluster_id": "c5abec6cfe27e"
+ },
+ {
+  "title": "Kanada Başbakanı, ABD'nin yüzde 50 gümrük vergisi kararını \"tek taraflı ticari eylem\" olarak nitelendirdi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/kanada-basbakani-abdnin-yuzde-50-gumruk-vergisi-kararini-tek-tarafli-ticari-eylem-olarak-nitelendirdi/4004331",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Kanada Başbakanı Mark Carney, ABD'nin %50 gümrük vergisi kararını tek taraflı ticari eylem olarak nitelendirdi.",
+  "metric": "ABD gümrük vergisi %50",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T08:01:05.842679+00:00",
+  "type": "news",
+  "cluster_id": "c0bfe648ced47"
+ },
+ {
+  "title": "Oil prices ease as mediators propose US-Iran ceasefire",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNE0xMnZLYmlVcE1nLTJzaGpmMW5pWkZyRWY3c3I5YnJtMlZ2OFo4TTlZTnJTTnRlUmpRRnFmcnB3S1U0bmx6N0k0LVp5YUFqX2tJeUZxX3Y1YjJIOTN2YWFSbi14ZzJ4THhoTG9XMi1WenpMd1dwTVhGYnFrWlRZTF9MSG15d2dpUE9uQUlDbmNtY0E4YVNmOU1jdnVudnU4aWhIWjlPRnNMdUU?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Aracılar ABD ve İran arasında ateşkesin önerilmesiyle petrol fiyatları geriledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T08:01:05.842679+00:00",
+  "type": "news",
+  "cluster_id": "c0fa8389155a9"
+ },
+ {
+  "title": "Sıfır otomobilde dev kampanya: İşte 5 milyon TL'ye kadar faizsiz kredi veren markalar",
+  "link": "https://www.cumhuriyet.com.tr/otomotiv/sifir-otomobilde-dev-kampanya-iste-5-milyon-tl-ye-kadar-faizsiz-kredi-veren-markalar-2522543",
+  "source": "Cumhuriyet",
+  "summary_tr": "Otomobil markalar satışları canlandırmak için 5 milyon TL'ye kadar %0 faizli kredi desteği sunuyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-21T08:01:05.842679+00:00",
+  "type": "news",
+  "cluster_id": "c7d45fcdaeaa2"
+ },
+ {
   "title": "Trump’tan İran’a saldırı mesajı: Aksine karar verene kadar sürecek",
   "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-iran-a-saldiri-mesaji-aksine-karar-verene-kadar-surecek-2522525",
   "source": "Cumhuriyet",
@@ -58500,55 +58560,5 @@
   "score": 6,
   "ts": "2026-06-07T15:00:58.013596+00:00",
   "cluster_id": "cee2cf3817c1e"
- },
- {
-  "title": "Hamaney'in sağlık durumunun ciddiyeti İran tarafından ilk kez resmen kabul edildi",
-  "link": "https://www.cumhuriyet.com.tr/dunya/hamaney-in-saglik-durumunun-ciddiyeti-iran-tarafindan-ilk-kez-resmen-kabul-edildi-2510134",
-  "source": "Cumhuriyet",
-  "summary_tr": "İran Liderler Meclisi, Hamaney'in sağlık durumunun ciddiyetini ilk kez resmen kabul etti; dini liderin yaralandığını açıkladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-07T14:01:01.061433+00:00",
-  "cluster_id": "c09b8d332ea6a"
- },
- {
-  "title": "Rusya nükleer silah planını devreye aldı",
-  "link": "https://www.sozcu.com.tr/rusya-nukleer-silah-planini-devreye-aldi-p325960",
-  "source": "Sözcü",
-  "summary_tr": "Rusya Dışişleri Bakan Yardımcısı Ryabkov, en kötü senaryolarda nükleer silah kullanılabileceğini açıklamıştır.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-07T14:01:01.061433+00:00",
-  "cluster_id": "cd673843e63e6"
- },
- {
-  "title": "Havayolu devi piyasadan çekildi: Bilet fiyatları artabilir",
-  "link": "https://www.sozcu.com.tr/havayolu-devi-piyasadan-cekildi-bilet-fiyatlari-artabilir-p325957",
-  "source": "Sözcü",
-  "summary_tr": "Spirit Airlines havayolu sektöründen çekildi; artan yakıt maliyetleri ve Orta Doğu'daki savaşın enerji krizi nedeniyle bilet fiyatları artabilir.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-07T14:01:01.061433+00:00",
-  "cluster_id": "c5cf0db81ebf7"
- },
- {
-  "title": "Israeli military has struck 'terrorist' headquarters in Beirut, government says",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRGxmNFFiT1M0RGNKMG9OMjhoYi1OZ0RsM19Eb2xrdktzYzAwYi1wRDVqTGRvWVFaSFBMR3ZkeFRQSkRmXzUtWHk0VVZmN1VtbVZtVndRMGNham5tMkh4RVJQbFE3ZUFpYWtTV0lqX3NvcjEwbENsd0UzWFJ5aGtLa0prM0RKSDU2VHpEYTNjZ2g0QjNSQ1JCQ1pHeTFjOUQweEMweGlnZWJuMXg3RUloZUNaY25qb0d1Q1ZQZ2s1M3BESUtEcmc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İsrail askeri, Beyrut'ta 'terör' merkezi olduğu iddia edilen hedefleri vurdu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-07T14:01:01.061433+00:00",
-  "cluster_id": "c434d31cc25ae"
- },
- {
-  "title": "US resolution draft at IAEA demands Iran open up on sites, uranium stocks",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWUM3R3dKX21nNlNJX0RpUlpmRTlGWGc5THZwYXZjdXE2Z0M0dUVfaVpPTVhhajZZQTZIQ3JfTzNKMkZ6UUpMazRFbzFlSmRSdDFaVnRSbFl1OV9fSUs3QWU1S1RHMUJoVVQwbm9KejJnMXFOUXpudVhZaXd6a0lDV1pJYk5RdG1UaWhZOFE2b3poUU5RcFVnVmRPUFRNWmwtdi1jeGc4MXZmQWlkNVBQeGcyckRZSTh5SWRZ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, IAEA'da İran'ı nükleer siteleri açmaya ve uranyum stokları hakkında bilgi vermeye zorlayan bir karar tasarısı sundu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-07T14:01:01.061433+00:00",
-  "cluster_id": "c58adbac64dc4"
  }
 ]
