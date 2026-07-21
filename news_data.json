@@ -1,5 +1,161 @@
 [
  {
+  "title": "Fitch Türkiye için not artışı şartını açıkladı: Gözler bu veride!",
+  "link": "https://www.sozcu.com.tr/fitch-turkiye-icin-not-artisi-sartini-acikladi-gozler-bu-veride-p338460",
+  "source": "Sözcü",
+  "summary_tr": "Fitch, Türkiye'nin küresel belirsizliklere rağmen dayanıklılığını koruduğunu ve enflasyon düşüşünün not artışı için şart olduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T13:01:23.337914+00:00",
+  "type": "news",
+  "cluster_id": "c029684ac05bd"
+ },
+ {
+  "title": "Trump'ın yaklaşık 60 ülkeye yüzde 12,5'e varan gümrük vergisi getireceği iddia edildi",
+  "link": "https://www.aa.com.tr/tr/dunya/trumpin-yaklasik-60-ulkeye-yuzde-12-5e-varan-gumruk-vergisi-getirecegi-iddia-edildi/4004734",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Trump, yaklaşık 60 ülkeye yüzde 10-12,5 arasında gümrük vergisi uygulamaya hazırlanıyor.",
+  "metric": "Gümrük vergisi oranı %10-%12,5",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T13:01:23.337914+00:00",
+  "type": "news",
+  "cluster_id": "c0d0aa089c955"
+ },
+ {
+  "title": "DW Türkçe muhabiri Alican Uludağ gözaltına alındı",
+  "link": "https://www.dw.com/tr/dw-türkçe-muhabiri-alican-uludağ-gözaltına-alındı/a-78052248?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "DW Türkçe muhabiri Alican Uludağ, cezaevinden çıktıktan üç ay sonra tekrar gözaltına alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-21T13:01:23.337914+00:00",
+  "type": "news",
+  "cluster_id": "c7c626b466dfa"
+ },
+ {
+  "title": "Şanlıurfa ve Kahramanmaraş'taki okul saldırılarını araştıran komisyonun görev süresi uzatıldı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/sanliurfa-ve-kahramanmaras-taki-okul-saldirilarini-arastiran-komisyonun-gorev-suresi-uzatildi-2522668",
+  "source": "Cumhuriyet",
+  "summary_tr": "TBMM, Şanlıurfa ve Kahramanmaraş'taki okul olaylarını araştıran komisyonun görev süresini uzattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-21T13:01:23.337914+00:00",
+  "type": "news",
+  "cluster_id": "c3b8688c85d20"
+ },
+ {
+  "title": "IEA Başkanı Birol, petrol arzının yüksek seviyelerde seyrettiğini bildirdi",
+  "link": "https://www.sozcu.com.tr/iea-baskani-birol-petrol-arzinin-yuksek-seviyelerde-seyrettigini-bildirdi-p338468",
+  "source": "Sözcü",
+  "summary_tr": "IEA Başkanı, Körfez'deki jeopolitik riskler nedeniyle petrol arzının yüksek seviyelerde kaldığını bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-21T13:01:23.337914+00:00",
+  "type": "news",
+  "cluster_id": "c0913c5a1b279"
+ },
+ {
+  "title": "Kartlı ödemelerin tutarı haziranda arttı",
+  "link": "https://www.sozcu.com.tr/kartli-odemelerin-tutari-haziranda-artti-p338466",
+  "source": "Sözcü",
+  "summary_tr": "Kartlı ödemelerin tutarı haziranda geçen yılın aynı ayına göre yüzde 50 arttı.",
+  "metric": "Kartlı ödemeler (haziran) önceki yıl -> 2,9 trilyon TL (+%50)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-21T13:01:23.337914+00:00",
+  "type": "news",
+  "cluster_id": "c5d9e93ac12ff"
+ },
+ {
+  "title": "Kartlı ödemelerin tutarı haziranda 2,9 trilyon liraya yükseldi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/kartli-odemelerin-tutari-haziranda-2-9-trilyon-liraya-yukseldi/4004728",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Kartlı ödemelerin tutarı haziranda geçen yılın aynı ayına göre yüzde 50 artarak 2,9 trilyon liraya ulaştı.",
+  "metric": "Kartlı ödemeler (haziran) -> 2,9 trilyon TL (+%50)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-21T13:01:23.337914+00:00",
+  "type": "news",
+  "cluster_id": "c5d9e93ac12ff"
+ },
+ {
+  "title": "ABD’nin İran’daki yeni hedefi: Kazma Dağı",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-nin-iran-daki-yeni-hedefi-kazma-dagi/4004579",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Trump, İran'ın yer altı nükleer tesisine ev sahipliği yaptığı iddia edilen Kazma Dağı'nı hedef alacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-21T13:01:23.337914+00:00",
+  "type": "news",
+  "cluster_id": "cefd41b72debc"
+ },
+ {
+  "title": "Kartlı ödemeler haziranda 2,9 trilyon liraya yükseldi",
+  "link": "https://www.trthaber.com/haber/ekonomi/kartli-odemeler-haziranda-29-trilyon-liraya-yukseldi-951800.html",
+  "source": "TRT Haber",
+  "summary_tr": "Kartlı ödemelerin tutarı haziranda geçen yılın aynı ayına göre yüzde 50 artarak 2,9 trilyon liraya yükseldi.",
+  "metric": "Kartlı ödemeler (haziran) -> 2,9 trilyon TL (+%50)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-21T13:01:23.337914+00:00",
+  "type": "news",
+  "cluster_id": "cdbd5fe81d3f7"
+ },
+ {
+  "title": "Kuveyt: İranın düzenlediği saldırılar sonucu bazı enerji ve su arıtma tesislerinde yangın çıktı",
+  "link": "https://www.trthaber.com/haber/dunya/kuveyt-iranin-duzenledigi-saldirilar-sonucu-bazi-enerji-ve-su-aritma-tesislerinde-yangin-cikti-951795.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran'ın saldırıları sonucu Kuveyt'te enerji ve su arıtma tesislerinde yangın çıktı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-21T13:01:23.337914+00:00",
+  "type": "news",
+  "cluster_id": "cbfea76659631"
+ },
+ {
+  "title": "Özel, CHP lideri olarak son kez kürsüye çıktı: 'Yeni Partimizi kuruyoruz'",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOW4xS3dySUFTRTQwWDU0YU1EX3ltcWZLQWFNZUJxNFBhWmxxNDFYc0psX2M3d2FiaXdKcXZOVmdTUi1ZOUVENlIyT1FabkNDX0RNODRMamNscUhCMXZJZktkVEQzc1JmWlNsRkY5LVFBaW9iclJlOV9NVm5IUEw1cmZUU3JNbVJCeEhKWXRhY3ZQR3dSWjJqZlhWZ3BxVGxPbEdvcjVrTFVJVk0?oc=5",
+  "source": "soL",
+  "summary_tr": "Özgür Özel, CHP lideri olarak son kez kürsüye çıkarak yeni partisini kuracağını ilan etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-21T13:01:23.337914+00:00",
+  "type": "news",
+  "cluster_id": "c26cdfa764d13"
+ },
+ {
+  "title": "GM quarterly core profit rises 30% on truck and SUV strength",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTGRVakJmSzhlMC11WHpydXBvV0pJR2lXSW5yNWo3UDhoUEdQQnhLZkxwLVAwUUlXOVB0TkY1NWZzR3JNT0FIcGI2XzY5NTFERGlncUZfaUNVaFh2Yk55ZGE0UHJrYWhYNDlUbU9yaWZheG5fOXBqRkwwSm5wd2xJZmZTSkx0Z0tIVmphUFJab0R2RHRtSzlYTWc2ZnN1dXpYeDNRempjUXdwWGJkZW1tSi1YcVoxaVp2aXc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "General Motors, kamyon ve SUV talebinin güçlü olması nedeniyle çeyreklik temel kârını yüzde 30 artırdı.",
+  "metric": "GM çeyreklik temel kâr +%30",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-21T13:01:23.337914+00:00",
+  "type": "news",
+  "cluster_id": "cdcc6c8285c76"
+ },
+ {
+  "title": "Nicaragua’s President Ortega moves to extend his 20-year rule and says no elections anytime soon",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeWZuel9VUDV4Mk8zREJQSHJqWDdKMUhaVHdIclRUaHp1M0o2dmpYNnYzRzhCWXlzNkJXREFVOENxcEF2Q3dIQVRndlpFN3RaWXJKcGU2cHBvV05melRZR0JQczRtX0diVUNhRWxwWDROYlRnUHhnZFRTN2NkTjg3eDdxcUpJRTJYVVJ4X0w2TmZvM0NQMl9ab3h3Wk1ZcG9uMUxCNTNzcGo5aUt1VEZTeFdB?oc=5",
+  "source": "AP",
+  "summary_tr": "Nikaragua Başkanı Ortega, 20 yıllık iktidarını uzatmak için hamleler yapıyor ve yakın zamanda seçim yapılmayacağını söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-21T13:01:23.337914+00:00",
+  "type": "news",
+  "cluster_id": "c5df0a28283e5"
+ },
+ {
   "title": "ABD'nin İran saldırıları 10. gününde: Trump'tan misilleme uyarısı",
   "link": "https://www.bbc.com/turkce/articles/c935gy0rd2vo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -58538,135 +58694,5 @@
   "score": 8,
   "ts": "2026-06-08T03:00:52.950352+00:00",
   "cluster_id": "cfb146a1fe1a1"
- },
- {
-  "title": "Almanya için kritik dönemeç: Aşırı sağcı AfD'nin yükselişine 'çare' aranıyor",
-  "link": "https://www.bbc.com/turkce/articles/cy9r4ep0qgzo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Almanya'da aşırı sağcı AfD, seçim anketlerinde iktidar partilerini geride bırakarak ilk kez bir eyalette tek başına iktidara gelmek üzere.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T03:00:52.950352+00:00",
-  "cluster_id": "c673a727e39a4"
- },
- {
-  "title": "Ermenistan seçimlerinde oy sayımı sürüyor, Paşinyan 'zafer' ilan etti",
-  "link": "https://www.bbc.com/turkce/articles/c0mynwwepxxo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Ermenistan seçimlerinde Başbakan Nikol Paşinyan seçimi kazandıklarını ilan etti; oy sayımı devam ediyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T03:00:52.950352+00:00",
-  "cluster_id": "cf67e31e84557"
- },
- {
-  "title": "South Korea's Naver to build gigawatt-scale AI factories using Nvidia technology",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZEk1a2dRMGlOX0xxNWItTjFpcmFHcjFHblZGZUJWdkdqNTJDZzVnaGtqMXNlckplU0diLUZFS3F5U1lEZ1NmWE1BUkhLbUl5elJmNnVBVEN3UTRGclFEV21sdTJ1QkhYUkdEWEtITF9TSHpTREczLVJmaVh1NkM2RWFDNUNjcVo2T002YXNVbG12dEtxakx6OTlqamx0QjU0T0ZCUXZWdzVNR0tCS19QNEI4cFNxVDJDTnMzbERLRHM5MkU1ZG9xTXUzYw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Güney Kore'nin Naver şirketi, Nvidia teknolojisini kullanarak gigavat ölçeğinde yapay zeka fabrikaları inşa edecek.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-08T03:00:52.950352+00:00",
-  "cluster_id": "c38b376b0b44f"
- },
- {
-  "title": "İran'ın başkenti Tahranda patlama sesleri duyuldu",
-  "link": "https://www.trthaber.com/haber/dunya/iranin-baskenti-tahranda-patlama-sesleri-duyuldu-947468.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail ordusunun İran'a saldırısının ardından Tahran, İsfahan ve Tebriz'de patlama sesleri duyuldu.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-08T02:00:50.978982+00:00",
-  "cluster_id": "c3930caf7ac97"
- },
- {
-  "title": "Asia markets tumble as tech rout deepens",
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFRCX29KbXlhVmEwNV9yUFRNQjZUcXFKVFlubUFGNkdrRDd0Z0ZwY3RUTFlXVmg5N1ppXzFHZ2Niai01RmtXOW1lY0pDRFI0VXJTZF9jeWFqSnZVRjREWDVfM21yMHNTR2NGcDcyb2NKczljNGNuRHJua1BlUkp0cUg2UQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Asya piyasaları teknoloji sektöründeki keskin düşüşle beraber düşüşe geçti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-08T02:00:50.978982+00:00",
-  "cluster_id": "c47975102ba4e"
- },
- {
-  "title": "Filipinler'in Mindanao bölgesinde 7,8 büyüklüğünde deprem meydana geldi",
-  "link": "https://www.aa.com.tr/tr/dunya/filipinlerin-mindanao-bolgesinde-7-8-buyuklugunde-deprem-meydana-geldi/3959679",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Filipinler'in Mindanao bölgesinde 7,8 büyüklüğünde deprem meydana geldi; tsunami uyarıları yayımlandı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T02:00:50.978982+00:00",
-  "cluster_id": "cec319819c7fa"
- },
- {
-  "title": "Earthquake of magnitude 7.8 strikes off southern Philippines, tsunami warnings issued",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQjhtYUp2X3dmS0h4bkNrQ0xycVdJNGtiSkNLdThTdnpXcUtuMjBQOGw3SnpqNHhDZ2NRRmZ3amxjcjhQeWpDY09lZmswMUlKREljMkMyc3pTdFB3M3llbUxfMEl1V1ZqVW8yV181U2Q4UDFlbkZWaER6dnlRa252aTVEUTNMMHZwNnR3WEduNHp4ZThvdUNaY21FOTF6S21HZk9rSEI2OE9nN0l6MjR0TzMyOVV0b2ZxWmc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Filipinler'in güneyinde 7,8 büyüklüğündeki deprem sonrası tsunami uyarıları verildi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T02:00:50.978982+00:00",
-  "cluster_id": "c2ac0ffbbfa81"
- },
- {
-  "title": "7.8 magnitude earthquake shakes part of southern Philippines. Tsunami possible for some coasts",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVh5VVRZSGpzVXdrUm9YQzByekhmZVRZZzcwZ3dhLU56RjBPTldPSW5ETEd5QTF6RFR5N2NpZThnX21GV1ZGbV95TVBxSmtRbmVkSV9EUWN5TE1ZRWtSZUgyb0ZSSWhPQ3RYaW5ScHVnWkVxWjAxeVY2LWpqU09Qd1RjcEFHLVVzSzROZTFJSTl3QkhnTnc?oc=5",
-  "source": "AP",
-  "summary_tr": "Filipinler'in güneyde 7,8 büyüklüğündeki deprem bazı sahillerinde tsunami riskine neden oldu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T02:00:50.978982+00:00",
-  "cluster_id": "cc22aa5590583"
- },
- {
-  "title": "SK Hynix announces multi-year tech deal with Nvidia for AI factories",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOam1iOWpSSHNETmw1N1phdWFwRU9yRUktdjRBYzQ3QlowV1pjaENiS2ZaQ0YtMldRNVBWVE03YUlGNXJ1OWs1dUpCMUZERk1MOURDYmoxSy15aHBmcU56VDBNc3BiRGk1T3R6dGRSQ01rNzJ6dXFfUXlZd2NhT2J0OUswR2twV3VibldwT0NWSWlXdTZWaHZVWjZPLVNGZnJ5UzVJczVVaGozal9pYXFTZmtDMVdWMHZxTG5ZOFpMM3Y?oc=5",
-  "source": "Reuters",
-  "summary_tr": "SK Hynix, Nvidia ile çok yıllı AI fabrikaları için teknoloji anlaşması imzaladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T01:00:52.425700+00:00",
-  "cluster_id": "c0d0dbe8637a9"
- },
- {
-  "title": "Asia markets brace for selling after tech rout hits Wall Street",
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFRCX29KbXlhVmEwNV9yUFRNQjZUcXFKVFlubUFGNkdrRDd0Z0ZwY3RUTFlXVmg5N1ppXzFHZ2Niai01RmtXOW1lY0pDRFI0VXJTZF9jeWFqSnZVRjREWDVfM21yMHNTR2NGcDcyb2NKczljNGNuRHJua1BlUkp0cUg2UQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Wall Street'teki teknoloji satışlarının ardından Asya piyasaları satış baskısına hazırlanıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T01:00:52.425700+00:00",
-  "cluster_id": "ccc6cc081a8cd"
- },
- {
-  "title": "Savaş bitse bile yüksek faiz dönemi sürecek",
-  "link": "https://www.sozcu.com.tr/savas-bitse-bile-yuksek-faiz-donemi-surecek-p326018",
-  "source": "Sözcü",
-  "summary_tr": "TCMB faiz artışı beklentileri savaş biterse de yüksek faiz ortamının sürmesi bekleniyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-08T01:00:52.425700+00:00",
-  "cluster_id": "c201cd14e7f95"
- },
- {
-  "title": "Trump: Füzelerinizi fırlattınız, bu yeterli. Masaya geri dönün ve bir anlaşma yapın",
-  "link": "https://www.aa.com.tr/tr/dunya/trump-fuzelerinizi-firlattiniz-bu-yeterli-masaya-geri-donun-ve-bir-anlasma-yapin/3959541",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Trump, İran'ı anlaşma masasına dönmeye çağırdı ve füze saldırısını yeterli görmedi.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-08T00:01:00.490288+00:00",
-  "cluster_id": "c0162c4181825"
- },
- {
-  "title": "E3 ülkelerinin liderleri, Londra'da Ukrayna Devlet Başkanı Zelenskiy ile görüştü",
-  "link": "https://www.aa.com.tr/tr/dunya/e3-ulkelerinin-liderleri-londrada-ukrayna-devlet-baskani-zelenskiy-ile-gorustu/3959645",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İngiltere, Fransa ve Almanya liderleri Londra'da Zelenskiy ile görüşerek Ukrayna konusunu ele aldı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-08T00:01:00.490288+00:00",
-  "cluster_id": "c50f1c1e075e3"
  }
 ]
