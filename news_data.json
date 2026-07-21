@@ -1,5 +1,89 @@
 [
  {
+  "title": "Trump'tan 'Kazma Dağı' mesajı: 'Çok yakında vuracağız'",
+  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-kazma-dagi-mesaji-cok-yakinda-vuracagiz-2522755",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD Başkanı Trump, İran'ın Kazma Dağı bölgesini çok yakında çok güçlü biçimde vurulacağını duyurdu. Söylem nükleer gerilimi artırmaktadır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-21T20:01:13.273329+00:00",
+  "type": "news",
+  "cluster_id": "c4c376cd0cafd"
+ },
+ {
+  "title": "BM'den ABDÄ°ran gerilimine diplomasi yoluyla Ã§Ã¶zÃ¼m bulunmasÄ± Ã§aÄŸrÄ±sÄ±",
+  "link": "https://www.trthaber.com/haber/dunya/bmden-abd-iran-gerilimine-diplomasi-yoluyla-cozum-bulunmasi-cagrisi-951820.html",
+  "source": "TRT Haber",
+  "summary_tr": "BM Genel Sekreteri Guterres, ABD-İran arasında son günlerde tırmanmakta olan askeri gerilimin diplomasi yoluyla çözülmesini çağırarak söz konusu krizin daha da tırmandırılmaması gerektiğini vurguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-21T20:01:13.273329+00:00",
+  "type": "news",
+  "cluster_id": "ca3f2e1c7c15a"
+ },
+ {
+  "title": "Washington Post: Ä°ran'daki savaÅŸ dolayÄ±sÄ±yla Pentagon bÃ¼tÃ§esi hÄ±zla tÃ¼keniyor",
+  "link": "https://www.trthaber.com/haber/dunya/washington-post-irandaki-savas-dolayisiyla-pentagon-butcesi-hizla-tukeniyor-951819.html",
+  "source": "TRT Haber",
+  "summary_tr": "Washington Post'a göre Pentagon bütçesi İran savaşı nedeniyle hızla tükeniyorsa, ABD Savunma Bakanı Kongre'ye durumu rapor edecektir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-21T20:01:13.273329+00:00",
+  "type": "news",
+  "cluster_id": "c29a1a3f4473e"
+ },
+ {
+  "title": "AKP'nin Meclis çalışma takvimine ilişkin grup önerisi kabul edildi: Meclis ne zaman kapanacak?",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/akp-nin-meclis-calisma-takvimine-iliskin-grup-onerisi-kabul-edildi-meclis-ne-zaman-kapanacak-2522757",
+  "source": "Cumhuriyet",
+  "summary_tr": "TBMM Genel Kurulu, AKP Grubu'nun Meclis çalışma takvimi önerisini kabul etti. Karar doğrultusunda Meclis kapanma tarihi belirlenmiştir.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-21T20:01:13.273329+00:00",
+  "type": "news",
+  "cluster_id": "c432dadab3925"
+ },
+ {
+  "title": "ABD'den yeni gümrük vergisi sinyali: 60 ülkeyi kapsıyor",
+  "link": "https://www.sozcu.com.tr/abd-den-yeni-gumruk-vergisi-sinyali-60-ulkeyi-kapsiyor-p338548",
+  "source": "Sözcü",
+  "summary_tr": "ABD Ticaret Temsilcisi, 'zorla çalıştırma' gerekçesiyle 60 ülkeyi kapsayan gümrük vergisi eylemini yakında açıklayacağını bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T20:01:13.273329+00:00",
+  "type": "news",
+  "cluster_id": "c4699fd6af0a4"
+ },
+ {
+  "title": "Trump administration to unveil forced labor trade action soon, says Greer",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcTFYVXpRV2VqWmJ0SkM0bExXY2pWN3ptcmVWMy15VEFiZFVuVDk5Ukx0UXhOd1RDUm0xcjZweW1xVTB1NS1KRXRZYWQ3cG50bVJzWTctM3JRaUNxYlB0eVMtRnZlSGdzTzg2dkRBT0NfbnlmSnVtSE9wc0VKbURVaXVHNUIxcFJxUVN1cy1FYzBIbDRUZEw4dG83T3R2dkNNTV9xNzAzeDZISEx1Zkh6aGtpdHo?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump yönetimi, 'zorla çalıştırma' gerekçesiyle gümrük vergisi eylemini yakında açıklayacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T20:01:13.273329+00:00",
+  "type": "news",
+  "cluster_id": "c1b810121e965"
+ },
+ {
+  "title": "CHP'ye atanan Gürsel Tekin duyurdu: 7 ilçe başkanı ve yönetimi görevden alındı!",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-ye-atanan-gursel-tekin-duyurdu-7-ilce-baskani-ve-yonetimi-gorevden-alindi-2522751",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP İstanbul İl Başkanlığına atanan Gürsel Tekin, 7 ilçe başkanı ve yönetimini görevden aldığını duyurdu.",
+  "metric": "7 ilçe yönetimi",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-21T20:01:13.273329+00:00",
+  "type": "news",
+  "cluster_id": "ca8bfee781e41"
+ },
+ {
   "title": "Trump, Ä°ran'Ä±n Kazma DaÄŸÄ± bÃ¶lgesini Ã§ok yakÄ±nda vuracaklarÄ±nÄ± sÃ¶yledi",
   "link": "https://www.trthaber.com/haber/dunya/trump-iranin-kazma-dagi-bolgesini-cok-yakinda-vuracaklarini-soyledi-951817.html",
   "source": "TRT Haber",
@@ -58718,75 +58802,5 @@
   "score": 6,
   "ts": "2026-06-08T09:01:07.235518+00:00",
   "cluster_id": "c765170466fec"
- },
- {
-  "title": "NATO shoots down drone in Latvian airspace, army says",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZV9iTmFacDhXa29kdWd4bVptSkRuT2NmY1Q4U1lFRVRiTDFtbXRQem1YeGd0bjN1QkR0VHgzUHQwdEROamNpY19DQWlha1c2a09GZDlYZlZReXBTVTFuTWdVZ0RvV0xxWGljdklIWFNfaG5UVEc1NWczcXExb2F5a1BFVUQyYkoyajR3WFo4YjN4aXNYLU9KUTJQa0RnR25LbE45a0ZkNlJOc19nM2N0cWxibw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "NATO, Letonya hava sahasında bir insansız hava aracını düşürdü.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-08T09:01:07.235518+00:00",
-  "cluster_id": "c51b9117a3df2"
- },
- {
-  "title": "İran Devrim Muhafızları Ordusu: Hayfa'daki sanayi tesislerini hedef aldık",
-  "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-ordusu-hayfadaki-sanayi-tesislerini-hedef-aldik-947505.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Devrim Muhafızları, İsrail'in petrokimya tesislerine yönelik saldırısına karşılık Hayfa'daki sanayi tesislerini füzelerle hedef aldı.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-08T08:01:13.393039+00:00",
-  "cluster_id": "cbf7fdb526f63"
- },
- {
-  "title": "İran uyarılarının ardından harekete geçti: Beyrut'a saldıran İsrail'e yoğun füze misillemesi başladı",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObjdmZ2NMZmljeTV3VGx5MkpoQWNobXJxal9jbzR3RkFTXzBtV19VRFBkZVItZUtIanBFSzlTUmpVcXh2QmJjMVpGY0RnVlZvcFg4XzZuM2JiMGRSQi1XWjI1RGRnZkpheHN3Rmp3akc2dGlMc3JobEZ0NHQ5VV9Ydy1aa3V0UC1qYnFMTHZMYmU3S1hnNWc2aFVoN0xkWE1XZDlUUFJRNndfMmVITGFockNFc2swTzNaempDeQ?oc=5",
-  "source": "soL",
-  "summary_tr": "İran, İsrail'in Beyrut'a saldırısına karşılık yoğun füze misilleme gerçekleştirdi.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-08T08:01:13.393039+00:00",
-  "cluster_id": "c93d79a807eda"
- },
- {
-  "title": "İran füzesi, Batı Şeria'da gasbedilen Filistin toprağındaki yasa dışı yerleşime isabet etti",
-  "link": "https://www.aa.com.tr/tr/dunya/iran-fuzesi-bati-seriada-gasbedilen-filistin-topragindaki-yasa-disi-yerlesime-isabet-etti/3959907",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran, İsrail'in saldırısına karşılık Batı Şeria'daki yasa dışı yerleşime füzelerle misilleme gerçekleştirdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-08T08:01:13.393039+00:00",
-  "cluster_id": "c3122b6ea3de7"
- },
- {
-  "title": "Orta Doğu'da tansiyon yükseldi: Piyasalar kırmızıya boyandı",
-  "link": "https://www.trthaber.com/haber/ekonomi/orta-doguda-tansiyon-yukseldi-piyasalar-kirmiziya-boyandi-947504.html",
-  "source": "TRT Haber",
-  "summary_tr": "Orta Doğu'da çatışmaların yeniden tırmanmasıyla küresel piyasalar satış baskısıyla hafta başladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-08T08:01:13.393039+00:00",
-  "cluster_id": "c63bb0ebc4af6"
- },
- {
-  "title": "South Korea's KOSPI craters nearly 9% as Fed fears hammer tech stocks",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWZ0RzhBbm0tcXBHRU5kb2VfM3FTOTBWOGpxbmdZMVZBajRJUG1kSzJnTEtMR2RRR3RqdDY4Nk1QWkJGUEpET0ZIWkVMOFZ2Tl9BU3AtS1owLVpvTUdWSGh6YjI1czZRTFlWeDRBN3pMQnFpSng0VjExeHh5NkcxaHdSZ3FQbFFERWpsY0czdXp3T3JpZVFBYU1uVGNhYURaMGZhYzR6VUY5X2JwUlZJT1NlZkd1UkxQd2w4?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Güney Kore KOSPI endeksi Fed kaygılarıyla teknoloji hisselerinin düşüşünde %9'a yakın çöktü.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-08T08:01:13.393039+00:00",
-  "cluster_id": "ca11c6ef05e45"
- },
- {
-  "title": "Goldman Sachs pushes Fed rate-cut call to 2027 on strong US jobs data",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUjdJLUpCYk15eE1yTUNNQXVocFZUdVNvUm1Zd0pMTzE0TEZBeDJzWDhqcDV3TXFPdnhTbmZvYnRPRXJTVWhEZ2JQYmpSTzNnYWpBVkJaY3JNbHpnbjg3ell3Snpnemx4Mm1zVXk0M1ltVEhqNUp6VmpkU2VGWFAzQzJySEhSZzlfMWdNVlBudzVCb25qOXI3amY5VVdOUmhtZTVUSzhxVHVtQlpr?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Goldman Sachs, güçlü ABD istihdam verisiyle Fed faiz indirimi çağrısını 2027'ye erteledi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-08T08:01:13.393039+00:00",
-  "cluster_id": "ce863116e5c41"
  }
 ]
