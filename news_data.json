@@ -1,5 +1,29 @@
 [
  {
+  "title": "Ukrayna'da Genelkurmay BaÅŸkanÄ± deÄŸiÅŸti",
+  "link": "https://www.trthaber.com/haber/dunya/ukraynada-genelkurmay-baskani-degisti-951830.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ukrayna Devlet Başkanı Zelenski, Genelkurmay Başkanı Sırski'yi görevden alarak yerine Müşterek Kuvvetler Komutanı'nı atadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-21T23:00:59.705355+00:00",
+  "type": "news",
+  "cluster_id": "cbfb70c5519e4"
+ },
+ {
+  "title": "TEI yerleÅŸkesinde Ã§Ä±kan yangÄ±n kontrol altÄ±na alÄ±ndÄ±",
+  "link": "https://www.trthaber.com/haber/turkiye/tei-yerleskesinde-cikan-yangin-kontrol-altina-alindi-951824.html",
+  "source": "TRT Haber",
+  "summary_tr": "Eskişehir'de TUSAŞ Motor Sanayii AŞ (TEI) tesisinde çıkan yangın kontrol altına alındı. Savunma Sanayii Başkanı olayı kontrol başarısı olarak açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-21T23:00:59.705355+00:00",
+  "type": "news",
+  "cluster_id": "c8c975373bce6"
+ },
+ {
   "title": "Trump, İran savaşının bilançosunu açıkladı: 18 asker öldü",
   "link": "https://www.sozcu.com.tr/donald-trump-abd-asker-bilanco-p338582",
   "source": "Sözcü",
@@ -58832,25 +58856,5 @@
   "score": 8,
   "ts": "2026-06-08T10:01:14.281066+00:00",
   "cluster_id": "cbdcb42a63c50"
- },
- {
-  "title": "A 7.8 magnitude quake in the Philippines kills at least 19, fells buildings and sets off a tsunami",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVh5VVRZSGpzVXdrUm9YQzByekhmZVRZZzcwZ3dhLU56RjBPTldPSW5ETEd5QTF6RFR5N2NpZThnX21GV1ZGbV95TVBxSmtRbmVkSV9EUWN5TE1ZRWtSZUgyb0ZSSWhPQ3RYaW5ScHVnWkVxWjAxeVY2LWpqU09Qd1RjcEFHLVVzSzROZTFJSTl3QkhnTnc?oc=5",
-  "source": "AP",
-  "summary_tr": "Filipinler'de 7,8 büyüklüğünde deprem: en az 19 ölü, binalar yıkıldı, tsunami tetiklendi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-08T10:01:14.281066+00:00",
-  "cluster_id": "ca957d5d93929"
- },
- {
-  "title": "Türkiye NATO zirvesini silah vitrinine dönüştürmek istiyor",
-  "link": "https://www.dw.com/tr/türkiye-nato-zirvesini-silah-vitrinine-dönüştürmek-istiyor/a-77456348?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Türkiye, 7-8 Temmuz'da Ankara'da yapılacak NATO Zirvesi'ni savunma sektörü yatırımlarını artırmak için bir platform olarak kullanacak.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T10:01:14.281066+00:00",
-  "cluster_id": "c2e2e326226d8"
  }
 ]
