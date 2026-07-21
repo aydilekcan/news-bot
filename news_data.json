@@ -1,5 +1,113 @@
 [
  {
+  "title": "Motorin 74 TL'yi aştı: Savaş ve arz krizi pompaya yansıyor",
+  "link": "https://www.dw.com/tr/motorin-74-tl-yi-aştı-savaş-ve-arz-krizi-pompaya-yansıyor/a-78039168?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Motorine 1 lira 12 kuruş zam geldi, fiyat 74 TL'yi aştı. Hürmüz Boğazı gerilimi ve küresel arz endişeleri akaryakıt fiyatlarını yükseltmeye devam ediyor.",
+  "metric": "Motorin fiyatı 74 TL üzerine çıktı",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-21T05:01:05.656502+00:00",
+  "type": "news",
+  "cluster_id": "ccedacc6fb7dc"
+ },
+ {
+  "title": "Yurt dışı alışveriş patladı: Kart harcamalarında rekor artış",
+  "link": "https://www.dw.com/tr/yurt-dışı-alışveriş-patladı-kart-harcamalarında-rekor-artış/a-78038168?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Türk tüketiciler yurt dışı alışverişe yöneldi; kredi kartı harcamaları rekor kırdı. Yerli fiyatların yüksekliği yurt dışı satın alımı artırıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T05:01:05.656502+00:00",
+  "type": "news",
+  "cluster_id": "c601266d69f9c"
+ },
+ {
+  "title": "Akaryakıta zam geldi: Pompanın fiyatı değişti",
+  "link": "https://www.sozcu.com.tr/akaryakita-zam-geldi-pompanin-fiyati-degisti-p338277",
+  "source": "Sözcü",
+  "summary_tr": "Akaryakıta zam geldi. Küresel petrol fiyatlarının yükselmesi ve arz endişeleri motorin ve benzin fiyatlarını artırmaya devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T05:01:05.656502+00:00",
+  "type": "news",
+  "cluster_id": "c23707b938a8b"
+ },
+ {
+  "title": "ABD'den Kanada'ya yüzde 50'lik tarife hamlesi! Trump üç kararnameyi imzaladı",
+  "link": "https://www.sozcu.com.tr/abd-den-kanada-ya-yuzde-50-lik-tarife-hamlesi-trump-uc-kararnameyi-imzaladi-p338271",
+  "source": "Sözcü",
+  "summary_tr": "Trump yönetimi Kanada'ya yüzde 50'lik tarife uygulamak için üç kararnameyi imzaladı. ABD-Kanada ticaret gerilimi tırmanıyor.",
+  "metric": "ABD'nin Kanada tarifesi %50'ye yükseldi",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T05:01:05.656502+00:00",
+  "type": "news",
+  "cluster_id": "ce6c09396afd6"
+ },
+ {
+  "title": "Asian stocks rise as Mideast mediation takes oil lower",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNlZ6UW5NX1ZjZ3BJZXota1l4Qnc0SjdPWnZGTmsybzNSTXM4cWl1YzlhQ3BnbGREVWVvdjdGNU1nY2c4aFIyMFBkR1J2VkFreGt4d2RQLUgySFd4VjlGLWhKT1hSNzRoa3dmdks2RHJYOGRxamQzTTk0U3g2NWtzZGhobXA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Asya borsaları yükselişe geçti. Orta Doğu'da arabuluculuk çabası petrol fiyatlarını düşürdü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T05:01:05.656502+00:00",
+  "type": "news",
+  "cluster_id": "cc3e9b6a607e9"
+ },
+ {
+  "title": "Şeref Oğuz: Bölgesel asgari ücret, gelir dağılımını daha da bozacak",
+  "link": "https://www.diken.com.tr/seref-oguz-bolgesel-asgari-ucret-gelir-dagilimini-daha-da-bozacak/?utm_source=rss&utm_medium=rss&utm_campaign=seref-oguz-bolgesel-asgari-ucret-gelir-dagilimini-daha-da-bozacak",
+  "source": "Diken",
+  "summary_tr": "Ekonomist Şeref Oğuz, bölgesel asgari ücretin gelir dağılımını daha da bozacağı uyarısında bulundu.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-21T05:01:05.656502+00:00",
+  "type": "news",
+  "cluster_id": "c83448e2c9345"
+ },
+ {
+  "title": "Akif Beki: Tatil bize de ucuzlayacağı yerde Hans'a, George'a, gurbetçilerimize bile pahalandı",
+  "link": "https://www.diken.com.tr/akif-beki-tatil-bize-de-ucuzlayacagi-yerde-hansa-georgea-gurbetcilerimize-bile-pahalandi/?utm_source=rss&utm_medium=rss&utm_campaign=akif-beki-tatil-bize-de-ucuzlayacagi-yerde-hansa-georgea-gurbetcilerimize-bile-pahalandi",
+  "source": "Diken",
+  "summary_tr": "Turizm sektöründe yapılan indirimler yabancı turistlere yaradı, yerli tatil pahalandı. Turizm ekonomisinde fiyat dengesizliği eleştirildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-21T05:01:05.656502+00:00",
+  "type": "news",
+  "cluster_id": "c88601c4f1244"
+ },
+ {
+  "title": "1 Ağustos'ta her şey değişiyor: Alışveriş yorumlarında yeni dönem başlıyor",
+  "link": "https://www.sozcu.com.tr/1-agustos-ta-her-sey-degisiyor-alisveris-yorumlarinda-yeni-donem-basliyor-p338276",
+  "source": "Sözcü",
+  "summary_tr": "1 Ağustos'tan itibaren Ticaret Bakanlığı e-ticaret dünyasını değiştirecek yeni kurallar yürürlüğe giriyor. Dijital pazarlama ve sosyal medya reklamları için yeni kriterler uygulanacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-21T05:01:05.656502+00:00",
+  "type": "news",
+  "cluster_id": "c87b85901c81a"
+ },
+ {
+  "title": "Japan protests Chinese live-fire drill in nearby waters",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYmIxbjdDQ0txTmw5SzlweXpoNXBFU2pIS1NGU2N0VGwxVlNGV05kU0N2TEtwRnhPU0lqNFJWbmtycFhsR3owd25BTTlheklQVXpkLWFRNk1KRFBlcGpkNV9Nei1yclI2clA4MU5TcTl5TVpjTkxQQ1BGaGJpa2Vnc2tDbWVLSldNQ3Rfa3d2NGFhMHkyVDdfRFBWS0xVN0dwb0lWUjBqenR0VmM4?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Japonya, Çin'in yakın sularda gerçekleştirdiği canlı ateş tatbikatına karşı protesto gösterdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-21T05:01:05.656502+00:00",
+  "type": "news",
+  "cluster_id": "cc51394dd593b"
+ },
+ {
   "title": "Oil prices dip as mediation efforts offset US-Iran strikes",
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNE0xMnZLYmlVcE1nLTJzaGpmMW5pWkZyRWY3c3I5YnJtMlZ2OFo4TTlZTnJTTnRlUmpRRnFmcnB3S1U0bmx6N0k0LVp5YUFqX2tJeUZxX3Y1YjJIOTN2YWFSbi14ZzJ4THhoTG9XMi1WenpMd1dwTVhGYnFrWlRZTF9MSG15d2dpUE9uQUlDbmNtY0E4YVNmOU1jdnVudnU4aWhIWjlPRnNMdUU?oc=5",
   "source": "Reuters",
@@ -58406,95 +58514,5 @@
   "score": 6,
   "ts": "2026-06-07T12:01:06.231895+00:00",
   "cluster_id": "ce74eff1afebb"
- },
- {
-  "title": "Vergi risklerine karşı yeni dijital uygulama: Bilinç Platformu",
-  "link": "https://www.trthaber.com/haber/ekonomi/vergi-risklerine-karsi-yeni-dijital-uygulama-bilinc-platformu-947433.html",
-  "source": "TRT Haber",
-  "summary_tr": "Hazine Bakanlığı Vergi Denetim Kurulu, mükelleflerin vergisel risklerini önceden öğrenebilecekleri 'Bilinç Platformu' uygulamasını başlattı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-07T12:01:06.231895+00:00",
-  "cluster_id": "c0b288470ddee"
- },
- {
-  "title": "Kılıçdaroğlu CHP'de grup kürsüsüne dönüyor, Özel'in 'grup başkanlığı iptal edilebilir'",
-  "link": "https://www.bbc.com/turkce/articles/cd7p7pn740eo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Kemal Kılıçdaroğlu, Anayasa Mahkemesi'nin mutlak butlan kararıyla CHP genel başkanlığına geri döndü ve 9 Haziran'da grup toplantısına başkanlık yapacak.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-07T11:01:03.952834+00:00",
-  "cluster_id": "c4438fdd81998"
- },
- {
-  "title": "İran, Hürmüz Boğazı'ndan geçen gemilerden 2 milyon dolara kadar geçiş ücreti alıyor",
-  "link": "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazindan-gecen-gemilerden-2-milyon-dolara-kadar-gecis-ucreti-aliyor/3959056",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran Meclis Üyesi, Hürmüz Boğazı'ndan geçen gemilerden ortalama 1,5-2 milyon dolar geçiş ücreti aldıklarını açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-07T11:01:03.952834+00:00",
-  "cluster_id": "c1c40e372a212"
- },
- {
-  "title": "İran'da, ABD-İsrail saldırılarında elektrik santrallerinin yaklaşık yüzde 7'sinin zarar gördüğü açıklandı",
-  "link": "https://www.aa.com.tr/tr/dunya/iranda-abd-israil-saldirilarinda-elektrik-santrallerinin-yaklasik-yuzde-7sinin-zarar-gordugu-aciklandi/3959049",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran, ABD-İsrail 40 günlük saldırılarında elektrik santrallerinin yaklaşık %7'sinin hasar gördüğünü duyurdu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-07T11:01:03.952834+00:00",
-  "cluster_id": "c437372ff27f0"
- },
- {
-  "title": "Türkiye'nin yeni tarım üssü bu ilimizde kuruluyor",
-  "link": "https://www.sozcu.com.tr/turkiye-nin-yeni-tarim-ussu-o-ilimizde-kuruluyor-p325923",
-  "source": "Sözcü",
-  "summary_tr": "Adana Karataş'ta Sera Organize Tarım Bölgesi projesinde çalışmalar hız kazandı; proje Türkiye'nin yeni tarım merkezi olacak.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-07T11:01:03.952834+00:00",
-  "cluster_id": "ceaabb4e39ceb"
- },
- {
-  "title": "Mükelleflere vergi cezası öncesi erken uyarı sistemi geliyor",
-  "link": "https://www.aa.com.tr/tr/ekonomi/mukelleflere-vergi-cezasi-oncesi-erken-uyari-sistemi-geliyor/3959050",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Vergi Denetim Kurulu 2026'da mükelleflere ceza öncesi erken uyarı sistemi uygulamaya başlayacak.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-07T11:01:03.952834+00:00",
-  "cluster_id": "cdc21e1be8b21"
- },
- {
-  "title": "Beş ayda ülke genelinde hava yolu ile seyahat edenlerin sayısı, Türkiye'nin nüfusunu aştı",
-  "link": "https://www.aa.com.tr/tr/gundem/bes-ayda-ulke-genelinde-hava-yolu-ile-seyahat-edenlerin-sayisi-turkiyenin-nufusunu-asti/3959034",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "2026'nın ilk beş ayında 89 milyon kişi Türkiye'de hava yoluyla seyahat etti; sayı ülke nüfusunu aştı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-07T11:01:03.952834+00:00",
-  "cluster_id": "c8414d1af8197"
- },
- {
-  "title": "Türkiye, Azerbaycan ve Gürcistan dışişleri bakanları İstanbulda buluşuyor",
-  "link": "https://www.trthaber.com/haber/gundem/turkiye-azerbaycan-ve-gurcistan-disisleri-bakanlari-istanbulda-bulusuyor-947431.html",
-  "source": "TRT Haber",
-  "summary_tr": "Dışişleri Bakanı Hakan Fidan, İstanbul'da Türkiye-Azerbaycan-Gürcistan Üçlü Dışişleri Bakanları Toplantısı'nın 10'uncusuna ev sahipliği yapacak.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-07T11:01:03.952834+00:00",
-  "cluster_id": "cae65a04e6ba6"
- },
- {
-  "title": "Özgür Özel ekibinden DSP'yle temas: 'Partiyi teslim alma' iddiası reddedildi",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-ekibinden-dsp-yle-temas-partiyi-teslim-alma-iddiasi-reddedildi-2510081",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'de 'mutlak butlan' sonrası krizde Özgür Özel ekibi DSP'yle temasa geçti; 'partiyi teslim alma' iddiası reddedildi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-07T10:01:00.724499+00:00",
-  "cluster_id": "cb6a4e6ee1526"
  }
 ]
