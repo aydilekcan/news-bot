@@ -1,5 +1,41 @@
 [
  {
+  "title": "Trump, Ä°ran'Ä±n Kazma DaÄŸÄ± bÃ¶lgesini Ã§ok yakÄ±nda vuracaklarÄ±nÄ± sÃ¶yledi",
+  "link": "https://www.trthaber.com/haber/dunya/trump-iranin-kazma-dagi-bolgesini-cok-yakinda-vuracaklarini-soyledi-951817.html",
+  "source": "TRT Haber",
+  "summary_tr": "Trump, ABD'nin İran'ın Kazma Dağı bölgesini yakında vuracağını söyledi.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-07-21T19:01:03.464387+00:00",
+  "type": "news",
+  "cluster_id": "c3a232c27d2d0"
+ },
+ {
+  "title": "Babülmendep Boğazı: Husilerin yeni tehditleri Kızıldeniz'de başka bir krizi tetikleyebilir mi?",
+  "link": "https://www.bbc.com/turkce/articles/ce35vpjkn39o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Husilerin Babülmendep Boğazı'nda Suudi gemilerine yönelik abluka tehdidi, küresel deniz taşımacılığını aksatabilir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-21T19:01:03.464387+00:00",
+  "type": "news",
+  "cluster_id": "c81f734617f9d"
+ },
+ {
+  "title": "Türk askerinin Somali'deki görev süresi 2 yıl daha uzatıldı",
+  "link": "https://www.aa.com.tr/tr/gundem/turk-askerinin-somalideki-gorev-suresi-2-yil-daha-uzatildi/4005057",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "TBMM, TSK unsurlarının Somali'deki görev süresini 2 yıl daha uzattı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-21T19:01:03.464387+00:00",
+  "type": "news",
+  "cluster_id": "cdb0ba9ee4003"
+ },
+ {
   "title": "Kurtulmuş tura çıktı, çerçeve yasada hedef netleşti: 'Teklif Meclis kapanmadan yasalaşacak'",
   "link": "https://www.bbc.com/turkce/articles/cr596vd5n6no?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -58752,35 +58788,5 @@
   "score": 8,
   "ts": "2026-06-08T08:01:13.393039+00:00",
   "cluster_id": "ce863116e5c41"
- },
- {
-  "title": "Venezuela'da Maduro'nun yerine gelen Delcy Rodriguez Erdoğan ile görüşecek",
-  "link": "https://www.bbc.com/turkce/articles/cd958qlq8lxo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Venezuela lideri Delcy Rodriguez, 7-8 Haziran'da Cumhurbaşkanı Erdoğan ile görüşmek üzere Türkiye'ye ziyaret gerçekleştirecek.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T08:01:13.393039+00:00",
-  "cluster_id": "c07e51447143a"
- },
- {
-  "title": "Ermenistan parlamento seçimlerinde oy sayım işlemi tamamlanırken Paşinyan çoğunluğu sağladı",
-  "link": "https://www.aa.com.tr/tr/dunya/ermenistan-parlamento-secimlerinde-oy-sayim-islemi-tamamlanirken-pasinyan-cogunlugu-sagladi/3959909",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Ermenistan parlamento seçimlerinde Başbakan Paşinyan'ın Sivil Sözleşme Partisi 105 sandalyeden 61'ini kazanarak çoğunluğu sağladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T08:01:13.393039+00:00",
-  "cluster_id": "c748506d24f11"
- },
- {
-  "title": "İran Dışişleri: İsrail'in saldırganlığından ABD sorumlu",
-  "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-israilin-saldirganligindan-abd-sorumlu-947503.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Dışişleri, İsrail'in saldırganlığından ve gerilimin tırmanmasından ABD'yi sorumlu tuttu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T08:01:13.393039+00:00",
-  "cluster_id": "c9666f448476e"
  }
 ]
