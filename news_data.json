@@ -1,5 +1,29 @@
 [
  {
+  "title": "En dÃ¼ÅŸÃ¼k emekli aylÄ±ÄŸÄ±nÄ±n artÄ±rÄ±lmasÄ±nÄ± da iÃ§eren kanun teklifi, TBMM Genel Kurulunda",
+  "link": "https://www.trthaber.com/haber/gundem/en-dusuk-emekli-ayliginin-artirilmasini-da-iceren-kanun-teklifi-tbmm-genel-kurulunda-951831.html",
+  "source": "TRT Haber",
+  "summary_tr": "En düşük emekli aylığının artırılmasını içeren kanun teklifi TBMM Genel Kurulu'nda görüşülmeye başlandı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-22T00:01:01.843323+00:00",
+  "type": "news",
+  "cluster_id": "c3bedfe7247c1"
+ },
+ {
+  "title": "Suça sürüklenen çocuklara ilişkin düzenlemeleri içeren kanun teklifi TBMM Adalet Komisyonunda kabul edildi",
+  "link": "https://www.aa.com.tr/tr/gundem/suca-suruklenen-cocuklara-iliskin-duzenlemeleri-iceren-kanun-teklifi-tbmm-adalet-komisyonunda-kabul-edildi/4005264",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "TBMM Adalet Komisyonu, suça sürüklenen çocuklara ilişkin düzenlemeleri içeren Çocuk Koruma Kanunu değişiklik teklifini kabul etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-22T00:01:01.843323+00:00",
+  "type": "news",
+  "cluster_id": "c889eded76d00"
+ },
+ {
   "title": "Ukrayna'da Genelkurmay BaÅŸkanÄ± deÄŸiÅŸti",
   "link": "https://www.trthaber.com/haber/dunya/ukraynada-genelkurmay-baskani-degisti-951830.html",
   "source": "TRT Haber",
@@ -58836,25 +58860,5 @@
   "score": 6,
   "ts": "2026-06-08T11:01:12.233864+00:00",
   "cluster_id": "c25c971a028e7"
- },
- {
-  "title": "Otomotivden mayısta 3,2 milyar dolarlık ihracat",
-  "link": "https://www.trthaber.com/haber/ekonomi/otomotivden-mayista-32-milyar-dolarlik-ihracat-947521.html",
-  "source": "TRT Haber",
-  "summary_tr": "Otomotiv endüstrisinin mayıs ihracatı yüzde 17 azalışla 3,264 milyar dolar oldu.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-08T11:01:12.233864+00:00",
-  "cluster_id": "c87562fd7a946"
- },
- {
-  "title": "Katil İsrail ateşkese rağmen Gazze'de son 24 saatte 9 kişiyi daha öldürdü",
-  "link": "https://www.trthaber.com/haber/dunya/katil-israil-ateskese-ragmen-gazzede-son-24-saatte-9-kisiyi-daha-oldurdu-947518.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail, ateşkese rağmen Gazze'de son 24 saatte 9 kişiyi öldürdü ve 43 kişiyi yaraladı.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-06-08T10:01:14.281066+00:00",
-  "cluster_id": "cbdcb42a63c50"
  }
 ]
