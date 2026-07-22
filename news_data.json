@@ -1,5 +1,17 @@
 [
  {
+  "title": "IBM cuts yearly revenue growth forecast as customers prioritize AI infrastructure spending",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWFFscXBORXYxZU5WUzBqSUdwZ1dVeEZTUlE2Rzh6SHlQSkR3QXMtTmEtZXZheTZPalB3Q0ptUnlPTEtUSTk5MEVTX1Z0N3hJTEhwa0FKcmhGQzVuN3k4M2pSdlZlSnhkWlZFc3VyLVpicHJsakRyX0Y5SmkwOWhqQU5yeXctMEIyTXBFcExxMGVyN2hxM3kydWdKbEJqNjJtVlk0Vng3OXhqalFyMGR0Y2F4VHJ1SVBObFlLa3h4dDI?oc=5",
+  "source": "Reuters",
+  "summary_tr": "IBM, müşterilerin yapay zeka altyapısına yönelik yatırımlar nedeniyle yıllık gelir büyüme tahminini aşağı yönlü revize etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-22T23:00:59.906746+00:00",
+  "type": "news",
+  "cluster_id": "cd1665426402e"
+ },
+ {
   "title": "ABD, Suudi Arabistan ile nükleer anlaşma imzaladı",
   "link": "https://www.bbc.com/turkce/articles/c9q9jvwdxnwo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59162,15 +59174,5 @@
   "score": 6,
   "ts": "2026-06-09T09:01:11.086880+00:00",
   "cluster_id": "c4fa80f10ff2e"
- },
- {
-  "title": "Fransa’ya ihracatta 5 ayda rekor: 4,34 milyar dolara ulaşıldı",
-  "link": "https://www.sozcu.com.tr/fransa-ya-ihracatta-5-ayda-rekor-4-34-milyar-dolara-ulasildi-p326422",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye'nin Fransa'ya ihracatı ilk beş ayda yüzde 4,9 artarak 4,34 milyar dolara yükseldi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-09T09:01:11.086880+00:00",
-  "cluster_id": "cff41ea06905b"
  }
 ]
