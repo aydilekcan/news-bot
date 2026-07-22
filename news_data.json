@@ -1,5 +1,77 @@
 [
  {
+  "title": "İran'ın birçok bölgesinde patlamalar meydana geldi",
+  "link": "https://www.trthaber.com/haber/dunya/iranin-bircok-bolgesinde-patlamalar-meydana-geldi-951834.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD saldırısının ardından İran'ın çeşitli eyaletlerinde patlamalar meydana geldi ve çok sayıda patlama sesi kaydedildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-22T03:00:59.455152+00:00",
+  "type": "news",
+  "cluster_id": "c7fd4b673732a"
+ },
+ {
+  "title": "US military identifies 3rd service member believed to have been killed in Iranian attack",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeklzVlNQYy1nZjVzaUtYa0tNamVrTVNyWHZfS2JmUmYwQmtZLWxPVkMyeTB1ZElBNkhiZ0M0MkdzWHQtbmRLRGo5Z1ZleXVtZzdNYXdQTlB0TUVGMDQ0M2tXMjFvbzU0WkVseGVwRFhaYndPUDhaWWF3SFU3b29sQ2pVREdHUEJqZmZ2dk1qRnRILVY5LXE0cl9sS3BobFVTaEE?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD ordusunun üçüncü asker personelinin İran saldırısında öldüğü tespit edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-22T03:00:59.455152+00:00",
+  "type": "news",
+  "cluster_id": "cc236d25b32f8"
+ },
+ {
+  "title": "Yeni Parti, ilk ankette yüzde 35.2 ile birinci",
+  "link": "https://www.sozcu.com.tr/yeni-parti-ilk-ankette-yuzde-35-2-ile-birinci-p338592",
+  "source": "Sözcü",
+  "summary_tr": "Özgür Özel'in yeni parti kuruluş açıklaması sonrası, Konsensüs Araştırma anketinde yeni parti %35.2 ile birinci sırada yer aldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-22T03:00:59.455152+00:00",
+  "type": "news",
+  "cluster_id": "cb0140b810959"
+ },
+ {
+  "title": "Doları bırakacak faiz yüksek kalacak",
+  "link": "https://www.sozcu.com.tr/dolari-birakacak-faiz-yuksek-kalacak-p338585",
+  "source": "Sözcü",
+  "summary_tr": "Merkez Bankası enflasyonu kontrol etmek için faiz oranlarını yüksek tutacak, cari açık sorununa çözüm bulunması bekleniyor; Goldman Sachs analisti görüş sundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-22T03:00:59.455152+00:00",
+  "type": "news",
+  "cluster_id": "cc8b1782428f7"
+ },
+ {
+  "title": "1 saatte 387 bin istifa",
+  "link": "https://www.sozcu.com.tr/1-saatte-387-bin-istifa-p338591",
+  "source": "Sözcü",
+  "summary_tr": "Özgür Özel'in yeni parti açıklamasını takiben CHP'den istifa talepleri nedeniyle e-Devlet sistemi aşırı yüklendi; saatte 387 bin istifa isteği kaydedildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-22T03:00:59.455152+00:00",
+  "type": "news",
+  "cluster_id": "cc8089eef1d0a"
+ },
+ {
+  "title": "Adli tatil kayyumu kurtardı emekliyi yaktı",
+  "link": "https://www.sozcu.com.tr/adli-tatil-kayyumu-kurtardi-emekliyi-yakti-p338586",
+  "source": "Sözcü",
+  "summary_tr": "Anayasa Mahkemesi, emeklilerin seyyanen zam talebi hakkındaki incelemeyi adli tatil sonrasına erteledi; İktidar'dan yapılan 573 milyar liralık harcama eleştirildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-22T03:00:59.455152+00:00",
+  "type": "news",
+  "cluster_id": "c924689633869"
+ },
+ {
   "title": "'Yeni parti’ye Hazine engeli: 90 vekil geçse de devlet yardımı alınamayacak",
   "link": "https://www.cumhuriyet.com.tr/turkiye/yeni-parti-ye-hazine-engeli-90-vekil-gecse-de-devlet-yardimi-alinamayacak-2522791",
   "source": "Cumhuriyet",
@@ -58812,65 +58884,5 @@
   "score": 6,
   "ts": "2026-06-08T12:01:07.367219+00:00",
   "cluster_id": "c07f825d9e1fb"
- },
- {
-  "title": "Kılıçdaroğlu'nun konuşmasını Meclis TV yayınlayacak mı?",
-  "link": "https://www.sozcu.com.tr/kilicdaroglu-nun-konusmasini-meclis-tv-yayinlayacak-mi-p326193",
-  "source": "Sözcü",
-  "summary_tr": "CHP Meclis Grubu, Kılıçdaroğlu'nun grup toplantısında konuşma talebini işleme almadı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-08T12:01:07.367219+00:00",
-  "cluster_id": "c630cd98280af"
- },
- {
-  "title": "Kılıçdaroğlu'nun grup toplantısı talebi işleme alınmadı",
-  "link": "https://www.sozcu.com.tr/kilicdarogl-nun-grup-toplantisi-talebi-isleme-alinmadi-p326189",
-  "source": "Sözcü",
-  "summary_tr": "Mahkemenin 'mutlak butlan' kararıyla atanan Kılıçdaroğlu, Parti Meclisi'ni 11 Haziran'da toplantıya çağırdı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-08T12:01:07.367219+00:00",
-  "cluster_id": "ca764a4a297a4"
- },
- {
-  "title": "Trump, İran ve İsrail'i karşılıklı saldırılara son vermeye çağırdı",
-  "link": "https://www.bbc.com/turkce/articles/c3rydr91l0no?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Trump, İran ve İsrail'i karşılıklı saldırılara son vermeye çağırdı. İran Nisan'dan bu yana ilk kez İsrail'e füze saldırısı düzenledi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-08T11:01:12.233864+00:00",
-  "cluster_id": "c23221a90b56f"
- },
- {
-  "title": "Trump’tan İsrail ve İran’a çağrı: Derhal ateşi durdurun",
-  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-israil-ve-iran-a-cagri-derhal-atesi-durdurun-2510379",
-  "source": "Cumhuriyet",
-  "summary_tr": "Trump, İsrail ve İran'ın karşılıklı saldırılarını derhal sonlandırması çağrısında bulundu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-08T11:01:12.233864+00:00",
-  "cluster_id": "c255b18bd4344"
- },
- {
-  "title": "Trump'tan İsrail ve İran'a ateş açmayı durdurun çağrısı",
-  "link": "https://www.trthaber.com/haber/dunya/trumptan-israil-ve-irana-ates-acmayi-durdurun-cagrisi-947520.html",
-  "source": "TRT Haber",
-  "summary_tr": "Trump, İran ve İsrail'in derhal saldırılara son vermesi çağrısında bulundu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-08T11:01:12.233864+00:00",
-  "cluster_id": "c255b18bd4344"
- },
- {
-  "title": "İran: İsrail'in saldırılarının devam etmesi durumunda daha sert karşılık vereceğiz",
-  "link": "https://www.trthaber.com/haber/dunya/iran-israilin-saldirilarinin-devam-etmesi-durumunda-daha-sert-karsilik-verecegiz-947525.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran ordusu, İsrail'in saldırılarına devam etmesi durumunda daha sert şekilde karşılık vereceğini bildirdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-08T11:01:12.233864+00:00",
-  "cluster_id": "c8a46131aafbd"
  }
 ]
