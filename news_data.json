@@ -1,5 +1,29 @@
 [
  {
+  "title": "'Yeni parti’ye Hazine engeli: 90 vekil geçse de devlet yardımı alınamayacak",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/yeni-parti-ye-hazine-engeli-90-vekil-gecse-de-devlet-yardimi-alinamayacak-2522791",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP'nin seçilmiş lideri Özgür Özel'in yeni parti kurmak için harekete geçmesi durumunda, devlet yardımı alınamayacağı Hazine tarafından belirtildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-22T02:00:58.963445+00:00",
+  "type": "news",
+  "cluster_id": "cecd87bb6eb21"
+ },
+ {
+  "title": "Canada cancels joint bridge celebration with US, citing Trump trade threats",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQTlaSWxiME5aR2tucVBvdVVKczhwaVhHOW9CdWMzLXI1MmVqU3c3S2h4TW9wZlRlY2k2MXFIM0lRTzRXeU5ZVzVLN2ZrU3B5S2JmUXpCaDdqZjdSNTZsUzJZR1F6OHNiQjU4MjNmOGsyUThYWktkWXprcWpsSkVYOEVCTDdxWFR5dVVuc0NCTV9qM3cyTGxlblBhMzN3Y0IwNUZEbDgyQmoyTlJZWklSeTZVMHJ3c0lVbjNJRUxrNXdIRzA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Kanada, Trump yönetiminin ticaret tehditleri nedeniyle ABD ile ortaklaşa köprü açılış törenini iptal etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-22T02:00:58.963445+00:00",
+  "type": "news",
+  "cluster_id": "cd34020abe7d8"
+ },
+ {
   "title": "İran basını: ABD'nin saldırı açıklamasının ardından İran'ın birçok bölgesinde patlamalar meydana geldi",
   "link": "https://www.aa.com.tr/tr/live-blog/dakika-dakika-gelismeler-abdnin-irana-yonelik-saldirilari-ve-iran-in-misillemeleri/5754",
   "source": "Anadolu Ajansı",
@@ -58848,25 +58872,5 @@
   "score": 8,
   "ts": "2026-06-08T11:01:12.233864+00:00",
   "cluster_id": "c8a46131aafbd"
- },
- {
-  "title": "Iran blames US for latest exchanges of fire with Israel",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWhTUXlxMHY0ZC1tTERXbkpUZ2NWUlRjSDVWQlBtVEw3SHV5S2RhV2sxakpIUWUzNzVZZnpBcUhaWjVvVnNZWXQtaFBkNXBSVldCNG9OTW5DdHo0c2tKR0VLWlVTbTJ0dHVZbzVLa0VMR2dha0ZDc0pLQkY0UWtMMnVoM29raUI4ZURlLUh3b1ZkN0xxZVQ1WGFxN1dhWFMzZHNiZQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran, ABD'yi son İsrail saldırılarından sorumlu tuttu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-08T11:01:12.233864+00:00",
-  "cluster_id": "c50f46558721a"
- },
- {
-  "title": "Almanya sanayisinde alarm zilleri",
-  "link": "https://www.sozcu.com.tr/almanya-sanayisinde-alarm-zilleri-p326169",
-  "source": "Sözcü",
-  "summary_tr": "Almanya'da fabrika siparişleri nisan ayında yüzde 3,8 gerileyerek piyasa beklentilerini aştı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T11:01:12.233864+00:00",
-  "cluster_id": "c98d5cf9a6715"
  }
 ]
