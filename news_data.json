@@ -1,5 +1,125 @@
 [
  {
+  "title": "Trump'tan İran'ın sivil altyapısını vurma tehdidi",
+  "link": "https://www.bbc.com/turkce/articles/c935gy0rd2vo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD Başkanı Trump, İran'ın Kazma Dağı'ndaki gizli zenginleştirme tesisini vurmakla tehdit etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-22T15:01:19.593375+00:00",
+  "type": "news",
+  "cluster_id": "c4b3fac0e5dd8"
+ },
+ {
+  "title": "Trump: US will attack Iranian bridge, power plant for every ship targeted in Hormuz",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZWlVdEVsdmI1TDRsamNjMzc3R1BFcERycV9lQVpZd0E3U08ya044Ql94TEJFMTI0eUIzUkstWU1ucmJhZWZ6bkZCUFlmb1NLVnRxT0M4U0FJN3gtNjhZWjhLSXVDcDVOTGpjNWdSYllSNlVyRWoxejJ5U2oyVnhRYVc4Z2JueDVudDRvYnZGMV9EcnJJakFFZDVlOVd0TG1BOWJoS1FRLWl4QmNQbVROZjZadkJjMEk?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, Hürmüz'de hedef alınan her gemi için İran'ın köprü ve elektrik santralına saldırı yapacağını söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-22T15:01:19.593375+00:00",
+  "type": "news",
+  "cluster_id": "c815b9c08a3db"
+ },
+ {
+  "title": "ABD, Suudi Arabistan ile nükleer program anlaşmasını duyuracak",
+  "link": "https://www.bbc.com/turkce/articles/c9q9jvwdxnwo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD ve Suudi Arabistan, Riyad'ın kendi topraklarında uranyum zenginleştirmesi için nükleer program anlaşmasını duyuracak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-22T15:01:19.593375+00:00",
+  "type": "news",
+  "cluster_id": "c8853643a422a"
+ },
+ {
+  "title": "Dünya Bankası'ndan küresel ekonomik kriz uyarısı",
+  "link": "https://www.dw.com/tr/dünya-bankası-ndan-küresel-ekonomik-kriz-uyarısı/a-78073005?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Dünya Bankası Baş Ekonomisti, ABD-İran savaşının devamı durumunda küresel ekonomide ciddi bir krize işaret etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-22T15:01:19.593375+00:00",
+  "type": "news",
+  "cluster_id": "c3d856ad4d5af"
+ },
+ {
+  "title": "Trump, İran'ın saldırılarında ölen ABD askerlerini \"onurlandırmak\" için cenazelerinin getirileceği üsse gitti",
+  "link": "https://www.aa.com.tr/tr/dunya/trump-iranin-saldirilarinda-olen-abd-askerlerini-onurlandirmak-icin-cenazelerinin-getirilecegi-usse-gitti/4006012",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, İran'ın saldırılarında ölen Amerikan askerlerinin cenazelerini karşılamak üzere askeri üsse gitti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-22T15:01:19.593375+00:00",
+  "type": "news",
+  "cluster_id": "c319bdfa5e432"
+ },
+ {
+  "title": "ABD'den Hürmüz Boğazı'ndaki Lark Adası'na füze saldırısı",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbzRGaUFMam93U1lpZFBYS0NlV0VydGp0dG0zWElpNXJLYy0wWndHNlVxOXhuQXRCVC1OeGpuU3lKSzM3ZUQyRWlpRENsX2QweVRmV0pPb25aTTJ5ZEs1YWFTUVFwMk84bmZaTExMVVdRRktUemlWYzZOX050a2NveDh6ckx4RXNVMDVBRWc4OXBGalZ1LUE?oc=5",
+  "source": "soL",
+  "summary_tr": "ABD, Hürmüz Boğazı'ndaki Lark Adası'na füze saldırısı gerçekleştirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-22T15:01:19.593375+00:00",
+  "type": "news",
+  "cluster_id": "c2bd9eccd002f"
+ },
+ {
+  "title": "Öcalan’a af mı geliyor? Numan Kurtulmuş’tan açıklama",
+  "link": "https://www.sozcu.com.tr/ocalan-a-af-mi-geliyor-numan-kurtulmus-tan-aciklama-p338823",
+  "source": "Sözcü",
+  "summary_tr": "TBMM Başkanı Numan Kurtulmuş, siyasi partilerle 'Terörsüz Türkiye' görüşmeleri yaptıktan sonra açıklama yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-22T15:01:19.593375+00:00",
+  "type": "news",
+  "cluster_id": "c2cdaeb29f470"
+ },
+ {
+  "title": "Hollanda'nın, İsrail'in yasa dışı yerleşimlerinden gelen ürünlere getirdiği ihracat yasağı 22 Eylül'de başlıyor",
+  "link": "https://www.aa.com.tr/tr/dunya/hollandanin-israilin-yasa-disi-yerlesimlerinden-gelen-urunlere-getirdigi-ihracat-yasagi-22-eylulde-basliyor/4006023",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Hollanda, İsrail'in işgal altındaki topraklarındaki yasa dışı yerleşim birimlerinden gelen ürünlerin ithalatını 22 Eylül'den itibaren yasaklayacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-22T15:01:19.593375+00:00",
+  "type": "news",
+  "cluster_id": "c6fbb9ddff78b"
+ },
+ {
+  "title": "EXCLUSIVE: EU to review airline ownership rules, threatening easyJet bids",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYmNiQmd1N1RJdUd4TmJFWUxGdFJfbktNOGlaYnA0YmsyLWZ6QUsxVk1FanhQU3JfeGxWVG8tT0pZYjJkOTJjXzI1dHZaMGloNndzNXhqQ1Y5QjcxZEhoemhKVjN3VUI5TzdZUnIxdVJJazV1VUFvSzJyMmppWXVoTTBtMVNEc3Z4MXlrR0NlZzR4akI0eGhuVngtWnpILWIxUFgyalg2aXUtay1mNXJfOQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "AB, havayolu sahipliği kurallarını gözden geçirecek ve easyJet teklif hakkında karar verecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-22T15:01:19.593375+00:00",
+  "type": "news",
+  "cluster_id": "ca529ee9750f5"
+ },
+ {
+  "title": "US Senate panel to vote on Chinese vehicle crackdown bill",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTVdWeEdfM0dpZEp1Q2NPT2tyZGFleThraHRDRHRRZzdhcDlHYnUwT0JGSF9CY2tEdUpTSkFSSXBWZWVHemxwVDQwSGJlNzJFLVFJWU40V3lYbk1QdndQUE43bWtJclZDSE5MaXAyaFBKWDRrdDNSUXh1QWhFQkdNWVRlTElBWXpBZlR3SnlIUlZFS1AwQmxBMDZ1aVExdmJ1Q2Vqa3ByUGZYRTB3UXk3dldrakFkNnl5?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Senato paneli, Çin araç kısıtlama yasa tasarısı üzerinde oylamaya katılacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-22T15:01:19.593375+00:00",
+  "type": "news",
+  "cluster_id": "ce6d563f4c734"
+ },
+ {
   "title": "Numan Kurtulmuş'tan çerçeve yasa açıklaması: 'Umarım Meclis tatile girmeden yasalaşır'",
   "link": "https://www.bbc.com/turkce/articles/cr596vd5n6no?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -58960,105 +59080,5 @@
   "score": 8,
   "ts": "2026-06-09T01:00:53.078583+00:00",
   "cluster_id": "cea96863ec774"
- },
- {
-  "title": "Trump, ABD'nin İran'a karşı 2 hafta içinde \"tam bir zafer\" ilan edeceğini düşünüyor",
-  "link": "https://www.aa.com.tr/tr/dunya/trump-abdnin-irana-karsi-2-hafta-icinde-tam-bir-zafer-ilan-edecegini-dusunuyor/3960878",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Trump, ABD'nin İran'a karşı önümüzdeki iki hafta içinde 'tam bir zafer' ilan edeceğini düşünüyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-09T01:00:53.078583+00:00",
-  "cluster_id": "ce885ca092cb8"
- },
- {
-  "title": "OpenAI files confidential SEC paperwork for IPO, opening the door to a Wall Street debut",
-  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSkpfUFlIUUZQOEFhdG5ZaEE1V1UxTV9veVdiZlZjNWxJVWMxWDhTRzBzN3A5UFhUNmRXZTRpcjNsWXdleWVPQlVOdGlxYWdJcENrRmNndUZMT3RxbVN0TnpldnpfQzNHSzlzbUFvRDR2VTdMdHB5WDE2VHBBVFVDYWZBM1E?oc=5",
-  "source": "AP",
-  "summary_tr": "OpenAI, Wall Street borsasına çıkış için SEC'e gizli IPO başvurusu yaptı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-09T01:00:53.078583+00:00",
-  "cluster_id": "c29aa18f32dd9"
- },
- {
-  "title": "İran ve İsrail karşılıklı saldırıları 'şimdilik' durdurdu",
-  "link": "https://www.bbc.com/turkce/articles/c3rydr91l0no?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "İran, Nisan'daki ateşkesten sonra ilk kez İsrail'e füze saldırısı düzenlemişti; şimdi saldırılarını durdurduğunu açıkladı.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-09T00:00:55.483585+00:00",
-  "cluster_id": "c97a312508bf4"
- },
- {
-  "title": "İç bölgeleri doğrudan denize bağlayacaklar: Yapay su yolunda dev gemiler sefer yapacak",
-  "link": "https://www.sozcu.com.tr/ic-bolgeleri-dogrudan-denize-baglayacaklar-yapay-su-yolunda-dev-gemiler-sefer-yapacak-p326316",
-  "source": "Sözcü",
-  "summary_tr": "Çin, Pinglu Kanalı projesiyle iç bölgeleri doğrudan denize bağlayacak; son yıllardaki en büyük su yolu yatırımlarından biri.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-09T00:00:55.483585+00:00",
-  "cluster_id": "c0c3e0a8c70ab"
- },
- {
-  "title": "OpenAI, olası halka arz kapsamında ABD Menkul Kıymetler ve Borsa Komisyonuna gizli başvuru yaptı",
-  "link": "https://www.aa.com.tr/tr/bilim-teknoloji/openai-olasi-halka-arz-kapsaminda-abd-menkul-kiymetler-ve-borsa-komisyonuna-gizli-basvuru-yapti/3960863",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "OpenAI, halka arz sürecinde ABD SEC'e gizli başvuru yaparak yapay zeka şirketlerinin kamu piyasalarına yönelişini hızlandırıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T23:00:56.993269+00:00",
-  "cluster_id": "ce1dd370eecd8"
- },
- {
-  "title": "OpenAI files for US IPO after Anthropic as AI giants head to public markets",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2FJYXdqcEJac0hlSTNib2dhTTZDeFZLY0V2T3lNTFFYWWhObmRNOFJPNVEyNGNIUFhNaThpVGk2VEFvVTNMZndvZWg4ZFBFVTN0ZUVqd1UtVk91R3lON3VHVUJUdDVYTzIxdnBHcUk2dFN2WHhOOXkyMkhkalQtZjRHb25EWHpMRTVUaEdyWmNPODlhb3daUlVWZ2JmSHhkODFOdG1OR0ZIc3IxbDl2VU1R?oc=5",
-  "source": "Reuters",
-  "summary_tr": "OpenAI halka arz için ABD'ye başvurdu; Anthropic'in ardından yapay zeka devleri kamu piyasalarına gidiyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T23:00:56.993269+00:00",
-  "cluster_id": "c2a22f306e61e"
- },
- {
-  "title": "Lebanese president appeals to Israeli government to pursue talks, not war",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZDkxMXVfRlVIdVNKZzg1OUROSjB0dTFqR04yTUFNVlBuWlZPNF9jQjlCZDB3a3Y0VkhTQWF4YzBITEM1Y3ZldnRBRzhJckpmSVRHRjkwaDhQcnpOTjRVd0IzQW5YbWhCV29memItSnFPcXpKTndscVZVN3dEcHVYN3NzcmUyUnVhR0VubGZlLUdxYnRDM2FOazFuend1WmZSTGZ6eVk0Q3puS0ljMmFIR05WdzdkRGhNLUtmNA?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Lübnan cumhurbaşkanı, İsrail hükümetine savaş yerine müzakere çağrısında bulundu.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-08T23:00:56.993269+00:00",
-  "cluster_id": "c900f1e6cb041"
- },
- {
-  "title": "US says BYD, Baidu and Alibaba and other tech giants are aiding China's military",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPelJqSF9oSWNaaE56YnpwNkVadW83aHZ4OWNCWk40c21jTXF2T0l4dF94UmpiN0wyaHRoWUp2UXZ4NW9VVW1ERXJhRURTYkRQZnRycFZmMkoxMHdtblR2ZVNZcFVHTTV1NHFyQ1h1OUhkY2E2anBETkQySXlxeGd1cndQNlNzYzBXWkxJOUQ1WUlYamxfUFlCNFUyYThuM1I2MW9FTDJ6SHV2QngwYU9MOUFBRm4?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, BYD, Baidu ve Alibaba gibi Çin teknoloji devlerinin Çin ordusuna yardımcı olduğunu iddia etti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-08T23:00:56.993269+00:00",
-  "cluster_id": "c6208aedfc3b7"
- },
- {
-  "title": "İstanbul Bildirisi'nde iş birliği mesajı öne çıkıyor",
-  "link": "https://www.trthaber.com/haber/gundem/istanbul-bildirisinde-is-birligi-mesaji-one-cikiyor-947569.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye, Azerbaycan ve Gürcistan dışişleri bakanları İstanbul Bildirisi'ni imzalayarak siyasi, ekonomik, kültürel ve ticari alanlarda işbirliğini vurguladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-08T22:00:57.828488+00:00",
-  "cluster_id": "c3173ddea226d"
- },
- {
-  "title": "ABD medyası duyurdu: Trump'tan Netaynyahu'yu yalnız bırakıyor",
-  "link": "https://www.sozcu.com.tr/abd-medyasi-duyurdu-trump-tan-netaynyahu-yu-yalniz-birakiyor-p326297",
-  "source": "Sözcü",
-  "summary_tr": "ABD basınına göre Trump, Netanyahu'ya İran'la yeniden savaşa girmeme konusunda destek verilmeyeceğini iletmiş.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T21:01:04.439609+00:00",
-  "cluster_id": "c4868afbaa3bf"
  }
 ]
