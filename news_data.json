@@ -1,5 +1,113 @@
 [
  {
+  "title": "Çerçeve yasa Meclis’e geliyor: ‘Öcalan düzenlemesi yok’",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/cerceve-yasa-meclis-e-geliyor-ocalan-duzenlemesi-yok-2522856",
+  "source": "Cumhuriyet",
+  "summary_tr": "Çerçeve yasa teklifinde takvim değişti; 'açılım süreci' kapsamında düzenleme hazırlanacak.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-22T08:01:18.509303+00:00",
+  "type": "news",
+  "cluster_id": "c3177f1b7a264"
+ },
+ {
+  "title": "Yerli turistler yılın ilk çeyreğinde 102,3 milyar lira seyahat harcaması yaptı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/yerli-turistler-yilin-ilk-ceyreginde-102-3-milyar-lira-seyahat-harcamasi-yapti/4005439",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Yerli turistler 2026 ilk çeyreğinde yurt içi seyahat harcamasını geçen yılın aynı dönemine göre %33,9 artırarak 102,3 milyar liraya çıkardı.",
+  "metric": "Yerli turizm harcaması +%33,9 (102,3 milyar TL)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-22T08:01:18.509303+00:00",
+  "type": "news",
+  "cluster_id": "c987236db430f"
+ },
+ {
+  "title": "Yerli turistler 102,3 milyar lira seyahat harcaması yaptı",
+  "link": "https://www.trthaber.com/haber/ekonomi/yerli-turistler-1023-milyar-lira-seyahat-harcamasi-yapti-951852.html",
+  "source": "TRT Haber",
+  "summary_tr": "Yerli turistler 2026 ilk çeyreğinde yurt içi seyahat harcamasını geçen yılın aynı dönemine göre %33 artırarak 102,3 milyar liraya çıkardı.",
+  "metric": "Yerli turizm harcaması +%33 (102,3 milyar TL)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-22T08:01:18.509303+00:00",
+  "type": "news",
+  "cluster_id": "c987236db430f"
+ },
+ {
+  "title": "EU envoys meet to negotiate 21st Russia sanctions package",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjdLb1ZpR0E4UnIwbUdKQlNKQmVnOFhSUi1ueGZucDk2akRMZnhDMXltTzdXbHl0dE5xUVpidzAwSllueWxoX2JqYTNsUWNwZmhJbkRrcWpIVU1DMnFzblJXbFIzV0FneEh3RzVwOTJKdDMyWWpJSWFNMXpaR3lPN2trWWhCOHY4VlFOT0w1d3N1cTQxN2N1a3lNRmFEZkxoWUgtX3NPSUN6V2c?oc=5",
+  "source": "Reuters",
+  "summary_tr": "AB büyükelçileri Rusya'ya karşı 21. yaptırım paketini müzakere etmek için toplandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-22T08:01:18.509303+00:00",
+  "type": "news",
+  "cluster_id": "c14d488c857f3"
+ },
+ {
+  "title": "NATO tutuklamaları: Gazeteci Yıldız Tar hakkında tahliye kararı",
+  "link": "https://www.diken.com.tr/nato-tutuklamalari-gazeteci-yildiz-tar-hakkinda-tahliye-karari/?utm_source=rss&utm_medium=rss&utm_campaign=nato-tutuklamalari-gazeteci-yildiz-tar-hakkinda-tahliye-karari",
+  "source": "Diken",
+  "summary_tr": "Gazeteci Yıldız Tar, NATO Zirvesi tutuklamaları kapsamında tahliye edildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-22T08:01:18.509303+00:00",
+  "type": "news",
+  "cluster_id": "cf48962fed989"
+ },
+ {
+  "title": "Reel Kesim Güven Endeksi temmuzda geriledi",
+  "link": "https://www.sozcu.com.tr/reel-kesim-guven-endeksi-temmuzda-geriledi-p338682",
+  "source": "Sözcü",
+  "summary_tr": "Reel Kesim Güven Endeksi temmuzda 0,8 puan azalarak 101,2 seviyesine indi.",
+  "metric": "RKGE 101,2 (-0,8 puan)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-22T08:01:18.509303+00:00",
+  "type": "news",
+  "cluster_id": "c615b9f1aca7d"
+ },
+ {
+  "title": "Reel Kesim Güven Endeksi temmuzda 101,2'ye geriledi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/reel-kesim-guven-endeksi-temmuzda-101-2ye-geriledi/4005452",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Reel Kesim Güven Endeksi temmuzda 0,8 puan azalarak 101,2 seviyesine indi.",
+  "metric": "RKGE 101,2 (-0,8 puan)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-22T08:01:18.509303+00:00",
+  "type": "news",
+  "cluster_id": "c615b9f1aca7d"
+ },
+ {
+  "title": "Fiyatlar patladı vatandaş tatilini akrabada yaptı",
+  "link": "https://www.sozcu.com.tr/oteller-ikinci-plana-dustu-yilin-ilk-ceyreginde-seyahate-cikanlarin-tercihi-belli-oldu-p338680",
+  "source": "Sözcü",
+  "summary_tr": "Yerli turistlerin yurt içi seyahat harcamaları ilk çeyrekte geçen yılın aynı dönemine göre arttı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-22T08:01:18.509303+00:00",
+  "type": "news",
+  "cluster_id": "c3b1781d3a904"
+ },
+ {
+  "title": "NATO Zirvesi tutuklamaları: Yıldız Tar ve TEMA Vakfı gönüllüleri tahliye edildi",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVi1TSVFIdWZ2cjVyVHhoU1h5MTd1S2xEY3Eyck1WdFM2Nm85bXQ0dE5aT3JoVTVPUlhJZjFJVFNWZWVrMGJSb25fZkVDTTNZSjRldWxqRHlBWW9PU3o5bl9DbThPNzRhY1RnSzVLUmhseTJ1MTFlNzlJc2x4TVRUeTVGbHlVSjREQkNsZFRKMXprTjc2T2hab2NZZFZpMXFBa1ZlRHg5UGgzLVBqakU1Zndn?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Gazeteci Yıldız Tar ve TEMA Vakfı gönüllüleri NATO Zirvesi tutuklamaları sonrası tahliye edildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-22T08:01:18.509303+00:00",
+  "type": "news",
+  "cluster_id": "c8b6c8c348269"
+ },
+ {
   "title": "Trump açıkladı: İran savaşında 18 ABD askeri öldü",
   "link": "https://www.cumhuriyet.com.tr/dunya/trump-acikladi-iran-savasinda-18-abd-askeri-oldu-2522831",
   "source": "Cumhuriyet",
@@ -58846,95 +58954,5 @@
   "score": 7,
   "ts": "2026-06-08T15:01:18.243339+00:00",
   "cluster_id": "c0770db253d21"
- },
- {
-  "title": "Alphabet taps Intel to make three million in-house chips, The Information reports",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZmR2dkxzTTRVc2F2MzdYOFR2MzVPSXdkWm9NSlBGdkQ1b05uZ3VzRVFzcVEtRXhQZUc4WVhkMmRhcngzNGNWUDBLSGNLSHZoN0U5b1FDd2hKR0t3dTdlak1RMnNVU25UdEx4YnpwbHJTaGo3NndhNVltT3NmaF8wYTFjdTFjTkdDN1VYeUx3akNNUlVzVjAwSWNIVDZidFJ4dXBhVEw2enYyZUxyN0JqV3FKZW91am1EeHc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Alphabet, Intel'den 3 milyon in-house çip üretimi sipariş etti; yapay zeka stratejisinin kritik bileşeni.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T15:01:18.243339+00:00",
-  "cluster_id": "c8afc39965b66"
- },
- {
-  "title": "İYİ Parti Sözcüsü Buğra Kavuncu'dan süreç eleştirisi: 'AK Parti kanadı ölüm sessizliğine yattı'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/iyi-parti-surec-elestirisi-ak-parti-kanadi-olum-sessizligine-yatti-2510480",
-  "source": "Cumhuriyet",
-  "summary_tr": "İYİ Parti Sözcüsü Buğra Kavuncu, 'Terörsüz Türkiye' yasası taslağını eleştirerek AK Parti'nin sessiz kaldığını söyledi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-08T15:01:18.243339+00:00",
-  "cluster_id": "c6b15aad246b4"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan, Venezuela Geçici Devlet Başkanı Rodriguez'i resmi törenle karşıladı",
-  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-venezuela-gecici-devlet-baskani-rodriguezi-resmi-torenle-karsiladi/3960612",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, Venezuela Geçici Devlet Başkanı Delcy Rodriguez'i resmi törenle karşıladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-08T15:01:18.243339+00:00",
-  "cluster_id": "c0bcc909e59b3"
- },
- {
-  "title": "TBMM Başkanı Kurtulmuş: Türkiye'nin yeni bir anayasayı yapma gücüne sahip olduğunun altını çizmek isterim",
-  "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-turkiyenin-yeni-bir-anayasayi-yapma-gucune-sahip-oldugunun-altini-cizmek-isterim/3960611",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "TBMM Başkanı Numan Kurtulmuş, Türkiye'nin yeni anayasa yapma gücüne sahip olduğunu vurguladı.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-08T15:01:18.243339+00:00",
-  "cluster_id": "c66dfab51590e"
- },
- {
-  "title": "Ara zam yok, sefalet var: Temmuzda milyonları ne bekliyor?",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX0ZGUmN6bU9wZjltNGtMdWllVm9IWDdnc0pyTTMtVjNjR2tYUXhmNWxvUFdWV3FoX1FZQVNLOGg5N3VDUmgzYmJYbXhiQ3dIYm80eERRZHNvRUdjeXRXYndXN0xSMlBORF9DdnQtQzhaMTRvMHdhUjZmVGJ4QUtPTEFrSVhtekVLZWZGNGxhLVNWdF8tdEpuSw?oc=5",
-  "source": "soL",
-  "summary_tr": "Temmuz ayında milyonlara ara zam verilmeyeceği, ekonomik zorlukların devam edeceği belirtiliyor.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-08T15:01:18.243339+00:00",
-  "cluster_id": "cc8c0e2564a70"
- },
- {
-  "title": "CHP’de grup toplantısı krizi: Kılıçdaroğlu’nun planı da karşı hamle de belli oldu",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWWc1eWNtZXpwbGFUbW5IdXJ5RVE2X183aUN6SWJJc3V3U3Nrb0hPSHNHNG5fR2NDRGtkSE9ZUEhJaXZQejNqcjFMU3Y2OEV6UWNzMVp5ZUV5TzU0MC1TaUcxU0dHamN1bVhmZGRMVnhHMEJtdFduN2twVnpMM1lJekRQZmpEd0F5UnQxT2UyUUROc19XSDNDQzBBZk9SSDZOclhCZnZRRWxMcEVOQU1rSk8xc1o4Nm8?oc=5",
-  "source": "soL",
-  "summary_tr": "CHP'de grup toplantısı krizi yaşanıyor; Kılıçdaroğlu'nun planı ve muhalefet hamleleri belirginleşti.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-08T15:01:18.243339+00:00",
-  "cluster_id": "cd3f27e0c10da"
- },
- {
-  "title": "Cerebras shares climb as Wall Street brokerages back AI chip strategy",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbHJ0VzJmTVJweXVKSTVfUUtaSzV5TllPSUExMTFRNE1EQTQxVlBIYlpqSlFLVS1DWEdTZ1QzLXFrR01uNVpuRm5QYkZYbTBOT24yUWs2UzFNZGhibjVjbkNmbEVTV0lzUEFMZUNUMXcxU2w3U3pjbkhaYUx1WDZfNnZzcFJxeVRoUmtuTWdPZ3JhbDlhOS1fQWVBMTlNME85Vm1pU01LYkRXb1NHaXZYYg?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Cerebras hisseleri, Wall Street aracı kurumlarının yapay zeka çipi stratejisine destek vermesiyle yükseldi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-08T15:01:18.243339+00:00",
-  "cluster_id": "c763508d8b531"
- },
- {
-  "title": "İran: İsrail'e saldırıları durdurduk",
-  "link": "https://www.dw.com/tr/iran-israil-e-saldırıları-durdurduk/a-77454095?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "İran, İsrail'e yönelik saldırılarını durdurduğunu bildirdi; Tahran, İsrail'in Lübnan'a yapacakları konusunda uyarılarda bulundu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-08T14:01:02.559152+00:00",
-  "cluster_id": "ce0d9c4ab900a"
- },
- {
-  "title": "İran'da tüm uçuşlar ikinci bir duyuruya kadar iptal edildi",
-  "link": "https://www.trthaber.com/haber/dunya/iranda-tum-ucuslar-ikinci-bir-duyuruya-kadar-iptal-edildi-947540.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail'in saldırılarının ardından İran, batı hava sahasını kapattı ve ülke genelinde tüm uçuşları iptal etti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-08T14:01:02.559152+00:00",
-  "cluster_id": "c5f4fa88aa8c1"
  }
 ]
