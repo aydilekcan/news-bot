@@ -1,5 +1,125 @@
 [
  {
+  "title": "ABD, Suudi Arabistan ile nükleer anlaşma imzaladı",
+  "link": "https://www.bbc.com/turkce/articles/c9q9jvwdxnwo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD, Suudi Arabistan ile nükleer enerji anlaşması imzaladı. İran'a stratejik bir mesaj niteliğinde olan anlaşma, bölgesel dengeler açısından önemli.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-22T22:01:15.191172+00:00",
+  "type": "news",
+  "cluster_id": "c3c325ba419e6"
+ },
+ {
+  "title": "Trump'tan 'İran' açıklaması: 'Anlaşma yapmak istiyorlar ama henüz buna hazır değiller, yakında hazır olacaklar'",
+  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-iran-aciklamasi-anlasma-yapmak-istiyorlar-ama-henuz-buna-hazir-degiller-yakinda-hazir-olacaklar-2523106",
+  "source": "Cumhuriyet",
+  "summary_tr": "Trump, İran'ın anlaşma yapmak istediğini ancak henüz hazır olmadığını söyledi. ABD-İran müzakereleri yakında ilerleyebilir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-22T22:01:15.191172+00:00",
+  "type": "news",
+  "cluster_id": "c2ebbee5ad24d"
+ },
+ {
+  "title": "Trump: İranlılar anlaşma yapmak istiyor ama henüz buna hazır değiller",
+  "link": "https://www.trthaber.com/haber/dunya/trump-iranlilar-anlasma-yapmak-istiyor-ama-henuz-buna-hazir-degiller-951926.html",
+  "source": "TRT Haber",
+  "summary_tr": "Trump, İran'ın anlaşma yapmak istediğini ancak henüz hazır olmadığını söyledi. ABD-İran müzakereleri yakında ilerleyebilir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-22T22:01:15.191172+00:00",
+  "type": "news",
+  "cluster_id": "c2ebbee5ad24d"
+ },
+ {
+  "title": "Torba kanun teklifinde 3'üncü madde metinden çıkarıldı: 4 ve 5'inci maddelerde değişikliğe gidildi",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/torba-kanun-teklifinde-3-uncu-madde-metinden-cikarildi-4-ve-5-inci-maddelerde-degisiklige-gidildi-2523105",
+  "source": "Cumhuriyet",
+  "summary_tr": "TBMM'de torba kanun teklifinin 3. maddesi metinden çıkarıldı; 4. ve 5. maddelerde değişikliğe gidildi. Yasa tasarısı süreçte AKP önerileriyle revize edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-22T22:01:15.191172+00:00",
+  "type": "news",
+  "cluster_id": "cb13fb8c7ec2c"
+ },
+ {
+  "title": "Öğretmenin taban maaş mücadelesi",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY2pNRjZBdlItSlpWUDRYWUFhNjJMTjhHQlJHR2lDV281UGtUZ3NoYTZZd01CVklhMEVrODZLM08yX0JsMGRib243ZEh2aThuSnVrVnROcHJMd3p2Vy1ReS16ck8yOGFMYWNhcEt6TzFlYThKbXZqYTBnM2dnV1YwSkFxZXFtU1lJZWdoVFh3cEs4UQ?oc=5",
+  "source": "soL",
+  "summary_tr": "Öğretmenlerin taban maaş mücadelesi gündemde. Eğitim çalışanlarının ücret taleplerinin kamuoyu görünürlüğü arttı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-22T22:01:15.191172+00:00",
+  "type": "news",
+  "cluster_id": "c8fc7b60b9525"
+ },
+ {
+  "title": "Google increases capex forecast again after cloud-driven earnings beat",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNTZyTWZjRUFlVHJzZlUxbjIzNFI4OUt5WG1WR1ZtV0U0OHlBSVpJQm10VFJiYy1zcjhHUGpYTlVRWWduUjJHd19OYW1aaTZ4ZE81V3FOU1AwQVFmVzJaeEFHYkJJNUJxQzRVZFF1dDVjLTdpNjR2bTBIN1BrVTZXMUNUaWxBVkQ3VEZBNThMeWNxRnk1RnMtLTlUS0UtNGJNNkQ4?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Google, bulut işletmelerine dayalı güçlü performans sonrası sermaye harcama tahminini yükseltti. Teknoloji sektörü yatırımları artış gösteriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-22T22:01:15.191172+00:00",
+  "type": "news",
+  "cluster_id": "c6ad8d6536903"
+ },
+ {
+  "title": "Tesla quarterly profit disappoints, posts cash burn as AI spending surges",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEtwQkhZU00zSGZYcmdzNmhEY0VUUUtyc1ZVbHV1OW80Mnd3OHlTaEh5OFFEbkZPUGt6Um5jQWRRb0tBRVZhb3MzQ21Vb2FNT0VaWlNkcThLX2V3d04zSGY4S29xUC1odU9rMGNWWWQyVVNBSUlEWUt6WkNkODJnUnFvNFhpTEZiQWNUemVrcksxZk0wb0ZpQi1ZeWtDdThJOTJkNHI4MDBaYnBCa241LXVnVE9sdzZzZ0E5SFVn?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Tesla'nın çeyrek kâr beklentileri hayal kırıklığı yarattı; yapay zeka harcamaları arttıkça nakit tüketimi devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-22T22:01:15.191172+00:00",
+  "type": "news",
+  "cluster_id": "cab76aa4a9214"
+ },
+ {
+  "title": "'Bu yaptığınız ülkeyi soydurmak' dedi, isyan etti... CHP'li Yavuzyılmaz: 'AKP, Akkuyu'da Rusya'ya 9,8 milyar dolarlık teşvik sağladı'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/bu-yaptiginiz-ulkeyi-soydurmak-dedi-isyan-etti-chp-li-yavuzyilmaz-akp-akkuyu-da-rusya-ya-9-8-milyar-dolarlik-tesvik-sagladi-2523093",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Zonguldak Milletvekili, Akkuyu Nükleer Santrali'ne Rusya'ya sağlanan 9,8 milyar dolarlık teşviki eleştirdi. TBMM'de görüşülen bütçe maddesine itiraz edildi.",
+  "metric": "Akkuyu teşviki: 9,8 milyar dolar",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-22T22:01:15.191172+00:00",
+  "type": "news",
+  "cluster_id": "c4962ac46d557"
+ },
+ {
+  "title": "Bitmeyen şantiyeler ve işsizlik kıskacında Hatay: Nüfus neden kenti terk ediyor?",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUUJGeWg0RmZ1Q2RERFpXRTMwb2JYZW1rTkFtTEdYYkhWc29MMl9fTlp6WXdhNGJoZDdYR0ZWTEZVLWdMakNheDZ3aW9ReURRNFAxT1E2Q0lTNlJzYUZtMUIyV1g3bE0tR2tZclBRWW5LUGZrb09nMVA3emt3SVBjc3BDREJnSV9kYkF6Rzg2LVJ0bUs1VVZxTTE5Snotck96eVRaeUg3RUY5VTA5cWV0akNrUVFERXc?oc=5",
+  "source": "soL",
+  "summary_tr": "Hatay'da bitmeyen inşaat şantiyelerinin işsizlik krizine ek yük olması, nüfusun kenti terk etmesine yol açıyor. Bölgesel ekonomik çöküntü devam ediyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-22T22:01:15.191172+00:00",
+  "type": "news",
+  "cluster_id": "c940a19c3ab32"
+ },
+ {
+  "title": "Oil prices rise another 3%, while Wall Street drifts in mixed trading",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRGU4c1pFU21KSHRpZmVmNU1GVG1MRUFxalNiakVTVHVXZV9qdVR2Q05FUk1IemZ6bXc3ZkVQd1kwcWNtdFJvOWNUSFhMSmJvRWp0OUZUcEFpcFJTeHdTUjNmdDhISlZ4ajNnT3lDaV9tTm44VW14Q3dncUt3b1c4SzV0dExhckhWamdzU2JaNjQ5Zw?oc=5",
+  "source": "AP",
+  "summary_tr": "Petrol fiyatları %3 artarak yükseldi; Wall Street karışık seyirle kapandı. Küresel enerji piyasasında dalgalanmalar devam ediyor.",
+  "metric": "Petrol fiyatları +%3",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-22T22:01:15.191172+00:00",
+  "type": "news",
+  "cluster_id": "cf7b683d58937"
+ },
+ {
   "title": "CHP'den istifa etmek için kuyruğa girdiler",
   "link": "https://www.sozcu.com.tr/chp-den-istifa-etmek-icin-kuyruga-girdiler-p338890",
   "source": "Sözcü",
@@ -59052,105 +59172,5 @@
   "score": 6,
   "ts": "2026-06-09T09:01:11.086880+00:00",
   "cluster_id": "cff41ea06905b"
- },
- {
-  "title": "Kılıçdaroğlu, grup toplantısını genel merkezde yapacak",
-  "link": "https://www.trthaber.com/haber/gundem/kilicdaroglu-grup-toplantisini-genel-merkezde-yapacak-947623.html",
-  "source": "TRT Haber",
-  "summary_tr": "CHP Genel Başkanı Kılıçdaroğlu, TBMM Grup Toplantısı'nın genel merkezde yapılacağını duyurdu.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-09T09:01:11.086880+00:00",
-  "cluster_id": "ce307425e20c2"
- },
- {
-  "title": "Bahçeli: CHP'de iki ayrı dil , iki ayrı yön var",
-  "link": "https://www.trthaber.com/haber/gundem/bahceli-chpde-iki-ayri-dil-iki-ayri-yon-var-947622.html",
-  "source": "TRT Haber",
-  "summary_tr": "MHP Lideri Bahçeli, CHP'de iki ayrı dil ve yön olduğunu belirtti; hukuki süreci yürütülmesi gerektiğini söyledi.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-09T09:01:11.086880+00:00",
-  "cluster_id": "c9952065ef2d5"
- },
- {
-  "title": "CHP grup toplantısına ziyaretçi kabul edilmeyecek",
-  "link": "https://www.trthaber.com/haber/gundem/chp-grup-toplantisina-ziyaretci-kabul-edilmeyecek-947616.html",
-  "source": "TRT Haber",
-  "summary_tr": "TBMM Başkanı Kurtulmuş, CHP grup toplantısına ziyaretçi kabul edilmeyeceğini duyurdu.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-09T09:01:11.086880+00:00",
-  "cluster_id": "c9c31f4e4e499"
- },
- {
-  "title": "Bahçeli'den CHP açıklaması: Özgür Özel'e seslendi",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN01ITFRBWVZUMzNHRGJGS09FQmtsLXFlM2JmZFl3NVZ4ay1GZDZERldWYXdJWGJ0SUgtMWpQT2gwczdGSklZSFFxSERMRVNzM3RBUkRrcWVCa19UcGxHcmxBV1BzZzk0TTVwOUktUElZaTJ4bnFkeFNDS0VuVlRUWDZYcG8tNFpXYU1Caw?oc=5",
-  "source": "soL",
-  "summary_tr": "MHP Lideri Bahçeli, CHP hakkında açıklama yaptı; Özgür Özel'e seslendi.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-09T09:01:11.086880+00:00",
-  "cluster_id": "c0bba278d1129"
- },
- {
-  "title": "Kurtulmuş’tan Kılıçdaroğlu’na Özel hakkında bir iyi bir de kötü haber",
-  "link": "https://yetkinreport.com/2026/06/09/kurtulmustan-kilicdarogluna-ozel-hakkinda-bir-iyi-bir-de-kotu-haber/",
-  "source": "YetkinReport",
-  "summary_tr": "CHP'de Kurtulmuş tarafından Kılıçdaroğlu'na yönelik eleştiri; Anayasa Mahkemesi kararının demokrasi tartışması başlattığı belirtildi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-09T08:01:03.965446+00:00",
-  "cluster_id": "c2d6fdaa3753e"
- },
- {
-  "title": "Türkiye ve Kanada'dan tarihi imza: Serbest Ticaret Anlaşması için ilk adım atıldı",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/turkiye-ve-kanada-dan-tarihi-imza-serbest-ticaret-anlasmasi-icin-ilk-adim-atildi-2510641",
-  "source": "Cumhuriyet",
-  "summary_tr": "Türkiye ile Kanada arasında Serbest Ticaret Anlaşması müzakereleri için istikşafi görüşmeler başlatıldı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-09T08:01:03.965446+00:00",
-  "cluster_id": "ce4ea9d76f196"
- },
- {
-  "title": "Mayısta en fazla kazandıran yatırım aracı mevduat faizi oldu",
-  "link": "https://www.trthaber.com/haber/ekonomi/mayista-en-fazla-kazandiran-yatirim-araci-mevduat-faizi-oldu-947610.html",
-  "source": "TRT Haber",
-  "summary_tr": "Mayıs ayında en yüksek reel getiri yüzde 1,38 oranıyla mevduat faizinde gerçekleşti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-09T08:01:03.965446+00:00",
-  "cluster_id": "c5d3f804bc358"
- },
- {
-  "title": "Türkiye ile Kanada arasında STA görüşmeleri başlıyor",
-  "link": "https://www.trthaber.com/haber/ekonomi/turkiye-ile-kanada-arasinda-sta-gorusmeleri-basliyor-947608.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye Ticaret Bakanı Ömer Bolat ve Kanada Uluslararası Ticaret Bakanı Maninder Sidhu, Serbest Ticaret Anlaşması müzakerelerine başlama kararı aldı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-09T08:01:03.965446+00:00",
-  "cluster_id": "c9270de438dff"
- },
- {
-  "title": "Son dakika... Mansur Yavaş'tan Kılıçdaroğlu'na açık çağrı: 'Milyonlarca CHP'li sağduyulu bir yaklaşım göstermenizi bekliyor'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-mansur-yavas-tan-kilicdaroglu-na-acik-cagri-milyonlarca-chp-li-sagduyulu-bir-yaklasim-gostermenizi-bekliyor-2510637",
-  "source": "Cumhuriyet",
-  "summary_tr": "Ankara Büyükelçi Mansur Yavaş, mahkeme kararıyla atanan Kemal Kılıçdaroğlu'na çağrı yaptı; CHP içi gerilim sürüyor.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-09T08:01:03.965446+00:00",
-  "cluster_id": "c7487ac2a9bed"
- },
- {
-  "title": "Yavaş'tan Kılıçdaroğlu'na son dakika çağrısı: Milyonlarca CHP'li sağduyu göstermenizi bekliyor",
-  "link": "https://www.sozcu.com.tr/yavas-tan-kilicdaroglu-na-cagri-p326409",
-  "source": "Sözcü",
-  "summary_tr": "Ankara Büyükelçi Mansur Yavaş, CHP Genel Başkanı Kılıçdaroğlu'na sağduyulu yaklaşım çağrısında bulundu.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-09T08:01:03.965446+00:00",
-  "cluster_id": "c7487ac2a9bed"
  }
 ]
