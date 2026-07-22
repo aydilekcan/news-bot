@@ -1,5 +1,17 @@
 [
  {
+  "title": "CHP'den istifa etmek için kuyruğa girdiler",
+  "link": "https://www.sozcu.com.tr/chp-den-istifa-etmek-icin-kuyruga-girdiler-p338890",
+  "source": "Sözcü",
+  "summary_tr": "CHP'den istifalar hızlanıyor. Özgür Özel'in yeni parti açıklamasının ardından Çanakkale'deki vatandaşlar istifa dilekçesi verdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-22T21:01:07.263691+00:00",
+  "type": "news",
+  "cluster_id": "cb8faf9c852da"
+ },
+ {
   "title": "Maduro'nun akıbeti belli oldu",
   "link": "https://www.sozcu.com.tr/maduro-nun-akibeti-belli-oldu-p338871",
   "source": "Sözcü",
@@ -59140,15 +59152,5 @@
   "score": 6,
   "ts": "2026-06-09T08:01:03.965446+00:00",
   "cluster_id": "c7487ac2a9bed"
- },
- {
-  "title": "Yapay zeka yarışı: OpenAI gizlice halka arz başvurusunu yaptı",
-  "link": "https://www.trthaber.com/haber/dunya/yapay-zeka-yarisi-openai-gizlice-halka-arz-basvurusunu-yapti-947605.html",
-  "source": "TRT Haber",
-  "summary_tr": "OpenAI, halka arz için ilk resmi başvuruyu gizlice yaptı; yapay zeka sektöründe önemli adım atıldı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-09T08:01:03.965446+00:00",
-  "cluster_id": "c1da5ede70fc2"
  }
 ]
