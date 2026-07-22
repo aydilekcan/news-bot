@@ -1,5 +1,89 @@
 [
  {
+  "title": "Trump açıkladı: İran savaşında 18 ABD askeri öldü",
+  "link": "https://www.cumhuriyet.com.tr/dunya/trump-acikladi-iran-savasinda-18-abd-askeri-oldu-2522831",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD Başkanı Trump, ABD-İsrael ile İran arasındaki çatışmada 18 ABD askerinin öldüğünü açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-22T07:01:16.600984+00:00",
+  "type": "news",
+  "cluster_id": "cce34fccd3a22"
+ },
+ {
+  "title": "ABD’den İran’a 11’inci saldırı dalgası: Hürmüz Boğazı hedefte",
+  "link": "https://www.cumhuriyet.com.tr/dunya/abd-den-iran-a-11-inci-saldiri-dalgasi-hurmuz-bogazi-hedefte-2522823",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD, İran'ı Hürmüz Boğazı'nda ticari gemileri tehdit etmekten zayıflatmayı amaçlayan 11. saldırı dalgasını düzenledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-22T07:01:16.600984+00:00",
+  "type": "news",
+  "cluster_id": "c8df4f1281f7e"
+ },
+ {
+  "title": "WSJ: Trump, Suudi Arabistan ile nükleer anlaşmayı onayladı",
+  "link": "https://www.aa.com.tr/tr/dunya/wsj-trump-suudi-arabistan-ile-nukleer-anlasmayi-onayladi/4005366",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Trump, Suudi Arabistan ile sivil nükleer program sağlamayı ve uranyum zenginleştirmesinin önünü açmayı içeren bir anlaşmayı onayladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-22T07:01:16.600984+00:00",
+  "type": "news",
+  "cluster_id": "c4b5df3492f6e"
+ },
+ {
+  "title": "Ukraine’s Zelenskyy fires his military chief after protests and names a replacement",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaG1RSm1YdVEzM0xjem9rOGlQZ1NiSlY1cFV6cElaRnp4Y0hkN2N2WkVMUGFCcThVNld3cXd1cWk0UnlybmlYRlVpcmV4VlU5bm5oU3VzRDVpbURabEtMbDJ0LXBIR0RVbzZWUll3T3A3UjZxWTcwa2FXM1diVGRoU2tubXlxckNWQkh1bmFodk1WZkpWNWMwc2hNZFg?oc=5",
+  "source": "AP",
+  "summary_tr": "Zelenskyy protestoların ardından askeri başkanını görevden aldı ve yerine yeni bir komutan atadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-22T07:01:16.600984+00:00",
+  "type": "news",
+  "cluster_id": "c2070d5a56c36"
+ },
+ {
+  "title": "Hungarian prosecutors raid Orbán party’s data center in embezzlement probe",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS1dNelQ2LTBTLThmOG9BY1ZXNWpQZnFCV2dFMkdqdjlveVA5UVJJUUY5THE2bjYzOHN0OWpLOGl4ZTl0d3JnVFJhRVZmRGlCUmphZUpZMUJVdnZEaWY4THJudlFzUEZuQ2xHODVfWlI3YlBUeXZzTE44aC1XdjRjdGduclN5VFB3YXpaSEZMbm9udlAteWtUeU95a1paLU1hOEx5b1Awbw?oc=5",
+  "source": "AP",
+  "summary_tr": "Macaristan savcıları, Orbán partisinin veri merkezine rüşvet soruşturması kapsamında baskın düzenledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-22T07:01:16.600984+00:00",
+  "type": "news",
+  "cluster_id": "c8de482d1746b"
+ },
+ {
+  "title": "İngiltere'de yıllık enflasyon haziranda beklentilerin altında kaldı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/ingilterede-yillik-enflasyon-haziranda-beklentilerin-altinda-kaldi/4005371",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İngiltere'de yıllık enflasyon haziranda %2,6 ile beklentilerin altında gerçekleşti.",
+  "metric": "İngiltere yıllık enflasyon %2,6 (beklentilerin altında)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-22T07:01:16.600984+00:00",
+  "type": "news",
+  "cluster_id": "c3e55d8d7c071"
+ },
+ {
+  "title": "Oil extends gains to near six-week highs on new Middle East supply risks",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVktKb0FFdG9HQ0VvZ0dKR2ozZExNVVZ5eU1Wc29kUmhBRHVQclVYNk14WXhfb0MxV2lyaEk2UDJLdGJOdk9sRjE2M3NaNXpmUVBOSTFTLVFHSTV0UnJKTG5fZm95czJacHdDVVU2cE8wd013R1B4M0RHcHF2YURVX3pmbENTbktzRzRfZ0htelRKU1hQNUp4Z3ZFNUV5RkZ1NFE3STNndlFVSVVFT0JHUWVudU1XXzcwQXc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Orta Doğu'daki yeni arz riskleri nedeniyle petrol fiyatları altı haftanın yüksek seviyesine yaklaştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-22T07:01:16.600984+00:00",
+  "type": "news",
+  "cluster_id": "c2980b00fa6ea"
+ },
+ {
   "title": "Merkez Bankası faiz kararını açıklıyor: Piyasaların gözü yarınki kritik toplantıda",
   "link": "https://www.sozcu.com.tr/merkez-bankasi-faiz-kararini-acikliyor-piyasalarin-gozu-yarinki-kritik-toplantida-p338626",
   "source": "Sözcü",
@@ -58852,75 +58936,5 @@
   "score": 8,
   "ts": "2026-06-08T14:01:02.559152+00:00",
   "cluster_id": "c5f4fa88aa8c1"
- },
- {
-  "title": "Kömür fiyatlarında 2,5 yılın zirvesi",
-  "link": "https://www.sozcu.com.tr/komur-fiyatlarinda-2-5-yilin-zirvesi-p326238",
-  "source": "Sözcü",
-  "summary_tr": "Kömür fiyatları 2,5 yılın zirvesine ulaştı; Endonezya'nın ihracat kısıtlamaları ve artan yaz talebi fiyatları sürükledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T14:01:02.559152+00:00",
-  "cluster_id": "c331985db2dcf"
- },
- {
-  "title": "MİT Başkanı Kalın Gazze diplomasisi için Kahire'de",
-  "link": "https://www.trthaber.com/haber/gundem/mit-baskani-kalin-gazze-diplomasisi-icin-kahirede-947543.html",
-  "source": "TRT Haber",
-  "summary_tr": "MİT Başkanı İbrahim Kalın, Gazze Şeridinde ateşkes anlaşmasının ikinci aşamasına yönelik çalışmalar için Kahire'de.",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-06-08T14:01:02.559152+00:00",
-  "cluster_id": "c818270ee0f01"
- },
- {
-  "title": "Yemen's Iran-backed Houthis threaten Israeli shipping in the Red Sea",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLWxJeXJBNklmZEtETkg1d3ZTRkY2NUh4dlNXcy11Y0FYXzVoXzZ2anNoSHhuUTdSSUFvN2V4TzdfTlAwc0NLWEFYZFRuLWx3cUtUNEJmN1dkMVE1bHJhYXJJOW1VVEJZZFRtTTMzUUExNHlKNmtyQWlGbHAxY24xd0ptRnk5MWh5UHNNVmFaRUppckQ0WjlteHFPTHNVa0cxdll4cjdiVmE0dzVwWkhERXFONzM?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Yemen'in İran yanlısı Husileri, Kızıl Deniz'de İsrail'i hedefleyen gemi nakliyatına tehdit oluşturuyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T14:01:02.559152+00:00",
-  "cluster_id": "cc5e1d9360c61"
- },
- {
-  "title": "Grup toplantısı talebi reddedilen Kılıçdaroğlu'ndan TBMM Başkanlığı'na doğrudan başvuru",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTlN6c3VqVnZqNjcxd2tRUUNKR0xma0ZTeTJZX0ZucGZQQnA0MkJvMVFGMTk1VFdfVEtKSWNPQnJkLVRCM2trN01rYm55MHBwTFlWTXZCVHJaSmx0Yms5VzBrN2xFaWh2alA5ZlNLdG1vSmNFVUphREttOHhzQ3NzUEs4b1ZXVFFuTjBBblEza1llTlBlMWRESzVIb0hTWk1xcUd4cGljcTN0NlN0SUs1UjJRNXRSTTVvSGhkQ1oxYjc?oc=5",
-  "source": "soL",
-  "summary_tr": "Kılıçdaroğlu, grup toplantısı talebinin reddedilmesinin ardından TBMM Başkanlığı'na doğrudan başvuruda bulundu.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-08T14:01:02.559152+00:00",
-  "cluster_id": "c8fe7b6923815"
- },
- {
-  "title": "Israel and Iran trade strikes, threatening to drag the region back into full-scale war",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNFd1SWJOdm5JcmNCOVlSSWtZektaRGxzQTkwWHBMUllKcUZlb1FYbEV0R3F3elU0NVVEUjlJOUVVVE9VR2NCU3d0V2F2RjY1N1Vhelh1UkNXdXRUbE5LbUhQQTNJRnZTa28teXBfNUg4X3UzWUw5dkQ1ODJmYzBOYlAyUmFvMzcyWFBINmpfWC1ZZHpHQ2h5Ykxn?oc=5",
-  "source": "AP",
-  "summary_tr": "İsrail ve İran karşılıklı saldırılar düzenleyerek bölgeyi tam ölçekli savaşa sürükleme riski oluşturdu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-08T13:01:08.035720+00:00",
-  "cluster_id": "c4087b24fcd55"
- },
- {
-  "title": "CHP Grubu reddetmişti: Kılıçdaroğlu yarınki grup toplantısı için bu kez de Meclis Başkanlığı'na yazı yazdı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-grubu-reddetmisti-kilicdaroglu-yarinki-grup-toplantisi-icin-bu-kez-de-meclis-baskanligi-na-yazi-yazdi-2510428",
-  "source": "Cumhuriyet",
-  "summary_tr": "Kılıçdaroğlu, CHP Grup Yönetimi'nin reddetmesinin ardından TBMM Başkanlığı'na yazı yazarak grup toplantısı yapma girişiminde bulundu.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-08T13:01:08.035720+00:00",
-  "cluster_id": "c22a88c00b2d4"
- },
- {
-  "title": "AB'den İran'a seyrüsefer serbestisini ihlal ettiği gerekçesiyle yaptırım",
-  "link": "https://www.aa.com.tr/tr/dunya/abden-irana-seyrusefer-serbestisini-ihlal-ettigi-gerekcesiyle-yaptirim/3960432",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "AB, Hürmüz Boğazı'nda seyrüsefer serbestisini tehdit ettiği gerekçesiyle İran Devrim Muhafızları Deniz Kuvvetlerine yaptırım uyguladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T13:01:08.035720+00:00",
-  "cluster_id": "cf3661b16e982"
  }
 ]
