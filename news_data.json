@@ -1,5 +1,41 @@
 [
  {
+  "title": "Son Dakika... Özgür Özel yanıtladı: Yeni Parti ne zaman kurulacak?",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-ozgur-ozel-yanitladi-yeni-parti-ne-zaman-kurulacak-2523019",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Lideri Özgür Özel yeni partinin kuruluş tarihini açıklamış; çok sayıda CHP vekili istifa edecek.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-22T16:01:08.751690+00:00",
+  "type": "news",
+  "cluster_id": "c9d527514872b"
+ },
+ {
+  "title": "CHP'den kaç vekil istifa edecek? Özgür Özel o soruyu tarih vererek yanıtladı",
+  "link": "https://www.sozcu.com.tr/chp-den-kac-vekil-istifa-edecek-ozgur-ozel-o-soruyu-tarih-vererek-yanitladi-p338834",
+  "source": "Sözcü",
+  "summary_tr": "CHP Lideri Özgür Özel yeni parti kuruluş tarihini duyurmuş; Partiden istifa edecek vekil sayısına ilişkin açıklama yaptı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-22T16:01:08.751690+00:00",
+  "type": "news",
+  "cluster_id": "c2b01f8006dc1"
+ },
+ {
+  "title": "Vakıf üniversitelerinde bu yıl öğrenim ücreti artışı yüzde 25'i aşamayacak",
+  "link": "https://www.aa.com.tr/tr/gundem/vakif-universitelerinde-bu-yil-ogrenim-ucreti-artisi-yuzde-25i-asamayacak/4006035",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Vakıf üniversitelerinde 2026-2027 öğretim yılında öğrenim ücreti artışı %25'i geçmeyecek.",
+  "metric": "Öğrenim ücreti artış oranı %25 sınırı",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-22T16:01:08.751690+00:00",
+  "type": "news",
+  "cluster_id": "c808c568ec2d4"
+ },
+ {
   "title": "Trump'tan İran'ın sivil altyapısını vurma tehdidi",
   "link": "https://www.bbc.com/turkce/articles/c935gy0rd2vo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59050,35 +59086,5 @@
   "score": 7,
   "ts": "2026-06-09T02:00:50.759921+00:00",
   "cluster_id": "caa5d126420ce"
- },
- {
-  "title": "Dört ayda 631 bin emekçi işten atıldı",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/dort-ayda-631-bin-emekci-isten-atildi-2510564",
-  "source": "Cumhuriyet",
-  "summary_tr": "Ocak-Nisan 2025'te işten atılan işçi sayısı 630 bin 794 kişiye ulaştı; İŞKUR başvuruları yüzde 8.4 arttı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-09T02:00:50.759921+00:00",
-  "cluster_id": "cad81192ede78"
- },
- {
-  "title": "Meclis gece yarısı alarma geçti! 6 bin kişilik felaket senaryosu",
-  "link": "https://www.sozcu.com.tr/meclis-gece-yarisi-alarma-gecti-6-bin-kisilik-felaket-senaryosu-p326325",
-  "source": "Sözcü",
-  "summary_tr": "CHP Grup Toplantısında Kılıçdaroğlu ve Özgür Özel kürsüye çıkacak; Meclis gece yarısı alarma geçti.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-09T02:00:50.759921+00:00",
-  "cluster_id": "c65969e2898b0"
- },
- {
-  "title": "Trump warned Netanyahu against renewed Iran war, Axios reports",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdEppbGtCYUg1d2g4cVR1d3pxTDZVNFJKTV9sSm5xbEl0V19VQVVvMlZIYXFQeXRtbkZ5SnRVUjRmb19mdEg3bjMwNXZmMjJnT3pmODRIMGZkNGZyenhoYjQ3STlyeVZpNkNvODNoS25YM2pXd1JXaHpxaFNkeUQzWkU5aTMwR2JkanlfcXl0RkNnVVNpV1NkQS1IN2ZGWHBMX0FaeVY0YmJYUWF3ZEUxRWZqb01uUQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, Netanyahu'yu İran'la yeniden savaşa karşı uyardı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-09T01:00:53.078583+00:00",
-  "cluster_id": "cea96863ec774"
  }
 ]
