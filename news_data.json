@@ -1,5 +1,65 @@
 [
  {
+  "title": "ECB kararında gözler savaşın etkisinde! Faizler sabit kalabilir, yeni mesajlar kritik olacak",
+  "link": "https://www.sozcu.com.tr/ecb-kararinda-gozler-savasin-etkisinde-faizler-sabit-kalabilir-yeni-mesajlar-kritik-olacak-p338702",
+  "source": "Sözcü",
+  "summary_tr": "Avrupa Merkez Bankası yarın faiz kararını açıklayacak; Orta Doğu gerilimleri nedeniyle merkez bankalarının politika sinyalleri kritik olacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-22T09:01:13.064000+00:00",
+  "type": "news",
+  "cluster_id": "cf70daf767191"
+ },
+ {
+  "title": "İngiltere'de aylık enflasyon yüzde 0,1 olarak açıklandı",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/ingiltere-de-aylik-enflasyon-yuzde-0-1-olarak-aciklandi-2522880",
+  "source": "Cumhuriyet",
+  "summary_tr": "İngiltere'de yıllık enflasyon haziranda %2,6 ile beklentilerin altında gerçekleşti; aylık enflasyon %0,1 olarak açıklandı.",
+  "metric": "TUFE (yıllık, İngiltere) %2,6",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-22T09:01:13.064000+00:00",
+  "type": "news",
+  "cluster_id": "c128fe15eb621"
+ },
+ {
+  "title": "UK inflation slows in temporary boost for new PM Burnham",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zT2lzOGZHUzVZd3B5NWJBcmRtcEdmUmVIc0QwZ2U2WEtQLXozVnZiZ1pqSmhldVlrd3U5ZzY5QlMzbGw3eGpjM0hMUzhJSk9acXVQNmpmeWVPaXZxYi1lZDlOZFFiWkxrejdERTNHZFRvRW5aZUt2MWVsUQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İngiltere'de enflasyon yavaşlayarak, yeni Başkan Burnham için geçici bir avantaj oluşturdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-22T09:01:13.064000+00:00",
+  "type": "news",
+  "cluster_id": "ce974d7476b2d"
+ },
+ {
+  "title": "Emekliler meydana indi: İnsanca ve onurlu bir emeklilik istiyoruz",
+  "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/emekliler-meydana-indi-insanca-ve-onurlu-bir-emeklilik-istiyoruz-2522877",
+  "source": "Cumhuriyet",
+  "summary_tr": "DİSK Devrimci Emekliler Sendikası üyeleri, emekli aylıklarının artırılmasını talep ederek İzmir'de eylem düzenlediler.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-22T09:01:13.064000+00:00",
+  "type": "news",
+  "cluster_id": "c779af93cbc66"
+ },
+ {
+  "title": "Güneydoğulu halıcılardan 6 ayda 845,6 milyon dolarlık ihracat",
+  "link": "https://www.aa.com.tr/tr/ekonomi/guneydogulu-halicilardan-6-ayda-845-6-milyon-dolarlik-ihracat/4005561",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Güneydoğulu halıcılar, ilk yarıda 157 milyon 444 bin metrekare halı ihracatı yaparak 845,6 milyon dolarlık ihracat gerçekleştirdiler.",
+  "metric": "Halı ihracatı değeri (6 ay) 845,6 milyon dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-22T09:01:13.064000+00:00",
+  "type": "news",
+  "cluster_id": "c5bab6b8f9c74"
+ },
+ {
   "title": "Çerçeve yasa Meclis’e geliyor: ‘Öcalan düzenlemesi yok’",
   "link": "https://www.cumhuriyet.com.tr/siyaset/cerceve-yasa-meclis-e-geliyor-ocalan-duzenlemesi-yok-2522856",
   "source": "Cumhuriyet",
@@ -58904,55 +58964,5 @@
   "score": 7,
   "ts": "2026-06-08T16:01:08.898849+00:00",
   "cluster_id": "ca25418ecb73d"
- },
- {
-  "title": "Kemal ve Selvi Kılıçdaroğlu'nu tehdit eden kişi tutuklandı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/kemal-ve-selvi-kilicdaroglu-nu-tehdit-eden-kisi-tutuklandi-2510488",
-  "source": "Cumhuriyet",
-  "summary_tr": "Kemal ve Selvi Kılıçdaroğlu'na tehdit ve hakaret ettiği iddiasıyla gözaltına alınan kişi tutuklandı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-08T16:01:08.898849+00:00",
-  "cluster_id": "c41805704160e"
- },
- {
-  "title": "Trump says Israel and Iran 'looking to do an immediate ceasefire'",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPalF4ZG9xOHFXbHQyMDR0ZVJCSnJsWl9xT2tza1F1dEpWNzhCamRnTDVJcXQ4TW1UYm1URDZuaG1mZnFNWXoxVHlKbHJOZWY0dFlRVTJfUnEyTFBFeWdnbGpJc3o1V2tDWExGbVhKSUVXdUNEU3gtVVp3ekI2UDR5ekYxZ05PQU13WmNNVHh6bS14SEx4Y3ZoOXAwMjBRRERxX0xmSC1aRS1HbFVpekE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Donald Trump, İsrail ve İran'ın acil ateşkes için görüşmeler yaptığını söyledi; Orta Doğu gerilimi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-08T15:01:18.243339+00:00",
-  "cluster_id": "c23fc29ad053d"
- },
- {
-  "title": "GKRY ile Fransa arasında askeri işbirliği anlaşması",
-  "link": "https://www.cumhuriyet.com.tr/dunya/gkry-ile-fransa-arasinda-askeri-isbirligi-anlasmasi-2510483",
-  "source": "Cumhuriyet",
-  "summary_tr": "Güney Kıbrıs Rum Yönetimi ile Fransa arasında askeri işbirliği anlaşması imzalandı; Fransız askeri GKRY'de konuşlandırılacak.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T15:01:18.243339+00:00",
-  "cluster_id": "c0070995cec9d"
- },
- {
-  "title": "Fransa Kıbrıs'ta Rum Kesimi ile askeri anlaşma yaptı",
-  "link": "https://www.sozcu.com.tr/fransa-kibris-ta-rum-kesimi-ile-askeri-anlasma-yapti-p326245",
-  "source": "Sözcü",
-  "summary_tr": "Güney Kıbrıs Rum Yönetimi ile Fransa arasında imzalanan Kuvvetler Statüsü Anlaşması yürürlüğe girdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T15:01:18.243339+00:00",
-  "cluster_id": "ca87574c8ba68"
- },
- {
-  "title": "Rusya: Ukrayna'yla krizin çözümüne yönelik dürüst ve hilesiz müzakerelere hazırız",
-  "link": "https://www.aa.com.tr/tr/dunya/rusya-ukraynayla-krizin-cozumune-yonelik-durust-ve-hilesiz-muzakerelere-haziriz/3960587",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Rusya Dışişleri Bakanı Sergey Lavrov, Ukrayna ile krizin çözümü için dürüst müzakerelere hazır olduklarını belirtti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T15:01:18.243339+00:00",
-  "cluster_id": "c0770db253d21"
  }
 ]
