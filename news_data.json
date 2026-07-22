@@ -1,5 +1,125 @@
 [
  {
+  "title": "İran'dan nükleer tesise saldırı halinde savaşın bölgeye yayılabileceği tehdidi",
+  "link": "https://www.bbc.com/turkce/articles/c935gy0rd2vo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "İran, ABD'nin Kazma Dağı'ndaki nükleer tesise saldırması halinde savaşın bölgeye yayılacağı tehdidinde bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-22T13:01:21.130401+00:00",
+  "type": "news",
+  "cluster_id": "c42f339357e4a"
+ },
+ {
+  "title": "Hürmüz Boğazı’nda yeni saldırı: ABD, Lark Adası’nı vurdu",
+  "link": "https://www.cumhuriyet.com.tr/dunya/hurmuz-bogazi-nda-yeni-saldiri-abd-lark-adasi-ni-vurdu-2522976",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD, İran'ın Hürmüz Boğazı'ndaki Lark Adası'nı füze saldırısıyla hedef aldığı bildirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-22T13:01:21.130401+00:00",
+  "type": "news",
+  "cluster_id": "cdf6c735ad964"
+ },
+ {
+  "title": "Bahreyn ve Suudi Arabistan'da sirenler çaldı",
+  "link": "https://www.trthaber.com/haber/dunya/bahreyn-ve-suudi-arabistanda-sirenler-caldi-951880.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran'ın saldırıları devam ederken Bahreyn ve Suudi Arabistan'da sirenler çaldı ve halka güvenli yerlere gitme çağrısı yapıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-22T13:01:21.130401+00:00",
+  "type": "news",
+  "cluster_id": "cf15b1db12a21"
+ },
+ {
+  "title": "S&P, Türkiye'de faiz indirimi için dördüncü çeyreği işaret etti",
+  "link": "https://www.diken.com.tr/sp-turkiyede-faiz-indirimi-icin-dorduncu-ceyregi-isaret-etti/?utm_source=rss&utm_medium=rss&utm_campaign=sp-turkiyede-faiz-indirimi-icin-dorduncu-ceyregi-isaret-etti",
+  "source": "Diken",
+  "summary_tr": "S&P, Türkiye Merkez Bankası'nın dördüncü çeyrek döneminde faiz indirimini işaret etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-22T13:01:21.130401+00:00",
+  "type": "news",
+  "cluster_id": "ce7d2e8ef3938"
+ },
+ {
+  "title": "Protestolar işe yaradı: Ukrayna ordusunun komutanı değişti",
+  "link": "https://www.sozcu.com.tr/protestolar-ise-yaradi-ukrayna-ordusunun-generali-degisti-p338785",
+  "source": "Sözcü",
+  "summary_tr": "Ukrayna Devlet Başkanı Zelenskiy, protestoların ardından Silahlı Kuvvetler Başkomutanı Oleksandr Sirskiy'yi görevden alarak yerine yeni bir komutan atadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-22T13:01:21.130401+00:00",
+  "type": "news",
+  "cluster_id": "c15bbb361cc44"
+ },
+ {
+  "title": "AKP'li vekilin eşine 3.7 milyar TL'lik ihale verildi!",
+  "link": "https://www.sozcu.com.tr/akp-li-vekilin-esine-3-7-milyar-tl-lik-ihale-verildi-p338784",
+  "source": "Sözcü",
+  "summary_tr": "Ziraat Teknoloji A.Ş.'nin 3 milyar 777 milyon TL'lik ihalesi AKP Milletvekili Asuman Erdoğan'ın eşine verildiği iddia edildi.",
+  "metric": "3.777 milyar TL ihale",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-22T13:01:21.130401+00:00",
+  "type": "news",
+  "cluster_id": "cc0ea9fbc9b97"
+ },
+ {
+  "title": "Ukrayna’da savaş yönetimine karşı eylemler: Ordu komutanı görevden alındı",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUFMyYTNoQkZPd0dyRzZUbkhtQ2dzNk9UdHpMRldjQ2RaTUhBMHZXTm1reDZoUWU1Q1dZSklXbGozUURDRUFRbzZOZ29odG5tQlJFTERWQmxDbElxRGd0MFAyYlBCVWNPdFVnWnktTW9wWHdISml0b002X2JRaTF5U0JuTllnMEtIVHg5cUtJMFpOTkNzenM2S3Mybmp6ZTlTZDJrQllkWmlON1NhWVE?oc=5",
+  "source": "soL",
+  "summary_tr": "Ukrayna'da savaş yönetimine karşı protestoların ardından ordu komutanı görevden alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-22T13:01:21.130401+00:00",
+  "type": "news",
+  "cluster_id": "c8e777bef952a"
+ },
+ {
+  "title": "Yedi soruda Özgür Özel'in kuracağı 'Yeni Parti': Yol haritasında neler var?",
+  "link": "https://www.bbc.com/turkce/articles/c14103pz2y1o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "CHP Genel Başkanı Özgür Özel, yeni bir parti kurmak için harekete geçti. Kuracağı partinin yol haritası ve hedefleri sorgulanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-22T13:01:21.130401+00:00",
+  "type": "news",
+  "cluster_id": "c0a596dbe6fed"
+ },
+ {
+  "title": "Rekabet Kurumu’ndan onay çıktı: Tekfen'in yeni patronu belli oldu",
+  "link": "https://www.sozcu.com.tr/rekabet-kurumu-ndan-onay-cikti-tekfen-in-yeni-patronu-belli-oldu-p338788",
+  "source": "Sözcü",
+  "summary_tr": "Rekabet Kurumu, Tekfen'in Can Holding'e ait yüzde 42,8'lik hissesinin OYAK'a devredilmesini onayladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-22T13:01:21.130401+00:00",
+  "type": "news",
+  "cluster_id": "c3105d82d0b93"
+ },
+ {
+  "title": "Finansal kesim dışındaki firmaların net döviz açığı mayısta azaldı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/finansal-kesim-disindaki-firmalarin-net-doviz-acigi-mayista-azaldi/4005840",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Finansal kesim dışındaki firmaların net döviz açığı mayıs ayında 204 milyar 415 milyon dolar oldu.",
+  "metric": "Net döviz açığı: 204,415 milyar USD (Mayıs)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-22T13:01:21.130401+00:00",
+  "type": "news",
+  "cluster_id": "cf3d6ad9e6065"
+ },
+ {
   "title": "Özgür Özel liderliğindeki yeni partiye ne tepki geldi?",
   "link": "https://www.bbc.com/turkce/articles/cr7kv74z4g4o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -58910,105 +59030,5 @@
   "score": 8,
   "ts": "2026-06-08T19:01:01.689088+00:00",
   "cluster_id": "c3dcd7dffe050"
- },
- {
-  "title": "ABD Başkanı Trump'tan Netanyahu'ya İran'a saldırı uyarısı: Yalnız kalabilirsin",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trumptan-netanyahuya-irana-saldiri-uyarisi-yalniz-kalabilirsin/3960787",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Trump, Netanyahu'ye telefon görüşmesinde İran'a saldırı konusunda uyarı yaptı; karşılıklı saldırıların bölgesel krize yol açabileceğini belirtti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-08T19:01:01.689088+00:00",
-  "cluster_id": "c3dcd7dffe050"
- },
- {
-  "title": "Kılıçdaroğlu’ndan kurultay mesajı: “Kurultay sürecimizi başlatıyoruz”",
-  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41M0RWN3RpNWhOVmIxekF2V0RCTE4zX2NWYktodi1NTkhON2VTcnhETFhYZTc3NnFHRGF6VnFiSXRRQndUS3FINk5lYlBtQnZNaU9uUk9nZlF4SG5mTnNYSy1lTEthYzNTZThTdnNmdVotSGlZ?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Kılıçdaroğlu, CHP kurultay sürecini başlatacağını açıkladı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-08T19:01:01.689088+00:00",
-  "cluster_id": "c36ef03fc5381"
- },
- {
-  "title": "İki kez ertelenmişti: Dört ilde Öcalan’a 'özgürlük' mitingi düzenlenecek",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/iki-kez-ertelenmisti-dort-ilde-ocalan-a-ozgurluk-mitingi-duzenlenecek-2510519",
-  "source": "Cumhuriyet",
-  "summary_tr": "DEM Parti öncülüğünde PKK lideri Öcalan'a 'özgürlük' mitingi 27-28 Haziran'da dört ilde düzenlenecek.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-08T19:01:01.689088+00:00",
-  "cluster_id": "cb819716cd2ff"
- },
- {
-  "title": "Teröristbaşı için 4 ilde 'Özgürlük Mitingi' yapacaklar",
-  "link": "https://www.sozcu.com.tr/teroristbasi-icin-4-ilde-ozgurluk-mitingi-yapacaklar-p326277",
-  "source": "Sözcü",
-  "summary_tr": "DEM Parti öncülüğünde Öcalan'a yönelik 'Özgürlük Mitingi' 27-28 Haziran'da dört ilde düzenlenecek.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-08T19:01:01.689088+00:00",
-  "cluster_id": "c74c1b3232953"
- },
- {
-  "title": "CENTCOM: ABD Umman Körfezi'nde boş petrol tankerini vurdu",
-  "link": "https://www.trthaber.com/haber/dunya/centcom-abd-umman-korfezinde-bos-petrol-tankerini-vurdu-947555.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD CENTCOM, Umman Körfezi'nde İran'a yönelik ablukayı ihlal ettiğini iddia ettiği Palau bayrağı taşıyan boş petrol tankerini vurdu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-08T18:01:04.508213+00:00",
-  "cluster_id": "c3342fa0089aa"
- },
- {
-  "title": "Israel and Iran appear to pause strikes after trading fire for the first time since April ceasefire",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNFd1SWJOdm5JcmNCOVlSSWtZektaRGxzQTkwWHBMUllKcUZlb1FYbEV0R3F3elU0NVVEUjlJOUVVVE9VR2NCU3d0V2F2RjY1N1Vhelh1UkNXdXRUbE5LbUhQQTNJRnZTa28teXBfNUg4X3UzWUw5dkQ1ODJmYzBOYlAyUmFvMzcyWFBINmpfWC1ZZHpHQ2h5Ykxn?oc=5",
-  "source": "AP",
-  "summary_tr": "İsrail ve İran, Nisan ateşkesinden bu yana ilk kez ateş açışından sonra saldırıları durdurmaya hazır görünüyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-08T18:01:04.508213+00:00",
-  "cluster_id": "c51a160077ef7"
- },
- {
-  "title": "Almanya ve Fransa ortak savaş uçağı projesini iptal etti",
-  "link": "https://www.dw.com/tr/almanya-ve-fransa-ortak-savaş-uçağı-projesini-iptal-etti/a-77465798?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Almanya ve Fransa, 2019'da imzalanan 100 milyar avroluk FCAS yeni nesil savaş uçağı projesini iptal etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T18:01:04.508213+00:00",
-  "cluster_id": "cd0976414110c"
- },
- {
-  "title": "Son Dakika... Kılıçdaroğlu'ndan kritik açıklama: Tarih verdi, 'kurultay sürecimizi başlatıyoruz' dedi",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-kilicdaroglu-ndan-kritik-aciklama-tarih-verdi-kurultay-surecimizi-baslatiyoruz-dedi-2510511",
-  "source": "Cumhuriyet",
-  "summary_tr": "Mahkeme kararıyla CHP yönetimine atanan Kılıçdaroğlu, 11 Haziran'da Parti Meclisi toplantısı yaparak kurultay sürecini başlatacağını açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T18:01:04.508213+00:00",
-  "cluster_id": "cd4084fee6cee"
- },
- {
-  "title": "Kılıçdaroğlu: Kurultay sürecimizi başlatıyoruz",
-  "link": "https://www.trthaber.com/haber/gundem/kilicdaroglu-kurultay-surecimizi-baslatiyoruz-947557.html",
-  "source": "TRT Haber",
-  "summary_tr": "CHP Genel Başkanı Kılıçdaroğlu, 11 Haziran'da yapılacak Parti Meclisi toplantısıyla kurultay sürecini başlatacağını açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T18:01:04.508213+00:00",
-  "cluster_id": "cd4084fee6cee"
- },
- {
-  "title": "Kılıçdaroğlu: 11 Haziran'da kurultay sürecini başlatıyoruz",
-  "link": "https://www.sozcu.com.tr/kilicdaroglu-ndan-kurultay-aciklamasi-p326269",
-  "source": "Sözcü",
-  "summary_tr": "Kılıçdaroğlu, 11 Haziran'da gerçekleştirilecek Parti Meclisi toplantısıyla kurultay sürecini başlatacağını duyurdu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T18:01:04.508213+00:00",
-  "cluster_id": "c6065a760d14d"
  }
 ]
