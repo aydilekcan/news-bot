@@ -1,5 +1,41 @@
 [
  {
+  "title": "Kurtulmuş: Türk-Kürt kardeşliği için Meclis tatile girmeden yasa çıkar",
+  "link": "https://yetkinreport.com/2026/07/22/kurtulmus-turk-kurt-kardesligi-icin-meclis-tatile-girmeden-yasa-cikar/",
+  "source": "YetkinReport",
+  "summary_tr": "Meclis Başkanı Kurtulmuş, terör karşıtı süreci yasal temele almak için 'çerçeve yasa' hazırlamaya dair temaslarını tamamladığını açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-22T17:01:09.421919+00:00",
+  "type": "news",
+  "cluster_id": "cd67935baa0a0"
+ },
+ {
+  "title": "Özgür Özel, kurmaylarıyla yeni partinin yol haritasını masaya yatırdı: PM üyeleri çoğunlukla CHP'de kalacak",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-kurmaylariyla-yeni-partinin-yol-haritasini-masaya-yatirdi-pm-uyeleri-cogunlukla-chp-de-kalacak-2523031",
+  "source": "Cumhuriyet",
+  "summary_tr": "Özgür Özel yeni parti kurma kararıyla parti içi tartışmalar başlattı; PM üyeleri çoğunlukla CHP'de kalmayı tercih ediyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-22T17:01:09.421919+00:00",
+  "type": "news",
+  "cluster_id": "c37d6f8bd8e0c"
+ },
+ {
+  "title": "Odunpazarı Belediye Başkanı Kazım Kurt, meclis üyeleriyle birlikte CHP'den istifa etti",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/odunpazari-belediye-baskani-kazim-kurt-chp-den-istifa-etti-2523029",
+  "source": "Cumhuriyet",
+  "summary_tr": "Odunpazarı Belediye Başkanı Kazım Kurt CHP'den istifa ederek yeni partiye katılacağını açıkladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-22T17:01:09.421919+00:00",
+  "type": "news",
+  "cluster_id": "c5c4506e7a7d6"
+ },
+ {
   "title": "Son Dakika... Özgür Özel yanıtladı: Yeni Parti ne zaman kurulacak?",
   "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-ozgur-ozel-yanitladi-yeni-parti-ne-zaman-kurulacak-2523019",
   "source": "Cumhuriyet",
@@ -59056,35 +59092,5 @@
   "score": 6,
   "ts": "2026-06-09T03:01:00.908064+00:00",
   "cluster_id": "c8d87388de850"
- },
- {
-  "title": "Pentagon labels tech giant Alibaba and electric car maker BYD as aiding Chinese military",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVXo0VVg0a2pPM2Z2VS15eXZET2tCTVp1Z1F4RHpRTFFiMUx3dWdlNFFJcjg5czJLT0tKMlg5LUFERkc2MUFHd25ISHdCTTZULTIwLWRXTjlFUldoZHNCbVFkcEQxNnhyaHJtbFdTbVlxSWlLXzZHOXVqSE9BenFmTTBrdTZnRGZyZW5TWHZMclpWb0YtRVNteWFiZ0NFM1VPd0FiR0NfNlNyaGtBYlE?oc=5",
-  "source": "AP",
-  "summary_tr": "Pentagon, Alibaba ve BYD'yi Çin ordusuna destek vermekle suçladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-09T03:01:00.908064+00:00",
-  "cluster_id": "c11c0f0d47763"
- },
- {
-  "title": "Xi and Kim push for greater ties between China and North Korea",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTTN6dlcway1FX3JJN05uQWo4UlJmeXZDMDkzckhoQ1BXUE9ydUhnTW40cFowbll6dE9wY0dDYnIzd1RhMXZtdkJiSGd4bFRQakdNcmRHTERscmo3NEFzSTF6S3Z5aHoycnV6OFZ1ZjhSQmZjQXg5bmJhUW1fbXJFOHlaanNTM2xiaVhVRA?oc=5",
-  "source": "AP",
-  "summary_tr": "Çin Cumhurbaşkanı Xi ve Kuzey Kore lideri Kim, iki ülke arasında daha yakın ilişkiler için anlaştı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-09T03:01:00.908064+00:00",
-  "cluster_id": "c81ae6b575479"
- },
- {
-  "title": "Paşinyan seçimi kazandı ama anayasayı değiştiremiyor",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/pasinyan-secimi-kazandi-ama-anayasayi-degistiremiyor-2510550",
-  "source": "Cumhuriyet",
-  "summary_tr": "Ermenistan seçimlerini Paşinyan kazandı ancak anayasa değişikliği için gerekli çoğunluğu sağlayamadı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-09T02:00:50.759921+00:00",
-  "cluster_id": "caa5d126420ce"
  }
 ]
