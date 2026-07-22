@@ -1,5 +1,41 @@
 [
  {
+  "title": "Ortadoğu'da sıcak temas ve deniz ablukası petrolü ateşledi: Brent petrol 95 doları aştı",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/ortadogu-da-sicak-temas-ve-deniz-ablukasi-petrolu-atesledi-brent-petrol-95-dolari-asti-2522904",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ortadoğu'daki jeopolitik gerilim nedeniyle Brent petrol 95 doları aştı. ABD saldırıları ve İran'ın karşı hamlesi enerji fiyatlarını yükseltmiştir.",
+  "metric": "Brent petrol 95 $ seviyesini aştı",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-22T10:01:04.119892+00:00",
+  "type": "news",
+  "cluster_id": "c3ab5f4499f5a"
+ },
+ {
+  "title": "3 aydır maaşları ödenmiyor: Hakları için Ankara’ya yürüyen işçilere polis müdahalesi",
+  "link": "https://www.cumhuriyet.com.tr/calisma-yasami/3-aydir-maaslari-odenmiyor-haklari-icin-ankara-ya-yuruyen-iscilere-polis-mudahalesi-2522896",
+  "source": "Cumhuriyet",
+  "summary_tr": "Doruk Madencilik/Yunus Emre Termik Santrali'nde 3 aydır maaş ödenmeyen işçiler Beypazarı'ndan Ankara'ya yürüyüşe başladı; polis müdahale yaptı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-22T10:01:04.119892+00:00",
+  "type": "news",
+  "cluster_id": "cd8f5a261387e"
+ },
+ {
+  "title": "Yendeki değer kaybı Japon ekonomi yönetimini zorluyor",
+  "link": "https://www.sozcu.com.tr/yendeki-deger-kaybi-japon-ekonomi-yonetimini-zorluyor-p338731",
+  "source": "Sözcü",
+  "summary_tr": "Yen dolar karşısında 40 yılın en düşük seviyesinde; Japon ekonomi yönetimi para politikasında zorluk yaşıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-22T10:01:04.119892+00:00",
+  "type": "news",
+  "cluster_id": "cd97cbc2e52b1"
+ },
+ {
   "title": "ECB kararında gözler savaşın etkisinde! Faizler sabit kalabilir, yeni mesajlar kritik olacak",
   "link": "https://www.sozcu.com.tr/ecb-kararinda-gozler-savasin-etkisinde-faizler-sabit-kalabilir-yeni-mesajlar-kritik-olacak-p338702",
   "source": "Sözcü",
@@ -58934,35 +58970,5 @@
   "score": 7,
   "ts": "2026-06-08T16:01:08.898849+00:00",
   "cluster_id": "c43805a47e21d"
- },
- {
-  "title": "CHP'nin X hesabını da ele geçirdiler: ‘Butlan’ yönetiminin ilk hamlesi Özel'i ve İmamoğlu'nu takipten çıkmak oldu",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-nin-x-hesabini-da-ele-gecirdiler-butlan-yonetiminin-ilk-hamlesi-ozel-i-ve-imamoglu-nu-takipten-cikmak-oldu-2510498",
-  "source": "Cumhuriyet",
-  "summary_tr": "Mahkeme kararıyla atanan Kılıçdaroğlu yönetimi CHP'nin X (Twitter) hesabını ele geçirdi ve Özel ile İmamoğlu'nu takipten çıkardı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-08T16:01:08.898849+00:00",
-  "cluster_id": "ca4a61e151219"
- },
- {
-  "title": "ABD'li Büyükelçi duyurdu: İsrail Lübnan'dan çekilecek",
-  "link": "https://www.sozcu.com.tr/abd-li-buyukelci-duyurdu-israil-lubnan-dan-cekilecek-p326253",
-  "source": "Sözcü",
-  "summary_tr": "ABD'nin Beyrut Büyükelçisi, Washington temaslarının sonucu olarak İsrail'in Lübnan'dan çekileceğini duyurdu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T16:01:08.898849+00:00",
-  "cluster_id": "cdd9e723ed22e"
- },
- {
-  "title": "Amazon, Corning sign multi-billion-dollar deal to boost fiber optics manufacturing in US",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOazVNTDFSeEdZeU5QaHRWajlVT1dvYnhyNV9JaUJVbEJQOVFUUHJVTUItbGhJclJlVG14cUhGTWdsRXV1RlY2WU5yVmxjbXVwRlVjZlo4WjBMbTc3Q2U3WDBDelgyNHJoVUVKYlRIaGk5WDRNemd1aG9PQ1M2eTl1VmJlOF9vc0pPOUxKVFFocVhDNDhlZWZheEpMeG5QWUtuQlNnNjY2bnZiRHdEOWJuVkYxV3RIcXJhZ0pUdGhlbmNJQVk?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Amazon ve Corning, ABD'de fiber optik üretimini artırmak için milyarlarca dolarlık bir anlaşma imzaladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T16:01:08.898849+00:00",
-  "cluster_id": "ca25418ecb73d"
  }
 ]
