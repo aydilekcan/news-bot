@@ -1,5 +1,89 @@
 [
  {
+  "title": "Merkez Bankası faiz kararını açıklıyor: Piyasaların gözü yarınki kritik toplantıda",
+  "link": "https://www.sozcu.com.tr/merkez-bankasi-faiz-kararini-acikliyor-piyasalarin-gozu-yarinki-kritik-toplantida-p338626",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye Cumhuriyet Merkez Bankası yılın beşinci faiz kararını açıklamaya hazırlanıyor; piyasalar bu kritik toplantıya odaklanmış durumda.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-22T06:01:13.929105+00:00",
+  "type": "news",
+  "cluster_id": "ce3c8d4879477"
+ },
+ {
+  "title": "Trump övünerek duyurdu: İran'la çatışmada 18 ABD askeri öldü",
+  "link": "https://www.diken.com.tr/trump-ovunerek-duyurdu-iranla-catismada-18-abd-askeri-oldu/?utm_source=rss&utm_medium=rss&utm_campaign=trump-ovunerek-duyurdu-iranla-catismada-18-abd-askeri-oldu",
+  "source": "Diken",
+  "summary_tr": "ABD Başkanı Trump, İran'la 28 Şubat'tan beri devam eden çatışmada 18 ABD askeri öldüğünü duyurdu.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-22T06:01:13.929105+00:00",
+  "type": "news",
+  "cluster_id": "c06d355e5598f"
+ },
+ {
+  "title": "Rubio says US still willing to negotiate over Iran crisis",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHRSTEdBY3l6NGhsLTFvUDRHeThEZkgzQzdzeDVSOWk1NzJ3R3dCT1JZWkE0VWoycVhEaG0wdmtWTnFyWElMbklkcFRUMW9qTkdqWGFfVHpDaDgyTnFNWGF4clVQSENtY2x5OS14dDBYX3JjYTdXRkV1SUZlcDU3eTduYXp3VndEMzlWZmpvZjY5S3dhVmdMdk5JVFhvNzNCQmJBRjBRX1daQ2ZB?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Dış İşleri Bakanı Rubio, İran krizinde müzakere yolunun açık olduğunu belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-22T06:01:13.929105+00:00",
+  "type": "news",
+  "cluster_id": "cfce3db9ae341"
+ },
+ {
+  "title": "A new threat by Yemen's Houthis could widen the Iran war and put another trade chokepoint at risk",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU2hFT3FQLUM4NEFZXzFYM19IWXRPZFdlQkVzMG8xTjNiMWtCNjRrcGp3S3dnZUNmT0hMVVpBRHljY1RWTXpYdHM2MXRnZ29NOHVSc3oxSXVaUW5PSjdoTmNid1pTelpoa21LVHUyd1p5ckl4d1lFaGgzR1ZoNjNvQ2E0RklIalNpZDRQY1pHTENYMTN0Y2xkMndUOWNHQjlhR1owQkx3?oc=5",
+  "source": "AP",
+  "summary_tr": "Yemen'in Husiler örgütü yeni bir tehdit ile uluslararası ticaretin kritik bir noktasını tehlikeye atabilecek şekilde İran savaşını genişletebilir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-22T06:01:13.929105+00:00",
+  "type": "news",
+  "cluster_id": "cc92858c86804"
+ },
+ {
+  "title": "Çözüm süreci: Çerçeve yasada ne olacak?",
+  "link": "https://www.dw.com/tr/çözüm-süreci-çerçeve-yasada-ne-olacak/a-78060458?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Hükümetin 'Terörsüz Türkiye' adını verdiği sürecin en kritik unsuru olan çerçeve yasasının detayları netleşiyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-22T06:01:13.929105+00:00",
+  "type": "news",
+  "cluster_id": "c0bde00b92546"
+ },
+ {
+  "title": "Türkiye’de, çalışma yaşamını emekçi aleyhine yeniden şekillendirme süreci devam ediyor: Taşeron krizi her yerde",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/turkiye-de-calisma-yasamini-emekci-aleyhine-yeniden-sekillendirme-sureci-devam-ediyor-taseron-krizi-her-yerde-2522801",
+  "source": "Cumhuriyet",
+  "summary_tr": "Taşeron çalışmalarında emekçi aleyhine gelişmeler devam ediyor; hastane yemekhanesinden TOKİ inşaatlarına kadar tazminat sorunları yaşanıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-22T06:01:13.929105+00:00",
+  "type": "news",
+  "cluster_id": "cd30d03ac0b34"
+ },
+ {
+  "title": "Kılıçdaroğlu'nun memleketi Tunceli'de CHP'den istifa dalgası",
+  "link": "https://www.sozcu.com.tr/kilicdaroglu-nun-memleketi-tunceli-de-chp-den-istifa-dalgasi-p338625",
+  "source": "Sözcü",
+  "summary_tr": "CHP Genel Başkanı Özgür Özel'in yeni parti süreci hakkındaki açıklamalarının ardından Tunceli'de CHP'den istifa dalgası başladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-22T06:01:13.929105+00:00",
+  "type": "news",
+  "cluster_id": "c618fb4ca7f76"
+ },
+ {
   "title": "Trump'tan dünyaya soğuk duş! Vergi kademeli olarak yüzde 200'e çıkarılacak",
   "link": "https://www.sozcu.com.tr/trump-tan-dunyaya-soguk-dus-vergi-kademeli-olarak-yuzde-200-e-cikarilacak-p338603",
   "source": "Sözcü",
@@ -58838,75 +58922,5 @@
   "score": 7,
   "ts": "2026-06-08T13:01:08.035720+00:00",
   "cluster_id": "cf3661b16e982"
- },
- {
-  "title": "Pezeşkiyan: Ne sahayı ne de müzakere masasını terk ettik",
-  "link": "https://www.trthaber.com/haber/dunya/pezeskiyan-ne-sahayi-ne-de-muzakere-masasini-terk-ettik-947532.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Cumhurbaşkanı Pezeşkiyan, İran'ın silahlı kuvvetlerinin İsrail'e operasyonlarını durdurduğunu açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T13:01:08.035720+00:00",
-  "cluster_id": "c12a8be2c78d2"
- },
- {
-  "title": "EU sanctions Iranians over restricting naval traffic in Hormuz",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR1lTSXVKQ2pJQlEzZTg4Z3FvUjdzMEg5QlhuTFo1R2NWZGgwMWw3REhuODBIUjN4VWFCMV9ZZzhXTlpZaVBXZGJodUFVbkU0ME1Ib2hVblljSUtuNXdKZ0gwOVFZRHRCcHJlckYzM193WUZFUkFHSl9KV3ZCb25DM1RxMGhkSnZqMzJpSndTZFZ4czR4RFFMelpjUGZsS2FlYXlFaEV1WFRLbmx1Z1BwV0FGbw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "AB, Hormuz Boğazı'nda seyrüsefer serbestisini kısıtladığı gerekçesiyle İranlı yetkililere yaptırım uyguladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-08T13:01:08.035720+00:00",
-  "cluster_id": "c80df2e103ac5"
- },
- {
-  "title": "2027'yi işaret etti: TBMM Başkanı Kurtulmuş'tan 'yeni anayasa' çıkışı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/2027-yi-isaret-etti-tbmm-baskani-kurtulmus-tan-yeni-anayasa-cikisi-2510423",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM Başkanı Kurtulmuş, 2027'yi işaret ederek yeni anayasa çıkışında bulundu.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-08T13:01:08.035720+00:00",
-  "cluster_id": "c420a6cb36fd4"
- },
- {
-  "title": "Fındıkta miktar düştü, gelir yükseldi: 5 ayda 1,2 milyar dolarlık ihracat",
-  "link": "https://www.sozcu.com.tr/findikta-miktar-dustu-gelir-yukseldi-5-ayda-1-2-milyar-dolarlik-ihracat-p326207",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye, 2026'nın ilk beş ayında 86 bin 930 ton fındık ihracı yaparak yaklaşık 1,2 milyar dolar gelir elde etti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-08T13:01:08.035720+00:00",
-  "cluster_id": "ce77008bccbf6"
- },
- {
-  "title": "İsrail basını: Netanyahu ile Trump bugün ikinci kez telefonda görüştü",
-  "link": "https://www.trthaber.com/haber/dunya/israil-basini-netanyahu-ile-trump-bugun-ikinci-kez-telefonda-gorustu-947535.html",
-  "source": "TRT Haber",
-  "summary_tr": "Netanyahu ve Trump, İran'ın saldırılarını durdurduğu açıklamasından kısa süre önce ikinci kez telefonda görüştü.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-08T13:01:08.035720+00:00",
-  "cluster_id": "c95512443e962"
- },
- {
-  "title": "Lübnan Başbakanı, İsrail'in ateşkesten bu yana 3 bin 500'e yakın hava saldırısı düzenlediğini söyledi",
-  "link": "https://www.trthaber.com/haber/dunya/lubnan-basbakani-israilin-ateskesten-bu-yana-3-bin-500e-yakin-hava-saldirisi-duzenledigini-soyledi-947534.html",
-  "source": "TRT Haber",
-  "summary_tr": "Lübnan Başbakanı, İsrail'in ateşkesten sonra 3 bin 500'e yakın hava saldırısı düzenlediğini ve ateşkesi ihlal ettiğini söyledi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-08T13:01:08.035720+00:00",
-  "cluster_id": "cce9503ad0df9"
- },
- {
-  "title": "İran, İsrail'e saldırıları durdurdu: 'Lübnan'a saldırırlarsa daha sert karşılık veririz'",
-  "link": "https://www.bbc.com/turkce/articles/c3rydr91l0no?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "İran, İsrail'e yönelik füze saldırılarını durdurduğunu açıkladı; Lübnan saldırısına karşılık tehdidi sürdürüyor.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-08T12:01:07.367219+00:00",
-  "cluster_id": "c46f16f6ee425"
  }
 ]
