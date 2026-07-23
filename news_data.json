@@ -1,5 +1,65 @@
 [
  {
+  "title": "Son dakika... ABD İran'ı füzelerle vurdu! Can kayıpları var",
+  "link": "https://www.sozcu.com.tr/son-dakika-abd-iran-i-fuzelerle-vurdu-can-kayiplari-var-p338917",
+  "source": "Sözcü",
+  "summary_tr": "ABD, İran'ın Huzistan eyaletinde füze saldırısı düzenledi; ilk belirlemelere göre 2 kişi hayatını kaybetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-23T03:01:03.453344+00:00",
+  "type": "news",
+  "cluster_id": "c0225df69e9a7"
+ },
+ {
+  "title": "CHP’de büyük erime",
+  "link": "https://www.sozcu.com.tr/chp-de-buyuk-erime-p338914",
+  "source": "Sözcü",
+  "summary_tr": "Yeni partiye 90-100 milletvekilinin katılması halinde CHP, TBMM'de 6. sıraya gerileyecek.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-23T03:01:03.453344+00:00",
+  "type": "news",
+  "cluster_id": "cff0ca2c8b96f"
+ },
+ {
+  "title": "Oil prices rise to six-week high as US-Iran tensions escalate",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcEZlQTh2dnVnblEzaVc4eE81SE92UFhTN2VJSXQ4RGdOQVFLU2FuUTB6d19yWWotOFZzQTRaRmlPanZpYkdPZ18waTVpd0lsaWJPRU9aZkd5VU9lZ3RvYi00RGh3TUFsV3JYTGpNc21BOE54N01TbmtCOWh2UWtUTFhZQVlfVHBNS2F1ZDhJS01RT001UDRBQ3MwYTFqM25uaUcxX1E4R3JTX1k?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD-İran gerilimleri tırmanırken petrol fiyatları altı haftalık en yüksek seviyeye yükseldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-23T03:01:03.453344+00:00",
+  "type": "news",
+  "cluster_id": "cc26fe905c842"
+ },
+ {
+  "title": "Bütçe açığına SGK yaması",
+  "link": "https://www.sozcu.com.tr/butce-acigina-sgk-yamasi-p338908",
+  "source": "Sözcü",
+  "summary_tr": "SGK'ya bütçeden yapılan 'devlet katkısı' kaldırılıyor; SGK açığı büyürken bütçe açığı düşük görünecek.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-23T03:01:03.453344+00:00",
+  "type": "news",
+  "cluster_id": "c5c45164181f8"
+ },
+ {
+  "title": "AKP’li eski bakandan intibak çıkışı",
+  "link": "https://www.sozcu.com.tr/akp-li-eski-bakandan-intibak-cikisi-p338907",
+  "source": "Sözcü",
+  "summary_tr": "Çalışma eski Bakanı Faruk Çelik, 10 yıl prim ödeyenle 30 yıl ödeyenin neredeyse aynı emekli maaşı aldığını belirtti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-23T03:01:03.453344+00:00",
+  "type": "news",
+  "cluster_id": "c7d136cb3ae44"
+ },
+ {
   "title": "ABD’den İran'ın Huzistan eyaletine füze saldırısı: 2 ölü",
   "link": "https://www.aa.com.tr/tr/live-blog/son-gelismeler-abdnin-irana-yonelik-saldirilari-ve-iran-in-misillemeleri/5817",
   "source": "Anadolu Ajansı",
@@ -59140,55 +59200,5 @@
   "score": 7,
   "ts": "2026-06-09T10:01:26.196702+00:00",
   "cluster_id": "cecd514b51713"
- },
- {
-  "title": "Telekom devi satıldı",
-  "link": "https://www.sozcu.com.tr/telekom-devi-satildi-p326451",
-  "source": "Sözcü",
-  "summary_tr": "Fransa telekom sektöründe SFR milyonlarca abonesini üç rakip firma birleşerek satın aldı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-09T10:01:26.196702+00:00",
-  "cluster_id": "cf479c9373069"
- },
- {
-  "title": "Ermenistan seçimleri ve Kafkasya'nın yeni gerçeği",
-  "link": "https://www.aa.com.tr/tr/analiz/ermenistan-secimleri-ve-kafkasyanin-yeni-gercegi/3961268",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Ermenistan seçimlerinde Nikol Paşinyan yeniden seçildi; Kafkasya bölgesinin yeni jeopolitik dengeleri şekilleniyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-09T10:01:26.196702+00:00",
-  "cluster_id": "cc172e137c656"
- },
- {
-  "title": "Bahçeli: ABD'nin İran'a dönük baskısı, bölgesel gerilimi söndürmekten ziyade daha da derinleştirmekte",
-  "link": "https://www.aa.com.tr/tr/gundem/bahceli-abdnin-irana-donuk-baskisi-bolgesel-gerilimi-sondurmekten-ziyade-daha-da-derinlestirmekte/3961249",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "MHP Genel Başkanı Devlet Bahçeli, ABD'nin İran'a karşı asker ve siyasi baskısının bölgesel gerilimi derinleştirdiğini söyledi.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-09T10:01:26.196702+00:00",
-  "cluster_id": "c9fa52ae218fc"
- },
- {
-  "title": "Venezuela küresel sisteme geri dönüyor: Dönüşen Türkiye-Venezuela ilişkilerinin şifreleri",
-  "link": "https://www.aa.com.tr/tr/analiz/-venezuela-kuresel-sisteme-geri-donuyor-donusen-turkiye-venezuela-iliskilerinin-sifreleri/3961238",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Venezuela'nın küresel sisteme dönüşü çerçevesinde Türkiye-Venezuela ilişkilerinde ekonomik ve stratejik yeniden konumlandırma yaşanıyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-09T10:01:26.196702+00:00",
-  "cluster_id": "cfe0a228bab34"
- },
- {
-  "title": "Bölgeyi savaşın eşiğine getiren 24 saatin ayrıntıları ortaya çıktı... Nasıl başladı, nasıl sonuçlandı?",
-  "link": "https://www.cumhuriyet.com.tr/dunya/bolgeyi-savasin-esigine-getiren-24-saatin-ayrintilari-ortaya-cikti-nasil-basladi-nasil-sonuclandi-2510656",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD basınına göre son 24 saatte Orta Doğu'da yaşanan gelişmeler bölgeyi savaşın eşiğine getirdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-09T09:01:11.086880+00:00",
-  "cluster_id": "c88f404962f93"
  }
 ]
