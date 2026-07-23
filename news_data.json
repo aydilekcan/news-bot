@@ -1,5 +1,29 @@
 [
  {
+  "title": "Brent oil’s price briefly tops $100 per barrel, as Tesla and Alphabet drag Wall Street lower",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdzJSMEdwQVV6RGMtWDMxcGFBci0xMURsa2hYWnpiTk81azZpVk9IS1gyWDlLM2xoM2xBcUVpUDFiN01tekpWUUNKcWNDZWtmbDk4RDBCbW5ZNjlQdEJLNjlTYnRERDZfVmxYNWtfamNGWjZJMkxwaDV0U0wtSnBtTDJnblFjYmxqRWoxYmFGd2JOUng0Q3JBUUpMcGxWa3M?oc=5",
+  "source": "AP",
+  "summary_tr": "Brent petrolü varil başına 100 doları aştı; Wall Street'te Tesla ve Alphabet hisse senetlerinin düşüşü piyasaları olumsuz etkiledi.",
+  "metric": "Brent petrol fiyatı >$100/varil",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-23T16:01:04.797928+00:00",
+  "type": "news",
+  "cluster_id": "c7811be8c12e6"
+ },
+ {
+  "title": "CHP'li Emir'den dikkat çeken açıklama: İBB soruşturmasında 'itirafçı' olan iş insanına DSİ'den 1.5 milyarlık ihale verildi",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-li-emir-den-dikkat-ceken-aciklama-ibb-sorusturmasinda-itirafci-olan-is-insanina-dsi-den-1-5-milyarlik-ihale-verildi-2523303",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Grup Başkanvekili Murat Emir, İBB soruşturmasında tahliye olan bir iş insanına DSİ'den 1.5 milyarlık ihale verildiğini iddia etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-23T16:01:04.797928+00:00",
+  "type": "news",
+  "cluster_id": "c9b09e39703f6"
+ },
+ {
   "title": "Trump: Nükleer anlaşma için Suudiler İsrail'i tanımalı",
   "link": "https://www.bbc.com/turkce/articles/c9q9jvwdxnwo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59430,25 +59454,5 @@
   "score": 6,
   "ts": "2026-06-10T02:00:55.240073+00:00",
   "cluster_id": "c87bc1b51340c"
- },
- {
-  "title": "Ateşkes bozuldu! ABD'den İran'a ağır bombardıman",
-  "link": "https://www.sozcu.com.tr/ateskes-bozuldu-abd-den-iran-a-agir-bombardiman-p326624",
-  "source": "Sözcü",
-  "summary_tr": "ABD Başkanı Trump, Apache helikopterinin düşürülmesine karşılık olarak İran'ın birçok şehrine bombardıman düzenledi; ateşkes bozuldu.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-10T01:00:50.499907+00:00",
-  "cluster_id": "c7e06f64c3c7d"
- },
- {
-  "title": "Erdoğan’ın tezhip sanatçısı danışmanı Dr. Necati Sancaktutan büyükelçi oluyor",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/erdogan-in-tezhip-sanatcisi-danismani-dr-necati-sancaktutan-buyukelci-oluyor-2510849",
-  "source": "Cumhuriyet",
-  "summary_tr": "Dışişleri Bakanı Hakan Fidan, büyükelçilere yeni görev yerlerini tebliğ etti; İran, Ukrayna, Somali ve Katar dahil çeşitli ülkelere atamalar yapıldı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T01:00:50.499907+00:00",
-  "cluster_id": "cfadfe1094351"
  }
 ]
