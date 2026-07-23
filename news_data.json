@@ -1,5 +1,17 @@
 [
  {
+  "title": "Russia's oil and gas revenue seen up 60% y/y in July",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ0ktU0NYejNqLUtnV3ZhdVFRUUJObFc4dXFSMXlLUnRkVGJxRDZqbm1ZNVVQVFJ6UVJfSk9vV1kybV9EUlFVbnVMWWVQWER2SUlVMzIwemVhRVpacDE1cFNCUEhDWDRoQXZGRlRfVFZwOXRsTm5Cc0x5M3NfWjBFeTRna0ZDS2tEY2xnQklSay1XVFNIcWFJZm1B?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya'nın temmuz ayı petrol ve gaz gelirleri geçen yılın aynı dönemine göre %60 artış gösterdi.",
+  "metric": "Rusya petrol-gaz geliri %60 y/y artış",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-23T18:00:59.061408+00:00",
+  "type": "news",
+  "cluster_id": "cd2f343051485"
+ },
+ {
   "title": "Axios: Trump, İran'a karşı \"büyük çaplı bir saldırıyı\" ciddi olarak düşünüyor",
   "link": "https://www.aa.com.tr/tr/dunya/axios-trump-irana-karsi-buyuk-capli-bir-saldiriyi-ciddi-olarak-dusunuyor/4007350",
   "source": "Anadolu Ajansı",
@@ -59454,15 +59466,5 @@
   "score": 6,
   "ts": "2026-06-10T03:01:00.088724+00:00",
   "cluster_id": "cd19f1b5ef524"
- },
- {
-  "title": "İran devlet televizyonu: ABD saldırılarında Mübarek Dağı, Sirik kenti ve Keşm ile Cask adaları hedef alındı",
-  "link": "https://www.aa.com.tr/tr/live-blog/dakika-dakika-gelismeler-abd-iran-savasi/3551",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD, düşürülen helikopterine yanıt olarak İran'ı vurdu; Mübarek Dağı, Sirik kenti ve Keşm ile Cask adaları hedef alındı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-10T02:00:55.240073+00:00",
-  "cluster_id": "c954d4f190043"
  }
 ]
