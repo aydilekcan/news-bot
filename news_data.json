@@ -1,5 +1,149 @@
 [
  {
+  "title": "Trump: Nükleer anlaşma için Suudiler İsrail'i tanımalı",
+  "link": "https://www.bbc.com/turkce/articles/c9q9jvwdxnwo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD Başkanı Trump, Suudi Arabistan ile tarihi nükleer anlaşmanın Riyad'ın İsrail'i tanımasına bağlı olduğunu duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-23T15:01:30.355845+00:00",
+  "type": "news",
+  "cluster_id": "c28343f70e60c"
+ },
+ {
+  "title": "Brent petrolün varil fiyatı 100 doları geçti: İşte fiyatları sıçratan kritik gelişmeler",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/brent-petrol-100-dolari-asti-bogazlarda-abluka-ve-saldiri-tehdidi-fiyatlari-ucurdu-2523297",
+  "source": "Cumhuriyet",
+  "summary_tr": "Brent petrolün varil fiyatı 100 doları geçti; Ortadoğu'daki gerilim ve Hürmüz Boğazı güvenlik riskleri fiyatları artırdı.",
+  "metric": "Brent petrol: 100 USD/varil üzeri",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-23T15:01:30.355845+00:00",
+  "type": "news",
+  "cluster_id": "c83bbc119d6bb"
+ },
+ {
+  "title": "US weekly jobless claims plunge to lowest since 1969",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaDVZUF9PZTBpQ1NWcl9oY3hCNTVKTmMzLWoyNnE3VzlXQUZRa1NfX1Rpc2Y5dDU3Z0FDbjlPRVBYdTJwRHFKSFBEUjVETDZmdXhqQ2QxZVFadXJaRkpCNkxSTmF0bkRkNzUxS2xjYmZkdU5NdTFkaGtJVkR2a3BOQV84dE5TTkxxTXR2d1JIa0YyMGpIZXE1Y3lR?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD haftalık işsizlik başvuruları 1969'dan beri en düşük seviyeye düştü.",
+  "metric": "ABD işsizlik başvuruları: 1969'dan beri minimum",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-23T15:01:30.355845+00:00",
+  "type": "news",
+  "cluster_id": "c65529cdc03f6"
+ },
+ {
+  "title": "US energy shares gain as Houthi tanker attacks push Brent to $100",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZlRHcUR2VXh4anpDQXJzTGNBWm9WejRCbGI5bFQ5clg4R3BjQlF0a3FET3lDdGpMblZUajFaMmtWVjNLWDMwTWdYQ2xBbU1RaDdYeTB2QnZOZjRuc25ZZ2NuLXdUZ2hLZnp5SXZzSkRUNzB1MnpMNGZhWUFnOTk3Z1NDaF8zVXVsM0M1UDl6Wk0ySTJCUmxlNFl2eWdpRXd6d0dnaXQxTWhXc2xRdURr?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Husiler tarafından tankerler saldırılması Brent petrolü 100 dolara çıkardı; ABD enerji hisseleri yükseldi.",
+  "metric": "Brent petrol: 100 USD/varil",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-23T15:01:30.355845+00:00",
+  "type": "news",
+  "cluster_id": "c869f03953282"
+ },
+ {
+  "title": "Netanyahu: Suudi Arabistan’la normalleşme tarihi bir sıçrama olur",
+  "link": "https://www.cumhuriyet.com.tr/dunya/netanyahu-suudi-arabistan-la-normallesme-tarihi-bir-sicrama-olur-2523298",
+  "source": "Cumhuriyet",
+  "summary_tr": "İsrail Başbakanı Netanyahu, Suudi Arabistan ile normalleşmeyi tarihi bir sıçrama olarak niteledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-23T15:01:30.355845+00:00",
+  "type": "news",
+  "cluster_id": "cd61a84930bd8"
+ },
+ {
+  "title": "Trump’tan İran’a yeni tehdit: Sorumlusu olacaklar",
+  "link": "https://www.sozcu.com.tr/trump-tan-iran-a-yeni-tehdit-sorumlusu-olacaklar-p339167",
+  "source": "Sözcü",
+  "summary_tr": "Trump, Husiler tarafından Suudi Arabistan'a ait gemilere yapılan saldırısına karşılık İran'ı tehdit etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-23T15:01:30.355845+00:00",
+  "type": "news",
+  "cluster_id": "c02d6050f290f"
+ },
+ {
+  "title": "ECB Başkanı Lagarde, enerji şokunun enflasyondaki etkilerinin henüz ortaya çıkmadığını belirtti",
+  "link": "https://www.aa.com.tr/tr/dunya/ecb-baskani-lagarde-enerji-sokunun-enflasyondaki-etkilerinin-henuz-ortaya-cikmadigini-belirtti/4007208",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ECB Başkanı Lagarde, Ortadoğu'daki savaş nedeniyle yaşanan enerji şokunun enflasyona tam etkilerinin henüz ortaya çıkmadığını belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-23T15:01:30.355845+00:00",
+  "type": "news",
+  "cluster_id": "cd7c7e73b42f6"
+ },
+ {
+  "title": "BM Genel Sekreteri Guterres:  Ortadoğu'da durum kontrolden çıkıyor, hayal edilemez bir noktaya doğru ilerliyor",
+  "link": "https://www.aa.com.tr/tr/dunya/bm-genel-sekreteri-guterres-ortadoguda-durum-kontrolden-cikiyor-hayal-edilemez-bir-noktaya-dogru-ilerliyor/4007160",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "BM Genel Sekreteri Guterres, Ortadoğu'daki durum kontrolden çıktığını ve hayal edilemez bir noktaya doğru ilerlediğini uyarıda bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-23T15:01:30.355845+00:00",
+  "type": "news",
+  "cluster_id": "c6b4f8cb26355"
+ },
+ {
+  "title": "AB'den Google'a kendi uygulamasını öne çıkardığı için 890 milyon avro ceza",
+  "link": "https://www.diken.com.tr/abden-googlea-kendi-uygulamasini-one-cikardigi-icin-890-milyon-avro-ceza/?utm_source=rss&utm_medium=rss&utm_campaign=abden-googlea-kendi-uygulamasini-one-cikardigi-icin-890-milyon-avro-ceza",
+  "source": "Diken",
+  "summary_tr": "AB, Google'ı kendi uygulamasını öne çıkardığı için 890 milyon avro ceza kesti.",
+  "metric": "AB cezası: 890 milyon avro",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-23T15:01:30.355845+00:00",
+  "type": "news",
+  "cluster_id": "ca915b67cdf09"
+ },
+ {
+  "title": "Son Dakika... İzmit Belediye Başkanı Fatma Kaplan Hürriyet'e tutuklama talebi",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-izmit-belediye-baskani-fatma-kaplan-hurriyet-e-tutuklama-talebi-2523292",
+  "source": "Cumhuriyet",
+  "summary_tr": "İzmit Belediye Başkanı Fatma Kaplan Hürriyet, soruşturma kapsamında tutuklama talebiyle mahkemeye sevk edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-23T15:01:30.355845+00:00",
+  "type": "news",
+  "cluster_id": "c2362d1157851"
+ },
+ {
+  "title": "İzmit Belediye Başkanı Fatma Kaplan Hürriyet hakkında tutuklama talebi",
+  "link": "https://www.sozcu.com.tr/fatma-kaplan-hurriyet-hakkinda-karar-p339163",
+  "source": "Sözcü",
+  "summary_tr": "İzmit Belediye Başkanı Fatma Kaplan Hürriyet dahil 21 kişi hakkında tutuklama talebi yapıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-23T15:01:30.355845+00:00",
+  "type": "news",
+  "cluster_id": "c2362d1157851"
+ },
+ {
+  "title": "Rusya Başbakan Yardımcısı Novak, Rusya-Türkiye enerji ortaklığının stratejik nitelikte olduğunu belirtti",
+  "link": "https://www.aa.com.tr/tr/dunya/rusya-basbakan-yardimcisi-novak-rusya-turkiye-enerji-ortakliginin-stratejik-nitelikte-oldugunu-belirtti/4007213",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Rusya Başbakan Yardımcısı Novak, Rusya-Türkiye enerji ortaklığının stratejik nitelik taşıdığını vurguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-23T15:01:30.355845+00:00",
+  "type": "news",
+  "cluster_id": "c9af5fc21c600"
+ },
+ {
   "title": "Avrupa Merkez Bankası piyasanın beklediği faiz kararını duyurdu: Gözler enerji şokunda!",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/avrupa-merkez-bankasi-piyasanin-bekledigi-faiz-kararini-duyurdu-gozler-enerji-sokunda-2523278",
   "source": "Cumhuriyet",
@@ -59306,125 +59450,5 @@
   "score": 7,
   "ts": "2026-06-10T01:00:50.499907+00:00",
   "cluster_id": "cfadfe1094351"
- },
- {
-  "title": "US military launches new strikes on Iran after Apache downing",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN09WanUzUnFZcDRJcUFoVHdKY0tLUlZaeFhGZENDYVJ0MnUwb25zNWdOSU1VNTJJSDVWQ1Bkdlg2NzhGeDROU1pENG9wdjlPOE02enNacEEzRFR6NnpHOUhTOWIxVjN5QnFtYWlqOExubUprQTNUWGVUdkRrbFFOemoyZURyZS10dkFZaVBQR3Y1RWo3N0VhaVpIczBYbmM?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD askeri, Apache helikopteri düşürülmesinin ardından İran'a yeni hava saldırıları düzenledi.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-10T00:01:00.179025+00:00",
-  "cluster_id": "c7efbd8ee66cf"
- },
- {
-  "title": "İran devlet televizyonu: Güneydeki Cask kentinde yeni patlama sesleri duyuldu",
-  "link": "https://www.trthaber.com/haber/dunya/iran-devlet-televizyonu-guneydeki-cask-kentinde-yeni-patlama-sesleri-duyuldu-947690.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran'ın güneyindeki Cask kentinde yeni patlama sesleri duyuldu; bölgede devam eden çatışmaların işareti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-10T00:01:00.179025+00:00",
-  "cluster_id": "ca4b2faa2d369"
- },
- {
-  "title": "ABD, bir helikopterini düşürmekle suçladığı İran'a misilleme saldırıları başlattı",
-  "link": "https://www.bbc.com/turkce/articles/cgk61y0g2vvo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD Başkanı Trump, İran'ın askeri helikopter düşürdüğünü söyleyerek misilleme saldırıları başlattığını açıkladı.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-09T23:00:52.122156+00:00",
-  "cluster_id": "ce70bd2dda026"
- },
- {
-  "title": "US strikes Iran after Trump blames Tehran for downing Army helicopter",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTFFLOUhHaFBaY2l1YWthbGVtYVByYlZkU3VhRXJxWEJiTmdwNVFWVU5FN0ZSRml0bVU5S3F1Wi1QdFp1bTQ0SE4zeXJadzZ5LVBtdFNHTHh5WWxnTHh5bHVCejk2Zl9HenVXQUNDSGNYWFgtdWVad0NFVWdwZjl0cnRuQ3ZLNUt6NW80Q2Q5cm1iRUpjMk9OVjFRZ3NIa1JNR2JkUHROZzZId2ZDUHJuQWNHcm5icGd1?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD, Trump'ın İran'ı helikopter düşürmekle suçlamasının ardından İran'a saldırılar gerçekleştirdi.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-09T23:00:52.122156+00:00",
-  "cluster_id": "cc3daec7b0182"
- },
- {
-  "title": "İran Dışişleri Bakanı Arakçi: Silahlı kuvvetlerimiz hiçbir saldırı ve tehdidi cevapsız bırakmayacak",
-  "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-arakci-silahli-kuvvetlerimiz-hicbir-saldiri-ve-tehdidi-cevapsiz-birakmayacak-947689.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Dışişleri Bakanı Arakçi, silahlı kuvvetlerin her saldırı ve tehdide cevap vereceğini açıkladı.",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-06-09T23:00:52.122156+00:00",
-  "cluster_id": "c85afc561c5ca"
- },
- {
-  "title": "İran’da patlama sesleri… CENTCOM duyurdu: ‘Başkomutan’ın talimatıyla öz savunma saldırıları başladı’",
-  "link": "https://www.cumhuriyet.com.tr/dunya/iran-da-patlama-sesleri-centcom-duyurdu-baskomutan-in-talimatiyla-oz-savunma-saldirilari-basladi-2510901",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD, İran'a Apache helikopterinin düşürülmesine karşılık olarak ülke içinde saldırı başlattığını duyurdu.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-09T22:00:59.150603+00:00",
-  "cluster_id": "c8459d02b67c5"
- },
- {
-  "title": "ABD İran'ı vurmaya başladı",
-  "link": "https://www.sozcu.com.tr/abd-iran-i-vurmaya-basladi-p326605",
-  "source": "Sözcü",
-  "summary_tr": "ABD savaş uçakları İran'ı vurmaya başladı; Sirik limanında patlama sesleri duyuluyor.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-09T22:00:59.150603+00:00",
-  "cluster_id": "c0d1327701ee6"
- },
- {
-  "title": "ABD, İran'a saldırı başlattığını duyurdu",
-  "link": "https://www.trthaber.com/haber/dunya/abd-irana-saldiri-baslattigini-duyurdu-947687.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD Merkez Kuvvetler Komutanlığı, Apache helikopterinin düşürülmesine karşılık olarak İran'a karşı saldırılar başlattığını duyurdu.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-09T22:00:59.150603+00:00",
-  "cluster_id": "c639370a546c9"
- },
- {
-  "title": "US military says it began launching strikes against Iran",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN09WanUzUnFZcDRJcUFoVHdKY0tLUlZaeFhGZENDYVJ0MnUwb25zNWdOSU1VNTJJSDVWQ1Bkdlg2NzhGeDROU1pENG9wdjlPOE02enNacEEzRFR6NnpHOUhTOWIxVjN5QnFtYWlqOExubUprQTNUWGVUdkRrbFFOemoyZURyZS10dkFZaVBQR3Y1RWo3N0VhaVpIczBYbmM?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD ordusu İran'a karşı saldırı başlattığını duyurdu.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-09T22:00:59.150603+00:00",
-  "cluster_id": "ce5bdfbe9e9e7"
- },
- {
-  "title": "US says it has begun strikes against Iran following crash of Army Apache helicopter off Oman coast",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTFFLOUhHaFBaY2l1YWthbGVtYVByYlZkU3VhRXJxWEJiTmdwNVFWVU5FN0ZSRml0bVU5S3F1Wi1QdFp1bTQ0SE4zeXJadzZ5LVBtdFNHTHh5WWxnTHh5bHVCejk2Zl9HenVXQUNDSGNYWFgtdWVad0NFVWdwZjl0cnRuQ3ZLNUt6NW80Q2Q5cm1iRUpjMk9OVjFRZ3NIa1JNR2JkUHROZzZId2ZDUHJuQWNHcm5icGd1?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD, Oman açıklarında düşürülen Apache helikopterine karşılık olarak İran'a karşı saldırı başlattığını açıkladı.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-09T22:00:59.150603+00:00",
-  "cluster_id": "c2c7b8d8986c5"
- },
- {
-  "title": "İsrail askerlerinin, işgal altındaki Batı Şeria'da 7 aylık bebeği öldürdüğü saldırının görüntüleri ortaya çıktı",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-askerlerinin-isgal-altindaki-bati-seriada-7-aylik-bebegi-oldurdugu-saldirinin-goruntuleri-ortaya-cikti/3961955",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail askerlerinin Batı Şeria'da 7 aylık bir bebeği öldürdüğü saldırının görüntüleri ortaya çıktı; anne ve baba yaralandı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-09T22:00:59.150603+00:00",
-  "cluster_id": "cb5b322d2b22c"
- },
- {
-  "title": "ABD Başkan Yardımcısı, İran'la anlaşmaya varmalarının aylarca sürebileceğini söyledi",
-  "link": "https://www.trthaber.com/haber/dunya/abd-baskan-yardimcisi-iranla-anlasmaya-varmalarinin-aylarca-surebilecegini-soyledi-947684.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD Başkan Yardımcısı JD Vance, İran ile anlaşmaya varmanın çok yakın olduğunu ancak aylarca sürebileceğini söyledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-09T22:00:59.150603+00:00",
-  "cluster_id": "c8d2ac606fe67"
  }
 ]
