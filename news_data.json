@@ -1,5 +1,89 @@
 [
  {
+  "title": "ABD Dışişleri Bakanı'ndan İran'a ağır tehdit: 'Kellelerini alıyoruz'",
+  "link": "https://www.sozcu.com.tr/abd-disisleri-bakani-iran-i-uyardi-kellelerini-aliyoruz-p339071",
+  "source": "Sözcü",
+  "summary_tr": "ABD Dışişleri Bakanı Marco Rubio, Manila'daki ASEAN konferansında İran'a yönelik sert açıklamalar yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-23T10:01:05.013401+00:00",
+  "type": "news",
+  "cluster_id": "cc37751e6bc82"
+ },
+ {
+  "title": "ABD Dışişleri Bakanı Rubio'dan İran'a bedel ödemeye devam edecekler mesajı",
+  "link": "https://www.trthaber.com/haber/dunya/abd-disisleri-bakani-rubiodan-irana-bedel-odemeye-devam-edecekler-mesaji-951997.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Dışişleri Bakanı Rubio, İran'a bedel ödemeye devam edeceklerini belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-23T10:01:05.013401+00:00",
+  "type": "news",
+  "cluster_id": "c66b202944904"
+ },
+ {
+  "title": "Rubio meets Russia's Lavrov in Manila to try to revive prospect of US helping end war in Ukraine",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWFkYnFRZ1lKYlVmbi1lS2QyT1BteDg5MHdtQ2NsUnBPY0c1ZXF3TXluc3JLc2FlTENucHNwalh0cHU4emJnSnZkaFJqTDlaQTB3aHB1cm0wM0tKQWlFaTh0RkhleG1qME9SSnhNVlotaWFnU0NYczZaQ2pQSmJkZGtMZF9vclBhOXRmY2lYYTdpS0c4WWRQTg?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD Dışişleri Bakanı Rubio, Manila'da Rusya Dışişleri Bakanı Lavrov ile görüştü; Ukrayna savaşını sonlandırmada ABD yardımının başlamasının umudunu canlandırmak için görüşmeler yapıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-23T10:01:05.013401+00:00",
+  "type": "news",
+  "cluster_id": "c58afbfaf03cf"
+ },
+ {
+  "title": "Emekli Sandığı aylıklarında zam farkı yarın ödenecek",
+  "link": "https://www.diken.com.tr/emekli-sandigi-ayliklarinda-zam-farki-yarin-odenecek/?utm_source=rss&utm_medium=rss&utm_campaign=emekli-sandigi-ayliklarinda-zam-farki-yarin-odenecek",
+  "source": "Diken",
+  "summary_tr": "Emekli Sandığı kapsamındaki emeklilerin zam farkı 24 Temmuz'da ödenecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-23T10:01:05.013401+00:00",
+  "type": "news",
+  "cluster_id": "c78365e572d1a"
+ },
+ {
+  "title": "Memur emeklilerine zam farkı ödemeleri yarın yapılacak",
+  "link": "https://www.trthaber.com/haber/ekonomi/memur-emeklilerine-zam-farki-odemeleri-yarin-yapilacak-951990.html",
+  "source": "TRT Haber",
+  "summary_tr": "Memur emeklilerine Temmuz dönemi zam farkı ödemeleri 24 Temmuz'da yapılacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-23T10:01:05.013401+00:00",
+  "type": "news",
+  "cluster_id": "c8e4885ea1f5c"
+ },
+ {
+  "title": "Tarım bakanlığı: Üç bal taklit veya tağşiş",
+  "link": "https://www.diken.com.tr/tarim-bakanligi-uc-bal-taklit-veya-tagsis-4/?utm_source=rss&utm_medium=rss&utm_campaign=tarim-bakanligi-uc-bal-taklit-veya-tagsis-4",
+  "source": "Diken",
+  "summary_tr": "Tarım Bakanlığı üç bal markasının taklit veya tağşiş ürün olduğunu tespit etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-23T10:01:05.013401+00:00",
+  "type": "news",
+  "cluster_id": "c9d130c98c878"
+ },
+ {
+  "title": "Öğrencilere ulaşım desteği: 2022'den bu yana 536 milyon lira ödendi",
+  "link": "https://www.trthaber.com/haber/gundem/ogrencilere-ulasim-destegi-2022den-bu-yana-536-milyon-lira-odendi-951996.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ulaşım Desteği Programı kapsamında sosyal yardım faydalanıcısı öğrenciler için 2022'den bu yana 536 milyon lira ödendi.",
+  "metric": "536 milyon TL",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-23T10:01:05.013401+00:00",
+  "type": "news",
+  "cluster_id": "ce4f3b0892436"
+ },
+ {
   "title": "İran gelişmiş ABD radarlarını vurduğunu iddia etti",
   "link": "https://www.dw.com/tr/iran-gelişmiş-abd-radarlarını-vurduğunu-iddia-etti/a-78079846?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59244,75 +59328,5 @@
   "score": 6,
   "ts": "2026-06-09T16:01:19.655536+00:00",
   "cluster_id": "c1784d42a3e29"
- },
- {
-  "title": "İsrail Parlamentosu, Filistin'in vergi gelirlerinden kesinti yapılmasını öngören yasayı kabul etti",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-parlamentosu-filistinin-vergi-gelirlerinden-kesinti-yapilmasini-ongoren-yasayi-kabul-etti/3961650",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail Parlamentosu, Filistin yönetiminin vergi gelirlerinden yapılan kesintileri yasal hale getirecek yasa teklifini kabul etti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-09T16:01:19.655536+00:00",
-  "cluster_id": "cb96229a88283"
- },
- {
-  "title": "Rekabet Kurulu'ndan kast ajansı ve menajerlik şirketlerine 42,2 milyon lira ceza",
-  "link": "https://www.trthaber.com/haber/ekonomi/rekabet-kurulundan-kast-ajansi-ve-menajerlik-sirketlerine-422-milyon-lira-ceza-947663.html",
-  "source": "TRT Haber",
-  "summary_tr": "Rekabet Kurulu, kast ajanslarına 42,2 milyon lira ceza verdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-09T16:01:19.655536+00:00",
-  "cluster_id": "c21b353be36c5"
- },
- {
-  "title": "Özgür Özel krizin ardından grup kürsüsündeydi: “Kimse birilerinin milletle girdiği savaşın maşası olmasın”",
-  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRVRQN0oxejRIeGlTRzJidDNiaDJQTmV3ZkV6OWFTTW1TRmhpdnkzRVRJQnh5cG5NdEpHbkhJYmRGejlrUlEzVlFSanJfeVo5RkhTTUhETS1fdWM4czB3ODBqLWtROENWejZxTGxXekgyNlRkYjNETm1DblQtOE5hWHl2OTd6Zw?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "CHP Genel Başkanı Özel, grup toplantısında parti içi krizle ilgili açıklamalar yaptı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-09T16:01:19.655536+00:00",
-  "cluster_id": "c2d5e36e14bb0"
- },
- {
-  "title": "Exclusive: Nuvei in advanced talks to acquire payment firm Payoneer for $2.7 billion, sources say",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdmpqWnVhcndFODY3clo4S0tzT1ZRTnQwNzB1WUx0TkpVVlNwUmJYcjNvVExsOERsQUgxWEViajFDTEhKSS1GVDBHRm9WNHZBMDdvTnFRcjI2cEhZY3ZiNkktcnFkZnpTNUc5aE5ld2ZDU1RWYjU5YldMVmpWaFlBc3IxZ1NFcHJxc3NKdHRxazZZS0ducG9MZWI2NmFMNGZucUMtWkkzMUtVNFhCY3RobQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Nuvei, ödeme şirketi Payoneer'ı 2,7 milyar dolara satın almak üzere ileri görüşmelerdedir.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-09T16:01:19.655536+00:00",
-  "cluster_id": "ca489f1018e63"
- },
- {
-  "title": "No tech rule exemption for Apple, EU regulators say amid spat over Siri AI delay",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVzNjcTNvOF9vcGtjQlkwczJ2Znk2SGllam1yRlZ2OEdOOHVUdGV6dnl2OW1rMk13cEVxcFlXaHIyVW9FV2liTlhmVHdmT1FlZzFodV9qejNlM2ZRREZkLVNublllRTA0WGRHWnVKS3ViWFFaNEFvUm5JbkZUN0I1NC1MOFF6dXNZY2g0cUl1cFJZQVYwS3VVdnFwdmRFV0Y5TE9KVmFyc1NIMlpseDloU3FkRElFUQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "AB düzenleyicileri, Apple'ye Siri AI gecikmesi üzerinde teknoloji kural istisnası vermediğini bildirdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-09T16:01:19.655536+00:00",
-  "cluster_id": "c6c353fa3eca7"
- },
- {
-  "title": "İran saldırısı sonrası Ramat David Üssü’nde hasar",
-  "link": "https://www.cumhuriyet.com.tr/dunya/iran-saldirisi-sonrasi-ramat-david-ussu-nde-hasar-2510765",
-  "source": "Cumhuriyet",
-  "summary_tr": "Uydu görüntüleri, İran'ın 7 Haziran'da İsrail'in Ramat David Hava Üssü'nü balistik füzelerle vurduğunu, hasara neden olduğunu gösterdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-09T14:01:18.096267+00:00",
-  "cluster_id": "c716d41ceca3f"
- },
- {
-  "title": "Ukrayna Devlet Başkanı Zelenskiy, Avrupa'nın müzakerelerde yer alması gerektiğini belirtti",
-  "link": "https://www.aa.com.tr/tr/dunya/ukrayna-devlet-baskani-zelenskiy-avrupanin-muzakerelerde-yer-almasi-gerektigini-belirtti/3961607",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Ukrayna Devlet Başkanı Zelenskiy, savaşın sona erdirilmesi müzakerelerinde Avrupa'nın kesinlikle yer alması gerektiğini vurguladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-09T14:01:18.096267+00:00",
-  "cluster_id": "c6199e50b81da"
  }
 ]
