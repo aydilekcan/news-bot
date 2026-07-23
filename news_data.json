@@ -1,5 +1,125 @@
 [
  {
+  "title": "Gözler Merkez Bankası'nda! Yılın beşinci faiz kararı bugün açıklanıyor",
+  "link": "https://www.sozcu.com.tr/gozler-merkez-bankasi-nda-yilin-besinci-faiz-karari-bugun-aciklaniyor-p338926",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye Cumhuriyet Merkez Bankası Para Politikası Kurulu, yılın beşinci faiz kararını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-23T05:01:02.647696+00:00",
+  "type": "news",
+  "cluster_id": "c8d673dd19fd2"
+ },
+ {
+  "title": "Akaryakıta gece yarısı zam geldi: Kontak artık daha zor çalışacak",
+  "link": "https://www.sozcu.com.tr/akaryakita-gece-yarisi-zam-geldi-kontak-artik-daha-zor-calisacak-p338930",
+  "source": "Sözcü",
+  "summary_tr": "Akaryakıta gece yarısı zam uygulandı; benzinin litre fiyatına 1,23 TL zam geldi.",
+  "metric": "Benzin fiyatı +1,23 TL/litre",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-23T05:01:02.647696+00:00",
+  "type": "news",
+  "cluster_id": "c3963cf36b925"
+ },
+ {
+  "title": "İran Devrim Muhafızları, Kuveyt'teki ABD üslerine saldırı düzenlediğini duyurdu",
+  "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-kuveytteki-abd-uslerine-saldiri-duzenledigini-duyurdu-951951.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Devrim Muhafızları, Kuveyt'teki ABD askeri unsurlarına karşı insansız hava araçlarıyla saldırı düzenlediklerini duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-23T05:01:02.647696+00:00",
+  "type": "news",
+  "cluster_id": "c3f78440e7072"
+ },
+ {
+  "title": "China begins two days of live-fire drills in Taiwan Strait",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQejZfZS1QLTgtdG5SWUNpTlZsTmN0emFuTDBLZU1id0dyeXZrdl9Wc0lHYTc2VnBYcXo5ZzREUEM4QUpyMmNUT21NaWJlN3lqUng1am9Mdm1NUlVUdGdORDA5Ujd5TGZEb3JNb1lpS0EzM2ZIUnJzdUxjNEJMWTZxRGFNTXdobThjOUtoUll2Q2tma29xZ1FwTmFGVzlDa2tUaGVv?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin, Taiwan Boğazında iki gün boyunca canlı ateş tatbikatlarına başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-23T05:01:02.647696+00:00",
+  "type": "news",
+  "cluster_id": "ce8561b7ad9be"
+ },
+ {
+  "title": "Akif Beki: Vatandaşlık maaşını alanlardan haber var mı?",
+  "link": "https://www.diken.com.tr/akif-beki-vatandaslik-maasini-alanlardan-haber-var-mi/?utm_source=rss&utm_medium=rss&utm_campaign=akif-beki-vatandaslik-maasini-alanlardan-haber-var-mi",
+  "source": "Diken",
+  "summary_tr": "Akif Beki, vatandaşlık maaşı uygulamasının yoksullukla mücadelede yapısal reform gerektiğini vurguladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-23T05:01:02.647696+00:00",
+  "type": "news",
+  "cluster_id": "ce369b148b890"
+ },
+ {
+  "title": "Altın fiyatlarında rota yeniden çiziliyor: Petrol altı haftanın zirvesinde",
+  "link": "https://www.sozcu.com.tr/altin-fiyatlarinda-rota-yeniden-ciziliyor-petrol-alti-haftanin-zirvesinde-p338925",
+  "source": "Sözcü",
+  "summary_tr": "Orta Doğu gerilimine bağlı olarak petrol fiyatları 100 dolara yaklaştı; altın fiyatlarında yeni rota oluştu.",
+  "metric": "Petrol ~100 USD",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-23T05:01:02.647696+00:00",
+  "type": "news",
+  "cluster_id": "cb6cd98454a9c"
+ },
+ {
+  "title": "Oil prices hover at six-week high as Middle East shipping risks escalate",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcEZlQTh2dnVnblEzaVc4eE81SE92UFhTN2VJSXQ4RGdOQVFLU2FuUTB6d19yWWotOFZzQTRaRmlPanZpYkdPZ18waTVpd0lsaWJPRU9aZkd5VU9lZ3RvYi00RGh3TUFsV3JYTGpNc21BOE54N01TbmtCOWh2UWtUTFhZQVlfVHBNS2F1ZDhJS01RT001UDRBQ3MwYTFqM25uaUcxX1E4R3JTX1k?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Orta Doğu'daki denizcilik riskleri artarken petrol fiyatları altı haftanın zirvesinde seyrediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-23T05:01:02.647696+00:00",
+  "type": "news",
+  "cluster_id": "cced1cd4993ca"
+ },
+ {
+  "title": "Özgür Erdursun: Mesele asgari ücretin yeniden gerçek anlamına kavuşturulmasıdır",
+  "link": "https://www.diken.com.tr/ozgur-erdursun-mesele-asgari-ucretin-yeniden-gercek-anlamina-kavusturulmasidir/?utm_source=rss&utm_medium=rss&utm_campaign=ozgur-erdursun-mesele-asgari-ucretin-yeniden-gercek-anlamina-kavusturulmasidir",
+  "source": "Diken",
+  "summary_tr": "Özgür Erdursun, asgari ücretin gerçek anlamına kavuşturulması gerektiğini belirtti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-23T05:01:02.647696+00:00",
+  "type": "news",
+  "cluster_id": "ca09e7c6135bd"
+ },
+ {
+  "title": "TBMM'de kabul edildi: Bu kuralları ihlal edenin ehliyeti anında iptal olacak",
+  "link": "https://www.sozcu.com.tr/tbmm-de-kabul-edildi-bu-kurallari-ihlal-edenin-ehliyeti-aninda-iptal-olacak-p338923",
+  "source": "Sözcü",
+  "summary_tr": "TBMM, yeni ehliyet alanların 2 yıl denetime tabi tutulmasını ve kural ihlalleri sürücü belgesinin anında iptalini kabul etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-23T05:01:02.647696+00:00",
+  "type": "news",
+  "cluster_id": "c42497f11ecae"
+ },
+ {
+  "title": "'AKP, Akkuyu'da Rusya'ya 9,8 milyar dolarlık teşvik sağladı'",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUxWUHZvWWwyWUxLZ2czbEJlNzJrQkc3eFhkOFFQbzZhd3FRSVFqaXZ3WmVZQTJ6aElia1Z3VUdvRlRWaWxEbThRUVJ1WUdlOHlPRWZGLV9XNzI5RnVrdkRnM05kdWdEZWN3V0lvS2tWRWJtc0pVdmJqLUxWdkg4SHZfb3NLMUhYSjJyY3phOWU3cDJXU3Qw?oc=5",
+  "source": "soL",
+  "summary_tr": "Akkuyu Nükleer Santralı projesi kapsamında AKP'nin Rusya'ya 9,8 milyar dolar teşvik sağladığı iddia edildi.",
+  "metric": "9,8 milyar dolar",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-23T05:01:02.647696+00:00",
+  "type": "news",
+  "cluster_id": "c513420b74a3b"
+ },
+ {
   "title": "Husiler, Suudi petrol tankerlerine saldırdıklarını açıkladı",
   "link": "https://www.bbc.com/turkce/articles/c935gy0rd2vo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59108,105 +59228,5 @@
   "score": 6,
   "ts": "2026-06-09T11:01:11.122423+00:00",
   "cluster_id": "c18710a128f4d"
- },
- {
-  "title": "SON DAKİKA | Özgür Özel partisinin grup toplantısında konuşuyor",
-  "link": "https://www.sozcu.com.tr/son-dakika-veya-ozgur-ozel-partisinin-grup-toplantisinda-konusuyor-p326469",
-  "source": "Sözcü",
-  "summary_tr": "Kılıçdaroğlu geri adım attı, Özgür Özel CHP grup toplantısında konuşacak; Meclis krizinde çözüm sağlandı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-09T11:01:11.122423+00:00",
-  "cluster_id": "c169b1062e2db"
- },
- {
-  "title": "GSK boosts cancer portfolio with $10.6 billion Nuvalent takeover",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVHFPVWp5ckQtdGRRYXFDSU1kMER6VlRhaC1tTkNzd0dBbWY5WmxZbFdQaG5fY3VVSFJtLWFvb3BPckoxbndhcGd6ZlNjbEI4akxBNkt0eVZucm1VVUpDSXlobHB5TUoxcTNUd2MzOHdmUE1KV1gwaEZBd05qMEdONkwxMzdlUWdyR3RJajVWMXNVMzd4bG03WlI4Um43V0NCbzJVb29RUzBrNzNQVWVkTUgxbl9TWWJ3YVRJS3VfUnEyWVMteEJEZDZR?oc=5",
-  "source": "Reuters",
-  "summary_tr": "GSK, kanser portföyünü güçlendirmek için Nuvalent'i 10,6 milyar dolara satın alıyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-09T11:01:11.122423+00:00",
-  "cluster_id": "c66a155c6a8c3"
- },
- {
-  "title": "China’s exports jump 19.4% in May from a year earlier, boosted by demand for autos and tech goods",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV3FJejlBMGNaUV9ZNnVTMGV6Yy01NDNnSEs4QXFhTmQtakJRR3l1RnJtOUlTQURuNU1vbWlBaHlUSHVheGZLbHpGUWE0T1BYTTBVSjhQcUFjNFVsZWdfeDVjWE9NR3JJMXQ4cjZ3aDdOUm1WNnRRT0tRSzk1dVctNm5zaEZtNHU5aUtuLVRCejRLeGg0TVF5WFdCVFNOcnM?oc=5",
-  "source": "AP",
-  "summary_tr": "Çin ihracatı, otomotiv ve teknoloji ürünleri talebiyle bir yıl öncesine kıyasla %19,4 arttı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-09T11:01:11.122423+00:00",
-  "cluster_id": "cd037bbb9058a"
- },
- {
-  "title": "İsrail saldırılarında İran ordusundan iki üst düzey kayıp",
-  "link": "https://www.cumhuriyet.com.tr/dunya/israil-saldirilarinda-iran-ordusundan-iki-ust-duzey-kayip-2510678",
-  "source": "Cumhuriyet",
-  "summary_tr": "İsrail'in İran'a düzenlediği saldırılarda İran Ordusu Hava Savunma Kuvvetleri'ne bağlı iki üst düzey askeri yetkili hayatını kaybetti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-09T10:01:26.196702+00:00",
-  "cluster_id": "ce7e17527fa3a"
- },
- {
-  "title": "ABD'den Çin'e ticaret savaşlarını tetikleyen hamle: Alibaba ve BYD ordu listesine alındı",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/abd-den-cin-e-ticaret-savaslarini-tetikleyen-hamle-alibaba-ve-byd-ordu-listesine-alindi-2510671",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD, Alibaba, Baidu, BYD ve NIO gibi Çinli şirketleri 'orduya yardım eden şirketler' listesine alarak ticaret savaşlarını yoğunlaştırdı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-09T10:01:26.196702+00:00",
-  "cluster_id": "c606f4508729d"
- },
- {
-  "title": "Fitch Ratings, küresel ekonomi sektör görünümünü \"kötüleşiyor\" seviyesine düşürdü",
-  "link": "https://www.aa.com.tr/tr/ekonomi/fitch-ratings-kuresel-ekonomi-sektor-gorunumunu-kotulesiyor-seviyesine-dusurdu/3961257",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Fitch Ratings, ABD/İsrail-İran Savaşı'nın etkileri nedeniyle küresel ekonomi sektör görünümünü 'kötüleşiyor' seviyesine düşürdü.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-09T10:01:26.196702+00:00",
-  "cluster_id": "cdafb41701539"
- },
- {
-  "title": "ABD'den Çinli şirketlere kara liste: BYD ve Alibaba da eklendi",
-  "link": "https://www.trthaber.com/haber/dunya/abdden-cinli-sirketlere-kara-liste-byd-ve-alibaba-da-eklendi-947629.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD, BYD ve Alibaba dahil onlarca Çin merkezli firmayı 'Çin ordusuyla bağlantılı' listesine alarak yaptırımları genişletti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-09T10:01:26.196702+00:00",
-  "cluster_id": "ceef73bb1e426"
- },
- {
-  "title": "CHP grup toplantısı: Kılıçdaroğlu Meclise gitmiyor",
-  "link": "https://www.dw.com/tr/chp-grup-toplantısı-kılıçdaroğlu-meclise-gitmiyor/a-77469597?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "CHP grup toplantısı düğümü çözüldü; Özgür Özel TBMM kürsüsüne çıkacak, Kılıçdaroğlu Genel Merkez'de kalacak.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-09T10:01:26.196702+00:00",
-  "cluster_id": "c0bdbde75267a"
- },
- {
-  "title": "Numan Kurtulmuş'tan dikkat çeken 'fezleke' açıklaması: 'Bambaşka bir siyasi oyunun kapısını açar'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/numan-kurtulmus-tan-dikkat-ceken-fezleke-aciklamasi-bambaska-bir-siyasi-oyunun-kapisini-acar-2510670",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM Başkanı Numan Kurtulmuş, Özgür Özel ve 5 CHP'li milletvekili hakkında dokunulmazlık fezlekesi hazırlanması talebini dikkat çekici açıklamalarla değerlendirdi.",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-06-09T10:01:26.196702+00:00",
-  "cluster_id": "cd818fe730db7"
- },
- {
-  "title": "Küresel ekonomi için alarm verildi! Enerji krizi ve enflasyon kapıda",
-  "link": "https://www.sozcu.com.tr/kuresel-ekonomi-icin-alarm-verildi-enerji-krizi-ve-enflasyon-kapida-p326459",
-  "source": "Sözcü",
-  "summary_tr": "Fitch Ratings, ABD/İsrail-İran savaşının tetiklediği enerji şoklarından kaynaklanan küresel ekonomi risklerine karşı alarm verdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-09T10:01:26.196702+00:00",
-  "cluster_id": "cc729b71cd235"
  }
 ]
