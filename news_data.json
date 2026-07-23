@@ -1,5 +1,41 @@
 [
  {
+  "title": "ABD’den İran'ın Huzistan eyaletine füze saldırısı: 2 ölü",
+  "link": "https://www.aa.com.tr/tr/live-blog/son-gelismeler-abdnin-irana-yonelik-saldirilari-ve-iran-in-misillemeleri/5817",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD tarafından İran'ın Huzistan eyaletine düzenlenen füze saldırılarında 2 kişi hayatını kaybetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-23T02:00:55.854110+00:00",
+  "type": "news",
+  "cluster_id": "cf91e93c485ba"
+ },
+ {
+  "title": "US House passes $1 trillion defense bill despite Iran, Israel concerns",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRXN5SFByNFBWb1hOU2l0QzNvTkU0QzFtZlEzRk1VRE43QzZmNlV1V2FiVk9qQXZ0MzlseE5qMUNVSGFVVk80eVFyWHVYcjVPWEZyanlvZWE0NU5FdmxoSzBraFdIcVNmM24wYkJXTmdITHZ6dE5GdFBMR2h3ZEhGLTlWbldBLWZKZ19xOVpLM3YtaGl1RnhObE5oTnJtQ3NhYTdMTGtjMV9kbWpmWU1LblZtbjRadkJVTkc2QnNHeXpURGY0azZ5eVcyaw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Temsilciler Meclisi, İran ve İsrail endişelerine rağmen 1 trilyon dolarlık savunma faturasını geçti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-23T02:00:55.854110+00:00",
+  "type": "news",
+  "cluster_id": "c18d69c48ff89"
+ },
+ {
+  "title": "House passes temporary government funding bill months early to avoid election season shutdown",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbl85OU10QmtZYk5lYXEzeFlDNEtwVFkwVG4yV2xoc0xFZGd2VTR1X20zSlRVSGI5ekt3MWdpZVhyYlFwWmpxT0xmVU40ZzdQdktrWmozUF9YMkdTTnZoX05HVWZDTi16dmg3ajVGWmpmU21LTDgzNG9FcWZRX0ZYMXY1VXY1LXJyUG1ROEVRcTBQWTlQ?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD Temsilciler Meclisi, seçim mevsimi kapatılmasını önlemek için geçici hükümet finansmanı faturasını erken geçti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-23T02:00:55.854110+00:00",
+  "type": "news",
+  "cluster_id": "c866b574ccb59"
+ },
+ {
   "title": "US military carries out strikes on Iran as both sides threaten civilian infrastructure",
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVkxVRHNEai1jeXMzeVdPZVZqZmJvUjBqdTY5ZVZyWEp5bC0yWFJTWldhSlhlbFhoRmEwcFBnNkk0UWdDdHZMWFRXMk5acElxZEFSQ0otZzFQRElSMXdER1NlT0ptZUxVbTRPT3dFM25rOGtsb08yLUdXRll4SkhUZk9QejZ2RWZrb1hLcmhBYktXeEhrTTZIR3FTSTN6RUk?oc=5",
   "source": "AP",
@@ -59154,35 +59190,5 @@
   "score": 8,
   "ts": "2026-06-09T09:01:11.086880+00:00",
   "cluster_id": "c88f404962f93"
- },
- {
-  "title": "Kılıçdaroğlu toplantısını CHP Genel Merkezi'nde yapacak: 'Şimdi kavga değil, omuz omuza durma vaktidir'",
-  "link": "https://www.bbc.com/turkce/articles/c1ly4mj4dypo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "CHP Genel Başkanı Kılıçdaroğlu, TBMM Grup Toplantısı'nı partisinin genel merkezinde yapacak; partide liderlik krizi devam ediyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-09T09:01:11.086880+00:00",
-  "cluster_id": "cd4a57be25315"
- },
- {
-  "title": "'Halk ayaklanması çığırtkanlığı', 'kirli emeller...' Kılıçdaroğlu'ndan, Mansur Yavaş'ın çağrısına jet yanıt: Saat verdi, Genel Merkez'e çağırdı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/halk-ayaklanmasi-cigirtkanligi-kirli-emeller-kilicdaroglu-ndan-mansur-yavas-in-cagrisina-jet-yanit-saat-verdi-genel-merkez-e-cagirdi-2510652",
-  "source": "Cumhuriyet",
-  "summary_tr": "Kılıçdaroğlu, Mansur Yavaş'ın çağrısına karşılık verdi; saat belirleyip Genel Merkez'e davet etti.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-09T09:01:11.086880+00:00",
-  "cluster_id": "c5f78202264ff"
- },
- {
-  "title": "Akkuyu NGS'nin 1. güç ünitesine temsili nükleer yakıt yüklendi",
-  "link": "https://www.trthaber.com/haber/ekonomi/akkuyu-ngsnin-1-guc-unitesine-temsili-nukleer-yakit-yuklendi-947624.html",
-  "source": "TRT Haber",
-  "summary_tr": "Akkuyu Nükleer Güç Santrali'nin 1. güç ünitesinin reaktör basınç kabına temsili nükleer yakıt yüklendi.",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-06-09T09:01:11.086880+00:00",
-  "cluster_id": "cf7cb3fc7c794"
  }
 ]
