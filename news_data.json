@@ -1,5 +1,29 @@
 [
  {
+  "title": "US military carries out strikes on Iran as both sides threaten civilian infrastructure",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVkxVRHNEai1jeXMzeVdPZVZqZmJvUjBqdTY5ZVZyWEp5bC0yWFJTWldhSlhlbFhoRmEwcFBnNkk0UWdDdHZMWFRXMk5acElxZEFSQ0otZzFQRElSMXdER1NlT0ptZUxVbTRPT3dFM25rOGtsb08yLUdXRll4SkhUZk9QejZ2RWZrb1hLcmhBYktXeEhrTTZIR3FTSTN6RUk?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD ordusu İran'a karşı hava saldırıları düzenledi; her iki taraf sivil altyapıyı tehdit ediyor. Ortadoğu'da yoğun gerginlik.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-23T01:01:00.924781+00:00",
+  "type": "news",
+  "cluster_id": "c0c93beab5dae"
+ },
+ {
+  "title": "Trump administration considers putting nuclear power plants in US waters",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMF9BdEpBSF85VVVLUkJJRG1IcE9IMi0yazczV1kyaGxMc3lTeW40elcwNHR6M0dRR1lmWEZuWkVPWG5ITERRRGhZeDRHdDhGSlZmVm8yemZHX2hNOFpOUlpwVkRtSGtLQ085ZjIxcm51SE5tSWFqQWtsdXJSVGJxVEFQZmdiR2swdTJabkNFNlhZN2t4T050ZTNRRThlV1FHdnUtS2E3cVlMZVZoNTlFd3h5ZURhSkNEYUtsVGJzVQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump yönetimi ABD sularına nükleer santral yerleştirmeyi değerlendiriyor. Enerji politikasında önemli yönelim sinyali.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-23T01:01:00.924781+00:00",
+  "type": "news",
+  "cluster_id": "cced3d4960a20"
+ },
+ {
   "title": "Trump approves nuclear agreement that may allow Saudi Arabia to enrich uranium, 2 AP sources say",
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObHhrQ08zNEo1Tm9VcFFkS3lTOV8tWGJmX3lXbzRUMjNiOXhXb0ZUdkRaNzc3Y2ZOdndIRnkzTnBtaEFnWkxEVVVvQUdPR3NENS1oVk9uaHlCanBHT0VwY0lwOE40ZjVlWWF2eDBDbXNHLVR5d2x6WVBOLTNWZ2hTMmxfQ2JuSXBIX2pPYVFDOWVmbzRSQVhPTzRVRThIS1NOUW5uUA?oc=5",
   "source": "AP",
@@ -59160,25 +59184,5 @@
   "score": 7,
   "ts": "2026-06-09T09:01:11.086880+00:00",
   "cluster_id": "cf7cb3fc7c794"
- },
- {
-  "title": "Kılıçdaroğlu'ndan Yavaş'ın çağrısına 'topyekün halk ayaklanması çığırtkanlığı yapanlar' yanıtı",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeGhtaWFvUlhxcEFEa2J4WFVzcVVHMlVpVVc1c2pjWkRJV2pZX0hUdzZUdDB1dzhoSWdlT2ZFNWpnVC0yTFJWeHlIQ3JSdnR5NWladFFBTDY2MUxuYzljN3BfUzhMTTJKaTFGUUNxSUlLc2F1dnZfRUhrc3YwLUlJbVIzUVhHRVdhWGx3UUFrVmR3ajA2SWtEWE9rUzRuMGV6Ty1VSlVsVFBHVENmQmxFUk5oYlVNYk11RzZFZ0x3?oc=5",
-  "source": "soL",
-  "summary_tr": "Kılıçdaroğlu, Yavaş'ın çağrısına karşılık verdi; eleştiri içeren açıklamada bulundu.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-09T09:01:11.086880+00:00",
-  "cluster_id": "c67f59f2541bf"
- },
- {
-  "title": "Meclis krizinde son durum: CHP’de ipler kopma noktasında",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUc2dVdZQmdOekpXMzctbFh5Uno0akp2UFF1X0tpZnJKYVE0dlZDTmFkYnVDRlNSRHFHbnpYVG9mNjdpY0ZyQlhSbmtvdHczTExKdGRBZERpREpObXItY05LTzVRaWdJaGRtSXVvMGFXRTZ2U0VOd2dzVlc1TTZiRG5SaW1FbUgzTEZGOXY2RmxweENrUmRv?oc=5",
-  "source": "soL",
-  "summary_tr": "CHP'de meclis krizi devam ediyor; ipler kopma noktasında olduğu rapor ediliyor.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-09T09:01:11.086880+00:00",
-  "cluster_id": "c31670de52b4d"
  }
 ]
