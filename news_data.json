@@ -1,5 +1,101 @@
 [
  {
+  "title": "US House votes to curb Trump's Iran war powers but Senate backs president",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZmZraWhuZnh2S3UwSzNiRWxNaFZuNl9jLVV2by1sUm9DdEZjbDJGb05pQWstRDVrM3J2OHE0MFJ6THdLRUc2NUUtS1hnTC1xZ2o4ZHhTOHp0cThGTFNhQkROeVpLdTJIWEVCY2pNTTNIYU0xOVhuVXJIY1ZtaDdxUmRxXzdMc0toSVJOSzR0TC1UY1FqSnJqTW84bHJidk5oMDl5eU5YZzdpWXJSTllKNWJmdU4wZG5MeEE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Temsilciler Meclisi Trump'ın İran savaş yetkilerini kısıtlayan tasarıyı kabul etti; Senato başkanı destekledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-23T21:01:07.751242+00:00",
+  "type": "news",
+  "cluster_id": "cbe1087091723"
+ },
+ {
+  "title": "What's in the EU's 21st package of sanctions against Russia",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORVFmcndVRlpnZk84cG1MdjJ3bnBLTThobTlaUlFzdXRidHcxWkhjTzVtM1lvYnJxaHBERzBFN3lYcjVFMjFYY2V2NWU4bVFEb0M0c2RweFk5U3FDaGhYZE9rWHU0bkVqemlQU3JGZmtmN1hLUGJDaTR3aTlaWTFHZkNuYW1zWWl5VlVscVNhbTlNWWJRUGxORWVIcw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "AB, Rusya'ya karşı 21. yaptırım paketi onayladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-23T21:01:07.751242+00:00",
+  "type": "news",
+  "cluster_id": "c9ad6c712b7b9"
+ },
+ {
+  "title": "ABD, Küba bağlantılı bazı kişi ve kuruluşları yaptırım listesine aldı",
+  "link": "https://www.cumhuriyet.com.tr/dunya/abd-kuba-baglantili-bazi-kisi-ve-kuruluslari-yaptirim-listesine-aldi-2523365",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD, Küba bağlantılı 9 kuruluş ve 2 kişiyi yaptırım listesine ekledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-23T21:01:07.751242+00:00",
+  "type": "news",
+  "cluster_id": "c98384bbccef8"
+ },
+ {
+  "title": "Türkiye ve 7 ülkeden İsrail açıklaması",
+  "link": "https://www.sozcu.com.tr/turkiye-ve-7-ulkeden-israil-aciklamasi-p339218",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye, BAE, Endonezya, Katar, Mısır, Pakistan, Suudi Arabistan ve Ürdün dışişleri bakanları İsrail'i kınadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-23T21:01:07.751242+00:00",
+  "type": "news",
+  "cluster_id": "c910f3f6943a0"
+ },
+ {
+  "title": "Türkiye dahil 8 ülke, İsrailli bakanların öncülüğünde Mescid-i Aksa baskınlarını \"en güçlü biçimde\" kınadı",
+  "link": "https://www.aa.com.tr/tr/dunya/turkiye-dahil-8-ulke-israilli-bakanlarin-onculugunde-mescid-i-aksa-baskinlarini-en-guclu-bicimde-kinadi/4007556",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye dahil 8 ülke, İsrailli bakanların öncülüğünde Mescid-i Aksa baskınlarını en güçlü biçimde kınadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-23T21:01:07.751242+00:00",
+  "type": "news",
+  "cluster_id": "cdd6a8cb52d1e"
+ },
+ {
+  "title": "İsrail, Batı Şeria'da 6 bin dönümlük yeni bir işgal planını onayladı",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-bati-seriada-6-bin-donumluk-yeni-bir-isgal-planini-onayladi/4007546",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail, Batı Şeria'nın güneyinde yaklaşık 6 bin dönümlük yeni işgal planını onayladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-23T21:01:07.751242+00:00",
+  "type": "news",
+  "cluster_id": "c1e3ffdb575ea"
+ },
+ {
+  "title": "KKTC ve ambargolar önergesi AKP ve MHP oylarıyla reddedildi",
+  "link": "https://www.sozcu.com.tr/kktc-onergesi-akp-ve-mhp-oylariyla-reddedildi-p339219",
+  "source": "Sözcü",
+  "summary_tr": "KKTC ve ambargoların değerlendirilmesi önergesi AKP ve MHP oylarıyla TBMM'de reddedildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-23T21:01:07.751242+00:00",
+  "type": "news",
+  "cluster_id": "c969091b6472f"
+ },
+ {
+  "title": "Silifke Belediyesine yönelik soruşturmada CHP'li meclis üyesi tutuklandı",
+  "link": "https://www.trthaber.com/haber/turkiye/silifke-belediyesine-yonelik-sorusturmada-chpli-meclis-uyesi-tutuklandi-952056.html",
+  "source": "TRT Haber",
+  "summary_tr": "Mersin'de Silifke Belediyesine yönelik rüşvet ve ihaleye fesat soruşturmasında CHP'li meclis üyesi tutuklandı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-23T21:01:07.751242+00:00",
+  "type": "news",
+  "cluster_id": "ce592ecacc00d"
+ },
+ {
   "title": "İran’dan ABD’ye misilleme saldırısı",
   "link": "https://www.sozcu.com.tr/iran-dan-abd-ye-misilleme-saldirisi-p339207",
   "source": "Sözcü",
@@ -59420,85 +59516,5 @@
   "score": 7,
   "ts": "2026-06-10T07:01:02.221227+00:00",
   "cluster_id": "c9103841a6f5d"
- },
- {
-  "title": "Hürmüz Boğazı krizi fiyatları vurdu: Petrol için korkutan tahmin!",
-  "link": "https://www.sozcu.com.tr/hurmuz-bogazi-krizi-fiyatlari-vurdu-petrol-icin-korkutan-tahmin-p326691",
-  "source": "Sözcü",
-  "summary_tr": "ABD EIA, Hürmüz Boğazı kapanması ve küresel stok erozyonu nedeniyle petrol fiyatlarında yükselişe işaret etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T07:01:02.221227+00:00",
-  "cluster_id": "cd3ba0e978ece"
- },
- {
-  "title": "Küresel piyasalar jeopolitik sarkaç kıskacında",
-  "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-jeopolitik-sarkac-kiskacinda-947712.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD-İran ilişkilerinin diplomasi ve askeri misilleme arasında gidip gelmesi küresel piyasalarda belirsizliği arttırıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T07:01:02.221227+00:00",
-  "cluster_id": "ccf655e04d4ef"
- },
- {
-  "title": "Küresel deniz üstü rüzgarın gücü artıyor",
-  "link": "https://www.trthaber.com/haber/ekonomi/kuresel-deniz-ustu-ruzgarin-gucu-artiyor-947715.html",
-  "source": "TRT Haber",
-  "summary_tr": "Küresel deniz üstü rüzgar enerjisi kurulu gücü 9,3 gigavat artarak 92,5 gigavata ulaştı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-10T07:01:02.221227+00:00",
-  "cluster_id": "c2e46537b9092"
- },
- {
-  "title": "Bitcoin 8 ayda 1 trilyon dolardan fazla değer kaybetti",
-  "link": "https://www.trthaber.com/haber/dunya/bitcoin-8-ayda-1-trilyon-dolardan-fazla-deger-kaybetti-947711.html",
-  "source": "TRT Haber",
-  "summary_tr": "Bitcoin 8 ayda 1 trilyon dolardan fazla değer kaybetti; fiyat 60 bin dolar seviyesine geriledi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-10T07:01:02.221227+00:00",
-  "cluster_id": "cc0e141c3b730"
- },
- {
-  "title": "İsrail savaş uçakları, Lübnan'ın güneyindeki beldeleri bombalıyor",
-  "link": "https://www.cumhuriyet.com.tr/dunya/israil-savas-ucaklari-lubnan-in-guneyindeki-beldeleri-bombaliyor-2510908",
-  "source": "Cumhuriyet",
-  "summary_tr": "İsrail savaş uçakları Lübnan'ın güneyindeki beldeleri bombalamaya devam ediyor. Bölgedeki gerginlik tırmanıyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-10T06:00:59.602323+00:00",
-  "cluster_id": "c3b3a02f4b4ba"
- },
- {
-  "title": "ABD, helikopterinin düşürüldüğü iddiasıyla İran'a düzenlediği saldırılarını tamamladığını duyurdu",
-  "link": "https://www.trthaber.com/haber/dunya/abd-helikopterinin-dusuruldugu-iddiasiyla-irana-duzenledigi-saldirilarini-tamamladigini-duyurdu-947700.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD, İran'a düzenlediği hava saldırılarını tamamladığını duyurdu. Hürmüz Boğazı üzerinde Apache helikopterinin düşürüldüğü iddiasına yanıt verdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-10T06:00:59.602323+00:00",
-  "cluster_id": "c2ba7a92ea403"
- },
- {
-  "title": "Oil climbs as US-Iran tensions flare again while stockpiles tighten",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNGJ6NWZtUjUzMDg5TTZFYWY3SGhyUjEzcURaYnpPRkpZcmlsWVZVemw5aC1JNDY1NE82VlMyLTdhWmlDUkZyTTNMRTlfM1E1ZUVCSWJ3dDJyQ3RYbF9peF9zdjlIOFJ0bEJub0dJdTRxRjR4NFBaVmxZWHNkZFJUa3hBdEpJRVdHcnhYWlppZEN1MFJ4TDdyMlJBcFFPanlWU0Q3LTIySi1SUE9SRFdEbC1VSUM0em5HcF9xSFBrZ0o?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD-İran gerilimi tırmandıkça petrol fiyatları yükseliyor. Stok seviyeleri de sıklaşıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T06:00:59.602323+00:00",
-  "cluster_id": "c8660be2250fa"
- },
- {
-  "title": "Morning Bid: Nervous but not yet panicking",
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RTmp0cTg4VDY0QkhtVUhhZTd4MktzbHg4UXdVSzNvSklxLVEzSUozWEtnQkROcWpyTmJkRE9XbmxVRnVIR040UnVITTE1RUlPOVduLVVRRlRFRE8yWS1HbVZPeXJkNFhXVXZCY0NEWnlaTTBMU0FYakRWV0RxLUU?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Piyasalarda sinirlilik görülüyor ancak panik düzeyi henüz ulaşılmadı. Yatırımcılar dikkatli bekleme pozisyonunda.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-10T06:00:59.602323+00:00",
-  "cluster_id": "c167c37094c13"
  }
 ]
