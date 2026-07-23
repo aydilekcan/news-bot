@@ -1,5 +1,41 @@
 [
  {
+  "title": "AYM'den Sivas Madımak katliamı için ihlal kararı",
+  "link": "https://www.dw.com/tr/aym-den-sivas-madımak-katliamı-için-ihlal-kararı/a-78084778?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Anayasa Mahkemesi, Sivas Madımak katliamına ilişkin bireysel başvuruyu görüşüp yaşam hakkının usul boyutunun ihlal edildiğine karar verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-23T13:01:39.434528+00:00",
+  "type": "news",
+  "cluster_id": "c7f48e51896c0"
+ },
+ {
+  "title": "Ekonomistler Merkez Bankası'nın faiz kararını değerlendirdi",
+  "link": "https://www.sozcu.com.tr/ekonomistler-merkez-bankasi-nin-faiz-kararini-degerlendirdi-p339133",
+  "source": "Sözcü",
+  "summary_tr": "Merkez Bankası politika faizini %37'de sabit tutma kararını ekonomistler değerlendirdi.",
+  "metric": "TCMB Politika Faizi %37 (sabit)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-23T13:01:39.434528+00:00",
+  "type": "news",
+  "cluster_id": "c42a1f196d013"
+ },
+ {
+  "title": "Uzmanlar TCMB'nin faiz kararını değerlendirdi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/uzmanlar-tcmbnin-faiz-kararini-degerlendirdi/4007016",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Uzmanlar, Merkez Bankasının kademeli faiz normalleşmesine gideceğini değerlendirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-23T13:01:39.434528+00:00",
+  "type": "news",
+  "cluster_id": "cd56cb2f5de8c"
+ },
+ {
   "title": "Merkez Bankası politika faizini değiştirmedi, ekonomistler nasıl yorumladı?",
   "link": "https://www.bbc.com/turkce/articles/c05qp534dddo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59358,35 +59394,5 @@
   "score": 8,
   "ts": "2026-06-09T19:01:10.836716+00:00",
   "cluster_id": "c57853d564ea4"
- },
- {
-  "title": "S&P 500 ve Nasdaq, çip hissesi satışları ve jeopolitik risklerle bir ayın en düşük seviyelerini gördü",
-  "link": "https://www.aa.com.tr/tr/ekonomi/sp-500-ve-nasdaq-cip-hissesi-satislari-ve-jeopolitik-risklerle-bir-ayin-en-dusuk-seviyelerini-gordu/3961872",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "S&P 500 ve Nasdaq endeksleri teknoloji hisselerindeki satışlar ve artan jeopolitik riskler nedeniyle bir ayın en düşük seviyelerine geriledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-09T19:01:10.836716+00:00",
-  "cluster_id": "cf9fcbfe8b95e"
- },
- {
-  "title": "BM, İsrail'in dün kapattığı Kerem Ebu Salim Sınır Kapısı'nın yeniden açıldığını bildirdi",
-  "link": "https://www.aa.com.tr/tr/dunya/bm-israilin-dun-kapattigi-kerem-ebu-salim-sinir-kapisinin-yeniden-acildigini-bildirdi/3961847",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "BM, İsrail'in kapattığı Kerem Ebu Salim Sınır Kapısı'nın yeniden açıldığını bildirdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-09T19:01:10.836716+00:00",
-  "cluster_id": "cb0e82cbd87e1"
- },
- {
-  "title": "Hamas: Batı Şeria'daki yıkımlar Filistin varlığına karşı yürütülen açık bir savaş",
-  "link": "https://www.trthaber.com/haber/dunya/hamas-bati-seriadaki-yikimlar-filistin-varligina-karsi-yurutulen-acik-bir-savas-947676.html",
-  "source": "TRT Haber",
-  "summary_tr": "Hamas, İsrail'in Batı Şeria'daki artan yıkımlarını Filistin varlığına karşı savaş olarak nitelendirildi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-09T19:01:10.836716+00:00",
-  "cluster_id": "ce78eb425e74e"
  }
 ]
