@@ -1,5 +1,65 @@
 [
  {
+  "title": "Axios: ABD, İran'da yeniden B1 bombardıman uçakları kullanmaya başladı",
+  "link": "https://www.trthaber.com/haber/dunya/axios-abd-iranda-yeniden-b-1-bombardiman-ucaklari-kullanmaya-basladi-951955.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD ordusunun İran'da yeniden B1 bombardıman uçakları kullanmaya başladığı bildirilmiştir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-23T06:01:06.929822+00:00",
+  "type": "news",
+  "cluster_id": "c1d958168cd3d"
+ },
+ {
+  "title": "176 madenci hak peşinde: İktidar sessiz, Ankara yürüyüşü kapıda",
+  "link": "https://www.sozcu.com.tr/176-madenci-hak-pesinde-iktidar-sessiz-ankara-yuruyusu-kapida-p338953",
+  "source": "Sözcü",
+  "summary_tr": "Elazığ Maden ilçesindeki ETİ Gümüş İşletmesi'nde 176 işçi yaklaşık 1,5 yıldır ücretlerini alamadığını iddia ederek hak peşinde gitmektedir.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-23T06:01:06.929822+00:00",
+  "type": "news",
+  "cluster_id": "cdb4941ae23ca"
+ },
+ {
+  "title": "Houthis say they attacked Saudi tankers in the Red Sea, threatening new chokepoint in Iran war",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOck9rMklSSHp1Z0E2UmlqZUJHSWNxRXNSZGtZd1JTOFdSbUE2amI3RHFmaUNuSS1nU1NzaThJdVIwVzZFcXVIaXNjU3lrSVYtaDF5THNwWkpqUHVwTEFsWklsbnp4ZllTMndIYWhRM0RZa09qaTNiVXVCNmh5a2p6MnBidG1kWkJSUVJnb1RuOXdUcU5MRDVxbzJmcDE2UWZsaVZYRDdCdHlYcG1kUTdKT093ZXI4b3VkWjZNRzdDUDIwWEFWMHRia2FIY3dIdw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Houthiler Kızıl Deniz'de Suudi tankerlerine saldırdıklarını bildirmiş ve bu bölgede yeni bir darboğaz tehdidi oluşturmuştur.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-23T06:01:06.929822+00:00",
+  "type": "news",
+  "cluster_id": "c9d33f739ab43"
+ },
+ {
+  "title": "US-Iran tensions underpin dollar as yen nears 40-year low",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcmxmYW0zRFBGQlpfRDY2bXdwMk1FNzJQVDVOZXhHMTY3QlAzeG5DRDRqeHRNQk1ELWpLTEtSSGpkVjJrcHVzb3RNQmxHc3d2b1JEMGJ1TEN1bDJKVGFzcFl0d0FjbUNBRTRRMDJVM3BST2htNmwtRExMNGo2RTlSREhGZXZYa0ZneWUzY0s4RXVlTWxmLXI0cEJBSW1UbVJrWjBPNw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD-İran gerilimi dolar güçlendirir iken, yen 40 yıllık en düşük seviyelerine yaklaşmıştır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-23T06:01:06.929822+00:00",
+  "type": "news",
+  "cluster_id": "c20d7675bbfe7"
+ },
+ {
+  "title": "Atilla Özsever: Özel okul öğretmenlerinin taban maaş mücadelesinde yeni bir aşama",
+  "link": "https://www.diken.com.tr/atilla-ozsever-ozel-okul-ogretmenlerinin-taban-maas-mucadelesinde-yeni-bir-asama/?utm_source=rss&utm_medium=rss&utm_campaign=atilla-ozsever-ozel-okul-ogretmenlerinin-taban-maas-mucadelesinde-yeni-bir-asama",
+  "source": "Diken",
+  "summary_tr": "Özel okul öğretmenleri taban maaş mücadelesinde yeni bir aşamaya girmişlerdir.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-23T06:01:06.929822+00:00",
+  "type": "news",
+  "cluster_id": "ca0e65de8802b"
+ },
+ {
   "title": "Gözler Merkez Bankası'nda! Yılın beşinci faiz kararı bugün açıklanıyor",
   "link": "https://www.sozcu.com.tr/gozler-merkez-bankasi-nda-yilin-besinci-faiz-karari-bugun-aciklaniyor-p338926",
   "source": "Sözcü",
@@ -59178,55 +59238,5 @@
   "score": 7,
   "ts": "2026-06-09T11:01:11.122423+00:00",
   "cluster_id": "c7bf0cb19399b"
- },
- {
-  "title": "China prepares $295 billion plan to fund nationwide AI buildout, Bloomberg News reports",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVc1MVBsYnkwTWZPT2FCMy14QjFGYnc3ZzBhSmdSTGdCRTlfM1dkY3RoXzJvbjRVc0U1dXRnUC1QalZvalE1eUpoRllIOVZhN2hMSmxTaFdWMGViRF9QSS16NXN0VjRkS01NMXdMc0t6ZVNsMEc5dXRsaGNpNDRjQUl3NFNZRzN0YWxmVjJ0ZEtORG5tTnYyYU1weFctbGJwM3R1NEFWcVZ5TllWUm1NakR1elE3X3hJMVN4RUlldw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Çin, yapay zeka altyapısına 295 milyar dolar yatırım planı hazırladığını bildirdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-09T11:01:11.122423+00:00",
-  "cluster_id": "c3f132fdfaa7b"
- },
- {
-  "title": "Indonesia hikes rates in surprise off-cycle move to prop up sinking rupiah",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNemdGSzNQOFdlajRhaFoxRVM2ejFMQ01sbmhuSGxPdFpNY0JZQWF3RmlCb2NYV0lqMDNBTE5tWHB0MFE2RnVrU3NnUF92VHB1MDdrRjczRGU4MERKalJUSF9NODRWVmx5bzJzT3BIY3JPa1hpeDBlVllieFdWeE53d0hnbDQyZll0MEt4cDJpYm05RU1LR0lWa0NGRUx1RTVQcGRTcm9lcjVpWGFLVGhRYUJkeHY?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Endonezya, rupiah'ı desteklemek için periyot dışı olarak faiz artırma kararı aldı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-09T11:01:11.122423+00:00",
-  "cluster_id": "c941a81a516ab"
- },
- {
-  "title": "Altında 'güvenli liman' ezberi bozuldu: Savaş zamanı fiyatlar neden yükselmiyor?",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/altinda-guvenli-liman-ezberi-bozuldu-savas-zamani-fiyatlar-neden-yukselmiyor-2510700",
-  "source": "Cumhuriyet",
-  "summary_tr": "Savaş zamanında altın fiyatları beklentinin aksine sert düştü; güvenli liman algısı zayıfladı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-09T11:01:11.122423+00:00",
-  "cluster_id": "c55c6b135d584"
- },
- {
-  "title": "Kılıçdaroğlu MYK'yı topluyor",
-  "link": "https://www.sozcu.com.tr/kilicdaroglu-myk-yi-topluyor-p326478",
-  "source": "Sözcü",
-  "summary_tr": "Kılıçdaroğlu grup toplantısında konuşmama kararı aldıktan sonra MYK toplantısı yapıyor.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-09T11:01:11.122423+00:00",
-  "cluster_id": "cc05190d19b73"
- },
- {
-  "title": "Türk bankaları komşunun dört bir yanına şube açacak",
-  "link": "https://www.sozcu.com.tr/turk-bankalari-komsunun-dort-bir-yanina-sube-acacak-p326473",
-  "source": "Sözcü",
-  "summary_tr": "Türk bankaları Suriye'de şube açmaya hazırlanıyor; Ticaret Bakanı ile Suriye karşılığı müzakere başladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-09T11:01:11.122423+00:00",
-  "cluster_id": "c18710a128f4d"
  }
 ]
