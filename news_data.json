@@ -1,5 +1,41 @@
 [
  {
+  "title": "Trump approves nuclear agreement that may allow Saudi Arabia to enrich uranium, 2 AP sources say",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObHhrQ08zNEo1Tm9VcFFkS3lTOV8tWGJmX3lXbzRUMjNiOXhXb0ZUdkRaNzc3Y2ZOdndIRnkzTnBtaEFnWkxEVVVvQUdPR3NENS1oVk9uaHlCanBHT0VwY0lwOE40ZjVlWWF2eDBDbXNHLVR5d2x6WVBOLTNWZ2hTMmxfQ2JuSXBIX2pPYVFDOWVmbzRSQVhPTzRVRThIS1NOUW5uUA?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump, Suudi Arabistan'ın uranyum zenginleştirebilmesine izin verebilecek nükleer anlaşmayı onayladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-23T00:01:08.235820+00:00",
+  "type": "news",
+  "cluster_id": "c331cd10bcf4d"
+ },
+ {
+  "title": "Resmi Gazete'de yayımlandı... Erdoğan imzaladı: 8 üniversiteye rektör atandı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/resmi-gazete-de-yayimlandi-erdogan-imzaladi-8-universiteye-rektor-atandi-2523107",
+  "source": "Cumhuriyet",
+  "summary_tr": "Cumhurbaşkanı Erdoğan'ın imzasıyla 8 üniversiteye yeni rektör atandı ve YÖK üyeliklerine dört isim belirlendiğini Resmi Gazete yayımlandı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-23T00:01:08.235820+00:00",
+  "type": "news",
+  "cluster_id": "cfa8ec1328b76"
+ },
+ {
+  "title": "Rektör atamaları Resmi Gazete'de",
+  "link": "https://www.trthaber.com/haber/gundem/rektor-atamalari-resmi-gazetede-951932.html",
+  "source": "TRT Haber",
+  "summary_tr": "Cumhurbaşkanı Erdoğan imzasıyla 8 üniversiteye yeni rektör atandı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-23T00:01:08.235820+00:00",
+  "type": "news",
+  "cluster_id": "c930d84dda63d"
+ },
+ {
   "title": "IBM cuts yearly revenue growth forecast as customers prioritize AI infrastructure spending",
   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWFFscXBORXYxZU5WUzBqSUdwZ1dVeEZTUlE2Rzh6SHlQSkR3QXMtTmEtZXZheTZPalB3Q0ptUnlPTEtUSTk5MEVTX1Z0N3hJTEhwa0FKcmhGQzVuN3k4M2pSdlZlSnhkWlZFc3VyLVpicHJsakRyX0Y5SmkwOWhqQU5yeXctMEIyTXBFcExxMGVyN2hxM3kydWdKbEJqNjJtVlk0Vng3OXhqalFyMGR0Y2F4VHJ1SVBObFlLa3h4dDI?oc=5",
   "source": "Reuters",
@@ -59144,35 +59180,5 @@
   "score": 7,
   "ts": "2026-06-09T09:01:11.086880+00:00",
   "cluster_id": "c31670de52b4d"
- },
- {
-  "title": "Israeli military issues evacuation order for Lebanon's Tyre, including Christian quarter",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZzJ1ZXRWdWJlMEJnZVFvSzdUX1VMbVNvTngwYVRMaHA3QUJMY0tNaE0zQy1rWjR3M3UweDZmQndHal9oZzVnOC1yZ3loTjllcDZXTmd0TXlqalNTMzJLZ01XRUxnWkQ5M05Jc2lMVkg2S0U5SWswYWtFRm5EajdFNDZ1SnR5anNmd0JuZV9rbm1ZZmp6MXoza1gyX1J3RnBRWmFONmZXYWttQ21SNTJCRy1fOVVMUzJ6MHpxZjlQbUlheUJ4MFZr?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İsrail ordusu Lübnan'ın Tyre şehrinde tahliye emri verdi; Hristiyan mahallesini de kapsıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-09T09:01:11.086880+00:00",
-  "cluster_id": "ce409156c89f7"
- },
- {
-  "title": "Cumhuriyet Silivri'den bildiriyor... 'İBB davası' 47. gününde: İpek Elif Atayman savunma yapıyor",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/cumhuriyet-silivri-den-bildiriyor-ibb-davasi-47-gununde-ipek-elif-atayman-savunma-yapiyor-2510657",
-  "source": "Cumhuriyet",
-  "summary_tr": "İBB davasının 47. gününde İBB Başkanı Ekrem İmamoğlu'nun da aralarında olduğu 414 sanıklı dava devam ediyor; İpek Elif Atayman savunma yapıyor.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-09T09:01:11.086880+00:00",
-  "cluster_id": "c7735025f964e"
- },
- {
-  "title": "Kılıçdaroğlu'ndan geri adım geldi! Atanmış Genel Merkezde, seçilmiş TBMM'de konuşacak",
-  "link": "https://www.sozcu.com.tr/kilicdaroglu-ndan-geri-adim-geldi-atanmis-chp-de-secilmis-tbmm-de-konusacak-p326427",
-  "source": "Sözcü",
-  "summary_tr": "Kılıçdaroğlu, atanmış Genel Merkez'de, seçilmiş TBMM'de konuşacağını duyurdu.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-09T09:01:11.086880+00:00",
-  "cluster_id": "c4fa80f10ff2e"
  }
 ]
