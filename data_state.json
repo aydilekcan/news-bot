@@ -534,6 +534,12 @@
    "period": "",
    "ts": "2026-07-24T09:01:54.485335+00:00",
    "indicator_tr": "İhracat ve ithalat birim değer endeksi (yılık)"
+  },
+  "tr_butce_dengesi_iyilesme": {
+   "value": "38 milyar TL",
+   "period": "2025 ilk yarısı (tahmini)",
+   "ts": "2026-07-24T12:01:32.661684+00:00",
+   "indicator_tr": "Bütçe açığı iyileşmesi (geçen yıl ilk yarısına göre)"
   }
  },
  "seen_links": {
@@ -758,6 +764,8 @@
   "ba990d2b77b4c44b48673d2e9e725106": "2026-07-24T09:01:13.189856+00:00",
   "b1f458fef06eda9f05f2c4a44b46437f": "2026-07-24T09:01:13.189856+00:00",
   "72d8d83c43166b2a1acc8681a7d37e43": "2026-07-24T09:01:13.189856+00:00",
-  "715d33428b30f55eb3efffcc56cc1b5b": "2026-07-24T10:01:28.357172+00:00"
+  "715d33428b30f55eb3efffcc56cc1b5b": "2026-07-24T10:01:28.357172+00:00",
+  "723b78e0731693a71a77c3e90c0c40d1": "2026-07-24T12:01:10.589216+00:00",
+  "7bf907a7dd0baf28aa2bc614296ccf6f": "2026-07-24T12:01:10.589216+00:00"
  }
 }

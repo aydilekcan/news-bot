@@ -1,5 +1,65 @@
 [
  {
+  "title": "İran savaşı: Petrol fiyatı yeniden 100 dolara tırmandı",
+  "link": "https://www.dw.com/tr/iran-savaşı-petrol-fiyatı-yeniden-100-dolara-tırmandı/a-78098415?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "İran-İsrail gerginliği petrol piyasalarını tetikledi: Petrol fiyatı 100 doları aştı, Türkiye'yi de etkiliyor.",
+  "metric": "Petrol fiyatı 100$ seviyesine tırmandı",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-24T12:01:10.589216+00:00",
+  "type": "news",
+  "cluster_id": "c38404247ff39"
+ },
+ {
+  "title": "Akaryakıta son günlerin en büyük zammı geliyor! Güncel yakıt fiyatları ne kadar? Mazot, benzin, LPG kaç TL?",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/akaryakita-son-gunlerin-en-buyuk-zammi-geliyor-guncel-yakit-fiyatlari-ne-kadar-mazot-benzin-lpg-kac-tl-2523519",
+  "source": "Cumhuriyet",
+  "summary_tr": "Akaryakıt fiyatlarında son günlerin en büyük zammı bekleniyor; motorin başta olmak üzere yakıt ürünlerine zam yapılacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T12:01:10.589216+00:00",
+  "type": "news",
+  "cluster_id": "c1efb288487d5"
+ },
+ {
+  "title": "Özel 'CHP değerleri'ne bağlılık bildirdi",
+  "link": "https://www.diken.com.tr/ozel-chp-degerlerine-baglilik-bildirdi/?utm_source=rss&utm_medium=rss&utm_campaign=ozel-chp-degerlerine-baglilik-bildirdi",
+  "source": "Diken",
+  "summary_tr": "Özgür Özel, CHP'den istifa ederek YENİ Parti kuruluş dilekçesi verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T12:01:10.589216+00:00",
+  "type": "news",
+  "cluster_id": "c517afc22f623"
+ },
+ {
+  "title": "Özgür Özel Yeni Parti logosu belli oldu mu? Yeni Parti logosu ne?",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/ozgur-ozel-yeni-parti-logosu-belli-oldu-mu-yeni-parti-logosu-ne-2523525",
+  "source": "Cumhuriyet",
+  "summary_tr": "Özgür Özel ve 91 milletvekilinin CHP'den istifa edip YENİ Parti'yi kurması onaylandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T12:01:10.589216+00:00",
+  "type": "news",
+  "cluster_id": "c03556ed80a1b"
+ },
+ {
+  "title": "Bütçe açığı iyileşmesi (geçen yıl ilk yarısına göre): 38 milyar TL (2025 ilk yarısı (tahmini))",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR1MxX1VXd2dRcUpsYVhQVHE3TVlSQnlGenFZd21IQWtMSjlUX1VwUW9hQVdRSFRpTldUX09xcmtIOEpEWUxVeV9Tb056ZWV2TU5OTk0zaWhUQzNDRDMzemhvenI0X25LeGFSNDN2XzhFTE5IQ3RmcFJadC1OS1hYeWxPN3EwRllRWG1mSi1WRTlqS3BnQWYwcHRtZVlEZnYyalNKMTd3aGM3VXl0RlM2NkZfVQ?oc=5",
+  "source": "Hazine ve Maliye Bakanlığı",
+  "summary_tr": "38 milyar TL",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-24T12:01:10.589216+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Ana muhalefet artık Yeni Parti: CHP beşinci partiye düştü, Meclis'teki dağılım sil baştan değişti",
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOXIyWTE4b25sM0FySnBjSlpYZlQ1amh1UUVJcXFSUk5IYi00NldlYTNVVTNjaEdvWUtoTnRMX2xOQUc0QldSUUFHVlNOVlZOb2Q4WmJ2ODMxUUhKSjZ5cG5UNGYzc1ZTalRuR0twbjBwdzRnUVg3YmNDWnFpcXpwdmw0T1g4RFZLU3NKRzVpQ2k0MGQxcVJ3Wm9fVEJxUzJucDlSc09iQUY5TDBDTDR3Q21UTThuNktwS1hoZHZHelNlTks3S0E?oc=5",
   "source": "T24",
@@ -59640,55 +59700,5 @@
   "score": 7,
   "ts": "2026-06-10T16:01:17.591909+00:00",
   "cluster_id": "cbd3cd877aaa6"
- },
- {
-  "title": "AKP'den üst üste yeni adımlar: Hedefte Özgür Özel’in dokunulmazlığını kaldırmak mı var?",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONGpmOTE4Q0ZXeVRmSEFpY1pGbmZXc1ptVU9jdE02S2JXSGdicl9oTzJsYUVudldSd2NkUTF4VGlUV3UwcTQtWXBoOE53b3FhSlpfMEhsdWJrMndZa015UFQ3TXJEMkdwX0Z4ZVh3b3hCMVBKZ3Q5Skx3c3JCSXk0ejN4WHg4bjd2MkYxWGlRUEhXeFNlc0dOQTBjdktQSEQyN0dOaWZkTFRLOTNYV2l2VmlXMzVPN2oxWmtTbGR3?oc=5",
-  "source": "soL",
-  "summary_tr": "AKP'nin ardı ardına adımları, hedefte Özgür Özel'in dokunulmazlığını kaldırmak olabilir.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-10T16:01:17.591909+00:00",
-  "cluster_id": "c0c11343caf64"
- },
- {
-  "title": "İhraç listesinde yer alan Gökhan Günaydın: ‘Akçalı işimi söylesinler alınlarını karışlayayım’",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/ihrac-listesinde-yer-alan-gokhan-gunaydin-akcali-isimi-soylesinler-alinlarini-karislayayim-2511080",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Grup Başkanvekili Gökhan Günaydın, ihraç istemiyle disipline sevk edildiğini canlı yayında öğrenerek tepki gösterdi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-10T16:01:17.591909+00:00",
-  "cluster_id": "cd22c7f7e093a"
- },
- {
-  "title": "‘Butlan’ yönetimi ihracını istedi… CHP’li Aytekin’den sert tepki: 'Bir taneniz bile demedi mi...'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/butlan-yonetimi-ihracini-istedi-chp-li-aytekin-den-sert-tepki-bir-taneniz-bile-demedi-mi-2511078",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'li Aytekin, MYK'nın 9 vekilin ihracını istediği kararına sert tepki gösterdi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-10T16:01:17.591909+00:00",
-  "cluster_id": "ceac2f10314ba"
- },
- {
-  "title": "Son dakika… İhraç listesinin paylaşılmasının ardından seçilmiş CHP sözcüsü Zeynel Emre’den ilk açıklama: ‘Acaba dengeyi değiştirebilir miyiz’ çabası!",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-ihrac-listesinin-paylasilmasinin-ardindan-secilmis-chp-sozcusu-zeynel-emre-den-ilk-aciklama-acaba-dengeyi-degistirebilir-miyiz-cabasi-2511076",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Sözcüsü Zeynel Emre, 9 vekilin ihraç talebiyle disipline sevk edilmesine tepki gösterdi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-10T16:01:17.591909+00:00",
-  "cluster_id": "cb1ada57ed8b6"
- },
- {
-  "title": "US consumer inflation posts largest increase in three years in May",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWNSSWh5eDBlWmZCYkN5ZjVjSFNVaC1jVmUteC1pelBkR2ltcmpwYUhYa01sV3Y5dGpGUGNFMDZMeTFRT082Wk5yb1BiU3ZQMjZqR2ZpLV9zY25oOU5STURWR2xjZ0dDVTlhQnB4RFNuRTVxd3ZKbVlDVWpvT1pFMmp2Z2JNa2JlTGJsNFN3?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD tüketici enflasyonu Mayıs'ta 3 yılın en yüksek artışını kaydetti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-10T15:01:13.421641+00:00",
-  "cluster_id": "cfe6c0df03332"
  }
 ]
