@@ -1,5 +1,77 @@
 [
  {
+  "title": "Bakan Gürlek: (Muhsin Yazıcıoğlu soruşturması) FETÖ'nün organizasyonu olduğunu gösteren çok ciddi emareler var",
+  "link": "https://www.aa.com.tr/tr/gundem/bakan-gurlek-muhsin-yazicioglu-sorusturmasi-fetonun-organizasyonu-oldugunu-gosteren-cok-ciddi-emareler-var/4008705",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Adalet Bakanı Gürlek, Muhsin Yazıcıoğlu helikopter kazası soruşturmasında FETÖ'nün organizasyonuna ilişkin ciddi emareler bulunduğunu açıklamıştır.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-24T21:01:27.970774+00:00",
+  "type": "news",
+  "cluster_id": "c024ba1dab13c"
+ },
+ {
+  "title": "Trump yönetiminin ABD'nin 60 ticaret ortağına getirdiği yeni tarifelere karşı dava açıldı",
+  "link": "https://www.aa.com.tr/tr/dunya/trump-yonetiminin-abdnin-60-ticaret-ortagina-getirdigi-yeni-tarifelere-karsi-dava-acildi/4008664",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump'ın 60 ticaret ortağına getirdiği tarife kararlarına karşı dava açılmıştır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T21:01:27.970774+00:00",
+  "type": "news",
+  "cluster_id": "c26a6ba267504"
+ },
+ {
+  "title": "Emekliden ehliyete, nükleer teşvikten fon desteğine: Torba kanun geçti",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTRNWGtFOUtMbEgzMWhFVk1uMVBvSEFUaHo1X1JHNXpCUkR1aHVEakhGTU5abGJ5ZHlNUmN5RlNORXVRNjl0Yk9kaTJGWEpQakVvOW1zMVNGV2lyZlZ6V3JIRUd4aVEtYUtMXzNCX1dkZ0NTLU5icDltNGlzMURVR0RNeUZTTExxQjJYUVRIb2dfVTVQWVk5SFJsZUZxdDFzZzh4V0NSZnJpQQ?oc=5",
+  "source": "soL",
+  "summary_tr": "TBMM, emeklilik, ehliyet, nükleer teşvik ve fon desteğini içeren torba kanunu kabul etmiştir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T21:01:27.970774+00:00",
+  "type": "news",
+  "cluster_id": "ca754bf2e1a58"
+ },
+ {
+  "title": "Trump says US and Iran are talking, but Tehran is not yet ready for deal",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUDhqRjRkNElnTjZmRjllV2p0QWhHWjY3UGc5Z25PbURhcnplekRpSW9GZjlNcGh5bTAzY3BqOHAwWHpWNS0zaEZtdElPNTRrclI0LVlFR0lKN01wb1V6dDk4UG5qOTlpN25hOENSYWJFMEYzZGtVdUtKb0pYc2VJblp5SGRUNF9qM1ZRVWk4a1ZWbjJaemVyUHZlcUN6V21keTk0M1QxNlV2Q3prRnVyQXA3OA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, ABD ve İran'ın görüşmeler yaptığını, ancak Tahran'ın henüz anlaşmaya hazır olmadığını açıklamıştır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T21:01:27.970774+00:00",
+  "type": "news",
+  "cluster_id": "cd59d1aa70fd8"
+ },
+ {
+  "title": "Yeni Parti'nin yol haritası netleşti; 41 sayfalık program açıklandı",
+  "link": "https://www.sozcu.com.tr/yeni-parti-nin-parti-tuzugu-ve-programi-p339520",
+  "source": "Sözcü",
+  "summary_tr": "Özgür Özel'in kurduğu Yeni Parti, 41 sayfalık parti programını açıklamıştır.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-24T21:01:27.970774+00:00",
+  "type": "news",
+  "cluster_id": "c5aa6036b8a8e"
+ },
+ {
+  "title": "Venezuela, Uluslararası Ceza Mahkemesi'nden çekilme kararını BM'ye bildirdi",
+  "link": "https://www.trthaber.com/haber/dunya/venezuela-uluslararasi-ceza-mahkemesinden-cekilme-kararini-bmye-bildirdi-952147.html",
+  "source": "TRT Haber",
+  "summary_tr": "Venezuela, Uluslararası Ceza Mahkemesi'nden çekilme kararını BM Genel Sekreteri'ne bildirmiştir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T21:01:27.970774+00:00",
+  "type": "news",
+  "cluster_id": "c19475d9d0a63"
+ },
+ {
   "title": "Trump: İran'a yönelik büyük çaplı saldırılar konusunda henüz karar vermedim",
   "link": "https://www.trthaber.com/haber/dunya/trump-irana-yonelik-buyuk-capli-saldirilar-konusunda-henuz-karar-vermedim-952146.html",
   "source": "TRT Haber",
@@ -59782,65 +59854,5 @@
   "score": 8,
   "ts": "2026-06-16T11:01:15.500879+00:00",
   "cluster_id": "ce2597a7058a9"
- },
- {
-  "title": "Strait of Hormuz transit will take ‘weeks’ to resume, largest tanker operator tells FT",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLTY1ZEl4RDA0aEZ1ZXVfT2s5ekx2dDY3Qms0TXlKVlhpbjZ6bkdQMmhkSXNIaGFNTF9wZy1LUHdkYkxjQ3RHbFh5S0ZyY1NERUpONU1Gbzh4bmNiLWJVTWtscTh6RWx1WnlNRUpHTk9OZjNCSmdVcE1VYzBRRGZ5VzFkamgtVEh6c1FMYnlFSGxlOXNNVlNmYUFvdUhRMlZuWUJOMkU2WEZHNXBCVGFVdHl5SVdsR2lvV2twOEtEY1RWUVp4TFZrWmdNcw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Hürmüz Boğazı transit işlemi haftalar sürecek; en büyük tanker operatörü açıklaması yapıyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-16T11:01:15.500879+00:00",
-  "cluster_id": "cd49df041e5e1"
- },
- {
-  "title": "Paylaşımları sonrası gözaltına alınmıştı: Timur Soykan’ın 9 yıl 6 aya kadar hapsi istendi",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObDRRQnU5WEdyVUtqYWphQ0l3Qkw3OUZIeWlIWWd1b1U3OVpxMnBKVTBkRHBYUVAwTkthRTlGbmJ4SFVwLVVHTFpJbV8wa3ZVdlBUNk1IQndmcDVKVTRucEdWdnIwak4wQ1J6NWFYUnJTNmZTSGJTNE0wZXUzUUF5eWxlY28xZFJCcW42UHRoZV9JTzdGRURyR2FBUWVYR3MwMFJ1Q1lzTVlVeEJZR3hSbFFtV0lXbGFmamxyYk9R?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Sosyal medya paylaşımları nedeniyle gözaltına alınan Timur Soykan hakkında 9 yıl 6 aya kadar hapis cezası talep edildi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-16T11:01:15.500879+00:00",
-  "cluster_id": "c8ad575e572d6"
- },
- {
-  "title": "Bahçeli'den 'erken seçim' mesajı",
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WclpvZmFTOGl5SEVsY3BZQld4U0JZVDQ3ejZlSjhnWXNKM0dzMWs5cEVQM3VrZHFoS2RDUUp2Sk9fcUlnNUJEWEtxQTdFM01wdllKS0doaVBWVm12bWVXQnduTUVpdEdqS2RLdlhUZUtjN3ZhMnc?oc=5",
-  "source": "soL",
-  "summary_tr": "MHP Lideri Bahçeli'den erken seçim mesajı geldi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-16T11:01:15.500879+00:00",
-  "cluster_id": "c526a7b7a81f4"
- },
- {
-  "title": "Exclusive: The US is using an Iranian smuggling tactic to sneak oil out of the Gulf",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWUJ2NW5rSzJQNDdJR2U2czlrcHhwbjlmVkNRZk9TVzd6RWowQ3Q0dW1Ud2QwZW90UHVPTmM2bkU1SlZOMmNicU1nYWhIeEJLTXRMX1d2RG9KeDJsMk1GaGhIbG84VW9kV1RxaFpMVkhXNmVxOU1nTjRLNEM1TmQxR2pPV0c1azNrQmlFVVFRNnl3SjdRQThLWlZHdWk4ZU83WXFYVTVmS004eEVoZDRv?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, İran kaçakçılığı taktiklerini kullanarak Körfez'den petrol taşıyordu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-16T11:01:15.500879+00:00",
-  "cluster_id": "c7225780c13a4"
- },
- {
-  "title": "Trump’s Iran deal greeted with skepticism and scrutiny on Capitol Hill",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVI4S080YUZRQ1JHM2xVZDM1d1BPV1VCNlVXOUN1cTExZUVRc1ItTTFBcnVSUVZFRWNTTVpWVjJyeDY5eHhlaGwyX2k4Z3FPYjRTRzBZdlZ0UVdEMnV3bUNEcTJDTUZnTnBVbkVsWmQxTUNYdFh3d1VNUzhwa21sWFctdGY2UnlaRXRlQVNWMmQxamo3WFBITExURmxnTktZUkZTNzV3TQ?oc=5",
-  "source": "AP",
-  "summary_tr": "Trump'ın İran anlaşması Capitol Hill'de şüphe ve inceleme ile karşılandı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-16T11:01:15.500879+00:00",
-  "cluster_id": "c3c1acacbaaee"
- },
- {
-  "title": "27 gündür direnişte olan Özşen Madencilik işçileri kazandı",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT3pCYzdrNDlIdkpibm1jd05wbU1qMjVUMlZXSTNTTWN5TlRNQ3pyVm9hQ3FuUVRSTGJHLVNyVjN5YTBJRVRCLWFROGFTaTZOOUg1SXo2VmM0bHBMY1FPSU5DMVZVVmNxZGh3bDZOZEx3UkVVTjlKU1h4b080N2dfYTZUTUVwN0xwdGluZ1ZWR3V1M3JJT29z?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Özşen Madencilik işçileri 27 günlük direniş sonrası taleplerini kazandı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-16T11:01:15.500879+00:00",
-  "cluster_id": "c2db647039829"
  }
 ]
