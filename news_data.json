@@ -1,5 +1,41 @@
 [
  {
+  "title": "ABD, İran'daki askeri hedeflere yeni saldırı başlattı",
+  "link": "https://www.trthaber.com/haber/dunya/abd-irandaki-askeri-hedeflere-yeni-saldiri-baslatti-952063.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD, İran'daki askeri hedeflere yeni saldırı başlattığını CENTCOM üzerinden duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-24T01:00:58.714448+00:00",
+  "type": "news",
+  "cluster_id": "c6ca8e4dc1d68"
+ },
+ {
+  "title": "378 milyar liralık SGK skandalı",
+  "link": "https://www.sozcu.com.tr/378-milyar-liralik-sgk-skandali-p339250",
+  "source": "Sözcü",
+  "summary_tr": "SGK'ya 378,5 milyar liralık ödeme yapılmadığı ortaya çıktı; Hazine ve Maliye Bakanlığı'nın yasal yükümlülüğünü yerine getirmediği iddia ediliyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-24T01:00:58.714448+00:00",
+  "type": "news",
+  "cluster_id": "c1e9f40729c21"
+ },
+ {
+  "title": "Trump imposes double-digit tariffs on dozens of countries as his 10% levies are set to expire Friday",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOVM1QThyUlVoWl9xS1lVTTFZUHJJdU1peU1wZjdlaEZ5R08xUFZQcGVmc05LWHhhR0hOdlBqLVlhOWRGRVg5RmpKU2FiUnVSMmZMTEZocGtlZ05xTVJicmJOMndxNENHYU14enNWdllRR2RYZE1jSVVYM2VRZGJuRmhyVW1rcVRnNnNCcDlweURpSTlSUXJZVkZTX0JseUtnTkE?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump, Cuma günü sona erecek %10'luk gümrük tarifelerinin yerine onlarca ülkeye çift haneli tarifeler uygulanmasını başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T01:00:58.714448+00:00",
+  "type": "news",
+  "cluster_id": "c870d8057ce56"
+ },
+ {
   "title": "Enerji krizi faiz indirimini yuttu",
   "link": "https://www.sozcu.com.tr/enerji-krizi-faiz-indirimini-yuttu-p339246",
   "source": "Sözcü",
@@ -59500,35 +59536,5 @@
   "score": 7,
   "ts": "2026-06-10T08:01:11.643841+00:00",
   "cluster_id": "c351d9ae791b9"
- },
- {
-  "title": "Çinli otomotiv devi BYD Türkiye’deki yatırımını askıya aldı",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLVB6bFNvLUpQVlUtazctV1lLQzhNM01FVHVXRUFySEMybG9IMTdUdkpHc0paSU8tTm1jUDZSUlFmOXFSN1g5eFdvWlRMWVhzVjJRYlpwS0F2LS1MYUNHSS1iVGVITmdzTks3X25MTWw2cjBGTk5LTnEyMEY0OFJlNTB4bjJUeGEyVFRkTzY1YzJLQkhIUlp0ZjVWLXU?oc=5",
-  "source": "soL",
-  "summary_tr": "Çinli otomotiv devi BYD, Türkiye'deki yatırımını askıya aldı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T08:01:11.643841+00:00",
-  "cluster_id": "c3f5e6ba39338"
- },
- {
-  "title": "Hububat sektöründen 5 ayda 4,8 milyar dolarlık ihracat",
-  "link": "https://www.sozcu.com.tr/hububat-sektorunden-5-ayda-4-8-milyar-dolarlik-ihracat-p326723",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye hububat, bakliyat ve yağlı tohumlar sektörü ilk beş ayda 4,8 milyar dolarlık ihracat gerçekleştirdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-10T08:01:11.643841+00:00",
-  "cluster_id": "cd5367895709f"
- },
- {
-  "title": "Yargıtay’dan çıraklık dönemi emeklilik primleri için emsal karar",
-  "link": "https://www.sozcu.com.tr/yargitay-dan-ciraklik-donemi-emeklilik-primleri-icin-emsal-karar-p326719",
-  "source": "Sözcü",
-  "summary_tr": "Yargıtay, çıraklık dönemindeki çalışmaların emeklilik prim günlerine dahil edilmesi konusunda emsal karar verdi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-10T08:01:11.643841+00:00",
-  "cluster_id": "c44b12726412d"
  }
 ]
