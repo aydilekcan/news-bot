@@ -1,5 +1,77 @@
 [
  {
+  "title": "Türkiye ekonomisini yılın kalanında neler bekliyor?",
+  "link": "https://www.bbc.com/turkce/articles/cqlxdxwwze0o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "TCMB 2026'de faiz indirmesi bekleniyor. İran savaşının ardından politika faizi üç puan yükseltildi, koridorun üst seviyesi ayarlandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-24T02:01:03.395270+00:00",
+  "type": "news",
+  "cluster_id": "c53484a2be1eb"
+ },
+ {
+  "title": "AKP ülkede yaşam süresinin uzamasını da kendi politikalarına bağlarken, muhalefetten nükleerde ‘peşkeş’, en düşük aylıkta ‘3. il’ eleştirileri geldi",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/akp-ulkede-yasam-suresinin-uzamasini-da-kendi-politikalarina-baglarken-muhalefetten-nukleerde-peskes-en-dusuk-aylikta-3-il-elestirileri-geldi-2523360",
+  "source": "Cumhuriyet",
+  "summary_tr": "En düşük emekli aylığı 23.552 TL'ye çıkarıldı. TBMM Genel Kurulu'nda görüşülen torba teklifte muhalefet nükleer ve enerji politikalarını eleştirdi.",
+  "metric": "En düşük emekli aylığı -> 23.552 TL",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-24T02:01:03.395270+00:00",
+  "type": "news",
+  "cluster_id": "c2de9d3ba6459"
+ },
+ {
+  "title": "Trump to impose 'forced labor' duties on Friday as temporary 10% US tariffs expire",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZjlYNnVfaDJNN2FOQldfTTRPclB4cmxtTWxaSDkyUGJJZHhtYjJEVUZnRmxhNjZEV0daUkZJS1ZHWHFJM1hSNDlBcVlwUlRIdVN4ZmVzVmgtbUpxM1NyVlotQVA3NmhUb090NVFzamlaUkhCTjFuRzZWTjVTUTYxMzhBLXNld09NWGdadEx1bXdnemUwbWdtbzg1X0I2Y3VJZFpiOFk0blpFSS1ieklCeFItZzQ4UQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump Cuma günü 'işçi sömürüsü' vergileri uygulamaya başlayacak. Geçici %10 ABD tarifesi süresi dolmak üzere.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-24T02:01:03.395270+00:00",
+  "type": "news",
+  "cluster_id": "cee477bc36d53"
+ },
+ {
+  "title": "Geçmeyin baskısı",
+  "link": "https://www.cumhuriyet.com.tr/yazarlar/sertac-es/gecmeyin-baskisi-2523352",
+  "source": "Cumhuriyet",
+  "summary_tr": "Özgür Özel ve arkadaşlarının yeni parti kurulması çalışmaları sonuç aşamasına geldi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-24T02:01:03.395270+00:00",
+  "type": "news",
+  "cluster_id": "c1a574e67ed19"
+ },
+ {
+  "title": "Cengiz, Kolin, Kalyon ve Makyol’a kaç kez vergi muafiyeti, istisnası, indirimi sağlandı?",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/cengiz-kolin-kalyon-ve-makyol-a-kac-kez-vergi-muafiyeti-istisnasi-indirimi-saglandi-2523361",
+  "source": "Cumhuriyet",
+  "summary_tr": "Hazine Bakanı Mehmet Şimşek'ten Cengiz, Kolin, Makyol ve Kalyon Holding'e sağlanan vergi muafiyeti, istisna ve indirim sayılarının açıklanması istendi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-24T02:01:03.395270+00:00",
+  "type": "news",
+  "cluster_id": "cddf207f95f6f"
+ },
+ {
+  "title": "S-400’un diyeti 5 milyar dolar",
+  "link": "https://www.sozcu.com.tr/s-400-un-diyeti-5-milyar-dolar-p339251",
+  "source": "Sözcü",
+  "summary_tr": "CHP'li Deniz Yavuzyılmaz, Akkuyu Nükleer Santrali için Rusya'ya 5 milyar dolarlık yeni teşvik verildiğini açıkladı.",
+  "metric": "Akkuyu teşviki -> 5 milyar dolar",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-24T02:01:03.395270+00:00",
+  "type": "news",
+  "cluster_id": "c8a5c7a5c4fd2"
+ },
+ {
   "title": "ABD, İran'daki askeri hedeflere yeni saldırı başlattı",
   "link": "https://www.trthaber.com/haber/dunya/abd-irandaki-askeri-hedeflere-yeni-saldiri-baslatti-952063.html",
   "source": "TRT Haber",
@@ -59476,65 +59548,5 @@
   "score": 6,
   "ts": "2026-06-10T09:01:12.205720+00:00",
   "cluster_id": "c4c7b82345653"
- },
- {
-  "title": "Ankaraİstanbul YHT Hattı'nda yolculuk süresi azalacak",
-  "link": "https://www.trthaber.com/haber/gundem/ankara-istanbul-yht-hattinda-yolculuk-suresi-azalacak-947735.html",
-  "source": "TRT Haber",
-  "summary_tr": "Ankara-İstanbul YHT Hattı'nda devam eden çalışmalar tamamlanınca yolculuk süresi azalacak.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-10T09:01:12.205720+00:00",
-  "cluster_id": "cf0bab04e0aba"
- },
- {
-  "title": "India's Modi, Trump likely to meet at G7, discuss trade, visas, source says",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOHZwelRQQ0c0dmY1TVNkUnRfMXAydUhJTjlYU3pLMlBYNGQ0VkJrbUJQZDQ3TEM2b05QdHoydDlPNllGbHVDRDVDdVlNTDJtYnd5WFdXQ1ByejB3dm9JM2pMUFZ4Y2Qxa01Xb0FLZWhrNXN6dEZURlI3R0ExcTZUd3JyRG52Qk9zQmo1Q3NLOVZaVzBFZ1g2MEpUUFc3cFF3QmMwOEVMRnZBQXVxblgtcVBvZjhJZw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Modi ve Trump'ın G7'de karşılaşması bekleniyor; ticaret, vize konuları görüşülecek.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-10T09:01:12.205720+00:00",
-  "cluster_id": "cb5abd2c53c39"
- },
- {
-  "title": "Russian-held Crimea grapples with fuel shortages amid Ukrainian drone attacks",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSGllalBfeVQzMUlnOU5VZUZkeTNLUUc2ajJHV1pFU1JhTU9HdmpVeTdLSEpXd0lMVUdscFJMNldHZlZQa0ZvbmdpZzY1V25SeEF4UzRrQllqOXV2M3lwZ21iNlY4TXdDaHYwNFVqLXMtM0syS0RfSFNlTEUtRGgyazVHcXZuS282YlRXVElCTnVkZmt3d2hJbkZrVkxMU3ZNVlBJOG0xTXEtLXktY1h0QzlheW42ZjdYTDI3QkZR?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ukrayna'nın insansız hava aracı saldırıları sonrası Rusya kontrolündeki Kırım yakıt kıtlığı yaşıyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-10T09:01:12.205720+00:00",
-  "cluster_id": "c0586febfbe9d"
- },
- {
-  "title": "Karşılıklı saldırılar: ABD ve İran ateşkesi ihlal etti",
-  "link": "https://www.dw.com/tr/karşılıklı-saldırılar-abd-ve-iran-ateşkesi-ihlal-etti/a-77483581?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "ABD ve İran, Körfez'de kırılgan ateşkesi ihlal ederek karşılıklı saldırılarda bulundu.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-10T08:01:11.643841+00:00",
-  "cluster_id": "cea2067d972a2"
- },
- {
-  "title": "İran: ABD'nin saldırıları uluslararası hukukun açık ihlalidir",
-  "link": "https://www.trthaber.com/haber/dunya/iran-abdnin-saldirilari-uluslararasi-hukukun-acik-ihlalidir-947722.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Dışişleri Bakanlığı, ABD'nin güneyindeki bölgelere düzenlediği saldırıları uluslararası hukuku ihlal etmekle suçladı.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-06-10T08:01:11.643841+00:00",
-  "cluster_id": "cfff37f65cb08"
- },
- {
-  "title": "Milyonlarca çalışanın gözü temmuz ayındaydı: Asgari ücrete ara zam bekleyenlere kötü haber",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/milyonlarca-calisanin-gozu-temmuz-ayindaydi-asgari-ucrete-ara-zam-bekleyenlere-kotu-haber-2510939",
-  "source": "Cumhuriyet",
-  "summary_tr": "Milyonlarca çalışan temmuzda asgari ücrete ara zam bekliyor ancak enflasyonun yüksekliği nedeniyle beklenti düşük.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T08:01:11.643841+00:00",
-  "cluster_id": "c351d9ae791b9"
  }
 ]
