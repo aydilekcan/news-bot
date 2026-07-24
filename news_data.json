@@ -1,5 +1,65 @@
 [
  {
+  "title": "YENİ Parti kuruldu, Özgür Özel oy birliğiyle Genel Başkan",
+  "link": "https://www.dw.com/tr/yeni-parti-kuruldu-özgür-özel-oy-birliğiyle-genel-başkan/a-78095508?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Özgür Özel başkanlığında YENİ Parti resmen kuruldu; CHP'den istifa eden 91 vekil ile Meclis aritmetiği değişti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-24T15:01:10.087783+00:00",
+  "type": "news",
+  "cluster_id": "c8cabe1844162"
+ },
+ {
+  "title": "Manisa Büyükşehir Belediye Başkanı Besim Dutlulu, Yeni Parti'ye katılacağını duyurdu",
+  "link": "https://www.sozcu.com.tr/besim-dutlulu-yeni-parti-karari-p339478",
+  "source": "Sözcü",
+  "summary_tr": "Manisa Büyükşehir Belediye Başkanı Besim Dutlulu CHP'den istifa ederek Özgür Özel'in YENİ Parti'sine katıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T15:01:10.087783+00:00",
+  "type": "news",
+  "cluster_id": "c32abf06c0829"
+ },
+ {
+  "title": "NATO: Romanya hava sahasının ihlaline müdahale eden uçaklar NATO komutası altında görev yaptı",
+  "link": "https://www.aa.com.tr/tr/dunya/nato-romanya-hava-sahasinin-ihlaline-mudahale-eden-ucaklar-nato-komutasi-altinda-gorev-yapti/4008403",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "NATO, Romanya F-16'sının hava sahasında İHA düşürdüğünü doğruladı; ülke savunmasında NATO komutası altında hareket etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T15:01:10.087783+00:00",
+  "type": "news",
+  "cluster_id": "cc70afbb6411f"
+ },
+ {
+  "title": "Netanyahu'nun, salı günü ABD'de Trump'la görüşeceği duyuruldu",
+  "link": "https://www.aa.com.tr/tr/dunya/-netanyahunun-sali-gunu-abdde-trumpla-gorusecegi-duyuruldu/4008369",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Netanyahu 28 Temmuz'da Washington'da Trump ile görüşecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T15:01:10.087783+00:00",
+  "type": "news",
+  "cluster_id": "c5cb8d9fa5071"
+ },
+ {
+  "title": "Netanyahu'dan Batı Şeria'nın kuzeyindeki olayların ardından bölgede işgali derinleştirmeye yönelik kararlar",
+  "link": "https://www.aa.com.tr/tr/dunya/netanyahudan-bati-serianin-kuzeyindeki-olaylarin-ardindan-bolgede-isgali-derinlestirmeye-yonelik-kararlar/4008343",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Netanyahu, Batı Şeria'nın kuzeyindeki olaylar sonrası bölgede işgali derinleştirmeye yönelik kararlar aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T15:01:10.087783+00:00",
+  "type": "news",
+  "cluster_id": "c00da93ad4985"
+ },
+ {
   "title": "Yeni Parti kurulurken CHP'de neler yaşanıyor?",
   "link": "https://www.bbc.com/turkce/articles/c5y0mvmqne2o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59686,55 +59746,5 @@
   "score": 7,
   "ts": "2026-06-15T22:13:51.544796+00:00",
   "cluster_id": "c3ed9c4872a04"
- },
- {
-  "title": "Arbitration tribunal rejects bulk of Ukraine's Kerch Strait case against Russia",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObFQ1NWN5MF9ELUs3eUE1NTZhV21jbXNjSjB6dHlucmZHYmJGT3BiUDRmbzktNXFCOUZ1TExabnNIeDlidm1rbFQwc0RMUG5kaUdkRUEyT0xBQmJnYkV2Z0xPUFhSMVFpQ3pKMGx0OUNqVWE2eFZDNm5fMTloM3cySV9XOFNRVzZLTExsMFhTVEFvMTd1VGFKb1hVazJVcjB1ZFQyd2ZpSkVNYXRaWGhOcS1nTmItUzlR?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Hakem mahkemesi, Ukrayna'nın Kerç Boğazı davasının çoğunluğunu Rusya'ya karşı reddetti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-15T22:13:51.544796+00:00",
-  "cluster_id": "ca462d32fb4d4"
- },
- {
-  "title": "Hungarian parliament rules out Orban return with eight-year limit for prime ministers",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSmhPSFFqa0xTY1hPNFRKNFZvMHp2c3pYV3dDYzMtSEVQWlhrWVVtc1B3ZFRKZE9XZzAtVjZwb0JlSjFlRkVHMWJFNk9zNjdlQ0xaMXZ5eXUxbDFnMmhHd2l5ZVJsNGxlTE44bzFOMlVUMHc5a2pBemQ0THkzdjBzWkNEeWwzMnVKRUVtSGdkNGgzZ21xbm43V042S0ZUX21qZ2ZQclJGdGgwbi1mVTlLRkpUdw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Macaristan parlamentosu, Orban'ın dönüşünü sekiz yıllık başbakan sınırlaması koyarak engelledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-15T22:13:51.544796+00:00",
-  "cluster_id": "c2ca43fbf86ec"
- },
- {
-  "title": "Fox to buy streaming pioneer Roku in a $22 billion deal",
-  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZGx1V0l2bkdiVmlub0dxMzN5R3d4NndWMmxtX2x1TmQ3bXpPZVIzam83cGFmbjRBVmNXRTlXWURlYTRBbDNXNzJ3MzYyTkstd0wzTjE1RlhkUEpnZ1NCeUpiNUpLM3JIaGZBV3VvUTRVLWNlUVRyelAwYjBWYy12d0stcnBKVGVlZUxn?oc=5",
-  "source": "AP",
-  "summary_tr": "Fox, yayın platformu Roku'yu 22 milyar dolara satın almayı kabul etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-15T22:13:51.544796+00:00",
-  "cluster_id": "cb97550f3129c"
- },
- {
-  "title": "Trump's approval ticks up to 36% as price angst eases, Reuters/Ipsos poll finds",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2tWb2FxRElvRXI5ZlVGWGRyeXhYcHMtU2xBRlA5bnpCeTRiZ09mSFkyeE9ISncxNjZPR05ubHRReTZOV25Od3Z2TFFoSnBHYkxIUjQxZW5YTklSWHZuT1NGNmh1R0h4UU9ubFFzLUZ0WWdqY0NqTmoyYkpJT3ExVFlVUjRCaVJaU2JmSWpFYnUxTkI1VmdwTzQ0ck1QekdqaXMtcjcydzRYYkJ6bkdIZHNEc00?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Reuters/Ipsos anketine göre Trump'ın onay oranı fiyat kaygısı azalmaya başladıkça %36'ya yükseldi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-15T22:13:51.544796+00:00",
-  "cluster_id": "c50242d2af646"
- },
- {
-  "title": "Netanyahu: 'Mücadele bitmedi, tetikte olmalıyız'",
-  "link": "https://www.bbc.com/turkce/articles/cddly2l63g3o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Netanyahu, ABD-İran anlaşmasıyla ilgili açıklama yaptı; İsrail'i 'tamamen yok edilmekten' kurtardıklarını ancak mücadelenin bitmediğini söyledi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-15T19:35:26.226890+00:00",
-  "cluster_id": "cc52e8157f75d"
  }
 ]
