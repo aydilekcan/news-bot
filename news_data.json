@@ -1,5 +1,161 @@
 [
  {
+  "title": "Milyonları ilgilendiriyor... En düşük emekli aylığını 23 Bin 552 liraya yükselten madde kabul edildi",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/milyonlari-ilgilendiriyor-en-dusuk-emekli-ayligini-23-bin-552-liraya-yukselten-madde-kabul-edildi-2523596",
+  "source": "Cumhuriyet",
+  "summary_tr": "En düşük emekli aylığı Temmuz 2026'den itibaren 23 bin 552 liraya yükseltildi.",
+  "metric": "En düşük emekli aylığı -> 23.552 TL",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-24T16:01:26.986545+00:00",
+  "type": "news",
+  "cluster_id": "ca84d6dea1bae"
+ },
+ {
+  "title": "İran bölgedeki ABD üslerini vurdu: Erbil semalarında İHA’lar düşürüldü",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSk5aMlJEazRwRkk0WTZ4alF3NUdYRjNSQkcxU2hDN3N2UXhQNmxJaUVYVXdubF9CZDkxcjdFYVRyLXB2TkUzc1pvbzdjS1dXZk5KRzV1TmZFd2tnQlJmRW9vM0h0NUotclFnUTMtS2xKWXJBMHlialJJTE5JSmQ5aU1hY0llazFXRnBsZDYyWWp2bEdGVDFsWERBak5vcGY5N3VURE5zYlNGUQ?oc=5",
+  "source": "soL",
+  "summary_tr": "İran, Erbil semalarında ABD İHA'larını düşürerek bölgedeki ABD üslerine saldırı gerçekleştirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-24T16:01:26.986545+00:00",
+  "type": "news",
+  "cluster_id": "c148ce42af461"
+ },
+ {
+  "title": "White House says Trump, Zelenskiy to meet in Washington next week",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcDM0N1g1RUQ0VWtfSjAyWmxtSEItUjhpdEIwcXRSTWxqdFpFRV9YWE1IeFZ5dTBaeXlaMDR4Z2l2S0tIWUJRbWZDWG5kSDNTV0I1d21XYTZnUDdhZ2lvNDRRSzFsZEo0NmpaOVI3by1YZW5Xakh5b0txZmVRRFVKWnRtVHRwZ2FyNkpXT0JLbWh5c1NBZFA4ZlVDbW5YUXRCUGgzdTlB?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Beyaz Saray, Trump ve Zelenskiy'in gelecek hafta Washington'da görüşeceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-24T16:01:26.986545+00:00",
+  "type": "news",
+  "cluster_id": "c3c73264263d2"
+ },
+ {
+  "title": "YENİ Parti kuruldu: İmamoğlu'ndan ilk mesaj!",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/yeni-parti-kuruldu-imamoglu-ndan-ilk-mesaj-2523601",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP'den istifa eden 91 milletvekilinin kurucular kurulunda yer aldığı YENİ Parti kuruldu. İBB Başkanı İmamoğlu paylaşım yaptı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-24T16:01:26.986545+00:00",
+  "type": "news",
+  "cluster_id": "cdc5c34417eeb"
+ },
+ {
+  "title": "İmamoğlu'ndan dikkat çeken YENİ Parti paylaşımı",
+  "link": "https://www.sozcu.com.tr/ekrem-imamoglu-ndan-yeni-parti-ye-iliskin-ilk-aciklama-p339485",
+  "source": "Sözcü",
+  "summary_tr": "Tutuklu İBB Başkanı Ekrem İmamoğlu, Cumhurbaşkanlığı Aday Ofisi hesabından YENİ Parti ile ilgili paylaşım yaptı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-24T16:01:26.986545+00:00",
+  "type": "news",
+  "cluster_id": "cdc5c34417eeb"
+ },
+ {
+  "title": "Yeni Parti'ye katılacak mı? Özgür Özel'den Mansur Yavaş açıklaması",
+  "link": "https://www.sozcu.com.tr/yeni-parti-genel-baskani-ozgur-ozel-aciklama-yapiyor-p339482",
+  "source": "Sözcü",
+  "summary_tr": "YENİ Parti Genel Başkanı Özgür Özel, Kurucular Kurulu toplantısı sonrası Mansur Yavaş hakkında açıklama yapacağını duyurdu.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-24T16:01:26.986545+00:00",
+  "type": "news",
+  "cluster_id": "cc78eae78ea6a"
+ },
+ {
+  "title": "Yeni Parti’nin yol haritası ve mutlak butlan senaryoları: Dönüş yok ama CHP’de mücadele sürecek",
+  "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcjNVZTgyWkNwQlZ2Nl9EREdyLWpmQm4xbFd1bVlwa0tDTWN1Y2k4dWsyYUhJa1lSVThaeTVuckd2ODNLWTVCbmF6Z25rMVpaVFgzNGJNb3ZNQ1lpUmZ0MjFnT00yVHlkc3VGYTM3blRhQTA4WVlCUFhfWUdONFRJZnM5RExyTHBiaGVQejlZTFlJdS1pMFFwX1B2SW9jV3BqZHpSRDAtbncwTEc4REJyNGJaLUlEUld4SG1oMjJXSndkd3RIQ2dnaWZ4SXNrTU56RkU0R01UbU1fWnpSb2hVSkVtMHZIQXFpVkE?oc=5",
+  "source": "T24",
+  "summary_tr": "YENİ Parti'nin yol haritası ve olası mutlak butlan senaryoları analiz edildi; CHP'de mücadelenin süreceği belirtildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-24T16:01:26.986545+00:00",
+  "type": "news",
+  "cluster_id": "cf0261f9cb226"
+ },
+ {
+  "title": "Pakistan, Iran explore path towards new talks with US in a China-initiated push, sources say",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeElZbVRDTVhmbnotSkZKNEZLT3RiOEZCOW9ISVF3MWNYTTBqaWVKS29GNVJuc0Z2bzVKN2RKbm9mdTREaWx6WWh0UGhDMS1Cb1pRQ0xQOEJSdTlBRGhZVlZPS014X05BcjFDX2x0Q0JSTG45R2c2eEdGMzNiQk1lVG1vSDFnb2xDTkl2dHo0RFJ2eTN4aXRhMmI5RHdjZXdySWFzWlE5TDNQZ2V5bnljUEIyanJyTTZjY2ZUVWZn?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Pakistan ve İran, Çin aracılığında ABD ile yeni müzakerelere doğru bir yol keşfediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T16:01:26.986545+00:00",
+  "type": "news",
+  "cluster_id": "c47ee81a129b5"
+ },
+ {
+  "title": "YENİ Parti'nin sosyal medya hesapları duyuruldu",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/yeni-parti-nin-sosyal-medya-hesaplari-duyuruldu-2523598",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP'den istifa eden 91 milletvekilinin kurucular kurulunda yer aldığı YENİ Parti'nin sosyal medya hesapları açıklandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-24T16:01:26.986545+00:00",
+  "type": "news",
+  "cluster_id": "cd1e3951f624d"
+ },
+ {
+  "title": "Avrupa Sosyalistler Partisi'nden YENİ Parti'ye destek: 'Ortak mücadeleyi sürdürmeyi sabırsızlıkla bekliyoruz'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/avrupa-sosyalistler-partisi-nden-yeni-parti-ye-destek-ortak-mucadeleyi-surdurmeyi-sabirsizlikla-bekliyoruz-2523597",
+  "source": "Cumhuriyet",
+  "summary_tr": "Avrupa Sosyalistler Partisi (PES), YENİ Parti'ye destek vererek demokratik ve özgür Türkiye için çalışan kesimlerin yanında olduğunu bildirdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-24T16:01:26.986545+00:00",
+  "type": "news",
+  "cluster_id": "c8431c9e5dd51"
+ },
+ {
+  "title": "Sosyalist Enteransyonal ve Pedro Sachez'den Yeni Parti'yi tebrik",
+  "link": "https://www.sozcu.com.tr/pedro-sachez-den-yeni-parti-yi-tebrik-p339489",
+  "source": "Sözcü",
+  "summary_tr": "İspanya Başbakanı Pedro Sanchez başkanlığındaki Sosyalist Enternasyonal ve Avrupa Sosyalistler Partisi, YENİ Parti'yi tebrik etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-24T16:01:26.986545+00:00",
+  "type": "news",
+  "cluster_id": "c32c5d02a1442"
+ },
+ {
+  "title": "Haftaya Bakış (324): Ve YENİ Parti kuruldu | Çözüm sürecinde çözüme doğru",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ3RRRkFfMHpWOVpTMGRWcGVsdTZwT0E4clBaNWtZX1Q4eVV1Q2RQSWlKaC1iZ3JhM2hGUE1tSDRZZnhtQVNNYVg4QVNySWJfSlB1a3NYVzh5XzlxTGxsQUx1SDNfTkhyendnYV90aVF2b25qblNRcmY0TWxHZFMwN19Dbng4amwybVg1T0NRYjRnZXBUZ1p3dFpkUG9NUm9LY0d0TA?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "YENİ Parti kurulduğu ve siyasi gelişmelerin analiz edildiği haftalık değerlendirme yayımlandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-24T16:01:26.986545+00:00",
+  "type": "news",
+  "cluster_id": "c5a7b53c31d65"
+ },
+ {
+  "title": "YENİ Parti’de yönetim belli oldu: Parti Meclisi ve YDK seçildi",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSjlLYl8xN1c1NVh4MTkwQjNHVU1nUTJxc0t5MzdLOVNCTlR5RUVGb2t0M0w2Y3l0UjhCX1VCaU1VbkNaT25pLXZfNmtzTjBUMWVLYUlXVzc3V09HMGc1amxJMGRORUN6Y1pRc0JEU1p4VVFCVDZtcDVPT2ZBcWx0OEtOMG1lNDhQa2JBRWNMaWU5b0FRMFB1TzNsOTg0dFE?oc=5",
+  "source": "soL",
+  "summary_tr": "YENİ Parti'nin yönetimi seçildi; Parti Meclisi ve Yönetim Danışma Kurulu belirlendi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-24T16:01:26.986545+00:00",
+  "type": "news",
+  "cluster_id": "c9d2c5664ecbf"
+ },
+ {
   "title": "YENİ Parti kuruldu, Özgür Özel oy birliğiyle Genel Başkan",
   "link": "https://www.dw.com/tr/yeni-parti-kuruldu-özgür-özel-oy-birliğiyle-genel-başkan/a-78095508?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59616,135 +59772,5 @@
   "score": 8,
   "ts": "2026-06-16T00:26:39.791790+00:00",
   "cluster_id": "c85fee0388bc2"
- },
- {
-  "title": "Netanyahu, Tahran yönetiminin devrilmesini savaş hedefi olarak belirlemediğini ileri sürdü",
-  "link": "https://www.aa.com.tr/tr/dunya/netanyahu-tahran-yonetiminin-devrilmesini-savas-hedefi-olarak-belirlemedigini-ileri-surdu/3968070",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail Başbakanı Netanyahu, İran'a saldırılarının hedeflerine ulaşamadığı iddialarına karşılık, Tahran yönetiminin devrilmesinin savaş hedefi olmadığını söyledi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-16T00:26:39.791790+00:00",
-  "cluster_id": "cd3f696f90495"
- },
- {
-  "title": "Trump’s Iran accord offers exit from war — and fresh political risks",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa0Z6X0JtemY0SDZmckwxQzNoQWdEek9SU1F1bFFlOWtqVVZHaEdhWm1GMW5vTnUtanBpSHpJOHhLdVoxMm54cVZZSVFXajdJUHk4VGNZR1hMc2lORkt2dWxsTUZVRzUtVGk0amFtU3A3R3RJYnlEeGdVVVNOM0RLYWRNQVphb1R4eUNqTFVxX0ZsLUZBckxBS2ltRWthVHM?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump'ın İran anlaşması savaştan çıkış sunuyor ancak yeni siyasi riskler getiriyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-16T00:26:39.791790+00:00",
-  "cluster_id": "c008e58813c40"
- },
- {
-  "title": "ABD'de düşen B-52 Stratofortress uçağındaki 8 kişinin tamamının ölmüş olabileceği belirtildi",
-  "link": "https://www.aa.com.tr/tr/dunya/abdde-dusen-b-52-stratofortress-ucagindaki-8-kisinin-tamaminin-olmus-olabilecegi-belirtildi/3968102",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Hava Kuvvetlerine ait B-52 Stratofortress uçağı California'da düştü; 8 kişi öldüğü belirtildi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-16T00:26:39.791790+00:00",
-  "cluster_id": "cc17557023df2"
- },
- {
-  "title": "İran medyası: İran gemileri, mutabakatın ardından abluka bölgesinden sorunsuz bir şekilde geçti",
-  "link": "https://www.aa.com.tr/tr/live-blog/iran-medyasi-iran-gemileri-mutabakatin-ardindan-abluka-bolgesinden-sorunsuz-bir-sekilde-gecti-/3977",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD'nin deniz ablukasını kaldırmasının ardından ilk İran gemileri abluka bölgesinden sorunsuz geçti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-16T00:26:39.791790+00:00",
-  "cluster_id": "c53fbc248c2b7"
- },
- {
-  "title": "BM, ABD-İran mutabakatı duyurusu sonrası Lübnan'da şiddet olaylarında \"düşüş gözlendiğini\" açıkladı",
-  "link": "https://www.aa.com.tr/tr/dunya/bm-abd-iran-mutabakati-duyurusu-sonrasi-lubnanda-siddet-olaylarinda-dusus-gozlendigini-acikladi/3968066",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "BM, ABD-İran mutabakatı duyurusunun ardından Lübnan'daki çatışmalarda düşüş gözlendiğini açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-16T00:26:39.791790+00:00",
-  "cluster_id": "c772dfa9ee384"
- },
- {
-  "title": "Eight crew believed dead in California B-52 bomber crash, CNN reports",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT3Etb0VsZjJwdlRaakREQU1MbzA2ZmM4UGs2cG14Z0NvRTFRQVB4cVVqT3g0SFdZcW93a2pMRW5PbzJZM3JqX0p5clpQM2VnUG80ZFNWa1hFaTNEb21sU2FDaEtVNmRpQ1l1LWJsVFRQOVBua052QlRJVThfRzV0WjlSR0EwakVGYkE3WnlnUE1yOVFMaGp4Vnp6dnFqcUdWVUtZV0g5R3pWdk1HSGpj?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD'de California'da B-52 bombardıman uçağı düştü; 8 kişilik mürettebat öldüğü belirtildi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-16T00:26:39.791790+00:00",
-  "cluster_id": "c6afd39b72e53"
- },
- {
-  "title": "Stocks of oil in US Strategic Petroleum Reserve falls to lowest since 1983",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOEE2NUJWRnRzSXdJb01LcDQ2d0R5YURfM3NraXZGX1dBSk9jeWJTbFdndXduNTVHZnZpNEE2WTRmeEVFNVAtODJ4dk5PX3Rkcl9QMXJmejZqUGszMmJLX1g0ZWYxTDJlbEZIQjduTFZMempyRGdseGd0NjRtM042Wld2dVdSamlobTlXRUVMRnB5Vkg3SjFlVll4Mmlqdl8zVGlWc0NhSUtVR3RHQ3l1b0NfdHBfemE3?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD Stratejik Petrol Rezervi stokları 1983'ten beri en düşük seviyeye düştü.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-16T00:26:39.791790+00:00",
-  "cluster_id": "c15cee9f275f4"
- },
- {
-  "title": "Qualcomm in talks to buy Tenstorrent, The Information reports",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR0ljTjZ4bktyVGo3d0ZyVDNITV9ITF8zbEhWcE1TajR6TVpLQ3c2NGU5TS1fdElBekdzLWRsUnp4OVQwYTJ5VC1NVkdxQXR0aV9JZVpJZ0JfMnYwRE1DVE9hbkh1cmk2YjZzOHExWlFsX3RNbHhBSThZc2JfS2dhX054TzFFN3ZyOEQzeVZOenh0WVBVZ2dmT19iSkN6Zw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Qualcomm, yapay zeka şirketi Tenstorrent'i satın almak için görüşmede bulunuyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-16T00:26:39.791790+00:00",
-  "cluster_id": "c63c1311374e9"
- },
- {
-  "title": "Trump: 'İran ile anlaşma imzalandı, detayları çok yakında açıklanacak'",
-  "link": "https://www.bbc.com/turkce/articles/c04yzzgqkw3o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Trump, İran ile savaşı bitirme anlaşmasının imzalandığını ve detaylarının yakında açıklanacağını duyurdu.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-15T22:13:51.544796+00:00",
-  "cluster_id": "c0910abac1b92"
- },
- {
-  "title": "Initial deal to end US-Iran war moves toward formal signing despite lingering questions",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzBOb0pzYUExM1g5aXo2ZDlTU0RJQllLdjNxUTZMQjViWEJFWjlTRTN0N1pQeHBaVUYwN2E1Rkw4dl8zQTBQQ1dDMDhUWnEyRzZMLThDNkYyd2s4S2ctNGx2RXphTjlkTDU5OHRtMTFEV1RjNy1tUS1YZE5tZ3VPR0ItaXJ0YXBOMWlnalNiUXFYUQ?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD-İran savaşını bitirme anlaşması, soruların devam etmesine rağmen resmi imzaya doğru ilerlemektedir.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-15T22:13:51.544796+00:00",
-  "cluster_id": "cbc99e63bf7e1"
- },
- {
-  "title": "İsrail basını: Tel Aviv yönetimi ABDİran mutabakatından rahatsız",
-  "link": "https://www.trthaber.com/haber/dunya/israil-basini-tel-aviv-yonetimi-abd-iran-mutabakatindan-rahatsiz-948305.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail yönetimi, ABD-İran anlaşmasını şok edici bulduğunu ve beklentilerine uygun olmadığını bildirdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-15T22:13:51.544796+00:00",
-  "cluster_id": "c610479ee3533"
- },
- {
-  "title": "Netanyahu yenilgiyi kabul etmiyor: ‘İran’da rejim değişikliği hedeflememiştik’",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc29mTlZueGhzcm0wVUJFM2E5QnB4QkpWWm5tcXBmMHBTVnhOeXRDWG12YWNnOFJLVjR6N1VGbTRCdDFHR0lLWERLY1NmUXZueGdPVmJETDJETVBYTlVMVENPQkhKN3pHN3padml6SzFIbGo5SGxUZDVlaV93bmtxSllVMzlnencwTDRFV3NSdzlWUFI2UlEtX3VfeU9OU214WkUtNkU0azRWNEdEdHhTTWdn?oc=5",
-  "source": "soL",
-  "summary_tr": "Netanyahu, İran anlaşmasını yenilgi olarak görmediğini ve İran'da rejim değişikliğini hedeflememediklerini savundu.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-15T22:13:51.544796+00:00",
-  "cluster_id": "c54871e41a9df"
- },
- {
-  "title": "ABD'li yetkili: ABD ordusu, İran'la müzakereler sürerken Orta Doğu'da kalacak",
-  "link": "https://www.trthaber.com/haber/dunya/abdli-yetkili-abd-ordusu-iranla-muzakereler-surerken-orta-doguda-kalacak-948302.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD yetkilisi, İran ile yapılan 60 günlük müzakere süreci boyunca ABD ordusunun Orta Doğu'da kalacağını bildirdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-15T22:13:51.544796+00:00",
-  "cluster_id": "c3ed9c4872a04"
  }
 ]
