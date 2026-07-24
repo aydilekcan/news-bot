@@ -1,5 +1,65 @@
 [
  {
+  "title": "Yeni Parti hazine yardımı alabilir mi, sistem yıllar içinde nasıl değişti?",
+  "link": "https://www.bbc.com/turkce/articles/cp8xl3e9z49o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Özgür Özel, CHP'den istifa ederek Yeni Parti'yi kurdu. Yargı, 2023 kurultayını iptal etmiş ve Kılıçdaroğlu'nun eski konumuna iade edilmişti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T13:01:14.789081+00:00",
+  "type": "news",
+  "cluster_id": "c98a53e21beba"
+ },
+ {
+  "title": "Özel, Yeni Parti’yi kurdu: siyasette yeni bir dönem",
+  "link": "https://yetkinreport.com/2026/07/24/ozel-yeni-partiyi-kurdu-siyasette-yeni-bir-donem/",
+  "source": "YetkinReport",
+  "summary_tr": "Özgür Özel Yeni Parti'nin kuruluşunu ilan etti. Yargı, CHP'nin 2023 kurultayını geçersiz sayıp Kılıçdaroğlu'nu genel başkanlığa iade etmişti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T13:01:14.789081+00:00",
+  "type": "news",
+  "cluster_id": "c9bda53a1b3e4"
+ },
+ {
+  "title": "CHP'den istifa eden vekiller belli oldu; işte Yeni Parti'yi kuran 91 isim",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVnZKYzgzS1FCMnhHWS1RTjlRcEFwZTEwVFlrY19VNkJQRzB5VXNnUXczZ1JlWVJaV2Fib1NERWltcTVfZjVhX2pyZmlhcTBHNU9sZHRSVTVBcy1WTExtdWtUNmcxaUlPdExlQzB2cGFqdjlnVWNMYk5IV2xJVmtRTG82Y3ZyRkRxa0J6UUluYm5hVHQ1Y3ZBUTJFQjg2QmRqTnA1M21jOW9yQQ?oc=5",
+  "source": "T24",
+  "summary_tr": "CHP'den istifa eden 91 vekil Yeni Parti'yi kurdu. Özgür Özel öncülüğünde oluşan yeni siyasi hareket somut bir gelişme.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-24T13:01:14.789081+00:00",
+  "type": "news",
+  "cluster_id": "c7c1fc6286210"
+ },
+ {
+  "title": "Bangladeş Cumhurbaşkanı Muhammed Şahabuddin görevinden istifa etti",
+  "link": "https://www.trthaber.com/haber/dunya/banglades-cumhurbaskani-muhammed-sahabuddin-gorevinden-istifa-etti-952115.html",
+  "source": "TRT Haber",
+  "summary_tr": "Bangladeş Cumhurbaşkanı Muhammed Şahabuddin, sağlık sorunları gerekçesiyle görevinden istifa etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T13:01:14.789081+00:00",
+  "type": "news",
+  "cluster_id": "cf7f822f898de"
+ },
+ {
+  "title": "Bangladesh's President Shahabuddin, 76, resigns citing health concerns",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0FGSEJkcmZyOElxNjhZc2Q1cWcwdVBILUhzck1VSDBXNlNaYkJPWHBOTEpnZFV4cWlkYUIwZC1yeFpvaUE0WFlzdkR3dGVQbGdIT2w0b1VwbnM5UVNac2VHdXpPeWF5QlZYU2JMRWhQLXd1eFR4M1R0cFB0M283T1FxU3NyOFh1a1RxU1VraE1ZYkJCTHNjbl9CRXd2X3hTZ0gzRk9BREpJT3I2SXZGMGRn?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Bangladeş Cumhurbaşkanı Shahabuddin, 76, sağlık sorunları nedeniyle istifa etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T13:01:14.789081+00:00",
+  "type": "news",
+  "cluster_id": "cb6747eca2a46"
+ },
+ {
   "title": "İran savaşı: Petrol fiyatı yeniden 100 dolara tırmandı",
   "link": "https://www.dw.com/tr/iran-savaşı-petrol-fiyatı-yeniden-100-dolara-tırmandı/a-78098415?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59650,55 +59710,5 @@
   "score": 7,
   "ts": "2026-06-10T16:01:17.591909+00:00",
   "cluster_id": "c481d57b49621"
- },
- {
-  "title": "‘Butlan’ yönetiminin sözcüsü yanıtladı: Özgür Özel ihraç edilecek mi?",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/butlan-yonetiminin-sozcusu-yanitladi-ozgur-ozel-ihrac-edilecek-mi-2511081",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP sözcüsü Müslim Sarı, 9 CHP'li vekilin ihraç istemiyle disiplin kuruluna sevk edildiğini doğruladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T16:01:17.591909+00:00",
-  "cluster_id": "ceef0bac24445"
- },
- {
-  "title": "Kılıçdaroğlu yönetiminin ‘ihraç talebi’ kararının perde arkası: CHP’de seçilmiş yönetim ihraçlara karşı ne yapacak?",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/kilicdaroglu-yonetiminin-ihrac-talebi-kararinin-perde-arkasi-chp-de-secilmis-yonetim-ihraclara-karsi-ne-yapacak-2511074",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'de Kılıçdaroğlu yönetiminin ihraç sürecine karşı seçilmiş yönetim ne yapacak meselesi gündeme geldi.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-10T16:01:17.591909+00:00",
-  "cluster_id": "ced1d356d9a2b"
- },
- {
-  "title": "AK Parti Sözcüsü Çelik: Gazze'de soykırım gerçekleştiren ordunun ahlaklı olduğuna inanacak hiç kimse yoktur",
-  "link": "https://www.aa.com.tr/tr/gundem/ak-parti-sozcusu-celik-gazzede-soykirim-gerceklestiren-ordunun-ahlakli-olduguna-inanacak-hic-kimse-yoktur/3963012",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "AK Parti Sözcüsü Çelik, Netanyahu'nun İsrail ordusunun ahlaklı olduğu iddiasını eleştirerek Gazze'deki soykırım iddialarına işaret etti.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-10T16:01:17.591909+00:00",
-  "cluster_id": "cc7237775b619"
- },
- {
-  "title": "Tanju Özcan hakkında \"cinsel saldırı\" suçundan soruşturma başlatıldı",
-  "link": "https://www.aa.com.tr/tr/gundem/tanju-ozcan-hakkinda-cinsel-saldiri-sucundan-sorusturma-baslatildi/3962990",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Bolu Belediye Başkanı Tanju Özcan hakkında, tutuklanmasının ardından cinsel saldırı suçundan soruşturma başlatıldı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T16:01:17.591909+00:00",
-  "cluster_id": "c7a8f233ff0a7"
- },
- {
-  "title": "Erdoğan, Kılıçdaroğlu'yla benzer ifadeler kullandı: CHP'yi pavyon masalarına düşürdüler; koltuğu kimin işgal ettiğini önemsemiyoruz!",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDNOcDFXTm5ONGNMLWZnZHcwTUVfZ3dSUERzc3JJVEdDOEtRb1V6b2RNVGhhVy1aVmJ3YmIzajQyMjAtemVlejl4VDVSWmlDeTVMQU8xOFlNOHV6RHhBbmlEZWJNSkVTQmVLMzFaUTJYUjU4SUljSWxPcW5nQXhQcm1wWkV6Tk5qSmxwUU02NC1XUG11?oc=5",
-  "source": "T24",
-  "summary_tr": "Erdoğan, Kılıçdaroğlu'ya benzer üslupla CHP yönetimini pavyon masalarına düşürmekle suçladı.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-10T16:01:17.591909+00:00",
-  "cluster_id": "cbd3cd877aaa6"
  }
 ]
