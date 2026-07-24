@@ -1,5 +1,77 @@
 [
  {
+  "title": "Petrol fiyatları mayıstan bu yana ilk kez 100 dolara ulaştı",
+  "link": "https://www.trthaber.com/haber/dunya/petrol-fiyatlari-mayistan-bu-yana-ilk-kez-100-dolara-ulasti-952068.html",
+  "source": "TRT Haber",
+  "summary_tr": "Petrol fiyatları Orta Doğu'daki çatışmaların yeniden kızışmasıyla mayıstan beri ilk kez 100 dolar seviyesine çıktı. Küresel enerji arzı endişeleri artıyor.",
+  "metric": "Petrol fiyatı mayıs seviyesinden -> 100 USD/varil",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-24T04:01:06.948689+00:00",
+  "type": "news",
+  "cluster_id": "c4e922c56d261"
+ },
+ {
+  "title": "ABD \"zorla çalıştırma\" gerekçesiyle 60 ticaret ortağına tarife uygulayacak",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-zorla-calistirma-gerekcesiyle-60-ticaret-ortagina-tarife-uygulayacak/4007635",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD, zorla çalıştırma gerekçesiyle 60 ticaret ortağına tarife uygulayacak. Trump yönetimi ithal mallara yeni gümrük vergileri koyuyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T04:01:06.948689+00:00",
+  "type": "news",
+  "cluster_id": "c13cbf1f25e6d"
+ },
+ {
+  "title": "ABD'den 60'tan fazla ülkeye yeni gümrük vergisi dalgası",
+  "link": "https://www.trthaber.com/haber/dunya/abdden-60tan-fazla-ulkeye-yeni-gumruk-vergisi-dalgasi-952073.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Başkanı Trump, 60'tan fazla ülkeye çift haneli gümrük vergisi dalgası başlatıyor. Mevcut geçici vergilerin süresi dolmasıyla yeni tarife uygulanacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T04:01:06.948689+00:00",
+  "type": "news",
+  "cluster_id": "cfe710f22c273"
+ },
+ {
+  "title": "AB'den Google'a 890 milyon euro ceza: Kendi uygulamalarını öne çıkarmakla suçlanıyor",
+  "link": "https://www.trthaber.com/haber/guncel/abden-googlea-890-milyon-euro-ceza-kendi-uygulamalarini-one-cikarmakla-suclaniyor-952069.html",
+  "source": "TRT Haber",
+  "summary_tr": "Avrupa Birliği, rakiplerini dışlayarak kendi uygulamalarını öne çıkarmakla suçladığı Google'a 890 milyon euro ceza yağdırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T04:01:06.948689+00:00",
+  "type": "news",
+  "cluster_id": "c2bba2ec8352c"
+ },
+ {
+  "title": "US warns against excessive yen volatility, calls for BOJ rate hikes",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS2JaOTNXdm1iOUY5UFIxZ0FUSEEzX0h3LXZMUXMtV3I4cXpYNGNKd2JTbjFsWVQ0NHNyN05MVk0wd1VPekc5NWF4ZXNDZ3lYSTB0aWpNTGsySmFua3ZFMWVWQklCMXZHLWFjaGpyYlJKYmJ2enVPbUh0SC1OOWhUbDU0cEEzZzFUWkdZZGxwUGU1aThKWWNkSGZGcnI2VzU0emxZaE02QTA1ZE9lejM5aHR4cUNscGJk?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, Japonya Merkez Bankası'nın faiz artırmasını talep ederken yen'deki aşırı dalgalanmalara karşı uyarıda bulundu. Kur istikrarı ve BOJ politikası gündeme geldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T04:01:06.948689+00:00",
+  "type": "news",
+  "cluster_id": "c26d7167e48bf"
+ },
+ {
+  "title": "Google ve Tesla hisseleri yapay zeka harcamalarının piyasaları sarsmasıyla geriledi",
+  "link": "https://www.trthaber.com/haber/dunya/google-ve-tesla-hisseleri-yapay-zeka-harcamalarinin-piyasalari-sarsmasiyla-geriledi-952070.html",
+  "source": "TRT Haber",
+  "summary_tr": "Google ve Tesla hisseleri yapay zeka harcamalarının artmasıyla sert düştü. Yatırımcılar AI'ya yapılan masraflı yatırımlardan endişeli.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T04:01:06.948689+00:00",
+  "type": "news",
+  "cluster_id": "c0277a1c7b721"
+ },
+ {
   "title": "Oil set for weekly rise amid Red Sea shipping attacks, Kazakhstan output cuts",
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaFZBdXJmU1lITHlha1NMc0hvVjhaOVVFbjEya0Z1ZXZzNGFjTC1lV21nR1MwcjNERmJydnhvc0xNRzc0ODRPRlpScU9UZ0M3U3hYaEFveXdsbDYwQ01zZlk0WTZWSWJZZHhBUHAtMHNNSG1MRHB0RGRzSUVLNGdJV1VNeW54TWw5cERFekMwdmxDNVdWdVp1VGN0c0xqbnRSS0Fyejh3eXVDZ1J1elFER1doSjdPeU1CMTIwZmlvOWM2dw?oc=5",
   "source": "Reuters",
@@ -59492,65 +59564,5 @@
   "score": 6,
   "ts": "2026-06-10T10:01:14.712381+00:00",
   "cluster_id": "c38c29b4f988d"
- },
- {
-  "title": "FED faiz kararı ne zaman, saat kaçta açıklanacak? FED faiz kararı ne olur?",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/fed-faiz-karari-ne-zaman-saat-kacta-aciklanacak-fed-faiz-karari-ne-olur-2510955",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Merkez Bankası (FED) Haziran ayı faiz kararı açıklanmak üzere; piyasalar kararını bekliyor.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-10T09:01:12.205720+00:00",
-  "cluster_id": "cd528c06336f2"
- },
- {
-  "title": "Türkiye'nin nükleer reaktörü devreye giriyor: İlk kez yakıt yüklendi",
-  "link": "https://www.sozcu.com.tr/turkiye-nin-nukleer-reaktoru-devreye-giriyor-ilk-kez-yakit-yuklendi-p326750",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye'nin ilk nükleer santrali Akkuyu'da yakıt yükleme başladı, işletmeye geçiş aşamasına gelindi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T09:01:12.205720+00:00",
-  "cluster_id": "c188359052db0"
- },
- {
-  "title": "En düşük memur maaşı 70 bin TL sınırını aşıyor: İşte masadaki 2 farklı zam oranı",
-  "link": "https://www.sozcu.com.tr/en-dusuk-memur-maasi-70-bin-tl-sinirini-asiyor-iste-masadaki-2-farkli-zam-orani-p326742",
-  "source": "Sözcü",
-  "summary_tr": "Temmuz'da kamu çalışanlarına zam uygulanacak; Mayıs enflasyon verilerine göre iki farklı oran masada.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T09:01:12.205720+00:00",
-  "cluster_id": "c4d6a02e3a81d"
- },
- {
-  "title": "Macron to chair video call involving G7 and China over trade imbalances",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2ZNYjFZOHl1ZF9uOF9HNUhrWHhsU255NVZaS011QjNzMGJfWUR4Ukl1RjJfRDZHVUNQR2IwcnZJWi1tMGxRQlNtQnRwX1dYQzZ4bkxoYlRJU0poZDB2dU5UaEt1U2JCemg1Zlg2QzZjMy15WjQ5R0R4b1l3Vi1vRXdVbHM2OGp4OU9oeGJ2c3BMcks2cEZzMmJycGpJUVVQVEYxZWhSZWdpZlByQTdnTm9n?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Macron, G7 ve Çin'i içeren video konferans çağrısı yapacak; ticari dengesizlikleri görüşecek.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T09:01:12.205720+00:00",
-  "cluster_id": "cd1728ba91515"
- },
- {
-  "title": "İstanbullular yaşadı: En sık kullanılan güzergah yarım saat kısalıyor",
-  "link": "https://www.sozcu.com.tr/istanbullular-yasadi-en-sik-kullanilan-guzergah-yarim-saat-kisaliyor-p326752",
-  "source": "Sözcü",
-  "summary_tr": "Ankara-İstanbul YHT Hattı'ndaki çalışmaların tamamlanmasıyla sefer süresi yarım saat kısalacak.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-10T09:01:12.205720+00:00",
-  "cluster_id": "c013b7462a680"
- },
- {
-  "title": "Depoda yakıt kalmadı: Kışın ucuz uçak biletleri tarih olacak",
-  "link": "https://www.sozcu.com.tr/depoda-yakit-kalmadi-kisin-ucuz-ucak-biletleri-tarih-olacak-p326743",
-  "source": "Sözcü",
-  "summary_tr": "İran'daki savaş sonrası jet yakıtı fiyatları yükseldi; havayolları kış döneminde ucuz bilet sunamamaya hazırlanıyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-10T09:01:12.205720+00:00",
-  "cluster_id": "cb58d3acd01bc"
  }
 ]
