@@ -1,5 +1,89 @@
 [
  {
+  "title": "Ana muhalefet artık Yeni Parti: CHP beşinci partiye düştü, Meclis'teki dağılım sil baştan değişti",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOXIyWTE4b25sM0FySnBjSlpYZlQ1amh1UUVJcXFSUk5IYi00NldlYTNVVTNjaEdvWUtoTnRMX2xOQUc0QldSUUFHVlNOVlZOb2Q4WmJ2ODMxUUhKSjZ5cG5UNGYzc1ZTalRuR0twbjBwdzRnUVg3YmNDWnFpcXpwdmw0T1g4RFZLU3NKRzVpQ2k0MGQxcVJ3Wm9fVEJxUzJucDlSc09iQUY5TDBDTDR3Q21UTThuNktwS1hoZHZHelNlTks3S0E?oc=5",
+  "source": "T24",
+  "summary_tr": "YENİ Parti, CHP'nin yerini almış ve ana muhalefet partisi oldu. TBMM'deki meclis dağılımı tamamen değişti; CHP beşinci partiye geriledi.",
+  "metric": "CHP birinci partiden beşinci partiye geriledi",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-24T11:01:40.464338+00:00",
+  "type": "news",
+  "cluster_id": "c7c55ac28f92f"
+ },
+ {
+  "title": "Kemal Kılıçdaroğlu istifalarının ardından kurmaylarını topladı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/kemal-kilicdaroglu-istifalarinin-ardindan-kurmaylarini-topladi-2523514",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Genel Başkanı Kemal Kılıçdaroğlu, 91 milletvekilinin istifasının ardından kurmaylarını topladı. Özgür Özel başta olmak üzere istifacılar YENİ Parti'yi kurdu.",
+  "metric": "91 milletvekili CHP'den istifa etti",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-24T11:01:40.464338+00:00",
+  "type": "news",
+  "cluster_id": "ca8e384847574"
+ },
+ {
+  "title": "Stagflation talk returns to rattle markets as oil rebounds to $100",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWGV3WEFzTUlYVHd1OGNRbDBDZEtVWmRKb0p6NEVjOUFPQTZacThBczNFemNrVWxfclViZHdOOGw3cU4tLVdxSkRBM3RVLUZ3Z212Qm96a1JBUHNkLWN3V1dHNnd2eDJNUms1d3R1ZTN5dGItcmtWWjc1cGtTcTRvaVlfWGpoODJuQ3Y3MFc1ZGhpa2FyVlE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Petrol fiyatları 100 dolara yükseldi; piyasalarda stagflasyon endişeleri artıyor.",
+  "metric": "Petrol fiyatı $100 seviyesine ulaştı",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T11:01:40.464338+00:00",
+  "type": "news",
+  "cluster_id": "c9d9deb377fc6"
+ },
+ {
+  "title": "YENİ Parti kurulurken Kılıçdaroğlu'ndan dikkat çeken paylaşım: İmamoğlu ile özdeşleşen o hareketi kullandı!",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/yeni-parti-kurulurken-kilicdaroglu-ndan-dikkat-ceken-paylasim-imamoglu-ile-ozdeslesen-o-hareketi-kullandi-2523512",
+  "source": "Cumhuriyet",
+  "summary_tr": "Kemal Kılıçdaroğlu, YENİ Parti'nin kurulduğu sırada sosyal medyada dikkat çeken bir paylaşım yaptı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-24T11:01:40.464338+00:00",
+  "type": "news",
+  "cluster_id": "c7c54c4c9c900"
+ },
+ {
+  "title": "91 milletvekili istifa etti : İşte YENİ Parti Kurucular Kurulu'nda yer alan 91 isim",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/91-milletvekili-istifa-etti-iste-yeni-parti-kurucular-kurulu-nda-yer-alan-91-isim-2523507",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP'den istifa eden 91 milletvekilinin listesi açıklandı; bunlar YENİ Parti Kurucular Kurulu'nda yer almaktadır.",
+  "metric": "91 milletvekili",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-24T11:01:40.464338+00:00",
+  "type": "news",
+  "cluster_id": "cd18f5af71741"
+ },
+ {
+  "title": "Türkiye'nin dev su markası ABD'lilere satıldı",
+  "link": "https://www.sozcu.com.tr/turkiye-nin-dev-su-markasi-abd-lilere-satildi-p339409",
+  "source": "Sözcü",
+  "summary_tr": "Nestle, su işinin yarısını ABD'li yatırım şirketine 3 milyar euroya sattı. Türkiye'deki su ürünleri bu işlem kapsamında etkilenecek.",
+  "metric": "3 milyar euro",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T11:01:40.464338+00:00",
+  "type": "news",
+  "cluster_id": "c5f77b750e19a"
+ },
+ {
+  "title": "China adds 14 EU entities to export control list over Russia-related sanctions",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUlVQVGZKNU9qbFNNcHFBcy0tMVdwZ2RCS1Z0SC1oZDVBeUZrX2xSZlpvTklTMTBteUNmME55OVhVWWx5RlhINnRhOG9TS0dKSlNxN3hmWHExbXgtV0NIY3NmMVpaaERiaW1kUDFUVjlteWZQaHhOMUxqMWU5UWF6RW1hX1pCY1JWUEdJeWxrVW5ZZi02QXBVV3VHVGxLb05uaEtTYkl1WFJ1dUdpRFhxSVd0RnhpSmdONWtLQU1hek5VWjVwQ1Z1VWJSdG9mWGFPMFc4Sg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin, Rusya'ya yönelik yaptırımlarla ilgili 14 AB işletmesini ihracat kontrol listesine ekledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T11:01:40.464338+00:00",
+  "type": "news",
+  "cluster_id": "c35dedad01075"
+ },
+ {
   "title": "Ben-Gvir’den Batı Şeria için yıkım çağrısı: Gazze’de yaptığımızı yapalım",
   "link": "https://www.cumhuriyet.com.tr/dunya/ben-gvir-den-bati-seria-icin-yikim-cagrisi-gazze-de-yaptigimizi-yapalim-2523501",
   "source": "Cumhuriyet",
@@ -59606,75 +59690,5 @@
   "score": 8,
   "ts": "2026-06-10T15:01:13.421641+00:00",
   "cluster_id": "cfe6c0df03332"
- },
- {
-  "title": "CHP'de Özgür Özel'e yakın dokuz vekile kesin ihraç istemi",
-  "link": "https://www.bbc.com/turkce/articles/cdr4dn443x4o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "CHP'de Kılıçdaroğlu'nun MYK toplantısında Özgür Özel'e yakın 9 vekilin ihracı istendi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T15:01:13.421641+00:00",
-  "cluster_id": "c823ccfe35e74"
- },
- {
-  "title": "Kılıçdaroğlu Olağan Kurultay Toplayamaz Ama Olağanüstü Toplayabilir",
-  "link": "https://yetkinreport.com/2026/06/10/kilicdaroglu-olagan-kurultay-toplayamaz-ama-olaganustu-toplayabilir/",
-  "source": "YetkinReport",
-  "summary_tr": "Kılıçdaroğlu 11 Haziran'da olağanüstü kurultay toplayabilir; olağan kurultay toplamada yasal engel var.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T15:01:13.421641+00:00",
-  "cluster_id": "c32c6fabefadb"
- },
- {
-  "title": "Mecliste Irmak Öğretmeni savunurken atanmış yönetim ihracını istendi",
-  "link": "https://www.sozcu.com.tr/mecliste-irmak-ogretmeni-savunurken-atanmis-yonetim-ihracini-istendi-p326863",
-  "source": "Sözcü",
-  "summary_tr": "CHP'de Kılıçdaroğlu yönetimi tarafından ihraç istenen vekillerden biri Mersin Milletvekili Ali Mahir Başarır.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-10T15:01:13.421641+00:00",
-  "cluster_id": "cb7988eea4275"
- },
- {
-  "title": "Atanmış Genel Başkan Kılıçdaroğlu'nun sözcüsünden Özgür Özel ihraç edilecek mi sorusuna yanıt",
-  "link": "https://www.sozcu.com.tr/kilicdaroglu-ekibinden-ozgur-ozel-ihrac-edilecek-mi-sorusuna-yanit-p326860",
-  "source": "Sözcü",
-  "summary_tr": "CHP Sözcüsü Müslim Sarı, 9 vekilin ihraç istemiyle disiplin kuruluna sevk edildiğini doğruladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T15:01:13.421641+00:00",
-  "cluster_id": "c18b4491cb604"
- },
- {
-  "title": "Rusya: ABD ile İran'ı itidale ve saldırıları derhal durdurmaya çağırıyoruz",
-  "link": "https://www.aa.com.tr/tr/dunya/rusya-abd-ile-irani-itidale-ve-saldirilari-derhal-durdurmaya-cagiriyoruz/3962900",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Rusya, ABD ve İran'a itidal çağrısında bulunarak krizin derinleşmesine karşı uyarı verdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T15:01:13.421641+00:00",
-  "cluster_id": "c8de3154b7ff0"
- },
- {
-  "title": "İsrail devlet televizyonu: İsrail ordusu, kuzeydeki üssün İran'ın son saldırılarında vurulduğunu itiraf etti",
-  "link": "https://www.trthaber.com/haber/dunya/israil-devlet-televizyonu-israil-ordusu-kuzeydeki-ussun-iranin-son-saldirilarinda-vuruldugunu-itiraf-etti-947783.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail ordusu, Ramat David Hava Üssü'nün İran saldırılarında vurulduğunu itiraf etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T15:01:13.421641+00:00",
-  "cluster_id": "c9e865a769ae7"
- },
- {
-  "title": "CHP'de 9 ismin ihracı istendi",
-  "link": "https://www.trthaber.com/haber/gundem/chpde-9-ismin-ihraci-istendi-947781.html",
-  "source": "TRT Haber",
-  "summary_tr": "CHP Sözcüsü, şaibe bulunan ve kamuoyunda tartışılan 9 üyenin ihracı için disiplin süreci başlattıklarını açıkladı.",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-06-10T15:01:13.421641+00:00",
-  "cluster_id": "cd78c1bd75757"
  }
 ]
