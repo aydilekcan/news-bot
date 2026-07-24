@@ -1,5 +1,29 @@
 [
  {
+  "title": "Oil set for weekly rise amid Red Sea shipping attacks, Kazakhstan output cuts",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaFZBdXJmU1lITHlha1NMc0hvVjhaOVVFbjEya0Z1ZXZzNGFjTC1lV21nR1MwcjNERmJydnhvc0xNRzc0ODRPRlpScU9UZ0M3U3hYaEFveXdsbDYwQ01zZlk0WTZWSWJZZHhBUHAtMHNNSG1MRHB0RGRzSUVLNGdJV1VNeW54TWw5cERFekMwdmxDNVdWdVp1VGN0c0xqbnRSS0Fyejh3eXVDZ1J1elFER1doSjdPeU1CMTIwZmlvOWM2dw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Petrol, Kızıldeniz nakliye saldırıları ve Kazakistan üretim kesintileri nedeniyle haftada yükseliş kaydetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T03:01:00.913891+00:00",
+  "type": "news",
+  "cluster_id": "c0543eea86a9f"
+ },
+ {
+  "title": "Asian stocks skid as oil spike revives inflation fears, bonds take a hit",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORzVSb2tZRUVrYzhLQ0hCcVk1clVDQ1hjaGFPVElvd0JKZ0RVeGFTQ2JBVlVwRFNLbUxHOGZKTnl3WGEyeU5PQzEtTnBmVjBRdVVVUHBaSzJXY1pRT2ZFenczR0d2emszLWpGZDItNEcxd29RSGdWSDhVOEM5RjZRRXc0VQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Petrol fiyatlarının artışı enflasyon endişelerini tetikleyerek Asyalı hisse senetlerini düşüşe geçirdi ve tahviller olumsuz etkilendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T03:01:00.913891+00:00",
+  "type": "news",
+  "cluster_id": "c1a35c3eee99a"
+ },
+ {
   "title": "Türkiye ekonomisini yılın kalanında neler bekliyor?",
   "link": "https://www.bbc.com/turkce/articles/cqlxdxwwze0o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59528,25 +59552,5 @@
   "score": 6,
   "ts": "2026-06-10T09:01:12.205720+00:00",
   "cluster_id": "cb58d3acd01bc"
- },
- {
-  "title": "Bursa'daki rüşvet ve örgüt soruşturmasında Mustafa Bozbey'in 402 yıla kadar hapsi istendi",
-  "link": "https://www.aa.com.tr/tr/gundem/bursadaki-rusvet-ve-orgut-sorusturmasinda-mustafa-bozbeyin-402-yila-kadar-hapsi-istendi/3962319",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Bursa Büyükşehir Belediye Başkanı Mustafa Bozbey'in aralarında olduğu rüşvet soruşturmasında 402 yıla kadar hapis istendi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-10T09:01:12.205720+00:00",
-  "cluster_id": "c9a5563890e96"
- },
- {
-  "title": "Haaretz: İsrail, Gazze'de büyük çaplı yeni bir saldırıya hazırlanıyor",
-  "link": "https://www.trthaber.com/haber/dunya/haaretz-israil-gazzede-buyuk-capli-yeni-bir-saldiriya-hazirlaniyor-947741.html",
-  "source": "TRT Haber",
-  "summary_tr": "Haaretz: İsrail, ateşkese rağmen Gazze'de büyük çaplı yeni bir saldırıya hazırlanıyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-10T09:01:12.205720+00:00",
-  "cluster_id": "c4c7b82345653"
  }
 ]
