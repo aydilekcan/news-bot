@@ -1,5 +1,41 @@
 [
  {
+  "title": "Enerji krizi faiz indirimini yuttu",
+  "link": "https://www.sozcu.com.tr/enerji-krizi-faiz-indirimini-yuttu-p339246",
+  "source": "Sözcü",
+  "summary_tr": "TCMB faizi dördüncü kez sabit tuttu; %37 faizle enerji krizinin enflasyon baskısına devam ettiğini gösterdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-24T00:01:06.037427+00:00",
+  "type": "news",
+  "cluster_id": "cc48b256e7931"
+ },
+ {
+  "title": "Trump, Hürmüz Boğazı'nda gemilere verilecek zararın İran parasıyla karşılanacağını belirtti",
+  "link": "https://www.trthaber.com/haber/dunya/trump-hurmuz-bogazinda-gemilere-verilecek-zararin-iran-parasiyla-karsilanacagini-belirtti-952062.html",
+  "source": "TRT Haber",
+  "summary_tr": "Trump, Hürmüz Boğazı'nda gemilere verilecek zararların İran tarafından karşılanacağını duyurdu.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-24T00:01:06.037427+00:00",
+  "type": "news",
+  "cluster_id": "c3baaaedb326f"
+ },
+ {
+  "title": "US military says it’s launching new strikes on Iran as clashes escalate over shipping routes",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZHFrc1BFd1MyNGJEdWFibkJiY1dGVjRNY2tOWUNTbEZTaEw5Z3liZFUxOWExS3ZhdExIZGpjRUFsSW9WWVcyZC1aRmdaRWtVSUFyVHBxeU5wOWZfYTBYbFpZZ25uYUVxUE8tRzQ0d2VOYVk2bTZlUW8yY0RZdnFmQnVqQjRkc2RoQ2Nya19n?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD Ordusu, Hürmüz Boğazı'ndaki nakliye güzergahında İran'a karşı yeni hava saldırıları başlattığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T00:01:06.037427+00:00",
+  "type": "news",
+  "cluster_id": "cefbe0ac7a00b"
+ },
+ {
   "title": "Trump administration to impose new global tariffs",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZjlYNnVfaDJNN2FOQldfTTRPclB4cmxtTWxaSDkyUGJJZHhtYjJEVUZnRmxhNjZEV0daUkZJS1ZHWHFJM1hSNDlBcVlwUlRIdVN4ZmVzVmgtbUpxM1NyVlotQVA3NmhUb090NVFzamlaUkhCTjFuRzZWTjVTUTYxMzhBLXNld09NWGdadEx1bXdnemUwbWdtbzg1X0I2Y3VJZFpiOFk0blpFSS1ieklCeFItZzQ4UQ?oc=5",
   "source": "Reuters",
@@ -59494,35 +59530,5 @@
   "score": 6,
   "ts": "2026-06-10T08:01:11.643841+00:00",
   "cluster_id": "c44b12726412d"
- },
- {
-  "title": "211 ülkeye 4,8 milyar dolarlık hububat ihraç edildi",
-  "link": "https://www.trthaber.com/haber/ekonomi/211-ulkeye-48-milyar-dolarlik-hububat-ihrac-edildi-947728.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye hububat, bakliyat ve yağlı tohumlar sektörü ocak-mayıs döneminde 211 ülkeye 4,8 milyar dolarlık ihracat yaptı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-10T08:01:11.643841+00:00",
-  "cluster_id": "c1c6fe1e94ad3"
- },
- {
-  "title": "Kırsaldaki girişimcilere 375,6 milyon liralık destek",
-  "link": "https://www.trthaber.com/haber/ekonomi/kirsaldaki-girisimcilere-3756-milyon-liralik-destek-947726.html",
-  "source": "TRT Haber",
-  "summary_tr": "Tarım ve Orman Bakanlığı, IPARD III Programı kapsamında kırsaldaki girişimcilere mayısta 375,6 milyon lira hibe ödedi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-10T08:01:11.643841+00:00",
-  "cluster_id": "c129148300e30"
- },
- {
-  "title": "Orta Doğu yeniden alevlendi: ABD saldırdı, İran misillemeye geçti",
-  "link": "https://www.cumhuriyet.com.tr/dunya/orta-dogu-yeniden-alevlendi-abd-saldirdi-iran-misillemeye-gecti-2510917",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD, İran'daki hedeflere hava saldırısı düzenledi; İran misilleme ile karşılık verdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-10T07:01:02.221227+00:00",
-  "cluster_id": "c99221d35766a"
  }
 ]
