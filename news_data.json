@@ -1,5 +1,113 @@
 [
  {
+  "title": "Özel liderliğindeki Yeni Parti yönetimi belirlendi: Fezlekeli isimler PM dışında kaldı",
+  "link": "https://www.bbc.com/turkce/articles/c4gd0rryj0zo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Özgür Özel liderliğinde CHP'den ayrılan 91 milletvekiliyle kurulan Yeni Parti'nin yönetimi belirlendi. Fezlekeli isimler genel merkezin dışında kaldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T17:01:04.848053+00:00",
+  "type": "news",
+  "cluster_id": "ceb61b3d9b8b2"
+ },
+ {
+  "title": "‘Halkın çağrısına kulak verdik’ dedi, CHP’den istifa etti",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/halkin-cagrisina-kulak-verdik-dedi-chp-den-istifa-etti-2523609",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP'nin seçilmiş İzmir İl Başkanı Çağatay Güç, CHP üyeliğinden istifa ederek Özgür Özel'in Yeni Parti'sine katıldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-24T17:01:04.848053+00:00",
+  "type": "news",
+  "cluster_id": "c71a81a446c51"
+ },
+ {
+  "title": "Çankaya Belediyesi soruşturması: Eyüpsultan belediye başkan yardımcısı tutuklandı",
+  "link": "https://www.diken.com.tr/cankaya-belediyesi-sorusturmasi-eyupsultan-belediye-baskan-yardimcisi-tutuklandi/?utm_source=rss&utm_medium=rss&utm_campaign=cankaya-belediyesi-sorusturmasi-eyupsultan-belediye-baskan-yardimcisi-tutuklandi",
+  "source": "Diken",
+  "summary_tr": "Çankaya Belediyesi yolsuzluk soruşturmasında Eyüpsultan Belediye Başkan Yardımcısı Hasan Karabulut tutuklandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-24T17:01:04.848053+00:00",
+  "type": "news",
+  "cluster_id": "c6d303d668df5"
+ },
+ {
+  "title": "Eyüpsultan Belediye Başkan Yardımcısı Hasan Karabulut tutuklandı",
+  "link": "https://www.sozcu.com.tr/eyupsultan-belediye-baskan-yardimcisi-hasan-karabulut-tutuklandi-p339494",
+  "source": "Sözcü",
+  "summary_tr": "Çankaya Belediyesi yolsuzluk soruşturmasında Eyüpsultan Belediye Başkan Yardımcısı Hasan Karabulut tutuklandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-24T17:01:04.848053+00:00",
+  "type": "news",
+  "cluster_id": "c6d303d668df5"
+ },
+ {
+  "title": "Çankaya Belediyesi soruşturmasında Eyüpsultan Belediye Başkan Yardımcısı tutuklandı",
+  "link": "https://www.trthaber.com/haber/gundem/cankaya-belediyesi-sorusturmasinda-eyupsultan-belediye-baskan-yardimcisi-tutuklandi-952138.html",
+  "source": "TRT Haber",
+  "summary_tr": "Çankaya Belediyesi yolsuzluk soruşturmasında Eyüpsultan Belediye Başkan Yardımcısı Hasan Karabulut tutuklandı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-24T17:01:04.848053+00:00",
+  "type": "news",
+  "cluster_id": "c6d303d668df5"
+ },
+ {
+  "title": "Dilek İmamoğlu Cumhuriyet’e konuştu: '24 Temmuz Yeni Parti'ye uğur getirsin'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/dilek-imamoglu-cumhuriyet-e-konustu-24-temmuz-yeni-parti-ye-ugur-getirsin-2523610",
+  "source": "Cumhuriyet",
+  "summary_tr": "Lozan Barış Antlaşması etkinliğine katılan Dilek İmamoğlu, 24 Temmuz'da kurulan Yeni Parti'ye destek mesajı verdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-24T17:01:04.848053+00:00",
+  "type": "news",
+  "cluster_id": "c55e2688cca78"
+ },
+ {
+  "title": "Pedro Sánchez'den, Özgür Özel'e 'YENİ Parti' mektubu: 'Bu cesur kararınız bizlere umut veriyor'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/pedro-sanchez-den-ozgur-ozel-e-yeni-parti-mektubu-bu-cesur-karariniz-bizlere-umut-veriyor-2523608",
+  "source": "Cumhuriyet",
+  "summary_tr": "İspanya Başbakanı Pedro Sánchez, CHP'den ayrılıp Yeni Parti'yi kuran Özgür Özel'e cesaretini kutladığı bir mektup gönderdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-24T17:01:04.848053+00:00",
+  "type": "news",
+  "cluster_id": "c7c899e1b4804"
+ },
+ {
+  "title": "İzmir'de iki belediye başkanı Yeni Parti'ye katılma kararı aldı",
+  "link": "https://www.sozcu.com.tr/selcuk-belediyesi-ve-urla-belediyesi-yeni-parti-karari-p339492",
+  "source": "Sözcü",
+  "summary_tr": "İzmir'de Selçuk Belediye Başkanı Filiz Ceritoğlu Sengel ve Urla Belediye Başkanı Selçuk Balkan CHP'den istifa ederek Yeni Parti'sine katıldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-24T17:01:04.848053+00:00",
+  "type": "news",
+  "cluster_id": "c5ea28b01b9b9"
+ },
+ {
+  "title": "Dünya Alem (53): Özgür Özel YENİ Parti'yi kurdu | Logosu ne anlatıyor? | Türkiye siyasetini nasıl değiştirecek?",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUhzblRfRG9kX2E1OEtacUdmTG9kLUptQzJtZ3RoM01ZQVVFbGFKMktMR0ozQldsZjV0WEh0bmdLcllKSmx4MF9EaElQdFpRZGlhYnVDNjNTZ1p4VWt5T2tXWUV4WnRzSm5KSWpFSHdDZlp4LWxFclpkczNPNEs4dWFyLWFFNzNmQndKaVNoRzRuZms?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Özgür Özel tarafından kurulan Yeni Parti'nin logosu ve Türkiye siyasetine etkileri analiz edildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-24T17:01:04.848053+00:00",
+  "type": "news",
+  "cluster_id": "c39e5e29a076a"
+ },
+ {
   "title": "Milyonları ilgilendiriyor... En düşük emekli aylığını 23 Bin 552 liraya yükselten madde kabul edildi",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/milyonlari-ilgilendiriyor-en-dusuk-emekli-ayligini-23-bin-552-liraya-yukselten-madde-kabul-edildi-2523596",
   "source": "Cumhuriyet",
@@ -59682,95 +59790,5 @@
   "score": 7,
   "ts": "2026-06-16T06:29:47.661020+00:00",
   "cluster_id": "c43c033731140"
- },
- {
-  "title": "Oil falls as markets weigh return of supply, US-Iran peace deal",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWENYY18wZzkzMHJkZWJ5NFh3OVNGUGZtTHlIalhVRTJ3QmlVYXJ6dHJrd3EyUGN2RkFILXlzS2JzRlZMV1FUeE14Nm13TnJXMkhkUW1UZFhyUHd2TXkzelJjdndCSjJxa3BJUDBnT3pHMTNkVGpwekFENUtTdExyVlUwV1V0eUlMaHhzUWRTSnpnY1RLbGpzOEFNdHp6ajFwUUtTYjFuZTBEZUQ3N0RIX0w2TTV6OXpHazRrRg?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Petrol fiyatları ABD-İran ateşkes anlaşması ve arz dönüşü beklentisiyle düşüyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-16T06:29:47.661020+00:00",
-  "cluster_id": "ce6ed773b57d2"
- },
- {
-  "title": "A Russian barrage in Ukraine kills 11 and damages a landmark cathedral",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdWp3RXVfeXJxWmlqVTRDbXU1dDRjX3JxUnU0b0t1Y0VJMVJBOGFHVjBSX1RjQjhma1hjVnNDc2N5b0ZCS1N0SGxRcU5KTnVEM1lzbVA3WkhLZHgxdkkxcWhfVTVuZXY0V1lyM2dHaFkxOVBEN2o4a1dLX1g1dWdxMkJwaGxjbEpDYVVQYW1oN1d5V1FxaE95VWk5RDdOek0?oc=5",
-  "source": "AP",
-  "summary_tr": "Rus saldırısında Ukrayna'da 11 ölü; katedra hasar gördü.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-16T06:29:47.661020+00:00",
-  "cluster_id": "c28ee0afb3fe2"
- },
- {
-  "title": "Beylikdüzü Belediyesi'ne İmamoğlu İnşaat operasyonu: 27 kişi gözaltında",
-  "link": "https://www.bbc.com/turkce/articles/cpq320lqzx5o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "İstanbul Cumhuriyet Başsavcılığı, CHP'li Beylikdüzü Belediyesi'ne operasyon düzenledi; 27 kişi gözaltına alındı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-16T06:29:47.661020+00:00",
-  "cluster_id": "c6958db27936e"
- },
- {
-  "title": "Vize, laiklik, Gürlek, mutlak butlan: Avrupa Parlamentosu'nun Türkiye Raporu'nda neler var?",
-  "link": "https://www.bbc.com/turkce/articles/clyer0d2mr5o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Avrupa Parlamentosu, Türkiye Raporu taslağını görüşüyor; vize, laiklik gibi konuları içeriyor.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-16T06:29:47.661020+00:00",
-  "cluster_id": "cc7786529cee5"
- },
- {
-  "title": "CHP'li Silivri Belediye Başkanı Bora Balcıoğlu tutuklandı",
-  "link": "https://www.dw.com/tr/chp-li-silivri-belediye-başkanı-bora-balcıoğlu-tutuklandı/a-77517740?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "CHP'li Silivri Belediye Başkanı Bora Balcıoğlu rüşvet suçlamasıyla tutuklandı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-16T06:29:47.661020+00:00",
-  "cluster_id": "c84540c52e476"
- },
- {
-  "title": "Türkiye nadir toprak elementleri pazarında öne çıkabilir mi?",
-  "link": "https://www.dw.com/tr/türkiye-nadir-toprak-elementleri-pazarında-öne-çıkabilir-mi/a-77565855?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Türkiye nadir toprak elementlerinde yüklü miktarlar tespit etti; pazarda öne çıkabilir.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-16T06:29:47.661020+00:00",
-  "cluster_id": "c3d02febe08d3"
- },
- {
-  "title": "Antalya Büyükşehir Belediyesi'ne yeni dalga operasyon: 10 kişi hakkında gözaltı kararı!",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/antalya-buyuksehir-belediyesi-ne-yeni-dalga-operasyon-10-kisi-hakkinda-gozalti-karari-2512539",
-  "source": "Cumhuriyet",
-  "summary_tr": "Antalya Büyükşehir Belediyesi'nde yolsuzluk soruşturmasında yeni gelişme; 10 kişi hakkında gözaltı kararı verildi.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-16T06:29:47.661020+00:00",
-  "cluster_id": "c754dcf0eb538"
- },
- {
-  "title": "Türkiye'nin ilk özgün ilaç adayının klinik araştırması tamamlandı: Kanserle mücadelede etkili çözüm",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/turkiye-nin-ilk-ozgun-ilac-adayinin-klinik-arastirmasi-tamamlandi-kanserle-mucadelede-etkili-cozum-2512537",
-  "source": "Cumhuriyet",
-  "summary_tr": "Türkiye'nin ilk özgün ilaç adayı RS-0139'un faz I klinik araştırması tamamlandı; kanser tedavisinde etkili olabilir.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-16T06:29:47.661020+00:00",
-  "cluster_id": "c4d5d48c92cbd"
- },
- {
-  "title": "ABD Başkan Yardımcısı Vance, İran'la mutabakatın \"yalnızca geniş bir çerçeve sağladığını\" söyledi",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-baskan-yardimcisi-vance-iranla-mutabakatin-yalnizca-genis-bir-cerceve-sagladigini-soyledi/3968109",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Başkan Yardımcısı Vance, İran'la sağlanan mutabakatın yalnızca geniş bir çerçeve sağladığını belirtti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-16T00:26:39.791790+00:00",
-  "cluster_id": "c85fee0388bc2"
  }
 ]
