@@ -1,5 +1,161 @@
 [
  {
+  "title": "Özgür Özel dahil 91 milletvekili CHP'den istifa ederek Yeni Parti'yi kurdu",
+  "link": "https://www.bbc.com/turkce/articles/c0jlnyg5v8po?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Özgür Özel liderliğinde 91 milletvekili CHP'den istifa ederek Yeni Parti'yi kurdu. Meclis aritmetiği değişti, CHP beşinciliğe geriledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-24T09:01:13.189856+00:00",
+  "type": "news",
+  "cluster_id": "c3c6f118d0f19"
+ },
+ {
+  "title": "CHP'den kaç milletvekili istifa etti? Yeni Parti'ye kaç milletvekili katılacak?",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-den-kac-milletvekili-istifa-etti-yeni-parti-ye-kac-milletvekili-katilacak-2523477",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP'den 91 milletvekili istifa ederek Yeni Parti'ye katıldı.",
+  "metric": "CHP'den istifa: 91 milletvekili",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T09:01:13.189856+00:00",
+  "type": "news",
+  "cluster_id": "c3c6f118d0f19"
+ },
+ {
+  "title": "Özgür Özel CHP’den istifa etti: Yeni Parti için başvuru yapıldı",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTlVwLXhheGVvRXNQQVNxMWNWSkJsamFSY3JsenVXRndVeWdIejVJMlVPQVNCeTN6cUtIeG9Mb3NtajNFWnRtZDI3VFNMWDAzaTBfaGpsT0ZFOGlTMkdYX0xIdjJIVF9XSTdud1FqSzZHand3dnVxaDVfQ20tOTFBSEpHamtIU3h4UkJzSXpMamI1eVVjLVVuU3kyb09VazNE?oc=5",
+  "source": "soL",
+  "summary_tr": "Özgür Özel CHP'den istifa ederek Yeni Parti kuruluşu için başvuru yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T09:01:13.189856+00:00",
+  "type": "news",
+  "cluster_id": "c3c6f118d0f19"
+ },
+ {
+  "title": "YENİ Parti kuruldu, Meclis aritmetiği nasıl değişti?",
+  "link": "https://www.dw.com/tr/yeni-parti-kuruldu-meclis-aritmetiği-nasıl-değişti/a-78095508?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Yeni Parti resmen kuruldu. 91 vekilin istifasıyla CHP parlamentoda beşinciliğe geriledi, Yeni Parti dördüncülüğe yükseldi.",
+  "metric": "CHP: 5. sıra -> Yeni Parti 4. sıra",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T09:01:13.189856+00:00",
+  "type": "news",
+  "cluster_id": "c66dd89b2aa9b"
+ },
+ {
+  "title": "Ana muhalefet YENİ Parti: Meclis'teki sandalye dağılımı",
+  "link": "https://www.diken.com.tr/ana-muhalefet-yeni-parti-meclisteki-sandalye-dagilimi/?utm_source=rss&utm_medium=rss&utm_campaign=ana-muhalefet-yeni-parti-meclisteki-sandalye-dagilimi",
+  "source": "Diken",
+  "summary_tr": "Yeni Parti kuruluşuyla Meclis'teki sandalye dağılımı değişti; CHP'den 91 milletvekili ayrıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T09:01:13.189856+00:00",
+  "type": "news",
+  "cluster_id": "cf346132e5e5d"
+ },
+ {
+  "title": "Selçuk Belediyesi'nde belediye başkanı dahil toplu istifa: CHP'li üye kalmadı",
+  "link": "https://www.diken.com.tr/selcuk-belediyesinde-belediye-baskani-dahil-toplu-istifa-chpli-uye-kalmadi/?utm_source=rss&utm_medium=rss&utm_campaign=selcuk-belediyesinde-belediye-baskani-dahil-toplu-istifa-chpli-uye-kalmadi",
+  "source": "Diken",
+  "summary_tr": "Selçuk Belediye Başkanı Filiz Ceritoğlu Sengel ve tüm CHP'li meclis üyeleri CHP'den istifa etti; belediyede CHP'li üye kalmadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T09:01:13.189856+00:00",
+  "type": "news",
+  "cluster_id": "c0e73ad983a5d"
+ },
+ {
+  "title": "Son dakika... Selçuk Belediyesi'nde toplu istifa: Meclis'te CHP'li üye kalmadı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-selcuk-belediyesi-nde-toplu-istifa-meclis-te-chp-li-uye-kalmadi-2523474",
+  "source": "Cumhuriyet",
+  "summary_tr": "Selçuk Belediye Başkanı Filiz Ceritoğlu Sengel ve CHP'li meclis üyeleri toplu istifa etti; belediyede CHP'li üye kalmadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T09:01:13.189856+00:00",
+  "type": "news",
+  "cluster_id": "c0e73ad983a5d"
+ },
+ {
+  "title": "'Beşli çete'den Limak'ın kamudan aldığı ihaleler ortaya çıktı",
+  "link": "https://www.cumhuriyet.com.tr//siyaset/besli-ceteden-limakin-kamudan-aldigi-ihaleler-ortaya-cikti-1976669",
+  "source": "Cumhuriyet",
+  "summary_tr": "Limak şirketi 2011-2022 arasında kamudan 7 milyar 728 milyon 974 bin TL'lik ihale aldı.",
+  "metric": "Limak kamu ihalesi: 7.728.974.000 TL (2011-2022)",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-24T09:01:13.189856+00:00",
+  "type": "news",
+  "cluster_id": "c42d3b24d63ef"
+ },
+ {
+  "title": "Ekonomi programı sanayiciyi çıkmaza soktu",
+  "link": "https://www.sozcu.com.tr/ekonomi-programi-sanayiciyi-cikmaza-soktu-p339369",
+  "source": "Sözcü",
+  "summary_tr": "TİM Başkanı ve İSO Meclis Üyeleri, yüksek faiz ve artan maliyetlerin sanayiciyi çıkmaza soktuğunu belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T09:01:13.189856+00:00",
+  "type": "news",
+  "cluster_id": "ce49d5ddd4cc6"
+ },
+ {
+  "title": "Özgür Özel'in açıklamasının ardından bir CHP'li belediye başkanı daha istifa etti",
+  "link": "https://www.sozcu.com.tr/ozgur-ozel-in-aciklamasinin-ardindan-bir-chp-li-belediye-baskani-daha-istifa-etti-p339361",
+  "source": "Sözcü",
+  "summary_tr": "Selçuk Belediye Başkanı Filiz Ceritoğlu Sengel ve CHP'li meclis üyeleri CHP'den istifa etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T09:01:13.189856+00:00",
+  "type": "news",
+  "cluster_id": "ca3b56083519f"
+ },
+ {
+  "title": "CHP'li Salıcı'dan \"Partimdeyim\" mesajı: Olan biten bölünmenin ötesine geçmiştir, dağılma emareleri görülmektedir",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaDdHRjN5WU1JbEtlMDNrbnFmeGtqUU9icnhRWWpsRWY3VS1jYXNTdWdwYmd4VmtPQ0JCRHBJdnF6MFJWVWVyT2RrcTRzcnMtTmhvSjZCdEp2VFN0VElpRG5JdURpSmw3dklMU1Y2X0ZrUnNTOHR4Z3B4bTE3bHFZdDZNMmpjSWs5blNwV1poWXQzZ3JXVkw1VTNmODcycHJwdWU1TWpvWjVYdk82MzVuMVJyWjk0ZVpYTF9SQU5ub2JQeE1TNER4RVliMFBZbGc2V3I1NE1wLUFIUQ?oc=5",
+  "source": "T24",
+  "summary_tr": "CHP'li Salıcı, partide yaşanan bölünmenin dağılma emarelerine dönüştüğünü belirtti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-24T09:01:13.189856+00:00",
+  "type": "news",
+  "cluster_id": "cc135bc717857"
+ },
+ {
+  "title": "How the 'twin stars' of China, CXMT and YMTC, changed the chip game",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN3FtZ0tuZjBLVXBGemNjdHZlRFVaMUhXSHNuaWpfZnUxSk9PVVQtVldLNjNXSENkREV4UUZYdmN3dXE0RGk2d3poSzduX3UzM09JUURZMG5SQjZxeExscERSZ21SS1ptQUpWR3ROaXFGVlNnR3dWeDROc2Z4emx0NlU3dE5uMVp0aXM1SzJEdWJudVZoMFB6YnMwU2czOVBfaVBJTGhNcDBzUERo?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin'in CXMT ve YMTC çip üreticileri küresel çip piyasasını değiştirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T09:01:13.189856+00:00",
+  "type": "news",
+  "cluster_id": "c442b691d2c63"
+ },
+ {
+  "title": "İhracat ve ithalat birim değer endeksi (yılık): %14,2",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWVNYRjNIekt4SUY2ZWdnWm1xZV82ZFBzNlNMT0NtckVPN2QxTlRZQnVxNkMyMEFCOVlqQm9TVnU5RkJBYUNVT2pIcE9sS0RGak91LUdZSXNtQ2Y1eVBZd2doWWZVclF4WElZamtOUFRpUEpLZnc5REZrRXpCQ3RJN2xlQl82YUJtdDVqYkk1M3l4bmk0VVVFNkkyMGMwUW9IU1E?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%14,2",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-24T09:01:13.189856+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Özgür Özel Yeni Parti'nin kuruluş evraklarını imzalayarak, CHP'den istifa etti",
   "link": "https://www.bbc.com/turkce/articles/c0jlnyg5v8po?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59490,135 +59646,5 @@
   "score": 6,
   "ts": "2026-06-10T14:01:16.330684+00:00",
   "cluster_id": "c9c1fc47c0b01"
- },
- {
-  "title": "Fox News: Trump, İran'a karşı yeni saldırı emri vermeye yaklaştığını söyledi",
-  "link": "https://www.trthaber.com/haber/dunya/fox-news-trump-irana-karsi-yeni-saldiri-emri-vermeye-yaklastigini-soyledi-947765.html",
-  "source": "TRT Haber",
-  "summary_tr": "Trump'ın İran'a karşı yeni saldırı emri vermeye yaklaştığı ve hedeflerin enerji santralları içerdiği söyleniyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-10T13:01:11.421660+00:00",
-  "cluster_id": "c65b4c6cf7b7f"
- },
- {
-  "title": "FOX: Trump, İran'a karşı yeni saldırı emri vermeye yaklaştığını söyledi",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON0wwdzktOU5uYV9ZOTJZZXdoTktHcUtlRWo3SDl5MllpZm9wTlNjYUx4OVBUckhieUFyb2l5S09pS3lzdExtel9VYjdEelVNYmtmVzN1VmNoUTFEZ1djd2xUSWIzUGVlc3N3eEc0NUdaYklFLUxuVjdNdkpNNW50eXhZNmJ4YVRfR0VSSTBLbHVQMUtrcVoxejU3VHVSd0R2V0RXT0g1Y3RFZw?oc=5",
-  "source": "soL",
-  "summary_tr": "Trump'ın İran'a karşı yeni saldırı emri vermeye yaklaştığı ve hedeflerin enerji santralları içerdiği söyleniyor.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-10T13:01:11.421660+00:00",
-  "cluster_id": "c65b4c6cf7b7f"
- },
- {
-  "title": "Trump says Iran has taken too long to negotiate, will 'pay the price'",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQjBfR0dyb2k4WjB2MkZEMjVxLTladHdVNmk5R2tjUHh2SmVmRGs5SDZBLTRuSEJOMzdxMnFoZmZDWEh3VzhBalF3MmtGMUFfelB5Vm9fb3JROUFOaVUwWUxqUTBtbURXTnYtOUNUZ1U2UkxoZnNoN1ZvLWlIN2VvNVBhNmJlUlRZYlJ4ZERYRnA5LTJ3QktSU1VwUkNzS2RWeGpmR05ndllnalFqeVp5endGQQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, İran'ın müzakereleri uzattığını söyleyerek bedel ödeyeceğini ilan etti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-10T13:01:11.421660+00:00",
-  "cluster_id": "caf32eec9ce65"
- },
- {
-  "title": "Ankara Başsavcısı değişti, gözler CHP dosyalarında",
-  "link": "https://www.dw.com/tr/ankara-başsavcısı-değişti-gözler-chp-dosyalarında/a-77489549?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Ankara Cumhuriyet Başsavcısı Gökhan Karaköse Yargıtay üyeliğine atandı; CHP dosyalarının takibinde değişim beklentisi var.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T13:01:11.421660+00:00",
-  "cluster_id": "ca7027ce30271"
- },
- {
-  "title": "Bulgaristan’dan Ukrayna kararı: Silah desteği sona eriyor",
-  "link": "https://www.cumhuriyet.com.tr/dunya/bulgaristan-dan-ukrayna-karari-silah-destegi-sona-eriyor-2511027",
-  "source": "Cumhuriyet",
-  "summary_tr": "Bulgaristan Başbakanı Radev, hükümetin Ukrayna'ya silah desteğini sonlandırma kararı aldığını açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T13:01:11.421660+00:00",
-  "cluster_id": "c303c85db04d1"
- },
- {
-  "title": "Son dakika... ABD enflasyonu beklentilere paralel arttı",
-  "link": "https://www.sozcu.com.tr/son-dakika-abd-enflasyonu-beklentilere-paralel-artti-p326834",
-  "source": "Sözcü",
-  "summary_tr": "ABD'de Tüketici Fiyat Endeksi mayısta aylık %0,5, yıllık %4,2 oranında beklentilere paralel arttı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T13:01:11.421660+00:00",
-  "cluster_id": "cce42b910b127"
- },
- {
-  "title": "Ukraine launches long-range strikes on military and energy sites in Russia",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHRqb3c5OS1la0dWUGJTbFBDSzg0TU1NOUc1R0ttQ3BXeFIyQmdJdExnQW4tQkUyenlwdklzRHo4ZGNhT3hvVjVDM0dOLU0tSUtFdloxWXFreTA1c0tSVEcwbHY4XzFYT2dZTEJkVkFCbnM4SmZpVnUyNld0SFJjRGhTOXUtcWlzTlRaSGpjM2RRYlY4RjgtU1FHUQ?oc=5",
-  "source": "AP",
-  "summary_tr": "Ukrayna, Rusya'daki askeri ve enerji tesislerine uzun menzilli saldırılar düzenledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T13:01:11.421660+00:00",
-  "cluster_id": "c793380fb4cd6"
- },
- {
-  "title": "Erdoğan, 'Kılıçdaroğlu ile görüştünüz mü?' sorusunu yanıtsız bıraktı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/erdogan-kilicdaroglu-ile-gorustunuz-mu-sorusunu-yanitsiz-birakti-2511029",
-  "source": "Cumhuriyet",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, Kılıçdaroğlu ile görüşüp görüşmediği sorusuna yanıt vermedi.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-10T13:01:11.421660+00:00",
-  "cluster_id": "c063a76477aac"
- },
- {
-  "title": "Türkiye'nin kirazında bu yıl rekor yılı: Hem üretim hem ihracat artıyor",
-  "link": "https://www.sozcu.com.tr/turkiye-nin-kirazinda-bu-yil-rekor-yili-hem-uretim-hem-ihracat-artiyor-p326825",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye'de bu yıl kiraz üretim ve ihracatında rekor beklentisi; yüksek rekolte tahmin ediliyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-10T13:01:11.421660+00:00",
-  "cluster_id": "c937988aa4923"
- },
- {
-  "title": "Bakan Fidan: Türkiye'den Bulgaristan'a doğal gaz iletim kapasitesinin artırılması stratejik önem taşıyor",
-  "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-turkiyeden-bulgaristana-dogal-gaz-iletim-kapasitesinin-artirilmasi-stratejik-onem-tasiyor-947769.html",
-  "source": "TRT Haber",
-  "summary_tr": "Dışişleri Bakanı Fidan, Türkiye'den Bulgaristan'a doğal gaz iletim kapasitesinin artırılmasının stratejik önem taşıdığını vurguladı.",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-10T13:01:11.421660+00:00",
-  "cluster_id": "c5ec93e4b2626"
- },
- {
-  "title": "Sahte pilot skandalı: 16 yıl boyunca ehliyetsiz uçmuş",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS1BiZ0F5ZU14VnVsZ1pGQ09qNHNVeGtiYW5QYm1aLVpVaDI1M2gwYmhjRmdZUG1BN0FrQVRDZXlOLXU0eGhidWhBUEY1SHRJMnpCb3pSOUdyR09pRVM4b2dOckUxN05pZDU0SktSRTBSWHF5VWpUVFpyWVZQUjRMdEhhcUJPYVI2c1B4dXRxMA?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Bir pilot 16 yıl boyunca sahte ehliyetle uçmuş; skandal ortaya çıktı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-10T13:01:11.421660+00:00",
-  "cluster_id": "c5d309fae7bab"
- },
- {
-  "title": "Wall St futures pare declines after May inflation data",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQUxUT1NqQm1KUFlpbmdjN0VuSm4wU2VIODFBNF81YU54bFBsWUptZVV0bU41ZXl0MHQxWE1UamxBaHlkUWhvWUY3MHFJZVJhYmJKdDZtMlkyLWlEbjdpOXZubnJLZFlZREdyOVhfMU5QM1l0ZGNoQnpIdHlYVjFVSHU2eXI3WGk3ek9aNXR4ZUJaQmp3dzF2dUxybmhWczI1ZEt3M1hCVmdNdmQ2bDJ3R3NOTkhzUVlRVE52WjF4cw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Mayıs enflasyon verisi sonrası Wall Street futures'ı düşüşlerini azalttı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-10T13:01:11.421660+00:00",
-  "cluster_id": "cf409cb37afc3"
- },
- {
-  "title": "Memur ve işçi emeklisi arasındaki fark kapanıyor mu? İşte kulislerdeki 'refah payı' hesabı",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/memur-ve-isci-emeklisi-arasindaki-fark-kapaniyor-mu-iste-kulislerdeki-refah-payi-hesabi-2511001",
-  "source": "Cumhuriyet",
-  "summary_tr": "Emekli memur ve işçi arasındaki fark kapanması, temmuz ayındaki zam oranlarına bağlı olarak gündemde.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-10T12:01:17.701711+00:00",
-  "cluster_id": "c7c52bf97b9b9"
  }
 ]
