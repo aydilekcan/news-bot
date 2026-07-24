@@ -1,5 +1,137 @@
 [
  {
+  "title": "Özgür Özel Yeni Parti'nin kuruluş evraklarını imzalayarak, CHP'den istifa etti",
+  "link": "https://www.bbc.com/turkce/articles/c0jlnyg5v8po?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "CHP Grup Başkanı Özgür Özel, Yeni Parti'nin kuruluş evraklarını imzalayarak CHP'den istifa etti. 91 milletvekiliyle partiden ayrıldığı bildirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-24T08:01:17.531590+00:00",
+  "type": "news",
+  "cluster_id": "ccb59143b4439"
+ },
+ {
+  "title": "Özgür Özel CHP'den istifa etti",
+  "link": "https://www.diken.com.tr/ozgur-ozel-chpden-istifa-etti/?utm_source=rss&utm_medium=rss&utm_campaign=ozgur-ozel-chpden-istifa-etti",
+  "source": "Diken",
+  "summary_tr": "CHP Grup Başkanı Özgür Özel CHP'den istifa etti ve yeni partinin kuruluş dilekçesini imzaladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-24T08:01:17.531590+00:00",
+  "type": "news",
+  "cluster_id": "ccb59143b4439"
+ },
+ {
+  "title": "Son Dakika... Özgür Özel istifa etti: Yeni partinin kuruluş dilekçesini imzaladı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-ozgur-ozel-istifa-etti-yeni-partinin-kurulus-dilekcesini-imzaladi-2523454",
+  "source": "Cumhuriyet",
+  "summary_tr": "Özgür Özel yeni partinin kuruluş dilekçesini imzalayarak CHP'den istifa etti. 91 milletvekili ile birlikte partiden ayrıldığı bildirildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-24T08:01:17.531590+00:00",
+  "type": "news",
+  "cluster_id": "ccb59143b4439"
+ },
+ {
+  "title": "Özgür Özel CHP’den istifa etti: Yeni Parti bugün kuruluyor",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYmFfSnZxMFAyYkNTOUtCUXFmaU9BdHROcWpMOGRXMHp2cjNpd0hRemRtcnBQcU1ObDc3THdoRHZfdk5uNnEweGZCeENyTUVjMGJlTXJjMFlwZUh1S2ZIZThGR1phM1c1U3pxbkxWQVIzVlg3emFUQWNxQ1hNeDN3OTVmN0tLbzJFUXhNWG44a1oxVmlua25SRENn?oc=5",
+  "source": "soL",
+  "summary_tr": "CHP Grup Başkanı Özgür Özel CHP'den istifa etti ve Yeni Parti'nin kuruluşu başladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-24T08:01:17.531590+00:00",
+  "type": "news",
+  "cluster_id": "ccb59143b4439"
+ },
+ {
+  "title": "Dev hava yolu şirketi tarihe karışıyor: Tüm uçuşlar iptal edildi",
+  "link": "https://www.sozcu.com.tr/dev-hava-yolu-sirketi-tarihe-karisiyor-tum-ucuslar-iptal-edildi-p339340",
+  "source": "Sözcü",
+  "summary_tr": "Artan jet yakıtı fiyatları ve yükselen işletme maliyetleri nedeniyle bölgesel bir hava yolu şirketi iflas ve tasfiye sürecine girdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T08:01:17.531590+00:00",
+  "type": "news",
+  "cluster_id": "c6a23d53c5f45"
+ },
+ {
+  "title": "Güneşten elektrik üretiminde rekor",
+  "link": "https://www.diken.com.tr/gunesten-elektrik-uretiminde-rekor/?utm_source=rss&utm_medium=rss&utm_campaign=gunesten-elektrik-uretiminde-rekor",
+  "source": "Diken",
+  "summary_tr": "Güneş enerjisi santrallerinin elektrik üretimi haziran 2026'da 4,99 milyar kilovatsaatle tüm zamanların rekorunu kırdı.",
+  "metric": "Güneş enerjisi üretimi -> 4,99 milyar kWh (rekor)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T08:01:17.531590+00:00",
+  "type": "news",
+  "cluster_id": "cd308714fc14e"
+ },
+ {
+  "title": "Bir ilimize daha hızlı tren geliyor",
+  "link": "https://www.sozcu.com.tr/bir-ilimize-daha-hizli-tren-geliyor-p339341",
+  "source": "Sözcü",
+  "summary_tr": "Yüksek hızlı tren projesinin ilk etabı 2026'nın ikinci yarısında tamamlanacak. Çalışmalar planlanan takvim doğrultusunda sürdürülüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T08:01:17.531590+00:00",
+  "type": "news",
+  "cluster_id": "cb896484667b2"
+ },
+ {
+  "title": "Hububatta, Cumhuriyet tarihinin en yüksek rekolte beklentisi",
+  "link": "https://www.sozcu.com.tr/hububatta-cumhuriyet-tarihinin-en-yuksek-rekolte-beklentisi-p339337",
+  "source": "Sözcü",
+  "summary_tr": "Yağışların geçen yıla göre %76 artmasıyla hububatta Cumhuriyet tarihinin en yüksek rekolte beklentisi oluştu.",
+  "metric": "Yağış artışı +%76 (geçen yıla göre)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T08:01:17.531590+00:00",
+  "type": "news",
+  "cluster_id": "c92f60f0c1b23"
+ },
+ {
+  "title": "İstanbul'un dev demir yolu projesinde kritik tarih belli oldu",
+  "link": "https://www.sozcu.com.tr/istanbul-un-dev-demir-yolu-projesinde-kritik-tarih-belli-oldu-p339334",
+  "source": "Sözcü",
+  "summary_tr": "İstanbul'un Kuzey Demir Yolu Geçişi projesinde kritik tarih belli oldu. Proje Yavuz Sultan Selim Köprüsü üzerinden Anadolu ve Avrupa yakalarını birleştirecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T08:01:17.531590+00:00",
+  "type": "news",
+  "cluster_id": "c42aa2c29e793"
+ },
+ {
+  "title": "Güneşten elektrik üretimi haziranda 4,99 milyar kilovatsaatle tüm zamanların rekorunu kırdı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/gunesten-elektrik-uretimi-haziranda-4-99-milyar-kilovatsaatle-tum-zamanlarin-rekorunu-kirdi/4007803",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Güneş enerjisi santrallerinin elektrik üretimi haziran 2026'da 4,99 milyar kilovatsaatle tüm zamanların rekorunu kırdı.",
+  "metric": "Güneş enerjisi -> 4,99 milyar kWh (rekor)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T08:01:17.531590+00:00",
+  "type": "news",
+  "cluster_id": "c0e83311f2f38"
+ },
+ {
+  "title": "US filings for unemployment aid fall to 187,000 last week, fewest since 1969",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcHJXNWRHeWp6RkEzRDhsM283eGhMSGw1ckNwaHVGbllRaDBNMm9WWjZwVHU1VFNPemVBT0Zycmw2WWprS2pvTGw1RjBtUzc0N0hJa3JPNXpOU09RRjdKQzhvay0tdDdad1NKM0o4SkVhaVhjZXdzdlFGdXZJcGVKajJreXhPOGEzeXUwTW9wdDg5bVFwdXpDcDJ6ZWVMcVRPcWR2UGM3bTZhVEhhdUtV?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD'de işsizlik yardımı başvuruları 187.000'e düştü; 1969'dan bu yana en düşük seviyeye ulaştı.",
+  "metric": "ABD işsizlik başvuruları -> 187.000 (1969'dan beri en düşük)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T08:01:17.531590+00:00",
+  "type": "news",
+  "cluster_id": "cd1738e58a205"
+ },
+ {
   "title": "Trump: Hürmüz'deki gemi hasarları İran parasıyla ödenecek",
   "link": "https://www.dw.com/tr/trump-hürmüz-deki-gemi-hasarları-iran-parasıyla-ödenecek/a-78094065?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59488,115 +59620,5 @@
   "score": 8,
   "ts": "2026-06-10T12:01:17.701711+00:00",
   "cluster_id": "c7c52bf97b9b9"
- },
- {
-  "title": "BYD fabrika kurmaktan vazgeçti! Türkiye'nin masasına yarım milyar dolar fatura bıraktı",
-  "link": "https://www.sozcu.com.tr/byd-fabrika-kurmaktan-vazgecti-turkiye-nin-masasina-yarim-milyar-dolar-fatura-birakti-p326808",
-  "source": "Sözcü",
-  "summary_tr": "BYD, Manisa'da 1 milyar dolarlık yatırım planını askıya aldı; tanınan gümrük vergileri masaya bıraktı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-10T12:01:17.701711+00:00",
-  "cluster_id": "cb7ce592afdf6"
- },
- {
-  "title": "Bulgaristan Başbakanı Radev, hükümetin Ukrayna'ya silah desteğini durdurma kararı aldığını duyurdu",
-  "link": "https://www.aa.com.tr/tr/dunya/bulgaristan-basbakani-radev-hukumetin-ukraynaya-silah-destegini-durdurma-karari-aldigini-duyurdu/3962645",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Bulgaristan Başbakanı Radev, hükümetin Ukrayna'ya silah desteğini durdurma kararını açıkladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-10T12:01:17.701711+00:00",
-  "cluster_id": "c56021835043a"
- },
- {
-  "title": "Mustafa Bozbey hakkında 402 yıla kadar hapis istemi",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR1NJS2ZjaE41NUpFb1NOS2Zud1ZnSnpfc25neXFlUnMxbk52aW9SQTVxZ05tWWNSZUlFMFl6WkZZZ2NObXpEb3N1UHZ0NUp3dUpKZmtUNGJTcWU0Y3otV3JWaExvQm53SVdUREJGcnpqbE1Nb2t2WWl2V0FJN1NGVTQ4b29aRkctejdyYU83cDBweFk?oc=5",
-  "source": "soL",
-  "summary_tr": "Bursa Belediye Başkanı Bozbey hakkında 402 yıla kadar hapis cezası istemi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-10T12:01:17.701711+00:00",
-  "cluster_id": "c0b99b86f4deb"
- },
- {
-  "title": "Erdoğan’dan ‘Kıbrıs’ çıkışı: ‘Çok sert karşılık veririz’",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVmNMRnctbU5LNVFfd09pVmFKVXRkNkVONllOVEVibEtFcmhLMXQzZWRkVXZGUWhRMmJOejB1ajZiR0ctQnZ6MWxja2tTMVdRbHNyQkdmOHFVNTdGQm56aFNwWGhmc3VWWXE3cG1EaEZfZUVrTllFNndGNk1tdm00UUZLRE1sQmVqMWdqTzJHb0R2UQ?oc=5",
-  "source": "soL",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, Kıbrıs konusunda sert karşılık verileceğini söyledi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-10T12:01:17.701711+00:00",
-  "cluster_id": "c9530e1863d60"
- },
- {
-  "title": "Ukraine strikes Mariupol port, 'significantly limiting' its use",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVkozbGg0TjFpQnNaZHVLQmR4UzB0Nmg1anhENE1ZS1JmeWRGV01UWW5qcEIzU0s1ZzNyTVFqeDFqWWVHaVpBbzEycUV5UFBfN1hxSnAtTlJDT0hFN2hWSks4MHJqSUx6NXp3c0pRN25tLWF0Q3Ridklhc1V1MmpSbmN3b3I4X3MtNUQ1U2tBLWVadkRidFJjOTRmdHNYUzV1aHVvcw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ukrayna, Mariupol limanını vurarak kullanımını önemli ölçüde sınırladı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-10T12:01:17.701711+00:00",
-  "cluster_id": "cc9f013f28b2d"
- },
- {
-  "title": "İBB tutuklusu Pınar Türker'in 'çıplak arama' iddiası için soruşturma çağrısı",
-  "link": "https://www.bbc.com/turkce/articles/cwyk1lpyz92o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "İBB yolsuzluk davasında tutuklu Pınar Türker'in çıplak arama iddiası için soruşturma açılması çağrısı yapıldı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T12:01:17.701711+00:00",
-  "cluster_id": "cf1d9e4ebd313"
- },
- {
-  "title": "Görevden uzaklaştırılan Bursa Büyükşehir Belediye Başkanı Bozbey hakkında iddianame kabul edildi",
-  "link": "https://www.bbc.com/turkce/articles/c862q413jxyo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Görevden uzaklaştırılan Bursa Büyükşehir Belediye Başkanı Bozbey dahil 63 sanık hakkında iddianame kabul edildi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T12:01:17.701711+00:00",
-  "cluster_id": "ce7378dfe8049"
- },
- {
-  "title": "Trump’tan İran çıkışı: Bedelini ödemek zorunda kalacaklar",
-  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-iran-cikisi-bedelini-odemek-zorunda-kalacaklar-2511000",
-  "source": "Cumhuriyet",
-  "summary_tr": "Trump, İran'ın anlaşmaya varmaması durumunda 'bedelini ödemek zorunda kalacaklarını' söyledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T12:01:17.701711+00:00",
-  "cluster_id": "c5fa42e845dde"
- },
- {
-  "title": "Trump'tan İran'a tehdit: Bedelini ödemek zorunda kalacaklar",
-  "link": "https://www.trthaber.com/haber/dunya/trumptan-irana-tehdit-bedelini-odemek-zorunda-kalacaklar-947762.html",
-  "source": "TRT Haber",
-  "summary_tr": "Trump, İran'a tehdit savurdu: anlaşmaya varmazsa bedel ödenecek.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T12:01:17.701711+00:00",
-  "cluster_id": "c5fa42e845dde"
- },
- {
-  "title": "Kömürlü termik santral projesi için tarihi mahkeme kararı bekleniyor",
-  "link": "https://www.sozcu.com.tr/komurlu-termik-santral-projesi-icin-tarihi-mahkeme-karari-bekleniyor-p326812",
-  "source": "Sözcü",
-  "summary_tr": "Kömürlü termik santral projesi hakkında mahkeme kararı bekleniyor; Türkiye'nin enerji politikası açısından kritik.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T12:01:17.701711+00:00",
-  "cluster_id": "cd6ee78912d2b"
- },
- {
-  "title": "NATO müttefikleri, Karadeniz'deki güvenliğe odaklanan görüşmeler yaptı",
-  "link": "https://www.aa.com.tr/tr/dunya/nato-muttefikleri-karadenizdeki-guvenlige-odaklanan-gorusmeler-yapti/3962633",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "NATO müttefikleri Karadeniz'deki güvenlik konusunda görüşmeler yaptı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T12:01:17.701711+00:00",
-  "cluster_id": "c5f911c5536e0"
  }
 ]
