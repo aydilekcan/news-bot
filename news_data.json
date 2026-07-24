@@ -1,5 +1,65 @@
 [
  {
+  "title": "Türkiye dahil: Trump'tan 60 ülke için yeni gümrük tarifesi",
+  "link": "https://www.diken.com.tr/turkiye-dahil-trumptan-60-ulke-icin-yeni-gumruk-tarifesi/?utm_source=rss&utm_medium=rss&utm_campaign=turkiye-dahil-trumptan-60-ulke-icin-yeni-gumruk-tarifesi",
+  "source": "Diken",
+  "summary_tr": "ABD, Türkiye dahil 60 ülkeye %10-12,5 oranında yeni gümrük tarifesi uygulamaya başladı.",
+  "metric": "Tarife oranı %10-12,5",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T06:01:13.455615+00:00",
+  "type": "news",
+  "cluster_id": "c0653c769471e"
+ },
+ {
+  "title": "ABD 60 ülkeye 'kurşun geçirmez' tarifeler getirdi",
+  "link": "https://www.sozcu.com.tr/abd-60-ulkeye-kursun-gecirmez-tarifeler-getirdi-p339275",
+  "source": "Sözcü",
+  "summary_tr": "ABD yönetimi 60 ülkeye en az %10 oranında ticari tarifeler uygulamaya başladı.",
+  "metric": "Tarife oranı minimum %10",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T06:01:13.455615+00:00",
+  "type": "news",
+  "cluster_id": "caa61a53c6aa9"
+ },
+ {
+  "title": "Trump imposes forced labor duties on 60 trading partners as 10% US tariffs expire",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcTlxTFMtLUhVcTNocVRYQ0t0NkdRamtCSUEySEhFbHE5N0FnNFlvMDNENWcyRVlHWUloTXRna3RlRVptLVFyZ0dfeG04cmhUZ1RSbkViNFNhM0FKZ0k5N29mUmY0UU9lUXlHMGw0ckJxVHFiZFJ3cjFhbFRQTUpSNEMzdFQ4U0REUzJlU2FFY2h3Q0U2UmxnS2lUbm90RnM0WUVfVEJiaFFEdUlGYWs2YXp4NzlRekdtQTEyZjYtMA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump 60 ticari ortağa, süresi dolan %10 tarifenin yerine zorla çalışmaya karşı vergi uyguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T06:01:13.455615+00:00",
+  "type": "news",
+  "cluster_id": "cd629608f22fd"
+ },
+ {
+  "title": "Küresel piyasalar, Orta Doğu gerilimi ve tarife gündeminin etkisiyle negatif seyrediyor",
+  "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-orta-dogu-gerilimi-ve-tarife-gundeminin-etkisiyle-negatif-seyrediyor/4007696",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Küresel piyasalar Orta Doğu gerilimi, ABD-İran tansiyon ve tarife endişeleriyle negatif yönde seyrediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T06:01:13.455615+00:00",
+  "type": "news",
+  "cluster_id": "cc3542892b869"
+ },
+ {
+  "title": "Asian stocks sink, bonds struggle as oil spike stokes rate risks",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORzVSb2tZRUVrYzhLQ0hCcVk1clVDQ1hjaGFPVElvd0JKZ0RVeGFTQ2JBVlVwRFNLbUxHOGZKTnl3WGEyeU5PQzEtTnBmVjBRdVVVUHBaSzJXY1pRT2ZFenczR0d2emszLWpGZDItNEcxd29RSGdWSDhVOEM5RjZRRXc0VQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Petrol fiyatlarının yükselişi nedeniyle Asya piyasalarında hisse senedi satışları yaşanırken tahvil piyasası baskı altında.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T06:01:13.455615+00:00",
+  "type": "news",
+  "cluster_id": "ccad3de95fd28"
+ },
+ {
   "title": "Bu gece yarısı akaryakıta yine zam geliyor! Pompa alev alacak",
   "link": "https://www.sozcu.com.tr/bu-gece-yarisi-akaryakita-yine-zam-geliyor-pompa-alev-alacak-p339260",
   "source": "Sözcü",
@@ -59520,55 +59580,5 @@
   "score": 7,
   "ts": "2026-06-10T10:01:14.712381+00:00",
   "cluster_id": "c0521457b2c1a"
- },
- {
-  "title": "TEPAV'dan Merkez Bankası'na 42. madde çağrısı: Enflasyon hedefleri neden tutmuyor açıklayın",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/tepav-dan-merkez-bankasi-na-42-madde-cagrisi-enflasyon-hedefleri-neden-tutmuyor-aciklayin-2510977",
-  "source": "Cumhuriyet",
-  "summary_tr": "Düşünce kuruluşu TEPAV, Merkez Bankası'nın mayıs enflasyonunun ardından yıl sonu hedefini açıkça aşacağını söyledi ve yasal yükümlülüklerini yerine getirmesini talep etti.",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-10T10:01:14.712381+00:00",
-  "cluster_id": "c3731a5b813e0"
- },
- {
-  "title": "Orta Doğu'da görev yapacak yeni Türk diplomatlar seçildi",
-  "link": "https://www.sozcu.com.tr/orta-dogu-da-gorev-yapacak-yeni-turk-diplomatlar-secildi-p326773",
-  "source": "Sözcü",
-  "summary_tr": "Dışişleri Bakanı Fidan, Orta Doğu ve Doğu Afrika'daki kritik başkentlere yeni büyükelçi atamalarını tebliğ etti.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T10:01:14.712381+00:00",
-  "cluster_id": "c6a526c1bbd23"
- },
- {
-  "title": "South Korea's SK Hynix eyes US listing as soon as August, sources say",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ3E0bzV2U283RGhtMURjLVRmQlJXXzhGNTNhcFdtN1pFN255WWhTZ3BueVV1NTBodDNlX05Ta3JSUWdualprSmZWY01wQzZaWndMeTBEX2tQMG5UTS1vcElZQzMzOUJ1YW9ablBXUVJSUTExS2NFYmUxQjExY09tY05xZHhkN2VlOS1BV1Z4Zm1Sc0ljVGttWl9pSVlfUjctMnhGVmN2NmQzZDZ6dGtnOFpxRFBmOE0?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Güney Kore'nin SK Hynix şirketi Ağustos ayında ABD borsasında halka arzı hedefliyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T10:01:14.712381+00:00",
-  "cluster_id": "cc657cd5a834f"
- },
- {
-  "title": "Global AI debt issuance to top $500 billion in 2026, Morgan Stanley says",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaHhQQzliT0NBZG91dllyZDRDLWR2NS1obHBvODdkMFpoWW4yaThlMjFqMU1rNWpZWVNhbXUzVHVWaXhUUVJScXRZNi1pNjhfb0phRlItWHpocHY4QWFBSDc0TXpvdFdsU25oM01iRU9SSnN2WnJPUFcxa252dTZmY3pDWFdOd3F2bldMd1pBVzJFVlFrbjdoOEdqM0hNWWdnU2FzMy1oNTlMVmJpbnc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Morgan Stanley, global yapay zeka borç ihraçının 2026'da 500 milyar doları aşacağını tahmin ediyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T10:01:14.712381+00:00",
-  "cluster_id": "c10e56962d1b7"
- },
- {
-  "title": "Son Dakika... AKP'li Cumhurbaşkanı Erdoğan grup toplantısında konuşuyor",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-akp-li-cumhurbaskani-erdogan-grup-toplantisinda-konusuyor-2510969",
-  "source": "Cumhuriyet",
-  "summary_tr": "Cumhurbaşkanı Erdoğan AKP Grup Toplantısı'nda konuşuyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-10T10:01:14.712381+00:00",
-  "cluster_id": "c26b0a0cf7aee"
  }
 ]
