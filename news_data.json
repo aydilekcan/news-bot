@@ -1,5 +1,65 @@
 [
  {
+  "title": "Trump: İran'a yönelik büyük çaplı saldırılar konusunda henüz karar vermedim",
+  "link": "https://www.trthaber.com/haber/dunya/trump-irana-yonelik-buyuk-capli-saldirilar-konusunda-henuz-karar-vermedim-952146.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Başkanı Trump, İran'a yönelik büyük çaplı saldırılar konusunda henüz karar vermediğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-24T20:01:07.203849+00:00",
+  "type": "news",
+  "cluster_id": "cae7529c6e705"
+ },
+ {
+  "title": "Yeni Parti Meclis kayıtlarına girdi; 91 vekille ana muhalefet oldu",
+  "link": "https://www.sozcu.com.tr/yeni-parti-resmen-tbmm-de-p339513",
+  "source": "Sözcü",
+  "summary_tr": "Özgür Özel'in Yeni Partisi, 91 vekille TBMM'ye kaydoldu ve AKP'den sonra en fazla sandalyeye sahip ikinci parti oldu.",
+  "metric": "Yeni Parti sandalyesi: 91",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-24T20:01:07.203849+00:00",
+  "type": "news",
+  "cluster_id": "c412c7d2c28d1"
+ },
+ {
+  "title": "Trump says US to launch EU probe over 'illegal' Google fine",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS3dXSEd1bktIXy1XcmlsWGFYekt3d2dPeW53TVdyeVBiT0RkdDJERks0eXp0cVlheW54SFVPYU5aYnhwaFNfLVdXNWc3dVQxM0FTR3Y4UUlEQVZLd1JFZmhGZmx0U282TzdnaXJxbnQ5QkVlczlLZExqdmdTbk4tblE0RXNWMzNlOGk5ZkdXenptLUNLRHZXaS1aNmVocTEz?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, ABD'nin Google'ın aldığı cezaya karşı EU'ya karşı soruşturma açacağını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T20:01:07.203849+00:00",
+  "type": "news",
+  "cluster_id": "cd9be409d6d7e"
+ },
+ {
+  "title": "Uludağ İçecek’ten Malatya’ya 2.5 milyar liralık yatırım",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/uludag-icecek-ten-malatya-ya-2-5-milyar-liralik-yatirim-2523631",
+  "source": "Cumhuriyet",
+  "summary_tr": "Uludağ İçecek, Malatya'da 2,5 milyar liralık yeni üretim tesisi kuracak.",
+  "metric": "Yatırım tutarı: 2,5 milyar TL",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T20:01:07.203849+00:00",
+  "type": "news",
+  "cluster_id": "c6388559ec448"
+ },
+ {
+  "title": "Qualcomm tells customers of double-digit price increases, Bloomberg News reports",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLWtCdGgwT09VLW5yWnMzYVlaQTI3UEJrY3h5ZEE0Ni12Ulpod296UTRPb3VtQ1BLeW84NmRoSzU2RDJVZDRrdVhOQ3phSUlGS3JrMnFiRXJTZEJvRndCdUM0TVBtWWZSblgwcVI1dGhUNk9mRkstcTR5eXF0ZDFoZElWLWtFdmthLVk5OXEzUW5GQUZHNHBGZ1pvWXl3ZWxiSDZULXRjaXY2ZjFodENSQ1BibjhHR2dSdU1FTl9R?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Qualcomm, müşterilerine çift haneli fiyat artışları bildirdi.",
+  "metric": "Fiyat artışı: çift haneli (%)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T20:01:07.203849+00:00",
+  "type": "news",
+  "cluster_id": "c5654dfee99ab"
+ },
+ {
   "title": "ABD ve İran'dan Körfez'de karşılıklı saldırılar: Savaşın tırmanması endişeleri artıyor",
   "link": "https://www.bbc.com/turkce/articles/c4gjw97vnvyo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59782,55 +59842,5 @@
   "score": 6,
   "ts": "2026-06-16T11:01:15.500879+00:00",
   "cluster_id": "c2db647039829"
- },
- {
-  "title": "Antalya Büyükşehir Belediyesi’ne operasyon: 10 kişi gözaltında",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVnBlMTNvS3pMMG42N05UZ1kyUS1YQ1oyNjl6Um1DR2M0akFNWDA3TFk5eUJyUVdscGFiT0lRWmNhb3BEcEd0aEdjRU1hTDZNNkJjWjFkeVNtZGo2VnlGWTMwZ0hycU9jNTVPOUt3Mzc1SGNlQWlVUGlnLVlYOXR1STBkTWE0RG5GRjhTR21Hc0cxZHBzeEtGMkVn?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Antalya Büyükşehir Belediyesi'ne operasyon düzenlendi, 10 kişi gözaltına alındı.",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-16T11:01:15.500879+00:00",
-  "cluster_id": "cbcdb791e62c5"
- },
- {
-  "title": "SpaceX set to surpass Amazon's market cap as post-IPO rally continues",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVC1iZzVJc29mUWNsenRlX2UwQkNscTgtTzFVSU10SkNYT013VDNVNnFJa2dUcnBkQkUxNTExSGpNc0RGV0ZFcWdmWmt2STZGV0NjVGJyRkwwWExVSUlpb2FPdERsWGFTZVlScmg4Znh5QUtDUHl3TTF2UjNQdlctWWVIN2tGTnZQQXMtM09CUGpHQ2ZfeGlocFI5bEtOZ1RCWl9hMWpqMjFYYTFBSVRvWkJXLTBYRzZ5S1E?oc=5",
-  "source": "Reuters",
-  "summary_tr": "SpaceX halka arzı sonrası Amazon'un pazar değerini aşmaya hazırlanıyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-16T11:01:15.500879+00:00",
-  "cluster_id": "cc0619c75e744"
- },
- {
-  "title": "China's DeepSeek closes over $7 billion funding with unusual deal structure, the Information reports",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWC1qLTlZNklzYmsxRE9OZlhGVkZPc3lzSGh3OGplNFBYcDQ0OWl0WGJDOEVDUm5lVFItUldTaklPdHlxdEZKQ2EzT0x2MjJ6WHN5YW83NnZZczlLR1JoWThFN0VtNHVSbDkwWUV3djdIa2VPN1JIQmhxZFJGNVJFMzVLMng1aDJxaUtHVVlwX0swZ3NySDNIWVozY3JiYUJNRWdWNXVDWDA1Ti1MTnYyZDBHMGdvRFo4Snd5TlBxRjVVUmtRXzNF?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Çin'in DeepSeek yapay zeka şirketi 7 milyar doların üzerinde finansman kapattı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-16T11:01:15.500879+00:00",
-  "cluster_id": "cc0f380a44a22"
- },
- {
-  "title": "Germany formally rejects UniCredit's Commerzbank offer",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObC0zcDNYYmZid2NaOE41M05CZkhlVGRyUUJzOUtuWEVHdVUwYXU4aFBqcEhaYXJjNVBESmFrcExqTFI5NDFCZF9IS19ORXBud2EtMWJjcmJ3VU10WWRGTjlwamY5dDZnbnZwWDFYc1hnSThfQWxvZndGZmdGdmM3M0hYd2k5bmJQb2JseGdKTGNWMmJUQmxueC1zb0xyS1RpbHU0cmx3Q0xnOEJta0E?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Almanya UniCredit'in Commerzbank teklifini resmen reddetti.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-16T11:01:15.500879+00:00",
-  "cluster_id": "cd51e6d707a39"
- },
- {
-  "title": "Trump'tan İsrail'e Lübnan eleştirisi: 'Her seferinde bir binayı havaya uçurmak zorunda değilsiniz'",
-  "link": "https://www.bbc.com/turkce/articles/cddly2l63g3o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Trump, Netanyahu'ya Lübnan'daki operasyonlarında daha ölçülü davranması gerektiğini söyledi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-16T10:59:04.071030+00:00",
-  "cluster_id": "c8c43fd42a64d"
  }
 ]
