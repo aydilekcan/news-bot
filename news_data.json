@@ -1,5 +1,41 @@
 [
  {
+  "title": "Bu gece yarısı akaryakıta yine zam geliyor! Pompa alev alacak",
+  "link": "https://www.sozcu.com.tr/bu-gece-yarisi-akaryakita-yine-zam-geliyor-pompa-alev-alacak-p339260",
+  "source": "Sözcü",
+  "summary_tr": "Brent petrol 102 dolara yaklaşırken akaryakıta zam bekleniyor. Orta Doğu'daki gerilim ve tedarik krizi fiyatları artırıyor.",
+  "metric": "Brent petrol ~102 USD",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T05:01:02.644136+00:00",
+  "type": "news",
+  "cluster_id": "cf36e28fa95ea"
+ },
+ {
+  "title": "Petrol 100 doları aştı, altın düşüşe çakıldı",
+  "link": "https://www.sozcu.com.tr/petrol-100-dolari-asti-altin-dususe-cakildi-p339257",
+  "source": "Sözcü",
+  "summary_tr": "Brent petrol 100 doları aştı enflasyon endişelerini artırırken, altın düşüşe geçti.",
+  "metric": "Brent petrol >100 USD",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T05:01:02.644136+00:00",
+  "type": "news",
+  "cluster_id": "c22a238ff8d33"
+ },
+ {
+  "title": "Brent hovers above $100/bbl, set for weekly rise on Middle East escalation",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaFZBdXJmU1lITHlha1NMc0hvVjhaOVVFbjEya0Z1ZXZzNGFjTC1lV21nR1MwcjNERmJydnhvc0xNRzc0ODRPRlpScU9UZ0M3U3hYaEFveXdsbDYwQ01zZlk0WTZWSWJZZHhBUHAtMHNNSG1MRHB0RGRzSUVLNGdJV1VNeW54TWw5cERFekMwdmxDNVdWdVp1VGN0c0xqbnRSS0Fyejh3eXVDZ1J1elFER1doSjdPeU1CMTIwZmlvOWM2dw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Brent petrol 100 dolar üzerine çıktı ve haftada yükselişe hazır. Orta Doğu gerilimi fiyatları destekliyor.",
+  "metric": "Brent >100 USD",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T05:01:02.644136+00:00",
+  "type": "news",
+  "cluster_id": "c505d1bd2b0a7"
+ },
+ {
   "title": "Petrol fiyatları mayıstan bu yana ilk kez 100 dolara ulaştı",
   "link": "https://www.trthaber.com/haber/dunya/petrol-fiyatlari-mayistan-bu-yana-ilk-kez-100-dolara-ulasti-952068.html",
   "source": "TRT Haber",
@@ -59534,35 +59570,5 @@
   "score": 6,
   "ts": "2026-06-10T10:01:14.712381+00:00",
   "cluster_id": "c26b0a0cf7aee"
- },
- {
-  "title": "50 yıllık perakende zinciri iflasını açıkladı: Tüm mağazalarını kapatacak",
-  "link": "https://www.sozcu.com.tr/50-yillik-perakende-zinciri-iflasini-acikladi-tum-magazalarini-kapatacak-p326780",
-  "source": "Sözcü",
-  "summary_tr": "50 yıllık perakende zinciri iflas başvurusunda bulundu ve tüm mağazalarını kapatacak.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-10T10:01:14.712381+00:00",
-  "cluster_id": "cea3bce63e6cf"
- },
- {
-  "title": "THY'den mayıs ayında tarihi rekor",
-  "link": "https://www.trthaber.com/haber/ekonomi/thyden-mayis-ayinda-tarihi-rekor-947748.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türk Hava Yolları mayısta 7,9 milyon yolcu taşıyarak tarihindeki en yüksek mayıs ayı doluluk oranı olan %84'e ulaştı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-10T10:01:14.712381+00:00",
-  "cluster_id": "c5b743c0b76ea"
- },
- {
-  "title": "Anti-immigrant violence erupts across Belfast after knife attack",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUUZSLXVQNElRTl9hVGVMZzFGVDhnM3d0U0dFWi1RSWhJbEV5VlRMcmpoRW1aV2ZIZjVPc1k4bzZtTEZJX3J0Wm42SU56XzQ4R3NPdVFTYWdaVFJVekRTX19xS2d4aHhza1NucFEzT2VEN3I1YlNhbEFmWFRDMXpYMEtOWTVLaWFuakxGZDdrTk5mZnJxN0FsX0RsRTJKa0ZhaG1qeWpIQ1NtWGNod3c?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Belfast'ta bıçak saldırısının ardından göçmen karşıtı şiddet dalgası yaşanıyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-10T10:01:14.712381+00:00",
-  "cluster_id": "c38c29b4f988d"
  }
 ]
