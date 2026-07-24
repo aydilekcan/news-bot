@@ -1,5 +1,113 @@
 [
  {
+  "title": "Trump: Hürmüz'deki gemi hasarları İran parasıyla ödenecek",
+  "link": "https://www.dw.com/tr/trump-hürmüz-deki-gemi-hasarları-iran-parasıyla-ödenecek/a-78094065?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Trump, Hürmüz Boğazı'ndaki gemi hasarlarının ABD'deki İran parasıyla ödeneceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-24T07:01:17.704489+00:00",
+  "type": "news",
+  "cluster_id": "c508fb1968df5"
+ },
+ {
+  "title": "ABD, Türkiye'nin de aralarında olduğu 60 ülkeye yeni gümrük vergileri getirdi",
+  "link": "https://www.bbc.com/turkce/articles/cn0nj2k7xnlo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD, zorunlu işçilik gerekçesiyle Türkiye de dahil 60 ülkeye yeni gümrük vergileri uygulamaya başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T07:01:17.704489+00:00",
+  "type": "news",
+  "cluster_id": "c6f0841778683"
+ },
+ {
+  "title": "Trump'tan onlarca ülkeye yeni gümrük vergileri",
+  "link": "https://www.dw.com/tr/trump-tan-onlarca-ülkeye-yeni-gümrük-vergileri/a-78094048?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Trump, 'zorla çalıştırma' konusunda eksik kalan AB, Kanada gibi ticaret partnerlerine yeni gümrük vergileri getirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T07:01:17.704489+00:00",
+  "type": "news",
+  "cluster_id": "c436fc8cc8b47"
+ },
+ {
+  "title": "EU's Kallas questions US rationale for tariffs on bloc, seeks clarification",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQVBDR0sybFFlb19zZlJPYU5URTRFbjdiT21jazBERHB6SmJkRHJoNFR5eU0wTTFPaFNUN3ZOb2g0WU1fV0hyVlhPMXczZzRJMjdVWVNMMlM5ZmxLdzhac00tWEdfaU9ZM3JSYXdhSi1ySEwtQVA0V2dTbjFRZUpzM1RwcXVBSDgtNkVnUjl6NWE0SFFCeFplcVFjVmpEUzFfYm1lbWZlb0QyUktLTVowVQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "AB Komisyonu Başkanı Kallas, ABD'nin tarifelere ilişkin mantığını sorguladı ve açıklama talep etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-24T07:01:17.704489+00:00",
+  "type": "news",
+  "cluster_id": "c31e7dff0403b"
+ },
+ {
+  "title": "Körfezde savaş siyasette deprem, piyasalar allak bullak",
+  "link": "https://www.sozcu.com.tr/korfezde-savas-siyasette-deprem-piyasalar-allak-bullak-p339313",
+  "source": "Sözcü",
+  "summary_tr": "Körfezdeki jeopolitik gerilim ve petrol fiyatlarındaki sert yükseliş piyasaları olumsuz etkiledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T07:01:17.704489+00:00",
+  "type": "news",
+  "cluster_id": "c7179b84fa714"
+ },
+ {
+  "title": "Küresel piyasalarda jeopolitik baskı büyüyor: Gözler PMI verileri ve Moody's kararında",
+  "link": "https://www.sozcu.com.tr/kuresel-piyasalarda-jeopolitik-baski-buyuyor-gozler-pmi-verileri-ve-moody-s-kararinda-p339310",
+  "source": "Sözcü",
+  "summary_tr": "ABD-İran gerilimi enerji arzına risk oluştururken, piyasalar jeopolitik baskı altında seyir gösteriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T07:01:17.704489+00:00",
+  "type": "news",
+  "cluster_id": "c7918623745ed"
+ },
+ {
+  "title": "China’s memory chip makers ride AI boom to new power — and U.S. scrutiny",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN3FtZ0tuZjBLVXBGemNjdHZlRFVaMUhXSHNuaWpfZnUxSk9PVVQtVldLNjNXSENkREV4UUZYdmN3dXE0RGk2d3poSzduX3UzM09JUURZMG5SQjZxeExscERSZ21SS1ptQUpWR3ROaXFGVlNnR3dWeDROc2Z4emx0NlU3dE5uMVp0aXM1SzJEdWJudVZoMFB6YnMwU2czOVBfaVBJTGhNcDBzUERo?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin'in hafıza çipi üreticileri AI patlamasından yararlanarakgüclenirken ABD denetiminin artması bekleniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T07:01:17.704489+00:00",
+  "type": "news",
+  "cluster_id": "c62b014a0aa36"
+ },
+ {
+  "title": "Morning Bid: Oil batters bonds as AI burns cash",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yM3BiWGJhY1RtWFk0U2tXSlp5b21ueFR0cjFRSlUyU3dvclFFdUJ1YThDdmJ5aVpqdlM4bUNHMVJ3NV94YjBhS3ZlUnJpVEVvRlpiVjV5Vk94VXJ5MUcybk91VzZVSFRFakxDN083X0IxajNjSmlMTDNXMG5uREU?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Petrol fiyatlarındaki sert yükseliş tahvil piyasalarını olumsuz etkiledi; yapay zeka yatırımları nakit harcaması artırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-24T07:01:17.704489+00:00",
+  "type": "news",
+  "cluster_id": "c4657c0abb3dc"
+ },
+ {
+  "title": "Yurt dışı ÜFE (aylık): %0,46 (Haziran)",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNEtrWjhnVTFkcFc3OVRLN19GN0NrR2h2UXUwbUtUc2lybkFXcGZBQTJIWlh6LTNhdjQ2V21fd3BLdXRJdFNyc1hta203bU9xRkJINnA2am9NMlFXamF5cGZJRGdlQjhqZjc5MFB0ajI1amJURlhXNDFfay1zaHZZU0MtbnZvd3AxNjFFbDdnaFpRRVNCNXpxZXJmZGMtMkJ0S1IxY0ZYSQ?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%1,71 → %0,46 (-1,2 puan)",
+  "metric": "-1,2 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-24T07:01:17.704489+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Türkiye dahil: Trump'tan 60 ülke için yeni gümrük tarifesi",
   "link": "https://www.diken.com.tr/turkiye-dahil-trumptan-60-ulke-icin-yeni-gumruk-tarifesi/?utm_source=rss&utm_medium=rss&utm_campaign=turkiye-dahil-trumptan-60-ulke-icin-yeni-gumruk-tarifesi",
   "source": "Diken",
@@ -59490,95 +59598,5 @@
   "score": 7,
   "ts": "2026-06-10T12:01:17.701711+00:00",
   "cluster_id": "c5f911c5536e0"
- },
- {
-  "title": "Ehliyette yeni yaş sınırı: Yenileme süreleri tamamen değişiyor",
-  "link": "https://www.sozcu.com.tr/ehliyette-yeni-yas-siniri-yenileme-sureleri-tamamen-degisiyor-p326815",
-  "source": "Sözcü",
-  "summary_tr": "Ehliyet yenileme süreleri ve sağlık raporu kriterlerinde yeni düzenlemeler yapıldı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-10T12:01:17.701711+00:00",
-  "cluster_id": "c2a3521d76d61"
- },
- {
-  "title": "Şanlıurfa merkezli terör örgütü DEAŞ operasyonunda 47 şüpheli yakalandı",
-  "link": "https://www.aa.com.tr/tr/gundem/sanliurfa-merkezli-teror-orgutu-deas-operasyonunda-47-supheli-yakalandi/3962655",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Şanlıurfa merkezli DEAŞ operasyonunda 21 ilde 47 şüpheli yakalandı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-10T12:01:17.701711+00:00",
-  "cluster_id": "cf188fe234116"
- },
- {
-  "title": "Türk Telekom'un milli genişbant erişim çözümü \"SEBA\" 1 milyon haneye ulaştı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/turk-telekomun-milli-genisbant-erisim-cozumu-seba-1-milyon-haneye-ulasti/3962582",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türk Telekom'un milli genişbant çözümü SEBA 1 milyon haneye ulaştı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-10T12:01:17.701711+00:00",
-  "cluster_id": "ce4de612dfada"
- },
- {
-  "title": "Çin otomotiv devi BYD, Türkiye'de bir milyar dolar yatırım planını askıya aldı",
-  "link": "https://www.bbc.com/turkce/articles/cy06l4l1pdyo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Çinli otomotiv devi BYD, Türkiye'de planlı 1 milyar dolarlık fabrika yatırımını Avrupa üretimine odaklanmak için askıya aldı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-10T11:01:06.476109+00:00",
-  "cluster_id": "c15967a77844c"
- },
- {
-  "title": "ABD/İsrail-İran Savaşı'nda petrol arzı kaybının 1 milyar varile ulaştığı hesaplanıyor",
-  "link": "https://www.aa.com.tr/tr/ekonomi/abd-israil-iran-savasinda-petrol-arzi-kaybinin-1-milyar-varile-ulastigi-hesaplaniyor/3962560",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD/İsrail-İran çatışmalarında küresel petrol arzı 1 milyar varillik kayıp yaşandı; petrol fiyatlarını etkileyecek kritik gelişme.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T11:01:06.476109+00:00",
-  "cluster_id": "cde9c9229163c"
- },
- {
-  "title": "Avrupa Yatırım Bankası, Türkiye'nin yeşil dönüşüm projeleri için 200 milyon avro finansman sağlayacak",
-  "link": "https://www.aa.com.tr/tr/ekonomi/avrupa-yatirim-bankasi-turkiyenin-yesil-donusum-projeleri-icin-200-milyon-avro-finansman-saglayacak/3962417",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Avrupa Yatırım Bankası, Türkiye'nin yeşil dönüşüm projeleri için 200 milyon avro finansman sağlayacak.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-10T11:01:06.476109+00:00",
-  "cluster_id": "cfaca5d7d6bd4"
- },
- {
-  "title": "Hürmüz Boğazı'nda Amerikan helikopteri düşürülmesi ardından ABD ve İran'dan karşılıklı saldırılar",
-  "link": "https://www.bbc.com/turkce/articles/cgk61y0g2vvo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD Başkanı Trump, İran'ın askeri helikopter düşürdüğünü söyledi ve ABD'nin karşılık vermesi gerektiğini bildirdi. Hürmüz Boğazı'nda gerginlik tırmanıyor.",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-10T10:01:14.712381+00:00",
-  "cluster_id": "c4437719d0f3a"
- },
- {
-  "title": "İran: ABD, ateşkesi defalarca ihlal ederek diplomatik sürece zarar veriyor",
-  "link": "https://www.trthaber.com/haber/dunya/iran-abd-ateskesi-defalarca-ihlal-ederek-diplomatik-surece-zarar-veriyor-947749.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Dışişleri Sözcüsü, ABD'nin ateşkesi defalarca ihlal ederek diplomatik süreci tehlikeye attığını bildirdi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-10T10:01:14.712381+00:00",
-  "cluster_id": "ce3671ed5bd6d"
- },
- {
-  "title": "Yakıt fiyatları arttı, Almanya-Türkiye uçuşları etkilendi",
-  "link": "https://www.dw.com/tr/yakıt-fiyatları-arttı-almanya-türkiye-uçuşları-etkilendi/a-77485765?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "İran savaşı tetiklediği petrol fiyat artışları Almanya-Türkiye uçuşlarında iptallere yol açıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-10T10:01:14.712381+00:00",
-  "cluster_id": "c0521457b2c1a"
  }
 ]
