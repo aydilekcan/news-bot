@@ -1,5 +1,17 @@
 [
  {
+  "title": "UN human rights chief wins second term despite opposition from US, Israel and Russia",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1Yxei1yR2dOOHUyaW5Jck1IelRDaW9mNHQyUV9HNHc1ZEx1M1pJb2VDdnM3N2VLRklfaFZEQVZUN3l4aG9ZbVRuZF9rSUlyZnJGaTIyZElyTVNkRk5obXpWWUk0d0VYVTI3cE1YZ1dnblF2dWh6Z0hpS2NfdElTSTVkamdZN3EzWWpSTmM0ZkdBY3lpMmZIYkRiWm13dmM?oc=5",
+  "source": "AP",
+  "summary_tr": "BM İnsan Hakları Yüksek Komiseri ikinci dönemini ABD, İsrail ve Rusya'nın muhalefetine rağmen kazandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-25T22:01:00.188232+00:00",
+  "type": "news",
+  "cluster_id": "c5afb5806d60f"
+ },
+ {
   "title": "Rusya’dan akaryakıt piyasasını etkileyecek karar",
   "link": "https://www.sozcu.com.tr/rusya-dan-akaryakit-piyasasini-etkileyecek-karar-p339742",
   "source": "Sözcü",
@@ -59986,17 +59998,5 @@
   "ts": "2026-06-16T23:01:04.139182+00:00",
   "type": "news",
   "cluster_id": "c09e6b8ab076b"
- },
- {
-  "title": "Ukrayna'nın bombardıman uçağı düştü: 2 pilot hayatını kaybetti",
-  "link": "https://www.cumhuriyet.com.tr/dunya/ukrayna-nin-bombardiman-ucagi-dustu-2-pilot-hayatini-kaybetti-2512854",
-  "source": "Cumhuriyet",
-  "summary_tr": "Ukrayna'ya ait Su-24M bombardıman uçağı Hmelnitski bölgesinde düştü, 2 pilot hayatını kaybetti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-16T22:01:12.648935+00:00",
-  "type": "news",
-  "cluster_id": "c1b997a814471"
  }
 ]
