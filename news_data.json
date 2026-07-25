@@ -1,5 +1,17 @@
 [
  {
+  "title": "Motorine bir zam daha: Fiyatlar 80 lira sınırına dayandı, ÖTV eridi",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcEtCVzYtTjlRN3BjS3I4WFZYLUNnb1RXSTl3cWI0eVpJMVBqTmZocFg5aFVMTHBIQk5iQVpNd01KTG1KeHdmWnRFa0NtRjFCTU1pVmEwVmxyLVJaWGlGQ3NacGF5YzJkU18wLWJxa2pWRFVnR29waXlfY0pkTW14ZlNkQ0V5TnJyU1N3dGhFVVB1LUE4YlI5cmh0WmVsR3VOTkRWME9R?oc=5",
+  "source": "soL",
+  "summary_tr": "Motorine yeni zam: fiyatlar 80 lira sınırına yaklaştı, ÖTV azaldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-25T16:00:57.357291+00:00",
+  "type": "news",
+  "cluster_id": "ce0d3a13eade7"
+ },
+ {
   "title": "Gıda Mühendisleri Odası, Çalıştırılması Zorunlu Personel Taban Ücreti Uygulamasına ilişkin kararı protesto etti",
   "link": "https://www.cumhuriyet.com.tr/turkiye/gida-muhendisleri-odasi-calistirilmasi-zorunlu-personel-taban-ucreti-uygulamasina-iliskin-karari-protesto-etti-2523783",
   "source": "Cumhuriyet",
@@ -59986,17 +59998,5 @@
   "ts": "2026-06-16T21:01:16.250948+00:00",
   "type": "data",
   "cluster_id": ""
- },
- {
-  "title": "Meclis 1 Temmuz’da tatile girmeyecek! CHP’den ‘Superman’ tepkisi",
-  "link": "https://www.sozcu.com.tr/meclis-1-temmuz-da-tatile-girmeyecek-chp-den-superman-tepkisi-p328558",
-  "source": "Sözcü",
-  "summary_tr": "TBMM, AKP grup önerisiyle Meclis'in çalışma takvimini değiştirdi; Meclis 1 Temmuz'da tatile girmeyecek.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-16T20:12:36.953700+00:00",
-  "type": "news",
-  "cluster_id": "cdf798546330d"
  }
 ]
