@@ -1,5 +1,65 @@
 [
  {
+  "title": "TÜRK-İŞ'ten 'bölgesel asgari ücret' çağrılarına tepki: 'Son derece riskli bir öneri'",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/turk-is-ten-bolgesel-asgari-ucret-cagrilarina-tepki-son-derece-riskli-bir-oneri-2523771",
+  "source": "Cumhuriyet",
+  "summary_tr": "TÜRK-İŞ, işverenlerin bölgesel asgari ücret taleplerini riskli bularak tepki gösterdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-25T14:01:00.942098+00:00",
+  "type": "news",
+  "cluster_id": "c2546b01a3555"
+ },
+ {
+  "title": "TÜRK-İŞ'ten bölgesel asgari ücret çıkışına sert tepki: İşçiye de ülkeye de kötülük",
+  "link": "https://www.sozcu.com.tr/turk-is-ten-bolgesel-asgari-ucret-cikisina-sert-tepki-isciye-de-ulkeye-de-kotuluk-p339695",
+  "source": "Sözcü",
+  "summary_tr": "TÜRK-İŞ, bölgesel asgari ücret talebine sert tepki gösterdi; işçiye ve ülkeye kötü olacağını vurguladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-25T14:01:00.942098+00:00",
+  "type": "news",
+  "cluster_id": "c2546b01a3555"
+ },
+ {
+  "title": "Uzmanlar yorumladı: Trump akaryakıt fiyatlarını düşürmek için hangi hamleleri yapabilir?",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/uzmanlar-yorumladi-trump-akaryakit-fiyatlarini-dusurmek-icin-hangi-hamleleri-yapabilir-2523772",
+  "source": "Cumhuriyet",
+  "summary_tr": "Uzmanlar Trump'ın akaryakıt fiyatlarını düşürmek için alabileceği hamleleri tartıştı. İran-ABD gerilimi petrol fiyatlarını etkiluyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-25T14:01:00.942098+00:00",
+  "type": "news",
+  "cluster_id": "cf9a12241e982"
+ },
+ {
+  "title": "Piyasalar 'süper haftaya' hazırlanıyor: Yeni haftada yönü ne belirleyecek?",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/piyasalar-super-haftaya-hazirlaniyor-yeni-haftada-yonu-ne-belirleyecek-2523769",
+  "source": "Cumhuriyet",
+  "summary_tr": "Piyasalar yeni haftaya hazırlanıyor. Ortadoğu gerilimi petrol fiyatlarını 100 doların üzerine çıkardı; ABD tarife hamleleri borsaları baskılıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-25T14:01:00.942098+00:00",
+  "type": "news",
+  "cluster_id": "cfb7b316ca2ed"
+ },
+ {
+  "title": "Yapay zekanın faturası ağırlaşıyor: Veri merkezleri elektrik tüketimini ikiye katlayacak!",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/yapay-zekanin-faturasi-agirlasiyor-veri-merkezleri-elektrik-tuketimini-ikiye-katlayacak-2523766",
+  "source": "Cumhuriyet",
+  "summary_tr": "Yapay zeka veri merkezleri elektrik tüketimini 2030'da ikiye katlayacak. Küresel enerji dengelerine köklü etki bekleniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-25T14:01:00.942098+00:00",
+  "type": "news",
+  "cluster_id": "cfb086f6c50ee"
+ },
+ {
   "title": "Sanayici üretirken devleti finanse ediyor: Devreden KDV yükü büyüyor",
   "link": "https://www.sozcu.com.tr/sanayici-uretirken-devleti-finanse-ediyor-devreden-kdv-yuku-buyuyor-p339689",
   "source": "Sözcü",
@@ -59938,59 +59998,5 @@
   "ts": "2026-06-16T20:12:36.953700+00:00",
   "type": "data",
   "cluster_id": ""
- },
- {
-  "title": "Avro Bölgesi Ticaret Açığı: 1,0 milyar euro (Nisan 2026)",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaWdVRWhTMWpOXzZCWHVrc2daajBVdGhkZlR2clZNVG9aaGpXZXJDZ3k4RW9LUjk0UFZkU2dxelZSaFlsdWUwY1lvQ0hoLURKeUdsZ0g5ZWQ5RlJQNWVsX2tHM3BGdjVzNF9XdG5ZUjRZclhFNU5PcU5rbVFmbE9DYzBKOHBwZzhwV2t5ZzZCbG1adjVPam1CZG9Hc295TFAxWUpZTkZiMDF6WHJSLTg5NFRnaWRZS05heDdaUm9fMi1mcEltd3c?oc=5",
-  "source": "Eurostat",
-  "summary_tr": "€1,0 milyar → 1,0 milyar euro",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-06-16T20:12:36.953700+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "Avro Bölgesi Ticaret Dengesi: 1,2 milyar dolar açık (Nisan 2026)",
-  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVExtaXFxSVJmYk1XYnpDR2luRE5DSFJ5Zkt2NGFXNjVpOEJjd0UyYktTLTMycjhtTE9maXpwYW5Oc0tTcDRWcTJVYUl3SEhQbGMzbGRfUncyNU0zamY2UWNvdmszNUY3bmtqRUpFei1nUHJ5bGtUV0Y1bUc2Z0VOWkVwcENqSnFXRkhRUjFSblI2UmxMQks1MWhIcEtIQW5PTEZsVVd5c0xkTmpHMEtQenNHallnUHBhOWI4MEJ2Z3dGU3pJMEVLdUxFUEo5Q3FkN2pNbHprNGhjdU5YN0lyaUNR?oc=5",
-  "source": "Eurostat",
-  "summary_tr": "1,0 milyar euro → 1,2 milyar dolar açık (%+20,0)",
-  "metric": "%+20,0",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-06-16T20:12:36.953700+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "Netanyahu küplere bindi: Trump’ın önünde bizi utandırdı",
-  "link": "https://www.sozcu.com.tr/netanyahu-kuplere-bindi-trump-in-onunde-bizi-utandirdi-p328551",
-  "source": "Sözcü",
-  "summary_tr": "Netanyahu güvenlik kabinesi toplantısında İran'a yönelik 8 Haziran saldırı planını Trump'ın önünde tartıştı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-16T20:01:14.584127+00:00",
-  "cluster_id": "c9b9f480775b8"
- },
- {
-  "title": "ABD'nin İsrail Büyükelçisi, \"İsrail olmasa ABD olmazdı\" diyerek Trump'a meydan okudu",
-  "link": "https://www.aa.com.tr/tr/dunya/abdnin-israil-buyukelcisi-israil-olmasa-abd-olmazdi-diyerek-trumpa-meydan-okudu/3969130",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD İsrail Büyükelçisi Mike Huckabee, Trump'ın 'ABD olmasa İsrail olmazdı' sözlerine karşılık 'İsrail olmasa ABD olmazdı' dedi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-16T20:01:14.584127+00:00",
-  "cluster_id": "c8fab97021ee6"
- },
- {
-  "title": "Gürlek'e yaptırım istenen AP taslak raporunda neler var?",
-  "link": "https://www.dw.com/tr/gürlek-e-yaptırım-istenen-ap-taslak-raporunda-neler-var/a-77582349?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "AP Türkiye raporunda Adalet Bakanı Akın Gürlek'e yaptırım istenen madde yer alıyor; rapor yarın oylanacak.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-16T20:01:14.584127+00:00",
-  "cluster_id": "c7fcdeb2dd739"
  }
 ]
