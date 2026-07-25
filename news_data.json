@@ -1,5 +1,29 @@
 [
  {
+  "title": "Russian ballistic strike kills 10 after Ukraine’s Zelenskyy hosts US company making Patriots",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTlE2STgwdVN5dUc0Q2lkZnltSW9jWjJKV3dNVU5JSFNVM19xS2ZCd0NvNXFqMXBDNnlRaUc4WWRPZk45RjduRmU0M0dSR25IN2ljbGowcmNoeUhCc1FoZEJLcjNJaFo1VUo0US10Ny1OX1l3ckpZcFBoRHlOcVJMN0pXR0lZS0UxSVlGT1dZbU16c3ZpckpFbDZFZnBfc2lJc0RMaENtc1J6UFZ0STNv?oc=5",
+  "source": "AP",
+  "summary_tr": "Rusya, Ukrayna'da bir balistik saldırı düzenleyerek 10 kişiyi öldürdü; saldırı Zelenskyy'nin Patriot üreticisi ABD şirketini ağırladığı sırada gerçekleşti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-25T00:01:07.723623+00:00",
+  "type": "news",
+  "cluster_id": "c9d5c0b06ba13"
+ },
+ {
+  "title": "ÖTV’ye taban geldi verginin önü açıldı",
+  "link": "https://www.sozcu.com.tr/otv-ye-taban-geldi-verginin-onu-acildi-p339543",
+  "source": "Sözcü",
+  "summary_tr": "Otomobil ve motosikletlere uygulanan ÖTV'ye 'asgari maktu vergi' adı altında yeni bir taban getirildi; verginin kapsamı genişletildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-25T00:01:07.723623+00:00",
+  "type": "news",
+  "cluster_id": "c61d91074c74b"
+ },
+ {
   "title": "En düşük emekli aylığının artırılmasını da içeren kanun teklifi kabul edildi",
   "link": "https://www.trthaber.com/haber/gundem/en-dusuk-emekli-ayliginin-artirilmasini-da-iceren-kanun-teklifi-kabul-edildi-952156.html",
   "source": "TRT Haber",
@@ -59850,25 +59874,5 @@
   "score": 7,
   "ts": "2026-06-16T12:01:20.476034+00:00",
   "cluster_id": "c6874897a7bd8"
- },
- {
-  "title": "İsrailli Bakan, ilhaka hazırlandıkları Filistin kentinde \"El-Halil Anlaşması'nı\" feshettiklerini açıkladı",
-  "link": "https://www.aa.com.tr/tr/dunya/israilli-bakan-ilhaka-hazirlandiklari-filistin-kentinde-el-halil-anlasmasini-feshettiklerini-acikladi/3968625",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail Maliye Bakanı Smotrich, Batı Şeria'da El-Halil Anlaşması'nı feshettiğini duyurdu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-16T12:01:20.476034+00:00",
-  "cluster_id": "cef6c044585fd"
- },
- {
-  "title": "İran: ABD ile mutabakat imzalanmadan önce deniz ablukası kısmen kaldırıldı",
-  "link": "https://www.trthaber.com/haber/dunya/iran-abd-ile-mutabakat-imzalanmadan-once-deniz-ablukasi-kismen-kaldirildi-948384.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran, ABD'nin uyguladığı deniz ablukasını ABD ile mutabakat imzalanmadan önce kısmen kaldırdığını açıkladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-16T12:01:20.476034+00:00",
-  "cluster_id": "c6af67df14ee7"
  }
 ]
