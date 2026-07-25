@@ -1,5 +1,41 @@
 [
  {
+  "title": "Ukraine's Zelenskiy: Russia wants to bring in 30,000 North Korean troops to conflict",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYVE3WVotb1k5eTA4eHhrSEtCWkVJM2xUU3lob3R5OGpPUFZnV0NRUTByU1cwTHJCUi0wYTdVSmVHU1V6TzMydk1EVjBZSVp4aldTLWdaVURyYUM1YmN1U0YtcU9RcDZ5Tm1Jc1hPdGNfZ3dUX19vNXhoV2JWekZaS01WRjBMbUotWHFwLTBTVXVyQXhSbjdBaTAwamJiMkFtZ3E1SV9tc0RZckNIZ3JjS2taS1JfclhQSG5WWUtwS3R1bEFLdE5LY3g4WWdjZjlk?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Zelenskiy, Rusya'nın Kuzey Kore'den 30 bin asker getirmek istediğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-25T19:01:02.809923+00:00",
+  "type": "news",
+  "cluster_id": "ce75cf87f90a0"
+ },
+ {
+  "title": "This wave of Trump tariffs is likely here to stay; more are coming",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWEhnbzZuUVgwb2duQzN4ZGpYM1hkWXRKUTlBZUVpWFRLUjVQaDFWQVkzdm5qLWpfckwtZ3QyZFlpMTZSYkJlNWhxT1lXcGFETW12Z1JNWUtnQWxzRE8xSWFmcmhhMXhMbjlOMVBXbFBJRHBjc3BGdXdOX3Brc1A2VkltcTdRcHRQeUEyUnlSVUtESDY5MU1QeDhxZUNub0gxSjFTaEVHaEpJYVQxWkh4c0VR?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump tarifelerinin devam edeceği ve daha fazlasının geleceği beklentisi hakim.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-25T19:01:02.809923+00:00",
+  "type": "news",
+  "cluster_id": "c9b9e9d203abf"
+ },
+ {
+  "title": "Tesla hisseleri çakıldı, Musk’ın serveti eridi",
+  "link": "https://www.sozcu.com.tr/tesla-hisseleri-cakildi-musk-in-serveti-eridi-p339734",
+  "source": "Sözcü",
+  "summary_tr": "Tesla hisselerindeki sert düşüş nedeniyle Elon Musk büyük servet kaybı yaşadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-25T19:01:02.809923+00:00",
+  "type": "news",
+  "cluster_id": "cd47e408ec167"
+ },
+ {
   "title": "İran: 15 günde 11 ABD savaş uçağı ve 17 İHA'yı imha ettik",
   "link": "https://www.cumhuriyet.com.tr/dunya/iran-15-gunde-11-abd-savas-ucagi-ve-17-iha-yi-imha-ettik-2523808",
   "source": "Cumhuriyet",
@@ -59962,41 +59998,5 @@
   "ts": "2026-06-16T21:01:16.250948+00:00",
   "type": "news",
   "cluster_id": "cef86205d5c8f"
- },
- {
-  "title": "ABD'den İsrail'in ABD-İran mutabakat metnine erişme talebinin reddedildiği iddiasına yanıt",
-  "link": "https://www.aa.com.tr/tr/dunya/abdden-israilin-abd-iran-mutabakat-metnine-erisme-talebinin-reddedildigi-iddiasina-yanit/3969134",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD, İsrail'in ABD-İran mutabakat metnine erişim talebinin reddedildiği iddiasını yalanladığını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-16T21:01:16.250948+00:00",
-  "type": "news",
-  "cluster_id": "c3f68ff18ad98"
- },
- {
-  "title": "ABD'den İsrail'in ABDİran mutabakat metnine erişme talebinin reddedildiği iddiasına yanıt",
-  "link": "https://www.trthaber.com/haber/dunya/abdden-israilin-abd-iran-mutabakat-metnine-erisme-talebinin-reddedildigi-iddiasina-yanit-948411.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD, İsrail'in ABD-İran mutabakat metnine erişim talebinin reddedildiği iddiasını yalanladığını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-16T21:01:16.250948+00:00",
-  "type": "news",
-  "cluster_id": "c3f68ff18ad98"
- },
- {
-  "title": "Tarım ÜFE (yıllık): %43",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeUJEVjFkVWVrUkFLdmZuYks2c0NoTFFnaTdkQzNyVndBZ1M0b3QzQXdoSWJBdTJ3cTNWZHo1STU1QmhNWGdQcWcwUnZ1LXo2a1Z5Nm1LOXkzOW1ZVXhNa1BWcVg5YWxfNlZDYy0wVW53TG9ldjJ3cXJUckxOendPVndYZ2VQMy0zRVJYNHJjUQ?oc=5",
-  "source": "TÜİK",
-  "summary_tr": "%43",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-06-16T21:01:16.250948+00:00",
-  "type": "data",
-  "cluster_id": ""
  }
 ]
