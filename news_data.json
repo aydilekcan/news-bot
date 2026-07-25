@@ -1,5 +1,41 @@
 [
  {
+  "title": "TCMB, Vezne24 Tahsilat Sistemleri ve Ödeme Hizmetleri AŞ'nin faaliyet iznini iptal etti",
+  "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-vezne24-tahsilat-sistemleri-ve-odeme-hizmetleri-asnin-faaliyet-iznini-iptal-etti/4008843",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "TCMB, Vezne24 Tahsilat Sistemleri ve Ödeme Hizmetleri AŞ'nin faaliyet iznini iptal etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-25T07:00:58.306952+00:00",
+  "type": "news",
+  "cluster_id": "c906ff03658c8"
+ },
+ {
+  "title": "Almanya'da şirket iflasları neden son 20 yılın zirvesinde?",
+  "link": "https://www.dw.com/tr/almanya-da-şirket-iflasları-neden-son-20-yılın-zirvesinde/a-78047376?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Almanya'da şirket iflasları son 20 yılın zirvesinde; yapısal sorunlar ve piyasa dönüşümü artışa neden oluyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-25T07:00:58.306952+00:00",
+  "type": "news",
+  "cluster_id": "cdb9345ed27d9"
+ },
+ {
+  "title": "139 yıllık dev şirket iflas bayrağını çekti",
+  "link": "https://www.sozcu.com.tr/139-yillik-dev-sirket-iflas-bayragini-cekti-p339593",
+  "source": "Sözcü",
+  "summary_tr": "139 yıllık Alman pil üreticisi Varta, uzun süreli mali sıkıntılar nedeniyle iflas etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-25T07:00:58.306952+00:00",
+  "type": "news",
+  "cluster_id": "c6abada639f2b"
+ },
+ {
   "title": "Akaryakıta dev zam geldi: Motorin 80 liranın üzerine çıktı",
   "link": "https://www.sozcu.com.tr/akaryakita-dev-zam-geldi-motorin-80-liranin-uzerine-cikti-p339573",
   "source": "Sözcü",
@@ -59880,35 +59916,5 @@
   "score": 8,
   "ts": "2026-06-16T14:01:11.078005+00:00",
   "cluster_id": "ccb3a578252ce"
- },
- {
-  "title": "Rusya’dan bir ilk: Dijital rubleyle bütçe ödemesi",
-  "link": "https://www.sozcu.com.tr/rusya-dan-bir-ilk-dijital-rubleyle-butce-odemesi-p328494",
-  "source": "Sözcü",
-  "summary_tr": "Rusya, Çuvaşistan Cumhuriyeti'nde dijital rubleyle ilk bütçe ödemesini gerçekleştirdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-16T14:01:11.078005+00:00",
-  "cluster_id": "cf1b21816b297"
- },
- {
-  "title": "Rusya’da dijital rubleyle ilk bütçe ödemesinin yapıldığı bildirildi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/rusya-da-dijital-rubleyle-ilk-butce-odemesinin-yapildigi-bildirildi/3968824",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Rusya, Çuvaşistan Cumhuriyeti'nde dijital rubleyle ilk bütçe ödemesini gerçekleştirdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-16T14:01:11.078005+00:00",
-  "cluster_id": "cf1b21816b297"
- },
- {
-  "title": "Yum Brands to sell Pizza Hut for $2.7 billion after prolonged demand slump",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbXlSYlctdTZ4eDQ0dVBnb3lLX2VDRWF6OWl0blVsVzNNVkdIdW9pNzhEWURZbXZQTF9rMllVa0tOWTdJQ2hvbTMzSTFwSEdLMGpTTFZEUHlxaklWMzVqamt6SW5zMzhqUE56empXbHZxcnVIN1UxcDBHNWhnN01ZRERCS2dEa1B5UjBqVEpBR2YxbHFXQ0FEeEhYOHhaX2JBWVR4QUZ5a1BIUDBaeUFR?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Yum Brands, 2,7 milyar dolara Pizza Hut'ı satmaya karar verdi; talep düşüşü nedeniyle uzun süredir planlanıyordu.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-16T14:01:11.078005+00:00",
-  "cluster_id": "cb03038cad561"
  }
 ]
