@@ -1,5 +1,41 @@
 [
  {
+  "title": "ABD Başkanı Trump, gelecek başkanlık seçimlerinde \"bir kez daha aday olacağını\" açıkladı",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-gelecek-baskanlik-secimlerinde-bir-kez-daha-aday-olacagini-acikladi/4008797",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, 2028 başkanlık seçimlerinde bir kez daha aday olacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-25T04:01:09.786347+00:00",
+  "type": "news",
+  "cluster_id": "c8fdb58aea50a"
+ },
+ {
+  "title": "Özel’e ilk telefon eden isim sürpriz oldu!",
+  "link": "https://www.sozcu.com.tr/ozel-e-ilk-telefon-eden-isim-surpriz-oldu-p339553",
+  "source": "Sözcü",
+  "summary_tr": "MHP Genel Başkanı Bahçeli, yeni kurulan Yeni Parti'nin lideri Özgür Özel'i telefonla aradı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-25T04:01:09.786347+00:00",
+  "type": "news",
+  "cluster_id": "c472b8136375a"
+ },
+ {
+  "title": "Özel’den merak edilen İmamoğlu sorusuna yanıt: Cumhurbaşkanı adayınız mı?",
+  "link": "https://www.sozcu.com.tr/ozel-den-merak-edilen-imamoglu-sorusuna-yanit-cumhurbaskani-adayiniz-mi-p339552",
+  "source": "Sözcü",
+  "summary_tr": "Yeni Parti Genel Başkanı Özgür Özel, Ekrem İmamoğlu'nun cumhurbaşkanı adaylığı sorusuna cevap verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-25T04:01:09.786347+00:00",
+  "type": "news",
+  "cluster_id": "c834bf177f845"
+ },
+ {
   "title": "İktidara yakın Hak-İş’ten asgaride ‘hile’ uyarısı",
   "link": "https://www.sozcu.com.tr/iktidara-yakin-hak-is-ten-asgaride-hile-uyarisi-p339549",
   "source": "Sözcü",
@@ -59852,35 +59888,5 @@
   "score": 7,
   "ts": "2026-06-16T13:01:25.542870+00:00",
   "cluster_id": "c8c945a08561f"
- },
- {
-  "title": "Ukraine starts EU membership talks and faces years of reforms while fighting Russia",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR01RMWtHSTJlYkNILS1ySTl5T1dTbS1ZV3F5bWRBQ3ZjTFFheVl1NmdNV0JlaDE4T3VPaW85aElUWklvNTJBX0lOdElydENfNk1NRGkzZzQ5S1NWUExjU3ZLU2paVzJETEVXYUtRdmpPekxxUFRNXzh6aDR2b095M25BdmVaOGlqWjc0RG8zeVBsamhOOXU1Y3A5Mk8tMXQ0VzZiejBLRzE5YlRLanVTY3dCelMxakU?oc=5",
-  "source": "AP",
-  "summary_tr": "Ukrayna AB üyelik müzakerelerine başladı; savaşı sürdürürken yıllar sürecek reformlar yapması gerekiyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-16T13:01:25.542870+00:00",
-  "cluster_id": "c57de08391fa0"
- },
- {
-  "title": "Tavukçulardan sonra lastikçilere de milyarlık ceza yağdı!",
-  "link": "https://www.sozcu.com.tr/tavukculardan-sonra-lastikcilere-de-milyarlik-ceza-yagdi-p328463",
-  "source": "Sözcü",
-  "summary_tr": "Rekabet Kurulu lastik sektörüne milyarlık ceza yaptırımı uyguladı.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-16T13:01:25.542870+00:00",
-  "cluster_id": "c26d745dbce4c"
- },
- {
-  "title": "SPK'nin yeni düzenlemesi borsada derinlik ve güven açısından olumlu görülüyor",
-  "link": "https://www.aa.com.tr/tr/ekonomi/spknin-yeni-duzenlemesi-borsada-derinlik-ve-guven-acisindan-olumlu-goruluyor/3968746",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "SPK'nin yeni düzenlemesi borsada işlem gören şirketlerin fiili dolaşımdaki pay oranı hesaplamasını değiştirdi; piyasa uzmanları olumlu değerlendiriyor.",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-16T13:01:25.542870+00:00",
-  "cluster_id": "cc7fc3a572a97"
  }
 ]
