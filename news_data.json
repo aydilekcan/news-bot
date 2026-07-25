@@ -1,5 +1,41 @@
 [
  {
+  "title": "ABD'de imalat sanayi beklentilerin altında kaldı: Hizmet sektörü güçlendi",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/abd-de-imalat-sanayi-pmi-temmuzda-beklentilerin-altinda-kalirken-hizmet-sektoru-guclendi-2523701",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD imalat sanayi PMI dört aylık düşüğe geriledi; hizmet sektörü PMI sekiz aylık yükseğe çıktı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-25T10:01:44.535233+00:00",
+  "type": "news",
+  "cluster_id": "c2148f6371e87"
+ },
+ {
+  "title": "TKYB 2026'nın ilk yarısında 5 milyar liranın üzerinde kar elde etti",
+  "link": "https://www.aa.com.tr/tr/ekonomi/tkyb-2026nin-ilk-yarisinda-5-milyar-liranin-uzerinde-kar-elde-etti/4008986",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye Kalkınma ve Yatırım Bankası 2026 ilk yarısında 5 milyar liranın üzerinde kar elde etti.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-25T10:01:44.535233+00:00",
+  "type": "news",
+  "cluster_id": "c29db222185c3"
+ },
+ {
+  "title": "İhracat miktarı değişim oranı: -20,8%",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeXc3ZTYwQWNjZFhWc01zTUdiMFREUWJ0aDlJTFVqZDVJc09vRGgxV2g4Vk5UQkUwbUZiYU5NQWlCdDd0QWVQVmFEMVF2NEtBUXJyNFZUcmVsQUVIMlhCXzFoVDFsaVdVVGh3bFZWUlVRSlo1VGNfYzk2dTNDNUg1VzlkSk5GMlpGWHlHSEl3?oc=5",
+  "source": "TUIK",
+  "summary_tr": "-20,8%",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-25T10:01:44.535233+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Rusya Merkez Bankası politika faizini düşürdü, enflasyon tahminini yükseltti",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/rusya-merkez-bankasi-politika-faizini-dusurdu-enflasyon-tahminini-yukseltti-2523700",
   "source": "Cumhuriyet",
@@ -59926,35 +59962,5 @@
   "score": 7,
   "ts": "2026-06-16T18:01:22.150390+00:00",
   "cluster_id": "c6250b69b4bd5"
- },
- {
-  "title": "İtalyan basını: Meloni ve Trump arasında bir \"açıklığa kavuşturma\" görüşmesi yapıldı",
-  "link": "https://www.aa.com.tr/tr/dunya/italyan-basini-meloni-ve-trump-arasinda-bir-acikliga-kavusturma-gorusmesi-yapildi/3969070",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İtalya Başbakanı Meloni ile ABD Başkanı Trump, İran savaşı sürecinde bir görüşme gerçekleştirdi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-16T18:01:22.150390+00:00",
-  "cluster_id": "c7086dee96a1b"
- },
- {
-  "title": "TBMM'de Sayıştay Başkanlığı için iki adayı belirledi",
-  "link": "https://www.sozcu.com.tr/tbmm-de-sayistay-baskanligi-icin-iki-adayi-belirledi-p328518",
-  "source": "Sözcü",
-  "summary_tr": "TBMM Plan ve Bütçe Komisyonu Sayıştay Başkanlığı için mevcut başkan Metin Yener ile Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı müsteşarı olmak üzere iki adayı belirledi.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-16T17:01:19.850245+00:00",
-  "cluster_id": "c7160c0d089a3"
- },
- {
-  "title": "Exclusive: Binance set to lose permission to operate in EU, sources say",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdGE2UlVKWF90dTFvY0w1eDFlTEJMVFBYRnBULXB2d0NfajdKVllRS2dOLURKTVQ4M0RTOUFXTVFtaXU3R3ZXX2tMMXJLa0p1MlpQWVoybHY2VkVfZkItVHVIZnRzajF1N3lUVE83MWdwMFRGbWt4SGlzWXFibmZ0ZmQwWFRyYkEyRF9Kem5MZE85WXVvQ2VJbHotRy1BanZ4amFSdUE4ZnZzRHZsODJxT0JjaGRvQ0VJTnhQQTN0OTlsT0Q3SFE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Binance AB'de faaliyet gösterme izni kaybetmeye hazırlanıyor; kaynaklar bunu doğruladı.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-16T17:01:19.850245+00:00",
-  "cluster_id": "cbc277ed9c611"
  }
 ]
