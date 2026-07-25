@@ -1,5 +1,41 @@
 [
  {
+  "title": "Gıda Mühendisleri Odası, Çalıştırılması Zorunlu Personel Taban Ücreti Uygulamasına ilişkin kararı protesto etti",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/gida-muhendisleri-odasi-calistirilmasi-zorunlu-personel-taban-ucreti-uygulamasina-iliskin-karari-protesto-etti-2523783",
+  "source": "Cumhuriyet",
+  "summary_tr": "TMMOB Gıda Mühendisleri Odası, Danıştay'ın Çalıştırılması Zorunlu Personel Taban Ücreti Uygulaması'nın iptaline yönelik kararını protesto etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-25T15:00:59.621921+00:00",
+  "type": "news",
+  "cluster_id": "c45260fdcbea8"
+ },
+ {
+  "title": "Sahalara geri dönüyor: Meral Akşener Vakfı resmen kuruldu",
+  "link": "https://www.sozcu.com.tr/sahalara-geri-donuyor-meral-aksener-vakfi-resmen-kuruldu-p339704",
+  "source": "Sözcü",
+  "summary_tr": "İYİ Parti Kurucu Genel Başkanı Meral Akşener Vakfı resmen kuruldu ve sahalara geri dönüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-25T15:00:59.621921+00:00",
+  "type": "news",
+  "cluster_id": "c9adaf212369c"
+ },
+ {
+  "title": "# Genel Başkanları Meral Akşener",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcjdudnBqaWFIYXdBQktUc3FmOWwyS3p0SnZMTU0yQ2VkWGtIUDRHYzFMVWxrMW5HUVNWaHlDU3lNMkFRQnFjQzg5WEN2UjdUSlVYSm91WmJvaWtnUkhJQTNtS244R2VvUHNObDJOdkpDTlFDbnlTWE1LczNna1RPWkVCNVN2RWE0ZXllYjlPaw?oc=5",
+  "source": "T24",
+  "summary_tr": "Meral Akşener genel başkan oldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-25T15:00:59.621921+00:00",
+  "type": "news",
+  "cluster_id": "ce5d16ff938ff"
+ },
+ {
   "title": "TÜRK-İŞ'ten 'bölgesel asgari ücret' çağrılarına tepki: 'Son derece riskli bir öneri'",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/turk-is-ten-bolgesel-asgari-ucret-cagrilarina-tepki-son-derece-riskli-bir-oneri-2523771",
   "source": "Cumhuriyet",
@@ -59962,41 +59998,5 @@
   "ts": "2026-06-16T20:12:36.953700+00:00",
   "type": "news",
   "cluster_id": "cdf798546330d"
- },
- {
-  "title": "İşte madde madde ABD-İran anlaşması",
-  "link": "https://www.sozcu.com.tr/abd-iran-anlasmasinin-maddeleri-p328555",
-  "source": "Sözcü",
-  "summary_tr": "ABD ve İran arasında 14 maddelik dijital anlaşma imzalandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-16T20:12:36.953700+00:00",
-  "type": "news",
-  "cluster_id": "c69bcefdfa8f5"
- },
- {
-  "title": "Avro Bölgesi Dış Ticaret Açığı: 1,0 milyar avro (Nisan 2026)",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS3JlUzVfNXZNdzBBVFREQTY5RlhHXzkyX2NRd0U4MXVZU1RWZ21jZ0FVZU4xOWszYUtBR0YzbTB3djBmWVBhRnk3UFhQbWdfWko4c3pMTENaODF3aEhZVWlIeG5fM04taGo0b285U0ZQMlFzWmxpa2VPMEs2MkF3S0lQODVKMHF2LTdfdFR5RjQ5WEJGTjNGMG5qbG5COFp3QXRNZVEwb0p0VWg1TXB6dFBDT3NOM21TYm5SSFBn?oc=5",
-  "source": "Ticaret Bakanlığı",
-  "summary_tr": "1,0 milyar avro",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-06-16T20:12:36.953700+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "Avro Bölgesi Uluslararası Mal Ticareti Açığı: €1,0 milyar (Nisan 2026)",
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBldWs3RXlUNnEzMXdRbzJpTUx6aDhFX2dvdEVpVnoyTWtiMmVJeWJqRExIR0JGajJMUnI1N2pqM2tEb1R4THBMS3F4ZzRRcndWQXk2ZTl6YjdDWU82UmRGbGhGVVlUTFFnSEVjdUZBNG1SN21UT21kV0p6R01ZcHc?oc=5",
-  "source": "Eurostat",
-  "summary_tr": "1,0 milyar avro → €1,0 milyar",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-06-16T20:12:36.953700+00:00",
-  "type": "data",
-  "cluster_id": ""
  }
 ]
