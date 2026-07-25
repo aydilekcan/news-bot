@@ -1,5 +1,41 @@
 [
  {
+  "title": "Kılıçdaroğlu: 'Hiçbir CHP'li malı götürenlerle yan yana duramaz'",
+  "link": "https://www.bbc.com/turkce/articles/c5y0mvmqne2o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "CHP Genel Başkanı Kılıçdaroğlu, partideki bölünme sonrası İstanbul'da üye katılım töreninde konuştu ve CHP'li malı götürenlerle yan yana duramayacaklarını söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-25T11:01:04.852025+00:00",
+  "type": "news",
+  "cluster_id": "c0d11e382721f"
+ },
+ {
+  "title": "İmamoğlu: Bu davet hepimize, Özgür Özel'le yürüyelim",
+  "link": "https://www.diken.com.tr/imamoglu-bu-davet-hepimize-ozgur-ozelle-yuruyelim/?utm_source=rss&utm_medium=rss&utm_campaign=imamoglu-bu-davet-hepimize-ozgur-ozelle-yuruyelim",
+  "source": "Diken",
+  "summary_tr": "Tutuklu İBB Başkanı Ekrem İmamoğlu, Özgür Özel'in YENİ Parti liderliğinde bu davete çağrısı yaptı ve 'hepimize, Özgür Özel'le yürüyelim' mesajı verdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-25T11:01:04.852025+00:00",
+  "type": "news",
+  "cluster_id": "c452435b47440"
+ },
+ {
+  "title": "Kılıçdaroğlu'nun 'YENİ Parti' sevinci: 'Çok şükür arınma gerçekleşti'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/kilicdaroglu-zorunlu-olmadikca-tartismalara-girmememiz-lazim-2523732",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Genel Başkanı Kılıçdaroğlu, Özgür Özel'in 90 milletvekiliyle YENİ Parti'yi kurmasının ardından 'çok şükür arınma gerçekleşti' diyerek sevincini ifade etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-25T11:01:04.852025+00:00",
+  "type": "news",
+  "cluster_id": "c6390987719c3"
+ },
+ {
   "title": "ABD'de imalat sanayi beklentilerin altında kaldı: Hizmet sektörü güçlendi",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/abd-de-imalat-sanayi-pmi-temmuzda-beklentilerin-altinda-kalirken-hizmet-sektoru-guclendi-2523701",
   "source": "Cumhuriyet",
@@ -59932,35 +59968,5 @@
   "score": 9,
   "ts": "2026-06-16T18:01:22.150390+00:00",
   "cluster_id": "c0dbdfda780d9"
- },
- {
-  "title": "'Netanyahu açısından siyasi kabus': ABD-İran anlaşması İsrail için ne anlama geliyor?",
-  "link": "https://www.bbc.com/turkce/articles/c74yk2g3l7ko?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Trump'ın İran'la ateşkes anlaşması İsrail Başbakanı Netanyahu'yu yeni bir güvenlik ikilemiyle karşı karşıya bıraktı.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-16T18:01:22.150390+00:00",
-  "cluster_id": "ce31c69623ac2"
- },
- {
-  "title": "Iran says the deal to end the war with the US requires Israel to withdraw from Lebanon",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMU9UVU0xalpEMWRiaWd2TmRycmtVR0x4aXhhOUFEaTZpbzFRY3l0YzRqb0NxcVZDa2NDX3NscUJfeDNrbkh0bXA4OXNtaEFCU0t0X0w3Q2lfMDNlWUY2SDhDMnRrTVdVUENVQnNmWXRqZ0sydXBVVmU3aEExX3NKOEdaUFo5b0FFWUZTRl9Ia09QQy1IUlBpNW5FaUVUd1lKajRnXy1B?oc=5",
-  "source": "AP",
-  "summary_tr": "İran, ABD ile savaşı bitirme anlaşmasının İsrail'in Lübnan'dan çekilmesini gerektirdiğini belirtti.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-16T18:01:22.150390+00:00",
-  "cluster_id": "c37c140862da7"
- },
- {
-  "title": "Türkiye'ye Patriot'tan sonra SAMP-T kalkanı",
-  "link": "https://www.dw.com/tr/türkiye-ye-patriot-tan-sonra-samp-t-kalkanı/a-77581636?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "NATO Zirvesi'ne ev sahipliği yapan Türkiye'ye Alman Patriot füzelerinden sonra İtalyan SAMP-T hava savunma sistemi de konuşlandırılıyor.",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-16T18:01:22.150390+00:00",
-  "cluster_id": "c6250b69b4bd5"
  }
 ]
