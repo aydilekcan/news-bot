@@ -1,5 +1,65 @@
 [
  {
+  "title": "Rusya’dan akaryakıt piyasasını etkileyecek karar",
+  "link": "https://www.sozcu.com.tr/rusya-dan-akaryakit-piyasasini-etkileyecek-karar-p339742",
+  "source": "Sözcü",
+  "summary_tr": "Rusya, benzin ihracatına yönelik yasağın süresini uzattı ve iç piyasadaki arz güvenliğini sağlamayı hedefledi; akaryakıt piyasasını etkileyecek karar.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-25T21:00:55.366781+00:00",
+  "type": "news",
+  "cluster_id": "c55f9e699eb40"
+ },
+ {
+  "title": "Ukrayna İran gemisini vurdu",
+  "link": "https://www.sozcu.com.tr/ukrayna-iran-gemisini-vurdu-p339744",
+  "source": "Sözcü",
+  "summary_tr": "Ukrayna, Hazar Denizi'nde İran'a ait ticaret gemisini vurdu; saldırıda bir denizcinin hayatını kaybetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-25T21:00:55.366781+00:00",
+  "type": "news",
+  "cluster_id": "c48275d98cd93"
+ },
+ {
+  "title": "Ukrayna'nın Hazar Denizi'nde İran'ın ticaret gemisine yönelik saldırısına ülkeden kınama",
+  "link": "https://www.aa.com.tr/tr/dunya/ukraynanin-hazar-denizinde-iranin-ticaret-gemisine-yonelik-saldirisina-ulkeden-kinama/4009430",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Dışişleri Bakanlığı, Ukrayna'nın Hazar Denizi'nde ticaret gemisine düzenlediği saldırıyı kınadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-25T21:00:55.366781+00:00",
+  "type": "news",
+  "cluster_id": "ce353486d846c"
+ },
+ {
+  "title": "Ukrayna İran gemisine saldırdı",
+  "link": "https://www.trthaber.com/haber/dunya/ukrayna-iran-gemisine-saldirdi-952209.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ukrayna, Hazar Denizi'nde İran'a ait ticaret gemisine saldırdı; İran'dan tepki geldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-25T21:00:55.366781+00:00",
+  "type": "news",
+  "cluster_id": "c1b2e5c33898e"
+ },
+ {
+  "title": "Iran says Ukrainian attack on vessel in Caspian Sea killed sailor",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdWtpdWZ4NW1EX0RFb3dCV1hZYVU3ZmFESlp6Qnhhd2VLX1VXc293dFp6LUF0Mlo4YWdReXhWNGNkVWNqQS1hZmJjekx4aE1QbVJiaWp1Wl82RVVDdldZVFRhaEs2VEJPRWRRbkpQX0tDbEZ4U3FFdmVUWERaTDBHVmh1Y25RS2lpaWhhSmVzcHlUcmZzeUx4RDRobEl4aDZOYVA0T01lYWVOVDZV?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran, Ukrayna'nın Caspian Denizi'nde gemisine düzenlediği saldırıda bir denizcinin öldüğünü bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-25T21:00:55.366781+00:00",
+  "type": "news",
+  "cluster_id": "cb281cded0c0f"
+ },
+ {
   "title": "35 il için alarm: AFAD’dan 13 ile turuncu, 22 ile sarı kod uyarısı",
   "link": "https://www.sozcu.com.tr/35-il-icin-alarm-afad-dan-13-ile-turuncu-22-ile-sari-kod-uyarisi-p339737",
   "source": "Sözcü",
@@ -59938,65 +59998,5 @@
   "ts": "2026-06-16T22:01:12.648935+00:00",
   "type": "news",
   "cluster_id": "c1b997a814471"
- },
- {
-  "title": "Ukrayna’da bombardıman uçağı düştü",
-  "link": "https://www.sozcu.com.tr/ukrayna-da-bombardiman-ucagi-dustu-p328567",
-  "source": "Sözcü",
-  "summary_tr": "Ukrayna Hava Kuvvetleri'ne ait Su-24M bombardıman uçağı Hmelnitski bölgesinde görev uçuşu sırasında düştü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-16T22:01:12.648935+00:00",
-  "type": "news",
-  "cluster_id": "c1b997a814471"
- },
- {
-  "title": "İsrail basını: ABD, İsrail'in Gazze'ye saldırısını durdurdu",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-basini-abd-israilin-gazzeye-saldirisini-durdurdu/3969188",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail basınına göre ABD Başkanı Trump, İsrail'in Gazze'ye başlatmayı planladığı yeni saldırıyı durdurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-16T22:01:12.648935+00:00",
-  "type": "news",
-  "cluster_id": "c16ca60d5ceeb"
- },
- {
-  "title": "Beyaz et operasyonunda geri adım: Mahkeme 4 şirkete kayyım kararı uygulamasını durdurdu",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/beyaz-et-operasyonunda-geri-adim-mahkeme-4-sirkete-kayyim-karari-uygulamasini-durdurdu-2512834",
-  "source": "Cumhuriyet",
-  "summary_tr": "Mahkeme, beyaz et operasyonunda Gedik Piliç, Erpiliç, Keskinoğlu ve Lezita'ya atanan kayyım kararını uygulamayı durdurdu.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-16T22:01:12.648935+00:00",
-  "type": "news",
-  "cluster_id": "ce2da207cf31a"
- },
- {
-  "title": "Beyaz et operasyonunda geri adım: Mahkeme 4 şirkete kayyumu kaldırdı",
-  "link": "https://www.sozcu.com.tr/beyaz-et-operasyonunda-geri-adim-mahkeme-4-sirkete-kayyumu-kaldirdi-p328570",
-  "source": "Sözcü",
-  "summary_tr": "Mahkeme, beyaz et sektörü soruşturmasında denetim kayyımı atanan 4 şirkete kayyım kaldırılmasını onayladı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-16T22:01:12.648935+00:00",
-  "type": "news",
-  "cluster_id": "ce2da207cf31a"
- },
- {
-  "title": "ABD ve İran el sıkıştı; anlaşmanın maddeleri ortaya çıktı",
-  "link": "https://www.sozcu.com.tr/abd-iran-anlasmasinin-maddeleri-p328555",
-  "source": "Sözcü",
-  "summary_tr": "ABD ile İran arasında varılan anlaşmanın 14 maddesi kamuoyuna sızdı; anlaşmada savaşın sona ermesi yer alıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-16T21:01:16.250948+00:00",
-  "type": "news",
-  "cluster_id": "c822674b79922"
  }
 ]
