@@ -1,5 +1,29 @@
 [
  {
+  "title": "İktidara yakın Hak-İş’ten asgaride ‘hile’ uyarısı",
+  "link": "https://www.sozcu.com.tr/iktidara-yakin-hak-is-ten-asgaride-hile-uyarisi-p339549",
+  "source": "Sözcü",
+  "summary_tr": "Hak-İş sendikası, iktidarın bölgesel asgari ücret getirilmesine yönelik çabalarına karşı işçi örgütlerinden sert tepki geldiğini bildirdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-25T03:01:00.900794+00:00",
+  "type": "news",
+  "cluster_id": "c8dd5820a8bdd"
+ },
+ {
+  "title": "Dostum Trump'tan vergi hediyesi",
+  "link": "https://www.sozcu.com.tr/dostum-trump-tan-vergi-hediyesi-p339548",
+  "source": "Sözcü",
+  "summary_tr": "ABD, Türkiye'ye yüzde 12.5 oranında gümrük vergisi uyguladığı belirtildi.",
+  "metric": "Gümrük vergisi oranı %12.5",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-25T03:01:00.900794+00:00",
+  "type": "news",
+  "cluster_id": "c77c9ac673995"
+ },
+ {
   "title": "İktidar önceki gece TBMM Genel Kurulu’nda farklı bir yol izledi: Muhalefeti susturma taktiği!",
   "link": "https://www.cumhuriyet.com.tr/turkiye/iktidar-onceki-gece-tbmm-genel-kurulu-nda-farkli-bir-yol-izledi-muhalefeti-susturma-taktigi-2523655",
   "source": "Cumhuriyet",
@@ -59858,25 +59882,5 @@
   "score": 6,
   "ts": "2026-06-16T13:01:25.542870+00:00",
   "cluster_id": "cc7fc3a572a97"
- },
- {
-  "title": "AYM'den kritik karar: Erdoğan'ın bir yetkisi iptal edildi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/aym-den-kritik-karar-erdogan-in-bir-yetkisi-iptal-edildi-2512659",
-  "source": "Cumhuriyet",
-  "summary_tr": "Anayasa Mahkemesi, endüstri bölgelerine sınırsız teşvik veren Cumhurbaşkanı yetkisini iptal etti.",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-06-16T12:01:20.476034+00:00",
-  "cluster_id": "c6fe19441ce9f"
- },
- {
-  "title": "Trump, nükleer silah edinmesi halinde İran'ın \"akıl almaz\" sonuçlarla karşılaşacağını söyledi",
-  "link": "https://www.aa.com.tr/tr/dunya/trump-nukleer-silah-edinmesi-halinde-iranin-akil-almaz-sonuclarla-karsilasacagini-soyledi/3968640",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Trump, İran'ın nükleer program geliştirmesi halinde 'akıl almaz' sonuçlarla karşılaşacağını söyledi.",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-16T12:01:20.476034+00:00",
-  "cluster_id": "c1ba6c7bc77f6"
  }
 ]
