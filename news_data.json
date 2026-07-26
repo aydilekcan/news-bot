@@ -1,5 +1,41 @@
 [
  {
+  "title": "İran: Ukrayna yakında İran'ın hiçbir eylemi karşılıksız bırakmadığını anlayabilir",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-ukrayna-yakinda-iranin-hicbir-eylemi-karsiliksiz-birakmadigini-anlayabilir/4010033",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Meclisi Ulusal Güvenlik Komisyonu Başkanı, Ukrayna'nın Hazar Denizi'ndeki İran gemisine düzenlediği saldırıya karşılık vereceğini duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-26T22:01:02.759261+00:00",
+  "type": "news",
+  "cluster_id": "cea876f00d5d7"
+ },
+ {
+  "title": "İran: Ukrayna İran'ın hiçbir eylemi karşılıksız bırakmadığını yakında anlayabilir",
+  "link": "https://www.trthaber.com/haber/dunya/iran-ukrayna-iranin-hicbir-eylemi-karsiliksiz-birakmadigini-yakinda-anlayabilir-952272.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Meclisi Ulusal Güvenlik ve Dış Politika Komisyonu Başkanı, Ukrayna'nın İran gemisine yönelik saldırısına karşılık vereceğini bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-26T22:01:02.759261+00:00",
+  "type": "news",
+  "cluster_id": "cea876f00d5d7"
+ },
+ {
+  "title": "İşgalci İsrail'in Lübnan'a düzenlediği saldırılarda ölenlerin sayısı 4 bin 332'ye yükseldi",
+  "link": "https://www.trthaber.com/haber/dunya/isgalci-israilin-lubnana-duzenledigi-saldirilarda-olenlerin-sayisi-4-bin-332ye-yukseldi-952269.html",
+  "source": "TRT Haber",
+  "summary_tr": "Lübnan Sağlık Bakanlığı, İsrail saldırılarında hayatını kaybedenlerin sayısının 4 bin 332'ye yükseldiğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-26T22:01:02.759261+00:00",
+  "type": "news",
+  "cluster_id": "c706cacb308f8"
+ },
+ {
   "title": "Iran says it will halt strikes as long as US bombing pause holds",
   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2hvLTRwU3J1WVZCTlA0WFVNRmhXdDVkTWhwQkdDTFZzbEVpYmRBUUppcjJudFY2M3JpQ3lzT0I0SkM4VFlmSk8xb0RuX192WjQ2dE9nbjJkUFFMTHFyZDh2c1ktdDJpSmtmdXJPYW5wNXRuM1hsQ0RqYkE4X3d1aDZ1SkpUM3ltc0h2NFNZbmpvZFhYa0ZJTlEyR0JkdDZvYWRUYXBRZE41YkVEdjV4VEZVb0hSSUxOQlFwT1U4X1FfNjJrbmhaSVkyT0w0Zw?oc=5",
   "source": "Reuters",
@@ -59962,41 +59998,5 @@
   "ts": "2026-06-17T13:01:16.269728+00:00",
   "type": "news",
   "cluster_id": "c1aa866149648"
- },
- {
-  "title": "Altında yükseliş hızlanacak mı? Bankacılık devi açıkladı",
-  "link": "https://www.sozcu.com.tr/altinda-yukselis-hizlanacak-mi-bankacilik-devi-acikladi-p328810",
-  "source": "Sözcü",
-  "summary_tr": "Saxo Bank, altın fiyatlarındaki düşüşe rağmen uzun vadeli yükseliş trendinin korunduğunu değerlendirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-17T13:01:16.269728+00:00",
-  "type": "news",
-  "cluster_id": "c8a331d1cfbfd"
- },
- {
-  "title": "Japonya'dan Hürmüz'de güvenli geçiş ve ABD-İran arasında \"en kısa sürede\" nihai anlaşma çağrısı",
-  "link": "https://www.aa.com.tr/tr/dunya/japonyadan-hurmuzde-guvenli-gecis-ve-abd-iran-arasinda-en-kisa-surede-nihai-anlasma-cagrisi/3969787",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Japonya, Hürmüz Boğazı'nda güvenli geçişin sağlanması ve ABD-İran arasında anlaşmaya varılmasını çağırdı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-17T13:01:16.269728+00:00",
-  "type": "news",
-  "cluster_id": "c34b4f8b39824"
- },
- {
-  "title": "Almanya ve Fransa'dan AB'de \"dijital egemenlik\" hamlesi",
-  "link": "https://www.aa.com.tr/tr/bilim-teknoloji/almanya-ve-fransadan-abde-dijital-egemenlik-hamlesi/3969748",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Almanya ve Fransa, AB'de dijital egemenliği artırmak amacıyla ortak hamle başlattı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-17T13:01:16.269728+00:00",
-  "type": "news",
-  "cluster_id": "c71d288519d0c"
  }
 ]
