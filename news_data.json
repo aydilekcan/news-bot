@@ -1,5 +1,17 @@
 [
  {
+  "title": "Şara, Cumhurbaşkanı Erdoğan’ın Suriye'ye yaptırımların kaldırılması için arabuluculuk yaptığını söyledi",
+  "link": "https://www.aa.com.tr/tr/dunya/sara-cumhurbaskani-erdogan-in-suriyeye-yaptirimlarin-kaldirilmasi-icin-arabuluculuk-yaptigini-soyledi/4010032",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Suriye Cumhurbaşkanı Şara, Türkiye'nin Suriye'ye yönelik yaptırımların kaldırılması için arabuluculuk yaptığını açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-26T23:01:03.796192+00:00",
+  "type": "news",
+  "cluster_id": "cd2a488cd4769"
+ },
+ {
   "title": "İran: Ukrayna yakında İran'ın hiçbir eylemi karşılıksız bırakmadığını anlayabilir",
   "link": "https://www.aa.com.tr/tr/dunya/iran-ukrayna-yakinda-iranin-hicbir-eylemi-karsiliksiz-birakmadigini-anlayabilir/4010033",
   "source": "Anadolu Ajansı",
@@ -59986,17 +59998,5 @@
   "ts": "2026-06-17T13:01:16.269728+00:00",
   "type": "news",
   "cluster_id": "c692c389807d1"
- },
- {
-  "title": "İstanbul'da 10 saatlik kesinti... 5 ilçeye su verilemeyecek",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-10-saatlik-kesinti-5-ilceye-su-verilemeyecek-2512985",
-  "source": "Cumhuriyet",
-  "summary_tr": "İstanbul'da İSKİ çalışmaları nedeniyle 5 ilçeye 10 saat su verilemeyecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-17T13:01:16.269728+00:00",
-  "type": "news",
-  "cluster_id": "c1aa866149648"
  }
 ]
