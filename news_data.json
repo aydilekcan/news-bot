@@ -1,5 +1,29 @@
 [
  {
+  "title": "ATM'ler 24 saat boyunca altın satacak: Türkiye'de yeni dönem başladı",
+  "link": "https://www.sozcu.com.tr/atm-ler-24-saat-boyunca-altin-satacak-turkiye-de-yeni-donem-basladi-p339778",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye'de altın ATM'leri üzerinden 24 saat satış yapılmaya başlandı. Vatandaşlar artık bu kanallardan doğrudan altın satın alabilecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-26T05:01:03.450389+00:00",
+  "type": "news",
+  "cluster_id": "cf173395fc5bf"
+ },
+ {
+  "title": "Türk mobilya devi 3 kere el değiştirdi, artık resmen satıldı",
+  "link": "https://www.sozcu.com.tr/turk-mobilya-devi-3-kere-el-degistirdi-artik-resmen-satildi-p339771",
+  "source": "Sözcü",
+  "summary_tr": "Türk mobilya firması Vivense resmen satıldı. 87 mağazalık Avrupa operasyonuyla sektörün güçlü oyuncularından olan şirket kurumsal tarihinde 3. kez el değiştirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-26T05:01:03.450389+00:00",
+  "type": "news",
+  "cluster_id": "cb558556fbc8d"
+ },
+ {
   "title": "#enflasyok beklentisi",
   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BdEtvLTdNVUhiSktWaDhZUnZkVGlUOWVwMzFfNXU1ZkYybmdyLUxNWWFJR2FPTEJhRzRSLURUQ3JiTFpFVWNMNFBwSjNGOU91d1RHcm8zNnBkRUw2OW5wbA?oc=5",
   "source": "T24",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-17T04:01:02.354992+00:00",
   "type": "news",
   "cluster_id": "c8a4c0da969a3"
- },
- {
-  "title": "Ambani's Jio set to file for India IPO within days, FT reports",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZXYtOXk2SEhGS0djQ20ybkVfQzlvRVR4SzlFZ0JRc2hTZlZhWnB6S2gtc3VmQ1k0YzFpMVRaYjB6S2V3cTc3WDloUGowWEtnMk5tRjBPX1QxbzlKYXQzbUhRbllrX1dySFpVbmRWa0lnbFkwOW5SbjktUElZLWNXUFV3U3VuS3BVSHBJc1FkcTVuR0Y4TndrZGdsbndDbnNfYmN3?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ambani'nin Jio şirketi, günler içinde Hindistan'da halka arz başvurusunu yapacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-17T04:01:02.354992+00:00",
-  "type": "news",
-  "cluster_id": "cb337d93a2ce6"
- },
- {
-  "title": "CHP'de kritik gün: Olağanüstü kurultay imzaları Kılıçdaroğlu'na sunuluyor",
-  "link": "https://www.bbc.com/turkce/articles/cgevnnyxl84o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "CHP'de Özgür Özel yönetimi, olağanüstü kurultay için 900'e yakın delege imzasını Genel Başkan Kılıçdaroğlu'na sundu. Parti içinde kritik siyasi gelişme yaşanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-17T03:01:07.242044+00:00",
-  "type": "news",
-  "cluster_id": "cbbc169f49fbc"
  }
 ]
