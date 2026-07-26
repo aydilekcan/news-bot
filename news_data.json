@@ -1,5 +1,29 @@
 [
  {
+  "title": "Iran says it will halt strikes as long as US bombing pause holds",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2hvLTRwU3J1WVZCTlA0WFVNRmhXdDVkTWhwQkdDTFZzbEVpYmRBUUppcjJudFY2M3JpQ3lzT0I0SkM4VFlmSk8xb0RuX192WjQ2dE9nbjJkUFFMTHFyZDh2c1ktdDJpSmtmdXJPYW5wNXRuM1hsQ0RqYkE4X3d1aDZ1SkpUM3ltc0h2NFNZbmpvZFhYa0ZJTlEyR0JkdDZvYWRUYXBRZE41YkVEdjV4VEZVb0hSSUxOQlFwT1U4X1FfNjJrbmhaSVkyT0w0Zw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran ABD'nin hava saldırısı durmadığı sürece kendi saldırılarını durduracağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-26T21:00:58.574338+00:00",
+  "type": "news",
+  "cluster_id": "cda6b5e4dea52"
+ },
+ {
+  "title": "İran Petrol Bakanlığı: Petrol satışımız 4 ayda 11 milyar doları geçti",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-petrol-bakanligi-petrol-satisimiz-4-ayda-11-milyar-dolari-gecti/4010023",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran'ın petrol satışları 4 ayda 11 milyar doları aştı (21 Mart-22 Temmuz).",
+  "metric": "İran petrol satışları (4 ay) 11 milyar dolar +",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-26T21:00:58.574338+00:00",
+  "type": "news",
+  "cluster_id": "caa86bc04c1e0"
+ },
+ {
   "title": "Arap Birliği'nden Trump'a katil İsrail'in işgal ve ihlallerini durdurma çağrısı",
   "link": "https://www.trthaber.com/haber/dunya/arap-birliginden-trumpa-katil-israilin-isgal-ve-ihlallerini-durdurma-cagrisi-952267.html",
   "source": "TRT Haber",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-17T13:01:16.269728+00:00",
   "type": "news",
   "cluster_id": "c71d288519d0c"
- },
- {
-  "title": "İran'ı uyardı: 'Eğer kurallara uymazlarsa bombalara döneriz'",
-  "link": "https://www.sozcu.com.tr/iran-i-uyardi-eger-kurallara-uymazlarsa-bombalara-doneriz-p328781",
-  "source": "Sözcü",
-  "summary_tr": "ABD Başkanı Trump G7 zirvesinde İran'ı uyararak kurallara uymaması halinde bombalama yapabileceğini belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-17T12:01:23.762600+00:00",
-  "type": "news",
-  "cluster_id": "c892e3a76a421"
- },
- {
-  "title": "TÜİK açıkladı: Türkiye’nin satın alma gücü Avrupa ortalamasının gerisinde kaldı",
-  "link": "https://www.sozcu.com.tr/tuik-acikladi-turkiye-nin-satin-alma-gucu-avrupa-ortalamasinin-gerisinde-kaldi-p328780",
-  "source": "Sözcü",
-  "summary_tr": "TÜİK 2025 yılı verisine göre Türkiye'nin satın alma gücü Avrupa ortalamasının gerisinde kaldığını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-17T12:01:23.762600+00:00",
-  "type": "news",
-  "cluster_id": "caec753cda173"
  }
 ]
