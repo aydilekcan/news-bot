@@ -1,5 +1,29 @@
 [
  {
+  "title": "3 dolarlık et sofrada 22 dolar",
+  "link": "https://www.sozcu.com.tr/3-dolarlik-et-sofrada-22-dolar-p339760",
+  "source": "Sözcü",
+  "summary_tr": "Brezilya'dan ithal edilen et, 3 dolardan 22 dolara çıkıyor; vatandaş 7,3 kat daha yüksek fiyat ödüyor.",
+  "metric": "Et fiyatı 3 USD -> 22 USD (+%633)",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-26T01:00:58.531534+00:00",
+  "type": "news",
+  "cluster_id": "c656a9b0b78c2"
+ },
+ {
+  "title": "Vergi yetmedi borç rekor kırdı",
+  "link": "https://www.sozcu.com.tr/vergi-yetmedi-borc-rekor-kirdi-p339759",
+  "source": "Sözcü",
+  "summary_tr": "Hazine rekor vergi geliri elde etmesine rağmen yüksek faizle borçlanmayı sürdürüyor; devlet borç rekoru kırıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-26T01:00:58.531534+00:00",
+  "type": "news",
+  "cluster_id": "c951cc4ca79f9"
+ },
+ {
   "title": "Brazil officials say visa requests denied to Trump officials ahead of election",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcFVGYU1LZGlpcDFxdUZsdEhGVVhaX2w4eXlnbmZvN2FJdXUwM2wySWxaMWhvVEZzRUFWWkdkc0JxajBsbkFId3hBRTVsX2VJRkRJX2JKRXFUajNja05FSUFjUWFuaXlLcmZtbXgtUkt0MDFiREdySVotemhGWm1BNmxEU2ZZOWc2S09fYUEyMzlZbXVleVZBaHZOdlZ3RDBIdGJhY0ttYTllUkZzVlYtMTFmeUN2MDA?oc=5",
   "source": "Reuters",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-17T02:01:04.351724+00:00",
   "type": "news",
   "cluster_id": "ca3cb94c4b2a9"
- },
- {
-  "title": "Beceriksizliğin ödülü 8 milyar TL",
-  "link": "https://www.sozcu.com.tr/beceriksizligin-odulu-8-milyar-tl-p328587",
-  "source": "Sözcü",
-  "summary_tr": "Devletin milyarlarca lirasının plansızlığa harcanması ekonomik krizle karşıtlaştırıldı; operasyonal israfın boyutu eleştirildi.",
-  "metric": "8 milyar TL",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-17T01:01:02.754751+00:00",
-  "type": "news",
-  "cluster_id": "caf25ca6bb1ff"
- },
- {
-  "title": "'Beyaz et' operasyonunun ardından kırmızı ete dev zam",
-  "link": "https://www.sozcu.com.tr/beyaz-et-operasyonunun-ardindan-kirmizi-ete-dev-zam-p328585",
-  "source": "Sözcü",
-  "summary_tr": "Et ve Süt Kurumu'nun marketlerle protokolü sonrası kırmızı ete önemli fiyat artışı uygulandı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-17T01:01:02.754751+00:00",
-  "type": "news",
-  "cluster_id": "c7d8f0a1cad04"
  }
 ]
