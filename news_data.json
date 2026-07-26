@@ -1,5 +1,41 @@
 [
  {
+  "title": "DEM Parti Eş Genel Başkanı Tuncer Bakırhan'dan 'çerçeve yasa' açıklaması",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/dem-parti-es-genel-baskani-tuncer-bakirhan-dan-cerceve-yasa-aciklamasi-2523951",
+  "source": "Cumhuriyet",
+  "summary_tr": "DEM Parti Eş Genel Başkanı Tuncer Bakırhan, 'Terörsüz Türkiye süreci' kapsamında hazırlanan çerçeve yasanın bu hafta TBMM'ye gelmesini beklediklerini açıkladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-26T13:01:41.651821+00:00",
+  "type": "news",
+  "cluster_id": "c7cf4bfa8f6fc"
+ },
+ {
+  "title": "Yargıtay, CHP'nin \"mutlak butlan\" kararını ön incelemeye aldı",
+  "link": "https://www.aa.com.tr/tr/gundem/yargitay-chpnin-mutlak-butlan-kararini-on-incelemeye-aldi/4009768",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Yargıtay, Ankara Bölge Adliye Mahkemesinin CHP kurultay davasında 'mutlak butlan' nedeniyle verdiği kararı ön incelemeye aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-26T13:01:41.651821+00:00",
+  "type": "news",
+  "cluster_id": "c8aa9570920e3"
+ },
+ {
+  "title": "Güzellik ekonomisi büyüyor: Türkiye kişisel bakım turizminde yeni bir çekim merkezi olabilir",
+  "link": "https://www.sozcu.com.tr/guzellik-ekonomisi-buyuyor-turkiye-kisisel-bakim-turizminde-yeni-bir-cekim-merkezi-olabilir-p339885",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye'de hızla büyüyen güzellik ve kişisel bakım sektörü, ekonomik büyümeye katkı sağlayıp kişisel bakım turizminde yeni bir çekim merkezi olabilir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-26T13:01:41.651821+00:00",
+  "type": "news",
+  "cluster_id": "c095c57941bbf"
+ },
+ {
   "title": "Gözler eylüle çevrildi: Mutlak butlan kararı Yargıtay'da 'ön inceleme' aşamasında",
   "link": "https://www.cumhuriyet.com.tr/siyaset/gozler-eylule-cevrildi-mutlak-butlan-karari-yargitay-da-on-inceleme-asamasinda-2523942",
   "source": "Cumhuriyet",
@@ -59962,41 +59998,5 @@
   "ts": "2026-06-17T09:01:27.075645+00:00",
   "type": "news",
   "cluster_id": "c52141ceda767"
- },
- {
-  "title": "Clinton, ABD Dışişleri Bakanı olduğu dönem, Netanyahu'nun İran konusunda \"takıntılı\" olduğunu söyledi",
-  "link": "https://www.aa.com.tr/tr/dunya/clinton-abd-disisleri-bakani-oldugu-donem-netanyahunun-iran-konusunda-takintili-oldugunu-soyledi/3969478",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Eski ABD Dışişleri Bakanı Hillary Clinton, bakan olduğu dönemde İsrail Başbakanı Netanyahu'nun İran'a saldırı konusunda 'takıntılı' olduğunu söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-17T09:01:27.075645+00:00",
-  "type": "news",
-  "cluster_id": "caed3f33f5aaf"
- },
- {
-  "title": "Rekabet Kurulu’nda süt dosyası: 70’i aşkın firma inceleniyor",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFRHZWJEUGUzT2hQWUEwbldfUS1hRGJ3VzZlaHdvcjNzTTFTVlRiSS03M0NjSUdyUTJmbzlkd1BVcXJPeUE3LW9rdG1PWDN0Z0lHVkFLdGgxTGpYSzBSRzJndF9ZM1NmTTJQX2V0U21LblJXVUdWSHRmYXV6ekpNQVExbFE5OUp5eFg0VGZOUnRad29PWVhMV1RKZw?oc=5",
-  "source": "soL",
-  "summary_tr": "Rekabet Kurulu'nda süt sektörü dosyası: 70'i aşkın firma inceleme kapsamında bulunuyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-17T09:01:27.075645+00:00",
-  "type": "news",
-  "cluster_id": "c4588f2d0b110"
- },
- {
-  "title": "‘Erdoğan 38 vekili bulmadan seçime gitmeyecek’ çıkışı: Erdoğan'ın zorlanmayacağı sınav...",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYy1hUzJaTXh2R3dNa2FLQkVQaXFSdUk3VVZSRDVlTkhGWmVHVDlvbjM2dzdmeVEwWFRPTEJwVjdielpQdXcteXJHT1lTb2taMjJFM0hlQjNGWlAtLVMtQXRkbkJpSDVqT1B6OW1nNldqSDNhNlBoeGdJVXB0SV9tcnVjdElJZXp5QWd1UGdwRGNQZFRad1Z5YVgyUUFjQ2lsTDFULWJXeEhhRlBMMUtBUWFhVTZRcktBSHUyXw?oc=5",
-  "source": "soL",
-  "summary_tr": "Söylenenlere göre Cumhurbaşkanı Erdoğan, 38 vekil bulmadan erken seçime gitmeyeceği öne sürülüyor. Partide vekil sıkıntısı imasında bulunuluyor.",
-  "metric": "Hedef: 38 vekil",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-17T09:01:27.075645+00:00",
-  "type": "news",
-  "cluster_id": "cec53042ba891"
  }
 ]
