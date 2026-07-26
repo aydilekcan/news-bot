@@ -1,5 +1,17 @@
 [
  {
+  "title": "Faik Öztrak CHP Grup Başkanı seçildi, “üçüncü yol” diyenler müdahale olduğunu iddia etti",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85eHphUEp2OW0yd0VxSWYyMnAyb2dySkxGVHpnMDBwTkxwaXBJSEoyRDJQS1YxeFBGZUg2dEN0LWFCakEwV2s2Y3JTUkJNcTVkeWhkR0dXTjFzUWZNWVl0VElrYlljdjYybkplWnRWb3Z0OXhSNzVQbnVB?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Faik Öztrak, CHP Grup Başkanı olarak seçildi. 'Üçüncü yol' söylemlilerin müdahale olduğunu iddia ettiler.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-26T18:01:02.450103+00:00",
+  "type": "news",
+  "cluster_id": "cc3af269f675c"
+ },
+ {
   "title": "İran'dan Ukrayna'ya sert yanıt: Saldırı cevapsız kalmayacak",
   "link": "https://www.sozcu.com.tr/iran-dan-ukrayna-ile-ilgili-aciklama-26-temmuz-2026-p339932",
   "source": "Sözcü",
@@ -59986,17 +59998,5 @@
   "ts": "2026-06-17T11:01:15.671508+00:00",
   "type": "news",
   "cluster_id": "cdf39ebbe00d2"
- },
- {
-  "title": "İsrailli bakandan İran çıkışı: Tahran yönetimini devirmek için çalışacağız",
-  "link": "https://www.cumhuriyet.com.tr/dunya/israilli-bakandan-iran-cikisi-tahran-yonetimini-devirmek-icin-calisacagiz-2512954",
-  "source": "Cumhuriyet",
-  "summary_tr": "İsrail Maliye Bakanı Smotrich, ABD-İran mutabakatına rağmen Tahran yönetimini devirmek için çalışacağını açıkladı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-17T11:01:15.671508+00:00",
-  "type": "news",
-  "cluster_id": "c346486cc42f3"
  }
 ]
