@@ -1,5 +1,41 @@
 [
  {
+  "title": "Fed, temmuz toplantısına belirsizliklerin gölgesinde gidiyor",
+  "link": "https://www.sozcu.com.tr/fed-temmuz-toplantisina-belirsizliklerin-golgesinde-gidiyor-p339860",
+  "source": "Sözcü",
+  "summary_tr": "ABD'de haziranda yıllık enflasyon yavaşlaması kaydetmesi, gelecek haftaki Fed toplantısında faiz artırımı beklentilerine etki yapıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-26T10:01:05.317389+00:00",
+  "type": "news",
+  "cluster_id": "cf3c5dfd400cd"
+ },
+ {
+  "title": "Saray'dan ilk açıklama: Erdoğan'ın başdanışmanı Mehmet Uçum'dan Yeni Parti 'tespiti'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/saray-dan-ilk-aciklama-erdogan-in-basdanismani-mehmet-ucum-dan-yeni-parti-tespiti-2523920",
+  "source": "Cumhuriyet",
+  "summary_tr": "Cumhurbaşkanı Erdoğan'ın Başdanışmanı Mehmet Uçum, CHP'den ayrılan 91 milletvekilinin kurduğu Yeni Parti'ye ilişkin açıklama yaptı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-26T10:01:05.317389+00:00",
+  "type": "news",
+  "cluster_id": "cc47bc3b6e8ae"
+ },
+ {
+  "title": "Katılım sigortacılığının prim üretimi artışı yılın ilk yarısında yüzde 50'yi aştı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/katilim-sigortaciliginin-prim-uretimi-artisi-yilin-ilk-yarisinda-yuzde-50yi-asti/4009582",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Katılım sigortacılığının prim üretimi 2026 ilk yarısında geçen yılın aynı dönemine göre yüzde 50,1 artarak 48 milyar 843 milyon liraya ulaştı.",
+  "metric": "Prim üretimi artışı +%50,1",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-26T10:01:05.317389+00:00",
+  "type": "news",
+  "cluster_id": "c66e67f144bf2"
+ },
+ {
   "title": "Kuzey Kore Rusya'ya 30 bin asker mi gönderiyor?",
   "link": "https://www.dw.com/tr/kuzey-kore-rusya-ya-30-bin-asker-mi-gönderiyor/a-78118437?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59962,41 +59998,5 @@
   "ts": "2026-06-17T08:01:14.512628+00:00",
   "type": "news",
   "cluster_id": "cdcac5fb110fd"
- },
- {
-  "title": "Lastik piyasasında rekabet ihlali: Şirketlere 3,6 milyar liralık ceza",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM3dCanFYR2E4TlNfZUsxUDBIT1Y3VlZjYk5pV0hjOE5TbGx2eE9MOTFyUnltYlVSbzRJenhFVFNndTBTbUktM2lYdV9TejRyLVNybHVtTE4wSEJKY0NxSU9ZUThyUTkxQkFWUG5JbnJKczNLTF90cDQwSEU0VGNvV19mV2hFLVVmWWFWVXVERmlaYnNrWHBDcmlySEdCbE1jS0xwTW5aelE?oc=5",
-  "source": "soL",
-  "summary_tr": "Rekabet Kurulu, lastik piyasasında rekabet ihlali tespit ederek şirketlere 3,6 milyar lira ceza kesti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-17T08:01:14.512628+00:00",
-  "type": "news",
-  "cluster_id": "c32f61da9f8c2"
- },
- {
-  "title": "Seferihisar Belediyesine 'rüşvet' operasyonu, altı kişi gözaltında",
-  "link": "https://www.bbc.com/turkce/articles/c1eygdvp8w8o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "CHP'li Seferihisar Belediyesi'ne rüşvet iddiasıyla şafak operasyonu düzenlendi; 6 kişi gözaltına alındı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-17T08:01:14.512628+00:00",
-  "type": "news",
-  "cluster_id": "c810035e8c899"
- },
- {
-  "title": "24 ilde 32 ayrı organize suç örgütüne operasyon: 197 tutuklama",
-  "link": "https://www.sozcu.com.tr/24-ilde-32-ayri-organize-suc-orgutune-operasyon-197-tutuklama-p328689",
-  "source": "Sözcü",
-  "summary_tr": "24 ilde 32 organize suç örgütüne operasyon: 313 şüpheli yakalandı, 197'si tutuklandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-17T08:01:14.512628+00:00",
-  "type": "news",
-  "cluster_id": "c30941c71d634"
  }
 ]
