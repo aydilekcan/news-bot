@@ -1,5 +1,29 @@
 [
  {
+  "title": "YENİ Partili Karabat, Türkiye'deki 'dev faiz havuzunu' anlattı: 'Servet, finansal varlığı olan kesime akıyor'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/yeni-partili-karabat-turkiye-deki-dev-faiz-havuzunu-anlatti-servet-finansal-varligi-olan-kesime-akiyor-2523929",
+  "source": "Cumhuriyet",
+  "summary_tr": "YENİ Parti milletvekili Karabat, yüksek faiz politikalarının finansal varlık sahiplerini üretim yerine kazançlı çıkardığını eleştirdi; servet finansal kesime akıyor iddiası.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-26T11:01:02.530652+00:00",
+  "type": "news",
+  "cluster_id": "c75ee5525f727"
+ },
+ {
+  "title": "Kiracıların mecburen imzaladığı belge: Mahkeme kapılarına düşürüyor",
+  "link": "https://www.sozcu.com.tr/kiracilarin-mecburen-imzaladigi-belge-mahkeme-kapilarina-dusuruyor-p339868",
+  "source": "Sözcü",
+  "summary_tr": "Ev sahiplerinin kiracılara mecburen imzalattırdığı tahliye taahhütnameleri mahkeme kararlarında kiracıları dezavantajlı duruma düşürüyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-26T11:01:02.530652+00:00",
+  "type": "news",
+  "cluster_id": "c005e92e78d00"
+ },
+ {
   "title": "Fed, temmuz toplantısına belirsizliklerin gölgesinde gidiyor",
   "link": "https://www.sozcu.com.tr/fed-temmuz-toplantisina-belirsizliklerin-golgesinde-gidiyor-p339860",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-17T08:01:14.512628+00:00",
   "type": "news",
   "cluster_id": "cce0b7195b71b"
- },
- {
-  "title": "İran ile mutabakatın ardından ABD Senatosu, savaşı bitirmeye yönelik \"savaş yetkileri\" tasarısını reddetti",
-  "link": "https://www.aa.com.tr/tr/dunya/iran-ile-mutabakatin-ardindan-abd-senatosu-savasi-bitirmeye-yonelik-savas-yetkileri-tasarisini-reddetti/3969333",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Senatosunun İran ile savaş yetkileri tasarısını reddetti. İran ile savaş bitirmeye yönelik girişim başarısız oldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-17T08:01:14.512628+00:00",
-  "type": "news",
-  "cluster_id": "c9cfcd3e80dd2"
- },
- {
-  "title": "CNN: ABD istihbaratı, İran'ın Hürmüz Boğazı'nı \"istediği gibi\" kontrol edebileceğini düşünüyor",
-  "link": "https://www.aa.com.tr/tr/dunya/cnn-abd-istihbarati-iranin-hurmuz-bogazini-istedigi-gibi-kontrol-edebilecegini-dusunuyor/3969306",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD istihbaratı: İran, Hürmüz Boğazı'nı daha fazla kontrol edebilecek konumdadır. Jeopolitik risk artış gösteriyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-17T08:01:14.512628+00:00",
-  "type": "news",
-  "cluster_id": "cdcac5fb110fd"
  }
 ]
