@@ -1,5 +1,77 @@
 [
  {
+  "title": "İran'dan Ukrayna'ya sert yanıt: Saldırı cevapsız kalmayacak",
+  "link": "https://www.sozcu.com.tr/iran-dan-ukrayna-ile-ilgili-aciklama-26-temmuz-2026-p339932",
+  "source": "Sözcü",
+  "summary_tr": "İran Dışişleri sözcüsü, Ukrayna'nın Hazar Denizi'ndeki İran gemisine yönelik saldırının cevapsız kalmayacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-26T17:01:01.991517+00:00",
+  "type": "news",
+  "cluster_id": "cf86005be21ca"
+ },
+ {
+  "title": "İran bir ülkeyi daha hedefine aldı: Savaşın cephesi genişliyor mu?",
+  "link": "https://www.sozcu.com.tr/iran-bir-ulkeyi-daha-hedefine-aldi-savasin-cephesi-genisliyor-mu-p339926",
+  "source": "Sözcü",
+  "summary_tr": "İran, Ukrayna'nın Hazar Denizi'ndeki gemi saldırısına karşılık vermekle tehdit ederek gerilimi tırmandırdı; çatışmanın kapsamı genişliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-26T17:01:01.991517+00:00",
+  "type": "news",
+  "cluster_id": "cb0668d5e851c"
+ },
+ {
+  "title": "İran Dışişleri Bakanı, Ukrayna'nın gemi saldırısının \"cevapsız kalmayacağını\" belirtti",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-ukraynanin-gemi-saldirisinin-cevapsiz-kalmayacagini-belirtti/4009933",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Dışişleri Bakanı Erakçi, Ukrayna'nın gemi saldırısına karşılık verileceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-26T17:01:01.991517+00:00",
+  "type": "news",
+  "cluster_id": "cce39a62a8244"
+ },
+ {
+  "title": "Iran will halt attacks as long as US maintains pause, Iranian source says after Trump calls off strikes",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2hvLTRwU3J1WVZCTlA0WFVNRmhXdDVkTWhwQkdDTFZzbEVpYmRBUUppcjJudFY2M3JpQ3lzT0I0SkM4VFlmSk8xb0RuX192WjQ2dE9nbjJkUFFMTHFyZDh2c1ktdDJpSmtmdXJPYW5wNXRuM1hsQ0RqYkE4X3d1aDZ1SkpUM3ltc0h2NFNZbmpvZFhYa0ZJTlEyR0JkdDZvYWRUYXBRZE41YkVEdjV4VEZVb0hSSUxOQlFwT1U4X1FfNjJrbmhaSVkyT0w0Zw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran kaynakları, ABD ateşi durdurduğu sürece saldırıları durduracaklarını belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-26T17:01:01.991517+00:00",
+  "type": "news",
+  "cluster_id": "c6fc7d606e435"
+ },
+ {
+  "title": "Netanyahu, UCM'nin tutuklama kararına rağmen BM Genel Kurulu için ABD'ye gitmeyi planladığını söyledi",
+  "link": "https://www.aa.com.tr/tr/dunya/netanyahu-ucmnin-tutuklama-kararina-ragmen-bm-genel-kurulu-icin-abdye-gitmeyi-planladigini-soyledi/4009938",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Netanyahu, UCM tutuklama kararına rağmen BM Genel Kurulu için ABD'ye gitmeyi planladığını belirtti.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-26T17:01:01.991517+00:00",
+  "type": "news",
+  "cluster_id": "c1818a6091286"
+ },
+ {
+  "title": "İran: Hürmüz Boğazı'ndan barışçıl geçişlerin sağlanması ilkesine bağlılığımız sürüyor",
+  "link": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazindan-bariscil-gecislerin-saglanmasi-ilkesine-bagliligimiz-suruyor-952257.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Dışişleri Bakan Yardımcısı, ülkenin Hürmüz Boğazı'ndan barışçıl geçişlere bağlı kalması ve diplomasi aracılığıyla gerilimi tırmandırmamak istediğini vurguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-26T17:01:01.991517+00:00",
+  "type": "news",
+  "cluster_id": "ca08e570e1832"
+ },
+ {
   "title": "ABD ve İran karşılıklı saldırıları durdurdu mu?",
   "link": "https://www.bbc.com/turkce/articles/cvgvp3e2dgeo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-06-17T11:01:15.671508+00:00",
   "type": "news",
   "cluster_id": "c346486cc42f3"
- },
- {
-  "title": "Trump: İran ile çok güçlü bir anlaşma yaptık",
-  "link": "https://www.trthaber.com/haber/dunya/trump-iran-ile-cok-guclu-bir-anlasma-yaptik-948488.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD Başkanı Trump, Mısır'daki basın toplantısında İran ile çok güçlü bir anlaşma yaptıklarını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-17T11:01:15.671508+00:00",
-  "type": "news",
-  "cluster_id": "ce7ce2af11525"
- },
- {
-  "title": "İran medyası: ABD ile varılan mutabakatın metni imzalar atıldıktan sonra yayımlanacak",
-  "link": "https://www.trthaber.com/haber/dunya/iran-medyasi-abd-ile-varilan-mutabakatin-metni-imzalar-atildiktan-sonra-yayimlanacak-948479.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran medyasına göre ABD ile varılan mutabakat metni imzalar atıldıktan sonra kamuoyuyla paylaşılacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-17T11:01:15.671508+00:00",
-  "type": "news",
-  "cluster_id": "ced52563c4647"
- },
- {
-  "title": "G7 leaders demand ceasefire in Lebanon, welcome Iran deal",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSklNM1g3ZG9QYmFoMkJRS3o2T2ZRMTJ1azE5eG1YLU5TUXdEY1F5TkFBU01GMUt1UUstcHRrekJsOHBmRURqd2NTMVpzVVFoQlRPWHNvUVVQLU5ZRkJsNzZKNURTd01PQ1pubzFrR0UzdlMzbXU2RXBwLU9fT25GSU80UkRVcUlpWE9MOGhxYW4yS1lIbDJ3UkR5anJudnZPcDhhOHhqN3JxcWM?oc=5",
-  "source": "Reuters",
-  "summary_tr": "G7 liderler Lübnan'da ateşkes talebinde bulundu ve İran anlaşmasını destekledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-17T11:01:15.671508+00:00",
-  "type": "news",
-  "cluster_id": "ca83dced8a801"
- },
- {
-  "title": "G7 leaders unite in support to Ukraine, agree to add pressure on Russia",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNV9IcFpmX2M1SFdQLWVJNlIwQVR1dEhjbTVPSFBUY25tMDZsMEIzYXJUWWNvS0sxdWxhRFl0dHVyUXhzMkRxMkRlWDJjQVY1S3VzMGwzMmdkNWhpb0xZM08yWTIzdkozcnZtV1daU3N3cUJvd2NlUkJyblZSN2ZjbC1weHN2WEEwTDlLTnFucjFXUjN6cEw5ejd1OHM5dHduR1Z0dHFINEVmZEU?oc=5",
-  "source": "Reuters",
-  "summary_tr": "G7 liderler Ukrayna'ya destek birleştirdi ve Rusya'ya baskı artırmaya karar verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-17T11:01:15.671508+00:00",
-  "type": "news",
-  "cluster_id": "c00a0df2d1e5a"
- },
- {
-  "title": "G7 leaders back Trump’s plan to end Iran war that faces skepticism at home",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVnI2WGtqR3RNZGpvRVNISjI3SVhEM2tyX2VmRG1pZXZVRW1sTEFrNU8yWnFfeEo2LXV4U08wX0RuM3JhcWxzZEJ0c0RNTnNDSWZtYzVJVVhudVlJNHhSSGVQdm5SalJJY2tHT3BWNkpCQUc4MzNacVg0QTlKb1JkaUNpbnZYSTBZNmpBcmR1RQ?oc=5",
-  "source": "AP",
-  "summary_tr": "G7 liderler Trump'ın İran savaşını sona erdirme planını destekledi; ABD içinde şüpheciler var.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-17T11:01:15.671508+00:00",
-  "type": "news",
-  "cluster_id": "cee1e1c32f91c"
- },
- {
-  "title": "Avrupa ile makas kapanmıyor: Türkiye alım gücünde AB ortalamasının altında",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/avrupa-ile-makas-kapanmiyor-turkiye-alim-gucunde-ab-ortalamasinin-altinda-2512950",
-  "source": "Cumhuriyet",
-  "summary_tr": "TÜİK'in 2025 verisine göre Türkiye'nin satınalma gücü paritesi AB ortalamasının altında kalmaya devam ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-17T11:01:15.671508+00:00",
-  "type": "news",
-  "cluster_id": "ce42dc90ad5d8"
  }
 ]
