@@ -1,5 +1,41 @@
 [
  {
+  "title": "Özel: '200'den fazla belediye Yeni Parti'ye geçecek'",
+  "link": "https://www.bbc.com/turkce/articles/c5y4gr0521po?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "CHP'den istifa eden Özgür Özel, Yeni Parti'yi kurmuş ve 200'den fazla belediyenin partisine geçeceğini açıklamıştır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-27T20:01:05.913476+00:00",
+  "type": "news",
+  "cluster_id": "c68dd318d3056"
+ },
+ {
+  "title": "Melek Mızrak Subaşı adım adım Yeni Parti'ye",
+  "link": "https://www.sozcu.com.tr/melek-mizrak-subasi-yeni-parti-ye-gececek-mi-p340253",
+  "source": "Sözcü",
+  "summary_tr": "Bilecik Belediye Başkanı Melek Mızrak Subaşı, CHP'den istifa ederek Özgür Özel'in Yeni Parti'sine katılacağı belirtilmiştir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-27T20:01:05.913476+00:00",
+  "type": "news",
+  "cluster_id": "cc49dfa59aaa0"
+ },
+ {
+  "title": "Bahçeli'den Yeni Parti ve CHP törenine 'figüran' taşındığı iddiaları hakkında açıklama",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSWl0eDdhdE5OV0lid3dBV0Y5ME9lTDFkMmsxR1E2bXFmMU11bGFiTUlxYmVfTHF4Z25pNk1iYVp6MHljUG9TTUVZOThxc0t4cGNnUXJBZkZLUFNfMlhCYkhFZVBLX1BobU9MeE5sU18tTWRCX1h4MTBxeUZTVEtySmRkei1sRXEtZ0JqbThVbVQycVVwejZTLXJRRnY?oc=5",
+  "source": "T24",
+  "summary_tr": "MHP lideri Bahçeli, Yeni Parti ve CHP törenine figüran taşındığı iddiaları hakkında açıklama yapmuştır.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-27T20:01:05.913476+00:00",
+  "type": "news",
+  "cluster_id": "cfe5d8333fc3d"
+ },
+ {
   "title": "Trump'tan F-35 çıkışı: 'Kimse bana ne satıp satmamamız gerektiğini söyleyemez'",
   "link": "https://www.bbc.com/turkce/articles/c33y078x83zo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59962,41 +59998,5 @@
   "ts": "2026-06-18T08:01:18.422024+00:00",
   "type": "news",
   "cluster_id": "cfa372576c56e"
- },
- {
-  "title": "Konut ve iş yeri satış sayıları açıklandı",
-  "link": "https://www.trthaber.com/haber/ekonomi/konut-ve-is-yeri-satis-sayilari-aciklandi-948575.html",
-  "source": "TRT Haber",
-  "summary_tr": "Mayısta ülke genelinde satılan konut sayısı geçen yılın aynı ayına göre yüzde 31,2 azalarak 93 bin 333 oldu.",
-  "metric": "Konut satışları %31,2 düşüş, İş yeri satışları %30,9 düşüş",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-18T08:01:18.422024+00:00",
-  "type": "news",
-  "cluster_id": "cff9f63c654d5"
- },
- {
-  "title": "Çimento sektörü ihracatı (5 aylık): 551 milyon $ (İlk 5 ay (2025))",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ1lJZXNlTXJPSTM5RzJHcjNIVUtMVm50LU16NW10OWdsei1ZWExlT2VuME13ckxhNUJlVmxNWjdEUDdSbzlWSzlxZGlvb3V5djBXeERFWG1mMVRJVHlBSDFwQm9lQ2dNbkVqSWk4cWZOV0ROd2VQVFp4djZ1NVhoMnpPTkZBZDlaSEc2RVJGYmZhQU0xN0dJaXR2cFFjQ0NCcHhoZjJhYl9hdw?oc=5",
-  "source": "TÜİK",
-  "summary_tr": "551 milyon $",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-06-18T08:01:18.422024+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "Fed'in yeni başkanı Warsh faizleri sabit tuttu: Trump \"fark etmez\" dedi",
-  "link": "https://www.sozcu.com.tr/fed-in-yeni-baskani-warsh-faizleri-sabit-tuttu-trump-fark-etmez-dedi-p328969",
-  "source": "Sözcü",
-  "summary_tr": "Fed yeni başkanı Kevin Warsh'un ilk toplantısında faiz oranları sabit tutuldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-18T07:01:10.137960+00:00",
-  "type": "news",
-  "cluster_id": "c1cc72948e917"
  }
 ]
