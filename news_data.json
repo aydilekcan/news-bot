@@ -1,5 +1,29 @@
 [
  {
+  "title": "Oil slips more than 5% after US pauses strikes on Iran",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXVDd2dEeUdKdzZkTFduSnE1cGp0S2YtaGwyNTRxekczRW5TdGdtM3JGTFFtYlNiSzNsTVFmTzlYZ0ttZmtJdGtjU3g4U0FPUnFPenFkaWp3ZENtbzFGVFdtUk11TzRSbzg3dmZvWVFqRHZDR3FBZEpxR2dSZEUwU0w3d0pRUkVHd3dWZXg3Yk95SjdMbUZxdDEyTDlaRHdFN3JXLQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Petrol fiyatlari ABD'nin Iran'a yonelik saldirılarını durdurmasının ardından %5'ten fazla düştü.",
+  "metric": "Petrol fiyatı %5+ düşüş",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-27T00:01:06.376716+00:00",
+  "type": "news",
+  "cluster_id": "c68cb6bdbf2d9"
+ },
+ {
+  "title": "US and Iran pause their attacks after days of escalation",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd1ZkcWRJbVdJX0lWSFo1TGFnSDdhUkFQbHZ1ZGlHVUp0b1BwbEZ0SHVPNGY2NS12NmQ3c3dpbjNVVG5qXzJvUDh6NGVSQnFkS2hEQ1BNbi1jUV9nN1lhUHF5MVlrRVpHdURweU9hTnZPTUYxSFVYaklYeWhlTURTQWJteG5acjYybFplamI2XzlJSW5RbktF?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD ve Iran günlerce süren eskalasyon ardından saldırılarına ara verdi; jeopolitik kriz gevşedi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-27T00:01:06.376716+00:00",
+  "type": "news",
+  "cluster_id": "c5d0ecd16264c"
+ },
+ {
   "title": "Şara, Cumhurbaşkanı Erdoğan’ın Suriye'ye yaptırımların kaldırılması için arabuluculuk yaptığını söyledi",
   "link": "https://www.aa.com.tr/tr/dunya/sara-cumhurbaskani-erdogan-in-suriyeye-yaptirimlarin-kaldirilmasi-icin-arabuluculuk-yaptigini-soyledi/4010032",
   "source": "Anadolu Ajansı",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-17T13:01:16.269728+00:00",
   "type": "news",
   "cluster_id": "c13a0e9e839d5"
- },
- {
-  "title": "Fitch, Türkiye bankacılık görünümünü düşürdü",
-  "link": "https://www.sozcu.com.tr/fitch-turkiye-bankacilik-gorunumunu-dusurdu-p328805",
-  "source": "Sözcü",
-  "summary_tr": "Fitch Ratings, Türkiye bankacılık sektörünün görünümünü düşürdü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-17T13:01:16.269728+00:00",
-  "type": "news",
-  "cluster_id": "c5428923beb95"
- },
- {
-  "title": "Çerçeve yasa düğümü: DEM Parti Meclis kapanmadan düzenleme istiyor, AKP sahadaki ilerleme ve Öcalan’ın temaslarını işaret ediyor",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMVN1cXN6UjdqSHBDY3ZEUGt3dGdRUkp5SVc4czFJbVl3c3dldnZxNm1tbU9jazdpSVFSUXlWWmxwMTFJS0hYUFA1QUlWZWE3MGZXbmlLRG1sN1hQSHVxSlEzbDNRZ28wZG1ZRFpxMUpVQzg4NzItbFVFZHhsRmNsRDFqZzZ6akFxQTNBcVhaUkd3enozV0ZSbkN2V0hsLS0xdjNGRlYyQmpIa1FaYVNJ?oc=5",
-  "source": "T24",
-  "summary_tr": "DEM Parti, Meclis kapanmadan çerçeve yasasının düzenlenmesini istiyor; AKP sahadaki ilerleme ve Öcalan temaslarını işaret ediyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-17T13:01:16.269728+00:00",
-  "type": "news",
-  "cluster_id": "c692c389807d1"
  }
 ]
