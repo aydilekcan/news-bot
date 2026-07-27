@@ -1,5 +1,65 @@
 [
  {
+  "title": "Zeynep Gürcanlı: Çin sahaya çıkıyor",
+  "link": "https://www.diken.com.tr/zeynep-gurcanli-cin-sahaya-cikiyor/?utm_source=rss&utm_medium=rss&utm_campaign=zeynep-gurcanli-cin-sahaya-cikiyor",
+  "source": "Diken",
+  "summary_tr": "Çin, İran-ABD savaşının uzaması ile birlikte sessizliğini bozarak sahaya çıkıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-27T05:01:04.543275+00:00",
+  "type": "news",
+  "cluster_id": "cd0d73c40b6b6"
+ },
+ {
+  "title": "ABD-İran hattında yumuşama: Petrol çakıldı, altın yükseliyor",
+  "link": "https://www.sozcu.com.tr/abd-iran-hattinda-yumusama-petrol-cakildi-altin-yukseliyor-p339984",
+  "source": "Sözcü",
+  "summary_tr": "ABD-İran iki haftalık çatışmasının sona ermesi petrol fiyatlarını düşürürken altın fiyatlarını yükseltdi.",
+  "metric": "Petrol düşüş, altın yükseliş",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-27T05:01:04.543275+00:00",
+  "type": "news",
+  "cluster_id": "c875ac80bc15c"
+ },
+ {
+  "title": "2 dead in Ukraine from Russian attacks, 4 more in Russian-held area hit by Ukrainian drones",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVE5b0IyOHhTaGxIdnB5Vm1pcXRGdHpBRXZPcjNfNHBEVGJyWFNpbUV0d211MlJ1akMtRFdmeG9McS1ONFoyN3NYbHFCTDlLMkpkNm9MclJTUGJMdnhJOUpHYXpVSGxVcTJCZVZpamtZenJmcTVYcjJCR3dBdk9qWmNQMnlTMDktcF9VMWRFQ1lRdHhZQkhMTmhaak5ITkJzSUR1WTZ5WVdjLWs3c01XeW5vYw?oc=5",
+  "source": "AP",
+  "summary_tr": "Rusya Ukrayna'ya saldırı düzenlerken 2 ölü verdi; Ukrayna işgal altındaki bölgelerde İnsansız hava aracı saldırısı gerçekleştirerek 4 ölüye neden oldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-27T05:01:04.543275+00:00",
+  "type": "news",
+  "cluster_id": "c826b0e6008ac"
+ },
+ {
+  "title": "Kılıçdaroğlu, Özel'in dokunulmazlığının kaldırılmasına 'evet' diyecek",
+  "link": "https://www.sozcu.com.tr/kilicdaroglu-ozel-in-dokunulmazliginin-kaldirilmasina-evet-diyecek-p339986",
+  "source": "Sözcü",
+  "summary_tr": "Kılıçdaroğlu, CHP'den ayrılarak YENİ Parti'yi kuran Özgür Özel'in dokunulmazlığının kaldırılmasına evet diyecek.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-27T05:01:04.543275+00:00",
+  "type": "news",
+  "cluster_id": "c6f130ad2ebb9"
+ },
+ {
+  "title": "Haftası dolmadı, butlan yönetiminde koltuk kavgası başladı",
+  "link": "https://www.sozcu.com.tr/haftasi-dolmadi-butlan-yonetiminde-koltuk-kavgasi-basladi-p339985",
+  "source": "Sözcü",
+  "summary_tr": "CHP'den 91 milletvekilinin ayrılmasının ardından CHP Grup Başkanlığı seçiminde Faik Öztrak ve Gürsoy arasında koltuk kavgası başladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-27T05:01:04.543275+00:00",
+  "type": "news",
+  "cluster_id": "c4c8ab6e61712"
+ },
+ {
   "title": "Gold gains on pause in US-Iran fighting; Fed decision looms",
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVHhXdm1LMW9wUmp6UHctWldmTGpCQWlBOWVTdk5GeEtuMzNYQU42TGlWWXQtSDAxeE1aa3JvNFRDRUx6WVB5eGliS21TMEluRkJEUndXeHE1MUYzUVZlZG9CQ1V4VXFITFIyMEhJNUNlczhueTJpX2FjbFBoSmVkSnZJX0pQOS05RExueWpHMGpRMElqUTBVV0lqajBCRG9Kc1E?oc=5",
   "source": "Reuters",
@@ -59938,65 +59998,5 @@
   "ts": "2026-06-17T15:01:16.522205+00:00",
   "type": "news",
   "cluster_id": "c82a88ddf4327"
- },
- {
-  "title": "Trump, Ulusal İstihbarat Direktörlüğüne aday gösterdiği Clayton'ın Senato onay oturumunu iptal etti",
-  "link": "https://www.aa.com.tr/tr/dunya/trump-ulusal-istihbarat-direktorlugune-aday-gosterdigi-claytonin-senato-onay-oturumunu-iptal-etti/3969912",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Trump, Ulusal İstihbarat Direktörlüğüne aday Jay Clayton'ın Senato onay oturumunu iptal etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-17T15:01:16.522205+00:00",
-  "type": "news",
-  "cluster_id": "cba57a6a88f14"
- },
- {
-  "title": "CHP'de 6 isim için ihraç istemi",
-  "link": "https://www.trthaber.com/haber/gundem/chpde-6-isim-icin-ihrac-istemi-948509.html",
-  "source": "TRT Haber",
-  "summary_tr": "CHP Sözcüsü, Erzurum, Bursa, Bitlis il başkanları ile eski Mardin, İstanbul, Batman il başkanları hakkında disiplin süreci başlatıldığını duyurdu.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-17T15:01:16.522205+00:00",
-  "type": "news",
-  "cluster_id": "c10b0207d4016"
- },
- {
-  "title": "CHP'nin atanmış yönetimi Özgür Çelik ve beş kişiyi disipline sevk etti, altı il başkanlığına atama yaptı",
-  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3QtdHMtYzBMd0x3SFRldmh4ZVZucGc5a3BGOUttTkVTdVlDRmxMNWIxSHFqU1dvZFVQSHkyYnBPQWU3dWlHVldadHMwMDMyQ3luRVZKX3BFUzYzanZ4eFdWZGhkM2NZZXhqZmF4Rkd4R0hsdnBWMFRZdXo4MTlXOXBCdHYtNDFRMWFCNXhMdG14cGY3QWRhcEpkZlh5WnBSdkdIVDRzaURUamhlVmtTMXd3b1FMM05fdE1tT0o4N011N2NUTy1lSFlhd3NSTlRId0E?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "CHP atanmış yönetimi Özgür Çelik ve beş kişiyi disipline sevk etti; altı il başkanlığına atama yaptı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-17T15:01:16.522205+00:00",
-  "type": "news",
-  "cluster_id": "c3f9193a72f8b"
- },
- {
-  "title": "ABD'deki Halkbank davası 9 yıl sonra düştü",
-  "link": "https://www.sozcu.com.tr/abd-de-halkbank-davasi-dusuruldu-p328823",
-  "source": "Sözcü",
-  "summary_tr": "ABD'deki Halkbank davası 9 yıl sonra mahkeme onayıyla sona erdi; Halkbank hisseleri sert yükseldi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-17T14:01:19.717390+00:00",
-  "type": "news",
-  "cluster_id": "c30fec0ac43d1"
- },
- {
-  "title": "ABD'deki Halkbank davası sona erdi",
-  "link": "https://www.trthaber.com/haber/gundem/abddeki-halkbank-davasi-sona-erdi-948504.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD'deki Halkbank aleyhine 9 yıldır süren ceza davası mahkeme onayıyla sona erdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-17T14:01:19.717390+00:00",
-  "type": "news",
-  "cluster_id": "c30fec0ac43d1"
  }
 ]
