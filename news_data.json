@@ -1,5 +1,77 @@
 [
  {
+  "title": "Filistinliler, İsrailli yerleşimcilerin Batı Şeria'da camileri, arabaları ve tarım arazilerini ateşe verdiğini anlatıyor",
+  "link": "https://www.bbc.com/turkce/articles/cp3r161l9kko?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "İsrail'deki yerleşimciler Batı Şeria'da Filistin camileri, araçları ve tarım arazilerine saldırı düzenliyor; Tal köyü yakınında çatışmalar 4 Filistinli ve 2 İsraili ölümü sonucu verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-27T06:01:12.783552+00:00",
+  "type": "news",
+  "cluster_id": "cb2202f442db8"
+ },
+ {
+  "title": "ABD'nin İran'a atacak füzesi kalmadı",
+  "link": "https://www.sozcu.com.tr/abd-nin-iran-a-atacak-fuzesi-kalmadi-p340007",
+  "source": "Sözcü",
+  "summary_tr": "Trump, İran'a yönelik geniş çaplı saldırıları durdurmaya karar verdi; mühimmat stoklarındaki kritik azalma ve komutanlarının uyarıları nedeniyle operasyon iptal edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-27T06:01:12.783552+00:00",
+  "type": "news",
+  "cluster_id": "cdf3019c4627c"
+ },
+ {
+  "title": "Petrol ateşkes umuduyla sert düşüşte",
+  "link": "https://www.diken.com.tr/petrol-ateskes-umuduyla-sert-dususte/?utm_source=rss&utm_medium=rss&utm_campaign=petrol-ateskes-umuduyla-sert-dususte",
+  "source": "Diken",
+  "summary_tr": "Petrol fiyatları ABD-İran saldırılarının karşılıklı durdurulmasından sonra sert düşüş yaşıyor; ateşkes umudu fiyatları aşağı çekiyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-27T06:01:12.783552+00:00",
+  "type": "news",
+  "cluster_id": "c086c877536dc"
+ },
+ {
+  "title": "Karadeniz’den Hazar’a, Türkiye’nin Etrafındaki Ateş Çemberi Yayılıyor",
+  "link": "https://yetkinreport.com/2026/07/27/karadenizden-hazara-turkiyenin-etrafindaki-ates-cemberi-yayiliyor/",
+  "source": "YetkinReport",
+  "summary_tr": "ABD-İran savaşı Ortadoğu genelinde yayılarak Karadeniz'den Hazar'a uzanan bölgeleri etkilemeye başladı; Türkiye'nin çevresindeki güvenlik riski artıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-27T06:01:12.783552+00:00",
+  "type": "news",
+  "cluster_id": "c172aaaf8eb3d"
+ },
+ {
+  "title": "Ankara koridorlarını hareketlendiren kulis! CHP'den 200 belediye başkanı YENİ Parti'ye geçecek",
+  "link": "https://www.sozcu.com.tr/ankara-koridorlarini-hareketlendiren-kulis-chp-den-200-belediye-baskani-yeni-parti-ye-gececek-p340013",
+  "source": "Sözcü",
+  "summary_tr": "CHP'den yaklaşık 200 belediye başkanının YENİ Parti'ye katılmak için başvurduğu öne sürüldü; parti yönetimi yerel seçime hazırlanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-27T06:01:12.783552+00:00",
+  "type": "news",
+  "cluster_id": "ccabdcc2c3ea8"
+ },
+ {
+  "title": "İsrail basınına göre katil Netanyahu, Trump'ın Suriye, Lübnan ve Gazze'den çekilme talebini reddedecek",
+  "link": "https://www.trthaber.com/haber/dunya/israil-basinina-gore-katil-netanyahu-trumpin-suriye-lubnan-ve-gazzeden-cekilme-talebini-reddedecek-952280.html",
+  "source": "TRT Haber",
+  "summary_tr": "Netanyahu, Trump'ın İsrail ordusunun Suriye, Lübnan ve Gazze'den çekilmesi talebini reddeteceği bildiriliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-27T06:01:12.783552+00:00",
+  "type": "news",
+  "cluster_id": "c0d76187ace23"
+ },
+ {
   "title": "Zeynep Gürcanlı: Çin sahaya çıkıyor",
   "link": "https://www.diken.com.tr/zeynep-gurcanli-cin-sahaya-cikiyor/?utm_source=rss&utm_medium=rss&utm_campaign=zeynep-gurcanli-cin-sahaya-cikiyor",
   "source": "Diken",
@@ -59926,77 +59998,5 @@
   "ts": "2026-06-17T15:01:16.522205+00:00",
   "type": "news",
   "cluster_id": "c13bc0714f145"
- },
- {
-  "title": "Avrupa Parlamentosu Türkiye raporunu kabul etti: 'Fırsat penceresi kapanıyor'",
-  "link": "https://www.cumhuriyet.com.tr/dunya/avrupa-parlamentosu-turkiye-raporunu-kabul-etti-firsat-penceresi-kapaniyor-2513032",
-  "source": "Cumhuriyet",
-  "summary_tr": "Avrupa Parlamentosu Türkiye raporu 381 oyla kabul etti; AB rapor Adalet Bakanı Akın Gürlek'e yaptırım istedi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-17T15:01:16.522205+00:00",
-  "type": "news",
-  "cluster_id": "c40dc78715a4e"
- },
- {
-  "title": "CHP'nin TBMM'de kaç milletvekili var? Chp'nin milletvekili sayısı kaça düştü?",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-nin-tbmm-de-kac-milletvekili-var-chp-nin-milletvekili-sayisi-kaca-dustu-2513031",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'de Kılıçdaroğlu yönetimi kararıyla 9 milletvekili kesin ihraç edildi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-17T15:01:16.522205+00:00",
-  "type": "news",
-  "cluster_id": "c465419565b42"
- },
- {
-  "title": "Özgür Özel'den demokrasi nöbeti çağrısı: 'Darbeye teslim olmayız, olmayacağız'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-den-demokrasi-nobeti-cagrisi-darbeye-teslim-olmayiz-olmayacagiz-2513024",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Seçilmiş Genel Başkanı Özgür Özel, Kılıçdaroğlu MYK kararlarına karşı demokrasi nöbeti çağrısı yaptı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-17T15:01:16.522205+00:00",
-  "type": "news",
-  "cluster_id": "c51bc56185e54"
- },
- {
-  "title": "Son Dakika... Kılıçdaroğlu yönetiminin 'ihraç' kararı sonrası Özgür Çelik'ten ilk açıklama: 'Örgütümüzü ve partimizi savunacağız!'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-kilicdaroglu-yonetiminin-ihrac-karari-sonrasi-ozgur-celik-ten-ilk-aciklama-orgutumuzu-ve-partimizi-savunacagiz-2513023",
-  "source": "Cumhuriyet",
-  "summary_tr": "Kılıçdaroğlu yönetiminin ihraç kararlarının ardından Özgür Çelik, partiyi savunacaklarını duyurdu.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-17T15:01:16.522205+00:00",
-  "type": "news",
-  "cluster_id": "c452a37f8ace3"
- },
- {
-  "title": "CHP Lideri Özgür Özel CHP'lileri görevden alınan İl Başkanlıklarına çağırdı",
-  "link": "https://www.sozcu.com.tr/ihrac-kararlari-sonrasi-ozgur-ozel-den-ilk-aciklama-p328838",
-  "source": "Sözcü",
-  "summary_tr": "CHP Seçilmiş Genel Başkanı Özgür Özel, 74 İl Başkanı ile toplantı yaptı; Butlan yönetiminin ihraç kararlarına yanıt verdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-17T15:01:16.522205+00:00",
-  "type": "news",
-  "cluster_id": "c370c3e79c9ec"
- },
- {
-  "title": "Son dakika...CHP'de 3 mevcut 3 eski il başkanı YDK'ya sevk edildi",
-  "link": "https://www.sozcu.com.tr/son-dakika-chp-de-3-mevcut-3-eski-il-baskani-ydk-ya-sevk-edildi-p328834",
-  "source": "Sözcü",
-  "summary_tr": "Kılıçdaroğlu başkanlığındaki CHP Merkez Yönetim Kurulu, 3 mevcut 3 eski il başkanı YDK'ya sevk etti.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-17T15:01:16.522205+00:00",
-  "type": "news",
-  "cluster_id": "c82a88ddf4327"
  }
 ]
