@@ -1,5 +1,53 @@
 [
  {
+  "title": "Trump'tan F-35 çıkışı: 'Kimse bana ne satıp satmamamız gerektiğini söyleyemez'",
+  "link": "https://www.bbc.com/turkce/articles/c33y078x83zo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Trump, Netanyahu'nun F-35 satışına karşı çıkışına karşı çıktığını söyledi; 'Kimse bana ne satıp satmamamız gerektiğini söyleyemez' dedi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-27T19:01:14.169688+00:00",
+  "type": "news",
+  "cluster_id": "c9a64c9fe2336"
+ },
+ {
+  "title": "İsrail basını: Netanyahu, İran kaynaklı güvenlik endişeleri nedeniyle ABD ziyareti için ülkeden gizlice ayrıldı",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-basini-netanyahu-iran-kaynakli-guvenlik-endiseleri-nedeniyle-abd-ziyareti-icin-ulkeden-gizlice-ayrildi-/4010858",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail basınına göre Netanyahu, İran güvenlik endişeleri nedeniyle ABD ziyareti için sıkı tedbirlerle ülkeden gizlice ayrıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-27T19:01:14.169688+00:00",
+  "type": "news",
+  "cluster_id": "c4401fcdf7ac5"
+ },
+ {
+  "title": "İzmir'de CHP'den toplu istifa: Bergama, Bornova, Ödemiş, Buca, Seferihisar...",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/izmir-de-toplu-istifa-10-ilce-chp-den-ayrildi-2524291",
+  "source": "Cumhuriyet",
+  "summary_tr": "İzmir'de CHP'den Bergama, Bornova, Ödemiş, Buca, Seferihisar gibi ilçelerde toplu istifa gerçekleşti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-27T19:01:14.169688+00:00",
+  "type": "news",
+  "cluster_id": "cd86979096c5d"
+ },
+ {
+  "title": "İran saldırıları sonrası Kuveyt gönüllü askeri personel alacağını duyurdu",
+  "link": "https://www.trthaber.com/haber/dunya/iran-saldirilari-sonrasi-kuveyt-gonullu-askeri-personel-alacagini-duyurdu-952346.html",
+  "source": "TRT Haber",
+  "summary_tr": "Kuveyt Savunma Bakanlığı, İran saldırıları sonrası astsubay ve alt rütbelerde gönüllü personel alımı yapılacağını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-27T19:01:14.169688+00:00",
+  "type": "news",
+  "cluster_id": "c03276359d987"
+ },
+ {
   "title": "Trump says he is ready for military action if Iran talks fail, Axios reports",
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNHNmNWt0aXlJdzB3MVVnbUhaOXkwZUhkWlp1RVF5YnpxU2t6R1c3b2VDM3h4LXh6cXJoMHU1RXg0SjU1MVhQMDc1a0tlbFRyYmY4VWFFWFRSRF9KZU91SjViZ0xJX2tCYVBtQ3E0N3hvRHVFOUdqOURqU0puUFdGWTV2c2FnTGZvR3N4NGwyZm44TG5JM3h6NU1BX3VpZW5remg0U3dJam9WQTJqdUdtaXZ0cGt3bjVETkxsOUc5d1N4VEU?oc=5",
   "source": "Reuters",
@@ -59950,53 +59998,5 @@
   "ts": "2026-06-18T07:01:10.137960+00:00",
   "type": "news",
   "cluster_id": "c1cc72948e917"
- },
- {
-  "title": "U.S.-Iran deal sparks record highs for Asian stocks, drags on oil",
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQWc5blRuNGVXLWNEeGRWUHBJTi1tNG1oR2wzR3R0RXY1dWdVS3JVMmRRSlI0NEgwZUpVNTNLdUphd1Q4OGpXSmtSc0lwVmNONzFpYWZFVG05OFQ4Y1JtaVAyN0lCblhSVEUwZ2RDTUx4eTFzWl9SR1NVT1RvTGxwSTg0dw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD-İran ateşkes anlaşması Asya hisse senetlerini rekor yüksekliklere çıkardı, petrol fiyatlarını düşürdü.",
-  "metric": "Asya hisse senetleri rekor hisse, petrol düşüş",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-18T07:01:10.137960+00:00",
-  "type": "news",
-  "cluster_id": "c397c417c07a3"
- },
- {
-  "title": "Petrolde ateşkes etkisi: Brent yüzde 3'e yakın geriledi",
-  "link": "https://www.sozcu.com.tr/petrolde-ateskes-etkisi-brent-yuzde-3-e-yakin-geriledi-p328973",
-  "source": "Sözcü",
-  "summary_tr": "Petrol fiyatları ABD-İran ateşkesinin ardından yüzde 3'e yakın geriledi.",
-  "metric": "Brent petrol ~%3 gerileme",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-18T07:01:10.137960+00:00",
-  "type": "news",
-  "cluster_id": "c8e01866fe2b1"
- },
- {
-  "title": "Küresel piyasalar Fed toplantısının etkileri ve jeopolitik gelişmelerle yön bulmaya çalışıyor",
-  "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-fed-toplantisinin-etkileri-ve-jeopolitik-gelismelerle-yon-bulmaya-calisiyor/3970354",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Küresel piyasalar Fed faiz kararı ve ABD-İran mutabakatının etkisiyle hareket ediyor; faiz artırım beklentileri oluştu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-18T07:01:10.137960+00:00",
-  "type": "news",
-  "cluster_id": "c2e17c36d4490"
- },
- {
-  "title": "Oil falls to 3-1/2-month low after U.S., Iran sign ceasefire deal",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZU5Zdm80MlhXLVFYajFEdy1GcU9zNGNaa2FvM2ExTmZkZXJieS10V1ZjQ3NqTndMcG1hT1hpb0FGYTN5M1ZMY2VFRG9QNDZkVGhxVEJTcUVpakJGQWNtODJYOTJpSFJOM0hwN01DT21ZaUxKN2FBa2czX3ZFUHlTMXpuUnZpa1dNOFUtOXFFaUx1LTJwN1E?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Petrol ABD-İran ateşkes anlaşmasının ardından 3,5 aylık düşük seviyeye geriledi.",
-  "metric": "Petrol 3,5 aylık dip",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-18T07:01:10.137960+00:00",
-  "type": "news",
-  "cluster_id": "c60b78b497b63"
  }
 ]
