@@ -1,5 +1,53 @@
 [
  {
+  "title": "Trump says he is ready for military action if Iran talks fail, Axios reports",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNHNmNWt0aXlJdzB3MVVnbUhaOXkwZUhkWlp1RVF5YnpxU2t6R1c3b2VDM3h4LXh6cXJoMHU1RXg0SjU1MVhQMDc1a0tlbFRyYmY4VWFFWFRSRF9KZU91SjViZ0xJX2tCYVBtQ3E0N3hvRHVFOUdqOURqU0puUFdGWTV2c2FnTGZvR3N4NGwyZm44TG5JM3h6NU1BX3VpZW5remg0U3dJam9WQTJqdUdtaXZ0cGt3bjVETkxsOUc5d1N4VEU?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, İran müzakerelerinin başarısız olması durumunda askeri harekattan hazır olduğunu belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-27T18:01:11.940996+00:00",
+  "type": "news",
+  "cluster_id": "ceb866947cbf9"
+ },
+ {
+  "title": "Trump'tan 'F-35' resti: Kimse bana kime neyi satıp satmayacağımı söyleyemez",
+  "link": "https://www.diken.com.tr/trumptan-f-35-resti-kimse-bana-kime-neyi-satip-satmayacagimi-soyleyemez/?utm_source=rss&utm_medium=rss&utm_campaign=trumptan-f-35-resti-kimse-bana-kime-neyi-satip-satmayacagimi-soyleyemez",
+  "source": "Diken",
+  "summary_tr": "ABD Başkanı Trump, İsrail'in F-35 satışına karşı çıkmasına rağmen 'Kimse bana kime neyi satacağımı söyleyemez' diyerek Türkiye'ye satışın devam edeceğini belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-27T18:01:11.940996+00:00",
+  "type": "news",
+  "cluster_id": "cf60e00601b36"
+ },
+ {
+  "title": "Trump'tan 'F-35' açıklaması: 'Kimse bana karışamaz' dedi, 'müttefik' vurgusu yaptı",
+  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-f-35-aciklamasi-kimse-bana-karisamaz-dedi-muttefik-vurgusu-yapti-2524278",
+  "source": "Cumhuriyet",
+  "summary_tr": "Trump, Türkiye'nin 'iyi bir müttefik' olduğunu vurgulayarak F-35 satışına yönelik eleştirilere karşı çıktı ve satış kararının nihai otoritesinin kendisinde olduğunu belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-27T18:01:11.940996+00:00",
+  "type": "news",
+  "cluster_id": "c9730b498df8e"
+ },
+ {
+  "title": "ABD Başkanı Trump'tan Netanyahu'nun Türkiye'ye F-35 satışına karşı çıkmasına yanıt",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trumptan-netanyahunun-turkiyeye-f-35-satisina-karsi-cikmasina-yanit/4010805",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Trump, İsrail Başbakanı Netanyahu'nun Türkiye'ye F-35 satışına karşı çıkmasına yanıt vererek ABD'nin bu konudaki kararı verme yetkisinin kendisinde olduğunu belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-27T18:01:11.940996+00:00",
+  "type": "news",
+  "cluster_id": "c18f3a375a16a"
+ },
+ {
   "title": "Bolat: AB'deki korumacılık dalgaları karşısında, ekonomimizin olumsuz etkilenmemesi için müzakerelerimiz sürdürülüyor",
   "link": "https://www.aa.com.tr/tr/ekonomi/bolat-abdeki-korumacilik-dalgalari-karsisinda-ekonomimizin-olumsuz-etkilenmemesi-icin-muzakerelerimiz-surduruluyor/4010636",
   "source": "Anadolu Ajansı",
@@ -59950,53 +59998,5 @@
   "ts": "2026-06-18T07:01:10.137960+00:00",
   "type": "news",
   "cluster_id": "c60b78b497b63"
- },
- {
-  "title": "Rutte, ABD'nin Avrupa'daki katkılarını azaltma kararını \"hemen\" uygulayacağını söyledi",
-  "link": "https://www.aa.com.tr/tr/dunya/rutte-abdnin-avrupadaki-katkilarini-azaltma-kararini-hemen-uygulayacagini-soyledi/3970365",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "NATO Genel Sekreteri Rutte, ABD'nin Avrupa'daki katkılarını azaltma kararını hemen uygulayacağını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-18T07:01:10.137960+00:00",
-  "type": "news",
-  "cluster_id": "c1b0a0b1a9d56"
- },
- {
-  "title": "NATO: ABD, Avrupa'daki katkılarını azaltma kararını hemen uygulayacak",
-  "link": "https://www.trthaber.com/haber/dunya/nato-abd-avrupadaki-katkilarini-azaltma-kararini-hemen-uygulayacak-948559.html",
-  "source": "TRT Haber",
-  "summary_tr": "NATO Genel Sekreteri Rutte, ABD'nin Avrupa'daki katkılarını azaltma kararını hemen uygulayacağını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-18T07:01:10.137960+00:00",
-  "type": "news",
-  "cluster_id": "c1b0a0b1a9d56"
- },
- {
-  "title": "Trump says Apple to partner with Intel on US chip design, production",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUnN4Ym4xVHp1d21VWFd5dFFMRWd6OGQ3MFRYT1NjMUVqYk13NGFydVJwU3BCTGZjRzdKQ3RMd2kzSVZOZW52X1hRM1BQQ3N0VUpfeTh2aHhvSjZJSTFSX3UzUnpfZ2hVMzRwWmxJcVAxQU1saXV5ZXJjdk94OGE2YnhtQndZWEFEQkdiUnFMSURWcjBwWXlWY1ZfYWZENWM?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, Apple ile Intel'in ABD çip tasarım ve üretiminde ortaklık yapacağını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-18T07:01:10.137960+00:00",
-  "type": "news",
-  "cluster_id": "c0cb7f6c5b63f"
- },
- {
-  "title": "Ukraine hits Moscow refinery again as Zelenskiy seeks Trump's support for peace deal",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONjIyM051UnloU3UzZVY0RzFIX1JKUzBycnV2OTJkZExlMkc0SE9USXEwcXFjS2J2YXQtU1o4RXFtamJzbjE5RlBySG9mejYyN25oeTdsVkdETkhMaW05Y01Sa1JOR0dwdTUxTUk3bnpSUjZrTVp6ZnhVMjRYOThxNUptdkJuZTJmd3BYMlNYdGlxanRTMDdHT1FMaFdaeTB3NnplNmxjaw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ukrayna Moskova rafinerisine yeniden saldırı düzenlerken, Zelenskiy Trump'tan barış anlaşması için destek istiyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-18T07:01:10.137960+00:00",
-  "type": "news",
-  "cluster_id": "cf7af70fb3970"
  }
 ]
