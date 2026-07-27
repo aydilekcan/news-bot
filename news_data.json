@@ -1,5 +1,53 @@
 [
  {
+  "title": "Motorine indirim geliyor: Güncel akaryakıt fiyatları",
+  "link": "https://www.diken.com.tr/motorine-indirim-geliyor-guncel-akaryakit-fiyatlari/?utm_source=rss&utm_medium=rss&utm_campaign=motorine-indirim-geliyor-guncel-akaryakit-fiyatlari",
+  "source": "Diken",
+  "summary_tr": "Motorine 2,95 lira indirim bekleniyor.",
+  "metric": "Motorin fiyatı indiriş: 2,95 TL",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-27T07:01:03.307615+00:00",
+  "type": "news",
+  "cluster_id": "c2fad303659c0"
+ },
+ {
+  "title": "TBMM'de kritik hafta başlıyor: Öğrenci affı gündemde",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/tbmm-de-kritik-hafta-basliyor-ogrenci-affi-gundemde-2524093",
+  "source": "Cumhuriyet",
+  "summary_tr": "TBMM, bu hafta öğrenci affı ve yükseköğretime ilişkin kanun teklifini ele alacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-27T07:01:03.307615+00:00",
+  "type": "news",
+  "cluster_id": "cae8d3780e813"
+ },
+ {
+  "title": "Tüketicileri aldatıcı reklamlara karşı daha etkin koruyacak düzenleme 1 Ağustos'ta yürürlüğe girecek",
+  "link": "https://www.aa.com.tr/tr/ekonomi/tuketicileri-aldatici-reklamlara-karsi-daha-etkin-koruyacak-duzenleme-1-agustosta-yururluge-girecek/4010090",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Tüketicileri aldatıcı reklamlardan koruyacak yeni düzenleme 1 Ağustos'ta yürürlüğe girecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-27T07:01:03.307615+00:00",
+  "type": "news",
+  "cluster_id": "cea1098db0255"
+ },
+ {
+  "title": "Dollar pulls back as US-Iran attacks pause, oil drops",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdWQ5R1NLZkN4LVQtZkhaQVlCVE9jV0pFNE5JamoxMFdleEdnS0I5YjhzVWtOVW5RVHk0d1BhSVRSc2I0THJIbzlrWXVhX00wemJRX2c2eTRKQ1BOb3FIZnBONjhvUktZVzlWRFl2RG1EYUQ1NTctRWFGa0htZzNBQ2dQdTVZSnBHZ2FXYkpNUVJJVVZQVGkzZ0IzbEZPQUF0dkVMOTBhMA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD-İran geriliminin hafiflemesiyle dolar gerileyip petrol fiyatları düştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-27T07:01:03.307615+00:00",
+  "type": "news",
+  "cluster_id": "cc5a628c26cbd"
+ },
+ {
   "title": "Filistinliler, İsrailli yerleşimcilerin Batı Şeria'da camileri, arabaları ve tarım arazilerini ateşe verdiğini anlatıyor",
   "link": "https://www.bbc.com/turkce/articles/cp3r161l9kko?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59950,53 +59998,5 @@
   "ts": "2026-06-17T16:01:16.850641+00:00",
   "type": "news",
   "cluster_id": "ced014e7cf977"
- },
- {
-  "title": "Dışişleri Bakanlığından, Avrupa Parlamentosunun 2025 Yılı Türkiye Raporu'na tepki",
-  "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligindan-avrupa-parlamentosunun-2025-yili-turkiye-raporuna-tepki/3969971",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Dışişleri Bakanlığı, Avrupa Parlamentosu'nun 2025 Türkiye Raporu'na ülkeyi karşıtı çevreler tarafından hedef alındığını söyleyerek tepki gösterdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-17T16:01:16.850641+00:00",
-  "type": "news",
-  "cluster_id": "c32eaa881fa52"
- },
- {
-  "title": "ABD'de 9 yıldır devam eden Halkbank davası düştü",
-  "link": "https://www.bbc.com/turkce/articles/cd95lgjgl5lo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD'de Halkbank'ı 2019'den beri işleyen dava 17 Haziran'da düştü; 9 yıllık hukuki süreç sona erdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-17T15:01:16.522205+00:00",
-  "type": "news",
-  "cluster_id": "c345afe3fe5fe"
- },
- {
-  "title": "Yıllar süren 'Halkbank' parantezi kapandı: ABD’de mahkeme davayı resmen düşürdü",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQREdHRzZ6Ry1RUDRrTXZyeWRPbGl2X1pzRTdmM0huOEUtY3ZYbGpGcnBwMXJOUjZIVGViSmZKWmdKN0ZjQlgyZ2E4Uk44X2hSd2Z5ZzlESkszcHhnZ3YwMWR3YW1iUWNCcGdvZnhZS0tkd0RfQlJBMDY3bndjVThQNlp4X3ZMaHRFcnQtVkVXSXJkVHJBSExvMHpxa3JjZ2VSdUQxU0k1Nm5WQ2piT3lWZXdVOA?oc=5",
-  "source": "soL",
-  "summary_tr": "ABD mahkemesi, Halkbank'ı işleyen 9 yıllık davayı resmen düşürdü.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-17T15:01:16.522205+00:00",
-  "type": "news",
-  "cluster_id": "cf0b16bcd0563"
- },
- {
-  "title": "AP Türkiye Raporu son dakika değişiklikleriyle kabul edildi: 'Mavi Vatan' ve 12 mil vurgusu",
-  "link": "https://www.bbc.com/turkce/articles/cgl3x8jx6yzo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Avrupa Parlamentosu, Türkiye raporu 381 oyla kabul etti; 'Mavi Vatan' ve 12 mil vurgusu yer aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-17T15:01:16.522205+00:00",
-  "type": "news",
-  "cluster_id": "c13bc0714f145"
  }
 ]
