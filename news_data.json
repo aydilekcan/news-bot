@@ -1,5 +1,29 @@
 [
  {
+  "title": "Indonesia central bank governor Perry Warjiyo steps down in surprise move",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZmRYdXF5Ti13MVMxdDBDLU41eUtfcGs5cTRLbzVYVkFjdGRBSGxIWEVOZS1EaDNMRV9VVEM1QW5TMEZXdEFPYkJkeWRGZ2xhZXFnSm92amF0cjdnSVVNc0dzX1o4MS1Uc2Y1QU9MbU1fQWo5R3BzVjZpT3hVdVJXUG14Y2lfRllHR1NJcHkxa3RzUDFod09YbjhWdUc3OGJqc2RHRXE2Y1BWSi1rTlM0ZzUwcEEzM3NlVlBv?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Endonezya Merkez Bankası Valisi Perry Warjiyo görevinden sürpriz şekilde istifa etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-27T03:00:59.055139+00:00",
+  "type": "news",
+  "cluster_id": "c674cdb3fe80e"
+ },
+ {
+  "title": "Shares, bonds bounce as oil skid offers inflation relief",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2VEF4Z09wNW9GaGZxaENhMVk5X3ZPSVhjSDNwb1ZKeld2S0xDZFNkZ1l6RDRNdHZ6bktSMnhrOFpNNTJQaU83eEtHa3FVQ0swVjVjSGF0SDlqbjZoWVpQbW1icmJoM1Y2TldZUERiTHdGNUpRbnpWR080TQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Petrol fiyatlarındaki düşüş enflasyon endişelerini azaltarak hisse senedi ve tahvil piyasalarını destekledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-27T03:00:59.055139+00:00",
+  "type": "news",
+  "cluster_id": "cf5e3d564a66e"
+ },
+ {
   "title": "Oil slips 5% after US, Iran pause fighting over weekend",
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXVDd2dEeUdKdzZkTFduSnE1cGp0S2YtaGwyNTRxekczRW5TdGdtM3JGTFFtYlNiSzNsTVFmTzlYZ0ttZmtJdGtjU3g4U0FPUnFPenFkaWp3ZENtbzFGVFdtUk11TzRSbzg3dmZvWVFqRHZDR3FBZEpxR2dSZEUwU0w3d0pRUkVHd3dWZXg3Yk95SjdMbUZxdDEyTDlaRHdFN3JXLQ?oc=5",
   "source": "Reuters",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-17T14:01:19.717390+00:00",
   "type": "news",
   "cluster_id": "c94b977cebdad"
- },
- {
-  "title": "Avrupa ülkeleri Putin'le masaya oturmak için diplomatik kanalları kuruyor",
-  "link": "https://www.sozcu.com.tr/avrupa-ulkeleri-putin-le-masaya-oturmak-icin-diplomatik-kanallari-kuruyor-p328824",
-  "source": "Sözcü",
-  "summary_tr": "Avrupa ülkeleri Ukrayna savaşını sonlandırmak için Kremlin ile diplomatik kanallar kuruyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-17T14:01:19.717390+00:00",
-  "type": "news",
-  "cluster_id": "c212a8664d297"
- },
- {
-  "title": "19 yıllık maraton bitiyor: AB-Hindistan dev anlaşması için tarih verildi",
-  "link": "https://www.sozcu.com.tr/19-yillik-maraton-bitiyor-ab-hindistan-dev-anlasmasi-icin-tarih-verildi-p328822",
-  "source": "Sözcü",
-  "summary_tr": "AB ile Hindistan arasında 19 yıllık müzakerelerin sonuçlandığı serbest ticaret anlaşması yıl sonuna kadar imzalanacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-17T14:01:19.717390+00:00",
-  "type": "news",
-  "cluster_id": "caae169b78fbd"
  }
 ]
