@@ -1,5 +1,41 @@
 [
  {
+  "title": "Kazakhstan's daily oil output halves after export terminal closure, source says",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeGgtaGpMYTdoS2Vxa1IzZHB2bnNFUy1RSlB0bEJDRUxhNkRReUhoTVlYdWs2WkpqeVlEZkpNQ0lwZjFuZVNGbVV6RUpZTFVJZmFpZHozVEU4aWlISVlLSVBZakhlejRWT2tyNTZ3YkZROUhFeF9IQlJRYVVwS1N5RmhITDZlclRUN3pPaENpc252dldyVWFZeWhQRW5Na1RnLUJMZVhLM0RmWHJ2aUUwZ3lNZGxxa044OWFFYmh2UkljN0NMNkhVOV96dDE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Kazakistan, ihracat terminalinin kapanması nedeniyle günlük petrol üretimini yarıya indirdi.",
+  "metric": "Kazakistan günlük petrol çıkışı 50% düştü",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-27T12:01:09.110732+00:00",
+  "type": "news",
+  "cluster_id": "cb4a243bc6a69"
+ },
+ {
+  "title": "Oil prices ease after US and Iran pause their attacks",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWEV4ZVVoYzRpR3ktNE51S0l4OFNXZTlPZWlYUkd2U01yalQzWkdQQjRheVplQ2I4YmN4Sk5BMEdIX2tvRDkyemVzVHdRaXZENGVqZ1hjbVF4RE9LT3plM19RNFVpd3pvQzZMQVdkS1VHTUlhU3FJV294R2FzcHBhT2x6eHk3UmtOU0F5aWgwQm1PeTNR?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD ve İran'ın saldırılarını durdurması sonrasında petrol fiyatları geriledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-27T12:01:09.110732+00:00",
+  "type": "news",
+  "cluster_id": "c601055b2cbac"
+ },
+ {
+  "title": "Dev Çinli banka, Türkiye'deki beş şubesini kapatıyor",
+  "link": "https://www.diken.com.tr/dev-cinli-banka-turkiyedeki-bes-subesini-kapatiyor/?utm_source=rss&utm_medium=rss&utm_campaign=dev-cinli-banka-turkiyedeki-bes-subesini-kapatiyor",
+  "source": "Diken",
+  "summary_tr": "Çin'in ICBC Turkey Bank, Türkiye'deki beş şubesini kapatacağını bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-27T12:01:09.110732+00:00",
+  "type": "news",
+  "cluster_id": "c27302d2e7723"
+ },
+ {
   "title": "Çözüm sürecinde kritik eşik: Çerçeve yasa TBMM'ye geliyor",
   "link": "https://www.dw.com/tr/çözüm-sürecinde-kritik-eşik-çerçeve-yasa-tbmm-ye-geliyor/a-78128556?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59962,41 +59998,5 @@
   "ts": "2026-06-17T22:01:15.930493+00:00",
   "type": "news",
   "cluster_id": "c7aca024ce95a"
- },
- {
-  "title": "İsrail basını: ABD'nin baskısıyla İsrail-Suriye görüşmelerinin yeniden başlaması bekleniyor",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-basini-abdnin-baskisiyla-israil-suriye-gorusmelerinin-yeniden-baslamasi-bekleniyor/3970294",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail basını, ABD'nin baskısıyla İsrail-Suriye görüşmelerinin yeniden başlamasının beklendiğini rapor etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-17T22:01:15.930493+00:00",
-  "type": "news",
-  "cluster_id": "c47021587df5d"
- },
- {
-  "title": "G7 leaders back Trump’s deal to end Iran war as more details of it emerge",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVnI2WGtqR3RNZGpvRVNISjI3SVhEM2tyX2VmRG1pZXZVRW1sTEFrNU8yWnFfeEo2LXV4U08wX0RuM3JhcWxzZEJ0c0RNTnNDSWZtYzVJVVhudVlJNHhSSGVQdm5SalJJY2tHT3BWNkpCQUc4MzNacVg0QTlKb1JkaUNpbnZYSTBZNmpBcmR1RQ?oc=5",
-  "source": "AP",
-  "summary_tr": "G7 liderleri Trump'ın İran savaşını sonlandırmak için yaptığı anlaşmayı destekledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-17T21:01:27.283772+00:00",
-  "type": "news",
-  "cluster_id": "c0c5f3d8f13dd"
- },
- {
-  "title": "İran zaferini ilan etti",
-  "link": "https://www.sozcu.com.tr/iran-zaferini-ilan-etti-p328882",
-  "source": "Sözcü",
-  "summary_tr": "İran Meclis Başkanı Kalibaf, ABD ve İsrail'in savaş hedeflerine ulaşmasını engellediğini açıkladı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-17T21:01:27.283772+00:00",
-  "type": "news",
-  "cluster_id": "c6dd5b5999055"
  }
 ]
