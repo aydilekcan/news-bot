@@ -1,5 +1,77 @@
 [
  {
+  "title": "İncirin tanesi 42 liradan satılıyor: 'Bu fiyata alamam'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/incirin-tanesi-42-liradan-satiliyor-bu-fiyata-alamam-2524118",
+  "source": "Cumhuriyet",
+  "summary_tr": "İncirin kilosu 300 liraya, tanesi 42 liraya yükseldi. Vatandaşlar fiyat artışına tepki gösterdi.",
+  "metric": "İnci fiyatı (tanesi) -> 42 TL",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-27T08:01:59.862467+00:00",
+  "type": "news",
+  "cluster_id": "c66115ec538d1"
+ },
+ {
+  "title": "Yaz meyvesinin kilosu 300 liraya fırladı, emekli isyan etti",
+  "link": "https://www.sozcu.com.tr/yaz-meyvesinin-kilosu-300-liraya-firladi-emekli-isyan-etti-p340065",
+  "source": "Sözcü",
+  "summary_tr": "İncir fiyatı kilosu 300 liraya çıktı. Emekli ve vatandaşlar gıda fiyatlarının yükselmesine isyan etti.",
+  "metric": "İnci fiyatı (kg) -> 300 TL",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-27T08:01:59.862467+00:00",
+  "type": "news",
+  "cluster_id": "c52ab9fc8e063"
+ },
+ {
+  "title": "1 Ağustos’ta yürürlüğe giriyor: Influencer ve yapay zekâ reklamlarına yeni kurallar",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/1-agustos-ta-yururluge-giriyor-influencer-ve-yapay-zeka-reklamlarina-yeni-kurallar-2524115",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ticari Reklam Yönetmeliği değişiklikleri 1 Ağustos'ta yürürlüğe giriyor. İnfluencer ve yapay zeka reklamlarına yeni kurallar uygulanacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-27T08:01:59.862467+00:00",
+  "type": "news",
+  "cluster_id": "ccb55f38bb170"
+ },
+ {
+  "title": "Alışveriş yapan herkesi ilgilendiriyor: 1 Ağustos'ta tüm dijital kurallar değişiyor",
+  "link": "https://www.sozcu.com.tr/alisveris-yapan-herkesi-ilgilendiriyor-1-agustos-ta-tum-dijital-kurallar-degisiyor-p340069",
+  "source": "Sözcü",
+  "summary_tr": "1 Ağustos'ta dijital reklam kuralları değişiyor. Hedefli reklamcılık ve yapay zeka tanıtımlarına yeni tüketici koruma düzenlemeleri uygulanacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-27T08:01:59.862467+00:00",
+  "type": "news",
+  "cluster_id": "c4bccefc0091b"
+ },
+ {
+  "title": "Güven endeksi temmuzda hizmet ve inşaat sektörlerinde arttı ve perakende ticarette azaldı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/guven-endeksi-temmuzda-hizmet-ve-insaat-sektorlerinde-artti-ve-perakende-ticarette-azaldi/4010129",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Temmuzda Güven Endeksi hizmet sektöründe %1,4 ve inşaat sektöründe %0,6 arttı; perakende ticarette azaldı.",
+  "metric": "Güven Endeksi (hizmet) +%1,4; (inşaat) +%0,6",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-27T08:01:59.862467+00:00",
+  "type": "news",
+  "cluster_id": "c8adcc609a74a"
+ },
+ {
+  "title": "Aldatıcı reklamlarla mücadelede yeni dönem: Düzenleme 1 Ağustos'ta yürürlüğe girecek",
+  "link": "https://www.trthaber.com/haber/ekonomi/aldatici-reklamlarla-mucadelede-yeni-donem-duzenleme-1-agustosta-yururluge-girecek-952290.html",
+  "source": "TRT Haber",
+  "summary_tr": "Aldatıcı reklamlarla mücadele için yeni düzenleme 1 Ağustos'ta yürürlüğe girecek. Tüketiciler hedefli reklamcılık ve yapay zeka tanıtımlarından daha etkin korunacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-27T08:01:59.862467+00:00",
+  "type": "news",
+  "cluster_id": "c7a88ffb5bf9d"
+ },
+ {
   "title": "Motorine indirim geliyor: Güncel akaryakıt fiyatları",
   "link": "https://www.diken.com.tr/motorine-indirim-geliyor-guncel-akaryakit-fiyatlari/?utm_source=rss&utm_medium=rss&utm_campaign=motorine-indirim-geliyor-guncel-akaryakit-fiyatlari",
   "source": "Diken",
@@ -59926,77 +59998,5 @@
   "ts": "2026-06-17T17:01:33.240351+00:00",
   "type": "news",
   "cluster_id": "c366e6b6fead2"
- },
- {
-  "title": "Disipline sevk edilen Özgür Çelik SÖZCÜ TV'ye konuştu",
-  "link": "https://www.sozcu.com.tr/disipline-sevk-edilen-ozgur-celik-sozcu-tv-ye-konustu-p328855",
-  "source": "Sözcü",
-  "summary_tr": "CHP İstanbul İl Başkanı Özgür Çelik, atanmış yönetim tarafından ihraç istemiyle disipline sevk edildi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-17T17:01:33.240351+00:00",
-  "type": "news",
-  "cluster_id": "c779e19420bd9"
- },
- {
-  "title": "NATO: Rusya, Ukrayna saldırıları nedeniyle Kırım'a ikmal sağlamakta giderek daha fazla zorlanıyor",
-  "link": "https://www.trthaber.com/haber/dunya/nato-rusya-ukrayna-saldirilari-nedeniyle-kirima-ikmal-saglamakta-giderek-daha-fazla-zorlaniyor-948515.html",
-  "source": "TRT Haber",
-  "summary_tr": "NATO yetkilisi, Ukrayna saldırılarının Rusya'nın işgal altındaki bölgelerdeki lojistik ağlarını önemli ölçüde zayıflattığını belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-17T17:01:33.240351+00:00",
-  "type": "news",
-  "cluster_id": "c14d32ac7145a"
- },
- {
-  "title": "CHP'de delegeler \"kurultay\" istedi, Kılıçdaroğlu \"ihraç\" dedi",
-  "link": "https://www.dw.com/tr/chp-de-delegeler-kurultay-istedi-kılıçdaroğlu-ihraç-dedi/a-77584512?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "CHP'de olağanüstü kurultay için 833 delegenin imzası teslim edildi; Özel ve Kılıçdaroğlu arasında uzlaşma zor görülüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-17T16:01:16.850641+00:00",
-  "type": "news",
-  "cluster_id": "cc104f2436d9d"
- },
- {
-  "title": "CHP’ye olağanüstü kurultay talebiyle 833 delegenin imzaları teslim edildi: Şimdi ne olacak?",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbGpGdENHcUYxekNXcHp1Z2ZWYkc5TEc0ZDVEcWU2UUpiZXNDSkdUZnF4UGZHYl90cnRSdUJaS3pxS2VOR0VadUlZQWpvOGtyWEt6TXNaODVIUUxoN2dVRFFjc3BiY2tZcGlGbHpuX3FXbFpfVFZ2RU9wcFNxamdxd2VyT2xDX3BBWUJQa0RQYURWbkQ5aEJtUkphWmZyOWR5a2RjMHk0eEVoaW5VQnBvMEM2NDVIQXNTQXhuZERzVQ?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "CHP'de olağanüstü kurultay talebiyle 833 delegenin imzaları teslim edildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-17T16:01:16.850641+00:00",
-  "type": "news",
-  "cluster_id": "caaacf2f01521"
- },
- {
-  "title": "AP'de kabul edilen Türkiye raporunda 'Mavi Vatan' ve 12 mil vurgusu",
-  "link": "https://www.bbc.com/turkce/articles/cgl3x8jx6yzo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Avrupa Parlamentosu, Türkiye'yi eleştiren raporu 381'e karşı 107 oyla kabul etti; rapor 'Mavi Vatan' ve 12 mil vurgusunu içeriyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-17T16:01:16.850641+00:00",
-  "type": "news",
-  "cluster_id": "c66e4fc2feb26"
- },
- {
-  "title": "Dışişleri Bakanlığı'ndan Avrupa Parlamentosu raporuna sert tepki",
-  "link": "https://www.sozcu.com.tr/disisleri-bakanligi-ndan-avrupa-parlamentosu-raporuna-sert-tepki-p328844",
-  "source": "Sözcü",
-  "summary_tr": "Dışişleri Bakanlığı, Avrupa Parlamentosu'nun 2025 Türkiye Raporu'na sert tepki gösterdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-17T16:01:16.850641+00:00",
-  "type": "news",
-  "cluster_id": "ced014e7cf977"
  }
 ]
