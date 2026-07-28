@@ -1,5 +1,65 @@
 [
  {
+  "title": "Trump to host Netanyahu, Zelenskiy as Ukraine, Iran wars reach critical stages",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU29yMTU1THpKbENSbHlzS1ZVQW9XY0p1d3dZSk1sWFFtRmljaFNwUGl3Q0JqMTV3X1Rib28zQi0xOHdZMDZoOWRiNU40QThuVDhIZ1FZNERlMTYtQk01dnUyYUtnOC03VjhnbndITDNQNzFwdjZpUWsyaGdJLS10d0lKMmJrakh5S1hKS2xWcGZxcFV0WUZTT2Rjay1ZdzQ4cl9Uc25kaEJqMUwxRTMtUGVMU25Hdw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, Ukrayna ve İran krizleri kritik aşamaya ulaşırken Netanyahu ve Zelenskiy'i ağırlamaya hazırlanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-28T07:01:14.448046+00:00",
+  "type": "news",
+  "cluster_id": "c152f03171c89"
+ },
+ {
+  "title": "Teknoloji borsalarında çip depremi: İşlemler durduruldu, devler çöktü!",
+  "link": "https://www.sozcu.com.tr/teknoloji-borsalarinda-cip-depremi-islemler-durduruldu-devler-coktu-p340333",
+  "source": "Sözcü",
+  "summary_tr": "Yapay zeka maliyeti ve rekabet endişeleri nedeniyle çip devleri Samsung, SK Hynix ve Nvidia'da sert düşüş yaşandı; teknoloji borsalarında işlem durduruldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-28T07:01:14.448046+00:00",
+  "type": "news",
+  "cluster_id": "c6b094610ab50"
+ },
+ {
+  "title": "AI anxiety sparks tech rout, broad selloff in Asian markets",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWUF6MHN4NmxzbUxRX0JpZGFFTlliRjB0WW1DQ3NvVUpQVFJ3aFNoUFJ6cG0tNGx2anJ3OFFTWXk3VUdQQVowWHdoRnVzZTZsZV9KdTR1cWxDeFpXTTFidGxCR25jc2ZYUXp1Z2lYRzJwZDcweHNJalJfamhJT0lvTXRKWQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Yapay zeka endişeleri nedeniyle teknoloji sektöründe satış dalgası başladı; Asya borsalarında geniş ölçekli gerileme yaşandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-28T07:01:14.448046+00:00",
+  "type": "news",
+  "cluster_id": "c73e2f2bbc405"
+ },
+ {
+  "title": "Iran's foreign minister discusses security of Strait of Hormuz with Saudi, Omani counterparts",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRjhRVHZEYWd5aEJick5tT05haTdpX2RsSmRrTkRLUEZUSDRwTGhMTER4UmhZV0dPNkVfZlhEa0QxMXZDVll3bWYxcXdCQl91VjBpUFZoZzJQQzlBQkxDbkFTbTBUcGdyTE5hTXVqaXNmZEZiMTd5bFF1aUkxRXlzSUh1VzJRWmxhRXFXakNWTTZZaVR2dXpIaHBqZVNORU4wSEFjSGJIVXZGV1hkaHNNeEU1eXhfVmNEdTNCcTQyVk9NUVFT?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran Dışişleri Bakanı, Hormuç Boğazı'nın güvenliği konusunda Suudi Arabistan ve Umman mevkidaşlarıyla görüştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T07:01:14.448046+00:00",
+  "type": "news",
+  "cluster_id": "cd84664313287"
+ },
+ {
+  "title": "Taiwan drills to test relocating arms production under Chinese attack",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYjhIdUNGamJpdkF5S25rVkZCb3JXbmVhMXRCRWswemdaa3Q1b0J3Vlk2cVN0eW5QTHFBbTQ2R1ZkWnZMZzZCUE91T0xSMEhkdHdfbHpRMXkwbVU3bTZEOTM0MDdOZVlCbGZHRjhxMWlMUF9ZNXRhM2l5aEJhaWlFU3prUGlZbDN1MWE1Z2hmSURjTVB1OUpFc0VtaVVzZ2JQaktLUGw3aVBKSHF1Q3hDNmhvd0w?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Tayvan, Çin saldırısı altında silah üretimini taşımaya ilişkin tatbikat düzenledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T07:01:14.448046+00:00",
+  "type": "news",
+  "cluster_id": "cbe6f991cdfdb"
+ },
+ {
   "title": "Trump'ın Türkiye övgüleri lafta kaldı: Türk hazır giyim sektörüne ABD'den dengeleri değiştirecek darbe",
   "link": "https://www.sozcu.com.tr/trump-in-turkiye-ovguleri-lafta-kaldi-turk-hazir-giyim-sektorune-abd-den-dengeleri-degistirecek-p340310",
   "source": "Sözcü",
@@ -59938,65 +59998,5 @@
   "ts": "2026-06-18T13:01:20.925854+00:00",
   "type": "news",
   "cluster_id": "c59bb55a56103"
- },
- {
-  "title": "Three Saudi-flagged supertankers sail through Hormuz after Iran deal signed, data shows",
-  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOWdZLXp2TVRxbkY3elZISTVjUE15c3EtXy1LM1pCbWlGWDVGUGxOYnlHNlpBTkExeDlpUFRsaERpNHBpNFdhTG81TDdOaVB3NlRTVjVOX3lrZmtGVHZDamFDR3hFS3FsaGw5SElCUGFqaVdKMktUd1FnZ1hzR1ZNS19fRjFHQVY2XzBEc0s2LWR6aHk2OUZGN2dSdEZJMTBtdzdiRTdNOW4zQ1FZRnFSVVVGa1pNSVJUdVkwa3RNckhCMWJGQzlMSExXMjc5WkE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran anlaşması imzalandıktan sonra üç Suudi bayrraklı süper tanker Hürmüz Boğazı'ndan geçti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-18T13:01:20.925854+00:00",
-  "type": "news",
-  "cluster_id": "c080d64bbb204"
- },
- {
-  "title": "TOBB, BTK’nın \"istenmeyen aramalara ve SMS kararına\" itiraz etti",
-  "link": "https://www.sozcu.com.tr/tobb-btk-nin-istenmeyen-aramalara-ve-sms-kararina-itiraz-etti-p329114",
-  "source": "Sözcü",
-  "summary_tr": "TOBB, BTK'nın işletmecilerin yalnızca kendi aboneleriyle iletişim kurmasına izin veren 1 Nisan düzenlemesine itiraz etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-18T13:01:20.925854+00:00",
-  "type": "news",
-  "cluster_id": "cac58a0ee66e7"
- },
- {
-  "title": "Bankacılık sektörünün mevduatı geçen hafta arttı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/bankacilik-sektorunun-mevduati-gecen-hafta-artti/3970831",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Bankacılık sektörünün toplam mevduatı 12 Haziran haftasında 57 milyar 513 milyon lira artışla 31 trilyon liraya yükseldi.",
-  "metric": "Mevduat: 31 trilyon lira (+57,5 milyar lira)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-18T13:01:20.925854+00:00",
-  "type": "news",
-  "cluster_id": "c4511844ef0a4"
- },
- {
-  "title": "Avrupa’nın en pahalı ülkesi netleşti: Türkiye kaçıncı sırada?",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/avrupa-nin-en-pahali-ulkesi-netlesti-turkiye-kacinci-sirada-2513215",
-  "source": "Cumhuriyet",
-  "summary_tr": "Avrupa'da tüketim mal ve hizmetlerinde fiyat düzeyi en yüksek ülke İzlanda, Türkiye ise daha uygun fiyat seviyesiyle yer alıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-18T11:01:05.072807+00:00",
-  "type": "news",
-  "cluster_id": "c025237d01903"
- },
- {
-  "title": "Rekabet Kurulu'ndan Coca Cola kararı: Artık o alan boş kalacak",
-  "link": "https://www.sozcu.com.tr/rekabet-kurulu-ndan-coca-cola-karari-artik-o-alan-bos-kalacak-p329075",
-  "source": "Sözcü",
-  "summary_tr": "Rekabet Kurulu, Coca-Cola'nın dolap ve raf uygulamalarında rakip markalara ayrılan alanı arttırmayı zorunlu kıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-18T11:01:05.072807+00:00",
-  "type": "news",
-  "cluster_id": "c5110578d44bf"
  }
 ]
