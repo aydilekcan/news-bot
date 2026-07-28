@@ -1,5 +1,53 @@
 [
  {
+  "title": "Mediators see progress in efforts to halt Iran war as drone attacks rattle region",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa2M1am9JRVdmbUE2TTF1ZG5ya1dXNjVjdWUtVngzX09jamxQNk1idEJoNDBCY2Y2dlpURUpYb1Q3WTY0Qk84ZEd5V0FYaHVHakFGbmtKbEhOTy0xYmdLUnZIN3JlcS1yWXZTbnVTYlBlcVg5NUx2eGZFT0VmM0FhQkZYS2pZZHJJMlp4SmtVZkpKTmZwOTZOM2g1S3FtMGhYdWc?oc=5",
+  "source": "AP",
+  "summary_tr": "Arabulucular, İran savaşını durdurmak için ilerleme kaydettiklerini belirtirken bölgede insansız hava araçları saldırıları devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-28T15:01:13.996352+00:00",
+  "type": "news",
+  "cluster_id": "c781ffe893c10"
+ },
+ {
+  "title": "Merz’den İsrail yaptırımlarına ret: Genel yaptırımlara katılmayız",
+  "link": "https://www.cumhuriyet.com.tr/dunya/merz-den-israil-yaptirimlarina-ret-genel-yaptirimlara-katilmayiz-2524550",
+  "source": "Cumhuriyet",
+  "summary_tr": "Almanya Başbakanı Friedrich Merz, İsrail'e yönelik genel yaptırımları desteklemeyeceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-28T15:01:13.996352+00:00",
+  "type": "news",
+  "cluster_id": "c292bf92881b9"
+ },
+ {
+  "title": "Pendik'te maaşlarını alamadığını belirten İETT çalışanlarından eylem",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/pendik-te-maaslarini-alamadigini-belirten-iett-calisanlarindan-eylem-2524554",
+  "source": "Cumhuriyet",
+  "summary_tr": "İETT Pendik garajında çalışan taşeron işçiler, maaşlarını alamadıkları için iş yavaşlatma eylemi başlattı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-28T15:01:13.996352+00:00",
+  "type": "news",
+  "cluster_id": "c560cf8484837"
+ },
+ {
+  "title": "Visa to lay off 7% of staff as efficiency push deepens",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLXRnQ0duQjJCZzk3eXl2dExidFJ6Q01OdHFDRnNMcDF5TE0yWE5jeHNuTFVRWk44NThVN1ppREZJbXNacDVldXpkM2FVZllJdmxlcThzN0d0V1duZEp1aUVVZWhuUzd4NU5MQlB0VmsxbnBqaVUzRFJmUzM2elFsWWNyTFFTVFptSXkxdTZXUXQ2bFB0NU9yVEs3T1Uta2o3ZEZkMXpn?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Visa, verimlilik artırımı kapsamında personelinin %7'sini işten çıkaracak.",
+  "metric": "Visa işten çıkarma %7",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T15:01:13.996352+00:00",
+  "type": "news",
+  "cluster_id": "caf835369d2f7"
+ },
+ {
   "title": "YENİ Parti sonrası Meclis'te oturma düzeni değişti: TBMM Genel Kurulu, 7 siyasi parti grubuyla toplandı",
   "link": "https://www.cumhuriyet.com.tr/siyaset/yeni-parti-sonrasi-meclis-te-oturma-duzeni-degisti-tbmm-genel-kurulu-7-siyasi-parti-grubuyla-toplandi-2524532",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-06-18T17:01:17.836759+00:00",
   "type": "news",
   "cluster_id": "c415f37e93cda"
- },
- {
-  "title": "Son Dakika... Kritik MGK toplantısı sonrası 11 maddelik bildiri: Dikkat çeken 'ABD-İran' vurgusu",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-kritik-mgk-toplantisi-sonrasi-11-maddelik-bildiri-dikkat-ceken-abd-iran-vurgusu-2513353",
-  "source": "Cumhuriyet",
-  "summary_tr": "Cumhurbaşkanı Erdoğan başkanlığında MGK toplantısı gerçekleşti. Bildiriye göre Türkiye, ABD-İran mutabakatı dahil kalıcı barışın sağlanmasına katkı sunmayı sürdürecektir.",
-  "metric": "",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-06-18T17:01:17.836759+00:00",
-  "type": "news",
-  "cluster_id": "cbd13d933c985"
- },
- {
-  "title": "Kritik MGK toplantısı sonrası 11 maddelik bildiri",
-  "link": "https://www.sozcu.com.tr/mgk-toplantisi-sona-erdi-2026-06-18-p329155",
-  "source": "Sözcü",
-  "summary_tr": "MGK toplantısı sonrası 11 maddelik bildiri yayımlandı. Bildiri, terörizme karşı mücadele ve barış çabalarına Türkiye'nin katkısını vurgularken, ABD-İran mutabakatına da yer verdi.",
-  "metric": "",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-06-18T17:01:17.836759+00:00",
-  "type": "news",
-  "cluster_id": "cbd13d933c985"
- },
- {
-  "title": "ABD ve İran arasında imzalanan mutabakat Tahran sokaklarında ülke ekonomisine dair umutları artırdı",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-ve-iran-arasinda-imzalanan-mutabakat-tahran-sokaklarinda-ulke-ekonomisine-dair-umutlari-artirdi/3971173",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD-İran mutabakat zaptı İran ekonomisine dair ülke içinde umut yaratarak Tahran sokaklarında olumlu karşılanmış, savaşın sonlandırılması ve nükleer konular uzlaşıya konu olmuştur.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-18T17:01:17.836759+00:00",
-  "type": "news",
-  "cluster_id": "c64fe9d08f0e1"
- },
- {
-  "title": "EPDK'deki usulsüzlük iddialarının araştırılması önergesi AKP ve MHP oylarıyla reddedildi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/epdk-deki-usulsuzluk-iddialarinin-arastirilmasi-onergesi-akp-ve-mhp-oylariyla-reddedildi-2513357",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'nin EPDK'deki usulsüzlük iddialarının araştırılması önergesinde AKP ve MHP oylarıyla reddolundu. Depolamalı enerji santrali ön lisansları ve kapasite mekanizması ödemeleri kapsıyordu.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-18T17:01:17.836759+00:00",
-  "type": "news",
-  "cluster_id": "cd4af7f00a4b6"
  }
 ]
