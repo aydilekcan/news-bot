@@ -1,5 +1,29 @@
 [
  {
+  "title": "İsrail basını: Amerikalı yetkili, İran'ın Ürdün'deki ABD üssüne fırlattığı 4 füzenin engellendiğini söyledi",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-basini-amerikali-yetkili-iranin-urdundeki-abd-ussune-firlattigi-4-fuzenin-engellendigini-soyledi/4012022",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran'ın Ürdün'deki ABD üssüne fırlattığı 4 balistik füze engellenmiş; Amerikan yetkilisi tarafından açıklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-28T23:01:06.097299+00:00",
+  "type": "news",
+  "cluster_id": "c7a601b7de292"
+ },
+ {
+  "title": "Ukrainian foreign minister says he warned Iranian counterpart against escalation, support for Russia",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSVptTmZYNEZfbmZIT1J2TFBrUGpYRGg2MEtWYzBPeTNYMDBuTFdPRmN0UmVVMUdRRUVMdTNWNE0zR2lJNjJXMC1TMFc5dEFwSW04OTF4cVBtTk1MU000YlpIWWF1Y0UyelhsVTktaWZQX0JzXzVwV1FOTFZ0RE5FY3ZBWmFhcWswUWFzelpIMzNybm90OU1PUjFScThZN1ZydUJxaGJuOWE1SjFtMk5aY3YyeDBhSkFPSVBuUlJrVWtKbDhtSzBNR3lsck0yNGM?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ukrayna dışişleri bakanı, İran mevkidaşına eskalasyon ve Rusya desteğine karşı uyarı yaptığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T23:01:06.097299+00:00",
+  "type": "news",
+  "cluster_id": "ccc5ca5af2aba"
+ },
+ {
   "title": "İran Hürmüz önerisini açıkladı: Başka hiçbir formülü kabul etmeyeceğiz. Savaşa hazırız",
   "link": "https://www.sozcu.com.tr/iran-hurmuz-onerisini-acikladi-baska-hicbir-formulu-kabul-etmeyecegiz-savasa-haziriz-p340548",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-19T03:01:10.915332+00:00",
   "type": "news",
   "cluster_id": "ccb65990d98be"
- },
- {
-  "title": "Trump, İran savaşının ardından güç kullanma yetkisinin \"sınırının olmadığını\" savundu",
-  "link": "https://www.aa.com.tr/tr/dunya/trump-iran-savasinin-ardindan-guc-kullanma-yetkisinin-sinirinin-olmadigini-savundu/3971494",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Trump, İran'ı askeri açıdan mağlup ettiğini ve bundan sonra güç kullanma yetkisinin sınırsız olduğunu savundu; jeopolitik gerginlik devam ediyor.",
-  "metric": "",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-06-19T03:01:10.915332+00:00",
-  "type": "news",
-  "cluster_id": "c9e1e13816f23"
- },
- {
-  "title": "Enflasyon sosyal adaleti aşındırır",
-  "link": "https://www.sozcu.com.tr/enflasyon-sosyal-adaleti-asindirir-p329203",
-  "source": "Sözcü",
-  "summary_tr": "TÜSİAD Başkanı Ozan, yüksek enflasyonun fiyat artışından öte sosyal adalet duygusunu aşındırdığını belirtti; gecim maliyeti krizi vurgulanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-19T03:01:10.915332+00:00",
-  "type": "news",
-  "cluster_id": "cea37a0d922e3"
  }
 ]
