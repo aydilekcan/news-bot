@@ -1,5 +1,29 @@
 [
  {
+  "title": "Rakamlarla oynadı sonuçla övündü",
+  "link": "https://www.sozcu.com.tr/rakamlarla-oynadi-sonucla-ovundu-p340275",
+  "source": "Sözcü",
+  "summary_tr": "Hazine 521 milyar TL faiz dışı bütçe fazlasını açıkladı; SGK'ya 350 milyar TL ödenmesi gerekti.",
+  "metric": "521 milyar TL faiz dışı fazla (SGK 350 milyar TL borç)",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-28T03:00:59.025676+00:00",
+  "type": "news",
+  "cluster_id": "c3d661a223530"
+ },
+ {
+  "title": "Sözler tutulmadı madenci yine eylemde",
+  "link": "https://www.sozcu.com.tr/sozler-tutulmadi-madenci-yine-eylemde-p340281",
+  "source": "Sözcü",
+  "summary_tr": "Madenci işçilerin 160 milyon liralık alacağı ödenmedi; 3 bakan müdahale edemedi.",
+  "metric": "160 milyon TL alacak ödenmemiş",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-28T03:00:59.025676+00:00",
+  "type": "news",
+  "cluster_id": "cf9f50ed91398"
+ },
+ {
   "title": "Stocks drift on Wall Street and crude oil prices drop as Mideast tensions cool",
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORGtrU05LUy0wS2I2dTJiNjlqZnBXeTB4Ni1fTnktMUZSRk1hWF9jOUVoRXp1M0hpMWZrbFlWTlVwM0MwWXRrNTczenludG53dzQ3U3lZSWtVdVFjR2RDekUyelFhcDI3UGJ2dHM5QWQ2UGxUT1hCVDFtV3o3X3ktUF80dkNwdlNsR0RhZEp1YnEzc28?oc=5",
   "source": "AP",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-18T08:01:18.422024+00:00",
   "type": "news",
   "cluster_id": "c3d708264c3d8"
- },
- {
-  "title": "Switzerland says talks planned for Friday between Iran and U.S.",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVZlUmREdTRwV2dYNHVFZm1DckNhXzBGUWwzaEpOVXRCOHdiOEV2WHdTdkR3ZE5PMTVGekItdHNmTTdSQmw4UWwydXZiZDdwaVBfNTJGR1VlanE0dUJfT3ZNejRlMXlYMWwyNEVtU3NqcnJQOG92bGxsNERITmRidm14U29iUWJGTU5qOFo2NEtBcndabW1CNV85T2RjMWZrdVliWDViS09ScW8?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İsviçre, Cuma günü İran ve ABD arasında yapılacak müzakerelerin planlandığını bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-18T08:01:18.422024+00:00",
-  "type": "news",
-  "cluster_id": "c95607a06fc6d"
- },
- {
-  "title": "Motorinin ardından benzine de indirim geliyor: Ayrıntılar açıklandı",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/motorinin-ardindan-benzine-de-indirim-geliyor-ayrintilar-aciklandi-2513158",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD-İran anlaşmasının ardından Brent petrol fiyatları geriledi; benzine de indirim gelmesi bekleniyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-18T08:01:18.422024+00:00",
-  "type": "news",
-  "cluster_id": "c4ca732b9f5ea"
  }
 ]
