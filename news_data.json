@@ -1,5 +1,53 @@
 [
  {
+  "title": "Irak'ın yeni başbakanı Türkiye'ye gidiyor: Gündemdeki konular neler?",
+  "link": "https://www.bbc.com/turkce/articles/cvgwn29yqjyo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Irak'ın yeni Başbakanı Ali Zeydi, göreve gelmesinden sonra üçüncü yurt dışı ziyaretini Türkiye'ye gerçekleştirecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T04:01:12.473340+00:00",
+  "type": "news",
+  "cluster_id": "c42c48eb37f57"
+ },
+ {
+  "title": "76 bin kanser davasına 5,5 milyar dolarlık teklif!",
+  "link": "https://www.sozcu.com.tr/76-bin-kanser-davasina-5-5-milyar-dolarlik-teklif-p340288",
+  "source": "Sözcü",
+  "summary_tr": "Johnson & Johnson, 15 yıldır yumurtalık kanserine neden olduğu iddiasıyla açılan 76 bin talc davasını 5,5 milyar dolara ödeyerek kapatıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T04:01:12.473340+00:00",
+  "type": "news",
+  "cluster_id": "c62334865edee"
+ },
+ {
+  "title": "J&J reaches sweeping talc deal that could end decade of litigation",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNWh0SU9NM0lYNVVxRHR5Xy1QWjZKa3IyZFoyaHdzVW9pYnM1Z3Z5alYweU1FN3BLeDZKNHM4Q2xCRVNnMGY3Nk9tVndkeW9jR1NvMV9KLVhWczFTeEZ2X2Z5c3pHTVpzdy1EVVBqbGU2TVRwUmozVGRvTnIyN0VEQ0JiZUY4Y1lWemE3WlBSMFI0TlB1OGwtQ0lCcXdUbS1XZTVSb29fcFFLbXpvNWlVelRSeGdUMGNJX1k5Wk10aEhWSV9fV3hRaThaaGJJUQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Johnson & Johnson, talc davalarında onlarca yıl süren litigasyonu sona erdirmek için kapsamlı bir anlaşmaya ulaştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T04:01:12.473340+00:00",
+  "type": "news",
+  "cluster_id": "c30c0988a7a66"
+ },
+ {
+  "title": "South Korea's KOSPI drops 7% as global chipmaker selloff deepens",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYlFYaS1BQVhMWVpiSVZ3S1RMQkI0YTZ2RWFUcEwyRXJRMTV5NUphTFJISW9CSGs4STZxejBfalBTYUtWOFNJeDAySzJYcmdCdWloZlpnSThPU25TMWYwT3g1TUR6UzRzLV9FbFRqVTBmcFo4V3JieWJ5S2djdFdHTTYyaktsVXBYVGh6ODRMdm1UUS01ZmpYLVlWQ3czSkxhSGVPMjNLRzJZNkNneXFUeHFlM00?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Güney Kore KOSPI endeksi, küresel çip üreticileri satışında derinleşen dalgalanmanın etkisiyle %7 düştü.",
+  "metric": "KOSPI %7 düştü",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T04:01:12.473340+00:00",
+  "type": "news",
+  "cluster_id": "c03f094f77003"
+ },
+ {
   "title": "Rakamlarla oynadı sonuçla övündü",
   "link": "https://www.sozcu.com.tr/rakamlarla-oynadi-sonucla-ovundu-p340275",
   "source": "Sözcü",
@@ -59950,53 +59998,5 @@
   "ts": "2026-06-18T08:01:18.422024+00:00",
   "type": "news",
   "cluster_id": "c231481e9e8d5"
- },
- {
-  "title": "Ukrayna İHA’ları Moskova’yı vurdu: Rafineride yangın, havalimanlarında uçuşlar durdu",
-  "link": "https://www.cumhuriyet.com.tr/dunya/ukrayna-iha-lari-moskova-yi-vurdu-rafineride-yangin-havalimanlarinda-ucuslar-durdu-2513163",
-  "source": "Cumhuriyet",
-  "summary_tr": "Ukrayna, Moskova'ya geniş çaplı İHA saldırısı düzenledi; petrol rafinerisinde yangın çıktı ve üç havalimanında uçuşlar geçici olarak durduruldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-18T08:01:18.422024+00:00",
-  "type": "news",
-  "cluster_id": "c891402dcfae4"
- },
- {
-  "title": "İran için dönüm noktası: ABD ile imzalanan tarihi anlaşmanın perde arkası!",
-  "link": "https://www.sozcu.com.tr/iran-icin-donum-noktasi-abd-ile-imzalanan-tarihi-anlasmanin-perde-arkasi-p328999",
-  "source": "Sözcü",
-  "summary_tr": "İran, ABD ile imzaladığı 14 maddelik tarihi mutabakatla ağır ambargoların etkisinden kurtulma yoluna girdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-18T08:01:18.422024+00:00",
-  "type": "news",
-  "cluster_id": "c9006b4ad1f4c"
- },
- {
-  "title": "Konut satışları 2 yılın en dibinde! Mayısta düşüş yüzde 30'u aştı",
-  "link": "https://www.sozcu.com.tr/konut-satislari-2-yilin-en-dibinde-mayista-dusus-yuzde-30-u-asti-p328993",
-  "source": "Sözcü",
-  "summary_tr": "Mayısta konut satışları geçen yılın aynı ayına göre yüzde 31,2 düşerek 2 yılın en düşük seviyesine indi.",
-  "metric": "Konut satışları %31,2 azalış, İş yeri satışları %30,9 azalış",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-18T08:01:18.422024+00:00",
-  "type": "news",
-  "cluster_id": "c03df6bef11f8"
- },
- {
-  "title": "İsrail'in, ABD-İran mutabakatına rağmen Lübnan'ın güneyinde bir araca düzenlediği saldırıda 1 kişi öldü",
-  "link": "https://www.aa.com.tr/tr/dunya/israilin-abd-iran-mutabakatina-ragmen-lubnanin-guneyinde-bir-araca-duzenledigi-saldirida-1-kisi-oldu/3970451",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail, ABD-İran mutabakatına rağmen Lübnan'ın güneyinde bir araca saldırı düzenleyerek 1 kişiyi öldürdü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-18T08:01:18.422024+00:00",
-  "type": "news",
-  "cluster_id": "c3d708264c3d8"
  }
 ]
