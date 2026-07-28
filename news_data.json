@@ -1,5 +1,65 @@
 [
  {
+  "title": "Rusya'dan ABD'ye gaz tepkisi: Fiyatı 3 katına çıkardılar!",
+  "link": "https://www.sozcu.com.tr/rusya-dan-abd-ye-gaz-tepkisi-fiyati-3-katina-cikardilar-p340363",
+  "source": "Sözcü",
+  "summary_tr": "Gazprom Avrupa'daki LNG fiyatlarını 3 katına çıkardığını açıkladı. ABD'nin enerji politikasına yanıt olarak uygulandı.",
+  "metric": "LNG fiyatı 1x -> 3x",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-28T08:01:09.288587+00:00",
+  "type": "news",
+  "cluster_id": "ce040122c61ca"
+ },
+ {
+  "title": "AKP'den milyonlarca emeklinin kaderini değiştirecek açıklama",
+  "link": "https://www.sozcu.com.tr/akp-den-milyonlarca-emeklinin-kaderini-degistirecek-aciklama-p340361",
+  "source": "Sözcü",
+  "summary_tr": "AKP'li vekil Faruk Çelik, emekli aylıklarındaki eşitsizlikleri gidermek için intibak düzenlemesinin zorunlu olduğunu bildirdi.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-28T08:01:09.288587+00:00",
+  "type": "news",
+  "cluster_id": "cd623c5379b99"
+ },
+ {
+  "title": "Türkiye'de 10 işçiden biri sendikalı",
+  "link": "https://www.diken.com.tr/turkiyede-10-isciden-biri-sendikali/?utm_source=rss&utm_medium=rss&utm_campaign=turkiyede-10-isciden-biri-sendikali",
+  "source": "Diken",
+  "summary_tr": "Türkiye'de 17,6 milyon işçinin %13,79'u sendikalı. Sendika oranı düşük seviyelerde kalıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T08:01:09.288587+00:00",
+  "type": "news",
+  "cluster_id": "cb3a8112c1e83"
+ },
+ {
+  "title": "Emekli promosyonlarında güncel rakamlar: Hangi banka en yüksek ödemeyi yapıyor?",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/emekli-promosyonlarinda-guncel-rakamlar-hangi-banka-en-yuksek-odemeyi-yapiyor-2524380",
+  "source": "Cumhuriyet",
+  "summary_tr": "Emekli maaşlarında %17,76 zam yapılmasının ardından bankaların promosyon yarışı hızlandı.",
+  "metric": "Emekli aylığı zammı %17,76",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T08:01:09.288587+00:00",
+  "type": "news",
+  "cluster_id": "c0caf9621408d"
+ },
+ {
+  "title": "Oil at one-week low as US and Iran pause attack; supply tension underpins",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSklqTGZRSVh1M0h3RXpnQWVxSFhReTZHdGZtakI4Skh5NGVuZnplUUVYRzRldjVmX2Mzald4bnJFNklGNnZ0QkRTeWhqb29OR2xzb0JVWkFTUEc4QTZBMDV4bU5TOWlMb2RQNE5EeVRuaXJvZE94azM3cnZEd25tTjNTNU9uZ2dVcnZOQnh3eVE4bmIxR0RTZk1Zb3pSNnlrYXdlQWJXOWxJLWs?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Petrol fiyatı ABD-İran geriliminde ara verilmesi nedeniyle haftalık düşüke girdi; arz gerilimi fiyatları destekliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T08:01:09.288587+00:00",
+  "type": "news",
+  "cluster_id": "c4c65ecf0e631"
+ },
+ {
   "title": "Trump to host Netanyahu, Zelenskiy as Ukraine, Iran wars reach critical stages",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU29yMTU1THpKbENSbHlzS1ZVQW9XY0p1d3dZSk1sWFFtRmljaFNwUGl3Q0JqMTV3X1Rib28zQi0xOHdZMDZoOWRiNU40QThuVDhIZ1FZNERlMTYtQk01dnUyYUtnOC03VjhnbndITDNQNzFwdjZpUWsyaGdJLS10d0lKMmJrakh5S1hKS2xWcGZxcFV0WUZTT2Rjay1ZdzQ4cl9Uc25kaEJqMUwxRTMtUGVMU25Hdw?oc=5",
   "source": "Reuters",
@@ -59938,65 +59998,5 @@
   "ts": "2026-06-18T13:01:20.925854+00:00",
   "type": "news",
   "cluster_id": "c6c4800600706"
- },
- {
-  "title": "TCMB: Enerji fiyatlarındaki oynaklık ve jeopolitik riskler enflasyon görünümünü tehdit ediyor",
-  "link": "https://www.sozcu.com.tr/tcmb-enerji-fiyatlarindaki-oynaklik-ve-jeopolitik-riskler-enflasyon-gorunumunu-tehdit-ediyor-p329105",
-  "source": "Sözcü",
-  "summary_tr": "TCMB Para Politikası Kurulu, enerji fiyatlarındaki oynaklık ve jeopolitik risklerin enflasyon görünümünü tehdit ettiğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-18T13:01:20.925854+00:00",
-  "type": "news",
-  "cluster_id": "cfe15849cced5"
- },
- {
-  "title": "Tanju Özcan hakkında cinsel saldırı suçundan da tutuklama kararı verildi",
-  "link": "https://www.trthaber.com/haber/turkiye/tanju-ozcan-hakkinda-cinsel-saldiri-sucundan-da-tutuklama-karari-verildi-948617.html",
-  "source": "TRT Haber",
-  "summary_tr": "Bolu Belediye Başkanı Tanju Özcan, ıcbar suretiyle irtikap ve nitelikli dolandırıcılık suçlarına ek olarak cinsel saldırı suçundan da tutuklama kararı aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-18T13:01:20.925854+00:00",
-  "type": "news",
-  "cluster_id": "cb3390f096629"
- },
- {
-  "title": "Özgür Özel’den yeni parti sinyali: “Hazırlığını zaten yapıyoruz”",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU0otMmpta0RwVXpyaXlFTnRWQm5ONXFsZ2V5ck0wdDFVLWdPRDlkSE9DOTdkbVlmNWI5amgtSHhhdlFXLUw1TW5ZejdSSDRGd0FTQzJ4V09oU0YyY0dydlBNSHZUV2x6TUxnM204aHZKbDV4SU55UllVZ29QZmltbGNkajZRUmVwdllhelh5bG1kTVJQbjBqVkVn?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "CHP Genel Başkan Yardımcısı Özgür Özel, yeni bir parti kurmaya hazırlık yaptığını müjdeledi.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-18T13:01:20.925854+00:00",
-  "type": "news",
-  "cluster_id": "ceab2123fa7ef"
- },
- {
-  "title": "First tankers cross strait under Iran deal; Israeli strikes raise doubt in Lebanon",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR2xiMDYySHk3ZzFXaHcyR1ZHNDFJQUJVNzF4MTRQcmdmZ1pDUVNyR1Z5N255MjkzSHItckpnalNfRUo5VWpjTDVHSHE3R3kybW1NRGd5NGJKV0prTFA0eUZBd0hVZzlMTTNNcXVWR3JTV1lOMzhwYXVtMEc4N05QVlFCSDlnYnZ5S24zMVdMSjl2M2pTYnc0eDdJUkZhWVlwS0tQaUJjTnJIMTNka1E5dm9RcHprVkkydVo4a3dzUmV3RTg4bE5feDN5dw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran-ABD anlaşması sonrası ilk tankerler Hürmüz Boğazı'ndan geçerken, İsrail'in Lübnan'daki saldırıları anlaşmanın güvenilirliğini sorgulamaya devam ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-18T13:01:20.925854+00:00",
-  "type": "news",
-  "cluster_id": "c99e7f017f02d"
- },
- {
-  "title": "Israel issues new Lebanon occupation map, in talks with US over deployment",
-  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbkdWQjYzX0NOaGtfVGdEdkNrNWhjYmN2V2VfWHJXTm5jWlpueEV6ekFiTHN0Nm1IaHJYMndKdTAyLTZibUtwcmlLbk5HUGhJR2w0ZFkxOHpEaWR3WThRNF80OHg4a1NUa3diajFhNEk3cU1aWV8xSHJNMjRJNjdNa2h6RnJ5RG5LTXFIQXRSVjNZR1FvemoxZzBOdWIydmZtZ3dXNlZKVVFnc0RNWW9QbE5PQWRRYXk2ZHlmRmZrWUZlU1llTjJ6S3ZJd0FYZw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İsrail yeni bir Lübnan işgali haritası yayınladı ve ABD ile konuşlandırma konusunda müzakerelere devam ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-18T13:01:20.925854+00:00",
-  "type": "news",
-  "cluster_id": "c59bb55a56103"
  }
 ]
