@@ -1,5 +1,65 @@
 [
  {
+  "title": "Teknoloji devleri milyarlarca dolar borçlandı: Yapay zekâ yatırımları endişe yaratıyor",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/teknoloji-devleri-milyarlarca-dolar-borclandi-yapay-zeka-yatirimlari-endise-yaratiyor-2524418",
+  "source": "Cumhuriyet",
+  "summary_tr": "Teknoloji devleri yapay zekâ altyapısı yatırımlarını borçlanmayla finanse ediyor; kredi piyasalarında endişe yaratıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-28T09:01:59.893050+00:00",
+  "type": "news",
+  "cluster_id": "c36479c225766"
+ },
+ {
+  "title": "Ünlü fast food markası iflas etti: Restoranları satışa çıkarıldı...",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/unlu-fast-food-markasi-iflas-etti-restoranlari-satisa-cikarildi-2524422",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD'nin en büyük Popeyes franchise işletmecilerinden Sailormen Inc. artan borç yükü nedeniyle iflas süreci başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T09:01:59.893050+00:00",
+  "type": "news",
+  "cluster_id": "c6c0e61fb2d42"
+ },
+ {
+  "title": "Tekstil ve hazır giyimde her ölçekte kan kaybı: Borçlar katlandı kârlar eksi yazdı",
+  "link": "https://www.sozcu.com.tr/tekstil-ve-hazir-giyimde-her-olcekte-kan-kaybi-borclar-katlandi-karlar-eksi-yazdi-p340381",
+  "source": "Sözcü",
+  "summary_tr": "Tekstil ve hazır giyim sektöründe her ölçekteki işletmelerde borçlar katlanırken karlar negatif yazıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T09:01:59.893050+00:00",
+  "type": "news",
+  "cluster_id": "c4f756398d277"
+ },
+ {
+  "title": "Irak Başbakanlık Ofisi: Zeydi'nin Ankara ziyaretinde ekonomi, su, güvenlik ve yatırım konuları ele alınacak",
+  "link": "https://www.aa.com.tr/tr/dunya/irak-basbakanlik-ofisi-zeydinin-ankara-ziyaretinde-ekonomi-su-guvenlik-ve-yatirim-konulari-ele-alinacak/4011184",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Irak Başbakanı Ali Zeydi Ankara'yı ziyaret ediyor; ekonomi, su, güvenlik ve yatırım konuları görüşülecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T09:01:59.893050+00:00",
+  "type": "news",
+  "cluster_id": "c52ae4fd0b9bb"
+ },
+ {
+  "title": "Bakanlıktan sosyal medya ilanlarına sıkı denetim: 232 işletmeye 28,3 milyon ceza",
+  "link": "https://www.trthaber.com/haber/gundem/bakanliktan-sosyal-medya-ilanlarina-siki-denetim-232-isletmeye-283-milyon-ceza-952387.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ticaret Bakanlığı sosyal medya ilanlarında denetim yaparak 2025 yılının ilk yarısında 232 işletmeye 28,3 milyon TL ceza verdi.",
+  "metric": "Sosyal medya ilanı cezası: 232 işletmeye 28,3 milyon TL",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T09:01:59.893050+00:00",
+  "type": "news",
+  "cluster_id": "cd321d2f8d45e"
+ },
+ {
   "title": "Rusya'dan ABD'ye gaz tepkisi: Fiyatı 3 katına çıkardılar!",
   "link": "https://www.sozcu.com.tr/rusya-dan-abd-ye-gaz-tepkisi-fiyati-3-katina-cikardilar-p340363",
   "source": "Sözcü",
@@ -59938,65 +59998,5 @@
   "ts": "2026-06-18T13:01:20.925854+00:00",
   "type": "news",
   "cluster_id": "c54b7b22532e2"
- },
- {
-  "title": "Zelenskiy says 'Moscow will burn' if Russian strikes continue",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMWdsY0ljR0dzSnZDOTVJTHI3M0IyRkxFQ1VKZGk4Y28wWmo0QUZSaGR2YzlyTUlhWlZzclY1aUR6TTlZMEVzWlN1VFpMaG12NlpiSlZSUk1aaEZ0TVhBX2c4aElIMG1ocjhPV0wxQ01ZdHgyZHMtbjRqTExfQnpOakwxc3lETjY2OWNTNWY3VU9DR2NXaTFyaXBDbjJSTnR3VzBvaVdRNVVzd3B2cVJnYzhPZDVOU2JySzRPQU5iSQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Zelenskiy, Rus saldırıları devam ederse Moskova'nın yanacağını söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-18T13:01:20.925854+00:00",
-  "type": "news",
-  "cluster_id": "c44f32446cb61"
- },
- {
-  "title": "Moscow region governor says 16 people were injured in big Ukrainian drone attack",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcDRmWjdGVnpycmNkTGNYZkM3djctWkRiRVdGMTN6bzVaTXVUaFozbkhFZEV2dUp6MUdWOFVwOWg4WGpwYnVsUmdubDhtWVF4eUt0WUtlMHRqSFVSVjJCclFnUW9pb3FPakxsOHZKMl8yRzhnYzhleE5QWXhTSmRhWW9MR181Q05LUVd0b3dQdmx3SmFBWFZZREF3alVUNmtZM1VZLVIwdDhSdHlQdXJLY0E3NXhEVW9oeFVnRF9LZy1DclFo?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Moskova bölgesi valisi, Ukrayna'nın büyük insansız hava aracı saldırısında 16 kişinin yaralandığını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-18T13:01:20.925854+00:00",
-  "type": "news",
-  "cluster_id": "ca73538499d71"
- },
- {
-  "title": "Suriye'de 'Esad protestoları' yayılıyor, hükümetten 'intikam' uyarısı",
-  "link": "https://www.bbc.com/turkce/articles/c78yezqlx87o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Suriye'de Beşar Esad yönetimine karşı geniş kapsamlı protestolar yayılıyor; hükümet intikam uyarısında bulundu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-18T13:01:20.925854+00:00",
-  "type": "news",
-  "cluster_id": "c6f8d3396904a"
- },
- {
-  "title": "Alman kimya devi 3 bin 200 kişiyi işten çıkaracak",
-  "link": "https://www.sozcu.com.tr/alman-kimya-devi-3-bin-200-kisiyi-isten-cikaracak-p329113",
-  "source": "Sözcü",
-  "summary_tr": "Alman kimya şirketi Evonik Industries zayıf ekonomik büyüme ve küresel rekabet baskısı nedeniyle 3 bin 200 kişiyi işten çıkaracak.",
-  "metric": "İşten çıkartma: 3.200 kişi",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-18T13:01:20.925854+00:00",
-  "type": "news",
-  "cluster_id": "c4e5b24ee0b1c"
- },
- {
-  "title": "KKM'den çıkış devam ediyor",
-  "link": "https://www.sozcu.com.tr/kkm-den-cikis-devam-ediyor-p329112",
-  "source": "Sözcü",
-  "summary_tr": "Kur korumalı mevduat ve katılma hesapları geçen hafta 31 milyon lira azalarak 279,8 milyon liraya geriledi; KKM'den çıkış devam ediyor.",
-  "metric": "KKM: 279,8 milyon lira (-31 milyon lira)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-18T13:01:20.925854+00:00",
-  "type": "news",
-  "cluster_id": "c6c4800600706"
  }
 ]
