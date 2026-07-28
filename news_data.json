@@ -1,5 +1,77 @@
 [
  {
+  "title": "Trump'ın Türkiye övgüleri lafta kaldı: Türk hazır giyim sektörüne ABD'den dengeleri değiştirecek darbe",
+  "link": "https://www.sozcu.com.tr/trump-in-turkiye-ovguleri-lafta-kaldi-turk-hazir-giyim-sektorune-abd-den-dengeleri-degistirecek-p340310",
+  "source": "Sözcü",
+  "summary_tr": "ABD, Section 301 soruşturması kapsamında Türkiye'nin hazır giyim sektörüne yüzde 12,5 ilave gümrük vergisi uyguladı.",
+  "metric": "Türkiye'ye gümrük vergisi 0% -> %12,5 (+12,5 puan)",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-28T06:01:08.621121+00:00",
+  "type": "news",
+  "cluster_id": "c4e09bfadc2a5"
+ },
+ {
+  "title": "ABD tüm planlarını değiştiriyor",
+  "link": "https://www.sozcu.com.tr/abd-nin-savas-planlarinda-kokten-degisiklik-sinyali-p340315",
+  "source": "Sözcü",
+  "summary_tr": "ABD-İran arasındaki 13 günlük askeri çatışmaların ardından Washington stratejisini ekonomik alana kaydırmaya hazırlanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-28T06:01:08.621121+00:00",
+  "type": "news",
+  "cluster_id": "cb96bb7af4938"
+ },
+ {
+  "title": "Kredi kartı borcu olan artık ev de kiralayamayacak",
+  "link": "https://www.sozcu.com.tr/kredi-karti-borcu-olan-artik-ev-de-kiralayamayacak-p340314",
+  "source": "Sözcü",
+  "summary_tr": "Kredi kartı borcu olanlar artık kiralık ev tutamayacak. Konut satışlarının düşüşü ve kentsel dönüşüm kiralık ev talebini artırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-28T06:01:08.621121+00:00",
+  "type": "news",
+  "cluster_id": "cd76ddbde9488"
+ },
+ {
+  "title": "Dollar hits one-month high on lingering chances of Fed hike",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTVNBcUd0dURQNWZPam9LcTlYQ2xPQXBXSWR4SUxHWGRKZDNGdmxDSUlBa2dHUVVhRk4zc2JSMlRVQzc4akxza2NqZ3BXRjJzOGwwWEJqSmpJa1Q5VUhGam8xQ0RVRElkRlp0THZyMWRTbzFtRzA1dUZqdGtXWXFKWVVyUVJ1NDRJMjYzWHd3bGtnT2hkVUlrR3pIM0dPb1lpSjB3?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Dolar bir aylık zirvesine ulaştı; Fed faiz artırımı beklentileri doların güçlenmesini destekliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-28T06:01:08.621121+00:00",
+  "type": "news",
+  "cluster_id": "c1a1c3dde32ae"
+ },
+ {
+  "title": "Özgür Özel'den CHP mesajı: Gemileri yaktık",
+  "link": "https://www.dw.com/tr/özgür-özel-den-chp-mesajı-gemileri-yaktık/a-78138306?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "CHP'den ayrılan Yeni Parti Genel Başkanı Özgür Özel, Yargıtay'ın butlan kararını iptali halinde partisinin hukuki adımlar atacağını belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T06:01:08.621121+00:00",
+  "type": "news",
+  "cluster_id": "c349734e90b26"
+ },
+ {
+  "title": "Kurultaya müdahale edildiğini iddia eden Kılıçdaroğlu, başkanlık seçimine böyle müdahale etti",
+  "link": "https://www.sozcu.com.tr/kurultaya-mudahale-edildigini-iddia-eden-kilicdaroglu-baskanlik-secimine-boyle-mudahale-etti-p340316",
+  "source": "Sözcü",
+  "summary_tr": "Kılıçdaroğlu, CHP başkanlık seçiminde müdahale yapıldığını iddia ediyor. Özel'in 91 milletvekilinin istifasıyla YENİ Parti kuruluşu siyasi krizin devamı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-28T06:01:08.621121+00:00",
+  "type": "news",
+  "cluster_id": "c0998228b4f85"
+ },
+ {
   "title": "BM Genel Sekreteri’nden İsrail’e çağrı: Suriye'yi kendi haline bırakmalıdır",
   "link": "https://www.cumhuriyet.com.tr/dunya/bm-genel-sekreteri-nden-israil-e-cagri-suriye-yi-kendi-haline-birakmalidir-2524342",
   "source": "Cumhuriyet",
@@ -59926,77 +59998,5 @@
   "ts": "2026-06-18T11:01:05.072807+00:00",
   "type": "news",
   "cluster_id": "c5110578d44bf"
- },
- {
-  "title": "Fed'in faiz kararı emtia piyasasını vurdu: Altın, gümüş ve petrol sert düştü",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/fed-in-faiz-karari-emtia-piyasasini-vurdu-altin-gumus-ve-petrol-sert-dustu-2513193",
-  "source": "Cumhuriyet",
-  "summary_tr": "Fed'in faiz artışı opsiyonunu masada bırakması küresel emtia piyasalarında altın, gümüş ve petrolu sert düşürdü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-18T10:01:05.630917+00:00",
-  "type": "news",
-  "cluster_id": "cd73c799a404d"
- },
- {
-  "title": "Uluslararası Enerji Ajansı Başkanı Fatih Birol: Hürmüz krizi kalıcı etkiler bırakacak",
-  "link": "https://www.sozcu.com.tr/uluslararasi-enerji-ajansi-baskani-fatih-birol-hurmuz-krizi-kalici-etkiler-birakacak-p329057",
-  "source": "Sözcü",
-  "summary_tr": "IEA Başkanı Fatih Birol, Hürmüz Boğazı'ndaki tıkanıklığın enerji piyasalarında kalıcı etkiler bırakacağını uyardı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-18T10:01:05.630917+00:00",
-  "type": "news",
-  "cluster_id": "c908f3a85f174"
- },
- {
-  "title": "Explosions, sustained gunfire at airport in Niger capital, witnesses say",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUmEyQ0xRaVlYTklEOHdFNWFKM05LTk1QMDV5b3FWQWNNMmtBR2lMVVZvSVk0d1lXaFU5bzdlZE55bE5nOHNNdHlQV0ZJN3pkWElJRk9sNUVoVzRfZ1Q2dERISHVpWThvYjVYYlMxZmJfVG5IZDVXWEcwYjBTOS1DUW5wQVFLRzM3S2pUZWpxRXdPOVplZUoxSy1uOTZhSnZqa1RHUUtPb09BTEpyQThESGx6WQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Niger başkentindeki havaalanında patlama ve uzun süren silah seslerine dair tanık raporları.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-18T09:01:19.670359+00:00",
-  "type": "news",
-  "cluster_id": "c907a759786d8"
- },
- {
-  "title": "Ukraine's Azov fighters were forced from Mariupol. Now they're hitting back",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaG5PMXNscERiQXBBSU1xcEdDMTVmcmtuWEZNMlJ1SmpTd3BIME91RlRveWpFblo5NzhYMUJ1MjFCa3ViaWNVdl9feTdXXzZwaWE1Q2k0UnZPNlhGTE1faHJOaEhpcHZ6ejVIdE1DeEZlQjJwZ3BUQnozVVdnLVZNaDhYdmh1SURTVzRocHdjeHRmM2JVanNfNFAzNnlOdjdfbWctMWtjU1VwckItYV83YnVvSGotSFE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ukrayna'nın Azov savaşçıları Mariupol'den çıkarılmıştır; şimdi karşı-hücum gerçekleştirmektedir.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-18T09:01:19.670359+00:00",
-  "type": "news",
-  "cluster_id": "cbe6e3de9ddeb"
- },
- {
-  "title": "Dışişleri Bakanı Hakan Fidan'dan 'NATO Zirvesi' açıklaması: 'Cumhurbaşkanımız olmasa Trump gelmeyecekti'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/disisleri-bakani-hakan-fidan-dan-nato-zirvesi-aciklamasi-cumhurbaskanimiz-olmasa-trump-gelmeyecekti-2513176",
-  "source": "Cumhuriyet",
-  "summary_tr": "Dışişleri Bakanı Hakan Fidan, 7-8 Temmuz'da Ankara'da düzenlenecek NATO Liderler Zirvesi'nin kritik kararlar açısından büyük önem taşıdığını belirtti ve Cumhurbaşkanı Erdoğan'ın varlığının Trump'ın katılımını sağladığını söyledi.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-06-18T09:01:19.670359+00:00",
-  "type": "news",
-  "cluster_id": "cd248c75f77bf"
- },
- {
-  "title": "İran ile ABD arasındaki mutabakat zaptına Pakistan arabulucu olarak imza attı",
-  "link": "https://www.trthaber.com/haber/dunya/iran-ile-abd-arasindaki-mutabakat-zaptina-pakistan-arabulucu-olarak-imza-atti-948585.html",
-  "source": "TRT Haber",
-  "summary_tr": "Pakistan Başbakanı Şahbaz Şerif, ABD ile İran arasındaki mutabakat zaptını arabulucu sıfatıyla imzaladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-18T09:01:19.670359+00:00",
-  "type": "news",
-  "cluster_id": "c8d011653161e"
  }
 ]
