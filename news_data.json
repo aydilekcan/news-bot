@@ -1,5 +1,53 @@
 [
  {
+  "title": "YENİ Parti sonrası Meclis'te oturma düzeni değişti: TBMM Genel Kurulu, 7 siyasi parti grubuyla toplandı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/yeni-parti-sonrasi-meclis-te-oturma-duzeni-degisti-tbmm-genel-kurulu-7-siyasi-parti-grubuyla-toplandi-2524532",
+  "source": "Cumhuriyet",
+  "summary_tr": "YENİ Parti'nin kurulmasıyla TBMM'de siyasi parti grup sayısı 7'ye çıktı; Genel Kurul yeni dağılımla toplandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-28T14:01:19.464104+00:00",
+  "type": "news",
+  "cluster_id": "c87a84a053fd7"
+ },
+ {
+  "title": "Commerzbank yıl sonu altın ve gümüş tahminini düşürdü",
+  "link": "https://www.diken.com.tr/commerzbank-yil-sonu-altin-ve-gumus-tahminini-dusurdu/?utm_source=rss&utm_medium=rss&utm_campaign=commerzbank-yil-sonu-altin-ve-gumus-tahminini-dusurdu",
+  "source": "Diken",
+  "summary_tr": "Commerzbank 2026 yıl sonu altın ve gümüş fiyat tahminlerini düşürdü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T14:01:19.464104+00:00",
+  "type": "news",
+  "cluster_id": "cc0630dafba17"
+ },
+ {
+  "title": "Commerzbank'tan piyasaları sarsan revizyon: Altın ve gümüşte tahminler sil baştan",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/commerzbank-tan-piyasalari-sarsan-revizyon-altin-ve-gumuste-tahminler-sil-bastan-2524525",
+  "source": "Cumhuriyet",
+  "summary_tr": "Commerzbank enflasyonist baskılar ve Fed politikasına bağlı olarak altın ve gümüş tahminlerini revize etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T14:01:19.464104+00:00",
+  "type": "news",
+  "cluster_id": "c15657a1d10bc"
+ },
+ {
+  "title": "Visa plans to cut 7% of workforce, Bloomberg News reports",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLXRnQ0duQjJCZzk3eXl2dExidFJ6Q01OdHFDRnNMcDF5TE0yWE5jeHNuTFVRWk44NThVN1ppREZJbXNacDVldXpkM2FVZllJdmxlcThzN0d0V1duZEp1aUVVZWhuUzd4NU5MQlB0VmsxbnBqaVUzRFJmUzM2elFsWWNyTFFTVFptSXkxdTZXUXQ2bFB0NU9yVEs3T1Uta2o3ZEZkMXpn?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Visa bütün gücünün %7'sini (iş gücü kesintisi) gerçekleştirmeyi planlıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T14:01:19.464104+00:00",
+  "type": "news",
+  "cluster_id": "c9e7bc774cece"
+ },
+ {
   "title": "Kamu hastanesi ihalelerine soruşturma",
   "link": "https://www.diken.com.tr/kamu-hastanesi-ihalelerine-sorusturma/?utm_source=rss&utm_medium=rss&utm_campaign=kamu-hastanesi-ihalelerine-sorusturma",
   "source": "Diken",
@@ -59950,53 +59998,5 @@
   "ts": "2026-06-18T17:01:17.836759+00:00",
   "type": "news",
   "cluster_id": "cd4af7f00a4b6"
- },
- {
-  "title": "MGK Bildirisi: Türkiye kalıcı barışın sağlanması çabalarına katkı sunmayı sürdürecek",
-  "link": "https://www.aa.com.tr/tr/gundem/mgk-bildirisi-turkiye-kalici-barisin-saglanmasi-cabalarina-katki-sunmayi-surdurecek/3971208",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "MGK bildirisi: Türkiye, kalıcı barışın sağlanması çabalarına katkı sunmayı sürdürecektir.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-06-18T17:01:17.836759+00:00",
-  "type": "news",
-  "cluster_id": "c5670a34f88bd"
- },
- {
-  "title": "Rusya: Türkiye, Ukrayna'yla ilgili müzakerelere ev sahipliği yapmaya hazır olduğunu teyit etti",
-  "link": "https://www.aa.com.tr/tr/dunya/rusya-turkiye-ukraynayla-ilgili-muzakerelere-ev-sahipligi-yapmaya-hazir-oldugunu-teyit-etti/3971203",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Kremlin Dış Politika Danışmanı Uşakov, Türkiye'nin Ukrayna krizinin çözümüne ilişkin müzakereler için ev sahipliği yapmaya hazır olduğunu teyit etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-18T17:01:17.836759+00:00",
-  "type": "news",
-  "cluster_id": "c1612f3845dc1"
- },
- {
-  "title": "US weekly jobless claims fall, but remain elevated",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWnJMZVpiOFFrNFFWSENFWFg1aGlmVl9jLXVidW1fLVJuRWgxYnFHMlVTd200WGdIVXJyVGwwNEduMlQ1SFJEQkVWVGJGOWlJX2xJVkZ1ZVlIbVFkd01xVmJEUmN3SWhDZGJtLUF0SzNHNGZNSGhXbzk4TzN0WmdpWVVyUm90V3BkckpaQVhkaUNOM1h5aXc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD'de haftalık işsizlik başvuruları düştü ancak yüksek seviyelerde kalmaya devam ediyor. İşgücü piyasasında gevşeme eğilimi görülmektedir.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-18T17:01:17.836759+00:00",
-  "type": "news",
-  "cluster_id": "cbbed53f968aa"
- },
- {
-  "title": "MGK'dan Terörsüz Türkiye vurgusu",
-  "link": "https://www.trthaber.com/haber/gundem/mgkdan-terorsuz-turkiye-vurgusu-948625.html",
-  "source": "TRT Haber",
-  "summary_tr": "MGK toplantısında Terörsüz Bölge hedeflerine yönelik çalışmalar değerlendirildi ve bildiride terörsüz Türkiye vurgusu yapıldı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-18T17:01:17.836759+00:00",
-  "type": "news",
-  "cluster_id": "ccb1d739aa6b6"
  }
 ]
