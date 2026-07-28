@@ -1,5 +1,41 @@
 [
  {
+  "title": "Kamu hastanesi ihalelerine soruşturma",
+  "link": "https://www.diken.com.tr/kamu-hastanesi-ihalelerine-sorusturma/?utm_source=rss&utm_medium=rss&utm_campaign=kamu-hastanesi-ihalelerine-sorusturma",
+  "source": "Diken",
+  "summary_tr": "Rekabet Kurumu, kamu hastanesi ihalelerinde danışıklı hareket ettiği iddia edilen şirketlere karşı soruşturma başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T13:01:30.489621+00:00",
+  "type": "news",
+  "cluster_id": "ce7fa695b3c6f"
+ },
+ {
+  "title": "Tüm Türkiye'yi ilgilendiren hasat başladı: Kilosu 3,5 lira",
+  "link": "https://www.sozcu.com.tr/tum-turkiye-yi-ilgilendiren-hasat-basladi-kilosu-3-5-lira-p340449",
+  "source": "Sözcü",
+  "summary_tr": "Manisa'da salçalık domates hasadı başladı, kilosu 3,5 liradan işlem görüyor. Ekim alanı geçen yıl 50 bin dekardan 15 bin dekara düştü.",
+  "metric": "Domates ekim alanı 50.000 dekar -> 15.000 dekar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T13:01:30.489621+00:00",
+  "type": "news",
+  "cluster_id": "cf64a5cc99ae5"
+ },
+ {
+  "title": "Meta, BlackRock partner on $14 billion El Paso data center",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeFFVejhlUVFTb0tQRDZmbXVMRHZJT0JtQXZzaVR6YkV2bk1vTldRVFNRd0RIUEJWdlpQWVQ3Wm56UWVSN205bmtVUnBRUGxsSVhwNDhOSU5YM2NHSlZOQnpUWjhvR2NVT29YQzAxNWV5TG5OVm5pT214dGtVVS1hQ0RaUEZsT3RMaEY0bzFYS19iNTVLS1VfcHc1Tmg2V3ZJaGc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Meta ve BlackRock, El Paso'da 14 milyar dolarlık veri merkezi projesi için ortaklığa gitti.",
+  "metric": "Yatırım tutarı 14.000.000.000 USD",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T13:01:30.489621+00:00",
+  "type": "news",
+  "cluster_id": "c6b6412fd004f"
+ },
+ {
   "title": "TTB: Özel sağlık kuruluşları yönetmeliğinin bazı hükümlerinin yürütmesi durduruldu",
   "link": "https://www.cumhuriyet.com.tr/turkiye/ttb-ozel-saglik-kuruluslari-yonetmeliginin-bazi-hukumlerinin-yurutmesi-durduruldu-2524484",
   "source": "Cumhuriyet",
@@ -59962,41 +59998,5 @@
   "ts": "2026-06-18T17:01:17.836759+00:00",
   "type": "news",
   "cluster_id": "ccb1d739aa6b6"
- },
- {
-  "title": "Soma davasında aileler lehine kritik karar: İstinaf yolu yeniden açıldı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/soma-davasinda-aileler-lehine-kritik-karar-istinaf-yolu-yeniden-acildi-2513345",
-  "source": "Cumhuriyet",
-  "summary_tr": "Soma faciasında madencilerin yakınlarının istinaf başvuruları reddedilmişti; İzmir Bölge Adliye Mahkemesi bu kararı bozarak istinaf yolunu yeniden açtı.",
-  "metric": "",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-06-18T16:01:52.835602+00:00",
-  "type": "news",
-  "cluster_id": "c90bd57f4ef29"
- },
- {
-  "title": "Dışişleri Bakanı Fidan'ın Rusya ziyaretinden hangi sonuçlar çıktı?",
-  "link": "https://www.bbc.com/turkce/articles/c8r2e5mkvrvo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Dışişleri Bakanı Fidan, 16-17 Haziran'da Rusya'yı ziyaret etti ve Ankara-Moskova arasında son dönemin en yoğun temaslı görüşmelerini gerçekleştirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-18T16:01:52.835602+00:00",
-  "type": "news",
-  "cluster_id": "cc5dd2a0aca10"
- },
- {
-  "title": "İBB davasında dokuz tahliye",
-  "link": "https://www.bbc.com/turkce/articles/c5yzgxzej5jo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "İBB yolsuzluk davasında 400'ü aşkın kişi yargılanırken, dokuz kişi hakkında tahliye kararı verildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-18T16:01:52.835602+00:00",
-  "type": "news",
-  "cluster_id": "cbd79cfaf8313"
  }
 ]
