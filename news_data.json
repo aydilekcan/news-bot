@@ -1,5 +1,53 @@
 [
  {
+  "title": "Ekmeklik buğday ihracatı serbest bırakıldı",
+  "link": "https://www.diken.com.tr/ekmeklik-bugday-ihracati-serbest-birakildi/?utm_source=rss&utm_medium=rss&utm_campaign=ekmeklik-bugday-ihracati-serbest-birakildi",
+  "source": "Diken",
+  "summary_tr": "TMO, arz güvenliği nedeniyle durdurulan ekmeklik buğday ihracatını serbest bıraktı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-28T21:00:59.136288+00:00",
+  "type": "news",
+  "cluster_id": "c9ce72084cf1a"
+ },
+ {
+  "title": "AKP'nin Meclis'in çalışma takvimini uzatma talebi kabul edildi: Ağustosun ilk haftası da çalışılacak",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/akp-nin-meclis-in-calisma-takvimini-uzatma-talebi-kabul-edildi-agustosun-ilk-haftasi-da-calisilacak-2524621",
+  "source": "Cumhuriyet",
+  "summary_tr": "AKP'nin TBMM çalışma takvimini uzatma talebi kabul edildi; Meclis Ağustosun ilk haftasında da çalışacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T21:00:59.136288+00:00",
+  "type": "news",
+  "cluster_id": "c7e7cbf63b4e6"
+ },
+ {
+  "title": "Zonguldak Belediye Başkanı ve 16 meclis üyesi CHP'den istifa etti",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/zonguldak-belediye-baskani-ve-16-meclis-uyesi-chp-den-istifa-etti-2524620",
+  "source": "Cumhuriyet",
+  "summary_tr": "Zonguldak Belediye Başkanı Tahsin Erdem ve 16 CHP meclis üyesi partiden istifa etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T21:00:59.136288+00:00",
+  "type": "news",
+  "cluster_id": "cb203f8b81f59"
+ },
+ {
+  "title": "Bakan Bolat: Irak ile ticaret hacmimizi 30 milyar dolara ulaştırma konusunda kararlıyız",
+  "link": "https://www.trthaber.com/haber/ekonomi/bakan-bolat-irak-ile-ticaret-hacmimizi-30-milyar-dolara-ulastirma-konusunda-kararliyiz-952433.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ticaret Bakanı Bolat, Türkiye-Irak ticaret hacmini 30 milyar dolara çıkarma konusunda kararlı olduklarını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T21:00:59.136288+00:00",
+  "type": "news",
+  "cluster_id": "c901248543ae2"
+ },
+ {
   "title": "EXCLUSIVE: Trump administration to ban new Chinese robots and inverters, protecting US AI buildout",
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTnkxZko1VERycFBhV3VqR0ZGdS1KVnhybkVqa2N3N2NKZDBKcUlSS3AtNU9oZ2xybmdoTzRwd0h4anlyU2RMdFpVNFZtdnVkcjBXSnJBZ3VDN3ZBanVJeUVOYVhvVkJGd21saURQd0lsWXlMdjY2enpyZnVDb21Bb2thM285cmVuN3V3U1puZ2h3Q3E4ZW1tMG9UQ2UwQXdoMWM0eURlTHlUZEhtOWd5Ymg2QjVOd3Y5R1ZlMG53?oc=5",
   "source": "Reuters",
@@ -59950,53 +59998,5 @@
   "ts": "2026-06-19T02:01:04.728271+00:00",
   "type": "news",
   "cluster_id": "cd66203843211"
- },
- {
-  "title": "İhracat (Trakya bölgesi): 198,5 milyon dolar (geçen ay)",
-  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PeTZfTDlTcFpvZXNMMWdpcUlaRG0xcEVMbmVUeVoyM3FKdHM1UXdjbVZGSEFfY3Z5OTBXclJrM0ZwV0RZSkw3aFRYYk5oMTB0ZGc?oc=5",
-  "source": "Ticaret Bakanlığı",
-  "summary_tr": "198,5 milyon dolar",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-06-19T01:00:59.128609+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "İhracat (21 il, 1 milyar dolar üzerinde): 21 ilde 1 milyar doların üzerinde (Yılın ilk 5 ayı)",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0swSmdkdlZJRWRUS2laVzZSRDZGZWRMNjBPWTE4aDRWdTJ5SnM2MnlwT0k0NkMtLUdQb3p3SEVkX1FETmxlNUh0emsyRG9oUkE1d05odS1zRUk4SkZXclVHbGtvbHd3X2kycFpMNjJPTXpqRFlMR1NNNFByRi01Y0g3TFFXM2ZaNU5FSk1Oak9fX0Q4ZEoyR2liX01yRzdiY2VEd01tRlNUYTVJaHhqMURWVk1zZy1qMXM4UW16YXVjNGd4QkVR0gHCAUFVX3lxTE5Rd3JtaFZFdG5Ub1VaSmhibThueDlidXZPTVBqZ0sxclFSQ210TF9XOVNMWVJHS3NtenFCLU1yeWJiYi1Ecm13cjAxZ1ZKaUxqdy1SQWRGcjFPQ0s2V3prMU9ycXRzcTE2c21wWXkycE15VnN2LXRZWEQwWkVXdnR1X3MzWlNEd3NwQl9TcVdZNnZSTUF0S0JTZWgzeHNfTTk5RnRUSndhejdWRWZJZkFDazFodkhlNFZYem5uNy01V2NR?oc=5",
-  "source": "Ticaret Bakanlığı",
-  "summary_tr": "21 ilde 1 milyar doların üzerinde",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-06-19T01:00:59.128609+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "US-Iran deal redraws the Middle East: Iran gains, rivals alarmed",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMHdqWU5BUEl6Rk5rSXlOWFpXQmtwRXdrRXlHeHlBSHFGbE1Nb1JaSUJFcnVVX1FLWlQ0b09ReTNNdFVySjNQeGdkUnpsbVg3X2lvWURuemFDOTFUQkVYRGItWkFEUE45MThwTUNQNElaYlE1akRDckRzNFZ0QWxyWkRzV3R2T2FBaTl3WXluSjQ4ZDdPZkd2eWg0OHVHblJlc1RfVnVjM1JEdkRVTzVnRWxB?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD-İran anlaşması Orta Doğu'daki dengeleri yeniden şekillendirirken İran kazanç sağlıyor, rakip ülkeler endişeli.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-18T22:01:06.514202+00:00",
-  "type": "news",
-  "cluster_id": "cf260cf5a8bb4"
- },
- {
-  "title": "Çırağan’da sürpriz buluşma! Yıllar sonra 5 isim bir arada",
-  "link": "https://www.sozcu.com.tr/ciragan-da-surpriz-bulusma-yillar-sonra-5-isim-bir-arada-p329185",
-  "source": "Sözcü",
-  "summary_tr": "Abdullah Gül, Ahmet Davutoğlu, Ali Babacan ve diğer isimler D8'in 29. kuruluş yıl dönümünde bir arada bulundu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-18T22:01:06.514202+00:00",
-  "type": "news",
-  "cluster_id": "c608143636508"
  }
 ]
