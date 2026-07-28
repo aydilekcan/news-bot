@@ -1,5 +1,77 @@
 [
  {
+  "title": "İsrail ordusu, Gazze'de bir camiyi daha hava saldırısıyla yerle bir etti",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-gazzede-bir-camiyi-daha-hava-saldirisiyla-yerle-bir-etti/4011945",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusu Gazze'de El-Muttakin Camisi'ni hava saldırısıyla yıktı. Gazze çatışmalarında yeni gelişme.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-28T19:01:04.725942+00:00",
+  "type": "news",
+  "cluster_id": "c07c3c669dbc9"
+ },
+ {
+  "title": "Türkiye Petrolleri, BP'nin Kerkük'teki şirketinin yüzde 15'ini satın aldı",
+  "link": "https://www.diken.com.tr/turkiye-petrolleri-bpnin-kerkukteki-sirketinin-yuzde-15ini-satin-aldi/?utm_source=rss&utm_medium=rss&utm_campaign=turkiye-petrolleri-bpnin-kerkukteki-sirketinin-yuzde-15ini-satin-aldi",
+  "source": "Diken",
+  "summary_tr": "Türkiye Petrolleri, BP'nin Kerkük'teki şirketinin %15'ini satın aldı. Enerji alanında önemli yatırım kararı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-28T19:01:04.725942+00:00",
+  "type": "news",
+  "cluster_id": "ca8d8cc879b1a"
+ },
+ {
+  "title": "Brent petrol, jeopolitik risklerin azalmasıyla yüzde 5'ten fazla düştü",
+  "link": "https://www.trthaber.com/haber/ekonomi/brent-petrol-jeopolitik-risklerin-azalmasiyla-yuzde-5ten-fazla-dustu-952426.html",
+  "source": "TRT Haber",
+  "summary_tr": "Brent petrol, Orta Doğu'daki jeopolitik risklerin azalmasıyla %5'ten fazla düştü. Küresel enerji piyasasında önemli hareket.",
+  "metric": "Brent petrol fiyatı yüzde 5'ten fazla düşüş",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-28T19:01:04.725942+00:00",
+  "type": "news",
+  "cluster_id": "c896f9debf074"
+ },
+ {
+  "title": "Ödeme devinde yeniden yapılanma: Binlerce kişi işten çıkartılacak",
+  "link": "https://www.sozcu.com.tr/odeme-devinde-yeniden-yapilanma-binlerce-kisi-isten-cikartilacak-p340516",
+  "source": "Sözcü",
+  "summary_tr": "Visa, yeniden yapılanma kapsamında binlerce kişiyi işten çıkaracak. Küresel finans sektöründe önemli gelişme.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T19:01:04.725942+00:00",
+  "type": "news",
+  "cluster_id": "c0e206c803b52"
+ },
+ {
+  "title": "Irak Başbakanı Zeydi: Irak ile Türkiye arasındaki ilişkiler daha da ileri gidecektir",
+  "link": "https://www.trthaber.com/haber/dunya/irak-basbakani-zeydi-irak-ile-turkiye-arasindaki-iliskiler-daha-da-ileri-gidecektir-952427.html",
+  "source": "TRT Haber",
+  "summary_tr": "Irak Başbakanı Zeydi, Türkiye ziyaretinde iki ülke ilişkilerinin ilerleyeceğini belirtti. Bölgesel dış politika.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T19:01:04.725942+00:00",
+  "type": "news",
+  "cluster_id": "c81807ca5b8f8"
+ },
+ {
+  "title": "China in touch with Yemen's Houthis to allow ships to sail through Red Sea, sources say",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR3VlbkFfZi10TlpkWGNLYUJ4d0NISk5JVlg4VGI2MmNma0xDUkdyX3NNalg4SDNQRkJWOWRqT0o1VkxuTS1xXzFVZi1fSTBoRnRORGxZdUZDdVN0dVNCaUo3eVBVenNpUnRWaUtpOHlCbGk3M3E1NXJaSzJ3cUszd05mWjVrQWYwX1ZuSGE2aWliVkZIeHJmdGN4T29LUUtVcEdxYnh3dHNQVTg5ZS1SdlNKaDhVeG9BT0tXdnJtYnN2UQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin, Yemen Husiler ile Kızıldeniz ticari geçişi sağlamak üzere temasa geçti. Küresel ticaret yollarında gelişme.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T19:01:04.725942+00:00",
+  "type": "news",
+  "cluster_id": "c72f538b708b7"
+ },
+ {
   "title": "Erdoğan: Irak Türkiye'ye günde 1 milyon varil petrol verecek",
   "link": "https://www.bbc.com/turkce/articles/cvgwn29yqjyo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-06-18T22:01:06.514202+00:00",
   "type": "data",
   "cluster_id": ""
- },
- {
-  "title": "Sermaye Piyasası Kurulu'ndan 3 kişiye geçici işlem yasağı",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/sermaye-piyasasi-kurulu-ndan-3-kisiye-gecici-islem-yasagi-2513391",
-  "source": "Cumhuriyet",
-  "summary_tr": "Sermaye Piyasası Kurulu, 3 kişiye 19 Haziran itibarıyla borsalarda 6 ay süreyle geçici işlem yasağı uygulanmasını kararlaştırdı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-18T21:01:03.554570+00:00",
-  "type": "news",
-  "cluster_id": "c9203aaac5b0d"
- },
- {
-  "title": "İzmir'de peş peşe istifalar; Cemil Tugay'ın ardından CHP'de yeni ayrılıklar",
-  "link": "https://www.sozcu.com.tr/hayati-okuroglu-chp-den-istifa-etti-p329177",
-  "source": "Sözcü",
-  "summary_tr": "İzmir'de Büyükşehir Belediye Başkanı Cemil Tugay'ın ardından Tire Belediye Başkanı Hayati Dokuroğlu ve diğer CHP yöneticileri istifa etti.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-18T21:01:03.554570+00:00",
-  "type": "news",
-  "cluster_id": "c9e35755a5e95"
- },
- {
-  "title": "ABD İran'a deniz ablukasını kaldırdı",
-  "link": "https://www.bbc.com/turkce/articles/ce8k0znpgd3o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD, İran limanlarına yönelik deniz ablukasını kaldırdı. CENTCOM'dan yapılan duyuru kriz döneminde önemli diplomatik bir adım.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-18T20:01:22.542108+00:00",
-  "type": "news",
-  "cluster_id": "ca7aaa7d88f7a"
- },
- {
-  "title": "Trump, İsrail'in İran'a \"küçük çaplı\" saldırısına karşı çıkmayabileceğini söyledi",
-  "link": "https://www.aa.com.tr/tr/dunya/trump-israilin-irana-kucuk-capli-saldirisina-karsi-cikmayabilecegini-soyledi/3971377",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Başkanı Trump, İsrail'in İran'ın nükleer tesislerine 'küçük çaplı' saldırı düzenlemesi halinde destek verebileceğini söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-18T20:01:22.542108+00:00",
-  "type": "news",
-  "cluster_id": "c22b88cb5f2b0"
- },
- {
-  "title": "Iran's Khamenei says he approved MoU with US, despite reservations, after assurances on Iran's rights",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPczF6UzVRTUVGQXRuMmcxYm1INEtHVlRhWHEtYWhnVHlrRV90bDF0d0MxdjFmTVNQLUVzeDgxN1dMT0JjWjM2TUhJRHNBVmhXTXdpbjRvQ0hlMk5NRjhEQW9DZWpmT0xjOXRrcnlIME92VEY1b2pxaGk2NmdaZm9kOUVLX2lXYWd4U3VWcGRnQnVqNWY5TWl2Ql9XNDRzUUNZVk9KeUV5Y21JS0hHeWlpYzRKcllxeE9aSEtXVnduUUpXZw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran'ın rehberi Hamaney, ABD ile imzalanan mutabakatı çekincelerine rağmen onayladığını, İran'ın haklarına ilişkin güvenceler aldıktan sonra açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-18T20:01:22.542108+00:00",
-  "type": "news",
-  "cluster_id": "cdd2a016ee81f"
- },
- {
-  "title": "ABD-İran görüşmelerinin yapılması planlanan Bürgenstock'ta geniş güvenlik önlemleri alındı",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-iran-gorusmelerinin-yapilmasi-planlanan-burgenstockta-genis-guvenlik-onlemleri-alindi/3971353",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD-İran imzalanan mutabakata dair ilk teknik görüşmeler İsviçre'de yapılacak; Bürgenstock'ta geniş güvenlik önlemleri alındı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-18T20:01:22.542108+00:00",
-  "type": "news",
-  "cluster_id": "c3adc11018f2e"
  }
 ]
