@@ -1,5 +1,77 @@
 [
  {
+  "title": "BM Genel Sekreteri’nden İsrail’e çağrı: Suriye'yi kendi haline bırakmalıdır",
+  "link": "https://www.cumhuriyet.com.tr/dunya/bm-genel-sekreteri-nden-israil-e-cagri-suriye-yi-kendi-haline-birakmalidir-2524342",
+  "source": "Cumhuriyet",
+  "summary_tr": "BM Genel Sekreteri Guterres, İsrail'in Suriye'deki ihlallerini kabul edilemez olarak nitelendirdi ve İsrail'i Suriye'yi kendi haline bırakması çağrısında bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-28T05:01:05.781095+00:00",
+  "type": "news",
+  "cluster_id": "c88e7e39a008d"
+ },
+ {
+  "title": "İran’dan ABD’ye deniz ablukası resti: Karşılıksız kalmayacak",
+  "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-abd-ye-deniz-ablukasi-resti-karsiliksiz-kalmayacak-2524340",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran Silahlı Kuvvetleri, ABD'nin uyguladığı deniz ablukasını karşılıksız kalmayacağını belirterek, bölgedeki savaş bağlamında sert bir yanıt vereceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-28T05:01:05.781095+00:00",
+  "type": "news",
+  "cluster_id": "c94af4953be16"
+ },
+ {
+  "title": "ABD’den Batı Şeria için güvenlik alarmı: Seyahatler kısıtlandı",
+  "link": "https://www.cumhuriyet.com.tr/dunya/abd-den-bati-seria-icin-guvenlik-alarmi-seyahatler-kisitlandi-2524339",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD, artan güvenlik endişeleri nedeniyle hükümet çalışanları ve aile fertlerinin İsrail işgali altındaki Batı Şeria'ya seyahatlerini kısıtladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T05:01:05.781095+00:00",
+  "type": "news",
+  "cluster_id": "c0b2a4738a9b3"
+ },
+ {
+  "title": "Çok konuşulacak FED iddiası!  Altın, gümüş petrol her şey sert düşüyor",
+  "link": "https://www.sozcu.com.tr/petrol-cakildi-ama-beklenen-olmadi-piyasalari-sarsan-altin-iddiasi-p340295",
+  "source": "Sözcü",
+  "summary_tr": "Fed'in faiz kararı öncesinde piyasada artan belirsizlik, petrol, altın ve gümüş fiyatlarında keskin düşüşe yol açtı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T05:01:05.781095+00:00",
+  "type": "news",
+  "cluster_id": "c07675fcf03cb"
+ },
+ {
+  "title": "Oil prices extend decline as US and Iran pause attacks",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSklqTGZRSVh1M0h3RXpnQWVxSFhReTZHdGZtakI4Skh5NGVuZnplUUVYRzRldjVmX2Mzald4bnJFNklGNnZ0QkRTeWhqb29OR2xzb0JVWkFTUEc4QTZBMDV4bU5TOWlMb2RQNE5EeVRuaXJvZE94azM3cnZEd25tTjNTNU9uZ2dVcnZOQnh3eVE4bmIxR0RTZk1Zb3pSNnlrYXdlQWJXOWxJLWs?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD ve İran saldırılarını durdurmalarının ardından petrol fiyatları düşüşünü sürdürüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T05:01:05.781095+00:00",
+  "type": "news",
+  "cluster_id": "c1e79ad3c60f6"
+ },
+ {
+  "title": "Pentagon says it will not finish spending Ukraine funds until year Trump leaves office, source says",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYTFockhLM1gwNUk3MFAxOVJmeUtpM01BdUhvT2RYck5RZlVENUFBa1VsbzBpbzBxUS1KUlk0eEw1QVN5VzFQSHFscU42VEVfTE5EcERscXZxWlZtRzBvbkVLRWJxRkRkazdONFhrY3J1TEJWa2QxQWNUd3NsR1lQOGVaYU1tNFFiVk5yeDJwVlYtWWlBTl93ZzgxakdsSDRUcE9xM0F6MUMzZzBSMVZIb1RSYjFXOF9sc1pjUXo4blNEbDJBejhIRE16alI?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Pentagon, Ukrayna fonu harcamalarını Trump'ın görev süresi bitene kadar tamamlamayacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-28T05:01:05.781095+00:00",
+  "type": "news",
+  "cluster_id": "c2a9a2be3f6de"
+ },
+ {
   "title": "Irak'ın yeni başbakanı Türkiye'ye gidiyor: Gündemdeki konular neler?",
   "link": "https://www.bbc.com/turkce/articles/cvgwn29yqjyo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-06-18T09:01:19.670359+00:00",
   "type": "news",
   "cluster_id": "c8d011653161e"
- },
- {
-  "title": "Read the transcript of the deal between the US and Iran",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUFZwMWw2WVV5TV9rVk9Uc25PMk5OMHU5VWZvSVdXUTlSdUlkbGZmMmRmQ294SENYV09yZVVUTUFzOHJ0SWxiZW45Y1VPUlpHOVRJdkV6STBPY2pVV0JLRlpRdkhlN2lnOGw2MEVTS00zWnRGTlZ6MDRQOEE2RE1EMlFzb3BwN0pvTUp3VHpYbw?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD ve İran arasında imzalanan anlaşmanın metni yayınlandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-18T09:01:19.670359+00:00",
-  "type": "news",
-  "cluster_id": "c187ebf019f7d"
- },
- {
-  "title": "Trump açıkladı: Apple, ABD'de çip üretimi için Intel ile ortak oluyor",
-  "link": "https://www.sozcu.com.tr/trump-acikladi-apple-abd-de-cip-uretimi-icin-intel-ile-ortak-oluyor-p329035",
-  "source": "Sözcü",
-  "summary_tr": "ABD Başkanı Trump, Apple'ın Intel ile ortaklaşa kendi çiplerini ABD sınırları içinde tasarlayıp üretmesini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-18T09:01:19.670359+00:00",
-  "type": "news",
-  "cluster_id": "ca31ee5ace1eb"
- },
- {
-  "title": "İSO 500'de yer alan halka açık şirketlerin ihracatı geçen yıl 31 milyar doları geçti",
-  "link": "https://www.aa.com.tr/tr/ekonomi/iso-500de-yer-alan-halka-acik-sirketlerin-ihracati-gecen-yil-31-milyar-dolari-gecti/3970494",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İstanbul Sanayi Odası'nın 2025 araştırmasına göre, ISO 500'de yer alan halka açık şirketlerin geçen yıl ihracatı 31 milyar doları geçti.",
-  "metric": "İhracat 31+ milyar USD",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-18T09:01:19.670359+00:00",
-  "type": "news",
-  "cluster_id": "c61f25394086a"
- },
- {
-  "title": "Savunma sanayii İSO 500 listesinde de yükseliyor",
-  "link": "https://www.trthaber.com/haber/savunma/savunma-sanayii-iso-500-listesinde-de-yukseliyor-948584.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türk savunma ve havacılık sanayii şirketleri, İstanbul Sanayi Odası'nın 2025 ISO 500 listesinde yükselen konumlarını koruyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-18T09:01:19.670359+00:00",
-  "type": "news",
-  "cluster_id": "c73d8dd2d9722"
- },
- {
-  "title": "Trump İran'la mutabakatı Paris'te imzaladı",
-  "link": "https://www.dw.com/tr/trump-iran-la-mutabakatı-paris-te-imzaladı/a-77597349?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "ABD Başkanı Trump, İran ile 14 maddelik mutabakatı Paris'teki Versay Sarayı'nda imzaladı ve anlaşma derhal yürürlüğe girdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-18T08:01:18.422024+00:00",
-  "type": "news",
-  "cluster_id": "cb96429e4ac7c"
- },
- {
-  "title": "İranABD mutabakatı yürürlüğe girdi: Müzakerelerin kısa sürede başlaması bekleniyor",
-  "link": "https://www.trthaber.com/haber/dunya/iran-abd-mutabakati-yururluge-girdi-muzakerelerin-kisa-surede-baslamasi-bekleniyor-948576.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran-ABD mutabakatı yürürlüğe girdi; taraflar arasındaki sorunların müzakerelerle çözülmesi öngörülüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-18T08:01:18.422024+00:00",
-  "type": "news",
-  "cluster_id": "c231481e9e8d5"
  }
 ]
