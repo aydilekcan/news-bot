@@ -1,5 +1,53 @@
 [
  {
+  "title": "Davutoğlu partisini feshetti",
+  "link": "https://www.diken.com.tr/davutoglu-partisini-feshetti/?utm_source=rss&utm_medium=rss&utm_campaign=davutoglu-partisini-feshetti",
+  "source": "Diken",
+  "summary_tr": "Gelecek Partisi Genel Başkanı Ahmet Davutoğlu, parti siyasetinden çekilme ve partisini fesih etme kararı aldığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-29T18:01:09.277967+00:00",
+  "type": "news",
+  "cluster_id": "ceafc72ab37c1"
+ },
+ {
+  "title": "Son Dakika... Sosyal medya hesabından duyurdu: Davutoğlu siyaseti bıraktı, Gelecek Partisi'ni feshetti",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-sosyal-medya-hesabindan-duyurdu-davutoglu-siyaseti-birakti-gelecek-partisi-ni-feshetti-2524870",
+  "source": "Cumhuriyet",
+  "summary_tr": "Gelecek Partisi Genel Başkanı Ahmet Davutoğlu, parti siyasetinden çekilme ve partisinin siyasi faaliyetlerini sonlandırma kararını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-29T18:01:09.277967+00:00",
+  "type": "news",
+  "cluster_id": "c7be16c2d1147"
+ },
+ {
+  "title": "Netanyahu ile Trump'ın İran'a karşı nasıl hareket edeceklerini ele aldığı bildirildi",
+  "link": "https://www.aa.com.tr/tr/dunya/netanyahu-ile-trumpin-irana-karsi-nasil-hareket-edeceklerini-ele-aldigi-bildirildi/4013088",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail Başbakanı Netanyahu ile ABD Başkanı Trump, İran'a karşı alınabilecek tedbirler ve bunun küresel ekonomiye etkileri hakkında görüştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-29T18:01:09.277967+00:00",
+  "type": "news",
+  "cluster_id": "cd7d72cc69c62"
+ },
+ {
+  "title": "Erdoğan'dan 'Terörsüz Türkiye' mesajı: 'Önümüzdeki günlerde yasal düzenlemeyi Meclis'e sunacağız'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/erdogan-dan-terorsuz-turkiye-mesaji-onumuzdeki-gunlerde-yasal-duzenlemeyi-meclis-e-sunacagiz-2524864",
+  "source": "Cumhuriyet",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, terror engeli kaldırıldığında ekonominin yeni bir hızlanma yaşayacağını belirterek, buna dair yasal düzenlemeyi Meclis'e sunacağını söyledi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-29T18:01:09.277967+00:00",
+  "type": "news",
+  "cluster_id": "c049829b95d4d"
+ },
+ {
   "title": "Davutoğlu'nun siyaseti bırakacağı iddiası",
   "link": "https://www.diken.com.tr/davutoglunun-siyaseti-birakacagi-iddiasi/?utm_source=rss&utm_medium=rss&utm_campaign=davutoglunun-siyaseti-birakacagi-iddiasi",
   "source": "Diken",
@@ -59950,53 +59998,5 @@
   "ts": "2026-06-20T08:01:08.483114+00:00",
   "type": "news",
   "cluster_id": "cd54de52b024e"
- },
- {
-  "title": "Erdoğan'ın imzasıyla Resmi Gazete'de yayımlandı: Vergide süre uzatıldı",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/erdogan-in-imzasiyla-resmi-gazete-de-yayimlandi-vergide-sure-uzatildi-2513790",
-  "source": "Cumhuriyet",
-  "summary_tr": "Resmi Gazete'de yayımlanan kararla devlet tahvili, hazine bonosu ve kamu kira sertifikalarından elde edilen gelirlerin stopaj süresi 2026 yılı sonuna kadar uzatıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-20T08:01:08.483114+00:00",
-  "type": "news",
-  "cluster_id": "cdf151334b0c5"
- },
- {
-  "title": "Bu yapılara elektrik, su ve doğal gaz bağlanmayacak! İhlal eden kuruma abone başına 100 bin TL ceza",
-  "link": "https://www.sozcu.com.tr/bu-yapilara-elektrik-su-ve-dogal-gaz-baglanmayacak-ihlal-eden-kuruma-abone-basina-100-bin-tl-ceza-p329572",
-  "source": "Sözcü",
-  "summary_tr": "Resmi Gazete'de yayımlanan yasa değişikliğiyle tarım ve enerji alanlarında düzenlemelere gidildi; ihlal eden kurumlara 100 bin TL ceza uygulanacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-20T08:01:08.483114+00:00",
-  "type": "news",
-  "cluster_id": "cbf18ad6fea5d"
- },
- {
-  "title": "Devlet tahvili, hazine bonosu ve kamu kira sertifikalarında stopaj süresi uzatıldı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/devlet-tahvili-hazine-bonosu-ve-kamu-kira-sertifikalarinda-stopaj-suresi-uzatildi/3972734",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Devlet tahvili, hazine bonosu ve kamu kira sertifikalarından elde edilen gelirlere uygulanan stopaj süresinin 2026 yılı sonuna kadar uzatıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-20T08:01:08.483114+00:00",
-  "type": "news",
-  "cluster_id": "c5640855d9804"
- },
- {
-  "title": "Emekli zammı (5 aylık enflasyon): %16,6 (Temmuz 2026)",
-  "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQY09pZ01wTVRodDZsaTV6endVUVllUlJyWWVCQklzSF84aE13eEs0RHk5ZUpETUZSWDZxRVVDUWUwclVpY2NBcUxPdTZDS0dJa0VSZkJCaWlZajNyUTVURUxCVVpqYkpFSEtkNXlrbl9RUUlhckQ5c0VtcHNIQUxUNVZvajVudm5ZcTItQzdsXzNaU1RGc1pZQktRRWNOUl90QjJvTklxd1kzUEJPZUxSTHRaRkp6WUE5S3NHZ2lTMWI3NG1oYzVGY2I1WmtubzBjSTZvQk85LXdfUW1aWW5BQnVCMThROURVZkNaZC1jb0NpM0lkRDgwMW5JTUNlZw?oc=5",
-  "source": "TUIK",
-  "summary_tr": "%16,6",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-06-20T08:01:08.483114+00:00",
-  "type": "data",
-  "cluster_id": ""
  }
 ]
