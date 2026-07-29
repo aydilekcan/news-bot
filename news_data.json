@@ -1,5 +1,53 @@
 [
  {
+  "title": "Trump and Netanyahu explored all Iran options including attack, Israeli official says",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNGRMX1g5X0U3ckZtQjhIMHFGMHVjWmZoNlU5bDBydGRabk5LR1dGUUNSaXFHWUQyWnJqd2VJS09KSmU3ZXVtVjBqemVDdTJJNE9JVDkxTm5udWZ1bVRYYmxUdmExbHFsdENjc2N3Yi15R0tEVUxuRXJiQUk4akd2dy1ZU3g5S21wNjhTX29NODVtaUNRU2JoSi04T29pUzNFMGtKR3cyZUN1RF8zZEVTZTFxSkhXZU9ESHphSWhhR1R4ZUlMSnNsVlNQTUxwRTg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump ve Netanyahu İran'a karşı tüm seçenekleri (saldırı dahil) değerlendirdiğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-29T21:01:04.722410+00:00",
+  "type": "news",
+  "cluster_id": "c5988add532fd"
+ },
+ {
+  "title": "Microsoft tops quarterly cloud growth estimates, easing spending concerns",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVnM0ZHRyNk40V2NVODFGaFktU2hiQmNldC1DenlGTkNEWmhUNUhscWowMHBrR1ItNE82ZHZwVnRZdVVvTDBRbUtxOEdJa0c5TVdPOGd0X0NKOFBLSkZZc0szVkRpX2poc0hjYjRPOXlrSkVJNFQ3ZDJnV3lMZGJCRTJoZHdsaDBFTnp2cnd1OWNkZ2RjUV9iR0lGNUlNQVdYajlWZ2RHUDZfeUVUWF9tV053OUFNWUxi?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Microsoft bulut hizmeti büyümesinde tahmini aşarak yatırım endişelerini azalttı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-29T21:01:04.722410+00:00",
+  "type": "news",
+  "cluster_id": "c9e9b01db4c19"
+ },
+ {
+  "title": "Oil prices jump, while the Dow drops more than 1,100 as sinking AI stocks drag Wall Street lower",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVhqMlRBNU0taHdVcUdHUUE3eDFsZEFQbTZ6dElnTEtMOGVSb1ktYlhpbmJHMm9NY2xRc1lQRWRXcGZ2N0NUNm9FSWV1ZkQ2MjAtaE5WWkwxeHFDMmxxX3I4MHNDNmduRnZ4ODNzNUtSZ2hyZEh3NVBtMmthTHA5UDRzcTBXOWJYNS0yVHlUM0loVXE5VThkeg?oc=5",
+  "source": "AP",
+  "summary_tr": "Petrol fiyatları yükselirken Dow Jones 1.100 puan düşüş yaşadı; AI hisseleri piyasayı olumsuz etkiledi.",
+  "metric": "Dow Jones -1.100 puan",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-29T21:01:04.722410+00:00",
+  "type": "news",
+  "cluster_id": "cea1f8c4d2dc9"
+ },
+ {
+  "title": "Bursa’da 17 ilçe yönetimi toplu istifa edip YENİ Parti’ye geçti",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/bursa-da-17-ilce-yonetimi-toplu-istifa-edip-yeni-parti-ye-gecti-2524918",
+  "source": "Cumhuriyet",
+  "summary_tr": "Bursa'da 17 ilçe yönetimi CHP'den istifa ederek YENİ Parti'ye geçti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-29T21:01:04.722410+00:00",
+  "type": "news",
+  "cluster_id": "c4efcab12d09f"
+ },
+ {
   "title": "Oil prices jump following fighting with Iran, Wall Street swings after the Fed holds rates steady",
   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVhqMlRBNU0taHdVcUdHUUE3eDFsZEFQbTZ6dElnTEtMOGVSb1ktYlhpbmJHMm9NY2xRc1lQRWRXcGZ2N0NUNm9FSWV1ZkQ2MjAtaE5WWkwxeHFDMmxxX3I4MHNDNmduRnZ4ODNzNUtSZ2hyZEh3NVBtMmthTHA5UDRzcTBXOWJYNS0yVHlUM0loVXE5VThkeg?oc=5",
   "source": "AP",
@@ -59950,53 +59998,5 @@
   "ts": "2026-06-20T12:01:07.732958+00:00",
   "type": "news",
   "cluster_id": "c661d0138e839"
- },
- {
-  "title": "Rusya: Ukrayna'ya ait 190'a yakın İHA'yı Moskova dahil çeşitli bölgeler üzerinde yok ettik",
-  "link": "https://www.aa.com.tr/tr/dunya/rusya-ukraynaya-ait-190a-yakin-ihayi-moskova-dahil-cesitli-bolgeler-uzerinde-yok-ettik/3972969",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Rusya Savunma Bakanlığı, Ukrayna'ya ait 190'a yakın insansız hava aracını yok ettiğini bildirdi.",
-  "metric": "Ukrayna İHA kayıpları: ~190 adet",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-20T12:01:07.732958+00:00",
-  "type": "news",
-  "cluster_id": "cb193f70c9473"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan: Türkiye tarihinde ilk kez bir NATO ve AB üyesi ülkeye savaş gemisi ihraç etmiştir",
-  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-turkiye-tarihinde-ilk-kez-bir-nato-ve-ab-uyesi-ulkeye-savas-gemisi-ihrac-etmistir/3972826",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, Türkiye'nin ilk kez NATO ve AB üyesi bir ülkeye savaş gemisi ihraç ettiğini duyurdu.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-20T12:01:07.732958+00:00",
-  "type": "news",
-  "cluster_id": "cceaec0f5f664"
- },
- {
-  "title": "Bakan Şimşek: Enerjide dönüşümü hızlandırarak dayanıklılığımızı güçlendiriyoruz",
-  "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-enerjide-donusumu-hizlandirarak-dayanikliligimizi-guclendiriyoruz-948814.html",
-  "source": "TRT Haber",
-  "summary_tr": "Hazine ve Maliye Bakanı Şimşek, Dünya Bankası'ndan 400 milyon euro finansmanla enerji dönüşümünü hızlandıracaklarını açıkladı.",
-  "metric": "Finansman: 400 milyon euro",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-20T12:01:07.732958+00:00",
-  "type": "news",
-  "cluster_id": "ccd97eda94ce8"
- },
- {
-  "title": "İhracat birim değer endeksi: %13,7",
-  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vUHRMcHNac3N2dnpnT2FxV0w3M0dxRmRzanR1UTBfUmh5VW1FbFdqcFRaa0o0c2lqRnBNYnFOVzVJcGdyUVpiLUlESFVhM0lBanFvbFZaaVM0OGVVNG1hNUZxZHRrNS11TVRjX3g5anUwd2JGNVZzRk5ZYkdJUQ?oc=5",
-  "source": "TÜİK",
-  "summary_tr": "%13,7",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-06-20T12:01:07.732958+00:00",
-  "type": "data",
-  "cluster_id": ""
  }
 ]
