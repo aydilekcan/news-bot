@@ -1,5 +1,29 @@
 [
  {
+  "title": "Oil prices jump following fighting with Iran, Wall Street swings after the Fed holds rates steady",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVhqMlRBNU0taHdVcUdHUUE3eDFsZEFQbTZ6dElnTEtMOGVSb1ktYlhpbmJHMm9NY2xRc1lQRWRXcGZ2N0NUNm9FSWV1ZkQ2MjAtaE5WWkwxeHFDMmxxX3I4MHNDNmduRnZ4ODNzNUtSZ2hyZEh3NVBtMmthTHA5UDRzcTBXOWJYNS0yVHlUM0loVXE5VThkeg?oc=5",
+  "source": "AP",
+  "summary_tr": "İran ile çatışma sonrası petrol fiyatları yükseldi; Fed faiz oranlarını sabit tutarken Wall Street dalgalandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-29T20:01:08.579794+00:00",
+  "type": "news",
+  "cluster_id": "cca638d5636c0"
+ },
+ {
+  "title": "Elon Musk'tan dev enerji hamlesi: Güneşten üretilecek elektriğin tamamını satın alacak",
+  "link": "https://www.sozcu.com.tr/elon-musk-tan-dev-enerji-hamlesi-gunesten-uretilecek-elektrigin-tamamini-satin-alacak-p340831",
+  "source": "Sözcü",
+  "summary_tr": "Tesla, Zelestra ile yenilenebilir enerji anlaşması imzaladı; güneş enerjisinden üretilen elektriğin tamamını satın alacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-29T20:01:08.579794+00:00",
+  "type": "news",
+  "cluster_id": "c2a5410acd521"
+ },
+ {
   "title": "Fed faizi sabit tuttu",
   "link": "https://www.diken.com.tr/fed-faizi-sabit-tuttu-14/?utm_source=rss&utm_medium=rss&utm_campaign=fed-faizi-sabit-tuttu-14",
   "source": "Diken",
@@ -59972,30 +59996,6 @@
   "lean": "neutral",
   "score": 0,
   "ts": "2026-06-20T12:01:07.732958+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "Kart harcamalarında yön değişti: Vatandaş yurt dışına akın etti",
-  "link": "https://www.sozcu.com.tr/kart-harcamalarinda-yon-degisti-vatandas-yurt-disina-akin-etti-p329624",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye'de kartlı harcamalar yön değiştirdi; yerli kart sahipleri yurt dışı harcamalarını artırdı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-20T11:01:06.843636+00:00",
-  "type": "news",
-  "cluster_id": "c2c6126c66f8d"
- },
- {
-  "title": "TUFE (yillik): %4,2",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWDRwaVUxZFJ5N3hSajZxRXkxVk1SandjRWhtSDFjR0Rvbl9Icmw0TWdEUUhIOS1SYzNlV1ZzSk9pdGtlSzZEWWNtV1hBeXUzQXlSeWd3Sld0dEg5emFzeHpkTmlUakxyU0JFQ29OOG8xRDBqYnJfYjFfRkVrVDJJN2hXZHdBTWJ4SFhWM0Fzbk9IUUcxbEszZVdmc0xDczM0TGtWMi1iWjJ5TjZlOHZVRGtSZktuZw?oc=5",
-  "source": "TUIK",
-  "summary_tr": "%4,2",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-06-20T11:01:06.843636+00:00",
   "type": "data",
   "cluster_id": ""
  }
