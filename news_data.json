@@ -1,5 +1,53 @@
 [
  {
+  "title": "US military says US, Saudi forces struck sites of Iran-backed groups in Iraq",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUHJGTGM0cWxxc1lyajNFQ1Y1NXNKUUdnREtjZDk3Z3RaRUFabm41dmF2UE1YVTFfbVJNTHJWZTlRYzJCTEpGbnVRWlg1akk2cGJKamVPRmZQNEZZRFVsSFp1LXFOOWQxYzRObjYyYmQ1U29LWUVyRHAtNHVFcUplWHlZYWZnWVFJeTVxdmktRVdmaTJ2aTh6SkM5R3VJOEtKR254SzdEMFNyZFJHcHJGN3kwaE4ySVdSUngwbTdhZ1M?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD ve Suudi Arabistan, Irak'taki İran destekli grupların hedeflerine saldırı düzenlediklerini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-29T02:01:03.309349+00:00",
+  "type": "news",
+  "cluster_id": "c30213b47f775"
+ },
+ {
+  "title": "Saudi Arabia says it struck Iran-backed groups in Iraq with U.S. coordination",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONnpyRjRlYWo1ZktJTDVtR3hTLWJLbWctRmJhd0Z6czBoQlEwUkRkZk1fd2wtQ0hLakpEMUhMZkNQOEdzVTR0SV9lQ2Q3TVJpNkFLdll5WmZBTFhqRlZpSE1BLVFQV1lsa0VpOXNPbHJ0TGdpeVMzMGFfV2lWaTI2YVdlSDFjbkdJblVoWXRvSHp3NWZSQnhMNUpVODB4cmJjdnVnVzEzZTFKUDF6TnpIMndKQ3hEN1c5aW9xMG05akZRcENlaHp6Qg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Suudi Arabistan, Irak'taki İran destekli grupları ABD koordinasyonuyla vurduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-29T02:01:03.309349+00:00",
+  "type": "news",
+  "cluster_id": "c30213b47f775"
+ },
+ {
+  "title": "US military says it intercepted Iranian ballistic missiles launched towards US forces in Middle East",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbExYYjdfX1I4Mmt6eFo1Ty1JWjFtdEl5dWxIRnJsbllyODZPd3pmUjc0bzlMX29iV1ZlaUJVSUwwNl8yNkd1dkI5WERxdm1NUXp6Q1RXS1JqLVgzZzZXbFA4ZU9HU2Q0UVNQS2h3N0dtTldHbE5oLUxPek9iem9uMTBiZGU0QUNNeUpwX2Z2ZVF5bkVEZ1FVVjBlVkFoRjBzVkN1ZWU2N1hSbXR0QjgyUVpveXNsT244VDQ1Zm5Nb3BUbFRjR3FNUDhmZTQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD ordusu, Ortadoğu'daki kuvvetlerine doğru İran tarafından fırlatılan balistik füzeleri engellediğini duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-29T02:01:03.309349+00:00",
+  "type": "news",
+  "cluster_id": "cb6d9e88c222a"
+ },
+ {
+  "title": "Sendikalaşma oranı yüzde 13.79’e indi: İşçi patronun insafına kaldı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/sendikalasma-orani-yuzde-13-79-e-indi-isci-patronun-insafina-kaldi-2524619",
+  "source": "Cumhuriyet",
+  "summary_tr": "Sendikalaşma oranı yüzde 13,79'e düştü; 17,3 milyon işçinin 15,1 milyonu sendika dışında kaldı.",
+  "metric": "Sendikalaşma oranı %13,79",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-29T02:01:03.309349+00:00",
+  "type": "news",
+  "cluster_id": "c4a8b30a49350"
+ },
+ {
   "title": "Russia sanctions championed by Graham clear first Senate hurdle as Zelenskiy visits",
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcW1HX3dSOEgyLUVVTUlrOWgzUWNzQ3VDNXFENTdLRUJVMnpTbTV5MDNDSEVtUDc4dE9TSm1QakxlOGdSS1ZQNUI2dmlZM3lDRUxpSzk4eHJVcmpnWWd3b0VIbmZUTHc2SjBMZzUzalBwUC1rYThwX3FjN0NCZkhaSXdYQlpwd3RWdFluRU5QQzhZWWNkcmtNdUxuRWM?oc=5",
   "source": "Reuters",
@@ -59950,53 +59998,5 @@
   "ts": "2026-06-19T06:01:07.975928+00:00",
   "type": "news",
   "cluster_id": "c7ad06332a8b2"
- },
- {
-  "title": "Oil falls as supply moves through Strait of Hormuz after Iran war pact",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcG8wSGhHblhWdlppN2pVNUt0WFExeHM3a2xOS19weUVYRmEtSnQtVlRMNnBxY0hoZkF4b181N0FmTTQyNkFfYTduYUJHSGlreF9vSC1Ib1RPRFU1RERHRngtYWUwTEt0ZkpPSFdlOHBZMF9BN1JMenpYTzcwZ0RzOENHQ2Q1VTc2R0poVWdaTUNLc1lJbjMzRmttWW9LOC1FMWtHU0ZlTQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Petrol fiyatları Hürmüz Boğazı'ndan arz akışının normalleşmesi nedeniyle düştü; ABD-İran mutabakatı etkili oldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-19T06:01:07.975928+00:00",
-  "type": "news",
-  "cluster_id": "cb50425d505c5"
- },
- {
-  "title": "TBMM'de oylama krizi: 'Sahte oy' skandalı!",
-  "link": "https://www.sozcu.com.tr/tbmm-de-oylama-krizi-sahte-oy-skandali-p329217",
-  "source": "Sözcü",
-  "summary_tr": "TBMM'de Suudi Arabistan enerji anlaşmasının oylamasında sahte oy skandalı; AK Partili milletvekilinin bulunmadığı halde oyu kayıtlı.",
-  "metric": "",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-06-19T05:01:02.467522+00:00",
-  "type": "news",
-  "cluster_id": "c90bd1010c736"
- },
- {
-  "title": "Madenden milyarlar çıkıyor, kazanan kim?",
-  "link": "https://www.dw.com/tr/madenden-milyarlar-çıkıyor-kazanan-kim/a-77613994?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Türkiye'de madenciler ücret ve tazminatları için eyleme çıkıyor; milyarlarca dolarlık madencilik sektöründe işçi sorunları gündemde.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-19T05:01:02.467522+00:00",
-  "type": "news",
-  "cluster_id": "ce07e90b3492d"
- },
- {
-  "title": "Avrupa'nın en pahalı ülkesi belli oldu: İşte Türkiye'nin sıralaması",
-  "link": "https://www.sozcu.com.tr/avrupa-nin-en-pahali-ulkesi-belli-oldu-iste-turkiye-nin-siralamasi-p329218",
-  "source": "Sözcü",
-  "summary_tr": "TÜİK Satın Alma Gücü Paritesi sonuçlarına göre Türkiye Avrupa'da en pahalı ülkeler arasında yer aldı; yaşam maliyeti karşılaştırması.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-19T05:01:02.467522+00:00",
-  "type": "news",
-  "cluster_id": "caf2bcf4da086"
  }
 ]
