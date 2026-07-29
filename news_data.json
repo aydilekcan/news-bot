@@ -1,5 +1,53 @@
 [
  {
+  "title": "Trump administration to end Medicare premium subsidy program",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTkd5RnI2ekgzMTdsbVR1R2sxWV9FbTIzV0NZbXdHOXRCd1ctM0V1WkNJemNLS2pOcU1oZTRXcDBhdzN6QmpvODFBV1RMZzlTWENUTWxxT3Izc2Y3SEVjeVlXenM3N013Ny1KS0xIT0pGMEY4Nm1aM25TSUdsa29GbTZEZzRmZG5XdjZXdER6d1pGUklzOVFPWVFXbWk0THhaM2V5Xy1WdDBNY3Nwb055bFFCUzJKYjNrV0xPNjU3UQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump yönetimi Medicare prim sübvansiyonu programını sonlandıracak. ABD sağlık sistemi ve emekli vatandaşları etkileyecek karar.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-29T00:01:07.313295+00:00",
+  "type": "news",
+  "cluster_id": "c05656c4cad2c"
+ },
+ {
+  "title": "NATO member Romania shoots down stray drones from Ukraine war after years of incursions",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaFJfZm9GRFczc3J4QmdNcnBjaElNOFdRU243M1NsMlRsSDBzV3FMMk11TVF0N250SXMxN1FfUFNGZFZzYmt5TUc2MnZBbS1XN0xTRDd1cGFfTVZ2T2p6QkptMnoxODU0QXNSSHY2d0QwTU90WUFnRlhSUTlTd3BIbnBHbkJBVHNVYXVROE1Kb0tDV0JSMHc0ckU5Z0NIbFN3Y21UR2VkU00?oc=5",
+  "source": "AP",
+  "summary_tr": "NATO üyesi Romanya, Ukrayna savaşından kaynaklanan insansız hava araçlarını düşürdü. Bölgesel güvenlik gerilimi artış gösteriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-29T00:01:07.313295+00:00",
+  "type": "news",
+  "cluster_id": "ca731b8602645"
+ },
+ {
+  "title": "Senate confirms Jay Clayton as nation’s intelligence director",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeXJnMGFPM2o2MkpTeW9FVXN1TDZJS2tubkhnVzVYWWU3aTRwWkVUSVNobWhrOHpEM2hXS2V4d2FTNjE2cGJ0X05ZVDVSTXg0UFRWZjhCSnhsbmtPa0VPNTRWM012ckhjNy10aWhGb0dLTWxwQ3Mxa2lpcW1wbUx5czZxYlJjMDlmRDdrSWpwVXFBTHh2NnJyQzlZRDd4b1k2elNBUTlOOUoxdw?oc=5",
+  "source": "AP",
+  "summary_tr": "Jay Clayton ABD istihbarat direktörü olarak Senato tarafından onaylandı. Yönetim üst düzey atama.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-29T00:01:07.313295+00:00",
+  "type": "news",
+  "cluster_id": "cfeaa8bd6f94c"
+ },
+ {
+  "title": "Sanayi Ciro Endeksi büyümesi: %36,6",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX0tZRXF4WUZyeTBNc0E5VmNQMW16REVpQTVjemdFc2xVVWYtTy1iQTdiUUpBWXN0bWUyVjNkalFVUTRDUUg3TXg1TWcxTkV6TnpfUEdIa09xc215N0FDYVFFRU1jOG1PeTVnZE5mWUdzUlJUMXZyNVBDZVcyQmprbzllR25qcnl4eDdJM1hn0gGTAUFVX3lxTE9tVjI4cENJRUFXNFI4Rkg0OXZTS3JuMnVsdno2em1QMURVT0tZUFgzQUxrNXBJQXdwcmhvRV9WNVA2UUZQQnY5Q3pOSGd5TC03QzhpQzM5cm5qZHpqWGVJQk5GaVJIekZ2cE9fUmIzMFkybjY4bm9LUDh4d3N4RGdaVENKRmVpYWF0cVA3TmtWVEdtZw?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%36,6",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-29T00:01:07.313295+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "İsrail basını: Amerikalı yetkili, İran'ın Ürdün'deki ABD üssüne fırlattığı 4 füzenin engellendiğini söyledi",
   "link": "https://www.aa.com.tr/tr/dunya/israil-basini-amerikali-yetkili-iranin-urdundeki-abd-ussune-firlattigi-4-fuzenin-engellendigini-soyledi/4012022",
   "source": "Anadolu Ajansı",
@@ -59950,53 +59998,5 @@
   "ts": "2026-06-19T05:01:02.467522+00:00",
   "type": "news",
   "cluster_id": "c659111c16025"
- },
- {
-  "title": "Vance delays trip to Switzerland to lead new US talks with Iran on its nuclear program",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNenpZRmV3aHY4Qy1sQTBPclVSY1o4ZjcwMVpsYmlHdlV0UjQ5aWUyOHNsemkwSmJuOHNHNzNTUTdDRDNHeWhlbU9lTWtKa2VRMkRCa0ZTN3E5c3pUQkVDTTU3a2hjcE9ac2NSZUd1ZnZNaEtMSm9HYk5XXy1TbEJ2VTJpNkE4dmhYcjJ5TXM0dUtubzhMQ2hCTkRBQ3R6WExra3pubw?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD Başkan Yardımcısı Vance, İran'ın nükleer programı üzerine yeni görüşmeler yönetmek için İsviçre gezisini erteledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-19T05:01:02.467522+00:00",
-  "type": "news",
-  "cluster_id": "c0e99053ffe95"
- },
- {
-  "title": "ABD TÜFE (yıllık): %4,2 (Mayıs 2025)",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdFRlRFpiWUhkTC1IOFQtdl8weFM3MWhnT18ySTZ4ZmlKUUtfeHo1WXlZRGE0SEhSNEszeWtZUnlzSnlSc3U5M2txZFRUX2FZejIza1Uyb1JocWNyWjZQMC1HR2FqX0F3SzljTFJ6UXpoU0h3RFA0X01kc1NmSGtFNF95NnViYlREMlhzOHQtUThpcnJQcGlIMDBGMnI2UVnSAZoBQVVfeXFMT0hXMTQyVEhPbHFfTWh2OTVkM1d5Nlp0b2lUOW8yNjhZemR4VmlON1JRd2lSSVFPTVlOamgzRVl1Qi1WVjlfUDlseVctVXpZQWVBeF81cVJQUGVtVkZQb2pDeWROUXRWUGw4OXdjNVpSS09FMFFpU09sTktTUHRNS1hGS05EdW5JSlBva0RBVmNMalEwUkg0UXh1Zw?oc=5",
-  "source": "ABD Çalışma Bakanlığı",
-  "summary_tr": "%4,2",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-06-19T05:01:02.467522+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "Oil falls as supply starts moving through Strait of Hormuz",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcG8wSGhHblhWdlppN2pVNUt0WFExeHM3a2xOS19weUVYRmEtSnQtVlRMNnBxY0hoZkF4b181N0FmTTQyNkFfYTduYUJHSGlreF9vSC1Ib1RPRFU1RERHRngtYWUwTEt0ZkpPSFdlOHBZMF9BN1JMenpYTzcwZ0RzOENHQ2Q1VTc2R0poVWdaTUNLc1lJbjMzRmttWW9LOC1FMWtHU0ZlTQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Hormutz Boğazı'ndan petrol arzının akışı başladı ve petrol fiyatları düştü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-19T04:01:07.674229+00:00",
-  "type": "news",
-  "cluster_id": "c7fb143adb5bf"
- },
- {
-  "title": "'ABD-İran anlaşması, ne için savaşıldığı sorusunu kaçınılmaz olarak gündeme getiriyor'",
-  "link": "https://www.bbc.com/turkce/articles/cly0vj7vp77o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Trump ve İran Cumhurbaşkanı Pezeşkiyan arasında imzalanan mutabakat, ABD'nin İran'a saldırma planını engelliyor; uluslararası savaş riski azalıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-19T03:01:10.915332+00:00",
-  "type": "news",
-  "cluster_id": "ccb65990d98be"
  }
 ]
