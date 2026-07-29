@@ -1,5 +1,29 @@
 [
  {
+  "title": "ABD, İran'a yönelik yeni yaptırımlar açıkladı",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-irana-yonelik-yeni-yaptirimlar-acikladi/4012851",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD, İran'ın Hürmüz Boğazı'ndan gelir elde etmesini sağladığı 2 şirkete ve İran ham petrolü ticaretine yönelik yeni yaptırımlar açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-29T16:01:05.016231+00:00",
+  "type": "news",
+  "cluster_id": "c7a0e93c4eb2e"
+ },
+ {
+  "title": "ABD'de mortgage faizi Ağustos 2025'ten bu yana en yüksek seviyeye çıktı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abdde-mortgage-faizi-agustos-2025ten-bu-yana-en-yuksek-seviyeye-cikti/4012834",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD'de 30 yıl vadeli mortgage faiz oranı %6,76'ya çıkarak Ağustos 2025'ten bu yana en yüksek seviyeye ulaştı.",
+  "metric": "30 yıl mortgage faiz oranı Ağustos 2025 -> %6,76 (en yüksek seviye)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-29T16:01:05.016231+00:00",
+  "type": "news",
+  "cluster_id": "cd9b27da67f3c"
+ },
+ {
   "title": "Trump’tan İran’a açık tehdit: Çok sert vuracağız",
   "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-iran-a-acik-tehdit-cok-sert-vuracagiz-2524824",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-20T06:01:04.351849+00:00",
   "type": "news",
   "cluster_id": "c970e4e12002f"
- },
- {
-  "title": "Milyonlarca araca af yolda: Şartları sağlayanın borcu sıfırlanacak",
-  "link": "https://www.sozcu.com.tr/milyonlarca-araca-af-yolda-sartlari-saglayanin-borcu-sifirlanacak-p329534",
-  "source": "Sözcü",
-  "summary_tr": "Uzun süredir muayenesi ve sigortası olmayan eski araçların trafik tescil kayıtlarında af uygulanması planlanıyor; şartları sağlayanların borcu sıfırlanacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-20T06:01:04.351849+00:00",
-  "type": "news",
-  "cluster_id": "c7ebb368782c1"
- },
- {
-  "title": "Memur ve emekliyi bekleyen Temmuz kâbusu",
-  "link": "https://www.sozcu.com.tr/memur-ve-emekliyi-bekleyen-temmuz-kabusu-p329522",
-  "source": "Sözcü",
-  "summary_tr": "Temmuz ayında memur ve emekli maaşlarında güncellemeler yapılacak; toplu sözleşme sisteminin katsayı uygulamaları beklenti yarıyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-20T05:01:02.420417+00:00",
-  "type": "news",
-  "cluster_id": "cd83c67385975"
  }
 ]
