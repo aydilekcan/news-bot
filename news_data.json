@@ -1,5 +1,41 @@
 [
  {
+  "title": "Üsküdar Belediye Başkanı Sinem Dedetaş gözaltına alındı",
+  "link": "https://www.bbc.com/turkce/articles/ckg4rdn5ydgo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Üsküdar Belediye Başkanı Sinem Dedetaş gözaltına alındı. İstanbul Anadolu Cumhuriyet Başsavcılığı'nca yürütülen soruşturma kapsamında belediyeye operasyon düzenlendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-29T06:00:58.417308+00:00",
+  "type": "news",
+  "cluster_id": "ce34f1e502f11"
+ },
+ {
+  "title": "Gözler onun üzerinde: Sinem Dedetaş kimdir?",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeDN4eERlaHhaa1l0dHpuMExWdUxucFAwRV80b1BVbEVnbW5QdVpYeHVVbEdTZmQzLUZldk8zaEVzeEowUnh1cUk3SVJNeTM0dUQ0RnpRNmNYTkphay1GTnZ0Z3NYM0YyX3dPdzZJVFdSb2I2WUR3V09JbWVrTWF5SnduU0pDMXVqdndPMHhCM2lNRnZBQng4dVotVkVpbC11Ny1jQ3Z3UEl2QmFURlJQUw?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Üsküdar Belediye Başkanı Sinem Dedetaş'ın gözaltına alınmasıyla ilgili haber. Kimdir, profili nedir sorularına cevap aranıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-29T06:00:58.417308+00:00",
+  "type": "news",
+  "cluster_id": "c030801022b8c"
+ },
+ {
+  "title": "Yapı Kredi Portföy satıldı: İşte yeni sahibi",
+  "link": "https://www.sozcu.com.tr/yapi-kredi-portfoy-satildi-iste-yeni-sahibi-p340614",
+  "source": "Sözcü",
+  "summary_tr": "Yapı Kredi Bankası, Yapı Kredi Portföy'ünü AZ Holdings'e sattığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-29T06:00:58.417308+00:00",
+  "type": "news",
+  "cluster_id": "c9102792a11ce"
+ },
+ {
   "title": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR19sNWVrRDdhcXlNdTlxcUdNR0dNWDRBcjZPd21xOEM2bEYtdDJiWTEtYzlweWs5ZmtILVlhQkVUNzdaaENHbnhqTl9SSFNCZjk3eXNMS1o4SXFzT2VBS3VZZ0p6MVlrQldWNjRMUGlTN2tDR2xUOVBUdkdkTndueExrQm9vRGtTLTdBWjNGMDhZRC1qNDZXYVk3TXB0bWZ4ZFhpYUtfZ2JaalVZdjU3emN6LUptbjA?oc=5",
   "source": "Reuters",
@@ -59962,41 +59998,5 @@
   "ts": "2026-06-19T08:01:06.887859+00:00",
   "type": "news",
   "cluster_id": "ce076b455fa5b"
- },
- {
-  "title": "Cengiz'den işçiye 'ikramiye' darbesi",
-  "link": "https://www.sozcu.com.tr/cengiz-den-isciye-ikramiye-darbesi-p329302",
-  "source": "Sözcü",
-  "summary_tr": "Cengiz Holding, Çayeli Bakır İşletmeleri'ni satın aldı; işçilerin ikramiye uygulamasında değişiklik söz konusu.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-19T08:01:06.887859+00:00",
-  "type": "news",
-  "cluster_id": "cc3ab84f9f5ea"
- },
- {
-  "title": "İhracat birim değeri (yillik): %13,7",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOXd0cmI5NjdVSWk1SjZ2MjZyZ2V6YmRWdEp1UVpwSF9LY0paTkpxTE5JTnNLeXV6SS1lbHdPM3pBSEpCQVZuSnJ2QWFkMXpsMlVQemZfVnQ1WUctV3k1SUhpYlY1VUhwU3lsdWpyVjN5X0FINzNNbEI3aklfUGRKVDloREI2Yi1RRFlScFJTRVJVQklxNXVfT3V3?oc=5",
-  "source": "TUIK",
-  "summary_tr": "%13,7",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-06-19T08:01:06.887859+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "İthalat birim değeri (yillik): %11,3",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORVNxeDhGVUk1eXZSS0ozX0I4eldqZzZ4R29MMGhzNTd2U1RjeUR4dldpU2FnRHE2SmFWYVg0UWRIYzVKMkN1SmsyaWdfWk9mVlRMSERSbFg1ZmFxeUxISE1yTjZzTUtFVmFyN3h6NlhvYkNZaVJleEs3eFBzcWNRZk9ZRGNyUlBER0RWU2tlWkhMLUZ50gGaAUFVX3lxTE5OeVVpU25fWEx4OHQ3Ti1ZYmNTZU1BdkE4OHg4MjlZSm1tc3BoQ3kwYUxhbHJ2ck5Ic0lsNHBNWjhmZkw3MEVOMTNKeTY1RWNIMU92a1RrODRfMGQ0MXVEbFo5Z2tTTldXV25hQWE3RW03ekpVUks0VFNnTGlpeW9ZYmQydDI4RFk2ZHVENzRjWjNpVXVfZ3kxRXc?oc=5",
-  "source": "TUIK",
-  "summary_tr": "%11,3",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-06-19T08:01:06.887859+00:00",
-  "type": "data",
-  "cluster_id": ""
  }
 ]
