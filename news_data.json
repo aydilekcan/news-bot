@@ -1,5 +1,77 @@
 [
  {
+  "title": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR19sNWVrRDdhcXlNdTlxcUdNR0dNWDRBcjZPd21xOEM2bEYtdDJiWTEtYzlweWs5ZmtILVlhQkVUNzdaaENHbnhqTl9SSFNCZjk3eXNMS1o4SXFzT2VBS3VZZ0p6MVlrQldWNjRMUGlTN2tDR2xUOVBUdkdkTndueExrQm9vRGtTLTdBWjNGMDhZRC1qNDZXYVk3TXB0bWZ4ZFhpYUtfZ2JaalVZdjU3emN6LUptbjA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran, haftalarca içinde Çin'den omuz atmalı füze sistemleri alacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-29T05:01:11.551569+00:00",
+  "type": "news",
+  "cluster_id": "c7413f06c4359"
+ },
+ {
+  "title": "US, Saudis attack Iran-backed groups in Iraq, threatening to intensify conflict",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD ve Suudi Arabistan, Irak'taki İran destekli gruplara saldırı düzenledi; çatışma yoğunlaşma riski var.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-29T05:01:11.551569+00:00",
+  "type": "news",
+  "cluster_id": "c93ffdbcf1aaf"
+ },
+ {
+  "title": "Vakıf üniversitelerinde liste fiyatı 3 milyon TL'yi aştı",
+  "link": "https://www.dw.com/tr/vakıf-üniversitelerinde-liste-fiyatı-3-milyon-tl-yi-aştı/a-78148999?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Vakıf üniversitelerinde lisans eğitiminin ortalama yıllık ücreti 573 bin TL'ye çıktı; bazı programlarda 3 milyon TL'yi aştı.",
+  "metric": "Vakıf üniversitesi yıllık ücreti -> 573 bin TL (bazı programlar 3 milyon TL+)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-29T05:01:11.551569+00:00",
+  "type": "news",
+  "cluster_id": "c5313f5933809"
+ },
+ {
+  "title": "Alaattin Aktaş: Hazineyle vatandaşın durumu birbirine çok benziyor",
+  "link": "https://www.diken.com.tr/alaattin-aktas-hazineyle-vatandasin-durumu-birbirine-cok-benziyor/?utm_source=rss&utm_medium=rss&utm_campaign=alaattin-aktas-hazineyle-vatandasin-durumu-birbirine-cok-benziyor",
+  "source": "Diken",
+  "summary_tr": "Köşe yazısında Hazine ve vatandaşın ekonomik durumunun benzerliği tartışılıyor; 2020'den beri yüksek faizle borçlanma vurgulanıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-29T05:01:11.551569+00:00",
+  "type": "news",
+  "cluster_id": "cb570fdc12906"
+ },
+ {
+  "title": "Altın, gümüş ve dolar saat 21.00'i bekliyor",
+  "link": "https://www.sozcu.com.tr/altin-gumus-ve-dolar-saat-21-i-bekliyor-p340587",
+  "source": "Sözcü",
+  "summary_tr": "Altın, gümüş ve dolar, Fed'in para politikası kararı beklentisiyle yatırımcıların ilgisini çekiyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-29T05:01:11.551569+00:00",
+  "type": "news",
+  "cluster_id": "c36bbea29768f"
+ },
+ {
+  "title": "Asian stock rout deepens on AI worries ahead of tech earnings",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UQ0pPSFVQOVM0dWVQbmRmR3Nrdm9hUG4xLWR6bEVza0FyMVFxdXIwMm9LMXA2azA3c1Baa295M1RwUTJMRTBRc0FLWHdWOUNzUHl0M2hGUVNtWDgwSWt2NU5hYWlrT3ZIOUI5dkRMb3c3WTEwRzBaMzNVQQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Yapay zeka endişeleri ve teknoloji kazanç öncesinde Asya borsalarında satış basıncı derinleşiyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-29T05:01:11.551569+00:00",
+  "type": "news",
+  "cluster_id": "c139b75803e85"
+ },
+ {
   "title": "ABD ve İran arasında kısa süreliğine duran saldırılar yeniden başladı",
   "link": "https://www.bbc.com/turkce/articles/cvgvp3e2dgeo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-06-19T08:01:06.887859+00:00",
   "type": "data",
   "cluster_id": ""
- },
- {
-  "title": "US-Iran peace talks in Geneva called off, clouding prospects for lasting truce",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLW9pazRsVVhsZUZKVDZfWDF6SFhUdDFJMkJ6Snk5bDgtN3JpMC1WUTBmdWN1N09Hby1TOGRndFRhSW1kUUJRTjd5dXVqMWdnbUdwXzFiREp4WVhGN2l1aE5BaFd0RThIUXU3WjRqN190R2xRMFRZZ2IxN19ZSFNIQXhXRmZmdndmcExjLWJOamVpRnZRSnd3aW1jREY4UXNaMVVTR2VpYU9YRVR0RE1EQW81bTFad3FsamZ3bFczLUszSU0?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD-İran barış müzakereleri Cenevre'de iptal edildi; kalıcı ateşkes umutları zayıfladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-19T07:01:18.043365+00:00",
-  "type": "news",
-  "cluster_id": "cda5260018524"
- },
- {
-  "title": "Vance'den İsrail'e: Kalan tek müttefikinizi eleştirmeyin",
-  "link": "https://www.dw.com/tr/vance-den-israil-e-kalan-tek-müttefikinizi-eleştirmeyin/a-77621057?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "ABD Başkan Yardımcısı Vance, İsrail'e sert tepki göstererek 'kalan tek müttefikinizi eleştirmeyin' mesajı verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-19T07:01:18.043365+00:00",
-  "type": "news",
-  "cluster_id": "cec78829ac603"
- },
- {
-  "title": "TBMM Genel Kurulu'nda AKP'lilerden 'oy pusulası' skandalı: Yoklama yapıldı, vekiller salonda bulunamadı!",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/tbmm-genel-kurulu-nda-akp-lilerden-oy-pusulasi-skandali-yoklama-yapildi-vekiller-salonda-bulunamadi-2513462",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM'de Suudi Arabistan enerji anlaşması oylamasında AKP'li vekillerin adına oy pusulası kullanıldığı ortaya çıktı; yoklama yapıldı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-19T07:01:18.043365+00:00",
-  "type": "news",
-  "cluster_id": "ca8480486d165"
- },
- {
-  "title": "Hürmüz'ün normale dönmesi petrolü nasıl etkiler? Bankacılık devi beklentisini açıkladı",
-  "link": "https://www.sozcu.com.tr/hurmuz-un-normale-donmesi-petrolu-nasil-etkiler-bankacilik-devi-beklentisini-acikladi-p329272",
-  "source": "Sözcü",
-  "summary_tr": "ABD'nin İran deniz ablukasını kaldırması sonrası petrolde sert düşüş; bankacılık dev beklentilerini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-19T07:01:18.043365+00:00",
-  "type": "news",
-  "cluster_id": "c344207c4035c"
- },
- {
-  "title": "WSJ: Pentagon, İran ile savaş ve diğer giderler için 80 milyar dolar ek bütçe talep etti",
-  "link": "https://www.trthaber.com/haber/dunya/wsj-pentagon-iran-ile-savas-ve-diger-giderler-icin-80-milyar-dolar-ek-butce-talep-etti-948676.html",
-  "source": "TRT Haber",
-  "summary_tr": "Pentagon İran ile savaş giderleri için Kongre'den 80 milyar dolar ek bütçe talep etti.",
-  "metric": "Pentagon ek bütçe talebi: 80 milyar dolar",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-19T07:01:18.043365+00:00",
-  "type": "news",
-  "cluster_id": "c339b1bf7a4fa"
- },
- {
-  "title": "Yen nears 40-year low, dollar gains as peace talks in doubt",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb3R3dDYza1RSMXJDQ1NSLWRjaEthY0FzVDVIN1VXRlE2SnNmeENBNURzWXhOYVk2Y0Nrc1VIY1YyZ3RDbmtCcFFEZGFQQ0lSOUhGcEdMZGJHNkFSdFpQMklqOHpLenBkZVQ3RWMtY2IzSW1TWG0tMkRmZGF6bGZpbERFNk5EbnpOdEVfMzNBZjZRMHNKekJ1U1N0akhNRTE1Q3YteXhOazFOdw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Yen 40 yıllık düşük seviyelere yaklaştı; barış görüşmeleri belirsizliği dolar kazançlarını hızlandırdı.",
-  "metric": "Yen: 40 yıllık düşük seviyelerine yaklaştı",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-19T07:01:18.043365+00:00",
-  "type": "news",
-  "cluster_id": "c2699433a6cdf"
  }
 ]
