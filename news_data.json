@@ -1,5 +1,41 @@
 [
  {
+  "title": "Son dakika... Suudi Arabistan ve ABD'den İran'a ortak saldırı",
+  "link": "https://www.sozcu.com.tr/son-dakika-suudi-arabistan-ve-abd-den-iran-a-ortak-saldiri-p340581",
+  "source": "Sözcü",
+  "summary_tr": "ABD ve Suudi Arabistan, Irak'ın doğusunda İran destekli gruplara karşı ortak hava saldırıları düzenledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-29T03:01:00.182172+00:00",
+  "type": "news",
+  "cluster_id": "c6095eac0e763"
+ },
+ {
+  "title": "ABD ve Suudi Arabistan Irak'ta İran destekli gruplara ait hedeflere hava saldırıları düzenledi",
+  "link": "https://www.aa.com.tr/tr/live-blog/son-gelismeler-abdnin-irana-yonelik-saldirilari-ve-iran-in-misillemeleri/6067",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD ve Suudi Arabistan silahlı kuvvetleri, Irak'ın doğusundaki İran destekli hedeflere hava saldırıları düzenledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-29T03:01:00.182172+00:00",
+  "type": "news",
+  "cluster_id": "ca7facadec0e1"
+ },
+ {
+  "title": "Oil prices rebound by more than $2 a barrel on prospect of tightening US crude supplies",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0ctWlZRN0hINkdrNUJmWWxpV0ZGNGw2Y2taRk1DbFBpdzd5bFdXQmJEcW9VRExnRFBtTWlTTHBRTU5tcDN2azF6VmtxdDN6WlVncmJxSVJhYjM4Wlctb3NEcnEzSWt4djdPSWJJX3ItYmpaN0UyZ09pbV85YjlRMkQ4RTV2RDE2c2NhYlRTdEVEUUFoWEVLMVBqUzhhX2xtVlJLUFp0RWFZTFpCSGJwMTRydUQ3NUx6ejJyYWFCdzBMVWpOYWZqbzF3?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD ham petrol arzı sıklaşma beklentisiyle petrol fiyatları varil başına 2 dolardan fazla yükseldi.",
+  "metric": "Petrol fiyatı +$2/varil",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-29T03:01:00.182172+00:00",
+  "type": "news",
+  "cluster_id": "c8abe74159c44"
+ },
+ {
   "title": "US military says US, Saudi forces struck sites of Iran-backed groups in Iraq",
   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUHJGTGM0cWxxc1lyajNFQ1Y1NXNKUUdnREtjZDk3Z3RaRUFabm41dmF2UE1YVTFfbVJNTHJWZTlRYzJCTEpGbnVRWlg1akk2cGJKamVPRmZQNEZZRFVsSFp1LXFOOWQxYzRObjYyYmQ1U29LWUVyRHAtNHVFcUplWHlZYWZnWVFJeTVxdmktRVdmaTJ2aTh6SkM5R3VJOEtKR254SzdEMFNyZFJHcHJGN3kwaE4ySVdSUngwbTdhZ1M?oc=5",
   "source": "Reuters",
@@ -59962,41 +59998,5 @@
   "ts": "2026-06-19T06:01:07.975928+00:00",
   "type": "news",
   "cluster_id": "c4aa08d07a1db"
- },
- {
-  "title": "Son dakika... Silifke Belediyesi'ne operasyon: Belediye Başkanı Mustafa Turgut gözaltına alındı",
-  "link": "https://www.sozcu.com.tr/son-dakika-silifke-belediyesi-ne-operasyon-belediye-baskani-mustafa-turgut-gozaltina-alindi-p329238",
-  "source": "Sözcü",
-  "summary_tr": "Mersin'de CHP'li Silifke Belediyesi'ne operasyon düzenlendi, Belediye Başkanı Mustafa Turgut dahil çok sayıda şahıs gözaltına alındı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-19T06:01:07.975928+00:00",
-  "type": "news",
-  "cluster_id": "c1f78b6d671d0"
- },
- {
-  "title": "Adalar Belediyesi'ne rüşvet ve yolsuzluk operasyonu",
-  "link": "https://www.trthaber.com/haber/gundem/adalar-belediyesine-rusvet-ve-yolsuzluk-operasyonu-948671.html",
-  "source": "TRT Haber",
-  "summary_tr": "Adalar Belediyesi'ne rüşvet ve yolsuzluk iddialarıyla operasyon düzenlendi.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-19T06:01:07.975928+00:00",
-  "type": "news",
-  "cluster_id": "cb03212e1ed4d"
- },
- {
-  "title": "Silifke Belediyesi'ne operasyon: Belediye Başkanı dahil çok sayıda gözaltı var",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM2pNaTUzZzlZeEtXeEs4N3FJbkgwVTNyRUF3dW1JTVRTWHlzMllnRXZhMU9IT2xtNC1zNndIOHExLVRBeVRYS244M2l0VUUxSGpEeFRwLXJaZW83ek1QRDUzSXlFbTVPUWw2Y3Nmb2FteUdwcG1XeXBlbnpWN0NyRGtLSEVjZ1BIQ0dubEphVGs0d3N0czFBaFBnNXFLeGplcE05T1pJZ3RtUmo2NlFiRVZMWXU?oc=5",
-  "source": "soL",
-  "summary_tr": "Silifke Belediyesi'ne operasyon yapılmış, Belediye Başkanı dahil çok sayıda gözaltı var.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-19T06:01:07.975928+00:00",
-  "type": "news",
-  "cluster_id": "c7ad06332a8b2"
  }
 ]
