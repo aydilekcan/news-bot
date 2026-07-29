@@ -1,5 +1,65 @@
 [
  {
+  "title": "AİHM, Osman Kavala kararını 25 Ağustos’ta açıklayacak",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbEZhZGtZQWpQa2hrMEQ0aDBYRTduNDE3MHRteW9EVk1qY25oS09fcE1LLVI4RjZXcHBkN05FNlROWE5VR1duNVBkb05WeEZmSFNYSmhqUnRZbkF6UHNHVmdXQU9qeXNpeVlxM2NYTlZuN3VMQUtKMGRSbmxkNEY2RDdjY0pDMS1zV3lrdFln?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "AİHM, Osman Kavala davası hakkında kararını 25 Ağustos'ta açıklayacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-29T12:01:18.972556+00:00",
+  "type": "news",
+  "cluster_id": "c97fc9789707e"
+ },
+ {
+  "title": "Türkiye'nin yaklaşık yüzde 8,5'ini karşılıyor: Çilek üretimi üreticisinin yüzünü güldürdü",
+  "link": "https://www.cumhuriyet.com.tr/yasam/turkiye-nin-yaklasik-yuzde-8-5-ini-karsiliyor-cilek-uretimi-ureticisinin-yuzunu-guldurdu-2524759",
+  "source": "Cumhuriyet",
+  "summary_tr": "Çanakkale'deki çilek üreticileri ürünlerini 70 TL kilogramdan satarak gelir elde ediyor; çilek üretimi Türkiye'nin %8,5'ini karşılıyor.",
+  "metric": "Çilek fiyatı: 70 TL/kg",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-29T12:01:18.972556+00:00",
+  "type": "news",
+  "cluster_id": "cfab16cc03302"
+ },
+ {
+  "title": "Fasulyede hasat maratonu başladı: Kilogramı 50-60 TL'den alıcı buluyor",
+  "link": "https://www.cumhuriyet.com.tr/yasam/fasulyede-hasat-maratonu-basladi-kilogrami-50-60-tl-den-alici-buluyor-2524755",
+  "source": "Cumhuriyet",
+  "summary_tr": "Afyonkarahisar'ın Şuhut ilçesinde taze fasulye hasadı başladı; ürün kilogramı 50-60 TL fiyatla satılıyor.",
+  "metric": "Fasulye fiyatı: 50-60 TL/kg",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-29T12:01:18.972556+00:00",
+  "type": "news",
+  "cluster_id": "c5eae4a080879"
+ },
+ {
+  "title": "Turizmin kalbi ilk yarıda kayıpta",
+  "link": "https://www.sozcu.com.tr/turizmin-kalbi-ilk-yarida-kayipta-p340739",
+  "source": "Sözcü",
+  "summary_tr": "Turizm sektöründe yaz sezonunda (haziran-ağustos) yerli turist ve diaspora turizmine rağmen pik aylar kayıp; savaş etkisi turist akışını engelledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-29T12:01:18.972556+00:00",
+  "type": "news",
+  "cluster_id": "c992f74dc2c7f"
+ },
+ {
+  "title": "Metgün Enerji yeni yatırımlarla kurulu gücünü 1000 megavata çıkarmayı hedefliyor",
+  "link": "https://www.aa.com.tr/tr/ekonomi/metgun-enerji-yeni-yatirimlarla-kurulu-gucunu-1000-megavata-cikarmayi-hedefliyor/4012540",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Metgün Enerji, rüzgar ve güneş yatırımlarıyla kurulu gücünü 274 megavattan 2030'da 1000 megavata çıkarmayı hedefliyor.",
+  "metric": "Kurulu güç: 274 MW -> 1000 MW (hedef 2030)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-29T12:01:18.972556+00:00",
+  "type": "news",
+  "cluster_id": "c0a95278a5084"
+ },
+ {
   "title": "2024'teki yerel seçimlerden bu yana kaç belediye başkanı tutuklandı?",
   "link": "https://www.bbc.com/turkce/articles/cq6ge85y5ylo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59938,65 +59998,5 @@
   "ts": "2026-06-19T18:01:09.483558+00:00",
   "type": "news",
   "cluster_id": "c012f78fc5a93"
- },
- {
-  "title": "Iran says it will waive fees for Hormuz during 60 day negotiation period",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUXNFdk9kOGRINmxCdTJYVm9wX0p1NF9TUWF0NHJKX3V5UVB6am05Q2FMUG5DSWl0SVd6N2ttN3h6TG1paE83VFRZelhGcGZqcG1BZDQ3d2xxd3JwQWlURFl0Yl9KcFVNeWMxVkZySW5jRHItWDEtNXJGMFJ2d2c4TXB6ZUluZVY0bUhSaDloeEk2QTdZVDB5V0I1RWhWZVRpYVRqcGcxeHBPTC1IMlJNa3Y5bWlWTWlScnQ3NzNlOA?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran, 60 günlük müzakere döneminde Hürmüz Boğazı geçiş ücreti almayacağını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-19T18:01:09.483558+00:00",
-  "type": "news",
-  "cluster_id": "cac8ba377fb3a"
- },
- {
-  "title": "US push to get Iran talks started hits an early bump. Vance stays at home, for now",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN3BNOERVVFFxUGJ3enFmQ3RqemY1dWVubjJHOVZHMFRfZXh4Q21BMmFkNGVrMk14YUM4bXhjb1dOdElOZ3k3dGRCcHBZZ3kzQ2VtVVllZ1RvZ1VqaE5ZdUlVcllXd05JN1dZWHNnMk9yeVZqS05WLXZsaWk5cEVyV21KR0N4d3hvR3E4UklDQUFoUQ?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD-İran müzakereleri başlamadan erkenden engelle ile karşı karşıya kaldı; ABD Dışişleri Danışmanı Vance şimdilik evinde kalacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-19T18:01:09.483558+00:00",
-  "type": "news",
-  "cluster_id": "c5174b2cd44c0"
- },
- {
-  "title": "Beş aylık bütçe açığı: >1 trilyon TL (İlk beş ay)",
-  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLXNhb1Z5UFFhYzN3XzNyRHdQbGJVTjFTeUtoUFF4X3VHSDRPY3BDZ1dQcVF5R3FsWTZMT3NFWkpoVmx2QzRnOFBlbDhTZWpCT09ITE9qTzI4UHBnWFJfNnA4WjNGVmdQWVp6cTRJZlQwQ2UtQzZYUklDRFV3ZnBRNVRWeXlDQdIBiwFBVV95cUxNLVhjRTNTM05XNVdleVhoWmtwdFpZUHZpb28tTVBscmZLZnFxS3BCMmxnaGNfSG5BaFBWU3Y5Vmw2cWtYNzNWV24wV2FoNk5Ia3JfQmVmc1FpSUd4a3BqNmFDYW1oeFlkZE5URVFReGxDZzhhUTVxT0g0Qzd0NzViSFJvQTAxMXRIbEpz?oc=5",
-  "source": "Hazine ve Maliye Bakanlığı",
-  "summary_tr": ">1 trilyon TL",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-06-19T18:01:09.483558+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "İsrail ve Hizbullah ateşkeste uzlaştı",
-  "link": "https://www.bbc.com/turkce/articles/ce8k0znpgd3o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "İsrail ve Hizbullah ateşkese uzlaştı; ateşkes bugün yerel saatle 16:00'da yürürlüğe girdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-19T17:01:06.180160+00:00",
-  "type": "news",
-  "cluster_id": "c2d9596e1f243"
- },
- {
-  "title": "'Kılıçlı yemin töreni' sonrası ihraç edilen komutanlar hakkında göreve iade kararı",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOHM2NVR5c1NYZE9zNU8xM0U1ay1hSHNPS0w4OERUMVhEc1hCeDBsOEJyenNyUUVrSzhFaGx2T1hYTktrVjhVc1lNV2lZbXdIVENVQXV0dERSblFidXRjbmFwSVZiRlVoRWRYaDNuZVk2dUotRExUNThYT2paQ0tYbzNqOVRtRzZTSTlCbGd1bnBhdnNpd2hfbjdZQ18tdmZXQThOSUhlb01VbGNOVzg4Uzdka1lsOUJtMEE?oc=5",
-  "source": "soL",
-  "summary_tr": "'Kılıçlı yemin töreni' sonrası ihraç edilen komutanlar hakkında göreve iade kararı verildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-19T17:01:06.180160+00:00",
-  "type": "news",
-  "cluster_id": "c1ca781f077ea"
  }
 ]
