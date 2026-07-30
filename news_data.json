@@ -1,5 +1,29 @@
 [
  {
+  "title": "Partisini kapatan Davutoğlu’na sürpriz ziyaret",
+  "link": "https://www.sozcu.com.tr/partisini-kapatan-davutoglu-na-surpriz-ziyaret-p341123",
+  "source": "Sözcü",
+  "summary_tr": "DEVA Partisi Genel Başkanı Ali Babacan, partisini kapatan Gelecek Partisi Genel Başkanı Ahmet Davutoğlu'nu ziyaret etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-30T17:01:06.111319+00:00",
+  "type": "news",
+  "cluster_id": "c527e01017c95"
+ },
+ {
+  "title": "Doruk Madencilik işçileri neden yine eylemde?",
+  "link": "https://www.bbc.com/turkce/articles/c70gr5x3n0zo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Doruk Madencilik işçileri Ankara'da alacaklarını almak için eylemde. Türkiye Maden İşçileri Sendikası, 60 işçiyi Yıldızlar SSS Holding'in önüne zincirleyerek protesto düzenliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-30T17:01:06.111319+00:00",
+  "type": "news",
+  "cluster_id": "c83fddee03e04"
+ },
+ {
   "title": "TBMM'de 'belediye operasyonları' tartışması: Dikkat çeken 'başsavcı' çıkışı",
   "link": "https://www.cumhuriyet.com.tr/siyaset/tbmm-de-belediye-operasyonlari-tartismasi-dikkat-ceken-bassavci-cikisi-2525134",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-22T03:01:10.034861+00:00",
   "type": "news",
   "cluster_id": "cfab3388cd9ec"
- },
- {
-  "title": "US-Iran negotiations expected through the night after Trump shakes talks with threats",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNFh5b3dHTzJSUUpQVUtRWDdqTG5SYWtlNHhyNXBuRWZEbHgycFNiZUVkLTJsa3d5NkJiMDVjeDE2LVpEVGJ1YkZURGlpZnc0WlAySkJVcVc2dTJsNHAzNVZQaElzS1BZeVN6TzJDTGFzOV9TZVdZMV9FRHhYNVpsMkV2MjcwNXI0NUtORXlMd2lzTmdlUDl3TWxOblBZQQ?oc=5",
-  "source": "AP",
-  "summary_tr": "Trump'ın tehditleriyle sarsılan ABD-İran müzakereleri gece boyunca devam etmesi bekleniyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-22T03:01:10.034861+00:00",
-  "type": "news",
-  "cluster_id": "cb40d0613c673"
- },
- {
-  "title": "Yatırımcı altına küstü güçlü dolar vurdu",
-  "link": "https://www.sozcu.com.tr/yatirimci-altina-kustu-guclu-dolar-vurdu-p329945",
-  "source": "Sözcü",
-  "summary_tr": "Altın fiyatı dolar baskısı altında düşüş gösterdi. Gram altın 6.175 liradan kapandı; barış bozulursa 4.000 dolar seviyesine kadar düşüş riski bulunmaktadır.",
-  "metric": "Gram altın 6.175 TL",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-22T03:01:10.034861+00:00",
-  "type": "news",
-  "cluster_id": "cce599465f6b3"
  }
 ]
