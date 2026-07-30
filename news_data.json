@@ -1,5 +1,53 @@
 [
  {
+  "title": "ABD İran'a karşı 'güçlü' saldırılar başlattı",
+  "link": "https://www.bbc.com/turkce/articles/cvgvp3e2dgeo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD Başkanı Trump'ın 29 Temmuz'da açıkladığı misilleme kararını takiben ABD, İran'a karşı yeniden saldırılara başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-30T04:01:01.001784+00:00",
+  "type": "news",
+  "cluster_id": "c2d1817640ca6"
+ },
+ {
+  "title": "Fed leaves interest rate unchanged but with 3 dissents as Warsh praises ‘good family fight’",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN0dYeFppekRSNVVZZFhyUjJpLXd4aWlvMWpiZDc5M3lVcXZFWW9WbjVLSzl3MEZDcHhBMkdjZkpWTjRoY2ZRVThJeHN1emVWVzZXRmlOTFEwM0ZiR1d6NWV4b2dqdno0d0F2cU55emE2RjBjNmJtLUIwMzhfcFNlMUdEY0FJNnNTT2N4Sm55RDBJblExX2dYbmJCMWU1ZnNzVE5jbTdLQVZ6VF94OFE?oc=5",
+  "source": "AP",
+  "summary_tr": "Federal Rezerv faiz oranlarını değiştirmedi; kararında 3 üye muhalefet etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-30T04:01:01.001784+00:00",
+  "type": "news",
+  "cluster_id": "c4f08eb026283"
+ },
+ {
+  "title": "Samsung sees chip shortage extending to 2028, shares surge 8%",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeEFMZFc3WHBfOVFBR0JhTjNnd2dWdmpoSm9wSW1YNDc0S2FmemlKMWVZaDdPcjJTanc5a19BVHRnTGtMNlNfWFBvbHk1ZGM3YjlIb3lzVU52RUZQS0xDaHgybDFJVFhhUFhyT3NMa0E3bzY2T0M5ZU9PRHg0VklLS3R3d2o5eHVNcWdGdF9rNk1qS29VandoLTdReDV5T0pBR2phRHZiWks3U0hqdHktR2xsUUZMRlpuNjVrRWJ3?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Samsung, çip kıtlığının 2028'e kadar uzanacağını tahmin etti; şirketin hisseleri %8 yükseldi.",
+  "metric": "Samsung hisse senedi +%8",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-30T04:01:01.001784+00:00",
+  "type": "news",
+  "cluster_id": "c99a024ff813c"
+ },
+ {
+  "title": "Dollar steadies as Fed holds rates, US strikes Iran",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOUFkZlJYUUNoTkxoekFZRWtKQXR4WGFheDhRNjRwdTFTQzQza185ZHRUaFZmTi1Ka0dQSkpjbDVMZS1SZDJaUVhzMW5nQ3gwdkpLcFdtUjJ0NTM3dnpONFdlbmh2bUJkQWhocXp2N3VhRWdxVUhOSWpjbVg0elZyR2JDQ1lCU3FIeVJ5cXUzOTFsNktCZWNKQTFPdFNibmt5aDlBUg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Fed faiz oranlarını sabit tutarken, ABD İran'a karşı saldırı gerçekleştirdi; dolar istikrar kazandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-30T04:01:01.001784+00:00",
+  "type": "news",
+  "cluster_id": "c6bb54a913a55"
+ },
+ {
   "title": "ABD'nin yeni saldırıları duyurmasının ardından İran’ın farklı bölgelerinde patlama sesleri duyuldu",
   "link": "https://www.aa.com.tr/tr/dunya/abdnin-yeni-saldirilari-duyurmasinin-ardindan-iran-in-farkli-bolgelerinde-patlama-sesleri-duyuldu/4013248",
   "source": "Anadolu Ajansı",
@@ -59950,53 +59998,5 @@
   "ts": "2026-06-20T16:01:14.065162+00:00",
   "type": "news",
   "cluster_id": "c301b104e396e"
- },
- {
-  "title": "İsrail'in Lübnan'a yeni saldırıları sonrası İran Hürmüz Boğazı'nı kapattı",
-  "link": "https://www.bbc.com/turkce/articles/ce8k0znpgd3o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "İran, İsrail'in Lübnan saldırılarına tepki olarak Hürmüz Boğazı'nı kapattığını duyurdu; Devrim Muhafızları gemilere yaklaşmamalarını uyarıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-20T15:01:09.405586+00:00",
-  "type": "news",
-  "cluster_id": "cbb25bbd0e405"
- },
- {
-  "title": "İran, ABD’nin mutabakatı ihlali nedeniyle Hürmüz Boğazı'nın kapatılacağını duyurdu",
-  "link": "https://www.aa.com.tr/tr/live-blog/iran-abd-nin-mutabakati-ihlali-nedeniyle-hurmuz-bogazinin-kapatilacagini-duyurdu/4212",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran, ABD'nin mutabakatı ihlali nedeniyle Hürmüz Boğazı'nı kapatacağını resmen duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-20T15:01:09.405586+00:00",
-  "type": "news",
-  "cluster_id": "cf2118eba4fd9"
- },
- {
-  "title": "İran Devrim Muhafızları: Hürmüz Boğazı bütün gemilere kapatıldı",
-  "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazi-butun-gemilere-kapatildi-948836.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Devrim Muhafızları, Hürmüz Boğazı'nı tüm gemilere kapattığını açıkladı; ABD'nin ateşkes taahhütlerine uymadığını belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-06-20T15:01:09.405586+00:00",
-  "type": "news",
-  "cluster_id": "cdd5b6072f715"
- },
- {
-  "title": "İran, müzakere heyetinin ABD ile mutabakatın uygulanmasını takip için İsviçre’ye gideceğini duyurdu",
-  "link": "https://www.aa.com.tr/tr/dunya/iran-muzakere-heyetinin-abd-ile-mutabakatin-uygulanmasini-takip-icin-isvicre-ye-gidecegini-duyurdu/3973133",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran, ABD'nin İsrail'e karşı müzakere taahhütünü yerine getirmediğini belirterek İsviçre'ye müzakere heyeti gönderecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-20T15:01:09.405586+00:00",
-  "type": "news",
-  "cluster_id": "c49da33f1532c"
  }
 ]
