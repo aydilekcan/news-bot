@@ -1,5 +1,77 @@
 [
  {
+  "title": "ABD'nin yeni saldırıları duyurmasının ardından İran’ın farklı bölgelerinde patlama sesleri duyuldu",
+  "link": "https://www.aa.com.tr/tr/dunya/abdnin-yeni-saldirilari-duyurmasinin-ardindan-iran-in-farkli-bolgelerinde-patlama-sesleri-duyuldu/4013248",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Merkez Kuvvetler Komutanlığı, İran'daki askeri hedeflere yeni saldırı dalgası başlattığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-30T02:01:00.632896+00:00",
+  "type": "news",
+  "cluster_id": "c4621823cd2df"
+ },
+ {
+  "title": "ABD Ä°ran'a saldÄ±rÄ± baÅŸlattÄ±: Patlama sesleri duyuldu",
+  "link": "https://www.trthaber.com/haber/dunya/abd-irana-saldiri-baslatti-patlama-sesleri-duyuldu-952541.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD, İran'daki askeri hedeflere yönelik saldırı başlattı; patlama sesleri duyuldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-30T02:01:00.632896+00:00",
+  "type": "news",
+  "cluster_id": "c5a17fee8ea32"
+ },
+ {
+  "title": "One killed in Russia strikes on Kyiv, Poland scrambles fighter jets",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVGtDZ3NvbXo0OXEtd1puSEY1R1RzdU9nWDdsbmhsQnZraGc5X0xYeDI1ME1NMV9URFBUX1Z5cHpXemw1bzBjX20wUFBCZTBnY1VLMFFoR3lPQVBpQ2ltb005akZSR2xaMzVkT2ZrR2VKeDRfLWYtZTFWMXdZZl8tNFNWdTFPZDZCMkhfY0c0MFdOZHBGZk1ZaXFJeDRhdmdSUk9jcm9NSQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya'nın Kyiv'e saldırılarında 1 ölü; Polonya savaş uçaklarını havalandırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-07-30T02:01:00.632896+00:00",
+  "type": "news",
+  "cluster_id": "c1d57d40d30f5"
+ },
+ {
+  "title": "Marmara yurtlarında yüzde 400 zam",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/marmara-yurtlarinda-yuzde-400-zam-2524929",
+  "source": "Cumhuriyet",
+  "summary_tr": "Marmara Üniversitesi Dragos Yerleşkesi'nde yaz yurdu ücretine keskin zam uygulandı.",
+  "metric": "Yurt konaklama ücreti 3.000 TL -> 15.000 TL (+%400)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-30T02:01:00.632896+00:00",
+  "type": "news",
+  "cluster_id": "c143b8c6b6a87"
+ },
+ {
+  "title": "Samsung sees robust AI demand and tight chip supply after posting over 250-fold rise in chip profit",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeEFMZFc3WHBfOVFBR0JhTjNnd2dWdmpoSm9wSW1YNDc0S2FmemlKMWVZaDdPcjJTanc5a19BVHRnTGtMNlNfWFBvbHk1ZGM3YjlIb3lzVU52RUZQS0xDaHgybDFJVFhhUFhyT3NMa0E3bzY2T0M5ZU9PRHg0VklLS3R3d2o5eHVNcWdGdF9rNk1qS29VandoLTdReDV5T0pBR2phRHZiWks3U0hqdHktR2xsUUZMRlpuNjVrRWJ3?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Samsung çip karı 250 kattan fazla arttı; yapay zeka talebinde sıkı arz koşulları sürüyor.",
+  "metric": "Samsung çip karı 250+ kat artış",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-30T02:01:00.632896+00:00",
+  "type": "news",
+  "cluster_id": "cd9c20f7e5bc2"
+ },
+ {
+  "title": "Tekstil sektörü ve esnaf kan ağlarken, iktidar sorunların konuşulmasını istemedi: AKP görmezden geldi!",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/tekstil-sektoru-ve-esnaf-kan-aglarken-iktidar-sorunlarin-konusulmasini-istemedi-akp-gormezden-geldi-2524915",
+  "source": "Cumhuriyet",
+  "summary_tr": "Tekstil sektörü sorunları Meclis'te görmezden gelindi; sektör yatırımlarını başka ülkelere kaydırıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-30T02:01:00.632896+00:00",
+  "type": "news",
+  "cluster_id": "ca3302c68f14a"
+ },
+ {
   "title": "Trump says will hit Iran hard after attack, was briefed on Egypt tanker",
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS2Nvem1TcnlqcGxxZjc1Xy1RZHFPNDFWOU1HSVUyYk1DVjZuYUhYWV9QN1I1Q0JraUlHcTNyaEY1bUJTZVZZbl9BYi1pdTBXWTU4VXRzcHpRX25KUGtPUG8xM2FGVFpaWGh5M25OVXZpenZPeUMtbHdVdHNwMS1yTkVfNU1pR2N2aGhjcFZqakJjakdKWGNkSHNqWGUxTEZySzV6Ujh1ZVUtTEItSmtKd2lzVXJGamNDakVGT1B3?oc=5",
   "source": "Reuters",
@@ -59926,77 +59998,5 @@
   "ts": "2026-06-20T15:01:09.405586+00:00",
   "type": "news",
   "cluster_id": "c49da33f1532c"
- },
- {
-  "title": "ABD Başkan Yardımcısı JD Vance, İran'la müzakerelerin en erken yarın başlayabileceğini açıkladı",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-baskan-yardimcisi-jd-vance-iranla-muzakerelerin-en-erken-yarin-baslayabilecegini-acikladi/3973129",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Başkan Yardımcısı Vance, İran ile müzakerelerin en erken yarın başlayabileceğini ve birkaç gün içinde İsviçre'ye gideceğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-20T15:01:09.405586+00:00",
-  "type": "news",
-  "cluster_id": "c3c6e8d6e4ef6"
- },
- {
-  "title": "Pakistan: ABD ile İran arasında teknik düzeyde görüşmeler yarın İsviçre'de yapılacak",
-  "link": "https://www.trthaber.com/haber/dunya/pakistan-abd-ile-iran-arasinda-teknik-duzeyde-gorusmeler-yarin-isvicrede-yapilacak-948839.html",
-  "source": "TRT Haber",
-  "summary_tr": "Pakistan, ABD ve İran arasındaki teknik düzeyde görüşmelerin 21 Haziran'da İsviçre'de yapılacağını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-20T15:01:09.405586+00:00",
-  "type": "news",
-  "cluster_id": "c0c96280c1a6f"
- },
- {
-  "title": "Switzerland says US-Iran talks continue at Bürgenstock, declines to identify participants",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRDVvaUdiWWJuc1RxSXoxbnpGSXRFVVZJOHZmOU5CVWtEM3FUcVNLN0RkdHYtLTBndXNXU1RtbklqZUxUaW55LUR4dk1qRHlXXzZyRHgzM3JleV95Q0ZJN2ZmaTBsWkhmSlZPaDFtRmV2dmNzUWFrTG9mNFFNVjhadU9WVWstTTZNeVZjY3NkTWFoN0V5X3JGb1pybVVGb1NZaHMtNElLZklFV2h0a3l4VUpFalBDN1Vk?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İsviçre, ABD-İran müzakerelerinin Bürgenstock'da devam ettiğini doğruladı; katılımcılar açıklanmadı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-20T15:01:09.405586+00:00",
-  "type": "news",
-  "cluster_id": "c5fc7f4b76769"
- },
- {
-  "title": "Bakan Işıkhan: İşverenler için tecil süresinin 72 aya çıkarıldı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-isikhan-isverenler-icin-tecil-suresinin-72-aya-cikarildi/3973074",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Çalışma Bakanı Işıkhan, SGK borclu işverenler için tecil süresini 72 aya çıkardığını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-20T15:01:09.405586+00:00",
-  "type": "news",
-  "cluster_id": "c8e3fc7599783"
- },
- {
-  "title": "ABD görüşme için tarih verirken İran Hürmüz Boğazı'nı kapattığını duyurdu",
-  "link": "https://www.sozcu.com.tr/abd-gorusme-icin-tarih-verirken-iran-hurmuz-bogazi-ni-kapattigini-duyurdu-p329670",
-  "source": "Sözcü",
-  "summary_tr": "İran, ABD ve İsrail'in ateşkes ihlalleri nedeniyle Hürmüz Boğazı'nı kapattığını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-20T14:01:08.664613+00:00",
-  "type": "news",
-  "cluster_id": "c9c21c64722fa"
- },
- {
-  "title": "İran, Hürmüz Boğazı’nın kapatılacağını açıkladı",
-  "link": "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazi-nin-kapatilacagini-acikladi-/3973052",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran, ABD'nin mutabakat ihlali ve İsrail'in saldırıları karşısında Hürmüz Boğazı'nı kapatacağını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-20T14:01:08.664613+00:00",
-  "type": "news",
-  "cluster_id": "c02efcfa4ef70"
  }
 ]
