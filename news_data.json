@@ -1,5 +1,65 @@
 [
  {
+  "title": "ABD ekonomisinde soğuma sinyalleri: Tüketici frene bastı, gelir artışı beklentinin altında kaldı",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/abd-ekonomisinde-soguma-sinyalleri-tuketici-frene-basti-gelir-artisi-beklentinin-altinda-kaldi-2525108",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD Ticaret Bakanlığı, haziran ayında kişisel gelir ve tüketim harcamalarının beklentilerin altında kaldığını açıkladı; tüketici talebinde yavaşlama sinyali.",
+  "metric": "Tüketim harcamaları beklentinin altında",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-30T14:01:11.056896+00:00",
+  "type": "news",
+  "cluster_id": "c592e167c1bbb"
+ },
+ {
+  "title": "ABD'nin enflasyon göstergesi haziranda beklentilerin altında arttı",
+  "link": "https://www.sozcu.com.tr/abd-nin-enflasyon-gostergesi-haziranda-beklentilerin-altinda-artti-p341093",
+  "source": "Sözcü",
+  "summary_tr": "ABD kişisel tüketim harcamaları haziranda aylık bazda yüzde 0,3 artışla piyasa beklentisinin altında gerçekleşti.",
+  "metric": "Kişisel tüketim harcamaları (aylık) beklentinin altında (+%0,3)",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-30T14:01:11.056896+00:00",
+  "type": "news",
+  "cluster_id": "cfd9cb1a5d352"
+ },
+ {
+  "title": "Öğrenci affı düzenlemesi Meclis'te: Kimleri kapsıyor, üniversitelerde neler değişecek?",
+  "link": "https://www.bbc.com/turkce/articles/cn5nkg0276qo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "TBMM Genel Kurulu, öğrenci affı ve yükseköğretime ilişkin yasa teklifinin ilk 13 maddesini kabul etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-30T14:01:11.056896+00:00",
+  "type": "news",
+  "cluster_id": "c5f2189402a7c"
+ },
+ {
+  "title": "Hazine ve Maliye Bakanı Şimşek, haziran ayı iş gücü verilerini değerlendirdi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-haziran-ayi-is-gucu-verilerini-degerlendirdi/4013998",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Hazine ve Maliye Bakanı Şimşek, haziran ayında mevsimsel düzeltilmiş ortalama işsizlik oranının yüzde 0,3 puan azaldığını bildirdi.",
+  "metric": "İşsizlik oranı (yillik, mevsimsel düzeltilmiş) -0,3 puan",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-07-30T14:01:11.056896+00:00",
+  "type": "news",
+  "cluster_id": "c33f52e77cbd9"
+ },
+ {
+  "title": "İstihdam artışı: 227 bin kişi (Haziran)",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmwwQXFuWlhSeUV6NHdQY2pxUHg3akY2R05xa1pQOXFKdk9LSm02UER0WkZQOThyR0pvQklwZ0huNEZoMXRDSDgtZ2xKRk1jSldZdXdEV0I4a0E1ZjNlQ3pRbUI1TlByNlBpSzNsbHVmQU1qY19WZDZTSmF4UEFmQVl0N0VwOEVwcXUtTC1LMi1CREZodGpqUk5KLWstSlgzM0E?oc=5",
+  "source": "TUIK",
+  "summary_tr": "227 bin kişi",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-30T14:01:11.056896+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "ABD ekonomisi beklentinin altında büyüdü",
   "link": "https://www.sozcu.com.tr/abd-ekonomisi-beklentinin-altinda-buyudu-p341078",
   "source": "Sözcü",
@@ -59938,65 +59998,5 @@
   "ts": "2026-06-21T15:01:04.657704+00:00",
   "type": "news",
   "cluster_id": "c52a25bc1d6b4"
- },
- {
-  "title": "İsraillilerin yüzde 92'si İran'ın savaşı kazandığına ve anlaşmada galip geldiğine inanıyor",
-  "link": "https://www.aa.com.tr/tr/dunya/israillilerin-yuzde-92si-iranin-savasi-kazandigina-ve-anlasmada-galip-geldigine-inaniyor/3973768",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail'de yapılan ankete göre, İsraillilerin %92'si İran'ın ABD ve İsrail'e karşı savaşı kazandığına ve anlaşmada galip geldiğine inanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-21T15:01:04.657704+00:00",
-  "type": "news",
-  "cluster_id": "c1cf733f272cb"
- },
- {
-  "title": "ABD Başkan Yardımcısı Vance, İran ile görüşmelerde \"büyük ilerleme\" kaydedildiğini belirtti",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-baskan-yardimcisi-vance-iran-ile-gorusmelerde-buyuk-ilerleme-kaydedildigini-belirtti/3973759",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Başkan Yardımcısı JD Vance, İran ile görüşmelerde son saatlerde büyük ilerleme kaydedildiğini belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-21T15:01:04.657704+00:00",
-  "type": "news",
-  "cluster_id": "cc69328e36214"
- },
- {
-  "title": "Bakan Fidan'dan müzakere açıklaması: Sabote etmeyi bekleyen bir İsrail var",
-  "link": "https://www.trthaber.com/haber/gundem/bakan-fidandan-muzakere-aciklamasi-sabote-etmeyi-bekleyen-bir-israil-var-948897.html",
-  "source": "TRT Haber",
-  "summary_tr": "Dışişleri Bakanı Hakan Fidan, ABD-İran mutabakatında bazı konuların tartışılmaya açık kaldığını ve İsrail'in müzakereleri sabote etmeyi beklediğini söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-21T15:01:04.657704+00:00",
-  "type": "news",
-  "cluster_id": "c5500f6cb3f79"
- },
- {
-  "title": "İran ile ABD arasında, Pakistanlı ve Katarlı arabulucuların katılımıyla dörtlü görüşmeler başladı",
-  "link": "https://www.trthaber.com/haber/dunya/iran-ile-abd-arasinda-pakistanli-ve-katarli-arabulucularin-katilimiyla-dortlu-gorusmeler-basladi-948896.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD ile İran arasında imzalanan mutabakatın ardından, Pakistan ve Katar'ın katılımıyla dörtlü görüşmeler İsviçre'de başladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-21T15:01:04.657704+00:00",
-  "type": "news",
-  "cluster_id": "c48ed550df287"
- },
- {
-  "title": "Kılıçdaroğlu yine grup toplantısı yapmayacak",
-  "link": "https://www.dw.com/tr/kılıçdaroğlu-yine-grup-toplantısı-yapmayacak/a-77647304?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "CHP Genel Başkanı Kemal Kılıçdaroğlu, Salı günü MYK ve PM toplandacak ancak grup toplantısı yapılmayacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-21T15:01:04.657704+00:00",
-  "type": "news",
-  "cluster_id": "cdda4a33522a9"
  }
 ]
