@@ -1,5 +1,41 @@
 [
  {
+  "title": "Trump says will hit Iran hard after attack, was briefed on Egypt tanker",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS2Nvem1TcnlqcGxxZjc1Xy1RZHFPNDFWOU1HSVUyYk1DVjZuYUhYWV9QN1I1Q0JraUlHcTNyaEY1bUJTZVZZbl9BYi1pdTBXWTU4VXRzcHpRX25KUGtPUG8xM2FGVFpaWGh5M25OVXZpenZPeUMtbHdVdHNwMS1yTkVfNU1pR2N2aGhjcFZqakJjakdKWGNkSHNqWGUxTEZySzV6Ujh1ZVUtTEItSmtKd2lzVXJGamNDakVGT1B3?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, İran'a yönelik saldırının ardından sert bir şekilde vuracağını söyledi. Ayrıca Mısır'da tanker olayı hakkında bilgilendirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-30T01:00:56.863188+00:00",
+  "type": "news",
+  "cluster_id": "c53854d254da6"
+ },
+ {
+  "title": "US launches strikes on Iranian targets a day after it foiled missile attack on American forces",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcFZvamthZTNrZ0JiSDZZMVJBNW02Y1JiQUlvUlAwN1RRODcyUWNydUtZbGxpVVdhZElfTERINDh6ZURJZll3M25weWk4UVFPczliQWZ0MkRUc09VTTQ0X1BMVDBDa0hMdzE0TjBlYmI3UkJpYl9KZDFYMTFsZ05jNnd0Zm9wUHEwTlJObUEycG1BNTVqVTVQWjl5NnJqdEE?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD, Amerikan kuvvetlerine yönelik füze saldırısını engellemenin ardından İran hedefleri bombaladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-30T01:00:56.863188+00:00",
+  "type": "news",
+  "cluster_id": "c76acada7e3a6"
+ },
+ {
+  "title": "US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb2Yxa3h6SzNCUGZjOFBOTXBHY2tLc0x4WVhQTks1UF9BWkt3ZlcwSHRYVG9IV0NneDJrdVhtcm54ODVkc3cxcFdVMUZCek5EdHpER0J3d3RMWUNyeXc5LUp0Vl9HRlYzSGlhemNXOHZkc3dLNzRaQlM4QVBrUHktSDhHd1RoOE5pVWxwLXFNVzZEbjRJV2xQRnJKS0lpcTBRYkZqYm1MNGszZlU0eDF2NVI0RVRIOHZ5RGs5a0t0QWRsa0stelBVNzBvblpmSXhWbmgzdEl3cjZVZw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, artan stok endişeleri arasında 58,6 milyar dolarlık Patriot füze sistemi anlaşması yaptı.",
+  "metric": "$58,6 milyar anlaşma",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-30T01:00:56.863188+00:00",
+  "type": "news",
+  "cluster_id": "c2b5fb9e04e1a"
+ },
+ {
   "title": "Trump stands by his 'brilliant' Fed pick despite no rate cuts",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUc4UERsbnluclh5aFVubEtfSFdnNTg0U0xYdUNXcDhrU0ZZdHpMTFJmQ0dfelFScjl1b3FvRzk0Zkx1ZVU3WnpCRzZjdWxOTDJzSUFDWmJGQnBiN1poM1VTLXF5Z0xXcEQzWERoVGt6WmVVTFZRbjMwNU1RZldTajhEY25uLW1Nd0NXWGhPalFLeFc2Q0dtelhEcUpnbWZuQkJ4VUVuWQ?oc=5",
   "source": "Reuters",
@@ -59962,41 +59998,5 @@
   "ts": "2026-06-20T14:01:08.664613+00:00",
   "type": "news",
   "cluster_id": "c02efcfa4ef70"
- },
- {
-  "title": "İran: Hürmüz Boğazı tanker trafiğine kapatılacak",
-  "link": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazi-tanker-trafigine-kapatilacak-948827.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Silahlı Kuvvetleri, ABD'nin mutabakat sorumluluklarını yerine getirmemesi nedeniyle Hürmüz Boğazı'ndaki tanker trafiğine kapı kapatacağını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-20T14:01:08.664613+00:00",
-  "type": "news",
-  "cluster_id": "c1af5a284d1a8"
- },
- {
-  "title": "Iran closes Strait of Hormuz over ceasefire violations - MEHR",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaTEyTUU2Snk2NzBhWmZCcV9JMzlEV0hRbjNTU282RU5wV3FvNElISFk2ek5SaXU3YXJXR3l1ZFF2RGpsMElnTkpMUmc3Y084NldTRndXWGdLWDJuT05wd0JkY3VtSUxKdFZMLXdJYmVMZXROV2NOczE3b0pWNEZpaEN1UU1teHZyWmotTjdtNmU2RHRlVmtkMzNoZUN5aGpFZHhnRVRnanVxYkRtSnVz?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran, ateşkes ihlalleri nedeniyle Hürmüz Boğazı'nı kapattığını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-20T14:01:08.664613+00:00",
-  "type": "news",
-  "cluster_id": "cf48ce1949cf1"
- },
- {
-  "title": "Israeli strikes kill 16 in Lebanon hours after ceasefire",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbVUyY2ZiaHlmMU01WFZDX2M5c2Y3d3JWekJWMWZTbF9iR3d4UVdDR3ItSWEwSmE1M2taaG5GX2gzbTFZN3V0cUJXV1RzXzZXQ2ZmNWx1emtiVlk0Y3ZCLWQ4cVB3VFpYUmlZZUF1WmFfaUdmY1Ywa2d6MlBLakdUX0hKVzgwQWwzWVpNOXQ5TkhCYzhSVGZlSlJIc3Z6VHF1UndYd2JiMkR0T290dTVZXy1heVlwREF0Vm5z?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İsrail, ateşkesin başlamasından birkaç saat sonra Lübnan'da 16 kişiyi öldüren hava saldırıları düzenledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-20T14:01:08.664613+00:00",
-  "type": "news",
-  "cluster_id": "c6e747a6566ea"
  }
 ]
