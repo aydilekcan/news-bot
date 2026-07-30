@@ -1,5 +1,29 @@
 [
  {
+  "title": "TBMM'de 'belediye operasyonları' tartışması: Dikkat çeken 'başsavcı' çıkışı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/tbmm-de-belediye-operasyonlari-tartismasi-dikkat-ceken-bassavci-cikisi-2525134",
+  "source": "Cumhuriyet",
+  "summary_tr": "TBMM Genel Kurulu'nda muhalefet ve iktidar arasında belediye operasyonları tartışması yaşandı; başsavcı yorumları dikkati çekti.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-30T16:01:52.022995+00:00",
+  "type": "news",
+  "cluster_id": "cdc753c8ad54e"
+ },
+ {
+  "title": "Fatma Kaplan Hürriyet görevden uzaklaştırılmıştı: İzmit Belediyesi'nde Başkanvekili belli oldu",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/fatma-kaplan-hurriyet-gorevden-uzaklastirilmisti-izmit-belediyesi-nde-baskanvekili-belli-oldu-2525129",
+  "source": "Cumhuriyet",
+  "summary_tr": "Tutuklanarak görevden uzaklaştırılan İzmit Belediye Başkanı Fatma Kaplan Hürriyet'in yerine CHP'li Lütfü Obuz başkanvekili seçildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-30T16:01:52.022995+00:00",
+  "type": "news",
+  "cluster_id": "c50d73d1dcb52"
+ },
+ {
   "title": "Mısır, ABD-İran savaşının başından beri ilk kez saldırıya uğradı",
   "link": "https://www.bbc.com/turkce/articles/c3v0d2enw02o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-22T03:01:10.034861+00:00",
   "type": "news",
   "cluster_id": "cce599465f6b3"
- },
- {
-  "title": "Stocks rally in Asia as Iran cites progress in talks",
-  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUJKVXNjdDQ1Qk4wVGUxU0VYY2FROHplR3N5UW0zT0JjZUgyQnN5MDltTHRxVWtwQktOdUdEcXh1YUY3OTNOUnNWMmNoMXNnRmZTNlI4NzFMeHRoR2Zmd1dwTlJSUldqUkVQcXJfVThwYnhSR0tPMnBUbm5jTW8tQTU3cmtmdw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran görüşmelerde ilerleme kaydedildiğini belirtince Asya borsaları ralliye geçti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-22T03:01:10.034861+00:00",
-  "type": "news",
-  "cluster_id": "c35325ab35daf"
- },
- {
-  "title": "Suriye Cumhurbaşkanı Şara: Suriye'nin geçmişte Lübnan'a yaptığı askeri müdahale anlayışına dönmek istemiyoruz",
-  "link": "https://www.aa.com.tr/tr/dunya/suriye-cumhurbaskani-sara-suriyenin-gecmiste-lubnana-yaptigi-askeri-mudahale-anlayisina-donmek-istemiyoruz/3973992",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Suriye Cumhurbaşkanı Şara, Trump'ın Suriye'nin Lübnan'a müdahale edeceği yönündeki sözlerinin yanlış anlaşıldığını belirterek, geçmişteki askeri müdahale anlayışına dönmek istemiyoruz mesajı verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-21T21:01:08.050234+00:00",
-  "type": "news",
-  "cluster_id": "c7666d539ac93"
  }
 ]
