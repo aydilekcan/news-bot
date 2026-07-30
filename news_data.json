@@ -1,5 +1,53 @@
 [
  {
+  "title": "Etimesgut Belediye Başkanı Erdal Beşikçioğlu dahil 52 kişi gözaltına alındı",
+  "link": "https://www.bbc.com/turkce/articles/cq5630yz169o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Etimesgut Belediye Başkanı Erdal Beşikçioğlu dahil 52 kişi yolsuzluk soruşturması kapsamında gözaltına alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-30T07:01:02.543179+00:00",
+  "type": "news",
+  "cluster_id": "c18a6563abcd9"
+ },
+ {
+  "title": "Marmara Üniversitesi'nden yurt ücretlerine yüzde 400 zam!",
+  "link": "https://www.sozcu.com.tr/marmara-universitesi-yurt-ucretlerine-yuzde-400-zam-p340918",
+  "source": "Sözcü",
+  "summary_tr": "Marmara Üniversitesi yurt konaklama ücretlerine %400 zam yaptı; yaz döneminde misafir öğrencilerin ücreti 3 bin liradan 12-15 bin liraya çıktı.",
+  "metric": "Marmara Üniversitesi yurt ücreti 3.000 TL -> ~15.000 TL (+%400)",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-30T07:01:02.543179+00:00",
+  "type": "news",
+  "cluster_id": "c58d9b94fa2be"
+ },
+ {
+  "title": "Etimesgut Belediyesi’ne operasyon... YENİ Parti'den Erdal Beşikçioğlu'nun gözaltına alınmasına ilk tepki: 'Seçmen iradesi hedef alınıyor'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/etimesgut-belediyesi-ne-operasyon-yeni-parti-den-erdal-besikcioglu-nun-gozaltina-alinmasina-ilk-tepki-secmen-iradesi-hedef-aliniyor-2524975",
+  "source": "Cumhuriyet",
+  "summary_tr": "YENİ Parti, Etimesgut Belediye Başkanı'nın gözaltına alınmasını seçmen iradesine yönelik hedef olarak nitelendirdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-30T07:01:02.543179+00:00",
+  "type": "news",
+  "cluster_id": "c36158b235c7d"
+ },
+ {
+  "title": "Küresel piyasalarda Fed'e ilişkin belirsizlikler ve jeopolitik gerilimlerden kaynaklı satış baskısı hakim",
+  "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-fede-iliskin-belirsizlikler-ve-jeopolitik-gerilimlerden-kaynakli-satis-baskisi-hakim/4013314",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Küresel piyasalarda Fed'in faiz kararı sonrası belirsizlikler ve Orta Doğu geriliminden kaynaklı satış baskısı hakim.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-30T07:01:02.543179+00:00",
+  "type": "news",
+  "cluster_id": "cdbdfbc3b69ba"
+ },
+ {
   "title": "Tehditler gerçek oldu: ABD İran'a bomba yağdırdı",
   "link": "https://www.sozcu.com.tr/tehditler-gercek-oldu-abd-iran-a-bomba-yagdirdi-p340895",
   "source": "Sözcü",
@@ -59950,53 +59998,5 @@
   "ts": "2026-06-20T22:01:10.724209+00:00",
   "type": "news",
   "cluster_id": "c4e019d354bd1"
- },
- {
-  "title": "Vance: Umuyorum ki nükleer meselede ve Lübnan'daki ateşkes konusunda ilerleme kaydedebiliriz",
-  "link": "https://www.aa.com.tr/tr/dunya/vance-umuyorum-ki-nukleer-meselede-ve-lubnandaki-ateskes-konusunda-ilerleme-kaydedebiliriz/3973379",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Başkan Yardımcısı JD Vance, İran müzakerelerinde nükleer meselenin ve Lübnan ateşkesinde ilerleme kaydedilmesini umduğunu açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-20T22:01:10.724209+00:00",
-  "type": "news",
-  "cluster_id": "cf2b9907311db"
- },
- {
-  "title": "Trump says no toll on Strait of Hormuz unless US imposes one",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcTlFTUJWal9HaWxJLTBvcWZDT1BnOGlTdGxOWWdzZWMtWlpsTXQ1V0NLVVFXY29oSGxwRVotLVFMU2ptbS11M21nM2pSdExIM1E3OTFSUTc0d0xqeEZCblZtb0VHOEpPWXhzN2NDc2hvXzZ3bGFZSHlKak9VeUVIcElMSk5IcXlfZlh1QTh5emxIT25yQVRMZ09GOHduTDFkVFRIWkZuaXZLZjNK?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD Başkanı Trump, Hürmüz Boğazı'nda gümrük tarifeleri uygulanmayacağını ancak ABD tarafından koyulması halinde uygulanabilir olacağını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-20T22:01:10.724209+00:00",
-  "type": "news",
-  "cluster_id": "c1192c42418f2"
- },
- {
-  "title": "ABD Başkan Yardımcısı Vance İran müzakereleri için İsviçre'ye gitti",
-  "link": "https://www.trthaber.com/haber/dunya/abd-baskan-yardimcisi-vance-iran-muzakereleri-icin-isvicreye-gitti-948858.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD Başkan Yardımcısı JD Vance, İsviçre'de başlaması planlanan İran müzakereleri için Washington'dan ayrıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-20T22:01:10.724209+00:00",
-  "type": "news",
-  "cluster_id": "ca612d3ade47e"
- },
- {
-  "title": "Ukraine's Zelenskiy confirms drone strike on refining facilities in Russia's Tyumen region",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYkZCVmhQT0VCLVhFWTMwWFpwd1E2R0NvNmgyLUU0S0pvOE51YTFNNVlhdnprZmxhWmE2dmoyZ3JNMVFOMHlfWm9ybEZBQVNvcXU4elozMGhwVzZOT1dId3ZDNGpTNC1nZUQ2SjdvRTAycXFXeGpwdGc4LXNkTXAwYXFfd3IzWWdJeERUY0xvZXhObEhXczdCcmYxOVFzZVpxa0hlX3U0MXlwc0FKSHJXZUlZSHRzTGJsa2hIRXNMWXg4WUZHR3c?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Zelenskiy, Rusya'nın Tyumen bölgesindeki rafineri tesislerine İnsansız hava aracı saldırısı düzenlediğini doğruladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-20T21:01:04.422185+00:00",
-  "type": "news",
-  "cluster_id": "c5f3308eedb35"
  }
 ]
