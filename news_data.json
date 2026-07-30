@@ -1,5 +1,41 @@
 [
  {
+  "title": "Drone strike in Egypt sparks security concerns about Suez oil exports",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY19zWlhiQmx4WmRhRHRLMUdTbjhwdEdVcHpaUmMtWndRMlB1MFNiZ2pJMzJZcFJQWEJSTzdfSGl6R0FXV016c2JUODlSV0Y3ZzBEbWRFeUVkRDQxQ2p5S0VPRWoyc0lZS3pobjVGR0l5YTV1V1FEbmE2N1BscGlFZWlLTjl6Qmp4TDJmalFTX1ZYVUJEYkV2NjBCWVhuNmRsdC1UZzBCVm1GQ2djejdiWUo1UnBfT1UzNmc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Mısır'da gerçekleşen insansız hava aracı saldırısı, Süveyş Kanalı üzerinden petrol ihracatının güvenliği konusunda endişe uyandırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-30T21:01:01.864018+00:00",
+  "type": "news",
+  "cluster_id": "ca0a15c6fa665"
+ },
+ {
+  "title": "Yavuzyılmaz 'AKP’nin diplomatik başarı'sını belgeleriyle açıkladı: ‘229 milyon dolar Jersey Adası'nda buharlaştı!’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/yavuzyilmaz-akp-nin-diplomatik-basari-sini-belgeleriyle-acikladi-229-milyon-dolar-jersey-adasi-nda-buharlasti-2525210",
+  "source": "Cumhuriyet",
+  "summary_tr": "YENİ Parti Zonguldak Milletvekili Deniz Yavuzyılmaz, 2019 yılında Irak-Türkiye Ham Petrol Boru Hattı üzerinden alınan 494 milyon dolarlık tahsilatın 229 milyon dolarının Jersey Adası'nda kaybolduğunu öne sürdü.",
+  "metric": "Kayıp tutar: 494 milyon dolar içinde 229 milyon dolar",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-30T21:01:01.864018+00:00",
+  "type": "news",
+  "cluster_id": "ce7fe8899d4a7"
+ },
+ {
+  "title": "Üniversite öğrencilerine yönelik af düzenlemesi Meclis'ten geçti",
+  "link": "https://www.trthaber.com/haber/gundem/universite-ogrencilerine-yonelik-af-duzenlemesi-meclisten-gecti-952652.html",
+  "source": "TRT Haber",
+  "summary_tr": "TBMM Genel Kurulu, yükseköğrenimini yarıda bırakmak zorunda kalan öğrencilere okula dönüş imkanı sağlayan af düzenlemesini kabul etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-30T21:01:01.864018+00:00",
+  "type": "news",
+  "cluster_id": "c6a55e17e77b2"
+ },
+ {
   "title": "Öğrenci affı Meclis'ten geçti",
   "link": "https://www.diken.com.tr/ogrenci-affi-meclisten-gecti/?utm_source=rss&utm_medium=rss&utm_campaign=ogrenci-affi-meclisten-gecti",
   "source": "Diken",
@@ -59962,41 +59998,5 @@
   "ts": "2026-06-22T07:01:14.838351+00:00",
   "type": "news",
   "cluster_id": "cb2acd97fe16f"
- },
- {
-  "title": "Three killed and five injured in school shooting in central Philippines",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNm1jMzJqdUExcVZSajkxX19VOUFqVTBMN0JkSDZvcHZXRDh1dUZUdnRtOU9rQl9rVFFNaG1Rbnl6cG1WNDdGOXRuQTVrXzNrMmRQTm9HQmxXRWMzZmdQRWE4YVl6VWRjbHd1cXBObnRSZVFvOFp6ZVpPbG03aXNKRFdJb09tSGpUemlSd3lwY2xKdXJEdTBXNk43MkRENENieWxZcUNOU2FubTRaMkhSRENhcWZZd0U?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Filipinler'deki bir okulda silahlı saldırıda 3 kişi öldü, 5 kişi yaralandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-22T07:01:14.838351+00:00",
-  "type": "news",
-  "cluster_id": "cff5801f57123"
- },
- {
-  "title": "SK Hynix dethrones Samsung Electronics as South Korea's most valuable company",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONlhOU2oxblIwWVVINWhMb1hseHo1clhkc2F3ZkwxT0Jna1lDTWdHWlVUb3prVWpjQS1NR2oyYmtpNnBVY3RveWUySmx2MGxjWF9BUEdQUlM3TjhyaGNLMzJuMExfVk0xcVdnMnJ0OGNwVnl4YlAxZGtlMy1vN255X3NDUVVxeGRCcTMtNzVFTDNsYlNGY2VnRS1ZRmR0b3RiM0ltTjhEdGxLLVNoRHJqQmpIa1hmeVgzbG5yckI0LWxXMkJQUW5N?oc=5",
-  "source": "Reuters",
-  "summary_tr": "SK Hynix, Samsung Electronics'i geçerek Güney Kore'nin en değerli şirketi oldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-22T07:01:14.838351+00:00",
-  "type": "news",
-  "cluster_id": "c028504976b11"
- },
- {
-  "title": "Emeklilik sistemi tamamen değişiyor: Ülkede erken emekliliğe veda",
-  "link": "https://www.sozcu.com.tr/emeklilik-sistemi-tamamen-degisiyor-ulkede-erken-emeklilige-veda-p329984",
-  "source": "Sözcü",
-  "summary_tr": "Almanya'da emeklilik sistemi tamamen değişiyor; erken emeklilik uygulaması kaldırılıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-22T06:01:06.143351+00:00",
-  "type": "news",
-  "cluster_id": "c8651d877f3e0"
  }
 ]
