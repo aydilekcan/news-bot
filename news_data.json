@@ -1,5 +1,41 @@
 [
  {
+  "title": "Gelecek Partisi kapanıyor: 'Derin hayal kırıklığı Davutoğlu'nu fesih kararına götürdü'",
+  "link": "https://www.bbc.com/turkce/articles/cq897xvyjnzo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Ahmet Davutoğlu, kuruduğu Gelecek Partisi'ni kapatma kararı aldı. Başarısız ittifak arayışları ve siyasi hedeflere ulaşamama kararın nedenleri arasında gösteriliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-31T04:00:59.344690+00:00",
+  "type": "news",
+  "cluster_id": "ce74a235b6a28"
+ },
+ {
+  "title": "İstanbul’da 1+1 kirası 35 bin lirayı aştı",
+  "link": "https://www.sozcu.com.tr/istanbul-da-1-1-kirasi-35-bin-lirayi-asti-p341181",
+  "source": "Sözcü",
+  "summary_tr": "İstanbul'da 1+1 daire kirası 35 bin lirayı aştı. Üniversite döneminin başlaması ile artan kira maliyetleri öğrenciler ve velileri endişelendiriyor.",
+  "metric": "1+1 kira 35.000+ TL",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-31T04:00:59.344690+00:00",
+  "type": "news",
+  "cluster_id": "c8d2d2ca26c32"
+ },
+ {
+  "title": "Yıldızlar SSS Holding’den yeni skandal: Maaş vermiyor tazminat istiyor",
+  "link": "https://www.sozcu.com.tr/yildizlar-sss-holding-den-yeni-skandal-maas-vermiyor-tazminat-istiyor-p341182",
+  "source": "Sözcü",
+  "summary_tr": "Yıldızlar SSS Holding, maaş ödemediği madencilere karşı 50'şer bin liralık tazminat davası açtı; çalışanlar aynı zamanda geri alacak maaş talep ediyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-31T04:00:59.344690+00:00",
+  "type": "news",
+  "cluster_id": "cb47e6486dcb2"
+ },
+ {
   "title": "Hamas, Gazze'de Barış Kurulu ile silah bırakmak konusunda anlaştıklarını açıkladı, planın detayları neler?",
   "link": "https://www.bbc.com/turkce/articles/c70gx2gke5ro?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59962,41 +59998,5 @@
   "ts": "2026-06-22T08:01:18.920215+00:00",
   "type": "news",
   "cluster_id": "c17f67a2dbfd5"
- },
- {
-  "title": "TCMB haziran ayı Hanehalkı Beklenti Anketi'ni yayımladı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-haziran-ayi-hanehalki-beklenti-anketini-yayimladi/3974156",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "TCMB haziran verilerine göre hanehalkının 12 ay sonrası yıllık enflasyon beklentisi %46,13'e geriledi.",
-  "metric": "Enflasyon beklentisi geçen aydan 3,38 puan azalarak %46,13'e düştü",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-22T08:01:18.920215+00:00",
-  "type": "news",
-  "cluster_id": "c27f36dfb1473"
- },
- {
-  "title": "Hanehalkının haziran ayında enflasyon beklentisi azaldı",
-  "link": "https://www.trthaber.com/haber/ekonomi/hanehalkinin-haziran-ayinda-enflasyon-beklentisi-azaldi-948938.html",
-  "source": "TRT Haber",
-  "summary_tr": "Hanehalkının 12 ay sonrası yıllık enflasyon beklentisi haziranda %46,13'e gerilerek önceki aydan 3,38 puan azaldı.",
-  "metric": "Enflasyon beklentisi 3,38 puan azalış (-3,38 puan)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-22T08:01:18.920215+00:00",
-  "type": "news",
-  "cluster_id": "cfe991b4e5bbe"
- },
- {
-  "title": "İran'ın Lübnan ateşkesini denetlemek için kurulacak yeni mekanizmaya temsilci göndereceği belirtildi",
-  "link": "https://www.trthaber.com/haber/dunya/iranin-lubnan-ateskesini-denetlemek-icin-kurulacak-yeni-mekanizmaya-temsilci-gonderecegi-belirtildi-948936.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran, ABD ile varılan mutabakat doğrultusunda Lübnan ateşkesini denetlemek için kurulacak mekanizmaya temsilci gönderecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-22T08:01:18.920215+00:00",
-  "type": "news",
-  "cluster_id": "c35f7fb8fd9b7"
  }
 ]
