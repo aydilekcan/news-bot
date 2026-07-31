@@ -1,5 +1,65 @@
 [
  {
+  "title": "Üsküdar Belediye Başkanı Sinem Dedetaş hakkında tutuklama talebi",
+  "link": "https://www.bbc.com/turkce/articles/ckg4rdn5ydgo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Üsküdar Belediye Başkanı Sinem Dedetaş, belediyede usulsüzlük soruşturması kapsamında gözaltına alındı ve tutuklama talep edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-31T16:01:24.338736+00:00",
+  "type": "news",
+  "cluster_id": "c5202bebc671d"
+ },
+ {
+  "title": "Üsküdar Belediye Başkanı Sinem Dedetaş için tutuklama talebi",
+  "link": "https://www.sozcu.com.tr/sinem-dedetas-hakkinda-karar-p341371",
+  "source": "Sözcü",
+  "summary_tr": "Üsküdar Belediye Başkanı Sinem Dedetaş dahil 4 kişi usulsüzlük soruşturmasında tutuklama talebine maruz kaldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-31T16:01:24.338736+00:00",
+  "type": "news",
+  "cluster_id": "c5202bebc671d"
+ },
+ {
+  "title": "Üsküdar Belediyesine yönelik usulsüzlük soruşturmasında gözaltına alınan 4 şüpheliye tutuklama talebi",
+  "link": "https://www.aa.com.tr/tr/gundem/uskudar-belediyesine-yonelik-usulsuzluk-sorusturmasinda-gozaltina-alinan-4-supheliye-tutuklama-talebi/4015204",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Üsküdar Belediyesi'nde yapı ruhsatı işlemlerinde usulsüzlük soruşturmasında gözaltına alınan 6 şüpheliden 4'üne tutuklama talep edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-31T16:01:24.338736+00:00",
+  "type": "news",
+  "cluster_id": "cbeba615ae17d"
+ },
+ {
+  "title": "South Korea’s Kospi index jumps nearly 18% on a surge in chipmaking stocks",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYXVQbFd2b2dBZFVoT3ZiRndKdVVic0xJWVFBWF9hN0FYaUk2ZkhlVkctWWtibi1GNVgxdE5Ec0FzNkpwNnlsZXNla1d5cXgzbFVIZ2pnMFdvMW93QlhXOW9CbkRhd2J2Vl9jaVV1THY2RzFzbUtvSGhNanA5NE5OQXJTN1BNVlEzXzVQQ00zQk54U0NIdlpj?oc=5",
+  "source": "AP",
+  "summary_tr": "Güney Kore Kospi endeksi çip üretim hisselerindeki artışla yaklaşık %18 sıçradı.",
+  "metric": "Kospi +~%18",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-31T16:01:24.338736+00:00",
+  "type": "news",
+  "cluster_id": "c4dc69aff67f4"
+ },
+ {
+  "title": "Dış ticaret açığı: $10.37 milyar (Haziran 2025)",
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBndlc3RW1jZFE0Zjc0TUZmbkY1VXlCRUdKRW1pTWdsai04VGZfdldlSUxDb3gyV05rSGM0S0M2RGlZTFkwQ0FVR3BfczNYd2RGLS1kdjduOEhKUmcydndyQVNuaXRNRDQ4bUVtMUdUNTlqQ2o2dEw0?oc=5",
+  "source": "TÜİK",
+  "summary_tr": "10,4 milyar dolar → $10.37 milyar (%-0,3)",
+  "metric": "%-0,3",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-31T16:01:24.338736+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "US Treasury informed banks that it may intervene in yen, source says",
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdXpOeGRTaEJ5bzQ0eldfM0hpWFlCTUlsVGE4WHJhTFAtNTdwT0Y4R0tDSjBJX1lseXYxVnhDZ1FWRDRmZG05X3lFUl9JdnRBVDZEbHJma1NfdmMxbnNscm1SMmVfT0F4NXhhRGhoZlY4RlJfZDRrdXluMEJfWm1RODA2ek82a2poakpMMnRsZ0Mwd0JOQmV4SFczako3VnRzb1JXN2xCejdUdHJ3Mk5Tc0JkWnpxUXQwQzZr?oc=5",
   "source": "Reuters",
@@ -59938,65 +59998,5 @@
   "ts": "2026-06-23T03:01:02.937513+00:00",
   "type": "news",
   "cluster_id": "c022f8b8cf5db"
- },
- {
-  "title": "US judge blocks Trump administration SNAP restrictions on soda, candy​",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVW50Vjc1VWdIM185SlgxN2p2VXBZZGdLc1YtUWZOYklaR3h0dWhyYTJlM0RTQ1JldGJtclEtWTJZT19ZT2JKdlBkWjJ1R3Q0bFpGamkzeWNLbElQSV9zeGtqT3VaZmUwVjl6MEJLcEZCV3ZlZktvQlF1LUxib0x1Z1d3bHZ3RTVjX1ZDYUdfWFhwUUJVdkYwUkpBYkZid0ZSek0zcjFUV05GQ0lfblFWOWFWeVFGY2xOOXc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD federal hakim Trump yönetiminin SNAP programında soda ve şeker kısıtlaması kararını engelledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-23T03:01:02.937513+00:00",
-  "type": "news",
-  "cluster_id": "ccab9f3c3bbf5"
- },
- {
-  "title": "Federal judge halts Trump administration effort to subpoena Walz in immigration enforcement probe",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWnJOYUtMa3BTMjY4azNCdkthYjFCaE5rNDBVR2dzbHZUZDg1bGNKS0lkTzNDOVVwU3VzcWtpT0R4LTRkNGtCSXpITkMzZjlZS3Rob2hfQ1lpUVFSZEFtQ3IyckJNWHBsRjdTZEpSUmxlSFdnXzJIclU4a1JEeElHalNMQ1JraWpGV1I2MzcybW84ZXpGQzNzcV9Td09nNUZ0TkNNalF3?oc=5",
-  "source": "AP",
-  "summary_tr": "Federal hakim Trump yönetiminin göçmen işçi uygulaması soruşturmasında Walz'a çağrı çıkarmasını durdurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-23T03:01:02.937513+00:00",
-  "type": "news",
-  "cluster_id": "c45af90f07093"
- },
- {
-  "title": "12. Yargı Paketi Meclis’te: Beklenen düzenlemeler dışarıda kaldı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/12-yargi-paketi-meclis-te-beklenen-duzenlemeler-disarida-kaldi-2514490",
-  "source": "Cumhuriyet",
-  "summary_tr": "AKP'nin hazırladığı 12. Yargı Paketi TBMM'ye sunuldu. IBAN, infaz ve Avukatlık Kanunu düzenlemeleri beklentilerin dışında kaldı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-23T02:01:06.219269+00:00",
-  "type": "news",
-  "cluster_id": "c089e49e6d47c"
- },
- {
-  "title": "Yurttaş batağa saplandı: ‘Butlan’ rezervi vurdu",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/yurttas-bataga-saplandi-butlan-rezervi-vurdu-2514493",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP, vatandaşın finansal borcunun ilk kez 7 trilyon lirayı aştığını açıkladı. Varlık yönetim şirketlerine olan borçlar da dahil edildi.",
-  "metric": "Vatandaş borcu 7 trilyon TL (+)",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-23T02:01:06.219269+00:00",
-  "type": "news",
-  "cluster_id": "ce34e0d5d5833"
- },
- {
-  "title": "İktidar mutfaktaki yangını söndüremiyor",
-  "link": "https://www.cumhuriyet.com.tr/yazarlar/olaylar-ve-gorusler/iktidar-mutfaktaki-yangini-sonduremiyor-suleyman-girgin-2514506",
-  "source": "Cumhuriyet",
-  "summary_tr": "Hükümet, Cumhurbaşkanı Erdoğan'ın 2018'deki faiz ve ekonomi politikası açıklamasının ardından ortaya çıkan mutfak maliyetindeki zorlukları çözemediği iddia edildi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-23T02:01:06.219269+00:00",
-  "type": "news",
-  "cluster_id": "c91b706a03b8e"
  }
 ]
