@@ -1,5 +1,41 @@
 [
  {
+  "title": "Japan intervenes to prop up yen ahead of BOJ policy decision, source says",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM1pPRGZpMUxUNFdkYzRvYU9ZcmpDSHNPeURWLXJkNmlJQ2h5OVFlRi1HVlNfSkR5QlFUUFFHTXZ5TVVXY0lBVWVIWTVYNVRSdUMtdU43c2NPeFE4RUo5MHJzSFh0Z3ZLUGtnLVRRcnh2Y1BQNm95SUd3a1FuajhLb28yNndLeDJCd1MyWUdRZEs0ZUFnVkY3cTRyTjhTaS1GQ3pDN2Q2eW5rM2dhSWFmLXFhTkZVa00?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Japonya, BOJ politika kararından önce yeni desteklemek için müdahale etti; merkez bankasının faiz politikası sinyali bekleniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-31T01:00:56.409237+00:00",
+  "type": "news",
+  "cluster_id": "ca355504d752f"
+ },
+ {
+  "title": "Amazon lifts investment plans after strong cloud sales; shares jump",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY0xqQmlIUXJydk1wNzhibDVjTzVaekhCb3A1NWs2cm1aQUVtWU5tVEswRkhpdjE4Z3hzVk5MbmtBWUYtdnlPT3Q5a3lDRUdYd0prRnJhWXBqN1dpTVB3N0dFQW1oUGZYWHgyX19maWlvQkNKWnpBXzNCSUdKcThxdWxGTkhoTVZsOHdGZENlMXZHb1NnYzY2Y2ZBRVVkVURPd0pKeHZVb2ZjNzNGMnpTLUNWeE8?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Amazon bulut satışlarının güçlü performansı nedeniyle yatırım planlarını artırdı, hisse senetleri yükselişe geçti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-31T01:00:56.409237+00:00",
+  "type": "news",
+  "cluster_id": "c882be4e1794e"
+ },
+ {
+  "title": "TCMB net rezervleri (swap hariç): <40 milyar $",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcF8wbUdTWVFRelpVUU1GM1RTMFhzNFJpenk2Tk91dF9KZC03RnpxeURRc2RKbnd3VXBOSXYwX2tLZ19lY19XejVjek4xeWpaN1JlYVFDT3g2bkVkMnBiUTJwanJVLTRVOUk5d3M4MlJrUGNRLVpFbEFOTFVzUGtkelFsRnpPT3I1WW1rbkI1bWgyb1dDZmNONXF6ZVpmeDgweldlYXJkMA?oc=5",
+  "source": "TCMB",
+  "summary_tr": "<40 milyar $",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-31T01:00:56.409237+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Trump, ABD Ticaret Bakanlığına kritik minerallere yönelik ihracat kısıtlamaları getirme yetkisi verdi",
   "link": "https://www.aa.com.tr/tr/dunya/trump-abd-ticaret-bakanligina-kritik-minerallere-yonelik-ihracat-kisitlamalari-getirme-yetkisi-verdi/4014443",
   "source": "Anadolu Ajansı",
@@ -59962,41 +59998,5 @@
   "ts": "2026-06-22T08:01:18.920215+00:00",
   "type": "news",
   "cluster_id": "cc46a44534305"
- },
- {
-  "title": "Yurt dışı ÜFE (yıllık): %34,16",
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ISlY1QWVub0xIaU5XS0std3JaM09kRmlUY3lENFpQeXRQRGNlbDUzNEk3MUxmTGpVQWlfTWtaUXhqN0NmMy00UVVJYmZ1RW5RT2pNVUUzcG04c3A3aklBQVFEVEJEWnUzWUd4QmV3d1QwRHBfQnVJdFJCQjY5d3c?oc=5",
-  "source": "TUIK",
-  "summary_tr": "%34,16",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-06-22T08:01:18.920215+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "Ukrayna donanması, Türk sahipli yük gemisinin Rus İHA'sıyla vurulduğunu duyurdu",
-  "link": "https://www.bbc.com/turkce/articles/cg4wxrvxlz9o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Ukrayna donanması, Rusya'ya ait bir İHA'nın Türk sahipli Panama bandıralı Victress yük gemisini vurduğunu duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-22T07:01:14.838351+00:00",
-  "type": "news",
-  "cluster_id": "cf71e88175799"
- },
- {
-  "title": "Son açıklamalar tartışma yarattı: İngiltere Başbakanı bugün istifa edecek mi?",
-  "link": "https://www.sozcu.com.tr/son-aciklamalar-tartisma-yaratti-ingiltere-basbakani-bugun-istifa-edecek-mi-p330019",
-  "source": "Sözcü",
-  "summary_tr": "ABD Başkanı Trump, İngiltere Başbakanı Keir Starmer'ın görevinden istifa edeceğini öne sürdü; İngiliz medyasında tartışma yarattı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-22T07:01:14.838351+00:00",
-  "type": "news",
-  "cluster_id": "c8629b5a08fbe"
  }
 ]
