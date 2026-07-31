@@ -1,5 +1,53 @@
 [
  {
+  "title": "Bir ilde daha ekmeğe zam: Yeni fiyatlar belli oldu",
+  "link": "https://www.sozcu.com.tr/bir-ilde-daha-ekmege-zam-yeni-fiyatlar-belli-oldu-p341385",
+  "source": "Sözcü",
+  "summary_tr": "Isparta'da ekmek, simit ve ev ekmeği fiyatlarına 1 Ağustos'tan itibaren zam uygulanacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-31T18:01:00.496247+00:00",
+  "type": "news",
+  "cluster_id": "cf91702df829c"
+ },
+ {
+  "title": "İtalya, İspanya ile Schengen uygulamasını askıya aldı",
+  "link": "https://www.cumhuriyet.com.tr/dunya/italya-ispanya-ile-schengen-uygulamasini-askiya-aldi-2525479",
+  "source": "Cumhuriyet",
+  "summary_tr": "İtalya, Ceuta göçmen krizi sonrası İspanya ile Schengen serbest dolaşım anlaşmasını askıya aldı ve sınırlarını kapattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-31T18:01:00.496247+00:00",
+  "type": "news",
+  "cluster_id": "c0f321285cba0"
+ },
+ {
+  "title": "İtalya, İspanya ile Schengen anlaşmasını askıya aldı, sınırları kapattı!",
+  "link": "https://www.sozcu.com.tr/italya-ispanya-ile-schengen-uygulamasini-askiya-aldi-p341384",
+  "source": "Sözcü",
+  "summary_tr": "İtalya, Ceuta göçmen krizi sonrası İspanya ile Schengen kapsamındaki serbest dolaşım anlaşmasını askıya aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-31T18:01:00.496247+00:00",
+  "type": "news",
+  "cluster_id": "c0f321285cba0"
+ },
+ {
+  "title": "Italy suspends EU Schengen free-travel pact with Spain over Ceuta crisis",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPamczZkxsZG1uMnYxeHhrT0Z2a2ZkVjdmdDZPeENzaVhPNndMY0pBOGtBaEoxNzgtTlFIVHUyZkRIX3ZSV2RObTN2eEtmcHgzanZuUjJ5aDR2LTFJajM3NTBubGNLSXVGZWU4WEpTN1FxaE93RUZFNFV0Y2pKUnZreVAzNnFmTUprMEJXc2l4Wm1abXJ4ZFVSN2lITm53QnhEQjZrWERqX2xOQy03SU1rTjY0Z1g?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İtalya, Ceuta göçmen krizi nedeniyle İspanya ile AB'nin Schengen serbest dolaşım anlaşmasını askıya aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-31T18:01:00.496247+00:00",
+  "type": "news",
+  "cluster_id": "c875e4a16994b"
+ },
+ {
   "title": "ABD Başkanı Trump: İsrail ve Hamas anlaşması Orta Doğu için büyük bir adım",
   "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trump-israil-ve-hamas-anlasmasi-orta-dogu-icin-buyuk-bir-adim-952748.html",
   "source": "TRT Haber",
@@ -59950,53 +59998,5 @@
   "ts": "2026-06-23T06:01:17.624443+00:00",
   "type": "news",
   "cluster_id": "c1a1e967b6e58"
- },
- {
-  "title": "Sektör mum gibi eriyor: Tek seferde 21 bin kişi işten çıkarıldı",
-  "link": "https://www.sozcu.com.tr/sektor-mum-gibi-eriyor-tek-seferde-21-bin-kisi-isten-cikarildi-p330321",
-  "source": "Sözcü",
-  "summary_tr": "Yapay zeka endüstriye girişiyle teknoloji sektöründe tek seferde 21 bin kişi işten çıkarıldı.",
-  "metric": "21.000 kişi işten çıkarma",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-23T06:01:17.624443+00:00",
-  "type": "news",
-  "cluster_id": "c6f5d0625301f"
- },
- {
-  "title": "Türk devletleri arasında dijital ticarette yeni dönem",
-  "link": "https://www.aa.com.tr/tr/ekonomi/turk-devletleri-arasinda-dijital-ticarette-yeni-donem-/3975057",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türk devletleri dijital ticarette yeni ortaklık anlaşması imzaladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-23T06:01:17.624443+00:00",
-  "type": "news",
-  "cluster_id": "c5dcc3b6fb8cf"
- },
- {
-  "title": "EV demand powers Europe car market in May, Chinese rivals expand share",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMzZPc1psQnZsRThRODg2SzdjTm0xR2ZFakRyUHhXVnB0SUFCVDZKZWRGRzdWc1BZa2YzXy0wdHRPTzdMcXFfQS0tSklmeEd4ZFFfTGFrTklsU281elFTeVEyUDkxdWFMbWlzUFdaa21aVm1sMTRBS0ZZY296ZkJtZXQ5X0ZYODR1ZV95TldWeUU5YWZ2UW5wXy1sN0VrX3haWTRvQk5oa2t5TzRNNDJ0Rm14V2M?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Avrupa'da elektrikli araç talebi Mayıs ayında arttı, Çin rakipleri pazar payını genişletti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-23T06:01:17.624443+00:00",
-  "type": "news",
-  "cluster_id": "c76f5fe7a6980"
- },
- {
-  "title": "Ukraine may recalibrate its offer of ceasefire with Russia, envoy tells UN",
-  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ3h5UmNsV0Y4eHV4VUNjV0ZRNEFOZmJsamsxRXlPX0l0UmR4ekNZN0h3LVdhZ3lRRHZpT2I3YzZEa1p3MjQ4VktWNmVVQjhON2UzLThTdE1aakhxcDlzczhXUkJkUlZ3eUJaT0hTR3JfRlloektIR2g2WVdKVkpVS0dsY0pyek9ZUlR4ZUhLM2g5OTF4R1B2RjI0TlpCbkthbndJVE41MHNnQ21HTVNvSV9VanZieFpfYWZQcmR1YWZDaGdXZ0JMallGdXZjdw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ukrayna ateşkesle ilgili teklifini BM'de değiştireceğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-23T05:01:09.283008+00:00",
-  "type": "news",
-  "cluster_id": "c4d7cc24694af"
  }
 ]
