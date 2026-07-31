@@ -1,5 +1,65 @@
 [
  {
+  "title": "Hamas, Gazze'de Barış Kurulu ile silah bırakmak konusunda anlaştıklarını açıkladı, planın detayları neler?",
+  "link": "https://www.bbc.com/turkce/articles/c70gx2gke5ro?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Hamas ve Gazze silahlı grupları ABD aracılığıyla barış planında silah bırakmayı kabul ettiklerini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-31T03:01:01.545768+00:00",
+  "type": "news",
+  "cluster_id": "c8f606f92ab04"
+ },
+ {
+  "title": "Russian strikes across Ukraine kill 10 and NATO scrambles jets after a missile falls in Poland",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVnV5VmFlVUF0bkZUbjdIeHZqZUFXM3Npd0NlN1p6SDlJTGlLd0F1dWhUSjFnRUozNlc1MUx2eUw5d3BMSFJvX3pLYUpYNkkyaHNWWUVETV91Um5tbG5fOXpWS0h4cWV6MkZvN1o0UEd3b3FXbkpfaVVDbER4MTlidXVaM2FSY0hGYV91ekN6aW9mWmdZREt2ckVFOU9vMU41UlpHSVRB?oc=5",
+  "source": "AP",
+  "summary_tr": "Rusya Ukrayna'ya saldırıda bulundu, füze Polonya'ya düştü ve NATO savaş uçaklarını havalandırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-31T03:01:01.545768+00:00",
+  "type": "news",
+  "cluster_id": "c244ed43f625f"
+ },
+ {
+  "title": "Dev fabrikalarda istihdam eriyor",
+  "link": "https://www.sozcu.com.tr/dev-fabrikalarda-istihdam-eriyor-p341179",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye'nin dev şirketlerinde 2025'te istihdam düşüşü devam ediyor, sanayi sektörü daralmış durumda.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-31T03:01:01.545768+00:00",
+  "type": "news",
+  "cluster_id": "cfbbb60be4041"
+ },
+ {
+  "title": "Yen weakens after intervention-led surge ahead of BOJ policy decision",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObG50QjFDY2VPUEhRMEx0U1JQb0lobkF2V2QwRVdVMVZKR3NEMDZEbGphZmU0RURka0xtQ1dVbHd3Y01HMDlGSkVnWXBNQ1BDa0dfNk5Ed1k2Q0lCV0dKYXdVMDI5MHlRSlBZZjktbVVBZENUdjdYRy1iOXJnVXBodzNNNEtzV3BXVmdqN2pfVWVDalRvVW5Wd3JndlBsM2pMSlVtTzBySHpoQ2pSYTd4alQ0RWl6OWNLc3hIODNB?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Japonya merkez bankasının politika kararı öncesinde yen müdahale sonrası zayıfladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-31T03:01:01.545768+00:00",
+  "type": "news",
+  "cluster_id": "c2f33c3c7b879"
+ },
+ {
+  "title": "Marketlerde Antep fıstığı kilitli kutularda satılıyor",
+  "link": "https://www.sozcu.com.tr/marketlerde-antep-fistigi-kilitli-kutularda-satiliyor-p341178",
+  "source": "Sözcü",
+  "summary_tr": "Antep fıstığı fiyatlarının yüksekliği nedeniyle marketlerde kilitli kutularda satılmaya başlandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-31T03:01:01.545768+00:00",
+  "type": "news",
+  "cluster_id": "cd0a49c228be7"
+ },
+ {
   "title": "Davutoğlu’na 10 soru",
   "link": "https://www.cumhuriyet.com.tr/yazarlar/baris-pehlivan/davutoglu-na-10-soru-2525199",
   "source": "Cumhuriyet",
@@ -59938,65 +59998,5 @@
   "ts": "2026-06-22T08:01:18.920215+00:00",
   "type": "news",
   "cluster_id": "c35f7fb8fd9b7"
- },
- {
-  "title": "Yabancı Türkiye'de harcamayı kıstı, yurttaş yurtdışına yöneldi: Kartlı harcamalarda tarihi tersine dönüş",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/yabanci-turkiye-de-harcamayi-kisti-yurttas-yurtdisina-yoneldi-kartli-harcamalarda-tarihi-tersine-donus-2514277",
-  "source": "Cumhuriyet",
-  "summary_tr": "Yabancı kartların Türkiye'deki harcama hacmi düşerken, yerli kart sahipleri yurtdışına yöneldi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-22T08:01:18.920215+00:00",
-  "type": "news",
-  "cluster_id": "c00a1717e7acd"
- },
- {
-  "title": "Tüketici güven endeksi haziranda arttı",
-  "link": "https://www.sozcu.com.tr/tuketici-guven-endeksi-haziranda-artti-p330048",
-  "source": "Sözcü",
-  "summary_tr": "Tüketici güven endeksi haziranda aylık bazda %2,5 artarak 87,9'a çıktı.",
-  "metric": "Tüketici güven endeksi %2,5 artış (+yüzde 2,5)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-22T08:01:18.920215+00:00",
-  "type": "news",
-  "cluster_id": "c8f0e75d1d378"
- },
- {
-  "title": "Tüketici güven endeksi haziranda aylık bazda yüzde 2,5 artarak 87,9 oldu",
-  "link": "https://www.aa.com.tr/tr/ekonomi/tuketici-guven-endeksi-haziranda-aylik-bazda-yuzde-2-5-artarak-87-9-oldu/3974139",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Tüketici güven endeksi haziranda aylık bazda %2,5 artarak 87,9'a çıktı.",
-  "metric": "Tüketici güven endeksi %2,5 artış",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-22T08:01:18.920215+00:00",
-  "type": "news",
-  "cluster_id": "c8f0e75d1d378"
- },
- {
-  "title": "Yurt dışı ÜFE mayısta aylık yüzde 1,71, yıllık yüzde 34,16 arttı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/yurt-disi-ufe-mayista-aylik-yuzde-1-71-yillik-yuzde-34-16-artti/3974136",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Yurt dışı ÜFE mayısta aylık %1,71, yıllık %34,16 arttı.",
-  "metric": "Yurt dışı ÜFE mayıs (aylık %1,71, yıllık %34,16)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-22T08:01:18.920215+00:00",
-  "type": "news",
-  "cluster_id": "cf1d79c13c69e"
- },
- {
-  "title": "Yurt dışı ÜFE mayısta arttı",
-  "link": "https://www.trthaber.com/haber/ekonomi/yurt-disi-ufe-mayista-artti-948933.html",
-  "source": "TRT Haber",
-  "summary_tr": "Yurt dışı ÜFE mayısta aylık %1,71, yıllık %34,16 artış gösterdi.",
-  "metric": "Yurt dışı ÜFE mayıs (aylık +%1,71, yıllık +%34,16)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-22T08:01:18.920215+00:00",
-  "type": "news",
-  "cluster_id": "cf1d79c13c69e"
  }
 ]
