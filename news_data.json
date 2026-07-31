@@ -1,5 +1,53 @@
 [
  {
+  "title": "Yüzde 160’a varan zamlar için YÖK harekete geçti",
+  "link": "https://www.sozcu.com.tr/yuzde-160-a-varan-zamlar-icin-yok-harekete-gecti-p341402",
+  "source": "Sözcü",
+  "summary_tr": "Yükseköğretim Kurulu (YÖK), 2026-2027 eğitim-öğretim yılı öğrenim ücretlerinde yüzde 160'a varan zamları uygulamaya başladı.",
+  "metric": "Öğrenim ücreti zam oranı: %160'a varan",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-07-31T20:01:04.135680+00:00",
+  "type": "news",
+  "cluster_id": "c86644ce4a89a"
+ },
+ {
+  "title": "İstanbul'da tutuklu CHP'li belediye başkanı sayısı 16'ya yükseldi",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-tutuklu-chp-li-belediye-baskani-sayisi-16-ya-yukseldi-2525497",
+  "source": "Cumhuriyet",
+  "summary_tr": "İstanbul'da tutuklu CHP'li belediye başkanı sayısı 16'ya yükseldi. Üsküdar Belediye Başkanı Sinem Dedetaş'ın tutuklanmasıyla birlikte tutuklu sayısı artmıştır.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-31T20:01:04.135680+00:00",
+  "type": "news",
+  "cluster_id": "ccdc5dd791cf1"
+ },
+ {
+  "title": "Üsküdar Belediye Başkanı Dedetaş ve 3 şüpheli tutuklandı",
+  "link": "https://www.trthaber.com/haber/gundem/uskudar-belediye-baskani-dedetas-ve-3-supheli-tutuklandi-952750.html",
+  "source": "TRT Haber",
+  "summary_tr": "Üsküdar Belediye Başkanı Sinem Dedetaş ve 3 şüpheli tutuklandı. İstanbul Anadolu Cumhuriyet Başsavcılığı yapı ruhsatı ve iskan süreçlerinde usulsüzlük yapıldığı iddiasıyla gözaltı işlemi başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-31T20:01:04.135680+00:00",
+  "type": "news",
+  "cluster_id": "c8f9679b1e13a"
+ },
+ {
+  "title": "Parti Sözcüsü duyurdu: CHP'den 500 bine yakın üye ile 120 belediye başkanı ayrıldı",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVG1ZMVNPby1lOXhkaWhWVHcxbzZzem5MQlZ0N0YtRW5mN01aa2FyaHhpU3lQUFhUNHk3Q1B6R29fakxwTUNVai0xc0hFa0swRHRTM1ZWWkI3bjdSSE82NlF5UzhtWlNVYnA4UEx2OTB2Z3FoYWdSeHNaS0QyMndwc2ZhS0dXQ1FRN2hPMjB3T3haTjFtRFg0NVB4M055YkdndFJWdHIxRWpiU2VNbFlwenhmeEpXTmtD?oc=5",
+  "source": "T24",
+  "summary_tr": "CHP Parti Sözcüsü'nün duyurusuna göre partiden yaklaşık 500 bin üye ve 120 belediye başkanı ayrıldı.",
+  "metric": "CHP'den ayrılan üye: ~500.000; ayrılan belediye başkanı: 120",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-31T20:01:04.135680+00:00",
+  "type": "news",
+  "cluster_id": "c346a52c1704e"
+ },
+ {
   "title": "Oil price rises after Iran says it stops ships in Hormuz",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNm5pTVNDLURFZkZQWHVrd3VibjhDM05FOVd1QWIzNVRfbWtPWTFiSjQtSmc5Mk41Yl9MaG4zWTV3YTNyQVpOWVl1WUZCcXVKeGJzVjFtUVh3dGlvYlFScVI3UFJfamhnX2M0ZG1UNDZSckhIM214Q1c1bG53S0dnWnZDRDF4Mm9CWnZQMzBVS1M5c3BvTmxCQmg5bURtMTZ4dHBGanhNak8?oc=5",
   "source": "Reuters",
@@ -59950,53 +59998,5 @@
   "ts": "2026-06-23T08:01:03.822435+00:00",
   "type": "data",
   "cluster_id": ""
- },
- {
-  "title": "İran: Hürmüz Boğazı'nı biz yöneteceğiz",
-  "link": "https://www.dw.com/tr/iran-hürmüz-boğazı-nı-biz-yöneteceğiz/a-77666788?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "İranlı müzakereci Kalibaf, Hürmüz Boğazı'nı İran'ın yöneteceğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-23T07:01:16.068980+00:00",
-  "type": "news",
-  "cluster_id": "c7bfbfff3924a"
- },
- {
-  "title": "US waives Iran sanctions, Trump says he will 'do what I have to' if Tehran misbehaves",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcS1OdmpfbHlfTkxhM2xVM0cwWHVDeWhRUTNiY284YkViREtCTWpoSmRJVGpVdFBVWnpaS1BpZEFHcjd1Y2s0VDZ1Z25oOUQzY1FtQ1ZTOGlKRE1JRm1Ma3k0RUZoN0RCTlBjTV84eUtfZ05Cdk1lSzd3aXV3QkJtVklEa3FIYk92MkUzTW5YMm82Wmd0TmpYMEF5dnBnUmU2M0RKamprTjRJcnd1Z292dE1nM1A0ekFiS1M3YVhGZUQ3T0pQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD İran yaptırımlarından feragat etti; Trump, Tahran kural dışı davranırsa gerekli adımları atacağını söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-23T07:01:16.068980+00:00",
-  "type": "news",
-  "cluster_id": "c67545b47a4a2"
- },
- {
-  "title": "Özel grup toplantısı yapacak, Kılıçdaroğlu MYK toplayacak",
-  "link": "https://www.bbc.com/turkce/articles/cwyl19vzkn7o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "CHP Genel Başkanlığına mahkeme kararıyla atanan Kılıçdaroğlu MYK toplantısı yapacak; Grup Başkanı Özgür Özel 23 Haziran'da TBMM'de konuşacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-23T07:01:16.068980+00:00",
-  "type": "news",
-  "cluster_id": "c6cec6045256f"
- },
- {
-  "title": "Kılıçdaroğlu Genel Merkez'de MYK'yi topluyor: Özgür Özel TBMM'de Grup Toplantısı'nda konuşacak",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/kilicdaroglu-genel-merkez-de-myk-yi-topluyor-ozgur-ozel-tbmm-de-grup-toplantisi-nda-konusacak-2514575",
-  "source": "Cumhuriyet",
-  "summary_tr": "Mahkeme kararıyla CHP Genel Başkanlığına atanan Kılıçdaroğlu bugün MYK toplantısı yapıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-23T07:01:16.068980+00:00",
-  "type": "news",
-  "cluster_id": "c03b92043cf0b"
  }
 ]
