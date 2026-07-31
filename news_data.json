@@ -1,5 +1,65 @@
 [
  {
+  "title": "Motorin fiyatlarında bir ayda dev artış: Maliyetlerdeki yükseliş sofrayı da vuracak",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/motorin-fiyatlarinda-bir-ayda-dev-artis-maliyetlerdeki-yukselis-sofrayi-da-vuracak-2525357",
+  "source": "Cumhuriyet",
+  "summary_tr": "Motorin fiyatlarında bir ayda önemli artış yaşandı; artan akaryakıt maliyetleri üretim ve tüketim maliyetlerini artıracak.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-07-31T11:01:08.694679+00:00",
+  "type": "news",
+  "cluster_id": "c198281114d5e"
+ },
+ {
+  "title": "Pazarda dert yanan esnaf: 'Ekonomi gitti, insanlar öldü, kefenleyip gömecek adam lazım'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/pazarda-dert-yanan-esnaf-ekonomi-gitti-insanlar-oldu-kefenleyip-gomecek-adam-lazim-2525363",
+  "source": "Cumhuriyet",
+  "summary_tr": "Esnaflar artan maliyetler ve düşen satışlardan şikayet ediyor; ekonomik kriz esnaf gelirlerini ciddi şekilde etkilemiş.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-31T11:01:08.694679+00:00",
+  "type": "news",
+  "cluster_id": "c9b263df47eb4"
+ },
+ {
+  "title": "Araplar Türk akaryakıt şirketine ortak oluyor: Dünyanın en büyük petrol şirketi askerlerle pazarlıkta",
+  "link": "https://www.sozcu.com.tr/araplar-turk-akaryakit-sirketine-ortak-oluyor-dunyanin-en-buyuk-petrol-sirketi-askerlerle-pazarlikta-p341307",
+  "source": "Sözcü",
+  "summary_tr": "Suudi Aramco, Türkiye akaryakıt pazarına girme görüşmeleri hızlandırıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-31T11:01:08.694679+00:00",
+  "type": "news",
+  "cluster_id": "cd857c1bc967d"
+ },
+ {
+  "title": "Ticaret Bakanı Bolat: Esnaf kefalet kooperatifleri aracılığıyla Artvin esnaflarımız için 100 milyon lira göndereceğiz",
+  "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-esnaf-kefalet-kooperatifleri-araciligiyla-artvin-esnaflarimiz-icin-100-milyon-lira-gonderecegiz/4014846",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ticaret Bakanı Bolat, Artvin esnafları için 100 milyon lira kefalet desteği vereceğini açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-31T11:01:08.694679+00:00",
+  "type": "news",
+  "cluster_id": "c1fb325772344"
+ },
+ {
+  "title": "Tarım ve Orman Bakanı Yumaklı: Toprak Mahsulleri Ofisi bugüne kadar 10 milyon tona yakın ürünü aldı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/tarim-ve-orman-bakani-yumakli-toprak-mahsulleri-ofisi-bugune-kadar-10-milyon-tona-yakin-urunu-aldi/4014821",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "TMO bugüne kadar 10 milyon tona yakın tarım ürünü satın almış; alımlara devam ediliyor.",
+  "metric": "TMO satın alma 10 milyon ton",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-07-31T11:01:08.694679+00:00",
+  "type": "news",
+  "cluster_id": "c7a5aea85192c"
+ },
+ {
   "title": "Türkiye yılın ilk 6 ayında turizmden 25 milyar 746 milyon dolar elde etti",
   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-yilin-ilk-6-ayinda-turizmden-25-milyar-746-milyon-dolar-elde-etti/4014737",
   "source": "Anadolu Ajansı",
@@ -59938,65 +59998,5 @@
   "ts": "2026-06-22T18:01:15.588989+00:00",
   "type": "news",
   "cluster_id": "c9dfed9ffd588"
- },
- {
-  "title": "ABD Başkan Yardımcısı Vance: 'İran nükleer denetçilerin ülkeye girişine izin verdi'",
-  "link": "https://www.bbc.com/turkce/articles/ce8k0znpgd3o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD Başkan Yardımcısı Vance, İran'ın nükleer denetçilerin ülkeye geri dönmesine izin verdiğini ve IAEA'nın erişim sağladığını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-22T17:01:20.821254+00:00",
-  "type": "news",
-  "cluster_id": "c3f675b805637"
- },
- {
-  "title": "ABD İran'a petrol yaptırımlarını askıya aldı",
-  "link": "https://www.dw.com/tr/abd-iran-a-petrol-yaptırımlarını-askıya-aldı/a-77663823?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "ABD Hazine Bakanlığı, İran petrolüne yönelik yaptırımları 21 Ağustos'a kadar askıya aldığını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-22T17:01:20.821254+00:00",
-  "type": "news",
-  "cluster_id": "c19d7c7b93e2c"
- },
- {
-  "title": "AK Parti Sözcüsü Çelik: (İran-ABD mutabakatı ve müzakere süreci) Gelinen nokta, bölge ve dünya barışı için önemlidir",
-  "link": "https://www.aa.com.tr/tr/gundem/ak-parti-sozcusu-celik-iran-abd-mutabakati-ve-muzakere-sureci-gelinen-nokta-bolge-ve-dunya-barisi-icin-onemlidir/3974761",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "AK Parti Sözcüsü Çelik, İran-ABD mutabakatı ve 60 günlük müzakere sürecinin bölge ve dünya barışı için önemli olduğunu belirtti.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-06-22T17:01:20.821254+00:00",
-  "type": "news",
-  "cluster_id": "c7b3e9c4717a9"
- },
- {
-  "title": "Akkuyu Nükleer Güç Santrali'nin 1'inci güç ünitesinin inşaatı tamamlandı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/akkuyu-nukleer-guc-santralinin-1inci-guc-unitesinin-insaati-tamamlandi/3974699",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye'nin ilk nükleer enerji santrali Akkuyu'nun 1. güç ünitesindeki inşaat çalışmaları tamamlandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-22T16:01:23.704051+00:00",
-  "type": "news",
-  "cluster_id": "c54a93b66345b"
- },
- {
-  "title": "Lebanon ceasefire largely holds but fears persist it may collapse",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEJiczdBeDQ3LUFmcVg2eUo1aEQ4SU5HenU2Z0pEWVlVOFFFQnRIRmdMbzZsVVFvWnhEQ3ROTFE2OHUyVko4QmhYX0ZDQ2VWZmI4THFrNXRxWDFGeVA1SFo0LW9zSkVuc1lDRFlSOXF6bzJOYjlCd1JDdnNpWWxmRU43REdsemxoYnRXUGkzbWxUeVMzNjFxSFBval9HZXhZNGNnN2E0RDhRaUp5WmhmTWMzVUhZT28?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Lübnan ateşkesi çoğunlukla ayakta kalmakla birlikte çöküş endişeleri devam ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-22T16:01:23.704051+00:00",
-  "type": "news",
-  "cluster_id": "cd7ab19ac24c4"
  }
 ]
