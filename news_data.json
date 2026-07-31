@@ -1,5 +1,65 @@
 [
  {
+  "title": "Resmi Gazete'de yayımlandı: TCMB döviz dönüşüm desteği sistemini değiştirdi",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/resmi-gazete-de-yayimlandi-tcmb-den-doviz-donusum-destegi-etkinliginin-artirilmasi-icin-duzenleme-2525531",
+  "source": "Cumhuriyet",
+  "summary_tr": "TCMB, rezerv birikimine katkı sağlayan döviz dönüşüm desteğinde kapsamlı değişikliklere gitti ve firmaların katma değer zincirini etkileyecek düzenleme yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-31T22:01:05.056248+00:00",
+  "type": "news",
+  "cluster_id": "c151398d67479"
+ },
+ {
+  "title": "TCMB'den döviz dönüşüm desteğinin etkinliğini artıracak adımlar",
+  "link": "https://www.aa.com.tr/tr/ekonomi/tcmbden-doviz-donusum-desteginin-etkinligini-artiracak-adimlar/4015428",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "TCMB, rezerv birikimine katkı sağlayan döviz dönüşüm desteğinin etkinliğini artırmaya yönelik yeni düzenlemeler yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-31T22:01:05.056248+00:00",
+  "type": "news",
+  "cluster_id": "c75f6382ba072"
+ },
+ {
+  "title": "Cem Küçük 'halkı yanıltıcı bilgiyi alenen yayma' suçlamasıyla tutuklandı",
+  "link": "https://www.bbc.com/turkce/articles/cwyqe433j9no?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "TV yorumcusu Cem Küçük, halkı yanıltıcı bilgiyi alenen yayma suçlamasıyla İstanbul Cumhuriyet Başsavcılığı tarafından tutuklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-31T22:01:05.056248+00:00",
+  "type": "news",
+  "cluster_id": "ce4520ad3ab61"
+ },
+ {
+  "title": "Süreç resmen tamamlandı: CarrefourSA'nın yeni sahibi belli oldu",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/surec-resmen-tamamlandi-carrefoursa-nin-yeni-sahibi-belli-oldu-2525523",
+  "source": "Cumhuriyet",
+  "summary_tr": "CarrefourSA hisselerinin %89,28'i Aydın Grup'un Yeni Mağazacılık şirketine devredildi; Rekabet Kurumu dahil tüm yasal onay süreçleri tamamlandı.",
+  "metric": "CarrefourSA hisse devirli oranı %89,28",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-31T22:01:05.056248+00:00",
+  "type": "news",
+  "cluster_id": "cc0ad2e498f6f"
+ },
+ {
+  "title": "Yandaş yazar Cem Küçük tutuklandı",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3MS1oWnRHUG9JWFZFSnZTLWtZMVRYRXc5SGMwZlp4aXR0SHZhcWhiLTE2OWREU2NFVFRyMXVUektqYlkxV09lMUVQWkM4MUREc0NQLVVkNUFnRXhfNjZwdFJNTTQtbGU3RWFNbjQ3NUU2REVYQlE4S1k4dw?oc=5",
+  "source": "soL",
+  "summary_tr": "Yandaş yazar Cem Küçük tutuklandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-31T22:01:05.056248+00:00",
+  "type": "news",
+  "cluster_id": "c49a8a44483ff"
+ },
+ {
   "title": "Üsküdar Belediye Başkanı Sinem Dedetaş dahil dört kişi tutuklandı",
   "link": "https://www.bbc.com/turkce/articles/ckg4rdn5ydgo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59938,65 +59998,5 @@
   "ts": "2026-06-23T10:01:13.335391+00:00",
   "type": "news",
   "cluster_id": "c58616786107d"
- },
- {
-  "title": "Emekli maaş zammı yüksek ihtimalle bu iki orandan biri olacak",
-  "link": "https://www.sozcu.com.tr/emekli-maas-zammi-yuksek-ihtimalle-bu-iki-orandan-biri-olacak-p330414",
-  "source": "Sözcü",
-  "summary_tr": "Milyonlarca emekli ve memur, Temmuz ayında yapılacak maaş artışını bekliyor; TÜİK verileri artış oranını belirleyecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-23T10:01:13.335391+00:00",
-  "type": "news",
-  "cluster_id": "c34b2b85ebdd6"
- },
- {
-  "title": "Mahfi Eğilmez yaşanan krizi açıkladı: Altın ve gümüş fiyatları niçin düştü?",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/mahfi-egilmez-yasanan-krizi-acikladi-altin-ve-gumus-fiyatlari-nicin-dustu-2514645",
-  "source": "Cumhuriyet",
-  "summary_tr": "İktisatçı Mahfi Eğilmez, ABD-İran çatışması sonrası altın ve gümüş fiyatlarının düşmesini değişen küresel dinamiklere bağladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-23T10:01:13.335391+00:00",
-  "type": "news",
-  "cluster_id": "c9950ab80f35c"
- },
- {
-  "title": "Petrolde tahminler altüst oldu!",
-  "link": "https://www.sozcu.com.tr/petrolde-tahminler-altust-oldu-p330419",
-  "source": "Sözcü",
-  "summary_tr": "Petrol piyasasında ABD-İran mutabakatı sonrası aşağı yönlü trend güçlenmesi bekleniyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-23T10:01:13.335391+00:00",
-  "type": "news",
-  "cluster_id": "c9a85f9e2904e"
- },
- {
-  "title": "Adalar Belediyesi soruşturması: Belediye Başkanı Akpolat dahil 35 kişi tutuklandı",
-  "link": "https://www.bbc.com/turkce/articles/ce95vy3dk0zo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Adalar Belediyesi Başkanı Akpolat dahil 35 kişi soruşturma kapsamında tutuklandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-23T09:01:18.718963+00:00",
-  "type": "news",
-  "cluster_id": "c4df5fbbe22cc"
- },
- {
-  "title": "Bakan Şimşek ve TCMB Başkanı Karahan yeniden Londra'da: Yatırımcılar önceki toplantıyı terk etmişti",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/bakan-simsek-ve-tcmb-baskani-karahan-yeniden-londra-da-yatirimcilar-onceki-toplantiyi-terk-etmisti-2514630",
-  "source": "Cumhuriyet",
-  "summary_tr": "Bakan Şimşek ve TCMB Başkanı Karahan Londra'da yatırımcı görüşmeleri gerçekleştirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-23T09:01:18.718963+00:00",
-  "type": "news",
-  "cluster_id": "c7d856054ba50"
  }
 ]
