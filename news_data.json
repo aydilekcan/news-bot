@@ -1,5 +1,17 @@
 [
  {
+  "title": "US Treasury informed banks that it may intervene in yen, source says",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdXpOeGRTaEJ5bzQ0eldfM0hpWFlCTUlsVGE4WHJhTFAtNTdwT0Y4R0tDSjBJX1lseXYxVnhDZ1FWRDRmZG05X3lFUl9JdnRBVDZEbHJma1NfdmMxbnNscm1SMmVfT0F4NXhhRGhoZlY4RlJfZDRrdXluMEJfWm1RODA2ek82a2poakpMMnRsZ0Mwd0JOQmV4SFczako3VnRzb1JXN2xCejdUdHJ3Mk5Tc0JkWnpxUXQwQzZr?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Hazine Bakanlığı, bankalara Japon yeni (yen) piyasasında müdahale edebileceklerini bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-31T15:00:58.178600+00:00",
+  "type": "news",
+  "cluster_id": "c671b0f3870fd"
+ },
+ {
   "title": "Ağır Ekonomi (318): Ekonomide hava kışa dönüyor",
   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTFNEdU92bTY0LVNHMzlKQTVNNXlONFRvdEpTdENVeEpOa19QZGt2ZzFhOVNqRkJSVUtEM0FCOVQwSHlxcjZpSlRfWlZpemVyV0gwYmZCaXhwTzdVLU9CdXF4ZUh1d3ZvRHJuYUVPNkpJNTBOMmxNTkdDa3JsSi1tQ3pZcktPZDQ?oc=5",
   "source": "Medyascope",
@@ -59986,17 +59998,5 @@
   "ts": "2026-06-23T02:01:06.219269+00:00",
   "type": "news",
   "cluster_id": "c91b706a03b8e"
- },
- {
-  "title": "CHP'li Silifke Belediye Başkanı dahil 8 kişi tutuklandı",
-  "link": "https://www.bbc.com/turkce/articles/cpwe70eejqxo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "CHP'li Silifke Belediye Başkanı Mustafa Turgut, yolsuzluk operasyonunda 7 kişi ile birlikte tutuklandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-23T01:01:02.713689+00:00",
-  "type": "news",
-  "cluster_id": "c4c227c80a5de"
  }
 ]
