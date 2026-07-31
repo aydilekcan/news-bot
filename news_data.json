@@ -1,5 +1,29 @@
 [
  {
+  "title": "Ağır Ekonomi (318): Ekonomide hava kışa dönüyor",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTFNEdU92bTY0LVNHMzlKQTVNNXlONFRvdEpTdENVeEpOa19QZGt2ZzFhOVNqRkJSVUtEM0FCOVQwSHlxcjZpSlRfWlZpemVyV0gwYmZCaXhwTzdVLU9CdXF4ZUh1d3ZvRHJuYUVPNkpJNTBOMmxNTkdDa3JsSi1tQ3pZcktPZDQ?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Medyascope analiz programında ekonomide kritis durum işaret ediliyor; iklim kışa dönüş mesajı verildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-31T14:01:11.564120+00:00",
+  "type": "news",
+  "cluster_id": "ce4c4fa3eb9ba"
+ },
+ {
+  "title": "Faiz dışı bütçe fazlası: 521 milyar TL",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZUtTTkRTRnFxZFkwV2JWRFlYRnEweHNZVHVvR0lrRHNqMTI5YllDQ0pQX0hIemhlNWJVdlphNTRMVHkzNmdPUnFhNWlVQ2hsSEFYRk56Z2U2VTRsUFF2ZmZuVHFSdkpqM2ZEMkxaNF9iUEs2ZnM0LVlmZkJldGNQN0hVNWkyeEdydzZHT3dCYlZaa3NidE02ZUQ2RWhwQXl0bkpxSFdCQU9rYlRER0Qw?oc=5",
+  "source": "Hazine ve Maliye Bakanlığı",
+  "summary_tr": "521 milyar TL",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-07-31T14:01:11.564120+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Hamas duyurdu: İsrail'le kapsamlı anlaşma",
   "link": "https://www.diken.com.tr/hamas-duyurdu-israille-anlasma/?utm_source=rss&utm_medium=rss&utm_campaign=hamas-duyurdu-israille-anlasma",
   "source": "Diken",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-23T01:01:02.713689+00:00",
   "type": "news",
   "cluster_id": "c4c227c80a5de"
- },
- {
-  "title": "Trump: 'I will do what I have to do' if Iran does not stick to deal",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMWlPQmY1RnVVZlNjT1l4eFRRTnBnd1NPZzdLdU9EU3gybERGNHlJeFRpNTVxMzliRS1MMzBOMW03NU5GeHVmMEN1Zm0xeHY2cjVSV05FbmdTdFl6cXhvbzZnZ25NdVJQQmhxZ3FjLUZWVUFnNGF6RFZwT00wMjVHbXBTNkNUWFdLMTgtNWRFV3AzdXlqRWdOT0NVTFVZbFhDbnc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, İran'ın anlaşmaya uymaması halinde gerekli önlemleri alacağını söyledi. ABD-İran gerginliği ve nükleer müzakerelerde kritik gelişme.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-23T00:01:12.337613+00:00",
-  "type": "news",
-  "cluster_id": "c82f26ee05824"
- },
- {
-  "title": "Ukraine and Russia exchange deadly strikes, with at least one child killed",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd0tuaFd5c0lHeEFQWks2ejkyd25ycTRSVi1NREZUTVJPVEZRSERudWZMQjItc1VFelptMUJwWnZ4OHVHUVcwRkR4cXVKMUM0dk1vZ0xET3VTMEtObW9CV2ZkWk9Ndk1JWFdxSFUzd1FSU2ZZaHhubmhna2FTbUJEbFZHWlVQaFk4UnlNRExkSGhWSU1jeUp4WUVoTndVYUFPRTMxSg?oc=5",
-  "source": "AP",
-  "summary_tr": "Ukrayna ve Rusya arasında ölümcül saldırılar devam ediyor; en az bir çocuk öldürüldü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-22T23:01:03.436747+00:00",
-  "type": "news",
-  "cluster_id": "c914c3ea488e0"
  }
 ]
