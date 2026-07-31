@@ -596,20 +596,37 @@
    "indicator_tr": "TCMB net rezervleri (swap hariç)"
   },
   "tr_dis_ticaret_acigi_yoy": {
-   "value": "%26,2",
-   "period": "Haziran 2025",
-   "ts": "2026-07-31T08:02:27.355651+00:00",
-   "indicator_tr": "Dış ticaret açığı (yıllık değişim)"
+   "value": "%7,4",
+   "period": "Ocak-Haziran 2025",
+   "ts": "2026-07-31T09:01:27.229657+00:00",
+   "indicator_tr": "Dış ticaret açığı (yıllar arası değişim)"
   },
   "tr_ihracat_yoy": {
-   "value": "%21,7",
+   "value": "%21,1",
+   "period": "Ocak-Haziran 2025",
+   "ts": "2026-07-31T09:01:27.229657+00:00",
+   "indicator_tr": "İhracat (yıllar arası değişim)"
+  },
+  "tr_ithalat_yoy": {
+   "value": "%23",
+   "period": "Ocak-Haziran 2025",
+   "ts": "2026-07-31T09:01:27.229657+00:00",
+   "indicator_tr": "İthalat (yıllar arası değişim)"
+  },
+  "tr_dis_ticaret_acigi_mutlak": {
+   "value": "10,370 milyar $",
    "period": "Haziran 2025",
-   "ts": "2026-07-31T08:02:27.355651+00:00",
-   "indicator_tr": "İhracat (yıllık değişim)"
+   "ts": "2026-07-31T09:01:27.229657+00:00",
+   "indicator_tr": "Dış ticaret açığı"
+  },
+  "tr_dis_ticaret_acigi_yoy_v2": {
+   "value": "%26",
+   "period": "Haziran 2025",
+   "ts": "2026-07-31T09:01:27.229657+00:00",
+   "indicator_tr": "Dış ticaret açığı (yıllar arası değişim)"
   }
  },
  "seen_links": {
-  "c874994a51d06b805c56dc9070ce05d3": "2026-07-17T09:01:23.011481+00:00",
   "3f72645a7ea946020b373642db7baee5": "2026-07-17T10:01:12.095903+00:00",
   "5f2d9db720e2056a894f3da24c108513": "2026-07-17T11:01:10.726651+00:00",
   "c218f83ba585da2e6d30fb5b70e4c0c2": "2026-07-17T12:01:18.379685+00:00",
@@ -840,6 +857,11 @@
   "93bfe3a80a2dce50dc9a79fb9701bf01": "2026-07-31T08:01:18.406762+00:00",
   "808dea6b6fb89abc9d6559147e0ff058": "2026-07-31T08:01:18.406762+00:00",
   "a5b55084b9ff10e895950f643ec95d30": "2026-07-31T08:01:18.406762+00:00",
-  "c4b2a1e0b0aec7e8c785560066064210": "2026-07-31T08:01:18.406762+00:00"
+  "c4b2a1e0b0aec7e8c785560066064210": "2026-07-31T08:01:18.406762+00:00",
+  "62c18a0fc12908b04110ef30e608c281": "2026-07-31T09:01:00.289355+00:00",
+  "e92a61f3caefc6c5aca89da58334a01a": "2026-07-31T09:01:00.289355+00:00",
+  "fe17d21cf9e987fe89d744cf4fcadb0d": "2026-07-31T09:01:00.289355+00:00",
+  "857a02daa988ef654bd9ec285b6efa1c": "2026-07-31T09:01:00.289355+00:00",
+  "8823ea55d7bbdc3a51ff6408c05c115a": "2026-07-31T09:01:00.289355+00:00"
  }
 }
