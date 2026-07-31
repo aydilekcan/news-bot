@@ -1,5 +1,77 @@
 [
  {
+  "title": "Üsküdar Belediye Başkanı Sinem Dedetaş dahil dört kişi tutuklandı",
+  "link": "https://www.bbc.com/turkce/articles/ckg4rdn5ydgo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Üsküdar Belediye Başkanı Sinem Dedetaş dahil dört kişi tutuklandı. İstanbul Anadolu Cumhuriyet Başsavcılığı soruşturması kapsamında gözaltına alınan Dedetaş hakkında tutuklama kararı verildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-31T21:01:05.202731+00:00",
+  "type": "news",
+  "cluster_id": "c09bd67bc9213"
+ },
+ {
+  "title": "YÖK'ten vakıf üniversitelerine uyarı: Öğrenim ücreti artışı yüzde 25'i geçemeyecek",
+  "link": "https://www.trthaber.com/haber/egitim/yokten-vakif-universitelerine-uyari-ogrenim-ucreti-artisi-yuzde-25i-gecemeyecek-952758.html",
+  "source": "TRT Haber",
+  "summary_tr": "YÖK, vakıf üniversitelerine 2026-2027 eğitim yılında öğrenim ücret artışının %25'i geçemeyeceğini bildirdi.",
+  "metric": "Öğrenim ücreti artış sınırı: %25 (maksimum)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-31T21:01:05.202731+00:00",
+  "type": "news",
+  "cluster_id": "c3cc5db7acbbf"
+ },
+ {
+  "title": "Üsküdar Belediyesi’ne operasyon: Sinem Dedetaş tutuklandı",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBleV9Vck1JbkYyQUxmRTRIdG5lZEt0a1JyYVVlOFMxMWxqTFJ4OEt1UzB2RVFhbVRoMUVhUnpJcjVlMlpNaUJvcWR1MHUwc0pyMTVxUlJ6VDhmVmFvRU5BLVJoM3Y2TDBiUHc?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Üsküdar Belediye Başkanı Sinem Dedetaş tutuklandı. Belediyeye yönelik operasyon gerçekleştirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-07-31T21:01:05.202731+00:00",
+  "type": "news",
+  "cluster_id": "cce9bcf7906cf"
+ },
+ {
+  "title": "CarrefourSA satıldı",
+  "link": "https://www.diken.com.tr/carrefoursa-satildi/?utm_source=rss&utm_medium=rss&utm_campaign=carrefoursa-satildi",
+  "source": "Diken",
+  "summary_tr": "CarrefourSA'nın hisselerinin %89,28'i Aydın Grup'un Yeni Mağazacılık (A101) şirketine devredildi. Satış tüm yasal onayları aldı.",
+  "metric": "CarrefourSA hisse devri: %89,28",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-31T21:01:05.202731+00:00",
+  "type": "news",
+  "cluster_id": "ccdaab5b6e9fa"
+ },
+ {
+  "title": "İmamoğlu'ndan Sinem Dedetaş'ın tutuklanmasına tepki",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/imamoglu-ndan-sinem-dedetas-in-tutuklanmasina-tepki-2525516",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP'nin tutuklu cumhurbaşkanı adayı İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu, Üsküdar Belediye Başkanı Sinem Dedetaş'ın tutuklanmasına tepki gösterdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-07-31T21:01:05.202731+00:00",
+  "type": "news",
+  "cluster_id": "cf1128b0fe5a8"
+ },
+ {
+  "title": "Türkiye’nin dev market zinciri resmen satıldı: İşte yeni sahibi",
+  "link": "https://www.sozcu.com.tr/turkiye-nin-dev-market-zinciri-resmen-satildi-iste-yeni-sahibi-p341411",
+  "source": "Sözcü",
+  "summary_tr": "CarrefourSA'nın %89,28 hissesi Aydın Grup bünyesindeki Yeni Mağazacılık'a devredildi. Satış tüm yasal onayları tamamladı.",
+  "metric": "CarrefourSA hisse devri: %89,28",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-07-31T21:01:05.202731+00:00",
+  "type": "news",
+  "cluster_id": "c7e174c08c5a7"
+ },
+ {
   "title": "Yüzde 160’a varan zamlar için YÖK harekete geçti",
   "link": "https://www.sozcu.com.tr/yuzde-160-a-varan-zamlar-icin-yok-harekete-gecti-p341402",
   "source": "Sözcü",
@@ -59926,77 +59998,5 @@
   "ts": "2026-06-23T09:01:18.718963+00:00",
   "type": "news",
   "cluster_id": "c7d856054ba50"
- },
- {
-  "title": "Bursa, taksi plaka değerinde İstanbul'u solladı: Bursa'da plakalar 20 milyon liraya kadar çıktı",
-  "link": "https://www.sozcu.com.tr/bursa-taksi-plaka-degerinde-istanbul-u-solladi-bursa-da-plakalar-20-milyon-liraya-kadar-cikti-p330401",
-  "source": "Sözcü",
-  "summary_tr": "Bursa'da taksi plaka fiyatları 20 milyon liraya yükseldi, İstanbul'u geride bıraktı.",
-  "metric": "Bursa taksi plakası 20 milyon TL",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-23T09:01:18.718963+00:00",
-  "type": "news",
-  "cluster_id": "cdc028907bc81"
- },
- {
-  "title": "Dev bankadan küçülme kararı: 233 şubesini kapatıyor",
-  "link": "https://www.sozcu.com.tr/dev-bankadan-kuculme-karari-233-subesini-kapatiyor-p330394",
-  "source": "Sözcü",
-  "summary_tr": "Lloyds Banking Group müşteri azlığı nedeniyle 233 şubesini kapatma kararı aldı.",
-  "metric": "233 şube kapatılacak",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-23T09:01:18.718963+00:00",
-  "type": "news",
-  "cluster_id": "c4318e77bb03f"
- },
- {
-  "title": "Hakim ve savcılara yeni uyarma cezası",
-  "link": "https://www.trthaber.com/haber/gundem/hakim-ve-savcilara-yeni-uyarma-cezasi-949059.html",
-  "source": "TRT Haber",
-  "summary_tr": "TBMM'ye sunulan '12. Yargı Paketi' hakim ve savcılara yeni uyarma cezası getiriyor.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-23T09:01:18.718963+00:00",
-  "type": "news",
-  "cluster_id": "c8053bdeb2063"
- },
- {
-  "title": "Akın Gürlek akaryakıt sektöründeki operasyonu duyurdu: 9 ilde 6 şirkete el konuldu",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaTFkZXBVeVJZcGFqTTl2cF9uLXh1UlBqYXk0cFhteXhoMmRKcUlodzFSeW1DRzIwNm9HaWxJZXgzNW4taHI5T0pVNGZsT3dLYVF5UElxSUNRbnQ3M0lvRExjVXpxNHhISW5LLVVKbXlHWGNJSzdiT1IwVHRhV0FHRUltbzFzQ29MODJ1TWtpU3E4d0RqbmFRRzJqaHFYOFlGMDNwTnI1bi02TDZhOEs0RnpSLWRSQUZkeFBn?oc=5",
-  "source": "soL",
-  "summary_tr": "Akaryakıt sektöründe operasyon: 9 ilde 6 şirkete el konuldu.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-23T09:01:18.718963+00:00",
-  "type": "news",
-  "cluster_id": "c31b0d2effe01"
- },
- {
-  "title": "New Lebanon-Israel talks to begin, in shadow of US-Iran deal",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcmJNcndwcjlhZk9ySnNxNk4xLWZwOUVPTnBuVlBSeTJ5bVVDdkJtbks5amdvSjdYUzRpczBiUG1yWlVLT1FWcWZ4QWtpQmIwWHo3a3B1UVo1RzM5U3BHSzhVcllOUDlFWk5LRHp1aEVyWW5YdVFsNXdqNlZtUmdyU0k1amlRaVFNZ2gydVhBZkIxU0NVQXNDem1IdnVwbDAtRmkwNm1fWQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Yeni Lübnan-İsrail müzakereleri ABD-İran anlaşması gölgesinde başlıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-23T09:01:18.718963+00:00",
-  "type": "news",
-  "cluster_id": "cd03a6d8774a4"
- },
- {
-  "title": "YD-ÜFE (yıllık): %34,16 (Mayıs 2025)",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEtIcTI0MzQtNmZBYjhEdmVZaU5zT0lFekFfUXNLV3BheWxUQ0VzXzBreW45SmlJNi1wLTNpNTQtcGZlQkliLTFOX19kQVNUVk9UOXNNbkF6eGNTci10VWFOdXNkTnlmTVpoY2tFS04zRGdUSzlUS0hVVWNUMmFoREJtcmU0MkdWRmhtZkxfbE05Q0pOVEVwNk5kbDFvZGdIdDB3d1JDQWZZZw?oc=5",
-  "source": "TÜİK",
-  "summary_tr": "%34,16",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-06-23T08:01:03.822435+00:00",
-  "type": "data",
-  "cluster_id": ""
  }
 ]
