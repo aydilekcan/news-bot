@@ -1,5 +1,29 @@
 [
  {
+  "title": "Davutoğlu’na 10 soru",
+  "link": "https://www.cumhuriyet.com.tr/yazarlar/baris-pehlivan/davutoglu-na-10-soru-2525199",
+  "source": "Cumhuriyet",
+  "summary_tr": "Gelecek Partisi feshedildi. Eski başkan Davutoğlu'nun partisinin kapatılması siyasi gelişme.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-31T02:00:55.526042+00:00",
+  "type": "news",
+  "cluster_id": "cf77e6e98c680"
+ },
+ {
+  "title": "Kur endişesi hesapları dövizle doldurdu",
+  "link": "https://www.sozcu.com.tr/kur-endisesi-hesaplari-dovizle-doldurdu-p341171",
+  "source": "Sözcü",
+  "summary_tr": "Son 3 haftada sert döviz çıkışı ve döviz alma hareketliliği yaşanıyor. Vatandaş gelir-gider dengesini etkileyen kur baskısı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-07-31T02:00:55.526042+00:00",
+  "type": "news",
+  "cluster_id": "cd1bd91b6f512"
+ },
+ {
   "title": "Japan intervenes to prop up yen ahead of BOJ policy decision, source says",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM1pPRGZpMUxUNFdkYzRvYU9ZcmpDSHNPeURWLXJkNmlJQ2h5OVFlRi1HVlNfSkR5QlFUUFFHTXZ5TVVXY0lBVWVIWTVYNVRSdUMtdU43c2NPeFE4RUo5MHJzSFh0Z3ZLUGtnLVRRcnh2Y1BQNm95SUd3a1FuajhLb28yNndLeDJCd1MyWUdRZEs0ZUFnVkY3cTRyTjhTaS1GQ3pDN2Q2eW5rM2dhSWFmLXFhTkZVa00?oc=5",
   "source": "Reuters",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-22T08:01:18.920215+00:00",
   "type": "news",
   "cluster_id": "cf1d79c13c69e"
- },
- {
-  "title": "Memur emeklisi seyyanen zamda ısrarlı",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVG5kMGZWR2VacFUyRzczWEV5bHEzbHpWSWJEaXB5R1hIVU91Ty1OZ2dKTUNoYUkzQTBicFAzZVRoZEFuNmlfUG9hcDFyVnJJYWpQNnZMdnk0U28xa2I0a2RfSVVJY0pFVjE5SEpXN190R2U4RlBjcHd5TGNFZUtiSWhkZDh2Y3R4LWd3MzBTVVpraXp4OGlSdw?oc=5",
-  "source": "soL",
-  "summary_tr": "Memur emeklileri seyyanen zam talebinde ısrarlı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-22T08:01:18.920215+00:00",
-  "type": "news",
-  "cluster_id": "c5b114d87b329"
- },
- {
-  "title": "Asian stocks rise on AI-driven gains, currencies slip on peace deal concerns",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX1JVSDdiYUdaUVJjOTl5VTI2Nm9SM3ZKTDhtQlVQUHZESFNLcmNJdUN0dWZmSDU1dlktbmx3b2lxb21hNC1EVTc4WTVZSFVtX3MtRDB4bE96VzVaTEpBbWFQNnYySGxwRUt1S2ZMMWxKY3ppMDU1MjVFRzhVdkFzYkI4V2tEenhYYzdVZ0FkcnpOYWhENjlTZHp1SWgxUTl4S2xwQzU4OTBGaGFHZ2Vxb1MzYnpOeFlx?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Asya borsaları yapay zeka kazanımlarıyla yükselirken, barış anlaşması endişesiyle döviz piyasaları geriledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-22T08:01:18.920215+00:00",
-  "type": "news",
-  "cluster_id": "cc46a44534305"
  }
 ]
