@@ -1,5 +1,53 @@
 [
  {
+  "title": "Saldırı emri her an gelebilir ABD ve İsrail Ordusu alarma geçti",
+  "link": "https://www.sozcu.com.tr/saldiri-emri-her-an-gelebilir-abd-ve-israil-ordusu-alarma-gecti-p341620",
+  "source": "Sözcü",
+  "summary_tr": "ABD Başkanı Trump, İran'ın enerji ve altyapı tesislerine yönelik geniş çaplı askeri operasyon emri vermeye hazırlanıyor; ABD ve İsrail Ordusu alarma geçti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-01T22:00:56.495396+00:00",
+  "type": "news",
+  "cluster_id": "ce54fd29d459d"
+ },
+ {
+  "title": "Bomb carried by woman kills three, injures 21 near Moscow restaurant, authorities say",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNkhRMDdsSlFaempsUmw0WmZQV0VzNTg5MnQ2TE9pbEs0WUg1ZDVYQWlfVWdXSjRwdUM4YThmMnB3aUs2cUVDZ0s0MnNlSDNHMDJDZU5iWmE0eFdpTmRlMlcwV05HNkI4b0d5SVJhS080bl9CZlNPUkpoSWZjRjRNZUw5alNtaFVQdERIT2p5MDlSTTFCWms4?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Moskova'da bir restoran yakınında bir kadının taşıdığı bomba patladı; 3 kişi öldü, 21 kişi yaralandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-01T22:00:56.495396+00:00",
+  "type": "news",
+  "cluster_id": "c6936ae512e75"
+ },
+ {
+  "title": "Trump's threat to push ahead on settlement fund injects new uncertainty into attorney general talks",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWGgtekZvTlZXWGNlaDNEZFFCcXhpX0RYT1h4eGVCOEVBVWxNTFJMUjFDWG9EdmtvbXpQNUhDM0tSM1FwQ2k2MVU4M3NUM3BZeUZJTm9fLWRzUVNuNUN6SGlmd011ZjlEeFgxRWMzaTBPaXcyMkpteVNSTWVWa3hJR3RVNWFDc1hCRWNMQ3pFcTNOMDJjMDhFcHpXQ0p6djZnTzRTVzAycXJXRy1RdkNXazBIdTRrUHpkN3c?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump, yerleşim anlaşma fonu konusunda ilerleme tehdidi göstererek başsavcı müzakereleri konusunda belirsizlik yaratıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-01T22:00:56.495396+00:00",
+  "type": "news",
+  "cluster_id": "ca0f86a181752"
+ },
+ {
+  "title": "Dış ticaret açığı değişimi: %26",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VTFJzcTJHUmRpS0lLekVPTmg2bW00TlJ2UVM4Nlh3eVBObU9TMEZiYkNQTlVFMVVNZW01OVprdGtBZkVlOXFXelRfaGNveFBVOFZpYWlIQS1MT3gteFhWLWlBNlRtRnVjdWNZUDJWRzhZZUQ3eURsRXhMXzg?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%26",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-01T22:00:56.495396+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "İran’dan olay yaratacak Hürmüz iddiası: Gözler ABD’ye çevrildi",
   "link": "https://www.sozcu.com.tr/iran-dan-olay-yaratacak-hurmuz-iddiasi-gozler-abd-ye-cevrildi-p341615",
   "source": "Sözcü",
@@ -59950,53 +59998,5 @@
   "ts": "2026-06-24T10:01:19.068587+00:00",
   "type": "news",
   "cluster_id": "cae009d39e127"
- },
- {
-  "title": "İsrail basını: Beyrut ve Tel Aviv, Lübnan'ın güneyinde \"pilot bölgelerin\" kurulmasını görüşüyor",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-basini-beyrut-ve-tel-aviv-lubnanin-guneyinde-pilot-bolgelerin-kurulmasini-gorusuyor/3976383",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail basını, ABD'de yapılan Beyrut-Tel Aviv görüşmelerinde İsrail ordusunun Lübnan güneyinden çekilişi ve yerine Lübnan ordusunun konuşlandırılması ele alındığını bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-24T10:01:19.068587+00:00",
-  "type": "news",
-  "cluster_id": "c210ad193dd28"
- },
- {
-  "title": "Hürmüz Boğazı bilmecesi: ABD'den 'geçiş ücreti alınamaz' çıkışı",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYlFfQzM2QmdJVUV2TXBFLV9OWDFFVXMyUVhaZTkyeE5WX0FELVNVdlpTWkEzSlktOW9LdmZ0bXZZa2FGNVZpbzV5eHQ0VFpSV0MyN3BjazJCM1FtRnVtUEFrTXFEb3hxV3lKLTlRZzBYMTR1V2RGWHRlNlo1UWVWUmJWYldGbWM5NmJKS0s0TFp2WjhHSFlRaUhFX3dKdw?oc=5",
-  "source": "soL",
-  "summary_tr": "ABD, Hürmüz Boğazı'nda geçiş ücreti alınamayacağını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-24T10:01:19.068587+00:00",
-  "type": "news",
-  "cluster_id": "c1a636aacd082"
- },
- {
-  "title": "UK, France, Germany raise alarm about Chinese activities off eastern Taiwan",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUmNJVGNPRkRqdy1nbHVkdHZJa1gwWjA5Mnh1Yi1rNEtaRzVFdmlvZE1lLUVKTjdxalpMSWRaVlBxempUX1VaOFFaUDUyazFPWjVXendsUUdUWXBXNnljWkhxTkRfNjdTcWR0WDVUZ3ZNQWRCeF92LUh0ZlRXTTRWY3VLZXJ1V2ZuNTVOOThPX1N3OUJRWVhNb0wwRzhILXlrOTZhQjZxamJYRFdSN2hjaDExRGZvR1E4Mkd4TzR3?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İngiltere, Fransa ve Almanya, Çin'in Tayvan'ın doğusundaki faaliyetlerine karşı alarm verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-24T10:01:19.068587+00:00",
-  "type": "news",
-  "cluster_id": "c897a9aaa8014"
- },
- {
-  "title": "France reports Ebola case in doctor returning from humanitarian mission in Congo",
-  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeERKOHRFQ1NnS3BYSDh5RkFVMUt4aUVnQkxoUGd1ZVRtTDZyeldtYTBmZUdZdEdDbjljdGZ3YWo1MzlybktyTnRIMmR1V3BGZDJ6cV9NVzltdlNyaDZMSDY2M1V6WEJtRXNBRjFFdjdxaTUxNUxSODFHSXZuRVI0VVNOaWp0TzhxLXBieDYyVjBRbUhtaEp4LXFEWnNDN0dmYXdESmttdFItZTRVM1pEM01kc29abVNiaFp6TU9GWXkxUkd4b2V2V0QzSUc0VTNoQjRIdXlzQ1g?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Fransa, insani yardım misyonundan dönen bir doktor'da Ebola vakasını bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-24T10:01:19.068587+00:00",
-  "type": "news",
-  "cluster_id": "c871a8bdb29f3"
  }
 ]
