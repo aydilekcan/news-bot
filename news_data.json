@@ -1,5 +1,17 @@
 [
  {
+  "title": "Trump threatens more strikes on Iran. Tensions from Hormuz to Kuwait and Gaza lead to more warnings",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjdiZU1CVmhFWmRaYWtqRW82NnNUMEZjRzNlR293WTljQW1McXpnY3BiLXdWbVdobmRIdUJDVmVuWngwUHRVSUtyMkJjejRkQTl4WU0xc2xfcFpwaHBKamZGdUNqd1RIblhERllZY01hYjlmVUdOblVIVGxjTjVqVndGSURnTGJ5M2U5Vkp6dDVIRHZPZW8wTmRYaXl4WmQtejR6SzFBaw?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump, İran'a karşı daha fazla saldırı tehdidinde bulundu. Hormuz'dan Kuveyt'e ve Gazze'ye kadar gerginlik artıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-01T23:00:55.864763+00:00",
+  "type": "news",
+  "cluster_id": "c92ee53928ba9"
+ },
+ {
   "title": "Saldırı emri her an gelebilir ABD ve İsrail Ordusu alarma geçti",
   "link": "https://www.sozcu.com.tr/saldiri-emri-her-an-gelebilir-abd-ve-israil-ordusu-alarma-gecti-p341620",
   "source": "Sözcü",
@@ -59986,17 +59998,5 @@
   "ts": "2026-06-24T10:01:19.068587+00:00",
   "type": "news",
   "cluster_id": "ce1384a1b5eb5"
- },
- {
-  "title": "UAEA Başkanı Grossi, İran'daki nükleer tesislerin Ajans müfettişlerince denetleneceğini bildirdi",
-  "link": "https://www.aa.com.tr/tr/dunya/uaea-baskani-grossi-irandaki-nukleer-tesislerin-ajans-mufettislerince-denetlenecegini-bildirdi/3976452",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "UAEA Başkanı Grossi, ABD ve İsrail tarafından vurulan İran'daki nükleer tesislerin UAEA müfettişlerince denetleneceğini bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-24T10:01:19.068587+00:00",
-  "type": "news",
-  "cluster_id": "cae009d39e127"
  }
 ]
