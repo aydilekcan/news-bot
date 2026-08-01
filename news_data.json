@@ -1,5 +1,41 @@
 [
  {
+  "title": "Treasury selloff signals need to bolster Fed's inflation credibility, Musalem tells FT",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdm1UZEtzb3Zzem5MeU1jTGFIV2pKUzJSbjlhcWNrT1RNM3B1aWZBcDRsX3ZkbHBaQXBiTkVZY2pmeERNUmw2c2NVeldxR2VBT2dzeGJUZTVwalRIaWJOZUt3R0tuc29yeUt0R1k4bEJaUW1MTWtiT0szQl9mdml4X1VnRzROSUR6eG55dXZVVTZSbHRnaklpVWZFMExWdUV2ODl6MGFJM3NyVG1WaGd6UHRPdnVJYmFuNFRwMExqOXpGdjFReW9GdGhzRQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Fed yönetimi Musalem, hazine satışlarını enflasyon inandırıcılığını güçlendirme ihtiyacının sinyali olarak yorumluyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-01T05:01:00.635198+00:00",
+  "type": "news",
+  "cluster_id": "c1ee5abc8092b"
+ },
+ {
+  "title": "Bugün 3 CHP'li belediye ve bir milletvekili AKP'ye geçiyor",
+  "link": "https://www.sozcu.com.tr/bugun-3-chp-li-belediye-ve-bir-milletvekili-akp-ye-geciyor-p341437",
+  "source": "Sözcü",
+  "summary_tr": "CHP'li Tuzla Belediye Başkanı Eren Ali Bingöl ve Çekmeköy Belediye Başkanı Orhan Çerkez bugün AKP'ye geçiyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-01T05:01:00.635198+00:00",
+  "type": "news",
+  "cluster_id": "cff483d007375"
+ },
+ {
+  "title": "A101'in sahibi Aydın Grup CarrefourSA'yı resmen satın aldı",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZi1uc2J3bWlqR2NpdURaZElXVHBuSUFMM2k1NWx3d1praHVTcmtrbUk4N1U0ZFRUX01EdE9VazNmdDNaTkJtbVhOVTh1N3g3NWxXVGhLaGdZdnJqQTdtNDNtY0wyRGVmZWR2SU5NU2w1S0ZfRXRYNGhqcjgxeGdsMlMyNWY0ODgtcWJnTnhZR1FWSTBGU0hvVmRn?oc=5",
+  "source": "soL",
+  "summary_tr": "Aydın Grup, A101'in sahibi olarak CarrefourSA'yı resmen satın aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-01T05:01:00.635198+00:00",
+  "type": "news",
+  "cluster_id": "ca40b8f90cee2"
+ },
+ {
   "title": "Sıra vergi zammına geldi",
   "link": "https://www.sozcu.com.tr/sira-vergi-zammina-geldi-p341430",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-06-23T13:01:16.181474+00:00",
   "type": "news",
   "cluster_id": "c08a94570f34a"
- },
- {
-  "title": "DEM Parti’den “çerçeve yasa” çağrısı: “Bu yasama dönemi kapanmadan Meclis’e gelmeli”",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbzlOLW9iS01ReW1EM2w5dE1yUE5RLUtnMFFTaldDMVhIck9jVzdaak1rcnB2SG9Ua1pYQllBS0tQTUFwaWhoY1N3NnpNUmczYXRfU2JpMVI5Q0hzcEZ2a200MVN4UFVfX3RER0UwSEUzd0ZEVmJJelFQbVZNNXU4VzFIRmRESXVzQVlnNlptbVBQbnVVRnI2LTFnQXpxajBmSEZjbzgtR2hrZm9GbDdZRA?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "DEM Parti, bu yasama döneminin kapanmasından önce 'çerçeve yasa'nın Meclis'e gelmesini çağırdı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-23T13:01:16.181474+00:00",
-  "type": "news",
-  "cluster_id": "c95e823986c0b"
- },
- {
-  "title": "Trump: İran nükleer denetimi kabul etti",
-  "link": "https://www.trthaber.com/haber/dunya/trump-iran-nukleer-denetimi-kabul-etti-949082.html",
-  "source": "TRT Haber",
-  "summary_tr": "Trump, İran'ın kapsamlı nükleer denetim koşullarını kabul ettiğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-23T12:01:12.736182+00:00",
-  "type": "news",
-  "cluster_id": "c4687624abe42"
- },
- {
-  "title": "30 yıl sonra gelen dolar izninin ardından İran bankalarına siber saldırı",
-  "link": "https://www.sozcu.com.tr/30-yil-sonra-gelen-dolar-izninin-ardindan-iran-bankalarina-siber-saldiri-p330461",
-  "source": "Sözcü",
-  "summary_tr": "ABD, İran petrolüne 30 yıl sonra yaptırım muafiyeti tanıdıktan sonra İran bankaları siber saldırıya uğradı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-23T12:01:12.736182+00:00",
-  "type": "news",
-  "cluster_id": "ce0ba8bb11008"
  }
 ]
