@@ -1,5 +1,29 @@
 [
  {
+  "title": "İŞKUR’a kayıtlı işsiz sayısı, İşsizlik Fonu’na başvuru sayısı, kapanan şirket sayısı arttı ama işsizlik düştü deniyor: ‘Hangisine inanacağız?’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/iskur-a-kayitli-issiz-sayisi-issizlik-fonu-na-basvuru-sayisi-kapanan-sirket-sayisi-artti-ama-issizlik-dustu-deniyor-hangisine-inanacagiz-2525491",
+  "source": "Cumhuriyet",
+  "summary_tr": "Haziran işsizlik verisi %7,6'ya düştü ancak İŞKUR kayıtlı işsiz, kapanan şirket ve İşsizlik Fonu başvurusu arttı; muhalefet veri tutarsızlığını eleştirdi.",
+  "metric": "İşsizlik oranı %7,6",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-01T01:01:03.350792+00:00",
+  "type": "news",
+  "cluster_id": "c4ac6b4f17036"
+ },
+ {
+  "title": "Tutuklu Kuşadası Belediye Başkanı Ömer Günel, cezaevinden Cumhuriyet’e konuştu: 'Mutlak butlan demokrasiye hançerdir, YENİ Parti bir mecburiyettir'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/tutuklu-kusadasi-belediye-baskani-omer-gunel-cezaevinden-cumhuriyet-e-konustu-mutlak-butlan-demokrasiye-hancerdir-yeni-parti-bir-mecburiyettir-2525528",
+  "source": "Cumhuriyet",
+  "summary_tr": "Tutuklu Kuşadası Belediye Başkanı Ömer Günel, rüşvet ve irtikap suçlarından yargılanıyor; 'Mutlak butlan demokrasiye hançerdir' açıklaması yaptı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-01T01:01:03.350792+00:00",
+  "type": "news",
+  "cluster_id": "c88714133e30d"
+ },
+ {
   "title": "US, Israel planning to bombard energy-related targets in Iran, CBS reports",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNXpvc21vbVJNVjc3NWg0ZnppblFCM3dmQXFVVTNhc1A1YkhoSTA4Q0tFZ0hQbFN0WUdtRlBza0J1dzBFenk3NW85U0ZWLXA0N1llLVFCNUdmRy1JU2NzOTE2bTFTdmlYUXdZNUphTE1uSE84ZXA0WjBYNkUtX2NBbWpUS08taFBRc0xNdGtoV0F6SHpfdU15dFB1WllYNnVwQkxFWThYelpLZnQyRml2Q0MwLVZ2blFDWl9raA?oc=5",
   "source": "Reuters",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-23T12:01:12.736182+00:00",
   "type": "news",
   "cluster_id": "c95e74c23d53c"
- },
- {
-  "title": "Öğretmenlerden madencilere: Son çare açlık grevi",
-  "link": "https://www.dw.com/tr/öğretmenlerden-madencilere-son-çare-açlık-grevi/a-77672201?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Ankara'da öğretmenler dokuzuncu gün açlık grevini sürdürüyor; polis müdahaleleri devam ediyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-23T12:01:12.736182+00:00",
-  "type": "news",
-  "cluster_id": "c5407fd3a634a"
- },
- {
-  "title": "CHP’li Çakırözer’den iktidar milletvekillerine çağrı: ‘Suudi Arabistan anlaşmasını reddedin’",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-li-cakirozer-den-iktidar-milletvekillerine-cagri-suudi-arabistan-anlasmasini-reddedin-2514676",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Milletvekili Çakırözer, Suudi Arabistan enerji anlaşmasının TBMM'de oylanacağını belirterek iktidar milletvekillerine reddetme çağrısı yaptı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-23T11:01:15.728497+00:00",
-  "type": "news",
-  "cluster_id": "c812c13115b35"
  }
 ]
