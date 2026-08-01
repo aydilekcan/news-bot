@@ -1,5 +1,77 @@
 [
  {
+  "title": "ABD'den kıyamet senaryosu uyarısı: Çok büyük vuracağız",
+  "link": "https://www.sozcu.com.tr/abd-den-kiyamet-senaryosu-uyarisi-cok-buyuk-vuracagiz-p341583",
+  "source": "Sözcü",
+  "summary_tr": "ABD yönetimi İran gerilimine karşın Orta Doğu'da ağır müdahale uyarısı yaptı; ABD vatandaşlarına risk uyarısı başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-01T16:01:09.014689+00:00",
+  "type": "news",
+  "cluster_id": "cfb0697ebe358"
+ },
+ {
+  "title": "Alman otomotivinde Çin depremi: Dev markalardan tarihi küçülme ve işten çıkarma kararları",
+  "link": "https://www.cumhuriyet.com.tr/otomotiv/alman-otomotivinde-cin-depremi-dev-markalardan-tarihi-kuculme-ve-isten-cikarma-kararlari-2525681",
+  "source": "Cumhuriyet",
+  "summary_tr": "Alman otomotiv sektörü enerji, işçilik maliyetleri ve Çin rekabeti nedeniyle tarihî küçülme ve işten çıkarma kararları alıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-01T16:01:09.014689+00:00",
+  "type": "news",
+  "cluster_id": "cdb9c14d481e4"
+ },
+ {
+  "title": "Washington Post: ABD'li komutan, İsrail'i korumak için yeterli kaynak olmadığını Pentagon'a bildirdi",
+  "link": "https://www.aa.com.tr/tr/dunya/washington-post-abdli-komutan-israili-korumak-icin-yeterli-kaynak-olmadigini-pentagona-bildirdi/4015930",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Avrupa Komutanı, Pentagon'a İsrail'i balistik füzelerden korumanın yeterli kaynağı olmadığını bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-01T16:01:09.014689+00:00",
+  "type": "news",
+  "cluster_id": "c7a212872a23e"
+ },
+ {
+  "title": "İstanbul'da üç belediye başkanı daha AKP'ye katıldı",
+  "link": "https://www.bbc.com/turkce/articles/cvgv3264gj7o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "İstanbul'da CHP'den seçilen üç belediye başkanı (Tuzla, Çekmeköy, Şile) AKP'ye katılarak belediye dengelerini değiştirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-01T16:01:09.014689+00:00",
+  "type": "news",
+  "cluster_id": "c052b10ac3dae"
+ },
+ {
+  "title": "İstanbul'da AKP'nin belediye sayısı CHP'yi geçti: Tutuklamalar ve transferler dengeleri değiştirdi",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-akp-nin-belediye-sayisi-chp-yi-gecti-tutuklamalar-ve-transferler-dengeleri-degistirdi-2525704",
+  "source": "Cumhuriyet",
+  "summary_tr": "İstanbul'da tutuklamalar ve belediye başkanı transferleri sonrası AKP'nin belediye sayısı CHP'yi geçti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-01T16:01:09.014689+00:00",
+  "type": "news",
+  "cluster_id": "cb0a4891bc32d"
+ },
+ {
+  "title": "Tuzla, Çekmeköy ve Şile AKP’ye geçti: Erdoğan üç isme rozet taktı",
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TR2ZJX2tzaGhBYWFwVEF1Z3A4MVpRem9mWG16RFZuX0IwQTNUQ0FNdnhEX2tob0tkRGRXb01ubGVRYzNPYkVxMm1JWjNtR21TYWltV3I5TGZ2TVdKajlZLUVSUlhySFVsNmpMNWRPUFZlcUtKcF9F?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Tuzla, Çekmeköy ve Şile belediye başkanları AKP'ye geçerek Erdoğan tarafından rozetlendirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-01T16:01:09.014689+00:00",
+  "type": "news",
+  "cluster_id": "c17e66bd01f57"
+ },
+ {
   "title": "YENİ Parti'li ilk anketin sonuçları dikkat çekti! CHP baraj altı kaldı…",
   "link": "https://www.cumhuriyet.com.tr/turkiye/yeni-parti-li-ilk-anketin-sonuclari-dikkat-cekti-chp-baraj-alti-kaldi-2525691",
   "source": "Cumhuriyet",
@@ -59926,77 +59998,5 @@
   "ts": "2026-06-24T07:01:14.852754+00:00",
   "type": "news",
   "cluster_id": "c873a49d935eb"
- },
- {
-  "title": "Trump calls for probe into gasoline price 'gouging'",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSUV2eHhaNm43T1loajA0dFNuLWJuNDlydGxjRjQ2ZzBFYlAyWnM5dldhZlptMFhnWHR1N2s2b3p4UTFoSFRsMDNlYVJ4TWtTcUlxczJGZ0RMd2hnQVFTcFM5dkdSQkpNbzFoZWlFVlVwdk82eWQ1OG55MVN1aTdVUTJOZ0I4X1EtSkRPdUEybjZhQ1J3UWFtOUVzUUxmNk83aHlmVjIwbUlucEd5VkJrNFpyTVFQbk5lRjEw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, benzin fiyatlarında 'aşırı kar' soruşturması açılmasını talep etti. Yakıt fiyatlarındaki artışları ele alacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-24T07:01:14.852754+00:00",
-  "type": "news",
-  "cluster_id": "c4adb9062789e"
- },
- {
-  "title": "Türkiye büyüme tahmini 2026: %2,8 (2026)",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa3BrNXcwNGRCZ2lRUllzZDYwcWpYUWx4Ykhrcjd0VVNkQmkwNjE5UjlqVGExN2N2NzR1Y0N3UUgyamE1WG85c2FNal80RTNpdVItUVFBcXdBMjhIMnFnR1p5S3M1LUNCNzlib09aZFlIdnlxNUVDYm5nN2gwTFBodWNyMmZhdUdmeTZHUWRSUnVNMnZsSmdJdE5OR2xocU5rM256ZU1GUG9nWkRpdl9HOQ?oc=5",
-  "source": "Dünya Bankası",
-  "summary_tr": "%2,8",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-06-24T07:01:14.852754+00:00",
-  "type": "forecast",
-  "cluster_id": ""
- },
- {
-  "title": "Köylü can suyu bekliyor ama milyarlarca dolarlık kırsal refah bütçesi sermayeye gidecek: Tarımda dolaylı tasfiye",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/koylu-can-suyu-bekliyor-ama-milyarlarca-dolarlik-kirsal-refah-butcesi-sermayeye-gidecek-tarimda-dolayli-tasfiye-2514896",
-  "source": "Cumhuriyet",
-  "summary_tr": "Türkiye'de tarımsal girdi enflasyonu %38,97'ye yükseldi; 5,3 milyar dolarlık kırsal refah bütçesinin sermayeye yönlendirilmesi tartışılıyor.",
-  "metric": "Tarımsal girdi enflasyonu -> %38,97",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-24T06:01:07.923347+00:00",
-  "type": "news",
-  "cluster_id": "c25bc0a3e4128"
- },
- {
-  "title": "Dolar rekor kırdı: Euro ters köşe yaptı!",
-  "link": "https://www.sozcu.com.tr/dolar-rekor-kirdi-euro-ters-kose-yapti-p330645",
-  "source": "Sözcü",
-  "summary_tr": "Dolar/TL kuru rekor kırıp 46,48 liraya yükseldi; Euro/TL ise aşağı yönlü eğilim gösterdi.",
-  "metric": "Dolar/TL -> 46,48 (rekor)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-24T06:01:07.923347+00:00",
-  "type": "news",
-  "cluster_id": "c4da18b0539b5"
- },
- {
-  "title": "Trump instructs DOJ to probe oil companies over higher gasoline prices",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSUV2eHhaNm43T1loajA0dFNuLWJuNDlydGxjRjQ2ZzBFYlAyWnM5dldhZlptMFhnWHR1N2s2b3p4UTFoSFRsMDNlYVJ4TWtTcUlxczJGZ0RMd2hnQVFTcFM5dkdSQkpNbzFoZWlFVlVwdk82eWQ1OG55MVN1aTdVUTJOZ0I4X1EtSkRPdUEybjZhQ1J3UWFtOUVzUUxmNk83aHlmVjIwbUlucEd5VkJrNFpyTVFQbk5lRjEw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, Adalet Bakanlığından petrol şirketlerinin yüksek benzin fiyatları hakkında soruşturma yapmasını istedi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-24T06:01:07.923347+00:00",
-  "type": "news",
-  "cluster_id": "ce74907b8414b"
- },
- {
-  "title": "Ukraine says it hit a railway bridge to Crimea, seeking to isolate the Russian-held peninsula",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd1VSejl2SUhJMm5fZDVLcW84X0FKOUpnc0tKUHVSYkNLR3lxY1JFNFBRTE50RkgxcVRJY1hMR0VQVGlkcWRIaldSNjZDbnRPQW44R2dLWFdoWGV2c2lHVGNpWWxxU2xIdHhSTWVya2xXUElVb3M1NFRjdk9SWjN3Y3JjUjRza3kyX0pIOTVHOWVMdnlHWVVET0d5SWNKV25HLWlZ?oc=5",
-  "source": "AP",
-  "summary_tr": "Ukrayna, Kırım'a giden demiryolu köprüsünü vurdu; Rusya kontrolündeki yarımadayı izole etmeyi hedefledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-24T06:01:07.923347+00:00",
-  "type": "news",
-  "cluster_id": "c2326f9ac00b8"
  }
 ]
