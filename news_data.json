@@ -1,5 +1,65 @@
 [
  {
+  "title": "Fenerbahçe'nin toplam borcu açıklandı",
+  "link": "https://www.cumhuriyet.com.tr/spor/fenerbahce-nin-toplam-borcu-aciklandi-2525594",
+  "source": "Cumhuriyet",
+  "summary_tr": "Fenerbahçe Kulübü'nün toplam yükümlülüğü 27 milyar 961 milyon lira olarak açıklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-01T09:01:07.381951+00:00",
+  "type": "news",
+  "cluster_id": "c8ed2156fe5a5"
+ },
+ {
+  "title": "Fenerbahçe Kulübü Olağan Yüksek Divan Kurulu toplantısı başladı",
+  "link": "https://www.aa.com.tr/tr/spor/fenerbahce-kulubu-olagan-yuksek-divan-kurulu-toplantisi-basladi/4015552",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Fenerbahçe Yüksek Divan Kurulu toplantısında kulübün borcu 27 milyar 961 milyon lira olarak açıklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-01T09:01:07.381951+00:00",
+  "type": "news",
+  "cluster_id": "ce8f2e524a9bf"
+ },
+ {
+  "title": "Türkiye'nin \"kritik teknoloji\" ihracatı 6 ayda 56 milyar doları aştı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-kritik-teknoloji-ihracati-6-ayda-56-milyar-dolari-asti/4015600",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye'nin kritik teknoloji ihracatı 2024 ilk 6 ayında 56,2 milyar doları aştı.",
+  "metric": "Kritik teknoloji ihracatı 56,2 milyar dolar",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-01T09:01:07.381951+00:00",
+  "type": "news",
+  "cluster_id": "c2ee5ba013a51"
+ },
+ {
+  "title": "Türkiye'nin ham çelik üretimi 19,8 milyon tona çıktı",
+  "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-ham-celik-uretimi-198-milyon-tona-cikti-952775.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye'nin ham çelik üretimi ocak-haziran döneminde yüzde 8,1 artışla 19,8 milyon tona çıktı.",
+  "metric": "Ham çelik üretimi -> 19,8 milyon ton (+%8,1)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-01T09:01:07.381951+00:00",
+  "type": "news",
+  "cluster_id": "cd639874e52ac"
+ },
+ {
+  "title": "Ziraat Bankası'nın sistemleri çöktü: Mobil bankacılık, kartlar, POS cihazları ve ATM'ler kullanılamıyor",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTVlqMVZrSTVMQk9vSnRBRjdPczQ4UHBuOGNKSEoyOC1zTnZEbS1mckRBMzEyejVMQVJabkx2ZXBtaU02Qmc5Y2JQZHkxaXMyYTRfU1Q3dHRMUDJqY25VRDNBMWwtSElNejVNRE5EWlJrZklqOF84ZjVieHRXY0VoLVd1UVo3dmFZdUJ4MV90eXhUbTFoZEt1clVrRnRkX1VqSG1SLXZLYVI2U1ZXZW42Nk5YZG01UlN5QlE?oc=5",
+  "source": "T24",
+  "summary_tr": "Ziraat Bankası'nın mobil bankacılık, kart, POS ve ATM sistemleri çöktü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-01T09:01:07.381951+00:00",
+  "type": "news",
+  "cluster_id": "ceb8dd8378e1b"
+ },
+ {
   "title": "İran ABD ile barıştansa düşük yoğunluklu bir savaşı mı tercih ediyor?",
   "link": "https://www.bbc.com/turkce/articles/cdx70eq0vlgo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59938,65 +59998,5 @@
   "ts": "2026-06-23T17:01:07.151612+00:00",
   "type": "news",
   "cluster_id": "c8995da086afb"
- },
- {
-  "title": "Son Dakika... Putin'den 'Zelenski'ye ret... 'İstanbul'a işaret etti: 'Ukrayna ile barış görüşmelerine hazırız'",
-  "link": "https://www.cumhuriyet.com.tr/dunya/son-dakika-putin-den-zelenski-ye-ret-istanbul-a-isaret-etti-ukrayna-ile-baris-gorusmelerine-haziriz-2514790",
-  "source": "Cumhuriyet",
-  "summary_tr": "Putin, Rusya'nın Ukrayna ile İstanbul 2022 mutabakatı temelinde barış görüşmelerine hazır olduğunu söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-23T16:01:17.644675+00:00",
-  "type": "news",
-  "cluster_id": "cee6d8ca10363"
- },
- {
-  "title": "Putin, İstanbul'u işaret etti: Ukrayna ile masaya oturmaya hazırız",
-  "link": "https://www.sozcu.com.tr/putin-den-baris-aciklamasi-2026-06-23-p330523",
-  "source": "Sözcü",
-  "summary_tr": "Putin, Rusya'nın Ukrayna ile İstanbul mutabakatı çerçevesinde barış görüşmelerine hazır olduğunu belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-23T16:01:17.644675+00:00",
-  "type": "news",
-  "cluster_id": "cee6d8ca10363"
- },
- {
-  "title": "Putin: Ukrayna ile İstanbul'da yapılan barış görüşmeleri temelinde yeniden masaya oturmaya hazırız",
-  "link": "https://www.trthaber.com/haber/dunya/putin-ukrayna-ile-istanbulda-yapilan-baris-gorusmeleri-temelinde-yeniden-masaya-oturmaya-haziriz-949112.html",
-  "source": "TRT Haber",
-  "summary_tr": "Putin, Rusya'nın Ukrayna ile İstanbul 2022 barış görüşmeleri temelinde yeniden masaya oturmaya hazır olduğunu açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-23T16:01:17.644675+00:00",
-  "type": "news",
-  "cluster_id": "cd8b56edf3735"
- },
- {
-  "title": "Almanya: Emeklilik yaşı yükseliyor, 63'te emeklilik kalkıyor",
-  "link": "https://www.dw.com/tr/almanya-emeklilik-yaşı-yükseliyor-63-te-emeklilik-kalkıyor/a-77678037?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Almanya emeklilik yaşını yükseltiyor; 63'te emeklilik uygulaması kaldırılıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-23T16:01:17.644675+00:00",
-  "type": "news",
-  "cluster_id": "cd4681f843eb4"
- },
- {
-  "title": "Araç muayenesinde yeni dönem: Yıllardır tepki çeken ücret kaldırılıyor",
-  "link": "https://www.sozcu.com.tr/arac-muayenesinde-yeni-donem-yillardir-tepki-ceken-ucret-kaldiriliyor-p330525",
-  "source": "Sözcü",
-  "summary_tr": "Araç muayenesinde yıllardır eleştirilen kredi kartı komisyonu uygulaması sona eriyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-23T16:01:17.644675+00:00",
-  "type": "news",
-  "cluster_id": "ce31dce6ffb39"
  }
 ]
