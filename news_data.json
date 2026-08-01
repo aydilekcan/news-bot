@@ -1,5 +1,77 @@
 [
  {
+  "title": "Rusya'nın Kiev'e düzenlediği hava saldırısında 9 kişi hayatını kaybetti, 28 kişi yaralandı",
+  "link": "https://www.aa.com.tr/tr/dunya/rusyanin-kieve-duzenledigi-hava-saldirisinda-9-kisi-hayatini-kaybetti-28-kisi-yaralandi/4015468",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Rusya, Ukrayna başkenti Kiev'e hava saldırısı düzenledi; 9 kişi öldü, 28 yaralandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-01T07:01:08.100794+00:00",
+  "type": "news",
+  "cluster_id": "c337997f0f15a"
+ },
+ {
+  "title": "Rusya'dan Kiev'e hava saldırısı: 9 ölü, 28 yaralı",
+  "link": "https://www.trthaber.com/haber/dunya/rusyadan-kieve-hava-saldirisi-9-olu-28-yarali-952767.html",
+  "source": "TRT Haber",
+  "summary_tr": "Rus ordusunun Kiev'e düzenlediği hava saldırısında 9 ölü, 28 yaralı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-01T07:01:08.100794+00:00",
+  "type": "news",
+  "cluster_id": "cc0ec4947216c"
+ },
+ {
+  "title": "1 Ağustos 2026 Motorine zam, indirim geldi mi? Mazot, benzin, LPG ne kadar? Güncel akaryakıt fiyatları ne kadar?",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/1-agustos-2026-motorine-zam-indirim-geldi-mi-mazot-benzin-lpg-ne-kadar-guncel-akaryakit-fiyatlari-ne-kadar-2525560",
+  "source": "Cumhuriyet",
+  "summary_tr": "1 Ağustos'ta motorine 3,71 TL zam, otogaza da indirim geldi. Brent petrol fiyatı ABD-İran savaşı saldırılarıyla yükselişte.",
+  "metric": "Motorin +3,71 TL zam",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-01T07:01:08.100794+00:00",
+  "type": "news",
+  "cluster_id": "c43531a1031cf"
+ },
+ {
+  "title": "Akaryakıta bir zam daha! Tabelalar değişiyor",
+  "link": "https://www.sozcu.com.tr/akaryakita-bir-zam-daha-tabelalar-degisiyor-p341462",
+  "source": "Sözcü",
+  "summary_tr": "Motorine 3,71 TL'lik zam uygulandı. Otogaza da ek indirim geldi; üç büyükşehirde yeni fiyatlandırma başladı.",
+  "metric": "Motorin +3,71 TL",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-01T07:01:08.100794+00:00",
+  "type": "news",
+  "cluster_id": "c3eb7dbf8b916"
+ },
+ {
+  "title": "Ziraat Bankası’nın mobil bankacılık, ATM, POS cihazı ve kart hizmetleri çöktü",
+  "link": "https://www.sozcu.com.tr/ziraat-bankasi-nin-mobil-bankacilik-atm-pos-cihazi-ve-kart-hizmetleri-coktu-p341461",
+  "source": "Sözcü",
+  "summary_tr": "Ziraat Bankası mobil bankacılık, ATM, POS ve kart hizmetlerinde teknik arıza yaşadı; dün geceden itibaren erişim sorunu devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-01T07:01:08.100794+00:00",
+  "type": "news",
+  "cluster_id": "ca22656272930"
+ },
+ {
+  "title": "Ziraat Bankası'nın sistemleri çöktü: Mobil bankacılık, kartlar ve ATM'ler kullanılamıyor",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTVlqMVZrSTVMQk9vSnRBRjdPczQ4UHBuOGNKSEoyOC1zTnZEbS1mckRBMzEyejVMQVJabkx2ZXBtaU02Qmc5Y2JQZHkxaXMyYTRfU1Q3dHRMUDJqY25VRDNBMWwtSElNejVNRE5EWlJrZklqOF84ZjVieHRXY0VoLVd1UVo3dmFZdUJ4MV90eXhUbTFoZEt1clVrRnRkX1VqSG1SLXZLYVI2U1ZXZW42Nk5YZG01UlN5QlE?oc=5",
+  "source": "T24",
+  "summary_tr": "Ziraat Bankası mobil bankacılık, kartlar ve ATM'lerde sistem arızası; müşteriler işlem yapamıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-01T07:01:08.100794+00:00",
+  "type": "news",
+  "cluster_id": "ca22656272930"
+ },
+ {
   "title": "US Treasury intervenes to support yen after Japan steps in, FT reports",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0lVZ3FOWEp0MkVGaWc4UkprSmVwZlZMSzBQRlBuQ3UzOEVuN09za080MDFQTHFfOVFGU1hsOUF3THBnbGc0Tk4zdi1sR0xBdHhJV3FiOTNmaEZkbWNWQ0VMRjROZXJUQ1VwX1BrS3NvdWRDYThPSWVhdnhZUmxHWHNsVEFRYTZFXy1CeTJVdW13SVpqcl9wdTBoRjdINnV6R0tEcTI3Qnpjc3RpLWxQOVVB?oc=5",
   "source": "Reuters",
@@ -59926,77 +59998,5 @@
   "ts": "2026-06-23T14:01:15.786959+00:00",
   "type": "news",
   "cluster_id": "cda85fcad3f36"
- },
- {
-  "title": "Kılıçdaroğlu yönetiminden yeni ihraç kararları: Antalya ve Kayseri il başkanları görevden alındı",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0UwZDE2RHBybTFFUkVjaDBJTmM3U21kWDFIT2Z4bnM3SUJVZVhoTDhUYmU0WkNNc0VFZFdKeEF5RjRLQ3d1bnpVbnFnZkJFOVdSVEZtS0Q5S2RtVF9OYjR1SmJPX0ZiUElkSWtWQ2ZscWQ1R3NOZ0xnZU11alBsSUU3dUNDVXZheG5oVjNjdEN3bG02UEh0aldGd1JrNS1pOWV3dEJqU2lBaHhpV2VkQ2RQVTBvVm9qVUtV?oc=5",
-  "source": "soL",
-  "summary_tr": "Kılıçdaroğlu yönetiminden yeni ihraç kararları: Antalya ve Kayseri il başkanları görevden alındı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-23T14:01:15.786959+00:00",
-  "type": "news",
-  "cluster_id": "cda85fcad3f36"
- },
- {
-  "title": "CHP'de kurultay süreci eylül ayı itibarıyla başlatılacak",
-  "link": "https://www.trthaber.com/haber/gundem/chpde-kurultay-sureci-eylul-ayi-itibariyla-baslatilacak-949100.html",
-  "source": "TRT Haber",
-  "summary_tr": "CHP Parti Sözcüsü açıkladı: Olağanüstü Kurultay süreci 1 Eylül itibarıyla başlatılacak.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-23T14:01:15.786959+00:00",
-  "type": "news",
-  "cluster_id": "c599fb36e8edf"
- },
- {
-  "title": "SpaceX extends losses after $600 billion wipeout, tech stocks slide again",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUZ2UXRvZ190WlBJcFJmb09zZjZsbjJORUc1dWNjTFB0T0xFVmpydFRNLXA5NEE4cy1JQVBINURnTnZ4LW5TcV9PbzBjQWJGdlJCTEIwbnFJSEZYanZKZDRJYWR5blFVX3B5UWwxaW5BNHpOOHVnUWI4SU01WHU0MWpmTE5HbGFrc3B1VlNYX0RjcklLb2c0Z09JcmVzOWlIdTE3dDM5dmMtVkVKNFdnamRlU1YwekFib1JSQl9CWDltTTVnQWEyeg?oc=5",
-  "source": "Reuters",
-  "summary_tr": "SpaceX zararlarını genişletti; 600 milyar dolar değer kaybında teknoloji hisseleri düşüş gösteren satışlar yaşadı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-23T14:01:15.786959+00:00",
-  "type": "news",
-  "cluster_id": "c2458c2f940b9"
- },
- {
-  "title": "Wall St falls at open on tech selloff as concerns about hawkish Fed, AI spending mount",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON2t3ZXZzXzl6MTZCNnY4U09lU2l4ZWZENmdOZVZuNVF2VzFjYlFleVlLR1FHNlFwbjlvRnZVVjFsOGo1RXBsOGUzVk1xVERVal9SbVFxeG1CdVhSaHZtajFlUDRRZFllalVYdVRGY1J5ZGN1bVFfN2xmRHB0aTdxQjJBRVhIMFI0NWI3SjlXeTdRWUQxaU9rRA?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Wall Street açılışta teknoloji satışlarıyla düştü. Fed'in sıkı tutum ve yapay zeka harcama endişeleri piyasaları baskıladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-23T14:01:15.786959+00:00",
-  "type": "news",
-  "cluster_id": "c89b2aa74204b"
- },
- {
-  "title": "Şirketlerin döviz açığı nisanda 205,6 milyar dolara yükseldi",
-  "link": "https://www.sozcu.com.tr/sirketlerin-doviz-acigi-nisanda-205-6-milyar-dolara-yukseldi-p330486",
-  "source": "Sözcü",
-  "summary_tr": "TCMB verilerine göre şirketlerin döviz açığı nisanda 205,6 milyar dolara yükseldi, ayda 9,4 milyar dolar artış gösterdi.",
-  "metric": "Şirketlerin net döviz pozisyonu açığı: nisanda 205,6 milyar dolar (+9,4 milyar dolar aylık)",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-23T13:01:16.181474+00:00",
-  "type": "news",
-  "cluster_id": "cf4ac2cfb1930"
- },
- {
-  "title": "Trump: İran, sonsuza dek üst düzey nükleer denetimlere tam ve eksiksiz razı oldu",
-  "link": "https://www.aa.com.tr/tr/dunya/trump-iran-sonsuza-dek-ust-duzey-nukleer-denetimlere-tam-ve-eksiksiz-razi-oldu/3975569",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Trump, İran'ın nükleer programına yapılacak üst düzey denetlemelere 'tam ve eksiksiz' razı olduğunu açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-23T13:01:16.181474+00:00",
-  "type": "news",
-  "cluster_id": "c20c91e64db86"
  }
 ]
