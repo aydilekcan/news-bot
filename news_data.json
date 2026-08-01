@@ -1,5 +1,77 @@
 [
  {
+  "title": "İran ABD ile barıştansa düşük yoğunluklu bir savaşı mı tercih ediyor?",
+  "link": "https://www.bbc.com/turkce/articles/cdx70eq0vlgo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "İran, ABD ile barış müzakerelerine rağmen Ürdün'deki ABD üssüne füze saldırısı düzenleyerek düşük yoğunluklu çatışmayı tercih ettiğini gösterdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-01T08:01:11.710360+00:00",
+  "type": "news",
+  "cluster_id": "ce2f5674ed404"
+ },
+ {
+  "title": "Fed'den faiz açıklaması: Artış yönündeki muhalif oyların gerekçeleri...",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/fed-den-faiz-aciklamasi-artis-yonundeki-muhalif-oylarin-gerekceleri-2525577",
+  "source": "Cumhuriyet",
+  "summary_tr": "Fed'in bazı şube başkanları, yüksek enflasyonun kalıcı hale gelme riski ve mevcut politika duruşunun yetersizliğine karşı oy kullandılar.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-01T08:01:11.710360+00:00",
+  "type": "news",
+  "cluster_id": "c41bfb477f8ce"
+ },
+ {
+  "title": "Lübnan Başbakanı Selam: Ordu ülkenin tamamına konuşlanmadan egemenlik ve istikrar sağlanamaz",
+  "link": "https://www.aa.com.tr/tr/dunya/lubnan-basbakani-selam-ordu-ulkenin-tamamina-konuslanmadan-egemenlik-ve-istikrar-saglanamaz/4015540",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Lübnan Başbakanı Nevvaf Selam, ordunun ülkenin tamamına konuşlanmasının egemenlik ve istikrar için gerekli olduğunu belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-01T08:01:11.710360+00:00",
+  "type": "news",
+  "cluster_id": "c6c196453f00d"
+ },
+ {
+  "title": "Lübnan Başbakanı: Ordu ülkenin tamamına konuşlanmadan egemenlik ve istikrar sağlanamaz",
+  "link": "https://www.trthaber.com/haber/dunya/lubnan-basbakani-ordu-ulkenin-tamamina-konuslanmadan-egemenlik-ve-istikrar-saglanamaz-952773.html",
+  "source": "TRT Haber",
+  "summary_tr": "Lübnan Başbakanı Nevvaf Selam, ordunun ülkenin tamamına konuşlanmasının egemenlik ve istikrar için gerekli olduğunu belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-01T08:01:11.710360+00:00",
+  "type": "news",
+  "cluster_id": "c6c196453f00d"
+ },
+ {
+  "title": "Dev kripto şirketi merkez bankalarını geride bıraktı: Kasasını altınla doldurdu",
+  "link": "https://www.sozcu.com.tr/dev-kripto-sirketi-merkez-bankalarini-geride-birakti-kasasini-altinla-doldurdu-p341490",
+  "source": "Sözcü",
+  "summary_tr": "Kripto para şirketi Tether, ikinci çeyrekte 14 ton fiziki altın satın alarak altın rezervlerini artırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-01T08:01:11.710360+00:00",
+  "type": "news",
+  "cluster_id": "c33d20ccafc38"
+ },
+ {
+  "title": "Temmuzda fiyatı en fazla artan ürün belli oldu",
+  "link": "https://www.sozcu.com.tr/temmuzda-fiyati-en-fazla-artan-urun-belli-oldu-p341483",
+  "source": "Sözcü",
+  "summary_tr": "Temmuzda marketteki 39 ürünün 19'unda fiyat artışı yaşandı; fiyatı en fazla artan ürün belirlendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-01T08:01:11.710360+00:00",
+  "type": "news",
+  "cluster_id": "c6633952615d1"
+ },
+ {
   "title": "Rusya'nın Kiev'e düzenlediği hava saldırısında 9 kişi hayatını kaybetti, 28 kişi yaralandı",
   "link": "https://www.aa.com.tr/tr/dunya/rusyanin-kieve-duzenledigi-hava-saldirisinda-9-kisi-hayatini-kaybetti-28-kisi-yaralandi/4015468",
   "source": "Anadolu Ajansı",
@@ -59926,77 +59998,5 @@
   "ts": "2026-06-23T16:01:17.644675+00:00",
   "type": "news",
   "cluster_id": "ce31dce6ffb39"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan: Polonya ile ticaret hacmi hedefimizi 15 milyar dolar belirledik",
-  "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-polonya-ile-ticaret-hacmi-hedefimizi-15-milyar-dolar-belirledik-949116.html",
-  "source": "TRT Haber",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, Polonya ile ticaret hacmi hedefini 10 milyar dolardan 15 milyar dolara yükseltti.",
-  "metric": "Polonya ticaret hedefi 10 milyar $ -> 15 milyar $ (+%50)",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-23T16:01:17.644675+00:00",
-  "type": "news",
-  "cluster_id": "cc6164efcc5ec"
- },
- {
-  "title": "Kademeli emeklilik ne zaman çıkacak? 1999-2008 arası SGK girişliler için kademeli emeklilik çıkacak mı?",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/kademeli-emeklilik-ne-zaman-cikacak-1999-2008-arasi-sgk-girisliler-icin-kademeli-emeklilik-cikacak-mi-2514746",
-  "source": "Cumhuriyet",
-  "summary_tr": "1999-2008 arası SGK girişliler için kademeli emeklilik 2026'da gündemdeki yerini koruyor. Milyonlarca çalışanı ilgilendiren konunun çıkış tarihi henüz belirlenmemiş.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-23T14:01:15.786959+00:00",
-  "type": "news",
-  "cluster_id": "c234e36c842f6"
- },
- {
-  "title": "Kripto paralar tepetaklak! Bitcoin ve altcoinler sert düştü",
-  "link": "https://www.sozcu.com.tr/kripto-paralar-tepetaklak-bitcoin-ve-altcoinler-sert-dustu-p330504",
-  "source": "Sözcü",
-  "summary_tr": "Bitcoin ve altcoinler sert düşüş yaşadı. Teknoloji hisselerindeki satış dalgasının riskli varlıkları etkilemesiyle Bitcoin yaklaşık iki haftanın en düşük seviyesine indi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-23T14:01:15.786959+00:00",
-  "type": "news",
-  "cluster_id": "cebab82c7716d"
- },
- {
-  "title": "Bu doğrulamayı yapmayan IBAN ile para transferi yapamayacak",
-  "link": "https://www.sozcu.com.tr/bu-dogrulamayi-yapmayan-iban-ile-para-transferi-yapamayacak-p330503",
-  "source": "Sözcü",
-  "summary_tr": "Dijital bankacılık işlemlerinde güvenlik artırılmak üzere yeni doğrulama sistemi devreye alındı. 20 bin TL ve üzeri para transferleri yeni doğrulamaya tabi tutulacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-23T14:01:15.786959+00:00",
-  "type": "news",
-  "cluster_id": "c0029f5bdbe92"
- },
- {
-  "title": "CHP'de kurultay takvimi eylülde başlayacak: İki il başkanı daha görevden alındı",
-  "link": "https://www.sozcu.com.tr/chp-de-kurultay-takvimi-eylulde-baslayacak-p330502",
-  "source": "Sözcü",
-  "summary_tr": "CHP Genel Başkanı Kılıçdaroğlu duyurdu: Olağanüstü Kurultay süreci 1 Eylül'de başlayacak. Antalya ve Kayseri il başkanları görevden alındı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-23T14:01:15.786959+00:00",
-  "type": "news",
-  "cluster_id": "c8b178d3d48c5"
- },
- {
-  "title": "CHP'nin Antalya ve Kayseri il başkanları görevden alındı",
-  "link": "https://www.trthaber.com/haber/gundem/chpnin-antalya-ve-kayseri-il-baskanlari-gorevden-alindi-949101.html",
-  "source": "TRT Haber",
-  "summary_tr": "CHP Genel Başkanı Kılıçdaroğlu Merkez Yönetim Kurulu toplantısında Antalya ve Kayseri il başkanlarını görevden aldı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-23T14:01:15.786959+00:00",
-  "type": "news",
-  "cluster_id": "cda85fcad3f36"
  }
 ]
