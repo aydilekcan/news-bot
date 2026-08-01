@@ -1,5 +1,53 @@
 [
  {
+  "title": "US Treasury intervenes to support yen after Japan steps in, FT reports",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0lVZ3FOWEp0MkVGaWc4UkprSmVwZlZMSzBQRlBuQ3UzOEVuN09za080MDFQTHFfOVFGU1hsOUF3THBnbGc0Tk4zdi1sR0xBdHhJV3FiOTNmaEZkbWNWQ0VMRjROZXJUQ1VwX1BrS3NvdWRDYThPSWVhdnhZUmxHWHNsVEFRYTZFXy1CeTJVdW13SVpqcl9wdTBoRjdINnV6R0tEcTI3Qnpjc3RpLWxQOVVB?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Hazine Bakanlığı, Japonya'nın müdahalesini takiben yeni kuru desteklemek için piyasaya müdahale etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-01T06:01:03.724909+00:00",
+  "type": "news",
+  "cluster_id": "c3413a4e24e60"
+ },
+ {
+  "title": "Biz neyin diyetini ödüyoruz?",
+  "link": "https://www.sozcu.com.tr/biz-neyin-diyetini-oduyoruz-p341451",
+  "source": "Sözcü",
+  "summary_tr": "Trump-Erdoğan görüşmesinin ardından ABD'den 8,6 milyar metre küp doğalgaz alındı; 2,67 milyar dolar ödeme yapıldı.",
+  "metric": "Doğalgaz ithalatı: 8,6 milyar metre küp; Ödeme: 2,67 milyar dolar",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-01T06:01:03.724909+00:00",
+  "type": "news",
+  "cluster_id": "c76333500f959"
+ },
+ {
+  "title": "Ankara-İstanbul yolculuğu 4 saatin altına düşüyor: Tarih verildi",
+  "link": "https://www.sozcu.com.tr/ankara-istanbul-yolculugu-4-saatin-altina-dusuyor-tarih-verildi-p341452",
+  "source": "Sözcü",
+  "summary_tr": "Ankara-İstanbul YHT hattında seyahat süresi 4 saatin altına düşecek; projenin takvimi açıklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-01T06:01:03.724909+00:00",
+  "type": "news",
+  "cluster_id": "cdbc75211c8ef"
+ },
+ {
+  "title": "İstanbul, Ankara ve İzmir'de akaryakıt tabelaları değişti: İşte güncel fiyatlar",
+  "link": "https://www.sozcu.com.tr/istanbul-ankara-ve-izmir-de-akaryakit-tabelalari-degisti-iste-guncel-fiyatlar-p341446",
+  "source": "Sözcü",
+  "summary_tr": "İstanbul, Ankara ve İzmir'de akaryakıt fiyatları döviz kuru ve petrol fiyatı hareketlerine bağlı olarak değiştirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-01T06:01:03.724909+00:00",
+  "type": "news",
+  "cluster_id": "cd05751080007"
+ },
+ {
   "title": "Treasury selloff signals need to bolster Fed's inflation credibility, Musalem tells FT",
   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdm1UZEtzb3Zzem5MeU1jTGFIV2pKUzJSbjlhcWNrT1RNM3B1aWZBcDRsX3ZkbHBaQXBiTkVZY2pmeERNUmw2c2NVeldxR2VBT2dzeGJUZTVwalRIaWJOZUt3R0tuc29yeUt0R1k4bEJaUW1MTWtiT0szQl9mdml4X1VnRzROSUR6eG55dXZVVTZSbHRnaklpVWZFMExWdUV2ODl6MGFJM3NyVG1WaGd6UHRPdnVJYmFuNFRwMExqOXpGdjFReW9GdGhzRQ?oc=5",
   "source": "Reuters",
@@ -59950,53 +59998,5 @@
   "ts": "2026-06-23T13:01:16.181474+00:00",
   "type": "news",
   "cluster_id": "c20c91e64db86"
- },
- {
-  "title": "Mustafa Yeneroğlu'ndan '12. Yargı Paketi' tepkisi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/mustafa-yeneroglu-ndan-12-yargi-paketi-tepkisi-2514732",
-  "source": "Cumhuriyet",
-  "summary_tr": "Bağımsız İstanbul Milletvekili Mustafa Yeneroğlu, 12. Yargı Paketi'ne karşı çıkarak tepki gösterdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-23T13:01:16.181474+00:00",
-  "type": "news",
-  "cluster_id": "c43be969c75db"
- },
- {
-  "title": "İran: ABD görüşmeleri çalışma grupları kurulması uzlaşısıyla sona erdi",
-  "link": "https://www.trthaber.com/haber/dunya/iran-abd-gorusmeleri-calisma-gruplari-kurulmasi-uzlasisiyla-sona-erdi-949094.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Dışişleri Bakan Yardımcısı, İsviçre'de ABD ile yapılan teknik müzakerelerin çalışma grupları kurulması uzlaşısıyla sona erdiğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-23T13:01:16.181474+00:00",
-  "type": "news",
-  "cluster_id": "ce7806e035467"
- },
- {
-  "title": "Turka araç muayenelerinde kartlı ödemelerden komisyon almayacak",
-  "link": "https://www.trthaber.com/haber/ekonomi/turka-arac-muayenelerinde-kartli-odemelerden-komisyon-almayacak-949096.html",
-  "source": "TRT Haber",
-  "summary_tr": "Turka, 15 Ağustos 2027'den itibaren araç muayene hizmetlerinde kredi ve banka kartı ödemelerine komisyon uygulamayacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-23T13:01:16.181474+00:00",
-  "type": "news",
-  "cluster_id": "c7dfa6c735c4d"
- },
- {
-  "title": "Türkiye ile Ermenistan arasında ulaşım bağlantılarında süreç ilerliyor",
-  "link": "https://www.trthaber.com/haber/gundem/turkiye-ile-ermenistan-arasinda-ulasim-baglantilarinda-surec-ilerliyor-949093.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye ile Ermenistan arasında geçmişte kullanılan kara yolu ve demir yolu geçişlerinin yeniden açılması süreci ilerliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-23T13:01:16.181474+00:00",
-  "type": "news",
-  "cluster_id": "c08a94570f34a"
  }
 ]
