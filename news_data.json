@@ -1,5 +1,41 @@
 [
  {
+  "title": "Russia hits Ukrainian capital with ballistic missiles and drones, killing at least 9",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMy1Tb2ZpdTlKMEJmT3JZb0hYWlp1Y1g3R2dwYmZTWEgtRVFsNWhEcUZ3bmx0M09qTWtvSi0wU05pZVdNYzRsa2tITGN0cF9qaWYycl9zWUNrN3pQRjlFVF9PcjFRTUxDam0yOGRMR1pFQTNYWFA5ZFVIeFJvWUxzYTRJMkM4WkhtYXRQd2R3TTlEU2pKZDNUdm5LREp5ZEZXS3FxRkd4b3F1ODYwYlRNZy10VlQ?oc=5",
+  "source": "AP",
+  "summary_tr": "Rusya, balistik füze ve insansız hava araçları ile Ukrayna'nın başkenti Kiev'i saldırıya uğrattı. Saldırıda en az 9 kişi öldü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-01T12:01:06.284089+00:00",
+  "type": "news",
+  "cluster_id": "c3c8feb6c22fa"
+ },
+ {
+  "title": "İran bir tanker daha vurdu",
+  "link": "https://www.sozcu.com.tr/iran-bir-tanker-daha-vurdu-p341544",
+  "source": "Sözcü",
+  "summary_tr": "İran, Hürmüz Boğazı'ndan geçen bir tankere saldırı düzenledi. Katar'dan yüklenen sıvılaştırılmış doğal gaz taşıyan tanker hedeflenmiş olup, bölgede gerginlik artmaya devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-01T12:01:06.284089+00:00",
+  "type": "news",
+  "cluster_id": "c2d93debce832"
+ },
+ {
+  "title": "Yüksek Askeri Şura 4 Ağustos'ta toplanacak",
+  "link": "https://www.aa.com.tr/tr/gundem/yuksek-askeri-sura-4-agustosta-toplanacak/4015745",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Cumhurbaşkanı Erdoğan başkanlığında Yüksek Askeri Şura 4 Ağustos'ta toplanacak. Toplantıda Türk Silahlı Kuvvetleri'nin personel atamalarının yapılması bekleniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-01T12:01:06.284089+00:00",
+  "type": "news",
+  "cluster_id": "c8f2e77587fc6"
+ },
+ {
   "title": "İstanbul'un temmuz enflasyonu belli oldu: En yüksek artış sağlık harcamalarında",
   "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-un-temmuz-enflasyonu-belli-oldu-en-yuksek-artis-saglik-harcamalarinda-2525628",
   "source": "Cumhuriyet",
@@ -59962,41 +59998,5 @@
   "ts": "2026-06-23T21:01:11.273092+00:00",
   "type": "news",
   "cluster_id": "c11b218e4c2cd"
- },
- {
-  "title": "GSYH büyümesi (kesintisiz dönem): 23 çeyrek",
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOGsxZVBTN0s1NjZ3NUt4THFEaDJDaWt3U19lMzhjMWphMXVBSjJ5Zy1JcWdjeG56c1Jjc243RHhXRkRqMVByaEhzdXR3c2RsdTZnQzVpTjZGcTA0czlkTnBjQVVxVW5ha3lGWWJzSGlpeUZHTTV0TnN3UGpneVVJdjlBa9IBiAFBVV95cUxPSmxKQ3NrVG41TnVQaFpRU1N3Z29yNXlucXlBbUdhLUQtTlI2QlJJRndRYjVqMGl5Qk1MM0NlcVhWTUVHUDZESXBFOEMtZkJNbEpzU1ljTklDWDZiUVpJZ3kxNUhZZl9EdTY0NW9Wd016S3RDUmNtWXUxZ2hJdlAySXU3b0RTNnRs?oc=5",
-  "source": "TUIK",
-  "summary_tr": "%2,5 → 23 çeyrek",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-06-23T21:01:11.273092+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "BM soruşturma komisyonu, İsrail'in Gazze'de çocukları kasıtlı hedef alarak soykırım işlediğini söylüyor",
-  "link": "https://www.bbc.com/turkce/articles/c2dyn4r2zzno?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "BM soruşturma komisyonu, İsrail'in Gazze'de çocukları kasıtlı hedef alarak soykırım işlediğini rapor etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-23T20:01:11.035132+00:00",
-  "type": "news",
-  "cluster_id": "cc75e3a4a65bc"
- },
- {
-  "title": "İşsizlik oranı: %8",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMXAxMGp4WWpKazd6MXhVVDFUb2lGSXYydG5pTjEtQUlNdFcxQjVjdkxLeHczTFdhNVJBTGs4N28tX0FaaUdWZ0owcFlHTmtmQ0VrcEtkNU1kVTB1S1djdktEVVFfdFctbDF6ZndwQnpLMGxEczhLWFhxTHI4Tk1FcXV2eDFpWnI1ZHpRZmtIdVZqdXlMWlZr?oc=5",
-  "source": "TUIK",
-  "summary_tr": "%8,2 → %8 (-0,2 puan)",
-  "metric": "-0,2 puan",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-06-23T19:01:11.276538+00:00",
-  "type": "data",
-  "cluster_id": ""
  }
 ]
