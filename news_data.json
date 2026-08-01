@@ -1,5 +1,29 @@
 [
  {
+  "title": "TÜİK’ten işsizlik masalı",
+  "link": "https://www.sozcu.com.tr/tuik-ten-issizlik-masali-p341429",
+  "source": "Sözcü",
+  "summary_tr": "TÜİK işsizliğin azaldığını açıkladı ancak İşkur verileri ve İSO'nun tespitleri farklı gösteriyor; rakamlar tartışmalı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-01T02:00:58.325337+00:00",
+  "type": "news",
+  "cluster_id": "ce53e46a3c02f"
+ },
+ {
+  "title": "19 gündür eylem yapan er gaziler hak kaybını anlattı",
+  "link": "https://www.sozcu.com.tr/19-gundur-eylem-yapan-er-gaziler-hak-kaybini-anlatti-p341428",
+  "source": "Sözcü",
+  "summary_tr": "Gazi askerler protez hakkı, maaş ve sosyal imkanlar konusunda 19 gündür eylem yapıyor; hak kaybı talepleri var.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-01T02:00:58.325337+00:00",
+  "type": "news",
+  "cluster_id": "c43ff1043191a"
+ },
+ {
   "title": "İŞKUR’a kayıtlı işsiz sayısı, İşsizlik Fonu’na başvuru sayısı, kapanan şirket sayısı arttı ama işsizlik düştü deniyor: ‘Hangisine inanacağız?’",
   "link": "https://www.cumhuriyet.com.tr/turkiye/iskur-a-kayitli-issiz-sayisi-issizlik-fonu-na-basvuru-sayisi-kapanan-sirket-sayisi-artti-ama-issizlik-dustu-deniyor-hangisine-inanacagiz-2525491",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-23T12:01:12.736182+00:00",
   "type": "news",
   "cluster_id": "c3f3c498d4c38"
- },
- {
-  "title": "Hürmüz Boğazı'nda ticari gemi geçişleri savaş öncesi seviyenin yüzde 25'ine ulaştı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/hurmuz-bogazinda-ticari-gemi-gecisleri-savas-oncesi-seviyenin-yuzde-25ine-ulasti/3975460",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Hürmüz Boğazı'nda ticari gemi geçişleri son 5 günde savaş öncesi seviyenin %25'ine ulaştı.",
-  "metric": "Hürmüz Boğazı ticari gemi geçişleri: savaş öncesi seviyenin %25'ine (5 günde)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-23T12:01:12.736182+00:00",
-  "type": "news",
-  "cluster_id": "c9f48c3befef7"
- },
- {
-  "title": "South Korea's KOSPI plunges nearly 10% after regulator cautions on leveraged ETFs",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWUdDOF9YWnk5UExOWFVMYTRlWUhBcmI5cGM3aE5nMEwwYWhnbkpKMVFYcy1UMEhLbjQ2Mm1rc0RKQWtyRG9pczQtTjN6TE12WUVoNmUyZTFkb01yQl84aldiaWpTT1RmRzlZQVF2M2VKdUdFZ29sMzdXR2t0XzVfQnNhVXZIR01PNVRiVVNmTmxpQ0JheFl5bXBHVG9iLXdNN3RlS1ZyOEhpaTlhX0w4Zk11Tlh2MXRhazlsVkNRelVCNUVYM1l1X1VTaw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Güney Kore borsası (KOSPI) kaldıraçlı ETF uyarısının ardından yaklaşık %10 düştü.",
-  "metric": "KOSPI: yaklaşık -%10",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-23T12:01:12.736182+00:00",
-  "type": "news",
-  "cluster_id": "c95e74c23d53c"
  }
 ]
