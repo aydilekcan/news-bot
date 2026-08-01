@@ -1,5 +1,17 @@
 [
  {
+  "title": "Sıra vergi zammına geldi",
+  "link": "https://www.sozcu.com.tr/sira-vergi-zammina-geldi-p341430",
+  "source": "Sözcü",
+  "summary_tr": "AKP'li milletvekillerinin Özel Tüketim Vergisi'ni (ÖTV) çeşitlendirme ve artırımını öngören yasa teklifi hazırlandı; otomotiv sektöründe vergi zammı bekleniyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-01T03:00:54.876108+00:00",
+  "type": "news",
+  "cluster_id": "cf1c86026b863"
+ },
+ {
   "title": "TÜİK’ten işsizlik masalı",
   "link": "https://www.sozcu.com.tr/tuik-ten-issizlik-masali-p341429",
   "source": "Sözcü",
@@ -59986,17 +59998,5 @@
   "ts": "2026-06-23T12:01:12.736182+00:00",
   "type": "news",
   "cluster_id": "ce0ba8bb11008"
- },
- {
-  "title": "İran'da siber saldırı nedeniyle bankacılık sistemlerinde aksaklıklar meydana geldiği açıklandı",
-  "link": "https://www.aa.com.tr/tr/dunya/iranda-siber-saldiri-nedeniyle-bankacilik-sistemlerinde-aksakliklar-meydana-geldigi-aciklandi/3975463",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD'nin İran petrolüne yaptırım muafiyetinin ardından İran bankacılık sisteminde siber saldırıdan dolayı aksaklıklar yaşanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-23T12:01:12.736182+00:00",
-  "type": "news",
-  "cluster_id": "c3f3c498d4c38"
  }
 ]
