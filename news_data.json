@@ -1,5 +1,17 @@
 [
  {
+  "title": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Kurum 'dan Kahramanmaraş'a 4 bin 500 sosyal konut müjdesi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/cevre-sehircilik-ve-iklim-degisikligi-bakani-kurum-dan-kahramanmarasa-4-bin-500-sosyal-konut-mujdesi-/4015932",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Çevre Bakanı Kurum, Kahramanmaraş'a 4.500 sosyal konut müjdesi verdi; depremde yakınlarını kaybetenlere konut sağlanacak.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-01T17:01:03.499032+00:00",
+  "type": "news",
+  "cluster_id": "c87836c4ca061"
+ },
+ {
   "title": "ABD'den kıyamet senaryosu uyarısı: Çok büyük vuracağız",
   "link": "https://www.sozcu.com.tr/abd-den-kiyamet-senaryosu-uyarisi-cok-buyuk-vuracagiz-p341583",
   "source": "Sözcü",
@@ -59986,17 +59998,5 @@
   "ts": "2026-06-24T07:01:14.852754+00:00",
   "type": "news",
   "cluster_id": "cfbcc5133460f"
- },
- {
-  "title": "ABD'de vatandaşlık başvuru ücretlerine yüzde 80'e varan zam teklifi",
-  "link": "https://www.trthaber.com/haber/dunya/abdde-vatandaslik-basvuru-ucretlerine-yuzde-80e-varan-zam-teklifi-949158.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD Trump yönetimi, vatandaşlık başvuru ücretlerinde %80'e varan zam teklif etti. Dar gelirliler için ücret indirimi öngörülüyor.",
-  "metric": "Vatandaşlık başvuru ücreti: +%80 zam önerisi",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-24T07:01:14.852754+00:00",
-  "type": "news",
-  "cluster_id": "c873a49d935eb"
  }
 ]
