@@ -1,5 +1,29 @@
 [
  {
+  "title": "İran’dan olay yaratacak Hürmüz iddiası: Gözler ABD’ye çevrildi",
+  "link": "https://www.sozcu.com.tr/iran-dan-olay-yaratacak-hurmuz-iddiasi-gozler-abd-ye-cevrildi-p341615",
+  "source": "Sözcü",
+  "summary_tr": "İran Dışişleri Bakanlığı, ABD'nin Hürmüz Boğazı'ndan geçen ticari gemileri askeri personel ve teçhizat taşımada kullandığını iddia etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-01T21:00:58.330350+00:00",
+  "type": "news",
+  "cluster_id": "c002b56242240"
+ },
+ {
+  "title": "İran, ABD'nin Hürmüz Boğazı'nda ticari gemilerle askeri personel ve teçhizat taşıdığını öne sürdü",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-abdnin-hurmuz-bogazinda-ticari-gemilerle-askeri-personel-ve-techizat-tasidigini-one-surdu/4016016",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Dışişleri Bakanlığı, ABD'nin Hürmüz Boğazı'ndan ticari gemilerle askeri personel ve teçhizat taşıdığını iddia etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-01T21:00:58.330350+00:00",
+  "type": "news",
+  "cluster_id": "c1a32ebc525eb"
+ },
+ {
   "title": "Rusya NATO ülkesinin büyükelçiliğini vurdu",
   "link": "https://www.sozcu.com.tr/rusya-nato-ulkesinin-buyukelciligini-vurdu-p341612",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-24T10:01:19.068587+00:00",
   "type": "news",
   "cluster_id": "c871a8bdb29f3"
- },
- {
-  "title": "Oman opens temporary Strait of Hormuz shipping routes, says no tolls will be charged",
-  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR0ZxbXI3VDZwaXRHdWxyV0RvR2FXVGZXQmJjVGU4dGF4SDIzNjRTdUx3ZE1SUnRvcnkxcC0wUXdwRmQ5VHlUWVF0blk4LWM4WTdhTDNkQlVtaGJFZkhCWG1Zeks5N0hWYmtmd0dqVFRKMFB3MGFxNS15YVVyWEdVczNtQmVBV2YwQ09GbzlQYm1ZcXZFWXNLbUlNTlZDQmJ2TGYwZkh5RjBJTWZQWVBoSWZaelZnOTdPZDhyQmtGckdaVjJBSE1aajNucE1UWm8?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Umman, Hürmüz Boğazı'nda geçici gemi yolları açtı; geçiş ücreti alınmayacağını bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-24T10:01:19.068587+00:00",
-  "type": "news",
-  "cluster_id": "c661e1e40b155"
- },
- {
-  "title": "Keiko Fujimori secures unbeatable lead in Peru presidential election",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWEpJemczNnlJeWJmYllidnc0LTJGbjRvRzhEcHJuSjFmd0wyQVlXQlFqT19hOFV2V0tCT1FXRzg5UmJ2amtYOGZ6RHNJS1NtTVpEN3RaaDh3a3dJc3VNbHFwZ0gtdE1uamJKOVYweWpCSDlZRVhucGIzX3N5ZnpZU2tiYU5BUm9USWlSbHZQclZOeWlGYzFVOWtyN1J0MFA5N0tWRTA2aEtrTzRmT0syME1mYXNNWEpEYk44NmtB?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Peru'nun başkanlık seçiminde Keiko Fujimori yenilmez bir öncü konumda yer aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-24T10:01:19.068587+00:00",
-  "type": "news",
-  "cluster_id": "c97b0723d8117"
  }
 ]
