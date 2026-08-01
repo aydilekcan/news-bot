@@ -1,5 +1,53 @@
 [
  {
+  "title": "Rusya NATO ülkesinin büyükelçiliğini vurdu",
+  "link": "https://www.sozcu.com.tr/rusya-nato-ulkesinin-buyukelciligini-vurdu-p341612",
+  "source": "Sözcü",
+  "summary_tr": "Rusya, Ukrayna'nın farklı bölgelerine gece saatlerinde füze ve SİHA ile geniş çaplı saldırı düzenledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-01T20:01:00.881065+00:00",
+  "type": "news",
+  "cluster_id": "c09ae1a1f224c"
+ },
+ {
+  "title": "İsrail ordusunun İran'a yönelik olası ABD saldırıları öncesi yüksek alarm durumuna geçtiği belirtildi",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-irana-yonelik-olasi-abd-saldirilari-oncesi-yuksek-alarm-durumuna-gectigi-belirtildi/4016013",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusu, İran'ın enerji tesislerine yönelik olası ABD saldırıları öncesi yüksek alarm durumuna geçtiği bildirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-01T20:01:00.881065+00:00",
+  "type": "news",
+  "cluster_id": "c730e3c9723eb"
+ },
+ {
+  "title": "Rusya İçişleri Bakanlığı: Moskova'daki patlamada 3 kişi öldü",
+  "link": "https://www.aa.com.tr/tr/dunya/rusya-icisleri-bakanligi-moskovadaki-patlamada-3-kisi-oldu/4015986",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Moskova'da meydana gelen patlamada 3 kişi hayatını kaybetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-01T20:01:00.881065+00:00",
+  "type": "news",
+  "cluster_id": "c47e7db774c87"
+ },
+ {
+  "title": "Washington Post: ABD'li komutan, İsrail'i koruyacak kaynak kalmadığını bildirdi",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2M0TldGRVZEc3RlLWFIb29MRzZmNXkxakFwLXBGQ3V5WnFrNHdqUGpISGFGMkh0b0ZQRDl6ZXMtZFVhbnJKaHJicWsyOFF5Qm9JMjlUNEE3bnpNTFFjc0M2eHktUDA3SUVTbEZ6V0M3bS1lSjY1S0xwSU5ZdTZITW1jcEhIb01XU3hfR0pqNXFFSjl1M3ZSZXRpTmZpUVB1d0NzenFXUGNEREpOSFZmYjJDRQ?oc=5",
+  "source": "soL",
+  "summary_tr": "ABD askeri komutanı Washington Post'a İsrail'i koruyacak kaynakların kalmadığını bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-01T20:01:00.881065+00:00",
+  "type": "news",
+  "cluster_id": "c8ef65d427eac"
+ },
+ {
   "title": "TBMM Başkanı Kurtulmuş: Yürürlüğe girecek olan yasayla Türkiye'de yeni bir dönemin kapılarını sonuna kadar açıyoruz",
   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-yururluge-girecek-olan-yasayla-turkiyede-yeni-bir-donemin-kapilarini-sonuna-kadar-aciyoruz/4015958",
   "source": "Anadolu Ajansı",
@@ -59950,53 +59998,5 @@
   "ts": "2026-06-24T10:01:19.068587+00:00",
   "type": "news",
   "cluster_id": "c97b0723d8117"
- },
- {
-  "title": "TÜİK: Türkiye'ye göçte yüzde 25 artış",
-  "link": "https://www.dw.com/tr/tüik-türkiye-ye-göçte-yüzde-25-artış/a-77687242?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "TÜİK verilerine göre 2025'te Türkiye'ye yaklaşık 394 bin kişi göç etti, göç çıkışında %5 düşüş kaydedildi.",
-  "metric": "Göç girişi [önceki veri] -> 394 bin (+%25)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-24T10:01:19.068587+00:00",
-  "type": "news",
-  "cluster_id": "c7e0e4a1d94ac"
- },
- {
-  "title": "Erdoğan'dan 'CHP' açıklaması: 'Paralel yönetim Türkiye siyasetini de paralize ediyor'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/erdogan-dan-chp-aciklamasi-paralel-yonetim-turkiye-siyasetini-de-paralize-ediyor-2514985",
-  "source": "Cumhuriyet",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, CHP'deki 'mutlak butlan' krizine ilişkin 'paralel yönetim' eleştirisi yaptı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-24T10:01:19.068587+00:00",
-  "type": "news",
-  "cluster_id": "c9fb01bdbab0c"
- },
- {
-  "title": "Garanti BBVA, Merkez Bankası'ndan gevşeme bekliyor",
-  "link": "https://www.sozcu.com.tr/garanti-bbva-merkez-bankasi-ndan-gevseme-bekliyor-p330738",
-  "source": "Sözcü",
-  "summary_tr": "Garanti BBVA Genel Müdürü, enflasyondaki seyrin olumlu ilerlemesi halinde Merkez Bankası'ndan gevşeme beklendiğini söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-24T10:01:19.068587+00:00",
-  "type": "news",
-  "cluster_id": "cd2e8dacca884"
- },
- {
-  "title": "Haziranda promosyon rekabeti kızıştı: Hangi banka ne kadar veriyor? İşte en yüksek emekli promosyonu sunan bankaların güncel listesi",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/haziranda-promosyon-rekabeti-kizisti-hangi-banka-ne-kadar-veriyor-iste-en-yuksek-emekli-promosyonu-sunan-bankalarin-guncel-listesi-2514959",
-  "source": "Cumhuriyet",
-  "summary_tr": "Haziranda banka promosyon rekabeti kızıştı; emekliler Temmuz zammı öncesinde en yüksek emekli promosyonu sunan bankaları karşılaştırıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-24T09:01:10.274562+00:00",
-  "type": "news",
-  "cluster_id": "c69ac0b38e4e7"
  }
 ]
