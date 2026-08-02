@@ -1,5 +1,29 @@
 [
  {
+  "title": "Dışişleri Bakanlığından İsrail'in mutabakata rağmen Gazze'ye yaptığı saldırılara tepki",
+  "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligindan-israilin-mutabakata-ragmen-gazzeye-yaptigi-saldirilara-tepki/4016562",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Dışişleri Bakanlığı, Netanyahu'nun Gazze saldırılarının barış çabalarına engel olduğunu açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-02T22:01:00.544857+00:00",
+  "type": "news",
+  "cluster_id": "cf76b83eb6e1d"
+ },
+ {
+  "title": "Suriye Cumhurbaşkanı Şara: Eski rejimin ortadan kaldırılması yalnızca Suriye için değil tüm bölge için gerekliydi",
+  "link": "https://www.aa.com.tr/tr/dunya/suriye-cumhurbaskani-sara-eski-rejimin-ortadan-kaldirilmasi-yalnizca-suriye-icin-degil-tum-bolge-icin-gerekliydi/4016559",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Suriye Cumhurbaşkanı Şara, eski rejimin ortadan kaldırılmasının bölge için gerekli olduğunu belirtti.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-02T22:01:00.544857+00:00",
+  "type": "news",
+  "cluster_id": "cfc9c436b4152"
+ },
+ {
   "title": "Bakan Bolat, esnafa finansman desteğinin ayrıntılarını açıkladı",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/bakan-bolat-esnafa-finansman-desteginin-ayrintilarini-acikladi-2525918",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-24T21:01:08.104335+00:00",
   "type": "news",
   "cluster_id": "c236fbe37656c"
- },
- {
-  "title": "Rusya’da gözaltındaki savaş karşıtı siyasetçiye 7 yıl hapis cezası",
-  "link": "https://www.cumhuriyet.com.tr/dunya/rusya-da-gozaltindaki-savas-karsiti-siyasetciye-7-yil-hapis-cezasi-2515155",
-  "source": "Cumhuriyet",
-  "summary_tr": "Rusya'da Ukrayna savaşına karşı çıkan Yabloko Partisi Lider Yardımcısı Maxim Kruglov, asker hakkında 'yalan bilgi yaymak' suçlamasıyla 7 yıl hapis cezasına çarptırıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-24T20:01:19.398354+00:00",
-  "type": "news",
-  "cluster_id": "cb048fea7c4fd"
- },
- {
-  "title": "Yunanistan'a AİHM'den mülteci şoku",
-  "link": "https://www.sozcu.com.tr/yunanistan-a-aihm-den-multeci-soku-p330876",
-  "source": "Sözcü",
-  "summary_tr": "Avrupa İnsan Hakları Mahkemesi, mültecilerin aile birleşimi hakkına ilişkin 3 davada Yunanistan'ı mahkum etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-24T20:01:19.398354+00:00",
-  "type": "news",
-  "cluster_id": "c04ce94fe4a52"
  }
 ]
