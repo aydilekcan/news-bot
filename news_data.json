@@ -1,5 +1,29 @@
 [
  {
+  "title": "Trump, İran'a saldırının askıya alındığını duyurdu",
+  "link": "https://www.diken.com.tr/trump-irana-saldirinin-askiya-alindigini-duyurdu/?utm_source=rss&utm_medium=rss&utm_campaign=trump-irana-saldirinin-askiya-alindigini-duyurdu",
+  "source": "Diken",
+  "summary_tr": "Trump, İran'a askıda bulunan saldırı planının ana hatları üzerinde anlaşmaya varıldığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-08-02T06:00:57.555411+00:00",
+  "type": "news",
+  "cluster_id": "cf9929c3ffcce"
+ },
+ {
+  "title": "Yarın dananın kuyruğu kopacak: Gözler enflasyon rakamlarına çevrildi",
+  "link": "https://www.sozcu.com.tr/yarin-dananin-kuyrugu-kopacak-gozler-enflasyon-rakamlarina-cevrildi-p341648",
+  "source": "Sözcü",
+  "summary_tr": "TÜİK, Temmuz 2026 enflasyon rakamlarını açıklayacak; piyasalar bu veriyi yakından takip ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-02T06:00:57.555411+00:00",
+  "type": "news",
+  "cluster_id": "cd6f186c4bca7"
+ },
+ {
   "title": "Trump: \"İran'a Yönelik Saldırıyı İptal Ettim\" Açıklaması Yaptı",
   "link": "https://www.sozcu.com.tr/trump-iran-a-yonelik-saldiriyi-iptal-ettim-aciklamasi-yapti-p341636",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-24T13:01:20.034144+00:00",
   "type": "news",
   "cluster_id": "ca6e758208397"
- },
- {
-  "title": "Türk savunma sanayiinde kuantum dönemi",
-  "link": "https://www.trthaber.com/haber/savunma/turk-savunma-sanayiinde-kuantum-donemi-949211.html",
-  "source": "TRT Haber",
-  "summary_tr": "Savunma Sanayii Başkanlığı tarafından yürütülen SSB Kuantum Programı kapsamında Türkiye'nin kuantum teknolojileri alanındaki yol haritası hazırlandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-24T13:01:20.034144+00:00",
-  "type": "news",
-  "cluster_id": "cecaa44f82724"
- },
- {
-  "title": "Threads, iki yıllık yasağın ardından Türkiye’de yeniden erişime açıldı",
-  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiZ2RIQzdlTlU0eS1VSTRDLV9kQUN6cWxxTTZYV09aN013SUZ1NElzRVMtTktUNnVGTXBTck1EYmpZNkFUUjJEaTB6aERlSTZjaTVYZFFhZjBQR1NZZkZoQjNBTUFrQ05iNFp6a1pSLWJ1X0c3VGZCMVp5b1c?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Threads, iki yıllık yasağın ardından Türkiye'de yeniden erişime açıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-24T13:01:20.034144+00:00",
-  "type": "news",
-  "cluster_id": "ca400664107a9"
  }
 ]
