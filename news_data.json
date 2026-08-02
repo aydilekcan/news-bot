@@ -1,5 +1,53 @@
 [
  {
+  "title": "Trump says Mideast allies have reached outlines of deal to end Iran war, says US to stop new strikes",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUxMdnNIZ1MzaWNwNXBYV19IbUpVbUo2LTBiR3BiS05fVE1fOUczeVM1MVk3TEJWbjA5cmVZZmlNZ2ZLdnp6NlNLRlBmanlpTnhVbFZPc0RicnVJRjFBUS1uNU1kMldjb2F3ZnN3QTRkZGVLNW8wSklmVjZIcG52dks0TE5kXzlmdkF1d01SUW9TemFEQ09DSGlZdkxON1k?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump, Ortadoğu müttefiklerinin İran savaşını sona erdirmek için anlaşma taslağına vardığını ve ABD'nin yeni hava saldırılarını durduracağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-02T07:01:03.137224+00:00",
+  "type": "news",
+  "cluster_id": "cd2dd106ce9c2"
+ },
+ {
+  "title": "TBMM gündemi: 'Terörsüz Türkiye' için kanun teklifi",
+  "link": "https://www.diken.com.tr/tbmm-gundemi-terorsuz-turkiye-icin-kanun-teklifi/?utm_source=rss&utm_medium=rss&utm_campaign=tbmm-gundemi-terorsuz-turkiye-icin-kanun-teklifi",
+  "source": "Diken",
+  "summary_tr": "TBMM bu hafta 'Terörsüz Türkiye' için kanun teklifini görüşecek.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-02T07:01:03.137224+00:00",
+  "type": "news",
+  "cluster_id": "c424965507d51"
+ },
+ {
+  "title": "TBMM'de yeni haftada 3 önemli başlık",
+  "link": "https://www.trthaber.com/haber/gundem/tbmmde-yeni-haftada-3-onemli-baslik-952845.html",
+  "source": "TRT Haber",
+  "summary_tr": "TBMM bu hafta 18 yaş altı suçlularda ceza üst sınırını artırmaya yönelik düzenlemenin Genel Kurulu'nda görüşülmesi gündemde.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-02T07:01:03.137224+00:00",
+  "type": "news",
+  "cluster_id": "c7c17f5253772"
+ },
+ {
+  "title": "Altın, dolar veya konut değil: Yatırımcıların yeni rotası belli oldu",
+  "link": "https://www.sozcu.com.tr/altin-dolar-veya-konut-degil-yatirimcilarin-yeni-rotasi-belli-oldu-p341665",
+  "source": "Sözcü",
+  "summary_tr": "Gayrimenkul yatırımcıları altın ve döviz yerine tarım arazilerine yönelmeye başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-02T07:01:03.137224+00:00",
+  "type": "news",
+  "cluster_id": "cde1b4487d30a"
+ },
+ {
   "title": "Trump, İran'a saldırının askıya alındığını duyurdu",
   "link": "https://www.diken.com.tr/trump-irana-saldirinin-askiya-alindigini-duyurdu/?utm_source=rss&utm_medium=rss&utm_campaign=trump-irana-saldirinin-askiya-alindigini-duyurdu",
   "source": "Diken",
@@ -59950,53 +59998,5 @@
   "ts": "2026-06-24T13:01:20.034144+00:00",
   "type": "news",
   "cluster_id": "c9b6bf484b192"
- },
- {
-  "title": "Türkiye dünya liderlerini ağırlayacak",
-  "link": "https://www.trthaber.com/haber/gundem/turkiye-dunya-liderlerini-agirlayacak-949208.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye, Ankara'da düzenlenecek 36. NATO Zirvesi'nde İttifak'ın 32 üye devlet ve hükümet başkanını ağırlayacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-24T13:01:20.034144+00:00",
-  "type": "news",
-  "cluster_id": "c0a5c63f4a9db"
- },
- {
-  "title": "Altın neden düşüyor? Yıl sonu beklentisini bir banka daha değiştirdi",
-  "link": "https://www.sozcu.com.tr/altin-neden-dusuyor-yil-sonu-beklentisini-bir-banka-daha-degistirdi-p330791",
-  "source": "Sözcü",
-  "summary_tr": "Altın dördüncü ayı düşüşle kapatmaya hazırlanıyor; ABD enflasyonu son üç yılın zirvesine çıktığı halde bir banka yıl sonu beklentisini değiştirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-24T13:01:20.034144+00:00",
-  "type": "news",
-  "cluster_id": "c938e1b9ac946"
- },
- {
-  "title": "Küresel güneş enerjisi kapasitesi 3 teravat sınırını aştı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-gunes-enerjisi-kapasitesi-3-teravat-sinirini-asti/3976721",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Küresel güneş enerjisi kapasitesi 3 teravat sınırını aştı; Avrupa'da güneş enerjisi sektörü hızlı büyümeye devam ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-24T13:01:20.034144+00:00",
-  "type": "news",
-  "cluster_id": "cbf6ce1bb360c"
- },
- {
-  "title": "İspanya Başbakanı Sanchez, istifa taleplerine rağmen seçimler için 2027'yi gösterdi",
-  "link": "https://www.aa.com.tr/tr/dunya/ispanya-basbakani-sanchez-istifa-taleplerine-ragmen-secimler-icin-2027yi-gosterdi/3976716",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İspanya Başbakanı Sanchez, yolsuzluk iddialarındaki mahkeme kararlarına rağmen 2027'yi seçim hedefi olarak gösterdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-24T13:01:20.034144+00:00",
-  "type": "news",
-  "cluster_id": "ca6e758208397"
  }
 ]
