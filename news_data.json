@@ -1,5 +1,53 @@
 [
  {
+  "title": "Son Dakika... TİP milletvekili Sera Kadıgil hakkında re’sen soruşturma başlatıldı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-tip-milletvekili-sera-kadigil-hakkinda-re-sen-sorusturma-baslatildi-2525903",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ankara Cumhuriyet Başsavcılığı, TİP milletvekili Sera Kadıgil hakkında 'Cumhurbaşkanına hakaret' ve 'tehdit' suçlamasıyla soruşturma başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-02T18:01:06.663271+00:00",
+  "type": "news",
+  "cluster_id": "cc161b2279dbe"
+ },
+ {
+  "title": "Sera Kadıgil hakkında soruşturma başlatıldı",
+  "link": "https://www.sozcu.com.tr/sera-kadigil-sorusturma-2-agustos-2026-p341801",
+  "source": "Sözcü",
+  "summary_tr": "Ankara Cumhuriyet Başsavcılığı, TİP milletvekili Sera Kadıgil hakkında 'Cumhurbaşkanına hakaret' suçlamasıyla soruşturma başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-02T18:01:06.663271+00:00",
+  "type": "news",
+  "cluster_id": "cc161b2279dbe"
+ },
+ {
+  "title": "Amerika'nın borcu 40 trilyon dolara gelecek çok yakında",
+  "link": "https://www.sozcu.com.tr/abd-borcu-40-trilyon-dolar-sinirinda-p341795",
+  "source": "Sözcü",
+  "summary_tr": "ABD'nin ulusal borcu 39,8 trilyon doları aşarak 40 trilyon dolar sınırına yaklaştı.",
+  "metric": "ABD ulusal borcu 39,8 trilyon -> ~40 trilyon dolar",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-02T18:01:06.663271+00:00",
+  "type": "news",
+  "cluster_id": "c5ebe3752dbbb"
+ },
+ {
+  "title": "Erakçi, Umman ile Hürmüz Boğazı'na ilişkin müzakerelerde son aşamada olduklarını açıkladı",
+  "link": "https://www.aa.com.tr/tr/dunya/erakci-umman-ile-hurmuz-bogazina-iliskin-muzakerelerde-son-asamada-olduklarini-acikladi/4016482",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Dışişleri Bakanı Erakçi, Umman ile Hürmüz Boğazı müzakerelerinin son aşamada olduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-02T18:01:06.663271+00:00",
+  "type": "news",
+  "cluster_id": "c8bb3fb1feca8"
+ },
+ {
   "title": "Netanyahu'dan Türkiye hamlesi: 3 madde sıralayıp 'istemiyoruz' dediler",
   "link": "https://www.sozcu.com.tr/netanyahu-dan-turkiye-hamlesi-3-madde-siralayip-istemiyoruz-dediler-p341793",
   "source": "Sözcü",
@@ -59950,53 +59998,5 @@
   "ts": "2026-06-24T20:01:19.398354+00:00",
   "type": "news",
   "cluster_id": "c608c97f21299"
- },
- {
-  "title": "Rubio defends Iran deal on Gulf tour, Israel insists on troops in southern Lebanon",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd2ZaZ09FYVZua01kNUt3a3EycFVoUi1rZkd3SGc2UUhNa2pqdm5PTEhfMlhMV1ZxRlI3OU5sN3o3aVdjNlpBOEEyelFxY2s5TGVNc2R0ZFZzbEROSmk3MHJGdDVBT3YwbG5KOWZqNWh1Skh6X3RYc0YybzNpU2FMaGxKTEN6Nzd6T3hJN2FJakQ3eFVsdzVFSHJvUVBTMWp0NEpURTAtbk14TDhnS1Vvb21mSUVtNUlFR1FCQ0NXVEg1a0Fn?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD Dışişleri Sekreteri Rubio Körfez turunda İran anlaşmasını savunurken, İsrail Güney Lübnan'da asker bulundurma konusunda ısrar ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-24T20:01:19.398354+00:00",
-  "type": "news",
-  "cluster_id": "c53f6dd948aa4"
- },
- {
-  "title": "Chinese supercomputer displaces US machines as world’s fastest for first time since 2017",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLXk4LTR0VFhXOVlfU0Vua19vbGIya0hEaWg2cGFHY2tnNC1wNXF4dU9iT05MV1RCY05kUUpkMHJUdVB6czRaNnIwQm9fLXU4dDIzWTZ6NHNNS3RmZkMyMUQzZG12RkpsajdQbmY2OGFjZ0wtTm1FX0txeWtPRFR2RDA5YVBEa1Q1THJpSkxrRkU2T0NxWjVDQlpIY2J5VThyd1Jzc2RhclpTSVRC?oc=5",
-  "source": "AP",
-  "summary_tr": "Çin'in süper bilgisayarı 2017'den bu yana ilk kez dünyanın en hızlısı olarak ABD makinelerinin yerini aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-24T20:01:19.398354+00:00",
-  "type": "news",
-  "cluster_id": "c44ed340b2e3d"
- },
- {
-  "title": "Ağır hasarlı araç satışında yeni dönem başlıyor: 1 Temmuz'da yürürlüğe girecek",
-  "link": "https://www.sozcu.com.tr/agir-hasarli-arac-satisinda-yeni-donem-basliyor-1-temmuz-da-yururluge-girecek-p330878",
-  "source": "Sözcü",
-  "summary_tr": "Ağır hasarlı araç satışıyla ilgili yeni düzenleme 1 Temmuz 2026'da yürürlüğe girecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-24T20:01:19.398354+00:00",
-  "type": "news",
-  "cluster_id": "cee42b732e60b"
- },
- {
-  "title": "Ticari plaka satışından vergi alınmayacak! Meclis’ten geçti",
-  "link": "https://www.sozcu.com.tr/ticari-plaka-satisindan-vergi-alinmayacak-meclis-ten-gecti-p330877",
-  "source": "Sözcü",
-  "summary_tr": "TBMM ticari plaka satışından vergi alınmamasını yasalaştırdı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-24T20:01:19.398354+00:00",
-  "type": "news",
-  "cluster_id": "cdaa53fd03ddc"
  }
 ]
