@@ -1,5 +1,29 @@
 [
  {
+  "title": "Pompa fren tutmuyor: Dün bugün yarın",
+  "link": "https://www.sozcu.com.tr/pompa-fren-tutmuyor-dun-bugun-yarin-p341755",
+  "source": "Sözcü",
+  "summary_tr": "LPG fiyatında 2 lira 45 kuruş zam yağmurası devam ediyor.",
+  "metric": "LPG fiyatı litre başına +2,45 TL",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-08-02T12:00:58.811310+00:00",
+  "type": "news",
+  "cluster_id": "c963aa48bf8d2"
+ },
+ {
+  "title": "Esnaf için kredi limiti ve vadesi artırıldı",
+  "link": "https://www.diken.com.tr/esnaf-icin-kredi-limiti-ve-vadesi-artirildi/?utm_source=rss&utm_medium=rss&utm_campaign=esnaf-icin-kredi-limiti-ve-vadesi-artirildi",
+  "source": "Diken",
+  "summary_tr": "Ticaret Bakanı Ömer Bolat esnaf için kredi limiti ve vadelerini artırdığını duyurdu.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-02T12:00:58.811310+00:00",
+  "type": "news",
+  "cluster_id": "c66bcdff730db"
+ },
+ {
   "title": "Bahçeli'den çerçeve yasa çıkışı: Siyaset üstü bakılmalıdır",
   "link": "https://www.dw.com/tr/bahçeli-den-çerçeve-yasa-çıkışı-siyaset-üstü-bakılmalıdır/a-78206913?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-24T17:01:11.728819+00:00",
   "type": "news",
   "cluster_id": "c84caa7feb215"
- },
- {
-  "title": "32 ülkenin lideri Ankara’da buluşacak",
-  "link": "https://www.sozcu.com.tr/32-ulkenin-lideri-ankara-da-bulusacak-p330847",
-  "source": "Sözcü",
-  "summary_tr": "32 ülkenin liderinin katılımıyla Ankara'da 36. NATO Zirvesi düzenlenecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-24T17:01:11.728819+00:00",
-  "type": "news",
-  "cluster_id": "c1e8582c132ea"
- },
- {
-  "title": "Son dakika... Metin Yener yeniden Sayıştay Başkanı seçildi: CHP, oylamaya katılmama kararı aldı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-metin-yener-yeniden-sayistay-baskani-secildi-chp-oylamaya-katilmama-karari-aldi-2515109",
-  "source": "Cumhuriyet",
-  "summary_tr": "Metin Yener TBMM seçiminde 272 oy alarak yeniden Sayıştay Başkanı seçildi. CHP oylamaya katılmama kararı aldı.",
-  "metric": "Metin Yener: 272 oy",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-24T16:01:13.379620+00:00",
-  "type": "news",
-  "cluster_id": "c11cda4fca046"
  }
 ]
