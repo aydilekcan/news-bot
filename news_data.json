@@ -1,5 +1,65 @@
 [
  {
+  "title": "Trump: \"İran'a Yönelik Saldırıyı İptal Ettim\" Açıklaması Yaptı",
+  "link": "https://www.sozcu.com.tr/trump-iran-a-yonelik-saldiriyi-iptal-ettim-aciklamasi-yapti-p341636",
+  "source": "Sözcü",
+  "summary_tr": "ABD Başkanı Donald Trump, İran'a yönelik bir saldırı planını iptal ettiğini açıklamıştır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-02T05:01:46.748480+00:00",
+  "type": "news",
+  "cluster_id": "ce69b689acc58"
+ },
+ {
+  "title": "Israeli strikes kill at least four in Gaza despite Trump announcing breakthrough",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNzFyTXBvZ1pGeVZXTUlTRWM3VGxjTjd5dXk4Y1RwZUYtaE9adFlFRGNkcU1tNmR6M2lCckhIN2cwMG54RUNiNzNib3RQVWxLd1FqWlY5eVZObDc4b3NCdGlLZi10a214V25teXViTkpCZXBXeDRfazBSOUNJVkZTM1RLcWt5SzUwaURiUUJMcDlOZFJFTkg5NXZXV0ZuakxZanh2YUNVMko3R1pJS3RsUFBsQjNpOXlLcHQwbHJtZ1FZWk9VdDRz?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Başkanı Trump ateşkes konusunda ilerleme açıklamasına rağmen İsrail, Gazze'de en az 4 kişiyi öldüren hava saldırıları düzenlemişdir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-02T05:01:46.748480+00:00",
+  "type": "news",
+  "cluster_id": "c665d6afaa612"
+ },
+ {
+  "title": "Irak başbakanı: Topraklarımız komşu ülkelere saldırı için kullanılamaz",
+  "link": "https://www.sozcu.com.tr/irak-basbakani-topraklarimiz-komsu-ulkelere-saldiri-icin-kullanilamaz-p341641",
+  "source": "Sözcü",
+  "summary_tr": "Irak Başbakanı Ali Falih ez-Zeydi, ülke topraklarının komşu ülkelere saldırı için kullanılamayacağını açıklamıştır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-02T05:01:46.748480+00:00",
+  "type": "news",
+  "cluster_id": "c7d40b5acec10"
+ },
+ {
+  "title": "125 yıllık köklü Türk bankası ABD'li şirkete satıldı",
+  "link": "https://www.sozcu.com.tr/125-yillik-koklu-turk-bankasi-abd-li-sirkete-satildi-p341634",
+  "source": "Sözcü",
+  "summary_tr": "125 yıllık Türk bankası Turkish Bank, BDDK ve Rekabet Kurulu onayı ardından ABD'li şirkete satılmıştır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-02T05:01:46.748480+00:00",
+  "type": "news",
+  "cluster_id": "c957ec4424681"
+ },
+ {
+  "title": "Gürkan Akgüneş | Dünyanın en pahalı etini yiyoruz... Peki gerçekten et mi yiyoruz?",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa2tpZmtYeHZLSE16ZWg1RFdGM0tCQ2NNWHpHcTAyeGtiN2tmVlc4Ui1XbUlOSUdmcEhKNmRxNHIwQkdjdmU1clgtVEx0bnR6Y2Y1enp6QkhJTUZDc0tWQkN6NVgxd2NwSUNfN2xBaHBsczFCcFhweWNySW9RUVB4b1g5bUR2OW9teUV0YTJ2MTU2WlRUSk9GSTdQbFJIOG0yak5oeEN2ODlMa2d0RWhj?oc=5",
+  "source": "T24",
+  "summary_tr": "Türkiye'de et fiyatlarının dünya standartlarında en yüksek seviyeye ulaştığı, vatandaşların oldukça pahalı et tükettiği belirtilmektedir.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-02T05:01:46.748480+00:00",
+  "type": "news",
+  "cluster_id": "cb5203ed3435d"
+ },
+ {
   "title": "Trump, bir anlaşmanın ana hatları üzerinde uzlaştıkları için İran'a saldırıları durdurduğunu açıkladı",
   "link": "https://www.aa.com.tr/tr/dunya/trump-bir-anlasmanin-ana-hatlari-uzerinde-uzlastiklari-icin-irana-saldirilari-durdurdugunu-acikladi/4016067",
   "source": "Anadolu Ajansı",
@@ -59938,65 +59998,5 @@
   "ts": "2026-06-24T13:01:20.034144+00:00",
   "type": "news",
   "cluster_id": "ca400664107a9"
- },
- {
-  "title": "SK Hynix targets $29 billion US listing as AI demand surges",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcHZpd3FfSXFqZWF1UlNscmxPUVJtSEhLMTNxNjhUYktCaWRWbmRjUzNGSzRKWEE5MklCWGU4cm8zN1RGeEhTWTgyV0pXR2ZVMFVUMXhWczFkNTRXTjlUU2ltLWFMbG9PbGhOdUNVRktKNXVOMVFDbnk5RkdXSnVEM01id1pNZDc2dWFPQkQ3OFRmYXZtbmNRQTdkdDNMbXN4d1FwRTVOTndDUjJpZ3c?oc=5",
-  "source": "Reuters",
-  "summary_tr": "SK Hynix, yapay zeka talebinin artmasıyla ABD borsasında 29 milyar dolarlık bir listelemeyi hedefliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-24T13:01:20.034144+00:00",
-  "type": "news",
-  "cluster_id": "c06c1c33386bb"
- },
- {
-  "title": "Beyaz eşya toplam satışları Mayıs'ta yüzde 19 düştü",
-  "link": "https://www.sozcu.com.tr/beyaz-esya-toplam-satislari-mayis-ta-yuzde-19-dustu-p330773",
-  "source": "Sözcü",
-  "summary_tr": "Mayıs 2024'te Türkiye beyaz eşya satışları bir önceki yıla göre %19 oranında düşüş yaşadı.",
-  "metric": "Beyaz eşya satışları Mayıs'ta -%19",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-24T12:01:14.233856+00:00",
-  "type": "news",
-  "cluster_id": "c23be83b1ec9f"
- },
- {
-  "title": "AB’den şirketlere vergi kolaylığı",
-  "link": "https://www.sozcu.com.tr/ab-den-sirketlere-vergi-kolayligi-p330780",
-  "source": "Sözcü",
-  "summary_tr": "AB, vergi mevzuatını sadeleştirmeye yönelik yeni düzenlemeler yürürlüğe koyarak şirketlerin idari ve bürokratik yükünü hafifletecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-24T12:01:14.233856+00:00",
-  "type": "news",
-  "cluster_id": "c5cb3cb975c11"
- },
- {
-  "title": "AB vergi kurallarını sadeleştirmeye hazırlanıyor",
-  "link": "https://www.aa.com.tr/tr/ekonomi/ab-vergi-kurallarini-sadelestirmeye-hazirlaniyor/3976663",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "AB Komisyonu, vergi kurallarını basitleştirerek şirketlerin idari yükünü azaltan yeni bir vergi paket yasasını hazırladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-24T12:01:14.233856+00:00",
-  "type": "news",
-  "cluster_id": "ca1055334f3ff"
- },
- {
-  "title": "EXCLUSIVE: Moscow oil refinery hit by drone attacks is unlikely to resume production this year, sources say",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaWNMVV82eDZ2MEtDRnBUbkJXNGgtbHduNnJjMnlCTnpYR3ZQMXVSQU81enhoS3FJQW5TS3VZcnlaemgweVRSS2J1VFhmUE1iQzdfWjd4SGJMb3RicnpQRTFTRkRvenNvTG1wazRBTmt3bkprOTlSemhXTUdTSkJRUHdLZUFfUm1WdTBUN3NKUldvRWtHaGt3LWJiSVNKVS1PRGlFdUtTci1MaDNNcDNLcnN1ZG5HdDJhX2JzOWlpZ1pYb3BKSWMtYm5SbjI?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Moskova'da İHA saldırısı sonrası vurulmuş bir petrol rafinerisi bu yıl üretimi sürdürme olasılığı düşük görülüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-24T11:01:12.670630+00:00",
-  "type": "news",
-  "cluster_id": "cb516ed898e3e"
  }
 ]
