@@ -1,5 +1,41 @@
 [
  {
+  "title": "Netanyahu'dan Türkiye hamlesi: 3 madde sıralayıp 'istemiyoruz' dediler",
+  "link": "https://www.sozcu.com.tr/netanyahu-dan-turkiye-hamlesi-3-madde-siralayip-istemiyoruz-dediler-p341793",
+  "source": "Sözcü",
+  "summary_tr": "İsrail'in Barış Kurulu, Gazze'de ateşkes anlaşmasının ikinci aşamasına ilişkin 3 maddelik yol haritasında Türkiye'ye karşı talebini reddetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-02T17:00:59.585213+00:00",
+  "type": "news",
+  "cluster_id": "c1521c078dc92"
+ },
+ {
+  "title": "YENİ Parti lideri Özel, ilk temel atma törenini Ankara’da gerçekleştirdi: ‘Dönen dönsün ben dönmezem yolumdan’",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/yeni-parti-lideri-ozel-ilk-temel-atma-torenini-ankara-da-gerceklestirdi-donen-donsun-ben-donmezem-yolumdan-2525890",
+  "source": "Cumhuriyet",
+  "summary_tr": "YENİ Parti Genel Başkanı Özgür Özel, Ankara'da Cemevi, Aşevi, Kütüphane ve Emekli Yaşam Merkezi'nin temel atma törenini gerçekleştirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-02T17:00:59.585213+00:00",
+  "type": "news",
+  "cluster_id": "c04d815b58da9"
+ },
+ {
+  "title": "Etimesgut Belediyesi'ne yolsuzluk soruşturması: 44 şüpheli mahkemeye sevk edildi",
+  "link": "https://www.trthaber.com/haber/gundem/etimesgut-belediyesine-yolsuzluk-sorusturmasi-44-supheli-mahkemeye-sevk-edildi-952883.html",
+  "source": "TRT Haber",
+  "summary_tr": "Etimesgut Belediyesi'ne yönelik yolsuzluk soruşturması kapsamında Belediye Başkanı Erdal Beşikçioğlu dahil 44 şüpheli mahkemeye sevk edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-02T17:00:59.585213+00:00",
+  "type": "news",
+  "cluster_id": "c8743f912b156"
+ },
+ {
   "title": "Erdal Beşikçioğlu'na tutuklama talebi",
   "link": "https://www.sozcu.com.tr/etimesgut-sorusturmasinda-44-kisi-hakkinda-karar-p341782",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-06-24T20:01:19.398354+00:00",
   "type": "news",
   "cluster_id": "cdaa53fd03ddc"
- },
- {
-  "title": "Bakan Çiftçi'den Emniyet Teşkilat Kanunu'na ilişkin paylaşım",
-  "link": "https://www.aa.com.tr/tr/gundem/bakan-ciftciden-emniyet-teskilat-kanununa-iliskin-paylasim/3977111",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İçişleri Bakanı Mustafa Çiftçi, TBMM'de Emniyet Teşkilat Kanunu ve Karayolları Trafik Kanunu'nda yapılan değişiklikleri paylaştı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-24T20:01:19.398354+00:00",
-  "type": "news",
-  "cluster_id": "c345ce60d1af1"
- },
- {
-  "title": "Polonya Başbakanı Tusk'tan, Ankara'daki NATO Zirvesi öncesi birlik çağrısı",
-  "link": "https://www.trthaber.com/haber/dunya/polonya-basbakani-tusktan-ankaradaki-nato-zirvesi-oncesi-birlik-cagrisi-949239.html",
-  "source": "TRT Haber",
-  "summary_tr": "Polonya Başbakanı Donald Tusk, Ankara'daki NATO Zirvesi öncesinde Avrupa ve transatlantik birlik mesajını vurguladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-24T20:01:19.398354+00:00",
-  "type": "news",
-  "cluster_id": "c703a28cb8395"
- },
- {
-  "title": "Oil markets start to signal near-term oversupply as tankers exit Strait of Hormuz",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmJaZHpSZ2pFeUs5SjJxLUVGcTIzRGhXLU1WbUF3enJsdjJneVVob01zdE5zZW80OE1fX2poRzZYUFhTTGc1SENEZmNhMTlndHZTcHFWQi1zRm82bVd4cmdWUGl4eEFTb0xULUlPMlRRbk1iLUdSODhDRXlfVkl2WklKNnY2ZmFmd1ZDZmktc215bEJadHlZUkZxanlXa19UQ0FkX3hwYW9ackhyUUtDcVlLbmZtR3lQbmduTnB6QnBkZw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Petrol piyasaları, Hürmüz Boğazı'ndan çıkış yapan tankerlerle kısa vadede aşırı arz sinyalleri göstermeye başladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-24T20:01:19.398354+00:00",
-  "type": "news",
-  "cluster_id": "c2d523ae00170"
  }
 ]
