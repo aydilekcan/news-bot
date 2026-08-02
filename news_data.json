@@ -1,5 +1,53 @@
 [
  {
+  "title": "Trump İran'a yönelik saldırıları iptal etti",
+  "link": "https://www.trthaber.com/haber/dunya/trump-irana-yonelik-saldirilari-iptal-etti-952841.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Başkanı Trump, İran'la anlaşmanın ana hatları üzerinde uzlaşma sağlandığını belirterek planlanan saldırıları iptal etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-08-02T03:01:05.145294+00:00",
+  "type": "news",
+  "cluster_id": "c6d94ed1288f0"
+ },
+ {
+  "title": "Devlerin faiz yükü 1 trilyona dayandı",
+  "link": "https://www.sozcu.com.tr/devlerin-faiz-yuku-1-trilyona-dayandi-p341630",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye'nin dev sanayi şirketlerinin borç yükü 5 yılda 5 kat artarken finansman gideri de 4 kat yükseldi; borç stoku 1 trilyona ulaştı.",
+  "metric": "Borç yükü 5 yılda 5 kat artış; Finansman gideri 4 kat artış",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-08-02T03:01:05.145294+00:00",
+  "type": "news",
+  "cluster_id": "cde5f842a776c"
+ },
+ {
+  "title": "EXCLUSIVE: Japan to announce Tokyo, Washington took joint action on yen, sources say",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeWRxZmUtQUZfS21oaHA2QVRaX0FYX09hRTBYRXZ6dnZ4dzAxamMzREtPN2laazBKdDNacXg3UUcxbS1fM3VSNGV4bDFNVkJPU3RCUWFDZjlDQ3VaTV9zTmQzaDgxYlV1MmNJcFZZcmJvRG9qSlRWTnZlQ1MyTm14OVItU2M2cDJfcklTdERRR2xBZ09FVWtYVkhZaTJiQXE5S0Q1eUNFdE5fbGl1X3VyUko1bHFiQ1M2SExvVw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Japonya ve ABD, yen üzerinde ortak işlem yaptıklarını duyuracak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-02T03:01:05.145294+00:00",
+  "type": "news",
+  "cluster_id": "ca6121d39cf74"
+ },
+ {
+  "title": "Zamsız maaş, satış şüphesi doğurdu",
+  "link": "https://www.sozcu.com.tr/zamsiz-maas-satis-suphesi-dogurdu-p341631",
+  "source": "Sözcü",
+  "summary_tr": "ASELSAN personeline maaş zammı yapılmadığı; BlackRock tarafından satın alınma iddiaları gündemde.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-02T03:01:05.145294+00:00",
+  "type": "news",
+  "cluster_id": "c5816f8e54f08"
+ },
+ {
   "title": "Iran threatens to strike other nations' energy fields if US launches fresh attacks",
   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnFCZlNtaWNsWjNfQzZYSUltNnlianRRMlRsUmVqWFNEWlEwWERhVmp5dVdSazcwNmo4bTNzQjNwcW1rS1pYSFRzUXZvUkF5dEFRYzY4T3Q4UUF0ZVBFLXlxVzA5YnRXZTliVWN0M2ZlcV9WVEw4ZjZqblVxOFJ6N2JmX1FMSk5HUXdLWWpOM2l1SWI3b0E2NHB5UU5rLUFRbjRXUEZ6ajZ1VUt1N0JIdURWT1VNbkVHX2UxUVU1b1lFTzY4aFNaOEJ5TTJJdw?oc=5",
   "source": "Reuters",
@@ -59950,53 +59998,5 @@
   "ts": "2026-06-24T11:01:12.670630+00:00",
   "type": "news",
   "cluster_id": "cd03ebab06b69"
- },
- {
-  "title": "Global physical crude markets mired in discounts as Middle East ramps up supply",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLXUxZVlBdXJnZm1yZjBMY0p2LXNzMGdBTFliN0trUVU3eExBM1h3Zmd2T0tTX0VOdm5OOWFZMFJBaEc4cVRUOHlfSnQ4bWJlT0tzWjVCaUt2WU1tV0JwMDZRd3VWMFhZM2d2RkVVdGh0d0t4ZmcxTWQwUkQzSnZBOUxDTXMxbEtLUXpTYk9CUGJudGxiazlNR2owQ2VpNDhDVHJiXzRWQ3hhd2kza2ZNMDVrTjdjbWl0eWFXUFlndHlubmM?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Orta Doğu'nun petrol arzını artırması sonrası küresel ham petrol piyasaları indirim basıncı altında.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-24T11:01:12.670630+00:00",
-  "type": "news",
-  "cluster_id": "c3e11cee1737d"
- },
- {
-  "title": "ABD Kongresi'nden Trump'a İran çıkışı: 'Ya savaşı bitir ya onayımızı al'",
-  "link": "https://www.bbc.com/turkce/articles/c4gy73408e2o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD Kongresi, Başkan Trump'ın İran'daki askeri operasyonlarını durdurmasını ya da devam ettirmeden önce Kongre onayı almasını istedi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-24T10:01:19.068587+00:00",
-  "type": "news",
-  "cluster_id": "cca968d7233d8"
- },
- {
-  "title": "Halkın enflasyonunda acı tablo: Gıda fiyatları 73 aydır kesintisiz yükseliyor",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/halkin-enflasyonunda-aci-tablo-gida-fiyatlari-73-aydir-kesintisiz-yukseliyor-2514984",
-  "source": "Cumhuriyet",
-  "summary_tr": "BKK araştırmasına göre gıda fiyatları 73 aydır kesintisiz yükseliyor; halkın enflasyonu kritik seviyede.",
-  "metric": "Gıda fiyat artış süresi 73 ay",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-06-24T10:01:19.068587+00:00",
-  "type": "news",
-  "cluster_id": "ced38fe7d4eb8"
- },
- {
-  "title": "Türkiye'deki NATO zirvesi öncesi Berlin'de kritik toplantı",
-  "link": "https://www.dw.com/tr/türkiye-deki-nato-zirvesi-öncesi-berlin-de-kritik-toplantı/a-77687381?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Türkiye'de düzenlenecek NATO zirvesinden önce beş Avrupa ülkesinin liderleri Almanya'da müttefikler arasındaki kritik konuları görüştü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-24T10:01:19.068587+00:00",
-  "type": "news",
-  "cluster_id": "c40003e6a94ba"
  }
 ]
