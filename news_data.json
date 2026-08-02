@@ -1,5 +1,29 @@
 [
  {
+  "title": "Erdal Beşikçioğlu'na tutuklama talebi",
+  "link": "https://www.sozcu.com.tr/etimesgut-sorusturmasinda-44-kisi-hakkinda-karar-p341782",
+  "source": "Sözcü",
+  "summary_tr": "Etimesgut Belediye Başkanı Erdal Beşikçioğlu tutuklama talebiyle mahkemeye sevk edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-02T16:01:00.393681+00:00",
+  "type": "news",
+  "cluster_id": "c6131804db012"
+ },
+ {
+  "title": "Yakalanan FETÖ'cü firari terörist Karatepe ile irtibatlı kişi tutuklandı",
+  "link": "https://www.trthaber.com/haber/turkiye/yakalanan-fetocu-firari-terorist-karatepe-ile-irtibatli-kisi-tutuklandi-952881.html",
+  "source": "TRT Haber",
+  "summary_tr": "FETÖ'nün 15 Temmuz darbe girişiminde Cumhurbaşkanı'na suikast teşebbüsünde bulunan Burkay Karatepe ile irtibatlı bir kişi tutuklandı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-02T16:01:00.393681+00:00",
+  "type": "news",
+  "cluster_id": "c51fcd07875d0"
+ },
+ {
   "title": "Trump'ın açıklamasına İran'dan sert tepki: \"yeni bir yalan\"",
   "link": "https://www.dw.com/tr/trump-ın-açıklamasına-iran-dan-sert-tepki-yeni-bir-yalan/a-78207815?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-24T20:01:19.398354+00:00",
   "type": "news",
   "cluster_id": "c2d523ae00170"
- },
- {
-  "title": "Reuters: ABD KAAN uçaklarına motor satışına izin verecek",
-  "link": "https://www.bbc.com/turkce/articles/c05y9q2dqnyo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD, Türkiye'nin yerli KAAN uçaklarına motor satışına izin verecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-24T19:01:08.068273+00:00",
-  "type": "news",
-  "cluster_id": "ca66857e668a4"
- },
- {
-  "title": "Emniyet, vergi ve basın mevzuatındaki değişiklikler Meclis'ten geçti",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/emniyet-vergi-ve-basin-mevzuatindaki-degisiklikler-meclis-ten-gecti-2515146",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM, Emniyet Teşkilatında amir rütbe oranları ve atama şartlarını yeniden belirleyen yasayı kabul etti.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-24T19:01:08.068273+00:00",
-  "type": "news",
-  "cluster_id": "ce7cf0cd7b5a4"
  }
 ]
