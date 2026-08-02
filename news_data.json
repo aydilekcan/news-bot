@@ -1,5 +1,29 @@
 [
  {
+  "title": "LPG'ye zam bekleniyor: Güncel akaryakıt fiyatları",
+  "link": "https://www.diken.com.tr/lpgye-zam-bekleniyor-guncel-akaryakit-fiyatlari/?utm_source=rss&utm_medium=rss&utm_campaign=lpgye-zam-bekleniyor-guncel-akaryakit-fiyatlari",
+  "source": "Diken",
+  "summary_tr": "LPG'ye 2 lira 45 kuruş zam bekleniyor. Akaryakıt fiyatları yükseliş gösteriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-02T13:01:02.537698+00:00",
+  "type": "news",
+  "cluster_id": "c7376e8e66663"
+ },
+ {
+  "title": "OPEC+ üyesi 7 ülke, eylülde petrol üretimini günlük 188 bin varil artıracak",
+  "link": "https://www.aa.com.tr/tr/ekonomi/opec-uyesi-7-ulke-eylulde-petrol-uretimini-gunluk-188-bin-varil-artiracak/4016318",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "OPEC+ grubu 7 üye ülke, eylülde petrol üretimini günlük 188 bin varil artıracak. Enerji piyasasında önemli gelişme.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-02T13:01:02.537698+00:00",
+  "type": "news",
+  "cluster_id": "c80adfe0b85e3"
+ },
+ {
   "title": "Pompa fren tutmuyor: Dün bugün yarın",
   "link": "https://www.sozcu.com.tr/pompa-fren-tutmuyor-dun-bugun-yarin-p341755",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-24T17:01:11.728819+00:00",
   "type": "news",
   "cluster_id": "cdfd8eac24f24"
- },
- {
-  "title": "Reuters'tan çok konuşulacak iddia! Trump Kongre'nin itirazlarına rağmen Türkiye'ye jet motoru satışını onaylıyor\"",
-  "link": "https://www.sozcu.com.tr/abd-turkiye-ye-jet-motoru-satacak-iddiasi-p330844",
-  "source": "Sözcü",
-  "summary_tr": "Trump yönetimi, Kongre'nin itirazlarına rağmen Türkiye'ye jet motoru satışını onaylamaya hazırlanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-24T17:01:11.728819+00:00",
-  "type": "news",
-  "cluster_id": "c754695ff3738"
- },
- {
-  "title": "EXCLUSIVE: US to move forward with Turkey jet engine sales ahead of NATO summit, sources say",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORHZBcXlkVU9EbDhWVWgyV0tpTDlTUndYdnNpZk1vMzFuQXBGTHdGTFB2WWVFdkFpeGNPQXFManowX1NHdWxqTjZFVU9NSG9DaGk5ODRBNmhNNE9sSl8tX3FTdmdxUGpjeWxQa2RMb2ZFdm1uZDlWYTNNWE44M1hzeVY5NnVxU1RLTTVyQ0hXazN2em9fMjV5SnZlLUo5V3BPVEUxSE5QVTY5cHZXQW54VUFsYXpJY3NnV0hIQWJTLXZlcW5HY004?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, NATO Zirvesi öncesinde Türkiye'ye jet motoru satışını ileri götürmeye hazırlanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-24T17:01:11.728819+00:00",
-  "type": "news",
-  "cluster_id": "c84caa7feb215"
  }
 ]
