@@ -1,5 +1,41 @@
 [
  {
+  "title": "Trump, bir anlaşmanın ana hatları üzerinde uzlaştıkları için İran'a saldırıları durdurduğunu açıkladı",
+  "link": "https://www.aa.com.tr/tr/dunya/trump-bir-anlasmanin-ana-hatlari-uzerinde-uzlastiklari-icin-irana-saldirilari-durdurdugunu-acikladi/4016067",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, İran'la anlaşma sağlandığını belirterek İran'a yönelik planlanan saldırıları durdurduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-02T04:00:58.674041+00:00",
+  "type": "news",
+  "cluster_id": "c7ced28855625"
+ },
+ {
+  "title": "Trump says he will hold off on fresh Iran attack in hope of quick deal",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnFCZlNtaWNsWjNfQzZYSUltNnlianRRMlRsUmVqWFNEWlEwWERhVmp5dVdSazcwNmo4bTNzQjNwcW1rS1pYSFRzUXZvUkF5dEFRYzY4T3Q4UUF0ZVBFLXlxVzA5YnRXZTliVWN0M2ZlcV9WVEw4ZjZqblVxOFJ6N2JmX1FMSk5HUXdLWWpOM2l1SWI3b0E2NHB5UU5rLUFRbjRXUEZ6ajZ1VUt1N0JIdURWT1VNbkVHX2UxUVU1b1lFTzY4aFNaOEJ5TTJJdw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, İran'la hızlı bir anlaşma umudunda yeni saldırıları ertelemeyi kararlaştırdığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-02T04:00:58.674041+00:00",
+  "type": "news",
+  "cluster_id": "ce7ef5d93a0cc"
+ },
+ {
+  "title": "Trump says he will order halt to Iran strikes after parameters reached for deal to end war",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjdiZU1CVmhFWmRaYWtqRW82NnNUMEZjRzNlR293WTljQW1McXpnY3BiLXdWbVdobmRIdUJDVmVuWngwUHRVSUtyMkJjejRkQTl4WU0xc2xfcFpwaHBKamZGdUNqd1RIblhERllZY01hYjlmVUdOblVIVGxjTjVqVndGSURnTGJ5M2U5Vkp6dDVIRHZPZW8wTmRYaXl4WmQtejR6SzFBaw?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump, savaşı bitirmek için anlaşmanın ana hatlarına varıldığını belirterek İran'a yönelik saldırıları durdurma emri vereceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-02T04:00:58.674041+00:00",
+  "type": "news",
+  "cluster_id": "cc39b0c739127"
+ },
+ {
   "title": "Trump İran'a yönelik saldırıları iptal etti",
   "link": "https://www.trthaber.com/haber/dunya/trump-irana-yonelik-saldirilari-iptal-etti-952841.html",
   "source": "TRT Haber",
@@ -59962,41 +59998,5 @@
   "ts": "2026-06-24T11:01:12.670630+00:00",
   "type": "news",
   "cluster_id": "cb516ed898e3e"
- },
- {
-  "title": "Alman ekonomisi yeniden umutlanıyor",
-  "link": "https://www.dw.com/tr/alman-ekonomisi-yeniden-umutlanıyor/a-77688847?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Almanya ekonomisine olan güven Haziran'da yükseldi. Ifo iş iklimi endeksi 85,0'dan 85,6 puana çıktı.",
-  "metric": "Ifo iş iklimi endeksi 85,0 -> 85,6 (+0,6 puan)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-24T11:01:12.670630+00:00",
-  "type": "news",
-  "cluster_id": "cedff0dd817df"
- },
- {
-  "title": "İki dev banka aynı kararı aldı: 95 şube birden kapatılıyor",
-  "link": "https://www.sozcu.com.tr/iki-dev-banka-ayni-karari-aldi-95-sube-birden-kapatiliyor-p330761",
-  "source": "Sözcü",
-  "summary_tr": "Lloyds Bank ve Halifax dijital bankacılığa geçiş kapsamında 95 şubesini kapatıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-24T11:01:12.670630+00:00",
-  "type": "news",
-  "cluster_id": "c9f77313e8542"
- },
- {
-  "title": "Doğu Karadeniz'in su ürünleri ihracatı 5 ayda 73,7 milyon doları aştı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/dogu-karadenizin-su-urunleri-ihracati-5-ayda-73-7-milyon-dolari-asti/3976552",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Doğu Karadeniz'in su ürünleri ihracatı ocak-mayıs döneminde geçen yılın aynı dönemine göre yüzde 6 artarak 73,7 milyon doları aştı.",
-  "metric": "Su ürünleri ihracatı (ocak-mayıs) +%6",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-24T11:01:12.670630+00:00",
-  "type": "news",
-  "cluster_id": "cd03ebab06b69"
  }
 ]
