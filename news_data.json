@@ -1,5 +1,77 @@
 [
  {
+  "title": "Otomotiv endüstrisi temmuzda yaklaşık 3,6 milyar dolarlık ihracatla ilk sırada yer aldı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/otomotiv-endustrisi-temmuzda-yaklasik-3-6-milyar-dolarlik-ihracatla-ilk-sirada-yer-aldi/4016997",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Otomotiv sektörü temmuz ayında 3,586 milyar dolarlık ihracatla en yüksek ihracat yapan sektör oldu.",
+  "metric": "Otomotiv ihracatı (temmuz): 3,586 milyar dolar",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-03T11:01:06.101065+00:00",
+  "type": "news",
+  "cluster_id": "c896a92552583"
+ },
+ {
+  "title": "Savunma ve havacılıktan 1,12 milyar dolarlık ihracat",
+  "link": "https://www.trthaber.com/haber/ekonomi/savunma-ve-havaciliktan-112-milyar-dolarlik-ihracat-952946.html",
+  "source": "TRT Haber",
+  "summary_tr": "Savunma ve havacılık sektörü temmuzda 1,12 milyar dolarlık ihracat yaparak geçen yılın aynı dönemine göre yüzde 14,4 artış sağladı.",
+  "metric": "Savunma ve havacılık ihracatı (temmuz): %14,4 artış ile 1,12 milyar dolar",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-03T11:01:06.101065+00:00",
+  "type": "news",
+  "cluster_id": "cf8f892e030c4"
+ },
+ {
+  "title": "Dolar endeksi 2 ayın ardından değer kaybediyor",
+  "link": "https://www.sozcu.com.tr/dolar-endeksi-2-ayin-ardindan-deger-kaybediyor-p341973",
+  "source": "Sözcü",
+  "summary_tr": "Dolar endeksi 2 ayın ardından değer kaybetmeye başladı. Fed'in enflasyon ile mücadelede yeterli adımlar almayacağı beklentisi dolar talebini azalttı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-03T11:01:06.101065+00:00",
+  "type": "news",
+  "cluster_id": "c31602fb53a92"
+ },
+ {
+  "title": "Yendeki tarihi değer kaybı ABD ve Japonya'yı ortak operasyona zorladı",
+  "link": "https://www.aa.com.tr/tr/dunya/yendeki-tarihi-deger-kaybi-abd-ve-japonyayi-ortak-operasyona-zorladi/4016944",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Japon yenindeki hızlı değer kaybı nedeniyle ABD ve Japonya ortak operasyona gitti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-03T11:01:06.101065+00:00",
+  "type": "news",
+  "cluster_id": "cf0f3cd8c9cfb"
+ },
+ {
+  "title": "Şimşek: Hizmet enflasyonunda katılık azalıyor",
+  "link": "https://www.trthaber.com/haber/ekonomi/simsek-hizmet-enflasyonunda-katilik-azaliyor-952941.html",
+  "source": "TRT Haber",
+  "summary_tr": "Hazine ve Maliye Bakanı Şimşek, alınan tedbirler ve dezenflasyon sürecinin etkisiyle hizmet enflasyonundaki katılığın azaldığını bildirdi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-03T11:01:06.101065+00:00",
+  "type": "news",
+  "cluster_id": "c85823183e139"
+ },
+ {
+  "title": "Dış ticaret açığı: 7,4 milyar dolar (Temmuz 2025)",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRzFnV0xrWWE5RmwxU2tEejEwekl1T0wyeGNxVE5aZVZ5RlFwSUtQY28wQ0RSR2lTODZ4SHdrYnBFOVNTSHo0VmpEcEpDOWdfanhXbUhzX200aXBjZTRsZzZydjNRbFNacWV0eEVLWUpCM3daNmJFSXhaVjVZamRwTkJ4NlczMXI2NmhUem95c0FIYUZzcUx4a2lybjBmbmJ5NzdYR2JZQVVHRHM2Y0lTaUlsSjdFZjNJY3NfU0FvZk9zR3RuZjhkUi1NWnlRYzNIREpyMENVMHVjdw?oc=5",
+  "source": "Ticaret Bakanlığı",
+  "summary_tr": "10,4 milyar $ → 7,4 milyar dolar (%-28,8)",
+  "metric": "%-28,8",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-03T11:01:06.101065+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Cevdet Yılmaz: Kalıcı fiyat istikrarı hedefiyle reform adımlarımızı sürdüreceğiz",
   "link": "https://www.trthaber.com/haber/gundem/cevdet-yilmaz-kalici-fiyat-istikrari-hedefiyle-reform-adimlarimizi-surdurecegiz-952935.html",
   "source": "TRT Haber",
@@ -59926,77 +59998,5 @@
   "ts": "2026-06-25T11:01:24.056542+00:00",
   "type": "news",
   "cluster_id": "ce545b20ad5ed"
- },
- {
-  "title": "ABD’den Türkiye’ye F-35 mesajı: Satış için inceleme başlatıldı",
-  "link": "https://www.cumhuriyet.com.tr/dunya/abd-den-turkiye-ye-f-35-mesaji-satis-icin-inceleme-baslatildi-2515314",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Başkan Yardımcısı JD Vance, Türkiye'ye F-35 savaş uçağı satışının nasıl mümkün olabileceğine ilişkin bir inceleme yürütüldüğünü açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-25T11:01:24.056542+00:00",
-  "type": "news",
-  "cluster_id": "c3986c2221873"
- },
- {
-  "title": "E5 Liderleri Berlin'de toplandı... Avrupa'nın NATO'daki rolü güçlendirilecek",
-  "link": "https://www.cumhuriyet.com.tr/dunya/e5-liderleri-berlin-de-toplandi-avrupa-nin-nato-daki-rolu-guclendirilecek-2515313",
-  "source": "Cumhuriyet",
-  "summary_tr": "Fransa, Almanya, İtalya, Polonya ve Birleşik Krallık liderleri, Avrupa-Atlantik güvenliğini ilgilendiren tehditler konusunda toplandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-25T11:01:24.056542+00:00",
-  "type": "news",
-  "cluster_id": "c9857d9e8bccc"
- },
- {
-  "title": "Erzurum’da emekliler isyan etti",
-  "link": "https://www.sozcu.com.tr/erzurum-da-emekliler-isyan-etti-p331070",
-  "source": "Sözcü",
-  "summary_tr": "Erzurum'da emekliler Temmuz ayında yapılacak maaş zammına kilitlenmiş durumda.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-25T11:01:24.056542+00:00",
-  "type": "news",
-  "cluster_id": "c15a696046ce4"
- },
- {
-  "title": "Fransa, Rus \"gölge filosu\"na ait olduğu düşünülen petrol tankerine el koydu",
-  "link": "https://www.aa.com.tr/tr/dunya/fransa-rus-golge-filosuna-ait-oldugu-dusunulen-petrol-tankerine-el-koydu/3977718",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Fransa Cumhurbaşkanı Macron, Fransız donanmasının Rusya'nın yaptırımlarını delmek için kullandığı \"gölge filo\"suna ait olduğu düşünülen petrol tankerine el koydu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-25T11:01:24.056542+00:00",
-  "type": "news",
-  "cluster_id": "ca2e4054203b0"
- },
- {
-  "title": "Kalkınma Yolu'nda ilk hedef demir yolu hattının tamamlanması",
-  "link": "https://www.trthaber.com/haber/ekonomi/kalkinma-yolunda-ilk-hedef-demir-yolu-hattinin-tamamlanmasi-949310.html",
-  "source": "TRT Haber",
-  "summary_tr": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Kalkınma Yolu'nda ilk etapta demir yolunun hayata geçirileceğini belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-25T11:01:24.056542+00:00",
-  "type": "news",
-  "cluster_id": "c25a0a61e0d60"
- },
- {
-  "title": "Amazon, Microsoft cloud computing services should fall under EU tech rules, EU regulators say",
-  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR1BQRlVrQkliUkJJbW8xalpOR21kdkhzRG10cEh6cHZ6bkZ6WDk4WF9Ra1JuU1lva2MwR3VGLXNicWE4Y1lzaWRtbkFmeUtNUU40YkM0SUJTLU9BWVd6Q1FhOUtCSFI1MEdrbE8xVXpWT3h4cDhSa3E2aGFySUFJNVkxMHQ0TU9KQ1VIVUFuS29SQi0tbHZvYVVXdC1ldVRlV3Z2Q1ptdHVTb0lVdHJ5WXBqTHlZMldvcUFXUC1WRVlLWlc1OWhxTkpsZGRMMUtRQTU0?oc=5",
-  "source": "Reuters",
-  "summary_tr": "AB düzenleyicileri, Amazon ve Microsoft'un bulut bilişim hizmetlerinin AB teknoloji kuralları kapsamına alınması gerektiğini söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-25T11:01:24.056542+00:00",
-  "type": "news",
-  "cluster_id": "cba6c43874d61"
  }
 ]
