@@ -1,5 +1,29 @@
 [
  {
+  "title": "İTO’ya göre 199 ürünün fiyatı arttı",
+  "link": "https://www.sozcu.com.tr/ito-ya-gore-199-urunun-fiyati-artti-p341842",
+  "source": "Sözcü",
+  "summary_tr": "İstanbul'da 199 ürünün fiyatı artış gösterdi; aylık enflasyon %2,06 olarak ölçüldü.",
+  "metric": "İstanbul aylık enflasyon %2,06",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-03T01:01:03.866470+00:00",
+  "type": "news",
+  "cluster_id": "c198ea5d33e5e"
+ },
+ {
+  "title": "Faiz dışı bütçe fazlası: 521 milyar lira",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRXZOOEYwZ2VLajllTFRFZmZyNjlvRDVINktFbml0YTd2ZHlTb2djS3dMR3pqYVlXR2hpT2VBY0otbERDclBPYlF0d203YXRacUlDNFM3Y09ObWFzSEpDSlY0SURxTmVZRXY0UGJ0c1ZPWHNOQ2VRSkRyOThPNmt0MEYwNVlFdFFTanRvb01hUWtDWXhtTEY0?oc=5",
+  "source": "Hazine ve Maliye Bakanlığı",
+  "summary_tr": "521 milyar TL → 521 milyar lira",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-03T01:01:03.866470+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Trump İran ile yeni müzakerelerin başlayacağını duyurdu",
   "link": "https://www.bbc.com/turkce/articles/cn8n2zx45v7o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-24T23:01:04.958990+00:00",
   "type": "news",
   "cluster_id": "c61c232676623"
- },
- {
-  "title": "Fed'in stres testi, ABD'nin büyük bankalarının olası bir resesyona karşı dayanıklı olduğunu gösterdi",
-  "link": "https://www.aa.com.tr/tr/dunya/fedin-stres-testi-abdnin-buyuk-bankalarinin-olasi-bir-resesyona-karsi-dayanikli-oldugunu-gosterdi/3977198",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Fed stres testi, ABD'nin büyük bankalarının ciddi resesyonu atlatabilecek dayanıklılığa sahip olduğunu gösterdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-24T22:01:10.567152+00:00",
-  "type": "news",
-  "cluster_id": "c496f055924c2"
- },
- {
-  "title": "Qualcomm forecasts $15 billion data center chip sales by 2029, shares soar",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYnR1NDI4aWZHU3RPUlpodXhUMGlKSXFMU3k0QWZOY2hYSVdsVDlDdnhuSF9BaHh3UlV2WURZeFZQVGVKSFluTlJ4WmVHTEJVQy04clNMR3VONzUycVVUNm5zcHhOVW9EcmdGVXFtR2V6bEVMeE4zOVVNUnAyYUpnRklIWWh3eTZyR0lnUzBkeGNiWXhMRFN4ME9IZm9WMlFwM2I0eC1mY2lwY1B3T21RYUhqNjhNbXhGcHB5UHQxOTlQcXJfN2VV?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Qualcomm, 2029 yılına kadar veri merkezi çip satışlarının 15 milyar dolara ulaşacağını tahmin etti; hisseler yükseldi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-24T22:01:10.567152+00:00",
-  "type": "news",
-  "cluster_id": "c40513317df2b"
  }
 ]
