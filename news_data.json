@@ -1,5 +1,53 @@
 [
  {
+  "title": "Enflasyon yavaşlarken alım gücü neden azalıyor?",
+  "link": "https://www.dw.com/tr/enflasyon-yavaşlarken-alım-gücü-neden-azalıyor/a-78218303?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Enflasyon yavaşlamasına rağmen ücretler sabit kaldığı için asgari ücretin alım gücü yaklaşık 5.600 lira kaybetti.",
+  "metric": "Asgari ücret alım gücü kaybı: ~5.600 TL",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-03T16:01:04.442168+00:00",
+  "type": "news",
+  "cluster_id": "c2be1210a3e2a"
+ },
+ {
+  "title": "Çerçeve yasa teklifi Meclis'te AKP'li milletvekillerinin imzasına açıldı",
+  "link": "https://www.bbc.com/turkce/articles/c74gj9em7llo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "AKP çerçeve yasa teklifini TBMM'ye sunmak için milletvekillerinin imzasını topluyor; 4 Ağustos saat 17.00'ye kadar imza alınacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-03T16:01:04.442168+00:00",
+  "type": "news",
+  "cluster_id": "c609799b0875e"
+ },
+ {
+  "title": "US manufacturing activity jumps to more than four-year high in July",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS1pRYktWWVFTT181ekNrN3VSNXR5WGJBTG1PVlRkNl9HZlk0TUxvaXhpRVp6bXZwQUc5MzdPWXEzTGN2U1lUY3BPdEtLOEtvQlhCUDVpekMzVlpMZy1ra010ZW1pYkdSdTMwUHRCa1VNckNaUnVsRWRJdGNxZlMwSnREWWk1eVpyUUo0NWdIZzU5VlpSeWtNa25LUTFXcnFGd1lFYkV2elpEQQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD imalat sektörü aktivitesi Temmuz'da dört yılın en yüksek seviyesine ulaştı; AI ve teknoloji tarafından destekleniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-03T16:01:04.442168+00:00",
+  "type": "news",
+  "cluster_id": "cc1092913d4c9"
+ },
+ {
+  "title": "Şehit aileleri ve gazilerin haklarına yönelik düzenlemeleri içeren kanun teklifi TBMM Başkanlığına sunuldu",
+  "link": "https://www.aa.com.tr/tr/gundem/sehit-aileleri-ve-gazilerin-haklarina-yonelik-duzenlemeleri-iceren-kanun-teklifi-tbmm-baskanligina-sunuldu/4017327",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "AK Parti, şehit aileleri ve gazilerin haklarına yönelik düzenlemeleri içeren kanun teklifini TBMM Başkanlığına sundu.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-03T16:01:04.442168+00:00",
+  "type": "news",
+  "cluster_id": "ce6cc154df05d"
+ },
+ {
   "title": "Öcalan “Yetmez ama, evet” dedi, Terörsüz Türkiye yasasında top Meclis’te",
   "link": "https://yetkinreport.com/2026/08/03/ocalan-yetmez-ama-evet-dedi-terorsuz-turkiye-yasasinda-top-mecliste/",
   "source": "YetkinReport",
@@ -59950,53 +59998,5 @@
   "ts": "2026-06-25T17:01:05.903811+00:00",
   "type": "news",
   "cluster_id": "c22e194f820b4"
- },
- {
-  "title": "Supreme Court lets Trump end deportation protections for Syrians and Haitians",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVHJOZVBScjFUMXNsbktUM3Z1ckZ5RXJtMDlqYkhySVBTX2xzOXFIcVozQWdMdnpZa0N0NnJDSTlXa1JaWWdVbFRFRXZENjVJUzZpZE1BNExCdlZOcm5iV1phWWlTdlc4SnM2ZV8tUTdGSUlCMDROMnF1MVd3bGtDMVRsTXZQNC04N0RRMWRMWTlZSG5FcE1VSjFNVWpKa215Ty14bE8xNzZ2aTRkaGtIeQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD Yüksek Mahkemesi, Trump yönetiminin Suriye ve Haiti uyrukluların sınırdışı korunma statüsünü sonlandırmasına izin verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-25T17:01:05.903811+00:00",
-  "type": "news",
-  "cluster_id": "ce58e0c801915"
- },
- {
-  "title": "The Supreme Court lets the Trump administration end legal protections for Haitians and Syrians",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTFZFZDU5c1hnMWFhOTcxa196M1NaZ09RU3lNOWxOQm56ekRKNkhYX19OSDhuNWxoejI0TDV1eWtuWlR5Z3JYZHRRWU9pcENHTlRrajdYSDZvNkNtMVZnc1E1TXNkbk10UUZIUWM4THBfd3pRNlBoUUVCRTZxVDlfaW45RmxrVUtLb0w3NG9IVEQwSEZLQVBubEZ6LXRnWnNUTjZF?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD Yüksek Mahkemesi, Trump yönetiminin Haitili ve Suriyelilerin yasal korunma statüsünü sonlandırmasına izin verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-25T17:01:05.903811+00:00",
-  "type": "news",
-  "cluster_id": "ce58e0c801915"
- },
- {
-  "title": "US May PCE inflation rises 4.1%, keeping Fed hike in play",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTkttQ2dqWE53WS1XUWNlT0FUb2pERERFc2pkTEFDSV9tU3JUaWk3aEs5SjAxMnd3amRlZG12N0gtcFN5My1Bb0JkR3BzSGMwSHJzNE1JX2hEMmRkNW1IbnpaRHNiUVEzMDBVaFphUlVjUS1hUDFtMW9pYjI0SmVIeTljUDFUTkRXdEMzdUxSM2hTXzlYUndiU084c05sY0w1dFNINFVxeldPNlhU?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD Mayıs ayı PCE enflasyonu %4,1'e yükseldi; Fed faiz artırımı ihtimalini canlı tutuyor.",
-  "metric": "US PCE inflation %3,8 -> %4,1 (+0,3 puan)",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-25T16:01:08.405226+00:00",
-  "type": "news",
-  "cluster_id": "c8e7eb331407a"
- },
- {
-  "title": "Apple, yüksek çip maliyetleri dolayısıyla bazı ürünlerinin fiyatlarında artışa gitti",
-  "link": "https://www.aa.com.tr/tr/bilim-teknoloji/apple-yuksek-cip-maliyetleri-dolayisiyla-bazi-urunlerinin-fiyatlarinda-artisa-gitti/3978056",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Apple, yüksek çip maliyetleri nedeniyle iMac, MacBook, iPad ve Vision Pro gibi ürünlerin fiyatlarını yükseltti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-25T16:01:08.405226+00:00",
-  "type": "news",
-  "cluster_id": "cfdcb52cf4f99"
  }
 ]
