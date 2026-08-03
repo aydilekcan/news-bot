@@ -1,5 +1,77 @@
 [
  {
+  "title": "İsrail'de Savunma Bakanı Katz ile ordu arasında \"komutan değişimi\" krizi",
+  "link": "https://www.aa.com.tr/tr/dunya/israilde-savunma-bakani-katz-ile-ordu-arasinda-komutan-degisimi-krizi/4017552",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail Savunma Bakanı Katz, Merkez Bölge Komutanını görevden alarak yerine Dado Bar Kalifa'yı atadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-03T22:01:13.518069+00:00",
+  "type": "news",
+  "cluster_id": "caa67dbffeab5"
+ },
+ {
+  "title": "Terörsüz Türkiye düzenlemesi imzaya açıldı: Bugün milletvekilleri tarafından imzalanması bekleniyor",
+  "link": "https://www.trthaber.com/haber/gundem/terorsuz-turkiye-duzenlemesi-imzaya-acildi-bugun-milletvekilleri-tarafindan-imzalanmasi-bekleniyor-952991.html",
+  "source": "TRT Haber",
+  "summary_tr": "AK Parti TBMM'de 'Terörsüz Türkiye' Çerçeve Kanun Teklifini milletvekilleri tarafından imzalanması için açtı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-03T22:01:13.518069+00:00",
+  "type": "news",
+  "cluster_id": "cc069df14c31e"
+ },
+ {
+  "title": "Trump'tan ExxonMobil ve Chevron'a tepki: 'Çok fazla para kazanıyorlar, bu hoşuma gitmiyor'",
+  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-exxonmobil-ve-chevron-a-tepki-cok-fazla-para-kazaniyorlar-bu-hosuma-gitmiyor-2526259",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD Başkanı Trump, yüksek kar açıklayan petrol şirketleri ExxonMobil ve Chevron'a tepki gösterdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-03T22:01:13.518069+00:00",
+  "type": "news",
+  "cluster_id": "ce3bcd76f8e89"
+ },
+ {
+  "title": "Hamas: Gazzede ikinci aşamaya ilişkin mutabakata bağlıyız",
+  "link": "https://www.trthaber.com/haber/dunya/hamas-gazzede-ikinci-asamaya-iliskin-mutabakata-bagliyiz-952989.html",
+  "source": "TRT Haber",
+  "summary_tr": "Hamas, Gazze'deki ateşkes anlaşmasının ikinci aşamasının uygulanmasına ilişkin mutabakata bağlı olduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-03T22:01:13.518069+00:00",
+  "type": "news",
+  "cluster_id": "cf15f57e5e563"
+ },
+ {
+  "title": "Voters prefer Democrats over Republicans on economy for first time in a decade, Reuters/Ipsos poll finds",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWE5YTnBRcFkwQUx5NXBHMGMtaFFHTWh3d1pSRmVodEV1SkRnQmVHbUQ2RDRVZ1U0SUROd2U4YUo4VW95WmFHNWlnQUVkOU1NelRpd0VSVzNTa3o1d1ZqT0JfbjBtTTFTVW9JZVFFbUdsT1Y4U045WElfZFhabjRUZWdKY3BMVVIxWnEwRXlZcjE3bWNTV3UzbGNzdjdOM3FhX2lpckxaR2RJQkhfNlFwc080VEV3RUJUVzNRNFQySkxYQQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Reuters/Ipsos anketine göre Amerikan seçmenleri ilk kez on yılda ekonomi konusunda Demokratları Cumhuriyetçilerden daha fazla tercih ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-03T22:01:13.518069+00:00",
+  "type": "news",
+  "cluster_id": "cfae6d4f2efac"
+ },
+ {
+  "title": "US stocks rally near a record as falling oil prices ease Wall Street’s worries about inflation",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWTMweFRadm51ZDBCVG5fZlAzdEFVZGZpZ2dVcVdsb0dfRHI4M3VzTWI4YllxTDBQUzJNUDQwLXFjZnVMMG43aW0zbnJ1ZmxyODhmdk1zeXhIVmdxc2F4OUlPNWZ6MFFZRTlKNnduenlqcjJDQ3JNWHpuZFBpejZmTXVva3ZwTWg1cnduR2hhMTJQYmVVZ3JacklNYw?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD borsa endeksi rekor seviyelerine yaklaşırken, petrol fiyatlarındaki düşüş enflasyon endişelerini hafiflettiği yönünde rally oluşturdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-03T22:01:13.518069+00:00",
+  "type": "news",
+  "cluster_id": "c1b44c64ff247"
+ },
+ {
   "title": "Zelenskiy dismisses Ukraine's ambassador to US",
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGREQll2Zjl2S1hoUmZUZFd0YzBvNDJGbm1KaWZOZFluRFJrM0ZFdTNZNHBKQi1nNVAyWEdZcnR5LUZ6NmxyakMzQVZVMGlMT1FfRjVMejk2VWNkZmhiNUg4WWxmYUZoVFNIdXNUWFd3Y1JrSGRkUVl3c1czWC0tQmxOTHBxb3lmcHFTRU13dldZX1JXMDNTczRtamVhLXhjY3YxcnlhZVZFOV9temp3?oc=5",
   "source": "Reuters",
@@ -59926,77 +59998,5 @@
   "ts": "2026-06-26T06:01:07.024740+00:00",
   "type": "news",
   "cluster_id": "c837058d148ff"
- },
- {
-  "title": "Suç örgütlerine ülke çapında operasyon",
-  "link": "https://www.trthaber.com/haber/turkiye/suc-orgutlerine-ulke-capinda-operasyon-949380.html",
-  "source": "TRT Haber",
-  "summary_tr": "24 ilde suç işlemek amacıyla örgüt kurma suçuna yönelik 35 operasyon yapıldı; 711 şüpheli hakkında adli işlem başlatıldı.",
-  "metric": "35 operasyon, 711 şüpheli",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-26T06:01:07.024740+00:00",
-  "type": "news",
-  "cluster_id": "c3fd87166cb75"
- },
- {
-  "title": "Morning Bid: Chipflation",
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kZUJQRkVoeVFWR0V4dWNNVFo2RHF2b1lYeTRuTWNMVkc1Mm9EUUJUZ2xmQWk4aFpKeDc1UGItakRnWFVrdVN5NGZrZnI0QnJUTm9ScXBlajJTMEhNWGViajgwMXlsUVJHb2NZdFBuWnZCX29YRU1XbGlFSmFLemM?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Reuters piyasa analizi: Çip sektöründe fiyat artışları (chipflation) tartışılıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-26T06:01:07.024740+00:00",
-  "type": "news",
-  "cluster_id": "c34518fe7159b"
- },
- {
-  "title": "Oil down 2% amid resumption of Hormuz shipments even as vessel hit near Oman",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWjhLRmoxOGtYcldWSWt2aDlpcExleWFoYzhFendSc0pJV0d0bE0wbUpvVzF5R1JwbHNsWEtfWm9vcnByc3NERm1RanQwRnVrZ1FrNVJ0OTZHMG5uRmhxaVMtbThOTU96b21VbkF5Ny1sV3V4bE5FZEJ0LUNxMFIxaTJjOTd1dUJxVE9zYlp0WFhLLUozVWNQX2lrd2E2SlRMVjI0Ym9Sb0pkMWJESWFQTFdaa3FlRkJoT21yajlpSTdCRVh5?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ham petrol fiyatları Hormuz Boğazı'ndan gemi sevkiyatlarının yeniden başlaması nedeniyle %2 düştü. Oman açıklarında gemi saldırısı gerçekleşmesine rağmen fiyatlar geriledi.",
-  "metric": "Petrol fiyatı -%2",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-26T05:01:04.909012+00:00",
-  "type": "news",
-  "cluster_id": "c0b9e14a1749e"
- },
- {
-  "title": "Murat Ülker neden 40 fabrikasını birden sattığını açıkladı",
-  "link": "https://www.sozcu.com.tr/murat-ulker-neden-40-fabrikasini-birden-sattigini-acikladi-p331250",
-  "source": "Sözcü",
-  "summary_tr": "Yıldız Holding Yönetim Kurulu Üyesi Murat Ülker, 2018'de yeniden yapılandırma çerçevesinde 40 fabrikasını satışının nedenlerini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-26T05:01:04.909012+00:00",
-  "type": "news",
-  "cluster_id": "cec2de264baf9"
- },
- {
-  "title": "Soma Santrali icradan satılıyor: 20 milyar TL borç birikti",
-  "link": "https://www.sozcu.com.tr/soma-santrali-icradan-satiliyor-20-milyar-tl-borc-birikti-p331242",
-  "source": "Sözcü",
-  "summary_tr": "Soma Termik Santrali, devlete olan kömür borçları sebebiyle eylül ayının ilk haftasında icraya konu olacak. Birikmiş borç 20 milyar TL.",
-  "metric": "Soma Santrali borcu 20 milyar TL",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-26T05:01:04.909012+00:00",
-  "type": "news",
-  "cluster_id": "c3a9a0b8674c3"
- },
- {
-  "title": "Samsung readies $648 billion bet, report says, as AI boom reshapes South Korea",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2F3d094MUpXQUcxZUloQzFSYVNpRWRjUWhSSEtQZ2RMVDdGdU1hZnl4VnFGSjd4emtNYm5FTkFITFByZXpFX3BQNmstbDZDVDJITjgtYnBIN1NiQ3RfSG5CbEdaQnlqaXFva2RRcDZqUDdFTGlZck1rcmtadU96R0hETkk1bnlNNGgwTGs2N3JYQl9jMVJGWlo3OXlhTzBwa2UtOWhQUDJrdGExaTZnTGRRbEJXVF9o?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Samsung, yapay zeka patlamasının etkisiyle Güney Kore ekonomisini yeniden şekillendirdikçe 648 milyar dolarlık yatırım planlaması yapıyor.",
-  "metric": "Samsung yatırım planı: 648 milyar dolar",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-26T05:01:04.909012+00:00",
-  "type": "news",
-  "cluster_id": "c5d382a6709c5"
  }
 ]
