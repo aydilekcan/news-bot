@@ -1,5 +1,53 @@
 [
  {
+  "title": "Öcalan “Yetmez ama, evet” dedi, Terörsüz Türkiye yasasında top Meclis’te",
+  "link": "https://yetkinreport.com/2026/08/03/ocalan-yetmez-ama-evet-dedi-terorsuz-turkiye-yasasinda-top-mecliste/",
+  "source": "YetkinReport",
+  "summary_tr": "Öcalan 'Yetmez ama, evet' dedi; Terörsüz Türkiye yasası Meclis'te.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-03T15:01:04.923158+00:00",
+  "type": "news",
+  "cluster_id": "ca3b75a30ddae"
+ },
+ {
+  "title": "Deutsche Bank'tan altın için 'adil değer' tahmini",
+  "link": "https://www.diken.com.tr/deutsche-banktan-altin-icin-adil-deger-tahmini/?utm_source=rss&utm_medium=rss&utm_campaign=deutsche-banktan-altin-icin-adil-deger-tahmini",
+  "source": "Diken",
+  "summary_tr": "Deutsche Bank, altın için 'adil değer' tahmini yayınladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-03T15:01:04.923158+00:00",
+  "type": "news",
+  "cluster_id": "c85d1a4320c66"
+ },
+ {
+  "title": "Yeni Parti Grup Başkanvekili Murat Emir'den 'çerçeve yasa' açıklaması: 'Meclis usullerine uygun yapılmalı'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/yeni-parti-grup-baskanvekili-murat-emir-den-cerceve-yasa-aciklamasi-meclis-usullerine-uygun-yapilmali-2526164",
+  "source": "Cumhuriyet",
+  "summary_tr": "Yeni Parti Grup Başkanvekili Murat Emir, çerçeve yasanın Meclis usullerine uygun yapılması gerektiğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-03T15:01:04.923158+00:00",
+  "type": "news",
+  "cluster_id": "cfc7bc5206868"
+ },
+ {
+  "title": "Özgür Özel duyurdu: Yeni Parti'nin ilk grup toplantısı yarın",
+  "link": "https://www.sozcu.com.tr/yeni-parti-ilk-tbmm-grup-toplantisini-4-agustos-2026-tarihinde-gerceklestirecek-p342037",
+  "source": "Sözcü",
+  "summary_tr": "Yeni Parti lideri Özgür Özel, partinin ilk açık Meclis Grup Toplantısı'nın 4 Ağustos 2026'da yapılacağını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-03T15:01:04.923158+00:00",
+  "type": "news",
+  "cluster_id": "cc217fac6fa4a"
+ },
+ {
   "title": "İran, Trump'ın yeni müzakerelerin bugün başlayacağına dair açıklamasını yalanladı",
   "link": "https://www.bbc.com/turkce/articles/cn8n2zx45v7o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59950,53 +59998,5 @@
   "ts": "2026-06-25T16:01:08.405226+00:00",
   "type": "news",
   "cluster_id": "cfdcb52cf4f99"
- },
- {
-  "title": "US Supreme Court sides with Trump in asylum-processing case",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeHF6Sm54TEJuMEpLeW1MRkYxLVlhMEJUWmkzTUxleExtOVJmcmlVNG5icmVIM3Z5cldtZzB4MVIzRnV6b1VCQ1d1MzNKa1d4bEs2ejBrc0hSYzhRaDBIZEY4WjRqRkhWWE9MLXJTdDVyeUY0bDlBOUlnZWJNNFI2bU95X3BJQ1B1R1NLNDZuMDh4Z3oxZDkweWtVeklOdEE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD Yüksek Mahkemesi, Trump'ın mülteci işlem prosedürüne ilişkin davasında Trump'ın tarafında karar verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-25T15:01:08.323511+00:00",
-  "type": "news",
-  "cluster_id": "cde1a12b43eef"
- },
- {
-  "title": "Tesla to ramp up production in Germany by 20%",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc1dZbTE0NGpLejQ1eHhHRWpWVXRGUUNyamh0MTV4T1BDZFcxQmJ6WUlKRTg2RmsyTnFhUHFjWE1Xc3ozVElOOGxpNWk0RkFRTHA5d3I0QXppNVdWMU54UWQza1p2R1FrVGVWQ0lwdGczLUdQb0N3Mm5ldWlFS1BTdnl4RWdXLU5RWi1uR0FtRUZhLXc2cy1SYXU4b3RZUFR4QW1rQXJOQQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Tesla, Almanya'daki üretimini %20 artıracak.",
-  "metric": "Üretim artışı +%20",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-25T15:01:08.323511+00:00",
-  "type": "news",
-  "cluster_id": "c315e4b12db41"
- },
- {
-  "title": "ABD enflasyon göstergesi altını hareketlendirdi: 4 bin doları geçti!",
-  "link": "https://www.sozcu.com.tr/abd-enflasyon-gostergesi-altini-hareketlendirdi-4-bin-dolar-gecti-p331132",
-  "source": "Sözcü",
-  "summary_tr": "ABD PCE enflasyon göstergesi Mayıs'ta beklenti doğrultusunda yıllık %4,0'ı aştı; altın 4 bin doları geçti.",
-  "metric": "PCE yıllık artış: %4,0+; Altın: 4.000 dolar üzeri",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-25T14:01:28.208729+00:00",
-  "type": "news",
-  "cluster_id": "c01690fb8dcc5"
- },
- {
-  "title": "US PCE inflation measure tops 4.0% in May; consumer spending strong",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTkttQ2dqWE53WS1XUWNlT0FUb2pERERFc2pkTEFDSV9tU3JUaWk3aEs5SjAxMnd3amRlZG12N0gtcFN5My1Bb0JkR3BzSGMwSHJzNE1JX2hEMmRkNW1IbnpaRHNiUVEzMDBVaFphUlVjUS1hUDFtMW9pYjI0SmVIeTljUDFUTkRXdEMzdUxSM2hTXzlYUndiU084c05sY0w1dFNINFVxeldPNlhU?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD PCE enflasyon göstergesi Mayıs'ta %4,0'ı aştı; tüketici harcamaları güçlü kaldı.",
-  "metric": "PCE yıllık: %4,0+",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-25T14:01:28.208729+00:00",
-  "type": "news",
-  "cluster_id": "c999fe850857b"
  }
 ]
