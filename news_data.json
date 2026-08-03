@@ -1,5 +1,65 @@
 [
  {
+  "title": "Trump duyurdu: ABD-İran müzakereleri bugün yeniden başlıyor",
+  "link": "https://www.diken.com.tr/trump-duyurdu-abd-iran-muzakereleri-bugun-yeniden-basliyor/?utm_source=rss&utm_medium=rss&utm_campaign=trump-duyurdu-abd-iran-muzakereleri-bugun-yeniden-basliyor",
+  "source": "Diken",
+  "summary_tr": "ABD Başkanı Trump, İran'la müzakerelerin yeniden başladığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-03T05:01:00.410380+00:00",
+  "type": "news",
+  "cluster_id": "ca3bc50ce371b"
+ },
+ {
+  "title": "Trump konuştu taşlar yerinden oynadı",
+  "link": "https://www.sozcu.com.tr/trump-konustu-taslar-yerinden-oynadi-p341858",
+  "source": "Sözcü",
+  "summary_tr": "Trump İran konusunda kritik karar aldı ve müzakere masasının kurulacağını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-03T05:01:00.410380+00:00",
+  "type": "news",
+  "cluster_id": "c90650e24bcc9"
+ },
+ {
+  "title": "Petrol fiyatları müzakere duyurusuyla düşüşte",
+  "link": "https://www.diken.com.tr/petrol-fiyatlari-muzakere-duyurusuyla-dususte/?utm_source=rss&utm_medium=rss&utm_campaign=petrol-fiyatlari-muzakere-duyurusuyla-dususte",
+  "source": "Diken",
+  "summary_tr": "Petrol fiyatları ABD-İran müzakere duyurusuyla düşüşe geçti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-03T05:01:00.410380+00:00",
+  "type": "news",
+  "cluster_id": "c8d34a14c7f13"
+ },
+ {
+  "title": "İsrail Savunma Bakanı Katz'dan İran'a tehdit",
+  "link": "https://www.trthaber.com/haber/dunya/israil-savunma-bakani-katzdan-irana-tehdit-952900.html",
+  "source": "TRT Haber",
+  "summary_tr": "İsrail Savunma Bakanı Katz, İran'ın saldırısı halinde 'ağır darbe' indirileceğini tehdidi ile duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-03T05:01:00.410380+00:00",
+  "type": "news",
+  "cluster_id": "c80ea8b81e0d0"
+ },
+ {
+  "title": "Cuba plunges into darkness as electric grid collapses",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMTdFbGhVSWlfdzZ3aWduVjdUeTFvMnBFVFhaMjg4SkhrMXJlcnFtWTlWTTdnRjNLMzRCNHg4Tm9OTlpkM2c3QlFGR2RuejZnNlM5R182b09EbXQ4dG5RaEJjSHNDRjhtOS1aY05DZlAtQWlMZVBHdE1yY0xFb29yazdJeW03ZXVGcXZSQ2FLOFlremVCcGZ0ckZobkFqRG9fZGc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Küba elektrik şebekesi çöktü, ülke karanlığa büründü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-03T05:01:00.410380+00:00",
+  "type": "news",
+  "cluster_id": "c1d61ff261e0b"
+ },
+ {
   "title": "Japan, US confirm joint yen-buying intervention, signal more action",
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYWxCY2xleXI0czB5WEhyRThFYVhWT0pYcFE1TzY5NnZSbVBvc0Vsc05hM2hwd0sySWFGT213d2hFSkhqRlJ5LXg4djlZXzRBZmZ1Y2c2VHhnUHlmUlpwTlFqbDI5U25KT0NPajF2eWsya0k1UXVVOHZyZEdrZGZTQXRycGt4R0oySUc2TVk3T01XemExNEJOMDJ2MkU0a0dtMTFkNDRIYTlwaWRGR2hB?oc=5",
   "source": "Reuters",
@@ -59938,65 +59998,5 @@
   "ts": "2026-06-25T06:01:09.075781+00:00",
   "type": "news",
   "cluster_id": "cc9dfa91b1159"
- },
- {
-  "title": "TUFE (yillik): %32,61 (Mayis 2025)",
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcXNYU1ZxRGZKekZhSGE5aHI4bm8wblNhNmQydlRZM0NVZWdlZmdOcDVHTHZTUm85TlhsWTRXeVVCZkR1Rl9mYjBHakxkaHg5elhreUVyN3NwZW9NRjZpTVZXX1B2eDZOcVMzMGJtSC1VdFJRN2tfalFFZWpHRHBmU3VjemFuSU0?oc=5",
-  "source": "OECD",
-  "summary_tr": "%53,13 → %32,61 (-20,5 puan)",
-  "metric": "-20,5 puan",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-06-25T06:01:09.075781+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "İBB soruşturması: Tutuklular aylardır iddianame bekliyor",
-  "link": "https://www.dw.com/tr/ibb-soruşturması-tutuklular-aylardır-iddianame-bekliyor/a-77695041?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "İstanbul'da CHP'li belediyelere yönelik soruşturmada tutuklanan kişiler aylardır iddianame beklemektedir.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-25T05:01:05.298481+00:00",
-  "type": "news",
-  "cluster_id": "c82bbc1ec2129"
- },
- {
-  "title": "Son dakika... CHP'li Balçova ve Seferihisar Belediyesi'ne operasyon: Başkanlar gözaltına alındı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-chp-li-balcova-ve-seferihisar-belediyesi-ne-operasyon-baskanlar-gozaltina-alindi-2515204",
-  "source": "Cumhuriyet",
-  "summary_tr": "İzmir'de CHP'li Balçova ve Seferihisar Belediye Başkanları yolsuzluk soruşturması kapsamında gözaltına alındı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-25T05:01:05.298481+00:00",
-  "type": "news",
-  "cluster_id": "c47e9af23b783"
- },
- {
-  "title": "Son dakika... Seferihisar ve Balçova belediye başkanları gözaltına alındı",
-  "link": "https://www.sozcu.com.tr/son-dakika-balcova-belediyesi-ne-operasyon-baskan-onur-yigit-gozaltinda-p330926",
-  "source": "Sözcü",
-  "summary_tr": "İzmir'de CHP'li Balçova ve Seferihisar Belediye Başkanları rüşvet ve yolsuzluk soruşturması kapsamında gözaltına alındı.",
-  "metric": "24 kişi gözaltı",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-25T05:01:05.298481+00:00",
-  "type": "news",
-  "cluster_id": "c47e9af23b783"
- },
- {
-  "title": "İzmir'de iki belediyeye soruşturma: 24 gözaltı",
-  "link": "https://www.trthaber.com/haber/turkiye/izmirde-iki-belediyeye-sorusturma-24-gozalti-949260.html",
-  "source": "TRT Haber",
-  "summary_tr": "İzmir'de Balçova ve Seferihisar Belediye Başkanları da dahil olmak üzere 24 kişi yolsuzluk soruşturması kapsamında gözaltına alındı.",
-  "metric": "24 gözaltı",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-25T05:01:05.298481+00:00",
-  "type": "news",
-  "cluster_id": "c088d7d564957"
  }
 ]
