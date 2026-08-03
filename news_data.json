@@ -1,5 +1,29 @@
 [
  {
+  "title": "ABD'de 25 eyalet Trump yönetimine dava açtı",
+  "link": "https://www.sozcu.com.tr/abd-de-25-eyalet-trump-yonetimine-dava-acti-p342122",
+  "source": "Sözcü",
+  "summary_tr": "ABD'de 25 eyalet, Trump yönetiminin gümrük vergilerine karşı dava açtı. Gümrük vergisi 60 ticaret ortağından ithal edilen ürünleri hedef alıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-03T23:01:00.275203+00:00",
+  "type": "news",
+  "cluster_id": "cecb42719f7a2"
+ },
+ {
+  "title": "ABD'de 25 eyalet, son tarifeleri nedeniyle Trump yönetimine dava açtı",
+  "link": "https://www.trthaber.com/haber/dunya/abdde-25-eyalet-son-tarifeleri-nedeniyle-trump-yonetimine-dava-acti-952994.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD'de 25 eyalet, Trump yönetiminin gümrük vergilerine karşı dava açtı. Gümrük vergisi 60 ticaret ortağından ithal edilen ürünleri hedef alıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-03T23:01:00.275203+00:00",
+  "type": "news",
+  "cluster_id": "cecb42719f7a2"
+ },
+ {
   "title": "İsrail'de Savunma Bakanı Katz ile ordu arasında \"komutan değişimi\" krizi",
   "link": "https://www.aa.com.tr/tr/dunya/israilde-savunma-bakani-katz-ile-ordu-arasinda-komutan-degisimi-krizi/4017552",
   "source": "Anadolu Ajansı",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-26T06:01:07.024740+00:00",
   "type": "news",
   "cluster_id": "c9aaa52c67c22"
- },
- {
-  "title": "Piyasaların beklediği anket sonuçlandı: İşte haziran enflasyonu ve dolar tahminleri",
-  "link": "https://www.sozcu.com.tr/piyasalarin-bekledigi-anket-sonuclandi-iste-haziran-enflasyonu-ve-dolar-tahminleri-p331277",
-  "source": "Sözcü",
-  "summary_tr": "30 finansal kuruluşun katılımıyla yapılan beklenti anketinde Haziran enflasyonu ve dolar tahminleri açıklandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-26T06:01:07.024740+00:00",
-  "type": "news",
-  "cluster_id": "c001295360a6e"
- },
- {
-  "title": "Suç örgütlerine 48 ayrı operasyon! Yüzlerce kişi gözaltında",
-  "link": "https://www.sozcu.com.tr/suc-orgutlerine-48-ayri-operasyon-841-supheliye-adli-islem-yapildi-p331274",
-  "source": "Sözcü",
-  "summary_tr": "Organize suç örgütlerine yönelik 48 ayrı operasyonda 841 şüpheli hakkında adli işlem yapıldı.",
-  "metric": "48 operasyon, 841 şüpheli",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-26T06:01:07.024740+00:00",
-  "type": "news",
-  "cluster_id": "c837058d148ff"
  }
 ]
