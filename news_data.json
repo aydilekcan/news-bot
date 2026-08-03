@@ -1,5 +1,29 @@
 [
  {
+  "title": "Japan, US confirm joint yen-buying intervention, signal more action",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYWxCY2xleXI0czB5WEhyRThFYVhWT0pYcFE1TzY5NnZSbVBvc0Vsc05hM2hwd0sySWFGT213d2hFSkhqRlJ5LXg4djlZXzRBZmZ1Y2c2VHhnUHlmUlpwTlFqbDI5U25KT0NPajF2eWsya0k1UXVVOHZyZEdrZGZTQXRycGt4R0oySUc2TVk3T01XemExNEJOMDJ2MkU0a0dtMTFkNDRIYTlwaWRGR2hB?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Japonya ve ABD, Yeni desteklemek için ortak döviz müdahalesi yapacaklarını teyit etti; ek müdahaleleri işaret ediliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-03T04:01:01.105687+00:00",
+  "type": "news",
+  "cluster_id": "ce4ba1e5df9ce"
+ },
+ {
+  "title": "Oil slumps on hopes of Iran deal, yen spikes suddenly after intervention",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUjBjdHpEdEdMdVNpbVprQmRvNG9JTzl0ZHB4SkNmWUxqT2hNUG8xcW96U1R2czNKWHVMYXRqY2gxR1pHTzZ4RjlpaDgzUnM3U0dCNURmZDhPUUhVTnRuUFhYcGFmVHdoOWg2a3RJNTNGQktBU3pvZVZGSS1EVUJ1QzlVbw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Petrol fiyatları İran anlaşması umuduyla düştü; Japon Yeni döviz müdahalesiyle sert yükseldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-03T04:01:01.105687+00:00",
+  "type": "news",
+  "cluster_id": "c8b22a1dc7fcc"
+ },
+ {
   "title": "Asgari ücrette küme düştük",
   "link": "https://www.sozcu.com.tr/asgari-ucrette-kume-dustuk-p341848",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-25T05:01:05.298481+00:00",
   "type": "news",
   "cluster_id": "c088d7d564957"
- },
- {
-  "title": "Balçova Belediyesi’ne operasyon: Belediye Başkanı Onur Yiğit gözaltında",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaEkxMGdiTk1TU21LY3U5cE0zaVlwdmwtWjlTVlFNXzdURklVb3R5Q2V4YUo4R0JPWDRmSlNCQ19zOUlhMTYtX1VLTVczWHhldzFJTE0zX2hMTnFKelFYREpmbU81SEdMaXIyaDN3T3lROWd5M1Exc0xRa0V1S1pyUUE2aEFzYkVtblNPRl9IMjh0cmVzUTFrdm9uMDBrSVZGcTdvUGZkeFhZSkE?oc=5",
-  "source": "soL",
-  "summary_tr": "Balçova Belediye Başkanı Onur Yiğit operasyon kapsamında gözaltına alındı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-25T05:01:05.298481+00:00",
-  "type": "news",
-  "cluster_id": "c0a37227ec0a0"
- },
- {
-  "title": "Seferihisar Belediyesi operasyonunda üçüncü dalga: Belediye Başkanı İsmail Yetişkin gözaltına alındı",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWl9yeVJlT3R1eVFjU1Jxa2JhWlBEbThvdzlaSWhjVktMZkR3ZmtYTmlwWjhreTItNzJfcFVpeVVacjBLS3RzLU92M2huVWZ6MnlwdVctaTdTdnJTMlVWTHMzak9CMk5ZVjhxU1Z5OF9iNGN0OGh3SGdld0R3XzVXSzM3Xy04cXhPVVVPUVoyc0tvWE55REpkYzVmVDN5MnN6cC15aUpNZ2JfdHRNVlBVQ2QzRGhWSFZNOGJ3R0o5MHg?oc=5",
-  "source": "soL",
-  "summary_tr": "Seferihisar Belediye Başkanı İsmail Yetişkin operasyon kapsamında gözaltına alındı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-25T05:01:05.298481+00:00",
-  "type": "news",
-  "cluster_id": "ca98c197c33b5"
  }
 ]
