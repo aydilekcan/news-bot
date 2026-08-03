@@ -1,5 +1,41 @@
 [
  {
+  "title": "Trump İran ile yeni müzakerelerin başlayacağını duyurdu",
+  "link": "https://www.bbc.com/turkce/articles/cn8n2zx45v7o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD Başkanı Trump, İran ile Pazartesi günü yeni müzakerelerin başlayacağını ve Hürmüz Boğazı'nın yeniden açılmasını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-03T00:00:58.860503+00:00",
+  "type": "news",
+  "cluster_id": "cde740687a39b"
+ },
+ {
+  "title": "ABD Başkanı Trump, İran'la müzakerelerin pazartesi günü yeniden başlayacağını açıkladı",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-iranla-muzakerelerin-pazartesi-gunu-yeniden-baslayacagini-acikladi/4016573",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, İran'la müzakerelerin 3 Ağustos Pazartesi günü başlayacağını ve anlaşma konusunda iyimser olduğunu açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-08-03T00:00:58.860503+00:00",
+  "type": "news",
+  "cluster_id": "c3a184a18da41"
+ },
+ {
+  "title": "China draws 'red lines' around its economic model ahead of EU, US trade talks",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQWk1MXJvXzVGTkx2SW9Kak03MTJDSUlsYWtZREhuT1MwcjJUOWcyOFFwcXFHYlNrV1dlUUdHVG9yZk5JbFJwS1JzWWg4ZE9pY0NQWWdpSVhoT0g1ZERwVlBvTm51dklQLWlGU0UxeEF1NVJfQ1pvdnZUa1dRQ3RUU09lUE50NGJLcE4wYmNtUGNXT0xLV1BkNnlmR1p4ZTkwQ0pIRnpQUVQ3TGkyakUwRm5RRzNJZi1Id3Bv?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin, AB ve ABD ile yapacağı ticaret müzakerelerine önceden ekonomik modelini korumaya yönelik 'kırmızı çizgiler' çekti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-03T00:00:58.860503+00:00",
+  "type": "news",
+  "cluster_id": "cdbcff6331435"
+ },
+ {
   "title": "Trump duyurdu: Hürmüz Boğazı için anlaşma sağlandı",
   "link": "https://www.sozcu.com.tr/donald-trump-iran-aciklama-3-agustos-2026-p341834",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-06-24T22:01:10.567152+00:00",
   "type": "news",
   "cluster_id": "c40513317df2b"
- },
- {
-  "title": "Trump: (Ankara'daki NATO Zirvesi) Cumhurbaşkanı Erdoğan'a duyduğum saygıdan dolayı gidiyorum",
-  "link": "https://www.aa.com.tr/tr/dunya/trump-ankaradaki-nato-zirvesi-cumhurbaskani-erdogana-duydugum-saygidan-dolayi-gidiyorum/3977177",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Trump, Cumhurbaşkanı Erdoğan'a duyduğu saygıdan dolayı Ankara'daki NATO Zirvesi'ne katılacağını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-24T22:01:10.567152+00:00",
-  "type": "news",
-  "cluster_id": "cbaeabfc4c35f"
- },
- {
-  "title": "Elon Muskın trilyoner unvanı kısa sürdü",
-  "link": "https://www.trthaber.com/haber/dunya/elon-muskin-trilyoner-unvani-kisa-surdu-949246.html",
-  "source": "TRT Haber",
-  "summary_tr": "Elon Musk, SpaceX ve Tesla hisselerindeki sert düşüşler nedeniyle trilyoner unvanını kaybetti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-24T22:01:10.567152+00:00",
-  "type": "news",
-  "cluster_id": "c9d8b8758e449"
- },
- {
-  "title": "Micron forecasts strong quarterly results on soaring memory chip demand",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONHFoOERlZ21UYTlHdmVQYVo5NUpYcFMtS2g1VnBrU2I0S3lEUlJCRHNQSjE5TV9keWZhTFBFUjBsdzFOVE9iQkpiNzZ4OGU3WFZSR1RmV1Y0M2NiWEVLQjRqSzRwNzJrWDBwcUxQYUlsNWxqN3ZZazg2RFAwUkhaakZYN2JSN1NtbTVxTE5tdWRrc3dFOVRhdS1iQQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Micron, hafıza çipi talebinin yükselmesi nedeniyle güçlü üç aylık sonuçlar tahmin ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-24T22:01:10.567152+00:00",
-  "type": "news",
-  "cluster_id": "ce29cf891ee48"
  }
 ]
