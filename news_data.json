@@ -1,5 +1,29 @@
 [
  {
+  "title": "Enflasyon gelirleri tırpanlamaya devam ediyor: Emekçi ‘ek zamda’ birleşti",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/enflasyon-gelirleri-tirpanlamaya-devam-ediyor-emekci-ek-zamda-birlesti-2526200",
+  "source": "Cumhuriyet",
+  "summary_tr": "Enflasyon emekçilerin gelirini aşındırıyor: memura verilen %7'lik zamdan %1,78'i enflasyona gitti.",
+  "metric": "Memurun zammı %7 -> gerçek kazanç +%1,78 (kayıp ~%5,22)",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-04T02:01:02.724247+00:00",
+  "type": "news",
+  "cluster_id": "c7420407db34e"
+ },
+ {
+  "title": "Geçen yılın aynı dönemine göre 97 bin adet arttı: İcra dosyaları kabarıyor!",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/gecen-yilin-ayni-donemine-gore-97-bin-adet-artti-icra-dosyalari-kabariyor-2526204",
+  "source": "Cumhuriyet",
+  "summary_tr": "İcra dairelerine gelen dosya sayısı 7 ayda geçen yılın aynı dönemine göre 97 bin arttı; vatandaşların mali sıkıntıları derinleşiyor.",
+  "metric": "İcra dosyaları +97 bin (yılsonu karşılaştırması)",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-04T02:01:02.724247+00:00",
+  "type": "news",
+  "cluster_id": "c1faa67009e1e"
+ },
+ {
   "title": "ABD'de 25 eyalet Trump yönetimine dava açtı",
   "link": "https://www.sozcu.com.tr/abd-de-25-eyalet-trump-yonetimine-dava-acti-p342122",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-26T07:01:04.124899+00:00",
   "type": "data",
   "cluster_id": ""
- },
- {
-  "title": "Apple'ın zam kararı borsaları vurdu: 250 milyar dolar bir gecede eridi",
-  "link": "https://www.sozcu.com.tr/apple-in-zam-karari-borsalari-vurdu-250-milyar-dolar-bir-gecede-eridi-p331276",
-  "source": "Sözcü",
-  "summary_tr": "Apple'ın MacBook ve iPad ürünlerinde %30'a varan fiyat artışı kararı borsaları olumsuz etkiledi; 250 milyar dolar değer kaybı yaşandı.",
-  "metric": "Apple fiyat artışı %30'a varan oranlarda",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-26T06:01:07.024740+00:00",
-  "type": "news",
-  "cluster_id": "cca90a45bf963"
- },
- {
-  "title": "İsrail'den Türkiye'ye karşı 'soykırım' hamlesi",
-  "link": "https://www.sozcu.com.tr/israil-den-turkiye-ye-karsi-soykirim-hamlesi-p331270",
-  "source": "Sözcü",
-  "summary_tr": "İsrail Dışişleri Bakanı Sa'ar, Türkiye ile bozulan ilişkiler sonrasında sözde Ermeni soykırımını resmen tanıma çağrısı yaptı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-26T06:01:07.024740+00:00",
-  "type": "news",
-  "cluster_id": "c9aaa52c67c22"
  }
 ]
