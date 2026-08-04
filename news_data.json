@@ -1,5 +1,53 @@
 [
  {
+  "title": "Temmuzda verdiler, ağustosta aldılar",
+  "link": "https://www.sozcu.com.tr/temmuzda-verdiler-agustosta-aldilar-p342124",
+  "source": "Sözcü",
+  "summary_tr": "Emeklilerin temmuzda alınan 3.552 liralık zam, ödeme gecikmesi nedeniyle enflasyon etkisiyle 412 lira azaldı.",
+  "metric": "Emekli zam etkisi 3.552 TL -> 3.140 TL (-412 TL / -%11,6)",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-08-04T03:01:05.754615+00:00",
+  "type": "news",
+  "cluster_id": "c760f7d32b8ae"
+ },
+ {
+  "title": "Şehit yakını ile gazi aylıklarına artış teklifi neler içeriyor?",
+  "link": "https://www.bbc.com/turkce/articles/cdx7rlzrxqko?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "AKP ve MHP, şehit yakınları ve gazilerin aylıklarına artış içeren çerçeve yasa teklifini açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-04T03:01:05.754615+00:00",
+  "type": "news",
+  "cluster_id": "c449a85ebdb8a"
+ },
+ {
+  "title": "PKK’lıları Habur değil bu kez Ankara salacak",
+  "link": "https://www.sozcu.com.tr/pkk-lilari-habur-degil-bu-kez-ankara-salacak-p342129",
+  "source": "Sözcü",
+  "summary_tr": "PKK'lılara yönelik 'Terörsüz Türkiye' süreci kapsamında hazırlanan yasa teklifinin bugün TBMM'ye gelmesi bekleniyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-04T03:01:05.754615+00:00",
+  "type": "news",
+  "cluster_id": "cdcd9af09bea4"
+ },
+ {
+  "title": "İki komutan değişebilir",
+  "link": "https://www.sozcu.com.tr/iki-komutan-degisebilir-p342127",
+  "source": "Sözcü",
+  "summary_tr": "Yüksek Askeri Şura'da 332 general ve amiralin durumu ele alınacak; iki komutan değişebilir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-04T03:01:05.754615+00:00",
+  "type": "news",
+  "cluster_id": "cfd8deec5a5aa"
+ },
+ {
   "title": "Enflasyon gelirleri tırpanlamaya devam ediyor: Emekçi ‘ek zamda’ birleşti",
   "link": "https://www.cumhuriyet.com.tr/turkiye/enflasyon-gelirleri-tirpanlamaya-devam-ediyor-emekci-ek-zamda-birlesti-2526200",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-06-26T08:01:14.215368+00:00",
   "type": "news",
   "cluster_id": "cb9d5f2e92f8e"
- },
- {
-  "title": "Germany plans to ease pension burden, but young still face an uphill climb",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZmdqU19qLVRWWmVMb1hIN0g3azhOUzAzOG1yb1drWGV2aFlEVzFSTkxBM21HeWVrYm9yQVF6a013aHZwMXNxcmFTSy1BS3lSWS1uNGxqMWFCemMzU0N6RGNDbmRibm9NZnB0ZWhlOHMtbjVrZzJjT2hraE51WGdjV2ZuMWl6MDZnSDZyUm1OTDlnTmpvY0ZLTFlzWF9JOUVMWUhrbllaX2pjZ1dlZFJXUHdOVmtBNlJtM1VB?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Almanya emeklilik yükünü hafifletme planları yapıyor ancak gençler yine de zor bir durumla karşı karşıya.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-26T08:01:14.215368+00:00",
-  "type": "news",
-  "cluster_id": "c507b759564f0"
- },
- {
-  "title": "Italy regulator probes Microsoft over 'Microsoft 365' price hike",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcmR2NXI4RklGVFZIRXRlTC1Dcndyc1VaVWJLQlRmcmt3dTRDTHdqSTFLU2NNVmdxcXFPOHE4ckJGU2FDMnhsMFhMeEJBc2VIelBvYWZUdVVJdDB3Q3BUZER6aVVEbmNEcEVuM2Zycy1VbllhcU14MG9uYUtXRkd6NzNvVXJ3ZUF3YVVNUm1QUmtMMmp0ZW8xbVU5UGRsU0hfMHpWNlIydw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İtalya Antitröst Kurumu, Microsoft'un 'Microsoft 365' fiyat artışını araştırmaya başladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-26T08:01:14.215368+00:00",
-  "type": "news",
-  "cluster_id": "c24a91b96e8e8"
- },
- {
-  "title": "Altında üst üste 4 haftalık kayıp yolda: Gram, çeyrek ve Cumhuriyet altını bugün ne kadar oldu? Güncel altın fiyatları 26 Haziran 2026 Cuma...",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/altinda-ust-uste-4-haftalik-kayip-yolda-gram-ceyrek-ve-cumhuriyet-altini-bugun-ne-kadar-oldu-guncel-altin-fiyatlari-26-haziran-2026-cuma-2515577",
-  "source": "Cumhuriyet",
-  "summary_tr": "Gram altın, çeyrek altın ve Cumhuriyet altını fiyatları 26 Haziran 2026'da belirtildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-26T07:01:04.124899+00:00",
-  "type": "news",
-  "cluster_id": "caf4dc616e513"
- },
- {
-  "title": "Bütçe açığı (5 aylık): 1 trilyondan fazla (5 ay (2025 başı))",
-  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MdTNsMll5dTlFWVJZMy1TdWszaU5uX285anhhN0lqdUt4ZWNBLVRmRFdaSmh5V29oRVhRVnBnNGxEZlRUTll2aTc0cEhfcHNwSXQ2eGIyNmtMM0c5X3N6RlBvQ0RLYWg5YV95Mm5pUHNUN19saDU5NA?oc=5",
-  "source": "Hazine ve Maliye Bakanlığı",
-  "summary_tr": "1 trilyondan fazla",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-06-26T07:01:04.124899+00:00",
-  "type": "data",
-  "cluster_id": ""
  }
 ]
