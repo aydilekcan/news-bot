@@ -1,5 +1,29 @@
 [
  {
+  "title": "Yüksek Askeri Şura toplanıyor",
+  "link": "https://www.trthaber.com/haber/gundem/yuksek-askeri-sura-toplaniyor-952997.html",
+  "source": "TRT Haber",
+  "summary_tr": "Cumhurbaşkanı Erdoğan'ın başkanlığında Yüksek Askeri Şura (YAŞ) Beştepe'de toplanıyor. Toplantıda Türk Silahlı Kuvvetlerinde terfi, atama ve emekliye sevk kararları alınacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-04T04:01:02.865420+00:00",
+  "type": "news",
+  "cluster_id": "cbd802ea9f1f8"
+ },
+ {
+  "title": "Oil ticks up after selloff as talks to end US-Iran war remain uncertain",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0VaWUlWWUxJMXVaM1NiVS0yeWUtYWhpTlo4MTh0ZzZkZms3aFVLNVRfR1JISmxrY2d2VmM1UWFKTVFtSlEzYmt0N3ZuRUFLWXd5bzh5QkVXOVRxUVh3VHRnOWkzanJWb2tqUU13cURMRFR3TFphYkFzRVRsbnY5aEpDdTJLLVNLOXpwYzRNckVGQW9TcThhNHdKVlVTZ2Q4SkRraWR5TjlvbmN4VE1rLWViVFNTRUZU?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Petrol fiyatları, ABD-İran savaşını sonlandırma görüşmeleri belirsizliği nedeniyle dalgalı seyir gösteriyor. Petrol piyasası satışlardan sonra hafif yükseliş yaşanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-04T04:01:02.865420+00:00",
+  "type": "news",
+  "cluster_id": "c83957e730dcc"
+ },
+ {
   "title": "Temmuzda verdiler, ağustosta aldılar",
   "link": "https://www.sozcu.com.tr/temmuzda-verdiler-agustosta-aldilar-p342124",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-26T08:01:14.215368+00:00",
   "type": "news",
   "cluster_id": "c3da9bc83f809"
- },
- {
-  "title": "Türkiye'de geçen yıl üretimden yapılan sanayi ürünleri satışı 24,3 trilyon lira oldu",
-  "link": "https://www.aa.com.tr/tr/ekonomi/turkiyede-gecen-yil-uretimden-yapilan-sanayi-urunleri-satisi-24-3-trilyon-lira-oldu/3978490",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye'de 2025'te sanayi ürünleri satışı 24,3 trilyon liraya ulaştı; otomobil ve ev aletleri üretimi arttı.",
-  "metric": "Sanayi ürünleri satışı 24,3 trilyon TL",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-26T08:01:14.215368+00:00",
-  "type": "news",
-  "cluster_id": "cb9d5f2e92f8e"
- },
- {
-  "title": "Geçen yıl üretimden yapılan sanayi ürünleri satışı 24,3 trilyon lira oldu",
-  "link": "https://www.trthaber.com/haber/ekonomi/gecen-yil-uretimden-yapilan-sanayi-urunleri-satisi-243-trilyon-lira-oldu-949399.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye'de 2025'te sanayi ürünleri satışı 24,3 trilyon liraya ulaştı; otomobil ve ev aletleri üretimi arttı.",
-  "metric": "Sanayi ürünleri satışı 24,3 trilyon TL",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-26T08:01:14.215368+00:00",
-  "type": "news",
-  "cluster_id": "cb9d5f2e92f8e"
  }
 ]
