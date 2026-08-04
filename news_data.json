@@ -1,5 +1,77 @@
 [
  {
+  "title": "Servet Yıldırım: Döviz dönüşüm desteği şapkadan çıkan tavşanı andırıyor",
+  "link": "https://www.diken.com.tr/servet-yildirim-doviz-donusum-destegi-sapkadan-cikan-tavsani-andiriyor/?utm_source=rss&utm_medium=rss&utm_campaign=servet-yildirim-doviz-donusum-destegi-sapkadan-cikan-tavsani-andiriyor",
+  "source": "Diken",
+  "summary_tr": "Merkez Bankası, sıkı para politikasının ihracat destekleme sürecindeki döviz dönüşüm desteğini açıklıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-04T05:01:04.913357+00:00",
+  "type": "news",
+  "cluster_id": "c3919d28e1b5f"
+ },
+ {
+  "title": "Son Dakika... İzmir Menderes Belediyesi'ne operasyon: Belediye Başkanı İlkay Çiçek gözaltında",
+  "link": "https://www.sozcu.com.tr/son-dakika-izmir-menderes-belediyesi-ne-operasyon-belediye-baskani-ilkay-cicek-gozaltinda-p342139",
+  "source": "Sözcü",
+  "summary_tr": "İzmir Menderes Belediyesi Başkanı İlkay Çiçek, rüşvet ve irtikap soruşturması kapsamında gözaltına alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-04T05:01:04.913357+00:00",
+  "type": "news",
+  "cluster_id": "c6919b88b8f15"
+ },
+ {
+  "title": "Status of US-Iran talks uncertain as ship struck in Hormuz",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Hormuz Boğazında vurulan gemiye bağlı olarak ABD-İran müzakerelerin durumu belirsiz hale geldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-04T05:01:04.913357+00:00",
+  "type": "news",
+  "cluster_id": "c2e6c08125710"
+ },
+ {
+  "title": "Alaattin Aktaş: Savaş yalnızca Türkiye'yi mi etkiliyor?",
+  "link": "https://www.diken.com.tr/alaattin-aktas-savas-yalnizca-turkiyeyi-mi-etkiliyor/?utm_source=rss&utm_medium=rss&utm_campaign=alaattin-aktas-savas-yalnizca-turkiyeyi-mi-etkiliyor",
+  "source": "Diken",
+  "summary_tr": "Temmuz enflasyon verileri açıklandı; tahmini karşılayan sonuçlar ekonomik durumu gösteriyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-04T05:01:04.913357+00:00",
+  "type": "news",
+  "cluster_id": "c01958ea8d680"
+ },
+ {
+  "title": "Özgür Özel, Kılıçdaroğlu'ndan gelen teklifi ilk kez açıkladı",
+  "link": "https://www.sozcu.com.tr/ozgur-ozel-kilicdaroglu-ndan-gelen-teklifi-ilk-kez-acikladi-p342138",
+  "source": "Sözcü",
+  "summary_tr": "CHP'den ayrılarak YENİ Parti'yi kuran Özgür Özel, Kılıçdaroğlu'ndan gelen teklifin ayrıntılarını ilk kez açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-04T05:01:04.913357+00:00",
+  "type": "news",
+  "cluster_id": "c9b64ab607e31"
+ },
+ {
+  "title": "2 dönüm arazisi olana müstakil ev müjdesi: Resmi Gazete'de yayınlandı",
+  "link": "https://www.sozcu.com.tr/tarim-arazisinde-bungalov-yapma-sartlari-degisti-yeni-arazi-siniri-belli-oldu-p342136",
+  "source": "Sözcü",
+  "summary_tr": "Tarım arazilerine bungalov ve bağ evi yapılabilmesi için gereken asgari arazi büyüklüğü 5 dönümden 2 dönüme indirildi.",
+  "metric": "Asgari arazi gereksinimi 5 dönüm -> 2 dönüm (-60%)",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-04T05:01:04.913357+00:00",
+  "type": "news",
+  "cluster_id": "c1a2df2749435"
+ },
+ {
   "title": "Yüksek Askeri Şura toplanıyor",
   "link": "https://www.trthaber.com/haber/gundem/yuksek-askeri-sura-toplaniyor-952997.html",
   "source": "TRT Haber",
@@ -59926,77 +59998,5 @@
   "ts": "2026-06-26T09:01:07.751382+00:00",
   "type": "news",
   "cluster_id": "c417817553fed"
- },
- {
-  "title": "Böcek ailesi davasında sanıkların 22 yıl 6 aya kadar hapsi istendi",
-  "link": "https://www.trthaber.com/haber/gundem/bocek-ailesi-davasinda-saniklarin-22-yil-6-aya-kadar-hapsi-istendi-949408.html",
-  "source": "TRT Haber",
-  "summary_tr": "Fatih'te bir otelde zehirlenerek ölüm ile sonuçlanan Böcek ailesinin 4 üyesinin ölümüne ilişkin davada savcı mütalaasını açıkladı; 22 yıl 6 aya kadar hapis istendi.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-06-26T09:01:07.751382+00:00",
-  "type": "news",
-  "cluster_id": "cc8b5dd3eb65c"
- },
- {
-  "title": "EPDK'den milyonlarca aboneyi ilgilendiren hamle: Elektrik, su ve doğalgaz sayaçlarında büyük değişiklik yolda",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/epdk-den-milyonlarca-aboneyi-ilgilendiren-hamle-elektrik-su-ve-dogalgaz-sayaclarinda-buyuk-degisiklik-yolda-2515601",
-  "source": "Cumhuriyet",
-  "summary_tr": "EPDK, elektrik, su ve doğalgaz sayaçlarının verilerini tek merkezde toplayacak dijital altyapı projesi başlatıyor; milyonlarca aboneyi etkileyecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-26T08:01:14.215368+00:00",
-  "type": "news",
-  "cluster_id": "c91b86575cabe"
- },
- {
-  "title": "Hazine ve Maliye Bakanlığı 2,75 milyar dolar tutarında kira sertifikası ihracı gerçekleştirdi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakanligi-2-75-milyar-dolar-tutarinda-kira-sertifikasi-ihraci-gerceklestirdi/3978537",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Hazine ve Maliye Bakanlığı, uluslararası sermaye piyasalarında 2,75 milyar dolar sukuk ihraç etti.",
-  "metric": "Sukuk ihracı 2,75 milyar dolar",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-06-26T08:01:14.215368+00:00",
-  "type": "news",
-  "cluster_id": "c1706122703e3"
- },
- {
-  "title": "Ucuza lahmacun sattığı için şikayet edilen esnaf: 'Yüzde 15 karla satıyorum'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/ucuza-lahmacun-sattigi-icin-sikayet-edilen-esnaf-yuzde-15-karla-satiyorum-2515603",
-  "source": "Cumhuriyet",
-  "summary_tr": "Sivas'ta lahmacun satıcısı 50 TL fiyatla gündeme geldi; esnaf %15 karla sattığını söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-26T08:01:14.215368+00:00",
-  "type": "news",
-  "cluster_id": "c6829894daf9d"
- },
- {
-  "title": "Elinde doları olanlar dikkat! İsviçreli banka kritik raporu açıkladı",
-  "link": "https://www.sozcu.com.tr/elinde-dolari-olanlar-dikkat-isvicreli-banka-kritik-raporu-acikladi-p331335",
-  "source": "Sözcü",
-  "summary_tr": "İsviçre Commerzbank, Türkiye'de enflasyon görünümünün para politikasında gevşemeyi desteklemediğini belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-26T08:01:14.215368+00:00",
-  "type": "news",
-  "cluster_id": "c482530caa2fd"
- },
- {
-  "title": "Altını olanları üzecek haber! Uzmanlar yeni fiyatı açıkladı",
-  "link": "https://www.sozcu.com.tr/altini-olanlari-uzecek-haber-uzmanlar-yeni-fiyati-acikladi-p331329",
-  "source": "Sözcü",
-  "summary_tr": "Altın fiyatlarında satışlar devam ederken uzmanlar kritik seviyelerin altına gerilediğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-26T08:01:14.215368+00:00",
-  "type": "news",
-  "cluster_id": "c3da9bc83f809"
  }
 ]
