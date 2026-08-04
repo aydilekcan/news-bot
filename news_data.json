@@ -1,5 +1,17 @@
 [
  {
+  "title": "EXCLUSIVE: White House set to extend Jones Act waiver as Trump hunts for cheaper gasoline",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeTdhU2NMYVVDcFJtV0pXczNXR3NpODBkVjFOMjI2OXJ5NUJsMEd4RVpHUHhsdF9WTl9VRUY1MExPNzdTa3dLYVZ3MDMxeDc5dkFreVJQZ3hEaXRQVTN4WDJvRlc5clJYazBWUnVSYkItaUZ6QjdvVmFZU3B5YWZ5RnlTMXQ5UU5xdTFPdTBGUWdlSkhyRTEwNE5VUHpadGV2b2l2ZjB4NmhCcVFFcUFTa2ZUc2hZZFpHZ1QyRQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Başkanı Trump, benzin fiyatlarını düşürmek amacıyla Jones Act muafiyetini uzatmayı planlıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-04T23:01:07.768540+00:00",
+  "type": "news",
+  "cluster_id": "cc1902e2fb5c0"
+ },
+ {
   "title": "Patlayıcı yüklü tekneyle saldırdılar! Yük gemisi Kızıldeniz'de batırıldı",
   "link": "https://www.sozcu.com.tr/patlayici-yuklu-tekneyle-saldirdilar-yuk-gemisi-kizildeniz-de-batirildi-p342423",
   "source": "Sözcü",
@@ -59986,17 +59998,5 @@
   "ts": "2026-06-27T15:01:11.762858+00:00",
   "type": "news",
   "cluster_id": "cf6e4b0ef238e"
- },
- {
-  "title": "BM: Venezuela'yı vuran yıkıcı depremler 6,76 milyona kadar insanı etkileyebilir",
-  "link": "https://www.aa.com.tr/tr/dunya/bm-venezuelayi-vuran-yikici-depremler-6-76-milyona-kadar-insani-etkileyebilir/3979934",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "BM, Venezuela'yı vuran depremlerden 6,76 milyona kadar insanın etkilenebileceğini tahmin etti.",
-  "metric": "Etkilenen insan sayısı: 6,76 milyon",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-27T15:01:11.762858+00:00",
-  "type": "news",
-  "cluster_id": "c14a46554df2f"
  }
 ]
