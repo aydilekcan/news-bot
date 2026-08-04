@@ -1,5 +1,77 @@
 [
  {
+  "title": "İsrail hükümetinin, orduya Gazze Şeridi'nde saldırıları sınırlandırma talimatı verdiği ileri sürüldü",
+  "link": "https://www.aa.com.tr/tr/israilin-gazze-saldirilari/israil-hukumetinin-orduya-gazze-seridinde-saldirilari-sinirlandirma-talimati-verdigi-ileri-suruldu/4018492",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail hükümetinin orduya Gazze Şeridi'nde saldırıları sınırlandırma talimatı verdiği iddia edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-04T20:01:17.886376+00:00",
+  "type": "news",
+  "cluster_id": "c8e158c08d9c1"
+ },
+ {
+  "title": "Netanyahu says no Israeli withdrawal from Gaza until Hamas has been completely disarmed",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWlgtZDJKWkRiTWNwOFRhUzM2WGhhTlR4clFocEt4TGNEV0VLb0gtbDEzQmlYZkt3OFNyckJpQ1JPUzQyRUdFVDFjbWdyaXQwNGV5dUYzeXFocWF3UnNqTkpUVnhrX3RudkJ0R3lYVXR1MmwxazZ1ZzF5SDdlQWNsWVVlZVZYVzJJNUJxQnFjYS0tQ1VyaWR2QkJZQTRYSDVG?oc=5",
+  "source": "AP",
+  "summary_tr": "Netanyahu: İsrail, Hamas tamamen silahsızlandırılana kadar Gazze'den çekilmeyecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-04T20:01:17.886376+00:00",
+  "type": "news",
+  "cluster_id": "caf78e9a20d8f"
+ },
+ {
+  "title": "YAŞ kararları açıklandı: Türk Hava Kuvvetleri'de ilk kadın general",
+  "link": "https://www.bbc.com/turkce/articles/cr493dqdzw0o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Türk Hava Kuvvetleri'nde ilk kadın general atandı. Orgeneral Rafet Dalkıran yeni Komutan oldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-04T20:01:17.886376+00:00",
+  "type": "news",
+  "cluster_id": "cbb0d2c21822b"
+ },
+ {
+  "title": "Özel ve Ağbaba hakkında 'rüşvet' iddiasıyla fezleke",
+  "link": "https://www.diken.com.tr/ozel-ve-agbaba-hakkinda-rusvet-iddiasiyla-fezleke/?utm_source=rss&utm_medium=rss&utm_campaign=ozel-ve-agbaba-hakkinda-rusvet-iddiasiyla-fezleke",
+  "source": "Diken",
+  "summary_tr": "Ankara Başsavcılığı, Yeni Parti Genel Başkanı Özgür Özel ve Malatya vekili Veli Ağbaba hakkında rüşvet iddiasıyla fezleke hazırladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-04T20:01:17.886376+00:00",
+  "type": "news",
+  "cluster_id": "c0089c0b25d9f"
+ },
+ {
+  "title": "Suçlama çok ağır! Savcılık Özel'in dokunulmazlığının kaldırılması için bakanlığa başvurdu",
+  "link": "https://www.sozcu.com.tr/ozgur-ozel-hakkinda-fezleke-4-agustos-2026-p342398",
+  "source": "Sözcü",
+  "summary_tr": "Ankara Cumhuriyet Başsavcılığı, Yeni Parti lideri Özgür Özel'in dokunulmazlığının kaldırılması için bakanlığa başvurdu. Rüşvet suçlaması.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-04T20:01:17.886376+00:00",
+  "type": "news",
+  "cluster_id": "cd18318c0482f"
+ },
+ {
+  "title": "Bakan Bayraktar: 17 milyon hanenin doğal gaz ihtiyacını kendi gazımızla kendi sahamızdan karşılar hale geleceğiz",
+  "link": "https://www.trthaber.com/haber/gundem/bakan-bayraktar-17-milyon-hanenin-dogal-gaz-ihtiyacini-kendi-gazimizla-kendi-sahamizdan-karsilar-hale-gelecegiz-953084.html",
+  "source": "TRT Haber",
+  "summary_tr": "Enerji Bakanı Bayraktar: 17 milyon hanenin doğal gaz ihtiyacını kendi kaynaktan karşılayacağız.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-04T20:01:17.886376+00:00",
+  "type": "news",
+  "cluster_id": "cc14b4d0b8954"
+ },
+ {
   "title": "12 maddelik çerçeve yasa teklifinde neler yer alacak?",
   "link": "https://www.bbc.com/turkce/articles/cm2gwj9jwreo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-06-27T15:01:11.762858+00:00",
   "type": "news",
   "cluster_id": "c5b2b7e209162"
- },
- {
-  "title": "Özel'den Erdoğan'a yanıt: 'CHP'de bir tane dış mihrak varsa o da sensin'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/ozel-den-erdogan-a-yanit-chp-de-bir-tane-dis-mihrak-varsa-o-da-sensin-2515961",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP lideri Özel, Erdoğan'ın 'dış mihrak' suçlamalarına yanıt verdi: 'CHP'de dış mihrak varsa o da sensin' dedi.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-27T14:01:06.744160+00:00",
-  "type": "news",
-  "cluster_id": "c7282fa56dafb"
- },
- {
-  "title": "Özel'den Erdoğan'a 'dış mihrak' yanıtı: 'Biz milletin hesabıyız, sen Trump'ın hesabısın!'",
-  "link": "https://www.sozcu.com.tr/ozel-den-erdogan-a-dis-mihrak-yaniti-biz-milletin-hesabiyiz-sen-trump-in-hesabisin-p331704",
-  "source": "Sözcü",
-  "summary_tr": "CHP lideri Özel, Erdoğan'ın 'dış mihrak' iddiasını yanıtladı: 'Biz milletin hesabıyız, sen Trump'ın hesabısın' dedi.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-27T14:01:06.744160+00:00",
-  "type": "news",
-  "cluster_id": "c3d3967560b1a"
- },
- {
-  "title": "Fresh ship struck in Hormuz as Iran, US trade attacks in worst escalation since peace deal",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamVFR0VfZVlNU01BWjNWakdNczVUSHAzNWFlM0J3MGV1b0ZmbldmdnhQUHVpLTNabjVZSG5tSDJ0RDlQREk0emJnT3ZGbjFEZjVpTEt2UDgxOXpMdWV3dTIzX1ZtQVNpeUdDRVplMkUxd0FVNzNPTEFwZ3BVSUo4SG1BcHFDeEdYS2tIM3RUaWpZNEtyeWlub0h5c29pNjJmdDZ6Y2tha2hKWkNGa3Y0Y2JNYnk4ZWJuUlk4?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran-ABD arasında Hormuz Boğazında gemi saldırıları ve ticari saldırılar son 3 yılın en ciddi gerginliğini yaşatıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-27T13:01:00.537781+00:00",
-  "type": "news",
-  "cluster_id": "cb61c59b6bff7"
- },
- {
-  "title": "Kurtulmuş: Terörsüz Türkiye için çıkacak yasa af niteliğinde olmayacak",
-  "link": "https://www.trthaber.com/haber/gundem/kurtulmus-terorsuz-turkiye-icin-cikacak-yasa-af-niteliginde-olmayacak-949531.html",
-  "source": "TRT Haber",
-  "summary_tr": "TBMM Başkanı Kurtulmuş, Terörsüz Türkiye sürecinin ardından çıkarılacak yasanın geçici ve af niteliğinde olmayacağını açıkladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-06-27T13:01:00.537781+00:00",
-  "type": "news",
-  "cluster_id": "caa36b19d4fd7"
- },
- {
-  "title": "Kiraz üreticisi dertli: 'Böyle giderse ağaçlarımızı köklemek zorunda kalacağız'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/kiraz-ureticisi-dertli-boyle-giderse-agaclarimizi-koklemek-zorunda-kalacagiz-2515939",
-  "source": "Cumhuriyet",
-  "summary_tr": "Isparta'da kiraz üreticileri düşük fiyatlar nedeniyle ürün ağaçlarını söküp atmayı düşünüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-27T13:01:00.537781+00:00",
-  "type": "news",
-  "cluster_id": "c3dc9a41d0aa3"
- },
- {
-  "title": "Çinli rakipler pazarı kuşattı: Alman otomotiv devlerinden tarihi işten çıkarma dalgası",
-  "link": "https://www.sozcu.com.tr/cinli-rakipler-pazari-kusatti-alman-otomotiv-devlerinden-tarihi-isten-cikarma-dalgasi-p331682",
-  "source": "Sözcü",
-  "summary_tr": "Almanya'nın otomotiv sektörü, Çinli üreticilerin rekabeti nedeniyle tarihsel işten çıkarma dalgasıyla karşı karşıya.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-27T13:01:00.537781+00:00",
-  "type": "news",
-  "cluster_id": "cbeac733c5b16"
  }
 ]
