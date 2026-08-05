@@ -1,5 +1,77 @@
 [
  {
+  "title": "BM: İsrail, ateşkese rağmen Lübnan'da tahliye emri yayımladı",
+  "link": "https://www.trthaber.com/haber/dunya/bm-israil-ateskese-ragmen-lubnanda-tahliye-emri-yayimladi-953192.html",
+  "source": "TRT Haber",
+  "summary_tr": "BM, İsrail ordusunun Lübnan'da ateşkese rağmen 3. bölgede tahliye emri yayımladığını bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-05T19:01:07.146975+00:00",
+  "type": "news",
+  "cluster_id": "c3f74957eb768"
+ },
+ {
+  "title": "Çerçeve yasa: Selahattin Demirtaş tahliye olup siyasete dönecek mi?",
+  "link": "https://www.dw.com/tr/çerçeve-yasa-selahattin-demirtaş-tahliye-olup-siyasete-dönecek-mi/a-78257772?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Selahattin Demirtaş'ın tahliyesi ve siyasete dönüşü çerçeve yasa teklifine bağlı. Yasa, Demirtaş ve örgüt kurucu kadrosunun tahliyesini engelleyecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-05T19:01:07.146975+00:00",
+  "type": "news",
+  "cluster_id": "c77c065d58284"
+ },
+ {
+  "title": "İran: Umman ile Hürmüz Boğazı konusundaki müzakereler son aşamada, Boğaz'ın açılması ABD'nin tutumuna bağlı",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-umman-ile-hurmuz-bogazi-konusundaki-muzakereler-son-asamada-bogazin-acilmasi-abdnin-tutumuna-bagli/4019510",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Dışişleri Bakan Yardımcısı Garibabadi, Umman ile Hürmüz Boğazı müzakerelerinin son aşamaya girdiğini ve Boğaz'ın açılmasının ABD'nin tutumuna bağlı olduğunu belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-05T19:01:07.146975+00:00",
+  "type": "news",
+  "cluster_id": "c1b73ac520c7b"
+ },
+ {
+  "title": "İran: Hürmüz Boğazı müzakereleri son aşamada, Boğaz'ın açılması ABD'nin tutumuna bağlı",
+  "link": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazi-muzakereleri-son-asamada-bogazin-acilmasi-abdnin-tutumuna-bagli-953194.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Dışişleri Bakan Yardımcısı Garibabadi, Umman ile Hürmüz Boğazı müzakerelerinin son aşamada olduğunu ve boğazın açılmasının ABD tutumuna bağlı olduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-05T19:01:07.146975+00:00",
+  "type": "news",
+  "cluster_id": "c1b73ac520c7b"
+ },
+ {
+  "title": "YENİ Partili Veli Ağbaba'dan sert tepki: ‘HTS kaydı varsa idam edilmeye razıyım’",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/yeni-partili-veli-agbaba-dan-sert-tepki-hts-kaydi-varsa-idam-edilmeye-raziyim-2526804",
+  "source": "Cumhuriyet",
+  "summary_tr": "YENİ Parti Malatya Milletvekili Veli Ağbaba, TBMM'de 2 Mayıs 2026'dan beri bir itirafçının iddiaları hakkında sert tepki gösterdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-05T19:01:07.146975+00:00",
+  "type": "news",
+  "cluster_id": "c5ce84e5ffcbf"
+ },
+ {
+  "title": "Son dakika...Gazi ve şehit yakınlarına ilişkin kanun teklifi kabul edildi",
+  "link": "https://www.sozcu.com.tr/son-dakika-gazi-ve-sehit-yakinlarina-iliskin-kanun-teklifi-kabul-edildi-p342727",
+  "source": "Sözcü",
+  "summary_tr": "Şehit yakınları ve gazilere yönelik kanun teklifi komisyonda kabul edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-05T19:01:07.146975+00:00",
+  "type": "news",
+  "cluster_id": "c36a481b6646e"
+ },
+ {
   "title": "İYİ Parti'nin ‘çerçeve yasa’ teklifi reddedildi: ‘PKK sözde hukuki bir organizasyon mudur ki kendini feshetsin’",
   "link": "https://www.cumhuriyet.com.tr/siyaset/iyi-parti-nin-cerceve-yasa-teklifi-reddedildi-pkk-sozde-hukuki-bir-organizasyon-mudur-ki-kendini-feshetsin-2526799",
   "source": "Cumhuriyet",
@@ -59926,77 +59998,5 @@
   "ts": "2026-06-29T19:00:55.819116+00:00",
   "type": "news",
   "cluster_id": "cf9a21eb54cd0"
- },
- {
-  "title": "İsrail'in Suriye'deki operasyonları bölgede gerilimi artırdı",
-  "link": "https://www.dw.com/tr/israil-in-suriye-deki-operasyonları-bölgede-gerilimi-artırdı/a-77759211?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "İsrail'in Suriye'deki askerî operasyonları bölgede gerilimi artırdı; Suriye ve Türkiye, İsrail'in saldırılarını uluslararası hukuku ihlal ettiğini belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-29T18:01:03.974306+00:00",
-  "type": "news",
-  "cluster_id": "cde2b2ab6dc8b"
- },
- {
-  "title": "SSB Başkanı Görgün: 250 milyon dolarlık ihracatı biz artık bir haftada yapar hale geldik",
-  "link": "https://www.trthaber.com/haber/savunma/ssb-baskani-gorgun-250-milyon-dolarlik-ihracati-biz-artik-bir-haftada-yapar-hale-geldik-949695.html",
-  "source": "TRT Haber",
-  "summary_tr": "Savunma Sanayii Başkanı Görgün, 2002'de yıllık 250 milyon dolar olan savunma ihracatının şimdi haftalık yapıldığını belirtti.",
-  "metric": "Savunma ihracatı 250 milyon dolar/yıl -> 250 milyon dolar/hafta (x52 artış)",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-06-29T18:01:03.974306+00:00",
-  "type": "news",
-  "cluster_id": "c86f7194ffa90"
- },
- {
-  "title": "İletişim Başkanı Duran: İsrail'in, Suriyenin egemenliğini hedef alan saldırılarını kınıyorum",
-  "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-israilin-suriyenin-egemenligini-hedef-alan-saldirilarini-kiniyorum-949691.html",
-  "source": "TRT Haber",
-  "summary_tr": "İletişim Başkanı Duran, İsrail'in Suriye'nin egemenliğini hedef alan saldırılarını kınadı.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-06-29T18:01:03.974306+00:00",
-  "type": "news",
-  "cluster_id": "cc26fb8f9f454"
- },
- {
-  "title": "Eski AKP milletvekili Metiner, Bahçeli’yi ziyaret etti: ‘Süreç son aşamasında’",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/eski-akp-milletvekili-metiner-bahceli-yi-ziyaret-etti-surec-son-asamasinda-2516554",
-  "source": "Cumhuriyet",
-  "summary_tr": "Eski AKP Milletvekili Mehmet Metiner, MHP Genel Başkanı Devlet Bahçeli'yi ziyaret ederek 'sürecin son aşamasında' olduğunu belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-29T18:01:03.974306+00:00",
-  "type": "news",
-  "cluster_id": "c9b0aae3e46b2"
- },
- {
-  "title": "Özgür Özel İzmir’de sert çıktı, 'sloganı' duyurdu: ‘Butlancılar bir elin parmakları kadar kişiyle ziyaret yaparken biz çay içmeye on binlerle geliyoruz!’",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-izmir-de-sert-cikti-slogani-duyurdu-butlancilar-bir-elin-parmaklari-kadar-kisiyle-ziyaret-yaparken-biz-cay-icmeye-on-binlerle-geliyoruz-2516552",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP lideri Özgür Özel, İzmir'de sert çıkarak parti faaliyetlerini vurguladı ve oy potansiyelini destekleyen kitle katılımını öne çıkardı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-29T18:01:03.974306+00:00",
-  "type": "news",
-  "cluster_id": "cf36bceea9b44"
- },
- {
-  "title": "Rosatom, Akkuyu NGS'nin ilk ünitesinin ne zaman devreye alınacağını duyurdu",
-  "link": "https://www.sozcu.com.tr/rosatom-akkuyu-ngs-nin-ilk-unitesinin-ne-zaman-devreye-alinacagini-duyurdu-p332262",
-  "source": "Sözcü",
-  "summary_tr": "Rosatom, Akkuyu Nükleer Güç Santrali'nin birinci ünitesinin sonbahar 2026'da devreye alınacağını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-29T17:01:00.873091+00:00",
-  "type": "news",
-  "cluster_id": "c722c05bd36c6"
  }
 ]
