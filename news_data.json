@@ -1,5 +1,77 @@
 [
  {
+  "title": "Enflasyon ve faizde düşüş beklemeyin",
+  "link": "https://www.sozcu.com.tr/enflasyon-ve-faizde-dusus-beklemeyin-p342444",
+  "source": "Sözcü",
+  "summary_tr": "BBVA, Citi, Goldman Sachs ve HSBC bankaları, Türkiye'de enflasyon ve faizde kalıcı düşüş beklenmemesi gerektiğini belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-05T03:01:07.921867+00:00",
+  "type": "news",
+  "cluster_id": "cf0da1dcd95cc"
+ },
+ {
+  "title": "China AI hardware stocks slump after news US plans to ban imports of Chinese components",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU1dRTlJ3dWthcTVkQnd1NFVJTFZSeHV4TXNiZlZOaVlNa1lSNFVnQWZxZkxEQkV2NGZ3YV8wZ21mbjhRYUg3Z05nci1Ua3o1M0FyTGxIT0VLXzhYUlFpajhQVEEwYmFuZnhZNjZPdjdPcFh2elVnNlFvdVZjYlVTNWU5M21VempmYUVMSzNNMURjeEtwcFFUa2NvY2MwYVE1M0k2RDVpTFR1V0VGUVBBNHNaRkQ3UzlhX2FMUDJFNXpOX1RVU2ZZRQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD'nin Çin bileşenlerinin ithalatını yasaklama planı haberinin ardından Çin yapay zeka donanım hisse senetleri düştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-05T03:01:07.921867+00:00",
+  "type": "news",
+  "cluster_id": "cdb2d11f59991"
+ },
+ {
+  "title": "Çerçeve yasa teklifi bugün Meclis başkanlığına sunuluyor",
+  "link": "https://www.bbc.com/turkce/articles/cm2gemqqr9mo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Kürt meselesine ilişkin yeni çözüm sürecinin hukuki zeminini oluşturacak çerçeve yasa teklifi bugün Meclis Başkanlığı'na sunuluyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-05T03:01:07.921867+00:00",
+  "type": "news",
+  "cluster_id": "c5b5a449a6e02"
+ },
+ {
+  "title": "63 general ve amiral emekli edildi",
+  "link": "https://www.sozcu.com.tr/63-general-ve-amiral-emekli-edildi-p342445",
+  "source": "Sözcü",
+  "summary_tr": "YAŞ kararlarıyla 63 general ve amiral emekli edildi. Hava Kuvvetleri Komutanı Cemal Kadıoğlu emekliye ayrılırken yerine başka bir komutan atandı.",
+  "metric": "63 general/amiral emekli edildi",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-05T03:01:07.921867+00:00",
+  "type": "news",
+  "cluster_id": "cdb2e424c2977"
+ },
+ {
+  "title": "Russian attacks kill one in Ukrainian capital Kyiv, trigger fires",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZEp4Rk5HakNGTG56VGc2SnNSOEx0WGxlR0lJc3RoZnRsU1lVbThpcXRndkRDQXdtMFNESDBpVWsySXZ5T3VEZ0F3aDVoZG9PZl9CUzVhem16NlBQMVpManl1SXFKT1VWUHQ2SllTRGVSOW5xX1NYZm9XWlNndktTM0ZteVMtdHo5SXZyNTVSVFpJUU1KZ0Zqc3dDSGRJbXA1WTJtckEzTExkSi1aQkQwSFdITFBZeUM5OHhETy1oMnhtRVNIV3lR?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rus saldırıları Kyiv'de bir kişiyi öldürdü ve yangınlara neden oldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-05T03:01:07.921867+00:00",
+  "type": "news",
+  "cluster_id": "cb13c52de7808"
+ },
+ {
+  "title": "Mehmet Şimşek’e 0.4 tebriği",
+  "link": "https://www.sozcu.com.tr/mehmet-simsek-e-0-4-tebrigi-p342443",
+  "source": "Sözcü",
+  "summary_tr": "Fatih Erbakan, Maliye Bakanı Mehmet Şimşek'in enflasyonda 0.36 puan düşüş (%32,11'den %31,75'e) ile övünmesini eleştirdi.",
+  "metric": "Enflasyon %32,11 -> %31,75 (-0,36 puan)",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-05T03:01:07.921867+00:00",
+  "type": "news",
+  "cluster_id": "cc7c814061909"
+ },
+ {
   "title": "Milyonların canı yandı!",
   "link": "https://www.cumhuriyet.com.tr/yazarlar/arif-kizilyalin/milyonlarin-cani-yandi-2526534",
   "source": "Cumhuriyet",
@@ -59926,77 +59998,5 @@
   "ts": "2026-06-27T19:01:09.757464+00:00",
   "type": "news",
   "cluster_id": "c7daa1c2f3cfa"
- },
- {
-  "title": "Venezuela'daki depremlerde hayatını kaybedenlerin sayısı 1430'a yükseldi",
-  "link": "https://www.trthaber.com/haber/dunya/venezueladaki-depremlerde-hayatini-kaybedenlerin-sayisi-1430a-yukseldi-949545.html",
-  "source": "TRT Haber",
-  "summary_tr": "Venezuela'daki depremlerde ölü sayısı 1430'a, yaralı sayısı 3 bin 238'e yükseldi.",
-  "metric": "Ölü: 1.430 | Yaralı: 3.238",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-27T19:01:09.757464+00:00",
-  "type": "news",
-  "cluster_id": "c3fedf5690cff"
- },
- {
-  "title": "Bolivia ends 15-year dollar peg in attempt to restore economic stability",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdzN5VTZHV29DU0dLZWFUQXhFYm5JTHBldjlvaW5EbGpVSGFBc3B5aUQ1d0tYT240SHFXUUxfSEFNeFV0X0liOVhTR2E3RFgzMFBHb1lGM3RnT2ZRY0lZTWtRVHQ4SFRWb1pqMS1SeDlBVE8yRW1RdmhiZE9qaG5oZ1I0WUJzMnhGZ056MzZiZjdBNnBJc1JoYmVLN09kYlRmeXRjU3U2eWtHbWZGdVo1a2k5UUFrWGJp?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Bolivya 15 yıllık dolar sabitini sonlandırarak ekonomik istikrarı iade etmeyi amaçlıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-27T18:01:07.858026+00:00",
-  "type": "news",
-  "cluster_id": "c19bd2b7d8ea7"
- },
- {
-  "title": "Supreme Court ruling, ECB conference likely to further frame Fed chief Warsh's early tenure",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVVYyeVlFWjBaMHVRcE9pbWlvS05JVWdESHZ6VTBsTmsxM3dOaWFQRW1UTUp5aEtGRVZrYXBMT01fWXp5b2s4QmpMUDNncERCV2lpRVFBejktRGdSeDR2Mk1pdTJZanBwcHFodHQweVEyWUxhVnpvYXpWRUNQc2lTTDZaU1REUVl5TS1wSS04NS1hUzduWEhjVVpXbDRHaVhHN1BLQUpaR2NYemstemtYNmd1X2pyWThPUzVUdXlOb0xkUQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Fed Başkanı Warsh'ın görev başlaması Yüksek Mahkeme kararı ve ECB konferansıyla şekilleniyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-27T18:01:07.858026+00:00",
-  "type": "news",
-  "cluster_id": "cc09b04ebfb36"
- },
- {
-  "title": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyine hava saldırıları düzenledi",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyine-hava-saldirilari-duzenledi/3979984",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail ordusu ateşkese ve ABD-İran mutabakatına rağmen Lübnan'ın güneyine hava saldırıları düzenledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-27T17:01:01.248150+00:00",
-  "type": "news",
-  "cluster_id": "c89ede817d34b"
- },
- {
-  "title": "Öğretmenler 13 gündür sürdürdükleri açlık grevini sonlandırdı",
-  "link": "https://www.bbc.com/turkce/articles/clyekjg40gzo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Öğretmenler 13 günlük açlık grevini sonlandırdı. Sendika, aileler üzerindeki olumsuz durumlara karşı sorumlu davranış göstererek kararı aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-27T17:01:01.248150+00:00",
-  "type": "news",
-  "cluster_id": "cabb648b007e9"
- },
- {
-  "title": "Arap ülkeleri, İran'ın Bahreyn'e saldırısını \"barışı baltalayan bir eylem\" olarak nitelendirdi",
-  "link": "https://www.aa.com.tr/tr/dunya/arap-ulkeleri-iranin-bahreyne-saldirisini-barisi-baltalayan-bir-eylem-olarak-nitelendirdi/3979950",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Arap ülkeleri (BAE, Suudi Arabistan, Ürdün, Kuveyt, Katar), İran'ın Bahreyn'e yönelik İHA saldırısını 'barışı baltalayan eylem' olarak nitelendirir.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-27T16:01:04.101091+00:00",
-  "type": "news",
-  "cluster_id": "ce190867535c0"
  }
 ]
