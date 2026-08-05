@@ -1,5 +1,77 @@
 [
  {
+  "title": "Netanyahu: Trump'ın planını kabul etmedik",
+  "link": "https://www.dw.com/tr/netanyahu-trump-ın-planını-kabul-etmedik/a-78242336?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Netanyahu, Trump'ın Gazze barış planını onaylamadıklarını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-05T09:01:18.788601+00:00",
+  "type": "news",
+  "cluster_id": "c9e1f29e7e6df"
+ },
+ {
+  "title": "Doğalgazda kış ayları için kritik uyarı: O abonelerin faturası iki kat artacak",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/dogalgazda-kis-aylari-icin-kritik-uyari-o-abonelerin-faturasi-iki-kat-artacak-2526647",
+  "source": "Cumhuriyet",
+  "summary_tr": "Kademeli doğalgaz tarifesi kış aylarında abonelerin faturalarını iki kat artıracak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-05T09:01:18.788601+00:00",
+  "type": "news",
+  "cluster_id": "c0c53a63de16c"
+ },
+ {
+  "title": "Üzüm üreticileri isyan etti: 'Artık geçinemiyoruz, çocuklarımız bağcılık yapmayacak'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/uzum-ureticileri-isyan-etti-artik-gecinemiyoruz-cocuklarimiz-bagcilik-yapmayacak-2526642",
+  "source": "Cumhuriyet",
+  "summary_tr": "Manisa'da üzüm üreticileri kuru üzüm için 150-180 lira taban fiyat talep etti; geçim sıkıntısından söz etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-05T09:01:18.788601+00:00",
+  "type": "news",
+  "cluster_id": "cd9d025457d8e"
+ },
+ {
+  "title": "Küresel kriz petrol şirketlerine yaradı:  Dakikada 700 bin dolar kazandılar",
+  "link": "https://www.sozcu.com.tr/kuresel-kriz-petrol-sirketlerine-yaradi-dakikada-700-bin-dolar-kazandilar-p342579",
+  "source": "Sözcü",
+  "summary_tr": "Orta Doğu gerilimi petrol fiyatlarını rekor seviyelere çıkardı; enerji şirketleri ikinci çeyrekte 93 milyon dolar günlük kazanç elde etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-05T09:01:18.788601+00:00",
+  "type": "news",
+  "cluster_id": "c6b84d1bffbf4"
+ },
+ {
+  "title": "BDDK, kalkınma ve yatırım bankalarının kredi sınırlarında değişikliğe gitti",
+  "link": "https://www.aa.com.tr/tr/ekonomi/bddk-kalkinma-ve-yatirim-bankalarinin-kredi-sinirlarinda-degisiklige-gitti/4018828",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "BDDK, kalkınma ve yatırım bankalarının kredi sınırlarında düzenleme yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-05T09:01:18.788601+00:00",
+  "type": "news",
+  "cluster_id": "c2fa514636d5f"
+ },
+ {
+  "title": "Bakırın libresi 6,65 dolara ulaşarak tarihi zirvesine yakın seyrediyor",
+  "link": "https://www.aa.com.tr/tr/ekonomi/bakirin-libresi-6-65-dolara-ulasarak-tarihi-zirvesine-yakin-seyrediyor/4018820",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Bakır libresi yapay zeka altyapı yatırımları ve yenilenebilir enerji talebinin etkisiyle tarihi zirveye yakın seyrediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-05T09:01:18.788601+00:00",
+  "type": "news",
+  "cluster_id": "cc281a1823421"
+ },
+ {
   "title": "Rusya'nın Kiev'e füze saldırıları yeniden yoğunlaştı",
   "link": "https://www.dw.com/tr/rusya-nın-kiev-e-füze-saldırıları-yeniden-yoğunlaştı/a-78241497?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-06-28T11:01:20.487035+00:00",
   "type": "news",
   "cluster_id": "cb3a48380d40a"
- },
- {
-  "title": "Butlan yönetiminden 'Özel yerine grup başkanlığına Öztrak atandı' iddiasına yalanlama!",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/butlan-yonetiminden-ozel-yerine-grup-baskanligina-oztrak-atandi-iddiasina-yalanlama-2516151",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Grup Başkanlığı görevinden Özel düşürüldüğü iddiasına Butlan yönetimi yanıt verdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-06-28T10:01:07.650166+00:00",
-  "type": "news",
-  "cluster_id": "c802f12afc2dd"
- },
- {
-  "title": "İçişleri Bakanlığı açıkladı... 29 ilde siber suçlara yönelik operasyon: 213 tutuklama",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/icisleri-bakanligi-acikladi-29-ilde-siber-suclara-yonelik-operasyon-213-tutuklama-2516150",
-  "source": "Cumhuriyet",
-  "summary_tr": "İçişleri Bakanlığı, siber suçlara yönelik 29 ilde operasyonlar düzenleyerek 213 şüpheliyi tutuklatmıştır.",
-  "metric": "Tutuklama sayısı: 213",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-28T10:01:07.650166+00:00",
-  "type": "news",
-  "cluster_id": "c3d9bfffcc176"
- },
- {
-  "title": "Özgür Özel'den iddialara yanıt: CHP'den 86 milletvekili ABP'ye mi geçecek?",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-den-iddialara-yanit-chp-den-86-milletvekili-abp-ye-mi-gececek-2516148",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Genel Başkanı Özel, ABP Genel Başkanı Yalçın'ın 86 milletvekili ve 74 il başkanının kendi partisine geçeceği iddiasına yanıt verdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-28T10:01:07.650166+00:00",
-  "type": "news",
-  "cluster_id": "cb1c2fa3b5f4f"
- },
- {
-  "title": "Gözaltına alınmıştı... Balçova Belediye Başkanı Onur Yiğit adliyeye sevk edildi!",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/gozaltina-alinmisti-balcova-belediye-baskani-onur-yigit-adliyeye-sevk-edildi-2516142",
-  "source": "Cumhuriyet",
-  "summary_tr": "Balçova Belediye Başkanı Onur Yiğit gözaltına alındıktan sonra adliyeye sevk edildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-28T10:01:07.650166+00:00",
-  "type": "news",
-  "cluster_id": "cd164d4b13136"
- },
- {
-  "title": "Siber suçlara yönelik operasyonlarda yakalanan 213 zanlı tutuklandı",
-  "link": "https://www.aa.com.tr/tr/gundem/siber-suclara-yonelik-operasyonlarda-yakalanan-213-zanli-tutuklandi/3980318",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İçişleri Bakanlığı, siber suçlara yönelik operasyonlarda gözaltına alınan 409 şüpheliden 213'ünü tutuklamıştır.",
-  "metric": "Tutuklama sayısı: 213",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-28T10:01:07.650166+00:00",
-  "type": "news",
-  "cluster_id": "cd6ac6e69a78c"
- },
- {
-  "title": "Siber suçlarla mücadele sürüyor: 213 tutuklama",
-  "link": "https://www.trthaber.com/haber/gundem/siber-suclarla-mucadele-suruyor-213-tutuklama-949572.html",
-  "source": "TRT Haber",
-  "summary_tr": "Siber suçlarla mücadele kapsamında 29 ilde operasyonlarda 409 şüpheliden 213'ü tutuklanmıştır.",
-  "metric": "Tutuklama sayısı: 213",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-28T10:01:07.650166+00:00",
-  "type": "news",
-  "cluster_id": "cf669468817ba"
  }
 ]
