@@ -1,5 +1,17 @@
 [
  {
+  "title": "Milyonların canı yandı!",
+  "link": "https://www.cumhuriyet.com.tr/yazarlar/arif-kizilyalin/milyonlarin-cani-yandi-2526534",
+  "source": "Cumhuriyet",
+  "summary_tr": "TÜİK haziran enflasyonunu 0.99 olarak açıkladı; memur ve emekli zam hesaplamasını etkileyecek.",
+  "metric": "Haziran enflasyonu %0.99",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-05T02:01:06.969919+00:00",
+  "type": "news",
+  "cluster_id": "c68941a1e3952"
+ },
+ {
   "title": "Kiev Belediye Başkanı Kliçko, kentin balistik füze saldırısı altında olduğunu açıkladı",
   "link": "https://www.aa.com.tr/tr/dunya/kiev-belediye-baskani-klicko-kentin-balistik-fuze-saldirisi-altinda-oldugunu-acikladi-/4018580",
   "source": "Anadolu Ajansı",
@@ -59986,17 +59998,5 @@
   "ts": "2026-06-27T16:01:04.101091+00:00",
   "type": "news",
   "cluster_id": "ce190867535c0"
- },
- {
-  "title": "Bakanlıktan talimat geldi: Milyonlarca araç sahibini ilgilendiriyor",
-  "link": "https://www.sozcu.com.tr/bakanliktan-talimat-geldi-milyonlarca-arac-sahibini-ilgilendiriyor-p331719",
-  "source": "Sözcü",
-  "summary_tr": "İçişleri Bakanlığı tarafından hazırlanan yeni trafik uygulama yönetmeliği milyonlarca araç sahibini etkileyecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-27T16:01:04.101091+00:00",
-  "type": "news",
-  "cluster_id": "c9e202e8dd028"
  }
 ]
