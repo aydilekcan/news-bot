@@ -1,5 +1,29 @@
 [
  {
+  "title": "Major Wall Street firms targeted in attempted cyberattacks, sources say",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORTh0MGxWX1RCZWdvU0lqaUZVczZzdDJaYlNDVlM5aURvZlVLWUpXaTJPZjRvOXpjQ2c2eUwwbDkzaTZBc3dRaHhyYkViSGdMV25VdWpvWVB6OXphVlZmOXl1OFRXV0pQZ2VxRkZtX1psOTN4UnRQeV9nNllHUzdadnB2Z3M4bTR1NG9HQW1pTVlYNzJBcXJZU0JYcmhEZVNIcWF2RmF6b1pucFFxWFpKWmtMbm10QXd4Vy1CT2V4dWI5NmUycW1fUw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Wall Street'teki büyük firmalar siber saldırı teşebbüslerine hedef oldu; ABD finansal sistemi için önemli güvenlik tehdidi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-05T22:01:13.774634+00:00",
+  "type": "news",
+  "cluster_id": "c2e71acb18bf3"
+ },
+ {
+  "title": "Etsy'den toplu işten çıkarma kararı: Yaklaşık 220 çalışanla yollar ayrılıyor",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/etsy-den-toplu-isten-cikarma-karari-yaklasik-220-calisanla-yollar-ayriliyor-2526857",
+  "source": "Cumhuriyet",
+  "summary_tr": "Etsy, yeniden yapılanma kapsamında iş gücünün %12'sini (yaklaşık 220 çalışan) azaltacağını açıkladı.",
+  "metric": "İş gücü azaltma oranı: %12",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-05T22:01:13.774634+00:00",
+  "type": "news",
+  "cluster_id": "c1a36acb421a8"
+ },
+ {
   "title": "Şehrin CHP'de kalan tek belediye başkanıydı: İstifa ettiğini duyurdu",
   "link": "https://www.cumhuriyet.com.tr/siyaset/sehrin-chp-kalan-tek-belediye-baskaniydi-istifa-ettigini-duyurdu-2526831",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-29T22:03:18.813219+00:00",
   "type": "news",
   "cluster_id": "c5bb1e7835fbb"
- },
- {
-  "title": "Supreme Court rejects Trump’s push to toss $5 million verdict in E. Jean Carroll sexual abuse case",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMTFWU0ZjYjRjbE5rYjlyYjRnN21BNmJ6YmtyZHR0RlV3V2VONnRCRjdTejl5LUtMNFBCSTMtWjJObnV6T3F4UGNleF9Ebmc0dXlLeWlrYS1Hd3BfaWpVSHJMOEJVaVlsM3FnQWJHZW8zT09OMWdCYmFNNG5aeHZuakVIZ0pzaXc3aFNTd3pRdHo1YklDTzUtWVdWT3RaQ1NDVHpOamhaejBmaXc?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD Yüksek Mahkemesi, Trump'ın E. Jean Carroll davasındaki 5 milyon dolarlık kararı iptal etme başvurusunu reddetti",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-29T22:03:18.813219+00:00",
-  "type": "news",
-  "cluster_id": "c1bbe725adf8e"
- },
- {
-  "title": "İsrail ordusunun Gazze'ye düzenlediği saldırılarda hayatını kaybedenlerin sayısı 8'e yükseldi",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-gazzeye-duzenledigi-saldirilarda-hayatini-kaybedenlerin-sayisi-8e-yukseldi/3981740",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail ordusunun ateşkese rağmen Gazze'ye düzenlediği saldırılarda ölü sayısı 8'e yükseldi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-29T21:01:03.484638+00:00",
-  "type": "news",
-  "cluster_id": "c7cd5772a0413"
  }
 ]
