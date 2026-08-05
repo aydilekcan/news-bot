@@ -1,5 +1,17 @@
 [
  {
+  "title": "Trump administration revokes visa of Brazil’s ambassador to US in spat with Lula",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbzhJanFZY3p0cWNVZlFLUXEwbEViRktZY1U3MXJfTXBRMWo2MmVtR1RvQ2I1MzMySEM4OE1oYkRLemJqM0FPaWxwMS12NjVBSzdOTTN0bUtGR2JFZklYQVVtQ1dXN0ttdDdpanFWUDVLanBJX0liVHBuR2xscTI0NndFVWgyQWFjTU9OT3FNRFFSQl9nOGMtWWFJaG1Pc3M?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD'nin Trump yönetimi Brezilya büyükelçisinin vizesini iptal etti; Lula ile diplomatik gerilim yaşanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-05T00:01:13.219002+00:00",
+  "type": "news",
+  "cluster_id": "c5dc3c73fb688"
+ },
+ {
   "title": "EXCLUSIVE: White House set to extend Jones Act waiver as Trump hunts for cheaper gasoline",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeTdhU2NMYVVDcFJtV0pXczNXR3NpODBkVjFOMjI2OXJ5NUJsMEd4RVpHUHhsdF9WTl9VRUY1MExPNzdTa3dLYVZ3MDMxeDc5dkFreVJQZ3hEaXRQVTN4WDJvRlc5clJYazBWUnVSYkItaUZ6QjdvVmFZU3B5YWZ5RnlTMXQ5UU5xdTFPdTBGUWdlSkhyRTEwNE5VUHpadGV2b2l2ZjB4NmhCcVFFcUFTa2ZUc2hZZFpHZ1QyRQ?oc=5",
   "source": "Reuters",
@@ -59986,17 +59998,5 @@
   "ts": "2026-06-27T16:01:04.101091+00:00",
   "type": "news",
   "cluster_id": "c489728c51fb6"
- },
- {
-  "title": "Venezuela'da peş peşe iki deprem: On binlerce kayıp olduğu bildiriliyor",
-  "link": "https://www.bbc.com/turkce/articles/cj3gy31vz8yo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Venezuela'da 24 Haziran'da meydana gelen 7,2 ve 7,5 büyüklüğündeki depremlerden 920 kişi öldü, 3360 kişi yaralandı.",
-  "metric": "Ölü sayısı 920 (+pek çok); yaralı 3360",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-27T15:01:11.762858+00:00",
-  "type": "news",
-  "cluster_id": "cf6e4b0ef238e"
  }
 ]
