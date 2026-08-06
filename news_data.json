@@ -1,5 +1,77 @@
 [
  {
+  "title": "TMO'nun fındık alım fiyatına tepki: Bu taban fiyat değil, üreticinin ölüm fermanıdır",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/tmo-nun-findik-alim-fiyatina-tepki-bu-taban-fiyat-degil-ureticinin-olum-fermanidir-2527037",
+  "source": "Cumhuriyet",
+  "summary_tr": "TMO fındık alım fiyatını 250-255 liraya açıkladı; üreticiler 'ölüm fermanı' diyerek protesto ediyor.",
+  "metric": "Fındık alım fiyatı (TMO): Giresun 255 TL/kg, Levant 250 TL/kg",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-06T15:01:12.244209+00:00",
+  "type": "news",
+  "cluster_id": "c263bb329451e"
+ },
+ {
+  "title": "Son Dakika... Özgür Özel'den 'çerçeve yasa' açıklaması: 'İmza atma çabamız yok'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-ozgur-ozel-den-cerceve-yasa-aciklamasi-imza-atma-cabamiz-yok-2527030",
+  "source": "Cumhuriyet",
+  "summary_tr": "YENİ Parti Genel Başkanı Özgür Özel, çerçeve yasaya 'imza atma çabamız yok' diyerek muhalefet açıklaması yaptı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-06T15:01:12.244209+00:00",
+  "type": "news",
+  "cluster_id": "c0892f5cfd168"
+ },
+ {
+  "title": "Adres artık İstanbul: 31 Ağustos’ta resmen başlayacak",
+  "link": "https://www.sozcu.com.tr/adres-artik-istanbul-31-agustos-ta-resmen-baslayacak-p343002",
+  "source": "Sözcü",
+  "summary_tr": "SEEBRIG Karargahı Kuzey Makedonya'dan İstanbul'a taşınıyor; 31 Ağustos'ta resmen başlayacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-06T15:01:12.244209+00:00",
+  "type": "news",
+  "cluster_id": "c0ff6010fdd21"
+ },
+ {
+  "title": "Çerçeve yasaya tepkiler: Şu ana kadar kim ne dedi?",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSUs0VzlpTHlIOE16dERNUHVqYlNQN3ZZRGdlM2pqZXBOV3dKLUlZem11X1dsWlFOR2xWYlFPdmZ3TWJNVWh4Q1pkcW5KTHlELXZfbmZ5eHM5N2tkamdTU0lKM2p5QjBsbXE5d1hLR19VUEVPekNDcktfbGZxbm0teXBjSkVyVDBBd0E?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Çerçeve yasasına çeşitli siyasi partiler ve kişiler tepki gösteriyor; tepkilerin özeti derlenmiş.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-06T15:01:12.244209+00:00",
+  "type": "news",
+  "cluster_id": "ca3d374450749"
+ },
+ {
+  "title": "EasyJet agrees $7.7 billion Apollo deal as Castlelake walks away",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMEk2SWRNS0JWWHJfRFduLXRBY1dkVV9PRU9XLWo2WkM4Z1hBM0R2RmtFLXNoN01jZmVNX2NuYVdWYWh6ZnNQX2FySGI2MkFmQkJOTTVqRVNDWDZwQ2ZqZE9lc2d2RVA3bnNtUHpJelJGckh0QjEtSmlKUzZ1aEwyaHExS3ZYcFpobnc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "EasyJet, Apollo tarafından 7,7 milyar dolara satın alınacak; Castlelake teklifi geri çekti.",
+  "metric": "EasyJet satış fiyatı: 7,7 milyar dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-06T15:01:12.244209+00:00",
+  "type": "news",
+  "cluster_id": "cae7234421d29"
+ },
+ {
+  "title": "Ford's new EV truck Fathom to be priced starting at about $28,000",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZXpzWXQwOWdjTW5oOVdVSW9ZZ2laU19FWUtJVERKRnlKd3NDdzl5dEJDSzlaS25kSkVpaWVHSXRsbEsxd3JpUy1lNEcxbFliMkpUaThKMjF0QWFXMmtqMHpMVDllempPNkNKdEdMX29YY0RCMnQwTHdNMjRyNmNyT1p3RFc5UnJidFNYd1AwU3RHMEhvc0lOZFp3U2xsdDFPS1FDc0VsOUItRk5xY3B4TTBCbFkxMlpORThYMEkxSQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ford'un yeni elektrikli kamyon Fathom, 28.000 dolardan başlayan fiyatla satışa sunuluyor.",
+  "metric": "Ford Fathom başlangıç fiyatı: ~28.000 dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-06T15:01:12.244209+00:00",
+  "type": "news",
+  "cluster_id": "c38a7dbdebc44"
+ },
+ {
   "title": "Erdoğan - Bahçeli görüşmesi sona erdi, açıklama yok",
   "link": "https://www.bbc.com/turkce/articles/cm2g0pene1eo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-06-30T20:00:59.393527+00:00",
   "type": "news",
   "cluster_id": "c897aeeaacac3"
- },
- {
-  "title": "Emeklileri üzecek bir haber daha: AKP ve MHP oylarıyla reddedildi",
-  "link": "https://www.sozcu.com.tr/emeklileri-uzecek-bir-haber-daha-akp-ve-mhp-oylariyla-reddedildi-p332612",
-  "source": "Sözcü",
-  "summary_tr": "AKP ve MHP oylarıyla muhalefet tarafından emeklilere yönelik araştırma ve maaş artışı talepleri reddedildi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-30T20:00:59.393527+00:00",
-  "type": "news",
-  "cluster_id": "c4c15ec538bbd"
- },
- {
-  "title": "MİT Başkanı Kalın, Mısır Genel İstihbarat Servisi Başkanı Reşat ile Ankara'da görüştü",
-  "link": "https://www.aa.com.tr/tr/gundem/mit-baskani-kalin-misir-genel-istihbarat-servisi-baskani-resat-ile-ankarada-gorustu/3982663",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "MİT Başkanı Kalın, Mısır Genel İstihbarat Servisi Başkanı Reşat ile Ankara'da görüştü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-30T20:00:59.393527+00:00",
-  "type": "news",
-  "cluster_id": "c88b3f1238933"
- },
- {
-  "title": "Türkiye ile Suriye arasında afet ve acil durum yönetimi alanında protokol imzalandı",
-  "link": "https://www.trthaber.com/haber/gundem/turkiye-ile-suriye-arasinda-afet-ve-acil-durum-yonetimi-alaninda-protokol-imzalandi-949821.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye ile Suriye afet ve acil durum yönetimi alanında protokol imzaladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-30T20:00:59.393527+00:00",
-  "type": "news",
-  "cluster_id": "c1b535a9534bf"
- },
- {
-  "title": "ABD Yüksek Mahkemesi'nden iki kritik karar: Doğumla vatandaşlık korundu, trans sporcu yasağı onaylandı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/abd-yuksek-mahkemesi-nden-iki-kritik-karar-dogumla-vatandaslik-korundu-trans-sporcu-yasagi-onaylandi-2516876",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Yüksek Mahkemesi Trump'ın doğumla vatandaşlık hakkını sınırlandırma kararnamesesini reddetti; trans sporcu yasağını onayladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-30T19:01:09.069013+00:00",
-  "type": "news",
-  "cluster_id": "c31bc48c30af9"
- },
- {
-  "title": "İsrail savaş jetleri, acil kodunu aktifleştiren yolcu uçağının Tel Aviv'e inişini engelledi",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-savas-jetleri-acil-kodunu-aktiflestiren-yolcu-ucaginin-tel-avive-inisini-engelledi/3982640",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail savaş jetleri, kaçırılma kodu aktifleştiren yolcu uçağının Tel Aviv'e inişini engelledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-30T19:01:09.069013+00:00",
-  "type": "news",
-  "cluster_id": "c42b98079697c"
- },
- {
-  "title": "AB'den üst düzey heyet Ankara'da neler yaptı?",
-  "link": "https://www.dw.com/tr/ab-den-üst-düzey-heyet-ankara-da-neler-yaptı/a-77777309?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "AB'den üç komiser Cumhurbaşkanı Erdoğan ve bakanlarla görüştü; ortak basın toplantısı yapılmadı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-30T19:01:09.069013+00:00",
-  "type": "news",
-  "cluster_id": "c0ae9b9b8056e"
  }
 ]
