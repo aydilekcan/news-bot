@@ -1,5 +1,29 @@
 [
  {
+  "title": "Yeni Parti lideri Özel hakkında fezleke: ‘Kaygıları körüklemek istiyorlar’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/yeni-parti-lideri-ozel-hakkinda-fezleke-kaygilari-koruklemek-istiyorlar-2526821",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ankara Cumhuriyet Başsavcılığı, Yeni Parti Genel Başkanı Özgür Özel hakkında rüşvet suçlamasıyla fezleke hazırladığını açıkladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-06T02:01:02.913916+00:00",
+  "type": "news",
+  "cluster_id": "c00873a2f7012"
+ },
+ {
+  "title": "Muhalefet, borçlardaki artışa dikkat çekerek uyardı: ‘Bireysel iflaslar gündemde’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/muhalefet-borclardaki-artisa-dikkat-cekerek-uyardi-bireysel-iflaslar-gundemde-2526820",
+  "source": "Cumhuriyet",
+  "summary_tr": "Yeni Parti milletvekili, artan bireysel borçlar ve iflas riskine dikkat çekerek faiz indirimi çağrısında bulundu.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-06T02:01:02.913916+00:00",
+  "type": "news",
+  "cluster_id": "cf853c734f171"
+ },
+ {
   "title": "Trump, İran'la anlaşmayı tercih ettiğini ancak askeri saldırının hala bir seçenek olduğunu belirtti",
   "link": "https://www.aa.com.tr/tr/dunya/trump-iranla-anlasmayi-tercih-ettigini-ancak-askeri-saldirinin-hala-bir-secenek-oldugunu-belirtti/4019611",
   "source": "Anadolu Ajansı",
@@ -59974,29 +59998,5 @@
   "ts": "2026-06-29T22:03:18.813219+00:00",
   "type": "news",
   "cluster_id": "c0b1b278e5b19"
- },
- {
-  "title": "Doha'daki kritik görüşme öncesi Trump'tan açıklama",
-  "link": "https://www.sozcu.com.tr/doha-daki-kritik-gorusme-oncesi-trump-tan-aciklama-p332304",
-  "source": "Sözcü",
-  "summary_tr": "ABD Başkanı Trump, Katar'da yapılacak ABD-İran mutabakat zaptı görüşmelerine ilişkin açıklama yaptı",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-29T22:03:18.813219+00:00",
-  "type": "news",
-  "cluster_id": "ca6e1a0f33aa0"
- },
- {
-  "title": "Dilovası soruşturmasında ortaya çıkan skandal: Belediye şirketinin işçisine, “zabıta” yetkisiyle denetim yaptırdılar!",
-  "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVC1PTEJpMnloNngzaVRBd29pVjhoVG51Sk1DNk5ZSkQ5VHVQNzNTUF8yOGZVU2ZuaGhsOHBDUktFcGFyNU4zbDhWS1ZQb2l3OXo0UDlHbmFHVGl4aEwtdnczdHc3QWt0NGVWQkc2cTV6b1FPYW5scUNJZ2VYbVlrQk9uR2gwTzQ0NWpGNVVUTkpOVm1vMWRxdV9NM0U2QUFnUzVrQkVyUHdQTGZaZGotUmdXbElCd0hMV0tCLXM0UEgyZ2dBS2dDWlBHVWV5TWloQ0ZiRjR0VTA5SWpsdmtJZnctd244eEhtU1JqTlZJTGs3Yk9kR1JnRVQzNA?oc=5",
-  "source": "T24",
-  "summary_tr": "Dilovası soruşturmasında belediye şirketinin işçisine zabıta yetkisiyle denetim yaptırıldığı ortaya çıktı",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-06-29T22:03:18.813219+00:00",
-  "type": "news",
-  "cluster_id": "c81b18f6ccc4d"
  }
 ]
