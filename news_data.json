@@ -1,5 +1,41 @@
 [
  {
+  "title": "Ali Babacan'dan 'çerçeve yasa' açıklaması",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/ali-babacan-dan-cerceve-yasa-aciklamasi-2526869",
+  "source": "Cumhuriyet",
+  "summary_tr": "DEVA Partisi lideri Ali Babacan, çerçeve yasanın hukuk önünde eşitlik ilkesini yeterince gözetmediğini söyledi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-06T06:01:08.215228+00:00",
+  "type": "news",
+  "cluster_id": "c23fb02214124"
+ },
+ {
+  "title": "Emlak vergisinde gelecek yıl için esas alınacak inşaat maliyet bedelleri belirlendi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/emlak-vergisinde-gelecek-yil-icin-esas-alinacak-insaat-maliyet-bedelleri-belirlendi/4019659",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Emlak vergisine esas bina metrekare normal inşaat maliyet bedelleri meskenler için 604,1 lira ile 27 bin lira arasında belirlendi.",
+  "metric": "Emlak vergisi inşaat maliyeti 604,1 - 27.000 TL/m²",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-06T06:01:08.215228+00:00",
+  "type": "news",
+  "cluster_id": "cc69290682667"
+ },
+ {
+  "title": "Konutlarda metrekare maliyet bedelleri güncellendi",
+  "link": "https://www.trthaber.com/haber/ekonomi/konutlarda-metrekare-maliyet-bedelleri-guncellendi-953221.html",
+  "source": "TRT Haber",
+  "summary_tr": "Emlak vergisine esas bina metrekare normal inşaat maliyet bedelleri meskenler için 604,1 lira ile 27 bin lira arasında güncellenmiştir.",
+  "metric": "Emlak vergisi inşaat maliyeti 604,1 - 27.000 TL/m²",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-06T06:01:08.215228+00:00",
+  "type": "news",
+  "cluster_id": "cf8c0e98fbffd"
+ },
+ {
   "title": "Milyonların Gözü TBMM'de: Kademeli emeklilik çıkacak mı, kimleri kapsıyor?",
   "link": "https://www.sozcu.com.tr/milyonlarin-gozu-tbmm-de-kademeli-emeklilik-cikacak-mi-kimleri-kapsiyor-p342775",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-06-30T08:01:09.824599+00:00",
   "type": "news",
   "cluster_id": "cd365a2b8b0b4"
- },
- {
-  "title": "İşsizlik oranı: %8,2 (Mayıs 2026)",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRl8zNmt1bFU5RWdQTzhuR1JZcGtTQ25ONzgxYUdLbmliQXhOR0w0RVlaLVhwTGNreDBFY1BxQW9SSmVJX0lWRFU4RFV0TGdFX0hXLUh6X2ROZ2htXzUtY2Q5WXhIamN5YWdOTWMtNkh0VERoUGI5ZDNpSV9ZZktMZndWa2VUblhYVDA3Y0ZvLThrdGFLM1HSAZoBQVVfeXFMTVllVGF2YTJGS1dlTUlfMG9ocUk1NEdoSGZiYjNYYUNyY0xMSVU3RTlhSUlJTjdhcWdtRWtfdFVmc2xoS3VyYlhjdFgyVU8tM09iUUxib3BqRjVKWGotU2lTbUtHTEQ0Qm5MWTkyb0J2bkpfZWNsdDZ1TmU1STJfbUNual9FSUdMTktCNFh5SVRkOS1mUmdNMUNQdw?oc=5",
-  "source": "TÜİK",
-  "summary_tr": "%8 → %8,2 (+0,2 puan)",
-  "metric": "+0,2 puan",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-06-30T08:01:09.824599+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "İşsiz sayısı: 3 milyon (Mayıs 2026)",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTHF5YzdCWVFpTGtlM291ejIxSTdhOEs3WXU0azg1a293SXY3U21tSllFXzk2dWxxSC1mZXhuYmtlRnJKVkYzT0Y1b202VVdtUDdIM1VrbGI0dDRyLXBaNG5sME9OUERzay1Cc2lFS1BWM2tJYnI1cVlqTHJDMFo5TFV6eWMxTGpPNVZsSW9BcDZXN3NlX2FPNFYwWlYwWlNkZi1FQ3RRQXRIOHktVE5HLVAtZ1ZVN19pRGhuSUJNVQ?oc=5",
-  "source": "TÜİK",
-  "summary_tr": "3 milyon",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-06-30T08:01:09.824599+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "İstihdam artışı: 285 bin kişi (Mayıs 2026)",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTWVSNnEzeHA3UWw2YVFBV0tjNDVTZ0NTTERjbmg3WFFKeGFGX0tYekRuQTQ2TWdBdTZvbXI3NzNyRTFkLU42VXc2SmprZDR5aU5sWVlDbmhwZEdJV25TdWhQamgwamFwR3ltV3Q0TElHS3pNSzQ4dHhJNjlrYTJFWmdGTmlvUjBxUkd6RlMwcW10VWNoSDJxSDdNVVIwR2tvbEczbUc3YjY?oc=5",
-  "source": "TÜİK",
-  "summary_tr": "285 bin kişi",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-06-30T08:01:09.824599+00:00",
-  "type": "data",
-  "cluster_id": ""
  }
 ]
