@@ -1,5 +1,53 @@
 [
  {
+  "title": "Trump says he thinks war with Iran will end 'pretty soon'",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1cxUm9wLUhEVGJsRnRJd0xDWmh6LUk2bThTQ0RSWFJDRFZ1OFNKWU5ab2t5ZGJIdjVnSkliUTI0N3dhNnBpSEJGSmRWWl80Z3NNT0lnUEItRGVxT2dsRU1fS3A0MVUzblJsOWx4bGlLY0JNa3FDT2lpY1hhNkMycnl2UWlFbEUxUFRKWGJDQ0k4eG5EZlRXTk1IajFlYkZjRk5PWW84WFR2MnVBeFE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, İran ile savaşın yakında sona ereceğini düşündüğünü söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-06T23:01:05.232974+00:00",
+  "type": "news",
+  "cluster_id": "c1d6b80c1d6da"
+ },
+ {
+  "title": "Saudi Arabia expects imminent attacks from north and south, senior official says",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa3M0RkZsT0JHNHhwVXVvVURQZWs0R1hMbHFpa0RsdXE4MjNaME9lUXc4bXc1M1J4em93djJwZ3U4bS1UczdEaVJDRENsYXlYS2xJQ19ZeTVmRU1mLTBxWHFySVIzRjh3OG5JWFU5b1BpNjYtUlFDNzllUG56Tm9VcTgyYUExX1FzZ3ltLWxXNEE2R3NYZ2I4bTRRUFZtbm5WQUo2UDc2X2hUb3ZaOUpvdVVFWFdQdmx0NXFaeHl3XzdjQQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Suudi Arabistan yetkilisi, kuzey ve güney yönlerinden yakın saldırı beklentisini dile getirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-06T23:01:05.232974+00:00",
+  "type": "news",
+  "cluster_id": "ccc9065454b06"
+ },
+ {
+  "title": "Trump imzaladı! Doğumla vatandaşlığa yeni kısıtlamalar",
+  "link": "https://www.sozcu.com.tr/trump-imzaladi-dogumla-vatandasliga-yeni-kisitlamalar-p343084",
+  "source": "Sözcü",
+  "summary_tr": "ABD Başkanı Trump, doğumla vatandaşlık hakkına yönelik kısıtlamaları genişleten iki başkan kararnamesi imzaladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-06T23:01:05.232974+00:00",
+  "type": "news",
+  "cluster_id": "c8b5af8fee6de"
+ },
+ {
+  "title": "Trump signs orders to limit US birthright citizenship, despite Supreme Court ruling",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQlBIVEJ3RmxwWHB3RElBYnBYVGdvRjZUUjYzbmJ6UW5wU0E3SlQtV1g3Uk5zQzFlelZMUWo5UExUelBUMnZQY0pibWx1OHBLN1FtTDBJY1Q3WUFXMmNScndrNUtleC1ucVEtdDdMUy1oR2RTeVpaN09heGUtLUk0UFNfT25Lb0swemZNVjQtbHRoLWh3anVQOTF2WGU?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, Yüksek Mahkeme kararına rağmen doğumla vatandaşlık hakkını sınırlandıran kararname imzaladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-06T23:01:05.232974+00:00",
+  "type": "news",
+  "cluster_id": "c138cc7abc03f"
+ },
+ {
   "title": "Özel'den 'çerçeve yasa' yorumu: 'Özensiz, kötü hazırlanmış bir teklif'",
   "link": "https://www.bbc.com/turkce/articles/cwylxpkr49zo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-01T00:01:02.211452+00:00",
   "type": "data",
   "cluster_id": ""
- },
- {
-  "title": "Tutuklanan Seferihisar Belediye Başkanı İsmail Yetişkin görevden uzaklaştırıldı",
-  "link": "https://www.bbc.com/turkce/articles/c1eygdvp8w8o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "İzmir Seferihisar Belediye Başkanı İsmail Yetişkin rüşvet soruşturması kapsamında tutuklanarak görevden uzaklaştırıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-30T23:00:56.953268+00:00",
-  "type": "news",
-  "cluster_id": "cc3437792ca22"
- },
- {
-  "title": "TCMB'den zorunlu karşılıklarda sadeleşme adımı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/tcmbden-zorunlu-karsiliklarda-sadelesme-adimi/3982753",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye Cumhuriyet Merkez Bankası zorunlu karşılıklarda sadeleşme adımı attı. Karar makrofinansal istikrar ve parasal aktarım mekanizmasını desteklemek amaçlıdır.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-30T22:01:02.264577+00:00",
-  "type": "news",
-  "cluster_id": "cdabf880f737e"
- },
- {
-  "title": "Netanyahu: 'İsrail'de iç savaş istemiyorum, çıkmayacak'",
-  "link": "https://www.cumhuriyet.com.tr/dunya/netanyahu-israil-de-ic-savas-istemiyorum-cikmayacak-2516934",
-  "source": "Cumhuriyet",
-  "summary_tr": "İsrail Başbakanı Netanyahu, ülkede iç savaş çıkmayacağını açıkladı. Ultra-Ortodoks Yahudilerin zorunlu askerlik protesto ve tartışmaları devam ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-30T22:01:02.264577+00:00",
-  "type": "news",
-  "cluster_id": "c8ed010ff502c"
- },
- {
-  "title": "Asgari ücrete zam beklerken... Otoyol ve köprü ücretlerine zam geldi: İşte yeni geçiş ücretleri",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/asgari-ucrete-zam-beklerken-otoyol-ve-kopru-ucretlerine-zam-geldi-iste-yeni-gecis-ucretleri-2516922",
-  "source": "Cumhuriyet",
-  "summary_tr": "Karayolları Genel Müdürlüğü otoyol ve köprü ücretlerine zam yaptı. Asgari ücret bekleyişinde ikinci kez zam uygulandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-30T22:01:02.264577+00:00",
-  "type": "news",
-  "cluster_id": "ca5243bd059e1"
  }
 ]
