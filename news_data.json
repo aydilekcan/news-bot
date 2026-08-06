@@ -1,5 +1,41 @@
 [
  {
+  "title": "MGK toplanıyor: Ana gündem Terörsüz Türkiye",
+  "link": "https://www.trthaber.com/haber/gundem/mgk-toplaniyor-ana-gundem-terorsuz-turkiye-953210.html",
+  "source": "TRT Haber",
+  "summary_tr": "Cumhurbaşkanı Erdoğan başkanlığında Milli Güvenlik Kurulu toplanıyor; ana gündem 'Terörsüz Türkiye' konusu.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-06T04:00:59.114524+00:00",
+  "type": "news",
+  "cluster_id": "cf970f1709bd5"
+ },
+ {
+  "title": "Ünlü ekonomist Filiz Eryılmaz rakam verdi: İşte altının geleceği seviye",
+  "link": "https://www.sozcu.com.tr/unlu-ekonomist-filiz-eryilmaz-rakam-verdi-iste-altinin-gelecegi-seviye-p342770",
+  "source": "Sözcü",
+  "summary_tr": "Ekonomist Filiz Eryılmaz altının gelecekteki fiyat seviyesi hakkında rakamlar vererek yatırımcıları yönlendirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-06T04:00:59.114524+00:00",
+  "type": "news",
+  "cluster_id": "c2e3afb295f06"
+ },
+ {
+  "title": "Gold touches seven-week peak on Strait of Hormuz reopening hopes",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVWd6ZjFIZXZHQ2JsNi1UdXBvS1JIUm0xYWtjaDQ1UXVOczhzTzZLNEY0ZTRtb1l5N2lrY09ERHFySlMyakJJNndhRUx5M0FabFZ5TllJZWZPU05na2VqMkRVckJ2VndLdUlFUGd1NklHQlN6V1VJUzRxS09jUmtVVWhMTGRuVlN3YzctZjhBWVI2UUZkQkJqZ0NvdF9uQ1I0RGtCNVNORThqQQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Altın, Hormuz Boğazı geçişi ümitleriyle yedi haftanın en yüksek seviyesine ulaştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-06T04:00:59.114524+00:00",
+  "type": "news",
+  "cluster_id": "c7ab139429723"
+ },
+ {
   "title": "50 bin kişinin katili PKK’lılar aklanıyor",
   "link": "https://www.sozcu.com.tr/50-bin-kisinin-katili-pkk-lilar-aklaniyor-p342768",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-06-30T07:01:10.346468+00:00",
   "type": "news",
   "cluster_id": "c944c74a336d9"
- },
- {
-  "title": "Ankara'da yeni nesil suç örgütlerine operasyon: 78 gözaltı",
-  "link": "https://www.trthaber.com/haber/turkiye/ankarada-yeni-nesil-suc-orgutlerine-operasyon-78-gozalti-949735.html",
-  "source": "TRT Haber",
-  "summary_tr": "Ankara'da yeni nesil suç örgütlerine operasyon: 78 şüpheli gözaltına alındı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-06-30T07:01:10.346468+00:00",
-  "type": "news",
-  "cluster_id": "c944c74a336d9"
- },
- {
-  "title": "Akaryakıt tabelaları 2 gün sonra değişecek: İşte pompa fiyatlarına yansıyacak indirim tutarı",
-  "link": "https://www.sozcu.com.tr/akaryakit-tabelalari-2-gun-sonra-degisecek-iste-pompa-fiyatlarina-yansiyacak-indirim-tutari-p332350",
-  "source": "Sözcü",
-  "summary_tr": "Akaryakıt fiyatlarına indirim gelecek. Küresel petrol piyasalarındaki dalgalanmalar ve döviz kuru hareketliliği akaryakıt fiyatlarını etkilemeye devam ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-06-30T06:01:01.357924+00:00",
-  "type": "news",
-  "cluster_id": "c7c61861d49a4"
- },
- {
-  "title": "Gold faces biggest monthly drop since late 2008 on hawkish Fed stance",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcVNmS0QtVml6cTAwSzZpS0xRSzhEUUpyQy1SaEptQy1XdWRoUjRkbGtpbGp4Zm5ZV2U5YVRSLXZsVnllSjZyNDBUTFZVQ1VwQTlaNHdadXFCcGNPdDJjcDQxU0c1UV81MnJtQk5aS0NnMUlmVzJmV19XeWZiUEhMRjFOcGhNZ2U0ZXBNakhDNDJpbzN3MlRHUg?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Altın, 2008'den bu yana en büyük aylık düşüşle karşı karşıya. Federal Rezerv'in güvercin karşıtı tutumu altın fiyatlarını baskılamaya devam ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-06-30T06:01:01.357924+00:00",
-  "type": "news",
-  "cluster_id": "ccf67c552c001"
  }
 ]
