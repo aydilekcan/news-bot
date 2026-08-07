@@ -1,5 +1,77 @@
 [
  {
+  "title": "US rate futures cut chances of September rate hike after jobs data",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc20xOTBqRG9tVV9IUnA4T1JoVHo1dUpfSV85UzZQdzFqeWZPZ0hFb3kzUVZDUTlUcS10b205dzIyWVRaWUpxUmJJa0EtR2tfQ0sxa0tsRl82SkFXMF9BRWFCSzJDSkRpb25EOW5Fd0hUUzdrMU4wMlRDZVNiQTVoazN4dHFpeUhfNjJaUkkyUnVtdWh4V2l0LXlVcWtzM1pqdmZHVnVCT3ZoT3o5?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD işgücü verileri sonrasında piyasa beklentileri değişti: Faiz artırma olasılığı azaldı ve eylül ayında oranlar indirilebilir hale geldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-07T17:01:23.588761+00:00",
+  "type": "news",
+  "cluster_id": "cee96388405a4"
+ },
+ {
+  "title": "Süreç yasasının Adalet Komisyonu görüşmeleri başladı",
+  "link": "https://www.diken.com.tr/surec-yasasinin-adalet-komisyonu-gorusmeleri-basladi/?utm_source=rss&utm_medium=rss&utm_campaign=surec-yasasinin-adalet-komisyonu-gorusmeleri-basladi",
+  "source": "Diken",
+  "summary_tr": "TBMM Adalet Komisyonu'nda 'Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi' görüşmeleri başladı. 12 maddelik çerçeve yasanın komisyon çalışmaları devam ediyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-07T17:01:23.588761+00:00",
+  "type": "news",
+  "cluster_id": "cf7cdde959d91"
+ },
+ {
+  "title": "TBMM Adalet Komisyonu’nda çerçeve yasa tartışmalarla başladı: Komisyonda ‘yasa’ atışması",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/tbmm-adalet-komisyonu-nda-cerceve-yasa-tartismalarla-basladi-komisyonda-yasa-atismasi-2527345",
+  "source": "Cumhuriyet",
+  "summary_tr": "TBMM Adalet Komisyonu'nda 'Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi' görüşülmeye başladı; komisyonda yasa tasarısı üzerinde tartışmalar yaşanıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-07T17:01:23.588761+00:00",
+  "type": "news",
+  "cluster_id": "ca8a09a1141e9"
+ },
+ {
+  "title": "Adalet Bakanı Gürlek AKP MKYK'da anlattı: Demirtaş yasal düzenlemeden yararlanamayacak, yerine kayyım atanan belediye başkanları görevlerine dönebilecek",
+  "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNU2UtYk9jWUp4OF8yZzRaSXdSM3RPd3VhOU8zY1J4Tk1sSUdHbkhsSk92Q3hBaWtSYVc4Z1FuamhBeU56QXNIQVNmSHZadW1jb3I1R0tNQTVheFZmdlBYSkhCOExWVWZnWnRIa3d4aGJIUUpvRldpazRsUEprRU81cTBNbzFmZGgxMWZRQk9ldHN6RUNXOHdhWHpJdElxWWt6ODVSbWpQSWZPbjhSbUl2akt0VHhQTzJWY25BbFhvNnZEaWJ0SHdId2tIb2dVcXR4U0lmOFhuSVU5MTF0ZEVwU0NZdjR6bFVCUG1XYw?oc=5",
+  "source": "T24",
+  "summary_tr": "Adalet Bakanı Gürlek AKP MKYK'da açıkladı: Demirtaş yasal düzenlemeden yararlanamayacak, kayyım atanan belediye başkanları görevlerine dönebilecek.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-07T17:01:23.588761+00:00",
+  "type": "news",
+  "cluster_id": "c899621160e05"
+ },
+ {
+  "title": "İsrail'den beklenen tepki İran'dan geldi! 'Mekke Anlaşması' Tahran'ı kızdırdı",
+  "link": "https://www.sozcu.com.tr/iran-dan-mekke-anlasmasi-na-skandal-tepki-p343360",
+  "source": "Sözcü",
+  "summary_tr": "İran, Türkiye-Suudi Arabistan-Pakistan arasında imzalanan üçlü savunma anlaşmasına ('Mekke Anlaşması') tepki gösterdi ve anlaşmadan rahatsızlık duyduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-07T17:01:23.588761+00:00",
+  "type": "news",
+  "cluster_id": "c3cc93be526ec"
+ },
+ {
+  "title": "Mekke Anlaşması'nın detayları ortaya çıktı: 'Birine yapılan saldırı tümüne yapılmış sayılacak'",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSHg0ZTd5cWlJQUhiMXFoRVVVM0tQYTBuSTZGbm9yNVdpanpnTFZ0UTJqS1Q4azhDaUdmb0dXT09Ma1czR0w1c2ctVl9EM1U5NE9UVkpwbjYxQVpJdHMwV3VndmtYNmJvR0hfMTRQLXBZRkFqVVUyWjl1Sk5WRWE4M2ZZd09PR3MzdlhqeUk1ZVFsR3ZVcG9wRU9HZi1IOEV2Ti1NQU5JRi1Va0JOcEhwaWVUay12b2M0RWVjaHdR?oc=5",
+  "source": "soL",
+  "summary_tr": "Mekke Anlaşması'nın detayları ortaya çıktı: Anlaşmaya taraf ülkelerden birine yapılan saldırı tümüne yapılmış sayılacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-07T17:01:23.588761+00:00",
+  "type": "news",
+  "cluster_id": "c88a54ce7f58e"
+ },
+ {
   "title": "Çerçeve yasanın komisyon görüşmelerinde neler yaşandı?",
   "link": "https://www.dw.com/tr/çerçeve-yasanın-komisyon-görüşmelerinde-neler-yaşandı/a-78284676?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-01T20:01:08.479551+00:00",
   "type": "news",
   "cluster_id": "cd43cbb8bcc83"
- },
- {
-  "title": "Bakan Ersoy'a yönelik ‘rant’ iddiaları… Mahkemeden Turhan Çömez’e tazminat cezası",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/bakan-ersoy-a-yonelik-rant-iddialari-mahkemeden-turhan-comez-e-tazminat-cezasi-2517181",
-  "source": "Cumhuriyet",
-  "summary_tr": "Mahkeme, İYİ Parti Milletvekili Turhan Çömez'e Kültür Bakanı Ersoy'un şirketine orman arazisi tahsisi hakkında tazminat cezası verdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-01T20:01:08.479551+00:00",
-  "type": "news",
-  "cluster_id": "c077766648bd2"
- },
- {
-  "title": "AI hopes and fears dominate global central bank meet",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcjRFbGY1bUU1aTR0VC1FWEstalYzVHlDMXkzYXh6OHBVRFU0Zy12LWlkbDFIWl8tTGNtQ3A3UXE1dmRaYV9KRlRoaEJXWWVjelhkM3ZnQXowWkMtanpFcUZjSGZadjRpblIxRHhTSExCOFpFXzZpU003NDNZTHdUZWNUaDlTcF9KVDZDcHotN1ZaWXpkZVRWWXVKaHBFaGNoRzhN?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Küresel merkez bankacıları toplantısında yapay zeka umutları ve endişeleri hakim oldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-01T20:01:08.479551+00:00",
-  "type": "news",
-  "cluster_id": "c4287045bdf48"
- },
- {
-  "title": "US declines to extend North American trade deal, starting clock to end it while seeking changes",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORWxhSVNvODM1MVFkUkxYbEZKQ0FTbUhoOWpsdUdCTkRDYzlLTDZaTjlKOGQ5ZDQyd3MxOUUxblp4eUxtZGZIeEpKVGtkMXJMNFpkUVpNNnNHTzlSOU5rc21LU1dnNnBld0dmdzItZ2dpS05aOC1BRm8xdmt5WUduWDJjUUc0Nmd3OFdBX3JsbnhOY2RPdm50a2Vyek5IMGhWa1lPSHRWanNWMno1RkJOQkM3NFdOV3pSZVgzX053WnBOWGRGM3VF?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD Kuzey Amerika ticaret anlaşmasını uzatmamaya karar verdi ve değişiklik arayarak anlaşmayı sonlandırma saati başlattı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-01T19:01:09.859733+00:00",
-  "type": "news",
-  "cluster_id": "c9393e783e9de"
- },
- {
-  "title": "Türkiye'den çıkan ürünlerde yasaklı pestisit alarmı",
-  "link": "https://www.dw.com/tr/türkiye-den-çıkan-ürünlerde-yasaklı-pestisit-alarmı/a-77792225?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Türkiye'den AB'ye gönderilen ürünlerde yasaklı pestisitler tespit edildi. Tarım ve Orman Bakanlığı tarafından yasaklanan bu maddeler gıda güvenliği sorununa işaret ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-01T19:01:09.859733+00:00",
-  "type": "news",
-  "cluster_id": "c769459671539"
- },
- {
-  "title": "US, Canada, Mexico review likely puts trade pact into limbo as Trump demands changes",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORWxhSVNvODM1MVFkUkxYbEZKQ0FTbUhoOWpsdUdCTkRDYzlLTDZaTjlKOGQ5ZDQyd3MxOUUxblp4eUxtZGZIeEpKVGtkMXJMNFpkUVpNNnNHTzlSOU5rc21LU1dnNnBld0dmdzItZ2dpS05aOC1BRm8xdmt5WUduWDJjUUc0Nmd3OFdBX3JsbnhOY2RPdm50a2Vyek5IMGhWa1lPSHRWanNWMno1RkJOQkM3NFdOV3pSZVgzX053WnBOWGRGM3VF?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, Kanada ve Meksika ticaret anlaşmasını gözden geçiriyor; Trump değişiklikler talep ediyor ve anlaşma askıya alınabilir.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-01T18:01:10.101136+00:00",
-  "type": "news",
-  "cluster_id": "ce8d853e7c349"
- },
- {
-  "title": "Netanyahu’dan gerilimi artıracak Lübnan açıklaması",
-  "link": "https://www.sozcu.com.tr/netanyahu-dan-gerilimi-artiracak-lubnan-aciklamasi-p332926",
-  "source": "Sözcü",
-  "summary_tr": "İsrail Başbakanı Netanyahu, Lübnan ile yapılan çerçeve anlaşmasına rağmen gerilimi artıracak açıklamalar yaptı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-01T18:01:10.101136+00:00",
-  "type": "news",
-  "cluster_id": "c9c284069ee4d"
  }
 ]
