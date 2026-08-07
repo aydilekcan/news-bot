@@ -1,5 +1,53 @@
 [
  {
+  "title": "İran savaşı altıncı ayında: Trump, füze kıtlığı iddialarını reddetti",
+  "link": "https://www.bbc.com/turkce/articles/cx2vwxl258jo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Trump, ABD'nin mühimmat/füze sıkıntısı çektiği iddialarını yalanladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-07T04:00:57.202749+00:00",
+  "type": "news",
+  "cluster_id": "c05b646142ae7"
+ },
+ {
+  "title": "Meta'ya çocuk güvenliği davasında yarım milyar dolar ceza",
+  "link": "https://www.bbc.com/turkce/articles/c9v4xnl10vno?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Meta, çocuk güvenliğine ilişkin New Mexico davasında 567 milyon dolar ceza ödeyecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-07T04:00:57.202749+00:00",
+  "type": "news",
+  "cluster_id": "c8892a7f48979"
+ },
+ {
+  "title": "Meta'ya çocuk güvenliği davasında rekor ceza: 567 milyon dolar ödeyecek",
+  "link": "https://www.trthaber.com/haber/dunya/metaya-cocuk-guvenligi-davasinda-rekor-ceza-567-milyon-dolar-odeyecek-953318.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD New Mexico eyaleti, Meta'ya çocuk güvenliği davası nedeniyle 567 milyon dolar ceza yükümlülüğü getirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-07T04:00:57.202749+00:00",
+  "type": "news",
+  "cluster_id": "c8892a7f48979"
+ },
+ {
+  "title": "MHP’de imza atmayan vekilden çok çarpıcı paylaşım: Bir canım var",
+  "link": "https://www.sozcu.com.tr/mhp-de-imza-atmayan-vekilden-cok-carpici-paylasim-bir-canim-var-p343099",
+  "source": "Sözcü",
+  "summary_tr": "MHP İstanbul Milletvekili, açılım teklifine imza atmadığı için çarpıcı paylaşım yaptı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-07T04:00:57.202749+00:00",
+  "type": "news",
+  "cluster_id": "c4b35b177f5af"
+ },
+ {
   "title": "Para yetmedi 14 bin tesis krize terk edildi",
   "link": "https://www.sozcu.com.tr/para-yetmedi-14-bin-tesis-krize-terk-edildi-p343094",
   "source": "Sözcü",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-01T05:00:58.400108+00:00",
   "type": "news",
   "cluster_id": "c45411abb9a81"
- },
- {
-  "title": "Sarı metalde kan kaybı durmuyor! Altını faiz vurdu!",
-  "link": "https://www.sozcu.com.tr/sari-metalde-kan-kaybi-durmuyor-altini-faiz-vurdu-p332675",
-  "source": "Sözcü",
-  "summary_tr": "Altın fiyatları ABD tahvil faizlerindeki yükseliş ve Fed faiz artışı beklentileriyle son 7 ayın en düşük seviyesine geriledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-01T05:00:58.400108+00:00",
-  "type": "news",
-  "cluster_id": "cbbc9ca21ef74"
- },
- {
-  "title": "Boyner’den ekonomi yönetimine zehir zemberek sözler",
-  "link": "https://www.sozcu.com.tr/boyner-den-ekonomi-yonetimine-zehir-zemberek-sozler-p332667",
-  "source": "Sözcü",
-  "summary_tr": "Boyner başkanı, sanayicilerin Mısır'a rotasını kâr arayışından çok ekonomik ayakta kalma çabası olarak değerlendirdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-01T05:00:58.400108+00:00",
-  "type": "news",
-  "cluster_id": "c07cf71877b8d"
- },
- {
-  "title": "Ford yapay zekaya güvenip işten çıkardığı çalışanları geri aldı",
-  "link": "https://www.trthaber.com/haber/dunya/ford-yapay-zekaya-guvenip-isten-cikardigi-calisanlari-geri-aldi-949846.html",
-  "source": "TRT Haber",
-  "summary_tr": "Ford, yapay zeka ile kalite kontrol otomasyonunun beklenen performansı gösterememesi üzerine işten çıkardığı yüzlerce çalışanı geri aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-01T05:00:58.400108+00:00",
-  "type": "news",
-  "cluster_id": "c2872635003b4"
- },
- {
-  "title": "Eski İsrail Başbakanı Bennett: Netanyahu artık ülkeyi yönetemiyor, aşırı sağcı bakanların esiri oldu",
-  "link": "https://www.trthaber.com/haber/dunya/eski-israil-basbakani-bennett-netanyahu-artik-ulkeyi-yonetemiyor-asiri-sagci-bakanlarin-esiri-oldu-949844.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail eski başbakanı Bennett, Netanyahu'nun aşırı sağcı bakanlar tarafından esir alındığını ve artık ülkeyi yönetemediğini söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-01T04:01:00.522450+00:00",
-  "type": "news",
-  "cluster_id": "c7f66adf15add"
  }
 ]
