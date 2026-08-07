@@ -1,5 +1,53 @@
 [
  {
+  "title": "Para yetmedi 14 bin tesis krize terk edildi",
+  "link": "https://www.sozcu.com.tr/para-yetmedi-14-bin-tesis-krize-terk-edildi-p343094",
+  "source": "Sözcü",
+  "summary_tr": "Turizm sektöründe 14 bin tesisin kapanmak üzere olduğu belirtildi. Hükümet işçi başına aylık 3.500 lira destek paketi hazırladı ancak yetersiz kaldığı vurgulanıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-07T03:01:01.833448+00:00",
+  "type": "news",
+  "cluster_id": "cf8446ee77879"
+ },
+ {
+  "title": "Emeklinin maaşının yüzde 10’u kesilebilir",
+  "link": "https://www.sozcu.com.tr/emeklinin-maasinin-yuzde-10-u-kesilebilir-p343093",
+  "source": "Sözcü",
+  "summary_tr": "SGK emekli maaşlarından yılbaşı itibariyle prim borcu kesintisi uygulamaya başladı. Emeklilerin maaşından yüzde 10'a kadar kesinti yapılabilecek.",
+  "metric": "%10",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-07T03:01:01.833448+00:00",
+  "type": "news",
+  "cluster_id": "ca23dcac970f6"
+ },
+ {
+  "title": "12.5 milyon emekli açık kıskacında",
+  "link": "https://www.sozcu.com.tr/12-5-milyon-emekli-acik-kiskacinda-p343092",
+  "source": "Sözcü",
+  "summary_tr": "Yaklaşık 12,5 milyon emeklinin maaşı tabanda eşitlenmiş durumda. Emekli aylığı 23 bin 552 lira seviyesinde bulunuyor.",
+  "metric": "23.552 TL",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-07T03:01:01.833448+00:00",
+  "type": "news",
+  "cluster_id": "c854543bcced8"
+ },
+ {
+  "title": "Yerli devler  işçi çıkarıyor",
+  "link": "https://www.sozcu.com.tr/yerli-devler-isci-cikariyor-p343091",
+  "source": "Sözcü",
+  "summary_tr": "Varlık Fonu'na ait THY ve Türk Telekom ile PTT'de işten çıkarmalar başladı. THY'de ana şirkette 111 kişi istihdam azaldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-07T03:01:01.833448+00:00",
+  "type": "news",
+  "cluster_id": "c0f254b6d552b"
+ },
+ {
   "title": "Alım gücü her geçen gün düşen yurttaş, günlük ihtiyaçlar için borçlanmayı sürdürüyor",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/alim-gucu-her-gecen-gun-dusen-yurttas-gunluk-ihtiyaclar-icin-borclanmayi-surduruyor-2527134",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-01T04:01:00.522450+00:00",
   "type": "news",
   "cluster_id": "c7f66adf15add"
- },
- {
-  "title": "Merkez Bankası'ndan sadeleşme adımı: Döviz mevduatlarında yeni düzenleme",
-  "link": "https://www.trthaber.com/haber/ekonomi/merkez-bankasindan-sadelesme-adimi-doviz-mevduatlarinda-yeni-duzenleme-949842.html",
-  "source": "TRT Haber",
-  "summary_tr": "Merkez Bankası, makrofinansal istikrarı güçlendirmek amacıyla döviz mevduatlarında yeni düzenleme yaptı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-01T04:01:00.522450+00:00",
-  "type": "news",
-  "cluster_id": "cd4ea449f5bed"
- },
- {
-  "title": "Oil prices rise as breakdown in Iran-US talks raises supply concerns",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMHJEenFKWkIxQUo3U2hMR2RKY0h3MldHWmhUSlFrbUloR195NWh0cE41c3BGc25aRlk5RlR5bEVVTHN0Qk95d3dfTHZUQnRxdVdmOERFRUlrQzRBYlB5d1dSM3RtdUJsRUV0WkxIVnpGZFg5TnRYQXR3TEVDUV9tUC12dWcyTW94WDVkbUZYUE95Y1ZXRkRRX1ByYXJ0c0xxTmhrTXQwaFM3eXJkMWp1ZVBmRy0tSklWMWc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran-ABD görüşmelerinin bozulması nedeniyle petrol arzı endişeleri artıyor ve petrol fiyatları yükseliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-01T04:01:00.522450+00:00",
-  "type": "news",
-  "cluster_id": "c8fa3062e23d5"
- },
- {
-  "title": "TCMB Rezervleri (haftalık değişim): -8,2 milyar dolar (geçen hafta)",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaVB3d25FdHU1QXRRR1BpMXNfUkd2bzd3U1pIdExhVVFrVWRFZ1B4VC12Y1laVGhhaUpieFBZaFB5Z2VLbnpLNl8zaTRmRGhyNWhGcURqWmxfVVFWQlVPT1N4dWd1bXVQVkhLcDI5aUhCeGRTN1ZuTGNSc3ZYNTNBTzJfZXFBaHo5ZVlEYVd1ZmdoYkh1Q21NbTRhaHZCbk9OdmJROHZXWQ?oc=5",
-  "source": "TCMB",
-  "summary_tr": "-8,2 milyar dolar",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-07-01T04:01:00.522450+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "İsrail ordusu, Suriye’yi işgale başladı",
-  "link": "https://www.sozcu.com.tr/israil-ordusu-suriye-yi-isgale-basladi-p332657",
-  "source": "Sözcü",
-  "summary_tr": "İsrail ordusu Suriye'nin güneyine (Dera) girişini başlattı; Netanyahu yönetimi Gazze ve Lübnan'daki ateşkes çabalarından hareket ettiğini gösterdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-07-01T03:00:58.795028+00:00",
-  "type": "news",
-  "cluster_id": "c0142f4e2e0ec"
  }
 ]
