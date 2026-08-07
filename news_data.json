@@ -1,5 +1,53 @@
 [
  {
+  "title": "Alım gücü her geçen gün düşen yurttaş, günlük ihtiyaçlar için borçlanmayı sürdürüyor",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/alim-gucu-her-gecen-gun-dusen-yurttas-gunluk-ihtiyaclar-icin-borclanmayi-surduruyor-2527134",
+  "source": "Cumhuriyet",
+  "summary_tr": "Nisan-Haziran 2026'da kredili mevduat kullanımı yüzde 10.4, bireysel kredi kartı borçları yüzde 8.8 artış gösterdi; vatandaşlar günlük ihtiyaçlar için borçlanmaya devam ediyor.",
+  "metric": "Kredili mevduat hesabı kullanımı %10,4 artış; kredi kartı borçları %8,8 artış",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-08-07T02:01:03.566504+00:00",
+  "type": "news",
+  "cluster_id": "c9fa09b4f94dd"
+ },
+ {
+  "title": "Toplumsal bütünleşme mi?",
+  "link": "https://www.cumhuriyet.com.tr/yazarlar/ozlem-yuzak/toplumsal-butunlesme-mi-2527120",
+  "source": "Cumhuriyet",
+  "summary_tr": "TBMM'ye 360 imzalı 'Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesi' çerçeve yasası sunuldu.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-07T02:01:03.566504+00:00",
+  "type": "news",
+  "cluster_id": "ce83075d57c12"
+ },
+ {
+  "title": "Trump unveils trade actions to compete with China on solar and chips",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVHo3TzdXT2NRVmFWeEd0Y1JjaFJPbjBZWnZ2b2hKcGxDNHZjb3ZoWS1ZZElGMGplSVhIUEZ3WEQ0cTd6R1haV2NseVVLWGpfMF9ZbDIySkg3Vm1KUlBKejRibkFYZWFzMzYyRVZiWHZuVHdSZndpVHVYbEVJNEtTdEZwZkNsZzBxWi1JTlVkQ2Z3ME5Td1EwUUZaQlM3M2VqS2xkV1Q4RjR4aXppTTVReUl3UnI?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump yönetimi güneş enerjisi ve çip sektöründe Çin ile rekabet etmek için ticaret önlemleri açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-07T02:01:03.566504+00:00",
+  "type": "news",
+  "cluster_id": "ce80e6466528b"
+ },
+ {
+  "title": "Pacific ministers to discuss issuing a joint statement on China missile test",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeVJaNldQMjdyaFZsN2otZlNUUnhubkVTTF9EOGd5Ny1ZczZSVHZ3dnc2Tnl5U2VYMmx5STZyeWs3aGM2Y2lnR1JLS3pKX3VXM3lZaGNuTHkyOGk2Z2M5YzlQZmhIaEFpaTFFV21ybzF0cG1iczVuck4yVmxhNjBBNVBZN18yWmlvUGIwZl9hRWFmNU9GR2hVQllHM3E?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Pasifik ülkeleri Çin'in füze testine ilişkin ortak bir açıklama yayınlamak için görüşecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-07T02:01:03.566504+00:00",
+  "type": "news",
+  "cluster_id": "c2a7835e1dfe6"
+ },
+ {
   "title": "AFP ve Reuters haber ajansları: Türkiye, Suudi Arabistan ve Pakistan bugün üçlü savunma anlaşması imzalıyor",
   "link": "https://www.bbc.com/turkce/articles/c62vn5wzz59o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-01T03:00:58.795028+00:00",
   "type": "news",
   "cluster_id": "c0142f4e2e0ec"
- },
- {
-  "title": "Erdoğan 'çözüm süreci takvimini' açıkladı: Çerçeve yasa Meclis tatile girmeden çıkacak",
-  "link": "https://www.bbc.com/turkce/articles/cz6venxlyl5o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, 'Terörsüz Türkiye' çözüm sürecinin çerçeve yasasının Meclis tatile girmeden çıkarılacağını açıkladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-07-01T03:00:58.795028+00:00",
-  "type": "news",
-  "cluster_id": "c9f100690e13b"
- },
- {
-  "title": "İki gün sonra zamlara uyanacağız",
-  "link": "https://www.sozcu.com.tr/iki-gun-sonra-zamlara-uyanacagiz-p332655",
-  "source": "Sözcü",
-  "summary_tr": "Özel Tüketim Vergisi (ÖTV) zamları yaklaştıkça, vatandaşın gelir artışlarının enflasyon karşısında erozyona uğrayacağı uyarısı yapılıyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-01T03:00:58.795028+00:00",
-  "type": "news",
-  "cluster_id": "cc005f67d692d"
- },
- {
-  "title": "Menülerde kalori bilgisi zorunlu oluyor",
-  "link": "https://www.trthaber.com/haber/gundem/menulerde-kalori-bilgisi-zorunlu-oluyor-949841.html",
-  "source": "TRT Haber",
-  "summary_tr": "1 Temmuz'dan itibaren restoran ve kafelerde menülerde kalori, protein, yağ ve diğer içerik bilgileri zorunlu olarak gösterilecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-01T03:00:58.795028+00:00",
-  "type": "news",
-  "cluster_id": "c0829a24ab1b5"
- },
- {
-  "title": "Haziran ayının son günü olan Emekliler Günü’nde sendikal örgütler taleplerini açıkladı",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/haziran-ayinin-son-gunu-olan-emekliler-gunu-nde-sendikal-orgutler-taleplerini-acikladi-2516933",
-  "source": "Cumhuriyet",
-  "summary_tr": "Türkiye'de yaklaşık 17 milyon emekli açlık sınırının altında yaşıyor; emekli ve memur örgütleri tazminat talep ediyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-01T02:00:55.712876+00:00",
-  "type": "news",
-  "cluster_id": "c6fe3426a2b35"
  }
 ]
