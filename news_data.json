@@ -1,5 +1,77 @@
 [
  {
+  "title": "Fed Başkanı'ndan piyasaları sarsacak mesaj: Enflasyon artarsa faiz artırımı yeniden masaya gelecek",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/fed-baskani-ndan-piyasalari-sarsacak-mesaj-enflasyon-artarsa-faiz-artirimi-yeniden-masaya-gelecek-2527257",
+  "source": "Cumhuriyet",
+  "summary_tr": "Fed Başkanı Kevin Warsh, enflasyonda yükseliş yaşanması halinde eylül ayında faiz artışının gündeme gelebileceğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-07T12:01:06.446887+00:00",
+  "type": "news",
+  "cluster_id": "c7fdeb8d55c08"
+ },
+ {
+  "title": "Gıda fiyatları son üç yılın zirvesine tırmandı",
+  "link": "https://www.dw.com/tr/gıda-fiyatları-son-üç-yılın-zirvesine-tırmandı/a-78277867?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Küresel gıda fiyatları son üç yılın en yüksek seviyesine çıktı. BM Gıda ve Tarım Örgütü tarafından açıklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-07T12:01:06.446887+00:00",
+  "type": "news",
+  "cluster_id": "c75eb37281d43"
+ },
+ {
+  "title": "Ağır Ekonomi (319): İhracat, sanayi ve kur krizi: Türkiye’de üretim alarm veriyor",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CYzhiMVk1WTdOc0Z4dWZmVTRRcXNKRTZ3SGh0WUo5YkFQQjZ0U29aVVVqSmFFV0pBTy0zSUxpS05TN0JGSGdNOHEyeE96R1VQNG9weHJ6M0ktSXNHV21kTEQ2WHhIb1NsMEdxenJOZnhKcEl0czJfb25n?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Medyascope analizi: Türkiye'de ihracat, sanayi ve kur krizi nedeniyle üretim alarm veriyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-07T12:01:06.446887+00:00",
+  "type": "news",
+  "cluster_id": "c8cc7f68a71fd"
+ },
+ {
+  "title": "ABD'den Türkiye'ye yeni vergi: En büyük pazarda dengeler değişti",
+  "link": "https://www.sozcu.com.tr/abd-den-turkiye-ye-yeni-vergi-en-buyuk-pazarda-dengeler-degisti-p343285",
+  "source": "Sözcü",
+  "summary_tr": "ABD, Türkiye'ye yönelik yeni ek vergi kararı aldı ve bu karar zeytin ve zeytinyağı ihracatında dengeleri değiştirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-07T12:01:06.446887+00:00",
+  "type": "news",
+  "cluster_id": "c09795827ef41"
+ },
+ {
+  "title": "Güney Koreli çip üreticisi, bellek çipi üretim tesisleri kurmak için 38 milyar dolar yatırım yapacak",
+  "link": "https://www.aa.com.tr/tr/bilim-teknoloji/guney-koreli-cip-ureticisi-bellek-cipi-uretim-tesisleri-kurmak-icin-38-milyar-dolar-yatirim-yapacak/4021082",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Güney Kore'li SK hynix, yapay zeka bellek talebinin artması nedeniyle yeni bellek çipi üretim tesisleri kurmak için 38 milyar dolar yatırım yapacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-07T12:01:06.446887+00:00",
+  "type": "news",
+  "cluster_id": "c1af376b423a1"
+ },
+ {
+  "title": "Gerçek işsizlik oranı: %28,8",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SekpuY1N6X0FWcXNCdzIweDNjaExIaS15NWxPbHhoZHIzYTgxY3VwelhuT2hHdkZQRGx4bFItZGYwRXRNY2FSWXBBa0paS1laNVNzQUJGWDY0WmkzMGJaMG5JODhzSUp2TjlDZmlEYnlEQ01qcXc?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%31 → %28,8 (-2,2 puan)",
+  "metric": "-2,2 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-07T12:01:06.446887+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Erdoğan Mekke'de: Türkiye, Suudi Arabistan ve Pakistan 'savunma anlaşması imzalıyor'",
   "link": "https://www.bbc.com/turkce/articles/c62vn5wzz59o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-01T13:01:10.515966+00:00",
   "type": "news",
   "cluster_id": "c644f91861a2d"
- },
- {
-  "title": "CHP’li Aşkın Genç: 'Osmangazi geçiş ücreti beş yılda yüzde 534 arttı'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-li-askin-genc-osmangazi-gecis-ucreti-bes-yilda-yuzde-534-artti-2517079",
-  "source": "Cumhuriyet",
-  "summary_tr": "Osmangazi Köprüsü geçiş ücreti beş yılda %534, 1915 Çanakkale Köprüsü geçiş ücreti %400 arttığı CHP milletvekilince açıklandı.",
-  "metric": "Osmangazi Köprüsü geçiş ücreti beş yılda %534 arttı",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-01T13:01:10.515966+00:00",
-  "type": "news",
-  "cluster_id": "c384163409bb8"
- },
- {
-  "title": "NATO: Müttefikler Ankara'da Ukrayna'ya uzun vadeli güvenlik yardımı sağlama taahüdünde bulunacak",
-  "link": "https://www.aa.com.tr/tr/dunya/nato-muttefikler-ankarada-ukraynaya-uzun-vadeli-guvenlik-yardimi-saglama-taahudunde-bulunacak/3983352",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "NATO müttefikleri, Ankara Zirvesi'nde Ukrayna'ya uzun vadeli güvenlik yardımı sağlama taahüdünde bulunacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-01T13:01:10.515966+00:00",
-  "type": "news",
-  "cluster_id": "cc030435fef20"
- },
- {
-  "title": "Swedish court says Google is to pay $1.5 billion to Klarna in antitrust damages",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUR2WFBXY0dxNVhUYnNOUDF2OWRvZTB2SDU3a2djdHF6NWRkRm1Fc1JTUDl2NENKQ0ZKaC15N1V5QzRLWXo0OGNLT2h4LU1fbWpCODBNMTh3VVJqcFlyTXA0ektubGxMQWx3NzFvblJ4SG1wcXpRQm93OVpmdkZ1cXowUk5yd3lnUjdMS2I1QldWa3NYdzEyaFV1YldrVWhqN3kzVnl3QjNhTktkaVkwNVl1Yw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İsveç mahkemesi, Google'ın Klarna'ya antitröst hasarları kapsamında 1,5 milyar dolar ödemesine hükmetti.",
-  "metric": "Google cezası: 1,5 milyar dolar",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-01T13:01:10.515966+00:00",
-  "type": "news",
-  "cluster_id": "c36ccd2c97b30"
- },
- {
-  "title": "Ukraine hits Russian oil refinery and missile component plant, Zelenskiy says",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZmNmOWl5bnJmQnRCZUROVlpmRnBOeUhVVGJOUDR0Mmd5UUF4MkZOem93cUJJREVnVE02MUs0b3d3bE0wOUpNMnN5VjFwVVc0c1hMTnM5VFpJcGFHa1pWazNZWkdTU3ZkcFg0bnpaTVNNTVE0aVhlQjAtcUVFTmNnZTVja0xRZUM0TGFOVzctWEVJb2tnTjlQcmNURkZkQ19sUlFSaG5uOFZqLVc3bDVsN0owTEdjeXpYQ3oxSGc3UmRaQQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Zelenskiy, Ukrayna'nın Rus petrol rafinerisine ve füze bileşeni üretim tesisine saldırı düzenlediğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-01T13:01:10.515966+00:00",
-  "type": "news",
-  "cluster_id": "cdb632f486855"
- },
- {
-  "title": "Cem Boyner'den ekonomi yönetimine 'Mısır' çıkışı: 'Kimse güle oynaya gitmiyor'",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/cem-boyner-den-ekonomi-yonetimine-misir-cikisi-kimse-gule-oynaya-gitmiyor-2517084",
-  "source": "Cumhuriyet",
-  "summary_tr": "Boyner Grup Başkanı, Türk sanayicilerin Mısır'a yatırım nedeniyle ekonomi yönetimine eleştiri yöneltti.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-01T13:01:10.515966+00:00",
-  "type": "news",
-  "cluster_id": "cc768d84fe526"
- },
- {
-  "title": "Osmangazi Köprüsü ile 10 yılda akaryakıt ve zamandan 211 milyar liralık tasarruf sağlandı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/osmangazi-koprusu-ile-10-yilda-akaryakit-ve-zamandan-211-milyar-liralik-tasarruf-saglandi/3983354",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Osmangazi Köprüsü'nün 10 yılda akaryakıt ve zamandan 211 milyar lira tasarruf sağladığı Bakan Uraloğlu tarafından açıklandı.",
-  "metric": "Osmangazi Köprüsü 10 yılda tasarruf: 211 milyar TL",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-01T13:01:10.515966+00:00",
-  "type": "news",
-  "cluster_id": "c193f78812628"
  }
 ]
