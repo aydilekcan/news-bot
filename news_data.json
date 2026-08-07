@@ -1,5 +1,29 @@
 [
  {
+  "title": "Türkiye, Suudi Arabistan ve Pakistan savunma antlaşması imzalıyor... Bölgede yeni bir güvenlik ekseni mi kuruluyor?",
+  "link": "https://www.cumhuriyet.com.tr/dunya/turkiye-suudi-arabistan-ve-pakistan-savunma-antlasmasi-imzaliyor-bolgede-yeni-bir-guvenlik-ekseni-mi-kuruluyor-2527210",
+  "source": "Cumhuriyet",
+  "summary_tr": "Türkiye, Suudi Arabistan ve Pakistan ortak savunma anlaşmasını Cidde'de imzalamak üzere. Bölgede yeni güvenlik ekseni oluşturuluyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-07T09:00:59.794062+00:00",
+  "type": "news",
+  "cluster_id": "ca75a8939a66b"
+ },
+ {
+  "title": "Saudi Arabia, Turkey and Pakistan to sign joint defence deal amid regional turmoil",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2lUV2RTOWpHY1ZMeHh4SVNOUnV4TXZNQjZoa2ZXSmg1SnNGX2lGOEJUdy0taTQyNmJaRzNKdHdNUEQtYzhsOFROeEhHWk11LUlKTy13VmE0dlJuSHpveG1xSTBjNTZZOXJrWGNyU1NSbUpraEFHdTBjNHowdWluRUU5a0lsY3NuY1FmMDViMVJMMkN4VzVydm9aeng4eWxDV1lkVFBwWTNTVzFTaTJJcWxoUFdBTE9zZUx1U0VNYnlQTFNQd18yYg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Türkiye, Suudi Arabistan ve Pakistan ortak savunma anlaşmasını imzalıyor. Bölgesel kriz ortamında yeni güvenlik işbirliği oluşturuluyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-07T09:00:59.794062+00:00",
+  "type": "news",
+  "cluster_id": "c7c101ac83179"
+ },
+ {
   "title": "Merkez Bankası, yılın 3'üncü Enflasyon Raporunu 13 Ağustos'ta İstanbul'da açıklayacak",
   "link": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-yilin-3uncu-enflasyon-raporunu-13-agustosta-istanbulda-aciklayacak/4020752",
   "source": "Anadolu Ajansı",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-01T12:01:07.140690+00:00",
   "type": "news",
   "cluster_id": "c1947dcb5ea13"
- },
- {
-  "title": "Türkiye'nin mayıstaki ham çelik üretimi geçen yılın aynı ayına göre yüzde 8,9 arttı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-mayistaki-ham-celik-uretimi-gecen-yilin-ayni-ayina-gore-yuzde-8-9-artti/3983287",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye'nin mayıstaki ham çelik üretimi geçen yılın aynı ayına göre yüzde 8,9 arttı ve 3,4 milyon tona yükseldi.",
-  "metric": "Ham çelik üretimi (yıllık karş.): +%8,9",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-01T12:01:07.140690+00:00",
-  "type": "news",
-  "cluster_id": "cc785a9f67f46"
- },
- {
-  "title": "TMO 21 günde rekor miktarda alım yaptı",
-  "link": "https://www.trthaber.com/haber/ekonomi/tmo-21-gunde-rekor-miktarda-alim-yapti-949909.html",
-  "source": "TRT Haber",
-  "summary_tr": "Tarım ve Orman Bakanlığı, TMO'nun 21 günde 1 milyon tonluk tarım ürünü aldığını belirtti; bu bir rekordur.",
-  "metric": "TMO alımı (21 gün): 1 milyon ton",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-01T12:01:07.140690+00:00",
-  "type": "news",
-  "cluster_id": "c8899eddac6d6"
  }
 ]
