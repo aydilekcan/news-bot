@@ -1,5 +1,41 @@
 [
  {
+  "title": "AFP ve Reuters haber ajansları: Türkiye, Suudi Arabistan ve Pakistan bugün üçlü savunma anlaşması imzalıyor",
+  "link": "https://www.bbc.com/turkce/articles/c62vn5wzz59o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Türkiye, Suudi Arabistan ve Pakistan Cuma günü üçlü ortak savunma anlaşması imzalıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-07T01:01:07.526694+00:00",
+  "type": "news",
+  "cluster_id": "c47e77a8f8724"
+ },
+ {
+  "title": "Turkey, Saudi Arabia, Pakistan to sign joint defence agreement in Saudi Arabia on Friday, sources say",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVWlCbG9KRkh2aHRNSjBWS25TWEM3V3Y5aDlfbFcwNGZIaldpZ25rNlpGUGVtcDFRQ0JUWnZ5NnhwSGJSZjBSRm5idU9iNFNUcEMxcFJDb0FrcjBUU2JvemN0OWYxazdOS3hzMHBxVVJvOVlsQ1RQcEIyT0R0NXFxSU01SDJJdm1hZklPSEYxSEQxS0t6WFpMemlDdWpFcXh5bW0wMUM3ODBBSjVPVHNJTk5rQ2ViSHdTWWlQeWQ0YjR4MjJNVTdXNDBqcw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Türkiye, Suudi Arabistan ve Pakistan Cuma günü üçlü ortak savunma anlaşması imzalayacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-07T01:01:07.526694+00:00",
+  "type": "news",
+  "cluster_id": "c5dcbdd31e674"
+ },
+ {
+  "title": "Yıllık enflasyon: %31,75 (Temmuz)",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OSGI5RG5yX1JtVVgwWnpUMUlXRV8xY0FTNHlaNkNISTREcDJPQk9OQ1NWVjkxYjhmZ25SNXBQbGdfY2RVN2pNSFdWbjh1RDRSeFZUY05XWWFXMUxfYlRNUFIyTUF2bFJPTmVTc2JOUmptcmM1SDFtTXE2dWE?oc=5",
+  "source": "OECD",
+  "summary_tr": "%31,75",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-07T01:01:07.526694+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Trump unveils trade actions to protect key solar and semiconductor material",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVHo3TzdXT2NRVmFWeEd0Y1JjaFJPbjBZWnZ2b2hKcGxDNHZjb3ZoWS1ZZElGMGplSVhIUEZ3WEQ0cTd6R1haV2NseVVLWGpfMF9ZbDIySkg3Vm1KUlBKejRibkFYZWFzMzYyRVZiWHZuVHdSZndpVHVYbEVJNEtTdEZwZkNsZzBxWi1JTlVkQ2Z3ME5Td1EwUUZaQlM3M2VqS2xkV1Q4RjR4aXppTTVReUl3UnI?oc=5",
   "source": "Reuters",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-01T02:00:55.712876+00:00",
   "type": "news",
   "cluster_id": "c6fe3426a2b35"
- },
- {
-  "title": "Türkiye ile Suudi Arabistan arasındaki enerji işbirliğinde ikinci fazda inşaa edilecek projeler için tarife de dahil ticari ve teknik koşullar ayrıca kararlaştırılacak",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/turkiye-ile-suudi-arabistan-arasindaki-enerji-isbirliginde-ikinci-fazda-insaa-edilecek-projeler-icin-tarife-de-dahil-ticari-ve-teknik-kosullar-ayrica-kararlastirilacak-2516917",
-  "source": "Cumhuriyet",
-  "summary_tr": "Türkiye-Suudi Arabistan enerji anlaşması kapsamında 30 yıl boyunca elektrik alım garantisi verildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-01T02:00:55.712876+00:00",
-  "type": "news",
-  "cluster_id": "c31f54bf0f907"
- },
- {
-  "title": "Öğretmene reva görülen tablo: Avrupa’da güvence, Türkiye'de açlık",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/ogretmene-reva-gorulen-tablo-avrupa-da-guvence-turkiye-de-aclik-2516918",
-  "source": "Cumhuriyet",
-  "summary_tr": "Türkiye'de özel sektör öğretmenleri 'eşit işe eşit ücret' talep ederken, Avrupa'da özel öğretmenlere daha geniş haklar sağlanıyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-01T02:00:55.712876+00:00",
-  "type": "news",
-  "cluster_id": "cd9504e2fade3"
- },
- {
-  "title": "Nike forecasts fall in first-half revenue, shares tumble 4%",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWnNzWkdGLVk5dVdwM0ZUQ3RObWpYSkdGNnhsc1JuMFhWeXBtT1pSS3luR3UxcVNEcTVTM0tCdFRTSHlYQVNZTGFkQXIzeldDUV91djhzbFN1dWZyOWVKOHVrbGFpcy1rRkYxd3dTTzNKMjdTcFN6OFVSVk5iX3ZhU2tULVpzR1RfdVpEcXFkUFZ4ZlFYT01EY1VvNlR3dDBG?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Nike ilk yarıyıl gelirinde düşüş öngördü; hisse senetleri %4 geriledi.",
-  "metric": "Nike hisse senetleri -%4",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-01T00:01:02.211452+00:00",
-  "type": "news",
-  "cluster_id": "c2d7005dbd071"
  }
 ]
