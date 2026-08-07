@@ -1,5 +1,41 @@
 [
  {
+  "title": "US Senate passes Russia sanctions championed by Graham; US House next",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0pzeU9VRmJkMDBtRWM3MFhyR3JKTENJeDVfb3pNNHpycXViQnF6LWpveDVmZlotcWVrV0M3cTV4Q1hyTUlPcnRwaDFqRW5fWE5BdlFSYVd4NnZ5MWU2X241OU1QVzZkREh5MjVVMFBlY0k3RDgtM2RDUEFWNVVwUlJ4RFo4OHpGanRuclQ1WXV0bmVZX1MtRUZWak5ERjJ1Y0FLQlR3SlBtS2VyM0EyWUlJQVRJdw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Senatı, Graham'ın öncülüğündeki Rusya yapı yaptırımlarını onayladı; Temsilciler Meclisi sırası geldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-07T19:01:04.137621+00:00",
+  "type": "news",
+  "cluster_id": "c27f6fc12d597"
+ },
+ {
+  "title": "Tasarruf finansman sistemine kısıtlama: Sözleşme sayısı sınırlanıyor",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVnZiMklPalhMTklnX3B1V3BwY1B4MEVkVWVZT1VTOU1BcGFFVnUyLW5HMzdleUh3emVfOGJoVkNxNlN5bWVkWDU5cnNFSWhHRlZicFNLVHpZb2U1Mnhubm5DLTdVMlR1ZnpkYVhtRGdvVEp2NE5GcHlnanQ1ekRpbjlMZUN4NU03RlFlaVFGVVoxeEJlNFUzVzI0Zw?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Tasarruf finansman sistemi kısıtlandı; sözleşme sayısı sınırlanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-07T19:01:04.137621+00:00",
+  "type": "news",
+  "cluster_id": "c3878a366f778"
+ },
+ {
+  "title": "Lebanon, Israel agree shortlist of countries that could send troops to verify Hezbollah disarmament",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObTUzVkVVUGNmVndoank2S2FVLXctRzBwbDJPSVpFTDY5R2IzWUI4M0lZaUhhNm5jWG84bnlrT1ZpSUtQdHk2THVMMnJhdTF2ajNOYmExaGMyVnJHeVdtS0FteWpPclhjVzhUUDA1N25FZ0t4ZDMzZVhnU3ZVU21ScUdrc3h0alhUaElaNmRTdDZMY2g4QzhpaGh4VEliQU9WRUc2OHFHNllCbm14el83bGpTZnlWWk5xa3RObXNQcVVjOGl5Z2YwS0tRN2Rja2s?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Lübnan ve İsrail, Hezbollah silahsızlandırmasını doğrulamak için asker gönderebilecek ülkeler listesi konusunda anlaştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-07T19:01:04.137621+00:00",
+  "type": "news",
+  "cluster_id": "c67fcbc9b0e54"
+ },
+ {
   "title": "US suffers unexpected job losses in July, markets dial back rate hike expectations",
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1B4WTMtdXVhNDJJNjJ2Sjl5dm14MXI4M3FUc2dYUDN5blRtOTBXQVZqX0ZaUWNQTFpZMDdlU24tY1BLWHVORE03Y0p3ekNQM0RHQjZJWEhpckhfLXl1QWFlVlV2UU9OWFhkWDZZNXA1eHdFVmlkQVlVUWdaQWVKUl9NMC1QcW8zT09NRks4eGViOXpESU82MmpuaWYydkljM1Fv?oc=5",
   "source": "Reuters",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-02T01:01:04.940435+00:00",
   "type": "news",
   "cluster_id": "cf08efcdde662"
- },
- {
-  "title": "ABD Başkanı Trump: İspanya NATO üyesi, ama iyi NATO üyesi değil",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-ispanya-nato-uyesi-ama-iyi-nato-uyesi-degil/3983814",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Başkanı Trump, NATO müttefiki İspanya'yı sert şekilde eleştirerek 'iyi NATO üyesi değil' demiştir.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-01T23:01:14.485744+00:00",
-  "type": "news",
-  "cluster_id": "c2e4611670729"
- },
- {
-  "title": "Alibaba to pay $600 million to resolve US drug sales probe",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmJDMmhkeHMxSFpCOWF5NnM5UkpPMlJTX3AwTG5JdjRxb0pOa3pXZ1ZiYVpQaF83VU9VN3p1U1ZZSzZQcFBMS0JOcENSN3BZV3I2YWVoMTQyNmJyQlJMcXNZNzFJamt1Z1UwSm9tVmotaGJQTHFhQWFDMkpIRmRuRHlxaHBZVC1feE9HUTlLRTVmc2MxUzUyR3NWYTBMTHV5bTZwbXptZVR4MlpRSlQzaQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Alibaba, ABD uyuşturucu satışı soruşturmasını kapatmak için 600 milyon dolar ödeyecektir.",
-  "metric": "Alibaba cezası: $600 milyon",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-01T23:01:14.485744+00:00",
-  "type": "news",
-  "cluster_id": "c9ac82936f22c"
- },
- {
-  "title": "Katar açıkladı: ABD ile İran görüşmelerin sürdürülmesinde mutabık",
-  "link": "https://www.cumhuriyet.com.tr/dunya/katar-acikladi-abd-ile-iran-gorusmelerin-surdurulmesinde-mutabik-2517228",
-  "source": "Cumhuriyet",
-  "summary_tr": "Katar, ABD ile İran arasındaki görüşmelerde olumlu ilerleme sağlandığını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-01T22:01:05.786730+00:00",
-  "type": "news",
-  "cluster_id": "c77fa89b9e195"
  }
 ]
