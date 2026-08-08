@@ -1,5 +1,65 @@
 [
  {
+  "title": "Türkiye'nin konuştuğu 'Çerçeve Yasa' kabul edildi!",
+  "link": "https://www.sozcu.com.tr/turkiye-nin-konustugu-cerceve-yasa-kabul-edildi-p343441",
+  "source": "Sözcü",
+  "summary_tr": "Çerçeve Yasa teklifi Adalet Komisyonu'nda kabul edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-08T06:01:00.768017+00:00",
+  "type": "news",
+  "cluster_id": "c2212e2906074"
+ },
+ {
+  "title": "Kansu Yıldırım: Enflasyon, sınıfsal bölüşüm mekanizmasının önemli bileşenlerinden biridir",
+  "link": "https://www.diken.com.tr/kansu-yildirim-enflasyon-sinifsal-bolusum-mekanizmasinin-onemli-bilesenlerinden-biridir/?utm_source=rss&utm_medium=rss&utm_campaign=kansu-yildirim-enflasyon-sinifsal-bolusum-mekanizmasinin-onemli-bilesenlerinden-biridir",
+  "source": "Diken",
+  "summary_tr": "Kansu Yıldırım yazısında enflasyonun sınıfsal bölüşüm mekanizmasının önemli bir bileşeni olduğu analiz ediliyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-08T06:01:00.768017+00:00",
+  "type": "news",
+  "cluster_id": "cf17fd4f7da2d"
+ },
+ {
+  "title": "Mirasta yeni dönem: Satışta ilk hak değişecek",
+  "link": "https://www.sozcu.com.tr/mirasta-yeni-donem-satista-ilk-hak-degisecek-p343432",
+  "source": "Sözcü",
+  "summary_tr": "Miras kalan taşınmazların satışında yeni sistem planlanıyor; ilk açık artırmada mirasçılara öncelik verilecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-08T06:01:00.768017+00:00",
+  "type": "news",
+  "cluster_id": "c2d541f08efe7"
+ },
+ {
+  "title": "Yargıtay'dan çalışana müjde: Kıdem tazminatında hesap değişti",
+  "link": "https://www.sozcu.com.tr/yargitay-dan-calisana-mujde-kidem-tazminatinda-hesap-degisti-p343429",
+  "source": "Sözcü",
+  "summary_tr": "Yargıtay, satış ve performans primi alan çalışanların kıdem tazminatı hesaplama yöntemini değiştiren karara imza attı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-08T06:01:00.768017+00:00",
+  "type": "news",
+  "cluster_id": "cca41d2e90e62"
+ },
+ {
+  "title": "Trakya ihracat (aylık): 358 milyon dolar (Haziran)",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeTJYSHc5cXdMckJ4UEpKRTJvMGFKMjBEbS1jcEJqSGRfNnNsN213Nk9MeDFaZl9YR2RlUkZsZTVEdGRpNE9jbE05eE1CT0FxSk9ESmszTnhnYWRiZUI4YTNiMlRSNS1GVHhPLUYtQWk2TXZHbk8zampPcGlwbW4xRVhNdUxXZWtkckZNVTBTNlNsQktkN0JxYVY4NkdPd9IBowFBVV95cUxPX0VxMjJ4dUo1cWJaRTgybkdwMnJKS1l3R2tyRnVYcmlqR3BMWnBXR1ZPdU9xNXU4Zm5xWHFpR3d3UG1SYjZkc3I5ODdEa3JHVW5PNmJDRGxma0xpNjZTOVNWWXp0NE1pQ0h6X0NkY3ZOdHZfWVBSek1IcUJYeWtLZlJSM1JjZHRrdE1FdWZsdmVnNmYzXzBRX2FTblFiUXo1bDFR?oc=5",
+  "source": "TÜİK",
+  "summary_tr": "358 milyon dolar",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-08T06:01:00.768017+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Yargıtay'dan kritik karar: SGK emekliye faiz ödeyecek!",
   "link": "https://www.sozcu.com.tr/yargitay-dan-kritik-karar-sgk-emekliye-faiz-odeyecek-p343427",
   "source": "Sözcü",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-02T09:01:14.493941+00:00",
   "type": "news",
   "cluster_id": "cd79854454100"
- },
- {
-  "title": "Samsung Group details plans to invest $90 billion in South Korea's central region",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXVxbzFtcnF6cXd6eFZKMFpnZjBoTHZaR0c2anZBQWY4bnNQeTJ5aUpEQVFjZV96Y3ZnWmQyM2EwZEdnMldwZW1Tcm9DeVE4VUdvYlkyRnRXc1lQTDRjUERxcjRSdl9xbGFMSno2QUhsWVlCcHpvcFg4cUxHRUh4Nm9mWE5sd1NPUUs5ZUVFS1dMbFo3czlTVExiM2dEQnFna04yaW9WcF9PcWZkU1ZFX19SUW55RUVibDltZ2hldFFDWjIxZ09j?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Samsung Group, Güney Kore'nin merkezi bölgesine 90 milyar dolar yatırım yapacağını açıkladı.",
-  "metric": "Samsung yatırımı 90 milyar dolar",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-02T09:01:14.493941+00:00",
-  "type": "news",
-  "cluster_id": "c3477e1e348fc"
- },
- {
-  "title": "UAE's IHC, Adani plan $11.5 billion aluminium project in India's Odisha",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUy1tVU1XVGZCbXpHWmZodmZtR2s3U3lvYXBQNkwyek9iaTBGbkhZS1JFalpPZHRhaEozMnFvSXBqdTV0aWxRTXdYOHdWOE1VWFJFVjlia2NqOTdVUFVzZjVFREQzdFptY08yMFl6T0RHNDRHZE5ZUDZXRUE0cHdRUXJxREhQWkFEc1djMzRRdU9vbjhveXBtcnpGRm9TT1dxcWRtc0tTVlo3ZFVJajNLVjZ6UE1ydzRGZmpUaw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "BAE'li IHC ve Adani, Hindistan'ın Odisha bölgesinde 11,5 milyar dolarlık alüminyum tesisi kurmayı planlıyor.",
-  "metric": "IHC-Adani alüminyum projesi 11,5 milyar dolar",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-02T09:01:14.493941+00:00",
-  "type": "news",
-  "cluster_id": "cecfbce0621a8"
- },
- {
-  "title": "Rusya'dan Kiev'e gece saldırısı: En az 13 sivil öldü",
-  "link": "https://www.dw.com/tr/rusya-dan-kiev-e-gece-saldırısı-en-az-13-sivil-öldü/a-77796165?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Rusya, Kiev'e geniş çaplı gece saldırısı düzenledi; en az 13 sivil öldü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-02T08:01:10.187032+00:00",
-  "type": "news",
-  "cluster_id": "cb04ca49f70ae"
- },
- {
-  "title": "En düşük emekli maaşı ne kadar olacak? TÜİK'in açıklamasına son 24 saat",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/en-dusuk-emekli-maasi-ne-kadar-olacak-tuik-in-aciklamasina-son-24-saat-2517306",
-  "source": "Cumhuriyet",
-  "summary_tr": "TÜİK haziran enflasyon verilerinin ardından emekli, memur ve sosyal yardım alan milyonlarca kişinin temmuz zam oranları belirlenecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-02T08:01:10.187032+00:00",
-  "type": "news",
-  "cluster_id": "c2331a1aa2293"
- },
- {
-  "title": "Russian attack kills at least 13, injures scores and causes damage across Ukraine capital",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaHNTaXZqSXdZU3VxemduZGktc2NXazJYODljRUdSQTJlMEFBQ0xwY1JLdlNwWUo2MG5ETnVNWGFUanRZRXJUQVROTjZuZVVPeU9jVXpBSHBTZ1lWYnVzWVoxS3Ywa2dORElkdEt3TFBaNzhyX0Z5dVZnTktQVXZMM0EtUFh1MjRFd1M3cEpkRXkxTVdXNmtGUmJyV0VmQks5MEw4V0hkdw?oc=5",
-  "source": "AP",
-  "summary_tr": "Rusya saldırısında Kiev'de en az 13 kişi öldü, çok sayıda yaralı ve hasar meydana geldi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-02T08:01:10.187032+00:00",
-  "type": "news",
-  "cluster_id": "c7900f227967c"
  }
 ]
