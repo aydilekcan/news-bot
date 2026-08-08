@@ -1,5 +1,41 @@
 [
  {
+  "title": "'Çerçeve Yasa' teklifinin pazartesi günü TBMM Genel Kurulu'nda görüşülmesi bekleniyor",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/cerceve-yasa-teklifinin-pazartesi-gunu-tbmm-genel-kurulu-nda-gorusulmesi-bekleniyor-2527537",
+  "source": "Cumhuriyet",
+  "summary_tr": "TBMM Genel Kurulu pazartesi günü 'Çerçeve Yasa' teklifini görüşecek; şehit yakınları ve gazilere yönelik düzenlemeler gündemde.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-08T18:01:03.270378+00:00",
+  "type": "news",
+  "cluster_id": "c1834fea893d1"
+ },
+ {
+  "title": "Iran makes new strait demands, the UAE says a ship was targeted and other Middle East news",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONHBEUUlsdUlIcC1vM0pPSm9IUk9fdnRseE15OXFhN3FRTHRqa0dEcmR4aXVjMmJMLVEyMzNsWDlnaFFLRkRKRkQyb24tTC1MNjBGMVcwa2cyeXczemdMY3AtX2x4TENBWmc4S0Nqbm5COEd6NmVhNEN4MjVPajdrd3UyQ0FsRXoxU0JTdm1BTTBCRjVzcmZ3WTJVNVZ1Y3JFV3owRzBGQXNIVXBiSUVKZ2FJZUpxeUdJZzNFaWhR?oc=5",
+  "source": "AP",
+  "summary_tr": "İran Hürmüz Boğazı'nda yeni taleplerde bulundu; BAE, bir gemisinin hedef alındığını bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-08T18:01:03.270378+00:00",
+  "type": "news",
+  "cluster_id": "c694701b60990"
+ },
+ {
+  "title": "Bakan Fidan: Bölgedeki istikrarsızlığı gidermek için savunma ittifakına ihtiyaç vardı",
+  "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-bolgedeki-istikrarsizligi-gidermek-icin-savunma-ittifakina-ihtiyac-vardi-953432.html",
+  "source": "TRT Haber",
+  "summary_tr": "Dışişleri Bakanı Fidan, bölgedeki istikrarsızlıkları gidermek için savunma ittifakının gerekli olduğunu belirtti.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-08T18:01:03.270378+00:00",
+  "type": "news",
+  "cluster_id": "c4fae1c4c9a7f"
+ },
+ {
   "title": "İsrail basını: Netanyahu 17 milyar dolarlık ek savunma bütçesi istedi",
   "link": "https://www.diken.com.tr/israil-basini-netanyahu-17-milyar-dolarlik-ek-savunma-butcesi-istedi/?utm_source=rss&utm_medium=rss&utm_campaign=israil-basini-netanyahu-17-milyar-dolarlik-ek-savunma-butcesi-istedi",
   "source": "Diken",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-02T18:01:09.915145+00:00",
   "type": "news",
   "cluster_id": "ca325eef64dd7"
- },
- {
-  "title": "US employers still reluctant to add many jobs as hiring slows in June",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMTd1T1JvYW9HaE53bk5zOEVnRWtQVzh2MXhwTEw4dlhuVUV4N25wNGYweHJ1Y1g1NUphaXRnQWpIdDAyOVNfRU0tMzZpQ0lvZ1NDWXpwdmx1TEZGWVBCVXJNakx4VmtkRkh6dWs4VDM3VjVyNjRQUF8ySl8zSGdpbEx5YW54QjNxYnhldTVB?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD'de istihdam artışı yavaşladı; işveren iş alımına isteksiz davranıyor (Haziran 2026).",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-02T18:01:09.915145+00:00",
-  "type": "news",
-  "cluster_id": "c7e0fc878efa6"
- },
- {
-  "title": "Türkiye, Suriye'nin başkenti Şam'da yapılan saldırıyı \"güçlü şekilde\" kınadı",
-  "link": "https://www.aa.com.tr/tr/dunya/turkiye-suriyenin-baskenti-samda-yapilan-saldiriyi-guclu-sekilde-kinadi/3984605",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye, Suriye'nin başkenti Şam'da gerçekleştirilen terör saldırısını güçlü şekilde kınadı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-02T18:01:09.915145+00:00",
-  "type": "news",
-  "cluster_id": "caacb255aab44"
- },
- {
-  "title": "Ä°letiÅŸim BaÅŸkanÄ± Duran: Åžam'daki hain terÃ¶r saldÄ±rÄ±sÄ±nÄ± lanetliyorum",
-  "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-samdaki-hain-teror-saldirisini-lanetliyorum-950080.html",
-  "source": "TRT Haber",
-  "summary_tr": "İletişim Başkanı Duran, Şam'daki saldırıyı lanetledi ve Suriye'deki istikrar çalışmalarına vurgu yaptı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-02T18:01:09.915145+00:00",
-  "type": "news",
-  "cluster_id": "c9724dffc88b5"
  }
 ]
