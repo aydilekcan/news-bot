@@ -1,5 +1,29 @@
 [
  {
+  "title": "Yargıtay'dan kritik karar: SGK emekliye faiz ödeyecek!",
+  "link": "https://www.sozcu.com.tr/yargitay-dan-kritik-karar-sgk-emekliye-faiz-odeyecek-p343427",
+  "source": "Sözcü",
+  "summary_tr": "Yargıtay, emeklilik aylığının geç bağlanması nedeniyle biriken ödemelere faiz uygulanacağına karar verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-08T05:01:00.889519+00:00",
+  "type": "news",
+  "cluster_id": "c945e5d34bdba"
+ },
+ {
+  "title": "Türkiye'ye gelen turistler alışveriş yapmadı, saçını yaptırdı!",
+  "link": "https://www.sozcu.com.tr/turkiye-ye-gelen-turistler-alisveris-yapmadi-sacini-yaptirdi-p343425",
+  "source": "Sözcü",
+  "summary_tr": "Yüksek fiyatlar nedeniyle Türkiye'ye gelen yabancı turistlerin harcama alışkanlıkları değişti; alışveriş yerine saç gibi hizmetler tercih ediliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-08T05:01:00.889519+00:00",
+  "type": "news",
+  "cluster_id": "c7150000c6314"
+ },
+ {
   "title": "Parayla sebze alamayacağız",
   "link": "https://www.sozcu.com.tr/parayla-sebze-alamayacagiz-p343419",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-02T08:01:10.187032+00:00",
   "type": "news",
   "cluster_id": "c7900f227967c"
- },
- {
-  "title": "Akaryakıt fiyatlarına zam! Benzin, motorin ve LPG'ye ne kadar zam geldi? Güncel yakıt fiyatları ne kadar?",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/akaryakit-fiyatlarina-zam-benzin-motorin-ve-lpg-ye-ne-kadar-zam-geldi-guncel-yakit-fiyatlari-ne-kadar-2517305",
-  "source": "Cumhuriyet",
-  "summary_tr": "Benzin, motorin ve LPG fiyatlarına zam yapıldı; ÖTV artışları ve küresel piyasa dalgalanmaları etkili.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-02T08:01:10.187032+00:00",
-  "type": "news",
-  "cluster_id": "cd8b70e0a5802"
- },
- {
-  "title": "Bir evde 4 asgari ücret bile yoksulluğu geçemiyor",
-  "link": "https://www.sozcu.com.tr/bir-evde-4-asgari-ucret-bile-yoksullugu-gecemiyor-p333074",
-  "source": "Sözcü",
-  "summary_tr": "KAMU-AR araştırmasına göre bir evde 4 asgari ücret bile yoksulluk sınırını aşamıyor; haziran 2026 açlık ve yoksulluk sınırı açıklandı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-02T08:01:10.187032+00:00",
-  "type": "news",
-  "cluster_id": "c985d6a87d4f4"
  }
 ]
