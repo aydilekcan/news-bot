@@ -1,5 +1,65 @@
 [
  {
+  "title": "Bakan Fidan’dan Mekke Savunma Anlaşması açıklaması",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/bakan-fidan-dan-mekke-savunma-anlasmasi-aciklamasi-2527557",
+  "source": "Cumhuriyet",
+  "summary_tr": "Dışişleri Bakanı Fidan, Türkiye-Pakistan-Suudi Arabistan arasında imzalanan Mekke Ortak Savunma Anlaşması'nın NATO'nun kolektif savunma hükmüne eşdeğer olduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-08T19:01:04.175588+00:00",
+  "type": "news",
+  "cluster_id": "cad34046f6693"
+ },
+ {
+  "title": "Dışişleri Bakanı Fidan: (Mekke Anlaşması) Bize saldırmayan hiçbir ülke hedefimizde değil",
+  "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-mekke-anlasmasi-bize-saldirmayan-hicbir-ulke-hedefimizde-degil/4021924",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Dışişleri Bakanı Fidan, Mekke Ortak Savunma Anlaşması'nın NATO Antlaşması'nın kolektif savunma maddesine eşdeğer olduğunu ve bize saldırmayan hiçbir ülkenin hedeflerinde olmadığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-08T19:01:04.175588+00:00",
+  "type": "news",
+  "cluster_id": "caea81a63c90c"
+ },
+ {
+  "title": "Bakanı Fidan: Bize saldırmayan hiçbir ülke hedefimizde değil",
+  "link": "https://www.trthaber.com/haber/gundem/bakani-fidan-bize-saldirmayan-hicbir-ulke-hedefimizde-degil-953432.html",
+  "source": "TRT Haber",
+  "summary_tr": "Dışişleri Bakanı Fidan, Mekke Ortak Savunma Anlaşması'nın NATO Antlaşması'nın kolektif savunma hükmüyle eşdeğer olduğunu ve bize saldırmayan ülkelerin hedeflerinde olmadığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-08T19:01:04.175588+00:00",
+  "type": "news",
+  "cluster_id": "caea81a63c90c"
+ },
+ {
+  "title": "Son dakika... Tutuklanan Menderes Belediye Başkanı görevinden uzaklaştırıldı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-tutuklanan-menderes-belediye-baskani-gorevden-uzaklastirildi-2527544",
+  "source": "Cumhuriyet",
+  "summary_tr": "İçişleri Bakanlığı, tutuklanan Menderes Belediye Başkanı İlkay Çiçek'i geçici bir tedbir olarak görevden uzaklaştırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-08T19:01:04.175588+00:00",
+  "type": "news",
+  "cluster_id": "c9336defeb609"
+ },
+ {
+  "title": "TUFE (yillik): %31,75 (Temmuz 2025)",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaGNtR2pyTHVYS3NFZ0x6X0lEUWlnQ19ia2locF9Rc1BidXdaTTl1a1djeTNVc2J0Nmo1TlhpRWJCVkpHcnV3RzFpb2g3X2c5OUhXNHFsTERJeTM2YWpwQUU3OG9KbzhLQjJZbXZrYmVtSnYtbDZmaDJDcGtlNkpwbkl5VWt4QQ?oc=5",
+  "source": "OECD",
+  "summary_tr": "%31,75 → %31,75",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-08T19:01:04.175588+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "'Çerçeve Yasa' teklifinin pazartesi günü TBMM Genel Kurulu'nda görüşülmesi bekleniyor",
   "link": "https://www.cumhuriyet.com.tr/turkiye/cerceve-yasa-teklifinin-pazartesi-gunu-tbmm-genel-kurulu-nda-gorusulmesi-bekleniyor-2527537",
   "source": "Cumhuriyet",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-02T20:01:08.339917+00:00",
   "type": "news",
   "cluster_id": "ccf72f7966c71"
- },
- {
-  "title": "Bakan Fidan'dan CAATSA aÃ§Ä±klamasÄ±: Ä°rade var, sÃ¼reÃ§ iÅŸliyor",
-  "link": "https://www.trthaber.com/haber/gundem/bakan-fidandan-caatsa-aciklamasi-irade-var-surec-isliyor-950084.html",
-  "source": "TRT Haber",
-  "summary_tr": "Bakan Fidan, CAATSA yaptırımlarının kaldırılması yönünde süreci işlettiğini belirtti.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-02T20:01:08.339917+00:00",
-  "type": "news",
-  "cluster_id": "cfdeb42e6a933"
- },
- {
-  "title": "Asgari ücretin 45 bin 800 liraya çıkarılması için kanun teklifi verildi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/asgari-ucretin-45-bin-800-liraya-cikarilmasi-icin-kanun-teklifi-verildi-2517500",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Grup Başkanvekili, asgari ücretin 45.800 TL'ye yükseltilmesini öngören kanun teklifini TBMM'ye sundu.",
-  "metric": "Asgari ücret teklifinin yeni seviyesi: 45.800 TL",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-07-02T19:01:03.827646+00:00",
-  "type": "news",
-  "cluster_id": "caac95d642cbe"
- },
- {
-  "title": "Alman hükümetinden 34 maddelik \"Canlandırma Programı\"",
-  "link": "https://www.dw.com/tr/alman-hükümetinden-34-maddelik-canlandırma-programı/a-77809532?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Almanya hükümeti ekonomiyi canlandırmak için 34 maddelik reform paketi üzerinde anlaştı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-02T19:01:03.827646+00:00",
-  "type": "news",
-  "cluster_id": "c23e6494fda56"
- },
- {
-  "title": "Dışişleri Bakanı Fidan: Trump’ta, CAATSA yaptırımlarını kaldırma yönünde güçlü irade var",
-  "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-trump-ta-caatsa-yaptirimlarini-kaldirma-yonunde-guclu-irade-var-/3984709",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Dışişleri Bakanı Fidan, Trump yönetiminin ABD'nin CAATSA yaptırımlarını kaldırmaya güçlü irade gösterdiğini açıkladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-02T19:01:03.827646+00:00",
-  "type": "news",
-  "cluster_id": "c166eb1899dc1"
- },
- {
-  "title": "Madımak Katliamı'nın araştırılması önergesi AKP ve MHP oylarıyla reddedildi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/madimak-katliami-nin-arastirilmasi-onergesi-akp-ve-mhp-oylariyla-reddedildi-2517494",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM'de CHP'nin Madımak Katliamı'nın araştırılması önergesi AKP ve MHP oylarıyla reddedildi.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-02T18:01:09.915145+00:00",
-  "type": "news",
-  "cluster_id": "ca325eef64dd7"
  }
 ]
