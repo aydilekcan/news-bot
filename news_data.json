@@ -1,5 +1,65 @@
 [
  {
+  "title": "Iran says deal on Strait of Hormuz is close but will not open the waterway by itself",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran, Hürmüz Boğazı krizinde anlaşmanın yakın olduğunu ancak kendi inisiyatifle boğazı açmayacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-08T14:01:02.564363+00:00",
+  "type": "news",
+  "cluster_id": "cb944c5d57afc"
+ },
+ {
+  "title": "UAE says Iran attacked ADNOC vessel with missile in Strait of Hormuz",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQajV4Uk9FTWd2WFJTWWVSZS1pdkl4OGFERFdzeExaYy1udkYxWGdXYWxRdHUwd2kwLVRtRTdhRkdVdUZuNXZ3U09EQUR3OXUwUzVtZmZZeWZkWmlkTThUTDBYNVBjbE9IWVBQZnhhcHBfcFVnZTc0NG1uMk54dElXNkhzQUFZR3VkRW5QZkthVjdfdTJOaXR6YWxiZmtfdzJROGg3bWFuOVhuV2ZkTDNLNkg4d18?oc=5",
+  "source": "Reuters",
+  "summary_tr": "BAE, İran'ın Hürmüz Boğazı'nda ADNOC tankerine füze saldırısı düzenlediğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-08T14:01:02.564363+00:00",
+  "type": "news",
+  "cluster_id": "cddbece67cc3a"
+ },
+ {
+  "title": "Komşu iki ülke aralarındaki yüzlerce mayına rağmen birbirine bağlanacak",
+  "link": "https://www.sozcu.com.tr/komsu-iki-ulke-aralarindaki-yuzlerce-mayina-ragmen-birbirine-baglanacak-p343547",
+  "source": "Sözcü",
+  "summary_tr": "Irak ve İran arasındaki tarihi demiryolu projesinde kritik ilerleme: iki ülke yıllar sonra altyapıyla birbirine bağlanacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-08T14:01:02.564363+00:00",
+  "type": "news",
+  "cluster_id": "c7664989d5bc6"
+ },
+ {
+  "title": "Bulgaria's Radev says drone exploded in Bulgaria's airspace",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLTJIOVhtd1lJa0ptSGkzVHF4SVNjT0xLVWVJZmdqVXhGQTJNWGF2UklzYldoUmJHNVQ1QnRsbUJLM3k4OUs0aG5mbk43czBEOUE2bDAyakI4a25YWFo0YjdObVRyVGJGeWFaUGZ1eDBhSkVaOUN3NXNDX09pVmFtbmZlSC1ZWWt0eDFVVDNVVWtEbmx3czcwV3E4c0k?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Bulgaristan Cumhurbaşkanı Radev, İran'a ait bir insansız hava aracının Bulgaristan hava sahasında patladığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-08T14:01:02.564363+00:00",
+  "type": "news",
+  "cluster_id": "c5d7c7fed9ca7"
+ },
+ {
+  "title": "Ukraine’s Zelenskyy arrives for first visit to Russia-friendly Serbia",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa1FXQmMzaGRsQkg5U0dVSFd4OWhwVkdrcHhWaGRQY0xUbEdOd3hyMk9CSUFHMWQ4UU52Tk8wbHNRLXc4ZGJsNXVKYnNIZEt1c0FZcnJkLXN3QThVdXBNQTZlaGFtUWZsUndNbUhXbmRfN0s3akhFeU9qOWx3LUg3M19kZVJwTDlPRHdSMExhU1ZsSXV5WmE1VENhT3dPblFFQ1pmVmd3?oc=5",
+  "source": "AP",
+  "summary_tr": "Ukrayna Cumhurbaşkanı Zelenskyy, Rusya'ya yakın Serbia'yı ilk kez ziyaret etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-08T14:01:02.564363+00:00",
+  "type": "news",
+  "cluster_id": "c8cd7a197558c"
+ },
+ {
   "title": "BAE, İran'ın Hürmüz Boğazı'nda bir gemisini füzeyle hedef aldığını duyurdu",
   "link": "https://www.trthaber.com/haber/dunya/bae-iranin-hurmuz-bogazinda-bir-gemisini-fuzeyle-hedef-aldigini-duyurdu-953424.html",
   "source": "TRT Haber",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-02T14:01:07.339490+00:00",
   "type": "news",
   "cluster_id": "c36fc2bd10959"
- },
- {
-  "title": "TCMB Brüt Dış Rezerv: 149,2 milyar dolar",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMXYtRURsZ05WZnItekFqSmRKOUVRY2w5bnY3RlhBNU0wazE4NGVXQzFvbVMyeUdxY0ZxRUotcUR6N2ZHZjEzVEJEekFCelRDSV94WS12WXhjYWZ2eWVxTU5Ra0dFeXpabXpNZ0dhU1dZOTBwUkhsM2RVSVVUdjdRTmd3MjJJb2ZmTE5sVnZodXRhc1U?oc=5",
-  "source": "TCMB",
-  "summary_tr": "149,2 milyar dolar",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-07-02T14:01:07.339490+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "Son dakika... ABD'de haziran ayı tarım dışı istihdam rakamları açıklandı",
-  "link": "https://www.sozcu.com.tr/son-dakika-abd-de-haziran-ayi-tarim-disi-istihdam-rakamlari-aciklandi-p333181",
-  "source": "Sözcü",
-  "summary_tr": "ABD'de haziran tarım dışı istihdam 57 bin kişi artarken beklentilerin altında kaldı; işsizlik oranı %4,2'ye geriledi.",
-  "metric": "ABD işsizlik oranı %4,0 -> %4,2 (+0,2 puan)",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-02T13:01:16.317717+00:00",
-  "type": "news",
-  "cluster_id": "c55f6416c14b6"
- },
- {
-  "title": "ABD'de işsizlik oranı yüzde 4,2'ye geriledi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/abdde-issizlik-orani-yuzde-4-2ye-geriledi/3984344",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD'de işsizlik oranı %4,2'ye düştü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-02T13:01:16.317717+00:00",
-  "type": "news",
-  "cluster_id": "cca4f28b6c66c"
- },
- {
-  "title": "BYD'nin Türkiye'den çekilme nedeni belli oldu",
-  "link": "https://www.sozcu.com.tr/byd-nin-turkiye-den-cekilme-nedeni-belli-oldu-p333189",
-  "source": "Sözcü",
-  "summary_tr": "Çinli otomotiv devi BYD, Türkiye'deki fabrika yatırımını Avrupa Birliği'nin hazırlayıcı adımlar nedeniyle askıya aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-02T13:01:16.317717+00:00",
-  "type": "news",
-  "cluster_id": "c4b94a87d582d"
- },
- {
-  "title": "Son dakika... Şam'da tarihi çarşı yakınında şiddetli patlama: Çok sayıda yaralı",
-  "link": "https://www.sozcu.com.tr/son-dakika-sam-da-tarihi-carsi-yakininda-siddetli-patlama-cok-sayida-yarali-p333185",
-  "source": "Sözcü",
-  "summary_tr": "Suriye'nin başkenti Şam'daki tarihi Hamidiye Çarşısı yakınında bir kafede şiddetli patlama meydana geldi; çok sayıda yaralı vardır.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-02T13:01:16.317717+00:00",
-  "type": "news",
-  "cluster_id": "c3de169a005c3"
  }
 ]
