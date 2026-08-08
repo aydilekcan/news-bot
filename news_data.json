@@ -1,5 +1,77 @@
 [
  {
+  "title": "Rusya Ukrayna’da kritik noktaları hedef aldı: Peş peşe vurdu",
+  "link": "https://www.sozcu.com.tr/rusya-ukrayna-da-kritik-noktalari-hedef-aldi-pes-pese-vurdu-p343567",
+  "source": "Sözcü",
+  "summary_tr": "Rusya, Kiev'deki askeri sanayi tesisleri, yakıt depoları ve Karadeniz'deki gemi hedeflerine hava saldırısı düzenledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-08T16:01:11.538633+00:00",
+  "type": "news",
+  "cluster_id": "c27d25f12e559"
+ },
+ {
+  "title": "Gaz stokları eriyor: Avrupa'nın korktuğu başına geliyor",
+  "link": "https://www.sozcu.com.tr/gaz-stoklari-eriyor-avrupa-nin-korktugu-basina-geliyor-p343566",
+  "source": "Sözcü",
+  "summary_tr": "Gazprom verilerine göre Avrupa'nın yer altı doğal gaz depoları bu tarih için rekor düşük seviyelerine inmiş durumda.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-08T16:01:11.538633+00:00",
+  "type": "news",
+  "cluster_id": "cf2c4e75a1a87"
+ },
+ {
+  "title": "FETÖ’cü Karatepe’nin gösterdiği yerdeki arama sonuçları açıklandı",
+  "link": "https://www.sozcu.com.tr/feto-cu-karatepe-nin-gosterdigi-yerdeki-arama-sonuclari-aciklandi-p343565",
+  "source": "Sözcü",
+  "summary_tr": "15 Temmuz darbe girişiminde Cumhurbaşkanına yönelik Marmaris suikast girişimine katıldığı öne sürülen FETÖ'cü Karatepe'nin gösterdiği yerdeki arama sonuçları açıklandı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-08T16:01:11.538633+00:00",
+  "type": "news",
+  "cluster_id": "c122442f0bc5f"
+ },
+ {
+  "title": "İran Güvenlik Konseyi Genel Sekreteri: \"ABD davranışlarını düzeltene kadar Hürmüz Boğazı açılmayacak\"",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-guvenlik-konseyi-genel-sekreteri-abd-davranislarini-duzeltene-kadar-hurmuz-bogazi-acilmayacak/4021928",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Güvenlik Konseyi Genel Sekreteri, ABD davranışlarını düzeltene kadar Hürmüz Boğazı'nın açılmayacağını belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-08T16:01:11.538633+00:00",
+  "type": "news",
+  "cluster_id": "c7cade421f42e"
+ },
+ {
+  "title": "Doruk Madencilik işçileri eylemlerine devam ediyor: 'Dört yıldır çektiğimiz yeter'",
+  "link": "https://www.diken.com.tr/doruk-madencilik-iscileri-eylemlerine-devam-ediyor-dort-yildir-cektigimiz-yeter/?utm_source=rss&utm_medium=rss&utm_campaign=doruk-madencilik-iscileri-eylemlerine-devam-ediyor-dort-yildir-cektigimiz-yeter",
+  "source": "Diken",
+  "summary_tr": "Doruk Madencilik işçileri dört yıldır alacaklarını alamadıklarını belirterek eylemlere devam ediyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-08T16:01:11.538633+00:00",
+  "type": "news",
+  "cluster_id": "c7e6ea9c7a346"
+ },
+ {
+  "title": "Umman: Hürmüz Boğazı’ndaki seyrüsefer müzakereleri olumlu ilerliyor",
+  "link": "https://www.aa.com.tr/tr/dunya/umman-hurmuz-bogazi-ndaki-seyrusefer-muzakereleri-olumlu-ilerliyor/4021925",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Umman, İran ile Hürmüz Boğazı seyrüsefer müzakerelerinin olumlu ve yapıcı ilerlediğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-08T16:01:11.538633+00:00",
+  "type": "news",
+  "cluster_id": "c9e2e5fe90631"
+ },
+ {
   "title": "Zelenskyy visits Moscow-friendly Serbia as Russian attacks on Kyiv region kill 4",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDFfY3QyOTNzV21YQ0VINm5YT013Y3BXZ2Y5aWg5M0xVUVhTRFc0U2JxTktwa0MyS0RERFR3RWZvekQzdVBYdnBnWGhtckZDay1sMS1iZmUyZllQN2hjNGM2X1ZNTjRlaVJMTnNDdW92ekg5QkJDRUVmZzhNYzNhOWM2cUpFMEU3VjB5U0lWQm40enFTUHJMSnJKWEk3T0lXUHJleHhQbEE?oc=5",
   "source": "AP",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-02T17:01:11.916483+00:00",
   "type": "news",
   "cluster_id": "cfe2110b46b13"
- },
- {
-  "title": "A major Russian attack kills 20 in Kyiv as Ukrainian strikes disrupt Moscow’s oil sector",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaHNTaXZqSXdZU3VxemduZGktc2NXazJYODljRUdSQTJlMEFBQ0xwY1JLdlNwWUo2MG5ETnVNWGFUanRZRXJUQVROTjZuZVVPeU9jVXpBSHBTZ1lWYnVzWVoxS3Ywa2dORElkdEt3TFBaNzhyX0Z5dVZnTktQVXZMM0EtUFh1MjRFd1M3cEpkRXkxTVdXNmtGUmJyV0VmQks5MEw4V0hkdw?oc=5",
-  "source": "AP",
-  "summary_tr": "Rusya'nın Kyiv'e büyük saldırısında 20 kişi öldü; Ukrayna saldırıları Moskova'nın petrol sektörünü aksatıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-02T16:01:08.638740+00:00",
-  "type": "news",
-  "cluster_id": "c9471306c1ce7"
- },
- {
-  "title": "ABD'de işsizlik oranındaki düşüşün perde arkası ortaya çıktı",
-  "link": "https://www.sozcu.com.tr/abd-de-issizlik-oranindaki-dususun-perde-arkasi-ortaya-cikti-p333223",
-  "source": "Sözcü",
-  "summary_tr": "ABD işgücü raporlarında açıklanan düşüşün ardında 700 bin kişinin işgücü dışına çıkması gerçeği gizlenmiş.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-02T16:01:08.638740+00:00",
-  "type": "news",
-  "cluster_id": "ccc1f52b9fc1a"
- },
- {
-  "title": "Germany's Merz unveils pension, tax and labour reforms",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeC12SkJFeXFXYUY5eDhRMnV6TUloNWtndnExTVpQaUxlaVY3eUExR2Fxc21IeVNLYy14Q3pxemtTVVBydlZ4S3AyN1JVU1MydDZPakN1S3VsekVnRFJIVkN1RFVLcjBWb0prckdBU3BETlBJN192NERFV2RqblJ4dWc1d3pSV1pIZ1l1eUdzd3BZVXlNcnk3cFNUaUVPR0xKVGFR?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Almanya'nın Merz, emeklilik, vergi ve işgücü reformlarını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-02T16:01:08.638740+00:00",
-  "type": "news",
-  "cluster_id": "cb8c93d8f60be"
- },
- {
-  "title": "TCMB toplam rezervleri: <150 milyar $",
-  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWDFLTC1pOUlwbC01M2RPX3FBY3RoNXpvRFZENTFQb1g5Y0dCNTlHOElIRlhOMUFycWsxTjFwU1drYWZmcHZCU0ZrZjVPeG5tNE44cFJpSXRnQm04Q3h1NzltRThvMVBkVjIwTXJNaGJINWExVDVHSW5Uc1h0VFE1SVBjQ2pCSGFkdGxZR3RBb3BPM19PY2VoS0lCUVNSVFZWckhxd3lIRlJQLUxiSXdhM2hkcFVqbk5EMEdlVl9vNXVQMXdLZUhWczAwQ25PT01TUGx5X05Ebw?oc=5",
-  "source": "TCMB",
-  "summary_tr": "<150 milyar $",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-07-02T16:01:08.638740+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "US job growth slows in June; unemployment rate falls to 4.2% amid decline in labor force",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcC1JUDBLdzUyXy1CSEd3TV8tc3BUcUVheXREal9lcXhza1NIVlVHcHZrYWZmYmtSV2Q2SmdpdW9KbHIzTzFpeElNUGlNTG5MTnN0WFpwN2tCVjBpRGZzbTk2Y0VwMzQ0WDA5dTdkclhmVndRZnB0YTN3QXVzcUtvMl9qMXhSMHJ0RUY0WjJlN2h2RTZIWi1yaXZCOC1qcVAwS1RRcWxyckQyeXR4VW53?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD'de Haziran'da iş istihdam artışı yavaşladı; işsizlik oranı %4,2'ye düştü.",
-  "metric": "US işsizlik oranı %4,2",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-02T15:01:10.272392+00:00",
-  "type": "news",
-  "cluster_id": "ccf06a238bf25"
- },
- {
-  "title": "AB'den Rusya'ya yeni yaptırım hazırlığı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/abden-rusyaya-yeni-yaptirim-hazirligi/3984521",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "AB, Rusya'nın Kiev'e düzenlediği saldırılarının ardından Rus askeri-sanayi kompleksine yönelik yeni yaptırımlar hazırlığında.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-02T15:01:10.272392+00:00",
-  "type": "news",
-  "cluster_id": "ce2de64dc406d"
  }
 ]
