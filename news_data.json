@@ -1,5 +1,53 @@
 [
  {
+  "title": "Cezaevlerinde iğne atsan yere düşmez",
+  "link": "https://www.sozcu.com.tr/cezaevlerinde-igne-atsan-yere-dusmez-p343416",
+  "source": "Sözcü",
+  "summary_tr": "AKP iktidarında cezaevindeki tutuklu ve hükümlü sayısı 2002'de 59 binden 427 bine çıkarak 7 katına ulaştı.",
+  "metric": "Tutuklu/hükümlü sayısı 59.000 -> 427.000 (+625%)",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-08T03:01:08.453443+00:00",
+  "type": "news",
+  "cluster_id": "c75f2e56a48b7"
+ },
+ {
+  "title": "Trump administration moves ahead with efforts to fire Federal Reserve governor Lisa Cook",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQVN4VXRHS2pWOHdBdUhwYWpqODh6S0RTTTN0WTFqQlUxcU92YmNvV0ZtQ2FqTXNTbHQ5X3hQWE54RDRPVzhmc0xLZzd3cW9wekFhNGVyTnFDeVJMQmM3aF9OSEhteERaU2Q2Wnl3bHFEMEdsbXJ4aE92QXo4SkFxaHhuNXZKZy1DZ2dBbjBzV3l6MmNQTUkwSXE2OUpjN211Y1ZHYWhsSUhNLWlLdWFLNg?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump yönetimi, Federal Reserve vali Lisa Cook'u görevden almak için çabalarını sürdürüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-08T03:01:08.453443+00:00",
+  "type": "news",
+  "cluster_id": "c6fff5c374acb"
+ },
+ {
+  "title": "Enflasyon sebep aile yıkımı sonuç",
+  "link": "https://www.sozcu.com.tr/enflasyon-sebep-aile-yikimi-sonuc-p343413",
+  "source": "Sözcü",
+  "summary_tr": "Enflasyon ve hayat pahalılığı, 'Aile Yılı'nda aile yıkımlarının ve boşanmaların artmasında ana sebep olarak gösteriliyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-08T03:01:08.453443+00:00",
+  "type": "news",
+  "cluster_id": "c6434234a009a"
+ },
+ {
+  "title": "Bir tarafta lüks bir tarafta yoksulluk büyüyor",
+  "link": "https://www.sozcu.com.tr/bir-tarafta-luks-bir-tarafta-yoksulluk-buyuyor-p343409",
+  "source": "Sözcü",
+  "summary_tr": "Gelir eşitsizliğinin derinleşmesiyle lüks tüketim artarken milyonlarca kişi ay sonunu getirmekte zorlanıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-08T03:01:08.453443+00:00",
+  "type": "news",
+  "cluster_id": "ccba400ef656f"
+ },
+ {
   "title": "Fındıkta, buğdayda, zeytin yağında alım fiyatları hep beklentilerin altında kaldı: Çiftçinin yüzü gülmedi",
   "link": "https://www.cumhuriyet.com.tr/turkiye/findikta-bugdayda-zeytin-yaginda-alim-fiyatlari-hep-beklentilerin-altinda-kaldi-ciftcinin-yuzu-gulmedi-2527371",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-02T08:01:10.187032+00:00",
   "type": "news",
   "cluster_id": "c47db5d423620"
- },
- {
-  "title": "En düşük emekli maaşı ne kadar olacak? Emekliye zam oranı ne kadar?",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/en-dusuk-emekli-maasi-ne-kadar-olacak-emekliye-zam-orani-ne-kadar-2517275",
-  "source": "Cumhuriyet",
-  "summary_tr": "Emeklilerin merakla beklediği zam takvimi için geri sayım başladı. En düşük emekli maaşı ve zam oranı açıklanmak üzere.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-02T07:01:15.057039+00:00",
-  "type": "news",
-  "cluster_id": "c99191f3ba246"
- },
- {
-  "title": "Ukrayna: Rusya'nın Kiev'e düzenlediği hava saldırısında ölü sayısı 13'e yükseldi",
-  "link": "https://www.aa.com.tr/tr/dunya/ukrayna-rusyanin-kieve-duzenledigi-hava-saldirisinda-olu-sayisi-13e-yukseldi/3983862",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Rusya'nın Kiev'e düzenlediği hava saldırısında ölü sayısı 13'e, yaralı sayısı 86'ya çıktı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-02T07:01:15.057039+00:00",
-  "type": "news",
-  "cluster_id": "c744cac658734"
- },
- {
-  "title": "SGK'dan muayeneye bir yılda ikinci zam: Katılım bedelleri yüzde 285'e varan oranlarda artırıldı",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUTc0Q1Y2bGxMemNlR0VxWXdCV0xjVkVOb2Nxci1SYmcyeFU4Um81WV9YS0lMNnVQRXlqZjJSOHVXT1RoQm5SMkFTNW9VM3Q2eWdvUXR5Z1JvWUt6Y0dPVVU1cVNTWWJHYkExSHpkeWU3UGF6TVBubFJJaU5xaHJuNUFlMUZ2RjFsQUJjVTNvM2FsWTl0TXlXbmkzMHNsbFN0SkttTFhnLTdmMUJlajlqYnZPWEZaU241aWRyamZVazY?oc=5",
-  "source": "soL",
-  "summary_tr": "SGK, katılım bedellerini yüzde 285'e varan oranlarda artırarak bir yılda ikinci kez zam yaptı.",
-  "metric": "SGK katılım bedelleri +%285",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-02T07:01:15.057039+00:00",
-  "type": "news",
-  "cluster_id": "c5b9fbf8a2632"
- },
- {
-  "title": "Ankara'daki NATO zirvesi öncesinde Almanya'dan kritik hamle",
-  "link": "https://www.dw.com/tr/ankara-daki-nato-zirvesi-öncesinde-almanya-dan-kritik-hamle/a-77791177?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Alman hükümeti, Ankara'daki NATO Zirvesi öncesinde ordusunu güçlendirmek için iki yasa tasarısını kabul etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-02T07:01:15.057039+00:00",
-  "type": "news",
-  "cluster_id": "cdad03131c230"
  }
 ]
