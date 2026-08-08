@@ -1,5 +1,41 @@
 [
  {
+  "title": "Küresel piyasalarda 'istihdam' etkisi: Gözler yeni haftada enflasyona çevrildi",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/kuresel-piyasalarda-istihdam-etkisi-gozler-yeni-haftada-enflasyona-cevrildi-2527463",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD'de tarım dışı istihdam beklentilerin altında kaldı; küresel piyasalarda Fed'in politika yumuşatacağı beklentisi güçlendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-08T10:01:01.048752+00:00",
+  "type": "news",
+  "cluster_id": "c3e52fc5cf183"
+ },
+ {
+  "title": "Küresel piyasalarda enflasyon verisi öncesi hareketlilik",
+  "link": "https://www.sozcu.com.tr/kuresel-piyasalarda-enflasyon-verisi-oncesi-hareketlilik-p343494",
+  "source": "Sözcü",
+  "summary_tr": "Küresel piyasalarda ABD enflasyon verisi ve TCMB raporu beklentisiyle risk iştahı arttı; altın ve gümüş rekor kırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-08T10:01:01.048752+00:00",
+  "type": "news",
+  "cluster_id": "cebc5eac17e8f"
+ },
+ {
+  "title": "Esnafa 75 milyar lira finansman",
+  "link": "https://www.sozcu.com.tr/esnafa-75-milyar-lira-finansman-p343493",
+  "source": "Sözcü",
+  "summary_tr": "Ticaret Bakanı Ömer Bolat, 2026'nın ilk 6 ayında esnafa 74,8 milyar lira finansman sağlandığını açıkladı.",
+  "metric": "Esnaf finansmanı (6 ay) 74,8 milyar lira",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-08T10:01:01.048752+00:00",
+  "type": "news",
+  "cluster_id": "c8f36103f7311"
+ },
+ {
   "title": "Gözler TBMM Genel Kurulu'na çevrildi: Çerçeve yasa, milletvekillerinin sert tartışmalarına tanık olan Adalet Komisyonu'ndan 18 saatlik görüşme sonucu geçti; Yeni Parti 'evet' oyu verdi!",
   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUjE2WXZUUjBVNHI5X3dzWXpqMDVEcUJlX0Fmd2otNmI5UlFRMWNWa3M2dUFwR0FULUllcXVOSjU5a0RKV1hSRmtrX180SS1mRklmaTU4LW5SUHZGQTFCMWhmWi0xaXRDR21aNUhGaXhlVHBwRzMzeDBLalllLWR1dDJQMXY?oc=5",
   "source": "T24",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-02T11:01:15.204387+00:00",
   "type": "news",
   "cluster_id": "c325a9f92d25d"
- },
- {
-  "title": "Öğrenci affına ve yükseköğretime ilişkin düzenlemeleri içeren kanun teklifi TBMM'de",
-  "link": "https://www.aa.com.tr/tr/gundem/ogrenci-affina-ve-yuksekogretime-iliskin-duzenlemeleri-iceren-kanun-teklifi-tbmmde/3984199",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "AK Parti milletvekillerinin teklifiyle öğrenci affı ve yükseköğretim düzenlemelerini içeren kanun teklifı TBMM'de görüşülüyor.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-02T11:01:15.204387+00:00",
-  "type": "news",
-  "cluster_id": "ceeb05571bfc3"
- },
- {
-  "title": "Restoran ve kafelerde \"menülerde içerik belirtme\" zorunluluğu başladı",
-  "link": "https://www.aa.com.tr/tr/gundem/restoran-ve-kafelerde-menulerde-icerik-belirtme-zorunlulugu-basladi/3984161",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Restoran ve kafelerde menülerde gıdaların içerik ve kalori bilgilerini belirtme zorunluluğu başladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-02T11:01:15.204387+00:00",
-  "type": "news",
-  "cluster_id": "c9715c57b33d3"
- },
- {
-  "title": "'Menülerde içerik belirtme' zorunluluğu başladı",
-  "link": "https://www.trthaber.com/haber/gundem/menulerde-icerik-belirtme-zorunlulugu-basladi-950025.html",
-  "source": "TRT Haber",
-  "summary_tr": "Restoran ve kafelerde menülerde gıdaların içerik ve kalori bilgilerini gösterme zorunluluğu uygulamaya başladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-02T11:01:15.204387+00:00",
-  "type": "news",
-  "cluster_id": "c9715c57b33d3"
  }
 ]
