@@ -1,5 +1,41 @@
 [
  {
+  "title": "Fındıkta, buğdayda, zeytin yağında alım fiyatları hep beklentilerin altında kaldı: Çiftçinin yüzü gülmedi",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/findikta-bugdayda-zeytin-yaginda-alim-fiyatlari-hep-beklentilerin-altinda-kaldi-ciftcinin-yuzu-gulmedi-2527371",
+  "source": "Cumhuriyet",
+  "summary_tr": "Fındık, buğday ve zeytinyağı alım fiyatları üreticilerin beklentisinin altında kaldı; çiftçiler olumsuz etkilendi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-08T02:01:03.986710+00:00",
+  "type": "news",
+  "cluster_id": "cac7fc1f1f595"
+ },
+ {
+  "title": "10 milyarlık borç hal esnafını vurdu",
+  "link": "https://www.sozcu.com.tr/10-milyarlik-borc-hal-esnafini-vurdu-p343410",
+  "source": "Sözcü",
+  "summary_tr": "Antalya'daki sera ve sebze üreticileri 10 milyarlık borç krizi nedeniyle konkordato sürecine girdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-08T02:01:03.986710+00:00",
+  "type": "news",
+  "cluster_id": "c0c3eebb677bd"
+ },
+ {
+  "title": "Şirket yine ödemedi, işçiler yeniden Ankara yolunda: Doruk Madencilik’te Bağımsız Maden-İş de yeniden eylem kararı aldı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/sirket-yine-odemedi-isciler-yeniden-ankara-yolunda-doruk-madencilik-te-bagimsiz-maden-is-de-yeniden-eylem-karari-aldi-2527369",
+  "source": "Cumhuriyet",
+  "summary_tr": "Doruk Madencilik işçileri ödenmemiş ücretler nedeniyle Ankara'ya yürüyüş yapmak için yeniden eylem kararı aldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-08T02:01:03.986710+00:00",
+  "type": "news",
+  "cluster_id": "c2b9d11ec77f4"
+ },
+ {
   "title": "SSÇ düzenlemesinde teklifin 6 maddesi daha kabul edildi",
   "link": "https://www.cumhuriyet.com.tr/turkiye/ssc-duzenlemesinde-teklifin-6-maddesi-daha-kabul-edildi-2527419",
   "source": "Cumhuriyet",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-02T07:01:15.057039+00:00",
   "type": "news",
   "cluster_id": "cdad03131c230"
- },
- {
-  "title": "İstanbul'da haziranda fiyatı en çok artan ürünler açıklandı",
-  "link": "https://www.sozcu.com.tr/istanbul-da-haziranda-fiyati-en-cok-artan-urunler-aciklandi-p333046",
-  "source": "Sözcü",
-  "summary_tr": "İstanbul'da haziran ayında perakende fiyatı en fazla artan ürün yüzde 46,54 oranında artış gösterdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-02T07:01:15.057039+00:00",
-  "type": "news",
-  "cluster_id": "c4d548ffe7f3f"
- },
- {
-  "title": "Otomobil ve hafif ticari araç pazarı yılın ilk yarısında yüzde 8,19 daraldı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/otomobil-ve-hafif-ticari-arac-pazari-yilin-ilk-yarisinda-yuzde-8-19-daraldi/3983899",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye'de otomobil ve hafif ticari araç satışları yılın ilk yarısında yüzde 8,19 azalarak 558 bin 179 oldu.",
-  "metric": "Araç satışları -8,19%",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-02T07:01:15.057039+00:00",
-  "type": "news",
-  "cluster_id": "c918912eb4b66"
- },
- {
-  "title": "US job growth likely cooled in June after recent string of big gains",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR2FkOHpkemV2WnBXNFUxaGJfaXRzVDQ4Wlg5QUZacG1JODNORDBaTTNYSTFxdnUtYUVRc21oeVpVRTQzTGpWbWxiNWVGV0JqT3ktM2FlOV9hYUN0RGdoMkNzaFE1Y25fU28xNmZrTVBfUDJsTzh2bFZ1dGdOSlQwV0JEMjdSQTN4M09tUFNsdUpLOTZhSkVZY2ZvcFdSSE9XZFBhTlhWc19zUVU?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD'de Haziran ayı istihdam artışının yakın dönemdeki güçlü kazançlardan sonra yavaşladığı bekleniyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-02T07:01:15.057039+00:00",
-  "type": "news",
-  "cluster_id": "c4b4adde19ffb"
  }
 ]
