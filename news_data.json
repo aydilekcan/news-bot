@@ -1,5 +1,77 @@
 [
  {
+  "title": "Süreç yasası teklifi komisyondan geçti",
+  "link": "https://www.diken.com.tr/surec-yasasi-teklifi-komisyondan-gecti/?utm_source=rss&utm_medium=rss&utm_campaign=surec-yasasi-teklifi-komisyondan-gecti",
+  "source": "Diken",
+  "summary_tr": "PKK'nın silah bırakması için hazırlanan 12 maddelik süreç yasası teklifi Meclis Adalet Komisyonu'ndan geçti.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-08T07:01:05.009719+00:00",
+  "type": "news",
+  "cluster_id": "cd88b821ca944"
+ },
+ {
+  "title": "Son Dakika... 'Çerçeve yasa' Adalet Komisyonu’nda kabul edildi!",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-cerceve-yasa-adalet-komisyonu-nda-kabul-edildi-2527430",
+  "source": "Cumhuriyet",
+  "summary_tr": "Kamuoyunda 'çerçeve yasa' olarak bilinen Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesi Kanun Teklifi TBMM Adalet Komisyonu'nda kabul edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-08T07:01:05.009719+00:00",
+  "type": "news",
+  "cluster_id": "cd891e2f3c33c"
+ },
+ {
+  "title": "Terörsüz Türkiye yasa teklifi Komisyon'dan geçti",
+  "link": "https://www.trthaber.com/haber/gundem/terorsuz-turkiye-yasa-teklifi-komisyondan-gecti-953393.html",
+  "source": "TRT Haber",
+  "summary_tr": "'Terörsüz Türkiye' süreci kapsamında Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesi Kanun Teklifi TBMM Adalet Komisyonu'ndan geçti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-08T07:01:05.009719+00:00",
+  "type": "news",
+  "cluster_id": "c21a97dcfbb51"
+ },
+ {
+  "title": "'Suça sürüklenen çocuk' düzenlemesi: Altı madde daha kabul edildi",
+  "link": "https://www.diken.com.tr/suca-suruklenen-cocuk-duzenlemesi-alti-madde-daha-kabul-edildi/?utm_source=rss&utm_medium=rss&utm_campaign=suca-suruklenen-cocuk-duzenlemesi-alti-madde-daha-kabul-edildi",
+  "source": "Diken",
+  "summary_tr": "TBMM'de 'suça sürüklenen çocuk' düzenlemesine ilişkin altı madde daha kabul edildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-08T07:01:05.009719+00:00",
+  "type": "news",
+  "cluster_id": "cf395aaa4ab39"
+ },
+ {
+  "title": "TBMM Genel Kurulu... İYİ Partili Sunat: 'Çocukların suça sürüklenmesinde 25 yıllık politikalar sorgulanmalı'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/tbmm-genel-kurulu-iyi-partili-sunat-cocuklarin-suca-suruklenmesinde-25-yillik-politikalar-sorgulanmali-2527432",
+  "source": "Cumhuriyet",
+  "summary_tr": "TBMM'de çocukların suça sürüklenmesine ilişkin kanun teklifinin ikinci bölümü görüşülüyor; İYİ Parti milletvekili 25 yıllık politikaların sorgulanması çağrısında bulundu.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-08T07:01:05.009719+00:00",
+  "type": "news",
+  "cluster_id": "c50e115baa32b"
+ },
+ {
+  "title": "Marketlerin zam şampiyonunda dev indirim hamlesi: Tam 3 bin TIR yola çıkıyor",
+  "link": "https://www.sozcu.com.tr/marketlerin-zam-sampiyonunda-dev-indirim-hamlesi-tam-3-bin-tir-yola-cikiyor-p343445",
+  "source": "Sözcü",
+  "summary_tr": "Marketlerin zam şampiyonunda indirim hamlesi; Niğde'den 3 bin TIR yola çıkıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-08T07:01:05.009719+00:00",
+  "type": "news",
+  "cluster_id": "ce219450c7ecc"
+ },
+ {
   "title": "Türkiye'nin konuştuğu 'Çerçeve Yasa' kabul edildi!",
   "link": "https://www.sozcu.com.tr/turkiye-nin-konustugu-cerceve-yasa-kabul-edildi-p343441",
   "source": "Sözcü",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-02T09:01:14.493941+00:00",
   "type": "news",
   "cluster_id": "cd8d78d561fa6"
- },
- {
-  "title": "AB'nin Google'a verdiği 4,1 milyar euroluk rekabet cezası kesinleşti",
-  "link": "https://www.trthaber.com/haber/dunya/abnin-googlea-verdigi-41-milyar-euroluk-rekabet-cezasi-kesinlesti-950012.html",
-  "source": "TRT Haber",
-  "summary_tr": "AB Adalet Divanı, Google'ın Android işletim sisteminde hakim konumunu kötüye kullandığı gerekçesiyle verilen 4,1 milyar euro cezasını kesinleştirdi.",
-  "metric": "Google'a verilen rekabet cezası 4,1 milyar euro (kesinleşti)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-02T09:01:14.493941+00:00",
-  "type": "news",
-  "cluster_id": "cab7a065a7ae6"
- },
- {
-  "title": "EU top court dismisses Google fight against record €4.1 billion EU antitrust fine",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFFsalo3LWdiNVRiVnR2aGx3VEhYRm9JZW9XMFpWMTNzWENjczNPdG5JOUNrVWJYN3lVeFV6Q1RITnI5OUN3Y3Q4Sno4UlNoNGRybmppNGxVa3hOTXZyNGc4eV9JcUUzaE45cGhGWkRjNlhYSVpvcjR2TWtjZUN4TG9ZWjFOWllFcHBrNnBYM09pS19GYzVxdTFOVGJEUFNrdDJUTHNrWGcwVElWY3dNbGVuSmZSeVB3dGZBbUlR?oc=5",
-  "source": "Reuters",
-  "summary_tr": "AB Adalet Divanı, Google'ın Android işletim sisteminde hakim konumunu kötüye kullandığı gerekçesiyle verilen 4,1 milyar euro rekabet cezasını kesinleştirdi.",
-  "metric": "Google'a verilen ceza 4,1 milyar euro (kesinleşti)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-02T09:01:14.493941+00:00",
-  "type": "news",
-  "cluster_id": "c910dd44f5a64"
- },
- {
-  "title": "Tüketiciler Birliğinden rezervasyon yaptıracak tatilcilere 'belge' uyarısı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/tuketiciler-birliginden-rezervasyon-yaptiracak-tatilcilere-belge-uyarisi-2517326",
-  "source": "Cumhuriyet",
-  "summary_tr": "Tüketiciler Birliği, tatil rezervasyonu yaparken yazılı belge alma uyarısında bulundu. 30 günü aşkın mağduriyetlerde tüketici hakları korunamabiliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-02T09:01:14.493941+00:00",
-  "type": "news",
-  "cluster_id": "c47efbc43aeb1"
- },
- {
-  "title": "Tatil rezervasyonunda \"30 gün\" tehlikesi: Bilmeyenlerin parası yanıyor",
-  "link": "https://www.sozcu.com.tr/tatil-rezervasyonundaki-30-gun-tehlikesi-bilmeyenlerin-parasi-yaniyor-p333108",
-  "source": "Sözcü",
-  "summary_tr": "Tatil rezervasyonunda 30 günlük süre zarfında iptal edilirse tüketici hakları kayabiliyor. Tüketiciler Birliği, yazın tatile çıkacaklara yazılı belge almayı tavsiye ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-02T09:01:14.493941+00:00",
-  "type": "news",
-  "cluster_id": "c4263985067f5"
- },
- {
-  "title": "Türkiye'de bir yılda 2 milyon yeni abone fiber internetle tanıştı",
-  "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turkiyede-bir-yilda-2-milyon-yeni-abone-fiber-internetle-tanisti/3984048",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye'de fiber internet abone sayısı bir yılda 2 milyon artarak 2024 ilk çeyreğinde 10,3 milyona ulaştı.",
-  "metric": "Fiber internet abone sayısı 8,3 milyon -> 10,3 milyon (+2 milyon, +%24)",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-02T09:01:14.493941+00:00",
-  "type": "news",
-  "cluster_id": "c31fa8467cebb"
- },
- {
-  "title": "Faturanızı en son ne zaman kontrol ettiniz: Su faturası soygunu çığrından çıktı!",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOUYzZHpaZ2R4dE5aU0o5TWpDVWV1YnQ2MExyNGZ3bkVubEYybFBjc041Ym9ONVhIOVNyUEszYmxiY056TzFFby1lOEtUVFc0YlNrZHVEUDVFb01SaUhrdVVLcDlZUE9SaXVwU3lVdDV4TzlfVVYwVWc2Rnl6OF83clRYRTJGQy01a3VvNlpXdE1tR2Y4cTZkWkduSG9tU2RxNG1ac0Q4WE9nZl90Y3U0RWlaVmU2S1E?oc=5",
-  "source": "soL",
-  "summary_tr": "Türkiye'de su faturalarında hatalı alımlar artıyor. Vatandaşlara su faturalarını düzenli kontrol etmeleri tavsiye ediliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-02T09:01:14.493941+00:00",
-  "type": "news",
-  "cluster_id": "cd79854454100"
  }
 ]
