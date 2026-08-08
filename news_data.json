@@ -1,5 +1,77 @@
 [
  {
+  "title": "Gözler TBMM Genel Kurulu'na çevrildi: Çerçeve yasa, milletvekillerinin sert tartışmalarına tanık olan Adalet Komisyonu'ndan 18 saatlik görüşme sonucu geçti; Yeni Parti 'evet' oyu verdi!",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUjE2WXZUUjBVNHI5X3dzWXpqMDVEcUJlX0Fmd2otNmI5UlFRMWNWa3M2dUFwR0FULUllcXVOSjU5a0RKV1hSRmtrX180SS1mRklmaTU4LW5SUHZGQTFCMWhmWi0xaXRDR21aNUhGaXhlVHBwRzMzeDBLalllLWR1dDJQMXY?oc=5",
+  "source": "T24",
+  "summary_tr": "Çerçeve yasa Adalet Komisyonu'ndan 18 saatlik tartışma sonucu geçti; Yeni Parti evet oyu vererek TBMM Genel Kurulu'na gidecek.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-08-08T09:01:10.346332+00:00",
+  "type": "news",
+  "cluster_id": "c75f350fde940"
+ },
+ {
+  "title": "Gözler Ukrayna'dayken Rusya Türkiye'nin komşusundan sessiz sedasız toprak koparıyor",
+  "link": "https://www.sozcu.com.tr/gozler-ukrayna-dayken-rusya-turkiye-nin-komsusundan-sessiz-sedasiz-toprak-kopariyor-p343483",
+  "source": "Sözcü",
+  "summary_tr": "NATO ülkeleri Rusya'nın Gürcistan'dan toprak koparmasına karşı kritik uyarı yayınladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-08T09:01:10.346332+00:00",
+  "type": "news",
+  "cluster_id": "ca1d7b6442037"
+ },
+ {
+  "title": "İran savaşı ABD'nin stratejik petrol rezervlerini 43 yılın en düşük seviyesine çekti",
+  "link": "https://www.aa.com.tr/tr/ekonomi/iran-savasi-abdnin-stratejik-petrol-rezervlerini-43-yilin-en-dusuk-seviyesine-cekti/4021673",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD'nin İran'a karşı saldırılarının ardından başlattığı stratejik petrol rezerv salımı, ülkenin enerji güvenliğini 43 yılın en düşük seviyesine çekti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-08T09:01:10.346332+00:00",
+  "type": "news",
+  "cluster_id": "ce5fb957a4d53"
+ },
+ {
+  "title": "ABD araya girdi: Ukrayna İHA'ları Karadeniz'i rahat bırakacak",
+  "link": "https://www.sozcu.com.tr/abd-araya-girdi-ukrayna-iha-lari-karadeniz-i-rahat-birakacak-p343481",
+  "source": "Sözcü",
+  "summary_tr": "ABD müdahalesiyle Ukrayna, Kazakistan ham petrolü ihracatında kritik role geçecek, Karadeniz operasyonlarını azaltacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-08T09:01:10.346332+00:00",
+  "type": "news",
+  "cluster_id": "c91e6c78c7865"
+ },
+ {
+  "title": "Altında dengeler sil baştan değişti: İşte masadaki yeni rakam",
+  "link": "https://www.sozcu.com.tr/altinda-dengeler-sil-bastan-degisti-iste-masadaki-yeni-rakam-p343479",
+  "source": "Sözcü",
+  "summary_tr": "ABD istihdam verilerinin ardından ons altın son yedi haftanın en yüksek seviyesine çıktı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-08T09:01:10.346332+00:00",
+  "type": "news",
+  "cluster_id": "c21d383f1656d"
+ },
+ {
+  "title": "Uzaya ayrılan ARGE bütçesi 107 kat arttı",
+  "link": "https://www.trthaber.com/haber/ekonomi/uzaya-ayrilan-ar-ge-butcesi-107-kat-artti-953408.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye'nin uzay teknolojisine ayrılan ARGE bütçesi 107 kat arttı.",
+  "metric": "ARGE bütçesi 107 kat artış",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-08T09:01:10.346332+00:00",
+  "type": "news",
+  "cluster_id": "cd91c7a281ec9"
+ },
+ {
   "title": "Çerçeve Yasa Adalet Komisyonu'ndan geçti: Görüşmelerde gerginlik ve Öcalan tartışması",
   "link": "https://www.bbc.com/turkce/articles/cn0nkrjlpj0o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-02T11:01:15.204387+00:00",
   "type": "news",
   "cluster_id": "c9715c57b33d3"
- },
- {
-  "title": "Dört asgari ücret bile yetmiyor: Yoksulluk sınırı haziranda 116 bin TL'yi aştı",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/dort-asgari-ucret-bile-yetmiyor-yoksulluk-siniri-haziranda-116-bin-tl-yi-asti-2517352",
-  "source": "Cumhuriyet",
-  "summary_tr": "Yoksulluk sınırı Haziranda 116 bin TL'yi aştı; dört asgari ücret bile yoksulluk sınırını karşılamıyor.",
-  "metric": "Yoksulluk sınırı Haziran 2025: 116.000+ TL",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-07-02T10:01:23.644186+00:00",
-  "type": "news",
-  "cluster_id": "ca7940162af19"
- },
- {
-  "title": "Federal Reserve Chair Warsh emphasizes political independence, signals focus on inflation",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcFNQbU5lNnZvdXkxbzN5UEdWOFVydWprSDZMMlBmTGdUaTE1TlZ1YTFXLTF6TmJGeC15UDlmemExd0J4c3VTM0c4YWdjSTVBaFN1RjBvTDlWaGx2V1BrQU9DSy1RRlVwV3Bxd2pUc3c3Y1BXanFHOWFEcy16dTBtNmlURmVBdDlLbFdLWG9fZHpOajJrVS1meFJaVXAxNmlrbV9zd1JEcjk?oc=5",
-  "source": "AP",
-  "summary_tr": "Fed Başkanı Warsh, siyasi bağımsızlığı vurguladı ve enflasyona odaklanacağını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-02T10:01:23.644186+00:00",
-  "type": "news",
-  "cluster_id": "c88daffe36c11"
- },
- {
-  "title": "İran ve ABD heyetlerinin Katar'daki ilk tur görüşmeleri sonlandı",
-  "link": "https://www.bbc.com/turkce/articles/c0ey53zl4dzo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "İran ve ABD heyetleri Katar'da kalıcı barış anlaşması için ilk tur görüşmelerini tamamladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-02T10:01:23.644186+00:00",
-  "type": "news",
-  "cluster_id": "ce88705120d20"
- },
- {
-  "title": "Ankara kulislerinden sızan yeni sistem: Köprü ve otoyollar yılda iki kez zamlanacak",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/ankara-kulislerinden-sizan-yeni-sistem-kopru-ve-otoyollar-yilda-iki-kez-zamlanacak-2517350",
-  "source": "Cumhuriyet",
-  "summary_tr": "Köprü ve otoyol ücretlerine yılda iki kez zam yapılacak sistem planlanıyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-02T10:01:23.644186+00:00",
-  "type": "news",
-  "cluster_id": "cd8051e0f9592"
- },
- {
-  "title": "İran ordusu: ABD'nin Hürmüz Boğazı'ndaki güvenlik işlerine müdahalesine kararlılıkla karşılık verilecek",
-  "link": "https://www.aa.com.tr/tr/dunya/iran-ordusu-abdnin-hurmuz-bogazindaki-guvenlik-islerine-mudahalesine-kararlilikla-karsilik-verilecek/3984129",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran Silahlı Kuvvetleri, ABD'nin Hürmüz Boğazı'ndaki güvenlik operasyonlarına kararlılıkla karşılık vereceğini duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-02T10:01:23.644186+00:00",
-  "type": "news",
-  "cluster_id": "c139f53b584d4"
- },
- {
-  "title": "İran: ABD'nin Hürmüz'deki güvenlik işlerine müdahalesine kararlılıkla karşılık verilecek",
-  "link": "https://www.trthaber.com/haber/dunya/iran-abdnin-hurmuzdeki-guvenlik-islerine-mudahalesine-kararlilikla-karsilik-verilecek-950022.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Silahlı Kuvvetleri, ABD'nin Hürmüz Boğazı'ndaki güvenlik operasyonlarına kararlılıkla karşılık vereceğini duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-02T10:01:23.644186+00:00",
-  "type": "news",
-  "cluster_id": "c139f53b584d4"
  }
 ]
