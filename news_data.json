@@ -1,5 +1,41 @@
 [
  {
+  "title": "Trump, Fed Üyesi Cook’u görevden alma girişimini yeniden başlattı",
+  "link": "https://www.sozcu.com.tr/trump-fed-uyesi-cook-u-gorevden-alma-girisimini-yeniden-baslatti-p343513",
+  "source": "Sözcü",
+  "summary_tr": "ABD Başkanı Trump, Fed Yönetim Kurulu üyesi Cook'u konut kredisi sahtekarlığı iddiaları üzerinden görevden almaya yönelik girişimi yeniden başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-08T11:00:59.985073+00:00",
+  "type": "news",
+  "cluster_id": "c91ae537829f3"
+ },
+ {
+  "title": "Kahveye, çikolataya veda edin: Ateş pahası olacak",
+  "link": "https://www.sozcu.com.tr/kahveye-cikolataya-veda-edin-ates-pahasi-olacak-p343511",
+  "source": "Sözcü",
+  "summary_tr": "El Niño doğa olayının şiddeti artarak kahve, kakao ve temel gıda maddelerinin üretimini ve fiyatlarını tehdit etmektedir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-08T11:00:59.985073+00:00",
+  "type": "news",
+  "cluster_id": "cc3bec56310db"
+ },
+ {
+  "title": "1983'ten bu yana ilk kez yaşandı! ABD'nin devasa depoları hızla eriyor",
+  "link": "https://www.sozcu.com.tr/1983-ten-bu-yana-ilk-kez-yasandi-abd-nin-devasa-depolari-hizla-eriyor-p343510",
+  "source": "Sözcü",
+  "summary_tr": "ABD'nin İran gerilimi nedeniyle piyasaya sürdüğü ham petrol rezervleri 1983'ten bu yana ilk kez hızla azalmaktadır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-08T11:00:59.985073+00:00",
+  "type": "news",
+  "cluster_id": "cb2f3363b4a95"
+ },
+ {
   "title": "Küresel piyasalarda 'istihdam' etkisi: Gözler yeni haftada enflasyona çevrildi",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/kuresel-piyasalarda-istihdam-etkisi-gozler-yeni-haftada-enflasyona-cevrildi-2527463",
   "source": "Cumhuriyet",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-02T11:01:15.204387+00:00",
   "type": "news",
   "cluster_id": "c415e0a5e0650"
- },
- {
-  "title": "TBMM'deki stajyer öğrencilere cinsel istismar davasında karar",
-  "link": "https://www.sozcu.com.tr/tbmm-deki-stajyer-ogrencilere-cinsel-istismar-davasinda-karar-p333140",
-  "source": "Sözcü",
-  "summary_tr": "TBMM'de stajyer kız öğrencilere cinsel istismar davasında sanık Durmuş Uğurlu'ya 6 yıl 16 aya hapis cezası verildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-02T11:01:15.204387+00:00",
-  "type": "news",
-  "cluster_id": "cfd31050bcee8"
- },
- {
-  "title": "Ay Yıldız Karargahı ilk resmi organizasyonuna 36. NATO Zirvesi ile ev sahipliği yapacak",
-  "link": "https://www.aa.com.tr/tr/gundem/ay-yildiz-karargahi-ilk-resmi-organizasyonuna-36-nato-zirvesi-ile-ev-sahipligi-yapacak/3984182",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Ay Yıldız Müşterek Karargahı 36. NATO Zirvesi'ne ilk resmi organizasyonunda ev sahipliği yapacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-02T11:01:15.204387+00:00",
-  "type": "news",
-  "cluster_id": "c079db68550c2"
- },
- {
-  "title": "'DOA' ile ilk günde 1.5 milyon şişe toplandı: Her şişeye 1 TL iade...",
-  "link": "https://www.cumhuriyet.com.tr/cevre/doa-ile-ilk-gunde-1-5-milyon-sise-toplandi-her-siseye-1-tl-iade-2517360",
-  "source": "Cumhuriyet",
-  "summary_tr": "Depozito Yönetim Sistemi ilk günde 1,5 milyon şişe topladı; her şişeye 1 TL iade uygulanıyor.",
-  "metric": "1. günde toplanan şişe: 1,5 milyon",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-02T11:01:15.204387+00:00",
-  "type": "news",
-  "cluster_id": "c325a9f92d25d"
  }
 ]
