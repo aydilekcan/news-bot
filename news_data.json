@@ -1,5 +1,29 @@
 [
  {
+  "title": "CHP'den ilk 'fire' geldi... Kılıçdaroğlu 'tereddütsüz destek' dedi: İlhan Kesici 'hayır' oyu vereceğini açıkladı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-den-ilk-fire-geldi-kilicdaroglu-tereddutsuz-destek-dedi-ilhan-kesici-hayir-oyu-verecegini-acikladi-2527778",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP İstanbul Milletvekili İlhan Kesici, partisinin çerçeve yasasına 'hayır' oyu vereceğini açıkladı. Kılıçdaroğlu 'tereddütsüz destek' çağrısında bulundu.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-09T19:00:54.164877+00:00",
+  "type": "news",
+  "cluster_id": "c68d7a3c84597"
+ },
+ {
+  "title": "Kılıçdaroğlu 'tereddütsüz destek' dedi, CHP’li İlhan Kesici 'hayır' oyu vereceğini açıkladı",
+  "link": "https://www.sozcu.com.tr/ilhan-kesici-aciklamasi-9-agustos-2026-p343827",
+  "source": "Sözcü",
+  "summary_tr": "CHP İstanbul vekili İlhan Kesici, atanan başkan Kılıçdaroğlu'nun önerdiği yasaya 'hayır' oyu vereceğini açıkladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-09T19:00:54.164877+00:00",
+  "type": "news",
+  "cluster_id": "c68d7a3c84597"
+ },
+ {
   "title": "İsrail ordusu ve İsrailli işgalciler Batı Şeria'da Filistinlilere yönelik saldırılarını sürdürüyor",
   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ve-israilli-isgalciler-bati-seriada-filistinlilere-yonelik-saldirilarini-surduruyor/4022607",
   "source": "Anadolu Ajansı",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-03T13:01:11.162535+00:00",
   "type": "news",
   "cluster_id": "c5d724c579bd1"
- },
- {
-  "title": "Şişe başına para dönemi resmen başladı: 2 günde 4,5 milyon ambalaj toplandı",
-  "link": "https://www.sozcu.com.tr/sise-basina-para-donemi-resmen-basladi-2-gunde-4-5-milyon-ambalaj-toplandi-p333493",
-  "source": "Sözcü",
-  "summary_tr": "1 Temmuz'da başlayan Depozito Yönetim Sistemi (DOA) uygulamasında ilk 2 günde 4,5 milyon ambalaj toplandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-03T13:01:11.162535+00:00",
-  "type": "news",
-  "cluster_id": "cdab027c37c95"
- },
- {
-  "title": "Euro Bölgesi'nde bileşik PMI 3 ayın en yüksek seviyesinde",
-  "link": "https://www.sozcu.com.tr/euro-bolgesi-nde-bilesik-pmi-3-ayin-en-yuksek-seviyesinde-p333486",
-  "source": "Sözcü",
-  "summary_tr": "Euro Bölgesi'nde haziran ayı bileşik PMI 50 puanla son 3 ayın en yüksek seviyesine ulaştı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-03T13:01:11.162535+00:00",
-  "type": "news",
-  "cluster_id": "c8a94419965f0"
  }
 ]
