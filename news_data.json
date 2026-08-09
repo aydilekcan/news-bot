@@ -1,5 +1,17 @@
 [
  {
+  "title": "German minister warns of daily 'hybrid warfare' after suspected drone attack",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU3BON1FnOUtqLWZCMnl4Y29idUQzRWhPTS1QZTVMVy12X1owTVZhSWJqR3BGcTFKNENpR1FRckdUa09RbFpRY2cyVHVyYjBhblBzQk1OUTYtVzItY25Bd1FoRzdRQUowakoxcG5xNWZEc3RYc0MxbzZicVNHbVRhQ1ZieG1hbTZabmVvbUlsZXFRd3R0aXFQSk5mU3NqaExKYnloaVl2MUNPS3VDemM5ZjRUTQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Alman bakan, şüpheli drone saldırısının ardından günlük 'hibrit savaş' tehdidinden bahsetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-09T04:00:57.189514+00:00",
+  "type": "news",
+  "cluster_id": "c8b224ec647b7"
+ },
+ {
   "title": "Emeklinin seyyanen zammında kritik adım: Dosyalar birleşti",
   "link": "https://www.sozcu.com.tr/emeklinin-seyyanen-zamminda-kritik-adim-dosyalar-birlesti-p343618",
   "source": "Sözcü",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-03T04:01:02.524119+00:00",
   "type": "news",
   "cluster_id": "c66ee827af133"
- },
- {
-  "title": "Şam'daki bir kafede meydana gelen bombalı saldırıda dokuz kişi öldü",
-  "link": "https://www.bbc.com/turkce/articles/cvgm4zlnl6jo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Şam'ın merkezindeki bir kafede meydana gelen bombalı saldırıda dokuz kişi öldü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-03T04:01:02.524119+00:00",
-  "type": "news",
-  "cluster_id": "cae894429a815"
  }
 ]
