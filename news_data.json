@@ -1,5 +1,53 @@
 [
  {
+  "title": "Çerçeve yasa yarın Genel Kurul’da görüşülecek: 592 milletvekilinden 410’u ‘Evet’e hazır!",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/cerceve-yasa-yarin-genel-kurul-da-gorusulecek-592-milletvekilinden-410-u-evet-e-hazir-2527756",
+  "source": "Cumhuriyet",
+  "summary_tr": "Çerçeve yasa TBMM Genel Kurulu'nda yarın görüşülecek; 592 milletvekili içinden 410'u 'Evet'e hazır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-09T16:01:02.533767+00:00",
+  "type": "news",
+  "cluster_id": "c93945c2b56e3"
+ },
+ {
+  "title": "52 orman yangınıyla ilgili soruşturma: 9 şüpheli tutuklandı",
+  "link": "https://www.sozcu.com.tr/52-orman-yanginiyla-ilgili-sorusturma-9-supheli-tutuklandi-p343801",
+  "source": "Sözcü",
+  "summary_tr": "Adalet Bakanı Akın Gürlek, Haziran başından bu yana meydana gelen 52 orman yangınına ilişkin soruşturmalarda 9 şüpheliyin tutuklandığını açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-09T16:01:02.533767+00:00",
+  "type": "news",
+  "cluster_id": "c71003c9b91ed"
+ },
+ {
+  "title": "Balıkesir'deki depremlerin ardından 305 konut ve 1 iş yeri, yarın hak sahiplerine teslim edilecek",
+  "link": "https://www.aa.com.tr/tr/gundem/balikesirdeki-depremlerin-ardindan-305-konut-ve-1-is-yeri-yarin-hak-sahiplerine-teslim-edilecek/4022591",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Balıkesir depremleri sonrasında yapımı tamamlanan 305 konut ve 1 iş yeri hak sahiplerine teslim edilecek.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-09T16:01:02.533767+00:00",
+  "type": "news",
+  "cluster_id": "c76ba00f67401"
+ },
+ {
+  "title": "Bakan Gürlek, orman yangını soruşturmalarında 9 şüphelinin tutuklandığını açıkladı",
+  "link": "https://www.aa.com.tr/tr/gundem/bakan-gurlek-orman-yangini-sorusturmalarinda-9-suphelinin-tutuklandigini-acikladi/4022569",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Adalet Bakanı Akın Gürlek, Haziran'dan bu yana 52 orman yangınına ilişkin soruşturmalarda 34 şüphelinin sorguya çekildiğini, 9'unun tutuklandığını açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-09T16:01:02.533767+00:00",
+  "type": "news",
+  "cluster_id": "c76d868c2c3ac"
+ },
+ {
   "title": "Ukraine, Russia accuse each other of lethal attacks, Odesa port damaged",
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYkNMLVhYYm1zdG9veTFxQlIxY3IzNHpyOFZGMzAzWVZVWU9xU0xTUzdGMUplZmlzZTlPbEZCV3Fsb3pPa1J2MWhuU0Vhc0xoSDhsZXpLWUh6ektRLUItdUVUd2g4Q1lTSmtLZWlNd1p4ZnhhYUxlRFdCVjZlOUtQaU5qX1U4Ql9DRUtvNWZOVnRJMjNOOHJMSmFkQzNqTThMY2ZFamxQV0dqemsyRlhmaGFHZHgzLXd0b081dDZKRVRfTE9PeVhj?oc=5",
   "source": "Reuters",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-03T10:01:16.908606+00:00",
   "type": "news",
   "cluster_id": "c5a8a7d989556"
- },
- {
-  "title": "ABD'nin Türkiye'ye uyguladığı CAATSA yaptırımları nedir?",
-  "link": "https://www.bbc.com/turkce/articles/cwynrxnnl14o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Dışişleri Bakanı Hakan Fidan, ABD'nin CAATSA savunma sanayi yaptırımlarının kaldırılması konusunda liderler arasında güçlü bir beklenti olduğunu belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-03T10:01:16.908606+00:00",
-  "type": "news",
-  "cluster_id": "c43d24b6072de"
- },
- {
-  "title": "Çifte zam aldı, geliri yarım milyonu aştı: İşte AKP'li Cumhurbaşkanı Erdoğan'ın yeni maaşı...",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/cifte-zam-aldi-geliri-yarim-milyonu-asti-iste-akp-li-cumhurbaskani-erdogan-in-yeni-maasi-2517670",
-  "source": "Cumhuriyet",
-  "summary_tr": "Cumhurbaşkanı Erdoğan memur maaş katsayısındaki artış nedeniyle çifte zam alarak aylık geliri 500 bin lirayı aştı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-03T10:01:16.908606+00:00",
-  "type": "news",
-  "cluster_id": "cdabf1c7ef550"
- },
- {
-  "title": "En düşük emekli maaşı teklifi Meclis'te: Yeni taban aylık kaç lira olacak?",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/en-dusuk-emekli-maasi-teklifi-meclis-te-yeni-taban-aylik-kac-lira-olacak-2517666",
-  "source": "Cumhuriyet",
-  "summary_tr": "AKP, en düşük emekli maaşının yükseltilmesine ilişkin teklifini TBMM'ye sundu; taban aylık 23 bin 552 liraya çıkacak.",
-  "metric": "En düşük emekli maaşı -> 23.552 TL",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-03T10:01:16.908606+00:00",
-  "type": "news",
-  "cluster_id": "c6414cc4f6db2"
- },
- {
-  "title": "Otomotiv endüstrisi haziranda 3,8 milyar dolarlık ihracatla zirvede",
-  "link": "https://www.sozcu.com.tr/otomotiv-endustrisi-haziranda-3-8-milyar-dolarlik-ihracatla-zirvede-p333429",
-  "source": "Sözcü",
-  "summary_tr": "Otomotiv endüstrisi haziran ayında 3,8 milyar dolarlık ihracatla en fazla dışa satım yapan sektör oldu.",
-  "metric": "Otomotiv ihracatı (haziran) 3,8 milyar dolar",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-03T10:01:16.908606+00:00",
-  "type": "news",
-  "cluster_id": "cc55b4990e2bd"
  }
 ]
