@@ -1,5 +1,53 @@
 [
  {
+  "title": "Şehit aileleri ve gaziler düzenlemesi Meclis'ten geçti",
+  "link": "https://www.diken.com.tr/sehit-aileleri-ve-gaziler-duzenlemesi-meclisten-gecti/?utm_source=rss&utm_medium=rss&utm_campaign=sehit-aileleri-ve-gaziler-duzenlemesi-meclisten-gecti",
+  "source": "Diken",
+  "summary_tr": "TBMM, şehit aileleri ve gazilerin haklarına ilişkin düzenlemeyi kabul etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-09T22:00:58.838854+00:00",
+  "type": "news",
+  "cluster_id": "cc7b1d6231937"
+ },
+ {
+  "title": "Bakan Göktaş: Ülkemize, milletimize, şehit ailelerimize ve kahraman gazilerimize hayırlı olsun",
+  "link": "https://www.trthaber.com/haber/gundem/bakan-goktas-ulkemize-milletimize-sehit-ailelerimize-ve-kahraman-gazilerimize-hayirli-olsun-953498.html",
+  "source": "TRT Haber",
+  "summary_tr": "Bakan Göktaş, şehit aileleri ve gazilerin haklarına yönelik kanun teklifinin TBMM'den geçtiğini duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-09T22:00:58.838854+00:00",
+  "type": "news",
+  "cluster_id": "c6a1b283aebe6"
+ },
+ {
+  "title": "Mansur Yavaş: Kürt meselesinin çözümü seçim kazanmaya endekslenemez",
+  "link": "https://yetkinreport.com/2026/08/10/mansur-yavas-kurt-meselesinin-cozumu-secim-kazanmaya-endekslenemez/",
+  "source": "YetkinReport",
+  "summary_tr": "Ankara Büyükşehir Belediye Başkanı Mansur Yavaş, Terörsüz Türkiye çerçeve yasasının seçim kazanmaya endekslenmeyeceğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-09T22:00:58.838854+00:00",
+  "type": "news",
+  "cluster_id": "ccd68874f72c8"
+ },
+ {
+  "title": "'Çerçeve Yasa'ya bir ret daha: YENİ Partili Arslan 'hayır' oyu vereceğini açıkladı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/cerceve-yasa-ya-bir-ret-daha-yeni-partili-arslan-hayir-oyu-verecegini-acikladi-2527829",
+  "source": "Cumhuriyet",
+  "summary_tr": "YENİ Parti Eskişehir Milletvekili İbrahim Arslan, çerçeve yasaya 'hayır' oyu vereceğini açıkladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-09T22:00:58.838854+00:00",
+  "type": "news",
+  "cluster_id": "c5f5280e04c22"
+ },
+ {
   "title": "Netanyahu says Trump's new Gaza plan is unacceptable",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMm5hSE0yMGxRN0hITzZOLXp3R2tCX1dRc1IxaWp3MmZ5Uzc5T20yYmQxVlQ2ZDUzdkppNUJRNzJQcDNwaDh4aGd2cmI1S1lKY2lKRzNBUnJXVVpfOVNwa1JDM2JLenNkMi1YQ2h4MFJ3Yk1HM0FBY2RZZTVnbXd5QmhxU3ZKWTNQZDNEWmdEYVVBUzV3b2tZMEx5TDVTOER0SVZsemE4Z1F2VFJ0Ym9qX3Zn?oc=5",
   "source": "Reuters",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-03T15:01:11.138579+00:00",
   "type": "news",
   "cluster_id": "c659c1b74d11c"
- },
- {
-  "title": "Optikler internetten reçeteli kontakt lens satabilecek",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/optikler-internetten-receteli-kontakt-lens-satabilecek-2517762",
-  "source": "Cumhuriyet",
-  "summary_tr": "Sağlık Bakanlığı, optikistlerin internetten reçeteli kontakt lens satmasına izin veren yönetmelik değişikliğini yayınladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-03T15:01:11.138579+00:00",
-  "type": "news",
-  "cluster_id": "c075af5aca4dd"
- },
- {
-  "title": "Sağlık Bakanı Memişoğlu: Maalesef toplumumuzun yüzde 65'i kilolu",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/saglik-bakani-memisoglu-maalesef-toplumumuzun-yuzde-65-i-kilolu-2517759",
-  "source": "Cumhuriyet",
-  "summary_tr": "Sağlık Bakanı Memişoğlu, toplumun %65'inin kilolu olduğunu belirterek sağlık sorunlarına dikkat çekti.",
-  "metric": "Kilolu nüfus oranı: %65",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-03T15:01:11.138579+00:00",
-  "type": "news",
-  "cluster_id": "c2cef9b02afa9"
- },
- {
-  "title": "Bakan Yumaklı: Barajlarımız doldu, topraklarımız suya kavuştu",
-  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-barajlarimiz-doldu-topraklarimiz-suya-kavustu/3985508",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Bakan Yumaklı, son 66 yılın en yağışlı sezonunun yaşandığını ve 140 milyon ton bitkisel üretim beklentisinin sağlandığını açıkladı.",
-  "metric": "Beklenen bitkisel üretim: 140 milyon ton",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-03T15:01:11.138579+00:00",
-  "type": "news",
-  "cluster_id": "cf52269501107"
- },
- {
-  "title": "Bakan Şimşek: 2026 yılında tarım sektörüne 938 milyar liralık kaynak söz konusu",
-  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-2026-yilinda-tarim-sektorune-938-milyar-liralik-kaynak-soz-konusu/3985504",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Hazine ve Maliye Bakanı Şimşek, 2026 yılında tarım sektörüne 938 milyar liralık kaynak ayrılacağını duyurdu.",
-  "metric": "Tarım bütçesi (2026): 938 milyar lira",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-03T15:01:11.138579+00:00",
-  "type": "news",
-  "cluster_id": "c9d8cde0f49a1"
  }
 ]
