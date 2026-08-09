@@ -1,5 +1,65 @@
 [
  {
+  "title": "İsrail, Gazze'deki ateşkesin ikinci aşama planını reddetti",
+  "link": "https://www.diken.com.tr/israil-gazzedeki-ateskesin-ikinci-asama-planini-reddetti/?utm_source=rss&utm_medium=rss&utm_campaign=israil-gazzedeki-ateskesin-ikinci-asama-planini-reddetti",
+  "source": "Diken",
+  "summary_tr": "İsrail Başbakanı Netanyahu, Gazze'deki ateşkesin ikinci aşama planını reddetti ve Hamas'ın silahsızlandırılması koşulunu öne sürdü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-09T14:01:04.942011+00:00",
+  "type": "news",
+  "cluster_id": "cb8e626049473"
+ },
+ {
+  "title": "Soykırımcı Netanyahu, Gazze'deki ateşkesin ikinci aşaması planını reddettiklerini duyurdu",
+  "link": "https://www.trthaber.com/haber/dunya/soykirimci-netanyahu-gazzedeki-ateskesin-ikinci-asamasi-planini-reddettiklerini-duyurdu-953475.html",
+  "source": "TRT Haber",
+  "summary_tr": "İsrail Başbakanı Netanyahu, Gazze'deki ateşkesin ikinci aşama planını reddettiğini, Hamas'ın silahsızlandırılması koşulunu öne sürdüğünü açıkladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-08-09T14:01:04.942011+00:00",
+  "type": "news",
+  "cluster_id": "c859396742216"
+ },
+ {
+  "title": "Netanyahu'dan Gazze'deki ateşkesin ikinci aşamasına ret: 'Hamas silahsızlandırılmadan çekilmeyeceğiz'",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeVRsNjdmazRCU25ESWk5YnFhQW5SN0ZjNk5KV2tPc05mMElia3ZxbFIxODd0Zm1UQ0E0TGpscDNiZ1VwQ2xLLTBGWEN2MnZKeExZVXFDcHB5NmpqdkhSQ3BDaEZ6bFUtVXNUTjZxVUlMOUxhVVRZU29IZTN0Q2lfLUt4RGl0ZVFuWFRvUEhhd3FhU0Y3b3o5R3hWQ0RoQmdSVTdJOFRoUHE4Tl9ncC1QQmNR?oc=5",
+  "source": "soL",
+  "summary_tr": "Netanyahu, Gazze'deki ateşkesin ikinci aşamasına karşı çıktığını, Hamas'ın silahsızlandırılmadan çekilmeyeceklerini açıkladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-08-09T14:01:04.942011+00:00",
+  "type": "news",
+  "cluster_id": "cbe60d561d646"
+ },
+ {
+  "title": "Suriye, topraklarındaki Rus üsleri için Moskova ile anlaşmaya vardığını açıkladı",
+  "link": "https://www.aa.com.tr/tr/dunya/suriye-topraklarindaki-rus-usleri-icin-moskova-ile-anlasmaya-vardigini-acikladi/4022527",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Suriye ve Rusya, Hmeymim Havalimanı ve Tartus Limanı'ndaki Rus üslerinin geleceği hakkında anlaşmaya vardı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-09T14:01:04.942011+00:00",
+  "type": "news",
+  "cluster_id": "c7453f585aa9c"
+ },
+ {
+  "title": "Syria and Russia reach deal on future of Tartous and Hmeimim bases after 18 months of talks",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTHltYW1BZ2tteEtoRWZwSUVpMy1vMVZTTF9HUzJYcUxZeGN0TGdPTzJ6dzB4clFRTWNDRkR1ZUVRT1BmbnNiZm9tQkZRdFZHSmVydXdDOHVnZERHVElJZm0zSk1HdG51LVZCRjVpakpfWDZiWXh0X0lmN0dQangwM01QNU5DY1BmNmdCR3FOX0FYQjdCNF9teE5zc0tTOXA3WWQyYUswOS1oYzVKUzdnNFdGdU5KREFyUnlyWVZSZld6c1NPa3Q4?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Suriye ve Rusya, 18 aylık görüşmelerin ardından Tartous ve Hmeimim üsleri hakkında anlaşmaya vardı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-09T14:01:04.942011+00:00",
+  "type": "news",
+  "cluster_id": "cf0dd74619135"
+ },
+ {
   "title": "Netanyahu, Trump'ın Gazze planını reddettiklerini açıkladı",
   "link": "https://www.bbc.com/turkce/articles/c77ge34m7j5o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-03T09:01:12.570908+00:00",
   "type": "news",
   "cluster_id": "cd42a8d7e58f9"
- },
- {
-  "title": "Memur maaşları kuruşu kuruşuna belli oldu: İşte meslek meslek Temmuz 2026 zamlı maaş listesi",
-  "link": "https://www.sozcu.com.tr/memur-maaslari-kurusu-kurusuna-belli-oldu-iste-meslek-meslek-temmuz-2026-zamli-maas-listesi-p333417",
-  "source": "Sözcü",
-  "summary_tr": "TÜİK haziran enflasyon verilerine göre milyonlarca memur ve emeklinin temmuz 2026 zamlı maaşları belirlendi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-03T09:01:12.570908+00:00",
-  "type": "news",
-  "cluster_id": "c63fb30d234ce"
- },
- {
-  "title": "Bakan Şimşek: Dezenflasyon süreci yeniden başladı",
-  "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-dezenflasyon-sureci-yeniden-basladi-950135.html",
-  "source": "TRT Haber",
-  "summary_tr": "Hazine ve Maliye Bakanı Mehmet Şimşek, küresel enerji fiyatları nedeniyle kesintiye uğrayan dezenflasyon sürecinin yeniden başladığını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-03T09:01:12.570908+00:00",
-  "type": "news",
-  "cluster_id": "cb3ddae5f1126"
- },
- {
-  "title": "Ukrainian rescuers clear rubble as Kyiv mourns 30 killed in Russian attack",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONU1hNlBDTURsc1NhcHNqODU1dTRDdnVLOUladWNPbTBGTUVVaDlzbFRVUU94SVVuM2w2c3E3Zjk2b0hUSVEtZk5tSkxoVzRRWDNsWjd0NmE0V2J6NnJGWXhoYzlETDdfT3VGaGtLaWhfUlFPc3JPYkM5djFBM3ZuTFZCYXVpcUpKcUt2M1ZueEpEWm9SYWNFdzE0Z2FCek1Qek9JM250M1hUUkNQTHVIUksybURObjJT?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Rus saldırısında Kyiv'de 30 kişi öldü; kurtarma ekipleri enkazı temizlemeye devam ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-03T09:01:12.570908+00:00",
-  "type": "news",
-  "cluster_id": "c5ff90e11c455"
- },
- {
-  "title": "Petrol devi ülkede benzin bitti!",
-  "link": "https://www.sozcu.com.tr/petrol-devi-ulkede-benzin-bitti-p333418",
-  "source": "Sözcü",
-  "summary_tr": "Rusya'nın Novorossiysk şehrindeki akaryakıt istasyonlarında benzin stoklarının tükenmesi nedeniyle satışlar durduruldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-03T09:01:12.570908+00:00",
-  "type": "news",
-  "cluster_id": "c3b5360dd5281"
- },
- {
-  "title": "Emekliler açıklanan zamma öfkeli",
-  "link": "https://www.sozcu.com.tr/emekliler-aciklanan-zamma-ofkeli-p333412",
-  "source": "Sözcü",
-  "summary_tr": "TÜİK'in açıkladığı haziran enflasyonuyla SSK, Bağ-Kur ve memur emeklilerinin maaş zammı belli oldu; emekliler zamma öfkeli.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-03T09:01:12.570908+00:00",
-  "type": "news",
-  "cluster_id": "cc4cb5754f1e8"
  }
 ]
