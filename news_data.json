@@ -1,5 +1,53 @@
 [
  {
+  "title": "Netanyahu says Trump's new Gaza plan is unacceptable",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMm5hSE0yMGxRN0hITzZOLXp3R2tCX1dRc1IxaWp3MmZ5Uzc5T20yYmQxVlQ2ZDUzdkppNUJRNzJQcDNwaDh4aGd2cmI1S1lKY2lKRzNBUnJXVVpfOVNwa1JDM2JLenNkMi1YQ2h4MFJ3Yk1HM0FBY2RZZTVnbXd5QmhxU3ZKWTNQZDNEWmdEYVVBUzV3b2tZMEx5TDVTOER0SVZsemE4Z1F2VFJ0Ym9qX3Zn?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Netanyahu, Trump'ın yeni Gazze planını kabul edilemez olarak değerlendirmiştir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-09T21:01:00.364388+00:00",
+  "type": "news",
+  "cluster_id": "cd407e7d59317"
+ },
+ {
+  "title": "İsrail basını: \"Bölgesel savunma birimleri\", ordu içinde bağımsız bir güç gibi hareket ediyor",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-basini-bolgesel-savunma-birimleri-ordu-icinde-bagimsiz-bir-guc-gibi-hareket-ediyor/4022664",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusundaki bölgesel savunma birlikleri, ordu içinde bağımsız bir güç gibi hareket ederek yapısal problemler yaratıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-09T21:01:00.364388+00:00",
+  "type": "news",
+  "cluster_id": "ce2662bb8f608"
+ },
+ {
+  "title": "Israel military closes Palestinian Christian village Taybeh to halt settler attacks",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcWhzbGhpYTNuV1JTcU8wSEotZ01CQ3lJb1pteWZiUzRpVVdmdmhUYldVSlV5cXNnR0pKQTFZVmFZeG1VUjZJWkN5Tm5Vak9FTmZFd1RncERPZnJBQmQwdllYaktkQ1VKeWQ5Qi1WaUdSdVlwbGRGaFM0NUJrNmt4MExPczhrVHdSZTVBQlJ4OUN5WVpvSi1XMDE0N0hub292RmlkOUJ1eG9xbkh2U0RXdEpraUF5VU01bXY2NFVqUVFYdjRLT0JWaVN3a0FjY0E?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İsrail ordusu, yerleşimci saldırılarını durdurmak için Filistinli Hristiyan köyü Taybeh'i kapatmıştır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-09T21:01:00.364388+00:00",
+  "type": "news",
+  "cluster_id": "ca9f7298f32ad"
+ },
+ {
+  "title": "CHP'de 'çerçeve yasa' çatlağı: Kesici 'hayır' diyeceğini açıkladı",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdWs0R1NqQ01oSXdHWlhNb3JZejFWU1JXeWlqVUNzUTdaMHNvdE5veldBUFg0d1NLY1p1WXdGbjlrOWlYVjRpTDlLSGdYYnNJUzEzdnUyMkx5VENUMGtPUjBKM1F5Vkx4VjRDNUliQjd2NW11NzYwUUlMak84ODlEbFBEcFFPcVVKNndMUFNMaHozTzY5SW1nSnU4NUxxdw?oc=5",
+  "source": "soL",
+  "summary_tr": "CHP'de çerçeve yasası konusunda iç ayrışım: Kesici 'hayır' diyeceğini açıkladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-09T21:01:00.364388+00:00",
+  "type": "news",
+  "cluster_id": "c5d1c18dbda20"
+ },
+ {
   "title": "Çerçeve yasa öncesi… Özgür Özel, MYK’yi toplayacak",
   "link": "https://www.cumhuriyet.com.tr/siyaset/cerceve-yasa-oncesi-ozgur-ozel-myk-yi-toplayacak-2527805",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-03T15:01:11.138579+00:00",
   "type": "news",
   "cluster_id": "c9d8cde0f49a1"
- },
- {
-  "title": "Türkiye fındık ihracatından 10 ayda 2,2 milyar doların üzerinde gelir sağladı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-findik-ihracatindan-10-ayda-2-2-milyar-dolarin-uzerinde-gelir-sagladi/3985502",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye, 2025-2026 fındık ihracat sezonunun 10 ayında 2,2 milyar doların üzerinde gelir elde etti.",
-  "metric": "Fındık ihracat geliri (10 ay): 2,2+ milyar dolar",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-03T15:01:11.138579+00:00",
-  "type": "news",
-  "cluster_id": "ca1147aca6aee"
- },
- {
-  "title": "Emeklilerden 'zam' tepkisi: Sadaka düzeyindeki zamları kabul etmiyoruz",
-  "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/emeklilerden-zam-tepkisi-sadaka-duzeyindeki-zamlari-kabul-etmiyoruz-2517740",
-  "source": "Cumhuriyet",
-  "summary_tr": "Emekliler Temmuz ayı maaş zamlarına tepki gösteriyor; sendika 'sadaka düzeyinde' olduğunu bildiriyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-03T14:01:07.739267+00:00",
-  "type": "news",
-  "cluster_id": "c520304d8dfcf"
- },
- {
-  "title": "Savunma ve havacılık sanayi ihracatta 11 milyar dolar eşiğini aştı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/savunma-ve-havacilik-sanayi-ihracatta-11-milyar-dolar-esigini-asti-/3985439",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Savunma ve havacılık sanayi ihracatı 11 milyar dolar eşiğini aştı.",
-  "metric": "Savunma ve havacılık ihracatı 11 milyar dolar eşiğini aştı",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-03T14:01:07.739267+00:00",
-  "type": "news",
-  "cluster_id": "c94b01a49c2b2"
- },
- {
-  "title": "Enflasyon belli oldu: Memur ve emekliler ne zam alacak?",
-  "link": "https://www.dw.com/tr/enflasyon-belli-oldu-memur-ve-emekliler-ne-zam-alacak/a-77821755?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Haziran enflasyonu verilerine göre memur ve emeklilerin Temmuz zam oranları kesinleşti; yüksek hayat pahalılığı karşısında alım gücü etkisi analiz ediliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-03T13:01:11.162535+00:00",
-  "type": "news",
-  "cluster_id": "c2767cf321ab8"
  }
 ]
