@@ -1,5 +1,17 @@
 [
  {
+  "title": "70 yaşında hayat mücadelesi",
+  "link": "https://www.sozcu.com.tr/70-yasinda-hayat-mucadelesi-p343613",
+  "source": "Sözcü",
+  "summary_tr": "Ekonomik kriz nedeniyle 70 yaşındaki emekli vatandaş geçimini sağlamak için çalışmak zorunda kalıyor; emekli maaşları yaşam maliyetine yetersiz geliyorum.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-09T00:01:03.964726+00:00",
+  "type": "news",
+  "cluster_id": "c1953cdffb12b"
+ },
+ {
   "title": "Tepkilere rağmen… YENİ Parti’den ‘Çerçeve Yasa’ için karar: Genel Kurul’da ‘evet’ diyecek",
   "link": "https://www.cumhuriyet.com.tr/turkiye/tepkilere-ragmen-yeni-parti-den-cerceve-yasa-icin-karar-genel-kurul-da-evet-diyecek-2527605",
   "source": "Cumhuriyet",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-03T02:01:01.574637+00:00",
   "type": "news",
   "cluster_id": "cee2370b20e85"
- },
- {
-  "title": "Rusyada bazÄ± rafinerilere dÃ¼ÅŸÃ¼k standartlÄ± yakÄ±t Ã¼retme izni verildi",
-  "link": "https://www.trthaber.com/haber/ekonomi/rusyada-bazi-rafinerilere-dusuk-standartli-yakit-uretme-izni-verildi-950098.html",
-  "source": "TRT Haber",
-  "summary_tr": "Rusya, akaryakıt sorunu nedeniyle bazı petrol rafinerilerine yıl sonuna kadar daha düşük standartlı yakıt üretme izni verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-03T02:01:01.574637+00:00",
-  "type": "news",
-  "cluster_id": "ced126cc04b30"
  }
 ]
