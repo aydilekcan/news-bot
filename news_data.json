@@ -1,5 +1,65 @@
 [
  {
+  "title": "Netanyahu, Trump'ın Gazze planını reddettiklerini açıkladı",
+  "link": "https://www.bbc.com/turkce/articles/c77ge34m7j5o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Netanyahu, Trump'ın Gazze barış planını reddetti. İsrail Başbakanı planın Hamas'ı silahsızlandırmadığını ileri sürdü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-08-09T13:01:03.128848+00:00",
+  "type": "news",
+  "cluster_id": "c1e28e2b87000"
+ },
+ {
+  "title": "İran’da kritik görüşme: Hamaney ile Pezeşkiyan bir araya geldi",
+  "link": "https://www.cumhuriyet.com.tr/dunya/iran-da-kritik-gorusme-hamaney-ile-pezeskiyan-bir-araya-geldi-2527704",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran'da dini lider Hamaney ile Cumhurbaşkanı Pezeşkiyan görüştü; görüşmede halkın geçim sorunu masaya yatırıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-09T13:01:03.128848+00:00",
+  "type": "news",
+  "cluster_id": "c7562b7821eba"
+ },
+ {
+  "title": "YENİ Parti Milletvekili Süreyya Öneş Derici, çerçeve yasaya 'hayır' oyu vereceğini açıkladı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/yeni-parti-milletvekili-sureyya-ones-derici-cerceve-yasaya-hayir-oyu-verecegini-acikladi-2527706",
+  "source": "Cumhuriyet",
+  "summary_tr": "YENİ Parti Muğla Milletvekili Süreyya Öneş Derici, çerçeve yasaya karşı oy vereceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-09T13:01:03.128848+00:00",
+  "type": "news",
+  "cluster_id": "c29a5b43606d0"
+ },
+ {
+  "title": "Fatih Erbakan'dan 'MEKKE Güvenlik Anlaşması' açıklaması",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/fatih-erbakan-dan-mekke-guvenlik-anlasmasi-aciklamasi-2527702",
+  "source": "Cumhuriyet",
+  "summary_tr": "Yeniden Refah Partisi Genel Başkanı Fatih Erbakan, Erdoğan-Trump yakınlaşmasına ilişkin 'MEKKE Güvenlik Anlaşması' açıklaması yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-09T13:01:03.128848+00:00",
+  "type": "news",
+  "cluster_id": "c15de07075725"
+ },
+ {
+  "title": "Selahattin Demirtaş'tan çerçeve yasa mesajı",
+  "link": "https://www.sozcu.com.tr/selahattin-demirtas-tan-cerceve-yasa-mesaji-p343769",
+  "source": "Sözcü",
+  "summary_tr": "Selahattin Demirtaş, çerçeve yasa görüşmeleri sırasında Genel Kurul'a mesaj gönderdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-09T13:01:03.128848+00:00",
+  "type": "news",
+  "cluster_id": "c3ff2ab76d217"
+ },
+ {
   "title": "Netanyahu, Barış Kurulu'nun açıkladığı Gazze’deki ateşkesin ikinci aşaması planını reddettiklerini açıkladı",
   "link": "https://www.aa.com.tr/tr/dunya/netanyahu-baris-kurulunun-acikladigi-gazze-deki-ateskesin-ikinci-asamasi-planini-reddettiklerini-acikladi/4022438",
   "source": "Anadolu Ajansı",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-03T09:01:12.570908+00:00",
   "type": "news",
   "cluster_id": "cc4cb5754f1e8"
- },
- {
-  "title": "Ticaret Bakanlığı haziran ayı veri bültenini yayımladı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-haziran-ayi-veri-bultenini-yayimladi/3985078",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Ticaret Bakanlığı haziran ayı veri bülteninde ihracatın geçen yıla göre %21,9 arttığını, 24 milyar 940 milyon dolara ulaştığını açıkladı.",
-  "metric": "İhracat +%21,9",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-03T09:01:12.570908+00:00",
-  "type": "news",
-  "cluster_id": "c12576f50a662"
- },
- {
-  "title": "Bakanlık net rakamları yayımladı: Hangi sendikanın kaç üyesi var?",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/bakanlik-net-rakamlari-yayimladi-hangi-sendikanin-kac-uyesi-var-2517651",
-  "source": "Cumhuriyet",
-  "summary_tr": "Çalışma Bakanlığı temmuz ayı istatistiklerine göre kamu görevlilerindeki sendikalaşma oranını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-03T09:01:12.570908+00:00",
-  "type": "news",
-  "cluster_id": "cc7c87aae95d8"
- },
- {
-  "title": "Haziranın zam şampiyonu belli oldu",
-  "link": "https://www.sozcu.com.tr/haziranin-zam-sampiyonu-belli-oldu-p333411",
-  "source": "Sözcü",
-  "summary_tr": "Haziranda tüketici fiyatları bazında en yüksek aylık artış %54,26 ile diğer taze meyvelerde gerçekleşti.",
-  "metric": "Taze meyveler %54,26 (+%54,26)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-03T09:01:12.570908+00:00",
-  "type": "news",
-  "cluster_id": "cb3c788313209"
- },
- {
-  "title": "Rusyanın Novorossiysk şehrinde benzin bitti",
-  "link": "https://www.trthaber.com/haber/dunya/rusyanin-novorossiysk-sehrinde-benzin-bitti-950140.html",
-  "source": "TRT Haber",
-  "summary_tr": "Rusya'nın Novorossiysk şehrindeki akaryakıt istasyonlarında benzinin tükenmesi nedeniyle yakıt satışı durduruldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-03T09:01:12.570908+00:00",
-  "type": "news",
-  "cluster_id": "c730fa3fad269"
- },
- {
-  "title": "EU trade with US hits record high despite tariff tensions, study shows",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcmRSZ1pJNUhacVlzZWFEeGF6aDNXUk5tTkc5cWNsb2dnWkZFUnYxWlpELXJlX0lzUEVvV0JpRVdEQVZwN3FoNWJieUNQa2pxZWthMEZFUXRwbm1GYXdqN29hTlN2RnAtSzJHc3VnUEx1aExRcG5MSDdzSzk1RnZOendzdk9RQ3NRT1dtY1FNMmIzNnk0WnFqYmp2VVNkZWI4M1IwQ1V6Zmd3S2ZWWmc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Tarife gerilimlerine rağmen AB-ABD ticareti rekor seviyeye ulaştı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-03T09:01:12.570908+00:00",
-  "type": "news",
-  "cluster_id": "cb314d1689113"
  }
 ]
