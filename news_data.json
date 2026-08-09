@@ -1,5 +1,53 @@
 [
  {
+  "title": "Komşu ülkenin başbakanı orduya 'savaşa hazır olun' talimatı verdi",
+  "link": "https://www.sozcu.com.tr/komsu-ulkenin-basbakani-orduya-savasa-hazir-olun-talimati-verdi-p343669",
+  "source": "Sözcü",
+  "summary_tr": "Irak Başbakanı Ali ez-Zeydi, Bağdat'taki gerilim sonrası ülke genelindeki güvenlik güçlerine savaşa hazır olma talimatı verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-09T07:01:04.891787+00:00",
+  "type": "news",
+  "cluster_id": "cd23b0d027607"
+ },
+ {
+  "title": "Maliyeti 9,4 milyar TL'ye fırladı: 5 yıldır bitmeyen havalimanı!",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/maliyeti-9-4-milyar-tl-ye-firladi-5-yildir-bitmeyen-havalimani-2527634",
+  "source": "Cumhuriyet",
+  "summary_tr": "Bayburt-Gümüşhane Havalimanı maliyeti 9,4 milyar TL'ye çıktı; 2018'de 2021'de tamamlanacağı söylenmişti.",
+  "metric": "Maliyeti 9,4 milyar TL (tahmin edilen bütçe bilgisi haberde belirtilmemiş)",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-09T07:01:04.891787+00:00",
+  "type": "news",
+  "cluster_id": "cba541d54fb35"
+ },
+ {
+  "title": "'Tebligat bana ulaşmadı' dedi... Mahkemeden milyonlarca kiracıyı ilgilendiren karar",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/tebligat-bana-ulasmadi-dedi-mahkemeden-milyonlarca-kiraciyi-ilgilendiren-karar-2527627",
+  "source": "Cumhuriyet",
+  "summary_tr": "İstinaf Mahkemesi milyonlarca kiracıyı ilgilendiren bir karar aldı; tebligat maddesine ilişkin UYAP kaydında sorun tespit edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-09T07:01:04.891787+00:00",
+  "type": "news",
+  "cluster_id": "c1aa8f6c8a8f6"
+ },
+ {
+  "title": "Öğrenci affı Resmi Gazete'de: Üniversiteye dönüş için 4 ay süre",
+  "link": "https://www.trthaber.com/haber/egitim/ogrenci-affi-resmi-gazetede-universiteye-donus-icin-4-ay-sure-953448.html",
+  "source": "TRT Haber",
+  "summary_tr": "Öğrenci affı Resmi Gazete'de yayımlandı; üniversiteye dönüş için 4 aylık süre tanındı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-09T07:01:04.891787+00:00",
+  "type": "news",
+  "cluster_id": "cbb7df6729e63"
+ },
+ {
   "title": "Pompa alev alev: Benzine bir zam daha geliyor",
   "link": "https://www.sozcu.com.tr/benzine-gelecek-zam-detaylari-lira-bazinda-artis-ve-yeni-fiyatlar-p343645",
   "source": "Sözcü",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-03T06:01:10.366167+00:00",
   "type": "news",
   "cluster_id": "c504dc786a088"
- },
- {
-  "title": "US says it supports Pakistan's right to defend itself against 'terrorist attacks'",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOXzN2VDgwTDBjbEZMeUFqcjlKV2htVlhxQjU0bDY1M0dpVFB3aXZ1VjVkOU5EMDBGVUt3Q0FScDY3bU52UmoxMU1MSXJWV3hFMVBGWnZqT3JSOGI4Q09wZEdmbEt5dGxUN0h4WHM5c05xU3N2WnA4RFBrampndzd0WkU4NE96SnlxRS1aV2lHOE5aMUU0MXFRT3JPU3JjUWNwX3hzeXJoRG1aY2xMUmJPSzB6V2hRSnRUVlJ5bW9xOHROMXBPOEJHMkVB?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, Pakistan'ın 'terör saldırıları'na karşı kendini savunma hakkını desteklediğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-03T06:01:10.366167+00:00",
-  "type": "news",
-  "cluster_id": "c663e50f1903a"
- },
- {
-  "title": "Süreyi 1 gün aşan çalışan ihbar tazminatsız kovulacak",
-  "link": "https://www.sozcu.com.tr/sureyi-1-gun-asan-calisan-ihbar-tazminatsiz-kovulacak-p333333",
-  "source": "Sözcü",
-  "summary_tr": "Yargıtay'ın kararına göre, kanuni süreci aşan aralıksız sağlık raporlarında çalışan tazminatsız işten çıkarılabilecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-03T06:01:10.366167+00:00",
-  "type": "news",
-  "cluster_id": "c4e32fbd1d0b2"
- },
- {
-  "title": "Türkiye’nin katılmak için başvuru yaptığı Euro Ödeme Alanı nedir?",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWV8xX01jYjhtX3VuS2ZZU3R5d0l2THZUb3pWb0lMY29IR3FQTXNUbnY3UkxnMjBJWWZ5UnJDSzRidXhZNk1FSDEzeDNvZFB1RENNUnhKeW5hRS1iWnZTZGZPamxITEx6aTVCRjZOVkRTTURRWTRyU2VkWHVOQnNBV1VvOW5XUlhMSnhNQ1Y0aHh2NXoxQ2Z4Z20ya3V6Zw?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Türkiye, Euro Ödeme Alanı'na katılmak için başvuru yaptı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-03T06:01:10.366167+00:00",
-  "type": "news",
-  "cluster_id": "cee960b827640"
- },
- {
-  "title": "Bakanlık ifşa etti: Türk tatlı devi hepimizi böyle kandırmış",
-  "link": "https://www.sozcu.com.tr/bakanlik-ifsa-etti-turk-tatli-devi-hepimizi-boyle-kandirmis-p333314",
-  "source": "Sözcü",
-  "summary_tr": "Türk tatlı devi Ekleristan, hızlı büyüme sonrası iflas kararına tabi tutuldu.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-03T05:01:04.426752+00:00",
-  "type": "news",
-  "cluster_id": "cdf7f7ebcc209"
  }
 ]
