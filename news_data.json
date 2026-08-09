@@ -1,5 +1,53 @@
 [
  {
+  "title": "Pompa alev alev: Benzine bir zam daha geliyor",
+  "link": "https://www.sozcu.com.tr/benzine-gelecek-zam-detaylari-lira-bazinda-artis-ve-yeni-fiyatlar-p343645",
+  "source": "Sözcü",
+  "summary_tr": "Benzine pazartesi gece yarısı 1.56 TL zam gelecek; İstanbul'da litre fiyatı 69.92 TL'ye, Anadolu'da 70 TL'ye çıkacak.",
+  "metric": "Benzin fiyatı +1.56 TL/litre",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-09T06:01:03.474906+00:00",
+  "type": "news",
+  "cluster_id": "c8771dd072cfa"
+ },
+ {
+  "title": "Seccade üreten Türk tekstil devi iflasın eşiğinde",
+  "link": "https://www.sozcu.com.tr/seccade-ureten-turk-tekstil-devi-iflasin-esiginde-p343647",
+  "source": "Sözcü",
+  "summary_tr": "Orta Doğu ve Avrupa'ya ihracat yapan seccade üreticisi tekstil devi iflasın eşiğine geldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-09T06:01:03.474906+00:00",
+  "type": "news",
+  "cluster_id": "c9d5d38be05c6"
+ },
+ {
+  "title": "China July factory-gate inflation eases to 3-month low, CPI slows",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaVNBcVdFSHViUm10d0NJVTdNYVJOdDgwZ3FvTy1JbFVwTVVlWmN1a1B3UjRaTWdYOG5VRm0yZWZXUWVKMEtLVzk4azgwcHVuX1Y3LWFrMGhnam0zRFU1dnRFQlBaSmpEOUVzM0sxUVYybml4QkIwNlVIck1LNE5wQTBEcWUtaFhZMGdCTFpnS0R5QTNDLWJheUNGT3VINWtSRzBFek13?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin'de temmuz ayında fabrika çıkış enflasyonu 3 aylık düşük seviyeye geriledi; CPI de yavaşladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-09T06:01:03.474906+00:00",
+  "type": "news",
+  "cluster_id": "cf356cdcf6b2f"
+ },
+ {
+  "title": "Üç büyükelçi atandı",
+  "link": "https://www.diken.com.tr/uc-buyukelci-atandi/?utm_source=rss&utm_medium=rss&utm_campaign=uc-buyukelci-atandi",
+  "source": "Diken",
+  "summary_tr": "Cumhurbaşkanı Erdoğan imzasıyla üç büyükelçi atanması kararı Resmi Gazete'de yayınlandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-09T06:01:03.474906+00:00",
+  "type": "news",
+  "cluster_id": "ce08536c9af18"
+ },
+ {
   "title": "Yüzyılın davasında sona gelindi: Karar çıkarsa emekli maaşına 25 bin TL zam yapılacak",
   "link": "https://www.sozcu.com.tr/yuzyilin-davasinda-sona-gelindi-karar-cikarsa-emekli-maasina-25-bin-tl-zam-yapilacak-p343630",
   "source": "Sözcü",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-03T05:01:04.426752+00:00",
   "type": "news",
   "cluster_id": "cdf7f7ebcc209"
- },
- {
-  "title": "1 dakikada pişiyor, 1 porsiyonu 500 liraya çıktı: Şehre akın akın o lezzet için geliyorlar",
-  "link": "https://www.sozcu.com.tr/1-dakikada-pisiyor-1-porsiyonu-500-liraya-cikti-sehre-akin-akin-o-lezzet-icin-geliyorlar-p333313",
-  "source": "Sözcü",
-  "summary_tr": "Edirne'nin meşhur tava ciğer ve köfte, fiyat artışlarıyla gündeme geldi; bir porsiyonu 500 liraya çıktı.",
-  "metric": "Tava ciğer/köfte fiyatı -> 500 TL (+%)",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-03T05:01:04.426752+00:00",
-  "type": "news",
-  "cluster_id": "c1ef9417bccd4"
- },
- {
-  "title": "Belediye kreşlerinde yeni dönem: Bakanlık izni zorunlu oldu",
-  "link": "https://www.dw.com/tr/belediye-kreşlerinde-yeni-dönem-bakanlık-izni-zorunlu-oldu/a-77798717?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Belediye kreşleri için bakanlık izni zorunlu hale geldi; 6 ay içinde başvurmayan kreşler kapatılabilecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-03T05:01:04.426752+00:00",
-  "type": "news",
-  "cluster_id": "ce326824ffb05"
- },
- {
-  "title": "Asian markets find footing as US jobs data, PMIs lift stocks",
-  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xc1Y1VGpFS1BhTUVYMUhUTm9aQVMwSGZnRlgwUjRVNlJubTc1MVZKRkllNG12SFBnd01JeVpwRjNhV0oxOHN1SGx2M1VYaWRaZ2hRWE05TGRjSFNic0dUVUxPNWdUa2NDQ1dKdF9Ga2xXQ2FyT2VKaVRhSQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Asya borsaları ABD iş verileri ve PMI'lar sonrası toparlanma gösterdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-03T05:01:04.426752+00:00",
-  "type": "news",
-  "cluster_id": "c5a65a72e5317"
- },
- {
-  "title": "Kiev'e füze ve İHA saldırısı: En az 27 ölü",
-  "link": "https://www.trthaber.com/haber/dunya/kieve-fuze-ve-iha-saldirisi-en-az-27-olu-950102.html",
-  "source": "TRT Haber",
-  "summary_tr": "Rusya'nın Kiev'e düzenlediği füze ve İHA saldırısında en az 27 kişi öldü, onlarca kişi yaralandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-03T04:01:02.524119+00:00",
-  "type": "news",
-  "cluster_id": "c39db622a9a35"
  }
 ]
