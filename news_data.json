@@ -1,5 +1,17 @@
 [
  {
+  "title": "Emeklinin seyyanen zammında kritik adım: Dosyalar birleşti",
+  "link": "https://www.sozcu.com.tr/emeklinin-seyyanen-zamminda-kritik-adim-dosyalar-birlesti-p343618",
+  "source": "Sözcü",
+  "summary_tr": "Emeklinin seyyanen zamması için dosyalar birleştirildi; kritik adım atıldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-09T03:01:04.398866+00:00",
+  "type": "news",
+  "cluster_id": "cda6319f034ee"
+ },
+ {
   "title": "Temmuzda asgari ücret değil, şehir hastanesi harcamaları arttı: Milyarlar yine hizmet bedeline",
   "link": "https://www.cumhuriyet.com.tr/turkiye/temmuzda-asgari-ucret-degil-sehir-hastanesi-harcamalari-artti-milyarlar-yine-hizmet-bedeline-2527577",
   "source": "Cumhuriyet",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-03T04:01:02.524119+00:00",
   "type": "news",
   "cluster_id": "cae894429a815"
- },
- {
-  "title": "HÃ¼rmÃ¼z BoÄŸazÄ± iÃ§in Ã¼cret planÄ± iddiasÄ±",
-  "link": "https://www.trthaber.com/haber/dunya/hurmuz-bogazi-icin-ucret-plani-iddiasi-950103.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran ve Umman, Hürmüz Boğazı'nın yönetimi için ortak idari ücret toplama teklifini ABD'ye sundu.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-03T04:01:02.524119+00:00",
-  "type": "news",
-  "cluster_id": "c5c48bdd34d85"
  }
 ]
