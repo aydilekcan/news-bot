@@ -1,5 +1,53 @@
 [
  {
+  "title": "Okul çantasının maliyeti 2.500 liradan başlıyor",
+  "link": "https://www.sozcu.com.tr/okul-cantasinin-maliyeti-2-500-liradan-basliyor-p343708",
+  "source": "Sözcü",
+  "summary_tr": "Yeni eğitim-öğretim dönemi öncesinde okul çantası maliyeti geçen yıla göre %25 artarak ortalama 2.500 lirayı aşıyor.",
+  "metric": "Okul çantası maliyeti +%25",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-09T09:01:07.204157+00:00",
+  "type": "news",
+  "cluster_id": "cbda7033690c9"
+ },
+ {
+  "title": "Sıcakta çalışmaya yasal düzenleme talebi",
+  "link": "https://www.diken.com.tr/sicakta-calismaya-yasal-duzenleme-talebi/?utm_source=rss&utm_medium=rss&utm_campaign=sicakta-calismaya-yasal-duzenleme-talebi",
+  "source": "Diken",
+  "summary_tr": "Çalışma Bakanlığı'ndan yüksek sıcaklıklarda işçilerin sağlığını korumak için yasal düzenleme talebi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-09T09:01:07.204157+00:00",
+  "type": "news",
+  "cluster_id": "cb687d2dd538d"
+ },
+ {
+  "title": "Mühendis maaşını solladılar: Çalışacak eleman bulamayınca kıymete bindi",
+  "link": "https://www.sozcu.com.tr/muhendis-maasini-solladilar-calisacak-eleman-bulamayinca-kiymete-bindi-p343705",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye plastik sektöründe teknik personel açığı nedeniyle mühendis maaşları artıyor; kalıpçı ve ürün tasarımcılarının maaşları yükselmekte.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-09T09:01:07.204157+00:00",
+  "type": "news",
+  "cluster_id": "c9386ead6e502"
+ },
+ {
+  "title": "TBMM Genel Kurulu'nda bugün iki önemli teklif görüşülecek",
+  "link": "https://www.trthaber.com/haber/gundem/tbmm-genel-kurulunda-bugun-iki-onemli-teklif-gorusulecek-953456.html",
+  "source": "TRT Haber",
+  "summary_tr": "TBMM Genel Kurulu'nda şehit aileleri ve gazilerin haklarına yönelik kanun değişiklikleri görüşülüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-09T09:01:07.204157+00:00",
+  "type": "news",
+  "cluster_id": "cf7c1249a2cc5"
+ },
+ {
   "title": "Benzine yine zam geliyor: Akaryakıtta tabela değişecek",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/benzine-yine-zam-geliyor-akaryakitta-tabela-degisecek-2527645",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-03T06:01:10.366167+00:00",
   "type": "news",
   "cluster_id": "cc9e7e50e426f"
- },
- {
-  "title": "Emekli ve memur zammı az sonra belli oluyor!",
-  "link": "https://www.sozcu.com.tr/emekli-ve-memur-zammi-bugun-belli-oluyor-p333334",
-  "source": "Sözcü",
-  "summary_tr": "TÜİK bugün haziran ayı enflasyonunu açıklayacak; sonuç emekli, memur ve emekli aylıklarındaki zammı belirleyecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-07-03T06:01:10.366167+00:00",
-  "type": "news",
-  "cluster_id": "cefeeffaf98b6"
- },
- {
-  "title": "Rusya’dan Finlandiya’ya nükleer tehdit: Hedef listesine girdiniz",
-  "link": "https://www.cumhuriyet.com.tr/dunya/rusya-dan-finlandiya-ya-nukleer-tehdit-hedef-listesine-girdiniz-2517588",
-  "source": "Cumhuriyet",
-  "summary_tr": "Rusya Güvenlik Konseyi Başkan Yardımcısı Medvedev, Finlandiya'nın nükleer silahlara ev sahipliği yasağını kaldırmasının ardından Finlandiya'yı nükleer tehdit listesine aldığını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-03T06:01:10.366167+00:00",
-  "type": "news",
-  "cluster_id": "ccfe4b0f7f790"
- },
- {
-  "title": "EXCLUSIVE: Inside Taiwan's nightmare scenario: Chinese blockade, earthquake, sabotage and invasion",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX2tIVDBRWmhSV3BlZlQ1S1Nub0tyOVNaeDMzLS1ZZEF5UkxxMEVadWhQOUotYndyODdxbXJNcGJrekZaZ0hkcVVBdXZEY0VLRE5hdXdQQ2F3UGNmcWpQdXA5UmVBcjhxM3FkX2dLVGhLXzl2emVPOXBaaGJETTdra2dlbnJ2cm5XUDR2cFZXM2lfZmtodGswU2trRnZ3Qnd1WlRvRVJVWTgzNWFVRzYzb1NPdGttWktwY2RWZkFZZzkwQjRxbnc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Reuters'ın özel raporunda Taiwan'ın en kötü senaryosu: Çin blokaydı, deprem, sabotaj ve işgal kombinasyonu analiz edildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-03T06:01:10.366167+00:00",
-  "type": "news",
-  "cluster_id": "c7ecbdb530c4a"
- },
- {
-  "title": "İsrail’den Doğu Kudüs’ü kuşatma hamlesi: 13 yeni yerleşim yerine onay",
-  "link": "https://www.cumhuriyet.com.tr/dunya/israil-den-dogu-kudus-u-kusatma-hamlesi-13-yeni-yerlesim-yerine-onay-2517587",
-  "source": "Cumhuriyet",
-  "summary_tr": "İsrail, işgal altındaki Doğu Kudüs'ü izole etme planı kapsamında 13 yeni yerleşim yerine onay verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-03T06:01:10.366167+00:00",
-  "type": "news",
-  "cluster_id": "c2598bf4f0d7d"
  }
 ]
