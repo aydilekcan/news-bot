@@ -1,5 +1,29 @@
 [
  {
+  "title": "Çerçeve yasa öncesi… Özgür Özel, MYK’yi toplayacak",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/cerceve-yasa-oncesi-ozgur-ozel-myk-yi-toplayacak-2527805",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Genel Başkanı Özgür Özel, 'çerçeve yasa' TBMM'de görüşülmeden önce Yeni Parti MYK toplantısı yapacak.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-09T20:00:59.378695+00:00",
+  "type": "news",
+  "cluster_id": "c69cd9cdba587"
+ },
+ {
+  "title": "AKP'den Üsküdar Belediye Başkanvekilliği seçimi için suç duyurusu",
+  "link": "https://www.sozcu.com.tr/uskudar-da-akp-den-itiraz-secim-yenilenecek-mi-p343836",
+  "source": "Sözcü",
+  "summary_tr": "AKP Üsküdar İlçe Başkanlığı, CHP adayının kazandığı Başkanvekilliği seçiminde şaibe iddiasıyla suç duyurusu yaptı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-09T20:00:59.378695+00:00",
+  "type": "news",
+  "cluster_id": "cdccbad49b09c"
+ },
+ {
   "title": "CHP'den ilk 'fire' geldi... Kılıçdaroğlu 'tereddütsüz destek' dedi: İlhan Kesici 'hayır' oyu vereceğini açıkladı",
   "link": "https://www.cumhuriyet.com.tr/siyaset/chp-den-ilk-fire-geldi-kilicdaroglu-tereddutsuz-destek-dedi-ilhan-kesici-hayir-oyu-verecegini-acikladi-2527778",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-03T13:01:11.162535+00:00",
   "type": "news",
   "cluster_id": "c2767cf321ab8"
- },
- {
-  "title": "Yabancı kurumlardan TCMB için temkinli faiz mesajı",
-  "link": "https://www.sozcu.com.tr/yabanci-kurumlardan-tcmb-icin-temkinli-faiz-mesaji-p333494",
-  "source": "Sözcü",
-  "summary_tr": "Haziran enflasyon verilerinin ardından Citi ve Goldman Sachs, Türkiye Cumhuriyet Merkez Bankası'nın para politikası adımlarına ilişkin temkinli mesajlar verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-03T13:01:11.162535+00:00",
-  "type": "news",
-  "cluster_id": "cf18e00cd2834"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan: Kadın ve genç çiftçi kredisi limitini 3 milyon liradan 5 milyon liraya çıkarıyoruz",
-  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-kadin-ve-genc-ciftci-kredisi-limitini-3-milyon-liradan-5-milyon-liraya-cikariyoruz/3985206",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, Ziraat Bankası aracılığıyla kadın ve genç çiftçi kredisi limitini 3 milyon liradan 5 milyon liraya yükselttiğini açıkladı.",
-  "metric": "Kadın ve genç çiftçi kredisi limiti 3 milyon TL -> 5 milyon TL (+%66,7)",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-03T13:01:11.162535+00:00",
-  "type": "news",
-  "cluster_id": "c5d724c579bd1"
  }
 ]
