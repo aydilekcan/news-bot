@@ -1,5 +1,53 @@
 [
  {
+  "title": "Benzine yine zam geliyor: Akaryakıtta tabela değişecek",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/benzine-yine-zam-geliyor-akaryakitta-tabela-degisecek-2527645",
+  "source": "Cumhuriyet",
+  "summary_tr": "Benzine dün 1,06 TL zam geldikten sonra pazartesi gece yarısında yeni bir fiyat artışı bekleniyor.",
+  "metric": "Benzin zammı 1,06 TL",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-09T08:01:39.097970+00:00",
+  "type": "news",
+  "cluster_id": "c3d0a120abaf8"
+ },
+ {
+  "title": "Aramco'nun sıradışı kâr artışı: Suudi Arabistan İran savaşından fayda mı sağlıyor?",
+  "link": "https://www.bbc.com/turkce/articles/ckgez2z1pqno?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Suudi Aramco, 2022'den bu yana en yüksek karını 2026 Q2'de açıkladı; İran-Suudi gerilimi petrol fiyatlarını yükseltip şirketin kazancını artırıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-09T08:01:39.097970+00:00",
+  "type": "news",
+  "cluster_id": "cdf9a5d98bd4c"
+ },
+ {
+  "title": "İzmir Kınık'ta çiftçi böyle feryat etti: 'Çalışarak, üreterek batıyoruz'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/izmir-kinik-ta-ciftci-boyle-feryat-etti-calisarak-ureterek-batiyoruz-2527650",
+  "source": "Cumhuriyet",
+  "summary_tr": "İzmir çiftçileri, artan girdi maliyetleri ve düşük ürün fiyatlarının arasında çalışarak batmaktan şikayetçi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-09T08:01:39.097970+00:00",
+  "type": "news",
+  "cluster_id": "c84acc0c434ed"
+ },
+ {
+  "title": "Yatırımlara proje bazlı devlet yardımı verilmesine yönelik kararda değişiklik yapıldı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/yatirimlara-proje-bazli-devlet-yardimi-verilmesine-yonelik-kararda-degisiklik-yapildi-/4022283",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Sanayi ve Teknoloji Bakanlığı, 5 milyar lira üzeri yatırım projelerine devlet yardımı koşullarında değişiklik yaptı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-09T08:01:39.097970+00:00",
+  "type": "news",
+  "cluster_id": "c798a8bdd0270"
+ },
+ {
   "title": "Komşu ülkenin başbakanı orduya 'savaşa hazır olun' talimatı verdi",
   "link": "https://www.sozcu.com.tr/komsu-ulkenin-basbakani-orduya-savasa-hazir-olun-talimati-verdi-p343669",
   "source": "Sözcü",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-03T06:01:10.366167+00:00",
   "type": "news",
   "cluster_id": "c2598bf4f0d7d"
- },
- {
-  "title": "Trump’tan İran açıklaması: Neredeyse tüm taleplerimizi kabul ettiler",
-  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-iran-aciklamasi-neredeyse-tum-taleplerimizi-kabul-ettiler-2517586",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Başkanı Trump, İran tarafının görüşmelerde Amerikan taleplerine neredeyse tümünü kabul ettiğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-03T06:01:10.366167+00:00",
-  "type": "news",
-  "cluster_id": "cc9100b39545d"
- },
- {
-  "title": "İsrail ordusundan işkence fotoğrafı itirafı",
-  "link": "https://www.cumhuriyet.com.tr/dunya/israil-ordusundan-iskence-fotografi-itirafi-2517585",
-  "source": "Cumhuriyet",
-  "summary_tr": "İsrail ordusu, Gazze Şeridi'nde alıkonulan Filistinli bir esire askerleri tarafından işkence yapıldığını gösteren fotoğrafları itiraf etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-03T06:01:10.366167+00:00",
-  "type": "news",
-  "cluster_id": "ca5e35a5c0de8"
- },
- {
-  "title": "Gold heads for first weekly rise in five on easing Fed rate-hike bets",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNclFSSUNFMmZtNVhtRTlWeTdJSElSd1hZSjB1c0tabXAwUVRJY0ZiQkZYc2ZRY184NzFHOURseE8wVXpJd2tVY09IQTlVV1R2R0htNEp6Wm5qT05rN1ZqZjhPeDZZN0JRUWE1VlJJSGpNdEoybFRnUV9TYzVTWGZ6bENIelRIenRQN3Z0T19KMmlUcU4xd0oxT3FTcWtMMTV6LWFocUFmaEo0UUE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Altın, Fed'in faiz artırma olasılığının azalması üzerine beş haftanın ilk haftalık yükselişine doğru ilerliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-03T06:01:10.366167+00:00",
-  "type": "news",
-  "cluster_id": "c502df9390618"
- },
- {
-  "title": "Trump administration cannot hold migrants without bond hearings past 90 days, court rules",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOHhwbmxWZXhHbjFsdDFPOXA2eXZvaWd4ZWdOeU9GN05yam5JdlRrLWYtM1pTZVlzVU5MRFR0RHp0aUJ2UnltTmpKVWhfakh5eUtxSnF1blYzS0NneF9JNDFxYkNHek9nUU1BUHlPeWxWNGVXSE1qMEpDMldqT1RkQThSTERWVXFKZ2pZZlhQM0MyQ2hLQmlNRjdZcC05VzhPTmFqeVlWa3c2VDdBM1NLcFRfVHFzQ3dkR1AyM1pwRTJTMWt3QTlsRQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Mahkeme, Trump yönetiminin göçmenleri 90 günden fazla tahkim duruşması olmadan tutamayacağına hükmetti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-03T06:01:10.366167+00:00",
-  "type": "news",
-  "cluster_id": "c504dc786a088"
  }
 ]
