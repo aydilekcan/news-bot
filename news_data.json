@@ -1,5 +1,29 @@
 [
  {
+  "title": "Gazi ve şehit yakınlarının haklarına yönelik yasa TBMM'de kabul edildi",
+  "link": "https://www.bbc.com/turkce/articles/cdx7rlzrxqko?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "TBMM, AKP ve MHP tarafından sunulan şehit yakınları ve gazilerin haklarına yönelik düzenlemeyi kabul etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-10T01:01:03.887600+00:00",
+  "type": "news",
+  "cluster_id": "c6febadfb80d2"
+ },
+ {
+  "title": "Dış ticaret açığı (yüzde değişim): %26,2 (Haziran)",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTWNSbDhrOUE5RXU0bzAyamZOMUVnN2stVzRnajJpYTVjd1NYUnc2NThhRXpSTVhEQ1kyQzdiZURiTDBGa2c1MFBueGVTS2h4ampCbE9kME04aUxGNXdhUlJJNUdiMExDRFAyemdmeTV6Mm10NnJ5TUM0Q0pqQm91SHdjSGZzX2NoTGQwN3JfTnZMS2tOUFByZk9WU20zMFdwaXhtVlZENXM0d28?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%26 → %26,2 (+0,2 puan)",
+  "metric": "+0,2 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-10T01:01:03.887600+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Oil rises as uncertainty continues over reopening of Strait",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXpSdTFpV0NCUnZ4ZmZ3bXhmR3QxR1VVbGthTXNFSmZDNU03WWxGTDQ2eE9SeVZPYVE1aHl3NWZuS3FxcW1WSnBBb3J1SXJLY1F6RnFkTy1wdVZHaXdMZkhpclJjM09BU0k1RmMyaFNHQmtnZzA5elZZbUpHVUFEZHFNbnJaek93UlM4cUZJTlU5ZzRUckVJVXdTVVd3amluLWRDb1ljZkY?oc=5",
   "source": "Reuters",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-03T15:01:11.138579+00:00",
   "type": "news",
   "cluster_id": "c0963e7f7cde7"
- },
- {
-  "title": "Ankara Zirvesi öncesi Trump-Merz söz düellosu",
-  "link": "https://www.dw.com/tr/ankara-zirvesi-öncesi-trump-merz-söz-düellosu/a-77824513?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "NATO Zirvesi öncesinde ABD Başkanı Trump'ın Almanya'ya yönelik eleştirisine karşı Başbakan Merz cevap verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-03T15:01:11.138579+00:00",
-  "type": "news",
-  "cluster_id": "cdca0baf494dc"
- },
- {
-  "title": "Cumhurbaşkanı Yardımcısı Yılmaz, haziran ayı dış ticaret verilerini değerlendirdi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskani-yardimcisi-yilmaz-haziran-ayi-dis-ticaret-verilerini-degerlendirdi/3985533",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Cumhurbaşkanı Yardımcısı Yılmaz, Türkiye'nin mal ve hizmet ihracatının ilk kez 400 milyar doları aştığını açıkladı.",
-  "metric": "İhracat: 400 milyar dolar (ilk defa)",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-03T15:01:11.138579+00:00",
-  "type": "news",
-  "cluster_id": "c89a3c20bfeae"
  }
 ]
