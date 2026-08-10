@@ -1,5 +1,29 @@
 [
  {
+  "title": "İsrail basını: Netanyahu, Gazze'ye ilişkin 15 maddelik plana \"şans vermeye\" hazır",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-basini-netanyahu-gazzeye-iliskin-15-maddelik-plana-sans-vermeye-hazir/4022697",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail Başbakanı Netanyahu, ABD'nin Gazze planına 'şans vermeye' hazır olduğunu bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-10T03:01:05.845031+00:00",
+  "type": "news",
+  "cluster_id": "ce5fdef73a7f2"
+ },
+ {
+  "title": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2psZVVzWDFLUWxaM0N2dTlwTXpyQUhLVXRUNzFMZ1hoWVpQQk1iUXlZQWNFRTJKeFRZSFdfOWZCU0VxenBzOExCUXJDZm9DM3FCMmpOYXc5Y1dkSHpPOUdUTDFYN09mc0d0NmV4ZEtDWEhuVDdMcjN3QWdpcmlXUy1KcGRXd1NuSmt6ZTNMX0hTanNQZF9DelRIMFQxUHJ3UUJEb3FhM3QzMFRrNnZ5ZW9n?oc=5",
+  "source": "AP",
+  "summary_tr": "İsrail Trump'ın Gazze planını reddetti; Orta Doğu'da Hormuз Boğazı gelişmeleri de gündemde.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-10T03:01:05.845031+00:00",
+  "type": "news",
+  "cluster_id": "c66c03ec0507f"
+ },
+ {
   "title": "Birleşen emekli iktidara talip",
   "link": "https://www.sozcu.com.tr/birlesen-emekli-iktidara-talip-p343865",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-03T17:01:05.935649+00:00",
   "type": "news",
   "cluster_id": "c51d287166f7e"
- },
- {
-  "title": "Belediye kreşlerine yeni düzenleme: Bakanlık izni zorunlu hale geldi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/belediye-kreslerine-yeni-duzenleme-bakanlik-izni-zorunlu-hale-geldi-2517779",
-  "source": "Cumhuriyet",
-  "summary_tr": "Resmi Gazete'de yayımlanan yeni yönetmelikle belediye kreşleri için Aile ve Sosyal Hizmetler Bakanlığı'nın izni zorunlu hale geldi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-03T17:01:05.935649+00:00",
-  "type": "news",
-  "cluster_id": "cc28aca9a21a7"
- },
- {
-  "title": "İktidarın kreşlerle derdi bitmiyor! Bakanlık izni zorunlu hale getirildi",
-  "link": "https://www.sozcu.com.tr/iktidarin-kreslerle-derdi-bitmiyor-bakanlik-izni-zorunlu-hale-getirildi-p333531",
-  "source": "Sözcü",
-  "summary_tr": "Resmi Gazete'de yayımlanan yeni karar ile belediye kreşleri için bakanlık izni zorunlu hale geldi; 6 ay içinde başvurmayanlar kapatılacak.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-03T17:01:05.935649+00:00",
-  "type": "news",
-  "cluster_id": "ce0b08782664e"
  }
 ]
