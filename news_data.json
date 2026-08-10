@@ -1,5 +1,29 @@
 [
  {
+  "title": "Birleşen emekli iktidara talip",
+  "link": "https://www.sozcu.com.tr/birlesen-emekli-iktidara-talip-p343865",
+  "source": "Sözcü",
+  "summary_tr": "Emekli partileri birleşti, emekliler açlık ve yoksulluk nedeniyle siyasete talip oldu.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-10T02:01:05.750514+00:00",
+  "type": "news",
+  "cluster_id": "c215536581e81"
+ },
+ {
+  "title": "Asia stocks edge higher, oil up amid Gulf confusion",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0JfVHdob1VJM3o3c2RjRHBySGdOb0h0OFVfVTNUdGo5ems0NjhoaGhMaVhpWG9iR3J4dlJkZVBlYVgwS0w2SUd6ZGZiLUtMUndydTZycjNJQ1l0MENqTmdpOTFycEZBRkJ3ZUEyWlM3RERCOGhoYk5ISEdLZnNIUm9HYw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Asya borsaları yükselişe geçti, Körfez bölgesindeki belirsizlik ortamında petrol fiyatları arttı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-10T02:01:05.750514+00:00",
+  "type": "news",
+  "cluster_id": "c27aa6916dea6"
+ },
+ {
   "title": "Gazi ve şehit yakınlarının haklarına yönelik yasa TBMM'de kabul edildi",
   "link": "https://www.bbc.com/turkce/articles/cdx7rlzrxqko?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-03T17:01:05.935649+00:00",
   "type": "news",
   "cluster_id": "ce0b08782664e"
- },
- {
-  "title": "TUFE (yıllık): %32,11 (Haziran)",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNXEtamMtN3E3Yk5FLUNSOXExcWE4WDBNRWlnM1ZFajlVOEpLQ1lubXlQS1lZWjdZRTFQVWdJMERoWUZ5T1BYRm91WlRCM3hzbVMxcDBWWm1YV1JBY1ZNbWNkY25nWERiOGVwQjkxZEJtQTdkY2hma1NRMmF0Y3hBajgwRHppbExRUFVramVqZTFHUXlsY1E2NDh5X0RpQ2MxRUpxcnd0NnJLQ1pHOFB4b25wWE81emJ0TkJEWTVKTC0?oc=5",
-  "source": "TÜİK",
-  "summary_tr": "%32,61 → %32,11 (-0,5 puan)",
-  "metric": "-0,5 puan",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-07-03T17:01:05.935649+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "NATO leaders including Trump to affirm 'ironclad commitment' to collective defence in Ankara, summit text says",
-  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR21mS1FvbzMzXzlxSUFEVVV5ZENiRktERHRtQ1hycW16UmphZF9RdUEybTVmYjNkOWY4dTFvZ3MyVlZPSnVaLVU2dS1DRjBkempBVkRvd2NROFBkRjlTajI5cjVLSjBxSzlaWmp2Z1RxQVlPaFBJMjQzNUd0VUdFejN1OVItOEhTQUtQU1Zzc2VfU0xQUFgxdWlvZEJfYUROWG9ZMlBhZUNsaTNLWDVzcTc0b2pLc0pRWDBkUGVSbTljVjNudFhGcU84amZSb1dPTzN2TDN0TQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "NATO liderleri, Ankara zirvesinde kolektif savunmaya 'dış ticaret karşıtlığı' taahhüdünü yineleyen metni imzalayacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-03T15:01:11.138579+00:00",
-  "type": "news",
-  "cluster_id": "c0963e7f7cde7"
  }
 ]
