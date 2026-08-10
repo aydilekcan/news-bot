@@ -1,5 +1,29 @@
 [
  {
+  "title": "Dollar near two-month trough as US inflation data awaited",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUNXbzdKZzN4SWREMXRobGFBNUZTbkhiRERVTXVER0xFMndJbzBGXzRwckk4SWJLTlJtUHNaSDN1Uy1BRUMwZDY2U3dYRVRzeWV1NTNWN3QzazF5NHZuNGUteGpmanpqQnloXzBQWk1oY1FKWWFjUWYyX0ljSF91NXhWQVl0ek5RVWhwakpoZWZTbXJFelRXN3hIZnlfMlk3elZtUEtzbU5DQWZiamc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Dolar iki ayın en düşük seviyesinde işlem görüyor; piyasa ABD enflasyon verisini bekliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-10T04:01:03.181881+00:00",
+  "type": "news",
+  "cluster_id": "cf06d8569aca3"
+ },
+ {
+  "title": "Altında kâr satışları başladı: Yükseliş için kritik üç şart",
+  "link": "https://www.sozcu.com.tr/ons-altinda-k%C3%A2r-satislari-basladi-yukselis-icin-kritik-uc-sart-p343873",
+  "source": "Sözcü",
+  "summary_tr": "Altın fiyatları 4.320 dolar seviyesinde işlem görüyor; Çin Merkez Bankası alımları devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-10T04:01:03.181881+00:00",
+  "type": "news",
+  "cluster_id": "c0a8e318abc26"
+ },
+ {
   "title": "İsrail basını: Netanyahu, Gazze'ye ilişkin 15 maddelik plana \"şans vermeye\" hazır",
   "link": "https://www.aa.com.tr/tr/dunya/israil-basini-netanyahu-gazzeye-iliskin-15-maddelik-plana-sans-vermeye-hazir/4022697",
   "source": "Anadolu Ajansı",
@@ -59968,30 +59992,6 @@
   "link": "https://www.sozcu.com.tr/pakistan-basbakani-sahbaz-serif-turkiye-ye-geliyor-p333536",
   "source": "Sözcü",
   "summary_tr": "Pakistan Başbakanı Şahbaz Şerif, Cumhurbaşkanı Erdoğan'ın daveti üzerine 4 Temmuz'da Türkiye'ye geliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-03T17:01:05.935649+00:00",
-  "type": "news",
-  "cluster_id": "c51d287166f7e"
- },
- {
-  "title": "Pakistan Başbakanı Şerif, Türkiye'yi ziyaret edecek",
-  "link": "https://www.aa.com.tr/tr/dunya/pakistan-basbakani-serif-turkiyeyi-ziyaret-edecek/3985625",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Pakistan Başbakanı Şahbaz Şerif, Cumhurbaşkanı Erdoğan'ın davetine icabetle Türkiye'ye ziyaret gerçekleştirecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-03T17:01:05.935649+00:00",
-  "type": "news",
-  "cluster_id": "c51d287166f7e"
- },
- {
-  "title": "Pakistan Başbakanı Şerif yarın Türkiye'ye geliyor",
-  "link": "https://www.trthaber.com/haber/gundem/pakistan-basbakani-serif-yarin-turkiyeye-geliyor-950179.html",
-  "source": "TRT Haber",
-  "summary_tr": "Pakistan Başbakanı Şahbaz Şerif, Cumhurbaşkanı Erdoğan'ın davetine icabetle yarın Türkiye'ye çalışma ziyareti gerçekleştirecek.",
   "metric": "",
   "lean": "neutral",
   "score": 6,
