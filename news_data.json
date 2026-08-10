@@ -1,5 +1,41 @@
 [
  {
+  "title": "Meclis Terörsüz Türkiye yol haritası yasasını açık fakla kabul etti",
+  "link": "https://yetkinreport.com/2026/08/11/meclis-terorsuz-turkiye-yol-haritasi-yasasini-acik-fakla-kabul-etti/",
+  "source": "YetkinReport",
+  "summary_tr": "TBMM, 'Terörsüz Türkiye' sürecinin çerçeve yasasını açık oylamayla kabul etti. Yasa, güvenlik ve çözüm sürecine ilişkin kilit düzenlemeyi içeriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-10T23:00:59.288375+00:00",
+  "type": "news",
+  "cluster_id": "c0713018e88c8"
+ },
+ {
+  "title": "Tarihî teklif, 467 vekilin rekor oyuyla Meclis'ten geçti: Çözüm sürecinde kritik eşik aşıldı, çerçeve yasa TBMM Genel Kurulu’nda kabul edildi!",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUURWNWNnQk1RS0NMZExJUlVyU2xSMVV5amU1UHoycjVuNUZfNi1LaUV0YkVibHdaVjlhcTZyejdiQlB6blJBVktjWEdvOW9USmQzcEdvekdmOHAzY2tzbG5CcmRxT29FOFAwWllCSTRzZkF1YjlVQUtWMVg5RTBwYmR4aHVrT0hlWjFVU0xibVhRWllrb3JZblE5WG80LXNnZUVudndWNEJ6TGtwaFZxdXAwRk5Eb2V1QXBGcm5QZlNabExBaS0tekRDSU1fMmNFYTBJ?oc=5",
+  "source": "T24",
+  "summary_tr": "TBMM, 'Terörsüz Türkiye' çerçeve yasasını 467 vekil oyuyla (rekor oy sayısı) kabul etti. Çözüm süreci için kritik eşik aşıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-10T23:00:59.288375+00:00",
+  "type": "news",
+  "cluster_id": "cb2b8520b1b86"
+ },
+ {
+  "title": "Ukrayna'dan Rusya'nın kalbine kritik saldırı",
+  "link": "https://www.sozcu.com.tr/ukrayna-dan-rusya-nin-kalbine-kritik-saldiri-p344199",
+  "source": "Sözcü",
+  "summary_tr": "Ukrayna, Rusya'nın Tümen bölgesindeki 'Tobolskneftekhim' petrokimya kompleksine saldırı düzenledi. Savaş hattında kritik enerji altyapısı hedefleniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-10T23:00:59.288375+00:00",
+  "type": "news",
+  "cluster_id": "cf8103d2f94ce"
+ },
+ {
   "title": "3 partinin liderinden 'ittifak' mesajı: 'Somut adımlar atmamız gerekebilir'",
   "link": "https://www.cumhuriyet.com.tr/siyaset/3-partinin-liderinden-ittifak-mesaji-somut-adimlar-atmamiz-gerekebilir-2528118",
   "source": "Cumhuriyet",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-05T22:01:04.235197+00:00",
   "type": "news",
   "cluster_id": "cbe55b7ab8f5f"
- },
- {
-  "title": "Kadıköy’de binlerce kişi NATO Zirvesi'ni protesto etti: 'İstenmiyorsunuz'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/kadikoy-de-binlerce-kisi-nato-zirvesi-ni-protesto-etti-istenmiyorsunuz-2518301",
-  "source": "Cumhuriyet",
-  "summary_tr": "İstanbul Kadıköy'de NATO Zirvesi'ne karşı binlerce kişi protesto düzenledi; 100'den fazla kişi gözaltına alındı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-05T21:01:06.847019+00:00",
-  "type": "news",
-  "cluster_id": "c0aa18a4bbc04"
- },
- {
-  "title": "Aynı günde 3 davası görülecek: Ekrem İmamoğlu 'tek cümlesini' açıkladı!",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/ayni-gunde-3-davasi-gorulecek-ekrem-imamoglu-tek-cumlesini-acikladi-2518294",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'nin cumhurbaşkanı adayı Ekrem İmamoğlu'nun 3 ayrı davası 6 Temmuz'da görülecek.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-05T21:01:06.847019+00:00",
-  "type": "news",
-  "cluster_id": "cf0b042779f39"
- },
- {
-  "title": "More than 100 detained as leftist groups hold anti-NATO protests in Turkey",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMzNUeFRFeEliSTIzZnAyUFNLMGo0Q0RaSVZpY2pxZDNjOTdsbU5jSGM0c2tnamsxa3MwblNfTjhVVGc5NTFrWVJoNC14aXFsT3VqQXlVNlNOTlFHck5hNnpHMl9OSHRGWkVwQmZMbUJuNlJsVlNYb2x3T21aUzg2ODhWQ3RUalpxS0RkeDJvLXNFdG1YY3ZrZERKTTJtUFJ5SHdSZVo4TVJiYjdVaF82UjcyUHVLdXRCMER2Ul9Waw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İstanbul'da NATO Zirvesi'ne karşı yapılan eylemde 100'den fazla kişi gözaltına alındı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-05T21:01:06.847019+00:00",
-  "type": "news",
-  "cluster_id": "c88d54f81ec88"
  }
 ]
