@@ -1,5 +1,77 @@
 [
  {
+  "title": "Aşırı sıcaklar ve kuraklık ekonomiyi vurdu: Avrupa Birliği'nde devasa finansal kriz kapıda",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/asiri-sicaklar-ve-kuraklik-ekonomiyi-vurdu-avrupa-birligi-nde-devasa-finansal-kriz-kapida-2527924",
+  "source": "Cumhuriyet",
+  "summary_tr": "Avrupa'daki aşırı sıcaklar ve kuraklık ciddi bir ekonomik kriz yaratarak AB'de devasa finansal sorun meydana getiriyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-10T10:01:50.511595+00:00",
+  "type": "news",
+  "cluster_id": "c705d664efc57"
+ },
+ {
+  "title": "Eti Gümüş ve Doruk Madencilik işçilerine polis müdahalesi: Çok sayıda gözaltı var",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/eti-gumus-ve-doruk-madencilik-iscilerine-polis-mudahalesi-cok-sayida-gozalti-var-2527928",
+  "source": "Cumhuriyet",
+  "summary_tr": "Eti Gümüş ve Doruk Madencilik işçileri aylardır maaşlarını alamadıkları için Enerji Bakanlığı önünde protesto yaptı; polis müdahalesi sonucu çok sayıda kişi gözaltına alındı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-10T10:01:50.511595+00:00",
+  "type": "news",
+  "cluster_id": "c6b0bc0033d36"
+ },
+ {
+  "title": "İran: ABD ablukayı devam ettirirse Hürmüz Boğazı güvenli bir güzergah olmayacaktır",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-abd-ablukayi-devam-ettirirse-hurmuz-bogazi-guvenli-bir-guzergah-olmayacaktir/4022984",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Dışişleri Sözcüsü, ABD'nin deniz ablukasını sürdürmesi halinde Hürmüz Boğazı'nın güvenli bir geçiş noktası olmayacağını uyardı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-10T10:01:50.511595+00:00",
+  "type": "news",
+  "cluster_id": "cb95bd51fdbf6"
+ },
+ {
+  "title": "Bakan Şimşek, haziran ayına ilişkin sanayi üretim endeksini değerlendirdi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-haziran-ayina-iliskin-sanayi-uretim-endeksini-degerlendirdi/4022965",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Hazine ve Maliye Bakanı Şimşek, haziran ayında sanayi üretiminin yıllık %1,9 büyüdüğünü açıkladı.",
+  "metric": "Sanayi üretim endeksi (ikinci çeyrek, yıllık) %1,9 büyüme",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-10T10:01:50.511595+00:00",
+  "type": "news",
+  "cluster_id": "c750d916e2f98"
+ },
+ {
+  "title": "Bakan Şimşek'ten sanayi üretim endeksi değerlendirmesi",
+  "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsekten-sanayi-uretim-endeksi-degerlendirmesi-953549.html",
+  "source": "TRT Haber",
+  "summary_tr": "Hazine ve Maliye Bakanı Şimşek, ikinci çeyrekte sanayi üretiminin yıllık %1,9 büyüdüğünü açıkladı.",
+  "metric": "Sanayi üretim endeksi (ikinci çeyrek, yıllık) %1,9 büyüme",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-10T10:01:50.511595+00:00",
+  "type": "news",
+  "cluster_id": "c56872e25d55c"
+ },
+ {
+  "title": "Yerli patent başvuruları 6 ayda yüzde 31 arttı",
+  "link": "https://www.trthaber.com/haber/ekonomi/yerli-patent-basvurulari-6-ayda-yuzde-31-artti-953544.html",
+  "source": "TRT Haber",
+  "summary_tr": "TÜRKPATENT'e 2026 ilk 6 ayında yapılan yerli patent başvuruları geçen yılın aynı dönemine kıyasla %31 arttı.",
+  "metric": "Yerli patent başvuruları (6 ay) +%31",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-10T10:01:50.511595+00:00",
+  "type": "news",
+  "cluster_id": "cd9852fa723a6"
+ },
+ {
   "title": "Çerçeve yasanın TBMM Genel Kurulu görüşmeleri başladı",
   "link": "https://www.dw.com/tr/çerçeve-yasanın-tbmm-genel-kurulu-görüşmeleri-başladı/a-78299475?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-04T12:01:07.834508+00:00",
   "type": "news",
   "cluster_id": "c7daac9caf9e9"
- },
- {
-  "title": "Müsavat Dervişoğlu'ndan en düşük emekli aylığı artışına tepki: '20 bin lira ile geçinemeyen emekli 23 bin lirayla nasıl geçinecek?'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/musavat-dervisoglu-ndan-en-dusuk-emekli-ayligi-artisina-tepki-20-bin-lira-ile-gecinemeyen-emekli-23-bin-lirayla-nasil-gecinecek-2517945",
-  "source": "Cumhuriyet",
-  "summary_tr": "İYİ Parti Genel Başkanı Dervişoğlu, emekli aylığında 3.500 TL artışın yetersiz olduğunu; 20 bin liradan geçinemeyenin 23 bin lirayla nasıl geçineceğini sorgulamıştır.",
-  "metric": "En düşük emekli aylığı +3.500 TL",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-04T11:01:36.997678+00:00",
-  "type": "news",
-  "cluster_id": "c2d5850b84fc8"
- },
- {
-  "title": "Çin menşeli dişçilik malzemesi ithalatına damping önlemi",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/cin-menseli-discilik-malzemesi-ithalatina-damping-onlemi-2517941",
-  "source": "Cumhuriyet",
-  "summary_tr": "Ticaret Bakanlığı, Çin menşeli dişçilik malzemeleri ithalatında dampinge karşı koruma önlemi aldı; ithalatçılar adet başına 8.555 dolar ek ödeyecekler.",
-  "metric": "Damping karşı ceza: 8.555 USD/adet",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-04T11:01:36.997678+00:00",
-  "type": "news",
-  "cluster_id": "c42476a2cad92"
- },
- {
-  "title": "Ayçiçeği ithalatında yeni tarife kontenjanı",
-  "link": "https://www.sozcu.com.tr/aycicegi-ithalatinda-yeni-tarife-kontenjani-p333687",
-  "source": "Sözcü",
-  "summary_tr": "Ticaret Bakanlığı, yağlık ayçiçeği tohumu ve ham ayçiçeği yağı ithalatında yeni tarife kontenjanı açtı; çiftçinin teşvik edilerek üretiminin artırılması hedefleniyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-04T11:01:36.997678+00:00",
-  "type": "news",
-  "cluster_id": "c6ddada527e26"
- },
- {
-  "title": "Yağlık ayçiçeği tohumu ve ham ayçiçeği yağı ithalatında tarife kontenjanıyla üretim artışı hedefleniyor",
-  "link": "https://www.aa.com.tr/tr/ekonomi/yaglik-aycicegi-tohumu-ve-ham-aycicegi-yagi-ithalatinda-tarife-kontenjaniyla-uretim-artisi-hedefleniyor/3985959",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Ticaret Bakanlığı, yağlık ayçiçeği tohumu ve ham ayçiçeği yağı ithalatında tarife kontenjanı uygulaması ile çiftçilerin teşvik edilerek üretiminin artırılmasını hedefliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-04T11:01:36.997678+00:00",
-  "type": "news",
-  "cluster_id": "cbf9d3be0787d"
- },
- {
-  "title": "Yeni bir ittifak geliyor: Ali Babacan doğruladı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/yeni-bir-ittifak-geliyor-ali-babacan-dogruladi-2517933",
-  "source": "Cumhuriyet",
-  "summary_tr": "DEVA Partisi lideri Ali Babacan, Yeniden Refah ve Saadet Partisi'nin sorunları aştığını doğruladı; Gelecek Partisi ile diğer partileri içeren yeni bir ittifak geliyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-07-04T10:01:14.207770+00:00",
-  "type": "news",
-  "cluster_id": "cb9a00a07cd22"
- },
- {
-  "title": "Katil İsrail'in Gazze Şeridindeki saldırılarında can kaybı 73 bin 90'a çıktı",
-  "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazze-seridindeki-saldirilarinda-can-kaybi-73-bin-90a-cikti-950221.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail ordusunun Ekim 2023'ten bu yana Gazze Şeridi'ne düzenlediği saldırılarda hayatını kaybedenlerin sayısı 73 bin 90'a yükseldi.",
-  "metric": "Gazze ölü sayısı: 73.090",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-07-04T10:01:14.207770+00:00",
-  "type": "news",
-  "cluster_id": "c275ef686659c"
  }
 ]
