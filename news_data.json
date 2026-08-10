@@ -1,5 +1,29 @@
 [
  {
+  "title": "YENİ Parti'de bu vekiller 'Hayır' oyu verecek",
+  "link": "https://www.sozcu.com.tr/yeni-parti-de-bu-vekiller-hayir-oyu-verecek-p344167",
+  "source": "Sözcü",
+  "summary_tr": "YENİ Parti'de bazı milletvekilleri çerçeve yasa konusunda 'hayır' oyu verecek; lider Özgür Özel ise 'evet' diyecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-10T19:01:08.887129+00:00",
+  "type": "news",
+  "cluster_id": "c20c6a35a8b35"
+ },
+ {
+  "title": "Özel’in kararından rahatsız olduğu söyleniyordu; İmamoğlu sessizliğini bozdu! İşte o mesaj...",
+  "link": "https://www.sozcu.com.tr/ekrem-imamoglu-10-agustos-2026-p344159",
+  "source": "Sözcü",
+  "summary_tr": "Tutuklu İBB Başkanı Ekrem İmamoğlu, YENİ Parti lideri Özgür Özel'in çerçeve yasa tutumuna destek verdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-10T19:01:08.887129+00:00",
+  "type": "news",
+  "cluster_id": "cd84513e13467"
+ },
+ {
   "title": "Terörsüz Türkiye oylaması ve Özgür Özel’in zor kararı",
   "link": "https://yetkinreport.com/2026/08/10/terorsuz-turkiye-oylamasi-ve-ozgur-ozelin-zor-karari/",
   "source": "YetkinReport",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-05T13:01:03.579685+00:00",
   "type": "news",
   "cluster_id": "c6fb5ca21c803"
- },
- {
-  "title": "Ukrayna: Rusya, bir haftada 106 füze ve yaklaşık 2 bin 200 SİHA ile saldırdı",
-  "link": "https://www.aa.com.tr/tr/dunya/ukrayna-rusya-bir-haftada-106-fuze-ve-yaklasik-2-bin-200-siha-ile-saldirdi/3986590",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Ukrayna açıklamasına göre Rusya son haftada 106 füze ve yaklaşık 2.200 SİHA ile saldırdı.",
-  "metric": "Rus füze saldırısı: 106 füze + 2.200 SİHA (1 hafta)",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-05T12:01:04.076660+00:00",
-  "type": "news",
-  "cluster_id": "c3fe0dea0c122"
- },
- {
-  "title": "NATO Zirvesi öncesi T24 ve Odatv editörlerine gözaltı",
-  "link": "https://www.dw.com/tr/nato-zirvesi-öncesi-t24-ve-odatv-editörlerine-gözaltı/a-77837295?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "NATO Zirvesi öncesi T24 ve Odatv editörleri gözaltına alındı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-05T12:01:04.076660+00:00",
-  "type": "news",
-  "cluster_id": "c7c14ba220ac8"
  }
 ]
