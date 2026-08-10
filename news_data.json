@@ -1,5 +1,17 @@
 [
  {
+  "title": "Oil rises as uncertainty continues over reopening of Strait",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXpSdTFpV0NCUnZ4ZmZ3bXhmR3QxR1VVbGthTXNFSmZDNU03WWxGTDQ2eE9SeVZPYVE1aHl3NWZuS3FxcW1WSnBBb3J1SXJLY1F6RnFkTy1wdVZHaXdMZkhpclJjM09BU0k1RmMyaFNHQmtnZzA5elZZbUpHVUFEZHFNbnJaek93UlM4cUZJTlU5ZzRUckVJVXdTVVd3amluLWRDb1ljZkY?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Petrol fiyatları, Cebelitarık Boğazı'nın yeniden açılmasıyla ilgili belirsizlik nedeniyle yükseliş gösteriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-10T00:00:59.786159+00:00",
+  "type": "news",
+  "cluster_id": "c15e1d1363076"
+ },
+ {
   "title": "AYM’den evlenen kadınların nüfus kaydına ilişkin karar: 'Aykırı olmadığına' hükmettiler!",
   "link": "https://www.cumhuriyet.com.tr/turkiye/aym-den-evlenen-kadinlarin-nufus-kaydina-iliskin-karar-aykiri-olmadigina-hukmettiler-2527831",
   "source": "Cumhuriyet",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-03T15:01:11.138579+00:00",
   "type": "news",
   "cluster_id": "c89a3c20bfeae"
- },
- {
-  "title": "Almanya Başbakanı Merz'den, Trump’ın NATO’daki yük paylaşımı eleştirisine yanıt",
-  "link": "https://www.aa.com.tr/tr/dunya/almanya-basbakani-merzden-trump-in-nato-daki-yuk-paylasimi-elestirisine-yanit/3985523",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Almanya Başbakanı Merz, Trump'ın NATO yük paylaşımı eleştirisine cevap vererek Almanya'nın 4 yılda savunma bütçesini ikiye katladığını vurguladı.",
-  "metric": "Savunma bütçesi: 4 yılda iki katına çıktı",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-03T15:01:11.138579+00:00",
-  "type": "news",
-  "cluster_id": "c7aa72a10bd3f"
  }
 ]
