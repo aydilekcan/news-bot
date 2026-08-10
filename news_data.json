@@ -1,5 +1,65 @@
 [
  {
+  "title": "TBMM'de kritik görüşme: Çerçeve yasa için kim ne dedi?",
+  "link": "https://www.dw.com/tr/tbmm-de-kritik-görüşme-çerçeve-yasa-için-kim-ne-dedi/a-78308498?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "TBMM'de çerçeve yasası görüşüldü: AKP, MHP, DEM Parti ve CHP 'evet', İYİ Parti 'hayır' oyu verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-10T14:01:08.342948+00:00",
+  "type": "news",
+  "cluster_id": "c9a318a483f3a"
+ },
+ {
+  "title": "Başkan Öküzcüoğlu: Üzüm 11 TL, bu fiyatlarla geçinmek mümkün değil",
+  "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/baskan-okuzcuoglu-uzum-11-tl-bu-fiyatlarla-gecinmek-mumkun-degil-2528012",
+  "source": "Cumhuriyet",
+  "summary_tr": "Alaşehir Belediye Başkanı, üzüm fiyatının 11 TL'ye düştüğünü belirterek üreticilerin bu fiyatlarla geçinemeyeceğini söyledi.",
+  "metric": "Üzüm fiyatı 11 TL (düşüş)",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-10T14:01:08.342948+00:00",
+  "type": "news",
+  "cluster_id": "c28b183170a8b"
+ },
+ {
+  "title": "Can Atalay'dan 'Çerçeve Yasa' açıklaması: 'Barış ateşinin çevresini kuşatalım'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/can-atalay-dan-cerceve-yasa-aciklamasi-baris-atesinin-cevresini-kusatalim-2528014",
+  "source": "Cumhuriyet",
+  "summary_tr": "DEM Parti lideri Can Atalay, çerçeve yasasına ilişkin açıklama yaparak barış sürecinin korunması çağrısında bulundu.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-10T14:01:08.342948+00:00",
+  "type": "news",
+  "cluster_id": "caeb380e751ca"
+ },
+ {
+  "title": "Hazine, tahvil ihalesiyle 72 milyar lira borçlandı -10 Ağustos 2026",
+  "link": "https://www.sozcu.com.tr/hazine-tahvil-ihalesiyle-72-milyar-lira-borclandi-10-agustos-2026-p344101",
+  "source": "Sözcü",
+  "summary_tr": "Hazine, tahvil ihalesiyle 71,96 milyar lira borçlandı.",
+  "metric": "Hazine borçlanması 71,96 milyar TL",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-10T14:01:08.342948+00:00",
+  "type": "news",
+  "cluster_id": "c52f8d304e33a"
+ },
+ {
+  "title": "Rusya'nın dış ticaret fazlası yılın ilk 6 ayında yüzde 14 arttı",
+  "link": "https://www.sozcu.com.tr/rusya-nin-dis-ticaret-fazlasi-yilin-ilk-6-ayinda-yuzde-14-artti-p344100",
+  "source": "Sözcü",
+  "summary_tr": "Rusya'nın dış ticaret fazlası ocak-haziran döneminde yüzde 14 artarak 73,4 milyar dolar oldu.",
+  "metric": "Rusya dış ticaret fazlası +%14 (73,4 milyar dolar)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-10T14:01:08.342948+00:00",
+  "type": "news",
+  "cluster_id": "cea2a126c2a00"
+ },
+ {
   "title": "Meclis'te tarihi oturum! Özgür Özel'in 'çerçeve yasa' konuşmasının tam metni...",
   "link": "https://www.cumhuriyet.com.tr/siyaset/meclis-te-tarihi-oturum-ozgur-ozel-in-cerceve-yasa-konusmasinin-tam-metni-2527992",
   "source": "Cumhuriyet",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-05T00:00:59.860276+00:00",
   "type": "news",
   "cluster_id": "cb1078033277f"
- },
- {
-  "title": "Yasal takibe düşen kişi sayısı 4.3 milyonu aştı",
-  "link": "https://www.sozcu.com.tr/yasal-takibe-dusen-kisi-sayisi-4-3-milyonu-asti-p333786",
-  "source": "Sözcü",
-  "summary_tr": "Yasal takibe düşen kişi sayısı 4,3 milyonu aştı. Vatandaşların borç yükü ağırlaşıyor.",
-  "metric": "Yasal takibe düşen kişi sayısı 4,3 milyonu aştı",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-05T00:00:59.860276+00:00",
-  "type": "news",
-  "cluster_id": "c32fc3bc9daf7"
- },
- {
-  "title": "Kremlin: Putin ve Trump telefonda yaklaşık 1,5 saat görüştü",
-  "link": "https://www.aa.com.tr/tr/dunya/kremlin-putin-ve-trump-telefonda-yaklasik-1-5-saat-gorustu/3986391",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Putin ve Trump telefonda yaklaşık 1,5 saat görüştü. Kremlin Dış Politika Danışmanı Uşakov görüşmeyi duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-04T23:00:56.300345+00:00",
-  "type": "news",
-  "cluster_id": "c802b5c1cd978"
- },
- {
-  "title": "Dış ticaret açığı: 5 milyar 610 milyon dolar",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ3huaUszdlBnekJwQjlEWGhqNEd0dHY4eDRYTm8yNnR5cFZReHBKOWVpamRWeGFlNzdCblZLcDNYMUZ3a09Qa3Y3MG1qSy1KMlBlTFlwb2FmV0xwOURZbldHTGVFYW1EM3BjYnBXUUxMVWFEdkk1ZnNzVzhWQmJWTW5kY1ZBeVVDWm44T183NEY3ZnRtV0RWdXhOWnJWdFQ3dnFSMEdPbjhrbFJPNWlpbDhYTlRtZw?oc=5",
-  "source": "TUIK",
-  "summary_tr": "$5.61 milyar → 5 milyar 610 milyon dolar (%-10,9)",
-  "metric": "%-10,9",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-07-04T23:00:56.300345+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "Trump, Hamaney’in cenaze törenini işaret ederek İran'ı tehdit etti",
-  "link": "https://www.sozcu.com.tr/trump-hamaney-in-cenaze-torenini-isaret-ederek-iran-i-tehdit-etti-p333766",
-  "source": "Sözcü",
-  "summary_tr": "Trump, İran ile görüşmelere Hamaney'in cenaze töreni nedeniyle bir hafta ara verdiklerini açıkladı ve İran'ı tehdit etti.",
-  "metric": "",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-07-04T20:00:59.772387+00:00",
-  "type": "news",
-  "cluster_id": "c502289f833fb"
- },
- {
-  "title": "Hamaney'in cenazesinde milyonarca İranlı intikam yemini etti",
-  "link": "https://www.sozcu.com.tr/hamaney-in-cenazesinde-milyonarca-iranli-intikam-yemini-etti-p333757",
-  "source": "Sözcü",
-  "summary_tr": "İran'ın dini lideri Ali Hamaney'in cenaze töreninde milyonlarca İranlı katılarak intikam yemini etti.",
-  "metric": "",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-07-04T19:01:01.453722+00:00",
-  "type": "news",
-  "cluster_id": "cdbd79d564eb7"
  }
 ]
