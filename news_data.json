@@ -1,5 +1,17 @@
 [
  {
+  "title": "Akaryakıt zammı iptal edildi",
+  "link": "https://www.diken.com.tr/akaryakit-zammi-iptal-edildi/?utm_source=rss&utm_medium=rss&utm_campaign=akaryakit-zammi-iptal-edildi",
+  "source": "Diken",
+  "summary_tr": "Benzin ve motorin zamı iptal edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-11T15:01:12.429348+00:00",
+  "type": "news",
+  "cluster_id": "ca67405a07d31"
+ },
+ {
   "title": "Benzin ve motorine yeni zam: Akaryakıt fiyatları neden artıyor, ne kadar yükselebilir?",
   "link": "https://www.bbc.com/turkce/articles/cjd488zpkm0o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-06T12:01:18.065148+00:00",
   "type": "news",
   "cluster_id": "c61331a0b9e41"
- },
- {
-  "title": "Bakan Fidan, Cumhurbaşkanı Erdoğan-ABD Başkanı Trump ilişkisinin NATO'daki gerilimi hafifletebileceğini belirtti",
-  "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-cumhurbaskani-erdogan-abd-baskani-trump-iliskisinin-natodaki-gerilimi-hafifletebilecegini-belirtti/3987337",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Dışişleri Bakanı Fidan, Erdoğan-Trump ilişkilerinin NATO içindeki tansiyonu hafifletebileceğini belirtti.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-06T12:01:18.065148+00:00",
-  "type": "news",
-  "cluster_id": "c5b378b1ebf27"
  }
 ]
