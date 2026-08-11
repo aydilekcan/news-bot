@@ -1,5 +1,65 @@
 [
  {
+  "title": "Zelenskiy: Ukraine has given US negotiators proposals for ending the war with Russia",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYUctM2tDd2gxSEhzQk9QV2dud0d0ajdkR0U2TmdlZ2VpQm44U1BhclBHQ184WVFFS1ZnX2l4c1dlb3FiMG9Ld0hSeUNJU0dFSTl6VHFzTVlRSXQ4Z3BUQWtvLW5oTFZJTGJiOG1Sb0dTSGN2V1lzcGJWemhYZjloZnI2YmtvcnZ3dHRGMkpSOGExM3RZTVFxeGFfWkNoXzhpUk5iX0QxVHVWYmpnT05rTnhFM25MeHNnek85UFlLdS15QQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Zelenskiy, Ukrayna'nın ABD müzakerecilerine savaşı bitirmeye yönelik önerilerini sunduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-11T22:01:09.366417+00:00",
+  "type": "news",
+  "cluster_id": "c7c4d77a5f062"
+ },
+ {
+  "title": "Meclis tatile girdi",
+  "link": "https://www.diken.com.tr/meclis-tatile-girdi-2/?utm_source=rss&utm_medium=rss&utm_campaign=meclis-tatile-girdi-2",
+  "source": "Diken",
+  "summary_tr": "TBMM 1 Ekim'e kadar tatile girdi. Resmi Gazete'de yayımlandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-11T22:01:09.366417+00:00",
+  "type": "news",
+  "cluster_id": "cf879abf2386c"
+ },
+ {
+  "title": "Meclis tatile girdi, karar Resmi Gazete'de yayımlandı",
+  "link": "https://www.sozcu.com.tr/meclis-tatile-girdi-karar-resmi-gazetede-yayimlandi-p344528",
+  "source": "Sözcü",
+  "summary_tr": "TBMM 1 Ekim'e kadar tatile girdi. Meclis tatil kararı Resmi Gazete'de yayımlandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-11T22:01:09.366417+00:00",
+  "type": "news",
+  "cluster_id": "cf879abf2386c"
+ },
+ {
+  "title": "Resmi Gazete'de yayımlandı: TBMM tatile girdi",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/resmi-gazete-de-yayimlandi-tbmm-tatile-girdi-2528386",
+  "source": "Cumhuriyet",
+  "summary_tr": "TBMM 1 Ekim'e kadar tatile girdi. Karar Resmi Gazete'de yayımlandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-11T22:01:09.366417+00:00",
+  "type": "news",
+  "cluster_id": "c5641d229950d"
+ },
+ {
+  "title": "TBMM'nin tatile girmesine ilişkin karar Resmi Gazete'de",
+  "link": "https://www.aa.com.tr/tr/gundem/tbmmnin-tatile-girmesine-iliskin-karar-resmi-gazetede/4024681",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "TBMM 1 Ekim'e kadar tatile giriyor. Karar Resmi Gazete'de yayımlandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-11T22:01:09.366417+00:00",
+  "type": "news",
+  "cluster_id": "c5641d229950d"
+ },
+ {
   "title": "CENTCOM: 'İran ablukasını ihlal etmeye çalışan ticari gemiyi füzelerle durdurduk'",
   "link": "https://www.cumhuriyet.com.tr/dunya/centcom-iran-ablukasini-ihlal-etmeye-calisan-ticari-gemiyi-fuzelerle-durdurduk-2528372",
   "source": "Cumhuriyet",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-06T16:01:16.749847+00:00",
   "type": "news",
   "cluster_id": "c0451b08ddb2e"
- },
- {
-  "title": "Akbelen savunucusu Esra Işık'a hapis cezası",
-  "link": "https://www.sozcu.com.tr/akbelen-savunucusu-esra-isik-a-hapis-cezasi-p334255",
-  "source": "Sözcü",
-  "summary_tr": "Akbelen Ormanı protestosu sırasında tutuklanan Esra Işık'a hapis cezası verildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-06T16:01:16.749847+00:00",
-  "type": "news",
-  "cluster_id": "c0451b08ddb2e"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan, NATO Genel Sekreteri Rutte'yi kabul etti",
-  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-nato-genel-sekreteri-rutteyi-kabul-etti/3987684",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, NATO Genel Sekreteri Rutte'yi kabul etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-06T16:01:16.749847+00:00",
-  "type": "news",
-  "cluster_id": "c2803ccf948d6"
- },
- {
-  "title": "Trump’tan İran’a sert sözler: İşi bitirmek zor olmayacak",
-  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-iran-a-sert-sozler-isi-bitirmek-zor-olmayacak-2518537",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Başkanı Trump, İran'la müzakere sürecine ilişkin açıklamada, ya anlaşmaya varacaklarını ya da \"işi bitirmek\" mümkün olduğunu söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-06T15:01:18.978002+00:00",
-  "type": "news",
-  "cluster_id": "c06082c32cc5f"
- },
- {
-  "title": "Tahran’dan Washington’a ateşkes mesajı: Barış yok, müzakere var",
-  "link": "https://www.cumhuriyet.com.tr/dunya/tahran-dan-washington-a-ateskes-mesaji-baris-yok-muzakere-var-2518535",
-  "source": "Cumhuriyet",
-  "summary_tr": "İran Meclis Başkanı Kalibaf, ABD ile imzalanan ateşkes mutabakatının uygulanmasının \"zor ancak mümkün\" olduğunu belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-06T15:01:18.978002+00:00",
-  "type": "news",
-  "cluster_id": "c9034701891a7"
- },
- {
-  "title": "Notu alan şoka uğradı! Dev şirket 4 bin 800 çalışanını işten çıkardı",
-  "link": "https://www.sozcu.com.tr/notu-alan-soka-ugradi-dev-sirket-4-bin-800-calisanini-isten-cikardi-p334248",
-  "source": "Sözcü",
-  "summary_tr": "Teknoloji devi Microsoft, küresel iş gücünün yaklaşık %2,1'ine (4.800 çalışan) karşılık gelen işten çıkarma yapıyor.",
-  "metric": "Microsoft işten çıkarma oranı ~%2,1 (4.800 kişi)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-06T15:01:18.978002+00:00",
-  "type": "news",
-  "cluster_id": "c81e21c835b6d"
  }
 ]
