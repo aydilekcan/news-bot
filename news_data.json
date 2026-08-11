@@ -1,5 +1,65 @@
 [
  {
+  "title": "Süreç yasasının kabulünden sonra Meclis'ten kareler",
+  "link": "https://www.diken.com.tr/surec-yasasinin-kabulunden-sonra-meclisten-kareler/?utm_source=rss&utm_medium=rss&utm_campaign=surec-yasasinin-kabulunden-sonra-meclisten-kareler",
+  "source": "Diken",
+  "summary_tr": "TBMM, PKK'nın silah bırakması için hazırlanan yasa teklifini kabul etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-11T06:01:03.075628+00:00",
+  "type": "news",
+  "cluster_id": "ced422569ee0d"
+ },
+ {
+  "title": "Nvidia'dan 500 milyar dolarlık yapay zeka sermayesi için finans kuruluşlarıyla işbirliği",
+  "link": "https://www.aa.com.tr/tr/bilim-teknoloji/nvidiadan-500-milyar-dolarlik-yapay-zeka-sermayesi-icin-finans-kuruluslariyla-isbirligi/4023727",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Nvidia, yapay zeka altyapısının geliştirilmesi için 500 milyar doların üzerinde üçüncü taraf sermayesini finans kuruluşlarıyla işbirliğiyle harekete geçirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-11T06:01:03.075628+00:00",
+  "type": "news",
+  "cluster_id": "ca0d2b72cf880"
+ },
+ {
+  "title": "Yen wobbles as intervention afterglow dims; RBA keeps rates unchanged",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzhZVWVFX0IxZHRHRTExeHVkajFlQ3U3X3RhbjdFbW5uNnFHR0lLNmd5ZVZRT0tqd1h2X090Snd4bk5VLWhKd0UwaTlDUTNkbnpsLWRIdXFJWE1wdDlUbVd0SXJjb1JYaVlKTVVxUllYQ2lRZjNZcFA1LWVEY2xZRTVHdkNEd3cyNGRNNDhHUDRYem15Szg5dFFadXRCNnFYNHQ1Yg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Avustralya Merkez Bankası (RBA) faiz oranlarını değiştirmedi; yen müdahale sonrası dalgalanmaya devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-11T06:01:03.075628+00:00",
+  "type": "news",
+  "cluster_id": "cad336e28f51e"
+ },
+ {
+  "title": "SGK'dan kritik çağrı: 20 gün içinde başvuranların borcu 72 aya bölünecek",
+  "link": "https://www.sozcu.com.tr/sgk-dan-kritik-cagri-20-gun-icinde-basvuranlarin-borcu-72-aya-bolunecek-p344252",
+  "source": "Sözcü",
+  "summary_tr": "SGK, vadesi geçmiş prim borçları olan işverenler için 31 Ağustos 2026'ye kadar başvuru hakkı tanıyıp borçları 72 aya bölme imkanı verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-11T06:01:03.075628+00:00",
+  "type": "news",
+  "cluster_id": "c675df6971554"
+ },
+ {
+  "title": "ABD ve İran arasında Hürmüz Boğazı gerilimi: Trump'tan savaş tazminatı talebi",
+  "link": "https://www.trthaber.com/haber/dunya/abd-ve-iran-arasinda-hurmuz-bogazi-gerilimi-trumptan-savas-tazminati-talebi-953603.html",
+  "source": "TRT Haber",
+  "summary_tr": "Trump, ABD Deniz Kuvvetlerinin Hürmüz Boğazı'ndaki mayınları temizlediğini ve stratejik su yolunda tam kontrol sağladığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-11T06:01:03.075628+00:00",
+  "type": "news",
+  "cluster_id": "cc5a90eadb02a"
+ },
+ {
   "title": "Merkez Bankası müdahalesi etkisiz kaldı: Dolar tarihi zirvesini yeniledi",
   "link": "https://www.sozcu.com.tr/merkez-bankasi-mudahalesi-etkisiz-kaldi-dolar-tarihi-zirvesini-yeniledi-p344227",
   "source": "Sözcü",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-06T06:01:18.470535+00:00",
   "type": "news",
   "cluster_id": "c63f1b8473512"
- },
- {
-  "title": "Russian attack on Kyiv kills nine, hits apartment buildings",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVHY0emVJd3h3VUdFQlJhMWNwckpjWGU4M2pvWmgxazFCNF9mWnhqeWhVS0RDbjFsSmVpZVZ6NUpkWlBNbk5OeG40a3JoOXVzb2thM1ZKWHJRQk5kTGU4d3ROYnhKUEhjOE5zR21fWlJrNWN3TXMxeENqaFdOa1BPMThtZFZlWjZWaElqTDNYWk8xcG5kblE4cW9ZeDRpTmZj?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Rusya'nın Kyiv'e düzenlediği saldırıda dokuz kişi öldü, apartman binaları vuruldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-06T06:01:18.470535+00:00",
-  "type": "news",
-  "cluster_id": "c497bb4cc2305"
- },
- {
-  "title": "Türk savunma devi ilk kez NATO ülkesine ihraç etti: Kınalıada'dan dünyaya açıldı",
-  "link": "https://www.sozcu.com.tr/turk-savunma-devi-ilk-kez-nato-ulkesine-ihrac-etti-kinaliada-dan-dunyaya-acildi-p334053",
-  "source": "Sözcü",
-  "summary_tr": "Türk savunma sanayi şirketi HAVELSAN, ürettiği ADVENT Savaş Yönetim Sistemini ilk kez bir NATO ülkesine ihraç etti.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-06T06:01:18.470535+00:00",
-  "type": "news",
-  "cluster_id": "c3ae9956f1fc9"
- },
- {
-  "title": "Bakır ve demir fiyatları haftaya yükselişle başladı",
-  "link": "https://www.sozcu.com.tr/bakir-ve-demir-fiyatlari-haftaya-yukselisle-basladi-p334050",
-  "source": "Sözcü",
-  "summary_tr": "ABD'deki tarım dışı istihdam verisi ve küresel stok seviyeleri etkisiyle bakır ve demir fiyatları haftaya yükselişle başladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-06T06:01:18.470535+00:00",
-  "type": "news",
-  "cluster_id": "c195b30213f42"
- },
- {
-  "title": "Ankara'da 56 bin personel görevde, kritik yollar kapatılıyor",
-  "link": "https://www.trthaber.com/haber/gundem/ankarada-56-bin-personel-gorevde-kritik-yollar-kapatiliyor-950341.html",
-  "source": "TRT Haber",
-  "summary_tr": "Ankara'da NATO Zirvesi öncesinde 56 bin personel görevde, kritik yollar kapatılarak güvenlik önlemleri en üst seviyeye çıkarıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-06T06:01:18.470535+00:00",
-  "type": "news",
-  "cluster_id": "c3d499b7998f7"
- },
- {
-  "title": "Ankara'da NATO Zirvesi: Yedi maddede bilinmesi gerekenler",
-  "link": "https://www.dw.com/tr/ankara-da-nato-zirvesi-yedi-maddede-bilinmesi-gerekenler/a-77837493?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "NATO Zirvesi Ankara'da başlıyor; Trump'ın katılımıyla savunma harcamaları ve Ukrayna savaşı gibi kritik konular görüşülecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-06T05:01:02.591135+00:00",
-  "type": "news",
-  "cluster_id": "c3b57ed058965"
  }
 ]
