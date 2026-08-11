@@ -1,5 +1,41 @@
 [
  {
+  "title": "İran ABD’ye resti çekti: Bu şartlar kabul olmazsa Hürmüz açılmayacak",
+  "link": "https://www.sozcu.com.tr/iran-abd-ye-resti-cekti-bu-sartlar-kabul-olmazsa-hurmuz-acilmayacak-p344490",
+  "source": "Sözcü",
+  "summary_tr": "İran Ulusal Güvenlik Yüksek Konseyi Sekreteri Rızai, ABD'nin İran'a savaş sona erdirmesi şartında Hürmüz Boğazı'nı açacağını bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-11T18:01:11.509711+00:00",
+  "type": "news",
+  "cluster_id": "cfcb2cd6bdc31"
+ },
+ {
+  "title": "Hormuz to stay closed unless US meets Iran's conditions, Iran official says",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzI4ZllHeXZmVDVJVE40M0w5NkYtdkFzM0RyYlZvY1pXbEJoc1d4RHNvVWxTem1kMEhGNUxmc0tZZmZ2ZkpZamtDNkd6bjRTVXhCVEF6dGhOSXltR0RQc3RPc0RFUzctZ00xRjAzX0hwNy1oYlU0a0dMYU9iUjdqYXZ4ZWM5YXhBMUhEREduYVo2QkVsT2ktQ19NaFNpUF85TmhFcnF1REktbFZfRklXb0EtbzZsLUZ1Vk53TFRR?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran, Hürmüz Boğazı'nı ABD koşulları yerine getirmediği sürece kapalı tutacağını bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-11T18:01:11.509711+00:00",
+  "type": "news",
+  "cluster_id": "cb81d106b6da0"
+ },
+ {
+  "title": "Filistin Devlet Başkanı Abbas Ankara'ya geldi",
+  "link": "https://www.trthaber.com/haber/gundem/filistin-devlet-baskani-abbas-ankaraya-geldi-953676.html",
+  "source": "TRT Haber",
+  "summary_tr": "Filistin Devlet Başkanı Mahmud Abbas, iki günlük resmi ziyaret için Ankara'ya geldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-11T18:01:11.509711+00:00",
+  "type": "news",
+  "cluster_id": "c4e8bfcd9297a"
+ },
+ {
   "title": "İran: Hürmüz Boğazı'nın açılması, ABD'nin tutumunu değiştirmesine ve şartlarımızı kabul etmesine bağlı",
   "link": "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazinin-acilmasi-abdnin-tutumunu-degistirmesine-ve-sartlarimizi-kabul-etmesine-bagli/4024508",
   "source": "Anadolu Ajansı",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-06T13:01:09.645800+00:00",
   "type": "news",
   "cluster_id": "c29d3d3f97b6b"
- },
- {
-  "title": "ABD Başkanı Trump yarın Türkiye'ye geliyor",
-  "link": "https://www.trthaber.com/haber/gundem/abd-baskani-trump-yarin-turkiyeye-geliyor-950399.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD Başkanı Trump, Cumhurbaşkanı Erdoğan'ın davetine icabetle Türkiye'ye resmi bir ziyarette bulunuyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-06T13:01:09.645800+00:00",
-  "type": "news",
-  "cluster_id": "cc6b54ecdd203"
- },
- {
-  "title": "Kredi kartı aidatlarına yüzde 70 zam geldi",
-  "link": "https://www.sozcu.com.tr/kredi-karti-aidatlarina-yuzde-70-zam-geldi-p334213",
-  "source": "Sözcü",
-  "summary_tr": "Kredi kartı yıllık aidatlarında yüzde 70 zam uygulandı; bazı bankalarda ücretler 2 bin TL'yi aştı.",
-  "metric": "Kredi kartı aidatı: +%70",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-06T13:01:09.645800+00:00",
-  "type": "news",
-  "cluster_id": "c23c5b04ba991"
- },
- {
-  "title": "İletişim Başkanı Duran'dan ABD Başkanı Trump'ın Türkiye ziyaretine ilişkin açıklama",
-  "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-abd-baskani-trumpin-turkiye-ziyaretine-iliskin-aciklama/3987380",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İletişim Başkanı Duran, Trump'ın Türkiye ziyaretinde savunma, ticaret ve yatırımlar başta olmak üzere Türkiye-ABD ilişkilerinin ele alınacağını açıkladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-06T13:01:09.645800+00:00",
-  "type": "news",
-  "cluster_id": "caff978f6eebf"
  }
 ]
