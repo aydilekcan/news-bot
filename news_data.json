@@ -1,5 +1,53 @@
 [
  {
+  "title": "Four crew killed in Red Sea attack while missile strike reported in Gulf",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXg2TDlnMzVlaTc1d1hoaFVFTG91b29XZzlBMC1hNGZ1REtpdDlTLXZFcGF5Mjg0N1ZvaVpSZlpEYkR6TUM1Mktja1k2TDdIVGlBZHBrMEFGdHNXSFFQV0s0eEY3aHRBcXNxa3FKUkR6Y1RmSVZOS0lwbGVZTVFKX3VUMzU5c2wwZ2VjZ1pqWU1PeDNhb0lOeFlzcDFnN1lS?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Kızıldeniz'deki saldırıda dört gemi personeli öldü; Körfez'de füze saldırısı rapor edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-11T16:01:08.902005+00:00",
+  "type": "news",
+  "cluster_id": "cc6e7031cc7f8"
+ },
+ {
+  "title": "Trump, suikast tehdidi nedeniyle Türkiye'den gizlice askeri uçakla ayrıldı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/trump-suikast-tehdidi-nedeniyle-turkiye-den-gizlice-askeri-ucakla-ayrildi-2528312",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD Başkanı Trump, İran'dan gelen suikast tehdidi nedeniyle Ankara'dan askeri uçakla ayrıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-11T16:01:08.902005+00:00",
+  "type": "news",
+  "cluster_id": "c3db05cea875e"
+ },
+ {
+  "title": "Karadeniz'de gerilimi artıracak gelişme",
+  "link": "https://www.sozcu.com.tr/karadeniz-de-gerilimi-artiracak-gelisme-p344454",
+  "source": "Sözcü",
+  "summary_tr": "Rusya, Karadeniz'de Odessa'nın güneyinde Ukrayna'nın devriye botunu İHA'larla vurduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-11T16:01:08.902005+00:00",
+  "type": "news",
+  "cluster_id": "caa6f8d8b5da1"
+ },
+ {
+  "title": "İran-Çin Ticaret Odası Başkanı Hariri: \"Deniz ablukasının İran'a ekonomik zararı savaştan daha ağır olabilir\"",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-cin-ticaret-odasi-baskani-hariri-deniz-ablukasinin-irana-ekonomik-zarari-savastan-daha-agir-olabilir/4024468",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran-Çin Ticaret Odası Başkanı, ABD'nin İran'a yönelik deniz ablukasının ekonomik zararının savaştan daha ağır olabileceğini belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-11T16:01:08.902005+00:00",
+  "type": "news",
+  "cluster_id": "c47569621e0c5"
+ },
+ {
   "title": "Akaryakıt zammı iptal edildi",
   "link": "https://www.diken.com.tr/akaryakit-zammi-iptal-edildi/?utm_source=rss&utm_medium=rss&utm_campaign=akaryakit-zammi-iptal-edildi",
   "source": "Diken",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-06T12:01:18.065148+00:00",
   "type": "news",
   "cluster_id": "cec7d2eef1632"
- },
- {
-  "title": "İsrail Savunma Bakanı Katz'dan Hamaney'in ölümü üzerinden İranlı liderlere tehdit",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-savunma-bakani-katzdan-hamaneyin-olumu-uzerinden-iranli-liderlere-tehdit/3987074",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail Savunma Bakanı Katz, İran liderlerine Hamaney'in ölümü üzerinden tehdit yöneltti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-06T12:01:18.065148+00:00",
-  "type": "news",
-  "cluster_id": "c01bd08678456"
- },
- {
-  "title": "Russia’s missile and drone attack on Ukraine kills at least 18",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdzBYcmVtRXVET2hOUHR6c0ZBcEhVZjZkeTdJTnU4TnJpU3dGSldYS3hyZTRBbWh0TjBrYUd1eUxVZHoyYWRjSV9Qa0ZOOTFleFJPSi1rd2kyTFkzbGNMN25kWGtCOFNFWjFQdVBTOHc2dlhBTDc2eXRkb1ZlSGVEamlaSllJek02RUhxQ3E2N1hmNUpm?oc=5",
-  "source": "AP",
-  "summary_tr": "Rusya'nın Ukrayna'ya yönelik füze ve insansız hava aracı saldırısında en az 18 kişi öldü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-06T12:01:18.065148+00:00",
-  "type": "news",
-  "cluster_id": "ce590003f0d4e"
- },
- {
-  "title": "İmamoğlu'nun davalarını izleyen AP Türkiye Raportörü Sánchez Amor: '3 davanın aynı güne denk gelmesi tesadüf değil'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/imamoglu-nun-davalarini-izleyen-ap-turkiye-raportoru-sanchez-amor-3-davanin-ayni-gune-denk-gelmesi-tesaduf-degil-2518469",
-  "source": "Cumhuriyet",
-  "summary_tr": "AP Türkiye Raportörü Sánchez Amor, İmamoğlu'nun üç davasının aynı güne denk gelmesinin tesadüf olmadığını belirtti.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-06T12:01:18.065148+00:00",
-  "type": "news",
-  "cluster_id": "c92f644d7953a"
- },
- {
-  "title": "Merkez Bankası rezervleri bir haftada 10 milyar dolar yükseldi",
-  "link": "https://www.sozcu.com.tr/merkez-bankasi-rezervleri-bir-haftada-10-milyar-dolar-yukseldi-p334197",
-  "source": "Sözcü",
-  "summary_tr": "TCMB toplam rezervleri bir haftada yaklaşık 10,7 milyar dolar arttı.",
-  "metric": "TCMB rezervleri: 10,7 milyar dolar artış (haftalık)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-06T12:01:18.065148+00:00",
-  "type": "news",
-  "cluster_id": "c61331a0b9e41"
  }
 ]
