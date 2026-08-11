@@ -1,5 +1,29 @@
 [
  {
+  "title": "Akaryakıt fiyatlarında yeni gelişme! Çifte zam iptal edildi mi?",
+  "link": "https://www.sozcu.com.tr/akaryakit-fiyatlarinda-yeni-gelisme-cifte-zam-iptal-edildi-mi-p344491",
+  "source": "Sözcü",
+  "summary_tr": "Akaryakıt fiyatlarında çifte zam iptal edildi; benzin ve motorine bu gece yarısından itibaren yeni fiyatlar uygulanacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-11T19:01:01.800313+00:00",
+  "type": "news",
+  "cluster_id": "cb65b6eade3fe"
+ },
+ {
+  "title": "DEM Parti, YENİ Parti'den 'çerçeve yasa' beklentisini açıkladı: 'Tamamının 'evet' oyu vermesini beklerdik'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/dem-parti-yeni-parti-den-cerceve-yasa-beklentisini-acikladi-tamaminin-evet-oyu-vermesini-beklerdik-2528349",
+  "source": "Cumhuriyet",
+  "summary_tr": "DEM Parti, YENİ Parti'nin çerçeve yasada tam destek vermemesini eleştirdi ve tamamının 'evet' oyu vermesini beklediğini açıkladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-11T19:01:01.800313+00:00",
+  "type": "news",
+  "cluster_id": "c4930856657db"
+ },
+ {
   "title": "İran ABD’ye resti çekti: Bu şartlar kabul olmazsa Hürmüz açılmayacak",
   "link": "https://www.sozcu.com.tr/iran-abd-ye-resti-cekti-bu-sartlar-kabul-olmazsa-hurmuz-acilmayacak-p344490",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-06T14:02:24.187398+00:00",
   "type": "news",
   "cluster_id": "ca2b479087b3f"
- },
- {
-  "title": "NATO defence push already strains Europe's budgets",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV1BRTEZPQkdiN3JYZXdneVhrX2VDeWtVcW1kbDdYUk5ZSFE4bTc2ODZUSXpoby02cTJtOXFjUFFoWllpYkFsR1dwaVQ4bk9XOW1SNzJDd1hqX1k5enhjQVZWSVBVWXE0VmNBbnlxMXVReEV6LTRUMmxNVmJvbmVEWnFsVmhXZTlVRl9GQktmcTM1OE5MbFB5VXFIVjQwajQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "NATO savunma harcama artışları Avrupa ülkelerinin bütçelerini ciddi şekilde zorluyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-06T14:02:24.187398+00:00",
-  "type": "news",
-  "cluster_id": "c14818855cb2c"
- },
- {
-  "title": "Yurttaşın maaşı enflasyon ve vergilerle eridi: Ücretlerdeki kayıp 15 bin lirayı aştı",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/yurttasin-maasi-enflasyon-ve-vergilerle-eridi-ucretlerdeki-kayip-15-bin-lirayi-asti-2518484",
-  "source": "Cumhuriyet",
-  "summary_tr": "DİSK-AR raporu: Yılın ilk beş ayında sigortalı işçiler enflasyon ve vergilerle 890 milyon lira kayıp yaşadı, ücretlerdeki kayıp 15 bin lirayı aştı.",
-  "metric": "İşçi ücret kaybı: 15.000+ TL",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-07-06T13:01:09.645800+00:00",
-  "type": "news",
-  "cluster_id": "c29d3d3f97b6b"
  }
 ]
