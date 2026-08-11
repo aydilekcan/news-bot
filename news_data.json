@@ -1,5 +1,65 @@
 [
  {
+  "title": "Uzmanlar acil stok yapın diyerek saydı: Bu ürünlere rekor zam geliyor",
+  "link": "https://www.sozcu.com.tr/uzmanlar-acil-stok-yapin-diyerek-saydi-bu-urunlere-rekor-zam-geliyor-p344402",
+  "source": "Sözcü",
+  "summary_tr": "Kuraklık ve ürün fiyatlarındaki düşüş nedeniyle gıda fiyatlarında rekor zamlar bekleniyor; uzmanlar stok yapılmasını tavsiye ediyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-11T13:01:15.074058+00:00",
+  "type": "news",
+  "cluster_id": "c8ae9eb891670"
+ },
+ {
+  "title": "İran'da tecavüze direnen kadın idam edildi",
+  "link": "https://www.diken.com.tr/iranda-tecavuze-direnen-kadin-idam-edildi/?utm_source=rss&utm_medium=rss&utm_campaign=iranda-tecavuze-direnen-kadin-idam-edildi",
+  "source": "Diken",
+  "summary_tr": "İran'da cinsel saldırıya direnen 23 yaşındaki Marziye Niyeri idam edildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-11T13:01:15.074058+00:00",
+  "type": "news",
+  "cluster_id": "c85b6a6858766"
+ },
+ {
+  "title": "İran'da cinsel saldırıya direnen kadın idam edildi",
+  "link": "https://www.sozcu.com.tr/iran-da-cinsel-saldiriya-direnen-kadin-idam-edildi-p344395",
+  "source": "Sözcü",
+  "summary_tr": "İran'da cinsel saldırıya direnen 23 yaşındaki Marziye Niyeri idam edildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-11T13:01:15.074058+00:00",
+  "type": "news",
+  "cluster_id": "c85b6a6858766"
+ },
+ {
+  "title": "15 ülke Türkiye'den kapış kapış alıyor: İşte 7 ayda 95 milyon dolar kazandıran o balık",
+  "link": "https://www.sozcu.com.tr/15-ulke-turkiye-den-kapis-kapis-aliyor-iste-7-ayda-95-milyon-dolar-kazandiran-o-balik-p344397",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye'nin Doğu Karadeniz'den yapılan somonu ihracatı ocak-temmuz döneminde 95,2 milyon doları aştı; 15 ülkeye gönderildi.",
+  "metric": "Türk somonu ihracatı (7 ay) 95,2 milyon dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-11T13:01:15.074058+00:00",
+  "type": "news",
+  "cluster_id": "c6f81491d33d9"
+ },
+ {
+  "title": "Sigorta ve emeklilik sektörünün aktif büyüklüğü 4,4 trilyon liraya ulaştı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/sigorta-ve-emeklilik-sektorunun-aktif-buyuklugu-4-4-trilyon-liraya-ulasti/4024227",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye'nin sigorta ve emeklilik sektörü 2026 ilk 6 ayında toplam aktif büyüklüğünü 4,4 trilyon liraya çıkardı.",
+  "metric": "Sigorta-emeklilik aktif büyüklüğü 4,4 trilyon TL",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-11T13:01:15.074058+00:00",
+  "type": "news",
+  "cluster_id": "cf062391212af"
+ },
+ {
   "title": "'Çerçeve yasa' onaylandı: TBMM'deki tarihi günden kareler",
   "link": "https://www.cumhuriyet.com.tr/turkiye/cerceve-yasa-onaylandi-tbmm-deki-tarihi-gunden-kareler-2528228",
   "source": "Cumhuriyet",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-06T12:01:18.065148+00:00",
   "type": "news",
   "cluster_id": "c18f81ae8d508"
- },
- {
-  "title": "EXCLUSIVE: France softens stance on Turkey SAMP/T air defence sale, sources say",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN0JUREpzSjhEN0pmOTEtRXFvWWxaNW9yUU1HbE4yOEpBb0RYZEtzMm14dmFTRkVkaWpwbnJIUFg1cWhOaE1LTFFfQnpwcnRpTko1TTUzTERSTGZwNXNOdHUzYWlpZUZVcy10cWI5Y3pja2F1a253SERkYjZzY2E0Q0Q0aTk2NlY2dVNXc3p3anNBWm9lNDR5UFRKdm9TVFhaMG9iZU5lWldjVUpWeHFjb3Bn?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Fransa, Türkiye'ye SAMP/T hava savunma sisteminin satışına karşı tutumunu yumuşattı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-06T12:01:18.065148+00:00",
-  "type": "news",
-  "cluster_id": "ce8c1c35ae9c3"
- },
- {
-  "title": "Sosyal yardım programlarının aylık ödemeleri artırıldı",
-  "link": "https://www.aa.com.tr/tr/gundem/sosyal-yardim-programlarinin-aylik-odemeleri-artirildi/3987314",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Memur maaş katsayısındaki düzenleme sonrasında Evde Bakım Yardımı 15.755 TL'ye, SED ödemesi 11.038 TL'ye yükseltildi.",
-  "metric": "Evde Bakım Yardımı: 15.755 TL; SED ödemesi: 11.038 TL",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-06T12:01:18.065148+00:00",
-  "type": "news",
-  "cluster_id": "c8ef7293b6aef"
- },
- {
-  "title": "Sosyal yardım ödemeleri artırıldı",
-  "link": "https://www.trthaber.com/haber/ekonomi/sosyal-yardim-odemeleri-artirildi-950392.html",
-  "source": "TRT Haber",
-  "summary_tr": "Memur maaş katsayısı düzeltmesiyle Evde Bakım Yardımı 15.755 TL'ye, SED ödemesi 11.038 TL'ye çıkarıldı.",
-  "metric": "Evde Bakım Yardımı: 15.755 TL; SED: 11.038 TL",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-06T12:01:18.065148+00:00",
-  "type": "news",
-  "cluster_id": "c8ef7293b6aef"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan'ın NATO Zirvesi öncesi diplomasi trafiği başladı",
-  "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdoganin-nato-zirvesi-oncesi-diplomasi-trafigi-basladi-950393.html",
-  "source": "TRT Haber",
-  "summary_tr": "NATO Zirvesi öncesinde Cumhurbaşkanı Erdoğan, Bulgaristan Başbakanı Radev ile görüştü.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-06T12:01:18.065148+00:00",
-  "type": "news",
-  "cluster_id": "cf5ad329d5460"
- },
- {
-  "title": "NATO Genel Sekreteri Rutte Ankara'da",
-  "link": "https://www.trthaber.com/haber/dunya/nato-genel-sekreteri-rutte-ankarada-950389.html",
-  "source": "TRT Haber",
-  "summary_tr": "NATO Genel Sekreteri Mark Rutte, NATO Zirvesi için Ankara'ya geldi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-06T12:01:18.065148+00:00",
-  "type": "news",
-  "cluster_id": "cb9c42db7a476"
  }
 ]
