@@ -1,5 +1,65 @@
 [
  {
+  "title": "Türkiye'nin Karadeniz teklifi Rusya'yı çılgına çevirdi",
+  "link": "https://www.sozcu.com.tr/turkiye-nin-karadeniz-teklifi-rusya-yi-cilgina-cevirdi-p344352",
+  "source": "Sözcü",
+  "summary_tr": "Dışişleri Bakanı Hakan Fidan'ın Karadeniz seyrüsefer güvenliği ve enerji altyapılarına yönelik teklifi Rusya'yı tepki göstermesine neden oldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-11T10:01:09.340780+00:00",
+  "type": "news",
+  "cluster_id": "c8c4ca329a3b4"
+ },
+ {
+  "title": "Trump, İran konusunda müzakere, askeri ve ekonomik baskı seçenekleri olduğunu belirtti",
+  "link": "https://www.aa.com.tr/tr/dunya/trump-iran-konusunda-muzakere-askeri-ve-ekonomik-baski-secenekleri-oldugunu-belirtti/4024017",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Trump, İran konusunda müzakere, saldırı artırma veya ekonomik baskı seçenekleri olduğunu belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-11T10:01:09.340780+00:00",
+  "type": "news",
+  "cluster_id": "cb4196920de2b"
+ },
+ {
+  "title": "Ukrainian military says it attacked oil refinery in Russia's Orsk",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVEQwVHhsc1RpSXlkM3llOUlsR1RmN1dtZ0V5SmJHdDlzQjJaaEVQSnFTUmlYQnh3SEVSSXlDYkxYMVFubXpNYlpGOGFIWGdlY0M0ZjJDNEJMM29qdE4wZTNnZUhINmF3MHo4ZEtwdjlIeVBSSGkwSVpYejY3SGFDaElCRnh6QjRUaFhSTjVEbkZVZ2RqN1JpRmpTR0lNVVFPVEhhOWVoVmtkWldqN1p1dmJWaw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ukrayna ordusu, Rusya'nın Orsk şehrindeki bir petrol rafinerisine saldırı düzenlediklerini duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-11T10:01:09.340780+00:00",
+  "type": "news",
+  "cluster_id": "c50f5114e183e"
+ },
+ {
+  "title": "Cumhur İttifakı 'çerçeve yasa'da fire verdi: 9 milletvekilinin oylamaya katılmadığı ortaya çıktı!",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/cumhur-ittifaki-cerceve-yasa-da-fire-verdi-9-milletvekilinin-oylamaya-katilmadigi-ortaya-cikti-2528205",
+  "source": "Cumhuriyet",
+  "summary_tr": "TBMM'de '2. Açılım Süreci' kapsamında hazırlanan 'çerçeve yasa' 467 oyla kabul edildi; Cumhur İttifakı'ndan 9 milletvekili oylamaya katılmadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-11T10:01:09.340780+00:00",
+  "type": "news",
+  "cluster_id": "c5dde19c6d006"
+ },
+ {
+  "title": "Konya Kapalı Havzası'nda 739 obruk tespit edildi",
+  "link": "https://www.trthaber.com/haber/turkiye/konya-kapali-havzasinda-739-obruk-tespit-edildi-953636.html",
+  "source": "TRT Haber",
+  "summary_tr": "AFAD'ın Obruk Duyarlılık Haritası çalışmasında Konya, Karaman ve Aksaray'da 739 obruk tespit edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-11T10:01:09.340780+00:00",
+  "type": "news",
+  "cluster_id": "c581360be2bf9"
+ },
+ {
   "title": "Petrol yerinde durmuyor! 90 doları test etti",
   "link": "https://www.sozcu.com.tr/petrol-yerinde-durmuyor-90-dolari-test-etti-p344337",
   "source": "Sözcü",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-06T09:01:10.038401+00:00",
   "type": "news",
   "cluster_id": "c740a2cedd6ab"
- },
- {
-  "title": "İmamoğlu üç davada yargılanıyor (CANLI BLOG)",
-  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sSFV4dXhvc09kS1RSdXFpUGVTY1oyaDVkcS1Wc0k1WnRza29FV1VQaHJ3U3ZVckxqNzlLNWt2NTBuZFdBNHNpNnZMOGdDUGwzOWpqNjZscjBKQWtzeXJHcEZsTWFSVkhveWZlcE9Xa1N3ekE?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Ekrem İmamoğlu üç davada yargılanıyor; canlı blog haberin gelişmelerini takip ediyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-06T09:01:10.038401+00:00",
-  "type": "news",
-  "cluster_id": "c25e3caee171e"
- },
- {
-  "title": "İmamoğlu'nun diploma davası: Gerekçeli karar UYAP'a yüklendi",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdEdVQzQ5aVl4UVkyZmRIanhiOUtONGpyN2F6MTNNWWkwUUhkQ1RBVVl5cWVSTUZFQmxnREtMQW5LdXJ4c2JYTUFQTm9UMUZiSGFzT083d2RReEY2VngtNlV0eE5NaDd4a0Q5UUlaQUlWVHBhYWkwTzdIcDlzQmhxcDRtSXYtcUdfaThGSGZDd1V6cFBSSVQ0TUZMbw?oc=5",
-  "source": "soL",
-  "summary_tr": "İmamoğlu'nun diploma davası gerekçeli kararı UYAP'a yüklendi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-06T09:01:10.038401+00:00",
-  "type": "news",
-  "cluster_id": "cc49e2b1b53bc"
- },
- {
-  "title": "Bedelli askerlik ücreti ne kadar oldu? 2026 Bedelli askerlik ücretine ne kadar zam geldi?",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/bedelli-askerlik-ucreti-ne-kadar-oldu-2026-bedelli-askerlik-ucretine-ne-kadar-zam-geldi-2518396",
-  "source": "Cumhuriyet",
-  "summary_tr": "2026 bedelli askerlik ücreti TÜİK'in haziranki açıklamasına göre belirlendi; zam oranı hakkında detaylar bekleniyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-06T08:01:16.955487+00:00",
-  "type": "news",
-  "cluster_id": "c417cdef41e2c"
- },
- {
-  "title": "China test fires missile into Pacific, alarming regional powers",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONHN3R1NZdmtSRi0yZWF1cGt2a3FyVG9qVkJBMkpZUktxZXNYV0tSTXFrdkplR3RsSDdyekFCZGsxODgzR3pjRGxzS2lZVkI4Q1Vvb1VuVm5fb2JXSDdlTEZqZzlxNlJpdHNxQUZNdmJXRzVZdjhPSTRtelE3LXdpZ0h6d0cxRlB3aUh5N1BOS2sxeHFOMUhrMzBTd1hfVS1OZEtHNXY2S01qd3RyOFZF?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Çin, Pasifik'e füze fırlattı; bölge ülkeleri alarm durumundadır.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-06T08:01:16.955487+00:00",
-  "type": "news",
-  "cluster_id": "c2114e5cde6ef"
- },
- {
-  "title": "NATO’nun Türkiye üzerinden Orta Doğu açılımı ve Trump’ın iki görüşmesi",
-  "link": "https://yetkinreport.com/2026/07/06/natonun-turkiye-uzerinden-orta-dogu-acilimi-ve-trumpin-iki-gorusmesi/",
-  "source": "YetkinReport",
-  "summary_tr": "NATO Ankara Zirvesi'nde Batı ittifakı üyelerin askeri harcamalarını artırmasını öncelik olarak isteyecek; Trump'ın iki görüşmesi de gündeme alınacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-06T08:01:16.955487+00:00",
-  "type": "news",
-  "cluster_id": "cb59c88f532e9"
  }
 ]
