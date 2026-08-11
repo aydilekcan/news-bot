@@ -1,5 +1,17 @@
 [
  {
+  "title": "Şimşek'li 3 yılda dünyadan koptuk",
+  "link": "https://www.sozcu.com.tr/simsek-li-3-yilda-dunyadan-koptuk-p344205",
+  "source": "Sözcü",
+  "summary_tr": "Mehmet Şimşek'in 3 yıllık yönetiminde Türkiye ile dünya arasında fiyat farkı açıldı; gıda başta olmak üzere günlük yaşam maliyetleri önemli ölçüde arttı.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-08-11T01:01:02.357780+00:00",
+  "type": "news",
+  "cluster_id": "cebe90fc193a8"
+ },
+ {
   "title": "Meclis Terörsüz Türkiye yol haritası yasasını açık fakla kabul etti",
   "link": "https://yetkinreport.com/2026/08/11/meclis-terorsuz-turkiye-yol-haritasi-yasasini-acik-fakla-kabul-etti/",
   "source": "YetkinReport",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-05T23:01:00.477027+00:00",
   "type": "news",
   "cluster_id": "c3a0c88ab3523"
- },
- {
-  "title": "X kararı uyguladı: Sol Haber'in hesabı 'görünmez' hale getirildi",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/x-karari-uyguladi-sol-haber-in-hesabi-gorunmez-hale-getirildi-2518325",
-  "source": "Cumhuriyet",
-  "summary_tr": "X platformu, 'milli güvenlik ve kamu düzeni' gerekçesiyle Sol Haber hesabına erişim engeli getirdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-05T22:01:04.235197+00:00",
-  "type": "news",
-  "cluster_id": "cbe55b7ab8f5f"
  }
 ]
