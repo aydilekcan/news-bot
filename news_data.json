@@ -1,5 +1,29 @@
 [
  {
+  "title": "Yoksulluğun fotoğrafı",
+  "link": "https://www.sozcu.com.tr/yoksullugun-fotografi-p344206",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye'de dar gelirli ailelerin sofrasından kırmızı et her geçen gün uzaklaşıyor. Gıda fiyatlarındaki artış yoksulluğu derinleştiriyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-11T02:01:09.387553+00:00",
+  "type": "news",
+  "cluster_id": "c2cb59d2f7f76"
+ },
+ {
+  "title": "Libya's NOC warns of force majeure, Zawiya refinery shutdown if drone attacks continue",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaXltbWpibFBieFlGQi1PQXlTWktFYXdFSENITmhTenpTVFhpSkhhMG1CMUJKTXo4VUdDX29YdVpmRHViaHowb3k0WjE1ajdjM0JldlRVN0ZVZVlMYU5HaXFlVWlqcmQ5Uk9JbWxsUkhVVUlFSzlMUFNnSnJyNnBhQkR1WVV6UjJFenJPaVNSVVh0YUpwUkduWTFXSkhEMW9IeVhJMFpB?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Libya Ulusal Petrol Korporasyonu, insansız hava aracı saldırıları devam ederse Zeviye rafinerisinin kapatılacağını ve işletme karşıtı durum ilan edeceğini uyardı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-11T02:01:09.387553+00:00",
+  "type": "news",
+  "cluster_id": "c33114b600c89"
+ },
+ {
   "title": "Şimşek'li 3 yılda dünyadan koptuk",
   "link": "https://www.sozcu.com.tr/simsek-li-3-yilda-dunyadan-koptuk-p344205",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-06T00:01:00.975366+00:00",
   "type": "news",
   "cluster_id": "cadb82f43af73"
- },
- {
-  "title": "Gerçek işsizlik oranı: %31",
-  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTDFubktaNWYwMVZZT0hRNlkxazVvanAtbWpvM21uWjVrcnBXNmlpZjVWRnJhajNsVUtfRmVBMTVEWWRYb2V3a25wbFYtQ1hXa0lSNzRiRXNDR3RKbVE3VVgwT0tkc1VqOG1BT2g3RUNKUklST0RuRzR6WmJyUGJNUm83LTJQd0VUeS1GTF9FeUY?oc=5",
-  "source": "TUIK",
-  "summary_tr": "%31",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-07-06T00:01:00.975366+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "#kiraya çıkma maliyeti",
-  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjWlU0R1NTLXB0NlU3RDY1bS12V09ydmlKMFJsUEVzekJaRFBnVEc3cThSX1Z0SGFuMm5rdHBMbTJuY2Rwb09YUW41TU9TY0dnV05WZmtkbWdyampGWnVVaHl6RWFmNXNCOFJyNkVMYjkwdw?oc=5",
-  "source": "T24",
-  "summary_tr": "Kira maliyeti konusu ele alındı; gayrimenkul ve yaşam maliyetine ilişkin haber.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-05T23:01:00.477027+00:00",
-  "type": "news",
-  "cluster_id": "c3a0c88ab3523"
  }
 ]
