@@ -1,5 +1,53 @@
 [
  {
+  "title": "İran: Hürmüz Boğazı'nın açılması, ABD'nin tutumunu değiştirmesine ve şartlarımızı kabul etmesine bağlı",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazinin-acilmasi-abdnin-tutumunu-degistirmesine-ve-sartlarimizi-kabul-etmesine-bagli/4024508",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Ulusal Güvenlik Yüksek Konseyi, Hürmüz Boğazı'nın açılmasını ABD'nin şartlarını kabul etmesine bağlı kıldığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-11T17:01:06.919671+00:00",
+  "type": "news",
+  "cluster_id": "ce2358f37a48b"
+ },
+ {
+  "title": "Pakistan says US and Iran close to 'some sort' of deal despite attacks on shipping",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzI4ZllHeXZmVDVJVE40M0w5NkYtdkFzM0RyYlZvY1pXbEJoc1d4RHNvVWxTem1kMEhGNUxmc0tZZmZ2ZkpZamtDNkd6bjRTVXhCVEF6dGhOSXltR0RQc3RPc0RFUzctZ00xRjAzX0hwNy1oYlU0a0dMYU9iUjdqYXZ4ZWM5YXhBMUhEREduYVo2QkVsT2ktQ19NaFNpUF85TmhFcnF1REktbFZfRklXb0EtbzZsLUZ1Vk53TFRR?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Pakistan, ABD ve İran'ın gemi saldırılarına rağmen bir anlaşmaya yaklaştığını bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-11T17:01:06.919671+00:00",
+  "type": "news",
+  "cluster_id": "c15fc526d3a7a"
+ },
+ {
+  "title": "Bloomberg: Fon yöneticileri SPK'dan daha sert önlemler istiyor",
+  "link": "https://www.diken.com.tr/bloomberg-fon-yoneticileri-spkdan-daha-sert-onlemler-istiyor/?utm_source=rss&utm_medium=rss&utm_campaign=bloomberg-fon-yoneticileri-spkdan-daha-sert-onlemler-istiyor",
+  "source": "Diken",
+  "summary_tr": "Yatırım fon yöneticileri SPK'dan daha sert finansal önlemler istiyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-11T17:01:06.919671+00:00",
+  "type": "news",
+  "cluster_id": "c096e7a1d955f"
+ },
+ {
+  "title": "Rusya'nın federal bütçe açığı yaklaşık 79 milyar dolara çıktı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/rusyanin-federal-butce-acigi-yaklasik-79-milyar-dolara-cikti/4024497",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Rusya'nın federal bütçe açığı ocak-temmuz 2026'de 6,5 trilyon rubleye (79 milyar dolar) ulaştı, bir önceki yılın aynı dönemine göre %32,3 arttı.",
+  "metric": "Rusya bütçe açığı 2025 -> 2026 (+%32,3)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-11T17:01:06.919671+00:00",
+  "type": "news",
+  "cluster_id": "cfd40d68f7528"
+ },
+ {
   "title": "Four crew killed in Red Sea attack while missile strike reported in Gulf",
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXg2TDlnMzVlaTc1d1hoaFVFTG91b29XZzlBMC1hNGZ1REtpdDlTLXZFcGF5Mjg0N1ZvaVpSZlpEYkR6TUM1Mktja1k2TDdIVGlBZHBrMEFGdHNXSFFQV0s0eEY3aHRBcXNxa3FKUkR6Y1RmSVZOS0lwbGVZTVFKX3VUMzU5c2wwZ2VjZ1pqWU1PeDNhb0lOeFlzcDFnN1lS?oc=5",
   "source": "Reuters",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-06T13:01:09.645800+00:00",
   "type": "news",
   "cluster_id": "caff978f6eebf"
- },
- {
-  "title": "Societe Generale'den dolar tahmini: 2026'nın ikinci yarısı nasıl geçecek?",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/societe-generale-den-dolar-tahmini-2026-nin-ikinci-yarisi-nasil-gececek-2518491",
-  "source": "Cumhuriyet",
-  "summary_tr": "Societe Generale, doların 2026'nın ikinci yarısında küresel piyasalarda güçlü kalacağını tahmin ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-06T13:01:09.645800+00:00",
-  "type": "news",
-  "cluster_id": "ce5e8d6785d46"
- },
- {
-  "title": "Veriler açıkladı: Tüketici büyük harcamaları indirim dönemine erteliyor",
-  "link": "https://www.cumhuriyet.com.tr/yasam/veriler-acikladi-tuketici-buyuk-harcamalari-indirim-donemine-erteliyor-2518489",
-  "source": "Cumhuriyet",
-  "summary_tr": "Tüketici verileri, vatandaşların temel ihtiyaçları hızla karşıladıktan sonra büyük harcamaları indirim dönemine ertelediğini gösteriyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-06T13:01:09.645800+00:00",
-  "type": "news",
-  "cluster_id": "c71d4c31f8b3f"
- },
- {
-  "title": "TL'nin değeri haziranda geriledi",
-  "link": "https://www.sozcu.com.tr/tl-nin-degeri-haziranda-geriledi-p334219",
-  "source": "Sözcü",
-  "summary_tr": "Türk lirasının reel efektif döviz kuru haziranda 0,8 puan azalarak 104,90'a indi.",
-  "metric": "REK endeksi: 104,90 (-0,8 puan)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-06T13:01:09.645800+00:00",
-  "type": "news",
-  "cluster_id": "c30e70e9eb842"
- },
- {
-  "title": "Zelenskiy'den NATO'ya: Acil hava savunması gönderin",
-  "link": "https://www.dw.com/tr/zelenskiy-den-nato-ya-acil-hava-savunması-gönderin/a-77850395?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Zelenskiy, Kiev'in yoğun Rus saldırılarının ardından NATO'dan acil hava savunma sistemi göndermesini talep etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-06T12:01:18.065148+00:00",
-  "type": "news",
-  "cluster_id": "cec7d2eef1632"
  }
 ]
