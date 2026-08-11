@@ -1,5 +1,77 @@
 [
  {
+  "title": "CENTCOM: 'İran ablukasını ihlal etmeye çalışan ticari gemiyi füzelerle durdurduk'",
+  "link": "https://www.cumhuriyet.com.tr/dunya/centcom-iran-ablukasini-ihlal-etmeye-calisan-ticari-gemiyi-fuzelerle-durdurduk-2528372",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD CENTCOM, İran'a yönelik ticari gemiyi füzelerle vurduğunu açıkladı; jeopolitik gerilim artışı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-11T21:01:08.334570+00:00",
+  "type": "news",
+  "cluster_id": "ca7260d2051c6"
+ },
+ {
+  "title": "İsrail ordusu, işgal altındaki Batı Şeria'da 2 beldeyi \"kapalı askeri bölge\" ilan etti",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-isgal-altindaki-bati-seriada-2-beldeyi-kapali-askeri-bolge-ilan-etti/4024634",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusu, Batı Şeria'nda 2 beldeyi 'kapalı askeri bölge' ilan etti; Filistin-İsrail gerilimi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-11T21:01:08.334570+00:00",
+  "type": "news",
+  "cluster_id": "c070324958123"
+ },
+ {
+  "title": "Cevdet Yılmaz: Türkiye, terör meselesini çözme yolunda çok önemli bir fırsat yakalamıştır",
+  "link": "https://www.trthaber.com/haber/gundem/cevdet-yilmaz-turkiye-teror-meselesini-cozme-yolunda-cok-onemli-bir-firsat-yakalamistir-953690.html",
+  "source": "TRT Haber",
+  "summary_tr": "Cumhurbaşkanı Yardımcısı, terör kaynaklı ekonomik kaybı (2,3 trilyon dolar) vurgulayarak çözüm fırsatını değerlendirdi.",
+  "metric": "Terör maliyeti: 2,3 trilyon dolar",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-11T21:01:08.334570+00:00",
+  "type": "news",
+  "cluster_id": "c23626c71617a"
+ },
+ {
+  "title": "MHP'li Yıldız yayına 'özel not' gönderdi: Selahattin Demirtaş yasa kapsamında mı?",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/mhp-li-yildiz-yayina-ozel-not-gonderdi-selahattin-demirtas-yasa-kapsaminda-mi-2528374",
+  "source": "Cumhuriyet",
+  "summary_tr": "MHP Genel Başkan Yardımcısı Selahattin Demirtaş'ın yasa kapsamında olup olmadığına dair soru yöneltti.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-11T21:01:08.334570+00:00",
+  "type": "news",
+  "cluster_id": "cdcdfc55cf254"
+ },
+ {
+  "title": "Erkan Baş’tan maden işçilerinin gözaltına alınmasına tepki",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/erkan-bas-tan-maden-iscilerinin-gozaltina-alinmasina-tepki-2528370",
+  "source": "Cumhuriyet",
+  "summary_tr": "TİP Genel Başkanı, ücretlerini alamayan maden işçilerinin gözaltına alınmasını eleştirdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-11T21:01:08.334570+00:00",
+  "type": "news",
+  "cluster_id": "c6b6db6184cc0"
+ },
+ {
+  "title": "Türkiye, Kolombiya'nın \"işgal altındaki Golan Tepeleri'nde İsrail egemenliğini tanıyan\" kararını kınadı",
+  "link": "https://www.aa.com.tr/tr/gundem/turkiye-kolombiyanin-isgal-altindaki-golan-tepelerinde-israil-egemenligini-taniyan-kararini-kinadi/4024665",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Dışişleri Bakanlığı, Kolombiya'nın Golan Tepeleri'nde İsrail egemenliğini tanıma kararını kınadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-11T21:01:08.334570+00:00",
+  "type": "news",
+  "cluster_id": "ce078741ae987"
+ },
+ {
   "title": "Trump ile Putin görüştü: Rusya'da tutuklu bulunan ABD vatandaşı serbest bırakıldı",
   "link": "https://www.cumhuriyet.com.tr/dunya/trump-ile-putin-gorustu-rusya-da-tutuklu-bulunan-abd-vatandasi-serbest-birakildi-2528366",
   "source": "Cumhuriyet",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-06T15:01:18.978002+00:00",
   "type": "news",
   "cluster_id": "c81e21c835b6d"
- },
- {
-  "title": "Microsoft 4 bin 800 çalışanını işten çıkarıyor",
-  "link": "https://www.aa.com.tr/tr/ekonomi/microsoft-4-bin-800-calisanini-isten-cikariyor/3987628",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Microsoft, değişen sektör dinamikleri doğrultusunda küresel iş gücünün %2,1'ine (4.800 kişi) karşılık gelen işten çıkarma gerçekleştiriyor.",
-  "metric": "Microsoft işten çıkarma oranı ~%2,1 (4.800 kişi)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-06T15:01:18.978002+00:00",
-  "type": "news",
-  "cluster_id": "c5d25a55e7099"
- },
- {
-  "title": "Zelenskiy’den Ankara Zirvesi öncesi NATO’ya Patriot baskısı",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc25aN2ZfNjlvY0laRkNfM3Jra2RHbnNDMG9uNDFQcXlUaG5xYmctTkstQTJyQ2dfSkE0Mk5qUVR4Z3JNU0hadnJvTTdYblZhVV9jWGViRmRuLU1TVEcycU5QenF4Z0h6RWFsOWJEUy1peWhMa0pqSWpEN3ZJUHVyal9hRDN3QkFHeDFsdHFHM3dwajdxSUdCOEZoTQ?oc=5",
-  "source": "soL",
-  "summary_tr": "Zelenskiy, NATO Ankara Zirvesi öncesinde Ukrayna'ya Patriot sistemleri sağlanması için NATO'ya baskı uyguladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-06T15:01:18.978002+00:00",
-  "type": "news",
-  "cluster_id": "c57466f5144e0"
- },
- {
-  "title": "Microsoft joins AI-driven tech layoff wave with 4,800 job cuts",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjdJSlpLcUl6ZjVHNk80NEd0VFVkWjJzUTJPYUNBUjFjUjQySmFFblBYRFFKemFZR3FER2FuUlVUR2UzMXV5bnJ4VDY1R2Rpb3FpX2xlelMyMzJUd0tySzJmRTlDeUl1ZU82a3JsYjUtNVUtLXVic09jdktfZWpzSjgwOW5uakQxYXdFRlk3NDd1ZEI5WktfT0pZdmNyVjlyNkVqR3VGVWF4Ums5TExLRUxUT3FPTnVZXzNETw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Teknoloji devi Microsoft, yapay zeka odaklı işçi çıkarma dalgasına katılarak 4.800 çalışanını işten çıkarıyor.",
-  "metric": "Microsoft işten çıkarma sayısı 4.800 kişi (~%2,1)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-06T15:01:18.978002+00:00",
-  "type": "news",
-  "cluster_id": "c34ebc6b996a6"
- },
- {
-  "title": "Hamas dissolves Gaza government, presses for progress on stalled peace plan",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFo2LTlqNk9aYUFPVWY4LWtLZFVranB4RHp3SEJNaXd2VzNjWUtWUUs0TkktQnVET2N6YndZMDBzY2MwYXQ0NnVmU0lmUC1Ga3dRcWZXSXZQaVBxdWRFM3VtNUktWEZiMFA4RUNERmJoRHFOUFRoZ1hDUjlBdnhBNnJIZUdWdlRLYVRoSkcxRkdmZnV4dDc2Ykt5cmI4R3JhNmRrMlhoeTRiYUkzVGhtemRsbXNXcjFDVlV3bS1n?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Hamas, Gazze hükümetini feshederek durmuş barış planı konusunda ilerleme kaydedilmesi için baskı yapıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-06T15:01:18.978002+00:00",
-  "type": "news",
-  "cluster_id": "c65981861fda7"
- },
- {
-  "title": "Rutte'ye Ankara'da Hollandalı gazeteciden 'Deniz Göktaş' sorusu! İktidara örtülü demokrasi eleştirisi",
-  "link": "https://www.sozcu.com.tr/rutte-den-ankara-da-iktidara-ortulu-elestiri-medya-onemli-toplantilara-katilabilmeli-p334242",
-  "source": "Sözcü",
-  "summary_tr": "NATO Genel Sekreteri Rutte, Ankara'da basın toplantısında Türkiye'de demokrasi konusunda sorular alırken Deniz Göktaş davası ile ilgili eleştiriler dile getirildi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-06T15:01:18.978002+00:00",
-  "type": "news",
-  "cluster_id": "c804907fbf933"
- },
- {
-  "title": "EXCLUSIVE: War threatens Russian banking crisis, European intelligence report says",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQazdDNzBMUFc4X3E5TEtkV2tVQ2V1QzZZSjlkbjNWS25MZ0NpWUF6OWRuNDAtcGl4TjNicmlVU2hYam1xZzBXWkVscHNzc0lWRTNQY3BGYjc1OE9tUGlEZ1h3Y2pla2V2S3V1UEI1TjIyLUlKWGwwcTJnREVfV3MwcGlsTDJUOHJTWm5Sa21JRzlBcnpzTmtnVGF1UnlKQjdoNEhuUmtxS0ZNWlUwc0JqajVuR1ZzQ0hsa1c4ODYzUXg?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Avrupa istihbarat raporuna göre Rusya'da savaş bir bankacılık krizi tehdidi yaratıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-06T14:02:24.187398+00:00",
-  "type": "news",
-  "cluster_id": "cf40c25104996"
  }
 ]
