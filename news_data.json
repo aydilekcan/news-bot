@@ -1,5 +1,17 @@
 [
  {
+  "title": "Petrol yerinde durmuyor! 90 doları test etti",
+  "link": "https://www.sozcu.com.tr/petrol-yerinde-durmuyor-90-dolari-test-etti-p344337",
+  "source": "Sözcü",
+  "summary_tr": "Brent petrolü jeopolitik riskler ve arz endişeleriyle 90 dolar seviyesini test etti.",
+  "metric": "Brent petrol ~90 USD",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-11T09:01:04.438657+00:00",
+  "type": "news",
+  "cluster_id": "c7248d54ceefa"
+ },
+ {
   "title": "Vize randevularında usulsüzlük soruşturmasında çok sayıda gözaltı kararı",
   "link": "https://www.bbc.com/turkce/articles/c2359r4jdzmo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-06T08:01:16.955487+00:00",
   "type": "news",
   "cluster_id": "cb59c88f532e9"
- },
- {
-  "title": "Çin'i darmaduman etsin diye 1.850 kilometre menzilli füze planını devreye aldılar",
-  "link": "https://www.sozcu.com.tr/cin-i-darmaduman-etsin-diye-1-850-kilometre-menzilli-fuze-planini-devreye-aldilar-p334099",
-  "source": "Sözcü",
-  "summary_tr": "ABD, Çin'in lojistik bölgelerine ulaşabilecek 1.850 kilometre menzilli füze planını devreye aldı; askeri denge değişiyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-06T08:01:16.955487+00:00",
-  "type": "news",
-  "cluster_id": "c162476ab2018"
  }
 ]
