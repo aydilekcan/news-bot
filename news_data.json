@@ -1,5 +1,41 @@
 [
  {
+  "title": "Oil prices rise, Asia stocks drift amid US-Iran stalemate",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnpVTlc5WDU3ZUFOMTJjSFRLNGFCWUItblV4clc0UnVXUi05VVBaRkFleHpsdWtmcl9YZDRtN3BkaDhqUy1PTWx1aDhjalNDc09RNGh5eDFYN2FnTGxraUlhRWtFUnl0UTJrbV82Yi1CaFEyNmNwaHlvQVdobElUNEZVaw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD-İran gerilimi ortasında petrol fiyatları yükselirken, Asya borsaları düşüş gösteriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-11T04:01:00.387074+00:00",
+  "type": "news",
+  "cluster_id": "cecbdbc8a0cf2"
+ },
+ {
+  "title": "Gold gains for third session, inflation reports in focus",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ3pfajk5NldmMDliSlhNU3ZYd1J6UGt3cWM4ZHBzTkxnYTVGbnVWU0ZOVFFqLUk2eFYyQnhxdUxiUFp5Y0lXTnpEOGIwMHBveTR5bzBvZmxjWTA4TmR6OUt0U1ZSd2V0dDhkMlg4TkpFdlFCSEtJN3BXYXJQMFZLZDgyZjR6UTRXeU5fRFZ1MHM1WXpCMEtTOF9CNmptQTJmNzBQN1JyMA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Altın üçüncü günü kazançlı seyrederken, enflasyon raporları piyasaların odak noktası.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-11T04:01:00.387074+00:00",
+  "type": "news",
+  "cluster_id": "cbdc017406384"
+ },
+ {
+  "title": "Sanayi üretim endeksi (yıllık): -1,4% (Haziran)",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbS1xb2xQc0VqVkVqSlo0WjZzenAtVVZxMnE3NDRMMTdBWG43X2tPb3lDMVdITmlFTnpfVFg0ZFJIWE5LcE10b25mTzhhVVFzSUVCckdKc3lnWTB4bkt2Sk04aElONnpoeDdadDFXdTgtN0hHMHFmdHUwaXBlZ1hBNzZ1RWFnTkg2dHF1Z0VITHZoLWJzNkx3VklTeVlSekwxMVlwOVRaUUhweGNMSG40ZGlTV3NWejNuVFE?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%6 → -1,4% (-7,4 puan)",
+  "metric": "-7,4 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-11T04:01:00.387074+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Rusya'daki tek savaş karşıtı partinin seçime girmesi mahkeme kararıyla yasaklandı",
   "link": "https://www.bbc.com/turkce/articles/cdx8d5w5gpno?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-06T03:01:04.775197+00:00",
   "type": "news",
   "cluster_id": "c89cde8227be1"
- },
- {
-  "title": "Russian attack on Kyiv kills three, hits apartments, other buildings",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVHY0emVJd3h3VUdFQlJhMWNwckpjWGU4M2pvWmgxazFCNF9mWnhqeWhVS0RDbjFsSmVpZVZ6NUpkWlBNbk5OeG40a3JoOXVzb2thM1ZKWHJRQk5kTGU4d3ROYnhKUEhjOE5zR21fWlJrNWN3TXMxeENqaFdOa1BPMThtZFZlWjZWaElqTDNYWk8xcG5kblE4cW9ZeDRpTmZj?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Rusya Kyiv'e saldırı düzenleyerek 3 kişiyi öldürdü ve apartmanlar ile diğer yapıları vurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-06T03:01:04.775197+00:00",
-  "type": "news",
-  "cluster_id": "c80a6d3cb119a"
- },
- {
-  "title": "Emekli olursan fakirleşirsin",
-  "link": "https://www.sozcu.com.tr/emekli-olursan-fakirlesirsin-p334018",
-  "source": "Sözcü",
-  "summary_tr": "Memurlar emeklilik hakkına rağmen gelir kaybı endişesiyle görevden ayrılıyor; DMS Başkanı emeklilikte fakirleşme uyarısı yapıyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-06T03:01:04.775197+00:00",
-  "type": "news",
-  "cluster_id": "c4c104aa92e3c"
- },
- {
-  "title": "Oil slips after OPEC+ agrees to raise output targets",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZkI2QThocHlWRUVKSHgtb2N1WmlUX2hDQ3MxZloycVItY3d4N2Nub2FTbWYzd1hPTlZXa2VPdEhfTGgxU2g3UlBrS0VvemRZTnI2SU9HZklMOEt4d2h1U1U2ZkpZT3dscE5SRzMtTHNqVXRGcy0yaWdXU3JxemdJRWNITEhVSkFSQnV0dnhKWlJWcF8xVWhNb0k4M1FaMDNtaHc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "OPEC+ üretim hedeflerini artırma kararının ardından petrol fiyatları geriledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-06T03:01:04.775197+00:00",
-  "type": "news",
-  "cluster_id": "c7d06118d51ab"
  }
 ]
