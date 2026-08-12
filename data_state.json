@@ -27,8 +27,8 @@
   },
   "tr_dis_ticaret_haddi": {
    "value": "90,1",
-   "period": "Nisan 2026",
-   "ts": "2026-06-21T11:01:14.970464+00:00",
+   "period": "",
+   "ts": "2026-08-12T08:01:50.707795+00:00",
    "indicator_tr": "Dış ticaret haddi"
   },
   "tr_sanayi_uretim_endeksi_yillik": {
@@ -44,9 +44,9 @@
    "indicator_tr": "Politika faizi (bir hafta vadeli repo ihale faizi)"
   },
   "tr_ihracat_birim_deger_endeksi_aylik": {
-   "value": "%13,7",
-   "period": "Nisan",
-   "ts": "2026-06-17T06:01:53.430162+00:00",
+   "value": "%12,6",
+   "period": "Haziran",
+   "ts": "2026-08-12T08:01:50.707795+00:00",
    "indicator_tr": "İhracat birim değer endeksi (aylık)"
   },
   "tr_issizlik_genis_tanim": {
@@ -965,6 +965,12 @@
   "df8a8f0f7fe3eab84d0a59c23625f15b": "2026-08-12T07:01:08.659999+00:00",
   "bc64e4495f5ca3ba2738d5f7bcf2ae9a": "2026-08-12T07:01:08.659999+00:00",
   "17867bceddd9b5134061eb80b30dd9ad": "2026-08-12T07:01:08.659999+00:00",
-  "1fd880caab7994f1726594c97b1f5f77": "2026-08-12T07:01:08.659999+00:00"
+  "1fd880caab7994f1726594c97b1f5f77": "2026-08-12T07:01:08.659999+00:00",
+  "f32e3d166628cdf66cb6f3cf8c68e091": "2026-08-12T08:01:20.282386+00:00",
+  "d4cb4ec64f022cbfc520b57b75ce055c": "2026-08-12T08:01:20.282386+00:00",
+  "b442b2080765c560a47a881b7ea429be": "2026-08-12T08:01:20.282386+00:00",
+  "2ce02e29a9067825e3231eeb5d830069": "2026-08-12T08:01:20.282386+00:00",
+  "5c0ed7ded79a7c729a4cb59b2cd018ff": "2026-08-12T08:01:20.282386+00:00",
+  "7cca394b6709a69dcd843fa702fcf18b": "2026-08-12T08:01:20.282386+00:00"
  }
 }
