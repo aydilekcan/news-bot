@@ -1,5 +1,29 @@
 [
  {
+  "title": "Dev spor salonu zinciri iflas etti",
+  "link": "https://www.sozcu.com.tr/dev-spor-salonu-zinciri-iflas-etti-p346715",
+  "source": "Sözcü",
+  "summary_tr": "F45 Training'in ABD'de 31 stüdyo işleten franchisı iflas etti; fitness sektöründe kriz derinleşiyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-12T12:01:09.398851+00:00",
+  "type": "news",
+  "cluster_id": "ca63aa86c8abc"
+ },
+ {
+  "title": "TÜFE (aylık): %1,78 (Temmuz)",
+  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDUTJMWHRrd3pWc0ZTUUpfLUhxY1ZEY3RQenBtaVBON0FIN2ZpSUUtYk1lSEhvLWhxV0lZWUhKcy13OWpacU5uQXUxdFNST3k0M2c?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%1,78 → %1,78",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-12T12:01:09.398851+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "TRT: Motorine bu gece ÖTV indirimi geliyor",
   "link": "https://www.diken.com.tr/trt-motorine-bu-gece-otv-indirimi-geliyor/?utm_source=rss&utm_medium=rss&utm_campaign=trt-motorine-bu-gece-otv-indirimi-geliyor",
   "source": "Diken",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-07T08:01:16.742173+00:00",
   "type": "news",
   "cluster_id": "c23fa62f320dd"
- },
- {
-  "title": "US in talks on Europe missile co-production, source says",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc0U3ajNWeU9KcGJxQkgxVjZna2NGTVg5MUt5anRKZzNnMVc1RS1abVJUVEtLNWpRMWJRcURhM2ltU3N4LTlPeHlxenVUb1pRN0lJZDM1Y0x5RTlTcmlPTTB1UFp4QXVNdkgyejJOVlZNdEhZTXlxZHNOeDFHbUI1TjRrckx5YmhLNjhvcGFzY2ZUU1lfSU93dEJubG84QU41OUE5aEtWSlZ1M0pDTTRjMWNB?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, Avrupa ile füze ortak üretimi konusunda görüşmelere giriyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-07T08:01:16.742173+00:00",
-  "type": "news",
-  "cluster_id": "ca82833928b80"
- },
- {
-  "title": "Trump expected to support potential sale of F-35 jets to Turkey, sources say",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQemNEWDl5ZDlwZkE2b3FaTmdrOWQ2QnZ2QnREZlQyOER3cFJ4aEQyNTA5dk93Y25hQnFQeXpaLUptR012ZXpZNFR6bmd2dUdFMUhaN3ZKa01FRFNGS2YxUkIzSV9OSVpuUUtEWnRLUHkzaDJjdlJvY3VzLTRrX01SYjZNRTF0U3c4T19lRllBN2FQRC16SDdlWFN5b003NHVDUmU3cXVhOWc3XzMya291d1J6Nklfc2NNUmE1alVMYkNSMXJka29Ibg?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, Türkiye'ye F-35 satışını desteklemesinin beklendiği aktarılıyor. Ankara NATO Zirvesinde bu konu gündeme gelebilir.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-07T08:01:16.742173+00:00",
-  "type": "news",
-  "cluster_id": "c49444d21a681"
  }
 ]
