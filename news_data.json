@@ -1,5 +1,41 @@
 [
  {
+  "title": "Oil, gold prices rise as geopolitical tensions mount before CPI",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnAyM2F1aXRKeVZFQU5yVzdLbmplRS1vV28zVXZ0Slo3bmszQjM1enJHU2RlOG5EZWtLYUNmVHdjcHprM19fTnhjUE8tV3VGTFBrelZXM1pOekphNVF1S3EtSTlDcDl5Skw0R19ud3U5NmdhWEk5eVJjV1dudFNhSlhoRQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Jeopolitik gerilimler nedeniyle petrol ve altın fiyatları yükselişe geçti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-12T04:01:00.972510+00:00",
+  "type": "news",
+  "cluster_id": "ce051b0caccb4"
+ },
+ {
+  "title": "North Korea fires missile ahead of major US-South Korea drills",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDVfd0tWeklYMkllazVablhzaXQxcllibnNjZDhBTXpzWWtPLXNMcWpWVUpJeXRQRUZUZ2x4LV9pQ0c5UmVlaWd4eVpYbGlQNHNXYnlYODZSSTB6QlF5Vzc1OEFpc0kwQ1l3V19aQmU0TnRxMk9NWUQxQ21leG9UUEkxNnYwOFhMWlpjdlRKc1BLcUszTzd4Q1JGSzRSNjI2LWx6Yk00SFZXYjA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Kuzey Kore, ABD-Güney Kore ortak askeri tatbikatından önce balistik füze fırlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-12T04:01:00.972510+00:00",
+  "type": "news",
+  "cluster_id": "c244591304dac"
+ },
+ {
+  "title": "ABD Başkanı Trump, müzakereler konusunda İran'a güvenmediğini söyledi",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-muzakereler-konusunda-irana-guvenmedigini-soyledi/4024709",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, İran ile müzakerelere güvenmediğini belirtti ve ülkeyi sürekli yalan söylemekle suçladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-12T04:01:00.972510+00:00",
+  "type": "news",
+  "cluster_id": "c4d985fac5424"
+ },
+ {
   "title": "Akaryakıta dev zam bütçeden karşılandı",
   "link": "https://www.sozcu.com.tr/akaryakita-dev-zam-butceden-karsilandi-p344544",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-06T19:01:10.955015+00:00",
   "type": "news",
   "cluster_id": "cefe8692dad96"
- },
- {
-  "title": "İsrail'den ABD'ye: Türkiye'ye F-35 satmayın",
-  "link": "https://www.dw.com/tr/israil-den-abd-ye-türkiye-ye-f-35-satmayın/a-77856459?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "İsrail Başbakanı Netanyahu, ABD'nin Türkiye'ye F-35 savaş uçağı motorları satmasına karşı çıktı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-06T18:01:01.685416+00:00",
-  "type": "news",
-  "cluster_id": "cb22bce555154"
- },
- {
-  "title": "Trump: (Rusya-Ukrayna savaşı) NATO'ya gideceğiz, konuyu görüşeceğiz ve sanırım bunu başaracağız",
-  "link": "https://www.aa.com.tr/tr/dunya/trump-rusya-ukrayna-savasi-natoya-gidecegiz-konuyu-gorusecegiz-ve-sanirim-bunu-basaracagiz/3987687",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Başkanı Trump, Türkiye'de başlayacak NATO Zirvesi'nde Ukrayna-Rusya arasında anlaşmaya varmak için görüşmelerde bulunacağını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-06T17:01:08.263566+00:00",
-  "type": "news",
-  "cluster_id": "c365532e9149b"
- },
- {
-  "title": "Trump'tan UkraynaRusya mesajı: NATO'ya gideceğiz, konuyu görüşeceğiz",
-  "link": "https://www.trthaber.com/haber/dunya/trumptan-ukrayna-rusya-mesaji-natoya-gidecegiz-konuyu-gorusecegiz-950424.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD Başkanı Trump, NATO Zirvesi'nde Ukrayna-Rusya arasında anlaşmaya varmak için görüşmelerde bulunacağını söyledi.",
-  "metric": "",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-07-06T17:01:08.263566+00:00",
-  "type": "news",
-  "cluster_id": "ca3af0f9f7338"
  }
 ]
