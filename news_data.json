@@ -1,5 +1,65 @@
 [
  {
+  "title": "Kurtulmuş'tan yeni anayasa çıkışı: Meclis aritmetiği müsait",
+  "link": "https://www.dw.com/tr/kurtulmuş-tan-yeni-anayasa-çıkışı-meclis-aritmetiği-müsait/a-78341806?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "TBMM Başkanı Kurtulmuş, Türkiye'nin yeni anayasaya ihtiyaç duyduğunu ve mevcut meclis aritmetiğinin bunu mümkün kıldığını söyledi.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-12T17:01:08.291795+00:00",
+  "type": "news",
+  "cluster_id": "cea31c5bc25c1"
+ },
+ {
+  "title": "Dalaman Belediye Başkanı Sezer Durmuş CHP'den istifa etti: Meclis üyeleri ile beraber YENİ Parti’ye geçti",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/dalaman-belediye-baskani-sezer-durmus-chp-den-istifa-etti-meclis-uyeleri-ile-beraber-yeni-parti-ye-gecti-2528596",
+  "source": "Cumhuriyet",
+  "summary_tr": "Dalaman Belediye Başkanı Sezer Durmuş CHP'den istifa ederek YENİ Parti'ye geçti; 11 meclis üyesi de katıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-12T17:01:08.291795+00:00",
+  "type": "news",
+  "cluster_id": "c5dfac4593930"
+ },
+ {
+  "title": "Dalaman Belediye Başkanı Sezer Durmuş YENİ Parti'ye geçti",
+  "link": "https://www.sozcu.com.tr/dalaman-belediye-baskani-sezer-durmus-yeni-partiye-gecti-p346792",
+  "source": "Sözcü",
+  "summary_tr": "Dalaman Belediye Başkanı Sezer Durmuş CHP'den istifa ederek YENİ Parti'ye katıldı; 11 meclis üyesi de transfer oldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-12T17:01:08.291795+00:00",
+  "type": "news",
+  "cluster_id": "c5dfac4593930"
+ },
+ {
+  "title": "Devlet Bahçeli’den çerçeve yasa açıklaması: “Zaman bizi haklı çıkardı”",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUGdEY0xlcWl4VnJoTEx0SmRuMFREWFFsY2ZURllUSS1oZE9EQWJ4Q0VRUlJUSFNqbHFLMDZKSFctZTVsYlJyQXhVaHBnRjRtMkI3YUNKSTduTEl3NF9lRmNaOTFXMTY5OXk2dllqS1AzcVR4LTlWZTM1WDFkVF95Qg?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "MHP Lideri Devlet Bahçeli, çerçeve yasa hakkında açıklama yaptı; 'zaman bizi haklı çıkardı' dedi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-12T17:01:08.291795+00:00",
+  "type": "news",
+  "cluster_id": "c417369cd3099"
+ },
+ {
+  "title": "Bahçeli’den ‘çerçeve yasa’ açıklaması: ‘Kaybedecek vaktimiz yoktur’",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUS1CcUtQQjFNTWhsWmpFTTk5QlNPYnRrSzc3OWdWSU5FUHJSTGNqdjJWei00T1pMcWVTMEFYajIzUHpaa09DRWFTd3k5MnZQRk9wRm03Zjh6RFBvckdVcHVHRGgzS2FiSWt4YUFPQmRkVVRTMlJkNVBqX1ZoZnZOLThLenBuUlpkVExmVkhpcnJTXzFOOWw4YURHVDBVUVVl?oc=5",
+  "source": "soL",
+  "summary_tr": "Bahçeli, çerçeve yasa konusunda 'kaybedecek vaktimiz yoktur' açıklaması yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-12T17:01:08.291795+00:00",
+  "type": "news",
+  "cluster_id": "c460d3a12aab5"
+ },
+ {
   "title": "Bahçeli: Kanunun kabulü yeni bir safhanın başlangıcı",
   "link": "https://www.diken.com.tr/bahceli-kanunun-kabulu-yeni-bir-safhanin-baslangici/?utm_source=rss&utm_medium=rss&utm_campaign=bahceli-kanunun-kabulu-yeni-bir-safhanin-baslangici",
   "source": "Diken",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-07T13:01:25.414085+00:00",
   "type": "news",
   "cluster_id": "cc872ee79d834"
- },
- {
-  "title": "Dış ticaret mevzuatı ihlalinden uygulanan cezalar: 8,3 milyar lira (6 ay (dönem belirtilmemiş))",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdloxTUUzZnpHeHBxcmJMRzBOSmJfSGpKYjZzWjE3R0E4b1o2WVR4dzVzU2JtdWF2ZHkwcXdqY002b1N3aU1UQXRsUkowdXMxMVFlcWN6SldqYU5Da2Y0dFZHd19WaDZ4SlZyZ3VxS2p3MlByc1lKTGFNVktWT3J4emloTjhtbHN5QjRhZWtTWmhpQm02SnM3UnRaT2FfMGZ4aDl1N01Fb1lveEdZWWFTY0NwU1VscU9ZNDhkZg?oc=5",
-  "source": "Ticaret Bakanlığı",
-  "summary_tr": "8,3 milyar lira",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-07-07T13:01:25.414085+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "NATO Savunma Fuarı: Türkiye ve müttefikler hangi anlaşmalara imza attı?",
-  "link": "https://www.bbc.com/turkce/articles/c4gyj0w77eyo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "NATO Ankara Zirvesi'nde Türkiye ve müttefikler on milyarlarca dolarlık savunma anlaşmaları imzaladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-07T12:01:10.157445+00:00",
-  "type": "news",
-  "cluster_id": "c35f796b4c9c2"
- },
- {
-  "title": "Trump Katar'ın hediyesi Air Force One ile Ankara'ya geldi",
-  "link": "https://www.dw.com/tr/trump-katar-ın-hediyesi-air-force-one-ile-ankara-ya-geldi/a-77862646?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "ABD Başkanı Trump NATO Zirvesi kapsamında Türkiye'ye geldi; Cumhurbaşkanı Erdoğan tarafından karşılandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-07T12:01:10.157445+00:00",
-  "type": "news",
-  "cluster_id": "ce0c5ccbe8456"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump’ı karşıladı",
-  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-abd-baskani-trump-i-karsiladi/3988696",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, NATO Zirvesi öncesi ABD Başkanı Trump'ı karşıladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-07T12:01:10.157445+00:00",
-  "type": "news",
-  "cluster_id": "c419919790cdc"
- },
- {
-  "title": "Kayseri Serbest Bölgesi'nden yılın ilk yarısında 319 milyon doların üzerinde ihracat yapıldı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/kayseri-serbest-bolgesinden-yilin-ilk-yarisinda-319-milyon-dolarin-uzerinde-ihracat-yapildi/3988767",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Kayseri Serbest Bölgesi 2025 ilk yarısında 319 milyon dolardan fazla ihracat yaptı.",
-  "metric": "Kayseri SB ihracatı: 319+ milyon dolar (H1 2025)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-07T12:01:10.157445+00:00",
-  "type": "news",
-  "cluster_id": "ca2c8f670a798"
  }
 ]
