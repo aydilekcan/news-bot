@@ -1,5 +1,77 @@
 [
  {
+  "title": "Akaryakıta dev zam bütçeden karşılandı",
+  "link": "https://www.sozcu.com.tr/akaryakita-dev-zam-butceden-karsilandi-p344544",
+  "source": "Sözcü",
+  "summary_tr": "Akaryakıt zamları durduruldu. Benzine 2 liralık ve dizele 1,5 liralık planlanan zammalar bütçeden karşılanarak uygulanmadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-12T03:01:07.935004+00:00",
+  "type": "news",
+  "cluster_id": "c27875e5e9e44"
+ },
+ {
+  "title": "Hazine dünyanın en pahalı borçlusu",
+  "link": "https://www.sozcu.com.tr/hazine-dunyanin-en-pahali-borclusu-p344541",
+  "source": "Sözcü",
+  "summary_tr": "Hazine bu hafta %41,7 oranında faizle borçlandı. Yüksek faiz oranları bütçe ve vatandaş üzerinde ciddi baskı oluşturuyor.",
+  "metric": "Hazine faiz oranı %41,7",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-12T03:01:07.935004+00:00",
+  "type": "news",
+  "cluster_id": "c228b6c09ea7d"
+ },
+ {
+  "title": "Oil rises as doubts over US-Iran deal heighten supply concerns",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajU2TkE4Zm1kOHlwM2hwX0VXeWJTNkFCblBrN0FuUDNfN1NMRFQ1NE1HREZGVE96UXMyajRlamxJaVZqMGxQNGRyZlBZQ2xnNVNEZjdBZ05zR25PWEFTNksxMk9iREoyNElfZ1h0aUdiTmFKdEJpZlJfUDk1d25ZTXptbnByMDFfRjk2R1oxZ29pNFZiQVhwTmRCaDIzUXdYSFlxZnl6aU05eG1WLWlQWg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD-İran anlaşmasına ilişkin şüpheler arttıkça petrol fiyatları yükseliş gösteriyor. Enerji arz endişeleri piyasaları etkilemektedir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-12T03:01:07.935004+00:00",
+  "type": "news",
+  "cluster_id": "c93d75d15a1dd"
+ },
+ {
+  "title": "Her gün 1 öğün her öğünde 1 kap sofradan eksildi",
+  "link": "https://www.sozcu.com.tr/her-gun-1-ogun-her-ogunde-1-kap-sofradan-eksildi-p344543",
+  "source": "Sözcü",
+  "summary_tr": "Ekonomist Hakkı Hakan Yılmaz, ABD-İran geriliminin ekonomik krizi derinleştirdiğini, eriyen ücretlerin vatandaşı sosyal yoksunluğa sürüklediğini belirtti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-12T03:01:07.935004+00:00",
+  "type": "news",
+  "cluster_id": "c20dc1178bea3"
+ },
+ {
+  "title": "Dollar drifts as markets await US inflation data for Fed clues",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnhDSnpIWUFyU185anRuZ0lKYjItT2RJaWU3czNGbGdwVVBTbzRlaEF1QjJ3cERWVEZUVkV2Q0kwc3FtQVBpVWx3SmFnbTVlcEkyX0ZYb0lhd2tDQ0ZXcXl1RHl4aTR6dXVjYnRYZjZVUlN0TDE1QXJ4cF9SaHNueElkRF94cGlXbHJZdnlBSExxZzhaMVAxa0lKblNReU0tdFJJ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Dolar, ABD enflasyon verisi beklentisiyle hareket ediyor. Fed politika sinyalleri için piyasalar veri açıklamasını takip etmektedir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-12T03:01:07.935004+00:00",
+  "type": "news",
+  "cluster_id": "cda734a1cf241"
+ },
+ {
+  "title": "Government fights trade judge’s order for tariff refunds to all importers",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOczVqMTVzakY3aDFBNERBZ2dPaHEzX2wxVUNrRG0yZjhQelN1eDAxV1ZHUHhwYmNiQkpVT1hMSGRaYm8wcDNqTU01RXc2TDBNaVJlYXByMFc2dDUtS2xyTWRMc1VlZVdvU3cya0d0NXcyMkd3Y1VUYjZyWUtRazhQS0pILXhQbk4wemd1aUg2WWEwdTczV0E?oc=5",
+  "source": "AP",
+  "summary_tr": "Yargı, ithalatçılara gümrük tarifeleri iade edilmesi yönündeki kararına karşı hükümetin itirazını değerlendiriyor. Ticaret politikası mahkeme kararıyla karşı karşıya.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-12T03:01:07.935004+00:00",
+  "type": "news",
+  "cluster_id": "cd1fe7d0ea760"
+ },
+ {
   "title": "Yurtta sulh, cihanda sulh",
   "link": "https://www.cumhuriyet.com.tr/yazarlar/ahmet-suha-umar/yurtta-sulh-cihanda-sulh-2528389",
   "source": "Cumhuriyet",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-06T17:01:08.263566+00:00",
   "type": "news",
   "cluster_id": "ca3af0f9f7338"
- },
- {
-  "title": "Türkiye'ye gelen NATO nezdindeki Daimi Temsilciler heyeti, Anıtkabir'i ziyaret etti",
-  "link": "https://www.aa.com.tr/tr/gundem/turkiyeye-gelen-nato-nezdindeki-daimi-temsilciler-heyeti-anitkabiri-ziyaret-etti/3987706",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "NATO Zirvesi öncesi NATO nezdindeki Daimi Temsilciler heyeti Türkiye'ye geldi ve Anıtkabir'i ziyaret etti.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-06T17:01:08.263566+00:00",
-  "type": "news",
-  "cluster_id": "c05f04be7adb3"
- },
- {
-  "title": "NATO heyeti, Anıtkabir'i ziyaret etti",
-  "link": "https://www.trthaber.com/haber/gundem/nato-heyeti-anitkabiri-ziyaret-etti-950422.html",
-  "source": "TRT Haber",
-  "summary_tr": "NATO nezdindeki Daimi Temsilciler heyeti, 36. NATO Zirvesi kapsamında Anıtkabir'i ziyaret etti.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-06T17:01:08.263566+00:00",
-  "type": "news",
-  "cluster_id": "c05f04be7adb3"
- },
- {
-  "title": "Microsoft to cut 4,800 jobs, overhaul Xbox unit",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjdJSlpLcUl6ZjVHNk80NEd0VFVkWjJzUTJPYUNBUjFjUjQySmFFblBYRFFKemFZR3FER2FuUlVUR2UzMXV5bnJ4VDY1R2Rpb3FpX2xlelMyMzJUd0tySzJmRTlDeUl1ZU82a3JsYjUtNVUtLXVic09jdktfZWpzSjgwOW5uakQxYXdFRlk3NDd1ZEI5WktfT0pZdmNyVjlyNkVqR3VGVWF4Ums5TExLRUxUT3FPTnVZXzNETw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Microsoft, 4.800 kişiyi işten çıkaracak ve Xbox bölümünü yapılandıracak.",
-  "metric": "Microsoft işten çıkış 4.800 çalışan",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-06T17:01:08.263566+00:00",
-  "type": "news",
-  "cluster_id": "c506268ffc521"
- },
- {
-  "title": "Trump'tan NATO Zirvesi öncesi İran'a gözdağı: Tamamını 1 saat içinde imha ederiz",
-  "link": "https://www.sozcu.com.tr/donald-trump-iran-aciklamasi-6-temmuz-2026-p334256",
-  "source": "Sözcü",
-  "summary_tr": "Trump, İran'a karşı 'elektrik tesisatını 1 saat içinde imha edebiliriz' uyarısında bulundu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-06T16:01:16.749847+00:00",
-  "type": "news",
-  "cluster_id": "c95e8670cc3bc"
- },
- {
-  "title": "Ukrainian drones hit Russia's largest refinery, in one of deepest strikes yet",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUFBhRkxacmxmTXloVDZNTThZcE5DbGg1R0xsd1dscnB0bHlWVHo5c0tiZzluaHhpT2l3WVl1UnI2alFkNktseUtFdXFSS28xMDRHbmM1X3dFa3VIRGFHVlk1MjFKc2dOdEhaRU5HUTBuRUMySjd0bmtTN2JRaWFpSTUwVEttakkwU3hIamsxUTg0c1dTRWVZbEZhMWJ0SFkzdi1tSHpZTVYyblN0ckd6MjJ3VEtLY1pJR3RpT3h3?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ukrayna'nın insansız hava araçları Rusya'nın en büyük rafinerisini vurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-06T16:01:16.749847+00:00",
-  "type": "news",
-  "cluster_id": "c14845ee23304"
- },
- {
-  "title": "NATO Zirvesi: Türkiye İttifak'ın merkezine mi yerleşiyor?",
-  "link": "https://www.dw.com/tr/nato-zirvesi-türkiye-ittifak-ın-merkezine-mi-yerleşiyor/a-77836965?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Türkiye, Ankara'daki NATO Zirvesi'ni NATO İttifakı içindeki stratejik konumunu pekiştirme fırsatı olarak görüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-06T16:01:16.749847+00:00",
-  "type": "news",
-  "cluster_id": "cb63b2098dc2b"
  }
 ]
