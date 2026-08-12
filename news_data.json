@@ -1,5 +1,17 @@
 [
  {
+  "title": "Yurtta sulh, cihanda sulh",
+  "link": "https://www.cumhuriyet.com.tr/yazarlar/ahmet-suha-umar/yurtta-sulh-cihanda-sulh-2528389",
+  "source": "Cumhuriyet",
+  "summary_tr": "Türkiye, Suudi Arabistan ve Pakistan arasında savunma paktı imzalandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-12T02:00:59.030708+00:00",
+  "type": "news",
+  "cluster_id": "c06c52e41f571"
+ },
+ {
   "title": "PKK/KCK terör örgütü ve bağlı oluşumları mensuplarına özel hazırlanan çerçeve yasa kabul edildi: Uygulanmaya geçmesi için MGK kararı beklenecek",
   "link": "https://www.cumhuriyet.com.tr/turkiye/pkk-kck-teror-orgutu-ve-bagli-olusumlari-mensuplarina-ozel-hazirlanan-cerceve-yasa-kabul-edildi-uygulanmaya-gecmesi-icin-mgk-karari-beklenecek-2528345",
   "source": "Cumhuriyet",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-06T16:01:16.749847+00:00",
   "type": "news",
   "cluster_id": "cb63b2098dc2b"
- },
- {
-  "title": "Bölge alarma geçti: Nükleer denizaltıdan uzun menzilli balistik füze fırlattılar",
-  "link": "https://www.sozcu.com.tr/bolge-alarma-gecti-nukleer-denizaltidan-uzun-menzilli-balistik-fuze-firlattilar-p334257",
-  "source": "Sözcü",
-  "summary_tr": "Çin, nükleer denizaltısından uzun menzilli balistik füze fırlattı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-06T16:01:16.749847+00:00",
-  "type": "news",
-  "cluster_id": "cf7b9ebe38e1e"
  }
 ]
