@@ -1,5 +1,29 @@
 [
  {
+  "title": "US consumer inflation mild in July, but economy not out of the woods yet",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVo4RlREbjZCeDFybnNPaTFlMDl0SnhGblQ3ZjE4NzA2WlVKU0diWDJqN1lPWXFvVk13eDY5TVhKYXROYXVJb2tLRzM0YVFaNXEzRWxLNWI0blFUSHZqbVN6aVRrMWFPR3Foa0hJd1FLZTluRVAtWlp0d3k1U1doeUhRVlRoRFltSzRneHcyYw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD tüketici enflasyonu Temmuz'da hafif kaldı ancak ekonominin zorluklar devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-12T15:01:13.409132+00:00",
+  "type": "news",
+  "cluster_id": "c74f7ccd3b2b9"
+ },
+ {
+  "title": "Murat Yetkin: Çerçeve yasa oylamasıyla Anayasa'yı Meclis'te değiştirme ihtimali doğdu, işte dört senaryo...",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSzRibnRNX0pJVzhiNUsyaGwxcE9BQjQ1MlFkaTVoSnl5dUtDODdBa0FfQW9DWVBDa0d0cnotdGxrWG1lclBYMS03T0cwU0R1RlVaSWdpbUpwZ0hjWGZySXYwOFI1YUhDcE1uMk55LU1EdFJmbEZaUjc4WkFiYTRoa3g2d0JzY21IdGxXY0pzbFRWQ3NuTDk2MkR5Vm01cEF5TFlMTHBUQTF1cjB6Y0pzQXU5QWpjWk9hQ3RicUVRdW9aMVVROUkwN0lhM09jQ1l2WFE?oc=5",
+  "source": "T24",
+  "summary_tr": "Murat Yetkin: Çerçeve yasa oylaması Anayasa değişikliğine yol açabilir; dört senaryo analiz ediliyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-12T15:01:13.409132+00:00",
+  "type": "news",
+  "cluster_id": "cf06ff53e07cf"
+ },
+ {
   "title": "Özgür Özel ve Veli Ağbaba hakkında dokunulmazlık fezlekesi TBMM Başkanlığına sunuldu",
   "link": "https://www.bbc.com/turkce/articles/c629511kx9eo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-07T09:01:19.397508+00:00",
   "type": "news",
   "cluster_id": "ccef7223f34ed"
- },
- {
-  "title": "Axios: İran, Hürmüz Boğazı’nda ticari gemilere füze ateşledi",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdW9wdHFnLTZBVmdSNm1qWjE3YlVNSElYTVE5YUdOOHF4a19QX2lReHFBM0hWclpGWGNQSHY2c3hCdjcxRkJ3WEp0cDB2SGNWVVc0MXBiQzdnd1JWak9rUGVYbnJPeG5CaUhmajZQaXpXWEJqZ013emtFVm9BZTJjSUVpcFdTMTA0ZUlKTzdBTFR6Y3VoYWlaVHdNQQ?oc=5",
-  "source": "soL",
-  "summary_tr": "İran, Hürmüz Boğazı'nda ticari gemilere füze ateşledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-07T09:01:19.397508+00:00",
-  "type": "news",
-  "cluster_id": "cf0809ebc3740"
- },
- {
-  "title": "İkinci Soğuk Savaşın NATO’su Ankara Zirvesinde kuruluyor: 3.0 o demek",
-  "link": "https://yetkinreport.com/2026/07/07/ikinci-soguk-savasin-natosu-ankara-zirvesinde-kuruluyor-3-0-o-demek/",
-  "source": "YetkinReport",
-  "summary_tr": "NATO'nun 7-8 Temmuz Ankara Zirvesi, 'Yeni Soğuk Savaş' döneminin NATO'sunun kuruluş toplantısı olarak değerlendiriliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-07T09:01:19.397508+00:00",
-  "type": "news",
-  "cluster_id": "ca1a4d88be4b3"
  }
 ]
