@@ -1,5 +1,29 @@
 [
  {
+  "title": "Putin kamuflajı giydi, talimatı verdi: Avrupa’yı tedirgin eden açıklama",
+  "link": "https://www.sozcu.com.tr/putin-kamuflaji-giydi-talimati-verdi-avrupa-yi-tedirgin-eden-aciklama-p346820",
+  "source": "Sözcü",
+  "summary_tr": "Putin, AB'nin Rus ticari gemilerine el koymasına karşılık vereceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-12T20:01:00.477620+00:00",
+  "type": "news",
+  "cluster_id": "c29c12729a6e1"
+ },
+ {
+  "title": "Israel says Gaza drone strike targeted a Hamas commander, and other developments in the Mideast",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLWZuZFpUQ0JKbW5uc3dBdFd0WUxfSlpDR3FTUElnWXJ0YjE2WFc3SWFLM29sRi1hX2J5WU94WTBhS3RvWl9vMFFWbzd4bF81QnZ3X19Ic04yLXgzbzBlQVZuX0JrRzh3UUJ1V1pQdld1R1pHc1duSWlkWXNkb3BSOUhCRXJPMmhMSmJYYVdsbDlsaU42cnN6dkVCdzhITHdabEZJXy1UbmFsdE5ZNUE?oc=5",
+  "source": "AP",
+  "summary_tr": "İsrail, Gazze'de bir drone saldırısının Hamas komutanını hedef aldığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-12T20:01:00.477620+00:00",
+  "type": "news",
+  "cluster_id": "c03855e7e9094"
+ },
+ {
   "title": "Son Dakika... Ekrem İmamoğlu CHP'den istifa etti: 'YENİ bir yol' çağrısı yaptı",
   "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-ekrem-imamoglu-chp-den-istifa-etti-yeni-bir-yol-cagrisi-yapti-2528611",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-07T13:01:25.414085+00:00",
   "type": "news",
   "cluster_id": "c22f3b8ee9f8d"
- },
- {
-  "title": "Beştepe'de Erdoğan  Trump zirvesi başladı",
-  "link": "https://www.trthaber.com/haber/dunya/bestepede-erdogan-trump-zirvesi-basladi-950516.html",
-  "source": "TRT Haber",
-  "summary_tr": "Beştepe'de Cumhurbaşkanı Erdoğan ve ABD Başkanı Trump arasında resmi törenle karşılama ve görüşme başladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-07T13:01:25.414085+00:00",
-  "type": "news",
-  "cluster_id": "c7087aad947db"
- },
- {
-  "title": "Trump Ankara’da: Gözler Erdoğan ile görüşmesinde",
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdFlsdEtiUXJfRXJMQThsLVRiQzdwTzlMaXhxTGNrbmc1aXozTjNxM3FGN3FoRVpJd0loLWtfNHJ3UmFuX1VnNE1QcGFtNGN3c2lxanlMeUltcGU1Qk9MNTNXc2lLbVRjaXI5UGw3MGVjdDNZOTRLdlRXbDM0M3lJYmloSWxRc1E?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Trump Ankara'da: Cumhurbaşkanı Erdoğan ile görüşmesi başladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-07T13:01:25.414085+00:00",
-  "type": "news",
-  "cluster_id": "c99f75eceb79a"
  }
 ]
