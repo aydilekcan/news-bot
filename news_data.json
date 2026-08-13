@@ -1,5 +1,29 @@
 [
  {
+  "title": "Bakan Bolat: Suriye ile ticaretimiz geçen yıl yüzde 45 arttı",
+  "link": "https://www.trthaber.com/haber/ekonomi/bakan-bolat-suriye-ile-ticaretimiz-gecen-yil-yuzde-45-artti-953909.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ticaret Bakanı Ömer Bolat, Türkiye-Suriye ticaretinin geçen yıl yüzde 45 arttığını açıkladı.",
+  "metric": "Türkiye-Suriye ticaret artışı +%45",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-13T22:01:02.616236+00:00",
+  "type": "news",
+  "cluster_id": "c37160de9ca65"
+ },
+ {
+  "title": "BDDK bir şirketin faaliyet iznini iptal etti",
+  "link": "https://www.sozcu.com.tr/bddk-bir-sirketin-faaliyet-iznini-iptal-etti-p347177",
+  "source": "Sözcü",
+  "summary_tr": "BDDK, BLG Varlık Yönetim A.Ş.'nin faaliyet iznini iptal etmeye karar verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-13T22:01:02.616236+00:00",
+  "type": "news",
+  "cluster_id": "cdf3e9e5bbd37"
+ },
+ {
   "title": "Ukrayna'dan Rusya'ya Karadeniz'de ateşkes teklifi",
   "link": "https://www.diken.com.tr/ukraynadan-rusyaya-karadenizde-ateskes-teklifi/?utm_source=rss&utm_medium=rss&utm_campaign=ukraynadan-rusyaya-karadenizde-ateskes-teklifi",
   "source": "Diken",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-08T11:01:09.186149+00:00",
   "type": "news",
   "cluster_id": "c1ae99398b7b5"
- },
- {
-  "title": "ABD'li senatörlerden F-35 konusunda ılımlı mesajlar",
-  "link": "https://www.dw.com/tr/abd-li-senatörlerden-f-35-konusunda-ılımlı-mesajlar/a-77874620?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "ABD senatörleri S-400 sorunu çözülürse Türkiye'nin F-35 programına dönüşüne izin verebileceklerini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-08T11:01:09.186149+00:00",
-  "type": "news",
-  "cluster_id": "c51a3896a52bc"
- },
- {
-  "title": "Zelenski, Rusya'daki bazı petrol tesislerine saldırılar düzenlediklerini açıkladı",
-  "link": "https://www.trthaber.com/haber/dunya/zelenski-rusyadaki-bazi-petrol-tesislerine-saldirilar-duzenlediklerini-acikladi-950645.html",
-  "source": "TRT Haber",
-  "summary_tr": "Zelenski, Rusya'nın üç farklı bölgesinde yer alan petrol rafinerilerine saldırı düzenlediklerini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-08T11:01:09.186149+00:00",
-  "type": "news",
-  "cluster_id": "c0f7a140470c9"
  }
 ]
