@@ -1,5 +1,65 @@
 [
  {
+  "title": "Şirketler faktoringin eline duştu",
+  "link": "https://www.sozcu.com.tr/sirketler-faktoringin-eline-dustu-p346859",
+  "source": "Sözcü",
+  "summary_tr": "Bankalardan kredi alamayan şirketler %60'ı aşan faiz oranlarıyla faktoringe başvuruyor; işletmelerin finansal zor durumu derinleşiyor.",
+  "metric": "Faktoring faiz oranı %60+",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-08-13T03:01:06.480679+00:00",
+  "type": "news",
+  "cluster_id": "ce40015667d83"
+ },
+ {
+  "title": "Riskin yeni adı: Gözyaşı kapısı",
+  "link": "https://www.sozcu.com.tr/riskin-yeni-adi-gozyasi-kapisi-p346860",
+  "source": "Sözcü",
+  "summary_tr": "Orta Doğu'daki jeopolitik gerilim Babülmendep Boğazı'na sıçradı; küresel enerji piyasaları risk altında.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-13T03:01:06.480679+00:00",
+  "type": "news",
+  "cluster_id": "cd1cbb9c0f3a8"
+ },
+ {
+  "title": "İşsizin parası patrona akıyor",
+  "link": "https://www.sozcu.com.tr/issizin-parasi-patrona-akiyor-p346853",
+  "source": "Sözcü",
+  "summary_tr": "İşsizlik Sigortası Fonu'ndan yaşlı işçilere ödenen paralar patronlara aktarılıyor; sosyal yardım sistemi sorunlu işletiliyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-13T03:01:06.480679+00:00",
+  "type": "news",
+  "cluster_id": "c74a1a4a6eefe"
+ },
+ {
+  "title": "Yoksuluz çıplağız",
+  "link": "https://www.sozcu.com.tr/yoksuluz-ciplagiz-p346854",
+  "source": "Sözcü",
+  "summary_tr": "SSS Holding ve Enerji Bakanlığı tarafından desteklenmeyen madenciler yoksulluk protestosu başlattı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-13T03:01:06.480679+00:00",
+  "type": "news",
+  "cluster_id": "cf46fc6f46e25"
+ },
+ {
+  "title": "Oil drops on lower demand forecasts despite deadlock in US-Iran talks",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHRqOVFPR196RlJ0WTVZajZ6NHRpdmhmZ0EtSDMwTDVZVk5mX2JnVm9LVnFDQ2M4c08ybExVeldFQk9BdG9HVldTbnJFRDVjdTc3MF8wZmc4ck41bWd6Wng2SFowYjZrNW1UVzJuMDR4cnBUT0c2TXUteFR0cTFiVVY5bm5Da09NSDI4akNIcFY4NHRBRzkzNXNuZ1luQjNGUHFFdnVhT1RCNGlKMWx4MkgzdzhLdw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Petrol fiyatları talep tahminlerinin düşmesine rağmen ABD-İran görüşmelerindeki çıkmazdan etkilenerek geriledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-13T03:01:06.480679+00:00",
+  "type": "news",
+  "cluster_id": "cb23b63e691cb"
+ },
+ {
   "title": "Japan's wholesale inflation spikes in July, bolsters rate-hike chance",
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3BxTzUyem1ETnNDcTg1SFdadWpmYmNFZVY2cFlFT0N3UklwcTA5Qnh1cjZVTGFieGVjM09lc0QtaXZwVDEtQjF4YUJaMWRnbkNXVkdOQXhZRDc3OXdIY0x4czdsSFFnOTZGUWFNS0VYM0FKaTdOR2NyMVZTSlJvWnBLMElWdTVXZ0c3WW40Y3l4LXFjb190ZThlV3A1M0x0WDc4VXZiYXpVZFBTMFNON252VmJmenJnWEQ4?oc=5",
   "source": "Reuters",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-07T16:01:12.034673+00:00",
   "type": "news",
   "cluster_id": "c879db01757df"
- },
- {
-  "title": "Ukraine steps up strikes on Russian 'shadow fleet' tankers",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNkJPTUhLWWxYT0hLeUhPQmQxZVZZYlV1M0lzVHVzRFEyeW1VeHhLbk9wZWxpb0JVOXRqeVQxb2dRN0Z6aFpHNVdXQmdIa1RUNlFiMkhVeEVGOF9kSm9HRDdSd2JFZGowUEdkaVNOa2FIZmJOeDVuVTV0SFdDMTV6LThFNW1YbXAtdUtfYmdEWDRsMm9DbUx2bDBPamo0UTRQYmsxU0IyWmt3dUkzamc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ukrayna, Rusya'nın 'gölge filo' tankerlerine karşı saldırılarını yoğunlaştırıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-07T16:01:12.034673+00:00",
-  "type": "news",
-  "cluster_id": "c8f193aa78291"
- },
- {
-  "title": "Trump says he will lift Turkey sanctions, decide on selling F-35s",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSnZfOE9xZ1c4MDlKOGw2UW1aZW96Wi1BeThtUXZOYmQzNjRTQTF1MnJvMmNXOXZudDAwYkFhbm9MTkhrYS1oc2YxSHgxajhMdVdURTVkck1FV3Z3bDlxdXpNUHdvOHl4eDhmOHJtbmxZNXQwcWt4UnlfSjhMM0JndnBpZHBCTkxlWTZBQlpXT1lEd0VCTGV1NHowY2VWTFFkYWh3MHQ5U09ZMnBEeXlKbWtn?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, Türkiye'ye yönelik yaptırımları kaldıracağını ve F-35 satışı konusunu değerlendireceğini söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-07T15:01:10.821197+00:00",
-  "type": "news",
-  "cluster_id": "c7da57461a1c3"
- },
- {
-  "title": "Ankara'da füze anlaşması: ATACMS Almanya'da üretilecek",
-  "link": "https://www.dw.com/tr/ankara-da-füze-anlaşması-atacms-almanya-da-üretilecek/a-77866760?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "NATO Zirvesi'nde Ankara, Lockheed Martin ve Rheinmetall ile ATACMS füzelerinin Almanya'da üretileceği anlaşmasını imzaladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-07T15:01:10.821197+00:00",
-  "type": "news",
-  "cluster_id": "ce35796a1a352"
- },
- {
-  "title": "Toyota, Texas'taki üretim tesisini genişletmek için 3,6 milyar dolarlık yatırım yapacak",
-  "link": "https://www.aa.com.tr/tr/ekonomi/toyota-texastaki-uretim-tesisini-genisletmek-icin-3-6-milyar-dolarlik-yatirim-yapacak/3989269",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Toyota, Texas San Antonio kentindeki üretim tesisini genişletmek için 3,6 milyar dolar yatırım yapacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-07T15:01:10.821197+00:00",
-  "type": "news",
-  "cluster_id": "cb3b66388bad0"
- },
- {
-  "title": "İhracat (aylık değişim): -9,5%",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbjltZW9Pdmd0NXJVNkZRWEVPSkp1bDhVWVFBWTd4Tng5bkZva1d3Q0ptckNBMmFuREdiUGVhRUtOdEJ6aGJPSm43Rzk3Si00TDRPTHhhV1dGdUs1cUxoQnIzWkJxS25KLV9VeHNWdWVTMmkwOGVFM2o0azAxdV9JN3Q2VnBHUnRURDBkeUtrWDZWcWlqbWtkT0RYX0xyTHPSAaMBQVVfeXFMTjNBSXdnZXlEU1h1dXk3U2tIclJERHFvamlqZ0NGWU9WTl92NUExeUZERjdwRm1mT0VlbHRoSXBDOGhBMFRwaEJoQkdKYmpPajQ1ckd4a1hkU0J3TXktYkIwN2tBTnh5ZGVhMEF1VU9qZExNdEFXWWdxTmlhMVlheEppMmJGNWZzbVpsWGx4dHVZYzdtRUFNcGIzTURGOVhHSU51NA?oc=5",
-  "source": "TÜİK",
-  "summary_tr": "~25 milyar $ → -9,5%",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-07-07T15:01:10.821197+00:00",
-  "type": "data",
-  "cluster_id": ""
  }
 ]
