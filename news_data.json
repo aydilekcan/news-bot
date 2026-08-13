@@ -1,5 +1,17 @@
 [
  {
+  "title": "Asian stocks rise as US inflation data dents September Fed hike bets",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD enflasyon verisi Fed'in Eylül ayında faiz artırma olasılığını azalttı; Asya borsaları yükselişe geçti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-13T04:01:09.623904+00:00",
+  "type": "news",
+  "cluster_id": "ccf2211d92150"
+ },
+ {
   "title": "Şirketler faktoringin eline duştu",
   "link": "https://www.sozcu.com.tr/sirketler-faktoringin-eline-dustu-p346859",
   "source": "Sözcü",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-07T16:01:12.034673+00:00",
   "type": "news",
   "cluster_id": "cb71ec559448c"
- },
- {
-  "title": "Katar, Hürmüz Boğazı yakınlarında petrol tankerinin vurulduğunu açıkladı",
-  "link": "https://www.trthaber.com/haber/dunya/katar-hurmuz-bogazi-yakinlarinda-petrol-tankerinin-vuruldugunu-acikladi-950545.html",
-  "source": "TRT Haber",
-  "summary_tr": "Katar, petrol tankeri ErRukeyyat'ın Hürmüz Boğazı yakınlarında vurulduğunu açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-07T16:01:12.034673+00:00",
-  "type": "news",
-  "cluster_id": "c879db01757df"
  }
 ]
