@@ -1,5 +1,29 @@
 [
  {
+  "title": "İYİ Parti milletvekili Gürban, partisinden istifa etti: AKP'ye mi geçiyor?",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/iyi-parti-milletvekili-gurban-partisinden-istifa-etti-akp-ye-mi-geciyor-2528892",
+  "source": "Cumhuriyet",
+  "summary_tr": "İYİ Parti milletvekili Mehmet Mustafa Gürban partisinden istifa etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-13T17:01:29.708610+00:00",
+  "type": "news",
+  "cluster_id": "c34c0ba2f0ce9"
+ },
+ {
+  "title": "Mehmet Mustafa Gürban, İYİ Parti'den istifa etti",
+  "link": "https://www.sozcu.com.tr/mehmet-mustafa-gurban-istifa-etti-p347119",
+  "source": "Sözcü",
+  "summary_tr": "İYİ Parti Gaziantep vekili Mehmet Mustafa Gürban partisinden istifa ettiğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-13T17:01:29.708610+00:00",
+  "type": "news",
+  "cluster_id": "cba52deba508c"
+ },
+ {
   "title": "Son dakika... Erdoğan ile DEM Parti İmralı Heyeti görüşmesi sona erdi",
   "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-erdogan-ile-dem-parti-imrali-heyeti-gorusmesi-sona-erdi-2528880",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-08T09:01:23.611082+00:00",
   "type": "news",
   "cluster_id": "c7ed0f821a755"
- },
- {
-  "title": "Tahran'dan ABD'ye ezici yanıt tehdidi: Batı Asya'da tırmanan kriz petrolü uçurdu",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/tahran-dan-abd-ye-ezici-yanit-tehdidi-bati-asya-da-tirmanan-kriz-petrolu-ucurdu-2519031",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD'nin İran'a yönelik askeri operasyonuna karşı Tahran ezici yanıt tehdidinde bulunurken, petrol fiyatları son iki ayın zirvesine yükseldi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-08T08:01:15.227805+00:00",
-  "type": "news",
-  "cluster_id": "c514cb182d9ee"
- },
- {
-  "title": "İran Dışişleri Bakanlığı: ABD saldırıları mutabakat zaptının temel hükümlerini geçersiz kılmıştır",
-  "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakanligi-abd-saldirilari-mutabakat-zaptinin-temel-hukumlerini-gecersiz-kilmistir-950607.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Dışişleri Bakanlığı, ABD'nin güney sahilindeki izleme noktalarına yönelik saldırılarının mutabakat zaptının hükümlerini geçersiz kıldığını belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-08T08:01:15.227805+00:00",
-  "type": "news",
-  "cluster_id": "c2b203b1b41e5"
  }
 ]
