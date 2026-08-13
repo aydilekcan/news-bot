@@ -1,5 +1,41 @@
 [
  {
+  "title": "Trump yönetimi bazı İHA ve bileşenlerinin ithalatına tarife getirdi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/trump-yonetimi-bazi-iha-ve-bilesenlerinin-ithalatina-tarife-getirdi/4026993",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, insansız hava araçları ve bileşenlerine gümrük vergisi getirdi. Karar Türkiye'nin teknoloji ihracatını etkileyebilir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-13T23:01:01.079993+00:00",
+  "type": "news",
+  "cluster_id": "c9e12a9deb1c9"
+ },
+ {
+  "title": "US court backs Trump's power to close 'de minimis' tariff exemption",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSXhFNjllamU3TlBVNHBOUk9tellaaVEyTWZ3UkstVkljTUZPeElURVhIQTNXZlRPMnRBUEtZUWk3cXJ3aXdNZHJRRFJhaVBobGpVZVgxQ0ZVU0t2d29WbHQ2dnk0T3FRaGxWaVU1N24zUGgyc2Y5dEtZQXRENHlOWmpnTmR5a0VSMnFTQzdIWXdHcnlVLU9qektYRFdGbUpXdEx3clk1X3ctZjl6RVp1LTkzUHY?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD mahkemesi Trump'ın 'de minimis' gümrük vergisi muafiyetini kaldırma yetkisini onayladı. Karar ticaret ve tarifeleri doğrudan etkileyecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-13T23:01:01.079993+00:00",
+  "type": "news",
+  "cluster_id": "cf62608a5ac1f"
+ },
+ {
+  "title": "Türkiye ile Mısır arasında çeşitli belgeler imzalandı",
+  "link": "https://www.aa.com.tr/tr/gundem/turkiye-ile-misir-arasinda-cesitli-belgeler-imzalandi/4026991",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye ve Mısır arasında çeşitli anlaşmalar imzalandı. Dışişleri Bakanı Hakan Fidan, Mısır mevkidaşları ile ortak planlamalar yaptı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-13T23:01:01.079993+00:00",
+  "type": "news",
+  "cluster_id": "cd7c8e91dde0d"
+ },
+ {
   "title": "Bakan Bolat: Suriye ile ticaretimiz geçen yıl yüzde 45 arttı",
   "link": "https://www.trthaber.com/haber/ekonomi/bakan-bolat-suriye-ile-ticaretimiz-gecen-yil-yuzde-45-artti-953909.html",
   "source": "TRT Haber",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-08T12:01:10.403499+00:00",
   "type": "news",
   "cluster_id": "c2b01e72ee858"
- },
- {
-  "title": "US stock futures tumble as Trump says Iran deal is 'over', oil climbs",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcTlvb203c2gzM1N5b1NUS2FVd1NXMl9ONUhXaFN6bmJ2c29WSGtDbFB3cnd4SmRkY1NJX095NEg5TWxVcVh4WG1WRmdYWW92WUVZcTZBNlFnQlo3dHN4N1B2cWxZcG9QZ3FuOFBaRFFDUUxGNXU2MlpDYWFUX2JVTlAxZ0pwQnYzS1ppQ1pkcU8yT2VNNERkbTZ2aUxWdHJSZEFNeVA0QzJjbzcz?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump İran anlaşmasını 'bittiğini' açıklaması üzerine ABD borsası düştü ve petrol yükseldi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-08T11:01:09.186149+00:00",
-  "type": "news",
-  "cluster_id": "c7ab0be725e89"
- },
- {
-  "title": "Iran and US trade fire and Trump calls the ceasefire into question",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTXRXN1ZOY3dWb0Y3bFliM0t6QVRjQkxGNmNRRkVPM29YazVXaXVpaFo3N2h2MHdBLUlTMWNROTJuTUJQNFhaR3BwTzV5b0NDYk1WOG5NMXRHLWhuNHF1NXJqOFM0Vzg2TWo2bXRCUS11WmFEeU45UURDV0dqX0szLWxfbkptQXFxQVJXM0hjY2lkS1VJdkljZWFR?oc=5",
-  "source": "AP",
-  "summary_tr": "İran ve ABD karşılıklı ateş açarken Trump ateşkesi sorgulanır hale getirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-08T11:01:09.186149+00:00",
-  "type": "news",
-  "cluster_id": "c498ff7f66aa8"
- },
- {
-  "title": "NATO Zirvesinde konuşan Erdoğan: 'AB üyesi olmayan müttefiklerin dışlanması suni bir bölünmeye yol açacaktır'",
-  "link": "https://www.bbc.co.uk/turkce/live/c1dy1ygwd9vt?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "NATO Zirvesi'nde Erdoğan, AB üyesi olmayan müttefikler konusunda suni bölünmeye karşı çıktı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-08T11:01:09.186149+00:00",
-  "type": "news",
-  "cluster_id": "c1ae99398b7b5"
  }
 ]
