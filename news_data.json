@@ -1,5 +1,65 @@
 [
  {
+  "title": "Fed should raise rates to restrain growth and inflation, Hammack says",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVHBQbGpaRk5FcmRfWTlhRmNHeFJiWlpOY2pyY25qdzFka19seGhUU29vMWlvVkxzdW1oMUtYVjN0bU1WNzBsRzZxOS1BLWdRRXVPdDdBdGdPVFRSU2dMZWtXbHZQcmZHTFdhQVU1RXNBYVVyZUdoTjE1RmluSXRxUUpkQXFqUkRXR0RHZ3Fxakh4dEJYY0FUM2toSTNyMFlCc3VpTHlCVTZUbGMtZGZFN0hkVG8?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Federal Rezervi görevlisi Hammack, faiz oranlarının büyüme ve enflasyonu kontrol altına almak için artırılması gerektiğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-13T15:01:13.510337+00:00",
+  "type": "news",
+  "cluster_id": "c8481b25858d7"
+ },
+ {
+  "title": "Diesel prices overtake jet fuel in Europe as global shortage widens",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejlyV0VLYkdZTjh6Z2JGUF8tczNIMGNic1RNSlY4cC13b01ERjV0ZnpmSFNpSHFRSThUUDIzY25KbmpLTVVLMzB1aXJEODJMMUl5QkY3OU95TlR0S215YnJTelNxYy1PT2NKbHdqZ0xidV9lRGRxa3ppekp3aENoRmFleG53RF9XVFFpRmtvNEwwSFJ2WHpxZExaS1FyZDZpdmJoeUtpYjJ0U18wa3FLTUNmYw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Küresel kıtlık genişledikçe Avrupa'da dizel fiyatları jet yakıtını geçti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-13T15:01:13.510337+00:00",
+  "type": "news",
+  "cluster_id": "c7cb07a33b384"
+ },
+ {
+  "title": "Are global oil stocks big enough to weather another six months of US-Iran war?",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU1JQSjZkUi01N0FQZ0t5dzdwNWlyci1jVTg5bmpSN2tzQmRrN1N4bnh3QmM0UnFhVHVwMFJvNlRsMlZIRW1qbkw1THhJc0pTSEpieVdwSktrUmZTeng0dE9jSVI3ei1ERDdncXhoVnhYTWJIX1RLN0xXdUJnU3ZGTUlCQnNvODdFbVVKVjl2WWVDZ09mdzQxUUN6WFBzZ1R6SGlKVlhEVjBjWHJOcDFXNHlhcXJjTUlfUm9DX0xxOHM?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Küresel petrol stoklarının ABD-İran savaşının altı ay daha devam etmesi durumunda yeterli olup olmadığı sorgulanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-13T15:01:13.510337+00:00",
+  "type": "news",
+  "cluster_id": "ca726f600dae7"
+ },
+ {
+  "title": "60 saniyede ekonomide bugün (13 Ağustos 2026)",
+  "link": "https://www.aa.com.tr/tr/ekonomi/-60-saniyede-ekonomide-bugun-13-agustos-2026/4026430",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Halkbank'ın katkılarıyla 13 Ağustos 2026 tarihinde ekonomide günün gelişmeleri özetlendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-13T15:01:13.510337+00:00",
+  "type": "news",
+  "cluster_id": "c48b378b82f93"
+ },
+ {
+  "title": "GENAR anketi: AKP açık ara önde, CHP ve Yeni Parti arasında 0,9 puan fark var",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOTgydU1CTHNIMEpmbWYwSEFFM0JWQURGUXBEVGJhSFN1cXRHNnAzbWdqenpkZFFhSHR2b2FlNV9mMWlHdkZLVTBUWGtzdExHZXJsN1IwYi1yMXRrRzlwbEhWcTYwLWtwamcxSmZxRWlJb2lKQ1FwamhCUk9FUWdIdzV3WDc0c0RTVXdCMlZpcXp5MXhWS1cycENLS0F3RlZ0Uy1vbEZxSm5HTkUwUGQw?oc=5",
+  "source": "T24",
+  "summary_tr": "GENAR anketi: AKP açık ara önde, CHP ve Yeni Parti arasında 0,9 puan fark bulunuyor.",
+  "metric": "CHP - Yeni Parti farkı: 0,9 puan",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-13T15:01:13.510337+00:00",
+  "type": "news",
+  "cluster_id": "cea55a1a409eb"
+ },
+ {
   "title": "Motorinde ÖTV sıfırlandı, pompaya ne kadar yansıyacak?",
   "link": "https://www.bbc.com/turkce/articles/c0qv2x4pk7jo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-08T08:01:15.227805+00:00",
   "type": "news",
   "cluster_id": "c81e586b613bf"
- },
- {
-  "title": "Türk imalatçısına Avrupa freni: Almanya, Fransa ve Birleşik Krallık'ta daralma sürüyor",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/turk-imalatcisina-avrupa-freni-almanya-fransa-ve-birlesik-krallik-ta-daralma-suruyor-2519033",
-  "source": "Cumhuriyet",
-  "summary_tr": "İSO verilerine göre Türkiye imalat sektörünün ihracat pazarları haziranda sınırlı artış gösterdi, ancak Almanya, Fransa ve İngiltere'de daralma devam ediyor.",
-  "metric": "İhracat Pazarları İklim Endeksi 50,4",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-08T08:01:15.227805+00:00",
-  "type": "news",
-  "cluster_id": "ce335e25a63cc"
- },
- {
-  "title": "Coca-Cola, Avrupa'nın göbeğindeki dev üretim tesisini kapatıyor",
-  "link": "https://www.sozcu.com.tr/coca-cola-avrupa-nin-gobegindeki-dev-uretim-tesisini-kapatiyor-p334709",
-  "source": "Sözcü",
-  "summary_tr": "Coca-Cola, operasyonel yeniden yapılanma kapsamında Massachusetts'teki Northampton şişeleme tesisini kapatıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-08T08:01:15.227805+00:00",
-  "type": "news",
-  "cluster_id": "c59e99056f8e7"
- },
- {
-  "title": "İSO Türkiye İhracat Pazarları İklim Endeksi haziranda 50,4 oldu",
-  "link": "https://www.aa.com.tr/tr/ekonomi/iso-turkiye-ihracat-pazarlari-iklim-endeksi-haziranda-50-4-oldu/3990146",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İSO Türkiye İmalat Sektörü İhracat Pazarları İklim Endeksi haziranda 50,4'e yükseldi.",
-  "metric": "İklim Endeksi 50,4",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-08T08:01:15.227805+00:00",
-  "type": "news",
-  "cluster_id": "c5bae0abbdd37"
- },
- {
-  "title": "Hürmüz gerilimi: ABD İran'ı, İran Bahreyn ve Kuveyt'i vurdu",
-  "link": "https://www.dw.com/tr/hürmüz-gerilimi-abd-iran-ı-iran-bahreyn-ve-kuveyt-i-vurdu/a-77870784?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "NATO zirvesi Ankara'da devam ederken, Ortadoğu'da ABD ile İran arasında gerilim tırmandı; İran ve ABD karşılıklı hedefler vurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-08T07:01:23.672838+00:00",
-  "type": "news",
-  "cluster_id": "cc6be643622d4"
- },
- {
-  "title": "İran savaşı enerji haritasını değiştirdi: Dünya gaz talebinde frene bastı",
-  "link": "https://www.sozcu.com.tr/iran-savasi-enerji-haritasini-degistirdi-dunya-gaz-talebinde-frene-basti-p334676",
-  "source": "Sözcü",
-  "summary_tr": "Ortadoğu savaşı küresel enerji piyasalarını etkiledi; petrol fiyatları yükseldi ve gaz talebinde frene basıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-08T07:01:23.672838+00:00",
-  "type": "news",
-  "cluster_id": "c1e24d2bf9296"
  }
 ]
