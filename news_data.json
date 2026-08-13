@@ -1,5 +1,41 @@
 [
  {
+  "title": "Merkez Bankası tahmini yükseltti: İşte Ocak 2027 emekli zammında yeni rakamlar",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasi-tahmini-yukseltti-iste-ocak-2027-emekli-zamminda-yeni-rakamlar-2528782",
+  "source": "Cumhuriyet",
+  "summary_tr": "TCMB, 2026 yıl sonu enflasyon tahminini %26'dan %28'e yükseltti. Ocak 2027 emekli zammında rakamlar yukarı revize edildi.",
+  "metric": "Enflasyon tahmini %26 -> %28 (+2 puan)",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-13T11:01:17.924078+00:00",
+  "type": "news",
+  "cluster_id": "cd0cef3c24f77"
+ },
+ {
+  "title": "İşsizlik oranı: %7,6",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVjBkdm8zOVd0TF81d3RnZzQ2NmNUQWxkQUxkLVNLOEE0ZmU0OGFBTEFjc1BsM1pjNFVja0gzR1c1a0lCeGdZTXVLdkZ4ZkN4UHlRbjRNN0tSQzQwek5ETWlObTFzNnNveVhWb0s4cmtxVUtZZWwtbkp0TWtWeGJwd0ZQVHHSAYgBQVVfeXFMTlZCSzREVGhXMG1qWWlMZklqSXZLdVZnbVJGN0xJai1aa0cwN1lyMFh1RmVVYkV1eEFJa1Q1ZjhmSzFWWEJJekdkeHdxNjdHZjFuQl9KYlhtSkFwQjJKcDJObG9ESnhHWm5Ea2xyT3RYaUNkdXp2Smh1RUhqSDNTYVVXYzFidVNRYQ?oc=5",
+  "source": "TÜİK",
+  "summary_tr": "%7.6 → %7,6",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-13T11:01:17.924078+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
+  "title": "Yıl sonu enflasyon tahmini: %28",
+  "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPb3N0RFNaeTBUXzA1TnFxSnBOOUdnUE4zbFVYcmtWZEZvOG5sUFRIU1RxN3RVbHN1S0ZXMUoxTnNNVEZvMWF3WkJiTTVsVTlyb0ptZ1VQTTRpem1mU2ZScVNZTXdIUmt3RVdyeXJVWnZPb2Fyd1JsYjF4Mk1sT3Rqd2s5VDctbUZhMDJfOHU4eHNrd204NjYwZUp4dzNrU0NlY0JpeDJHMFh1bURJVHloNzBGSWI1SmV1X2dDVS1WOFNNb3BBVFlRLVZndUU3NFhXTUtGWTVFZVplTDBkazlMbTRWYTZ0YkVUSkJLRkFFSTcyTzRsbklZ?oc=5",
+  "source": "TCMB",
+  "summary_tr": "%28",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-13T11:01:17.924078+00:00",
+  "type": "forecast",
+  "cluster_id": ""
+ },
+ {
   "title": "Çerçeve yasa sonrası Erdoğan ile İmralı heyeti arasında ilk görüşme",
   "link": "https://www.bbc.com/turkce/articles/c75g9yg34llo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-08T06:01:44.183549+00:00",
   "type": "news",
   "cluster_id": "c6acde5b81055"
- },
- {
-  "title": "Mevduat faizinde dengeler değişti: 3 milyon TL'nin getirisi uçtu",
-  "link": "https://www.sozcu.com.tr/mevduat-faizinde-dengeler-degisti-3-milyon-tl-nin-getirisi-uctu-p334659",
-  "source": "Sözcü",
-  "summary_tr": "TÜİK'in enflasyon verileri sonrası bankaların vadeli mevduat faiz oranları değişti; 3 milyon TL'nin getirisi etkilendi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-08T06:01:44.183549+00:00",
-  "type": "news",
-  "cluster_id": "c3ca2cb460040"
- },
- {
-  "title": "NATO Şefi Rutte'den İran'a uyarı: 'Ateşkesi ihlal etti'",
-  "link": "https://www.sozcu.com.tr/nato-sefi-rutte-den-iran-a-uyari-ateskesi-ihlal-etti-p334661",
-  "source": "Sözcü",
-  "summary_tr": "NATO Genel Sekreteri Rutte, Ankara Zirvesi'nde İran'ın ateşkesi ihlal ettiğini ve savunma bütçelerinin artırılmasını vurguladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-08T06:01:44.183549+00:00",
-  "type": "news",
-  "cluster_id": "c5be179864211"
- },
- {
-  "title": "Hürmüz Boğazı’nda gerilim yeniden tırmandı: ABD’den İran’a gece saldırısı",
-  "link": "https://www.cumhuriyet.com.tr/dunya/hurmuz-bogazi-nda-gerilim-yeniden-tirmandi-abd-den-iran-a-gece-saldirisi-2518978",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD, Hürmüz Boğazı'nda İran gemilerine saldırıdan sonra İran'a hava saldırıları düzenledi. Bölgede gerilim tırmandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-07-08T05:01:08.988112+00:00",
-  "type": "news",
-  "cluster_id": "c5e12b9d8f8c8"
  }
 ]
