@@ -1,5 +1,17 @@
 [
  {
+  "title": "Japan's wholesale inflation spikes in July, bolsters rate-hike chance",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3BxTzUyem1ETnNDcTg1SFdadWpmYmNFZVY2cFlFT0N3UklwcTA5Qnh1cjZVTGFieGVjM09lc0QtaXZwVDEtQjF4YUJaMWRnbkNXVkdOQXhZRDc3OXdIY0x4czdsSFFnOTZGUWFNS0VYM0FKaTdOR2NyMVZTSlJvWnBLMElWdTVXZ0c3WW40Y3l4LXFjb190ZThlV3A1M0x0WDc4VXZiYXpVZFBTMFNON252VmJmenJnWEQ4?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Japonya'nın tüketici fiyat enflasyonu Temmuz'da sert yükselişe geçerek merkez bankasının faiz artırımı yapma olasılığını arttırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-13T02:01:00.639335+00:00",
+  "type": "news",
+  "cluster_id": "c3cc2446b042d"
+ },
+ {
   "title": "Çalışma Bakanlığı müfettişleri Doruk Madencilik’teki usulsüzlükleri tespit etti: İşçiye de devlete de ödeme yapılmamış",
   "link": "https://www.cumhuriyet.com.tr/turkiye/calisma-bakanligi-mufettisleri-doruk-madencilik-teki-usulsuzlukleri-tespit-etti-isciye-de-devlete-de-odeme-yapilmamis-2528662",
   "source": "Cumhuriyet",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-07T15:01:10.821197+00:00",
   "type": "data",
   "cluster_id": ""
- },
- {
-  "title": "Trump-Erdoğan görüşmesi: 'Yaptırımları kaldıracağız, F-35 satışını değerlendireceğiz'",
-  "link": "https://www.bbc.com/turkce/articles/c33y078x83zo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Trump Ankara'da Erdoğan ile görüştü; Türkiye'ye CAATSA yaptırımlarını kaldıracağını ve F-35 satışını değerlendireceğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-07-07T14:01:21.638046+00:00",
-  "type": "news",
-  "cluster_id": "c24f7af5e4edd"
  }
 ]
