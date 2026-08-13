@@ -1,5 +1,77 @@
 [
  {
+  "title": "IEA petrol arzı tahminini düşürdü: Türkiye'yi ne bekliyor?",
+  "link": "https://www.dw.com/tr/iea-petrol-arzı-tahminini-düşürdü-türkiye-yi-ne-bekliyor/a-78338732?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "IEA, küresel petrol arzının bu yıl günlük 4,3 milyon varil azalacağını tahmin etti; Türkiye'nin enerji maliyetlerini etkileyebilir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-13T05:01:07.320115+00:00",
+  "type": "news",
+  "cluster_id": "c6a890fa8f579"
+ },
+ {
+  "title": "Atilla Özsever: Asgari ücrete 3 yıldır ara zam yapılmıyor",
+  "link": "https://www.diken.com.tr/atilla-ozsever-asgari-ucrete-3-yildir-ara-zam-yapilmiyor/?utm_source=rss&utm_medium=rss&utm_campaign=atilla-ozsever-asgari-ucrete-3-yildir-ara-zam-yapilmiyor",
+  "source": "Diken",
+  "summary_tr": "Köşe yazısı: Asgari ücrete 3 yıldır ara zam yapılmamakta; çalışanların satın alma gücü eriyorken politika tartışılıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-13T05:01:07.320115+00:00",
+  "type": "news",
+  "cluster_id": "cf64190eb66e8"
+ },
+ {
+  "title": "Zelenski, ABD'den daha fazla Patriot füzesi talep etti",
+  "link": "https://www.trthaber.com/haber/dunya/zelenski-abdden-daha-fazla-patriot-fuzesi-talep-etti-953815.html",
+  "source": "TRT Haber",
+  "summary_tr": "Zelenski, Rusya'nın artan balistik füze saldırılarını durdurmak için ABD'den daha fazla Patriot füzesi talep etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-13T05:01:07.320115+00:00",
+  "type": "news",
+  "cluster_id": "ca49d6cbf7e85"
+ },
+ {
+  "title": "Resmi Gazete: Motorine kademeli ÖTV",
+  "link": "https://www.diken.com.tr/resmi-gazete-motorine-kademeli-otv/?utm_source=rss&utm_medium=rss&utm_campaign=resmi-gazete-motorine-kademeli-otv",
+  "source": "Diken",
+  "summary_tr": "Motorine özel tüketim vergisi (ÖTV) kademeli sistem uygulamasına geçildi; akaryakit fiyatlarını etkileyecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-13T05:01:07.320115+00:00",
+  "type": "news",
+  "cluster_id": "cf0c22268a6cd"
+ },
+ {
+  "title": "Vergi, SGK, trafik borçlarını yapılandırmak için son başvuru tarihi yaklaşıyor",
+  "link": "https://www.sozcu.com.tr/vergi-sgk-trafik-borclarini-yapilandirmak-icin-son-basvuru-tarihi-yaklasiyor-p346870",
+  "source": "Sözcü",
+  "summary_tr": "Vergi, SGK ve trafik borçlarının yapılandırılması için son başvuru tarihi 31 Ağustos 2026; milyonlarca vatandaş etkileniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-13T05:01:07.320115+00:00",
+  "type": "news",
+  "cluster_id": "c5340498fb847"
+ },
+ {
+  "title": "Sarı metalde kritik yükseliş! Gram altın 3 ayın zirvesinde",
+  "link": "https://www.sozcu.com.tr/sari-metalde-kritik-yukselis-gram-altin-3-ayin-zirvesinde-p346869",
+  "source": "Sözcü",
+  "summary_tr": "Altın fiyatı ABD enflasyon verilerinin ardından 3 ayın zirvesine çıktı; ekonomik belirsizlik göstergesi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-13T05:01:07.320115+00:00",
+  "type": "news",
+  "cluster_id": "c1acf935e81ec"
+ },
+ {
   "title": "Asian stocks rise as US inflation data dents September Fed hike bets",
   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5",
   "source": "Reuters",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-07T17:01:10.986252+00:00",
   "type": "news",
   "cluster_id": "c33ee92255443"
- },
- {
-  "title": "ABD Başkanı Trump'a \"A+ tipi resmi tören\"le karşılama",
-  "link": "https://www.aa.com.tr/tr/gundem/abd-baskani-trumpa-a-tipi-resmi-torenle-karsilama/3989475",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, Türkiye'ye resmi ziyarette bulunan ABD Başkanı Trump'ı A+ tipi resmi törenle karşıladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-07T17:01:10.986252+00:00",
-  "type": "news",
-  "cluster_id": "c141316be3d37"
- },
- {
-  "title": "Türkiye ile Kanada arasında STA müzakereleri resmen başlatıldı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-ile-kanada-arasinda-sta-muzakereleri-resmen-baslatildi/3989473",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye ve Kanada arasında Serbest Ticaret Anlaşması müzakereleri resmi olarak başlatıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-07T17:01:10.986252+00:00",
-  "type": "news",
-  "cluster_id": "c652db2efc9e1"
- },
- {
-  "title": "Trump'ın \"kalkacak\" dediği CAATSA nedir?",
-  "link": "https://www.dw.com/tr/trump-ın-kalkacak-dediği-caatsa-nedir/a-77867066?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Trump, Türkiye'ye yönelik CAATSA yaptırımlarını kaldıracağını söyledi. CAATSA, S-400 satın alımına karşı ABD'nin uyguladığı yaptırım paketi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-07T16:01:12.034673+00:00",
-  "type": "news",
-  "cluster_id": "cb6c250455a14"
- },
- {
-  "title": "Russia's largest oil refinery halts processing after drone attack, sources say",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd0VnUGZPLW1xRUFGRWNnM0hkZzVHaDVrMWdLZEtmWW1tREZ0MDhURkhQWGJ1RnZ5T1ZVMzFkSlQ2X1NXWHlmNC10NmFfU3RFT3oxeFNqSW51OXFOeS1Wa2hfdWU5Ui1FWk5MUThFWGxlNDFmcDNBMWU4YUVMTVREaU1pajZxUmVWc0hkUnZhendKYl9ISTQxbktJNU1McUN2NWJGblBvSEduenZEME9HTy1lUDIyYUo4SGRDRTgwdnJ3dHRxVHo4?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Rusya'nın en büyük petrol rafineresi drone saldırısının ardından işlem durdurmaya başladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-07T16:01:12.034673+00:00",
-  "type": "news",
-  "cluster_id": "c43bb0b136974"
- },
- {
-  "title": "Mutlak butlan Kılıçdaroğlu, CHP MYK'yı cuma günü topluyor",
-  "link": "https://www.sozcu.com.tr/mutlak-butlan-kilicdaroglu-chp-myk-yi-cuma-gunu-topluyor-p334556",
-  "source": "Sözcü",
-  "summary_tr": "Mahkeme kararıyla CHP Genel Başkanlığına getirilen Kemal Kılıçdaroğlu, Merkez Yönetim Kurulu'nu cuma günü toplayacak.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-07T16:01:12.034673+00:00",
-  "type": "news",
-  "cluster_id": "ce1e93d0d2c3d"
- },
- {
-  "title": "İstanbul Ticaret İl Müdürlüğü ekipleri ambalajlı su fiyatlarına yönelik denetim yaptı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/istanbul-ticaret-il-mudurlugu-ekipleri-ambalajli-su-fiyatlarina-yonelik-denetim-yapti/3989349",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İstanbul Ticaret İl Müdürlüğü, ambalajlı su ve içeceklerdeki haksız fiyatlandırmaya karşı denetim yaptı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-07T16:01:12.034673+00:00",
-  "type": "news",
-  "cluster_id": "cb71ec559448c"
  }
 ]
