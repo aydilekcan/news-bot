@@ -1,5 +1,77 @@
 [
  {
+  "title": "İran rest çekti: 'Hürmüz Boğazı kapalı'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/iran-rest-cekti-hurmuz-bogazi-kapali-2528933",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran Devrim Muhafızları Deniz Kuvvetleri Komutanı, Hürmüz Boğazı'nın kapalı olduğunu açıkladı; bölgedeki deniz harekâtına ilişkin önemli açıklama.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-13T20:01:11.641640+00:00",
+  "type": "news",
+  "cluster_id": "c3cd0b484d64e"
+ },
+ {
+  "title": "İran Devrim Muhafızları: Hürmüz Boğazı kapalı",
+  "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazi-kapali-953901.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Devrim Muhafızları Ordusu Deniz Kuvvetleri Komutanı, Hürmüz Boğazı'nın kapalı olduğunu açıkladı; bölgedeki ticari ve stratejik harekâta önemli etki.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-13T20:01:11.641640+00:00",
+  "type": "news",
+  "cluster_id": "c3cd0b484d64e"
+ },
+ {
+  "title": "Adalet Bakanı duyurdu: Emir Yuşa Atıcı dosyası yeniden ele alındı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/adalet-bakani-duyurdu-emir-yusa-atici-dosyasi-yeniden-ele-alindi-2528932",
+  "source": "Cumhuriyet",
+  "summary_tr": "Adalet Bakanı Akın Gürlek, 5 yıl önce yorgun merminin isabet etmesi sonucu hayatını kaybeden 15 yaşındaki Emir Yuşa Atıcı'nın dosyasının yeniden ele alındığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-13T20:01:11.641640+00:00",
+  "type": "news",
+  "cluster_id": "c7ce7dfc2d478"
+ },
+ {
+  "title": "Ankara'daki uçak değişikliği krizi: İsrail istihbaratı ABD'yi karıştırdı",
+  "link": "https://www.sozcu.com.tr/ankaradaki-ucak-degisikligi-krizi-israil-istihbarati-abdyi-karistirdi-p347148",
+  "source": "Sözcü",
+  "summary_tr": "İsrail istihbaratının güvenilirliği sorgulanıyor; bazı yetkililer, İsrail'in ABD'yi İran savaşına sürüklemek amacıyla Trump'ı Ankara'da uçak değiştirmeye yönlendirdiğini iddia ediyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-13T20:01:11.641640+00:00",
+  "type": "news",
+  "cluster_id": "c4b5e628625df"
+ },
+ {
+  "title": "Trump'ın uçağını değiştirmesine neden olan İsrail kaynaklı \"İran tehdidi\" istihbaratı sorgulanıyor",
+  "link": "https://www.aa.com.tr/tr/dunya/trumpin-ucagini-degistirmesine-neden-olan-israil-kaynakli-iran-tehdidi-istihbarati-sorgulaniyor/4026877",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Trump'ın İsrail kaynaklı İran tehdidi istihbaratına dayanarak Ankara'da uçağını değiştirmesi, Amerikan kamuoyunda tartışmalara neden oldu; istihbaratın güvenilirliği sorgulanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-13T20:01:11.641640+00:00",
+  "type": "news",
+  "cluster_id": "c8c38658f45fa"
+ },
+ {
+  "title": "Erdoğan çerçeve yasanın Meclis’te kabul edilmesinin ardından ilk kez konuştu",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT1k2d2xHZTJ5OHNLM01tWWsxTy0xeTFSbE9Va0JLZWs2SzJveEtQVVVHMUdSSDNqNXItUVFNc1p5cFExS0ZlTlp5bUJrOE1tMllJQ24yU3FvUUQtMHd6UzNyRzltd25lTlp6bmJ5SG1YZW9VX0x4bEpuTkNsQTBxUGdHUHRQYTRoLWsyR3QyM2k4TzVwdzFWQ0ZQbl9DRmhSRnc?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, çerçeve yasanın Meclis tarafından kabul edilmesinin ardından ilk kez konuştu; hükümet tarafından önemli bir yasanın onaylandığını doğruladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-13T20:01:11.641640+00:00",
+  "type": "news",
+  "cluster_id": "cce70fe2d0cb1"
+ },
+ {
   "title": "İmamoğlu’ndan CHP istifası sonrası ilk paylaşım",
   "link": "https://www.cumhuriyet.com.tr/siyaset/imamoglu-ndan-chp-istifasi-sonrasi-ilk-paylasim-2528914",
   "source": "Cumhuriyet",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-08T10:01:19.281306+00:00",
   "type": "news",
   "cluster_id": "cdaf8651086b5"
- },
- {
-  "title": "Erdoğan Trump’ın, Trump Avrupa’nın sözünü tutmasını bekliyor",
-  "link": "https://yetkinreport.com/2026/07/08/erdogan-trumpin-trump-avrupanin-sozunu-tutmasini-bekliyor/",
-  "source": "YetkinReport",
-  "summary_tr": "NATO Zirvesi Ankara'da devam ediyor; Erdoğan-Trump görüşmesinde ittifak ve beklentiler tartışılıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-08T10:01:19.281306+00:00",
-  "type": "news",
-  "cluster_id": "c5a8e3e9f7fff"
- },
- {
-  "title": "Erdoğan NATO Liderler Zirvesi'nde konuştu: Trump'a destek ve 'takdir' mesajları",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/erdogan-nato-liderler-zirvesi-nde-konustu-trump-a-destek-ve-takdir-mesajlari-2519074",
-  "source": "Cumhuriyet",
-  "summary_tr": "Erdoğan NATO Zirvesi'nde konuştu, Trump'a destek ve takdir mesajları verdi; Ukrayna-İran durumunu değerlendirdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-08T10:01:19.281306+00:00",
-  "type": "news",
-  "cluster_id": "ce78f1ae31b7f"
- },
- {
-  "title": "ABD Savunma Bakanı, Türkiye'ye F-35 savaş uçaklarının tedariki gündemli İsrail ziyaretini iptal etti",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-savunma-bakani-turkiyeye-f-35-savas-ucaklarinin-tedariki-gundemli-israil-ziyaretini-iptal-etti/3990680",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Savunma Bakanı, Türkiye'ye F-35 savaş uçakları tedariki görüşmek için İsrail ziyaretini iptal etti.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-08T10:01:19.281306+00:00",
-  "type": "news",
-  "cluster_id": "cd6e76c8fc769"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan: Yeteneklerimizi ihtiyaç duyulan aşamada ittifakın hizmetine sunmanın gayretindeyiz",
-  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-yeteneklerimizi-ihtiyac-duyulan-asamada-ittifakin-hizmetine-sunmanin-gayretindeyiz/3990474",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Erdoğan, Türkiye'nin NATO ittifakının savunma görevlerine 2030'dan önce ulaşacağını; yeteneklerini sunmaya hazır olduğunu açıkladı.",
-  "metric": "Savunma harcamaları hedefi yüzde 3,5 düzeyine ve 5 yıl erken",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-08T10:01:19.281306+00:00",
-  "type": "news",
-  "cluster_id": "c2c7b0d324ec3"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan: Savunma hedeflerine 5 yıl erken ulaşacağız",
-  "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-savunma-hedeflerine-5-yil-erken-ulasacagiz-950637.html",
-  "source": "TRT Haber",
-  "summary_tr": "Erdoğan, savunma harcamalarını yüzde 3,5'e 5 yıl erken, 2030'dan önce çıkaracağını açıkladı.",
-  "metric": "Savunma harcama hedefi yüzde 3,5 (5 yıl erken)",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-08T10:01:19.281306+00:00",
-  "type": "news",
-  "cluster_id": "c639c407029cf"
- },
- {
-  "title": "Apple, AB ile dijital kurallar konusundaki hukuki mücadeleyi kaybetti",
-  "link": "https://www.trthaber.com/haber/dunya/apple-ab-ile-dijital-kurallar-konusundaki-hukuki-mucadeleyi-kaybetti-950631.html",
-  "source": "TRT Haber",
-  "summary_tr": "AB Mahkemesi, Apple'ın Dijital Piyasalar Yasası'na karşı hukuki mücadelesini reddetti; Big Tech'e karşı düzenleme güçlendi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-08T10:01:19.281306+00:00",
-  "type": "news",
-  "cluster_id": "cc7adbd8e6e5d"
  }
 ]
