@@ -1,5 +1,65 @@
 [
  {
+  "title": "Motorinde ÖTV'nin sıfırlanması ne anlama geliyor?",
+  "link": "https://www.dw.com/tr/motorinde-ötv-nin-sıfırlanması-ne-anlama-geliyor/a-78352688?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Hazine Bakanı Mehmet Şimşek motorinde ÖTV'yi Ağustos sonuna kadar sıfırladığını açıkladı; karar pompa fiyatlarını kısa vadede düşürecek.",
+  "metric": "ÖTV -> %0",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-13T12:01:08.212065+00:00",
+  "type": "news",
+  "cluster_id": "c8f690ceee260"
+ },
+ {
+  "title": "Mehmet Şimşek: Ağustos ayının kalanında motorinde ÖTV'yi sıfırlıyoruz",
+  "link": "https://www.diken.com.tr/mehmet-simsek-agustos-ayinin-kalaninda-motorinde-otvyi-sifirliyoruz/?utm_source=rss&utm_medium=rss&utm_campaign=mehmet-simsek-agustos-ayinin-kalaninda-motorinde-otvyi-sifirliyoruz",
+  "source": "Diken",
+  "summary_tr": "Hazine ve Maliye Bakanı Mehmet Şimşek motorinde ÖTV'yi Ağustos ayının kalanında sıfırladığını duyurdu.",
+  "metric": "ÖTV -> %0",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-13T12:01:08.212065+00:00",
+  "type": "news",
+  "cluster_id": "c926ac861c59b"
+ },
+ {
+  "title": "Dört ay sonrası için kötü haber: 830 lirayı geçen elektrik faturası iki katına yuvarlanacak",
+  "link": "https://www.sozcu.com.tr/dort-ay-sonrasi-icin-kotu-haber-830-lirayi-gecen-elektrik-faturasi-iki-katina-yuvarlanacak-p347033",
+  "source": "Sözcü",
+  "summary_tr": "Elektrik tarifesinde limitlerin yeniden düşürülmesi gündemine alındı; yüksek tüketim faturalarının iki katına çıkabilmesi bekleniyor.",
+  "metric": "elektrik faturası -> 830 TL'yi aşacak (2 kat artış)",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-13T12:01:08.212065+00:00",
+  "type": "news",
+  "cluster_id": "cd5f3d76f84e6"
+ },
+ {
+  "title": "Merkez Bankası rezervlerinde güçlü artış",
+  "link": "https://www.sozcu.com.tr/merkez-bankasi-rezervlerinde-guclu-artis-p347034",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye Cumhuriyet Merkez Bankası rezervlerinde 7 Ağustos haftasında güçlü bir artış kaydedildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-13T12:01:08.212065+00:00",
+  "type": "news",
+  "cluster_id": "c3863901a22a4"
+ },
+ {
+  "title": "Geniş tanımlı işsizlik oranı: %29",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMHlqVml4MnFZSHEtR1poNXNEQzl0N2xvbTgzU2prNjM0T01FU3dpN29aVFdrWmh2WnFCQ2dWdHQtYmxjLWZxY0xTbWpjWm1jV1NvbTZDcWhUREUwRXpobFBCNE5FQjQ1Z0FqY1ZMdkcwajhyZGxtY05xT3hiY3c2QnRHZEVXTHM?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%28,8 → %29 (+0,2 puan)",
+  "metric": "+0,2 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-13T12:01:08.212065+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Merkez Bankası tahmini yükseltti: İşte Ocak 2027 emekli zammında yeni rakamlar",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasi-tahmini-yukseltti-iste-ocak-2027-emekli-zamminda-yeni-rakamlar-2528782",
   "source": "Cumhuriyet",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-08T07:01:23.672838+00:00",
   "type": "news",
   "cluster_id": "cd5c3a3bf0cff"
- },
- {
-  "title": "Danimarka Başbakanından Avrupa’nın yeniden silahlanması ve NATO'nun güçlendirilmesi çağrısı",
-  "link": "https://www.aa.com.tr/tr/gundem/danimarka-basbakanindan-avrupa-nin-yeniden-silahlanmasi-ve-natonun-guclendirilmesi-cagrisi/3990044",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Danimarka Başbakanı Frederiksen, Avrupa'nın yeniden silahlanması ve NATO'nun güçlendirilmesi çağrısında bulundu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-08T07:01:23.672838+00:00",
-  "type": "news",
-  "cluster_id": "ce747dfa8e443"
- },
- {
-  "title": "Kanada Başbakanı Carney, savunma alanındaki harcamaları ciddi şekilde artırdıklarını belirtti",
-  "link": "https://www.aa.com.tr/tr/gundem/kanada-basbakani-carney-savunma-alanindaki-harcamalari-ciddi-sekilde-artirdiklarini-belirtti/3990020",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Kanada Başbakanı Carney, ülkesinin savunma harcamalarını ciddi şekilde artırdığını belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-08T07:01:23.672838+00:00",
-  "type": "news",
-  "cluster_id": "ce032928cdd16"
- },
- {
-  "title": "ABD, Hürmüz Boğazı'nda petrol akışının hızlanmasıyla bu yıl için petrol fiyatı tahminini düşürdü",
-  "link": "https://www.aa.com.tr/tr/ekonomi/abd-hurmuz-bogazinda-petrol-akisinin-hizlanmasiyla-bu-yil-icin-petrol-fiyati-tahminini-dusurdu/3990003",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD EIA, Hürmüz Boğazı'nda petrol akışının hızlanması nedeniyle 2026 yılı petrol fiyatı tahminini düşürdü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-08T07:01:23.672838+00:00",
-  "type": "news",
-  "cluster_id": "c107b2bd8e7d6"
- },
- {
-  "title": "Küresel piyasalar jeopolitik gerilimlerin gölgesinde Fed tutanaklarına odaklandı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-jeopolitik-gerilimlerin-golgesinde-fed-tutanaklarina-odaklandi/3990004",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Küresel piyasalar, Ortadoğu'daki jeopolitik gerilimlerin enflasyon ve merkez bankası politikasına etkisine odaklandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-08T07:01:23.672838+00:00",
-  "type": "news",
-  "cluster_id": "c8375e3a285ee"
- },
- {
-  "title": "Arif Kızılyalın: Kutulu ürünlere örtülü zam var; ticaret bakanı umarız uzaktan 'bak'maz",
-  "link": "https://www.diken.com.tr/arif-kizilyalin-kutulu-urunlere-ortulu-zam-var-ticaret-bakani-umariz-uzaktan-bakmaz/?utm_source=rss&utm_medium=rss&utm_campaign=arif-kizilyalin-kutulu-urunlere-ortulu-zam-var-ticaret-bakani-umariz-uzaktan-bakmaz",
-  "source": "Diken",
-  "summary_tr": "Diken yazarı, kutulu ürünlere gizli zam yapıldığını ve ticaret bakanının bunu görmezden geleceğini eleştirdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-08T06:01:44.183549+00:00",
-  "type": "news",
-  "cluster_id": "c6acde5b81055"
  }
 ]
