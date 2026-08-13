@@ -1,5 +1,41 @@
 [
  {
+  "title": "Motorinde ÖTV sıfırlandı, pompaya ne kadar yansıyacak?",
+  "link": "https://www.bbc.com/turkce/articles/c0qv2x4pk7jo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Motorinde uygulanan ÖTV ay sonuna kadar sıfırlandı, eylülden itibaren kademeli olarak geri gelecek. Pompa fiyatlarına yansıması bekleniyor.",
+  "metric": "ÖTV: %100 -> %0 (geçici)",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-13T14:01:10.023428+00:00",
+  "type": "news",
+  "cluster_id": "c548676205178"
+ },
+ {
+  "title": "Vergi, SGK ve trafik cezalarında kırmızı alarm: 31 Ağustos son gün",
+  "link": "https://www.sozcu.com.tr/vergi-sgk-ve-trafik-cezalarinda-kirmizi-alarm-31-agustos-son-gun-p347087",
+  "source": "Sözcü",
+  "summary_tr": "Vergi, SGK, MTV ve trafik cezalarında borç yapılandırmasının son günü 31 Ağustos olarak belirlenmiş. Ödemenizi bu tarihe kadar yapmanız gerekiyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-13T14:01:10.023428+00:00",
+  "type": "news",
+  "cluster_id": "c3ce6c5420743"
+ },
+ {
+  "title": "Geniş tanımlı işsizlik oranı: %28,8",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd3VwLWlGazAyMEFOZjRGY1NHbl9QcjA0UU81MWJVRVRBWG5rdjVIdTNZbUFiMFhJTUlhck9LUWJpaWJYdnhvd21PUUtRbzZ4MmdSdF82bGFRYzRGOHZkR0hmMHJXUnlRY1VDWnlKRXh6d3ZZV3dMc3F4UDdXZ25hajJXQVYxaGxSQUhxN2FQWVBWc3AwQ3dnS2loQzZheWZqSVNLaHRyZGN1czhBNktvS3BXSmx6Z2s?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%29 → %28,8 (-0,2 puan)",
+  "metric": "-0,2 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-13T14:01:10.023428+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Vergi rekortmenleri listesi: İlk sıra Bayraktar ailesinin",
   "link": "https://www.diken.com.tr/vergi-rekortmenleri-listesi-ilk-sira-bayraktar-ailesinin/?utm_source=rss&utm_medium=rss&utm_campaign=vergi-rekortmenleri-listesi-ilk-sira-bayraktar-ailesinin",
   "source": "Diken",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-08T07:01:23.672838+00:00",
   "type": "news",
   "cluster_id": "c1e24d2bf9296"
- },
- {
-  "title": "ABD: Ticari gemileri hedef aldığı gerekçesiyle İran'da 80'den fazla hedefi vurduk",
-  "link": "https://www.trthaber.com/haber/dunya/abd-ticari-gemileri-hedef-aldigi-gerekcesiyle-iranda-80den-fazla-hedefi-vurduk-950595.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD ordusu, Hürmüz Boğazı'ndan geçen ticari gemilere yapılan saldırılara karşılık İran'da 80'den fazla askeri hedefi vurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-08T07:01:23.672838+00:00",
-  "type": "news",
-  "cluster_id": "ce5182e3bb9f2"
- },
- {
-  "title": "Iran targets sites in Bahrain, Kuwait after wave of US strikes",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXVzMnQ5aVh0S2MxNlBNWXBLcWZ0TFNrUWJuVFRRWjhKSmFVb2UtcGVWNWNVajcwb2dGVERnc3E5QVZseV9qN3RqdFBueUtRUUp3WTA0UVlSREdxOHN4UmV1QUdxSDh1cHVjNFZCWkRqVGpudXpHRnNiOWlMamoyaXY3Tl9ZT0pua1lDTHFNR3hUY1BxWWxHWktDSmpSNEVSOTVTQVZLb1VXaHg0dHc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran, ABD'nin geniş ölçekli füze ve İHA saldırılarına karşılık Bahreyn ve Kuveyt'teki hedefleri vurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-08T07:01:23.672838+00:00",
-  "type": "news",
-  "cluster_id": "ca3a706bc6e1d"
- },
- {
-  "title": "Tehran targets Bahrain and Kuwait after US strikes and limits Iran's oil sales over ship attacks",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTXRXN1ZOY3dWb0Y3bFliM0t6QVRjQkxGNmNRRkVPM29YazVXaXVpaFo3N2h2MHdBLUlTMWNROTJuTUJQNFhaR3BwTzV5b0NDYk1WOG5NMXRHLWhuNHF1NXJqOFM0Vzg2TWo2bXRCUS11WmFEeU45UURDV0dqX0szLWxfbkptQXFxQVJXM0hjY2lkS1VJdkljZWFR?oc=5",
-  "source": "AP",
-  "summary_tr": "İran, ABD saldırılarına karşılık Bahreyn ve Kuveyt'i hedef aldı; aynı zamanda gemi saldırıları nedeniyle petrol satışlarını sınırlandırdı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-08T07:01:23.672838+00:00",
-  "type": "news",
-  "cluster_id": "ca3a706bc6e1d"
  }
 ]
