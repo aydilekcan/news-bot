@@ -1,5 +1,65 @@
 [
  {
+  "title": "ABD'de perakende satışlar temmuzda azaldı",
+  "link": "https://www.sozcu.com.tr/abd-de-perakende-satislar-temmuzda-azaldi-p347423",
+  "source": "Sözcü",
+  "summary_tr": "ABD perakende satışları temmuzda %0,6 düşerek Ekim 2025'ten beri ilk azalışını kaydetti.",
+  "metric": "ABD perakende satışları temmuzda -0,6%",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-14T14:01:06.136041+00:00",
+  "type": "news",
+  "cluster_id": "c3f6262bb228d"
+ },
+ {
+  "title": "ABD'de perakende satışlar temmuzda artış beklentilerinin aksine azaldı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abdde-perakende-satislar-temmuzda-artis-beklentilerinin-aksine-azaldi/4027478",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD perakende satışları temmuzda %0,6 düşerek Ekim 2025'ten beri ilk azalışını kaydetti.",
+  "metric": "ABD perakende satışları temmuzda -0,6%",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-14T14:01:06.136041+00:00",
+  "type": "news",
+  "cluster_id": "c3f6262bb228d"
+ },
+ {
+  "title": "'Beklentinin üzerinde' denilen zam erdi: Hedefler katlandı, hayat pahalılığı büyüdü",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMEZKOGY1MkF6eEVJbjB6RVN4TzVlanlJYlBmeXRBXzJyNTZTa3g3bER4bWdEbXVKbzNybHhuaFJBWlhtdjl2aTNJUk9SQXlDUTZKNGRTZVhJZnk3M3RhcXFFOTdHTjJDbFFNTEJGRFdyTUlGVFN2UmtSTVRrOXY0bG9qTUUwM1VqT0NOZ2c2Vl9ZYTBXT3BVX19SRDBwSnoxdFg1bEZXb3BHRTluRmgyZTFadVJFc2lU?oc=5",
+  "source": "soL",
+  "summary_tr": "Beklentilerin üzerinde verilen zam, hedefleri katladı ve hayat pahalılığını artırdı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-14T14:01:06.136041+00:00",
+  "type": "news",
+  "cluster_id": "c56ab898d5ac0"
+ },
+ {
+  "title": "US retail sales unexpectedly fall in July",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSUpsdlVVb2FPYVpWSk4wT3hkMFo0eHhoZDBfemp1cVJ5b0pVeUREcVRMRE8yQjlYVE9NdDQ2VmlVbEt0RHZXYUgwYlZGNnVuMUgxUW9FdDRORnU1TGI5b0xWZGdTNzNQQXlzb1pfdDNkejhDX1RqZmpoamstRXZoYjExRnZ0WWdVMVRR?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD perakende satışları temmuzda beklenilerin aksine %0,6 düşerek Ekim 2025'ten beri ilk azalışını kaydetti.",
+  "metric": "ABD perakende satışları temmuzda -0,6%",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-14T14:01:06.136041+00:00",
+  "type": "news",
+  "cluster_id": "c96ef74732f2d"
+ },
+ {
+  "title": "Tarım ÜFE (aylık): %2,3",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ01jdHBZWFgtUWgtNVJROE1wTjdhZ0N3TVZTVkMzd1l1Z2wzQkZEbWppTXVWNmw1WjMySUxwRnpBVzdCeTZ5QzBSSVRTRm9JcmFWWjdkVWZjajAyb01jTkQ3Rzd0NDRFeDJ6b09YVlZjYkVxRDd6dFVRaU55TzFVckQzODg4TXc5Y3Bqdm9YYnhtZnl2?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%-9 → %2,3 (+11,3 puan)",
+  "metric": "+11,3 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-14T14:01:06.136041+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "İran, Hürmüz Boğazı yakınlarında ABD'ye ait MQ-9 tipi İHA'yı düşürdüğünü duyurdu",
   "link": "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazi-yakinlarinda-abdye-ait-mq-9-tipi-ihayi-dusurdugunu-duyurdu/4027425",
   "source": "Anadolu Ajansı",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-08T17:01:21.755431+00:00",
   "type": "news",
   "cluster_id": "cf9c19c1e8d1a"
- },
- {
-  "title": "Tansiyon yükseliyor: Trump'ın \"Vuracağız\" dedi, İran'dan sert yanıt geldi",
-  "link": "https://www.sozcu.com.tr/tansiyon-yukseliyor-trump-in-vuracagiz-dedi-iran-dan-sert-yanit-geldi-p334831",
-  "source": "Sözcü",
-  "summary_tr": "Ankara NATO Zirvesi'nde ABD-İran gerilimi tırmanıyor. Trump 'vuracağız' dedi; İran sert şekilde yanıt verdi ve karşılık tehdidi yaptı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-08T16:01:24.634233+00:00",
-  "type": "news",
-  "cluster_id": "cff3e24e0cf72"
- },
- {
-  "title": "ABD Başkanı Trump, Suriye'yi \"teröre destek veren devletler listesinden\" çıkaracağını söyledi",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-suriyeyi-terore-destek-veren-devletler-listesinden-cikaracagini-soyledi/3991571",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Trump, Suriye'yi 1979'dan beri bulunduğu 'teröre destek veren devletler listesinden' çıkaracağını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-08T16:01:24.634233+00:00",
-  "type": "news",
-  "cluster_id": "c1ac5c112ab3f"
- },
- {
-  "title": "İran basını: İran, herhangi bir yeni saldırı durumunda Hürmüz Boğazı'nı kapatacak",
-  "link": "https://www.trthaber.com/haber/dunya/iran-basini-iran-herhangi-bir-yeni-saldiri-durumunda-hurmuz-bogazini-kapatacak-950679.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran basını, olası ABD saldırısına karşılık olarak Hürmüz Boğazı'nı kapatacağını ve şiddetli karşılık vereceğini bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-08T16:01:24.634233+00:00",
-  "type": "news",
-  "cluster_id": "c44597ef8cf4b"
- },
- {
-  "title": "Trump, Şara ile basın toplantısında açıkladı: 'Suriye terör listesinden çıkacak'",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM2tmVFBka2EyVEZuMjNqcHAzZzVfcUdKaU13TUNwOGlXLVpmYVZYVjJmbXgtNVA4b3ltT3F5R0g0cU1JMFhGUFVHSDZsRG1CX19keWUwNzcxTWJ2NHV2X2FkMnNfeGN2WW8zbmZsaHAzSjRvT2RfRDFWUFRfcWZ2Nnp5YmtzZVZCYWV1ejcxUEhiNFp4ZVdUb25iWE1meGVQam9uZVJqdklZUHpGa3RDeEduVG0?oc=5",
-  "source": "soL",
-  "summary_tr": "Trump, Suriye lideri Şara ile basın toplantısında Suriye'nin terör listesinden çıkarılacağını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-08T16:01:24.634233+00:00",
-  "type": "news",
-  "cluster_id": "cf27388df16a5"
- },
- {
-  "title": "NATO'nun Ankara Zirvesi Bildirisi'nde neler var?",
-  "link": "https://www.bbc.com/turkce/articles/ckg04q901j2o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "NATO Ankara Zirvesi Bildirisi yayınlandı. Tüm üyeler tarafından onaylanan bildiri, zirvede alınan kararları kapsamlı şekilde yansıtıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-08T16:01:24.634233+00:00",
-  "type": "news",
-  "cluster_id": "c58d64ab54b4a"
  }
 ]
