@@ -1,5 +1,77 @@
 [
  {
+  "title": "Russian drones kill a woman and 9-year-old son at home as Ukrainian civilian casualties surge",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2pLZ0tRaGRjYmpzc25PRnlPRGxSdXF3VnFpOHZCUmlJdldha2lPcE15YVNZSk5VdWZxVGNQU0h0UlUzWUhuT2x5OFg3RFJaalBXMEFSSUtIaEhVTTNvVW43VDVYS0V6WkFlMmJRdVJfTU9SdkFKbUFtYjVJWTJxT2Z4YWNKVTRKLUJ6M3k4dWN5R0xEZVlyVzFmYm5aa1ZSelc2RA?oc=5",
+  "source": "AP",
+  "summary_tr": "Rus dronları Ukrayna'da bir kadın ve 9 yaşındaki oğlunu evinde öldürdü; sivil kayıpları tırmanış devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-14T20:01:09.184354+00:00",
+  "type": "news",
+  "cluster_id": "ccff7d2272cbd"
+ },
+ {
+  "title": "AKP 280 vekile ulaştı: Meclis'te yeni sandalye dağılımı",
+  "link": "https://www.diken.com.tr/akp-280-vekile-ulasti-mecliste-yeni-sandalye-dagilimi/?utm_source=rss&utm_medium=rss&utm_campaign=akp-280-vekile-ulasti-mecliste-yeni-sandalye-dagilimi",
+  "source": "Diken",
+  "summary_tr": "AKP üç milletvekili daha kazanarak TBMM'de 280 vekillik sınırına ulaştı; sandalye dağılımında değişim yaşandı.",
+  "metric": "AKP vekil sayısı: 277 -> 280 (+3)",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-14T20:01:09.184354+00:00",
+  "type": "news",
+  "cluster_id": "c045da6839358"
+ },
+ {
+  "title": "Erdoğan rozetleri taktı: 3 milletvekili ve 7 belediye başkanı AKP’ye katıldı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/erdogan-rozetleri-takti-3-milletvekili-ve-7-belediye-baskani-akp-ye-katildi-2529168",
+  "source": "Cumhuriyet",
+  "summary_tr": "İYİ Parti ve Gelecek Partisi'nden toplam 3 milletvekili ile 7 belediye başkanı AKP'ye katıldı; Erdoğan rozetleri taktı.",
+  "metric": "Transferler: 3 milletvekili + 7 belediye başkanı",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-14T20:01:09.184354+00:00",
+  "type": "news",
+  "cluster_id": "c5e45c6e4957d"
+ },
+ {
+  "title": "3 milletvekili ve 7 belediye başkanı AKP’ye geçti: Rozetlerini Erdoğan taktı",
+  "link": "https://www.sozcu.com.tr/son-dakika-3-vekil-akp-ye-gecti-rozetlerini-erdogan-takti-p349464",
+  "source": "Sözcü",
+  "summary_tr": "İYİ Parti'den 3 milletvekili ve çeşitli partilerden 7 belediye başkanı AKP'ye geçti; rozetler Erdoğan tarafından takıldı.",
+  "metric": "Transferler: 3 milletvekili + 7 belediye başkanı",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-14T20:01:09.184354+00:00",
+  "type": "news",
+  "cluster_id": "c5e45c6e4957d"
+ },
+ {
+  "title": "AKP 25'inci yılını üç milletvekili ve yedi belediye başkanının transferiyle kutladı",
+  "link": "https://www.diken.com.tr/akp-25inci-yilini-uc-milletvekili-ve-yedi-belediye-baskaninin-transferiyle-kutladi/?utm_source=rss&utm_medium=rss&utm_campaign=akp-25inci-yilini-uc-milletvekili-ve-yedi-belediye-baskaninin-transferiyle-kutladi",
+  "source": "Diken",
+  "summary_tr": "AKP 25. kuruluş yıldönümünü 3 milletvekili ve 7 belediye başkanının katılımıyla kutladı.",
+  "metric": "Transferler: 3 milletvekili + 7 belediye başkanı",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-14T20:01:09.184354+00:00",
+  "type": "news",
+  "cluster_id": "ca47dd44db832"
+ },
+ {
+  "title": "İYİ Partili Ömer Karakaş, AKP’ye katıldı; Öcalan paylaşımını kaldırdı",
+  "link": "https://www.sozcu.com.tr/omer-karakas-bebek-katili-paylasimini-kaldirdi-p349470",
+  "source": "Sözcü",
+  "summary_tr": "İYİ Parti Aydın Milletvekili Ömer Karakaş AKP'ye katıldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-14T20:01:09.184354+00:00",
+  "type": "news",
+  "cluster_id": "c151585eb75cb"
+ },
+ {
   "title": "US retail sales slump unexpectedly and sharply after a summer tax-refund boost fades",
   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORk16TW44WWs3VlZRdGE5Zy1ZeUs5NVNnX2tRanhTSmdnZ0tHbGtMM2tJamJHdlNNdkROdWo4WmZwMkx1STFmdUpEX3ZvRzdXVTlJUmxpako5dDNyS3p2QzB4a3ROa2R6RWtDcXBNMlNJU2RHMGFjeHJrWG1EaUQ3aElIOTVyaWk0WUZoM2g1ZGJqVnJKUmY4cVZrWHA3XzFrbFFNUXNB?oc=5",
   "source": "AP",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-08T21:01:15.996700+00:00",
   "type": "news",
   "cluster_id": "c07b985ecfd24"
- },
- {
-  "title": "Trump rescinds Syria state sponsor of terrorism designation",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRGtWRExZWmd5QXpaYmFjXzI2d0U0SVFPeVRkSlJVS2lVODJBckVjcTdVRUZOeHNNN2RHMVFGNXduZWFxV0g0UFUtVkNFWjh1VHRZWEZjdjZ6bVl1SGFNMVBreDZSdnpILUtQeEoxVE8xcmU0Q0lGb2hCVDJHZjJ2TG5TOWZ3VVpDYUlRVElrZU51TnF2RXBTbnhhOE5OVVdKdk1n?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, Suriye'nin terör sponsoru ülke statüsünü kaldırdı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-08T21:01:15.996700+00:00",
-  "type": "news",
-  "cluster_id": "c8ece060e5432"
- },
- {
-  "title": "IEA, IMF, Dünya Bankası ve DTÖ, Orta Doğu'daki savaşın etkilerini değerlendirdi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/iea-imf-dunya-bankasi-ve-dto-orta-dogudaki-savasin-etkilerini-degerlendirdi/3992433",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "IEA, IMF, Dünya Bankası ve DTÖ başkanları Orta Doğu'daki savaşın ekonomik etkilerini değerlendirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-08T21:01:15.996700+00:00",
-  "type": "news",
-  "cluster_id": "c6e4280c6c901"
- },
- {
-  "title": "İsrail’in Lübnan saldırılarında can kaybı 4 bin 321’e yükseldi",
-  "link": "https://www.cumhuriyet.com.tr/dunya/israil-in-lubnan-saldirilarinda-can-kaybi-4-bin-321-e-yukseldi-2519233",
-  "source": "Cumhuriyet",
-  "summary_tr": "Lübnan Sağlık Bakanlığı, İsrail'in 2 Mart'tan bu yana Lübnan'a düzenlediği saldırılarda hayatını kaybedenlerin sayısının 4.321'e yükseldiğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-08T20:01:09.595012+00:00",
-  "type": "news",
-  "cluster_id": "c164ea0d05a15"
- },
- {
-  "title": "O Avrupa ülkesi NATO'nun sonuç bildirisine karşı çıktı! 'Biz katkı sağlamayacağız'",
-  "link": "https://www.cumhuriyet.com.tr/dunya/o-avrupa-ulkesi-nato-nun-sonuc-bildirisine-karsi-cikti-biz-katki-saglamayacagiz-2519239",
-  "source": "Cumhuriyet",
-  "summary_tr": "Çekya Başbakanı Babis, NATO Ankara Zirvesi Sonuç Bildirisi'ndeki Ukrayna'ya 70 milyar avroluk askeri taahhüdüne karşı çıktığını bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-08T20:01:09.595012+00:00",
-  "type": "news",
-  "cluster_id": "c5580aa75517e"
- },
- {
-  "title": "Bir Avrupa ülkesi NATO Bildirgesi’ne karşı çıktı: Biz katkı sağlamayacağız",
-  "link": "https://www.sozcu.com.tr/bir-avrupa-ulkesi-nato-bildirgesi-ne-karsi-cikti-biz-katki-saglamayacagiz-p334869",
-  "source": "Sözcü",
-  "summary_tr": "Çekya Başbakanı Babis, NATO Ankara Zirvesi'nde 2026-2027 için Ukrayna'ya ayrılan yardıma katkı sağlamayacaklarını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-08T20:01:09.595012+00:00",
-  "type": "news",
-  "cluster_id": "c5580aa75517e"
- },
- {
-  "title": "Fed tutanakları, yetkililerin faiz artışı gerektirebilecek risklere işaret ettiğini gösterdi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/fed-tutanaklari-yetkililerin-faiz-artisi-gerektirebilecek-risklere-isaret-ettigini-gosterdi/3992318",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Fed tutanakları, yetkililerinin yapay zeka talep artışı, Orta Doğu savaşı ve tarife etkileri nedeniyle faiz artışı gerekebileceğine işaret ettiğini gösterdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-08T20:01:09.595012+00:00",
-  "type": "news",
-  "cluster_id": "cb7a950ee1177"
  }
 ]
