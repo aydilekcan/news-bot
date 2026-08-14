@@ -1,5 +1,41 @@
 [
  {
+  "title": "Akaryakıta çifte zam geldi",
+  "link": "https://www.sozcu.com.tr/akaryakita-cifte-zam-geldi-p347206",
+  "source": "Sözcü",
+  "summary_tr": "Akaryakıta çifte zam uygulandı; ÖTV indirimi nedeniyle vergi azalmasına rağmen uluslararası piyasalardaki yükseliş nedeniyle fiyatlar arttı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-14T05:01:16.263526+00:00",
+  "type": "news",
+  "cluster_id": "c56ab518420cd"
+ },
+ {
+  "title": "Dünyada kiraların en çok arttığı şehirler açıklandı: İşte İstanbul'un sıralaması",
+  "link": "https://www.sozcu.com.tr/dunyada-kiralarin-en-cok-arttigi-sehirler-aciklandi-iste-istanbul-un-siralamasi-p347197",
+  "source": "Sözcü",
+  "summary_tr": "Küresel konut piyasasında 2020-2025 döneminde kiralar rekor seviyelere çıktı; İstanbul kiraları dünya şehirleri arasında en çok artan yerler arasında yer almaktadır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-14T05:01:16.263526+00:00",
+  "type": "news",
+  "cluster_id": "c4afa543c15fe"
+ },
+ {
+  "title": "ByD rezaleti bakanın koltuğuna mal olacak",
+  "link": "https://www.sozcu.com.tr/byd-rezaleti-bakanin-koltuguna-mal-olacak-p347202",
+  "source": "Sözcü",
+  "summary_tr": "ByD rezaleti nedeniyle kabine değişikliği kulislerde tartışılıyor; seçime kadar dört bakan adayı gündeme gelmektedir.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-14T05:01:16.263526+00:00",
+  "type": "news",
+  "cluster_id": "c07d20f239d03"
+ },
+ {
   "title": "ABD'de siber güvenlikte yeni dönem: Özel şirketlere hack yetkisi verildi",
   "link": "https://www.trthaber.com/haber/dunya/abdde-siber-guvenlikte-yeni-donem-ozel-sirketlere-hack-yetkisi-verildi-953915.html",
   "source": "TRT Haber",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-08T13:01:22.451360+00:00",
   "type": "news",
   "cluster_id": "c4f69b8bc5d14"
- },
- {
-  "title": "İBB davası",
-  "link": "https://www.diken.com.tr/ibb-davasi-imamoglu-salondan-cikarildi/?utm_source=rss&utm_medium=rss&utm_campaign=ibb-davasi-imamoglu-salondan-cikarildi",
-  "source": "Diken",
-  "summary_tr": "İBB davasında İmamoğlu salondan çıkarıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-08T13:01:22.451360+00:00",
-  "type": "news",
-  "cluster_id": "c366c3b6857c5"
- },
- {
-  "title": "Elon Musk'ın servetinde tarihi erime: Tam 500 milyar dolar kaybetti",
-  "link": "https://www.sozcu.com.tr/elon-musk-in-servetinde-tarihi-erime-tam-500-milyar-dolar-kaybetti-p334792",
-  "source": "Sözcü",
-  "summary_tr": "SpaceX halka arzının ardından Elon Musk'ın servetinde 500 milyar dolar kayıp yaşandı.",
-  "metric": "Elon Musk servetinde 500 milyar dolar erime",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-08T13:01:22.451360+00:00",
-  "type": "news",
-  "cluster_id": "cd6bdd35632e0"
- },
- {
-  "title": "Kriz büyüyor: ABD saldırısı sonrası İran'da havalimanı kapatıldı",
-  "link": "https://www.sozcu.com.tr/kriz-buyuyor-abd-saldirisi-sonrasi-iran-da-havalimani-kapatildi-p334789",
-  "source": "Sözcü",
-  "summary_tr": "ABD saldırısı sonrası İran'da Hürmüzgan Havalimanı kapatıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-08T13:01:22.451360+00:00",
-  "type": "news",
-  "cluster_id": "c8139a39361dd"
  }
 ]
