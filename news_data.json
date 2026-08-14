@@ -1,5 +1,65 @@
 [
  {
+  "title": "İsrail'den Batı Şeria'da abluka ve ilhak adımı",
+  "link": "https://www.dw.com/tr/israil-den-batı-şeria-da-abluka-ve-ilhak-adımı/a-78374476?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "İsrail Savunma Bakanı Katz, Batı Şeria'da güvenlik yetkilerinin polise devredilmesini ve fiili ilhak adımlarını istedi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-14T16:01:08.034547+00:00",
+  "type": "news",
+  "cluster_id": "ccf3b463ec0b6"
+ },
+ {
+  "title": "Ankara’da toplu taşıma ücretlerine zam geldi: Tam bilet 40 lira oldu",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ0FrSGpvVmZUaFh6Z2ZicTFtNjJOSHJyeGUxMVZNV2pYZGh4R2ZPVEU1ZnpURE9vR250UjdOcV9NU3dJWXFJSTNCNld1YzlsUWdhWjVVbjlyYkFLbEhDSTY1a2p4M0g1ZDJLdHJpM0U0c3kwd2xyc3NZaGxBUkxXMXdlNFB2WUhGWEk0WnI3SUh2dGdE?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Ankara'da toplu taşıma ücretlerine zam yapıldı; tam bilet fiyatı 40 liraya yükseltildi.",
+  "metric": "Ankara toplu taşıma tam bilet: ? -> 40 TL",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-14T16:01:08.034547+00:00",
+  "type": "news",
+  "cluster_id": "c4a0c8e4246e6"
+ },
+ {
+  "title": "TBMM'de sandalye dağılımı değişti",
+  "link": "https://www.aa.com.tr/tr/gundem/tbmmde-sandalye-dagilimi-degisti/4027623",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İzmir Milletvekili Bilici'nin istifasıyla Yeni Yol Partisi TBMM'de grup olmak için gerekli 20 milletvekili sayısını kaybetti.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-14T16:01:08.034547+00:00",
+  "type": "news",
+  "cluster_id": "c474f1943626c"
+ },
+ {
+  "title": "Hormuz traffic slows further after US threatens more economic pressure on Iran",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, İran'a ekonomik baskı tehdidi altında Hormuz Boğazı'nda trafik daha da yavaşladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-14T16:01:08.034547+00:00",
+  "type": "news",
+  "cluster_id": "cadb9bf7b3981"
+ },
+ {
+  "title": "Wall Street holds near its record following the latest weak update on the US economy",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaHZRYUU0eWZPOG1WOUx5U1BpNXRlenFUWnhSdEJvbExTQXl6amlVS2w2YV9wY1JENXkyOG45VUVsaENIb1FUUms1RFBoN2djemxuLVBPMG1GVHlMWTY3aVJuT3BHUEVwVzQ1YnVsYndPUnRyRzhEYzBXbmdMX1NPSW5GUHlLNm0tZHJKYWs5TmllTElIV3l6ZDRrOG1IVE05OUc4QQ?oc=5",
+  "source": "AP",
+  "summary_tr": "Wall Street, ABD ekonomisindeki zayıf veri sonrasında rekor seviyelerine yakın dengelendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-14T16:01:08.034547+00:00",
+  "type": "news",
+  "cluster_id": "cf20ed8a77a3c"
+ },
+ {
   "title": "Ankara’da toplu ulaşım ücretlerine yüzde 14,30 zam yapıldı",
   "link": "https://www.cumhuriyet.com.tr/turkiye/ankara-da-toplu-ulasim-ucretlerine-yuzde-14-30-zam-yapildi-2529124",
   "source": "Cumhuriyet",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-08T18:01:13.301817+00:00",
   "type": "news",
   "cluster_id": "cb26181d71139"
- },
- {
-  "title": "Trump'tan F-35 sorusuna yanıt: 'Brunson'u hatırlattı, 'karar vereceğiz' dedi",
-  "link": "https://www.cumhuriyet.com.tr/dunya/trump-su-anda-tiktok-ta-bir-numaradayim-2519211",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Başkanı Trump, İran ile savaş olacağını sanmadığını söyledi ve Çin ile yapay zeka alanında rekabet konusunda açıklama yaptı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-08T18:01:13.301817+00:00",
-  "type": "news",
-  "cluster_id": "c3b02aa71a602"
- },
- {
-  "title": "Erdoğan'dan Netanyahu ve Miçotakis'e F-35 yanıtı",
-  "link": "https://www.sozcu.com.tr/erdogan-dan-netanyahu-ve-micotakis-e-f-35-yaniti-p334857",
-  "source": "Sözcü",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, Netanyahu ve Miçotakis'in F-35 açıklamalarına yanıt verdi ve eleştirel bir tutum ortaya koydu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-08T18:01:13.301817+00:00",
-  "type": "news",
-  "cluster_id": "c4f212a040355"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan:  NATO birbirine bağımlı ülkelerin değil, birbirine güç katan müttefiklerin ittifakı olmalıdır",
-  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-nato-birbirine-bagimli-ulkelerin-degil-birbirine-guc-katan-muttefiklerin-ittifaki-olmalidir/3991133",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, NATO'nun \"birbirine bağımlı değil, birbirine güç katan müttefiklerin ittifakı\" olması gerektiğini vurguladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-08T18:01:13.301817+00:00",
-  "type": "news",
-  "cluster_id": "c9323ee6a3d65"
- },
- {
-  "title": "Bir sonraki NATO Zirvesi'nin yapılacağı ülke belli oldu",
-  "link": "https://www.sozcu.com.tr/bir-sonraki-nato-zirvesi-nin-yapilacagi-ulke-belli-oldu-p334856",
-  "source": "Sözcü",
-  "summary_tr": "NATO Genel Sekreteri Mark Rutte, bir sonraki NATO Zirvesi'nin 2027'de Arnavutluk'ta düzenleneceğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-08T18:01:13.301817+00:00",
-  "type": "news",
-  "cluster_id": "c9f09005150a0"
- },
- {
-  "title": "Bu şartları sağlayan ofisler konuta dönüşebilecek: Son tarih belli oldu",
-  "link": "https://www.sozcu.com.tr/bu-sartlari-saglayan-ofisler-konuta-donusebilecek-son-tarih-belli-oldu-p334852",
-  "source": "Sözcü",
-  "summary_tr": "Belirli şartları sağlayan ofisler 1 Temmuz 2027'ye kadar konutya dönüştürülebilecek. Resmi Gazete'de yürürlüğe giren düzenleme yayımlandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-08T18:01:13.301817+00:00",
-  "type": "news",
-  "cluster_id": "c89c3f970f0e2"
  }
 ]
