@@ -1,5 +1,29 @@
 [
  {
+  "title": "ABD'de siber güvenlikte yeni dönem: Özel şirketlere hack yetkisi verildi",
+  "link": "https://www.trthaber.com/haber/dunya/abdde-siber-guvenlikte-yeni-donem-ozel-sirketlere-hack-yetkisi-verildi-953915.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Başkanı Trump, yabancı siber suç örgütlerine karşı özel şirketlerin siber operasyonlara dahil edilmesini onaylayan yeni bir kararı imzaladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-14T04:00:59.948397+00:00",
+  "type": "news",
+  "cluster_id": "c864915001ceb"
+ },
+ {
+  "title": "Brazil opens reciprocity process against US over tariffs",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWFlCSHhLR1NYelQ2MDFnTDNQMXg4RXpOQlBCWlI3QVJ0cERxVjVsY0lBaU5vWDdGNW1uNlY4c3ZKWk9fV01DNVR1N0ttdEUtMXZ3bmpLay0tM3B2Q1dVWWt3QWx3N1pNc0pMTHpkbVg5Uk1wOXFBTmNfLUNBdWpJcjlDQnBUd2VuR0FoU2FPVkREQW5BNU8zblczSWUzXzRoeDZBdmtnaHROVnM?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Brezilya, ABD'nin gümrük tarifeleri karşısında karşılıklı (reciprocity) işlem açma süreci başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-14T04:00:59.948397+00:00",
+  "type": "news",
+  "cluster_id": "c314a3140e23d"
+ },
+ {
   "title": "ABD, İHA ithalatına sert gümrük vergisi getirdi",
   "link": "https://www.sozcu.com.tr/abd-iha-ithalatina-sert-gumruk-vergisi-getirdi-p347191",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-08T13:01:22.451360+00:00",
   "type": "news",
   "cluster_id": "c8139a39361dd"
- },
- {
-  "title": "Hürmüz Boğazı'nda iyileşmeye başlayan gemi trafiği yeniden baskı altında",
-  "link": "https://www.aa.com.tr/tr/dunya/hurmuz-bogazinda-iyilesmeye-baslayan-gemi-trafigi-yeniden-baski-altinda/3990925",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Hürmüz Boğazı'nda gemi trafiği iyileşmeye başladı ancak iki geminin vuruşu yeniden baskı yarattı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-08T13:01:22.451360+00:00",
-  "type": "news",
-  "cluster_id": "c5a0091ab6e3f"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan, NATO Ankara Zirvesi kapsamında liderlerle bir araya geldi",
-  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-nato-ankara-zirvesi-kapsaminda-liderlerle-bir-araya-geldi/3990904",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Cumhurbaşkanı Erdoğan NATO Ankara Zirvesi kapsamında liderlerle ikili görüşmeler gerçekleştirdi.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-08T13:01:22.451360+00:00",
-  "type": "news",
-  "cluster_id": "c62a95bb958e7"
  }
 ]
