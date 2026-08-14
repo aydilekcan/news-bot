@@ -1,5 +1,65 @@
 [
  {
+  "title": "ABD, İHA ithalatına sert gümrük vergisi getirdi",
+  "link": "https://www.sozcu.com.tr/abd-iha-ithalatina-sert-gumruk-vergisi-getirdi-p347191",
+  "source": "Sözcü",
+  "summary_tr": "ABD Başkanı Trump, insansız hava araçları (İHA) ve bileşenlerine gümrük vergisi getiren kararı imzaladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-14T03:01:06.766149+00:00",
+  "type": "news",
+  "cluster_id": "cafdc8cd5c14d"
+ },
+ {
+  "title": "Oil steadies after US threatens to blockade Iran indefinitely",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHh3dmRQTVJOaXBOODZqNzdueG9RbzJ0VUZ0TTJ3UGNyaXFfOUJ4c1BsWXdKXzFWY21VZTdaaHpySzhxYXFIYnBVcUpsWDdUUE1od3pKN2psUWI1dS10enVtNzBDX0xBQUpqNmkxVE1xZE1scnFHeS1DQkM4YTRwOE01NXpwU3RWREhIWGFZMlFTcndNQzRWc3NrM0xWa2hwdlMzSE5IeEhqUzVJVFBv?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, İran'ı süresiz ambargo ile tehdit ettikten sonra petrol fiyatları stabilize oldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-14T03:01:06.766149+00:00",
+  "type": "news",
+  "cluster_id": "c349509e06a2e"
+ },
+ {
+  "title": "1.8 milyon hane karanlıkta kaldı",
+  "link": "https://www.sozcu.com.tr/1-8-milyon-hane-karanlikta-kaldi-p347185",
+  "source": "Sözcü",
+  "summary_tr": "1,8 milyon hane elektrik kesintisine uğradı; hükümet yardımları rağmen yoksulluğun arttığını gösteren gösterge.",
+  "metric": "1,8 milyon hane",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-14T03:01:06.766149+00:00",
+  "type": "news",
+  "cluster_id": "c0e12c5397c55"
+ },
+ {
+  "title": "Her gün 5 bin kişi işsiz kalıyor",
+  "link": "https://www.sozcu.com.tr/her-gun-5-bin-kisi-issiz-kaliyor-p347184",
+  "source": "Sözcü",
+  "summary_tr": "2024'ün ilk altı ayında her gün 5 bin kişi işsiz kaldı; yanlış ekonomi politikaları işsizliği artırdı.",
+  "metric": "5 bin kişi/gün",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-14T03:01:06.766149+00:00",
+  "type": "news",
+  "cluster_id": "c282ecdac4e6b"
+ },
+ {
+  "title": "Yen's slide to weekly loss prompts bets for another intervention",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVdOaGFHQW9UT2djdjRLSnBkeE9pMnJ4N3NkSVlxczRQZ0otbmJTNS1fa2VOU3dqcExCRGgwYVAxY0lKQnZvc2JUSk9BcGlkT3pPdTlRLWQzVlRuR1F4ZTBFd2FkRkVNZnFLQ2dwUXY4RlZQdjFjNngyZVp5SWd0LVJSUnNidmcwTUdnRDJOd2hsa0xaQ1Z5VmM1WmdjS3NnNmRubmdFVXpaTUk2LURMZQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Japon yeni haftaya hafif kayıpla kapandı; merkez bankası müdahalesine dair bahisler artıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-14T03:01:06.766149+00:00",
+  "type": "news",
+  "cluster_id": "c9b6faed54a73"
+ },
+ {
   "title": "Yıl sonu enflasyon tahmini: %28 (2026 yıl sonu)",
   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ3JFMndKYjZIMDBLdXNSZER3ZlBjMFhGZDRyWnQ5N3JZUTFOckFpcktKbnl1Zll0cy1BcFEtUXhxbWpQM0hZUmlhYzJyVjEtaE5GZUpnLUk4Vk11dHJEcGpJZng3X1dyZFYtX0dLMjNlYzZUQ3ZPRFZ0eWZ5V25KeWRVS0Y5bnlELUdtWExGWGI5NmZWSC1JMm9ELWpTc1N2RGp6YkoyVkZrRHpLTzQ1RGIwWmVraHVpVld6REJWMUplOGFmODE5STBhc9IBzwFBVV95cUxOeG1yV3hycnVEU182ZTlRdFgxTHhJenhVLVJBY0RKa1A3UlRobThmMi1iNmhmQlVVbnhieUlrb251SEJKR1MyRkM4LTBlSFlBeUREVE1TYk1NVzV1VnEzVWhaWnBLcTdHcURMZHgtb2VPX3ZLZ09RRXp6VU5zNG1RRjZaUDQ0VXdXSkc4RlpoTm5FYkxYTGhzY2VXQXBqYUZFdVppc2o3NHBPb3NrcTVPcHhZS054LWF5Ni03bGRJM0hzMFFjc2JhU2J5X0J1U00?oc=5",
   "source": "TCMB",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-08T13:01:22.451360+00:00",
   "type": "news",
   "cluster_id": "c62a95bb958e7"
- },
- {
-  "title": "NATO Zirvesi: Erdoğan'dan Avrupa Birliği'ne bölünme uyarısı",
-  "link": "https://www.dw.com/tr/nato-zirvesi-erdoğan-dan-avrupa-birliği-ne-bölünme-uyarısı/a-77876300?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Erdoğan NATO Zirvesi'nde AB ülkelerine bölünme uyarısı yaptı ve Türkiye'ye getirilen savunma sanayi kısıtlamalarının kaldırılmasını talep etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-08T12:01:10.403499+00:00",
-  "type": "news",
-  "cluster_id": "c0e443507bd71"
- },
- {
-  "title": "Erdogan urges NATO allies to lift defence industry restrictions at summit",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGJJSXBrd29YRXFYM3g5RVgwWVduWDE5M2NqVUplcXEzSVQ2NmU4V1gyTFNHZmlsb2V2YjhyOFhrUmZ2cTVDbWVlYnRNeDlDeXdMS1ZrRjB4UEE3a0d6SlZNZUdFc0Z3QlYwdUNhSmNhWWNWdFZqSFlvRWxKamJRUnI5OHlMdnFabFY0U1ZHU0t2WGR5c1VwVDJVOThIdUIya2s5QjY3Y3U4T3pzVkk5OUxkQkxOUkdwY0VNOHhR?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Erdoğan NATO Zirvesi'nde müttefiklerini savunma endüstrisi kısıtlamalarını kaldırmaya çağırdı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-08T12:01:10.403499+00:00",
-  "type": "news",
-  "cluster_id": "c74c03024a663"
- },
- {
-  "title": "Türk gıda devi resmen satıldı",
-  "link": "https://www.sozcu.com.tr/turk-gida-devi-resmen-satildi-p334773",
-  "source": "Sözcü",
-  "summary_tr": "Seğmen Kardeşler Gıda şirketi hisse devir sürecinde kritik eşiği geçerek resmen satıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-08T12:01:10.403499+00:00",
-  "type": "news",
-  "cluster_id": "cf974d34bd39c"
- },
- {
-  "title": "AKAMİB üyelerinden 6 ayda 392 milyon 552 bin dolarlık ihracat",
-  "link": "https://www.aa.com.tr/tr/ekonomi/akamib-uyelerinden-6-ayda-392-milyon-552-bin-dolarlik-ihracat/3990862",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "AKAMİB üyeleri ocak-haziran döneminde 392 milyon 552 bin dolar ihracat gerçekleştirdi.",
-  "metric": "İhracat 392 milyon 552 bin dolar",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-08T12:01:10.403499+00:00",
-  "type": "news",
-  "cluster_id": "cfba5d3fae98b"
- },
- {
-  "title": "Türkiye Bulgaristan ve Romanya arasında mutabakat muhtırası imzalandı",
-  "link": "https://www.trthaber.com/haber/gundem/turkiye-bulgaristan-ve-romanya-arasinda-mutabakat-muhtirasi-imzalandi-950641.html",
-  "source": "TRT Haber",
-  "summary_tr": "Milli Savunma Bakanı Yaşar Güler, Bulgaristan ve Romanya savunma bakanlarıyla görüşerek mutabakat muhtırası imzaladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-08T12:01:10.403499+00:00",
-  "type": "news",
-  "cluster_id": "c0c3821561075"
  }
 ]
