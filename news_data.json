@@ -1,5 +1,41 @@
 [
  {
+  "title": "CarrefourSA hisseleri 7 gün üst üste tavan yaparak yüzde 94 değer kazandı",
+  "link": "https://www.sozcu.com.tr/carrefoursa-hisseleri-7-gun-ust-uste-tavan-yaparak-yuzde-94-deger-kazandi-p347374",
+  "source": "Sözcü",
+  "summary_tr": "CarrefourSA hisseleri yeni sahiplik ve 15,9 milyar TL'lik nakit kaynağı sonrasında 7 gün üst üste tavan yaparak %94 değer kazandı.",
+  "metric": "CarrefourSA hisseleri +%94",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-14T12:01:09.916831+00:00",
+  "type": "news",
+  "cluster_id": "c319206793d88"
+ },
+ {
+  "title": "Asgari ücretli yurttaş pazarda konuştu: 'Çocuklarımız beslenemiyor, sadece nefes alıyoruz o kadar'",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR1ppWEtjMXV3aTFoRHBZUmw5NjZ4UkhXY3RCbENVamNQbTZ0eUZCVHFYRU1YU2FYRGRaclZKVVlTSjhFSktSRWpGdzVUZkQ1cGJaSzhfaUFPRFFMNTdRSkRUWUJPSTYtQjdqVEtyYzFGX0FENmo0UTZkbjFWWmxwMnZyelc5YzBYLXRZY3RRLXpCVXBnTFBqb25KMmxTT3Q2emdFeUx4RlRfSlJXUWJtc1dmeXhkZkFFei1j?oc=5",
+  "source": "soL",
+  "summary_tr": "Asgari ücretli vatandaş pazarda, çocukların yeteri kadar beslenemediğini ve hayatın sadece nefes almaya indirgendiğini ifade etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-14T12:01:09.916831+00:00",
+  "type": "news",
+  "cluster_id": "c2b91d70ab6be"
+ },
+ {
+  "title": "Gümüşte en kötü senaryo belli oldu: İşte dev kuruluşların gri metal tahminleri",
+  "link": "https://www.sozcu.com.tr/gumuste-en-kotu-senaryo-belli-oldu-iste-dev-kuruluslarin-gri-metal-tahminleri-p347372",
+  "source": "Sözcü",
+  "summary_tr": "Ons gümüş 64-65 dolar bandında tutunurken gram fiyat 100 TL sınırını test ediyor; dev kuruluşlar olası senaryolarını güncelledi.",
+  "metric": "Ons gümüş ~64-65 USD, Gram gümüş ~100 TL",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-14T12:01:09.916831+00:00",
+  "type": "news",
+  "cluster_id": "c699b835ea941"
+ },
+ {
   "title": "Almanya'da otomotivde istihdam kaybı derinleşiyor",
   "link": "https://www.dw.com/tr/almanya-da-otomotivde-istihdam-kaybı-derinleşiyor/a-78366161?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-08T15:01:26.428234+00:00",
   "type": "news",
   "cluster_id": "cbe7092697a57"
- },
- {
-  "title": "New York borsası artan jeopolitik gerilimlerin etkisiyle düşüşle açıldı",
-  "link": "https://www.trthaber.com/haber/dunya/new-york-borsasi-artan-jeopolitik-gerilimlerin-etkisiyle-dususle-acildi-950666.html",
-  "source": "TRT Haber",
-  "summary_tr": "New York borsası, Trump'ın İran ile ateşkesin bittiğini söylemesinin ardından artan jeopolitik gerilimlerin etkisiyle düşüşle açıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-08T15:01:26.428234+00:00",
-  "type": "news",
-  "cluster_id": "c538cccbdbe95"
- },
- {
-  "title": "İran: Maceracı girişimlere derhal karşılık verilecek",
-  "link": "https://www.trthaber.com/haber/dunya/iran-maceraci-girisimlere-derhal-karsilik-verilecek-950665.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran lideri Mücteba Hamaney'in Başdanışmanı, ABD'nin 'maceracı girişimlerine' derhal karşılık verileceğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-08T15:01:26.428234+00:00",
-  "type": "news",
-  "cluster_id": "c74ab25932de1"
- },
- {
-  "title": "IMF edges 2026 global growth forecast lower to 3%, sees rebound in 2027",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVHl0YW5UTjFwZXJpZHVQc1dkeW5QdVRxem9XZFU0eVFNSDhQeGJ0R1pzV243RkIzWF9PbEVhbUNLTmszMFpXQ2RLeGlFY05Wa0VTS01VQVB3eHlkcGZITjZOWVUwbW5zVS15bHRIZld6aXByN184cjhJamtYWXJpaVI4TmtRbTktSGFvV2t0UGk1M2pyNzhobXlRSjc1UkVOdWk5eW9hTVFyWm9JWHhGcA?oc=5",
-  "source": "Reuters",
-  "summary_tr": "IMF, 2026 küresel büyüme tahminini %3'e düşürdü; 2027'de toparlanma bekliyor.",
-  "metric": "2026 küresel büyüme tahmini %3 (revize)",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-08T15:01:26.428234+00:00",
-  "type": "news",
-  "cluster_id": "ce35778c9f7fb"
  }
 ]
