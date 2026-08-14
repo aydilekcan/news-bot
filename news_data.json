@@ -1,5 +1,29 @@
 [
  {
+  "title": "US retail sales slump unexpectedly and sharply after a summer tax-refund boost fades",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORk16TW44WWs3VlZRdGE5Zy1ZeUs5NVNnX2tRanhTSmdnZ0tHbGtMM2tJamJHdlNNdkROdWo4WmZwMkx1STFmdUpEX3ZvRzdXVTlJUmxpako5dDNyS3p2QzB4a3ROa2R6RWtDcXBNMlNJU2RHMGFjeHJrWG1EaUQ3aElIOTVyaWk0WUZoM2g1ZGJqVnJKUmY4cVZrWHA3XzFrbFFNUXNB?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD perakende satışları yaz vergi iadesi desteğinin sona ermesinin ardından beklenmedik şekilde keskin düştü, ekonomik yavaşlama sinyali verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-14T19:01:03.830528+00:00",
+  "type": "news",
+  "cluster_id": "c388b92e98e7b"
+ },
+ {
+  "title": "Türkiye, Hyundai'nin Avrupa'daki elektrikli otomobil üretim üssü oldu",
+  "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-hyundainin-avrupadaki-elektrikli-otomobil-uretim-ussu-oldu/4027609",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Hyundai, Kocaeli'de tam elektrikli IONIQ 3 modelinin seri üretimini başlattı ve Türkiye'yi Avrupa'daki üretim üssü yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-14T19:01:03.830528+00:00",
+  "type": "news",
+  "cluster_id": "cf854c43529a6"
+ },
+ {
   "title": "Çiftçilere 110,5 milyon liralık tarımsal destekleme ödemesi bugün yapılıyor",
   "link": "https://www.aa.com.tr/tr/ekonomi/ciftcilere-110-5-milyon-liralik-tarimsal-destekleme-odemesi-bugun-yapiliyor/4027674",
   "source": "Anadolu Ajansı",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-08T20:01:09.595012+00:00",
   "type": "news",
   "cluster_id": "cb7a950ee1177"
- },
- {
-  "title": "ABD Başkan Yardımcısı Vance, Hürmüz'den geçişleri engelleyen İran'ı daha sert vuracaklarını bildirdi",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-baskan-yardimcisi-vance-hurmuzden-gecisleri-engelleyen-irani-daha-sert-vuracaklarini-bildirdi/3992306",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Başkan Yardımcısı Vance, İran'ın Hürmüz Boğazı'ndan geçen ticari gemilere ateş açması halinde ABD'nin daha sert karşılık vereceğini bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-08T20:01:09.595012+00:00",
-  "type": "news",
-  "cluster_id": "ce070918fc9d0"
- },
- {
-  "title": "Trump decides to remove Syria from US terrorism sponsor list",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ3NiWVI4NjFwNkUwbTJfS3B3azlNQ0RBaVlCU2NEYndUS09yUjAtSFNQS1FyeXZZa3lua3VES3g4X0NaMjVwbk9aSE4yMzRZRlhVNmRwUDNRRGJQVzR6Z2dReTVwLVFEM3N4S2FXWnVHaG84WEZYbU5PTTk0VmN0a3ZpUzNwaEdPRTYtUkJ0cElpV0JBM0tyaEloZ0ZycUhtSlV0cGluV0VVQUF2R1NaOXNn?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, Suriye'yi ABD terör örgütleri sponsorluk listesinden çıkarmaya karar verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-08T20:01:09.595012+00:00",
-  "type": "news",
-  "cluster_id": "cff821786d0f7"
  }
 ]
