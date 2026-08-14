@@ -1,5 +1,41 @@
 [
  {
+  "title": "İran’dan Trump’a Hürmüz yanıtı: 'Ne tweetle ele geçirilebilir ne uçak gemisiyle!",
+  "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-trump-a-hurmuz-yaniti-ne-tweetle-ele-gecirilebilir-ne-ucak-gemisiyle-2529207",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran Dışişleri Bakan Yardımcısı Garibabadi, Trump'ın Hürmüz Boğazı'nı ABD toprağı ilan edeceği yönündeki açıklamasına karşılık verdi; boğazın asla tweet veya uçak gemisiyle ele geçirilemeyeceğini belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-14T22:01:08.409222+00:00",
+  "type": "news",
+  "cluster_id": "ca131b717aeca"
+ },
+ {
+  "title": "İran Dışişleri Bakan Yardımcısı'ndan, Trump'ın Hürmüz Boğazı'nı ABD toprağı ilan edeceğim sözlerine yanıt",
+  "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakan-yardimcisindan-trumpin-hurmuz-bogazini-abd-topragi-ilan-edecegim-sozlerine-yanit-954003.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Dışişleri Bakan Yardımcısı Garibabadi, Trump'ın Hürmüz Boğazı'nı Amerikan toprağı ilan edeceği iddiasına karşılık verdi; boğazın tweet veya askerî vasıta ile ele geçirilemeyeceğini vurguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-14T22:01:08.409222+00:00",
+  "type": "news",
+  "cluster_id": "cd557ee41067f"
+ },
+ {
+  "title": "Trump urges Americans to accept higher gas prices as he escalates Iran rhetoric",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUM3ajNSZS1FUnR1alRkTEx5QjBoNW1TSi1haWxKcmVLUlRlTWhTNVZJaVJGNkMtVVphd0xTbUtGbFRFUW5MZmh1MExTUmdZQmxpRGNMRkhaeExUemtveEFLQ0cydmJhT2JpNFY3TDVLUGlTekY0RHZJVE5EOEItMml3SlAwTlNLY2pkdUp1bjdSNTdmVGY3Vk1OdVgtOWFpRGlORHZ4NXQyVlc1NEFTWTZoSEtwN3R1UlE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, İran'a karşı retorik tırmanırken Amerikalılar'ın daha yüksek benzin fiyatlarını kabul etmesini çağırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-14T22:01:08.409222+00:00",
+  "type": "news",
+  "cluster_id": "ca8a7e82f6f9e"
+ },
+ {
   "title": "Trump’tan Hürmüz Boğazı için yeni çıkış: 'Amerikan toprağı ilan edeceğim'",
   "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-hurmuz-bogazi-icin-yeni-cikis-amerikan-topragi-ilan-edecegim-2529185",
   "source": "Cumhuriyet",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-08T21:01:15.996700+00:00",
   "type": "news",
   "cluster_id": "caf85049853b2"
- },
- {
-  "title": "ABD ordusu: İran'a karşı yeni saldırılar başlattık",
-  "link": "https://www.trthaber.com/haber/dunya/abd-ordusu-irana-karsi-yeni-saldirilar-baslattik-950699.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD ordusu, ticari gemileri hedef aldığı gerekçesiyle İran'a karşı yeni saldırılar başlattığını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-07-08T21:01:15.996700+00:00",
-  "type": "news",
-  "cluster_id": "caf85049853b2"
- },
- {
-  "title": "Trump 'ateşkes bitti, saldırabiliriz' demişti: İran'da pek çok kentte patlama sesleri!",
-  "link": "https://www.cumhuriyet.com.tr/dunya/trump-ateskes-bitti-saldirabiliriz-demisti-iran-in-2-noktasinda-patlama-sesleri-2519252",
-  "source": "Cumhuriyet",
-  "summary_tr": "Trump'ın ateşkes bitti açıklamasının ardından ABD, İran'ın çeşitli kentlerine saldırılar düzenledi; İran basını patlama sesleri bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-07-08T21:01:15.996700+00:00",
-  "type": "news",
-  "cluster_id": "cac77700490bd"
- },
- {
-  "title": "Son dakika... Trump 'saldıracağız' demişti: İran'da patlama sesleri",
-  "link": "https://www.sozcu.com.tr/son-dakika-trump-saldiracagiz-demisti-iran-da-patlama-sesleri-p334874",
-  "source": "Sözcü",
-  "summary_tr": "ABD'nin İran'a yönelik saldırılarının ardından İran'ın Bender Abbas, Buşehr, Kunarek ve Sirik bölgelerinde patlama sesleri duyuldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-07-08T21:01:15.996700+00:00",
-  "type": "news",
-  "cluster_id": "cac77700490bd"
  }
 ]
