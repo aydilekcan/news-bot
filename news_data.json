@@ -1,5 +1,41 @@
 [
  {
+  "title": "Araba alacakların beklediği haber geldi: Düşecek mi yükselecek mi?",
+  "link": "https://www.sozcu.com.tr/araba-alacaklarinin-bekledigi-haber-geldi-dusecek-mi-yukselecek-mi-p347229",
+  "source": "Sözcü",
+  "summary_tr": "Otomobil alıcıları yüksek faiz ve finansman zorluğu nedeniyle satın almayı erteliyor; pazar bekleme moduna girdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-14T06:01:07.101830+00:00",
+  "type": "news",
+  "cluster_id": "c00dbe872f655"
+ },
+ {
+  "title": "e-Devlet'ini kontrol etmeyen kredi kartı sahiplerine icra kapıda",
+  "link": "https://www.sozcu.com.tr/e-devlet-ini-kontrol-etmeyen-kredi-karti-sahiplerine-icra-kapida-p347227",
+  "source": "Sözcü",
+  "summary_tr": "Kredi kartı borçları zamanında ödenmediğinde doğrudan icra işlemleri başlatılıyor; vatandaşlar e-Devlet kontrol etmek zorunda.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-14T06:01:07.101830+00:00",
+  "type": "news",
+  "cluster_id": "ce26a31a9239f"
+ },
+ {
+  "title": "Dünyanın en büyük bankasından Polymarket kararı",
+  "link": "https://www.sozcu.com.tr/dunyanin-en-buyuk-bankasindan-polymarket-karari-p347223",
+  "source": "Sözcü",
+  "summary_tr": "JPMorgan Chase, düzenleyici riskler nedeniyle Polymarket'e sunduğu bankacılık hizmetlerini 2025 sonunda sonlandırıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-14T06:01:07.101830+00:00",
+  "type": "news",
+  "cluster_id": "c2f5e8d5fe6a5"
+ },
+ {
   "title": "Akaryakıta çifte zam geldi",
   "link": "https://www.sozcu.com.tr/akaryakita-cifte-zam-geldi-p347206",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-08T13:01:22.451360+00:00",
   "type": "news",
   "cluster_id": "cb6db821324d2"
- },
- {
-  "title": "Rusya: Kiev'deki askeri sanayi tesislerine saldırı düzenledik",
-  "link": "https://www.trthaber.com/haber/dunya/rusya-kievdeki-askeri-sanayi-tesislerine-saldiri-duzenledik-950650.html",
-  "source": "TRT Haber",
-  "summary_tr": "Rusya, Ukrayna'nın Rus topraklarına saldırılarına karşı Kiev'deki askeri sanayi tesislerine operasyon düzenledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-08T13:01:22.451360+00:00",
-  "type": "news",
-  "cluster_id": "c8a3574e01bf7"
- },
- {
-  "title": "İBB davasında İmamoğlu salondan çıkartıldı: 'Ya savunma yaparsınız ya susma hakkınızı kullanırsınız'",
-  "link": "https://www.bbc.com/turkce/articles/c05yqd2y949o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "İBB davasında İmamoğlu mahkeme başkanıyla tartışıp salondan çıkarıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-08T13:01:22.451360+00:00",
-  "type": "news",
-  "cluster_id": "c2a5b8e56d713"
- },
- {
-  "title": "Trump: Erdoğan sayemde İran'ın yanında saf tutmadı",
-  "link": "https://www.dw.com/tr/trump-erdoğan-sayemde-iran-ın-yanında-saf-tutmadı/a-77876540?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Trump, Erdoğan'ın İran'ın yanında savaşa girmek istediğini öne sürdü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-08T13:01:22.451360+00:00",
-  "type": "news",
-  "cluster_id": "c4f69b8bc5d14"
  }
 ]
