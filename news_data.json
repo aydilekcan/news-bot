@@ -1,5 +1,17 @@
 [
  {
+  "title": "Almanya'da otomotivde istihdam kaybı derinleşiyor",
+  "link": "https://www.dw.com/tr/almanya-da-otomotivde-istihdam-kaybı-derinleşiyor/a-78366161?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Almanya'da otomotiv sektöründe bir yılda 42 bin kişi işini kaybetti. Sektör 2005'ten beri en düşük istihdam seviyesine geriledi.",
+  "metric": "Otomotiv istihdam kaybı: 42 bin kişi (yıllık)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-14T11:01:14.531487+00:00",
+  "type": "news",
+  "cluster_id": "ca1ff23667dc1"
+ },
+ {
   "title": "Akaryakıt fiyatlarına zam: Motorinde  yaklaşık 9 lira artış",
   "link": "https://www.bbc.com/turkce/articles/c0qv2x4pk7jo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-08T15:01:26.428234+00:00",
   "type": "news",
   "cluster_id": "ce35778c9f7fb"
- },
- {
-  "title": "Afşin-Elbistan A Santrali'nin kapasite artışına yargı freni",
-  "link": "https://www.dw.com/tr/afşin-elbistan-a-santrali-nin-kapasite-artışına-yargı-freni/a-77879210?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Afşin-Elbistan A Termik Santrali'nin kapasite artışı için verilen ÇED kararı, mahkeme tarafından çevre ve halk sağlığı gerekçesiyle iptal edildi.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-08T15:01:26.428234+00:00",
-  "type": "news",
-  "cluster_id": "cbdf03ef2ed99"
  }
 ]
