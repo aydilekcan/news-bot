@@ -1,5 +1,17 @@
 [
  {
+  "title": "Trump administration to impose tariffs on drone imports, White House says",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGJBazFMbGdWVmctdmVUS1NPbFJMam5udHgzRkxCYUJST3lHTFA1OFZpSFFBd2kya1kwSm5iMUpaYk56a2ZQX0I4Q3Jwc25aN1Z2dmRDQVhrSVh4UUhqMWRNNEhWa21keGRsdG1HRF9uUkNtZERvQ25qT3ozcDQ3RjlpcUcwNGRkVzR6NnM1Y1FEWGVnSmQ0UWx5VXlWcFRaWVpzbXBiZFNWSzJWSkdTWA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump yönetimi drone ithalatına tarife uygulamaya karar verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-14T00:01:03.599460+00:00",
+  "type": "news",
+  "cluster_id": "ca11ee0266ae5"
+ },
+ {
   "title": "Trump yönetimi bazı İHA ve bileşenlerinin ithalatına tarife getirdi",
   "link": "https://www.aa.com.tr/tr/ekonomi/trump-yonetimi-bazi-iha-ve-bilesenlerinin-ithalatina-tarife-getirdi/4026993",
   "source": "Anadolu Ajansı",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-08T12:01:10.403499+00:00",
   "type": "news",
   "cluster_id": "cb9906917fedb"
- },
- {
-  "title": "Trump orders halt to US trade with Spain over NATO spending, Iran",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUHpycW05eTVleW81UVFsUkdsdzhiaDJuSTl1dDhFNy10bHpyYkVoeWFpWmtvSnFEa2MyRW4wdjExcGpMUVNRNlVveERCZXpPM0lmWkpnNVFBUzhENGdHQmVSRGw3WDN6bXQ4YkdaZGRveWVkWjlkdDFWU0lFSVF3UGFxMzREQkEyYkR0Yy1PbEl2Ul80WGJUMHp6VEE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump ABD'nin İspanya ile ticaretinin durdurulmasını emretti; NATO harcamaları ve İran konularını gerekçe gösterdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-08T12:01:10.403499+00:00",
-  "type": "news",
-  "cluster_id": "c2b01e72ee858"
  }
 ]
