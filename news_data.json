@@ -1,5 +1,17 @@
 [
  {
+  "title": "Yıl sonu enflasyon tahmini: %28 (2026 yıl sonu)",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ3JFMndKYjZIMDBLdXNSZER3ZlBjMFhGZDRyWnQ5N3JZUTFOckFpcktKbnl1Zll0cy1BcFEtUXhxbWpQM0hZUmlhYzJyVjEtaE5GZUpnLUk4Vk11dHJEcGpJZng3X1dyZFYtX0dLMjNlYzZUQ3ZPRFZ0eWZ5V25KeWRVS0Y5bnlELUdtWExGWGI5NmZWSC1JMm9ELWpTc1N2RGp6YkoyVkZrRHpLTzQ1RGIwWmVraHVpVld6REJWMUplOGFmODE5STBhc9IBzwFBVV95cUxOeG1yV3hycnVEU182ZTlRdFgxTHhJenhVLVJBY0RKa1A3UlRobThmMi1iNmhmQlVVbnhieUlrb251SEJKR1MyRkM4LTBlSFlBeUREVE1TYk1NVzV1VnEzVWhaWnBLcTdHcURMZHgtb2VPX3ZLZ09RRXp6VU5zNG1RRjZaUDQ0VXdXSkc4RlpoTm5FYkxYTGhzY2VXQXBqYUZFdVppc2o3NHBPb3NrcTVPcHhZS054LWF5Ni03bGRJM0hzMFFjc2JhU2J5X0J1U00?oc=5",
+  "source": "TCMB",
+  "summary_tr": "%28",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-14T02:01:04.656472+00:00",
+  "type": "forecast",
+  "cluster_id": ""
+ },
+ {
   "title": "Trump administration to impose tariffs on drone imports, White House says",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGJBazFMbGdWVmctdmVUS1NPbFJMam5udHgzRkxCYUJST3lHTFA1OFZpSFFBd2kya1kwSm5iMUpaYk56a2ZQX0I4Q3Jwc25aN1Z2dmRDQVhrSVh4UUhqMWRNNEhWa21keGRsdG1HRF9uUkNtZERvQ25qT3ozcDQ3RjlpcUcwNGRkVzR6NnM1Y1FEWGVnSmQ0UWx5VXlWcFRaWVpzbXBiZFNWSzJWSkdTWA?oc=5",
   "source": "Reuters",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-08T12:01:10.403499+00:00",
   "type": "news",
   "cluster_id": "c0c3821561075"
- },
- {
-  "title": "Trump Ankara’da baskıyı artırıyor: ‘İspanya’yla tüm ticareti keseceğiz’",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVWNKYURNdGxrU1VoQ3JxUGh2b0c4QnFnSFVLeERWeHBtRURsY0l6TDBWeHh6RHNFU1dOZUQyUjFpWml5akE4QnNxREN0ZElTSkU3Q1RzU21ZX2NTZzRKNUhtYXFiREJHZjNad0djdkQ1STNQdU9sOUNuWk9zeWhWSUNCWEVMT1FOeW4xTWtoMDZPdFFBTE1BSUIzOWhHSGdNS2xXVEFRaw?oc=5",
-  "source": "soL",
-  "summary_tr": "Trump Ankara'da İspanya'yla ticareti keseceğini açıklayarak baskıyı artırdı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-08T12:01:10.403499+00:00",
-  "type": "news",
-  "cluster_id": "cb9906917fedb"
  }
 ]
