@@ -1,5 +1,29 @@
 [
  {
+  "title": "Kemal Kılıçdaroğlu yeniden aday olacak mı? CHP’den açıklama",
+  "link": "https://www.sozcu.com.tr/kilicdaroglu-yeniden-aday-olacak-mi-chp-den-aciklama-p349632",
+  "source": "Sözcü",
+  "summary_tr": "CHP Genel Başkan Yardımcısı Bülent Kuşoğlu, Kemal Kılıçdaroğlu'nun yeniden cumhurbaşkanı adayı olup olmayacağı konusunda açıklama yaptı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-15T13:01:00.499646+00:00",
+  "type": "news",
+  "cluster_id": "cccc6e65e07b9"
+ },
+ {
+  "title": "Spot piyasada doğal gaz fiyatları",
+  "link": "https://www.sozcu.com.tr/spot-piyasada-dogal-gaz-fiyatlari-15-agustos-2026-p349634",
+  "source": "Sözcü",
+  "summary_tr": "Spot piyasada doğal gaz referans fiyatı 1000 metreküp için 17 bin 162 lira olarak belirlendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-15T13:01:00.499646+00:00",
+  "type": "news",
+  "cluster_id": "c81f37d41d8a5"
+ },
+ {
   "title": "47 yıllık dev otobüs firması iflas etti: Tüm seferler durduruldu",
   "link": "https://www.sozcu.com.tr/47-yillik-otobus-firmasi-iflas-etti-tum-seferler-durduruldu-p349620",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-09T07:06:25.320825+00:00",
   "type": "news",
   "cluster_id": "c9a6468102729"
- },
- {
-  "title": "İran: ABD'nin son 2 günde İran'a düzenlediği saldırılarda 14 kişi hayatını kaybetti",
-  "link": "https://www.trthaber.com/haber/dunya/iran-abdnin-son-2-gunde-irana-duzenledigi-saldirilarda-14-kisi-hayatini-kaybetti-950730.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Sağlık Bakanlığı sözcüsü ABD hava saldırılarında 14 kişinin öldüğünü bildirdi.",
-  "metric": "Ölü sayısı: 14 kişi",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-09T07:06:25.320825+00:00",
-  "type": "news",
-  "cluster_id": "c9a6468102729"
- },
- {
-  "title": "ABD, İrana yönelik hava saldırılarının detaylarını paylaştı",
-  "link": "https://www.trthaber.com/haber/dunya/abd-irana-yonelik-hava-saldirilarinin-detaylarini-paylasti-950727.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD Merkez Kuvvetler Komutanlığı 7-8 Temmuz'da İran'a düzenlenen hava saldırılarında vurulan hedeflerin ayrıntılarını paylaştı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-09T07:06:25.320825+00:00",
-  "type": "news",
-  "cluster_id": "c18f22247dd34"
  }
 ]
