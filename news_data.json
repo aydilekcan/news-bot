@@ -1,5 +1,77 @@
 [
  {
+  "title": "İsrail ordusunun Lübnan'ın güneyine düzenlediği saldırısı sonucu şiddetli patlama yaşandı",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-lubnanin-guneyine-duzenledigi-saldirisi-sonucu-siddetli-patlama-yasandi/4028497",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusu, ateşkese rağmen Lübnan'ın güneyindeki Taluse beldesine saldırı düzenleyerek şiddetli patlamaya neden oldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-15T21:01:08.191032+00:00",
+  "type": "news",
+  "cluster_id": "c7dd3364a9448"
+ },
+ {
+  "title": "Katar, İran’ın '3 pilot esir alındı' açıklamasını yalanladı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/katar-iran-in-3-pilot-esir-alindi-aciklamasini-yalanladi-2529411",
+  "source": "Cumhuriyet",
+  "summary_tr": "Katar, İran'ın 2 Mart'ta düşürülen savaş uçaklarının 3 pilotunun kendisi tarafından alıkonulduğu iddiasını yalanladı; bir piloțun kalıntılarını bulduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-15T21:01:08.191032+00:00",
+  "type": "news",
+  "cluster_id": "cd6b7fb18b5a3"
+ },
+ {
+  "title": "İmamoğlu’ndan Silivri’den mesaj: ’21 Temmuz’u unutmayın, unutturmayın’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/imamoglu-ndan-silivri-den-mesaj-21-temmuz-u-unutmayin-unutturmayin-2529406",
+  "source": "Cumhuriyet",
+  "summary_tr": "Tutuklu İBB Başkanı Ekrem İmamoğlu, Silivri Cezaevi'nden video mesaj yayınlayarak 21 Temmuz'a dikkat çekti.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-15T21:01:08.191032+00:00",
+  "type": "news",
+  "cluster_id": "ceba635266f3d"
+ },
+ {
+  "title": "TBMM Başkanı Kurtulmuş: Bu memlekette artık ne ayrılıkçı söze ne de ayrımcılık sözlerine yer yoktur",
+  "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-bu-memlekette-artik-ne-ayrilikci-soze-ne-de-ayrimcilik-sozlerine-yer-yoktur/4028485",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "TBMM Başkanı Kurtulmuş, Terörsüz Türkiye sürecine ilişkin 'Bu memlekette ne ayrılıkçı söze ne de ayrımcılık sözlerine yer yoktur' dedi.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-15T21:01:08.191032+00:00",
+  "type": "news",
+  "cluster_id": "c6b200ed6b759"
+ },
+ {
+  "title": "Rusya'dan Türkiye ve ABD'ye Ukrayna silahları uyarısı: 'İlişkiler zarar görür'",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaUZvWU9URFRqNm9zQ1RhYWp4ZDNnRVh2bXZKSVBpby1EcVR0SWloMmxTTVZSUG1QRzNkUVZsQlpTaDVPdDRkaEFnSDZNSFZYeldKdzdUWVF3S2k4eXBzZDlnLU0xN1NvWjhzaDdfaXBCb19ST0xfc2RnZzAzSzhOVFJqQmk1NkxGYXJNZDdsSDVEUmxTZDVrT05hZTZoeU9TSHZBRGlKUFdDX05vWTJmYg?oc=5",
+  "source": "soL",
+  "summary_tr": "Rusya, Türkiye ve ABD'ye Ukrayna silahları konusunda uyarı yaparak ilişkilerin zarar görebileceği uyarısında bulundu.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-15T21:01:08.191032+00:00",
+  "type": "news",
+  "cluster_id": "c241003e14702"
+ },
+ {
+  "title": "Qatar denies detaining Iranian pilots, says it found remains of one",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbU82UzByeVFKQzJGdkhlQ0Y0YjkxQk1mZlVYdVMyV3d4TVhLRXJXa19JcU51TUJnZEFoaFpiUkkxT2tuY3hkVUY2Q2xYeU5Bd3ZHVlZlM3dCU09jMXoxR0Ntb0xTZThlREdtS0VMRXFZa3IzdDJEWnhyRE11U3VMbVFkUUs4UXVRQ1hPTU1laDZ4UUhqTmhuc282dXBZN2ExX0pyajFhRnJ0Y2p2MDJTNkhWS2pyWXAw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Katar, İran'ın 2 Mart'ta düşürülen savaş uçaklarındaki 3 piloțu alıkoyduğu iddiasını yalanladı; bir piloțun kalıntılarını bulunduğunu bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-15T21:01:08.191032+00:00",
+  "type": "news",
+  "cluster_id": "c25039fd38c23"
+ },
+ {
   "title": "Lebanon says Israeli strikes in south of the country kill at least 11​​​",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXM0UF9hbGcwOHNUVUZ1Zms5RDF1UWhGVWVyRHRSbm5zdXpSSmxoMGhsLWNhUE90YkVCU2tESnBPTUFURDFFTkpzUFhRRElKdkJNQmpZV0RhOEhLS0FhSVFNUkd0dDhON0dicVl4OTc0X2RzN1gxVlJMbzJqMlNpRTl0QlVtdWp4eHQ3ZklZRXZsU205NG1Bdl9jXzhTa0xDcExkLUVQY0tUcXBpOWlHMk5n?oc=5",
   "source": "Reuters",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-09T10:01:09.972887+00:00",
   "type": "news",
   "cluster_id": "c47ea295cead6"
- },
- {
-  "title": "Trump \"kalkacak\" dedi: CAATSA için yol haritası ne?",
-  "link": "https://www.dw.com/tr/trump-kalkacak-dedi-caatsa-için-yol-haritası-ne/a-77867066?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Trump, NATO Zirvesi'nde CAATSA yaptırımlarını kaldıracağını söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-09T09:01:14.895336+00:00",
-  "type": "news",
-  "cluster_id": "cc36a321d4f63"
- },
- {
-  "title": "Ankara NATO Zirvesi: Güvenlik Vardı, Peki Barış?",
-  "link": "https://yetkinreport.com/2026/07/09/ankara-nato-zirvesi-guvenlik-vardi-peki-baris/",
-  "source": "YetkinReport",
-  "summary_tr": "Ankara NATO Zirvesi'nde güvenlik konuları ele alındı ancak barış perspektifi tartışılmıştır.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-09T09:01:14.895336+00:00",
-  "type": "news",
-  "cluster_id": "c3035e00b7e31"
- },
- {
-  "title": "Türkiye o üç balığı dünyaya satarak milyar dolarlar kazandı: Rusya ve İtalya sıraya girdi",
-  "link": "https://www.sozcu.com.tr/turkiye-o-uc-baligi-dunyaya-satarak-milyar-dolarlar-kazandi-rusya-ve-italya-siraya-girdi-p335028",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye su ürünleri ihracatını yılın ilk yarısında %14 artırarak 1,11 milyar dolara çıkardı.",
-  "metric": "Su ürünleri ihracatı -> 1 milyar 110 milyon dolar (+%14)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-09T09:01:14.895336+00:00",
-  "type": "news",
-  "cluster_id": "c1e8f052b1f90"
- },
- {
-  "title": "Netanyahu F-35 kararının önüne geçmek için Washington'a gidiyor",
-  "link": "https://www.sozcu.com.tr/netanyahu-f-35-kararinin-onune-gecmek-icin-washington-a-gidiyor-p335020",
-  "source": "Sözcü",
-  "summary_tr": "Netanyahu, F-35 kararı ile ilgili Trump ile görüşmek için ABD'yi ziyaret edecek; Türkiye konusu gündemde.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-09T09:01:14.895336+00:00",
-  "type": "news",
-  "cluster_id": "cbadd4c56765d"
- },
- {
-  "title": "Türkiye'nin su ürünleri ihracatı ilk yarıda 1 milyar doları aşarak rekor kırdı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-su-urunleri-ihracati-ilk-yarida-1-milyar-dolari-asarak-rekor-kirdi/3992833",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye su ürünleri ihracatını yılın ilk yarısında %14 artırarak 1,11 milyar dolara çıkarttı, ilk kez ocak-haziran rekorunu kırdı.",
-  "metric": "Su ürünleri ihracatı -> 1 milyar 110 milyon dolar (+%14)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-09T09:01:14.895336+00:00",
-  "type": "news",
-  "cluster_id": "c16d17a90d67d"
- },
- {
-  "title": "Su ürünleri ihracatı ilk yarıda 1 milyar doları aştı",
-  "link": "https://www.trthaber.com/haber/ekonomi/su-urunleri-ihracati-ilk-yarida-1-milyar-dolari-asti-950749.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye su ürünleri ihracatını yılın ilk yarısında %14 artırarak 1,11 milyar dolara ulaştı.",
-  "metric": "Su ürünleri ihracatı -> 1 milyar 110 milyon dolar (+%14)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-09T09:01:14.895336+00:00",
-  "type": "news",
-  "cluster_id": "c16d17a90d67d"
  }
 ]
