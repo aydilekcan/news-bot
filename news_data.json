@@ -1,5 +1,29 @@
 [
  {
+  "title": "Numan Kurtulmuş’tan ‘süreç’ açıklaması: 'Terör meselesini geride bırakıyoruz'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/numan-kurtulmus-tan-surec-aciklamasi-teror-meselesini-geride-birakiyoruz-2529353",
+  "source": "Cumhuriyet",
+  "summary_tr": "TBMM Başkanı Numan Kurtulmuş, 40 yılı aşkın süredir devam eden terör çatışmalarının sonlandırıldığını açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-08-15T17:01:03.586543+00:00",
+  "type": "news",
+  "cluster_id": "cef9b8903859b"
+ },
+ {
+  "title": "TUFE Sepetinde Ort. Aylık Ev Kirası: 6.256 lira (Temmuz)",
+  "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQaWxvMEVOaVlnZW9RNlI0eGJMU0k5LTlHam5WZUxyNmE3cmgyamtiM2RrbV92WktTeUpQVGZ0RDJXakpaOWEzMWVhZWhPdzVZY0RKVDJWMVJCdmJKR0dtdFp3N3VDS05UTldEZl9nbC1WbHdhbmNFbmpsTFlVQTd0RzMxLW5UeXhIN2ZlOUNLZm1mT0dmNjdrNFJybEdDd2NvWUdieldrM3AyMTloRVU2MUFIZnB1LUFhRnkzaWFSY0ZRaWlwYUlMNkZMVDRkbmlOaGlPX3M3YlptMDRiRDhoYW9zWG1FcHh5bTIwOVpyWmNQV3RnM2pwM05TTDdLUV9sMGNDcks2UFF1dw?oc=5",
+  "source": "TUIK",
+  "summary_tr": "6.256 lira",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-15T17:01:03.586543+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Demirtaş ve Mızraklı'dan 'çerçeve yasa' mesajı",
   "link": "https://www.sozcu.com.tr/demirtas-ve-mizrakli-dan-cerceve-yasa-mesaji-p349670",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-09T08:01:21.799228+00:00",
   "type": "news",
   "cluster_id": "ceadd858ce8cf"
- },
- {
-  "title": "Kimyevi maddeler ve mamulleri ihracatı ilk yarıda 17,1 milyar dolarla rekor kırdı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/kimyevi-maddeler-ve-mamulleri-ihracati-ilk-yarida-17-1-milyar-dolarla-rekor-kirdi/3992796",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Kimyevi maddeler ve mamulleri sektörü ilk 6 ayında 17,1 milyar dolarlık ihracatla bugüne kadarki en yüksek ilk yarı ihracatına ulaştı.",
-  "metric": "Kimyevi mamulleri ihracatı ilk yarı 17,1 milyar dolar (rekor)",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-09T08:01:21.799228+00:00",
-  "type": "news",
-  "cluster_id": "c3bdb3db21203"
- },
- {
-  "title": "İnşaat maliyet endeksi mayısta aylık yüzde 1,87, yıllık yüzde 29,84 arttı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/insaat-maliyet-endeksi-mayista-aylik-yuzde-1-87-yillik-yuzde-29-84-artti/3992753",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İnşaat maliyet endeksi mayısta aylık %1,87 ve yıllık %29,84 artış gösterdi.",
-  "metric": "İnşaat maliyet endeksi mayıs aylık +%1,87 / yıllık +%29,84",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-09T08:01:21.799228+00:00",
-  "type": "news",
-  "cluster_id": "c4e191fbb6a79"
  }
 ]
