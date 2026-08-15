@@ -1,5 +1,53 @@
 [
  {
+  "title": "47 yıllık dev otobüs firması iflas etti: Tüm seferler durduruldu",
+  "link": "https://www.sozcu.com.tr/47-yillik-otobus-firmasi-iflas-etti-tum-seferler-durduruldu-p349620",
+  "source": "Sözcü",
+  "summary_tr": "47 yıllık dev otobüs firması artan maliyetlere yenik düşerek kapandı; tüm seferler durduruldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-15T12:01:04.791872+00:00",
+  "type": "news",
+  "cluster_id": "c7e5c2c7c42c8"
+ },
+ {
+  "title": "Erdoğan imzaladı: Üniversite harçlarına ortalama yüzde 20 zam",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQms4ek9HM2pLT1lkaEdPNzZKUUM0aHBvamN5dGcxS0R5ZVU4NThYSHdEX3diSWs5Wmp3WXluYmF0aWFiRlFNaEFtN3Y4SXRXWlgwb2lGSXlBbjJ0blVvTFpJeUxRcHRXRGZ1WmRmNy1zd3JsNXljZGpMdzhxaXRLTnpGVXBldFVvRXhlcmM0cVdPWVZvODltV3g4WkFXdnc?oc=5",
+  "source": "soL",
+  "summary_tr": "Erdoğan üniversite harçlarına ortalama %20 zam imzaladı.",
+  "metric": "Üniversite harçları ortalama +%20",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-15T12:01:04.791872+00:00",
+  "type": "news",
+  "cluster_id": "c0127e55ce52e"
+ },
+ {
+  "title": "CHP Genel Başkan Yardımcısı Kuşoğlu: 'Kemal Kılıçdaroğlu bir daha cumhurbaşkanlığına aday olmak istemez'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-genel-baskan-yardimcisi-kusoglu-kemal-kilicdaroglu-bir-daha-cumhurbaskanligina-aday-olmak-istemez-2529281",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Genel Başkan Yardımcısı Kuşoğlu, Kılıçdaroğlu'nun bir daha cumhurbaşkanlığına aday olmak istemeyeceğini söyledi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-15T12:01:04.791872+00:00",
+  "type": "news",
+  "cluster_id": "ceff4017464d8"
+ },
+ {
+  "title": "Altın ve gümüş fiyatları hop oturup hop kalkıyor: Gözler çarşambaya çevrildi",
+  "link": "https://www.sozcu.com.tr/altin-ve-gumus-oturup-hop-kalkiyor-gozler-carsambaya-cevrildi-p349615",
+  "source": "Sözcü",
+  "summary_tr": "Altın ve gümüş fiyatları dalgalı hareket gösterirken yatırımcılar Fed tutanaklarına ve ABD-İran geriliminin emtia piyasasındaki etkisine bakıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-15T12:01:04.791872+00:00",
+  "type": "news",
+  "cluster_id": "c8a8f92abc400"
+ },
+ {
   "title": "Devlet milyonlarca vatandaşına karşılıksız para dağıtacak",
   "link": "https://www.sozcu.com.tr/devlet-milyonlarca-vatandasina-karsiliksiz-para-dagitacak-p349611",
   "source": "Sözcü",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-09T07:06:25.320825+00:00",
   "type": "news",
   "cluster_id": "c18f22247dd34"
- },
- {
-  "title": "Müslim Sarı'dan İBB davasında tahliye edilen İnan Güney açıklaması",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/muslim-sari-dan-ibb-davasinda-tahliye-edilen-inan-guney-aciklamasi-2519316",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Sözcüsü Müslim Sarı, İBB davasında tahliye edilen İnan Güney hakkında açıklama yaptı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-09T07:06:25.320825+00:00",
-  "type": "news",
-  "cluster_id": "c76401d477a7a"
- },
- {
-  "title": "Dolar/TL'den bir rekor daha geldi!",
-  "link": "https://www.sozcu.com.tr/dolar-tl-den-bir-rekor-daha-geldi-p334962",
-  "source": "Sözcü",
-  "summary_tr": "Dolar/TL kuru yükselişe devam ederek 46,87 seviyesine ulaştı; yeni rekor kırıldı.",
-  "metric": "Dolar/TL: 46,87 (rekor seviye)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-09T07:06:25.320825+00:00",
-  "type": "news",
-  "cluster_id": "c9d925cdc0dfa"
- },
- {
-  "title": "İBB davasında Beyoğlu Belediye Başkanı İnan Güney tahliye edildi",
-  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xc3ZsclBEY3JoWENOQk5fekprd0dlWUUyaDRiR1ItLTNBSTZ3TEZfZWw4Rk9VaW9iaEJnZmR6QU5OZVhUeUlJbTdadXdmQjhnYm1iZTI2eEZ5aUx4cGk4R2xIazhNMlBYYmI4?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "İBB davasında Beyoğlu Belediye Başkanı İnan Güney tahliye edildi.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-09T07:06:25.320825+00:00",
-  "type": "news",
-  "cluster_id": "cfdc07f3edf45"
- },
- {
-  "title": "China's producer inflation jumps to 4-year high, squeezing manufacturers",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVXlSd3B5NXFvLXNjdGMtLUxER0FBSUNJQ1dNMEV2eUxHMkF1OXd6aDVuQkx0eUxQNXJQQ2hmMmpJN3NLZy1FTmd0LXUweXdMMlFrVnFONEhKM3dhd1FFaE1VUHp2YnpGWlhpb1FsMVQwRWNnM1pRblRBclNpUnhyZU5iTjhDdDFQcGlWcVRIbEZseENTd0stbzcwTHFLd0c5SXltbnpSWlRxZW8?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Çin'in üretici enflasyonu 4 yılın en yüksek seviyesine sıçradı; üreticileri sıkıştırıyor.",
-  "metric": "Çin PPI: 4 yılın en yüksek seviyesi",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-09T07:06:25.320825+00:00",
-  "type": "news",
-  "cluster_id": "c1822220cf7e7"
  }
 ]
