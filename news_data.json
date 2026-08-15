@@ -1,5 +1,29 @@
 [
  {
+  "title": "Demirtaş ve Mızraklı'dan 'çerçeve yasa' mesajı",
+  "link": "https://www.sozcu.com.tr/demirtas-ve-mizrakli-dan-cerceve-yasa-mesaji-p349670",
+  "source": "Sözcü",
+  "summary_tr": "DEM Parti heyeti, Demirtaş'ın çerçeve yasa konusunda mesaj gönderdiğini duyurdu.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-15T16:01:01.618316+00:00",
+  "type": "news",
+  "cluster_id": "c8f4b228b7fa8"
+ },
+ {
+  "title": "Madencilerin hak eylemi 6’ncı gününde: Başaran Aksu serbest bırakıldı",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWh0Vk9uQWUzSzVhYXJzR2pGWW9najd2dWpJUzlhYk5XY0o0cTJiRkRIdVpxYnZQbmFOMG5jTmF4TUQ0TEJuV3hDM0MwLWxyT1BxZl9CTTFmMXBta2U3SVFRaThvV2NpbVR5V2VSR2k5NFRJVnUzbjBIdmR4YV9jT3FRc3VXMWIteDVydEtqVFhPbmZEbzdfdmh6RXJESlNRRUFpdkY0VEc?oc=5",
+  "source": "soL",
+  "summary_tr": "Madencilerin hak eylemi 6. gününde, aktivist Başaran Aksu serbest bırakıldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-15T16:01:01.618316+00:00",
+  "type": "news",
+  "cluster_id": "cd6caa76daee5"
+ },
+ {
   "title": "Tuncer Bakırhan: \"Ne bölünme, ne çatışma ne de kimseden bir şey alma süreci'",
   "link": "https://www.cumhuriyet.com.tr/siyaset/tuncer-bakirhan-ne-bolunme-ne-catisma-ne-de-kimseden-bir-sey-alma-sureci-2529336",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-09T08:01:21.799228+00:00",
   "type": "news",
   "cluster_id": "c4e191fbb6a79"
- },
- {
-  "title": "İnşaat maliyet endeksi arttı",
-  "link": "https://www.trthaber.com/haber/ekonomi/insaat-maliyet-endeksi-artti-950736.html",
-  "source": "TRT Haber",
-  "summary_tr": "İnşaat maliyet endeksi mayısta aylık %1,87 ve yıllık %29,84 artış gösterdi.",
-  "metric": "İnşaat maliyet endeksi mayıs aylık +%1,87 / yıllık +%29,84",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-09T08:01:21.799228+00:00",
-  "type": "news",
-  "cluster_id": "c4e191fbb6a79"
- },
- {
-  "title": "Uniqlo operator Fast Retailing says Q3 profit jumped 45.7%, raises forecast",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWWZnc2pSNUlzUWl5NlNod0F3Skh4RXppdXNHaTdzbXNLS21ENEk0cFpwWnV5M1hZR2syZVlqWDFqV1VHUl9fbm1uNEtnRXpseDBodXhHTlJvWVphSFNIdmNRaEtBRkc4b0llNlFad3FuZFl6c3d4elcyUUFiVnNyNGtOVEtXX0dRaE9wbzUxd3VmNWhkTndfZXFmd3pSR093cDYtU0pOdTE4UVE5UFRndzB2RGxUSFF4dWxrd1g4eWxCUjBRQUE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Uniqlo sahibi Fast Retailing 3. çeyrekte karını %45,7 artırdı ve yıl tahmini yükseltti.",
-  "metric": "Fast Retailing Q3 kâr +%45,7",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-09T08:01:21.799228+00:00",
-  "type": "news",
-  "cluster_id": "c6ed14d230a16"
  }
 ]
