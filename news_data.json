@@ -1,5 +1,17 @@
 [
  {
+  "title": "'Sıfır fiyatından pahalı' diye ihbar edildi: Satıcıya ceza yağdı",
+  "link": "https://www.sozcu.com.tr/sifirdan-pahali-tesla-ilana-ceza-p349679",
+  "source": "Sözcü",
+  "summary_tr": "Ticaret Bakanlığı, Tesla aracının sıfır fiyatının üzerinde satılması nedeniyle satıcıya ceza uyguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-15T18:01:03.373952+00:00",
+  "type": "news",
+  "cluster_id": "c7ba072125eda"
+ },
+ {
   "title": "Numan Kurtulmuş’tan ‘süreç’ açıklaması: 'Terör meselesini geride bırakıyoruz'",
   "link": "https://www.cumhuriyet.com.tr/siyaset/numan-kurtulmus-tan-surec-aciklamasi-teror-meselesini-geride-birakiyoruz-2529353",
   "source": "Cumhuriyet",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-09T08:01:21.799228+00:00",
   "type": "news",
   "cluster_id": "cdba6570972ed"
- },
- {
-  "title": "Gulf companies are set to reveal the unequal toll of Iran war",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeUlETmVrbERuN1NFblIwZmpYZmYzaUtwN0o3Y3huQ0pqNmNncHhqb1RPbUJqb1dtUDhWQ2JFemNYYjczQWVlak0zT0VqM3k3MC1qdWxoYVE1U3Q1QWJZVFBsa0NUNWdCNThGNVExVGFQbHlLSy1haGMzTnp1YTM3cGF0UTl4ems3UUthY29tUmF0UUNhY2RvZi1FU0lIdGVUMUs2M2hSSEs?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Körfez şirketleri İran krizi nedeniyle olumsuz ekonomik etkilerin ortaya çıkacağını göstermek üzere sonuçlarını açıklamaya hazırlanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-09T08:01:21.799228+00:00",
-  "type": "news",
-  "cluster_id": "ceadd858ce8cf"
  }
 ]
