@@ -1,5 +1,17 @@
 [
  {
+  "title": "Azrail gelse alma canımı demem",
+  "link": "https://www.sozcu.com.tr/azrail-gelse-alma-canimi-demem-p349503",
+  "source": "Sözcü",
+  "summary_tr": "Asgari ücretle yaşayan vatandaşlar, tutmayan hedeflerin sonuçlarını günlük gıda ve yaşam masraflarında hissediyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-15T04:01:01.803538+00:00",
+  "type": "news",
+  "cluster_id": "c4978fe598075"
+ },
+ {
   "title": "İktidar çiftçiyi unuttu tarlaya zam yağacak",
   "link": "https://www.sozcu.com.tr/iktidar-ciftciyi-unuttu-tarlaya-zam-yagacak-p349495",
   "source": "Sözcü",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-09T00:01:03.854153+00:00",
   "type": "news",
   "cluster_id": "cf54a3e30cfcb"
- },
- {
-  "title": "ABD, son saldırılarda İranın Hürmüz Boğazı yakınındaki bölgelerini hedef aldı",
-  "link": "https://www.trthaber.com/haber/dunya/abd-son-saldirilarda-iranin-hurmuz-bogazi-yakinindaki-bolgelerini-hedef-aldi-950706.html",
-  "source": "TRT Haber",
-  "summary_tr": "Trump'ın saldırı tehdidinin ardından ABD ordusu, İran'ın Hürmüz Boğazı yakınındaki bölgelerini gece bombardımanında hedef aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-08T23:01:13.822351+00:00",
-  "type": "news",
-  "cluster_id": "cb017e46cbf10"
  }
 ]
