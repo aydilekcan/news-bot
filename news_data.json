@@ -1,5 +1,29 @@
 [
  {
+  "title": "Vaatler nelerdi, nereye geldi?",
+  "link": "https://www.sozcu.com.tr/vaatler-nelerdi-nereye-geldi-p349490",
+  "source": "Sözcü",
+  "summary_tr": "2001'de yolsuzluğu önleme ve ekonomik refah sözü veren iktidar, 24 yılın sonunda hedeflerine ulaşamadı. Sözcü, vaatler ile gerçekleşen sonuçlar arasındaki farkı sorguluyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-15T01:01:00.326619+00:00",
+  "type": "news",
+  "cluster_id": "c951632b19afd"
+ },
+ {
+  "title": "Çerçeve yasanın şifreleri: Öcalan’a kurul üyesi sıfatı verilecek mi, ilk etapta kaç kişi dönecek?",
+  "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUUM3X3hoTFlnVzl5MVpPWlM3RHZiSU9LNFN1Q1loYjloTTNXWXN5V21uNV9sQTV0UGJBV1RiSkd4RTBFV2Rud0FKckF1UU9fdlNHdGFNVS1McmpCUGl2R2tPN2g3UEh5MkdYNlJ5cFJRVjBEaDVic0pTNTJvQm0wQUFha19USTFmdFFzQVM2SldUS1loeWxqWEk0MDVGZG5tVlQzcll3dks0QktaZHNXSUNFNkw5dnVROHFZSXRqeGhfeTlteDRhcU5ieHY2YWhBemROXzJSX2NBMGlkYzVaSEZDNEltZDF1THRB?oc=5",
+  "source": "T24",
+  "summary_tr": "Çerçeve yasaya göre Öcalan'a kurul üyesi sıfatı verilip verilmeyeceği ve ilk etapta kaç kişinin dönüşü planlandığı belirleniyor. Yasa detaylarının şifreleri açıklanıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-15T01:01:00.326619+00:00",
+  "type": "news",
+  "cluster_id": "c52b5b9b716cb"
+ },
+ {
   "title": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm05M3ZscW8yb1Jfdkw2QUl4Y2RzOWVXWlQ5ZzNIX0JhcnJlb1VIaHlmeFhJM082VUpua05SY3lQcVotUi1xVFVKSURVRVNBX3djVzE5M3Z6RmxDTHo5WWNsSEs2MU5RS0JaVnNfdWZwZDAtaURZUW1rNTJoYlZJWUdXZ2lSelRMV2RTdVpIQVRnMW0zTWlNU3NKbGtLU3R6cjNUTkZmUQ?oc=5",
   "source": "Reuters",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-08T22:01:12.570192+00:00",
   "type": "news",
   "cluster_id": "c351397ed499f"
- },
- {
-  "title": "Erdoğan'dan NATO mesajı: Trump F-35 konusunda olumlu yaklaşıyor, yaptırımlar büyük ölçüde kalktı; Türkiye gibi AB üyesi olmayan müttefikler savunmadaki teşebbüslere tam dâhil edilmeli",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeWVyalJmWGJ5cjFuNW93UzFXVE5VQXBsdjZfeVdYZGZqRDd2R0Qwdm80bXBqMkozM21KVU1FMDhqeWxrU0wtRXRhYlBWdWhfZjlWV3NQTlRzdUhGd252ckt1cXdnTkRTV2xwTkJPak9leUh2SFlLdFV6NmtoZk9HZzBDN2JIY0wtODNKOFpwaG93Szh3WXJZ?oc=5",
-  "source": "T24",
-  "summary_tr": "Erdoğan NATO zirvesinde, Trump'ın F-35 konusunda olumlu yaklaştığını ve yaptırımların büyük ölçüde kalktığını, AB üyesi olmayan müttefiklerin savunma teşebbüslerine tam dahil edilmesi gerektiğini belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-08T22:01:12.570192+00:00",
-  "type": "news",
-  "cluster_id": "c2080db16156e"
- },
- {
-  "title": "Bakan Fidan: Tarihi zirveye tüm müttefiklerin lider düzeyinde katılmış olması ülkemize duyulan güvenin bir göstergesidir",
-  "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidandan-nato-ankara-zirvesine-iliskin-paylasim/3992407",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Bakan Fidan, NATO Ankara Zirvesi'nin başarıyla tamamlandığını ve tüm müttefiklerin lider düzeyinde katılmış olmasının Türkiye'ye duyulan güvenin göstergesi olduğunu belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-08T22:01:12.570192+00:00",
-  "type": "news",
-  "cluster_id": "c95bebdc9b0eb"
  }
 ]
