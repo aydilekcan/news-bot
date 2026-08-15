@@ -1,5 +1,41 @@
 [
  {
+  "title": "Lebanon says Israeli strikes in south of the country kill at least 11​​​",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXM0UF9hbGcwOHNUVUZ1Zms5RDF1UWhGVWVyRHRSbm5zdXpSSmxoMGhsLWNhUE90YkVCU2tESnBPTUFURDFFTkpzUFhRRElKdkJNQmpZV0RhOEhLS0FhSVFNUkd0dDhON0dicVl4OTc0X2RzN1gxVlJMbzJqMlNpRTl0QlVtdWp4eHQ3ZklZRXZsU205NG1Bdl9jXzhTa0xDcExkLUVQY0tUcXBpOWlHMk5n?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İsrail'in Lübnan'ın güneydoğusundaki hava saldırılarında en az 11 kişi öldü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-15T20:01:00.140489+00:00",
+  "type": "news",
+  "cluster_id": "c0f6e1dfde8b5"
+ },
+ {
+  "title": "Trump’tan Kim Jong Un mesajı: 'Çok iyi geçiniyoruz'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/trump-tan-kim-jong-un-mesaji-cok-iyi-geciniyoruz-2529392",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD Başkanı Trump, Kuzey Kore lideri Kim Jong Un ile iyi ilişkiler içinde olduğunu belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-15T20:01:00.140489+00:00",
+  "type": "news",
+  "cluster_id": "c685421fae9d9"
+ },
+ {
+  "title": "Erdoğan’dan Trump'a F-35 hatırlatması: Verdiği sözü yerine getirmesini bekliyorum",
+  "link": "https://www.sozcu.com.tr/recep-tayyip-erdogan-15-agustos-2026-aciklamalari-p349692",
+  "source": "Sözcü",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, Trump'tan F-35 uçaklarına ilişkin sözlerini yerine getirmesini beklediğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-15T20:01:00.140489+00:00",
+  "type": "news",
+  "cluster_id": "ce21a04d3f18d"
+ },
+ {
   "title": "Süleymancılara operasyon… MASAK raporunun ayrıntıları ortaya çıktı! Kuriş bağlantılı şirketlerde 66 milyar liralık para trafiği",
   "link": "https://www.cumhuriyet.com.tr/turkiye/suleymancilara-operasyon-masak-raporunun-ayrintilari-ortaya-cikti-kuris-baglantili-sirketlerde-66-milyar-liralik-para-trafigi-2529365",
   "source": "Cumhuriyet",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-09T09:01:14.895336+00:00",
   "type": "news",
   "cluster_id": "c16d17a90d67d"
- },
- {
-  "title": "Konya savunma ve havacılık sanayisi ihracatını yılın ilk yarısında yüzde 13,5 artırdı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/konya-savunma-ve-havacilik-sanayisi-ihracatini-yilin-ilk-yarisinda-yuzde-13-5-artirdi/3992869",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Konya savunma ve havacılık sanayisi ihracatını yılın ilk yarısında %13,5 artırarak 107 milyon dolara ulaştırdı.",
-  "metric": "Savunma ve havacılık sanayi ihracatı +%13,5",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-09T09:01:14.895336+00:00",
-  "type": "news",
-  "cluster_id": "c2c3f8ed9613f"
- },
- {
-  "title": "Otomotiv sektöründen 8 milyar dolarlık yan sanayi ürünü ihracatı",
-  "link": "https://www.trthaber.com/haber/ekonomi/otomotiv-sektorunden-8-milyar-dolarlik-yan-sanayi-urunu-ihracati-950754.html",
-  "source": "TRT Haber",
-  "summary_tr": "Otomotiv yan sanayi sektörü ocak-haziran döneminde 8,09 milyar dolarlık ihracat gerçekleştirdi.",
-  "metric": "Otomotiv yan sanayi ihracatı -> 8 milyar 86 milyon dolar",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-09T09:01:14.895336+00:00",
-  "type": "news",
-  "cluster_id": "cd462263d65f6"
- },
- {
-  "title": "Kimyevi maddeler ve mamulleri ihracatında rekor",
-  "link": "https://www.trthaber.com/haber/ekonomi/kimyevi-maddeler-ve-mamulleri-ihracatinda-rekor-950747.html",
-  "source": "TRT Haber",
-  "summary_tr": "Kimyevi maddeler ve mamulleri sektörü yılın ilk 6 ayında 17,1 milyar dolarlık rekor ihracat gerçekleştirdi.",
-  "metric": "Kimyevi maddeler ihracatı -> 17,1 milyar dolar",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-09T09:01:14.895336+00:00",
-  "type": "news",
-  "cluster_id": "ccf9901bcacc8"
  }
 ]
