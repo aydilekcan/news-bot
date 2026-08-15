@@ -1,5 +1,65 @@
 [
  {
+  "title": "Kademeli emeklilik çıkacak mı? Kademeli emeklilik Meclis'e geldi mi? 2000-2008 arası sigorta girişi olanlar emekli olacak mı?",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/kademeli-emeklilik-cikacak-mi-kademeli-emeklilik-meclis-e-geldi-mi-2000-2008-arasi-sigorta-girisi-olanlar-emekli-olacak-mi-2529266",
+  "source": "Cumhuriyet",
+  "summary_tr": "Kademeli emeklilik tasarısı Meclis'e geldi. 2000-2008 arası sigorta girişi olanlar emekli olabilecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-15T10:01:02.845107+00:00",
+  "type": "news",
+  "cluster_id": "c875ae8d14f1a"
+ },
+ {
+  "title": "Tarihin en büyük petrol kaybı: Hürmüz krizi dünyayı vurdu",
+  "link": "https://www.sozcu.com.tr/tarihin-en-buyuk-petrol-kaybi-hurmuz-krizi-dunyayi-vurdu-p349599",
+  "source": "Sözcü",
+  "summary_tr": "Mart 2026'da Hürmüz Boğazı kapanması sonucu tarihin en büyük petrol kaybı yaşandı. Uluslararası Enerji Ajansı ve Dünya Bankası verileri kayda alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-15T10:01:02.845107+00:00",
+  "type": "news",
+  "cluster_id": "c91b320bd6f09"
+ },
+ {
+  "title": "Şam Büyükelçisi Yılmaz, Suriye'de yeni yönetimle sınırdaki güvenlik tehditlerinin ortadan kalktığını söyledi",
+  "link": "https://www.aa.com.tr/tr/dunya/sam-buyukelcisi-yilmaz-suriyede-yeni-yonetimle-sinirdaki-guvenlik-tehditlerinin-ortadan-kalktigini-soyledi/4028061",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Şam Büyükelçisi: Suriye'de yeni yönetimle sınır hattındaki temel güvenlik tehditleri ortadan kalktı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-15T10:01:02.845107+00:00",
+  "type": "news",
+  "cluster_id": "cb8bc3e7a8f61"
+ },
+ {
+  "title": "Araç kiralama sektöründe yeni dönem",
+  "link": "https://www.trthaber.com/haber/ekonomi/arac-kiralama-sektorunde-yeni-donem-954031.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ticaret Bakanlığı, araç kiralama sektörü için yeni yönetmelik hazırladı. Yetki belgesi şartları ve eğitim gereklilikleri düzenleniyor.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-15T10:01:02.845107+00:00",
+  "type": "news",
+  "cluster_id": "cf3e834c8c090"
+ },
+ {
+  "title": "Evde Bakım Yardımı ödemeleri hesaplara yatırıldı",
+  "link": "https://www.trthaber.com/haber/ekonomi/evde-bakim-yardimi-odemeleri-hesaplara-yatirildi-954029.html",
+  "source": "TRT Haber",
+  "summary_tr": "Evde Bakım Yardımı ödemeleri hesaplara yatırıldı. Tam bağımlı vatandaşlar ve aileleri ekonomik destek aldı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-15T10:01:02.845107+00:00",
+  "type": "news",
+  "cluster_id": "c7b7a5b0f8d4b"
+ },
+ {
   "title": "İşgalci İsrail'in ateşkese rağmen Lübnan'a düzenlediği saldırılarda 7 kişi hayatını kaybetti",
   "link": "https://www.trthaber.com/haber/dunya/isgalci-israilin-ateskese-ragmen-lubnana-duzenledigi-saldirilarda-7-kisi-hayatini-kaybetti-954026.html",
   "source": "TRT Haber",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-09T07:06:25.320825+00:00",
   "type": "news",
   "cluster_id": "c43bbe76fa498"
- },
- {
-  "title": "Orta Doğu'da tırmanan tansiyon piyasaları hareketlendirdi",
-  "link": "https://www.trthaber.com/haber/ekonomi/orta-doguda-tirmanan-tansiyon-piyasalari-hareketlendirdi-950725.html",
-  "source": "TRT Haber",
-  "summary_tr": "Orta Doğu'daki tırmanan gerilim enflasyon endişelerini artırarak küresel piyasaları hareketlendirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-09T07:06:25.320825+00:00",
-  "type": "news",
-  "cluster_id": "ca44cafd8b935"
- },
- {
-  "title": "NATO Zirvesi’nin sonucu: Savaş masası kuruldu, Erdoğan koltuğuna kavuştu",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLU1YdlFjWlhzZ1VzSlU5ZnBiSUpqZEVjZFlKY2h5LUpHRHFER1pzRjhsUEltVnFQZUcxXzBBUFBUT0t1SEllS2pBLU5KWEJ4ZlVaNU85ZlNfcUxGSU5Fb0wxR09vV3hENlRlekVyUzRLTjBRUFdyc2J0LTNUNHVmRi1NOHhjUDh0S3pjeE44ZHhveEc5U2NFTi1NUHdwNkdyMUI3dVJaVmRoNkU?oc=5",
-  "source": "soL",
-  "summary_tr": "NATO Zirvesi sonlandı; savaş masası kuruldu ve Cumhurbaşkanı Erdoğan başkanlık pozisyonunu güvence altına aldı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-09T07:06:25.320825+00:00",
-  "type": "news",
-  "cluster_id": "c50df2ac10a70"
- },
- {
-  "title": "Gold eases as Middle East hostilities revive inflation fears",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX196NlhHT096R1N6VDR0SmJaSUhvb0tnWDFoTmEydEFHTl9QRHNPSVBTejM2eFhfLXFRa1ZHcWhnLWlVdVd1SGdmMHhTZ0FCTUpocm5WOW1NRVBHMWo0MzFIVkE2eXZJd2xvWGxGUTB1RFRIUFh2dWRlbFhtV3J1SklFOGUyYkk1RnlWSUJSQTlrX2N2dUZYV3pjTk1URlZMWmF4Y2lB?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Orta Doğu hasmiyetlerinin yeniden tırmandığı ortamda altın enflasyon endişeleriyle gerildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-09T07:06:25.320825+00:00",
-  "type": "news",
-  "cluster_id": "c4c0393943ecd"
- },
- {
-  "title": "Altın fiyatları için 14 Temmuz uyarısı: Her şey altüst olabilir",
-  "link": "https://www.sozcu.com.tr/altin-fiyatlari-icin-14-temmuz-uyarisi-her-sey-altust-olabilir-p334947",
-  "source": "Sözcü",
-  "summary_tr": "ABD haziran enflasyon verisi 14 Temmuz'da açıklanacak; altın fiyatlarında önemli hareketlilik bekleniyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-09T06:01:19.763644+00:00",
-  "type": "news",
-  "cluster_id": "cea52ed902eff"
- },
- {
-  "title": "Türkiye'nin dev santrali icradan satışa çıktı: Bedeli belli oldu",
-  "link": "https://www.sozcu.com.tr/turkiye-nin-dev-santrali-icradan-satisa-cikti-bedeli-belli-oldu-p334946",
-  "source": "Sözcü",
-  "summary_tr": "Soma B Termik Santral icradan satışa çıktı; Konya Şeker'in 20 milyar TL'yi aşan borcu nedeniyle icralık hale geldi.",
-  "metric": "Borç tutarı 20+ milyar TL",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-09T06:01:19.763644+00:00",
-  "type": "news",
-  "cluster_id": "cfc23245474e3"
  }
 ]
