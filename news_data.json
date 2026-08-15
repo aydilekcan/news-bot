@@ -1,5 +1,77 @@
 [
  {
+  "title": "İran Kızılhaç'tan yardım istedi: Pilotlarımız Katar'da rehin",
+  "link": "https://www.dw.com/tr/iran-kızılhaç-tan-yardım-istedi-pilotlarımız-katar-da-rehin/a-78383270?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "İran, Mart ayındaki saldırıda düşürülen üç pilotun Katar'da rehin tutulduğunu duyurdu ve serbest kalmaları için yardım istedi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-15T14:01:07.251638+00:00",
+  "type": "news",
+  "cluster_id": "cdbffecc894d9"
+ },
+ {
+  "title": "İran: Savaş sırasında düşen uçaklardaki 3 pilot Katar tarafından esir alındı",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeTdrclBCM3MtTU9ONmlTTlc4aW53ZjhiWlhOdm9wamFzcmU1MFNFNFNGUTZKNkFiOXZwU1d1bkJYMUl1MERRY1NOTHoyMjdiY3FSenA4b3cwdC1COTkxM1FMZ2VPZS04UlF5S0h4Z0VKMEsxY1gyeTByR3ZWSldta1diLVlMRmdPSE5kTkpyNlFRay1QanpYZ3ZLVGpBaGt3a3RZR1g4V2xObWNQXzhhc0Rjdw?oc=5",
+  "source": "soL",
+  "summary_tr": "İran, savaş sırasında düşen uçaklardaki 3 pilotun Katar tarafından esir alındığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-15T14:01:07.251638+00:00",
+  "type": "news",
+  "cluster_id": "cf8b051012359"
+ },
+ {
+  "title": "Üniversitelerin 2026-2027 yılı öğrenim ücretleri belli oldu",
+  "link": "https://www.cumhuriyet.com.tr/egitim/universitelerin-2026-2027-yili-ogrenim-ucretleri-belli-oldu-2529319",
+  "source": "Cumhuriyet",
+  "summary_tr": "2026-2027 akademik yılı üniversite harçları ve katkı payları belirlendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-15T14:01:07.251638+00:00",
+  "type": "news",
+  "cluster_id": "c4af46e528767"
+ },
+ {
+  "title": "Üniversitelilere kötü haber: Harçlara zam geldi",
+  "link": "https://www.sozcu.com.tr/universitelilere-kotu-haber-harclara-zam-geldi-p349647",
+  "source": "Sözcü",
+  "summary_tr": "2026-2027 eğitim öğretim yılında uygulanacak üniversite harçlarına zam yapıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-15T14:01:07.251638+00:00",
+  "type": "news",
+  "cluster_id": "c9e26ae5d999d"
+ },
+ {
+  "title": "Üniversitelerde uzaktan ve ikinci öğretim için katkı payları ile öğrenim ücretleri belirlendi",
+  "link": "https://www.aa.com.tr/tr/gundem/universitelerde-uzaktan-ve-ikinci-ogretim-icin-katki-paylari-ile-ogrenim-ucretleri-belirlendi/4028267",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "2026-2027 akademik yılı üniversite harçları ve katkı payları belirlendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-15T14:01:07.251638+00:00",
+  "type": "news",
+  "cluster_id": "c9265d9d69899"
+ },
+ {
+  "title": "Üniversitelerde katkı payları ile öğrenim ücretleri belirlendi",
+  "link": "https://www.trthaber.com/haber/egitim/universitelerde-katki-paylari-ile-ogrenim-ucretleri-belirlendi-954045.html",
+  "source": "TRT Haber",
+  "summary_tr": "2026-2027 akademik yılı üniversite harçları ve katkı payları belirlendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-15T14:01:07.251638+00:00",
+  "type": "news",
+  "cluster_id": "c9265d9d69899"
+ },
+ {
   "title": "Kemal Kılıçdaroğlu yeniden aday olacak mı? CHP’den açıklama",
   "link": "https://www.sozcu.com.tr/kilicdaroglu-yeniden-aday-olacak-mi-chp-den-aciklama-p349632",
   "source": "Sözcü",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-09T08:01:21.799228+00:00",
   "type": "news",
   "cluster_id": "c31d7535c5526"
- },
- {
-  "title": "Dış Ticaret Beklenti Anketi yayımlandı",
-  "link": "https://www.trthaber.com/haber/ekonomi/dis-ticaret-beklenti-anketi-yayimlandi-950739.html",
-  "source": "TRT Haber",
-  "summary_tr": "Ticaret Bakanlığı 3. çeyreğe ilişkin ihracat beklenti endeksini 101,5'e yükselttiklerini açıkladı.",
-  "metric": "İhracat beklenti endeksi +2,4 puan (101,5'e)",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-09T08:01:21.799228+00:00",
-  "type": "news",
-  "cluster_id": "c31d7535c5526"
- },
- {
-  "title": "İçişleri Bakanı Çiftçi, NATO Ankara Zirvesi kapsamında çeşitli suçlardan aranan 4 bin 412 şahsın yakalandığını bildirdi",
-  "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-nato-ankara-zirvesi-kapsaminda-cesitli-suclardan-aranan-4-bin-412-sahsin-yakalandigini-bildirdi/3992767",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İçişleri Bakanı Çiftçi, NATO Ankara Zirvesi tedbirleri kapsamında çeşitli suçlardan aranan 4.412 şahsın yakalandığını bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-09T08:01:21.799228+00:00",
-  "type": "news",
-  "cluster_id": "c43e2fa04aefc"
- },
- {
-  "title": "İŞKUR ilk 6 ayda 723 binden fazla işe yerleştirmeye aracılık etti",
-  "link": "https://www.trthaber.com/haber/ekonomi/iskur-ilk-6-ayda-723-binden-fazla-ise-yerlestirmeye-aracilik-etti-950740.html",
-  "source": "TRT Haber",
-  "summary_tr": "İŞKUR 2026 yılının ilk 6 ayında 723 binden fazla işe yerleştirmeye aracılık etti.",
-  "metric": "İşe yerleştirme ilk 6 ay 723 bin+ (2026)",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-09T08:01:21.799228+00:00",
-  "type": "news",
-  "cluster_id": "c27fbd8c729ce"
- },
- {
-  "title": "Trump \"ateşkes bitti\" dedi, ABD İran'da 90 hedefi vurdu",
-  "link": "https://www.dw.com/tr/trump-ateşkes-bitti-dedi-abd-iran-da-90-hedefi-vurdu/a-77883427?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "ABD Başkanı Trump İran ateşkesinin bittiğini duyurdu; Amerikan ordusu 90 hedefi bombaladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-07-09T07:06:25.320825+00:00",
-  "type": "news",
-  "cluster_id": "cfde16536927c"
- },
- {
-  "title": "İran: ABD saldırılarında 14 kişi öldü",
-  "link": "https://www.diken.com.tr/iran-abd-saldirilarinda-14-kisi-oldu/?utm_source=rss&utm_medium=rss&utm_campaign=iran-abd-saldirilarinda-14-kisi-oldu",
-  "source": "Diken",
-  "summary_tr": "İran Sağlık Bakanlığı ABD saldırılarında iki günde 14 kişinin öldüğünü duyurdu.",
-  "metric": "Ölü sayısı: 14 kişi",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-09T07:06:25.320825+00:00",
-  "type": "news",
-  "cluster_id": "c56ac3913f4a1"
- },
- {
-  "title": "İran Sağlık Bakanlığı: ABD'nin son 2 günde düzenlediği saldırılarda 14 kişi hayatını kaybetti",
-  "link": "https://www.aa.com.tr/tr/live-blog/iran-saglik-bakanligi-abdnin-son-2-gunde-duzenledigi-saldirilarda-14-kisi-hayatini-kaybetti/5047",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran Sağlık Bakanlığı ABD'nin son 2 günde düzenlediği saldırılarda 14 kişinin hayatını kaybettiğini açıkladı.",
-  "metric": "Ölü sayısı: 14 kişi",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-09T07:06:25.320825+00:00",
-  "type": "news",
-  "cluster_id": "c9a6468102729"
  }
 ]
