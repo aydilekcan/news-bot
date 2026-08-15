@@ -1,5 +1,53 @@
 [
  {
+  "title": "TSK'da 205 general ve amiral görev yerlerine atandı",
+  "link": "https://www.diken.com.tr/tskda-205-general-ve-amiral-gorev-yerlerine-atandi/?utm_source=rss&utm_medium=rss&utm_campaign=tskda-205-general-ve-amiral-gorev-yerlerine-atandi",
+  "source": "Diken",
+  "summary_tr": "TSK'da Cumhurbaşkanı imzasıyla 205 general ve amiral görev yerlerine atandı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-15T08:00:59.859838+00:00",
+  "type": "news",
+  "cluster_id": "c562d32af9028"
+ },
+ {
+  "title": "Türk Silahlı Kuvvetlerinde 205 general ve amiral görev yerlerine atandı",
+  "link": "https://www.aa.com.tr/tr/gundem/turk-silahli-kuvvetlerinde-205-general-ve-amiral-gorev-yerlerine-atandi/4027962",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Cumhurbaşkanı Erdoğan imzasıyla Resmi Gazete'de yayımlanan karar uyarınca Kara, Deniz ve Hava Kuvvetleri Komutanlıklarından 205 general ve amiral görev yerlerine atandı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-15T08:00:59.859838+00:00",
+  "type": "news",
+  "cluster_id": "c562d32af9028"
+ },
+ {
+  "title": "205 general ve amiral görev yerlerine atandı",
+  "link": "https://www.trthaber.com/haber/gundem/205-general-ve-amiral-gorev-yerlerine-atandi-954015.html",
+  "source": "TRT Haber",
+  "summary_tr": "Cumhurbaşkanı Erdoğan imzasıyla 205 general ve amiral Kara, Deniz ve Hava Kuvvetleri Komutanlıklarında görev yerlerine atandı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-15T08:00:59.859838+00:00",
+  "type": "news",
+  "cluster_id": "c562d32af9028"
+ },
+ {
+  "title": "Bakan duyurdu: Ödemeler hesaplara yatırıldı",
+  "link": "https://www.sozcu.com.tr/bakan-duyurdu-odemeler-hesaplara-yatirildi-p349564",
+  "source": "Sözcü",
+  "summary_tr": "Aile ve Sosyal Hizmetler Bakanı, evde bakılan tam bağımlı vatandaşlara ekonomik destek ödemelerinin hesaplara yatırıldığını duyurdu.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-15T08:00:59.859838+00:00",
+  "type": "news",
+  "cluster_id": "c3d8a8b828b9b"
+ },
+ {
   "title": "İran’dan Trump’a Hürmüz çıkışı: Hayallerden vazgeçin",
   "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-trump-a-hurmuz-cikisi-hayallerden-vazgecin-2529223",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-09T05:01:12.229093+00:00",
   "type": "news",
   "cluster_id": "c9b2819558314"
- },
- {
-  "title": "ABD Başkanı Trump: İran bir anlaşma yapmayı çok istiyor",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-iran-bir-anlasma-yapmayi-cok-istiyor/3992637",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Trump, İran'ın anlaşma yapmak için arattığını ve bunu çok istediğini söyledi.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-09T05:01:12.229093+00:00",
-  "type": "news",
-  "cluster_id": "c6746ca1a31c9"
- },
- {
-  "title": "HSK, Ankara Cumhuriyet Savcısı Yıkılmaz hakkındaki rüşvet iddialarıyla ilgili inceleme başlattı",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdXlBb3c3THJZNEM1N2NFVXhGWTNpSy1ia0ZhczZDeXhmcTFuRjVWWmIwZF81bWQ5bTNnbTZZTW5wNXZQWjN5UFlHQnJhYTBUSmFMT1VOX2lreWdtN0k4NUVoV2pCMUUzejRIdW85dXlfbV9HZkdDTzE3VXJFRFhSdllxVkIzYjVieEx5bVU4VnFBX2p0Q3hIb2dpbWIxUFpmYTRXY0doVi1uVEgyZEtIMmd2enN6bzQ?oc=5",
-  "source": "soL",
-  "summary_tr": "HSK, Ankara Cumhuriyet Savcısı Yıkılmaz hakkındaki rüşvet iddialarıyla ilgili inceleme başlattı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-09T05:01:12.229093+00:00",
-  "type": "news",
-  "cluster_id": "cf17c8dceb666"
- },
- {
-  "title": "ABD ordusu İran sınırında hava trafiğini artırdı",
-  "link": "https://www.trthaber.com/haber/dunya/abd-ordusu-iran-sinirinda-hava-trafigini-artirdi-950719.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD, İran gerilimi ortamında Doğu Akdeniz ve Basra Körfezi'ndeki hava trafiğini artırdı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-09T04:01:09.152787+00:00",
-  "type": "news",
-  "cluster_id": "c88893c748191"
- },
- {
-  "title": "Trump, İran’a saldırının emrini Ankara’dan verdi",
-  "link": "https://www.sozcu.com.tr/trump-iran-a-saldirinin-emrini-ankara-dan-verdi-p334907",
-  "source": "Sözcü",
-  "summary_tr": "Trump, ABD'nin İran'a yönelik askeri operasyon düzenlemesini Ankara'dan emrettiğini açıkladı. Operasyon S-400 ve F-35 meselesine gönderme yapıyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-07-09T03:01:08.697431+00:00",
-  "type": "news",
-  "cluster_id": "c6bac45b0d947"
  }
 ]
