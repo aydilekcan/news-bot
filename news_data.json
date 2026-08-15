@@ -1,5 +1,29 @@
 [
  {
+  "title": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm05M3ZscW8yb1Jfdkw2QUl4Y2RzOWVXWlQ5ZzNIX0JhcnJlb1VIaHlmeFhJM082VUpua05SY3lQcVotUi1xVFVKSURVRVNBX3djVzE5M3Z6RmxDTHo5WWNsSEs2MU5RS0JaVnNfdWZwZDAtaURZUW1rNTJoYlZJWUdXZ2lSelRMV2RTdVpIQVRnMW0zTWlNU3NKbGtLU3R6cjNUTkZmUQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, müttefiklerine yapay zeka yarışında Çin'e karşı taraf seçmeleri gerektiğini bildirecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-15T00:01:03.468422+00:00",
+  "type": "news",
+  "cluster_id": "cdc1a496030b0"
+ },
+ {
+  "title": "Son Dakika... Jandarma ve Sahil Güvenlik'te 27 general ve albay terfi etti",
+  "link": "https://www.sozcu.com.tr/jandarma-ve-sahil-guvenlikte-27-general-ve-albay-terfi-etti-p349488",
+  "source": "Sözcü",
+  "summary_tr": "Jandarma ve Sahil Güvenlik Komutanlıklarında 27 general ve albay terfi etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-15T00:01:03.468422+00:00",
+  "type": "news",
+  "cluster_id": "c39c22646e999"
+ },
+ {
   "title": "İran’dan Trump’a Hürmüz yanıtı: 'Ne tweetle ele geçirilebilir ne uçak gemisiyle!",
   "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-trump-a-hurmuz-yaniti-ne-tweetle-ele-gecirilebilir-ne-ucak-gemisiyle-2529207",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-08T22:01:12.570192+00:00",
   "type": "news",
   "cluster_id": "c95bebdc9b0eb"
- },
- {
-  "title": "Investors get inflation 'wake-up call' as Trump fires up oil prices",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOUlsWGRCWlNlNDNKOWRucV85aUlzWVRwaUpkanJjbGltWURSSWlFbWUwaFpwX0JjbXRfa2Z0cHk4WXJ2QlJiSDNOeG9PcXphYUNnRDZTQmdkTks4MDVqV3lRODZrVE1oSU02c0h5RkItN1FtMG45cDVwQUoyYko0elhIaGoyY3Y1RFhERA?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump'ın petrol fiyatlarını yükseltmesi, yatırımcılara enflasyon konusunda bir 'uyarı' niteliğinde olmuştur.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-08T22:01:12.570192+00:00",
-  "type": "news",
-  "cluster_id": "c521ed084878d"
- },
- {
-  "title": "ABD'den İran'a yeni saldırılar",
-  "link": "https://www.diken.com.tr/abdden-irana-yeni-saldirilar/?utm_source=rss&utm_medium=rss&utm_campaign=abdden-irana-yeni-saldirilar",
-  "source": "Diken",
-  "summary_tr": "ABD, İran'a yeni saldırılar düzenledi; İran'ın güneyindeki Bender Abbas ve Sirik kentlerinde patlama sesleri duyuldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-07-08T21:01:15.996700+00:00",
-  "type": "news",
-  "cluster_id": "caf85049853b2"
  }
 ]
