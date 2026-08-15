@@ -1,5 +1,41 @@
 [
  {
+  "title": "Süleymancılara operasyon… MASAK raporunun ayrıntıları ortaya çıktı! Kuriş bağlantılı şirketlerde 66 milyar liralık para trafiği",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/suleymancilara-operasyon-masak-raporunun-ayrintilari-ortaya-cikti-kuris-baglantili-sirketlerde-66-milyar-liralik-para-trafigi-2529365",
+  "source": "Cumhuriyet",
+  "summary_tr": "MASAK raporu: Alihan Kuriş'e bağlı şirketlerde 66 milyar lira para trafiği tespit edildi.",
+  "metric": "Para trafiği: 66 milyar TL",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-15T19:01:02.189431+00:00",
+  "type": "news",
+  "cluster_id": "c63080649d0a1"
+ },
+ {
+  "title": "\"Alihan Kuriş çıkar amaçlı suç örgütü\" soruşturmasında \"şüpheli\" para trafiği deşifre edildi",
+  "link": "https://www.aa.com.tr/tr/gundem/alihan-kuris-cikar-amacli-suc-orgutu-sorusturmasinda-supheli-para-trafigi-desifre-edildi/4028426",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "MASAK raporu: Alihan Kuriş suç örgütüne bağlı şirketlerde şüpheli para trafiği deşifre edildi.",
+  "metric": "Para trafiği: 66 milyar TL",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-15T19:01:02.189431+00:00",
+  "type": "news",
+  "cluster_id": "c07cd5003039b"
+ },
+ {
+  "title": "Alihan Kuriş suç örgütü soruşturmasında şüpheli para trafiği deşifre edildi",
+  "link": "https://www.trthaber.com/haber/gundem/alihan-kuris-suc-orgutu-sorusturmasinda-supheli-para-trafigi-desifre-edildi-954052.html",
+  "source": "TRT Haber",
+  "summary_tr": "MASAK raporu: Alihan Kuriş suç örgütüne bağlı şirketlerde şüpheli para trafiği deşifre edildi.",
+  "metric": "Para trafiği: 66 milyar TL",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-15T19:01:02.189431+00:00",
+  "type": "news",
+  "cluster_id": "c07cd5003039b"
+ },
+ {
   "title": "'Sıfır fiyatından pahalı' diye ihbar edildi: Satıcıya ceza yağdı",
   "link": "https://www.sozcu.com.tr/sifirdan-pahali-tesla-ilana-ceza-p349679",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-09T09:01:14.895336+00:00",
   "type": "news",
   "cluster_id": "ccf9901bcacc8"
- },
- {
-  "title": "ABD ve İran'dan karşılıklı saldırılar: Tahran, Körfez'deki üsleri hedef aldı",
-  "link": "https://www.bbc.com/turkce/articles/c0my308zd4go?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD, Hürmüz Boğazı ve çevresinde İran'a karşı yeni hava saldırıları başlattı; İran, Körfez'deki üsleri hedef aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-09T08:01:21.799228+00:00",
-  "type": "news",
-  "cluster_id": "c340f49cb76b6"
- },
- {
-  "title": "ABD'den İran'da tren yoluna saldırı: Seferler durduruldu",
-  "link": "https://www.trthaber.com/haber/dunya/abdden-iranda-tren-yoluna-saldiri-seferler-durduruldu-950733.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD, TahranMeşhed demir yolu hattına saldırı düzenlemesi sonucu bu güzergahtaki yolcu treni seferleri geçici olarak durduruldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-09T08:01:21.799228+00:00",
-  "type": "news",
-  "cluster_id": "cba337f79173d"
- },
- {
-  "title": "Bahreyn ordusu: İran'dan düzenlenen hava saldırıları engellendi",
-  "link": "https://www.trthaber.com/haber/dunya/bahreyn-ordusu-irandan-duzenlenen-hava-saldirilari-engellendi-950732.html",
-  "source": "TRT Haber",
-  "summary_tr": "Bahreyn ordusu, İran'dan düzenlenen hava saldırılarının engellendiğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-09T08:01:21.799228+00:00",
-  "type": "news",
-  "cluster_id": "cdba6570972ed"
  }
 ]
