@@ -1,5 +1,41 @@
 [
  {
+  "title": "Erdoğan imzaladı: Komuta kademesinde değişiklik",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXNQM0F0WjF1Y3BRUk8zdE53bm5UY2drZE1QR0ZFaXNzNG94VXR1WmVVR3RxS2owY1Zkb2pGekR4UXBmZGwwbVd0OGxEcmRzVjVfUGx6cTc3RzZfS3ZsNGF4Yzl0QXpCbi1HTlFRMXpTRk5WTVZac1Z3U0s4bHpVcVlfWnVSb0Z4X3NPTw?oc=5",
+  "source": "soL",
+  "summary_tr": "Cumhurbaşkanı Erdoğan komuta kademesinde değişiklik imzaladı. Detaylar haberde sunulmamıştır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-15T06:01:03.494541+00:00",
+  "type": "news",
+  "cluster_id": "c4c81234d0885"
+ },
+ {
+  "title": "Kredi kartı limiti 50 bin TL'nin üzerinde olanlara kötü haber",
+  "link": "https://www.sozcu.com.tr/kredi-karti-limiti-50-bin-tl-nin-uzerinde-olanlara-kotu-haber-p349520",
+  "source": "Sözcü",
+  "summary_tr": "50 bin TL üzerinde kredi kartı limitine sahip vatandaşlar için finansal maliyetler ve ödeme şartları zorlaşacak. Yüksek limitli kart kullanıcılarına kötü haber geldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-15T06:01:03.494541+00:00",
+  "type": "news",
+  "cluster_id": "ce394a5b9fb78"
+ },
+ {
+  "title": "Bangladeş, Türkiye’nin kapısını çaldı: İHA sanayisinde dev anlaşma!",
+  "link": "https://www.sozcu.com.tr/banglades-turkiye-nin-kapisini-caldi-iha-sanayisinde-dev-anlasma-p349525",
+  "source": "Sözcü",
+  "summary_tr": "Bangladeş, Türkiye ile İHA sanayisinde dev anlaşma imzaladı. Bangladeş askeri teçhizat yerli üretimine geçiş stratejisinde Türkiye ve Çin ile işbirliği yapacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-15T06:01:03.494541+00:00",
+  "type": "news",
+  "cluster_id": "c6dc18fdf46dc"
+ },
+ {
   "title": "Toplu ulaşıma zam geldi",
   "link": "https://www.sozcu.com.tr/toplu-ulasima-zam-geldi-p349512",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-09T02:01:09.664876+00:00",
   "type": "news",
   "cluster_id": "c8ae04e8b2efc"
- },
- {
-  "title": "Trump wants to leave the Iran war behind. That won't happen soon",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdlZTdUh2QUFmVGl3LV9rMW8yR0NLVENkMG1oTFB5X0xLbU1Pd09fdDlEZ0hlSUU3NXdVbDFQSzNHc2F3dWlZby1yT05mVzJuVHRrT2x3VzA2NVJOQmNFZ0JrRkZZNzk1T1RUSnk4Y0hkak1QR2t5OFE1UDRJRWdMTHVVRjlFS0V2OF82WGRoc0xkXzdSWTVaZzlFXzVBd0hVNlNlMnoxYS1UbjVGVGc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump yönetimi İran konusunda çıkış arayışında. Reuters analizi, bu çerçevede kalıcı çözümün yakında gerçekleşmeyeceğini gösteriyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-09T01:01:13.536601+00:00",
-  "type": "news",
-  "cluster_id": "c6abeb0f9f41f"
- },
- {
-  "title": "Oil rises more than a dollar per barrel as US launches fresh strikes against Iran",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVkg2NWtteXRjblpQRDNvZVBHcVdOTUlJYlYzZUltRS10OWVVSGpjcnU4bjl3U3doZnJMRGREdEoxaTAtMXRhTVA2WGJSUjZHN244dlZsSXM2SHJwbGxmYnZxdVJNb2JNRWd6M1ZPMmd2dmlHN3FpdWt3aUZjSFE0SHBGYUVRMlloTE5tSVNzcjJqOVNqZkdDRjhOS3Jja1gyYWN6VlVNNEVtZ2NrYWFyeWdLcmNwMUFNbExiWmJxS2R1eUdodXM0?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, İran'a karşı yeni hava saldırıları düzenledi. Petrol fiyatları bu hamle sonrası 1 dolardan fazla yükseldi.",
-  "metric": "Petrol: +1$ gün içi hareket",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-09T01:01:13.536601+00:00",
-  "type": "news",
-  "cluster_id": "ce3242fb9d00a"
- },
- {
-  "title": "ABD'nin Türkiye'ye yaptırımları kaldırması için nasıl bir yol haritası izlenecek?",
-  "link": "https://www.bbc.com/turkce/articles/c4gylzjdx0lo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD Başkanı Trump, Türkiye ziyaretinde yaptırımların kaldırılmasından bahsetti. Trump'ın bu açıklaması Türkiye-ABD ilişkilerinde yeni bir dönem işareti taşıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-09T01:01:13.536601+00:00",
-  "type": "news",
-  "cluster_id": "c485f51466d13"
  }
 ]
