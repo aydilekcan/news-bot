@@ -1,5 +1,29 @@
 [
  {
+  "title": "Kurtulmuş açıkladı: İmralı dahil örgütün hiçbir üst düzey yetkilisi yasadan yararlanamayacak",
+  "link": "https://www.sozcu.com.tr/numan-kurtulmus-cerceve-yasa-aciklamasi-p349704",
+  "source": "Sözcü",
+  "summary_tr": "TBMM Başkanı Kurtulmuş, çerçeve yasanın PKK/PYD/KCK üyeleri için olduğunu ve İmralı'daki mahpusların dahi yasadan yararlanamayacağını açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-08-15T22:01:40.655182+00:00",
+  "type": "news",
+  "cluster_id": "cc5c2895c4ce7"
+ },
+ {
+  "title": "Hürmüz sözleri sonrası İran’dan Trump’a ‘yemek kamyonlu’ tehdit",
+  "link": "https://www.sozcu.com.tr/hurmuz-sozleri-sonrasi-iran-dan-trump-a-yemek-kamyonlu-tehdit-p349708",
+  "source": "Sözcü",
+  "summary_tr": "İran Meclisi Ulusal Güvenlik Komisyonu Başkanı, Hürmüz Boğazı konusundaki Trump sözlerine 'yemek kamyonlu' tehditle yanıt verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-15T22:01:40.655182+00:00",
+  "type": "news",
+  "cluster_id": "ca4f518745d89"
+ },
+ {
   "title": "İsrail ordusunun Lübnan'ın güneyine düzenlediği saldırısı sonucu şiddetli patlama yaşandı",
   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-lubnanin-guneyine-duzenledigi-saldirisi-sonucu-siddetli-patlama-yasandi/4028497",
   "source": "Anadolu Ajansı",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-09T10:01:09.972887+00:00",
   "type": "news",
   "cluster_id": "cab01fc1def9e"
- },
- {
-  "title": "Araç muayenesi için önemli: Vergi borcu yapılandırması için son tarih 31 Ağustos",
-  "link": "https://www.diken.com.tr/arac-muayenesi-icin-onemli-vergi-borcu-yapilandirmasi-icin-son-tarih-31-agustos/?utm_source=rss&utm_medium=rss&utm_campaign=arac-muayenesi-icin-onemli-vergi-borcu-yapilandirmasi-icin-son-tarih-31-agustos",
-  "source": "Diken",
-  "summary_tr": "Vergi borcu yapılandırmak isteyen araç sahipleri için 31 Ağustos son tarih belirlenmiştir.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-09T10:01:09.972887+00:00",
-  "type": "news",
-  "cluster_id": "c809015486ee5"
- },
- {
-  "title": "Vergi borcunu yapılandıran araç sahipleri muayenelerini yaptırabilecek",
-  "link": "https://www.trthaber.com/haber/ekonomi/vergi-borcunu-yapilandiran-arac-sahipleri-muayenelerini-yaptirabilecek-950760.html",
-  "source": "TRT Haber",
-  "summary_tr": "Vergi borcu yapılandırmadan yararlanan araç sahipleri TÜVTÜRK'te muayenelerini yaptırabiliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-09T10:01:09.972887+00:00",
-  "type": "news",
-  "cluster_id": "c47ea295cead6"
  }
 ]
