@@ -1,5 +1,29 @@
 [
  {
+  "title": "Devlet milyonlarca vatandaşına karşılıksız para dağıtacak",
+  "link": "https://www.sozcu.com.tr/devlet-milyonlarca-vatandasina-karsiliksiz-para-dagitacak-p349611",
+  "source": "Sözcü",
+  "summary_tr": "Singapur, artan yaşam maliyetine karşı 2,4 milyondan fazla vatandaşına Eylül 2026'da 400-600 Singapur doları tutarında karşılıksız para dağıtacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-15T11:01:07.396597+00:00",
+  "type": "news",
+  "cluster_id": "c6d375e1649fa"
+ },
+ {
+  "title": "ABD'den 40 ülkeye ağır suçlamalar: Türkiye de listede",
+  "link": "https://www.sozcu.com.tr/abd-den-40-ulkeye-agir-suclamalar-turkiye-de-listede-p349616",
+  "source": "Sözcü",
+  "summary_tr": "ABD, Türkiye'nin de içinde bulunduğu 40'tan fazla ülkeyi 'usulsüz aktarma' yöntemiyle Çin'in tarifeleri atlatmakla suçladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-15T11:01:07.396597+00:00",
+  "type": "news",
+  "cluster_id": "c520c4641a100"
+ },
+ {
   "title": "Kademeli emeklilik çıkacak mı? Kademeli emeklilik Meclis'e geldi mi? 2000-2008 arası sigorta girişi olanlar emekli olacak mı?",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/kademeli-emeklilik-cikacak-mi-kademeli-emeklilik-meclis-e-geldi-mi-2000-2008-arasi-sigorta-girisi-olanlar-emekli-olacak-mi-2529266",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-09T07:06:25.320825+00:00",
   "type": "news",
   "cluster_id": "c1822220cf7e7"
- },
- {
-  "title": "İsrailli Bakan, F-35’lerin Türkiye’ye verilmemesi için gizli ve açık girişimlerde bulunduklarını söyledi",
-  "link": "https://www.aa.com.tr/tr/dunya/israilli-bakan-f-35-lerin-turkiye-ye-verilmemesi-icin-gizli-ve-acik-girisimlerde-bulunduklarini-soyledi/3992687",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail Maliye Bakanı Bezalel Smotrich, F-35 savaş uçaklarının Türkiye'ye verilmemesi için gizli ve açık girişimlerde bulunduklarını söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-09T07:06:25.320825+00:00",
-  "type": "news",
-  "cluster_id": "c55961c80ae4d"
- },
- {
-  "title": "Küresel piyasalar Orta Doğu kaynaklı gelişmelerin etkisiyle karışık seyrediyor",
-  "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-orta-dogu-kaynakli-gelismelerin-etkisiyle-karisik-seyrediyor/3992678",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Küresel piyasalar Orta Doğu gerilimi ve Fed tutanaklarının etkisiyle karışık seyrediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-09T07:06:25.320825+00:00",
-  "type": "news",
-  "cluster_id": "c43bbe76fa498"
  }
 ]
