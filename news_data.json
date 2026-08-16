@@ -1,5 +1,29 @@
 [
  {
+  "title": "Hamas heyeti Gazze'deki ateşkes anlaşmasının kalıcı hale getirilmesi için Kahire'ye gidiyor",
+  "link": "https://www.aa.com.tr/tr/dunya/hamas-heyeti-gazzedeki-ateskes-anlasmasinin-kalici-hale-getirilmesi-icin-kahireye-gidiyor/4028531",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Hamas heyeti Gazze'deki ateşkesi kalıcı hale getirmek için Kahire'ye gidiyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-16T00:01:04.977791+00:00",
+  "type": "news",
+  "cluster_id": "c59434064f0fa"
+ },
+ {
+  "title": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyine yönelik saldırılarını sürdürüyor",
+  "link": "https://www.trthaber.com/haber/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyine-yonelik-saldirilarini-surduruyor-954058.html",
+  "source": "TRT Haber",
+  "summary_tr": "İsrail ordusu Lübnan'daki ateşkese rağmen saldırılarını sürdürüyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-16T00:01:04.977791+00:00",
+  "type": "news",
+  "cluster_id": "c3a384d71cdfc"
+ },
+ {
   "title": "Kurtulmuş açıkladı: İmralı dahil örgütün hiçbir üst düzey yetkilisi yasadan yararlanamayacak",
   "link": "https://www.sozcu.com.tr/numan-kurtulmus-cerceve-yasa-aciklamasi-p349704",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-09T10:01:09.972887+00:00",
   "type": "news",
   "cluster_id": "c9336fcc89b60"
- },
- {
-  "title": "Trump imzayı attı: Suriye'ye yaptırımlar kaldırılacak",
-  "link": "https://www.sozcu.com.tr/trump-imzayi-atti-suriye-ye-yaptirimlar-kaldirilacak-p335040",
-  "source": "Sözcü",
-  "summary_tr": "ABD Başkanı Trump, Suriye'ye yaptırımların kaldırılacağını ve ülkenin teröre destek veren devletler listesinden çıkarılacağını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-09T10:01:09.972887+00:00",
-  "type": "news",
-  "cluster_id": "cf7d0bd887f4a"
- },
- {
-  "title": "Merz says Germany agreed to acquire US Tomahawk missiles",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ184b0haNkh6NGFSaDg0NnFjVnZkWFdzV0ZxS3Vnb0JFa1ZEbDR4N1JROERaTXBrdGVfMUhXMEd5ZXIwMHFERURueWRrUWg3YXFYZUFUMVJYNEozWkZEZ3lMajRpRHlieGlTZXRHdFVOSUpObENXMGpra2MyZkY0SzJ0Q2FIeDJFRURvb2pmZ1R1cE1rd1U0NTRaYw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Almanya Başbakanı Merz, ABD Tomahawk füzelerinin satın alınmasını onayladığını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-09T10:01:09.972887+00:00",
-  "type": "news",
-  "cluster_id": "cab01fc1def9e"
  }
 ]
