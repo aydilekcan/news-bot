@@ -1,5 +1,41 @@
 [
  {
+  "title": "Liman girişlerine ağır silahlı platformlar yerleştirecekler",
+  "link": "https://www.sozcu.com.tr/liman-girislerine-agir-silahli-platformlar-yerlestirecekler-p349907",
+  "source": "Sözcü",
+  "summary_tr": "Rusya, limanları insansız deniz araçlarına karşı korumak için silahlı yüzer platformları uygulamaya başlayacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-16T17:01:00.192391+00:00",
+  "type": "news",
+  "cluster_id": "c3f9610fcfb68"
+ },
+ {
+  "title": "Gazze planı yol haritası reddedildi! Türkiye ve 7 ülke İsrail'i kınadı",
+  "link": "https://www.sozcu.com.tr/gazze-plani-yol-haritasi-reddedildi-turkiye-ve-7-ulke-israili-kinadi-p349906",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye ve 7 ülke, İsrail'in Gaza Planı yol haritasını uygulamayı reddetmesini kınadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-16T17:01:00.192391+00:00",
+  "type": "news",
+  "cluster_id": "c0596a1eaebf9"
+ },
+ {
+  "title": "Türkiye ve 7 ülke, İsrail’in Trump'ın Gazze Planına ilişkin yol haritasını uygulamayı reddetmesini kınadı",
+  "link": "https://www.aa.com.tr/tr/dunya/turkiye-ve-7-ulke-israil-in-trumpin-gazze-planina-iliskin-yol-haritasini-uygulamayi-reddetmesini-kinadi/4028912",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye ve 7 ülke, İsrail'in Trump'ın Gaza Planı yol haritasını uygulamayı reddetmesini kınadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-16T17:01:00.192391+00:00",
+  "type": "news",
+  "cluster_id": "c0596a1eaebf9"
+ },
+ {
   "title": "Hamas: İsrail, Şarm ElŞeyh Anlaşması'na ve Trump'ın Gazze planına uymuyor",
   "link": "https://www.trthaber.com/haber/dunya/hamas-israil-sarm-el-seyh-anlasmasina-ve-trumpin-gazze-planina-uymuyor-954095.html",
   "source": "TRT Haber",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-09T18:01:13.097120+00:00",
   "type": "news",
   "cluster_id": "cbc7148f14dd5"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan: Ankara Zirvesi, Türkiye'nin NATO'nun güvenlik gündemine yön veren bir aktör olduğunu göstermiştir",
-  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-ankara-zirvesi-turkiyenin-natonun-guvenlik-gundemine-yon-veren-bir-aktor-oldugunu-gostermistir/3993535",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, Türkiye'nin ev sahipliğinde gerçekleştirilen 36. NATO Zirvesi'nin başarıyla tamamlandığını açıklamış; Ankara'nın NATO'nun güvenlik gündemine yön veren bir aktör olduğunu vurgulamıştır.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-09T18:01:13.097120+00:00",
-  "type": "news",
-  "cluster_id": "c9e311dfa99c7"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan'dan Ankaralılara teşekkür",
-  "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-ankaralilara-tesekkur-950796.html",
-  "source": "TRT Haber",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, Türkiye'nin ev sahipliğinde başarıyla tamamlanan 36. NATO Zirvesi nedeniyle Ankaralılara teşekkür etmiştir.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-09T18:01:13.097120+00:00",
-  "type": "news",
-  "cluster_id": "c8b96483c4fa3"
- },
- {
-  "title": "1.443 kilometrelik hat tamamlanıyor: Elektrikle ısıtılarak günde 216 bin varil taşıyacak",
-  "link": "https://www.sozcu.com.tr/1-443-kilometrelik-hat-tamamlaniyor-elektrikle-isitilarak-gunde-216-bin-varil-tasiyacak-p335168",
-  "source": "Sözcü",
-  "summary_tr": "Uganda-Tanzanya arasında inşa edilen Doğu Afrika Ham Petrol Boru Hattı tamamlanmaya yakın; proje günde 216 bin varil petrol taşıyacak kapasitededir.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-09T18:01:13.097120+00:00",
-  "type": "news",
-  "cluster_id": "cb4a5fe53ebe2"
  }
 ]
