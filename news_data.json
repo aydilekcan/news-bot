@@ -1,5 +1,77 @@
 [
  {
+  "title": "Russia attacks Kyiv overnight, injuring three, Ukraine officials say",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDQ2bnhPSnIySk54TjdqYmlQeVd3eEkxSU00ckF6OHZjUkI1S3ZUQm9VRUFvakFsajBqcjFVWlE5cTZsNjFNdUozMGlxQ0tvWTQ2Unl2SjF4UlJpMVlHSFdxOV9xa3hXcWFqMFloSGNFNHVSTVM2UUItcDdhaUZ5dzRTa3Z0eEpPdV9PUVBhV3Z3WVhGZ1NQNjd5LVA5RWNOTjhXV3IxOGJEanUzM1BwcFNycFczNDdMWUEzYXhDQkk?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya gecenin saatlerinde Kyiv'i saldırıya uğrattı, üç kişi yaralandı. Ukrayna yetkilileri saldırıyı doğruladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-16T08:00:58.031642+00:00",
+  "type": "news",
+  "cluster_id": "c5ea7bf276676"
+ },
+ {
+  "title": "German companies cut US investment to three-year low, data show",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQTk3Q1V1UFUwM0ZRa1BjcTh6SjBuZzJfZjZ5NS1sdjlQZVl3MndHSzQzeVhWdjlTQzRDM2x2QlFHYnBldzNLR2l1dTlqOW1vaWkzYVhGTGs0bVVKT1FVOXJOWFNmajdSMUtteXA5am1BaUZvYjZqSVBJR3dUSS1oYmQ5TUtUdjdxWXhmal9LN0tKdmVCbG5ITmV6NWZWWGptRGxaM3AwcU1lQ0JxZlF1dWhn?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Alman şirketleri ABD'ye yatırımlarını üç yıllık düşük seviyeye çekti. Ticari gerilim ortamında yatırım kesintisi devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-16T08:00:58.031642+00:00",
+  "type": "news",
+  "cluster_id": "c8c0d690d03ec"
+ },
+ {
+  "title": "AKP'den saatler sonra aynı meydana tarikat çıktı",
+  "link": "https://www.sozcu.com.tr/akp-den-saatler-sonra-ayni-meydana-tarikat-cikti-p349812",
+  "source": "Sözcü",
+  "summary_tr": "Süleymancılar cemaatinin lideri Alihan Kuriş dahil 32 kişi tutuklandı. Ankara Cumhuriyet Başsavcılığı çıkar amaçlı suç örgütüne yönelik operasyon yürütüyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-16T08:00:58.031642+00:00",
+  "type": "news",
+  "cluster_id": "cea742d13b5b6"
+ },
+ {
+  "title": "Süleymancıların lideri Alihan Kuriş tutuklandı",
+  "link": "https://www.sozcu.com.tr/suleymancilarin-lideri-alihan-kuris-tutuklandi-p349807",
+  "source": "Sözcü",
+  "summary_tr": "Süleymancılar cemaatinin lideri Alihan Kuriş tutuklandı. Ankara Cumhuriyet Başsavcılığı'nın soruşturması kapsamında gözaltına alınıp tutuklandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-16T08:00:58.031642+00:00",
+  "type": "news",
+  "cluster_id": "c34e6f6463fad"
+ },
+ {
+  "title": "Alihan Kuriş tutuklandı",
+  "link": "https://www.trthaber.com/haber/gundem/alihan-kuris-tutuklandi-954068.html",
+  "source": "TRT Haber",
+  "summary_tr": "Alihan Kuriş tutuklandı. Ankara Cumhuriyet Başsavcılığının çıkar amaçlı suç örgütüne yönelik soruşturmasında 38 şüpheli gözaltına alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-16T08:00:58.031642+00:00",
+  "type": "news",
+  "cluster_id": "c34e6f6463fad"
+ },
+ {
+  "title": "\"Alihan Kuriş çıkar amaçlı suç örgütü\"ne yönelik operasyonda 32 şüpheli tutuklandı",
+  "link": "https://www.aa.com.tr/tr/gundem/alihan-kuris-cikar-amacli-suc-orgutune-yonelik-operasyonda-32-supheli-tutuklandi/4028587",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Alihan Kuriş'in liderliğindeki çıkar amaçlı suç örgütüne yönelik operasyonda 32 şüpheli tutuklandı, 6 kişiye adli kontrol uygulandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-16T08:00:58.031642+00:00",
+  "type": "news",
+  "cluster_id": "c8a120a3fdfa0"
+ },
+ {
   "title": "Kuzey Kore Rusya'nın savaşından nasıl zengin oldu?",
   "link": "https://www.dw.com/tr/kuzey-kore-rusya-nın-savaşından-nasıl-zengin-oldu/a-78334280?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-09T13:02:09.754797+00:00",
   "type": "news",
   "cluster_id": "c3ac47c5ad45e"
- },
- {
-  "title": "Hamaney'in cenazesinin bugün Meşhed'de toprağa verilmesi planlanıyor",
-  "link": "https://www.bbc.com/turkce/articles/clyrxndzv9zo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "İran dini lideri Ali Hamaney'in cenazesi bugün Meşhed'de toprağa verilecek. Suikasta uğrayan Hamaney için dört ay sonra düzenlenen cenaze töreni tamamlanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-09T13:02:09.754797+00:00",
-  "type": "news",
-  "cluster_id": "ca55275201a31"
- },
- {
-  "title": "Emekliler 13.500 TL'ye kadar ödeme alabilir",
-  "link": "https://www.sozcu.com.tr/emekliler-13-500-tl-ye-kadar-odeme-alabilir-p335109",
-  "source": "Sözcü",
-  "summary_tr": "Emekliler haziran enflasyonunu takiben aylık zamlarla 13.500 TL'ye kadar ödeme alabilecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-09T13:02:09.754797+00:00",
-  "type": "news",
-  "cluster_id": "c8eda06006092"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan'dan NATO Zirvesi'nde yoğun diplomasi trafiği",
-  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogandan-nato-zirvesinde-yogun-diplomasi-trafigi/3993167",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, Ankara'da düzenlenen 36. NATO Zirvesi'nde yoğun diplomasi faaliyetleri gerçekleştiriyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-09T13:02:09.754797+00:00",
-  "type": "news",
-  "cluster_id": "c7078b23f1352"
- },
- {
-  "title": "NATO weathers another Trump storm but braces for more after Ankara summit",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTllzSTJITGFzb0xiZWJYOFZhR1gydnktNG81STlqTWxSbFUyYTgwYXl1WDd4YlNOSFFUOWNyVXlwQjlLeTVOeVFhaENjUFh3UGxnN0xfXzZkVU9qcXh1VkY3ZTZZdXBSekxldHNCTHBWbGZ6RWhTdjZzQjZIV0w5bDRxZGRRQ25jX2RER2ItZ2ZOY04xV1hnZjJKSVRHSm9US0hjZGZYY3haWWZNVUplbzF6aUFOeWE1dXF5QzJ3dWdXRS1PbDJR?oc=5",
-  "source": "Reuters",
-  "summary_tr": "NATO, Ankara zirvesinde Trump konusunda krizle baş etse de gelecek dönem için endişeli halde ayrılıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-09T13:02:09.754797+00:00",
-  "type": "news",
-  "cluster_id": "c99f42eb047f2"
- },
- {
-  "title": "Kredi kartı faiz yükünü sıfırlamak için 2 ay üst üste bunu yapın: Bankalar asla söylemiyor",
-  "link": "https://www.sozcu.com.tr/kredi-karti-faiz-yukunu-sifirlamak-icin-2-ay-ust-uste-bunu-yapin-bankalar-asla-soylemiyor-p335101",
-  "source": "Sözcü",
-  "summary_tr": "Finans uzmanları, kredi kartı kullanıcılarının faiz yükünü azaltmak için iki ay üst üste belirli işlemi yapmasını tavsiye ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-09T13:02:09.754797+00:00",
-  "type": "news",
-  "cluster_id": "c51570df27a8b"
- },
- {
-  "title": "Ankara’daki NATO ablukasını delmişlerdi: TKP üyelerinin 128'i serbest bırakıldı, 3'ü hakkında tutuklama talep edildi",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc1lFX19tUnVRRjZ4eDhXYzh2RkY5aWpvRnlid0E5NkU2SlQ3T0s2NlJyWUdzS3lHbzJrVFE3N2xOeUgtS2VlQjhnSEtHYVZ0MHFKbTE4LTNHM2dRVkhzd2ozTGt6WlMzNFlSWXBrRVZuVlY5ODMxNnJRcUtaQk85OGJLZ1laMndUVEpNSTNEWF9ZYkJfaXJtYTEyajQzTmlqZnRMZGlZTmo0WWx5ejV6VjVGV1h2RDZkMVJJ?oc=5",
-  "source": "soL",
-  "summary_tr": "NATO zirvesi sırasında Ankara'daki protestoya katılan TKP üyelerinin 128'i serbest bırakıldı; 3'ü hakkında tutuklama talep edildi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-09T13:02:09.754797+00:00",
-  "type": "news",
-  "cluster_id": "c4f422b8494d6"
  }
 ]
