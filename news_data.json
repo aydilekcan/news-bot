@@ -1,5 +1,65 @@
 [
  {
+  "title": "Türkiye ve 7 ülkeden İsrail'e tepki: Ortak açıklama yaptılar",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/turkiye-ve-7-ulkeden-israil-e-tepki-ortak-aciklama-yaptilar-2529585",
+  "source": "Cumhuriyet",
+  "summary_tr": "Türkiye ve 7 ülke (Mısır, Ürdün, Pakistan, BAE, Katar, Endonezya, Suudi Arabistan) İsrail'in Trump'ın Gazze Planı'na uymamasını kınadı.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-08-16T18:01:00.940532+00:00",
+  "type": "news",
+  "cluster_id": "c8995799307c5"
+ },
+ {
+  "title": "Türkiye ve 7 ülke, İsrail'in Gazze Planı'na uymayı reddetmesini kınadı",
+  "link": "https://www.aa.com.tr/tr/dunya/turkiye-ve-7-ulke-israilin-gazze-planina-uymayi-reddetmesini-kinadi/4028912",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye ve 7 ülkenin dışişleri bakanları İsrail'in Trump'ın Gazze Planı'na uymamasını kınadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-16T18:01:00.940532+00:00",
+  "type": "news",
+  "cluster_id": "c30277da84efc"
+ },
+ {
+  "title": "Trump's envoys meet mediators, Israel strikes Gaza",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWlULVBMUTk3T05wRS0tNnBRUWFReXlURUhCaTNIZVlRaUtVOHczUm5CTi1YRWlveXN6cC1hWDBKOTJqbUpna3JYZUhzLTVrTnU0bXFWd3JncVNCeUc3NTNING9KeHFSNWpUWWhCNFBGUm1aQzBna3c1OFNtclBMZEY1VERJS0x1elM2ZEVwXzZVeTRzelkyM3ZoWTNGeGRGZkE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump'ın temsilcileri arabulucularla görüştü; İsrail Gazze'de operasyon başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-16T18:01:00.940532+00:00",
+  "type": "news",
+  "cluster_id": "c4493e12b0a97"
+ },
+ {
+  "title": "İçişleri Bakanı Çiftçi’den 'Süleymancılar' açıklaması: 'Haberleşmek için Blooper diye bir programı kullanıyorlar'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/icisleri-bakani-ciftci-den-suleymancilar-aciklamasi-haberlesmek-icin-blooper-diye-bir-programi-kullaniyorlar-2529580",
+  "source": "Cumhuriyet",
+  "summary_tr": "İçişleri Bakanı Mustafa Çiftçi, Süleymancılar örgütünün Blooper adlı program ile haberleştiklerini açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-16T18:01:00.940532+00:00",
+  "type": "news",
+  "cluster_id": "c6f738bdab4b5"
+ },
+ {
+  "title": "İYİ Parti çerçeve yasa sonrası meydanda: ‘Yedi kollu canavarın merkezi Saray'dır’",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/iyi-parti-cerceve-yasa-sonrasi-meydanda-yedi-kollu-canavarin-merkezi-saray-dir-2529579",
+  "source": "Cumhuriyet",
+  "summary_tr": "İYİ Parti, TBMM'den geçen çerçeve yasaya muhalefetini meydana taşıyarak 'yedi kollu canavarın merkezi Saray'dır' açıklaması yaptı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-16T18:01:00.940532+00:00",
+  "type": "news",
+  "cluster_id": "cf8e8462dcdb6"
+ },
+ {
   "title": "Liman girişlerine ağır silahlı platformlar yerleştirecekler",
   "link": "https://www.sozcu.com.tr/liman-girislerine-agir-silahli-platformlar-yerlestirecekler-p349907",
   "source": "Sözcü",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-09T19:01:13.965258+00:00",
   "type": "news",
   "cluster_id": "c61eb9d576935"
- },
- {
-  "title": "Erdoğan'dan 'NATO Zirvesi' paylaşımı: Ankaralılara teşekkür etti, Trump görüşmesine değindi",
-  "link": "https://www.sozcu.com.tr/erdogan-dan-nato-zirvesi-paylasimi-9-tammuz-2026-p335180",
-  "source": "Sözcü",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, Ankara'da düzenlenen NATO Zirvesi'ni tamamladığını ve Trump ile görüştüğünü açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-09T19:01:13.965258+00:00",
-  "type": "news",
-  "cluster_id": "cc6723a7f4ab1"
- },
- {
-  "title": "Rusya: İran'la ilgili meselenin sonlandırılması gerekiyor",
-  "link": "https://www.aa.com.tr/tr/dunya/rusya-iranla-ilgili-meselenin-sonlandirilmasi-gerekiyor/3993611",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Rusya Dışişleri Bakanı Lavrov, İran meselesinin tüm tarafların katılımı ile sonlandırılması gerektiğini belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-09T19:01:13.965258+00:00",
-  "type": "news",
-  "cluster_id": "cefb145850be0"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan: 36'ncı NATO Zirvesi'ni başarıyla tamamladık",
-  "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-36nci-nato-zirvesini-basariyla-tamamladik-950796.html",
-  "source": "TRT Haber",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, Türkiye'nin ev sahipliğinde gerçekleştirilen 36. NATO Zirvesi'nin başarıyla tamamlandığını açıkladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-09T19:01:13.965258+00:00",
-  "type": "news",
-  "cluster_id": "c510f9240237a"
- },
- {
-  "title": "Erdoğan'dan 'NATO' mesajları... Ankaralılara teşekkür etti, Trump ile 'masada' olan konuları hatırlattı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/erdogan-dan-nato-mesajlari-ankaralilara-tesekkur-etti-trump-ile-masada-olan-konulari-hatirlatti-2519509",
-  "source": "Cumhuriyet",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, tamamlanan NATO Ankara Zirvesi'nin Türkiye'nin uluslararası güvenlik gündemine yön veren bir aktör olduğunu gösterdiğini vurguladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-09T18:01:13.097120+00:00",
-  "type": "news",
-  "cluster_id": "c7de97690c2ea"
- },
- {
-  "title": "İran'dan Hürmüz Boğazı uyarısı",
-  "link": "https://www.sozcu.com.tr/iran-hurmuz-aciklamasi-9-temmuz-2026-p335174",
-  "source": "Sözcü",
-  "summary_tr": "İran Devrim Muhafızları Ordusu, ABD'nin İran'a yönelik saldırılarına karşılık olarak Hürmüz Boğazı'nda tehdit oluşturmakla uyarmıştır.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-09T18:01:13.097120+00:00",
-  "type": "news",
-  "cluster_id": "cbc7148f14dd5"
  }
 ]
