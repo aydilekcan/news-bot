@@ -1,5 +1,29 @@
 [
  {
+  "title": "AİHM Cumhuriyet’in sorularını yanıtladı: Bekleyen her 10 başvurudan 4’ü Türkiye hakkında",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/aihm-cumhuriyet-in-sorularini-yanitladi-bekleyen-her-10-basvurudan-4-u-turkiye-hakkinda-2529363",
+  "source": "Cumhuriyet",
+  "summary_tr": "AİHM 2025'te Türkiye hakkında verilen 74 kararın 66'sında hak ihlali tespit etti. Bekleyen başvuruların %40'ı Türkiye ile ilgilidir.",
+  "metric": "Hak ihlali tespit oranı: 66/74 (%89)",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-16T01:01:02.577094+00:00",
+  "type": "news",
+  "cluster_id": "cf7d48e6097a4"
+ },
+ {
+  "title": "Gürkan Akgüneş | Fındık 300 lira olsa sorun çözülecek mi?",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON09zMkkzNTE5cEIxcHVMOU1kcnlCY0xoUUQ3a3hiRUNXTkFMVFAtSXdoNjdMN0RLel9TY0tyaDNUYlF5MjBWX3hGdGg4bHB6TmlNN3d1WmlHNEVaRlppRUt5eGFoLUNlUHlLM19rYVlxSzhQTXhuWUluOEg2bzlEcVdoZDBmZlRvWm5GT0lRS2NTQQ?oc=5",
+  "source": "T24",
+  "summary_tr": "Gürkan Akgüneş yazısında fındık fiyatının 300 liraya çıkması ile ilgili ekonomik sorunlar tartışılıyor.",
+  "metric": "Fındık fiyatı 300 TL",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-16T01:01:02.577094+00:00",
+  "type": "news",
+  "cluster_id": "cd29db54c62c5"
+ },
+ {
   "title": "Hamas heyeti Gazze'deki ateşkes anlaşmasının kalıcı hale getirilmesi için Kahire'ye gidiyor",
   "link": "https://www.aa.com.tr/tr/dunya/hamas-heyeti-gazzedeki-ateskes-anlasmasinin-kalici-hale-getirilmesi-icin-kahireye-gidiyor/4028531",
   "source": "Anadolu Ajansı",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-09T11:06:18.650315+00:00",
   "type": "news",
   "cluster_id": "c0575374451a2"
- },
- {
-  "title": "US and Iran exchange intensifying fire across the Gulf, threatening the interim deal to end war",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmZnOENNRXdELTloYWdZVG84OGRxcnFydXg5S1RNYWYyeTVkZGQ3XzkwV0hJdXRDNzBrSEp2ZUw2UkU5LVJkcWtyc0FXOHZkM1cwanhvaUFFM3g2WjJ6bkdHZmJVbE8zNGFneWF4VzM5VFdWcGNmUWo4VnljNktvSWJ3eE9XaThVZVVPM2NlQlhoUVh4T2E0cnJB?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD ve İran Basra Körfezi'nde kuvvet gösterisinde bulunarak savaşı sonlandırmak için varılan geçici anlaşmayı tehdit ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-09T10:01:09.972887+00:00",
-  "type": "news",
-  "cluster_id": "cb4763d4953de"
- },
- {
-  "title": "Türkiye dahil sekiz NATO ülkesi yeni savunma bankası kuruyor",
-  "link": "https://www.bbc.com/turkce/articles/c4gyd2np25yo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Türkiye dahil sekiz NATO ülkesi ve Ukrayna, müttefiklerin silahlanmasını desteklemek için yeni bir küresel savunma bankası kuruyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-09T10:01:09.972887+00:00",
-  "type": "news",
-  "cluster_id": "c9336fcc89b60"
  }
 ]
