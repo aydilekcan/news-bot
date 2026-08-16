@@ -1,5 +1,17 @@
 [
  {
+  "title": "Mükelleflere SMS gönderildi, MTV tahsilatında rekor kırıldı",
+  "link": "https://www.trthaber.com/haber/ekonomi/mukelleflere-sms-gonderildi-mtv-tahsilatinda-rekor-kirildi-954081.html",
+  "source": "TRT Haber",
+  "summary_tr": "Hazine ve Maliye Bakanlığı, SMS kampanyasıyla mükelleflerin vergisel uyumunu artırma çalışmasında MTV tahsilatında rekor kırdı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-16T11:01:02.476521+00:00",
+  "type": "news",
+  "cluster_id": "ca92c7ec015a6"
+ },
+ {
   "title": "Rusya: Ukraynadaki askeri sanayi tesislerini ve askeri malzeme taşıyan gemiyi vurduk",
   "link": "https://www.trthaber.com/haber/dunya/rusya-ukraynadaki-askeri-sanayi-tesislerini-ve-askeri-malzeme-tasiyan-gemiyi-vurduk-954078.html",
   "source": "TRT Haber",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-09T15:01:16.702094+00:00",
   "type": "news",
   "cluster_id": "c9dc5dce14f76"
- },
- {
-  "title": "Takeaways: Trump leaves NATO summit declaring ‘a lot of love’ with allies after a rocky start",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUnJ4emZJOHlwdVE3aEZWU1M1MGhvdThNNmlfNDF3NXpTN1RLX1N5YnJoaWtIUkxUX0plQVA0TTFCaHZKVnNCZ0dxQmdjdjJyNzRBVnhVdEptNUZBRXFkbkhTLWswV0V3MlRreFM4S0JsQ2JwM0xhMWtkWE5DVHAxQ1dXWlpmb0FlY2J0S2JnOVlMcjBVTDhNREhHWEE3UFJxaFhXRjJJQTR5ZHd3?oc=5",
-  "source": "AP",
-  "summary_tr": "Trump NATO zirvesinden ayrılarak müttefiklerle 'çok sevgi' olduğunu duyurdu; zirvenin başında gerilimler yaşanmıştı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-09T15:01:16.702094+00:00",
-  "type": "news",
-  "cluster_id": "cbbb2beeb210d"
  }
 ]
