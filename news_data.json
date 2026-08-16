@@ -1,5 +1,41 @@
 [
  {
+  "title": "Vatandaşların yarısı tehlikenin üzerinde oturuyor",
+  "link": "https://www.sozcu.com.tr/vatandaslarin-yarisi-tehlikenin-uzerinde-oturuyor-p349823",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye'deki konutların yüzde 58'i Zorunlu Deprem Sigortası'na sahip; yüzde 42'sinde deprem sigortası bulunmuyor.",
+  "metric": "Deprem sigortası kapsama oranı %58",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-16T09:01:01.858090+00:00",
+  "type": "news",
+  "cluster_id": "c900bcd3d19ac"
+ },
+ {
+  "title": "Bakan Memişoğlu: Yerli kalpakciğer makinesinde seri üretime geçeceğiz",
+  "link": "https://www.trthaber.com/haber/saglik/bakan-memisoglu-yerli-kalp-akciger-makinesinde-seri-uretime-gececegiz-954074.html",
+  "source": "TRT Haber",
+  "summary_tr": "Sağlık Bakanı Memişoğlu, ASELSAN ile birlikte geliştirilen yerli kalp-akciğer makinesinin seri üretime geçeceğini açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-16T09:01:01.858090+00:00",
+  "type": "news",
+  "cluster_id": "c9b98ed6afccf"
+ },
+ {
+  "title": "DASK'tan kritik uyarı: Konutların yüzde 42'sinin deprem sigortası yok",
+  "link": "https://www.trthaber.com/haber/turkiye/dasktan-kritik-uyari-konutlarin-yuzde-42sinin-deprem-sigortasi-yok-954072.html",
+  "source": "TRT Haber",
+  "summary_tr": "DASK verilerine göre Türkiye'de konutların yüzde 42'sinin deprem sigortası bulunmamaktadır.",
+  "metric": "Deprem sigortasız konut oranı %42",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-16T09:01:01.858090+00:00",
+  "type": "news",
+  "cluster_id": "c66e1884f8fd1"
+ },
+ {
   "title": "Russia attacks Kyiv overnight, injuring three, Ukraine officials say",
   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDQ2bnhPSnIySk54TjdqYmlQeVd3eEkxSU00ckF6OHZjUkI1S3ZUQm9VRUFvakFsajBqcjFVWlE5cTZsNjFNdUozMGlxQ0tvWTQ2Unl2SjF4UlJpMVlHSFdxOV9xa3hXcWFqMFloSGNFNHVSTVM2UUItcDdhaUZ5dzRTa3Z0eEpPdV9PUVBhV3Z3WVhGZ1NQNjd5LVA5RWNOTjhXV3IxOGJEanUzM1BwcFNycFczNDdMWUEzYXhDQkk?oc=5",
   "source": "Reuters",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-09T14:01:23.424804+00:00",
   "type": "news",
   "cluster_id": "c258fec225fa8"
- },
- {
-  "title": "S&P 500, Nasdaq open higher as chip stocks gain; US-Iran tensions in focus",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWlJrcUhGNjUtY2dOX1RQcWxqNW1KNGtrZU9uYU5KSjZiaDdZM3ozU1BZUjR4WmJyLVJjLW9yYjJGRHdSSEo4T0NNVUQ1T2VHN19keUtvRklORURPYUhtS0hUR2NJWnRIcnd3VFRLdGpDTmcwSnA0WHcxSUJ2RHhrNG1hOWUycm5kUjl6OHhoTjhSNVZXRmFUVnRMclJYMW9FdXRJZ1VLSkFrbmxRWVg5N3Z5c3M?oc=5",
-  "source": "Reuters",
-  "summary_tr": "S&P 500 ve Nasdaq yüksek açıldı; çip hisseleri kazanç gösterirken ABD-İran gerilimi odak noktasında.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-09T14:01:23.424804+00:00",
-  "type": "news",
-  "cluster_id": "cb276b54b041a"
- },
- {
-  "title": "Ek ödeme tutarındaki kritik formül: e-Devlet üzerinden zamlı emekli maaşı nasıl hesaplanır?",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/ek-odeme-tutarindaki-kritik-formul-e-devlet-uzerinden-zamli-emekli-maasi-nasil-hesaplanir-2519434",
-  "source": "Cumhuriyet",
-  "summary_tr": "Emekliler temmuz ayında maaş zammı aldı. SGK, e-Devlet üzerinden zamlı emekli maaşı hesaplama formülünü açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-09T13:02:09.754797+00:00",
-  "type": "news",
-  "cluster_id": "c9762a5b48798"
- },
- {
-  "title": "Iran says it hits US military targets in Gulf, prepares to bury slain leader",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0l1cEJNcjlUQjVYcXFjUVViTThKdnVqSGJMTUpEM2Jqem5HUGJyN1VvcEtyQUdrUnFBYWFhNXB3aEFUX2RmRHhCbXJxQ1JhX1Y1RXVyZUp3TXFlY1RFRXpLMWxHQnlQa3Q2OU1wekRWOEY4dGVzNVhQMnhYd1gyVEM0c080bUdGY01KNGJ2RW05MnlQMER1Q21EeUNfME1TVTh2aFk3TFZqMnpnOFowUzhmMWpXdUVHTmJtaXE1VkU?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran, Körfez'deki ABD askeri hedeflerine saldırdığını açıkladı ve öldürülen liderine veda törenine hazırlanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-09T13:02:09.754797+00:00",
-  "type": "news",
-  "cluster_id": "c3ac47c5ad45e"
  }
 ]
