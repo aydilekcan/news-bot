@@ -1,5 +1,29 @@
 [
  {
+  "title": "Opet'in distribütörü iflasın eşiğinde: Akaryakıt şirketi borç batağında",
+  "link": "https://www.sozcu.com.tr/opet-in-distributoru-iflasin-esiginde-akaryakit-sirketi-borc-bataginda-p349729",
+  "source": "Sözcü",
+  "summary_tr": "Opet'in distribütörü Fikret Petrol mahkemeden 3 aylık ödeme erteleme aldı; akaryakıt sektöründe finansal darboğaz yaşanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-16T05:01:04.097755+00:00",
+  "type": "news",
+  "cluster_id": "c5a54b5eca805"
+ },
+ {
+  "title": "Kuyumculardaki altınlar tamamen değişiyor hepsi 'kodlanacak'",
+  "link": "https://www.sozcu.com.tr/kuyumculardaki-altinlar-tamamen-degisiyor-hepsi-kodlanacak-p349730",
+  "source": "Sözcü",
+  "summary_tr": "Darphane yeni sistemle tüm yastık altı altınları kodlayarak takip altına alacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-16T05:01:04.097755+00:00",
+  "type": "news",
+  "cluster_id": "c0f84fb0a753c"
+ },
+ {
   "title": "Merkez memura yapılacak zamma taş koydu",
   "link": "https://www.sozcu.com.tr/merkez-memura-yapilacak-zamma-tas-koydu-p349721",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-09T11:06:18.650315+00:00",
   "type": "news",
   "cluster_id": "c64ec43dbcf7a"
- },
- {
-  "title": "EXCLUSIVE: Putin likely to escalate Ukraine war, despite Trump peace push, sources say",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTlNHTUNWUmpUMkRpM1hXc18tcTA1UHdJOXloZWFPX0dicDB4SUhza0d2YkRfekxLV0VGSmtmUnJHMEYwaldqcldJM1JYZDVRMTY2VWlZQ21LZEVKNE9rSWE5d3ZCSTF4b0d0ZmJnWEVmZjNPZjBMNUZBSEhpeFIwR0ZteEZUd2VzVWk4eGlZZG1WN1k4X0tRUmN1QjhLdE5SdkRpb1U0ZXF6TU1uU2ZHdmRQNFVQVTBHY1JB?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Reuters kaynakları, Putin'in Trump'ın barış çabalarına rağmen Ukrayna savaşını tırmandiracağı yönünde rapor ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-09T11:06:18.650315+00:00",
-  "type": "news",
-  "cluster_id": "cc8185cb46383"
- },
- {
-  "title": "Motorine üst üste üçüncü zam yolda: Litre fiyatı 70 TL'yi aşacak",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/motorine-ust-uste-ucuncu-zam-yolda-litre-fiyati-70-tl-yi-asacak-2519384",
-  "source": "Cumhuriyet",
-  "summary_tr": "Motorin fiyatlarında üçüncü zam yolda; Batı Asya'daki jeopolitik gerilim petrol fiyatlarını yukarı taşıyor ve litre fiyatı 70 TL'yi aşacak.",
-  "metric": "Motorin litre fiyatı -> 70+ TL",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-09T11:06:18.650315+00:00",
-  "type": "news",
-  "cluster_id": "c7dbb818249ee"
  }
 ]
