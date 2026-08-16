@@ -1,5 +1,17 @@
 [
  {
+  "title": "Söz vereli 40 gün oldu, adım atılmadı: Erdoğan'dan Trump'a F-35 sitemi",
+  "link": "https://www.sozcu.com.tr/soz-vereli-40-gun-oldu-adim-atilmadi-erdogan-dan-trump-a-f-35-sitemi-p349745",
+  "source": "Sözcü",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump'ın 40 gün önce vaat ettiği F-35 savaş uçaklarının tesliminde ilerleme olmadığını El Cezire'ye anlattı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-16T06:01:00.145947+00:00",
+  "type": "news",
+  "cluster_id": "cd0064c06d226"
+ },
+ {
   "title": "Opet'in distribütörü iflasın eşiğinde: Akaryakıt şirketi borç batağında",
   "link": "https://www.sozcu.com.tr/opet-in-distributoru-iflasin-esiginde-akaryakit-sirketi-borc-bataginda-p349729",
   "source": "Sözcü",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-09T11:06:18.650315+00:00",
   "type": "news",
   "cluster_id": "cfe17c8e88508"
- },
- {
-  "title": "Bedelli askerlik ücreti açıklandı",
-  "link": "https://www.sozcu.com.tr/bedelli-askerlik-ucreti-aciklandi-p335052",
-  "source": "Sözcü",
-  "summary_tr": "Bedelli askerlik ücreti 2026'nin ikinci yarısında 472 bin 653 lira 60 kuruşa belirlendi.",
-  "metric": "Bedelli askerlik ücreti -> 472.653,60 TL",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-09T11:06:18.650315+00:00",
-  "type": "news",
-  "cluster_id": "c64ec43dbcf7a"
  }
 ]
