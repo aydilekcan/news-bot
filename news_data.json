@@ -1,5 +1,29 @@
 [
  {
+  "title": "Merkez memura yapılacak zamma taş koydu",
+  "link": "https://www.sozcu.com.tr/merkez-memura-yapilacak-zamma-tas-koydu-p349721",
+  "source": "Sözcü",
+  "summary_tr": "TCMB, elektrik ve doğalgaza zam istememekle birlikte merkez memurlarına yapılacak zammı sınırlandırdı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-16T03:01:44.105848+00:00",
+  "type": "news",
+  "cluster_id": "c496016b801f4"
+ },
+ {
+  "title": "iPhone fiyatında da dünyaya fark attık! En pahalısı Türkiye' de",
+  "link": "https://www.sozcu.com.tr/iphone-fiyatinda-da-dunyaya-fark-attik-en-pahalisi-turkiye-de-p349719",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye'de kur ve vergiler nedeniyle iPhone 17 Pro dünyanın en pahalı ülkesi konumundadır; 2019'den bu yana fiyat farkı %80 artmıştır.",
+  "metric": "iPhone fiyat farkı 2019-2024: +%80",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-16T03:01:44.105848+00:00",
+  "type": "news",
+  "cluster_id": "c8ca5095a39ae"
+ },
+ {
   "title": "2 maaş yetmedi İran Riyali yetişti",
   "link": "https://www.sozcu.com.tr/2-maas-yetmedi-iran-riyali-yetisti-p349717",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-09T11:06:18.650315+00:00",
   "type": "news",
   "cluster_id": "c7dbb818249ee"
- },
- {
-  "title": "Volkswagen'de kritik gün! Alman ekonomisi için çöküşün başlangıcı mı?",
-  "link": "https://www.sozcu.com.tr/volkswagen-de-kritik-gun-alman-ekonomisi-icin-cokusun-baslangici-mi-p335055",
-  "source": "Sözcü",
-  "summary_tr": "Volkswagen, 100 bin işçinin işten çıkarılması ve 4 fabrikanın kapatılmasını açıkladı; Avrupa ekonomisinde ciddi etkiler bekleniyor.",
-  "metric": "Volkswagen -> 100.000 işçi işten çıkarılacak, 4 fabrika kapanacak",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-09T11:06:18.650315+00:00",
-  "type": "news",
-  "cluster_id": "cf4d6c1d76954"
- },
- {
-  "title": "BES'te fon büyüklüğü 2,4 trilyon lirayı aştı",
-  "link": "https://www.trthaber.com/haber/ekonomi/beste-fon-buyuklugu-24-trilyon-lirayi-asti-950761.html",
-  "source": "TRT Haber",
-  "summary_tr": "BES (Bireysel Emeklilik Sistemi) ve OKS fon tutarlarının toplam büyüklüğü 2,4 trilyon lirayı aştı.",
-  "metric": "BES+OKS toplam fon -> 2,4 trilyon TL",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-09T11:06:18.650315+00:00",
-  "type": "news",
-  "cluster_id": "cedfc4c607e1f"
  }
 ]
