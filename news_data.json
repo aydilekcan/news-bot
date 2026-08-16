@@ -1,5 +1,17 @@
 [
  {
+  "title": "MTV tahsilatı rekor kırdı: Bakan Şimşek'ten vergi mükelleflerine teşekkür",
+  "link": "https://www.sozcu.com.tr/mtv-tahsilati-rekor-kirdi-bakan-simsek-ten-vergi-mukelleflerine-tesekkur-p349863",
+  "source": "Sözcü",
+  "summary_tr": "Gelir İdaresi Başkanlığı temmuz ayında SMS hatırlatmaları ve dijital bilgilendirme sayesinde 42,8 milyar liralık rekor vergi tahsilatı gerçekleştirdi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-16T12:01:01.871149+00:00",
+  "type": "news",
+  "cluster_id": "cc442c18d5dc5"
+ },
+ {
   "title": "Mükelleflere SMS gönderildi, MTV tahsilatında rekor kırıldı",
   "link": "https://www.trthaber.com/haber/ekonomi/mukelleflere-sms-gonderildi-mtv-tahsilatinda-rekor-kirildi-954081.html",
   "source": "TRT Haber",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-09T15:01:16.702094+00:00",
   "type": "news",
   "cluster_id": "cf6e397dd5eff"
- },
- {
-  "title": "AB'den Çin araç lastiklerine yüzde 45,3'e varan anti-damping vergisi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/abden-cin-arac-lastiklerine-yuzde-45-3e-varan-anti-damping-vergisi/3993265",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "AB, Çin'den ithal edilen otomobil lastiklerine yüzde 45,3'e varan anti-damping vergisi uygulamaya başladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-09T15:01:16.702094+00:00",
-  "type": "news",
-  "cluster_id": "c9dc5dce14f76"
  }
 ]
