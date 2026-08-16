@@ -1,5 +1,17 @@
 [
  {
+  "title": "2 maaş yetmedi İran Riyali yetişti",
+  "link": "https://www.sozcu.com.tr/2-maas-yetmedi-iran-riyali-yetisti-p349717",
+  "source": "Sözcü",
+  "summary_tr": "Çiftçiler artan girdi maliyetleri ve finansman sorunlarıyla mücadele ederken, İran Riyali ek baskı yaratıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-16T02:01:00.585357+00:00",
+  "type": "news",
+  "cluster_id": "c2b8602019dbd"
+ },
+ {
   "title": "AİHM Cumhuriyet’in sorularını yanıtladı: Bekleyen her 10 başvurudan 4’ü Türkiye hakkında",
   "link": "https://www.cumhuriyet.com.tr/turkiye/aihm-cumhuriyet-in-sorularini-yanitladi-bekleyen-her-10-basvurudan-4-u-turkiye-hakkinda-2529363",
   "source": "Cumhuriyet",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-09T11:06:18.650315+00:00",
   "type": "news",
   "cluster_id": "cedfc4c607e1f"
- },
- {
-  "title": "Vestel'in kredi mesaisi büyüyor: Şimdi de gözler 500 milyon dolarlık tahvilde!",
-  "link": "https://www.sozcu.com.tr/vestel-in-kredi-mesaisi-buyuyor-simdi-de-gozler-500-milyon-dolarlik-tahvilde-p335063",
-  "source": "Sözcü",
-  "summary_tr": "Vestel Elektronik, kredi borçlarını yeniden müzakere ederken 500 milyon dolarlık tahvil ile ek finansman arayışında.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-09T11:06:18.650315+00:00",
-  "type": "news",
-  "cluster_id": "c0575374451a2"
  }
 ]
