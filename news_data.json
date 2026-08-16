@@ -1,5 +1,41 @@
 [
  {
+  "title": "İsrail ordusunun Lübnan'da birkaç gün sürecek çatışmalara hazırlandığı ileri sürüldü",
+  "link": "https://www.trthaber.com/haber/dunya/israil-ordusunun-lubnanda-birkac-gun-surecek-catismalara-hazirlandigi-ileri-suruldu-954110.html",
+  "source": "TRT Haber",
+  "summary_tr": "İsrail ordusunun Lübnan'da ateşkes rağmen hava saldırıları düzenlemesi sonrası birkaç gün sürecek çatışmalara hazırlandığı ileri sürülüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-16T23:00:59.618742+00:00",
+  "type": "news",
+  "cluster_id": "c526f189208c8"
+ },
+ {
+  "title": "Trump instructs Pentagon to reduce military exercises with South Korea",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGdQYThHbnV2b3NnalEycy1sZGpyNGNLaGNYODl2TmhhUnNma2ZhMk1MTURNQWxMalB3OUswYk10R2RJZGlBNnJoUkZzRGxGcE8xQklBZnlZYUs1d004Q09uUWdDeV96aFlJc0o2Nzh1aHZvRVBhZTV2SGU4RnZremZXWkw0YUp3SENRTDNFNkFyOWNVS2ROSEpCaVhpSmV2QWhMUGI5aVo3aUc3Z2pkWDBIQ2lRdw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, Pentagon'a Güney Kore ile askeri tatbikatları azaltmasını emretti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-16T23:00:59.618742+00:00",
+  "type": "news",
+  "cluster_id": "cd6a601259913"
+ },
+ {
+  "title": "Ege'nin su ürünleri ve hayvansal mamuller ihracatı 2 milyar doları aştı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/egenin-su-urunleri-ve-hayvansal-mamuller-ihracati-2-milyar-dolari-asti/4029001",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ege bölgesinin su ürünleri ve hayvansal mamuller ihracatı son bir yılda yüzde 13,5 artarak 2 milyar 1 milyon dolara ulaştı.",
+  "metric": "İhracat %13,5 artış",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-16T23:00:59.618742+00:00",
+  "type": "news",
+  "cluster_id": "cb9ed6da18706"
+ },
+ {
   "title": "Türkiye, Suudi Arabistan ve Pakistan imzaladı: Trump'tan 'Mekke Anlaşması' açıklaması",
   "link": "https://www.cumhuriyet.com.tr/siyaset/turkiye-suudi-arabistan-ve-pakistan-imzaladi-trump-tan-mekke-anlasmasi-aciklamasi-2529635",
   "source": "Cumhuriyet",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-09T21:01:07.101078+00:00",
   "type": "news",
   "cluster_id": "cb59949f74ce2"
- },
- {
-  "title": "Oil prices rise, and stocks drop worldwide after Trump says ceasefire with Iran is ‘over’",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM255ZEIteU82bFZRNFpWYW9fTTlFaXdIajdXbjBYNmEzQTZBNUdXYjNjTGxTRm02S0NUQTBDa2lmYndWOV9sN3JqVFFvemRIaXhXTXFEdlFiVDB3cnc2b09hVF9Pd0dBVWhLMWpsV0UzV0NGQ194SFNVRjZBdGJRbExDN3dyVWROTFJscg?oc=5",
-  "source": "AP",
-  "summary_tr": "Trump, İran ile ateşkesi 'bittiğini' açıkladı; petrol fiyatları yükseldi ve küresel borsalar düştü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-09T20:01:12.088779+00:00",
-  "type": "news",
-  "cluster_id": "ccf684a8d50d6"
- },
- {
-  "title": "Netanyahu, Türkiye'nin F-35'lere erişimi konusunda ABD'ye üstü kapalı rahatsızlığını dile getirdi",
-  "link": "https://www.aa.com.tr/tr/dunya/netanyahu-turkiyenin-f-35lere-erisimi-konusunda-abdye-ustu-kapali-rahatsizligini-dile-getirdi/3993685",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Netanyahu, ABD'nin Türkiye'ye F-35 satışına ilişkin olumlu açıklamaları konusunda üstü kapalı rahatsızlığını dile getirdi.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-09T20:01:12.088779+00:00",
-  "type": "news",
-  "cluster_id": "cc503049347d0"
- },
- {
-  "title": "BM: Dün Lübnan hava sahasında İsrail uçaklarının 41'den fazla ihlali tespit edildi",
-  "link": "https://www.aa.com.tr/tr/dunya/bm-dun-lubnan-hava-sahasinda-israil-ucaklarinin-41den-fazla-ihlali-tespit-edildi/3993672",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "BM, İsrail uçaklarının Lübnan hava sahasını ateşkes görüşmeleri sırasında 41 defadan fazla ihlal ettiğini tespit etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-09T20:01:12.088779+00:00",
-  "type": "news",
-  "cluster_id": "cb9e0f1c3002d"
  }
 ]
