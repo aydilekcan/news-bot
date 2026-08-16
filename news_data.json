@@ -1,5 +1,17 @@
 [
  {
+  "title": "Cumhurbaşkanı Erdoğan: Trump'tan F35 sözü aldım, yerine getirilmesini bekliyorum",
+  "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-trumptan-f35-sozu-aldim-yerine-getirilmesini-bekliyorum-954105.html",
+  "source": "TRT Haber",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, Trump'tan F-35 programına dönüş için söz aldığını ve yerine getirilmesini beklediğini belirtti.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-16T20:00:57.950448+00:00",
+  "type": "news",
+  "cluster_id": "c6172a4a2de00"
+ },
+ {
   "title": "Türkiye dahil sekiz ülkeden Gazze'de ateşkesin ikinci aşamasını reddeden İsrail'e kınama",
   "link": "https://www.diken.com.tr/turkiye-dahil-sekiz-ulkeden-gazzede-ateskesin-ikinci-asamasini-reddeden-israile-kinama/?utm_source=rss&utm_medium=rss&utm_campaign=turkiye-dahil-sekiz-ulkeden-gazzede-ateskesin-ikinci-asamasini-reddeden-israile-kinama",
   "source": "Diken",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-09T20:01:12.088779+00:00",
   "type": "news",
   "cluster_id": "c34bde29c43fa"
- },
- {
-  "title": "ABD'nin İran'a saldırıları sürüyor: Ülkenin güneyinde patlama sesleri!",
-  "link": "https://www.cumhuriyet.com.tr/dunya/abd-nin-iran-a-saldirilari-suruyor-3-kentte-patlama-sesleri-2519519",
-  "source": "Cumhuriyet",
-  "summary_tr": "İran'ın güney bölgelerinde patlama sesleri duyuluyor; ABD'nin saldırıları sürüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-09T19:01:13.965258+00:00",
-  "type": "news",
-  "cluster_id": "c89f5d51d41f3"
  }
 ]
