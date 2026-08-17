@@ -1,5 +1,77 @@
 [
  {
+  "title": "Ateş püskürdü! İşte Trump'ın hedefindeki yeni ülke",
+  "link": "https://www.sozcu.com.tr/trump-bu-kez-guney-koreyi-hedef-aldi-p350272",
+  "source": "Sözcü",
+  "summary_tr": "ABD Başkanı Trump, Güney Kore'nin İran konusunda kendilerine destek vermeyi reddetmesinden rahatsız olduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-17T20:01:06.094202+00:00",
+  "type": "news",
+  "cluster_id": "ce6e88a6e52c5"
+ },
+ {
+  "title": "Fidan ve Arakçi arasında Hürmüz Boğazı görüşmesi",
+  "link": "https://www.sozcu.com.tr/fidan-ve-arakci-arasinda-hurmuz-bogazi-gorusmesi-p350270",
+  "source": "Sözcü",
+  "summary_tr": "Dışişleri Bakanı Hakan Fidan, İran Dışişleri Bakanı Abbas Arakçi ile Hürmüz Boğazı konusunda telefonda görüştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-17T20:01:06.094202+00:00",
+  "type": "news",
+  "cluster_id": "c2ced90bbbcbc"
+ },
+ {
+  "title": "Trump says North Korea's Kim has responded to his overtures",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTUJXMVdaUWl3aDB1SXIwbmVGSi1jbXJFblJHRkN3QTlaZ29LNEd2bktlYTF0d29GOE40TVVHQk1acVY4Z3hIM1RWNlJTb19udG1KM3hVV05xZWNhUGMteEh0bE9jaDNBci1DZ0U0NURkQU1zYXNYRmFLV3B1cmY4dTIzTWdmS3BhMEM3U2pMZzA4SEVoOFVZUm9hM1MzeVlfdGYwM05n?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, Kuzey Kore lideri Kim'in kendisine yönelik girişimlerine karşılık verdiğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-17T20:01:06.094202+00:00",
+  "type": "news",
+  "cluster_id": "c4d8f50bb8da6"
+ },
+ {
+  "title": "Emniyette beklenen terfi ve atamalar tamamlandı: 270 personelin görev yeri değişti",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/emniyette-beklenen-terfi-ve-atamalar-tamamlandi-270-personelin-gorev-yeri-degisti-2529891",
+  "source": "Cumhuriyet",
+  "summary_tr": "Emniyet Genel Müdürü Ali Fidan, 2024'ten bu yana beklemede olan 270 personelin terfi ve atamalarını tamamladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-17T20:01:06.094202+00:00",
+  "type": "news",
+  "cluster_id": "c3424ebd5de2d"
+ },
+ {
+  "title": "Madencilerin eylemine polis müdahalesi: Çakır ve Aksu gözaltına alındı",
+  "link": "https://www.sozcu.com.tr/mandecilerin-eylemi-8-inci-gununde-p350275",
+  "source": "Sözcü",
+  "summary_tr": "Enerji Bakanlığı önündeki madenci eyleminin 8. gününde Bağımsız Maden-İş Sendikası Genel Sekreteri Çakır ve Aksu gözaltına alındı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-17T20:01:06.094202+00:00",
+  "type": "news",
+  "cluster_id": "cfc246c226d31"
+ },
+ {
+  "title": "Emniyet Genel Müdürlüğünde terfi ve atamalar yapıldı",
+  "link": "https://www.aa.com.tr/tr/gundem/emniyet-genel-mudurlugunde-terfi-ve-atamalar-yapildi/4029935",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Emniyet Genel Müdürü Ali Fidan, 2024'ten bu yana beklemede olan 1. Sınıf Emniyet Müdürü rütbesine terfi ve atamalar yapıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-17T20:01:06.094202+00:00",
+  "type": "news",
+  "cluster_id": "cd0ca690a2751"
+ },
+ {
   "title": "ABD Başkanı Trump, İran'la sona eren mutabakatı uzatmak istemediklerini açıkladı",
   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-iranla-sona-eren-mutabakati-uzatmak-istemediklerini-acikladi/4029880",
   "source": "Anadolu Ajansı",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-10T23:01:07.877304+00:00",
   "type": "news",
   "cluster_id": "c1a055c807c15"
- },
- {
-  "title": "US insists Iran commit to stopping attacks in Hormuz strait, say US officials",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTDI4WnJQY1UzQVd1QjZQMXRFUkM2SHdzNV9EYmd2cTQ2a1h3cTN0NTlza0JSMWFlbFhibmY0SnVRSHU0U2ZsRGpoMEhMamd5RXNZUXZRVUJRQnVzVGhtajFJbHdXSUtjNy1iOGpTODU3dG5YLUphaGlYRDRXLUZSdXF2U3laZDhaeTVvalFJbjlGOGJYaTFFdnRuMUJmZXE3U1Z0LTRxaUtiNTNnQnQ2bGdDZEVhUzV4OHdBVlBTSVVBdw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, İran'dan Hürmüz Boğazı'ndaki saldırıları durdurmasına ve deniz geçişlerine açık tutmasına dair taahhüt talep ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-10T23:01:07.877304+00:00",
-  "type": "news",
-  "cluster_id": "c699286ad280b"
- },
- {
-  "title": "Atama ve görevden alma kararları Resmi Gazete'de",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/atama-ve-gorevden-alma-kararlari-resmi-gazete-de-2519860",
-  "source": "Cumhuriyet",
-  "summary_tr": "Cumhurbaşkanı Erdoğan'ın imzasıyla Milli Savunma, Aile ve Sosyal Hizmetler, Kültür ve Turizm bakanlıklarında atama ve görevden alma kararları Resmi Gazete'de yayımlandı.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-10T22:01:15.059962+00:00",
-  "type": "news",
-  "cluster_id": "cb5fb3d293dd8"
- },
- {
-  "title": "Ukraine creates 'long-range' command to step up strikes on Russia",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWFlVMElxNkZJbUx6S0lWcVZfSEhLd0g2RXJEbU10OTNkZjFfZmFLVmtMZWlabTBkcGlERDJVT0ZkMktiMkhCeUN3NnA0QWN3d2Z2UFNTaEtwZjJKNDhMWFJmbDZOZV8zWFluVkUtOTc3M2hCcTF5RFNSRVczRDhIR2VjLVN0Sk83eGxoTmJ2N2otYzNMbU50RzRDVFdrRU1MUEwwVXo2UW9OcUFW?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ukrayna, Rusya'ya karşı uzun menzilli saldırıları artırmak için özel bir komuta oluşturdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-10T22:01:15.059962+00:00",
-  "type": "news",
-  "cluster_id": "c7eedd798c5dc"
- },
- {
-  "title": "Resmi Gazete yayınlandı: Danimarka Büyükelçiliği'ne Burak Özügergin atandı",
-  "link": "https://www.sozcu.com.tr/resmi-gazete-yayinlandi-danimarka-buyukelciligi-ne-burak-ozugergin-atandi-p335506",
-  "source": "Sözcü",
-  "summary_tr": "Cumhurbaşkanı Erdoğan'ın imzasıyla Burak Özügergin Danimarka Büyükelçiliği'ne atandı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-10T22:01:15.059962+00:00",
-  "type": "news",
-  "cluster_id": "c4b14014ca946"
- },
- {
-  "title": "Apple \"ticari sırlarını çaldığı\" iddiasıyla iki eski çalışanı ve OpenAI'a dava açtı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/apple-ticari-sirlarini-caldigi-iddiasiyla-iki-eski-calisani-ve-openaia-dava-acti/3994735",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Apple, iki eski çalışanı ve yapay zeka şirketi OpenAI'a ticari sırlarını çaldığı iddiasıyla dava açtı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-10T22:01:15.059962+00:00",
-  "type": "news",
-  "cluster_id": "cc99c54dd6762"
- },
- {
-  "title": "İran Dışişleri Bakanlığı Sözcüsü: İran, ABD ile müzakere talebinde bulunmadı",
-  "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakanligi-sozcusu-iran-abd-ile-muzakere-talebinde-bulunmadi-950905.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Dışişleri Bakanlığı Sözcüsü İsmail Bekayi, İran'ın ABD ile müzakere talebinde bulunduğu yönündeki iddiaları reddetti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-10T22:01:15.059962+00:00",
-  "type": "news",
-  "cluster_id": "c72cced738b84"
  }
 ]
