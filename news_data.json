@@ -1,5 +1,53 @@
 [
  {
+  "title": "China's economy loses steam as consumption, output miss forecasts",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQU1zd0xiWmtwQ3dnX2tSQlRPUjJYMWM2aHpFRkR6UC1uWlVHUWJ6V3FzN0E0TThVSFJtYjlyREVPUDlidHBWbWd6YnBZbnExU0FlTElqMFNKRmRVLXlMeHZobkI0NGl5Y0dTSWlxZ2RpZ1R2N0NDM19aZEI2Y1pob2JlQmNhTGxNX1Zwb2Z6TjhOdUJEdjVHS1VuTUN3WmEtY3BGc0NnMGc1R0tTaDZZVw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin ekonomisi beklentileri karşılamadı; tüketim ve üretim öngörüleri aşmadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-17T09:01:08.229611+00:00",
+  "type": "news",
+  "cluster_id": "c31a88ea7e0f1"
+ },
+ {
+  "title": "Erdoğan El Cezire röportajında Avrupa'ya rest çekti: AB üyeliği artık öncelik değil",
+  "link": "https://www.sozcu.com.tr/erdogan-el-cezire-roportajinda-avrupa-ya-rest-cekti-ab-uyeligi-artik-oncelik-degil-p350105",
+  "source": "Sözcü",
+  "summary_tr": "Cumhurbaşkanı Erdoğan El Cezire röportajında AB üyeliğinin artık öncelik olmadığını ifade etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-17T09:01:08.229611+00:00",
+  "type": "news",
+  "cluster_id": "ceae89625b2df"
+ },
+ {
+  "title": "Bütçe uygulama sonuçları açıklandı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/butce-uygulama-sonuclari-aciklandi/4029263",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Merkezi yönetim bütçe gelirleri temmuzda 1 trilyon 412,4 milyar lira, giderleri 1 trilyon 790,5 milyar lira oldu.",
+  "metric": "Bütçe açığı: 378,1 milyar lira",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-17T09:01:08.229611+00:00",
+  "type": "news",
+  "cluster_id": "c4b1e70e4bc21"
+ },
+ {
+  "title": "İBB davasında ikinci celse bugün görülüyor",
+  "link": "https://www.bbc.com/turkce/articles/c5yvvv1z4yko?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "İBB davasında ikinci celse İstanbul 33. Ağır Ceza Mahkemesi'nde görülüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-17T09:01:08.229611+00:00",
+  "type": "news",
+  "cluster_id": "c68e4cb2314a6"
+ },
+ {
   "title": "YHT biletlerine zam: Ankara-İstanbul 990 lira",
   "link": "https://www.diken.com.tr/yht-biletlerine-zam-ankara-istanbul-990-lira/?utm_source=rss&utm_medium=rss&utm_campaign=yht-biletlerine-zam-ankara-istanbul-990-lira",
   "source": "Diken",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-10T10:01:11.491049+00:00",
   "type": "news",
   "cluster_id": "c982be8f406c4"
- },
- {
-  "title": "Türk lirasıyla dış ticaret 6 ayda 773 milyar liraya ulaştı",
-  "link": "https://www.trthaber.com/haber/ekonomi/turk-lirasiyla-dis-ticaret-6-ayda-773-milyar-liraya-ulasti-950849.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türk lirasıyla dış ticaret yılın ilk yarısında 773 milyar liraya ulaştı, bir önceki yılın aynı dönemine kıyasla %10,7 arttı.",
-  "metric": "Dış ticaret (TL) yılın ilk 6 ayında: +%10,7 artış (773 milyar TL)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-10T10:01:11.491049+00:00",
-  "type": "news",
-  "cluster_id": "cb33a05994120"
- },
- {
-  "title": "ŞA-RA Enerji talep toplama sürecinin son günü",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/sa-ra-enerji-talep-toplama-surecinin-son-gunu-2519666",
-  "source": "Cumhuriyet",
-  "summary_tr": "ŞA-RA Enerji'nin halka arzında talep toplama süreci 10 Temmuz'da sona eriyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-10T10:01:11.491049+00:00",
-  "type": "news",
-  "cluster_id": "cd754bf0a152d"
- },
- {
-  "title": "Dünyanın en zengin ülkeleri belli oldu: İşte Türkiye'nin güncel sırası",
-  "link": "https://www.sozcu.com.tr/dunyanin-en-zengin-ulkeleri-belli-oldu-iste-turkiye-nin-guncel-sirasi-p335358",
-  "source": "Sözcü",
-  "summary_tr": "IMF verilerine göre dünyanın en büyük ekonomileri sıralaması açıklandı; Türkiye'nin güncel konumu belirtildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-10T10:01:11.491049+00:00",
-  "type": "news",
-  "cluster_id": "c04087a524912"
- },
- {
-  "title": "Hamas Gazze'de sivil yönetimden neden çekiliyor?",
-  "link": "https://www.dw.com/tr/hamas-gazze-de-sivil-yönetimden-neden-çekiliyor/a-77900024?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Hamas, Gazze'deki 2007'den beri devam eden fiili yönetimini feshedeceğini açıkladı. Hareketin iktidardan çekilip çekilmediği açık değil.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-10T09:01:12.461301+00:00",
-  "type": "news",
-  "cluster_id": "c7062c044ede1"
  }
 ]
