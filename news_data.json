@@ -1,5 +1,29 @@
 [
  {
+  "title": "SGK'dan kritik uyarı: 3 ayı kaçıranların aylığı tamamen yanıyor",
+  "link": "https://www.sozcu.com.tr/sgkdan-kritik-uyari-3-ayi-kaciranlarin-ayligi-tamamen-yaniyor-p349986",
+  "source": "Sözcü",
+  "summary_tr": "SGK, iş ve emeklilik işlemleri için 3 aydan fazla gecikme durumunda aylığın tamamen kesileceğini uyarıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-17T05:01:05.279220+00:00",
+  "type": "news",
+  "cluster_id": "c7a9029a34535"
+ },
+ {
+  "title": "Piyasada tarihi rekor: Altına değil ona yöneliyorlar",
+  "link": "https://www.sozcu.com.tr/piyasada-tarihi-rekor-altina-degil-ona-yoneliyorlar-p349991",
+  "source": "Sözcü",
+  "summary_tr": "Bakır fiyatları yeni rekorlara yaklaşırken, yatırımcılar altın yerine diğer emtialara yöneliyorlar.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-17T05:01:05.279220+00:00",
+  "type": "news",
+  "cluster_id": "c5af3ac737d77"
+ },
+ {
   "title": "EU plans most far-reaching sanctions package against Russia in autumn, foreign chief says",
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbk1aZnI3eEd5X0NiUWJ6M005Sm9hekNHZkFDX21fcHQ5QTdnajFBV2xQalhOOFJHTWRmMlJXQ1ViXzIzdnFzb1YyMnpVWGRPNG1fUlNDZzVGb3VjN1I5RjVtZ05DdzlCU2RNNkhkTkNCWjNISnZuLWxzZjRFZlMyNEo1YjVvTVRsRnFBVklaWTZWcDZxSWN0SWlwdTJ4RW1VTnFhdXhtajlCbXRnUVA4Um44ZGVEZTFpTVNYYnMzWGJTcXU1RHdSag?oc=5",
   "source": "Reuters",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-10T04:01:09.141779+00:00",
   "type": "news",
   "cluster_id": "cea6ddec5cfaa"
- },
- {
-  "title": "Okul saldırıları TBMM gündeminde: Sosyal medya temsilcileri sunum yapacak",
-  "link": "https://www.trthaber.com/haber/gundem/okul-saldirilari-tbmm-gundeminde-sosyal-medya-temsilcileri-sunum-yapacak-950820.html",
-  "source": "TRT Haber",
-  "summary_tr": "TBMM, Şanlıurfa ve Kahramanmaraş'taki okul saldırılarını araştırmaya devam ediyor; bu hafta sosyal medya temsilcileri komisyona sunum yapacak.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-10T04:01:09.141779+00:00",
-  "type": "news",
-  "cluster_id": "c164349e023b7"
- },
- {
-  "title": "Meclis'e sunuldu: Sahte diploma düzenleyene hapis cezası geliyor",
-  "link": "https://www.trthaber.com/haber/gundem/meclise-sunuldu-sahte-diploma-duzenleyene-hapis-cezasi-geliyor-950818.html",
-  "source": "TRT Haber",
-  "summary_tr": "AK Parti tarafından Meclis'e sunulan Yükseköğretim Kanunu değişikliğine göre, sahte diploma düzenleyenlere 4 yıla kadar hapis cezası getirilecek.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-10T04:01:09.141779+00:00",
-  "type": "news",
-  "cluster_id": "ce02e5e05dda6"
  }
 ]
