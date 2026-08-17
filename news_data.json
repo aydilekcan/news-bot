@@ -1,5 +1,53 @@
 [
  {
+  "title": "İşgalci İsrail güçleri, Batı Şeria'da bir hastaneye baskın yaparak hasta ve yakınlarına saldırdı",
+  "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-gucleri-bati-seriada-bir-hastaneye-baskin-yaparak-hasta-ve-yakinlarina-saldirdi-954197.html",
+  "source": "TRT Haber",
+  "summary_tr": "İsrail güçleri Batı Şeria'daki Beytüllahim'de bir hastaneye baskın düzenleyerek hastalar ve yakınlarına saldırdı.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-08-17T23:01:03.688856+00:00",
+  "type": "news",
+  "cluster_id": "c4257c458fa59"
+ },
+ {
+  "title": "Iran threatens new offensive while US rules out extending ceasefire deal",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVl4WFplN0o4aVNSQ0REMXZlRmNzNTk4dURRMV8wUXhVQjNzVkZ0S3R4el9XSnE1MWZfLXc1RlZtZmJITURZRS1NaThGcXBKV0NZY2JXRGU1c093dzM1M0ZLcUtaRERHS1B4QUtXU3pwUk5XVWpSTEtXXzlTQ1BBZU85ZE50NHZQN2hXa1FTODlNRHU5UzhWS0tzMGktMktwMXI3X3pNYmRFMVIzSTlJbzl5SWRQa05qZ0lXWnM1bw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran yeni bir taarruzu tehdit ederken ABD, ateşkes anlaşmasının uzatılmayacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-17T23:01:03.688856+00:00",
+  "type": "news",
+  "cluster_id": "cd662adbb8010"
+ },
+ {
+  "title": "Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Resmi Gazete'de",
+  "link": "https://www.aa.com.tr/tr/gundem/milli-dayanisma-ve-toplumsal-butunlesmenin-guclendirilmesine-dair-kanun-resmi-gazetede/4030034",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "TBMM'de 'Terörsüz Türkiye' kapsamında Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun kabul edildi ve Resmi Gazete'de yayımlandı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-17T23:01:03.688856+00:00",
+  "type": "news",
+  "cluster_id": "c5ea3f78a0a81"
+ },
+ {
+  "title": "US diesel crack surpasses $100 a barrel for the first time on supply disruptions",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2p1clBfdVhTak9ubTVGRFROZ3BqSlB0U1k5MzNUNzUzYjdLUzNWQWdEajJHdDZXTzdfVWJBYlJHSk9iNTZROEJyWG55ZFBUYkhUalF6aXl2Ynkzakppczk0N3RLal9zZ0JNOXZqX2c5eFFTMmtVTlJhYTRNMjd6dnNmRER4YkFmZmp3YXA2VGdBWE1BQUJaenBkZnh1QkE0aGQ2cDA5VkRod3ZUVmsxZWVibWJBSUZzZXc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD dizel crack'i arz kısıntıları nedeniyle ilk kez varilde 100 doları aşarak tarihi rekor kırdı.",
+  "metric": "US diesel crack $100/barrel (ilk kez)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-17T23:01:03.688856+00:00",
+  "type": "news",
+  "cluster_id": "c68b5cf743ca2"
+ },
+ {
   "title": "Erdoğan, Trump ile görüştü: Gündem ABD-Türkiye ilişkileri",
   "link": "https://www.cumhuriyet.com.tr/siyaset/erdogan-trump-ile-gorustu-gundem-abd-turkiye-iliskileri-2529926",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-11T06:01:13.357963+00:00",
   "type": "news",
   "cluster_id": "c3ef57d619e61"
- },
- {
-  "title": "Emekli maaşları kesildi: Nedenini öğrenmenin yolunu SGK açıkladı",
-  "link": "https://www.sozcu.com.tr/emekli-maaslari-kesildi-nedenini-ogrenmenin-yolunu-sgk-acikladi-p335536",
-  "source": "Sözcü",
-  "summary_tr": "Milyonlarca SSK ve BAĞ-KUR emeklisinin maaş kesintilerinin nedenini SGK e-Devlet üzerinden öğrenme yolunun açıldığı duyuruldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-11T06:01:13.357963+00:00",
-  "type": "news",
-  "cluster_id": "cea4502273d8c"
- },
- {
-  "title": "Trump: İran bana suikast girişiminde bulunursa ordu onları yok etmeye hazır",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNXB3bXR4NTVzaUZWRk5hNFZiX1o4X2VxazFrd1Y5SUx2amZFYTRBMm5HaHFwb3hHSFAxRVlEWTRpWEs5aXo3dTJ2Mm1Iazc3SWI3bHlfXzJZYmV1VzdPM0hYN1V5Zkt2d0d3czJ0cnBsVEtBdGtiRDBGT0czS1RiQ2ZNRG5LMVlLdTVJY0wwM1JCOTYxR3ktNlA1YWlxUWd6SV9pMGdZckVDRDh0a2wtN1ln?oc=5",
-  "source": "soL",
-  "summary_tr": "Trump, İran'ın kendisine suikast girişiminde bulunması durumunda ABD ordusunun bunu bertaraf etmeye hazır olduğunu açıklamıştır.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-11T06:01:13.357963+00:00",
-  "type": "news",
-  "cluster_id": "c7052a44e3a35"
- },
- {
-  "title": "Gümüş fiyatlarındaki düşüşün arkasındaki gizem: \"Mahkemede kanıt olacak\" döngü!",
-  "link": "https://www.sozcu.com.tr/gumus-fiyatlarindaki-dususun-arkasindaki-gizem-mahkemede-kanit-olacak-dongu-p335538",
-  "source": "Sözcü",
-  "summary_tr": "Gümüş fiyatlarında belirli dönemlerde görülen sert dalgalanmaların COMEX opsiyon vadelerine bağlı olduğu ortaya çıktı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-11T06:01:13.357963+00:00",
-  "type": "news",
-  "cluster_id": "c6af283fc4dce"
- },
- {
-  "title": "AFP Türkiye ofisinde gazeteciler grevde: Resmi enflasyonu bile kabul etmediler",
-  "link": "https://www.sozcu.com.tr/afp-turkiye-ofisinde-gazeteciler-grevde-resmi-enflasyonu-bile-kabul-etmediler-p335535",
-  "source": "Sözcü",
-  "summary_tr": "AFP Türkiye bürosu gazetecileri, Gazeteciler Sendikası ile işveren arasındaki toplu iş görüşmelerinde grevde.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-11T06:01:13.357963+00:00",
-  "type": "news",
-  "cluster_id": "cc7e6f6943795"
  }
 ]
