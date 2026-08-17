@@ -1,5 +1,53 @@
 [
  {
+  "title": "YHT biletlerine zam: Ankara-İstanbul 990 lira",
+  "link": "https://www.diken.com.tr/yht-biletlerine-zam-ankara-istanbul-990-lira/?utm_source=rss&utm_medium=rss&utm_campaign=yht-biletlerine-zam-ankara-istanbul-990-lira",
+  "source": "Diken",
+  "summary_tr": "Yüksek Hızlı Tren biletlerine zam yapıldı; Ankara-İstanbul hattı 990 TL'ye çıktı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-17T08:01:02.694124+00:00",
+  "type": "news",
+  "cluster_id": "c0d2a31c1228d"
+ },
+ {
+  "title": "Yüksek Hızlı Tren biletlerine dev zam: Fiyatlar 1000 TL'yi aştı",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/yuksek-hizli-tren-biletlerine-dev-zam-fiyatlar-1000-tl-yi-asti-2529690",
+  "source": "Cumhuriyet",
+  "summary_tr": "YHT bilet fiyatlarında ikinci zam; Ankara-İstanbul hattında fiyatlar 1000 TL'yi aştı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-17T08:01:02.694124+00:00",
+  "type": "news",
+  "cluster_id": "cbe5555ec73c6"
+ },
+ {
+  "title": "Bahçeli: Öcalan'ın katkı vermeye devamını mümkün kılacak şartlar oluşturulmalı",
+  "link": "https://www.diken.com.tr/bahceli-ocalanin-katki-vermeye-devamini-mumkun-kilacak-sartlar-olusturulmali/?utm_source=rss&utm_medium=rss&utm_campaign=bahceli-ocalanin-katki-vermeye-devamini-mumkun-kilacak-sartlar-olusturulmali",
+  "source": "Diken",
+  "summary_tr": "MHP Genel Başkanı Bahçeli, Öcalan'ın katkısının devamı için şartlar oluşturulması gerektiğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-17T08:01:02.694124+00:00",
+  "type": "news",
+  "cluster_id": "cf4e5bc0649f2"
+ },
+ {
+  "title": "Ticari Gayrimenkul Fiyat Endeksi ikinci çeyrekte arttı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/ticari-gayrimenkul-fiyat-endeksi-ikinci-ceyrekte-artti/4029167",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ticari Gayrimenkul Fiyat Endeksi 2026 Q2'de %5,5 arttı.",
+  "metric": "Ticari Gayrimenkul Fiyat Endeksi: +%5,5 (Q2 2026)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-17T08:01:02.694124+00:00",
+  "type": "news",
+  "cluster_id": "c1109f742cfae"
+ },
+ {
   "title": "Süreç yasası Meclis'te kabul edildi: Bahçeli'den 'Öcalan' için çağrı geldi",
   "link": "https://www.cumhuriyet.com.tr/siyaset/surec-yasasi-meclis-te-kabul-edildi-bahceli-den-ocalan-icin-cagri-geldi-2529665",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-10T09:01:12.461301+00:00",
   "type": "news",
   "cluster_id": "c7062c044ede1"
- },
- {
-  "title": "Dünyanın en büyük 20 ekonomisi belli oldu: Türkiye kaçıncı sırada?",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/dunyanin-en-buyuk-20-ekonomisi-belli-oldu-turkiye-kacinci-sirada-2519641",
-  "source": "Cumhuriyet",
-  "summary_tr": "IMF'nin nominal GSYİH projeksiyonlarına göre Türkiye'nin dünyanın en büyük 20 ekonomisi arasında sıralaması belli oldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-10T09:01:12.461301+00:00",
-  "type": "news",
-  "cluster_id": "c7ca67fb43146"
- },
- {
-  "title": "ASELSAN'a yaklaşık 1,5 milyar avroluk hava savunma görevi",
-  "link": "https://www.aa.com.tr/tr/bilim-teknoloji/aselsana-yaklasik-1-5-milyar-avroluk-hava-savunma-gorevi/3993997",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ASELSAN, hava savunma sistemleri seri üretim projelerine yaklaşık 1,5 milyar avroluk yeni görev üstlendi.",
-  "metric": "Değer: 1,5 milyar avro",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-10T09:01:12.461301+00:00",
-  "type": "news",
-  "cluster_id": "c9064722a238b"
- },
- {
-  "title": "ASELSAN'a yaklaşık 1,5 milyar euroluk hava savunma görevi",
-  "link": "https://www.trthaber.com/haber/savunma/aselsana-yaklasik-15-milyar-euroluk-hava-savunma-gorevi-950846.html",
-  "source": "TRT Haber",
-  "summary_tr": "ASELSAN, hava savunma sistemleri seri üretim projelerine yaklaşık 1,5 milyar avroluk yeni görev üstlendi.",
-  "metric": "Değer: 1,5 milyar avro",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-10T09:01:12.461301+00:00",
-  "type": "news",
-  "cluster_id": "c9064722a238b"
- },
- {
-  "title": "Bakan Gürlek'ten İstanbul ve Ankara'daki operasyonlara dair açıklama",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/bakan-gurlek-ten-istanbul-ve-ankara-daki-operasyonlara-dair-aciklama-2519645",
-  "source": "Cumhuriyet",
-  "summary_tr": "Bakan Gürlek, İstanbul ve Ankara'da yasa dışı bahis gelirlerinin kripto para üzerinden aklanmasına yönelik soruşturmada 76,3 milyar liralık işlem tespit edildiğini açıkladı.",
-  "metric": "İşlem: 76,3 milyar lira",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-10T09:01:12.461301+00:00",
-  "type": "news",
-  "cluster_id": "c7bba353643cd"
  }
 ]
