@@ -1,5 +1,29 @@
 [
  {
+  "title": "Trump says Iran won't make deal he thinks is needed, threatens to bomb Oman",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ3Rmc3puMlE0OGNHd3RFY2dEM3EzbkdKR3pxal9tVm1lWFliOE9Yc1NlVXN6aEx3SXJCSkVWVENjbjBJMWlXLThJdDE3NzF5aTRMbXJYdDNqRkRtYmlRUVhDcW02My04NWR1MXVianVOdDIwZXdsNGJ5a21walB1UjMxV2YyTGpfMFMzdHNZLW1YRjRaZENWZDE5akdRcFVibWlYcV9aTTM4UQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, İran'ın talep ettiği anlaşmayı kabul etmeyeceğini söyledi ve Umman'ı bombalamakla tehdit etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-17T21:01:04.185575+00:00",
+  "type": "news",
+  "cluster_id": "cc116327262b3"
+ },
+ {
+  "title": "Emniyet Genel Müdürlüğü'nde terfi ve atamalar tamamlandı",
+  "link": "https://www.sozcu.com.tr/egm-terfi-ve-atamalar-17-18-agustos-2026-p350290",
+  "source": "Sözcü",
+  "summary_tr": "Emniyet Genel Müdürü Ali Fidan, 2024'ten bu yana ertelenen teffi ve atamalarını tamamladı. Kadro yetersizliği sorunu giderildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-17T21:01:04.185575+00:00",
+  "type": "news",
+  "cluster_id": "c1176993b32e7"
+ },
+ {
   "title": "Ateş püskürdü! İşte Trump'ın hedefindeki yeni ülke",
   "link": "https://www.sozcu.com.tr/trump-bu-kez-guney-koreyi-hedef-aldi-p350272",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-11T00:01:09.983040+00:00",
   "type": "data",
   "cluster_id": ""
- },
- {
-  "title": "Trump, kendisine suikast düzenlemeleri halinde İran'ın \"hiç görülmemiş seviyede bombalanmasını\" istedi",
-  "link": "https://www.aa.com.tr/tr/dunya/trump-kendisine-suikast-duzenlemeleri-halinde-iranin-hic-gorulmemis-seviyede-bombalanmasini-istedi/3994742",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Başkanı Trump, kendisine yönelik suikast planı durumunda İran'ın \"hiç görülmemiş seviyede bombalanmasını\" istedi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-10T23:01:07.877304+00:00",
-  "type": "news",
-  "cluster_id": "c35147d3f3a19"
- },
- {
-  "title": "ABD, İran'dan Hürmüz Boğazı’nda gemilere saldırmama ve tüm geçişlere açık tutma taahhüdü istiyor",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-irandan-hurmuz-bogazi-nda-gemilere-saldirmama-ve-tum-gecislere-acik-tutma-taahhudu-istiyor/3994741",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD yönetimi, İran'dan Hürmüz Boğazı'ndaki saldırıları durdurup tüm deniz geçiş hatlarını açık tutmasını talep ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-10T23:01:07.877304+00:00",
-  "type": "news",
-  "cluster_id": "c1a055c807c15"
  }
 ]
