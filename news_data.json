@@ -1,5 +1,65 @@
 [
  {
+  "title": "ABD, Uluslararası Ceza Mahkemesi Başkanı Akane'yi ve bir yetkiliyi yaptırım listesine aldı",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-uluslararasi-ceza-mahkemesi-baskani-akaneyi-ve-bir-yetkiliyi-yaptirim-listesine-aldi/4030975",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD, Uluslararası Ceza Mahkemesi Başkanı ve üst düzey bir yetkiliye yaptırım uyguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-18T19:01:07.660250+00:00",
+  "type": "news",
+  "cluster_id": "c26f2a781d31e"
+ },
+ {
+  "title": "US sanctions International Criminal Court president, senior lawyer",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa216Q2JDZGZ2enFuVmRjLXkzbFU5RmdyZkszQnJnVHFkZExkRmI4ZWpOV2FGMVpZV29qNzhtaFhyZmZKYUxMRDRyTlduM3J4ZHF1N0czVlo1dGs2amxDektLMFR5a0VjQ2I3MGNQTHRSWE5Mck9lMnUxNWZiVTJQX2ZPdlJlQmFKYUktOUdHeXRSYlFYSG8xbk80bUxJNVVhS1h5dDNhNm9RV2UyYWJ4QTFXY090SzFOV2VEYmpwRnp0RXZFQ21xTW9sWTJnNmM?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, Uluslararası Ceza Mahkemesi Başkanı ve üst düzey bir yetkiliye yaptırım uyguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-18T19:01:07.660250+00:00",
+  "type": "news",
+  "cluster_id": "c2632d8c554a6"
+ },
+ {
+  "title": "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUFBFaGFVcWFQMUh6YjRZVVpwX2piQ093ZzVJVjJtRmgtaE9RVFhJNG40STQxbDlhSG00cHBNVWNlRnZ5TE9MSmVVQTdJRk5hTDhIVEVCeXRtbmsyQkNCR1FSQm5GVGRNYmcybHN6RFNzbGJGN3hsdUUzWFh1c0NEdXd0X0h4SHdRXzlsRjd4NDZvR1VBc0M3ZDJxdG1TcTBISHBWSHRjcHBRSG90SU44cE5WM011U2g0V1dObWZXaEJSX2tONDQ0?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump İran ile müzakerelerin planlanmadığını söyledi; İran Hürmüz Boğazı'nın kapalı kaldığını belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-18T19:01:07.660250+00:00",
+  "type": "news",
+  "cluster_id": "cd43574637375"
+ },
+ {
+  "title": "Apple, AB'deki uygulamalar için ticari koşullarını değiştiriyor",
+  "link": "https://www.aa.com.tr/tr/bilim-teknoloji/apple-abdeki-uygulamalar-icin-ticari-kosullarini-degistiriyor/4030997",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Apple AB'deki uygulama geliştiricilerine yönelik ticari koşullarını değiştirerek antitröst anlaşmazlıklarını çözme adımı atıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-18T19:01:07.660250+00:00",
+  "type": "news",
+  "cluster_id": "c908a1b3daaaf"
+ },
+ {
+  "title": "Apple changes fees for alternative app stores in EU",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdl9zMEtfWDFoOFY0MXJoU1lMTUlpY3lidGJLNjNWLUxWcDg5aFlMM3JpSWZWS05QN002c3psSC1kc2lhN0xjTFNLYUVsSW9DdnNDMFJKdVJ2bjFJc3A2cVVQS2F1aklMSkFPSWsycmpQWjgtM2djS0JURTVicFZwbVlocUpCQU9uc1lIQzFyQ0x0TFBIc0FzSHJ1a1gxdw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Apple AB'deki alternatif uygulama mağazaları için ücret yapısını değiştiriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-18T19:01:07.660250+00:00",
+  "type": "news",
+  "cluster_id": "cef2a33a5ea83"
+ },
+ {
   "title": "Carney and Trump speak ahead of 50% US tariff deadline",
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa1BlNEtwMVJSSkVvQjRBMWRlanN4VUs0aEFKUjIyWU93N090cHl5MjN6Q0VCMWdvUVhseXI4N3Y2aUdXTy1oeHpQVE5TYjdiLVlOcFdaMWswRGVsZzZ0dG5HamdSeFdMSFc5bTZZVHNwaWp3SXRWT3IydFZnR3NSVm13bnEzbTdxajVkbFpzUUhwc01zQzFwWG8yT3RHZw?oc=5",
   "source": "Reuters",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-12T09:01:15.008074+00:00",
   "type": "news",
   "cluster_id": "c3c6f63eb3794"
- },
- {
-  "title": "BYD anlaşma yaptı: Ülkeye yetecek piller yapacaklar",
-  "link": "https://www.sozcu.com.tr/byd-anlasma-yapti-ulkeye-yetecek-piller-yapacaklar-p335784",
-  "source": "Sözcü",
-  "summary_tr": "Çinli otomotiv devi BYD, Türkiye'de elektrikli araç bataryası ve şebeke ölçekli enerji depolama sistemleri üretimi için anlaşma yaptı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-12T09:01:15.008074+00:00",
-  "type": "news",
-  "cluster_id": "c0930eb42e2e1"
- },
- {
-  "title": "Türkiye'nin kuru kayısı ihracatı yılın ilk yarısında 115 milyon doları aştı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-kuru-kayisi-ihracati-yilin-ilk-yarisinda-115-milyon-dolari-asti/3995547",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye'nin kuru kayısı ihracatı 2026 yılının ilk 6 ayında 115 milyon 248 bin doları aştı.",
-  "metric": "Kuru kayısı ihracatı: 115 milyon 248 bin USD",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-12T09:01:15.008074+00:00",
-  "type": "news",
-  "cluster_id": "cd0c5df68a5e4"
- },
- {
-  "title": "Yılın ilk yarısında satılan gayrimenkul sayısı 1,3 milyona yaklaştı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/yilin-ilk-yarisinda-satilan-gayrimenkul-sayisi-1-3-milyona-yaklasti/3995543",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "2026 yılının ilk yarısında satılan gayrimenkul sayısı 1 milyon 268 bin 950 oldu; 2025'in aynı dönemine kıyasla %10,3 azalış kaydedildi.",
-  "metric": "Gayrimenkul satış sayısı: -1.268.950 (%−10,3)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-12T09:01:15.008074+00:00",
-  "type": "news",
-  "cluster_id": "c3a92add90f1a"
- },
- {
-  "title": "Emtia piyasasında arz ve üretim endişeleriyle sert yükselişler görüldü",
-  "link": "https://www.aa.com.tr/tr/ekonomi/emtia-piyasasinda-arz-ve-uretim-endiseleriyle-sert-yukselisler-goruldu/3995542",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Emtia piyasasında arz endişeleri, hava olayları ve jeopolitik gerilim nedeniyle sert yükselişler görüldü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-12T09:01:15.008074+00:00",
-  "type": "news",
-  "cluster_id": "c6ed10cfa03f2"
- },
- {
-  "title": "Gemi ve yat sektörünün ihracatı 1,5 milyar dolara ulaştı",
-  "link": "https://www.trthaber.com/haber/ekonomi/gemi-ve-yat-sektorunun-ihracati-15-milyar-dolara-ulasti-950991.html",
-  "source": "TRT Haber",
-  "summary_tr": "Gemi, yat ve hizmetleri sektörünün ihracatı yılın ilk yarısında 1,5 milyar dolara ulaştı.",
-  "metric": "Gemi-yat ihracatı: 1,5 milyar USD",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-12T09:01:15.008074+00:00",
-  "type": "news",
-  "cluster_id": "caeb270c138eb"
  }
 ]
