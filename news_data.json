@@ -1,5 +1,77 @@
 [
  {
+  "title": "BİSAM: Sağlıklı beslenmenin maliyeti 37 bin lirayı, insanca yaşamanın bedeli 122 bin lirayı aştı",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWEhpR0tHNW9wQ3UzQmh5d2xvT1c5Z1Q1RzJJQ3VkLWtpTlUyYjIyMnhJTm4wZWdsak5QM1h5MVEyUWhFallTVHViWWZ2OFJBaHhISTZ3Y3ZneG9wWVRXUlB3SXRGcWFDbmVTa1JaMVlSZ1NndXp4NUpiME1LVHh6OWxaYW5WY2xMdW9tT2l6MEpnY2l4VDljSDlDYnctVVFVd002NTJtZ1Z6bFJNdDVvWFNPdkpnaWxEbFVfdw?oc=5",
+  "source": "soL",
+  "summary_tr": "BİSAM raporuna göre sağlıklı beslenmenin maliyeti 37 bin liraya, insanca yaşamanın bedeli 122 bin liraya ulaştı.",
+  "metric": "Sağlıklı beslenme maliyeti 37.000 TL, insanca yaşam maliyeti 122.000 TL",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-18T17:06:05.133458+00:00",
+  "type": "news",
+  "cluster_id": "c56c2937329ca"
+ },
+ {
+  "title": "Görevden uzaklaştırılan Bursa Belediye Başkanı Bozbey CHP'den istifa etti",
+  "link": "https://www.bbc.com/turkce/articles/c862q413jxyo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Görevden uzaklaştırılan Bursa Belediye Başkanı Mustafa Bozbey, CHP üyeliğinden istifa etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-18T17:06:05.133458+00:00",
+  "type": "news",
+  "cluster_id": "c22d4006975c4"
+ },
+ {
+  "title": "YENİ Parti Milletvekili Melih Meriç bıçaklı saldırıda yaralandı",
+  "link": "https://www.diken.com.tr/yeni-parti-milletvekili-melih-meric-bicakli-saldirida-yaralandi/?utm_source=rss&utm_medium=rss&utm_campaign=yeni-parti-milletvekili-melih-meric-bicakli-saldirida-yaralandi",
+  "source": "Diken",
+  "summary_tr": "YENİ Parti Gaziantep Milletvekili Melih Meriç, bıçaklı saldırıya uğradı ve hastaneye kaldırıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-18T17:06:05.133458+00:00",
+  "type": "news",
+  "cluster_id": "c8ee9f2f83432"
+ },
+ {
+  "title": "SON DAKİKA... YENİ Parti milletvekili Melih Meriç'e bıçaklı saldırı! Ameliyata alındı: Görüntüleri ortaya çıktı!",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-yeni-parti-milletvekili-melih-meric-e-bicakli-saldiri-2530222",
+  "source": "Cumhuriyet",
+  "summary_tr": "YENİ Parti Gaziantep Milletvekili Melih Meriç, bıçaklı saldırıya uğradı; ameliyata alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-18T17:06:05.133458+00:00",
+  "type": "news",
+  "cluster_id": "c8ee9f2f83432"
+ },
+ {
+  "title": "Yeni Parti Gaziantep Milletvekili Meriç bıçaklı saldırıda yaralandı",
+  "link": "https://www.trthaber.com/haber/turkiye/yeni-parti-gaziantep-milletvekili-meric-bicakli-saldirida-yaralandi-954291.html",
+  "source": "TRT Haber",
+  "summary_tr": "Yeni Parti Gaziantep Milletvekili Melih Meriç, eski CHP Oğuzeli İlçe Başkanı tarafından bıçaklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-18T17:06:05.133458+00:00",
+  "type": "news",
+  "cluster_id": "c8ee9f2f83432"
+ },
+ {
+  "title": "Son dakika... YENİ Partili vekile bıçaklı saldırı",
+  "link": "https://www.sozcu.com.tr/son-dakika-yeni-partili-vekile-bicakli-saldiri-p350576",
+  "source": "Sözcü",
+  "summary_tr": "YENİ Parti Gaziantep Milletvekili Melih Meriç, bıçaklı saldırıya uğradı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-18T17:06:05.133458+00:00",
+  "type": "news",
+  "cluster_id": "c902a5539eeb7"
+ },
+ {
   "title": "BİSAM açıkladı: 'Açlık sınırı 37 bin TL'yi aştı!'",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/bisam-acikladi-aclik-siniri-37-bin-tl-yi-asti-2530210",
   "source": "Cumhuriyet",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-12T08:01:52.166155+00:00",
   "type": "news",
   "cluster_id": "cd4fcf30c8241"
- },
- {
-  "title": "31 Temmuz'a kadar ödemeyen araç sahiplerinin borcuna faiz eklenecek!",
-  "link": "https://www.sozcu.com.tr/31-temmuz-a-kadar-odemeyen-arac-sahiplerinin-borcuna-faiz-eklenecek-p335772",
-  "source": "Sözcü",
-  "summary_tr": "31 Temmuz'a kadar ödemeyen araç sahiplerinin 2026 Motorlu Taşıtlar Vergisi borcuna faiz eklenecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-12T08:01:52.166155+00:00",
-  "type": "news",
-  "cluster_id": "ce130deebff2a"
- },
- {
-  "title": "CHP’li Yavuzyılmaz: Türkiye 1,47 milyar dolarlık tahkim davasını kaybetti",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWFNFRUdfWnYwVzlfOU5rREJQajlxeVYwdnBCUWNFV0VURzEtYVJoc3Z3c3Q1bDBwWnd4X2h1cjFzNEFIZ0lkS0xNeGMtZ3JhbGVSRWNaSXduUC0xa3NxUTBrUS1yenBFOWl1c2JjaEo0b3lmSjZpMTFHZlpyckJZcVhONmlvY0QwbzZqN2dUb01BX0ZNeXczNE1oYnNRZ0dHR1NwVkFFX0tSWldi?oc=5",
-  "source": "soL",
-  "summary_tr": "CHP'li Yavuzyılmaz, Türkiye'nin 1,47 milyar dolarlık tahkim davasını kaybettiğini açıkladı.",
-  "metric": "Tahkim davası 1,47 milyar dolar",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-12T08:01:52.166155+00:00",
-  "type": "news",
-  "cluster_id": "ca1c99312b408"
- },
- {
-  "title": "İki çay markasında boya tespit edildi",
-  "link": "https://www.diken.com.tr/iki-cay-markasinda-boya-tespit-edildi-3/?utm_source=rss&utm_medium=rss&utm_campaign=iki-cay-markasinda-boya-tespit-edildi-3",
-  "source": "Diken",
-  "summary_tr": "Tarım ve Orman Bakanlığı iki çay markasında kullanımına izin verilmeyen boya tespit etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-12T08:01:52.166155+00:00",
-  "type": "news",
-  "cluster_id": "ce9a69d47cf9e"
- },
- {
-  "title": "CHP'li Bulut, 'Bu utanç Saray'ın' diyerek paylaştı: 'Tek bir kare, ekonominin geldiği noktayı anlatmaya yetiyor...'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-li-bulut-bu-utanc-saray-in-diyerek-paylasti-tek-bir-kare-ekonominin-geldigi-noktayi-anlatmaya-yetiyor-2520088",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'li Bulut, Datça'da 'Kredi Kartına 5 Taksit Sebze Meyve' yazılı pankartı paylaşarak ekonominin kötü durumuna dikkat çekti.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-12T08:01:52.166155+00:00",
-  "type": "news",
-  "cluster_id": "c7a2d3b47e4ab"
- },
- {
-  "title": "Otomotiv Sanayii Derneği, 2026'nın ilk yarısına ilişkin verilerini açıkladı",
-  "link": "https://www.sozcu.com.tr/otomotiv-sanayii-dernegi-2026-nin-ilk-yarisina-iliskin-verilerini-acikladi-p335765",
-  "source": "Sözcü",
-  "summary_tr": "Otomotiv Sanayii Derneği 2026'nın ilk yarısında otomotiv ihracatının ocak-haziran döneminde 462 bin adetinin verilerini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-12T08:01:52.166155+00:00",
-  "type": "news",
-  "cluster_id": "c641624c8d6b7"
- },
- {
-  "title": "ABD, İran'ı vurdu",
-  "link": "https://www.diken.com.tr/abd-irani-vurdu-2/?utm_source=rss&utm_medium=rss&utm_campaign=abd-irani-vurdu-2",
-  "source": "Diken",
-  "summary_tr": "ABD, İran'a düzenlediği saldırıda 140 askeri hedefi vurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-07-12T07:01:13.045068+00:00",
-  "type": "news",
-  "cluster_id": "c39c5e5a35970"
  }
 ]
