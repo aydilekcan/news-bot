@@ -1,5 +1,17 @@
 [
  {
+  "title": "US securities regulator proposes long-awaited crypto rules",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYmhYdjlSV1NyZHFOMF9rbmlCRW80WEoyb0xxblZrMHlTaGtqWUk2OTI4REg2bXFYczVkZVU0MjgwQ1Z0ZDdIQzhWNndnNWMzQWhMUmVZSG8yWm9mQ3NCRkNDR2xMWDVWNkxLYVN1YjBzaW1NZEstenlCeXRwUVI0U2Z3NzlRN1VV?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Menkul Kıymetler Komisyonu uzun beklenen kripto para kurallarını önerdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-18T23:01:15.459026+00:00",
+  "type": "news",
+  "cluster_id": "c4a7a792f307d"
+ },
+ {
   "title": "İsrail: Suriye, Türk birliklerinin konuşlanmasına izin verdi",
   "link": "https://www.diken.com.tr/israil-suriye-turk-birliklerinin-konuslanmasina-izin-verdi/?utm_source=rss&utm_medium=rss&utm_campaign=israil-suriye-turk-birliklerinin-konuslanmasina-izin-verdi",
   "source": "Diken",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-12T12:01:16.181664+00:00",
   "type": "news",
   "cluster_id": "cdd5ca47b28a4"
- },
- {
-  "title": "Emekli maaşında dananın kuyruğu bu hafta Meclis'te kopacak",
-  "link": "https://www.sozcu.com.tr/emekli-maasinda-dananin-kuyrugu-bu-hafta-meclis-te-kopacak-p335828",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye Büyük Millet Meclisi yeni haftada milyonlarca kişiyi ilgilendiren emekli maaşı düzenlemesini masaya yatıracak.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-12T12:01:16.181664+00:00",
-  "type": "news",
-  "cluster_id": "c2bef3b54512c"
  }
 ]
