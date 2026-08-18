@@ -1,5 +1,53 @@
 [
  {
+  "title": "Atom Enerjisi Ajansı: Suriye'de devrik rejimden kalma birkaç ton nükleer madde bulundu",
+  "link": "https://www.diken.com.tr/atom-enerjisi-ajansi-suriyede-devrik-rejimden-kalma-birkac-ton-nukleer-madde-bulundu/?utm_source=rss&utm_medium=rss&utm_campaign=atom-enerjisi-ajansi-suriyede-devrik-rejimden-kalma-birkac-ton-nukleer-madde-bulundu",
+  "source": "Diken",
+  "summary_tr": "Uluslararası Atom Enerjisi Ajansı, Suriye'de devrik Esad rejiminden kalma birkaç ton nükleer maddenin bulunduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-18T15:01:09.691309+00:00",
+  "type": "news",
+  "cluster_id": "cc49951b2ac1d"
+ },
+ {
+  "title": "Suriye'nin Deyrizor ilinde devrik rejimden kalma \"birkaç ton nükleer madde\" bulundu",
+  "link": "https://www.aa.com.tr/tr/dunya/suriyenin-deyrizor-ilinde-devrik-rejimden-kalma-birkac-ton-nukleer-madde-bulundu/4030760",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "UAEA Başkanı Grossi, Suriye'nin Deyrizor ilinde devrik Esad rejiminden kalan birkaç ton nükleer madde bulunduğunu doğruladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-18T15:01:09.691309+00:00",
+  "type": "news",
+  "cluster_id": "cc49951b2ac1d"
+ },
+ {
+  "title": "Suriye'de gizli bir tesiste 'tonlarca nükleer madde bulunduğu' iddia edildi",
+  "link": "https://www.cumhuriyet.com.tr/dunya/suriye-de-gizli-bir-tesiste-tonlarca-nukleer-madde-bulundugu-iddia-edildi-2530198",
+  "source": "Cumhuriyet",
+  "summary_tr": "Suriye yönetimi, Esad döneminden kalan gizli tesiste tonlarca nükleer madde bulunduğunu açıkladı; Uluslararası Atom Enerjisi Ajansı inceleme yapıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-18T15:01:09.691309+00:00",
+  "type": "news",
+  "cluster_id": "cce5c384416bd"
+ },
+ {
+  "title": "Çalışanlarına sürpriz yaptılar: Herkese yarım maaş fazladan verecekler",
+  "link": "https://www.sozcu.com.tr/calisanlarina-surpriz-yaptilar-herkese-yarim-maas-fazladan-verecekler-p350557",
+  "source": "Sözcü",
+  "summary_tr": "ABD petrol şirketi Chevron, güçlü finansal sonuçlar nedeniyle çalışanlarına ek prim verme kararı aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-18T15:01:09.691309+00:00",
+  "type": "news",
+  "cluster_id": "c0ec08776a939"
+ },
+ {
   "title": "Bakanlık yalanladı, peki şimdi ne olacak? Ekonomide kritik dönemeç",
   "link": "https://www.sozcu.com.tr/bakanlik-yalanladi-peki-simdi-ne-olacak-ekonomide-kritik-donemec-p350525",
   "source": "Sözcü",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-12T07:01:13.045068+00:00",
   "type": "news",
   "cluster_id": "c3e6d546bc07b"
- },
- {
-  "title": "ABD Dışişleri Bakanı Rubio'nun Venezuela politikasındaki etkisinin arttığı öne sürüldü",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-disisleri-bakani-rubionun-venezuela-politikasindaki-etkisinin-arttigi-one-suruldu/3995417",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Dışişleri Bakanı Marco Rubio'nun Venezuela politikasındaki etkisinin arttığı öne sürüldü. Maduro'nun 3 Ocak'ta alıkonulmasından sonra Rubio'nun rolü vurgulanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-12T07:01:13.045068+00:00",
-  "type": "news",
-  "cluster_id": "c495c4f16a608"
- },
- {
-  "title": "Türkiyenin F35 hamlesi Yunanistan ve İsraili panikletti: Bu ulusal bir yenilgi",
-  "link": "https://www.trthaber.com/haber/dunya/turkiyenin-f-35-hamlesi-yunanistan-ve-israili-panikletti-bu-ulusal-bir-yenilgi-950979.html",
-  "source": "TRT Haber",
-  "summary_tr": "NATO Zirvesi'nde ABD Başkanı Trump, Türkiye'nin F35 alımına yönelik olumlu mesaj verdi. Yunanistand ve İsrail'de tepki yarattı.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-12T07:01:13.045068+00:00",
-  "type": "news",
-  "cluster_id": "c2e0786d5dec8"
- },
- {
-  "title": "ABD savaş gemisi Mersin Limanı’na demirledi: Yaklaşık iki yıl sonra ilk ziyaret",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTFfQnA1X1FldS15QXhVUkhBdHlmbnRfcDU0bEhIRnNRYlh4b0lPamhabTNiWHJXY3VRZXM4d1Z6R3RoRnFaTXFSRHM5U2VDU0t1ZUx2MlNQVUhickRBWHdQNTNzSGNJZVZQMEtEOU9YQmlyaHJNVEMzWWp4OXFORlN0b2dFR2d4el9qYnRkMEpkSi1qZE90SDVSdGJEUFd5SEtyUkJOdnZ6RTJIQ25xT2dJeEdUdw?oc=5",
-  "source": "soL",
-  "summary_tr": "ABD savaş gemisi yaklaşık iki yıl sonra ilk kez Mersin Limanı'na demirledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-12T07:01:13.045068+00:00",
-  "type": "news",
-  "cluster_id": "cc92a84e2d6dd"
- },
- {
-  "title": "İçişleri Bakanı Çiftçi duyurdu: Polislerin mesai saatlerine düzenleme",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/icisleri-bakani-ciftci-duyurdu-polislerin-mesai-saatlerine-duzenleme-2520078",
-  "source": "Cumhuriyet",
-  "summary_tr": "İçişleri Bakanı Mustafa Çiftçi, polis memurlarının çalışma saatleri konusunda düzenlemeler yapıldığını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-12T07:01:13.045068+00:00",
-  "type": "news",
-  "cluster_id": "c73fe2510a260"
  }
 ]
