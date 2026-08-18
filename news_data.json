@@ -1,5 +1,29 @@
 [
  {
+  "title": "Mustafa Bozbey CHP'den istifa etti",
+  "link": "https://www.diken.com.tr/mustafa-bozbey-chpden-istifa-etti/?utm_source=rss&utm_medium=rss&utm_campaign=mustafa-bozbey-chpden-istifa-etti",
+  "source": "Diken",
+  "summary_tr": "Bursa Büyükşehir Belediye Başkanı Mustafa Bozbey, tutuklu olduğu sırada CHP'den istifa etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-18T13:01:07.597418+00:00",
+  "type": "news",
+  "cluster_id": "c2586c6e9ed07"
+ },
+ {
+  "title": "Bütçede akaryakıt ve ceza makası açıldı: ÖTV kaybının faturası trafik cezalarına yansıdı",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/butcede-akaryakit-ve-ceza-makasi-acildi-otv-kaybinin-faturasi-trafik-cezalarina-yansidi-2530146",
+  "source": "Cumhuriyet",
+  "summary_tr": "Akaryakıt vergisinde tahsilat kaybı yaşanması, trafik cezalarına yansıtıldı. Bütçe sisteminde kaybın telafi edilme yöntemi tartışılıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-18T13:01:07.597418+00:00",
+  "type": "news",
+  "cluster_id": "c6aed3db01da6"
+ },
+ {
   "title": "Dev restoran zincirinde iflas depremi: Son 9 ayda 50 şubesine kilit vurdu!",
   "link": "https://www.sozcu.com.tr/dev-restoran-zincirinde-iflas-depremi-son-9-ayda-50-subesine-kilit-vurdu-p350489",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-12T05:01:43.156509+00:00",
   "type": "news",
   "cluster_id": "c3a9454fbb631"
- },
- {
-  "title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD, Hürmüz Boğazı'nda gemi vurulmasından sonra İran'a saldırı yaptı; Tahran körfez devletlerine misilleme yaptı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-12T05:01:43.156509+00:00",
-  "type": "news",
-  "cluster_id": "ce09719d06223"
- },
- {
-  "title": "Parkta otururken füze yağmaya başladı",
-  "link": "https://www.sozcu.com.tr/parkta-otururken-fuze-yagmaya-basladi-p335707",
-  "source": "Sözcü",
-  "summary_tr": "Rusya-Ukrayna savaşında karşılıklı füze ve dron saldırıları sivilleri hedef alarak yoğunlaştı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-12T05:01:43.156509+00:00",
-  "type": "news",
-  "cluster_id": "c292667fd28bd"
  }
 ]
