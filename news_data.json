@@ -1,5 +1,77 @@
 [
  {
+  "title": "DEM Partili Tayip Temel: 700-800 kişi hariç herkes çıkıyor cezaevinden'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/dem-partili-tayip-temel-700-800-kisi-haric-herkes-cikiyor-cezaevinden-2530073",
+  "source": "Cumhuriyet",
+  "summary_tr": "DEM Partili Tayip Temel, çerçeve yasa ile Selahattin Demirtaş ve Figen Yüksekdağ dahil 700-800 kişi hariç herkesin cezaevinden çıkacağını söyledi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-18T10:01:08.905622+00:00",
+  "type": "news",
+  "cluster_id": "cb9738e5aff65"
+ },
+ {
+  "title": "DEM Partili Temel: Demirtaş ve Yüksekdağ dahil binlerce kişi tahliye olacak",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQVFfRURyQWduaDlzSmRtNmpkZzhZNlBWZGhIOWM4dDJqVWgzX25jS1cwM0hPOFdHcU9iLVZjMl8wRVVaN09uaDJBS3c3UUJCUWNvMVR1bWFwZUNPSHhqOEF1bV9DUFVyNTV5N0ZVWmttajlIOVNMRjJScXRjRDkyRTNlNzk3ZXBKTGxsNTdJbi11NllZOGZKaXdWczdWRTBPSkdzakc0OWVaaUJuNzViSUt3?oc=5",
+  "source": "soL",
+  "summary_tr": "DEM Partili Tayip Temel, Selahattin Demirtaş ve Figen Yüksekdağ dahil binlerce kişinin çerçeve yasa ile tahliye olacağını duyurdu.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-18T10:01:08.905622+00:00",
+  "type": "news",
+  "cluster_id": "c824be8621e4b"
+ },
+ {
+  "title": "Yargıtay'dan yeni kira kararı: O paranın hepsi iade edilmek zorunda",
+  "link": "https://www.sozcu.com.tr/yargitaydan-yeni-kira-karari-o-paranin-hepsi-geri-odenmek-zorunda-p350463",
+  "source": "Sözcü",
+  "summary_tr": "Yargıtay 3. Hukuk Dairesi, ev satıldıktan sonra peşin ödenen kiranın satış tarihinden sonraki kısmının tamamen iade edilmesi gerektiğine karar verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-18T10:01:08.905622+00:00",
+  "type": "news",
+  "cluster_id": "ca937f82fa6da"
+ },
+ {
+  "title": "Yargıtaydan satın alınan evin kira ücretinin ödenmesine ilişkin karar",
+  "link": "https://www.aa.com.tr/tr/gundem/yargitaydan-satin-alinan-evin-kira-ucretinin-odenmesine-iliskin-karar/4030329",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Yargıtay 3. Hukuk Dairesi, kira bedeli peşin alınan evin satışının ardından satış tarihinden sonraki kısma ilişkin kira bedelinin evin yeni sahibine ödenmesi gerektiğine karar verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-18T10:01:08.905622+00:00",
+  "type": "news",
+  "cluster_id": "c1a598eb1c888"
+ },
+ {
+  "title": "Hazine ve Maliye Bakanlığı \"köklü değişiklik\" iddialarını yalanladı",
+  "link": "https://www.trthaber.com/haber/gundem/hazine-ve-maliye-bakanligi-koklu-degisiklik-iddialarini-yalanladi-954261.html",
+  "source": "TRT Haber",
+  "summary_tr": "Hazine ve Maliye Bakanlığı, ekonomi programında köklü değişiklik yapılacağı yönündeki yorumları yalanladı ve programın sürdürüleceğini duyurdu.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-18T10:01:08.905622+00:00",
+  "type": "news",
+  "cluster_id": "c3210512dd86a"
+ },
+ {
+  "title": "Türkiye yapay zeka için düğmeye bastı: 5 milyon kişiye eğitim",
+  "link": "https://www.trthaber.com/haber/bilim-teknoloji/turkiye-yapay-zeka-icin-dugmeye-basti-5-milyon-kisiye-egitim-954256.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye yapay zeka alanında 5 milyon kişiye eğitim vererek veri güvenliğini sağlama, hesaplama altyapısını geliştirme ve kendi AI modellerini üretme hedefini açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-18T10:01:08.905622+00:00",
+  "type": "news",
+  "cluster_id": "c36eb9999ccc4"
+ },
+ {
   "title": "Erdoğan’dan Trump’a “İsrail’i durdurun” ve “savaştan kaçmayız” mesajları",
   "link": "https://yetkinreport.com/2026/08/18/erdogandan-trumpa-israili-durdurun-ve-savastan-kacmayiz-mesajlari/",
   "source": "YetkinReport",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-12T00:01:16.832706+00:00",
   "type": "news",
   "cluster_id": "c9920923bfc6e"
- },
- {
-  "title": "İran, Hürmüz Boğazı'nı ikinci bir duyuruya kadar kapattığını duyurdu",
-  "link": "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazini-ikinci-bir-duyuruya-kadar-kapattigini-duyurdu/3995302",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran Devrim Muhafızları, Hürmüz Boğazı'nı kapatıp ikinci bir duyuruya kadar bu kararı sürdüreceğini duyurdu; bölgede enerji kaynakları ve küresel ticaret riski artıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-11T23:01:05.014319+00:00",
-  "type": "news",
-  "cluster_id": "cd7dbcd243be4"
- },
- {
-  "title": "İran Hürmüz Boğazı'nı kapattı",
-  "link": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazini-kapatti-950970.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Devrim Muhafızları Donanması, Hürmüz Boğazı'nda onaylanmamış rotada ilerlemeye çalışan bir gemiye uyarı ateşi açtı; boğaz kapanması küresel petrol ticaretini tehdit ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-11T23:01:05.014319+00:00",
-  "type": "news",
-  "cluster_id": "c197761c2a194"
- },
- {
-  "title": "Trump and Iran's supreme leader trade threats as the fate of Strait of Hormuz challenges talks",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb29YUXh5MnNRTjVBazdXOUdMSkx5bkU0WHJFVFRGX1pyY0E5cWZfRXc5NnhQVjdOUVFzZTJFNkpBNlZpdUZIVGdoNk5ieU1sVUw1dDMwdkhSYWF4a0pKUk9nYVFMLW5HRFRjOUJTSTBuVEkxLTQ1X2NEZk5FWDMwV2lnRlBhYmhyY2FjQU82S2pnM2RQSEpfTjFwSXBlbk54OGdr?oc=5",
-  "source": "AP",
-  "summary_tr": "Trump ve İran'ın en yüksek lideri Hormuz Boğazı'nın kaderi etrafında tehditler alışverişi yapıyor; görüşmeler başarısız hale gelebilir.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-11T21:01:09.829173+00:00",
-  "type": "news",
-  "cluster_id": "cbabd2fbd637b"
- },
- {
-  "title": "Özel: Bugün ilk kez Ankara'da gizli tanıkla Hüseyin canımıza saldırdılar, hesabını soracağız",
-  "link": "https://www.diken.com.tr/ozel-bugun-ilk-kez-ankarada-gizli-tanikla-huseyin-canimiza-saldirdilar-hesabini-soracagiz/?utm_source=rss&utm_medium=rss&utm_campaign=ozel-bugun-ilk-kez-ankarada-gizli-tanikla-huseyin-canimiza-saldirdilar-hesabini-soracagiz",
-  "source": "Diken",
-  "summary_tr": "CHP'nin seçilmiş Genel Başkanı Özgür Özel, Ankara'da gizli tanık desteğiyle mahkemede yeniden yargılanmaya başlandı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-11T19:01:13.619323+00:00",
-  "type": "news",
-  "cluster_id": "c6aaacac58bf0"
- },
- {
-  "title": "Murat Emir’den Çankaya Belediyesine operasyon tepkisi: ‘Asla eğilmeyeceğiz, bir adım geri atmayacağız’",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/murat-emir-den-cankaya-belediyesine-operasyon-tepkisi-asla-egilmeyecegiz-bir-adim-geri-atmayacagiz-2520008",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Grup Başkanvekili Murat Emir, Çankaya Belediyesine yönelik operasyona tepki göstererek siyasi kumpas olduğunu öne sürdü.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-11T19:01:13.619323+00:00",
-  "type": "news",
-  "cluster_id": "ce66e2a3b9b08"
- },
- {
-  "title": "İranlı komutan, savaş döneminde İHA üretimini üç katına çıkardıklarını açıkladı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/iranli-komutan-savas-doneminde-iha-uretimini-uc-katina-cikardiklarini-acikladi-2520006",
-  "source": "Cumhuriyet",
-  "summary_tr": "İran Savunma Bakan Vekili, savaş döneminde insansız hava aracı üretimini üç katına çıkardıklarını açıkladı.",
-  "metric": "İHA üretimi -> 3 kat artış",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-11T19:01:13.619323+00:00",
-  "type": "news",
-  "cluster_id": "ca7426cc3b713"
  }
 ]
