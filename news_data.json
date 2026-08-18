@@ -1,5 +1,77 @@
 [
  {
+  "title": "Dev restoran zincirinde iflas depremi: Son 9 ayda 50 şubesine kilit vurdu!",
+  "link": "https://www.sozcu.com.tr/dev-restoran-zincirinde-iflas-depremi-son-9-ayda-50-subesine-kilit-vurdu-p350489",
+  "source": "Sözcü",
+  "summary_tr": "ABD'nin büyük İtalyan fastfood zinciri Fazoli's, son 9 ayda 50 şubesini kapattı; FAT Brands borç krizi yaşıyor.",
+  "metric": "Şube kapanması 9 ay içinde 50 adet",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-18T12:01:08.632945+00:00",
+  "type": "news",
+  "cluster_id": "c4b530a77a9c0"
+ },
+ {
+  "title": "Yargıtay'dan emsal karar... Ev sahibi kirayı satın alan kişiye ödeyecek",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/yargitay-dan-emsal-karar-ev-sahibi-kirayi-satin-alan-kisiye-odeyecek-2530120",
+  "source": "Cumhuriyet",
+  "summary_tr": "Yargıtay, kiralanmış evin satın alındıktan sonraki dönemin kira bedelinin yeni malikine verilmesi gerektiğine karar verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-18T12:01:08.632945+00:00",
+  "type": "news",
+  "cluster_id": "c2dcd01e56205"
+ },
+ {
+  "title": "4 ay içinde başvuru yapmayan emekli, ömür boyu daha düşük maaş alacak",
+  "link": "https://www.sozcu.com.tr/4-ay-icinde-basvuru-yapmayan-emekli-omur-boyu-daha-dusuk-maas-alacak-p350493",
+  "source": "Sözcü",
+  "summary_tr": "Emeklilik hakkı kazanan kişilerin 4 ay içinde başvuru yapmaması durumunda ömür boyu daha düşük maaş alması söz konusu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-18T12:01:08.632945+00:00",
+  "type": "news",
+  "cluster_id": "ca5c86f1f9065"
+ },
+ {
+  "title": "As US debt mounts, investors demand higher returns to lend",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ2N3OE9HMThkbnY4eXR1VEk1YVJrS1RweUhhclM5RDBvOU1XT0xFeDlDV0JnT3huQU85V1NBXzRQWFpYalY4X01uaXNUWXhxb1lhU0ZhMlB2QWFLeHNDT25fQ1BuNVNvaDZqWTJBUGJ5ZlNiWnZuaXQ3OW9RYWlLV0ViLVJlOWRPWDBCOTd5ZXBYaXpFTXRHWGRLMHZCXzRqT2dvMXJCT2JBdUk?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD borcu arttıkça, yatırımcılar borç verme karşılığında daha yüksek getiri talep etmeye başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-18T12:01:08.632945+00:00",
+  "type": "news",
+  "cluster_id": "c459925fd1915"
+ },
+ {
+  "title": "Temmuzda kartlı harcamalar 3 trilyon liraya yaklaştı",
+  "link": "https://www.sozcu.com.tr/temmuzda-kartli-harcamalar-3-trilyon-liraya-yaklasti-p350490",
+  "source": "Sözcü",
+  "summary_tr": "Temmuz ayında kartlı ödemeler (kredi kartı, banka kartı, ön ödemeli kart) toplam tutarı 3 trilyon liraya yaklaştı.",
+  "metric": "Kartlı harcamalar (temmuz) geçen yılın aynı dönemine göre artış",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-18T12:01:08.632945+00:00",
+  "type": "news",
+  "cluster_id": "c57141f3156dd"
+ },
+ {
+  "title": "Kartlı ödemelerde rekor kırıldı: Temmuz ayında 3 trilyon liraya dayandı",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMnV2N2FJYS1lQzc1WnVLX1dzbHR1eXA1NDdwcGhnUElMWnVpT2R2SzNhbUhoUnJUWHNSYVJ4SGJEbFhUYm8xYzRsVHhRNTZkR3lJTTJaUU9HM3h4bmtjczJjSnFuUHBFQU9ocHdVWnBST1M5djU0U0w5VVhlQkNmNVFfRFdLVEVUMFZNdVBpWmxZLVppd1N6Zy1maW9kbnp3ekkwLTQ4dDVJWElN?oc=5",
+  "source": "soL",
+  "summary_tr": "Kartlı ödemelerde temmuz ayında rekor kırılarak 3 trilyon liraya ulaşıldı.",
+  "metric": "Kartlı ödeme tutarı temmuzda 3 trilyon liraya ulaştı",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-18T12:01:08.632945+00:00",
+  "type": "news",
+  "cluster_id": "c7ac1b62a010c"
+ },
+ {
   "title": "Ukrayna'dan Moskova'ya yüzlerce İHA ile saldırı",
   "link": "https://www.dw.com/tr/ukrayna-dan-moskova-ya-yüzlerce-iha-ile-saldırı/a-78410938?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-12T05:01:43.156509+00:00",
   "type": "news",
   "cluster_id": "c292667fd28bd"
- },
- {
-  "title": "Trafikte her gün yapılan harekete hapis cezası geliyor",
-  "link": "https://www.sozcu.com.tr/trafikte-her-gun-yapilan-harekete-hapis-geliyor-p335704",
-  "source": "Sözcü",
-  "summary_tr": "Yargıtay, trafikte öndeki aracı taciz eden davranışlara hapis cezası veren emsal karar verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-12T05:01:43.156509+00:00",
-  "type": "news",
-  "cluster_id": "c87b6bccae5d8"
- },
- {
-  "title": "US says it launched strikes against Iran after attack on Cyprus-flagged container ship",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaVlDWEtfWEhnNkZzeE9nRTlmaHlPRUlBQU9MRXZjb0MwM2lIdUUxVkt1V1ZIUDJzeGkzQXRtaEkxc09nQWhUN0VOZnN5NVlpLUF1UGt1UXZ4NmhjdzJ1UjJ1dFdsV081TXNoLWwwNFhjLTNXcVVfTFZET1l4SjVPNHNfMlhrclZhZzZFQ2FReUU0bEtLSHlGVjJLeFczQjRabHpyejB6eng3ajlnRWdHX29IVElRMU1VUFJ5bGJkblFqUjYtZl9fVy1QZDU?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, Kıbrıs bayraklı bir gemi saldırısına karşılık İran'a karşı hava saldırıları düzenledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-12T04:01:07.602199+00:00",
-  "type": "news",
-  "cluster_id": "c55e66941b293"
- },
- {
-  "title": "ABD, Hürmüz Boğazı'nda ticari bir gemiye ateş açan İran'a karşı yeniden saldırı başlattı",
-  "link": "https://www.sozcu.com.tr/abd-hurmuz-bogazi-nda-ticari-bir-gemiye-ates-acan-iran-a-karsi-yeniden-saldiri-baslatti-p335701",
-  "source": "Sözcü",
-  "summary_tr": "ABD, Hürmüz Boğazı'nda İran'a karşı bu hafta üçüncü saldırı turunu başlattı. İran daha önce bölgedeki ticari bir gemiye ateş açmıştı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-12T03:01:11.061384+00:00",
-  "type": "news",
-  "cluster_id": "c0d4fedcdb3a5"
- },
- {
-  "title": "US launches more strikes on Iran after commercial ship struck in Strait of Hormuz",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWNfWDBGeUlZdnVYdk9zTTBTa05FcHZQZ2NTaE14ZU9SUFRKcDgyamdEaUFjVi1ycHRuaEdaV2cwU3FSWjZqb3BzNXBvMmdobFNvejdtRGo0QUk3emV4alhETFNOcWgyQUg0MnFDVF9mSHRuM3R0Zng3ZnNWUDlqajlyWndRaHk2dkdycXVNdFA0S21RYk5YRElCTVBQZjloVEF2bU5ZTEl6bDFabTdCWWVSdw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, Hürmüz Boğazı'nda ticari gemiye ateş açan İran'a karşı üçüncü saldırı turunu başlattı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-12T03:01:11.061384+00:00",
-  "type": "news",
-  "cluster_id": "c41bfafa22d8e"
- },
- {
-  "title": "Erdoğan’ın marketinde işçi kıyımı",
-  "link": "https://www.sozcu.com.tr/erdogan-in-marketinde-isci-kiyimi-p335695",
-  "source": "Sözcü",
-  "summary_tr": "Tarım Kredi Kooperatifi 2025'te 652 çalışanını işten çıkardı.",
-  "metric": "İşçi kıyımı: 652 çalışan",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-12T03:01:11.061384+00:00",
-  "type": "news",
-  "cluster_id": "cfe5574a92ced"
- },
- {
-  "title": "ANK-AR’dan dikkat çeken anket: ‘Seçmen erken seçim istiyor, ekonomiden umutsuz’",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/ank-ar-dan-dikkat-ceken-anket-secmen-erken-secim-istiyor-ekonomiden-umutsuz-2519992",
-  "source": "Cumhuriyet",
-  "summary_tr": "ANK-AR anketine göre seçmen ekonomiden endişeli ve erken seçim istiyor; ekonomi yurttaşın en büyük sorunu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-12T02:01:06.050235+00:00",
-  "type": "news",
-  "cluster_id": "cd7f72412e93f"
  }
 ]
