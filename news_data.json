@@ -1,5 +1,65 @@
 [
  {
+  "title": "Dolar ve euro tarihi zirvede! Tutulamıyor...",
+  "link": "https://www.sozcu.com.tr/dolar-ve-euro-tarihi-zirvede-tutulamiyor-p350342",
+  "source": "Sözcü",
+  "summary_tr": "Dolar ve euro tarihi seviyelere ulaştı; Kapalıçarşı'da fiziki dolar 48 TL seviyesine çıktı.",
+  "metric": "Dolar 48 TL (zirve seviyesi)",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-18T06:01:01.139905+00:00",
+  "type": "news",
+  "cluster_id": "c7d11c9764a5c"
+ },
+ {
+  "title": "İsrail, Suriye'nin askeri havaalanını vurdu",
+  "link": "https://www.diken.com.tr/israil-suriyenin-askeri-havaalanini-vurdu/?utm_source=rss&utm_medium=rss&utm_campaign=israil-suriyenin-askeri-havaalanini-vurdu",
+  "source": "Diken",
+  "summary_tr": "İsrail, Suriye'nin kuzeyindeki İdlib ilinin doğusunda yer alan Ebu Zuhu askeri havaalanını vurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-18T06:01:01.139905+00:00",
+  "type": "news",
+  "cluster_id": "c1a4d3cfc41a1"
+ },
+ {
+  "title": "4 soruda Mekka anlaşmasının bilinmeyenleri: Saldırı olursa, ne olacak?",
+  "link": "https://www.sozcu.com.tr/4-soruda-mekka-anlasmasinin-bilinmeyenleri-saldiri-olursa-ne-olacak-p350350",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye, Suudi Arabistan ve Pakistan tarafından imzalanan Mekke Ortak Savunma Anlaşması, kolektif savunma maddesiyle bölgesel dengeyi değiştiriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-18T06:01:01.139905+00:00",
+  "type": "news",
+  "cluster_id": "cb73acbf19316"
+ },
+ {
+  "title": "Katar'da 'Göksu dönemi' bitti",
+  "link": "https://www.sozcu.com.tr/katar-da-goksu-donemi-bitti-p350338",
+  "source": "Sözcü",
+  "summary_tr": "Cumhurbaşkanı Erdoğan imzasıyla 9 ülkeye büyükelçi ve 10 üniversiteye rektör ataması gerçekleştirildi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-18T06:01:01.139905+00:00",
+  "type": "news",
+  "cluster_id": "c39789201e127"
+ },
+ {
+  "title": "Türkiye Yapay Zeka Eylem Planı'na ilişkin Cumhurbaşkanı Genelgesi Resmi Gazete'de",
+  "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turkiye-yapay-zeka-eylem-planina-iliskin-cumhurbaskani-genelgesi-resmi-gazetede/4030067",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Cumhurbaşkanlığı Genelgesiyle 'Türkiye Yapay Zeka Eylem Planı (2026-2030)' Resmi Gazete'de yayımlandı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-18T06:01:01.139905+00:00",
+  "type": "news",
+  "cluster_id": "c2045f9e9015a"
+ },
+ {
   "title": "Türkiye'nin 84 yıllık holdingi ve akaryakıt devi zorda: Mahkemeden flaş konkordato kararı çıktı",
   "link": "https://www.sozcu.com.tr/turkiye-nin-84-yillik-holdingi-ve-akaryakit-devi-zorda-mahkemeden-flas-konkordato-karari-cikti-p350323",
   "source": "Sözcü",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-11T10:01:10.910733+00:00",
   "type": "news",
   "cluster_id": "c878b74093adb"
- },
- {
-  "title": "Türkiye ile Kanada arasında Serbest Ticaret Anlaşması imzalanacak",
-  "link": "https://www.sozcu.com.tr/turkiye-ile-kanada-arasinda-serbest-ticaret-anlasmasi-imzalanacak-p335581",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye ile Kanada arasında Serbest Ticaret Anlaşması imzalanacak; dış ticaret hacmi 2,7 milyar dolardan önemli ölçüde artacak.",
-  "metric": "Dış ticaret hacmi hedefi 2,7 milyar dolar",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-11T09:01:11.660839+00:00",
-  "type": "news",
-  "cluster_id": "cadfd99a1dd0b"
- },
- {
-  "title": "Kanada ile ticarette yeni iş birliklerinin kapısını STA ile açacak",
-  "link": "https://www.trthaber.com/haber/ekonomi/kanada-ile-ticarette-yeni-is-birliklerinin-kapisini-sta-ile-acacak-950926.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye-Kanada Serbest Ticaret Anlaşması iki ülke liderlerinin değerlendirmesiyle yol aşamasına geldi; ticarette yeni işbirlikleri açacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-11T09:01:11.660839+00:00",
-  "type": "news",
-  "cluster_id": "c7d3f6e254374"
- },
- {
-  "title": "China blocks exports of helium, key for chipmaking, as Iran war squeezes supply",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa2Q2dEh5VWx3d29Qck56WDZFVXFyRTdzOVpBSWVmZU9yU0x5MHNVWjNGU2JuYmptaTFMSWNybVdlYmxKSWlISzJpbGFidTZ3cnA0Q2F0bWNkZHBFNlI1ZldYV2t2NEJUbERKTlpNdG00YlBKTUFjNFpiYXdnU1h5cUwtWVhudlc0ZVVNdnlWWDdRZmZOek82Mk93?oc=5",
-  "source": "AP",
-  "summary_tr": "Çin, çip üretimi için kritik hammadde olan helyum ihracatını durdurdu; İran krizi tedarik krizini derinleştiriyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-11T09:01:11.660839+00:00",
-  "type": "news",
-  "cluster_id": "cb116f437c94f"
- },
- {
-  "title": "Türk somonu ihracatı 6 ayda 200 milyon doları aştı",
-  "link": "https://www.sozcu.com.tr/turk-somonu-ihracati-6-ayda-200-milyon-dolari-asti-p335575",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye, yılın ilk 6 ayında 30 ülkeye Türk somonu ihraç ederek 201,8 milyon dolar gelir elde etti.",
-  "metric": "Türk somonu ihracatı 201,8 milyon dolar",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-11T09:01:11.660839+00:00",
-  "type": "news",
-  "cluster_id": "c6b7c3b827d0b"
- },
- {
-  "title": "İthalatta yeni dönem: Gözetim kapsamı genişledi, PET resin ithalatına ek koruma geldi",
-  "link": "https://www.sozcu.com.tr/ithalatta-yeni-donem-gozetim-kapsami-genisledi-pet-resin-ithalatina-ek-koruma-geldi-p335573",
-  "source": "Sözcü",
-  "summary_tr": "Ticaret Bakanlığı, ithalat düzenlemelerini genişleterek PET resin ithalatına ek koruma getirdi; yerli üretimi destekleme amaçlı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-11T09:01:11.660839+00:00",
-  "type": "news",
-  "cluster_id": "c1345970997d7"
  }
 ]
