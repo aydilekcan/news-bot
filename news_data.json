@@ -1,5 +1,77 @@
 [
  {
+  "title": "İsrail: Suriye, Türk birliklerinin konuşlanmasına izin verdi",
+  "link": "https://www.diken.com.tr/israil-suriye-turk-birliklerinin-konuslanmasina-izin-verdi/?utm_source=rss&utm_medium=rss&utm_campaign=israil-suriye-turk-birliklerinin-konuslanmasina-izin-verdi",
+  "source": "Diken",
+  "summary_tr": "İsrail, Suriye'nin Türk birliklerinin hava üssüne konuşlanmasına izin verdiğini açıkladı; bölgede gerilim artıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-18T22:01:09.408504+00:00",
+  "type": "news",
+  "cluster_id": "cac44851fd34f"
+ },
+ {
+  "title": "BAE’den İran’a büyük darbe: Tüm işlemler askıya alındı",
+  "link": "https://www.sozcu.com.tr/bae-den-iran-a-buyuk-darbe-tum-islemler-askiya-alindi-p350625",
+  "source": "Sözcü",
+  "summary_tr": "BAE, İran'la ticari ve ekonomik işlemleri ikinci başkan kararıyla askıya aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-18T22:01:09.408504+00:00",
+  "type": "news",
+  "cluster_id": "cbfbe30449008"
+ },
+ {
+  "title": "Katil İsrail'den, Trump'ın çağrısına rağmen Gazze'ye saldırıları sürdüreceğiz açıklaması",
+  "link": "https://www.trthaber.com/haber/dunya/katil-israilden-trumpin-cagrisina-ragmen-gazzeye-saldirilari-surdurecegiz-aciklamasi-954302.html",
+  "source": "TRT Haber",
+  "summary_tr": "İsrail Savunma Bakanı, Trump'ın çağrısına rağmen Gazze'ye saldırıları sürdüreceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-18T22:01:09.408504+00:00",
+  "type": "news",
+  "cluster_id": "c16a2d85d8def"
+ },
+ {
+  "title": "US working on deconfliction mechanism among Turkey, Israel and Syria, US envoy says",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVlZuUXBialdJbERhTVMyN3NRUkxUY251V1g4c3RDS0EyUnNEVWhNcGVFTFNETFZRLTJFcUpWaEdwS0NuQ1FTck1mNURabzBNbnMtNV9RRDQzQ1d2RHlHUHFlNWdPUFlselFNSElSVmJ1ZklSUlUyaGdCbVEwMTE3YnlzMG0yUkQyNWJZSHpHVFgwZlhkTHlDaUxNMGlzQ1VVM01WaTRSVDNLZjJJT2Z3WkttVW5RZFM0R3h2M0tDSklkZGhoSkhJ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, Türkiye, İsrail ve Suriye arasında gerilim azaltmak için uzlaşma mekanizması üzerinde çalışıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-18T22:01:09.408504+00:00",
+  "type": "news",
+  "cluster_id": "cc3a5367bfac9"
+ },
+ {
+  "title": "İsrail'den bölgede gerilimini tırmandıran saldırı sonrası açıklama",
+  "link": "https://www.sozcu.com.tr/israil-suriye-ebu-zhur-saldiri-gelismeler-p350615",
+  "source": "Sözcü",
+  "summary_tr": "İsrail, Suriye'de Ebu Zuhur'a hava saldırısı düzenledi; Tel Aviv bölgedeki gerilimi tırmandırmaya devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-18T22:01:09.408504+00:00",
+  "type": "news",
+  "cluster_id": "cd17b21b18d5c"
+ },
+ {
+  "title": "The Moscow region is hit by a drone blitz as Russian missiles kill 10 in a Ukrainian village",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWNZbnhPNkw5SFowb3FVbzZYN2VIbThFU0ZnckM0eHdHSmdwanEwbHM4eGxLN1Z4bnBoeFZhS2dBNGNWTHFZNjBVWTN6ZGRuRm4yZ3VwalBPTFJ3dUhiQnd2TE5BZkhLMW9vd2pWam5DcmdVOUpCR3JObnN1YV9nMUJBcngya1RvQkRVRXRYUjdqLWFaYllkSTFHbDQwUTA?oc=5",
+  "source": "AP",
+  "summary_tr": "Rus füzeleri Ukrayna'da bir köyü vurarak 10 kişiyi öldürürken, Moskova bölgesi drone saldırılarıyla hedef alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-18T22:01:09.408504+00:00",
+  "type": "news",
+  "cluster_id": "cb997f4da09e7"
+ },
+ {
   "title": "İran savaşı sonrası için ABD’nin yeni planı ortaya çıktı",
   "link": "https://www.sozcu.com.tr/iran-savasi-sonrasi-icin-abd-nin-yeni-plani-ortaya-cikti-p350614",
   "source": "Sözcü",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-12T12:01:16.181664+00:00",
   "type": "news",
   "cluster_id": "c2bef3b54512c"
- },
- {
-  "title": "Cumhur İttifakı için alarm zili gibi anket",
-  "link": "https://www.sozcu.com.tr/cumhur-ittifaki-icin-alarm-zili-gibi-anket-p335820",
-  "source": "Sözcü",
-  "summary_tr": "Metropoll'un son anketi Cumhur İttifakı için alarm zili gibi sonuçları ortaya çıkardı ve Cumhurbaşkanı Erdoğan'ı etkiledi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-12T12:01:16.181664+00:00",
-  "type": "news",
-  "cluster_id": "c275469fcf19b"
- },
- {
-  "title": "MetroPOLL anketinde çok konuşulacak MHP ayrıntısı: Yüzde 40'ı, Erdoğan'ı onaylamadı!",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/metropoll-anketinde-cok-konusulacak-mhp-ayrintisi-yuzde-40-i-erdogan-i-onaylamadi-2520128",
-  "source": "Cumhuriyet",
-  "summary_tr": "MetroPOLL anketine göre Erdoğan'ın görev yapış tarzını onaylayanların oranı %44,5'te kaldı; MHP seçmeninin %40'ı Erdoğan'ı onaylamadı.",
-  "metric": "Erdoğan onay oranı %44,5",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-12T11:01:14.316854+00:00",
-  "type": "news",
-  "cluster_id": "c68b1e17e3ea5"
- },
- {
-  "title": "Piyasalarda hareketli hafta: Tarım ve petrol uçtu, altın düştü",
-  "link": "https://www.sozcu.com.tr/piyasalarda-hareketli-hafta-tarim-ve-petrol-uctu-altin-dustu-p335818",
-  "source": "Sözcü",
-  "summary_tr": "Emtia piyasasında tarım ve petrol ürünleri sert yükselirken altın düştü; arz endişeleri ve iklimsel etkiler piyasaları hareketlendirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-12T11:01:14.316854+00:00",
-  "type": "news",
-  "cluster_id": "c79d7abbd68b4"
- },
- {
-  "title": "İthalatta ek gümrük vergisi arttı: Yerli üretici korunacak, bazı ürünlerde fiyatlar yükselebilir",
-  "link": "https://www.sozcu.com.tr/ithalatta-ek-gumruk-vergisi-artti-yerli-uretici-korunacak-bazi-urunlerde-fiyatlar-yukselebilir-p335813",
-  "source": "Sözcü",
-  "summary_tr": "Cumhurbaşkanı Kararı ile ithalat rejiminde ek gümrük vergisi artırılarak yerli üretim korunacak; bazı ürünlerde fiyat artışı öngörülüyor.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-12T11:01:14.316854+00:00",
-  "type": "news",
-  "cluster_id": "cac7800946a4e"
- },
- {
-  "title": "Aşağı Kaleköy Barajı ve Hibrit Enerji Santrali'nde üretim 6 ayda rekora ulaştı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/asagi-kalekoy-baraji-ve-hibrit-enerji-santralinde-uretim-6-ayda-rekora-ulasti/3995590",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Bingöl'deki Aşağı Kaleköy Barajı ve Hibrit Enerji Santrali'nde yılın ilk 6 ayında enerji üretimi rekor seviyeye ulaştı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-12T11:01:14.316854+00:00",
-  "type": "news",
-  "cluster_id": "ca2bf882bebea"
- },
- {
-  "title": "TBMM'de yoğun hafta: Yargı Paketi ve 15 Temmuz programı",
-  "link": "https://www.trthaber.com/haber/gundem/tbmmde-yogun-hafta-yargi-paketi-ve-15-temmuz-programi-951002.html",
-  "source": "TRT Haber",
-  "summary_tr": "TBMM Genel Kurulu 14 Temmuz'da haftalık çalışmalarına başlayacak; gündemin ilk sırasında 12. Yargı Paketi bulunacak.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-12T11:01:14.316854+00:00",
-  "type": "news",
-  "cluster_id": "cf398e672e16a"
  }
 ]
