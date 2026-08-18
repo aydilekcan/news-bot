@@ -1,5 +1,77 @@
 [
  {
+  "title": "BİSAM açıkladı: 'Açlık sınırı 37 bin TL'yi aştı!'",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/bisam-acikladi-aclik-siniri-37-bin-tl-yi-asti-2530210",
+  "source": "Cumhuriyet",
+  "summary_tr": "BİSAM raporuna göre dört kişilik ailenin aylık sağlıklı beslenme maliyeti açlık sınırını aşıp 37 bin TL'yi geçti.",
+  "metric": "Açlık sınırı 37.000+ TL",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-18T16:01:10.716261+00:00",
+  "type": "news",
+  "cluster_id": "c30a9f3bdc8af"
+ },
+ {
+  "title": "Bakan Bolat: 23,5 senede milli geliri dolar bazında 6 kat, ihracatımızı da mal ve hizmetler olarak 8 kat artırdık",
+  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-23-5-senede-milli-geliri-dolar-bazinda-6-kat-ihracatimizi-da-mal-ve-hizmetler-olarak-8-kat-artirdik/4030787",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ticaret Bakanı Bolat, son 23,5 yılda milli geliri dolar bazında 6 kat, ihracatı 8 kat artırdıklarını açıkladı.",
+  "metric": "Milli gelir 6 kat, ihracat 8 kat artış",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-18T16:01:10.716261+00:00",
+  "type": "news",
+  "cluster_id": "cb7c8030d9336"
+ },
+ {
+  "title": "BAE'de hava savunma sistemleri devreye girdi",
+  "link": "https://www.sozcu.com.tr/baede-hava-savunma-sistemleri-devreye-girdi-p350560",
+  "source": "Sözcü",
+  "summary_tr": "BAE'de hava savunma sistemleri ülkeye yönelik bir füze tehdidi tespit etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-18T16:01:10.716261+00:00",
+  "type": "news",
+  "cluster_id": "c6301666b88fb"
+ },
+ {
+  "title": "BAE hava savunma sistemleri füze tehdidi tespit etti",
+  "link": "https://www.trthaber.com/haber/dunya/bae-hava-savunma-sistemleri-fuze-tehdidi-tespit-etti-954285.html",
+  "source": "TRT Haber",
+  "summary_tr": "BAE hava savunma sistemleri ülkeye yönelik bir füze tehdidi tespit etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-18T16:01:10.716261+00:00",
+  "type": "news",
+  "cluster_id": "c6301666b88fb"
+ },
+ {
+  "title": "BAE: Hava savunma sistemlerimiz ülkeye yönelik bir füze tehdidi tespit etti",
+  "link": "https://www.aa.com.tr/tr/dunya/bae-hava-savunma-sistemlerimiz-ulkeye-yonelik-bir-fuze-tehdidi-tespit-etti/4030806",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "BAE hava savunma sistemleri ülkeye yönelik bir füze tehdidi tespit etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-18T16:01:10.716261+00:00",
+  "type": "news",
+  "cluster_id": "ce5bad3bd3411"
+ },
+ {
+  "title": "Klarna trims full-year revenue, volume outlook as German retail weakens",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb1ZMWXRiVFFxZkRoMzdlS3F5aXRTRXB5bndtNHFSaE5LdzlFY1BmVl91Y25FaVNONE1ETzBXYnktRm1sUWotbTZvTkZ0dEFlZ2VJSW5xQ2lTWE1FMFZVU3JsQThWYlBLVm9ISG1GQ2h2S29hRmhXNmMzZWxQWmJmcHRPcmtJeDd1OEVGSlEyVGI3ZEJHeWU2T3dLbWozVDI5N2hPOHhB?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Klarna yıl sonu gelir ve işlem hacmi tahminlerini azalttı, Alman perakende piyasasının zayıflaması nedeniyle.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-18T16:01:10.716261+00:00",
+  "type": "news",
+  "cluster_id": "cd4993c609b03"
+ },
+ {
   "title": "Atom Enerjisi Ajansı: Suriye'de devrik rejimden kalma birkaç ton nükleer madde bulundu",
   "link": "https://www.diken.com.tr/atom-enerjisi-ajansi-suriyede-devrik-rejimden-kalma-birkac-ton-nukleer-madde-bulundu/?utm_source=rss&utm_medium=rss&utm_campaign=atom-enerjisi-ajansi-suriyede-devrik-rejimden-kalma-birkac-ton-nukleer-madde-bulundu",
   "source": "Diken",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-12T07:01:13.045068+00:00",
   "type": "news",
   "cluster_id": "c39c5e5a35970"
- },
- {
-  "title": "Basra Körfezi'nde gerilim zirvede: ABD İran'ı, İran dört Körfez ülkesini vurdu",
-  "link": "https://www.cumhuriyet.com.tr/dunya/basra-korfezi-nde-gerilim-zirvede-abd-iran-i-iran-dort-korfez-ulkesini-vurdu-2520073",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD İran'da 300'den fazla askeri hedefi vurduktan sonra İran, dört Körfez ülkesine İHA ve füze saldırıları düzenlemişti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-07-12T07:01:13.045068+00:00",
-  "type": "news",
-  "cluster_id": "c08282845c982"
- },
- {
-  "title": "Hamaney sonrası İran'da yeni dönem resmen başladı",
-  "link": "https://www.dw.com/tr/hamaney-sonrası-iran-da-yeni-dönem-resmen-başladı/a-77906844?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "İran'da Ayetullah Ali Hamaney'in ölümünün ardından yeni dönem resmen başladı. Hamaney'in oğlu Mücteba yönetimi devraldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-12T07:01:13.045068+00:00",
-  "type": "news",
-  "cluster_id": "cb74191758920"
- },
- {
-  "title": "Ürdün ordusu: İran'dan ateşlenen 3 füze ülke topraklarına düştü",
-  "link": "https://www.sozcu.com.tr/urdun-ordusu-iran-dan-ateslenen-3-fuze-ulke-topraklarina-dustu-p335751",
-  "source": "Sözcü",
-  "summary_tr": "Ürdün, İran'dan ateşlenen 3 füzenin ülke topraklarına düştüğünü, can kaybı ya da yaralanma olmadığını bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-12T07:01:13.045068+00:00",
-  "type": "news",
-  "cluster_id": "c5755e036ae89"
- },
- {
-  "title": "İran Meclis Başkanı Kalibaf: Tek taraflı anlaşmalar dönemi sona erdi",
-  "link": "https://www.trthaber.com/haber/dunya/iran-meclis-baskani-kalibaf-tek-tarafli-anlasmalar-donemi-sona-erdi-950977.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD'nin İrana yönelik saldırıları sonrası 'tek taraflı anlaşmalar döneminin sona erdiğini' söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-12T07:01:13.045068+00:00",
-  "type": "news",
-  "cluster_id": "cc407fdca532e"
- },
- {
-  "title": "CHP'li Çankaya Belediye Başkanı Hüseyin Can Güner gözaltında",
-  "link": "https://www.dw.com/tr/chp-li-çankaya-belediye-başkanı-hüseyin-can-güner-gözaltında/a-77913751?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "CHP'li Çankaya Belediye Başkanı Hüseyin Can Güner rüşvet suçlamasıyla gözaltına alındı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-12T07:01:13.045068+00:00",
-  "type": "news",
-  "cluster_id": "c71bffa72f666"
- },
- {
-  "title": "TBMM'de yoğun hafta... 12. Yargı Paketi'nin görüşmelerine başlanacak: En düşük emekli aylığı ve öğrenci affı Genel Kurul'da",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/tbmm-de-yogun-hafta-12-yargi-paketi-nin-gorusmelerine-baslanacak-en-dusuk-emekli-ayligi-ve-ogrenci-affi-genel-kurul-da-2520074",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM'de bu hafta 12. Yargı Paketi görüşmelerine başlanacak. Paket içinde en düşük emekli aylığı ve öğrenci affı bulunuyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-12T07:01:13.045068+00:00",
-  "type": "news",
-  "cluster_id": "c3e6d546bc07b"
  }
 ]
