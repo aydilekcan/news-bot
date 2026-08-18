@@ -1,5 +1,53 @@
 [
  {
+  "title": "ABDİran geriliminde son durum: Tahran taarruz konumuna geçiyor",
+  "link": "https://www.trthaber.com/haber/dunya/abd-iran-geriliminde-son-durum-tahran-taarruz-konumuna-geciyor-954207.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Başkanı Trump İran ile barış anlaşmasından şüphelerini dile getirirken, İran yönetimi yeni bir askeri tehdide hazırlanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-08-18T04:01:07.872005+00:00",
+  "type": "news",
+  "cluster_id": "cad4928a2be75"
+ },
+ {
+  "title": "Rusya'dan İngiltere'ye İHA tehdidi: Sonuçları olur",
+  "link": "https://www.trthaber.com/haber/dunya/rusyadan-ingiltereye-iha-tehdidi-sonuclari-olur-954208.html",
+  "source": "TRT Haber",
+  "summary_tr": "Rusya, İngiltere'nin sağladığı İHA'ların kendi topraklarındaki hedefleri vurması nedeniyle İngiltere'ye tehdit niteliğinde uyarı yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-18T04:01:07.872005+00:00",
+  "type": "news",
+  "cluster_id": "c6db0c229ca13"
+ },
+ {
+  "title": "Oil prices climb, bond yields rise as US-Iran ceasefire expires",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IRXVLRUlydV9LUjVfX3hOQ0hKc2d0aE5MS0hqLXBrbTg2QXNhcEc2MnlhOU15dkxXSDV4V2hTM2lCR19Gc3BUWUpJYk0za3VXTTFTYTlDdXk3cjhoa19SdFJxcWk3N01rSGkwSmF3MUlMcm9BU09ZMW5QNA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD-İran ateşkes süresinin dolmasıyla petrol fiyatları yükseldi ve tahvil getirileri arttı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-18T04:01:07.872005+00:00",
+  "type": "news",
+  "cluster_id": "c1c123fd2d9ec"
+ },
+ {
+  "title": "Erdogan urges Trump to pursue talks with Iran, offers support",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTVPLW5Mb1Q5eVJPMkVLcjVXVUg0Tmo5NE92SGQyZHFmbkxQeG12LVdjT2ZRMVNVNTc1WTN6VUZaUF8zYVlyTm1JR01PbHo4VHc4ZF95NnZyajlKdzZQSDhyWTR1TEpnNVk2dTZsdVNvUE8yQXhwd01oSTlnNE9zb0h6Ul9NbVUteEtERjVIczBGdGVsMFl0ZWM5ZlY1VnNZc3NUbEhYeTFHUXpLM2daSk93?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, Trump'ı İran ile görüşme yapması için teşvik etti ve destek sundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-18T04:01:07.872005+00:00",
+  "type": "news",
+  "cluster_id": "ca48bba9ec132"
+ },
+ {
   "title": "Bahçeli: Öcalan için şartlar artık oluşturulmalı",
   "link": "https://www.sozcu.com.tr/bahceli-ocalan-icin-sartlar-artik-olusturulmali-p350312",
   "source": "Sözcü",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-11T08:01:15.572743+00:00",
   "type": "news",
   "cluster_id": "cad42cfa43728"
- },
- {
-  "title": "Kredi kartı komisyonu esnafı bıktırdı",
-  "link": "https://www.sozcu.com.tr/kredi-karti-komisyonu-esnafi-biktirdi-p335562",
-  "source": "Sözcü",
-  "summary_tr": "Kredi kartı komisyon oranları tırmanışıyla esnafın finansal yükü artıyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-11T08:01:15.572743+00:00",
-  "type": "news",
-  "cluster_id": "c12202894f235"
- },
- {
-  "title": "Suudi Arabistan Veliaht Prensi Bin Selman ve Trump, deniz ulaşımının güvenliğini görüştü",
-  "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistan-veliaht-prensi-bin-selman-ve-trump-deniz-ulasiminin-guvenligini-gorustu/3994802",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Suudi Arabistan Veliaht Prensi Muhammed bin Selman ve ABD Başkanı Trump, Hürmüz Boğazı güvenliği ve İran müzakereleri görüştü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-11T08:01:15.572743+00:00",
-  "type": "news",
-  "cluster_id": "c5f5e6f16a6aa"
- },
- {
-  "title": "ABD, İran'dan Hürmüz Boğazının tüm geçişlere açık tutulması taahhüdünü istiyor",
-  "link": "https://www.trthaber.com/haber/dunya/abd-irandan-hurmuz-bogazinin-tum-gecislere-acik-tutulmasi-taahhudunu-istiyor-950921.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD, İran'dan Hürmüz Boğazı'ndaki gemilere yönelik saldırıları durdurup boğazı tüm geçişlere açık tutmasını talep ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-11T08:01:15.572743+00:00",
-  "type": "news",
-  "cluster_id": "cccdb951bee85"
- },
- {
-  "title": "CHP'li Çankaya Belediyesi'ne operasyon: 36 gözaltı kararı",
-  "link": "https://www.dw.com/tr/chp-li-çankaya-belediyesi-ne-operasyon-36-gözaltı-kararı/a-77913751?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Ankara Cumhuriyet Başsavcılığı, CHP'li Çankaya Belediye Başkanı Hüseyin Can Güner dahil 36 kişi hakkında rüşvet suçlamasıyla gözaltı kararı verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-11T07:01:13.790068+00:00",
-  "type": "news",
-  "cluster_id": "cd65593151b25"
  }
 ]
