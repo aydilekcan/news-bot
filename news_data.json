@@ -1,5 +1,29 @@
 [
  {
+  "title": "Carney and Trump speak ahead of 50% US tariff deadline",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa1BlNEtwMVJSSkVvQjRBMWRlanN4VUs0aEFKUjIyWU93N090cHl5MjN6Q0VCMWdvUVhseXI4N3Y2aUdXTy1oeHpQVE5TYjdiLVlOcFdaMWswRGVsZzZ0dG5HamdSeFdMSFc5bTZZVHNwaWp3SXRWT3IydFZnR3NSVm13bnEzbTdxajVkbFpzUUhwc01zQzFwWG8yT3RHZw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump ile Carney, ABD'nin %50 gümrük vergisi tehdidi öncesinde görüştü. Ticaret tansiyon yüksek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-18T18:01:06.822896+00:00",
+  "type": "news",
+  "cluster_id": "cfb775c235402"
+ },
+ {
+  "title": "UAE says Iran launched two missiles at it",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVFKQ0k0Vk10ckR0U1JfNHlsLW9nWUtrc09mMUx4UzFzRHJsVk4zYkJQT2NFNHVoVTRyYjE3OTJOcXVtcHFoWGRpQndUTXFnQjFKVGZQM1ZRTkpEeVVPZlF4ZXUydnRUckVmOHU2SEtXU000ZVFhVE8teGhQZFFPbnVFX3dBM1pNa0oxbnFoTmF2bUM3MjFj?oc=5",
+  "source": "Reuters",
+  "summary_tr": "BAE, İran'ın kendisine iki füze fırlattığını bildirdi. Yaklaşan askeri gerginlik işareti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-18T18:01:06.822896+00:00",
+  "type": "news",
+  "cluster_id": "cb51a086d0afe"
+ },
+ {
   "title": "BİSAM: Sağlıklı beslenmenin maliyeti 37 bin lirayı, insanca yaşamanın bedeli 122 bin lirayı aştı",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWEhpR0tHNW9wQ3UzQmh5d2xvT1c5Z1Q1RzJJQ3VkLWtpTlUyYjIyMnhJTm4wZWdsak5QM1h5MVEyUWhFallTVHViWWZ2OFJBaHhISTZ3Y3ZneG9wWVRXUlB3SXRGcWFDbmVTa1JaMVlSZ1NndXp4NUpiME1LVHh6OWxaYW5WY2xMdW9tT2l6MEpnY2l4VDljSDlDYnctVVFVd002NTJtZ1Z6bFJNdDVvWFNPdkpnaWxEbFVfdw?oc=5",
   "source": "soL",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-12T09:01:15.008074+00:00",
   "type": "news",
   "cluster_id": "caeb270c138eb"
- },
- {
-  "title": "Türkiye'den 82 ülkeye otomobil ihraç edildi",
-  "link": "https://www.trthaber.com/haber/ekonomi/turkiyeden-82-ulkeye-otomobil-ihrac-edildi-950990.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye'den yılın ilk yarısında 82 ülkeye 5 milyar 984 milyon dolarlık binek otomobil ihraç edildi; en çok Fransa, İspanya ve İtalya'ya satış yapıldı.",
-  "metric": "Binek otomobil ihracatı: 5 milyar 984 milyon USD",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-12T09:01:15.008074+00:00",
-  "type": "news",
-  "cluster_id": "c778945f4b794"
- },
- {
-  "title": "US says it struck 140 Iranian military targets Saturday",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1VUX0t6UEtnSzZZLVkwYUctMk1IbVZabTZtcGgyOW91RVdLZy1KQmI2SWRydDloNHJxNkJFYVdFTnpmMDV2cGNYamVXZVJISmVkem5XaC0yc09STlFHU2RJX3dXM3owZzJ3U0RLOFRjSXJOR2VqQWJtMG5aZDdmOUgxOHJSZldmWTRvV1MxMWFNZ3hGYlplWWtTUk5Ra2ZNR001dDZSbmY3Nm9YY2c?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, Cumartesi günü 140 İran askeri hedefine saldırı düzenlediğini duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-12T08:01:52.166155+00:00",
-  "type": "news",
-  "cluster_id": "cd4fcf30c8241"
  }
 ]
