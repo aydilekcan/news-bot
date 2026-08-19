@@ -1,5 +1,17 @@
 [
  {
+  "title": "ABD'nin kamu borcu ilk kez 40 trilyon doları aştı",
+  "link": "https://www.cumhuriyet.com.tr/dunya/abd-nin-kamu-borcu-ilk-kez-40-trilyon-dolari-asti-2530646",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD'nin kamu borcu tarihte ilk kez 40 trilyon doları aştı. Yıl başında 38,4 trilyon dolar olan borç önemli ölçüde arttı.",
+  "metric": "ABD kamu borcu 38,4 trilyon -> 40+ trilyon dolar",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-19T22:01:03.204685+00:00",
+  "type": "news",
+  "cluster_id": "c2ad41916b9bc"
+ },
+ {
   "title": "ABD Başkanı Trump: Hürmüz Boğazı'nın eskisi kadar önemli olmayacağını düşünüyorum",
   "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trump-hurmuz-bogazinin-eskisi-kadar-onemli-olmayacagini-dusunuyorum-954402.html",
   "source": "TRT Haber",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-13T12:01:33.166092+00:00",
   "type": "news",
   "cluster_id": "c581eda650b1e"
- },
- {
-  "title": "Children's social media curbs planned across EU, von der Leyen says",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZWhSQXVjSldmQ1RPUFBPaE0wSVA5QmN3M2lxcU0xVU02amh3VWJFaFZnRVJVVzh0aTVrWU4wd1BmdjZtdlVUMkJTNi04WkQ0SXh2OVJ0TnZ1dzNtd1czZDltelJNcE1WSDl1cEVfcUZIVXIzOGlHUXdaRjJzRldhNWVHZGtGSnBCVEdHbHY5UUZtaWN5WXhzZGtMYldtSldWM2cwQ1N6UDl1NXRZM2tycFY1UQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "AB, sosyal medya platformlarında çocuklar için yaş sınırlaması planı yapıyor; Von der Leyen açıklamada bulundu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-13T12:01:33.166092+00:00",
-  "type": "news",
-  "cluster_id": "cadba1ed1586d"
  }
 ]
