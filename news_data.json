@@ -1,5 +1,29 @@
 [
  {
+  "title": "US could cut key tariffs as part of proposed Canada deal, source says",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnRyZExVRkFxVGJqQkpSZk83d1pCbkQ1elJqVURZSjl6TTEyZUZtdURWYWhMRldiTWpiRUFXWW1nSExxeE10cXJWMndsbl9QLXJwVDZqVTllUTNUV2s2M3pJZ3U5WExpbHh4MHpYNGE5OXpMeGU0cFlUVEdwM3IwdmtNbHRYOE5hSFRzWDF6ODBLczdqbDllaTRlamRySDlLREFqNi1UTnJuTk9uZFFmUQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, Kanada anlaşması kapsamında temel gümrük tarifelerini düşürebilir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-19T23:00:59.845326+00:00",
+  "type": "news",
+  "cluster_id": "c49d711952289"
+ },
+ {
+  "title": "US stocks halt their slide after the Treasury Department moves to ease pressure from the bond market",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTGNiQUx0ZWFmZVFMdktJQkpSUDQyZW9DM2tOWUxHYUVZNG1iN3dXNUt0SF9ZMkVNYlRGb2drVl9ESG9EN1VTSWw4Y3Q2TVprR2U4S05CaEE4bktTVWNVTkFBX1V5dVMzSTNGdTc4RmN5UE8yeGlkNTB6c0FCR0haQUtWWXBLOWVmZ2VKeHBvUkJ3ZVNiUVpmWDA4Z2UzXzdfaUFTTmx3?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD Hazine Bakanlığı tahvil piyasasındaki baskıyı hafifletme adımı aldığında borsa düşüşünü durdurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-19T23:00:59.845326+00:00",
+  "type": "news",
+  "cluster_id": "c8a3a73aa89a2"
+ },
+ {
   "title": "ABD'nin kamu borcu ilk kez 40 trilyon doları aştı",
   "link": "https://www.cumhuriyet.com.tr/dunya/abd-nin-kamu-borcu-ilk-kez-40-trilyon-dolari-asti-2530646",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-13T12:01:33.166092+00:00",
   "type": "news",
   "cluster_id": "ce0bf526c974f"
- },
- {
-  "title": "AB, hava yolu yolcularının haklarını güçlendiren düzenlemeyi onayladı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/ab-hava-yolu-yolcularinin-haklarini-guclendiren-duzenlemeyi-onayladi/3996446",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "AB ülkeleri, hava yolu yolcularının gecikme ve iptallerde tazminat haklarını koruyan ve güçlendiren düzenlemeyi onayladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-13T12:01:33.166092+00:00",
-  "type": "news",
-  "cluster_id": "c31b4ccfa946b"
- },
- {
-  "title": "Japonya, Rus casuslarına karşı daha sert önlemler alacak",
-  "link": "https://www.trthaber.com/haber/dunya/japonya-rus-casuslarina-karsi-daha-sert-onlemler-alacak-951082.html",
-  "source": "TRT Haber",
-  "summary_tr": "Japonya hükümeti, Rusya'nın casus faaliyetlerine karşı daha sert önlemler almaya karar verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-13T12:01:33.166092+00:00",
-  "type": "news",
-  "cluster_id": "c581eda650b1e"
  }
 ]
