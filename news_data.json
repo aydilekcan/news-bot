@@ -1,5 +1,65 @@
 [
  {
+  "title": "Fed tutanakları, enflasyonun düşmemesi halinde faiz artışının gündeme gelebileceğini gösterdi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/fed-tutanaklari-enflasyonun-dusmemesi-halinde-faiz-artisinin-gundeme-gelebilecegini-gosterdi/4032157",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Fed tutanakları, enflasyon düşmezse faiz artışının gündeme gelebileceğini gösterdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-19T20:01:06.296962+00:00",
+  "type": "news",
+  "cluster_id": "c04271f4797f4"
+ },
+ {
+  "title": "Trump'tan 'İran' çıkışı: 'Belki bir noktada...'",
+  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-iran-cikisi-belki-bir-noktada-2530624",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD Başkanı Trump, İran ile müzakerelere geri dönme olasılığından söz etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-19T20:01:06.296962+00:00",
+  "type": "news",
+  "cluster_id": "c694f7e790eca"
+ },
+ {
+  "title": "İran Cumhurbaşkanı Pezeşkiyan: Bilgelik, onur ve çıkarları göz önünde bulundurarak müzakere edeceğiz",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-cumhurbaskani-pezeskiyan-bilgelik-onur-ve-cikarlari-goz-onunde-bulundurarak-muzakere-edecegiz/4032178",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Cumhurbaşkanı Pezeşkiyan, ABD ile müzakerenin teslimiyet değil, ülkenin güç zirvesinden yapılacağını belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-19T20:01:06.296962+00:00",
+  "type": "news",
+  "cluster_id": "c0bfd7bdfad0e"
+ },
+ {
+  "title": "Pezeşkiyan: Bilgelik, onur ve çıkarları göz önünde bulundurarak müzakere edeceğiz",
+  "link": "https://www.trthaber.com/haber/dunya/pezeskiyan-bilgelik-onur-ve-cikarlari-goz-onunde-bulundurarak-muzakere-edecegiz-954399.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Cumhurbaşkanı Pezeşkiyan, ABD ile müzakerenin teslimiyet değil, ülkenin güç zirvesinden yapılacağını belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-19T20:01:06.296962+00:00",
+  "type": "news",
+  "cluster_id": "c0bfd7bdfad0e"
+ },
+ {
+  "title": "Canadian negotiators head home to finalize trade deal with US, avert tariffs",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnRyZExVRkFxVGJqQkpSZk83d1pCbkQ1elJqVURZSjl6TTEyZUZtdURWYWhMRldiTWpiRUFXWW1nSExxeE10cXJWMndsbl9QLXJwVDZqVTllUTNUV2s2M3pJZ3U5WExpbHh4MHpYNGE5OXpMeGU0cFlUVEdwM3IwdmtNbHRYOE5hSFRzWDF6ODBLczdqbDllaTRlamRySDlLREFqNi1UTnJuTk9uZFFmUQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Kanada, ABD ile ticaret anlaşmasını sonuçlandırmak için müzakereciler gönderdi ve tarife tehditlerini önlemeyi hedeflıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-19T20:01:06.296962+00:00",
+  "type": "news",
+  "cluster_id": "cd468f5f0fa9b"
+ },
+ {
   "title": "Fed policymakers' inflation concerns increased at July meeting, minutes show",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZUU3QzJ6YTh1c3NuVDhBeE1lZzByYWtla200SkRNWnZEWW5wWmZWXzZvS3RqYU8yM2Y1VE91aHVWMng0MnczWVNjV3poa2t2TnFmYVhMZDVJSE1kdjFGcU9MaW5vS0o0MjEwalJmU0tZekFHclBKRi13SEhnYnQtMlF2TFVIT09HRkw2UThrb1F5eWVVNnNaYXQyTjhYbVhpenc5TjFGdW1yUG55ZWVXaEhSRHc3Wk0?oc=5",
   "source": "Reuters",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-13T11:01:24.387158+00:00",
   "type": "news",
   "cluster_id": "c57d1da973cc2"
- },
- {
-  "title": "EU imports record LNG volumes from Russia's biggest plant",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNFNYaWdWVnhkOWpJTTItbGUtMUtPdTFoUmlndFExemVGOEsySmx2RkdCVzItZjNtS21sZ2EzMHZLd1MzNzVjNXk1bzdqSUx6dXNvWTBhUVpfSGs5QWQ5TnlKZXVwNHVqY3lONnNWMVNPMjR3U0Iwbm1sTVdZM1RjTUlkaFJWSEtUY0VUS3Vab0swczJpQkthMXlWUm5RMzJMZWQ3c0tR?oc=5",
-  "source": "Reuters",
-  "summary_tr": "AB, Rusya'nın en büyük LNG tesisinden rekor hacimde sıvılaştırılmış gaz ithal etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-13T11:01:24.387158+00:00",
-  "type": "news",
-  "cluster_id": "c7709d2a09ad1"
- },
- {
-  "title": "25 kişinin gözaltına alındığı Muhsin Yazıcıoğlu soruşturması hakkında neler biliniyor?",
-  "link": "https://www.bbc.com/turkce/articles/cvge2zwq0e2o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Muhsin Yazıcıoğlu'nun 2009'daki helikopter kazası soruşturmasında 25 kişi gözaltına alındı; aramalarda 20 tabanca ve 2.507 mermi ele geçirildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-13T11:01:24.387158+00:00",
-  "type": "news",
-  "cluster_id": "ca304970e2b66"
- },
- {
-  "title": "10 soruda Haluk Levent ve Ahbap dosyası: İddialar neler?",
-  "link": "https://www.dw.com/tr/10-soruda-haluk-levent-ve-ahbap-dosyası-iddialar-neler/a-77931614?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Haluk Levent ve Ahbap Derneği'ne kapsamlı soruşturma başlatıldı; Levent'in üzerinde 4 cep telefonu bulundu.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-13T11:01:24.387158+00:00",
-  "type": "news",
-  "cluster_id": "ca201ad5f9a0d"
- },
- {
-  "title": "Muhsin Yazıcıoğlu soruşturmasında yeni ayrıntılar: Aramalarda 20 tabanca ve 2 bin 507 mermi ele geçirildi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/muhsin-yazicioglu-sorusturmasinda-yeni-ayrintilar-aramalarda-20-tabanca-ve-2-bin-507-mermi-ele-gecirildi-2520392",
-  "source": "Cumhuriyet",
-  "summary_tr": "Muhsin Yazıcıoğlu kazası soruşturmasında yeni ayrıntılar: aramalarda 20 tabanca ve 2.507 mermi ele geçirildi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-13T11:01:24.387158+00:00",
-  "type": "news",
-  "cluster_id": "c4829d4861888"
- },
- {
-  "title": "Haluk Levent'in Üzerinden 4 cep telefonu çıktı: Şifrelerini polisle paylaşmadı",
-  "link": "https://www.sozcu.com.tr/haluk-levent-in-uzerinden-4-cep-telefonu-cikti-sifrelerini-polisle-paylasmadi-p336093",
-  "source": "Sözcü",
-  "summary_tr": "Ahbap Derneği soruşturmasında gözaltına alınan Haluk Levent'in üzerinde 4 cep telefonu çıktı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-13T11:01:24.387158+00:00",
-  "type": "news",
-  "cluster_id": "ca0c180005264"
  }
 ]
