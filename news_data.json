@@ -1,5 +1,29 @@
 [
  {
+  "title": "Gold firms as Treasury yields ease; Fed minutes in focus",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUdvQUdqT3pXTDBJNFJ5YWdOeUt5RE9RcVpIS2FBSmN4b2gxbXFKRHZHMGg4NDNQRGptQ0NPQjdWNmNrREpibmpQOFg0OFV2Y1A5ZFRLTG8tOEpwdm05NG5wcmFDai1BR0YzU0V1bE1qMDJsRGhhV1UwUU1tQjJWUHB3Tl81MHJXdTdiQQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Hazine getirileri düştükçe altın güçlendi; piyasalar Fed tutanak-protokolünü takip ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-19T05:01:01.652572+00:00",
+  "type": "news",
+  "cluster_id": "c1c04ce85c432"
+ },
+ {
+  "title": "Furkan Vakfı'na operasyon: Alpaslan Kuytul, eşi ve çok sayıda vakıf üyesine gözaltı",
+  "link": "https://www.bbc.com/turkce/articles/cq6dn26n521o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Adana'da Furkan Vakfı Başkanı Alparslan Kuytul, eşi ve vakıf üyeleri operasyonla gözaltına alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-19T05:01:01.652572+00:00",
+  "type": "news",
+  "cluster_id": "cd6c6427f5c83"
+ },
+ {
   "title": "Trump Hürmüz Boğazı'nı Yeni ABD Bölgesi olarak ilan etti",
   "link": "https://www.trthaber.com/haber/dunya/trump-hurmuz-bogazini-yeni-abd-bolgesi-olarak-ilan-etti-954318.html",
   "source": "TRT Haber",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-12T13:03:15.392146+00:00",
   "type": "news",
   "cluster_id": "c9b79b62a8239"
- },
- {
-  "title": "İran'da sanayiye yönelik elektrik kesintisi haftada 2 güne çıkarıldı",
-  "link": "https://www.trthaber.com/haber/dunya/iranda-sanayiye-yonelik-elektrik-kesintisi-haftada-2-gune-cikarildi-951008.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran'da sanayiye yönelik elektrik kesintisi haftada 1 güne çıkarıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-12T13:03:15.392146+00:00",
-  "type": "news",
-  "cluster_id": "c3b606bba3592"
- },
- {
-  "title": "Sürece dair çerçeve yasa Meclis'e geliyor: Kimleri kapsayacak, şartlar neler?",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTTBRMVp4NGJJYlhJS2R5aFdVcTQ1R0VycDFLTFg2NEw3MUNlNko3V2xwZHV5eUhDRGNjdUh4WkpQYVhXYTlGSGlNMGRXLTJ5OHhDVS15ZUJVRFdHRm5tSFl5VkRLSFBzS182VlB6QWJ0MS0yNDVvVXRlMUI0a29QWDR3TzRzX3c5Sm8taVN3UmM3cjlrYVFSLWdXRVF0cC1tS3Q3ck4yNUthdjlzX1VNSA?oc=5",
-  "source": "soL",
-  "summary_tr": "Kapsayıcı bir çerçeve yasa ile ilgili sürece dair yasal çerçeve Meclis'e geliyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-12T13:03:15.392146+00:00",
-  "type": "news",
-  "cluster_id": "c5e2f2bd81ac8"
  }
 ]
