@@ -1,5 +1,77 @@
 [
  {
+  "title": "Ukraine's parliament approves Yevhenii Khmara as new defence minister",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVWJuOFZuMlV0em9ZTURsT21Xemd4cjVidGpoRWFBX2xRTkl2RnRiMGM2Vkh0bWpsWE1ndDV0SVZ0LUF0SlAtTXFFanpPSHRxSlNkWmd4RU1kcDZvZHlMV2ZLNEdtdjdIZ0NZa1Z6azZ3SE0yZXFZWFJra1JPanlScm96aW9hY0ROSGRmaWtVMU5yOEJSRXg5VGVGSHhPSExzR0dBejFzSV93ZjhhdnJYeDRpUEY?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ukrayna parlamentosu Yevhenii Khmara'yı yeni savunma bakanı olarak onayladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-19T13:01:07.343526+00:00",
+  "type": "news",
+  "cluster_id": "c06ed317e7f9d"
+ },
+ {
+  "title": "Yargıtay'dan emekli aylıklarına son nokta: Geciken maaşlar faiziyle geri ödenecek",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/yargitay-dan-emekli-ayliklarina-son-nokta-geciken-maaslar-faiziyle-geri-odenecek-2530520",
+  "source": "Cumhuriyet",
+  "summary_tr": "Yargıtay, geç bağlanan emekli aylıklarına uygulanacak faiz hesabına ilişkin emsal karar aldı; geciken maaşlar faiziyle geri ödenecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-19T13:01:07.343526+00:00",
+  "type": "news",
+  "cluster_id": "cfd296950107e"
+ },
+ {
+  "title": "Trump'ın İran siyasetine seçim öncesi 'petrol' freni",
+  "link": "https://www.trthaber.com/haber/dunya/trumpin-iran-siyasetine-secim-oncesi-petrol-freni-954374.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Başkanı Trump, İran geriliminin küresel petrol fiyatlarını tetiklemesinden endişeli; iç piyasadaki benzin zammı ve enflasyonu seçim öncesi sorunu olarak görüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-19T13:01:07.343526+00:00",
+  "type": "news",
+  "cluster_id": "ca97f0fbc3bcc"
+ },
+ {
+  "title": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdzR1UDJHQ1pYM2Y2dzJ4Wmo3d3VCNFBEbDZQamtaSm5wdF9uWUdwRzdNa0ZtTFdzaUppUkdtelNyaDV0ZnU4aWY1aUlBLWhNdzN2VmhvZzJNdk8zM3gwSXZvc0p6Zld0UHhRQ0RjY2NTekZOekZnMEhwWlo1OXc2Mk1KZ0ZkZHF4WFR5NVRMejB2eDQxdXJJR0VocU5QVmRHbHFTZXlJNWRfdE43Sko3cXlYalB2VmFWSFczb044NlZEU21vOTNHOHpB?oc=5",
+  "source": "Reuters",
+  "summary_tr": "BAE, İran'ın füze tehdidinin ardından İran'a finansal ambargo uyguladı; iki ülke arasındaki rekabet yeniden ön plana çıktı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-19T13:01:07.343526+00:00",
+  "type": "news",
+  "cluster_id": "cbe68313ffe0a"
+ },
+ {
+  "title": "Bakan Bolat: Tekstil ve giyim sektörüne çok önem veriyoruz",
+  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-tekstil-ve-giyim-sektorune-cok-onem-veriyoruz/4031712",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ticaret Bakanı Ömer Bolat, tekstil ve giyim sektörüne çok önem verdiklerini ve bu yıl tekstilde çıkış başladığını belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-19T13:01:07.343526+00:00",
+  "type": "news",
+  "cluster_id": "c071ab38cc1c6"
+ },
+ {
+  "title": "İşsizlik oranı: %7,9 (Nisan-haziran 2025)",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcER4TlU1WWFCQm81RGEzQUliTG41RFUxYVRXYVJ2V1k0VHpvbjRMc3RfRlBFNlhOcEtDUDU1V09mY2ZEQWVSY1dmeE1kTlhjMlJYbV9iSTFoVktzbE4xQ3ZiU3hBVjlfOWJoVThadjY3MDhvYzEtcWk3elhGNGhNR1Y5TGswZWxvdzNqYw?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%7,9 → %7,9",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-19T13:01:07.343526+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Financial Times: İran, Avrupa'daki ABD hedeflerini vurmayı değerlendirdi",
   "link": "https://www.bbc.com/turkce/articles/c0rdl1v0pljo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-13T08:03:30.592711+00:00",
   "type": "news",
   "cluster_id": "c705819c8a964"
- },
- {
-  "title": "TÜFE (aylık): %0,99 (Haziran 2026)",
-  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RWDlPbWFZZHd6LUx5RGVFcTNQektmeFVxVEhzZUlpTFNiNmM0Nm1nbUNJLVFYT1gzTDZLd2VLVHFRNl9iR29QbEh1dTFWNVZGWUE?oc=5",
-  "source": "TUIK",
-  "summary_tr": "%1'in altında → %0,99 (-0,0 puan)",
-  "metric": "-0,0 puan",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-07-13T08:03:30.592711+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "TÜFE (yıllık): %32,11 (Haziran 2026)",
-  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RWDlPbWFZZHd6LUx5RGVFcTNQektmeFVxVEhzZUlpTFNiNmM0Nm1nbUNJLVFYT1gzTDZLd2VLVHFRNl9iR29QbEh1dTFWNVZGWUE?oc=5",
-  "source": "TUIK",
-  "summary_tr": "%32,11 → %32,11",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-07-13T08:03:30.592711+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "Hatimoğulları'ndan dikkat çeken 'çerçeve yasa' çıkışı: AKP 'mutabakat sağlandı' diyor fakat bize ulaşan bir metin yok",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/hatimogullari-ndan-dikkat-ceken-cerceve-yasa-cikisi-akp-mutabakat-saglandi-diyor-fakat-bize-ulasan-bir-metin-yok-2520285",
-  "source": "Cumhuriyet",
-  "summary_tr": "DEM Parti Eş Genel Başkanı Hatimoğulları, iktidarın hazırladığı çerçeve yasa taslağının kendilerine ulaşmadığını belirtti.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-13T07:01:16.111138+00:00",
-  "type": "news",
-  "cluster_id": "c96bd020ea038"
- },
- {
-  "title": "Petrol fiyatlarında savaş etkisi: Brent yeniden 79 doların üzerine çıktı",
-  "link": "https://www.sozcu.com.tr/petrol-fiyatlarinda-savas-etkisi-brent-yeniden-79-dolarin-uzerine-cikti-p335999",
-  "source": "Sözcü",
-  "summary_tr": "ABD'nin İran'a saldırıları ve İran'ın misillemeleri nedeniyle Brent petrol fiyatı 79 doların üzerine çıktı.",
-  "metric": "Brent petrol fiyatı 79 USD üzerine çıktı",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-13T07:01:16.111138+00:00",
-  "type": "news",
-  "cluster_id": "cac3f0db39b26"
- },
- {
-  "title": "Petrol fiyatları, ABD'nin İran'a yönelik saldırıları ve İran'ın misillemeleriyle yaklaşık yüzde 5 arttı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/petrol-fiyatlari-abdnin-irana-yonelik-saldirilari-ve-iranin-misillemeleriyle-yaklasik-yuzde-5-artti/3996092",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Petrol fiyatları, ABD'nin İran'a saldırıları ve İran'ın misillemeleriyle yaklaşık %5 arttı.",
-  "metric": "Petrol fiyatları %5 arttı",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-13T07:01:16.111138+00:00",
-  "type": "news",
-  "cluster_id": "c11d434878428"
- },
- {
-  "title": "Less than a month's supply: Europe's jet fuel stocks are wafer thin as Iran tensions flare",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR1lCYWdoRS1ZVjB4RTR3bHhleGU2aFlLOTdxckNDWXFtMGxQZVdTUklud0N1SXRXaG50LUk3dTBLZl8tV0FVVGg1cHNPZ3ZCOEFQY0FBUkhINUQzMEFDVUNqTzg2a3FsUkJiclZCZjJSbF9vd3AycW5ta1lNZHBObjF0Y1ZMV3UyUzVfR05iMmhLLTl2MmJ1YUhzX2pKZEZtMk14OEtHNVRPVFdYN1BkMDlscUlXRTAycjB1cGJ1Q1NYcTNyYTFr?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran gerilimleriyle gündeme gelen Hürmüz Boğazı kapanma endişesi, Avrupa'nın jet yakıt stokunu aydan az seviyeye düşürdü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-13T07:01:16.111138+00:00",
-  "type": "news",
-  "cluster_id": "cb9616a9fcc2b"
  }
 ]
