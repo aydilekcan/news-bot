@@ -1,5 +1,29 @@
 [
  {
+  "title": "US Treasury to double sizes of some debt buyback operations to at least $4 billion",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVG9LQ251bHQzZlRLUDhWa1JjNTNUUkh3TVN4YUZ3M09OU3d2MVYxUFdjTUdZYVBtQ1dsTEhQb0JpMXJxV1B2QjZwUFdWTVo3YU5VQjlxVGJKdDJUUXE1VFUzNDFDcWhkWE9fM1lCb21XcTRzN3FKQ3hIYW9KSXByWGVUQnB4XzlQbHJtWFl2V2RkV1FOZjhVendlV2djM2ZBRnJoMGVHRS01cTZpR3lvUQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Hazine Bakanlığı, bazı borcunu geri satın alma işlemlerinin boyutunu en az 4 milyar dolara çıkarıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-19T15:01:06.297277+00:00",
+  "type": "news",
+  "cluster_id": "c9ffd2f9c81b8"
+ },
+ {
+  "title": "Yeni Partili Melih Meriç'e bıçaklı saldırı: İki tutuklama",
+  "link": "https://www.dw.com/tr/yeni-partili-melih-meriç-e-bıçaklı-saldırı-iki-tutuklama/a-78419710?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "YENİ Parti Gaziantep Milletvekili Melih Meriç'e bıçaklı saldırı düzenlendi; iki kişi gözaltına alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-19T15:01:06.297277+00:00",
+  "type": "news",
+  "cluster_id": "cd5ecef2ee2de"
+ },
+ {
   "title": "Ali Babacan'a dert yanan yurttaş: 'Ekonomi düzelir, düzelir de psikolojimiz düzelmez'",
   "link": "https://www.cumhuriyet.com.tr/turkiye/ali-babacan-a-dert-yanan-yurttas-ekonomi-duzelir-duzelir-de-psikolojimiz-duzelmez-2530534",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-13T08:03:30.592711+00:00",
   "type": "news",
   "cluster_id": "c577561b0821f"
- },
- {
-  "title": "Muhsin Yazıcıoğlu'nun ölümüne ilişkin soruşturma kapsamında 25 kişi yakalandı",
-  "link": "https://www.aa.com.tr/tr/gundem/muhsin-yazicioglunun-olumune-iliskin-sorusturma-kapsaminda-25-kisi-yakalandi/3996166",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Muhsin Yazıcıoğlu'nun ölümüne ilişkin soruşturma kapsamında 10 ildeki operasyonda 25 kişi yakalandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-13T08:03:30.592711+00:00",
-  "type": "news",
-  "cluster_id": "ceaa660e56141"
- },
- {
-  "title": "Bakan Gürlek açıkladı: Muhsin Yazıcıoğlu soruşturmasında 25 gözaltı",
-  "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-acikladi-muhsin-yazicioglu-sorusturmasinda-25-gozalti-951048.html",
-  "source": "TRT Haber",
-  "summary_tr": "Adalet Bakanı Gürlek, Muhsin Yazıcıoğlu helikopter kazası soruşturmasında 25 gözaltı yapıldığını bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-13T08:03:30.592711+00:00",
-  "type": "news",
-  "cluster_id": "c1c1598b96ed1"
  }
 ]
