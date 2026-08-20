@@ -1,5 +1,65 @@
 [
  {
+  "title": "Ankara’dan İsrail’e iki mesaj: Oyuna gelmeyiz, izin vermeyiz",
+  "link": "https://yetkinreport.com/2026/08/20/ankaradan-israile-iki-mesaj-oyuna-gelmeyiz-izin-vermeyiz/",
+  "source": "YetkinReport",
+  "summary_tr": "Türkiye, İsrail'in Batı Şeria'daki yerleşim projesine karşı diplomatik uyarıda bulundu ve \"oyuna gelmeyeceğini\" açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-20T20:01:01.461542+00:00",
+  "type": "news",
+  "cluster_id": "cdd7c68b0587e"
+ },
+ {
+  "title": "ABD'den 'yaptırım' mesajı: 'Ya bizimlesiniz ya da bize karşısınız'",
+  "link": "https://www.cumhuriyet.com.tr/dunya/abd-de-yaptirim-mesaji-ya-bizimlesiniz-ya-da-bize-karsisiniz-2530897",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD Hazine Bakanı Scott Bessent, İran'a karşı ekonomik yaptırımlar düzenleneceğini açıklamış ve \"ya bizimlesiniz ya da bize karşısınız\" mesajı vermiştir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-20T20:01:01.461542+00:00",
+  "type": "news",
+  "cluster_id": "c7a533598b49e"
+ },
+ {
+  "title": "Iran dismisses US economic threats, and other developments in the Middle East",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZUo2YS1oV3h0ZEw3eTYxSExqYk1RUnpscEFodEZRaXNWeTRXd25BbGxXYlJlVFA3bzdMdVFiQmFzb0dhWnFyRFVjWlo5Rm9mVmhwY3lvUVZ0YmZTMmlkdnd1VUV3UUIwMERCSWNMWkFsVnotdTVOS0tpSHU5QkphbWs0R2VEMDY0T1Nv?oc=5",
+  "source": "AP",
+  "summary_tr": "İran, ABD'nin ekonomik tehditlerine rağmen kararlı tavrını sürdürüyor; Orta Doğu'da tansiyon yüksek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-20T20:01:01.461542+00:00",
+  "type": "news",
+  "cluster_id": "c3297b8050d09"
+ },
+ {
+  "title": "NATO'dan İran'a sert uyarı: Gerekeni yaparız",
+  "link": "https://www.sozcu.com.tr/natodan-irana-sert-uyari-gerekeni-yapariz-p351253",
+  "source": "Sözcü",
+  "summary_tr": "NATO, İran'ın Avrupa'daki ABD üslerine saldırı planladığı iddialarını takiben İran'a sert uyarı verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-20T20:01:01.461542+00:00",
+  "type": "news",
+  "cluster_id": "c95020737974a"
+ },
+ {
+  "title": "ABD Dışişleri Bakanlığı: Gazze'de barış planının tam olarak uygulanmasında kararlıyız",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-disisleri-bakanligi-gazzede-baris-planinin-tam-olarak-uygulanmasinda-kararliyiz/4033287",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Dışişleri Bakanlığı, Gazze'de 21 maddelik barış planının tam uygulanmasında kararlı olduğunu duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-20T20:01:01.461542+00:00",
+  "type": "news",
+  "cluster_id": "c33b2f5f82258"
+ },
+ {
   "title": "Ticaret Bakanı Bolat: Enflasyonla mücadelede yüzde 75-80'lerden yüzde 30'a kadar gerilettik",
   "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-enflasyonla-mucadelede-yuzde-75-80lerden-yuzde-30a-kadar-gerilettik/4033175",
   "source": "Anadolu Ajansı",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-14T06:01:14.183642+00:00",
   "type": "news",
   "cluster_id": "ced6036c50305"
- },
- {
-  "title": "Dünyanın en pahalı iPhone'u Türkiye'de satılıyor",
-  "link": "https://www.sozcu.com.tr/dunyanin-en-pahali-iphone-u-turkiye-de-satiliyor-p336275",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye, Deutsche Bank'ın 69 kenti kapsayan araştırmasında ABD'ye kıyasla dünyanın en pahalı iPhone fiyatlarından birine sahip.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-14T06:01:14.183642+00:00",
-  "type": "news",
-  "cluster_id": "c7703b699f2c9"
- },
- {
-  "title": "Gold recovers from two-week low ahead of US inflation figures",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVWR0RmE4MVpQTF82M1c5VDlkYjBXQU1KRWNNdjQ5N2RrRlpHM1B2dmowSk1WQV9MQUJyYzRiVHl3aVE1dmVHb0RMZG9mOWN6alJmcjdhX0tGSmh3R0FoNXZ0dVM0c1R0QnBnRUl4VVBidWRJdDNUb1QyUkFOWkloU2tVOUs0RnhwbEFZSS1MWlc3aHhIMTkwMmVKV1JaeWk0RF9j?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Altın, ABD enflasyon verilerinin beklenmesiyle iki haftalık düşüşün ardından toparlanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-14T06:01:14.183642+00:00",
-  "type": "news",
-  "cluster_id": "c5d398b4de4b7"
- },
- {
-  "title": "Asian stocks drop as oil rises after Trump's Hormuz levy threat",
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWRaMVFPRFNSMDhQQ1dQT09aWlhsdzdhVGVFcGUzblZreE9kSms3eXc3ZjRlbVhvdUtFRW5IQ3ZSSE42bnhoTGxIaVlwbVVQR0tLUE0yY1N3NTJ2Qko2S01pNHREcW5CbmpweXpORmVRRzdCR0RDcTRjeG9oS2tqR2hIWQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump'ın Hormuz geçişine vergi tehdidi sonrası petrol yükseldi, Asya borsaları düştü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-14T05:01:15.540871+00:00",
-  "type": "news",
-  "cluster_id": "cf2b02356555f"
- },
- {
-  "title": "Nvidia halves Asia AI chip customer list, FT reports",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ042c2NBTzI2SnhBeFZzMC03WndWMmFTRG1KbXI4V2hacnh2SWZUZ29nbkRvcUNVRi1NVEhWd19hSmNNNzh0QzNLVjhZcjFLWXhGdjFhLXIxcDRnUEQ0X0RRaXRVckJRd2Q1bmNpTklSbW5NUnNJUTdNejllLTVpTzF2QkI5V1YwUHVCWVgyREVXZG1QVS1fYWNGRVFweUlVQlpJSVhWNDF6WDd2TGc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Nvidia, Asya'daki yapay zeka çip müşterilerinin listesini yarıya indirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-14T05:01:15.540871+00:00",
-  "type": "news",
-  "cluster_id": "c4acc51cb7090"
- },
- {
-  "title": "China's June trade tops forecasts buoyed by AI boom",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRGpqNHVtR2tXdDB5RnBUeHF0U2oyRDRMNnduQVM0eHBWOTVxalVjSGdOMXlFZGxNRUc2dW9fcUttclVoVTdKbk5rRUlVOEdqWHFQRzd5WllrZGI2dnhOVEJXRDU1eFhSVlAtZDk2UEFCRExBdEQxMEdhTENzdzVRVWpaVUhJU2l2RU1KT0xobmNyeGtPcEY1S3Exb3doaG8?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Çin'in haziran ticareti yapay zeka patlaması ile tahminleri aştı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-14T05:01:15.540871+00:00",
-  "type": "news",
-  "cluster_id": "cfda5b77f8fc2"
  }
 ]
