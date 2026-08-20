@@ -1,5 +1,29 @@
 [
  {
+  "title": "ABD Başkanı Trump, İran'a yönelik eşi benzeri görülmemiş \"ekonomik operasyon\" ilan etti",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-irana-yonelik-esi-benzeri-gorulmemis-ekonomik-operasyon-ilan-etti/4032267",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, İran'a karşı eşi benzeri görülmemiş boyutta bir ekonomik operasyon ilan etti.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-08-20T00:01:02.548793+00:00",
+  "type": "news",
+  "cluster_id": "c953f0e1ee870"
+ },
+ {
+  "title": "ABD Başkanı Trump'tan İran'a ekonomik savaş ilanı",
+  "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trumptan-irana-ekonomik-savas-ilani-954411.html",
+  "source": "TRT Haber",
+  "summary_tr": "Trump, İran'a karşı başlatılan ekonomik savaşı duyurdu; tarihte bir ülkeye karşı yürütülen en geniş kapsamlı operasyon olduğunu belirtti.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-08-20T00:01:02.548793+00:00",
+  "type": "news",
+  "cluster_id": "c5ccdde929f74"
+ },
+ {
   "title": "US could cut key tariffs as part of proposed Canada deal, source says",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnRyZExVRkFxVGJqQkpSZk83d1pCbkQ1elJqVURZSjl6TTEyZUZtdURWYWhMRldiTWpiRUFXWW1nSExxeE10cXJWMndsbl9QLXJwVDZqVTllUTNUV2s2M3pJZ3U5WExpbHh4MHpYNGE5OXpMeGU0cFlUVEdwM3IwdmtNbHRYOE5hSFRzWDF6ODBLczdqbDllaTRlamRySDlLREFqNi1UTnJuTk9uZFFmUQ?oc=5",
   "source": "Reuters",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-13T12:01:33.166092+00:00",
   "type": "news",
   "cluster_id": "c415f7c1eb95e"
- },
- {
-  "title": "AB'den Fransa'nın 63 milyar avroluk deniz üstü rüzgar enerjisi destek planına onay",
-  "link": "https://www.aa.com.tr/tr/ekonomi/abden-fransanin-63-milyar-avroluk-deniz-ustu-ruzgar-enerjisi-destek-planina-onay/3996445",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "AB, Fransa'nın deniz üstü rüzgar enerji projelerine 63 milyar avroluk kamu desteği sağlamasına onay verdi.",
-  "metric": "63 milyar avro destek",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-13T12:01:33.166092+00:00",
-  "type": "news",
-  "cluster_id": "ccf04a59c9c2f"
- },
- {
-  "title": "Sudan, HDK'nin Faşir'deki hapishanelerinde 6 bin kişinin alıkonulduğunu açıkladı",
-  "link": "https://www.aa.com.tr/tr/dunya/sudan-hdknin-fasirdeki-hapishanelerinde-6-bin-kisinin-alikonuldugunu-acikladi/3996407",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Sudan Ulusal İnsan Hakları Komisyonu, Hızlı Destek Kuvvetlerinin Faşir'deki hapishanelerinde 6 bin kişiyi alıkonulduğunu açıkladı.",
-  "metric": "6.000 kişi alıkonulu",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-13T12:01:33.166092+00:00",
-  "type": "news",
-  "cluster_id": "ce0bf526c974f"
  }
 ]
