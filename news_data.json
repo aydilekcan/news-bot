@@ -1,5 +1,53 @@
 [
  {
+  "title": "Türkiye'nin dış borç stoku 539 milyar dolar",
+  "link": "https://www.diken.com.tr/turkiyenin-dis-borc-stoku-539-milyar-dolar/?utm_source=rss&utm_medium=rss&utm_campaign=turkiyenin-dis-borc-stoku-539-milyar-dolar",
+  "source": "Diken",
+  "summary_tr": "Türkiye'nin dış borç stoku 2026 yılının ikinci çeyreğinde 539 milyar dolara ulaştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-20T10:01:10.874362+00:00",
+  "type": "news",
+  "cluster_id": "cbc04fa30ecf2"
+ },
+ {
+  "title": "300 milyar dolar borç: Evergrande patronuna ömür boyu hapis",
+  "link": "https://www.diken.com.tr/300-milyar-dolar-borc-evergrande-patronuna-omur-boyu-hapis/?utm_source=rss&utm_medium=rss&utm_campaign=300-milyar-dolar-borc-evergrande-patronuna-omur-boyu-hapis",
+  "source": "Diken",
+  "summary_tr": "Çin'in Evergrande gayrimenkul şirketi tasfiyeye karar verildi; şirket yöneticisine ömür boyu hapis cezası verildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-20T10:01:10.874362+00:00",
+  "type": "news",
+  "cluster_id": "cb55b966613f3"
+ },
+ {
+  "title": "İstanbul'da özel yurt ücretleri rekora koşuyor: Fiyatlar ilçe ilçe belli oldu",
+  "link": "https://www.sozcu.com.tr/istanbul-da-ozel-yurt-ucretleri-rekora-kosuyor-fiyatlar-ilce-ilce-belli-oldu-p351095",
+  "source": "Sözcü",
+  "summary_tr": "İstanbul'da üniversite öğrencileri için özel yurt ücretleri rekor seviyelere ulaştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-20T10:01:10.874362+00:00",
+  "type": "news",
+  "cluster_id": "c2ab3c7d3ad5c"
+ },
+ {
+  "title": "Şimşek'ten mazot açıklaması: Küresel şokun etkisini sınırlıyoruz",
+  "link": "https://www.trthaber.com/haber/ekonomi/simsekten-mazot-aciklamasi-kuresel-sokun-etkisini-sinirliyoruz-954453.html",
+  "source": "TRT Haber",
+  "summary_tr": "Hazine Bakanı Şimşek, mazot vergisinde alınan kararla küresel petrol fiyat şoklarının vatandaşlara yansımasını sınırladıklarını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-20T10:01:10.874362+00:00",
+  "type": "news",
+  "cluster_id": "cdf57cca23266"
+ },
+ {
   "title": "Rusya Kiev'i vurdu: 12 ölü",
   "link": "https://www.diken.com.tr/rusya-kievi-vurdu-12-olu/?utm_source=rss&utm_medium=rss&utm_campaign=rusya-kievi-vurdu-12-olu",
   "source": "Diken",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-13T19:01:28.167606+00:00",
   "type": "news",
   "cluster_id": "c3bc46665ed03"
- },
- {
-  "title": "Dışişleri Bakanı Fidan, Ukrayna konulu Gönüllüler Koalisyonu Liderler Zirvesi'ne katıldı",
-  "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-ukrayna-konulu-gonulluler-koalisyonu-liderler-zirvesine-katildi/3996920",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Dışişleri Bakanı Hakan Fidan, Paris'te düzenlenen Ukrayna konulu Gönüllüler Koalisyonu Liderler Zirvesi'ne katıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-13T19:01:28.167606+00:00",
-  "type": "news",
-  "cluster_id": "cc12235977a6b"
- },
- {
-  "title": "Trump'tan Hürmüz Boğazı çıkışı: Gemilerden ücret alacağız",
-  "link": "https://www.dw.com/tr/trump-tan-hürmüz-boğazı-çıkışı-gemilerden-ücret-alacağız/a-77941469?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Trump, Hürmüz Boğazı'ndan geçen gemilerden ücret almayı yeniden uygulamaya koyduğunu açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-13T18:01:28.273749+00:00",
-  "type": "news",
-  "cluster_id": "c5e39165f5339"
- },
- {
-  "title": "ABD-İran gerilimi tırmandı, petrol fırladı",
-  "link": "https://www.sozcu.com.tr/abd-iran-gerilimi-tirmandi-petrol-firladi-p336203",
-  "source": "Sözcü",
-  "summary_tr": "ABD-İran geriliminin etkisiyle Brent petrol fiyatı yükseldi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-13T18:01:28.273749+00:00",
-  "type": "news",
-  "cluster_id": "c79a945cdc79c"
- },
- {
-  "title": "Husiler saldırdı: Çatışmalar Suudi Arabistan'a sıçradı",
-  "link": "https://www.sozcu.com.tr/catismalar-suudi-arabistan-a-sicradi-p336202",
-  "source": "Sözcü",
-  "summary_tr": "İran destekli Husiler Suudi Arabistan'a saldırı düzenledi; çatışmalar tırmandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-13T18:01:28.273749+00:00",
-  "type": "news",
-  "cluster_id": "c1afc22e4aec4"
  }
 ]
