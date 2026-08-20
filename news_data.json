@@ -1,5 +1,17 @@
 [
  {
+  "title": "Ticaret Bakanı Bolat: Enflasyonla mücadelede yüzde 75-80'lerden yüzde 30'a kadar gerilettik",
+  "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-enflasyonla-mucadelede-yuzde-75-80lerden-yuzde-30a-kadar-gerilettik/4033175",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ticaret Bakanı Bolat enflasyonla mücadelede yüzde 75-80'lerden yüzde 30'a gerilettiklerini açıkladı.",
+  "metric": "Enflasyon %75-80 -> %30",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-20T19:01:01.165490+00:00",
+  "type": "news",
+  "cluster_id": "c1e68b71f5346"
+ },
+ {
   "title": "İran: ABD'nin yeni yaptırımları insanlık suçu",
   "link": "https://www.diken.com.tr/iran-abdnin-yeni-yaptirimlari-insanlik-sucu/?utm_source=rss&utm_medium=rss&utm_campaign=iran-abdnin-yeni-yaptirimlari-insanlik-sucu",
   "source": "Diken",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-14T05:01:15.540871+00:00",
   "type": "news",
   "cluster_id": "cfda5b77f8fc2"
- },
- {
-  "title": "Alman ekonomistler altın fiyatlarında ne bekliyor?",
-  "link": "https://www.dw.com/tr/alman-ekonomistler-altın-fiyatlarında-ne-bekliyor/a-77937834?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Alman ekonomistler altın fiyatlarında yükseliş eğilimi bekliyor. Merkez bankaları altın alımlarını artırıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-14T05:01:15.540871+00:00",
-  "type": "news",
-  "cluster_id": "c92ab88771c9b"
  }
 ]
