@@ -1,5 +1,17 @@
 [
  {
+  "title": "ABD Hazine Bakanı: Yaptırımlar İran ekonomisini \"ezip geçecek\" ve hükümeti \"çökertecek\"",
+  "link": "https://www.bbc.com/turkce/articles/cwymr2k11k3o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD Hazine Bakanı Scott Bessent, İran ekonomisini 'çökertme' çabalarına müttefiklerden destek istedi ve yaptırımların ekonomiyi 'ezip geçeceğini' söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-20T23:01:05.917558+00:00",
+  "type": "news",
+  "cluster_id": "c761d5c34d3c8"
+ },
+ {
   "title": "Cumhurbaşkanı Yardımcısı Yılmaz'dan 'yastık altı' vurgusu: 'Keşke bunlar daha fazla sisteme girse'",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/cumhurbaskani-yardimcisi-yilmaz-dan-yastik-alti-vurgusu-keske-bunlar-daha-fazla-sisteme-girse-2530941",
   "source": "Cumhuriyet",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-14T07:01:19.287119+00:00",
   "type": "news",
   "cluster_id": "c3edcd1172e6d"
- },
- {
-  "title": "Küresel piyasalarda 'Hürmüz' gerilimi",
-  "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-hurmuz-gerilimi-951139.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD-İran gerilimi petrol fiyatlarını yükselterek küresel piyasaları olumsuz etkilemeye devam ediyor. Tahvil piyasasında satış baskısı artış gösteriyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-14T07:01:19.287119+00:00",
-  "type": "news",
-  "cluster_id": "cbfbb2c2e2e5c"
  }
 ]
