@@ -1,5 +1,53 @@
 [
  {
+  "title": "Russian ballistic missiles kill at least five in Ukraine's Kyiv, spark fires",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ2hpTTJYeTlzS2hqZHBTdkg1TjhTUklENW93WjNKNjgzZlJsaGxHTW1wTlliVEttM0lndVdGeGRBUHpHaWR4Q3JrTTJ3dThqMzl0VlJxUWZTMXdFS2R2QzlhdTRkaTFVNEoyTzFVZnptUlVqemxCUFJyS1lyVjZqNW1EOERzU3c3dW1rdmwxbjl6RGJMVmVtN1lmbHVscWNkMlVTWVhHeDd0MThsYzV3QnNCaURqb2c5b0E?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rus balistik füzeleri Kyiv'de en az 5 kişiyi öldürdü ve yangınlara neden oldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-20T05:01:04.639031+00:00",
+  "type": "news",
+  "cluster_id": "c81ab80a21aa7"
+ },
+ {
+  "title": "Kuraklık Almanya ve Avrupa'da enflasyonu körüklüyor",
+  "link": "https://www.dw.com/tr/kuraklık-almanya-ve-avrupa-da-enflasyonu-körüklüyor/a-78417689?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Avrupa'daki kuraklık ve aşırı sıcak nedeniyle gıda ve taşıma maliyetleri artıyor, enflasyonu körüklüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-20T05:01:04.639031+00:00",
+  "type": "news",
+  "cluster_id": "cada2b437ec72"
+ },
+ {
+  "title": "Kansu Yıldırım: 'Sağlık Yoksulluğu' vardır",
+  "link": "https://www.diken.com.tr/kansu-yildirim-saglik-yoksullugu-vardir/?utm_source=rss&utm_medium=rss&utm_campaign=kansu-yildirim-saglik-yoksullugu-vardir",
+  "source": "Diken",
+  "summary_tr": "2024 yılı verilerine göre halkın sağlık harcamaları cebinden yapılan ödemelerdeki yükseklik tespiti yapılıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-20T05:01:04.639031+00:00",
+  "type": "news",
+  "cluster_id": "c3a7a6f186d91"
+ },
+ {
+  "title": "Gold retreats after scaling over 2-month peak on US Treasury move",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRzBOVjZ6ZU0xLWotdnpUeHVrVnN5ZFlGWEExLVF6RUgtY0RMQjdTZUNDbWRvRGNCY0gwUE9ubFJiM1dNVzVfVE12SV80ZlRSYTZqamdFMGhubUJBeFFNbkZHTml3WjFvRGVOVER3dXdYNUZnSDRKS3UxU2dTMnp3MG9qYUVKU0ZNY2ZiVUw1c0NJREpibDFhbWlORQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Altın ABD Hazine hareketinin ardından 2 ayın zirvesinden gerileyişe geçti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-20T05:01:04.639031+00:00",
+  "type": "news",
+  "cluster_id": "c63e24b6d0883"
+ },
+ {
   "title": "Trump'tan, İran'a yardım eden ülkelere 'ekonomi' tehdidi",
   "link": "https://www.bbc.com/turkce/articles/cwymr2k11k3o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-13T13:01:25.528471+00:00",
   "type": "news",
   "cluster_id": "caecd380fa866"
- },
- {
-  "title": "After 80 years, Czech tractor maker to move production to Asia because of costs",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTUl6NGdnUXVrVTFsOVpNaERPQjQxTXR5M0RSSkIwTkl3U3c0SkZsY1dibEpkbU85MWh2cVdwS0xYVmxvWURLY2FNM1RYejVQa2M1UWpCT2dTZUdjZW9tNXRSakNlME1qOFRzeVFHTk9BSnh6cXVYMW85a0dIOXdqc2I5U0pRd1lmT1FYQ2tlb3BBdEliNURuS2pCMk1CYjRzbkdvYTd6dTZxVTBlcUVFVnZtd2NfeXNud3JRYzJvckpTZw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Çek tarım aletleri üreticisi, 80 yıllık Avrupa üretiminin ardından maliyetler nedeniyle üretimini Asya'ya taşıyacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-13T13:01:25.528471+00:00",
-  "type": "news",
-  "cluster_id": "c91c1ea62c5b3"
- },
- {
-  "title": "Meta expands Louisiana data center to 5 gigawatts, investment crosses $50 billion",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQnJpUGtNQXFzaExPZlhub1lVWlM1S01ya3VLVlo1dUlFMzZBcWF5Mm1KdXhPdmg0b0NJMVlseTNlMGRsWksxUnQ4UXFmQWpySGhOWEpiaGk5bHhsSFZ5X1VtRXVCQ0dLTG9FWGNlVDhKT1Z6c1F4TnRKaVNVVGw5dmxLOFdRTm5KdWc4VUM3dGR1LV8yanp2eDlRR2ZHU19ZMDJfcmxzN2RkZHlW?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Meta, Luiziana'daki veri merkezini 5 gigavata çıkardı; toplam yatırımı 50 milyar doları aştı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-13T13:01:25.528471+00:00",
-  "type": "news",
-  "cluster_id": "c97145c7c3367"
- },
- {
-  "title": "Türkiye'ye doğrudan yatırımda yüzde 15'lik düşüş",
-  "link": "https://www.sozcu.com.tr/turkiye-ye-dogrudan-yatirimda-yuzde-15-lik-dusus-p336107",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye'ye uluslararası doğrudan yatırım girişi 2026 yılının ilk yarısında geçen yılın aynı dönemine kıyasla yüzde 15 düştü.",
-  "metric": "Doğrudan yatırım -15%",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-13T12:01:33.166092+00:00",
-  "type": "news",
-  "cluster_id": "c55f6aa087abf"
- },
- {
-  "title": "Oil prices jump and world shares are mixed as US and Iran carry out airstrikes",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcHZ0YWpGZjBZakNRRmRveklzX1hRUklIWUc2MzVoWE51Z1Bjc0JFU05vd2tGVWhaSVVVSmFvbHU3QWJZcEs0R2dkRjFxcG9WaGMtWFo2SmhqTTVjSDNFVFk5Zl8xcmdiaTFHUmM5cWU0RzNDeDU2TGM4RWJJMjg3Y2lYeEJBWkdqeXFWUjg0eWpNZw?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD ve İran hava saldırıları gerçekleştirirken petrol fiyatları yükseldi ve dünya borsaları karışık seyretti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-13T12:01:33.166092+00:00",
-  "type": "news",
-  "cluster_id": "cc276bb5c25e2"
  }
 ]
