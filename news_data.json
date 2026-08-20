@@ -1,5 +1,53 @@
 [
  {
+  "title": "Cumhurbaşkanı Yardımcısı Yılmaz'dan 'yastık altı' vurgusu: 'Keşke bunlar daha fazla sisteme girse'",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/cumhurbaskani-yardimcisi-yilmaz-dan-yastik-alti-vurgusu-keske-bunlar-daha-fazla-sisteme-girse-2530941",
+  "source": "Cumhuriyet",
+  "summary_tr": "Cumhurbaşkanı Yardımcısı Yılmaz, Merkez Bankası rezervinin 178,4 milyar dolar olduğunu ancak vatandaşın yastık altındaki altınlardan daha fazla sisteme girmesini istediğini belirtti.",
+  "metric": "Merkez Bankası rezervi 178,4 milyar dolar",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-20T22:01:04.658500+00:00",
+  "type": "news",
+  "cluster_id": "c8d9878f09189"
+ },
+ {
+  "title": "ABD, Küba bağlantılı 9 kuruluş ve 3 kişiyi yaptırım listesine ekledi",
+  "link": "https://www.cumhuriyet.com.tr/dunya/abd-kuba-baglantili-9-kurulus-ve-3-kisiyi-yaptirim-listesine-ekledi-2530939",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD yönetimi, Küba'yı destekledikleri ve ABD'ye karşı faaliyette bulunduğu iddiasıyla 9 kuruluş ve 3 kişiyi yapı listesine ekledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-20T22:01:04.658500+00:00",
+  "type": "news",
+  "cluster_id": "cf45a82ba6f5b"
+ },
+ {
+  "title": "Saraydan vatandaşın yastık altındaki altınlarıyla ilgili çağrı",
+  "link": "https://www.sozcu.com.tr/saraydan-vatandasin-yastik-altindaki-altinlariyla-ilgili-cagri-p351265",
+  "source": "Sözcü",
+  "summary_tr": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, 7 Ağustos itibarıyla Merkez Bankası rezervinin 178,4 milyar dolar olduğunu vurguladı ve vatandaşın tasarruflarının sisteme girmesini istedi.",
+  "metric": "Merkez Bankası rezervi 178,4 milyar dolar",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-20T22:01:04.658500+00:00",
+  "type": "news",
+  "cluster_id": "ce73440cf095e"
+ },
+ {
+  "title": "US imposes more sanctions on Cuba, including mining sector",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUTBXOUxEdGNvYndTMlBGZHRFQk1wNU8tZk5DV29LdHNJMVlEcU5LcHNxTHJKTlMzWFJNZ0ZWelJ2Vl9GaXl4cklaVDcwd2dld2YyeDRicXVxQWhIcWpSTEY4emRvc3JEd3FrUmRnUU80UFdLdDNRN0IxYW5wVkV5NDBlc0VNanFV?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, Küba'ya yönelik yapıtırımları genişletti ve madencilik sektörünü de yaptırım kapsamına aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-20T22:01:04.658500+00:00",
+  "type": "news",
+  "cluster_id": "c8068c98fb447"
+ },
+ {
   "title": "ABD Başkan Yardımcısı Vance, İran'a karşı en etkili aracın \"ekonomik baskı\" olduğunu söyledi",
   "link": "https://www.aa.com.tr/tr/dunya/abd-baskan-yardimcisi-vance-irana-karsi-en-etkili-aracin-ekonomik-baski-oldugunu-soyledi/4033344",
   "source": "Anadolu Ajansı",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-14T07:01:19.287119+00:00",
   "type": "news",
   "cluster_id": "cbfbb2c2e2e5c"
- },
- {
-  "title": "Dollar steady before US inflation data; yen under pressure",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS1RNVXBTdkRXby15dzUxdkN6WW1Qemk4aWlTaTg1ZVhkby15RjNVbnlXbzNTdWtvNndfV2lINEtjVEZJN191cDRta0lEc2Q0aGR1M0ZydElNOVd0UTBYbXJ3RHYxOUhENW5IUWU0TVF0X3gxQXRNUzVkSTB4dENGeHNpMnMtNEJVRlhoUUhScUdUeUpfZHhtdU5CUkowZ25JRThsWFFTT0w?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Dolar, ABD enflasyon verisi öncesinde sabit tutunuyor. Yen gelişmiş ekonomilerde satış baskısı altında yer alıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-14T07:01:19.287119+00:00",
-  "type": "news",
-  "cluster_id": "c171c21c6b994"
- },
- {
-  "title": "Araç sahiplerini ilgilendiren yeni zam göründü: Herkesi etkileyecek",
-  "link": "https://www.sozcu.com.tr/arac-sahiplerini-ilgilendiren-yeni-zam-gorundu-p336312",
-  "source": "Sözcü",
-  "summary_tr": "Artan yedek parça ve işçilik ücretleri, zorunlu trafik sigortası primlerini yükseltmeye başladı. Araç sahipleri için yeni maliyet baskısı oluştu.",
-  "metric": "Sigorta primleri arttı (yedek parça/işçilik zammı etkisiyle)",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-14T07:01:19.287119+00:00",
-  "type": "news",
-  "cluster_id": "cd35bbbc9c5d7"
- },
- {
-  "title": "Brent petrolün varili 85,27 dolardan işlem görüyor",
-  "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-8527-dolardan-islem-goruyor-951140.html",
-  "source": "TRT Haber",
-  "summary_tr": "Brent petrolü 85,27 dolardan işlem görüyor. Uluslararası enerji piyasasında belirgin seviyelere ulaşıldı.",
-  "metric": "Brent petrol 85,27 dolar/varil",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-14T07:01:19.287119+00:00",
-  "type": "news",
-  "cluster_id": "cc54cb279826e"
- },
- {
-  "title": "China's exports ride AI boom as domestic economy struggles",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRGpqNHVtR2tXdDB5RnBUeHF0U2oyRDRMNnduQVM0eHBWOTVxalVjSGdOMXlFZGxNRUc2dW9fcUttclVoVTdKbk5rRUlVOEdqWHFQRzd5WllrZGI2dnhOVEJXRDU1eFhSVlAtZDk2UEFCRExBdEQxMEdhTENzdzVRVWpaVUhJU2l2RU1KT0xobmNyeGtPcEY1S3Exb3doaG8?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Çin'de yapay zeka tarafından desteklenen ihracat artarken, iç ekonomi zayıf kalmaya devam ediyor. Ekonomik dengesi riskli durumda.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-14T07:01:19.287119+00:00",
-  "type": "news",
-  "cluster_id": "c42437650a12c"
  }
 ]
