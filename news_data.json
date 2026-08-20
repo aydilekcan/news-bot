@@ -1,5 +1,17 @@
 [
  {
+  "title": "Russian ballistic missiles kill at least three in Ukraine's Kyiv, mayor says",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ2hpTTJYeTlzS2hqZHBTdkg1TjhTUklENW93WjNKNjgzZlJsaGxHTW1wTlliVEttM0lndVdGeGRBUHpHaWR4Q3JrTTJ3dThqMzl0VlJxUWZTMXdFS2R2QzlhdTRkaTFVNEoyTzFVZnptUlVqemxCUFJyS1lyVjZqNW1EOERzU3c3dW1rdmwxbjl6RGJMVmVtN1lmbHVscWNkMlVTWVhHeDd0MThsYzV3QnNCaURqb2c5b0E?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya'nın balistik füzeleriyle Kyiv'e düzenlenen saldırıda en az 3 kişi öldü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-20T02:01:01.979092+00:00",
+  "type": "news",
+  "cluster_id": "cd9e0f1051023"
+ },
+ {
   "title": "Trump: İran'a karşı tarihin en ağır ekonomik operasyonunu başlatıyoruz",
   "link": "https://www.sozcu.com.tr/trump-irana-karsi-tarihin-en-agir-ekonomik-operasyonunu-baslatiyoruz-p350955",
   "source": "Sözcü",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-13T12:01:33.166092+00:00",
   "type": "news",
   "cluster_id": "cf114ff4327b3"
- },
- {
-  "title": "AB havayolu yolcu hakları onaylandı: Rötara 600 avroya kadar tazminat",
-  "link": "https://www.diken.com.tr/ab-havayolu-yolcu-haklari-onaylandi-rotara-600-avroya-kadar-tazminat/?utm_source=rss&utm_medium=rss&utm_campaign=ab-havayolu-yolcu-haklari-onaylandi-rotara-600-avroya-kadar-tazminat",
-  "source": "Diken",
-  "summary_tr": "AB, havayolu şirketlerinin gecikmeli uçuşlarda yolculara 600 euroya kadar tazminat vermesi zorunluluğunu güçlendiren düzenlemeyi onayladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-13T12:01:33.166092+00:00",
-  "type": "news",
-  "cluster_id": "ca103efa85c04"
  }
 ]
