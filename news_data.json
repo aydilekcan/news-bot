@@ -1,5 +1,29 @@
 [
  {
+  "title": "ABD Başkan Yardımcısı Vance, İran'a karşı en etkili aracın \"ekonomik baskı\" olduğunu söyledi",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-baskan-yardimcisi-vance-irana-karsi-en-etkili-aracin-ekonomik-baski-oldugunu-soyledi/4033344",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkan Yardımcısı Vance, İran'a karşı en etkili yöntemin ekonomik baskı olduğunu belirtti.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-20T21:01:02.254929+00:00",
+  "type": "news",
+  "cluster_id": "c456b373ce4fc"
+ },
+ {
+  "title": "US hits Hezbollah with fresh sanctions, emphasizing ties to Iranian government",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTBkRFJMMmRQcUtXVlRSS01DTjdnZnVCZkZ2d0k5VkJ1QVQtOHRrOXR2RnNuZWRiMFBsMEMwT0JqV3VkUTJ6QlRnaUJrQXZRRXZUSlZvcy1ONWlqb3E4ZUxzcUZwV29BSU9qYUhwR1NSQmwyR1l3eGRseGJKSEhaYmE4RUxkbkNlOWs2U2tiZ2tTaUJYa0JoWmRTcnBidTZWNHYzeklGblFwcE5WSE9HdFNpTTBNQldaZG12N3NVNTRzMDBYcEVTMUhR?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, Hezbollah'a ek yaptırımlar uyguladı ve örgütün İran hükümeti ile bağlantılarını vurguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-20T21:01:02.254929+00:00",
+  "type": "news",
+  "cluster_id": "cd7734ab07907"
+ },
+ {
   "title": "Ankara’dan İsrail’e iki mesaj: Oyuna gelmeyiz, izin vermeyiz",
   "link": "https://yetkinreport.com/2026/08/20/ankaradan-israile-iki-mesaj-oyuna-gelmeyiz-izin-vermeyiz/",
   "source": "YetkinReport",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-14T07:01:19.287119+00:00",
   "type": "news",
   "cluster_id": "c42437650a12c"
- },
- {
-  "title": "Benzine zam geliyor! Tabela yeniden değişiyor",
-  "link": "https://www.sozcu.com.tr/benzine-zam-geliyor-tabela-yeniden-degisiyor-p336281",
-  "source": "Sözcü",
-  "summary_tr": "Peş peşe motorin zamlarının ardından benzine zam geliyor. Fiyat artışı çarşamba günü uygulanacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-14T06:01:14.183642+00:00",
-  "type": "news",
-  "cluster_id": "c6d706e9395de"
- },
- {
-  "title": "Resmi Gazete: Cevdet Yılmaz cumhurbaşkanlığına vekalet edecek",
-  "link": "https://www.diken.com.tr/resmi-gazete-cevdet-yilmaz-cumhurbaskanligina-vekalet-edecek-2/?utm_source=rss&utm_medium=rss&utm_campaign=resmi-gazete-cevdet-yilmaz-cumhurbaskanligina-vekalet-edecek-2",
-  "source": "Diken",
-  "summary_tr": "Cevdet Yılmaz, Cumhurbaşkanı'nın yurt dışı ziyareti sırasında cumhurbaşkanlığına vekalet edecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-14T06:01:14.183642+00:00",
-  "type": "news",
-  "cluster_id": "ced6036c50305"
  }
 ]
