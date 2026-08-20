@@ -1,5 +1,53 @@
 [
  {
+  "title": "Trump'tan, İran'a yardım eden ülkelere 'ekonomi' tehdidi",
+  "link": "https://www.bbc.com/turkce/articles/cwymr2k11k3o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Trump, İran'a yardım eden ülkelere 'çok ağır ekonomik sonuçlar' tehdidi savurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-20T04:01:00.774082+00:00",
+  "type": "news",
+  "cluster_id": "cdc54e10ccade"
+ },
+ {
+  "title": "Trump'tan İran'a yardım eden ülkelere ekonomik tehdit",
+  "link": "https://www.trthaber.com/haber/dunya/trumptan-irana-yardim-eden-ulkelere-ekonomik-tehdit-954415.html",
+  "source": "TRT Haber",
+  "summary_tr": "Trump, İran'la ticari ilişkilerini sürdüren ülkelere 'devasa ekonomik yaptırımlar' uygulanacağını bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-20T04:01:00.774082+00:00",
+  "type": "news",
+  "cluster_id": "cdc54e10ccade"
+ },
+ {
+  "title": "Trump, Kim Jongun ile bu yıl görüşmeyi planladığını açıkladı",
+  "link": "https://www.trthaber.com/haber/dunya/trump-kim-jong-un-ile-bu-yil-gorusmeyi-planladigini-acikladi-954418.html",
+  "source": "TRT Haber",
+  "summary_tr": "Trump, Kuzey Kore lideri Kim Jong-un ile bu yıl görüşmeyi planladığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-20T04:01:00.774082+00:00",
+  "type": "news",
+  "cluster_id": "c6feece5ea2cb"
+ },
+ {
+  "title": "İran saldırısında yaralanan ABD askeri sayısı 750'yi aştı",
+  "link": "https://www.trthaber.com/haber/dunya/iran-saldirisinda-yaralanan-abd-askeri-sayisi-750yi-asti-954417.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran saldırısında yaralanan ABD askerlerinin sayısı 750'yi aştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-20T04:01:00.774082+00:00",
+  "type": "news",
+  "cluster_id": "ca3140ac9e031"
+ },
+ {
   "title": "Türkiye’de bu gidişle sadece 2 meslek kalacak",
   "link": "https://www.sozcu.com.tr/turkiye-de-bu-gidisle-sadece-2-meslek-kalacak-p350950",
   "source": "Sözcü",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-13T12:01:33.166092+00:00",
   "type": "news",
   "cluster_id": "cc276bb5c25e2"
- },
- {
-  "title": "Rusya’dan Ukrayna’nın kritik limanına ağır saldırı: Yakıt depoları ve mühimmat tesisi hedefte",
-  "link": "https://www.cumhuriyet.com.tr/dunya/rusya-dan-ukrayna-nin-kritik-limanina-agir-saldiri-yakit-depolari-ve-muhimmat-tesisi-hedefte-2520405",
-  "source": "Cumhuriyet",
-  "summary_tr": "Rusya, Ukrayna'nın Çornomorsk Limanı'ndaki yakıt depoları ve mühimmat tesislerine ağır saldırı düzenledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-13T12:01:33.166092+00:00",
-  "type": "news",
-  "cluster_id": "c90afc4e57dae"
- },
- {
-  "title": "Milyonların gözü o tarihte: Zamlı memur ve emekli maaşları ne zaman yatacak?",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/milyonlarin-gozu-o-tarihte-zamli-memur-ve-emekli-maaslari-ne-zaman-yatacak-2520403",
-  "source": "Cumhuriyet",
-  "summary_tr": "Haziran enflasyon verilerine dayalı olarak memur ve emekli maaşlarının Temmuz 2026 dönemi zam miktarı kesinleşti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-13T12:01:33.166092+00:00",
-  "type": "news",
-  "cluster_id": "c40e76d080cd9"
- },
- {
-  "title": "Volkswagen işten çıkarmayı doğruladı! 50 bin çalışan işsiz kalacak!",
-  "link": "https://www.sozcu.com.tr/volkswagen-isten-cikarmayi-dogruladi-50-bin-calisan-issiz-kalacak-p336111",
-  "source": "Sözcü",
-  "summary_tr": "Volkswagen CEO'su, 50 bin çalışana yönelik işten çıkarma planını doğruladı.",
-  "metric": "50.000 çalışan işsiz kalacak",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-13T12:01:33.166092+00:00",
-  "type": "news",
-  "cluster_id": "ceb9c686eee58"
- },
- {
-  "title": "Yemen'deki Husiler: Suudi Arabistan, Uluslararası Sana Havalimanı'nı hedef aldı",
-  "link": "https://www.aa.com.tr/tr/dunya/yemendeki-husiler-suudi-arabistan-uluslararasi-sana-havalimanini-hedef-aldi/3996488",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Yemen'deki Husiler, Suudi Arabistan güçlerinin Sana Uluslararası Havalimanı'nı hedef aldığını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-13T12:01:33.166092+00:00",
-  "type": "news",
-  "cluster_id": "cc0a1810b5835"
  }
 ]
