@@ -1,5 +1,29 @@
 [
  {
+  "title": "North Korea fires barrage of missiles toward the sea after dismissing overture from Trump",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSVBfTGgzRkkzNXpqR1ZoSHZZUmIyYVVvc3NtRFEtajRSRVRiQVAtTzQ5SWRIQldqM2xTV2ROQmY1cjc3aGlBaEFsaU5yN0xGXy05azIwNXN4SUszUlhLVWpnNVhJNVI5OE51RGZ3MFpPUWNmcGdVc0ZOUXI4OW1Cc3JXVHFIRHZhSVZUbUZ3dUI5NWl6cmZnejg1LU5lX1VFd0xKdzN1Q2NPMXRydnU0UkZXck8?oc=5",
+  "source": "AP",
+  "summary_tr": "Kuzey Kore, Trump'ın uzlaşma çağrısını reddederek denize doğru füze atışı gerçekleştirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-21T02:01:04.423448+00:00",
+  "type": "news",
+  "cluster_id": "c5dccb4b9009b"
+ },
+ {
+  "title": "Ege’de ekonomik sıkışma büyüyor: Borç bini aştı!",
+  "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/ege-de-ekonomik-sikisma-buyuyor-borc-bini-asti-2530952",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ege bölgesinde ekonomik sıkışma derinleşiyor; kredi kullanan kişi sayısı 44,5 milyona ulaştı, borçlar bin sınırını aştı.",
+  "metric": "Kredi kullanan kişi sayısı: 44,5 milyon",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-21T02:01:04.423448+00:00",
+  "type": "news",
+  "cluster_id": "ceb01294e49d5"
+ },
+ {
   "title": "US to end summer blend gasoline requirement early in attempt to lower prices",
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNakdBN0hxc0xrLUhRamhRbmdpYk5ybzgyQ0hhQ2IyQVhEVWlobDcxeUY1NEJ1UXZlLVR0YVBvTkxqMkNGenZaRG5lTXZRQVZFX21kWU9ZS05RMHoxSmJwTnVkcGFQcDIzSXZRME9DV3hJckt6WHJueG4xQjE3dnNWX2hYOWN6MnN1eEthcUFKTzJvM2hDbzVmbno3UURwcUZxbl9WV2t5S2prT0dpSlhlN01QeHZUZlY2U1o4?oc=5",
   "source": "Reuters",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-14T08:01:18.989997+00:00",
   "type": "news",
   "cluster_id": "c42844fbc9db4"
- },
- {
-  "title": "Tavuk eti üretimi mayısta azaldı",
-  "link": "https://www.trthaber.com/haber/ekonomi/tavuk-eti-uretimi-mayista-azaldi-951153.html",
-  "source": "TRT Haber",
-  "summary_tr": "Tavuk eti üretimi mayısta geçen yılın aynı ayına göre yüzde 16,3 azalarak 202 bin 336 tona gerilerken, tavuk yumurtası üretimi de düştü.",
-  "metric": "Tavuk eti üretimi (mayıs) %16,3 azalış -> 202.336 ton",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-14T08:01:18.989997+00:00",
-  "type": "news",
-  "cluster_id": "c138966fd9f7c"
- },
- {
-  "title": "Anne ve babaları üzecek haber: Kreş fiyatları 1 milyon TL'ye dayandı",
-  "link": "https://www.sozcu.com.tr/anne-ve-babalari-uzecek-haber-kres-fiyatlari-1-milyon-tl-ye-dayandi-p336315",
-  "source": "Sözcü",
-  "summary_tr": "İstanbul'da özel kreş yıllık ücretleri 1 milyon TL sınırına ulaştı. Ailelerin çocuk bakım masrafları ciddi şekilde artmış durumda.",
-  "metric": "Kreş yıllık ücreti 1 milyon TL'ye dayandı",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-14T07:01:19.287119+00:00",
-  "type": "news",
-  "cluster_id": "c08c3c569e1a6"
  }
 ]
