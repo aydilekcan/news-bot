@@ -1,5 +1,41 @@
 [
  {
+  "title": "Why Treasury Secretary Bessent’s moves to calm the bond market haven’t worked so far",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTFKeWNDNjZRdV9IUElSMUtWNnpmbExuUjFfM19VTDJ6emozODk1dGJoMGNHZk1rWkpiTmNkRjJ1Mll5d3Y1UzZzc2FqMG9oVmlwT2txUjlpY2VFRjdwTnVtNWt4QkROWXpNN3IwWTVQX1c5RzZXT3VTc3pNYWNpcDlmWWFoVUxrVDdzRjFtR2ZndGYtcEpCVTE3dw?oc=5",
+  "source": "AP",
+  "summary_tr": "Hazine Sekreteri Bessent'in tahvil piyasasını sakinleştirme çabaları bugüne kadar etkili olmadı; piyasa gerginliği devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-21T04:01:10.905213+00:00",
+  "type": "news",
+  "cluster_id": "ce9c7a7beebc1"
+ },
+ {
+  "title": "Trump, Kim Jong Un ile arkadaş olmak istiyor",
+  "link": "https://www.trthaber.com/haber/dunya/trump-kim-jong-un-ile-arkadas-olmak-istiyor-954515.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Başkanı Trump, Güney Kore ve ABD'nin ortaklaşa düzenlediği Ulchi Freedom Shield askeri tatbikatını erken sonlandırmaya karar verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-21T04:01:10.905213+00:00",
+  "type": "news",
+  "cluster_id": "cad673bc19ba2"
+ },
+ {
+  "title": "Dollar wobbles as investors balk at US Treasury's rescue efforts",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFZuSmFFRlNlQUZPTlJaNnE2UUJzS29YTWZkWlhJNG1BSWEwbTNCWEVidHBISmc5VUpSMVh5YnRhNHBwMzhCRUZMX2RQalJCTjJhUWJTeFdQckZwbmxRZFgxdVBaTTg3NkZhOE9tZ2h3dHNNV1M5WEVSbTM4NTNsbXdNNnJyNTZHaTk5d25mWVB1eDB5c2RtQkpwVkVidDEtSkpCbA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Amerikan Hazine'nin tahvil piyasasını dengeleme çabaları yatırımcıları ikna etmemiş, dolar dalgalanmaya devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-21T04:01:10.905213+00:00",
+  "type": "news",
+  "cluster_id": "c7b384eabecd7"
+ },
+ {
   "title": "Apo’ya statü bulundu",
   "link": "https://www.sozcu.com.tr/apo-ya-statu-bulundu-p351281",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-14T08:01:18.989997+00:00",
   "type": "news",
   "cluster_id": "ce64e47a6ee46"
- },
- {
-  "title": "China purges third Politburo member in deepening anti-graft drive",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVDJ0bDJkYnZTU2tsTDVzUjZPQnlveXk3dW9oYjlGMkVUcmt0YllQQ0RPTGYyenczYWtCMVlXbWJtVlp2ODNWdlhZd3ZUemcxOFVDdlFKZEZMTFVBa2VacXRISXB4MGtHTV9LVHFEMWoxd0hqTXFrRHhyVS1OemNGTHQ1eW54QWhlVUlfajBSV0FWbVozZEgyQTBCTUJGTUNiZkRHU292M2pCMURRNUxB?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Çin, yolsuzluk mücadelesi çerçevesinde üçüncü Politburo üyesini görevinden aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-14T08:01:18.989997+00:00",
-  "type": "news",
-  "cluster_id": "c74dbbcb8e705"
- },
- {
-  "title": "En düşük emekli maaşı için kritik gün: Milyonların gözü Meclis'te",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/en-dusuk-emekli-maasi-icin-kritik-gun-milyonlarin-gozu-meclis-te-2520654",
-  "source": "Cumhuriyet",
-  "summary_tr": "SSK ve Bağ-Kur emeklilerinin taban aylığı artırılması için kanun teklifi bugün TBMM Plan ve Bütçe Komisyonu'nda görüşülüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-14T08:01:18.989997+00:00",
-  "type": "news",
-  "cluster_id": "c5f6cf6cdcec0"
- },
- {
-  "title": "Bu durumda olanların maaşlarının kesilmesine karar verildi: Yapılan ödemeler de geri istenecek",
-  "link": "https://www.sozcu.com.tr/bu-durumda-olanlarin-maaslarinin-kesilmesine-karar-verildi-yapilan-odemeler-de-geri-istenecek-p336335",
-  "source": "Sözcü",
-  "summary_tr": "Anayasa Mahkemesi, boşandıktan sonra fiilen eski eşiyle birlikte yaşayan kişilerin gelir ve aylıklarının kesilmesine karar verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-14T08:01:18.989997+00:00",
-  "type": "news",
-  "cluster_id": "ccd4dafa7cb22"
  }
 ]
