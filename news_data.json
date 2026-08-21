@@ -1,5 +1,41 @@
 [
  {
+  "title": "ABD'den TikTok'a 400 milyon dolarlık ceza",
+  "link": "https://www.sozcu.com.tr/abd-den-tiktok-a-400-milyon-dolarlik-ceza-p351586",
+  "source": "Sözcü",
+  "summary_tr": "ABD Adalet Bakanlığı, TikTok ve ByteDance'a çocukların çevrim içi gizliliği ihlalleri nedeniyle 400 milyon dolar ceza verdi.",
+  "metric": "Ceza tutarı: 400 milyon dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-21T22:01:03.999283+00:00",
+  "type": "news",
+  "cluster_id": "c07d8887f9376"
+ },
+ {
+  "title": "ABD Adalet Bakanlığı ile TikTok \"çocuk gizliliği\" davasında 400 milyon dolarlık uzlaşmaya vardı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abd-adalet-bakanligi-ile-tiktok-cocuk-gizliligi-davasinda-400-milyon-dolarlik-uzlasmaya-vardi/4034322",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Adalet Bakanlığı, TikTok ve ByteDance ile çocuk gizliliği davasında 400 milyon dolarlık uzlaşmaya vardı.",
+  "metric": "Uzlaşma tutarı: 400 milyon dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-21T22:01:03.999283+00:00",
+  "type": "news",
+  "cluster_id": "c8d1e58615e62"
+ },
+ {
+  "title": "TikTok agrees to $400 million US children's privacy settlement",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdHp4WjducldzcUtEUTljcWhGYmpkOUgzc2RKaFFhaUFyVjdCZW9XajFRb1BNTWVGUnVmdVNVWDBLQmVWS3d1UkZncVp3R2cwQWxRVDB4c1VFVW5Gc1RoUzRZVUZ0aFlQTGc2ekF3T0w5QUQtSXFPYml1cnBzamdJV0NVR3d3ZTFoTVRocVp2dm4xQXFyX0U2TXdwM2I5ZmNqa0Q1emcza0N0dkczb25xdzY0UFZvSElWLUE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "TikTok, ABD çocuk gizliliği davasını 400 milyon dolar ödeyerek kapatmayı kabul etti.",
+  "metric": "Ödeme tutarı: 400 milyon dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-21T22:01:03.999283+00:00",
+  "type": "news",
+  "cluster_id": "cb32c14b988d2"
+ },
+ {
   "title": "Çayırhan’daki maden faciasının ardından siyasilerden tepki: ‘İş cinayetleri kader değil’",
   "link": "https://www.cumhuriyet.com.tr/turkiye/cayirhan-daki-maden-faciasinin-ardindan-siyasilerden-tepki-is-cinayetleri-kader-degil-2531222",
   "source": "Cumhuriyet",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-15T00:01:07.683226+00:00",
   "type": "news",
   "cluster_id": "c59c32c255975"
- },
- {
-  "title": "İran devlet televizyonu: İlam eyaletinde bir su üretim tesisi düşmanın saldırısına uğradı",
-  "link": "https://www.aa.com.tr/tr/live-blog/son-gelismeler-abdnin-irana-yonelik-saldirilari-ve-iran-in-misillemeleri/5275",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran, batısındaki İlam eyaletinde bir su üretim tesisinin 3 füzeyle saldırıya uğradığını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-15T00:01:07.683226+00:00",
-  "type": "news",
-  "cluster_id": "c66018197bbf0"
- },
- {
-  "title": "İran'ın Hürmüzgan Valiliği: Şu anda deniz üzerinde çatışmalar yaşanmaktadır",
-  "link": "https://www.aa.com.tr/tr/live-blog/son-gelismeler-abdnin-irana-yonelik-saldirilari-ve-iran-in-misillemeleri/5275",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD ve İran arasında Hürmüz Boğazı çevresinde çatışmalar yaşanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-14T23:01:16.633480+00:00",
-  "type": "news",
-  "cluster_id": "ccc446df67673"
- },
- {
-  "title": "Trump says no one should be able to charge a fee for the Strait of Hormuz",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOTVHNU1vRzltYktZWFFsVWJkR0pKaVh4S3ZsMVZhekZUUXRTSGZwZ2JibVFGRkVsdVRHck5maU9xclVyTGJIYmRLOG11REx5X2JQSGpoOGV6WG42NmhoZFVBQndMNGZsUUxMNzhzOFd4a2ozdE5VdHpFR0VaNVZYMUNRdi0yMmk2a0l1Z3VjN3AyMkNBeUd6V1pObmZQdTR5VzFmQw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, Hürmüz Boğazı için ücret talep edilmemesi gerektiğini söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-14T23:01:16.633480+00:00",
-  "type": "news",
-  "cluster_id": "c1bdbb3a37dff"
  }
 ]
