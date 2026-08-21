@@ -1,5 +1,29 @@
 [
  {
+  "title": "İsrail ordusu, Lübnan'ın güneyindeki birçok bölgede saldırılarını yoğunlaştırdı",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-lubnanin-guneyindeki-bircok-bolgede-saldirilarini-yogunlastirdi/4034181",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusu, Lübnan'ın güneyinde hava saldırılarını yoğunlaştırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-21T18:01:13.453204+00:00",
+  "type": "news",
+  "cluster_id": "c0c86fac65fe2"
+ },
+ {
+  "title": "Six killed, around 90 wounded in Russian strike on shopping centre in Ukraine",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOME1nc2ZfV3l1LXlTQ29EZlNTd3drS1ZwNHBnbTdKd3VmVG5ZYkVpWngxV1BNQWFWY3VEMk8tVUVSX215cEgwV0ZRejFmR05LalNab3dkLXNwMTVkSmxDd3hlYjRGMkVZRHBlS1lQbU15R0hCQ3lvWHNpSW5QbUNvSmRVWnZhSVlYYW5IWUJCZGFTckZTdlVDNE9Wb3JsWkFvTHRkNmVscnNFUQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya, Ukrayna'daki bir alışveriş merkezine saldırı düzenledi; 6 ölü, 90 yaralı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-21T18:01:13.453204+00:00",
+  "type": "news",
+  "cluster_id": "cca06e926000c"
+ },
+ {
   "title": "Netanyahu'dan Erdoğan'a: 'İsrail'e karşı saldırganlığını Suriye'ye taşımaya çalışıyor, buna göz yummayız'",
   "link": "https://www.bbc.com/turkce/articles/clyqd9rggzro?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-14T22:01:17.285276+00:00",
   "type": "news",
   "cluster_id": "c937b5003c075"
- },
- {
-  "title": "ABD, İran'a yönelik deniz ablukasının yürürlüğe girdiğini duyurdu",
-  "link": "https://www.cumhuriyet.com.tr/dunya/abd-iran-a-yonelik-deniz-ablukasinin-yururluge-girdigini-duyurdu-2520866",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD, İran'a yönelik deniz ablukasının yürürlüğe girdiğini duyurdu ve ek hava saldırıları düzenledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-14T21:01:13.126504+00:00",
-  "type": "news",
-  "cluster_id": "c7ac0c5999ab2"
- },
- {
-  "title": "TBMM'de Türkiye - Irak petrol hattı tartışması... Muhalefetin araştırma önerisi AKP ve MHP oylarıyla reddedildi",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/tbmm-de-turkiye-irak-petrol-hatti-tartismasi-muhalefetin-arastirma-onerisi-akp-ve-mhp-oylariyla-reddedildi-2520879",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM'de Türkiye-Irak petrol hattı tahkim davası ve 1,47 milyar dolarlık tazminat kararının araştırılması önerisi AKP ve MHP oylarıyla reddedildi.",
-  "metric": "1,47 milyar dolar tazminat",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-14T21:01:13.126504+00:00",
-  "type": "news",
-  "cluster_id": "c90768462959f"
  }
 ]
