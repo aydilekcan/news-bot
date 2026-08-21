@@ -1,5 +1,65 @@
 [
  {
+  "title": "Prof. Dr. Ersin Kalaycıoğlu, Cumhuriyet'e konuştu: Bahçeli’den 'seçim sistemi' çıkışı ne anlama geliyor?",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/prof-dr-ersin-kalaycioglu-cumhuriyet-e-konustu-bahceli-den-secim-sistemi-cikisi-ne-anlama-geliyor-2531114",
+  "source": "Cumhuriyet",
+  "summary_tr": "MHP Lideri Bahçeli, siyasi partiler ve seçim sisteminin yeniden düzenlenmesi gerektiğini açıkladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-21T13:01:12.433497+00:00",
+  "type": "news",
+  "cluster_id": "cb2407078cede"
+ },
+ {
+  "title": "EXCLUSIVE: Dutch regulator fines Uber $966 million for automating driver suspensions, document shows",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd2JmWFg1eFpuU0RoTnJXYnFqSDdzOFdMU0c4X0xwV3hVZFJiZWYwWHVJNUxsLUV3SEdlMGtPWnJmSlk2YlRWZlFRU3VYakJxbHFWUnVJZnVlYktUMURhczV3ekttcWhOM2Fob1JVWERKRkhtSDltWHQzQ3Y4clJlTVhleTNLSWVLVWM5Ul9YUVlpcnBMQWxhYnE3QmVXY3lMbHAyalhEaWptS2ozMGdMUDdWWndqc3p5QUln?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Hollanda düzenleyicisi, Uber'in otomatik şekilde şoför askıya alması nedeniyle 966 milyon dolar para cezası verdi.",
+  "metric": "Uber cezası: 966 milyon dolar",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-21T13:01:12.433497+00:00",
+  "type": "news",
+  "cluster_id": "c4e78849404ed"
+ },
+ {
+  "title": "Morgan Stanley'ye göre altında yükseliş sürecek",
+  "link": "https://www.diken.com.tr/morgan-stanleyye-gore-altinda-yukselis-surecek/?utm_source=rss&utm_medium=rss&utm_campaign=morgan-stanleyye-gore-altinda-yukselis-surecek",
+  "source": "Diken",
+  "summary_tr": "Morgan Stanley, altın fiyatlarının yükselişinin devam edeceğini öngörüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-21T13:01:12.433497+00:00",
+  "type": "news",
+  "cluster_id": "cb2f58346333c"
+ },
+ {
+  "title": "ABD'de et krizi büyüyor: Trump'tan ithalat hamlesi",
+  "link": "https://www.sozcu.com.tr/abd-de-et-krizi-buyuyor-trump-tan-ithalat-hamlesi-p351497",
+  "source": "Sözcü",
+  "summary_tr": "Trump, yüksek gıda fiyatlarıyla mücadele için et ithalatına ilişkin tarife kotalarını revize ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-21T13:01:12.433497+00:00",
+  "type": "news",
+  "cluster_id": "cecf14dc2853b"
+ },
+ {
+  "title": "Güneşten elekirik üretimi tüm zamanların en yüksek seviyesindoe",
+  "link": "https://www.trthaber.com/haber/ekonomi/gunesten-elekirik-uretimi-tum-zamanlarin-en-yuksek-seviyesindoe-954576.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye'de temmuzda güneş enerjisinden elektrik üretimi, bir önceki aya göre %10,2 artarak rekor seviyeye ulaştı.",
+  "metric": "Güneş elektriği ürenimi +%10,2 (5,4 TWh)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-21T13:01:12.433497+00:00",
+  "type": "news",
+  "cluster_id": "c471f0e3e05bc"
+ },
+ {
   "title": "Son dakika... Türkiye'den Netanyahu için 'kırmızı bülten' talebi",
   "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-turkiye-den-netanyahu-icin-kirmizi-bulten-talebi-2531095",
   "source": "Cumhuriyet",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-14T16:01:17.448189+00:00",
   "type": "news",
   "cluster_id": "c945744143c83"
- },
- {
-  "title": "Trump, Hürmüz'den geçiş ücreti almaktan vazgeçti",
-  "link": "https://www.diken.com.tr/trump-hurmuzden-gecis-ucreti-almaktan-vazgecti/?utm_source=rss&utm_medium=rss&utm_campaign=trump-hurmuzden-gecis-ucreti-almaktan-vazgecti",
-  "source": "Diken",
-  "summary_tr": "ABD Başkanı Trump, Hürmüz Boğazı'ndan almayı planladığı %20 geçiş ücretinden vazgeçerek Körfez ülkeleriyle ticari anlaşmalar yapılacağını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-14T16:01:17.448189+00:00",
-  "type": "news",
-  "cluster_id": "c7456e78fa67c"
- },
- {
-  "title": "Trump, Hürmüz'deki o 'hedefinden'  vazgeçti: 'Körfez ülkeleri' vurgusu yaptı",
-  "link": "https://www.cumhuriyet.com.tr/dunya/trump-hurmuz-deki-o-hedefinden-vazgecti-korfez-ulkeleri-vurgusu-yapti-2520830",
-  "source": "Cumhuriyet",
-  "summary_tr": "Trump, Hürmüz Boğazı'ndan %20 geçiş ücreti almak yerine Körfez ülkeleriyle ticari anlaşmalar yapılacağını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-14T16:01:17.448189+00:00",
-  "type": "news",
-  "cluster_id": "c48a7c5004775"
- },
- {
-  "title": "Trump'tan Hürmüz'de tam abluka açıklaması: İran hariç herkese açık",
-  "link": "https://www.sozcu.com.tr/hurmuz-icin-saat-verilmisti-trump-tan-tam-abluka-aciklamasi-p336471",
-  "source": "Sözcü",
-  "summary_tr": "Trump, Hürmüz Boğazında ablukanın başlayacağını ve İran hariç herkese geçişin açık olacağını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-14T16:01:17.448189+00:00",
-  "type": "news",
-  "cluster_id": "cc4221c5c9574"
- },
- {
-  "title": "Trump, Hürmüz'den geçiş ücreti almak yerine Körfez ile ticari anlaşmalar yapılacağını duyurdu",
-  "link": "https://www.aa.com.tr/tr/dunya/trump-hurmuzden-gecis-ucreti-almak-yerine-korfez-ile-ticari-anlasmalar-yapilacagini-duyurdu/3997972",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Trump, Hürmüz Boğazı'ndan %20 geçiş ücreti almak yerine Körfez ülkeleriyle ticari anlaşmalar yapılacağını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-14T16:01:17.448189+00:00",
-  "type": "news",
-  "cluster_id": "c52466751cd77"
- },
- {
-  "title": "Özgür Özel’den Kılıçdaroğlu’na: “Umudu burada tüketirsen, millet umudu yeni partide arıyor”",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVW1NX3FRMVkzaGJ5amRGMTFuQTUyMGRZN2V5eXdHWE5kb0F3MUxTNHh4c0YyTmFtTTJxZ01vcXg3LWF2YUpIOUl3cUNNME94M2JlSzRtc0hPNTlwaE9VcnJpVE5zRTJ1MGl6eDFHbHBSNnhBQXBBTUdBTmxKWTBRMWFZa3Jhc3NkYmVPRm1kNS13Z1BHY0E?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Özgür Özel, Kılıçdaroğlu'na umudun CHP'de tükenirse halkın yeni partilere döneceğini belirterek seslendi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-14T16:01:17.448189+00:00",
-  "type": "news",
-  "cluster_id": "c8b5bf9a22673"
  }
 ]
