@@ -1,5 +1,65 @@
 [
  {
+  "title": "Konut fiyatlarında yön değişti: Evler ucuzlayacak mı?",
+  "link": "https://www.dw.com/tr/konut-fiyatlarında-yön-değişti-evler-ucuzlayacak-mı/a-78443340?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Türkiye'de konut fiyatları TL bazında yükseliyor ancak reel olarak gerileyerek vatandaşların satın alma gücünü azaltıyor; faiz gerilemesinin bu eğilimi kırıp kırmaması analiz ediliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-21T05:01:13.352291+00:00",
+  "type": "news",
+  "cluster_id": "cb76ee2416baf"
+ },
+ {
+  "title": "Kiracılara ödediği o paraları geri alma yolu açıldı",
+  "link": "https://www.sozcu.com.tr/kiracilara-odedigi-o-paralari-geri-alma-yolu-acildi-p351301",
+  "source": "Sözcü",
+  "summary_tr": "Yargıtay'dan emsal niteliğinde karar: Tehdit ve baskı altında fahiş kira ödeyen kiracılar ödedikleri parayı geri alma hakkı kazandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-21T05:01:13.352291+00:00",
+  "type": "news",
+  "cluster_id": "c80d7e2ca496f"
+ },
+ {
+  "title": "Ev alıp satacaklar dikkat: Zorunlu Deprem Sigortası'nda yıllardır uygulanan sistem değişti",
+  "link": "https://www.sozcu.com.tr/ev-alip-satacaklar-dikkat-zorunlu-deprem-sigortasi-nda-yillardir-uygulanan-sistem-degisti-p351305",
+  "source": "Sözcü",
+  "summary_tr": "Zorunlu Deprem Sigortası (DASK) sisteminde yıllardır uygulanan genel şartlar değiştirildi; ev alıp satacak vatandaşlar etkilenecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-21T05:01:13.352291+00:00",
+  "type": "news",
+  "cluster_id": "cbc24de1a4b8e"
+ },
+ {
+  "title": "Gold on track for third weekly gain after US Treasury move",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzBQclFYMVRpaFk2cVBvUUNLd2tWYjlENUhJbG9tR3RYQ2k3VTFpSV9yd0xXVVgzNnFQNGltZV9sbHhQdENsX29BekdQM0NOb2p5bjBqQWNUbnE1WGZmaEt5d0ZFQVgzZUFKeWNOSEt2eHUzZWZRdk8xb1lMZUplLVZBY2oyYlRtMHo4YmZhdWRRZ2FndkE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Altın, ABD Hazine hareketinin ardından üçüncü haftalık kazancına doğru yönelme gösteriyor; küresel finansal piyasalarda oynaklık sürüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-21T05:01:13.352291+00:00",
+  "type": "news",
+  "cluster_id": "c17c6d213678a"
+ },
+ {
+  "title": "Asia shares downbeat on the week as bond yields, oil stay high",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTFQMW56em9GbmdpNkt2Y1pGekxZbWNTT2I5bHZDNUJCaFFYem9uWVlkSEd3dzBHQ19mSHA0QzZlUmMzWHJtOEtJX09qRmVaNFdYaC1wZzQ4VmJCdFdlWnFDSkhRLVkwYXRidHJPaVk2ZXFyeVNzU0dCbzNRZnhNc0dLcw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Asya hisse senetleri haftalık düşüş kaydetti; tahvil getirileri ve petrol fiyatları yüksek seviyelerde kalmayı sürdürüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-21T05:01:13.352291+00:00",
+  "type": "news",
+  "cluster_id": "c857b136b7599"
+ },
+ {
   "title": "Why Treasury Secretary Bessent’s moves to calm the bond market haven’t worked so far",
   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTFKeWNDNjZRdV9IUElSMUtWNnpmbExuUjFfM19VTDJ6emozODk1dGJoMGNHZk1rWkpiTmNkRjJ1Mll5d3Y1UzZzc2FqMG9oVmlwT2txUjlpY2VFRjdwTnVtNWt4QkROWXpNN3IwWTVQX1c5RzZXT3VTc3pNYWNpcDlmWWFoVUxrVDdzRjFtR2ZndGYtcEpCVTE3dw?oc=5",
   "source": "AP",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-14T09:01:16.364205+00:00",
   "type": "news",
   "cluster_id": "c29847b202de6"
- },
- {
-  "title": "Serbest bölgelerde 6 ayda yapılan ticaretin yaklaşık yarısını ihracat oluşturdu",
-  "link": "https://www.aa.com.tr/tr/ekonomi/serbest-bolgelerde-6-ayda-yapilan-ticaretin-yaklasik-yarisini-ihracat-olusturdu/3997309",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye serbest bölgeleri ocak-haziran 2026'de 14,3 milyar dolar ticaret yaptı; yarısı ihracat oluşturdu.",
-  "metric": "Serbest bölge ticaret hacmi (6 ay) 14,3 milyar dolar (ihracatı ~7,15 milyar dolar)",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-14T09:01:16.364205+00:00",
-  "type": "news",
-  "cluster_id": "cb6e8c53eb54c"
- },
- {
-  "title": "Trump’ın gümrük tarifeleri ABD’ye 81 milyar dolara mâl oldu",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV2pEdmRtNU5qeW1nZjQ5T0pQcndpUmVjdGJHWURvOUdBendzeVFsbi1zOWZ4cnh6ZDg5R1dTYzRMNmlrWDZFWWluTUN3Yjk4dks0ZjVVZGV3SDhzc0dRSWJOYU4tbmZOOFNyMHl5N2Frem1vZzFFUnhRekdjTG1DTzFaR3BtMEtucExtbmxRT2t5YndDRGc?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Trump'ın gümrük tarifeleri ABD ekonomisine 81 milyar dolar maliyete neden oldu.",
-  "metric": "Tarife maliyeti: 81 milyar dolar",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-14T09:01:16.364205+00:00",
-  "type": "news",
-  "cluster_id": "cae50eb00c2fe"
- },
- {
-  "title": "İhracat (yılık değişim): %3,6 (2025 ilk 6 ay)",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTTVxc0lfS2NFUUhyTGhkZkdPRnZySHhuQ3Z1R2hzTlRPTDdnT09nWXAyd2E5UnlBb05Ic04tbmxJT2JHZ1hUa0ctMzhUTDR6b1FaQVRjd25kMkNMbk50cnVOcU9hdlI2SEJBUGtPU0twSTNpd3NtX3FTU1dtYnpNcGlZa1oxMGpIdUlkS0pzTkRCNU9QVzEtaXlR0gGaAUFVX3lxTE5NNXFzSV9LY0VRSHJMaGRmR09GdnJIeG5DdnVHaHNOVE9MN2dPT2dZcDJ3YTlSeUFvTkhzTi1ubElPYkdnWFRrRy0zOFRMNHpvUVpBVGN3bmQyQ0xuTnRydU5xT2F2UjZIQkFQa09TS3BJM2l3c21fcVNTV21iek1waVlrWjEwakh1SWRLSnNOREI1T1BXMS1peVE?oc=5",
-  "source": "Ticaret Bakanlığı",
-  "summary_tr": "%3,6",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-07-14T09:01:16.364205+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "İran-ABD gerginliği: Hürmüz yeniden savaş alanı",
-  "link": "https://www.dw.com/tr/iran-abd-gerginliği-hürmüz-yeniden-savaş-alanı/a-77944813?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "İran ve ABD Hürmüz Boğazı'nda üçüncü gece karşılıklı saldırıda bulundu; İran tankerleri vurdu, ABD adaları hedef aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-07-14T08:01:18.989997+00:00",
-  "type": "news",
-  "cluster_id": "c0f08ed86ba4f"
- },
- {
-  "title": "Iran says it struck US air base in Jordan, US military ends five hours of attacks",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV1NVbmwxanV3R25iWTRkMnNoY3hRblJYYVdDTU9FSGVrbDJkRDlNazBlbGV2MjBUYlNDX09Mcng5Vk9BdGJRSEIyNGdXdzlZOFV4aTh5N0xBSlB4WklnZ2VvUFc2WENOalA4Z1p0djZXVmFzV3RpMklJekp2U1JYbmxVREk4bTFtR19jQ2pJVzJkQU0xWmtsZzhBOHc5UkYtMGtld1RYUE91ZE9nNFQ5MTdvT2xxY2xoVjdzX2JqMG1uYy1IRTJz?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran, Ürdün'deki ABD hava üssüne saldırı düzenledi; ABD askeri beş saatlik saldırılarını sonlandırdı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-07-14T08:01:18.989997+00:00",
-  "type": "news",
-  "cluster_id": "ce64e47a6ee46"
  }
 ]
