@@ -1,5 +1,77 @@
 [
  {
+  "title": "Trump, Kuzey Kore lideriyle yakınlaşmak istiyor",
+  "link": "https://www.diken.com.tr/trump-kuzey-kore-lideriyle-yakinlasmak-istiyor/?utm_source=rss&utm_medium=rss&utm_campaign=trump-kuzey-kore-lideriyle-yakinlasmak-istiyor",
+  "source": "Diken",
+  "summary_tr": "ABD Başkanı Trump, Kuzey Kore lideri Kim Jong Un ile bu yıl yeniden görüşmek istediğini açıkladı; Pyongyang soğuk duş çekerek reddetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-21T06:01:14.318583+00:00",
+  "type": "news",
+  "cluster_id": "c5db3121ea79f"
+ },
+ {
+  "title": "Kuzey Kore'den görüşme talep eden Trump'a soğuk duş",
+  "link": "https://www.sozcu.com.tr/kuzey-kore-den-gorusme-talep-eden-trump-a-soguk-dus-p351337",
+  "source": "Sözcü",
+  "summary_tr": "ABD Başkanı Trump, Kuzey Kore lideri Kim Jong Un ile bu yıl yeniden bir araya gelmek istediğini açıkladı; Kuzey Kore reddetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-21T06:01:14.318583+00:00",
+  "type": "news",
+  "cluster_id": "c4ba414b5777f"
+ },
+ {
+  "title": "Trump wants a new meeting with Kim Jong Un. North Korea says not so fast",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYmNSdFdHSUxwdV91bzFuRVhydnBoRk85Tng0QUp2Um1tczFEMDRBbGVac0llaER1U2VoeHNPbFdrXzdReXR3bGF1cUs4eVZnOUJnVUdvWmJJcVI1Tmltd3U1R2x2akJXVVN5TkRuZTRlYUJ6M2JBWTNNWlYwNWQ2UlZWZWxHS0NkcVUydnlTQlRydzY0MDBwVVUzaFFwQk5sTTlMYVNhWW9lTlpWSThUSHoxbE5oNjJ3V0RXa0F6dkV3M25kLUdkWVRHeTQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Başkanı Trump, Kuzey Kore lideri Kim Jong Un ile bu yıl yeniden bir araya gelmek istediğini açıkladı; Pyongyang olumsuz yanıt verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-21T06:01:14.318583+00:00",
+  "type": "news",
+  "cluster_id": "c0654ad7d76a7"
+ },
+ {
+  "title": "61 yıllık Türk tekstil devi iflas etti: 24 ülkeye ihracat yapıyordu",
+  "link": "https://www.sozcu.com.tr/61-yillik-turk-tekstil-devi-iflas-etti-24-ulkeye-ihracat-yapiyordu-p351334",
+  "source": "Sözcü",
+  "summary_tr": "Bursa'daki 61 yıllık tekstil şirketi BBX Baby Kids, 24 ülkeye ihracat yaparken mahkeme kararıyla iflas etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-21T06:01:14.318583+00:00",
+  "type": "news",
+  "cluster_id": "ce8751c836abd"
+ },
+ {
+  "title": "Ülke parası bitince altın rezervlerini göz kırpmadan bozdu: 7 ayda dibi gördüler",
+  "link": "https://www.sozcu.com.tr/ulke-parasi-bitince-altin-rezervlerini-goz-kirpmadan-bozdu-7-ayda-dibi-gorduler-p351333",
+  "source": "Sözcü",
+  "summary_tr": "Rusya bütçe baskısı nedeniyle dünyanın en büyük 5. altın rezervini bozmaya başladı; 7 ayda önemli ölçüde azaldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-21T06:01:14.318583+00:00",
+  "type": "news",
+  "cluster_id": "c41a12a39d529"
+ },
+ {
+  "title": "Kamu borçlarının yapılandırılmasında son günler",
+  "link": "https://www.trthaber.com/haber/ekonomi/kamu-borclarinin-yapilandirilmasinda-son-gunler-954525.html",
+  "source": "TRT Haber",
+  "summary_tr": "Kamuya borcu olan mükelleflere nefes aldıracak yapılandırma düzenlemesi kapsamında başvurular devam ediyor; bazı borçlar 72 aya kadar yapılandırılabilecek.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-21T06:01:14.318583+00:00",
+  "type": "news",
+  "cluster_id": "c6dcd64b9622b"
+ },
+ {
   "title": "Konut fiyatlarında yön değişti: Evler ucuzlayacak mı?",
   "link": "https://www.dw.com/tr/konut-fiyatlarında-yön-değişti-evler-ucuzlayacak-mı/a-78443340?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-14T10:01:31.914140+00:00",
   "type": "news",
   "cluster_id": "c3fc3ed350de8"
- },
- {
-  "title": "TFF'nin erişim engelleme yetkisi sona erdi",
-  "link": "https://www.diken.com.tr/tffnin-erisim-engelleme-yetkisi-sona-erdi/?utm_source=rss&utm_medium=rss&utm_campaign=tffnin-erisim-engelleme-yetkisi-sona-erdi",
-  "source": "Diken",
-  "summary_tr": "Anayasa Mahkemesi, Türkiye Futbol Federasyonu'nun erişim engelleme yetkisini iptal etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-14T09:01:16.364205+00:00",
-  "type": "news",
-  "cluster_id": "c34ec338be0d3"
- },
- {
-  "title": "Kanun teklifi: 15-18 yaşındaki çocuklara müebbet verilebilecek",
-  "link": "https://www.diken.com.tr/kanun-teklifi-15-18-yasindaki-cocuklara-muebbet-verilebilecek/?utm_source=rss&utm_medium=rss&utm_campaign=kanun-teklifi-15-18-yasindaki-cocuklara-muebbet-verilebilecek",
-  "source": "Diken",
-  "summary_tr": "AKP'nin kanun teklifiyle 15-18 yaşındaki çocuklara müebbet ceza verilebilmesi önerildi.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-14T09:01:16.364205+00:00",
-  "type": "news",
-  "cluster_id": "c62634f3eaffa"
- },
- {
-  "title": "Piyasalarda dolar rüzgarı esiyor: Yükselişin arkasındaki 3 kritik neden",
-  "link": "https://www.sozcu.com.tr/piyasalarda-dolar-ruzgari-esiyor-yukselisin-arkasindaki-3-kritik-neden-p336362",
-  "source": "Sözcü",
-  "summary_tr": "Dolar küresel piyasalarda majör para birimlerine karşı güçlenerek zirve seviyelere ulaştı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-14T09:01:16.364205+00:00",
-  "type": "news",
-  "cluster_id": "cb4b6bc4d5822"
- },
- {
-  "title": "Oyuncak ithalatında yeni dönem: Vergi oranı değiştirildi",
-  "link": "https://www.sozcu.com.tr/oyuncak-ithalatinda-yeni-donem-vergi-orani-degistirildi-p336357",
-  "source": "Sözcü",
-  "summary_tr": "Ticaret Bakanlığı, oyuncak ithalatında vergi oranını değiştirerek yerli imalatçıların yükünü azalttı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-14T09:01:16.364205+00:00",
-  "type": "news",
-  "cluster_id": "cae5b2093c96b"
- },
- {
-  "title": "İngiliz bankacılık devi açıkladı: Merkez Bankası faiz indirimine ne zaman başlayacak?",
-  "link": "https://www.sozcu.com.tr/ingiliz-bankacilik-devi-acikladi-merkez-bankasi-faiz-indirimine-ne-zaman-baslayacak-p336349",
-  "source": "Sözcü",
-  "summary_tr": "HSBC, İngiltere Merkez Bankası'nın eylül ayında faiz indirimlerine başlayacağını öngördü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-14T09:01:16.364205+00:00",
-  "type": "news",
-  "cluster_id": "c4b11ca6bca07"
- },
- {
-  "title": "Akaryakıt krizi Rus ekonomisindeki baskıyı artırıyor",
-  "link": "https://www.aa.com.tr/tr/ekonomi/akaryakit-krizi-rus-ekonomisindeki-baskiyi-artiriyor/3997313",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Rusya'daki akaryakıt krizi, ekonomik büyümeyi yavaşlatırken özel sektörün finansman maliyetlerini artırıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-14T09:01:16.364205+00:00",
-  "type": "news",
-  "cluster_id": "c29847b202de6"
  }
 ]
