@@ -1,5 +1,41 @@
 [
  {
+  "title": "Türkiye ve 7 ülkeden İsrail’in 'E1' yerleşim planına tepki: 'Derhal durdurulmalı'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/turkiye-ve-7-ulkeden-israil-in-e1-yerlesim-planina-tepki-derhal-durdurulmali-2531174",
+  "source": "Cumhuriyet",
+  "summary_tr": "Türkiye ve 7 ülke, İsrail'in Filistin'deki E1 yerleşim projesine tepki göstererek derhal durdurulmasını talep etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-21T16:01:10.631658+00:00",
+  "type": "news",
+  "cluster_id": "cfd73dd503c87"
+ },
+ {
+  "title": "Türkiye ve 7 ülkeden işgalci İsrail'in hukuk dışı yerleşim politikalarına tepki",
+  "link": "https://www.trthaber.com/haber/gundem/turkiye-ve-7-ulkeden-isgalci-israilin-hukuk-disi-yerlesim-politikalarina-tepki-954596.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye, BAE, Endonezya, Katar, Mısır, Pakistan, Suudi Arabistan ve Ürdün, İsrail'in işgal altı topraklardaki hukuk dışı yerleşim politikalarını kınadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-21T16:01:10.631658+00:00",
+  "type": "news",
+  "cluster_id": "cfd73dd503c87"
+ },
+ {
+  "title": "Abbas, İsrail'in \"E1\" yasa dışı yerleşim projesinin Filistin Devleti'nin kuruluşunu tehdit ettiğini söyledi",
+  "link": "https://www.aa.com.tr/tr/dunya/abbas-israilin-e1-yasa-disi-yerlesim-projesinin-filistin-devletinin-kurulusunu-tehdit-ettigini-soyledi/4034080",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Filistin Devlet Başkanı Abbas, İsrail'in E1 yerleşim projesinin Filistin Devleti kuruluşunu tehdit ettiğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-21T16:01:10.631658+00:00",
+  "type": "news",
+  "cluster_id": "c30b7579aa51b"
+ },
+ {
   "title": "Türkiye ve 10 ülkeden İsrail'in Ebu Zuhur'daki saldırısına kınama",
   "link": "https://www.sozcu.com.tr/turkiye-ve-10-ulkeden-israile-kinama-p351534",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-14T19:01:14.384472+00:00",
   "type": "news",
   "cluster_id": "ce4723e7a9c7e"
- },
- {
-  "title": "İran basını: ABD, Hürmüz Boğazı'ndaki Keşm Adası'na saldırı düzenledi",
-  "link": "https://www.trthaber.com/haber/dunya/iran-basini-abd-hurmuz-bogazindaki-kesm-adasina-saldiri-duzenledi-951218.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD, İran'ın Hürmüz Boğazı'ndaki Keşm Adası'na saldırı düzenledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-14T19:01:14.384472+00:00",
-  "type": "news",
-  "cluster_id": "c1769e6f565ad"
- },
- {
-  "title": "Trump'tan U‑dönüşü: Hürmüz ücreti iptal",
-  "link": "https://www.dw.com/tr/trump-tan-u‑dönüşü-hürmüz-ücreti-iptal/a-77955875?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Trump, Hürmüz Boğazı'ndan güvenli geçişler için ücret talep etme planını iptal etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-14T19:01:14.384472+00:00",
-  "type": "news",
-  "cluster_id": "cd69c32326c04"
- },
- {
-  "title": "Sirenlerin çaldığı Bahreyn'de halka güvenli yerlere gitme çağrısı yapıldı",
-  "link": "https://www.trthaber.com/haber/dunya/sirenlerin-caldigi-bahreynde-halka-guvenli-yerlere-gitme-cagrisi-yapildi-951215.html",
-  "source": "TRT Haber",
-  "summary_tr": "Bahreyn, ülke genelinde sirenlerin çaldığını duyurdu ve halka güvenli yerlere çıkma çağrısı yaptı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-14T19:01:14.384472+00:00",
-  "type": "news",
-  "cluster_id": "c0f8d7111fb27"
  }
 ]
