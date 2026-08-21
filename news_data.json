@@ -1,5 +1,17 @@
 [
  {
+  "title": "US to end summer blend gasoline requirement early in attempt to lower prices",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNakdBN0hxc0xrLUhRamhRbmdpYk5ybzgyQ0hhQ2IyQVhEVWlobDcxeUY1NEJ1UXZlLVR0YVBvTkxqMkNGenZaRG5lTXZRQVZFX21kWU9ZS05RMHoxSmJwTnVkcGFQcDIzSXZRME9DV3hJckt6WHJueG4xQjE3dnNWX2hYOWN6MnN1eEthcUFKTzJvM2hDbzVmbno3UURwcUZxbl9WV2t5S2prT0dpSlhlN01QeHZUZlY2U1o4?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD yazlık benzin karmasının zorunlu kullanımını sona erdirerek fiyatları düşürmeyi hedefliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-21T01:01:02.691554+00:00",
+  "type": "news",
+  "cluster_id": "c9f9b242e4a53"
+ },
+ {
   "title": "ABD Hazine Bakanı: Yaptırımlar İran ekonomisini \"ezip geçecek\" ve hükümeti \"çökertecek\"",
   "link": "https://www.bbc.com/turkce/articles/cwymr2k11k3o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-14T07:01:19.287119+00:00",
   "type": "news",
   "cluster_id": "c08c3c569e1a6"
- },
- {
-  "title": "Küresel piyasalarda gözler kritik saatte",
-  "link": "https://www.sozcu.com.tr/kuresel-piyasalarda-gozler-kritik-saatte-p336308",
-  "source": "Sözcü",
-  "summary_tr": "ABD-İran gerilimi petrol fiyatlarını 85 dolar sınırına taşıdı. Hürmüz Boğazı'ndaki belirsizlikler küresel enerji piyasalarını etkilemeye devam ediyor.",
-  "metric": "Petrol fiyatı 85 dolar seviyesinde",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-14T07:01:19.287119+00:00",
-  "type": "news",
-  "cluster_id": "c3edcd1172e6d"
  }
 ]
