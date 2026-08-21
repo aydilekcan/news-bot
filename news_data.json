@@ -1,5 +1,17 @@
 [
  {
+  "title": "Çayırhan’daki maden faciasının ardından siyasilerden tepki: ‘İş cinayetleri kader değil’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/cayirhan-daki-maden-faciasinin-ardindan-siyasilerden-tepki-is-cinayetleri-kader-degil-2531222",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ankara'nın Çayırhan madencilik tesisinde göçük sonucu 1 işçi öldü, çok sayıda yaralı var. Siyasiler iş cinayetlerini kader değil diye tepki gösterdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-21T21:01:03.412826+00:00",
+  "type": "news",
+  "cluster_id": "ca2ee4617b335"
+ },
+ {
   "title": "Bu iş ilanını gören ikinci kez baktı: Maaş 23,5 milyon TL, ev ve araba ücretsiz",
   "link": "https://www.sozcu.com.tr/bu-is-ilanini-goren-ikinci-kez-bakti-maas-23-5-milyon-tl-ev-ve-araba-ucretsiz-p351570",
   "source": "Sözcü",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-14T23:01:16.633480+00:00",
   "type": "news",
   "cluster_id": "c1bdbb3a37dff"
- },
- {
-  "title": "Ukraine downs 5 Russian ballistic missiles as Kyiv looks to boost its air defenses",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOGlUSjEtcGs2cXl3c3llbFhFNGtvcENoQkF5WTB0TVZVYnk4Y3o5TEZmcXREUjhFRFJBbDQwakM2WjF0S01nQ2ZhaWZaRXdJRk8yc3h2SVhrYTBrZkxpbGpRTWRHWm9Rc2RwRmJfOHNLREVRUzBYNDM3QjNXRF9aM0Rwb3lEc01EUDBKdWZrOVNMaElmZnh2eUI2dEZUWDdTc1pTOVVTaGFCMjN0WDJPaURrX1M?oc=5",
-  "source": "AP",
-  "summary_tr": "Ukrayna 5 Rus balistik füzesini düşürdü; hava savunması güçlendirme çalışmaları sürüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-14T23:01:16.633480+00:00",
-  "type": "news",
-  "cluster_id": "c9cbed948944f"
  }
 ]
