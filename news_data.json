@@ -1,5 +1,77 @@
 [
  {
+  "title": "Ocak 2027 emekli ve memur zammı ne kadar olacak? İşte masadaki yeni hesaplamalar",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/ocak-2027-emekli-ve-memur-zammi-ne-kadar-olacak-iste-masadaki-yeni-hesaplamalar-2531002",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ocak 2027'de emekli ve memur maaşlarına yapılacak zam oranları için TCMB verilerine dayalı yeni hesaplamalar şekillenmeye başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-21T08:01:11.892412+00:00",
+  "type": "news",
+  "cluster_id": "cc43fde66055f"
+ },
+ {
+  "title": "Chinese court in Guangzhou accepts bankruptcy case of Evergrande unit",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1NrRUwtVERSeHZlZ0lyUWtQcXYzdHZkcEd6RDY3dU5ldnducEh1YzJHZkhodVczOGxCem80NllRVWZFaHpaMjZqSjJLcFUzaEdOekNuNlJ1T0tTY2ZQWGpRLW40ejRpbzJRWVF4eEtLX0Ztc09QeGQtWDM4ZkZBc3IxSWZQNEFPSDExN010RTZacUM0SHAyU2NReS05UGRQQUtHQkNycUc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin'de Guangzhou mahkemesi, Evergrande yan kuruluşunun iflas davasını kabul etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-21T08:01:11.892412+00:00",
+  "type": "news",
+  "cluster_id": "c0a70639ce32e"
+ },
+ {
+  "title": "TÜİK'e göre tüketici güveni ağustosta arttı",
+  "link": "https://www.diken.com.tr/tuike-gore-tuketici-guveni-agustosta-artti/?utm_source=rss&utm_medium=rss&utm_campaign=tuike-gore-tuketici-guveni-agustosta-artti",
+  "source": "Diken",
+  "summary_tr": "TÜİK verilerine göre tüketici güven endeksi ağustosta aylık bazda yüzde 1 artarak 90,8'e yükseldi.",
+  "metric": "Tüketici güven endeksi: %1 artış (90,8'e)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-21T08:01:11.892412+00:00",
+  "type": "news",
+  "cluster_id": "c9f31c90db203"
+ },
+ {
+  "title": "Vergi ve SGK borçlarına 72 ay taksit imkanı: Başvurularda son tarih yaklaşıyor",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/vergi-ve-sgk-borclarina-72-ay-taksit-imkani-basvurularda-son-tarih-yaklasiyor-2531011",
+  "source": "Cumhuriyet",
+  "summary_tr": "Vergi ve SGK prim borçlarının 72 ay taksitle ödenmesi imkanında başvuru süresi bitiş tarihine yaklaşıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-21T08:01:11.892412+00:00",
+  "type": "news",
+  "cluster_id": "c2914e5b7a3f1"
+ },
+ {
+  "title": "Reel Kesim Güven Endeksi ağustosta 102,4'e yükseldi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/reel-kesim-guven-endeksi-agustosta-102-4e-yukseldi/4033516",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Mevsimsellikten arındırılmış Reel Kesim Güven Endeksi ağustosta 1,2 puan artarak 102,4 seviyesine yükseldi.",
+  "metric": "Reel Kesim Güven Endeksi: +1,2 puan (102,4'e)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-21T08:01:11.892412+00:00",
+  "type": "news",
+  "cluster_id": "c5dd65d6e79af"
+ },
+ {
+  "title": "Tüketici güven endeksi ağustosta arttı",
+  "link": "https://www.trthaber.com/haber/ekonomi/tuketici-guven-endeksi-agustosta-artti-954542.html",
+  "source": "TRT Haber",
+  "summary_tr": "Tüketici güven endeksi ağustosta aylık bazda yüzde 1 artışla 90,8'e yükseldi.",
+  "metric": "Tüketici güven endeksi: +%1 (90,8'e)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-21T08:01:11.892412+00:00",
+  "type": "news",
+  "cluster_id": "cdc93023d4d19"
+ },
+ {
   "title": "Motorine zam bekleniyor",
   "link": "https://www.diken.com.tr/motorine-zam-bekleniyor/?utm_source=rss&utm_medium=rss&utm_campaign=motorine-zam-bekleniyor",
   "source": "Diken",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-14T10:01:31.914140+00:00",
   "type": "news",
   "cluster_id": "c512570536470"
- },
- {
-  "title": "İran uçağı krizi Yemen'de dört yıldır süren ateşkesi sarsarken askeri gerilimi yeniden tırmandırdı",
-  "link": "https://www.aa.com.tr/tr/dunya/iran-ucagi-krizi-yemende-dort-yildir-suren-ateskesi-sarsarken-askeri-gerilimi-yeniden-tirmandirdi/3997442",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran'a ait uçak Husilerin kontrolündeki Sana Havalimanı'na iniş yaptı; Yemen'deki dört yıllık ateşkesi sarsan gelişme askeri gerilimi tırmandırdı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-14T10:01:31.914140+00:00",
-  "type": "news",
-  "cluster_id": "c717493676dc8"
- },
- {
-  "title": "Bahreyn ordusu: İran tarafından düzenlenen çok sayıda hava saldırısını önledik",
-  "link": "https://www.trthaber.com/haber/dunya/bahreyn-ordusu-iran-tarafindan-duzenlenen-cok-sayida-hava-saldirisini-onledik-951173.html",
-  "source": "TRT Haber",
-  "summary_tr": "Bahreyn ordusu, sabah saatlerinde İran tarafından düzenlenen çok sayıda hava saldırısını hava savunma sistemleriyle önlediğini duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-14T10:01:31.914140+00:00",
-  "type": "news",
-  "cluster_id": "c7f0fceeac101"
- },
- {
-  "title": "AKP’den çocuklara ağır ceza teklifi: 15 yaşından itibaren müebbet verilebilecek",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQjhGR0NWVXF4SjRUS3hGOFA0MFlXTHVoY2VRVUNWT05XcWduWVJTaWVlVXhNYmhpY3B6Y3dEeE9BcFdqU3Vha3FQbnBqSy1rX1AtSkJiaFFPRmlVQWU2TjFYLXhPZFBPMGxYNVR2SnBJREw2YkxrUTVOdW9fU3AtSDN0b0pkdUk3b2dMNUdlTll6c1lFdlFQekNJbDB6bmNNOXBxM3NDMFhQa01QTXU0N050eEQxUQ?oc=5",
-  "source": "soL",
-  "summary_tr": "AKP, suça sürüklenen 15 yaşındaki çocuklara müebbet ceza verilebilmesini sağlayan yasa teklifini sundu.",
-  "metric": "",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-07-14T10:01:31.914140+00:00",
-  "type": "news",
-  "cluster_id": "cf735e5043196"
- },
- {
-  "title": "Adalet Bakanı Gürlek: 'Ahbap Derneği soruşturması genişleyebilir'",
-  "link": "https://www.bbc.com/turkce/articles/c24ye7d207no?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Adalet Bakanı Gürlek, Ahbap Derneği soruşturmasının devam ettiğini ve genişleyebileceğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-14T10:01:31.914140+00:00",
-  "type": "news",
-  "cluster_id": "c938ac9f83c5e"
- },
- {
-  "title": "Gürlek: Ahbap Derneği soruşturması genişleyebilir",
-  "link": "https://www.diken.com.tr/gurlek-ahbap-dernegi-sorusturmasi-genisleyebilir/?utm_source=rss&utm_medium=rss&utm_campaign=gurlek-ahbap-dernegi-sorusturmasi-genisleyebilir",
-  "source": "Diken",
-  "summary_tr": "Adalet Bakanı Akın Gürlek, Ahbap Derneği soruşturmasının genişleyebileceğini belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-14T10:01:31.914140+00:00",
-  "type": "news",
-  "cluster_id": "c938ac9f83c5e"
- },
- {
-  "title": "Bakan Gürlek: Ahbap Derneği soruşturması genişleyebilir",
-  "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-ahbap-dernegi-sorusturmasi-genisleyebilir-951165.html",
-  "source": "TRT Haber",
-  "summary_tr": "Adalet Bakanı Akın Gürlek, Ahbap Derneği soruşturmasında MASAK raporlarının incelenmekte olduğunu ve soruşturmanın genişleyebileceğini belirtti.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-14T10:01:31.914140+00:00",
-  "type": "news",
-  "cluster_id": "c938ac9f83c5e"
  }
 ]
