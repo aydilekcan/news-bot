@@ -1,5 +1,29 @@
 [
  {
+  "title": "Bu iş ilanını gören ikinci kez baktı: Maaş 23,5 milyon TL, ev ve araba ücretsiz",
+  "link": "https://www.sozcu.com.tr/bu-is-ilanini-goren-ikinci-kez-bakti-maas-23-5-milyon-tl-ev-ve-araba-ucretsiz-p351570",
+  "source": "Sözcü",
+  "summary_tr": "Avustralya'da doktor bulabilmek için yıllık 6 milyon dolar (yaklaşık 23,5 milyon TL) maaş, ev ve araba ücretsiz sunuluyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-21T20:01:11.361237+00:00",
+  "type": "news",
+  "cluster_id": "c9629efb16ef7"
+ },
+ {
+  "title": "Dünyaca ünlü bankada taşlar yerinden oynadı: Milyon dolarlık tasfiye",
+  "link": "https://www.sozcu.com.tr/dunyaca-unlu-bankada-taslar-yerinden-oynadi-milyon-dolarlik-tasfiye-p351562",
+  "source": "Sözcü",
+  "summary_tr": "HSBC, yatırım bankacılığı alanında yeniden yapılanma kapsamında 134 üst düzey yöneticiyi işten çıkardı.",
+  "metric": "HSBC üst yönetici: 134 kişi işten çıkarıldı",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-21T20:01:11.361237+00:00",
+  "type": "news",
+  "cluster_id": "c4e60cc3dc2dc"
+ },
+ {
   "title": "Russian 'double-tap' strike on shopping centre in Ukraine kills 14",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOME1nc2ZfV3l1LXlTQ29EZlNTd3drS1ZwNHBnbTdKd3VmVG5ZYkVpWngxV1BNQWFWY3VEMk8tVUVSX215cEgwV0ZRejFmR05LalNab3dkLXNwMTVkSmxDd3hlYjRGMkVZRHBlS1lQbU15R0hCQ3lvWHNpSW5QbUNvSmRVWnZhSVlYYW5IWUJCZGFTckZTdlVDNE9Wb3JsWkFvTHRkNmVscnNFUQ?oc=5",
   "source": "Reuters",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-14T23:01:16.633480+00:00",
   "type": "news",
   "cluster_id": "c9cbed948944f"
- },
- {
-  "title": "En düşük emekli aylığı 23 bin 552 liraya yükseltilecek",
-  "link": "https://www.trthaber.com/haber/gundem/en-dusuk-emekli-ayligi-23-bin-552-liraya-yukseltilecek-951225.html",
-  "source": "TRT Haber",
-  "summary_tr": "TBMM Plan ve Bütçe Komisyonu en düşük emekli aylığını 23.552 liraya yükselttı. Emekli gelirinde somut artış kararı.",
-  "metric": "En düşük emekli aylığı -> 23.552 TL",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-14T22:01:17.285276+00:00",
-  "type": "news",
-  "cluster_id": "c4fcde65f8761"
- },
- {
-  "title": "Türkiye-Ukrayna Serbest Ticaret Anlaşması onaylandı",
-  "link": "https://www.sozcu.com.tr/turkiye-ukrayna-serbest-ticaret-anlasmasi-onaylandi-p336528",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye-Ukrayna Serbest Ticaret Anlaşması onaylandı. Ticaret ve enerji politikası düzeyinde gelişme.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-14T22:01:17.285276+00:00",
-  "type": "news",
-  "cluster_id": "c8cbba353ade5"
  }
 ]
