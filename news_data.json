@@ -1,5 +1,29 @@
 [
  {
+  "title": "Russian 'double-tap' strike on shopping centre in Ukraine kills 14",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOME1nc2ZfV3l1LXlTQ29EZlNTd3drS1ZwNHBnbTdKd3VmVG5ZYkVpWngxV1BNQWFWY3VEMk8tVUVSX215cEgwV0ZRejFmR05LalNab3dkLXNwMTVkSmxDd3hlYjRGMkVZRHBlS1lQbU15R0hCQ3lvWHNpSW5QbUNvSmRVWnZhSVlYYW5IWUJCZGFTckZTdlVDNE9Wb3JsWkFvTHRkNmVscnNFUQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya, Ukrayna'da bir alışveriş merkezine çift vuruş düzenledi; 14 kişi öldü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-21T19:00:57.868764+00:00",
+  "type": "news",
+  "cluster_id": "c41ec3f0c5c4f"
+ },
+ {
+  "title": "TBMM Başkanı Kurtulmuş: Siyonist çetenin nazarımızda zerre hükmü ve itibarı yok",
+  "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-siyonist-cetenin-nazarimizda-zerre-hukmu-ve-itibari-yok/4034234",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "TBMM Başkanı Kurtulmuş, İsrail'i kınadı ve Netanyahu hükümetinin uluslararası mahkemede hesap vereceğini söyledi.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-21T19:00:57.868764+00:00",
+  "type": "news",
+  "cluster_id": "cbd2ca5ff35cd"
+ },
+ {
   "title": "İsrail ordusu, Lübnan'ın güneyindeki birçok bölgede saldırılarını yoğunlaştırdı",
   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-lubnanin-guneyindeki-bircok-bolgede-saldirilarini-yogunlastirdi/4034181",
   "source": "Anadolu Ajansı",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-14T22:01:17.285276+00:00",
   "type": "news",
   "cluster_id": "c8cbba353ade5"
- },
- {
-  "title": "İran: İslamabad Mutabakatı ortadan kalktı",
-  "link": "https://www.trthaber.com/haber/dunya/iran-islamabad-mutabakati-ortadan-kalkti-951230.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran, ABD'nin saldırıları ve deniz ablukası nedeniyle İslamabad Mutabakatı'nı geçersiz saydığını açıkladı. Kuresel jeopolitik gelişme.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-14T22:01:17.285276+00:00",
-  "type": "news",
-  "cluster_id": "c6b9e91ab1d4d"
- },
- {
-  "title": "US stocks rise after data shows slowing inflation, even as IBM plunges",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOEF6RnpLaF9jU0tsSVNGdDZ4SW41OGZhMlplaTl3cExkUUJlS1g5Y2JveDRTbWFwa2RRWXlEdDgwTE9HNzc2aXVrdEltZ1JVcHhCdW5kd2JxOTF5MTNTb1l6ZDZIXzUxVnZaWVRjbTMtWTlRZjRCV2xORzcxYi1wNzRPdDN4cnlicno2aUhZdS1mN2R3X0F3?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD hisse senetleri enflasyon verileri zayıflarken yükseldi. Fed politikasına yönelik piyasa reaksiyonu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-14T22:01:17.285276+00:00",
-  "type": "news",
-  "cluster_id": "c937b5003c075"
  }
 ]
