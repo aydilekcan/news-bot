@@ -1,5 +1,65 @@
 [
  {
+  "title": "Ev kadınlarına emeklilik yolu açılıyor: Teklif TBMM'ye sunuldu",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/ev-kadinlarina-emeklilik-yolu-aciliyor-teklif-tbmm-ye-sunuldu-2531308",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ev kadınlarının emeklilik kapsamına alınmasını amaçlayan kanun teklifi TBMM'ye sunuldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-22T10:01:06.707175+00:00",
+  "type": "news",
+  "cluster_id": "ce6ba45a19f2d"
+ },
+ {
+  "title": "US imposes 50% tariffs on $20 billion worth of Canadian products, and Canada says it will retaliate",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZQdTRIMXVabHVfUTNldG4yeGlBSWlHNTFsNUt4WktQeHBuT1RzUUxVT3NZMTQ4ampFeFMtQVhVUDN4bXZXVWlzWXY5LTBEVTI1d29obi03ZGd2dTB6WG0zRGtsa3llaHhtVlVnRjFKYW4tOGpubG1qSWp6NWZfNG5WUVlpeGdjc0s0ck5GM0F3eWs?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD, 20 milyar dolarlık Kanada ürünlerine %50 tarife uyguladı; Kanada misilleme yapacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-22T10:01:06.707175+00:00",
+  "type": "news",
+  "cluster_id": "c9b01570543d6"
+ },
+ {
+  "title": "Ücretsiz seyahat gelir desteği yönetmeliğinde değişiklik: Yetki Çevre ve Şehircilik Bakanlığı'na geçti",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/ucretsiz-seyahat-gelir-destegi-yonetmeliginde-degisiklik-yetki-cevre-ve-sehircilik-bakanligi-na-gecti-2531316",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ücretsiz seyahat gelir desteği yönetmeliğinin yönetimi Çevre ve Şehircilik Bakanlığı'na geçti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-22T10:01:06.707175+00:00",
+  "type": "news",
+  "cluster_id": "c246daae685c9"
+ },
+ {
+  "title": "ABD, Birleşmiş Milletler'e olan 5 milyar doları aşkın borcunun bir kısmını ödemeyi planlıyor",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-birlesmis-milletlere-olan-5-milyar-dolari-askin-borcunun-bir-kismini-odemeyi-planliyor/4034498",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD, Birleşmiş Milletler'e olan 5 milyar dolardan fazla borcunun 850 milyon dolarlık kısmını ödemeyi planladığını bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-22T10:01:06.707175+00:00",
+  "type": "news",
+  "cluster_id": "cdbab75bbd56e"
+ },
+ {
+  "title": "Grevler Airbus’a geri adım attırdı: Ofise dönüş dayatması gevşetildi",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYlRQVlZudTFGUUU1amVLMXRBM2c4aGVuT2lIVnB0UUZGLVI4Rm00aG1PeFo0bWtFNmUwbWhDaE5YYU9OMDFHUGhacW1DaHNwYmVrQzN4M0pnUXR2Z3VybmZyTlhNOU1VX255SFdoS1dtVEhRcDFyWnd0U1RHT1RoaW16OWtVQVFfTEhfb0pXR2xfWkViUGRUR3lMdFRzVFdtdzctck15Yw?oc=5",
+  "source": "soL",
+  "summary_tr": "Grevlerin başarısıyla Airbus ofise dönüş dayatmasını gevşetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-22T10:01:06.707175+00:00",
+  "type": "news",
+  "cluster_id": "c5adcfa04ffc1"
+ },
+ {
   "title": "Trump'ın %50 gümrük vergisi yürürlüğe girdi: Kanada'dan bire bir karşılık tehdidi",
   "link": "https://www.bbc.com/turkce/articles/c5ydyklrng7o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-15T08:01:21.636555+00:00",
   "type": "news",
   "cluster_id": "c26d5a0accffb"
- },
- {
-  "title": "Iran threatens to block more vital seaways as Trump orders renewed Iran blockade",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUFEyN1NxTHNCaG5RT2lOTWY4WWxWd1JQUGpLdV8wY3J0RVp3RmZaN21hcm9YX1A1TWdYc3RMU3BKNV9rd0tqdnM4SEpmamFRLXJIU1NvdnhUYlo5WDFnb2dPY2JfZU5HXzBMR184ei1kSS1zeUthWmltb1VzZWhOR0lCX2FlR0NXSGUxY0gxbVJTVkw2RFo5NnZSVXFhcGYxOUhOS1BJU2gza3VYY3VHT2JEWVV2VHdCdDdmeTRyOElucVF4Mk9r?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran, Trump'ın blokad emrinin ardından Hürmüz Boğazı da dahil olmak üzere hayati deniz yollarını kapatmakla tehdit etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-07-15T08:01:21.636555+00:00",
-  "type": "news",
-  "cluster_id": "c0b7c8f23e92d"
- },
- {
-  "title": "Teknoloji devine yapay zeka şoku! 24 saate 68 milyar dolar buhar oldu",
-  "link": "https://www.sozcu.com.tr/teknoloji-devine-yapay-zeka-soku-24-saate-68-milyar-dolar-buhar-oldu-p336628",
-  "source": "Sözcü",
-  "summary_tr": "IBM hisse senedi 24 saatte 68 milyar dolar değer kaybetti; yapay zeka yazılım sektörünü olumsuz etkilediği endişesi taşıdı.",
-  "metric": "IBM piyasa değeri kaybı 68 milyar dolar (24 saatte)",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-15T08:01:21.636555+00:00",
-  "type": "news",
-  "cluster_id": "c4530603dfabd"
- },
- {
-  "title": "İran: ABD'nin son saldırılarında 30'dan fazla sivil hayatını kaybetti",
-  "link": "https://www.trthaber.com/haber/dunya/iran-abdnin-son-saldirilarinda-30dan-fazla-sivil-hayatini-kaybetti-951261.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Hükümet Sözcüsü, ABD'nin son saldırılarında 30'dan fazla sivil hayatını kaybettiğini açıkladı.",
-  "metric": "Sivil ölüm sayısı 30+",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-15T08:01:21.636555+00:00",
-  "type": "news",
-  "cluster_id": "cb742a1d7fb6f"
- },
- {
-  "title": "ABDİran gerilimi petrolde 100 dolar senaryolarını tetikledi",
-  "link": "https://www.trthaber.com/haber/ekonomi/abd-iran-gerilimi-petrolde-100-dolar-senaryolarini-tetikledi-951256.html",
-  "source": "TRT Haber",
-  "summary_tr": "Trump'ın İran'a sert tehditlerinin ardından petrol 100 dolar senaryoları gündeme geldi; ABD-İran gerilimi tırmanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-15T08:01:21.636555+00:00",
-  "type": "news",
-  "cluster_id": "c9a66acf2aa83"
- },
- {
-  "title": "Russian attack on Ukraine's Odesa kills three, official says",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeDFCUTI1UUF5a1pIUXBhV09wZTJobGNVNjRlbDhBZ0RnUVVrcWJGMEtTY01XT3FFMGlxZ3hZb1drVC1ZdWNjeHhGcTNtbmN0TUdnT21PSkwyWm1zaGRITlpaMzhmMGk3TThSb1JqV2lmdnRYYWFzRS1Wbm1xNVBGa28tdXZIUmpSUTJkVXNfaUxUelNRTGpscVNuS1FqZ0M1UDJHMXZzSQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Rusya'nın Ukrayna'nın Odesa şehrinin saldırısında 3 kişi öldü.",
-  "metric": "Ölü sayısı 3",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-15T08:01:21.636555+00:00",
-  "type": "news",
-  "cluster_id": "c5223c7877a59"
  }
 ]
