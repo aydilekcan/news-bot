@@ -1,5 +1,77 @@
 [
  {
+  "title": "Trump'ın %50 gümrük vergisi yürürlüğe girdi: Kanada'dan bire bir karşılık tehdidi",
+  "link": "https://www.bbc.com/turkce/articles/c5ydyklrng7o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Trump %50 gümrük vergisini Kanada'ya uygulamaya başladı; Kanada misilleme tehdidi veriyor.",
+  "metric": "Kanada ithalatı: 20 milyar dolar x %50 vergi",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-22T09:01:04.071512+00:00",
+  "type": "news",
+  "cluster_id": "c8335ff555822"
+ },
+ {
+  "title": "ABD: Federal mahkeme Trump'ın vize kısıtlamasını iptal etti",
+  "link": "https://www.dw.com/tr/abd-federal-mahkeme-trump-ın-vize-kısıtlamasını-iptal-etti/a-78467695?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "ABD federal mahkemesi Trump'ın 75 ülke vatandaşına vizeler kısıtlayan düzenlemesini iptal etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-22T09:01:04.071512+00:00",
+  "type": "news",
+  "cluster_id": "ce79bd86d0a57"
+ },
+ {
+  "title": "Avrupa ekonomisinde tehlike çanları çalıyor! ABD'den yayılan 40 trilyon dolarlık borç dalgası",
+  "link": "https://www.sozcu.com.tr/avrupa-ekonomisinde-tehlike-canlari-caliyor-abd-den-yayilan-40-trilyon-dolarlik-borc-dalgasi-p351682",
+  "source": "Sözcü",
+  "summary_tr": "ABD'nin 40 trilyon doları aşan rekor kamu borcu ve yükselen tahvil faizleri, Avrupa ekonomisinde risk oluşturuyor.",
+  "metric": "ABD kamu borcu: 40 trilyon dolar",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-22T09:01:04.071512+00:00",
+  "type": "news",
+  "cluster_id": "ca72b057ef099"
+ },
+ {
+  "title": "Kripto piyasasında neler oluyor? Bir haftada 500 milyar dolarlık rekor!",
+  "link": "https://www.sozcu.com.tr/kripto-piyasasinda-neler-oluyor-bir-haftada-500-milyar-dolarlik-rekor-p351676",
+  "source": "Sözcü",
+  "summary_tr": "Kripto piyasasında bir hafta içinde 500 milyar dolar rekor hacim gerçekleşti; Trump'ın sektör desteği etkili oldu.",
+  "metric": "Kripto piyasası: 500 milyar dolar haftalık hacim",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-22T09:01:04.071512+00:00",
+  "type": "news",
+  "cluster_id": "c7d380dca3639"
+ },
+ {
+  "title": "Telefon, bilgisayar, tablet... Elektronik ürünlere yeni zam dalgası yolda",
+  "link": "https://www.sozcu.com.tr/telefon-bilgisayar-tablet-elektronik-urunlere-yeni-zam-dalgasi-yolda-p351674",
+  "source": "Sözcü",
+  "summary_tr": "DDR4 bellek çip krizinden kaynaklanan yeni zam dalgası elektronik ürünleri etkileyecek; bellek fiyatları 1,62 dolardan yükselişe geçti.",
+  "metric": "DDR4 bellek: 1,62 dolar",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-22T09:01:04.071512+00:00",
+  "type": "news",
+  "cluster_id": "c434f5db7abc5"
+ },
+ {
+  "title": "Küresel piyasalarda satış baskısı etkili oldu",
+  "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-satis-baskisi-etkili-oldu-954631.html",
+  "source": "TRT Haber",
+  "summary_tr": "Jeopolitik gerilimlerin devamı, artan petrol fiyatları ve tahvil satışı baskısı küresel piyasaları etkiledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-22T09:01:04.071512+00:00",
+  "type": "news",
+  "cluster_id": "c331788b753cf"
+ },
+ {
   "title": "ABD'den Kanada'ya yüzde 50 gümrük vergisi",
   "link": "https://www.diken.com.tr/abdden-kanadaya-yuzde-50-gumruk-vergisi/?utm_source=rss&utm_medium=rss&utm_campaign=abdden-kanadaya-yuzde-50-gumruk-vergisi",
   "source": "Diken",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-15T08:01:21.636555+00:00",
   "type": "news",
   "cluster_id": "c5223c7877a59"
- },
- {
-  "title": "Ankara’da Rusya-Çin toplantısı ve Fidan’ın NATO sonrası Ukrayna seyahati",
-  "link": "https://yetkinreport.com/2026/07/15/ankarada-rusya-cin-toplantisi-ve-fidanin-nato-sonrasi-ukrayna-seyahati/",
-  "source": "YetkinReport",
-  "summary_tr": "Dışişleri Bakanı Fidan, NATO zirvesi sonrası Ukrayna'ya seyahat edecek; Rusya-Çin Ankara toplantısı planlanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-15T08:01:21.636555+00:00",
-  "type": "news",
-  "cluster_id": "c0ff36382893c"
- },
- {
-  "title": "ABD'li Temsilci, Pentagon'a 350 milyar dolarlık ek bütçeyi, 'komünizmle mücadele' söylemiyle savundu",
-  "link": "https://www.cumhuriyet.com.tr/dunya/abd-li-temsilci-pentagon-a-350-milyar-dolarlik-ek-butceyi-komunizmle-mucadele-soylemiyle-savundu-2520958",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Temsilciler Meclisi Başkanı Johnson, Pentagon'un 350 milyar dolarlık ek savunma bütçesini 'komünizmle mücadele' söylemiyle savundu.",
-  "metric": "Pentagon bütçe talebi 350 milyar dolar",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-15T08:01:21.636555+00:00",
-  "type": "news",
-  "cluster_id": "c23dda69df1a4"
- },
- {
-  "title": "Şamil Tayyar seçim tarihi verip partisini uyardı: 'Emeklilere savaş açmış olursunuz'",
-  "link": "https://www.sozcu.com.tr/samil-tayyar-secim-tarihi-verip-partisini-uyardi-emeklilere-savas-acmis-olursunuz-p336625",
-  "source": "Sözcü",
-  "summary_tr": "AKP eski Genel Başkan Yardımcısı Şamil Tayyar, seçim öncesi emeklilere yapılacak yeni zamlar nedeniyle tepki gösterdi.",
-  "metric": "En düşük emekli aylığı 23.552 TL'ye çıkarıldı",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-15T08:01:21.636555+00:00",
-  "type": "news",
-  "cluster_id": "cf0ffcd1be655"
- },
- {
-  "title": "Lithuania says Russia is planning attacks on infrastructure",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOckxRLXBWMlR0SjFYZVJlQlpkMmsySS1HQ3o0NS1YZlRuYTB2Ny1EQ05UM1NXeHBjSV90UlZnZW8yTkdvM1k2ZHlxcnhoNXhLbThzdFJXWkEwQUNlXzhDS3BhQUItSmItdlV0M0FueTF6WEpFMzRXQXdoYTlCdXlhUmNrN2hPalN0Y3RVdGxlUnpnNzZDWDAtczhCN0lQeVU?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Litvanya, Rusya'nın altyapı tesislerine yönelik saldırı planladığını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-15T08:01:21.636555+00:00",
-  "type": "news",
-  "cluster_id": "c2769966477b8"
- },
- {
-  "title": "China turns to electric taxis to soften Hormuz oil shock",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQazduaE1oajJiQ1RMcHZaMko1YzZXaG1XRXFSYzNfYlFmVXlOUGJrTGlzV2R6X3VBMXd1bDVZTkFueTJBUjM5U1JGUTNhLXhhUGZCRXhWMUM1ZEZGZExTd0pOVHdwc05HXzJONlF0RUhIZEhYMTFra04zbVZpRmtXSmlXMERWemZwOGozRVFoR2xsNWh1aFFIa09zdk1VX25ueDlNbzk5a28ycjI0UU1zbG1kVjAtZDg?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Çin, Hürmüz Boğazı krizinden etkilenmek istemiyor; elektrikli taksilere yönelişini hızlandırıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-15T08:01:21.636555+00:00",
-  "type": "news",
-  "cluster_id": "c57ba4c3aebf7"
- },
- {
-  "title": "159 kişi hakkında 'yasadışı bahis'ten gözaltı kararı: İşlem hacmi 5 milyar lira",
-  "link": "https://www.diken.com.tr/159-kisi-hakkinda-yasadisi-bahisten-gozalti-karari-islem-hacmi-5-milyar-lira/?utm_source=rss&utm_medium=rss&utm_campaign=159-kisi-hakkinda-yasadisi-bahisten-gozalti-karari-islem-hacmi-5-milyar-lira",
-  "source": "Diken",
-  "summary_tr": "Van merkezli 25 ilde yasadışı bahis operasyonunda 159 kişi hakkında gözaltı kararı; işlem hacmi 5 milyar lira.",
-  "metric": "İşlem hacmi 5 milyar lira",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-15T08:01:21.636555+00:00",
-  "type": "news",
-  "cluster_id": "c7a902a9d9478"
  }
 ]
