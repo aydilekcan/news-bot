@@ -1,5 +1,65 @@
 [
  {
+  "title": "İsrail ordusunun ateşkese rağmen Lübnan'ın güneyindeki saldırıları sürüyor",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-ateskese-ragmen-lubnanin-guneyindeki-saldirilari-suruyor/4034864",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusu, Lübnan'la ateşkes anlaşmasına rağmen güneye yönelik hava saldırıları ve topçu atışlarını sürdürüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-22T22:00:58.670446+00:00",
+  "type": "news",
+  "cluster_id": "ca854e859eb78"
+ },
+ {
+  "title": "ABD’de Trump yönetimine vize darbesi: 75 ülkeye yönelik uygulama iptal edildi",
+  "link": "https://www.cumhuriyet.com.tr/dunya/abd-de-trump-yonetimine-vize-darbesi-75-ulkeye-yonelik-uygulama-iptal-edildi-2531470",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD federal mahkemesi, Trump yönetiminin 75 ülkeden gelen göçmen vizelerini askıya alma kararını durdurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-22T22:00:58.670446+00:00",
+  "type": "news",
+  "cluster_id": "c69d5368136d0"
+ },
+ {
+  "title": "ABD mahkemesi Trump'ın 75 ülkeden gelen göçmen vizelerini askıya alma kararını durdurdu",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-mahkemesi-trumpin-75-ulkeden-gelen-gocmen-vizelerini-askiya-alma-kararini-durdurdu/4034863",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD mahkemesi, Trump yönetiminin 75 ülkeden göçmen vizelerini askıya alma kararını durdurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-22T22:00:58.670446+00:00",
+  "type": "news",
+  "cluster_id": "c5c38ec4b46a0"
+ },
+ {
+  "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Nvidia müşterilerine yapay zeka ürünlerinde %15'in üzerinde fiyat artışı bildirimi yapıldı.",
+  "metric": "Nvidia AI ürün fiyatları %15+ artış",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-22T22:00:58.670446+00:00",
+  "type": "news",
+  "cluster_id": "cf52b150e19c7"
+ },
+ {
+  "title": "A trade war between Canada and the US further ruptures a once-close and durable alliance",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVlYNWswSUYyM3pKRmI0SGpaU3k2WEVGa19ubU5fZmNRclBiMUpRcHFnRGU4SzZoLVVVbWxsR25fTHZ1NzI1ZUswYVdXUk85MnpTc1NpakhqSC1OMk1KMG5CcGdmaF90TVIyanhiWUNweTRzVVhFQXJhaXllQnlOMFo1Z2ktRmZKNEdpTEtWb2IzVmFaQ1RuS2pOLTJPcVdmWEE?oc=5",
+  "source": "AP",
+  "summary_tr": "Kanada-ABD arasında ticaret savaşı, tarihsel ittifakı ciddi şekilde zayıflatıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-22T22:00:58.670446+00:00",
+  "type": "news",
+  "cluster_id": "cbe4ca090ac33"
+ },
+ {
   "title": "İmamoğlu'ndan gençlere 'YENİ Parti' çağrısı: 'Kenetlenin'",
   "link": "https://www.cumhuriyet.com.tr/turkiye/imamoglu-ndan-genclere-yeni-parti-cagrisi-kenetlenin-2531460",
   "source": "Cumhuriyet",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-15T14:01:20.614102+00:00",
   "type": "news",
   "cluster_id": "ce46d60b60e85"
- },
- {
-  "title": "Ülke füze fabrikalarında seri üretimi başlıyor: 11 bin adet üretecekler",
-  "link": "https://www.sozcu.com.tr/ulke-fuze-fabrikalarinda-seri-uretimi-basliyor-11-bin-adet-uretecekler-p336761",
-  "source": "Sözcü",
-  "summary_tr": "ABD Hava Kuvvetleri, füze fabrikalarında 11 bin adet seri üretimi başlatıyor.",
-  "metric": "Füze üretim hedefi: 11.000 adet",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-15T14:01:20.614102+00:00",
-  "type": "news",
-  "cluster_id": "c3ed4a4d43d10"
- },
- {
-  "title": "Son dakika: Hüseyin Can Güner görevden uzaklaştırıldı!",
-  "link": "https://www.sozcu.com.tr/son-dakika-huseyin-can-guner-gorevden-uzaklastirildi-p336756",
-  "source": "Sözcü",
-  "summary_tr": "Çankaya Belediye Başkanı Hüseyin Can Güner, operasyonda tutuklanarak görevinden uzaklaştırıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-15T14:01:20.614102+00:00",
-  "type": "news",
-  "cluster_id": "c85364ca31fa6"
- },
- {
-  "title": "Tutuklanan Çankaya Belediye Başkanı Hüseyin Can Güner görevden uzaklaştırıldı",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTW1ZdVBEQUZHd1cyS3N3RHFmb0pILTREMmJ0UFZGVmhQSlRQX084TXFnQktPeHFVLXBNdFBPTUJZYTVNUk5YTUV2UzRkMzVNenF4Zm56VkZsN2tvUmhBZUs3T2R1SXhHZGJ2X2Y4RmFkYnpCcFRfTmt5LTBxa0pPVQ?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Çankaya Belediye Başkanı Hüseyin Can Güner tutuklanarak görevinden uzaklaştırıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-15T14:01:20.614102+00:00",
-  "type": "news",
-  "cluster_id": "c85364ca31fa6"
- },
- {
-  "title": "15 Temmuz'da ABD Büyükelçisi olan Kılıç, Obama yönetiminin ilk açıklamalarının talihsiz olduğunu söyledi",
-  "link": "https://www.aa.com.tr/tr/dunya/15-temmuzda-abd-buyukelcisi-olan-kilic-obama-yonetiminin-ilk-aciklamalarinin-talihsiz-oldugunu-soyledi/3999066",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "15 Temmuz sırasında ABD Büyükelçisi olan Serdar Kılıç, Obama yönetiminin ilk açıklamalarının talihsiz olduğunu söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-15T14:01:20.614102+00:00",
-  "type": "news",
-  "cluster_id": "cce53530d2757"
- },
- {
-  "title": "Çankaya Belediye Başkanı Güner görevinden uzaklaştırıldı",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR1UtT2pJTE1uVjFudFRqMEtEdlREYmpZUXlnazdUeTNoWmJxNzRZODhsUTRvXzZ5OXY2ZFhOdDRkZ2U2b3gxeE1XQXE4TkdvT1c0YzhxbUN4aDlvNHRpTGlDWFlETW9zOWJycVA0ZFl2SjhZVTVxblJBUGhoRFFvZ0MxU1hXUTZ3ZUIydGZBOW02cHFHcGlwanVR?oc=5",
-  "source": "soL",
-  "summary_tr": "Çankaya Belediye Başkanı Güner görevinden uzaklaştırıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-15T14:01:20.614102+00:00",
-  "type": "news",
-  "cluster_id": "cce726298f144"
  }
 ]
