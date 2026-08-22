@@ -1,5 +1,29 @@
 [
  {
+  "title": "Trump says Iran not ready to make the 'right deal'",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, İran'ın 'doğru anlaşma' yapmaya hazır olmadığını söyledi. Başkan, yaklaşan Xi görüşmesinden önce bu açıklamayı yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-22T04:01:01.155527+00:00",
+  "type": "news",
+  "cluster_id": "c7a32c68214b2"
+ },
+ {
+  "title": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZVZ5QXlJdUphUk9mZFZtcDlkNXZyY2gzLUFwV0tQSjllVks1bS1GMm41Q2RYamZGcTBJMEtDa1JfREpJSFNvTkQtTjBZZFg0UXpWRjFDQ2RwU3Q3enlkWkVMUEluU2FRTmhCdFk1cFdGSzlVMW5KanEtRjdWajAxVHN3NGhzSXdlNEFwRTVlTU80VlBzV3BBQkd5Ui0?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Donanması, Xi-Trump görüşmesinden önce Taiwan Boğazı'nda transit geçişi gerçekleştirdi. Bölgesel gerilimi artıran askeri hamle.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-22T04:01:01.155527+00:00",
+  "type": "news",
+  "cluster_id": "cd163be0646f2"
+ },
+ {
   "title": "İttifak planlarına İYİ Parti freni: ‘İktidara koz vermeyin, rakibe planınızı göstermeyin’",
   "link": "https://www.cumhuriyet.com.tr/turkiye/ittifak-planlarina-iyi-parti-freni-iktidara-koz-vermeyin-rakibe-planinizi-gostermeyin-2531232",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-15T05:01:11.083036+00:00",
   "type": "news",
   "cluster_id": "ccbdef5d423d7"
- },
- {
-  "title": "Inflation cools more than expected in June as gas costs fall, underlying prices ease",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0ZNbFlHYm1IRUhtaVZuak9fcUVtc0UySC1qWnN6Snk2Rzl1NEFQWU9DblNXVGNVak8wNDNCVEwzRFUtc0xVM0xWWUFEMGFWSzlzcDdJYVQ5U0FxMHkxVDZ6YnpJNmNvdWhJRFlsMWpXYUoyRVd3SVVQS0xuNEdiMWdERkh3VDhHMXNjNDV4c0xURVBfOHc?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD'de Haziran enflasyonu beklentileri aşarak düşüş gösterdi. Gaz maliyetleri düşerken temel fiyatlar da yumuşadı, Fed politikası açısından önemli bir sinyal taşıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-15T04:01:15.540213+00:00",
-  "type": "news",
-  "cluster_id": "c5fdb9cecd9ce"
- },
- {
-  "title": "EXCLUSIVE: Stripe, Advent offer to buy PayPal for more than $53 billion, sources say",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeTJ6Wng1a0VaQXRFS3dXYml0Vk1TWTZEYWxOTElCNzJhNU5xamNacW0yczJVT3RZZ2oxcnE0VVhkTEYtS1FZWFIxZTJHNjNaXzVoci00aTNGcEFpTFRXcE1xaVA1cEZ1ZmFKZWRKcm1LcU0wUGZIRXJEMDdXaUM5ektPWUhaQU5mZmMxdWZIYTB3a2hqWlpfR3d3V0tIQWs0SmhKcVpuTVdfbS1VVEx2RjI5RXVkTFk?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Stripe ve Advent, PayPal'ı satın almak için 53 milyar dolardan fazla bir teklif sundu. Girişim, finansal teknoloji sektörünün önemli bir birleşme adımını temsil ediyor.",
-  "metric": "PayPal satın alma teklifi $53 milyard+",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-15T04:01:15.540213+00:00",
-  "type": "news",
-  "cluster_id": "c5bf30de6dc44"
  }
 ]
