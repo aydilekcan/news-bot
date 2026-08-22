@@ -1,5 +1,77 @@
 [
  {
+  "title": "İran’dan Trump’ın tehdidine yanıt: Komşularımızdan çok sayıda mesaj aldık",
+  "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-trump-in-tehdidine-yanit-komsularimizdan-cok-sayida-mesaj-aldik-2531344",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran Meclis Başkanı Kalibaf, Trump'ın tehditlerine rağmen komşu ülkelerden yeni güvenlik ve ekonomik işbirliği mesajları aldıklarını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-22T12:01:02.329236+00:00",
+  "type": "news",
+  "cluster_id": "c43a83492bc4b"
+ },
+ {
+  "title": "İran Meclis Başkanı'ndan \"komşu ülkelerden, yeni güvenlik ve ekonomik işbirliği mesajları aldık\" açıklaması",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-meclis-baskanindan-komsu-ulkelerden-yeni-guvenlik-ve-ekonomik-isbirligi-mesajlari-aldik-aciklamasi/4034575",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Meclis Başkanı Kalibaf, Trump'ın tehditlerine rağmen komşu ülkelerden yeni güvenlik ve ekonomik işbirliği mesajları aldıklarını bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-22T12:01:02.329236+00:00",
+  "type": "news",
+  "cluster_id": "cf0a9a4658fd4"
+ },
+ {
+  "title": "Kalibaf: Komşu ülkelerden, yeni güvenlik ve ekonomik işbirliği mesajları aldık",
+  "link": "https://www.trthaber.com/haber/dunya/kalibaf-komsu-ulkelerden-yeni-guvenlik-ve-ekonomik-isbirligi-mesajlari-aldik-954646.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Meclis Başkanı Kalibaf, Trump'ın tehditlerine rağmen komşu ülkelerden yeni güvenlik ve ekonomik işbirliği mesajları aldıklarını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-22T12:01:02.329236+00:00",
+  "type": "news",
+  "cluster_id": "cf0a9a4658fd4"
+ },
+ {
+  "title": "Vergi denetiminde rekor artış",
+  "link": "https://www.sozcu.com.tr/vergi-denetiminde-rekor-artis-p351721",
+  "source": "Sözcü",
+  "summary_tr": "Vergi müfettişleri yılın ilk yarısında 354,2 milyar liralık matrah farkını tespit etti.",
+  "metric": "Vergi tespiti: 354,2 milyar TL",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-22T12:01:02.329236+00:00",
+  "type": "news",
+  "cluster_id": "c86d50c260bf4"
+ },
+ {
+  "title": "Vergi müfettişleri, yılın ilk 6 ayında 354,2 milyar liralık matrah farkını ortaya çıkardı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/vergi-mufettisleri-yilin-ilk-6-ayinda-354-2-milyar-liralik-matrah-farkini-ortaya-cikardi/4034587",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Vergi müfettişleri yılın ilk 6 ayında 354,2 milyar liralık matrah farkını tespit etti.",
+  "metric": "Vergi tespiti: 354,2 milyar TL",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-22T12:01:02.329236+00:00",
+  "type": "news",
+  "cluster_id": "cb7047aeaadb3"
+ },
+ {
+  "title": "Vergi müfettişleri 354,2 milyar liralık matrah farkını tespit etti",
+  "link": "https://www.trthaber.com/haber/ekonomi/vergi-mufettisleri-3542-milyar-liralik-matrah-farkini-tespit-etti-954649.html",
+  "source": "TRT Haber",
+  "summary_tr": "Vergi müfettişleri yılın ilk yarısında 354,2 milyar liralık matrah farkını tespit etti.",
+  "metric": "Vergi tespiti: 354,2 milyar TL",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-22T12:01:02.329236+00:00",
+  "type": "news",
+  "cluster_id": "cb7047aeaadb3"
+ },
+ {
   "title": "YENİ Parti Gaziantep Milletvekili Melih Meriç yoğun bakımda: Ambulans uçakla İstanbul'a sevk edilecek",
   "link": "https://www.cumhuriyet.com.tr/turkiye/yeni-parti-gaziantep-milletvekili-melih-meric-yogun-bakimda-ambulans-ucakla-istanbul-a-sevk-edilecek-2531331",
   "source": "Cumhuriyet",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-15T10:01:19.704598+00:00",
   "type": "news",
   "cluster_id": "cb32664ed7516"
- },
- {
-  "title": "Petrol krizinden sonra artınca set çektiler: Ya tazminat ya para cezası",
-  "link": "https://www.sozcu.com.tr/petrol-krizinden-sonra-artinca-set-cektiler-ya-tazminat-ya-para-cezasi-p336687",
-  "source": "Sözcü",
-  "summary_tr": "İran-ABD çatışması petrol fiyatlarını artırdı. Araç içi kameralar talebi arttı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-15T10:01:19.704598+00:00",
-  "type": "news",
-  "cluster_id": "cac533c188399"
- },
- {
-  "title": "Türkiye, turist sayısını en fazla artıran ülkeler arasında 4'üncü sırada",
-  "link": "https://www.trthaber.com/haber/ekonomi/turkiye-turist-sayisini-en-fazla-artiran-ulkeler-arasinda-4uncu-sirada-951270.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye OECD raporuna göre turist sayısını yüzde 21 artırarak en fazla büyüme kaydeden ülkeler arasında 4'üncü sırada.",
-  "metric": "Türkiye turist sayısı artışı +%21",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-15T10:01:19.704598+00:00",
-  "type": "news",
-  "cluster_id": "c08650f3896ed"
- },
- {
-  "title": "Memurların 14 günlük maaş farkı hesaplandı: İşte meslek meslek tam liste...",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/memurlarin-14-gunluk-maas-farki-hesaplandi-iste-meslek-meslek-tam-liste-2520985",
-  "source": "Cumhuriyet",
-  "summary_tr": "Memur ve emekli memurlar temmuz ayında %13,52 zam aldı; 14 günlük maaş farkı hesaplandı.",
-  "metric": "Memur zam oranı: %13,52",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-15T09:01:14.772382+00:00",
-  "type": "news",
-  "cluster_id": "cd1c42c868530"
- },
- {
-  "title": "İran savaşında yeni eşik: Hürmüz’den sonra Babülmendep de kapanabilir",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWm5UeGx1OTIxZzEyZmYxa1ZobGJOWmFPNE5XS01QblhpZDF1V3FXOXJSMHlrYllBYWMxNGJMeUJhVzJ4eW5PaERsNGRLaWF5bUxLLThYVG5lNWVZNXdsNGVfVnhWazZFZDA1TkljT0FGNWRHbUV6VS1LQThUUHJxaTk3N3dRbGR5bXhBc0w4XzRGUm9JVkNPNVQ2Z3p6QXYyRlh5dTc0Sm0?oc=5",
-  "source": "soL",
-  "summary_tr": "İran savaşında stratejik deniz boğazları tehdit altında: Hürmüz'den sonra Babülmendep de kapanabilir.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-15T09:01:14.772382+00:00",
-  "type": "news",
-  "cluster_id": "c70c0547c15ff"
- },
- {
-  "title": "Halkın bütçesi enerji şirketlerine: Patronlara vergi kıyağı",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTmswd3F6bUdXQVQza1VtRmx4Y3BySmpUbnNJMFV3amdIM1hWTTJ5aXY2Ulcydy03aDN6Y0M1Tkd4dEJqRGFxOEpHVDZHNVNGMVlib2dUeUQ4T2lZNGcxd25OdFhDbU9jbmJfQW50NjdENmQwY2d5cmt1QWxING9zNGVRODhIanQtU3NDeFIxVUZ6WDdCYVZTX0V3OGY?oc=5",
-  "source": "soL",
-  "summary_tr": "Enerji şirketlerine vergi kıyağı uygulanırken halkın bütçesi enerji kesintisine uğruyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-15T09:01:14.772382+00:00",
-  "type": "news",
-  "cluster_id": "c7bc6dcf96e05"
- },
- {
-  "title": "Gümüşte sürpriz... Yüzde 20 artış bekleniyor",
-  "link": "https://www.sozcu.com.tr/gumus-yatirimcisini-bekleyen-buyuk-kriz-6-yildir-bitmeyen-acik-p336665",
-  "source": "Sözcü",
-  "summary_tr": "Gümüş fiyatlarında %20 artış bekleniyor; ABD enflasyonundaki yavaşlama ve zayıflayan dolar destek veriyor.",
-  "metric": "Gümüş fiyatı beklenen artış: %20",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-15T09:01:14.772382+00:00",
-  "type": "news",
-  "cluster_id": "c8723f9ed0f50"
  }
 ]
