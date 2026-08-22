@@ -1,5 +1,29 @@
 [
  {
+  "title": "YENİ Parti Gaziantep Milletvekili Melih Meriç yoğun bakımda: Ambulans uçakla İstanbul'a sevk edilecek",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/yeni-parti-gaziantep-milletvekili-melih-meric-yogun-bakimda-ambulans-ucakla-istanbul-a-sevk-edilecek-2531331",
+  "source": "Cumhuriyet",
+  "summary_tr": "YENİ Parti Gaziantep Milletvekili Melih Meriç bıçaklı saldırıya uğrayarak yoğun bakıma alındı; İstanbul'a sevk edilecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-22T11:01:06.489724+00:00",
+  "type": "news",
+  "cluster_id": "c7cd7073baa09"
+ },
+ {
+  "title": "Yurt dışı ÜFE (aylık): %2,51 (Temmuz)",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV2l2VllVWVpYUGlRZEg3czVtaU5aU0VrcDZ5R3ZpbVItUzFjeXNPWUFCS0pENW5VcjhzN2gyT0Y1MG9WekJoWjIyaEZYbzZyVXNpb05Rb3FWeTNPMkJhVkU3VXBnS1pEamhCa1oteE85SEhEcFlKeEpDMmZPWHJmQ2lzal9qYzZsUjBKLQ?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%−9,02 → %2,51 (-6,5 puan)",
+  "metric": "-6,5 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-22T11:01:06.489724+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Ev kadınlarına emeklilik yolu açılıyor: Teklif TBMM'ye sunuldu",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/ev-kadinlarina-emeklilik-yolu-aciliyor-teklif-tbmm-ye-sunuldu-2531308",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-15T09:01:14.772382+00:00",
   "type": "news",
   "cluster_id": "c8723f9ed0f50"
- },
- {
-  "title": "Türkiye sağlık turizminde yılın ilk çeyreğinde 761,5 milyon dolar gelir elde etti",
-  "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-saglik-turizminde-yilin-ilk-ceyreginde-761-5-milyon-dolar-gelir-elde-etti/3998615",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye sağlık turizminde 2026 ilk çeyreğinde 761,5 milyon dolar gelir elde etti; 302 bin 487 uluslararası hastaya hizmet sağlandı.",
-  "metric": "Sağlık turizmi geliri: 761,5 milyon dolar",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-15T09:01:14.772382+00:00",
-  "type": "news",
-  "cluster_id": "cf44ccf9ad7bd"
- },
- {
-  "title": "İran: Saldırılar şiddetlendi, Hürmüz yeniden ablukada",
-  "link": "https://www.dw.com/tr/iran-saldırılar-şiddetlendi-hürmüz-yeniden-ablukada/a-77962174?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "ABD ve İran arasında karşılıklı saldırılar dördüncü gün devam ediyor; Hürmüz Boğazı yeniden gerginlik altında.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-07-15T08:01:21.636555+00:00",
-  "type": "news",
-  "cluster_id": "c26d5a0accffb"
  }
 ]
