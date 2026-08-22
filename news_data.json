@@ -1,5 +1,41 @@
 [
  {
+  "title": "İmamoğlu'ndan gençlere 'YENİ Parti' çağrısı: 'Kenetlenin'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/imamoglu-ndan-genclere-yeni-parti-cagrisi-kenetlenin-2531460",
+  "source": "Cumhuriyet",
+  "summary_tr": "İmamoğlu, gençleri YENİ Parti'ye katılım ve kurucu üye olma çağrısında bulundu.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-22T21:01:04.828658+00:00",
+  "type": "news",
+  "cluster_id": "c5988c98b3664"
+ },
+ {
+  "title": "Melih Meriç kimdir, kaç yaşında, nereli? YENİ Parti Gaziantep Milletvekili Melih Meriç'in sağlık durumu nasıl?",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/melih-meric-kimdir-kac-yasinda-nereli-yeni-parti-gaziantep-milletvekili-melih-meric-in-saglik-durumu-nasil-2531451",
+  "source": "Cumhuriyet",
+  "summary_tr": "YENİ Parti Gaziantep Milletvekili Melih Meriç, bıçaklı saldırı sonrası İstanbul'da yoğun bakıma alındı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-22T21:01:04.828658+00:00",
+  "type": "news",
+  "cluster_id": "cb65776594e1b"
+ },
+ {
+  "title": "Ankara’da dikkat çeken buluşma: 5 lider bir araya geldi",
+  "link": "https://www.sozcu.com.tr/ankara-da-dikkat-ceken-bulusma-5-lider-bir-araya-geldi-p351792",
+  "source": "Sözcü",
+  "summary_tr": "Zafer Partisi, Milli Yol Partisi, BTP ve diğer partilerin liderleri Ankara'da bir araya geldi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-22T21:01:04.828658+00:00",
+  "type": "news",
+  "cluster_id": "c46e7caf582d2"
+ },
+ {
   "title": "Russian and Ukrainian attacks kill 10 people, a day after deadly shopping mall drone strike",
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVURpSFQ4WnVGVmZkQzdrYS1FTUVNdHRIREZWYU1iek1RV24tNjlINGRZSHU3bElZSFBHVHFTQklmdXRlaGk2eWFoM2NUWWVRTGkzbjdxM1FkTXFpM0hDOTBXaDZsQXFZZEJLcGtLai16ZjZHQmtpcVhLOG1Yc2dpSzJQSi1ObWNIT2xMbkwxQmxha0RmV0ZfNWFwQjFpeFNJ?oc=5",
   "source": "AP",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-15T14:01:20.614102+00:00",
   "type": "news",
   "cluster_id": "cce726298f144"
- },
- {
-  "title": "Ukraine's Black Sea ports lose a third of grain export capacity, farmers' union says",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2kzU2cwR0FiODVZSXN2Y0h0MFd3MVJndk9TYmFaNzJldXhaVXdWYkJiejdhY3l6VVRXTEoxaFZmWUhySWx1WWpZRmlwdlFXZ3prTTdnNHQyZlVkYVhhOGdiQU5Lc2liMy1hRlJ6Tll3RFpLWmtZU2U4SGNPUGlBX1hnbG5OcVhHcUlIc01nS2d4dklhMXdOUE11eHAzS0JRQ0hvNEp0THpuaUpQblJMM0ctT2FHOGpES1E?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ukrayna'nın Karadeniz limanları, tahıl ihraç kapasitesinin üçte birini kaybetti.",
-  "metric": "Tahıl ihracat kapasitesi kaybı: -1/3",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-15T14:01:20.614102+00:00",
-  "type": "news",
-  "cluster_id": "cbce3bb8a219a"
- },
- {
-  "title": "Dimon-led JPMorgan poised to become world's first $1 trillion bank",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb1Y4WHpBM3NITExTaUVQcW5Gc1Z6bXJ1Wk9KREhrMWZhYl8xNURNVmtUc1d2LVdVZ3FIMG00Smo5UXJDZkdSajF1WGp5Ui1fRGVZcjk0NUNyZjJEaE84LTJSUjF5Y3FhNmVyR2tUeUk5Si1pbkJOSURXaWdLRVJZMHJyeVpvempQR0RMVEIxcUV0OVo2dUNCVnhpdWZnMEhHSU95RmhHaTNxLTdsazBzUF9fWEVYNmM1?oc=5",
-  "source": "Reuters",
-  "summary_tr": "JPMorgan, dünya tarihinin ilk 1 trilyon dolarlık bankası olmaya hazırlanıyor.",
-  "metric": "JPMorgan varlık hedefi: 1 trilyon dolar",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-15T14:01:20.614102+00:00",
-  "type": "news",
-  "cluster_id": "c903a787aadf7"
- },
- {
-  "title": "US launches new round of strikes against Iran as escalation threatens shipping",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUFEyN1NxTHNCaG5RT2lOTWY4WWxWd1JQUGpLdV8wY3J0RVp3RmZaN21hcm9YX1A1TWdYc3RMU3BKNV9rd0tqdnM4SEpmamFRLXJIU1NvdnhUYlo5WDFnb2dPY2JfZU5HXzBMR184ei1kSS1zeUthWmltb1VzZWhOR0lCX2FlR0NXSGUxY0gxbVJTVkw2RFo5NnZSVXFhcGYxOUhOS1BJU2gza3VYY3VHT2JEWVV2VHdCdDdmeTRyOElucVF4Mk9r?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, İran'a karşı yeni bir hava saldırısı turu başlattı; uluslararası denizcilik güvenliğinde yükselen gerginlik tehdidi oluşturuyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-15T13:01:20.721012+00:00",
-  "type": "news",
-  "cluster_id": "c578ef110f05e"
  }
 ]
