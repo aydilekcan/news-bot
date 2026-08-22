@@ -1,5 +1,53 @@
 [
  {
+  "title": "Putin, ülkesinin \"sahadaki gerçekler temelinde\" barış görüşmelerine hazır olduğunu belirtti",
+  "link": "https://www.aa.com.tr/tr/dunya/putin-ulkesinin-sahadaki-gercekler-temelinde-baris-gorusmelerine-hazir-oldugunu-belirtti/4034757",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Rusya Devlet Başkanı Putin, ülkesinin 'sahadaki gerçekler temelinde' barış görüşmelerine hazır olduğunu ancak kendilerine iletilen tekliflerin 'egzotik' ve kabul edilemez olduğunu belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-22T17:01:02.117782+00:00",
+  "type": "news",
+  "cluster_id": "c8c905c7ea23c"
+ },
+ {
+  "title": "Canada to impose retaliatory tariffs across a raft of US sectors, Carney says",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Kanada, ABD ile ticari gerginliğin derinleşmesine yanıt olarak birçok ABD sektörüne misilleme tarifeleri uygulayacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-22T17:01:02.117782+00:00",
+  "type": "news",
+  "cluster_id": "cc9d0fdd85f72"
+ },
+ {
+  "title": "US and Canada fall deeper into a trade war with new tariffs as talks collapse and blame is spread",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZQdTRIMXVabHVfUTNldG4yeGlBSWlHNTFsNUt4WktQeHBuT1RzUUxVT3NZMTQ4ampFeFMtQVhVUDN4bXZXVWlzWXY5LTBEVTI1d29obi03ZGd2dTB6WG0zRGtsa3llaHhtVlVnRjFKYW4tOGpubG1qSWp6NWZfNG5WUVlpeGdjc0s0ck5GM0F3eWs?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD ve Kanada arasında ticaret savaşı derinleşti; görüşmeler çöktü ve yeni tarifeler uygulamaya kondu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-22T17:01:02.117782+00:00",
+  "type": "news",
+  "cluster_id": "c296c8e5f03e8"
+ },
+ {
+  "title": "France agrees to accelerate air defence deliveries to Ukraine, Zelenskiy says",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbFdqVktrVmFsQ09keFFUalBaQVBlbkVLSlo1dEM1MExpaURaNkw4bmlTSFpfbGJpcjN1T3R4Z2dpUTNzQWlwc3hUNFhQTlhidTlOZ0ZWZGRleXp0YUdXRmdFS1hXVUY5X0t5d3c2eVdUQ2dFRi1ZRlZ0QUlwdS1UbWZnQ2h6TWhnRmZQSmlSUmZJaGRVaUM2Nk8yM1REOHF6SmpfbU1Wa05rN19nNUpOSE9sdw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Fransa, Zelenskiy'in duyurusuyla Ukrayna'ya hava savunma sistemi teslimatlarını hızlandırmayı kabul etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-22T17:01:02.117782+00:00",
+  "type": "news",
+  "cluster_id": "c71d8988d3feb"
+ },
+ {
   "title": "Karadeniz'deki Türk gemileri saldırı kıskacında",
   "link": "https://www.dw.com/tr/karadeniz-deki-türk-gemileri-saldırı-kıskacında/a-78470871?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-15T13:01:20.721012+00:00",
   "type": "data",
   "cluster_id": ""
- },
- {
-  "title": "Gazprom hisselerinde 17 yılın en sert düşüşü! Kritik boru hattı iddiası piyasayı sarstı",
-  "link": "https://www.sozcu.com.tr/gazprom-hisselerinde-17-yilin-en-sert-dususu-kritik-boru-hatti-iddiasi-piyasayi-sarsti-p336723",
-  "source": "Sözcü",
-  "summary_tr": "Rus enerji devi Gazprom'un hisseleri, Sibirya'nın Gücü 2 doğal gaz boru hattı projesine ilişkin görüşmelerin askıya alınması nedeniyle 17 yılın en sert düşüşünü kaydetti.",
-  "metric": "Gazprom hisseleri 17 yılın en düşük seviyesine geriledi",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-15T12:01:14.146131+00:00",
-  "type": "news",
-  "cluster_id": "c18d5d0aa75d8"
- },
- {
-  "title": "Gazprom hisseleri 17 yılın en düşük seviyesine geriledi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/gazprom-hisseleri-17-yilin-en-dusuk-seviyesine-geriledi/3998928",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Gazprom'un hisse değeri, Sibirya'nın Gücü 2 doğal gaz boru hattının görüşmelerinin askıya alınması nedeniyle 17 yılın en düşük seviyesine inmiştir.",
-  "metric": "Gazprom hisseleri 17 yılın en düşük seviyesine geriledi",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-15T12:01:14.146131+00:00",
-  "type": "news",
-  "cluster_id": "c68ca8fd40c9d"
- },
- {
-  "title": "Iran threatens to halt Mideast energy exports after US reimposes a blockade and intensifies strikes",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc0ZjN3ZmUVdvbVVLMXFrejJubVRQczZPdVF0QkVwQ3B4SkdNWERtQU5Na0NFWGdrZ0pjU0w1MC05SjhpOHRRVDRZY2lDQkFnRERXWGR6QmlIcV9LaDBQcFdhTThxejdyUDFVbDNBZVlfR0I1Vmg1U19HWERQbnBqUFJJSmpoM2w5VDNacHA4RWZSalpUQ0xwTEpKazJMeGM?oc=5",
-  "source": "AP",
-  "summary_tr": "İran, ABD'nin yeniden uyguladığı ambargo ve yoğunlaştırılan saldırılar sonrasında Orta Doğu enerji ihracatını durdurma tehdidinde bulundu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-15T12:01:14.146131+00:00",
-  "type": "news",
-  "cluster_id": "cbb886c5e97d9"
- },
- {
-  "title": "Mahfi Eğilmez'den kritik soruya yanıt: TL mevduatı mı, dolar mı?",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/mahfi-egilmez-den-kritik-soruya-yanit-tl-mevduati-mi-dolar-mi-2521036",
-  "source": "Cumhuriyet",
-  "summary_tr": "İktisatçı Mahfi Eğilmez, yüksek faiz ortamında Türk Lirası mevduat ve döviz tercihi konusunda analiz yaparak tasarruf sahiplerinin merak ettiği soruya yanıt verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-15T12:01:14.146131+00:00",
-  "type": "news",
-  "cluster_id": "c069c5c656da2"
  }
 ]
