@@ -1,5 +1,29 @@
 [
  {
+  "title": "Putin’den Ukrayna barışına yeşil ışık: Tek şartını açıkladı",
+  "link": "https://www.sozcu.com.tr/putin-den-ukrayna-barisina-yesil-isik-tek-sartini-acikladi-p351782",
+  "source": "Sözcü",
+  "summary_tr": "Putin, Ukrayna ile barış müzakerelerine kapıyı açık tuttuğunu, ancak müzakerelerin savaş alanındaki duruma bağlı olduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-22T19:01:00.709846+00:00",
+  "type": "news",
+  "cluster_id": "c5d1d6c28677a"
+ },
+ {
+  "title": "Canada to impose retaliatory tariffs on US steel, electronics, other products, Carney says",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Kanada, ABD'nin çelik, elektronik ve diğer ürünlerine karşı karşılık tariffler uygulamaya hazırlanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-22T19:01:00.709846+00:00",
+  "type": "news",
+  "cluster_id": "c99e3022380a5"
+ },
+ {
   "title": "Kanada Başbakanı Carney ABD'nin tarifelerine yanıt vereceklerini söyledi",
   "link": "https://www.aa.com.tr/tr/dunya/kanada-basbakani-carney-abdnin-tarifelerine-yanit-vereceklerini-soyledi/4034793",
   "source": "Anadolu Ajansı",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-15T13:01:20.721012+00:00",
   "type": "news",
   "cluster_id": "c553e838ca9e4"
- },
- {
-  "title": "ABD için kritik veri açıklandı: Altın yükselişe geçti",
-  "link": "https://www.sozcu.com.tr/abd-icin-kritik-veri-aciklandi-p336750",
-  "source": "Sözcü",
-  "summary_tr": "ABD'de Üretici Fiyat Endeksi (ÜFE) haziranda aylık bazda %0,3 azalırken, yıllık bazda %5,5 artarak beklentilerin altında gerçekleşti.",
-  "metric": "ÜFE (yıllık) %5,5",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-15T13:01:20.721012+00:00",
-  "type": "news",
-  "cluster_id": "cabf34a748a95"
- },
- {
-  "title": "ABD'de üretici enflasyonu haziranda beklentilerin altında gerçekleşti",
-  "link": "https://www.aa.com.tr/tr/ekonomi/abdde-uretici-enflasyonu-haziranda-beklentilerin-altinda-gerceklesti/3998991",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD'de Üretici Fiyat Endeksi (ÜFE) haziranda aylık bazda %0,3 azalırken, yıllık bazda %5,5 artarak beklentilerin altında gerçekleşti.",
-  "metric": "ÜFE (yıllık) %5,5",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-15T13:01:20.721012+00:00",
-  "type": "news",
-  "cluster_id": "c7be6d8bb01f5"
  }
 ]
