@@ -1,5 +1,17 @@
 [
  {
+  "title": "Russian drones kill 15 people at a shopping mall in a central Ukrainian city, officials say",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNDhjUUItSEFEc3plVmVWdEdUQk95RXJmeWFRQmpWdlZlUjVwWE1DcGhhQXhoYk5fRkhCU0RWbklwdC1FUnlmTF9KZGN2VkhJSXpsNUo5Vkc0UFFOMmxCZ2xHZzN2YVFfUWVzV3VjTzJHX1g0aWtIa2JIeU1vS3hYbGZjblA?oc=5",
+  "source": "AP",
+  "summary_tr": "Rus insansız hava araçları Ukrayna'nın merkezi bir şehrindeki alışveriş merkezini hedef aldı, 15 kişi öldü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-22T01:01:02.179611+00:00",
+  "type": "news",
+  "cluster_id": "c86eb40984ed0"
+ },
+ {
   "title": "Coca-Cola: 2,8 milyar lira ceza kesildi",
   "link": "https://www.diken.com.tr/coca-cola-28-milyar-lira-ceza-kesildi/?utm_source=rss&utm_medium=rss&utm_campaign=coca-cola-28-milyar-lira-ceza-kesildi",
   "source": "Diken",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-15T03:01:09.086699+00:00",
   "type": "news",
   "cluster_id": "cd24e68c6f541"
- },
- {
-  "title": "Maliyetler 17 ayın zirvesine çıktı, konutta fiyat artışı yolda",
-  "link": "https://www.sozcu.com.tr/maliyetler-17-ayin-zirvesine-cikti-konutta-fiyat-artisi-yolda-p336542",
-  "source": "Sözcü",
-  "summary_tr": "Konut maliyetleri 17 ayın zirvesine çıktı; dar ve orta gelirlilerin ev sahipliği sorunu derinleşiyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-15T03:01:09.086699+00:00",
-  "type": "news",
-  "cluster_id": "c15f265a837db"
  }
 ]
