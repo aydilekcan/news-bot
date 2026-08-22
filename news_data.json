@@ -1,5 +1,17 @@
 [
  {
+  "title": "Russian and Ukrainian attacks kill 10 people, a day after deadly shopping mall drone strike",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVURpSFQ4WnVGVmZkQzdrYS1FTUVNdHRIREZWYU1iek1RV24tNjlINGRZSHU3bElZSFBHVHFTQklmdXRlaGk2eWFoM2NUWWVRTGkzbjdxM1FkTXFpM0hDOTBXaDZsQXFZZEJLcGtLai16ZjZHQmtpcVhLOG1Yc2dpSzJQSi1ObWNIT2xMbkwxQmxha0RmV0ZfNWFwQjFpeFNJ?oc=5",
+  "source": "AP",
+  "summary_tr": "Rusya ve Ukrayna'nın karşılıklı saldırılarında 10 kişi öldü. Alışveriş merkezine yapılan drone saldırısından bir gün sonra ölümlü saldırılar devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-22T20:01:03.553885+00:00",
+  "type": "news",
+  "cluster_id": "c5cf6432fd204"
+ },
+ {
   "title": "Putin’den Ukrayna barışına yeşil ışık: Tek şartını açıkladı",
   "link": "https://www.sozcu.com.tr/putin-den-ukrayna-barisina-yesil-isik-tek-sartini-acikladi-p351782",
   "source": "Sözcü",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-15T13:01:20.721012+00:00",
   "type": "news",
   "cluster_id": "c578ef110f05e"
- },
- {
-  "title": "Reform oylaması İtalya Başbakanı Meloni için hezimet oldu",
-  "link": "https://www.dw.com/tr/reform-oylaması-italya-başbakanı-meloni-için-hezimet-oldu/a-77967244?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "İtalya Başbakanı Meloni'nin seçim yasası reform önerisi, Temsilciler Meclisi'nde gizli oylamada 1 oy farkla reddedildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-15T13:01:20.721012+00:00",
-  "type": "news",
-  "cluster_id": "c553e838ca9e4"
  }
 ]
