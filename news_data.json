@@ -1,5 +1,29 @@
 [
  {
+  "title": "Karadeniz'de Ukrayna saldırıları... Kurtarıldığı gemi de vuruldu: Türk gemici İlker Lazoğlu hayatını kaybetti",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/karadeniz-de-ukrayna-saldirilari-kurtarildigi-gemi-de-vuruldu-turk-gemici-ilker-lazoglu-hayatini-kaybetti-2531381",
+  "source": "Cumhuriyet",
+  "summary_tr": "Karadeniz'de Rusya saldırılarında Türk gemici İlker Lazoğlu hayatını kaybetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-22T14:01:06.322023+00:00",
+  "type": "news",
+  "cluster_id": "ce59acb6ea454"
+ },
+ {
+  "title": "Rusya alışveriş merkezini vurdu: 16 kişi yaşamını yitirdi",
+  "link": "https://www.sozcu.com.tr/rusya-alisveris-merkezini-vurdu-16-kisi-yasamini-yitirdi-p351744",
+  "source": "Sözcü",
+  "summary_tr": "Ukrayna'nın Kryvyi Rih kentinde Rusya saldırısında 16 kişi öldü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-22T14:01:06.322023+00:00",
+  "type": "news",
+  "cluster_id": "cea6bd5461711"
+ },
+ {
   "title": "Motorinin ardından sıra benzinde! Zammın tarihi belli oldu!",
   "link": "https://www.sozcu.com.tr/motorinin-ardindan-sira-benzinde-zammin-tarihi-belli-oldu-p351732",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-15T10:01:19.704598+00:00",
   "type": "news",
   "cluster_id": "cdb4cb8381dc1"
- },
- {
-  "title": "Çin ekonomisinde büyüme hızı son 3,5 yılın en düşük seviyesinde",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/cin-ekonomisinde-buyume-hizi-son-3-5-yilin-en-dusuk-seviyesinde-2521006",
-  "source": "Cumhuriyet",
-  "summary_tr": "Çin ekonomisi son 3,5 yılın en düşük büyüme oranında kaldı. İç talepteki zayıflık ve emlak krizi etkili.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-15T10:01:19.704598+00:00",
-  "type": "news",
-  "cluster_id": "cde2f251fc38e"
- },
- {
-  "title": "ABD'li Stripe ve Advent'tan PayPal için 53 milyar dolarlık ortak satın alma teklifi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/abdli-stripe-ve-adventtan-paypal-icin-53-milyar-dolarlik-ortak-satin-alma-teklifi/3998731",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Stripe ve Advent International PayPal'ı yaklaşık 53 milyar dolara satın almak için ortak teklif sundu.",
-  "metric": "PayPal satın alma teklifi 53 milyar dolar",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-15T10:01:19.704598+00:00",
-  "type": "news",
-  "cluster_id": "c1f98a9de3ba7"
  }
 ]
