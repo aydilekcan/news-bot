@@ -1,5 +1,29 @@
 [
  {
+  "title": "Motorinin ardından sıra benzinde! Zammın tarihi belli oldu!",
+  "link": "https://www.sozcu.com.tr/motorinin-ardindan-sira-benzinde-zammin-tarihi-belli-oldu-p351732",
+  "source": "Sözcü",
+  "summary_tr": "Benzine 2,74 TL zam uygulanacak. Motorine dün 2,92 TL zam yapıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-22T13:01:02.855811+00:00",
+  "type": "news",
+  "cluster_id": "c83ee6620c11d"
+ },
+ {
+  "title": "Son dakika: Gelecek Partisi'nden flaş karar: Siyasi faaliyetlerini sonlandırdı",
+  "link": "https://www.sozcu.com.tr/son-dakika-gelecek-partisi-nden-flas-karar-siyasi-faaliyetlerini-sonlandirdi-p351740",
+  "source": "Sözcü",
+  "summary_tr": "Ahmet Davutoğlu'nun kurduğu Gelecek Partisi genel kurulda alınan oylamaya göre resmi olarak feshedildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-22T13:01:02.855811+00:00",
+  "type": "news",
+  "cluster_id": "cd70346aa17c2"
+ },
+ {
   "title": "İran’dan Trump’ın tehdidine yanıt: Komşularımızdan çok sayıda mesaj aldık",
   "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-trump-in-tehdidine-yanit-komsularimizdan-cok-sayida-mesaj-aldik-2531344",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-15T10:01:19.704598+00:00",
   "type": "news",
   "cluster_id": "c1f98a9de3ba7"
- },
- {
-  "title": "Elon Musk likely broke the law by promising voters $1 million payouts, Wisconsin board says",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdDM4UnNsUDhnczFrWFRuSVpwNVhlOWIxMENFVlJDSUx6c2U1b3k3MzltVnFVRzRNQUNCN18zbHRfOGNhNDJFSEk2X1JUYk9saUtCclctQURTaWNNNEQwTkZkdFRjdHhQU2xxNXRVeEVFRktkYzRmT2MtTGl1bmJkdE00QUYtYzFrbU9xV2pQcEJqZ3htOFVoaEVCNXRXVHRxUEU3VUt1VlVNbnBFTzZV?oc=5",
-  "source": "AP",
-  "summary_tr": "Wisconsin seçim kurulu Elon Musk'ın seçmenlere 1 milyon dolar vaat etmesiyle yasayı ihlal ettiğini söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-15T10:01:19.704598+00:00",
-  "type": "news",
-  "cluster_id": "c3f656f0bf0f8"
- },
- {
-  "title": "İSKİ duyurdu: Zeytinburnu'nda 12 mahalleye 15 saat su verilemeyecek",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/iski-duyurdu-zeytinburnu-nda-12-mahalleye-15-saat-su-verilemeyecek-2521011",
-  "source": "Cumhuriyet",
-  "summary_tr": "İSKİ Zeytinburnu'nda 12 mahallede 15 saatlik su kesintisi uygulayacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-15T10:01:19.704598+00:00",
-  "type": "news",
-  "cluster_id": "cb32664ed7516"
  }
 ]
