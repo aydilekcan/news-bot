@@ -1,5 +1,65 @@
 [
  {
+  "title": "Kanada Başbakanı Carney ABD'nin tarifelerine yanıt vereceklerini söyledi",
+  "link": "https://www.aa.com.tr/tr/dunya/kanada-basbakani-carney-abdnin-tarifelerine-yanit-vereceklerini-soyledi/4034793",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Kanada Başbakanı Carney, ABD'nin yeni tarifelerine karşılık vereceğini açıkladı; ticaret gerginliği tırmanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-22T18:01:02.676522+00:00",
+  "type": "news",
+  "cluster_id": "c3773d66b9ee1"
+ },
+ {
+  "title": "Putin says Ukraine opened 'Pandora's box' with strikes on economic targets",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmx1MlE4ak9qOGpNUGN5UUFYTFdMOGNaaFU5aUdmR2ZFS3A4NGlnQ2NqbHlMSWI1eHc5bmQ1eW9rbnFudGt6ZTM3RG9QTy1PeTdtN1J0ZXRMTDRMNVVsMk1qcEhuSmNpTjhraXBXZUtERmw4M3VVbDh6VzF2ZE5vS1hnblpsUEpFLVpUSHpTUmI4dEVIcUxPNC1tUXFmdk0xaVJnX0FlclFHaUl3RHBaX2F0eGpKUkVJ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Putin, Ukrayna'nın ekonomik hedefler hakkında 'Pandora'nın kutusunu açtığını' söyledi; savaş yeni boyut aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-22T18:01:02.676522+00:00",
+  "type": "news",
+  "cluster_id": "c9153177f4ab1"
+ },
+ {
+  "title": "5 parti lideri Ankara’da buluştu: Yeni ittifakın sinyali mi?",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/5-parti-lideri-ankara-da-bulustu-yeni-ittifakin-sinyali-mi-2531432",
+  "source": "Cumhuriyet",
+  "summary_tr": "Zafer Partisi, Milli Yol Partisi ve Bağımsız Türkiye Partisi liderleri Ankara'da buluştu; yeni bir ittifak senaryosu gündeme geldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-22T18:01:02.676522+00:00",
+  "type": "news",
+  "cluster_id": "c7f5bc6892f06"
+ },
+ {
+  "title": "Deprem konutlarında ücret isyanı: 3 aydır maaş alamıyorlar",
+  "link": "https://www.sozcu.com.tr/deprem-konutlarinda-ucret-isyani-3-aydir-maas-alamiyorlar-p351775",
+  "source": "Sözcü",
+  "summary_tr": "Kahramanmaraş deprem konutlarının yapımında çalışan işçiler yaklaşık 3 aydır maaş alamıyor; ücret krizine yol açtı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-22T18:01:02.676522+00:00",
+  "type": "news",
+  "cluster_id": "c2b6c7388eb66"
+ },
+ {
+  "title": "Furkan Vakfı'na operasyon: Alparslan Kuytul dahil 56 kişi adliyeye sevk edildi",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWlJYWlKT3lJVlV1X2xaVFAzMXlHQW9KZmxjdEJ5ZmRhTXdlUXN6SDdvVEg2OUxNV3dvTnZOVzR3QkQ3aEJ4R0U1dmhKNERoVE8zRDhfWm9ybjZnZlcyckxZZllsaTEwalplUEZEYmJmQ0h3WGZFUG4wRU5EcnNUYnZZVThsLVRpUEc3VGNiUWsyQjdRN2hqOG95UXVnMkZOU1JzajJ0ZjVzRUNZaUdLTGFmOTk?oc=5",
+  "source": "soL",
+  "summary_tr": "Furkan Vakfı'na operasyon düzenlendi; Alparslan Kuytul dahil 56 kişi adliyeye sevk edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-22T18:01:02.676522+00:00",
+  "type": "news",
+  "cluster_id": "c526fc6aaf1c3"
+ },
+ {
   "title": "Putin, ülkesinin \"sahadaki gerçekler temelinde\" barış görüşmelerine hazır olduğunu belirtti",
   "link": "https://www.aa.com.tr/tr/dunya/putin-ulkesinin-sahadaki-gercekler-temelinde-baris-gorusmelerine-hazir-oldugunu-belirtti/4034757",
   "source": "Anadolu Ajansı",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-15T13:01:20.721012+00:00",
   "type": "news",
   "cluster_id": "c7be6d8bb01f5"
- },
- {
-  "title": "İstanbul'da barajların doluluk oranı yüzde 60'ın altına düştü",
-  "link": "https://www.aa.com.tr/tr/gundem/istanbulda-barajlarin-doluluk-orani-yuzde-60in-altina-dustu/3998982",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İstanbul'a su sağlayan barajların ortalama doluluk oranı %59,71 seviyesine geriledi.",
-  "metric": "Baraj doluluk oranı %59,71",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-15T13:01:20.721012+00:00",
-  "type": "news",
-  "cluster_id": "c00469fc92649"
- },
- {
-  "title": "Özgür Özel: Her ihtimale karşı yeni partinin ismini ve logosunu çalışıyoruz, temmuz sonu resmî adım atılır",
-  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbU5hUXVwTHdGaWw3SUtISnA0a1dFNmh5czF3MG1wMEdKckJLOC1Hdk16VGdqeW9IY1FoX1hxbzR3Y2hxTUR0RkpRZTRPaGV2SUM2TGJUOVBnZWdJc0VDNnpaUVpoSmpOcDFQQnBWc2NLVEppS3k1ZUp5cFExeDNVWW1ndVEyU2VXYlE4eWI0S0g5bEI1ZFV3bElqTDhRYmtoYS1RT0FwR0VCSjByWWh0YlRLdTVMMlVCSGhYU2hybGZVaUdYbHp5RGhBZ1RJWG1qenhpOW9R?oc=5",
-  "source": "T24",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel, yeni partinin ismini ve logosunun hazırlandığını, temmuz sonu resmî adım atılacağını belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-15T13:01:20.721012+00:00",
-  "type": "news",
-  "cluster_id": "cf512c8a583c5"
- },
- {
-  "title": "Japan to recognise cryptocurrency as 'financial assets', NHK says",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPenBUOVBWN19jZk5GUGdSTVhfcTIwZl9BNzU5TDI3M3FyNk50S3VPME1hRTZMc2hKUXhDcFcwLUhmNFI1Vi1Ea0Q1TndmVmQ5eTQzS2txdm9FUUVTUG05NlRYRUtOaGZKYnl2b2dKM05tNEg1aEZfUUZHcno4dTNDazluaEdKOEthSHRYN3cwaWZ2MmpOYzNERmhXSEVBY0N1VG1ydUpmc3pCeWRoSGc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Japonya, kripto para birimleri için 'finansal varlık' statüsü tanıyacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-15T13:01:20.721012+00:00",
-  "type": "news",
-  "cluster_id": "c8d4c88016674"
- },
- {
-  "title": "İhracat değişimi (aylık): %-9,5 (Mayıs 2025)",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbjltZW9Pdmd0NXJVNkZRWEVPSkp1bDhVWVFBWTd4Tng5bkZva1d3Q0ptckNBMmFuREdiUGVhRUtOdEJ6aGJPSm43Rzk3Si00TDRPTHhhV1dGdUs1cUxoQnIzWkJxS25KLV9VeHNWdWVTMmkwOGVFM2o0azAxdV9JN3Q2VnBHUnRURDBkeUtrWDZWcWlqbWtkT0RYX0xyTHPSAaMBQVVfeXFMTjNBSXdnZXlEU1h1dXk3U2tIclJERHFvamlqZ0NGWU9WTl92NUExeUZERjdwRm1mT0VlbHRoSXBDOGhBMFRwaEJoQkdKYmpPajQ1ckd4a1hkU0J3TXktYkIwN2tBTnh5ZGVhMEF1VU9qZExNdEFXWWdxTmlhMVlheEppMmJGNWZzbVpsWGx4dHVZYzdtRUFNcGIzTURGOVhHSU51NA?oc=5",
-  "source": "TUIK",
-  "summary_tr": "%9,5 azalış → %-9,5 (-19,0 puan)",
-  "metric": "-19,0 puan",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-07-15T13:01:20.721012+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "İthalat değişimi (aylık): %-10,8 (Mayıs 2025)",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTTVxc0lfS2NFUUhyTGhkZkdPRnZySHhuQ3Z1R2hzTlRPTDdnT09nWXAyd2E5UnlBb05Ic04tbmxJT2JHZ1hUa0ctMzhUTDR6b1FaQVRjd25kMkNMbk50cnVOcU9hdlI2SEJBUGtPU0twSTNpd3NtX3FTU1dtYnpNcGlZa1oxMGpIdUlkS0pzTkRCNU9QVzEtaXlR0gGaAUFVX3lxTE5NNXFzSV9LY0VRSHJMaGRmR09GdnJIeG5DdnVHaHNOVE9MN2dPT2dZcDJ3YTlSeUFvTkhzTi1ubElPYkdnWFRrRy0zOFRMNHpvUVpBVGN3bmQyQ0xuTnRydU5xT2F2UjZIQkFQa09TS3BJM2l3c21fcVNTV21iek1waVlrWjEwakh1SWRLSnNOREI1T1BXMS1peVE?oc=5",
-  "source": "TUIK",
-  "summary_tr": "%10,8 azalış → %-10,8 (-21,6 puan)",
-  "metric": "-21,6 puan",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-07-15T13:01:20.721012+00:00",
-  "type": "data",
-  "cluster_id": ""
  }
 ]
