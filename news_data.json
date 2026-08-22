@@ -1,5 +1,77 @@
 [
  {
+  "title": "ABD’nin yüzde 50 tarife kararı üzerine Kanada’dan müzakereleri sonlandırma adımı",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-nin-yuzde-50-tarife-karari-uzerine-kanada-dan-muzakereleri-sonlandirma-adimi/4034373",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD'nin Kanada ürünlerine %50 tarife kararı üzerine Kanada müzakereleri sonlandırma adımı attı ve karşılık vermeye hazırlanıyor.",
+  "metric": "%50 tarife",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-22T07:01:16.111983+00:00",
+  "type": "news",
+  "cluster_id": "cfe113b46234e"
+ },
+ {
+  "title": "ABDnin yüzde 50 tarife kararı üzerine Kanadadan müzakereleri sonlandırma kararı",
+  "link": "https://www.trthaber.com/haber/dunya/abdnin-yuzde-50-tarife-karari-uzerine-kanadadan-muzakereleri-sonlandirma-karari-954619.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD'nin Kanada ürünlerine %50 tarife kararı üzerine Kanada müzakereleri sonlandırma kararı aldı ve misilleme hazırlığına girdi.",
+  "metric": "%50 tarife",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-22T07:01:16.111983+00:00",
+  "type": "news",
+  "cluster_id": "cfe113b46234e"
+ },
+ {
+  "title": "Ticaret Bakanlığı duyurdu: Oto galerici ve emlakçılara 'mevzuata aykırı ilan' cezası",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/ticaret-bakanligi-duyurdu-oto-galerici-ve-emlakcilara-mevzuata-aykiri-ilan-cezasi-2531268",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ticaret Bakanlığı, sosyal medyada mevzuata aykırı taşınmaz ve taşıt ilanı veren 82 işletmeye (42 emlak, 40 galeri) 8,2 milyon lira ceza uyguladı.",
+  "metric": "82 işletmeye 8,2 milyon TL ceza",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-22T07:01:16.111983+00:00",
+  "type": "news",
+  "cluster_id": "cfe640dfe9399"
+ },
+ {
+  "title": "Sosyal medyada ilan paylaşanlara bakanlıktan dev ceza",
+  "link": "https://www.sozcu.com.tr/sosyal-medyada-ilan-paylasanlara-bakanliktan-dev-ceza-p351636",
+  "source": "Sözcü",
+  "summary_tr": "Sosyal medyada doğrulama zorunluluğuna uymadan konut ve araç ilanı paylaşan işletmelere Ticaret Bakanlığından ağır ceza uygulandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-22T07:01:16.111983+00:00",
+  "type": "news",
+  "cluster_id": "cb555a489ce96"
+ },
+ {
+  "title": "Mevzuata aykırı taşınmaz ve taşıt ilanı veren 82 işletmeye 8,2 milyon lira ceza",
+  "link": "https://www.aa.com.tr/tr/ekonomi/mevzuata-aykiri-tasinmaz-ve-tasit-ilani-veren-82-isletmeye-8-2-milyon-lira-ceza/4034356",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ticaret Bakanlığı, sosyal medyada mevzuata aykırı ilan veren 82 işletmeye (42 emlak, 40 galeri) 8,2 milyon lira idari ceza uyguladı.",
+  "metric": "82 işletmeye 8,2 milyon TL ceza",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-22T07:01:16.111983+00:00",
+  "type": "news",
+  "cluster_id": "c9f33c960fb7f"
+ },
+ {
+  "title": "Mevzuata aykırı ilan veren emlakçı ve galericilere 8,2 milyon lira ceza",
+  "link": "https://www.trthaber.com/haber/ekonomi/mevzuata-aykiri-ilan-veren-emlakci-ve-galericilere-82-milyon-lira-ceza-954620.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ticaret Bakanlığı, sosyal medyada mevzuata aykırı ilan veren 82 işletmeye (42 emlak, 40 galeri) 8,2 milyon lira idari ceza uyguladı.",
+  "metric": "82 işletmeye 8,2 milyon TL ceza",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-22T07:01:16.111983+00:00",
+  "type": "news",
+  "cluster_id": "c9f33c960fb7f"
+ },
+ {
   "title": "Bitcoin 3 günde %20 yükseldi: İşte dünyanın en büyük kripto para birimini harekete geçiren 2 neden",
   "link": "https://www.sozcu.com.tr/bitcoin-3-gunde-20-yukseldi-iste-dunyanin-en-buyuk-kripto-para-birimini-harekete-geciren-2-neden-p351616",
   "source": "Sözcü",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-15T07:01:18.459333+00:00",
   "type": "news",
   "cluster_id": "caf38e4e159e4"
- },
- {
-  "title": "Nevzat Saygılıoğlu: İkiz açık",
-  "link": "https://www.diken.com.tr/nevzat-saygilioglu-ikiz-acik/?utm_source=rss&utm_medium=rss&utm_campaign=nevzat-saygilioglu-ikiz-acik",
-  "source": "Diken",
-  "summary_tr": "Nevzat Saygılıoğlu: Türkiye'nin kronik sorunu olan ikiz açık (cari açık ve bütçe açığı) analizi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-15T07:01:18.459333+00:00",
-  "type": "news",
-  "cluster_id": "cd194c82073d1"
- },
- {
-  "title": "Akaryakıta zam: 15 Temmuz 2026 motorine zam mı geldi? Benzin fiyatları ne kadar oldu?",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/akaryakita-zam-15-temmuz-2026-motorine-zam-mi-geldi-benzin-fiyatlari-ne-kadar-oldu-2520938",
-  "source": "Cumhuriyet",
-  "summary_tr": "Akaryakıt zam: 15 Temmuz 2026'de motorin ve benzin fiyatlarında artış yaşandı. Orta Doğu gerilimi ve döviz etkili.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-15T07:01:18.459333+00:00",
-  "type": "news",
-  "cluster_id": "c8cebd0434b40"
- },
- {
-  "title": "ASML raises 2026 forecast, expands capacity on AI chip demand",
-  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPXzZLbXpRNUdRRjYtV203dG1SS1l6U29PMFZGelkzMVV3Mm1tSXI4ak90clF2Q0EwMW5sV1ptV2JURmVSRzYtMUZjenlvLWNuQklqZ2FDX1EzUWR1ZWI0bkZYcXVrbXNTZHdPZS1sNmthTlpOTHNpMkMxc1FfSUR1NEplT3l5Nk84Z3c?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ASML: 2026 tahminini yükseltti ve yapı kapasitesini genişletti; yapay zeka çip talebinden yararlanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-15T07:01:18.459333+00:00",
-  "type": "news",
-  "cluster_id": "c279548205942"
- },
- {
-  "title": "Gold slips as oil rally keeps inflation, rate outlook on investors' radar",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTjJUTW5TUVpyUkM5bDJ0NFJ2ZE9raUlKYUFGOUVrdUJ3Z24tSWE4c2NaLW9EMmpDamxPNjJkTjQ1Zi1WbVd4bWNDSlZSdkJzY29LbWNESGxyUURLMTl1Wm4tZFFZLWRvSzNPcnZJMnEzWEVaaEtBbWg3bTBCWnp3MzlGUGNXZE9uVHF2STRzRlp3S3RtbUR1ZE9fUTFOcXdFUVhyZk16S3ZCXzlZZGJj?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Altın fiyatları petrol rallisi nedeniyle gerilemişti; enflasyon ve faiz görünümü yatırımcıları etkiliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-15T07:01:18.459333+00:00",
-  "type": "news",
-  "cluster_id": "c4edd44a23f21"
- },
- {
-  "title": "İhracat ve ithalat birim değer endeksleri (aylık): %14,2 (Mayıs 2025)",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdGg1VHlSeDNLeGU1RDZYbmM0eU10OHpvVFFDbEhaNXlubjBlcThtenV5U2J5ckd2eDc0X0liSDdZR2FkdnV6U1lQRUhvQjhlbW1feVozdFEwQXRYdmtfOFRkSjBhcWZ1ME10QmlpVDR5N1FDSkZaTy1Yd3A3WFB3Tkd6d3UtSTNsQWhzSWZuUkVWUmNGaVNzenVqRlA1Q0pPT3dsRU1LSU5SaV9JTTBRZ3RoaGMwcmFUOWkyaUdDdmdwUQ?oc=5",
-  "source": "TÜİK",
-  "summary_tr": "%14,2",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-07-15T07:01:18.459333+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "Benzine zam geldi: Güncel akaryakıt fiyatları",
-  "link": "https://www.diken.com.tr/benzine-zam-geldi-guncel-akaryakit-fiyatlari-9/?utm_source=rss&utm_medium=rss&utm_campaign=benzine-zam-geldi-guncel-akaryakit-fiyatlari-9",
-  "source": "Diken",
-  "summary_tr": "Benzine 1 lira 55 kuruş zam geldi.",
-  "metric": "Benzin fiyatı +1,55 TL/litre",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-15T06:01:11.728305+00:00",
-  "type": "news",
-  "cluster_id": "c967ef5ffd06e"
  }
 ]
