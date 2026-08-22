@@ -1,5 +1,65 @@
 [
  {
+  "title": "Karadeniz'deki Türk gemileri saldırı kıskacında",
+  "link": "https://www.dw.com/tr/karadeniz-deki-türk-gemileri-saldırı-kıskacında/a-78470871?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Karadeniz'deki Türk gemileri Rusya ve Ukrayna saldırılarıyla tehdit altında; ticari faaliyetler durma noktasında.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-22T16:01:04.355466+00:00",
+  "type": "news",
+  "cluster_id": "c87e32e5ae10a"
+ },
+ {
+  "title": "Türkiye’nin İsrail’e Karşı Caydırıcılığı Sınanmak İsteniyor",
+  "link": "https://yetkinreport.com/2026/08/22/turkiyenin-israile-karsi-caydiriciligi-sinanmak-isteniyor/",
+  "source": "YetkinReport",
+  "summary_tr": "İsrail'in Suriye'nin kuzeybatısındaki Ebu Zuhur hava üssünü vurması, Türkiye'nin caydırıcılığını sınamaya yönelik bir adımdır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-22T16:01:04.355466+00:00",
+  "type": "news",
+  "cluster_id": "c7b3833c09a97"
+ },
+ {
+  "title": "Kurtarıldığı gemi de vuruldu: Hayatını kaybeden Türk vatandaşının son konuşması ortaya çıktı",
+  "link": "https://www.sozcu.com.tr/ilker-lazoglu-vurulan-gemide-hayatini-kaybetti-p351761",
+  "source": "Sözcü",
+  "summary_tr": "Rusya'nın Novorossiysk Limanı açıklarında saldırıya uğrayan gemiden tahliye edilen Türk vatandaşı İlker Lazoğlu hayatını kaybetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-22T16:01:04.355466+00:00",
+  "type": "news",
+  "cluster_id": "c8c43efc989f8"
+ },
+ {
+  "title": "Canada will impose retaliatory tariffs on US goods beginning Sept. 8 as trade negotiations collapse",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZQdTRIMXVabHVfUTNldG4yeGlBSWlHNTFsNUt4WktQeHBuT1RzUUxVT3NZMTQ4ampFeFMtQVhVUDN4bXZXVWlzWXY5LTBEVTI1d29obi03ZGd2dTB6WG0zRGtsa3llaHhtVlVnRjFKYW4tOGpubG1qSWp6NWZfNG5WUVlpeGdjc0s0ck5GM0F3eWs?oc=5",
+  "source": "AP",
+  "summary_tr": "Kanada, ticari müzakereler çöktüğü için 8 Eylül'den itibaren ABD mallarına misilleme gümrük tarifeleri uygulayacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-22T16:01:04.355466+00:00",
+  "type": "news",
+  "cluster_id": "ca6f6689f15c3"
+ },
+ {
+  "title": "3 aydır maaş alamayan işçiler çatıya çıktı: Deprem konutunda intihar girişimi",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/3-aydir-maas-alamayan-isciler-catiya-cikti-deprem-konutunda-intihar-girisimi-2531412",
+  "source": "Cumhuriyet",
+  "summary_tr": "Kahramanmaraş'ta deprem konutları yapan işçiler 3 aydır maaş alamadıkları için çatıya çıkarak eylem yaptı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-22T16:01:04.355466+00:00",
+  "type": "news",
+  "cluster_id": "c633e97da57bc"
+ },
+ {
   "title": "Gelecek Partisi resmen feshedildi",
   "link": "https://www.diken.com.tr/gelecek-partisi-resmen-feshedildi/?utm_source=rss&utm_medium=rss&utm_campaign=gelecek-partisi-resmen-feshedildi",
   "source": "Diken",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-15T12:01:14.146131+00:00",
   "type": "news",
   "cluster_id": "c069c5c656da2"
- },
- {
-  "title": "ASML capacity upgrade soothes AI chip bottleneck fears",
-  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPXzZLbXpRNUdRRjYtV203dG1SS1l6U29PMFZGelkzMVV3Mm1tSXI4ak90clF2Q0EwMW5sV1ptV2JURmVSRzYtMUZjenlvLWNuQklqZ2FDX1EzUWR1ZWI0bkZYcXVrbXNTZHdPZS1sNmthTlpOTHNpMkMxc1FfSUR1NEplT3l5Nk84Z3c?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ASML, üretim kapasitesini artırarak yapay zeka çip darboğazı endişelerini hafiflettiğini duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-15T12:01:14.146131+00:00",
-  "type": "news",
-  "cluster_id": "c8df893617b2d"
- },
- {
-  "title": "İran'ın tehdidi",
-  "link": "https://www.sozcu.com.tr/iran-in-tehdidi-p336696",
-  "source": "Sözcü",
-  "summary_tr": "İran ile ABD arasında Hürmüz Boğazı çevresinde başlayan gerilim karşılıklı askeri operasyonlarla tırmanmaktadır.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-15T11:01:15.647522+00:00",
-  "type": "news",
-  "cluster_id": "cf73fa167862e"
- },
- {
-  "title": "CENTCOM, İran'a yönelik yeni saldırı dalgası başlattıklarını açıkladı",
-  "link": "https://www.trthaber.com/haber/dunya/centcom-irana-yonelik-yeni-saldiri-dalgasi-baslattiklarini-acikladi-951282.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD Merkez Kuvvetler Komutanlığı CENTCOM, İran'a yönelik yeni saldırı dalgası başlattığını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-15T11:01:15.647522+00:00",
-  "type": "news",
-  "cluster_id": "c5679ce74869b"
- },
- {
-  "title": "İran’dan ABD ablukasına karşı rest: Petrol ve gaz ya herkese ya hiç kimseye",
-  "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-abd-ablukasina-karsi-rest-petrol-ve-gaz-ya-herkese-ya-hic-kimseye-2521018",
-  "source": "Cumhuriyet",
-  "summary_tr": "İran Devrim Muhafızları Ordusu, ABD'nin deniz ablukasına karşılık Orta Doğu'daki petrol ve doğalgaz arzını kontrol edeceğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-15T11:01:15.647522+00:00",
-  "type": "news",
-  "cluster_id": "cbe4229bb2646"
- },
- {
-  "title": "ABD bu dağı neden bombalayacak?",
-  "link": "https://www.sozcu.com.tr/abd-bu-dagi-neden-bombalayacak-p336703",
-  "source": "Sözcü",
-  "summary_tr": "ABD Başkanı Trump, İran'ın yer altı nükleer tesisine ev sahipliği yapan Kazma Dağı'nı hedef alacaklarını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-15T11:01:15.647522+00:00",
-  "type": "news",
-  "cluster_id": "cf85ce82f5767"
  }
 ]
