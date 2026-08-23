@@ -1,5 +1,41 @@
 [
  {
+  "title": "Why the bond market is flexing its muscles, and why everyone needs to care",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeWRaLUVRdVlQOXYtbjRuRlNOQzUwVnNhbUxSVndiNjNhNUdsUDBXdnBmQWtXTVk3aEhYSUhUVWNQY29RUDJKR0YtZmJnOVpBWkwyUmZ6VnBWbE9IVE5OQlVyYzVsNG5DS3pIbDdBb09Sc2JJSnlOQzV1dVU3bm82VS1pbVNFd2d5ZGk5NW53UHVtUVgyZHliT0F1UWZMR19ZZkdnQ1dkRUI?oc=5",
+  "source": "AP",
+  "summary_tr": "Bond piyasası güçlenişi finansal piyasaları etkilemekte; küresel ekonomiye yönelik dikkate değer bir gelişme.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-23T01:01:00.800044+00:00",
+  "type": "news",
+  "cluster_id": "c58bcfd7721a0"
+ },
+ {
+  "title": "Sanayi üretim endeksi (yıllik değişim): -1,4% (Haziran 2025)",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRlVsenRPOG1Xc2hhOEpZV2Z1elUxbUc1UTJXdXh1TmY3ckhrSmtaQU80em9HUmVpMGozS3VydlhBRXFIWkNwYjRWYl9IWFhhTUtXSlZxRlFVbW1Qd1dwY3hVWS14OW9LcEFtN0hacWs0b2s3VGkzTkpHX1Exd0RpZFI5bzl6ZFRtUzBoYTIxOUhjdUw0R1lNeDhCQmM3VjltdXhaV2NqTklkZEdfc3hJRU43RXpKbTNJZVE?oc=5",
+  "source": "TUIK",
+  "summary_tr": "-1,4% → -1,4%",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-23T01:01:00.800044+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
+  "title": "Sanayi üretim endeksi (aylık değişim): +0,1% (Haziran 2025)",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRlVsenRPOG1Xc2hhOEpZV2Z1elUxbUc1UTJXdXh1TmY3ckhrSmtaQU80em9HUmVpMGozS3VydlhBRXFIWkNwYjRWYl9IWFhhTUtXSlZxRlFVbW1Qd1dwY3hVWS14OW9LcEFtN0hacWs0b2s3VGkzTkpHX1Exd0RpZFI5bzl6ZFRtUzBoYTIxOUhjdUw0R1lNeDhCQmM3VjltdXhaV2NqTklkZEdfc3hJRU43RXpKbTNJZVE?oc=5",
+  "source": "TUIK",
+  "summary_tr": "-2,9% → +0,1% (+3,0 puan)",
+  "metric": "+3,0 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-23T01:01:00.800044+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "What to know about Trump’s 50% tariffs on Canadian goods that just went into effect",
   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVHl1OFdkU2VpRThnVkF0UE9lcXYyeERtOFZOMDNQTHZTR1VxU3pzVWc4WEs4TXFIcnNtYThhWmVzOHprcmNwbDBUT1RwekVBd003ZGw1YUZwTXlZa2E0d1pIUFdmWVd5enRtYW5tbjlzSmw1aFVhMF94Ni01TlJsTEtfVWdLR2FtclRPUWJYLUxSMDZCam1ESw?oc=5",
   "source": "AP",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-15T14:01:20.614102+00:00",
   "type": "news",
   "cluster_id": "c902917e4a498"
- },
- {
-  "title": "İngiltere Başbakanı Starmer: Bu benim siyasi yolculuğumun sonu",
-  "link": "https://www.aa.com.tr/tr/dunya/ingiltere-basbakani-starmer-bu-benim-siyasi-yolculugumun-sonu/3999046",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İngiltere Başbakanı Keir Starmer, Parlamentoda son kez başbakan olarak soruları yanıtlarken istifa ettiğini duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-15T14:01:20.614102+00:00",
-  "type": "news",
-  "cluster_id": "c17664ddacde2"
- },
- {
-  "title": "Information from NATO member states shows Russia attempted sabotage, Latvia's president says",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYkJTMHdMSTg2MVBfQlVTcnFkOFRTMU5aZTgyRGlqaTBnZmNHMUt0eDg1czBjYWFHS1FfR3NqdzBRWXMxU21iZlhvNzAtdmJ2Ym1mYmFxdko2clFWOHkwZmhJdTZjaVRWWXhmUG8tR3ptUml3MEhYOEtPZUN3bHpPYld6eGhGTUR6NnE2ZTMtYUZHTkxZcVVoUkRHd2xEQ1VMa1IyaksxeUdnSGtKTmswbUhXblpJRkFGdllPZUtabmtGYWx1Vjdzbg?oc=5",
-  "source": "Reuters",
-  "summary_tr": "NATO üye devletlerden gelen istihbarat, Rusya'nın sabotaj girişiminde bulunduğunu gösteriyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-15T14:01:20.614102+00:00",
-  "type": "news",
-  "cluster_id": "cbca332ccc824"
- },
- {
-  "title": "Erdoğan'dan Meclis'te 15 Temmuz konuşması: 'En büyük kazanım Cumhurbaşkanlığı Hükûmet Sistemi oldu'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/erdogan-dan-meclis-te-15-temmuz-konusmasi-en-buyuk-kazanim-cumhurbaskanligi-hukumet-sistemi-oldu-2521096",
-  "source": "Cumhuriyet",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, TBMM'de 15 Temmuz anma töreninde konuşma yaparak, Cumhurbaşkanlığı Hükûmet Sistemini en büyük kazanım olarak nitelendirdi.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-15T14:01:20.614102+00:00",
-  "type": "news",
-  "cluster_id": "cc740013da290"
  }
 ]

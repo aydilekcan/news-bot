@@ -33,9 +33,9 @@
   },
   "tr_sanayi_uretim_endeksi_yillik": {
    "value": "-1,4%",
-   "period": "Haziran",
-   "ts": "2026-08-11T04:01:14.160140+00:00",
-   "indicator_tr": "Sanayi üretim endeksi (yıllık)"
+   "period": "Haziran 2025",
+   "ts": "2026-08-23T01:01:06.215169+00:00",
+   "indicator_tr": "Sanayi üretim endeksi (yıllik değişim)"
   },
   "tcmb_politika_faizi": {
    "value": "%37",
@@ -68,9 +68,9 @@
    "indicator_tr": "İhracat Birim Değer Endeksi (yılık)"
   },
   "tr_sanayi_uretim_endeksi_aylik": {
-   "value": "-2,9%",
-   "period": "Mayıs 2025",
-   "ts": "2026-07-15T21:01:43.024600+00:00",
+   "value": "+0,1%",
+   "period": "Haziran 2025",
+   "ts": "2026-08-23T01:01:06.215169+00:00",
    "indicator_tr": "Sanayi üretim endeksi (aylık değişim)"
   },
   "tr_cimento_ihracat_5ay": {
@@ -1000,6 +1000,8 @@
   "57b070ce674ed69604bbb7cca4fd3794": "2026-08-22T14:01:06.322023+00:00",
   "eb26b7aae1bd48b3a3c0ab2f38bc6d4e": "2026-08-22T15:01:06.070031+00:00",
   "3962cd388680655f42565fab5da45fa2": "2026-08-22T16:01:04.355466+00:00",
-  "c2600a04124f29963e7da7042b2144e4": "2026-08-22T21:01:04.828658+00:00"
+  "c2600a04124f29963e7da7042b2144e4": "2026-08-22T21:01:04.828658+00:00",
+  "9d77996baa5b4df2335208169b7272fc": "2026-08-23T01:01:00.800044+00:00",
+  "e60359196a5592fc652606406e70bbe1": "2026-08-23T01:01:00.800044+00:00"
  }
 }
