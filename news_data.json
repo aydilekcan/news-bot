@@ -1,5 +1,29 @@
 [
  {
+  "title": "Netanyahu yönetiminden \"uçurtma\" nedeniyle Gazze'ye sürgün ve saldırı tehdidi",
+  "link": "https://www.aa.com.tr/tr/dunya/netanyahu-yonetiminden-ucurtma-nedeniyle-gazzeye-surgun-ve-saldiri-tehdidi/4035322",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Netanyahu yönetimi, Gazze'den atılan uçurtmalar nedeniyle Filistinlilere karşı sürgün ve saldırı tehdidinde bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-23T21:00:59.614487+00:00",
+  "type": "news",
+  "cluster_id": "c0e54ca5fd3b6"
+ },
+ {
+  "title": "Carney warned about economic coercion. Now Trump is testing the Canadian prime minister",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX3dhSlN1T1ZfMHl3Y1BSSjJwMEdLQVN2OFFMRUhwb2p6MWtwX0ZpZmd4VlZKV1NlTDFEdnZRMFQ3cDg2a2hpOHB0SFNrN1Y4RldoVHhaNkFsdUFSSm5KOFB3LWE1TGJVbW1YS0NqblVOZ2dEcnZQTlgya3JNZVFVUDRHRkJlX2hfMWFlSG85cXdTRjJGa2tBNTFIdGdILU9iT09ybXNFM2J0MXVPQmhfQw?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump, Kanada Başbakanı'na ekonomik baskı uygulamaya başladı; Carney önceden bu riske karşı uyarmıştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-23T21:00:59.614487+00:00",
+  "type": "news",
+  "cluster_id": "c00c8fb8fe817"
+ },
+ {
   "title": "İran, Hürmüz Boğazı'ndaki bazı gemilere yaptırım uyarısında bulundu",
   "link": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazindaki-bazi-gemilere-yaptirim-uyarisinda-bulundu-954725.html",
   "source": "TRT Haber",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-16T07:01:21.194914+00:00",
   "type": "data",
   "cluster_id": ""
- },
- {
-  "title": "Ne eğitimde ne istihdamda olan genç nüfus: 6,5 milyon",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vSVVyNzZTV2tzb1JqNkthTzhTMXFBb1UtNXdFcjhURHZoMkU1bmVsZ1gyUGNUb3ZaQ2dTaEIxZks1V3V0RXZqU2VLV1NoWlFsenEwVlN4Wlg3cVI1Z3JBTDlPNmtlQkxJ?oc=5",
-  "source": "TUIK",
-  "summary_tr": "6,5 milyon",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-07-16T07:01:21.194914+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "ABD, İran'a başlattığı son saldırı dalgasını bitirdi",
-  "link": "https://www.trthaber.com/haber/dunya/abd-irana-baslattigi-son-saldiri-dalgasini-bitirdi-951345.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD, İran'a karşı başlattığı son saldırı dalgasını tamamladığını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-16T06:01:14.988464+00:00",
-  "type": "news",
-  "cluster_id": "caf75934bd243"
  }
 ]
