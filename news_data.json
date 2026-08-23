@@ -1,5 +1,17 @@
 [
  {
+  "title": "What to know about Trump’s 50% tariffs on Canadian goods that just went into effect",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVHl1OFdkU2VpRThnVkF0UE9lcXYyeERtOFZOMDNQTHZTR1VxU3pzVWc4WEs4TXFIcnNtYThhWmVzOHprcmNwbDBUT1RwekVBd003ZGw1YUZwTXlZa2E0d1pIUFdmWVd5enRtYW5tbjlzSmw1aFVhMF94Ni01TlJsTEtfVWdLR2FtclRPUWJYLUxSMDZCam1ESw?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump yönetimi Kanada mallarına %50 gümrük tarifesi uygulamaya başladı. Türkiye'nin ticaret ortağını etkileyen bu karar küresel ticari gerilimi artırıyor.",
+  "metric": "Gümrük tarifesi: %0 -> %50",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-23T00:01:16.537414+00:00",
+  "type": "news",
+  "cluster_id": "ceb774cccd4d5"
+ },
+ {
   "title": "İsrail ordusunun ateşkese rağmen Lübnan'ın güneyindeki saldırıları sürüyor",
   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-ateskese-ragmen-lubnanin-guneyindeki-saldirilari-suruyor/4034864",
   "source": "Anadolu Ajansı",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-15T14:01:20.614102+00:00",
   "type": "news",
   "cluster_id": "cc740013da290"
- },
- {
-  "title": "İsrail Lübnan'daki pilot bölgelerden çekilmek için anlaşma imzaladı",
-  "link": "https://www.sozcu.com.tr/israil-lubnan-daki-pilot-bolgelerden-cekilmek-icin-anlasma-imzaladi-p336765",
-  "source": "Sözcü",
-  "summary_tr": "İsrail ve Lübnan, Roma'da gerçekleştirilen müzakerelerde İsrail'in pilot bölgelerden çekilmesine ilişkin anlaşma imzaladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-15T14:01:20.614102+00:00",
-  "type": "news",
-  "cluster_id": "ce46d60b60e85"
  }
 ]
