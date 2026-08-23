@@ -1,5 +1,65 @@
 [
  {
+  "title": "Suriye: 'Mekanizma, İsrail işgalini kalıcı hale getirmek yerine güvenlik anlaşmasının önünü açmalı'",
+  "link": "https://www.bbc.com/turkce/articles/c0qvq4j3lj4o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Suriye geçiş yönetimi Dışişleri Bakanı Şeybani, İsrail'in Suriye'den çekilmesini öngören güvenlik anlaşması çağrısında bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-23T11:01:09.521123+00:00",
+  "type": "news",
+  "cluster_id": "c909af592d1d4"
+ },
+ {
+  "title": "Ukrayna lideri Zelenskiy: Seçim ülkeyi yok eder",
+  "link": "https://www.dw.com/tr/ukrayna-lideri-zelenskiy-seçim-ülkeyi-yok-eder/a-78475547?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Ukrayna Devlet Başkanı Zelenskiy, savaş koşullarında seçim yapılmasının ülkeyi yok edeceğini belirterek seçim çağrılarına karşı çıktı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-23T11:01:09.521123+00:00",
+  "type": "news",
+  "cluster_id": "cf4b9f4a2209d"
+ },
+ {
+  "title": "Mazlum Abdi: SDG’nin Suriye ordusuna katılımı bu ay tamamlanacak",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUW1wakZfWFZUc3R1aU1EOU9qM1FnSnFHcWU5NWY3OTBEREJVQnZYclBVQ2QzSWlZVzZfZjBETjBMd183WnduMWNhVnVFT0FDeS1VWmFkN1hzVkhjQUFuS3pQUW9RWFE3XzNWaW9qcWtEeFVsU3JQWlZPQ2twMDhqZ3lZcHc0TGpuMmg1OQ?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "SDG'nin (Suriye Demokratik Güçleri) Suriye ordusuna katılımı bu ay içinde tamamlanacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-23T11:01:09.521123+00:00",
+  "type": "news",
+  "cluster_id": "c1f85276e6373"
+ },
+ {
+  "title": "Norway to give over $9 billion to Ukraine in 2027",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdmhTa18xSnJQQ3IwQTF6LTgwY3dvY2JzNGJfUGJzVjNXdEE1SWt3b0xxQW5MSktZUUZIVHcxY092NmJ4SlRBU0JPYlZIVWFzVE42VHBMeFo4ODJITGwxZWRCc0Z5NDdfcm1aeVFzRDdiYWtMWW9GSGVfcDVRRlJGTnpZeE1MNFhUdVlOMlR2NXVDZw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Norveç 2027'de Ukrayna'ya 9 milyar doların üzerinde yardım sağlayacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-23T11:01:09.521123+00:00",
+  "type": "news",
+  "cluster_id": "c3ca1f1c78813"
+ },
+ {
+  "title": "Bodrum'un en lüks işletmesinde işçiler ayağa kalktı",
+  "link": "https://www.sozcu.com.tr/bodrum-un-en-luks-isletmesinde-isciler-ayaga-kalkti-p351929",
+  "source": "Sözcü",
+  "summary_tr": "Bodrum Yalıkavak'taki popüler sahil işletmesi Xuma Beach'te işçiler uzun çalışma saatleri ve ödenmemiş ücretler nedeniyle eylem başlattı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-23T11:01:09.521123+00:00",
+  "type": "news",
+  "cluster_id": "c7f426aee6f91"
+ },
+ {
   "title": "Putin will draft 300,000 new troops after September elections, Zelenskiy says",
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM3pBalhkVDdUUXRxcVhPUWZjN1pRczkxM2g1ZngybEJNblJiMUllNXFRRzVhR1IzdTFXNEJ3RGtRb2pQYV9ocm1tWFhYS0E4YnZwMHVzeTl3Q3k1Y21uRmI5Z2NtZDBTN2ZHa3hJQXk1M2IzNmlSSk9vQ3J6TkRMSl84eDVNTVF3cThacVltODdEdHE5WVcwZmRLV1RzRUZyUVpZUnE4b3BmYTdpMTBPeUVkbVlBdXdGTjB1eWpxQ3lEUQ?oc=5",
   "source": "Reuters",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-15T21:01:13.749794+00:00",
   "type": "data",
   "cluster_id": ""
- },
- {
-  "title": "Son dakika... ABD İran'a 2'nci hava saldırısını başlattı",
-  "link": "https://www.sozcu.com.tr/son-dakika-abd-iran-a-2-nci-hava-saldirisini-baslatti-p336835",
-  "source": "Sözcü",
-  "summary_tr": "ABD, İran'a ikinci hava saldırısını başlattığını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-15T20:01:12.849756+00:00",
-  "type": "news",
-  "cluster_id": "c5b5928274bbe"
- },
- {
-  "title": "Kuveyt: Hava sahamızda bugün İran kaynaklı 21 İHA ve 4 füze imha edildi",
-  "link": "https://www.cumhuriyet.com.tr/dunya/kuveyt-hava-sahamizda-bugun-iran-kaynakli-21-iha-ve-4-fuze-imha-edildi-2521188",
-  "source": "Cumhuriyet",
-  "summary_tr": "Kuveyt, İran'dan 21 insansız hava aracı ve 4 balistik füze saldırısına maruz kaldığını açıkladı; tüm hedefler imha edildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-15T20:01:12.849756+00:00",
-  "type": "news",
-  "cluster_id": "c4ef5a31e096e"
- },
- {
-  "title": "Fed'in Bej Kitabı, ABD'de ekonomik faaliyetin \"hafif ila orta\" hızda arttığını ortaya koydu",
-  "link": "https://www.aa.com.tr/tr/ekonomi/fedin-bej-kitabi-abdde-ekonomik-faaliyetin-hafif-ila-orta-hizda-arttigini-ortaya-koydu/3999550",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Fed'in Bej Kitabı, ABD ekonomisinde ekonomik faaliyetin hafif ila orta hızda arttığını gösterdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-15T20:01:12.849756+00:00",
-  "type": "news",
-  "cluster_id": "c5a7ae56aeade"
- },
- {
-  "title": "İsrail, ateşkese rağmen Gazze'nin orta kesimini yoğun hava saldırılarıyla hedef aldı",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-ateskese-ragmen-gazzenin-orta-kesimini-yogun-hava-saldirilariyla-hedef-aldi/3999556",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail, ateşkese rağmen Gazze'nin orta kesiminde ağır hava saldırıları düzenlemeye devam ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-15T20:01:12.849756+00:00",
-  "type": "news",
-  "cluster_id": "c6ddee9340645"
- },
- {
-  "title": "İran basını: Ahvaz ve Çabahar kentlerinde patlama sesleri duyuldu",
-  "link": "https://www.trthaber.com/haber/dunya/iran-basini-ahvaz-ve-cabahar-kentlerinde-patlama-sesleri-duyuldu-951322.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD'nin yeni saldırı duyurusunun ardından İran'ın Ahvaz ve Çabahar kentlerinde patlama sesleri duyuldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-15T20:01:12.849756+00:00",
-  "type": "news",
-  "cluster_id": "ce199ae2cd1ff"
  }
 ]
