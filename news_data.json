@@ -1,5 +1,41 @@
 [
  {
+  "title": "İran'da dolar tarihin en yüksek seviyesinde",
+  "link": "https://www.diken.com.tr/iranda-dolar-tarihin-en-yuksek-seviyesinde/?utm_source=rss&utm_medium=rss&utm_campaign=iranda-dolar-tarihin-en-yuksek-seviyesinde",
+  "source": "Diken",
+  "summary_tr": "İran'da dolar serbest piyasada tarihi zirveye ulaştı. Ekonomik kriz derinleşiyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-23T16:01:02.569010+00:00",
+  "type": "news",
+  "cluster_id": "c5a24621205c1"
+ },
+ {
+  "title": "İran'da 7.5 trilyon fit küplük yeni doğalgaz rezervi keşfedildi",
+  "link": "https://www.cumhuriyet.com.tr/dunya/iran-da-7-5-trilyon-fit-kupluk-yeni-dogalgaz-rezervi-kesfedildi-2531676",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran Petrol Bakanı, ülkenin güneyinde 7,5 trilyon fit küp doğal gaz rezervi keşfedildiğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-23T16:01:02.569010+00:00",
+  "type": "news",
+  "cluster_id": "cd08a59072a54"
+ },
+ {
+  "title": "İran’da Trump’ın iştahını kabartacak keşif",
+  "link": "https://www.sozcu.com.tr/iran-da-trump-in-istahini-kabartacak-kesif-p351987",
+  "source": "Sözcü",
+  "summary_tr": "İran, güneyindeki Fars eyaletinde 7,5 trilyon fit küp doğal gaz rezervi bulunduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-23T16:01:02.569010+00:00",
+  "type": "news",
+  "cluster_id": "c6dca6f73f408"
+ },
+ {
   "title": "İsrail medyası: Tom Barrack'a istihbarat aktarımı durduruldu",
   "link": "https://www.diken.com.tr/israil-medyasi-tom-barracka-istihbarat-aktarimi-durduruldu/?utm_source=rss&utm_medium=rss&utm_campaign=israil-medyasi-tom-barracka-istihbarat-aktarimi-durduruldu",
   "source": "Diken",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-16T04:01:06.103903+00:00",
   "type": "news",
   "cluster_id": "c194019f322f9"
- },
- {
-  "title": "Adaletsizliğe Meclis'te isyan",
-  "link": "https://www.sozcu.com.tr/adaletsizlige-meclis-te-isyan-p336869",
-  "source": "Sözcü",
-  "summary_tr": "Emekliler, AKP'nin en düşük emekli aylığını 23.552 liraya çıkaran düzenlemesine karşı çıkarak en az 10 bin lira ilave zam talep ediyor.",
-  "metric": "Asgari emekli aylığı: 23.552 TL (emekliler 10.000+ TL daha zam istiyor)",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-07-16T03:01:13.802548+00:00",
-  "type": "news",
-  "cluster_id": "c3c559976d5a4"
- },
- {
-  "title": "‘Devletin kollarında olmam gerekmez mi?’",
-  "link": "https://www.sozcu.com.tr/devletin-kollarinda-olmam-gerekmez-mi-p336872",
-  "source": "Sözcü",
-  "summary_tr": "PKK çatışmasında iki gözünü kaybeden gazi, protez maliyeti (135 bin lira) nedeniyle devlet desteği talep ediyor.",
-  "metric": "Protez değiştirme maliyeti: 135.000 TL",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-16T03:01:13.802548+00:00",
-  "type": "news",
-  "cluster_id": "cb2c2decee53f"
- },
- {
-  "title": "Fark ödemeleri ay sonunda hesapta",
-  "link": "https://www.sozcu.com.tr/fark-odemeleri-ay-sonunda-hesapta-p336866",
-  "source": "Sözcü",
-  "summary_tr": "15 Temmuz itibarıyla zamlı maaşlar hesaplara yatıyor; öğretmen, polis, doktor ve memurlar için fark ödemeleri ay sonunda yapılacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-16T03:01:13.802548+00:00",
-  "type": "news",
-  "cluster_id": "cbee16047b045"
  }
 ]
