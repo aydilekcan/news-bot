@@ -1,5 +1,53 @@
 [
  {
+  "title": "Merkez Bankası, haftalık repo ihalelerine yeniden başlıyor",
+  "link": "https://www.diken.com.tr/merkez-bankasi-haftalik-repo-ihalelerine-yeniden-basliyor/?utm_source=rss&utm_medium=rss&utm_campaign=merkez-bankasi-haftalik-repo-ihalelerine-yeniden-basliyor",
+  "source": "Diken",
+  "summary_tr": "TCMB, bir hafta vadeli repo ihalelerine yeniden başladı. Para politikası sinyali.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-23T19:01:04.668220+00:00",
+  "type": "news",
+  "cluster_id": "ca55e9ad36c4d"
+ },
+ {
+  "title": "TCMB'den bir hafta vadeli repo ihalelerine tekrar başlama kararı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/tcmbden-bir-hafta-vadeli-repo-ihalelerine-tekrar-baslama-karari/4035284",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "TCMB, bir hafta vadeli repo ihalelerine tekrar başlanmasına karar verdi. Para politikası hamlesi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-23T19:01:04.668220+00:00",
+  "type": "news",
+  "cluster_id": "c2aac7b2892b8"
+ },
+ {
+  "title": "AKP'ye geçeceği iddia ediliyordu... Ümit Dikbayır'dan videolu açıklama: 'Teklif geldi, Erdoğan'la görüştüm'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/akp-ye-gececegi-iddia-ediliyordu-umit-dikbayir-dan-videolu-aciklama-teklif-geldi-erdogan-la-gorustum-2531702",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP Milletvekili Ümit Dikbayır AKP'ye katılma teklifini Erdoğan'ın da dahil olduğunu açıkladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-23T19:01:04.668220+00:00",
+  "type": "news",
+  "cluster_id": "ca5d01f341a89"
+ },
+ {
+  "title": "Erdoğan’ın ismini çizdiği Dikbayır, Akşener iddiasını doğruladı",
+  "link": "https://www.sozcu.com.tr/erdogan-in-ismini-cizdigi-dikbayir-aksener-iddiasini-dogruladi-p352014",
+  "source": "Sözcü",
+  "summary_tr": "CHP'den istifa eden Milletvekili Ümit Dikbayır, Cumhurbaşkanı Erdoğan'ın AKP'ye geçişini desteklediğini doğruladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-23T19:01:04.668220+00:00",
+  "type": "news",
+  "cluster_id": "cc14ae5deacfa"
+ },
+ {
   "title": "TCMB, bir hafta vadeli repo ihalelerine yeniden başlıyor",
   "link": "https://www.sozcu.com.tr/tcmb-bir-hafta-vadeli-repo-ihalelerine-yeniden-basliyor-p352003",
   "source": "Sözcü",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-16T06:01:14.988464+00:00",
   "type": "news",
   "cluster_id": "c74bc66d06562"
- },
- {
-  "title": "US imposes 25% tariff on some imports from Brazil",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbGRpMHZ2OHBuOU0tdVU1ZDFaQ29kd2RUNTZxV0VDWGVDcHBtSmxZal9LZjhWMC14T3pwcUt1RHFfUFJ6bDJYMUgyYjFCd293dVlnUndVLXZRS2VkR1AtUVhyZzVraVczVHRNMmNzWGdlNHBONEhnUnYxTlR3d3p2aUxYLW5JVTI1RkgtODEzX3lIUG8?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, Brezila'dan bazı ithalatlarına %25 tarife uygulamaya başladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-16T06:01:14.988464+00:00",
-  "type": "news",
-  "cluster_id": "c8c12afa87522"
- },
- {
-  "title": "Reuters: Yemeksepeti satılabilir",
-  "link": "https://www.diken.com.tr/reuters-yemeksepeti-satilabilir/?utm_source=rss&utm_medium=rss&utm_campaign=reuters-yemeksepeti-satilabilir",
-  "source": "Diken",
-  "summary_tr": "Delivery Hero'nun sahibi olduğu Yemeksepeti uygulaması satılabilir hale geldi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-16T06:01:14.988464+00:00",
-  "type": "news",
-  "cluster_id": "c059dbadd7e80"
- },
- {
-  "title": "Oil prices turn lower as traders weigh impact of renewed US strikes on Iran",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ09hT2dSaHFGQjJ2ckhSbUVfdGhGdVZYLXA4SGZ2ZWJCNTlkQU1LN2pYdURFX2F1QTFhNnVCMzZjMklKRXowdnF1YjdXSDR2TGVHMjBSb21pT1JmT3ZuNTNEWktLd3FZNlFHV29fVDhmTElfVXUxOWs0RDdWUHg2Qkt0QXJpMTgxUm02a08yOVBxRTJTOUhiSkVtQXBKclFWQUppMThudWFvV3dXejYyN3BBMzhiM2JKUXc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Petrol fiyatları, ABD'nin İran'a yönelik yeni saldırılarının etkisinin tartışılması üzerine düştü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-16T06:01:14.988464+00:00",
-  "type": "news",
-  "cluster_id": "ca660f46377ff"
- },
- {
-  "title": "TSMC posts 77% profit jump for Q2, surging past market expectations",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUk5mYmNUVFNRQ1VkeFE1RHUyQzZEb1YzRncyMVVTR2VSdVZiaFJRM0Q3RWNXZUl6c3JQV2xldkowNmdKUTNzVmZvVGt3NDZjZy1lN0I3S1Y4a2dvT2psbUNvVFhjWW12ckZLREdHeWlweUgzbGJ6UG0za25BRGlpcVlhMkJpRHFkVVFZWWRZeFVIV18xelNBV2x1QWF3aFAyY1NydG1pWmpCWDJNY1ZF?oc=5",
-  "source": "Reuters",
-  "summary_tr": "TSMC, 2. çeyrek dönem karını %77 artırarak pazar beklentilerini aştı.",
-  "metric": "TSMC net kar +%77",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-16T06:01:14.988464+00:00",
-  "type": "news",
-  "cluster_id": "c7490e9a54bb1"
  }
 ]
