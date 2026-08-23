@@ -1,5 +1,65 @@
 [
  {
+  "title": "Zelenski çark etti: Savaş devam ederken seçime karşıymış",
+  "link": "https://www.diken.com.tr/zelenski-cark-etti-savas-devam-ederken-secime-karsiymis/?utm_source=rss&utm_medium=rss&utm_campaign=zelenski-cark-etti-savas-devam-ederken-secime-karsiymis",
+  "source": "Diken",
+  "summary_tr": "Ukrayna Devlet Başkanı Zelenski, savaş devam ederken seçim yapılmasına karşı olduğunu ifade etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-23T12:00:57.325726+00:00",
+  "type": "news",
+  "cluster_id": "cd0b0131e65b2"
+ },
+ {
+  "title": "Mehmet Şimşek duyurdu: Altı bakanlığın bütçesinden fazla tasarruf edilmiş",
+  "link": "https://www.diken.com.tr/mehmet-simsek-duyurdu-alti-bakanligin-butcesinden-fazla-tasarruf-edilmis/?utm_source=rss&utm_medium=rss&utm_campaign=mehmet-simsek-duyurdu-alti-bakanligin-butcesinden-fazla-tasarruf-edilmis",
+  "source": "Diken",
+  "summary_tr": "Hazine ve Maliye Bakanı Mehmet Şimşek, kamuda 484 milyar TL tasarruf sağlandığını duyurdu.",
+  "metric": "Kamu tasarrufu 484 milyar TL",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-23T12:00:57.325726+00:00",
+  "type": "news",
+  "cluster_id": "c632d60ee304f"
+ },
+ {
+  "title": "Bakan Şimşek: Kamuda 484 milyar TL tasarruf sağladık",
+  "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-kamuda-484-milyar-tl-tasarruf-sagladik-954701.html",
+  "source": "TRT Haber",
+  "summary_tr": "Hazine ve Maliye Bakanı Mehmet Şimşek, 2024-2025 döneminde kamuda 484 milyar TL tasarruf sağlandığını açıkladı.",
+  "metric": "Kamu tasarrufu 484 milyar TL",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-23T12:00:57.325726+00:00",
+  "type": "news",
+  "cluster_id": "c2f02f258b402"
+ },
+ {
+  "title": "Barajlarda doluluk arttı, uzmanı uyardı: 'İyi bir su yılı, kuraklığın bittiği anlamına gelmez'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/barajlarda-doluluk-artti-uzmani-uyardi-iyi-bir-su-yili-kurakligin-bittigi-anlamina-gelmez-2531600",
+  "source": "Cumhuriyet",
+  "summary_tr": "Barajlardaki doluluk oranı geçen yıla göre yüzde 75,4 arttı ancak Türkiye'nin su krizinin tamamen ortadan kalkmadığı belirtildi.",
+  "metric": "Baraj doluluk artışı %75,4",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-23T12:00:57.325726+00:00",
+  "type": "news",
+  "cluster_id": "cf6111fbbbbcd"
+ },
+ {
+  "title": "TÜFE (aylık): %1,29",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeHhsNHRUMHlrT1lFQ1NsclJJUlBrdzJjXzZlUkoyQzhVMEFZRExuRVliT0EtOEY5ZWJPNV9DU0VhRXJGeVpfQnhRcVNUSlp6Ry1UZGEwLVNBNFdIMHUtaEpUNTU5dllSSzh2SlV5ZUw2R3doNnJFT1JpM3JISEt1YlBPRXFjcklsS2c0eEpBaGFCZDhaXzBn?oc=5",
+  "source": "TÜİK",
+  "summary_tr": "%2,90 → %1,29 (-1,6 puan)",
+  "metric": "-1,6 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-23T12:00:57.325726+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Suriye: 'Mekanizma, İsrail işgalini kalıcı hale getirmek yerine güvenlik anlaşmasının önünü açmalı'",
   "link": "https://www.bbc.com/turkce/articles/c0qvq4j3lj4o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-15T21:01:13.749794+00:00",
   "type": "news",
   "cluster_id": "c7f9f66164626"
- },
- {
-  "title": "İsrail'den Lübnan'dan çekilme mesajı",
-  "link": "https://www.sozcu.com.tr/israil-den-lubnan-dan-cekilme-mesaji-p336842",
-  "source": "Sözcü",
-  "summary_tr": "İsrail, Lübnan ile doğrudan müzakerelerin Roma'daki 6. turunda çekilme mesajı verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-15T21:01:13.749794+00:00",
-  "type": "news",
-  "cluster_id": "cf6db641fbde2"
- },
- {
-  "title": "İran basını: ABD füzeleri Ahvaz’da bir hastanenin yakınına isabet etti",
-  "link": "https://www.aa.com.tr/tr/live-blog/son-gelismeler-abdnin-irana-yonelik-saldirilari-ve-iran-in-misillemeleri/5333",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran basınına göre ABD füzeleri Ahvaz'da bir hastanenin yakınına isabet etti.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-15T21:01:13.749794+00:00",
-  "type": "news",
-  "cluster_id": "c39feaa7e37c9"
- },
- {
-  "title": "Katil İsrail, ateşkese rağmen yine Gazze'ye saldırdı",
-  "link": "https://www.trthaber.com/haber/dunya/katil-israil-ateskese-ragmen-yine-gazzeye-saldirdi-951326.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail ordusu, 10 Ekim 2025'te yürürlüğe giren ateşkese rağmen Gazze Şeridi'nin orta kesiminde saldırılara devam etti.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-15T21:01:13.749794+00:00",
-  "type": "news",
-  "cluster_id": "c12947db8648b"
- },
- {
-  "title": "Fed Başkanı Warsh, yapay zeka kaynaklı fiyat baskılarını enflasyonist görmediğini söyledi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/fed-baskani-warsh-yapay-zeka-kaynakli-fiyat-baskilarini-enflasyonist-gormedigini-soyledi/3999619",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Fed Başkanı Kevin Warsh, yapay zeka yatırımlarından kaynaklanan fiyat baskılarını kısa vadede enflasyonist görmediğini söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-15T21:01:13.749794+00:00",
-  "type": "news",
-  "cluster_id": "c589ae0ec6a27"
- },
- {
-  "title": "Sanayi üretim endeksi (aylık değişim): -2,9% (Mayıs 2025)",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeDF4MHBoazRzc1NiNkMwZWxsb1FRYWlINHhESlBQQzR6S2lGd2phdXptWjZRbkJaRGtFaUpaSnVyMXpqRUNOWWRNSmdJeWt2Wm84dC1uRDctNXV2Sks2b2FfYURxQW1jMkx0U29IUHl1TFFWMkZZWkloamF4WFdaZnhBVzBTVXJQVVBfbVBUM3pBVjZ2cWpmRUJkYjlFRVdua245aEpZcWRIMW5BeEg4c2VFVWlfYUE?oc=5",
-  "source": "TUIK",
-  "summary_tr": "%3,7 → -2,9% (-6,6 puan)",
-  "metric": "-6,6 puan",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-07-15T21:01:13.749794+00:00",
-  "type": "data",
-  "cluster_id": ""
  }
 ]
