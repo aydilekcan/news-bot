@@ -1,5 +1,53 @@
 [
  {
+  "title": "TCMB, bir hafta vadeli repo ihalelerine yeniden başlıyor",
+  "link": "https://www.sozcu.com.tr/tcmb-bir-hafta-vadeli-repo-ihalelerine-yeniden-basliyor-p352003",
+  "source": "Sözcü",
+  "summary_tr": "TCMB, 1 Mart 2026'den itibaren bir hafta vadeli repo ihalelerine yeniden başlıyor. Para politikasında operasyonel araç genişletildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-23T18:01:05.920203+00:00",
+  "type": "news",
+  "cluster_id": "c09f611b7a72a"
+ },
+ {
+  "title": "İran Meclisi'nden dünya ekonomisini ilgilendiren Hürmüz Boğazı kararı",
+  "link": "https://www.sozcu.com.tr/iran-meclisinden-tum-dunya-ekonomisini-ilgilendiren-hurmuz-bogazi-karari-p352001",
+  "source": "Sözcü",
+  "summary_tr": "İran Meclisi, Hürmüz Boğazı'ndan geçen gemilere hizmet karşılığında ücret alınmasını öngören maddeyi kabul etti. Küresel deniz ticaretine potansiyel etki.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-23T18:01:05.920203+00:00",
+  "type": "news",
+  "cluster_id": "cb024c0220a3a"
+ },
+ {
+  "title": "İran'da Meclis komisyonu, Hürmüz Boğazı'ndan geçen gemilerden ücret alınmasını öngören maddeyi kabul etti",
+  "link": "https://www.aa.com.tr/tr/dunya/iranda-meclis-komisyonu-hurmuz-bogazindan-gecen-gemilerden-ucret-alinmasini-ongoren-maddeyi-kabul-etti/4035242",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Meclisinin Ulusal Güvenlik ve Dış Politika Komisyonu, Hürmüz Boğazı'ndan geçen gemilerden ücret alınmasını kabul etti. Küresel enerji ticaretine etkileyebilecek karar.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-23T18:01:05.920203+00:00",
+  "type": "news",
+  "cluster_id": "caa4fdaac19ff"
+ },
+ {
+  "title": "İran'da Meclis komisyonu, Hürmüz Boğazı'ndan geçen gemilerden ücret alınmasını kabul etti",
+  "link": "https://www.trthaber.com/haber/dunya/iranda-meclis-komisyonu-hurmuz-bogazindan-gecen-gemilerden-ucret-alinmasini-kabul-etti-954719.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Meclisi Ulusal Güvenlik ve Dış Politika Komisyonu, Hürmüz Boğazı'ndan geçen gemilere hizmet karşılığında ücret alınmasını kabul etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-23T18:01:05.920203+00:00",
+  "type": "news",
+  "cluster_id": "caa4fdaac19ff"
+ },
+ {
   "title": "Direnen maden işçileri bir sonraki aşamayı duyurdu: ‘Bakanlık sözünü tutmazsa Cumhurbaşkanlığı'na yürüyeceğiz’",
   "link": "https://www.cumhuriyet.com.tr/siyaset/direnen-maden-iscileri-bir-sonraki-asamayi-duyurdu-bakanlik-sozunu-tutmazsa-cumhurbaskanligi-na-yuruyecegiz-2531681",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-16T06:01:14.988464+00:00",
   "type": "news",
   "cluster_id": "c7490e9a54bb1"
- },
- {
-  "title": "BOK hikes rates for first time in 3-1/2 years, signals more",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFJ6VVR1ZnRmU2FSeHRiRnJHa1ZvZE0tQ05aUkRScnBKSE94Yk1sWGNQQUU5N3NZdjVGSWhsX3Nsd1JsTnEtWUEwamRyX19QOHFBTjNjYV9GTUJSd0JydDdCaDI0YThvWUJFLXd2SVJrT09hS0VuRS1RTXhUa0pDQmpsTW9zM1RXSzlCM0g1UXdNdk5QempFMWFJelBYZWFmRF9PbVFHR1dlNEV1TEV1bXktS2RuczJMRzlr?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Güney Kore Merkez Bankası (BOK) 3,5 yıldır ilk kez faiz oranını yükseltti ve ek artışlar sinyali verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-16T05:01:15.687311+00:00",
-  "type": "news",
-  "cluster_id": "c64fad8809805"
- },
- {
-  "title": "Erkan Aydoğanoğlu: 'Geçinebiliyor' görünenler bile her ay biraz daha geriye gidiyor",
-  "link": "https://www.diken.com.tr/erkan-aydoganoglu-gecinebiliyor-gorunenler-bile-her-ay-biraz-daha-geriye-gidiyor/?utm_source=rss&utm_medium=rss&utm_campaign=erkan-aydoganoglu-gecinebiliyor-gorunenler-bile-her-ay-biraz-daha-geriye-gidiyor",
-  "source": "Diken",
-  "summary_tr": "Ekonomist Erkan Aydoğanoğlu: Orta sınıf da dahil 'geçinebiliyor' görünenler her ay biraz daha geriye gidiyor, satın alma gücü düşüyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-16T05:01:15.687311+00:00",
-  "type": "news",
-  "cluster_id": "c97d4657e0a36"
- },
- {
-  "title": "Altın hem korkuyor hem de korkutuyor",
-  "link": "https://www.sozcu.com.tr/altin-hem-korkuyor-hem-de-korkutuyor-p336889",
-  "source": "Sözcü",
-  "summary_tr": "Orta Doğu'daki çatışmalar ve petrol fiyatlarındaki sert yükseliş, altın fiyatlarını ve enflasyon endişelerini artırıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-16T05:01:15.687311+00:00",
-  "type": "news",
-  "cluster_id": "c3f4f6a79a672"
- },
- {
-  "title": "Oil prices rise for 4th day as US strikes on Iran raise fears of wider conflict",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ09hT2dSaHFGQjJ2ckhSbUVfdGhGdVZYLXA4SGZ2ZWJCNTlkQU1LN2pYdURFX2F1QTFhNnVCMzZjMklKRXowdnF1YjdXSDR2TGVHMjBSb21pT1JmT3ZuNTNEWktLd3FZNlFHV29fVDhmTElfVXUxOWs0RDdWUHg2Qkt0QXJpMTgxUm02a08yOVBxRTJTOUhiSkVtQXBKclFWQUppMThudWFvV3dXejYyN3BBMzhiM2JKUXc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD'nin İran'a yönelik hava saldırıları nedeniyle petrol fiyatları dördüncü gün üst üste yükselişte. Çatışma bölgesinin genişlemesi endişesi piyasaları etkiliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-16T04:01:06.103903+00:00",
-  "type": "news",
-  "cluster_id": "ca9df93302512"
  }
 ]
