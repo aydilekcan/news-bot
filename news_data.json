@@ -1,5 +1,41 @@
 [
  {
+  "title": "Konutta hesap sil baştan: Yatırımcının rotası değişmeye başladı",
+  "link": "https://www.sozcu.com.tr/konutta-hesap-sil-bastan-yatirimcinin-rotasi-degismeye-basladi-p351846",
+  "source": "Sözcü",
+  "summary_tr": "Konut satış fiyatlarının reel gerilemesi ve kiraların yükselmesi, Türkiye'de konut yatırımcılarının stratejisini değiştiriyor",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-23T06:01:04.526556+00:00",
+  "type": "news",
+  "cluster_id": "c33a684132d55"
+ },
+ {
+  "title": "Zeynep Aktaş: Son üç haftanın en dikkat çekici gelişmesi altının tekrar hareketlenmesi",
+  "link": "https://www.diken.com.tr/zeynep-aktas-son-uc-haftanin-en-dikkat-cekici-gelismesi-altinin-tekrar-hareketlenmesi/?utm_source=rss&utm_medium=rss&utm_campaign=zeynep-aktas-son-uc-haftanin-en-dikkat-cekici-gelismesi-altinin-tekrar-hareketlenmesi",
+  "source": "Diken",
+  "summary_tr": "Zeynep Aktaş: Son üç haftanın en dikkat çekici gelişmesi altının tekrar hareketlenmesi",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-23T06:01:04.526556+00:00",
+  "type": "news",
+  "cluster_id": "cc566c99a4144"
+ },
+ {
+  "title": "Ahmet Ergin: Sosyal güvenlik hakkı ve emeklilik sistemi baştan aşağı sorunlu",
+  "link": "https://www.diken.com.tr/ahmet-ergin-sosyal-guvenlik-hakki-ve-emeklilik-sistemi-bastan-asagi-sorunlu/?utm_source=rss&utm_medium=rss&utm_campaign=ahmet-ergin-sosyal-guvenlik-hakki-ve-emeklilik-sistemi-bastan-asagi-sorunlu",
+  "source": "Diken",
+  "summary_tr": "Ahmet Ergin: Sosyal güvenlik hakkı ve emeklilik sistemi baştan aşağı sorunlu",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-23T06:01:04.526556+00:00",
+  "type": "news",
+  "cluster_id": "cc314a6494f75"
+ },
+ {
   "title": "Fiyatı tepki çekince tarlada gece gündüz nöbet tutmaya başladılar",
   "link": "https://www.sozcu.com.tr/fiyati-tepki-cekince-tarlada-gece-gunduz-nobet-tutmaya-basladilar-p351831",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-15T15:01:26.112531+00:00",
   "type": "news",
   "cluster_id": "ca51fa36070d4"
- },
- {
-  "title": "Çankaya: Hüseyin Can Güner hangi ihaleler nedeniyle suçlanıyor?",
-  "link": "https://www.dw.com/tr/çankaya-hüseyin-can-güner-hangi-ihaleler-nedeniyle-suçlanıyor/a-77971489?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Çankaya Belediye Başkanı Hüseyin Can Güner, belediye ihalelerinde usulsüzlük gerekçesiyle tutuklandı ve görevinden uzaklaştırıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-15T15:01:26.112531+00:00",
-  "type": "news",
-  "cluster_id": "c39892bad786b"
- },
- {
-  "title": "DEM Parti'den Hüseyin Can Güner'in tutuklanmasına tepki",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/dem-parti-den-huseyin-can-guner-in-tutuklanmasina-tepki-2521113",
-  "source": "Cumhuriyet",
-  "summary_tr": "DEM Parti, Çankaya Belediye Başkanı Hüseyin Can Güner'in tutuklanmasını seçme-seçilme hakkının hedeflenmesi olarak değerlendirerek tepki gösterdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-15T15:01:26.112531+00:00",
-  "type": "news",
-  "cluster_id": "cd2fe6a985d6f"
- },
- {
-  "title": "Çin yapımı tek taşlar elmas devine kurulduğu ülkede fabrika kapattırdı",
-  "link": "https://www.sozcu.com.tr/cin-yapimi-tek-taslar-elmas-devine-kuruldugu-ulkede-fabrika-kapattirdi-p336779",
-  "source": "Sözcü",
-  "summary_tr": "Çin yapımı laboratuvar elmaslarının rekabeti nedeniyle De Beers, Güney Afrika'daki fabrikasını kapattı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-15T15:01:26.112531+00:00",
-  "type": "news",
-  "cluster_id": "cbd6c1c1cf4ff"
  }
 ]
