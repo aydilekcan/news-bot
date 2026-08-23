@@ -1,5 +1,41 @@
 [
  {
+  "title": "İsrail medyası: Tom Barrack'a istihbarat aktarımı durduruldu",
+  "link": "https://www.diken.com.tr/israil-medyasi-tom-barracka-istihbarat-aktarimi-durduruldu/?utm_source=rss&utm_medium=rss&utm_campaign=israil-medyasi-tom-barracka-istihbarat-aktarimi-durduruldu",
+  "source": "Diken",
+  "summary_tr": "İsrail yönetimi, ABD'nin Ankara Büyükelçisi Tom Barrack'a istihbarat aktarımını durdurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-23T15:01:30.796984+00:00",
+  "type": "news",
+  "cluster_id": "c91ed218e10d4"
+ },
+ {
+  "title": "AKP'nin asgari ücret planı ortaya çıktı! YENİ Partili Günaydın'dan çarpıcı iddia",
+  "link": "https://www.sozcu.com.tr/akpnin-asgari-ucret-plani-ortaya-cikti-yani-partili-gunaydindan-carpici-iddia-p351977",
+  "source": "Sözcü",
+  "summary_tr": "YENİ Parti Grup Başkanvekili, hükümetin bölgesel asgari ücret modeline geçtiğini iddia etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-23T15:01:30.796984+00:00",
+  "type": "news",
+  "cluster_id": "c85774b0d5673"
+ },
+ {
+  "title": "İsrail'in ABD'li elçi Barrack'a istihbarat aktarımını durdurduğu iddia edildi",
+  "link": "https://www.aa.com.tr/tr/dunya/israilin-abdli-elci-barracka-istihbarat-aktarimini-durdurdugu-iddia-edildi/4035157",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail, ABD'nin Ankara Büyükelçisi Tom Barrack'a \"İsrail karşıtı tutumu\" nedeniyle istihbarat aktarımını durdurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-23T15:01:30.796984+00:00",
+  "type": "news",
+  "cluster_id": "c8c13a7f14e5e"
+ },
+ {
   "title": "Gökhan Günaydın'dan asgari ücret iddiası: 'Bölgesel asgari ücret açıklamaya hazırlanıyorlar'",
   "link": "https://www.cumhuriyet.com.tr/siyaset/gokhan-gunaydin-dan-asgari-ucret-iddiasi-bolgesel-asgari-ucret-aciklamaya-hazirlaniyorlar-2531647",
   "source": "Cumhuriyet",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-16T03:01:13.802548+00:00",
   "type": "news",
   "cluster_id": "cbee16047b045"
- },
- {
-  "title": "Güneşten sonra nükleere kıyak",
-  "link": "https://www.sozcu.com.tr/gunesten-sonra-nukleere-kiyak-p336873",
-  "source": "Sözcü",
-  "summary_tr": "Hükümet, Suudi Arabistan'a güneş enerjisi santralleri için 30 yıllık alım garantisi sunarken, nükleer santral yatırımcılarına da vergi teşviki sağlıyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-16T03:01:13.802548+00:00",
-  "type": "news",
-  "cluster_id": "c0324494dbbca"
- },
- {
-  "title": "En düşük emekli aylığının artırılmasına yönelik önergeler reddedildi, sendikaların PTT düzenlemesine yönelik eleştirileri de dikkate alınmadı: İktidar itirazları kabul etmedi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/en-dusuk-emekli-ayliginin-artirilmasina-yonelik-onergeler-reddedildi-sendikalarin-ptt-duzenlemesine-yonelik-elestirileri-de-dikkate-alinmadi-iktidar-itirazlari-kabul-etmedi-2521177",
-  "source": "Cumhuriyet",
-  "summary_tr": "İktidar muhalefetin en düşük emekli aylığını artırma önergesini reddetti; aylık 23.552 TL'de kaldı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-16T02:01:07.658169+00:00",
-  "type": "news",
-  "cluster_id": "cca62197ffb81"
- },
- {
-  "title": "Russia says Ukrainian drone kills chief engineer at Zaporizhzhia nuclear plant",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNXY2MTVja3gxVm9Ld1JEVlc1dWF3QW1OQlZWMkM2Mkg2WllyLUJRWnIwVzZwOTJJb3VnaXQ5Z1BobjRDc24tdl9CMUs3bTJfOHRFckN4cGxDSGstcjR2eE9JZXFWTmNQT1dXcnhqRGlMYmFsWjBxOWxyNjI1VDFzemZjYThHNUVLQXVEX05FWG92NHdjU0M5T0lYZzdyNndsYUVQb1A2dElSWHV6Q3VSUWxZYzlzRW1WRVdFSUdLZ0F0Zw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Rusya, Ukrayna'nın insansız hava aracı saldırısında Zaporizhzhia nükleer santralinin baş mühendisinin öldüğünü iddia etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-16T01:01:11.797663+00:00",
-  "type": "news",
-  "cluster_id": "c4b3e9750e804"
  }
 ]
