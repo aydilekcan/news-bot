@@ -1,5 +1,17 @@
 [
  {
+  "title": "İran, Hürmüz Boğazı'ndaki bazı gemilere yaptırım uyarısında bulundu",
+  "link": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazindaki-bazi-gemilere-yaptirim-uyarisinda-bulundu-954725.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran, Hürmüz Boğazı'ndaki belirlenen geçiş düzenlemelerine uymayan gemilere para cezası, alıkoyma ve diğer yaptırımlar uygulanacağını uyarı yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-23T20:01:00.905246+00:00",
+  "type": "news",
+  "cluster_id": "c0b051a9b62a6"
+ },
+ {
   "title": "Merkez Bankası, haftalık repo ihalelerine yeniden başlıyor",
   "link": "https://www.diken.com.tr/merkez-bankasi-haftalik-repo-ihalelerine-yeniden-basliyor/?utm_source=rss&utm_medium=rss&utm_campaign=merkez-bankasi-haftalik-repo-ihalelerine-yeniden-basliyor",
   "source": "Diken",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-16T06:01:14.988464+00:00",
   "type": "news",
   "cluster_id": "caf75934bd243"
- },
- {
-  "title": "China's record consumer defaults undermine Beijing's push to boost spending",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMEJHUEN2amRSQmw5SGtqZ2lLRG5zcm80NnZQTjZWc3R5V2xVRUNYeC1QeEFwQmF4S1FkZWRzYjZJa0dRQWdrWE9HS0VXZXVIc1pWQkZnWHNaUVFPMzFsWmdJTTVZUWlRVGZMQTRSd1V0UlZ1TzJmZ0czcGFXazAtaG5JTVEtMlB4cW12SXdaMFN4bFdRbW5KRUNYaVo5a2VWUEhCMkRoSlJDN3lCWjlycFBCYzdpQjRaZXFYNGctTHk?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Çin'de rekor tüketici borcları, hükümetin harcama artışı hedefini zayıflatıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-16T06:01:14.988464+00:00",
-  "type": "news",
-  "cluster_id": "c74bc66d06562"
  }
 ]
