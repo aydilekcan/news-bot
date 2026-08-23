@@ -1,5 +1,29 @@
 [
  {
+  "title": "Direnen maden işçileri bir sonraki aşamayı duyurdu: ‘Bakanlık sözünü tutmazsa Cumhurbaşkanlığı'na yürüyeceğiz’",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/direnen-maden-iscileri-bir-sonraki-asamayi-duyurdu-bakanlik-sozunu-tutmazsa-cumhurbaskanligi-na-yuruyecegiz-2531681",
+  "source": "Cumhuriyet",
+  "summary_tr": "Enerji Bakanlığı önündeki madenci eyleminin 14. günü geride bırakıldı; taleplerinin karşılanmaması halinde Cumhurbaşkanlığına yürüyüş planlanıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-23T17:01:03.870573+00:00",
+  "type": "news",
+  "cluster_id": "c6b637e2e02a6"
+ },
+ {
+  "title": "Fırıncıların rekabeti halka yaradı",
+  "link": "https://www.sozcu.com.tr/firincilarin-rekabeti-halka-yaradi-p351994",
+  "source": "Sözcü",
+  "summary_tr": "Iğdır'da fırıncılar arasındaki rekabet ekmek fiyatlarını düşürdü; 200 gram ekmek resmi fiyat 12,5 liranın altında satılıyor.",
+  "metric": "Ekmek fiyatı 12,5 TL -> altında",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-23T17:01:03.870573+00:00",
+  "type": "news",
+  "cluster_id": "c0b4d05873474"
+ },
+ {
   "title": "İran'da dolar tarihin en yüksek seviyesinde",
   "link": "https://www.diken.com.tr/iranda-dolar-tarihin-en-yuksek-seviyesinde/?utm_source=rss&utm_medium=rss&utm_campaign=iranda-dolar-tarihin-en-yuksek-seviyesinde",
   "source": "Diken",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-16T04:01:06.103903+00:00",
   "type": "news",
   "cluster_id": "ca9df93302512"
- },
- {
-  "title": "US airstrikes hit northern Iran as it disables ship trying to run the blockade",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc0ZjN3ZmUVdvbVVLMXFrejJubVRQczZPdVF0QkVwQ3B4SkdNWERtQU5Na0NFWGdrZ0pjU0w1MC05SjhpOHRRVDRZY2lDQkFnRERXWGR6QmlIcV9LaDBQcFdhTThxejdyUDFVbDNBZVlfR0I1Vmg1U19HWERQbnBqUFJJSmpoM2w5VDNacHA4RWZSalpUQ0xwTEpKazJMeGM?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD, İran'ın kuzeyine hava saldırıları düzenledi ve ambargoyu ihlal etmeye çalışan bir gemiyi devre dışı bıraktı. Bölgede gerilim keskin şekilde yükseliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-16T04:01:06.103903+00:00",
-  "type": "news",
-  "cluster_id": "c3c3baac759ab"
- },
- {
-  "title": "Fewer vessels travel through Hormuz as US, Iran continue strikes",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0VSSEhJSHhNNVl6b2dXTWNoa0FjeV9KQkZOMUs5aUtvM0Rwc1FPYk9pd3NlSDgxcy1oVDZqWjQ0c1dFb3NXLUdBOTFpWlJwUld6ZXkwN1lENTREaFpVZ0lDWFY5Y0UzVjdGbHVjQVRsc0FIXzZMSVJfdkVaamtnVnNmZ2lPQm9jV0pCMjdlajFhMmRFVERaLXVvNG1JSi1yYlRxU0NUaGZIUlFhXzJteHhvcTA?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD ve İran arasındaki saldırılar devam ederken Hormuz Boğazı'ndan geçen gemi trafiği azalışa geçti. Deniz ticareti ve enerji tedariki riski artıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-16T04:01:06.103903+00:00",
-  "type": "news",
-  "cluster_id": "c194019f322f9"
  }
 ]
