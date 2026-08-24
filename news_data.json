@@ -1,5 +1,29 @@
 [
  {
+  "title": "Syria, Israel hold US-mediated talks to ease tensions, Syria news agency says",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeVA3N0RmLUxielhCSXB5WE9MYU94X0h0dWNCZ0l2bzZMNkNIdkhEZy1xSDlpOTFpcWtBQ29SeURBR0NIQnRRem5EbExpTkI3ajZlaG1vazM4dFNoQlZ3WVd2OWtHb3RXZjYxXy1vTklDOXBZcktNTERTWTFWRlRnZTRDR0t1T2dJMVNnd1gzTVF4YkJwRWV4bzJnVE01VTVXVGdvV0h4WWJ4cXhsM3ItTXBuM0dfVjlFVmVzTGpyc1hpRURY?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Suriye ve İsrail, ABD arabuluculuğunda gerginliği azaltmak için görüşmelere başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-24T04:01:06.047043+00:00",
+  "type": "news",
+  "cluster_id": "c873c300ab3dc"
+ },
+ {
+  "title": "North Korea preparing further Russia troop deployments, no sign move imminent, Seoul says",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTHFDVms1QXIwRVJKUlRKMWpPY2VvX3FMaVU1UGtlZjV2TVd4OHNkNXVmQ2dQV3Y0NzBwM21IUzN1NzFOYmhlVDBKS092bXB5NmxLeVNnd0VKWkN6TXRVWXAzZjJUNl8tY3R5eEdNQkd5akoyanpjaFpWYXJXbFNOMkFmSllJLXZzN1I5S0REcExyRlRNVHQycE5SaE5NTTBSYVprYTdvR0xBNENHbFJEUzJ1aXFCMWl2UlBXdHZHSXhuOVdqZFQtbWhnUFJJbFA4eklQTnJB?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Kuzey Kore, Rusya'ya ek asker konuşlandırmaya hazırlanıyor; Seul acil bir hareketten henüz haber olmadığını bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-24T04:01:06.047043+00:00",
+  "type": "news",
+  "cluster_id": "c94a42aedf2f3"
+ },
+ {
   "title": "Hak-İş asgari ücret için Almanya modeli önerdi",
   "link": "https://www.sozcu.com.tr/hak-is-asgari-ucret-icin-almanya-modeli-onerdi-p352054",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-16T07:01:21.194914+00:00",
   "type": "news",
   "cluster_id": "c107e5711bf8e"
- },
- {
-  "title": "China's rare earth curbs endanger $6.5 trillion of Western industry, IEA says",
-  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ1JvOGNOVF9NekpFQlJZLWowNkRlZkpZa2JjcnBSalhndDhwb09Gel9TdnNwYUctMlc3VXlHTjlzV0hwMkdBWGdGS04zSUpxdmhnX0JVeU9rRFFMVXFTVkRLaHR4b21NTTFONGVVR1U4VVZ3ZmlUQmRHcHphczdnWExMNFNVS0tWLTE1OEwzakl2VmJZMC1qS2c2YlhxaGNkbi03RjVjbzNRcWhzWkZITjhMR3VrNXB2eU0xaDlCWFN1TThDUkJjVTRDRkI4UkV1T1E?oc=5",
-  "source": "Reuters",
-  "summary_tr": "IEA, Çin'in nadir toprak elementi kısıtlamalarının 6,5 trilyon dolarlık Batı endüstrisini tehdit ettiğini uyarıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-16T07:01:21.194914+00:00",
-  "type": "news",
-  "cluster_id": "cab15d9746f6c"
- },
- {
-  "title": "Britain takes British Steel into public ownership",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbW1QSTNLcmtKbnJ3YXBuVW9NclBGZG5oLWNkR1hHNV9PcjZjSXVNdmRYanpnRDZwN0cxemV4TnczUnR6SzQ0Y0tfcjFEWEJDY3g5b2x0OF9UbUhSdHV3Y20ya0E2R1d5MnpybHR3aVMzMGRDeVJoYXdZeFRtQXhxb3RRMDVSWXAxS2xJZUI0bll0VEdQZ2RVdGt3?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Britanya, British Steel'i kamulaştırma kararı aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-16T07:01:21.194914+00:00",
-  "type": "news",
-  "cluster_id": "c46af1c49bb11"
  }
 ]
