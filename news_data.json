@@ -1,5 +1,53 @@
 [
  {
+  "title": "PKK'nın fesih sürecini takip edecek kurul mesaiye başlıyor",
+  "link": "https://www.dw.com/tr/pkk-nın-fesih-sürecini-takip-edecek-kurul-mesaiye-başlıyor/a-78481868?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "PKK'nın fesih sürecini takip edecek Takip ve Değerlendirme Kurulu bugün ilk kez toplantısına başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-24T09:01:04.619352+00:00",
+  "type": "news",
+  "cluster_id": "c162489e75b5f"
+ },
+ {
+  "title": "Goldman Sachs dolar/lira tahminini yükseltti",
+  "link": "https://www.diken.com.tr/goldman-sachs-dolar-lira-tahminini-yukseltti/?utm_source=rss&utm_medium=rss&utm_campaign=goldman-sachs-dolar-lira-tahminini-yukseltti",
+  "source": "Diken",
+  "summary_tr": "Goldman Sachs, dolar/lira kurunun aylık değer kaybı hızlanması nedeniyle tahminini yükseltti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-24T09:01:04.619352+00:00",
+  "type": "news",
+  "cluster_id": "c6da60373a047"
+ },
+ {
+  "title": "Merkez Bankası'nın kararı bankacılık endeksini uçurdu",
+  "link": "https://www.sozcu.com.tr/merkez-bankasi-nin-karari-bankacilik-endeksini-ucurdu-p352190",
+  "source": "Sözcü",
+  "summary_tr": "TCMB'nin repo ihalelerine yeniden başlama kararı Borsa İstanbul'da bankacılık endeksini yükseltti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-24T09:01:04.619352+00:00",
+  "type": "news",
+  "cluster_id": "c416902134b88"
+ },
+ {
+  "title": "FAST işlem limiti 300 bin TL’ye yükseltildi",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YQXBjV25OTktiVmM4bUtKRGhLMlNuc3o0eHVHQmlxZFpQVHU3MzJsVDljdGlLVjlObDE5WFVJNkZxZThkQmk3X2pxS1Q3bkZRWmJNWEp6YVE2M0tHdEJ1S21fTk83WGF2OUdRUw?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "FAST işlem limiti 300 bin TL'ye yükseltildi.",
+  "metric": "FAST işlem limiti (önceki) -> 300.000 TL (yeni)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-24T09:01:04.619352+00:00",
+  "type": "news",
+  "cluster_id": "c7c0794e6c0f5"
+ },
+ {
   "title": "Rusya, Ukrayna limanlarını vurdu... Putin'den Kiev'e mesaj: 'Cehennemin kapılarını açtılar!'",
   "link": "https://www.cumhuriyet.com.tr/dunya/rusya-ukrayna-limanlarini-vurdu-putin-den-kiev-e-mesaj-cehennemin-kapilarini-actilar-2531826",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-16T12:01:18.614683+00:00",
   "type": "news",
   "cluster_id": "c4d9ae280b063"
- },
- {
-  "title": "Tarım-ÜFE (yıllık): %9,55",
-  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYWHdxSTM1WjFtYjhiakhEY01yVU1pTkNpLVdTN1NzZWtIM0ZyLXpVUnBwcjhQN0pRWXlFNTRsSzg3SFAwMjRuTUY4eUNtcklzU2JOdEJGOGI5ekZOMTZuNkJaZm1HZVhWV2tKa3J2VFVSZnpuNi16NEpqRdIBgAFBVV95cUxNOVJNSTJoQ1JJZzFDOE53YkhzX0dsOWdJLXN4UF9GWXB2cXNzTkI0aEJVTkoyWGlqQnQ2QlRvdmhaRWcxVkFmdjdWQ2N5aUItS09VbTFIazF5WWdoQV9zTVFIX29PRlc2NmpyNFVmdEJDRDQ1N0ZfT0FGZ0RVVTBwOA?oc=5",
-  "source": "TUIK",
-  "summary_tr": "%9,55",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-07-16T12:01:18.614683+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "DEM Parti çerçeve yasa taslağı için Bahçeli ile görüştü",
-  "link": "https://www.bbc.com/turkce/articles/c78gln0xe75o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "DEM Parti, Bahçeli ile görüşerek Meclis tatile girmeden çerçeve yasasının çıkarılması için müzakereleri sürdürüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-16T11:01:20.484539+00:00",
-  "type": "news",
-  "cluster_id": "cfd0067c17e98"
- },
- {
-  "title": "BİSAM'dan temmuz ayı açlık sınırını açıkladı: Dengeli beslenmenin aylık bedeli 36 bin TL",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/bisam-dan-temmuz-ayi-aclik-sinirini-acikladi-dengeli-beslenmenin-aylik-bedeli-36-bin-tl-2521349",
-  "source": "Cumhuriyet",
-  "summary_tr": "BİSAM verilerine göre temmuz ayında dört kişilik bir ailenin dengeli beslenebilmesi için aylık gıda harcaması olan açlık sınırı 36 bin TL olarak açıklandı.",
-  "metric": "Aylık açlık sınırı 36.000 TL",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-16T11:01:20.484539+00:00",
-  "type": "news",
-  "cluster_id": "c7843a9c3b4e2"
- },
- {
-  "title": "Merz'ten Trump'a uyarı: Almanya seçimlerine karışmayın",
-  "link": "https://www.dw.com/tr/merz-ten-trump-a-uyarı-almanya-seçimlerine-karışmayın/a-77973765?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Almanya Başbakanı Merz, Trump yönetiminin Avrupa'daki göçmen karşıtı siyasi gruplara mali destek verme girişiminden rahatsızlığını dile getirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-16T11:01:20.484539+00:00",
-  "type": "news",
-  "cluster_id": "c3fb9ed3c9ad8"
  }
 ]
