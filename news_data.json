@@ -1,5 +1,65 @@
 [
  {
+  "title": "Osman Kavala davası: AİHM kritik kararı yarın açıklayacak",
+  "link": "https://www.dw.com/tr/osman-kavala-davası-aihm-kritik-kararı-yarın-açıklayacak/a-78461054?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "AİHM, Osman Kavala'nın 2019'de serbest bırakılması gereken kararına rağmen süren tutukluluğu hakkında kritik kararını açıklayacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-24T05:01:04.482584+00:00",
+  "type": "news",
+  "cluster_id": "cc00e3d4aa71a"
+ },
+ {
+  "title": "İran savaşının son verisi: 18 ABD askeri öldü, en az 756'sı yaralı",
+  "link": "https://www.diken.com.tr/iran-savasinin-son-verisi-18-abd-askeri-oldu-en-az-756si-yarali/?utm_source=rss&utm_medium=rss&utm_campaign=iran-savasinin-son-verisi-18-abd-askeri-oldu-en-az-756si-yarali",
+  "source": "Diken",
+  "summary_tr": "ABD Pentagon verisine göre İran savaşında 18 ABD askeri öldü, en az 756'sı yaralandı.",
+  "metric": "ABD kayıpları: 18 ölü, 756+ yaralı",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-24T05:01:04.482584+00:00",
+  "type": "news",
+  "cluster_id": "c929e13bf9b06"
+ },
+ {
+  "title": "Suriye devlet medyası İsrail ile Ürdün'de görüşüldüğünü yazdı",
+  "link": "https://www.bbc.com/turkce/articles/c0qvq4j3lj4o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Suriye geçiş yönetimi Dışişleri Bakanı Şeybani, İsrail istihbaratı Mossad ile Ürdün'de görüştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-24T05:01:04.482584+00:00",
+  "type": "news",
+  "cluster_id": "c0ab9ba07096a"
+ },
+ {
+  "title": "Erdoğan Sağlam | Kanuni faiz oranı değiştirildi!",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVEFUZkl3MU9oMWNXMXU3T3pJaTZvb1BRdnNVaG0tcEpvUVpCc2MxWGU5MDFqUGZKZnNYV2puaHBFRGNWX3Fyb3ZXWUxlT0hqd0tkOEV4MzMxaWxLSzg3Ymw2Y216YzJRZlFkcWtoVmJFMGJWUDZLc2tvNHZfTmdkVjVyenRQQQ?oc=5",
+  "source": "T24",
+  "summary_tr": "Kanuni faiz oranı değiştirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-24T05:01:04.482584+00:00",
+  "type": "news",
+  "cluster_id": "c275beaea604e"
+ },
+ {
+  "title": "Shares dither, oil slips in wait for US details of Iran sanctions",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Petrol fiyatları ABD'nin İran yaptırımları detaylarını beklerken düşüş eğilimi gösteriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-24T05:01:04.482584+00:00",
+  "type": "news",
+  "cluster_id": "c9377cfa006dc"
+ },
+ {
   "title": "Syria, Israel hold US-mediated talks to ease tensions, Syria news agency says",
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeVA3N0RmLUxielhCSXB5WE9MYU94X0h0dWNCZ0l2bzZMNkNIdkhEZy1xSDlpOTFpcWtBQ29SeURBR0NIQnRRem5EbExpTkI3ajZlaG1vazM4dFNoQlZ3WVd2OWtHb3RXZjYxXy1vTklDOXBZcktNTERTWTFWRlRnZTRDR0t1T2dJMVNnd1gzTVF4YkJwRWV4bzJnVE01VTVXVGdvV0h4WWJ4cXhsM3ItTXBuM0dfVjlFVmVzTGpyc1hpRURY?oc=5",
   "source": "Reuters",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-16T07:01:21.194914+00:00",
   "type": "news",
   "cluster_id": "c6e510f45c079"
- },
- {
-  "title": "Noterlerde yeni dönem başlıyor: AYM'den milyonları ilgilendiren kritik karar!",
-  "link": "https://www.sozcu.com.tr/noterlerde-yeni-donem-basliyor-aym-den-milyonlari-ilgilendiren-kritik-karar-p336929",
-  "source": "Sözcü",
-  "summary_tr": "Anayasa Mahkemesi, noterlerin tatil günlerinde çalışmasını öngören yönetmelik hükmünü iptal etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-16T07:01:21.194914+00:00",
-  "type": "news",
-  "cluster_id": "c6e510f45c079"
- },
- {
-  "title": "Küresel piyasalarda yön arayışı: Enflasyon verileri umut verdi, jeopolitik riskler baskı yarattı",
-  "link": "https://www.sozcu.com.tr/kuresel-piyasalarda-yon-arayisi-enflasyon-verileri-umut-verdi-jeopolitik-riskler-baski-yaratti-p336924",
-  "source": "Sözcü",
-  "summary_tr": "ABD enflasyonunun beklentilerin altında gelmesi Fed'in faiz artışını erteleyebileceği beklentilerini güçlendirirken, jeopolitik riskler piyasalara baskı yapıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-16T07:01:21.194914+00:00",
-  "type": "news",
-  "cluster_id": "ce6e20c904a25"
- },
- {
-  "title": "Serbest bölgelerden yılın ilk yarısında yapılan ihracatta rekor",
-  "link": "https://www.aa.com.tr/tr/ekonomi/serbest-bolgelerden-yilin-ilk-yarisinda-yapilan-ihracatta-rekor/3999795",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye'nin 19 serbest bölgesinden yılın ilk yarısında yapılan ihracat 6,6 milyar dolara ulaşarak rekor kırdı.",
-  "metric": "Serbest bölge ihracatı 6,6 milyar dolar (rekor)",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-16T07:01:21.194914+00:00",
-  "type": "news",
-  "cluster_id": "ccbbeff611ac8"
- },
- {
-  "title": "AYM, noterlerin tatil günlerinde çalışmasının yönetmelikle düzenlenmesini iptal etti",
-  "link": "https://www.aa.com.tr/tr/gundem/aym-noterlerin-tatil-gunlerinde-calismasinin-yonetmelikle-duzenlenmesini-iptal-etti/3999791",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Anayasa Mahkemesi, noterlerin tatil günlerinde çalışmasının yönetmelikle düzenlenmesini iptal etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-16T07:01:21.194914+00:00",
-  "type": "news",
-  "cluster_id": "c124d1627d580"
- },
- {
-  "title": "TSMC Q2 profit jumps 77% to record, far surpasses expectations",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYnh6a29MX0JydGlXMF83eUJWTTJrcEJZMTR1al8xTXVoTk1QTkduOTBCTjBFa09Qbmd5SjE3NGFiOHl3SHZ6RmFOM0ZoVmg3dFo2TUpiLWhqYnpJME1SdHhZZ2VwX3RuTmhwTHo1TzFjc0V5dDhaU3lELVdNcy1xM2tiZUZwSXdScFNrVmYtSFU2dFgwZUVwV2ZCQUZrZ0VUQUl5Zm1oQ0xfcktCWE5KVEp3?oc=5",
-  "source": "Reuters",
-  "summary_tr": "TSMC Q2 karı %77 artarak rekor seviyeye ulaştı ve beklentileri çok aştı.",
-  "metric": "TSMC Q2 karı +%77 (rekor)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-16T07:01:21.194914+00:00",
-  "type": "news",
-  "cluster_id": "c107e5711bf8e"
  }
 ]
