@@ -1,5 +1,53 @@
 [
  {
+  "title": "Süreçte yeni eşik: PKK'nin feshini ve silah bırakmayı değerlendirecek 'Takip Kurulu' ilk kez toplandı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/surecte-yeni-esik-pkk-nin-feshini-ve-silah-birakmayi-degerlendirecek-takip-kurulu-ilk-kez-toplandi-2531961",
+  "source": "Cumhuriyet",
+  "summary_tr": "PKK'nin feshini ve silah bırakmayı değerlendirecek 'Takip Kurulu' ilk kez toplandı; süreç kapsamında milli dayanışma yasasıyla ilgili.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-24T13:01:12.519594+00:00",
+  "type": "news",
+  "cluster_id": "cfd3f3b9d3cf3"
+ },
+ {
+  "title": "Doruk Madencilik işçileri yeniden eylemde: İşçiler ne istiyor, şirket ne diyor?",
+  "link": "https://www.bbc.com/turkce/articles/cj3d5xelmkpo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "SSS Holding bünyesindeki Doruk Madencilik ve Eti Gümüş işçileri Ankara'da eylem başlattı; alacaklarının ödenmesi talep ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-24T13:01:12.519594+00:00",
+  "type": "news",
+  "cluster_id": "c47489ae85f98"
+ },
+ {
+  "title": "Almanya'da aşırı sıcakların ekonomik faturası 36 milyar avroyu aştı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/almanyada-asiri-sicaklarin-ekonomik-faturasi-36-milyar-avroyu-asti/4035869",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Almanya'da aşırı sıcak ve kuraklığın ekonomiye faturası en az 36 milyar avroyu aştı.",
+  "metric": "Ekonomik hasar 36 milyar avro+",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-24T13:01:12.519594+00:00",
+  "type": "news",
+  "cluster_id": "c0a9c4e57c1f6"
+ },
+ {
+  "title": "71 ilde uyuşturucu tacirlerine operasyon: 807 tutuklama",
+  "link": "https://www.trthaber.com/haber/turkiye/71-ilde-uyusturucu-tacirlerine-operasyon-807-tutuklama-954791.html",
+  "source": "TRT Haber",
+  "summary_tr": "İçişleri Bakanlığı tarafından 71 ilde uyuşturucu operasyonunda 1.368 şüpheliden 807'si tutuklandı.",
+  "metric": "Tutuklama: 807 kişi",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-24T13:01:12.519594+00:00",
+  "type": "news",
+  "cluster_id": "ced928aadb747"
+ },
+ {
   "title": "UEA Başkanı Birol'dan sert uyarı: Dizel ve jet yakıtı stokları tükenmek üzere",
   "link": "https://www.sozcu.com.tr/uea-baskani-biroldan-sert-uyari-dizel-ve-jet-yakiti-stoklari-tukenmek-uzere-p352252",
   "source": "Sözcü",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-16T14:01:17.239107+00:00",
   "type": "news",
   "cluster_id": "c9e49c9c9bfbf"
- },
- {
-  "title": "DEM Parti heyeti, Bahçeli ve Ala'yla görüştü: İçeriğe dair bilgi vermeyeceğiz",
-  "link": "https://www.diken.com.tr/dem-parti-heyeti-bahceli-ve-alayla-gorustu-icerige-dair-bilgi-vermeyecegiz/?utm_source=rss&utm_medium=rss&utm_campaign=dem-parti-heyeti-bahceli-ve-alayla-gorustu-icerige-dair-bilgi-vermeyecegiz",
-  "source": "Diken",
-  "summary_tr": "DEM Parti heyeti Bahçeli ve Ala'yla görüştü; içerik hakkında bilgi verilmeyecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-16T14:01:17.239107+00:00",
-  "type": "news",
-  "cluster_id": "c6d56110aa2ef"
- },
- {
-  "title": "Gümüş fiyatlarında 8 aydır görülmedik seviye",
-  "link": "https://www.sozcu.com.tr/gumus-fiyatlarinda-8-ay-sonra-bir-ilk-p337070",
-  "source": "Sözcü",
-  "summary_tr": "Gümüş fiyatları 8 aydır görülmedik seviyelere ulaştı; jeopolitik riskler petrol fiyatlarını yukarı çekiyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-16T14:01:17.239107+00:00",
-  "type": "news",
-  "cluster_id": "cc729c66c48d3"
- },
- {
-  "title": "Gündem 'çerçeve yasa': İmralı Heyeti'nden Bahçeli'ye kritik ziyaret",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV0FhTnlDQVZhMTd5U1R1aWhqUVRXTXZRdzFfaHl2c00xMHJuY3pUTkFQTUVNeVVIRlFzaFZERTJnNnJQUHFCS1Jqa1lXWncyaGVwLWE0M2NvSTBhdkZ3anMzTkhwb2xYdF9IU2JGLUFJUklSV1Jwd2JfZWNzd0NkUVdqUE5uX1E4cG9NUFlxYWxpeXVBcWo1UURFYy1FUUFWYnc?oc=5",
-  "source": "soL",
-  "summary_tr": "İmralı Heyeti Bahçeli'yi ziyaret etti; çerçeve yasası gündemde.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-16T14:01:17.239107+00:00",
-  "type": "news",
-  "cluster_id": "c9546e1f67609"
- },
- {
-  "title": "Starmer says UK to help fund 16 Gripen fighter jets for Ukraine",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLU9xQTFVdEtCNExlUkNEWEFteS1IcWgxS2lGYzVONmUwTEpQMDFhM01SVWZ2c0tiQnJIT1BUbm5BM2JoUmZEWl9EMVJLb1gtcUdZb1VIUGRJSWhibFJjUTJjOGgzV0hPTFhIUXB2YmxpeElZekt1X2pKeF8zNTh1SEJRMjNwenZZX2hnc29DbzZDRXlwRlZYYkZKc0E4Wnc3V3d4QnVzREhsSW5hWVlWSVFuMWdYRGo1Tm40?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Starmer, İngiltere'nin Ukrayna'ya 16 Gripen savaş uçağının finansmanında yardım yapacağını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-16T14:01:17.239107+00:00",
-  "type": "news",
-  "cluster_id": "ca873181dfe57"
  }
 ]
