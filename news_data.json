@@ -1,5 +1,53 @@
 [
  {
+  "title": "AP: ABD yönetimi yaklaşık 200 bin yabancının vizesini iptal etmeye hazırlanıyor",
+  "link": "https://www.aa.com.tr/tr/dunya/ap-abd-yonetimi-yaklasik-200-bin-yabancinin-vizesini-iptal-etmeye-hazirlaniyor/4036342",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD yönetimi yaklaşık 200 bin yabancının vizesini iptal etmeyi hazırlıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-24T22:01:06.949810+00:00",
+  "type": "news",
+  "cluster_id": "c6f79b576a0c8"
+ },
+ {
+  "title": "Supreme Court sides with Trump administration on mail voting restrictions ahead of midterms",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUTFJYWp5U2FxQlpxYjVCb1p5dThHZmx4NGNwRnpybDZSMEVnZVpBMWZuaU9CSDlieHVYU3kzOUQ4TEl6RjlBZmxwd2dBQW9qclA0VG1RQnRBcUdkSDRfbE1RTmdib2tzRFUyTWwxTmVlZE1FVkt5QmR6M0ZVVUlyQ1pQN2E0S2pJUnJxb3RYZlZTT3BodVE?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD Yüksek Mahkemesi Trump yönetiminin posta oylaması kısıtlamaları kararını destekledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-24T22:01:06.949810+00:00",
+  "type": "news",
+  "cluster_id": "c11db2f15964a"
+ },
+ {
+  "title": "TBMM'de Yeni Yol Grubu düşebilir; iki milletvekili DEM Parti ve AKP'ye geçecek iddiası",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcW1YMVhaTVpyNHptY1k3UmRkOHVlazh4TnVvVkdYb1dNbklsMjYyUUw2ZjRjeTJPOWVUV2RORU9XaGtRejVQeVQzeXFOWUJCUUZwaWlOUFpxMS1xTXVBTmNqNXBFaWpGOW95T1lEUGgybWwzaS01Q0VJZXNMZUwxekVpMWF0ejB5VHBMTlpvLW93ZXRYZk9VYUhGOXg0QXU4X2ZqaDl2OEd4MXVwMmFQN2t3?oc=5",
+  "source": "T24",
+  "summary_tr": "TBMM'de Yeni Yol Grubu iki milletvekili kaybedebilir; DEM Parti ve AKP'ye geçiş iddiası.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-24T22:01:06.949810+00:00",
+  "type": "news",
+  "cluster_id": "cf796c7d5998f"
+ },
+ {
+  "title": "İYİP milletvekili Selçuk Türkoğlu polis müdahalesi sonrası hastaneye kaldırıldı",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeklua1JuUUNla3RBRkV1RHM1ajZkcmg5R2lsdDBMOVBkWm9FYzJfQXlLU3lfSUtNYl8xSnBxQnVZSjN6Vl9nd1ozazUxNWpfdjNjMHk3aWd1cm1GbENwRUdTdDZBZkdhMWJkWU5sY0lwT3ZiNU53UkFUZWhJV0tQdF95M1Z6RlBPbzFVZU9vWEEzaS1yTXhOSlY2eVZLaTlVODVHZzlILU9YQW95OEpsY2FNVFdzb3Bu?oc=5",
+  "source": "soL",
+  "summary_tr": "İYİP milletvekili Selçuk Türkoğlu polis müdahalesi sonrası hastaneye kaldırıldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-24T22:01:06.949810+00:00",
+  "type": "news",
+  "cluster_id": "c3ccef434046c"
+ },
+ {
   "title": "ABD'den İran'a 'ekonomik dışlama operasyonu': Her ülkeye süre verilmiş",
   "link": "https://www.diken.com.tr/abdden-irana-ekonomik-dislama-operasyonu-her-ulkeye-sure-verilmis/?utm_source=rss&utm_medium=rss&utm_campaign=abdden-irana-ekonomik-dislama-operasyonu-her-ulkeye-sure-verilmis",
   "source": "Diken",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-17T03:01:10.051131+00:00",
   "type": "news",
   "cluster_id": "c5eaece19707f"
- },
- {
-  "title": "MHP: Emekliye kaynak var",
-  "link": "https://www.sozcu.com.tr/mhp-emekliye-kaynak-var-p337157",
-  "source": "Sözcü",
-  "summary_tr": "MHP Milletvekili Kalaycı, bütçenin iyileştiğini ve emekli ile çalışanların beklentisini karşılayacak kaynağın bulunduğunu belirtti.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-17T03:01:10.051131+00:00",
-  "type": "news",
-  "cluster_id": "c73fe84a98bb0"
- },
- {
-  "title": "US says it has ended its latest round of airstrikes targeting Iran",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYXFnZWtOU1NXb01HY2FxbTBsUmJqNDlaa3NORmpyZ0pYVzhSVFZkaUNYTjczY0E1YjhpR1F1OGRoT3dJNnVTMjVuUGJyamVCckJwMi1WY0hJR2NyVGQ0ZDdzbF9LMzgteGZDRGtMd0ZQV211YWF3cHpYLWdhTXZjTXVhTG1zRkRmR3Q1NVdQRWNEb2xhZU0zRTFodmM4ZXc?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD, İran'ı hedef alan hava saldırılarının son turunu sonlandırdığını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-17T02:01:08.006949+00:00",
-  "type": "news",
-  "cluster_id": "c6f1bb2b63e7c"
- },
- {
-  "title": "Katar Savunma Bakanlığı: Ülkeyi hedef alan füze saldırıları engellendi",
-  "link": "https://www.trthaber.com/haber/dunya/katar-savunma-bakanligi-ulkeyi-hedef-alan-fuze-saldirilari-engellendi-951426.html",
-  "source": "TRT Haber",
-  "summary_tr": "Katar Savunma Bakanlığı, ülkeyi hedef alan füze saldırılarının başarıyla engellendiğini duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-17T02:01:08.006949+00:00",
-  "type": "news",
-  "cluster_id": "c5a4161bd5ff2"
- },
- {
-  "title": "İktidar, genel aydınlatma giderleri için daha fazla kesintiye hazırlanırken, muhalefet tepkili: ‘Belediyelere yük bindiriliyor’",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/iktidar-genel-aydinlatma-giderleri-icin-daha-fazla-kesintiye-hazirlanirken-muhalefet-tepkili-belediyelere-yuk-bindiriliyor-2521519",
-  "source": "Cumhuriyet",
-  "summary_tr": "Hükümet, belediyeler tarafından karşılanacak genel aydınlatma giderlerinin kesintisini artırma planına gidiyor; muhalefet tepkili.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-17T02:01:08.006949+00:00",
-  "type": "news",
-  "cluster_id": "c522ddf97f46d"
  }
 ]
