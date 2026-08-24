@@ -1,5 +1,41 @@
 [
  {
+  "title": "Oil falls ahead of US announcement on new Iran sanctions",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONkR4RDVXMEFvZ0x5NGhmcVVWVnU0ckNHdF9UZVp4Z05rM2pTRkppNWxTREowb0xEbVVudzlBXzVuc2FkcFQ0TjFoUUduN3hEZlFoVGo0UTVyOG40RHBDNU5FUG1zSFI5MnFlbWEzdDNiMmRoa05GUGFsREZzaWZObUY0T2NGRlNVcVRvZU1xb2I2WFI2bGRlV3lXUWxWZzJILTdaMzk4TTJHVDFaUWZkUmNRdF9CdmJTT0E?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD'nin İran'a karşı yeni yaptırım kararı öncesinde petrol fiyatları düşüşe geçti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-24T01:01:05.254748+00:00",
+  "type": "news",
+  "cluster_id": "c51d1c6a78de6"
+ },
+ {
+  "title": "China's property crisis grinds on after Evergrande sentencing",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOEFtRENfZGN4U3JLT3U2Mld5dC1TRnZNdHpXMnJJUEI4TUk3UjhFTl9yT3EzblF2WnJ5a3IzTFRCSklxa3ZuMVE1Vk9NaGRacFZod1hRRlZaZERRWW9GNlM3MW5jWkhkbVhfVXRsTDhGSGQyUjdvN2JxcnJFc0FuQldGNG9HWmxKY1RPYVkyWmhjczZfOFJ5SzIzUEVJZTdtemVYeGszXzk?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin'in emlak krizinin devam ettiği ortamda Evergrande cezalandırılması kriz çarkını döndürmeye yetmedi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-24T01:01:05.254748+00:00",
+  "type": "news",
+  "cluster_id": "c6a9f93dfd9be"
+ },
+ {
+  "title": "Yurt dışı ÜFE (yıllık): %29,67 (Temmuz)",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcXF6UjhTSzY5QllkZ01TNVEwdzNhcFdwNzFpVGJVenpUczNyNEhrUkFVVVdGTElMOHFiblNFaVN3SE1CeUR3ZUprdDhEWHhFNzhtbnIzTUR2ODZLdWdWUmhkeHZzZGdRYndFb2RSQ2JrVE9yQkk1eWhrTHRvcG12anpPRWw4cUJKdGU1WnZuQmxiSXJ3WGNHS2tiNzNramI5dmJXYmpIbFUyMDlYY1HSAbMBQVVfeXFMT2F6ZC0xRER4RV9fVHFzb3NZTk04Y1lSajVoUGxtaWVsbkdDMm9EbnFpVDktcUxfTjBicnZYV015UVVVY0VtLWxKMTJxWmZtZnUxYVhyLVN4YTNRZ1pWYnd2WTFnTTRZelF3VXEzQmtfcjFfTTZDMmtTNjQtSVBNTUdFU0tGa0JKX080aEVaVWpBTXZaSzc5NUVNdXB1Z0JfTzhTVnBTaWVGZG5DamRkTVM1Y2M?oc=5",
+  "source": "TÜİK",
+  "summary_tr": "%29,67 → %29,67",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-24T01:01:05.254748+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Suriye ve İsrail heyetleri \"gerilimi azaltmak için\" ABD arabuluculuğunda bir araya geldi",
   "link": "https://www.aa.com.tr/tr/dunya/suriye-ve-israil-heyetleri-gerilimi-azaltmak-icin-abd-arabuluculugunda-bir-araya-geldi/4035360",
   "source": "Anadolu Ajansı",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-16T07:01:21.194914+00:00",
   "type": "news",
   "cluster_id": "cb06b2d680ff6"
- },
- {
-  "title": "İngiltere ekonomisi mayısta yüzde 0,1 büyüdü",
-  "link": "https://www.aa.com.tr/tr/ekonomi/ingiltere-ekonomisi-mayista-yuzde-0-1-buyudu/3999797",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İngiltere ekonomisi mayısta yüzde 0,1 oranında büyüdü.",
-  "metric": "İngiltere ekonomisi büyümesi %0,1",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-16T07:01:21.194914+00:00",
-  "type": "news",
-  "cluster_id": "c1efc625cc9b1"
- },
- {
-  "title": "Küresel piyasalarda artan jeopolitik gerilim, ABD'de yavaşlayan enflasyonun pozitif etkilerini sınırlıyor",
-  "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-artan-jeopolitik-gerilim-abdde-yavaslayan-enflasyonun-pozitif-etkilerini-sinirliyor/3999767",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Küresel piyasalar ABD'de enflasyonun yavaşlamasına rağmen artan jeopolitik gerilim nedeniyle sınırlı hareket gösteriyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-16T07:01:21.194914+00:00",
-  "type": "news",
-  "cluster_id": "c87e050bb2312"
- },
- {
-  "title": "Gold falls as Mideast conflict dims easing inflation hopes",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZVRHTF9hUEdzeEVCU1g0SGhqcERsYWw1YnlkNUZ3X3hEbmpqN0RMLWM0YjlhSHpKSll3akpfaU5UMHctSERsNmxMMW1nLUgwd1NhSjhvN3kyNklCbGhhLUtyWnZLV1FCMlluTE9uT25wdS04akQxQWQ0VnhSZnFaSk14Tmt1MHRSZXNlZkRMcmJjT3k1LTVpaURWTFNQQlF3YmdDeA?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Orta Doğu çatışmasının enflasyon düşüş beklentilerini azaltması altının fiyatında düşüşe neden oldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-16T07:01:21.194914+00:00",
-  "type": "news",
-  "cluster_id": "c201ca12d7864"
  }
 ]
