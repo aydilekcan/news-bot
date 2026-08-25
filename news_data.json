@@ -1,5 +1,29 @@
 [
  {
+  "title": "Tonlarca domatesi toprağa gömüyorlar",
+  "link": "https://www.sozcu.com.tr/tonlarca-domatesi-topraga-gomuyorlar-p352582",
+  "source": "Sözcü",
+  "summary_tr": "Salçalık domates üretimi krize girdi; tonlarca ürün satılamayarak tarlada ve fabrika kapılarında kaldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-25T14:01:07.866492+00:00",
+  "type": "news",
+  "cluster_id": "cfa694f9ee582"
+ },
+ {
+  "title": "AB'nin 2. çeyrek dış ticaret açığı 21,8 milyar euro",
+  "link": "https://www.sozcu.com.tr/ab-nin-2-ceyrek-dis-ticaret-acigi-21-8-milyar-euro-p352588",
+  "source": "Sözcü",
+  "summary_tr": "AB ikinci çeyrekte 21,8 milyar euro dış ticaret açığı verdi; enerji ürünleri açığı artmaya devam ediyor.",
+  "metric": "AB dış ticaret açığı: 21,8 milyar euro",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-25T14:01:07.866492+00:00",
+  "type": "news",
+  "cluster_id": "c3b757c3e089e"
+ },
+ {
   "title": "Memur ve emekli maaş zammında 4 senaryo belli oldu: Milyonların gözü yıl sonu enflasyonunda",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/memur-ve-emekli-maas-zamminda-4-senaryo-belli-oldu-milyonlarin-gozu-yil-sonu-enflasyonunda-2532263",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-17T17:01:16.551864+00:00",
   "type": "news",
   "cluster_id": "c69ba77ffab48"
- },
- {
-  "title": "PKK'nın kurucularından Duran Kalkan: 'Bu süreç batmayacak'",
-  "link": "https://www.bbc.com/turkce/articles/c62xmz8d2emo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "PKK kurucusu Duran Kalkan, hükümetin 'Terörsüz Türkiye' adlı yeni çözüm sürecinin başarılı olacağını savundu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-17T16:01:07.843175+00:00",
-  "type": "news",
-  "cluster_id": "c5b4eadbfdf66"
- },
- {
-  "title": "Yeni dokunulmazlık fezlekeleri TBMM'de",
-  "link": "https://www.trthaber.com/haber/gundem/yeni-dokunulmazlik-fezlekeleri-tbmmde-951495.html",
-  "source": "TRT Haber",
-  "summary_tr": "TBMM Başkanlığı'na 7 milletvekiline ait 9 dokunulmazlık dosyası sunuldu; CHP Grup Başkanı Özel'in 3 dosyası daha önce Komisyon'a sevk edilmişti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-17T16:01:07.843175+00:00",
-  "type": "news",
-  "cluster_id": "c059cf8fa8024"
  }
 ]
