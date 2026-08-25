@@ -1,5 +1,41 @@
 [
  {
+  "title": "Canada slaps retaliatory tariffs on US goods worth $20 billion as trade war intensifies",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYnllQWZiMlB2MERDOUJLLWZUdGs0SjFhaDVKcVJwNWVGb0FhZ2pramhtQVJlT2l0eUlBREV1YUgzTEgxZzliNjVQR1hRTWdOdGJXSFhlamF3LXl0dGRmZjg0c1NwWEZKNDRiRkgyZG5QUmw1UlZ3dDA2ZlNtMTNabUVxc0UzdDRsNTM1b2hPWHlTZjVadWxJUTRLWGVuM1A3eFQxU21lQm1RY3hpMS1URUcxX1lGQktwZnR6SFhkOA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Kanada, ABD ile ticari gerginlikten dolayı 20 milyar dolarlık mal üzerine misilleme tarifesi uyguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-25T19:01:10.885808+00:00",
+  "type": "news",
+  "cluster_id": "ce94e61598294"
+ },
+ {
+  "title": "Enerji Bakanlığı önündeki maden işçileri eyleminde 4 kişi gözaltına alındı",
+  "link": "https://www.sozcu.com.tr/enerji-bakanligi-onundeki-maden-iscileri-eyleminde-4-kisi-gozaltina-alindi-p352648",
+  "source": "Sözcü",
+  "summary_tr": "Enerji Bakanlığı önünde aylardır ücret ödenmeyen maden işçileri eylem yapıyor; 16. gün devam ediyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-25T19:01:10.885808+00:00",
+  "type": "news",
+  "cluster_id": "cd0254f195be8"
+ },
+ {
+  "title": "Falling oil prices help calm the stock and bond markets",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUnkxV2Y3U2loLXNvZXJ1RGplTnM3OFdWb0F4dHpGT3Z5MmxLVlg1NkczOUI4ME5ldmZWWTY3ZWxxRDFvdWpaOEsxSXRXdk5ISGpYNkY2Q0JvWGVwYmdHakpuRDQxWDBGb3BLcnF1MG9jYzNsNVItLW1tQ2tXZEc1c0tMUkhzQjVPZlgyRXFWMUl4eDg2c1F4NVp6bkN2S1FK?oc=5",
+  "source": "AP",
+  "summary_tr": "Petrol fiyatlarında düşüş hisse ve tahvil piyasalarının sakinleşmesine yardımcı oldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-25T19:01:10.885808+00:00",
+  "type": "news",
+  "cluster_id": "c36a297bd8d50"
+ },
+ {
   "title": "Trump says Strait of Hormuz has been demined, warns Iran not to plant more",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT20tcldmTnJoUWpfYlFMcnhIamdoZG5aenFWZDlLaGJFOG9mUVZQOENaU3hTNTlJOGpEUkg1QW9qVi1qUENRRGxLU3V2QW50cEs3YlE2LU1EZHhidlhheXpBeXBiX3FrT1dFeTFmQmo2cGpIdExvUUlET1d1eHJqc09lYVlvNjFPbEtmS0FaQ0xfYWlCdVl6WXQ3UjBMUUxZbWVNS0VXVTRfbzFwekE?oc=5",
   "source": "Reuters",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-17T22:01:17.462691+00:00",
   "type": "news",
   "cluster_id": "c8d31404fa38a"
- },
- {
-  "title": "Ardahan Valiliğine Ömer Hilmi Yamlı atandı",
-  "link": "https://www.aa.com.tr/tr/gundem/ardahan-valiligine-omer-hilmi-yamli-atandi/4001868",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Cumhurbaşkanı Erdoğan'ın atama kararıyla Ardahan Valiliğine Ömer Hilmi Yamlı getirildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-17T22:01:17.462691+00:00",
-  "type": "news",
-  "cluster_id": "c76a39694f7ba"
- },
- {
-  "title": "TBMM Milli Savunma Komisyonu Başkanı Akar, \"S-400 konusunun bir şekilde\" çözüleceğini söyledi",
-  "link": "https://www.aa.com.tr/tr/gundem/tbmm-milli-savunma-komisyonu-baskani-akar-s-400-konusunun-bir-sekilde-cozulecegini-soyledi/4001865",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "TBMM Milli Savunma Komisyonu Başkanı Akar, S-400 konusunun çözüleceğini söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-17T22:01:17.462691+00:00",
-  "type": "news",
-  "cluster_id": "cb0f32813c085"
- },
- {
-  "title": "Apple Nvidiayı geride bırakarak dünyanın en değerli şirketi unvanını geri aldı",
-  "link": "https://www.trthaber.com/haber/dunya/apple-nvidiayi-geride-birakarak-dunyanin-en-degerli-sirketi-unvanini-geri-aldi-951513.html",
-  "source": "TRT Haber",
-  "summary_tr": "Apple, Nvidia'yı geride bırakarak dünyanın en değerli şirketi unvanını geri aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-17T22:01:17.462691+00:00",
-  "type": "news",
-  "cluster_id": "ce66378e55076"
  }
 ]
