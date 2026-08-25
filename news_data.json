@@ -1,5 +1,29 @@
 [
  {
+  "title": "Trump yönetimi, 200.000 sığınmacının vizesini iptal etmeyi planlıyor",
+  "link": "https://www.trthaber.com/haber/dunya/trump-yonetimi-200000-siginmacinin-vizesini-iptal-etmeyi-planliyor-954834.html",
+  "source": "TRT Haber",
+  "summary_tr": "Trump yönetimi ABD'deki 200.000 sığınmacının vizesini iptal etmeyi planlıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-25T04:01:02.948824+00:00",
+  "type": "news",
+  "cluster_id": "c897c9930fc45"
+ },
+ {
+  "title": "Küba Devlet Başkanı DiazCanel, ABD ile diyaloğun tıkanmış durumda olduğunu söyledi",
+  "link": "https://www.trthaber.com/haber/dunya/kuba-devlet-baskani-diaz-canel-abd-ile-diyalogun-tikanmis-durumda-oldugunu-soyledi-954827.html",
+  "source": "TRT Haber",
+  "summary_tr": "Küba Devlet Başkanı DiazCanel, ABD ile diyaloğun tıkanmış durumda olduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-25T04:01:02.948824+00:00",
+  "type": "news",
+  "cluster_id": "cd3a724938ce9"
+ },
+ {
   "title": "Emekli ocakta yüzde 9.91  enflasyon farkı alabilir",
   "link": "https://www.sozcu.com.tr/emekli-ocakta-yuzde-9-91-enflasyon-farki-alabilir-p352382",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-17T05:01:11.888378+00:00",
   "type": "news",
   "cluster_id": "c9a19a668d959"
- },
- {
-  "title": "İran tehdidi piyasaları vurdu! Altında son zamanların en sert düşüşü",
-  "link": "https://www.sozcu.com.tr/iran-tehdidi-piyasalari-vurdu-altinda-son-zamanlarin-en-sert-dususu-p337167",
-  "source": "Sözcü",
-  "summary_tr": "İran-ABD çatışması tırmanması petrol fiyatlarını yükseltti; altında son zamanların en sert düşüşü yaşandı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-17T05:01:11.888378+00:00",
-  "type": "news",
-  "cluster_id": "c2b15685a18e4"
- },
- {
-  "title": "ABD ordusu, ablukayı aşmaya çalışan 5 ticari geminin seyrine müdahale etti",
-  "link": "https://www.trthaber.com/haber/dunya/abd-ordusu-ablukayi-asmaya-calisan-5-ticari-geminin-seyrine-mudahale-etti-951430.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD ordusu İran ablukasını aşmaya çalışan 5 ticari geminin seyrine müdahale etti.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-17T05:01:11.888378+00:00",
-  "type": "news",
-  "cluster_id": "c089409e6d5a6"
  }
 ]
