@@ -1,5 +1,29 @@
 [
  {
+  "title": "Iran vows to retaliate after US widens sanctions",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2NneVkxY2I3clNhUzloallHZTVKV2h5N2wxbGNwWVZlNEZMRzBwRnJXRGdmYjdHOVl0ZFZHYk1fR08xQmY4VnhEZjAxRURrUHRrLWV2NmlsMndTQ3UzN1VyR3luekZMUmUtUE9ON0FnMGxiektWdG9RUlBJOXVFQjVoa3JnUFp2MGlmamJuTDJEZF81Rkp3NA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran, ABD'nin yaptırımlarını genişletmesinin ardından misilleme yapacağını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-25T02:01:06.061460+00:00",
+  "type": "news",
+  "cluster_id": "cee69bc8717dc"
+ },
+ {
+  "title": "Ukrayna Büyükelçisi ‘Karadeniz’deki saldırıları bitirecek formülü’ açıkladı: ‘Türkiye’nin barış çabaları artsın’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/ukrayna-buyukelcisi-karadeniz-deki-saldirilari-bitirecek-formulu-acikladi-turkiye-nin-baris-cabalari-artsin-2532079",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ukrayna Ankara Büyükelçisi, Karadeniz'deki saldırılarının durması için Türkiye'nin barış çabalarının artırılması gerektiğini belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-25T02:01:06.061460+00:00",
+  "type": "news",
+  "cluster_id": "cb1b51204713f"
+ },
+ {
   "title": "Trump administration plans to revoke visas of foreigners seeking asylum",
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVWRPbWFoWm1RU2pZZHJkVFhNUmV3M0huVGtTU2p2LVZ6am5TT01LVHFGVTkwRDBVQ0tNc0tGZ2JLU0VIamdhVUM5WE1YWkY1T1NmV3g0bDJkOTJ5b1pWTndVeUhIMk1IbV9QRjZrMFBDaU5FMW1kemZaNXhCS2ZYZjVSaGJTYmhzb2RkRkxlQVlqMlpVT2Z4cnB5VHF3RGlDNXRJ?oc=5",
   "source": "Reuters",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-17T05:01:11.888378+00:00",
   "type": "news",
   "cluster_id": "cfaedb65aa23c"
- },
- {
-  "title": "Ahbap soruşturması: Deprem yardımlarına ilişkin bilirkişi heyeti görevlendirildi, 4 kişi daha tutuklandı",
-  "link": "https://www.bbc.com/turkce/articles/c24ye7d207no?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Deprem yardımları soruşturmasında Ahbap Derneği'ne yönelik operasyonda 4 kişi daha tutuklandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-17T05:01:11.888378+00:00",
-  "type": "news",
-  "cluster_id": "c293e5b6001ee"
- },
- {
-  "title": "Ahbap soruşturması: Oğuzhan Uğur gözaltına alındı",
-  "link": "https://www.diken.com.tr/ahbap-sorusturmasi-oguzhan-ugur-gozaltina-alindi/?utm_source=rss&utm_medium=rss&utm_campaign=ahbap-sorusturmasi-oguzhan-ugur-gozaltina-alindi",
-  "source": "Diken",
-  "summary_tr": "Babala TV kurucusu Oğuzhan Uğur, deprem yardımları soruşturması kapsamında gözaltına alındı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-17T05:01:11.888378+00:00",
-  "type": "news",
-  "cluster_id": "cd8415aebb8ce"
  }
 ]
