@@ -1,5 +1,65 @@
 [
  {
+  "title": "ABD'nin yaptırımlarına İran ve Çin'den tepki: 'Çıkarlarımızı korumak için gerekli önlemleri alırız'",
+  "link": "https://www.bbc.com/turkce/articles/clyl8985r2eo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD, İran ve Çin'e karşı ekonomik yaptırımlarını genişletme planını açıkladı; İran ve Çin tepki göstererek karşılık almakla tehdit etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-25T12:01:06.232450+00:00",
+  "type": "news",
+  "cluster_id": "c45886c10864a"
+ },
+ {
+  "title": "Volkswagen'de küçülme planı yönetim ile işçileri karşı karşıya getiriyor",
+  "link": "https://www.aa.com.tr/tr/ekonomi/volkswagende-kuculme-plani-yonetim-ile-iscileri-karsi-karsiya-getiriyor/4036804",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Volkswagen Grubu işten çıkarma ve fabrika kapatma planları nedeniyle tarihinin en derin krizlerinden biriyle karşı karşıyadır; yönetim ve işçiler arasında çatışma yaşanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-25T12:01:06.232450+00:00",
+  "type": "news",
+  "cluster_id": "c93a70311d34c"
+ },
+ {
+  "title": "Volkswagen CEO faces angry workers in push for radical cuts",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVjR2TGludXI2SElaQkVfeXhPUWVqZTdMVWg3RldzWmFQVklWcUFqYVFBaVB6cFdZYWxiVm1iS1NQSG9SMGxhMDdLcENTaHphTUR3NWM4enNBLXJTQkdiZm1aazRFR3lfUnhvZUtNbzA1a0FDNDJUdGVkdXhfVEYwbjdyVFl4R0hKYTU1S1pRY25lOGM1bGNpQTNGbmNubFNNb3c3U0xqRldJb1dMRXFrS1d3?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Volkswagen CEO, radikal kesinti planlarını ileri sürerken işçilerin öfkesiyle karşı karşıya kaldı; grup tarihinin en derin krizini yaşıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-25T12:01:06.232450+00:00",
+  "type": "news",
+  "cluster_id": "c023962ae1e8f"
+ },
+ {
+  "title": "Rekolte çöküşü yaşayan ürün bu yıl altın kadar pahalı olacak: 7 bin tondan 2 bin tona düştü",
+  "link": "https://www.sozcu.com.tr/rekolte-cokusu-yasayan-urun-bu-yil-altin-kadar-pahali-olacak-7-bin-tondan-2-bin-tona-dustu-p352551",
+  "source": "Sözcü",
+  "summary_tr": "Zirai don felaketi nedeniyle bir ürünün rekolte 7 bin tondan 2 bin tona düştü; bu yıl altın kadar pahalı olacağı bekleniliyor.",
+  "metric": "Rekolte 7.000 ton -> 2.000 ton (-71%)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-25T12:01:06.232450+00:00",
+  "type": "news",
+  "cluster_id": "cbc74b513d0ad"
+ },
+ {
+  "title": "AB'den ikinci çeyrekte 21,8 milyar avro dış ticaret açığı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abden-ikinci-ceyrekte-21-8-milyar-avro-dis-ticaret-acigi/4036919",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "AB, 2026 yılı ikinci çeyreğinde 21,8 milyar avro dış ticaret açığı verdi; enerji ürünlerindeki açık artmıştır.",
+  "metric": "AB dış ticaret açığı 21,8 milyar avro",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-25T12:01:06.232450+00:00",
+  "type": "news",
+  "cluster_id": "c68166735ffb8"
+ },
+ {
   "title": "İran: 'ABD'nin yeni yaptırımlarına karşı tamamen hazırlıklıyız'",
   "link": "https://www.bbc.com/turkce/articles/clyl8985r2eo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-17T14:01:16.048480+00:00",
   "type": "news",
   "cluster_id": "c259ef14f92e9"
- },
- {
-  "title": "İran'dan ABD'ye sivil altyapıyı hedef alma suçlaması",
-  "link": "https://www.bbc.com/turkce/articles/cze9e190y1zo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "İran ve ABD arasında karşılıklı saldırılar devam ediyor. ABD ordusu İran'daki köprüleri hedef aldı; İran misilleme tehdidi gösterdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-07-17T13:01:09.243608+00:00",
-  "type": "news",
-  "cluster_id": "c55d4ff9eda75"
- },
- {
-  "title": "İran Devrim Muhafızları: Suriye’de ABD komuta merkezini vurduk",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSG81Sm1ocmhRd3otdlJBRDVxRGs2SV9ocUI3Z1lOQUgtQ1lJZTQzUmRFdlpodW5zNklDbzBzT0d0MFZWc1VTVG1ZRlgxWko1M1JXU0dDcHp5dldGOWxvcXdCMlVmaUZfWWIwQ1pSM0h4Ui1JeXowNmJKaHloVDhEekNIOVliSW5hZEtsaENBSWQ3ajRFb2pYNVZiT1dsUlk?oc=5",
-  "source": "soL",
-  "summary_tr": "İran Devrim Muhafızları, Suriye'de ABD komuta merkezini vurduğunu duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-17T13:01:09.243608+00:00",
-  "type": "news",
-  "cluster_id": "cf15c10abc635"
- },
- {
-  "title": "Trump ulusa seslendi, Çin'in 2020 seçimine müdahale ettiğini öne sürdü",
-  "link": "https://www.bbc.com/turkce/articles/crmr223jnx8o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Trump, Çin'in 2020 ABD başkanlık seçimlerine müdahale ettiğini iddia etti. Çin Dışişleri Bakanlığı suçlamaları reddetti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-17T13:01:09.243608+00:00",
-  "type": "news",
-  "cluster_id": "ce97b7c818dae"
- },
- {
-  "title": "İran Dışişleri Bakanı: İsrail, ABD'deki muhalifleri susturmak için yine ABD halkının dolarlarını kullanıyor",
-  "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-israil-abddeki-muhalifleri-susturmak-icin-yine-abd-halkinin-dolarlarini-kullaniyor/4001384",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran Dışişleri Bakanı, İsrail'in ABD'yi manipülasyonlarla sonsuz savaşa çekmeye çalıştığını iddia etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-17T13:01:09.243608+00:00",
-  "type": "news",
-  "cluster_id": "ca2c23943f75c"
- },
- {
-  "title": "DEM Parti İmralı Heyeti İmralı Adası'na gidecek",
-  "link": "https://www.sozcu.com.tr/dem-parti-imrali-heyeti-imrali-adasi-na-gidecek-p337359",
-  "source": "Sözcü",
-  "summary_tr": "DEM Parti heyeti 23 Temmuz'da İmralı Adası'nda Abdullah Öcalan ile görüşme yapacak.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-17T13:01:09.243608+00:00",
-  "type": "news",
-  "cluster_id": "ccf13277d12c7"
  }
 ]
