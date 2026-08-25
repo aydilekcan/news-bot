@@ -1,5 +1,53 @@
 [
  {
+  "title": "Trump says Strait of Hormuz has been demined, warns Iran not to plant more",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT20tcldmTnJoUWpfYlFMcnhIamdoZG5aenFWZDlLaGJFOG9mUVZQOENaU3hTNTlJOGpEUkg1QW9qVi1qUENRRGxLU3V2QW50cEs3YlE2LU1EZHhidlhheXpBeXBiX3FrT1dFeTFmQmo2cGpIdExvUUlET1d1eHJqc09lYVlvNjFPbEtmS0FaQ0xfYWlCdVl6WXQ3UjBMUUxZbWVNS0VXVTRfbzFwekE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, Hrmüz Boğazı'nın dönem tahliye edildiğini açıkladı ve İran'ı maden döşememesi konusunda uyardı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-25T18:01:03.934331+00:00",
+  "type": "news",
+  "cluster_id": "c10f72eda045b"
+ },
+ {
+  "title": "Strikes in Gaza kill 4, including 2 children, a week after US asked Israel to curb attacks",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRWgwQ3QxbjJobWR6NzI5SW1icGg5SXJQaFlFTlFrOVVEakVSYUI4d3FwRDJrb1ZUbHNmQmhyQU0xSDI0QWNGV1lZVjg1bFJXZVpzdjI4c3Fjcm11bnhoMUFfUlRMZ1Axa3RxTk1MSE9Ec1hkYXlyOEo2Nnl5YWFrWXk0eHpHbjNiOGw5NXAyODJQR05Dblg1TnQ5Z2V5aHY2TlIxYg?oc=5",
+  "source": "AP",
+  "summary_tr": "Gazze'de İsrail operasyonlarında 4 kişi öldü; ABD'nin saldırıları kısıtlama çağrısından bir hafta sonra olaylar devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-25T18:01:03.934331+00:00",
+  "type": "news",
+  "cluster_id": "c19e9d3fe04f5"
+ },
+ {
+  "title": "Almanya’da ekonomik durgunluğa karşı \"reformları hızlandırın\" çağrısı",
+  "link": "https://www.aa.com.tr/tr/dunya/almanya-da-ekonomik-durgunluga-karsi-reformlari-hizlandirin-cagrisi/4037354",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Almanya Başbakanı Merz, ekonomik durgunluğa karşı federal hükümetin reform süreçlerini hızlandırması çağrısında bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-25T18:01:03.934331+00:00",
+  "type": "news",
+  "cluster_id": "c2f6713906c10"
+ },
+ {
+  "title": "Kuru incirde 90 bin tonun üzerinde rekolte bekleniyor",
+  "link": "https://www.trthaber.com/haber/ekonomi/kuru-incirde-90-bin-tonun-uzerinde-rekolte-bekleniyor-954914.html",
+  "source": "TRT Haber",
+  "summary_tr": "Kuru incikte yeni sezonda geçen yıla göre yaklaşık %20 rekolte artışıyla 90 bin tonun üzerinde üretim bekleniyor.",
+  "metric": "Kuru incir rekoltesi: geçen yıl -> bu yıl (%20 artış)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-25T18:01:03.934331+00:00",
+  "type": "news",
+  "cluster_id": "c68446afd9578"
+ },
+ {
   "title": "Erdoğan'dan İsrail'e: 'Komşularımızın toparlanmasına destek olmaktan vazgeçecek değiliz'",
   "link": "https://www.bbc.com/turkce/articles/cpd0l04y8dno?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-17T22:01:17.462691+00:00",
   "type": "news",
   "cluster_id": "ce66378e55076"
- },
- {
-  "title": "Kılıçdaroğlu’nun yardımcısı Kuşoğlu kurultay için tarih verdi",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRkM0MS1QYXExSVAyMmZMSUFNRVBKUmoybnhuTFlfTW5ZcW95Y0JrcVhRLUpMNllBeGhiLWIzQ1ZRSHVCaTlHY3ItOHZidlB6ZmozWmpqaHB3alRHa0VPNmE2dm1JUksxOFZiMHFMb1Z4NkJReHBoeVZ4eE93RE5seG81QTl6ZGdSdXVBdjFha0t3R21tZ2h2UkhySFZ2MnM?oc=5",
-  "source": "soL",
-  "summary_tr": "Kılıçdaroğlu'nun yardımcısı Kuşoğlu, CHP kurultayı için tarih verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-17T22:01:17.462691+00:00",
-  "type": "news",
-  "cluster_id": "c13e894ce97ba"
- },
- {
-  "title": "İBB davasında İmamoğlu’nun avukatlarından reddi hakim başvurusu",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ0x1ck9xX0JOVk5LZVFBVDRCQ1NZTWQ2MkMydkljY005Z3FEeDVXeDJxdmtGcTVmcGU4RWN2Tk1xMkQtc3E1QUlmMUtrQ1lTTG9fU2dnay1DTzBhX21SZFIwbGEteWw4c0ZQQk81ckJnWjZMaGZJS3E0RjhVUm9uczZCN2FZbm1Ea01DM1UxbWw1Sk9ta0ZiRGdRVV9keTlvMVE?oc=5",
-  "source": "soL",
-  "summary_tr": "İmamoğlu'nun avukatları, İBB davasında reddi hakim başvurusu yaptı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-17T22:01:17.462691+00:00",
-  "type": "news",
-  "cluster_id": "c1c60212f567f"
- },
- {
-  "title": "Meta, Anthropic in talks for potential $10 billion compute lease deal, source says",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2NqN2VtZFNDLWpDUGxnTXlpZmdWRmI3QlJyeTZSS2cwOEdyVEVGY0NGd3F4UGdqYkVoTjVaUWR0bzJVcW8yY0N1dG1zUnl0UUVDa2dKYVhKU2F5OWJPTWFfSGdZWlRfMjZZdEVxUTRiVDE1LXhMSjR0a0FOMFItVHA3V3FTYlVjU0Mzcy12VG9JbVlORGF2bXBFa1BIUjBNaHR6ZnBn?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Meta, Anthropic ile 10 milyar dolarlık bilişim işletme anlaşması için görüşüyor.",
-  "metric": "Meta-Anthropic anlaşma: 10 milyar dolar",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-17T22:01:17.462691+00:00",
-  "type": "news",
-  "cluster_id": "c4c8199deb9b3"
- },
- {
-  "title": "ABD ordusu duyurdu: İran'a yeni saldırı dalgası başlatıldı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/abd-ordusu-duyurdu-iran-a-yeni-saldiri-dalgasi-baslatildi-2521747",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD, İran'a yönelik yeni bir saldırı dalgası başlattığını açıkladı. CENTCOM operasyonları İran pozisyonlarını hedef aldığını bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-17T21:01:05.020286+00:00",
-  "type": "news",
-  "cluster_id": "c86d67cc726a0"
  }
 ]
