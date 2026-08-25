@@ -1,5 +1,65 @@
 [
  {
+  "title": "Cumhurbaşkanı başdanışmanı SSS Holding'e tepki gösterdi, saatler sonra madenciler gözaltına alındı",
+  "link": "https://www.diken.com.tr/cumhurbaskani-basdanismani-sss-holdinge-tepki-gosterdi-saatler-sonra-madenciler-gozaltina-alindi/?utm_source=rss&utm_medium=rss&utm_campaign=cumhurbaskani-basdanismani-sss-holdinge-tepki-gosterdi-saatler-sonra-madenciler-gozaltina-alindi",
+  "source": "Diken",
+  "summary_tr": "Cumhurbaşkanı başdanışmanı SSS Holding'e tepki gösterdi; saatler sonra madenciler gözaltına alındı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-25T21:01:10.346859+00:00",
+  "type": "news",
+  "cluster_id": "c8d2580d6ce8d"
+ },
+ {
+  "title": "YPG'nin fesih kararı sonrası ABD'den ilk açıklama",
+  "link": "https://www.sozcu.com.tr/sdg-karari-sonrasi-abd-den-ilk-aciklama-p352661",
+  "source": "Sözcü",
+  "summary_tr": "ABD Büyükelçi Tom Barrack, YPG'nin feshini tarihi bir olay olarak nitelendirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-25T21:01:10.346859+00:00",
+  "type": "news",
+  "cluster_id": "c9efd7f405985"
+ },
+ {
+  "title": "BM: İsrailli işgalcilerin bu yıl Batı Şeria'daki saldırı ortalaması ayda 200'ün üzerine çıktı",
+  "link": "https://www.trthaber.com/haber/dunya/bm-israilli-isgalcilerin-bu-yil-bati-seriadaki-saldiri-ortalamasi-ayda-200un-uzerine-cikti-954926.html",
+  "source": "TRT Haber",
+  "summary_tr": "BM, İsrailli işgalcilerin Batı Şeria'daki saldırı ortalamasının ayda 200'ün üzerine çıktığını rapor etti.",
+  "metric": "Saldırı ortalaması ayda 200'ün üzerine",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-25T21:01:10.346859+00:00",
+  "type": "news",
+  "cluster_id": "c96d2f050e134"
+ },
+ {
+  "title": "Öcalan'dan sağduyu çağrısı: Bana atfedilen görüşme ve tutanaklar gerçek dışı, süreci akamete uğratmak isteyenlerin komplosu!",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ3JtSTdxNmZ5WWpPYW5kSUVnY2hkNDIweVFTaGxRNEtUZ3hteDN0cWk1WG10ZXFGTV91UkxfYTh2dS14NUd0dlBQb0xhbUJTZHJ2MTItdV80LU5KeVQ2S2lLS1ZqVDdvY3JoQU5xN3dJNkVzQkEwb0RubzFLWUYtenpQVVNCbExnQW1tQ19xSXVFZTl3aGQ5ZEs0Z2lESDFka1lPelRKZFY4N0dfSlN0WThScnFqc1NFbDIwZXk0aEJfekhNOEhEYW1rTDV1aVVnTXBOQ04yemRiVU05?oc=5",
+  "source": "T24",
+  "summary_tr": "Öcalan, kendisine atfedilen görüşme ve tutanakların gerçek dışı olduğunu ve süreci akamete uğratmak isteyenlerin komplosunun kanıtı olduğunu belirtti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-25T21:01:10.346859+00:00",
+  "type": "news",
+  "cluster_id": "c601ad6875d6a"
+ },
+ {
+  "title": "US voters favor Democratic Party on cost of living, Reuters/Ipsos poll finds",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGlCSnlHSWF1RnZEcDg1TmxuZlBxbnY4cWFyOHRLcktyMjRUSjRiQzF5aE02UWVVZUFPV0xZdHpXZ3RlRm5WYVNtLWh0T3NxNnFYVWpiejRXT0FxdDBEZi00RkpDaEUzY3MxV0o5aXJQZTRUUHptcHlNaVB4elk3dkhxVUs1RXg0eDhPNVd2NzctVlF2d2FpRkJuUzlTcTBlZDdpZzdGeTlQdUdfSTh2cnhsSQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Reuters/Ipsos anketine göre ABD seçmenleri yaşam maliyeti konusunda Demokrat Partiye daha fazla güven duyuyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-25T21:01:10.346859+00:00",
+  "type": "news",
+  "cluster_id": "c95469941b0b5"
+ },
+ {
   "title": "Ankara'dan AİHM'e sert Kavala tepkisi",
   "link": "https://www.dw.com/tr/ankara-dan-aihm-e-sert-kavala-tepkisi/a-78502178?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-17T23:01:07.562074+00:00",
   "type": "news",
   "cluster_id": "c67420a3b17fe"
- },
- {
-  "title": "ABD, İran'a üst üste 7. gecede de hava saldırıları düzenledi",
-  "link": "https://www.trthaber.com/haber/dunya/abd-irana-ust-uste-7-gecede-de-hava-saldirilari-duzenledi-951517.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD, İran'a üst üste yedi gecedir hava bombardımanı düzenliyor; İran misilleme yaptı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-07-17T22:01:17.462691+00:00",
-  "type": "news",
-  "cluster_id": "ccffc5373ca2b"
- },
- {
-  "title": "İsrail ordusu, bir grup İsraillinin işgal altındaki Golan Tepeleri'nden Suriye'ye girdiğini duyurdu",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-bir-grup-israillinin-isgal-altindaki-golan-tepelerinden-suriyeye-girdigini-duyurdu/4001874",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail ordusu, bir grup İsraillinin işgal altındaki Golan Tepeleri'nden Suriye'ye girdiğini duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-17T22:01:17.462691+00:00",
-  "type": "news",
-  "cluster_id": "cebca04337dbb"
- },
- {
-  "title": "İran basını: ABD'nin yeni saldırı başlattığını duyurmasının ardından Sirik kentinde 3 patlama sesi duyuldu",
-  "link": "https://www.aa.com.tr/tr/live-blog/son-gelismeler-abdnin-irana-yonelik-saldirilari-ve-iran-in-misillemeleri/5480",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD, İran'a yeni saldırı düzenledi; Sirik kentinde 3 patlama sesi duyuldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-17T22:01:17.462691+00:00",
-  "type": "news",
-  "cluster_id": "cd1d06ff3fa0d"
- },
- {
-  "title": "İran: Bahreyn'de ABD ordusunun deniz dronlarının deposu ile yapay zeka destekli hedefleme merkezini vurduk",
-  "link": "https://www.trthaber.com/haber/dunya/iran-bahreynde-abd-ordusunun-deniz-dronlarinin-deposu-ile-yapay-zeka-destekli-hedefleme-merkezini-vurduk-951515.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Devrim Muhafızları, Bahreyn'de ABD'nin yapay zeka hedefleme merkezini vurduğunu duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-17T22:01:17.462691+00:00",
-  "type": "news",
-  "cluster_id": "ca68c3968af6f"
- },
- {
-  "title": "İran basını: ABD, Fars eyaletinde iki ilçeye saldırılar düzenledi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/iran-basini-abd-fars-eyaletinde-iki-ilceye-saldirilar-duzenledi-2521780",
-  "source": "Cumhuriyet",
-  "summary_tr": "İran, ABD'nin Fars eyaletine bağlı Lar ve Darab ilçelerine saldırı düzenlediğini duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-17T22:01:17.462691+00:00",
-  "type": "news",
-  "cluster_id": "cad3efdd1049f"
  }
 ]
