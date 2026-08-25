@@ -1,5 +1,53 @@
 [
  {
+  "title": "Ankara'dan AİHM'e sert Kavala tepkisi",
+  "link": "https://www.dw.com/tr/ankara-dan-aihm-e-sert-kavala-tepkisi/a-78502178?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Cumhurbaşkanı Başdanışmanı Mehmet Uçu, AİHM'in Osman Kavala'nın serbest bırakılması gerektiği kararına Türkiye'den sert tepki gösterdi.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-25T20:01:06.671696+00:00",
+  "type": "news",
+  "cluster_id": "c8f0e74655d5f"
+ },
+ {
+  "title": "Trump’s trade war with Canada could rattle economies in states with key Senate races",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUG40VWdpUHNfS0NDbFBSR1haNlhGYUtsdTk5TzlQcVhZV25BdmNjRlhBV3BiY3VRbzFNUDNwWlNxOXJlU0xXaHo2Wklvb0s2NnhqNFA5NHgwWXdQZlRKYkkxWkYtcnZNUFVDdWNkZmpvUlBhdGNPSVVadHp3Vmo0dzNzR0lSdmFrWXgzX21VME40NEM5dUtpREdWZVl2YTlIeFVB?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump'ın Kanada ile ticaret savaşı, kilit senatörlük yarışlarının yapıldığı eyaletlerde ekonomileri sarsabilir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-25T20:01:06.671696+00:00",
+  "type": "news",
+  "cluster_id": "c206a519439c8"
+ },
+ {
+  "title": "BM: İsrail'in Lübnan'daki ihlalleri ve UNIFIL personeline karşı engellemeleri devam ediyor",
+  "link": "https://www.aa.com.tr/tr/dunya/bm-israilin-lubnandaki-ihlalleri-ve-unifil-personeline-karsi-engellemeleri-devam-ediyor/4037435",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "BM, İsrail ordusunun Lübnan'ın güneyinde havadan çeşitli ihlallere devam ettiğini ve UNIFIL personeline karşı engelleme yaptığını rapor etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-25T20:01:06.671696+00:00",
+  "type": "news",
+  "cluster_id": "cf233b9083bff"
+ },
+ {
+  "title": "Terör örgütü YPG’den \"kendisini feshettiğine\" ilişkin açıklama",
+  "link": "https://www.aa.com.tr/tr/dunya/teror-orgutu-ypg-den-kendisini-feshettigine-iliskin-aciklama/4037429",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Terör örgütü YPG, örgütün sözde özerk yönetimi ve bağlı tüm askeri/sivil oluşumlarının feshedildiğini açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-25T20:01:06.671696+00:00",
+  "type": "news",
+  "cluster_id": "c88b682523fbd"
+ },
+ {
   "title": "Canada slaps retaliatory tariffs on US goods worth $20 billion as trade war intensifies",
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYnllQWZiMlB2MERDOUJLLWZUdGs0SjFhaDVKcVJwNWVGb0FhZ2pramhtQVJlT2l0eUlBREV1YUgzTEgxZzliNjVQR1hRTWdOdGJXSFhlamF3LXl0dGRmZjg0c1NwWEZKNDRiRkgyZG5QUmw1UlZ3dDA2ZlNtMTNabUVxc0UzdDRsNTM1b2hPWHlTZjVadWxJUTRLWGVuM1A3eFQxU21lQm1RY3hpMS1URUcxX1lGQktwZnR6SFhkOA?oc=5",
   "source": "Reuters",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-17T22:01:17.462691+00:00",
   "type": "news",
   "cluster_id": "cad3efdd1049f"
- },
- {
-  "title": "Irak ile ABD arasında 60 milyar dolarlık 50 anlaşma ve mutabakat zaptı imzalanacak",
-  "link": "https://www.aa.com.tr/tr/ekonomi/irak-ile-abd-arasinda-60-milyar-dolarlik-50-anlasma-ve-mutabakat-zapti-imzalanacak/4001867",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Irak ile ABD arasında toplam değeri 60 milyar dolar olan 50 anlaşma imzalanacak.",
-  "metric": "Irak-ABD anlaşma değeri: 60 milyar dolar",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-17T22:01:17.462691+00:00",
-  "type": "news",
-  "cluster_id": "c4c7c6cd1881e"
- },
- {
-  "title": "Irak ile Suriye, ham petrol boru hattının yeniden faaliyete geçirilmesi için anlaştı",
-  "link": "https://www.aa.com.tr/tr/dunya/irak-ile-suriye-ham-petrol-boru-hattinin-yeniden-faaliyete-gecirilmesi-icin-anlasti/4001857",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Irak ile Suriye, ham petrol boru hattının yeniden faaliyete geçirilmesi için anlaştı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-17T22:01:17.462691+00:00",
-  "type": "news",
-  "cluster_id": "cdaa2bec04bcb"
- },
- {
-  "title": "Resmi Gazete'de yayımlandı: Ardahan Valisi görevden alındı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/resmi-gazete-de-yayimlandi-ardahan-valisi-gorevden-alindi-2521769",
-  "source": "Cumhuriyet",
-  "summary_tr": "Ardahan Valisi Mehmet Fatih Çiçekli görevden alındı; yerine Gaziantep'ten vali atandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-17T22:01:17.462691+00:00",
-  "type": "news",
-  "cluster_id": "c8650f1c51675"
- },
- {
-  "title": "Tayt valinin başını yaktı; Erdoğan gece yarısı görevden aldı",
-  "link": "https://www.sozcu.com.tr/resmi-gazete-atama-kararlari-18-temmuz-2026-p337460",
-  "source": "Sözcü",
-  "summary_tr": "Ardahan Valisi Mehmet Fatih Çiçekli bisiklet sürerken giydiği kıyafet nedeniyle görevden alındı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-17T22:01:17.462691+00:00",
-  "type": "news",
-  "cluster_id": "c8d31404fa38a"
  }
 ]
