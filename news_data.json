@@ -1,5 +1,29 @@
 [
  {
+  "title": "Emekli ocakta yüzde 9.91  enflasyon farkı alabilir",
+  "link": "https://www.sozcu.com.tr/emekli-ocakta-yuzde-9-91-enflasyon-farki-alabilir-p352382",
+  "source": "Sözcü",
+  "summary_tr": "SSK ve Bağ-Kur emeklilerinin Ocak 2027 maaş zam oranı yüzde 9.91; en düşük aylık 25 bin 886 liraya çıkacak.",
+  "metric": "En düşük emekli aylığı -> 25.886 TL (+%9,91)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-25T03:01:05.451063+00:00",
+  "type": "news",
+  "cluster_id": "c8b3797a389b5"
+ },
+ {
+  "title": "Oil prices steady as investors weigh impact of expanded US sanctions against Iran",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWVpMEdoenRuUHdzUlpxOG1xdVdSMTItdmhxNk5MUGc3YmdGLXl0S2EwYkNYVDV6LUJtaE96QkVuUFhqQzdORlVFdmRJTDRFaTVtSlNTZlh6OE9rQ0ZqdzJOWmQzbjVtWHJxZjFZNmo0VVlzRDRnYzJ1UklrQ0lNOHNCZWdZRVgtdXFZVnZGNXdlQVd2TlN0UjFhS2NNYjByTHBnZTY1NVpXNExJeGdObFllQ2lSYjNzRGw3aGh1ZFBuNmFnaUE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD'nin İran'a karşı yaptırımları genişletmesiyle petrol fiyatları yatırımcıların değerlendirmesiyle durgun seyrediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-25T03:01:05.451063+00:00",
+  "type": "news",
+  "cluster_id": "c6351d4a3d668"
+ },
+ {
   "title": "Iran vows to retaliate after US widens sanctions",
   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2NneVkxY2I3clNhUzloallHZTVKV2h5N2wxbGNwWVZlNEZMRzBwRnJXRGdmYjdHOVl0ZFZHYk1fR08xQmY4VnhEZjAxRURrUHRrLWV2NmlsMndTQ3UzN1VyR3luekZMUmUtUE9ON0FnMGxiektWdG9RUlBJOXVFQjVoa3JnUFp2MGlmamJuTDJEZF81Rkp3NA?oc=5",
   "source": "Reuters",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-17T05:01:11.888378+00:00",
   "type": "news",
   "cluster_id": "c089409e6d5a6"
- },
- {
-  "title": "Stocks stumble, oil set for weekly gain on renewed Gulf hostilities",
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTBUX2ZaNk9EY2M2SU5BaEw4VkRFXzF6OE1MeENrcVRwT1hnd2gtbzVDODJ3VUh2ZXdOYi03b2ZobHhhdlMzSE1fOWM0b3lWTlh1Q2VENEFFdHlKWmNuOVltd0R4X254aFM0SmNjZ3RIWVNqREU3OXlHSFNsUGtBUXYyUQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Körfez'deki çatışma şiddetle petrol hafta kazancı sağlıyor; hisse senedi piyasaları düşüş kaydetti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-17T05:01:11.888378+00:00",
-  "type": "news",
-  "cluster_id": "c6aa77e19e551"
- },
- {
-  "title": "Qatar says Iranian missile attack thwarted, child injured",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSHZqQ2FSa1E2ZG9XdzN0QklxdDlUN0hBLWd0aTVJRUV5YUxlcTVEU1BKbGtRZDhOWjVDeWVFdFo5b1JpdlhUekJIT2FWZjhORlB3REFJUXN0a2s1N2tSejg3QW1SYlE4MHp4WUlXZmMxaHVJM2hoNVJJRkpmejFycWlsOW1JQ2hOYUxMUXpOc1hMX2FJQ1lOSTkyb3l5cHhOcktzaHZNTnJHRm14cXRhVlJB?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Katar, İranlı füze saldırısının bertaraf edildiğini bildirdi; bir çocuk yaralandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-17T05:01:11.888378+00:00",
-  "type": "news",
-  "cluster_id": "cfaedb65aa23c"
  }
 ]
