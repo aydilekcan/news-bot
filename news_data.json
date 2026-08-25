@@ -1,5 +1,29 @@
 [
  {
+  "title": "SDG dağıldı: Suriye’de Türkiye’nin istediği oldu. ABD memnun. İsrail’e dikkat",
+  "link": "https://yetkinreport.com/2026/08/26/sdg-dagildi-suriyede-turkiyenin-istedigi-oldu-abd-memnun-israile-dikkat/",
+  "source": "YetkinReport",
+  "summary_tr": "Suriye Demokratik Güçleri (SDG) kendini fesherek Suriye ordusuna katıldı. Türkiye'nin hedefi gerçekleşti.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-08-25T23:01:01.407769+00:00",
+  "type": "news",
+  "cluster_id": "cb15cdbe69831"
+ },
+ {
+  "title": "TCMB geçici rezerv: 1.027.882,10 milyon TL (26 Ağustos 2026)",
+  "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRlNRSEtjLUdEcUFLd0M2Yk1SRFMwWEZ6Ykw4YWF0aDVna2ZiTFdyWnFIN3Q3OHFKV25TOWo3c1poYkNDZldvczdRRXFsQ0liZHNqMVRnQml1VjBNTTZGQi0wbzBDUlV3SUgxU1IwMFpVc0JIakgxZnpQeFd3N205S1pjbjJLc0NhdEtrNHp6a0ZqdUNtZEV1QW9PNXU5ZmFpb3VGVUl6OU50WWhBcVNkQmNtU0ctbDdKMXlLNnVLRUZBY0FMazd2SXdIVlEyS0RCTlYtQS11MDRydTItUk1hVTRwbFY3TWpIbHZMeWxhNG8zV0MybmlWdWdDSUlCTTlKdlg5TlJR?oc=5",
+  "source": "TCMB",
+  "summary_tr": "1.027.882,10 milyon TL",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-25T23:01:01.407769+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Merkez Bankası'ndan karar: İki elektronik para şirketinin faaliyet izni iptal edildi",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasi-ndan-karar-iki-elektronik-para-sirketinin-faaliyet-izni-iptal-edildi-2532378",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-18T00:01:02.319157+00:00",
   "type": "news",
   "cluster_id": "c03e4af3df0b5"
- },
- {
-  "title": "Fitch raporunda dikkat çeken detay: Rezervler 167 milyar dolara çıkabilir",
-  "link": "https://www.sozcu.com.tr/fitch-raporunda-dikkat-ceken-detay-rezervler-167-milyar-dolara-cikabilir-p337468",
-  "source": "Sözcü",
-  "summary_tr": "Fitch Ratings, Türkiye'nin kredi notunu ve görünümünü değiştirmezken, raporda dış rezervlerin 167 milyar dolara çıkabileceğini belirtmiştir.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-18T00:01:02.319157+00:00",
-  "type": "news",
-  "cluster_id": "c4cfce7e5c16d"
- },
- {
-  "title": "İran: Hürmüz Boğazı'nda mayınlı bölgeden geçmeye çalışan 2 gemide patlama meydana geldi",
-  "link": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazinda-mayinli-bolgeden-gecmeye-calisan-2-gemide-patlama-meydana-geldi-951519.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Devrim Muhafızları, Hürmüz Boğazı'ndaki mayınlı sulardan geçmeye çalışan 2 petrol tankerinde patlama meydana geldiğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-17T23:01:07.562074+00:00",
-  "type": "news",
-  "cluster_id": "cf24041299626"
  }
 ]
