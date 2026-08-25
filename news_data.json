@@ -1,5 +1,65 @@
 [
  {
+  "title": "Merkez Bankası'ndan karar: İki elektronik para şirketinin faaliyet izni iptal edildi",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasi-ndan-karar-iki-elektronik-para-sirketinin-faaliyet-izni-iptal-edildi-2532378",
+  "source": "Cumhuriyet",
+  "summary_tr": "TCMB, Junomoney ve Payco adlı iki elektronik para şirketinin faaliyet iznini iptal etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-25T22:01:08.537671+00:00",
+  "type": "news",
+  "cluster_id": "caf898fddcbfd"
+ },
+ {
+  "title": "Otel ve plaj işletmelerine yeni düzenleme: Kurallar sil baştan değişti",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/otel-ve-plaj-isletmelerine-yeni-duzenleme-kurallar-sil-bastan-degisti-2532382",
+  "source": "Cumhuriyet",
+  "summary_tr": "Kültür ve Turizm Bakanlığı, pansiyon ve motel gibi basit konaklama tesislerine yönelik yeni asgari standartlar belirledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-25T22:01:08.537671+00:00",
+  "type": "news",
+  "cluster_id": "c3e3dbbf74485"
+ },
+ {
+  "title": "Konaklama sektöründe yeni kurallar hayata geçiyor",
+  "link": "https://www.sozcu.com.tr/konaklama-sektorunde-yeni-kurallar-hayata-geciyor-p352677",
+  "source": "Sözcü",
+  "summary_tr": "Kültür ve Turizm Bakanlığı, pansiyon ve motel gibi basit konaklama tesislerine yönelik yeni kurallar hayata geçirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-25T22:01:08.537671+00:00",
+  "type": "news",
+  "cluster_id": "cf27d31a8369b"
+ },
+ {
+  "title": "SpaceX, 100 milyar dolarlık dev uzay üssünü inşa edecek",
+  "link": "https://www.sozcu.com.tr/spacex-louisianada-100-milyar-dolarlik-dev-uzay-ussunu-insa-edecek-p352676",
+  "source": "Sözcü",
+  "summary_tr": "SpaceX, ABD'nin Louisiana eyaletinde 100 milyar dolarlık bir uzay üssü inşa edecek.",
+  "metric": "SpaceX yatırım tutarı: 100 milyar dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-25T22:01:08.537671+00:00",
+  "type": "news",
+  "cluster_id": "cb1fd19238052"
+ },
+ {
+  "title": "SpaceX, Louisiana eyaletinde 100 milyar dolarlık uzay üssü inşa edecek",
+  "link": "https://www.aa.com.tr/tr/bilim-teknoloji/spacex-louisiana-eyaletinde-100-milyar-dolarlik-uzay-ussu-insa-edecek/4037503",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "SpaceX, ABD'nin Louisiana eyaletinde 100 milyar dolarlık bir uzay üssü kuracağını duyurdu.",
+  "metric": "SpaceX yatırım tutarı: 100 milyar dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-25T22:01:08.537671+00:00",
+  "type": "news",
+  "cluster_id": "cb1fd19238052"
+ },
+ {
   "title": "Cumhurbaşkanı başdanışmanı SSS Holding'e tepki gösterdi, saatler sonra madenciler gözaltına alındı",
   "link": "https://www.diken.com.tr/cumhurbaskani-basdanismani-sss-holdinge-tepki-gosterdi-saatler-sonra-madenciler-gozaltina-alindi/?utm_source=rss&utm_medium=rss&utm_campaign=cumhurbaskani-basdanismani-sss-holdinge-tepki-gosterdi-saatler-sonra-madenciler-gozaltina-alindi",
   "source": "Diken",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-17T23:01:07.562074+00:00",
   "type": "news",
   "cluster_id": "cf24041299626"
- },
- {
-  "title": "Kuveyt: İran'ın saldırılarında bazı askerlerimiz yaralandı",
-  "link": "https://www.trthaber.com/haber/dunya/kuveyt-iranin-saldirilarinda-bazi-askerlerimiz-yaralandi-951518.html",
-  "source": "TRT Haber",
-  "summary_tr": "Kuveyt ordusu, İran'ın balistik füze ve insansız hava araçlarıyla hayati tesislere düzenlediği saldırıda bazı askerlerin yaralandığını bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-17T23:01:07.562074+00:00",
-  "type": "news",
-  "cluster_id": "cbc76d72f327a"
- },
- {
-  "title": "İran’dan ABD’ye uyarı: ‘Geniş çaplı taarruz aşamasına geçebiliriz’",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbFgtQ0hCSVAxaG5XQkZuUHJDLWVkUkZic2lXMmx3ejIyY1VRM1IxaU1Zb3FDYmxUMTdIZ0xpUXY5TkNmQWVwQ2dQNGNoSlFDMWw0cmN6ME9UTXp1ZjM3OVhhSXBJODBBVnl0TDhBTzllay1LV2VsbUxCd3V6R21vNmVXV0ViUG10TmQwa3JfVXdjRWxWTWwtc3lORGhZUXNV?oc=5",
-  "source": "soL",
-  "summary_tr": "İran, ABD'ye uyarı yaparak 'geniş çaplı taarruz aşamasına geçebiliriz' açıklaması yaptı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-17T23:01:07.562074+00:00",
-  "type": "news",
-  "cluster_id": "c91cbef117db2"
- },
- {
-  "title": "Fitch, Türkiye'nin kredi notunu teyit etti",
-  "link": "https://www.aa.com.tr/tr/ekonomi/fitch-turkiyenin-kredi-notunu-teyit-etti/4001881",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Fitch Ratings, Türkiye'nin kredi notunu 'BB-' olarak teyit etti ve görünümünü 'durağa' olarak değerlendirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-17T23:01:07.562074+00:00",
-  "type": "news",
-  "cluster_id": "cbfed487e1621"
- },
- {
-  "title": "Ukraine fights under an interim defense chief after Zelenskyy's contested government shake-up",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTVpfV3hyQU9laFE5UWxLVVl2QmtxellGOTVLUmVnZjRGYm9CSVpWZGFnS3ZDMnlGNE5xYzhZc0Y4Mm1WTUxqNVY1N0FsWk9tbFZLS3ZWbXFSMXFuRXJQdWZfWnk0MlA2N3NDaXhZV0ZqZ3NOYkE2YXJ1V2tqNUQ1Sk9uRTlUMkxiQkJpYzlMaVBrUUFmNWowSFVKR21VQzdFRndyOFlB?oc=5",
-  "source": "AP",
-  "summary_tr": "Ukrayna'da Zelenskyy hükumet yapılandırması sonrası geçici savunma bakanı liderliğinde savaş devam ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-17T23:01:07.562074+00:00",
-  "type": "news",
-  "cluster_id": "ca6ce40015d3c"
- },
- {
-  "title": "Israel’s parliament dissolves ahead of Oct. 27 elections",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWVlKd0tvVkdSdUIyMndadGp1c0NRS1pOYVowNmFZdDhxdUxvZDhzUl9OM0x0cDBiUHVGbTRRdDYwLXFidXVzZXc2cTNwMWQyeVF4LVBTbmkxZDdtOUFia29WRURZaWlWR0pPYlNzWk9jQ3ExakxPQjZvWHB5X3VXTUNQS3RBaDlaWkw2bHRmTVdiLVAzajN1UnVn?oc=5",
-  "source": "AP",
-  "summary_tr": "İsrail parlamentosu 27 Ekim seçimleri öncesi feshedildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-17T23:01:07.562074+00:00",
-  "type": "news",
-  "cluster_id": "c67420a3b17fe"
  }
 ]
