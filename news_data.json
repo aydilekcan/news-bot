@@ -1,5 +1,53 @@
 [
  {
+  "title": "Merkez Bankası'nın bir sonraki hamlesi ne olacak? Dev bankalardan kritik rapor",
+  "link": "https://www.sozcu.com.tr/merkez-bankasi-nin-bir-sonraki-hamlesi-ne-olacak-dev-bankalardan-kritik-rapor-p352846",
+  "source": "Sözcü",
+  "summary_tr": "Merkez Bankası faiz oranını %37'de sabit tuttu; piyasa hareketleri analiz ediliyor.",
+  "metric": "Faiz oranı %37'de (değişim yok)",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-26T11:01:07.313614+00:00",
+  "type": "news",
+  "cluster_id": "c1d03864adef2"
+ },
+ {
+  "title": "Yağışlardaki yüzde 76'lık artış buğdayda rekor beklentisini güçlendirdi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/yagislardaki-yuzde-76lik-artis-bugdayda-rekor-beklentisini-guclendirdi/4037912",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Yağışlar geçen yıla göre %76 arttı; buğday ürününde rekor beklentisi güçlendi.",
+  "metric": "Yağış artışı %76 (yıllık karşılaştırma)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-26T11:01:07.313614+00:00",
+  "type": "news",
+  "cluster_id": "c7694d6ba39ed"
+ },
+ {
+  "title": "Eurostat: Türkiye AB'nin en büyük 5'inci ticaret ortağı",
+  "link": "https://www.trthaber.com/haber/ekonomi/eurostat-turkiye-abnin-en-buyuk-5inci-ticaret-ortagi-954987.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye 2026'nın ikinci çeyreğinde AB'nin en büyük 5. ticaret ortağı oldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-26T11:01:07.313614+00:00",
+  "type": "news",
+  "cluster_id": "cb579ead7fd58"
+ },
+ {
+  "title": "Saxo Bank altında 'sert düzeltme riski'ne karşı uyardı",
+  "link": "https://www.diken.com.tr/saxo-bank-altinda-sert-duzeltme-riskine-karsi-uyardi/?utm_source=rss&utm_medium=rss&utm_campaign=saxo-bank-altinda-sert-duzeltme-riskine-karsi-uyardi",
+  "source": "Diken",
+  "summary_tr": "Saxo Bank, altında sert düzeltme riski uyarısı yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-26T11:01:07.313614+00:00",
+  "type": "news",
+  "cluster_id": "c4f23287728ac"
+ },
+ {
   "title": "Yaş meyve ihracatı, 7 ayda 1 milyar doları aştı",
   "link": "https://www.trthaber.com/haber/ekonomi/yas-meyve-ihracati-7-ayda-1-milyar-dolari-asti-954981.html",
   "source": "TRT Haber",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-18T11:00:59.820911+00:00",
   "type": "news",
   "cluster_id": "cb8bcb0a76410"
- },
- {
-  "title": "ABD, İran'a peş peşe yedinci gecede  hava saldırıları düzenledi",
-  "link": "https://www.bbc.com/turkce/articles/c07rnxj949po?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD İran'a yedinci kez hava saldırısı düzenledi; İran misilleme yaparak Kuveyt'teki elektrik ve su santralini vurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-07-18T10:01:13.935916+00:00",
-  "type": "news",
-  "cluster_id": "c9b7868b4ce72"
- },
- {
-  "title": "AKP Genel Başkan Yardımcısı Hayati Yazıcı'dan yeni anayasa açıklaması: 'Referanduma gidilecek'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/akp-genel-baskan-yardimcisi-hayati-yazici-dan-yeni-anayasa-aciklamasi-referanduma-gidilecek-2521848",
-  "source": "Cumhuriyet",
-  "summary_tr": "AKP Genel Başkan Yardımcısı Hayati Yazıcı, yeni anayasa Meclis'te uzlaşma sağlanırsa referanduma gideceğini açıkladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-07-18T10:01:13.935916+00:00",
-  "type": "news",
-  "cluster_id": "ce04061a9bd30"
- },
- {
-  "title": "Erdoğan'ın yardımcısından flaş çıkış: 'Referanduma gideceğiz'",
-  "link": "https://www.sozcu.com.tr/erdogan-in-yardimcisindan-flas-cikis-referanduma-gidecegiz-p337551",
-  "source": "Sözcü",
-  "summary_tr": "AKP Genel Başkan Yardımcısı Hayati Yazıcı, yeni anayasa metni Meclis'te uzlaşma sağlanırsa referanduma gideceğini açıkladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-07-18T10:01:13.935916+00:00",
-  "type": "news",
-  "cluster_id": "cd04357c11617"
- },
- {
-  "title": "Ukrainian drone attacks kill seven warehouse workers in Russia, spark fire at Moscow region oil depot",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdy1tV0VCdllFYU1ydXJTWE1YbmM3TlZIYU5yLTZSQ243TVZacXFXc3lzVmxBMEtHNzJLS1RfWEk2bGViWHgxdVBaUjVjN0tZV1dDS1VXN3BvVTZsMW1PeENJbVNrOUZXVHY1UHUxLV9HVVlodFdhQnczQldxd0QtTWh1a2RwR3EteTVINHhfM0hpZlh2SGZyUS1RZlo1cDR6WXZlVHNDU0tHUEtsUFlwRkg5cGpJT2JrY09mQUZIalVfRmtG?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ukrayna insansız hava araçlarıyla Rusya'nın depo kompleksine saldırı düzenledi; 7 işçi öldü ve Moskova bölgesinde petrol deposunda yangın çıktı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-18T10:01:13.935916+00:00",
-  "type": "news",
-  "cluster_id": "c0a378443fc4f"
  }
 ]
