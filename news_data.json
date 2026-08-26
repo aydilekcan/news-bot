@@ -1,5 +1,65 @@
 [
  {
+  "title": "BOJ to speed up its tightening campaign, raise key rate to 1.25% in September",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRkY0T3pHNW9TMVliZVlhejhBNGNlSFQ1TU9VVmdlVzdmYThlTVJWaXEyY2RhUEFtSzV6SnljYWtGMXBnWk45dXU5QkNwaXgzUGF1Smhmb2k4RENIT1FKWGNDQUFqNk9ocG9PU3ZfTDhKaGY1LWlMVHdOS3JCbkNpLVh2WmItRk83bnBZT2RXOTVrd2JIeDVpYXlLV3ZYUlZYeXJ4V1c5UWlsZmFiODNXLWl4ZGw4M3J1Qk5zeA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Japonya Merkez Bankası (BOJ), Eylül'de anahtarı oranını %1,25'e yükselterek sıkılaştırma kampanyasını hızlandıracak.",
+  "metric": "BOJ anahtar oranı %1,25'e çıkacak",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-26T05:01:06.937826+00:00",
+  "type": "news",
+  "cluster_id": "cdedde4fb496c"
+ },
+ {
+  "title": "Trump yaptırımların Tahran'ı dize getireceğini umuyor, İranlı liderler farklı düşünüyor",
+  "link": "https://www.bbc.com/turkce/articles/c23xld121x0o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD, İran'a yönelik yeni yaptırımları 'ekonomik dönüm noktası' olarak nitelendiriyor; Tahran liderleri ise etkinliğini sorguluyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-26T05:01:06.937826+00:00",
+  "type": "news",
+  "cluster_id": "c49566797ebd8"
+ },
+ {
+  "title": "Yeni ABD yaptırımları İran'ın gölge ekonomisini çökertir mi?",
+  "link": "https://www.dw.com/tr/yeni-abd-yaptırımları-iran-ın-gölge-ekonomisini-çökertir-mi/a-78498022?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "ABD'nin yeni yaptırımları İran'ın gölge ekonomisini hedef alıyor; para ve mal akışını kesmeyi amaçlıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-26T05:01:06.937826+00:00",
+  "type": "news",
+  "cluster_id": "c6a826f6ca622"
+ },
+ {
+  "title": "Motorinde 4 TL'lik indirim geliyor: Fiyatlar 80 lira bandına inecek",
+  "link": "https://www.sozcu.com.tr/motorinde-4-tllik-indirim-geliyor-fiyatlar-80-lira-bandina-inecek-p352704",
+  "source": "Sözcü",
+  "summary_tr": "Uluslararası petrol fiyatlarının düşüşü nedeniyle motorin litre fiyatında 4 TL indirim bekleniyor; fiyat 80 lira bandına inecek.",
+  "metric": "Motorin fiyatı 4 TL indirim geliyor",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-26T05:01:06.937826+00:00",
+  "type": "news",
+  "cluster_id": "c46ae35bed9b5"
+ },
+ {
+  "title": "Noyan Doğan: Ev kadınlarının emekliliğine yönelik çalışma 2024'ten beri konuşuluyor",
+  "link": "https://www.diken.com.tr/noyan-dogan-ev-kadinlarinin-emekliligine-yonelik-calisma-2024ten-beri-konusuluyor/?utm_source=rss&utm_medium=rss&utm_campaign=noyan-dogan-ev-kadinlarinin-emekliligine-yonelik-calisma-2024ten-beri-konusuluyor",
+  "source": "Diken",
+  "summary_tr": "Ev kadınlarının emekliliğine yönelik çalışma 2024'ten beri konuşuluyor; sosyal güvenlik sistemi reformu devam ediyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-26T05:01:06.937826+00:00",
+  "type": "news",
+  "cluster_id": "ce207d90129b8"
+ },
+ {
   "title": "ABD artan kısıtlamalar eşliğinde tüm göçmen vizesi başvurularını durdurdu",
   "link": "https://www.trthaber.com/haber/dunya/abd-artan-kisitlamalar-esliginde-tum-gocmen-vizesi-basvurularini-durdurdu-954941.html",
   "source": "TRT Haber",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-18T06:01:01.916693+00:00",
   "type": "news",
   "cluster_id": "c62f6848bbfb5"
- },
- {
-  "title": "Hürmüz Boğazı'nda 4 gemi füze ve İHA saldırılarıyla durduruldu",
-  "link": "https://www.trthaber.com/haber/dunya/hurmuz-bogazinda-4-gemi-fuze-ve-iha-saldirilariyla-durduruldu-951526.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Devrim Muhafızları, Hürmüz Boğazı'ndan geçmeye çalışan 4 gemiyi füze ve İHA saldırılarıyla durdurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-18T06:01:01.916693+00:00",
-  "type": "news",
-  "cluster_id": "cc82d0e6ab901"
- },
- {
-  "title": "Iran renews attacks on Gulf states after another night of US strikes",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVgwRnh4bGg5bXVrMEdSNXEydXpjb0dCTmQwQlV2MHlydHJTU05DcUxIbktrZW82aGUwZ2F4R2h6bkJXOEpFQy1DREthRVFySzUzNkpVMGNSdXdTMlVjVFR4ZTkyYlRqRTU4bEo1cHR1Y3RMSDJ0UV9Ed01tbnVZbUdyN29ZZWpqQU5VZDd3b3dkS0VlMVp5UUJSZHdPVUUzVjZGNmFHWUJOYWVFZDd0ekJnV293QTg?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran, ABD hava saldırılarının ardından Körfez ülkelerine yeniden saldırı düzenledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-18T06:01:01.916693+00:00",
-  "type": "news",
-  "cluster_id": "c35298168e39e"
- },
- {
-  "title": "SGK'dan ömür boyu maaş: Çalışanlar da emekliler de yararlanabiliyor",
-  "link": "https://www.sozcu.com.tr/sgk-dan-omur-boyu-maas-calisanlar-da-emekliler-de-yararlanabiliyor-p337487",
-  "source": "Sözcü",
-  "summary_tr": "SGK, iş kazası veya meslek hastalığı geçiren sigortalılara ömür boyu maaş ödeme imkanı sunuyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-18T06:01:01.916693+00:00",
-  "type": "news",
-  "cluster_id": "c3f1d9e2c9fd1"
- },
- {
-  "title": "Fitch'ten Türkiye kararı: Kredi notu ve görünümünde değişiklik olmadı",
-  "link": "https://www.sozcu.com.tr/fitch-ten-turkiye-karari-kredi-notu-ve-gorunumunde-degisiklik-olmadi-p337485",
-  "source": "Sözcü",
-  "summary_tr": "Fitch Ratings, Türkiye'nin uzun vadeli kredi notunu BB-, görünümünü durum değerlendirmesi olarak tuttu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-18T06:01:01.916693+00:00",
-  "type": "news",
-  "cluster_id": "ce5141a0ee77a"
- },
- {
-  "title": "Bu hafta yatırım araçlarında kazandıran ve kaybettiren belli oldu! Borsa yükseldi, altın geriledi",
-  "link": "https://www.sozcu.com.tr/bu-hafta-yatirim-araclarinda-kazandiran-ve-kaybettiren-belli-oldu-borsa-yukseldi-altin-geriledi-p337492",
-  "source": "Sözcü",
-  "summary_tr": "Haftalık yatırım performansında Borsa İstanbul yükseldi, altın geriledi; dolar ve euro verileri de takip ediliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-18T06:01:01.916693+00:00",
-  "type": "news",
-  "cluster_id": "c95f5adcb9d57"
  }
 ]
