@@ -1,5 +1,65 @@
 [
  {
+  "title": "CIA başkanı neden Moskova'yı ziyaret etti, Kremlin ne dedi?",
+  "link": "https://www.bbc.com/turkce/articles/c39mldg84xxo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "CIA Başkanı John Ratcliffe, kamuoyuna önceden duyurulmadan Moskova'yı ziyaret etti. Kremlin tarafından yapılan açıklama henüz bilinmiyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-26T13:01:09.894155+00:00",
+  "type": "news",
+  "cluster_id": "c42e25910baab"
+ },
+ {
+  "title": "Emekli maaşını Yapı Kredi'ye taşıyanlara 30 bin TL'ye varan nakit promosyon",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/emekli-maasini-yapi-kredi-ye-tasiyanlara-30-bin-tl-ye-varan-nakit-promosyon-2532553",
+  "source": "Cumhuriyet",
+  "summary_tr": "Yapı Kredi, emekli maaşını bankaya taşıyan SGK emeklilerine 30 bin TL'ye varan nakit promosyon kampanyası başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-26T13:01:09.894155+00:00",
+  "type": "news",
+  "cluster_id": "ca6cc951e8ba8"
+ },
+ {
+  "title": "Kurtulmuş: İsrail, Türkiye'nin bölgesinde oluşturacağı barış ve kardeşlik ikliminden çekiniyor",
+  "link": "https://www.aa.com.tr/tr/gundem/kurtulmus-israil-turkiyenin-bolgesinde-olusturacagi-baris-ve-kardeslik-ikliminden-cekiniyor/4038128",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "TBMM Başkanı Numan Kurtulmuş, İsrail'in Türkiye'nin bölgede oluşturacağı barış ve kardeşlik ikliminden çekindiğini söyledi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-26T13:01:09.894155+00:00",
+  "type": "news",
+  "cluster_id": "c813912a0b280"
+ },
+ {
+  "title": "Numan Kurtulmuş: İsrail sadece Türkiye'den çekiniyor",
+  "link": "https://www.trthaber.com/haber/gundem/numan-kurtulmus-israil-sadece-turkiyeden-cekiniyor-954996.html",
+  "source": "TRT Haber",
+  "summary_tr": "TBMM Başkanı Numan Kurtulmuş, İsrail'in Türkiye'den çekindiğini ve Türkiye'nin bölgesel rolünü vurguladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-26T13:01:09.894155+00:00",
+  "type": "news",
+  "cluster_id": "c2863ca4dd64e"
+ },
+ {
+  "title": "Wall St futures subdued as Nvidia results, inflation take center stage",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3N4UlJubUVvNndNbHlFSTFtWlpoek1URGE5c3J4SDJEYlZ2aWYzaUNRWDluMnRua19BSENVRWdZZEFzZEh0VWFINF9Va3RPYVEtamhja1Rud3hVUFFWQUZBS1JlWE5wMk0yZUEyQ3lpV3pETVRMMnUxLWZ4Rm92OGZmVGpjY3BVZXl1dDBrR3RtX3RWZG9DOEFEMzFlV2NRSTVKYkxQb0hCZU0?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Wall Street vadeli işlemleri, Nvidia sonuçları ve enflasyon verileri öncesinde sınırlı hareket gösteriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-26T13:01:09.894155+00:00",
+  "type": "news",
+  "cluster_id": "cf1f38d461a7c"
+ },
+ {
   "title": "US-Iran war sinks into energy trench warfare six months on",
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcUMxd0dzb1VHdVAxRERXaTE2RFhfaEE1M1pQY084QWJIU2ZLWEZ3VUpVbi1ORkpXMEJNRjUyS1dwUUdvYnROb1kwNXFpQm40V3VjellLTWdRYWQ1ZWxKY1dvc3ZLWXVzSVhJSmJqSXNGWmRieDJMQ2RlSktPeS1zSVFFTndmQ0NXaFcwTDFiUGRZU1VHdzlUdFdDWW04MEtMZ0dwT0JQamhjWU1RRkYxQlBWcUJFTlQzWnFZdGs2U0NIZw?oc=5",
   "source": "Reuters",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-18T12:01:06.190507+00:00",
   "type": "news",
   "cluster_id": "cf00ae6483cab"
- },
- {
-  "title": "İran, ABD saldırılarının bilançosunu açıkladı",
-  "link": "https://www.sozcu.com.tr/iran-abd-saldirilarinin-bilancosunu-acikladi-p337581",
-  "source": "Sözcü",
-  "summary_tr": "İran, ABD saldırılarında 50 kişinin öldüğünü ve 500'den fazla kişinin yaralandığını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-18T12:01:06.190507+00:00",
-  "type": "news",
-  "cluster_id": "ce13f5289b75c"
- },
- {
-  "title": "Germany upgrades security stance to 'high threat level', interior minister tells paper",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRTV2cVk1WFpCWkR2cGlkcm90cVVvMkduU0hpUUltS3c3Tnh4QlJleUFveF96VmFIYjdsR0kyZVcxYmxqR1NpNDNpUTB4bnd2b1hCYUdyMWJiREJfczVXVmJoQjhlSV91Z0szcWRQY3pkU2phREdtSi1KRjI1MFI2ZklvWmNCLXllWWdObmszYzZ0dXItQ0g0WVRvcWNYejJ3Vkxac0VlYlQtWkdBWUZkQ1AwUmYyOGNORFhZX2lpVQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Almanya, iç güvenlik duruşunu 'yüksek tehdit seviyesi'ne yükselttiğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-18T12:01:06.190507+00:00",
-  "type": "news",
-  "cluster_id": "cdbe6f7d187f1"
- },
- {
-  "title": "Herkesi ilgilendiriyor: İstirahat raporlarında yeni dönem",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/herkesi-ilgilendiriyor-istirahat-raporlarinda-yeni-donem-2521871",
-  "source": "Cumhuriyet",
-  "summary_tr": "Sağlık Bakanlığı istirahat raporlarını e-Rapor Sistemi ile elektronik ortamda düzenlenmeye başladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-18T12:01:06.190507+00:00",
-  "type": "news",
-  "cluster_id": "ccb316991be46"
- },
- {
-  "title": "İstirahat raporlarında artık bu işlem yapılmayacak: Her şey e-Devlet'e taşındı",
-  "link": "https://www.sozcu.com.tr/istirahat-raporlarinda-artik-bu-islem-yapilmayacak-her-sey-e-devlet-e-tasindi-p337590",
-  "source": "Sözcü",
-  "summary_tr": "Sağlık Bakanlığı e-Rapor Sistemi ile istirahat raporlarını e-Devlet üzerinden yönetmeye başladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-18T12:01:06.190507+00:00",
-  "type": "news",
-  "cluster_id": "c0ced83d3a749"
- },
- {
-  "title": "Türk dondurmasına küresel ilgi sürüyor! İlk 4 ayda 23,5 milyon dolarlık ihracat",
-  "link": "https://www.sozcu.com.tr/turk-dondurmasina-kuresel-ilgi-suruyor-ilk-4-ayda-23-5-milyon-dolarlik-ihracat-p337586",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye, yılın ilk dört ayında 23,5 milyon dolarlık dondurma ihracatı gerçekleştirdi.",
-  "metric": "Dondurma ihracatı: 23,5 milyon dolar (ilk 4 ay)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-18T12:01:06.190507+00:00",
-  "type": "news",
-  "cluster_id": "c8086b063c920"
  }
 ]
