@@ -1,5 +1,65 @@
 [
  {
+  "title": "Trump sends Saudi nuclear deal to Congress but says Riyadh must recognize Israel",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQlo4djdVdDNyZ2pOQWpMS2ZnblpzdUhoSzZRRGxpR29YSW1PUl9JUmNNYzgtSXZtbDh0a0xxekVuNlVYTWVGWS1RdkE2RXdqVGJFdGE0Z2l3V0ZvaE1hWGFjNHo2RXJjOGw1RFhOSkJnTGpuMHJId1BqcTRDRmhERkZWMGh0bDMzaWpHMTVHZ05UN29UbzZMTG5Valh1dkgwbFNRZFZqRmFZU3dVdXlpbkpZVm5vVzhQeEZEWEtaOHEzeTZ1VUE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, Suudi Arabistan nükleer anlaşmasını Kongre'ye gönderdi ancak Riyad'ın İsrail'i tanıması koşulunu öne sürdü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-26T02:01:06.164878+00:00",
+  "type": "news",
+  "cluster_id": "cbf37dd33e060"
+ },
+ {
+  "title": "Kayıtlı çalışan emekli sayısı 6 yılda yüzde 185 arttı: Emeklinin mesaisi bitmiyor",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/kayitli-calisan-emekli-sayisi-6-yilda-yuzde-185-artti-emeklinin-mesaisi-bitmiyor-2532380",
+  "source": "Cumhuriyet",
+  "summary_tr": "Kayıtlı çalışan emekli sayısı 2020'de 746 bin 766'dan 2026'da 2 milyon 130 bin 20'ye yükseldi (+%185).",
+  "metric": "Kayıtlı çalışan emekli sayısı 746 bin 766 -> 2 milyon 130 bin 20 (+%185)",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-26T02:01:06.164878+00:00",
+  "type": "news",
+  "cluster_id": "c4f3c6d597eed"
+ },
+ {
+  "title": "Syria's Kurdish-led SDF dissolves as part of integration with Damascus",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNDhnT2QxNFlGZ3MzTE56cmZZNzQ0XzhxUmZRVURPb3h6Z3BDNW5LdlhLLW5SeGVCZ0tFS054U0UyV0I2UTl6VDJEeXFCQ0Q5d253RkN6dlNDbHFZUDBBdGxpczJTYkEyenVTWHNYSEZWZ2d2OGRQTTNraXhQenlnVGFyVjhDUFFsR2Y5d1IzUEZ2UmFkSVF0YUZ1LUtMLUlsU2RDeERJSTRtbnRLanJPQlF0b3o0aTZi?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Suriye'nin Kürt öncülüğündeki SDF, Şam yönetimi ile bütünleşme kapsamında dağıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-26T02:01:06.164878+00:00",
+  "type": "news",
+  "cluster_id": "cb5676f74f0a2"
+ },
+ {
+  "title": "Belediye başkanlarına verilen ‘memuriyetten men’ kararında dikkat çeken ayrıntı: 'Ceza bittikten sonra başlayacak'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/belediye-baskanlarina-verilen-memuriyetten-men-kararinda-dikkat-ceken-ayrinti-ceza-bittikten-sonra-baslayacak-2532364",
+  "source": "Cumhuriyet",
+  "summary_tr": "Belediye başkanlarına verilen memuriyetten men cezasında, ceza bitiminden sonra uygulanacağı belirtildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-26T02:01:06.164878+00:00",
+  "type": "news",
+  "cluster_id": "ccf50e91a8ef1"
+ },
+ {
+  "title": "US oil prices extend losses on hopes of Iran-Oman talks on Strait of Hormuz",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWGpaTWZvaVNwRmNHZEJSYm5oVkZEanpaNEMyLXlEQUZWM0dDSVVycmxLdlJXUXg0MVlCVTN4SUptQ3pqUWg1dlVYV1k3aTgwWlhYMTZHcURfcEZZR1BydDNIVVBQbXhkendYWnRzbWJSbWVndmpyYnljV3ZpVlE3X2dmNmxPMjYyMWJQQ1VCUWs1RmR1UWdIY1ZGTXRiNzlKbmN1WGtBX2Y3TG5LUDBfVW1Ud0ZkVWhMbWc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD petrol fiyatları, İran-Umman Hormuz Boğazı görüşmeleri umudunun etkisiyle düşüşünü sürdürüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-26T02:01:06.164878+00:00",
+  "type": "news",
+  "cluster_id": "c761d4a9f4189"
+ },
+ {
   "title": "İşgalci İsrailden Lübnanın güneyine ateşkese rağmen saldırı",
   "link": "https://www.trthaber.com/haber/dunya/isgalci-israilden-lubnanin-guneyine-ateskese-ragmen-saldiri-954931.html",
   "source": "TRT Haber",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-18T05:01:03.683586+00:00",
   "type": "news",
   "cluster_id": "c1575d2ff7b0b"
- },
- {
-  "title": "Altında rüzgar tersine dönecek! Dev finans kuruluşu altın tahminini yükseltti!",
-  "link": "https://www.sozcu.com.tr/altinda-ruzgar-tersine-donecek-dev-finans-kurulusu-altin-tahminini-yukseltti-p337481",
-  "source": "Sözcü",
-  "summary_tr": "Yatırım kuruluşu Bernstein, merkez bankaları tarafından desteklenen altın talebinin Fed'in faiz artışlarına rağmen fiyatları yükseltmeye devam edeceğini öngörüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-18T05:01:03.683586+00:00",
-  "type": "news",
-  "cluster_id": "c13ecd2c98fc4"
- },
- {
-  "title": "Çift maaşlı vekillere konut kıyağı",
-  "link": "https://www.sozcu.com.tr/cift-maasli-vekillere-konut-kiyagi-p337472",
-  "source": "Sözcü",
-  "summary_tr": "Devlet dar gelirliler için evleri 1,8 milyon liraya satarken, milletvekilleri yüz binlerce lira kazanç sağlayan konut kıyağından yararlanıyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-18T03:00:59.420792+00:00",
-  "type": "news",
-  "cluster_id": "cbcca121248d0"
- },
- {
-  "title": "AKP ekimi işaret ediyor, MHP ve DEM ‘tatilden önce’ diyor: Meclis’te çerçeve yasa çıkmazı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/akp-ekimi-isaret-ediyor-mhp-ve-dem-tatilden-once-diyor-meclis-te-cerceve-yasa-cikmazi-2521774",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM'nin 23 Temmuz'da tatile girmesi öncesinde açılım kapsamında çerçeve yasanın çıkmasına ilişkin parti kulisleri tartışılıyor; AKP ekimi işaret ederken MHP ve DEM tatilden önce çıkışını istiyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-18T02:01:03.876883+00:00",
-  "type": "news",
-  "cluster_id": "c033434b1d244"
- },
- {
-  "title": "Vergilerimizi geze geze harcamışlar!",
-  "link": "https://www.sozcu.com.tr/vergilerimizi-geze-geze-harcamislar-p337471",
-  "source": "Sözcü",
-  "summary_tr": "Devlet yılın ilk 6 ayında 15,6 milyon lirayı 'itibardan tasarruf olmaz' anlayışıyla harcadı; emekli ve işçiler geçim sıkıntısı yaşıyor.",
-  "metric": "Devlet harcaması (ilk 6 ay) 15,6 milyon TL",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-18T02:01:03.876883+00:00",
-  "type": "news",
-  "cluster_id": "cabe19f1d940b"
- },
- {
-  "title": "Çok beygirli vergi geliyor",
-  "link": "https://www.sozcu.com.tr/cok-beygirli-vergi-geliyor-p337473",
-  "source": "Sözcü",
-  "summary_tr": "Hükümet, elektrikli araçlar ve yüksek çekiş gücüne sahip araçların vergi yükünü artırma kararı aldı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-18T02:01:03.876883+00:00",
-  "type": "news",
-  "cluster_id": "cc2c98d4e2929"
  }
 ]
