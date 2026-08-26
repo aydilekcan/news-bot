@@ -1,5 +1,53 @@
 [
  {
+  "title": "İmralı Heyeti, PKK terör örgütü lideri Öcalan’ın süreçte ‘hayati bir görevi ve rolü\" olacağını savundu",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/imrali-heyeti-pkk-teror-orgutu-lideri-ocalan-in-surecte-hayati-bir-gorevi-ve-rolu-olacagini-savundu-2532634",
+  "source": "Cumhuriyet",
+  "summary_tr": "DEM Parti İmralı Heyeti, PKK lideri Öcalan'ın barış süreci kapsamında merkezi bir rol oynaması gerektiğini savundu.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-26T19:01:10.868286+00:00",
+  "type": "news",
+  "cluster_id": "ca3f0b61b114e"
+ },
+ {
+  "title": "Bakan Bolat, Şam Dünya Ekonomi Forumu'na katıldı",
+  "link": "https://www.trthaber.com/haber/ekonomi/bakan-bolat-sam-dunya-ekonomi-forumuna-katildi-955026.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ticaret Bakanı Ömer Bolat, ilk kez düzenlenen Şam Dünya Ekonomi Forumu'na katıldı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-26T19:01:10.868286+00:00",
+  "type": "news",
+  "cluster_id": "c03e3161cc586"
+ },
+ {
+  "title": "Automakers thought Canada was getting a trade deal. Then tariffs doubled.",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNGxKTWY4NXdob1VndXB5N2ZlYUxGZ1VhVU9VNWM1M29rSHlrN0ZsX2c3QXVpalk0UlJQb1FqRElrU2dJcXFEcnpnS0NPYTdlSmdidHMwdXNqc25oMXhyUF81UzZ0OGlhamRVRDJrUmtXMFpCNEVzM2tnSnJUcmtSWFEwNWs0ODJpWEVUX0tGVUhzNlJfbFQ4alNFbm9oeTlySWVRUVJMLUJlZEp6MmJTbEJFYTgzTDh3Z3AxUEdCN2FGZUZIWG1qMlIzU0psSE5l?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Kanada otomotiv endüstrisi, ticaret anlaşması beklentisine rağmen tarife oranlarının iki katına çıktığını öğrendi.",
+  "metric": "Tarife oranı 1x -> 2x (%100)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-26T19:01:10.868286+00:00",
+  "type": "news",
+  "cluster_id": "cf9ad66ec8bbe"
+ },
+ {
+  "title": "The Kremlin says the CIA director held talks in Moscow with his intelligence counterparts",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVGpuVnc0WXJVSzZFQVMxVXJVTzQ2b2pMdXp3NlZhZ05VU2dpOGVJZERSSW9sUHdWb1h6TlZDUGZReGN3MDRWN3BHeWRRYXB2T0xGbWtIZjNfLW5Hd0xtLU1iVTltNUdLRk81NjlIOFRFV3pZbE11aWxxeDlaMm1tWWlmTEN0c2JqNUFyLWw4bE1aODBYMUhTdEZVV0JiTk1TbXc?oc=5",
+  "source": "AP",
+  "summary_tr": "CIA Direktörü Moskova'da Kremlin'in istihbarat muhatarlarıyla görüşme gerçekleştirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-26T19:01:10.868286+00:00",
+  "type": "news",
+  "cluster_id": "ccd7671b609d8"
+ },
+ {
   "title": "Mithat Sancar: 'Öcalan'ın süreçte merkezi bir rol üstlenmesi gerekiyor'",
   "link": "https://www.bbc.com/turkce/articles/c4g5l98jxy0o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-18T18:01:04.145715+00:00",
   "type": "news",
   "cluster_id": "c6bca2a71dac9"
- },
- {
-  "title": "İran mutabakatı askıya aldı, ABD yığınağı artıyor!",
-  "link": "https://www.sozcu.com.tr/iran-mutabakati-askiya-aldi-abd-yiginagi-artiyor-p337639",
-  "source": "Sözcü",
-  "summary_tr": "İran, Pakistan arabuluculuğuyla imzalanan İslamabad Mutabakat'ını askıya aldı; ABD'nin Körfez'deki askeri varlığı artıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-18T17:01:02.741533+00:00",
-  "type": "news",
-  "cluster_id": "ce72f3d0f5b66"
- },
- {
-  "title": "İran Dini lideri Mücteba Hamaney’den açıklama",
-  "link": "https://www.sozcu.com.tr/iran-dini-lideri-mucteba-hamaney-den-aciklama-p337640",
-  "source": "Sözcü",
-  "summary_tr": "İran Dini Lideri Mücteba Hamaney, ABD'nin anlaşma şartlarını ihlal ettiğini iddia ederek açıklama yaptı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-18T17:01:02.741533+00:00",
-  "type": "news",
-  "cluster_id": "c9a19ce1f61f2"
- },
- {
-  "title": "Federal judge bars Trump administration from using obscure clause to make huge funding cuts",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQVREcjZLbkZKZy1kSF9aLXhDYjY2NkQwdl9GSEJnWUIzbWpiMC1hLUFVZjJwZFEtM2JXbnFaNjd4eXFNRHQ0NUVQaGxvSVNXTVJxYjBCc0JveFVEd0dwblh2djZMeGo0eEN6Ym5qU0h4OTM5MFVydjRESHotSnhVNXQ1SFpjVU1mWXFWak9YNzBxLWI2MXR0Y1E2X0VBTFVNbE1VVg?oc=5",
-  "source": "AP",
-  "summary_tr": "Federal hakim, Trump yönetiminin gizli bir maddeyi kullanarak devasa bütçe kesintileri yapmasını yasakladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-18T16:01:02.737385+00:00",
-  "type": "news",
-  "cluster_id": "c4ced1da10c6e"
- },
- {
-  "title": "Iranian strike damages a Kuwait desalination plant, exposing water vulnerability in dry Mideast",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRGVJbndDX0t6eVRMcXVhUEtKLVlUYmJZeG5yYWNja0VPdU9nYTRuN25NeVRYcGNhaU5YT1poZW5LN2ZxUHRXaFhOZnp5Y2V6YnpUdWxaWUEyZlMzc2M0c1lIaUxIMmVpMkwza1NUSXAtbkhZNmYyekcxaFJTNmdTckhQamhyNHEyM2JickFyUFNMOVVLM1F5WVFkUlFmdHJIMVd3LWFJTmw?oc=5",
-  "source": "AP",
-  "summary_tr": "İran saldırısı, Kuveyt'in tuzlanmış su tesisini hasara uğratarak Ortadoğu'daki su krizini gözler önüne serdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-18T16:01:02.737385+00:00",
-  "type": "news",
-  "cluster_id": "c6a7bca037685"
  }
 ]
