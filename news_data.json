@@ -1,5 +1,17 @@
 [
  {
+  "title": "İşgalci İsrailden Lübnanın güneyine ateşkese rağmen saldırı",
+  "link": "https://www.trthaber.com/haber/dunya/isgalci-israilden-lubnanin-guneyine-ateskese-ragmen-saldiri-954931.html",
+  "source": "TRT Haber",
+  "summary_tr": "İsrail, Lübnan ile yapılan ateşkes anlaşmasına rağmen ülkenin güneyindeki 4 bölgede saldırı düzenledı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-26T01:01:01.744663+00:00",
+  "type": "news",
+  "cluster_id": "c7536db5849f3"
+ },
+ {
   "title": "Explainer: The super peso is back — and it's starting to hurt",
   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXRQWGxKYTl0d29jd0dBLVJQbEFBSG03SUMwOEhsbGRjUG1sVV95TDFyZmpIWDRtV1d4X19zWGdHR3lRdmgwT1kwQnNWYVptOTkyd28xT1JYcmp5aXdybVNxLXBSeFVJY1RweFhOdUM5RWxHMmlqVnpTdHNpTnFNU3htZmlIZ0N6NnlZR09XR1U?oc=5",
   "source": "Reuters",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-18T02:01:03.876883+00:00",
   "type": "news",
   "cluster_id": "cc2c98d4e2929"
- },
- {
-  "title": "Emekli kredi kuyruğunda",
-  "link": "https://www.sozcu.com.tr/emekli-kredi-kuyrugunda-p337470",
-  "source": "Sözcü",
-  "summary_tr": "Açlık sınırının altındaki maaşla geçinemeyen emekliler kredi kullanmaya başladı; bu yıl emeklilerde kredi kullanan sayısı artış gösterdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-18T02:01:03.876883+00:00",
-  "type": "news",
-  "cluster_id": "c712e8a0608b4"
  }
 ]
