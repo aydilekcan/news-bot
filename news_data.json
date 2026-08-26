@@ -1,5 +1,29 @@
 [
  {
+  "title": "Mithat Sancar: 'Öcalan'ın süreçte merkezi bir rol üstlenmesi gerekiyor'",
+  "link": "https://www.bbc.com/turkce/articles/c4g5l98jxy0o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "DEM Parti İmralı Heyeti üyesi Mithat Sancar, PKK lideri Abdullah Öcalan'ın Silahsızlanma ve Stratejik Koordinasyon Alt Kurulu'nda merkezi rol üstlenmesi gerektiğini söyledi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-26T18:01:17.070480+00:00",
+  "type": "news",
+  "cluster_id": "cf1175eb99ca6"
+ },
+ {
+  "title": "İran Dışişleri Bakanı, BM'ye gönderdiği mektupta ABD'nin yeni yaptırımlarını ekonomik terörizm olarak niteledi",
+  "link": "https://www.aa.com.tr/tr/dunya/-iran-disisleri-bakani-bmye-gonderdigi-mektupta-abdnin-yeni-yaptirimlarini-ekonomik-terorizm-olarak-niteledi/4038475",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Dışişleri Bakanı Erakçi, ABD'nin İran'a yönelik yeni ekonomik yaptırımlarını 'ekonomik terörizm operasyonu' olarak nitelendirdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-26T18:01:17.070480+00:00",
+  "type": "news",
+  "cluster_id": "c83a95e0e289d"
+ },
+ {
   "title": "US inflation remains sticky in July; second-quarter GDP growth unrevised at 1.5%",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTGZMbzZKcjQta1dMdl9LYzRqcHJ3NENGVVZjT2UtVWFHTnNlMHgxWkFpU282LUFlanJqUDU2YWZBSnp5TVJEQ005d3FvSGZWa0tQRVdDZURPNFJRazRacHpCMU1nYjZ2cnhPb1JPcVZTTGtYNkxCb01uQ3V5UFZrNmppWTRpcGRwdVluU19tdFo0TjlfVFhneVRkTmNPYXVxU3FmRU1MZE1tZw?oc=5",
   "source": "Reuters",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-18T16:01:02.737385+00:00",
   "type": "news",
   "cluster_id": "c6a7bca037685"
- },
- {
-  "title": "Dört bankadan altın tahmini",
-  "link": "https://www.diken.com.tr/dort-bankadan-altin-tahmini/?utm_source=rss&utm_medium=rss&utm_campaign=dort-bankadan-altin-tahmini",
-  "source": "Diken",
-  "summary_tr": "Dört uluslararası banka, 2026'da altın fiyatının yükseleceğini öngörüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-18T16:01:02.737385+00:00",
-  "type": "news",
-  "cluster_id": "cb1d30a78a78a"
- },
- {
-  "title": "Iran hits Gulf states and Jordan after seventh night of US strikes",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVgwRnh4bGg5bXVrMEdSNXEydXpjb0dCTmQwQlV2MHlydHJTU05DcUxIbktrZW82aGUwZ2F4R2h6bkJXOEpFQy1DREthRVFySzUzNkpVMGNSdXdTMlVjVFR4ZTkyYlRqRTU4bEo1cHR1Y3RMSDJ0UV9Ed01tbnVZbUdyN29ZZWpqQU5VZDd3b3dkS0VlMVp5UUJSZHdPVUUzVjZGNmFHWUJOYWVFZDd0ekJnV293QTg?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran, yedinci gece ABD saldırılarına karşılık olarak Körfez ülkeleri ve Ürdün'e saldırı düzenlemişti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-18T15:01:02.243997+00:00",
-  "type": "news",
-  "cluster_id": "cd6d24b4e010d"
  }
 ]
