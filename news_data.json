@@ -1,5 +1,53 @@
 [
  {
+  "title": "ABD'li çip üreticisi Nvidia'nın geliri yüzde 106 arttı",
+  "link": "https://www.aa.com.tr/tr/dunya/abdli-cip-ureticisi-nvidianin-geliri-yuzde-106-artti/4038612",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Nvidia'nın geliri üç aylık dönemde %106 artışla 96,2 milyar dolara yükseldi.",
+  "metric": "Nvidia geliri: %106 artış (96,2 milyar dolar)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-26T22:01:05.095169+00:00",
+  "type": "news",
+  "cluster_id": "cad402a3193c7"
+ },
+ {
+  "title": "Trump signs order banning some foreign equipment from US energy grid",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ0lmRVJRM3gxdGY5ZklCUEJPam5pS0dERFJ1a3ZkYUpKang1bF9rMkxhSV9qcFA4WlRaMVM2eUhvWjdKLVlqbWZHdUpPRmtlQTdLT1FvY0h0Q3VQRGlOUF9QbVQ3RXZmMV93d0hKVTBpbkZjQW9TQVJwMmhwREFzOHktTFVMc0RxV2ZGZlZiOGlVZEdVZ3dBck1aejlzVDBGaEFvN2lxc3F3Ty04dkJfalZBY1pYX2s?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump ABD enerji şebekesinden bazı yabancı ekipmanları yasaklayan kararnameyi imzaladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-26T22:01:05.095169+00:00",
+  "type": "news",
+  "cluster_id": "c4aa51342f1b6"
+ },
+ {
+  "title": "CHP'de 49 isim ihraç talebiyle disipline sevk edildi: Böke, Nazlıaka, Çiftçi gibi isimler var",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUXJWUEtkeF82MzJNcDVsUktkMEZHYlRySGV1VlJkMzBXNW5ZdGppN3c2TGJBTTVrdzJ5ZXZ0a01kQjBQbGFGRDJTbVdmWHN1Zk5TNWFFRmxORk5NUno2Wk5oQWk4dk03eThDS1k3QU00NzN4R2hHYVZaeVhJdzRraFVhUFBQRVI1UXRWTVM3Ym1KYVRDNGk5LVBUM3ZPbWVfZVhveTRYTkpfYXBVY0k1cEhzd24wODhyRGg1bw?oc=5",
+  "source": "soL",
+  "summary_tr": "CHP'de 49 isim ihraç talebiyle disipline sevk edildi; Böke, Nazlıaka, Çiftçi gibi isimler dahil.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-26T22:01:05.095169+00:00",
+  "type": "news",
+  "cluster_id": "c354239c50aca"
+ },
+ {
+  "title": "Wall Street holds mostly steady following the latest update on inflation",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdWdQR1Nqb3FRVG95ZjdkaHVNek03MDg5QnRkWjhkdXBOOTNDdWhWRGV3Ti1xU2QzY1F6eU15Y3ZVVl9kUVgtLVVuSFFoOWpKXzMtMk5pc0pxUDlReHZlSnU1eGM5SE5YRnhONjAyTU1xUDZKWk9pbkl2MmstVWNsZW4xaVpubzlTQ2xNS2xiVHpQUQ?oc=5",
+  "source": "AP",
+  "summary_tr": "Wall Street son enflasyon verisiyle çoğunlukla istikrarlı seyrediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-26T22:01:05.095169+00:00",
+  "type": "news",
+  "cluster_id": "c0fe2da6479f1"
+ },
+ {
   "title": "ABD basını, Rusya'nın Ukrayna'ya karşı \"taktik nükleer silah\" kullanabileceğini iddia etti",
   "link": "https://www.aa.com.tr/tr/dunya/abd-basini-rusyanin-ukraynaya-karsi-taktik-nukleer-silah-kullanabilecegini-iddia-etti/4038565",
   "source": "Anadolu Ajansı",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-18T23:01:00.750293+00:00",
   "type": "news",
   "cluster_id": "c23a3660f525d"
- },
- {
-  "title": "US military says 2 troops are dead and 1 is missing after Iran attacks a base in Jordan",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbS1jN0tZcUtrbk9GU3RKeUxqTHM1Qk5DUDF1VDBVOUVqaVp4QV8xWGhEMmtFV3JRRDc1SXlxalZwcElvUlBXQk13R1NPdW91eUFNRF9UT3JRM3ZHTC03a2ZaZmg0Z2tJdXdCRjVMUml0eWtTSWFLU2U5WGxIMHBNSG1hb2dTS3VLak0zVXdZdHhKY1duRml2MW9Ea0xxVlU?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD askerisi, İran'ın Ürdün'deki bir üsse düzenlediği saldırıda 2 asker öldü, 1 asker kayıp olduğunu açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-18T22:00:58.570025+00:00",
-  "type": "news",
-  "cluster_id": "c7fc3ee91dc5e"
- },
- {
-  "title": "Emekliye ÖTV’siz araç düzenlemesi Meclis’ten geçti mi? Emekliler hangi ÖTV'siz araçları alacak?",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/emekliye-otv-siz-arac-duzenlemesi-meclis-ten-gecti-mi-emekliler-hangi-otv-siz-araclari-alacak-2521975",
-  "source": "Cumhuriyet",
-  "summary_tr": "Emeklilere ÖTV'siz araç satışı düzenlemesi Meclis'ten geçti; emekliler belirli araçları vergisiz alabilecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-18T21:00:56.249345+00:00",
-  "type": "news",
-  "cluster_id": "c84ac4eb7aa37"
- },
- {
-  "title": "5 dev bankadan altın tahmini: Rekor mu geliyor, çakılıyor mu?",
-  "link": "https://www.sozcu.com.tr/5-dev-bankadan-altin-tahmini-rekor-mu-geliyor-cakiliyor-mu-p337659",
-  "source": "Sözcü",
-  "summary_tr": "Dünya's beş büyük bankası altın fiyatları tahminlerini paylaştı; jeopolitik gelişmeler ve faiz politikaları altın piyasasını etkilemeye devam ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-18T20:00:58.268876+00:00",
-  "type": "news",
-  "cluster_id": "c143079ff0f75"
- },
- {
-  "title": "Hamaney: Mutabakat ihlali ABD Başkanı'nın imzasının değersiz olduğunu ispatladı",
-  "link": "https://www.trthaber.com/haber/dunya/hamaney-mutabakat-ihlali-abd-baskaninin-imzasinin-degersiz-oldugunu-ispatladi-951570.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran lideri Hamaney, ABD ile imzalanan mutabakat zaptının ihlal edilmesinin Amerikan Başkanı'nın sözünün değersiz olduğunu kanıtladığını belirtti.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-18T19:01:01.029369+00:00",
-  "type": "news",
-  "cluster_id": "c7a271f08e7ef"
  }
 ]
