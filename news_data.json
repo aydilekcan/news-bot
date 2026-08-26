@@ -1,5 +1,41 @@
 [
  {
+  "title": "US inflation remains sticky in July; second-quarter GDP growth unrevised at 1.5%",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTGZMbzZKcjQta1dMdl9LYzRqcHJ3NENGVVZjT2UtVWFHTnNlMHgxWkFpU282LUFlanJqUDU2YWZBSnp5TVJEQ005d3FvSGZWa0tQRVdDZURPNFJRazRacHpCMU1nYjZ2cnhPb1JPcVZTTGtYNkxCb01uQ3V5UFZrNmppWTRpcGRwdVluU19tdFo0TjlfVFhneVRkTmNPYXVxU3FmRU1MZE1tZw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD temmuz enflasyonu sıkışık kaldı; ikinci çeyrek GSYİH büyümesi %1,5'te sabit.",
+  "metric": "ABD Q2 GSYİH büyümesi: %1,5 (revize edilmemiş)",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-26T17:01:16.948304+00:00",
+  "type": "news",
+  "cluster_id": "c9d987a477e51"
+ },
+ {
+  "title": "Meta’ya rekor ceza: 10 yıl boyunca taksitlerle ödeyecek",
+  "link": "https://www.sozcu.com.tr/meta-ya-rekor-ceza-10-yil-boyunca-taksitlerle-odeyecek-p352933",
+  "source": "Sözcü",
+  "summary_tr": "Meta, çocuklara Instagram ve Facebook'un bağımlılık yarattığı davasında ABD eyaletleriyle anlaşmaya vardı; 10 yıl taksitle ödeme yapacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-26T17:01:16.948304+00:00",
+  "type": "news",
+  "cluster_id": "c08635c7b381a"
+ },
+ {
+  "title": "Sodexo, Fransa'da 1000'den fazla kişiyi işten çıkaracak",
+  "link": "https://www.aa.com.tr/tr/ekonomi/sodexo-fransada-1000den-fazla-kisiyi-isten-cikaracak/4038420",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Sodexo, Fransa'da 1000'den fazla kişiyi işten çıkaracağını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-26T17:01:16.948304+00:00",
+  "type": "news",
+  "cluster_id": "caf13010a03b2"
+ },
+ {
   "title": "US says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate and more",
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWZiUFZqM2pSUlNEQmtJVEllRGF1a04tVG43Q0s2ZDYzME5GRlNsVEdaaW9ScDFDZFhyWElFbEVtQ1JGamZsMDRoaDhtRTJaQUNKaVh0VlpLYTBCVVRHUGtiWEZMdFBTTzBMdU5lV2tVUU11SUxubVVPcTNZVzRDM0Z4TGdDVVp4M085bXdmT1ZiV0Jvcjg3OC1QY0tYT1MtT0pxX3hIa0RZMFRLTTVuMElMY1I0VmFSY2c?oc=5",
   "source": "Reuters",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-18T15:01:02.243997+00:00",
   "type": "news",
   "cluster_id": "cd6d24b4e010d"
- },
- {
-  "title": "US and Iran escalate strikes across Mideast",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNDdzTHpvMkVtSEIzSklZWnpnSk8wZVE4QVUzOHFBLXl2Smc0eUxaTkNQdi1KLTBtb3piRU5aeDlXcVB3eXRRazRlcXVWaHl4QTFMOUR6S0VwMjlpWGlCd1hwSGgyV3NEd3QycE1CWEZ5VEVpbFdKVEdUSE14MThPUmdoTFFJXzRQTDdBMVZaeDYxam41TWY2VnBhZjU4ME0?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD ve İran Orta Doğu'da karşılıklı saldırıları kademeli olarak artırdı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-18T15:01:02.243997+00:00",
-  "type": "news",
-  "cluster_id": "ce9859bbe92f9"
- },
- {
-  "title": "İran, İslamabad Mutabakatı'nı askıya aldı... ABD askeri yığınağı büyürken diplomasi çıkmaza girdi",
-  "link": "https://www.cumhuriyet.com.tr/dunya/iran-islamabad-mutabakati-ni-askiya-aldi-abd-askeri-yiginagi-buyurken-diplomasi-cikmaza-girdi-2521923",
-  "source": "Cumhuriyet",
-  "summary_tr": "İran, İslamabad Mutabakatı kapsamındaki tüm taahhütlerini askıya aldı; ABD'nin yükümlülüklerini ihlal ettiğini öne sürdü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-18T15:01:02.243997+00:00",
-  "type": "news",
-  "cluster_id": "c5ae1c1af0baf"
- },
- {
-  "title": "ABD saldırılarının hedefinde yer alan İranın Hürmüz Boğazındaki gözü: Sirik",
-  "link": "https://www.trthaber.com/haber/dunya/abd-saldirilarinin-hedefinde-yer-alan-iranin-hurmuz-bogazindaki-gozu-sirik-951563.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD, İran'ın Hürmüz Boğazındaki Sirik kentini hedef alarak yedinci gece saldırısını gerçekleştirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-18T15:01:02.243997+00:00",
-  "type": "news",
-  "cluster_id": "cb07f1c6eb8f1"
  }
 ]
