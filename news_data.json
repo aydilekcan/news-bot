@@ -1,5 +1,53 @@
 [
  {
+  "title": "ABD artan kısıtlamalar eşliğinde tüm göçmen vizesi başvurularını durdurdu",
+  "link": "https://www.trthaber.com/haber/dunya/abd-artan-kisitlamalar-esliginde-tum-gocmen-vizesi-basvurularini-durdurdu-954941.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Başkanı Trump, göç politikasının sıkılaştırılması kapsamında tüm göçmen vizesi başvurularını durdurdu.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-26T04:01:01.637950+00:00",
+  "type": "news",
+  "cluster_id": "c63dba30e145f"
+ },
+ {
+  "title": "Prim ve vergi borçları için son başvuru tarihi 31 Ağustos",
+  "link": "https://www.trthaber.com/haber/ekonomi/prim-ve-vergi-borclari-icin-son-basvuru-tarihi-31-agustos-954940.html",
+  "source": "TRT Haber",
+  "summary_tr": "Kamuya borcu olan mükelleflere vergi ve prim borçlarının yapılandırılması için başvuru süresi 31 Ağustos'ta sona eriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-26T04:01:01.637950+00:00",
+  "type": "news",
+  "cluster_id": "c806177fb3667"
+ },
+ {
+  "title": "Kanada'dan ABD'ye doları dolarına misilleme",
+  "link": "https://www.trthaber.com/haber/dunya/kanadadan-abdye-dolari-dolarina-misilleme-954937.html",
+  "source": "TRT Haber",
+  "summary_tr": "Kanada, Trump'ın ABD ithalatına getirdiği yeni gümrük vergilerine karşılık ABD menşeli ürünlere misilleme tarifesi uyguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-26T04:01:01.637950+00:00",
+  "type": "news",
+  "cluster_id": "c79662d96960a"
+ },
+ {
+  "title": "Iran and Oman discuss temporary Hormuz corridor as impasse with US drags on",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlNYeEdXSk9RSTdWVnZwNWVQQzdPMDRqZmpxbW5rYlN6emhXUDZWbHhPTjRaUU1LejhXZnpPNUg4dlMxbER4WE9vQnhDN2ZLUHFzUHN5czhKc245Ny1xMFR5Q0U5VzQtYWVXNnlBaTJDYU5RcklwVmlEZWxGd0ljSlFPcjAwTkRWMVNnRFUtNFljYmhaZEc2QjJjZEZDZDhPdW9WNUVwUmZMQU5DbzAxQkNudw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran ve Umman, ABD ile süregelen anlaşmazlık ortamında Hormuz Boğazı için geçici bir koridor oluşturmayı tartışıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-26T04:01:01.637950+00:00",
+  "type": "news",
+  "cluster_id": "c3a95ba2fbfa3"
+ },
+ {
   "title": "Kanada'dan ABD'ye gümrük vergisi misillemesi: 900 kadar ürüne ek vergi",
   "link": "https://www.bbc.com/turkce/articles/ckgw2n9keljo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-18T06:01:01.916693+00:00",
   "type": "news",
   "cluster_id": "c95f5adcb9d57"
- },
- {
-  "title": "Kuveyt ve Bahreyn'de İran saldırıları nedeniyle alarm durumu",
-  "link": "https://www.trthaber.com/haber/dunya/kuveyt-ve-bahreynde-iran-saldirilari-nedeniyle-alarm-durumu-951525.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran'ın balistik füze ve insansız hava aracı saldırılarına karşı Kuveyt ve Bahreyn hava savunma sistemlerini devreye almıştır.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-18T05:01:03.683586+00:00",
-  "type": "news",
-  "cluster_id": "c5ee4179cf8f9"
- },
- {
-  "title": "İran: ABD, Hürmüzgan'da 2 köprü ve 1 tüneli hedef aldı",
-  "link": "https://www.trthaber.com/haber/dunya/iran-abd-hurmuzganda-2-kopru-ve-1-tuneli-hedef-aldi-951524.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran, ABD'nin Hürmüzgan eyaletinde köprü ve ulaşım noktalarına saldırı düzenlediğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-18T05:01:03.683586+00:00",
-  "type": "news",
-  "cluster_id": "c256426f1cb50"
- },
- {
-  "title": "Ürdün: İran'dan ateşlenen 10 balistik füzeyi etkisiz hale getirdik",
-  "link": "https://www.trthaber.com/haber/dunya/urdun-irandan-ateslenen-10-balistik-fuzeyi-etkisiz-hale-getirdik-951522.html",
-  "source": "TRT Haber",
-  "summary_tr": "Ürdün ordusu, İran'dan ateşlenen 10 balistik füzeyi hava savunma sistemleriyle etkisiz hale getirdiğini duyurdu.",
-  "metric": "İran füzesi: 10 adet",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-18T05:01:03.683586+00:00",
-  "type": "news",
-  "cluster_id": "c0e6ed50ce4cf"
- },
- {
-  "title": "Markete giden herkes bu oyuna gelerek daha fazla para harcıyor",
-  "link": "https://www.sozcu.com.tr/markete-giden-herkes-bu-oyuna-gelerek-daha-fazla-para-harciyor-p337483",
-  "source": "Sözcü",
-  "summary_tr": "Perakende sektöründeki 'bir alana bir bedava' kampanyaları ürün fiyatlarını iki katına çıkararak tüketicileri daha fazla harcamaya yönlendiriyor.",
-  "metric": "Ürün fiyatları normal -> %100 artış",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-18T05:01:03.683586+00:00",
-  "type": "news",
-  "cluster_id": "c528c0f43ce7b"
  }
 ]
