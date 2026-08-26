@@ -1,5 +1,77 @@
 [
  {
+  "title": "İki ödeme kuruluşunun faaliyet izni iptal",
+  "link": "https://www.diken.com.tr/iki-odeme-kurulusunun-faaliyet-izni-iptal/?utm_source=rss&utm_medium=rss&utm_campaign=iki-odeme-kurulusunun-faaliyet-izni-iptal",
+  "source": "Diken",
+  "summary_tr": "Merkez Bankası, Payco Elektronik Para ve Ödeme Hizmetleri A.Ş. ile Junomo'nun faaliyet izinlerini iptal etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-26T07:01:07.907912+00:00",
+  "type": "news",
+  "cluster_id": "c9526781fedd0"
+ },
+ {
+  "title": "Türkiye'nin CDS'i altı ayın en düşük seviyesinde",
+  "link": "https://www.diken.com.tr/turkiyenin-cdsi-alti-ayin-en-dusuk-seviyesinde/?utm_source=rss&utm_medium=rss&utm_campaign=turkiyenin-cdsi-alti-ayin-en-dusuk-seviyesinde",
+  "source": "Diken",
+  "summary_tr": "Türkiye'nin 5 yıllık kredi risk primi (CDS) 217 baz puana düşerek 6 aylık en düşük seviyesine ulaştı.",
+  "metric": "CDS 217 baz puan (6 aylık minimum)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-26T07:01:07.907912+00:00",
+  "type": "news",
+  "cluster_id": "cffc89248cb8a"
+ },
+ {
+  "title": "280 bin liralık maaşı duyan gençler bu mesleğe akın ediyor",
+  "link": "https://www.sozcu.com.tr/280-bin-liralik-maasi-duyan-gencler-bu-meslege-akin-ediyor-p352749",
+  "source": "Sözcü",
+  "summary_tr": "Üniversite diploması olmayan genç işçiler aylık yaklaşık 280 bin lira kazanabiliyor; yapay zeka sektörü yüksek maaş sunuyor.",
+  "metric": "Aylık maaş ~280 bin TL",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-26T07:01:07.907912+00:00",
+  "type": "news",
+  "cluster_id": "c5b3ed6578b17"
+ },
+ {
+  "title": "\"Alihan Kuriş suç örgütü\"ne yönelik soruşturmada gözaltına alınanlardan 10'u tutuklandı",
+  "link": "https://www.aa.com.tr/tr/gundem/alihan-kuris-suc-orgutune-yonelik-sorusturmada-gozaltina-alinanlardan-10u-tutuklandi/4037562",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Alihan Kuriş suç örgütüne yönelik soruşturmada gözaltına alınan 10 şüpheli tutuklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-26T07:01:07.907912+00:00",
+  "type": "news",
+  "cluster_id": "c1c00c78346f8"
+ },
+ {
+  "title": "Alihan Kuriş suç örgütüne yönelik soruşturmada gözaltına alınanlardan 10'u tutuklandı",
+  "link": "https://www.trthaber.com/haber/turkiye/alihan-kuris-suc-orgutune-yonelik-sorusturmada-gozaltina-alinanlardan-10u-tutuklandi-954954.html",
+  "source": "TRT Haber",
+  "summary_tr": "Alihan Kuriş suç örgütüne yönelik soruşturmada gözaltına alınan 10 şüpheli tutuklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-26T07:01:07.907912+00:00",
+  "type": "news",
+  "cluster_id": "c1c00c78346f8"
+ },
+ {
+  "title": "Süleymancıların lideri Alihan Kuriş hakkında ‘kasten öldürme’ soruşturması",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2Y1NER6QloyaHRFOHcySW5VQzVwSlNBVVpLRjBjTFZrZXpaNzhwQjVIdE1MTDRHMGs0ZHBWM3NSbjljNXZET2RiQXhaaFBRQTNPQms5TjVuOExTYmN2c0ZPRzcyMGN3Mm92d1NyaG9zajhxcHFRTDVIRDQwMzJJNEhoVUZvMzFPUFQxbmV5WTZjQjJ0aUJDRTEtOUNFbWNNaDVMdlRBZE5ZbFpLLTVF?oc=5",
+  "source": "soL",
+  "summary_tr": "Süleymancılar cemaatinin lideri Alihan Kuriş hakkında 'kasten öldürme' soruşturması açıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-26T07:01:07.907912+00:00",
+  "type": "news",
+  "cluster_id": "c2f38d5b3071d"
+ },
+ {
   "title": "Türkiye'nin kredi risk primi geriledi",
   "link": "https://www.sozcu.com.tr/turkiyenin-kredi-risk-primi-geriledi-p352734",
   "source": "Sözcü",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-18T08:01:02.125827+00:00",
   "type": "news",
   "cluster_id": "caa239f26e108"
- },
- {
-  "title": "Adalet Bakanı Gürlek, 6 faili meçhul cinayetin aydınlatıldığını duyurdu",
-  "link": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlek-6-faili-mechul-cinayetin-aydinlatildigini-duyurdu/4002011",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Adalet Bakanı Akın Gürlek, 2005-2016 yılları arasında farklı şehirlerde işlenen 6 cinayet dosyasının aydınlatıldığını duyurdu.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-18T08:01:02.125827+00:00",
-  "type": "news",
-  "cluster_id": "cd4b1a138bbac"
- },
- {
-  "title": "İsrail askerlerinin bir hafta önce yaraladığı Filistinli genç yaşamını yitirdi",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-askerlerinin-bir-hafta-once-yaraladigi-filistinli-genc-yasamini-yitirdi/4002003",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail askerlerinin bir hafta önce Batı Şeria'da yaraladığı 17 yaşındaki Filistinli yaşamını yitirdi.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-18T08:01:02.125827+00:00",
-  "type": "news",
-  "cluster_id": "c5822adc66d91"
- },
- {
-  "title": "İsrail'in Gazze kentinde düzenlediği saldırıda 3 Filistinli hayatını kaybetti",
-  "link": "https://www.aa.com.tr/tr/dunya/israilin-gazze-kentinde-duzenledigi-saldirida-3-filistinli-hayatini-kaybetti/4001988",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail ordusunun ateşkese rağmen Gazze'nin güneyindeki Zeytun Mahallesi'ndeki bir noktaya düzenlediği saldırıda 3 Filistinli hayatını kaybetti.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-18T08:01:02.125827+00:00",
-  "type": "news",
-  "cluster_id": "ca615155ecbcf"
- },
- {
-  "title": "Karanlıkta kalan 6 faili meçhul cinayet daha aydınlatıldı",
-  "link": "https://www.trthaber.com/haber/gundem/karanlikta-kalan-6-faili-mechul-cinayet-daha-aydinlatildi-951530.html",
-  "source": "TRT Haber",
-  "summary_tr": "Adalet Bakanı Akın Gürlek, Faili Meçhul Suçları Araştırma Daire Başkanlığı koordinasyonunda 2005-2016 yıllarına ait 6 cinayet dosyasının aydınlatıldığını bildirdi.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-18T08:01:02.125827+00:00",
-  "type": "news",
-  "cluster_id": "cf17aca0bc63a"
- },
- {
-  "title": "Fitch, Türkiye'nin kredi notuna dokunmadı: Enflasyon tahmini",
-  "link": "https://www.diken.com.tr/fitch-turkiyenin-kredi-notuna-dokunmadi-enflasyon-tahmini/?utm_source=rss&utm_medium=rss&utm_campaign=fitch-turkiyenin-kredi-notuna-dokunmadi-enflasyon-tahmini",
-  "source": "Diken",
-  "summary_tr": "Fitch Ratings, Türkiye'nin kredi notunu değiştirmedi; enflasyon tahminini güncelledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-18T07:01:01.824998+00:00",
-  "type": "news",
-  "cluster_id": "c5d36c8deb31d"
- },
- {
-  "title": "ABD'li enerji devi dibimizde petrol çıkaracak: İngilizler çağırınca koşa koşa geldiler",
-  "link": "https://www.sozcu.com.tr/abd-li-enerji-devi-dibimizde-petrol-cikaracak-ingilizler-cagirinca-kosa-kosa-geldiler-p337515",
-  "source": "Sözcü",
-  "summary_tr": "ConocoPhillips ve BP, Kerkük petrol sahaları için ortaklık anlaşması imzaladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-18T07:01:01.824998+00:00",
-  "type": "news",
-  "cluster_id": "c6d5663e370e4"
  }
 ]
