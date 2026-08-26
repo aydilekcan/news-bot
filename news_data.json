@@ -1,5 +1,17 @@
 [
  {
+  "title": "ABD Başkanı Trump sığır eti ithalat kotasını geçici olarak artırdı",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-sigir-eti-ithalat-kotasini-gecici-olarak-artirdi/4038629",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump ithal yağsız sığır eti için tarife kotasını geçici olarak artırdı; tüketicilere uygun fiyatlı et sağlamayı hedefledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-26T23:01:01.717560+00:00",
+  "type": "news",
+  "cluster_id": "cccf69801be5a"
+ },
+ {
   "title": "ABD'li çip üreticisi Nvidia'nın geliri yüzde 106 arttı",
   "link": "https://www.aa.com.tr/tr/dunya/abdli-cip-ureticisi-nvidianin-geliri-yuzde-106-artti/4038612",
   "source": "Anadolu Ajansı",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-18T23:01:00.750293+00:00",
   "type": "news",
   "cluster_id": "c28032776d7c1"
- },
- {
-  "title": "İsrail basını: ABD, İran'a yönelik hava saldırılarının kapsamını genişletmeye hazırlanıyor",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-basini-abd-irana-yonelik-hava-saldirilarinin-kapsamini-genisletmeye-hazirlaniyor/4002534",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail medyasına göre ABD, İran'a yönelik hava saldırılarının kapsamını genişletmeyi planlıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-18T23:01:00.750293+00:00",
-  "type": "news",
-  "cluster_id": "c23a3660f525d"
  }
 ]
