@@ -1,5 +1,17 @@
 [
  {
+  "title": "Explainer: The super peso is back — and it's starting to hurt",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXRQWGxKYTl0d29jd0dBLVJQbEFBSG03SUMwOEhsbGRjUG1sVV95TDFyZmpIWDRtV1d4X19zWGdHR3lRdmgwT1kwQnNWYVptOTkyd28xT1JYcmp5aXdybVNxLXBSeFVJY1RweFhOdUM5RWxHMmlqVnpTdHNpTnFNU3htZmlIZ0N6NnlZR09XR1U?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Meksika pesosu güçlüğü artıyor ve yerel ekonomiyi etkilemeye başladı. Kur hareketleri ihracat ve işletme maliyetlerini etkiliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-26T00:01:05.365062+00:00",
+  "type": "news",
+  "cluster_id": "caf33db9aa220"
+ },
+ {
   "title": "SDG dağıldı: Suriye’de Türkiye’nin istediği oldu. ABD memnun. İsrail’e dikkat",
   "link": "https://yetkinreport.com/2026/08/26/sdg-dagildi-suriyede-turkiyenin-istedigi-oldu-abd-memnun-israile-dikkat/",
   "source": "YetkinReport",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-18T02:01:03.876883+00:00",
   "type": "news",
   "cluster_id": "c712e8a0608b4"
- },
- {
-  "title": "Israeli strikes kill Palestinians attending Gaza funeral for earlier strike victim",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0l2SzBLNkJrRlU3OWNGWmE1MXdfeVZfUk5MRXdETUJHQ1Z0ZFdiVm5GV09IOTRDdFZMYXR2c05HTjZzZTNZMEJmOVdUVWVoaEJNLURmdjNhNlVWb0pMSHlHUDBEa2hyQmpldkh6RVZOSHhDaUVvLW1JeWppMFpvaU9YVTdfSEtWTFluS0pOcmRwRU00Z0ZWd01qR0ZJVnZUOTAzUzlqel9lQ2U5ejYtWVd6Rmx1RHdoZEF4TDNJSTFNOUZjMnhnWHlueVg?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İsrail ordusu, Gazze'de cenaze törenine katılan Filistinlilere saldırı düzenleyerek ölümler meydana gelmiştir.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-18T00:01:02.319157+00:00",
-  "type": "news",
-  "cluster_id": "c03e4af3df0b5"
  }
 ]
