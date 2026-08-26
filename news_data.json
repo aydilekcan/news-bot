@@ -1,5 +1,41 @@
 [
  {
+  "title": "Türkiye'nin kredi risk primi geriledi",
+  "link": "https://www.sozcu.com.tr/turkiyenin-kredi-risk-primi-geriledi-p352734",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye'nin 5 yıllık kredi risk primi (CDS) 217 baz puana düşerek 18 Şubat'tan bu yana en düşük seviyesine geriledi.",
+  "metric": "CDS 18 Şubat öncesi seviyesi -> 217 baz puan (en düşük)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-26T06:01:09.548554+00:00",
+  "type": "news",
+  "cluster_id": "cc86f2ccb65fc"
+ },
+ {
+  "title": "Türkiye'nin 5 yıllık kredi risk primi 18 Şubat'tan bu yana en düşük seviyede",
+  "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-5-yillik-kredi-risk-primi-18-subattan-bu-yana-en-dusuk-seviyede/4037544",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye'nin 5 yıllık kredi risk primi (CDS) 217 baz puana inerek 18 Şubat'tan bu yana en düşük seviyesine geriledi.",
+  "metric": "CDS 18 Şubat öncesi seviyesi -> 217 baz puan (en düşük)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-26T06:01:09.548554+00:00",
+  "type": "news",
+  "cluster_id": "cc86f2ccb65fc"
+ },
+ {
+  "title": "Türkiye'nin risk primi 6 ayın en düşük seviyesinde",
+  "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-risk-primi-6-ayin-en-dusuk-seviyesinde-954953.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye'nin 5 yıllık kredi risk primi CDS 217 baz puana inerek 18 Şubat'tan bu yana en düşük seviyesine geriledi.",
+  "metric": "CDS 18 Şubat öncesi seviyesi -> 217 baz puan (en düşük)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-26T06:01:09.548554+00:00",
+  "type": "news",
+  "cluster_id": "cc86f2ccb65fc"
+ },
+ {
   "title": "BOJ to speed up its tightening campaign, raise key rate to 1.25% in September",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRkY0T3pHNW9TMVliZVlhejhBNGNlSFQ1TU9VVmdlVzdmYThlTVJWaXEyY2RhUEFtSzV6SnljYWtGMXBnWk45dXU5QkNwaXgzUGF1Smhmb2k4RENIT1FKWGNDQUFqNk9ocG9PU3ZfTDhKaGY1LWlMVHdOS3JCbkNpLVh2WmItRk83bnBZT2RXOTVrd2JIeDVpYXlLV3ZYUlZYeXJ4V1c5UWlsZmFiODNXLWl4ZGw4M3J1Qk5zeA?oc=5",
   "source": "Reuters",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-18T07:01:01.824998+00:00",
   "type": "news",
   "cluster_id": "c6d5663e370e4"
- },
- {
-  "title": "Büyükelçi atamaları Resmi Gazete'de yayımlandı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/buyukelci-atamalari-resmi-gazete-de-yayimlandi-2521806",
-  "source": "Cumhuriyet",
-  "summary_tr": "Cumhurbaşkanı Erdoğan'ın imzasıyla büyükelçi atama kararları Resmi Gazete'de yayımlandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-18T07:01:01.824998+00:00",
-  "type": "news",
-  "cluster_id": "cb1e39f00dd5c"
- },
- {
-  "title": "Irak ile ABD arasında 48 ekonomik işbirliği anlaşması imzalandı",
-  "link": "https://www.aa.com.tr/tr/dunya/irak-ile-abd-arasinda-48-ekonomik-isbirligi-anlasmasi-imzalandi/4001940",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Irak ile ABD, petrol, enerji, teknoloji ve finans alanlarında 48 ekonomik işbirliği anlaşması imzaladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-18T07:01:01.824998+00:00",
-  "type": "news",
-  "cluster_id": "c1024820078f9"
- },
- {
-  "title": "Rusya’da İHA saldırılarında 7 kişi öldü, bazı tesislerde yangın çıktı",
-  "link": "https://www.aa.com.tr/tr/dunya/rusya-da-iha-saldirilarinda-7-kisi-oldu-bazi-tesislerde-yangin-cikti/4001935",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Rusya'ya düzenlenen İHA saldırılarında 7 kişi öldü, 48 kişi yaralandı; bazı tesislerde yangın çıktı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-18T06:01:01.916693+00:00",
-  "type": "news",
-  "cluster_id": "c62f6848bbfb5"
  }
 ]
