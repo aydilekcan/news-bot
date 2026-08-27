@@ -1,5 +1,65 @@
 [
  {
+  "title": "Merkez Bankası rezervleri 188,4 milyar dolara yükseldi",
+  "link": "https://www.trthaber.com/haber/ekonomi/merkez-bankasi-rezervleri-1884-milyar-dolara-yukseldi-955118.html",
+  "source": "TRT Haber",
+  "summary_tr": "TCMB toplam rezervleri 21 Ağustos haftasında 4 milyar 949 milyon dolar artarak 188,4 milyar dolara yükseldi.",
+  "metric": "TCMB toplam rezervleri: +4,949 milyar dolar (188,4 milyar dolar)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-27T13:01:06.104252+00:00",
+  "type": "news",
+  "cluster_id": "ca1b2d52e78d7"
+ },
+ {
+  "title": "Borcu olan esnafa yeni fırsat: 3,5 milyon liraya kadar kredi desteği yolda",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/borcu-olan-esnafa-yeni-firsat-3-5-milyon-liraya-kadar-kredi-destegi-yolda-2532858",
+  "source": "Cumhuriyet",
+  "summary_tr": "Hazine, borcu olan esnafa 3,5 milyon liraya kadar faiz destekli kredi desteği sağlayacak.",
+  "metric": "Kredi desteği üst limiti: 3,5 milyon TL",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-27T13:01:06.104252+00:00",
+  "type": "news",
+  "cluster_id": "c60d0b1910e3f"
+ },
+ {
+  "title": "Zelenskiy's top aide says Ukraine-Russia talks may be possible in September",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVkotcnBOcG00MDhRSW5CeGlGZW1udldHMFQxTnpqaDQ0WXlBTjJuWENoOTVHanlSSXBpOEFRZzcyR2d6OGw2OFZMcGMyd24zUHNOR0xKX1g1VW9HLUUyNTVyNHJmWmMtdHY1eC0xN25BcFp3SXNEYVk0U2NER19VOWFPbDBXY2FtRGRTeWNSSHB3SmpwSTFPNkFvb3dfZE1zZ3I3cDFfTkEyS2RfZ09QTkFxM2ZkMzZ6VHFtRQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Zelenskiy'in danışmanı, Eylül ayında Ukrayna-Rusya müzakereleri yapılabilir olabileceğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-27T13:01:06.104252+00:00",
+  "type": "news",
+  "cluster_id": "cd900c65b501f"
+ },
+ {
+  "title": "US weighs a new round of tariffs on semiconductors, Politico reports",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYjhTUnRyakVvbHNuOEoxd0xfeVlyZUFNbXJvU2Y2M3lTdTdZSDNLRURQTmF1Tl9VSWpFRjNFVk5ubmhrbTV0TWI2XzJINEk4MDdUR1cxbGgzcFB5MUNFc01FaTRPYm1oZ3FuRVRaay1RQmc1OGt0ZTV5SFEwbFl1UlF5amhqc3NjX2h6d3prdmxJV3k5QzVScl9qeXBISElzU2NQdndaaw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, yarı iletkenler üzerine yeni bir tarife turu uygulamayı değerlendiriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-27T13:01:06.104252+00:00",
+  "type": "news",
+  "cluster_id": "c42f33d725eb2"
+ },
+ {
+  "title": "Russia says it launched a ‘massive’ overnight strike on 9 Ukrainian cities",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQURoUEhEcFk3STd0XzZscFVBTHBnRzV2LVRsVDdpM1UzU2V2TzJwbmU4OS1xeVZuOFlSQUNaYktJV0czSjhvdTZVdlpLOUJoaVFvNllrYTByTHQ0ZFlnc3VLeFZWa3VneTFyVUZvTnhUQWpCUGFLMmlIb1RqNEFYVnFVSUNIOGxHWVRGUko5TXhYVkw0RXZuU2UyeUNzS1Ra?oc=5",
+  "source": "AP",
+  "summary_tr": "Rusya, 9 Ukrayna şehrini hedef alan gece 'yoğun' bir saldırı başlattığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-27T13:01:06.104252+00:00",
+  "type": "news",
+  "cluster_id": "c2aea0f1d6621"
+ },
+ {
   "title": "KKM sıfırlandı",
   "link": "https://www.diken.com.tr/kkm-sifirlandi/?utm_source=rss&utm_medium=rss&utm_campaign=kkm-sifirlandi",
   "source": "Diken",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-19T10:01:02.527519+00:00",
   "type": "news",
   "cluster_id": "ce8f3ab936dad"
- },
- {
-  "title": "Çin’den İngiltere’ye 'British Steel' tepkisi: 'Gerekli önlemleri alacağız'",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ2c2RFFMUnU3RjhHTndmcUx6NGJZUktRQ1o5TWFDdzhhM3FpdjQ1T0hYTFA1VjJWSWE5RE5mUGEwQ0VaV3VVaERzd2xwLXVwZ3ZnRDFNcFFfVEtYQ0pIQjgySDVDSU9JWDNoWlpFWUNNNzJLUVBIbGJhVUxyT01TU2FqTWlTLXBNZHhuM2hBWkstUXBwVHhKRkowclAxZG5NNE9aTS14NFA?oc=5",
-  "source": "soL",
-  "summary_tr": "Çin, İngiltere'nin 'British Steel' kararına tepki göstererek gerekli önlemler alacağını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-19T10:01:02.527519+00:00",
-  "type": "news",
-  "cluster_id": "c7afbfad9982b"
- },
- {
-  "title": "Halk pazarında memnun kimse yok: '35 senedir piyasadayım, en kötü yıllarımızı yaşıyoruz'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/halk-pazarinda-memnun-kimse-yok-35-senedir-piyasadayim-en-kotu-yillarimizi-yasiyoruz-2522063",
-  "source": "Cumhuriyet",
-  "summary_tr": "Karacasu halk pazarında satıcı ve alıcılar ekonomik sıkıntıdan yakınıyor; 35 yıldır satıcılık yapan esnaf krizin en ağır dönemini yaşadığını söylüyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-19T10:01:02.527519+00:00",
-  "type": "news",
-  "cluster_id": "c16f6ede226e4"
- },
- {
-  "title": "Sürücülerin tercihi değişti: Bir yılda yüzde 150'den fazla arttı",
-  "link": "https://www.sozcu.com.tr/suruculerin-tercihi-degisti-bir-yilda-yuzde-150-den-fazla-artti-p337776",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye'de elektrikli araçların şarj tüketimi yılın ilk yarısında geçen yılın aynı dönemine göre yüzde 150'den fazla arttı.",
-  "metric": "Elektrikli araç şarj tüketimi +%150 (ilk 6 ay)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-19T10:01:02.527519+00:00",
-  "type": "news",
-  "cluster_id": "cfd2d62307fbd"
- },
- {
-  "title": "Elektrikli araçların şarj tüketimi yılın ilk yarısında yüzde 153,5 arttı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/elektrikli-araclarin-sarj-tuketimi-yilin-ilk-yarisinda-yuzde-153-5-artti/4002729",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye'de elektrikli araçların şarj hizmeti kapsamındaki elektrik tüketimi, yılın ilk yarısında geçen yılın aynı dönemine göre yüzde 153,5 arttı.",
-  "metric": "Elektrikli araç şarj tüketimi +%153,5 (ilk 6 ay)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-19T10:01:02.527519+00:00",
-  "type": "news",
-  "cluster_id": "caaa71f78a7e6"
- },
- {
-  "title": "Türkiye'de son 6 ayda kapanan her bir şirket yerine 4'ten fazla şirket açıldı",
-  "link": "https://www.trthaber.com/haber/ekonomi/turkiyede-son-6-ayda-kapanan-her-bir-sirket-yerine-4ten-fazla-sirket-acildi-951609.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye'de yılın ilk yarısında kapanan her bir şirket yerine 4'ten fazla yeni şirket faaliyete başladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-19T10:01:02.527519+00:00",
-  "type": "news",
-  "cluster_id": "ca9bc1ee4450f"
  }
 ]
