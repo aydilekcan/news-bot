@@ -1,5 +1,41 @@
 [
  {
+  "title": "Nvidia forecasts 70% sales growth next year, signals AI spending boom has years left to run",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVTdJRXVOXzFrQjZXaG1XeVpHNUg0UzBHMnZ0b3lUT1hCZktWajJhbkJfSmcweHEyVE9sNVdrOGx2MlFhUlZ2Z0xna3Jzd0gzWUJCdHR2MHN3Y0pqYURLQ0JQUmxfYVJpT3h3TEV4amE3TkR5SnlIa3A1NlRvcE16Y3NZbnNzQUVuRFlfS2lvUE81ajBta2hYaEp5Wk94c014b3lkQmg5S3N6WlMyWWc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Nvidia, gelecek yıl %70 satış artışı öngördü ve yapay zeka harcamalarının boom döneminin yıllar daha devam edeceğini sinyal verdi.",
+  "metric": "Nvidia satış artışı: +%70 (2025 tahmini)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-27T02:01:12.210809+00:00",
+  "type": "news",
+  "cluster_id": "c01a97b5d324f"
+ },
+ {
+  "title": "Strong AI chip demand fuels Nvidia’s Q2 results well beyond Wall Street’s expectations",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYVlsa1lmZEZNUjJReU4wWWtWbDA0aFBEbWxqd1BKMXBxSXoxWHllbnpFZWRqUUx3c0hUeTRwd212dU4xTHJrTjY5RndKMmlUZVBhVjdQamxWNlo2SHoydzg0VzhqdVk2SmF4VER4bjlNX1ZDV2lXUi0wUFVxRW5raEJaNjRlODZEczVURk04OXNiSzVrVEc3N0s1R0VteVNv?oc=5",
+  "source": "AP",
+  "summary_tr": "Nvidia, Q2 sonuçlarında AI çip talebinin Wall Street beklentilerini aşarak güçlü büyüme kaydetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-27T02:01:12.210809+00:00",
+  "type": "news",
+  "cluster_id": "c6ad668876328"
+ },
+ {
+  "title": "Teşvik ödemesinde yeni dönem: ‘Bireysel hedef katsayısı’ tepkilere neden oldu",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/tesvik-odemesinde-yeni-donem-bireysel-hedef-katsayisi-tepkilere-neden-oldu-2532687",
+  "source": "Cumhuriyet",
+  "summary_tr": "Sağlık Bakanlığı, hekimlerin teşvik ödemelerini etkileyecek 'bireysel hedef katsayısı' uygulamasını başlattı; düzenleme tepkilere neden oldu.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-27T02:01:12.210809+00:00",
+  "type": "news",
+  "cluster_id": "cee0649b3e437"
+ },
+ {
   "title": "ABD Başkanı Trump sığır eti ithalat kotasını geçici olarak artırdı",
   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-sigir-eti-ithalat-kotasini-gecici-olarak-artirdi/4038629",
   "source": "Anadolu Ajansı",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-19T00:01:08.571482+00:00",
   "type": "news",
   "cluster_id": "c35116f4d6e12"
- },
- {
-  "title": "ABD: İran'a yönelik yeni hava saldırıları başlattık",
-  "link": "https://www.trthaber.com/haber/dunya/abd-irana-yonelik-yeni-hava-saldirilari-baslattik-951576.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD ordusu Ürdün'de öldürülen askerlerine misilleme olarak İran'a yeni hava saldırıları başlattı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-18T23:01:00.750293+00:00",
-  "type": "news",
-  "cluster_id": "caf7e3930c7dd"
- },
- {
-  "title": "US military launches new airstrikes to punish Iran for deaths of US troops",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbS1jN0tZcUtrbk9GU3RKeUxqTHM1Qk5DUDF1VDBVOUVqaVp4QV8xWGhEMmtFV3JRRDc1SXlxalZwcElvUlBXQk13R1NPdW91eUFNRF9UT3JRM3ZHTC03a2ZaZmg0Z2tJdXdCRjVMUml0eWtTSWFLU2U5WGxIMHBNSG1hb2dTS3VLak0zVXdZdHhKY1duRml2MW9Ea0xxVlU?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD ordusu, Ürdün'de öldürülen askerlerine karşılık vermek için İran'a yeni hava saldırıları başlattı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-18T23:01:00.750293+00:00",
-  "type": "news",
-  "cluster_id": "cf59d3d4487ff"
- },
- {
-  "title": "İran basını, ABD'nin Hürmüz Boğazı yakınlarındaki Sirik kentine saldırı düzenlediğini duyurdu",
-  "link": "https://www.aa.com.tr/tr/live-blog/iran-basini-abdnin-hurmuz-bogazi-yakinlarindaki-sirik-kentine-saldiri-duzenledigini-duyurdu/5564",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD, İran'ın güney kıyısındaki Sirik kentine hava saldırısı düzenledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-18T23:01:00.750293+00:00",
-  "type": "news",
-  "cluster_id": "c28032776d7c1"
  }
 ]
