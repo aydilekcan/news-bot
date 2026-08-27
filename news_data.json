@@ -1,5 +1,53 @@
 [
  {
+  "title": "KKM sıfırlandı",
+  "link": "https://www.diken.com.tr/kkm-sifirlandi/?utm_source=rss&utm_medium=rss&utm_campaign=kkm-sifirlandi",
+  "source": "Diken",
+  "summary_tr": "Kur korumalı mevduat hesapları (KKM) sıfırlanmıştır; geçen hafta 4 milyon lira azalarak hesaplar kapanmıştır.",
+  "metric": "KKM bakiyesi 4 milyon TL azalarak 0 TL",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-27T12:01:11.181073+00:00",
+  "type": "news",
+  "cluster_id": "c1ff9af2cf144"
+ },
+ {
+  "title": "KKM bakiyesi sıfırlandı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/kkm-bakiyesi-sifirlandi/4039127",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Kur korumalı Türk lirası mevduat ve katılma hesapları (KKM) geçen hafta sıfırlanmıştır; 4 milyon lira azalarak kapanmıştır.",
+  "metric": "KKM bakiyesi 4 milyon TL azalarak 0 TL",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-27T12:01:11.181073+00:00",
+  "type": "news",
+  "cluster_id": "c1ff9af2cf144"
+ },
+ {
+  "title": "Bankacılık sektörünün mevduatı arttı -27 Ağustos 2026",
+  "link": "https://www.sozcu.com.tr/bankacilik-sektorunun-mevduati-artti-27-agustos-2026-p353175",
+  "source": "Sözcü",
+  "summary_tr": "Bankacılık sektörünün toplam mevduatı bir önceki haftaya göre 406 milyar 337 milyon lira artmıştır.",
+  "metric": "Mevduat artışı 406 milyar 337 milyon TL",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-27T12:01:11.181073+00:00",
+  "type": "news",
+  "cluster_id": "c99287bc64df2"
+ },
+ {
+  "title": "Bakan Şimşek: Esnafımızın finansmana erişimini kolaylaştırıyoruz",
+  "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-esnafimizin-finansmana-erisimini-kolaylastiriyoruz-955110.html",
+  "source": "TRT Haber",
+  "summary_tr": "Hazine ve Maliye Bakanı Mehmet Şimşek, kredi koşullarını tam olarak karşılayamayan esnafın da finansmana erişimini kolaylaştırmak için yeni düzenleme yapıldığını açıklamıştır.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-27T12:01:11.181073+00:00",
+  "type": "news",
+  "cluster_id": "c805676550c96"
+ },
+ {
   "title": "Gıda fiyatlarında ağustos verileri açıklandı: En çok hangi ürünler zamlandı?",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/gida-fiyatlarinda-agustos-verileri-aciklandi-en-cok-hangi-urunler-zamlandi-2532809",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-19T10:01:02.527519+00:00",
   "type": "news",
   "cluster_id": "ca9bc1ee4450f"
- },
- {
-  "title": "ABD İran'ı vurdu, Tahran Kuveyt'teki üslere saldırdı",
-  "link": "https://www.dw.com/tr/abd-iran-ı-vurdu-tahran-kuveyt-teki-üslere-saldırdı/a-78024150?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "ABD İran'ı vurdu, İran misilleme olarak Kuveyt'teki Amerikan üslerine saldırdı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-19T09:01:08.640752+00:00",
-  "type": "news",
-  "cluster_id": "c0a3cce240dea"
- },
- {
-  "title": "Rusya’dan Kiev’e balistik füze yağmuru: Ölü ve yaralılar var",
-  "link": "https://www.cumhuriyet.com.tr/dunya/rusya-dan-kiev-e-balistik-fuze-yagmuru-olu-ve-yaralilar-var-2522045",
-  "source": "Cumhuriyet",
-  "summary_tr": "Rusya Kiev'i 41 füze ve 125 İHA ile vurdu; en az bir kişi hayatını kaybetti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-19T09:01:08.640752+00:00",
-  "type": "news",
-  "cluster_id": "c8dc3c3e46fed"
- },
- {
-  "title": "Russia pounds Kyiv in major ballistic missile attack",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX2tmdG9jeU9JcGhlNVVYMTRHSG9ZejlGb2pRbG1SNUpqZVF5aTZSa0pXSGxjeUl6WTUydUE1TmdORFZrbURGcmNYWHRhQ3hTNmNmZTZXamtaVVBkczh3T09LYWVQRXJweHlSamppc2ViWFZGbnlOYWU0d0hjNWhpRzNaZzd3cTZQUEVWdXBGRDN2eWtTc3VmSGQwaXlBOE45aVBwUkxqNHg5VDc0cnI4?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Rusya Kiev'i büyük çaplı balistik füze saldırısıyla hedef aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-19T09:01:08.640752+00:00",
-  "type": "news",
-  "cluster_id": "cdaee1ab65d62"
- },
- {
-  "title": "Butlan dosyasında kritik eşik: Yargıtay tedbiri kaldırırsa ne olacak?",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/butlan-dosyasinda-kritik-esik-yargitay-tedbiri-kaldirirsa-ne-olacak-2522047",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'nin seçim butlanı kararına ilişkin dosya Yargıtay'a ulaştı; adli tatilde karar alınabilir.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-19T09:01:08.640752+00:00",
-  "type": "news",
-  "cluster_id": "c4eb5ee5e8bed"
  }
 ]
