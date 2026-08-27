@@ -1,5 +1,29 @@
 [
  {
+  "title": "Gıda fiyatlarında ağustos verileri açıklandı: En çok hangi ürünler zamlandı?",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/gida-fiyatlarinda-agustos-verileri-aciklandi-en-cok-hangi-urunler-zamlandi-2532809",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ağustos 2026 gıda fiyat endeksi: Gıda fiyatları aylık %1,07 arttı, yıllık enflasyon %30,9'a ulaştı.",
+  "metric": "Yıllık gıda enflasyonu (önceki ay belirtilmediğinden tam karşılaştırma yapılamadı)",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-27T11:01:04.123487+00:00",
+  "type": "news",
+  "cluster_id": "c01b4e22cee2e"
+ },
+ {
+  "title": "Bakan Şimşek, vergi ve prim borcu bulunan esnafa yönelik kredi düzenlemesini değerlendirdi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-vergi-ve-prim-borcu-bulunan-esnafa-yonelik-kredi-duzenlemesini-degerlendirdi/4039072",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Hazine ve Maliye Bakanı Mehmet Şimşek, vergi ve prim borcu bulunan esnafın finansmana erişimini kolaylaştırmak için kredi koşullarını düzenlemesini değerlendirdi.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-27T11:01:04.123487+00:00",
+  "type": "news",
+  "cluster_id": "c0aff4c04d4fe"
+ },
+ {
   "title": "CIA Direktörü Moskova'da: \"NATO'yu sınamayın\" mesajı",
   "link": "https://www.dw.com/tr/cia-direktörü-moskova-da-nato-yu-sınamayın-mesajı/a-78523558?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-19T09:01:08.640752+00:00",
   "type": "news",
   "cluster_id": "c4eb5ee5e8bed"
- },
- {
-  "title": "Democratic Taiwan must not become 'China's Taiwan', president says",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNmMyZ1pTd2EyNnlYUW5BYnpZOXJXb1BkOGxER3c0SXpjajlNRzlzXzl6cU9qOUhBNmY4VFlOdlFHT0NFcWxMdTNLQkxndmY0ajk5SnBvLVItSWxkQ0lDNGxzZnNfU0ZBUFRhUnZPZHJHZUR4ZGxHdW9NTm41Y0dVSGxDRXdtU2ZHNGYwZzVaS3lMOEhZbWJSUkxyXzRkeE9aSG9rcElHNHpQRmd1X1RJ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Tayvan Cumhurbaşkanı, Tayvan'ın demokratik kimliğinin korunması gerektiğini vurgulayarak 'Çin'in Tayvanı' olunmasına karşı çıktı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-19T09:01:08.640752+00:00",
-  "type": "news",
-  "cluster_id": "ccb8536d77454"
- },
- {
-  "title": "Özgür Özel tarih vermişti: 'Yeni Parti' ismiyle marka başvurusu yapıldı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-tarih-vermisti-yeni-parti-ismiyle-marka-basvurusu-yapildi-2522048",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'de Özgür Özel çevresince kurulacağı iddia edilen 'Yeni Parti' için TÜRKPATENT'e marka başvurusu yapıldı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-19T09:01:08.640752+00:00",
-  "type": "news",
-  "cluster_id": "cecc976de07e6"
  }
 ]
