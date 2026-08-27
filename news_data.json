@@ -1,5 +1,77 @@
 [
  {
+  "title": "As Jackson Hole conference kicks off, three Fed officials warn about inflation",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ2dmdW1ZbC1FdlZnZmloZUhxOFAyaGtNT3dOZzBlMVEwWEhKODBzREpxZElwaFNMM1RhNjQySHE0eS1lTENCbk1ob0ZUb2RzbzRiaDhDYXdLaE05dEt5dWpBYWs5RF93XzU5MW84OS1kX3ctdURqdTh6a2RlYXVJU0tkSGNrRU5rSldCZ092ZFhITGxPSWtaSGJFR3U5RmpGR2NiUExZcnNPVjdPX056OXF2RHRwSEp6?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Jackson Hole konferansında üç Fed yöneticisi enflasyonla ilgili uyarılarda bulundu. Fed politikası konusunda dikkat çeken sinyaller verildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-08-27T18:01:09.266059+00:00",
+  "type": "news",
+  "cluster_id": "c427420d6b726"
+ },
+ {
+  "title": "Trump, Kanada sınırındaki Ontario Gölü'nün adını \"Amerika Gölü\" olarak değiştiren kararnameyi imzaladı",
+  "link": "https://www.aa.com.tr/tr/dunya/trump-kanada-sinirindaki-ontario-golunun-adini-amerika-golu-olarak-degistiren-kararnameyi-imzaladi/4039551",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Trump, Ontario Gölü'nün adını 'Amerika Gölü' olarak değiştiren kararnameyi imzaladı. ABD-Kanada ticari geriliminin yükselmesi bağlamında gerçekleştirilen karar.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-27T18:01:09.266059+00:00",
+  "type": "news",
+  "cluster_id": "ce1e184bdb73b"
+ },
+ {
+  "title": "İran: ABD kötülük yapmaya başlarsa,  tarihe geçecek bir karşılık veririz",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-abd-kotuluk-yapmaya-baslarsa-tarihe-gececek-bir-karsilik-veririz/4039541",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri, ABD herhangi bir kötülük yapmaya başlarsa tarihe geçecek bir karşılık verilecek uyarısında bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-27T18:01:09.266059+00:00",
+  "type": "news",
+  "cluster_id": "cb9bce54806ec"
+ },
+ {
+  "title": "Ä°ran: ABD kÃ¶tÃ¼lÃ¼k yapmaya baÅŸlarsa, tarihe geÃ§ecek bir karÅŸÄ±lÄ±k veririz",
+  "link": "https://www.trthaber.com/haber/dunya/iran-abd-kotuluk-yapmaya-baslarsa-tarihe-gececek-bir-karsilik-veririz-955138.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri, ABD herhangi bir kötülük yapmaya başlarsa tarihe geçecek bir karşılık verilecek uyarısında bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-27T18:01:09.266059+00:00",
+  "type": "news",
+  "cluster_id": "cb1da2db95b97"
+ },
+ {
+  "title": "ÇAKIR füzesi karaya çıktı, menzili arttı",
+  "link": "https://www.aa.com.tr/tr/bilim-teknoloji/cakir-fuzesi-karaya-cikti-menzili-artti/4039524",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ROKETSAN'ın geliştirdiği ÇAKIR seyir füzesi menzili artırılarak karaya çıkarıldı ve atış testleri başarıyla tamamlandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-27T18:01:09.266059+00:00",
+  "type": "news",
+  "cluster_id": "c7330b8ea4025"
+ },
+ {
+  "title": "Yeni nesil seyir fÃ¼zesi Ã‡AKIR'dan hedeflere tam isabet",
+  "link": "https://www.trthaber.com/haber/gundem/yeni-nesil-seyir-fuzesi-cakirdan-hedeflere-tam-isabet-955134.html",
+  "source": "TRT Haber",
+  "summary_tr": "ROKETSAN'ın geliştirdiği ÇAKIR seyir füzesi atış testlerini başarıyla geçti ve hedeflere tam isabetler kaydetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-27T18:01:09.266059+00:00",
+  "type": "news",
+  "cluster_id": "c15147db38834"
+ },
+ {
   "title": "Rusya’dan dünyayı tedirgin eden mesaj: Avrupa ülkesini açık açık tehdit etti",
   "link": "https://www.sozcu.com.tr/rusya-dan-dunyayi-tedirgin-eden-mesaj-avrupa-ulkesini-acik-acik-tehdit-etti-p353245",
   "source": "Sözcü",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-19T15:01:01.897461+00:00",
   "type": "news",
   "cluster_id": "cd9bccd3d12fd"
- },
- {
-  "title": "Zelenski açıkladı: Rusya'da 3 petrol rafinerisine saldırdık",
-  "link": "https://www.cumhuriyet.com.tr/dunya/zelenski-acikladi-rusya-da-3-petrol-rafinerisine-saldirdik-2522140",
-  "source": "Cumhuriyet",
-  "summary_tr": "Ukrayna Devlet Başkanı Zelenski, Rusya'nın Stavropol bölgesinde 3 petrol rafinerisine saldırı düzenlediklerini bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-19T15:01:01.897461+00:00",
-  "type": "news",
-  "cluster_id": "c4b8675aa645d"
- },
- {
-  "title": "Gulf crude exports jump in July but shipments slowing on renewed hostilities, data shows",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON0s2bmk4NkZfVGZ5R2tpZzEwYXo4Ymhxb0lyYUlNQlR4X29mekhzS0RGUndSMllMbnpZTGdRYlRZV3NmT0dBNGFyOTkxSFNTZEJTcE05cWtoNzREYU16TW5IUGJ4Zm9qa0lkbUI5Rmg1X1dldEI4MnZJdjNLcTBjTlkyMnRPSzRaUGdtNG9hWFRkaExsV3B4S3ZTb3ptaGlmM2w1ZWcteU5Jc1RTSGFRVjJncHZZLXoxUFliWTFWdGhHWnlkSkRudQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Körfez bölgesi ham petrol ihracatı Temmuz'da artış gösterirken, yeniden alevlenen düşmanlıklar nedeniyle sevkiyatlar yavaşlıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-19T15:01:01.897461+00:00",
-  "type": "news",
-  "cluster_id": "cc786d358b8dc"
- },
- {
-  "title": "Evlenen de terk ediyor emekli olan da O şehir göçte rekorlar kırıyor",
-  "link": "https://www.sozcu.com.tr/evlenen-de-terk-ediyor-emekli-olan-da-o-sehir-gocte-rekorlar-kiriyor-p337844",
-  "source": "Sözcü",
-  "summary_tr": "TÜİK iç göç istatistiklerine göre Türkiye'de belirli bir şehir göç hareketliliğinde rekor kırıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-19T15:01:01.897461+00:00",
-  "type": "news",
-  "cluster_id": "c0a0ce38d0956"
- },
- {
-  "title": "Tarımı ayakta tutan dev yeraltı su rezervi göz göre göre yok oluyor",
-  "link": "https://www.sozcu.com.tr/tarimi-ayakta-tutan-dev-yeralti-su-rezervi-goz-gore-gore-yok-oluyor-p337837",
-  "source": "Sözcü",
-  "summary_tr": "ABD'nin Ogallala Akiferi su rezervi tarımsal üretimi desteklemesine rağmen hızla tükeniyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-19T15:01:01.897461+00:00",
-  "type": "news",
-  "cluster_id": "c5478d09e8bf0"
- },
- {
-  "title": "Trump says Republicans should add Iran to Russian bill",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMnFZbzUwRlM5eW5NN1JqbnNQcHdUdEsxRk11OEdEeEJ4RnltcERZSkl0dlVneU5mYlhURlN4R2F1TUliWjZ2dVZUX3dJS3JucHBEUG5hY04yUUgzWnF3SHVaNTBwb3o3cUdqNEVLWGttNjdqZ2lzSDJWQy1LeW1saG9xSjZxaXpzSFg1QzNWeG50MmtDRnpVb2NsNFlpRENJSjJ4ZTlfby0?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, Cumhuriyet Senatörlerine Rusya yaptırım yasasına İran'ı eklemelerini söyledi; ABD dış politikasında kritik karar.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-19T14:01:06.442332+00:00",
-  "type": "news",
-  "cluster_id": "cdd7535a178b3"
- },
- {
-  "title": "Hürmüz Boğazı’nda gerilim tırmanıyor: İran iki gemiyi durdurdu",
-  "link": "https://www.cumhuriyet.com.tr/dunya/hurmuz-bogazi-nda-gerilim-tirmaniyor-iran-iki-gemiyi-durdurdu-2522120",
-  "source": "Cumhuriyet",
-  "summary_tr": "İran Devrim Muhafızları Hürmüz Boğazı'nda iki gemiyi durdurdu ve kazaya karıştıklarını bildirdi; bölgedeki gerilim artıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-19T14:01:06.442332+00:00",
-  "type": "news",
-  "cluster_id": "cc6a6d1b5f340"
  }
 ]
