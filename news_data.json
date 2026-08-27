@@ -1,5 +1,41 @@
 [
  {
+  "title": "Türkiye AİHM'nin Osman Kavala kararına uymazsa ne olur?",
+  "link": "https://www.dw.com/tr/türkiye-aihm-nin-osman-kavala-kararına-uymazsa-ne-olur/a-78519201?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "AİHM, Osman Kavala'nın hakları ihlal edildiğini, en kısa sürede serbest bırakılması gerektiğini kararlaştırdı. Cumhurbaşkanı Başdanışmanı Uçum karara sert tepki gösterdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-27T06:01:05.335260+00:00",
+  "type": "news",
+  "cluster_id": "ce081fb1626c5"
+ },
+ {
+  "title": "ABD-Kanada krizi, tuvalet kağıdı fiyatlarını vurdu",
+  "link": "https://www.diken.com.tr/abd-kanada-krizi-tuvalet-kagidi-fiyatlarini-vurdu/?utm_source=rss&utm_medium=rss&utm_campaign=abd-kanada-krizi-tuvalet-kagidi-fiyatlarini-vurdu",
+  "source": "Diken",
+  "summary_tr": "ABD-Kanada ticaret savaşı nedeniyle tuvalet kağıdı fiyatları etkilendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-27T06:01:05.335260+00:00",
+  "type": "news",
+  "cluster_id": "c46e720e94a47"
+ },
+ {
+  "title": "Bitcoin hazinesi tutan şirketlerin piyasa değerinden 80 milyar dolar silindi",
+  "link": "https://www.trthaber.com/haber/dunya/bitcoin-hazinesi-tutan-sirketlerin-piyasa-degerinden-80-milyar-dolar-silindi-955060.html",
+  "source": "TRT Haber",
+  "summary_tr": "Bitcoin hazinesi tutan şirketlerin hisse fiyatları düştü; piyasa değerinden 80 milyar dolar silindi.",
+  "metric": "Bitcoin hazinesi şirketleri piyasa değeri: -80 milyar dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-27T06:01:05.335260+00:00",
+  "type": "news",
+  "cluster_id": "c6e29ea66badc"
+ },
+ {
   "title": "Zeynep Gürcanlı: Rusya'nın NATO'yu 'test etme' ihtimali",
   "link": "https://www.diken.com.tr/zeynep-gurcanli-rusyanin-natoyu-test-etme-ihtimali/?utm_source=rss&utm_medium=rss&utm_campaign=zeynep-gurcanli-rusyanin-natoyu-test-etme-ihtimali",
   "source": "Diken",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-19T04:01:02.085453+00:00",
   "type": "news",
   "cluster_id": "c1e5016645b63"
- },
- {
-  "title": "KDC'de isyancıların düzenlediği saldırılarda 114 sivil öldü",
-  "link": "https://www.trthaber.com/haber/dunya/kdcde-isyancilarin-duzenledigi-saldirilarda-114-sivil-oldu-951579.html",
-  "source": "TRT Haber",
-  "summary_tr": "Kongo doğusunda M23 isyancı grubunun Haziran saldırılarında 114 sivil öldü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-19T04:01:02.085453+00:00",
-  "type": "news",
-  "cluster_id": "cbcfcfa08f702"
- },
- {
-  "title": "Emekli aylığı 3 günde bitiyor",
-  "link": "https://www.sozcu.com.tr/emekli-ayligi-3-gunde-bitiyor-p337687",
-  "source": "Sözcü",
-  "summary_tr": "Emekliler 27.500 TL aylıkla bir ayı geçirmektedir; emekli aylığı 3 günde tükenmektedir.",
-  "metric": "",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-07-19T03:00:58.514365+00:00",
-  "type": "news",
-  "cluster_id": "cb26340f74d06"
- },
- {
-  "title": "Deprem bölgesi toparlanamadı",
-  "link": "https://www.sozcu.com.tr/deprem-bolgesi-toparlanamadi-p337688",
-  "source": "Sözcü",
-  "summary_tr": "Deprem bölgesinde sanayi ve ihracat toparlanamamış, istihdam yapısı büyük şirketler lehine değişmiştir.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-19T03:00:58.514365+00:00",
-  "type": "news",
-  "cluster_id": "c63a7ebe0e52f"
  }
 ]
