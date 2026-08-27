@@ -1,5 +1,29 @@
 [
  {
+  "title": "Motorine indirim geldi: Akaryakıtta tabelalar değişti! İşte güncel fiyatlar...",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/motorine-indirim-geldi-akaryakitta-tabelalar-degisti-iste-guncel-fiyatlar-2532749",
+  "source": "Cumhuriyet",
+  "summary_tr": "Motorinde indirim uygulandı; akaryakıt fiyatları küresel piyasa dalgalanmaları ve döviz kurundan etkileniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-27T08:01:06.662105+00:00",
+  "type": "news",
+  "cluster_id": "c42fce93b2240"
+ },
+ {
+  "title": "Soğan ve ayçiçeğinde gümrük vergisi değişti",
+  "link": "https://www.trthaber.com/haber/ekonomi/sogan-ve-ayciceginde-gumruk-vergisi-degisti-955080.html",
+  "source": "TRT Haber",
+  "summary_tr": "Kuru soğan ithalatında %5 gümrük vergisi 31 Ocak 2027'ye uzatıldı; yağlık ayçiçeğinde gümrük vergisi değiştirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-27T08:01:06.662105+00:00",
+  "type": "news",
+  "cluster_id": "c87ebf7dc962e"
+ },
+ {
   "title": "WSJ: CIA Direktörü'nün Moskova ziyaretinin amacı Rusya'yı NATO'ya saldırmaması konusunda uyarmaktı",
   "link": "https://www.aa.com.tr/tr/dunya/wsj-cia-direktorunun-moskova-ziyaretinin-amaci-rusyayi-natoya-saldirmamasi-konusunda-uyarmakti/4038689",
   "source": "Anadolu Ajansı",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-19T08:01:10.523993+00:00",
   "type": "news",
   "cluster_id": "cfa8e09e845e7"
- },
- {
-  "title": "China's Jingye Steel urges UK to compensate its investment losses",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc2RqYlFpN2JQRTF1eV9zWnJEWHQxeThpU1Uya2VLVEVqRUFDSUljajMzRTNodE1NWUhlVjdqc3hsMjNqZUVEZF9BSHFpNThWLXAtODZFeXgzdVotSFFla3B4RHo5OTlieHFldkdNaExoVE15WjAwYVZ4QkhtLTlFeXVrVGxHTUdxQjlvOE4zS2I4TC1YVUdoRkhXM1doMW9feEZuUmdMVHJheTFERVE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Çin'in Jingye Steel şirketi, İngiltere'den yatırım kayıplarının telafi edilmesini talep etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-19T08:01:10.523993+00:00",
-  "type": "news",
-  "cluster_id": "c12a75c54371e"
- },
- {
-  "title": "ABD ordusu, İran'a yönelik başlattığı son saldırı dalgasını tamamladığını duyurdu",
-  "link": "https://www.trthaber.com/haber/dunya/abd-ordusu-irana-yonelik-baslattigi-son-saldiri-dalgasini-tamamladigini-duyurdu-951592.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD ordusu, İran'a yönelik hava saldırı dalgasını tamamladığını duyurdu. Saldırılar Ürdün'deki iki ABD askerinin ölümüne karşılık vermek amacıyla yapıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-19T07:01:07.438558+00:00",
-  "type": "news",
-  "cluster_id": "cc6ccf5a68742"
  }
 ]
