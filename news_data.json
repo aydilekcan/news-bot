@@ -1,5 +1,53 @@
 [
  {
+  "title": "Paramparça olmuş Irak bile bizi solladı: Bu kimin ayıbı?",
+  "link": "https://www.sozcu.com.tr/paramparca-olmus-irak-bile-bizi-solladi-bu-kimin-ayibi-p353108",
+  "source": "Sözcü",
+  "summary_tr": "Uluslararası Çalışma Örgütü verilerine göre küresel asgari ücret sıralamasında Türkiye'nin konumu tartışılıyor; İsviçre başı çekmektedir.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-27T09:01:10.023072+00:00",
+  "type": "news",
+  "cluster_id": "cb4aa8d588b9e"
+ },
+ {
+  "title": "Hazine destekli esnaf kredisi faizine düzenleme",
+  "link": "https://www.diken.com.tr/hazine-destekli-esnaf-kredisi-faizine-duzenleme/?utm_source=rss&utm_medium=rss&utm_campaign=hazine-destekli-esnaf-kredisi-faizine-duzenleme",
+  "source": "Diken",
+  "summary_tr": "Hazine destekli esnaf kredisi faiz kriterlerine yeni düzenleme yapıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-27T09:01:10.023072+00:00",
+  "type": "news",
+  "cluster_id": "cd76b99928439"
+ },
+ {
+  "title": "SGK'ya 131 milyar lira borç taksitlendirme başvurusu yapıldı",
+  "link": "https://www.trthaber.com/haber/ekonomi/sgkya-131-milyar-lira-borc-taksitlendirme-basvurusu-yapildi-955088.html",
+  "source": "TRT Haber",
+  "summary_tr": "SGK borçları için taksitlendirme başvurusunda 131 milyar lira talebi alındı; işveren ve sigortalılara avantajlı tecil imkanı sağlandı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-27T09:01:10.023072+00:00",
+  "type": "news",
+  "cluster_id": "c66217a238e7b"
+ },
+ {
+  "title": "Esnaf kredilerinde yeni dönem: Faiz indirimleri değişti",
+  "link": "https://www.trthaber.com/haber/ekonomi/esnaf-kredilerinde-yeni-donem-faiz-indirimleri-degisti-955085.html",
+  "source": "TRT Haber",
+  "summary_tr": "Halk Bankası Hazine destekli esnaf kredilerinde faiz indirim oranlarını güncelledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-27T09:01:10.023072+00:00",
+  "type": "news",
+  "cluster_id": "c401675382ace"
+ },
+ {
   "title": "Motorine indirim geldi: Akaryakıtta tabelalar değişti! İşte güncel fiyatlar...",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/motorine-indirim-geldi-akaryakitta-tabelalar-degisti-iste-guncel-fiyatlar-2532749",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-19T08:01:10.523993+00:00",
   "type": "news",
   "cluster_id": "cd6d3ce3c6f9f"
- },
- {
-  "title": "Lebanon's Aoun to meet Trump at White House, hoping to generate pressure on Israel",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOU4yVVlYeXdhdDFTY0pNZUZjSzRvWE1mWi1NcF9MVUI5Y3N3aTRrRzU2RnpCc2tzVV9LS21EQ1RPdUFDN0VnVURKZ0V5RTFScVUtTElSUlp3VU1xZE45UWY3ZmV6cnFmeEVFSE4yMEZ5UVFmVEFwczBtRzdoS3dyUGszV2V3anJEOTBOQ3l0bS16aU0zeU8tYUdwSzRBenlEZmVVT2oxNjZCU21mbkRzN1JIakN4UnoxRlpJWjVCNA?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Lübnan Cumhurbaşkanı Aoun, Beyaz Saray'da Trump ile görüşeceği; İsrail üzerinde baskı oluşturmayı hedeflediği bildirildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-19T08:01:10.523993+00:00",
-  "type": "news",
-  "cluster_id": "c0af6e4099dfa"
- },
- {
-  "title": "Ünlü analistten dev şirketi suçladı: Tüm dünyanın ekonomisi bir anda çökebilir",
-  "link": "https://www.sozcu.com.tr/unlu-analistten-dev-rapor-tum-dunyanin-ekonomisi-boyle-cokebilir-p337738",
-  "source": "Sözcü",
-  "summary_tr": "Analist, yapay zeka sektöründeki dev yatırımların küresel ekonomide ani bir çöküşe yol açabileceği uyarısında bulundu.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-19T08:01:10.523993+00:00",
-  "type": "news",
-  "cluster_id": "ca8a90e5d816c"
- },
- {
-  "title": "Başbakan cumhurbaşkanının fişini çekti: Felaket fermanını elleriyle imzaladı",
-  "link": "https://www.sozcu.com.tr/basbakan-cumhurbaskaninin-fisini-cekti-felaket-fermanini-elleriyle-imzaladi-p337735",
-  "source": "Sözcü",
-  "summary_tr": "Macaristan'da yeni Başbakan Peter Magyar, 16 yıllık Viktor Orban iktidarını sona erdirdi; anayasa değişikliği ile Cumhurbaşkanı'nın yetkilerini sınırlandırdı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-19T08:01:10.523993+00:00",
-  "type": "news",
-  "cluster_id": "c090cda35ab49"
- },
- {
-  "title": "Su ürünleri ve hayvansal mamulleri ihracatı ilk yarıda 1,9 milyar doları aştı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/su-urunleri-ve-hayvansal-mamulleri-ihracati-ilk-yarida-1-9-milyar-dolari-asti/4002661",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye'nin su ürünleri ve hayvansal mamuller ihracatı 2026 ilk yarısında 1,904 milyar dolara ulaştı.",
-  "metric": "Su ürünleri ve hayvansal mamuller ihracatı 1,904 milyar dolar",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-19T08:01:10.523993+00:00",
-  "type": "news",
-  "cluster_id": "cfa8e09e845e7"
  }
 ]
