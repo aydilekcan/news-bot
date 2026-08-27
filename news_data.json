@@ -1,5 +1,41 @@
 [
  {
+  "title": "ECB tutanaklarında yeni faiz artışı olasılığı vurgulandı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/ecb-tutanaklarinda-yeni-faiz-artisi-olasiligi-vurgulandi/4039365",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Avrupa Merkez Bankası tutanaklarında enflasyon düşmezse yakın zamanda faiz artırımı yapılabileceği vurgulandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-27T15:01:17.640937+00:00",
+  "type": "news",
+  "cluster_id": "c96e17411850c"
+ },
+ {
+  "title": "Madencilerin alacakları hesaplara yatmaya başladı",
+  "link": "https://www.sozcu.com.tr/madencilerin-alacaklari-hesaplara-yatmaya-basladi-p353229",
+  "source": "Sözcü",
+  "summary_tr": "Yıldızlar Holding'e karşı eylemde olan madencilerin alacakları hesaplarına yatmaya başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-27T15:01:17.640937+00:00",
+  "type": "news",
+  "cluster_id": "c9318bcbd9818"
+ },
+ {
+  "title": "Madenciler zaferin eşiğinde, Gökay Çakır cezaevinden seslendi: “Hakkınızı kimseye yedirmeyin”",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzWUlZSk1jUmhSc3hKZHV2VmtRSUVaZEJweDhDOUJ2SVE3c2xibkxlckFwWkRxeVh5WXRCNnQtQU5qWklUNGwxYmswcHFJRmFUQzRIRUxDRXVDWU13cnFCN0hmZzJYd3dFSHctOFJ3?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Bağımsız Maden-İş Genel Başkanı Gökay Çakır cezaevinden madencilere 'hakkınızı kimseye yedirmeyin' mesajı verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-27T15:01:17.640937+00:00",
+  "type": "news",
+  "cluster_id": "c264a5e59aa33"
+ },
+ {
   "title": "Bakan Şimşek: KKM'den çıkış sürecini başarıyla tamamladık",
   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-kkmden-cikis-surecini-basariyla-tamamladik/4039275",
   "source": "Anadolu Ajansı",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-19T13:01:07.035618+00:00",
   "type": "news",
   "cluster_id": "caf5016b074d1"
- },
- {
-  "title": "Caspian Pipeline Consortium oil loadings suspended after drone attacks on tankers, CPC says",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQjFsc1o5b28zLW5TaGc1eWFHWmJfLUpxOGZnOGRRV1BYNm9SYWlKZU9qN3ozSG42cmRBU2p1MHJQN1JvbEpyd1JOc2pCMmNqY0pUbWJMdDhyQVRUYzFSNjBQakhXRl83VkhoX0VuSm1PeDRVRlhIRENBWG9CLW52MVBxQWhaTnllMllDUXZuQmwzTnRhYU5hMmxMSXI1bWlkeGp3dHFweFRGRi1fTjk1UXotT3k0NGdKM2VEc2FIanNuelIzaTF0QWRB?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Caspian Pipeline Consortium, drone saldırıları nedeniyle petrol yükleme operasyonlarını askıya aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-19T13:01:07.035618+00:00",
-  "type": "news",
-  "cluster_id": "cbcdbd7060feb"
- },
- {
-  "title": "Üç büyük anketin sonucu birden açıklandı: Yeni Parti ve CHP'nin oy oranları belli oldu",
-  "link": "https://www.sozcu.com.tr/uc-buyuk-anketin-sonucu-birden-aciklandi-yeni-parti-ve-chp-nin-oy-oranlari-belli-oldu-p337814",
-  "source": "Sözcü",
-  "summary_tr": "Üç anketin sonucu açıklandı; CHP Genel Başkanlığına Kılıçdaroğlu'nun getirilmesinin ardından anket oranları belli oldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-19T13:01:07.035618+00:00",
-  "type": "news",
-  "cluster_id": "c7782c182d5df"
- },
- {
-  "title": "MHP Genel Başkanı Bahçeli: Türk askerinin Ada'daki mevcudiyeti Kıbrıs Türkü'nün güvenliğinin yegane sigortasıdır",
-  "link": "https://www.aa.com.tr/tr/gundem/mhp-genel-baskani-bahceli-turk-askerinin-adadaki-mevcudiyeti-kibris-turkunun-guvenliginin-yegane-sigortasidir/4002897",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "MHP Genel Başkanı Bahçeli, Türk askerinin Kıbrıs'taki mevcudiyetinin Kıbrıs Türkü'nün güvenliğinin garantisi olduğunu belirtti.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-19T13:01:07.035618+00:00",
-  "type": "news",
-  "cluster_id": "c25b2e060c110"
  }
 ]
