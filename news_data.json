@@ -1,5 +1,41 @@
 [
  {
+  "title": "Ankara ve Berlin'den Hürmüz Boğazı girişimi",
+  "link": "https://www.dw.com/tr/ankara-ve-berlin-den-hürmüz-boğazı-girişimi/a-78538419?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Türkiye ve Almanya, Hürmüz Boğazı'nın yeniden açılması için İstanbul'da dışişleri bakanları toplantısı düzenliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-27T20:01:04.438274+00:00",
+  "type": "news",
+  "cluster_id": "c5c0291921f3b"
+ },
+ {
+  "title": "Trump to meet refiners, fuel retailers as Iran war boosts gas prices ahead of midterms, sources say",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUTVfLVZrNnM2eTJJcmZaVjN5Ym83a094ZUYxR3RqenVKVUxyWGpIaldFZTJpZUVaRFJ4TkpJUkctd0VIc1Nzb05qamt6cnZVU3lqSkw3NUdUYmE3WXpXNTUyTjNnLUFUZERfYXp6SjMzV2hrOV9nN1FDWTI4QUxSWGpIMnhwUURoeWRoOUNsYVRMOGx3d1BwdFF1LVNYejhVSjJpT201YWxKTWNBeEdJNm5nZjEyNE1zMWg4TTN4QXNORzN1akNuVEgyWQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, İran ile gerilimin petrol fiyatlarını artırması nedeniyle, ara seçimlerden önce rafineri ve yakıt perakendecileriyle görüşecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-27T20:01:04.438274+00:00",
+  "type": "news",
+  "cluster_id": "cffafbc0c2638"
+ },
+ {
+  "title": "TTB: İstanbul'da hekimlere kürtaj yapmayın baskısı",
+  "link": "https://www.diken.com.tr/ttb-istanbulda-hekimlere-kurtaj-yapmayin-baskisi/?utm_source=rss&utm_medium=rss&utm_campaign=ttb-istanbulda-hekimlere-kurtaj-yapmayin-baskisi",
+  "source": "Diken",
+  "summary_tr": "Türk Tabipleri Birliği, İstanbul'da hekimlere kürtaj yapmayı engelleme baskısı yapıldığını açıkladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-27T20:01:04.438274+00:00",
+  "type": "news",
+  "cluster_id": "c690f49f168c8"
+ },
+ {
   "title": "Halkbank ikincil halka arz için SPK'ye başvurdu",
   "link": "https://www.aa.com.tr/tr/ekonomi/halkbank-ikincil-halka-arz-icin-spkye-basvurdu/4039583",
   "source": "Anadolu Ajansı",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-19T18:01:00.236084+00:00",
   "type": "news",
   "cluster_id": "cb01b4201358f"
- },
- {
-  "title": "US strikes Iran over troop deaths as Israel warns Tehran’s attacks are coming close",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOVVPQXpIUjAzU1c2TG1GcXJUU19aU2FodDRTVWV4RVdVN2stQ1NueUtIRC03M2hXNFZLRkQzUUdqMWNQOVBMbzFmc1NGejY3bXFNSnJYMXNNRTIyMlNMYjFPbXVOcXJCSkFPVHNsMkRvblBzcjc5aXJhbHlndGlrek9RbmVBTlN4SHI3N1VHLUpGVlNmTE4tSlAwSktTd1k?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD, askerlerinin ölümü nedeniyle İran'a hava saldırısı düzenledi; İsrail, Tahran'ın saldırılarının yaklaştığını uyardı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-07-19T17:01:00.620220+00:00",
-  "type": "news",
-  "cluster_id": "cb18b703d380d"
- },
- {
-  "title": "Şeker vergisi getirme kararı aldılar: Kola, soğuk çay ve enerji içeceklerine zam kapıda",
-  "link": "https://www.sozcu.com.tr/seker-vergisi-getirme-karari-aldilar-kola-soguk-cay-ve-enerji-iceceklerine-zam-kapida-p337854",
-  "source": "Sözcü",
-  "summary_tr": "Almanya hükümetü şekerli içeceklere yeni vergi getirme kararı aldı; kola, soğuk çay ve enerji içecekleri zamlanacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-19T17:01:00.620220+00:00",
-  "type": "news",
-  "cluster_id": "cebdc529dd49c"
- },
- {
-  "title": "Yüzde 50 + Yüzde 20 indirim dönemine son: Bakanlık o etiketler için harekete geçti",
-  "link": "https://www.sozcu.com.tr/yuzde-50-yuzde-20-indirim-donemine-son-bakanlik-o-etiketler-icin-harekete-gecti-p337849",
-  "source": "Sözcü",
-  "summary_tr": "Ticaret Bakanlığı, yüzde 50 + yüzde 20 gibi yanıltıcı indirim reklamlarında artan ihlallere karşı denetimleri artırdı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-19T16:00:58.471112+00:00",
-  "type": "news",
-  "cluster_id": "c5062f0682978"
  }
 ]
