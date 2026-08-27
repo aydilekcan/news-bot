@@ -1,5 +1,17 @@
 [
  {
+  "title": "Dünya finans devi uyardı: Küresel gıda tedarik krizi kapıda",
+  "link": "https://www.sozcu.com.tr/dunya-finans-devi-uyardi-kuresel-gida-tedarik-krizi-kapida-p353288",
+  "source": "Sözcü",
+  "summary_tr": "J.P. Morgan Global Research, küresel gıda tedarik zincirinde yaklaşan krizi uyardı. Gübre tedarikindeki sorunların gıda fiyatlarını artıracağı belirtildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-27T21:01:15.108736+00:00",
+  "type": "news",
+  "cluster_id": "cec83977239c3"
+ },
+ {
   "title": "Ankara ve Berlin'den Hürmüz Boğazı girişimi",
   "link": "https://www.dw.com/tr/ankara-ve-berlin-den-hürmüz-boğazı-girişimi/a-78538419?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-19T18:01:00.236084+00:00",
   "type": "news",
   "cluster_id": "c43897609acc2"
- },
- {
-  "title": "Mevduat faizleri güncellendi: 2 milyon TL'nin 32 günlük getirisi belli oldu",
-  "link": "https://www.sozcu.com.tr/mevduat-faizleri-guncellendi-2-milyon-tl-nin-32-gunluk-getirisi-belli-oldu-p337864",
-  "source": "Sözcü",
-  "summary_tr": "Merkez Bankası faiz kararı sonrası mevduat faizleri güncellendi; emekli zammı ve piyasa hareketliliği devam ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-19T18:01:00.236084+00:00",
-  "type": "news",
-  "cluster_id": "cb01b4201358f"
  }
 ]
