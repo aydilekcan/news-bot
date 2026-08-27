@@ -1,5 +1,65 @@
 [
  {
+  "title": "İran'dan ABD'ye deniz ablukasına karşı sert tehdit",
+  "link": "https://www.sozcu.com.tr/irandan-abdye-deniz-ablukasina-karsi-sert-tehdit-p353300",
+  "source": "Sözcü",
+  "summary_tr": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri, deniz ablukasının sürmesi halinde ABD'nin ekonomik çıkarlarını hedef alacaklarını söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-27T22:01:47.230348+00:00",
+  "type": "news",
+  "cluster_id": "c7357435742f9"
+ },
+ {
+  "title": "İsrail basınına göre, Netanyahu'nun açıklamasına rağmen ordu Gazze'deki Erez sınırını açmaya hazırlanıyor",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-basinina-gore-netanyahunun-aciklamasina-ragmen-ordu-gazzedeki-erez-sinirini-acmaya-hazirlaniyor/4039681",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusu, Netanyahu'nun yalanlamasına rağmen Gazze'deki Erez Sınır Kapısı'nı eylül başında açmaya hazırlanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-27T22:01:47.230348+00:00",
+  "type": "news",
+  "cluster_id": "cb9e7bb65ccce"
+ },
+ {
+  "title": "Ä°ran: Deniz ablukasÄ± devam ederse, ABDnin ekonomik Ã§Ä±karlarÄ±nÄ± gÃ¼Ã§lÃ¼ bir ÅŸekilde hedef alacaÄŸÄ±z",
+  "link": "https://www.trthaber.com/haber/dunya/iran-deniz-ablukasi-devam-ederse-abdnin-ekonomik-cikarlarini-guclu-bir-sekilde-hedef-alacagiz-955148.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran, deniz ablukasının devam etmesi halinde ABD'nin ekonomik çıkarlarını güçlü bir şekilde hedef alacağını bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-27T22:01:47.230348+00:00",
+  "type": "news",
+  "cluster_id": "c2fa77c70ba8c"
+ },
+ {
+  "title": "Suriye’nin diplomatik pasaport sahiplerine Türkiye’de vize muafiyeti",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/suriye-nin-diplomatik-pasaport-sahiplerine-turkiye-de-vize-muafiyeti-2532985",
+  "source": "Cumhuriyet",
+  "summary_tr": "Türkiye, Suriye'nin diplomatik pasaport sahiplerine vize muafiyeti uygulamasını başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-27T22:01:47.230348+00:00",
+  "type": "news",
+  "cluster_id": "ca6cb829ef40e"
+ },
+ {
+  "title": "Türkiye'den Suriye'ye vize muafiyeti",
+  "link": "https://www.sozcu.com.tr/turkiyeden-suriyeye-vize-muafiyeti-p353305",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye, diplomatik pasaport sahibi Suriye vatandaşlarına vize muafiyeti uygulamasını başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-27T22:01:47.230348+00:00",
+  "type": "news",
+  "cluster_id": "ca6cb829ef40e"
+ },
+ {
   "title": "Dünya finans devi uyardı: Küresel gıda tedarik krizi kapıda",
   "link": "https://www.sozcu.com.tr/dunya-finans-devi-uyardi-kuresel-gida-tedarik-krizi-kapida-p353288",
   "source": "Sözcü",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-19T20:01:03.601402+00:00",
   "type": "news",
   "cluster_id": "c84a91b50fe44"
- },
- {
-  "title": "Adalet Bakanı Gürlek'ten yasa dışı bahis operasyonu açıklaması",
-  "link": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlekten-yasa-disi-bahis-operasyonu-aciklamasi/4003102",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Adalet Bakanı Gürlek, Dünya Kupası final maçı öncesinde yasa dışı bahis trafiğinde kullanılan 6 bin 314 banka hesabının tespit edildiğini açıkladı.",
-  "metric": "Bloke edilen banka hesabı: 6.314",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-19T20:01:03.601402+00:00",
-  "type": "news",
-  "cluster_id": "cb319a059ef4e"
- },
- {
-  "title": "Dünya Kupası final maçı öncesi yasa dışı bahis operasyonu",
-  "link": "https://www.trthaber.com/haber/gundem/dunya-kupasi-final-maci-oncesi-yasa-disi-bahis-operasyonu-951635.html",
-  "source": "TRT Haber",
-  "summary_tr": "Adalet Bakanı Gürlek, yasadışı bahis operasyonunda 19 dış finans evinin deşifre edildiğini, 23 şüpheliye yakalama kararı çıkarıldığını açıkladı.",
-  "metric": "Bloke edilen banka hesabı: 6.314",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-19T20:01:03.601402+00:00",
-  "type": "news",
-  "cluster_id": "c510706ffe2a0"
- },
- {
-  "title": "İran Ordusu: ABD’ye ait bir seyir füzesi ve İHA düşürüldü",
-  "link": "https://www.cumhuriyet.com.tr/dunya/iran-ordusu-abd-ye-ait-bir-seyir-fuzesi-ve-iha-dusuruldu-2522165",
-  "source": "Cumhuriyet",
-  "summary_tr": "İran, ülkenin batısında ABD'ye ait bir seyir füzesi ve İHA'nın düşürüldüğünü açıkladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-07-19T19:01:06.814874+00:00",
-  "type": "news",
-  "cluster_id": "cfdc0e9540494"
- },
- {
-  "title": "Dolar için yeni zirve tahmini! Beklentileri 60'ın üzerine çıktı",
-  "link": "https://www.sozcu.com.tr/dolar-icin-yeni-zirve-tahmini-beklentileri-60-in-uzerine-cikti-p337876",
-  "source": "Sözcü",
-  "summary_tr": "Dolar/TL kuru için yatırım bankalarının beklentileri 60'ın üzerine çıktı; yeni zirve tahmini yapılıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-19T19:01:06.814874+00:00",
-  "type": "news",
-  "cluster_id": "cf5b2235a42cf"
- },
- {
-  "title": "İsrail Savunma Bakanından, İran'ın İsrail'i hedef alması halinde \"tüm güçleriyle\" saldırı düzenleyecekleri tehdidi",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-savunma-bakanindan-iranin-israili-hedef-almasi-halinde-tum-gucleriyle-saldiri-duzenleyecekleri-tehdidi/4003059",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail Savunma Bakanı Katz, İran'ın İsrail'i hedef alması durumunda 'tüm güçleriyle' saldırı yapacaklarını tehdid etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-19T18:01:00.236084+00:00",
-  "type": "news",
-  "cluster_id": "c43897609acc2"
  }
 ]
