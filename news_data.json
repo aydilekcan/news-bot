@@ -1,5 +1,41 @@
 [
  {
+  "title": "AİHM kararının ardından Osman Kavala'dan ilk açıklama: Suç işlediğime dair delil olmadığı gerçeği ortaya konuldu",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX2FOeTJROFN4RTJ2MDRQYV9yRTJSTFlxNFJkVVBpT3N3eWlXSzJtZW13Q2FlSDQtUmhDejg0Q1MxS0tWNHFxRTFYMkJyWTF6QWF0c0owVVkzb3dPbXZWNFFxTXBVcmU0Zko5Vnl1VjlST0psRlFKV0Z5NjR4XzJBNlZManJiYkVWZmU4RkI0QQ?oc=5",
+  "source": "T24",
+  "summary_tr": "AİHM kararı sonrası Osman Kavala, kendisine yönelik suç işleme dair delil olmadığını açıkladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-28T06:01:05.107908+00:00",
+  "type": "news",
+  "cluster_id": "cebc0974a256b"
+ },
+ {
+  "title": "Euro'ya geçen komşu ülkenin asgari ücret zammı ülkeyi karıştırdı",
+  "link": "https://www.sozcu.com.tr/euro-ya-gecen-komsu-ulkenin-asgari-ucret-zammi-ulkeyi-karistirdi-p353350",
+  "source": "Sözcü",
+  "summary_tr": "Bulgaristan'da Euro'ya geçişle birlikte asgari ücret zamlı uygulandı ve vatandaşların satın alma gücü konusu tartışmaya açıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-28T06:01:05.107908+00:00",
+  "type": "news",
+  "cluster_id": "cf7839f743a33"
+ },
+ {
+  "title": "Benzin fiyatları 4 doları geçince Trump rafineri devleriyle masaya oturuyor",
+  "link": "https://www.sozcu.com.tr/benzin-fiyatlari-4-dolari-gecince-trump-rafineri-devleriyle-masaya-oturuyor-p353345",
+  "source": "Sözcü",
+  "summary_tr": "ABD'de benzin fiyatları galon başına 4 doları aşması ve İran çatışmasının etkisiyle Trump rafineri şirketleriyle görüşmeye başladı.",
+  "metric": "Benzin fiyatı $4+/galon",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-28T06:01:05.107908+00:00",
+  "type": "news",
+  "cluster_id": "ce0440060a5b9"
+ },
+ {
   "title": "ABD donanmasÄ±nda bÃ¼tÃ§e krizi: MaaÅŸ hesaplarÄ±ndan fon aktarÄ±ldÄ±",
   "link": "https://www.trthaber.com/haber/dunya/abd-donanmasinda-butce-krizi-maas-hesaplarindan-fon-aktarildi-955172.html",
   "source": "TRT Haber",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-20T02:01:01.494246+00:00",
   "type": "news",
   "cluster_id": "c31c0f53e298e"
- },
- {
-  "title": "US launches more airstrikes against Iran after announcing another death of a service member",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOVVPQXpIUjAzU1c2TG1GcXJUU19aU2FodDRTVWV4RVdVN2stQ1NueUtIRC03M2hXNFZLRkQzUUdqMWNQOVBMbzFmc1NGejY3bXFNSnJYMXNNRTIyMlNMYjFPbXVOcXJCSkFPVHNsMkRvblBzcjc5aXJhbHlndGlrek9RbmVBTlN4SHI3N1VHLUpGVlNmTE4tSlAwSktTd1k?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD, İran'a karşı ek hava saldırıları başlattı; bir Amerikan askerinin ölümü sonrası yeni operasyonlar duyuruldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-20T02:01:01.494246+00:00",
-  "type": "news",
-  "cluster_id": "c1291cabc8cc9"
- },
- {
-  "title": "Brent oil tops $90 as US, Iran intensify attacks in Middle East",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbDB0dzIyZzhDNXdvemNBWHdxR3dnWXcwVk4xM082SDRRTm9xel9yX3hJeFBDN1hyQXZpRlVWcElHNi13amFSaXFZLUEtYWpva20xcmFjLWt2TEc0QjFlMDJRMHFPZ3dpb0hZNlBib1ZMNk4xNXdPcmNfUHRpRzNzVDRtdmZlY2MydWVLdS1uVnZXSkdHZjlYelZOZ1M0SXlnVzlBSGFUUU43YlE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Brent petrolü, ABD-İran çatışmasının yoğunlaşması nedeniyle 90 doların üzerine çıktı.",
-  "metric": "Brent petrolü $90 üzerine",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-20T02:01:01.494246+00:00",
-  "type": "news",
-  "cluster_id": "cfc906f5e76a1"
- },
- {
-  "title": "US announces another troop death as Israel warns Tehran’s attacks are coming close",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOVVPQXpIUjAzU1c2TG1GcXJUU19aU2FodDRTVWV4RVdVN2stQ1NueUtIRC03M2hXNFZLRkQzUUdqMWNQOVBMbzFmc1NGejY3bXFNSnJYMXNNRTIyMlNMYjFPbXVOcXJCSkFPVHNsMkRvblBzcjc5aXJhbHlndGlrek9RbmVBTlN4SHI3N1VHLUpGVlNmTE4tSlAwSktTd1k?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD bir asker ölüsünü daha açıklarken, İsrail İran'ın saldırılarının yaklaşmakta olduğu konusunda uyarı verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-19T23:01:02.591332+00:00",
-  "type": "news",
-  "cluster_id": "cbf651f74cdec"
  }
 ]
