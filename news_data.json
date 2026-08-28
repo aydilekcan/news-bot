@@ -1,5 +1,29 @@
 [
  {
+  "title": "Alihan Kuriş operasyonunda karar: 35 tutuklama...",
+  "link": "https://www.cumhuriyet.com.tr/spor/alihan-kuris-operasyonunda-karar-35-tutuklama-2533273",
+  "source": "Cumhuriyet",
+  "summary_tr": "Alihan Kuriş operasyonunda gözaltına alınan 35 şüpheli tutuklandı, 2 şüpheli adli kontrolle serbest bırakıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-28T22:01:05.394176+00:00",
+  "type": "news",
+  "cluster_id": "cb25fe46a2512"
+ },
+ {
+  "title": "Son dakika... Alihan Kuriş operasyonunda karar",
+  "link": "https://www.sozcu.com.tr/son-dakika-alihan-kuris-operasyonunda-karar-p353598",
+  "source": "Sözcü",
+  "summary_tr": "Alihan Kuriş operasyonunda gözaltına alınan 35 şüpheli tutuklandı, 2 şüpheli adli kontrolle serbest bırakıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-28T22:01:05.394176+00:00",
+  "type": "news",
+  "cluster_id": "cb25fe46a2512"
+ },
+ {
   "title": "İran Cumhurbaşkanı, ABD'nin İslamabad Mutabakatı'nı uygulaması halinde Hürmüz Boğazı'nın açılacağını belirtti",
   "link": "https://www.aa.com.tr/tr/dunya/iran-cumhurbaskani-abdnin-islamabad-mutabakatini-uygulamasi-halinde-hurmuz-bogazinin-acilacagini-belirtti/4040637",
   "source": "Anadolu Ajansı",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-21T02:01:01.963506+00:00",
   "type": "news",
   "cluster_id": "c4c7deddceb76"
- },
- {
-  "title": "Trump imposes 50% tariffs on Canadian goods, citing disputes over autos, alcohol and cheese",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTVJzOTFERXBSclRBTElQM0l6VzlJV092REdRYkdyeFJRZVgwVzBhSEQ3NFItdWh6SGxCZnp1TFFqQzFyZnFzd21jSlpReEZDZ2lOVm51cV9GalNodHFyb0FsUC1kVy0tMFZUQ19hU2x6RDhYTHBWVDZlOXRUOWhXV2NQek1ONzVYblNGM3lIUDdVUnBnaEEzNmxMalV5NVdGX2c4UkJ3?oc=5",
-  "source": "AP",
-  "summary_tr": "Trump, Kanada'ya otomobil, alkol ve peynir ticareti anlaşmazlıkları nedeniyle %50 tarife uyguladı.",
-  "metric": "Kanada malları tarifi: %50",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-21T01:01:02.869461+00:00",
-  "type": "news",
-  "cluster_id": "c564ed9af0443"
- },
- {
-  "title": "Türk gemisine ‘Rus’ saldırısında 10 kişi öldü: Dışişleri ve Rusya sessiz",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/turk-gemisine-rus-saldirisinda-10-kisi-oldu-disisleri-ve-rusya-sessiz-2522414",
-  "source": "Cumhuriyet",
-  "summary_tr": "Ukrayna, Rusya'nın Odessa limanından ayrılan tahıl gemisini hedef aldığını iddia etti; gemide 10 kişi öldü.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-21T01:01:02.869461+00:00",
-  "type": "news",
-  "cluster_id": "cb14a6cf64984"
  }
 ]
