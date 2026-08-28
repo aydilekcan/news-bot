@@ -1,5 +1,65 @@
 [
  {
+  "title": "YÖK’den vakıf üniversitelerine öğrenim ücreti sınırlaması",
+  "link": "https://www.sozcu.com.tr/yokden-vakif-universitelerine-ogrenim-ucreti-sinirlamasi-p353541",
+  "source": "Sözcü",
+  "summary_tr": "YÖK, vakıf üniversitelerindeki öğrenim ücretlerindeki artışları denetlemek için kontrolü sıkılaştırdı; ara sınıflarda %25 sınırlaması getirildi.",
+  "metric": "Öğrenim ücret artışı: maksimum %25",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-28T15:01:11.793155+00:00",
+  "type": "news",
+  "cluster_id": "ca22817caca37"
+ },
+ {
+  "title": "TMO yeşil mercimek alımına dair esasları açıkladı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/tmo-yesil-mercimek-alimina-dair-esaslari-acikladi/4040372",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "TMO, yeşil mercimek alımını ton başına 32 bin liradan yapacağını bildirdi.",
+  "metric": "Yeşil mercimek alım fiyatı: 32.000 TL/ton",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-28T15:01:11.793155+00:00",
+  "type": "news",
+  "cluster_id": "ca4a94ce0d527"
+ },
+ {
+  "title": "YÖK'ten vakıf üniversitelerindeki öğrenim ücretlerine sıkı denetim",
+  "link": "https://www.aa.com.tr/tr/gundem/yokten-vakif-universitelerindeki-ogrenim-ucretlerine-siki-denetim/4040360",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "YÖK, vakıf üniversitelerinin öğrenim ücretlerine ilişkin şikayetler üzerine denetimleri sıkılaştırdığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-28T15:01:11.793155+00:00",
+  "type": "news",
+  "cluster_id": "c23c96a8b8045"
+ },
+ {
+  "title": "Wall St muted after Fed Chair Warsh's speech; AI rally cools",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzh4MV92bkEtZUxKUlZLdW5KN2RKeGVEa2xtekxiVnhNbF9RMWxGVGRCZkZJOWEwQkhaVEhBV2hpb3A2S000Vjd0VklkeTdqRFJGeXpYTFdwb19mclEtbEtneVB0M3VlWE84Q0tGeVdhcUM4QU90a2Rmb1pfR3ljSFNWaDVWbGhFT3lLMzQtQnl2VmR5S2lsVUF1RWQyN2diQWdwaHlqUGRwV3lyUkZJ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Fed Başkanı Warsh'ın konuşması sonrasında Wall Street sakin kaldı; yapay zeka rally'si soğudu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-28T15:01:11.793155+00:00",
+  "type": "news",
+  "cluster_id": "c3c74d7b1740e"
+ },
+ {
+  "title": "Iran war drives US transport fuel surcharges, but also industry profits",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNEl5QXd2UEpMZlNEOGszSng5WEotaDlSVG1qMXIxXzFNdDZiMFMxTnUxM0tIX2hYeXVkWVhYUUJMZF9PY3lSNXFVOC03TnF6dmstYzFVdFlwdWZZdVFqQ0tqS2VtSm5UU2p5bnhtQ2xPdnFhcWVmbTFpLU0zR0g5c0l4LTVMWHZFaXI2ME85a255SjdQMjRXSzloU2w1UFd5YWFPam5OOVRFanNqSEhvWVQ0cmFlUDFhWFE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran-savaş, ABD ulaştırma yakıtlarında taşıma ücretlerini artırıyor; endüstri karları da yükseliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-28T15:01:11.793155+00:00",
+  "type": "news",
+  "cluster_id": "c815990090c5a"
+ },
+ {
   "title": "Japan spent record $96.5 billion to support yen over past month, ministry data shows",
   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNb2g5MFFMM3ByaEYxQkEyZ1JCUTBkdTdkLXlxT2FrOVgyYUMzZlZYcmc0dXlJc0VJUWYzejZ2Ql93REdibHdmNGxDZUREUUxUbW5uUktJN1JBUXg0d1pRUGRCdldpUmNOVGpLUGlQTDZpbkNKNnF2enhYSC1mN2xBbEh0YWRrckFaSlptQmVsNDkzcmZtQjEwUEhsNmJrN2xySVNxbnpDeVZoRDdsX3U5NFUtSVUwTU9FTHZSSkM2b3hHRDJ6X0FkZVRTbHNHZw?oc=5",
   "source": "Reuters",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-20T19:01:05.665602+00:00",
   "type": "news",
   "cluster_id": "c3dd897e644e2"
- },
- {
-  "title": "Paramount Skydance ordered to pause Warner Bros acquisition through August 3",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa1FaMy1UbHJsTGt0b2hvMjdMSTJseExFVXljU0Q2QXphMzVRZ0h2SFAzRHdXdjBNNGF2enFHZUc5eGRHUzhDS3hKTlc4WWtqYzA2b1U3eGV2RlNpYXZsME1xUEViRnZISklTS3NRXzVRQlJEMWE5aHlGTnFCMFhXeXJ2UlgwWURISGRkdFE5bzgtMDRfUnlnUXRicDhTYUVjSGhwTEpLNWluZw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Paramount Skydance, Warner Bros. satın alma işlemini Ağustos 3'e kadar durdurmasına mahkeme tarafından karar verildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-20T19:01:05.665602+00:00",
-  "type": "news",
-  "cluster_id": "ccb5ec907ada7"
- },
- {
-  "title": "Serbest bölge ihracatı (6 aylık): 6,6 milyar $ (6 ay (tarihi dönem))",
-  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ3FOU0l3RkhfdHVoZGZiRU1JT1J2bGlzTkc2S2EwRUhiVFNORW1feklWcmpxVVk2RjJZeTFtNXF1R1B2Y1BUNkpibHAyZXpEMXlzWGZmS19qNC1sSC1BY1NfN2lHM0RsSVMzdkNsSjdEUDJCSU0wOGZwVG5PMWFOR2gxRGFUNUFmclU0eEoySnByMkl3WkJsVlgxTFYySE9zYUxJSFMwTTR0UFg4bWE3cHFVX3FCcndjOVE5bXRseG83MkVqQS1OY2FkcWVmQkHSAdIBQVVfeXFMTTBraXc1aUJRNWJVV0FLYks4UkwxSXlQVkcxUkVkeDBOZE56LThoLXdlLThodEFOcS12Vm02U2FGTXF1QTdGY1lEU3F5RHlvS2dqWUY4Y3BQRVZBNnBNdWptRmwxWGJZNnc3UzlsSUcxUGxYckJwVnhOX3BOeHFrVzY3VkkySU5WLUJfOC16WjdDaU1LN0Zfc3psQmZ6SXBlZ1lQQ3huTC1NVGRrUVBEejIwQjN3SGNwa2RqZ0ZsUTN3aUllSFhKcWNUVzhGWURmX0N3?oc=5",
-  "source": "Ticaret Bakanlığı",
-  "summary_tr": "6,6 milyar $",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-07-20T19:01:05.665602+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "Trump 'talimatını' duyurdu: 'İran, her Amerikan askerini öldürdüğünde...'",
-  "link": "https://www.cumhuriyet.com.tr/dunya/trump-talimatini-duyurdu-iran-her-amerikan-askerini-oldurdugunde-2522440",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Başkanı Trump, İran'ın saldırılarına karşı misilleme tehdidi yineleyerek, İran'ın her Amerikan askerini öldürdüğünde bunun bedelini misliyle ödeyeceğini söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-20T18:01:11.367248+00:00",
-  "type": "news",
-  "cluster_id": "ccb226a5f145d"
- },
- {
-  "title": "Trump, İran'ı tehdit etti; Netanyahu'ya güvence verdi",
-  "link": "https://www.sozcu.com.tr/donald-trump-iran-aciklamasi-20-temmuz-2026-p338203",
-  "source": "Sözcü",
-  "summary_tr": "ABD Başkanı Trump, İran'ı tehdit ederek her Amerikan askerinin öldürülmesi durumunda misil tehdidinde bulundu; Netanyahu'ya güvence verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-20T18:01:11.367248+00:00",
-  "type": "news",
-  "cluster_id": "c7a5c5928ff76"
- },
- {
-  "title": "Emekli maaş farkları ne zaman yatacak? İşte gün gün ödeme takvimi",
-  "link": "https://www.sozcu.com.tr/emekli-maas-farklari-ne-zaman-yatacak-iste-gun-gun-odeme-takvimi-p338206",
-  "source": "Sözcü",
-  "summary_tr": "Emekli maaşlarında Temmuz 2026 zammının ardından fark ödemeleri başlayacak; SSK, Bağ-Kur ve Emekli Sandığı ödeme takvimi açıklandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-20T18:01:11.367248+00:00",
-  "type": "news",
-  "cluster_id": "cbf9474e40e5b"
  }
 ]
