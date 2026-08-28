@@ -1,5 +1,53 @@
 [
  {
+  "title": "Nazilli'de incir üreticisi tepkili: 'Maliyet arttı, ürün para etmiyor'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/nazilli-de-incir-ureticisi-tepkili-maliyet-artti-urun-para-etmiyor-2533060",
+  "source": "Cumhuriyet",
+  "summary_tr": "İncir üreticileri artan maliyetler ve yerinde kalan satış fiyatlarından şikayetçi; ekonomik sıkıntı yaşıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-28T09:01:14.435819+00:00",
+  "type": "news",
+  "cluster_id": "c1c9f61ee6b5f"
+ },
+ {
+  "title": "Almanya'da iş gücü piyasası alarm veriyor: 3 milyon barajı aşıldı!",
+  "link": "https://www.sozcu.com.tr/almanya-da-is-gucu-piyasasi-alarm-veriyor-3-milyon-baraji-asildi-p353436",
+  "source": "Sözcü",
+  "summary_tr": "Almanya'da işsizlik 3 milyon baraja ulaştı; iş gücü piyasası durgunluk yaşıyor.",
+  "metric": "İşsizlik 3 milyon",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-28T09:01:14.435819+00:00",
+  "type": "news",
+  "cluster_id": "c12ae3c5716c6"
+ },
+ {
+  "title": "En yüksek mevduat faizi hangi bankada? 250 bin TL'nin aylık getirisi şaşırttı!",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/en-yuksek-mevduat-faizi-hangi-bankada-250-bin-tl-nin-aylik-getirisi-sasirtti-2533049",
+  "source": "Cumhuriyet",
+  "summary_tr": "Mevduat faiz oranları farklı bankalarda değişiyor; yurttaşlar enflasyona karşı vadeli hesaplara yöneliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-28T09:01:14.435819+00:00",
+  "type": "news",
+  "cluster_id": "cc42cec80d95c"
+ },
+ {
+  "title": "İmalat sanayisinde yüksek teknolojili girişimlerin üretim değeri 5 yılda yaklaşık 7'ye katlandı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/imalat-sanayisinde-yuksek-teknolojili-girisimlerin-uretim-degeri-5-yilda-yaklasik-7ye-katlandi/4039910",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye'de yüksek teknoloji imalat sektörü üretim değeri 5 yılda yaklaşık 7 kat artarak 1 trilyon liraya ulaştı.",
+  "metric": "Üretim değeri 5 yılda ~7 kat artış (1 trilyon lira)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-28T09:01:14.435819+00:00",
+  "type": "news",
+  "cluster_id": "c8ce707f79edc"
+ },
+ {
   "title": "Türkiye en çok hangi ülkeyle ticaret yaptı? Temmuz ayı verileri açıklandı...",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/turkiye-en-cok-hangi-ulkeyle-ticaret-yapti-temmuz-ayi-verileri-aciklandi-2533035",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-20T13:01:04.681554+00:00",
   "type": "news",
   "cluster_id": "c43b789cfe4b3"
- },
- {
-  "title": "İran Meclis Başkanı: ABDliler bölgeye yeni askeri teçhizatlar getirmeye devam ediyor",
-  "link": "https://www.trthaber.com/haber/dunya/iran-meclis-baskani-abdliler-bolgeye-yeni-askeri-techizatlar-getirmeye-devam-ediyor-951698.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Meclis Başkanı Kalibaf, ABD'nin bölgeye yeni askeri teçhizatlar sevk etmeye devam ettiğini ve bunun savaş sonlandırma çabalarını baltaladığını söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-20T13:01:04.681554+00:00",
-  "type": "news",
-  "cluster_id": "cee69f57f390a"
- },
- {
-  "title": "Yemen's Houthis say they will impose naval blockade against Saudi Arabia",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUowRTU0M2hEUzRtdXAxY1FENjh0OWdXcEJlb2h4VlpBOVdGM2YzZ1BQSVhLMFQwOXhRN01aQ1poMVd5TTNRUHBZbV9jNWZRaGFaejU2ckpkNW5HUlZSdlJXWU5GNTlFU0NFUU9DYkJ1LXVFNHZBanlSemdrb3M1Vm80azBhNlRmTGRWbjQ2dEtkQVNfbTVNMUVReDIwYXB6aDNjN0pReHQ5S1BBUFl1NUc4Z1VyVHB4MWNnQ09JZw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Yemen'deki Husiler, Suudi Arabistan'a karşı deniz ablukası uygulamaya başladıklarını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-20T13:01:04.681554+00:00",
-  "type": "news",
-  "cluster_id": "ca138921d98aa"
- },
- {
-  "title": "Mediators propose 10-day ceasefire to revive Iran-U.S. interim deal, senior Iranian official tells Reuters",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSE4zQ25lM2VIMGM1RkYteUt5YW1tMXNWanVyRV9jX1NzUHlFU213Ry1BaTVzZ0xoc2ZzZ01IVmR2eW1BWTNMT04tci1Ual9WeDN6b1VJbjNKeFBHUlFVZi1zOEZNZ3NfckhfMkRSSjJuSU5KOGxpUG54WFdPT19YNUxCTzlrSVlXWmZZTmNZTHBpSEtVd0Zya2VqOUZpbjFMUlFiU1FJdl9MN0V0VWd0d1JnYkhhUnRoLWdFZ0ZpNDhmSW5yeVVlXy04NA?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Aracılar, İran-ABD arasındaki geçici anlaşmayı yeniden canlandırmak için 10 günlük bir ateşkes önergesini masaya koydular.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-20T13:01:04.681554+00:00",
-  "type": "news",
-  "cluster_id": "c7fb1680b521a"
- },
- {
-  "title": "Hamas names Khalil Al-Hayya as new leader, statement says",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOHJqTDlBbG5vM09JMm5YLUVPLW5CbHFpbDhWREhJQk41NW1iMWhxMURadktJVklMWEMxVld1WmhzUDlNQkoxQmVQTHdibnhkbTVzODNhb3BCNkV3Y3NCSTZtZ0pOOV9nV2J1Nnl4ajFqOHhiZ2pJY3JqbUdhU0dJdWRZWklaRkV5U3FKa1EySU5jbUxDa0gyM0VsNkZ5Sk5QZ2dHR0VGRjhNc0E?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Hamas, Khalil Al-Hayya'yı yeni lideri olarak atadığını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-20T13:01:04.681554+00:00",
-  "type": "news",
-  "cluster_id": "c8e585f00def3"
  }
 ]
