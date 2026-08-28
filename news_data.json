@@ -1,5 +1,53 @@
 [
  {
+  "title": "FED Başkanı konuştu, altın sert düştü",
+  "link": "https://www.sozcu.com.tr/fed-baskani-konustu-altin-sert-dustu-p353574",
+  "source": "Sözcü",
+  "summary_tr": "Fed Başkanı Kevin Warsh, enflasyonun hâlâ yüksek seviyelerde seyrettiğini açıkladı; altın fiyatları sert düştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-28T19:01:04.770796+00:00",
+  "type": "news",
+  "cluster_id": "c54e600485f46"
+ },
+ {
+  "title": "Hamaney, yasak kararını duyurdu",
+  "link": "https://www.sozcu.com.tr/hamaney-yasak-kararini-duyurdu-p353569",
+  "source": "Sözcü",
+  "summary_tr": "İran lideri Hamaney, ülkenin toplumsal uyumuna zarar verecek her türlü eylemin kesinlikle yasak olduğunu ilan etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-28T19:01:04.770796+00:00",
+  "type": "news",
+  "cluster_id": "c0fc718f388f5"
+ },
+ {
+  "title": "İran lideri Hamaney: Toplumsal uyuma zarar veren her türlü eylemin yasak olduğunu ilan ediyorum",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-lideri-hamaney-toplumsal-uyuma-zarar-veren-her-turlu-eylemin-yasak-oldugunu-ilan-ediyorum/4040570",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran lideri Hamaney, ülkenin toplumsal uyumuna zarar verecek her türlü eylemin yasak olduğunu belirtti ve ABD'nin ekonomik baskılarına atıfta bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-28T19:01:04.770796+00:00",
+  "type": "news",
+  "cluster_id": "c10afbc761092"
+ },
+ {
+  "title": "US employment growth only modestly lower than thought in BLS revision",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMXlpYmpFaW9aU2EycHliTjVzcl82OXNJMVVpNWhZS0t0VktaR1Vzbl9HY1h5UHlXLWNFOUtFR19XRElKc1FqTUNBRWNIcjlmLWhSbkhBWE1lR2VQUEtVdVJQSWZCQjMycDA2Qlc3V1cxT1hjYkJySFpFZTJOdEF3U3plc0ozcXdtamJtbm9MTl9xYmUtdmtaY1d4Mk0tQXBORU90WDEta3NpcXpnYXdyU2NaaFhEaDVi?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD istihdam verilerinde BLS revizyonuna göre büyüme beklentiden sadece mütevazı düzeyde daha düşük çıktı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-28T19:01:04.770796+00:00",
+  "type": "news",
+  "cluster_id": "ce9e916eac8d9"
+ },
+ {
   "title": "Almanya'dan Trump'a: İran savaşını sona erdir",
   "link": "https://www.dw.com/tr/almanya-dan-trump-a-iran-savaşını-sona-erdir/a-78551339?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-20T23:01:02.393799+00:00",
   "type": "news",
   "cluster_id": "cd827efb279ea"
- },
- {
-  "title": "ABD, İran'a yeni saldırılar başlattı: Trump'tan misilleme uyarısı",
-  "link": "https://www.bbc.com/turkce/articles/c935gy0rd2vo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD, İran'a yönelik yeni hava saldırıları başlattı; Trump misilleme uyarısında bulundu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-07-20T22:01:04.312760+00:00",
-  "type": "news",
-  "cluster_id": "cec01e7cb16b4"
- },
- {
-  "title": "ABD, İran'a karşı \"yeni bir saldırı dalgası\" başlattığını açıkladı",
-  "link": "https://www.sozcu.com.tr/abd-iran-a-karsi-yeni-bir-saldiri-dalgasi-baslattigini-acikladi-p338238",
-  "source": "Sözcü",
-  "summary_tr": "ABD CENTCOM, Trump'ın talimatıyla İran'a yönelik yeni bir saldırı dalgası başlattığını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-07-20T22:01:04.312760+00:00",
-  "type": "news",
-  "cluster_id": "cacb77f8acea0"
- },
- {
-  "title": "ABD basını yazdı: 'İran'ın bu ay düzenlediği saldırılarda yaklaşık 100 ABD askeri yaralandı'",
-  "link": "https://www.cumhuriyet.com.tr/dunya/abd-basini-yazdi-iran-in-bu-ay-duzenledigi-saldirilarda-yaklasik-100-abd-askeri-yaralandi-2522486",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD basınına göre, İran'ın bu ay gerçekleştirdiği saldırılarda yaklaşık 100 ABD askeri yaralandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-20T22:01:04.312760+00:00",
-  "type": "news",
-  "cluster_id": "c60d5866a8004"
- },
- {
-  "title": "İran'ın bu ay düzenlediği saldırılarda yaklaşık 100 ABD askerinin yaralandığı iddiası",
-  "link": "https://www.trthaber.com/haber/dunya/iranin-bu-ay-duzenledigi-saldirilarda-yaklasik-100-abd-askerinin-yaralandigi-iddiasi-951734.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD ordusunun Orta Doğu üslerine İran saldırılarında yaklaşık 100 Amerikan askeri yaralandığı iddia ediliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-20T22:01:04.312760+00:00",
-  "type": "news",
-  "cluster_id": "c60d5866a8004"
  }
 ]
