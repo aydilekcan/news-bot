@@ -1,5 +1,77 @@
 [
  {
+  "title": "Kredi çekecekler dikkat! Faizler pazartesi düşecek",
+  "link": "https://www.sozcu.com.tr/kredi-cekecekler-dikkat-faizler-pazartesi-dusecek-p353488",
+  "source": "Sözcü",
+  "summary_tr": "Merkez Bankası'nın repo ihalesine başlamasıyla fonlama faizinde 3 puanlık düşüş gerçekleşti; kredi faizleri pazartesi gününden itibaren düşecek.",
+  "metric": "Fonlama faizi -3 puan",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-28T12:01:09.363458+00:00",
+  "type": "news",
+  "cluster_id": "c887b2c8b6e7e"
+ },
+ {
+  "title": "New Fed chair Kevin Warsh under pressure to clarify views on inflation, interest rates",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ0haYVBvVFJqZ2FhYl9lalJicEl6eU1ucWdjUlJ0OWpqQzItdGF3d1pyTWpnRlZaT3lEaE1pRjg0RHJUQXlOT2VicWN1WE5tVm9Hd1VwZlpjQTVJMVJHTy1hbEcxTUdBei1hbE5fTnZZcnI1ci11ejRNd21ULWkzZDBBMkRkUXQ4a2FtMEV2aE5VTmRiRmRPZFc3N2RfcUtCTFE?oc=5",
+  "source": "AP",
+  "summary_tr": "Fed'in yeni başkanı Kevin Warsh enflasyon ve faiz oranlarına ilişkin görüşlerini açıklığa kavuşturmaya baskı altında.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-28T12:01:09.363458+00:00",
+  "type": "news",
+  "cluster_id": "cd595e145a4b0"
+ },
+ {
+  "title": "Tarlaya umutla girip gözyaşlarıyla çıkıyorlar: 60 liradan 30 liraya düştüler",
+  "link": "https://www.sozcu.com.tr/tarlaya-umutla-girip-gozyaslariyla-cikiyorlar-60-liradan-30-liraya-dustuler-p353493",
+  "source": "Sözcü",
+  "summary_tr": "Bafra Ovası'nda çiftçiler aşırı yağış ve hastalıklar nedeniyle ürün zayiatı yaşıyor; mısır fiyatı 60 TL'den 30 TL'ye düştü.",
+  "metric": "Mısır fiyatı 60 TL -> 30 TL (-50%)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-28T12:01:09.363458+00:00",
+  "type": "news",
+  "cluster_id": "cddbc1621f839"
+ },
+ {
+  "title": "Bakan Kacır: Sabit maliyetli kredilerde yıllık finansman oranı yüzde 25'e kadar düşmüş olacak",
+  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-sabit-maliyetli-kredilerde-yillik-finansman-orani-yuzde-25e-kadar-dusmus-olacak/4040127",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Sanayi Bakanı Kacır: İşletmelerin sabit maliyetli kredilerinde yıllık finansman oranı yüzde 25'e kadar düşecek.",
+  "metric": "Krediye finansman oranı -12 puan (yüzde 25'e düşmesi hedefleniyor)",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-28T12:01:09.363458+00:00",
+  "type": "news",
+  "cluster_id": "cd188f9d50ef6"
+ },
+ {
+  "title": "Bakan Kacır: İstihdamını koruyan işletmelerin kredi maliyeti düşecek",
+  "link": "https://www.trthaber.com/haber/ekonomi/bakan-kacir-istihdamini-koruyan-isletmelerin-kredi-maliyeti-dusecek-955228.html",
+  "source": "TRT Haber",
+  "summary_tr": "Sanayi Bakanı Kacır: İstihdamını koruyan işletmelerin kredi maliyeti düşürülecek.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-28T12:01:09.363458+00:00",
+  "type": "news",
+  "cluster_id": "c096e7a49dcdb"
+ },
+ {
+  "title": "Dış ticaret açığı değişim oranı: %13,6 (Temmuz 2025)",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT1NfeldDU3dMTGlTTjZqSnF6QUpxTFJiQl9lTGh3MnJGRkJfNERGTmZuOEZnRG9zTmFJNHA5eVdGVWc2X0FVQ0JVcGF4a2ltTlBqWEhkRVkwZEZOLWxVei1VTlpFQklfcFhVd1Vta1dsLXpiaG1fU2ZGYkJYM2F5VDdiNU9fWWx3b2ViUzcxMlg5U3hMckNSZFNxcURndkV5d0ZBTlMycllaWHZsbzNRRm1HWHByVWs?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%26,2 → %13,6 (-12,6 puan)",
+  "metric": "-12,6 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-28T12:01:09.363458+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Türkiye'den Hürmüz Boğazı hamlesi: 7 ülke İstanbul'da toplanacak",
   "link": "https://www.sozcu.com.tr/turkiye-ve-almanya-harekete-gecti-7-ulke-istanbul-da-toplanacak-p353473",
   "source": "Sözcü",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-20T16:01:09.588973+00:00",
   "type": "news",
   "cluster_id": "c11c29543acc4"
- },
- {
-  "title": "Ahbap soruşturması: Oğuzhan Uğur tutuklamaya sevk edildi",
-  "link": "https://www.dw.com/tr/ahbap-soruşturması-oğuzhan-uğur-tutuklamaya-sevk-edildi/a-78039258?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Ahbap Derneği soruşturmasında Babala TV Kurucusu Oğuzhan Uğur, güveni kötüye kullanma suçlamasıyla tutuklanmak üzere mahkemeye sevk edildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-20T16:01:09.588973+00:00",
-  "type": "news",
-  "cluster_id": "cdf97de5eedb6"
- },
- {
-  "title": "AKP Grup Başkanvekili Usta'dan çerçeve yasa açıklaması: Meclis olağanüstü toplantıya çağrılabilir, tüm partiler uzlaşmalı",
-  "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZy1CWWFFQ05HWTRjNlB6ZlVCVGw3UlA0cGs5SFgwVm45R0NJM3FYRWRrVC00UU01NTZNVGNRcEpsakF5RGFCdXYyQzdCMGJLTWJ5RTZLM1ppSkg0WEpmMXhqQXBvd2U0YzBnaFJxenNucmVRNW1LZTItODNIVEFOSVI1UXBzOGk3cENaWmstWWtreXY5WjZ4UjZQRUJic0dtc0xsU01oZkUtMkFuTlVKbTJMdGtZeXJ2d3QzazVuLXlRNzlNdWQ1dENJSUVmRHFoV0wzS2txNmR2c2dIS1B3WXpSdjNKVjZ4MlE?oc=5",
-  "source": "T24",
-  "summary_tr": "AKP Grup Başkanvekili Usta, çerçeve yasa kapsamında Meclis'in olağanüstü toplantıya çağrılabileceğini ve tüm partilerin uzlaşmalı hareket etmesi gerektiğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-20T16:01:09.588973+00:00",
-  "type": "news",
-  "cluster_id": "c72309d376563"
- },
- {
-  "title": "“It will not fail” – Medyascope interviews senior PKK commander on Kurdish peace process",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTmozVHVodF8xc0pBdWVfNWVsQUtYVE5kVmIzY1kwNENORDk2NGRLdVA1YkhJcllxYjV4aUtBUjlPa1huZ1RlYmZ6N3NoeFdVeEluR2oxX2x4UTBWQzViQ1pzTTNqWV95YVg2RlZKUFdfdldrOGVQOW00YkRWaWxaWXpfN2dtT3FDbUo4UUJmUGR5ZGxSSV9FaGZaWEU1NnFzektxbjJNUEtwQTViVWlUZHJpMG9TaHR1ZVE?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Medyascope, PKK üst düzey komutanıyla Kürt barış süreci hakkında röportaj gerçekleştirdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-20T16:01:09.588973+00:00",
-  "type": "news",
-  "cluster_id": "c883e9c9bb5a3"
- },
- {
-  "title": "Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSnM5TW1ZWS1VbC1iWXBVbmRfOVd2UENvWllLeTlpMGJ1NzByRkQ1a291WDNxaXJIb1NZUkhqdWJFOG5xcXFkYmpwaHFDdGdVVXFzc3V1a1MzaDdqeWVIaDVIQmZoYTdnSlRVdU80X1N2RHlmTFpoaEpzNmhsR2ZWVEhUaEZyUDYyZkZLNWx3THRxYkI5Zy1TZ21ZSkVzMnNlN2MzbnE4QQ?oc=5",
-  "source": "AP",
-  "summary_tr": "Ukrayna, Moskova'ya 400 dron göndererek saldırı gerçekleştirdi; Zelenskyy protestolarla mücadele ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-20T15:01:15.212027+00:00",
-  "type": "news",
-  "cluster_id": "c8928418ef821"
- },
- {
-  "title": "İngiltere'de yeni Başbakanı Andy Burnham oldu",
-  "link": "https://www.sozcu.com.tr/ingiltere-de-yeni-basbakani-andy-burnham-oldu-p338178",
-  "source": "Sözcü",
-  "summary_tr": "Andy Burnham, İngiltere İşçi Partisi liderliğine seçilerek ülkenin yeni başbakanı oldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-20T15:01:15.212027+00:00",
-  "type": "news",
-  "cluster_id": "c20cb69b69365"
- },
- {
-  "title": "İsrail ordusu, Gazze Şeridi'nde yürürlükte olan ateşkese \"taş\" koyuyor",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-gazze-seridinde-yururlukte-olan-ateskese-tas-koyuyor/4003869",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail ordusu Gazze'deki ateşkese karşı 'Sarı Hat' bölgesine beton blok yerleştirerek pozisyon alıyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-20T15:01:15.212027+00:00",
-  "type": "news",
-  "cluster_id": "ca35a602f2cd6"
  }
 ]
