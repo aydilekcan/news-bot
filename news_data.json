@@ -1,5 +1,77 @@
 [
  {
+  "title": "Japonya’dan yene tarihi müdahale: 96 milyar dolarlık hamle",
+  "link": "https://www.sozcu.com.tr/japonya-dan-yene-tarihi-mudahale-96-milyar-dolarlik-hamle-p353505",
+  "source": "Sözcü",
+  "summary_tr": "Japonya, yenin dolar karşısında sert değer kaybının önüne geçmek için döviz piyasasına 96 milyar dolarlık rekor büyüklükte müdahalede bulundu.",
+  "metric": "Japonya döviz müdahalesi 96 milyar dolar",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-28T13:01:10.337727+00:00",
+  "type": "news",
+  "cluster_id": "cd0547e1766ad"
+ },
+ {
+  "title": "Kamu bankalarından faiz kararı",
+  "link": "https://www.diken.com.tr/kamu-bankalarindan-faiz-karari/?utm_source=rss&utm_medium=rss&utm_campaign=kamu-bankalarindan-faiz-karari",
+  "source": "Diken",
+  "summary_tr": "Kamu bankaları, Merkez Bankası'nın repo ihalesine başlamasının ardından faiz kararı aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-28T13:01:10.337727+00:00",
+  "type": "news",
+  "cluster_id": "c6cd139094860"
+ },
+ {
+  "title": "Tarım ilacı firmalarına Rekabet soruşturması",
+  "link": "https://www.sozcu.com.tr/tarim-ilaci-firmalarina-rekabet-sorusturmasi-p353503",
+  "source": "Sözcü",
+  "summary_tr": "Rekabet Kurulu, bitki koruma ve besleme ürünleri pazarında 18 şirkete karşı soruşturma açtı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-28T13:01:10.337727+00:00",
+  "type": "news",
+  "cluster_id": "c9795f9fd102d"
+ },
+ {
+  "title": "Rekabet Kurulu, bitki koruma, besleme ürünleri pazarında faaliyet gösteren 18 teşebbüse soruşturma açtı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/rekabet-kurulu-bitki-koruma-besleme-urunleri-pazarinda-faaliyet-gosteren-18-tesebbuse-sorusturma-acti/4040227",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Rekabet Kurulu, bitki koruma ve besleme ürünleri pazarında 18 teşebbüs hakkında soruşturma açılmasına karar verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-28T13:01:10.337727+00:00",
+  "type": "news",
+  "cluster_id": "c51b39fb50401"
+ },
+ {
+  "title": "18 bitki koruma ve besleme şirketine soruşturma",
+  "link": "https://www.trthaber.com/haber/ekonomi/18-bitki-koruma-ve-besleme-sirketine-sorusturma-955234.html",
+  "source": "TRT Haber",
+  "summary_tr": "Rekabet Kurulu, bitki koruma ve besleme ürünleri pazarında 18 şirkete soruşturma açtı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-28T13:01:10.337727+00:00",
+  "type": "news",
+  "cluster_id": "c9ccadedff4bb"
+ },
+ {
+  "title": "Dış ticaret açığı: 7 milyar 343 milyon $ (Temmuz 2024)",
+  "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQmpRQUlmMjhHWDhTZW1ZWHJ5QXdQcVhkVFBBV1d1cE1zejMyc0k4WVBqcGd5OFZldmxRQ21qYU5VeXZ1V2JEaFNrX0ZLRkVrVlVaVlA2RW1MWXhnM3hRMGIzVFFaZEdzc2Juckt4dEtPU0Z0cUhRbGpRYzdMVmpWdnRNVm0xckdXN3ZrbF9kLUVHLURnMmVqSndwV204eVNMLXEtQWdPbWVvR1ZvMW00OFZUMU1vZDJQQXpJSlpDMjNILURzWDViektiZU5zckNqME9tMThqQTk3VmVOZEVmYl85cTlRR0pFdzNCT015d2JjWU1xLXNBYlNR?oc=5",
+  "source": "TÜİK",
+  "summary_tr": "$10.37 milyar → 7 milyar 343 milyon $ (%-32,5)",
+  "metric": "%-32,5",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-28T13:01:10.337727+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Kredi çekecekler dikkat! Faizler pazartesi düşecek",
   "link": "https://www.sozcu.com.tr/kredi-cekecekler-dikkat-faizler-pazartesi-dusecek-p353488",
   "source": "Sözcü",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-20T17:01:05.771406+00:00",
   "type": "news",
   "cluster_id": "ce550f8609360"
- },
- {
-  "title": "ABD'nin İran'a deniz ablukasında 7 ticari geminin rotaları değiştirildi, 1 gemi hizmet dışı bırakıldı",
-  "link": "https://www.trthaber.com/haber/dunya/abdnin-irana-deniz-ablukasinda-7-ticari-geminin-rotalari-degistirildi-1-gemi-hizmet-disi-birakildi-951719.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD ordusu, İran'a yönelik deniz ablukası kapsamında 7 ticari geminin rotasını değiştirdi, 1 gemiyi hizmet dışı bıraktı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-20T17:01:05.771406+00:00",
-  "type": "news",
-  "cluster_id": "c76d71c09a2fe"
- },
- {
-  "title": "Bahreyn'de kısa süre içinde İran saldırıları nedeniyle yeniden sirenler çaldı",
-  "link": "https://www.trthaber.com/haber/dunya/bahreynde-kisa-sure-icinde-iran-saldirilari-nedeniyle-yeniden-sirenler-caldi-951718.html",
-  "source": "TRT Haber",
-  "summary_tr": "Bahreyn'de İran saldırıları nedeniyle kısa süre içinde ikinci kez hava alarm sirenlerinin çaldığı bildirildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-20T17:01:05.771406+00:00",
-  "type": "news",
-  "cluster_id": "c1439371694ec"
- },
- {
-  "title": "Karadeniz’de gemilere İHA saldırıları: Petrol yüklemeleri durdu",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdVZ2T212cDZoUDgzNzRNUnp4dDZKZ1NveHdYaGw3c2xyMkk0Sl9uVUtFZmpUX1BSTkV0bWZuWWxJamZqc010ZUJ4bW5rSG5Dend3SUtJN041anV5NVV1Rkh4bDF3eVNaMUZ6SzA5emdHWFpHcXJfREY2Y1BhaHV0M3ZtSEFIcXdqSGhCYkJHMTR5bVE2NjVCYmdVbEhJX3Jo?oc=5",
-  "source": "soL",
-  "summary_tr": "Karadeniz'de gemilere İHA saldırıları sonucu petrol yüklemeleri durduruldu.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-20T17:01:05.771406+00:00",
-  "type": "news",
-  "cluster_id": "ce85644a209f3"
- },
- {
-  "title": "Gezi davasından 18 yıl hapis cezası alan Çiğdem Mater ve Mine Özerden, Bakırköy'den İzmir Şakran Cezaevi'ne sevk ediliyor: Gerekçe sunulmadı, ailelere ve avukatlara da yeterli bilgi verilmedi",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObDhNQll4ZXUwNHMxMzZvYXN0cjRnZ0Q1YXNMeVFPbkd1SE9OcERyVk9xd0lDeTdEMnBxY0pnSW1Lbm9ySzN3Q0djU1p5bExqWnJlRW1jaWlfYVUyQV9uV2ZTS0NiTm9PbGRQaDN6QzBqTkI1STk4R0laTW9wYWY5MEVzTXp5a2RfUjF6cjN2RmpEckJ3TDgzT0RIY1NQYUpoeGxySExWa1pZakY5dy1Pbg?oc=5",
-  "source": "T24",
-  "summary_tr": "Gezi davasından 18 yıl hapis cezası alan Çiğdem Mater ve Mine Özerden, Bakırköy'den İzmir Şakran Cezaevi'ne sevk edildi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-20T17:01:05.771406+00:00",
-  "type": "news",
-  "cluster_id": "c6a35d2528bfa"
- },
- {
-  "title": "Ukrayna'da askere gitmek istemeyenler ve şiddet olayları: 'Herkes ölmekten korkuyor'",
-  "link": "https://www.bbc.com/turkce/articles/cy8m7zl1d44o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Ukrayna'da asker açığı ve zorunlu seferberlik uygulamaları artan şiddet olaylarıyla derinleşen krize dönüşüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-20T16:01:09.588973+00:00",
-  "type": "news",
-  "cluster_id": "c31175a3a6f72"
- },
- {
-  "title": "DEM Parti heyeti Öcalan'la görüşmek için İmralı'ya gitti",
-  "link": "https://www.bbc.com/turkce/articles/c9v4nz2e7nxo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "DEM Parti heyeti, PKK lideri Abdullah Öcalan'la görüşmek için İmralı adasına gitti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-20T16:01:09.588973+00:00",
-  "type": "news",
-  "cluster_id": "c11c29543acc4"
  }
 ]
