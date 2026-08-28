@@ -1,5 +1,29 @@
 [
  {
+  "title": "İran Cumhurbaşkanı, ABD'nin İslamabad Mutabakatı'nı uygulaması halinde Hürmüz Boğazı'nın açılacağını belirtti",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-cumhurbaskani-abdnin-islamabad-mutabakatini-uygulamasi-halinde-hurmuz-bogazinin-acilacagini-belirtti/4040637",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Cumhurbaşkanı Pezeşkiyan, Umman ile Hürmüz Boğazı üzerinden geçiş konusunda anlaşmaya vardıklarını, ABD'nin İslamabad Mutabakatı'nı uygulaması halinde boğazın açılacağını belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-28T21:01:51.161916+00:00",
+  "type": "news",
+  "cluster_id": "c7d9e351cfd04"
+ },
+ {
+  "title": "Er gaziler 47 günlük eylemi sonlandırıyor: Cumhurbaşkanlığı’ndan çözüm sözü aldılar",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/er-gaziler-47-gunluk-eylemi-sonlandiriyor-cumhurbaskanligi-ndan-cozum-sozu-aldilar-2533250",
+  "source": "Cumhuriyet",
+  "summary_tr": "47 gündür hak talepleri için eylem gerçekleştiren şehit aileleri ve er gaziler, Cumhurbaşkanlığı Başdanışmanı ile yapılan görüşmede çözüm sözü alarak eylemi sonlandırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-28T21:01:51.161916+00:00",
+  "type": "news",
+  "cluster_id": "c2b430251d31a"
+ },
+ {
   "title": "İran liderinden çok konuşulacak çıkış: Her türlü eylemi yasak ilan ediyorum",
   "link": "https://www.sozcu.com.tr/iran-liderinden-cok-konusulacak-cikis-her-turlu-eylemi-yasak-ilan-ediyorum-p353575",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-21T01:01:02.869461+00:00",
   "type": "news",
   "cluster_id": "cb14a6cf64984"
- },
- {
-  "title": "Emekli dururken Toki, Mekkeli zenginlere koştu",
-  "link": "https://www.sozcu.com.tr/emekli-dururken-toki-mekkeli-zenginlere-kostu-p338257",
-  "source": "Sözcü",
-  "summary_tr": "Emlak Konut, Mekke'de 1.014 adetlik lüks proje duyurdu; emeklilerin sosyal yardım kesintilerine karşı eleştiri.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-21T01:01:02.869461+00:00",
-  "type": "news",
-  "cluster_id": "c02451d314629"
- },
- {
-  "title": "Russian President Putin meets with North Korean foreign minister in latest high-level diplomacy",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU2hmdF83T1YtSFB5VXB0ZTJLS01yY3RWREZiN28tMWhYUGhvRUY5MzBZQXpVZmRlWWdfMzNQemk3eVpYREVhLUx5QV9RMDZsWkVrMUZIY3NmbzAyQm5QUGRxOXFyQnlTdWt5QVlJdGdPLWJ5WTgtOWlwTGM5RFBrb050Q1ZYcjhhSHpUVTZmTVpMYjZ1NE1wV1NTUFE?oc=5",
-  "source": "AP",
-  "summary_tr": "Putin, Kuzey Kore Dışişleri Bakanı ile üst düzey diplomasi görüşmesi gerçekleştirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-21T00:01:02.228939+00:00",
-  "type": "news",
-  "cluster_id": "cde33448acf42"
  }
 ]
