@@ -1,5 +1,77 @@
 [
  {
+  "title": "Türkiye'den Hürmüz Boğazı hamlesi: 7 ülke İstanbul'da toplanacak",
+  "link": "https://www.sozcu.com.tr/turkiye-ve-almanya-harekete-gecti-7-ulke-istanbul-da-toplanacak-p353473",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye ve Almanya'nın ortak girişimiyle İstanbul'da 7 ülkenin dışişleri bakanını toplayan Hürmüz Boğazı zirvesi düzenlenecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-28T11:01:13.112199+00:00",
+  "type": "news",
+  "cluster_id": "c2e130473e8da"
+ },
+ {
+  "title": "Morgan Stanley'den kritik tahmin: Merkez Bankası yıl sonunda faizi kaça indirecek?",
+  "link": "https://www.sozcu.com.tr/morgan-stanley-den-kritik-tahmin-merkez-bankasi-yil-sonunda-faizi-kaca-indirecek-p353471",
+  "source": "Sözcü",
+  "summary_tr": "Morgan Stanley, Türkiye Cumhuriyet Merkez Bankası'nın yıl sonunda faizi kaça indireceğine dair yeni rapor yayımladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-28T11:01:13.112199+00:00",
+  "type": "news",
+  "cluster_id": "cdb65a5b6acf9"
+ },
+ {
+  "title": "Ev kiralayacak öğrencilere 'depozito' uyarısı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/ev-kiralayacak-ogrencilere-depozito-uyarisi-2533099",
+  "source": "Cumhuriyet",
+  "summary_tr": "Üniversite kaydı döneminde kira fiyatlarında son 10-15 günde yüzde 5-10 oranında artış yaşandı.",
+  "metric": "Kira fiyatları %5-10 yükselmişti",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-28T11:01:13.112199+00:00",
+  "type": "news",
+  "cluster_id": "cddcdfc6818be"
+ },
+ {
+  "title": "Bakan yeni kredi paketinin detaylarını açıkladı",
+  "link": "https://www.sozcu.com.tr/bakan-yeni-kredi-paketinin-detaylarini-acikladi-p353476",
+  "source": "Sözcü",
+  "summary_tr": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, imalat sektörü işletmelerine 250 milyarlık kredi paketi detaylarını açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-28T11:01:13.112199+00:00",
+  "type": "news",
+  "cluster_id": "ce4daf4160556"
+ },
+ {
+  "title": "Somali açıklarındaki Türk sondaj çalışmaları planlanandan bir ay önce tamamlanabilir",
+  "link": "https://www.aa.com.tr/tr/dunya/somali-aciklarindaki-turk-sondaj-calismalari-planlanandan-bir-ay-once-tamamlanabilir/4040125",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Somali Petrol Otoritesi, Türkiye'nin Somali açıklarında yürüttüğü petrol ve doğal gaz sondajının planlanandan bir ay önce tamamlanabileceğini bildirdi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-28T11:01:13.112199+00:00",
+  "type": "news",
+  "cluster_id": "c0325db991ddd"
+ },
+ {
+  "title": "İhracat (aylık değişim): %2,9 (Temmuz)",
+  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMUTF4MWFBMlZFUmJjTkZMTGJndlIyU2w4RG1ZZEhidFFhU1hTamJiaVVBRmlXQjM1alQ4WVA3eUpPeTB1WFl1UThZX3B0eG5mclktM0NaTEtYMGtjTFUzZFlwMFJBUGNfZ2hacEIyZw?oc=5",
+  "source": "TÜİK",
+  "summary_tr": "%2,9 → %2,9",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-28T11:01:13.112199+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Öğrencilere depozito uyarısı: Sözleşmeye 'kira bedeli' yazın",
   "link": "https://www.diken.com.tr/ogrencilere-depozito-uyarisi-sozlesmeye-kira-bedeli-yazin/?utm_source=rss&utm_medium=rss&utm_campaign=ogrencilere-depozito-uyarisi-sozlesmeye-kira-bedeli-yazin",
   "source": "Diken",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-20T15:01:15.212027+00:00",
   "type": "news",
   "cluster_id": "ca35a602f2cd6"
- },
- {
-  "title": "İsrail'in yılın ilk yarısında gazetecileri hedef alan 467 ihlalinde 8 Filistinli gazeteci hayatını kaybetti",
-  "link": "https://www.aa.com.tr/tr/dunya/israilin-yilin-ilk-yarisinda-gazetecileri-hedef-alan-467-ihlalinde-8-filistinli-gazeteci-hayatini-kaybetti/4003855",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail, yılın ilk 6 ayında gazetecileri hedef alan 467 ihlalde 8 Filistinli gazeteci ölümüne neden oldu.",
-  "metric": "Filistinli gazeteci ölümleri: 8 kişi (yılın ilk yarısı)",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-20T15:01:15.212027+00:00",
-  "type": "news",
-  "cluster_id": "c350a49bef2cd"
- },
- {
-  "title": "Katil İsrail'in yılın ilk yarısında gazetecileri hedef alan 467 ihlalinde 8 Filistinli gazeteci hayatını kaybetti",
-  "link": "https://www.trthaber.com/haber/dunya/katil-israilin-yilin-ilk-yarisinda-gazetecileri-hedef-alan-467-ihlalinde-8-filistinli-gazeteci-hayatini-kaybetti-951712.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail, yılın ilk 6 ayında gazetecileri hedef alan 467 ihlalde 8 Filistinli gazeteci ölümüne neden oldu.",
-  "metric": "Filistinli gazeteci ölümleri: 8 kişi (yılın ilk yarısı)",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-20T15:01:15.212027+00:00",
-  "type": "news",
-  "cluster_id": "c350a49bef2cd"
- },
- {
-  "title": "Gözler kritik kararda: Yargıtay'ın 'mutlak butlan' dosyasını ertelediği iddiası",
-  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jWFhjWnNhU3M3dzNlSHNJM2pvTnBtVzBvNHV1d214X210WEF2Qm55ZDc1TEV5MFo1VFFvRW9oMFNORGlUU21PX1Q3S19MQVA0cXMwaWlYSnVMRjNPZWtaOEZUVWFtOGNLSXlKbXltM2t2RFJl?oc=5",
-  "source": "T24",
-  "summary_tr": "Yargıtay'ın 'mutlak butlan' dosyasını ertelediği iddia edildi; kamuoyu kritik kararın sonucunu bekliyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-20T15:01:15.212027+00:00",
-  "type": "news",
-  "cluster_id": "cc3e2026e4d70"
- },
- {
-  "title": "Andy Burnham becomes the UK’s seventh prime minister in a decade after Starmer resigns",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmpFTnBJcVJSbTdmSFR6SXIyOU9saWNFLWJ5QW1uS2QzanBfU3hyREhOdHJGTGI2VTlqeHJXTXA5NjZ5OEJyQ0k0bmliV0lsMTZfQXZWOGpmR244SUFCX3hRMjFFVFlCNV9feWNBMXd1NDFMRE9ZNkZrTTVMcWZZT3h4RHFxZzlZc3B6UlZsLUdndGdUUW93Rk1MdGY5MlJYamc2ZWdvaE4?oc=5",
-  "source": "AP",
-  "summary_tr": "Andy Burnham İngiltere başbakanı oldu; Starmer'ın istifasından sonra Birleşik Krallık'ın on yılda yedinci başbakanı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-20T15:01:15.212027+00:00",
-  "type": "news",
-  "cluster_id": "cb79a13b717ea"
- },
- {
-  "title": "Danıştay'dan Kartalkaya kararı: Çalışma Bakanlığına ikinci uyarı",
-  "link": "https://www.dw.com/tr/danıştay-dan-kartalkaya-kararı-çalışma-bakanlığına-ikinci-uyarı/a-78039045?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Danıştay, Kartalkaya otel yangınında Çalışma Bakanlığı'na ikinci uyarı yaptı; tüm sorumlular tespit edilmesini istedi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-20T15:01:15.212027+00:00",
-  "type": "news",
-  "cluster_id": "cc20e09f532ca"
- },
- {
-  "title": "Bakan Uraloğlu: Doğu Akdeniz Gemi Trafik Hizmetleri Projesi ile 'mavi vatan'ımızda çıkarlarımız korunacak",
-  "link": "https://www.aa.com.tr/tr/gundem/bakan-uraloglu-dogu-akdeniz-gemi-trafik-hizmetleri-projesi-ile-mavi-vatanimizda-cikarlarimiz-korunacak/4003824",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Ulaştırma Bakanı Uraloğlu, Doğu Akdeniz Gemi Trafik Hizmetleri Projesi ile Türkiye'nin çıkarlarının korunacağını belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-20T15:01:15.212027+00:00",
-  "type": "news",
-  "cluster_id": "c8a2d549f7766"
  }
 ]
