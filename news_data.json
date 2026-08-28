@@ -1,5 +1,41 @@
 [
  {
+  "title": "Kuru incirde maliyet, kuraklık ve ihracat baskısı büyüyor: Üretici tedirgin",
+  "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/kuru-incirde-maliyet-kuraklik-ve-ihracat-baskisi-buyuyor-uretici-tedirgin-2532871",
+  "source": "Cumhuriyet",
+  "summary_tr": "Türkiye'nin dünya lideri olduğu kuru incirde üreticiler kuraklık, yüksek işçilik maliyetleri ve ihracat baskısı nedeniyle tedirgin.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-28T01:00:59.344852+00:00",
+  "type": "news",
+  "cluster_id": "c042ab2559dd7"
+ },
+ {
+  "title": "Suriye diplomatik pasaportlarına vize muafiyeti",
+  "link": "https://www.trthaber.com/haber/gundem/suriye-diplomatik-pasaportlarina-vize-muafiyeti-955157.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye ile Suriye arasındaki diplomatik ilişkilerde yeni adım: Suriye diplomatik pasaport sahiplerine Türkiye'ye vize muafiyeti tanındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-28T01:00:59.344852+00:00",
+  "type": "news",
+  "cluster_id": "c28383f7101cc"
+ },
+ {
+  "title": "Toplam cirolar (yillik): 124,8 trilyon TL (2025)",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYll1RGQ2NFpEdmhUY3hTc09JWWM4aWF5dlVMUjlKN2tJWEM4eUFvdjFpN19Nb1FJU1BRcUl0aUhEZV9zQmkzR3pkd3BXc2lGZ0otVFBwOU4wWW10Q2xiSGdfMERsdmllM3dWYmFTbVlPbzROeDFYOUJTWmxib0tlTW83V2Z3UFdad0o1b1NybEZkMC1peDJISVdpRkhvUWVGZkZkeEFwb1M?oc=5",
+  "source": "TUIK",
+  "summary_tr": "124,8 trilyon TL",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-28T01:00:59.344852+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Iran sets conditions for reopening Strait of Hormuz, top security official Rezaei says",
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcmkxelpGUFVScGp3akpHZlFURmRaaF9haHpzOVVkdnphX3pDd2hhUTIzZk9UeEJqd3RwOUU3cXc4b0hITEpkY1pkbjZWTVpaRzZVWnZyZi1wa3l4UjVfa0NDNlNQNGtFYk5QbU5wc2VTVkdYbENjc093UW84bE9mTE9DNEJkRFIzdC1Hc1JlSS1hZVUzME9KVTBmeDlUVi1fTXlMaF94RW1aU2NNS3JKUGIwMURObWs5cVhtbXVYcTZpUTZwY01GQVVYd1o?oc=5",
   "source": "Reuters",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-19T21:00:59.508887+00:00",
   "type": "news",
   "cluster_id": "c501e73b532a5"
- },
- {
-  "title": "Trump'tan arabulucu ülkelere İran ile bu hafta ateşkes sağlanmazsa “tırmanışa hazırlanma” mesajı iddiası",
-  "link": "https://www.aa.com.tr/tr/dunya/trumptan-arabulucu-ulkelere-iran-ile-bu-hafta-ateskes-saglanmazsa-tirmanisa-hazirlanma-mesaji-iddiasi/4003096",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Başkanı Trump, arabulucu ülkelere İran ile bu hafta ateşkes sağlanamaması halinde gerilimin tırmanmasına hazırlıklı olunması yönünde mesaj verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-19T20:01:03.601402+00:00",
-  "type": "news",
-  "cluster_id": "c139cc31017bc"
- },
- {
-  "title": "Dünya Kupası finali öncesi 'yasadışı bahis' operasyonu: 6 binden fazla hesaba bloke kondu, 23 kişiye yakalama kararı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/dunya-kupasi-finali-oncesi-yasadisi-bahis-operasyonu-6-binden-fazla-hesaba-bloke-kondu-23-kisiye-yakalama-karari-2522180",
-  "source": "Cumhuriyet",
-  "summary_tr": "Dünya Kupası finali öncesi yapılan operasyonda yasadışı bahis trafiğinde kullanılan 6 bin 314 banka hesabı bloke edildi, 23 kişiye yakalama kararı çıkarıldı.",
-  "metric": "Bloke edilen banka hesabı: 6.314",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-19T20:01:03.601402+00:00",
-  "type": "news",
-  "cluster_id": "c8d5ef6aaa479"
- },
- {
-  "title": "Dünya Kupası finali başlar başlamaz 6 binden fazla banka hesabına bloke konuldu",
-  "link": "https://www.sozcu.com.tr/dunya-kupasi-final-maci-basladi-bakanlik-dugmeye-basti-p337878",
-  "source": "Sözcü",
-  "summary_tr": "Adalet Bakanı Gürlek, Dünya Kupası finali başlamasıyla yasadışı bahis operasyonunun yapıldığını ve 6 binin üzerinde banka hesabının bloke edildiğini açıkladı.",
-  "metric": "Bloke edilen banka hesabı: 6.314+",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-19T20:01:03.601402+00:00",
-  "type": "news",
-  "cluster_id": "c84a91b50fe44"
  }
 ]
