@@ -320,10 +320,10 @@
    "indicator_tr": "İhracat ve ithalat değişimi"
   },
   "tr_ihracat_aylik": {
-   "value": "-9,5%",
-   "period": "",
-   "ts": "2026-07-07T15:01:28.741263+00:00",
-   "indicator_tr": "İhracat (aylık değişim)"
+   "value": "%2,9",
+   "period": "Temmuz",
+   "ts": "2026-08-28T08:01:35.018371+00:00",
+   "indicator_tr": "İhracat aylık artışı"
   },
   "tr_butce_acigi": {
    "value": "1 trilyon TL'yi aştı",
@@ -774,6 +774,24 @@
    "period": "2025 1. yarı",
    "ts": "2026-08-28T07:01:41.245161+00:00",
    "indicator_tr": "Silah-mühimmat ihracatı (yıllık)"
+  },
+  "tr_hufe_yillik": {
+   "value": "%32,77",
+   "period": "",
+   "ts": "2026-08-28T08:01:35.018371+00:00",
+   "indicator_tr": "Hizmet Üretici Fiyat Endeksi (H-ÜFE) yıllık"
+  },
+  "tr_hufe_aylik": {
+   "value": "%3,94",
+   "period": "",
+   "ts": "2026-08-28T08:01:35.018371+00:00",
+   "indicator_tr": "Hizmet Üretici Fiyat Endeksi (H-ÜFE) aylık"
+  },
+  "tr_dis_ticaret_acigi_yillik": {
+   "value": "%13,6",
+   "period": "Temmuz",
+   "ts": "2026-08-28T08:01:35.018371+00:00",
+   "indicator_tr": "Dış ticaret açığı yıllık"
   }
  },
  "seen_links": {
@@ -1008,6 +1026,12 @@
   "c6c3b1aa5739f6b00625f0482b804292": "2026-08-28T07:01:14.508751+00:00",
   "805af39037e34f38b1f30f551a8b486e": "2026-08-28T07:01:14.508751+00:00",
   "ea221eeb2520b686e3276f53114a7a66": "2026-08-28T07:01:14.508751+00:00",
-  "38d35a85bbbf34f4126eef896dc92db3": "2026-08-28T07:01:14.508751+00:00"
+  "38d35a85bbbf34f4126eef896dc92db3": "2026-08-28T07:01:14.508751+00:00",
+  "3815ffc0aed396549c8e603298889905": "2026-08-28T08:01:09.794257+00:00",
+  "3020886f6e5735a4399f64bc78cf073e": "2026-08-28T08:01:09.794257+00:00",
+  "81a6a35dc924dd3906ca533c58432f0c": "2026-08-28T08:01:09.794257+00:00",
+  "01eaeb67a0d3731d6e65d63b270271ae": "2026-08-28T08:01:09.794257+00:00",
+  "fbc8eb97fdeebe0aa780e516efd6e037": "2026-08-28T08:01:09.794257+00:00",
+  "326b7a92838a5deaff49e9c897a3718f": "2026-08-28T08:01:09.794257+00:00"
  }
 }
