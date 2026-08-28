@@ -1,5 +1,29 @@
 [
  {
+  "title": "Fed Başkanı Warsh, enflasyon hedefe doğru ilerlemezse \"yapacak işleri olduğunu\" söyledi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/fed-baskani-warsh-enflasyon-hedefe-dogru-ilerlemezse-yapacak-isleri-oldugunu-soyledi/4040416",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Fed Başkanı Warsh, temel enflasyonun hedefe yeterli hızda ilerlememesi durumunda ek faiz artırımlarının yapılabileceğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-28T16:01:02.885185+00:00",
+  "type": "news",
+  "cluster_id": "cc9eca93eeb44"
+ },
+ {
+  "title": "Fed Chair Warsh signals rate hikes may be needed with inflation still elevated",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTUFJSHBlaThPY3QxNm1TZEpORnhMam5QQUZTc203emxiY0pKSWJLYWtvaFZNMUd0UGluNzJHVHNhcTZERkpOdmpQR2ZsWC10Q1IxMTFIaDVVRkQ3WjhFWFZsX254RVVJUG9QemZ6ZEtIbndJZk1iYUtuNDEzUGFmejVPZTZlQXl5SEx5WGZPSzh1WHlXalY1dldNR2l3a0RkT0t2M1RZTEdLZw?oc=5",
+  "source": "AP",
+  "summary_tr": "Fed Başkanı Warsh, enflasyon yüksek kaldığı sürece faiz artırımlarının gerekli olabileceğini bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-28T16:01:02.885185+00:00",
+  "type": "news",
+  "cluster_id": "c44aeba2bafed"
+ },
+ {
   "title": "YÖK’den vakıf üniversitelerine öğrenim ücreti sınırlaması",
   "link": "https://www.sozcu.com.tr/yokden-vakif-universitelerine-ogrenim-ucreti-sinirlamasi-p353541",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-20T19:01:05.665602+00:00",
   "type": "news",
   "cluster_id": "c1b2c35187ba5"
- },
- {
-  "title": "Warner Bros'un 110 milyar dolarlık satışına mahkeme engeli",
-  "link": "https://www.sozcu.com.tr/warner-bros-un-110-milyar-dolarlik-satisina-mahkeme-engeli-p338215",
-  "source": "Sözcü",
-  "summary_tr": "ABD federal yargıcı Paramount Skydance'in Warner Bros. Discovery'yi 110 milyar dolara satın alma anlaşmasını engelledi.",
-  "metric": "Warner Bros satış değeri ~110 milyar dolar",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-20T19:01:05.665602+00:00",
-  "type": "news",
-  "cluster_id": "c399961048316"
- },
- {
-  "title": "Numan Kurtulmuş ‘çerçeve yasa’ turlarına başlıyor: Kılıçdaroğlu ile görüşecek",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnhEeVUxZWN0XzlzMFd4MjZ3c3Q0WGlPMG03M052TmlwU2o4ekRSZFpnSlA4VzFidWdPX0lHREc5bnFDRll2VnlQX3B5R094Ymh2dS1TbWZYaUdnbXhQRDNFT1h2b3NWaG03ekNPSkZudUJDWVV4T0tMMV9fNnhSUmp2YmxiQUtBakNPTHR0UFF3ZzBxWEkzTmEtYXF1S3FDNzZvUWZaREtoZUQ1WFczUHpB?oc=5",
-  "source": "soL",
-  "summary_tr": "Numan Kurtulmuş 'çerçeve yasa' turlarına başlayarak Kemal Kılıçdaroğlu ile görüşecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-20T19:01:05.665602+00:00",
-  "type": "news",
-  "cluster_id": "c3dd897e644e2"
  }
 ]
