@@ -1,5 +1,29 @@
 [
  {
+  "title": "Rusya'dan İngiltere'ye askeri üsleri vurma tehdidi",
+  "link": "https://www.trthaber.com/haber/dunya/rusyadan-ingiltereye-askeri-usleri-vurma-tehdidi-955167.html",
+  "source": "TRT Haber",
+  "summary_tr": "Rusya, İngiltere'nin Ukrayna'ya verdiği destek nedeniyle İngiliz askeri hedeflerini vurabileceği uyarısında bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-28T04:01:08.896786+00:00",
+  "type": "news",
+  "cluster_id": "c4832573557eb"
+ },
+ {
+  "title": "South Korea, Japan and US to hold North Korea-focused nuclear missile drill",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVGJqQ2ZQanh2YnZUdGpGcXA0SnhGM05PNXhsblBGVGtZQjJWbFV3UjlMYnRrZTROWERzN0xlZXF4Q1NvSWx3ZlFCdEdTRWdfdHFvN21rR1ktUVRNZWVEV1VXZXdJUk1rbDl0ZE4yd1R5OG0zQWdQUEZBbmVRUmJQWmJNdUlEV2R2bEVGZkgyWjF5aG1UV1VzWHRtOFJiMnNLdE9DckJOM21JZlI1czhvcUZHWVZLWVZBM2RhNzNIMA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Güney Kore, Japonya ve ABD, Kuzey Kore'ye odaklı ortak nükleer füze tatbikatı düzenleyecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-28T04:01:08.896786+00:00",
+  "type": "news",
+  "cluster_id": "cf084832eccc4"
+ },
+ {
   "title": "Russia bombards Kyiv and other cities in onslaught testing Ukraine’s defenses",
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQURoUEhEcFk3STd0XzZscFVBTHBnRzV2LVRsVDdpM1UzU2V2TzJwbmU4OS1xeVZuOFlSQUNaYktJV0czSjhvdTZVdlpLOUJoaVFvNllrYTByTHQ0ZFlnc3VLeFZWa3VneTFyVUZvTnhUQWpCUGFLMmlIb1RqNEFYVnFVSUNIOGxHWVRGUko5TXhYVkw0RXZuU2UyeUNzS1Ra?oc=5",
   "source": "AP",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-19T23:01:02.591332+00:00",
   "type": "news",
   "cluster_id": "c5dbd9f2aa46d"
- },
- {
-  "title": "İran'ın Irak'taki saldırısının ardından bir ABD askeri öldü",
-  "link": "https://www.bbc.com/turkce/articles/c07rnxj949po?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD ordusu, İran'ın Irak'ta düzenlediği saldırı sonrasında bir askerinin öldüğünü açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-19T22:00:59.152367+00:00",
-  "type": "news",
-  "cluster_id": "ccbc22aa1c67a"
- },
- {
-  "title": "Ukrayna duyurdu: Karadeniz’de yük gemisi vuruldu, 5 kişi öldü, 5 kişiden haber alınamıyor",
-  "link": "https://www.cumhuriyet.com.tr/dunya/ukrayna-duyurdu-karadeniz-de-yuk-gemisi-vuruldu-5-kisi-oldu-5-kisiden-haber-alinamiyor-2522206",
-  "source": "Cumhuriyet",
-  "summary_tr": "Ukrayna, Rusya'nın Odessa Limanı açıklarında Gine-Bissau bayraklı yük gemisine saldırı düzenlemesi sonucu 5 kişinin öldüğünü ve 5 kişinin kayıp olduğunu bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-19T22:00:59.152367+00:00",
-  "type": "news",
-  "cluster_id": "c0e3fad4f51fa"
  }
 ]
