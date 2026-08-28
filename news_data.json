@@ -1,5 +1,17 @@
 [
  {
+  "title": "Investors heartened by Warsh inflation talk, still uncertain about Fed action",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLW9HOXdFRGd4QWlJUHhlT0hzZEpqekl3UllCWkU2cW1BNmlzd0E4TGxSZVpIek5Vci1BM3RXNndHcGk4RWt3ZXVGV2NnMDBTQTJPNkNMUm1QVnpMdHRydXhwTFZqbTh2SDllNzdETEgydEhhWG1TVy1adWp5VDNDZEVMbWZnWWpxTGlLdEcxcm1oQ2YwenBaVy1KRUlsX1hVWS1BS0lhR21UNl93WFM4dVhWNEtHNHFZVWgtOGpUdUFITnBudmZhRA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Yatırımcılar Fed politikası hakkında belirsizliğe rağmen Warsh'ın enflasyon açıklamalarından umutlu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-28T23:01:03.130878+00:00",
+  "type": "news",
+  "cluster_id": "c81860cc1dfdd"
+ },
+ {
   "title": "Alihan Kuriş operasyonunda karar: 35 tutuklama...",
   "link": "https://www.cumhuriyet.com.tr/spor/alihan-kuris-operasyonunda-karar-35-tutuklama-2533273",
   "source": "Cumhuriyet",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-21T03:01:01.778323+00:00",
   "type": "news",
   "cluster_id": "c236dfddba44e"
- },
- {
-  "title": "Varlık barışı ile ‘gri liste’ arasında bağlantı yokmuş: Şimşek’in içi rahat",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/varlik-barisi-ile-gri-liste-arasinda-baglanti-yokmus-simsek-in-ici-rahat-2522418",
-  "source": "Cumhuriyet",
-  "summary_tr": "Hazine Bakanı Şimşek, varlık barışı düzenlemelerinin Türkiye'yi gri listeye sokacağı yönündeki eleştirilere karşı bunlar arasında bağlantı olmadığını savundu.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-21T02:01:01.963506+00:00",
-  "type": "news",
-  "cluster_id": "c4c7deddceb76"
  }
 ]
