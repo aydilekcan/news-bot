@@ -1,5 +1,29 @@
 [
  {
+  "title": "ABD donanmasÄ±nda bÃ¼tÃ§e krizi: MaaÅŸ hesaplarÄ±ndan fon aktarÄ±ldÄ±",
+  "link": "https://www.trthaber.com/haber/dunya/abd-donanmasinda-butce-krizi-maas-hesaplarindan-fon-aktarildi-955172.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD ordusunun İran karşı askeri harekati, ABD donanmasını mali krize sürükledi; maaş hesaplarından fon aktarıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-28T05:01:04.959452+00:00",
+  "type": "news",
+  "cluster_id": "c2b8e9f087b2f"
+ },
+ {
+  "title": "Üniversiteliler ev ararken dikkat! Kiralar uçtu, kentsel dönüşüm tuzağı başladı",
+  "link": "https://www.sozcu.com.tr/universiteliler-ev-ararken-dikkat-kiralar-uctu-kentsel-donusum-tuzagi-basladi-p353326",
+  "source": "Sözcü",
+  "summary_tr": "Üniversite kayıt döneminde kiralamalar önemli ölçüde arttı; ev sahipleri riskli binalarda yüksek fiyat talep ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-28T05:01:04.959452+00:00",
+  "type": "news",
+  "cluster_id": "c1d1412c808b5"
+ },
+ {
   "title": "Rusya'dan İngiltere'ye askeri üsleri vurma tehdidi",
   "link": "https://www.trthaber.com/haber/dunya/rusyadan-ingiltereye-askeri-usleri-vurma-tehdidi-955167.html",
   "source": "TRT Haber",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-19T23:01:02.591332+00:00",
   "type": "news",
   "cluster_id": "cbf651f74cdec"
- },
- {
-  "title": "Cansu Çamlıbel | İmamoğlu'nun avukatı Tora Pekin: Bu yargılamanın nereye gittiği besbelli, sonuç Ekrem Bey açısından ‘mahkûmiyet ve siyasî yasaktır’ diyebiliyorum!",
-  "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNRHFnTTA0a2NWcHFONmxTTXV1elRfWnY4ZHFDRkdHeUd6YWJVc20zWmJqbFIzV3c0VzIwRG9FMm5JZ3Y1OE5yOHZyOWZVRDc5SFpwNUNHUXVlZW9PSGkyOFUwZlM0c3lqNXp1clFxeFB3aVRTV1BMRW91dUx5OFRqTGprNldCc09UbTVlTXRzLVFwaDdESm5UYm5VYTRrNFQ1ZmZOaDJLRHhFNGYtMmw1TllSbm9fMW1ZN0Y2UUsyREpnQmNQUTJxQVFwTC1jbkJlSHdPYjRUMG12VnFRMlNPSW51RFVaZk5WVnRPMWFQczVMNDFXdjEwN2t4LVU0SnVZVFNjanZON2puQVJRZjluenJ0Z3d6UQ?oc=5",
-  "source": "T24",
-  "summary_tr": "İmamoğlu'nun avukatı Tora Pekin, davayı gözlemleyerek sonuç olarak mahkûmiyet ve siyasi yasağa işaret ettiğini belirtti.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-19T23:01:02.591332+00:00",
-  "type": "news",
-  "cluster_id": "ca35cb5ba2385"
- },
- {
-  "title": "17 US service members have died in the Iran war, reflecting a conflict fought largely in the air",
-  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR0hpOHR6RFNuWW1CU2M2ZXdqMVgta1lXUld6b2VBSTMzTXdicTQweDJZZ2RaQnhoenBYdExDN0ZtRjlsb3NxRTB4SGtCQUw2aW9jbWZHaWJsc3dhUjVXeDVPRm5NcVQxSVdITmxRbFdMTXlmVTBiWFFDUTNJbnJscWVYc2k?oc=5",
-  "source": "AP",
-  "summary_tr": "İran savaşında 17 ABD askerinin öldüğü, çatışmanın çoğunlukla hava operasyonları aracılığıyla yürütüldüğü açıklandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-19T23:01:02.591332+00:00",
-  "type": "news",
-  "cluster_id": "c5dbd9f2aa46d"
  }
 ]
