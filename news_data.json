@@ -1,5 +1,77 @@
 [
  {
+  "title": "Son dakika...Erdoğan ile Putin Bişkek’te görüşecek",
+  "link": "https://www.sozcu.com.tr/son-dakika-erdogan-ile-putin-biskek-te-gorusecek-p353550",
+  "source": "Sözcü",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, Rusya Devlet Başkanı Putin ile Bişkek'te görüşecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-28T17:01:10.780030+00:00",
+  "type": "news",
+  "cluster_id": "cbd4071371639"
+ },
+ {
+  "title": "VIEW Rate-hike expectations rise on Warsh speech at Jackson Hole",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSXBjd0lNNVhFZmdaUnNSRFVwa2F5X21TQmdickV5MmNQSjFtX2VjRHpPVzlYVWF2UWJieDY5RjFITTAxd2dOV2JQR0JZMXF6cVNFdmJER09lZHJ5TnBsN2YxMkZWM0ZVUnZ3YmNOdzIzYmV3WV9NU1VKZ2VCaldGVm1sX190VUVXTjMxOXdXa2RxZ0QwQmIxRHNHSjgxZEtzVjdTSG5R?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Fed üyesi Warsh'ın Jackson Hole konuşmasının ardından faiz artırımı beklentileri yükseldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-28T17:01:10.780030+00:00",
+  "type": "news",
+  "cluster_id": "c141cd2680dc6"
+ },
+ {
+  "title": "EXCLUSIVE: Russia's gasoline output drops to 70% of domestic demand late in August after drone attacks, sources say",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZFVVNVA5aWJkQWJuSlR2cEhkZTUyejJfU3QzMEJVWWNZT3BzaDI0SHB0OUJfcUtrcnFvNDhFR2hodEktMW9QWnkxb3dOZDBsTUxmS0pjcERvN0VmLXFDajhxNDBrcEFLS3diMzhKMHhnbExMdjh0YThOaUQ4cmRHOW1oQ081ZHpVdEJieGE5MnhONUlPRkhqc3FkaXQ3WmxLWEpoS09ManlqMXVkMHVQTXdTTE84TEo0NWZWRFM2ZjRfXzZZMGRweDNNc28?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya'nın benzin üretimi, ağustus sonu itibariyle drone saldırılarının ardından iç talebin %70'ine düştü.",
+  "metric": "Rusya benzin üretimi: talebin 70% seviyesine düşüş",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-28T17:01:10.780030+00:00",
+  "type": "news",
+  "cluster_id": "ca03030db43a4"
+ },
+ {
+  "title": "Erdoğan'dan ittifak açıklaması",
+  "link": "https://www.sozcu.com.tr/cumhurbaskani-erdogan-ihtilaflari-azaltmaya-calisiyoruz-p353555",
+  "source": "Sözcü",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, Türkiye ve İslam dünyasında ittifakları büyütmeyi amaçladıklarını söyledi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-28T17:01:10.780030+00:00",
+  "type": "news",
+  "cluster_id": "c5304b8e4a0da"
+ },
+ {
+  "title": "Cumhurbaşkanı Erdoğan: İsrail hükümeti tüm bölgemizi istikrarsızlığa sürüklemek için her türlü tahriki deniyor",
+  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-israil-hukumeti-tum-bolgemizi-istikrarsizliga-suruklemek-icin-her-turlu-tahriki-deniyor/4040363",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, İsrail hükümeti ve bölgenin istikrarsızlığa sürüklenmesi hakkında açıklama yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-28T17:01:10.780030+00:00",
+  "type": "news",
+  "cluster_id": "cd59e905eeae1"
+ },
+ {
+  "title": "Bakan Kurum: DOA uygulamasının ekonomimize yıllık yaklaşık 30 milyar liralık katkı sağlamasını öngörüyoruz",
+  "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-doa-uygulamasinin-ekonomimize-yillik-yaklasik-30-milyar-liralik-katki-saglamasini-ongoruyoruz/4040432",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Çevre Bakan Kurum, DOA uygulamasının ekonomiye yıllık yaklaşık 30 milyar liralık katkı sağlayacağını söyledi.",
+  "metric": "DOA ekonomik katkı: ~30 milyar lira/yıl",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-28T17:01:10.780030+00:00",
+  "type": "news",
+  "cluster_id": "cae04c6b13fa9"
+ },
+ {
   "title": "Fed Başkanı Warsh, enflasyon hedefe doğru ilerlemezse \"yapacak işleri olduğunu\" söyledi",
   "link": "https://www.aa.com.tr/tr/ekonomi/fed-baskani-warsh-enflasyon-hedefe-dogru-ilerlemezse-yapacak-isleri-oldugunu-soyledi/4040416",
   "source": "Anadolu Ajansı",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-20T20:01:18.933205+00:00",
   "type": "news",
   "cluster_id": "c31989cd00cf8"
- },
- {
-  "title": "Netanyahu will not be arrested in US, Trump says, as New York mayor mulls options",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM0FBLVV2MC1GcnJCd1YzRkhhaUVpVlI5dHZoRlJwZktDQXBkcHVKSTJKWTFIdVJaMmxlWmgwWmlueFNHMUtBWC1kX3RoZWhWcl9RX29feHJOLU03THVKZjRVbGJTMDhuR0lZNjMzQXdaRHFxV2xWZ3hjdWthUmVMWG9hN1kyVkhoeDljTnJhMUE5aTRkN1dxTlgwOVpqOTlIR0VWNWtHSF9nVXo2OU00TGw5YnVuUEVnQlE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, Netanyahu'nun ABD'de tutuklanmayacağını bildirdi; New York Belediye Başkanı seçenekleri değerlendiriyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-20T20:01:18.933205+00:00",
-  "type": "news",
-  "cluster_id": "c9e1569640916"
- },
- {
-  "title": "81 ilde 'Terör Suçları Soruşturma Bürosu' kurulacak",
-  "link": "https://www.diken.com.tr/81-ilde-teror-suclari-sorusturma-burosu-kurulacak/?utm_source=rss&utm_medium=rss&utm_campaign=81-ilde-teror-suclari-sorusturma-burosu-kurulacak",
-  "source": "Diken",
-  "summary_tr": "Adalet Bakanlığı tüm 81 ilde Terör Suçları Soruşturma Bürosu kurulmasını kararlaştırdı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-20T20:01:18.933205+00:00",
-  "type": "news",
-  "cluster_id": "c2b2d0d4ae5ba"
- },
- {
-  "title": "Adalet Bakanlığından tüm illere \"Terör Suçları Soruşturma Bürosu\" kurulması yazısı",
-  "link": "https://www.aa.com.tr/tr/gundem/adalet-bakanligindan-tum-illere-teror-suclari-sorusturma-burosu-kurulmasi-yazisi/4004091",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Adalet Bakanlığı tüm 81 ilde terör suçlarına ilişkin soruşturmaları daha etkin yürütmek amacıyla Terör Suçları Soruşturma Bürolarının kurulmasını emretti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-20T20:01:18.933205+00:00",
-  "type": "news",
-  "cluster_id": "c9cd4695be7d4"
- },
- {
-  "title": "İran bu defa da Ürdün'e saldırdı",
-  "link": "https://www.sozcu.com.tr/iran-bu-defa-da-urdun-e-saldirdi-p338218",
-  "source": "Sözcü",
-  "summary_tr": "Ürdün Ordusu İran tarafından gönderilen 3 füzeyi düşürdüğünü bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-20T19:01:05.665602+00:00",
-  "type": "news",
-  "cluster_id": "cc2d3414ba56c"
- },
- {
-  "title": "Ukraine's Zelenskiy meets commanders as street protests mount",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcDVzdmxJOV9IMFQ1QmVxa2JjM1FVWnVmU0ZaU1hLOERCamplcEplYkhsZHNUTk5NY2RpMjhIV0RCUjZ2LV9VSUNYZ1pkbDVYZVMzc1NHcUJFZDZkWUowcGpiV18wYlR2Y1o5a1FGZEk3eVZSanVfR0FLc3dxSldmQUZHSmg2N2ljb2VSQXctUVFkaFFEaU9DT3JtcXlndkRj?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Zelenskiy komutanlarla görüşüyor; sokak protestoları artıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-20T19:01:05.665602+00:00",
-  "type": "news",
-  "cluster_id": "c6258d12b24d6"
- },
- {
-  "title": "Yemen’s Iranian-backed Houthis say they will block Saudi shipping at Red Sea gateway",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeUxVTTdGN3I2VHpkcGVLZFAzeXZlSjh3TmVGaXpPVjlsdG5iMEtmR1hscHVmbnlNQjBVYUVoTFI1c2Q2VS15SDVfSTVPb3FjM1FFMVREY0NKdk1hQ2Y2SGhkN3hvN2p2NHk1MTd0RU1HbDJvM3ZDTGhvQmpBNzBLQ1hpNk1mNjhpQmNxUmMtMnJ1Vk45N25lN3NBUQ?oc=5",
-  "source": "AP",
-  "summary_tr": "Yemen'in İran destekli Husiler, Kızıldeniz'de Suudi gümrük geçidinde gemi trafiğini engelleyeceklerini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-20T19:01:05.665602+00:00",
-  "type": "news",
-  "cluster_id": "c1b2c35187ba5"
  }
 ]
