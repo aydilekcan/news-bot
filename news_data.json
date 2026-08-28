@@ -1,5 +1,65 @@
 [
  {
+  "title": "Japan spent record $96.5 billion to support yen over past month, ministry data shows",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNb2g5MFFMM3ByaEYxQkEyZ1JCUTBkdTdkLXlxT2FrOVgyYUMzZlZYcmc0dXlJc0VJUWYzejZ2Ql93REdibHdmNGxDZUREUUxUbW5uUktJN1JBUXg0d1pRUGRCdldpUmNOVGpLUGlQTDZpbkNKNnF2enhYSC1mN2xBbEh0YWRrckFaSlptQmVsNDkzcmZtQjEwUEhsNmJrN2xySVNxbnpDeVZoRDdsX3U5NFUtSVUwTU9FTHZSSkM2b3hHRDJ6X0FkZVRTbHNHZw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Japonya geçen ay yen desteklemesi için rekor düzeyde 96,5 milyar dolar harcadı; ülke para biriminin zayıflamasıyla mücadele ediyor.",
+  "metric": "Yen destekleme harcaması: 96,5 milyar dolar (rekor)",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-28T14:01:16.466943+00:00",
+  "type": "news",
+  "cluster_id": "c99a8b41fff02"
+ },
+ {
+  "title": "Tahran’dan dünyaya çağrı: ABD yaptırımlarını uygulamayın",
+  "link": "https://www.cumhuriyet.com.tr/dunya/tahran-dan-dunyaya-cagri-abd-yaptirimlarini-uygulamayin-2533168",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran Dışişleri Bakanlığı, ABD'nin yeni yaptırımlarını 'yasa dışı' ve 'ekonomik terörizm' olarak nitelendirerek dünyaya karşı çıkış çağrısı yaptı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-28T14:01:16.466943+00:00",
+  "type": "news",
+  "cluster_id": "cd310a70d9bb4"
+ },
+ {
+  "title": "İran'dan dünyaya \"ABD'nin yeni yaptırımlarını uygulamayın\" çağrısı",
+  "link": "https://www.aa.com.tr/tr/dunya/irandan-dunyaya-abdnin-yeni-yaptirimlarini-uygulamayin-cagrisi/4040274",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Dışişleri Bakanlığı, ABD'nin yeni yaptırımlarını 'yasa dışı' ve 'ekonomik terörizm' şeklinde niteleyerek dünyaya karşı çıkış çağrısı yaptı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-28T14:01:16.466943+00:00",
+  "type": "news",
+  "cluster_id": "cd310a70d9bb4"
+ },
+ {
+  "title": "Bakan Göktaş: 2025 yılı itibarıyla doğan her çocuğa destek sunuyoruz",
+  "link": "https://www.aa.com.tr/tr/gundem/bakan-goktas-2025-yili-itibariyla-dogan-her-cocuga-destek-sunuyoruz/4040286",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, 2025 yılından itibaren doğan her çocuğa devlet desteği sunulacağını duyurdu.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-28T14:01:16.466943+00:00",
+  "type": "news",
+  "cluster_id": "c2f40d4a52333"
+ },
+ {
+  "title": "İslam ülkelerine ihracat (ilk 7 ay): 41,5 milyar dolar (2025 ilk 7 ay)",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVBZcV9GajQ3LVRCamxrWkYyU3hzWnRmU0JvMzJmUFU3dWRNREQ4RUtQc1NvWWFXOERuOTAwZ1FPSTlTM2RVaHAxWXNJVFAyMEhQeGNSeGpZVEcxZkJOa0tMV24zRllmRGc1cklpalVDZEQyQ1gxOHpBYmpqOHV1WGhrdW5xdHFNdTNIVG5VUnhjUmVObEluTndwaHVzNW5MVnFFT1NqQVRXcmlqcFJQNGVJeUpaU0ZPOXlUa3p1T3Bud0HSAcgBQVVfeXFMUHd1UlBzSjU2OGRlQ2VQUDRmbTVCT2pEcmc5LW95VVU4aEFXNDlERE9ESG12TzVhNmdzc0FmUE1ubC1FaE55VWlmOXV6VkYzUFFacEJwcVd1c2NWbEt5b3pDZkhuZHJBcTdnSl9vendQZDRUdWxhS3NjRlQxS3lQQ2I3OElsUnZoa1dSQllEalNYZm45NzlJN2wzVUg4RkZxd0tUdzczdHZISFFBTENpY1JXQ3loZnBjY05oMUszQml6R1NPZ0NmTHQ?oc=5",
+  "source": "Ticaret Bakanlığı",
+  "summary_tr": "41,5 milyar dolar",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-28T14:01:16.466943+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Japonya’dan yene tarihi müdahale: 96 milyar dolarlık hamle",
   "link": "https://www.sozcu.com.tr/japonya-dan-yene-tarihi-mudahale-96-milyar-dolarlik-hamle-p353505",
   "source": "Sözcü",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-20T18:01:11.367248+00:00",
   "type": "news",
   "cluster_id": "cbf9474e40e5b"
- },
- {
-  "title": "ABD'de ortalama benzin fiyatı, Orta Doğu'daki gerilimle yeniden 4 dolara çıktı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/abdde-ortalama-benzin-fiyati-orta-dogudaki-gerilimle-yeniden-4-dolara-cikti/4004008",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD'de benzin fiyatı Orta Doğu gerilimi ve petrol dalgalanmalarıyla galon başına 4 dolara yükseldi.",
-  "metric": "Benzin fiyatı (ABD ortalama) galon başına 4 dolar",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-20T18:01:11.367248+00:00",
-  "type": "news",
-  "cluster_id": "c3d82ed5d8e68"
- },
- {
-  "title": "Ortega says Nicaragua will no longer hold elections",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYXJ3V1RkU0g0cGlJZVQ3d2szc184eVBWc21KR29wb05CNDZmX0dIaGpQNU9UU1BWV3JHcW4wZmNOa0p5d1FrOFJaRGxvcDNQcUI0ejRGRUxsbVNPd1dORGdyYmRLd2JMQl9oa09FZEEyLUFMTm5IMldneDNDOEM1cmJEYjVTSVBaLWVIR2l2ZkRYV2RJNGpETkFINk8xZVhHWnFsQQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Nikaragua Lideri Daniel Ortega, ülkede artık seçim yapılmayacağını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-20T18:01:11.367248+00:00",
-  "type": "news",
-  "cluster_id": "c082c288e5500"
- },
- {
-  "title": "İran devlet televizyonu: ABD ordusu, İranın Merkezi eyaletinde bir sanayi birimine saldırı düzenledi",
-  "link": "https://www.trthaber.com/haber/dunya/iran-devlet-televizyonu-abd-ordusu-iranin-merkezi-eyaletinde-bir-sanayi-birimine-saldiri-duzenledi-951720.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran devlet televizyonu, ABD ordusunun İranın Merkezi eyaletindeki Humeyn şehrindeki bir sanayi birimine saldırı düzenlediğini bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-20T17:01:05.771406+00:00",
-  "type": "news",
-  "cluster_id": "c9b76dc8632ea"
- },
- {
-  "title": "İmralı Heyeti'nin Öcalan'la görüşmesi sona erdi: 5 saat sürdü",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/imrali-heyeti-nin-ocalan-la-gorusmesi-sona-erdi-5-saat-surdu-2522433",
-  "source": "Cumhuriyet",
-  "summary_tr": "DEM Parti İmralı Heyeti, PKK lideri Abdullah Öcalan ile 5 saat süren görüşmeyi tamamladı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-20T17:01:05.771406+00:00",
-  "type": "news",
-  "cluster_id": "ce4287f550983"
- },
- {
-  "title": "DEM İmralı Heyeti, Öcalan ile görüştü",
-  "link": "https://www.sozcu.com.tr/dem-parti-imrali-heyeti-ile-abdullah-ocalan-gorustu-p338194",
-  "source": "Sözcü",
-  "summary_tr": "DEM İmralı Heyeti, PKK elebaşı Abdullah Öcalan ile yaklaşık 5 saat süren görüşme gerçekleştirdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-20T17:01:05.771406+00:00",
-  "type": "news",
-  "cluster_id": "ce550f8609360"
  }
 ]
