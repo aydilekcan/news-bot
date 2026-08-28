@@ -1,5 +1,17 @@
 [
  {
+  "title": "Russia bombards Kyiv and other cities in onslaught testing Ukraine’s defenses",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQURoUEhEcFk3STd0XzZscFVBTHBnRzV2LVRsVDdpM1UzU2V2TzJwbmU4OS1xeVZuOFlSQUNaYktJV0czSjhvdTZVdlpLOUJoaVFvNllrYTByTHQ0ZFlnc3VLeFZWa3VneTFyVUZvTnhUQWpCUGFLMmlIb1RqNEFYVnFVSUNIOGxHWVRGUko5TXhYVkw0RXZuU2UyeUNzS1Ra?oc=5",
+  "source": "AP",
+  "summary_tr": "Rusya, Kyiv ve diğer Ukrayna şehirlerini yoğun bombardıman ile saldırıya tuttu; Ukrayna'nın savunma kapasitesi test ediliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-28T02:00:59.231094+00:00",
+  "type": "news",
+  "cluster_id": "c989a26f9212d"
+ },
+ {
   "title": "Kuru incirde maliyet, kuraklık ve ihracat baskısı büyüyor: Üretici tedirgin",
   "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/kuru-incirde-maliyet-kuraklik-ve-ihracat-baskisi-buyuyor-uretici-tedirgin-2532871",
   "source": "Cumhuriyet",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-19T22:00:59.152367+00:00",
   "type": "news",
   "cluster_id": "c0e3fad4f51fa"
- },
- {
-  "title": "TBMM Başkanı Kurtulmuş’tan siyasi partilere 'çerçeve yasa' turu: Programı belli oldu",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/tbmm-baskani-kurtulmus-tan-siyasi-partilere-cerceve-yasa-turu-programi-belli-oldu-2522203",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM Başkanı Kurtulmuş, siyasi partilere 'çerçeve yasa' konusunda turu başlattı; programı tatile girmeden sunulacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-19T21:00:59.508887+00:00",
-  "type": "news",
-  "cluster_id": "c501e73b532a5"
  }
 ]
