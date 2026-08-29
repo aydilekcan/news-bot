@@ -1,5 +1,53 @@
 [
  {
+  "title": "IMF'den dünyayı sarsacak 'kripto' uyarısı: Sabitcoinler sistemi değiştiriyor!",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/imf-den-dunyayi-sarsacak-kripto-uyarisi-sabitcoinler-sistemi-degistiriyor-2533345",
+  "source": "Cumhuriyet",
+  "summary_tr": "IMF Başkanı Georgieva, Jackson Hole Sempozyumu'nda tokenizasyon ve sabitcoinlerin sınır ötesi ödemeleri etkilediği konusunda uyarı yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-29T11:01:06.702277+00:00",
+  "type": "news",
+  "cluster_id": "cf5f832b3e3f9"
+ },
+ {
+  "title": "Deprem sigortasında kritik değişiklik: 6 ay süre verildi, tüm kurallar yenilendi!",
+  "link": "https://www.sozcu.com.tr/deprem-sigortasinda-kritik-degisiklik-6-ay-sure-verildi-tum-kurallar-yenilendi-p353716",
+  "source": "Sözcü",
+  "summary_tr": "DASK deprem sigortası yönetmeliği yenilendi; Resmi Gazete'de yayınlanan düzenleme ile fon yönetimi ve satın alma kuralları değiştirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-29T11:01:06.702277+00:00",
+  "type": "news",
+  "cluster_id": "ce2765e151912"
+ },
+ {
+  "title": "Ehliyet sınavında yeni dönem: Yıllardır uygulanan sistem komple kaldırılıyor",
+  "link": "https://www.sozcu.com.tr/ehliyet-sinavinda-yeni-donem-yillardir-uygulanan-sistem-komple-kaldiriliyor-p353713",
+  "source": "Sözcü",
+  "summary_tr": "Milli Eğitim Bakanlığı direksiyon sınavı sisteminde tarihî değişiklik yaptı; yıllardır uygulanan sistem kaldırıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-29T11:01:06.702277+00:00",
+  "type": "news",
+  "cluster_id": "c8f6f81459271"
+ },
+ {
+  "title": "Elektrik santrallerine temmuzda 660 milyon liralık kapasite mekanizması desteği",
+  "link": "https://www.aa.com.tr/tr/ekonomi/elektrik-santrallerine-temmuzda-660-milyon-liralik-kapasite-mekanizmasi-destegi/4040917",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "TEİAŞ, 16 elektrik üretim santralına temmuz ayı için 660 milyon lira kapasite mekanizması desteği ödeyecek.",
+  "metric": "Kapasite mekanizması desteği: 660 milyon TL",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-29T11:01:06.702277+00:00",
+  "type": "news",
+  "cluster_id": "c0c8b21f7781e"
+ },
+ {
   "title": "ABD-Venezuela arasında tarihi petrol anlaşması: Yüzde 55 kontrol sağlayacak",
   "link": "https://www.cumhuriyet.com.tr/dunya/abd-venezuela-arasinda-tarihi-petrol-anlasmasi-yuzde-55-kontrol-saglayacak-2533331",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-21T10:01:34.136258+00:00",
   "type": "news",
   "cluster_id": "cf0c64e6b8356"
- },
- {
-  "title": "70 yıllık silahla son teknoloji füzeleri vurulunca ülke rezil oldu",
-  "link": "https://www.sozcu.com.tr/70-yillik-silahla-son-teknoloji-fuzeleri-vurulunca-ulke-rezil-oldu-p338414",
-  "source": "Sözcü",
-  "summary_tr": "Ukrayna 1950'ler teknolojisindeki İsveç topuyla 500 kilometre menzilli Rus füzelerini başarıyla düşürmüştür.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T10:01:34.136258+00:00",
-  "type": "news",
-  "cluster_id": "ca367a5379e4e"
- },
- {
-  "title": "İngiltere'de işsizlik mart-mayıs döneminde arttı",
-  "link": "https://www.sozcu.com.tr/ingiltere-de-issizlik-mart-mayis-doneminde-artti-p338408",
-  "source": "Sözcü",
-  "summary_tr": "İngiltere'de işsizlik oranı mart-mayıs döneminde %4,9 seviyesinde gerçekleşmiş, bir önceki döneme kıyasla artmıştır.",
-  "metric": "İngiltere işsizlik oranı %4,9",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T10:01:34.136258+00:00",
-  "type": "news",
-  "cluster_id": "c90f40298fd3d"
- },
- {
-  "title": "Almanya'da yatırımcı güveni temmuzda arttı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/almanyada-yatirimci-guveni-temmuzda-artti/4004541",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Almanya'da temmuzda kurumsal yatırımcı ve analistlerin ekonomiye güveni güçlü artış göstermiştir.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T10:01:34.136258+00:00",
-  "type": "news",
-  "cluster_id": "c55550744f339"
- },
- {
-  "title": "Ticaret Bakanlığından 6 ayda 57 ülkeyle ticaret diplomasisi atağı",
-  "link": "https://www.trthaber.com/haber/ekonomi/ticaret-bakanligindan-6-ayda-57-ulkeyle-ticaret-diplomasisi-atagi-951780.html",
-  "source": "TRT Haber",
-  "summary_tr": "Ticaret Bakanlığı, yılın ilk yarısında ihracatın artırılması amacıyla 57 ülkeyle ticaret diplomasisi atağı gerçekleştirmiştir.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T10:01:34.136258+00:00",
-  "type": "news",
-  "cluster_id": "c933a2000cb50"
  }
 ]
