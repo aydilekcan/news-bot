@@ -1,5 +1,41 @@
 [
  {
+  "title": "Isparta'da emeklilerden 'geçim sıkıntısı' tepkisi: 'Ne yapalım hırsızlık mı yapalım?'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/isparta-da-emeklilerden-gecim-sikintisi-tepkisi-ne-yapalim-hirsizlik-mi-yapalim-2533301",
+  "source": "Cumhuriyet",
+  "summary_tr": "Isparta'da emekliler, artan gıda, kira, elektrik ve su fiyatları nedeniyle geçim sıkıntısı çektiğini söyledi. Temel yaşam giderleri emeklilerin bütçesini aşarak gelir-gider dengesini bozdu.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-08-29T08:01:05.892547+00:00",
+  "type": "news",
+  "cluster_id": "c3d75cf34ded7"
+ },
+ {
+  "title": "Türkiye'nin enerji ithalatında rota değişikliği: Zirve artık ABD'nin",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/turkiye-nin-enerji-ithalatinda-rota-degisikligi-zirve-artik-abd-nin-2533300",
+  "source": "Cumhuriyet",
+  "summary_tr": "Türkiye'nin enerji ithalatında uzun yıllardır süren Rusya hakimiyeti yerini ABD'ye bırakmaya başladı. Yılın ilk dört ayında sıfırdan başlayan ABD enerji ithalatı artış gösteriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-29T08:01:05.892547+00:00",
+  "type": "news",
+  "cluster_id": "c60f4abf0d9f3"
+ },
+ {
+  "title": "EPDK, doğal gaz, akaryakıt ve LPG tarifelerine ilişkin düzenlemeye gitti",
+  "link": "https://www.aa.com.tr/tr/ekonomi/epdk-dogal-gaz-akaryakit-ve-lpg-tarifelerine-iliskin-duzenlemeye-gitti/4040772",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "EPDK, doğal gaz, akaryakıt ve LPG tarifelerine ilişkin düzenlemeler gerçekleştirdi. Enerji fiyatlandırması konusunda regulatif önlem alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-29T08:01:05.892547+00:00",
+  "type": "news",
+  "cluster_id": "ce30021292ffc"
+ },
+ {
   "title": "Bakan Gürlek duyurdu: Gülistan Doku soruşturmasında 5. dalga operasyon: Çok sayıda gözaltı var",
   "link": "https://www.cumhuriyet.com.tr/turkiye/bakan-gurlek-duyurdu-gulistan-doku-sorusturmasinda-5-dalga-operasyon-cok-sayida-gozalti-var-2533291",
   "source": "Cumhuriyet",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-21T08:01:05.842679+00:00",
   "type": "news",
   "cluster_id": "c7d45fcdaeaa2"
- },
- {
-  "title": "Trump’tan İran’a saldırı mesajı: Aksine karar verene kadar sürecek",
-  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-iran-a-saldiri-mesaji-aksine-karar-verene-kadar-surecek-2522525",
-  "source": "Cumhuriyet",
-  "summary_tr": "Trump, İran'a yönelik saldırıları 'aksine karar verene kadar' sürdüreceğini ancak iki ülke arasında görüşmelerin de devam ettiğini belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-21T07:01:21.718407+00:00",
-  "type": "news",
-  "cluster_id": "c20b5ea19db15"
- },
- {
-  "title": "ABDnin İranın güney ve orta bölgelerine yönelik saldırıları gece boyunca sürdü",
-  "link": "https://www.trthaber.com/haber/dunya/abdnin-iranin-guney-ve-orta-bolgelerine-yonelik-saldirilari-gece-boyunca-surdu-951751.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD, İran'ın güney ve orta bölgelerine yönelik saldırılarını gece boyunca sürdürdü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-21T07:01:21.718407+00:00",
-  "type": "news",
-  "cluster_id": "c860a2e364fc6"
- },
- {
-  "title": "İran: Bahreyn'deki Amazon veri merkezini vurduk",
-  "link": "https://www.diken.com.tr/iran-bahreyndeki-amazon-veri-merkezini-vurduk/?utm_source=rss&utm_medium=rss&utm_campaign=iran-bahreyndeki-amazon-veri-merkezini-vurduk",
-  "source": "Diken",
-  "summary_tr": "İran Devrim Muhafızları, Bahreyn'deki Amazon veri merkezini vurduğunu açıkladı. ABD-İran gerilimi tırmanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T07:01:21.718407+00:00",
-  "type": "news",
-  "cluster_id": "cc0d796bae2c9"
  }
 ]
