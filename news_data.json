@@ -1,5 +1,17 @@
 [
  {
+  "title": "Türkiye'de sıfır vergi, Almanya'da milyonlarca avro: Melih Gökçek'e soruşturma",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdlZKdWhoNHF5NUVkQ25CWm9kX240NXl5ZWtpaElLVVptMjgxWUhEQnJpTUhodnk3d3Z1YUFLTzdDRzlEanhqU1M1ZGtiaFNRVDQwMUt0bTZfeUZYeTNPRXBwVE54S21BSU5WMkJsVmJaaUdYYzJyTldUS25KeEllRWhjUm5vZDVkMEtsUWJEaHF6LVFyUVZLMjBMSXBYUDhNWlVxNVMycENyX0tqdHV1bQ?oc=5",
+  "source": "soL",
+  "summary_tr": "Melih Gökçek hakkında Türkiye'de vergi soruşturması açılırken, Almanya'da milyonlarca avro ile ilgili bilgiler ortaya çıktı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-29T23:00:59.595632+00:00",
+  "type": "news",
+  "cluster_id": "c312b33fd61fc"
+ },
+ {
   "title": "Ağırel'in 'Almanya’da milyonluk bina' haberinin ardından... Ankara Cumhuriyet Başsavcılığı’ndan Gökçek soruşturması",
   "link": "https://www.cumhuriyet.com.tr/turkiye/ankara-cumhuriyet-bassavciligi-ndan-gokcek-hakkinda-sorusturma-aciklamasi-2533469",
   "source": "Cumhuriyet",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-21T12:01:09.779171+00:00",
   "type": "news",
   "cluster_id": "c5a0f92cd3397"
- },
- {
-  "title": "İranlı Bakan'dan savaşı durdurmak için son hamle",
-  "link": "https://www.sozcu.com.tr/iranli-bakan-dan-savasi-durdurmak-icin-son-hamle-p338439",
-  "source": "Sözcü",
-  "summary_tr": "ABD-İran çatışmasının 10. gününde İranlı Bakan ateşkesi kurtarmak için diplomatik hamle yapmaya hazırlanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-21T12:01:09.779171+00:00",
-  "type": "news",
-  "cluster_id": "c0c730b13ac0a"
  }
 ]
