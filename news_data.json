@@ -1,5 +1,17 @@
 [
  {
+  "title": "Ağırel'in 'Almanya’da milyonluk bina' haberinin ardından... Ankara Cumhuriyet Başsavcılığı’ndan Gökçek soruşturması",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/ankara-cumhuriyet-bassavciligi-ndan-gokcek-hakkinda-sorusturma-aciklamasi-2533469",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ankara Cumhuriyet Başsavcılığı, eski Ankara Büyükşehir Belediye Başkanı Melih Gökçek hakkında yurt dışındaki şirketlere kayıt dışı para transferi iddiasıyla soruşturma başlattı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-29T21:00:57.793301+00:00",
+  "type": "news",
+  "cluster_id": "c2cb7cae55853"
+ },
+ {
   "title": "Son dakika...Dışişleri'nden İsrail'e sert tepki",
   "link": "https://www.sozcu.com.tr/son-dakika-disisleri-nden-israil-e-sert-tepki-p353801",
   "source": "Sözcü",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-21T12:01:09.779171+00:00",
   "type": "news",
   "cluster_id": "c0c730b13ac0a"
- },
- {
-  "title": "Rusya: NATO askerlerinin Ukrayna'ya konuşlandırılmasına izin veremeyiz",
-  "link": "https://www.aa.com.tr/tr/dunya/rusya-nato-askerlerinin-ukraynaya-konuslandirilmasina-izin-veremeyiz/4004657",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Kremlin sözcüsü Peskov, NATO askerlerinin Ukrayna'ya konuşlandırılmasının kabul edilemez olduğunu belirtti.",
-  "metric": "",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-07-21T12:01:09.779171+00:00",
-  "type": "news",
-  "cluster_id": "c19f796a1e0d0"
  }
 ]
