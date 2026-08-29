@@ -1,5 +1,17 @@
 [
  {
+  "title": "Russia says it has captured three villages in Ukraine's Donetsk and Sumy regions",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGNCcHVYQ3R1bndna3lIMGktS3JzQ08xSVZTV3k3SERPd1N2b2l0ajRYdzZqcDRQWWdQekRSUUs0OTg1dERHUHVOUEZwak1xek1jeVlVQjkwOFZUT1N3cEdNRUx4LWxEcXY0T1JNQm9DOUltZkFyeTFzUmlHYUVVY0E3MWZuRWR4djUzdmN6UTNCdi1ySUdFUi1lTWRaVWxldEZ3Q1k5V0JXaDlQN2Qzczg0cjQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya, Ukrayna'nın Donetsk ve Sumy bölgelerinde üç köy ele geçirdiğini duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-29T17:01:10.979264+00:00",
+  "type": "news",
+  "cluster_id": "c01784bead658"
+ },
+ {
   "title": "Rekabet Kurulundan Paramount Skydance'in Warner Bros Discovery'i devralmasına koşullu izin",
   "link": "https://www.aa.com.tr/tr/ekonomi/rekabet-kurulundan-paramount-skydancein-warner-bros-discoveryi-devralmasina-kosullu-izin/4041105",
   "source": "Anadolu Ajansı",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-21T12:01:09.779171+00:00",
   "type": "news",
   "cluster_id": "cb9cb8fb1d5df"
- },
- {
-  "title": "Oğuzhan Uğur neden tutuklandı, hakkındaki suçlamalar neler?",
-  "link": "https://www.dw.com/tr/oğuzhan-uğur-neden-tutuklandı-hakkındaki-suçlamalar-neler/a-78048788?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Oğuzhan Uğur villa alımı, Gain ödemeleri ve para transferleri nedeniyle tutuklandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-21T12:01:09.779171+00:00",
-  "type": "news",
-  "cluster_id": "cf9d041ce23e6"
  }
 ]
