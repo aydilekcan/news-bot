@@ -1,5 +1,65 @@
 [
  {
+  "title": "Trump: Venezuela ile dünya tarihinin en büyük petrol anlaşmasına imza attık",
+  "link": "https://www.trthaber.com/haber/dunya/trump-venezuela-ile-dunya-tarihinin-en-buyuk-petrol-anlasmasina-imza-attik-955266.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Başkanı Trump, Venezuela ile 65 milyar varil petrol üzerinde kontrol sağlayan \"dünya tarihinin en büyük petrol anlaşması\"na vardığını duyurdu.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-29T01:01:01.172564+00:00",
+  "type": "news",
+  "cluster_id": "cd0b2ad195b44"
+ },
+ {
+  "title": "Trump says US is taking partial control of Venezuela's vast oil reserves",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbDBRX1E5WWItYWoycXJDSUZhMWJaZUthYmJUcTFqcTA3MGJLZnVPS1dQcWZyeW1FbW9wYnRBNS1OSlVyM0VXN3BIV01IVl8tMmdjQzByaGxIcmVQSnRDSjRiTXdtdEkza1hkdDJQcGNzYXY4OGkzOGZpS1pFMUtyaVFXenBXalpHUTNnZGhZUl92bklLcUg5OVhVMWkzaWxvYWN6S05oN0w3dw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, ABD'nin Venezuela'nın geniş petrol rezervleri üzerinde kısmi kontrol aldığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-29T01:01:01.172564+00:00",
+  "type": "news",
+  "cluster_id": "c45fa3bf6235f"
+ },
+ {
+  "title": "Trump says US has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPandFWnE5LWFYSWl5SEtwWmlTZVF3cXp2WDFlNVBEdXNUQjVtR0NUTktzS24wb1VYdDdRZVpVQmR4SjhvblU2QzFVLS1DS0xtYnVUb2tTclhweEFZUHhPYVVtWlpxNVRxYUQ2QkJiWDhBNVFJQUt1TTIxME9DM2EzTDZ0YUFCYm1FdGR0SFFzTkVmUQ?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump, ABD'nin Venezuela ile 65 milyar varil petrol rezervi üzerinde kontrol sağlayan anlaşmaya girdiğini duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-29T01:01:01.172564+00:00",
+  "type": "news",
+  "cluster_id": "c2fff26706e93"
+ },
+ {
+  "title": "Iran's navy says it has 'full control' over Strait of Hormuz",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObEVEVmRsZGlZT1pndE1fWjltanZVY1oxRXdCVU1TSXFWOUotb2RnamNaTVFacFVtb0xKWEotQ2xHUl9XUXQ3UlV2OUdtWWVNb25BakpUd0RYd0RyaDdxWHR5MUJXSXVfdm9WSnNqM1lNbHk1aUN2Qmp0MGxxSGZETzYxTlVBdzViQVd1d1pfVWN6eUpTVTRMa05SNzEzYjZHWlpSeWt0Z2dmR2xW?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran Donanması, Hormuz Boğazı üzerinde tam kontrol sahibi olduğunu bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-29T01:01:01.172564+00:00",
+  "type": "news",
+  "cluster_id": "cfe6eebc9d14f"
+ },
+ {
+  "title": "Chevron to complete deal in Venezuela to migrate, expand oil projects, sources say",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNjVMaGVWd1ZWUVUzYU15cjREcHFta0RvNVpwYlFoZXNhUlhyUndZdUU2Tk9UQXFET0JyLWE2Qi0yR1AtYVp2ZEQ3QlJKWTZSNjZGSmd0S2NCV09DdnY4WTBEaU5MczZ3aWpyZUFXYlI1Q3FKdURvUzEzeFFJWDQ2ckh2Nm11RDROVWI0Y0E3SXhHZGhudmhMbWNCWl9qcWlQYTE0Y2RqWWRrcGVPa1BVaTZobVp1c1FLNk95Y3J3MUo?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Chevron, Venezuela'da petrol projelerini taşımak ve genişletmek için anlaşmayı tamamlamaya hazırlanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-29T01:01:01.172564+00:00",
+  "type": "news",
+  "cluster_id": "c3e4d5194e7e0"
+ },
+ {
   "title": "Trump, Venezuela ile \"dünya tarihinin en büyük petrol anlaşmasını\" yaptıklarını açıkladı",
   "link": "https://www.aa.com.tr/tr/dunya/trump-venezuela-ile-dunya-tarihinin-en-buyuk-petrol-anlasmasini-yaptiklarini-acikladi/4040710",
   "source": "Anadolu Ajansı",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-21T05:01:05.656502+00:00",
   "type": "news",
   "cluster_id": "ce6c09396afd6"
- },
- {
-  "title": "Asian stocks rise as Mideast mediation takes oil lower",
-  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNlZ6UW5NX1ZjZ3BJZXota1l4Qnc0SjdPWnZGTmsybzNSTXM4cWl1YzlhQ3BnbGREVWVvdjdGNU1nY2c4aFIyMFBkR1J2VkFreGt4d2RQLUgySFd4VjlGLWhKT1hSNzRoa3dmdks2RHJYOGRxamQzTTk0U3g2NWtzZGhobXA?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Asya borsaları yükselişe geçti. Orta Doğu'da arabuluculuk çabası petrol fiyatlarını düşürdü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T05:01:05.656502+00:00",
-  "type": "news",
-  "cluster_id": "cc3e9b6a607e9"
- },
- {
-  "title": "Şeref Oğuz: Bölgesel asgari ücret, gelir dağılımını daha da bozacak",
-  "link": "https://www.diken.com.tr/seref-oguz-bolgesel-asgari-ucret-gelir-dagilimini-daha-da-bozacak/?utm_source=rss&utm_medium=rss&utm_campaign=seref-oguz-bolgesel-asgari-ucret-gelir-dagilimini-daha-da-bozacak",
-  "source": "Diken",
-  "summary_tr": "Ekonomist Şeref Oğuz, bölgesel asgari ücretin gelir dağılımını daha da bozacağı uyarısında bulundu.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-21T05:01:05.656502+00:00",
-  "type": "news",
-  "cluster_id": "c83448e2c9345"
- },
- {
-  "title": "Akif Beki: Tatil bize de ucuzlayacağı yerde Hans'a, George'a, gurbetçilerimize bile pahalandı",
-  "link": "https://www.diken.com.tr/akif-beki-tatil-bize-de-ucuzlayacagi-yerde-hansa-georgea-gurbetcilerimize-bile-pahalandi/?utm_source=rss&utm_medium=rss&utm_campaign=akif-beki-tatil-bize-de-ucuzlayacagi-yerde-hansa-georgea-gurbetcilerimize-bile-pahalandi",
-  "source": "Diken",
-  "summary_tr": "Turizm sektöründe yapılan indirimler yabancı turistlere yaradı, yerli tatil pahalandı. Turizm ekonomisinde fiyat dengesizliği eleştirildi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-21T05:01:05.656502+00:00",
-  "type": "news",
-  "cluster_id": "c88601c4f1244"
- },
- {
-  "title": "1 Ağustos'ta her şey değişiyor: Alışveriş yorumlarında yeni dönem başlıyor",
-  "link": "https://www.sozcu.com.tr/1-agustos-ta-her-sey-degisiyor-alisveris-yorumlarinda-yeni-donem-basliyor-p338276",
-  "source": "Sözcü",
-  "summary_tr": "1 Ağustos'tan itibaren Ticaret Bakanlığı e-ticaret dünyasını değiştirecek yeni kurallar yürürlüğe giriyor. Dijital pazarlama ve sosyal medya reklamları için yeni kriterler uygulanacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-21T05:01:05.656502+00:00",
-  "type": "news",
-  "cluster_id": "c87b85901c81a"
- },
- {
-  "title": "Japan protests Chinese live-fire drill in nearby waters",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYmIxbjdDQ0txTmw5SzlweXpoNXBFU2pIS1NGU2N0VGwxVlNGV05kU0N2TEtwRnhPU0lqNFJWbmtycFhsR3owd25BTTlheklQVXpkLWFRNk1KRFBlcGpkNV9Nei1yclI2clA4MU5TcTl5TVpjTkxQQ1BGaGJpa2Vnc2tDbWVLSldNQ3Rfa3d2NGFhMHkyVDdfRFBWS0xVN0dwb0lWUjBqenR0VmM4?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Japonya, Çin'in yakın sularda gerçekleştirdiği canlı ateş tatbikatına karşı protesto gösterdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-21T05:01:05.656502+00:00",
-  "type": "news",
-  "cluster_id": "cc51394dd593b"
  }
 ]
