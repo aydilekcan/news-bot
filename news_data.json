@@ -1,5 +1,41 @@
 [
  {
+  "title": "Eğitim dönemi yaklaşırken çocukların çantası kırtasiye değil, geçim hesabına yol açıyor: Aile bütçesini aşıyor",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/egitim-donemi-yaklasirken-cocuklarin-cantasi-kirtasiye-degil-gecim-hesabina-yol-aciyor-aile-butcesini-asiyor-2533264",
+  "source": "Cumhuriyet",
+  "summary_tr": "Yeni eğitim yılında kırtasiye, kıyafet ve beslenme giderleri yoksul ailelerin bütçesini aşıyor; ekonomik eşitsizlik derinleşiyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-08-29T02:00:56.900378+00:00",
+  "type": "news",
+  "cluster_id": "cd51ea290e6b0"
+ },
+ {
+  "title": "Çerçeve yasa oylamasında AKP’den ‘kontrollü fire’: ‘Milliyetçi tabanla bağ korunmak istendi’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/cerceve-yasa-oylamasinda-akp-den-kontrollu-fire-milliyetci-tabanla-bag-korunmak-istendi-2533258",
+  "source": "Cumhuriyet",
+  "summary_tr": "AKP'nin çerçeve yasa oylamasında milliyetçi milletvekilleri Cumhurbaşkanı'nın bilgisi ve onayıyla katılmadı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-29T02:00:56.900378+00:00",
+  "type": "news",
+  "cluster_id": "cc129bf5ac2b0"
+ },
+ {
+  "title": "Ankara’da madencilerin direnişi sürüyor: İşçiler taksit seçeneğini kabul etmiyor",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/ankara-da-madencilerin-direnisi-suruyor-isciler-taksit-secenegini-kabul-etmiyor-2533254",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ankara Yıldızlar SSS Holding'de işçiler taksit seçeneğini kabul etmeyerek direnişlerine devam ediyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-29T02:00:56.900378+00:00",
+  "type": "news",
+  "cluster_id": "c5c9090b2b936"
+ },
+ {
   "title": "Trump: Venezuela ile dünya tarihinin en büyük petrol anlaşmasına imza attık",
   "link": "https://www.trthaber.com/haber/dunya/trump-venezuela-ile-dunya-tarihinin-en-buyuk-petrol-anlasmasina-imza-attik-955266.html",
   "source": "TRT Haber",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-21T05:01:05.656502+00:00",
   "type": "news",
   "cluster_id": "ccedacc6fb7dc"
- },
- {
-  "title": "Yurt dışı alışveriş patladı: Kart harcamalarında rekor artış",
-  "link": "https://www.dw.com/tr/yurt-dışı-alışveriş-patladı-kart-harcamalarında-rekor-artış/a-78038168?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Türk tüketiciler yurt dışı alışverişe yöneldi; kredi kartı harcamaları rekor kırdı. Yerli fiyatların yüksekliği yurt dışı satın alımı artırıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T05:01:05.656502+00:00",
-  "type": "news",
-  "cluster_id": "c601266d69f9c"
- },
- {
-  "title": "Akaryakıta zam geldi: Pompanın fiyatı değişti",
-  "link": "https://www.sozcu.com.tr/akaryakita-zam-geldi-pompanin-fiyati-degisti-p338277",
-  "source": "Sözcü",
-  "summary_tr": "Akaryakıta zam geldi. Küresel petrol fiyatlarının yükselmesi ve arz endişeleri motorin ve benzin fiyatlarını artırmaya devam ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T05:01:05.656502+00:00",
-  "type": "news",
-  "cluster_id": "c23707b938a8b"
- },
- {
-  "title": "ABD'den Kanada'ya yüzde 50'lik tarife hamlesi! Trump üç kararnameyi imzaladı",
-  "link": "https://www.sozcu.com.tr/abd-den-kanada-ya-yuzde-50-lik-tarife-hamlesi-trump-uc-kararnameyi-imzaladi-p338271",
-  "source": "Sözcü",
-  "summary_tr": "Trump yönetimi Kanada'ya yüzde 50'lik tarife uygulamak için üç kararnameyi imzaladı. ABD-Kanada ticaret gerilimi tırmanıyor.",
-  "metric": "ABD'nin Kanada tarifesi %50'ye yükseldi",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T05:01:05.656502+00:00",
-  "type": "news",
-  "cluster_id": "ce6c09396afd6"
  }
 ]
