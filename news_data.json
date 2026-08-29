@@ -1,5 +1,41 @@
 [
  {
+  "title": "Bakan Gürlek duyurdu: Gülistan Doku soruşturmasında 5. dalga operasyon: Çok sayıda gözaltı var",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/bakan-gurlek-duyurdu-gulistan-doku-sorusturmasinda-5-dalga-operasyon-cok-sayida-gozalti-var-2533291",
+  "source": "Cumhuriyet",
+  "summary_tr": "Adalet Bakanı Akın Gürlek, Gülistan Doku'nun kaybolmasıyla ilgili soruşturmada 5. dalga operasyonda çok sayıda gözaltı yapıldığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-29T07:01:05.551300+00:00",
+  "type": "news",
+  "cluster_id": "c1b9024e43783"
+ },
+ {
+  "title": "Gülistan Doku soruşturmasında 5. dalga operasyon: 10 gözaltı",
+  "link": "https://www.sozcu.com.tr/gulistan-doku-sorusturmasinda-5-dalga-operasyon-10-gozalti-p353649",
+  "source": "Sözcü",
+  "summary_tr": "Gülistan Doku soruşturmasında 5. dalga operasyonda 10 kişi gözaltına alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-29T07:01:05.551300+00:00",
+  "type": "news",
+  "cluster_id": "c1b9024e43783"
+ },
+ {
+  "title": "Türkiye'nin ham çelik üretimi temmuzda yıllık yüzde 7 arttı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-ham-celik-uretimi-temmuzda-yillik-yuzde-7-artti/4040742",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye'nin ham çelik üretimi temmuzda bir önceki yılın aynı ayına kıyasla yüzde 7 artarak 3,4 milyon tona çıktı.",
+  "metric": "Ham çelik üretimi (yıllık) %0 -> %7 (+%7)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-29T07:01:05.551300+00:00",
+  "type": "news",
+  "cluster_id": "c8d04de730693"
+ },
+ {
   "title": "Bilge Keykubat: Gıda enflasyonu ekonominin yapısal sorunlarından birine dönüşüyor",
   "link": "https://www.diken.com.tr/bilge-keykubat-gida-enflasyonu-ekonominin-yapisal-sorunlarindan-birine-donusuyor/?utm_source=rss&utm_medium=rss&utm_campaign=bilge-keykubat-gida-enflasyonu-ekonominin-yapisal-sorunlarindan-birine-donusuyor",
   "source": "Diken",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-21T07:01:21.718407+00:00",
   "type": "news",
   "cluster_id": "cc0d796bae2c9"
- },
- {
-  "title": "Gülistan Doku soruşturması: Eski vali Sonel'in eşi dahil 15 gözaltı",
-  "link": "https://www.diken.com.tr/gulistan-doku-sorusturmasi-eski-vali-sonelin-esi-dahil-15-gozalti/?utm_source=rss&utm_medium=rss&utm_campaign=gulistan-doku-sorusturmasi-eski-vali-sonelin-esi-dahil-15-gozalti",
-  "source": "Diken",
-  "summary_tr": "Gülistan Doku soruşturmasında eski vali Sonel'in eşi dahil 15 kişi gözaltına alındı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T07:01:21.718407+00:00",
-  "type": "news",
-  "cluster_id": "cf748da8fa4ab"
- },
- {
-  "title": "Savaş yeniden alevlendi: ABD vatandaşlarına 'hazırlıklı olun' çağrısı",
-  "link": "https://www.cumhuriyet.com.tr/dunya/savas-yeniden-alevlendi-abd-vatandaslarina-hazirlikli-olun-cagrisi-2522520",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Dışişleri Bakanlığı, Orta Doğu'daki artan gerilim nedeniyle vatandaşlarına dikkatli olmaları çağrısında bulundu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T07:01:21.718407+00:00",
-  "type": "news",
-  "cluster_id": "cf9daf438934f"
- },
- {
-  "title": "ABD'den yangınlarla boğuşan komşu ülkeye yüzde 50 ek vergi",
-  "link": "https://www.sozcu.com.tr/abd-den-yanginlarla-bogusan-komsu-ulkeye-yuzde-50-ek-vergi-p338322",
-  "source": "Sözcü",
-  "summary_tr": "ABD, Kanada'dan ithal edilen ürünlere yüzde 50 gümrük vergisi uygulamaya başladı.",
-  "metric": "ABD gümrük vergisi %50",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T07:01:21.718407+00:00",
-  "type": "news",
-  "cluster_id": "c02fff65db5db"
  }
 ]
