@@ -1,5 +1,53 @@
 [
  {
+  "title": "Gunfire, blasts heard in several areas of Niger capital Niamey, witnesses say",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUHkxZnBmQ0tpVkhlY1VBU01Nay1IUndmam9JYUZpQ0hrUk1pZ0xBM0lvLXJ4VnFXU19fdm9uRjZUNG5PM2JZOWZDc1pQZmlRejZFZGZnUHVjUWpQVjdvQkJSaXByUnVLeDNCSGYtOHFCM1NXMU9PbEVMVFFleUZCd2ZyRlNnbWNLRlk3b29tU0d2c3lfdThrYnVjemR1cnd2ZmlMLTFwN3lSWnJDSlFZ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Niger'in başkenti Niamey'de çeşitli bölgelerde silah sesleri ve patlamalar duyulmuştur.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-29T03:01:00.955226+00:00",
+  "type": "news",
+  "cluster_id": "c0e98fe299c63"
+ },
+ {
+  "title": "Pezeşkiyan: ABD'nin İslamabad Mutabakatı'nı uygulaması halinde Hürmüz Boğazı açılabilir",
+  "link": "https://www.trthaber.com/haber/dunya/pezeskiyan-abdnin-islamabad-mutabakatini-uygulamasi-halinde-hurmuz-bogazi-acilabilir-955269.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Cumhurbaşkanı Pezeşkiyan, Umman ile Hürmüz Boğazı geçiş güzergahında anlaşma olduğunu ve ABD'nin uygulaması halinde boğazın açılabileceğini belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-29T03:01:00.955226+00:00",
+  "type": "news",
+  "cluster_id": "c6e536bc00aa2"
+ },
+ {
+  "title": "‘Kapitülasyon anlaşması’ onaylandı",
+  "link": "https://www.sozcu.com.tr/kapitulasyon-anlasmasi-onaylandi-p353606",
+  "source": "Sözcü",
+  "summary_tr": "Suudi Arabistan ile güneş enerjisi santrali anlaşması Cumhurbaşkanı Erdoğan tarafından onaylandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-29T03:01:00.955226+00:00",
+  "type": "news",
+  "cluster_id": "c5d438a941f5c"
+ },
+ {
+  "title": "Chinese memory chipmaker CXMT sues Pentagon over 'Chinese military company' designation",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTzlZZ0RUM29YdFNQNXEtM0ZoZ19GVGZUd0pWMl9SbzUzN2RtNnJkMXYyUnpPQjlYbUlKYmhOa3g4WXRGR1VYZ2JNckZKaG5XbGxDMUMwcEtDWU9HbXVHcnV1NHB3RkJ0b0VaRjA4X19pRXRIMGRmTkdPejVhU0FuQ25KaW1PZDJEVzVGUFJINGEtLXUtaEZLZm5CcElrQWZVOUVlLUEwUnBCc3RmM3prdQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin hafıza çipi üreticisi CXMT, Pentagon'un 'Çin askeri şirketi' ataması nedeniyle dava açtı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-29T03:01:00.955226+00:00",
+  "type": "news",
+  "cluster_id": "ceb9457820b19"
+ },
+ {
   "title": "Eğitim dönemi yaklaşırken çocukların çantası kırtasiye değil, geçim hesabına yol açıyor: Aile bütçesini aşıyor",
   "link": "https://www.cumhuriyet.com.tr/turkiye/egitim-donemi-yaklasirken-cocuklarin-cantasi-kirtasiye-degil-gecim-hesabina-yol-aciyor-aile-butcesini-asiyor-2533264",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-21T07:01:21.718407+00:00",
   "type": "data",
   "cluster_id": ""
- },
- {
-  "title": "ABD basını 'gizleniyor' iddiası üzerine ABD savaştaki kayıplarını açıkladı",
-  "link": "https://www.sozcu.com.tr/abd-basini-gizleniyor-iddiasi-uzerine-abd-savastaki-kayiplarini-acikladi-p338300",
-  "source": "Sözcü",
-  "summary_tr": "Pentagon, ABD'nin İran'a yönelik hava saldırılarından bu yana yaşanan çatışmalarda yaklaşık 100 askerini kaybettiğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T06:01:02.805115+00:00",
-  "type": "news",
-  "cluster_id": "c46bf2fda98e9"
- },
- {
-  "title": "US military completes its latest strikes on Iran, marking the 10th successive night of attacks",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWjlJZGJYNm5OYjczNWZJZkMxZGFGRFRJSHVGZjFaMS1KTkNfUTgzV2Y3Qk5VU0RDR0ZXOXBBUldobElBb0hRV2Y5MmlkR0pVNkNlN3RESGlzUlY2bnFBUFNJN3JaVmpyR3RzVkt0QTRVcklEQm05cmNIaUIyQkVJeWtzbi1sSk9XeFZpaURvUU1rM2hJLTMxcGJZa0RzdDFUcV8zdkNuQndVay0yYUc1Q3piMThnS2M2Wm1GMGNVREcxejFLNWxEcw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD ordusu İran'a yönelik ardı ardına 10. gece saldırılarını tamamladı; çatışmalar devam ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T06:01:02.805115+00:00",
-  "type": "news",
-  "cluster_id": "c0fe8499f7999"
- },
- {
-  "title": "İran: Hürmüz Boğazı'nda 2 petrol tankerinde patlama yaşandı",
-  "link": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazinda-2-petrol-tankerinde-patlama-yasandi-951747.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran basınına göre Hürmüz Boğazı'nda 2 petrol tankerinde patlama yaşandı; bölge enerji güvenliği açısından kritik öneme sahip.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-21T06:01:02.805115+00:00",
-  "type": "news",
-  "cluster_id": "c5252f3a18952"
- },
- {
-  "title": "Motorin 74 TL'yi aştı: Savaş ve arz krizi pompaya yansıyor",
-  "link": "https://www.dw.com/tr/motorin-74-tl-yi-aştı-savaş-ve-arz-krizi-pompaya-yansıyor/a-78039168?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Motorine 1 lira 12 kuruş zam geldi, fiyat 74 TL'yi aştı. Hürmüz Boğazı gerilimi ve küresel arz endişeleri akaryakıt fiyatlarını yükseltmeye devam ediyor.",
-  "metric": "Motorin fiyatı 74 TL üzerine çıktı",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-21T05:01:05.656502+00:00",
-  "type": "news",
-  "cluster_id": "ccedacc6fb7dc"
  }
 ]
