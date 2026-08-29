@@ -1,5 +1,65 @@
 [
  {
+  "title": "ABD, Peşmerge'ye yardımını kesmeyi planlıyor",
+  "link": "https://www.sozcu.com.tr/abd-pesmerge-ye-yardimini-kesmeyi-planliyor-p353744",
+  "source": "Sözcü",
+  "summary_tr": "ABD, Irak'taki birliklerini çekeceği 30 Eylül itibarıyla IKBY'ye sağladığı güvenlik yardımlarını kesmeyi planlıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-29T13:01:12.778725+00:00",
+  "type": "news",
+  "cluster_id": "c7fd5d8b1d115"
+ },
+ {
+  "title": "Rusya'nın Kiev yakınlarındaki depoya İHA saldırısı: Can kaybı 37'ye çıktı",
+  "link": "https://www.trthaber.com/haber/dunya/rusyanin-kiev-yakinlarindaki-depoya-iha-saldirisi-can-kaybi-37ye-cikti-955315.html",
+  "source": "TRT Haber",
+  "summary_tr": "Kiev yakınlarında Rus İHA saldırısında bir depoya isabet etti, patlamada en az 37 kişi hayatını kaybetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-29T13:01:12.778725+00:00",
+  "type": "news",
+  "cluster_id": "c21657d8d09d8"
+ },
+ {
+  "title": "Devlet Bahçeli'den partisinin Diyarbakır Kongresi'ne 'süreç' mesajı: 'Seçim' ayrıntısı dikkat çekti",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/devlet-bahceli-den-partisinin-diyarbakir-kongresi-ne-surec-mesaji-secim-ayrintisi-dikkat-cekti-2533364",
+  "source": "Cumhuriyet",
+  "summary_tr": "MHP lideri Devlet Bahçeli, Diyarbakır İl Kongresi'ne gönderdiği mesajda 'Terörsüz Türkiye' vizyonundan bahsetti.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-29T13:01:12.778725+00:00",
+  "type": "news",
+  "cluster_id": "ccb963f7b258e"
+ },
+ {
+  "title": "Bakan Kacır: Son 23 yılda 534 yatırım için teşvik belgesi düzenledik",
+  "link": "https://www.trthaber.com/haber/ekonomi/bakan-kacir-son-23-yilda-534-yatirim-icin-tesvik-belgesi-duzenledik-955316.html",
+  "source": "TRT Haber",
+  "summary_tr": "Sanayi ve Teknoloji Bakanı Kacır, son 23 yılda 534 yatırım için teşvik belgesi düzenlendiklerini belirtti.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-29T13:01:12.778725+00:00",
+  "type": "news",
+  "cluster_id": "c023c5ec7d68a"
+ },
+ {
+  "title": "Nijer Savunma Bakanlığı, Niamey'deki askeri hareketliliğin kontrol altına alındığını açıkladı",
+  "link": "https://www.trthaber.com/haber/dunya/nijer-savunma-bakanligi-niameydeki-askeri-hareketliligin-kontrol-altina-alindigini-acikladi-955311.html",
+  "source": "TRT Haber",
+  "summary_tr": "Nijer Savunma Bakanı, başkent Niamey'deki askeri hareketliliğin kontrol altına alındığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-29T13:01:12.778725+00:00",
+  "type": "news",
+  "cluster_id": "c3d2b8a925d70"
+ },
+ {
   "title": "IMF'den dünyayı sarsacak 'kripto' uyarısı: Sabitcoinler sistemi değiştiriyor!",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/imf-den-dunyayi-sarsacak-kripto-uyarisi-sabitcoinler-sistemi-degistiriyor-2533345",
   "source": "Cumhuriyet",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-21T10:01:34.136258+00:00",
   "type": "news",
   "cluster_id": "c6801cbc2f133"
- },
- {
-  "title": "Öcalan’dan ‘yasal düzenleme’ çağrısı: ‘Vakti geldi’",
-  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnR6bmxxRmdDanYtaDB6Rl9zdHViaG94MXdMV0VBWmlBb1NsSEg4aC05NmNUWktiV01LNUgxeENkWHRZemptMkdRcFhmTXJKNjB5ek52RzNMcl9MTFd3bHE3RnJIeThrR0RENThjdXM1VGpKMmk1dXJNa1BkeEdqeG9zancwN1BfRmJZ?oc=5",
-  "source": "soL",
-  "summary_tr": "Öcalan, yasal düzenleme çağrısında bulunmuş, 'vakti geldi' mesajı vermiştir.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-21T10:01:34.136258+00:00",
-  "type": "news",
-  "cluster_id": "c6801cbc2f133"
- },
- {
-  "title": "'Çerçeve yasa': Meclis Başkanı Kurtulmuş siyasi partilerle görüşüyor",
-  "link": "https://www.bbc.com/turkce/articles/cr596vd5n6no?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "TBMM Başkanı Kurtulmuş, siyasi parti liderleriyle 'çerçeve yasa' görüşmeleri yapıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T10:01:34.136258+00:00",
-  "type": "news",
-  "cluster_id": "ca07472e915d5"
- },
- {
-  "title": "Öcalan: Kürt-Türk tarihsel ittifakını hukuki zemine dönüştürmenin arifesindeyiz",
-  "link": "https://www.diken.com.tr/ocalan-kurt-turk-tarihsel-ittifakini-hukuki-zemine-donusturmenin-arifesindeyiz/?utm_source=rss&utm_medium=rss&utm_campaign=ocalan-kurt-turk-tarihsel-ittifakini-hukuki-zemine-donusturmenin-arifesindeyiz",
-  "source": "Diken",
-  "summary_tr": "Öcalan, Kürt-Türk tarihsel ittifakını hukuki zemine dönüştürmenin arifesinde olduğunu belirtmiştir.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-21T10:01:34.136258+00:00",
-  "type": "news",
-  "cluster_id": "c36c0156fa1b5"
- },
- {
-  "title": "Tüketici sayısı arttı, elektrik kullanımı düştü: Üretimde paylar belli oldu...",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/tuketici-sayisi-artti-elektrik-kullanimi-dustu-uretimde-paylar-belli-oldu-2522600",
-  "source": "Cumhuriyet",
-  "summary_tr": "EPDK raporuna göre elektrik piyasasında tüketici sayısı arttı (52,4 milyonun üzerine) ancak elektrik kullanımı düştü.",
-  "metric": "Tüketici sayısı 52,4 milyon üzerine çıktı",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T10:01:34.136258+00:00",
-  "type": "news",
-  "cluster_id": "ca5fb03169fa7"
- },
- {
-  "title": "Rusya yeni İngiliz Başbakanı'na silahlarla mesaj verdi",
-  "link": "https://www.sozcu.com.tr/rusya-yeni-ingiliz-basbakani-na-silahlarla-mesaj-verdi-p338416",
-  "source": "Sözcü",
-  "summary_tr": "Rusya Deniz Kuvvetleri savaş gemisi, İngiltere kıyılarından 40 deniz mili açıkta canlı mühimmat taşıyarak mesaj vermiştir.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T10:01:34.136258+00:00",
-  "type": "news",
-  "cluster_id": "cf0c64e6b8356"
  }
 ]
