@@ -1,5 +1,65 @@
 [
  {
+  "title": "ECB'den kritik sigorta hamlesi: Eylül ayında faizler yeniden artıyor mu?",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/ecb-den-kritik-sigorta-hamlesi-eylul-ayinda-faizler-yeniden-artiyor-mu-2533420",
+  "source": "Cumhuriyet",
+  "summary_tr": "Avrupa Merkez Bankası 10 Eylül'deki toplantısında faizleri yükseltmeye hazırlanıyor; Ortadoğu savaşı ve Euro riskleri değerlendiriliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-29T15:01:04.983934+00:00",
+  "type": "news",
+  "cluster_id": "ca9b81f02af4e"
+ },
+ {
+  "title": "Russian strike on Kyiv-area ammunition depot triggers blast, killing 37",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdk5FRC00VjkxVTRuVXJFam1IaTVqcmV6R2pXX2pJME1fYXkzSFc0NWoyQXpmdGxYeno1ejV0Rk9jZGd6bDliLUdqcm9fWF8ybFhNUmFHUnAxdkEzdnNSRFowYW1MTE1qSUxKTHJLQjZrak5tdkg0NEd4MkFhTDFGbmNYWlBFSlU3Sy0zRU9kM0FEMVpva3VoTy1Xbmd6NF9JZ04zRXROcUxyOVJEc0U1Q1hn?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rus saldırısı Kyiv yakınlarındaki cephane deposuna düzenlendi; patlamada 37 kişi öldü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-29T15:01:04.983934+00:00",
+  "type": "news",
+  "cluster_id": "cc876d861f062"
+ },
+ {
+  "title": "ABD'nin Venezuela ile vardığı 65 milyar varillik petrol anlaşması hakkında neler biliniyor?",
+  "link": "https://www.bbc.com/turkce/articles/cwyzdgek2g8o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Trump, Venezuela ile 65 milyar varilden fazla petrol rezervinin ABD kontrolüne geçeceği anlaşmaya varıldığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-29T15:01:04.983934+00:00",
+  "type": "news",
+  "cluster_id": "c7b723d66c222"
+ },
+ {
+  "title": "Niger’s defense minister says soldiers attempted predawn mutiny",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzZFaFJKU2dpTXV0MkluVEthajhsY2tVSDFqM0poUXpBOTNuRGUxZXRKZEpBam1DQWNBdWFzUnlHM3hmM21ZWkh5REZBM0R3YnlKTTVMQnZacFhWQ1c4YUFuQjFqZ095QnliMGNxSEE1TzZqQ1JOVTJlVVRJRlBWLUoybVVSbDg5MzNNd0pkQ1lCREx5aS1pdFRzTUptMTZWTHJ2TklBV0RjYVVnYlU0Q3hicWN0eXRHVDUzb0FR?oc=5",
+  "source": "AP",
+  "summary_tr": "Niger savunma bakanı, şafak vakti askerler tarafından darbe girişimi yapıldığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-29T15:01:04.983934+00:00",
+  "type": "news",
+  "cluster_id": "cafe57880aff3"
+ },
+ {
+  "title": "Türkiye'nin teknopark sayısı 115'e yükseldi",
+  "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turkiyenin-teknopark-sayisi-115e-yukseldi/4041063",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Sanayi ve Teknoloji Bakanı Kacır, Türkiye'deki teknopark sayısının 115'e yükseldiğini açıkladı.",
+  "metric": "Teknopark sayısı -> 115",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-29T15:01:04.983934+00:00",
+  "type": "news",
+  "cluster_id": "c606e875385a5"
+ },
+ {
   "title": "Russian strike near Kyiv kills 37, in one of the year’s deadliest attacks",
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k?oc=5",
   "source": "AP",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-21T12:01:09.779171+00:00",
   "type": "news",
   "cluster_id": "ce9d02c315709"
- },
- {
-  "title": "Gazeteci Alican Uludağ gözaltına alındı",
-  "link": "https://www.sozcu.com.tr/gazeteci-alican-uludag-gozaltina-alindi-p338445",
-  "source": "Sözcü",
-  "summary_tr": "Gazeteci Alican Uludağ gözaltına alındı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-21T12:01:09.779171+00:00",
-  "type": "news",
-  "cluster_id": "ce9d02c315709"
- },
- {
-  "title": "EXCLUSIVE Boeing asks US to intervene over record EU loan to Airbus",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWlVuS1prU2hUcVNHY1llbVBTd2twY1Vocm5vSHdGRnpQVGUtSnJyQWRPQVZ4U1FsOHVUWUJSdTdoMmpkTzQ2dkRtUDgzNUY3cWlrZVNGVTJUYzBjTU5yQy15UC1VQmxLTF9FbHZHLUJVUUhOcHBhUHRmZkNmMGJwcDc3dG5qbXYzWnJrT0dXWWtmUkliVkNSU1BFMVJRMTBDREJvcG43azNOMjNZMzNkcTVCM0Y?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Boeing, ABD'den Airbus'a verilen rekor AB kredisine müdahale etmesini istedi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-21T12:01:09.779171+00:00",
-  "type": "news",
-  "cluster_id": "c87944ced7a1c"
- },
- {
-  "title": "Financial Times duyurdu: Trump, yeni gümrük tarifeleri getirmeye hazırlanıyor",
-  "link": "https://www.sozcu.com.tr/financial-times-duyurdu-trump-yeni-gumruk-tarifeleri-getirmeye-hazirlaniyor-p338429",
-  "source": "Sözcü",
-  "summary_tr": "ABD Başkanı Trump, cuma günü sona erecek geçici %10 gümrük tarifesinden önce onlarca ülkeye yeni gümrük tarifeleri getirmeye hazırlanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-21T11:01:08.292178+00:00",
-  "type": "news",
-  "cluster_id": "c2f511dc095b8"
- },
- {
-  "title": "Numan Kurtulmuş'tan 'Çerçeve Yasa' turu: Bahçeli'yi ziyaret etti, Kılıçdaroğlu görüşmesi saat 16'da",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/numan-kurtulmus-tan-cerceve-yasa-turu-bahceli-yi-ziyaret-etti-kilicdaroglu-gorusmesi-saat-16-da-2522625",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM Başkanı Numan Kurtulmuş, 'Terörsüz Türkiye' sürecinde hazırlanan 'Çerçeve Yasa' çalışmaları kapsamında MHP ve CHP liderlerini ziyaret etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T11:01:08.292178+00:00",
-  "type": "news",
-  "cluster_id": "c76dcdfd6a8de"
- },
- {
-  "title": "Et ve tavuktan daha fazla protein içeriyor: Hem de çok daha ucuz",
-  "link": "https://www.sozcu.com.tr/et-ve-tavuktan-daha-fazla-protein-iceriyor-hem-de-cok-daha-ucuz-p338427",
-  "source": "Sözcü",
-  "summary_tr": "Beslenme uzmanları, et ve tavuk fiyatlarının artması nedeniyle daha ucuz proteince zengin alternatif gıdaları tavsiye ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T11:01:08.292178+00:00",
-  "type": "news",
-  "cluster_id": "c68362c96113a"
  }
 ]
