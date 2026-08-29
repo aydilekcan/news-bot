@@ -1,5 +1,29 @@
 [
  {
+  "title": "Rekabet Kurulundan Paramount Skydance'in Warner Bros Discovery'i devralmasına koşullu izin",
+  "link": "https://www.aa.com.tr/tr/ekonomi/rekabet-kurulundan-paramount-skydancein-warner-bros-discoveryi-devralmasina-kosullu-izin/4041105",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Rekabet Kurulu, Warner Bros. Discovery'nin Paramount Skydance tarafından devralınmasına koşullu izin verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-29T16:00:58.723181+00:00",
+  "type": "news",
+  "cluster_id": "cc8a7253870bb"
+ },
+ {
+  "title": "Beşeri tıbbi ürünlerin fiyatlama usul ve esasları belirlendi",
+  "link": "https://www.aa.com.tr/tr/gundem/beseri-tibbi-urunlerin-fiyatlama-usul-ve-esaslari-belirlendi/4041098",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Sağlık Bakanlığı, beşeri tıbbi ürünlerin fiyatlama usul ve esaslarını belirledi ve Resmi Gazete'de yayımlandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-29T16:00:58.723181+00:00",
+  "type": "news",
+  "cluster_id": "ce938161e3d5b"
+ },
+ {
   "title": "ECB'den kritik sigorta hamlesi: Eylül ayında faizler yeniden artıyor mu?",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/ecb-den-kritik-sigorta-hamlesi-eylul-ayinda-faizler-yeniden-artiyor-mu-2533420",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-21T12:01:09.779171+00:00",
   "type": "news",
   "cluster_id": "cf9d041ce23e6"
- },
- {
-  "title": "Gazeteci Alican Uludağ: Gözaltına alınıyorum",
-  "link": "https://www.diken.com.tr/gazeteci-alican-uludag-gozaltina-aliniyorum/?utm_source=rss&utm_medium=rss&utm_campaign=gazeteci-alican-uludag-gozaltina-aliniyorum",
-  "source": "Diken",
-  "summary_tr": "Gazeteci Alican Uludağ gözaltına alındığını duyurdu.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-21T12:01:09.779171+00:00",
-  "type": "news",
-  "cluster_id": "ce9d02c315709"
- },
- {
-  "title": "Son dakika... Gazeteci Alican Uludağ gözaltına alındı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-gazeteci-alican-uludag-gozaltina-alindi-2522635",
-  "source": "Cumhuriyet",
-  "summary_tr": "Gazeteci Alican Uludağ gözaltına alındı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-21T12:01:09.779171+00:00",
-  "type": "news",
-  "cluster_id": "ce9d02c315709"
  }
 ]
