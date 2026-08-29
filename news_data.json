@@ -1,5 +1,41 @@
 [
  {
+  "title": "Son dakika...Dışişleri'nden İsrail'e sert tepki",
+  "link": "https://www.sozcu.com.tr/son-dakika-disisleri-nden-israil-e-sert-tepki-p353801",
+  "source": "Sözcü",
+  "summary_tr": "Dışişleri Bakanlığı, İsrail Dışişleri Bakanlığının Cumhurbaşkanı Erdoğan'ı hedef alan açıklamasına sert tepki gösterdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-29T20:00:58.819688+00:00",
+  "type": "news",
+  "cluster_id": "cd78d0742d495"
+ },
+ {
+  "title": "Dışişleri Bakanlığından İsrail Dışişleri Bakanlığına tepki",
+  "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligindan-israil-disisleri-bakanligina-tepki/4041197",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Dışişleri Bakanlığı, İsrail'in Cumhurbaşkanı Erdoğan'ı hedef alan açıklamasına tepki gösterdi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-29T20:00:58.819688+00:00",
+  "type": "news",
+  "cluster_id": "cd78d0742d495"
+ },
+ {
+  "title": "Dışişleri Bakanlığı: Uluslararası toplum Netanyahu hükümetinin yalanlarına inanmıyor",
+  "link": "https://www.trthaber.com/haber/gundem/disisleri-bakanligi-uluslararasi-toplum-netanyahu-hukumetinin-yalanlarina-inanmiyor-955331.html",
+  "source": "TRT Haber",
+  "summary_tr": "Dışişleri Bakanlığı, İsrail Dışişleri Bakanlığı'nın Netanyahu hükümetini destekleyen açıklamalarını yalanla ve iftira olarak niteledi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-29T20:00:58.819688+00:00",
+  "type": "news",
+  "cluster_id": "c30c8a0751166"
+ },
+ {
   "title": "Russian strike on a Ukrainian warehouse kills 37 in the war’s deadliest attack this year",
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k?oc=5",
   "source": "AP",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-21T12:01:09.779171+00:00",
   "type": "news",
   "cluster_id": "c19f796a1e0d0"
- },
- {
-  "title": "Lebanese army enters southern town after Israeli withdrawal, in first test of US-brokered deal",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX2hGZ2YzcFQ1aXJWdnEyNUJYU1ZhdTlyWFY3ajVHWkpjNDRkZHRJSGhzYUtFQ2tJREpDM1BENm9SX2JQZlB4Y0lrUkp1Tnpvc00zRkV4TTBMdldZVm1RdW1sTHAzMUJwU212clU2LVhGMEx6aTRzbkw4NVJFUnFpc2t1dkVldThkRDVPSlEyNUNEc2sxRERieGlDazJqblliVU9NdnUzbXNLVWlMYnc0VUxXS0N6M1lyaXI3Q3UxNkJGNVk2R1FR?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İsrail'in çekilmesi sonrası Lübnan ordusu güneye girdi; ABD aracılığı anlaşması ilk sınavını verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-21T12:01:09.779171+00:00",
-  "type": "news",
-  "cluster_id": "c5123554df90c"
- },
- {
-  "title": "Özgür Özel'in CHP'de son grup toplantısı: 'Yeni partimizi kuruyoruz'",
-  "link": "https://www.bbc.com/turkce/articles/cm2glz2n6v5o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "CHP'den ayrılan Özgür Özel, yeni parti kuracağını grup toplantısında açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T12:01:09.779171+00:00",
-  "type": "news",
-  "cluster_id": "c09e6e95cca3f"
- },
- {
-  "title": "Özel: Yeni partimizi kuruyoruz",
-  "link": "https://www.diken.com.tr/ozel-yeni-partimizi-kuruyoruz/?utm_source=rss&utm_medium=rss&utm_campaign=ozel-yeni-partimizi-kuruyoruz",
-  "source": "Diken",
-  "summary_tr": "CHP'den ayrılan Özgür Özel, yeni parti kuracağını açıkladı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-21T12:01:09.779171+00:00",
-  "type": "news",
-  "cluster_id": "c09e6e95cca3f"
  }
 ]
