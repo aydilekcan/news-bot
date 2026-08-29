@@ -1,5 +1,53 @@
 [
  {
+  "title": "Russian strike on a Ukrainian warehouse kills 37 in the war’s deadliest attack this year",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDZoaHVmSENmSUJQcmlhVnY2R181UXpjdnZIQlJ1YXJsZzlGZGM5U1dxY0w5eERtLXQ5ajJwWF9ib3pKQlBNam5XU0dQamczNlhxcjdGU2RxbEthaGFQQnhKcXZ6TkQxdW5rWGZIZERoMTBPaFZzR01jeHFEMG05N2kzRTNnemVnQkJvRW1Ga3lET0k?oc=5",
+  "source": "AP",
+  "summary_tr": "Rusya'nın Ukrayna'daki bir depoyu vurması sonucu 37 kişi öldü; savaşın bu yıl en ölümcül saldırısı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-29T19:01:03.326029+00:00",
+  "type": "news",
+  "cluster_id": "cdda1c5fc8b5f"
+ },
+ {
+  "title": "Bessent says disorderly yen moves can destabilize global markets",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZHBpa0Q1ZFFoeUswNkhnRWtLZEdNVmpSNU5Qd19FY2ZseVEtLTJNQ0J4SVNLUU83RDRWa0VyWWlhQlNUdXoxMldCa0VTXzlhZllsbnh6LXVPbDNSYW1rVmFyY0VNRHljVUlPZGR2MTFZTWotZ0drc2hoNHJJTDZzVEpUZW9ieEt2Ny15QmktV0l0MWx1Rnd4Y00xc2pIQ0FLZkxtdzlkUTZXMDYxOVBXX3lrMUtpN0d6?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Hazine Sekreteri Bessent, yen'deki düzensiz hareketlerin küresel piyasaları destabilize edebileceğini uyardı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-29T19:01:03.326029+00:00",
+  "type": "news",
+  "cluster_id": "c4b5b80c983a4"
+ },
+ {
+  "title": "Trump cannot deport students for criticizing Israel, judge rules",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ0Y5ZFdHSVpUZDhZa2k4b1lNNG1TdUpKci00WklleGkzXzE1a2UtVDFlMUp0MUM5dldyanJwMEx2RVhmcFlTUkptNXhxcmxMN3ZRaXBNWjBGWmxSX2ZEbzR4R01Yc1UzQ1FoWEt5OEFaVTB1bnN1Zm11M3J3MG81cGM3bDhhR0lkNjg3WVdjaGNPR1FtWWRvRlhKaFVsNkdQMHc?oc=5",
+  "source": "AP",
+  "summary_tr": "Amerikan mahkemesi, İsrail'i eleştirdikleri için öğrencilerin sınır dışı edilemeyeceğine karar verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-29T19:01:03.326029+00:00",
+  "type": "news",
+  "cluster_id": "ca0b9c6fa88fd"
+ },
+ {
+  "title": "Russia extends ban on diesel exports until September 30",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbW4xY0FEZ1Q2eDNoQ05vdVE1VjNtNEF5cXUyaUcxNG9iekVocWJhb1JuclRRVnZvVEtvMFo4VmpQQzVtTTdLcVQtOFJQY28wb2JVaG9ZQWE2QTBrU01uTGdZcWVyLUtJd1ZpRm9TMVNZQlRVUHhsdG9fUWd3TExMQWNkbnk1UENEbm5zOThvWFdBRHRfMVlHNlhDQTFfa3dPZHZ1cG45OA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya, diesel ihracatı yasağını 30 Eylül'e kadar uzattı. Küresel enerji arz zincirini etkileyebilecek karar.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-29T19:01:03.326029+00:00",
+  "type": "news",
+  "cluster_id": "c4c97d3695da4"
+ },
+ {
   "title": "Russia says it has captured three villages in Ukraine's Donetsk and Sumy regions",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGNCcHVYQ3R1bndna3lIMGktS3JzQ08xSVZTV3k3SERPd1N2b2l0ajRYdzZqcDRQWWdQekRSUUs0OTg1dERHUHVOUEZwak1xek1jeVlVQjkwOFZUT1N3cEdNRUx4LWxEcXY0T1JNQm9DOUltZkFyeTFzUmlHYUVVY0E3MWZuRWR4djUzdmN6UTNCdi1ySUdFUi1lTWRaVWxldEZ3Q1k5V0JXaDlQN2Qzczg0cjQ?oc=5",
   "source": "Reuters",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-21T12:01:09.779171+00:00",
   "type": "news",
   "cluster_id": "c09e6e95cca3f"
- },
- {
-  "title": "Özgür Özel: Yeni partimizi kuruyoruz",
-  "link": "https://www.trthaber.com/haber/gundem/ozgur-ozel-yeni-partimizi-kuruyoruz-951793.html",
-  "source": "TRT Haber",
-  "summary_tr": "Özgür Özel, partisinin kurulmasına hazırlanan etkinlikler hakkında açıklama yaptı.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-21T12:01:09.779171+00:00",
-  "type": "news",
-  "cluster_id": "c09e6e95cca3f"
- },
- {
-  "title": "Goldman Sachs'tan kritik petrol uyarısı: 120 dolar aşılabilir",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/goldman-sachs-tan-kritik-petrol-uyarisi-120-dolar-asilabilir-2522632",
-  "source": "Cumhuriyet",
-  "summary_tr": "Goldman Sachs, Ortadoğu çatışmaları nedeniyle petrol fiyatının 120 doları aşabileceği uyarısında bulundu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T12:01:09.779171+00:00",
-  "type": "news",
-  "cluster_id": "c0b1e026b277c"
- },
- {
-  "title": "Husilerin, Suudi Arabistan'a \"deniz ablukası\" kararı, Hürmüz’den sonra Babülmendep'te de tansiyonu artırdı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/husilerin-suudi-arabistana-deniz-ablukasi-karari-hurmuz-den-sonra-babulmendepte-de-tansiyonu-artirdi/4004620",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Husilerin Babülmendep'te deniz ablukası kararı, Hürmüz Boğazı'ndaki enerji aksamalarına ek tansiyonu artırdı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T12:01:09.779171+00:00",
-  "type": "news",
-  "cluster_id": "c2b460b434548"
- },
- {
-  "title": "EXCLUSIVE: US, China to hold AI talks in September, sources say",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRnA2ZW5UVVBMZkFtcExCdG5vSTJIMDFGYVhtcFpXellZRkpmcnJocExRNkp5c0VDdXRfVDdXcGs1OGszNEdMM3YxQ3R2UFVwYmdCQW85MjdYUHBlaWloVENJZmE1OVYxc2FFQml4LTFOWXEwOW5BcGIyVEQ3Rk5uMmxPQUFLVWY4cTYxNzJTZzZBbkJ1RkFr?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD ve Çin, Eylül'de yapay zeka görüşmelerini yapacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T12:01:09.779171+00:00",
-  "type": "news",
-  "cluster_id": "cb9cb8fb1d5df"
  }
 ]
