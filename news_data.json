@@ -1,5 +1,53 @@
 [
  {
+  "title": "Türkiye'nin büyüme rakamları yarın açıklanacak",
+  "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-buyume-rakamlari-yarin-aciklanacak-955358.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye ekonomisinin 2024 Q2 büyüme rakamları yarın açıklanacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-30T10:09:09.111753+00:00",
+  "type": "news",
+  "cluster_id": "ca215173ea68c"
+ },
+ {
+  "title": "Stoklar 13 yılın dibinde: Avrupa’da kışın gaz faturaları kabarabilir",
+  "link": "https://www.sozcu.com.tr/stoklar-13-yilin-dibinde-avrupa-da-kisin-gaz-faturalari-kabarabilir-p353922",
+  "source": "Sözcü",
+  "summary_tr": "Avrupa Birliği'nde gaz depolarının doluluk oranı ağustos sonu itibariyle %63'te kalıyor; son 13 yılın en düşük seviyesi.",
+  "metric": "Gaz depo doluluk oranı: %63 (13 yılın dibinde)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-30T10:09:09.111753+00:00",
+  "type": "news",
+  "cluster_id": "c64dc2a3f6385"
+ },
+ {
+  "title": "Yatırım teşviklerinde imalat zirvede: 1770 belge verildi",
+  "link": "https://www.trthaber.com/haber/ekonomi/yatirim-tesviklerinde-imalat-zirvede-1770-belge-verildi-955360.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye'de 2024 ilk 6 ayında 2.410 yatırım teşvik belgesi verildi; imalat sektörü 1.770 belgeyle başı çekti.",
+  "metric": "Yatırım teşvik belgesi: 2.410 (imalat: 1.770)",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-30T10:09:09.111753+00:00",
+  "type": "news",
+  "cluster_id": "c0084d5d796d4"
+ },
+ {
+  "title": "Çankırı'nın ihracatı (aylık): 47 milyon $ (Temmuz)",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUHluRmI3dUNaU2J6bjBQaVlDMGRyU0VHQkNwRU43dnc4Sy1ybDI5WjhoZVZYQjBZeldWR2oxWENmQ1hJZGNqM0FXbjRTRzZqaFZYVWJNZXlmanUxTUFqSkFuWWlHQ0FROUtqaExpWThHQ092SGxVWERkUHRDdGZYellVU2JKNmt3bUNDLURONmlsUGNUVUtZ0gGXAUFVX3lxTFBQeW5GYjd1Q1pTYnpuMFBpWUMwZHJTRUdCQ3BFTjd2dzhLLXJsMjlaOGhlVlhCMFl6V1ZHajFYQ2ZDWElkY2ozQVduNFNHNmpoVlhVYk1leWZqdTFNQWpKQW5ZaUdDQVE5S2poTGlZOEdDT3ZIbFVYRGRQdEN0Zlh6WVVTYko2a3dtQ0MtRE42aWxQY1RVS1k?oc=5",
+  "source": "TUIK",
+  "summary_tr": "47 milyon $",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-30T10:09:09.111753+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "İzmir'de yurttaşın pazar çantası dolmuyor: 'Meyvenin yanına yanaşılmıyor, darı bile lüks oldu'",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRzRiOEFPRjVUVkxUWmthU3VwNjBCZTFORmNYQV9RQjJpdW9rbldBYnpLbE83b2tZRk5veEhQc0doMmR6WkZhUFdvMmxfdmlxUXBRV1JoempKd2NCVVVnNGQwekt6VXNnMlRGNkR1WDhaNGJDQWNmbW1IS1Q0eVlvRjh5WGtNcFQ5czAzOHl6VEJ4QzFJbG1QSklOWm91ek1udUhrSWE3WEF0TDNsUzBremVwMjFkaUJybnVVNQ?oc=5",
   "source": "soL",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-21T14:01:04.398099+00:00",
   "type": "news",
   "cluster_id": "c6ac21c88d538"
- },
- {
-  "title": "Son dakika: Tarihi açıklama sonrası CHP'den ilk üst düzey istifa geldi!",
-  "link": "https://www.sozcu.com.tr/son-dakika-tarihi-aciklama-sonrasi-chp-den-ilk-ust-duzey-istifa-geldi-p338477",
-  "source": "Sözcü",
-  "summary_tr": "Özgür Özel'in yeni parti açıklamasını takiben CHP'den ilk üst düzey istifalar başladı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-21T14:01:04.398099+00:00",
-  "type": "news",
-  "cluster_id": "c699b3be8ec93"
- },
- {
-  "title": "'Yeni parti' açıklaması sonrası CHP’den ilk üst düzey istifa",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRW1LLVJoZlVTY1p2MUl3bVozdnU2NXJUU0RTNUpFdmxLX04tWGpqZ1M0Z0hSdVh3Z1gwSnUwNlEwZExyTEtrUk9BemdJeUtVaXRoWk9qeVdRenFRLVo4Q2RybFl2SmpEeE40TnppUmRDTjNUWEdsR1FMNGQ0MGZwVmREdmVaRFZiQmdSa0dBTHhDeG9sQlBTandKOA?oc=5",
-  "source": "soL",
-  "summary_tr": "Özgür Özel'in yeni parti açıklamasından sonra CHP'den ilk üst düzey istifa gerçekleşti.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-21T14:01:04.398099+00:00",
-  "type": "news",
-  "cluster_id": "c699b3be8ec93"
- },
- {
-  "title": "Özgür Özel, 34 yıllık partisi CHP'den ayrıldı: Veda vakti geldi; milletvekillerimizle yeni partimizi kuruyoruz, açık ara ana muhalefet partisi oluyoruz!",
-  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVjFjWkhkMDVpNGZpNkZlOGtxWnRGN09RMllpLUFrejdiLV8yaVJheFI3U0xkTGNQMndBdGljMjFBdHhCdExJTXp1NzF0Rl9nc2FkRzRZTWJuVlQ1UDRrYXRPUWlVWVZYMVdUSVNaWDlNSTBoazNUQkhlWGQyNGdHaVRVaWNmTUhSdHZ6c21fOWhqZXBOOHBNaXZZSnV1TXY0c3dnLUM0UE93UFZHVXB4a3dCUGJoQkZuWVdpT2JhSUtqMjFyc3ZIQXJHWEJzVXo5OTMzRTAtUlhXSWZmZmNiOA?oc=5",
-  "source": "T24",
-  "summary_tr": "Özgür Özel 34 yıl sonra CHP'den ayrılıyor ve milletvekilleriiyle yeni bir parti kuruyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-21T14:01:04.398099+00:00",
-  "type": "news",
-  "cluster_id": "c6763bc08a790"
- },
- {
-  "title": "Vekil Murat Bakan CHP'den istifa etti",
-  "link": "https://www.diken.com.tr/vekil-murat-bakan-chpden-istifa-etti/?utm_source=rss&utm_medium=rss&utm_campaign=vekil-murat-bakan-chpden-istifa-etti",
-  "source": "Diken",
-  "summary_tr": "İzmir Milletvekili Murat Bakan CHP'den istifa etti.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-21T14:01:04.398099+00:00",
-  "type": "news",
-  "cluster_id": "c6feb3f1cd2d2"
  }
 ]
