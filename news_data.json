@@ -1,5 +1,41 @@
 [
  {
+  "title": "İran basını, ABD'nin saldırısının ardından denizdeki hedeflere atışlar yapıldığını duyurdu",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-basini-abdnin-saldirisinin-ardindan-denizdeki-hedeflere-atislar-yapildigini-duyurdu/4041986",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran, ABD'nin Hürmüz Boğazı yakınlarındaki Lark Adası'na düzenlediği saldırının ardından denizdeki hedeflere atışlar yaptığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-30T23:01:00.770971+00:00",
+  "type": "news",
+  "cluster_id": "c5aef0d98d155"
+ },
+ {
+  "title": "US plans to sanction another bank in effort to clamp down on Iran transactions, Bessent tells AP",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdldWT1BUeFUxSlNnaU9rZTl5eDlWd0dSejRvTUg4YkhEZzNIWjVGc0x3VFVENkltZ2dKb3JleFc0YTRQX0M1NGVJcUhXd0l3endPSHFIZl90N0tHSW80S21ZVUhrOG1Yb1RrMTlBX2UydVFCMEV1MjQ1UDI5Z3RkTDQ1TjY3Z1BseXQyZ3Q5eVBENDYwQ2s5Rm9HMkhIQQ?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD Hazine Sekreteri Bessent, İran işlemlerini kısıtlamak amacıyla başka bir bankaya yaptırım uygulanacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-30T23:01:00.770971+00:00",
+  "type": "news",
+  "cluster_id": "c662a973f83f2"
+ },
+ {
+  "title": "Cumhurbaşkanlığına Cevdet Yılmaz vekalet edecek",
+  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskanligina-cevdet-yilmaz-vekalet-edecek/4042052",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Cumhurbaşkanı Erdoğan'ın Kırgızistan ziyareti sırasında Cumhurbaşkanı Yardımcısı Cevdet Yılmaz Cumhurbaşkanlığına vekalet edecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-30T23:01:00.770971+00:00",
+  "type": "news",
+  "cluster_id": "c800720c689fe"
+ },
+ {
   "title": "ABD İran’ın Lark Adası’na saldırdı: Ölü ve yaralılar var",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS3lCNHhRZ0gwVlVYUExMbnIyQjUwSlVqeS1XUGVOb2xadUJpeTBUd3RnT1EyR3pGWFpqSFJrZUxNQXNSTDF1SWpYTmZudHFidHhXT3Y5c01rd1FabUFKYnpROC1PeTZuTjBsZGVoRGNzbXhERzZBbk1YdzZJaUZuaDl3OHNNQXNMZkF5dDNVRWZJeUkwZUE?oc=5",
   "source": "soL",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-21T21:01:13.618331+00:00",
   "type": "news",
   "cluster_id": "c96dc9f3d62fb"
- },
- {
-  "title": "Trump'tan 'Kazma Dağı' mesajı: 'Çok yakında vuracağız'",
-  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-kazma-dagi-mesaji-cok-yakinda-vuracagiz-2522755",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Başkanı Trump, İran'ın Kazma Dağı bölgesini çok yakında çok güçlü biçimde vurulacağını duyurdu. Söylem nükleer gerilimi artırmaktadır.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-21T20:01:13.273329+00:00",
-  "type": "news",
-  "cluster_id": "c4c376cd0cafd"
- },
- {
-  "title": "BM'den ABDÄ°ran gerilimine diplomasi yoluyla Ã§Ã¶zÃ¼m bulunmasÄ± Ã§aÄŸrÄ±sÄ±",
-  "link": "https://www.trthaber.com/haber/dunya/bmden-abd-iran-gerilimine-diplomasi-yoluyla-cozum-bulunmasi-cagrisi-951820.html",
-  "source": "TRT Haber",
-  "summary_tr": "BM Genel Sekreteri Guterres, ABD-İran arasında son günlerde tırmanmakta olan askeri gerilimin diplomasi yoluyla çözülmesini çağırarak söz konusu krizin daha da tırmandırılmaması gerektiğini vurguladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-21T20:01:13.273329+00:00",
-  "type": "news",
-  "cluster_id": "ca3f2e1c7c15a"
- },
- {
-  "title": "Washington Post: Ä°ran'daki savaÅŸ dolayÄ±sÄ±yla Pentagon bÃ¼tÃ§esi hÄ±zla tÃ¼keniyor",
-  "link": "https://www.trthaber.com/haber/dunya/washington-post-irandaki-savas-dolayisiyla-pentagon-butcesi-hizla-tukeniyor-951819.html",
-  "source": "TRT Haber",
-  "summary_tr": "Washington Post'a göre Pentagon bütçesi İran savaşı nedeniyle hızla tükeniyorsa, ABD Savunma Bakanı Kongre'ye durumu rapor edecektir.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-21T20:01:13.273329+00:00",
-  "type": "news",
-  "cluster_id": "c29a1a3f4473e"
  }
 ]
