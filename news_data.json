@@ -1,5 +1,29 @@
 [
  {
+  "title": "İzmir'de yurttaşın pazar çantası dolmuyor: 'Meyvenin yanına yanaşılmıyor, darı bile lüks oldu'",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRzRiOEFPRjVUVkxUWmthU3VwNjBCZTFORmNYQV9RQjJpdW9rbldBYnpLbE83b2tZRk5veEhQc0doMmR6WkZhUFdvMmxfdmlxUXBRV1JoempKd2NCVVVnNGQwekt6VXNnMlRGNkR1WDhaNGJDQWNmbW1IS1Q0eVlvRjh5WGtNcFQ5czAzOHl6VEJ4QzFJbG1QSklOWm91ek1udUhrSWE3WEF0TDNsUzBremVwMjFkaUJybnVVNQ?oc=5",
+  "source": "soL",
+  "summary_tr": "İzmir'de gıda fiyatlarındaki artışlar nedeniyle vatandaşlar meyve ve sebze satın almada zorluk yaşıyor; bazı besinler lüks haline geldi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-30T09:01:02.745777+00:00",
+  "type": "news",
+  "cluster_id": "cde682e5c5f2c"
+ },
+ {
+  "title": "Emeklilikte dev tasarruf: BES ve OKS'de 2,6 trilyon lira birikti",
+  "link": "https://www.trthaber.com/haber/ekonomi/emeklilikte-dev-tasarruf-bes-ve-oksde-26-trilyon-lira-birikti-955353.html",
+  "source": "TRT Haber",
+  "summary_tr": "BES ve Otomatik Katılım Sistemi'nde emeklilik birikimi 2,6 trilyon liraya ulaştı; emeklilikte tasarruf başarısı gösterdi.",
+  "metric": "BES ve OKS toplam fonu 2,6 trilyon TL",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-30T09:01:02.745777+00:00",
+  "type": "news",
+  "cluster_id": "cb9cf08c0ecfd"
+ },
+ {
   "title": "Anketleri gören Erdoğan seçim planını değiştirdi",
   "link": "https://www.sozcu.com.tr/anketleri-goren-erdogan-secim-planini-degistirdi-p353863",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-21T14:01:04.398099+00:00",
   "type": "news",
   "cluster_id": "c6feb3f1cd2d2"
- },
- {
-  "title": "Dışişleri Bakanlığı, Türkiye'nin ASEAN Diyalog Ortaklığına kabul edilmesini memnuniyetle karşıladı",
-  "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligi-turkiyenin-asean-diyalog-ortakligina-kabul-edilmesini-memnuniyetle-karsiladi/4004821",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye, ASEAN Dışişleri Bakanları'nın Manila'daki kararıyla Diyalog Ortağı olarak kabul edildi.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-21T14:01:04.398099+00:00",
-  "type": "news",
-  "cluster_id": "c5d63dd2af2c1"
- },
- {
-  "title": "Bakan Fidan, Türkiye'nin ASEAN Diyalog Ortağı olarak kabul edildiğini duyurdu:",
-  "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-turkiyenin-asean-diyalog-ortagi-olarak-kabul-edildigini-duyurdu/4004796",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Dışişleri Bakanı Hakan Fidan, Türkiye'nin ASEAN Diyalog Ortağı olarak kabul edildiğini duyurdu.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-21T14:01:04.398099+00:00",
-  "type": "news",
-  "cluster_id": "c123ee6f3ec26"
  }
 ]
