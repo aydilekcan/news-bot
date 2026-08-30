@@ -1,5 +1,53 @@
 [
  {
+  "title": "Venezuela, ABD ile petrol anlaşmasının 25 yıl süreli olacağını belirtti",
+  "link": "https://www.aa.com.tr/tr/ekonomi/venezuela-abd-ile-petrol-anlasmasinin-25-yil-sureli-olacagini-belirtti/4041262",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Venezuela, ABD ile imzalanan petrol anlaşmasının 25 yıl süreceğini ve günlük üretimin 1,5 milyon varil artacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-30T05:01:00.567041+00:00",
+  "type": "news",
+  "cluster_id": "c680f772f47f7"
+ },
+ {
+  "title": "US to take 35% stake in Venezuelan mogul Betancourt's oil venture, WSJ reports",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQlNFejhFZ3hzSkp6dDhBa1RMMHdwUFY5YVc5Y3J6WXRVbmZyVmR4cFVrcEN6WXNKd1Q2cUVYdVZMM0hwT1JQZW0wNDdvNGt4Z1h4dG5VUE5zdlNLQWZEWUtBbUJodHR6TmhJS0VfbkhScUdBaUxMU2JhNk9QTDVVRFo1QTRTd0V1Q1RvMWVMRDBaNG1UOWxHR0FaSURoVFp1am9OeHowRWRRSmtjSkRvTHF4SXpRRzBBRURGeTV2bjRjYjA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, Venezuela mogul Betancourt'un petrol şirketinde %35 hisse almayı planlıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-30T05:01:00.567041+00:00",
+  "type": "news",
+  "cluster_id": "c9ee0b6f8bbca"
+ },
+ {
+  "title": "South Korea names veteran technocrat Lee Hyoung-il as new finance chief in cabinet reshuffle",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVHRkTGtkeEdMVDNXUFBNVzM1MnExNlhHYmhEMHlvVEhkV2VBd0xCX0MyOXBmT3N5cER6aV9uS19Ub2tnUUg1clZmNEJnQUFmVzNHMDJwcVExeHBqdno5T1QzWEpHWUtnNFNTLUVid1k5OFdUQU9ESzA1M0J6c04tT0Rrbm1rY0hpZFhRQW1sNlFQMl95bmpyZEhOYVUzYV9oV1IxN0xVVG5xLVVqbTBBY21maHdhcTZNb0R4UFV6UXBMRG9lb01rRjdyaHk?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Güney Kore, kabine değişikliğinde veteran teknokrat Lee Hyoung-il'i yeni maliye bakanı olarak atadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-30T05:01:00.567041+00:00",
+  "type": "news",
+  "cluster_id": "c2aa97e341ffe"
+ },
+ {
+  "title": "Untested in court, Trump’s new tariffs on Canada raise legal questions",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSU9SV2t0SXlGdXhMaVdZUXB5djhMR1FRR24xblZpWlFpUGNEbHhXejBhSlI5aUw2SUs1SkNyWFBhU0M0WFhGOGoxNzBjelE5YjRVMExjYWxzWXZNZUNXUUtET2tMQUIzdVBsYjdHdXotU0F1dXlISXdPS2ltTnBQZ0VMeVQ1VC1lME5oX05maU5EQ09DQ1dQbWduNWh4azJuQ3h1b2tRVQ?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump'ın Kanada'ya uyguladığı yeni tarifeler mahkemede test edilmemiş olup hukuki sorular ortaya çıkarıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-30T05:01:00.567041+00:00",
+  "type": "news",
+  "cluster_id": "c455d31d66e5a"
+ },
+ {
   "title": "Pazar poşetinde 3 biber, 4 salatalık",
   "link": "https://www.sozcu.com.tr/pazar-posetinde-3-biber-4-salatalik-p353818",
   "source": "Sözcü",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-21T13:01:23.337914+00:00",
   "type": "news",
   "cluster_id": "cefd41b72debc"
- },
- {
-  "title": "Kartlı ödemeler haziranda 2,9 trilyon liraya yükseldi",
-  "link": "https://www.trthaber.com/haber/ekonomi/kartli-odemeler-haziranda-29-trilyon-liraya-yukseldi-951800.html",
-  "source": "TRT Haber",
-  "summary_tr": "Kartlı ödemelerin tutarı haziranda geçen yılın aynı ayına göre yüzde 50 artarak 2,9 trilyon liraya yükseldi.",
-  "metric": "Kartlı ödemeler (haziran) -> 2,9 trilyon TL (+%50)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-21T13:01:23.337914+00:00",
-  "type": "news",
-  "cluster_id": "cdbd5fe81d3f7"
- },
- {
-  "title": "Kuveyt: İranın düzenlediği saldırılar sonucu bazı enerji ve su arıtma tesislerinde yangın çıktı",
-  "link": "https://www.trthaber.com/haber/dunya/kuveyt-iranin-duzenledigi-saldirilar-sonucu-bazi-enerji-ve-su-aritma-tesislerinde-yangin-cikti-951795.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran'ın saldırıları sonucu Kuveyt'te enerji ve su arıtma tesislerinde yangın çıktı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-21T13:01:23.337914+00:00",
-  "type": "news",
-  "cluster_id": "cbfea76659631"
- },
- {
-  "title": "Özel, CHP lideri olarak son kez kürsüye çıktı: 'Yeni Partimizi kuruyoruz'",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOW4xS3dySUFTRTQwWDU0YU1EX3ltcWZLQWFNZUJxNFBhWmxxNDFYc0psX2M3d2FiaXdKcXZOVmdTUi1ZOUVENlIyT1FabkNDX0RNODRMamNscUhCMXZJZktkVEQzc1JmWlNsRkY5LVFBaW9iclJlOV9NVm5IUEw1cmZUU3JNbVJCeEhKWXRhY3ZQR3dSWjJqZlhWZ3BxVGxPbEdvcjVrTFVJVk0?oc=5",
-  "source": "soL",
-  "summary_tr": "Özgür Özel, CHP lideri olarak son kez kürsüye çıkarak yeni partisini kuracağını ilan etti.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-21T13:01:23.337914+00:00",
-  "type": "news",
-  "cluster_id": "c26cdfa764d13"
- },
- {
-  "title": "GM quarterly core profit rises 30% on truck and SUV strength",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTGRVakJmSzhlMC11WHpydXBvV0pJR2lXSW5yNWo3UDhoUEdQQnhLZkxwLVAwUUlXOVB0TkY1NWZzR3JNT0FIcGI2XzY5NTFERGlncUZfaUNVaFh2Yk55ZGE0UHJrYWhYNDlUbU9yaWZheG5fOXBqRkwwSm5wd2xJZmZTSkx0Z0tIVmphUFJab0R2RHRtSzlYTWc2ZnN1dXpYeDNRempjUXdwWGJkZW1tSi1YcVoxaVp2aXc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "General Motors, kamyon ve SUV talebinin güçlü olması nedeniyle çeyreklik temel kârını yüzde 30 artırdı.",
-  "metric": "GM çeyreklik temel kâr +%30",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-21T13:01:23.337914+00:00",
-  "type": "news",
-  "cluster_id": "cdcc6c8285c76"
  }
 ]
