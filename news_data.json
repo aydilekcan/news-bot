@@ -1,5 +1,53 @@
 [
  {
+  "title": "Altının yükselişine Fed freni: 81 gün sonra en büyük kayıp!",
+  "link": "https://www.sozcu.com.tr/altinin-yukselisine-fed-freni-81-gun-sonra-en-buyuk-kayip-p353842",
+  "source": "Sözcü",
+  "summary_tr": "Fed Başkanı Kevin Warsh'ın şahin mesajları sonrasında altın fiyatı düştü. Ons altın 180 dolar gerileyerek 4.445 dolara indi; bu 81 gündeki en büyük kayıp.",
+  "metric": "Altın (ons) önceki seviye -> 4.445 dolar (-180 dolar)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-30T06:01:04.230394+00:00",
+  "type": "news",
+  "cluster_id": "c20cdc2c2d03d"
+ },
+ {
+  "title": "Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun'un teklif desteği ve kabul oylarının verileri",
+  "link": "https://www.aa.com.tr/tr/analiz/milli-dayanisma-ve-toplumsal-butunlesmenin-guclendirilmesine-dair-kanunun-teklif-destegi-ve-kabul-oylarinin-verileri/4041263",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "TBMM, 7595 sayılı Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun'u kolektif iradesinin neredeyse tamamıyla kabul etti.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-30T06:01:04.230394+00:00",
+  "type": "news",
+  "cluster_id": "c3e7b90f04bcf"
+ },
+ {
+  "title": "Venezuela ile ABD arasındaki petrol anlaşması 25 yıl süreli olacak",
+  "link": "https://www.trthaber.com/haber/dunya/venezuela-ile-abd-arasindaki-petrol-anlasmasi-25-yil-sureli-olacak-955341.html",
+  "source": "TRT Haber",
+  "summary_tr": "Venezuela Geçici Devlet Başkanı Delcy Rodriguez, ABD ile varılan petrol anlaşmasının 25 yıl süreceğini ve günlük petrol üretiminin 1,5 milyon varil artacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-30T06:01:04.230394+00:00",
+  "type": "news",
+  "cluster_id": "c4e90d6591abe"
+ },
+ {
+  "title": "Venezuela's interim president says US energy deal will last 25 years",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdGx2YWRqWWZqT00zSkV3bVZVazJKdjVDbTlKUWM1ZVdKRDEtZGkxb1N2Vy10MURlOEE1dXZ4NkMwXzBvb0xDMGZITmJHT2JGUmh6TlRhaUV1YmpIZ0JmV2lSUk9YQVBSeFBwNlI2ZW1JanZvSS1pSUtNMzFnaFRTUy1SUkJKZXpvN3doOHM5aVpzTjM2UWdsSVhqM0xyTm9TbHhOOWZnUlVmWVNDVjhQNTJGeUVHcUZOSkg4?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Venezuela Geçici Devlet Başkanı, ABD ile yapılan enerji anlaşmasının 25 yıl süreceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-30T06:01:04.230394+00:00",
+  "type": "news",
+  "cluster_id": "c27620e3e50fd"
+ },
+ {
   "title": "Venezuela, ABD ile petrol anlaşmasının 25 yıl süreli olacağını belirtti",
   "link": "https://www.aa.com.tr/tr/ekonomi/venezuela-abd-ile-petrol-anlasmasinin-25-yil-sureli-olacagini-belirtti/4041262",
   "source": "Anadolu Ajansı",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-21T13:01:23.337914+00:00",
   "type": "news",
   "cluster_id": "c3b8688c85d20"
- },
- {
-  "title": "IEA Başkanı Birol, petrol arzının yüksek seviyelerde seyrettiğini bildirdi",
-  "link": "https://www.sozcu.com.tr/iea-baskani-birol-petrol-arzinin-yuksek-seviyelerde-seyrettigini-bildirdi-p338468",
-  "source": "Sözcü",
-  "summary_tr": "IEA Başkanı, Körfez'deki jeopolitik riskler nedeniyle petrol arzının yüksek seviyelerde kaldığını bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-21T13:01:23.337914+00:00",
-  "type": "news",
-  "cluster_id": "c0913c5a1b279"
- },
- {
-  "title": "Kartlı ödemelerin tutarı haziranda arttı",
-  "link": "https://www.sozcu.com.tr/kartli-odemelerin-tutari-haziranda-artti-p338466",
-  "source": "Sözcü",
-  "summary_tr": "Kartlı ödemelerin tutarı haziranda geçen yılın aynı ayına göre yüzde 50 arttı.",
-  "metric": "Kartlı ödemeler (haziran) önceki yıl -> 2,9 trilyon TL (+%50)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-21T13:01:23.337914+00:00",
-  "type": "news",
-  "cluster_id": "c5d9e93ac12ff"
- },
- {
-  "title": "Kartlı ödemelerin tutarı haziranda 2,9 trilyon liraya yükseldi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/kartli-odemelerin-tutari-haziranda-2-9-trilyon-liraya-yukseldi/4004728",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Kartlı ödemelerin tutarı haziranda geçen yılın aynı ayına göre yüzde 50 artarak 2,9 trilyon liraya ulaştı.",
-  "metric": "Kartlı ödemeler (haziran) -> 2,9 trilyon TL (+%50)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-21T13:01:23.337914+00:00",
-  "type": "news",
-  "cluster_id": "c5d9e93ac12ff"
- },
- {
-  "title": "ABD’nin İran’daki yeni hedefi: Kazma Dağı",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-nin-iran-daki-yeni-hedefi-kazma-dagi/4004579",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Trump, İran'ın yer altı nükleer tesisine ev sahipliği yaptığı iddia edilen Kazma Dağı'nı hedef alacağını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-21T13:01:23.337914+00:00",
-  "type": "news",
-  "cluster_id": "cefd41b72debc"
  }
 ]
