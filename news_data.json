@@ -1,5 +1,29 @@
 [
  {
+  "title": "Pazar poşetinde 3 biber, 4 salatalık",
+  "link": "https://www.sozcu.com.tr/pazar-posetinde-3-biber-4-salatalik-p353818",
+  "source": "Sözcü",
+  "summary_tr": "Gıda fiyatlarındaki artış nedeniyle vatandaşlar meyve-sebzeyi kiloyla değil, yarım kilo veya tane hesabıyla satın almaya başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-30T03:01:04.732725+00:00",
+  "type": "news",
+  "cluster_id": "cd8b8c4445d4f"
+ },
+ {
+  "title": "Özel, ‘En az üç çocuk’ diyen Erdoğan’a yüklendi: Ona uyan pişman",
+  "link": "https://www.sozcu.com.tr/ozel-en-az-uc-cocuk-diyen-erdogan-a-yuklendi-ona-uyan-pisman-p353821",
+  "source": "Sözcü",
+  "summary_tr": "Yeni Parti lideri Kılıçdaroğlu, Erdoğan'ın 'en az üç çocuk' çağrısını eleştirerek, ekonomik zorlukların gençleri evlenme ve çocuk sahibi olmaktan uzaklaştırdığını söyledi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-30T03:01:04.732725+00:00",
+  "type": "news",
+  "cluster_id": "c149abd7d5b3f"
+ },
+ {
   "title": "Türkiye'de sıfır vergi, Almanya'da milyonlarca avro: Melih Gökçek'e soruşturma",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdlZKdWhoNHF5NUVkQ25CWm9kX240NXl5ZWtpaElLVVptMjgxWUhEQnJpTUhodnk3d3Z1YUFLTzdDRzlEanhqU1M1ZGtiaFNRVDQwMUt0bTZfeUZYeTNPRXBwVE54S21BSU5WMkJsVmJaaUdYYzJyTldUS25KeEllRWhjUm5vZDVkMEtsUWJEaHF6LVFyUVZLMjBMSXBYUDhNWlVxNVMycENyX0tqdHV1bQ?oc=5",
   "source": "soL",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-21T13:01:23.337914+00:00",
   "type": "news",
   "cluster_id": "cdcc6c8285c76"
- },
- {
-  "title": "Nicaragua’s President Ortega moves to extend his 20-year rule and says no elections anytime soon",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeWZuel9VUDV4Mk8zREJQSHJqWDdKMUhaVHdIclRUaHp1M0o2dmpYNnYzRzhCWXlzNkJXREFVOENxcEF2Q3dIQVRndlpFN3RaWXJKcGU2cHBvV05melRZR0JQczRtX0diVUNhRWxwWDROYlRnUHhnZFRTN2NkTjg3eDdxcUpJRTJYVVJ4X0w2TmZvM0NQMl9ab3h3Wk1ZcG9uMUxCNTNzcGo5aUt1VEZTeFdB?oc=5",
-  "source": "AP",
-  "summary_tr": "Nikaragua Başkanı Ortega, 20 yıllık iktidarını uzatmak için hamleler yapıyor ve yakın zamanda seçim yapılmayacağını söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-21T13:01:23.337914+00:00",
-  "type": "news",
-  "cluster_id": "c5df0a28283e5"
- },
- {
-  "title": "ABD'nin İran saldırıları 10. gününde: Trump'tan misilleme uyarısı",
-  "link": "https://www.bbc.com/turkce/articles/c935gy0rd2vo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD, İran'a karşı 10. günde yeni hava saldırıları başlattı; Trump misilleme uyarısı yaptı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-21T12:01:09.779171+00:00",
-  "type": "news",
-  "cluster_id": "c5a0f92cd3397"
  }
 ]
