@@ -1,5 +1,29 @@
 [
  {
+  "title": "Venezuela'nın petrolüne çöken Trump'tan pişkin açıklama",
+  "link": "https://www.sozcu.com.tr/venezuelanin-petrolune-coken-trumptan-piskin-aciklama-p353980",
+  "source": "Sözcü",
+  "summary_tr": "Trump, ABD'nin Venezuelan petrol anlaşması kapsamında stratejik rezervlerini yeniden dolduracağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-30T16:01:00.963549+00:00",
+  "type": "news",
+  "cluster_id": "c1b275790aff4"
+ },
+ {
+  "title": "Trump says US will refill Strategic Petroleum Reserve using Venezuelan oil",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeExELTZFbXpSSWtfaVM2N0VrcTR5VlR0OU1nSGw0SDlpc213OGFrbTBQNDVueWg4UlQ3aVd3QTdpQV83My04WDg3UG5zTWcyRGpKMy1ldjB3YU9WV3d6Sm0xb3NJV2I2am9BSldjOERGVS1Cbk51dlRobDZvdXUybkRYNUY1eFFpX3RiRmtEdjV5a0dvcm1jVEg0eFhqcFBZcHNjMTJaYWQ3c1hzOFJnVjExMUtVZkFaVTBfb0tvWko5eVh1?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, ABD'nin Venezuelan petrol anlaşması kapsamında stratejik petrol rezervlerini yeniden dolduracağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-30T16:01:00.963549+00:00",
+  "type": "news",
+  "cluster_id": "c30c424007f45"
+ },
+ {
   "title": "Girne açıklarında bir yolcu gemisi alabora oldu: '7 kişi hayatını kaybetti, 23 kişi aranıyor'",
   "link": "https://www.bbc.com/turkce/articles/c4gvzyyq2jwo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-21T16:01:18.183104+00:00",
   "type": "news",
   "cluster_id": "cf3d318252044"
- },
- {
-  "title": "US Treasury's Bessent tells Fox Business 50% Canada tariffs are 'reciprocity'",
-  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPd3NPZnZtM1NHTDVITDRZRW9jT2pJejFHVWZCd3BUS1habkFqU056U0tJV0Q2bGVPelYtV3Y1aUVaRExOUVpzT2h3cjR2b2s1Z1NuemxWeTJOT2xpcGFzdlJ3TFZHcmtWWmt4bEJLcU83aGtSYlc3ZDRqVGhtQ2xvQkpJRXZDU3ozYTA0ZHY5ZmF2T1dyWTdvQkRPeEswcWZCN2RuclJTSF9QekpidktGaGF3cWZqd3B6eFBuanlqR1NQWmVOUmN3Ulp5Qm5pWUMtMzhyejl3?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD Hazine Sekreteri Bessent, Kanada'ya uygulanan %50 tarifelerin 'karşılıklılık' ilkesine dayandığını söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T16:01:18.183104+00:00",
-  "type": "news",
-  "cluster_id": "c63b6b700c431"
- },
- {
-  "title": "US Health Secretary Kennedy says CMS is pausing Medicaid payments to California and Minnesota",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEk0SjgzaUFZclJjdzl1V0hBYmZpQ1djbFNYcFhoaTBBS1gzR1U0Ti1ZYjR1UTNPdEtwZUt1YTdsOWs5M0M5UWFGMVU0VHV3alhaVFlxeTVjU0cxa3BpRTRjZW5VVjFlRXFmME8xbXJUaV91eThrWE4zWnhDeDlvSEJyLTRQZ1FNemgxNFktaDRGaEtzRm9uZnFlb0xBQnBWUmIyb0YyOUZYN0hKZ0wxR182QTl4LWJ4Snc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD Sağlık Sekreteri Kennedy, CMS'in Kaliforniya ve Minnesota eyaletlerine Medicaid ödemelerini durdurduğunu açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T16:01:18.183104+00:00",
-  "type": "news",
-  "cluster_id": "cfd96092d75c4"
  }
 ]
