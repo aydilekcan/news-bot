@@ -1,5 +1,77 @@
 [
  {
+  "title": "Anketleri gören Erdoğan seçim planını değiştirdi",
+  "link": "https://www.sozcu.com.tr/anketleri-goren-erdogan-secim-planini-degistirdi-p353863",
+  "source": "Sözcü",
+  "summary_tr": "Anket sonuçları Cumhurbaşkanı Erdoğan'ı seçim planında revizyon yapmaya yönlendirdi. Hükümet Sistemi'nde değişiklik hazırlığı yapılıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-30T07:01:13.375383+00:00",
+  "type": "news",
+  "cluster_id": "cff339f029871"
+ },
+ {
+  "title": "CIA Direktörü Ratcliffe'in \"Trump, Putin ve Zelenskiy arasında üçlü görüşme teklif ettiği\" iddiası",
+  "link": "https://www.aa.com.tr/tr/dunya/cia-direktoru-ratcliffein-trump-putin-ve-zelenskiy-arasinda-uclu-gorusme-teklif-ettigi-iddiasi/4041318",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD CIA Direktörü Ratcliffe'in Rusya ziyaretinde Trump, Putin ve Zelenskiy arasında üçlü görüşme teklifinde bulunduğu iddia edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-30T07:01:13.375383+00:00",
+  "type": "news",
+  "cluster_id": "c986e6a80a4f8"
+ },
+ {
+  "title": "CIA Direktörünün Trump, Putin ve Zelenski arasında üçlü görüşme teklif ettiği iddiası",
+  "link": "https://www.trthaber.com/haber/dunya/cia-direktorunun-trump-putin-ve-zelenski-arasinda-uclu-gorusme-teklif-ettigi-iddiasi-955346.html",
+  "source": "TRT Haber",
+  "summary_tr": "CIA Direktörü Ratcliffe'in Rusya ziyaretinde ABD Başkanı Trump'ın Putin ve Zelenskiy arasında üçlü görüşme teklifinde bulunduğu iddiası.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-30T07:01:13.375383+00:00",
+  "type": "news",
+  "cluster_id": "c986e6a80a4f8"
+ },
+ {
+  "title": "Europe's central bankers fear more turbulence in testy U.S. relations",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTFd1SEtUeS1UNHY5aUFHVk9FeS1NRzROLUZUQjlDVk9pOGdBcmtuNTB5ZUVmR1QyOWRkTm9HRXBmT3Q1M3ZvUEk3MDBRajJLNVhYb09tS2xNeGVhUFRVa3N1TkxmWHVVNWpyT1pGQU1xQU9lTlU2aVBtU05tUUpSVnZNZnIwT29idFNwcHhvTFMxSTJvOWdMSUt3MkhUNGhrM1JJb0ZtMFpnYjlNcFg3aFZOMy1aQWM?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Avrupa merkez bankaları, ABD ile ilişkilerdeki gerginlikten kaynaklanan daha fazla karışıklık yaşanmasından endişe duyuyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-30T07:01:13.375383+00:00",
+  "type": "news",
+  "cluster_id": "cf5d9159a52d5"
+ },
+ {
+  "title": "Murat Muratoğlu: Neyse ki yönetim değişti ve SPK düğmeye bastı",
+  "link": "https://www.diken.com.tr/murat-muratoglu-neyse-ki-yonetim-degisti-ve-spk-dugmeye-basti/?utm_source=rss&utm_medium=rss&utm_campaign=murat-muratoglu-neyse-ki-yonetim-degisti-ve-spk-dugmeye-basti",
+  "source": "Diken",
+  "summary_tr": "SPK yönetimi değişti ve yeni düzenlemelere başladı. Finansal piyasalarda yeni adım atılıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-30T07:01:13.375383+00:00",
+  "type": "news",
+  "cluster_id": "c6659bbf5c8c2"
+ },
+ {
+  "title": "Hizmet üretici fiyatları (aylık): %3,94 (Temmuz)",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUUpoRWlDWFlibGZpN256REswbTVyMEZ2Skg1ODl4STFjRTZVQS1DcVJ2VVdaLVJPUWI0VVNPUllPVFdhZUE0Wkt1WnRqZ09LYjJhSUhBNFViOGg3TEROdU9WX29TUnhnSDBPbU1FZG1kNExha081TGlRYTVsZlZvUmNwUFRFeUExbTIxVmdBaXFpeDJianc1NjRzV3JRUQ?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%3,94",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-30T07:01:13.375383+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Altının yükselişine Fed freni: 81 gün sonra en büyük kayıp!",
   "link": "https://www.sozcu.com.tr/altinin-yukselisine-fed-freni-81-gun-sonra-en-buyuk-kayip-p353842",
   "source": "Sözcü",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-21T14:01:04.398099+00:00",
   "type": "news",
   "cluster_id": "c123ee6f3ec26"
- },
- {
-  "title": "Bakan Fidan: Türkiye, ASEAN'ın Diyalog Ortağı olarak kabul edildi",
-  "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-turkiye-aseanin-diyalog-ortagi-olarak-kabul-edildi-951802.html",
-  "source": "TRT Haber",
-  "summary_tr": "Dışişleri Bakanı Fidan, Türkiye'nin ASEAN Diyalog Ortağı statüsünü aldığını bildirdi.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-21T14:01:04.398099+00:00",
-  "type": "news",
-  "cluster_id": "c123ee6f3ec26"
- },
- {
-  "title": "Politika faizi: %37 (Mart, Nisan, Haziran 2026)",
-  "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNWFdQQU94R2FVYlBCdEJ4dTY0aHdsWDVGeklvTVZ3eFZaNDRWaUg4cEVvRmc3SWROZFpEeGducTJ0MDB0TGNMU3lZMTZ0OU00cDlFZnRRSlhKajRZUld1QVlGRG43dG1qSkd2TllnWU9sbXVsRnVzMVZENDE4aHVEUXVWRmE2c0J1MjRndmR3ZzZIeU95X0JBT3E2Y0IwbVdfRy1IOExpNlA5cWFFRXVvQWFtaEVOWEVCcXlyd3J5RVpwbS1jZ3BIUThnMmpnc0ZZRUhVaXotUzBCZ1NFTC1fMTJiMk5ra1V2Y0dkc1V3RHZWZHlEelc3NXQtVXo2V1BEd2o0TG8tMmo2MlZ4cXhmdHln?oc=5",
-  "source": "TCMB",
-  "summary_tr": "%37 → %37",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-07-21T14:01:04.398099+00:00",
-  "type": "forecast",
-  "cluster_id": ""
- },
- {
-  "title": "Fitch Türkiye için not artışı şartını açıkladı: Gözler bu veride!",
-  "link": "https://www.sozcu.com.tr/fitch-turkiye-icin-not-artisi-sartini-acikladi-gozler-bu-veride-p338460",
-  "source": "Sözcü",
-  "summary_tr": "Fitch, Türkiye'nin küresel belirsizliklere rağmen dayanıklılığını koruduğunu ve enflasyon düşüşünün not artışı için şart olduğunu açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T13:01:23.337914+00:00",
-  "type": "news",
-  "cluster_id": "c029684ac05bd"
- },
- {
-  "title": "Trump'ın yaklaşık 60 ülkeye yüzde 12,5'e varan gümrük vergisi getireceği iddia edildi",
-  "link": "https://www.aa.com.tr/tr/dunya/trumpin-yaklasik-60-ulkeye-yuzde-12-5e-varan-gumruk-vergisi-getirecegi-iddia-edildi/4004734",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Trump, yaklaşık 60 ülkeye yüzde 10-12,5 arasında gümrük vergisi uygulamaya hazırlanıyor.",
-  "metric": "Gümrük vergisi oranı %10-%12,5",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T13:01:23.337914+00:00",
-  "type": "news",
-  "cluster_id": "c0d0aa089c955"
- },
- {
-  "title": "DW Türkçe muhabiri Alican Uludağ gözaltına alındı",
-  "link": "https://www.dw.com/tr/dw-türkçe-muhabiri-alican-uludağ-gözaltına-alındı/a-78052248?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "DW Türkçe muhabiri Alican Uludağ, cezaevinden çıktıktan üç ay sonra tekrar gözaltına alındı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-21T13:01:23.337914+00:00",
-  "type": "news",
-  "cluster_id": "c7c626b466dfa"
- },
- {
-  "title": "Şanlıurfa ve Kahramanmaraş'taki okul saldırılarını araştıran komisyonun görev süresi uzatıldı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/sanliurfa-ve-kahramanmaras-taki-okul-saldirilarini-arastiran-komisyonun-gorev-suresi-uzatildi-2522668",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM, Şanlıurfa ve Kahramanmaraş'taki okul olaylarını araştıran komisyonun görev süresini uzattı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-21T13:01:23.337914+00:00",
-  "type": "news",
-  "cluster_id": "c3b8688c85d20"
  }
 ]
