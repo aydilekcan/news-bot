@@ -1,5 +1,29 @@
 [
  {
+  "title": "İran basını, Hürmüz Boğazı yakınlarındaki Lark Adası'ndan patlama sesleri geldiğini bildirdi",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-basini-hurmuz-bogazi-yakinlarindaki-lark-adasindan-patlama-sesleri-geldigini-bildirdi/4041986",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD'nin İran'ın Lark Adası'na saldırı düzenlemesinin ardından İran basını adadan patlama sesleri duyulduğunu bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-30T20:00:59.499603+00:00",
+  "type": "news",
+  "cluster_id": "c777846d98671"
+ },
+ {
+  "title": "İran basını, Lark Adası'ndan patlama sesleri geldiğini belirtti",
+  "link": "https://www.trthaber.com/haber/dunya/iran-basini-lark-adasindan-patlama-sesleri-geldigini-belirtti-955395.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD'nin İran'ın Lark Adası'na saldırı düzenlemesi sonrasında İran basını adadan patlama sesleri geldiğini bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-30T20:00:59.499603+00:00",
+  "type": "news",
+  "cluster_id": "c777846d98671"
+ },
+ {
   "title": "Girne açıklarında yolcu feribotu battı: En az 8 yolcu öldü, 19 kayıp var",
   "link": "https://www.bbc.com/turkce/articles/c4gvzyyq2jwo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-21T19:01:03.464387+00:00",
   "type": "news",
   "cluster_id": "cdb0ba9ee4003"
- },
- {
-  "title": "Kurtulmuş tura çıktı, çerçeve yasada hedef netleşti: 'Teklif Meclis kapanmadan yasalaşacak'",
-  "link": "https://www.bbc.com/turkce/articles/cr596vd5n6no?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "TBMM Başkanı Kurtulmuş, DEM Parti'nin Öcalan görüşmesinin ardından siyasi partilere 'çerçeve yasa' turunda bulundu; kanun teklifi Meclis kapanmadan yasalaşacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-21T18:01:10.754050+00:00",
-  "type": "news",
-  "cluster_id": "cccf85c233b94"
- },
- {
-  "title": "TSK, iki yıl daha Somali'de",
-  "link": "https://www.diken.com.tr/tsk-iki-yil-daha-somalide/?utm_source=rss&utm_medium=rss&utm_campaign=tsk-iki-yil-daha-somalide",
-  "source": "Diken",
-  "summary_tr": "Türk Silahlı Kuvvetleri'nin Somali'de iki yıl daha görev yapmasına ilişkin tezkere Meclis'ten geçti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T18:01:10.754050+00:00",
-  "type": "news",
-  "cluster_id": "c3bb831191e71"
  }
 ]
