@@ -1,5 +1,77 @@
 [
  {
+  "title": "Death toll rises to 38 from Russia’s deadliest attack on Ukraine this year",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY3lXTmFGUUQ0eUJwLXlHWWtSR1BwMlo0STdGREw1TFBwbkc3enR2N2sxWjI5WHI0cVRuaVllb0o5QVRORnd5Z0xLY2VaYXIxVWtoMW9vWWVwdU8tc3J2aV9GMjZVdXFLTWhMaktCZmx4WUlnbG1nZjZKdFdmNncxZUF6OXdMLVhlMUNhcGpGWFY4OS1XYWlyUnJFX3lxS3Q4Q1FXNGNoT0JQX3JqcDdyU3hPeW1ZcTJBWVNRNlRtWmZQT3FD?oc=5",
+  "source": "AP",
+  "summary_tr": "Rusya'nın Ukrayna'ya düzenlediği bu yılın en ölümcül saldırısında ölü sayısı 38'e yükseldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-30T11:01:05.178037+00:00",
+  "type": "news",
+  "cluster_id": "cb979069dc8da"
+ },
+ {
+  "title": "Mekke İttifakı kapsamında ilk toplantı İstanbul'da",
+  "link": "https://www.dw.com/tr/mekke-ittifakı-kapsamında-ilk-toplantı-istanbul-da/a-78562436?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Türkiye, Pakistan ve Suudi Arabistan arasındaki Mekke Ortak Savunma Anlaşması kapsamında kurulan Stratejik Siyasi ve Savunma Komitesi ilk kez İstanbul'da toplanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-30T11:01:05.178037+00:00",
+  "type": "news",
+  "cluster_id": "cddb683a7a3e7"
+ },
+ {
+  "title": "Mekke Ortak Savunma Anlaşması'nın ilk komite toplantısı yarın İstanbul'da düzenlenecek",
+  "link": "https://www.aa.com.tr/tr/gundem/mekke-ortak-savunma-anlasmasinin-ilk-komite-toplantisi-yarin-istanbulda-duzenlenecek/4041467",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Mekke Ortak Savunma Anlaşması kapsamında kurulan Stratejik Siyasi ve Savunma Komitesinin ilk toplantısı 31 Ağustos'ta İstanbul'da yapılacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-30T11:01:05.178037+00:00",
+  "type": "news",
+  "cluster_id": "cc1e038141956"
+ },
+ {
+  "title": "Mekke Anlaşması kapsamında kurulan komite ilk kez İstanbul'da toplanacak",
+  "link": "https://www.trthaber.com/haber/gundem/mekke-anlasmasi-kapsaminda-kurulan-komite-ilk-kez-istanbulda-toplanacak-955366.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye, Pakistan ve Suudi Arabistan'ın Mekke Ortak Savunma Anlaşması kapsamında kurulan komite ilk defa İstanbul'da toplanacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-30T11:01:05.178037+00:00",
+  "type": "news",
+  "cluster_id": "cd2fbc034586f"
+ },
+ {
+  "title": "Konut kiralamada yeni düzenleme: e-Devlet zorunluluğu yolda",
+  "link": "https://www.sozcu.com.tr/konut-kiralamada-yeni-duzenleme-e-devlet-zorunlulugu-yolda-p353928",
+  "source": "Sözcü",
+  "summary_tr": "Hazine ve Maliye Bakanlığı, kira sözleşmelerinin e-Devlet Kapısı üzerinden hazırlanmasını zorunlu hale getirmeyi planlıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-30T11:01:05.178037+00:00",
+  "type": "news",
+  "cluster_id": "ce573013be8bf"
+ },
+ {
+  "title": "Kira sözleşmelerinin e-Devlet üzerinden hazırlanmasının zorunlu olması öngörülüyor",
+  "link": "https://www.aa.com.tr/tr/ekonomi/kira-sozlesmelerinin-e-devlet-uzerinden-hazirlanmasinin-zorunlu-olmasi-ongoruluyor/4041451",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Hazine ve Maliye Bakanlığı, kira sözleşmelerinin e-Devlet üzerinden hazırlanmasını zorunlu kılmaya yönelik çalışma yürütüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-30T11:01:05.178037+00:00",
+  "type": "news",
+  "cluster_id": "c355e392f7e3c"
+ },
+ {
   "title": "Türkiye'nin büyüme rakamları yarın açıklanacak",
   "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-buyume-rakamlari-yarin-aciklanacak-955358.html",
   "source": "TRT Haber",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-21T15:01:13.390412+00:00",
   "type": "news",
   "cluster_id": "cd146e3009b9f"
- },
- {
-  "title": "Yeni parti için ilk istifa: Vekil Murat Bakan CHP'den ayrıldı",
-  "link": "https://www.diken.com.tr/vekil-murat-bakan-chpden-istifa-etti/?utm_source=rss&utm_medium=rss&utm_campaign=vekil-murat-bakan-chpden-istifa-etti",
-  "source": "Diken",
-  "summary_tr": "İzmir Milletvekili Murat Bakan, kurulacak yeni partiye katılmak için CHP'den istifa etti.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-21T15:01:13.390412+00:00",
-  "type": "news",
-  "cluster_id": "c5631160b922a"
- },
- {
-  "title": "CHP’li belediye başkanları da istifa edecek mi? İlk istifa eden isim Murat Bakan açıkladı",
-  "link": "https://www.sozcu.com.tr/chp-li-belediye-baskanlari-da-istifa-edecek-mi-ilk-istifa-eden-isim-murat-bakan-acikladi-p338494",
-  "source": "Sözcü",
-  "summary_tr": "CHP'den ayrılan İzmir Milletvekili Murat Bakan, CHP'li belediye başkanlarının da istifa edebileceklerini açıkladı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-21T15:01:13.390412+00:00",
-  "type": "news",
-  "cluster_id": "cc8ebcaef084a"
- },
- {
-  "title": "Irak Başbakanı Zeydi, Türkiye ziyaretinde çok sayıda mutabakat zaptının imzalanacağını söyledi",
-  "link": "https://www.aa.com.tr/tr/dunya/irak-basbakani-zeydi-turkiye-ziyaretinde-cok-sayida-mutabakat-zaptinin-imzalanacagini-soyledi/4004874",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Irak Başbakanı Ali ez-Zeydi, Türkiye ziyaretinde stratejik işbirliğini genişletecek mutabakatlar imzalanacağını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-21T15:01:13.390412+00:00",
-  "type": "news",
-  "cluster_id": "c09c791ac93d5"
- },
- {
-  "title": "İsrail son bir haftada işgal altındaki Batı Şeria'da Filistin toprakları için 7 el koyma kararı çıkardı",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-son-bir-haftada-isgal-altindaki-bati-seriada-filistin-topraklari-icin-7-el-koyma-karari-cikardi/4004867",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail, geçen hafta işgal altındaki Batı Şeria'da güvenlik yolları ve yasa dışı yerleşimlere hizmet edecek alanlar için 7 el koyma kararı çıkardı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-21T15:01:13.390412+00:00",
-  "type": "news",
-  "cluster_id": "c54aaaad46a8c"
- },
- {
-  "title": "Two tankers carrying Saudi crude make U-turns in Red Sea after Houthi warning",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVmdHTWJMUUNZTWRSakluQzVLdlpKd2dSQWpoYXhaRVl0OTQyYy1oeldnaWRmMXpkSy1OVjFSXzZHbWdzQmtCLVljcnZST3laUk50aThFel81QnZNS3I1TU10MzItWG1CdW1lMENtaWtMS3QwenREbEN2a1l0Ukh5TDNDazl6R0ppQVNQeUljSFJnUncwU1hnS09yZ21ydVR4WDNEZE1ObEUwcmVuazdOYWs3T2NNekdPVTVWcF9qdkkzUGR2SEo0?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Suudi Arabistan'dan gelen iki tanker, Houthi uyarısı üzerine Kızıl Deniz'de yön değiştirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-21T15:01:13.390412+00:00",
-  "type": "news",
-  "cluster_id": "c7298f03d026c"
- },
- {
-  "title": "Özgür Özel yeni partiyi ilan etti, demokratlara çağrıda bulundu",
-  "link": "https://www.dw.com/tr/özgür-özel-yeni-partiyi-ilan-etti-demokratlara-çağrıda-bulundu/a-78054072?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Özgür Özel CHP'den ayrılarak yeni bir parti kuruyor. Kuruluş dilekçesini bu hafta vereceklerini bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T14:01:04.398099+00:00",
-  "type": "news",
-  "cluster_id": "c6ac21c88d538"
  }
 ]
