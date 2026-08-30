@@ -1,5 +1,77 @@
 [
  {
+  "title": "Girne açıklarında yolcu feribotu battı: En az 8 yolcu öldü, 19 kayıp var",
+  "link": "https://www.bbc.com/turkce/articles/c4gvzyyq2jwo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Girne açıklarında yolcu feribotu alabora oldu; en az 8 ölü, 19 kayıp. 259 yolcu ve mürettebatın bulunduğu gemide arama kurtarma çalışmaları sürüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-08-30T19:01:46.454597+00:00",
+  "type": "news",
+  "cluster_id": "cce691854d03a"
+ },
+ {
+  "title": "KKTC'de 3 günlük yas ilan edildi",
+  "link": "https://www.trthaber.com/haber/gundem/kktcde-3-gunluk-yas-ilan-edildi-955394.html",
+  "source": "TRT Haber",
+  "summary_tr": "KKTC, Girne'deki deniz felaketi sonucu 3 günlük ulusal yas ilan etti. Feribotun batması nedeniyle can kayıpları yaşandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-30T19:01:46.454597+00:00",
+  "type": "news",
+  "cluster_id": "ce9fcdaf3a1be"
+ },
+ {
+  "title": "Rusya bir kez daha Ukrayna'yı hedef aldı",
+  "link": "https://www.sozcu.com.tr/rusya-kievde-lojistik-merkeze-iha-ile-saldirdik-p354008",
+  "source": "Sözcü",
+  "summary_tr": "Rusya, Kiev bölgesindeki askeri amaçlı bir lojistik merkezi vurdu. Ukrayna-Rusya çatışmasında devam eden hava operasyonu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-30T19:01:46.454597+00:00",
+  "type": "news",
+  "cluster_id": "c8c95aa9be6e7"
+ },
+ {
+  "title": "Bakan Uraloğlu: 19 yolcu için arama kurtarma çalışmaları devam ediyor",
+  "link": "https://www.trthaber.com/haber/gundem/bakan-uraloglu-19-yolcu-icin-arama-kurtarma-calismalari-devam-ediyor-955392.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ulaştırma Bakanı Uraloğlu: Girne'de alabora olan gemide 259 yolcu, 8 mürettebat bulunuyor; 19 kişi için arama çalışmaları devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-30T19:01:46.454597+00:00",
+  "type": "news",
+  "cluster_id": "ce5f9d3401428"
+ },
+ {
+  "title": "KKTC Girne'de kayıp yakınlarının umutlu bekleyişi devam ediyor",
+  "link": "https://www.trthaber.com/haber/gundem/kktc-girnede-kayip-yakinlarinin-umutlu-bekleyisi-devam-ediyor-955391.html",
+  "source": "TRT Haber",
+  "summary_tr": "Girne'deki deniz felaketi sonucu kaybolan 23 kişinin bulunması için arama kurtarma çalışmaları sürmektedir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-30T19:01:46.454597+00:00",
+  "type": "news",
+  "cluster_id": "c2282eff11274"
+ },
+ {
+  "title": "Somali'de Eş-Şebab'ın istihbarat şefi operasyonda öldürüldü",
+  "link": "https://www.sozcu.com.tr/somalide-essebabin-istihbarat-sefi-operasyonda-olduruldu-p354006",
+  "source": "Sözcü",
+  "summary_tr": "Somali güvenlik güçleri, terör örgütü Eş-Şebab'ın istihbarat şefi Abdullah Hashi Hersi Laba'yı öldürdü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-30T19:01:46.454597+00:00",
+  "type": "news",
+  "cluster_id": "cabc81c30eb0f"
+ },
+ {
   "title": "Girne açıklarında yolcu gemisi alabora oldu: Can kaybı 8'e yükseldi, 8 gözaltı",
   "link": "https://www.bbc.com/turkce/articles/c4gvzyyq2jwo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-21T18:01:10.754050+00:00",
   "type": "news",
   "cluster_id": "c3bb831191e71"
- },
- {
-  "title": "Kurtulmuş’un siyasi partilere 'çerçeve yasa' turu: Kanun teklifinin önümüzdeki hafta başında sunulması bekleniyor",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/kurtulmus-un-siyasi-partilere-cerceve-yasa-turu-kanun-teklifinin-onumuzdeki-hafta-basinda-sunulmasi-bekleniyor-2522740",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM Başkanı Kurtulmuş'un siyasi parti turunda müzakere edilen 'çerçeve yasa' teklifinin önümüzdeki hafta başında sunulması bekleniyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T18:01:10.754050+00:00",
-  "type": "news",
-  "cluster_id": "c83c3744e9090"
- },
- {
-  "title": "Özel'in yeni parti kararının ardından Hekimhan Belediye Başkanı CHP'den istifa etti",
-  "link": "https://www.sozcu.com.tr/hekimhan-belediye-baskani-mehmet-serif-yildirim-chp-den-istifa-etti-p338536",
-  "source": "Sözcü",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel'in yeni parti kararının ardından Hekimhan Belediye Başkanı Mehmet Şerif Yıldırım CHP'den istifa etti.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-21T18:01:10.754050+00:00",
-  "type": "news",
-  "cluster_id": "cf8aedf290d01"
- },
- {
-  "title": "Trump yine adres verdi: Çok güçlü biçimde vuracağız",
-  "link": "https://www.sozcu.com.tr/trump-yine-adres-verdi-cok-guclu-bicimde-vuracagiz-p338523",
-  "source": "Sözcü",
-  "summary_tr": "ABD Başkanı Trump, İran'ın Kazma Dağı bölgesine yakın zamanda güçlü bir operasyon düzenleyeceklerini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-21T17:01:14.241372+00:00",
-  "type": "news",
-  "cluster_id": "ce929f580c7b2"
- },
- {
-  "title": "ABD Başkanı Trump, İran'ın Kazma Dağı bölgesini çok yakında, çok güçlü biçimde vuracaklarını söyledi",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-iranin-kazma-dagi-bolgesini-cok-yakinda-cok-guclu-bicimde-vuracaklarini-soyledi/4005023",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Başkanı Trump, İran'ın Kazma Dağı bölgesine çok yakında çok güçlü bir saldırı gerçekleştireceklerini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-21T17:01:14.241372+00:00",
-  "type": "news",
-  "cluster_id": "c2ee4e745a040"
- },
- {
-  "title": "Azerbaycan ile Almanya enerjide iş birliğini artırıyor",
-  "link": "https://www.dw.com/tr/azerbaycan-ile-almanya-enerjide-iş-birliğini-artırıyor/a-78058607?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Azerbaycan Cumhurbaşkanı Aliyev, Berlin'deki temaslarında Almanya ile enerji alanında iş birliğini artırmayı vurguladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T17:01:14.241372+00:00",
-  "type": "news",
-  "cluster_id": "cd77ee84960d2"
- },
- {
-  "title": "Özel CHP’den ayrılıp yeni parti kuruyor, yedek bir parti de hazır",
-  "link": "https://yetkinreport.com/2026/07/21/ozel-chpden-ayrilip-yeni-parti-kuruyor-yedek-bir-parti-de-hazir/",
-  "source": "YetkinReport",
-  "summary_tr": "CHP Lideri Özgür Özel, partisinden ayrılarak yeni bir parti kurmaya hazırlanıyor; Çanakkale Belediye Başkanı ilk olarak yeni partiye katılacağını açıkladı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-21T17:01:14.241372+00:00",
-  "type": "news",
-  "cluster_id": "c1ce6bfc0225e"
  }
 ]
