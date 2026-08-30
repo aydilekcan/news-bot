@@ -1,5 +1,53 @@
 [
  {
+  "title": "ABD İran’ın Lark Adası’na saldırdı: Ölü ve yaralılar var",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS3lCNHhRZ0gwVlVYUExMbnIyQjUwSlVqeS1XUGVOb2xadUJpeTBUd3RnT1EyR3pGWFpqSFJrZUxNQXNSTDF1SWpYTmZudHFidHhXT3Y5c01rd1FabUFKYnpROC1PeTZuTjBsZGVoRGNzbXhERzZBbk1YdzZJaUZuaDl3OHNNQXNMZkF5dDNVRWZJeUkwZUE?oc=5",
+  "source": "soL",
+  "summary_tr": "ABD ordusu İran'ın Lark Adası'nda iki roket fırlatıcısını vurdu; İran Devrim Muhafızları saldırıya karşılık verme yemini etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-30T22:01:05.714212+00:00",
+  "type": "news",
+  "cluster_id": "c23a5f30d883b"
+ },
+ {
+  "title": "US forces strike two Iranian launchers on Iran's Larak island, US official says",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkpiVXljY0dfaG41QTlsRW1PXzVEMU9UUGRWYk41QzQ4UERCRnJ5TlVUSUloZXFTUF9ieVBhaGFxQi1iZ3NSOVRPODFnR3NQbnZxdWFJMnl6TmRwYnZqT3pOZFhWUEo5MzRVY2YtdEppVmNMSVQ2UVB0WW5zLThXNjIwdU9ZLUUyQVhWTENEQ3k0bGo2QUdNQVVHdWxSak91RkU5dGNlUFBOZjNqTDRuRGJRZHJHNWRuQTRiaDBSZFpjOTNGcGRV?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD güçleri İran'ın Hormuç Boğazı'ndaki Larak Adası'nda iki roket fırlatıcısını vurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-30T22:01:05.714212+00:00",
+  "type": "news",
+  "cluster_id": "c899403f6fe6c"
+ },
+ {
+  "title": "US forces strike Iranian rocket launchers on the Strait of Hormuz in first military action in weeks",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGpkelhtWHpKQXVxRDdydU9CekxJS2FnYzFHcklqek5leUhjLUMwdGlJN2dIYzlrbG12UGY2QTNjd2ZMeW1IckUwYi14R0xabVpreXI4LUhLYnc3cHFWbG5ZWnp4bXJTdVdqWVRsbEJFNzFkcW41U3FEU3UycTVFcVlvUVZRVktJanBMWGl0d3otT2RLdnB0ZXUxR0xHMXM5?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD ordusu Hormuç Boğazı'ndaki İranlı roket fırlatıcılarını vurdu; haftalar içinde ilk askeri operasyon.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-30T22:01:05.714212+00:00",
+  "type": "news",
+  "cluster_id": "cfa1ae47e68cd"
+ },
+ {
+  "title": "Seçim yarışında geri düşen Netanyahu, katıldığı canlı yayında tehditler savurdu",
+  "link": "https://www.aa.com.tr/tr/dunya/secim-yarisinda-geri-dusen-netanyahu-katildigi-canli-yayinda-tehditler-savurdu/4042045",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail Başbakanı Binyamin Netanyahu, 27 Ekim seçimlerinde kamuoyu yoklamalarında geride kaldığını belirten bir canlı yayında tehditler savurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-30T22:01:05.714212+00:00",
+  "type": "news",
+  "cluster_id": "c1e426cbd16fc"
+ },
+ {
   "title": "ABD'den İran'a yeni saldırı",
   "link": "https://www.diken.com.tr/abdden-irana-yeni-saldiri/?utm_source=rss&utm_medium=rss&utm_campaign=abdden-irana-yeni-saldiri",
   "source": "Diken",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-21T20:01:13.273329+00:00",
   "type": "news",
   "cluster_id": "c29a1a3f4473e"
- },
- {
-  "title": "AKP'nin Meclis çalışma takvimine ilişkin grup önerisi kabul edildi: Meclis ne zaman kapanacak?",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/akp-nin-meclis-calisma-takvimine-iliskin-grup-onerisi-kabul-edildi-meclis-ne-zaman-kapanacak-2522757",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM Genel Kurulu, AKP Grubu'nun Meclis çalışma takvimi önerisini kabul etti. Karar doğrultusunda Meclis kapanma tarihi belirlenmiştir.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-21T20:01:13.273329+00:00",
-  "type": "news",
-  "cluster_id": "c432dadab3925"
- },
- {
-  "title": "ABD'den yeni gümrük vergisi sinyali: 60 ülkeyi kapsıyor",
-  "link": "https://www.sozcu.com.tr/abd-den-yeni-gumruk-vergisi-sinyali-60-ulkeyi-kapsiyor-p338548",
-  "source": "Sözcü",
-  "summary_tr": "ABD Ticaret Temsilcisi, 'zorla çalıştırma' gerekçesiyle 60 ülkeyi kapsayan gümrük vergisi eylemini yakında açıklayacağını bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T20:01:13.273329+00:00",
-  "type": "news",
-  "cluster_id": "c4699fd6af0a4"
- },
- {
-  "title": "Trump administration to unveil forced labor trade action soon, says Greer",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcTFYVXpRV2VqWmJ0SkM0bExXY2pWN3ptcmVWMy15VEFiZFVuVDk5Ukx0UXhOd1RDUm0xcjZweW1xVTB1NS1KRXRZYWQ3cG50bVJzWTctM3JRaUNxYlB0eVMtRnZlSGdzTzg2dkRBT0NfbnlmSnVtSE9wc0VKbURVaXVHNUIxcFJxUVN1cy1FYzBIbDRUZEw4dG83T3R2dkNNTV9xNzAzeDZISEx1Zkh6aGtpdHo?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump yönetimi, 'zorla çalıştırma' gerekçesiyle gümrük vergisi eylemini yakında açıklayacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T20:01:13.273329+00:00",
-  "type": "news",
-  "cluster_id": "c1b810121e965"
- },
- {
-  "title": "CHP'ye atanan Gürsel Tekin duyurdu: 7 ilçe başkanı ve yönetimi görevden alındı!",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-ye-atanan-gursel-tekin-duyurdu-7-ilce-baskani-ve-yonetimi-gorevden-alindi-2522751",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP İstanbul İl Başkanlığına atanan Gürsel Tekin, 7 ilçe başkanı ve yönetimini görevden aldığını duyurdu.",
-  "metric": "7 ilçe yönetimi",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-21T20:01:13.273329+00:00",
-  "type": "news",
-  "cluster_id": "ca8bfee781e41"
  }
 ]
