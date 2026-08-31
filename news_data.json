@@ -1,5 +1,29 @@
 [
  {
+  "title": "New US missile appears to have left wide path of death and destruction in Iranian city, report says",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaXdTdmVIVWF1VGxlSHFKdm50WHloZWl0OV9mMTRDTml0UnFENmdvTG9WRm5PUG1ZaTh0cFBncU5JU0tSaGNuNEpDeDU1YUJMTTIzcG96VE1TWFV5Rk5MS1BmMVFlZFJYajlnbjBQci1ydDM4M2lTdmsxN0MxdWpzTE5zZnExZFRUdXg0LVpoWVR3OVhINUc1cl81NA?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD'nin yeni füzesi İran'da bir şehirde geniş bir ölüm ve tahribat alanı oluşturmuş olduğu bildirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-31T23:01:05.380145+00:00",
+  "type": "news",
+  "cluster_id": "c0369b7767db2"
+ },
+ {
+  "title": "Ben-Gvir Filistinli kadın tutukluların karşısında övündü: ‘Bunun sorumlusu benim ve memnunum’",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOUxkS200S2JnT1lubjVvT0lHeUxZZFQ4MFpQdVRCNVNwNUpVOWN5Yy10X3hWOXlURWZsUktMQ3NrMWl1Y241TW0wXzlYbDBJOGlGVER2V0Y4Z0ZaZUVpLTVTRk1GWXFzUnlFRGI4aGRXZHZFcGRRa3JsU09WeWdDRWRxSm40bTZrb1cyajZHYkJibjdrYU9MOU41Z0hrbEMyVlJybWJWZUZmU09IVnNWdzZiREhzLWxTT25VM1ZR?oc=5",
+  "source": "soL",
+  "summary_tr": "İsrailli Güvenlik Bakanı Ben-Gvir, Filistinli kadın tutukluların karşısında kendisinin sorumlu olduğunu söyleyerek övündüğünü açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-31T23:01:05.380145+00:00",
+  "type": "news",
+  "cluster_id": "ca70479cdc216"
+ },
+ {
   "title": "Ukrayna Devlet Başkanı Zelenskiy, eylülde \"çok şeyin değişebileceğini\" söyledi",
   "link": "https://www.aa.com.tr/tr/dunya/ukrayna-devlet-baskani-zelenskiy-eylulde-cok-seyin-degisebilecegini-soyledi/4043076",
   "source": "Anadolu Ajansı",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-22T18:01:04.991602+00:00",
   "type": "news",
   "cluster_id": "ce981f2ebedcb"
- },
- {
-  "title": "AMD, Anthropic'e milyar dolarlık yatırım yapacak",
-  "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/amd-anthropic-e-milyar-dolarlik-yatirim-yapacak-2523040",
-  "source": "Cumhuriyet",
-  "summary_tr": "Yarı iletken şirketi AMD, yapay zeka şirketi Anthropic'e stratejik ortaklık kapsamında gelecekte 5 milyar dolarlık yatırım yapacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-22T18:01:04.991602+00:00",
-  "type": "news",
-  "cluster_id": "c469b11997d75"
- },
- {
-  "title": "İsmet İnönü döneminde üye olan 103 yaşındaki emekli öğretmen CHP’den istifa etti",
-  "link": "https://www.sozcu.com.tr/ismet-inonu-doneminde-uye-olan-103-yasindaki-emekli-ogretmen-chp-den-istifa-etti-p338854",
-  "source": "Sözcü",
-  "summary_tr": "1946'da CHP'ye üye olan 103 yaşındaki emekli öğretmen, Kılıçdaroğlu'na tepki olarak partisinden istifa etti.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-22T18:01:04.991602+00:00",
-  "type": "news",
-  "cluster_id": "c1620dde3dfd0"
  }
 ]
