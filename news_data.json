@@ -1,5 +1,41 @@
 [
  {
+  "title": "İran Devrim Muhafızları Ordusu: Ürdün'deki iki ABD hava üssünü balistik füzelerle vurduk",
+  "link": "https://www.aa.com.tr/tr/live-blog/son-gelismeler-abdnin-irana-yonelik-saldirilari-ve-iran-in-misillemeleri/6194",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Devrim Muhafızları Ordusu, ABD'nin Larak Adası'na düzenlediği saldırıya karşılık olarak Ürdün'deki iki ABD hava üssünü balistik füzelerle vurduğunu duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-08-31T00:01:05.319491+00:00",
+  "type": "news",
+  "cluster_id": "cfcbc9b0efcb9"
+ },
+ {
+  "title": "Iran's IRGC says it launched attack on two US bases in Jordan",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOclJRRzlZV2lpOFlsSGdGcE1fUXVlel9CRndnX1NoM3lHcXkya2JMMWdrTEhUcnJyTHY0WDBqeFVoRzJmdEw5TlFXSGY1SVd1NXJERFdHS0IzQkhtRTdNTlJOMlp3RjgwYVVFYjY3NnV6d1c5cEt0UlVmaDJOdFBlT1ZRc0RpTVRVSkliRkU0SWZGYXZFa1JJdzNaOGxqVEFkX0FuV0l5WUNoaEFO?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran IRGC, Ürdün'deki iki ABD üssüne saldırı düzenlediğini resmen açıkladı; böylece ABD-İran gerginliği yeni düzeye ulaştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-08-31T00:01:05.319491+00:00",
+  "type": "news",
+  "cluster_id": "c4d895c5cfa24"
+ },
+ {
+  "title": "Oil jumps more than 2% after US attack on Iran's Larak island",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSGRJUGVDenVxZzdzdXZ4aTJudWV6LS1adkVVMmVUNnc1QnMyNVNsLThHcG44U2p6SWoxYm9LbjJnUGdkZDAzTENhSDR2OW90cWV2aDJNZWpKRllRNUhselE2djRhQlI3ejVmUUl6cFNnVDN1UmU4QXVadDNmQloya3daeWVHSmtGNDh4QWktSk1fenV3czlkbnhwNjJ3VzNXWEhZelFCRTIzaWpR?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Petrol fiyatları ABD'nin İran'ın Larak Adası'na düzenlediği saldırı sonrasında %2'den fazla yükselerek kritik seviyeye ulaştı.",
+  "metric": "Petrol fiyatı >%2 artış",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-31T00:01:05.319491+00:00",
+  "type": "news",
+  "cluster_id": "cddc6a38b421f"
+ },
+ {
   "title": "İran basını, ABD'nin saldırısının ardından denizdeki hedeflere atışlar yapıldığını duyurdu",
   "link": "https://www.aa.com.tr/tr/dunya/iran-basini-abdnin-saldirisinin-ardindan-denizdeki-hedeflere-atislar-yapildigini-duyurdu/4041986",
   "source": "Anadolu Ajansı",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-21T21:01:13.618331+00:00",
   "type": "news",
   "cluster_id": "c38dfbae34436"
- },
- {
-  "title": "Eskişehir'de kritik tesiste yangın: Söndürme çalışmaları sürüyor",
-  "link": "https://www.sozcu.com.tr/eskisehir-tei-de-yangin-p338563",
-  "source": "Sözcü",
-  "summary_tr": "TUSAŞ Motor Sanayii (TEI) Eskişehir yerleşkesinde yangın çıktı, çalışanlar tahliye edildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-21T21:01:13.618331+00:00",
-  "type": "news",
-  "cluster_id": "c506bf01ad34f"
- },
- {
-  "title": "Özgür Özel’in yeni partisine katılacak ilk belediye başkanı belli oldu",
-  "link": "https://www.sozcu.com.tr/ozgur-ozel-in-yeni-partisine-katilacak-ilk-belediye-baskani-belli-oldu-p338559",
-  "source": "Sözcü",
-  "summary_tr": "Çanakkale Belediye Başkanı Muharrem Erkek, Özgür Özel'in kuracağı yeni partiye katılacak ilk belediye başkanı oldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-21T21:01:13.618331+00:00",
-  "type": "news",
-  "cluster_id": "cfc34d979200a"
- },
- {
-  "title": "NATO Zirvesi öncesi tutuklanan akademisyen Emel Memiş dahil 7 kişi tahliye edildi",
-  "link": "https://www.sozcu.com.tr/tema-vakfi-gonullulerinden-7-kisiye-tahliye-karari-verildi-p338558",
-  "source": "Sözcü",
-  "summary_tr": "NATO Zirvesi öncesi tutuklanan akademisyen Emel Memiş dahil 7 kişi hakkında tahliye kararı çıktı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-21T21:01:13.618331+00:00",
-  "type": "news",
-  "cluster_id": "c96dc9f3d62fb"
  }
 ]
