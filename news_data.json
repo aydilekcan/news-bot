@@ -1,5 +1,41 @@
 [
  {
+  "title": "Erdoğan imzaladı, bu fakülteler kapatıldı",
+  "link": "https://www.sozcu.com.tr/erdogan-imzaladi-bu-fakulteler-kapatildi-p354053",
+  "source": "Sözcü",
+  "summary_tr": "Cumhurbaşkanı Erdoğan imzaladığı kararla üniversitelerde yeni birimler açılırken bazı enstitü ve fakülteler kapatıldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-08-31T03:01:04.041710+00:00",
+  "type": "news",
+  "cluster_id": "ca08ccb6296de"
+ },
+ {
+  "title": "Çiftçinin umutlarını çöpe döküyorlar",
+  "link": "https://www.sozcu.com.tr/ciftcinin-umutlarini-cope-dokuyorlar-p354047",
+  "source": "Sözcü",
+  "summary_tr": "Çiftçiler geçen yıl düşük alım fiyatından sonra bu yıl ithalat darbesiyle karşılaşıyor; soğan üreticileri zor durumda.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-31T03:01:04.041710+00:00",
+  "type": "news",
+  "cluster_id": "cc80edc6b65fb"
+ },
+ {
+  "title": "G20 countries should consider more trade barriers on China to cut imbalances, Bessent says",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPenpidlpzUmlPS0hRbS1jaGotNFBZZHgxWVhlMER4NlRWYnh2d280dW1uMHYwZHlvZlgzNVJkNlZQNno1dndkQ1FZNTFNeTJ4eERKTkRlX29kUXhwX1lvTk5XLUZNWUhsdmwxUC04SU9RekVXUlBaRW5GWWhscWs4XzFVcmJlek5ULUFxdDh0ZzB6TlNqUDNYSUJSb2VJQ1RPVHJvS3hWNjY1UUlZaWhfMXI4RFAxaTQ0aldEZXBjbEk?oc=5",
+  "source": "Reuters",
+  "summary_tr": "G20 ülkelerine Bessent tarafından Çin'e karşı daha fazla ticari engel getirilerek dengesizlikleri azaltması önerildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-31T03:01:04.041710+00:00",
+  "type": "news",
+  "cluster_id": "c64a3bbeca27a"
+ },
+ {
   "title": "ABD haftalar sonra İran'ın Lark Adası'na saldırdı, Tahran'dan karşılık geldi",
   "link": "https://www.bbc.com/turkce/articles/c750znwyye5o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-21T21:01:13.618331+00:00",
   "type": "news",
   "cluster_id": "cca482e73f388"
- },
- {
-  "title": "CHP, İstanbul'da yedi ilçe başkanını görevden aldı",
-  "link": "https://www.diken.com.tr/chp-istanbulda-yedi-ilce-baskanini-gorevden-aldi/?utm_source=rss&utm_medium=rss&utm_campaign=chp-istanbulda-yedi-ilce-baskanini-gorevden-aldi",
-  "source": "Diken",
-  "summary_tr": "CHP, İstanbul'da yedi ilçe başkanını görevden aldı. Gürsel Tekin mahkeme kararıyla İl Yönetimine getirilmişti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-21T21:01:13.618331+00:00",
-  "type": "news",
-  "cluster_id": "c90d4e3b51580"
- },
- {
-  "title": "Eskişehir TEI’deki yangını söndürme çalışmaları sürüyor: Çalışanlar tahliye edildi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/eskisehir-tei-deki-yangini-sondurme-calismalari-suruyor-calisanlar-tahliye-edildi-2522765",
-  "source": "Cumhuriyet",
-  "summary_tr": "TUSAŞ Motor Sanayii (TEI) Eskişehir yerleşkesinde yangın çıktı, söndürme çalışmaları devam ediyor. Çalışanlar tahliye edildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-21T21:01:13.618331+00:00",
-  "type": "news",
-  "cluster_id": "cc57a91ef144b"
- },
- {
-  "title": "TEMA Vakfı gönüllülerinden 8 kişiye tahliye kararı: Aralarında Emel Memiş de var",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/tema-vakfi-gonullulerinden-7-kisiye-tahliye-karari-aralarinda-emel-memis-de-var-2522762",
-  "source": "Cumhuriyet",
-  "summary_tr": "NATO Zirvesi kapsamında gözaltına alınan TEMA Vakfı gönüllüsü Emel Memiş dahil 8 kişiye tahliye kararı verildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-21T21:01:13.618331+00:00",
-  "type": "news",
-  "cluster_id": "cb59b091cfd59"
  }
 ]
