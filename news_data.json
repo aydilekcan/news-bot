@@ -1,5 +1,17 @@
 [
  {
+  "title": "ABD haftalar sonra İran'ın Lark Adası'na saldırdı, Tahran'dan karşılık geldi",
+  "link": "https://www.bbc.com/turkce/articles/c750znwyye5o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD, İran'ın Lark Adası'ndaki füze fırlatma rampalarını vurdu; Tahran karşılık verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-31T01:01:47.902069+00:00",
+  "type": "news",
+  "cluster_id": "cdbc668c96bd5"
+ },
+ {
   "title": "İran Devrim Muhafızları Ordusu: Ürdün'deki iki ABD hava üssünü balistik füzelerle vurduk",
   "link": "https://www.aa.com.tr/tr/live-blog/son-gelismeler-abdnin-irana-yonelik-saldirilari-ve-iran-in-misillemeleri/6194",
   "source": "Anadolu Ajansı",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-21T21:01:13.618331+00:00",
   "type": "news",
   "cluster_id": "cb59b091cfd59"
- },
- {
-  "title": "İzmir merkezli yasadışı bahis operasyonu: 2 milyar TL para trafiği, 34 gözaltı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/izmir-merkezli-yasadisi-bahis-operasyonu-2-milyar-tl-para-trafigi-34-gozalti-2522761",
-  "source": "Cumhuriyet",
-  "summary_tr": "İzmir merkezli yasadışı bahis operasyonunda 34 şüpheli gözaltına alındı, 2 milyar TL para trafiği tespit edildi.",
-  "metric": "Para trafiği: 2 milyar TL",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-21T21:01:13.618331+00:00",
-  "type": "news",
-  "cluster_id": "c38dfbae34436"
  }
 ]
