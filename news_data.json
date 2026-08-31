@@ -1,5 +1,17 @@
 [
  {
+  "title": "Netanyahu'dan seçim öncesi korku siyaseti: Yeni tehditler savurdu",
+  "link": "https://www.trthaber.com/haber/dunya/netanyahudan-secim-oncesi-korku-siyaseti-yeni-tehditler-savurdu-955411.html",
+  "source": "TRT Haber",
+  "summary_tr": "İsrail Başbakanı Netanyahu, 27 Ekim seçimleri öncesinde İran tehdidi üzerinden kamuoyu etkilendirmeye çalışıyor; kamuoyu anketlerinde rakibinin gerisinde kalmıştır.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-31T04:00:58.479666+00:00",
+  "type": "news",
+  "cluster_id": "cf1225a158b7b"
+ },
+ {
   "title": "Erdoğan imzaladı, bu fakülteler kapatıldı",
   "link": "https://www.sozcu.com.tr/erdogan-imzaladi-bu-fakulteler-kapatildi-p354053",
   "source": "Sözcü",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-21T21:01:13.618331+00:00",
   "type": "news",
   "cluster_id": "ccf11db9f5ec2"
- },
- {
-  "title": "Trump promises US help for Lebanon during a White House meeting with its president",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM0dLUVFUSUI0cG1faEJlMDl1ZVBEb2NZWFN5Z2REZThIRktHbDhpUVJ5UzlwTDNEUE4taWFpTXlSQTRLNzdhS25rN0JzS1lkSkMxUDZGMGszSFl1QlBuWWEzdXF3eWVyTGFYLS1jNlBoOUd2aWMxazVrNUQwMWlvU2d5QllFU2xQSUZpdjNJc3RaVjBpellDSVdpWk5xc3UyVTIxcS1UTmM?oc=5",
-  "source": "AP",
-  "summary_tr": "Trump, Beyaz Saray'da Lübnan Cumhurbaşkanı ile görüştüğü sırada ABD yardımı vaat etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-21T21:01:13.618331+00:00",
-  "type": "news",
-  "cluster_id": "cca482e73f388"
  }
 ]
