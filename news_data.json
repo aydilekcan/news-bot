@@ -1,5 +1,77 @@
 [
  {
+  "title": "Döviz dönüşümlü kur korumalı mevduat hesapları sıfırlandı",
+  "link": "https://www.sozcu.com.tr/doviz-donusumlu-kur-korumali-mevduat-hesaplari-sifirlandi-p354210",
+  "source": "Sözcü",
+  "summary_tr": "DDKKM hesaplarının toplam bakiyesi Temmuz ayında sıfırlandı; döviz dönüşümlü kur korumalı mevduat ürünü piyasadan çekildi.",
+  "metric": "DDKKM bakiyesi 10 milyon dolar -> 0 TL",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-31T12:01:07.326405+00:00",
+  "type": "news",
+  "cluster_id": "c512713283b35"
+ },
+ {
+  "title": "DDKKM toplam stok bakiyesi sıfırlandı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/ddkkm-toplam-stok-bakiyesi-sifirlandi/4042583",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "DDKKM hesapları bakiyesi Temmuz ayında 10 milyon dolar azalarak tamamen sıfırlandı.",
+  "metric": "DDKKM bakiyesi 10 milyon dolar -> 0 TL",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-31T12:01:07.326405+00:00",
+  "type": "news",
+  "cluster_id": "c7466ff1f376c"
+ },
+ {
+  "title": "Faiz indirimi için İTO'dan kritik çağrı",
+  "link": "https://www.sozcu.com.tr/faiz-indirimi-icin-ito-dan-kritik-cagri-p354209",
+  "source": "Sözcü",
+  "summary_tr": "İTO Başkanı Avdagiç, TCMB'nin 300 baz puanlık faiz indiriminin ardından ek indirimlere çağrı yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-31T12:01:07.326405+00:00",
+  "type": "news",
+  "cluster_id": "cf20b24aed38d"
+ },
+ {
+  "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Ekonomimiz dengeli bir büyüme patikası izlemeye devam etmektedir",
+  "link": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskani-yardimcisi-yilmaz-ekonomimiz-dengeli-bir-buyume-patikasi-izlemeye-devam-etmektedir/4042600",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Cumhurbaşkanı Yardımcısı Yılmaz, Türkiye ekonomisinin ikinci çeyrekte de dayanıklı büyüme performansı gösterdiğini bildirdi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-31T12:01:07.326405+00:00",
+  "type": "news",
+  "cluster_id": "c673df76ca0fe"
+ },
+ {
+  "title": "İslam ülkelerine ihracat (ilk 7 ay): 41,5 milyar $ (2025 ilk 7 ay)",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd2dmcUlQX0Q5X1RnZGwycUtvc09XTDl1WlI3QzhDS29XOFFndkFOaEx6aTdJaW0zUXNwSHNsMV80a2FIR016bHEtWVdSaWtnMnhnWHFrbER5ZWNBeTRWcUxrTkl5WDVEN1FmV040VUtSREtOb3ltMjl1NkZiQVBXMEdvQzh2blNWakx2S19acHFCSW9TNzhMaFdkREMwbzU4TkVYdDV2QUQwOGd1Rm9MY2NqOERrUjVxMDNz?oc=5",
+  "source": "Ticaret Bakanlığı",
+  "summary_tr": "41,5 milyar $",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-31T12:01:07.326405+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
+  "title": "GSYH büyüme oranı: %2,3 (2026 Q2)",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZVcyU3E3MG93NS1va1BWdHNJb3J1MVM0LXltQnY3emRTWllRTGZXclFFLW80UDJJSWh2emFBU2JGY085NWlRS3ozRTlqRzNTMlJuQ1JUUDctcTRiYVluSVRiTV9xc2NlMXZULWFydC1pQlZiQXBRTVFJVnYtWV9Fa3dEd3lFUmNLT0hqYW1pUUc3cG9rblVvVg?oc=5",
+  "source": "Eurostat",
+  "summary_tr": "23 çeyrek → %2,3",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-08-31T12:01:07.326405+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "World shares are mixed and oil prices surge after US strike on Iranian rocket launchers",
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5",
   "source": "AP",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-22T10:01:04.119892+00:00",
   "type": "news",
   "cluster_id": "c3ab5f4499f5a"
- },
- {
-  "title": "3 aydır maaşları ödenmiyor: Hakları için Ankara’ya yürüyen işçilere polis müdahalesi",
-  "link": "https://www.cumhuriyet.com.tr/calisma-yasami/3-aydir-maaslari-odenmiyor-haklari-icin-ankara-ya-yuruyen-iscilere-polis-mudahalesi-2522896",
-  "source": "Cumhuriyet",
-  "summary_tr": "Doruk Madencilik/Yunus Emre Termik Santrali'nde 3 aydır maaş ödenmeyen işçiler Beypazarı'ndan Ankara'ya yürüyüşe başladı; polis müdahale yaptı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-22T10:01:04.119892+00:00",
-  "type": "news",
-  "cluster_id": "cd8f5a261387e"
- },
- {
-  "title": "Yendeki değer kaybı Japon ekonomi yönetimini zorluyor",
-  "link": "https://www.sozcu.com.tr/yendeki-deger-kaybi-japon-ekonomi-yonetimini-zorluyor-p338731",
-  "source": "Sözcü",
-  "summary_tr": "Yen dolar karşısında 40 yılın en düşük seviyesinde; Japon ekonomi yönetimi para politikasında zorluk yaşıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-22T10:01:04.119892+00:00",
-  "type": "news",
-  "cluster_id": "cd97cbc2e52b1"
- },
- {
-  "title": "ECB kararında gözler savaşın etkisinde! Faizler sabit kalabilir, yeni mesajlar kritik olacak",
-  "link": "https://www.sozcu.com.tr/ecb-kararinda-gozler-savasin-etkisinde-faizler-sabit-kalabilir-yeni-mesajlar-kritik-olacak-p338702",
-  "source": "Sözcü",
-  "summary_tr": "Avrupa Merkez Bankası yarın faiz kararını açıklayacak; Orta Doğu gerilimleri nedeniyle merkez bankalarının politika sinyalleri kritik olacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-22T09:01:13.064000+00:00",
-  "type": "news",
-  "cluster_id": "cf70daf767191"
- },
- {
-  "title": "İngiltere'de aylık enflasyon yüzde 0,1 olarak açıklandı",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/ingiltere-de-aylik-enflasyon-yuzde-0-1-olarak-aciklandi-2522880",
-  "source": "Cumhuriyet",
-  "summary_tr": "İngiltere'de yıllık enflasyon haziranda %2,6 ile beklentilerin altında gerçekleşti; aylık enflasyon %0,1 olarak açıklandı.",
-  "metric": "TUFE (yıllık, İngiltere) %2,6",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-22T09:01:13.064000+00:00",
-  "type": "news",
-  "cluster_id": "c128fe15eb621"
- },
- {
-  "title": "UK inflation slows in temporary boost for new PM Burnham",
-  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zT2lzOGZHUzVZd3B5NWJBcmRtcEdmUmVIc0QwZ2U2WEtQLXozVnZiZ1pqSmhldVlrd3U5ZzY5QlMzbGw3eGpjM0hMUzhJSk9acXVQNmpmeWVPaXZxYi1lZDlOZFFiWkxrejdERTNHZFRvRW5aZUt2MWVsUQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İngiltere'de enflasyon yavaşlayarak, yeni Başkan Burnham için geçici bir avantaj oluşturdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-22T09:01:13.064000+00:00",
-  "type": "news",
-  "cluster_id": "ce974d7476b2d"
- },
- {
-  "title": "Emekliler meydana indi: İnsanca ve onurlu bir emeklilik istiyoruz",
-  "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/emekliler-meydana-indi-insanca-ve-onurlu-bir-emeklilik-istiyoruz-2522877",
-  "source": "Cumhuriyet",
-  "summary_tr": "DİSK Devrimci Emekliler Sendikası üyeleri, emekli aylıklarının artırılmasını talep ederek İzmir'de eylem düzenlediler.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-22T09:01:13.064000+00:00",
-  "type": "news",
-  "cluster_id": "c779af93cbc66"
  }
 ]
