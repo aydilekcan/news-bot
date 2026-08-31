@@ -1,5 +1,77 @@
 [
  {
+  "title": "Ukrayna Devlet Başkanı Zelenskiy, eylülde \"çok şeyin değişebileceğini\" söyledi",
+  "link": "https://www.aa.com.tr/tr/dunya/ukrayna-devlet-baskani-zelenskiy-eylulde-cok-seyin-degisebilecegini-soyledi/4043076",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ukrayna Devlet Başkanı Zelenskiy, ABD temsilcileriyle görüşmesinin ardından Eylül ayında büyük gelişmelerin olabileceğini belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-31T21:01:09.424161+00:00",
+  "type": "news",
+  "cluster_id": "c5b1d5556f5fa"
+ },
+ {
+  "title": "Belçika'dan sert 'Rus varlıkları' tepkisi: 'Bu konu müzakere edilemez, kapı tamamen kapalı'",
+  "link": "https://www.cumhuriyet.com.tr/dunya/belcika-dan-sert-rus-varliklari-tepkisi-bu-konu-muzakere-edilemez-kapi-tamamen-kapali-2533907",
+  "source": "Cumhuriyet",
+  "summary_tr": "Belçika Savunma Bakanı, Rusya'nın dondurulmuş varlıklarının Ukrayna'ya aktarılmasına karşı çıktığını belirterek bu konunun müzakere edilemez olduğunu söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-31T21:01:09.424161+00:00",
+  "type": "news",
+  "cluster_id": "cd25cebb3452a"
+ },
+ {
+  "title": "Kredi kartı kullanan milyonları ilgilendiriyor: Eylül ayında uygulanacak oranlar belli oldu",
+  "link": "https://www.sozcu.com.tr/kredi-karti-kullanan-milyonlari-ilgilendiriyor-eylul-ayinda-uygulanacak-oranlar-belli-oldu-p354319",
+  "source": "Sözcü",
+  "summary_tr": "TCMB tarafından Eylül ayında uygulanacak kredi kartı faiz oranları açıklandı ve milyonlarca kart kullanıcısını ilgilendiriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-31T21:01:09.424161+00:00",
+  "type": "news",
+  "cluster_id": "c2ef7bbcb3beb"
+ },
+ {
+  "title": "Amazon sued by FTC, 22 US states over advertising practices",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSzk4STU4blVuZzF1UWM3UVVLTkpvUkFaRXFzMW51T1UzTXlvTnpqOEtNcmt3TS1yTU8xVW1qa3EtUzFNcnBjNjc1ZkJmM0VXNVJySDhEdXB5blhZUGcyRGtoODZ1VHZUTm56WVpFcEVxRHEwU3g0ZGdYenZoZk5Tc2RBdzFGRmkwT0hGX1l0SUREMHJXR0V0aU9Ock02Mm1UbmxhMUVkZnFNS0lSay15dVEtS05qbTY5R3c?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD'de FTC ve 22 eyalet, Amazon'u reklam uygulamaları nedeniyle dava etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-31T21:01:09.424161+00:00",
+  "type": "news",
+  "cluster_id": "c63a7e198a2d3"
+ },
+ {
+  "title": "CHP Kurultay davasında 8 kişiye tahliye",
+  "link": "https://www.sozcu.com.tr/kurultay-davasinda-8-kisiye-tahliye-p354326",
+  "source": "Sözcü",
+  "summary_tr": "CHP'nin 38. Kurultayı ile ilgili tutuklanan 9 kişiden 8'i hakkında tahliye kararı verildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-08-31T21:01:09.424161+00:00",
+  "type": "news",
+  "cluster_id": "c6f3237af8779"
+ },
+ {
+  "title": "Europeans bristle at Russia's return to G20",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTXZxUVBoT0FGcGM1MnBqZEtONlBueE00WktYNGJ2Nm5LRVZQWmVzQklNTXpKaFk2ZEMtNDd6NG1KdWJVTEJZdkJRaTdHZDZiRmlobjFjdjlmZ3RORTh3ZXRVelhYVTlPSVdrcjRTLUhqOEtkNE9abVhiTFJqOXVGS3VGYlpDeXF6SVNZTG9YbW03RTQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Avrupa ülkeleri Rusya'nın G20'ye geri dönüşüne tepki gösteriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-31T21:01:09.424161+00:00",
+  "type": "news",
+  "cluster_id": "c32c8badd0a63"
+ },
+ {
   "title": "Zelenskiy tarih verdi: Çok şey değişebilir",
   "link": "https://www.sozcu.com.tr/zelenskiy-trumpin-temsilcileriyle-gorusonun-ardindan-eylulde-cok-sey-degisebilir-dedi-p354310",
   "source": "Sözcü",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-22T18:01:04.991602+00:00",
   "type": "news",
   "cluster_id": "c1620dde3dfd0"
- },
- {
-  "title": "Kurtulmuş: Türk-Kürt kardeşliği için Meclis tatile girmeden yasa çıkar",
-  "link": "https://yetkinreport.com/2026/07/22/kurtulmus-turk-kurt-kardesligi-icin-meclis-tatile-girmeden-yasa-cikar/",
-  "source": "YetkinReport",
-  "summary_tr": "Meclis Başkanı Kurtulmuş, terör karşıtı süreci yasal temele almak için 'çerçeve yasa' hazırlamaya dair temaslarını tamamladığını açıkladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-22T17:01:09.421919+00:00",
-  "type": "news",
-  "cluster_id": "cd67935baa0a0"
- },
- {
-  "title": "Özgür Özel, kurmaylarıyla yeni partinin yol haritasını masaya yatırdı: PM üyeleri çoğunlukla CHP'de kalacak",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-kurmaylariyla-yeni-partinin-yol-haritasini-masaya-yatirdi-pm-uyeleri-cogunlukla-chp-de-kalacak-2523031",
-  "source": "Cumhuriyet",
-  "summary_tr": "Özgür Özel yeni parti kurma kararıyla parti içi tartışmalar başlattı; PM üyeleri çoğunlukla CHP'de kalmayı tercih ediyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-22T17:01:09.421919+00:00",
-  "type": "news",
-  "cluster_id": "c37d6f8bd8e0c"
- },
- {
-  "title": "Odunpazarı Belediye Başkanı Kazım Kurt, meclis üyeleriyle birlikte CHP'den istifa etti",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/odunpazari-belediye-baskani-kazim-kurt-chp-den-istifa-etti-2523029",
-  "source": "Cumhuriyet",
-  "summary_tr": "Odunpazarı Belediye Başkanı Kazım Kurt CHP'den istifa ederek yeni partiye katılacağını açıkladı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-22T17:01:09.421919+00:00",
-  "type": "news",
-  "cluster_id": "c5c4506e7a7d6"
- },
- {
-  "title": "Son Dakika... Özgür Özel yanıtladı: Yeni Parti ne zaman kurulacak?",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-ozgur-ozel-yanitladi-yeni-parti-ne-zaman-kurulacak-2523019",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Lideri Özgür Özel yeni partinin kuruluş tarihini açıklamış; çok sayıda CHP vekili istifa edecek.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-22T16:01:08.751690+00:00",
-  "type": "news",
-  "cluster_id": "c9d527514872b"
- },
- {
-  "title": "CHP'den kaç vekil istifa edecek? Özgür Özel o soruyu tarih vererek yanıtladı",
-  "link": "https://www.sozcu.com.tr/chp-den-kac-vekil-istifa-edecek-ozgur-ozel-o-soruyu-tarih-vererek-yanitladi-p338834",
-  "source": "Sözcü",
-  "summary_tr": "CHP Lideri Özgür Özel yeni parti kuruluş tarihini duyurmuş; Partiden istifa edecek vekil sayısına ilişkin açıklama yaptı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-22T16:01:08.751690+00:00",
-  "type": "news",
-  "cluster_id": "c2b01f8006dc1"
- },
- {
-  "title": "Vakıf üniversitelerinde bu yıl öğrenim ücreti artışı yüzde 25'i aşamayacak",
-  "link": "https://www.aa.com.tr/tr/gundem/vakif-universitelerinde-bu-yil-ogrenim-ucreti-artisi-yuzde-25i-asamayacak/4006035",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Vakıf üniversitelerinde 2026-2027 öğretim yılında öğrenim ücreti artışı %25'i geçmeyecek.",
-  "metric": "Öğrenim ücreti artış oranı %25 sınırı",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-22T16:01:08.751690+00:00",
-  "type": "news",
-  "cluster_id": "c808c568ec2d4"
  }
 ]
