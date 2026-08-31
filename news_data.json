@@ -1,5 +1,77 @@
 [
  {
+  "title": "World shares are mixed and oil prices surge after US strike on Iranian rocket launchers",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD'nin İran'daki roket fırlatıcılarına yönelik saldırısının ardından dünya borsaları karışık hareket etti; petrol fiyatları yükseldi.",
+  "metric": "Petrol fiyatları yükseldi",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-31T11:01:19.733056+00:00",
+  "type": "news",
+  "cluster_id": "c6c119829b016"
+ },
+ {
+  "title": "Yeni adli yıl başlıyor: Hangi kritik davalar görülecek?",
+  "link": "https://www.dw.com/tr/yeni-adli-yıl-başlıyor-hangi-kritik-davalar-görülecek/a-78572235?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Yeni adli yıl başlıyor; CHP'ye yönelik butlan davası ve Ekrem İmamoğlu dahil belediye başkanlarına yönelik davalar kritik gündemdedir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-31T11:01:19.733056+00:00",
+  "type": "news",
+  "cluster_id": "ce45e2839b909"
+ },
+ {
+  "title": "Bakan Bolat yılın ikinci çeyreğine ilişkin büyüme verilerini değerlendirdi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-yilin-ikinci-ceyregine-iliskin-buyume-verilerini-degerlendirdi/4042510",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ticaret Bakanı Ömer Bolat, ikinci çeyrek büyüme verilerini değerlendirdi; küresel zorlu şartlara rağmen performans inceleniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-31T11:01:19.733056+00:00",
+  "type": "news",
+  "cluster_id": "c3cddb3167e19"
+ },
+ {
+  "title": "Türkiye'nin enerji geleceğine dev yatırım hamlesi",
+  "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-enerji-gelecegine-dev-yatirim-hamlesi-955454.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye 2035 hedeflerine ulaşmak için elektrik altyapısı ve rüzgar/güneş/nükleer enerjiye yaklaşık 200 milyar dolar yatırım yapacak.",
+  "metric": "Enerji yatırımı ~200 milyar dolar",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-31T11:01:19.733056+00:00",
+  "type": "news",
+  "cluster_id": "cc84c9e5c105f"
+ },
+ {
+  "title": "Sezonun ilk balık fiyatları belli oldu",
+  "link": "https://www.sozcu.com.tr/sezonun-ilk-balik-fiyatlari-belli-oldu-p354189",
+  "source": "Sözcü",
+  "summary_tr": "Balık av yasağının sona ermesiyle sezonun ilk balık fiyatları belirleniyor; balıkçılar denize çıkmaya hazırlanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-31T11:01:19.733056+00:00",
+  "type": "news",
+  "cluster_id": "c11888d20e2d3"
+ },
+ {
+  "title": "Çalışma ve Sosyal Güvenlik Bakanı Işıkhan, temmuz ayı iş gücü istatistiklerini değerlendirdi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/calisma-ve-sosyal-guvenlik-bakani-isikhan-temmuz-ayi-is-gucu-istatistiklerini-degerlendirdi/4042502",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Çalışma Bakanı Vedat Işıkhan temmuz işsizlik oranını %8,1'e yükseliş bildirdi; tek haneli seviye korunuyor.",
+  "metric": "İşsizlik oranı (temmuz) %8,1",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-31T11:01:19.733056+00:00",
+  "type": "news",
+  "cluster_id": "c6c61683aca46"
+ },
+ {
   "title": "ABD İran’ı yeniden vurdu, Tahran’dan Ürdün’deki ABD üslerine misilleme geldi",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUXc2Q0lPMUc1SEVBV3dCcnlCYWJONzZIbHJpcnpXWlBNX1ZnSWtJTUVNaHAwb3hNdFFBLXJGemdlNDJac0VLWFhyWWpYTGppR09ONG93a3JIc0x3Y2hCU3BxS29CaXE1S2dybllBN29TaFdZcTZCbWlONDBqX2F1VWdUbkdjVTFrM1diVkJ6RVlBTzBpYzFCaEdEcGFndDNPMXdiVEhkSWd6emZxaEV0LWczS3RKX2Y5aDhkNQ?oc=5",
   "source": "Medyascope",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-22T09:01:13.064000+00:00",
   "type": "news",
   "cluster_id": "c779af93cbc66"
- },
- {
-  "title": "Güneydoğulu halıcılardan 6 ayda 845,6 milyon dolarlık ihracat",
-  "link": "https://www.aa.com.tr/tr/ekonomi/guneydogulu-halicilardan-6-ayda-845-6-milyon-dolarlik-ihracat/4005561",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Güneydoğulu halıcılar, ilk yarıda 157 milyon 444 bin metrekare halı ihracatı yaparak 845,6 milyon dolarlık ihracat gerçekleştirdiler.",
-  "metric": "Halı ihracatı değeri (6 ay) 845,6 milyon dolar",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-22T09:01:13.064000+00:00",
-  "type": "news",
-  "cluster_id": "c5bab6b8f9c74"
- },
- {
-  "title": "Çerçeve yasa Meclis’e geliyor: ‘Öcalan düzenlemesi yok’",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/cerceve-yasa-meclis-e-geliyor-ocalan-duzenlemesi-yok-2522856",
-  "source": "Cumhuriyet",
-  "summary_tr": "Çerçeve yasa teklifinde takvim değişti; 'açılım süreci' kapsamında düzenleme hazırlanacak.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-22T08:01:18.509303+00:00",
-  "type": "news",
-  "cluster_id": "c3177f1b7a264"
- },
- {
-  "title": "Yerli turistler yılın ilk çeyreğinde 102,3 milyar lira seyahat harcaması yaptı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/yerli-turistler-yilin-ilk-ceyreginde-102-3-milyar-lira-seyahat-harcamasi-yapti/4005439",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Yerli turistler 2026 ilk çeyreğinde yurt içi seyahat harcamasını geçen yılın aynı dönemine göre %33,9 artırarak 102,3 milyar liraya çıkardı.",
-  "metric": "Yerli turizm harcaması +%33,9 (102,3 milyar TL)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-22T08:01:18.509303+00:00",
-  "type": "news",
-  "cluster_id": "c987236db430f"
- },
- {
-  "title": "Yerli turistler 102,3 milyar lira seyahat harcaması yaptı",
-  "link": "https://www.trthaber.com/haber/ekonomi/yerli-turistler-1023-milyar-lira-seyahat-harcamasi-yapti-951852.html",
-  "source": "TRT Haber",
-  "summary_tr": "Yerli turistler 2026 ilk çeyreğinde yurt içi seyahat harcamasını geçen yılın aynı dönemine göre %33 artırarak 102,3 milyar liraya çıkardı.",
-  "metric": "Yerli turizm harcaması +%33 (102,3 milyar TL)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-22T08:01:18.509303+00:00",
-  "type": "news",
-  "cluster_id": "c987236db430f"
- },
- {
-  "title": "EU envoys meet to negotiate 21st Russia sanctions package",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjdLb1ZpR0E4UnIwbUdKQlNKQmVnOFhSUi1ueGZucDk2akRMZnhDMXltTzdXbHl0dE5xUVpidzAwSllueWxoX2JqYTNsUWNwZmhJbkRrcWpIVU1DMnFzblJXbFIzV0FneEh3RzVwOTJKdDMyWWpJSWFNMXpaR3lPN2trWWhCOHY4VlFOT0w1d3N1cTQxN2N1a3lNRmFEZkxoWUgtX3NPSUN6V2c?oc=5",
-  "source": "Reuters",
-  "summary_tr": "AB büyükelçileri Rusya'ya karşı 21. yaptırım paketini müzakere etmek için toplandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-22T08:01:18.509303+00:00",
-  "type": "news",
-  "cluster_id": "c14d488c857f3"
- },
- {
-  "title": "NATO tutuklamaları: Gazeteci Yıldız Tar hakkında tahliye kararı",
-  "link": "https://www.diken.com.tr/nato-tutuklamalari-gazeteci-yildiz-tar-hakkinda-tahliye-karari/?utm_source=rss&utm_medium=rss&utm_campaign=nato-tutuklamalari-gazeteci-yildiz-tar-hakkinda-tahliye-karari",
-  "source": "Diken",
-  "summary_tr": "Gazeteci Yıldız Tar, NATO Zirvesi tutuklamaları kapsamında tahliye edildi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-22T08:01:18.509303+00:00",
-  "type": "news",
-  "cluster_id": "cf48962fed989"
  }
 ]
