@@ -1,5 +1,77 @@
 [
  {
+  "title": "Enflasyon için yeni tahmin! Memur ve emekli zammı ne kadar olacak?",
+  "link": "https://www.sozcu.com.tr/enflasyon-icin-yeni-tahmin-memur-ve-emekli-zammi-ne-kadar-olacak-p354264",
+  "source": "Sözcü",
+  "summary_tr": "Ekonomistler 2026 yıl sonu enflasyonunun %29,49 olacağını tahmin ediyor; memur ve emekli zammı beklentileri tartışılıyor.",
+  "metric": "Yıl sonu enflasyon tahmini: %29,49",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-31T15:01:16.527578+00:00",
+  "type": "news",
+  "cluster_id": "cf1e45d0de045"
+ },
+ {
+  "title": "Hakan Fidan'dan Mekke İttifakı açıklaması: 'Yeni bir güvenlik ve iş birliği mimarisi'",
+  "link": "https://www.bbc.com/turkce/articles/c0j3nw88engo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Dışişleri Bakanı Hakan Fidan, Türkiye-Suudi Arabistan-Pakistan Mekke İttifakı'nın İstanbul'daki ilk önemli toplantısından 'yeni güvenlik ve işbirliği mimarisi' vurgusuyla çıktı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-31T15:01:16.527578+00:00",
+  "type": "news",
+  "cluster_id": "cca48c4490c09"
+ },
+ {
+  "title": "Mekke İttifakı: İstanbul'daki ilk toplantıdan ne çıktı?",
+  "link": "https://www.dw.com/tr/mekke-ittifakı-istanbul-daki-ilk-toplantıdan-ne-çıktı/a-78562436?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Türkiye, Pakistan ve Suudi Arabistan üst düzey yetkilileri İstanbul'da Mekke İttifakı'nın ilk toplantısını gerçekleştirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-31T15:01:16.527578+00:00",
+  "type": "news",
+  "cluster_id": "c93cbb53b9e12"
+ },
+ {
+  "title": "70 şubeli restoran zinciri iflas etti: Tüm şubelerini aynı gün kapattılar",
+  "link": "https://www.sozcu.com.tr/70-subeli-restoran-zinciri-iflas-etti-tum-subelerini-ayni-gun-kapattilar-p354255",
+  "source": "Sözcü",
+  "summary_tr": "ABD'de sağlıklı yemek zinciri Salad and Go 70 şubesiyle iflas etti ve tüm lokantalarını kapattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-31T15:01:16.527578+00:00",
+  "type": "news",
+  "cluster_id": "c97014a39ec13"
+ },
+ {
+  "title": "Nvidia to invest $3.5 billion in chipmaker MediaTek, expand partnership",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGg1el9MUWRYTnBSbW42NnllVGxRSmwxLUloa1ppa01jamtTRXhiMEo0cUd0dk5iMDVPZEpMdDFBbGMtd2FzSVJFRjRIM3BSVVU1RFhEaTB1TDhHQzVNb2VnLTZWXzhQMmthTG5VRzk1STBaRVlsNENZOHNnWTJ4TURjR2hPUDNlS1VtSDd4NlB0UUxBLXprTnRJM25XOXNLVWt4amprQ3YyeWM?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Nvidia, çip üreticisi MediaTek'e 3,5 milyar dolar yatırım yaparak ortaklığını genişletecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-31T15:01:16.527578+00:00",
+  "type": "news",
+  "cluster_id": "c217011fcf2b6"
+ },
+ {
+  "title": "Turkey says it has Black Sea grain plan and is in contact with Russia, Ukraine",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORzNCeTl1Slh2LXg1ZW04UUFZS2xtdHE5ZjhXZ2FlVmZsTTRiN2dENVBjZFAyTWk3a0s1cDltV1dsSXFjWlNuTU5RaG9abDE2bVFGS3lNTC1NZWFsS2hUM3FpQUJQd2Y0dVdMWlhEUjdMb1B3blNPV0I4VDZwVkVleDNjRHlMNTY3aGFzRThESGhMejJFcENCR2hzZFpsVHRhMC1WSVV1SlZwVk1wV0xKTk5NMUZLbVI5VFNqRUprTU90UQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Türkiye, Karadeniz tahıl ticareti için bir planı olduğunu ve Rusya ile Ukrayna'yla temas halinde olduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-31T15:01:16.527578+00:00",
+  "type": "news",
+  "cluster_id": "c3188a64a8e8d"
+ },
+ {
   "title": "Türkiye ekonomisinde 2020'den beri en zayıf büyüme",
   "link": "https://www.dw.com/tr/türkiye-ekonomisinde-2020-den-beri-en-zayıf-büyüme/a-78576541?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-22T13:01:21.130401+00:00",
   "type": "news",
   "cluster_id": "ce7d2e8ef3938"
- },
- {
-  "title": "Protestolar işe yaradı: Ukrayna ordusunun komutanı değişti",
-  "link": "https://www.sozcu.com.tr/protestolar-ise-yaradi-ukrayna-ordusunun-generali-degisti-p338785",
-  "source": "Sözcü",
-  "summary_tr": "Ukrayna Devlet Başkanı Zelenskiy, protestoların ardından Silahlı Kuvvetler Başkomutanı Oleksandr Sirskiy'yi görevden alarak yerine yeni bir komutan atadı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-22T13:01:21.130401+00:00",
-  "type": "news",
-  "cluster_id": "c15bbb361cc44"
- },
- {
-  "title": "AKP'li vekilin eşine 3.7 milyar TL'lik ihale verildi!",
-  "link": "https://www.sozcu.com.tr/akp-li-vekilin-esine-3-7-milyar-tl-lik-ihale-verildi-p338784",
-  "source": "Sözcü",
-  "summary_tr": "Ziraat Teknoloji A.Ş.'nin 3 milyar 777 milyon TL'lik ihalesi AKP Milletvekili Asuman Erdoğan'ın eşine verildiği iddia edildi.",
-  "metric": "3.777 milyar TL ihale",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-22T13:01:21.130401+00:00",
-  "type": "news",
-  "cluster_id": "cc0ea9fbc9b97"
- },
- {
-  "title": "Ukrayna’da savaş yönetimine karşı eylemler: Ordu komutanı görevden alındı",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUFMyYTNoQkZPd0dyRzZUbkhtQ2dzNk9UdHpMRldjQ2RaTUhBMHZXTm1reDZoUWU1Q1dZSklXbGozUURDRUFRbzZOZ29odG5tQlJFTERWQmxDbElxRGd0MFAyYlBCVWNPdFVnWnktTW9wWHdISml0b002X2JRaTF5U0JuTllnMEtIVHg5cUtJMFpOTkNzenM2S3Mybmp6ZTlTZDJrQllkWmlON1NhWVE?oc=5",
-  "source": "soL",
-  "summary_tr": "Ukrayna'da savaş yönetimine karşı protestoların ardından ordu komutanı görevden alındı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-22T13:01:21.130401+00:00",
-  "type": "news",
-  "cluster_id": "c8e777bef952a"
- },
- {
-  "title": "Yedi soruda Özgür Özel'in kuracağı 'Yeni Parti': Yol haritasında neler var?",
-  "link": "https://www.bbc.com/turkce/articles/c14103pz2y1o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel, yeni bir parti kurmak için harekete geçti. Kuracağı partinin yol haritası ve hedefleri sorgulanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-22T13:01:21.130401+00:00",
-  "type": "news",
-  "cluster_id": "c0a596dbe6fed"
- },
- {
-  "title": "Rekabet Kurumu’ndan onay çıktı: Tekfen'in yeni patronu belli oldu",
-  "link": "https://www.sozcu.com.tr/rekabet-kurumu-ndan-onay-cikti-tekfen-in-yeni-patronu-belli-oldu-p338788",
-  "source": "Sözcü",
-  "summary_tr": "Rekabet Kurumu, Tekfen'in Can Holding'e ait yüzde 42,8'lik hissesinin OYAK'a devredilmesini onayladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-22T13:01:21.130401+00:00",
-  "type": "news",
-  "cluster_id": "c3105d82d0b93"
- },
- {
-  "title": "Finansal kesim dışındaki firmaların net döviz açığı mayısta azaldı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/finansal-kesim-disindaki-firmalarin-net-doviz-acigi-mayista-azaldi/4005840",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Finansal kesim dışındaki firmaların net döviz açığı mayıs ayında 204 milyar 415 milyon dolar oldu.",
-  "metric": "Net döviz açığı: 204,415 milyar USD (Mayıs)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-22T13:01:21.130401+00:00",
-  "type": "news",
-  "cluster_id": "cf3d6ad9e6065"
  }
 ]
