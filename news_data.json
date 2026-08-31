@@ -1,5 +1,77 @@
 [
  {
+  "title": "India's Modi tells Russia's Putin that the war in Ukraine must end for humanity's sake",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX1JRSVpMMVp5U0JZRXJRaXk3TTBZSjZqcXNTSTN4QjFBT1RTNGwyZ0hWa216TW94TjNkdE1XZ2lMWnVNMDhsSzczaHRpeWItSDNKREdvdTRSTlBDR3NrUFI5VUJKUnd0N2RyOVdHWmwwM3lFQXNiQnBLUHJTNFFBaGZRNEZ6a2M3Ymh2OEk2VFYzalRISUJCSTM0Y0c4QjNDR2tmU291UzdQWm91V0NpUFZzU0FGYnNZS3hKUEhB?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Hindistan Başbakanı Modi, Rusya Başkanı Putin'e Ukrayna savaşının insanlık için bitirile haber verilmesi gerektiğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-08-31T18:01:04.253873+00:00",
+  "type": "news",
+  "cluster_id": "c8fe33b2c769a"
+ },
+ {
+  "title": "İstanbul'da 'Mekke Anlaşması' toplantısı: Türkiye'nin de aralarında bulunduğu 3 ülkeden ortak açıklama",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/istanbul-da-mekke-anlasmasi-toplantisi-turkiye-nin-de-aralarinda-bulundugu-3-ulkeden-ortak-aciklama-2533859",
+  "source": "Cumhuriyet",
+  "summary_tr": "Türkiye, Pakistan ve Suudi Arabistan'ın dışişleri ve savunma bakanları ile genelkurmay başkanları, Mekke Ortak Savunma Anlaşması kapsamında İstanbul'da toplantı gerçekleştirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-31T18:01:04.253873+00:00",
+  "type": "news",
+  "cluster_id": "c3c884fddc726"
+ },
+ {
+  "title": "Vance, ABD ordusundaki mühimmat sıkıntısı için Biden yönetimini suçladı",
+  "link": "https://www.aa.com.tr/tr/dunya/vance-abd-ordusundaki-muhimmat-sikintisi-icin-biden-yonetimini-sucladi/4043000",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkan Yardımcısı JD Vance, ABD ordusundaki mühimmat sıkıntısı için Biden yönetimini sorumlu tuttu.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-08-31T18:01:04.253873+00:00",
+  "type": "news",
+  "cluster_id": "cd4db801fba36"
+ },
+ {
+  "title": "Russia’s jet-powered drones bring empty Kyiv supermarket shelves and rattle Ukrainians",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV0ZQQVJveHhwNlBNaWEyb2FLZkxHblJxeVR3YVpEdWJLdTNRYngyWDNyUk1qeWJQQUM4X210bFNLVUMxaGdheVZ1V1hlQ29GME92b1J6aWF5cWJ0ck0wLXJMYnE1MGlPWGJlNXNBVHNXbzRrMEZLejlPTjAyRmg3NHdWbzlkQ1BoX2hvUFhkUkFNVkwzNGd5UlFoblNFZ0JpQkFaaw?oc=5",
+  "source": "AP",
+  "summary_tr": "Rusya'nın jet motorlu insansız hava araçları Kyiv'de marketlerin raflarını boşalttı ve Ukraynalıları endişelendirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-08-31T18:01:04.253873+00:00",
+  "type": "news",
+  "cluster_id": "cf6ad40bc7eee"
+ },
+ {
+  "title": "Türk savunma sanayisinin küresel ligdeki yükselişi sürüyor",
+  "link": "https://www.aa.com.tr/tr/savunma-sanayisi/turk-savunma-sanayisinin-kuresel-ligdeki-yukselisi-suruyor/4043005",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Defense News Top 100 listesinde 5 Türk savunma sanayisi şirketi yer aldı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-08-31T18:01:04.253873+00:00",
+  "type": "news",
+  "cluster_id": "c03fe469a3816"
+ },
+ {
+  "title": "Türk savunma sanayisinin 5 şirketi dünya devleri arasında",
+  "link": "https://www.trthaber.com/haber/savunma/turk-savunma-sanayisinin-5-sirketi-dunya-devleri-arasinda-955485.html",
+  "source": "TRT Haber",
+  "summary_tr": "Dünyanın önde gelen savunma sanayisi şirketlerinin sıralandığı Defense News Top 100 listesinde 5 Türk şirketi yer aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-08-31T18:01:04.253873+00:00",
+  "type": "news",
+  "cluster_id": "c1fc10ae5625f"
+ },
+ {
   "title": "Mekke Anlaşması'nın ilk toplantısı İstanbul'da yapıldı",
   "link": "https://www.diken.com.tr/mekke-anlasmasinin-ilk-toplantisi-istanbulda-yapildi/?utm_source=rss&utm_medium=rss&utm_campaign=mekke-anlasmasinin-ilk-toplantisi-istanbulda-yapildi",
   "source": "Diken",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-22T14:01:21.634058+00:00",
   "type": "news",
   "cluster_id": "c6f8a182e8801"
- },
- {
-  "title": "Numan Kurtulmuş’tan ‘çerçeve yasa’ açıklaması: Umuyoruz Meclis tatile girmeden evvel yasalaşmış olur",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUDFCY0pCdE5GWXV5OUV4ckNQUWlZLW02TUNzWk81YzZVTWhZZXBBbEZuQVI0Vms3XzhSNXQ3QUlDbEFPMklrODE1b0hDWU1IcE5EZWctdE1oOFhLaTVsMzVyZGM1QUl6VGViRXY2MldCcXZoNmRlVEs5SmVvQkk2b0VtQ0p5eDE0cTEyS0FhV0dPak8tZGFKX1hESTBOOW95SktGQ1JQTk1rYjB6ZEdRMmktbDV2OHVQd0hGV2NCaw?oc=5",
-  "source": "soL",
-  "summary_tr": "TBMM Başkanı Kurtulmuş, 'çerçeve yasa'nın Meclis tatile girmeden evvel yasalaşmasını umduğunu açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-22T14:01:21.634058+00:00",
-  "type": "news",
-  "cluster_id": "c6f8a182e8801"
- },
- {
-  "title": "Kurtulmuş: Süreç yasası tatilden önce Meclis'e sunulur",
-  "link": "https://www.diken.com.tr/kurtulmus-surec-yasasi-tatilden-once-meclise-sunulur/?utm_source=rss&utm_medium=rss&utm_campaign=kurtulmus-surec-yasasi-tatilden-once-meclise-sunulur",
-  "source": "Diken",
-  "summary_tr": "Meclis Başkanı Kurtulmuş, çerçeve yasanın tatilden önce Meclis'e sunulacağını bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-22T14:01:21.634058+00:00",
-  "type": "news",
-  "cluster_id": "c62633f92b58f"
- },
- {
-  "title": "Trump’tan İran’a açık tehdit: 'Her saldırıya bir köprü ya da santral'",
-  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-iran-a-acik-tehdit-her-saldiriya-bir-kopru-ya-da-santral-2522987",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Başkanı Trump, İran'ın Hürmüz Boğazı'ndaki gemileri hedef alması durumunda altyapı misilleme saldırıları düzenleyeceğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-22T14:01:21.634058+00:00",
-  "type": "news",
-  "cluster_id": "cd1ff8647269a"
- },
- {
-  "title": "TBMM Başkanı Kurtulmuş: (Terörsüz Türkiye) Ümit ve arzu ederiz ki Meclis tatile girmeden yasalaşmış olur",
-  "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-terorsuz-turkiye-umit-ve-arzu-ederiz-ki-meclis-tatile-girmeden-yasalasmis-olur-/4005926",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "TBMM Başkanı Kurtulmuş, 'Terörsüz Türkiye' sürecine ilişkin yasanın Meclis tatile girmeden yasalaşmasını umduğunu belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-22T14:01:21.634058+00:00",
-  "type": "news",
-  "cluster_id": "c45e9b7fee1c1"
- },
- {
-  "title": "Kurtulmuş: Terörsüz Türkiye hedefi için yasal düzenleme zarureti ortaya çıktı",
-  "link": "https://www.trthaber.com/haber/gundem/kurtulmus-terorsuz-turkiye-hedefi-icin-yasal-duzenleme-zarureti-ortaya-cikti-951889.html",
-  "source": "TRT Haber",
-  "summary_tr": "TBMM Başkanı Kurtulmuş, 'Terörsüz Türkiye' hedefi için yasal düzenlemenin zaruri hale geldiğini vurguladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-22T14:01:21.634058+00:00",
-  "type": "news",
-  "cluster_id": "ce6779f3b5f64"
- },
- {
-  "title": "Trump'tan İran'a Hürmüz Boğazı tehdidi",
-  "link": "https://www.trthaber.com/haber/dunya/trumptan-irana-hurmuz-bogazi-tehdidi-951888.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD Başkanı Trump, İran'ın Hürmüz Boğazı'ndaki gemilere saldırması durumunda Tahran'daki köprü ve enerji santrallerini bombalamakla tehdit etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-22T14:01:21.634058+00:00",
-  "type": "news",
-  "cluster_id": "c363aacd9d759"
  }
 ]
