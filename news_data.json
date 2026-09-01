@@ -1,5 +1,41 @@
 [
  {
+  "title": "İran ordusu, Bahreyn'de ABD hedeflerini vurduğunu duyurdu",
+  "link": "https://www.trthaber.com/haber/dunya/iran-ordusu-bahreynde-abd-hedeflerini-vurdugunu-duyurdu-955613.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran ordusu, Bahreyn'deki ABD Şeyh İsa Hava Üssü'nü vurduğunu açıkladı. Bölgedeki saldırılara karşılık operasyon düzenledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-01T23:01:06.299577+00:00",
+  "type": "news",
+  "cluster_id": "cd9b7900f3038"
+ },
+ {
+  "title": "Putin says Russia is winning on battlefield, will not negotiate with 'terrorists'",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU1FFZkpCT1c3Y1FHS2dKVk1qOXF0UWVZOXBRZWZvdjI0Vk1pTkVxS3N1UUFoT2t1cU9MNTVDenhWZW15cW44cVYzcm5aOUZqLXdPOThmQThycVF4RWpNMzIzd29HTjhiZDZnUDAwbmhhZFFxdXJ4bWJaNWFodXF6R1hTQ3l3ZE9NVGJGakNtUThVSkJELTBpMUx3MUhBWGs5OU5abTJtS1F3Qms1czdpYUFydTkxbmhCNVRUdw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Putin, Rusya'nın savaş alanında kazandığını ve 'teröristler' ile müzakere etmeyeceğini söyledi. Ukrayna müzakerelerine kapalı pozisyon.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-01T23:01:06.299577+00:00",
+  "type": "news",
+  "cluster_id": "c19718a6ee6d0"
+ },
+ {
+  "title": "Putin says Russia has advanced in Donetsk region, surrounded some Ukrainian troops",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQamlDbWR2QjYwLVBpSmQ3RkR0N2lNWFZzS2plN1cxODg5eER2bnFRaG1fNmM0X3JGOU5vaEltaDU3RW1HdTdKaGFuY1RGWWtpZnV1bGVNbU1WN2RLY0R1ZXJDYTBHdEJVcVFHMjBkQkRkYlRfREQ4U3JaaTU4Z0lEUC1ZWEdnek9CbmVDeGNqM3Npb3dFeUtYdHpkMm5PalR6cE9xRmVVdVJQbVJkc3cyLUV3QUxVUllpdDloMGJWVWNPMHY0SEE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Putin, Rusya'nın Donetsk bölgesinde ilerleme kaydedip bazı Ukrayna birliklerini kuşattığını iddia etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-01T23:01:06.299577+00:00",
+  "type": "news",
+  "cluster_id": "cc9279000ab9a"
+ },
+ {
   "title": "ABD İran'a saldırdı, devlet medyası bir düğünde dört kişinin öldüğünü bildirdi",
   "link": "https://www.bbc.com/turkce/articles/c750znwyye5o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-23T12:01:25.976312+00:00",
   "type": "news",
   "cluster_id": "c5d516e71869f"
- },
- {
-  "title": "EU targets Russian banks in new sanctions package over Ukraine war",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbDk5Tmt4am9MUUVyY0V1RGRnbm5hbE5TcDJqTDJuRXlmaVpOdVJuN2VRYXIwaUwyRU9UdDN0b3N1eGMxS0NlelNjWmhqemJfN252N2QyVTBNSU9QSHcxbmwySkRnQk5XSDZLdXEwNEVTbEhmMDJNdFpuM2RvcjItMGJwVF9JMElIekt4TEtjSlF0dXBJMG5XUkw3ZHg1aVdRX2paMnRBdkFWcHlCbW5zU1NWWDRpazZtQjJfTWlQMnZ5cDN1dE5J?oc=5",
-  "source": "Reuters",
-  "summary_tr": "AB, Rusya'ya karşı yeni yaptırım paketinde Rus bankalarını hedef aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-23T12:01:25.976312+00:00",
-  "type": "news",
-  "cluster_id": "c338cc54d7506"
- },
- {
-  "title": "US is ready to help end the ‘senseless war’ in Ukraine but no quick deal ahead, Rubio says",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWFkYnFRZ1lKYlVmbi1lS2QyT1BteDg5MHdtQ2NsUnBPY0c1ZXF3TXluc3JLc2FlTENucHNwalh0cHU4emJnSnZkaFJqTDlaQTB3aHB1cm0wM0tKQWlFaTh0RkhleG1qME9SSnhNVlotaWFnU0NYczZaQ2pQSmJkZGtMZF9vclBhOXRmY2lYYTdpS0c4WWRQTg?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD Dışişleri Bakanı Rubio, Ukrayna'daki savaş için çabuk bir çözüm olmayacağını ama ABD'nin yardıma hazır olduğunu söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-23T12:01:25.976312+00:00",
-  "type": "news",
-  "cluster_id": "c9a9f263a0d84"
- },
- {
-  "title": "Bahçeli'den 'Yeni Parti' açıklaması: 'Vekil sayısı oranında hazine yardımı etik olanıdır'",
-  "link": "https://www.bbc.com/turkce/articles/ckgvy9ex32po?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "MHP Genel Başkanı Bahçeli, CHP'den ayrılan yeni partiye hazine yardımının vekilin oranında olması gerektiğini söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-23T12:01:25.976312+00:00",
-  "type": "news",
-  "cluster_id": "cf8d67e3a9841"
  }
 ]
