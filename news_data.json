@@ -1,5 +1,77 @@
 [
  {
+  "title": "İran Devrim Muhafızları: ABD'nin saldırıları Hürmüz Boğazı'nın kilidini daha da sıkılaştırıyor",
+  "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-abdnin-saldirilari-hurmuz-bogazinin-kilidini-daha-da-sikilastiriyor-955605.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Devrim Muhafızları, ABD saldırılarının Hürmüz Boğazı'nı kilitlemesini pekiştirdiğini ve karşı atakta bulunacaklarını açıkladı. Petrol ticaretine ciddi tehdit.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-01T21:01:08.520948+00:00",
+  "type": "news",
+  "cluster_id": "c5f4e5acb60b2"
+ },
+ {
+  "title": "İran basını: İran, ABD saldırılarına misillemede bulundu",
+  "link": "https://www.trthaber.com/haber/dunya/iran-basini-iran-abd-saldirilarina-misillemede-bulundu-955603.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran ordusu, ABD saldırılarına füze ve insansız hava araçlarıyla misilleme yaptığını duyurdu. Bölge çatışması eşkalasyona girdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-01T21:01:08.520948+00:00",
+  "type": "news",
+  "cluster_id": "c9375519dca84"
+ },
+ {
+  "title": "Kremlin says Putin, Xi and Trump may hold a trilateral meeting",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTWpIMzJyRDNBbEQwT2lFMEZGbWVPVGNvNW95d3NwWEI3Nlp2Ni0zbXVQLW9Gd1ZKTXpiU2pZYUlkSUV3OU8wZzFmclpHTkhLWWZTT0tjUjRUNDZETElweTE0S1Z3NmtuR2hCeWZYNDdvTEJidTVjTVItVnZPYUNZaFRUM1hHeDVINS1xLS1WekFHQnpiUXVWaUJVWWVOa1BZR3hYdFJrYVNqaUg4X0dBRTB1aVU?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Kremlin sözcüsü Putin, Xi Jinping ve Trump arasında üçlü bir zirvenin yapılabileceğini açıkladı. Küresel jeopolitik için önemli görüşme haberi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-01T21:01:08.520948+00:00",
+  "type": "news",
+  "cluster_id": "c85fc5d7eaf90"
+ },
+ {
+  "title": "ABD, İran’a saldırdı, piyasalar alt üst oldu: Altın çakıldı, Brent Petrol yükseldi",
+  "link": "https://www.sozcu.com.tr/abd-iran-a-saldirdi-piyasalar-alt-ust-oldu-altin-cakildi-brent-petrol-yukseldi-p354606",
+  "source": "Sözcü",
+  "summary_tr": "ABD'nin İran'a saldırılarının ardından Hürmüz Boğazı gerilimine ve bölge istikrarsızlığına yol açtı. Altın fiyatı düştü, Brent petrol yükseldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-01T21:01:08.520948+00:00",
+  "type": "news",
+  "cluster_id": "c9c8f5b12a125"
+ },
+ {
+  "title": "Ürdün'de siren sesleri",
+  "link": "https://www.trthaber.com/haber/dunya/urdunde-siren-sesleri-955606.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran ABD saldırılarına karşı misilleme başlattığını duyurdu; Ürdün'de hava alarm sistemleri devreye girdi. Bölgede gerilim keskin biçimde yükseldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-01T21:01:08.520948+00:00",
+  "type": "news",
+  "cluster_id": "c63d907cde7c0"
+ },
+ {
+  "title": "Venezuela's assembly backs oil deal announced with U.S.",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdXc4ZG9uTDdFNmdTRW00bHY3VDlpdVpOQXRtT09lQ1FmRlpZcDFJX1dKcmpxYWsxc2xCZ08wLXZWUEZsQjlmcF9vVk1zUVpnNGtHOElmdjBHOERQck1tOW5PUE9Ka0pyX2dXaDBzZ1lLT1liNVJOVFM3MHlXMmd1REtqUkhQQ0U3VHFyeW9JalY2dk5QUjd1TFJvQ2ZYbjlNY2JFV1NJdw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Venezuela meclisi ABD ile duyurulan petrol anlaşmasını onayladı. Jeopolitik gelişme; petrol piyasasına potansiyel etki.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-01T21:01:08.520948+00:00",
+  "type": "news",
+  "cluster_id": "cbb36c7e238c9"
+ },
+ {
   "title": "Gazze'deki İçişleri Bakanlığı: İsrail güçlerinin saldırısında siviller öldü, bir güvenlik subayı kaçırıldı",
   "link": "https://www.aa.com.tr/tr/dunya/gazzedeki-icisleri-bakanligi-israil-guclerinin-saldirisinda-siviller-oldu-bir-guvenlik-subayi-kacirildi/4044470",
   "source": "Anadolu Ajansı",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-23T11:01:15.221766+00:00",
   "type": "news",
   "cluster_id": "c7bf7cdb9c881"
- },
- {
-  "title": "Türkiye Cumhuriyet Merkez Bankası faiz kararını açıkladı",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/turkiye-cumhuriyet-merkez-bankasi-faiz-kararini-acikladi-2523167",
-  "source": "Cumhuriyet",
-  "summary_tr": "TCMB Para Politikası Kurulu yılın beşinci toplantısını tamamladı ve faiz kararını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-23T11:01:15.221766+00:00",
-  "type": "news",
-  "cluster_id": "c6a48178d6110"
- },
- {
-  "title": "Husiler Kızıldeniz'de Suudi petrol tankerini vurdu",
-  "link": "https://www.bbc.com/turkce/articles/c4gjw97vnvyo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "İran destekli Husiler Kızıldeniz'de Suudi petrol tankerlerine saldırı düzenledi; petrol ve doğalgaz fiyatları keskin yükselişe geçti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-23T11:01:15.221766+00:00",
-  "type": "news",
-  "cluster_id": "c26cfbaa2a6ad"
- },
- {
-  "title": "Ekmek fiyatlarını etkileyecek kriz! Buğdayda 2 yılın en yüksek seviyesi",
-  "link": "https://www.sozcu.com.tr/ekmek-fiyatlarini-etkileyecek-kriz-bugdayda-2-yilin-en-yuksek-seviyesi-p339091",
-  "source": "Sözcü",
-  "summary_tr": "Karadeniz askeri gerilimi, iklim şartları ve gübre maliyeti yükselişi buğday fiyatlarını 2 yılın en yüksek seviyesine çıkardı; ekmek fiyatlarını etkileyecek kriz uyarısı yapıldı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-23T11:01:15.221766+00:00",
-  "type": "news",
-  "cluster_id": "c9c0657821224"
- },
- {
-  "title": "Karadeniz'de ticaret alarmı: Ukrayna'nın üç büyük limanında gemi trafiği durdu",
-  "link": "https://www.sozcu.com.tr/karadeniz-de-ticaret-alarmi-ukrayna-nin-uc-buyuk-limaninda-gemi-trafigi-durdu-p339089",
-  "source": "Sözcü",
-  "summary_tr": "Rusya'nın Karadeniz saldırılarının artması nedeniyle Ukrayna'nın Odessa, Çernomorsk ve Yujnıy limanlarında ticari gemi trafiği durdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-23T11:01:15.221766+00:00",
-  "type": "news",
-  "cluster_id": "cd5200404a775"
- },
- {
-  "title": "Ukrayna’nın Karadeniz limanlarında ticari gemi trafiği durdu",
-  "link": "https://www.aa.com.tr/tr/ekonomi/ukrayna-nin-karadeniz-limanlarinda-ticari-gemi-trafigi-durdu/4006837",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Rusya'nın Karadeniz saldırılarının artması nedeniyle Ukrayna'nın Odessa, Çernomorsk ve Yujnıy limanlarındaki ticari gemi trafiği durdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-23T11:01:15.221766+00:00",
-  "type": "news",
-  "cluster_id": "cd5200404a775"
- },
- {
-  "title": "AB Komisyonu'ndan Google'a 890 milyon avro ceza",
-  "link": "https://www.aa.com.tr/tr/ekonomi/ab-komisyonundan-googlea-890-milyon-avro-ceza/4006852",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "AB Komisyonu, Google'ın Dijital Piyasalar Yasası ihlalinden dolayı 890 milyon avro ceza yağdırdı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-23T11:01:15.221766+00:00",
-  "type": "news",
-  "cluster_id": "c3896dc3c5839"
  }
 ]
