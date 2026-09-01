@@ -1,5 +1,65 @@
 [
  {
+  "title": "Mahkeme yanlış dosyaya baktı, AYM hak ihlali dedi",
+  "link": "https://www.sozcu.com.tr/mahkeme-yanlis-dosyaya-bakti-aym-hak-ihlali-dedi-p354445",
+  "source": "Sözcü",
+  "summary_tr": "Anayasa Mahkemesi, cezaevinde mektup ve görüntülü görüşmeye getirilen kısıtlamalara yapılan itirazda mahkemenin yanlış dosyaya bakarak hak ihlali bulunduğuna karar verdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-01T09:01:05.748051+00:00",
+  "type": "news",
+  "cluster_id": "c995e414bc7cb"
+ },
+ {
+  "title": "Global bond rout deepens as Japan yield hits key threshold",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSl9GcExBdk5lb3U4c1NTalROY2NUNHE4SXdlbE5yemw4WkwteWNMdTZVTFdrcHhPUVF5Q181eTlxZ2xoUkV6Q3F4a19ldHJBdGFnaG9URjY3bXNTMDE0aV9mVDU1MUtxMTRXRl9pR2p2THVmc2JiWGlSb1prUElXTWtaNzBsb3Z5U2tCNXZlTlMtM3pHU3Y0dkVNWUhHWmVWUmJxbnZmVVFlNmVlMDR3?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Küresel tahvil piyasasında satış basıncı derinleşirken, Japonya'nın getiri oranı kritik eşiği geçti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-01T09:01:05.748051+00:00",
+  "type": "news",
+  "cluster_id": "cdc7c7c6e9e8f"
+ },
+ {
+  "title": "Hekim Birliği Sendikası'ndan 3 günlük eylem kararı",
+  "link": "https://www.cumhuriyet.com.tr/saglik/hekim-birligi-sendikasi-ndan-3-gunluk-eylem-karari-2533990",
+  "source": "Cumhuriyet",
+  "summary_tr": "Hekim Birliği Sendikası, hekimlerin ekonomik ve sosyal haklarının iyileştirilmesi için 28-30 Eylül'de 3 günlük eylem kararı aldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-01T09:01:05.748051+00:00",
+  "type": "news",
+  "cluster_id": "cf8bc47c92019"
+ },
+ {
+  "title": "KOSGEB'den KOBİ'lere 6 ayda 27 milyar liralık destek",
+  "link": "https://www.trthaber.com/haber/ekonomi/kosgebden-kobilere-6-ayda-27-milyar-liralik-destek-955538.html",
+  "source": "TRT Haber",
+  "summary_tr": "KOSGEB, 2026 yılının ilk 6 ayında 24 bin 424 işletmeye 27 milyar lira destek sağladı.",
+  "metric": "KOSGEB desteği: 27 milyar lira (24.424 işletmeye)",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-01T09:01:05.748051+00:00",
+  "type": "news",
+  "cluster_id": "ccd4df0abda41"
+ },
+ {
+  "title": "İran Merkez Bankası Başkanı: İranın dövizi var ve hem de yeterince var",
+  "link": "https://www.trthaber.com/haber/dunya/iran-merkez-bankasi-baskani-iranin-dovizi-var-ve-hem-de-yeterince-var-955536.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Merkez Bankası Başkanı, ABD Başkanı Trump'ın \"İran'ın döviz kalmadı\" iddiasını çürüterek İran'ın yeterli döviz rezervine sahip olduğunu bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-01T09:01:05.748051+00:00",
+  "type": "news",
+  "cluster_id": "c19ae429ab946"
+ },
+ {
   "title": "Otobüsten ucuz uçuş dönemi resmen başlıyor: 2 şehir arası uçmak 200 lira olacak",
   "link": "https://www.sozcu.com.tr/otobusten-ucuz-ucus-donemi-resmen-basliyor-2-sehir-arasi-ucmak-200-lira-olacak-p354433",
   "source": "Sözcü",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-22T22:01:15.191172+00:00",
   "type": "news",
   "cluster_id": "c3c325ba419e6"
- },
- {
-  "title": "Trump'tan 'İran' açıklaması: 'Anlaşma yapmak istiyorlar ama henüz buna hazır değiller, yakında hazır olacaklar'",
-  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-iran-aciklamasi-anlasma-yapmak-istiyorlar-ama-henuz-buna-hazir-degiller-yakinda-hazir-olacaklar-2523106",
-  "source": "Cumhuriyet",
-  "summary_tr": "Trump, İran'ın anlaşma yapmak istediğini ancak henüz hazır olmadığını söyledi. ABD-İran müzakereleri yakında ilerleyebilir.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-22T22:01:15.191172+00:00",
-  "type": "news",
-  "cluster_id": "c2ebbee5ad24d"
- },
- {
-  "title": "Trump: İranlılar anlaşma yapmak istiyor ama henüz buna hazır değiller",
-  "link": "https://www.trthaber.com/haber/dunya/trump-iranlilar-anlasma-yapmak-istiyor-ama-henuz-buna-hazir-degiller-951926.html",
-  "source": "TRT Haber",
-  "summary_tr": "Trump, İran'ın anlaşma yapmak istediğini ancak henüz hazır olmadığını söyledi. ABD-İran müzakereleri yakında ilerleyebilir.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-22T22:01:15.191172+00:00",
-  "type": "news",
-  "cluster_id": "c2ebbee5ad24d"
- },
- {
-  "title": "Torba kanun teklifinde 3'üncü madde metinden çıkarıldı: 4 ve 5'inci maddelerde değişikliğe gidildi",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/torba-kanun-teklifinde-3-uncu-madde-metinden-cikarildi-4-ve-5-inci-maddelerde-degisiklige-gidildi-2523105",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM'de torba kanun teklifinin 3. maddesi metinden çıkarıldı; 4. ve 5. maddelerde değişikliğe gidildi. Yasa tasarısı süreçte AKP önerileriyle revize edildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-22T22:01:15.191172+00:00",
-  "type": "news",
-  "cluster_id": "cb13fb8c7ec2c"
- },
- {
-  "title": "Öğretmenin taban maaş mücadelesi",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY2pNRjZBdlItSlpWUDRYWUFhNjJMTjhHQlJHR2lDV281UGtUZ3NoYTZZd01CVklhMEVrODZLM08yX0JsMGRib243ZEh2aThuSnVrVnROcHJMd3p2Vy1ReS16ck8yOGFMYWNhcEt6TzFlYThKbXZqYTBnM2dnV1YwSkFxZXFtU1lJZWdoVFh3cEs4UQ?oc=5",
-  "source": "soL",
-  "summary_tr": "Öğretmenlerin taban maaş mücadelesi gündemde. Eğitim çalışanlarının ücret taleplerinin kamuoyu görünürlüğü arttı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-22T22:01:15.191172+00:00",
-  "type": "news",
-  "cluster_id": "c8fc7b60b9525"
- },
- {
-  "title": "Google increases capex forecast again after cloud-driven earnings beat",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNTZyTWZjRUFlVHJzZlUxbjIzNFI4OUt5WG1WR1ZtV0U0OHlBSVpJQm10VFJiYy1zcjhHUGpYTlVRWWduUjJHd19OYW1aaTZ4ZE81V3FOU1AwQVFmVzJaeEFHYkJJNUJxQzRVZFF1dDVjLTdpNjR2bTBIN1BrVTZXMUNUaWxBVkQ3VEZBNThMeWNxRnk1RnMtLTlUS0UtNGJNNkQ4?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Google, bulut işletmelerine dayalı güçlü performans sonrası sermaye harcama tahminini yükseltti. Teknoloji sektörü yatırımları artış gösteriyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-22T22:01:15.191172+00:00",
-  "type": "news",
-  "cluster_id": "c6ad8d6536903"
  }
 ]
