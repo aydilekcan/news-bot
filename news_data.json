@@ -1,5 +1,77 @@
 [
  {
+  "title": "İstanbul'un ağustos enflasyonu belli oldu",
+  "link": "https://www.sozcu.com.tr/istanbul-un-agustos-enflasyonu-belli-oldu-p354456",
+  "source": "Sözcü",
+  "summary_tr": "İstanbul Ticaret Odası verilerine göre ağustosta şehrin perakende fiyat artış hızı yavaşlama kaydetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-01T10:01:13.035182+00:00",
+  "type": "news",
+  "cluster_id": "cfdef02a6d525"
+ },
+ {
+  "title": "Kur korumalı mevduat sistemi sona erdi: Peki maliyeti ne oldu?",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORWc3dkpHYlA2TUI0NHF6TG4ySllsMXByYlFaTmtIT2k5S2NWNW1QaUhXOU1kLWM5LTF3MUZzY19BeHAyRUFWSmhuZ21vUldmdTVpVXIxXzZETjNHZnNFYVI2N1IzNjJ2dDBscTRHTU9ibkJNV1R6TnEwMmRKdTNxdzdWTlJaMm52MVY5Um1Za0g1S0xxNVhnb1NR?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Kur korumalı mevduat sistemi sona erdi. Sistemin toplam maliyeti açıklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-01T10:01:13.035182+00:00",
+  "type": "news",
+  "cluster_id": "c61eca30dfb5b"
+ },
+ {
+  "title": "Tahıl anlaşması: Rusya'dan Karadeniz'de moratoryuma ret",
+  "link": "https://www.dw.com/tr/tahıl-anlaşması-rusya-dan-karadeniz-de-moratoryuma-ret/a-78585611?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Rusya, Karadeniz'de tahıl ticaretini açan moratoryuma sıcak bakmadığını bildirdi. Dışişleri Bakanı Hakan Fidan, Ukrayna ve Rusya ile yeni bir tahıl anlaşması müzakeresi yapıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-01T10:01:13.035182+00:00",
+  "type": "news",
+  "cluster_id": "cd2f0a102c784"
+ },
+ {
+  "title": "Avro Bölgesi'nde imalat sanayi PMI ağustosta 52,7'ye yükseldi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/avro-bolgesinde-imalat-sanayi-pmi-agustosta-52-7ye-yukseldi/4043602",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Avro Bölgesi'nin imalat sanayi PMI endeksi ağustosta 52,7 puana yükseldi; son 51 ayın en yüksek seviyesine ulaştı.",
+  "metric": "Avro imalat sanayi PMI ağustos 52,7 puan (son 51 ayın en yüksek seviyesi)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-01T10:01:13.035182+00:00",
+  "type": "news",
+  "cluster_id": "c45161db7a12a"
+ },
+ {
+  "title": "Türk oyunları dünyada büyüyor: Gelir 6 yılda yüzde 450 arttı",
+  "link": "https://www.trthaber.com/haber/bilim-teknoloji/turk-oyunlari-dunyada-buyuyor-gelir-6-yilda-yuzde-450-artti-955546.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türk oyun sektörü geliri 6 yılda %450 arttı. Türkiye'nin 8 unicorn şirketinden 3'ü oyun sektöründe faaliyet gösteriyor.",
+  "metric": "Türk oyun sektörü geliri 6 yılda +%450",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-01T10:01:13.035182+00:00",
+  "type": "news",
+  "cluster_id": "c4e5971e911c8"
+ },
+ {
+  "title": "AB, Çin'le ticareti dengelemeye çalışıyor",
+  "link": "https://www.aa.com.tr/tr/ekonomi/ab-cinle-ticareti-dengelemeye-calisiyor/4043572",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "AB Komisyonu, Çin'le ticaret açığını (günlük ~1 milyar avro) azaltmaya yönelik çalışmalar yapıyor.",
+  "metric": "AB-Çin günlük ticaret açığı yaklaşık 1 milyar avro",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-01T10:01:13.035182+00:00",
+  "type": "news",
+  "cluster_id": "c7af1a3ebd014"
+ },
+ {
   "title": "Mahkeme yanlış dosyaya baktı, AYM hak ihlali dedi",
   "link": "https://www.sozcu.com.tr/mahkeme-yanlis-dosyaya-bakti-aym-hak-ihlali-dedi-p354445",
   "source": "Sözcü",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-23T01:01:00.924781+00:00",
   "type": "news",
   "cluster_id": "c0c93beab5dae"
- },
- {
-  "title": "Trump administration considers putting nuclear power plants in US waters",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMF9BdEpBSF85VVVLUkJJRG1IcE9IMi0yazczV1kyaGxMc3lTeW40elcwNHR6M0dRR1lmWEZuWkVPWG5ITERRRGhZeDRHdDhGSlZmVm8yemZHX2hNOFpOUlpwVkRtSGtLQ085ZjIxcm51SE5tSWFqQWtsdXJSVGJxVEFQZmdiR2swdTJabkNFNlhZN2t4T050ZTNRRThlV1FHdnUtS2E3cVlMZVZoNTlFd3h5ZURhSkNEYUtsVGJzVQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump yönetimi ABD sularına nükleer santral yerleştirmeyi değerlendiriyor. Enerji politikasında önemli yönelim sinyali.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-23T01:01:00.924781+00:00",
-  "type": "news",
-  "cluster_id": "cced3d4960a20"
- },
- {
-  "title": "Trump approves nuclear agreement that may allow Saudi Arabia to enrich uranium, 2 AP sources say",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObHhrQ08zNEo1Tm9VcFFkS3lTOV8tWGJmX3lXbzRUMjNiOXhXb0ZUdkRaNzc3Y2ZOdndIRnkzTnBtaEFnWkxEVVVvQUdPR3NENS1oVk9uaHlCanBHT0VwY0lwOE40ZjVlWWF2eDBDbXNHLVR5d2x6WVBOLTNWZ2hTMmxfQ2JuSXBIX2pPYVFDOWVmbzRSQVhPTzRVRThIS1NOUW5uUA?oc=5",
-  "source": "AP",
-  "summary_tr": "Trump, Suudi Arabistan'ın uranyum zenginleştirebilmesine izin verebilecek nükleer anlaşmayı onayladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-23T00:01:08.235820+00:00",
-  "type": "news",
-  "cluster_id": "c331cd10bcf4d"
- },
- {
-  "title": "Resmi Gazete'de yayımlandı... Erdoğan imzaladı: 8 üniversiteye rektör atandı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/resmi-gazete-de-yayimlandi-erdogan-imzaladi-8-universiteye-rektor-atandi-2523107",
-  "source": "Cumhuriyet",
-  "summary_tr": "Cumhurbaşkanı Erdoğan'ın imzasıyla 8 üniversiteye yeni rektör atandı ve YÖK üyeliklerine dört isim belirlendiğini Resmi Gazete yayımlandı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-23T00:01:08.235820+00:00",
-  "type": "news",
-  "cluster_id": "cfa8ec1328b76"
- },
- {
-  "title": "Rektör atamaları Resmi Gazete'de",
-  "link": "https://www.trthaber.com/haber/gundem/rektor-atamalari-resmi-gazetede-951932.html",
-  "source": "TRT Haber",
-  "summary_tr": "Cumhurbaşkanı Erdoğan imzasıyla 8 üniversiteye yeni rektör atandı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-23T00:01:08.235820+00:00",
-  "type": "news",
-  "cluster_id": "c930d84dda63d"
- },
- {
-  "title": "IBM cuts yearly revenue growth forecast as customers prioritize AI infrastructure spending",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWFFscXBORXYxZU5WUzBqSUdwZ1dVeEZTUlE2Rzh6SHlQSkR3QXMtTmEtZXZheTZPalB3Q0ptUnlPTEtUSTk5MEVTX1Z0N3hJTEhwa0FKcmhGQzVuN3k4M2pSdlZlSnhkWlZFc3VyLVpicHJsakRyX0Y5SmkwOWhqQU5yeXctMEIyTXBFcExxMGVyN2hxM3kydWdKbEJqNjJtVlk0Vng3OXhqalFyMGR0Y2F4VHJ1SVBObFlLa3h4dDI?oc=5",
-  "source": "Reuters",
-  "summary_tr": "IBM, müşterilerin yapay zeka altyapısına yönelik yatırımlar nedeniyle yıllık gelir büyüme tahminini aşağı yönlü revize etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-22T23:00:59.906746+00:00",
-  "type": "news",
-  "cluster_id": "cd1665426402e"
- },
- {
-  "title": "ABD, Suudi Arabistan ile nükleer anlaşma imzaladı",
-  "link": "https://www.bbc.com/turkce/articles/c9q9jvwdxnwo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD, Suudi Arabistan ile nükleer enerji anlaşması imzaladı. İran'a stratejik bir mesaj niteliğinde olan anlaşma, bölgesel dengeler açısından önemli.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-22T22:01:15.191172+00:00",
-  "type": "news",
-  "cluster_id": "c3c325ba419e6"
  }
 ]
