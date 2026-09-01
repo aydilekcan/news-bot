@@ -1,5 +1,17 @@
 [
  {
+  "title": "Otobüsten ucuz uçuş dönemi resmen başlıyor: 2 şehir arası uçmak 200 lira olacak",
+  "link": "https://www.sozcu.com.tr/otobusten-ucuz-ucus-donemi-resmen-basliyor-2-sehir-arasi-ucmak-200-lira-olacak-p354433",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye'de uçak biletleri otobüs fiyatlarına indiriliyor; iki şehir arası uçuş 200 liradan başlayacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-01T08:01:03.589122+00:00",
+  "type": "news",
+  "cluster_id": "ce0c0252e3305"
+ },
+ {
   "title": "Motorine ÖTV zammı geldi: Güncel akaryakıt fiyatları",
   "link": "https://www.diken.com.tr/motorine-otv-zammi-geldi-guncel-akaryakit-fiyatlari/?utm_source=rss&utm_medium=rss&utm_campaign=motorine-otv-zammi-geldi-guncel-akaryakit-fiyatlari",
   "source": "Diken",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-22T22:01:15.191172+00:00",
   "type": "news",
   "cluster_id": "c6ad8d6536903"
- },
- {
-  "title": "Tesla quarterly profit disappoints, posts cash burn as AI spending surges",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEtwQkhZU00zSGZYcmdzNmhEY0VUUUtyc1ZVbHV1OW80Mnd3OHlTaEh5OFFEbkZPUGt6Um5jQWRRb0tBRVZhb3MzQ21Vb2FNT0VaWlNkcThLX2V3d04zSGY4S29xUC1odU9rMGNWWWQyVVNBSUlEWUt6WkNkODJnUnFvNFhpTEZiQWNUemVrcksxZk0wb0ZpQi1ZeWtDdThJOTJkNHI4MDBaYnBCa241LXVnVE9sdzZzZ0E5SFVn?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Tesla'nın çeyrek kâr beklentileri hayal kırıklığı yarattı; yapay zeka harcamaları arttıkça nakit tüketimi devam ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-22T22:01:15.191172+00:00",
-  "type": "news",
-  "cluster_id": "cab76aa4a9214"
  }
 ]
