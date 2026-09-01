@@ -1,5 +1,29 @@
 [
  {
+  "title": "Oil prices rise as latest fighting resurrects Middle East supply disruption risks",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzNva1pxcDRaVGJ0WkYwOFJ2Zm8wNFBiMmkxLUVIZVJZaUV4WlRGNVRZbk1JZHdpMUpXbXJ6VHZsVUtzS2haZ0M2bDd4d3RTa19vTHZTOWc3MFlGaW1jU3gwMG13cFhFY0hOR2tWSjM1cWQzd2pfUEZFRlpSRWdEcmJ3NHdlM3BydlNkQUgxY3lMYjBybFMwZ1Vxcjk2clc3cHZKdWxtMHlFWHBMNDREaEJoZlBIc2U5TGMyWF9GaEZhX0JlMlA4THpn?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ortadoğu'daki son çatışmalar enerji arzı kesintisi risklerini yeniden gündeme getirirken petrol fiyatları yükselişe geçti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-01T04:01:03.170243+00:00",
+  "type": "news",
+  "cluster_id": "cb0501349092b"
+ },
+ {
+  "title": "Bond selloff pressures stocks as oil crosses $91 a barrel",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUzRjcDczTGxqaGRleWZNeUwtZnpOTjRjNWhmSEt2YkQtY1ZwaDdhZ2RxX0hCWEZZdXpPSmlWZW45ZVBHM2lsMU9XalYtNEl1cGxpWjVhVTR2cDU1ajlNMzRJb3FZaGZ4akprMWhPNmd4cmJFOFI1Q29iWlI0ZnFXNXljcw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Tahvil satışlarının baskısı altında borsalar düşerken, petrol varil başına 91 doları aştı.",
+  "metric": "Petrol fiyatı $91/varil",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-01T04:01:03.170243+00:00",
+  "type": "news",
+  "cluster_id": "c78cf584591c4"
+ },
+ {
   "title": "İngiltere Merkez Bankası Başkanı: Yapay zeka küresel ekonomik durgunluğa yol açabilir",
   "link": "https://www.bbc.com/turkce/articles/c770re8k23no?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-22T19:01:05.195304+00:00",
   "type": "news",
   "cluster_id": "c16d6d89fd1d7"
- },
- {
-  "title": "'Yeni parti' resmen duyuruldu: CHP'li Gürsel Erol kararını verdi",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/yeni-parti-resmen-duyuruldu-chp-li-gursel-erol-kararini-verdi-2523048",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Milletvekili Gürsel Erol, yeni bir siyasi parti kuracağını duyurdu.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-22T19:01:05.195304+00:00",
-  "type": "news",
-  "cluster_id": "ca43160feec0a"
- },
- {
-  "title": "Canada cancels joint bridge-opening event with US after Trump announces tariffs",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX1A2MlI4SGJBaF9aUlliY19TLXVmeWFvT3JoX0dDQjlOc2x3VnRFSGZWMXB5VW1VUXVfZklJd2VYM3hXSFgtc3VZX285a2RtVGk3dTlJYzlqU3F2VDVYd09uR1NSeHZuclVrY1dLRHNsWkZMYk13eDJjMFdCeWJqVkZ0RmF3dE5jTk1jNXAzelprbHFfMWFvcTJn?oc=5",
-  "source": "AP",
-  "summary_tr": "Kanada, Trump'ın gümrük tarifeleri açıklamasının ardından ABD ile ortak köprü açılış törenini iptal etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-22T19:01:05.195304+00:00",
-  "type": "news",
-  "cluster_id": "c292fd49cca9c"
  }
 ]
