@@ -1,5 +1,53 @@
 [
  {
+  "title": "Asgari ücretli işinden istifa etti şimdi 400 bin lira maaş kazanıyor",
+  "link": "https://www.sozcu.com.tr/asgari-ucretli-isinden-istifa-etti-simdi-400-bin-lira-maas-kazaniyor-p354484",
+  "source": "Sözcü",
+  "summary_tr": "25 yaşındaki kadın asgari ücretten istifa edip yeni işinde aylık 400 bin TL kazanıyor.",
+  "metric": "Aylık gelir asgari ücret -> 400.000 TL",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-01T12:01:08.321953+00:00",
+  "type": "news",
+  "cluster_id": "cf7fa8d3f61a8"
+ },
+ {
+  "title": "Ticaret Bakanı Bolat: Tarımsal üretimimiz ikinci çeyrekte yüzde 13,3 büyüdü",
+  "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-tarimsal-uretimimiz-ikinci-ceyrekte-yuzde-13-3-buyudu/4043835",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ticaret Bakanı Bolat: Tarımsal üretim ikinci çeyrekte yüzde 13,3 büyüdü.",
+  "metric": "Tarımsal üretim büyümesi %13,3",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-09-01T12:01:08.321953+00:00",
+  "type": "news",
+  "cluster_id": "c0fd3814a4561"
+ },
+ {
+  "title": "Avrupa'yı vuran sessiz kriz: Milyarlarca euroluk dev fatura",
+  "link": "https://www.sozcu.com.tr/avrupa-yi-vuran-sessiz-kriz-milyarlarca-euroluk-dev-fatura-p354483",
+  "source": "Sözcü",
+  "summary_tr": "Avrupa'daki 2025 yaz felaketleri (sıcaklık, kuraklık, yangınlar) AB'ye 822 milyar euroluk doğrudan zarar verdi.",
+  "metric": "Ekonomik zarar 822 milyar euro",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-01T12:01:08.321953+00:00",
+  "type": "news",
+  "cluster_id": "cf133ca861ff4"
+ },
+ {
+  "title": "AB, Brezilya'dan et ve hayvansal ürün ithalatını askıya alacak",
+  "link": "https://www.aa.com.tr/tr/dunya/ab-brezilyadan-et-ve-hayvansal-urun-ithalatini-askiya-alacak/4043838",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "AB, Brezilya'dan et ve hayvansal ürün ithalatını antimikrobiyal kullanım kurallarına uyum sorunu nedeniyle askıya alacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-01T12:01:08.321953+00:00",
+  "type": "news",
+  "cluster_id": "cf8d798420f07"
+ },
+ {
   "title": "İngiltere Merkez Bankası Başkanı'ndan G20'ye uyarı: Yapay zeka küresel ekonomik krizi tetikleyebilir",
   "link": "https://www.trthaber.com/haber/dunya/ingiltere-merkez-bankasi-baskanindan-g20ye-uyari-yapay-zeka-kuresel-ekonomik-krizi-tetikleyebilir-955551.html",
   "source": "TRT Haber",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-23T04:01:01.831056+00:00",
   "type": "news",
   "cluster_id": "c0001f7900dbd"
- },
- {
-  "title": "Ukrayna İHA'ları Rusya’nın can damarını vurdu: Milyarlarca dolarlık darbe",
-  "link": "https://www.sozcu.com.tr/ukrayna-iha-lari-rusya-nin-can-damarini-vurdu-milyarlarca-dolarlik-darbe-p338921",
-  "source": "Sözcü",
-  "summary_tr": "Ukrayna İHA'ları Rusya'nın güney hatlarındaki lojistik üsleri ve enerji altyapılarına milyarlarca dolarlık hasar vurdu.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-23T04:01:01.831056+00:00",
-  "type": "news",
-  "cluster_id": "c1539090f833a"
- },
- {
-  "title": "Houthis say they attacked two Saudi tankers; Saudi Arabia says one ablaze in Red Sea",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZHZGNUJIVDM4b051ZHVfNEJYZmRlSTdLdDY5S0hLUFpCcTJFeU41bW5mMGtSbVNRNGhBdnhta3JpaFVXeGkxc1VwVmZvY19Ibm9DU0VwNWt6cWJDTm02YVJFZzV3UTZmRmpHckNTWkxGV2pCQjBqZHRDdExub2U0OGlraDNlcWFKaS14R3RDdjBRYk5mZDRoYkNfVG1tcmZybXpwZ1I4d0Z1bldT?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Husiler iki Suudi tankerine saldırı düzenledi; Suudi Arabistan'a göre bir tanker yanmakta.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-23T04:01:01.831056+00:00",
-  "type": "news",
-  "cluster_id": "c3877be94faa8"
- },
- {
-  "title": "Google’s Q2 earnings of $112.11B beat Wall Street’s expectations on AI boom",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMXRMUkFabGhkczdYMVdlNXV3V28taUpsWW4xanhVa0JsOGk2NzkxT0djbjNUSGNjdWlOTm1MbzkwdkdLZ1p2Wkx4U2hUdnJaM0VYN0wtR2VGbEhEWkZ2MnVQREEwUURXU2NtZTdNQUxRU19XZGEyTHpzOXJvR0JsYTA4UkN3c2lEWEhiUzVkZkxGSVFiMFJKc1Y3VE9leGk0dlpZ?oc=5",
-  "source": "AP",
-  "summary_tr": "Google Q2 kazancı 112,11 milyar dolar ile Wall Street beklentilerini aştı; AI patlaması etkili.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-23T04:01:01.831056+00:00",
-  "type": "news",
-  "cluster_id": "c9bbd93a9a05d"
- },
- {
-  "title": "Son dakika... ABD İran'ı füzelerle vurdu! Can kayıpları var",
-  "link": "https://www.sozcu.com.tr/son-dakika-abd-iran-i-fuzelerle-vurdu-can-kayiplari-var-p338917",
-  "source": "Sözcü",
-  "summary_tr": "ABD, İran'ın Huzistan eyaletinde füze saldırısı düzenledi; ilk belirlemelere göre 2 kişi hayatını kaybetti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-23T03:01:03.453344+00:00",
-  "type": "news",
-  "cluster_id": "c0225df69e9a7"
  }
 ]
