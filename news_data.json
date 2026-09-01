@@ -1,5 +1,65 @@
 [
  {
+  "title": "Veri merkezlerinin elektrik tüketimi 5 yılda yaklaşık 4 katına çıktı",
+  "link": "https://www.trthaber.com/haber/ekonomi/veri-merkezlerinin-elektrik-tuketimi-5-yilda-yaklasik-4-katina-cikti-955583.html",
+  "source": "TRT Haber",
+  "summary_tr": "Küresel veri merkezlerinin elektrik tüketimi 5 yılda yaklaşık 4 katına çıkarak geçen yıl 557 teravatsaate ulaştı.",
+  "metric": "Veri merkezi elektrik tüketimi 5 yılda ~4 kat artış",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-01T16:01:07.694245+00:00",
+  "type": "news",
+  "cluster_id": "c5c8070d0fcb1"
+ },
+ {
+  "title": "Putin envoy warns of Russian economy going 'berserk' on war footing",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbUNUYWRsV3FBcnZsLVk1ZVltRW9wZGxhV2wxcGJfRWNoS18tby1ZSDBya19Oci12aEdNOEMwRDJYNjN1TGxXR1JQM0d1OUJ6cWU3aDBMZmxXeFNmUE1sOWxRb05oUGpmQTZ4dGJRanNkM3hnZ2RPYkprMmFvNTNTaWM5VkFWY2psRUh5RHZFQ25wN3loVW5VZ2tmQjlmaXFISXZJekI4WQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Putin'in özel temsilcisi, Rusya ekonomisinin savaş temposuyla kontrol dışı hale gelebileceği konusunda uyarı yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-01T16:01:07.694245+00:00",
+  "type": "news",
+  "cluster_id": "c94b75be2b73e"
+ },
+ {
+  "title": "Blockade succeeds where sanctions failed as Iran oil exports stall",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWZjU0g0TmRIVUt5RlNtTUIxLVBDZmJlS2ljODlldVpZSW9rVm1WeHJOcnU0ZHFOMTB0QlhoR1FXV1d0Q2N6MC1aek9NLWN5QmxvYmpCQjZmUGtqRkpZUmx6Qk42YkIxZzQzR3pnU3Q3eE5BZjdadVI5UThGSUZrZ0RSS0hlUjJSNmhEN3RUcWRQZzJHaUtrOWtLZUthRkxDenNDWVZ0Wk5RSTRsYjJhQjJTTkgxQQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran'ın petrol ihracatı ambargo yerine abluka ile durdurulmaya başlandı ve cari yaptırımlarda başarılı olamayan blokaj başarı sağlıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-01T16:01:07.694245+00:00",
+  "type": "news",
+  "cluster_id": "cc07fbcf3a275"
+ },
+ {
+  "title": "ABD Hazine Bakanı Bessent, bu hafta bir bankaya yaptırım açıklanabileceğini söyledi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abd-hazine-bakani-bessent-bu-hafta-bir-bankaya-yaptirim-aciklanabilecegini-soyledi/4044250",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Hazine Bakanı Scott Bessent, İran'a karşı ekonomik operasyon kapsamında bu hafta bir bankaya yaptırım açıklanabileceğini duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-01T16:01:07.694245+00:00",
+  "type": "news",
+  "cluster_id": "c62a666eadfcd"
+ },
+ {
+  "title": "US manufacturing activity slows in August; input prices still elevated",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS1A5dDd3YTNlZGR4bzc1ellYc2tVS3Mxd2Z1ZHd1c01vVUk0cmp2WDlWaGVxNFREdHRkTXBRVUk3YVpwVU5VTnhqRzVwdjU1Qi0xT2IwaEVvNHBIMW85ZDdHN2ZBMFloVmtobmRYcjYzTUk1aUdoZ3A3b3NnZEZuXzVwekNEampBMUxCUU5rU1ZBdTB3UTNEMUZXX2UxM1BDZzV1TjQzYll6OUJXTnRtMg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ağustos'ta ABD imalat sektörü aktivitesi yavaşladı ancak girdilerdeki fiyat baskısı yüksek seviyelerde devam etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-01T16:01:07.694245+00:00",
+  "type": "news",
+  "cluster_id": "c908fa83446b2"
+ },
+ {
   "title": "Bakan Tekin'den 'süreç' açıklaması: 'Bu sorunu çözecek bir iradeyi bir daha göremeyebiliriz'",
   "link": "https://www.cumhuriyet.com.tr/siyaset/bakan-tekin-den-surec-aciklamasi-bu-sorunu-cozecek-bir-iradeyi-bir-daha-goremeyebiliriz-2534114",
   "source": "Cumhuriyet",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-23T08:01:14.230716+00:00",
   "type": "news",
   "cluster_id": "c9f7f5e9adda5"
- },
- {
-  "title": "Türkiye'de 2025'te lisans mezunlarında istihdam oranı yüzde 73,9 oldu",
-  "link": "https://www.trthaber.com/haber/ekonomi/turkiyede-2025te-lisans-mezunlarinda-istihdam-orani-yuzde-739-oldu-951975.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye'de 2025'te lisans mezunlarında istihdam oranı %73,9 oldu.",
-  "metric": "Lisans mezunlarında istihdam oranı %73,9",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-23T08:01:14.230716+00:00",
-  "type": "news",
-  "cluster_id": "c9f7f5e9adda5"
- },
- {
-  "title": "Küresel piyasalarda gözler merkez bankalarında: TCMB ve ECB faiz kararları bekleniyor",
-  "link": "https://www.sozcu.com.tr/kuresel-piyasalarda-gozler-merkez-bankalarinda-tcmb-ve-ecb-faiz-kararlari-bekleniyor-p338980",
-  "source": "Sözcü",
-  "summary_tr": "TCMB ve ECB'nin faiz kararları küresel piyasalarda beklenti yarattı; teknoloji ve yapay zeka yatırımlarında iyimserlik sürdürülüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-23T07:01:16.714694+00:00",
-  "type": "news",
-  "cluster_id": "ce481c0fcfa34"
- },
- {
-  "title": "Piyasalarda gözler merkez bankalarının faiz kararlarında",
-  "link": "https://www.trthaber.com/haber/ekonomi/piyasalarda-gozler-merkez-bankalarinin-faiz-kararlarinda-951961.html",
-  "source": "TRT Haber",
-  "summary_tr": "TCMB ve diğer merkez bankalarının faiz kararları küresel piyasaların odağında; teknoloji ve yapay zeka temalarında olumlu bakış risk iştahını desteklemeyi sürdürüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-23T07:01:16.714694+00:00",
-  "type": "news",
-  "cluster_id": "c1f057a84627e"
- },
- {
-  "title": "Euro heads for one-week high ahead of ECB policy decision",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcmxmYW0zRFBGQlpfRDY2bXdwMk1FNzJQVDVOZXhHMTY3QlAzeG5DRDRqeHRNQk1ELWpLTEtSSGpkVjJrcHVzb3RNQmxHc3d2b1JEMGJ1TEN1bDJKVGFzcFl0d0FjbUNBRTRRMDJVM3BST2htNmwtRExMNGo2RTlSREhGZXZYa0ZneWUzY0s4RXVlTWxmLXI0cEJBSW1UbVJrWjBPNw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Avro ECB'nin politika kararı öncesinde bir haftalık en yüksek seviyeye yöneldi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-23T07:01:16.714694+00:00",
-  "type": "news",
-  "cluster_id": "cb529fbadf47f"
- },
- {
-  "title": "ABD Temsilciler Meclisi, 1,15 trilyon dolarlık 2027 savunma bütçesine onay verdi",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-temsilciler-meclisi-1-15-trilyon-dolarlik-2027-savunma-butcesine-onay-verdi/4006434",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Temsilciler Meclisi 2027 savunma bütçesi için 1,15 trilyon dolarlık Ulusal Savunma Yetkilendirme Yasası'nı onayladı.",
-  "metric": "2027 savunma bütçesi 1,15 trilyon dolar",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-23T07:01:16.714694+00:00",
-  "type": "news",
-  "cluster_id": "c5e1d02893d36"
  }
 ]
