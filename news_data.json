@@ -1,5 +1,29 @@
 [
  {
+  "title": "İsrail Başbakanı Netanyahu: Gazze'den çıkmayacağız",
+  "link": "https://www.dw.com/tr/israil-başbakanı-netanyahu-gazze-den-çıkmayacağız/a-78789951?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "İsrail Başbakanı Netanyahu, Gazze'den çıkmayacaklarını ve bölgenin %60'ını kontrol ettiklerini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-02T17:01:05.842012+00:00",
+  "type": "news",
+  "cluster_id": "cb25f5a836488"
+ },
+ {
+  "title": "İsrail basınına göre, Tel Aviv'in çekilmeyi reddetmesi nedeniyle Suriye ile güvenlik anlaşması yapılamadı",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-basinina-gore-tel-avivin-cekilmeyi-reddetmesi-nedeniyle-suriye-ile-guvenlik-anlasmasi-yapilamadi/4045635",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail basınına göre, Tel Aviv'in işgal edilen Suriye bölgelerinden çekilmeyi reddetmesi Suriye ile güvenlik anlaşmasını engelledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-02T17:01:05.842012+00:00",
+  "type": "news",
+  "cluster_id": "c83df6a506e79"
+ },
+ {
   "title": "İran: ABD, düğün yapılan evde dört kişiyi öldürdü",
   "link": "https://www.diken.com.tr/iran-abd-dugun-yapilan-evde-dort-kisiyi-oldurdu/?utm_source=rss&utm_medium=rss&utm_campaign=iran-abd-dugun-yapilan-evde-dort-kisiyi-oldurdu",
   "source": "Diken",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-24T09:01:13.189856+00:00",
   "type": "news",
   "cluster_id": "c3c6f118d0f19"
- },
- {
-  "title": "YENİ Parti kuruldu, Meclis aritmetiği nasıl değişti?",
-  "link": "https://www.dw.com/tr/yeni-parti-kuruldu-meclis-aritmetiği-nasıl-değişti/a-78095508?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Yeni Parti resmen kuruldu. 91 vekilin istifasıyla CHP parlamentoda beşinciliğe geriledi, Yeni Parti dördüncülüğe yükseldi.",
-  "metric": "CHP: 5. sıra -> Yeni Parti 4. sıra",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-24T09:01:13.189856+00:00",
-  "type": "news",
-  "cluster_id": "c66dd89b2aa9b"
- },
- {
-  "title": "Ana muhalefet YENİ Parti: Meclis'teki sandalye dağılımı",
-  "link": "https://www.diken.com.tr/ana-muhalefet-yeni-parti-meclisteki-sandalye-dagilimi/?utm_source=rss&utm_medium=rss&utm_campaign=ana-muhalefet-yeni-parti-meclisteki-sandalye-dagilimi",
-  "source": "Diken",
-  "summary_tr": "Yeni Parti kuruluşuyla Meclis'teki sandalye dağılımı değişti; CHP'den 91 milletvekili ayrıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-24T09:01:13.189856+00:00",
-  "type": "news",
-  "cluster_id": "cf346132e5e5d"
  }
 ]
