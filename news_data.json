@@ -1,5 +1,41 @@
 [
  {
+  "title": "ABD, saldırı dalgasının tamamlandığını açıkladı",
+  "link": "https://www.trthaber.com/haber/dunya/abd-saldiri-dalgasinin-tamamlandigini-acikladi-955615.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD CENTCOM, İran Devrim Muhafızları Ordusu'na yönelik saldırı dalgasının tamamlandığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-02T00:01:02.395412+00:00",
+  "type": "news",
+  "cluster_id": "cedb18a9c981b"
+ },
+ {
+  "title": "Bahreyn'de halka en yakın güvenli yere gitme çağrısı yapıldı",
+  "link": "https://www.trthaber.com/haber/dunya/bahreynde-halka-en-yakin-guvenli-yere-gitme-cagrisi-yapildi-955616.html",
+  "source": "TRT Haber",
+  "summary_tr": "Bahreyn, güvenlik tehdidi nedeniyle halka sakin kalma ve en yakın güvenli yere gitme çağrısı yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-02T00:01:02.395412+00:00",
+  "type": "news",
+  "cluster_id": "c26abfa9962e1"
+ },
+ {
+  "title": "Leaders of China, Russia and India are among heads of state meeting to counter US influence",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVhWWGlhWk5tVjFtTjE5MWF1MU5sSkh0cFZld011VW9PM3d5Z2dPREh5cFM1MThGdF9Fb0lXTXE3OUdfMnRtUFBqd0VVN1BjN2dTY2tnQVFUelRwcFJHTU9VVTBiTmJUamtnejJfQnZLcWVaSjZNT1RTWkVnM09RTm13dks5bWt2QXlSdVI0WWQ2ajBXLW5mX3NNalo5YlhTQmR4cXA3aFVzdkRrMEFSZDBn?oc=5",
+  "source": "AP",
+  "summary_tr": "Çin, Rusya ve Hindistan liderlerinin aralarında bulunduğu devlet başkanları, ABD etkisine karşı koymak için bir araya geldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-02T00:01:02.395412+00:00",
+  "type": "news",
+  "cluster_id": "c16c0f3f3d0e6"
+ },
+ {
   "title": "İran ordusu, Bahreyn'de ABD hedeflerini vurduğunu duyurdu",
   "link": "https://www.trthaber.com/haber/dunya/iran-ordusu-bahreynde-abd-hedeflerini-vurdugunu-duyurdu-955613.html",
   "source": "TRT Haber",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-23T13:01:39.434528+00:00",
   "type": "news",
   "cluster_id": "cd56cb2f5de8c"
- },
- {
-  "title": "Merkez Bankası politika faizini değiştirmedi, ekonomistler nasıl yorumladı?",
-  "link": "https://www.bbc.com/turkce/articles/c05qp534dddo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "TCMB politika faizini %37'de sabit tuttu. Merkez Bankası Para Politikası Kurulu oranı değiştirmedi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-07-23T12:01:25.976312+00:00",
-  "type": "news",
-  "cluster_id": "ccf0ba0946bae"
- },
- {
-  "title": "Rusya'ya en kapsamlı yaptırım: AB 21'inci pakette uzlaştı",
-  "link": "https://www.dw.com/tr/rusya-ya-en-kapsamlı-yaptırım-ab-21-inci-pakette-uzlaştı/a-78083565?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "AB, Rusya'ya 21. yaptırım paketinde uzlaştı. Petrol ve finans sistemine karşı geniş kapsamlı yaptırımlar uygulanacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-23T12:01:25.976312+00:00",
-  "type": "news",
-  "cluster_id": "cdbb9c2a9a00a"
- },
- {
-  "title": "ABD Suudi Arabistan ile tarihi nükleer anlaşmaya imza attı",
-  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkelRnU1pjWWVOaldPTlVvSFRZMnVNazJNT3kyaml4T2FVRktKMENIRXhMQXlzREdwdUNxRGttSjloRnFWY2VmU21GR1A1WFVZSFE4cVVwQ3d0bTVDMjBQTW5TbUJ3MW1QMnJhNW4zakp0Q2pwNmlEeE42ejA?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "ABD, Suudi Arabistan ile tarihi nükleer anlaşmaya imza attı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-23T12:01:25.976312+00:00",
-  "type": "news",
-  "cluster_id": "c5d516e71869f"
  }
 ]
