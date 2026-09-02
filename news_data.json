@@ -1,5 +1,41 @@
 [
  {
+  "title": "Motorinden sonra LPG’ye de zam geliyor",
+  "link": "https://www.sozcu.com.tr/motorinden-sonra-lpg-ye-de-zam-geliyor-p354640",
+  "source": "Sözcü",
+  "summary_tr": "Motorine gelen 3,60 liralık vergi zammından sonra LPG'ye de zam geliyor. Akaryakıt fiyatları artmaya devam ediyor.",
+  "metric": "Motorin zammı: 3,60 TL",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-02T02:01:07.270134+00:00",
+  "type": "news",
+  "cluster_id": "c67d080815099"
+ },
+ {
+  "title": "Yeni adli yıl başlarken çalışanlar taleplerini sıraladı: Emekçinin gerçek gündemi geçim!",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/yeni-adli-yil-baslarken-calisanlar-taleplerini-siraladi-emekcinin-gercek-gundemi-gecim-2534202",
+  "source": "Cumhuriyet",
+  "summary_tr": "Yargı emekçileri sendikası, yeni adli yıl başında çalışanların gerçek gündemi olarak geçim maliyetini vurguladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-02T02:01:07.270134+00:00",
+  "type": "news",
+  "cluster_id": "c5c51f8242423"
+ },
+ {
+  "title": "Yıllardır tamamlanamayan karayolları, demiryolları, havalimanları için tutarlar katlanarak arttı: Bitmeyen projelerde ağır maliyet!",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/yillardir-tamamlanamayan-karayollari-demiryollari-havalimanlari-icin-tutarlar-katlanarak-artti-bitmeyen-projelerde-agir-maliyet-2534203",
+  "source": "Cumhuriyet",
+  "summary_tr": "Karayolu, demiryolu ve havalimanı gibi tamamlanamayan devlet projelerinin maliyetleri yıllar içinde katlanarak artmış.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-02T02:01:07.270134+00:00",
+  "type": "news",
+  "cluster_id": "c133ad72541b5"
+ },
+ {
   "title": "ABD, saldırı dalgasının tamamlandığını açıkladı",
   "link": "https://www.trthaber.com/haber/dunya/abd-saldiri-dalgasinin-tamamlandigini-acikladi-955615.html",
   "source": "TRT Haber",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-23T14:01:19.779861+00:00",
   "type": "data",
   "cluster_id": ""
- },
- {
-  "title": "AYM'den Sivas Madımak katliamı için ihlal kararı",
-  "link": "https://www.dw.com/tr/aym-den-sivas-madımak-katliamı-için-ihlal-kararı/a-78084778?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Anayasa Mahkemesi, Sivas Madımak katliamına ilişkin bireysel başvuruyu görüşüp yaşam hakkının usul boyutunun ihlal edildiğine karar verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-23T13:01:39.434528+00:00",
-  "type": "news",
-  "cluster_id": "c7f48e51896c0"
- },
- {
-  "title": "Ekonomistler Merkez Bankası'nın faiz kararını değerlendirdi",
-  "link": "https://www.sozcu.com.tr/ekonomistler-merkez-bankasi-nin-faiz-kararini-degerlendirdi-p339133",
-  "source": "Sözcü",
-  "summary_tr": "Merkez Bankası politika faizini %37'de sabit tutma kararını ekonomistler değerlendirdi.",
-  "metric": "TCMB Politika Faizi %37 (sabit)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-23T13:01:39.434528+00:00",
-  "type": "news",
-  "cluster_id": "c42a1f196d013"
- },
- {
-  "title": "Uzmanlar TCMB'nin faiz kararını değerlendirdi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/uzmanlar-tcmbnin-faiz-kararini-degerlendirdi/4007016",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Uzmanlar, Merkez Bankasının kademeli faiz normalleşmesine gideceğini değerlendirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-23T13:01:39.434528+00:00",
-  "type": "news",
-  "cluster_id": "cd56cb2f5de8c"
  }
 ]
