@@ -1,5 +1,17 @@
 [
  {
+  "title": "Motorine dev zam geliyor: Cepleri fena yakacak",
+  "link": "https://www.sozcu.com.tr/motorine-dev-zam-geliyor-cepleri-fena-yakacak-p354917",
+  "source": "Sözcü",
+  "summary_tr": "ABD-İran gerilimi nedeniyle motora dev zam geliyor, akaryakıt fiyatlarında önemli artış bekleniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-02T22:01:04.252500+00:00",
+  "type": "news",
+  "cluster_id": "cacb184c8cc43"
+ },
+ {
   "title": "Trump’tan İran’a yeni saldırı tehdidi: 'İstediğimiz zaman vurabiliriz'",
   "link": "https://www.cumhuriyet.com.tr/turkiye/trump-tan-iran-a-yeni-saldiri-tehdidi-istedigimiz-zaman-vurabiliriz-2534438",
   "source": "Cumhuriyet",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-24T11:01:40.464338+00:00",
   "type": "news",
   "cluster_id": "c7c54c4c9c900"
- },
- {
-  "title": "91 milletvekili istifa etti : İşte YENİ Parti Kurucular Kurulu'nda yer alan 91 isim",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/91-milletvekili-istifa-etti-iste-yeni-parti-kurucular-kurulu-nda-yer-alan-91-isim-2523507",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'den istifa eden 91 milletvekilinin listesi açıklandı; bunlar YENİ Parti Kurucular Kurulu'nda yer almaktadır.",
-  "metric": "91 milletvekili",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-24T11:01:40.464338+00:00",
-  "type": "news",
-  "cluster_id": "cd18f5af71741"
  }
 ]
