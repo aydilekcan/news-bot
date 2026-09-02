@@ -1,5 +1,53 @@
 [
  {
+  "title": "Putin: Rus ordusuna Ukrayna'nın enerji altyapısına yönelik yoğun saldırılar düzenlemesi talimatını verdim",
+  "link": "https://www.aa.com.tr/tr/dunya/putin-rus-ordusuna-ukraynanin-enerji-altyapisina-yonelik-yogun-saldirilar-duzenlemesi-talimatini-verdim/4044605",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Putin, Rus ordusuna Ukrayna'nın enerji altyapısına yönelik yoğun saldırılar düzenlemesi talimatını verdiğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-02T04:01:04.241415+00:00",
+  "type": "news",
+  "cluster_id": "c745cfa70b785"
+ },
+ {
+  "title": "Asian markets tumble as US-Iran fighting lifts oil and bond yields",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0WUhpSzJRLUpQRnRFZFhzQTlMckJ1alJaa1RQaGo0RjdoZ0h3Y0VQd1I0NkxvS3AzWElTTTJFSF9KMEQ1U1lWVlNDZ2lud19wMW85LWpyQWJoNzltaFctdkdtRzMyWVZDam5yZWtxRHlzcUJBR3R4VHNHWQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD-İran çatışması petrol fiyatlarını ve tahvil getirilerini yükselterek Asya pazarlarını olumsuz etkiledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-02T04:01:04.241415+00:00",
+  "type": "news",
+  "cluster_id": "cc9d27d51ba73"
+ },
+ {
+  "title": "İsrail ordusu ülkenin kuzeyinde şüpheli bir hava hedefine müdahale edildiğini duyurdu",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ulkenin-kuzeyinde-supheli-bir-hava-hedefine-mudahale-edildigini-duyurdu/4044655",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusu, Lübnan'dan gönderilen şüpheli bir hava hedefine ülkenin kuzeyinde müdahale ettiğini duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-02T04:01:04.241415+00:00",
+  "type": "news",
+  "cluster_id": "c73c467286dae"
+ },
+ {
+  "title": "İsrail'deki mevcut hükümet döneminde 109 bin dönüm Filistin toprağını gasp etti",
+  "link": "https://www.trthaber.com/haber/dunya/israildeki-mevcut-hukumet-doneminde-109-bin-donum-filistin-topragini-gasp-etti-955624.html",
+  "source": "TRT Haber",
+  "summary_tr": "Filistin Kurtuluş Örgütü, İsrail'deki mevcut hükümet döneminde 109 bin dönüm Filistin toprağının gasp edildiğini belirtti.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-02T04:01:04.241415+00:00",
+  "type": "news",
+  "cluster_id": "cf11fc58c028f"
+ },
+ {
   "title": "İran, ABD'nin 4 kişinin ölümüne yol açan saldırılarına misilleme yaptı",
   "link": "https://www.bbc.com/turkce/articles/c750znwyye5o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-23T14:01:19.779861+00:00",
   "type": "news",
   "cluster_id": "c5cdd487a0ad5"
- },
- {
-  "title": "ABD'de işsizlik maaşı başvuruları son 57 yılın en düşük seviyesinde",
-  "link": "https://www.aa.com.tr/tr/ekonomi/abdde-issizlik-maasi-basvurulari-son-57-yilin-en-dusuk-seviyesinde/4007102",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD'de işsizlik maaşı başvuruları 187 bine geriledi; 57 yıldır en düşük seviye.",
-  "metric": "İşsizlik maaşı başvurusu 187 bine geriledi (1969'dan beri en düşük)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-23T14:01:19.779861+00:00",
-  "type": "news",
-  "cluster_id": "cb1e623a2625b"
- },
- {
-  "title": "Zelenski: Tahıl Koridorumuzu kapatmak için her şeyi yapacaklar",
-  "link": "https://www.trthaber.com/haber/dunya/zelenski-tahil-koridorumuzu-kapatmak-icin-her-seyi-yapacaklar-952030.html",
-  "source": "TRT Haber",
-  "summary_tr": "Zelenski, Rusya'nın saldırıları nedeniyle Karadeniz limanlarına ticari gemilerin giremediğini bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-23T14:01:19.779861+00:00",
-  "type": "news",
-  "cluster_id": "c92fbaeac310e"
- },
- {
-  "title": "AYM’den 12 yıl sonra Madımak Katliamı kararı: Yargı süreci etkili yürütülmedi; ölenlerin yakınlarına manevi tazminat ödenecek",
-  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PdWxaenVWd3BOcEhtNm56N0owdW8zWHk4a3Z3ODRINl9mVlBzbTMyM2xmaGpnaTB1bXZUWGMwZnRPOTdXd1V6RF9PazdMd2k5Q1Z3VURaTXJLNmZMTmpMSFBnUjUtX1BRWklZTVJtMjFNdw?oc=5",
-  "source": "T24",
-  "summary_tr": "Anayasa Mahkemesi 12 yıl sonra Madımak Katliamı kararını verdi; yargı süreci etkili yürütülmedi ve ölenlerin yakınlarına manevi tazminat ödenecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-23T14:01:19.779861+00:00",
-  "type": "news",
-  "cluster_id": "c99d5a8fade44"
- },
- {
-  "title": "Reuters: İran 40 günlük savaşta CIA'in gizli tesislerini vurdu",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaDQxb2FfZm01VFU1cW14U0gzd2VXX0FTQlhGajdjdDNwMzhyalRlRWRudkptVWJiTmY0SUpTcXhuWXlVSWk2aEZPY0NCZl9lSWJKcm1Wb3pKUUR6OFJVSXBQNEMyM3RuM19Tem9kVHRYYlktbmZnQkhfc0hKeWxCdHUwanA0cTllR09ZMzhBTkNDUGE2SDY5U19ZWmptd3c?oc=5",
-  "source": "soL",
-  "summary_tr": "Reuters'e göre İran 40 günlük savaşta CIA'nın gizli tesislerini vurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-23T14:01:19.779861+00:00",
-  "type": "news",
-  "cluster_id": "cf238a14aae3f"
  }
 ]
