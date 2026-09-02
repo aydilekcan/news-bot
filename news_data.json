@@ -1,5 +1,53 @@
 [
  {
+  "title": "İsrail Başbakanı Netanyahu, 'İran'da yönetimi devireceklerini' iddia etti",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/israil-basbakani-netanyahu-iran-da-yonetimi-devireceklerini-iddia-etti-2534416",
+  "source": "Cumhuriyet",
+  "summary_tr": "İsrail Başbakanı Netanyahu, İran ile çatışmaların devam ettiğini ve Tahran yönetiminin devrilmesi için çalıştıklarını iddia etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-02T19:01:14.123602+00:00",
+  "type": "news",
+  "cluster_id": "cd370c1dfe546"
+ },
+ {
+  "title": "İşgalci İsrail Başbakanı Netanyahu, İran'da yönetimi devireceklerini iddia etti",
+  "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-basbakani-netanyahu-iranda-yonetimi-devireceklerini-iddia-etti-955711.html",
+  "source": "TRT Haber",
+  "summary_tr": "İsrail Başbakanı Netanyahu, İran ile savaşın devam ettiğini ve İran'da yönetimin düşeceğini savundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-02T19:01:14.123602+00:00",
+  "type": "news",
+  "cluster_id": "cd370c1dfe546"
+ },
+ {
+  "title": "İsrail'in alıkoyduğu Dr. Ebu Safiyye, İsrailli gardiyanların kendisini susturmak için tehdit ettiğini söyledi",
+  "link": "https://www.aa.com.tr/tr/dunya/israilin-alikoydugu-dr-ebu-safiyye-israilli-gardiyanlarin-kendisini-susturmak-icin-tehdit-ettigini-soyledi/4045721",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusunun Gazze'de alıkoyduğu Kemal Advan Hastanesi Müdürü Dr. Ebu Safiyye, gardiyanların kendisini darbetmeye devam ettiğini ve uyku yoksunluğu uygulandığını iddia etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-02T19:01:14.123602+00:00",
+  "type": "news",
+  "cluster_id": "c8f799dcd5f95"
+ },
+ {
+  "title": "Mexico presses US on auto, steel tariffs in meeting with Lutnick",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ1hNYVRva3ZoSnZOWU9xX1dLdUpsWGtiVGJMQkoyazlFYUNxSDYyS2wtc2M4OHhseTdhaGVDanEzMU45SFlhZmU1NVZ6aEtreklDR2lUMTR1T21CakxPRXJmdUtvb1R4allORENCSnFkYmxsV194b01oc2Vrb2xsQlZrRW8tYmVyLVZLRXdpUkxYemVheHNRUkh4c29rUFE4ZTN5THZpSDdtYmR3?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Meksika, ABD Ticaret Bakanı Lutnick ile yapılan toplantıda otomotiv ve çelik tarifelerine karşı çıkışını iletti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-02T19:01:14.123602+00:00",
+  "type": "news",
+  "cluster_id": "cae3c49dbf0b2"
+ },
+ {
   "title": "İsrail Savunma Bakanı Katz, Filistinlilerin Gazze'den sürgün edilmesi planının gündemde olduğunu belirtti",
   "link": "https://www.aa.com.tr/tr/dunya/israil-savunma-bakani-katz-filistinlilerin-gazzeden-surgun-edilmesi-planinin-gundemde-oldugunu-belirtti/4045700",
   "source": "Anadolu Ajansı",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-24T10:01:28.357172+00:00",
   "type": "news",
   "cluster_id": "c71fff0c96886"
- },
- {
-  "title": "YENİ Parti kurucular kurulu belli oldu",
-  "link": "https://www.diken.com.tr/yeni-parti-kurucular-kurulu-belli-oldu/?utm_source=rss&utm_medium=rss&utm_campaign=yeni-parti-kurucular-kurulu-belli-oldu",
-  "source": "Diken",
-  "summary_tr": "Özgür Özel'in liderliğinde YENİ Parti'nin kurucular kurulu belli oldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-24T10:01:28.357172+00:00",
-  "type": "news",
-  "cluster_id": "ceb0fb35425ea"
- },
- {
-  "title": "Almanya'da tüketici güveni geriledi",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/almanya-da-tuketici-guveni-geriledi-2523497",
-  "source": "Cumhuriyet",
-  "summary_tr": "Almanya'da tüketici güveni, zayıf gelir beklentileri nedeniyle hafif geriledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-24T10:01:28.357172+00:00",
-  "type": "news",
-  "cluster_id": "c8d8263d960ff"
- },
- {
-  "title": "Kapalıçarşı'da gelen hesabı görünce gözlerine inanamadı! 1 bardak limonatanın fiyatı dudak uçuklattı",
-  "link": "https://www.sozcu.com.tr/kapalicarsi-da-gelen-hesabi-gorunce-gozlerine-inanamadi-1-bardak-limonatanin-fiyati-dudak-ucuklatti-p339383",
-  "source": "Sözcü",
-  "summary_tr": "Kapalıçarşı'da bir bardak limonata 350 TL (6,5 Euro)'ye satılıyor. Turist bölgesindeki fiyat artışı tepki çekti.",
-  "metric": "1 bardak limonata (Kapalıçarşı) 350 TL",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-24T10:01:28.357172+00:00",
-  "type": "news",
-  "cluster_id": "c00c72345fe62"
- },
- {
-  "title": "Düşük limitli kredi kartı kullananlar artık iki kere düşünmek zorunda",
-  "link": "https://www.sozcu.com.tr/dusuk-limitli-kredi-karti-kullananlar-artik-iki-kere-dusunmek-zorunda-p339382",
-  "source": "Sözcü",
-  "summary_tr": "Düşük limitli kredi kartı kullananlar artık kredi notu düşmesi ve taksit kısıtlamalarıyla karşılaşıyor. Kullanıcılar bütçe kontrolü amacıyla bu kartları tercih ederken olumsuz etkileniyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-24T10:01:28.357172+00:00",
-  "type": "news",
-  "cluster_id": "cd40a66f2c3fb"
  }
 ]
