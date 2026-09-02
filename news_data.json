@@ -1,5 +1,41 @@
 [
  {
+  "title": "Trump’tan İran’a yeni saldırı tehdidi: 'İstediğimiz zaman vurabiliriz'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/trump-tan-iran-a-yeni-saldiri-tehdidi-istedigimiz-zaman-vurabiliriz-2534438",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD Başkanı Trump, İran'a istediği zaman yeniden saldırı düzenleyebileceklerini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-02T21:01:02.763824+00:00",
+  "type": "news",
+  "cluster_id": "ce1dfba355d80"
+ },
+ {
+  "title": "Trump bir kez daha İran'a saldırabileceklerini duyurdu",
+  "link": "https://www.sozcu.com.tr/trump-bir-kez-daha-irana-saldirabileceklerini-duyurdu-p354902",
+  "source": "Sözcü",
+  "summary_tr": "Trump, Oval Ofis'te İran'a 'istedikleri zaman' yeniden saldırı düzenlemeye hazır olduklarını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-02T21:01:02.763824+00:00",
+  "type": "news",
+  "cluster_id": "c0991ecdf2f48"
+ },
+ {
+  "title": "İsrail ordusunun, Batı Şeria'da bir köye düzenlediği baskında 2 Filistinli hayatını kaybetti",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-bati-seriada-bir-koye-duzenledigi-baskinda-2-filistinli-hayatini-kaybetti/4045810",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusu Batı Şeria'da bir köye düzenlediği baskında biri çocuk 2 Filistinliyi öldürdü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-02T21:01:02.763824+00:00",
+  "type": "news",
+  "cluster_id": "c8be562cbeae5"
+ },
+ {
   "title": "Trump, \"istedikleri zaman\" İran'a yeniden saldırmaya hazır olduklarını söyledi",
   "link": "https://www.aa.com.tr/tr/dunya/trump-istedikleri-zaman-irana-yeniden-saldirmaya-hazir-olduklarini-soyledi/4045782",
   "source": "Anadolu Ajansı",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-24T11:01:40.464338+00:00",
   "type": "news",
   "cluster_id": "cd18f5af71741"
- },
- {
-  "title": "Türkiye'nin dev su markası ABD'lilere satıldı",
-  "link": "https://www.sozcu.com.tr/turkiye-nin-dev-su-markasi-abd-lilere-satildi-p339409",
-  "source": "Sözcü",
-  "summary_tr": "Nestle, su işinin yarısını ABD'li yatırım şirketine 3 milyar euroya sattı. Türkiye'deki su ürünleri bu işlem kapsamında etkilenecek.",
-  "metric": "3 milyar euro",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-24T11:01:40.464338+00:00",
-  "type": "news",
-  "cluster_id": "c5f77b750e19a"
- },
- {
-  "title": "China adds 14 EU entities to export control list over Russia-related sanctions",
-  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUlVQVGZKNU9qbFNNcHFBcy0tMVdwZ2RCS1Z0SC1oZDVBeUZrX2xSZlpvTklTMTBteUNmME55OVhVWWx5RlhINnRhOG9TS0dKSlNxN3hmWHExbXgtV0NIY3NmMVpaaERiaW1kUDFUVjlteWZQaHhOMUxqMWU5UWF6RW1hX1pCY1JWUEdJeWxrVW5ZZi02QXBVV3VHVGxLb05uaEtTYkl1WFJ1dUdpRFhxSVd0RnhpSmdONWtLQU1hek5VWjVwQ1Z1VWJSdG9mWGFPMFc4Sg?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Çin, Rusya'ya yönelik yaptırımlarla ilgili 14 AB işletmesini ihracat kontrol listesine ekledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-24T11:01:40.464338+00:00",
-  "type": "news",
-  "cluster_id": "c35dedad01075"
- },
- {
-  "title": "Ben-Gvir’den Batı Şeria için yıkım çağrısı: Gazze’de yaptığımızı yapalım",
-  "link": "https://www.cumhuriyet.com.tr/dunya/ben-gvir-den-bati-seria-icin-yikim-cagrisi-gazze-de-yaptigimizi-yapalim-2523501",
-  "source": "Cumhuriyet",
-  "summary_tr": "İsrail Ulusal Güvenlik Bakanı Ben-Gvir, Batı Şeria'da Gazze'de yapıldığı gibi yıkımlar çağrısında bulundu. Olayda 4 Filistinli ve 1 İsraillı öldü.",
-  "metric": "",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-07-24T10:01:28.357172+00:00",
-  "type": "news",
-  "cluster_id": "cba0d57cdcfc4"
  }
 ]
