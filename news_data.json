@@ -1,5 +1,65 @@
 [
  {
+  "title": "YENİ Partili Umut Akdoğan'dan 'kıyma' hesabı: '200 TL karşılığında aldığımız 750 gram kıymaya ne oldu?'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/yeni-partili-umut-akdogan-dan-kiyma-hesabi-200-tl-karsiliginda-aldigimiz-750-gram-kiymaya-ne-oldu-2534246",
+  "source": "Cumhuriyet",
+  "summary_tr": "YENİ Parti Ankara Milletvekili Umut Akdoğan, 2023'te 200 TL'ye alınan 750 gram kıymanın fiyatında meydana gelen artışa dikkat çekerek hayat pahalılığını eleştirdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-02T07:01:11.739290+00:00",
+  "type": "news",
+  "cluster_id": "c85163cb1804e"
+ },
+ {
+  "title": "Küresel piyasalarda jeopolitik gerilimler ve yükselen tahvil faizleri satışların derinleşmesine neden oluyor",
+  "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-jeopolitik-gerilimler-ve-yukselen-tahvil-faizleri-satislarin-derinlesmesine-neden-oluyor/4044696",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD'nin İran'a yönelik saldırılarının yoğunlaşması nedeniyle petrol fiyatları ve tahvil faizleri yükselişe geçti; bu durum küresel piyasalardaki satışları derinleştiriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-02T07:01:11.739290+00:00",
+  "type": "news",
+  "cluster_id": "c679b5a602a0b"
+ },
+ {
+  "title": "Dolar ve avro güne nasıl başladı?",
+  "link": "https://www.diken.com.tr/dolar-ve-avro-gune-nasil-basladi-2-eylul-2026/?utm_source=rss&utm_medium=rss&utm_campaign=dolar-ve-avro-gune-nasil-basladi-2-eylul-2026",
+  "source": "Diken",
+  "summary_tr": "Dolar/TL 48,30 seviyesinde, avro/TL 55,97'de işlem görüyor (2 Eylül 2026).",
+  "metric": "Dolar/TL 48,2966 -> 48,30",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-02T07:01:11.739290+00:00",
+  "type": "news",
+  "cluster_id": "cc169d301ebb9"
+ },
+ {
+  "title": "Dolar/TL durmuyor: Yine rekor kırdı",
+  "link": "https://www.sozcu.com.tr/dolar-tl-durmuyor-yine-rekor-kirdi-p354694",
+  "source": "Sözcü",
+  "summary_tr": "Dolar/TL yeni rekor kırarak 48,30 seviyesine ulaştı.",
+  "metric": "Dolar/TL yeni rekor",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-02T07:01:11.739290+00:00",
+  "type": "news",
+  "cluster_id": "c0a7d7e345c34"
+ },
+ {
+  "title": "TCMB'den \"Deprem Bölgesi Konut Arzı ve Bölgesel Kira Enflasyonu Gelişmeleri\" analizi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/tcmbden-deprem-bolgesi-konut-arzi-ve-bolgesel-kira-enflasyonu-gelismeleri-analizi/4044727",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "TCMB analizinde, dezenflasyon sürecinde en fazla katılık görülen kalemlerden birinin kira olduğu belirtildi; 6 Şubat depremleri sonrası konut stok azlığı kira enflasyonunu etkilemektedir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-02T07:01:11.739290+00:00",
+  "type": "news",
+  "cluster_id": "ca1f148829c0c"
+ },
+ {
   "title": "ABD: İran’a yönelik saldırı dalgası tamamlandı",
   "link": "https://www.cumhuriyet.com.tr/dunya/abd-iran-a-yonelik-saldiri-dalgasi-tamamlandi-2534229",
   "source": "Cumhuriyet",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-23T17:01:15.177173+00:00",
   "type": "news",
   "cluster_id": "c2b35fb762e4a"
- },
- {
-  "title": "Yemen’s Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZHFrc1BFd1MyNGJEdWFibkJiY1dGVjRNY2tOWUNTbEZTaEw5Z3liZFUxOWExS3ZhdExIZGpjRUFsSW9WWVcyZC1aRmdaRWtVSUFyVHBxeU5wOWZfYTBYbFpZZ25uYUVxUE8tRzQ0d2VOYVk2bTZlUW8yY0RZdnFmQnVqQjRkc2RoQ2Nya19n?oc=5",
-  "source": "AP",
-  "summary_tr": "Husilər Kızıl Deniz'deki Suudi tankerlerine saldırı düzenleyerek İran-ABD çatışması riskini artırdı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-23T17:01:15.177173+00:00",
-  "type": "news",
-  "cluster_id": "cd53b742511aa"
- },
- {
-  "title": "Beyaz Saray, küresel tarifede sürenin dolması sonrası yeni adımın bugün açıklanacağını duyurdu",
-  "link": "https://www.aa.com.tr/tr/dunya/beyaz-saray-kuresel-tarifede-surenin-dolmasi-sonrasi-yeni-adimin-bugun-aciklanacagini-duyurdu/4007352",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Ticaret Temsilcisi Greer, 1974 Ticaret Yasası kapsamında uygulanacak yeni tarife adımını bugün açıklayacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-23T17:01:15.177173+00:00",
-  "type": "news",
-  "cluster_id": "cff40ca4216ef"
- },
- {
-  "title": "Brent oil’s price briefly tops $100 per barrel, as Tesla and Alphabet drag Wall Street lower",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdzJSMEdwQVV6RGMtWDMxcGFBci0xMURsa2hYWnpiTk81azZpVk9IS1gyWDlLM2xoM2xBcUVpUDFiN01tekpWUUNKcWNDZWtmbDk4RDBCbW5ZNjlQdEJLNjlTYnRERDZfVmxYNWtfamNGWjZJMkxwaDV0U0wtSnBtTDJnblFjYmxqRWoxYmFGd2JOUng0Q3JBUUpMcGxWa3M?oc=5",
-  "source": "AP",
-  "summary_tr": "Brent petrolü varil başına 100 doları aştı; Wall Street'te Tesla ve Alphabet hisse senetlerinin düşüşü piyasaları olumsuz etkiledi.",
-  "metric": "Brent petrol fiyatı >$100/varil",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-23T16:01:04.797928+00:00",
-  "type": "news",
-  "cluster_id": "c7811be8c12e6"
- },
- {
-  "title": "CHP'li Emir'den dikkat çeken açıklama: İBB soruşturmasında 'itirafçı' olan iş insanına DSİ'den 1.5 milyarlık ihale verildi",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-li-emir-den-dikkat-ceken-aciklama-ibb-sorusturmasinda-itirafci-olan-is-insanina-dsi-den-1-5-milyarlik-ihale-verildi-2523303",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Grup Başkanvekili Murat Emir, İBB soruşturmasında tahliye olan bir iş insanına DSİ'den 1.5 milyarlık ihale verildiğini iddia etti.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-23T16:01:04.797928+00:00",
-  "type": "news",
-  "cluster_id": "c9b09e39703f6"
- },
- {
-  "title": "Trump: Nükleer anlaşma için Suudiler İsrail'i tanımalı",
-  "link": "https://www.bbc.com/turkce/articles/c9q9jvwdxnwo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD Başkanı Trump, Suudi Arabistan ile tarihi nükleer anlaşmanın Riyad'ın İsrail'i tanımasına bağlı olduğunu duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-23T15:01:30.355845+00:00",
-  "type": "news",
-  "cluster_id": "c28343f70e60c"
  }
 ]
