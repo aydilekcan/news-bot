@@ -1,5 +1,65 @@
 [
  {
+  "title": "Kademeli emeklilik nedir, hükümetin bu yönde bir hazırlığı var mı?",
+  "link": "https://www.bbc.com/turkce/articles/c7708zr3p5eo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Çalışanlar 'kademeli emeklilik' talebini gündeme getirdi; hükümet ve Çalışma Bakanlığı görüşmeler yapıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-02T14:01:09.387246+00:00",
+  "type": "news",
+  "cluster_id": "c1ea109d6e3b6"
+ },
+ {
+  "title": "Üsküdar'da seçim yenilenecek",
+  "link": "https://www.sozcu.com.tr/uskudar-da-secim-yenilenecek-p354825",
+  "source": "Sözcü",
+  "summary_tr": "İstanbul 2. İdare Mahkemesi Üsküdar Belediyesi başkan vekili seçiminin yenilenmesine karar verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-02T14:01:09.387246+00:00",
+  "type": "news",
+  "cluster_id": "c3aac299885ca"
+ },
+ {
+  "title": "TÜİK'in ardından İTO'dan şaibeli enflasyon hesabı",
+  "link": "https://www.sozcu.com.tr/tuik-in-ardindan-ito-dan-saibeli-enflasyon-hesabi-p354818",
+  "source": "Sözcü",
+  "summary_tr": "İstanbul Ticaret Odası (İTO) ağustos ayı enflasyon hesabında tartışmalı yöntemi kullanması eleştirildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-02T14:01:09.387246+00:00",
+  "type": "news",
+  "cluster_id": "c57a37ea08f9f"
+ },
+ {
+  "title": "ABD'de özel sektör istihdamı ağustosta beklentilerin altında arttı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abdde-ozel-sektor-istihdami-agustosta-beklentilerin-altinda-artti/4045447",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD özel sektör istihdamı ağustosta 38 bin kişi artarak piyasa beklentilerinin altında gerçekleşti.",
+  "metric": "ABD özel sektör istihdamı ağustos +38.000 kişi",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-02T14:01:09.387246+00:00",
+  "type": "news",
+  "cluster_id": "c3dc5b6d6a6dc"
+ },
+ {
+  "title": "US oil giant Chevron confirms it will expand operations in Venezuela",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeUY5RDVMaG9WMTE1ZHVocE9lUWVQWXNiOFBGY3dUc3hOdTVIYzRtNkwyV0VJYTRPcnNSR2hoYkh6Q2JFQ3RYS2JQSTlVeXhrcF9XVzBVeVA5OEdxSVp1RHZ1QmhWX1FXM3lYVWdVeEF0T1V5TFh0cS1scmdZd2d2RVg2aE0wd3Z5T1gxRE5BbkI?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD petrol devi Chevron Venezuela operasyonlarını genişletmeyi teyit etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-02T14:01:09.387246+00:00",
+  "type": "news",
+  "cluster_id": "ca87965a4f4d7"
+ },
+ {
   "title": "ABD özel sektör istihdamında yılın en zayıf artışı: Beklentilerin altında kaldı",
   "link": "https://www.sozcu.com.tr/abd-ozel-sektor-istihdaminda-yilin-en-zayif-artisi-beklentilerin-altinda-kaldi-p354799",
   "source": "Sözcü",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-24T07:01:17.704489+00:00",
   "type": "news",
   "cluster_id": "c436fc8cc8b47"
- },
- {
-  "title": "EU's Kallas questions US rationale for tariffs on bloc, seeks clarification",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQVBDR0sybFFlb19zZlJPYU5URTRFbjdiT21jazBERHB6SmJkRHJoNFR5eU0wTTFPaFNUN3ZOb2g0WU1fV0hyVlhPMXczZzRJMjdVWVNMMlM5ZmxLdzhac00tWEdfaU9ZM3JSYXdhSi1ySEwtQVA0V2dTbjFRZUpzM1RwcXVBSDgtNkVnUjl6NWE0SFFCeFplcVFjVmpEUzFfYm1lbWZlb0QyUktLTVowVQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "AB Komisyonu Başkanı Kallas, ABD'nin tarifelere ilişkin mantığını sorguladı ve açıklama talep etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-24T07:01:17.704489+00:00",
-  "type": "news",
-  "cluster_id": "c31e7dff0403b"
- },
- {
-  "title": "Körfezde savaş siyasette deprem, piyasalar allak bullak",
-  "link": "https://www.sozcu.com.tr/korfezde-savas-siyasette-deprem-piyasalar-allak-bullak-p339313",
-  "source": "Sözcü",
-  "summary_tr": "Körfezdeki jeopolitik gerilim ve petrol fiyatlarındaki sert yükseliş piyasaları olumsuz etkiledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-24T07:01:17.704489+00:00",
-  "type": "news",
-  "cluster_id": "c7179b84fa714"
- },
- {
-  "title": "Küresel piyasalarda jeopolitik baskı büyüyor: Gözler PMI verileri ve Moody's kararında",
-  "link": "https://www.sozcu.com.tr/kuresel-piyasalarda-jeopolitik-baski-buyuyor-gozler-pmi-verileri-ve-moody-s-kararinda-p339310",
-  "source": "Sözcü",
-  "summary_tr": "ABD-İran gerilimi enerji arzına risk oluştururken, piyasalar jeopolitik baskı altında seyir gösteriyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-24T07:01:17.704489+00:00",
-  "type": "news",
-  "cluster_id": "c7918623745ed"
- },
- {
-  "title": "China’s memory chip makers ride AI boom to new power — and U.S. scrutiny",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN3FtZ0tuZjBLVXBGemNjdHZlRFVaMUhXSHNuaWpfZnUxSk9PVVQtVldLNjNXSENkREV4UUZYdmN3dXE0RGk2d3poSzduX3UzM09JUURZMG5SQjZxeExscERSZ21SS1ptQUpWR3ROaXFGVlNnR3dWeDROc2Z4emx0NlU3dE5uMVp0aXM1SzJEdWJudVZoMFB6YnMwU2czOVBfaVBJTGhNcDBzUERo?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Çin'in hafıza çipi üreticileri AI patlamasından yararlanarakgüclenirken ABD denetiminin artması bekleniyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-24T07:01:17.704489+00:00",
-  "type": "news",
-  "cluster_id": "c62b014a0aa36"
- },
- {
-  "title": "Morning Bid: Oil batters bonds as AI burns cash",
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yM3BiWGJhY1RtWFk0U2tXSlp5b21ueFR0cjFRSlUyU3dvclFFdUJ1YThDdmJ5aVpqdlM4bUNHMVJ3NV94YjBhS3ZlUnJpVEVvRlpiVjV5Vk94VXJ5MUcybk91VzZVSFRFakxDN083X0IxajNjSmlMTDNXMG5uREU?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Petrol fiyatlarındaki sert yükseliş tahvil piyasalarını olumsuz etkiledi; yapay zeka yatırımları nakit harcaması artırdı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-24T07:01:17.704489+00:00",
-  "type": "news",
-  "cluster_id": "c4657c0abb3dc"
  }
 ]
