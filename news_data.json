@@ -1,5 +1,65 @@
 [
  {
+  "title": "İran, ABD'nin 4 kişinin ölümüne yol açan saldırılarına misilleme yaptı",
+  "link": "https://www.bbc.com/turkce/articles/c750znwyye5o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD'nin İran'a yönelik saldırılarının ardından İran misilleme harekâtı gerçekleştirdi. Ortadoğu'daki gerilim artmış, küresel piyasalar etkilenmiş durumda.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-02T03:01:09.377452+00:00",
+  "type": "news",
+  "cluster_id": "c0ef49a64ab7e"
+ },
+ {
+  "title": "Yılbaşı zamları %28’e koşuyor",
+  "link": "https://www.sozcu.com.tr/yilbasi-zamlari-28-e-kosuyor-p354643",
+  "source": "Sözcü",
+  "summary_tr": "Yılbaşında vergi, harç ve cezalara %28'e kadar zam uygulanacak. Vatandaşlar gelen yılda ilave ekonomik yüke hazırlanmalı.",
+  "metric": "Vergi/harç zam oranı %28",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-02T03:01:09.377452+00:00",
+  "type": "news",
+  "cluster_id": "c670947b14fe8"
+ },
+ {
+  "title": "Oil up nearly 1% as US and Iran trade fresh strikes",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLTRkVWlBVVJQeFBDbXB5UzFkd05qc05KVXhja1h2cC1aMUZxOTRGQTY4a0ZHeWpiSzl0UE50MjRTTjFVREhMUGJhd29Ka21tTTlISE9yd3pSSHFESEtVOTBzb2c0dEVFakx5eEJLamxsMUJxZ0NOSTBpNll2a2Z5eVBncmR6S3MtSW1ITE9hN01KbUljNlcwNlB3aw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD-İran çatışmasının yoğunlaşması nedeniyle ham petrol fiyatları yaklaşık %1 yükseldi. Enerji piyasaları gerilime duyarlı durumda.",
+  "metric": "Ham petrol fiyatı ≈%1 artış",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-02T03:01:09.377452+00:00",
+  "type": "news",
+  "cluster_id": "ca924306ab31e"
+ },
+ {
+  "title": "Bir avuç insana 30 trilyon gitti 85 milyon izledi",
+  "link": "https://www.sozcu.com.tr/bir-avuc-insana-30-trilyon-gitti-85-milyon-izledi-p354642",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye'deki toplam servetin %41'i (30 trilyon lira) nüfusun %1'ine yığılmış durumda. Gelir eşitsizliği ileri seviyelerdedir.",
+  "metric": "Toplam servetin %41'i (%1 kesime) = 30 trilyon lira",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-02T03:01:09.377452+00:00",
+  "type": "news",
+  "cluster_id": "cc87ff9d28fdd"
+ },
+ {
+  "title": "Dollar holds firm as Middle East hostilities lift oil",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeHBBNVNPZnJHaVhnTDlrMDVERUdjS2dCWXl2NmplVWJtYTFiLXk3amhnNkFoeEdFVzBuczBNZmdNWEc3bEFTaFBxb1RWazVjTW0tQ2NNM1RjUlljdnB6a3VaQXdGeDNUUE9WbGJxOVJzZk1Wb056eEJqcUp4allyS0FSZmpLbXQ2MmZWYWdmVUNxczFmdU5helZNQ3pQT3c?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ortadoğu'daki askeri gerilim ve petrol fiyat artışı dolar talebini destekledi. Küresel para piyasalarında güvenli liman akını görülüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-02T03:01:09.377452+00:00",
+  "type": "news",
+  "cluster_id": "c4ac39761b988"
+ },
+ {
   "title": "Motorinden sonra LPG’ye de zam geliyor",
   "link": "https://www.sozcu.com.tr/motorinden-sonra-lpg-ye-de-zam-geliyor-p354640",
   "source": "Sözcü",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-23T14:01:19.779861+00:00",
   "type": "news",
   "cluster_id": "cf238a14aae3f"
- },
- {
-  "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQclM4V2JONWFuTXYzY1IyV29PSWlsVjRFMnF4SzhxNl83UHduNTZWVTRSLThVYkZJUFZCc1FLQTRoY3RJUHE0MFdUN0ZwelhkWFlGdFRBOUxRdkNtVkpJTGNkZTE5NmZfOUJkSWtSQnFKb2Q3ZjNvZ0NGYXY3MG96LVpCS1FvVXFmMDc3aU5tZFgwaDZTRW5XdGw1QkVnOTNvSUg2aHVVRFJNRHpDbHI3c1cybmpsTlp4NEh5b0tn?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Alphabet'in yapay zeka harcamaları yükselirken nakit yakımı Big Tech için endişe yaratıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-23T14:01:19.779861+00:00",
-  "type": "news",
-  "cluster_id": "c56d072d4d3a2"
- },
- {
-  "title": "Yılmaz Büyükerşen CHP’den istifa etti: Kılıçdaroğlu tepkisi",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/yilmaz-buyukersen-chp-den-istifa-etti-kilicdaroglu-tepkisi-2523277",
-  "source": "Cumhuriyet",
-  "summary_tr": "Yılmaz Büyükerşen, CHP'den istifa etti.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-23T14:01:19.779861+00:00",
-  "type": "news",
-  "cluster_id": "c4a9ea839fc18"
- },
- {
-  "title": "Hangi bölüm mezunları en yüksek maaşı alıyor?",
-  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMkl1d0JCV292X3VXRS1kazVOaUE3d0xqajFFYzJnNGpSZ2JhVzJsRkxqR0RQel9HRVVvMWhhcFBtWUI5N0cyWXlSa3Y1OGpsWmJfaWdUSGFaR25iUTh4WXF1MTFFRVd2RWkzaXlmVktMeEZrZGNhX0NyOWtnNDRLYXJJVTI?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Hangi bölüm mezunları en yüksek maaşı alıyor analizi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-23T14:01:19.779861+00:00",
-  "type": "news",
-  "cluster_id": "ca9b2893cfd29"
- },
- {
-  "title": "Yıldızlar Holding bunu hep yapıyor: İşçisine maaş ödemeyen şirketi kimler koruyor?",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRk13UGVCQkdLSm9fVEc0ZEZrWl9oTGFwTDVUNlo4RUJUMEhxR01qM0E1UXNjZldFSXc1UkJ5NUV4YXRJRkFxQThuQ1pCSnlTZERGbE9XNkVKZzFrdjQxeTZDalZWTGwwMmNGa2xBUmJhNGhvSU84QldqeUVfcEV4MVEwU2dWQW1meThwVGFCVThUNGZaVmQzMWgyTzNMdFhENkVkZWdMazNjclV5NEwzbjRuTFBTX0xKRnc?oc=5",
-  "source": "soL",
-  "summary_tr": "Yıldızlar Holding işçisine maaş ödemeyen şirketi olarak gündemde; sorunsalı ele alındı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-23T14:01:19.779861+00:00",
-  "type": "news",
-  "cluster_id": "c171c15f3f512"
- },
- {
-  "title": "Politika faizi (bir hafta vadeli repo ihale faizi): %37 (Temmuz 2026)",
-  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLU3RBR1VyeHdHSDJsc0d1T3RRZDNsTm13X1ljUUNEYWZmVm40NUJXVldoVjFBYVU1dXpRQllNMFlXckFUN2gwY29hZ3ZOYUx4dHc?oc=5",
-  "source": "TCMB",
-  "summary_tr": "%37 → %37",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-07-23T14:01:19.779861+00:00",
-  "type": "data",
-  "cluster_id": ""
  }
 ]
