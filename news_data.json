@@ -1,5 +1,65 @@
 [
  {
+  "title": "İsrail Savunma Bakanı Katz, Filistinlilerin Gazze'den sürgün edilmesi planının gündemde olduğunu belirtti",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-savunma-bakani-katz-filistinlilerin-gazzeden-surgun-edilmesi-planinin-gundemde-oldugunu-belirtti/4045700",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail Savunma Bakanı Katz, Filistinlilerin Gazze'den sürgün planının hala gündemde olduğunu, şu anda donduruluşunun geçici olduğunu belirtti.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-09-02T18:01:07.828007+00:00",
+  "type": "news",
+  "cluster_id": "c7a342839f626"
+ },
+ {
+  "title": "Guterres, ABD ile İran arasındaki saldırılardan dolayı \"son derece endişe\" duyduğunu açıkladı",
+  "link": "https://www.aa.com.tr/tr/dunya/guterres-abd-ile-iran-arasindaki-saldirilardan-dolayi-son-derece-endise-duydugunu-acikladi/4045689",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "BM Genel Sekreteri Guterres, ABD-İran arasında yeniden başlayan saldırılardan son derece endişe duyduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-02T18:01:07.828007+00:00",
+  "type": "news",
+  "cluster_id": "c267d555ba9ec"
+ },
+ {
+  "title": "DSÖ duyurdu: Ebola salgını hızla yayılıyor, 3 bin kişi hayatını kaybetti",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/dso-duyurdu-ebola-salgini-hizla-yayiliyor-3-bin-kisi-hayatini-kaybetti-2534400",
+  "source": "Cumhuriyet",
+  "summary_tr": "DSÖ, Kongo Demokratik Cumhuriyeti'ndeki Ebola salgınının kayıtlara geçen en hızlı yayılan salgın olduğunu açıkladı; 3 bin ölüm kaydedildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-02T18:01:07.828007+00:00",
+  "type": "news",
+  "cluster_id": "c206588cad91e"
+ },
+ {
+  "title": "DSÖ: KDC'deki Ebola şimdiye kadar gördüğümüz en hızlı yayılan salgın",
+  "link": "https://www.trthaber.com/haber/dunya/dso-kdcdeki-ebola-simdiye-kadar-gordugumuz-en-hizli-yayilan-salgin-955708.html",
+  "source": "TRT Haber",
+  "summary_tr": "DSÖ Genel Direktörü, Kongo Demokratik Cumhuriyeti'ndeki Ebola salgınının kayıtlara geçen en hızlı yayılan salgın olduğunu ilan etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-02T18:01:07.828007+00:00",
+  "type": "news",
+  "cluster_id": "c4901f918dd19"
+ },
+ {
+  "title": "Girne açıklarında batan gemide can kaybı 9’a yükseldi, Ulaştırma Bakanı Erhan Arıklı görevden alındı",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWjczZUY4cnYzdkVGbjFPQnIxY2M0UHFNX2s4bGxSQnhBNzNhNFpWQ1hTRXV0aE0wSU5kLU9MQWZpWnZJYzlHWEl5c2RvQmlWSVpNV3J2a2lhOUVja1I4ZDdEMWFWMnUwTllxQlhwcVJ3eWpDVGZiUmVvcGhVS3NQYVl6NVpLOXJCWkFHQw?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "KKTC'de Girne açıklarındaki gemi kazasında can kaybı 9'a yükseldi; Ulaştırma Bakanı Erhan Arıklı görevden alındı.",
+  "metric": "Can kaybı: 9",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-02T18:01:07.828007+00:00",
+  "type": "news",
+  "cluster_id": "c893d11043217"
+ },
+ {
   "title": "İsrail Başbakanı Netanyahu: Gazze'den çıkmayacağız",
   "link": "https://www.dw.com/tr/israil-başbakanı-netanyahu-gazze-den-çıkmayacağız/a-78789951?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-24T10:01:28.357172+00:00",
   "type": "news",
   "cluster_id": "cd40a66f2c3fb"
- },
- {
-  "title": "KPSS ile bazı kamu kurum ve kuruluşlarının kadro ve pozisyonlarına yerleştirme sonuçları açıklandı",
-  "link": "https://www.aa.com.tr/tr/gundem/kpss-ile-bazi-kamu-kurum-ve-kuruluslarinin-kadro-ve-pozisyonlarina-yerlestirme-sonuclari-aciklandi/4007957",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "2026 KPSS-1 merkezi yerleştirme sonuçları ÖSYM tarafından açıklandı. Kamu kurum ve kuruluşlarının kadro pozisyonlarına atama gerçekleştirildi.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-24T10:01:28.357172+00:00",
-  "type": "news",
-  "cluster_id": "cd52392544808"
- },
- {
-  "title": "İsrail'in Gazze'de bir eve düzenlediği saldırıda 2'si kadın 4 Filistinli yaralandı",
-  "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzede-bir-eve-duzenledigi-saldirida-2si-kadin-4-filistinli-yaralandi/4007953",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail, Gazze'nin orta kesimindeki bir eve saldırı düzenleyerek 2'si kadın 4 Filistinli'yi yaraladı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-24T10:01:28.357172+00:00",
-  "type": "news",
-  "cluster_id": "cdccf1fd7fc1d"
- },
- {
-  "title": "Özgür Özel dahil 91 milletvekili CHP'den istifa ederek Yeni Parti'yi kurdu",
-  "link": "https://www.bbc.com/turkce/articles/c0jlnyg5v8po?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Özgür Özel liderliğinde 91 milletvekili CHP'den istifa ederek Yeni Parti'yi kurdu. Meclis aritmetiği değişti, CHP beşinciliğe geriledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-24T09:01:13.189856+00:00",
-  "type": "news",
-  "cluster_id": "c3c6f118d0f19"
- },
- {
-  "title": "CHP'den kaç milletvekili istifa etti? Yeni Parti'ye kaç milletvekili katılacak?",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-den-kac-milletvekili-istifa-etti-yeni-parti-ye-kac-milletvekili-katilacak-2523477",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'den 91 milletvekili istifa ederek Yeni Parti'ye katıldı.",
-  "metric": "CHP'den istifa: 91 milletvekili",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-24T09:01:13.189856+00:00",
-  "type": "news",
-  "cluster_id": "c3c6f118d0f19"
- },
- {
-  "title": "Özgür Özel CHP’den istifa etti: Yeni Parti için başvuru yapıldı",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTlVwLXhheGVvRXNQQVNxMWNWSkJsamFSY3JsenVXRndVeWdIejVJMlVPQVNCeTN6cUtIeG9Mb3NtajNFWnRtZDI3VFNMWDAzaTBfaGpsT0ZFOGlTMkdYX0xIdjJIVF9XSTdud1FqSzZHand3dnVxaDVfQ20tOTFBSEpHamtIU3h4UkJzSXpMamI1eVVjLVVuU3kyb09VazNE?oc=5",
-  "source": "soL",
-  "summary_tr": "Özgür Özel CHP'den istifa ederek Yeni Parti kuruluşu için başvuru yaptı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-24T09:01:13.189856+00:00",
-  "type": "news",
-  "cluster_id": "c3c6f118d0f19"
  }
 ]
