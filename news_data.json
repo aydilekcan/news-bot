@@ -1,5 +1,29 @@
 [
  {
+  "title": "Babacan, Davutoğlu soruşturmasına tepki",
+  "link": "https://www.sozcu.com.tr/babacan-davutoglu-sorusturmasina-tepki-p355188",
+  "source": "Sözcü",
+  "summary_tr": "DEVA Partisi Genel Başkanı Ali Babacan, eski Başbakan Davutoğlu hakkında başlatılan soruşturmaya tepki gösterdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-09-03T20:01:03.361319+00:00",
+  "type": "news",
+  "cluster_id": "cf3d1db3a2bc6"
+ },
+ {
+  "title": "ABD’de faiz tartışması: Gözler 16 Eylül’de",
+  "link": "https://www.sozcu.com.tr/abd-de-faiz-tartismasi-gozler-16-eylul-de-p355185",
+  "source": "Sözcü",
+  "summary_tr": "ABD'de Federal Rezerv'in 16 Eylül'deki faiz kararı beklentileri artıyor. Başkan Yardımcısı Vance faiz indirimi çağrısı yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-03T20:01:03.361319+00:00",
+  "type": "news",
+  "cluster_id": "c8b32f5348bf9"
+ },
+ {
   "title": "US to seek back payment from Europe for Ukraine aid, Trump says",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVJMTlRnNjZsN3VYWVl3N2NQYl9EMjBhcHR6Qzl0WDk4QTBSRnFPZFFBWnFMOW0zRE9uX1BJVmhGbnlPLUZkRG5UOXZ1LWhOdXctWFFGbmF2ZVVMcEZ4SVVtYnoweU0wa3lNMWI2Sm1iME9YcnpOYVlvSmh3OUUzYUZDUUpHN0NFVWNrNXVRVkNiS0E1amRfeXI0SXoxTEw3eWtTTXM2ZTJqMVdnaXVHelNtRQ?oc=5",
   "source": "Reuters",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-25T09:01:16.183993+00:00",
   "type": "news",
   "cluster_id": "c82b816ed270b"
- },
- {
-  "title": "Adalet Bakanı Gürlek: 'Genel af yok, sadece PKK mensupları için düzenleme var'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/adalet-bakani-gurlek-genel-af-yok-sadece-pkk-mensuplari-icin-duzenleme-var-2523716",
-  "source": "Cumhuriyet",
-  "summary_tr": "Adalet Bakanı Gürlek, hükümetin genel af çalışması olmadığını, ancak PKK mensupları için düzenleme yapıldığını açıkladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-25T09:01:16.183993+00:00",
-  "type": "news",
-  "cluster_id": "cfe31d30130c0"
- },
- {
-  "title": "Borsa yatırımcılarının portföy değeri yılın ilk yarısında 6 trilyonu aştı",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/borsa-yatirimcilarinin-portfoy-degeri-ilk-yarida-6-3-trilyon-lirayi-asti-2523504",
-  "source": "Cumhuriyet",
-  "summary_tr": "Türkiye'de pay senedi yatırımcılarının toplam portföy değeri yılın ilk yarısında 6 trilyon lirayı aştı.",
-  "metric": "Portföy değeri 6 trilyon TL+",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-25T09:01:16.183993+00:00",
-  "type": "news",
-  "cluster_id": "ca945655fa5be"
  }
 ]
