@@ -1,5 +1,41 @@
 [
  {
+  "title": "Volkswagen board approves turnaround plan, flags 50,000 possible job cuts across group",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONHJWZnhzWG5faWZEaUhXbDE4aUFUZ3JNWlp0SjB1RzRXS1JZT1hmSy10WDJFbE9kSVhUSE9YVzZ2NkRTY2REMEk3UHFadFp5UUgtVEdMcXowcnlmZGhjNTBVS01DQWJ4UUQ3OHhnakZjdm5IRzBaVlhQMzFaa0lVbW05X0RpRFZuV29SX0MyYVpkZGpCQ3psSlpuc0tLajZJTUIzc1hEdGdWV2swR2pQblJQZHQ2dkVmVkpkZWlFZVM?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Volkswagen yönetim kurulu kurtarma planını onayladı ve grup genelinde 50.000 iş kaybının mümkün olduğunu bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-03T21:01:05.712893+00:00",
+  "type": "news",
+  "cluster_id": "c403b25abfa01"
+ },
+ {
+  "title": "İnternet alışverişlerinde yeni dönem: Küçük paketlerden ek ücret alma kararı aldılar",
+  "link": "https://www.sozcu.com.tr/internet-alisverislerinde-yeni-donem-kucuk-paketlerden-ek-ucret-alma-karari-aldilar-p355194",
+  "source": "Sözcü",
+  "summary_tr": "AB, blok dışındaki ülkelerden yapılan internet alışverişlerinde gümrük sistemi değiştirecek ve küçük paketlerden ek ücret alma kararı aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-03T21:01:05.712893+00:00",
+  "type": "news",
+  "cluster_id": "cb41e274f1daf"
+ },
+ {
+  "title": "Trump'ın azınlık öğrencilerini destekleyen okulların vergi muafiyetini kaldırma girişimi hızlandı",
+  "link": "https://www.aa.com.tr/tr/dunya/trumpin-azinlik-ogrencilerini-destekleyen-okullarin-vergi-muafiyetini-kaldirma-girisimi-hizlandi/4046890",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Trump yönetimi, azınlık öğrencilerine burs sağlayan üniversitelerin vergi muafiyetini kaldırmak için girişimlerini hızlandırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-03T21:01:05.712893+00:00",
+  "type": "news",
+  "cluster_id": "c82818bebc8bb"
+ },
+ {
   "title": "Babacan, Davutoğlu soruşturmasına tepki",
   "link": "https://www.sozcu.com.tr/babacan-davutoglu-sorusturmasina-tepki-p355188",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-25T09:01:16.183993+00:00",
   "type": "news",
   "cluster_id": "cbcf2a8f06121"
- },
- {
-  "title": "Romania says it shot down second drone breaching its airspace",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNenNib19JWnhPbU00bUNBREJvbHB3MzUxaVJZdHpCdVUxQXFSZl9mS3RsU2E4MXpkZ3FLYy0ySWJSOU8ycnljNlJyQjVqRVozcUJQcTROVGl2WERzUmk0VGxLX2xUQkllY0N1d2xCbFgxSXpiSThRc1ZZazBUN0ZtRGthTnRCRF9CQktPdGtqUWZETnFjdHQ2NFktMkpJWVd6TkZOWlhEdkhYZF9hcmhn?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Romanya hava sahasını ihlal eden ikinci insansız havai aracı (drone) düşürdüğünü açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-25T09:01:16.183993+00:00",
-  "type": "news",
-  "cluster_id": "c498c51f2a012"
- },
- {
-  "title": "India's Modi under pressure as youth protest leaders set for more talks",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPajR0a3JtLUFZTGVwMWJFUDdCR2M1UlpfRGpUU3FEUmlsM3lsNnlsNGMzNkx4VFRlVmNyWUdvTHgwbFBuaVF2czduWDdDNXg2X3Z2M0pOTEFSZklJaVBVbXlYLTZ0czY5V0lUWjNob0d0SnF5NWE4dDlUamNvUTVDT2ZrV1l4dmNVdEZjbVl3YjJYajJ1RDJwbzNZWjdWZGdoNm11NUhvb1hiVEhmbU1rRDZEeVBmdDBlS3c?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Hindistan'da genç protestocular Modi hükümetine baskı yaparken liderlerle görüşmeler devam edecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-25T09:01:16.183993+00:00",
-  "type": "news",
-  "cluster_id": "c612ebb541492"
- },
- {
-  "title": "YENİ Parti'nin ilk ziyareti Anıtkabir'e... Özgür Özel, Özel Defter’i imzaladı: 'Kuşatılan mirasınızı koruma görevi bize emanettir'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/yeni-parti-nin-ilk-ziyareti-anitkabir-e-ozgur-ozel-ozel-defter-i-imzaladi-kusatilan-mirasinizi-koruma-gorevi-bize-emanettir-2523717",
-  "source": "Cumhuriyet",
-  "summary_tr": "YENİ Parti Genel Başkanı Özgür Özel partisinin kurucular kurulu üyeleriyle Anıtkabir'i ziyaret etti ve Özel Defter'i imzaladı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-25T09:01:16.183993+00:00",
-  "type": "news",
-  "cluster_id": "c82b816ed270b"
  }
 ]
