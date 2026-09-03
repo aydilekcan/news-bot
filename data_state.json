@@ -56,10 +56,10 @@
    "indicator_tr": "Geniş tanımlı işsizlik oranı"
   },
   "tr_tufe_aylik": {
-   "value": "%1,29",
-   "period": "",
-   "ts": "2026-08-23T12:01:17.796716+00:00",
-   "indicator_tr": "TÜFE (aylık)"
+   "value": "%1,84",
+   "period": "Ağustos",
+   "ts": "2026-09-03T08:01:42.133629+00:00",
+   "indicator_tr": "TUFE (aylık)"
   },
   "tr_ihracat_birim_degeri_endeksi_yillik": {
    "value": "%13,7",
@@ -128,9 +128,9 @@
    "indicator_tr": "Emekli zammı (5 aylık enflasyon)"
   },
   "tr_tufe_yillik": {
-   "value": "%31,75",
-   "period": "Temmuz",
-   "ts": "2026-08-13T07:01:46.102869+00:00",
+   "value": "%31,51",
+   "period": "Ağustos",
+   "ts": "2026-09-03T08:01:42.133629+00:00",
    "indicator_tr": "TUFE (yıllık)"
   },
   "tr_ihracat_birim_deger_endeksi": {
@@ -1116,6 +1116,9 @@
   "b0d359422a016bc94ae2539aba193c60": "2026-09-03T07:01:49.740503+00:00",
   "eb78d5849e9b9fd406511fb76d4ace72": "2026-09-03T07:01:49.740503+00:00",
   "26e8a9b14c937c4527da129457616d0d": "2026-09-03T07:01:49.740503+00:00",
-  "7e0384a632af66c3f84ff5479a71afe1": "2026-09-03T07:01:49.740503+00:00"
+  "7e0384a632af66c3f84ff5479a71afe1": "2026-09-03T07:01:49.740503+00:00",
+  "685de41de985feae650f4ffbd8b052b0": "2026-09-03T08:01:09.192484+00:00",
+  "f16372dba142fe6045105671c05cbf08": "2026-09-03T08:01:09.192484+00:00",
+  "d1fa83e2b5e1ea43803bb92a940994b4": "2026-09-03T08:01:09.192484+00:00"
  }
 }
