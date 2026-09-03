@@ -1,5 +1,53 @@
 [
  {
+  "title": "Başkan vekili seçimi öncesi Üsküdar Belediye Meclisi'nden CHP'li 4 üye AKP'ye geçti",
+  "link": "https://www.bbc.com/turkce/articles/cz7dn28e0y4o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Üsküdar Belediye Meclisi'nde başkan vekili seçimi öncesi CHP'den 4 üye AKP'ye geçti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-03T22:01:09.275839+00:00",
+  "type": "news",
+  "cluster_id": "cea252b58ca9f"
+ },
+ {
+  "title": "Üsküdar Belediye Başkanvekilliği seçimi öncesi 4 CHP’li Belediye Meclis üyesi AKP’ye geçti",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeGdRTEk0QUZqNGJrZ2dWSDREVEdUa1dqVzV1VGVGbk9XREE3Qy0yOUhoWHZMZDBRU3hURmk3NVRySnJ0VTUyOVhscHd3d2gyMjdzT1kzaGZpNjZ4TXNVSjFmVzRkeDRsZjU0WUhqWGZpdTc2RzA4aUVvM3dwcVJGcDhQSDUtd1QxQVF2RzJB?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Üsküdar Belediye Başkan Vekili seçimi öncesi 4 CHP'li Meclis üyesi AKP'ye geçti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-03T22:01:09.275839+00:00",
+  "type": "news",
+  "cluster_id": "cea252b58ca9f"
+ },
+ {
+  "title": "Üç gözaltının ardından dört transfer: AKP, Üsküdar'da 'zafere' yakın",
+  "link": "https://www.diken.com.tr/uc-gozaltinin-ardindan-dort-transfer-akp-uskudarda-zafere-yakin/?utm_source=rss&utm_medium=rss&utm_campaign=uc-gozaltinin-ardindan-dort-transfer-akp-uskudarda-zafere-yakin",
+  "source": "Diken",
+  "summary_tr": "Üsküdar Belediyesi'nde tekrarlanacak başkan vekili seçimi öncesi AKP, 4 üye kazanarak 'zafere' yaklaştı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-03T22:01:09.275839+00:00",
+  "type": "news",
+  "cluster_id": "cce37b48380e5"
+ },
+ {
+  "title": "YENİ Parti'den yurttaşlara 'Üsküdar' çağrısı: Tarih ve saat verdiler",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/yeni-parti-den-yurttaslara-uskudar-cagrisi-tarih-ve-saat-verdiler-2534780",
+  "source": "Cumhuriyet",
+  "summary_tr": "YENİ Parti İstanbul İl Başkanı, 5 Eylül'de yapılması planlanan Üsküdar başkan vekili seçimi öncesi yurttaşlara eylem çağrısı yaptı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-03T22:01:09.275839+00:00",
+  "type": "news",
+  "cluster_id": "cee2d7985d18b"
+ },
+ {
   "title": "Volkswagen board approves turnaround plan, flags 50,000 possible job cuts across group",
   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONHJWZnhzWG5faWZEaUhXbDE4aUFUZ3JNWlp0SjB1RzRXS1JZT1hmSy10WDJFbE9kSVhUSE9YVzZ2NkRTY2REMEk3UHFadFp5UUgtVEdMcXowcnlmZGhjNTBVS01DQWJ4UUQ3OHhnakZjdm5IRzBaVlhQMzFaa0lVbW05X0RpRFZuV29SX0MyYVpkZGpCQ3psSlpuc0tLajZJTUIzc1hEdGdWV2swR2pQblJQZHQ2dkVmVkpkZWlFZVM?oc=5",
   "source": "Reuters",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-25T10:01:44.535233+00:00",
   "type": "data",
   "cluster_id": ""
- },
- {
-  "title": "Rusya Merkez Bankası politika faizini düşürdü, enflasyon tahminini yükseltti",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/rusya-merkez-bankasi-politika-faizini-dusurdu-enflasyon-tahminini-yukseltti-2523700",
-  "source": "Cumhuriyet",
-  "summary_tr": "Rusya Merkez Bankası politika faizini 25 baz puan düşürerek %14'e indirdi ve 2026 sonuna ilişkin enflasyon tahminini yükseltti.",
-  "metric": "Politika faizi %14,25 -> %14 (-25 baz puan)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-25T09:01:16.183993+00:00",
-  "type": "news",
-  "cluster_id": "c2c45a61dc9a6"
- },
- {
-  "title": "Motorine dev zam: Litresi 4.20 TL arttı",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/motorine-dev-zam-litresi-4-20-tl-artti-2523714",
-  "source": "Cumhuriyet",
-  "summary_tr": "Motorine ortalama 4,20 TL zam yapıldı, yeni fiyatlar bugünden itibaren pompalara yansıtıldı.",
-  "metric": "Motorin litresi 4,20 TL zam",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-25T09:01:16.183993+00:00",
-  "type": "news",
-  "cluster_id": "c3854ba7f7c9e"
- },
- {
-  "title": "ABD ve İngiltere Hürmüz Boğazı için uluslararası koalisyon kurmak üzere toplanacak",
-  "link": "https://www.sozcu.com.tr/abd-ve-ingiltere-hurmuz-bogazi-icin-uluslararasi-koalisyon-kurmak-uzere-toplanacak-p339636",
-  "source": "Sözcü",
-  "summary_tr": "ABD ve İngiltere, Hürmüz Boğazı'nda seyrüsefer güvenliğini sağlamak için uluslararası koalisyon kurma çalışmalarını başlatacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-25T09:01:16.183993+00:00",
-  "type": "news",
-  "cluster_id": "ca8d4985714de"
- },
- {
-  "title": "Küresel piyasalarda kritik hafta: Fed kararı ve teknoloji devlerinin bilançoları bekleniyor",
-  "link": "https://www.sozcu.com.tr/kuresel-piyasalarda-kritik-hafta-fed-karari-ve-teknoloji-devlerinin-bilancolari-bekleniyor-p339630",
-  "source": "Sözcü",
-  "summary_tr": "Küresel piyasalarda kritik hafta; Orta Doğu jeopolitik gerilimi, yükselen petrol fiyatları ve Fed kararı küresel piyasaları etkileyecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-25T09:01:16.183993+00:00",
-  "type": "news",
-  "cluster_id": "cbcf2a8f06121"
  }
 ]
