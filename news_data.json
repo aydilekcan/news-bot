@@ -1,5 +1,77 @@
 [
  {
+  "title": "Trump Avrupa'ya \"Ukrayna faturası\" çıkaracak",
+  "link": "https://www.dw.com/tr/trump-avrupa-ya-ukrayna-faturası-çıkaracak/a-78895286?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "ABD Başkanı Trump, Avrupa ülkelerinden geçmiş Ukrayna askerî yardımlarının bedelini talep edeceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-03T18:01:41.697323+00:00",
+  "type": "news",
+  "cluster_id": "c12e0bbc0807d"
+ },
+ {
+  "title": "ABD'nin, İran'a karşı asker konuşlandırma süresini sessizce uzattığı ileri sürüldü",
+  "link": "https://www.trthaber.com/haber/dunya/abdnin-irana-karsi-asker-konuslandirma-suresini-sessizce-uzattigi-ileri-suruldu-955818.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Savunma Bakanı Hegseth, İran'a karşı konuşlandırılan ABD askerlerinin görev süresini sessizce uzattığı iddia edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-03T18:01:41.697323+00:00",
+  "type": "news",
+  "cluster_id": "c6e239cb5aa22"
+ },
+ {
+  "title": "İBB davasında iki sanığa tahliye: İmamoğlu tahliye talebinde bulunmadı",
+  "link": "https://www.bbc.com/turkce/articles/c93vk2el415o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "İBB davasında mahkeme iki sanığa tahliye kararı verdi; İmamoğlu tahliye talebinde bulunmadı ve tutuklu yargılanmaya devam edecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-03T18:01:41.697323+00:00",
+  "type": "news",
+  "cluster_id": "c476dc593d30a"
+ },
+ {
+  "title": "Silivri: İBB davasında 2 tahliye",
+  "link": "https://www.dw.com/tr/silivri-ibb-davasında-2-tahliye/a-78895596?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "İBB davasında mahkeme iki kişiye tahliye kararı verirken, savcı 53 kişinin tutukluluğunun devamını istedi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-03T18:01:41.697323+00:00",
+  "type": "news",
+  "cluster_id": "cabc8f74523a9"
+ },
+ {
+  "title": "Son dakika... İBB davasında tahliye kararı",
+  "link": "https://www.sozcu.com.tr/son-dakika-ibb-davasinda-tahliye-karari-p355169",
+  "source": "Sözcü",
+  "summary_tr": "İBB davasında Bakırköy Belediyesi Başkan Yardımcısı Ali Rıza Akyüz ve iş insanı Serkan Öztürk hakkında tahliye kararı verildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-03T18:01:41.697323+00:00",
+  "type": "news",
+  "cluster_id": "cabc8f74523a9"
+ },
+ {
+  "title": "İBB davasında iki tahliye kararı: İmamoğlu dahil 51 kişinin tutukluluğu sürecek",
+  "link": "https://www.diken.com.tr/ibb-davasinda-iki-tahliye-karari-imamoglu-dahil-51-kisinin-tutuklulugu-surecek/?utm_source=rss&utm_medium=rss&utm_campaign=ibb-davasinda-iki-tahliye-karari-imamoglu-dahil-51-kisinin-tutuklulugu-surecek",
+  "source": "Diken",
+  "summary_tr": "İBB davasında iki sanığa tahliye kararı verildi; İmamoğlu dahil 51 kişinin tutukluluğu devam edecek.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-03T18:01:41.697323+00:00",
+  "type": "news",
+  "cluster_id": "c8ae998e83567"
+ },
+ {
   "title": "Karadeniz’de tansiyon yükseldi: Rusya 2 gemiyi vurdu",
   "link": "https://www.sozcu.com.tr/karadeniz-de-tansiyon-yukseldi-rusya-2-gemiyi-vurdu-p355162",
   "source": "Sözcü",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-25T09:01:16.183993+00:00",
   "type": "news",
   "cluster_id": "c2cc80282c405"
- },
- {
-  "title": "Petrol yeniden 100 dolara tırmandı, motorine büyük zam geldi",
-  "link": "https://www.dw.com/tr/petrol-yeniden-100-dolara-tırmandı-motorine-büyük-zam-geldi/a-78098415?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Petrol fiyatı 100 doları aştı, Türkiye'de motorine büyük zam bekleniyor. Hürmüz ve Kızıldeniz'deki saldırılar petrol piyasalarını olumsuz etkiledi.",
-  "metric": "Petrol fiyatı 100 $/varil seviyesine ulaştı",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-25T08:01:10.158746+00:00",
-  "type": "news",
-  "cluster_id": "c9fd4193d8406"
- },
- {
-  "title": "Deutsche Bank, Türkiye için enflasyon tahmini yükseltti",
-  "link": "https://www.diken.com.tr/deutsche-bank-turkiye-icin-enflasyon-tahmini-yukseltti/?utm_source=rss&utm_medium=rss&utm_campaign=deutsche-bank-turkiye-icin-enflasyon-tahmini-yukseltti",
-  "source": "Diken",
-  "summary_tr": "Deutsche Bank, Türkiye'nin enflasyon tahminini yükseltti. Bankacılık sektörünün büyük oyuncularından gelen güncellenmiş tahmin görünümü değiştiğini gösteriyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-25T08:01:10.158746+00:00",
-  "type": "news",
-  "cluster_id": "c35c12ce3af4e"
- },
- {
-  "title": "Yurttaşlardan mazot zammına tepki: 'Arabaya binemez olduk, ekmek bulamaz olduk'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/yurttaslardan-mazot-zammina-tepki-arabaya-binemez-olduk-ekmek-bulamaz-olduk-2523706",
-  "source": "Cumhuriyet",
-  "summary_tr": "Diesel fiyatında 4 lira 20 kuruş zam yapıldı. Özkakındığı tepki gösteren vatandaşlar ulaşım ve beslenme maliyetlerinin arttığını belirtti.",
-  "metric": "Diesel zamı 4,20 TL",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-25T08:01:10.158746+00:00",
-  "type": "news",
-  "cluster_id": "c107f7961c29b"
- },
- {
-  "title": "7 günlük direniş sonuç verdi! Madenciler haklarını söke söke aldı",
-  "link": "https://www.sozcu.com.tr/7-gunluk-direnis-sonuc-verdi-madenciler-haklarini-soke-soke-aldi-p339610",
-  "source": "Sözcü",
-  "summary_tr": "Eti Gümüş Madencilik'te işçiler 7 günlük direniş sonucu maaş ve kıdem tazminatlarını almayı başardı. Madenciler haklarını elde etti.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-25T08:01:10.158746+00:00",
-  "type": "news",
-  "cluster_id": "c18937fcf5b8b"
- },
- {
-  "title": "Türkiye'nin mobilya devi satıldı",
-  "link": "https://www.sozcu.com.tr/turkiye-nin-mobilya-devi-satildi-p339601",
-  "source": "Sözcü",
-  "summary_tr": "Vivense, Türkiye'nin önde gelen mobilya markalarından biri olan şirketi satışı tamamlandı. Rekabet Kurumu onayı alındı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-25T08:01:10.158746+00:00",
-  "type": "news",
-  "cluster_id": "cdf87281f0e6d"
- },
- {
-  "title": "TCMB, Vezne24 Tahsilat Sistemleri ve Ödeme Hizmetleri AŞ'nin faaliyet iznini iptal etti",
-  "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-vezne24-tahsilat-sistemleri-ve-odeme-hizmetleri-asnin-faaliyet-iznini-iptal-etti/4008843",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "TCMB, Vezne24 Tahsilat Sistemleri ve Ödeme Hizmetleri AŞ'nin faaliyet iznini iptal etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-25T07:00:58.306952+00:00",
-  "type": "news",
-  "cluster_id": "c906ff03658c8"
  }
 ]
