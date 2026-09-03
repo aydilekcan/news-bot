@@ -1,5 +1,17 @@
 [
  {
+  "title": "Broadcom raises AI chip forecast as Big Tech keeps writing bigger checks",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMHVNSmdqeHMyQ25WbzBIbEllY05mcWZaNG9DcGFPR216TGZlcURDU0k3U3VhRTJROS1VMnFEZVp0cG1vN1h2MkxJdDFCdlpfZ1pJcWs0QVhSNTUxMmxTR1FkZlJSNUduMTRqMV9faHJuemt3eWRUNW1oamNYWVRILVoyeGtPODg1VUNsSWk2aVlWNU4zQmpwRExHbUkxUQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Broadcom, Yapay Zeka çip talebinin artmasıyla 2025 tahmini AI gelirini yükseltti. Teknoloji şirketlerinin AI yatırımları büyümeye devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-03T00:01:03.920944+00:00",
+  "type": "news",
+  "cluster_id": "c4d38f15a79b0"
+ },
+ {
   "title": "Motorine dev zam geliyor: Cepleri fena yakacak",
   "link": "https://www.sozcu.com.tr/motorine-dev-zam-geliyor-cepleri-fena-yakacak-p354917",
   "source": "Sözcü",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-24T11:01:40.464338+00:00",
   "type": "news",
   "cluster_id": "c9d9deb377fc6"
- },
- {
-  "title": "YENİ Parti kurulurken Kılıçdaroğlu'ndan dikkat çeken paylaşım: İmamoğlu ile özdeşleşen o hareketi kullandı!",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/yeni-parti-kurulurken-kilicdaroglu-ndan-dikkat-ceken-paylasim-imamoglu-ile-ozdeslesen-o-hareketi-kullandi-2523512",
-  "source": "Cumhuriyet",
-  "summary_tr": "Kemal Kılıçdaroğlu, YENİ Parti'nin kurulduğu sırada sosyal medyada dikkat çeken bir paylaşım yaptı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-24T11:01:40.464338+00:00",
-  "type": "news",
-  "cluster_id": "c7c54c4c9c900"
  }
 ]
