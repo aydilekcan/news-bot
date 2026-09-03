@@ -129,9 +129,9 @@
   },
   "tr_tufe_yillik": {
    "value": "%31,51",
-   "period": "Ağustos 2026",
-   "ts": "2026-09-03T10:01:35.382248+00:00",
-   "indicator_tr": "TUFE (yıllık)"
+   "period": "Ağustos 2025",
+   "ts": "2026-09-03T11:01:36.259095+00:00",
+   "indicator_tr": "TUFE (yılllık)"
   },
   "tr_ihracat_birim_deger_endeksi": {
    "value": "%12,6",
@@ -662,9 +662,9 @@
    "indicator_tr": "Kira artis orani"
   },
   "tr_ihracat_aylik_degisim": {
-   "value": "%2,9",
-   "period": "Temmuz",
-   "ts": "2026-08-28T11:01:37.377394+00:00",
+   "value": "%8,1",
+   "period": "",
+   "ts": "2026-09-03T11:01:36.259095+00:00",
    "indicator_tr": "İhracat (aylık değişim)"
   },
   "tr_issizlik_genis_tanimli": {
@@ -858,6 +858,12 @@
    "period": "7 ay (2026)",
    "ts": "2026-09-03T09:02:21.155891+00:00",
    "indicator_tr": "Kayseri ihracati (7 ay)"
+  },
+  "tr_ithalat_aylik_degisim": {
+   "value": "%10,5",
+   "period": "",
+   "ts": "2026-09-03T11:01:36.259095+00:00",
+   "indicator_tr": "İthalat (aylık değişim)"
   }
  },
  "seen_links": {
@@ -1143,6 +1149,10 @@
   "68be798e78d08359550e0aaf5dcd87ab": "2026-09-03T10:01:09.682401+00:00",
   "e975a11a552bd563d579ad8874f3fa75": "2026-09-03T10:01:09.682401+00:00",
   "63e2d1048a375d5f437b1686ba14f6b6": "2026-09-03T10:01:09.682401+00:00",
-  "f1c2ca0148859f61d3e6a92cfe824881": "2026-09-03T10:01:09.682401+00:00"
+  "f1c2ca0148859f61d3e6a92cfe824881": "2026-09-03T10:01:09.682401+00:00",
+  "2da10439b66da93aab057c3319ece21f": "2026-09-03T11:01:11.557006+00:00",
+  "a56eb86ed659528536b6c9703cbee4ad": "2026-09-03T11:01:11.557006+00:00",
+  "5b8cf73091c5cf22906591af2916baa9": "2026-09-03T11:01:11.557006+00:00",
+  "8d3cfdd8dd283b95f0fe6ca09d9ad1c6": "2026-09-03T11:01:11.557006+00:00"
  }
 }
