@@ -1,5 +1,77 @@
 [
  {
+  "title": "US to seek back payment from Europe for Ukraine aid, Trump says",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVJMTlRnNjZsN3VYWVl3N2NQYl9EMjBhcHR6Qzl0WDk4QTBSRnFPZFFBWnFMOW0zRE9uX1BJVmhGbnlPLUZkRG5UOXZ1LWhOdXctWFFGbmF2ZVVMcEZ4SVVtYnoweU0wa3lNMWI2Sm1iME9YcnpOYVlvSmh3OUUzYUZDUUpHN0NFVWNrNXVRVkNiS0E1amRfeXI0SXoxTEw3eWtTTXM2ZTJqMVdnaXVHelNtRQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, ABD'nin Ukrayna yardımı için Avrupa'dan geri ödeme talep edeceğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-03T19:01:06.671839+00:00",
+  "type": "news",
+  "cluster_id": "cde01ed5c02eb"
+ },
+ {
+  "title": "Strong demand boosts US services sector activity in August",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLTZ6MzlYdWNYakN3c1VsLW5OUjFQYlJFWC1xYTFIU0dfSjQwVG5zRHZlcE9aWU9DaGY0QTkxQkMyY2U5c1VzN2VQZTRtekNocFhCbHVGNGdMVWVmLWVuZDNUWENoN1FQOEw2elFaajRuajZNdGhpVTl1c1RXZ29lNmFoVjd2amw3MF9YU1RPX0lyMkxBbDVYbnVsdkRZRktFcGc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ağustos'ta güçlü talep, ABD hizmetler sektörü aktivitesini artırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-03T19:01:06.671839+00:00",
+  "type": "news",
+  "cluster_id": "cc6b558cca52e"
+ },
+ {
+  "title": "Son dakika...Doruk Maden işçilerine alacaklarının yüzde 80’i verildi",
+  "link": "https://www.sozcu.com.tr/son-dakika-doruk-maden-iscilerine-alacaklarinin-yuzde-80-i-verildi-p355182",
+  "source": "Sözcü",
+  "summary_tr": "Doruk Maden işçilerine alacaklarının %80'i ödendi, kalan %20 10 gün içinde verilecek.",
+  "metric": "Alacak ödeme %80 -> (kalan %20)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-03T19:01:06.671839+00:00",
+  "type": "news",
+  "cluster_id": "ce076a36e52e4"
+ },
+ {
+  "title": "US pressure on Iran starting to tell, as sanctions and blockade bite",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSFdWSEQ0NWhzbDhXcnU0Qkg3M2tkUTFVd3FORVkycWhEWWN4M0ZvM3gzaHRUb1c5dkw0Vm1iZXNfM1FiVUFFLURwUUhGektkY01rd0VYT1N2dXJTTks4OEhKN09lRExxZ1dCTDcwZ082XzRmMEMwNkpENlF1c1BnVFlBMmdmd1pRUC14cVZfMmpTdzVpTmpaVWtjdUszR1pxWExxX05Zb0hxSDQy?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD'nin İran'a yönelik yaptırımları ve ablokajı etkin olmaya başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-03T19:01:06.671839+00:00",
+  "type": "news",
+  "cluster_id": "c84a4dba3aa7a"
+ },
+ {
+  "title": "Oil prices rise on Middle East escalation",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUpNcGxHMWt3cDdxdFVCZUNrdTBGRlZSUEpJOEg1ZENWVkRPN2lWbTZxMUU3WG56bkZScmlMM3hpOWtzOEtFcWJUaXNqUklwZU9KVlFxd2FxUEtVV2pwYnh3cXo2Y3dhZkJNUDBoSHcxN1dRM3ZCU25QdG02N1JCOHk2SjFzN2Z3UnhKc3hWbDNnWWFp?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Orta Doğu geriliminin artması nedeniyle petrol fiyatları yükseldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-03T19:01:06.671839+00:00",
+  "type": "news",
+  "cluster_id": "cbb25fdc6c862"
+ },
+ {
+  "title": "İhracat artış oranı: %8,1",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVVZUaDhFQjFMZElZREh4aGpzcE51LXotaWxOdGtPMWZ4Z2J1ZjgzRlU1aC1aQkppUlRrd1hqS1g0MFBFeGdGcm91dmF1RFUzeW1pNEZUVFNXV3haRjctR3EtdS15MWdldmFTQml2alhwQjRST0ZpZHh1Skl3VmFGY1lSbnYtNGE4M3hNVy1fXzJ5S0tQSmJsNDRGZ2tMVXpuTUJ2Rnl4bl9DT1M4RDBTdE14QWlVb0k?oc=5",
+  "source": "Ticaret Bakanlığı",
+  "summary_tr": "%8,1",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-09-03T19:01:06.671839+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Trump Avrupa'ya \"Ukrayna faturası\" çıkaracak",
   "link": "https://www.dw.com/tr/trump-avrupa-ya-ukrayna-faturası-çıkaracak/a-78895286?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-25T09:01:16.183993+00:00",
   "type": "news",
   "cluster_id": "ca945655fa5be"
- },
- {
-  "title": "Altın 6 bin TL’yi, çeyrek 10 bin TL'yi aştı! İşte haftanın kazandıran ve kaybettiren yatırım araçları özeti: Altın ve dolar yükseldi, Borsa İstanbul haftayı nasıl kapattı?",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/altin-6-bin-tl-yi-ceyrek-10-bin-tl-yi-asti-iste-haftanin-kazandiran-ve-kaybettiren-yatirim-araclari-ozeti-altin-ve-dolar-yukseldi-borsa-istanbul-haftayi-nasil-kapatti-2523710",
-  "source": "Cumhuriyet",
-  "summary_tr": "Altın 6.000 TL'yi, çeyrek altın 10.000 TL'yi aştı. BIST 100 haftayı düşüşle tamamlarken altın ve dolar yükseldi.",
-  "metric": "Altın >6.000 TL, çeyrek >10.000 TL",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-25T09:01:16.183993+00:00",
-  "type": "news",
-  "cluster_id": "c0bcdf4938204"
- },
- {
-  "title": "İnternetten alışverişte tüm kurallar değişiyor! 1 Ağustos'ta başlıyor",
-  "link": "https://www.sozcu.com.tr/internetten-alisveriste-tum-kurallar-degisiyor-1-agustos-ta-basliyor-p339631",
-  "source": "Sözcü",
-  "summary_tr": "E-ticaret ve dijital pazarlamada şeffaflığı artıran yeni Ticari Reklam Yönetmeliği 1 Ağustos'ta yürürlüğe giriyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-25T09:01:16.183993+00:00",
-  "type": "news",
-  "cluster_id": "cce12efce2c86"
- },
- {
-  "title": "Özgür Özel'den ilk ziyaret: Yeni Parti Anıtkabir'de Ata'nın huzurunda",
-  "link": "https://www.sozcu.com.tr/ozgur-ozel-den-ilk-ziyaret-yeni-parti-anitkabir-de-ata-nin-huzurunda-p339628",
-  "source": "Sözcü",
-  "summary_tr": "YENİ Parti Genel Başkanı Özgür Özel kurucular kurulu üyeleriyle Anıtkabir'e ziyaret gerçekleştirdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-25T09:01:16.183993+00:00",
-  "type": "news",
-  "cluster_id": "c19e999e74ac7"
- },
- {
-  "title": "e-Ticaret sektöründe yeni uygulamalar 1 Ağustos'ta devreye giriyor",
-  "link": "https://www.aa.com.tr/tr/ekonomi/e-ticaret-sektorunde-yeni-uygulamalar-1-agustosta-devreye-giriyor/4008894",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "E-ticaret sektöründe yapay zekâyla oluşturulan aldatıcı reklamlar da dahil olmak üzere tüketicileri korumaya yönelik yeni uygulamalar 1 Ağustos'ta başlıyor.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-25T09:01:16.183993+00:00",
-  "type": "news",
-  "cluster_id": "c47f8698aaa45"
- },
- {
-  "title": "AB'de elektrikli otomobil satışları 1 yılda yüzde 40'tan fazla arttı",
-  "link": "https://www.trthaber.com/haber/dunya/abde-elektrikli-otomobil-satislari-1-yilda-yuzde-40tan-fazla-artti-952172.html",
-  "source": "TRT Haber",
-  "summary_tr": "AB ülkelerinde ocak-haziran 2026'de elektrikli otomobil satışları geçen yılın aynı dönemine göre %40,5 arttı.",
-  "metric": "EV satışları yüzde +40,5",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-25T09:01:16.183993+00:00",
-  "type": "news",
-  "cluster_id": "c57833e38f5e4"
- },
- {
-  "title": "Kuwait's KPC signs $16 billion lease and leaseback deal for oil pipeline network",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ0JQQTg4MlNFY2RMbUw2Y1F6ZDdiLVBZNDUwbDBVYU0yZDVfVEVPSjM1NWVSdFM0SkRRdURmY2RvMXRJbXlJSDJwZXA3TGw1UllzRGFyU0lJLWZFOW9mbG5RcmdzNlAzeEJJT18xcUdRdWV3dUtzTi1Xc0sxX2ROZzhCcXpkdGxnek5QZXNzeVJ1azhQbFRVZloyQzFZZmVoQ2ZiRGdiRnJtaEZmZVVIaGhpZ283UXFnX3Y3MkpLOUx3RjFLSENSSXozUXE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Kuveyt Petrol Şirketi (KPC) petrol boru hattı ağı için 16 milyar dolarlık kiralama anlaşması imzaladı.",
-  "metric": "KPC $16 milyar kiralama anlaşması",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-25T09:01:16.183993+00:00",
-  "type": "news",
-  "cluster_id": "c2cc80282c405"
  }
 ]
