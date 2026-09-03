@@ -1,5 +1,53 @@
 [
  {
+  "title": "İsrail ordusu Lübnan'ın güneyine hava ve topçu saldırılarını sürdürüyor",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-lubnanin-guneyine-hava-ve-topcu-saldirilarini-surduruyor/4046942",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusu ateşkese rağmen Lübnan güneyine hava, topçu saldırıları ve karadan sızma girişimlerini yoğunlaştırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-03T23:01:03.891118+00:00",
+  "type": "news",
+  "cluster_id": "cfcbebfcbea30"
+ },
+ {
+  "title": "Volkswagen Denetleme Kurulu, 50 bin kişiyi daha işten çıkarma planını onayladı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/volkswagen-denetleme-kurulu-50-bin-kisiyi-daha-isten-cikarma-planini-onayladi/4046939",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Volkswagen Denetleme Kurulu, maliyet düşürmek için ek 50 bin kişinin işten çıkarılmasını onayladı.",
+  "metric": "50.000 iş kaybı",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-03T23:01:03.891118+00:00",
+  "type": "news",
+  "cluster_id": "c63db72a2a7f2"
+ },
+ {
+  "title": "US diesel prices hit record high as conflicts intensify supply crunch",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZHF2Z29UenJROHZ5YlJpTFBHM1pmWmdNaWROSnhyNlhDVVZmVGVXTkRaT1k4N1NBY1B1YUhDbmE2SGQ2TllTNExHWk9JT1JCWHRKQnVpZEx5SVVNZHdhc2tsbEEtWG01Ty1QUXpMSWdWR3NuQTVQaWNhLUViMXkzRl9WNk81bDdiVk5tb1hPeVBMczFGaWVmaTNzWEdYZ29P?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD'de dizel fiyatları çatışmaların arttığı arz sıkıntısı nedeniyle rekor seviyeye ulaştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-03T23:01:03.891118+00:00",
+  "type": "news",
+  "cluster_id": "cf6644b96fb75"
+ },
+ {
+  "title": "Vance says Iran conflict is not a war, declines to offer timeline for end",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWVqMkRjNklKdUhYTF9BTE5GN1ctUG5zaGI0cVdEcW9ReEhYMmxJREpHX1o5RE5mS1VZMHAwTlBTTmZhWURSV3dMUkY1YjhBMjZEN2hvZWhYc1hiaTk1MFRacnpEVDVYWnRuTEVrVW8yZnRnTVUxcTV0UEd5NXRRVDlzTmM0NFA5b3o3Q3JPMFhHMGFJb3JVN05DTVZSbUZlNHlNVFdMTmhmajRfR25zZ05LblhOZjg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "VP Vance İran çatışmasının savaş olmadığını söyledi ve bitiş tarihi sunmadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-03T23:01:03.891118+00:00",
+  "type": "news",
+  "cluster_id": "cdb5b1d62530d"
+ },
+ {
   "title": "Başkan vekili seçimi öncesi Üsküdar Belediye Meclisi'nden CHP'li 4 üye AKP'ye geçti",
   "link": "https://www.bbc.com/turkce/articles/cz7dn28e0y4o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-25T11:01:04.852025+00:00",
   "type": "news",
   "cluster_id": "c452435b47440"
- },
- {
-  "title": "Kılıçdaroğlu'nun 'YENİ Parti' sevinci: 'Çok şükür arınma gerçekleşti'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/kilicdaroglu-zorunlu-olmadikca-tartismalara-girmememiz-lazim-2523732",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Genel Başkanı Kılıçdaroğlu, Özgür Özel'in 90 milletvekiliyle YENİ Parti'yi kurmasının ardından 'çok şükür arınma gerçekleşti' diyerek sevincini ifade etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-25T11:01:04.852025+00:00",
-  "type": "news",
-  "cluster_id": "c6390987719c3"
- },
- {
-  "title": "ABD'de imalat sanayi beklentilerin altında kaldı: Hizmet sektörü güçlendi",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/abd-de-imalat-sanayi-pmi-temmuzda-beklentilerin-altinda-kalirken-hizmet-sektoru-guclendi-2523701",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD imalat sanayi PMI dört aylık düşüğe geriledi; hizmet sektörü PMI sekiz aylık yükseğe çıktı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-25T10:01:44.535233+00:00",
-  "type": "news",
-  "cluster_id": "c2148f6371e87"
- },
- {
-  "title": "TKYB 2026'nın ilk yarısında 5 milyar liranın üzerinde kar elde etti",
-  "link": "https://www.aa.com.tr/tr/ekonomi/tkyb-2026nin-ilk-yarisinda-5-milyar-liranin-uzerinde-kar-elde-etti/4008986",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye Kalkınma ve Yatırım Bankası 2026 ilk yarısında 5 milyar liranın üzerinde kar elde etti.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-25T10:01:44.535233+00:00",
-  "type": "news",
-  "cluster_id": "c29db222185c3"
- },
- {
-  "title": "İhracat miktarı değişim oranı: -20,8%",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeXc3ZTYwQWNjZFhWc01zTUdiMFREUWJ0aDlJTFVqZDVJc09vRGgxV2g4Vk5UQkUwbUZiYU5NQWlCdDd0QWVQVmFEMVF2NEtBUXJyNFZUcmVsQUVIMlhCXzFoVDFsaVdVVGh3bFZWUlVRSlo1VGNfYzk2dTNDNUg1VzlkSk5GMlpGWHlHSEl3?oc=5",
-  "source": "TUIK",
-  "summary_tr": "-20,8%",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-07-25T10:01:44.535233+00:00",
-  "type": "data",
-  "cluster_id": ""
  }
 ]
