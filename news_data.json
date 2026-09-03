@@ -1,5 +1,77 @@
 [
  {
+  "title": "TÜİK'e göre ağustosta yıllık enflasyon %31,51 oldu: Ekonomistler nasıl yorumladı?",
+  "link": "https://www.bbc.com/turkce/articles/cn9wv9v881xo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "TÜİK ağustos enflasyon verisini açıkladı: aylık %1,84, yıllık %31,51. Ekonomistler tarafından yorumlandı.",
+  "metric": "Yıllık enflasyon (TÜİK) %31,51",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-09-03T10:01:09.682401+00:00",
+  "type": "news",
+  "cluster_id": "cb6cc09e95618"
+ },
+ {
+  "title": "Ne akaryakıt ne eğitim: İşte ağustosun zam şampiyonu",
+  "link": "https://www.sozcu.com.tr/ne-akaryakit-ne-egitim-iste-agustosun-zam-sampiyonu-p355050",
+  "source": "Sözcü",
+  "summary_tr": "Ağustos ayında en yüksek fiyat artışı %56,26 ile yurt dışı hava yolu yolcu taşımacılığında yaşandı.",
+  "metric": "Yurt dışı hava yolu yolcu taşımacılığı fiyat artışı %56,26",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-03T10:01:09.682401+00:00",
+  "type": "news",
+  "cluster_id": "cefb436d11f0c"
+ },
+ {
+  "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Önümüzdeki dönemde dezenflasyon sürecini kalıcı hale getirmeyi hedefliyoruz",
+  "link": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskani-yardimcisi-yilmaz-agustos-ayi-enflasyon-verilerini-degerlendirdi/4046164",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Cumhurbaşkanı Yardımcısı Yılmaz, önümüzdeki dönemde dezenflasyon sürecini kalıcı hale getirmeyi hedeflediğini açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-09-03T10:01:09.682401+00:00",
+  "type": "news",
+  "cluster_id": "cb176961def53"
+ },
+ {
+  "title": "Türkiye ekonomisinin büyüme serisinin lokomotifi bilgi ve iletişim oldu",
+  "link": "https://www.trthaber.com/haber/ekonomi/turkiye-ekonomisinin-buyume-serisinin-lokomotifi-bilgi-ve-iletisim-oldu-955779.html",
+  "source": "TRT Haber",
+  "summary_tr": "Bilgi ve iletişim faaliyetleri son 24 çeyrektir Türkiye ekonomisinin büyüme serisinin lokomotifi oldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-03T10:01:09.682401+00:00",
+  "type": "news",
+  "cluster_id": "c0b85d33f0968"
+ },
+ {
+  "title": "SPK'dan yabancılara, yakın alan iletişimi özelliği olan pasaportla müşteri olabilme imkanı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/spkdan-yabancilara-yakin-alan-iletisimi-ozelligi-olan-pasaportla-musteri-olabilme-imkani/4046126",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "SPK, yakın alan iletişimi özelliği olan pasaportla yabancılara aracı kurumlara müşteri olma imkanı verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-03T10:01:09.682401+00:00",
+  "type": "news",
+  "cluster_id": "cc8eecf18db82"
+ },
+ {
+  "title": "TUFE (yıllık): %31,51 (Ağustos 2026)",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcW5rUkhjMURlYUNyNDc0S2pqVHN4TXRWdlVVRlp1V3hNV2NkMkVOdFZRVWtuU0pta0pUSEV4WGVING15a2pUNVlrMGFCSDA4NjdVM0JZLXFIUkl1MXpHek1VWHZVUWRsNmZpa3ZXR3JDV0VaR3ZZakQxZEM4Vm91TC1NdThPemYyVTcxUWFZZkotVHFhLWllQmJzNzZhR3lVV1ZGb3BJajhSYl9ZZno2a1JrckY?oc=5",
+  "source": "TÜİK",
+  "summary_tr": "%31,51 → %31,51",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-09-03T10:01:09.682401+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "TÜİK rakamları ortaya koydu: Enerji fiyatları üreticiyi vurdu!",
   "link": "https://www.sozcu.com.tr/tuik-rakamlari-ortaya-koydu-enerji-fiyatlari-ureticiyi-vurdu-p355036",
   "source": "Sözcü",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-24T17:01:04.848053+00:00",
   "type": "news",
   "cluster_id": "c6d303d668df5"
- },
- {
-  "title": "Eyüpsultan Belediye Başkan Yardımcısı Hasan Karabulut tutuklandı",
-  "link": "https://www.sozcu.com.tr/eyupsultan-belediye-baskan-yardimcisi-hasan-karabulut-tutuklandi-p339494",
-  "source": "Sözcü",
-  "summary_tr": "Çankaya Belediyesi yolsuzluk soruşturmasında Eyüpsultan Belediye Başkan Yardımcısı Hasan Karabulut tutuklandı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-24T17:01:04.848053+00:00",
-  "type": "news",
-  "cluster_id": "c6d303d668df5"
- },
- {
-  "title": "Çankaya Belediyesi soruşturmasında Eyüpsultan Belediye Başkan Yardımcısı tutuklandı",
-  "link": "https://www.trthaber.com/haber/gundem/cankaya-belediyesi-sorusturmasinda-eyupsultan-belediye-baskan-yardimcisi-tutuklandi-952138.html",
-  "source": "TRT Haber",
-  "summary_tr": "Çankaya Belediyesi yolsuzluk soruşturmasında Eyüpsultan Belediye Başkan Yardımcısı Hasan Karabulut tutuklandı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-24T17:01:04.848053+00:00",
-  "type": "news",
-  "cluster_id": "c6d303d668df5"
- },
- {
-  "title": "Dilek İmamoğlu Cumhuriyet’e konuştu: '24 Temmuz Yeni Parti'ye uğur getirsin'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/dilek-imamoglu-cumhuriyet-e-konustu-24-temmuz-yeni-parti-ye-ugur-getirsin-2523610",
-  "source": "Cumhuriyet",
-  "summary_tr": "Lozan Barış Antlaşması etkinliğine katılan Dilek İmamoğlu, 24 Temmuz'da kurulan Yeni Parti'ye destek mesajı verdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-24T17:01:04.848053+00:00",
-  "type": "news",
-  "cluster_id": "c55e2688cca78"
- },
- {
-  "title": "Pedro Sánchez'den, Özgür Özel'e 'YENİ Parti' mektubu: 'Bu cesur kararınız bizlere umut veriyor'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/pedro-sanchez-den-ozgur-ozel-e-yeni-parti-mektubu-bu-cesur-karariniz-bizlere-umut-veriyor-2523608",
-  "source": "Cumhuriyet",
-  "summary_tr": "İspanya Başbakanı Pedro Sánchez, CHP'den ayrılıp Yeni Parti'yi kuran Özgür Özel'e cesaretini kutladığı bir mektup gönderdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-24T17:01:04.848053+00:00",
-  "type": "news",
-  "cluster_id": "c7c899e1b4804"
- },
- {
-  "title": "İzmir'de iki belediye başkanı Yeni Parti'ye katılma kararı aldı",
-  "link": "https://www.sozcu.com.tr/selcuk-belediyesi-ve-urla-belediyesi-yeni-parti-karari-p339492",
-  "source": "Sözcü",
-  "summary_tr": "İzmir'de Selçuk Belediye Başkanı Filiz Ceritoğlu Sengel ve Urla Belediye Başkanı Selçuk Balkan CHP'den istifa ederek Yeni Parti'sine katıldı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-24T17:01:04.848053+00:00",
-  "type": "news",
-  "cluster_id": "c5ea28b01b9b9"
- },
- {
-  "title": "Dünya Alem (53): Özgür Özel YENİ Parti'yi kurdu | Logosu ne anlatıyor? | Türkiye siyasetini nasıl değiştirecek?",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUhzblRfRG9kX2E1OEtacUdmTG9kLUptQzJtZ3RoM01ZQVVFbGFKMktMR0ozQldsZjV0WEh0bmdLcllKSmx4MF9EaElQdFpRZGlhYnVDNjNTZ1p4VWt5T2tXWUV4WnRzSm5KSWpFSHdDZlp4LWxFclpkczNPNEs4dWFyLWFFNzNmQndKaVNoRzRuZms?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Özgür Özel tarafından kurulan Yeni Parti'nin logosu ve Türkiye siyasetine etkileri analiz edildi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-24T17:01:04.848053+00:00",
-  "type": "news",
-  "cluster_id": "c39e5e29a076a"
  }
 ]
