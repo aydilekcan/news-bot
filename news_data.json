@@ -1,5 +1,77 @@
 [
  {
+  "title": "Zelenski duyurdu: Rusya, Ukrayna Güvenlik Servisi'nin merkez binasını vurdu",
+  "link": "https://www.cumhuriyet.com.tr/dunya/zelenski-duyurdu-rusya-ukrayna-guvenlik-servisi-nin-merkez-binasini-vurdu-2534950",
+  "source": "Cumhuriyet",
+  "summary_tr": "Zelenski, Rusya'nın insansız hava aracı saldırısıyla Ukrayna Güvenlik Servisi merkez binasını vurduğunu duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-04T17:01:09.720359+00:00",
+  "type": "news",
+  "cluster_id": "c1194107127f7"
+ },
+ {
+  "title": "Zelenskiy: Rusya, Ukrayna Güvenlik Servisi'nin merkez binasını vurdu",
+  "link": "https://www.trthaber.com/haber/dunya/zelenskiy-rusya-ukrayna-guvenlik-servisinin-merkez-binasini-vurdu-955913.html",
+  "source": "TRT Haber",
+  "summary_tr": "Zelenski, Rusya'nın Ukrayna Güvenlik Servisi (SBU) merkez binasını vurduğunu bildirdi ve misilleme yapacağını belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-04T17:01:09.720359+00:00",
+  "type": "news",
+  "cluster_id": "c1194107127f7"
+ },
+ {
+  "title": "Fed rate hike back in focus after strong jobs report",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOF9yZEh3LUNwbXhOOE05b01rVHlLVld4OXkwYXdOczZxZF9DUTUxVU9Ta3pCTGRla0RfMXZTR1phZEx6aVU0VmRWcGVZZzlsd3dhZF9yYjc0UHFfaUZMNEoxaElSSE1YSzY5aEExTEMzNV9oOVpSSEc1SXlsZ0R5UkF4cFFMTWVxQi1SYk43cDlhU204aklNNzhB?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Fed'in faiz artırımı, güçlü işgücü raporu sonrasında yeniden gündem maddesi haline geldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-04T17:01:09.720359+00:00",
+  "type": "news",
+  "cluster_id": "cbb5141857ab2"
+ },
+ {
+  "title": "Russian drone strikes Ukraine's security service HQ, escalating air war",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXBKVHktcVd4YllGVWp6Y1RrY2t4Qk1Zak9xd00zMnpKU3ZNVFg3SUdOWnRsU3RSUFhzUUtnTlZUcTA1N0pVSzhBM3hkU3lGSF8yT0pSaFhlaW1yeDlzLUpVa3oySUZ6X2luZU5YYk5ydHRXOW1QQ0dsWDk1aW11SnJzSDJuUkpvbzF1U1p1Mmlvd1R3dmdsTA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya, Ukrayna'nın Kyiv'deki Güvenlik Servisi karargahına insansız hava aracı saldırısı düzenleyerek hava savaşını yoğunlaştırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-04T17:01:09.720359+00:00",
+  "type": "news",
+  "cluster_id": "c605dfaf906a0"
+ },
+ {
+  "title": "US sanctions Turkish bank, two subsidiaries to pressure Iran",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSml5Y093OWVORkhPb29wMzl1QlYxcWtjWGYwUTNFSUh3bkNTU3NJZ0d3eG9UbUNxeXM4eGE3U2V5ejVqaThPemU1WDBoMndmY0NxOUhKamRhUExmMjBnMDY2RXQ1b2FBMFI4X1NOcjJZNDlaSDR1dGZSclJoM3FOOElibjhITXVjS1ZiVTBpeFNUVXZuaWlORUNENUw1YVJNcFRYUXNwRERJZTgxb1E?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, İran'a baskı uygulamak amacıyla Türk bankası ve iki yan kuruluşuna yaptırım uyguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-04T17:01:09.720359+00:00",
+  "type": "news",
+  "cluster_id": "cd8c565252a50"
+ },
+ {
+  "title": "US issues sanctions on Turkish bank that it calls a ‘critical financial lifeline’ for Iran",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPanB5cnFJYmZzM1AxbjlvTGZnanhyQzRiYWIzXzNPV1Y1NzhkRlUxZEIxMUdMVDZiX3l3U2N0dDNUZnRNeWF5UHM0SHhJNE55TmtyUDBOSHZWekxwdGZaVUJrWUM1QnpnY2R0TGlieVNhR3ZrTGV0Vi1KYk41bHVwSW4zRXRmcFNILVBXTzNQdm0?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD, İran'ın kritik finansal yaşam hattısı olarak nitelendirdiği Türk bankasına yaptırım koydu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-04T17:01:09.720359+00:00",
+  "type": "news",
+  "cluster_id": "c523766a16d05"
+ },
+ {
   "title": "Benzin ve motorine zam: Akaryakıt fiyatları neden arttı?",
   "link": "https://www.bbc.com/turkce/articles/cp80k4806xjo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-26T14:01:01.360502+00:00",
   "type": "news",
   "cluster_id": "c8a70b404dba7"
- },
- {
-  "title": "Romania shoots down third Russian drone, as president calls breaches 'intolerable'",
-  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ2FyQWFjNUx3VkRnVmh1S0pMM1BYaFdDRDNzQklwZ3BaLXpGc0pfTEJ0RVhOeFFCU0ZLbkpCSVExSHlIUUY0a0tiX0YwSXZoSDdkZ2VvT3lFVE9kZ2U5a1VvZkVKSksyMzR1d05KMkhxQlYzRnhGRzdnUHdoZndobkFobnA5M0JxM0M0LWxZOHhid1NMMDdHLVc4M0xnTDdJZ1VGVU5CV0pJYmgtUldkV0dwaEJ3UTNaOHc3Uk80X1lZRFNTSWFPNnhFNExFOG9yX1JXZlh3?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Romanya, Rus insansız hava aracını üçüncü kez düşürdü; cumhubaşkanı hava sahasının ihlalini 'tahamülsüz' olarak nitelendirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-26T14:01:01.360502+00:00",
-  "type": "news",
-  "cluster_id": "c175fc70566df"
- },
- {
-  "title": "DEM Parti Eş Genel Başkanı Tuncer Bakırhan'dan 'çerçeve yasa' açıklaması",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/dem-parti-es-genel-baskani-tuncer-bakirhan-dan-cerceve-yasa-aciklamasi-2523951",
-  "source": "Cumhuriyet",
-  "summary_tr": "DEM Parti Eş Genel Başkanı Tuncer Bakırhan, 'Terörsüz Türkiye süreci' kapsamında hazırlanan çerçeve yasanın bu hafta TBMM'ye gelmesini beklediklerini açıkladı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-26T13:01:41.651821+00:00",
-  "type": "news",
-  "cluster_id": "c7cf4bfa8f6fc"
- },
- {
-  "title": "Yargıtay, CHP'nin \"mutlak butlan\" kararını ön incelemeye aldı",
-  "link": "https://www.aa.com.tr/tr/gundem/yargitay-chpnin-mutlak-butlan-kararini-on-incelemeye-aldi/4009768",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Yargıtay, Ankara Bölge Adliye Mahkemesinin CHP kurultay davasında 'mutlak butlan' nedeniyle verdiği kararı ön incelemeye aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-26T13:01:41.651821+00:00",
-  "type": "news",
-  "cluster_id": "c8aa9570920e3"
- },
- {
-  "title": "Güzellik ekonomisi büyüyor: Türkiye kişisel bakım turizminde yeni bir çekim merkezi olabilir",
-  "link": "https://www.sozcu.com.tr/guzellik-ekonomisi-buyuyor-turkiye-kisisel-bakim-turizminde-yeni-bir-cekim-merkezi-olabilir-p339885",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye'de hızla büyüyen güzellik ve kişisel bakım sektörü, ekonomik büyümeye katkı sağlayıp kişisel bakım turizminde yeni bir çekim merkezi olabilir.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-26T13:01:41.651821+00:00",
-  "type": "news",
-  "cluster_id": "c095c57941bbf"
- },
- {
-  "title": "Gözler eylüle çevrildi: Mutlak butlan kararı Yargıtay'da 'ön inceleme' aşamasında",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/gozler-eylule-cevrildi-mutlak-butlan-karari-yargitay-da-on-inceleme-asamasinda-2523942",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'nin 38. Olağan Kurultayı hakkında Ankara Bölge Adliye Mahkemesi'nin verdiği mutlak butlan kararı Yargıtay'da ön inceleme aşamasında inceleniyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-26T12:00:59.102533+00:00",
-  "type": "news",
-  "cluster_id": "c5a3ad17e9925"
- },
- {
-  "title": "Türkiye'nin Suriye'ye ihracatı yüzde 26,4 arttı",
-  "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-suriyeye-ihracati-yuzde-264-artti-952237.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye'nin Suriye'ye ihracatı ocak-haziran 2026'da bir önceki yılın aynı dönemine göre yüzde 26,4 artmıştır.",
-  "metric": "Suriye ihracatı %26,4 artış",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-26T12:00:59.102533+00:00",
-  "type": "news",
-  "cluster_id": "cfc4c59d24b11"
  }
 ]
