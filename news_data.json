@@ -1,5 +1,29 @@
 [
  {
+  "title": "Strong job gains signal Fed hike as Trump levels new rate-cut demand",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOF9yZEh3LUNwbXhOOE05b01rVHlLVld4OXkwYXdOczZxZF9DUTUxVU9Ta3pCTGRla0RfMXZTR1phZEx6aVU0VmRWcGVZZzlsd3dhZF9yYjc0UHFfaUZMNEoxaElSSE1YSzY5aEExTEMzNV9oOVpSSEc1SXlsZ0R5UkF4cFFMTWVxQi1SYk43cDlhU204aklNNzhB?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD güçlü istihdam verisi Fed faiz artırımı sinyali veriyor; Trump yeni faiz indirimi talep ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-04T18:01:03.533059+00:00",
+  "type": "news",
+  "cluster_id": "c4366a00ad26a"
+ },
+ {
+  "title": "Türkiye’nin nüfus haritası baştan yazıldı: İstanbul tahtını kaybetti, zirveye hiç beklenmeyen bir il zirveye çıktı",
+  "link": "https://www.sozcu.com.tr/turkiye-nin-nufus-haritasi-bastan-yazildi-istanbul-tahtini-kaybetti-zirveye-hic-beklenmeyen-bir-il-p355451",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye'de nüfus yoğunluğu haritası değişti: İstanbul tahtını kaybetti, başka bir il zirveye çıktı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-04T18:01:03.533059+00:00",
+  "type": "news",
+  "cluster_id": "c30fa7ad9ee5d"
+ },
+ {
   "title": "Zelenski duyurdu: Rusya, Ukrayna Güvenlik Servisi'nin merkez binasını vurdu",
   "link": "https://www.cumhuriyet.com.tr/dunya/zelenski-duyurdu-rusya-ukrayna-guvenlik-servisi-nin-merkez-binasini-vurdu-2534950",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-26T14:01:01.360502+00:00",
   "type": "news",
   "cluster_id": "cfb31dd9598d1"
- },
- {
-  "title": "Hamaney'in bazı nedenlerle herhangi bir yer veya kişiyle iletişim kurmadığı öne sürüldü",
-  "link": "https://www.trthaber.com/haber/dunya/hamaneyin-bazi-nedenlerle-herhangi-bir-yer-veya-kisiyle-iletisim-kurmadigi-one-suruldu-952243.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran lideri Mücteba Hamaney'in 'bazı nedenlerden ötürü herhangi bir yer veya kişiyle iletişim kurmadığı' iddia edildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-26T14:01:01.360502+00:00",
-  "type": "news",
-  "cluster_id": "c759d073bfefa"
- },
- {
-  "title": "CHP kurultay davasında dosya Yargıtay'ın ön incelemesinde",
-  "link": "https://www.trthaber.com/haber/gundem/chp-kurultay-davasinda-dosya-yargitayin-on-incelemesinde-952242.html",
-  "source": "TRT Haber",
-  "summary_tr": "Yargıtay 3. Hukuk Dairesi, CHP kurultay davasını ön incelemesine aldı; 'mutlak butlan' nedeniyle dosya ilk derece kararını inceliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-26T14:01:01.360502+00:00",
-  "type": "news",
-  "cluster_id": "c8a70b404dba7"
  }
 ]
