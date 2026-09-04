@@ -1,5 +1,41 @@
 [
  {
+  "title": "US diesel prices hit a record high of $5.85 on average as the Iran war disrupts the flow of fuel",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa19jeV9pQzAycDV0MWpiLVkyS0x6T3NGVWRUS3Z5R3dUMUQxNElPZHNCM0hVQ21oSDdnRGIyZG1tYTcxOE9KTGZCb3piWlp1Y0o2WUMyVXFmcXVWZXQzQkVJN2VvZEJFYWVoVXdtYXlqdWlxSFBGdTNHSDlBMDdRa3NWdkpqUjRJdjhOZzJJSk8xMjg?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD'de dizel ortalama fiyatı rekor seviye olan $5.85'e çıktı; İran krizinin yakıt akışını kesintiye uğratması fiyatları yükseltmektedir.",
+  "metric": "US diesel price: $5.85 (record)",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-04T11:01:12.572733+00:00",
+  "type": "news",
+  "cluster_id": "c7eaa3aef25ea"
+ },
+ {
+  "title": "DASK'ta yeni dönem: Poliçe yeni mülk sahibine devredilmeyecek",
+  "link": "https://www.trthaber.com/haber/ekonomi/daskta-yeni-donem-police-yeni-mulk-sahibine-devredilmeyecek-955882.html",
+  "source": "TRT Haber",
+  "summary_tr": "DASK, Zorunlu Deprem Sigortası poliçesinin mülk satışında yeni sahibine devredilmesi uygulamasını 5 Eylül'den sonra sona erdirecek.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-09-04T11:01:12.572733+00:00",
+  "type": "news",
+  "cluster_id": "cdd2687fe0e57"
+ },
+ {
+  "title": "İstanbul'da kiralık sosyal konutların teslim tarihi belli oldu",
+  "link": "https://www.trthaber.com/haber/gundem/istanbulda-kiralik-sosyal-konutlarin-teslim-tarihi-belli-oldu-955885.html",
+  "source": "TRT Haber",
+  "summary_tr": "Bakan Kurum, 500 Bin Sosyal Konut Projesi kapsamında İstanbul'daki kiralık sosyal konutların teslim tarihini belirledi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-04T11:01:12.572733+00:00",
+  "type": "news",
+  "cluster_id": "c699c95bf8dd7"
+ },
+ {
   "title": "Volkswagen's surprise turnaround deal averts showdown as job cuts loom",
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSF9hVjYzeWVienlhSzZMNWVJc1JHeWlPVDBMeTBVSmdabWJQMVJyZERoLTlzdlRsc3ZaSldPakJlVWF3a0g1MURoVDNTR29JZmQ4MGtWeGhqcDVLY2Rwbk94X0hOT0VjWnB0VVlaU1phazRKWklUSmROdXVRQXExQW1KMzg5dU1EOEFPaVoyZzA5MTd5N1Q2cjhUdF84eDNkNDc2b3dxUGdfS2ZzUkxB?oc=5",
   "source": "Reuters",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-26T08:01:04.206110+00:00",
   "type": "news",
   "cluster_id": "c18a135702af1"
- },
- {
-  "title": "Berlin'deki Onur Yürüyüşü'nde araçlı saldırı: 1 ölü, 16 yaralı",
-  "link": "https://www.dw.com/tr/berlin-deki-onur-yürüyüşü-nde-araçlı-saldırı-1-ölü-16-yaralı/a-78117967?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Berlin'deki Onur Yürüyüşü'nde araçlı saldırı: 1 ölü, en az 16 yaralı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-26T07:01:06.143978+00:00",
-  "type": "news",
-  "cluster_id": "cffdf37e8be6a"
- },
- {
-  "title": "Rusya Ukrayna savaşı için nasıl yabancı asker topluyor?",
-  "link": "https://www.dw.com/tr/rusya-ukrayna-savaşı-için-nasıl-yabancı-asker-topluyor/a-78073965?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Rusya, Ukrayna savaşında yoksul ülkelerden yabancı asker topluyor; bazılarına yüksek maaş ve vatandaşlık vaat ediliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-26T07:01:06.143978+00:00",
-  "type": "news",
-  "cluster_id": "c552301f409e4"
- },
- {
-  "title": "TBMM gündemi: Öğrenci affı ve çocuklara hapis cezası",
-  "link": "https://www.diken.com.tr/tbmm-gundemi-ogrenci-affi-ve-cocuklara-hapis-cezasi/?utm_source=rss&utm_medium=rss&utm_campaign=tbmm-gundemi-ogrenci-affi-ve-cocuklara-hapis-cezasi",
-  "source": "Diken",
-  "summary_tr": "TBMM gündemi: Yükseköğretimde ilişiği kesilmişlere öğrenci affı ve çocuklara hapis cezası ile ilgili düzenleme.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-26T07:01:06.143978+00:00",
-  "type": "news",
-  "cluster_id": "c613c92b8e4a5"
  }
 ]
