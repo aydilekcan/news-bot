@@ -1,5 +1,41 @@
 [
  {
+  "title": "US nonfarm payrolls surge in August; unemployment rate steady at 4.1%",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUlhOGI2YkQzM0dqZll6Rm5VSDBReEZQMkZRODlvQkJBTGJfeDhVbjE1c2dXbEVBYmZieElLdEtLR1BZZlQ3NENYdUNSLUgyNnNCMHVJcEl3T2ZyUlVoYndDQ1pYOWhmRnlncUxZMUpjMTlvYTJET2kxMHpiSzN5WUJSMVc1VVkyVGxSRVVkQmRNQUJNVmRjX1lSdzdwbi1PUUhsRUthaUE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD ağustos ayında ücretli istihdam önemli ölçüde artış gösterdi; işsizlik oranı %4,1'de sabit kaldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-04T14:01:03.726308+00:00",
+  "type": "news",
+  "cluster_id": "c30fd1042b797"
+ },
+ {
+  "title": "Küresel gıda fiyatları Kasım 2022'den bu yana en yüksek seviyesine ulaştı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-gida-fiyatlari-kasim-2022den-bu-yana-en-yuksek-seviyesine-ulasti/4047442",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "FAO: Küresel gıda fiyatları Kasım 2022'den bu yana en yüksek seviyesine ulaştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-04T14:01:03.726308+00:00",
+  "type": "news",
+  "cluster_id": "c575d0659ff58"
+ },
+ {
+  "title": "Ticaret Bakanlığı uluslararası hizmet ticareti verilerini değerlendirdi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-uluslararasi-hizmet-ticareti-verilerini-degerlendirdi/4047486",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye, 2025 itibarıyla hizmetler ticareti fazlası veren ülkeler arasında 6'ncı sırada yer aldığını duyurdu.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-04T14:01:03.726308+00:00",
+  "type": "news",
+  "cluster_id": "c911f92474f67"
+ },
+ {
   "title": "ABD tarım dışı istihdam verisi açıklandı",
   "link": "https://www.aa.com.tr/tr/ekonomi/abd-tarim-disi-istihdam-verisi-aciklandi/4047397",
   "source": "Anadolu Ajansı",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-26T09:01:01.554759+00:00",
   "type": "news",
   "cluster_id": "cc69261eef0a8"
- },
- {
-  "title": "Rusya: Ukrayna'nın Kiev ve Odessa'daki askeri tesislerini vurduk",
-  "link": "https://www.trthaber.com/haber/dunya/rusya-ukraynanin-kiev-ve-odessadaki-askeri-tesislerini-vurduk-952226.html",
-  "source": "TRT Haber",
-  "summary_tr": "Rusya Savunma Bakanlığı, Ukrayna'nın Kiev ve Odessa bölgesindeki askeri tesisleri vurduğunu bildirdi.",
-  "metric": "",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-07-26T09:01:01.554759+00:00",
-  "type": "news",
-  "cluster_id": "c77d8aabacf5a"
- },
- {
-  "title": "Yavuz Ağıralioğlu'ndan motorine 4,20 liralık zamma tepki",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/yavuz-agiralioglu-ndan-motorine-4-20-liralik-zamma-tepki-2523913",
-  "source": "Cumhuriyet",
-  "summary_tr": "Anahtar Parti Genel Başkanı Yavuz Ağıralioğlu, motorine gelen 4,20 liralık zamma tepki gösterdi.",
-  "metric": "Motrin zammı: 4,20 TL",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-26T09:01:01.554759+00:00",
-  "type": "news",
-  "cluster_id": "c2e435ce205aa"
- },
- {
-  "title": "YENİ Parti ile birlikte TBMM'de düzen değişiyor: Oturma düzeni, grup salonları, makam odaları...",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/yeni-parti-ile-birlikte-tbmm-de-duzen-degisiyor-oturma-duzeni-grup-salonlari-makam-odalari-2523909",
-  "source": "Cumhuriyet",
-  "summary_tr": "YENİ Parti'nin 90 milletvekili ile TBMM'ye girmesi, Meclis'te oturma düzeni ve grup salonlarında değişime yol açtı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-26T09:01:01.554759+00:00",
-  "type": "news",
-  "cluster_id": "c13ac947420b5"
  }
 ]
