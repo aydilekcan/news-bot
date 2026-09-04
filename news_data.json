@@ -1,5 +1,77 @@
 [
  {
+  "title": "Trump, İran’daki o bölgeyi işaret etti: Yakında vurabiliriz",
+  "link": "https://www.sozcu.com.tr/trump-iran-daki-o-bolgeyi-isaret-etti-yakinda-vurabiliriz-p355473",
+  "source": "Sözcü",
+  "summary_tr": "Trump, İran'daki belirli bölgelere askeri müdahale yapabileceklerini açıkça ifade etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-04T21:01:01.861268+00:00",
+  "type": "news",
+  "cluster_id": "ce18a22e7cac5"
+ },
+ {
+  "title": "Rusya Ukrayna istihbaratının merkezini vurdu: Hedef başkanın odasıydı",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOamc5Z3ZlQ3d3MzJraE43Y1BsTnJnZjJOY1pucTZaUTdweTVtNW1fb25GdGJSWC1QRl82UFpzQ2kwMW1TTnVWdzBEN05SMGlVZ1hyRy1OS1NQZGVhcV85MVVzZGc1VjlVQlBGS240RFR6ODNSYnBaTldkNVlkaEJtaUROYzdmWnRsa1QtMkxSMmNieFl5U3lVSFJ1b3BDZFpjVTM4RmJkUEJYZw?oc=5",
+  "source": "soL",
+  "summary_tr": "Rusya, Ukrayna istihbaratının merkezini vurdu; hedef istihbarat başkanının odası olduğu belirtildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-04T21:01:01.861268+00:00",
+  "type": "news",
+  "cluster_id": "c00a91d1ad694"
+ },
+ {
+  "title": "Bolu belediyesine 'hayalet araç' soruşturması: Tanju Özcan dahil yedi kişi tutuklandı",
+  "link": "https://www.diken.com.tr/bolu-belediyesine-hayalet-arac-sorusturmasi-tanju-ozcan-dahil-yedi-kisi-tutuklandi/?utm_source=rss&utm_medium=rss&utm_campaign=bolu-belediyesine-hayalet-arac-sorusturmasi-tanju-ozcan-dahil-yedi-kisi-tutuklandi",
+  "source": "Diken",
+  "summary_tr": "Bolu Belediyesi'nde araç kiralama ihalelerinde usulsüzlük iddiasıyla Belediye Başkanı Tanju Özcan dahil 7 kişi tutuklandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-04T21:01:01.861268+00:00",
+  "type": "news",
+  "cluster_id": "c260436465223"
+ },
+ {
+  "title": "BM: Batı Şeria'da 2023'ten bu yana 6 bin 400'den fazla Filistinli yerinden edildi",
+  "link": "https://www.aa.com.tr/tr/dunya/bm-bati-seriada-2023ten-bu-yana-6-bin-400den-fazla-filistinli-yerinden-edildi/4047852",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Birleşmiş Milletler, 2023'ten bu yana İsrail'in işgali altındaki Batı Şeria'da 6.400'den fazla Filistinlinin yerinden edildiğini rapor etti.",
+  "metric": "Filistinli yerinden edilen: 6.400+ kişi (2023-2026)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-04T21:01:01.861268+00:00",
+  "type": "news",
+  "cluster_id": "c1c5ec21b75d2"
+ },
+ {
+  "title": "Bolu Belediyesinde \"araç kiralama ihalelerinde usulsüzlük\" iddiasına ilişkin 7 zanlı tutuklandı",
+  "link": "https://www.aa.com.tr/tr/gundem/-bolu-belediyesinde-arac-kiralama-ihalelerinde-usulsuzluk-iddiasina-iliskin-7-zanli-tutuklandi/4047817",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Bolu Belediyesi'nde araç kiralama ihalelerinde usulsüzlük iddiasıyla yürütülen soruşturmada 7 zanlı tutuklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-04T21:01:01.861268+00:00",
+  "type": "news",
+  "cluster_id": "c90971b499b60"
+ },
+ {
+  "title": "Bolu Belediyesine 'hayalet araç' operasyonu: 7 şüpheli tutuklandı",
+  "link": "https://www.trthaber.com/haber/turkiye/bolu-belediyesine-hayalet-arac-operasyonu-7-supheli-tutuklandi-955935.html",
+  "source": "TRT Haber",
+  "summary_tr": "Bolu Belediyesi araç kiralama ihalelerindeki usulsüzlük iddiasına ilişkin 7 şüpheli tutuklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-04T21:01:01.861268+00:00",
+  "type": "news",
+  "cluster_id": "c8bd8de51e2d2"
+ },
+ {
   "title": "Zelenskiy, Trump'ın özel temsilcilerinin önce Moskova'yı, pazar günü ise Kiev'i ziyaret edeceğini duyurdu",
   "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-trumpin-ozel-temsilcilerinin-once-moskovayi-pazar-gunu-ise-kievi-ziyaret-edecegini-duyurdu/4047787",
   "source": "Anadolu Ajansı",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-26T16:01:08.136560+00:00",
   "type": "news",
   "cluster_id": "c13c37fad2bb1"
- },
- {
-  "title": "İsrail güvenlik kabinesi, Uluslararası İstikrar Gücü'nün Gazze'ye girişine onay verdi",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-guvenlik-kabinesi-uluslararasi-istikrar-gucunun-gazzeye-girisine-onay-verdi/4009911",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail güvenlik kabinesi, Trump'ın Gazze Planı kapsamında Uluslararası İstikrar Gücü'nün bölgeye girişine onay verdi.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-26T16:01:08.136560+00:00",
-  "type": "news",
-  "cluster_id": "cf9f5f23ae2a8"
- },
- {
-  "title": "İran Meclis Başkan Yardımcısı: Ukrayna'nın eylemi cevapsız kalmayacak",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRi01ZjRBcU9pc0EzSmY1N085YUc3T2dtZEctYVJLS2VJYTdPRDU3RmdyRFg3LVQzX0l6UU1aQ3k3UlVxanZnX3FjZmk5UkdCV2tVWnBzUVdfWWd3elhoTThkcjRub2NOZzFpMEVVTUNhOVpuUnZzVEx1UVVhUWNheHpQWEwza0t5ZENVa3Njbk0zNWpUQjI4SGJFNDFYNVB1SjBGUVlaZVU?oc=5",
-  "source": "soL",
-  "summary_tr": "İran Meclis Başkan Yardımcısı, Ukrayna'nın eyleminin cevapsız kalmayacağını açıkladı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-26T16:01:08.136560+00:00",
-  "type": "news",
-  "cluster_id": "c0308d1cd866a"
- },
- {
-  "title": "Ceyhan Belediye Başkanı Aydar, CHP'den istifa etti: Rozetini teslim etti, 'YENİ Parti'ye katılacağım' dedi",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/ceyhan-belediye-baskani-aydar-chp-den-istifa-etti-rozetini-teslim-etti-yeni-parti-ye-katilacagim-dedi-2523997",
-  "source": "Cumhuriyet",
-  "summary_tr": "Ceyhan Belediye Başkanı Kadir Aydar, CHP'den istifa ederek Özgür Özel liderliğindeki Yeni Parti'ye katılacağını duyurdu.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-26T16:01:08.136560+00:00",
-  "type": "news",
-  "cluster_id": "c83e8ad3db4fb"
- },
- {
-  "title": "Ceyhan Belediye Başkanı Kadir Aydar, CHP'den istifa etti: Yeni Parti'ye katılacağım",
-  "link": "https://www.sozcu.com.tr/ceyhan-belediye-baskani-chp-den-istifa-etti-p339923",
-  "source": "Sözcü",
-  "summary_tr": "Ceyhan Belediye Başkanı Kadir Aydar, CHP'den istifa ederek Özgür Özel liderliğindeki Yeni Parti'ye katılacağını duyurdu.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-26T16:01:08.136560+00:00",
-  "type": "news",
-  "cluster_id": "c83e8ad3db4fb"
- },
- {
-  "title": "İlk turu kazandı, genel merkez devreye girdi: Gürsel Erol çekildi",
-  "link": "https://www.sozcu.com.tr/faik-oztrak-chp-grup-baskanligi-secimini-kazandi-p339913",
-  "source": "Sözcü",
-  "summary_tr": "CHP Grup Başkanlığı seçiminin ilk turunda Gürsel Erol, genel merkez müdahalesiyle çekildi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-26T16:01:08.136560+00:00",
-  "type": "news",
-  "cluster_id": "c34c01f4347a5"
- },
- {
-  "title": "BM Genel Sekreteri Guterres'ten Suriye'ye uygulanan yaptırımların kaldırılması çağrısı:",
-  "link": "https://www.aa.com.tr/tr/dunya/bm-genel-sekreteri-guterresten-suriyeye-uygulanan-yaptirimlarin-kaldirilmasi-cagrisi/4009897",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "BM Genel Sekreteri Guterres, Suriye'ye uygulanmakta olan tüm yaptırımların derhal kaldırılması çağrısında bulundu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-26T16:01:08.136560+00:00",
-  "type": "news",
-  "cluster_id": "cfc742200ec5b"
  }
 ]
