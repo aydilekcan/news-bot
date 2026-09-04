@@ -1,5 +1,65 @@
 [
  {
+  "title": "Will Federal Reserve hike rates later this month? Waller muddies the outlook",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGNqanQzNkZWQXM4U1Q5SlhOR1pxckVDSXd5TDI2OWxndXlocno2WEpMalYtWjFROWJEU1duNmRmQk9qbUdBVEpjck5mSEJuRmt6Rlh1d3JwME5IVFJRczd2aVRpZUJuZWJXQ2FaeTl1UTJzQ0NUVHYyS2JOaE9nQzM5bklqdmlxU0d5RnpFZXJwckhPbnRJ?oc=5",
+  "source": "AP",
+  "summary_tr": "Fed'in faiz karar sinyalleri belirsiz kalıyor; Yönetim Kurulu üyesi Waller, ayın sonundaki hike olasılığı hakkında konuştu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-09-04T03:01:06.847233+00:00",
+  "type": "news",
+  "cluster_id": "c0939bb2f31d1"
+ },
+ {
+  "title": "Akaryakıt fiyatlarında tarihi zam devreye girdi",
+  "link": "https://www.sozcu.com.tr/akaryakit-fiyatlarinda-tarihi-zam-devreye-girdi-p355225",
+  "source": "Sözcü",
+  "summary_tr": "Petrol fiyatları ve döviz kuru artışının etkisiyle akaryakıta tarihi bir zam uygulandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-09-04T03:01:06.847233+00:00",
+  "type": "news",
+  "cluster_id": "ca43cbdcd1c1b"
+ },
+ {
+  "title": "Maaş zamlarını enflasyon yedi",
+  "link": "https://www.sozcu.com.tr/maas-zamlarini-enflasyon-yedi-p355224",
+  "source": "Sözcü",
+  "summary_tr": "Memur ve emeklilere yılbaşında verilen maaş zamları 2 ayda enflasyon tarafından eritildi; asgari ücret de alım gücü kaybetti.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-09-04T03:01:06.847233+00:00",
+  "type": "news",
+  "cluster_id": "cc609a29d4f0f"
+ },
+ {
+  "title": "Hisse düştü, zirve gitti",
+  "link": "https://www.sozcu.com.tr/hisse-dustu-zirve-gitti-p355223",
+  "source": "Sözcü",
+  "summary_tr": "Borsa son 3 yılda keskin dalgalanmalar yaşadı; Sasa ve Tera gibi hisse senetlerinde sert düşüşler yatırımcılara kayıp yaşattı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-04T03:01:06.847233+00:00",
+  "type": "news",
+  "cluster_id": "cafd9e1846aef"
+ },
+ {
+  "title": "Velilerden istenen kayıt parası isyan ettirdi",
+  "link": "https://www.sozcu.com.tr/velilerden-istenen-kayit-parasi-isyan-ettirdi-p355233",
+  "source": "Sözcü",
+  "summary_tr": "Eskişehir okullarında velilerden 'kayıt parası' alındığı iddiası tepki çekti; THTM üyeleri konu hakkında araştırma başlattı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-04T03:01:06.847233+00:00",
+  "type": "news",
+  "cluster_id": "c9243d020c004"
+ },
+ {
   "title": "TBMM Genel Kurulu’nda milletvekillerinin salonda olmadıkları halde varmış gibi oy kullandıkları ortaya çıkmıştı",
   "link": "https://www.cumhuriyet.com.tr/turkiye/tbmm-genel-kurulu-nda-milletvekillerinin-salonda-olmadiklari-halde-varmis-gibi-oy-kullandiklari-ortaya-cikmisti-2534766",
   "source": "Cumhuriyet",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-25T13:01:04.654272+00:00",
   "type": "news",
   "cluster_id": "ce19c53b18a50"
- },
- {
-  "title": "Yandaş yazar iki tarih verdi: 'Yeni Parti'ye 10 vekil daha katılacak'",
-  "link": "https://www.sozcu.com.tr/yandas-yazar-iki-tarih-verdi-yeni-parti-ye-10-vekil-daha-katilacak-p339680",
-  "source": "Sözcü",
-  "summary_tr": "YENİ Parti'nin Meclis'te 91 milletvekiliyle ana muhalefet partisi konumuna gelmesinin ardından siyasi dengeler değişti; bazı kaynaklar partiye 10 vekil daha katılabileceğini iddia ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-25T13:01:04.654272+00:00",
-  "type": "news",
-  "cluster_id": "cd0c079cdf50a"
- },
- {
-  "title": "Trump'ın Türkiye'yi de kapsan 60 ülkeye yönelik tarife kararına karşı dava: 'Keyfi ve gerekçesiz'",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/trump-in-turkiye-yi-de-kapsan-60-ulkeye-yonelik-tarife-kararina-karsi-dava-keyfi-ve-gerekcesiz-2523739",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Başkanı Trump'ın 60 ülkeye getirdiği gümrük vergilerine karşı dava açıldı. Türkiye de etkilenen ülkeler arasında.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-25T12:01:00.814030+00:00",
-  "type": "news",
-  "cluster_id": "c577ae2ac9f55"
- },
- {
-  "title": "Zelenski'den Rusya'ya göz dağı: 'Saldırılara devam edeceğiz'",
-  "link": "https://www.sozcu.com.tr/zelenski-den-rusya-ya-goz-dagi-saldirilara-devam-edecegiz-p339677",
-  "source": "Sözcü",
-  "summary_tr": "Ukrayna Devlet Başkanı Zelenski, Rusya'ya karşı uzun menzilli silahlarla saldırılara devam edeceğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-25T12:01:00.814030+00:00",
-  "type": "news",
-  "cluster_id": "c6b6c211a4feb"
- },
- {
-  "title": "İşgal altındaki Batı Şeria'da İsrail ordusu ve Filistin topraklarını gasbeden İsraillilerin şiddeti tırmanıyor",
-  "link": "https://www.aa.com.tr/tr/dunya/isgal-altindaki-bati-seriada-israil-ordusu-ve-filistin-topraklarini-gasbeden-israillilerin-siddeti-tirmaniyor/4009093",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Batı Şeria'da İsrail ordusu ve yerleşimcilerin Filistinlilere yönelik şiddeti tırmanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-25T12:01:00.814030+00:00",
-  "type": "news",
-  "cluster_id": "cdf5df68ec762"
- },
- {
-  "title": "Araba alacaklar dikkat: ÖTV'de yeni düzenleme",
-  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNekxmWVVPZnRjR1lfUkt2c0pIQ3RwRUVyZzJnY3l0WkpBbUJiYnlEVEJhaEpNNlc1bXM2eTV3VWxYMWN2U21zNWxNeFd2SEp0N2MxU29ZeElYeEtGWm5wU0Y5Y25ySEdDUS1JVFR2UjdBNUZYMjhONVdpbm9sbzVrNVdNMnc?oc=5",
-  "source": "T24",
-  "summary_tr": "ÖTV'de yeni düzenleme yapılacağı duyuruldu. Araba alacaklar için vergi değişikliği öngörülüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-25T12:01:00.814030+00:00",
-  "type": "news",
-  "cluster_id": "cdb3521017ca0"
  }
 ]
