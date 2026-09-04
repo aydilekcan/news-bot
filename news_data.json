@@ -1,5 +1,41 @@
 [
  {
+  "title": "ABD, İran'da düğüne füze isabet edip etmediğini araştırıyor",
+  "link": "https://www.bbc.com/turkce/articles/c750znwyye5o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD Başkan Yardımcısı Vance, ABD ordusunun İran'ın güney bölgesindeki bir düğüne düzenlediği saldırıda en az iki çocuk da dahil olmak üzere ölüm olup olmadığını araştırdığını söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-04T00:01:11.602069+00:00",
+  "type": "news",
+  "cluster_id": "ce63b6dc8d04a"
+ },
+ {
+  "title": "Deadly strike on Iranian wedding was likely a direct hit by a US munition, analysis shows",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUEFXVU5xRXZGVUVkV3B2TUVQcTBseVZsSGd0blBwQktIaGlIc3R5TzMtNXFISkFTb1VOdlhWOXBmQ052RWFuT1pQaXJqQndNaXB3TmhLQTZPQXNQSFFXQ3JGY0NBdE1RY09razBPZFh2VnJiYmlBSld3akdLeHZxbVA5bWNqVWFycjFlUHFNd3VPdE4tYTFVaWxmdDBoOUlxUk80X0dkbkFqOV9SU3lxNkFsd0JGZnB5Qk9SV3JGWkxRWlhn?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran'daki düğüne yapılan ve ölümlere neden olan saldırının analiz sonuçlarına göre ABD mühimmatının doğrudan isabet ettği belirlendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-04T00:01:11.602069+00:00",
+  "type": "news",
+  "cluster_id": "c4cb4f5bdd4f3"
+ },
+ {
+  "title": "South Korea prepares Hormuz military deployment, media reports say",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdWViay1UelBGa2N2MVRMeTBDRUFURDhZblFPbFcwLXc1VG92Y3ZTeE1ZZHU3b1JicEYxOHBEdWQzSEQ1aXZiNmNCZjBVcUl0Y19yOGRQZE5wZjRkdHFYbzJxZTE3QTZDdlRVUGtFSTRyR0JSNkxRU0dBZGRTT1BWalZjdGpKV1BCRjFQV0dXTzZwZEw4aElNSXhJVy1ldVRZV2VqTlYzejVUdzZ3bUhoMlRpbFFsV2FWUjNYUg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Güney Kore, Basra Körfezi'ne askeri birlik göndermek için hazırlık yapıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-04T00:01:11.602069+00:00",
+  "type": "news",
+  "cluster_id": "c823872717b0a"
+ },
+ {
   "title": "İsrail ordusu Lübnan'ın güneyine hava ve topçu saldırılarını sürdürüyor",
   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-lubnanin-guneyine-hava-ve-topcu-saldirilarini-surduruyor/4046942",
   "source": "Anadolu Ajansı",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-25T12:01:00.814030+00:00",
   "type": "news",
   "cluster_id": "ccac6e92301fd"
- },
- {
-  "title": "Şeybani: İsrail'in Suriye topraklarına yönelik ihlalleri bölge için tehdit oluşturuyor",
-  "link": "https://www.trthaber.com/haber/dunya/seybani-israilin-suriye-topraklarina-yonelik-ihlalleri-bolge-icin-tehdit-olusturuyor-952190.html",
-  "source": "TRT Haber",
-  "summary_tr": "Suriye Dışişleri Bakanı, İsrail'in Suriye topraklarına yönelik ihlallerinin bölge güvenliği için tehdit oluşturduğunu belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-25T12:01:00.814030+00:00",
-  "type": "news",
-  "cluster_id": "c8420b65ed082"
- },
- {
-  "title": "Kılıçdaroğlu: 'Hiçbir CHP'li malı götürenlerle yan yana duramaz'",
-  "link": "https://www.bbc.com/turkce/articles/c5y0mvmqne2o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "CHP Genel Başkanı Kılıçdaroğlu, partideki bölünme sonrası İstanbul'da üye katılım töreninde konuştu ve CHP'li malı götürenlerle yan yana duramayacaklarını söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-25T11:01:04.852025+00:00",
-  "type": "news",
-  "cluster_id": "c0d11e382721f"
- },
- {
-  "title": "İmamoğlu: Bu davet hepimize, Özgür Özel'le yürüyelim",
-  "link": "https://www.diken.com.tr/imamoglu-bu-davet-hepimize-ozgur-ozelle-yuruyelim/?utm_source=rss&utm_medium=rss&utm_campaign=imamoglu-bu-davet-hepimize-ozgur-ozelle-yuruyelim",
-  "source": "Diken",
-  "summary_tr": "Tutuklu İBB Başkanı Ekrem İmamoğlu, Özgür Özel'in YENİ Parti liderliğinde bu davete çağrısı yaptı ve 'hepimize, Özgür Özel'le yürüyelim' mesajı verdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-25T11:01:04.852025+00:00",
-  "type": "news",
-  "cluster_id": "c452435b47440"
  }
 ]
