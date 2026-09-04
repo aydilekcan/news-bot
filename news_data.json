@@ -1,5 +1,29 @@
 [
  {
+  "title": "Gözler yeni OVP'de: Enflasyon ve cari açık hedefleri şaştı",
+  "link": "https://www.dw.com/tr/gözler-yeni-ovp-de-enflasyon-ve-cari-açık-hedefleri-şaştı/a-78878051?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "OVP açıklanacak; hükümetin enflasyon ve cari açık hedefleri yıl sonu için iki kat şaştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-04T05:01:05.160232+00:00",
+  "type": "news",
+  "cluster_id": "c04098dfdbf89"
+ },
+ {
+  "title": "Yurt içi piyasaların gözü faiz kararına çevrildi",
+  "link": "https://www.trthaber.com/haber/ekonomi/yurt-ici-piyasalarin-gozu-faiz-kararina-cevrildi-955849.html",
+  "source": "TRT Haber",
+  "summary_tr": "TCMB'nin yılın altıncı para politikası kararı yatırımcıların odağında; piyasalar faiz kararını bekliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-04T05:01:05.160232+00:00",
+  "type": "news",
+  "cluster_id": "c80fb09510d7f"
+ },
+ {
   "title": "Türkiye ekonomisinin 20272029 rotası pazar günü açıklanacak",
   "link": "https://www.trthaber.com/haber/gundem/turkiye-ekonomisinin-2027-2029-rotasi-pazar-gunu-aciklanacak-955845.html",
   "source": "TRT Haber",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-25T14:01:00.942098+00:00",
   "type": "news",
   "cluster_id": "cfb7b316ca2ed"
- },
- {
-  "title": "Yapay zekanın faturası ağırlaşıyor: Veri merkezleri elektrik tüketimini ikiye katlayacak!",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/yapay-zekanin-faturasi-agirlasiyor-veri-merkezleri-elektrik-tuketimini-ikiye-katlayacak-2523766",
-  "source": "Cumhuriyet",
-  "summary_tr": "Yapay zeka veri merkezleri elektrik tüketimini 2030'da ikiye katlayacak. Küresel enerji dengelerine köklü etki bekleniyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-25T14:01:00.942098+00:00",
-  "type": "news",
-  "cluster_id": "cfb086f6c50ee"
- },
- {
-  "title": "Sanayici üretirken devleti finanse ediyor: Devreden KDV yükü büyüyor",
-  "link": "https://www.sozcu.com.tr/sanayici-uretirken-devleti-finanse-ediyor-devreden-kdv-yuku-buyuyor-p339689",
-  "source": "Sözcü",
-  "summary_tr": "Sanayici firmalar, finansmana erişim zorlaştığı ve kredi maliyetleri yüksek seyrederken devreden KDV yükü nedeniyle devleti finanse etmek durumunda kalıyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-25T13:01:04.654272+00:00",
-  "type": "news",
-  "cluster_id": "c51b443e7f5f5"
  }
 ]
