@@ -1,5 +1,41 @@
 [
  {
+  "title": "TBMM Genel Kurulu’nda milletvekillerinin salonda olmadıkları halde varmış gibi oy kullandıkları ortaya çıkmıştı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/tbmm-genel-kurulu-nda-milletvekillerinin-salonda-olmadiklari-halde-varmis-gibi-oy-kullandiklari-ortaya-cikmisti-2534766",
+  "source": "Cumhuriyet",
+  "summary_tr": "TBMM'de haziran ayında ortaya çıkan 'sahte pusula' skandalına ilişkin TBMM Başkanlığı'ndan resmi yanıt verildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-04T02:01:26.149569+00:00",
+  "type": "news",
+  "cluster_id": "c025e168d4403"
+ },
+ {
+  "title": "Tekstil ve hazır giyimde kriz istihdamı ve üretimi vurdu: Ege'de kriz derinleşiyor",
+  "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/tekstil-ve-hazir-giyimde-kriz-istihdami-ve-uretimi-vurdu-ege-de-kriz-derinlesiyor-2534612",
+  "source": "Cumhuriyet",
+  "summary_tr": "Tekstil ve hazır giyim sektöründe artan üretim maliyetleri, kur ve ihracat daralması istihdamı ve üretimi ciddi şekilde etkiledi; Ege bölgesinde kriz derinleşiyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-04T02:01:26.149569+00:00",
+  "type": "news",
+  "cluster_id": "c772868ee7b32"
+ },
+ {
+  "title": "Rize’de TOKİ öfkesi",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/rize-de-toki-ofkesi-2534775",
+  "source": "Cumhuriyet",
+  "summary_tr": "TOKİ tarafından inşa edilen Rize'deki Yağlıtaş Mahallesi konutlarının fiyatlarına halktan tepki.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-04T02:01:26.149569+00:00",
+  "type": "news",
+  "cluster_id": "c88f86e40e7d3"
+ },
+ {
   "title": "ABD, İran'da düğüne füze isabet edip etmediğini araştırıyor",
   "link": "https://www.bbc.com/turkce/articles/c750znwyye5o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-25T12:01:00.814030+00:00",
   "type": "news",
   "cluster_id": "cdb3521017ca0"
- },
- {
-  "title": "Canadian intern at NATO military HQ arrested in Belgium on spying charge",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSjhwUHpvTVFodm9TOHNxX3ctYU5lUFNvNURaU1VZemFpak1VZ1R4M2xUblJLMEI0UTM5Si1HZk9XVS1PMjBYaklkUkJvdmhPNGVfdV9GaGoxUmJOVWpQVDZ6QWxoT3dhRU83WERPYnRQTlBoY1NUV3I3emNnMkQxNk1SeEV5RlRmQlozYnRFaHBtQVhVczZXaVJpRjFZU1lya2FwM3ZJdTB1WkxpLU5ScDZkcw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "NATO askeri karargahında çalışan Kanadalı stajyer casusluk suçlamasıyla Belçika'da gözaltına alındı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-25T12:01:00.814030+00:00",
-  "type": "news",
-  "cluster_id": "c53cb52794740"
- },
- {
-  "title": "Bakan Akın Gürlek, Gülistan Doku soruşturmasında son durumu paylaştı: 'Ucu nereye giderse gitsin...'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/bakan-akin-gurlek-gulistan-doku-sorusturmasinda-son-durumu-paylasti-ucu-nereye-giderse-gitsin-2523736",
-  "source": "Cumhuriyet",
-  "summary_tr": "Adalet Bakanı Gürlek, Gülistan Doku soruşturmasında 32 şüpheli hakkında adli işlem yapıldığını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-25T12:01:00.814030+00:00",
-  "type": "news",
-  "cluster_id": "c26a7c789f865"
- },
- {
-  "title": "Bakan Gürlek'ten Gülistan Doku açıklaması: 'Peşini bırakmayacağız'",
-  "link": "https://www.sozcu.com.tr/bakan-gurlek-ten-gulistan-doku-aciklamasi-pesini-birakmayacagiz-p339673",
-  "source": "Sözcü",
-  "summary_tr": "Adalet Bakanı Gürlek, Gülistan Doku soruşturmasında gerçeğin aydınlatılacağını vurguladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-25T12:01:00.814030+00:00",
-  "type": "news",
-  "cluster_id": "ccac6e92301fd"
  }
 ]
