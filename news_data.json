@@ -1,5 +1,77 @@
 [
  {
+  "title": "Trump says US may hit Iran's Pickaxe Mountain soon",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZmd2SXBwYUJhclYxN0pLMDhjUXVmeHhzUTRPY0FsM3hPZlN4YkprT2Y0R0l6Z3U5UXNWVjRDcFJUN2NNa1FsaXlIejlDUXVpbWh4UWJNdUZzZUZpdGN5WkxQa24zYkktU191MTZsV0VwNXcwRzVPRHA4YjlCUUwwajE4akV3Y3pLX0thQXEtTTlSRkJRMGc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, ABD'nin yakında İran'ın Pickaxe Dağına saldırabileceğini söyledi. Söz konusu açıklama uluslararası gerilim riskini artırmaktadır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-04T22:01:07.125706+00:00",
+  "type": "news",
+  "cluster_id": "c798f298a3a65"
+ },
+ {
+  "title": "Cumhurbaşkanı’ndan yeni atamalar: İl müftülüklerinde kapsamlı değişiklik",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/cumhurbaskani-ndan-yeni-atamalar-il-muftuluklerinde-kapsamli-degisiklik-2535024",
+  "source": "Cumhuriyet",
+  "summary_tr": "Cumhurbaşkanı Erdoğan imzasıyla Türkiye genelinde 35 ilin müftülüğünde kapsamlı görev değişikliği yapıldı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-09-04T22:01:07.125706+00:00",
+  "type": "news",
+  "cluster_id": "ca9ffeabb613c"
+ },
+ {
+  "title": "Aile ve Sosyal Hizmetler Bakanı Göktaş: Çalışan tüm annelerimizin doğum izni süresini 16 haftadan 24 haftaya çıkardık",
+  "link": "https://www.aa.com.tr/tr/gundem/aile-ve-sosyal-hizmetler-bakani-goktas-calisan-tum-annelerimizin-dogum-izni-suresini-16-haftadan-24-haftaya-cikardik/4047872",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Aile ve Sosyal Hizmetler Bakanı Göktaş: Çalışan annelerin doğum izni 16 haftadan 24 haftaya çıkarıldı.",
+  "metric": "Doğum izni 16 hafta -> 24 hafta (+8 hafta)",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-09-04T22:01:07.125706+00:00",
+  "type": "news",
+  "cluster_id": "c4534eb6f99f5"
+ },
+ {
+  "title": "Resmi Gazete’de yayımlandı: Sayıştay’a yeni Başsavcı ataması",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/resmi-gazete-de-yayimlandi-sayistay-a-yeni-bassavci-atamasi-2535018",
+  "source": "Cumhuriyet",
+  "summary_tr": "Sayıştay Başsavcılığına Sayıştay Savcısı Recep Çevik atandı. Atama kararı Resmi Gazete'de yayımlandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-04T22:01:07.125706+00:00",
+  "type": "news",
+  "cluster_id": "c7750f80eb5e4"
+ },
+ {
+  "title": "Sayıştay Başsavcısı ve Diyanet Akademisi Başkanı belli oldu: Kararlar Resmi Gazete’de yayımlandı",
+  "link": "https://www.sozcu.com.tr/sayistay-bassavcisi-ve-diyanet-akademisi-baskani-belli-oldu-kararlar-resmi-gazete-de-yayimlandi-p355479",
+  "source": "Sözcü",
+  "summary_tr": "Sayıştay Başsavcılığına Recep Çevik, Diyanet Akademisi Başkanlığına yeni atamalar yapıldı. Kararlar Resmi Gazete'de yayımlandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-04T22:01:07.125706+00:00",
+  "type": "news",
+  "cluster_id": "cc1abe4155f15"
+ },
+ {
+  "title": "Sayıştay Başsavcılığına Recep Çevik atandı",
+  "link": "https://www.aa.com.tr/tr/gundem/sayistay-bassavciligina-recep-cevik-atandi/4047877",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Sayıştay Savcısı Recep Çevik, Sayıştay Başsavcılığına atandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-04T22:01:07.125706+00:00",
+  "type": "news",
+  "cluster_id": "cb0ae13e6c9f4"
+ },
+ {
   "title": "Trump, İran’daki o bölgeyi işaret etti: Yakında vurabiliriz",
   "link": "https://www.sozcu.com.tr/trump-iran-daki-o-bolgeyi-isaret-etti-yakinda-vurabiliriz-p355473",
   "source": "Sözcü",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-26T17:01:01.991517+00:00",
   "type": "news",
   "cluster_id": "cce39a62a8244"
- },
- {
-  "title": "Iran will halt attacks as long as US maintains pause, Iranian source says after Trump calls off strikes",
-  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2hvLTRwU3J1WVZCTlA0WFVNRmhXdDVkTWhwQkdDTFZzbEVpYmRBUUppcjJudFY2M3JpQ3lzT0I0SkM4VFlmSk8xb0RuX192WjQ2dE9nbjJkUFFMTHFyZDh2c1ktdDJpSmtmdXJPYW5wNXRuM1hsQ0RqYkE4X3d1aDZ1SkpUM3ltc0h2NFNZbmpvZFhYa0ZJTlEyR0JkdDZvYWRUYXBRZE41YkVEdjV4VEZVb0hSSUxOQlFwT1U4X1FfNjJrbmhaSVkyT0w0Zw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran kaynakları, ABD ateşi durdurduğu sürece saldırıları durduracaklarını belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-26T17:01:01.991517+00:00",
-  "type": "news",
-  "cluster_id": "c6fc7d606e435"
- },
- {
-  "title": "Netanyahu, UCM'nin tutuklama kararına rağmen BM Genel Kurulu için ABD'ye gitmeyi planladığını söyledi",
-  "link": "https://www.aa.com.tr/tr/dunya/netanyahu-ucmnin-tutuklama-kararina-ragmen-bm-genel-kurulu-icin-abdye-gitmeyi-planladigini-soyledi/4009938",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Netanyahu, UCM tutuklama kararına rağmen BM Genel Kurulu için ABD'ye gitmeyi planladığını belirtti.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-26T17:01:01.991517+00:00",
-  "type": "news",
-  "cluster_id": "c1818a6091286"
- },
- {
-  "title": "İran: Hürmüz Boğazı'ndan barışçıl geçişlerin sağlanması ilkesine bağlılığımız sürüyor",
-  "link": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazindan-bariscil-gecislerin-saglanmasi-ilkesine-bagliligimiz-suruyor-952257.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Dışişleri Bakan Yardımcısı, ülkenin Hürmüz Boğazı'ndan barışçıl geçişlere bağlı kalması ve diplomasi aracılığıyla gerilimi tırmandırmamak istediğini vurguladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-26T17:01:01.991517+00:00",
-  "type": "news",
-  "cluster_id": "ca08e570e1832"
- },
- {
-  "title": "ABD ve İran karşılıklı saldırıları durdurdu mu?",
-  "link": "https://www.bbc.com/turkce/articles/cvgvp3e2dgeo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD Başkanı Trump, İran'a yönelik saldırıları durdurarak diplomasi için alan tanıdığını ABD BM Büyükelçisi açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-26T16:01:08.136560+00:00",
-  "type": "news",
-  "cluster_id": "cc4b2eb193ed5"
- },
- {
-  "title": "Trump is giving Iran talks 'a little bit of room,' US ambassador to UN says",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ0pLZTJjRGRTWW02bXNWZW9QdjlJV3JWbHkwR2tRNFMzR1ZPa0NLLVBhUGxUVzVKbTVfZ1RhTGs3Rk5vZVFYVHNaRnA4dU5melZIeEYta3Y4YlpUZUtxcTlpOU5oTWtybGlxUkVjMU9heUR6V0xhbVFaUWJTTXlVNmg2VW8zemJETEN4VUgwLWdxN0VyVjJjcGxoSTU1djBfR0pnbENheDhNdU16d2ZnZl8ycGZtNnYzdHVQVQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD Başkanı Trump, İran'la yapılacak müzakerelere 'biraz alan' tanıdığını ABD BM Büyükelçisi açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-26T16:01:08.136560+00:00",
-  "type": "news",
-  "cluster_id": "c2911409257cf"
- },
- {
-  "title": "CHP'nin yeni Grup Başkanı Faik Öztrak oldu",
-  "link": "https://www.bbc.com/turkce/articles/c5y0mvmqne2o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "CHP Genel Başkanı Kılıçdaroğlu, Faik Öztrak'ı partinin yeni Grup Başkanı olarak atadı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-26T16:01:08.136560+00:00",
-  "type": "news",
-  "cluster_id": "c13c37fad2bb1"
  }
 ]
