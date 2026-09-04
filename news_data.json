@@ -1,5 +1,77 @@
 [
  {
+  "title": "Emekli ve memurun zammı bu 4 rakamdan biri olacak: Yeni tablolar ortaya çıktı",
+  "link": "https://www.sozcu.com.tr/emekli-ve-memurun-zammi-bu-4-rakamdan-biri-olacak-yeni-tablolar-ortaya-cikti-p355283",
+  "source": "Sözcü",
+  "summary_tr": "TÜİK verilerine göre temmuz-ağustos iki aylık enflasyon %3,66 oldu; 2027 Ocak'ta emekli ve memur zamları dört farklı rakamdan biri olacak.",
+  "metric": "İki aylık enflasyon %3,66",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-04T07:01:13.719436+00:00",
+  "type": "news",
+  "cluster_id": "c2178135ecdbd"
+ },
+ {
+  "title": "Volkswagen'in 50 bin kişiyi işten çıkarma planı onaylandı",
+  "link": "https://www.dw.com/tr/volkswagen-in-50-bin-kişiyi-işten-çıkarma-planı-onaylandı/a-78901628?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Volkswagen Denetleme Kurulu, 50 bin kişinin işten çıkarılmasını içeren Gelecek Planı 2030'u onayladı.",
+  "metric": "50.000 işçi",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-04T07:01:13.719436+00:00",
+  "type": "news",
+  "cluster_id": "c5beacc65788c"
+ },
+ {
+  "title": "Volkswagen 'gelecek planı'nı onayladı: 50 bin kişi işten çıkarılacak",
+  "link": "https://www.diken.com.tr/volkswagen-gelecek-planini-onayladi-50-bin-kisi-isten-cikarilacak/?utm_source=rss&utm_medium=rss&utm_campaign=volkswagen-gelecek-planini-onayladi-50-bin-kisi-isten-cikarilacak",
+  "source": "Diken",
+  "summary_tr": "Volkswagen Denetleme Kurulu, 50 bin kişilik işten çıkarma planını onayladı.",
+  "metric": "50.000 işçi",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-04T07:01:13.719436+00:00",
+  "type": "news",
+  "cluster_id": "c6a09c6e7cfb3"
+ },
+ {
+  "title": "Küresel piyasalar bu veriye kilitlendi: Altın, bitcoin ve borsaları bugün ne bekliyor?",
+  "link": "https://www.sozcu.com.tr/kuresel-piyasalar-bu-veriye-kilitlendi-altin-bitcoin-ve-borsalari-bugun-ne-bekliyor-p355280",
+  "source": "Sözcü",
+  "summary_tr": "Fed'in faiz artırımı beklentilerinin zayıflaması ve tahvil faizlerinin gevşemesi küresel piyasalarda risk iştahını artırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-04T07:01:13.719436+00:00",
+  "type": "news",
+  "cluster_id": "c929d1c73aa40"
+ },
+ {
+  "title": "TCMB, uzaktan kimlik doğrulamada \"biyometrik\" seçeneğini getirdi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-uzaktan-kimlik-dogrulamada-biyometrik-secenegini-getirdi/4046999",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "TCMB, ödeme kuruluşlarının uzaktan kimlik doğrulamada biyometrik seçeneğini getirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-04T07:01:13.719436+00:00",
+  "type": "news",
+  "cluster_id": "c0fd3e7753b02"
+ },
+ {
+  "title": "Trakya ihracatı (aylık): 365 milyon 295 bin dolar (Temmuz)",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOFNFd05FaGRLcGZMd21GbHlZMnQ4dnJXeWNKSDBveHVKcjQ0WXFJM1g0MmsyNUtpRmVxcndtYnBTM3Y5djFtSE56QVJaQ0d4QkhXVHZoNk13TVpxMXdua3FWTFJkY0o3TWk4cWZHN1YtTmNCakptTDJvTV91dVFQM1JlcFk3TThqM3F6ak45RTlHS3NiaUdVWnNwWHpQVThh0gGkAUFVX3lxTE45WTZmWFVLTm5UeGhaME1rSXV4bVExcDBqLU80WVdPTmhDY2R4V3JfdmtoRTJxOENReEFRNWV0WmhIcUR2YVVCSl9fcVh0WTVKLUdjZUR4YUdkNC0wUkoxYVFUUlZUSWZnd1VzQzNKVktrQkNza05QSVZlMXlqcl9OcTM1ZGd3M1Zzd1daVFRqYXFGT1hHYVhMcGlLM09XdnZGWkN5?oc=5",
+  "source": "TUIK",
+  "summary_tr": "358 milyon dolar → 365 milyon 295 bin dolar (%+2,0)",
+  "metric": "%+2,0",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-09-04T07:01:13.719436+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Hüseyin İrfan Fırat: DİSK-AR'a göre asgari ücretin enflasyon karşısındaki kaybı 6 bin 196 liraya ulaştı",
   "link": "https://www.diken.com.tr/huseyin-irfan-firat-disk-ara-gore-asgari-ucretin-enflasyon-karsisindaki-kaybi-6-bin-196-liraya-ulasti/?utm_source=rss&utm_medium=rss&utm_campaign=huseyin-irfan-firat-disk-ara-gore-asgari-ucretin-enflasyon-karsisindaki-kaybi-6-bin-196-liraya-ulasti",
   "source": "Diken",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-25T21:00:55.366781+00:00",
   "type": "news",
   "cluster_id": "cb281cded0c0f"
- },
- {
-  "title": "35 il için alarm: AFAD’dan 13 ile turuncu, 22 ile sarı kod uyarısı",
-  "link": "https://www.sozcu.com.tr/35-il-icin-alarm-afad-dan-13-ile-turuncu-22-ile-sari-kod-uyarisi-p339737",
-  "source": "Sözcü",
-  "summary_tr": "AFAD, 13 il için turuncu, 22 il için sarı kod uyarısı yayınladı. Samsun, Sinop, Ordu turuncu; Ankara, İstanbul, Konya sarı kodda.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-25T20:00:53.960023+00:00",
-  "type": "news",
-  "cluster_id": "c3b67a5114ec2"
- },
- {
-  "title": "Ukraine's Zelenskiy: Russia wants to bring in 30,000 North Korean troops to conflict",
-  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYVE3WVotb1k5eTA4eHhrSEtCWkVJM2xUU3lob3R5OGpPUFZnV0NRUTByU1cwTHJCUi0wYTdVSmVHU1V6TzMydk1EVjBZSVp4aldTLWdaVURyYUM1YmN1U0YtcU9RcDZ5Tm1Jc1hPdGNfZ3dUX19vNXhoV2JWekZaS01WRjBMbUotWHFwLTBTVXVyQXhSbjdBaTAwamJiMkFtZ3E1SV9tc0RZckNIZ3JjS2taS1JfclhQSG5WWUtwS3R1bEFLdE5LY3g4WWdjZjlk?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Zelenskiy, Rusya'nın Kuzey Kore'den 30 bin asker getirmek istediğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-25T19:01:02.809923+00:00",
-  "type": "news",
-  "cluster_id": "ce75cf87f90a0"
- },
- {
-  "title": "This wave of Trump tariffs is likely here to stay; more are coming",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWEhnbzZuUVgwb2duQzN4ZGpYM1hkWXRKUTlBZUVpWFRLUjVQaDFWQVkzdm5qLWpfckwtZ3QyZFlpMTZSYkJlNWhxT1lXcGFETW12Z1JNWUtnQWxzRE8xSWFmcmhhMXhMbjlOMVBXbFBJRHBjc3BGdXdOX3Brc1A2VkltcTdRcHRQeUEyUnlSVUtESDY5MU1QeDhxZUNub0gxSjFTaEVHaEpJYVQxWkh4c0VR?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump tarifelerinin devam edeceği ve daha fazlasının geleceği beklentisi hakim.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-25T19:01:02.809923+00:00",
-  "type": "news",
-  "cluster_id": "c9b9e9d203abf"
- },
- {
-  "title": "Tesla hisseleri çakıldı, Musk’ın serveti eridi",
-  "link": "https://www.sozcu.com.tr/tesla-hisseleri-cakildi-musk-in-serveti-eridi-p339734",
-  "source": "Sözcü",
-  "summary_tr": "Tesla hisselerindeki sert düşüş nedeniyle Elon Musk büyük servet kaybı yaşadı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-25T19:01:02.809923+00:00",
-  "type": "news",
-  "cluster_id": "cd47e408ec167"
- },
- {
-  "title": "İran: 15 günde 11 ABD savaş uçağı ve 17 İHA'yı imha ettik",
-  "link": "https://www.cumhuriyet.com.tr/dunya/iran-15-gunde-11-abd-savas-ucagi-ve-17-iha-yi-imha-ettik-2523808",
-  "source": "Cumhuriyet",
-  "summary_tr": "İran Devrim Muhafızları, son 15 günde bölgedeki ABD üslerinde 11 savaş uçağı ve 17 İHA'yı imha ettiklerini bildirdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-07-25T18:01:05.112129+00:00",
-  "type": "news",
-  "cluster_id": "cac93e257bf5d"
- },
- {
-  "title": "Kazakistan Cumhurbaşkanı'ndan Ukrayna'da barış için 'İstanbul' önerisi",
-  "link": "https://www.trthaber.com/haber/turk-dunyasi/kazakistan-cumhurbaskanindan-ukraynada-baris-icin-istanbul-onerisi-952204.html",
-  "source": "TRT Haber",
-  "summary_tr": "Kazakistan Cumhurbaşkanı Tokayev, Rusya-Ukrayna savaşının dondurulmasını ve Türkiye'nin ara buluculuğunda İstanbul'da barış görüşmeleri yapılmasını önerdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-25T18:01:05.112129+00:00",
-  "type": "news",
-  "cluster_id": "cba7c031e3b8e"
  }
 ]

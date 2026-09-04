@@ -680,10 +680,10 @@
    "indicator_tr": "Yıllık enflasyon"
   },
   "tr_trakya_ihracat_aylik": {
-   "value": "358 milyon dolar",
-   "period": "Haziran",
-   "ts": "2026-08-08T06:01:24.660975+00:00",
-   "indicator_tr": "Trakya ihracat (aylık)"
+   "value": "365 milyon 295 bin dolar",
+   "period": "Temmuz",
+   "ts": "2026-09-04T07:01:38.981516+00:00",
+   "indicator_tr": "Trakya ihracatı (aylık)"
   },
   "tr_ihracat_ithalat_artis": {
    "value": "İhracat %21,1, ithalat %23",
@@ -1196,6 +1196,8 @@
   "bcd8e5cca44a4e7d527272500c7e8159": "2026-09-04T04:01:03.128473+00:00",
   "0437794c0770f9bd0add743528493e52": "2026-09-04T04:01:03.128473+00:00",
   "99a039da7cf07b989ea04dd1a7593222": "2026-09-04T05:01:05.160232+00:00",
-  "2fcd9c3db4cd4e2fc5dff8108a43b547": "2026-09-04T06:01:09.271038+00:00"
+  "2fcd9c3db4cd4e2fc5dff8108a43b547": "2026-09-04T06:01:09.271038+00:00",
+  "e0b62208fe63e0e096b852cb152b0f10": "2026-09-04T07:01:13.719436+00:00",
+  "5e9583f1a24d235683167648a5f970d3": "2026-09-04T07:01:13.719436+00:00"
  }
 }
