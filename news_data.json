@@ -1,5 +1,41 @@
 [
  {
+  "title": "Volkswagen's surprise turnaround deal averts showdown as job cuts loom",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSF9hVjYzeWVienlhSzZMNWVJc1JHeWlPVDBMeTBVSmdabWJQMVJyZERoLTlzdlRsc3ZaSldPakJlVWF3a0g1MURoVDNTR29JZmQ4MGtWeGhqcDVLY2Rwbk94X0hOT0VjWnB0VVlaU1phazRKWklUSmROdXVRQXExQW1KMzg5dU1EOEFPaVoyZzA5MTd5N1Q2cjhUdF84eDNkNDc2b3dxUGdfS2ZzUkxB?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Volkswagen, işçi kesintileriyle sonuçlanabilecek bir krizi engellemeyi amaçlayan sürpriz anlaşma yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-04T10:01:13.617739+00:00",
+  "type": "news",
+  "cluster_id": "cb5aa195efb8f"
+ },
+ {
+  "title": "Bakan Bayraktar: Enerji güvenliği ile enerji dönüşümü birlikte ilerlemek zorunda",
+  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-enerji-guvenligi-ile-enerji-donusumu-birlikte-ilerlemek-zorunda/4047159",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Enerji Bakanı Bayraktar, enerji güvenliğinin enerji dönüşümü ile eş zamanlı ilerlemesi gerektiğini vurguladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-04T10:01:13.617739+00:00",
+  "type": "news",
+  "cluster_id": "c03363e82b869"
+ },
+ {
+  "title": "China rare earth firms halt some US shipments over geopolitical worries, sources say",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWDN1dWNKT01aNWd3OWc5WGpVc2FRYk5TTEpfUXdHRkFxeEwyYmxlRGxtQUtXRlVkbHZzbkFOd1VndGxSMWh4anJ3RDc0eFRVNjlEM3ZJZGRKUEsxQ1V5bWtPNUdjNG9ocGhmRXVMcnhNZ1pkSnBmbDRBcjlfdXJGWGJ3ZngzaTVzNFIwem1FQ0tPUUdkc3F6WEdNS3dGSDkxOVFHRVAtR2wzajR5bndEbjNWRlhTU2JhcDAwUzFBbjBVdTZNQmZyZHQ4c3hnWEhpV3hpTm1lNnVWdw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin nadir toprak firmalarının jeopolitik kaygılar nedeniyle ABD'ye bazı sevkiyatlarını durdurduğu bildirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-04T10:01:13.617739+00:00",
+  "type": "news",
+  "cluster_id": "cf212bef2ded5"
+ },
+ {
   "title": "Merkez Bankası için flaş tahmin: Faiz indirimi tarihi öne çekildi!",
   "link": "https://www.sozcu.com.tr/merkez-bankasi-icin-flas-tahmin-faiz-indirimi-tarihi-one-cekildi-p355320",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-26T07:01:06.143978+00:00",
   "type": "news",
   "cluster_id": "c613c92b8e4a5"
- },
- {
-  "title": "Ukrayna, Hazar Denizi'ndeki saldırıların ayrıntılarını açıkladı",
-  "link": "https://www.sozcu.com.tr/ukrayna-hazar-denizi-ndeki-saldirilarin-ayrintilarini-acikladi-p339808",
-  "source": "Sözcü",
-  "summary_tr": "Ukrayna Güvenlik Servisi, Hazar Denizi'nde Rusya'ya ait petrol platformu ve askeri kargo taşımacılığı hedefleriyle ilgili saldırıların ayrıntılarını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-26T07:01:06.143978+00:00",
-  "type": "news",
-  "cluster_id": "c745dc276156d"
- },
- {
-  "title": "Ukrayna Güvenlik Servisi, Hazar Denizi'ndeki saldırıların ayrıntılarını açıkladı",
-  "link": "https://www.aa.com.tr/tr/dunya/ukrayna-guvenlik-servisi-hazar-denizindeki-saldirilarin-ayrintilarini-acikladi/4009476",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Ukrayna Güvenlik Servisi, Hazar Denizi'nde Rusya'ya ait petrol platformu ve askeri kargo taşımacılığı hedefleriyle ilgili saldırıların ayrıntılarını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-26T07:01:06.143978+00:00",
-  "type": "news",
-  "cluster_id": "c745dc276156d"
- },
- {
-  "title": "Filistin topraklarını gasbeden İsrailliler Batı Şeria'da bir caminin bazı bölümlerini ateşe verdi",
-  "link": "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israilliler-bati-seriada-bir-caminin-bazi-bolumlerini-atese-verdi/4009495",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail güçleri, Batı Şeria'nın kuzeyindeki Tulkerim kentinde bir caminin bazı bölümlerini ateşe verdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-26T07:01:06.143978+00:00",
-  "type": "news",
-  "cluster_id": "c4d991cd312ba"
  }
 ]
