@@ -1,5 +1,53 @@
 [
  {
+  "title": "ABD-İran gerilimi yeniden tırmandı: Karşılıklı saldırı açıklamaları",
+  "link": "https://www.cumhuriyet.com.tr/dunya/abd-iran-gerilimi-yeniden-tirmandi-karsilikli-saldiri-aciklamalari-2535217",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD-İran gerilimi tırmandı: İran Devrim Muhafızları Hürmüz Boğazı'ndan geçen petrol tankerlerine ve ABD bağlantılı gemilere saldırı açıklaması yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-05T22:01:07.997766+00:00",
+  "type": "news",
+  "cluster_id": "c5cd4f82765f6"
+ },
+ {
+  "title": "Putin'in, Trump'ın temsilcileriyle görüşmesi sona erdi",
+  "link": "https://www.trthaber.com/haber/dunya/putinin-trumpin-temsilcileriyle-gorusmesi-sona-erdi-956014.html",
+  "source": "TRT Haber",
+  "summary_tr": "Putin, Trump'ın özel temsilcileri Steve Witkoff ve Jared Kushner ile görüşmesini tamamladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-05T22:01:07.997766+00:00",
+  "type": "news",
+  "cluster_id": "cb0854bfed37c"
+ },
+ {
+  "title": "Üsküdar belediye başkan yardımcısı dahil üç kişi tutuklandı",
+  "link": "https://www.diken.com.tr/uskudar-belediye-baskan-yardimcisi-dahil-uc-kisi-tutuklandi/?utm_source=rss&utm_medium=rss&utm_campaign=uskudar-belediye-baskan-yardimcisi-dahil-uc-kisi-tutuklandi",
+  "source": "Diken",
+  "summary_tr": "Üsküdar Belediyesi'nde yapı ruhsatı işlemlerinde usulsüzlük iddiasıyla belediye başkan yardımcısı dahil 3 kişi tutuklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-05T22:01:07.997766+00:00",
+  "type": "news",
+  "cluster_id": "c140bba13eaa8"
+ },
+ {
+  "title": "Üsküdar Belediyesine yönelik usulsüzlük soruşturmasında 3 şüpheliye tutuklandı",
+  "link": "https://www.trthaber.com/haber/turkiye/uskudar-belediyesine-yonelik-usulsuzluk-sorusturmasinda-3-supheliye-tutuklandi-956011.html",
+  "source": "TRT Haber",
+  "summary_tr": "Üsküdar Belediyesi'nde yapı ve iskan ruhsatı işlemlerinde usulsüzlük iddiasıyla 3 şüpheli tutuklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-05T22:01:07.997766+00:00",
+  "type": "news",
+  "cluster_id": "c2f93546b9010"
+ },
+ {
   "title": "ABD ile İran arasında gerilim tırmandı: Gemiler hedef alındı, petrol tankerleri vuruldu",
   "link": "https://www.sozcu.com.tr/abd-ile-iran-arasinda-gerilim-tirmandi-gemiler-hedef-alindi-petrol-tankerleri-vuruldu-p355654",
   "source": "Sözcü",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-27T16:01:07.342174+00:00",
   "type": "news",
   "cluster_id": "c92a4749fe2a0"
- },
- {
-  "title": "Houthis say they targeted Saudi east-west oil transport",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeDlpSUM2eWhGMl9rVW15em5HMU15SkNkdDJVQlpWX1F3ekVJWFZYcktYT0Z5ajQ1c3JmZ3pocmNjSkRWWTVKckZwNFRUVzBiTktyNXR4WTRUM21pYm1CV3RKQUpQd1E0dDcteTBXMW9uc0FqTFB1bGdpQnMtb3BxVHpWVzlNRHluZmVMVVFFOE5WRTVKdjZFUjNiajlod29ZU1lGUlBnbjh4VWE3Z1E?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Houthis, Suudi Arabistan'ın doğu-batı petrol taşıma hattını hedef aldığını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-27T16:01:07.342174+00:00",
-  "type": "news",
-  "cluster_id": "cd8bdd23aa590"
- },
- {
-  "title": "Porsche to axe one in five jobs by 2035 as China, EV woes bite",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR1RHNHFOakt3b2EyVHIxSklHcTJNb202OXMwRFczZ1B6Ums0M1NUTm1jRXJZOUdZbDdMcHVTaGc3V3E0OW5qOTRESEtyZGJOVWU1Z0N5cFFsM25CU3ZGeUhpVXVkeU8wa0IybEpHaDV1VXJVSDNMdGw4VF9KMFltc3Z6blh5Y01lQjNGMzhpS0FDZw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Porsche 2035'e kadar beş işçiden birini işten çıkaracak; Çin ve elektrikli araç zorlukları neden gösteriliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-27T16:01:07.342174+00:00",
-  "type": "news",
-  "cluster_id": "c178e52b297f9"
- },
- {
-  "title": "Saudi Arabia says it destroyed drones launched by Iran-backed groups in Iraq",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaWRZREdhWVZkczJxVE5YTlJ5QjV5eU1WamJXY0ZaeUJPYXFMRDd1bXNSVzNTa3IyZVpvVF9lUExoXzhLTkh6ZVJTa3hkc2txenhUSE8xcG5nd3NYMU9GTGlHZ0xrazRhWFhoWVdPZl9tX3p3SlEtRFBXWmIyVXM4Y2hLMHNBMWoxVHZVenhoMVVPSzFvM3EtWnM3NmJyUXFydU1UNWxfMFlsTmpYZFhlR3pEN3RfaHQ3VnFPZXVPUzFpQ1ExQ0E?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Suudi Arabistan, Irak'ta İran destekli gruplar tarafından fırlatılan dronları imha ettiğini duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-27T16:01:07.342174+00:00",
-  "type": "news",
-  "cluster_id": "cf9b07d869bc9"
- },
- {
-  "title": "O ilçede 46 CHP'li yönetici istifa etti: YENİ Parti'ye katılacaklar",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/o-ilcede-46-chp-li-yonetici-istifa-etti-yeni-parti-ye-katilacaklar-2524265",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Ceyhan İlçe Örgütü'nden 46 yönetici istifa ederek YENİ Parti'ye katıldı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-27T16:01:07.342174+00:00",
-  "type": "news",
-  "cluster_id": "cd8ef3a19ae27"
  }
 ]
