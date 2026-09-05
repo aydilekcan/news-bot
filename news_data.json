@@ -1,5 +1,53 @@
 [
  {
+  "title": "Putin meets with US envoys at the Kremlin for renewed talks on ending the war in Ukraine",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2I3ZmdCUEl6RTJFZmRfdUdqNlNCVlBCVERfdEVTN2R3Rm9rQ0JKdHhQaW5lNHhWQndKSFF0a2JybmZ6V3AzNXRfWS1PRU5qQXRLSkUyVnQ0YjhBVUtYVVFHeE1maG4tazRPZS1NY0xCOW1faThuaDJ1VGhSUXVHdVJMakZWTzRSb1N2MGh5aXBxc1FVWlI4X0lkU1lrRGI5QWc?oc=5",
+  "source": "AP",
+  "summary_tr": "Putin, Kremlin'de Ukrayna savaşını sonlandırmaya yönelik yenilenen görüşmeler için ABD temsilcileriyle görüştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-09-05T20:01:00.188523+00:00",
+  "type": "news",
+  "cluster_id": "c08197d96aca8"
+ },
+ {
+  "title": "İsrail'in Lübnan'a Ekim 2023'ten bu yana düzenlediği saldırılarda 9 bine yakın kişi hayatını kaybetti",
+  "link": "https://www.aa.com.tr/tr/dunya/israilin-lubnana-ekim-2023ten-bu-yana-duzenledigi-saldirilarda-9-bine-yakin-kisi-hayatini-kaybetti/4048403",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail, Ekim 2023'ten bu yana Lübnan'a düzenlediği saldırılarda 9 bine yakın kişiyi öldürdü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-05T20:01:00.188523+00:00",
+  "type": "news",
+  "cluster_id": "cb8ff3bbf680f"
+ },
+ {
+  "title": "Ekonomide 3 yıllık yol haritası yarın kamuoyuyla paylaşılacak",
+  "link": "https://www.trthaber.com/haber/ekonomi/ekonomide-3-yillik-yol-haritasi-yarin-kamuoyuyla-paylasilacak-956006.html",
+  "source": "TRT Haber",
+  "summary_tr": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, ekonominin 3 yıllık Orta Vadeli Programını kamuoyuyla paylaşacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-05T20:01:00.188523+00:00",
+  "type": "news",
+  "cluster_id": "c4a5c9bcb523e"
+ },
+ {
+  "title": "Silah ruhsatı ücretlerinde yeni dönem: Avukatların beklediği haber geldi",
+  "link": "https://www.sozcu.com.tr/silah-ruhsati-ucretlerinde-yeni-donem-avukatlarin-bekledigi-haber-geldi-p355648",
+  "source": "Sözcü",
+  "summary_tr": "Bakan Gürlek, silah ruhsatı ücretlerinin yarısının kaldırılacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-05T20:01:00.188523+00:00",
+  "type": "news",
+  "cluster_id": "c91d3905dd075"
+ },
+ {
   "title": "Putin says US-Russia contacts beneficial as talks begin with Witkoff and Kushner",
   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM3NpSzg5T0lwZ2VwSkh6VjJtLUF5N0U2TWZoM2dhSW1sUDRsUk5nRWJpNkZPaXNhWkNQNFl3S25QVkRNcUxWRno0SU1uVU84NzczVzhWODl0UXZBWkoxNGlwbjU3eGxIV3R4MGhRS1d0ZVN1bDBFWTRDRmU5ZlZvQXM3a2gycDZ2cWoxR2ZtTUFkUWRBR1otODM1Z010SkY3NGMxRjVVakxINXdDT2VRLVdoN3NFSGxuUWowS1FaOA?oc=5",
   "source": "Reuters",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-27T15:01:19.046350+00:00",
   "type": "news",
   "cluster_id": "c71890dee8109"
- },
- {
-  "title": "Feyza Altun'un Ahbap soruşturmasındaki ifadesi ortaya çıktı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/feyza-altun-un-ahbap-sorusturmasindaki-ifadesi-ortaya-cikti-2524261",
-  "source": "Cumhuriyet",
-  "summary_tr": "Feyza Altun, Ahbap Derneği soruşturmasında savcılıkta verdiği ifade ortaya çıktı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-27T15:01:19.046350+00:00",
-  "type": "news",
-  "cluster_id": "c15716a9c6e7b"
- },
- {
-  "title": "Bahçeli: Kılıçdaroğlu ile Özel sağduyu çerçevesinde hareket etmeli",
-  "link": "https://www.trthaber.com/haber/gundem/bahceli-kilicdaroglu-ile-ozel-sagduyu-cercevesinde-hareket-etmeli-952340.html",
-  "source": "TRT Haber",
-  "summary_tr": "MHP lideri Bahçeli, Kılıçdaroğlu ve Özel başta olmak üzere tüm tarafların sağduyu çerçevesinde hareket etmesi çağrısı yaptı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-27T15:01:19.046350+00:00",
-  "type": "news",
-  "cluster_id": "cd03bbf1bc228"
- },
- {
-  "title": "Porsche ramps up job cuts to 9,000 by 2035",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR1RHNHFOakt3b2EyVHIxSklHcTJNb202OXMwRFczZ1B6Ums0M1NUTm1jRXJZOUdZbDdMcHVTaGc3V3E0OW5qOTRESEtyZGJOVWU1Z0N5cFFsM25CU3ZGeUhpVXVkeU8wa0IybEpHaDV1VXJVSDNMdGw4VF9KMFltc3Z6blh5Y01lQjNGMzhpS0FDZw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Porsche, 2035 yılına kadar iş kesintilerini 9.000'e çıkaracağını açıkladı. Endüstri yapılanması devam ediyor.",
-  "metric": "9.000 iş kesintisi",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-27T15:01:19.046350+00:00",
-  "type": "news",
-  "cluster_id": "c43a56a9c2eb7"
- },
- {
-  "title": "'Rusya 500 bin vatandaşını savaşa sürmeye hazırlanıyor'",
-  "link": "https://www.sozcu.com.tr/rusya-500-bin-vatandasini-savasa-surmeye-hazirlaniyor-p340181",
-  "source": "Sözcü",
-  "summary_tr": "Ukrayna Devlet Başkanı Zelenski, Rusya'nın Ekim başında yüz binlerce yeni asker savaşa sürmeye hazırlanıyor olduğunu iddia etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-27T14:01:08.561250+00:00",
-  "type": "news",
-  "cluster_id": "c64e934556be8"
  }
 ]
