@@ -1,5 +1,29 @@
 [
  {
+  "title": "Hiring burst of 162,000 jobs in August puts the focus squarely back on inflation in the US",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNGZaTEZzXzBNWGd1bHhIYTB6MW5SV09IRnJ5MXV3aEpVVjBJMWNZdElhZHBxWnFjMUpUbVRpallqRWpKYWxRUFdueEU4SDdGb3BqQlVhYUtNaExLSzRadWR3cFhFbktSWFRDNVpZX2J2ZjZkVDNmdnhRc1hyTFBhNG8tQkRKdmtqMlZUM2EtaEtydUtadUpOemJCaWNxQ2NiaEkycVdsTkk?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD Ağustos ayında 162.000 yeni istihdam yaratarak enflasyon sorununu yeniden gündeme getirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-05T01:01:01.308904+00:00",
+  "type": "news",
+  "cluster_id": "c497eb3f5e691"
+ },
+ {
+  "title": "Erdoğan BAE lideri Al Nahyan'la görüştü: ABD'nin İran saldırıları 'gerilim' olarak ele alındı",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdHFWZVdFckgxUTVoVlJDQUUtd01remxraG8zOTlvRXliOUw5YS1BenM2QmNXVG1VTU5XT2hickVLSkFvNWx6RlA5Tm5LdEI3UWhhXzdwMG5QcXdBMkRaMVNKQmk3alhnUU9iWUlaekdPV2w5T0pTcGxiZk5TY0Rfc1UzYVZ6allCN0pJX2RaVnpDR0lYdjhKZ1k5eHN4NlpMdmhUb3UyaW1UV19LNWJ6TlRBN2ZyQWl1ZU1z?oc=5",
+  "source": "soL",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, BAE lideri Al Nahyan ile görüşerek ABD'nin İran saldırılarını gerilim olarak değerlendirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-05T01:01:01.308904+00:00",
+  "type": "news",
+  "cluster_id": "c96d627c3539a"
+ },
+ {
   "title": "Atama ve görevden alma kararları Resmi Gazete'de yayımlandı",
   "link": "https://www.trthaber.com/haber/gundem/atama-ve-gorevden-alma-kararlari-resmi-gazetede-yayimlandi-955946.html",
   "source": "TRT Haber",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-26T18:01:02.450103+00:00",
   "type": "news",
   "cluster_id": "cc3af269f675c"
- },
- {
-  "title": "İran'dan Ukrayna'ya sert yanıt: Saldırı cevapsız kalmayacak",
-  "link": "https://www.sozcu.com.tr/iran-dan-ukrayna-ile-ilgili-aciklama-26-temmuz-2026-p339932",
-  "source": "Sözcü",
-  "summary_tr": "İran Dışişleri sözcüsü, Ukrayna'nın Hazar Denizi'ndeki İran gemisine yönelik saldırının cevapsız kalmayacağını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-26T17:01:01.991517+00:00",
-  "type": "news",
-  "cluster_id": "cf86005be21ca"
- },
- {
-  "title": "İran bir ülkeyi daha hedefine aldı: Savaşın cephesi genişliyor mu?",
-  "link": "https://www.sozcu.com.tr/iran-bir-ulkeyi-daha-hedefine-aldi-savasin-cephesi-genisliyor-mu-p339926",
-  "source": "Sözcü",
-  "summary_tr": "İran, Ukrayna'nın Hazar Denizi'ndeki gemi saldırısına karşılık vermekle tehdit ederek gerilimi tırmandırdı; çatışmanın kapsamı genişliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-26T17:01:01.991517+00:00",
-  "type": "news",
-  "cluster_id": "cb0668d5e851c"
  }
 ]
