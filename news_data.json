@@ -1,5 +1,77 @@
 [
  {
+  "title": "ABD'den Türk bankasına 'İran bağlantılı' iddiasıyla yaptırım",
+  "link": "https://www.diken.com.tr/abdden-turk-bankasina-iran-baglantili-iddiasiyla-yaptirim/?utm_source=rss&utm_medium=rss&utm_campaign=abdden-turk-bankasina-iran-baglantili-iddiasiyla-yaptirim",
+  "source": "Diken",
+  "summary_tr": "ABD, İran bağlantısı iddiasıyla Türkiye merkezli Golden Glo bankasına yaptırım uyguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-05T10:01:05.999738+00:00",
+  "type": "news",
+  "cluster_id": "cbdb63f7d9e12"
+ },
+ {
+  "title": "Üsküdar’daki AK Parti planı CHP-Yeni Parti ortak kararıyla bozuldu",
+  "link": "https://yetkinreport.com/2026/09/05/uskudardaki-ak-parti-plani-chp-yeni-parti-ortak-karariyla-bozuldu/",
+  "source": "YetkinReport",
+  "summary_tr": "Üsküdar Belediye Başkanvekili seçimi CHP ve Yeni Parti'nin boykotu nedeniyle ertelendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-05T10:01:05.999738+00:00",
+  "type": "news",
+  "cluster_id": "c9198e38bc728"
+ },
+ {
+  "title": "Bilişim sektörü ihracatı 6,7 milyar doları aştı",
+  "link": "https://www.sozcu.com.tr/bilisim-sektoru-ihracati-6-7-milyar-dolari-asti-p355567",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye'nin bilişim ve teknoloji hizmetleri ihracatı 2025'te %25,3 artışla 6,7 milyar doları aştı.",
+  "metric": "Bilişim ihracatı: 6,7 milyar dolar (+%25,3)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-05T10:01:05.999738+00:00",
+  "type": "news",
+  "cluster_id": "c2d3478ac73b1"
+ },
+ {
+  "title": "Türkiye'den Almanya'ya dev ihracat çıkarması!",
+  "link": "https://www.sozcu.com.tr/turkiye-den-almanya-ya-dev-ihracat-cikarmasi-p355565",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye'nin Almanya'ya dış satımı ilk 8 ayda %3,8 artışla 13,5 milyar dolara ulaştı.",
+  "metric": "Almanya ihracatı: 13,5 milyar dolar (+%3,8)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-05T10:01:05.999738+00:00",
+  "type": "news",
+  "cluster_id": "cdcf08e96151e"
+ },
+ {
+  "title": "CHP ve Yeni Parti grubu katılmadı, çoğunluk sağlanamadı: Meclis üyelerinin gözaltına alındığı Üsküdar Belediyesi'nde başkanvekili seçimi ertelendi",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT09vSXdqbjNwMEpoOU1RbzJxM005eU5EM2FGWjFfTXg4bERYYmtlQ0JOODhFZjVPakR2TGlWQ2NXY1hmb2hkWE9LRDVGSjdWWVQxT2xHTnRtbUNUQ0xCbXFrTXlqSHJUX2g2TzhtaDBULVN4bEMtajlZY1c1NEktbjhrTVlpa24xN2Q5QXc2NERzZHlqdmFFTmg1VHFybFJfb01qTDJsTQ?oc=5",
+  "source": "T24",
+  "summary_tr": "Üsküdar Belediyesi'nde başkanvekili seçimi CHP ve Yeni Parti'nin katılmadığı oturumda ertelendi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-05T10:01:05.999738+00:00",
+  "type": "news",
+  "cluster_id": "ceaaf48270dc4"
+ },
+ {
+  "title": "Üsküdar Belediye Başkanvekili seçimi 8 Eylül’e ertelendi",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSEZtYV9qTEtGb0hKUXhVdTctbE1PX1N0UVFhVHZQWENNSkQ4S0YtQm00NTVFR29JbmNkbmozb1I4MC1kZFVOMVFmeDJ5WUlxRzRWcUhNdThIN2NNSkxPYm11SnN2QWlvVFdVWEt2TTZXX1lVVHpxbEI5X3VGSUp5TDVSd29xcU1ubGVwSDFxdGllcE0?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Üsküdar Belediye Başkanvekili seçimi 8 Eylül'e ertelendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-05T10:01:05.999738+00:00",
+  "type": "news",
+  "cluster_id": "c123ec8f43ec5"
+ },
+ {
   "title": "Trump, Kushner ve Witkoff'u Kiev'e gönderiyor",
   "link": "https://www.dw.com/tr/trump-kushner-ve-witkoff-u-kiev-e-gönderiyor/a-79044463?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-27T07:01:03.307615+00:00",
   "type": "news",
   "cluster_id": "c2fad303659c0"
- },
- {
-  "title": "TBMM'de kritik hafta başlıyor: Öğrenci affı gündemde",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/tbmm-de-kritik-hafta-basliyor-ogrenci-affi-gundemde-2524093",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM, bu hafta öğrenci affı ve yükseköğretime ilişkin kanun teklifini ele alacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-27T07:01:03.307615+00:00",
-  "type": "news",
-  "cluster_id": "cae8d3780e813"
- },
- {
-  "title": "Tüketicileri aldatıcı reklamlara karşı daha etkin koruyacak düzenleme 1 Ağustos'ta yürürlüğe girecek",
-  "link": "https://www.aa.com.tr/tr/ekonomi/tuketicileri-aldatici-reklamlara-karsi-daha-etkin-koruyacak-duzenleme-1-agustosta-yururluge-girecek/4010090",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Tüketicileri aldatıcı reklamlardan koruyacak yeni düzenleme 1 Ağustos'ta yürürlüğe girecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-27T07:01:03.307615+00:00",
-  "type": "news",
-  "cluster_id": "cea1098db0255"
- },
- {
-  "title": "Dollar pulls back as US-Iran attacks pause, oil drops",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdWQ5R1NLZkN4LVQtZkhaQVlCVE9jV0pFNE5JamoxMFdleEdnS0I5YjhzVWtOVW5RVHk0d1BhSVRSc2I0THJIbzlrWXVhX00wemJRX2c2eTRKQ1BOb3FIZnBONjhvUktZVzlWRFl2RG1EYUQ1NTctRWFGa0htZzNBQ2dQdTVZSnBHZ2FXYkpNUVJJVVZQVGkzZ0IzbEZPQUF0dkVMOTBhMA?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD-İran geriliminin hafiflemesiyle dolar gerileyip petrol fiyatları düştü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-27T07:01:03.307615+00:00",
-  "type": "news",
-  "cluster_id": "cc5a628c26cbd"
- },
- {
-  "title": "Filistinliler, İsrailli yerleşimcilerin Batı Şeria'da camileri, arabaları ve tarım arazilerini ateşe verdiğini anlatıyor",
-  "link": "https://www.bbc.com/turkce/articles/cp3r161l9kko?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "İsrail'deki yerleşimciler Batı Şeria'da Filistin camileri, araçları ve tarım arazilerine saldırı düzenliyor; Tal köyü yakınında çatışmalar 4 Filistinli ve 2 İsraili ölümü sonucu verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-27T06:01:12.783552+00:00",
-  "type": "news",
-  "cluster_id": "cb2202f442db8"
- },
- {
-  "title": "ABD'nin İran'a atacak füzesi kalmadı",
-  "link": "https://www.sozcu.com.tr/abd-nin-iran-a-atacak-fuzesi-kalmadi-p340007",
-  "source": "Sözcü",
-  "summary_tr": "Trump, İran'a yönelik geniş çaplı saldırıları durdurmaya karar verdi; mühimmat stoklarındaki kritik azalma ve komutanlarının uyarıları nedeniyle operasyon iptal edildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-27T06:01:12.783552+00:00",
-  "type": "news",
-  "cluster_id": "cdf3019c4627c"
- },
- {
-  "title": "Petrol ateşkes umuduyla sert düşüşte",
-  "link": "https://www.diken.com.tr/petrol-ateskes-umuduyla-sert-dususte/?utm_source=rss&utm_medium=rss&utm_campaign=petrol-ateskes-umuduyla-sert-dususte",
-  "source": "Diken",
-  "summary_tr": "Petrol fiyatları ABD-İran saldırılarının karşılıklı durdurulmasından sonra sert düşüş yaşıyor; ateşkes umudu fiyatları aşağı çekiyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-27T06:01:12.783552+00:00",
-  "type": "news",
-  "cluster_id": "c086c877536dc"
  }
 ]
