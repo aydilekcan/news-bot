@@ -1,5 +1,17 @@
 [
  {
+  "title": "Brokered ceasefire takes effect for repairs at Zaporizhzhia nuclear plant",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNXJwQ1BPMFoxZ1JOZjRpMmJhaDktQ01QbzhoMUZsTjY4VURwSjBLQnRXNUg2dzY1MDVrbFoyeTZmMTNhTmFhV1FOaThxbEQyVmJ5VzN4ZllJTnFGOXpaMHhKNWNIM3JhY3diNG9DM3hMcC1kNlc1TTFRSXhVenRPanpaWERNVmpDNE1GVUszWklKQm5STEhpUmYwVmFCR0hrcDI0RUhVeVZCa3pfdUNfUUdURDY0U005NkE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Zaporizhzhia nükleer santralindeki onarım çalışmaları için brokered bir ateşkes yürürlüğe girdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-05T23:01:01.741818+00:00",
+  "type": "news",
+  "cluster_id": "cf18b3b734bc3"
+ },
+ {
   "title": "ABD-İran gerilimi yeniden tırmandı: Karşılıklı saldırı açıklamaları",
   "link": "https://www.cumhuriyet.com.tr/dunya/abd-iran-gerilimi-yeniden-tirmandi-karsilikli-saldiri-aciklamalari-2535217",
   "source": "Cumhuriyet",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-27T16:01:07.342174+00:00",
   "type": "news",
   "cluster_id": "ca357451b9b63"
- },
- {
-  "title": "Çin, ABD'nin \"zorla çalıştırma\" gerekçesiyle uyguladığı gümrük vergilerinin kaldırılmasını istedi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/cin-abdnin-zorla-calistirma-gerekcesiyle-uyguladigi-gumruk-vergilerinin-kaldirilmasini-istedi/4010727",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Çin, ABD'nin 'zorla çalıştırma' gerekçesiyle uyguladığı gümrük vergilerinin kaldırılmasını istedi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-27T16:01:07.342174+00:00",
-  "type": "news",
-  "cluster_id": "c92a4749fe2a0"
  }
 ]
