@@ -1,5 +1,41 @@
 [
  {
+  "title": "Putin says US-Russia contacts beneficial as talks begin with Witkoff and Kushner",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM3NpSzg5T0lwZ2VwSkh6VjJtLUF5N0U2TWZoM2dhSW1sUDRsUk5nRWJpNkZPaXNhWkNQNFl3S25QVkRNcUxWRno0SU1uVU84NzczVzhWODl0UXZBWkoxNGlwbjU3eGxIV3R4MGhRS1d0ZVN1bDBFWTRDRmU5ZlZvQXM3a2gycDZ2cWoxR2ZtTUFkUWRBR1otODM1Z010SkY3NGMxRjVVakxINXdDT2VRLVdoN3NFSGxuUWowS1FaOA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya Devlet Başkanı Putin, ABD ile istişari görüşmelerin faydalı olduğunu belirterek Witkoff ve Kushner'la müzakereler başladığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-05T19:01:00.621576+00:00",
+  "type": "news",
+  "cluster_id": "c45888ba713cf"
+ },
+ {
+  "title": "Son dakika... Üsküdar Belediyesi soruşturması: 3 isme tutuklama talebi",
+  "link": "https://www.sozcu.com.tr/son-dakika-uskudar-belediyesi-sorusturmasi-3-isme-tutuklama-talebi-p355646",
+  "source": "Sözcü",
+  "summary_tr": "Üsküdar Belediyesi soruşturmasında 3 kişiye tutuklama talebi mahkemeye sevk edildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-05T19:01:00.621576+00:00",
+  "type": "news",
+  "cluster_id": "c0a6bdc673033"
+ },
+ {
+  "title": "Boğaz'da 4 bin 141 yapı için yıkım kararı: Ünlü isimler de listede",
+  "link": "https://www.sozcu.com.tr/bogazda-4-bin-141-yapi-icin-yikim-karari-unlu-isimler-de-listede-p355644",
+  "source": "Sözcü",
+  "summary_tr": "İstanbul Boğazı'nda 4 bin 141 yapı için yıkım kararı alındı; ünlü isimler de listede yer almaktadır.",
+  "metric": "Yıkım kararı alınan yapı sayısı: 4.141",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-05T19:01:00.621576+00:00",
+  "type": "news",
+  "cluster_id": "c658daca28f2c"
+ },
+ {
   "title": "Putin'in ABD Başkanı Trump'ın temsilcileriyle görüşmesi başladı",
   "link": "https://www.aa.com.tr/tr/dunya/putinin-abd-baskani-trumpin-temsilcileriyle-gorusmesi-basladi/4048366",
   "source": "Anadolu Ajansı",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-27T14:01:08.561250+00:00",
   "type": "news",
   "cluster_id": "c64e934556be8"
- },
- {
-  "title": "Netanyahu says Iran is top agenda in meeting with Trump",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTGp1Q2puNVVhbk5lVEtVSlpvbU1jaHlya1BHTjZjV2lpOUdXMlZoNVpUSldmcjdSSzBvOWZHZG9vR09CX3lOdFE4SkxuWW1TUDM2Q1BMeGlnMU9GWmEycjFtNHRGZ1M3bTd0WTVYTndKdXhobGlWR3BONWhJSmI1N3h6S0VTZGpHajFBRV9jY3Etc2JaVlE4V19DWmY5Z0twQU1OWnptYWxudw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İsrail Başbakanı Netanyahu, Trump'la gerçekleştireceği toplantıda İran'ı en önemli gündem maddesi olarak belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-27T14:01:08.561250+00:00",
-  "type": "news",
-  "cluster_id": "c6cd91a622b21"
- },
- {
-  "title": "Saadet Partisi'nden 'Fındık Oyunları' eylemi... 'Taban fiyat 400 TL olmalı'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/saadet-partisi-nden-findik-oyunlari-eylemi-taban-fiyat-400-tl-olmali-2524241",
-  "source": "Cumhuriyet",
-  "summary_tr": "Saadet Partisi, fındık taban fiyatının en az 400 TL olması gerektiğini talep etti.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-27T14:01:08.561250+00:00",
-  "type": "news",
-  "cluster_id": "c0ecce96f9655"
- },
- {
-  "title": "UCM'nin tutuklama kararına rağmen Netanyahu'nun uçağı bir kez daha Avrupa ülkelerinin hava sahasını kullandı",
-  "link": "https://www.aa.com.tr/tr/dunya/ucmnin-tutuklama-kararina-ragmen-netanyahunun-ucagi-bir-kez-daha-avrupa-ulkelerinin-hava-sahasini-kullandi/4010596",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Netanyahu'yu taşıyan uçak, tutuklama kararına rağmen Avrupa ülkelerinin hava sahasını kullandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-27T14:01:08.561250+00:00",
-  "type": "news",
-  "cluster_id": "c806535304d32"
  }
 ]
