@@ -1,5 +1,65 @@
 [
  {
+  "title": "Trump'ın temsilcileri Ukrayna Savaşı'nı 'sona erdirecek bir öneriyle' Moskova'da",
+  "link": "https://www.bbc.com/turkce/articles/c14dkek2l51o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Trump'ın temsilcileri Ukrayna Savaşı'nı sona erdirmek için Moskova'da Rusya ile görüşmeler yapacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-05T17:01:06.052136+00:00",
+  "type": "news",
+  "cluster_id": "cc7945032c74c"
+ },
+ {
+  "title": "İsrail, Batı Şeria'da Filistin yönetiminin kontrolündeki bölgelerde yayılmacı politikasını artırıyor",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-bati-seriada-filistin-yonetiminin-kontrolundeki-bolgelerde-yayilmaci-politikasini-artiriyor/4048327",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail, işgal altındaki Batı Şeria'da Filistin yönetiminin kontrolündeki bölgelerde kolonyal yerleşimleri genişletmeyi sürdürüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-05T17:01:06.052136+00:00",
+  "type": "news",
+  "cluster_id": "c27c62248960e"
+ },
+ {
+  "title": "NATO will not tolerate hybrid actions against members, US envoy says",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONmp2OVoyb1pVeGE3MTBrbjBIbXlFMHJKNFNGWGVvcldOZGNjTmt4cEI2V1IxMmduNF9Fc29NVmlMbjBLV2ExY2g2VzlBenY5aGt6Ri1QdTEtaDVUZC1vN2Nvbk9vX29UR0Zka2I3T0ZKSVpKeVhJNTRScWFRVl9XZmhHelpwMmVoNnRzY1NOcTNCSlJwcDNrNDY1ekNYTlRQMC1Gendnd1luUVF2WEE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "NATO, üyelerine karşı hibrit eylemler tolerans göstermeyeceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-05T17:01:06.052136+00:00",
+  "type": "news",
+  "cluster_id": "c05a50220582b"
+ },
+ {
+  "title": "US military strikes three Iranian crude oil carriers, Central Command says",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYnduS0xfeWF0NWZJUEpneWJOWTU3ZXNmUEZrVUY2a0U2b0FPejBkR21SMGxfRjVhWENDdUJOMTJKVm9MbjBBTkVTeHRGZmRfVkhKNnlyR1dySzBPUXBEUm1CVlVsQkhCTnlhMXBPMFM0NEJ5QTE0aDNxLU5SbzRVX09fZ3NpbnIycXVzZG9XM0dnb1JaS3pvbnI3UDUxNG1VUVhTWWFfbGQ5T2NQR0N6WnRzbzhINGlVRmRPUHhKT0xGVmhWc1E?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Merkezi Komuta, İran'a ait üç ham petrol taşıyıcısına asker saldırı düzenlediğini bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-05T17:01:06.052136+00:00",
+  "type": "news",
+  "cluster_id": "c4b70a6caad53"
+ },
+ {
+  "title": "Americans hit with record-high Labor Day Weekend gasoline prices",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTFRnN3lrWTZLMXNUSW1MWWwxemVSc1RuaDM1dnhkWlZpbDJZT2t5dGYxRWlMa1RiblhPN0ttUzRHUDcwUGRVVEsyb092RTAzR3lZeDN6dFpRVDN4SjhlYng0Y082RjJSVEVZWkg4SnZ2SGtaNW1DbExVTklPMXZHdnVWZTZqbUZ6QkRYMU1mLWhyeEF5VzQ2anpJaThuVmNxSF8xWTBDRkNJVzMybTV0Rlo5dlFiUFk?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Amerika'da İşçi Günü hafta sonunda rekor düzeyde benzin fiyatlarına çarptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-05T17:01:06.052136+00:00",
+  "type": "news",
+  "cluster_id": "c771feb7003d2"
+ },
+ {
   "title": "Putin'den 'saldırıyı durdurun' talimatı",
   "link": "https://www.sozcu.com.tr/putinden-kieve-yonelik-saldirilari-3-gun-durdurma-talimati-p355625",
   "source": "Sözcü",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-27T13:01:11.408988+00:00",
   "type": "news",
   "cluster_id": "c98d86f85f05c"
- },
- {
-  "title": "Ahbap soruşturmasında gözaltına alınan Hüseyin Başaran kimdir?",
-  "link": "https://www.dw.com/tr/ahbap-soruşturmasında-gözaltına-alınan-hüseyin-başaran-kimdir/a-78130166?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Ahbap Derneği soruşturmasında Başaran Yatırım Holding Başkanı Hüseyin Başaran gözaltına alındı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-27T13:01:11.408988+00:00",
-  "type": "news",
-  "cluster_id": "c6c9a9573d371"
- },
- {
-  "title": "Temel Conta işçileri 595 günlük direnişi sona erdirdi: Mücadele sürecek!",
-  "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/temel-conta-iscileri-595-gunluk-direnisi-sona-erdirdi-mucadele-surecek-2524228",
-  "source": "Cumhuriyet",
-  "summary_tr": "Temel Conta işçileri 595 günlük grevini sonlandırdı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-27T13:01:11.408988+00:00",
-  "type": "news",
-  "cluster_id": "cb6d6775f6cf1"
- },
- {
-  "title": "Gülistan Doku soruşturmasında 18 kişi gözaltına alındı, tutuklu vali Tuncel Sonel yeniden adliyede",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVozczI5RHJXWXBmT1p6N2FfdERFRlZwb1QzeVdCbWxaMFVkOGhORGFxazR2c1JXQTdGLTJuT3RrVVhudlhMS0VHSXJiMEZSN21CbUxVNm9Tc0ZKOWhMaU95bE96T1J4MzEyMENBZUFOeTFkVmVxNy1YaEJBQzc3cHJxV1ZWNzlpTkF0MVN5SmZVYlR6ZVlQZEVVN1A?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Gülistan Doku soruşturmasında 18 kişi gözaltına alındı; tutuklu vali Tuncel Sonel yeniden adliyeye çıktı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-27T13:01:11.408988+00:00",
-  "type": "news",
-  "cluster_id": "cd71b5637b5ed"
- },
- {
-  "title": "Kazakhstan's daily oil output halves after export terminal closure, source says",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeGgtaGpMYTdoS2Vxa1IzZHB2bnNFUy1RSlB0bEJDRUxhNkRReUhoTVlYdWs2WkpqeVlEZkpNQ0lwZjFuZVNGbVV6RUpZTFVJZmFpZHozVEU4aWlISVlLSVBZakhlejRWT2tyNTZ3YkZROUhFeF9IQlJRYVVwS1N5RmhITDZlclRUN3pPaENpc252dldyVWFZeWhQRW5Na1RnLUJMZVhLM0RmWHJ2aUUwZ3lNZGxxa044OWFFYmh2UkljN0NMNkhVOV96dDE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Kazakistan, ihracat terminalinin kapanması nedeniyle günlük petrol üretimini yarıya indirdi.",
-  "metric": "Kazakistan günlük petrol çıkışı 50% düştü",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-27T12:01:09.110732+00:00",
-  "type": "news",
-  "cluster_id": "cb4a243bc6a69"
- },
- {
-  "title": "Oil prices ease after US and Iran pause their attacks",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWEV4ZVVoYzRpR3ktNE51S0l4OFNXZTlPZWlYUkd2U01yalQzWkdQQjRheVplQ2I4YmN4Sk5BMEdIX2tvRDkyemVzVHdRaXZENGVqZ1hjbVF4RE9LT3plM19RNFVpd3pvQzZMQVdkS1VHTUlhU3FJV294R2FzcHBhT2x6eHk3UmtOU0F5aWgwQm1PeTNR?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD ve İran'ın saldırılarını durdurması sonrasında petrol fiyatları geriledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-27T12:01:09.110732+00:00",
-  "type": "news",
-  "cluster_id": "c601055b2cbac"
  }
 ]
