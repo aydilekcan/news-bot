@@ -1,5 +1,65 @@
 [
  {
+  "title": "Putin, Rus ordusuna gece yarısından itibaren 3 gün boyunca Kiev’e saldırmama talimatı verdi",
+  "link": "https://www.aa.com.tr/tr/dunya/putin-rus-ordusuna-gece-yarisindan-itibaren-3-gun-boyunca-kiev-e-saldirmama-talimati-verdi/4048197",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Putin, Rus ordusuna 3 gün boyunca Kiev'e saldırmama talimatı verdi; Kremlin sözcüsü Peskov açıklama yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-05T14:01:00.148647+00:00",
+  "type": "news",
+  "cluster_id": "c3dad0058cb05"
+ },
+ {
+  "title": "Putin, Rus ordusuna gece yarısından itibaren 3 gün boyunca Kieve saldırmama talimatı verdi",
+  "link": "https://www.trthaber.com/haber/dunya/putin-rus-ordusuna-gece-yarisindan-itibaren-3-gun-boyunca-kieve-saldirmama-talimati-verdi-955990.html",
+  "source": "TRT Haber",
+  "summary_tr": "Putin, Rus ordusuna 3 gün boyunca Kiev'e saldırmama talimatı verdi; Kremlin sözcüsü Peskov açıklama yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-05T14:01:00.148647+00:00",
+  "type": "news",
+  "cluster_id": "c3dad0058cb05"
+ },
+ {
+  "title": "Yunanistan'ın Tanagra Hava Üssü’nde düzenlenen gösteride savaş uçağı düştü",
+  "link": "https://www.aa.com.tr/tr/dunya/yunanistanin-tanagra-hava-ussu-nde-duzenlenen-gosteride-savas-ucagi-dustu/4048205",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Yunanistan'ın Tanagra Hava Üssü'nde hava gösterisi sırasında Phantom savaş uçağı düştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-05T14:01:00.148647+00:00",
+  "type": "news",
+  "cluster_id": "c5b092dd989c5"
+ },
+ {
+  "title": "Yunanistan'ın Tanagra Hava Üssünde düzenlenen gösteride savaş uçağı düştü",
+  "link": "https://www.trthaber.com/haber/dunya/yunanistanin-tanagra-hava-ussunde-duzenlenen-gosteride-savas-ucagi-dustu-955992.html",
+  "source": "TRT Haber",
+  "summary_tr": "Yunanistan'ın Tanagra Hava Üssü'nde hava gösterisi sırasında Phantom savaş uçağı düştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-05T14:01:00.148647+00:00",
+  "type": "news",
+  "cluster_id": "c5b092dd989c5"
+ },
+ {
+  "title": "Greek F-4 crashes during an air show near Athens",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWDhRUjlOUEk4X20tWWV0dzFUNXZGc0RyMzM2eEpqOS0xRnpfdXpxSUdWZXdoZkJZV3VpWlI1WEJCUFZiUWFvcEFMdmxFY1dDMkNDMDBBZmdzUmhXSlVxMndZdE5yUV9ST05BOHJjc3JvajRqVUlDYk1xTVdwX2d2bnBXRzVVVWg2TUxIUnpxTzUtZGpBUHp2OW1UTE5CbVlYS1lfTXNOVk9RSXotVjFSdDBnR3Jsa0MtSzlMbk44TnI?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Yunanistan'ın Tanagra Hava Üssü'nde hava gösterisi sırasında Grec F-4 savaş uçağı düştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-05T14:01:00.148647+00:00",
+  "type": "news",
+  "cluster_id": "c1778ebf231cf"
+ },
+ {
   "title": "Witkoff ve Kushner Moskova'ya ulaştı",
   "link": "https://www.sozcu.com.tr/witkoff-ve-kushner-moskovaya-ulasti-baris-teklifiyle-geldiler-p355599",
   "source": "Sözcü",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-27T10:01:17.600123+00:00",
   "type": "news",
   "cluster_id": "ca97d77159ae9"
- },
- {
-  "title": "İsrailli eski güvenlik yetkililerinden Trump'a \"Yahudi terörüne\" karşı Netanyahu'ya baskı çağrısı",
-  "link": "https://www.aa.com.tr/tr/dunya/israilli-eski-guvenlik-yetkililerinden-trumpa-yahudi-terorune-karsi-netanyahuya-baski-cagrisi/4010321",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrailli eski güvenlik yetkililerinden Trump'a Netanyahu'ya baskı yapması çağrısı yapıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-27T10:01:17.600123+00:00",
-  "type": "news",
-  "cluster_id": "caf43a92f3e46"
- },
- {
-  "title": "İsrail'in ateşkese rağmen Gazze'ye düzenlediği saldırılarda son 24 saatte 3 Filistinli hayatını kaybetti",
-  "link": "https://www.aa.com.tr/tr/dunya/israilin-ateskese-ragmen-gazzeye-duzenledigi-saldirilarda-son-24-saatte-3-filistinli-hayatini-kaybetti/4010298",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail ordusunun ateşkese rağmen Gazze'ye saldırılarında son 24 saatte 3 Filistinli hayatını kaybetti; toplam ölü sayısı 73.329.",
-  "metric": "Gazze ölümü: 73.326 -> 73.329 (+3)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-27T10:01:17.600123+00:00",
-  "type": "news",
-  "cluster_id": "c3471d8797535"
- },
- {
-  "title": "Soykırımcı İsrail'in ateşkese rağmen Gazze'ye düzenlediği saldırılarda son 24 saatte 3 Filistinli hayatını kaybetti",
-  "link": "https://www.trthaber.com/haber/dunya/soykirimci-israilin-ateskese-ragmen-gazzeye-duzenledigi-saldirilarda-son-24-saatte-3-filistinli-hayatini-kaybetti-952313.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail ordusunun ateşkese rağmen Gazze'ye saldırılarında son 24 saatte 3 Filistinli hayatını kaybetti.",
-  "metric": "Gazze ölümü: 73.326 -> 73.329 (+3)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-27T10:01:17.600123+00:00",
-  "type": "news",
-  "cluster_id": "c3471d8797535"
- },
- {
-  "title": "Ahbap soruşturması: 13 kişi daha gözaltına alındı, ünlü isimler ifadeye çağrıldı",
-  "link": "https://www.bbc.com/turkce/articles/ckg4xd9wzn4o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Ahbaplar Suç Örgütü soruşturmasında İstanbul'da 13 kişi gözaltına alındı; Uğur Dündar, Gülben Ergen gibi ünlü isimler ifadeye çağrıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-27T10:01:17.600123+00:00",
-  "type": "news",
-  "cluster_id": "ce7b7926d4ff9"
- },
- {
-  "title": "İsrail ordusu işgalini sürdürdüğü Suriye'nin güneyine havadan \"tehdit broşürleri\" bıraktı",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-isgalini-surdurdugu-suriyenin-guneyine-havadan-tehdit-brosurleri-birakti/4010320",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail ordusu, işgalini sürdürdüğü Suriye güneyine havadan tehdit broşürleri bıraktı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-27T10:01:17.600123+00:00",
-  "type": "news",
-  "cluster_id": "cb30d1f0ba244"
  }
 ]
