@@ -1,5 +1,41 @@
 [
  {
+  "title": "ABD, İran'ın 2 ABD savaş gemisini hedef almasının ardından 3 İran tankerini vurduğunu açıkladı",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-iranin-2-abd-savas-gemisini-hedef-almasinin-ardindan-3-iran-tankerini-vurdugunu-acikladi/4048244",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD ordusu, İran'ın 2 ABD savaş gemisini hedef almasının ardından Devrim Muhafızları'na ait 3 tankeri yok ettiğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-05T15:01:05.532236+00:00",
+  "type": "news",
+  "cluster_id": "cde2f3f181aac"
+ },
+ {
+  "title": "ABD ordusu: Devrim Muhafızları'na ait 3 tankeri yok ettik",
+  "link": "https://www.trthaber.com/haber/dunya/abd-ordusu-devrim-muhafizlarina-ait-3-tankeri-yok-ettik-955995.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD ordusu, İran'ın 2 ABD savaş gemisini hedef almasının ardından Devrim Muhafızları'na ait 3 tankeri yok ettiğini duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-05T15:01:05.532236+00:00",
+  "type": "news",
+  "cluster_id": "cdbe9339d0dbd"
+ },
+ {
+  "title": "Rusya'nın Berlin Büyükelçisi: NATO ile savaş istemiyoruz",
+  "link": "https://www.dw.com/tr/rusya-nın-berlin-büyükelçisi-nato-ile-savaş-istemiyoruz/a-79047856?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Rus Büyükelçi, NATO ile savaş istemediğini ve Leipzig Büyükelçiliği sabotajından sorumlu olmadıklarını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-05T15:01:05.532236+00:00",
+  "type": "news",
+  "cluster_id": "c2a6c09d3409b"
+ },
+ {
   "title": "Putin, Rus ordusuna gece yarısından itibaren 3 gün boyunca Kiev’e saldırmama talimatı verdi",
   "link": "https://www.aa.com.tr/tr/dunya/putin-rus-ordusuna-gece-yarisindan-itibaren-3-gun-boyunca-kiev-e-saldirmama-talimati-verdi/4048197",
   "source": "Anadolu Ajansı",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-27T11:01:08.576041+00:00",
   "type": "news",
   "cluster_id": "cb056a7187ea1"
- },
- {
-  "title": "Üniversite kontenjanları sil baştan değişti: Tam 16 kat büyüdü",
-  "link": "https://www.sozcu.com.tr/universite-kontenjanlari-sil-bastan-degisti-tam-16-kat-buyudu-p340120",
-  "source": "Sözcü",
-  "summary_tr": "Yükseköğretim Kurulu, üniversite kontenjanlarını 16 kat artırarak iş gücü piyasasının ihtiyaçlarına göre yeniden şekillendirdi.",
-  "metric": "Üniversite kontenjanları artış oranı: 16 kat (+1500%)",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-27T11:01:08.576041+00:00",
-  "type": "news",
-  "cluster_id": "c5d79fc899773"
- },
- {
-  "title": "ABD İran'da su tesislerini vurdu, on binler susuz kaldı",
-  "link": "https://www.dw.com/tr/abd-iran-da-su-tesislerini-vurdu-on-binler-susuz-kaldı/a-78128057?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "ABD, İran'ın güneyindeki su tesislerini vurdu; on binlerce kişinin suya erişimi risk altında.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-27T10:01:17.600123+00:00",
-  "type": "news",
-  "cluster_id": "c9076ff5550e0"
- },
- {
-  "title": "Türk tekstil devi konkordato ilan etti: Dünya markalarına üretim yapıyordu...",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/turk-tekstil-devi-konkordato-ilan-etti-dunya-markalarina-uretim-yapiyordu-2524168",
-  "source": "Cumhuriyet",
-  "summary_tr": "Tekstil devi FORE A.Ş., mali yapısındaki bozulma nedeniyle konkordato ilan etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-27T10:01:17.600123+00:00",
-  "type": "news",
-  "cluster_id": "ca97d77159ae9"
  }
 ]
