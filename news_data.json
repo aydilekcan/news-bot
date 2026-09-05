@@ -1,5 +1,17 @@
 [
  {
+  "title": "#İstihdam Verileri",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45S3M0MF96X1NKbjBIeWFROFRpam11Z1phaHBUTDBGSk9YX2VIQ1lVeWpILXVSSWF0b3hJUjJ2WWRwSGxRRjhhVUo1eV9pSUEwZGxHVl85aFFXQnVOSE1BUVlGbw?oc=5",
+  "source": "T24",
+  "summary_tr": "T24 istihdam verilerini yayınladı. İşsizlik oranı ve istiyaç göstergeleri hakkında güncel veri sunuluyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-05T03:01:02.257377+00:00",
+  "type": "news",
+  "cluster_id": "c7c2ea0151c39"
+ },
+ {
   "title": "Alım süreçlerini Devlet Malzeme Ofisi yürütüyor: Kamu bankaları da TOGG’a geçiyor",
   "link": "https://www.cumhuriyet.com.tr/turkiye/alim-sureclerini-devlet-malzeme-ofisi-yurutuyor-kamu-bankalari-da-togg-a-geciyor-2534975",
   "source": "Cumhuriyet",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-26T19:01:07.771958+00:00",
   "type": "news",
   "cluster_id": "c8c3cfbbe14c8"
- },
- {
-  "title": "The suspect in the deadly Berlin Pride attack is killed in a confrontation with police",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUk1peTczYkVuampNNFg3QXNzcV9acU1tTndtdXl3dFcwT01hZGJxUzQ5b2ZfckltZnJaLWpzVXdZcmlpQl93cFJqWWFxa3RmLTdkWlhDTTBnX3RMUGtvejhDWDJmRVEwTWl3ZWJHNlhubWRwOWFoYjdKWHBXakxPRVhqSnNkb1UwczFCaF82YnpuZEk4bVdwdzc4RC1sSEtwS2RDTXRsVDA?oc=5",
-  "source": "AP",
-  "summary_tr": "Berlin Pride saldırısının şüphelisi polis kuvvetleriyle çatışmada öldürüldü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-26T19:01:07.771958+00:00",
-  "type": "news",
-  "cluster_id": "cbdd3801b519f"
  }
 ]
