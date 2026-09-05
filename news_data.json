@@ -1,5 +1,77 @@
 [
  {
+  "title": "Witkoff ve Kushner Moskova'ya ulaştı",
+  "link": "https://www.sozcu.com.tr/witkoff-ve-kushner-moskovaya-ulasti-baris-teklifiyle-geldiler-p355599",
+  "source": "Sözcü",
+  "summary_tr": "Trump'ın Orta Doğu Özel Temsilcisi Witkoff ve damadı Kushner Moskova'ya ulaştı; Rusya-Ukrayna barış görüşmeleri başlatılıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-05T13:01:03.919988+00:00",
+  "type": "news",
+  "cluster_id": "c689483f0ae63"
+ },
+ {
+  "title": "Mazlum Abdi Şam’a taşınıyor: Yeni görevi ve yetkileri belli oldu",
+  "link": "https://www.cumhuriyet.com.tr/dunya/mazlum-abdi-sam-a-tasiniyor-yeni-gorevi-ve-yetkileri-belli-oldu-2535117",
+  "source": "Cumhuriyet",
+  "summary_tr": "YPG lideri Mazlum Abdi, Şam yönetiminde Cumhurbaşkanlığı Danışmanı olarak yeni görevine başladı; görev ayrıntıları açıklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-05T13:01:03.919988+00:00",
+  "type": "news",
+  "cluster_id": "cd34e5c572418"
+ },
+ {
+  "title": "Selahattin Demirtaş tarih verdi: 'Mızraklı tahliye oluyor'",
+  "link": "https://www.sozcu.com.tr/selahattin-demirtas-tarih-verdi-mizrakli-tahliye-oluyor-p355601",
+  "source": "Sözcü",
+  "summary_tr": "HDP eski Başkanı Selahattin Demirtaş, 7 yıl cezaevinde tutulan eski Diyarbakır Milletvekili Ahmet Türk'ün tahliyesinin yakın olduğunu duyurdu.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-05T13:01:03.919988+00:00",
+  "type": "news",
+  "cluster_id": "c8a3fb51b3bd8"
+ },
+ {
+  "title": "Mevduatta kazanç oranları değişti: 200 bin TL'nin getirisi sınırı aştı",
+  "link": "https://www.sozcu.com.tr/mevduatta-kazanc-oranlari-degisti-200-bin-tl-nin-getirisi-siniri-asti-p355598",
+  "source": "Sözcü",
+  "summary_tr": "Eylül ayında bankaların mevduat faiz oranları güncellendi; 200 bin TL tutarındaki mevduatta getiri sınırlaması aşıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-05T13:01:03.919988+00:00",
+  "type": "news",
+  "cluster_id": "c92eb886d4906"
+ },
+ {
+  "title": "İki şehir arasındaki 14 saatlik seyahat süresi 3,5 saate inecek: Bakan detayları açıkladı",
+  "link": "https://www.sozcu.com.tr/iki-sehir-arasindaki-14-saatlik-seyahat-suresi-3-5-saate-inecek-bakan-detaylari-acikladi-p355608",
+  "source": "Sözcü",
+  "summary_tr": "Ulaştırma Bakanı Uraloğlu, İzmir-Menemen Tarihi Gediz Köprüsü restore çalışmasını tamamladı; seyahat süresi 14 saatten 3,5 saate inecek.",
+  "metric": "Seyahat süresi 14 saat -> 3,5 saat",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-05T13:01:03.919988+00:00",
+  "type": "news",
+  "cluster_id": "c0a1d7dcd1825"
+ },
+ {
+  "title": "Ankara'nın 8 aydaki ihracatı geçen yıla göre yüzde 20,7 arttı",
+  "link": "https://www.trthaber.com/haber/turkiye/ankaranin-8-aydaki-ihracati-gecen-yila-gore-yuzde-207-artti-955988.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ankara'nın ocak-ağustos ihracatı geçen yılın aynı dönemine göre yüzde 20,7 artış kaydederek 12 milyar 156 milyon dolara ulaştı.",
+  "metric": "Ankara ihracatı (ocak-ağustos) %20,7 arttı -> 12 milyar 156 milyon dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-05T13:01:03.919988+00:00",
+  "type": "news",
+  "cluster_id": "cfb488d37b739"
+ },
+ {
   "title": "Trump'ın özel temsilcileri Steve Witkoff ve Jared Kushner, Moskova'ya ulaştı",
   "link": "https://www.aa.com.tr/tr/dunya/trumpin-ozel-temsilcileri-steve-witkoff-ve-jared-kushner-moskovaya-ulasti/4048128",
   "source": "Anadolu Ajansı",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-27T10:01:17.600123+00:00",
   "type": "news",
   "cluster_id": "cb30d1f0ba244"
- },
- {
-  "title": "Güney Kore'de eski Devlet Başkanı Yoon'a seçim yasasını ihlalden tecilli 18 ay hapis cezası",
-  "link": "https://www.aa.com.tr/tr/dunya/guney-korede-eski-devlet-baskani-yoona-secim-yasasini-ihlalden-tecilli-18-ay-hapis-cezasi/4010291",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Güney Kore mahkemesi, eski Devlet Başkanı Yoon Suk Yeol'u 2022 seçim kampanyasında seçim yasasını ihlalden tecilli 18 ay hapis cezasına mahkum etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-27T10:01:17.600123+00:00",
-  "type": "news",
-  "cluster_id": "ca586bbc1a54c"
- },
- {
-  "title": "İran Dışişleri Bakanlığı Sözcüsü: ABD'nin savaş ve barış zamanını belirlemesine izin vermedik, vermeyeceğiz",
-  "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakanligi-sozcusu-abdnin-savas-ve-baris-zamanini-belirlemesine-izin-vermedik-vermeyecegiz/4010288",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran Dışişleri Sözcüsü: ABD'nin savaş ve barış zamanını belirlemesine izin vermedik, vermeyeceğiz.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-27T10:01:17.600123+00:00",
-  "type": "news",
-  "cluster_id": "c24efb03c145c"
- },
- {
-  "title": "İran: ABD'nin savaş ve barış zamanını belirlemesine izin vermedik, vermeyeceğiz",
-  "link": "https://www.trthaber.com/haber/dunya/iran-abdnin-savas-ve-baris-zamanini-belirlemesine-izin-vermedik-vermeyecegiz-952312.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Dışişleri Sözcüsü: ABD'nin savaş ve barış zamanını belirlemesine izin vermedik, vermeyeceğiz.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-27T10:01:17.600123+00:00",
-  "type": "news",
-  "cluster_id": "c24efb03c145c"
- },
- {
-  "title": "7 belediye başkanının yargılandığı suç örgütü davasında 57. duruşma tamamlandı",
-  "link": "https://www.trthaber.com/haber/gundem/7-belediye-baskaninin-yargilandigi-suc-orgutu-davasinda-57-durusma-tamamlandi-952317.html",
-  "source": "TRT Haber",
-  "summary_tr": "7 belediye başkanının aralarında bulunduğu 200 sanığın yargılandığı suç örgütü davasında 57. duruşma tamamlandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-27T10:01:17.600123+00:00",
-  "type": "news",
-  "cluster_id": "c933bb95270c7"
- },
- {
-  "title": "Ahbap soruşturması: Uğur Dündar, Gülben Ergen, Hayko Cepkin dahil 5 ünlü ifade verecek",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaDdlZmdDUkZRYmk3ZzlHbjdJQ0tualV1RTBKQ1luNXVfbC1zMDF4dVFxSHhDbHVfUFZaazdnMlR5Q1hBVXk5NVczWVNxLTg3RV9ZZmZaU3VyTm1JaVhrdWFEcFR1X1c5Q29LSjV3ZnpSa2JSVXZMcEZYU1JMZlZFMjNYdWtqdUxOcWs0Q0Y2QlZuUGRMVTdTUm10bklUSHZIM1JUNzh5aWd2aktLaWtrSUNmTGNaWmlm?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Ahbap soruşturmasında Uğur Dündar, Gülben Ergen, Hayko Cepkin dahil 5 ünlü ifade verecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-27T10:01:17.600123+00:00",
-  "type": "news",
-  "cluster_id": "c01928b7a98e6"
- },
- {
-  "title": "Gold climbs 1% as U.S.-Iran truce pressures oil; all eyes on Fed meeting",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVHhXdm1LMW9wUmp6UHctWldmTGpCQWlBOWVTdk5GeEtuMzNYQU42TGlWWXQtSDAxeE1aa3JvNFRDRUx6WVB5eGliS21TMEluRkJEUndXeHE1MUYzUVZlZG9CQ1V4VXFITFIyMEhJNUNlczhueTJpX2FjbFBoSmVkSnZJX0pQOS05RExueWpHMGpRMElqUTBVV0lqajBCRG9Kc1E?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Altın %1 yükseldi; ABD-İran ateşkes görüşmeleri petrol fiyatlarını baskıladı; piyasalar Fed toplantısını bekliyor.",
-  "metric": "Altın +%1",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-27T10:01:17.600123+00:00",
-  "type": "news",
-  "cluster_id": "c27debb5e766f"
  }
 ]
