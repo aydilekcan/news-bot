@@ -1,5 +1,29 @@
 [
  {
+  "title": "İnternetten satış yapanları ilgilendiren karar! İkinci elde \"vergisiz satış\" devri bitti",
+  "link": "https://www.sozcu.com.tr/internetten-satis-yapanlari-ilgilendiren-karar-ikinci-elde-vergisiz-satis-devri-bitti-p355499",
+  "source": "Sözcü",
+  "summary_tr": "İkinci el ürünlerin dijital platformlardaki vergisiz satışı sona erdi. Resmi Gazete kararıyla tüm alım-satım işlemleri Vergi Dairesi tarafından kontrol edilecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-05T05:01:02.208571+00:00",
+  "type": "news",
+  "cluster_id": "c8f4b4a985c6b"
+ },
+ {
+  "title": "88 yıllık dev fabrika kapandı: Ünlü kahvaltılık gevrek markasından radikal karar",
+  "link": "https://www.sozcu.com.tr/88-yillik-dev-fabrika-kapandi-unlu-kahvaltilik-gevrek-markasindan-radikal-karar-p355497",
+  "source": "Sözcü",
+  "summary_tr": "Kellogg's'un İngiltere'deki Trafford Park fabrikası 88 yıl sonra kapandı. Üretim Galler'e taşınacak.",
+  "metric": "88 yıllık fabrika -> kapatıldı",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-05T05:01:02.208571+00:00",
+  "type": "news",
+  "cluster_id": "c5de8f773d7a9"
+ },
+ {
   "title": "#İstihdam Verileri",
   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45S3M0MF96X1NKbjBIeWFROFRpam11Z1phaHBUTDBGSk9YX2VIQ1lVeWpILXVSSWF0b3hJUjJ2WWRwSGxRRjhhVUo1eV9pSUEwZGxHVl85aFFXQnVOSE1BUVlGbw?oc=5",
   "source": "T24",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-26T19:01:07.771958+00:00",
   "type": "news",
   "cluster_id": "c312a17529e4b"
- },
- {
-  "title": "İsrail'in Batı Şeria'daki şiddeti sürüyor",
-  "link": "https://www.aa.com.tr/tr/dunya/israilin-bati-seriadaki-siddeti-suruyor/4009971",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail ordusu Batı Şeria'da şiddet uygulamaya devam ediyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-26T19:01:07.771958+00:00",
-  "type": "news",
-  "cluster_id": "cef4dc23a6304"
- },
- {
-  "title": "Berlin’de Onur Yürüyüşü saldırısının şüphelisi polis tarafından vurularak öldürüldü",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYUtWT0hJbHI3MHpHalE1eEJzclVPd3U4eDJFNlIwaGNTWDIydVBaTXVBYTU2em85cWsyUjdfeDQ1cDdQb2p3YlhPb3RlRHQ1dFJnQ05XQW9yZVVPeUFLVDVha0M2UXh3STBJY1lySjFUaDdiREV5UWVidDZzZWJOYzE3Q29raUNVZUVBd21YRGtQb0czSzB1dE1BMUNMcF9pZlJNSnpMdU9jTVNaM0l6a0JXRk8xREdCUkJHVw?oc=5",
-  "source": "soL",
-  "summary_tr": "Berlin Onur Yürüyüşü saldırısının şüphelisi polis tarafından vurularak öldürüldü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-26T19:01:07.771958+00:00",
-  "type": "news",
-  "cluster_id": "c8c3cfbbe14c8"
  }
 ]
