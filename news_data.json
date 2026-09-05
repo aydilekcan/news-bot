@@ -1,5 +1,41 @@
 [
  {
+  "title": "Erdoğan imzaladı... 12 ülkeye büyükelçi ataması kararı Resmi Gazete'de",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/erdogan-imzaladi-12-ulkeye-buyukelci-atamasi-karari-resmi-gazete-de-2535027",
+  "source": "Cumhuriyet",
+  "summary_tr": "Cumhurbaşkanı Erdoğan 12 ülkeye büyükelçi atama kararı imzaladı; atamalar Resmi Gazete'de yayımlandı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-09-05T06:00:59.837343+00:00",
+  "type": "news",
+  "cluster_id": "c4ff93d78fa5b"
+ },
+ {
+  "title": "Para piyasası fonlarında vergi sürprizi: Sıfır stopaj dönemi sona erdi!",
+  "link": "https://www.sozcu.com.tr/para-piyasasi-fonlarinda-vergi-surprizi-sifir-stopaj-donemi-sona-erdi-p355501",
+  "source": "Sözcü",
+  "summary_tr": "Para piyasası fon kazançlarındaki vergi muafiyeti kaldırıldı; stopaj uygulanmaya başlandı.",
+  "metric": "Stopaj oranı %0 -> geçerli oran (%)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-05T06:00:59.837343+00:00",
+  "type": "news",
+  "cluster_id": "c2a4f3395ff6c"
+ },
+ {
+  "title": "Para piyasası fonlarında stopaj oranı değişti",
+  "link": "https://www.trthaber.com/haber/ekonomi/para-piyasasi-fonlarinda-stopaj-orani-degisti-955956.html",
+  "source": "TRT Haber",
+  "summary_tr": "Para piyasası fonlarında stopaj oranı değiştirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-05T06:00:59.837343+00:00",
+  "type": "news",
+  "cluster_id": "cc63a8bc5ad81"
+ },
+ {
   "title": "İnternetten satış yapanları ilgilendiren karar! İkinci elde \"vergisiz satış\" devri bitti",
   "link": "https://www.sozcu.com.tr/internetten-satis-yapanlari-ilgilendiren-karar-ikinci-elde-vergisiz-satis-devri-bitti-p355499",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-26T19:01:07.771958+00:00",
   "type": "news",
   "cluster_id": "c38424f8cb50e"
- },
- {
-  "title": "Israel to allow international force into Gaza, Israeli official says",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWDN6bHZnREFweVoxWXV3U3RxRk0zVmdxYTJ2X0tXdFlPaUNIOXp0NDVKaUZqb1lmQWMxRVo5eGwybWF6MVJIYmdGSm13M0RFTXdXUHV5M28wLXJrNUNrVkhXdzJLem1QLTJHOU80X2ZraGRZZUM4aXY3aUFGYkdtOTlXWVBlNUR4UHFNMXBtRkxGLW1qc292bVljZ3dLa2pJMGUxOGRockNULXdMLWhYTHk2UWxmaDgwd2QyWGZXYWUtZkhVYU43Z2VFZW0?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İsrail, uluslararası güç birlikleri için Gazze'ye giriş izni vereceğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-26T19:01:07.771958+00:00",
-  "type": "news",
-  "cluster_id": "ceeb9e2559238"
- },
- {
-  "title": "Öztrak, Grup Başkanı seçildi... Seçimden çekilen CHP'li Gürsel Erol: 'Bir gerçeği açıkça ifade etmek zorundayım'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/oztrak-grup-baskani-secildi-secimden-cekilen-chp-li-gursel-erol-bir-gercegi-acikca-ifade-etmek-zorundayim-2524024",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Grup Başkanlığına Faik Öztrak seçildi; Kılıçdaroğlu başkanlığındaki etkinlikte figüran krizi yaşanmıştı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-26T19:01:07.771958+00:00",
-  "type": "news",
-  "cluster_id": "ca1257da139bb"
- },
- {
-  "title": "Kılıçdaroğlu'nun üye etkinliğinde 'figüran' krizi... Gürsel Tekin şikayetçi oldu: Savcılık soruşturma başlattı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/kilicdaroglu-nun-uye-etkinliginde-figuran-krizi-savcilik-sorusturma-baslatildigini-duyurdu-2524022",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP üye etkinliğinde figüran kullanılması nedeniyle İstanbul Savcılığı soruşturma başlattı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-26T19:01:07.771958+00:00",
-  "type": "news",
-  "cluster_id": "c312a17529e4b"
  }
 ]
