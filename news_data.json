@@ -1,5 +1,41 @@
 [
  {
+  "title": "İki Türkiye",
+  "link": "https://www.cumhuriyet.com.tr/yazarlar/veysel-ulusoy/iki-turkiye-2535209",
+  "source": "Cumhuriyet",
+  "summary_tr": "Türkiye'nin kişi başına geliri 2025'te 18 bin 40 dolara yükseldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-06T02:01:02.052881+00:00",
+  "type": "news",
+  "cluster_id": "cbb3db6b18c5c"
+ },
+ {
+  "title": "Atakum Belediyesi’nde işçiler aylardır maaş bekliyor: ‘Sadaka değil ücretimizi istiyoruz’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/atakum-belediyesi-nde-isciler-aylardir-maas-bekliyor-sadaka-degil-ucretimizi-istiyoruz-2535231",
+  "source": "Cumhuriyet",
+  "summary_tr": "Atakum Belediyesi'nde işçiler aylardır maaş alamıyor; DİSK temsilcileri meclis toplantısında talep etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-06T02:01:02.052881+00:00",
+  "type": "news",
+  "cluster_id": "cb5091e6f2819"
+ },
+ {
+  "title": "Vergi avantajı bitti yabancıya %10 stopaj",
+  "link": "https://www.sozcu.com.tr/vergi-avantaji-bitti-yabanciya-10-stopaj-p355677",
+  "source": "Sözcü",
+  "summary_tr": "Para piyasası fonlarında yabancı kurumsal yatırımcılara uygulanan stopaj %0'dan %10'a çıkarıldı.",
+  "metric": "Yabancı kurumsal yatırımcı stopajı %0 -> %10",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-06T02:01:02.052881+00:00",
+  "type": "news",
+  "cluster_id": "c3b4b1dc64fd4"
+ },
+ {
   "title": "US ambassador calls violent Israeli settlers ‘terrorists’ after weeks of West Bank unrest",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdEtQeGdOOG0tWlByeVhITXFPWm02dzVPbG9Za1huS05sN0xJTldVT2h0d284R3JKMEUwMnd1ZUE5VkFTV2hQbTdlNlIzRzVIRDBNaDJ1QU9Ya1o3OW1hRWdsTUVEVlVCSzhKZDZOaDZHZUhvVnFoaTIwYWdFZURRQ1VsVG1lMUV4amFwSVdUQkpDMHZJSHZxb1NkcDQxWTR4UzlmOXY0U1hNaEtiUFE?oc=5",
   "source": "AP",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-27T18:01:11.940996+00:00",
   "type": "news",
   "cluster_id": "c9730b498df8e"
- },
- {
-  "title": "ABD Başkanı Trump'tan Netanyahu'nun Türkiye'ye F-35 satışına karşı çıkmasına yanıt",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trumptan-netanyahunun-turkiyeye-f-35-satisina-karsi-cikmasina-yanit/4010805",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Trump, İsrail Başbakanı Netanyahu'nun Türkiye'ye F-35 satışına karşı çıkmasına yanıt vererek ABD'nin bu konudaki kararı verme yetkisinin kendisinde olduğunu belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-27T18:01:11.940996+00:00",
-  "type": "news",
-  "cluster_id": "c18f3a375a16a"
- },
- {
-  "title": "Bolat: AB'deki korumacılık dalgaları karşısında, ekonomimizin olumsuz etkilenmemesi için müzakerelerimiz sürdürülüyor",
-  "link": "https://www.aa.com.tr/tr/ekonomi/bolat-abdeki-korumacilik-dalgalari-karsisinda-ekonomimizin-olumsuz-etkilenmemesi-icin-muzakerelerimiz-surduruluyor/4010636",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Ticaret Bakanı Ömer Bolat, AB'deki korumacılık dalgalarına karşı Türk ekonomisini korumak için müzakerelere devam ettiklerini açıkladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-27T17:01:12.860966+00:00",
-  "type": "news",
-  "cluster_id": "c735b324e44b1"
- },
- {
-  "title": "Rusya Devlet Başkanı Putin, ordudaki personel sayısını 2 milyon 426 bin 130'a çıkardı",
-  "link": "https://www.aa.com.tr/tr/dunya/rusya-devlet-baskani-putin-ordudaki-personel-sayisini-2-milyon-426-bin-130a-cikardi/4010732",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Putin Rus ordusundaki personel sayısını 2 milyon 426 bin 130'a çıkaran kararnameyi imzaladı.",
-  "metric": "Rus ordu personeli: 2.426.130",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-07-27T16:01:07.342174+00:00",
-  "type": "news",
-  "cluster_id": "cb1a15be0fd46"
  }
 ]
