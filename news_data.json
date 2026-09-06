@@ -1,5 +1,17 @@
 [
  {
+  "title": "Emekliye yapılacak zam netleşiyor: Bu iki rakamdan biri olacak",
+  "link": "https://www.sozcu.com.tr/emekliye-yapilacak-zam-netlesiyor-bu-iki-rakamdan-biri-olacak-p355712",
+  "source": "Sözcü",
+  "summary_tr": "SSK ve Bağ-Kur emekli zammı yılın kalanında oluşacak enflasyon tablosuna göre %10'un üzerine çıkması bekleniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-06T06:00:57.283632+00:00",
+  "type": "news",
+  "cluster_id": "ca8108e4d2ff1"
+ },
+ {
   "title": "İsrail ordusu Lübnan'ın güneyindeki bir binaya saldırı tehdidinde bulundu",
   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-lubnanin-guneyindeki-bir-binaya-saldiri-tehdidinde-bulundu/4048502",
   "source": "Anadolu Ajansı",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-27T19:01:14.169688+00:00",
   "type": "news",
   "cluster_id": "c03276359d987"
- },
- {
-  "title": "Trump says he is ready for military action if Iran talks fail, Axios reports",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNHNmNWt0aXlJdzB3MVVnbUhaOXkwZUhkWlp1RVF5YnpxU2t6R1c3b2VDM3h4LXh6cXJoMHU1RXg0SjU1MVhQMDc1a0tlbFRyYmY4VWFFWFRSRF9KZU91SjViZ0xJX2tCYVBtQ3E0N3hvRHVFOUdqOURqU0puUFdGWTV2c2FnTGZvR3N4NGwyZm44TG5JM3h6NU1BX3VpZW5remg0U3dJam9WQTJqdUdtaXZ0cGt3bjVETkxsOUc5d1N4VEU?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, İran müzakerelerinin başarısız olması durumunda askeri harekattan hazır olduğunu belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-27T18:01:11.940996+00:00",
-  "type": "news",
-  "cluster_id": "ceb866947cbf9"
  }
 ]
