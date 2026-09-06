@@ -1,5 +1,65 @@
 [
  {
+  "title": "Saksonya-Anhalt eyalatinde ilk sonuçlar: AfD yüzde 44'ün üzerinde",
+  "link": "https://www.dw.com/tr/saksonya-anhalt-eyalatinde-ilk-sonuçlar-afd-yüzde-44-ün-üzerinde/live-79070588?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Almanya'da Saksonya-Anhalt eyalet seçiminde aşırı sağcı AfD oyların yüzde 44'ünü aldı ancak mutlak çoğunluğu elde edemedi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-06T18:01:01.341227+00:00",
+  "type": "news",
+  "cluster_id": "caac6540fb7d7"
+ },
+ {
+  "title": "Almanya'da Saksonya-Anhalt eyalet seçimini aşırı sağcı AfD kazandı",
+  "link": "https://www.diken.com.tr/almanyada-saksonya-anhalt-eyalet-secimini-asiri-sagci-afd-kazandi/?utm_source=rss&utm_medium=rss&utm_campaign=almanyada-saksonya-anhalt-eyalet-secimini-asiri-sagci-afd-kazandi",
+  "source": "Diken",
+  "summary_tr": "Almanya'da Saksonya-Anhalt eyalet seçimini aşırı sağcı AfD kazandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-06T18:01:01.341227+00:00",
+  "type": "news",
+  "cluster_id": "c35e52b76db1e"
+ },
+ {
+  "title": "Almanya'da Saksonya-Anhalt eyalet meclisi seçimini aşırı sağcı AfD kazandı",
+  "link": "https://www.aa.com.tr/tr/dunya/almanyada-saksonya-anhalt-eyalet-meclisi-secimini-asiri-sagci-afd-kazandi/4049005",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Almanya'da Saksonya-Anhalt eyalet meclisi seçiminde aşırı sağcı AfD kazandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-06T18:01:01.341227+00:00",
+  "type": "news",
+  "cluster_id": "c35e52b76db1e"
+ },
+ {
+  "title": "Rusya yeniden 'savaş' dedi, o ülkeyi hedef aldı",
+  "link": "https://www.sozcu.com.tr/rusya-yeniden-savas-dedi-o-ulkeyi-hedef-aldi-p355864",
+  "source": "Sözcü",
+  "summary_tr": "Rusya Dışişleri Bakanı Lavrov, Almanya'ya yönelik savaş tehdidinde bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-06T18:01:01.341227+00:00",
+  "type": "news",
+  "cluster_id": "cf4eb390447f5"
+ },
+ {
+  "title": "Ukrayna-Rusya barışı için ABD'li temsilcilerin kıştan önce \"atılım beklediği\" iddia edildi",
+  "link": "https://www.aa.com.tr/tr/dunya/ukrayna-rusya-barisi-icin-abdli-temsilcilerin-kistan-once-atilim-bekledigi-iddia-edildi/4049016",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD temsilcileri Witkoff ve Kushner, kış başlamadan Ukrayna-Rusya barış anlaşması için atılım beklediğini ifade etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-06T18:01:01.341227+00:00",
+  "type": "news",
+  "cluster_id": "c2c9d42e3fc11"
+ },
+ {
   "title": "İsrail’in 2 Mart’tan bu yana Lübnan’a saldırılarında can kaybı 4 bin 362’ye yükseldi",
   "link": "https://www.aa.com.tr/tr/dunya/israil-in-2-mart-tan-bu-yana-lubnan-a-saldirilarinda-can-kaybi-4-bin-362-ye-yukseldi/4048972",
   "source": "Anadolu Ajansı",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-28T16:01:12.814600+00:00",
   "type": "news",
   "cluster_id": "c6382f2286a53"
- },
- {
-  "title": "Mediators see progress in efforts to halt Iran war as drone attacks rattle region",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa2M1am9JRVdmbUE2TTF1ZG5ya1dXNjVjdWUtVngzX09jamxQNk1idEJoNDBCY2Y2dlpURUpYb1Q3WTY0Qk84ZEd5V0FYaHVHakFGbmtKbEhOTy0xYmdLUnZIN3JlcS1yWXZTbnVTYlBlcVg5NUx2eGZFT0VmM0FhQkZYS2pZZHJJMlp4SmtVZkpKTmZwOTZOM2g1S3FtMGhYdWc?oc=5",
-  "source": "AP",
-  "summary_tr": "Arabulucular, İran savaşını durdurmak için ilerleme kaydettiklerini belirtirken bölgede insansız hava araçları saldırıları devam ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-28T15:01:13.996352+00:00",
-  "type": "news",
-  "cluster_id": "c781ffe893c10"
- },
- {
-  "title": "Merz’den İsrail yaptırımlarına ret: Genel yaptırımlara katılmayız",
-  "link": "https://www.cumhuriyet.com.tr/dunya/merz-den-israil-yaptirimlarina-ret-genel-yaptirimlara-katilmayiz-2524550",
-  "source": "Cumhuriyet",
-  "summary_tr": "Almanya Başbakanı Friedrich Merz, İsrail'e yönelik genel yaptırımları desteklemeyeceğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-28T15:01:13.996352+00:00",
-  "type": "news",
-  "cluster_id": "c292bf92881b9"
- },
- {
-  "title": "Pendik'te maaşlarını alamadığını belirten İETT çalışanlarından eylem",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/pendik-te-maaslarini-alamadigini-belirten-iett-calisanlarindan-eylem-2524554",
-  "source": "Cumhuriyet",
-  "summary_tr": "İETT Pendik garajında çalışan taşeron işçiler, maaşlarını alamadıkları için iş yavaşlatma eylemi başlattı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-28T15:01:13.996352+00:00",
-  "type": "news",
-  "cluster_id": "c560cf8484837"
- },
- {
-  "title": "Visa to lay off 7% of staff as efficiency push deepens",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLXRnQ0duQjJCZzk3eXl2dExidFJ6Q01OdHFDRnNMcDF5TE0yWE5jeHNuTFVRWk44NThVN1ppREZJbXNacDVldXpkM2FVZllJdmxlcThzN0d0V1duZEp1aUVVZWhuUzd4NU5MQlB0VmsxbnBqaVUzRFJmUzM2elFsWWNyTFFTVFptSXkxdTZXUXQ2bFB0NU9yVEs3T1Uta2o3ZEZkMXpn?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Visa, verimlilik artırımı kapsamında personelinin %7'sini işten çıkaracak.",
-  "metric": "Visa işten çıkarma %7",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-28T15:01:13.996352+00:00",
-  "type": "news",
-  "cluster_id": "caf835369d2f7"
- },
- {
-  "title": "YENİ Parti sonrası Meclis'te oturma düzeni değişti: TBMM Genel Kurulu, 7 siyasi parti grubuyla toplandı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/yeni-parti-sonrasi-meclis-te-oturma-duzeni-degisti-tbmm-genel-kurulu-7-siyasi-parti-grubuyla-toplandi-2524532",
-  "source": "Cumhuriyet",
-  "summary_tr": "YENİ Parti'nin kurulmasıyla TBMM'de siyasi parti grup sayısı 7'ye çıktı; Genel Kurul yeni dağılımla toplandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-28T14:01:19.464104+00:00",
-  "type": "news",
-  "cluster_id": "c87a84a053fd7"
  }
 ]
