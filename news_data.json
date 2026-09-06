@@ -1,5 +1,29 @@
 [
  {
+  "title": "İYİ Parti'den Orta Vadeli Program tepkisi: 'Enflasyon tahminlerindeki artış beceriksizliktir'",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/iyi-parti-den-orta-vadeli-program-tepkisi-enflasyon-tahminlerindeki-artis-beceriksizliktir-2535403",
+  "source": "Cumhuriyet",
+  "summary_tr": "İYİ Parti, Hazine'nin yeni Orta Vadeli Program'ında enflasyon tahminlerindeki artışı beceriksizlik olarak eleştirdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-06T15:01:02.361132+00:00",
+  "type": "news",
+  "cluster_id": "c53f57058da33"
+ },
+ {
+  "title": "Iran's Hormuz leverage wanes as US economic squeeze bites",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORkdaTTdQcUYwZTFzUm1OdFRGTGpYN012MkM3R0ZzZVZnV2dfTUxLbmF3RGdzakZiNWhhVEpqQzhyemo0am1yaDRmMlRJenQ5VzNJWmxGeWhOWVo5bW5FT1laODBqUkhGRlNCaWNLTHROWEVyVlk2Tmtxa3laLVJ4LVUwWTFXWlZrby13Vl95NVo4VDNCQkNmdHkyeXhIWU54NlNQc0Q0WXc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran'ın Hormuzdaki ekonomik kaldıracı, ABD'nin ekonomik baskısının artmasıyla zayıflamaktadır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-06T15:01:02.361132+00:00",
+  "type": "news",
+  "cluster_id": "c43a684465afd"
+ },
+ {
   "title": "Trump'ın temsilcileri Putin ile görüştü, Kiev'de Zelenskiy ile bir aradalar",
   "link": "https://www.bbc.com/turkce/articles/c14dkek2l51o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59968,30 +59992,6 @@
   "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-erdogan-dan-ahbap-dernegi-sorusturmasina-iliskin-ilk-aciklama-firsatcilik-yapanlar-bugun-adalete-hesap-veriyor-2524482",
   "source": "Cumhuriyet",
   "summary_tr": "Cumhurbaşkanı Erdoğan, Ahbap Derneği soruşturmasına ilişkin açıklama yaparak 'fırsatçılık yapanların adalete hesap verdiğini' söyledi.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-28T12:01:19.453316+00:00",
-  "type": "news",
-  "cluster_id": "c8bd5cd61b855"
- },
- {
-  "title": "Erdoğan'dan Haluk Levent hakkında ilk yorum",
-  "link": "https://www.sozcu.com.tr/erdogan-dan-haluk-levent-hakkinda-ilk-yorum-p340430",
-  "source": "Sözcü",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, Ahbap Derneği soruşturması nedeniyle Haluk Levent'in tutuklanmasına ilişkin ilk kez yorum yaptı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-28T12:01:19.453316+00:00",
-  "type": "news",
-  "cluster_id": "c8bd5cd61b855"
- },
- {
-  "title": "Erdoğan: Depremi kullanarak fırsatçılık yapanlar adalete hesap veriyor",
-  "link": "https://www.trthaber.com/haber/gundem/erdogan-depremi-kullanarak-firsatcilik-yapanlar-adalete-hesap-veriyor-952402.html",
-  "source": "TRT Haber",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, depremi fırsatçılık yapanların adalete hesap verdiğini söyledi.",
   "metric": "",
   "lean": "right",
   "score": 6,
