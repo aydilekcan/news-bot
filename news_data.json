@@ -1,5 +1,17 @@
 [
  {
+  "title": "İsrail ordusu Lübnan'ın güneyindeki bir binaya saldırı tehdidinde bulundu",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-lubnanin-guneyindeki-bir-binaya-saldiri-tehdidinde-bulundu/4048502",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusu Lübnan'ın güneyindeki Nebatiye yakınında Hizbullah'a ait olduğunu iddia ettiği bir binaya saldırı tehdidinde bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-06T05:01:00.438920+00:00",
+  "type": "news",
+  "cluster_id": "c49aeb20c2136"
+ },
+ {
   "title": "Ekonomide 3 yıllık yol haritası bugün açıklanacak",
   "link": "https://www.trthaber.com/haber/ekonomi/ekonomide-3-yillik-yol-haritasi-bugun-aciklanacak-956020.html",
   "source": "TRT Haber",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-27T18:01:11.940996+00:00",
   "type": "news",
   "cluster_id": "ceb866947cbf9"
- },
- {
-  "title": "Trump'tan 'F-35' resti: Kimse bana kime neyi satıp satmayacağımı söyleyemez",
-  "link": "https://www.diken.com.tr/trumptan-f-35-resti-kimse-bana-kime-neyi-satip-satmayacagimi-soyleyemez/?utm_source=rss&utm_medium=rss&utm_campaign=trumptan-f-35-resti-kimse-bana-kime-neyi-satip-satmayacagimi-soyleyemez",
-  "source": "Diken",
-  "summary_tr": "ABD Başkanı Trump, İsrail'in F-35 satışına karşı çıkmasına rağmen 'Kimse bana kime neyi satacağımı söyleyemez' diyerek Türkiye'ye satışın devam edeceğini belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-27T18:01:11.940996+00:00",
-  "type": "news",
-  "cluster_id": "cf60e00601b36"
  }
 ]
