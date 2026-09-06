@@ -1,5 +1,53 @@
 [
  {
+  "title": "Zelenskiy, ABD Başkanı Trump'ın özel temsilcileri Witkoff ve Kushner'le bir araya geldi",
+  "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-abd-baskani-trumpin-ozel-temsilcileri-witkoff-ve-kushnerle-bir-araya-geldi/4048955",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ukrayna Devlet Başkanı Zelenskiy, ABD Başkanı Trump'ın özel temsilcileri Witkoff ve Kushner ile savaşın sona erdirilmesine yönelik temaslarda bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-06T16:01:00.540084+00:00",
+  "type": "news",
+  "cluster_id": "c649a16dcdf83"
+ },
+ {
+  "title": "Rusya: Almanya'nın kararları gerçek bir savaşın başlangıcı",
+  "link": "https://www.aa.com.tr/tr/dunya/rusya-almanyanin-kararlari-gercek-bir-savasin-baslangici/4048949",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Rusya Dışişleri Bakanı Lavrov, Almanya'nın kararlarını 'gerçek bir savaşın başlangıcı' olarak nitelendirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-06T16:01:00.540084+00:00",
+  "type": "news",
+  "cluster_id": "cd8863ebe90c2"
+ },
+ {
+  "title": "İsrail’in Gazze’de bir araca düzenlediği saldırıda biri çocuk 2 Filistinli yaşamını yitirdi",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-in-gazze-de-bir-araca-duzenledigi-saldirida-biri-cocuk-2-filistinli-yasamini-yitirdi/4048948",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusunun Gazze'de bir araca düzenlediği saldırıda biri çocuk 2 Filistinli hayatını kaybetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-06T16:01:00.540084+00:00",
+  "type": "news",
+  "cluster_id": "cd74ce114a797"
+ },
+ {
+  "title": "'Chobani'nin sahibi Hamdi Ulukaya kararını açıkladı: Türkiye'ye yatırım yapacak mı?",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/chobani-nin-sahibi-hamdi-ulukaya-kararini-acikladi-turkiye-ye-yatirim-yapacak-mi-2535414",
+  "source": "Cumhuriyet",
+  "summary_tr": "Chobani'nin sahibi Hamdi Ulukaya Türkiye'ye yatırım yapıp yapmayacağını açıklayacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-06T16:01:00.540084+00:00",
+  "type": "news",
+  "cluster_id": "cd1f27861d90a"
+ },
+ {
   "title": "İYİ Parti'den Orta Vadeli Program tepkisi: 'Enflasyon tahminlerindeki artış beceriksizliktir'",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/iyi-parti-den-orta-vadeli-program-tepkisi-enflasyon-tahminlerindeki-artis-beceriksizliktir-2535403",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-28T12:01:19.453316+00:00",
   "type": "news",
   "cluster_id": "c55e2fb7f1319"
- },
- {
-  "title": "Küresel ekonomide enflasyon alarmı: Gözler dev merkez bankalarının faiz kararlarında",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/kuresel-ekonomide-enflasyon-alarmi-gozler-dev-merkez-bankalarinin-faiz-kararlarinda-2524479",
-  "source": "Cumhuriyet",
-  "summary_tr": "Küresel ekonomide enflasyon endişesi artıyor; jeopolitik gerilimler ve enerji fiyatları yükselmesiyle merkez bankaları faiz kararlarına dikkat çekiliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-28T12:01:19.453316+00:00",
-  "type": "news",
-  "cluster_id": "cab8510a4526f"
- },
- {
-  "title": "7 gün içinde itiraz etmeyen kredi kartı sahiplerinin maaşına haciz gelecek",
-  "link": "https://www.sozcu.com.tr/7-gun-icinde-itiraz-etmeyen-kredi-karti-sahiplerinin-maasina-haciz-gelecek-p340422",
-  "source": "Sözcü",
-  "summary_tr": "Kredi kartı borcunu 3 ay ödemeyenlerin maaşına haciz gelebileceği belirtiliyor; tüketici borçlanmasında yeni sıkı işletim kuralı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-28T12:01:19.453316+00:00",
-  "type": "news",
-  "cluster_id": "c1aff889b06b6"
- },
- {
-  "title": "Fitch warns AI market correction emerging as major global credit risk",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnVBTFdsSkpXUXYxYmFNSTF0dFRUWnBacGpRQnhBbnRiZ0dZR1ZfcHZ5QnlIY3NRMF95dUkzNTUzMDhBam9kak5LY3pFbHpMcXNUenhtOEtuQkRXT01xWU05TlZGNFc3d2ZXblZpSTcwNlNzUGQzYXN0UEJxbTRITURHQ1JROVhhRHM5TV9IV3U3QjRJdW5hMkY3ZkVMZUhuZTNsZDVPYTltcjFCd2s4VHJjMVo?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Fitch, yapay zeka pazar düzeltmesinin küresel kredi riski olarak ortaya çıktığı konusunda uyarı verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-28T12:01:19.453316+00:00",
-  "type": "news",
-  "cluster_id": "cc9f560528043"
- },
- {
-  "title": "Son Dakika... Erdoğan'dan 'Haluk Levent' hakkında ilk açıklama: 'Fırsatçılık yapanlar bugün adalete hesap veriyor'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-erdogan-dan-ahbap-dernegi-sorusturmasina-iliskin-ilk-aciklama-firsatcilik-yapanlar-bugun-adalete-hesap-veriyor-2524482",
-  "source": "Cumhuriyet",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, Ahbap Derneği soruşturmasına ilişkin açıklama yaparak 'fırsatçılık yapanların adalete hesap verdiğini' söyledi.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-28T12:01:19.453316+00:00",
-  "type": "news",
-  "cluster_id": "c8bd5cd61b855"
  }
 ]
