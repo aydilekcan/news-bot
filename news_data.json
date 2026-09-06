@@ -1,5 +1,77 @@
 [
  {
+  "title": "OVP açıklandı: 2026 sonu enflasyon tahmini yüzde 28,4",
+  "link": "https://www.dw.com/tr/ovp-açıklandı-2026-sonu-enflasyon-tahmini-yüzde-28-4/a-79055267?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Yeni Orta Vadeli Program'da 2026 sonu enflasyon tahmini yüzde 28,4 olarak revize edildi.",
+  "metric": "Enflasyon tahmini (2026 sonu) önceki OVP'den yüzde 28,4'e revize edildi",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-06T13:01:10.964285+00:00",
+  "type": "news",
+  "cluster_id": "c1b7b53e7c89b"
+ },
+ {
+  "title": "Putin, Trump’ın temsilcileriyle görüştü: Kremlin’den Ukrayna açıklaması",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRk8yaG1WUWhJNWtwVWtpSlgzQVhid0ZRZmloa0daZHhTNTFxeXpxU2ktZFFqUzFWVVVYSEF2UHNWMG5iT0tlSWU1M29JX3Yzbmw5MGlRbXNneG5kODRHQ1I3SkxveE5aLS1VYTVRZ3FrcVVoWEZkSWF2MzRuMkhrSl9CeXpwelU5OTRMXzBjMnhhMWs2VEhyaUtqdHhDRzJCYk84SFlmekk?oc=5",
+  "source": "soL",
+  "summary_tr": "Putin, Trump'ın temsilcileriyle görüştü; Kremlin Ukrayna'ya ilişkin açıklama yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-06T13:01:10.964285+00:00",
+  "type": "news",
+  "cluster_id": "c59fd3c06e7bf"
+ },
+ {
+  "title": "Merkez Bankası Başkanı Karahan: Para politikası etkileyebildiği kalemlerde başarılı oldu",
+  "link": "https://www.trthaber.com/haber/ekonomi/merkez-bankasi-baskani-karahan-para-politikasi-etkileyebildigi-kalemlerde-basarili-oldu-956055.html",
+  "source": "TRT Haber",
+  "summary_tr": "TCMB Başkanı Karahan, para politikasının enflasyonla mücadelede başarılı olduğunu belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-06T13:01:10.964285+00:00",
+  "type": "news",
+  "cluster_id": "cadfde1644432"
+ },
+ {
+  "title": "DEM Parti yeniden kongreye gidecek: Pervin Buldan 'Yeni bir hareket inşa edeceğiz' dedi, isim paylaştı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/dem-parti-yeniden-kongreye-gidecek-pervin-buldan-yeni-bir-hareket-insa-edecegiz-dedi-isim-paylasti-2535376",
+  "source": "Cumhuriyet",
+  "summary_tr": "DEM Parti TBMM Başkanvekili Pervin Buldan, partisinin 5. Olağan Kongresi'ne gideceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-06T13:01:10.964285+00:00",
+  "type": "news",
+  "cluster_id": "c9630206b2f9e"
+ },
+ {
+  "title": "Cevdet Yılmaz’dan seçim takvimi açıklaması: ‘Meclis biraz öne alabilir’",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdVBMM3MxQ3NoeUFEQkNfZEZZM29JU3g1UnlyWG9pYl9TZ1BOSTFDY2J3Qms0TVpObHVGMFRIbmdwT3FqcnZHRHFoSTRRNUlNcWctTUFSWFZ6NC0wQllzaUx1STVoUlZPbkxuVWZuSVJRUHpIQWZNellici1HZlBjUHI5VUF0RnctT1VNTnRBU0J1czUtRG1SdjdMVlVQdXBmcVZUYnBWTUc?oc=5",
+  "source": "soL",
+  "summary_tr": "Cumhuriyet Halk Partisi Genel Başkanvekili Cevdet Yılmaz, seçim takviminde Meclis'in biraz öne alınabileceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-06T13:01:10.964285+00:00",
+  "type": "news",
+  "cluster_id": "ccfba5d7b6df1"
+ },
+ {
+  "title": "OPEC+ keeps oil output policy unchanged for October",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWEdjS0pVMy1JLXZFN0V6ZFhjdjNOOXpjRnUtYXdYZEdjbzNaR2R6TGU4UTRDVEdLazJuMS12eHp6d0hWQjI0ZzdhRTUtbVBqR3NhSGRES0UxbG1TZ29QX1hjaWZFNWs1RWNWV1E0azdPVDNIR2x4TGJYMzdDZ3YtVUN1VzZEam5Tb3pXYy1TejN0VFMxYjI1U3ByeFZDZmZ1UnFYX053R3N3YzhST3dSWGdB?oc=5",
+  "source": "Reuters",
+  "summary_tr": "OPEC+ Ekim ayı için petrol üretim politikasını değiştirmeksizin korudu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-06T13:01:10.964285+00:00",
+  "type": "news",
+  "cluster_id": "c500088b7f85e"
+ },
+ {
   "title": "Moskova’nın ardından Kiev: Trump’ın temsilcileri Zelenski ile masada",
   "link": "https://www.cumhuriyet.com.tr/dunya/moskova-nin-ardindan-kiev-trump-in-temsilcileri-zelenski-ile-masada-2535352",
   "source": "Cumhuriyet",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-28T10:01:17.206255+00:00",
   "type": "news",
   "cluster_id": "cf932bf23dbe0"
- },
- {
-  "title": "Son dakika... YENİ Parti grup yönetimi açıklandı: İsimler belli oldu",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-yeni-parti-grup-yonetimi-aciklandi-isimler-belli-oldu-2524442",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM'de YENİ Parti grup yönetimi belirlendi; Özgür Özel başkanlığında gerçekleştirilen kapalı toplantıda grup kadrosu netleşti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-28T10:01:17.206255+00:00",
-  "type": "news",
-  "cluster_id": "c77fbdb7f9e1b"
- },
- {
-  "title": "YENİ Parti'nin grup yönetimi belli oldu",
-  "link": "https://www.sozcu.com.tr/yeni-parti-nin-grup-yonetimi-belli-oldu-p340402",
-  "source": "Sözcü",
-  "summary_tr": "YENİ Parti grup yönetimi belirlendi; Özgür Karabat, Veli Ağbaba, Burhanettin Bulut arasında görev dağılımı yapıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-28T10:01:17.206255+00:00",
-  "type": "news",
-  "cluster_id": "c77fbdb7f9e1b"
- },
- {
-  "title": "Bab el-Mandeb shipping rises amid hopes of resolution in US-Iran war",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOVRYeklCVkdfd0l2ZjNMQWgwUFQ3RjVqQVVoUWV0ZlNWQTNhYWx2NnJWcE1lMncwLU0wcDhjakQ4MmtLb055cXJyVDZyeWVIVEJ4OEg3Z0tTbXVfTUtjT3NxNHpyWFZicm5DV1plVXVDWHBDZGtlMkdENVNlSkZzTVN1V29sQWE2Vm1YS3JHYTFlVmhsRzYyTHJFMWhQa2NRa1lNUmhJcnBvNzVvUm9BTnJyYWQ3Z2M?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Bab el-Mandeb Boğazı'ndaki gemi trafiği, ABD-İran savaşının çözülmesi umutlarıyla artış gösterdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-28T10:01:17.206255+00:00",
-  "type": "news",
-  "cluster_id": "cf8677b4b140b"
- },
- {
-  "title": "Teknoloji devleri milyarlarca dolar borçlandı: Yapay zekâ yatırımları endişe yaratıyor",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/teknoloji-devleri-milyarlarca-dolar-borclandi-yapay-zeka-yatirimlari-endise-yaratiyor-2524418",
-  "source": "Cumhuriyet",
-  "summary_tr": "Teknoloji devleri yapay zekâ altyapısı yatırımlarını borçlanmayla finanse ediyor; kredi piyasalarında endişe yaratıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-28T09:01:59.893050+00:00",
-  "type": "news",
-  "cluster_id": "c36479c225766"
- },
- {
-  "title": "Ünlü fast food markası iflas etti: Restoranları satışa çıkarıldı...",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/unlu-fast-food-markasi-iflas-etti-restoranlari-satisa-cikarildi-2524422",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD'nin en büyük Popeyes franchise işletmecilerinden Sailormen Inc. artan borç yükü nedeniyle iflas süreci başlattı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-28T09:01:59.893050+00:00",
-  "type": "news",
-  "cluster_id": "c6c0e61fb2d42"
- },
- {
-  "title": "Tekstil ve hazır giyimde her ölçekte kan kaybı: Borçlar katlandı kârlar eksi yazdı",
-  "link": "https://www.sozcu.com.tr/tekstil-ve-hazir-giyimde-her-olcekte-kan-kaybi-borclar-katlandi-karlar-eksi-yazdi-p340381",
-  "source": "Sözcü",
-  "summary_tr": "Tekstil ve hazır giyim sektöründe her ölçekteki işletmelerde borçlar katlanırken karlar negatif yazıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-28T09:01:59.893050+00:00",
-  "type": "news",
-  "cluster_id": "c4f756398d277"
  }
 ]
