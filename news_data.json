@@ -1,5 +1,41 @@
 [
  {
+  "title": "İran: 'Hürmüz Boğazı çevresinde yasaklı bölge ilan edilecek'",
+  "link": "https://www.cumhuriyet.com.tr/dunya/iran-hurmuz-bogazi-cevresinde-yasakli-bolge-ilan-edilecek-2535462",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran Ulusal Güvenlik Yüksek Konseyi Sekreteri Muhsin Rızai, Hürmüz Boğazı çevresinde yasaklı bölge ilan edileceğini açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-09-06T21:01:04.710830+00:00",
+  "type": "news",
+  "cluster_id": "cc8e35130842f"
+ },
+ {
+  "title": "İran: (Umman ile) Hürmüz Boğazı’nın yeni koridoruyla ilgili anlaşma önümüzdeki günlerde imzalanacak",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-umman-ile-hurmuz-bogazi-nin-yeni-koridoruyla-ilgili-anlasma-onumuzdeki-gunlerde-imzalanacak/4049128",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran, Umman ile Hürmüz Boğazı'nın yeni koridoru hakkında anlaşmayı önümüzdeki günlerde imzalayacağını bildirdi.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-09-06T21:01:04.710830+00:00",
+  "type": "news",
+  "cluster_id": "c9ea9dc03d5d9"
+ },
+ {
+  "title": "AfD, Le Pen, Vox, Reform UK: Aşırı sağ Avrupa'yı sarıyor",
+  "link": "https://www.dw.com/tr/afd-le-pen-vox-reform-uk-aşırı-sağ-avrupa-yı-sarıyor/a-79046069?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Almanya'da aşırı sağcı AfD, Saksonya-Anhalt eyaleti seçimlerinde birinci güç olarak Avrupa'daki sağcı eğilimleri vurguluyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-06T21:01:04.710830+00:00",
+  "type": "news",
+  "cluster_id": "cf85812ba2b2e"
+ },
+ {
   "title": "Saksonya-Anhalt: Alman siyasetinde AfD depremi",
   "link": "https://www.dw.com/tr/saksonya-anhalt-alman-siyasetinde-afd-depremi/a-79094770?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-28T17:01:05.789848+00:00",
   "type": "news",
   "cluster_id": "c69f553f47d96"
- },
- {
-  "title": "CHP İstanbul'da toplu istifa dalgası: Özgür Çelik ve 36 ilçe başkanı ayrıldı",
-  "link": "https://www.sozcu.com.tr/chp-istanbul-il-ve-36-ilce-teskilati-istifa-p340492",
-  "source": "Sözcü",
-  "summary_tr": "CHP İstanbul'da il yönetiminin büyük bölümü ile 36 ilçe başkanı partiden istifa etti.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-28T17:01:05.789848+00:00",
-  "type": "news",
-  "cluster_id": "c69f553f47d96"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan: Bölgemizin kalkınma, refah, huzur ve istikrarla anılması için çaba gösteriyoruz",
-  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-bolgemizin-kalkinma-refah-huzur-ve-istikrarla-anilmasi-icin-caba-gosteriyoruz/4011649",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, bölgenin savaş ve terörle değil, kalkınma, refah, huzur ve istikrarla anılması için çalışma yapılacağını vurguladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-28T17:01:05.789848+00:00",
-  "type": "news",
-  "cluster_id": "c11f183c17165"
- },
- {
-  "title": "US consumer confidence eases in July",
-  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLTBWalhQcm0yTjVhRnZWcmZsd1U2cjAwRXQxaGJ0WXV4aE5QVnlzVXlrVDBwdGhzTVctdmdOajFvbFA4SnNyVW00T1V2cTg0ZVF0dVA1alhndlhQWkg0dUxJYUpfVXdWMTkwWUxkTzJYMzh6aWJyTngxWExJdG1DWjhZTHc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD'de tüketici güveni Temmuz ayında düştü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-28T17:01:05.789848+00:00",
-  "type": "news",
-  "cluster_id": "cba3786245bc2"
  }
 ]
