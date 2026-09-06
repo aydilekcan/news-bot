@@ -1,5 +1,29 @@
 [
  {
+  "title": "US ambassador calls violent Israeli settlers ‘terrorists’ after weeks of West Bank unrest",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdEtQeGdOOG0tWlByeVhITXFPWm02dzVPbG9Za1huS05sN0xJTldVT2h0d284R3JKMEUwMnd1ZUE5VkFTV2hQbTdlNlIzRzVIRDBNaDJ1QU9Ya1o3OW1hRWdsTUVEVlVCSzhKZDZOaDZHZUhvVnFoaTIwYWdFZURRQ1VsVG1lMUV4amFwSVdUQkpDMHZJSHZxb1NkcDQxWTR4UzlmOXY0U1hNaEtiUFE?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD büyükelçisi, Batı Şeria'daki karışıklıkların ardından şiddet eğilimli İsrail yerleşimcilerini 'terörist' olarak nitelendirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-06T01:00:59.922658+00:00",
+  "type": "news",
+  "cluster_id": "c2c4dc92505fa"
+ },
+ {
+  "title": "MHP lideri Bahçeli’nin ‘seçim sistemi’ çıkışının perde arkası: ‘İttifak kalacak, işbirliği zorlaşacak’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/mhp-lideri-bahceli-nin-secim-sistemi-cikisinin-perde-arkasi-ittifak-kalacak-isbirligi-zorlasacak-2535218",
+  "source": "Cumhuriyet",
+  "summary_tr": "MHP Genel Başkanı Bahçeli, seçim sistemi ve Siyasi Partiler Yasası'nın değiştirilmesini isteyerek Cumhurbaşkanlığı Hükümet Sistemi'nin korunmasını savundu.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-06T01:00:59.922658+00:00",
+  "type": "news",
+  "cluster_id": "c19d32d2c8bcf"
+ },
+ {
   "title": "Kremlin: Putin, ABD'li temsilcilerle Ukrayna krizini ve ikili ilişkileri görüştü",
   "link": "https://www.aa.com.tr/tr/dunya/kremlin-putin-abdli-temsilcilerle-ukrayna-krizini-ve-ikili-iliskileri-gorustu/4048493",
   "source": "Anadolu Ajansı",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-27T16:01:07.342174+00:00",
   "type": "news",
   "cluster_id": "cb1a15be0fd46"
- },
- {
-  "title": "Axios: Trump, İran görüşmeleri başarısız olursa askeri harekata hazır olduğunu söyledi",
-  "link": "https://www.trthaber.com/haber/dunya/axios-trump-iran-gorusmeleri-basarisiz-olursa-askeri-harekata-hazir-oldugunu-soyledi-952343.html",
-  "source": "TRT Haber",
-  "summary_tr": "Trump, İran görüşmeleri başarısız olursa askeri harekata hazır olduğunu söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-27T16:01:07.342174+00:00",
-  "type": "news",
-  "cluster_id": "c932417bd9a6a"
- },
- {
-  "title": "Porsche'den 5 bin kişilik ek istihdam kesintisi kararı",
-  "link": "https://www.dw.com/tr/porsche-den-5-bin-kişilik-ek-istihdam-kesintisi-kararı/a-78133739?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Porsche 5 bin pozisyonu daha azaltıyor; şirketin 2025 net kârı %91 düştü.",
-  "metric": "Porsche net kâr 2025: -%91",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-27T16:01:07.342174+00:00",
-  "type": "news",
-  "cluster_id": "cde873e494adb"
  }
 ]
