@@ -1,5 +1,53 @@
 [
  {
+  "title": "Moskova’da 3 saatlik kritik görüşme: Putin’in ABD heyetiyle görüşmesinde neler konuşuldu?",
+  "link": "https://www.cumhuriyet.com.tr/dunya/moskova-da-3-saatlik-kritik-gorusme-putin-in-abd-heyetiyle-gorusmesinde-neler-konusuldu-2535275",
+  "source": "Cumhuriyet",
+  "summary_tr": "Putin, Trump'ın özel temsilcileriyle 3 saatlik kritik görüşme gerçekleştirdi; Ukrayna ve diğer jeopolitik konular görüşüldü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-06T07:01:03.722384+00:00",
+  "type": "news",
+  "cluster_id": "cedf3cfe9c75c"
+ },
+ {
+  "title": "ABD İran tankerlerini vurdu: Türkiye için kritik pazartesi",
+  "link": "https://www.sozcu.com.tr/abd-iran-tankerlerini-vurdu-turkiye-icin-kritik-pazartesi-p355738",
+  "source": "Sözcü",
+  "summary_tr": "ABD, İran'a ait üç petrol tankerini vurdu; petrol fiyatları yükseliş gösterdi ve piyasalar etkilendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-06T07:01:03.722384+00:00",
+  "type": "news",
+  "cluster_id": "c8c777802376f"
+ },
+ {
+  "title": "İran Devrim Muhafızları: Hürmüz Boğazı'nda ABD ordusuna ait insansız deniz aracını hedef aldık",
+  "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-abd-ordusuna-ait-insansiz-deniz-aracini-hedef-aldik-956027.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Devrim Muhafızları, Hürmüz Boğazı'nda ABD'ye ait bir insansız deniz aracını hedef aldığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-06T07:01:03.722384+00:00",
+  "type": "news",
+  "cluster_id": "c1a4fd34dbe2f"
+ },
+ {
+  "title": "Israeli military says it strikes southern Lebanon after Hezbollah launched drones",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNi1QZjVMMzI3QlpNZ2pKMVNjZFNqU2RWb093aGtUS3ZmZWdBNHNjbXFMdVZZS2NkMnd3cWlQZlVqenBlRGpQdkFJSjNuMU5wVlNCa1pqNXVzV0NIRVFGc3Z6bGpMZXp3dzc1Y3dfM2xTNnZCSi0weHFlMUtaZG0yS2p6S2ZhWXRUeS0xYkFOOE5vLUlYaFJnMy1KdGh0ejFDbEpzOFRlaEs2ZG1ZY09hUW05WjhYYVBndHBtVjFIQ0szMVVOVzc4?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İsrail ordusu, Hezbollah'ın insansız hava araçları fırlatmasından sonra Güney Lübnan'a saldırı düzenlemesini duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-06T07:01:03.722384+00:00",
+  "type": "news",
+  "cluster_id": "c22b572093339"
+ },
+ {
   "title": "Emekliye yapılacak zam netleşiyor: Bu iki rakamdan biri olacak",
   "link": "https://www.sozcu.com.tr/emekliye-yapilacak-zam-netlesiyor-bu-iki-rakamdan-biri-olacak-p355712",
   "source": "Sözcü",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-27T20:01:05.913476+00:00",
   "type": "news",
   "cluster_id": "cfe5d8333fc3d"
- },
- {
-  "title": "Trump'tan F-35 çıkışı: 'Kimse bana ne satıp satmamamız gerektiğini söyleyemez'",
-  "link": "https://www.bbc.com/turkce/articles/c33y078x83zo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Trump, Netanyahu'nun F-35 satışına karşı çıkışına karşı çıktığını söyledi; 'Kimse bana ne satıp satmamamız gerektiğini söyleyemez' dedi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-27T19:01:14.169688+00:00",
-  "type": "news",
-  "cluster_id": "c9a64c9fe2336"
- },
- {
-  "title": "İsrail basını: Netanyahu, İran kaynaklı güvenlik endişeleri nedeniyle ABD ziyareti için ülkeden gizlice ayrıldı",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-basini-netanyahu-iran-kaynakli-guvenlik-endiseleri-nedeniyle-abd-ziyareti-icin-ulkeden-gizlice-ayrildi-/4010858",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail basınına göre Netanyahu, İran güvenlik endişeleri nedeniyle ABD ziyareti için sıkı tedbirlerle ülkeden gizlice ayrıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-27T19:01:14.169688+00:00",
-  "type": "news",
-  "cluster_id": "c4401fcdf7ac5"
- },
- {
-  "title": "İzmir'de CHP'den toplu istifa: Bergama, Bornova, Ödemiş, Buca, Seferihisar...",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/izmir-de-toplu-istifa-10-ilce-chp-den-ayrildi-2524291",
-  "source": "Cumhuriyet",
-  "summary_tr": "İzmir'de CHP'den Bergama, Bornova, Ödemiş, Buca, Seferihisar gibi ilçelerde toplu istifa gerçekleşti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-27T19:01:14.169688+00:00",
-  "type": "news",
-  "cluster_id": "cd86979096c5d"
- },
- {
-  "title": "İran saldırıları sonrası Kuveyt gönüllü askeri personel alacağını duyurdu",
-  "link": "https://www.trthaber.com/haber/dunya/iran-saldirilari-sonrasi-kuveyt-gonullu-askeri-personel-alacagini-duyurdu-952346.html",
-  "source": "TRT Haber",
-  "summary_tr": "Kuveyt Savunma Bakanlığı, İran saldırıları sonrası astsubay ve alt rütbelerde gönüllü personel alımı yapılacağını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-27T19:01:14.169688+00:00",
-  "type": "news",
-  "cluster_id": "c03276359d987"
  }
 ]
