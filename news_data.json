@@ -1,5 +1,29 @@
 [
  {
+  "title": "Saksonya-Anhalt: Alman siyasetinde AfD depremi",
+  "link": "https://www.dw.com/tr/saksonya-anhalt-alman-siyasetinde-afd-depremi/a-79094770?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Almanya'nın Saksonya-Anhalt eyaletindeki seçimde AfD zafer kazandı ancak hükümet kurabilme durumu belirsiz.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-06T20:00:58.274298+00:00",
+  "type": "news",
+  "cluster_id": "c4487fdbc5c14"
+ },
+ {
+  "title": "Tek seferde 10 bin adet satın alacaklar: Faturası 5 milyar dolar",
+  "link": "https://www.sozcu.com.tr/tek-seferde-10-bin-adet-satin-alacaklar-faturasi-5-milyar-dolar-p355893",
+  "source": "Sözcü",
+  "summary_tr": "ABD, Suudi Arabistan'a yaklaşık 5 milyar dolarlık mühimmat satışına onay verdi.",
+  "metric": "Mühimmat satışı: 5 milyar dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-06T20:00:58.274298+00:00",
+  "type": "news",
+  "cluster_id": "c63bd7727edc7"
+ },
+ {
   "title": "Rusya: Karadeniz’de Ukrayna ordusu için askeri yük taşıyan gemiyi vurduk",
   "link": "https://www.aa.com.tr/tr/dunya/rusya-karadeniz-de-ukrayna-ordusu-icin-askeri-yuk-tasiyan-gemiyi-vurduk/4049049",
   "source": "Anadolu Ajansı",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-28T17:01:05.789848+00:00",
   "type": "news",
   "cluster_id": "cba3786245bc2"
- },
- {
-  "title": "Netanyahu, İran savaşının başından beri ilk kez Beyaz Saray'da ağırlanacak",
-  "link": "https://www.bbc.com/turkce/articles/c36d58wrxy2o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Netanyahu, 28 Şubat'taki İran ortak saldırısından bu yana ilk kez Trump ile Beyaz Saray'da yüz yüze görüşecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-28T16:01:12.814600+00:00",
-  "type": "news",
-  "cluster_id": "cc6158e74bc81"
- },
- {
-  "title": "ABD Başkanı Trump, Ukrayna Devlet Başkanı Zelenskiy ile Beyaz Saray'da görüştü",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-ukrayna-devlet-baskani-zelenskiy-ile-beyaz-sarayda-gorustu/4011694",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Başkanı Trump, Washington'da Ukrayna Devlet Başkanı Zelenskiy ile Beyaz Saray'da görüştü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-28T16:01:12.814600+00:00",
-  "type": "news",
-  "cluster_id": "cf6272ca62d79"
  }
 ]
