@@ -1,5 +1,77 @@
 [
  {
+  "title": "Trump'ın özel temsilcileri Ukrayna'da barış için Kiev'de",
+  "link": "https://www.dw.com/tr/trump-ın-özel-temsilcileri-ukrayna-da-barış-için-kiev-de/a-79054285?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "ABD Başkanı Trump, Ukrayna savaşını sona erdirmek için özel temsilcilerini Kiyev'e gönderdi. Temsilciler Moskova'da Putin ile görüştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-06T11:01:02.726504+00:00",
+  "type": "news",
+  "cluster_id": "c4f29e6e21edd"
+ },
+ {
+  "title": "İran’dan ABD’ye sert mesaj: Oyunun kuralları değişti",
+  "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-abd-ye-sert-mesaj-oyunun-kurallari-degisti-2535341",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran Meclis Başkanı Kalibaf, ABD'ye sert mesaj verdi: 'Orantılı cevaplar döneminin sonu geldi.' Savaş/kriz gelişmesi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-06T11:01:02.726504+00:00",
+  "type": "news",
+  "cluster_id": "c6a4ca0807778"
+ },
+ {
+  "title": "Moscow has not ruled out trilateral meeting between presidents of Russia, US, China, TASS reports",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPelNvcTNadU4zdzk5UEF0bUZNQTZTRDhJdDN2WnA4cEhWUi10QXJveUpzdmZEQi13bDhjNl91d2l5N3o4NEZWa0JqTm5kT0FOMTRHZzVTWWRFSnk5UmdPdjhlMnY1VDRSc0VFa2RoN3k0OWdVbkI2aTUwUE16WEhLY0pQTS1PRm5meWJCUVJUSFhmVEZZVUhQT3JYWHVUUkNGZ2dJTkVtLUQxMUVNMm9SZkJocjg1aVdsTWhmdDNMd1hteVpr?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Moskova, Rusya, ABD ve Çin başkanları arasında üçlü bir toplantı yapılabileceğini reddetmedi. Kuresel siyaset gelişmesi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-06T11:01:02.726504+00:00",
+  "type": "news",
+  "cluster_id": "c0fcb664a212c"
+ },
+ {
+  "title": "Türkiye ve 7 ülke, İsrailli yetkililerin Filistinlilerin Gazze'den zorla yerinden edilmesine yönelik ifadelerini kınadı",
+  "link": "https://www.aa.com.tr/tr/dunya/turkiye-ve-7-ulke-israilli-yetkililerin-filistinlilerin-gazzeden-zorla-yerinden-edilmesine-yonelik-ifadelerini-kinadi/4048751",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye ve 7 ülke, İsrail'in aşırı sağcı yetkililerinin Gazze'de zorla yerinden edilmeye ilişkin ifadelerini kınadı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-06T11:01:02.726504+00:00",
+  "type": "news",
+  "cluster_id": "cf29f0a393b05"
+ },
+ {
+  "title": "Türkiye ve 7 ülkeden işgalci İsrail'e tepki",
+  "link": "https://www.trthaber.com/haber/gundem/turkiye-ve-7-ulkeden-isgalci-israile-tepki-956043.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye ve 7 ülke, İsrail'in aşırı sağcı yetkililerinin Gazze Şeridi'nde yerinden etme çabalarına ilişkin ifadelerini kınadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-06T11:01:02.726504+00:00",
+  "type": "news",
+  "cluster_id": "cfe7dda31870c"
+ },
+ {
+  "title": "Trump keeps heralding an economic boom, but even a solid jobs report is causing problems for him",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMzkwVWZXSXRVZHc3V2lJakNMRXBMd2NqZHZ3NlBKSm9NWnh3ZEVtOXRqUzY3UE8tM1otWUNQemF0VHdhbmYwdWQ5a2Rub1ZMbmREZ25iLWZSVnhBQWVsdUlEdE55WW84b19zS2J1S2x1TTlmWkFjUWtSS1ZWRnJFU182bnl3My1rZ0xPeVBfVVZ6VlpWTDJva3NUbEY0blJOTXFaLWhfR29hdktrWERqLW1hMzAxT2xKMGpR?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD ekonomik boom açıklamasına rağmen, güçlü istihdam raporunun Trump için sorunlar yaratması, eleştirel bakış açısı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-06T11:01:02.726504+00:00",
+  "type": "news",
+  "cluster_id": "c244d2f5efdfa"
+ },
+ {
   "title": "2027-2029 Orta Vadeli Program açıklandı: İşte büyüme, enflasyon ve bütçe hedefleri",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/2027-2029-orta-vadeli-program-aciklandi-iste-buyume-enflasyon-ve-butce-hedefleri-2535325",
   "source": "Cumhuriyet",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-28T07:01:14.448046+00:00",
   "type": "news",
   "cluster_id": "c6b094610ab50"
- },
- {
-  "title": "AI anxiety sparks tech rout, broad selloff in Asian markets",
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWUF6MHN4NmxzbUxRX0JpZGFFTlliRjB0WW1DQ3NvVUpQVFJ3aFNoUFJ6cG0tNGx2anJ3OFFTWXk3VUdQQVowWHdoRnVzZTZsZV9KdTR1cWxDeFpXTTFidGxCR25jc2ZYUXp1Z2lYRzJwZDcweHNJalJfamhJT0lvTXRKWQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Yapay zeka endişeleri nedeniyle teknoloji sektöründe satış dalgası başladı; Asya borsalarında geniş ölçekli gerileme yaşandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-28T07:01:14.448046+00:00",
-  "type": "news",
-  "cluster_id": "c73e2f2bbc405"
- },
- {
-  "title": "Iran's foreign minister discusses security of Strait of Hormuz with Saudi, Omani counterparts",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRjhRVHZEYWd5aEJick5tT05haTdpX2RsSmRrTkRLUEZUSDRwTGhMTER4UmhZV0dPNkVfZlhEa0QxMXZDVll3bWYxcXdCQl91VjBpUFZoZzJQQzlBQkxDbkFTbTBUcGdyTE5hTXVqaXNmZEZiMTd5bFF1aUkxRXlzSUh1VzJRWmxhRXFXakNWTTZZaVR2dXpIaHBqZVNORU4wSEFjSGJIVXZGV1hkaHNNeEU1eXhfVmNEdTNCcTQyVk9NUVFT?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran Dışişleri Bakanı, Hormuç Boğazı'nın güvenliği konusunda Suudi Arabistan ve Umman mevkidaşlarıyla görüştü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-28T07:01:14.448046+00:00",
-  "type": "news",
-  "cluster_id": "cd84664313287"
- },
- {
-  "title": "Taiwan drills to test relocating arms production under Chinese attack",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYjhIdUNGamJpdkF5S25rVkZCb3JXbmVhMXRCRWswemdaa3Q1b0J3Vlk2cVN0eW5QTHFBbTQ2R1ZkWnZMZzZCUE91T0xSMEhkdHdfbHpRMXkwbVU3bTZEOTM0MDdOZVlCbGZHRjhxMWlMUF9ZNXRhM2l5aEJhaWlFU3prUGlZbDN1MWE1Z2hmSURjTVB1OUpFc0VtaVVzZ2JQaktLUGw3aVBKSHF1Q3hDNmhvd0w?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Tayvan, Çin saldırısı altında silah üretimini taşımaya ilişkin tatbikat düzenledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-28T07:01:14.448046+00:00",
-  "type": "news",
-  "cluster_id": "cbe6f991cdfdb"
- },
- {
-  "title": "Trump'ın Türkiye övgüleri lafta kaldı: Türk hazır giyim sektörüne ABD'den dengeleri değiştirecek darbe",
-  "link": "https://www.sozcu.com.tr/trump-in-turkiye-ovguleri-lafta-kaldi-turk-hazir-giyim-sektorune-abd-den-dengeleri-degistirecek-p340310",
-  "source": "Sözcü",
-  "summary_tr": "ABD, Section 301 soruşturması kapsamında Türkiye'nin hazır giyim sektörüne yüzde 12,5 ilave gümrük vergisi uyguladı.",
-  "metric": "Türkiye'ye gümrük vergisi 0% -> %12,5 (+12,5 puan)",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-28T06:01:08.621121+00:00",
-  "type": "news",
-  "cluster_id": "c4e09bfadc2a5"
- },
- {
-  "title": "ABD tüm planlarını değiştiriyor",
-  "link": "https://www.sozcu.com.tr/abd-nin-savas-planlarinda-kokten-degisiklik-sinyali-p340315",
-  "source": "Sözcü",
-  "summary_tr": "ABD-İran arasındaki 13 günlük askeri çatışmaların ardından Washington stratejisini ekonomik alana kaydırmaya hazırlanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-28T06:01:08.621121+00:00",
-  "type": "news",
-  "cluster_id": "cb96bb7af4938"
- },
- {
-  "title": "Kredi kartı borcu olan artık ev de kiralayamayacak",
-  "link": "https://www.sozcu.com.tr/kredi-karti-borcu-olan-artik-ev-de-kiralayamayacak-p340314",
-  "source": "Sözcü",
-  "summary_tr": "Kredi kartı borcu olanlar artık kiralık ev tutamayacak. Konut satışlarının düşüşü ve kentsel dönüşüm kiralık ev talebini artırdı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-28T06:01:08.621121+00:00",
-  "type": "news",
-  "cluster_id": "cd76ddbde9488"
  }
 ]
