@@ -1,5 +1,17 @@
 [
  {
+  "title": "Iran's government to raise fuel price for heavy users",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZzl2bnVkTGFvdGg5UXU3LXk1ZUNSWlVtajg2NFFCd1JkMzhHSVVfeVd0djRKSHpCa2xpVkVJTG1Ra0hwNWVNQkY3VVg0NmpXRXBFMFFSbFM1SERFb1Fna2V6a1h0WjhYWHQyYl84cWhQalRPamRqWVBUWVhWLXY1U2QzeUF5UjVfd3NEcHlLMUx3MDJSR0ZvcHRYYjFkdw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran hükümeti ağır kullanıcılar için yakıt fiyatını yükseltme kararı aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-06T22:01:02.589624+00:00",
+  "type": "news",
+  "cluster_id": "c93ed74ec8930"
+ },
+ {
   "title": "İran: 'Hürmüz Boğazı çevresinde yasaklı bölge ilan edilecek'",
   "link": "https://www.cumhuriyet.com.tr/dunya/iran-hurmuz-bogazi-cevresinde-yasakli-bolge-ilan-edilecek-2535462",
   "source": "Cumhuriyet",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-28T17:01:05.789848+00:00",
   "type": "news",
   "cluster_id": "c4392e986b591"
- },
- {
-  "title": "CHP İstanbul teşkilatında tarihi istifa dalgası: İl yönetiminden 39, ilçe başkanlarından 36 kişi ayrıldı!",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-istanbul-teskilatinda-tarihi-istifa-dalgasi-il-yonetiminden-39-ilce-baskanlarindan-36-kisi-ayrildi-2524564",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP İstanbul teşkilatında toplu istifa: il yönetiminden 39, ilçe başkanlarından 36 kişi partiden ayrıldı; çoğunluk YENİ Parti'ye katılmayı düşünüyor.",
-  "metric": "CHP İstanbul istifaları: 75 kişi",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-28T17:01:05.789848+00:00",
-  "type": "news",
-  "cluster_id": "c69f553f47d96"
  }
 ]
