@@ -1,5 +1,29 @@
 [
  {
+  "title": "Erdoğan: “Kiralık konutlar için başvurular 14 Eylül’de”",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeGhDYkd2RkQzTlpsNU16V1oyeGNNdlhQdlB3SGFPUjRLak85WEFRVHVrX0ozYW9ETnBtdllSUjhKWG9CWHp0U2lpdzVrY0xNQVBOTXNDSFo1a1Z4cTA5YjlCQ1lBcEh6Mm95cnVQLTdNRjBwM2N1M1A5T3lsWTd2cjgzUVJGTkZ3N1VMMHZ3?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, kiralık konutlar programına başvuruların 14 Eylül'de başlayacağını duyurdu.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-09-07T18:01:15.390231+00:00",
+  "type": "news",
+  "cluster_id": "c634560775836"
+ },
+ {
+  "title": "AKP'li Tayyar 'seçim' için tarih verdi: Gerekçesini açıkladı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/akp-li-tayyar-secim-icin-tarih-verdi-gerekcesini-acikladi-2535666",
+  "source": "Cumhuriyet",
+  "summary_tr": "AKP'li Tayyar, ekonomideki yeni yol haritasının erken seçim olasılığını düşürebileceğini belirtti.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-07T18:01:15.390231+00:00",
+  "type": "news",
+  "cluster_id": "cb4c6d0a8089c"
+ },
+ {
   "title": "Rusya'dan Almanya'ya misilleme: Başkonsolosluk ve Goethe Enstitüsü kapatılacak",
   "link": "https://www.diken.com.tr/rusyadan-almanyaya-misilleme-baskonsolosluk-ve-goethe-enstitusu-kapatilacak/?utm_source=rss&utm_medium=rss&utm_campaign=rusyadan-almanyaya-misilleme-baskonsolosluk-ve-goethe-enstitusu-kapatilacak",
   "source": "Diken",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-29T09:01:55.913936+00:00",
   "type": "news",
   "cluster_id": "cb1d204a23be6"
- },
- {
-  "title": "Mesai saatinde bunu yapanlar yandı: Çalışanın maaşından kesilecek",
-  "link": "https://www.sozcu.com.tr/mesai-saatinde-bunu-yapanlar-yandi-calisandan-maasindan-kesilecek-p340692",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye'deki bir işyeri, mesai saatlinde cep telefonu kullanan çalışanların maaşından kesinti yapacağını açıkladı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-29T09:01:55.913936+00:00",
-  "type": "news",
-  "cluster_id": "c7fb33566d1d3"
- },
- {
-  "title": "Ülkedeki tüm marketlerde indirim artık zorunlu",
-  "link": "https://www.sozcu.com.tr/ulkedeki-tum-marketlerde-indirim-artik-zorunlu-p340690",
-  "source": "Sözcü",
-  "summary_tr": "Yunanistan, yüksek gıda fiyatlarını frenlemek için marketlerde temel ihtiyaç ürünlerine %5-23 arası indirim zorunlu kıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-29T09:01:55.913936+00:00",
-  "type": "news",
-  "cluster_id": "c9f49e7e81369"
  }
 ]
