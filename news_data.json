@@ -1,5 +1,41 @@
 [
  {
+  "title": "North Korea's Kim Jong Un says new destroyer will be part of nuclear response system",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbFRSUlNzcW9sRk4xbGh3VkY3WC1sRmVGX0h6QUJnSmNnY294UHRaQzZuVndJTk1neFVXN3FfVzRwRFo0Y3VYNEdnOER1OHhBRHpkU1NoQTR4ZHByc1dKNlRjd0lTdGpadnBLYndzaktLc0ZUQUxkUzNTdDFTRVBBNU5GSm5YcHRFdC02b2QybkdwUVJmY0pyaHhHQjJWVlVKVWRTQzZDRnpUeks4cGpCUERXc1dXU3QxYjJzRnpYcDFqNjdUWGRlYWNmeEVmUnRk?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Kuzey Kore lideri Kim Jong Un yeni destroyerin nükleer yanıt sisteminin parçası olacağını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-07T00:01:00.422364+00:00",
+  "type": "news",
+  "cluster_id": "c7c744cefc053"
+ },
+ {
+  "title": "İBB'ye yeni operasyon: Satın Alma Dairesi Başkanı dahil 6 kişi tutuklandı",
+  "link": "https://www.bbc.com/turkce/articles/cx2z08zq02yo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "İBB Satın Alma Dairesi Başkanı dahil 6 kişi ihale fesat iddiasıyla tutuklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-07T00:01:00.422364+00:00",
+  "type": "news",
+  "cluster_id": "c1433b304fe39"
+ },
+ {
+  "title": "İBB'ye \"yolsuzluk\" soruşturması: Yenilenecek Üsküdar seçiminde oy kullanacak meclis üyesi dahil 6 yönetici tutuklandı",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcmtiYmRpZkhTd3lhTUY3djVKOVVjZEpLXzJaYmszWV9McEZCRl8yS0FrVjFkZ0hDRG03dnM2T2QxN1R2TVp1QjRtVzFxNHpNYXRORGJaQ1FXM1c1UDhBY2N4U0d4RnV4eHNEV21McUtDcUhxRWhVczBnRS1adzRENGxnVVRGRUpSekMxXzNXMTA5LUY4T2lLNkNBdmEwRU9pWGVERU9Ddlo1aXIyUzJKTTJmbHJnMjQ?oc=5",
+  "source": "T24",
+  "summary_tr": "İBB'de yolsuzluk soruşturması: Üsküdar seçiminde oy kullanacak meclis üyesi dahil 6 yönetici tutuklandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-07T00:01:00.422364+00:00",
+  "type": "news",
+  "cluster_id": "c0c1ae4a20c1a"
+ },
+ {
   "title": "Saksonya-Anhalt seçimleri: Aşırı sağcı AfD için büyük zafer, Merz'in CDU'su için ağır hezimet",
   "link": "https://www.bbc.com/turkce/articles/c804k5e3yylo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-28T17:01:05.789848+00:00",
   "type": "news",
   "cluster_id": "cfe6cda77d1e5"
- },
- {
-  "title": "Çerçeve yasa ile PKK terör örgütü listesinden çıkacak mı?",
-  "link": "https://www.dw.com/tr/çerçeve-yasa-ile-pkk-terör-örgütü-listesinden-çıkacak-mı/a-78149562?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Terörsüz Türkiye sürecinin çerçeve yasasında son aşamaya gelindi; PKK'nın listeden süreli olarak çıkarılması planlanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-28T17:01:05.789848+00:00",
-  "type": "news",
-  "cluster_id": "c566fc927d4a6"
- },
- {
-  "title": "Süreçle ilgili ‘Çerçeve yasa’ ile ilgili sona gelindi: Hafta sonuna kadar Meclis’e sunulması planlanıyor",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/surecle-ilgili-cerceve-yasa-ile-ilgili-sona-gelindi-hafta-sonuna-kadar-meclis-e-sunulmasi-planlaniyor-2524567",
-  "source": "Cumhuriyet",
-  "summary_tr": "Terörsüz Türkiye sürecinin çerçeve yasa teklifinin hafta sonuna kadar son şekli verilerek diğer partilerle paylaşılması ve Meclis'e sunulması planlanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-28T17:01:05.789848+00:00",
-  "type": "news",
-  "cluster_id": "c71e4a8456c79"
- },
- {
-  "title": "Trump, İsrail Başbakanı Netanyahu ile Beyaz Saray'da görüştü",
-  "link": "https://www.sozcu.com.tr/trump-israil-basbakani-netanyahu-ile-beyaz-saray-da-gorustu-p340501",
-  "source": "Sözcü",
-  "summary_tr": "ABD Başkanı Trump, İsrail Başbakanı Netanyahu ile Beyaz Saray'da görüştü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-28T17:01:05.789848+00:00",
-  "type": "news",
-  "cluster_id": "c4392e986b591"
  }
 ]
