@@ -1,5 +1,77 @@
 [
  {
+  "title": "Petrol 100 dolara koşuyor!",
+  "link": "https://www.sozcu.com.tr/petrol-100-dolara-kosuyor-p355946",
+  "source": "Sözcü",
+  "summary_tr": "Petrol fiyatları ABD-İran çatışmasının Hürmüz Boğazı'nda küresel arz tehdidi oluşturması nedeniyle 100 dolara koşuyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-07T06:01:06.105171+00:00",
+  "type": "news",
+  "cluster_id": "c40108ab9d4a2"
+ },
+ {
+  "title": "Şeref Oğuz: Programda seçim ekonomisi tadı var",
+  "link": "https://www.diken.com.tr/seref-oguz-programda-secim-ekonomisi-tadi-var/?utm_source=rss&utm_medium=rss&utm_campaign=seref-oguz-programda-secim-ekonomisi-tadi-var",
+  "source": "Diken",
+  "summary_tr": "Ekonomi analisti Şeref Oğuz, açıklanan OVP'nin hedeflerinin tutmadığını ve seçim ekonomisi taşıdığını belirtiyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-07T06:01:06.105171+00:00",
+  "type": "news",
+  "cluster_id": "c55caeb9b95b1"
+ },
+ {
+  "title": "Hayri Kozanoğlu: Yandaş basın müjde gibi 'memura, emekliye yeni zam' senaryolarını açıklamaya başladı",
+  "link": "https://www.diken.com.tr/hayri-kozanoglu-yandas-basin-mujde-gibi-memura-emekliye-yeni-zam-senaryolarini-aciklamaya-basladi/?utm_source=rss&utm_medium=rss&utm_campaign=hayri-kozanoglu-yandas-basin-mujde-gibi-memura-emekliye-yeni-zam-senaryolarini-aciklamaya-basladi",
+  "source": "Diken",
+  "summary_tr": "Hayri Kozanoğlu, yandaş basının OVP sonrası memur ve emeklilere zam müjdesi senaryoları açıklamaya başladığını yazıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-07T06:01:06.105171+00:00",
+  "type": "news",
+  "cluster_id": "c3b3a4bdd6b74"
+ },
+ {
+  "title": "Üretici ve yatırımcılara IPARD-III Programı kapsamında ağustosta 844,5 milyon lira ödendi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/uretici-ve-yatirimcilara-ipard-iii-programi-kapsaminda-agustosta-844-5-milyon-lira-odendi/4049223",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Tarım ve Orman Bakanı, IPARD-III Programı kapsamında ağustosta üretici ve yatırımcılara 844,5 milyon lira hibe ödemesi yaptığını açıkladı.",
+  "metric": "IPARD-III hibe ödemesi (ağustos): 844,5 milyon TL",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-07T06:01:06.105171+00:00",
+  "type": "news",
+  "cluster_id": "c306003672d94"
+ },
+ {
+  "title": "Gold slips on rate-hike bets; inflation data in focus",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRGNES0hoVGlPMVZfR041a2MwVUNQOUI5dzBweW04UlNvWjNJUnJYUEdGMkkyb1I1MWdRcUp5SDJybUV4YlRTWEZ5aFd4M3NaTnE5clF1Y200Tk9oNFoxd3lncVkzbjFNdTVKazRLNVpSSloteGRvakNZWmxwLW5uUWo5V0U2dDc2TFE0Nkg4VWVOU1dpdE5tNUhzOWtXcUNjTUZQMmF3T2ZOQkpWRURmX20wSFlvam9UV1Yw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Altın fiyatları faiz artışı beklentileri nedeniyle düşüş gösterirken, enflasyon verisi piyasaların odağında.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-07T06:01:06.105171+00:00",
+  "type": "news",
+  "cluster_id": "c7ed0322afe32"
+ },
+ {
+  "title": "Ship fuel shortage looms as refiners strained by war favour other products",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcjJsRnYxdWplZmMxWnZxd2JBRjdaR2YtV0VrMEJCNmFTUjF1U1oyaVhiZk5XZ2Rvc1lXVEdhQjd0bWxxZ1R6Sl9Eckl0S3NXSXpjbGZ5QjJ6dnVkbG9tc2RtRl8tNy1heW1RVHh1VlZ2ZUVtQnJTREdYRlJsRFo5VjRoNUhRTEV2c0dwd01fNWphVkg4LW9oeExqdm1jQW9nRFdGYm16WTRkUjkxUmpaN2NPdDZpUVl2Tk1KQ0xZZWY?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Savaş nedeniyle rafinelerin diğer ürünlere yönelmesiyle gemi yakıt kıtlığı tehlikesi ortaya çıkıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-07T06:01:06.105171+00:00",
+  "type": "news",
+  "cluster_id": "c11f240751a8f"
+ },
+ {
   "title": "Zelenski: Savaş muhtemelen kış aylarında da devam edecek",
   "link": "https://www.trthaber.com/haber/dunya/zelenski-savas-muhtemelen-kis-aylarinda-da-devam-edecek-956084.html",
   "source": "TRT Haber",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-28T20:01:08.906830+00:00",
   "type": "news",
   "cluster_id": "c1de5c73ca52d"
- },
- {
-  "title": "Özgür Özel için ilk büyük şok! Kale el mi değiştiriyor?",
-  "link": "https://www.sozcu.com.tr/ozgur-ozel-icin-ilk-buyuk-sok-kale-el-mi-degistiriyor-p340533",
-  "source": "Sözcü",
-  "summary_tr": "CHP'de istifalar artıyor: YENİ Parti kuruluşundan sonra belediye başkanları CHP'den ayrılıyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-28T20:01:08.906830+00:00",
-  "type": "news",
-  "cluster_id": "cc03f19dd8361"
- },
- {
-  "title": "FIFA plan for Kushner-backed $20 billion operation to run World Cup meets fury from Europe's UEFA",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORnZ2WXlkWTR4ZVo1SGozUldxWVNZaEZ1ZG1BazF0VkFGMTJGcGRTdVlnc2J4Zi10cDFPaGtwZGRtblZ0bkh3N0tFeE94ckRpT09lU0hRZEZha0prMWxYWXhuUTJHRHlhWWttdWprLVFXU1dkTTFKVVBlLVQzbW9DaERDWTJCNXdjUUdia3ZJc0lFR1NSVS1uQTZLZ2E3b0dJWi1jNnVUYWpiZzA?oc=5",
-  "source": "AP",
-  "summary_tr": "Kushner'ın desteklediği 20 milyar dolarlık FIFA operasyonu planı, Avrupa'nın UEFA'sından güçlü tepki aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-28T20:01:08.906830+00:00",
-  "type": "news",
-  "cluster_id": "cefec8156b801"
- },
- {
-  "title": "İsrail ordusu, Gazze'de bir camiyi daha hava saldırısıyla yerle bir etti",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-gazzede-bir-camiyi-daha-hava-saldirisiyla-yerle-bir-etti/4011945",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail ordusu Gazze'de El-Muttakin Camisi'ni hava saldırısıyla yıktı. Gazze çatışmalarında yeni gelişme.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-28T19:01:04.725942+00:00",
-  "type": "news",
-  "cluster_id": "c07c3c669dbc9"
- },
- {
-  "title": "Türkiye Petrolleri, BP'nin Kerkük'teki şirketinin yüzde 15'ini satın aldı",
-  "link": "https://www.diken.com.tr/turkiye-petrolleri-bpnin-kerkukteki-sirketinin-yuzde-15ini-satin-aldi/?utm_source=rss&utm_medium=rss&utm_campaign=turkiye-petrolleri-bpnin-kerkukteki-sirketinin-yuzde-15ini-satin-aldi",
-  "source": "Diken",
-  "summary_tr": "Türkiye Petrolleri, BP'nin Kerkük'teki şirketinin %15'ini satın aldı. Enerji alanında önemli yatırım kararı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-28T19:01:04.725942+00:00",
-  "type": "news",
-  "cluster_id": "ca8d8cc879b1a"
- },
- {
-  "title": "Brent petrol, jeopolitik risklerin azalmasıyla yüzde 5'ten fazla düştü",
-  "link": "https://www.trthaber.com/haber/ekonomi/brent-petrol-jeopolitik-risklerin-azalmasiyla-yuzde-5ten-fazla-dustu-952426.html",
-  "source": "TRT Haber",
-  "summary_tr": "Brent petrol, Orta Doğu'daki jeopolitik risklerin azalmasıyla %5'ten fazla düştü. Küresel enerji piyasasında önemli hareket.",
-  "metric": "Brent petrol fiyatı yüzde 5'ten fazla düşüş",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-28T19:01:04.725942+00:00",
-  "type": "news",
-  "cluster_id": "c896f9debf074"
- },
- {
-  "title": "Ödeme devinde yeniden yapılanma: Binlerce kişi işten çıkartılacak",
-  "link": "https://www.sozcu.com.tr/odeme-devinde-yeniden-yapilanma-binlerce-kisi-isten-cikartilacak-p340516",
-  "source": "Sözcü",
-  "summary_tr": "Visa, yeniden yapılanma kapsamında binlerce kişiyi işten çıkaracak. Küresel finans sektöründe önemli gelişme.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-28T19:01:04.725942+00:00",
-  "type": "news",
-  "cluster_id": "c0e206c803b52"
  }
 ]
