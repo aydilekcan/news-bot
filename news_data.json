@@ -1,5 +1,17 @@
 [
  {
+  "title": "Iran increases gasoline price for its heaviest consumers as economy struggles",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZE9fdGFqaXVhNEprd3dRclpqYUFIZlZFZDF1cDVCTFdMbElsYUlXYkxyX29kOHZRRXl2LXc3MWp1UVZlc1lmTXJib0cyMTdpM0FqTENqUC1CV1VJLVI3Z0dvVURtYlJLMC1qc3RfMThVLWN4aVR0QmsxNmQzTDRrTWdDbVE0SmdPdERTek8yb01QWHhTRmpiR0hha2lmaExFeUlF?oc=5",
+  "source": "AP",
+  "summary_tr": "İran ekonomik kriz ortamında yakıtını en çok tüketen tüketiciler için benzin fiyatını artırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-07T22:01:09.340151+00:00",
+  "type": "news",
+  "cluster_id": "c9fa3b03a9088"
+ },
+ {
   "title": "İmamoğlu'ndan 'OVP' tepkisi: 'Erdoğan varsa güvensizlik var'",
   "link": "https://www.cumhuriyet.com.tr/siyaset/imamoglu-ndan-ovp-tepkisi-erdogan-varsa-guvensizlik-var-2535709",
   "source": "Cumhuriyet",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-29T10:01:10.557396+00:00",
   "type": "news",
   "cluster_id": "c830aca34b932"
- },
- {
-  "title": "Major Gulf fighting restarts as US and Saudi strike Iran's allies in Iraq",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD ve Suudi Arabistan, Körfez'de İran'ın müttefiklerine karşı askeri operasyonlar başlattı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-29T10:01:10.557396+00:00",
-  "type": "news",
-  "cluster_id": "c37616a529927"
  }
 ]
