@@ -1,5 +1,41 @@
 [
  {
+  "title": "UK's Burnham, Trump discuss working towards Ukraine-Russia ceasefire, Downing Street says",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmxrUWIzN25kQzlJZVBjcy11SXlFeWJQZElmWi1ocVU1Qm94T2w3OXV4djNYd2JKTEE0QTFaeWVvQ2I4MmZZOEhwZVc2U1JmUEJTbXQ4SjdBb3lYNklqZDZJZ2s5MndibnlnMGw2YVJZWnB3R2MxWVNoWTlSSFlHNDFKdWd0STNGRFBselBtUDVrbGlsLUthbl9iQTFTMkFNYXhxUGJJWjJrT0oyNjFfRlJKNV9wWUE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "UK'nin Burnham'ı ve Trump, Ukrayna-Rusya ateşkesi için çalışmayı görüştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-07T20:01:13.779499+00:00",
+  "type": "news",
+  "cluster_id": "c4b3aa2e5386c"
+ },
+ {
+  "title": "MHP'den 11 maddelik 'Türkiye'nin Nüfus Vizyonu' raporu: 'Tarihsel olarak en düşük seviyelerden biri'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/mhp-den-11-maddelik-turkiye-nin-nufus-vizyonu-raporu-tarihsel-olarak-en-dusuk-seviyelerden-biri-2535699",
+  "source": "Cumhuriyet",
+  "summary_tr": "MHP, 11 maddelik 'Türkiye'nin Nüfus Vizyonu' raporu hazırladı; çalışan anne-babaların gelir vergisi kesintisinin çocuk sayısına bağlanmasını önerdi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-07T20:01:13.779499+00:00",
+  "type": "news",
+  "cluster_id": "c657355a4f645"
+ },
+ {
+  "title": "Latvia plans 300% tariff on grain from Russia and Belarus",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONEpxQ21SRTZJNlVaZFJxUk8wdHl2bktBZVNOTXJXVjRUOGNTUGxtc1BtN3FJMWI4LXVUUkM3MVlIb3J0bnppSUJLVnZqRExUdjR5UU1tWjVJMnJzVkg2U2J0SG8wR2lsWmE5d041WkpjVlpiWW5HTGRjWUwycmVtSVNaSGUwY2lQajZFTThkTlptdW8?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Letonya, Rusya ve Belarus'tan gelen hububata %300 gümrük tarifeleri uygulamaya hazırlanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-07T20:01:13.779499+00:00",
+  "type": "news",
+  "cluster_id": "c74bd70ee843f"
+ },
+ {
   "title": "İsrail saldırılarında Lübnan'da 800'e yakın çocuk hayatını kaybetti, 360 bin çocuk yerinden edildi",
   "link": "https://www.aa.com.tr/tr/dunya/israil-saldirilarinda-lubnanda-800e-yakin-cocuk-hayatini-kaybetti-360-bin-cocuk-yerinden-edildi/4050070",
   "source": "Anadolu Ajansı",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-29T10:01:10.557396+00:00",
   "type": "news",
   "cluster_id": "c4b5f10590f22"
- },
- {
-  "title": "Porsche'den sonra BMW de binlerce kişiyi işten çıkarıyor",
-  "link": "https://www.dw.com/tr/porsche-den-sonra-bmw-de-binlerce-kişiyi-işten-çıkarıyor/a-78155805?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Alman otomobil üreticisi BMW, Volkswagen ve Porsche'nin ardından binlerce işçi çıkarmayı duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-29T10:01:10.557396+00:00",
-  "type": "news",
-  "cluster_id": "c56df5a6ea9d5"
- },
- {
-  "title": "Üsküdar Belediyesi'ne operasyon... Ekrem İmamoğlu'ndan 'Sinem Dedetaş' mesajı: 'Merak etmeyin...'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/uskudar-belediyesi-ne-operasyon-ekrem-imamoglu-ndan-sinem-dedetas-mesaji-merak-etmeyin-2524732",
-  "source": "Cumhuriyet",
-  "summary_tr": "Üsküdar Belediyesi'ne operasyon kapsamında Belediye Başkanı Sinem Dedetaş gözaltına alındı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-29T10:01:10.557396+00:00",
-  "type": "news",
-  "cluster_id": "c7a00f15d00bd"
- },
- {
-  "title": "ABD-İran çatışmasına Suudi Arabistan da katıldı",
-  "link": "https://www.dw.com/tr/abd-iran-çatışmasına-suudi-arabistan-da-katıldı/a-78154649?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "ABD ve Suudi Arabistan, Irak'ta İran destekli silahlı örgütleri hedef alan ortak operasyon düzenledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-29T09:01:55.913936+00:00",
-  "type": "news",
-  "cluster_id": "c4f24903d68df"
  }
 ]
