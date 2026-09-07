@@ -1,5 +1,29 @@
 [
  {
+  "title": "OVP'de büyüme, enflasyon, kur ve cari açık hedefleri: Program Türkiye ekonomisine ne vadediyor?",
+  "link": "https://www.bbc.com/turkce/articles/c4gl2qqlnvpo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Yeni Orta Vadeli Program'da enflasyon, cari açık ve kur hedefleri yukarı revize edildi; büyüme hedefi neredeyse değişmedi. Türkiye ekonomisinin temel makro hedefleri yeniden gözden geçirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-07T03:01:00.748169+00:00",
+  "type": "news",
+  "cluster_id": "cbafebdc527d6"
+ },
+ {
+  "title": "Hormuz traffic dips to lowest since May after US, Iranian strikes on ships",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX1Yzd0xQX3FmaWVJVjdQREFrMWR1ZEZfaHlPNmpTY1FJRFRNYmN0YWVTSHB6NVNvTnJ5R0VYaS1RLXg5TUh5cjEzMmFzV0Nyb0FWUmRZSXlBMUlSQjRZbGFzQll1X0kzcXdBdnVsT25ncEhNY2Z3ME5IQTMzSk9TZEdDbGx5RFh2VEJjMzdKMy1uUlBPbWZ0NWgyLTh3cmU0cTA1bTE1Rnh0cWhpd1dKaWZlTDhQeGJKVWxJeHVB?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Hormuz Boğazı'nda gemi trafiği Mayıs'tan bu yana en düşük seviyeye indi. ABD ve İran'ın gemilere yönelik saldırıları ticari deniz yollarını etkiledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-07T03:01:00.748169+00:00",
+  "type": "news",
+  "cluster_id": "c967e1a4c4d37"
+ },
+ {
   "title": "Pembe hedefler tepetaklak",
   "link": "https://www.sozcu.com.tr/pembe-hedefler-tepetaklak-p355914",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-28T18:01:12.963204+00:00",
   "type": "news",
   "cluster_id": "c1e5e337ccf15"
- },
- {
-  "title": "TPAO, Kerkük'teki BP şirketinin yüzde 15 hissesini satın aldı",
-  "link": "https://www.sozcu.com.tr/tpao-hisse-devri-p340511",
-  "source": "Sözcü",
-  "summary_tr": "TPAO, BP'nin Kerkük'teki yüzde 15 hissesini satın aldı.",
-  "metric": "%15 hisse",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-28T18:01:12.963204+00:00",
-  "type": "news",
-  "cluster_id": "cc5ecb27e20bf"
- },
- {
-  "title": "TPAO, BP'nin Kerkük merkezli şirketinin yüzde 15 hissesini aldı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/tpao-bpnin-kerkuk-merkezli-sirketinin-yuzde-15-hissesini-aldi/4011896",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "TPAO, BP Energy Company of Kirkuk Limited'in yüzde 15 hissesini satın aldı.",
-  "metric": "%15 hisse",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-28T18:01:12.963204+00:00",
-  "type": "news",
-  "cluster_id": "cc5ecb27e20bf"
  }
 ]
