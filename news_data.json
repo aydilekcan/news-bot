@@ -1,5 +1,29 @@
 [
  {
+  "title": "Almanya'da taşlar yerinden oynuyor: İkinci Dünya Savaşı'ndan beri bir ilk",
+  "link": "https://www.sozcu.com.tr/almanya-da-taslar-yerinden-oynuyor-ikinci-dunya-savasi-ndan-beri-bir-ilk-p355924",
+  "source": "Sözcü",
+  "summary_tr": "Almanya Saksonya-Anhalt eyalet seçiminde İkinci Dünya Savaşı'ndan beri ilk kez radikal siyasi değişim yaşadı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-07T04:00:59.531843+00:00",
+  "type": "news",
+  "cluster_id": "cb5af5a735df1"
+ },
+ {
+  "title": "AKP’nin eski vekillerine bol keseden ‘monşer’lik",
+  "link": "https://www.sozcu.com.tr/akp-nin-eski-vekillerine-bol-keseden-monser-lik-p355919",
+  "source": "Sözcü",
+  "summary_tr": "AKP'nin eski milletvekilleri Suudi Arabistan, ABD, Çin, Hollanda gibi ülkelerde büyükelçilik görevlerine atandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-07T04:00:59.531843+00:00",
+  "type": "news",
+  "cluster_id": "cf83e294b30bf"
+ },
+ {
   "title": "OVP'de büyüme, enflasyon, kur ve cari açık hedefleri: Program Türkiye ekonomisine ne vadediyor?",
   "link": "https://www.bbc.com/turkce/articles/c4gl2qqlnvpo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-28T18:01:12.963204+00:00",
   "type": "news",
   "cluster_id": "ce1e933d81390"
- },
- {
-  "title": "Zelenskiy: Trump'la Patriot lisanslarını görüştük",
-  "link": "https://www.dw.com/tr/zelenskiy-trump-la-patriot-lisanslarını-görüştük/a-78151012?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Zelenskiy Trump'la Beyaz Saray'da görüştü; Patriot füzelerinin üretim lisansı ve savaşın sona erdirilmesi konuları ele alındı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-28T18:01:12.963204+00:00",
-  "type": "news",
-  "cluster_id": "c968b083a295e"
- },
- {
-  "title": "Türkiye ile Irak arasında 3 anlaşma imzalandı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/turkiye-ile-irak-arasinda-3-anlasma-imzalandi-2524575",
-  "source": "Cumhuriyet",
-  "summary_tr": "Türkiye ile Irak arasında 3 anlaşma imzalandı.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-28T18:01:12.963204+00:00",
-  "type": "news",
-  "cluster_id": "c1e5e337ccf15"
  }
 ]
