@@ -1,5 +1,53 @@
 [
  {
+  "title": "Zelenski: Savaş muhtemelen kış aylarında da devam edecek",
+  "link": "https://www.trthaber.com/haber/dunya/zelenski-savas-muhtemelen-kis-aylarinda-da-devam-edecek-956084.html",
+  "source": "TRT Haber",
+  "summary_tr": "Zelenski, Ukrayna'nın savaşın kış aylarında da devam edeceğini öngördüğünü ve bu döneme hazırlıklı olması gerektiğini belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-07T05:01:07.904262+00:00",
+  "type": "news",
+  "cluster_id": "c8712db79ab8d"
+ },
+ {
+  "title": "Far-right Alternative for Germany party wins big in regional election but falls short of majority",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT0lvaTZsMkMxOVpwN0RmdnBiY2VWaGJPM0FZaG5rclBjajFLZWlCZmZ3d0hyRmdnWHA4cUt3OW5YOTNCZUZwMVF3d2pmR1g4bWhHdlg0OVdiMmg5X29YalRaRXp4OUdHQnM1bTBzZW9Yak1Ed1VaZUtjS2tmTllGSnRkMmpxcGxYUU5NMFFpTWV6NU1EeGxzYWZxSzFqRml0aUVRVHJFVQ?oc=5",
+  "source": "AP",
+  "summary_tr": "Almanya'daki bölgesel seçimde sağcı AfD partisi büyük oy kazandı ancak çoğunluğu elde edemedi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-07T05:01:07.904262+00:00",
+  "type": "news",
+  "cluster_id": "c1c2f8ac97571"
+ },
+ {
+  "title": "US denies that Iran struck an uncrewed US military ship in the Strait of Hormuz",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVktrNjVBTENONHRoZVB6OGRsQUxBSUdhZkFydmlOM3ZvVWRCRXVUUW85dGxNZ2VrMXkxZUpnVnpVMlNLZkpMWkRVTFJ2VVhSYXZCT1RmcEtYRTRjQmU5dTdCSzA4TDk4WkhJOWRiVUNxSFRKdHJmcTgxYWNEQy01eUVpY2Z5bHZpYl9sakVNcDBLal9BMkpCWWlKSEpMdw?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD, İran'ın Hormuç Boğazı'nda insansız bir askeri gemiyi vurduğu iddiasını reddetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-07T05:01:07.904262+00:00",
+  "type": "news",
+  "cluster_id": "c2e673893513a"
+ },
+ {
+  "title": "Volcanic island in Indonesia erupts, forcing the cancellation of hundreds of flights",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYV9LY1JLSHlZeDl1dXA5cTJZeXFCdUdaREphR2NJNVBXLUE1NXlzRnV0d1JCVlVqSkF2LThqcFJZVVlNTzVFYV90N2RYQnh3QzFQVmNtOHkzVUktNUNiR2xIak9oYXhNNXlWQVNKdlNIUWltYW54NS00eXZQQ1hydVdaYjJpZG5wZmhDek1VTjhQVWhyU0JZTUVTQnBNeUdtVkE1b3dSMVRPeFBGSHc?oc=5",
+  "source": "AP",
+  "summary_tr": "Endonezya'da yanardağ patladı ve yüzlerce uçuşun iptal edilmesine neden oldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-07T05:01:07.904262+00:00",
+  "type": "news",
+  "cluster_id": "c6fcc5b73410d"
+ },
+ {
   "title": "Almanya'da taşlar yerinden oynuyor: İkinci Dünya Savaşı'ndan beri bir ilk",
   "link": "https://www.sozcu.com.tr/almanya-da-taslar-yerinden-oynuyor-ikinci-dunya-savasi-ndan-beri-bir-ilk-p355924",
   "source": "Sözcü",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-28T19:01:04.725942+00:00",
   "type": "news",
   "cluster_id": "c0e206c803b52"
- },
- {
-  "title": "Irak Başbakanı Zeydi: Irak ile Türkiye arasındaki ilişkiler daha da ileri gidecektir",
-  "link": "https://www.trthaber.com/haber/dunya/irak-basbakani-zeydi-irak-ile-turkiye-arasindaki-iliskiler-daha-da-ileri-gidecektir-952427.html",
-  "source": "TRT Haber",
-  "summary_tr": "Irak Başbakanı Zeydi, Türkiye ziyaretinde iki ülke ilişkilerinin ilerleyeceğini belirtti. Bölgesel dış politika.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-28T19:01:04.725942+00:00",
-  "type": "news",
-  "cluster_id": "c81807ca5b8f8"
- },
- {
-  "title": "China in touch with Yemen's Houthis to allow ships to sail through Red Sea, sources say",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR3VlbkFfZi10TlpkWGNLYUJ4d0NISk5JVlg4VGI2MmNma0xDUkdyX3NNalg4SDNQRkJWOWRqT0o1VkxuTS1xXzFVZi1fSTBoRnRORGxZdUZDdVN0dVNCaUo3eVBVenNpUnRWaUtpOHlCbGk3M3E1NXJaSzJ3cUszd05mWjVrQWYwX1ZuSGE2aWliVkZIeHJmdGN4T29LUUtVcEdxYnh3dHNQVTg5ZS1SdlNKaDhVeG9BT0tXdnJtYnN2UQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Çin, Yemen Husiler ile Kızıldeniz ticari geçişi sağlamak üzere temasa geçti. Küresel ticaret yollarında gelişme.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-28T19:01:04.725942+00:00",
-  "type": "news",
-  "cluster_id": "c72f538b708b7"
- },
- {
-  "title": "Erdoğan: Irak Türkiye'ye günde 1 milyon varil petrol verecek",
-  "link": "https://www.bbc.com/turkce/articles/cvgwn29yqjyo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Irak Başbakanı Ali Zeydi Türkiye'yi ziyaret etti; Erdoğan, Irak'ın günde 1 milyon varil petrol vereceğini duyurdu.",
-  "metric": "1 milyon varil/gün",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-07-28T18:01:12.963204+00:00",
-  "type": "news",
-  "cluster_id": "c16c444fcb420"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan: Irak ile imzalanan anlaşma enerji alanındaki ortaklık açısından tarihi bir adım",
-  "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-irak-ile-imzalanan-anlasma-enerji-alanindaki-ortaklik-acisindan-tarihi-bir-adim-952423.html",
-  "source": "TRT Haber",
-  "summary_tr": "Erdoğan, Irak ile imzalanan anlaşmada Kerkük üretim sahasında TPAO'ya ortaklık verildiğini duyurdu; enerji alanında tarihi adım olarak niteledi.",
-  "metric": "",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-07-28T18:01:12.963204+00:00",
-  "type": "news",
-  "cluster_id": "ce1e933d81390"
  }
 ]
