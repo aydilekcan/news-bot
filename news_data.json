@@ -1,5 +1,29 @@
 [
  {
+  "title": "Bitkisel ve hayvansal üretimde destek tutarları artırıldı",
+  "link": "https://www.trthaber.com/haber/ekonomi/bitkisel-ve-hayvansal-uretimde-destek-tutarlari-artirildi-956175.html",
+  "source": "TRT Haber",
+  "summary_tr": "Tarım ve Orman Bakanı İbrahim Yumaklı, bitkisel ve hayvansal üretimde temel destek ve planlı üretim desteği tutarlarını artırdığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-08T01:01:01.021253+00:00",
+  "type": "news",
+  "cluster_id": "c1923892faa1f"
+ },
+ {
+  "title": "Hayvancılık desteklerinde yeni düzenleme! Resmi Gazete'de yayımlandı",
+  "link": "https://www.sozcu.com.tr/hayvancilik-desteklerinde-yeni-duzenleme-resmi-gazete-de-yayimlandi-p356211",
+  "source": "Sözcü",
+  "summary_tr": "Hayvancılık desteklerinde 2026 yılı için yeni dönem başladı. Buzağı desteği 2 bin TL, malak desteği 4 bin TL, kuzu ve oğlak desteği güncellendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-08T01:01:01.021253+00:00",
+  "type": "news",
+  "cluster_id": "c32c484dfefca"
+ },
+ {
   "title": "İsrail'in Lübnan'ın güneyine düzenlediği saldırılarda 1 kişi öldü, 10 kişi yaralandı",
   "link": "https://www.aa.com.tr/tr/dunya/israilin-lubnanin-guneyine-duzenledigi-saldirilarda-1-kisi-oldu-10-kisi-yaralandi/4050182",
   "source": "Anadolu Ajansı",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-29T11:01:15.035245+00:00",
   "type": "news",
   "cluster_id": "c1ece58691c76"
- },
- {
-  "title": "EXCLUSIVE: US commander warns troops their videos help Iran, sources say",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnRvd2JkQWxrSjBpdHRBSkU2bnZMZUtQc0g0SVZ3eHhzb2FSRFJ6UF9yZlNlcXVWek9jZkVmWVhnNVRSeFNrdUNBZm1PNEQ0RmxxMDY1SkZOS0NHM04xSk1iQzN5b29UbEdhY21IaGZSQU12WWsxR0VNd2t5LXoya1VoRHVET015cWM5emFfM1lhYWZTbS1BWGlfSFdZeXJGalRYdVZCYWFEM1hzd0l5ekQ5M2hJb19YSkNR?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD komutanı, Ortadoğu'da görev yapan askerlerinin sosyal medya videoları yayınlamasının İran'a istihbarat sağladığı konusunda uyarı yayınladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-29T11:01:15.035245+00:00",
-  "type": "news",
-  "cluster_id": "cc68c192c0b7c"
- },
- {
-  "title": "BMW to cut several thousand jobs in latest blow to German auto sector",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVGhvU1oyNGEweVNlWldwNkJaR3h2MTQ0OFZTWl9NQkVkR3dJcUtDT1ktSmJlUllEX1VUR3dyZi1KNTlwck00Z1BIOTc5MTN6R056Ul9NQ1RGNHpQYURUTE45MTZxVEh5anlhQlBYd3ltNWdjRzVSUTdCZnQ1dEE2bXlvbER0SEZhMjNiczZGQy1LY0FwRE1Ea2RXQXJjV3c1RUJDX2lpV0JDWlBxb3o4cXB0cDFmbDh6OVM5ZlgyOElTb2M?oc=5",
-  "source": "Reuters",
-  "summary_tr": "BMW binlerce işçiyi işten çıkaracak; Alman otomotiv sektörüne yeni bir darbe.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-29T11:01:15.035245+00:00",
-  "type": "news",
-  "cluster_id": "c382b80dca188"
  }
 ]
