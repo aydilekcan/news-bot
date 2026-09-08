@@ -1,5 +1,53 @@
 [
  {
+  "title": "Vucic duyurdu: Sırbistan'da erken genel seçim tarihi belli oldu",
+  "link": "https://www.cumhuriyet.com.tr/dunya/vucic-duyurdu-sirbistan-da-erken-genel-secim-tarihi-belli-oldu-2536015",
+  "source": "Cumhuriyet",
+  "summary_tr": "Sırbistan Cumhurbaşkanı Vucic, erken genel seçimin 25 Ekim'de yapılacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-08T21:01:03.710390+00:00",
+  "type": "news",
+  "cluster_id": "cd7fd56957ea8"
+ },
+ {
+  "title": "SPK, fiili dolaşım oranı ve pay sahipliğine ilişkin kararlarını açıkladı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/spk-fiili-dolasim-orani-ve-pay-sahipligine-iliskin-kararlarini-acikladi/4051494",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "SPK, borsada işlem gören şirketlerin pay sahipliği bildirim yükümlülüğü sınırını %3 olarak belirledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-08T21:01:03.710390+00:00",
+  "type": "news",
+  "cluster_id": "c32658bea7773"
+ },
+ {
+  "title": "THY ocak-ağustos döneminde 64 milyon yolcu taşıdı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/thy-ocak-agustos-doneminde-64-milyon-yolcu-tasidi/4051448",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "THY, ocak-ağustos döneminde 64 milyon yolcu taşıdı; geçen yılın aynı dönemine göre %5,4 artış kaydetti.",
+  "metric": "THY yolcu sayısı (ocak-ağustos) geçen yıl -> 64 milyon (+%5,4)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-08T21:01:03.710390+00:00",
+  "type": "news",
+  "cluster_id": "ca5edee70e85c"
+ },
+ {
+  "title": "THY ocakağustos döneminde 64 milyon yolcu taşıdı",
+  "link": "https://www.trthaber.com/haber/ekonomi/thy-ocak-agustos-doneminde-64-milyon-yolcu-tasidi-956277.html",
+  "source": "TRT Haber",
+  "summary_tr": "THY, ocak-ağustos döneminde 64 milyon yolcu taşıdı; geçen yılın aynı dönemine göre %5,4 artış kaydetti.",
+  "metric": "THY yolcu sayısı (ocak-ağustos) geçen yıl -> 64 milyon (+%5,4)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-08T21:01:03.710390+00:00",
+  "type": "news",
+  "cluster_id": "ca5edee70e85c"
+ },
+ {
   "title": "İran, Hürmüz’de ele geçirdiği ABD'ye ait insansız denizaltının görüntülerini yayınladı",
   "link": "https://www.cumhuriyet.com.tr/dunya/iran-hurmuz-de-ele-gecirdigi-abd-ye-ait-insansiz-denizaltinin-goruntulerini-yayinladi-2535988",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-30T11:01:05.343139+00:00",
   "type": "news",
   "cluster_id": "cbe673e59d237"
- },
- {
-  "title": "Savaş uçakları havalandı: Avrupa ülkesini Rus füzesi vurdu",
-  "link": "https://www.sozcu.com.tr/savas-ucaklari-havalandi-avrupa-ulkesine-rus-fuzesi-dustu-p341033",
-  "source": "Sözcü",
-  "summary_tr": "Polonya Başbakanı Donald Tusk, ülkenin doğusundaki tarlaya düşen tanımlanamayan nesnenin muhtemelen Rusya'ya ait bir füze olduğunu açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-30T11:01:05.343139+00:00",
-  "type": "news",
-  "cluster_id": "cb1721c4add13"
- },
- {
-  "title": "AB'den Ukrayna'ya 3,47 milyar avro savunma desteği",
-  "link": "https://www.aa.com.tr/tr/ekonomi/abden-ukraynaya-3-47-milyar-avro-savunma-destegi/4013753",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Avrupa Birliği, Ukrayna'nın acil askeri ihtiyaçlarını karşılamak amacıyla 3,47 milyar avroluk yeni finansman kararı aldı.",
-  "metric": "AB Ukrayna savunma desteği: 3,47 milyar avro",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-30T11:01:05.343139+00:00",
-  "type": "news",
-  "cluster_id": "c44d5a8318e6e"
- },
- {
-  "title": "İşgalci İsrail, Batı Şeria'da neyi hedefliyor?",
-  "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-bati-seriada-neyi-hedefliyor-952598.html",
-  "source": "TRT Haber",
-  "summary_tr": "İşgalci İsrail, Gazze'deki soykırım operasyonlarını sürdürürken Batı Şeria'da da askeri operasyonlar ve yerleşim politikasıyla adım atmaktadır.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-30T11:01:05.343139+00:00",
-  "type": "news",
-  "cluster_id": "c2a0bb86e7f96"
- },
- {
-  "title": "Ahmet Davutoğlu Gelecek Partisi'nin feshedildiğini açıkladı: \"Parti siyasetinden çekilme kararı aldık\"",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV2syLWhpdmZoZVhDcXU4bUw3WUlKb1UxLW0xY0VVYURmeGRNZ00yeXpfQUtUQ1BiSmJvVXhiOW9rUTYzNzNYS0tPX0hxMDNsLXNqakpUZVc5V3NKc2NVMmRZNE9FQ1hkVUhoNnMyWEhrbERRNUoyV21nTTlDTXlUVnIwZEg5LThkUFNjQ1NaRkx3YUdBQU1V?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Ahmet Davutoğlu, Gelecek Partisi'nin feshedildiğini açıklayarak parti siyasetinden çekilme kararını bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-30T11:01:05.343139+00:00",
-  "type": "news",
-  "cluster_id": "c3678a1269d63"
  }
 ]
