@@ -1,5 +1,29 @@
 [
  {
+  "title": "Suudi Arabistan'dan Husi saldırılarına karşılık yemini",
+  "link": "https://www.bbc.com/turkce/articles/cly748xzle0o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Suudi Arabistan, Yemen'deki İran destekli Husilerin enerji tesisleri ve sivil altyapılara düzenlediği onlarca İHA ve füze saldırısına karşılık vermeyi taahhüt etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-08T23:01:03.406829+00:00",
+  "type": "news",
+  "cluster_id": "c91d01bb3ea4b"
+ },
+ {
+  "title": "Gebze'de 37 otomotiv patronu ücretleri baskılamak için gizli anlaşma yapmış: 'Patronlar örgütlüyse, biz de geleceğimiz için örgütlenelim'",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMTJWbWVmczJRbV9IX3I1R214VzZKWUh0REphWlFkUGFQY1VuMFBoYkFfQmlVQ1A3Ujl6WDFiOTVLMTRwVXF3dUVDU3A1b0I1bS1YbjA4RmtMcnJoNE5hZW12RXE0SzRDSGl5MXkxQjZiUTdnRUgwMGYybnBCbm1kdUtzaGlwdWFyQXFzb01OV1Y5SW5EWWdyNmhJVHZCTkVqS2dWV01DSkhpNUhXNmJLeWpRSU01Zw?oc=5",
+  "source": "soL",
+  "summary_tr": "Gebze'deki 37 otomotiv patronu işçi ücretlerini baskılamak amacıyla gizli anlaşma yapmış; sendikalistler tepki göstererek örgütlenme çağrısında bulundu.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-08T23:01:03.406829+00:00",
+  "type": "news",
+  "cluster_id": "ca0e35448a55f"
+ },
+ {
   "title": "Trump’tan Kanada’ya yeni ticaret hamlesi: Ürünler kamu ihalelerinden çıkarılacak",
   "link": "https://www.cumhuriyet.com.tr/turkiye/trump-tan-kanada-ya-yeni-ticaret-hamlesi-urunler-kamu-ihalelerinden-cikarilacak-2536037",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-30T12:01:10.331436+00:00",
   "type": "news",
   "cluster_id": "c1b53da708038"
- },
- {
-  "title": "Drone strike at Egypt's Damietta port raises new security threat near Suez",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUjlxdTM1SnYtZ3Bzei1qLUpRXzlYanVpb1MwNnRuQjY2NmkzZHNTeEl5cGljWGE5VDQ5ZHF0djVzVnV5OEprZWdlWUpPMV9fanYyN1N5cHdhbkxBZC1fZTlHWmpRMG8zdlRZV0hLSW9nTHU0S3JDZU44WWVHbnhWZVhRTVJ1Z0RaM25nR09fTFNTMUR2SVNkVXdlVHpDZHRmMXlJdDN3?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Mısır'ın Damietta limanına yapılan insansız hava aracı saldırısı Süveyş Kanalı yakınlarında yeni güvenlik tehdidi yarattı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-30T12:01:10.331436+00:00",
-  "type": "news",
-  "cluster_id": "c03789a6b5288"
- },
- {
-  "title": "CHP’li Belediyelere Yönelik Operasyonlar Devam Ediyor:Erdal Beşikçioğlu’na da Gözaltı",
-  "link": "https://yetkinreport.com/2026/07/30/chpli-belediyelere-yonelik-operasyonlar-devam-ediyorerdal-besikciogluna-da-gozalti/",
-  "source": "YetkinReport",
-  "summary_tr": "CHP'li belediyelere yönelik operasyonlarda Erdal Beşikçioğlu gözaltına alındı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-30T12:01:10.331436+00:00",
-  "type": "news",
-  "cluster_id": "ca00e13af000b"
  }
 ]
