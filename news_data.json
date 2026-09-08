@@ -1,5 +1,77 @@
 [
  {
+  "title": "İran, Hürmüz’de ele geçirdiği ABD'ye ait insansız denizaltının görüntülerini yayınladı",
+  "link": "https://www.cumhuriyet.com.tr/dunya/iran-hurmuz-de-ele-gecirdigi-abd-ye-ait-insansiz-denizaltinin-goruntulerini-yayinladi-2535988",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran Devrim Muhafızları, Hürmüz Boğazı'nda ele geçirdiği ABD'ye ait insansız denizaltısının görüntülerini yayınladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-08T20:01:12.851045+00:00",
+  "type": "news",
+  "cluster_id": "c49aaa7fd458b"
+ },
+ {
+  "title": "İsrail, Lübnan'ın güneyine topçu atışları ve savaş uçaklarıyla saldırı düzenledi",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-lubnanin-guneyine-topcu-atislari-ve-savas-ucaklariyla-saldiri-duzenledi/4051404",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail, Lübnan'ın güneyine topçu atışları ve savaş uçaklarıyla saldırılar düzenledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-08T20:01:12.851045+00:00",
+  "type": "news",
+  "cluster_id": "cc4a01c69cd5c"
+ },
+ {
+  "title": "AKP'li Şamil Tayyar'dan 'erken yerel seçim' önerisi: 'Tartışmayı da kavgayı da bitirecek en radikal...'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/akp-li-samil-tayyar-da-erken-yerel-secim-onerisi-tartismayi-da-kavgayi-da-bitirecek-en-radikal-2535996",
+  "source": "Cumhuriyet",
+  "summary_tr": "AKP'li Şamil Tayyar, sosyal medyada erken yerel seçim önerisinde bulundu ve tarih verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-08T20:01:12.851045+00:00",
+  "type": "news",
+  "cluster_id": "c7618fd00652e"
+ },
+ {
+  "title": "12 ülke İsrail’e yaptırım kararı almıştı: ABD’nin tavrı da belli oldu",
+  "link": "https://www.sozcu.com.tr/12-ulke-israil-e-yaptirim-karari-almisti-abd-nin-tavri-da-belli-oldu-p356488",
+  "source": "Sözcü",
+  "summary_tr": "12 ülkenin İsrail'e yaptırım kararı sonrası ABD Dışişleri Bakanlığı tavrını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-08T20:01:12.851045+00:00",
+  "type": "news",
+  "cluster_id": "ce08707930dc9"
+ },
+ {
+  "title": "BM, savaş suçlusu Mladic'in cenaze töreninde \"yüceltilmesine\" tepki gösterdi",
+  "link": "https://www.aa.com.tr/tr/dunya/bm-savas-suclusu-mladicin-cenaze-toreninde-yuceltilmesine-tepki-gosterdi/4051430",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "BM, Srebrenitsa Soykırımı'nın baş sorumlusu Ratko Mladic'in cenaze töreninde yüceltilmesine tepki gösterdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-08T20:01:12.851045+00:00",
+  "type": "news",
+  "cluster_id": "c0e818542c4ef"
+ },
+ {
+  "title": "İran, ABD'yi \"gemilere yönelik saldırı tehdidi\" konusunda uyardı",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-abdyi-gemilere-yonelik-saldiri-tehdidi-konusunda-uyardi/4051411",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Silahlı Kuvvetleri, ABD'nin petrol tankerlerine yönelik saldırı tehdidi konusunda ABD'yi uyardı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-08T20:01:12.851045+00:00",
+  "type": "news",
+  "cluster_id": "c6f1017b1e703"
+ },
+ {
   "title": "İran, Hürmüz Boğazı'nda ele geçirdiği ABD'ye ait insansız denizaltı aracının görüntülerini yayımladı",
   "link": "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazinda-ele-gecirdigi-abdye-ait-insansiz-denizalti-aracinin-goruntulerini-yayimladi/4051352",
   "source": "Anadolu Ajansı",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-30T11:01:05.343139+00:00",
   "type": "news",
   "cluster_id": "c3678a1269d63"
- },
- {
-  "title": "Stellantis profit miss stirs doubts over carmaker's revival plan",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ3JIYjNiZ3dUcERHWm1TaGFhWXRZdElSY3Z0WXlOQ0xkbTFnRDhIX2plQUYySDZHRmZDV0VkUWttSnh6YWZpOENZTWdmTE93YzBITUhyM3QtZUZyU3NYcUxabWNZSXppR0c5OHlrcUVXVjZfbHMtSVN1MGVNN0k5RWFSeERzb3B2aEQ5R2JWZ2NKYm9oVUU4c09va1k5Y25YWEY5RnZIUGFJRS1pOGdLcnctYnJfRmRT?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Otomotiv şirketi Stellantis kâr hedefini tutturamadı, şirketin iyileştirme planı sorgulanmaya başlandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-30T11:01:05.343139+00:00",
-  "type": "news",
-  "cluster_id": "c5fd4813da904"
- },
- {
-  "title": "Israeli strikes kill four in Gaza, including two children, amid new ceasefire push",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNHh3eHRRcUdPRGdqS1ViTm1TTDE0NGQwQXZ6Ml82R3g2cVA2c1NLanFFVHpJZU81VENlQ3NaS0xvWmV4VW5HU0hyX2YzUWhZbFJGN3p0dHh5aG5PQ08zakhtZGZycVpFYVdOLVA1ZlVPNGJqZFNvZGhBZDI5QmxiNUlnTXpSWTV2ZFVMZ1BQeGR4Mmo2TWhTTXZrY1dnUmlDWGlCYzVRNXFMNjROdmIxYkY0OG1mWXZiMXFtM1NPcEVoVUllLUJQdVNKMjk?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İsrail saldırıları Gaza'da dört kişiyi öldürdü. Yeni ateşkes görüşmeleri devam etmektedir.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-30T11:01:05.343139+00:00",
-  "type": "news",
-  "cluster_id": "cb9315d2b03f6"
- },
- {
-  "title": "An Iranian strike has hit a Chinese firm's building, killing 1, hours after Jordan downs missiles",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnhRWEFZaDdpMkNfSDhNVmJ6NmxmQUxmZVlfZHJldjhpdVBLdnlaYzVOX3pYNE0wTkhyYmRjempCeDBMNURTejFDNlB5RThIYlhOOWlfb2xvbElYbEl4X3NhUlpYaWwwTkhxSDZSazdXMVc0ei1CYW4xakkzUENEb0tPRXJ4VktVVExvZGpTWnJ6azU5cjVEUmdPS3V0LUE?oc=5",
-  "source": "AP",
-  "summary_tr": "İran saldırısı Çin firmasının binasına isabet etti, bir kişi öldü. Ürdün saatler önce füzeleri düşürmüştür.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-30T11:01:05.343139+00:00",
-  "type": "news",
-  "cluster_id": "c1db2a7c6a22f"
- },
- {
-  "title": "Üsküdar Belediye Başkanı Sinem Dedetaş: 'Olmayı hak ettiğim yer nezarethane değildi'",
-  "link": "https://www.bbc.com/turkce/articles/ckg4rdn5ydgo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Üsküdar Belediye Başkanı Sinem Dedetaş, rüşvet suçlamasıyla gözaltına alındı. İstanbul Anadolu Cumhuriyet Başsavcılığı tarafından belediyeye yönelik operasyon düzenlendi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-30T11:01:05.343139+00:00",
-  "type": "news",
-  "cluster_id": "c2c3b06fed3ea"
- },
- {
-  "title": "Hüseyin Başaran, Ahbap soruşturmasındaki ifadesinde ne söyledi?",
-  "link": "https://www.bbc.com/turkce/articles/c934g0n55p9o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Ahbap Derneği soruşturmasında gözaltına alınan iş insanı Hüseyin Başaran, Haluk Levent ile Şubat-Nisan 2026'de toplam 2 milyar değerinde işlemlerin yapıldığını ifade etti.",
-  "metric": "Bağış transferi: 2 milyar TL",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-30T11:01:05.343139+00:00",
-  "type": "news",
-  "cluster_id": "ce9161f6d00ac"
- },
- {
-  "title": "Son Dakika... Gözaltına alınan Sinem Dedetaş'tan ilk açıklama: 'Aklım ve kalbim Üsküdar’ın sokaklarında'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-gozaltina-alinan-sinem-dedetas-tan-ilk-aciklama-aklim-ve-kalbim-uskudar-in-sokaklarinda-2525039",
-  "source": "Cumhuriyet",
-  "summary_tr": "Üsküdar Belediye Başkanı Sinem Dedetaş, rüşvet suçlamasıyla gözaltına alındıktan sonra ilk açıklamayı sosyal medyada yaptı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-30T11:01:05.343139+00:00",
-  "type": "news",
-  "cluster_id": "cb5d92d1cb978"
  }
 ]
