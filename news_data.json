@@ -1,5 +1,65 @@
 [
  {
+  "title": "Trump, Kanada, Meksika ve Grönland'ı 'ABD toprağı' olarak paylaştı",
+  "link": "https://www.trthaber.com/haber/dunya/trump-kanada-meksika-ve-gronlandi-abd-topragi-olarak-paylasti-956176.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Başkanı Trump, Kanada, Meksika ve Grönland'ı 'ABD toprağı' olarak gösteren bir harita paylaşarak bölgesel gerilimi artırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-08T03:01:05.162040+00:00",
+  "type": "news",
+  "cluster_id": "cd24639a1a07c"
+ },
+ {
+  "title": "Asia stocks waver as yen surges, Iran warns of retaliation",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82VU5LOUdHSU5uLWxoeWs1bi16RTM3dUozczYtZXhPUF9RRFEtUVNTQmphRjloY2k5dkxodEZ1eTZnRjF4NU90clpNZGZJTnk1SEJXME44NDIxT1JNNW5rWW80VGlNbDJXNDdjMHN4YXd4eTRLb3RJLW5Ybw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Yen güçlenişinin ardından Asya piyasaları dalgalı seyretmekte, İran ise misilleme yapacağını uyarmıştır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-08T03:01:05.162040+00:00",
+  "type": "news",
+  "cluster_id": "c44e26a440dc8"
+ },
+ {
+  "title": "Şirkete kâr vatandaşa zam",
+  "link": "https://www.sozcu.com.tr/sirkete-kar-vatandasa-zam-p356219",
+  "source": "Sözcü",
+  "summary_tr": "Deniz Yavuzyılmaz, Boğaz köprülerinden devletin kâr oranının %96'yı aştığını belirterek özelleştirme sonrası vatandaşa yapılan zamları eleştirdi.",
+  "metric": "Devlet kâr oranı %96",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-08T03:01:05.162040+00:00",
+  "type": "news",
+  "cluster_id": "c77244a5f7dbd"
+ },
+ {
+  "title": "Osmanlı’nın malikane yöntemi gibi",
+  "link": "https://www.sozcu.com.tr/osmanli-nin-malikane-yontemi-gibi-p356217",
+  "source": "Sözcü",
+  "summary_tr": "İktisatçı, devletin köprü ve otoyollardan 30 yılda elde edeceği gelirin, 2026 bütçesindeki faiz giderine eşit olduğunu vurgulayarak mali krizin boyutunu ortaya koymaktadır.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-08T03:01:05.162040+00:00",
+  "type": "news",
+  "cluster_id": "cee913a6e6f87"
+ },
+ {
+  "title": "Oil rises as risks of prolonged Mideast conflict heighten supply worries",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNTBHazRJMEhoZks2V2o5M2loY0UtV3pnUjMweXB6cXZuVjQtYmhTWV9oSnF0cDhRZGVybzBuNk9fYWRJU1diemp5VDFxZWdHYy16a0ctWG9ob0JfMUZqRTIwRnoyeHhxckI4NFZCVmM1MGVRaDFPeWh0MVFKTXYyVURKSWdJZGJ5ZWZWYzdHanhyQTBNTGYyRWF6bXVWSDRZdXdYN0pWdURYU0p6Z1lkVzlRWlF4UEIyY1E?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Orta Doğu'daki çatışmanın uzun süreli hale gelme riski petrol fiyatlarını yükselterek arz endişelerini artırmıştır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-08T03:01:05.162040+00:00",
+  "type": "news",
+  "cluster_id": "ccad3cf77ab0b"
+ },
+ {
   "title": "MSB bütçesi 5 yılda dolar bazında 3’e katlandı: Savunma Sanayii Destekleme Fonu ise soru işareti",
   "link": "https://www.cumhuriyet.com.tr/turkiye/msb-butcesi-5-yilda-dolar-bazinda-3-e-katlandi-savunma-sanayii-destekleme-fonu-ise-soru-isareti-2535707",
   "source": "Cumhuriyet",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-29T12:01:18.972556+00:00",
   "type": "news",
   "cluster_id": "c0a95278a5084"
- },
- {
-  "title": "2024'teki yerel seçimlerden bu yana kaç belediye başkanı tutuklandı?",
-  "link": "https://www.bbc.com/turkce/articles/cq6ge85y5ylo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "2024 yerel seçimlerinden bu yana İstanbul, Bursa, Adana, Antalya dahil çok sayıda ilde belediye başkanı tutuklandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-29T11:01:15.035245+00:00",
-  "type": "news",
-  "cluster_id": "c4b3c5e07ea15"
- },
- {
-  "title": "Günaydın: 200'ü aşkın belediye başkanı YENİ Parti'ye katılmak için istifa etti",
-  "link": "https://www.diken.com.tr/gunaydin-200u-askin-belediye-baskani-yeni-partiye-katilmak-icin-istifa-etti/?utm_source=rss&utm_medium=rss&utm_campaign=gunaydin-200u-askin-belediye-baskani-yeni-partiye-katilmak-icin-istifa-etti",
-  "source": "Diken",
-  "summary_tr": "200'den fazla belediye başkanı CHP'den istifa ederek YENİ Parti'ye katıldı.",
-  "metric": "200+ belediye başkanı",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-29T11:01:15.035245+00:00",
-  "type": "news",
-  "cluster_id": "c0aad24c20917"
- },
- {
-  "title": "YENİ Parti'ye dev göç! 200'den fazla belediye başkanı CHP'den istifa etti",
-  "link": "https://www.sozcu.com.tr/yeni-parti-ye-dev-goc-200-den-fazla-belediye-baskani-chp-den-istifa-etti-p340729",
-  "source": "Sözcü",
-  "summary_tr": "YENİ Parti Grup Başkanvekili, 200'den fazla belediye başkanının CHP'den istifa edip partilerine katıldığını duyurdu.",
-  "metric": "200+ belediye başkanı",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-29T11:01:15.035245+00:00",
-  "type": "news",
-  "cluster_id": "c0aad24c20917"
- },
- {
-  "title": "Sinem Dedetaş gözaltında, yurttaşlar Üsküdar Belediyesi önünde: 'Başkanımızın yanındayız'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/sinem-dedetas-gozaltinda-yurttaslar-uskudar-belediyesi-onunde-baskanimizin-yanindayiz-2524749",
-  "source": "Cumhuriyet",
-  "summary_tr": "Üsküdar Belediyesi Başkanı Sinem Dedetaş gözaltına alındı; soruşturma kapsamında operasyon düzenlenmiştir.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-29T11:01:15.035245+00:00",
-  "type": "news",
-  "cluster_id": "cfb0dd0ec31cc"
- },
- {
-  "title": "AİHM'in 'Osman Kavala' kararı için tarih belli oldu",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/aihm-in-osman-kavala-karari-icin-tarih-belli-oldu-2524748",
-  "source": "Cumhuriyet",
-  "summary_tr": "AİHM, Gezi Parkı davası kapsamında tutuklu Osman Kavala'nın 2024 başvurusuna ilişkin kararını 25 Ağustos'ta verecektir.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-29T11:01:15.035245+00:00",
-  "type": "news",
-  "cluster_id": "cf42e11b11b9a"
  }
 ]
