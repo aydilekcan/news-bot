@@ -1,5 +1,65 @@
 [
  {
+  "title": "MSB bütçesi 5 yılda dolar bazında 3’e katlandı: Savunma Sanayii Destekleme Fonu ise soru işareti",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/msb-butcesi-5-yilda-dolar-bazinda-3-e-katlandi-savunma-sanayii-destekleme-fonu-ise-soru-isareti-2535707",
+  "source": "Cumhuriyet",
+  "summary_tr": "Millî Savunma Bakanlığı bütçesi OVP'de bir önceki yıla göre %86 artarak 1 trilyon 532 milyar liraya yükseldi; 5 yılda dolar bazında 3 katına çıktı.",
+  "metric": "MSB bütçesi (yıllık) %86 artış, 1 trilyon 532 milyar TL",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-08T02:01:12.819971+00:00",
+  "type": "news",
+  "cluster_id": "c5a3af825db6a"
+ },
+ {
+  "title": "Seçim yaklaşırken çalışanların tepkisini çekmek istemeyen iktidar geri adım attı: TES sessiz sedasız OVP’den çıktı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/secim-yaklasirken-calisanlarin-tepkisini-cekmek-istemeyen-iktidar-geri-adim-atti-tes-sessiz-sedasiz-ovp-den-cikti-2535700",
+  "source": "Cumhuriyet",
+  "summary_tr": "İktidar, yaklaşan seçimden önce çalışanların tepkisini çekmemek için tamamlayıcı emeklilik (OVP) uygulamasından geri adım attı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-08T02:01:12.819971+00:00",
+  "type": "news",
+  "cluster_id": "c11ce59761857"
+ },
+ {
+  "title": "Geçim derdi kaldırıma taştı",
+  "link": "https://www.sozcu.com.tr/gecim-derdi-kaldirima-tasti-p356212",
+  "source": "Sözcü",
+  "summary_tr": "İstanbul'da geçim maliyeti artması nedeniyle vatandaşlar ekonomik zorluk yaşarken, hükümet köprü ve otoyol özelleştirme kararı almıştır.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-08T02:01:12.819971+00:00",
+  "type": "news",
+  "cluster_id": "c573105762b94"
+ },
+ {
+  "title": "Ukraine's prosecutor general submits resignation citing political conflict",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTHBvazNzS2NpNDU5WnFEcUZieHZrb2NNQ0s5VExqNmZHYkxkMEhTRVhIUlU3OGpnajl0bXVIdmFCUzJCM3JhOVdXYTNMZFBEOXlmNGNOU1FwOE90b0pDbndLa2ZXSG9Ua0FhTFdXRkhDM2xodXdYNzROYWZQMFpBeGFoUWd3MEQ4MklYQlpTbUhJbFItV2ROdG9zSU5xaHo0YjBTcnB1djFuaFRsUm91X2p0c2dZak5NYW82dURwSUZLbXAzVlVVam9vY0ZsMTFGbUE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ukrayna Savcılığı Başkanı, siyasi çatışmalar nedeniyle istifasını sundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-08T02:01:12.819971+00:00",
+  "type": "news",
+  "cluster_id": "c320d83491420"
+ },
+ {
+  "title": "Trump says Canada's Bombardier must build jets in US or lose market access",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdzREc0pTbkJYakNVdk83YXAxTmpwU2gyMGNfbHFpVk4zTEdnVExLcHFUNUpYc0Zya0NyMnVQTGFObXZIeVk3X1I2MFRZQWFGWVJteHdMWEdod3k3N0FhbmliMFRrMG42OTV2bWNvSHZ6Y0lGT0Z1Ymc5NEZTeXExOGtmZkNRcXNfSWpGcXZGLUlHNElxNHVFQk5QN3JoR05xR2JxU29DZ0RiTC1NLWxzMWZiV3p3SnFUcHI1T2oyNElJMWFQMjFscVpB?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, Kanada'nın Bombardier şirketinin uçak üretimini ABD'ye taşımasını şart koştu, aksi halde pazar erişimini kaybedeceklerini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-08T02:01:12.819971+00:00",
+  "type": "news",
+  "cluster_id": "c1bdf4d8c750e"
+ },
+ {
   "title": "Bitkisel ve hayvansal üretimde destek tutarları artırıldı",
   "link": "https://www.trthaber.com/haber/ekonomi/bitkisel-ve-hayvansal-uretimde-destek-tutarlari-artirildi-956175.html",
   "source": "TRT Haber",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-29T11:01:15.035245+00:00",
   "type": "news",
   "cluster_id": "cf42e11b11b9a"
- },
- {
-  "title": "BMW 8 bin kişiyi işten çıkaracak",
-  "link": "https://www.diken.com.tr/bmw-8-bin-kisiyi-isten-cikaracak/?utm_source=rss&utm_medium=rss&utm_campaign=bmw-8-bin-kisiyi-isten-cikaracak",
-  "source": "Diken",
-  "summary_tr": "BMW tasarruf planı kapsamında 8 bin çalışanını işten çıkaracağını duyurdu.",
-  "metric": "8.000 iş kaybı",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-29T11:01:15.035245+00:00",
-  "type": "news",
-  "cluster_id": "c869e73fcb8fb"
- },
- {
-  "title": "BMW yaklaşık 8 bin kişiyi işten çıkaracak",
-  "link": "https://www.aa.com.tr/tr/ekonomi/bmw-yaklasik-8-bin-kisiyi-isten-cikaracak/4012413",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "BMW, zayıflayan Çin pazarı ve artan maliyetler nedeniyle yaklaşık 8 bin kişiyi işten çıkaracak.",
-  "metric": "~8.000 iş kaybı",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-29T11:01:15.035245+00:00",
-  "type": "news",
-  "cluster_id": "c869e73fcb8fb"
- },
- {
-  "title": "ABD ordusunda telefon alarmı: 'Paylaşımlar İran’a hedef gösteriyor'",
-  "link": "https://www.cumhuriyet.com.tr/dunya/abd-ordusunda-telefon-alarmi-paylasimlar-iran-a-hedef-gosteriyor-2524750",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Merkez Kuvvetler Komutanı, Ortadoğu'da görev yapan askerlerinin sosyal medya paylaşımlarının İran'a hedef gösterdiği konusunda uyarı yayınladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-29T11:01:15.035245+00:00",
-  "type": "news",
-  "cluster_id": "c349c07f08d44"
- },
- {
-  "title": "ABD ve Suudi Arabistan Irak’ı vurdu: İran destekli milisler hedefte",
-  "link": "https://www.cumhuriyet.com.tr/dunya/abd-ve-suudi-arabistan-irak-i-vurdu-iran-destekli-milisler-hedefte-2524745",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD ve Suudi Arabistan, İran destekli milislerin Suudi petrol tesislerine saldırılarından sorumlu oldukları Irak'taki hedefleri bombaladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-29T11:01:15.035245+00:00",
-  "type": "news",
-  "cluster_id": "c5bdd7b9b5a78"
- },
- {
-  "title": "Tuzla Belediye Başkanı CHP'den istifa etmeden yönetime AKP'lileri atamaya başladı",
-  "link": "https://www.sozcu.com.tr/tuzla-belediye-baskani-chp-den-istifa-etmeden-yonetime-akp-lileri-atamaya-basladi-p340719",
-  "source": "Sözcü",
-  "summary_tr": "CHP'li Tuzla Belediye Başkanı Eren Ali Bingöl, istifa etmeden yönetimine AKP'lileri atamaya başladı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-29T11:01:15.035245+00:00",
-  "type": "news",
-  "cluster_id": "c1ece58691c76"
  }
 ]
