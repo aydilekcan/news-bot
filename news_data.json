@@ -1,5 +1,41 @@
 [
  {
+  "title": "Sürat Sigorta ve Kaynak Kağıt TMSF'den satılık",
+  "link": "https://www.diken.com.tr/surat-sigorta-ve-kaynak-kagit-tmsfden-satilik/?utm_source=rss&utm_medium=rss&utm_campaign=surat-sigorta-ve-kaynak-kagit-tmsfden-satilik",
+  "source": "Diken",
+  "summary_tr": "TMSF, Sürat Sigorta ve Kaynak Kağıt'ı satışa çıkardı. Her iki şirket de mali sıkıntı nedeniyle koruma altında.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-08T11:01:02.539731+00:00",
+  "type": "news",
+  "cluster_id": "c3667dcc2572e"
+ },
+ {
+  "title": "Almanya'nın ihracatı temmuzda azaldı",
+  "link": "https://www.sozcu.com.tr/almanya-nin-ihracati-temmuzda-azaldi-p356358",
+  "source": "Sözcü",
+  "summary_tr": "Almanya'nın temmuz ihracatı, Çin ve Avrupa'daki zayıf talep ile jeopolitik gerilimlerin etkisiyle azaldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-08T11:01:02.539731+00:00",
+  "type": "news",
+  "cluster_id": "c8fcef4e227a0"
+ },
+ {
+  "title": "TUFE (yıllık): %31,51",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWktEd3lsSHluRklMWXZKdjBQcFVSVDQ5bl85Q1ZHY1RaUTJXTC1JeVdZcGpqVENtV0tJZ3RybzBJQmVveThVZ3ZKdTItRGlvdW5PT005WnpQNFdmRkRVNVJuaV9kZWw1UVlKQkdpS245S2tiMVI2V1FXWDBmdGs3b3JwNA?oc=5",
+  "source": "TÜİK",
+  "summary_tr": "%31,51 → %31,51",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-09-08T11:01:02.539731+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Yanan rafinerilerin dumanları uzaydan görüldü: Bu saldırılardan sonra petrol fırladı",
   "link": "https://www.sozcu.com.tr/yanan-rafinerilerin-dumanlari-uzaydan-goruldu-bu-saldirilardan-sonra-petrol-firladi-p356330",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-29T22:01:10.617478+00:00",
   "type": "news",
   "cluster_id": "c76ac529446aa"
- },
- {
-  "title": "Trump and Netanyahu explored all Iran options including attack, Israeli official says",
-  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNGRMX1g5X0U3ckZtQjhIMHFGMHVjWmZoNlU5bDBydGRabk5LR1dGUUNSaXFHWUQyWnJqd2VJS09KSmU3ZXVtVjBqemVDdTJJNE9JVDkxTm5udWZ1bVRYYmxUdmExbHFsdENjc2N3Yi15R0tEVUxuRXJiQUk4akd2dy1ZU3g5S21wNjhTX29NODVtaUNRU2JoSi04T29pUzNFMGtKR3cyZUN1RF8zZEVTZTFxSkhXZU9ESHphSWhhR1R4ZUlMSnNsVlNQTUxwRTg?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump ve Netanyahu İran'a karşı tüm seçenekleri (saldırı dahil) değerlendirdiğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-29T21:01:04.722410+00:00",
-  "type": "news",
-  "cluster_id": "c5988add532fd"
- },
- {
-  "title": "Microsoft tops quarterly cloud growth estimates, easing spending concerns",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVnM0ZHRyNk40V2NVODFGaFktU2hiQmNldC1DenlGTkNEWmhUNUhscWowMHBrR1ItNE82ZHZwVnRZdVVvTDBRbUtxOEdJa0c5TVdPOGd0X0NKOFBLSkZZc0szVkRpX2poc0hjYjRPOXlrSkVJNFQ3ZDJnV3lMZGJCRTJoZHdsaDBFTnp2cnd1OWNkZ2RjUV9iR0lGNUlNQVdYajlWZ2RHUDZfeUVUWF9tV053OUFNWUxi?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Microsoft bulut hizmeti büyümesinde tahmini aşarak yatırım endişelerini azalttı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-29T21:01:04.722410+00:00",
-  "type": "news",
-  "cluster_id": "c9e9b01db4c19"
- },
- {
-  "title": "Oil prices jump, while the Dow drops more than 1,100 as sinking AI stocks drag Wall Street lower",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVhqMlRBNU0taHdVcUdHUUE3eDFsZEFQbTZ6dElnTEtMOGVSb1ktYlhpbmJHMm9NY2xRc1lQRWRXcGZ2N0NUNm9FSWV1ZkQ2MjAtaE5WWkwxeHFDMmxxX3I4MHNDNmduRnZ4ODNzNUtSZ2hyZEh3NVBtMmthTHA5UDRzcTBXOWJYNS0yVHlUM0loVXE5VThkeg?oc=5",
-  "source": "AP",
-  "summary_tr": "Petrol fiyatları yükselirken Dow Jones 1.100 puan düşüş yaşadı; AI hisseleri piyasayı olumsuz etkiledi.",
-  "metric": "Dow Jones -1.100 puan",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-29T21:01:04.722410+00:00",
-  "type": "news",
-  "cluster_id": "cea1f8c4d2dc9"
  }
 ]
