@@ -1,5 +1,29 @@
 [
  {
+  "title": "İsrail'in Lübnan'ın güneyine düzenlediği saldırılarda 1 kişi öldü, 10 kişi yaralandı",
+  "link": "https://www.aa.com.tr/tr/dunya/israilin-lubnanin-guneyine-duzenledigi-saldirilarda-1-kisi-oldu-10-kisi-yaralandi/4050182",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail, Lübnan'ın güneyine düzenlediği saldırılarda 1 kişi öldü, 10 kişi yaralandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-08T00:01:11.164354+00:00",
+  "type": "news",
+  "cluster_id": "c3db955bdcf0c"
+ },
+ {
+  "title": "Hayvancılık desteklerinde yeni düzenleme: Buzağı desteği 2 bin, malak desteği 4 bin liraya çıkarıldı",
+  "link": "https://www.sozcu.com.tr/hayvancilik-desteklerinde-yeni-duzenleme-buzagi-destegi-2-bin-malak-destegi-4-bin-liraya-cikarildi-p356211",
+  "source": "Sözcü",
+  "summary_tr": "Hayvancılık desteklerinde 2026 yılı için yeni düzenleme yapıldı. Buzağı desteği 2 bin, malak desteği 4 bin liraya çıkarıldı.",
+  "metric": "Buzağı desteği 2.000 TL, malak desteği 4.000 TL",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-08T00:01:11.164354+00:00",
+  "type": "news",
+  "cluster_id": "cfdd7fbfd04d6"
+ },
+ {
   "title": "Iran increases gasoline price for its heaviest consumers as economy struggles",
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZE9fdGFqaXVhNEprd3dRclpqYUFIZlZFZDF1cDVCTFdMbElsYUlXYkxyX29kOHZRRXl2LXc3MWp1UVZlc1lmTXJib0cyMTdpM0FqTENqUC1CV1VJLVI3Z0dvVURtYlJLMC1qc3RfMThVLWN4aVR0QmsxNmQzTDRrTWdDbVE0SmdPdERTek8yb01QWHhTRmpiR0hha2lmaExFeUlF?oc=5",
   "source": "AP",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-29T11:01:15.035245+00:00",
   "type": "news",
   "cluster_id": "c382b80dca188"
- },
- {
-  "title": "Russia charges Telegram founder Durov with aiding terrorism, he gives Moscow the finger",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNXJBcVhwTDJuYl96LXAxeVdYUWNubDJCU01KYV9uTGYyZ200bWMtR3VPX3g1ZGVJV1RDWTl2Ulk0eW5DQ1hJd1pNZlR1aVBpTXZIeFREX0szVmwwRF90LVFMTEpHbkJLUFc0bkN4b3N5U19KZDk4QTVVZjZFNWN1bFVINFZOZ3h1Mm1LRmYyV01kWWVTV0RDSGxYNEZ0eGhLM2ZfVlBrWkJtNnd5djNxc3JUV0pYWFc4ajFMY2NPYw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Rusya, Telegram kurucu Pavel Durov'u terörizmi yardım suçlamasıyla soruşturmaya başladı; Durov protestoda bulundu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-29T11:01:15.035245+00:00",
-  "type": "news",
-  "cluster_id": "c0dbfced11b5a"
- },
- {
-  "title": "Sert düşüş sonrası Güney Kore'den acil piyasa toplantısı",
-  "link": "https://www.sozcu.com.tr/sert-dusus-sonrasi-guney-kore-den-acil-piyasa-toplantisi-p340706",
-  "source": "Sözcü",
-  "summary_tr": "Güney Kore'de hisse senedi endeksinde sert düşüş yaşandı. Ülke, piyasa çöküşünün ardından acil piyasa toplantısı düzenledi.",
-  "metric": "Kospi endeksi %6 düştü",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-29T10:01:10.557396+00:00",
-  "type": "news",
-  "cluster_id": "c830aca34b932"
  }
 ]
