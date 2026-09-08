@@ -1,5 +1,65 @@
 [
  {
+  "title": "İran basını: Hürmüz Boğazı üzerinde ABD'ye ait MQ-1 tipi İHA düşürüldü",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-basini-hurmuz-bogazi-uzerinde-abdye-ait-mq-1-tipi-iha-dusuruldu/4050888",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran, Hürmüz Boğazı üzerinde ABD'ye ait MQ-1 Predator insansız hava aracını düşürdüğünü bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-08T14:01:18.595228+00:00",
+  "type": "news",
+  "cluster_id": "cc8f92624943f"
+ },
+ {
+  "title": "Almanya'da doğal gaz kıtlığından endişe ediliyor",
+  "link": "https://www.dw.com/tr/almanya-da-doğal-gaz-kıtlığından-endişe-ediliyor/a-79170307?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Almanya'da doğal gaz depoları son 15 yılın en düşük seviyesinde; kış aylarında tedarik sıkıntısı uyarısı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-08T14:01:18.595228+00:00",
+  "type": "news",
+  "cluster_id": "c208d8fdd13b2"
+ },
+ {
+  "title": "Bloomberg: Türkiye ile Rusya arasında gübre anlaşması hazırlanıyor",
+  "link": "https://www.cumhuriyet.com.tr/dunya/bloomberg-turkiye-ile-rusya-arasinda-gubre-anlasmasi-hazirlaniyor-2535885",
+  "source": "Cumhuriyet",
+  "summary_tr": "Türkiye, üre ve gübre hammadesi tedarikinde yaşanan sorunlar nedeniyle Rusya ile gübre anlaşması hazırlıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-08T14:01:18.595228+00:00",
+  "type": "news",
+  "cluster_id": "cfe6b4074a67f"
+ },
+ {
+  "title": "Almanya'da doğal gazda arz güvenliğini tehdidi",
+  "link": "https://www.sozcu.com.tr/almanya-da-dogal-gazda-arz-guvenligini-tehdidi-p356414",
+  "source": "Sözcü",
+  "summary_tr": "Almanya'da doğal gaz depolama tesisleri arz güvenliğini tehdit edecek tarihi dip seviyesinde doluluk oranında.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-08T14:01:18.595228+00:00",
+  "type": "news",
+  "cluster_id": "c47048c8b8cdf"
+ },
+ {
+  "title": "AB üyeleri, Ukrayna'ya Patriot hava savunma sistemleri için muafiyet sağlama konusunda anlaştı",
+  "link": "https://www.aa.com.tr/tr/dunya/ab-uyeleri-ukraynaya-patriot-hava-savunma-sistemleri-icin-muafiyet-saglama-konusunda-anlasti/4050915",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "AB üyeleri, Ukrayna'ya Patriot hava savunma sistemleri için kritik ürün muafiyeti sağlamak konusunda anlaştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-08T14:01:18.595228+00:00",
+  "type": "news",
+  "cluster_id": "c51875e6b5e93"
+ },
+ {
   "title": "Almanya'da doğal gaz depolarında seviyenin azalması arz güvenliğini tehdit ediyor",
   "link": "https://www.aa.com.tr/tr/ekonomi/almanyada-dogal-gaz-depolarinda-seviyenin-azalmasi-arz-guvenligini-tehdit-ediyor/4050858",
   "source": "Anadolu Ajansı",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-30T05:01:03.323189+00:00",
   "type": "news",
   "cluster_id": "c6d79f898f399"
- },
- {
-  "title": "Almanlar, İzmirli dev firmayı resmen satın aldı",
-  "link": "https://www.sozcu.com.tr/almanlar-izmirli-dev-firmayi-resmen-satin-aldi-p340876",
-  "source": "Sözcü",
-  "summary_tr": "Alman teknoloji şirketi Obo Bettermann, İzmir'deki Ezel Cıvata'nın çoğunluk hissesini satın aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-30T05:01:03.323189+00:00",
-  "type": "news",
-  "cluster_id": "c7f4bd65d34f7"
- },
- {
-  "title": "Erdoğan: Yeni yasal düzenleme önümüzdeki günlerde Meclis'e sunulacak",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQajFScThKSEo3blo3TWVlQWZvVzBJWTJQNG00cjRobTNNSWtOYTljNTc1V19SWTlXTllrdEdIclk3MS1rSDIyNS1BODdqVV9xWElLeTRoZllTOFFzYzB3UkRGSlc5VTNfcG14NUs1WUdJazBGMkpzRTRUam1oOWNsc2R0Yk9iVll4TGxUUWdiSjRjUXNnZW9pOERmUGdnWk5XV1ZkaWJGMA?oc=5",
-  "source": "soL",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, yeni yasal düzenlemenin önümüzdeki günlerde TBMM'ye sunulacağını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-30T05:01:03.323189+00:00",
-  "type": "news",
-  "cluster_id": "ce27f96c8c4eb"
- },
- {
-  "title": "ABD İran'a karşı 'güçlü' saldırılar başlattı",
-  "link": "https://www.bbc.com/turkce/articles/cvgvp3e2dgeo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD Başkanı Trump'ın 29 Temmuz'da açıkladığı misilleme kararını takiben ABD, İran'a karşı yeniden saldırılara başladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-30T04:01:01.001784+00:00",
-  "type": "news",
-  "cluster_id": "c2d1817640ca6"
- },
- {
-  "title": "Fed leaves interest rate unchanged but with 3 dissents as Warsh praises ‘good family fight’",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN0dYeFppekRSNVVZZFhyUjJpLXd4aWlvMWpiZDc5M3lVcXZFWW9WbjVLSzl3MEZDcHhBMkdjZkpWTjRoY2ZRVThJeHN1emVWVzZXRmlOTFEwM0ZiR1d6NWV4b2dqdno0d0F2cU55emE2RjBjNmJtLUIwMzhfcFNlMUdEY0FJNnNTT2N4Sm55RDBJblExX2dYbmJCMWU1ZnNzVE5jbTdLQVZ6VF94OFE?oc=5",
-  "source": "AP",
-  "summary_tr": "Federal Rezerv faiz oranlarını değiştirmedi; kararında 3 üye muhalefet etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-30T04:01:01.001784+00:00",
-  "type": "news",
-  "cluster_id": "c4f08eb026283"
- },
- {
-  "title": "Samsung sees chip shortage extending to 2028, shares surge 8%",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeEFMZFc3WHBfOVFBR0JhTjNnd2dWdmpoSm9wSW1YNDc0S2FmemlKMWVZaDdPcjJTanc5a19BVHRnTGtMNlNfWFBvbHk1ZGM3YjlIb3lzVU52RUZQS0xDaHgybDFJVFhhUFhyT3NMa0E3bzY2T0M5ZU9PRHg0VklLS3R3d2o5eHVNcWdGdF9rNk1qS29VandoLTdReDV5T0pBR2phRHZiWks3U0hqdHktR2xsUUZMRlpuNjVrRWJ3?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Samsung, çip kıtlığının 2028'e kadar uzanacağını tahmin etti; şirketin hisseleri %8 yükseldi.",
-  "metric": "Samsung hisse senedi +%8",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-30T04:01:01.001784+00:00",
-  "type": "news",
-  "cluster_id": "c99a024ff813c"
  }
 ]
