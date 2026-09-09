@@ -1,5 +1,41 @@
 [
  {
+  "title": "Merkez Bankası faiz kararını açıklayacak: Beklentiler ne yönde?",
+  "link": "https://www.bbc.com/turkce/articles/cvgypkn91kno?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "TCMB Para Politikası Kurulu faiz kararını yarın açıklayacak. Ağustos enflasyon verileri beklentilere karşı faiz politikasını belirleyecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-09-09T15:01:22.669347+00:00",
+  "type": "news",
+  "cluster_id": "cad29795ff8ad"
+ },
+ {
+  "title": "Stocks fall on Wall Street as oil prices jump above $100 a barrel after US and Iran war escalates",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU1FDWlZxem5yejRWekJjdmdOVW4tU2RQYWpQX2FDWmlHZ3lBOVlYNjdEb01mcUFvM2FhaV9fMG5kUno1VzRjY0F6WkhKbmgxTzUwZXdabXprUjdGbTBuVE5jR2s4QVJqdkt6cS1QTVcwMW82d29FYjBvMFoxdjVrdkxwS0wyY0toNWNYaUpqUkJ6ZkM0bFZHdDk4RU1qWm9Ga0VUQ1J3WQ?oc=5",
+  "source": "AP",
+  "summary_tr": "Wall Street hisseleri düştü; ABD-İran çatışmasının tırmanması petrol fiyatlarını 100 doların üzerine çıkardı. Küresel risk iştahı bozuldu.",
+  "metric": "Petrol fiyatı -> 100 USD/varil üzeri",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-09T15:01:22.669347+00:00",
+  "type": "news",
+  "cluster_id": "c3703c7db8ef1"
+ },
+ {
+  "title": "Gümüş gaza bastı: Yüzde 3'ten fazla yükseldi",
+  "link": "https://www.sozcu.com.tr/gumus-gaza-basti-yuzde-3-ten-fazla-yukseldi-p356739",
+  "source": "Sözcü",
+  "summary_tr": "Gümüş fiyatı yüzde 3'ün üzerinde yükseldi ve ons başına 67 doların üzerine çıktı. Zayıflayan dolar metal fiyatlarını destekledi.",
+  "metric": "Gümüş (ons) -> 67 USD (+%3)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-09T15:01:22.669347+00:00",
+  "type": "news",
+  "cluster_id": "c1d77c2a18c2d"
+ },
+ {
   "title": "Asgari ücret büyük ihtimalle bu rakama çıkacak",
   "link": "https://www.sozcu.com.tr/asgari-ucret-buyuk-ihtimalle-bu-rakama-cikacak-p356728",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-31T06:01:16.893644+00:00",
   "type": "news",
   "cluster_id": "cc8b9de362d26"
- },
- {
-  "title": "IBAN'ı olan herkesi ilgilendiren yeni karar : Resmi Gazete'de bugün  yayımlandı",
-  "link": "https://www.sozcu.com.tr/iban-i-olan-herkesi-ilgilendiren-yeni-karar-resmi-gazete-de-bugun-yayimlandi-p341196",
-  "source": "Sözcü",
-  "summary_tr": "IBAN mağduru hesap sahiplerine ceza indirimi ve duruşma süresi sınırlandırması getiren yeni karar Resmi Gazete'de yayımlandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-31T06:01:16.893644+00:00",
-  "type": "news",
-  "cluster_id": "c74b63b7acb7f"
- },
- {
-  "title": "Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVzg3S3dnZExJa0JrQ0tWRDJfOUxDS25LaHU5djJUVTlqTXhRMU9QRjNsZGlVNU5wclotbThRcW92Mnd0ZzdSaktaSktmMUpaVmUyaWs0aFF4SGhtc2E2TS1lcXNXSlphajlFQWFiaWo2aDdrLWlXTXQyTmZIeElQX3Mtelh6Mi1RMHI2UFFVdVdFTl92ay1N?oc=5",
-  "source": "AP",
-  "summary_tr": "Microsoft hisse senedi 2008'den bu yana en iyi günü yaşarken, ABD borsaları yükselişte; tahvil piyasasında enflasyon endişeleri devam ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-31T06:01:16.893644+00:00",
-  "type": "news",
-  "cluster_id": "c57f3b04f18c5"
- },
- {
-  "title": "Motorine zam geldi: Litre fiyatı 80 lirayı geçti",
-  "link": "https://www.sozcu.com.tr/motorine-zam-geldi-fiyati-80-lirayi-gecti-p341186",
-  "source": "Sözcü",
-  "summary_tr": "Akaryakıt fiyatlarında gece yarısı 3,71 TL artış yapıldı; motorinin litre fiyatı 80 lira eşiğini aştı.",
-  "metric": "Motorin (litre) 80 TL eşiğini geçti (+3,71 TL artış)",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-31T05:01:13.480261+00:00",
-  "type": "news",
-  "cluster_id": "c5278997fc64a"
  }
 ]
