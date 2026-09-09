@@ -1,5 +1,29 @@
 [
  {
+  "title": "Döviz, borsa ve gram altında nefesler tutuldu: Yarın 14.00'te dananın kuyruğu kopabilir",
+  "link": "https://www.sozcu.com.tr/doviz-borsa-ve-gram-altinda-nefesler-tutuldu-yarin-14-00-te-dananin-kuyrugu-kopabilir-p356683",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye Cumhuriyet Merkez Bankası yarın (14:00) faiz kararını açıklayacak; piyasalarda döviz, borsa ve altında beklenti yüksek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-09T12:01:44.363031+00:00",
+  "type": "news",
+  "cluster_id": "c60cb57a7674c"
+ },
+ {
+  "title": "Hükümetin yaşlılara 'müjde'si: Uzun dönemli bakım sigortası",
+  "link": "https://www.diken.com.tr/hukumetin-yaslilara-mujdesi-uzun-donemli-bakim-sigortasi/?utm_source=rss&utm_medium=rss&utm_campaign=hukumetin-yaslilara-mujdesi-uzun-donemli-bakim-sigortasi",
+  "source": "Diken",
+  "summary_tr": "Hükümet, 2027-2029'da yaşlılara yönelik uzun dönemli bakım sigortası programı başlatacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-09T12:01:44.363031+00:00",
+  "type": "news",
+  "cluster_id": "c7b9fa2ca3b73"
+ },
+ {
   "title": "Emekli ve memura yapılacak zamlar belli oldu: İşte meslek meslek yeni maaşlar",
   "link": "https://www.sozcu.com.tr/emekli-ve-memura-yapilacak-zamlar-belli-oldu-iste-meslek-meslek-yeni-maaslar-p356674",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-31T04:00:59.344690+00:00",
   "type": "news",
   "cluster_id": "cb47e6486dcb2"
- },
- {
-  "title": "Hamas, Gazze'de Barış Kurulu ile silah bırakmak konusunda anlaştıklarını açıkladı, planın detayları neler?",
-  "link": "https://www.bbc.com/turkce/articles/c70gx2gke5ro?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Hamas ve Gazze silahlı grupları ABD aracılığıyla barış planında silah bırakmayı kabul ettiklerini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-31T03:01:01.545768+00:00",
-  "type": "news",
-  "cluster_id": "c8f606f92ab04"
- },
- {
-  "title": "Russian strikes across Ukraine kill 10 and NATO scrambles jets after a missile falls in Poland",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVnV5VmFlVUF0bkZUbjdIeHZqZUFXM3Npd0NlN1p6SDlJTGlLd0F1dWhUSjFnRUozNlc1MUx2eUw5d3BMSFJvX3pLYUpYNkkyaHNWWUVETV91Um5tbG5fOXpWS0h4cWV6MkZvN1o0UEd3b3FXbkpfaVVDbER4MTlidXVaM2FSY0hGYV91ekN6aW9mWmdZREt2ckVFOU9vMU41UlpHSVRB?oc=5",
-  "source": "AP",
-  "summary_tr": "Rusya Ukrayna'ya saldırıda bulundu, füze Polonya'ya düştü ve NATO savaş uçaklarını havalandırdı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-31T03:01:01.545768+00:00",
-  "type": "news",
-  "cluster_id": "c244ed43f625f"
  }
 ]
