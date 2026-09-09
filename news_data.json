@@ -1,5 +1,29 @@
 [
  {
+  "title": "Asgari ücret büyük ihtimalle bu rakama çıkacak",
+  "link": "https://www.sozcu.com.tr/asgari-ucret-buyuk-ihtimalle-bu-rakama-cikacak-p356728",
+  "source": "Sözcü",
+  "summary_tr": "2027 yılı asgari ücret tahmini Orta Vadeli Program'daki enflasyon verilerine göre hesaplanıyor. Henüz kesin rakam açıklanmadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-09T14:01:07.907569+00:00",
+  "type": "news",
+  "cluster_id": "cfe66567d8bd6"
+ },
+ {
+  "title": "Bakan Bolat: Ev ve mutfak eşyaları sektörü 2,6 milyar dolar net dış ticaret fazlası sağlıyor",
+  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-ev-ve-mutfak-esyalari-sektoru-2-6-milyar-dolar-net-dis-ticaret-fazlasi-sagliyor/4052119",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ticaret Bakanı Bolat, ev ve mutfak eşyaları sektörünün 2,6 milyar dolar net dış ticaret fazlası sağladığını açıkladı.",
+  "metric": "Ev-mutfak eşyaları sektörü dış ticaret fazlası: 2,6 milyar dolar",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-09T14:01:07.907569+00:00",
+  "type": "news",
+  "cluster_id": "ca1b691efe8a2"
+ },
+ {
   "title": "Brent oil tops $100 as Middle East conflict intensifies, stoking supply fears",
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5",
   "source": "Reuters",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-31T05:01:13.480261+00:00",
   "type": "news",
   "cluster_id": "c5278997fc64a"
- },
- {
-  "title": "Altında 4 ay sonra bir ilk: Dolar 6 haftanın dibinde, ons altın yükselişe geçti",
-  "link": "https://www.sozcu.com.tr/altinda-4-ay-sonra-bir-ilk-dolar-6-haftanin-dibinde-ons-altin-yukselise-gecti-p341187",
-  "source": "Sözcü",
-  "summary_tr": "ABD Merkez Bankası'nın faiz kararıyla altın yükseliş başladı; ons altın 4.100 dolar seviyesine ulaştı.",
-  "metric": "Altın (ons) bir önceki seviyeye kıyasla yükselişe geçti (4.100+ dolar)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-31T05:01:13.480261+00:00",
-  "type": "news",
-  "cluster_id": "ce0acb4f7f2ca"
- },
- {
-  "title": "Çerçeve yasa Meclis'e geliyor: Üç gruba denetimli serbestlik, Öcalan kapsam dışında",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMno2MUpHTC1mMzZrX1lhdUVVOVFxdlhZLTVjcU9YNE1TRkx6eHFobnVuVzVrY25hLUVPVG04NkNBeG5IbG9YeWNkdGlaUXptMW9aQ0pfNXUtZy1SYnczWWdXdlRFSXVUNTlMX1ZDTE9HbzZWdktfMzlUSXBLZTN2WC12NDVzZ0l0RTMxcUVBQmJBWVRLTEZPZmJDNUJ1LWk3MVg0WWpjb1JCQ3hXTXVHY2paSm4?oc=5",
-  "source": "T24",
-  "summary_tr": "Çerçeve yasa TBMM'ye geliyor: Üç gruba denetimli serbestlik uygulanacak ancak Öcalan kapsam dışında bırakıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-31T05:01:13.480261+00:00",
-  "type": "news",
-  "cluster_id": "c80c1560bdf51"
  }
 ]
