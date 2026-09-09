@@ -1,5 +1,77 @@
 [
  {
+  "title": "Fed to hold rates steady in rest of 2026; rising number of analysts see at least one hike: Reuters poll",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0NreUFoTnFxX3ZzQnd3YU9FNFVkQmhfZlBrSVBUUm12Q0lCckxRTHdWcUVHbmJpcDZKbVhNZG5RektYQlpqaUZGMjl2TnJ0amhPMGJBWnB6OG9FVTB5dVJPTlc1ZjJaa2djUl9HR3VhYzIxODJjVEx1NUswdkVkblYxNVNSY1dYWlpUdzlEQU9UNTNzaUtVWXVtdXljVEUzSnVOQTV2bTJHSXN6Q2E3U0pzcVk5U19qUmc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Fed, 2026 yılının geri kalanında faiz oranlarını stabil tutacak; analistler en az bir artışı öngörüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-09-09T16:01:14.930711+00:00",
+  "type": "news",
+  "cluster_id": "cba47e37747ff"
+ },
+ {
+  "title": "Oil pushes past $100 as wave of US-Iran attacks exposes dwindling safety net",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWk83eHNVQXFWUEdoZGxYdmRpdnhuMFFKM3JfMkRRNDMxWmM0c1JPVmpkRWhQVVBvX0VLdjlhZ296NHpDVDdUNS0xZl9jRXJEeWZ1N1ZWSnZGUjVueEc2MzdjNTAwUTNlUFEtZWZ5el9Jc3dBYjJzVzN6R080aFJLLVlYWEVqUTU0WHRGX1hMSXQ3cnFpaVNHeHM3enRkYjZDcEUyb0Vic1JhMExzU1BCZVBvZlh2dExCZ3dRTVBlNWxNZw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD-İran gerilimine bağlı olarak petrol fiyatı 100 doları aştı.",
+  "metric": "Petrol fiyatı 100$ üstüne çıktı",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-09T16:01:14.930711+00:00",
+  "type": "news",
+  "cluster_id": "caf93b1b52492"
+ },
+ {
+  "title": "Son dakika...Türkiye dahil 9 ülke İngiltere’nin İsrail’e yaptırım kararını destekledi",
+  "link": "https://www.sozcu.com.tr/son-dakika-turkiye-dahil-9-ulke-ingiltere-nin-israil-e-yaptirim-kararini-destekledi-p356763",
+  "source": "Sözcü",
+  "summary_tr": "İngiltere İsrail'e yaptırım kararına Türkiye dahil 9 ülke destek verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-09T16:01:14.930711+00:00",
+  "type": "news",
+  "cluster_id": "c1eeff21e519f"
+ },
+ {
+  "title": "Kremlin says cheaper Russian gas could ease Europe's pain amid rising prices",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcDd3cC1qWUNIQWExMDgwZ0RfYTJWZlhWM2tZalpPNTBPazZXQXNwejNFeExrWUhKN2o0bTVXbmtXdGI0Z0lEVjZWblVOX2RTMTRGZ2FQRW15RjRSUGJ0YS1Xdm5QNkdfdVA3NzgxSnZOSUNmVllETjgyZ2pBcm5tYTFEaF9hdUh5NnlXR0l1RHFxODMtS1AwUW5lSzY1bVJy?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Kremlin, ucuz Rus gazının Avrupa'nın artan enerji fiyatları sorununu hafifletebileceğini belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-09T16:01:14.930711+00:00",
+  "type": "news",
+  "cluster_id": "c0eceb1c76a4a"
+ },
+ {
+  "title": "İsrail, 12 Batılı ülkeye meydan okurcasına bugün Batı Şeria'da 747 yeni konut biriminin inşasını görüşecek",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-12-batili-ulkeye-meydan-okurcasina-bugun-bati-seriada-747-yeni-konut-biriminin-insasini-gorusecek/4052364",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail, Batı Şeria'da 747 yeni konut biriminin inşasını görüşecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-09T16:01:14.930711+00:00",
+  "type": "news",
+  "cluster_id": "c39d9d5c00ff0"
+ },
+ {
+  "title": "Netanyahu, Suriye'nin Şeyh Dağı'ndan Akdeniz'e kadar olan bölgeyi kontrol ettiklerini savundu",
+  "link": "https://www.aa.com.tr/tr/dunya/netanyahu-suriyenin-seyh-dagindan-akdenize-kadar-olan-bolgeyi-kontrol-ettiklerini-savundu/4052329",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Netanyahu, İsrail'in Suriye'de Şeyh Dağı'ndan Akdeniz'e kadar bölgeyi kontrol ettiğini savundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-09T16:01:14.930711+00:00",
+  "type": "news",
+  "cluster_id": "ce73678fefdd5"
+ },
+ {
   "title": "Merkez Bankası faiz kararını açıklayacak: Beklentiler ne yönde?",
   "link": "https://www.bbc.com/turkce/articles/cvgypkn91kno?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-31T07:01:06.688838+00:00",
   "type": "news",
   "cluster_id": "cdd31d6204de1"
- },
- {
-  "title": "Esfender Korkmaz: Kamu altyapı yatırımları için ayrıca bir vergi daha veriyoruz",
-  "link": "https://www.diken.com.tr/esfender-korkmaz-kamu-altyapi-yatirimlari-icin-ayrica-bir-vergi-daha-veriyoruz/?utm_source=rss&utm_medium=rss&utm_campaign=esfender-korkmaz-kamu-altyapi-yatirimlari-icin-ayrica-bir-vergi-daha-veriyoruz",
-  "source": "Diken",
-  "summary_tr": "Esfender Korkmaz, Türkiye'de kamu altyapı yatırımları için ek vergi uygulandığını ve G20 ülkeleri içinde bu vergilerin yüksek olduğunu belirtti.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-31T06:01:16.893644+00:00",
-  "type": "news",
-  "cluster_id": "c3bd8532994f9"
- },
- {
-  "title": "Murat Sururi Özbülbül: Bir evde dört kişi asgari ücrete çalışıyorsa bile yoksulluk sınırına ulaşılamıyor",
-  "link": "https://www.diken.com.tr/murat-sururi-ozbulbul-bir-evde-dort-kisi-asgari-ucrete-calisiyorsa-bile-yoksulluk-sinirina-ulasilamiyor/?utm_source=rss&utm_medium=rss&utm_campaign=murat-sururi-ozbulbul-bir-evde-dort-kisi-asgari-ucrete-calisiyorsa-bile-yoksulluk-sinirina-ulasilamiyor",
-  "source": "Diken",
-  "summary_tr": "Analiz: Asgari ücretle bile dört kişilik bir ailenin yoksulluk sınırına ulaşamadığı, enflasyon ve ücret arasında büyük açık olduğu vurgulandı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-31T06:01:16.893644+00:00",
-  "type": "news",
-  "cluster_id": "c565b91a97966"
- },
- {
-  "title": "Dünya devi Türkiye'de yer arıyor: 300 milyon euro için iki il karşı karşıya",
-  "link": "https://www.sozcu.com.tr/dunya-devi-turkiye-de-yer-ariyor-300-milyon-euro-icin-iki-il-karsi-karsiya-p341207",
-  "source": "Sözcü",
-  "summary_tr": "Yaklaşık 300 milyon Euro değerinde dünyaca ünlü bir rüzgar türbini üreticisinin Türkiye'ye yatırım yapması için iki il rekabet halindedir.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-31T06:01:16.893644+00:00",
-  "type": "news",
-  "cluster_id": "c5701681d218d"
- },
- {
-  "title": "Binek otomobiller için asgari maktu vergi uygulaması getirildi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/binek-otomobiller-icin-asgari-maktu-vergi-uygulamasi-getirildi/4014500",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Binek otomobiller ve yolcu taşıtları için asgari maktu vergi uygulaması devreye alındı.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-07-31T06:01:16.893644+00:00",
-  "type": "news",
-  "cluster_id": "c45e271e49eb2"
- },
- {
-  "title": "Burcu Aydın: Yeni bir enflasyon dalgası",
-  "link": "https://www.diken.com.tr/burcu-aydin-yeni-bir-enflasyon-dalgasi/?utm_source=rss&utm_medium=rss&utm_campaign=burcu-aydin-yeni-bir-enflasyon-dalgasi",
-  "source": "Diken",
-  "summary_tr": "Burcu Aydın, yüksek enflasyon ve finansman maliyetleri ortamında yeni bir enflasyon dalgası yaşanabileceği uyarısında bulundu.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-31T06:01:16.893644+00:00",
-  "type": "news",
-  "cluster_id": "c7548246b2324"
- },
- {
-  "title": "Bir gecede her şey değişti! Çip devleri yükselişe geçti",
-  "link": "https://www.sozcu.com.tr/bir-gecede-her-sey-degisti-cip-devleri-yukselise-gecti-p341200",
-  "source": "Sözcü",
-  "summary_tr": "Amazon ve Microsoft'un beklentileri aşan finansal sonuçları yapay zeka sektörüne ivme kazandırdı; teknoloji şirketlerinin değeri arttı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-31T06:01:16.893644+00:00",
-  "type": "news",
-  "cluster_id": "cc8b9de362d26"
  }
 ]
