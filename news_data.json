@@ -1,5 +1,41 @@
 [
  {
+  "title": "Faiz ödemeleri 2 trilyona koşuyor",
+  "link": "https://www.sozcu.com.tr/faiz-odemeleri-2-trilyona-kosuyor-p356511",
+  "source": "Sözcü",
+  "summary_tr": "Hazine'nin ağustos faiz ödemeleri 159,8 milyar lira oldu; ilk 8 ayda toplam faiz ödemesi 1 trilyon 915 milyar liraya ulaştı.",
+  "metric": "Ağustos faiz ödemesi: 159,8 milyar TL; 8 aylık toplam: 1.915 milyar TL",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-09T02:01:08.268892+00:00",
+  "type": "news",
+  "cluster_id": "c79e8056d6b0c"
+ },
+ {
+  "title": "Tektsilci 4 yılda 364 bin istihdam kaybına karşı önlem için yeni politika bekliyor: Sanayici ‘üzülerek izliyor’",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/tektsilci-4-yilda-364-bin-istihdam-kaybina-karsi-onlem-icin-yeni-politika-bekliyor-sanayici-uzulerek-izliyor-2536025",
+  "source": "Cumhuriyet",
+  "summary_tr": "Tekstil sanayicileri, yeni Orta Vadeli Program'da üretim desteklemek için vizyon göremediklerini belirtti; 4 yılda 364 bin istihdam kaybı yaşandı.",
+  "metric": "İstihdam kaybı: 364 bin",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-09T02:01:08.268892+00:00",
+  "type": "news",
+  "cluster_id": "cf3fa4419f94c"
+ },
+ {
+  "title": "Oil jumps $1 in early trade after Iran launches missiles at Jordan",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUzVwcURFOW5QT2VTVW5YdFV2a2NPRGh1YkFoaTV2VUE0MXhES2gwR1ptSldNN29OZUZOLUQ2NlFUZUNpYjRFV25nTTR5cW03ZEFmX1BzMzViNGI5VXhWMWhtZHU1SDNxQ1Iyc2lDcEZOYnVpU3JMUVE4Uk9IUkVyYUdjd2ppV01LbDZESEQzWDBaZHZyOEpCem9yRkw0YUhnTVpuSVlzc01jVWszdVJSWg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran'ın Ürdün'e füze saldırısının ardından petrol erken alışveriş saatinde 1 dolar yükseldi.",
+  "metric": "Petrol: +$1",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-09T02:01:08.268892+00:00",
+  "type": "news",
+  "cluster_id": "c0ac4ba0d97f9"
+ },
+ {
   "title": "Suudi Arabistan'dan Husi saldırılarına karşılık yemini",
   "link": "https://www.bbc.com/turkce/articles/cly748xzle0o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-30T12:01:10.331436+00:00",
   "type": "news",
   "cluster_id": "c4a1a369cfb96"
- },
- {
-  "title": "Araç sahipleri 2 gün içinde o parayı ödemek zorunda",
-  "link": "https://www.sozcu.com.tr/arac-sahipleri-2-gun-icinde-o-parayi-odemek-zorunda-p341053",
-  "source": "Sözcü",
-  "summary_tr": "Motorlu taşıtlar vergisi (MTV) ve gelir vergisinin ikinci taksiti için 2 gün içinde ödeme yapılması gerekiyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-30T12:01:10.331436+00:00",
-  "type": "news",
-  "cluster_id": "c6db37c555dd4"
- },
- {
-  "title": "MTV ve gelir vergisinde ikinci taksitlerin ödenmesi için yarın son gün",
-  "link": "https://www.aa.com.tr/tr/ekonomi/mtv-ve-gelir-vergisinde-ikinci-taksitlerin-odenmesi-icin-yarin-son-gun/4013811",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "MTV ve gelir vergisinin ikinci taksitinin ödeme süresi yarın bitiyormuş olacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-30T12:01:10.331436+00:00",
-  "type": "news",
-  "cluster_id": "cd15c06bb71b2"
- },
- {
-  "title": "İngiltere Merkez Bankası, politika faizini yüzde 3,75'te sabit bıraktı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/ingiltere-merkez-bankasi-politika-faizini-yuzde-3-75te-sabit-birakti/4013786",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İngiltere Merkez Bankası politika faizini %3,75'te sabit bıraktı.",
-  "metric": "BoE politika faizi %3,75 (sabit)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-30T12:01:10.331436+00:00",
-  "type": "news",
-  "cluster_id": "c1b53da708038"
  }
 ]
