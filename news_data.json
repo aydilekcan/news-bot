@@ -1,5 +1,17 @@
 [
  {
+  "title": "Netanyahu Şeyh Dağı’na gitti: Suriye ve Ürdün tepki gösterdi",
+  "link": "https://www.sozcu.com.tr/netanyahu-seyh-dagi-na-gitti-suriye-ve-urdun-tepki-gosterdi-p356812",
+  "source": "Sözcü",
+  "summary_tr": "İsrail Başbakanı Netanyahu, işgal altındaki Suriye topraklarındaki Şeyh Dağı'na gitti; Suriye ve Ürdün tepki gösterdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-09T23:01:00.441528+00:00",
+  "type": "news",
+  "cluster_id": "c3ab66966a602"
+ },
+ {
   "title": "Zelenskiy ölümden döndü: Saldırıdan kıl payı kurtuldu",
   "link": "https://www.sozcu.com.tr/zelenskiy-olumden-dondu-saldiridan-kil-payi-kurtuldu-p356803",
   "source": "Sözcü",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-31T11:01:08.694679+00:00",
   "type": "news",
   "cluster_id": "c198281114d5e"
- },
- {
-  "title": "Pazarda dert yanan esnaf: 'Ekonomi gitti, insanlar öldü, kefenleyip gömecek adam lazım'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/pazarda-dert-yanan-esnaf-ekonomi-gitti-insanlar-oldu-kefenleyip-gomecek-adam-lazim-2525363",
-  "source": "Cumhuriyet",
-  "summary_tr": "Esnaflar artan maliyetler ve düşen satışlardan şikayet ediyor; ekonomik kriz esnaf gelirlerini ciddi şekilde etkilemiş.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-31T11:01:08.694679+00:00",
-  "type": "news",
-  "cluster_id": "c9b263df47eb4"
  }
 ]
