@@ -1,5 +1,29 @@
 [
  {
+  "title": "ABD Kanada ürünlerine ithalat yasağı getiriyor",
+  "link": "https://www.trthaber.com/haber/dunya/abd-kanada-urunlerine-ithalat-yasagi-getiriyor-956283.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Başkanı Trump, Kanada menşeli ürünlere ithalat yasağı getiriyor ve kamu ihalelerinden çıkarıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-09T03:01:13.709507+00:00",
+  "type": "news",
+  "cluster_id": "cdca0774136f7"
+ },
+ {
+  "title": "İşsizlik Fonu'nu boşaltacaklar",
+  "link": "https://www.sozcu.com.tr/issizlik-fonu-nu-bosaltacaklar-p356510",
+  "source": "Sözcü",
+  "summary_tr": "İktidar seçim müjdeleri için İşsizlik Fonu'ndan 625 milyon lira çekmeyi planlıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-09T03:01:13.709507+00:00",
+  "type": "news",
+  "cluster_id": "c314d8d53cc7a"
+ },
+ {
   "title": "Faiz ödemeleri 2 trilyona koşuyor",
   "link": "https://www.sozcu.com.tr/faiz-odemeleri-2-trilyona-kosuyor-p356511",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-30T12:01:10.331436+00:00",
   "type": "news",
   "cluster_id": "c8677e32e8449"
- },
- {
-  "title": "Polonya topraklarına Rus füzesi düştü, dev krater oluştu",
-  "link": "https://www.dw.com/tr/polonya-topraklarına-rus-füzesi-düştü-dev-krater-oluştu/a-78173249?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Polonya'nın Ukrayna sınırına 80 km mesafesinde Rus füzesi düştü ve 10 metre çapında krater oluştu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-30T12:01:10.331436+00:00",
-  "type": "news",
-  "cluster_id": "c2dce0d495ba1"
- },
- {
-  "title": "Numan Kurtulmuş'tan kritik 'çerçeve yasa' açıklaması: 'Çalışmaların sonuna gelinmiştir'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/numan-kurtulmus-tan-kritik-cerceve-yasa-aciklamasi-calismalarin-sonuna-gelinmistir-2525056",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM Başkanı Numan Kurtulmuş, 'Terörsüz Türkiye' sürecinde çerçeve yasa çalışmalarının tamamlandığını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-30T12:01:10.331436+00:00",
-  "type": "news",
-  "cluster_id": "c4a1a369cfb96"
  }
 ]
