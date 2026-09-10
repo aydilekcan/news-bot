@@ -1,5 +1,41 @@
 [
  {
+  "title": "Mehmet Şimşek'ten gazetecilere kur açıklaması: Ne demek istedi?",
+  "link": "https://www.sozcu.com.tr/mehmet-simsek-ten-gazetecilere-kur-aciklamasi-ne-demek-istedi-p356864",
+  "source": "Sözcü",
+  "summary_tr": "Hazine ve Maliye Bakanı Mehmet Şimşek, serbest dalgalı kur geçişi koşulları ve enflasyon hedefleri üzerine önemli açıklamalar yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-10T06:01:07.594072+00:00",
+  "type": "news",
+  "cluster_id": "c3204a9ca4602"
+ },
+ {
+  "title": "Piyasalarda gözler TCMB ve ECB'nin faiz kararlarına çevrildi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/piyasalarda-gozler-tcmb-ve-ecbnin-faiz-kararlarina-cevrildi/4052733",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Küresel piyasalar Orta Doğu çatışmaları nedeniyle negatif seyrederken, TCMB ve ECB'nin faiz kararlarına odaklanılıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-10T06:01:07.594072+00:00",
+  "type": "news",
+  "cluster_id": "c7e5a254a5bdd"
+ },
+ {
+  "title": "TUFE yıllık tahmin (yıl sonu): %28,4 (Yıl sonu)",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUl9rS2pOWU9KdWRmeFczZEc5Z1BWT1pZZEVLWEZMSjhiRDJXT1ZiNHVZTGFfZFRQYW5yRUt2TjNPUklUZmRJcW0xbmFtOGxraWwtblU2Y1o4WVNDdFhYX1dma3hTa1lzVzVLTEFaUERJNDQxUmFEc2FlYVE4LVZIM0cxUW05eDhMMjZDRXVvM3Z2dG1IVFh2VFdVcl9ETmRpSDBkZ1pxSnpBeFV2M0l1czNiUDFNYUYtYS1iVmF0UnVSVWo0TDhzSi1TT0Rldjg?oc=5",
+  "source": "TÜİK",
+  "summary_tr": "%28,4",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-09-10T06:01:07.594072+00:00",
+  "type": "forecast",
+  "cluster_id": ""
+ },
+ {
   "title": "İran, nükleer anlaşmaya uymadığı gerekçesiyle BM Güvenlik Konseyi'ne sevk edildi",
   "link": "https://www.bbc.com/turkce/articles/ckgvdgveyvjo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59962,41 +59998,5 @@
   "ts": "2026-07-31T13:01:13.646381+00:00",
   "type": "news",
   "cluster_id": "c2ce551a57b51"
- },
- {
-  "title": "Hamas: Gazze'de kapsamlı ateşkes anlaşmasını kabul ettik",
-  "link": "https://www.aa.com.tr/tr/dunya/hamas-gazzede-kapsamli-ateskes-anlasmasini-kabul-ettik/4015004",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Hamas Siyasi Büro Üyesi Gazi Hamad, Gazze'de kapsamlı ateşkes anlaşmasını kabul ettiklerini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-07-31T13:01:13.646381+00:00",
-  "type": "news",
-  "cluster_id": "c16552abb161b"
- },
- {
-  "title": "Filistin İnsan Hakları Merkezi: İsrail, Gazze’de sivillere yönelik saldırılarını sistematik şekilde yoğunlaştırıyor",
-  "link": "https://www.aa.com.tr/tr/dunya/filistin-insan-haklari-merkezi-israil-gazze-de-sivillere-yonelik-saldirilarini-sistematik-sekilde-yogunlastiriyor-/4015028",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Filistin İnsan Hakları Merkezi, İsrail ordusunun Gazze'de sivillere yönelik saldırılarını sistematik şekilde yoğunlaştırdığını bildirdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-07-31T13:01:13.646381+00:00",
-  "type": "news",
-  "cluster_id": "c17baf29b9416"
- },
- {
-  "title": "Filistinli kaynaklara göre Gazze'de ateşkesin ikinci aşaması İsrail'in çekilmesi ve silahsızlanmaya odaklanacak",
-  "link": "https://www.aa.com.tr/tr/dunya/filistinli-kaynaklara-gore-gazzede-ateskesin-ikinci-asamasi-israilin-cekilmesi-ve-silahsizlanmaya-odaklanacak/4014944",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Filistinli kaynaklar, ateşkes anlaşmasının ikinci aşamasının İsrail'in çekilmesi ve silahsızlanmaya odaklanacağını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-31T13:01:13.646381+00:00",
-  "type": "news",
-  "cluster_id": "ca01c36bdf229"
  }
 ]
