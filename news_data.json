@@ -1,5 +1,77 @@
 [
  {
+  "title": "Merkez Bankası yine pas geçti: Faiz indirimi sinyali var mı?",
+  "link": "https://www.dw.com/tr/merkez-bankası-yine-pas-geçti-faiz-indirimi-sinyali-var-mı/a-79213099?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "TCMB Eylül toplantısında politika faizini %37'de tuttu; faiz indirimi sinyali yok.",
+  "metric": "Politika faizi %37 (değişim yok)",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-10T13:01:38.331177+00:00",
+  "type": "news",
+  "cluster_id": "c46434d33527f"
+ },
+ {
+  "title": "103 yıllık otomotiv devi iflas etti: Toplu işten çıkarmalar kapıda",
+  "link": "https://www.sozcu.com.tr/103-yillik-otomotiv-devi-iflas-etti-toplu-isten-cikarmalar-kapida-p357031",
+  "source": "Sözcü",
+  "summary_tr": "103 yıllık BMW bayisi Wahl Group iflas etti; Çinli markaların eklenmesinin ardından toplu işten çıkarmalar bekleniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-10T13:01:38.331177+00:00",
+  "type": "news",
+  "cluster_id": "cff0a0bbf9ef8"
+ },
+ {
+  "title": "Avrupa Merkez Bankası beklenen kararını açıkladı: Politika faizini artırdı",
+  "link": "https://www.sozcu.com.tr/avrupa-merkez-bankasi-beklenen-kararini-acikladi-politika-faizini-artirdi-p357022",
+  "source": "Sözcü",
+  "summary_tr": "Avrupa Merkez Bankası politika faizini 25 baz puan artırdı.",
+  "metric": "ECB mevduat faiz oranı %2,25 -> %2,50 (+25 baz puan)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-10T13:01:38.331177+00:00",
+  "type": "news",
+  "cluster_id": "cf6c2e6a36f87"
+ },
+ {
+  "title": "Ücretli öğretmenler MEB'in önünde toplandı: Haklarımızı helal etmiyoruz",
+  "link": "https://www.sozcu.com.tr/ucretli-ogretmenler-meb-in-onunde-toplandi-haklarimizi-helal-etmiyoruz-p357025",
+  "source": "Sözcü",
+  "summary_tr": "Ücretli öğretmenler MEB önünde protesto: güvencesiz çalışma koşulları ve eksik sigorta primlerine karşı tepki.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-10T13:01:38.331177+00:00",
+  "type": "news",
+  "cluster_id": "c4252bba21b95"
+ },
+ {
+  "title": "ABD'de ÜFE yıllık bazda yüzde 5,4 ile tahminlerin üzerinde arttı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abdde-ufe-yillik-bazda-yuzde-5-4-ile-tahminlerin-uzerinde-artti/4053251",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD'de ağustosta ÜFE yıllık %5,4 ile tahminlerin üzerinde arttı.",
+  "metric": "ABD ÜFE (yıllık) %5,4 (tahminlerin üzerinde)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-10T13:01:38.331177+00:00",
+  "type": "news",
+  "cluster_id": "c9b722a61aa44"
+ },
+ {
+  "title": "Politika faizi: %37",
+  "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PRDVOcE9wRzh0UDJ0T1djRWhFaGwxeTczaFVwdlNZb0g0cXd5QllpaWRCU3NERU9lYXFRMmtKTDB4SEswX2pvUDRkSU9oRlhKaVZNMUQ5MFpfVnN60gFiQVVfeXFMTlhFLUFqRUhHTXkxWnE2ekdHOGx3akpiUDlGSWFRaENJakl2N2lTMzlaZ1NfWTF0NERDMTQ4Q3A3VEpnYXJJX1lGVTFlc2dTVWg1Wmkya1R0Q1hBY0hjNkUxUEE?oc=5",
+  "source": "TCMB",
+  "summary_tr": "%37 → %37",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-09-10T13:01:38.331177+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Ekonomistler Merkez Bankası'nın faizi %37'de tutma kararını nasıl yorumladı?",
   "link": "https://www.bbc.com/turkce/articles/cvgypkn91kno?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-01T05:01:00.635198+00:00",
   "type": "news",
   "cluster_id": "cff483d007375"
- },
- {
-  "title": "A101'in sahibi Aydın Grup CarrefourSA'yı resmen satın aldı",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZi1uc2J3bWlqR2NpdURaZElXVHBuSUFMM2k1NWx3d1praHVTcmtrbUk4N1U0ZFRUX01EdE9VazNmdDNaTkJtbVhOVTh1N3g3NWxXVGhLaGdZdnJqQTdtNDNtY0wyRGVmZWR2SU5NU2w1S0ZfRXRYNGhqcjgxeGdsMlMyNWY0ODgtcWJnTnhZR1FWSTBGU0hvVmRn?oc=5",
-  "source": "soL",
-  "summary_tr": "Aydın Grup, A101'in sahibi olarak CarrefourSA'yı resmen satın aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-01T05:01:00.635198+00:00",
-  "type": "news",
-  "cluster_id": "ca40b8f90cee2"
- },
- {
-  "title": "Sıra vergi zammına geldi",
-  "link": "https://www.sozcu.com.tr/sira-vergi-zammina-geldi-p341430",
-  "source": "Sözcü",
-  "summary_tr": "AKP'li milletvekillerinin Özel Tüketim Vergisi'ni (ÖTV) çeşitlendirme ve artırımını öngören yasa teklifi hazırlandı; otomotiv sektöründe vergi zammı bekleniyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-01T03:00:54.876108+00:00",
-  "type": "news",
-  "cluster_id": "cf1c86026b863"
- },
- {
-  "title": "TÜİK’ten işsizlik masalı",
-  "link": "https://www.sozcu.com.tr/tuik-ten-issizlik-masali-p341429",
-  "source": "Sözcü",
-  "summary_tr": "TÜİK işsizliğin azaldığını açıkladı ancak İşkur verileri ve İSO'nun tespitleri farklı gösteriyor; rakamlar tartışmalı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-01T02:00:58.325337+00:00",
-  "type": "news",
-  "cluster_id": "ce53e46a3c02f"
- },
- {
-  "title": "19 gündür eylem yapan er gaziler hak kaybını anlattı",
-  "link": "https://www.sozcu.com.tr/19-gundur-eylem-yapan-er-gaziler-hak-kaybini-anlatti-p341428",
-  "source": "Sözcü",
-  "summary_tr": "Gazi askerler protez hakkı, maaş ve sosyal imkanlar konusunda 19 gündür eylem yapıyor; hak kaybı talepleri var.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-01T02:00:58.325337+00:00",
-  "type": "news",
-  "cluster_id": "c43ff1043191a"
- },
- {
-  "title": "İŞKUR’a kayıtlı işsiz sayısı, İşsizlik Fonu’na başvuru sayısı, kapanan şirket sayısı arttı ama işsizlik düştü deniyor: ‘Hangisine inanacağız?’",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/iskur-a-kayitli-issiz-sayisi-issizlik-fonu-na-basvuru-sayisi-kapanan-sirket-sayisi-artti-ama-issizlik-dustu-deniyor-hangisine-inanacagiz-2525491",
-  "source": "Cumhuriyet",
-  "summary_tr": "Haziran işsizlik verisi %7,6'ya düştü ancak İŞKUR kayıtlı işsiz, kapanan şirket ve İşsizlik Fonu başvurusu arttı; muhalefet veri tutarsızlığını eleştirdi.",
-  "metric": "İşsizlik oranı %7,6",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-01T01:01:03.350792+00:00",
-  "type": "news",
-  "cluster_id": "c4ac6b4f17036"
- },
- {
-  "title": "Tutuklu Kuşadası Belediye Başkanı Ömer Günel, cezaevinden Cumhuriyet’e konuştu: 'Mutlak butlan demokrasiye hançerdir, YENİ Parti bir mecburiyettir'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/tutuklu-kusadasi-belediye-baskani-omer-gunel-cezaevinden-cumhuriyet-e-konustu-mutlak-butlan-demokrasiye-hancerdir-yeni-parti-bir-mecburiyettir-2525528",
-  "source": "Cumhuriyet",
-  "summary_tr": "Tutuklu Kuşadası Belediye Başkanı Ömer Günel, rüşvet ve irtikap suçlarından yargılanıyor; 'Mutlak butlan demokrasiye hançerdir' açıklaması yaptı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-01T01:01:03.350792+00:00",
-  "type": "news",
-  "cluster_id": "c88714133e30d"
  }
 ]
