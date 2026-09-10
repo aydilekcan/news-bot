@@ -1,5 +1,53 @@
 [
  {
+  "title": "Volkswagen earmarks €16 bln for job cuts, plant closures, source says",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYlItTVNOdkdyZ09EbmhrVE12enZrb2RSbTVSVjdvV3EwN1I4dk12VU9yMUc0SXBWVU8xbC0tb2pZMGt3LThsZV9CU1dZcGp1ZVBWSHJkNHdTZWt5amtrM0lDNjhfQmhoNmU4ajBOWk5wUkI0WTVzWkJYV0JyRmZ1SmgzVTJYN2duNEMxVkY1Uk52cUVVUWlxWEVwSnZIWUs1cFJPdU9hSDJ5VXJOOTdvaWdtN1NhTUNjWG9Jcl83MnhsMndwVHZVLUFTT3R6eUNS?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Volkswagen iş kesintileri ve fabrika kapatmaları için 16 milyar euro ayırıyor; Avrupa otomotiv sektöründe büyük yapısal değişim yaşanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-10T11:01:07.938773+00:00",
+  "type": "news",
+  "cluster_id": "ce8654fea9c69"
+ },
+ {
+  "title": "Okul kantinlerinde yeni dönemin fiyat tarifesi belli oldu",
+  "link": "https://www.trthaber.com/haber/turkiye/okul-kantinlerinde-yeni-donemin-fiyat-tarifesi-belli-oldu-956462.html",
+  "source": "TRT Haber",
+  "summary_tr": "Okul kantinlerinde yeni eğitim öğretim yılı için fiyat tarifesi belirlenmiş; öğrenciler ve aileler için beslenme maliyeti önceden tespit edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-10T11:01:07.938773+00:00",
+  "type": "news",
+  "cluster_id": "c2311bc8ec0bd"
+ },
+ {
+  "title": "Denizli’de çatıya çıkan işçiler ile firma arasında mutabakat sağlandı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/denizli-de-catiya-cikan-isciler-ile-firma-arasinda-mutabakat-saglandi-2536431",
+  "source": "Cumhuriyet",
+  "summary_tr": "Denizli'de ücretlerini alamadıkları için çatıya çıkan işçiler taraflar arasında mutabakat ile eylemlerini sonlandırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-10T11:01:07.938773+00:00",
+  "type": "news",
+  "cluster_id": "cee68c711fdf4"
+ },
+ {
+  "title": "Türkler iki iPhone parası vermek zorunda: Dünyada birinci olduk",
+  "link": "https://www.sozcu.com.tr/turkler-iki-iphone-parasi-vermek-zorunda-dunyada-birinci-olduk-p356979",
+  "source": "Sözcü",
+  "summary_tr": "Apple iPhone Duo'su Türkiye'de dünyada en pahalı fiyatla satılıyor; Türk tüketiciler iki iPhone paraç ödemeye zorlanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-10T11:01:07.938773+00:00",
+  "type": "news",
+  "cluster_id": "ca49c242b74df"
+ },
+ {
   "title": "Petrol fırladı: Akaryakıta zam kapıda",
   "link": "https://www.sozcu.com.tr/petrol-firladi-akaryakita-zam-kapida-p356969",
   "source": "Sözcü",
@@ -59950,53 +59998,5 @@
   "ts": "2026-07-31T21:01:05.202731+00:00",
   "type": "news",
   "cluster_id": "ccdaab5b6e9fa"
- },
- {
-  "title": "İmamoğlu'ndan Sinem Dedetaş'ın tutuklanmasına tepki",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/imamoglu-ndan-sinem-dedetas-in-tutuklanmasina-tepki-2525516",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'nin tutuklu cumhurbaşkanı adayı İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu, Üsküdar Belediye Başkanı Sinem Dedetaş'ın tutuklanmasına tepki gösterdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-31T21:01:05.202731+00:00",
-  "type": "news",
-  "cluster_id": "cf1128b0fe5a8"
- },
- {
-  "title": "Türkiye’nin dev market zinciri resmen satıldı: İşte yeni sahibi",
-  "link": "https://www.sozcu.com.tr/turkiye-nin-dev-market-zinciri-resmen-satildi-iste-yeni-sahibi-p341411",
-  "source": "Sözcü",
-  "summary_tr": "CarrefourSA'nın %89,28 hissesi Aydın Grup bünyesindeki Yeni Mağazacılık'a devredildi. Satış tüm yasal onayları tamamladı.",
-  "metric": "CarrefourSA hisse devri: %89,28",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-31T21:01:05.202731+00:00",
-  "type": "news",
-  "cluster_id": "c7e174c08c5a7"
- },
- {
-  "title": "Yüzde 160’a varan zamlar için YÖK harekete geçti",
-  "link": "https://www.sozcu.com.tr/yuzde-160-a-varan-zamlar-icin-yok-harekete-gecti-p341402",
-  "source": "Sözcü",
-  "summary_tr": "Yükseköğretim Kurulu (YÖK), 2026-2027 eğitim-öğretim yılı öğrenim ücretlerinde yüzde 160'a varan zamları uygulamaya başladı.",
-  "metric": "Öğrenim ücreti zam oranı: %160'a varan",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-31T20:01:04.135680+00:00",
-  "type": "news",
-  "cluster_id": "c86644ce4a89a"
- },
- {
-  "title": "İstanbul'da tutuklu CHP'li belediye başkanı sayısı 16'ya yükseldi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-tutuklu-chp-li-belediye-baskani-sayisi-16-ya-yukseldi-2525497",
-  "source": "Cumhuriyet",
-  "summary_tr": "İstanbul'da tutuklu CHP'li belediye başkanı sayısı 16'ya yükseldi. Üsküdar Belediye Başkanı Sinem Dedetaş'ın tutuklanmasıyla birlikte tutuklu sayısı artmıştır.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-07-31T20:01:04.135680+00:00",
-  "type": "news",
-  "cluster_id": "ccdc5dd791cf1"
  }
 ]
