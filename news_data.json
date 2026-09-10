@@ -1,5 +1,17 @@
 [
  {
+  "title": "Netanyahu, “daha fazlası kapıda” sözleriyle İran ve Hizbullah’ı tehdit etti",
+  "link": "https://www.aa.com.tr/tr/dunya/netanyahu-daha-fazlasi-kapida-sozleriyle-iran-ve-hizbullah-i-tehdit-etti/4053698",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail Başbakanı Netanyahu, İran ve Hizbullah'a yönelik saldırı tehdidinde bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-10T20:01:07.637134+00:00",
+  "type": "news",
+  "cluster_id": "c70a59983c056"
+ },
+ {
   "title": "Umut Akdoğan'dan telefon vergilerine tepki: 230 bin liralık telefonun 120 bin lirası vergi",
   "link": "https://www.cumhuriyet.com.tr/turkiye/umut-akdogan-dan-telefon-vergilerine-tepki-230-bin-liralik-telefonun-120-bin-lirasi-vergi-2536555",
   "source": "Cumhuriyet",
@@ -59986,17 +59998,5 @@
   "ts": "2026-08-01T11:01:00.092618+00:00",
   "type": "news",
   "cluster_id": "c6e567d0612fa"
- },
- {
-  "title": "SPK'den Yatırım Fonları Rehber Taslağı açıklaması",
-  "link": "https://www.aa.com.tr/tr/ekonomi/spkden-yatirim-fonlari-rehber-taslagi-aciklamasi/4015696",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Sermaye Piyasası Kurulu, Yatırım Fonlarına İlişkin Rehber Taslağını tamamladı ve yürürlük tarihini belirledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-01T11:01:00.092618+00:00",
-  "type": "news",
-  "cluster_id": "c90c8c3e87aa7"
  }
 ]
