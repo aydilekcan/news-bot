@@ -1,5 +1,77 @@
 [
  {
+  "title": "Rusya, Ukrayna'ya saldırdı: 4 kişi hayatını kaybetti, 62 kişi yaralandı",
+  "link": "https://www.trthaber.com/haber/dunya/rusya-ukraynaya-saldirdi-4-kisi-hayatini-kaybetti-62-kisi-yaralandi-956488.html",
+  "source": "TRT Haber",
+  "summary_tr": "Rusya, Ukrayna'nın Dnipropetrovsk bölgesindeki Pavlohrad kentine saldırı düzenledi; 4 kişi hayatını kaybetti, 62 kişi yaralandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-10T17:01:15.113615+00:00",
+  "type": "news",
+  "cluster_id": "ce21d1e9418a4"
+ },
+ {
+  "title": "ABD ordusu, İran'a deniz ablukasında 96 ticari geminin rotasını değiştirdiğini açıkladı",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-ordusu-irana-deniz-ablukasinda-96-ticari-geminin-rotasini-degistirdigini-acikladi/4053523",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD ordusu, İran'a deniz ablukası kapsamında 96 ticari geminin rotasını değiştirdiğini bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-10T17:01:15.113615+00:00",
+  "type": "news",
+  "cluster_id": "ca71b796c6b93"
+ },
+ {
+  "title": "IMF'den merkez bankalarına \"fiyat istikrarı hedeflerine odaklanmayı sürdürün\" tavsiyesi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/imfden-merkez-bankalarina-fiyat-istikrari-hedeflerine-odaklanmayi-surdurun-tavsiyesi/4053511",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "IMF, merkez bankalarının 2022'den sonra durağanlaşan dezenflasyon sürecinde fiyat istikrarı hedeflerine odaklanmaya devam etmesini tavsiye etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-10T17:01:15.113615+00:00",
+  "type": "news",
+  "cluster_id": "cc52495408394"
+ },
+ {
+  "title": "Poland says it expects Russia will target its border crossings with Ukraine",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUVY2N090bUx0T3pNcHJuMFFCNGhycFJOMjhmR01VcXpLZ1k2dWhTZTRWeTFfOEtIeEJ4NEZvOTFkMDhFOHozelZTdmQyYVFYcmI4cjJucS1QVHV5Q3ZXem9ubUUydUF5bGpqaG5hdm5BTE5NdlM3T25uRjhkeGdCUkFBa0VxQ3dlRmZZZFphVnlVMVZjbUx0Yzg0XzhJZnBQN0NpczdyaUdBV1p3SUhOeXlJWnoyV2pf?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Polonya, Rusya'nın Ukrayna sınırındaki sınır kapılarını hedef alabileceğini öngördüğünü belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-10T17:01:15.113615+00:00",
+  "type": "news",
+  "cluster_id": "c5e741a24e2ee"
+ },
+ {
+  "title": "US to issue $500 Obamacare refunds to nearly a million Americans",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOXzF5MGFTdDhQYm1BcVVSODJISXc5b1FrV2dpWEZyTm54TlF4dWxXQzQ0M0VoSDBUYVRlVFFnRElHM2tWWFFoUGtmY0VIaFdhZVEzd0R5WmNSZEdtM2wtYkxXU3h0SnFQNU8zSG1fYnEyTXEzSE96akF5UUU5ekhJeUc1c1k1VXluaEhFQUxKX0doTkZnX3J4dndqTUw2QQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, yaklaşık 1 milyon Amerikalı'ya Obamacare kapsamında 500 dolar geri ödeme yapacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-10T17:01:15.113615+00:00",
+  "type": "news",
+  "cluster_id": "c94812f52b00c"
+ },
+ {
+  "title": "EU watchdog flags risk of abrupt market correction",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVGVYOU9CMTBjT3ZQTS0xQkRncU5LdVZfLXlEaXlEcHNwU3lERXFkZzJiSGVUUGdLSTVwdEZET2NHN0ZXcmtGdDBDV0kzS0pIcWlGWHhKM3BZWDQtWXYybE5GWHQzU1UyekJMWWg1TXRZYk1lWDRqYzk0ajd6YmI2elRaZ1VUUDI3QnhjbUJzR21OX1hfVnQ4UVBGYWNud3JpMVE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "AB düzenleyicisi, piyasada ani bir düzeltme riskine işaret etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-10T17:01:15.113615+00:00",
+  "type": "news",
+  "cluster_id": "c34c4b4753613"
+ },
+ {
   "title": "ECB raises interest rates to fight off inflation jump",
   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGdaa19kT2JiMm9NaWdRRnFjUlhvSDBlUF9IbjZQbjZ5dUFPOVdnMlRSSUFPcjRsdXRHdWFsZkxCSEZXSEc1SERmWWE3Q1JCOHZFZl9UU3NBdGhyZkhTcFFrR3BCYVd0XzNTNGFPcHFaLS1mWm5OajlZMDNSRzBoaXpDTXVCWmJtMGwxa1Zqazcwb0t4UUtIUTZvQQ?oc=5",
   "source": "Reuters",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-01T09:01:07.381951+00:00",
   "type": "news",
   "cluster_id": "c2ee5ba013a51"
- },
- {
-  "title": "Türkiye'nin ham çelik üretimi 19,8 milyon tona çıktı",
-  "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-ham-celik-uretimi-198-milyon-tona-cikti-952775.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye'nin ham çelik üretimi ocak-haziran döneminde yüzde 8,1 artışla 19,8 milyon tona çıktı.",
-  "metric": "Ham çelik üretimi -> 19,8 milyon ton (+%8,1)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-01T09:01:07.381951+00:00",
-  "type": "news",
-  "cluster_id": "cd639874e52ac"
- },
- {
-  "title": "Ziraat Bankası'nın sistemleri çöktü: Mobil bankacılık, kartlar, POS cihazları ve ATM'ler kullanılamıyor",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTVlqMVZrSTVMQk9vSnRBRjdPczQ4UHBuOGNKSEoyOC1zTnZEbS1mckRBMzEyejVMQVJabkx2ZXBtaU02Qmc5Y2JQZHkxaXMyYTRfU1Q3dHRMUDJqY25VRDNBMWwtSElNejVNRE5EWlJrZklqOF84ZjVieHRXY0VoLVd1UVo3dmFZdUJ4MV90eXhUbTFoZEt1clVrRnRkX1VqSG1SLXZLYVI2U1ZXZW42Nk5YZG01UlN5QlE?oc=5",
-  "source": "T24",
-  "summary_tr": "Ziraat Bankası'nın mobil bankacılık, kart, POS ve ATM sistemleri çöktü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-01T09:01:07.381951+00:00",
-  "type": "news",
-  "cluster_id": "ceb8dd8378e1b"
- },
- {
-  "title": "İran ABD ile barıştansa düşük yoğunluklu bir savaşı mı tercih ediyor?",
-  "link": "https://www.bbc.com/turkce/articles/cdx70eq0vlgo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "İran, ABD ile barış müzakerelerine rağmen Ürdün'deki ABD üssüne füze saldırısı düzenleyerek düşük yoğunluklu çatışmayı tercih ettiğini gösterdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-01T08:01:11.710360+00:00",
-  "type": "news",
-  "cluster_id": "ce2f5674ed404"
- },
- {
-  "title": "Fed'den faiz açıklaması: Artış yönündeki muhalif oyların gerekçeleri...",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/fed-den-faiz-aciklamasi-artis-yonundeki-muhalif-oylarin-gerekceleri-2525577",
-  "source": "Cumhuriyet",
-  "summary_tr": "Fed'in bazı şube başkanları, yüksek enflasyonun kalıcı hale gelme riski ve mevcut politika duruşunun yetersizliğine karşı oy kullandılar.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-01T08:01:11.710360+00:00",
-  "type": "news",
-  "cluster_id": "c41bfb477f8ce"
- },
- {
-  "title": "Lübnan Başbakanı Selam: Ordu ülkenin tamamına konuşlanmadan egemenlik ve istikrar sağlanamaz",
-  "link": "https://www.aa.com.tr/tr/dunya/lubnan-basbakani-selam-ordu-ulkenin-tamamina-konuslanmadan-egemenlik-ve-istikrar-saglanamaz/4015540",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Lübnan Başbakanı Nevvaf Selam, ordunun ülkenin tamamına konuşlanmasının egemenlik ve istikrar için gerekli olduğunu belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-01T08:01:11.710360+00:00",
-  "type": "news",
-  "cluster_id": "c6c196453f00d"
- },
- {
-  "title": "Lübnan Başbakanı: Ordu ülkenin tamamına konuşlanmadan egemenlik ve istikrar sağlanamaz",
-  "link": "https://www.trthaber.com/haber/dunya/lubnan-basbakani-ordu-ulkenin-tamamina-konuslanmadan-egemenlik-ve-istikrar-saglanamaz-952773.html",
-  "source": "TRT Haber",
-  "summary_tr": "Lübnan Başbakanı Nevvaf Selam, ordunun ülkenin tamamına konuşlanmasının egemenlik ve istikrar için gerekli olduğunu belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-01T08:01:11.710360+00:00",
-  "type": "news",
-  "cluster_id": "c6c196453f00d"
  }
 ]
