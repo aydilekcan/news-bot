@@ -1,5 +1,65 @@
 [
  {
+  "title": "ECB Başkanı Lagarde, enflasyonun uzun süre hedefin oldukça üzerinde kalacağı uyarısında bulundu",
+  "link": "https://www.aa.com.tr/tr/ekonomi/ecb-baskani-lagarde-enflasyonun-uzun-sure-hedefin-oldukca-uzerinde-kalacagi-uyarisinda-bulundu/4053423",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ECB Başkanı Lagarde, Orta Doğu ve Ukrayna çatışmaları nedeniyle enflasyonun bankanın hedefinin uzun süre üzerinde kalacağı uyarısında bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-10T15:01:18.181880+00:00",
+  "type": "news",
+  "cluster_id": "c2646f43f016a"
+ },
+ {
+  "title": "Altın ve gümüşte sert düşüş: Kritik ABD verisi piyasayı sarstı",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/altin-ve-gumuste-sert-dusus-kritik-abd-verisi-piyasayi-sarsti-2536508",
+  "source": "Cumhuriyet",
+  "summary_tr": "Altın ve gümüş fiyatları ABD üretici enflasyonu verisi sonrası sert düşüş kaydetti. Piyasalar tüketici enflasyonu verisi beklentisinde.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-10T15:01:18.181880+00:00",
+  "type": "news",
+  "cluster_id": "cbc6eb42ba402"
+ },
+ {
+  "title": "US producer prices increase as expected in August",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSllzbWpfQ2xZcDA5eExQYUxKdVRwdEdUdFFpMzJPWW1ib29Ocm85Z3ZDaVFpMkZGQnpUQ1Z2Zy1pelQ5Tk5TY0lKSUJ5RlZiUDhoeU5jWHpRX3dZQzFqcWtfT3J2UTM3Q2doaTdRUHEtczI1TDVkOE5jN2V1b2h1S01fYktSLV9yTERENnpxeHVLdw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD üretici fiyatları Ağustosda beklentileri karşıladı. Piyasalar tüketici enflasyonu verisi beklentisinde.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-10T15:01:18.181880+00:00",
+  "type": "news",
+  "cluster_id": "caa5dbd7aa54d"
+ },
+ {
+  "title": "Oil prices climb back to where they were in May and drag Wall Street lower",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUQ1VFl3RGVXQnFjNUhwZ3Q2R04wemM0dUdJel9sQjh6MzdGS1pFb2g0T1VtVFVuOWFyOGJnNkNBaHdhYmxYbGZOV0l4VG05RjIxdFNJa0VYXzNaSml2VzRhbDRpWTRUaEk5SG9XQ3pVLU8wNmFCQUpabG5WNENPT2pYeFVxLXZOcy1fMnlucE03bnhU?oc=5",
+  "source": "AP",
+  "summary_tr": "Petrol fiyatları Mayıs seviyelesine çıktı ve Wall Street düşüş kaydetti. Yükselen enerji maliyetleri piyasalara baskı yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-10T15:01:18.181880+00:00",
+  "type": "news",
+  "cluster_id": "c6fc8756eec9c"
+ },
+ {
+  "title": "Politika faizi: %37 (Eylül 2025)",
+  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzRlZ3V1NfVVN5WlZhT2ZYTkRwM21hODUyU040U1FwWnBfSDdsRF9Ub1dIVkx1NTlkS2lNeFkyMTdlbVMwc3lDYWJ0U3V1cHBoOWc?oc=5",
+  "source": "TCMB",
+  "summary_tr": "%37 → %37",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-09-10T15:01:18.181880+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Uzmanlar TCMB'nin faiz kararını değerlendirdi",
   "link": "https://www.aa.com.tr/tr/ekonomi/-uzmanlar-tcmbnin-faiz-kararini-degerlendirdi/4053296",
   "source": "Anadolu Ajansı",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-01T07:01:08.100794+00:00",
   "type": "news",
   "cluster_id": "cc0ec4947216c"
- },
- {
-  "title": "1 Ağustos 2026 Motorine zam, indirim geldi mi? Mazot, benzin, LPG ne kadar? Güncel akaryakıt fiyatları ne kadar?",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/1-agustos-2026-motorine-zam-indirim-geldi-mi-mazot-benzin-lpg-ne-kadar-guncel-akaryakit-fiyatlari-ne-kadar-2525560",
-  "source": "Cumhuriyet",
-  "summary_tr": "1 Ağustos'ta motorine 3,71 TL zam, otogaza da indirim geldi. Brent petrol fiyatı ABD-İran savaşı saldırılarıyla yükselişte.",
-  "metric": "Motorin +3,71 TL zam",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-01T07:01:08.100794+00:00",
-  "type": "news",
-  "cluster_id": "c43531a1031cf"
- },
- {
-  "title": "Akaryakıta bir zam daha! Tabelalar değişiyor",
-  "link": "https://www.sozcu.com.tr/akaryakita-bir-zam-daha-tabelalar-degisiyor-p341462",
-  "source": "Sözcü",
-  "summary_tr": "Motorine 3,71 TL'lik zam uygulandı. Otogaza da ek indirim geldi; üç büyükşehirde yeni fiyatlandırma başladı.",
-  "metric": "Motorin +3,71 TL",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-01T07:01:08.100794+00:00",
-  "type": "news",
-  "cluster_id": "c3eb7dbf8b916"
- },
- {
-  "title": "Ziraat Bankası’nın mobil bankacılık, ATM, POS cihazı ve kart hizmetleri çöktü",
-  "link": "https://www.sozcu.com.tr/ziraat-bankasi-nin-mobil-bankacilik-atm-pos-cihazi-ve-kart-hizmetleri-coktu-p341461",
-  "source": "Sözcü",
-  "summary_tr": "Ziraat Bankası mobil bankacılık, ATM, POS ve kart hizmetlerinde teknik arıza yaşadı; dün geceden itibaren erişim sorunu devam ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-01T07:01:08.100794+00:00",
-  "type": "news",
-  "cluster_id": "ca22656272930"
- },
- {
-  "title": "Ziraat Bankası'nın sistemleri çöktü: Mobil bankacılık, kartlar ve ATM'ler kullanılamıyor",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTVlqMVZrSTVMQk9vSnRBRjdPczQ4UHBuOGNKSEoyOC1zTnZEbS1mckRBMzEyejVMQVJabkx2ZXBtaU02Qmc5Y2JQZHkxaXMyYTRfU1Q3dHRMUDJqY25VRDNBMWwtSElNejVNRE5EWlJrZklqOF84ZjVieHRXY0VoLVd1UVo3dmFZdUJ4MV90eXhUbTFoZEt1clVrRnRkX1VqSG1SLXZLYVI2U1ZXZW42Nk5YZG01UlN5QlE?oc=5",
-  "source": "T24",
-  "summary_tr": "Ziraat Bankası mobil bankacılık, kartlar ve ATM'lerde sistem arızası; müşteriler işlem yapamıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-01T07:01:08.100794+00:00",
-  "type": "news",
-  "cluster_id": "ca22656272930"
- },
- {
-  "title": "US Treasury intervenes to support yen after Japan steps in, FT reports",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0lVZ3FOWEp0MkVGaWc4UkprSmVwZlZMSzBQRlBuQ3UzOEVuN09za080MDFQTHFfOVFGU1hsOUF3THBnbGc0Tk4zdi1sR0xBdHhJV3FiOTNmaEZkbWNWQ0VMRjROZXJUQ1VwX1BrS3NvdWRDYThPSWVhdnhZUmxHWHNsVEFRYTZFXy1CeTJVdW13SVpqcl9wdTBoRjdINnV6R0tEcTI3Qnpjc3RpLWxQOVVB?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD Hazine Bakanlığı, Japonya'nın müdahalesini takiben yeni kuru desteklemek için piyasaya müdahale etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-01T06:01:03.724909+00:00",
-  "type": "news",
-  "cluster_id": "c3413a4e24e60"
  }
 ]
