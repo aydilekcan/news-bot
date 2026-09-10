@@ -1,5 +1,17 @@
 [
  {
+  "title": "Okul servisi ücreti 93 bin lirayı aştı",
+  "link": "https://www.sozcu.com.tr/okul-servisi-ucreti-93-bin-lirayi-asti-p356821",
+  "source": "Sözcü",
+  "summary_tr": "İstanbul'da okul servisi ücretleri 93 bin 610 liraya ulaştı. En kısa mesafe (0-1 km) 39 bin 970 lira, en uzun mesafe (23-25 km) 93 bin 610 lira yıllık ücret alıyor.",
+  "metric": "Okul servisi ücreti en uzun mesafe: 93.610 TL (yıllık)",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-10T03:01:07.126637+00:00",
+  "type": "news",
+  "cluster_id": "ca0220918699a"
+ },
+ {
   "title": "İnsansız hava araçları, siber saldırılar ve dezenformasyon: Rusya'nın Avrupa'ya karşı yürüttüğü 'hibrit savaş'",
   "link": "https://www.bbc.com/turkce/articles/cvgypxrq5ezo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59986,17 +59998,5 @@
   "ts": "2026-07-31T12:01:09.110605+00:00",
   "type": "news",
   "cluster_id": "c4e08517d82a8"
- },
- {
-  "title": "Orta Doğu'da tansiyon yükseldi: Petrol uçtu",
-  "link": "https://www.sozcu.com.tr/orta-dogu-da-tansiyon-yukseldi-petrol-uctu-p341319",
-  "source": "Sözcü",
-  "summary_tr": "Orta Doğu gerilimleri sonrası petrol fiyatları yükseldi; İran Hürmüz Boğazı'nı kapattığını yineledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-31T12:01:09.110605+00:00",
-  "type": "news",
-  "cluster_id": "ce48d746e8477"
  }
 ]
