@@ -1,5 +1,53 @@
 [
  {
+  "title": "ECB raises interest rates to fight off inflation jump",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGdaa19kT2JiMm9NaWdRRnFjUlhvSDBlUF9IbjZQbjZ5dUFPOVdnMlRSSUFPcjRsdXRHdWFsZkxCSEZXSEc1SERmWWE3Q1JCOHZFZl9UU3NBdGhyZkhTcFFrR3BCYVd0XzNTNGFPcHFaLS1mWm5OajlZMDNSRzBoaXpDTXVCWmJtMGwxa1Zqazcwb0t4UUtIUTZvQQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ECB, enflasyonla mücadele için faiz oranlarını artırmıştır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-10T16:01:10.781339+00:00",
+  "type": "news",
+  "cluster_id": "c7c302f26f310"
+ },
+ {
+  "title": "TMO'nun çekirdeksiz kuru üzüm alım fiyatı belli oldu",
+  "link": "https://www.trthaber.com/haber/ekonomi/tmonun-cekirdeksiz-kuru-uzum-alim-fiyati-belli-oldu-956484.html",
+  "source": "TRT Haber",
+  "summary_tr": "TMO, çekirdeksiz kuru üzümün alım fiyatını kilogram başına 85-100 lira olarak belirlemişdir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-10T16:01:10.781339+00:00",
+  "type": "news",
+  "cluster_id": "c7381e7a951bc"
+ },
+ {
+  "title": "Mansur Yavaş-Erdoğan görüşmesine ilişkin AKP'den açıklama",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/mansur-yavas-erdogan-gorusmesine-iliskin-akp-den-aciklama-2536524",
+  "source": "Cumhuriyet",
+  "summary_tr": "AKP Sözcüsü Çelik, Mansur Yavaş ile Erdoğan arasındaki görüşmeye ilişkin Ankara'nın ihtiyaçlarının değerlendirildiğini belirtti.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-10T16:01:10.781339+00:00",
+  "type": "news",
+  "cluster_id": "c77289b31c608"
+ },
+ {
+  "title": "Yavaş-Erdoğan görüşmesine ilişkin AKP'den açıklama",
+  "link": "https://www.sozcu.com.tr/akp-den-yavas-erdogan-gorusmesine-iliskin-bir-aciklama-p357087",
+  "source": "Sözcü",
+  "summary_tr": "AKP Sözcüsü Çelik, Mansur Yavaş ile Erdoğan arasındaki görüşmeye ilişkin Ankara'nın ihtiyaçlarının değerlendirildiğini belirtti.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-10T16:01:10.781339+00:00",
+  "type": "news",
+  "cluster_id": "c77289b31c608"
+ },
+ {
   "title": "ECB Başkanı Lagarde, enflasyonun uzun süre hedefin oldukça üzerinde kalacağı uyarısında bulundu",
   "link": "https://www.aa.com.tr/tr/ekonomi/ecb-baskani-lagarde-enflasyonun-uzun-sure-hedefin-oldukca-uzerinde-kalacagi-uyarisinda-bulundu/4053423",
   "source": "Anadolu Ajansı",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-01T08:01:11.710360+00:00",
   "type": "news",
   "cluster_id": "c6c196453f00d"
- },
- {
-  "title": "Dev kripto şirketi merkez bankalarını geride bıraktı: Kasasını altınla doldurdu",
-  "link": "https://www.sozcu.com.tr/dev-kripto-sirketi-merkez-bankalarini-geride-birakti-kasasini-altinla-doldurdu-p341490",
-  "source": "Sözcü",
-  "summary_tr": "Kripto para şirketi Tether, ikinci çeyrekte 14 ton fiziki altın satın alarak altın rezervlerini artırdı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-01T08:01:11.710360+00:00",
-  "type": "news",
-  "cluster_id": "c33d20ccafc38"
- },
- {
-  "title": "Temmuzda fiyatı en fazla artan ürün belli oldu",
-  "link": "https://www.sozcu.com.tr/temmuzda-fiyati-en-fazla-artan-urun-belli-oldu-p341483",
-  "source": "Sözcü",
-  "summary_tr": "Temmuzda marketteki 39 ürünün 19'unda fiyat artışı yaşandı; fiyatı en fazla artan ürün belirlendi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-01T08:01:11.710360+00:00",
-  "type": "news",
-  "cluster_id": "c6633952615d1"
- },
- {
-  "title": "Rusya'nın Kiev'e düzenlediği hava saldırısında 9 kişi hayatını kaybetti, 28 kişi yaralandı",
-  "link": "https://www.aa.com.tr/tr/dunya/rusyanin-kieve-duzenledigi-hava-saldirisinda-9-kisi-hayatini-kaybetti-28-kisi-yaralandi/4015468",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Rusya, Ukrayna başkenti Kiev'e hava saldırısı düzenledi; 9 kişi öldü, 28 yaralandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-01T07:01:08.100794+00:00",
-  "type": "news",
-  "cluster_id": "c337997f0f15a"
- },
- {
-  "title": "Rusya'dan Kiev'e hava saldırısı: 9 ölü, 28 yaralı",
-  "link": "https://www.trthaber.com/haber/dunya/rusyadan-kieve-hava-saldirisi-9-olu-28-yarali-952767.html",
-  "source": "TRT Haber",
-  "summary_tr": "Rus ordusunun Kiev'e düzenlediği hava saldırısında 9 ölü, 28 yaralı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-01T07:01:08.100794+00:00",
-  "type": "news",
-  "cluster_id": "cc0ec4947216c"
  }
 ]
