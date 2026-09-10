@@ -1,5 +1,65 @@
 [
  {
+  "title": "İnsansız hava araçları, siber saldırılar ve dezenformasyon: Rusya'nın Avrupa'ya karşı yürüttüğü 'hibrit savaş'",
+  "link": "https://www.bbc.com/turkce/articles/cvgypxrq5ezo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Rusya, Avrupa'ya karşı insansız araçlar, siber saldırılar ve dezenformasyon kullanarak hibrit savaş yürütüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-10T02:01:05.237674+00:00",
+  "type": "news",
+  "cluster_id": "ce5e2536830e1"
+ },
+ {
+  "title": "Iran likely to reverse-engineer captured US underwater drone",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSVJXWnFxd25USERSYUk0Nmt5N1RFUzMxbllBa2NqNkJGUVplYkFJVEJYRThSdkxCa3NhNDVLdV8wRGE5VGpGVlhhVzRKdUpOeHExUXRONFprbmtaTDZNaEhuZGZEdGhta3FrQ1FBZDAwSXQ0TV9wMWxGMExaT2FURVpsa0d5WjdwakhhT1ZOVDhzRGwwS0tUUmxxVUk3R2NrcGdlRGVDNjZCcS0xZTQ0cw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran'ın ele geçirdiği ABD insansız su altı aracını ters mühendislik yoluyla analiz etmesi bekleniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-10T02:01:05.237674+00:00",
+  "type": "news",
+  "cluster_id": "c4dfd819dd392"
+ },
+ {
+  "title": "10-year yields highest since 2023",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX2JTdW9sQmN4V2h4TnFrb1MyM04ySnZUN012U2JERWNCaE1vMjBBeXR1SFJtQUxEalN0c1BrVWd5d1FyLUFJS0E5LXhYbzQyMUthaGNvUTE4dUt3cFlPMzNQN3BVSnkwXzVXSkN3YTFEdXJCVVBCekVPRXFwckxIYjU1ZHA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "10 yıllık hazine tahvil verimleri 2023'ten bu yana en yüksek seviyeye ulaştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-10T02:01:05.237674+00:00",
+  "type": "news",
+  "cluster_id": "c806a64dc9a34"
+ },
+ {
+  "title": "Atakum’da beş aydır ücret alamayan işçiler açlık grevine başladı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/atakum-da-bes-aydir-ucret-alamayan-isciler-aclik-grevine-basladi-2536314",
+  "source": "Cumhuriyet",
+  "summary_tr": "Atakum Belediyesi işçileri beş aydır ücret alamadıkları için açlık grevine başladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-10T02:01:05.237674+00:00",
+  "type": "news",
+  "cluster_id": "c335eac5b1a66"
+ },
+ {
+  "title": "Kadınların yasal hakkına fiili engel",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/kadinlarin-yasal-hakkina-fiili-engel-2536307",
+  "source": "Cumhuriyet",
+  "summary_tr": "Türkiye'de kamu hastanelerinde yasal kürtaj erişimi fiili engellemeyle zorlaştırılıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-10T02:01:05.237674+00:00",
+  "type": "news",
+  "cluster_id": "c8ed665c864ab"
+ },
+ {
   "title": "ABD-Kanada 'gümrük vergisi savaşı': ABD yasak listesine yeni ürünler ekledi",
   "link": "https://www.bbc.com/turkce/articles/ckgw2n9keljo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-31T12:01:09.110605+00:00",
   "type": "news",
   "cluster_id": "ce48d746e8477"
- },
- {
-  "title": "İmzalar atıldı: Türkiye Avrupa'da doğal gaz ve petrol arayacak",
-  "link": "https://www.sozcu.com.tr/imzalar-atildi-turkiye-avrupa-da-dogal-gaz-ve-petrol-arayacak-p341314",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye, Bulgaristan'ın Karadeniz Khan Tervel Blok'unda petrol ve doğal gaz aramalarına başlayacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-31T12:01:09.110605+00:00",
-  "type": "news",
-  "cluster_id": "c4cadfab8e821"
- },
- {
-  "title": "TPAO Bulgaristan kara sularında petrol ve doğal gaz arayacak",
-  "link": "https://www.trthaber.com/haber/ekonomi/tpao-bulgaristan-kara-sularinda-petrol-ve-dogal-gaz-arayacak-952727.html",
-  "source": "TRT Haber",
-  "summary_tr": "TPAO, Bulgaristan'ın Karadeniz Khan Tervel sahasında %33 pay ile petrol ve doğal gaz aramalarına başlayacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-31T12:01:09.110605+00:00",
-  "type": "news",
-  "cluster_id": "c886ced7552a7"
- },
- {
-  "title": "Yatırımcıların gözdesiydi, Türkiye'nin Tesla'sı yüzde 90 değer kaybetti",
-  "link": "https://www.sozcu.com.tr/yatirimcilarin-gozdesiydi-turkiye-nin-tesla-si-yuzde-90-deger-kaybetti-p341311",
-  "source": "Sözcü",
-  "summary_tr": "Kontrolmatik Enerji hisse değeri %90 düştü; ağır borç yükü ve likidite sıkıntısı yaşanıyor.",
-  "metric": "Kontrolmatik Enerji hissesi (%90 değer kaybı)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-31T12:01:09.110605+00:00",
-  "type": "news",
-  "cluster_id": "c92ca054f6607"
- },
- {
-  "title": "Bakan Göktaş'tan 24 haftaya çıkarılan doğum izni süresine ilişkin paylaşım",
-  "link": "https://www.aa.com.tr/tr/gundem/bakan-goktastan-24-haftaya-cikarilan-dogum-izni-suresine-iliskin-paylasim/4014895",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Aile ve Sosyal Hizmetler Bakanı Göktaş, doğum izni süresini 24 haftaya çıkardığını duyurdu.",
-  "metric": "Doğum izni süresi 24 haftaya uzatıldı",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-07-31T12:01:09.110605+00:00",
-  "type": "news",
-  "cluster_id": "c7ace3a331612"
- },
- {
-  "title": "Chevron records highest quarterly profit in six years, beating analyst estimates",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTDJNQWN3bERBZEMtYnM5dVlwOGJvcHk0bzVndi1ZWXVHWllsX0lwUGFKU2xMellLNVlyMVUyck93U0FJNl8wUWtqSzVrVzBjdWRCWWllSTJpT3BFTHNWXzVXM3UyREptOGJQbW1lWV9vVkRsSzh2ekhyQ05XNGZMb0JCX0RCaEU3YjVtaTZodnRoTTNYakdKU2ptSWtLLWNBUEhhOTBLTE1WaXRPckx6Qzh4RUpGaDctenJBdS1nZXlsMVNLR0ZZ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Chevron altı yılın en yüksek çeyrek karını kaydetti; analist beklentilerini aştı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-31T12:01:09.110605+00:00",
-  "type": "news",
-  "cluster_id": "c1e414c5513cc"
  }
 ]
