@@ -1,5 +1,65 @@
 [
  {
+  "title": "İran'ın şüpheli nükleer tesisinde inşaat hareketliliği: ABD derin sığınakları vurma planları yapıyor",
+  "link": "https://www.trthaber.com/haber/dunya/iranin-supheli-nukleer-tesisinde-insaat-hareketliligi-abd-derin-siginaklari-vurma-planlari-yapiyor-956419.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD, İran'ın Kazma Dağı'ndaki nükleer tesisine karşı derin sığınakları vurma planları yapıyor. Uydu görüntüleri tesiste inşaat hareketliliğini gösteriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-10T04:01:12.862164+00:00",
+  "type": "news",
+  "cluster_id": "ce054ffb492b8"
+ },
+ {
+  "title": "Trump: İran savaşı ara seçimlerin hemen ardından sona erecek",
+  "link": "https://www.trthaber.com/haber/dunya/trump-iran-savasi-ara-secimlerin-hemen-ardindan-sona-erecek-956416.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Başkanı Trump, İran ile yapılan savaşın ara seçimlerden önce bitmeyeceğini belirtti. Petrol fiyatlarının savaştan etkileneceğini vurguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-10T04:01:12.862164+00:00",
+  "type": "news",
+  "cluster_id": "c0b4310cb4f3d"
+ },
+ {
+  "title": "Brent holds above $100 as tanker attacks deepen supply fear",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVTlKVk5vOWlpYndFb2Flck9IczhtU2k5X1I3a0tlMjA2dkRmMEJncVFZdWctZW9wX05NaU9vUzNwMU5ld3UycklJMjhHaHB3WDdZVF81Z0t1WWNZak8tTFFwdDZtTHZvUnozMnVpUmtEanVsN2ZxM1A2QkxZS3IydDByTlQtd3RFYThzVnlwVmR0eGMyT1RQQldPZVp4VE1oSm5TcHBXVTd1dXM?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Brent petrolü, tanker saldırıları nedeniyle artan arz endişeleriyle 100 dolar üzerinde tutunuyor. Denizcilik güvenliği kaygıları petrol fiyatlarını destekliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-10T04:01:12.862164+00:00",
+  "type": "news",
+  "cluster_id": "c4dfffe668b1a"
+ },
+ {
+  "title": "US banning dairy products, most alcohol and motorcycles from Canada in growing trade war",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc1BOQjh6RzR3NkhUTWNocHc3U2RzckMzVGdyMFVwR0JqS3JocTgtbFFwTkwtUU1pTURKNGNma3VpZmYtUExvaHZuYU8wZTlDSEFqemRLc0U0NzhyWUxtaDVxUUp1TW45TFU2MnY5WGhqNFVWd0RPWG1sV1J0N2x3LUFweTlPb0pjcm9YcW9oSS1uTk14cWVIWUJ2Z202Zw?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD, artan ticaret savaşının kapsamını genişleterek Kanada'dan süt ürünleri, çoğu alkollü içki ve motorsikletleri yasaklıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-10T04:01:12.862164+00:00",
+  "type": "news",
+  "cluster_id": "c56a371d1fe58"
+ },
+ {
+  "title": "Bütçe açığı hedefi: %3,1 (2025)",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT1ZacG1Dc0JMTkhMLUZwdTE3d2VCa3ZhYWZYUE1qbHZaZUNwbTFrWlZQYTY4YVpmOUpoN1BmWmNrcUdyMC1qM1VaMmx3S016VEIzcERSX0RqRXYxdGdSbGswR3ptLTFtYi1fY2p3VDZfVndoSHViRkRWSXFmdXRTWTB3RFNodVMzTG1CLTQ5TE1KZURnYUVwcUp1Smk3SF9X0gGcAUFVX3lxTE84aEdYQzl4TmdUWEpXRHgtTUNvMkhkVkJPRmlaWUduaG5kUHhWVUJUcFc2d3dWU1Z0X1dQZl8xZlhmM0NldU5DTHR4SWo4SFF2QnB4VHdtME00NDhlWWZNVjNsR3l4ZF9ETmUyb1BjbjdJd01zNDBQeUxySERXdC01U3diNzhKaG1tclJYdk0tczVLU25XcmcyUkZ1Mg?oc=5",
+  "source": "Hazine ve Maliye Bakanlığı",
+  "summary_tr": "%3,1",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-09-10T04:01:12.862164+00:00",
+  "type": "forecast",
+  "cluster_id": ""
+ },
+ {
   "title": "Okul servisi ücreti 93 bin lirayı aştı",
   "link": "https://www.sozcu.com.tr/okul-servisi-ucreti-93-bin-lirayi-asti-p356821",
   "source": "Sözcü",
@@ -59938,65 +59998,5 @@
   "ts": "2026-07-31T13:01:13.646381+00:00",
   "type": "news",
   "cluster_id": "c8681355b963a"
- },
- {
-  "title": "AYM'nin sonuçlandırdığı bireysel başvuru sayısı 640 bini aştı",
-  "link": "https://www.aa.com.tr/tr/gundem/aymnin-sonuclandirdigi-bireysel-basvuru-sayisi-640-bini-asti/4014937",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Anayasa Mahkemesi, 2012'den 2026'ya kadar aldığı 744 bin 379 bireysel başvurunun 640 binini sonuçlandırdı.",
-  "metric": "744.379 başvuru / 640.000 sonuçlandırıldı",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-31T13:01:13.646381+00:00",
-  "type": "news",
-  "cluster_id": "c6dd0e6cfe001"
- },
- {
-  "title": "Merkez Bankası Finansal Hesaplar Raporu yayımlandı",
-  "link": "https://www.trthaber.com/haber/ekonomi/merkez-bankasi-finansal-hesaplar-raporu-yayimlandi-952730.html",
-  "source": "TRT Haber",
-  "summary_tr": "TCMB Finansal Hesaplar Raporu: yurt içi sektörlerin toplam finansal varlıkları 232 trilyon, yükümlülükleri 248 trilyon lira.",
-  "metric": "finansal varlıklar 232 trilyon TL / yükümlülükler 248 trilyon TL",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-31T13:01:13.646381+00:00",
-  "type": "news",
-  "cluster_id": "c389d2422bbf8"
- },
- {
-  "title": "Bakanlık marka marka ifşa etti; beyran diye 'eşek eti' yedirmişler, baharata 'boya' karıştırmışlar!",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcFNPU0ZSZHhTNW02MUZ4ZUlQQ25QX3VGdHRKTWZMVHdzTGMtQVVuSTRxa1Z4REJBYnhfclcxeHp4VzVucUM2akMwV05pYk1WbUNwNmhjclBPeEhvRUQtRTJncnVsZ1p1UThyR3pxSV9xRnlDdzJIRk1VX05BaGJvMC1abEd2MExjd21wT0ZLbWtBYk4wYjZjZGVVVGV5U2VwajlYamRjckRWUGFJVV9YXzNHOTRyYVpvT1VteW9CUW0yMUdOa193?oc=5",
-  "source": "T24",
-  "summary_tr": "Bakanlık, gıda taklit-tağşişleri marka marka açıkladı; beyran ürünlerinde eşek eti, baharata boya karıştırıldığı tespit edildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-31T13:01:13.646381+00:00",
-  "type": "news",
-  "cluster_id": "c3191b8fdb208"
- },
- {
-  "title": "Infantino's senior advisor Cordeiro resigns following proposal to sell FIFA stake",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOC0wOF9qV0lDYTRvWUQtdU1YdXJiVExGX1FsWXlESTlDS2FNN3lFYlFfU0lMQUN2QlNxbU1nOS1ZYzcxd3RSN1o4V1RRQkdhd3FTRnVGaHF6QTk4OEdNaXZpT3p0MWxvYjlGbWE0NGgtVjltNUl5azhMdVBIRWNlamZyY0hTZzBjcHN5SkdjMmt0TURmbkxJNllEWDhwR1N1TnlCdmNuQUp2ZW1qVVl4OGRNclpZMnNYbVV2ZTVmQUFCeTNmUlE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "FIFA Başkanı Infantino'nun kıdemli danışmanı Carlos Cordeiro, Dünya Kupası hisselerinin satılmasına karşı çıkarak istifa etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-31T13:01:13.646381+00:00",
-  "type": "news",
-  "cluster_id": "c0b5892d2fa4e"
- },
- {
-  "title": "Trump convenes Cabinet at Camp David amid simmering Iran war",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZks0akNQUmpqVGdGaE5rakdfRldLS25IaTFzeVF2VzVmVGc5TkF4VTI2NjI1UlVVdXlveTFxRXFMRWlGTEN4STFsYUdySDQzNE9pSGF6SzJ5bk83M3RsWGc3a3N1Q21oQlQtMGZ4QnFjSHd1dlhlbkNsZ3dvVmFhOFpwVVpNaUx0TmxTTEp2bGZzRExacFhmaEdBS3VjQ0l3cGpPWQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump İran krizi ortasında Kabinesini Camp David'de topladı; savaş riski yüksek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-31T12:01:09.110605+00:00",
-  "type": "news",
-  "cluster_id": "c4e08517d82a8"
  }
 ]
