@@ -1,5 +1,65 @@
 [
  {
+  "title": "Uzmanlar TCMB'nin faiz kararını değerlendirdi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/-uzmanlar-tcmbnin-faiz-kararini-degerlendirdi/4053296",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Uzmanlar, TCMB'nin enerji fiyatlarında iyileşme gözlenmesi halinde faiz indirimi yapabileceğini değerlendiriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-10T14:01:13.168522+00:00",
+  "type": "news",
+  "cluster_id": "cd56cb2f5de8c"
+ },
+ {
+  "title": "Wall St set for lower open after hotter-than-expected producer inflation data",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUNZS2ZwczJmM0x1aEM5ZFJMbUhWckRSOE54a1NyTFZjb1NaNFNCZDFwOFJiMk40b1RJelZsVnhKOVNObGNGenNkZzVhUWtZRlktVzhTWk9Qc1EybkRweDk4RFRRUjh2bk1TU0lJazBncUFnUlcwcTlPVWY3NjBzdWVUd3JGTDlLeF9EMU1aTnEzSDctTVcxZVdzT1RZclZjanRhbkl3?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD beklentileri aşan üretici enflasyonu verileri sonrası Wall Street aşağı açılmaya hazırlanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-10T14:01:13.168522+00:00",
+  "type": "news",
+  "cluster_id": "c2f30ea6a10f6"
+ },
+ {
+  "title": "ABD'de işsizlik maaşı başvuruları geçen hafta geriledi",
+  "link": "https://www.sozcu.com.tr/abd-de-issizlik-maasi-basvurulari-gecen-hafta-geriledi-p357067",
+  "source": "Sözcü",
+  "summary_tr": "ABD'de ilk kez işsizlik maaşına başvuranlar 206 bine geriledi; beklentiler aşılmasa da süregelen bir trend.",
+  "metric": "İşsizlik maaşı başvuruları geçen hafta: beklentinin altında",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-10T14:01:13.168522+00:00",
+  "type": "news",
+  "cluster_id": "ce124c3d9cfd5"
+ },
+ {
+  "title": "AB finans piyasaları otoritesinden ani düzeltme uyarısı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/ab-finans-piyasalari-otoritesinden-ani-duzeltme-uyarisi/4053342",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ESMA, ekonomik zayıflama ve jeopolitik risklere rağmen finansal varlık değerlemesinin aşırı yükselmiş olduğu uyarısında bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-10T14:01:13.168522+00:00",
+  "type": "news",
+  "cluster_id": "c6a107cc38b30"
+ },
+ {
+  "title": "India gets one of world's steepest iPhone price hikes",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObnhfQVE1WmxxZnVYMkpLX0F6RnhGM2Y1RVVMa0EzR1ZaMWNGLWdVT0pHTS1iaEpnUU9uQUxmYkdUM2UtVDVpQlZjV3k0cjdPQkdLaHJUWE9tV0FYVlhtVlFOQXV0YjRvcURvSWpKRXRXb19vd1BTWXZCdnREejdNdm1FbjZ4RHhraHJHNmpDTGcxNXotVTFFRlpoVmZVd2xySXdQam44QWdXWnNPOUhj?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Hindistan, dünyada iPhone fiyat artışının en yüksek olduğu ülkelerden biri oldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-10T14:01:13.168522+00:00",
+  "type": "news",
+  "cluster_id": "c1bc4324466b1"
+ },
+ {
   "title": "Merkez Bankası yine pas geçti: Faiz indirimi sinyali var mı?",
   "link": "https://www.dw.com/tr/merkez-bankası-yine-pas-geçti-faiz-indirimi-sinyali-var-mı/a-79213099?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-01T06:01:03.724909+00:00",
   "type": "news",
   "cluster_id": "c3413a4e24e60"
- },
- {
-  "title": "Biz neyin diyetini ödüyoruz?",
-  "link": "https://www.sozcu.com.tr/biz-neyin-diyetini-oduyoruz-p341451",
-  "source": "Sözcü",
-  "summary_tr": "Trump-Erdoğan görüşmesinin ardından ABD'den 8,6 milyar metre küp doğalgaz alındı; 2,67 milyar dolar ödeme yapıldı.",
-  "metric": "Doğalgaz ithalatı: 8,6 milyar metre küp; Ödeme: 2,67 milyar dolar",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-01T06:01:03.724909+00:00",
-  "type": "news",
-  "cluster_id": "c76333500f959"
- },
- {
-  "title": "Ankara-İstanbul yolculuğu 4 saatin altına düşüyor: Tarih verildi",
-  "link": "https://www.sozcu.com.tr/ankara-istanbul-yolculugu-4-saatin-altina-dusuyor-tarih-verildi-p341452",
-  "source": "Sözcü",
-  "summary_tr": "Ankara-İstanbul YHT hattında seyahat süresi 4 saatin altına düşecek; projenin takvimi açıklandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-01T06:01:03.724909+00:00",
-  "type": "news",
-  "cluster_id": "cdbc75211c8ef"
- },
- {
-  "title": "İstanbul, Ankara ve İzmir'de akaryakıt tabelaları değişti: İşte güncel fiyatlar",
-  "link": "https://www.sozcu.com.tr/istanbul-ankara-ve-izmir-de-akaryakit-tabelalari-degisti-iste-guncel-fiyatlar-p341446",
-  "source": "Sözcü",
-  "summary_tr": "İstanbul, Ankara ve İzmir'de akaryakıt fiyatları döviz kuru ve petrol fiyatı hareketlerine bağlı olarak değiştirildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-01T06:01:03.724909+00:00",
-  "type": "news",
-  "cluster_id": "cd05751080007"
- },
- {
-  "title": "Treasury selloff signals need to bolster Fed's inflation credibility, Musalem tells FT",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdm1UZEtzb3Zzem5MeU1jTGFIV2pKUzJSbjlhcWNrT1RNM3B1aWZBcDRsX3ZkbHBaQXBiTkVZY2pmeERNUmw2c2NVeldxR2VBT2dzeGJUZTVwalRIaWJOZUt3R0tuc29yeUt0R1k4bEJaUW1MTWtiT0szQl9mdml4X1VnRzROSUR6eG55dXZVVTZSbHRnaklpVWZFMExWdUV2ODl6MGFJM3NyVG1WaGd6UHRPdnVJYmFuNFRwMExqOXpGdjFReW9GdGhzRQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Fed yönetimi Musalem, hazine satışlarını enflasyon inandırıcılığını güçlendirme ihtiyacının sinyali olarak yorumluyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-01T05:01:00.635198+00:00",
-  "type": "news",
-  "cluster_id": "c1ee5abc8092b"
- },
- {
-  "title": "Bugün 3 CHP'li belediye ve bir milletvekili AKP'ye geçiyor",
-  "link": "https://www.sozcu.com.tr/bugun-3-chp-li-belediye-ve-bir-milletvekili-akp-ye-geciyor-p341437",
-  "source": "Sözcü",
-  "summary_tr": "CHP'li Tuzla Belediye Başkanı Eren Ali Bingöl ve Çekmeköy Belediye Başkanı Orhan Çerkez bugün AKP'ye geçiyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-01T05:01:00.635198+00:00",
-  "type": "news",
-  "cluster_id": "cff483d007375"
  }
 ]
