@@ -1,5 +1,29 @@
 [
  {
+  "title": "ABD-Kanada 'gümrük vergisi savaşı': ABD yasak listesine yeni ürünler ekledi",
+  "link": "https://www.bbc.com/turkce/articles/ckgw2n9keljo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD, Kanada'ya karşı gümrük vergisi listesine yeni ürünler ekledi; Kanada misilleme vergilerini açıkladı. İki ülke arasında ticaret savaşı keskinleşiyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-10T00:01:05.135459+00:00",
+  "type": "news",
+  "cluster_id": "c091864c23ab9"
+ },
+ {
+  "title": "US spy chief Ratcliffe preparing for bigger role in Russia, Ukraine talks, FT reports",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUG9RZmFtYnpwTDBuUjlVQkNGYkU3VG1uU0s0bENNbVJ1bVVmQW1Oa2hWYzFJWUVoT2lHM21qMU02TTA1MkxLZHdiQjFOSEtHd0lNUkxXUEJnM2lxLVFtdHpWNE9jV2JCbGNCYWdXM1JSeTFsQ2RRa2Q2SWRUTEFJdVdoeHBwTmFhU1YxdWdnQUpXRUxGdVZMa0RYQ3BzZ3h5d01uSjFadUE4WU03TENHcl9OU1FuU2FuMlhVQTRjd091ZFk?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD istihbarat şefi Ratcliffe, Rusya ve Ukrayna görüşmelerinde daha geniş bir rol için hazırlanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-10T00:01:05.135459+00:00",
+  "type": "news",
+  "cluster_id": "c47eef31062ef"
+ },
+ {
   "title": "Netanyahu Şeyh Dağı’na gitti: Suriye ve Ürdün tepki gösterdi",
   "link": "https://www.sozcu.com.tr/netanyahu-seyh-dagi-na-gitti-suriye-ve-urdun-tepki-gosterdi-p356812",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-07-31T12:01:09.110605+00:00",
   "type": "news",
   "cluster_id": "c1e414c5513cc"
- },
- {
-  "title": "Amazon jumps as AWS growth soothes fears over rising AI spending",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeU13OFo1TkgwWll2aVdISjdjUVpSYl9zZ1lHVDZxZElxWWw0SXRNYnFOd3Y3ZnA4Vm1NUDg3N1ZZVUtkQVFQTUZsakdseDk1RjQtOWhmLUtMN3pHbmh6YzdSX01yYUM5dGFTM0FBRFE1a0tSNmdxRlFPd0o5VkkzVzRJSnJ1SnJ3WFBBUDhRTHNkZm5jY0lOYURCTEJmZmxQWkduT2JoU3E1amQ1dVcwWlc2OUxQcWV0cjUzREFDdw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Amazon AWS'nin güçlü büyümesiyle yükseldi; yapay zeka harcama endişeleri hafifletildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-31T12:01:09.110605+00:00",
-  "type": "news",
-  "cluster_id": "c4fffe93744f5"
- },
- {
-  "title": "Motorin fiyatlarında bir ayda dev artış: Maliyetlerdeki yükseliş sofrayı da vuracak",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/motorin-fiyatlarinda-bir-ayda-dev-artis-maliyetlerdeki-yukselis-sofrayi-da-vuracak-2525357",
-  "source": "Cumhuriyet",
-  "summary_tr": "Motorin fiyatlarında bir ayda önemli artış yaşandı; artan akaryakıt maliyetleri üretim ve tüketim maliyetlerini artıracak.",
-  "metric": "",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-07-31T11:01:08.694679+00:00",
-  "type": "news",
-  "cluster_id": "c198281114d5e"
  }
 ]
