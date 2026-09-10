@@ -1,5 +1,77 @@
 [
  {
+  "title": "Petrol fırladı: Akaryakıta zam kapıda",
+  "link": "https://www.sozcu.com.tr/petrol-firladi-akaryakita-zam-kapida-p356969",
+  "source": "Sözcü",
+  "summary_tr": "ABD-İran çatışması nedeniyle Hürmüz Boğazı'ndaki petrol akışı tehdidi altında; Brent petrolü fiyatı yükseldi ve akaryakıta zam beklentileri artıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-10T10:01:16.407425+00:00",
+  "type": "news",
+  "cluster_id": "cbb45b49e5d47"
+ },
+ {
+  "title": "World shares retreat and oil prices trade above $100 a barrel",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUQ1VFl3RGVXQnFjNUhwZ3Q2R04wemM0dUdJel9sQjh6MzdGS1pFb2g0T1VtVFVuOWFyOGJnNkNBaHdhYmxYbGZOV0l4VG05RjIxdFNJa0VYXzNaSml2VzRhbDRpWTRUaEk5SG9XQ3pVLU8wNmFCQUpabG5WNENPT2pYeFVxLXZOcy1fMnlucE03bnhU?oc=5",
+  "source": "AP",
+  "summary_tr": "Küresel borsalar geriledi; petrol fiyatı 100 dolar/varilinin üzerinde işlem gördü. Piyasalarda risk algısı yükselişte.",
+  "metric": "Petrol: 100 USD/varil üzeri",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-10T10:01:16.407425+00:00",
+  "type": "news",
+  "cluster_id": "c682468cbbc50"
+ },
+ {
+  "title": "Kaşif Kozinoğlu soruşturması: İkinci dalga operasyonda 9 gözaltı",
+  "link": "https://www.bbc.com/turkce/articles/cwyzxq2g545o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Eski MİT görevlisi Kaşif Kozinoğlu'nun 2011'de cezaevinde şüpheli ölümüyle ilgili soruşturma kapsamında ikinci dalga operasyonda 9 kişi gözaltına alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-10T10:01:16.407425+00:00",
+  "type": "news",
+  "cluster_id": "c9a911410ca42"
+ },
+ {
+  "title": "Erdoğan dava açmıştı: Özgür Özel'e tazminat cezası!",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/erdogan-dava-acmisti-ozgur-ozel-e-tazminat-cezasi-2536421",
+  "source": "Cumhuriyet",
+  "summary_tr": "Yeni Parti Genel Başkanı Özgür Özel, Cumhurbaşkanı Erdoğan'a yönelik sözleri nedeniyle toplam 800 bin TL manevi tazminat ödemeye mahkum edildi.",
+  "metric": "Tazminat: 800 bin TL",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-10T10:01:16.407425+00:00",
+  "type": "news",
+  "cluster_id": "c627181251541"
+ },
+ {
+  "title": "Özgür Özel, Cumhurbaşkanı Erdoğan'a tazminat ödeyecek",
+  "link": "https://www.trthaber.com/haber/gundem/ozgur-ozel-cumhurbaskani-erdogana-tazminat-odeyecek-956457.html",
+  "source": "TRT Haber",
+  "summary_tr": "Yeni Parti Genel Başkanı Özgür Özel, Cumhurbaşkanı Erdoğan'a yönelik iddia ve sözleri nedeniyle 800 bin TL manevi tazminat ödemeye mahkum edildi.",
+  "metric": "Tazminat: 800 bin TL",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-10T10:01:16.407425+00:00",
+  "type": "news",
+  "cluster_id": "c627181251541"
+ },
+ {
+  "title": "Cumhurbaşkanı Erdoğan, Özgür Özel'den 800 bin lira manevi tazminat kazandı",
+  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-ozgur-ozelden-800-bin-lira-manevi-tazminat-kazandi/4052973",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, Yeni Parti Genel Başkanı Özgür Özel'den kişilik haklarının ihlali gerekçesiyle açtığı davada 800 bin lira manevi tazminat kazandı.",
+  "metric": "Tazminat: 800 bin TL",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-10T10:01:16.407425+00:00",
+  "type": "news",
+  "cluster_id": "c8e76a3e0c81f"
+ },
+ {
   "title": "Mansur Yavaş'tan yeni açıklama: Erdoğan'la neden görüştü?",
   "link": "https://www.dw.com/tr/mansur-yavaş-tan-yeni-açıklama-erdoğan-la-neden-görüştü/a-79210158?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-31T20:01:04.135680+00:00",
   "type": "news",
   "cluster_id": "ccdc5dd791cf1"
- },
- {
-  "title": "Üsküdar Belediye Başkanı Dedetaş ve 3 şüpheli tutuklandı",
-  "link": "https://www.trthaber.com/haber/gundem/uskudar-belediye-baskani-dedetas-ve-3-supheli-tutuklandi-952750.html",
-  "source": "TRT Haber",
-  "summary_tr": "Üsküdar Belediye Başkanı Sinem Dedetaş ve 3 şüpheli tutuklandı. İstanbul Anadolu Cumhuriyet Başsavcılığı yapı ruhsatı ve iskan süreçlerinde usulsüzlük yapıldığı iddiasıyla gözaltı işlemi başlattı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-31T20:01:04.135680+00:00",
-  "type": "news",
-  "cluster_id": "c8f9679b1e13a"
- },
- {
-  "title": "Parti Sözcüsü duyurdu: CHP'den 500 bine yakın üye ile 120 belediye başkanı ayrıldı",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVG1ZMVNPby1lOXhkaWhWVHcxbzZzem5MQlZ0N0YtRW5mN01aa2FyaHhpU3lQUFhUNHk3Q1B6R29fakxwTUNVai0xc0hFa0swRHRTM1ZWWkI3bjdSSE82NlF5UzhtWlNVYnA4UEx2OTB2Z3FoYWdSeHNaS0QyMndwc2ZhS0dXQ1FRN2hPMjB3T3haTjFtRFg0NVB4M055YkdndFJWdHIxRWpiU2VNbFlwenhmeEpXTmtD?oc=5",
-  "source": "T24",
-  "summary_tr": "CHP Parti Sözcüsü'nün duyurusuna göre partiden yaklaşık 500 bin üye ve 120 belediye başkanı ayrıldı.",
-  "metric": "CHP'den ayrılan üye: ~500.000; ayrılan belediye başkanı: 120",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-07-31T20:01:04.135680+00:00",
-  "type": "news",
-  "cluster_id": "c346a52c1704e"
- },
- {
-  "title": "Oil price rises after Iran says it stops ships in Hormuz",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNm5pTVNDLURFZkZQWHVrd3VibjhDM05FOVd1QWIzNVRfbWtPWTFiSjQtSmc5Mk41Yl9MaG4zWTV3YTNyQVpOWVl1WUZCcXVKeGJzVjFtUVh3dGlvYlFScVI3UFJfamhnX2M0ZG1UNDZSckhIM214Q1c1bG53S0dnWnZDRDF4Mm9CWnZQMzBVS1M5c3BvTmxCQmg5bURtMTZ4dHBGanhNak8?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran, Hormuz Boğazı'ndaki gemileri durdurduğunu bildirdi; petrol fiyatları yükselişe geçti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-07-31T19:01:05.216952+00:00",
-  "type": "news",
-  "cluster_id": "c408631d8f51a"
- },
- {
-  "title": "İspanya'nın Afrika'daki toprağı Ceuta'ya bir günde 60 bin göçmen girdi; en az 57 kişi hayatını kaybetti",
-  "link": "https://www.bbc.com/turkce/articles/cz97klj5x98o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "İspanya'nın Ceuta toprağına 24 saatte 60 bin göçmen girdi; en az 57 kişi hayatını kaybetti. Sınır güvenliği güçlendirilecek.",
-  "metric": "Göçmen akışı: 60.000 kişi/gün",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-31T19:01:05.216952+00:00",
-  "type": "news",
-  "cluster_id": "cdada5a2039e2"
- },
- {
-  "title": "YÖK'ten vakıf üniversitelerine öğrenim ücreti artışına ilişkin uyarı yazısı",
-  "link": "https://www.aa.com.tr/tr/gundem/yokten-vakif-universitelerine-ogrenim-ucreti-artisina-iliskin-uyari-yazisi/4015348",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "YÖK, vakıf üniversitelerinin 2026-2027 eğitim yılında öğrenim ücreti artış oranına ilişkin uyarı yazısı gönderdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-31T19:01:05.216952+00:00",
-  "type": "news",
-  "cluster_id": "cb788bca83edd"
- },
- {
-  "title": "Trump says US has not agreed to Ukraine building Patriot missiles",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQXNqSU9WRVUwMm1rWkFyY0ZVdXpoQ3RudWlwQmI5aGh1VmJITWJuWkpjc3NJQ2VfQU1PZlFwZkhfYTZvYWNxZ1NvM1FseWMxU1J2SDZkN2N3SW5HYmJUTWozTlpwWTBNYmEzQ1Y0N1lPYUotUllyTW5PZ0xQUmo0b3NSNzdsV1QzNzJGNk1ZWVhIam9FNXpUMUVSOGxVaGVCWGJmR0VnV2x3bUZ1Nzh2OHY2TkRyd0dCdGlpYWRhVWhNcVU?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, ABD'nin Ukrayna'nın Patriot füzesi üretmesine izin vermediğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-31T19:01:05.216952+00:00",
-  "type": "news",
-  "cluster_id": "cffc00c4c2b00"
  }
 ]
