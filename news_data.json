@@ -1,5 +1,77 @@
 [
  {
+  "title": "Almanya'da yüksek enerji fiyatları enflasyonu son 2,5 yılın zirvesine taşıdı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/almanyada-yuksek-enerji-fiyatlari-enflasyonu-son-2-5-yilin-zirvesine-tasidi/4053788",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Almanya'da yüksek enerji fiyatlarının etkisiyle yıllık enflasyon ağustosta %2,9'a yükseldi ve 2,5 yılın zirvesine ulaştı.",
+  "metric": "Almanya enflasyonu %2,9 (2,5 yılın zirvesi)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-10T22:01:16.083716+00:00",
+  "type": "news",
+  "cluster_id": "c671468350a27"
+ },
+ {
+  "title": "İstanbul’da ucuz kiralık konut dönemi başlıyor: Kimler yararlanacak, kiralar ne kadar olacak?",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQkpMTlJ3bUJfc3lvOEFyZVh1T1JnbWhMVHRQa2dfY2hJTXdxWktBOGpVWGlLbHdMNzlOZnZMb00yaXJnb0RhazhXZWxZSGd1RGhqODV3czlYeFBOeVd5SXZoVUJsWGVILVlMM1pTWlB5c1FFOWwzZThSQjJJYkZIVnJ2NElSQUpNSXRnaGM5bWo2WVQ3Z1pLc3Zvd0ZlalRyUTM0NDU1NHdWX0xBb3FrUVJBdnBNYjdEYUQ5clJ4c0g?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "İstanbul'da ucuz kiralık konut uygulaması başlıyor; halkın erişilebilir konut seçeneğine erişimi artacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-10T22:01:16.083716+00:00",
+  "type": "news",
+  "cluster_id": "c1a4a4d8e9e82"
+ },
+ {
+  "title": "Bakan Gürlek: ‘Uyuşturucu baronu İslam Yakut İstanbul’da yakalandı’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/bakan-gurlek-uyusturucu-baronu-islam-yakut-yakalandi-2536603",
+  "source": "Cumhuriyet",
+  "summary_tr": "Adalet Bakanı Gürlek, 2017'den beri aranan uyuşturucu baronu İslam Yakut'un İstanbul'da yakalandığını duyurdu.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-10T22:01:16.083716+00:00",
+  "type": "news",
+  "cluster_id": "cd44bd52a3698"
+ },
+ {
+  "title": "Bakan Gürlek duyurdu: 2017'den beri aranan uyuşturucu baronu İstanbul'da yakalandı",
+  "link": "https://www.sozcu.com.tr/islam-yakut-istanbul-da-yakalandi-p357134",
+  "source": "Sözcü",
+  "summary_tr": "Adalet Bakanı Gürlek, 2017'den beri aranan uyuşturucu baronu İslam Yakut'un İstanbul'da yakalanarak gözaltına alındığını bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-10T22:01:16.083716+00:00",
+  "type": "news",
+  "cluster_id": "cd44bd52a3698"
+ },
+ {
+  "title": "Bakan Gürlek: Suç örgütü lideri İslam Yakut yakalandı",
+  "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-suc-orgutu-lideri-islam-yakut-yakalandi-956509.html",
+  "source": "TRT Haber",
+  "summary_tr": "Adalet Bakanı Gürlek, uluslararası uyuşturucu ticareti yapan suç örgütü lideri İslam Yakut'un İstanbul'da yakalanıp gözaltına alındığını açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-10T22:01:16.083716+00:00",
+  "type": "news",
+  "cluster_id": "cd44bd52a3698"
+ },
+ {
+  "title": "İstanbul'da uyuşturucu ticaretinden aranan suç örgütü elebaşı operasyonla yakalandı",
+  "link": "https://www.aa.com.tr/tr/gundem/istanbulda-uyusturucu-ticaretinden-aranan-suc-orgutu-elebasi-operasyonla-yakalandi/4053809",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İstanbul'da uyuşturucu ticareti ve suç örgütü kurmaktan aranan zanlı operasyonla gözaltına alındı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-10T22:01:16.083716+00:00",
+  "type": "news",
+  "cluster_id": "c7fb4c66e0823"
+ },
+ {
   "title": "European Central Bank raises interest rates a quarter point to quell energy-fueled inflation",
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYXhlSGRFeXBsSzdweG4xMUZSN2RGVXhhRXJGNUdVaW41aWlTVUZNSkdtRmxWVVhQbUV3b1RoektzQWIzb21ydWRzb0JCZUJDSTI2UjdCdlNDYnRfNVVSYmJuZi1IakZldHpvaHJUSXhBVnVINndGZjFoZUYxa20xU2JKdndRNm9KQVQxMl9rSEZ5NkthQngwUXQxelE?oc=5",
   "source": "AP",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-01T14:01:01.734644+00:00",
   "type": "news",
   "cluster_id": "c4e4146c4e4ff"
- },
- {
-  "title": "İnternet alışverişi ve sosyal medyada bu uygulamalar bugün yasaklandı",
-  "link": "https://www.sozcu.com.tr/internet-alisverisi-ve-sosyal-medyada-bu-uygulamalar-bugun-yasaklandi-p341564",
-  "source": "Sözcü",
-  "summary_tr": "Ticaret Bakanlığı, yapay zeka kullanan belirli internet alışveriş ve sosyal medya uygulamalarını yasaklayan yönetmeliği Resmî Gazete'de yayımladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-01T14:01:01.734644+00:00",
-  "type": "news",
-  "cluster_id": "c6d0e1d27902d"
- },
- {
-  "title": "Türkiye ve Irak arasındaki dev anlaşmada imzalar atıldı",
-  "link": "https://www.trthaber.com/haber/gundem/turkiye-ve-irak-arasindaki-dev-anlasmada-imzalar-atildi-952807.html",
-  "source": "TRT Haber",
-  "summary_tr": "Enerji Bakanı Bayraktar, BOTAŞ ile Irak petrol şirketleri arasında petrol boru hattı kullanımı anlaşmasını imzaladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-01T14:01:01.734644+00:00",
-  "type": "news",
-  "cluster_id": "ce299f747593b"
- },
- {
-  "title": "İTO'ya göre İstanbul'da enflasyon yüzde 35,20: Fiyatı artanlar",
-  "link": "https://www.diken.com.tr/itoya-gore-istanbulda-enflasyon-yuzde-3520-fiyati-artanlar/?utm_source=rss&utm_medium=rss&utm_campaign=itoya-gore-istanbulda-enflasyon-yuzde-3520-fiyati-artanlar",
-  "source": "Diken",
-  "summary_tr": "İstanbul Ticaret Odası verilerine göre Temmuzda İstanbul'da enflasyon yüzde 35,20 olarak ölçüldü.",
-  "metric": "İstanbul enflasyonu (aylık) %35,20",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-08-01T13:01:07.611222+00:00",
-  "type": "news",
-  "cluster_id": "cec4644b3bead"
- },
- {
-  "title": "Kurtulmuş duyurdu: Süreç yasası teklifi haftaya Meclis'e geliyor",
-  "link": "https://www.diken.com.tr/kurtulmus-duyurdu-surec-yasasi-teklifi-haftaya-meclise-geliyor/?utm_source=rss&utm_medium=rss&utm_campaign=kurtulmus-duyurdu-surec-yasasi-teklifi-haftaya-meclise-geliyor",
-  "source": "Diken",
-  "summary_tr": "TBMM Başkanı Kurtulmuş, PKK'nın silah bırakmasına yönelik Terörsüz Türkiye yasa teklifinin haftaya Meclis'e geleceğini duyurdu.",
-  "metric": "",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-08-01T13:01:07.611222+00:00",
-  "type": "news",
-  "cluster_id": "c1a4e2f6becfe"
- },
- {
-  "title": "TBMM Başkanı Kurtulmuş: Terörsüz Türkiye yasa teklifi inşallah önümüzdeki hafta ortak bir teklifi olarak TBMM'ye gelecek",
-  "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-terorsuz-turkiye-yasa-teklifi-insallah-onumuzdeki-hafta-ortak-bir-teklifi-olarak-tbmmye-gelecek/4015788",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "TBMM Başkanı Kurtulmuş, Terörsüz Türkiye yasa teklifinin önceki haftada partilerin ortak teklifi olarak TBMM'ye geleceğini açıkladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-08-01T13:01:07.611222+00:00",
-  "type": "news",
-  "cluster_id": "cda87acb4f0e0"
- },
- {
-  "title": "Terörsüz Türkiye teklifi partilerin ortak imzasıyla TBMM'ye sunulacak",
-  "link": "https://www.trthaber.com/haber/gundem/terorsuz-turkiye-teklifi-partilerin-ortak-imzasiyla-tbmmye-sunulacak-952806.html",
-  "source": "TRT Haber",
-  "summary_tr": "TBMM Başkanı Kurtulmuş, Terörsüz Türkiye yasa teklifinin partilerin ortak imzasıyla TBMM'ye sunulacağını bildirdi.",
-  "metric": "",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-08-01T13:01:07.611222+00:00",
-  "type": "news",
-  "cluster_id": "c17744824c3f3"
  }
 ]
