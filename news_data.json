@@ -1,5 +1,65 @@
 [
  {
+  "title": "Trump’tan İran savaşı için yeni açıklama: 'Belki seçimlerden önce biter'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/trump-tan-iran-savasi-icin-yeni-aciklama-belki-secimlerden-once-biter-2536540",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD Başkanı Trump, İran'la savaşın 3 Kasım Kongre ara seçimlerinden önce sona erebileceğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-10T18:01:17.302529+00:00",
+  "type": "news",
+  "cluster_id": "c756fd691f922"
+ },
+ {
+  "title": "Trump, İran'la savaşın \"Kongre ara seçimlerinden önce\" sonlanabileceğini belirtti",
+  "link": "https://www.aa.com.tr/tr/dunya/trump-iranla-savasin-kongre-ara-secimlerinden-once-sonlanabilecegini-belirtti/4053587",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, İran'la savaşın 3 Kasım Kongre ara seçimlerinden önce sona erebileceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-10T18:01:17.302529+00:00",
+  "type": "news",
+  "cluster_id": "ce569569890e7"
+ },
+ {
+  "title": "Mehmet Akif Ersoy'un tutukluluğuna davam kararı alındı",
+  "link": "https://www.bbc.com/turkce/articles/cd0pylv014jo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Habertürk TV Genel Yayın Yönetmeni Mehmet Akif Ersoy'un tutukluluğuna devam kararı alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-10T18:01:17.302529+00:00",
+  "type": "news",
+  "cluster_id": "c42924e73cb3f"
+ },
+ {
+  "title": "Mehmet Akif Ersoy tutuklu kalacak; Ufuk Tetik tahliye edildi",
+  "link": "https://www.sozcu.com.tr/mehmet-akif-ersoy-hakkinda-karar-2026-09-10-p357102",
+  "source": "Sözcü",
+  "summary_tr": "Habertürk TV Genel Yayın Yönetmeni Mehmet Akif Ersoy ile Mustafa Manaz tutuklu kaldı, Ufuk Tetik tahliye edildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-10T18:01:17.302529+00:00",
+  "type": "news",
+  "cluster_id": "c0e860167a3ee"
+ },
+ {
+  "title": "Kiralar 10 bin liradan başlıyor; sosyal konutta detaylar belli oldu",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUHNzU2luekZsR0RaYklORkVyelB0UGVTcmtCZnlkeEM3TWxUUkxaeFo1UjI3NkxDV0hDeWZuaTJPZ0VpbzFZN05OdFVZSDRHb2hzTmFWRnp2QURYMFhDUnIyMGFDVmVHRXZpSFByanJocmpxTm5MbF9yb2RCWDRkMVAxQQ?oc=5",
+  "source": "T24",
+  "summary_tr": "Sosyal konut kiralama programında kira 10 bin liradan başlayacak.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-10T18:01:17.302529+00:00",
+  "type": "news",
+  "cluster_id": "cbbd6686fb1e2"
+ },
+ {
   "title": "Rusya, Ukrayna'ya saldırdı: 4 kişi hayatını kaybetti, 62 kişi yaralandı",
   "link": "https://www.trthaber.com/haber/dunya/rusya-ukraynaya-saldirdi-4-kisi-hayatini-kaybetti-62-kisi-yaralandi-956488.html",
   "source": "TRT Haber",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-01T10:01:38.309202+00:00",
   "type": "news",
   "cluster_id": "c1732d92aec56"
- },
- {
-  "title": "Kalkınma ajanslarından kadının istihdamına katkı",
-  "link": "https://www.trthaber.com/haber/ekonomi/kalkinma-ajanslarindan-kadinin-istihdamina-katki-952785.html",
-  "source": "TRT Haber",
-  "summary_tr": "Kalkınma ajansları kadının istihdamını artırmak için destek sağlıyor.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-01T10:01:38.309202+00:00",
-  "type": "news",
-  "cluster_id": "cdde60bc6f354"
- },
- {
-  "title": "Dış ticaret açığı: $10.37 milyar (Haziran)",
-  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtSUVvRjdVallxS1NydUdRak9SQktEdVJhTWRZSFBGTGQyYTNjU1lQbFE0aXZIOTdMTktWSlBTc0VVVUFORGRqUkQzTHhLNnRoRFpCT2V3ZDlQX1FvcjVEZS0taUh2UWlaMkZVTlVKa04xcG1DR3lIdA?oc=5",
-  "source": "TUIK",
-  "summary_tr": "$10.37 milyar",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-08-01T10:01:38.309202+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "Fenerbahçe'nin toplam borcu açıklandı",
-  "link": "https://www.cumhuriyet.com.tr/spor/fenerbahce-nin-toplam-borcu-aciklandi-2525594",
-  "source": "Cumhuriyet",
-  "summary_tr": "Fenerbahçe Kulübü'nün toplam yükümlülüğü 27 milyar 961 milyon lira olarak açıklandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-01T09:01:07.381951+00:00",
-  "type": "news",
-  "cluster_id": "c8ed2156fe5a5"
- },
- {
-  "title": "Fenerbahçe Kulübü Olağan Yüksek Divan Kurulu toplantısı başladı",
-  "link": "https://www.aa.com.tr/tr/spor/fenerbahce-kulubu-olagan-yuksek-divan-kurulu-toplantisi-basladi/4015552",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Fenerbahçe Yüksek Divan Kurulu toplantısında kulübün borcu 27 milyar 961 milyon lira olarak açıklandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-01T09:01:07.381951+00:00",
-  "type": "news",
-  "cluster_id": "ce8f2e524a9bf"
- },
- {
-  "title": "Türkiye'nin \"kritik teknoloji\" ihracatı 6 ayda 56 milyar doları aştı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-kritik-teknoloji-ihracati-6-ayda-56-milyar-dolari-asti/4015600",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye'nin kritik teknoloji ihracatı 2024 ilk 6 ayında 56,2 milyar doları aştı.",
-  "metric": "Kritik teknoloji ihracatı 56,2 milyar dolar",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-01T09:01:07.381951+00:00",
-  "type": "news",
-  "cluster_id": "c2ee5ba013a51"
  }
 ]
