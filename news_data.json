@@ -1,5 +1,77 @@
 [
  {
+  "title": "İran, nükleer anlaşmaya uymadığı gerekçesiyle BM Güvenlik Konseyi'ne sevk edildi",
+  "link": "https://www.bbc.com/turkce/articles/ckgvdgveyvjo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "İran BM Güvenlik Konseyi'ne nükleer anlaşma ihlali nedeniyle sevk edildi. Tahran, ABD ve İsrail'in nükleer tesislerine saldırıların denetimleri aksattığını ileri sürdü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-10T05:01:16.985847+00:00",
+  "type": "news",
+  "cluster_id": "c178246362f99"
+ },
+ {
+  "title": "WSJ: İran'la savaş 2029'a kadar sürebilir",
+  "link": "https://www.trthaber.com/haber/dunya/wsj-iranla-savas-2029a-kadar-surebilir-956421.html",
+  "source": "TRT Haber",
+  "summary_tr": "Wall Street Journal, Trump'ın açıklamalarına rağmen Beyaz Saray danışmanlarının İran'la savaşın 2029'a kadar sürebileceğini öngördüğünü bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-10T05:01:16.985847+00:00",
+  "type": "news",
+  "cluster_id": "c4200d8774374"
+ },
+ {
+  "title": "UN nuclear watchdog board reports Iran to the UN Security Council for the first time in 20 years",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN3lJSHppY0liT3lJTDhwYml2Z3BTT3NNVW1WN3BPdVdlc3lJcXM4dTBKZ2sya2l2cVRaOHdIOGlwd3N5SVVtR0JfN3ZRbVk2bnVHbExwcmVNdG1iMkk1NHRUQ2FoZFVTVnpFY09DY1BNeDZ6dS1DdGtRS3JXOXpUSTlkYVg2V0FhclZFSXBpTzN3S28zbkE4MEhNdG9zRzdhLWc?oc=5",
+  "source": "AP",
+  "summary_tr": "BM Nükleer İzleme Kurulu, 20 yıl sonra ilk kez İran'ı BM Güvenlik Konseyi'ne bildirdi. Nükleer anlaşmaya uyumuna ilişkin yeni bir eskalasyon yaşandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-10T05:01:16.985847+00:00",
+  "type": "news",
+  "cluster_id": "c5428e3f1b8bf"
+ },
+ {
+  "title": "Bakan Şimşek: Fiyat istikrarına olan bağlılığımız tamdır",
+  "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-fiyat-istikrarina-olan-bagliligimiz-tamdir-956426.html",
+  "source": "TRT Haber",
+  "summary_tr": "Bakan Şimşek, fiyat istikrarına olan bağlılığın tam olduğunu vurguladı. 2027 enflasyon tahmininin para politikasını gevşetmek amacıyla revize edildiğine ilişkin iddiaların gerçeği yansıtmadığını belirtti.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-09-10T05:01:16.985847+00:00",
+  "type": "news",
+  "cluster_id": "c4e46699b78b3"
+ },
+ {
+  "title": "Murat Muratoğlu: OVP dediğin devletin önümüzdeki üç yıl için hazırladığı ekonomik yol haritası",
+  "link": "https://www.diken.com.tr/murat-muratoglu-ovp-dedigin-devletin-onumuzdeki-uc-yil-icin-hazirladigi-ekonomik-yol-haritasi/?utm_source=rss&utm_medium=rss&utm_campaign=murat-muratoglu-ovp-dedigin-devletin-onumuzdeki-uc-yil-icin-hazirladigi-ekonomik-yol-haritasi",
+  "source": "Diken",
+  "summary_tr": "OVP (Orta Vadeli Program), devletin önümüzdeki üç yıl için hazırladığı ekonomik yol haritasıdır. Muratoğlu analiz yazısında OVP'nin önemini vurgulamıştır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-10T05:01:16.985847+00:00",
+  "type": "news",
+  "cluster_id": "c741f9eb1820d"
+ },
+ {
+  "title": "Son yılların en büyük satışı! Türk şirket milyarlarca liraya el değiştiriyor",
+  "link": "https://www.sozcu.com.tr/son-yillarin-en-buyuk-satisi-turk-sirket-milyarlarca-liraya-el-degistiriyor-p356835",
+  "source": "Sözcü",
+  "summary_tr": "Türk şirket son yılların en büyük satışını gerçekleştirdi ve milyarlarca liraya el değiştirdi. Tera, Pusula Finans Holding ve Pusula'nın satış işlemlerine ilişkin KAP açıklaması yapıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-10T05:01:16.985847+00:00",
+  "type": "news",
+  "cluster_id": "c6b338fbcdbb3"
+ },
+ {
   "title": "İran'ın şüpheli nükleer tesisinde inşaat hareketliliği: ABD derin sığınakları vurma planları yapıyor",
   "link": "https://www.trthaber.com/haber/dunya/iranin-supheli-nukleer-tesisinde-insaat-hareketliligi-abd-derin-siginaklari-vurma-planlari-yapiyor-956419.html",
   "source": "TRT Haber",
@@ -59926,77 +59998,5 @@
   "ts": "2026-07-31T13:01:13.646381+00:00",
   "type": "news",
   "cluster_id": "ca01c36bdf229"
- },
- {
-  "title": "Çankaya Belediyesi YENİ Parti’ye geçti",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/cankaya-belediyesi-yeni-parti-ye-gecti-2525412",
-  "source": "Cumhuriyet",
-  "summary_tr": "Çankaya Belediye Başkanvekili Haldun Güler ve 33 meclis üyesi YENİ Parti'ye geçti.",
-  "metric": "33 belediye meclis üyesi",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-31T13:01:13.646381+00:00",
-  "type": "news",
-  "cluster_id": "ce5935823a534"
- },
- {
-  "title": "500 bin liranın 32 günlük getirisi uçtu",
-  "link": "https://www.sozcu.com.tr/500-bin-liranin-32-gunluk-getirisi-uctu-p341336",
-  "source": "Sözcü",
-  "summary_tr": "Bankalar mevduat faiz oranlarını revize etti; 500 bin TL'nin 32 günlük getirisi önceki döneme göre azaldı.",
-  "metric": "500.000 TL / 32 gün",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-07-31T13:01:13.646381+00:00",
-  "type": "news",
-  "cluster_id": "cb14bde328da4"
- },
- {
-  "title": "30 Temmuz taklit-tağşiş listesi: Ayran, peynir ve tereyağları",
-  "link": "https://www.diken.com.tr/30-temmuz-taklit-tagsis-listesi-ayran-peynir-ve-tereyaglari/?utm_source=rss&utm_medium=rss&utm_campaign=30-temmuz-taklit-tagsis-listesi-ayran-peynir-ve-tereyaglari",
-  "source": "Diken",
-  "summary_tr": "Tarım ve Orman Bakanlığı tarafından taklit-tağşiş yapan ürünler (ayran, peynir, tereyağ) marka marka açıklandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-31T13:01:13.646381+00:00",
-  "type": "news",
-  "cluster_id": "cb7bb77ca09ff"
- },
- {
-  "title": "DEM Parti'den 'çerçeve yasa' açıklaması: 'Farklı yaklaşımlar var'",
-  "link": "https://www.sozcu.com.tr/dem-parti-den-cerceve-yasa-aciklamasi-farkli-yaklasimlar-var-p341345",
-  "source": "Sözcü",
-  "summary_tr": "DEM Parti Sözcüsü, PKK'nın fesih sürecine ilişkin yasal düzenleme istişarelerinin devam ettiğini ve farklı yaklaşımlar olduğunu belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-31T13:01:13.646381+00:00",
-  "type": "news",
-  "cluster_id": "cd267112ef9f7"
- },
- {
-  "title": "Çok kullanılan yasaklı site Türkiye'ye dönüyor: 9 yıldır kapalıydı",
-  "link": "https://www.sozcu.com.tr/cok-kullanilan-yasakli-site-turkiye-ye-donuyor-9-yildir-kapaliydi-p341337",
-  "source": "Sözcü",
-  "summary_tr": "9 yıldır erişime kapalı olan Booking.com Türkiye'ye dönüyor; Meclis'e sunulması beklenen yeni düzenlemeyle açılacak.",
-  "metric": "9 yıl kapalı",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-31T13:01:13.646381+00:00",
-  "type": "news",
-  "cluster_id": "ce2b2ac33d839"
- },
- {
-  "title": "Infantino'nun danışmanı, Dünya Kupası hisselerinin satışına karşı çıkarak istifa etti",
-  "link": "https://www.aa.com.tr/tr/spor/infantinonun-danismani-dunya-kupasi-hisselerinin-satisina-karsi-cikarak-istifa-etti/4015000",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "FIFA Başkanı Infantino'nun danışmanı Carlos Cordeiro, Dünya Kupası hisselerinin satışına karşı çıkarak istifa etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-07-31T13:01:13.646381+00:00",
-  "type": "news",
-  "cluster_id": "c8681355b963a"
  }
 ]
