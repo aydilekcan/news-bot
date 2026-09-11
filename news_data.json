@@ -1,5 +1,77 @@
 [
  {
+  "title": "Fed rate-hike case builds as inflation fails to cool",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU2R5eFJ0eFBfbWR4dnNKaUdDZC1MTVY5aWYxc3BlaUY1S2ZMM0xwaFhMbEh1cWtsSFhFVGk5eEE4NkRTb3FxREhvbkpKVjdXdVY1VHhNT2NaUkhUNmEtSzdoQno5aWFRUGpWS0ZBMXcwUEFKSHFOVF9jcFJQSExCbjBYaU5JNTdMdlladkpZdkp2TURmcW94ZkxtV1dwbTR3TkJhUXlmc1A?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Temsilciler Meclisi, enflasyonun soğumaması nedeniyle Fed'in faiz artışı yapması gerektiğine ilişkin argümanlar gelişiyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-11T17:01:07.661073+00:00",
+  "type": "news",
+  "cluster_id": "c63ffb872c519"
+ },
+ {
+  "title": "BRICS leaders gather in New Delhi as wars and rivalries strain the expanded bloc",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORlI1UDZ4ZGdzdkNUSC1ROERyRllXQnpTWVJnVUZ0Q1Y0UC1ESXlDVm93Z0xtSG5IUFR1WXNyZHZwcU5nS3N6OGR0ZnQzVUFfOEF2MDlmdUFpOGpXcWI2Q3ZHRHlmM3hLMG90NWNTZ09TMkE2SmRSTjQxc19PS1djR2VObWpaUktHMjhGdWxGTzVvelNtNS1DX1Bn?oc=5",
+  "source": "AP",
+  "summary_tr": "BRICS liderleri Yeni Delhi'de toplanıyor; savaşlar ve rivaliteler genişlemiş bloğu zorluyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-11T17:01:07.661073+00:00",
+  "type": "news",
+  "cluster_id": "ce50ae49cdcce"
+ },
+ {
+  "title": "BRICS liderleri toplanıyor: Ortak bir amaçları var mı?",
+  "link": "https://www.dw.com/tr/brics-liderleri-toplanıyor-ortak-bir-amaçları-var-mı/a-79237827?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "18. BRICS zirvesi Hindistan'da yapılacak; Rusya ve Çin liderleri bu yıl katılıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-11T17:01:07.661073+00:00",
+  "type": "news",
+  "cluster_id": "cdfc9367d625c"
+ },
+ {
+  "title": "Bakanlık duyurdu: Türkiye ile Bulgaristan 'yeni gümrük kapısı' için mutabakata vardı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/bakanlik-duyurdu-turkiye-ile-bulgaristan-yeni-gumruk-kapisi-icin-mutabakata-vardi-2536795",
+  "source": "Cumhuriyet",
+  "summary_tr": "Türkiye ve Bulgaristan, Kapıkule'deki yoğunluğu azaltmak için yeni gümrük kapısı projesi konusunda mutabakata vardı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-11T17:01:07.661073+00:00",
+  "type": "news",
+  "cluster_id": "c26cb863c9073"
+ },
+ {
+  "title": "Bu hafta yatırım araçlarının performansı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/bu-hafta-yatirim-araclarinin-performansi/4054638",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Borsa İstanbul haftalık bazda hisse senetleri ortalama %3,25 değer kazandı; dolar/TL %0,34, avro/TL %0,38 arttı.",
+  "metric": "Hisse senetleri +%3,25; Dolar/TL +%0,34; Avro/TL +%0,38",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-11T17:01:07.661073+00:00",
+  "type": "news",
+  "cluster_id": "c25de9a3a67b8"
+ },
+ {
+  "title": "Yıllık Enflasyon (2029 tahmini): %9 (2029)",
+  "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42ZTdXSjNsUUp3RExkUF83Y0k4VTZhZDFCeHdmSlZhSHBvUUZxeEhWM1JycnBDaWMyQ2o5elRwbVcyaERxbXRDdEhmNA?oc=5",
+  "source": "TÜİK",
+  "summary_tr": "%9",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-09-11T17:01:07.661073+00:00",
+  "type": "forecast",
+  "cluster_id": ""
+ },
+ {
   "title": "Resmen duyuruldu: 35 yıllık Türk inşaat şirketi iflas etti",
   "link": "https://www.cumhuriyet.com.tr/turkiye/resmen-duyuruldu-35-yillik-turk-insaat-sirketi-iflas-etti-2536783",
   "source": "Cumhuriyet",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-03T03:01:03.144108+00:00",
   "type": "news",
   "cluster_id": "c442eec1ee21d"
- },
- {
-  "title": "7 milyon yatırımcı borsada yem oldu",
-  "link": "https://www.sozcu.com.tr/7-milyon-yatirimci-borsada-yem-oldu-p341847",
-  "source": "Sözcü",
-  "summary_tr": "Borsa analisti, 30 bin kişinin borsadaki varlığın yüzde 80'ine sahip olduğunu belirterek, küçük yatırımcıların zarar gördüğünü ifade etti.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-03T03:01:03.144108+00:00",
-  "type": "news",
-  "cluster_id": "cd271cf69dd23"
- },
- {
-  "title": "Yen leaps after intervention, leaving the dollar bruised",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaXpfRUdtOGNadXREWXpDZmVoUmQtVlJCdS12NzV3S253d2NLMmpVTVJBeXNhdmk0T2hMaThCdUNnaXMxcEZrR1JtOEtxLUFsaEpfNFlnY1Y0LTJISkFqN3RnRkZCRWxzaHllRGxZLV83ZTlIX1RtQ2RkQTVoQlk0Rnc5bzFCTUluNnI4QTY1b1YwaDlMNTg1amJwT05MVUFyQUFVZ25JMU1UekVSYWVuWjVMV2Z4ZmZZaGJaeXVMdEE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Japonya'nın döviz müdahalesinin ardından Japon yeni yükselirken dolar zayıfladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-03T03:01:03.144108+00:00",
-  "type": "news",
-  "cluster_id": "c3b1e1054b1b0"
- },
- {
-  "title": "Oil prices drop after Trump orders US forces to hold off on new strikes against Iran",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcEZkWTg3a001MVcwRG1xUHMyZEswTmlEdWZTSjhHc0ZoTDhjcHJjeG9RajROSHJRQzV1RHQyMTJtTFo0czE3NDRnUzJlcjZZblZtRzZZRWlFODlUZEhoeU1ETzJiTlEwWGQ5RU5XS1pTV2Fib2FnWXJNRHhkRmx4MDlwUGkzTHVxcFc4VzJB?oc=5",
-  "source": "AP",
-  "summary_tr": "Trump'ın İran'a karşı yeni hava saldırılarını durdurma emrinin ardından petrol fiyatları düştü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-03T03:01:03.144108+00:00",
-  "type": "news",
-  "cluster_id": "c048474d73dd0"
- },
- {
-  "title": "Oil tumbles as Trump cancels attack on Iran to reach nuclear deal",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnBOaGh1VXBaaGQwVmloSzlPcmg5aFdQeENKS3JtNi1wQTZlQTRBUm02ODRrYkNVZkNDREwtTTdMeUhlNV94QjctaFhpMWhTWVVJaF9xeVhWdEdKZXBMbFA4alVQaDBXbnMzczBqRnVBUlVrVUJJTFhLQjdpSU9SV2lHV1FQd0hvOEs0QkZwLVZfUDhtSkVGUU02T2tPeDFXaU5SaWRtUWt3cjhE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, İran'a karşı saldırıyı iptal ederek nükleer anlaşma müzakeresine odaklanma kararı aldı. Petrol fiyatları bu gelişmeyle düştü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-03T02:01:04.299043+00:00",
-  "type": "news",
-  "cluster_id": "c44cc5f6cf5d8"
- },
- {
-  "title": "Trump says Iran talks to take place on Monday, sets no deadline for deal",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdzJzZHNCZzdLcHhDVWdCSEpLMEpVckJUQXFxcjhrcEdHWmlWQ183T3g0dUtwWldQLTVfQ0FCbGRaXzV3Y2tnS0laLS1LeU1KcGJKRVhvX2xyV1I1Q0cxSDF0dWJ6ZWpaOFZJTWZac045VWduTklfeUl2QUhKcXZtbE9EY1MtR0p0MUNZOXEtbEpFejVqeXFQaHRRcVFBbkNhUU41eGM3ZldtVFg3U09UY205bjRlUFU?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, İran müzakerelerinin Pazartesi günü gerçekleşeceğini açıkladı ve anlaşma için belirli bir son tarih koymadı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-03T02:01:04.299043+00:00",
-  "type": "news",
-  "cluster_id": "c8902919f8c9d"
- },
- {
-  "title": "Trump says Gulf leaders' input weighed heavily in decision to hold off on ordering new Iran strikes",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZy05LW5ObUpORjFnYnd6WWR0UmJrOVVXR19TU1JqcFBxdUtwMGRGZm5DX2hNZ3h0dWhRWk5Rd3M1cGY5WnpneE85T1JDOEdtYnZUMWl0b1AwN0JseTRCQTNmVlllQzN1djg3RzIyWENCdGx2SzdZSXJLNHJJeXFPVHVwc292NnlCbDJTdDhHQ3ZURE0zaEJvdHR2dkxyRVk1a1FoTmtoZw?oc=5",
-  "source": "AP",
-  "summary_tr": "Trump, İran'a karşı yeni saldırı kararını engelleme işleminde Körfez liderlerinin görüşlerinin ağır bastığını belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-03T02:01:04.299043+00:00",
-  "type": "news",
-  "cluster_id": "c69a4aea290c3"
  }
 ]
