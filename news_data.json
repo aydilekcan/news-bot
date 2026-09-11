@@ -1,5 +1,77 @@
 [
  {
+  "title": "Global bonds buckle as surging oil prices inflame inflation risks",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rQ3pYNkdSYUhxbHl1RjJnc01XMWdUV2NHRFBXaTJhN0FzcUtqV3RFOU5EaUZyTnZYTVJ5ZlduWkJGTzB1Wm8xdmpLdXNBSzdubXRLbmxZRlQtTkh4YkRrbjUwQVFScUVBM3MxLTdITll1ZnZmUGljV1NtRXk?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Artan petrol fiyatları küresel tahvil piyasalarını sarsıyor ve enflasyon risklerini artırıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-11T04:01:14.143613+00:00",
+  "type": "news",
+  "cluster_id": "c886503dbb971"
+ },
+ {
+  "title": "Emeklinin parasını bütçeye yamadılar",
+  "link": "https://www.sozcu.com.tr/emeklinin-parasini-butceye-yamadilar-p357161",
+  "source": "Sözcü",
+  "summary_tr": "Emeklilere SGK'ya ödenecek para 782 milyar liradan 1.4 trilyon liraya çıktı; emekli aylıklarında 2.2 trilyon liralık etki bekleniyor.",
+  "metric": "SGK ödemesi 782 milyar TL -> 1.4 trilyon TL (+%79)",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-11T04:01:14.143613+00:00",
+  "type": "news",
+  "cluster_id": "c5f3406d4d1de"
+ },
+ {
+  "title": "ABD'den İran'ın küresel gölge finansman ağına yaptırım",
+  "link": "https://www.trthaber.com/haber/dunya/abdden-iranin-kuresel-golge-finansman-agina-yaptirim-956517.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Hazine Bakanlığı, İran'ın küresel gölge finansman ağına yönelik 'Ekonomik Dışlama Operasyonu' kapsamında çok sayıda kişi ve kuruluşa yaptırım uyguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-11T04:01:14.143613+00:00",
+  "type": "news",
+  "cluster_id": "c2db9e4034943"
+ },
+ {
+  "title": "Trump administration to sanction unnamed 'large' bank on Monday, Bessent says",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ203a2pwbUU5aVVPVUtBUHB4dWRXa2YtM2pYZzMtVWU3SXJqZUNZTmtrTWt6dmFsMm82YzJzUERqeExQYzVhXzl4REJpRk54SEZIblVEckJ5M0pVWHhUdDNUUTZiNzdyUlc3b0h2SjBhZFFQRk5pOTlCZlYzeTJkeXhkQURpbnB6Z1JfcFB5bl9walRKZUdfekNPaGVETHc0aTFfb3pZdlBZaXB1SkRSSjFLaUp3aTBXeXgybWFR?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump yönetimi Pazartesi günü adı açıklanmayan büyük bir bankaya yaptırım uygulanacağını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-11T04:01:14.143613+00:00",
+  "type": "news",
+  "cluster_id": "ccb3778aa0143"
+ },
+ {
+  "title": "Depremde 35 kişinin öldüğü Ezgi Apartmanı davasında karar",
+  "link": "https://www.trthaber.com/haber/turkiye/depremde-35-kisinin-oldugu-ezgi-apartmani-davasinda-karar-956522.html",
+  "source": "TRT Haber",
+  "summary_tr": "Kahramanmaraş Ezgi Apartmanı davasında mahkeme, 35 can kaybına neden olan yap İ yönetim kusurlarında sanıklara hapis cezası verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-11T04:01:14.143613+00:00",
+  "type": "news",
+  "cluster_id": "c45c1be294f43"
+ },
+ {
+  "title": "Ezgi Apartmanı davasında karar: İki sanığa 6 yıl 8 ay hapis",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlZ5VURHM0VwWG9JX2hDd3ZLcjZyWXlYUzlyN0J1UUlxRnBmUVpabjJad2l5dUNuSzFXTksxQ0hsck5RZVFtUzE0NDVsT3hTRDFGNlE2NXhRWnM2S2ZEOTAwdVVoWUZmVjN3bF9QOWR2eTAyOGNfTjRVSHVsc0FuZlg4emtsdnNvdGFHYzRRcUM3d0p4SFo0?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Ezgi Apartmanı davasında mahkeme, depremdeki 35 ölüme ilişkin iki sanığa 6 yıl 8 ay hapis cezası verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-11T04:01:14.143613+00:00",
+  "type": "news",
+  "cluster_id": "c45c1be294f43"
+ },
+ {
   "title": "Oil prices set to end week over $100 for first time in nearly 4 months",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORWZtMHZyX3Z0UkY2T285M3E2bElVVXRpdVhIVnZLQ1N4UjhKMTQ0UmZLWDlrQmRlcHFtZkN1SUcxSmNvVWhyelh4ZUhpZER2N2N5REE2aFR6Nm52YWRKY0xQRk16cE0tMFpRdkNjQm5YTDZ2RWFhcld2aWVHWUJMcFdncU1FUWVNNTgtX2VKcmpfZUNWZE1LenhwWDlGQmxreVF3Zjk4WlJ0N3hqODIxSQ?oc=5",
   "source": "Reuters",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-01T15:01:06.762121+00:00",
   "type": "news",
   "cluster_id": "c1145a46d3c9e"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan: Gayemiz, terör engelini aradan çekip alarak Türkiye'yi geleceğe hazırlamaktır",
-  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-gayemiz-teror-engelini-aradan-cekip-alarak-turkiyeyi-gelecege-hazirlamaktir/4015803",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, terör engeli kaldırılarak Türkiye'nin geleceğe hazırlanacağını söyledi.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-01T15:01:06.762121+00:00",
-  "type": "news",
-  "cluster_id": "c14187019273c"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan: Terörsüz Türkiye süreci menziline ulaşacak",
-  "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-terorsuz-turkiye-sureci-menziline-ulasacak-952808.html",
-  "source": "TRT Haber",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, Terörsüz Türkiye sürecinin menziline ulaşacağını belirtti.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-01T15:01:06.762121+00:00",
-  "type": "news",
-  "cluster_id": "cc724d7bc03f4"
- },
- {
-  "title": "Tuzla, Çekmeköy ve Şile belediyeleri CHP'den AKP'ye geçti",
-  "link": "https://www.diken.com.tr/tuzla-cekmekoy-ve-sile-belediyeleri-chpden-akpye-gecti/?utm_source=rss&utm_medium=rss&utm_campaign=tuzla-cekmekoy-ve-sile-belediyeleri-chpden-akpye-gecti",
-  "source": "Diken",
-  "summary_tr": "Tuzla, Çekmeköy ve Şile belediyeleri CHP'den AKP'ye geçti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-01T15:01:06.762121+00:00",
-  "type": "news",
-  "cluster_id": "c5645d48c0804"
- },
- {
-  "title": "Irak Başbakanı: (Türkiye ile petrol anlaşması) İşbirliğini güçlendirmek adına önemli bir stratejik başarı",
-  "link": "https://www.aa.com.tr/tr/dunya/irak-basbakani-turkiye-ile-petrol-anlasmasi-isbirligini-guclendirmek-adina-onemli-bir-stratejik-basari/4015899",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Irak Başbakanı, Türkiye ile petrol anlaşmasını stratejik başarı olarak değerlendirdi.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-01T15:01:06.762121+00:00",
-  "type": "news",
-  "cluster_id": "ce0f8185c2a0e"
- },
- {
-  "title": "İstanbul'da 3 ilçe belediyesi AK Parti'ye geçti",
-  "link": "https://www.trthaber.com/haber/gundem/istanbulda-3-ilce-belediyesi-ak-partiye-gecti-952813.html",
-  "source": "TRT Haber",
-  "summary_tr": "Istanbul'da 3 ilçe belediyesi AK Parti'ye geçti.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-01T15:01:06.762121+00:00",
-  "type": "news",
-  "cluster_id": "cbf3047412626"
- },
- {
-  "title": "CHP'li iki belediye başkanı ve bir belediye başkanvekili AKP'ye geçti",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOXE0VmU3RUtLdEdIX2FMcm1CZGhvdUVsMkk3WElsR0FYcUdSSDFnYmRQckdHNW80dXRnNUROdzZuNUMzZWRsUlJyZGcyQ1ltd1VGMGhkR0h4cTd1WEhfMWljN0JrV3oxUVp5M3lTRzlRbnh5SXJzcWFvMVBaSGZQQjl1RUxMTU1heHFnOVQ3RzdFSzNjLWt3ZC1mWGFsNmEwT3Rz?oc=5",
-  "source": "T24",
-  "summary_tr": "CHP'li iki belediye başkanı ve bir başkanvekili AKP'ye geçti.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-01T15:01:06.762121+00:00",
-  "type": "news",
-  "cluster_id": "c61710058acc7"
  }
 ]
