@@ -1,5 +1,65 @@
 [
  {
+  "title": "US consumer prices accelerate in August, push Fed closer to rate hike",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdW10dVZWcHQ3MkdPRy1fRGN2VVUzeV8tV2tRSnRfVHdBbllhS0hfTzlWUy1tM0pHZWxmTl84b3loTVFqRHdUX3I2REFQQ1h5ZTZIcHBJTy1Jcmd1VUpPdDRtdVhvbVpHMEVCQmJkbnNqYXBCUGZiTjVmcTM5NUpEbFgwb08wQU92TFE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD tüketici fiyatları ağustosta hızlandı; Fed faiz artırımına daha yakın konuma geldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-11T19:01:11.448424+00:00",
+  "type": "news",
+  "cluster_id": "c4b638940bb42"
+ },
+ {
+  "title": "Bahçeli açıklamıştı! AKP'li Şamil Tayyar, Öcalan için İmralı'da inşa edilen evin ayrıntılarını paylaştı: 'Dubleks bir villa...'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/bahceli-aciklamisti-akp-li-samil-tayyar-ocalan-icin-imrali-da-insa-edilen-evin-ayrintilarini-paylasti-dubleks-bir-villa-2536813",
+  "source": "Cumhuriyet",
+  "summary_tr": "MHP lideri Bahçeli, İmralı Adası'nda Öcalan için özel bir ev (dubleks villa) inşa edildiğini açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-09-11T19:01:11.448424+00:00",
+  "type": "news",
+  "cluster_id": "c48463979bab8"
+ },
+ {
+  "title": "ABD bütçesi ağustosta 167 milyar dolar açık verdi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abd-butcesi-agustosta-167-milyar-dolar-acik-verdi/4054708",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD'nin ağustos 2026 bütçe açığı, bir yıl öncesine kıyasla %52 düşerek 167 milyar dolara geriledi.",
+  "metric": "ABD bütçe açığı (ağustos) -52% (167 milyar dolar)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-11T19:01:11.448424+00:00",
+  "type": "news",
+  "cluster_id": "c86c4ac5ae70f"
+ },
+ {
+  "title": "Bahçeli, İmralı'da özel ev yapıldığını ancak Öcalan'ın henüz neden taşınmadığını açıkladı!",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMVBSZjZxbE0yU2xDR0xfYUREWGFQVXJSZkw0eU5XQ0tVbmVTYl91V0ZheVhkd19xSjdfMVMwRmkxU25tbjVzVnB5Mlo4WjF6c05uQktWeFotYjRXODlsZnJMbktmOVFra05Ja1FKazR5WEVydGF5Sm5hTWpFcDZoSi05R3NieUpFNDFFNGZUWnNLRFVpV2Q2SEhmUTJNUXB0ZjQ4WkJyVGtRc2VVWjZKOGh3UmNjMktIb2xaUA?oc=5",
+  "source": "T24",
+  "summary_tr": "MHP lideri Bahçeli, İmralı'da Öcalan için özel ev yapıldığını, ancak henüz taşınmadığını açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-09-11T19:01:11.448424+00:00",
+  "type": "news",
+  "cluster_id": "c010dfbe4f897"
+ },
+ {
+  "title": "Yatırımda haftalık tablo: Borsa İstanbul'da hisse senetleri yüzde 3,25 arttı",
+  "link": "https://www.diken.com.tr/yatirimda-haftalik-tablo-borsa-istanbulda-hisse-senetleri-yuzde-325-artti/?utm_source=rss&utm_medium=rss&utm_campaign=yatirimda-haftalik-tablo-borsa-istanbulda-hisse-senetleri-yuzde-325-artti",
+  "source": "Diken",
+  "summary_tr": "Borsa İstanbul'da hisse senetleri bu hafta %3,25 arttı.",
+  "metric": "Borsa İstanbul %3,25 artış",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-11T19:01:11.448424+00:00",
+  "type": "news",
+  "cluster_id": "cc86cb2014377"
+ },
+ {
   "title": "TCMB Başkanı Karahan: Son enflasyon verileri ve öncü göstergeler, enflasyonun ana eğiliminin yavaşladığına işaret ediyor",
   "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-son-enflasyon-verileri-ve-oncu-gostergeler-enflasyonun-ana-egiliminin-yavasladigina-isaret-ediyor/4054683",
   "source": "Anadolu Ajansı",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-03T06:01:09.083271+00:00",
   "type": "news",
   "cluster_id": "c41c1cb4c5f1f"
- },
- {
-  "title": "Bilezik alanlar battı! Mart’ta 84 bin TL’ye satılan bilezik şimdi 62 bin TL’ye düştü",
-  "link": "https://www.sozcu.com.tr/bilezik-alanlar-batti-mart-ta-84-bin-tl-ye-satilan-bilezik-simdi-62-bin-tl-ye-dustu-p341875",
-  "source": "Sözcü",
-  "summary_tr": "Altın fiyatlarında sert geri çekilme: Mart'ta 84 bin TL'ye satılan bilezik şimdi 62 bin TL'ye düştü.",
-  "metric": "Altın (bilezik) 84.000 TL -> 62.000 TL (-26%)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-03T06:01:09.083271+00:00",
-  "type": "news",
-  "cluster_id": "cec23aa7228ad"
- },
- {
-  "title": "US dollar weakens sharply against the Japanese yen after market interventions",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkpfVU0zTnBZSEZnbmNLUUxSMzVoSzVTMk1xZVRyS1FaU1hHbXBlVlpIWHJsQ1owSndGU3hKS3Znc3RVUjFiS3VnUl9vWU54Y05JT1dWb19GeG50NkttOVZld1hNUndETHJOdzhBSnhsY3FtQml3dXRRWmZxbTVSOE0teE1wMldFVmtuS3F3RXdDM1JMU29DcA?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD doları, pazar müdahaleleri sonrasında Japon yenine karşı keskin şekilde zayıfladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-03T06:01:09.083271+00:00",
-  "type": "news",
-  "cluster_id": "c5f4fe8414d07"
- },
- {
-  "title": "Trump duyurdu: ABD-İran müzakereleri bugün yeniden başlıyor",
-  "link": "https://www.diken.com.tr/trump-duyurdu-abd-iran-muzakereleri-bugun-yeniden-basliyor/?utm_source=rss&utm_medium=rss&utm_campaign=trump-duyurdu-abd-iran-muzakereleri-bugun-yeniden-basliyor",
-  "source": "Diken",
-  "summary_tr": "ABD Başkanı Trump, İran'la müzakerelerin yeniden başladığını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-03T05:01:00.410380+00:00",
-  "type": "news",
-  "cluster_id": "ca3bc50ce371b"
- },
- {
-  "title": "Trump konuştu taşlar yerinden oynadı",
-  "link": "https://www.sozcu.com.tr/trump-konustu-taslar-yerinden-oynadi-p341858",
-  "source": "Sözcü",
-  "summary_tr": "Trump İran konusunda kritik karar aldı ve müzakere masasının kurulacağını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-03T05:01:00.410380+00:00",
-  "type": "news",
-  "cluster_id": "c90650e24bcc9"
- },
- {
-  "title": "Petrol fiyatları müzakere duyurusuyla düşüşte",
-  "link": "https://www.diken.com.tr/petrol-fiyatlari-muzakere-duyurusuyla-dususte/?utm_source=rss&utm_medium=rss&utm_campaign=petrol-fiyatlari-muzakere-duyurusuyla-dususte",
-  "source": "Diken",
-  "summary_tr": "Petrol fiyatları ABD-İran müzakere duyurusuyla düşüşe geçti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-03T05:01:00.410380+00:00",
-  "type": "news",
-  "cluster_id": "c8d34a14c7f13"
  }
 ]
