@@ -1,5 +1,77 @@
 [
  {
+  "title": "Global bond selloff pushes 10-year US yield toward 5% on oil, rate-hike fears",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUXdFU1JwNmpyVFVfRzltQlQwcVJDUmFOWHVzNGdjWlZfZmJSd2FFQ2VpbFdOVTFQRHJtMlhremRVa2JSeWc5Smptc2J4Mmp0QnZoMTQ4NGdLaVBiekNRYlNqdWRtOTV2TUdIbmFkaTdCNmlRams2emVUc2Nsb244bW1hNHIwSHdDRm93M25LZGJlT3p0LTNaTE1kSTk5SHRSVFVkdXNuQjhHQ29UZm4yeHNqeEg2RkVwYVA3clpR?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Küresel tahvil satışları petrol ve faiz artırma endişeleri nedeniyle 10 yıllık ABD getirilerini %5'e yaklaştırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-11T09:01:13.653633+00:00",
+  "type": "news",
+  "cluster_id": "ce8f707f250c5"
+ },
+ {
+  "title": "MB anketi: Enflasyon beklentisi yükseldi",
+  "link": "https://www.diken.com.tr/mb-anketi-enflasyon-beklentisi-yukseldi/?utm_source=rss&utm_medium=rss&utm_campaign=mb-anketi-enflasyon-beklentisi-yukseldi",
+  "source": "Diken",
+  "summary_tr": "Merkez Bankası Piyasa Katılımcıları Anketi'nde yıl sonu enflasyon beklentisi yükseldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-11T09:01:13.653633+00:00",
+  "type": "news",
+  "cluster_id": "c1a45ef466efb"
+ },
+ {
+  "title": "Kredi kartı limitleri düşürülecek mi? BDDK’den kritik düzenleme açıklaması",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/kredi-karti-limitleri-dusurulecek-mi-bddk-den-kritik-duzenleme-aciklamasi-2536671",
+  "source": "Cumhuriyet",
+  "summary_tr": "BDDK kredi kartı limitlerinin yeniden belirleneceğini ve yüksek limitli kartlarda düşüşe gidileceğini duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-11T09:01:13.653633+00:00",
+  "type": "news",
+  "cluster_id": "cdd73df57c00f"
+ },
+ {
+  "title": "İhracat (aylık değişim): %2,9 (Temmuz)",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSXlnbTdDUjlFbmZXaWdNUDY2c0s2RUNrQkttRlJGWm5xQVNRX2FUamVnQzU4alV6SUQ2aERNa1hnMndWRG9pcFhkc2lJSG1neEM2R2t6d1NPeVJIYmg2eWkyMVVjSnNrZ043TkY0OE9GVnBMTGhMaENkeVktajUwcy1rbGpFNnpBQXZZZEZQZGgxc3VoOUt2Q3hDUFlLUnVSRWI0bnBFeXlGb3hWNlU1TDNoYkhyOGVUMF9aZlV1aENldw?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%8,1 → %2,9 (-5,2 puan)",
+  "metric": "-5,2 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-09-11T09:01:13.653633+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
+  "title": "İhracatta büyük ölçekli girişimlerin payı: %46",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQWZBamp4Mk56ZXBLXzVKakhuQnZveVBJTG1BTThaU2JsX0RaQklSSFg3dkhIMXBFUWFwNTNlanNBSHVYTFk5WUR5ZkhrVEZ0Y0ptUDFndnZURGwxYXlZcXB0S0J4MEZaR3E1Tk1yN0V4cC1pSWJvQVpkcUFNcGloYmZEdjVqRm90X3NZN05lSEY1NndVMEFxSlNManc?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%46",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-09-11T09:01:13.653633+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
+  "title": "İthalatta büyük ölçekli girişimlerin payı: %59",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQWZBamp4Mk56ZXBLXzVKakhuQnZveVBJTG1BTThaU2JsX0RaQklSSFg3dkhIMXBFUWFwNTNlanNBSHVYTFk5WUR5ZkhrVEZ0Y0ptUDFndnZURGwxYXlZcXB0S0J4MEZaR3E1Tk1yN0V4cC1pSWJvQVpkcUFNcGloYmZEdjVqRm90X3NZN05lSEY1NndVMEFxSlNManc?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%59",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-09-11T09:01:13.653633+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "BofA, Türkiye'de bir faiz indirimi bekliyor: Sonra yıl sonuna kadar sabit",
   "link": "https://www.diken.com.tr/bofa-turkiyede-bir-faiz-indirimi-bekliyor-sonra-yil-sonuna-kadar-sabit/?utm_source=rss&utm_medium=rss&utm_campaign=bofa-turkiyede-bir-faiz-indirimi-bekliyor-sonra-yil-sonuna-kadar-sabit",
   "source": "Diken",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-02T05:01:46.748480+00:00",
   "type": "news",
   "cluster_id": "c665d6afaa612"
- },
- {
-  "title": "Irak başbakanı: Topraklarımız komşu ülkelere saldırı için kullanılamaz",
-  "link": "https://www.sozcu.com.tr/irak-basbakani-topraklarimiz-komsu-ulkelere-saldiri-icin-kullanilamaz-p341641",
-  "source": "Sözcü",
-  "summary_tr": "Irak Başbakanı Ali Falih ez-Zeydi, ülke topraklarının komşu ülkelere saldırı için kullanılamayacağını açıklamıştır.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-02T05:01:46.748480+00:00",
-  "type": "news",
-  "cluster_id": "c7d40b5acec10"
- },
- {
-  "title": "125 yıllık köklü Türk bankası ABD'li şirkete satıldı",
-  "link": "https://www.sozcu.com.tr/125-yillik-koklu-turk-bankasi-abd-li-sirkete-satildi-p341634",
-  "source": "Sözcü",
-  "summary_tr": "125 yıllık Türk bankası Turkish Bank, BDDK ve Rekabet Kurulu onayı ardından ABD'li şirkete satılmıştır.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-02T05:01:46.748480+00:00",
-  "type": "news",
-  "cluster_id": "c957ec4424681"
- },
- {
-  "title": "Gürkan Akgüneş | Dünyanın en pahalı etini yiyoruz... Peki gerçekten et mi yiyoruz?",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa2tpZmtYeHZLSE16ZWg1RFdGM0tCQ2NNWHpHcTAyeGtiN2tmVlc4Ui1XbUlOSUdmcEhKNmRxNHIwQkdjdmU1clgtVEx0bnR6Y2Y1enp6QkhJTUZDc0tWQkN6NVgxd2NwSUNfN2xBaHBsczFCcFhweWNySW9RUVB4b1g5bUR2OW9teUV0YTJ2MTU2WlRUSk9GSTdQbFJIOG0yak5oeEN2ODlMa2d0RWhj?oc=5",
-  "source": "T24",
-  "summary_tr": "Türkiye'de et fiyatlarının dünya standartlarında en yüksek seviyeye ulaştığı, vatandaşların oldukça pahalı et tükettiği belirtilmektedir.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-02T05:01:46.748480+00:00",
-  "type": "news",
-  "cluster_id": "cb5203ed3435d"
- },
- {
-  "title": "Trump, bir anlaşmanın ana hatları üzerinde uzlaştıkları için İran'a saldırıları durdurduğunu açıkladı",
-  "link": "https://www.aa.com.tr/tr/dunya/trump-bir-anlasmanin-ana-hatlari-uzerinde-uzlastiklari-icin-irana-saldirilari-durdurdugunu-acikladi/4016067",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Başkanı Trump, İran'la anlaşma sağlandığını belirterek İran'a yönelik planlanan saldırıları durdurduğunu açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-02T04:00:58.674041+00:00",
-  "type": "news",
-  "cluster_id": "c7ced28855625"
- },
- {
-  "title": "Trump says he will hold off on fresh Iran attack in hope of quick deal",
-  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnFCZlNtaWNsWjNfQzZYSUltNnlianRRMlRsUmVqWFNEWlEwWERhVmp5dVdSazcwNmo4bTNzQjNwcW1rS1pYSFRzUXZvUkF5dEFRYzY4T3Q4UUF0ZVBFLXlxVzA5YnRXZTliVWN0M2ZlcV9WVEw4ZjZqblVxOFJ6N2JmX1FMSk5HUXdLWWpOM2l1SWI3b0E2NHB5UU5rLUFRbjRXUEZ6ajZ1VUt1N0JIdURWT1VNbkVHX2UxUVU1b1lFTzY4aFNaOEJ5TTJJdw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, İran'la hızlı bir anlaşma umudunda yeni saldırıları ertelemeyi kararlaştırdığını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-02T04:00:58.674041+00:00",
-  "type": "news",
-  "cluster_id": "ce7ef5d93a0cc"
- },
- {
-  "title": "Trump says he will order halt to Iran strikes after parameters reached for deal to end war",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjdiZU1CVmhFWmRaYWtqRW82NnNUMEZjRzNlR293WTljQW1McXpnY3BiLXdWbVdobmRIdUJDVmVuWngwUHRVSUtyMkJjejRkQTl4WU0xc2xfcFpwaHBKamZGdUNqd1RIblhERllZY01hYjlmVUdOblVIVGxjTjVqVndGSURnTGJ5M2U5Vkp6dDVIRHZPZW8wTmRYaXl4WmQtejR6SzFBaw?oc=5",
-  "source": "AP",
-  "summary_tr": "Trump, savaşı bitirmek için anlaşmanın ana hatlarına varıldığını belirterek İran'a yönelik saldırıları durdurma emri vereceğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-02T04:00:58.674041+00:00",
-  "type": "news",
-  "cluster_id": "cc39b0c739127"
  }
 ]

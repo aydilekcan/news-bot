@@ -662,9 +662,9 @@
    "indicator_tr": "Kira artis orani"
   },
   "tr_ihracat_aylik_degisim": {
-   "value": "%8,1",
-   "period": "",
-   "ts": "2026-09-03T11:01:36.259095+00:00",
+   "value": "%2,9",
+   "period": "Temmuz",
+   "ts": "2026-09-11T09:01:34.804330+00:00",
    "indicator_tr": "İhracat (aylık değişim)"
   },
   "tr_issizlik_genis_tanimli": {
@@ -924,6 +924,18 @@
    "period": "",
    "ts": "2026-09-10T07:01:55.453502+00:00",
    "indicator_tr": "İhracat Pazarları İklim Endeksi"
+  },
+  "tr_ihracat_buyuk_isletmeler_payi": {
+   "value": "%46",
+   "period": "",
+   "ts": "2026-09-11T09:01:34.804330+00:00",
+   "indicator_tr": "İhracatta büyük ölçekli girişimlerin payı"
+  },
+  "tr_ithalat_buyuk_isletmeler_payi": {
+   "value": "%59",
+   "period": "",
+   "ts": "2026-09-11T09:01:34.804330+00:00",
+   "indicator_tr": "İthalatta büyük ölçekli girişimlerin payı"
   }
  },
  "seen_links": {
@@ -1238,6 +1250,9 @@
   "9141f300b56e391fb122c29159e3e9a4": "2026-09-11T03:01:04.977864+00:00",
   "66d5548d1a091e09dcbbb16af1c61da8": "2026-09-11T05:01:12.251097+00:00",
   "58d0c03b29f3338703a7fe9ec41bd1c0": "2026-09-11T05:01:12.251097+00:00",
-  "b8437208f7d3efbda7bd532e1a61c82d": "2026-09-11T08:01:10.505170+00:00"
+  "b8437208f7d3efbda7bd532e1a61c82d": "2026-09-11T08:01:10.505170+00:00",
+  "3020886f6e5735a4399f64bc78cf073e": "2026-09-11T09:01:13.653633+00:00",
+  "37cee58d3c5b8f60eb9ff621e8acffec": "2026-09-11T09:01:13.653633+00:00",
+  "e605ccbfb02f38d47c5cab4b3bbb9971": "2026-09-11T09:01:13.653633+00:00"
  }
 }
