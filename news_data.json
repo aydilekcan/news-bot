@@ -1,5 +1,65 @@
 [
  {
+  "title": "Mustafa Mutlu: Bir telefondan bu kadar yüksek oranda vergi alan başka bir devlet var mı?",
+  "link": "https://www.diken.com.tr/mustafa-mutlu-bir-telefondan-bu-kadar-yuksek-oranda-vergi-alan-baska-bir-devlet-var-mi/?utm_source=rss&utm_medium=rss&utm_campaign=mustafa-mutlu-bir-telefondan-bu-kadar-yuksek-oranda-vergi-alan-baska-bir-devlet-var-mi",
+  "source": "Diken",
+  "summary_tr": "Cep telefonuna verilen vergi oranı sorgulanıyor; Türkiye'nin diğer ülkelere kıyasla telefonda en yüksek vergiyi uyguladığı iddia ediliyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-11T06:01:14.667014+00:00",
+  "type": "news",
+  "cluster_id": "cb8c1b917f189"
+ },
+ {
+  "title": "Altın düştükçe düşüyor: Kritik veri için geri sayım başladı",
+  "link": "https://www.sozcu.com.tr/altin-dustukce-dusuyor-kritik-veri-icin-geri-sayim-basladi-p357192",
+  "source": "Sözcü",
+  "summary_tr": "Altın fiyatları sert düşüş yaşıyor; ABD enflasyon verisinin açıklanması öncesinde fiyatlar geriletiliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-11T06:01:14.667014+00:00",
+  "type": "news",
+  "cluster_id": "c65782505cc51"
+ },
+ {
+  "title": "İnternetten market alışverişi yapanlar yandı: \"Nasıl olsa görmüyor\" deyip kapıya gönderiyorlar",
+  "link": "https://www.sozcu.com.tr/internetten-market-alisverisi-yapanlar-yandi-nasil-olsa-gormuyor-deyip-kapiya-gonderiyorlar-p357190",
+  "source": "Sözcü",
+  "summary_tr": "İnternet üzerinden yapılan market alışverişlerinde kalite sorunu: ürünler fiziki mağazada stok olup raflara konulamayan mallar gönderiliyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-11T06:01:14.667014+00:00",
+  "type": "news",
+  "cluster_id": "c6f01c77e66a8"
+ },
+ {
+  "title": "Engellinin bakımı var, ödemesi yok",
+  "link": "https://www.sozcu.com.tr/engellinin-bakimi-var-odemesi-yok-p357186",
+  "source": "Sözcü",
+  "summary_tr": "Engellilerin bakım merkezlerindeki tedavi masraflarının ödenmiyor; sosyal destekte finansman sorunu yaşanıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-11T06:01:14.667014+00:00",
+  "type": "news",
+  "cluster_id": "c68445530a206"
+ },
+ {
+  "title": "⁠Gold on track for third weekly loss as US inflation data looms​‌",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMk9xQnh0dkJvU0VUbjhfa0E5ZHhmb21sU1k4RWktNC0tdERMUlFyb05jamhUa0p0dUEwejVJbHlUaWp6VnZuUEJrc0ZmYzBMM1RwaUp0SUdWWXBiU2pRVUF4ZlRsQk1fVmY2MUlTcTFFV3RjSnQzSE5UUHdKWHJYcV9YaUVmZ01PVnVUWHI0MzU4dnJja25CTmpxc3N4STVOb1E?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Altın üçüncü haftalık kaybına doğru ilerliyor; ABD enflasyon verisi bekleniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-11T06:01:14.667014+00:00",
+  "type": "news",
+  "cluster_id": "c448de95476eb"
+ },
+ {
   "title": "Bugün saat 15:30'da açıklanacak veri altının yönünü değiştirebilir",
   "link": "https://www.sozcu.com.tr/bugun-saat-15-30-da-tek-veri-altinin-yonunu-degistirebilir-p357169",
   "source": "Sözcü",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-01T19:01:12.781992+00:00",
   "type": "news",
   "cluster_id": "cf4b11b6b3047"
- },
- {
-  "title": "Katil İsrail ateşkese rağmen saldırıyor: 3 Filistinli daha öldü",
-  "link": "https://www.trthaber.com/haber/dunya/katil-israil-ateskese-ragmen-saldiriyor-3-filistinli-daha-oldu-952829.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail ordusunun Gazze kuzeyindeki saldırısında 3 Filistinli öldü, ateşkes ihlali rapor edildi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-01T19:01:12.781992+00:00",
-  "type": "news",
-  "cluster_id": "c64944e4098e9"
- },
- {
-  "title": "CHP'de Gürsel Tekin krizinin perde arkası: Görevden alınacağını bizzat Kılıçdaroğlu söyledi, Tekin’in tepkisi üzerine kararın açıklanması ötelendi",
-  "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOMXB6MEJxTmUxeGpjczBUOURWVlR0dmdmVnlYQmd2M3pzNGR4dDNTRGxBRXFqUVBOUDctVzk4ZThpWVdnYTIyNE5HblZyMHRhbHpZa0tKSVRjWGljMjhXV1ltM2xBRS1NM3IxdHc4T2ZBQ29XRE5iZzE4Z0ZxdllGSjJRaHlleElocVFkaC0zdkJqZlkxZVo1bE1nR3o1N2xOejVIeS0xVEFPbU9Hd2dYeGxUeWY5TTNETHltRHA5d0ExemFyb2huNzlERTlyNlZ5M0FYV2lMWEM4YXVDVHlKNUFhMTl1UTM3QUFXTklPX1dOaHJTV3h4OEFaOVlGR2VwazhvWm9IMUNGQQ?oc=5",
-  "source": "T24",
-  "summary_tr": "CHP'de Gürsel Tekin'in görevden alınacağı Kılıçdaroğlu tarafından önceden bildirildi; Tekin'in tepkisi üzerine kararın açıklanması ertelendi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-01T19:01:12.781992+00:00",
-  "type": "news",
-  "cluster_id": "cf261659caf0b"
- },
- {
-  "title": "Trump 'Rusya'dan almayın' demişti: Türkiye, Irak'tan petrol alımını günde 750 bin varile çıkaracak",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ1AxWVd5WlNNMGN5T3ItYmU5TF9KMFVDdVI0QmdIUV9YSmlZUkc4cW1YV0ttbzl3MGFfSTNZbWt2STk1MzVEVFo5V2x2T3l0U3ZwNjQ5SVRYT3RVcm01Z0dscDVMaG9XV0lZQnpKWjRZVjgzTzdMTWcwQ05aZkZNYmJsSG9qbFl0bWMzSTJhUzROSzVTZWJRMzZibjZtV2pUZFFaLTdBdVpERi0weUJScU9Rc3NJNl84ZzlDVC1OS20?oc=5",
-  "source": "soL",
-  "summary_tr": "Türkiye, Irak'tan petrol alımını günde 750 bin varile çıkaracak. ABD'nin Rusya'dan almama çağrısına yanıt olarak enerji ithalatı çeşitlendiriliyor.",
-  "metric": "Türkiye'nin Irak petrol alımı günde 750 bin varile çıkacak",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-01T18:00:57.076260+00:00",
-  "type": "news",
-  "cluster_id": "c23f722371d0c"
- },
- {
-  "title": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Kurum 'dan Kahramanmaraş'a 4 bin 500 sosyal konut müjdesi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/cevre-sehircilik-ve-iklim-degisikligi-bakani-kurum-dan-kahramanmarasa-4-bin-500-sosyal-konut-mujdesi-/4015932",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Çevre Bakanı Kurum, Kahramanmaraş'a 4.500 sosyal konut müjdesi verdi; depremde yakınlarını kaybetenlere konut sağlanacak.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-01T17:01:03.499032+00:00",
-  "type": "news",
-  "cluster_id": "c87836c4ca061"
- },
- {
-  "title": "ABD'den kıyamet senaryosu uyarısı: Çok büyük vuracağız",
-  "link": "https://www.sozcu.com.tr/abd-den-kiyamet-senaryosu-uyarisi-cok-buyuk-vuracagiz-p341583",
-  "source": "Sözcü",
-  "summary_tr": "ABD yönetimi İran gerilimine karşın Orta Doğu'da ağır müdahale uyarısı yaptı; ABD vatandaşlarına risk uyarısı başladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-01T16:01:09.014689+00:00",
-  "type": "news",
-  "cluster_id": "cfb0697ebe358"
  }
 ]
