@@ -1,5 +1,41 @@
 [
  {
+  "title": "Erdoğan imzaladı: 2027-2029 Dönemi Bütçe Çağrısı Resmi Gazete'de",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/erdogan-imzaladi-2027-2029-donemi-butce-cagrisi-resmi-gazete-de-2536874",
+  "source": "Cumhuriyet",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, 2027-2029 döneminin bütçe çağrısını imzaladı ve Resmi Gazete'de yayımlandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-11T23:01:12.781945+00:00",
+  "type": "news",
+  "cluster_id": "c3ca6f334d6de"
+ },
+ {
+  "title": "2027-2029 Dönemi Bütçe Çağrısı Resmi Gazete'de",
+  "link": "https://www.aa.com.tr/tr/ekonomi/2027-2029-donemi-butce-cagrisi-resmi-gazetede/4054851",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "2027-2029 Dönemi Bütçe Çağrısı Tebliği Resmi Gazete'de yayımlandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-11T23:01:12.781945+00:00",
+  "type": "news",
+  "cluster_id": "c3ca6f334d6de"
+ },
+ {
+  "title": "20272029 Dönemi Kamu Yatırım Programı Hazırlıkları Genelgesi Resmi Gazete'de",
+  "link": "https://www.trthaber.com/haber/ekonomi/2027-2029-donemi-kamu-yatirim-programi-hazirliklari-genelgesi-resmi-gazetede-956617.html",
+  "source": "TRT Haber",
+  "summary_tr": "2027-2029 Dönemi Kamu Yatırım Programı Hazırlıkları Genelgesi Resmi Gazete'de yayımlandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-11T23:01:12.781945+00:00",
+  "type": "news",
+  "cluster_id": "cd403ba8515cc"
+ },
+ {
   "title": "Bağımsız Maden-İş duyurdu: Maaşlarını alamayan maden işçileri iş durdurdu",
   "link": "https://www.cumhuriyet.com.tr/turkiye/bagimsiz-maden-is-duyurdu-maaslarini-alamayan-maden-iscileri-is-durdurdu-2536870",
   "source": "Cumhuriyet",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-03T07:01:11.168536+00:00",
   "type": "news",
   "cluster_id": "cb04e8abf6bf2"
- },
- {
-  "title": "Hemen e-Devlet'i kontrol edin: Binlerce lira paranız olabilir",
-  "link": "https://www.sozcu.com.tr/hemen-e-devlet-i-kontrol-edin-binlerce-lira-paraniz-olabilir-p341902",
-  "source": "Sözcü",
-  "summary_tr": "TCMB'nin yeni e-Devlet hizmeti sayesinde vatandaşlar adlarına kayıtlı ödeme ve alacakları kontrol edebiliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-03T07:01:11.168536+00:00",
-  "type": "news",
-  "cluster_id": "cc3da4536bde1"
- },
- {
-  "title": "ABD-İran diplomasi beklentisi Brent petrolü 85 doların altına çekti",
-  "link": "https://www.aa.com.tr/tr/ekonomi/abd-iran-diplomasi-beklentisi-brent-petrolu-85-dolarin-altina-cekti/4016632",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Brent petrolü ABD-İran diplomasi beklentisiyle 83,41 dolara düştü ve 85 doların altında işlem görüyor.",
-  "metric": "Brent petrolü -> 83,41 USD",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-03T07:01:11.168536+00:00",
-  "type": "news",
-  "cluster_id": "cb0df74870408"
- },
- {
-  "title": "ABDİran diplomasi beklentisi Brent petrolü 85 doların altına çekti",
-  "link": "https://www.trthaber.com/haber/dunya/abd-iran-diplomasi-beklentisi-brent-petrolu-85-dolarin-altina-cekti-952907.html",
-  "source": "TRT Haber",
-  "summary_tr": "Brent petrolü ABD-İran diplomasi beklentisiyle 83,41 dolara düştü ve 85 doların altında işlem görüyor.",
-  "metric": "Brent petrolü -> 83,41 USD",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-03T07:01:11.168536+00:00",
-  "type": "news",
-  "cluster_id": "cb0df74870408"
  }
 ]
