@@ -1,5 +1,17 @@
 [
  {
+  "title": "Oil prices set to end week over $100 for first time in nearly 4 months",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORWZtMHZyX3Z0UkY2T285M3E2bElVVXRpdVhIVnZLQ1N4UjhKMTQ0UmZLWDlrQmRlcHFtZkN1SUcxSmNvVWhyelh4ZUhpZER2N2N5REE2aFR6Nm52YWRKY0xQRk16cE0tMFpRdkNjQm5YTDZ2RWFhcld2aWVHWUJMcFdncU1FUWVNNTgtX2VKcmpfZUNWZE1LenhwWDlGQmxreVF3Zjk4WlJ0N3hqODIxSQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Petrol fiyatları hafta sonunda 100 dolar üzerinde kapanmaya hazırlanıyor; neredeyse 4 ay içinde ilk kez bu seviyeye ulaşıyor.",
+  "metric": "Petrol fiyatı ... -> $100+ (ilk kez 4 ayda)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-11T03:01:04.977864+00:00",
+  "type": "news",
+  "cluster_id": "c7bc449d1153c"
+ },
+ {
   "title": "Bahçeli'nin Osmaniyeli hemşehrileri dertli: Etin rengini unuttuk!",
   "link": "https://www.sozcu.com.tr/bahceli-nin-osmaniyeli-hemsehrileri-dertli-etin-rengini-unuttuk-p357153",
   "source": "Sözcü",
@@ -59986,17 +59998,5 @@
   "ts": "2026-08-01T15:01:06.762121+00:00",
   "type": "news",
   "cluster_id": "c61710058acc7"
- },
- {
-  "title": "Emekliler isyanda: Emekliyim bundan da utanıyorum",
-  "link": "https://www.sozcu.com.tr/emekliler-isyanda-emekliyim-bundan-da-utaniyorum-p341563",
-  "source": "Sözcü",
-  "summary_tr": "Emekliler maaşlarının temel ihtiyaçları karşılamaya yetmediğini belirterek gelir adaletsizliği nedeniyle eylem yaptı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-01T14:01:01.734644+00:00",
-  "type": "news",
-  "cluster_id": "c2dd79a61a201"
  }
 ]
