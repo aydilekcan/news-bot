@@ -1,5 +1,29 @@
 [
  {
+  "title": "Avrupa’nın Ukrayna Planına Putin’den sert yanıt: Savaş ilanı olur",
+  "link": "https://www.sozcu.com.tr/avrupa-nin-ukrayna-planina-putin-den-sert-yanit-savas-ilani-olur-p357450",
+  "source": "Sözcü",
+  "summary_tr": "Putin, Avrupa ülkelerinin Ukrayna'ya asker göndermesini 'savaş ilanı' olarak nitelemişti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-11T21:01:04.352251+00:00",
+  "type": "news",
+  "cluster_id": "c22520f28aeda"
+ },
+ {
+  "title": "No relief from inflation as Middle East clashes lifts fuel prices to painful levels",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONWM0aThybmN6MTZaLWFwUmx1UFJabXpuaDhNWVVHYTljanpwdFFuYWx1T1FKZmlBMHdsWDNsLXRubjcxRGk0anhWai1wYnUtQVFjZ2FWNGFxOE5nWlpXbXBzSHV2ZGN1Y2xMeGkzaUhtaGdqNUNNVVdMYkREbjVvd1BMTnBrcHNRc1F0MDhlallMZFJfVTA1MFF5cFBNaHhwMUdtRGMzdw?oc=5",
+  "source": "AP",
+  "summary_tr": "Orta Doğu çatışmaları petrol fiyatlarını yükseltip enflasyonda rahatlama sağlamıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-11T21:01:04.352251+00:00",
+  "type": "news",
+  "cluster_id": "c6a2c8d09f378"
+ },
+ {
   "title": "CNN: Suudi Arabistan'daki petrol boru hattı vuruldu",
   "link": "https://www.trthaber.com/haber/dunya/cnn-suudi-arabistandaki-petrol-boru-hatti-vuruldu-956608.html",
   "source": "TRT Haber",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-03T07:01:11.168536+00:00",
   "type": "data",
   "cluster_id": ""
- },
- {
-  "title": "Katil İsrail'den ateşkes mutabakatına saldırılarla yanıt: 3 günde 30 ölü",
-  "link": "https://www.trthaber.com/haber/dunya/katil-israilden-ateskes-mutabakatina-saldirilarla-yanit-3-gunde-30-olu-952902.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail, Hamas'ın ateşkes anlaşmasının ikinci aşamasını kabul etmesine rağmen Gazze Şeridi'ne saldırılar düzenliyor; 3 günde 30 ölü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-08-03T06:01:09.083271+00:00",
-  "type": "news",
-  "cluster_id": "c23c66ba8296e"
- },
- {
-  "title": "Enflasyon verileri açıklanacak, beklentiler neler?",
-  "link": "https://www.bbc.com/turkce/articles/cy8e5zl3w82o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "TÜİK temmuz ayı enflasyon verilerini açıklayacak. Ekonomi göstergeleri açısından önemli veri yayını.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-03T06:01:09.083271+00:00",
-  "type": "news",
-  "cluster_id": "c86b2f59b051a"
  }
 ]
