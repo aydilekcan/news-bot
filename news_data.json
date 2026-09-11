@@ -1,5 +1,77 @@
 [
  {
+  "title": "TCMB Başkanı Karahan: Son enflasyon verileri ve öncü göstergeler, enflasyonun ana eğiliminin yavaşladığına işaret ediyor",
+  "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-son-enflasyon-verileri-ve-oncu-gostergeler-enflasyonun-ana-egiliminin-yavasladigina-isaret-ediyor/4054683",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "TCMB Başkanı Karahan, son enflasyon verileri ve öncü göstergelerin enflasyonun ana eğiliminin yavaşladığını gösterdiğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-11T18:01:12.548322+00:00",
+  "type": "news",
+  "cluster_id": "c1cbaf2a81078"
+ },
+ {
+  "title": "Kızıldeniz’de alarm: Stratejik ada artık Husilerin kontrolünde",
+  "link": "https://www.sozcu.com.tr/kizildeniz-de-alarm-stratejik-ada-artik-husilerin-kontrolunde-p357419",
+  "source": "Sözcü",
+  "summary_tr": "Yemen'de İran destekli Husilerin Kızıldeniz'deki Babülmendep Boğazı gibi stratejik bölgelerde kontrolünü genişletmesi Doğu-Batı deniz ticareti açısından riskoyu artırıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-11T18:01:12.548322+00:00",
+  "type": "news",
+  "cluster_id": "c3d25b4465234"
+ },
+ {
+  "title": "EXCLUSIVE: White House weighs how to use Defense Production Act to expand US oil refining capacity, sources say",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN0ZqSUthcUJzTkJ2dzNRelh0akJQaS1LaGYxMjRzQUEyMktJalJWTkJXTVhFYy12ZzhPc2xEZXlHLVpjQzRrTzBQemxMMWV5RjROYzVTbGxMMGVhUjhkVi1NQXdaNGkxRFVrdkFBdnhRWDFCNG9UaFF3d1B1eEVicmJiNS11bmJIMkwyeU9uOTNhVlFpOVdoeUJ2WTFUREE3OTJMY2xOaEdGaW9sUENWY0ViTkM0UlhsM0ozdGt0MFhBUQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Beyaz Saray, ABD petrol rafineri kapasitesini genişletmek için Savunma Üretim Yasası'nı kullanmayı düşünüyor; enerji politikasında önemli hamle.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-11T18:01:12.548322+00:00",
+  "type": "news",
+  "cluster_id": "cee0417a1f046"
+ },
+ {
+  "title": "Chevron CEO says depleted crude oil buffers could lead to higher prices",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZEtqcVRxSzRKdkFERnkxUDFwd2l6ZmVOQXNiNWJFLUxGc2R6X19JZ19WaUNQZzRTWXNjRTJsTjZ6MnNzTUhGcDR3QzRlOXdvRFVNZWV3V3B2Y0M2bmRVa0NuQXdRc1Z4TFljREh6XzRZQkpOaHoyX2lFeFhKa0Jqc0pyRWdtQnBWV0VFakt4cGQ0T0t4RWlQVzI2cmxXZXBLR08xdGJSemdfOHhGbnhWby1OcExja3F3RnYxNQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Chevron CEO'su, tükenen ham petrol tampon stokların daha yüksek fiyatlara yol açabileceğini uyardı; küresel enerji maliyetleri açısından önemli.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-11T18:01:12.548322+00:00",
+  "type": "news",
+  "cluster_id": "c92a5980d247e"
+ },
+ {
+  "title": "Yemen's Houthis capture a Red Sea island in a threat to shipping, and other Mideast developments",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTVVrTHdGZGh4a2VWNHlfeWxkdlQtVkVJQzNaMUFpTTJwTWtfZlpUeVktX3g3NVBsYVFlbjdHOHZsaUZHTWhwQXo1eE9RaUowWnJYVlBJYXJWOTBYSHhCd0dJSWM5T2xJV0hJRWw5b0ZBZy1OSlcxY2VkTkszMUxGMl9fOS1MVldRajgtMFF1V0dYNTJJWHVN?oc=5",
+  "source": "AP",
+  "summary_tr": "Husilerin Kızıldeniz'de bir adayı ele geçirmesi denizcilik ve bölgesel gerilim açısından tehdit oluşturuyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-11T18:01:12.548322+00:00",
+  "type": "news",
+  "cluster_id": "c9dca5daaab35"
+ },
+ {
+  "title": "Su Söke Ovası’na döndü, çiftçi pamuğa dönemedi",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSjU4QVVvckNpakVjTVJ6Y2RmQ2d2Tjd3ZDZQajBBbjVVczcyUE8zZk9PUnJrNnVKOEhiVTFuXzJ1THVkMFJRd1Y1Qy1DenNRcFpycnc0M21HOUxBTG45WkRjOGxISlI2TlN0blVhejRabThMcE9OSmlYYlVzemVtdUNwd1Y?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Söke Ovası'nda su dönerken çiftçiler pamuğa dönüş yapamıyor; tarımsal verimlilik sorununu işaret ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-11T18:01:12.548322+00:00",
+  "type": "news",
+  "cluster_id": "c449ec3e5ff09"
+ },
+ {
   "title": "Fed rate-hike case builds as inflation fails to cool",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU2R5eFJ0eFBfbWR4dnNKaUdDZC1MTVY5aWYxc3BlaUY1S2ZMM0xwaFhMbEh1cWtsSFhFVGk5eEE4NkRTb3FxREhvbkpKVjdXdVY1VHhNT2NaUkhUNmEtSzdoQno5aWFRUGpWS0ZBMXcwUEFKSHFOVF9jcFJQSExCbjBYaU5JNTdMdlladkpZdkp2TURmcW94ZkxtV1dwbTR3TkJhUXlmc1A?oc=5",
   "source": "Reuters",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-03T05:01:00.410380+00:00",
   "type": "news",
   "cluster_id": "c8d34a14c7f13"
- },
- {
-  "title": "İsrail Savunma Bakanı Katz'dan İran'a tehdit",
-  "link": "https://www.trthaber.com/haber/dunya/israil-savunma-bakani-katzdan-irana-tehdit-952900.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail Savunma Bakanı Katz, İran'ın saldırısı halinde 'ağır darbe' indirileceğini tehdidi ile duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-03T05:01:00.410380+00:00",
-  "type": "news",
-  "cluster_id": "c80ea8b81e0d0"
- },
- {
-  "title": "Cuba plunges into darkness as electric grid collapses",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMTdFbGhVSWlfdzZ3aWduVjdUeTFvMnBFVFhaMjg4SkhrMXJlcnFtWTlWTTdnRjNLMzRCNHg4Tm9OTlpkM2c3QlFGR2RuejZnNlM5R182b09EbXQ4dG5RaEJjSHNDRjhtOS1aY05DZlAtQWlMZVBHdE1yY0xFb29yazdJeW03ZXVGcXZSQ2FLOFlremVCcGZ0ckZobkFqRG9fZGc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Küba elektrik şebekesi çöktü, ülke karanlığa büründü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-03T05:01:00.410380+00:00",
-  "type": "news",
-  "cluster_id": "c1d61ff261e0b"
- },
- {
-  "title": "Japan, US confirm joint yen-buying intervention, signal more action",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYWxCY2xleXI0czB5WEhyRThFYVhWT0pYcFE1TzY5NnZSbVBvc0Vsc05hM2hwd0sySWFGT213d2hFSkhqRlJ5LXg4djlZXzRBZmZ1Y2c2VHhnUHlmUlpwTlFqbDI5U25KT0NPajF2eWsya0k1UXVVOHZyZEdrZGZTQXRycGt4R0oySUc2TVk3T01XemExNEJOMDJ2MkU0a0dtMTFkNDRIYTlwaWRGR2hB?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Japonya ve ABD, Yeni desteklemek için ortak döviz müdahalesi yapacaklarını teyit etti; ek müdahaleleri işaret ediliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-03T04:01:01.105687+00:00",
-  "type": "news",
-  "cluster_id": "ce4ba1e5df9ce"
- },
- {
-  "title": "Oil slumps on hopes of Iran deal, yen spikes suddenly after intervention",
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUjBjdHpEdEdMdVNpbVprQmRvNG9JTzl0ZHB4SkNmWUxqT2hNUG8xcW96U1R2czNKWHVMYXRqY2gxR1pHTzZ4RjlpaDgzUnM3U0dCNURmZDhPUUhVTnRuUFhYcGFmVHdoOWg2a3RJNTNGQktBU3pvZVZGSS1EVUJ1QzlVbw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Petrol fiyatları İran anlaşması umuduyla düştü; Japon Yeni döviz müdahalesiyle sert yükseldi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-03T04:01:01.105687+00:00",
-  "type": "news",
-  "cluster_id": "c8b22a1dc7fcc"
- },
- {
-  "title": "Asgari ücrette küme düştük",
-  "link": "https://www.sozcu.com.tr/asgari-ucrette-kume-dustuk-p341848",
-  "source": "Sözcü",
-  "summary_tr": "Yüksek enflasyona rağmen asgari ücrette ara zam yapılmayınca Türkiye Avrupa ülkeleri arasında sıralamada geriledi.",
-  "metric": "",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-08-03T03:01:03.144108+00:00",
-  "type": "news",
-  "cluster_id": "c507653e1fe33"
- },
- {
-  "title": "ABD ve Japonya koordineli yen müdahalesini doğruladı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/abd-ve-japonya-koordineli-yen-mudahalesini-dogruladi/4016579",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD ve Japonya 31 Temmuz'da koordineli döviz piyasası müdahalesi gerçekleştirerek Japon yenindeki düzensiz hareketleri kontrol altına almaya çalıştı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-03T03:01:03.144108+00:00",
-  "type": "news",
-  "cluster_id": "c442eec1ee21d"
  }
 ]
