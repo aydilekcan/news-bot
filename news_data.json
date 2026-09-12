@@ -1,5 +1,29 @@
 [
  {
+  "title": "Üretim resmen durdu: 73 yıllık Türk tekstil fabrikası kapandı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/uretim-resmen-durdu-73-yillik-turk-tekstil-fabrikasi-kapandi-2536991",
+  "source": "Cumhuriyet",
+  "summary_tr": "Kayseri'de 1953'ten beri faaliyet gösteren Orta Anadolu Mensucat Fabrikası 73 yıl sonra üretimi durdurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-12T16:01:10.379939+00:00",
+  "type": "news",
+  "cluster_id": "cfcba58efff56"
+ },
+ {
+  "title": "Attack on key Saudi pipeline is blamed on Iran-backed militias in Iraq",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY0hKblZsWDdXODVsQUN2V2V6c3dSODhwQm9pVHlwTmxpX3dQRnEyM3BLNTdBYy1OV2ZqNTE3M2pfQ1pKLWI2ZEdxZXE5QU1vWUR5WnI5bkdDalpxeVRtU3l6Zmp3UnVCUFFMbVdLQUR3RlFqQThBOUQ0UWZDYWozV1RSLWhWWUdTcEgyV2g5dUs3QQ?oc=5",
+  "source": "AP",
+  "summary_tr": "İran destekli Irak milis gruplarının Suudi Arabistan'daki önemli bir petrol boru hattına saldırı düzenlemesi kınadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-12T16:01:10.379939+00:00",
+  "type": "news",
+  "cluster_id": "ce60494bb9b32"
+ },
+ {
   "title": "İddia: Leipzig'deki saldırı girişiminin arkasında Rusya var",
   "link": "https://www.dw.com/tr/iddia-leipzig-deki-saldırı-girişiminin-arkasında-rusya-var/a-79245104?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-03T14:01:13.010549+00:00",
   "type": "news",
   "cluster_id": "cccc155e20a59"
- },
- {
-  "title": "Doğu Karadeniz'den 7 ayda 124 ülkeye 1 milyar doları aşan ihracat yapıldı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/dogu-karadenizden-7-ayda-124-ulkeye-1-milyar-dolari-asan-ihracat-yapildi/4017216",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Doğu Karadeniz bölgesinden ocak-temmuz döneminde 1 milyar doları aşan ihracat yapıldı, geçen yıl aynı dönemine göre %18 artış sağlandı.",
-  "metric": "İhracat +%18",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-03T14:01:13.010549+00:00",
-  "type": "news",
-  "cluster_id": "c0b40b8775c3e"
- },
- {
-  "title": "Deloitte: Gençlerin çocuk yapmama nedeni finansal",
-  "link": "https://www.diken.com.tr/deloitte-genclerin-cocuk-yapmama-nedeni-finansal/?utm_source=rss&utm_medium=rss&utm_campaign=deloitte-genclerin-cocuk-yapmama-nedeni-finansal",
-  "source": "Diken",
-  "summary_tr": "Deloitte araştırmasına göre gençlerin yarısı finansal zorluklar nedeniyle çocuk yapmamayı düşünüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-03T14:01:13.010549+00:00",
-  "type": "news",
-  "cluster_id": "c2022fe1c7cd5"
  }
 ]
