@@ -1,5 +1,29 @@
 [
  {
+  "title": "Zelenskiy Miami’yi işaret etti, Kremlin adres gösterdi: Putin ile görüşmek istiyor",
+  "link": "https://www.sozcu.com.tr/zelenskiy-miami-yi-isaret-etti-kremlin-adres-gosterdi-putin-ile-gorusmek-istiyor-p357650",
+  "source": "Sözcü",
+  "summary_tr": "Zelenskiy Rusya Devlet Başkanı Putin ile görüşme isteğini açıkladı; Kremlin sözcüsü Peskov yanıt verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-12T23:01:03.203927+00:00",
+  "type": "news",
+  "cluster_id": "c4ce9ee6dba25"
+ },
+ {
+  "title": "Husiler: Suudi Arabistan'da silah depoları ve komuta kontrol merkezini hedef aldık",
+  "link": "https://www.aa.com.tr/tr/live-blog/husiler-suudi-arabistanda-silah-depolari-ve-komuta-kontrol-merkezini-hedef-aldik/6370",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran destekli Husiler, Suudi Arabistan'ın Şarure şehrindeki askeri üsse balistik füze ve İHA ile saldırı düzenlediklerini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-12T23:01:03.203927+00:00",
+  "type": "news",
+  "cluster_id": "c5cb1377dbf60"
+ },
+ {
   "title": "Markette 15 lira, tarlada sıfır lira! Dev hasat göz göre göre çürümeye terk edildi",
   "link": "https://www.cumhuriyet.com.tr/yasam/markette-15-lira-tarlada-sifir-lira-dev-hasat-goz-gore-gore-curumeye-terk-edildi-2537052",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-03T18:01:09.971464+00:00",
   "type": "news",
   "cluster_id": "cd951adc0fecf"
- },
- {
-  "title": "Trump, İran'ı müzakere konusunda 'ikiyüzlü' davranmakla suçladı",
-  "link": "https://www.diken.com.tr/trump-irani-muzakere-konusunda-ikiyuzlu-davranmakla-sucladi/?utm_source=rss&utm_medium=rss&utm_campaign=trump-irani-muzakere-konusunda-ikiyuzlu-davranmakla-sucladi",
-  "source": "Diken",
-  "summary_tr": "Trump, İran'ı müzakerelerde tutarsız davranmakla suçladı ve ülkenin Hürmüz Boğazı'ndaki etkinliğini sorguladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-03T17:01:06.225511+00:00",
-  "type": "news",
-  "cluster_id": "cc5b21bca193b"
- },
- {
-  "title": "Trump, İran'ı müzakereler konusunda \"ikiyüzlü\" davranmakla suçladı",
-  "link": "https://www.aa.com.tr/tr/dunya/trump-irani-muzakereler-konusunda-ikiyuzlu-davranmakla-sucladi/4017343",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Trump, İran'ı müzakere konusunda tutarsız davranmakla suçladı ve Hürmüz Boğazı'nın kontrolü hakkında açıklama yaptı.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-03T17:01:06.225511+00:00",
-  "type": "news",
-  "cluster_id": "cc5b21bca193b"
  }
 ]
