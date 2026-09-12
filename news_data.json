@@ -1,5 +1,29 @@
 [
  {
+  "title": "ABD'nin 11 aylık bütçe açığı 2 trilyon dolara yaklaştı: Ağustosta yüzde 52 düşüş açıklandı",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/abd-nin-11-aylik-butce-acigi-2-trilyon-dolara-yaklasti-agustosta-yuzde-52-dusus-aciklandi-2536900",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD federal hükümetinin 11 aylık bütçe açığı 2 trilyon dolara yaklaştı; Ağustos'ta geçen yılın aynı dönemine kıyasla yüzde 52 azalış kaydedildi.",
+  "metric": "ABD bütçe açığı (ağustos) yüzde 52 düşüş",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-12T08:01:06.605822+00:00",
+  "type": "news",
+  "cluster_id": "c88552a221d3a"
+ },
+ {
+  "title": "ABD hanehalkı servetinde büyük yükseliş: Hisse senetleri 10 trilyon dolar arttı..",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/abd-hanehalki-servetinde-buyuk-yukselis-hisse-senetleri-10-trilyon-dolar-artti-2536896",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD hanehalkı net varlığı 2026 yılının ikinci çeyreğinde 195,9 trilyon dolara çıktı; hisse senetleri 10 trilyon dolar artış kaydetti.",
+  "metric": "ABD hanehalkı net varlığı 195,9 trilyon dolar (hisse senetleri +10 trilyon dolar)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-12T08:01:06.605822+00:00",
+  "type": "news",
+  "cluster_id": "c4d03f832813a"
+ },
+ {
   "title": "Memur emeklisine seyyanen zam gelecek mi? Memur emeklisi, SSK ve Bağ-Kur emekliye ek zam gelecek mi?",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/memur-emeklisine-seyyanen-zam-gelecek-mi-memur-emeklisi-ssk-ve-bag-kur-emekliye-ek-zam-gelecek-mi-2536888",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-03T08:01:42.808421+00:00",
   "type": "news",
   "cluster_id": "cd8ce49654a3f"
- },
- {
-  "title": "Temmuz enflasyonu açıklandı",
-  "link": "https://www.trthaber.com/haber/ekonomi/temmuz-enflasyonu-aciklandi-952911.html",
-  "source": "TRT Haber",
-  "summary_tr": "TÜİK temmuz TÜFE'yi aylık %1,78, yıllık %31,75 olarak açıkladı.",
-  "metric": "TUFE aylık %1,78; yillik %31,75",
-  "lean": "right",
-  "score": 9,
-  "ts": "2026-08-03T08:01:42.808421+00:00",
-  "type": "news",
-  "cluster_id": "c8e3be87d7cbe"
- },
- {
-  "title": "Temmuz enflasyonu: En yüksek artış ulaşımda",
-  "link": "https://www.dw.com/tr/temmuz-enflasyonu-en-yüksek-artış-ulaşımda/a-78211568?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Temmuz aylık enflasyon %1,78 oldu; en yüksek artış ulaştırma kategorisinde (benzin, motorin fiyatları) kaydedildi.",
-  "metric": "Aylık enflasyon %1,78",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-03T08:01:42.808421+00:00",
-  "type": "news",
-  "cluster_id": "c1b72d7662f81"
  }
 ]
