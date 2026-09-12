@@ -1,5 +1,29 @@
 [
  {
+  "title": "Trump: İran savaşı yakında sona erecek, petrol fiyatları hızla düşecek",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZS1tQTZQekhNUkIwb2dGdkhIRThJOXhJbzNuYzV5V0JDNGdja3lzWjR5b2xGRDhmQnNWM2NpbWFuTjc1NjZSU2J6U05uOVV4MlNVNkZFX3dFelVqUzM0YTBTOHM5Q3E0cmYxMGhxSl9HSnlueDFmeS1UNWJVWDlHeFJmVlRpOGNob0d5cXc1U012MWRpZDBDeFVKcnY0YkpzTXFlR2hIUEFEdw?oc=5",
+  "source": "soL",
+  "summary_tr": "Trump, İran savaşının yakında sona ereceğini ve petrol fiyatlarının hızla düşeceğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-12T19:01:04.088112+00:00",
+  "type": "news",
+  "cluster_id": "c6bfd7f60f93b"
+ },
+ {
+  "title": "Erdoğan, AKP'ye davet etmişti: Marmaris Belediye Başkanı Acar Ünlü, CHP'den istifa ederek YENİ Parti'ye katıldı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/erdogan-akp-ye-davet-etmisti-marmaris-belediye-baskani-acar-unlu-chp-den-istifa-ederek-yeni-parti-ye-katildi-2537017",
+  "source": "Cumhuriyet",
+  "summary_tr": "Marmaris Belediye Başkanı Acar Ünlü CHP'den istifa ederek YENİ Parti'ye katıldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-12T19:01:04.088112+00:00",
+  "type": "news",
+  "cluster_id": "ce75d9918cf88"
+ },
+ {
   "title": "8 killed in Russian strikes on Ukraine as Putin warns Europe against sending troops",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTXFjaTAzbzF5OENhS0txZjFxd1dGYXJkT1h2V3ZnR3EtMi11Zk45YWZ0eXFhWmo2NmticUpJM3lqdnZ3WWtwcE51NEF0c2J2VzNuMmVONGxGVVNCbUU1b0hsNTlDYWctb1NlU1dRdFhKb2hPb2UxenZUZFMwNkxzRDF2SmtMYXpxRy1FdWthUkkzWkJRaXc?oc=5",
   "source": "AP",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-03T16:01:04.442168+00:00",
   "type": "news",
   "cluster_id": "c609799b0875e"
- },
- {
-  "title": "US manufacturing activity jumps to more than four-year high in July",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS1pRYktWWVFTT181ekNrN3VSNXR5WGJBTG1PVlRkNl9HZlk0TUxvaXhpRVp6bXZwQUc5MzdPWXEzTGN2U1lUY3BPdEtLOEtvQlhCUDVpekMzVlpMZy1ra010ZW1pYkdSdTMwUHRCa1VNckNaUnVsRWRJdGNxZlMwSnREWWk1eVpyUUo0NWdIZzU5VlpSeWtNa25LUTFXcnFGd1lFYkV2elpEQQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD imalat sektörü aktivitesi Temmuz'da dört yılın en yüksek seviyesine ulaştı; AI ve teknoloji tarafından destekleniyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-03T16:01:04.442168+00:00",
-  "type": "news",
-  "cluster_id": "cc1092913d4c9"
- },
- {
-  "title": "Şehit aileleri ve gazilerin haklarına yönelik düzenlemeleri içeren kanun teklifi TBMM Başkanlığına sunuldu",
-  "link": "https://www.aa.com.tr/tr/gundem/sehit-aileleri-ve-gazilerin-haklarina-yonelik-duzenlemeleri-iceren-kanun-teklifi-tbmm-baskanligina-sunuldu/4017327",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "AK Parti, şehit aileleri ve gazilerin haklarına yönelik düzenlemeleri içeren kanun teklifini TBMM Başkanlığına sundu.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-03T16:01:04.442168+00:00",
-  "type": "news",
-  "cluster_id": "ce6cc154df05d"
  }
 ]
