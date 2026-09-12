@@ -1,5 +1,41 @@
 [
  {
+  "title": "Kaşif Kozinoğlu soruşturması: Gazeteci Selahattin Günday'ın savcılık ifadesi ortaya çıktı!",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/kasif-kozinoglu-sorusturmasi-gazeteci-selahattin-gunday-in-savcilik-ifadesi-ortaya-cikti-2537045",
+  "source": "Cumhuriyet",
+  "summary_tr": "Kaşif Kozinoğlu'nun cezaevinde ölümü soruşturmasında gazeteci Selahattin Günday'ın savcılık ifadesi ortaya çıktı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-12T21:01:04.008536+00:00",
+  "type": "news",
+  "cluster_id": "c4b972ad2a820"
+ },
+ {
+  "title": "Son dakika... Kaşif Kozinoğlu soruşturmasında kritik gelişme: Gazeteci Selahattin Günday ve 2 ATT personeline tutuklama istemi!",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-kasif-kozinoglu-sorusturmasinda-kritik-gelisme-gazeteci-selahattin-gunday-ve-2-att-personeline-tutuklama-istemi-2537038",
+  "source": "Cumhuriyet",
+  "summary_tr": "Kaşif Kozinoğlu soruşturmasında gazeteci Selahattin Günday ve 2 ATT personeline tutuklama istemi yapıldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-12T21:01:04.008536+00:00",
+  "type": "news",
+  "cluster_id": "c7bae52597e35"
+ },
+ {
+  "title": "Kaşif Kozinoğlu soruşturmasında 3 tutuklama talebi",
+  "link": "https://www.sozcu.com.tr/kozinoglu-davasinda-yeni-gelisme-12-eylul-2026-p357642",
+  "source": "Sözcü",
+  "summary_tr": "Eski MİT görevlisi Kaşif Kozinoğlu'nun 2011'deki cezaevi ölümü soruşturmasında 3 tutuklama talebi yapıldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-12T21:01:04.008536+00:00",
+  "type": "news",
+  "cluster_id": "c2b35b603afb3"
+ },
+ {
   "title": "Tarih belli oldu: Motorine dev zam yolda!",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/tarih-belli-oldu-motorine-dev-zam-yolda-2537020",
   "source": "Cumhuriyet",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-03T17:01:06.225511+00:00",
   "type": "news",
   "cluster_id": "c33efbb39d73f"
- },
- {
-  "title": "Trump demands lower gas prices from oil companies, chides Chevron CEO",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSlhBWjU3Vnk4RkhNa1N0cExPUjhxenRiTGVQbVVzakwxRWdhMU9ieVZvSm5fZU4yYkJaREVJR3ltYUhXZW1JYkx6c1lJS1ZYVkM4WVZZSGQza3ZQMDVTYVg5ZktqbGh6RjhWN2wzRTNZUDg0U0JEU2R3N3U2NkVmYjNlOFhHTHFUYmd1QzFGRlg1V2lzWnhabkVVLUt3YmVQS0dGeUwtUnVKb2xMZjQzOGZvY0NKQQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, petrol şirketlerinden daha düşük benzin fiyatları talebinde bulundu ve Chevron CEO'sunu eleştirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-03T17:01:06.225511+00:00",
-  "type": "news",
-  "cluster_id": "c4764bd5af962"
- },
- {
-  "title": "US manufacturing activity hits more than four-year high; input prices elevated",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS1pRYktWWVFTT181ekNrN3VSNXR5WGJBTG1PVlRkNl9HZlk0TUxvaXhpRVp6bXZwQUc5MzdPWXEzTGN2U1lUY3BPdEtLOEtvQlhCUDVpekMzVlpMZy1ra010ZW1pYkdSdTMwUHRCa1VNckNaUnVsRWRJdGNxZlMwSnREWWk1eVpyUUo0NWdIZzU5VlpSeWtNa25LUTFXcnFGd1lFYkV2elpEQQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD imalat sektörü dört yıldan fazla bir süreye dalarak yüksek seviyelere ulaştı; girdi fiyatları yüksek kalmaya devam ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-03T17:01:06.225511+00:00",
-  "type": "news",
-  "cluster_id": "c949119c1130b"
- },
- {
-  "title": "Enflasyon yavaşlarken alım gücü neden azalıyor?",
-  "link": "https://www.dw.com/tr/enflasyon-yavaşlarken-alım-gücü-neden-azalıyor/a-78218303?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Enflasyon yavaşlamasına rağmen ücretler sabit kaldığı için asgari ücretin alım gücü yaklaşık 5.600 lira kaybetti.",
-  "metric": "Asgari ücret alım gücü kaybı: ~5.600 TL",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-03T16:01:04.442168+00:00",
-  "type": "news",
-  "cluster_id": "c2be1210a3e2a"
  }
 ]
