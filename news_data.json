@@ -1,5 +1,29 @@
 [
  {
+  "title": "Fahiş faiz yükü vatandaşa kaldı",
+  "link": "https://www.sozcu.com.tr/fahis-faiz-yuku-vatandasa-kaldi-p357460",
+  "source": "Sözcü",
+  "summary_tr": "Kredi borçları 7 trilyon liraya ulaştığı ve takipteki krediler 862 milyar liraya çıktığı için vatandaş faiz yükü altında eziliyor.",
+  "metric": "Takipteki krediler 862 milyar TL",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-12T02:01:06.764605+00:00",
+  "type": "news",
+  "cluster_id": "cbb5ce3fc9604"
+ },
+ {
+  "title": "Atakum Belediyesi’nde maaş eylemi büyüyor: İşçiler iş bırakacak",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/atakum-belediyesi-nde-maas-eylemi-buyuyor-isciler-is-birakacak-2536862",
+  "source": "Cumhuriyet",
+  "summary_tr": "Atakum Belediyesi'nde 2.5 yıldır süren ücret ödeme sorunu nedeniyle işçiler iş bırakmak için eylem başlatıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-12T02:01:06.764605+00:00",
+  "type": "news",
+  "cluster_id": "cb2e0bd699660"
+ },
+ {
   "title": "Erdoğan imzaladı: 2027-2029 Dönemi Bütçe Çağrısı Resmi Gazete'de",
   "link": "https://www.cumhuriyet.com.tr/turkiye/erdogan-imzaladi-2027-2029-donemi-butce-cagrisi-resmi-gazete-de-2536874",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-03T07:01:11.168536+00:00",
   "type": "news",
   "cluster_id": "c180e0a04cbc3"
- },
- {
-  "title": "Japon yeni neden çöküyor, ABD neden kurtarmaya çalışıyor?",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbC1KSldtT1VzNF93aWpvT3pTT2Jtdm5pcVlwN2UzQmh0aTFJTTZpRHJ0RU10X29ORl9tRFk2REV1NHVKUG9Sb2NKNEF6ZF9sejB6Zkw2LVpQYXBjTGxoWXF2TU5POFlIQUFZdXBUOEdyUjBXNjMxXzdJSnlhajFpYzNRbmphdWlsREd3b25NcXRpb00?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Japon yeninin zayıflaması analizi ve ABD'nin kurtarma çabaları incelendi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-03T07:01:11.168536+00:00",
-  "type": "news",
-  "cluster_id": "c878eddcd60fb"
- },
- {
-  "title": "Kılıçdaroğlu'na hiç beklemediği deklarasyon geliyor",
-  "link": "https://www.sozcu.com.tr/kilicdaroglu-na-hic-beklemedigi-deklarasyon-geliyor-p341907",
-  "source": "Sözcü",
-  "summary_tr": "CHP'de Özgür Özel ve 90 milletvekilinin YENİ Parti'ye geçişinin ardından TBMM Grup Başkanı seçimleri gerçekleşmek üzere.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-03T07:01:11.168536+00:00",
-  "type": "news",
-  "cluster_id": "cb04e8abf6bf2"
  }
 ]
