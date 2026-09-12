@@ -1,5 +1,77 @@
 [
  {
+  "title": "İddia: Leipzig'deki saldırı girişiminin arkasında Rusya var",
+  "link": "https://www.dw.com/tr/iddia-leipzig-deki-saldırı-girişiminin-arkasında-rusya-var/a-79245104?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Almanya'nın Leipzig havalimanındaki İHA saldırı girişiminin Rusya tarafından düzenlendiğine ilişkin bulgular elde edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-12T14:01:05.541281+00:00",
+  "type": "news",
+  "cluster_id": "cd6bc580c62c0"
+ },
+ {
+  "title": "Zelenski: Rus saldırılarında Ukrayna'da 3 kişi öldü, çok sayıda kişi yaralandı",
+  "link": "https://www.trthaber.com/haber/dunya/zelenski-rus-saldirilarinda-ukraynada-3-kisi-oldu-cok-sayida-kisi-yaralandi-956654.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ukrayna Devlet Başkanı Zelenski, Rusya'nın geceki saldırılarında 3 kişinin öldüğünü ve çok sayıda kişinin yaralandığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-12T14:01:05.541281+00:00",
+  "type": "news",
+  "cluster_id": "caf8152769057"
+ },
+ {
+  "title": "Trump canlı yayında çileden çıktı: Kadın muhabire bağırmaya başladı",
+  "link": "https://www.sozcu.com.tr/trump-canli-yayinda-cileden-cikti-kadin-muhabire-bagirmaya-basladi-p357601",
+  "source": "Sözcü",
+  "summary_tr": "Donald Trump, basın toplantısında ısrarlı bir kadın muhabire bağırarak tepki gösterdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-12T14:01:05.541281+00:00",
+  "type": "news",
+  "cluster_id": "c29a751b1dc7f"
+ },
+ {
+  "title": "Filipinler'deki yolcu feribotunda çıkan yangında ölü sayısı 76'ya yükseldi",
+  "link": "https://www.aa.com.tr/tr/dunya/filipinlerdeki-yolcu-feribotunda-cikan-yanginda-olu-sayisi-76ya-yukseldi/4055265",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Filipinler'de yolcu feribotunda çıkan yangında ölü sayısı 76'ya yükseldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-12T14:01:05.541281+00:00",
+  "type": "news",
+  "cluster_id": "c6b6230e15bee"
+ },
+ {
+  "title": "Türkiye'nin 5 iline hızlı tren geliyor",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9sVk9lX0JiLWdVVHpNQkptMmEtaGlYaHJ6ek1RTXVZWjd1Z2RPcnB4bWRITm5IMlpMa0pQTXhoWjVLTnVCeTdWclZuQVcwNnBqb180REJONFdQZEZPT2tyRHpmOXlyUkhoTEdZMUZlbGhiR2tQUjhSMDFaWXU?oc=5",
+  "source": "T24",
+  "summary_tr": "Türkiye'nin 5 iline hızlı tren projesi hayata geçiriliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-12T14:01:05.541281+00:00",
+  "type": "news",
+  "cluster_id": "cd7894e3e5e17"
+ },
+ {
+  "title": "BRICS adopts joint declaration, urges 'maximum restraint' in Mideast",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZERlSkNRYWwycnZ4Y1Nwc1RXSXU3WTFLbmFLVnJGOWhfWjdvTzZiTGJVWVpSWHFWWXB1TTh0STE5QkM2VUlabV9DaENCYXJ2djY1OUhfVjUzbTZWdVVHbjRLTlBNLURPYnNlQU1WSzdYZWxzSk51b0ZQS0Y2N0hndGJPMnF3bW9MUjJSWk80cFkxZVUyXzRFVTdwVGtIQVF0S2Z6RkdqQWFOSGdWZnVV?oc=5",
+  "source": "Reuters",
+  "summary_tr": "BRICS, ortak bildiri kabul ederek Ortadoğu'da 'azami ihtiyat' çağrısında bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-12T14:01:05.541281+00:00",
+  "type": "news",
+  "cluster_id": "cc48256a6c0b2"
+ },
+ {
   "title": "Enflasyon ve istihdam beklentiyi aştı: Fed'den 'şahin' adım gelebilir",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/enflasyon-ve-istihdam-beklentiyi-asti-fed-den-sahin-adim-gelebilir-2536949",
   "source": "Cumhuriyet",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-03T14:01:13.010549+00:00",
   "type": "news",
   "cluster_id": "c2022fe1c7cd5"
- },
- {
-  "title": "Japonya Havayolları'nın nisan-haziran dönemi net karı yüzde 80,2 düştü",
-  "link": "https://www.aa.com.tr/tr/dunya/japonya-havayollarinin-nisan-haziran-donemi-net-kari-yuzde-80-2-dustu/4017171",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Japonya Havayolları'nın nisan-haziran dönem net karı %80,2 düştü.",
-  "metric": "JAL net kar -80,2%",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-03T14:01:13.010549+00:00",
-  "type": "news",
-  "cluster_id": "cfc81cb5eab3c"
- },
- {
-  "title": "ORC'den yeni anket: Yeni Parti'nin oy oranı belli oldu",
-  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmpVYk02SWQyVjJmN0lWSmhZemszSndaazkzV3JkWXpfc1dKeURBT2xsX1ppNzBOcTV4YnN6XzA1dnNRRmtpRlNUcVZ4UEpQT3N3eWgxWDlsTVVOVlRWQWdCbFRPT2NWZjlqek9PeEtMT2NpTUNLUXphWG9HQjlTM1J6RGdLY0tNSDhPNUFZQXY?oc=5",
-  "source": "T24",
-  "summary_tr": "ORC anketine göre Yeni Parti'nin oy oranı açıklandı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-03T14:01:13.010549+00:00",
-  "type": "news",
-  "cluster_id": "c34d7d2749d9e"
- },
- {
-  "title": "Visa beefs up cybersecurity offerings with $2.4 billion BioCatch deal",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVFQdnYtT25JcU9yZC1KUVlDaTN6djh5UjRtdDV0bFM2N2lXZWFfZXBoSFN5LXpuSFJDZkcxMWZUdzhyYzFfUFhtSS15OGxmR2N6X25zOEtkNjVMdWw3d3loUG1YNXVyMW9waHBELVNMMWdZMHNnNFJmZmFMaE9ZWDdKeWtrZGNPamRScm5SV2Q0UFBsaDFuUk1JX2hnSndseUVhV2VESW1zZDlVNnhjSVBn?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Visa, siber güvenlik hizmetlerini güçlendirmek için BioCatch'i 2,4 milyar dolara satın aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-03T14:01:13.010549+00:00",
-  "type": "news",
-  "cluster_id": "c9f127864fbe6"
- },
- {
-  "title": "Çerçeve yasa Meclis'te imzaya açıldı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/cerceve-yasa-meclis-te-imzaya-acildi-2526126",
-  "source": "Cumhuriyet",
-  "summary_tr": "AKP'nin hazırladığı Terörsüz Türkiye'ye ilişkin çerçeve yasa teklifi, Meclis'e sunulmadan önce milletvekillerinin imzasına açıldı.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-03T13:01:08.320377+00:00",
-  "type": "news",
-  "cluster_id": "cedb1bd3a9be8"
- },
- {
-  "title": "AK Parti, Terörsüz Türkiye sürecine dair düzenlemeyi imzaya açtı",
-  "link": "https://www.trthaber.com/haber/gundem/ak-parti-terorsuz-turkiye-surecine-dair-duzenlemeyi-imzaya-acti-952957.html",
-  "source": "TRT Haber",
-  "summary_tr": "AK Parti, terörün sona erdirilmesine yönelik Çerçeve Kanun Teklifini TBMM Grup Başkanlığı vasıtasıyla imzaya açtı.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-03T13:01:08.320377+00:00",
-  "type": "news",
-  "cluster_id": "c4b0a6eaaa3f9"
- },
- {
-  "title": "Altın haftaya sürprizle başladı: Yatırımcıların beklediği İsviçre'den haber geldi",
-  "link": "https://www.sozcu.com.tr/altin-haftaya-surprizle-basladi-yatirimcilarin-bekledigi-isvicre-den-haber-geldi-p342016",
-  "source": "Sözcü",
-  "summary_tr": "Altın, Trump'ın İran açıklamaları ve doların değer kaybıyla hafta başında yükselişe geçti; yatırımcılar ABD istihdam verilerine odaklanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-03T13:01:08.320377+00:00",
-  "type": "news",
-  "cluster_id": "c0d5484c78e1f"
  }
 ]
