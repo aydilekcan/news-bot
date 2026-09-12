@@ -1,5 +1,17 @@
 [
  {
+  "title": "Tarih belli oldu: Motorine dev zam yolda!",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/tarih-belli-oldu-motorine-dev-zam-yolda-2537020",
+  "source": "Cumhuriyet",
+  "summary_tr": "Motorine Salı günü itibaren 6,62 TL ile 7,67 TL arasında zam uygulanacak.",
+  "metric": "Motorin fiyatı (zam miktarı) 6,62 TL -> 7,67 TL",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-12T20:01:03.407594+00:00",
+  "type": "news",
+  "cluster_id": "cfcd9d6240748"
+ },
+ {
   "title": "Trump: İran savaşı yakında sona erecek, petrol fiyatları hızla düşecek",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZS1tQTZQekhNUkIwb2dGdkhIRThJOXhJbzNuYzV5V0JDNGdja3lzWjR5b2xGRDhmQnNWM2NpbWFuTjc1NjZSU2J6U05uOVV4MlNVNkZFX3dFelVqUzM0YTBTOHM5Q3E0cmYxMGhxSl9HSnlueDFmeS1UNWJVWDlHeFJmVlRpOGNob0d5cXc1U012MWRpZDBDeFVKcnY0YkpzTXFlR2hIUEFEdw?oc=5",
   "source": "soL",
@@ -59986,17 +59998,5 @@
   "ts": "2026-08-03T16:01:04.442168+00:00",
   "type": "news",
   "cluster_id": "c2be1210a3e2a"
- },
- {
-  "title": "Çerçeve yasa teklifi Meclis'te AKP'li milletvekillerinin imzasına açıldı",
-  "link": "https://www.bbc.com/turkce/articles/c74gj9em7llo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "AKP çerçeve yasa teklifini TBMM'ye sunmak için milletvekillerinin imzasını topluyor; 4 Ağustos saat 17.00'ye kadar imza alınacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-03T16:01:04.442168+00:00",
-  "type": "news",
-  "cluster_id": "c609799b0875e"
  }
 ]
