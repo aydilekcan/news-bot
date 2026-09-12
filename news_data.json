@@ -1,5 +1,53 @@
 [
  {
+  "title": "Zelenskiy'den Putin'e G20 çağrısı: Miami'de görüşelim",
+  "link": "https://www.dw.com/tr/zelenskiy-den-putin-e-g20-çağrısı-miami-de-görüşelim/a-79243627?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Ukrayna Devlet Başkanı Zelenskiy, Rusya lideri Putin'e Miami G20 zirvesinde görüşmeyi önerdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-12T10:01:05.081517+00:00",
+  "type": "news",
+  "cluster_id": "c0c66e398c58c"
+ },
+ {
+  "title": "İstanbul'da 10 bin TL'ye kiralık konut dönemi: Başvurular pazartesi başlıyor",
+  "link": "https://www.sozcu.com.tr/istanbul-da-10-bin-tl-ye-kiralik-konut-donemi-basvurular-pazartesi-basliyor-p357555",
+  "source": "Sözcü",
+  "summary_tr": "İstanbul'da sosyal konut projesi kapsamında 1.071 kiralık konut (10 bin TL) için başvurular pazartesi başlıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-12T10:01:05.081517+00:00",
+  "type": "news",
+  "cluster_id": "c7ef3607736ff"
+ },
+ {
+  "title": "5 haftalık şirket 50 milyar dolara koşuyor",
+  "link": "https://www.sozcu.com.tr/5-haftalik-sirket-50-milyar-dolara-kosuyor-p357549",
+  "source": "Sözcü",
+  "summary_tr": "Google'ın eski baş bilim insanı Jeff Dean'in kurduğu yapay zeka şirketi Discovery Loop, 10 milyar dolardan 50 milyar dolara değerlendi.",
+  "metric": "Discovery Loop değerlemesi $10B -> $50B (+%400)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-12T10:01:05.081517+00:00",
+  "type": "news",
+  "cluster_id": "c186e821604b5"
+ },
+ {
+  "title": "Kamusal eğitim çöktü: Özel okul öğrenci sayısı yüzde 560 arttı, köy okulları kapısına kilit vuruldu",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM0l4WUl5UWJiYjlpaFYwRnpzRFZQVXdpc0F0MktuZ0JjcGZDRm9icXVhdlptekpkSmlGRWhkcm41YVVCYWpxbEVnNGZoOUk0MGJ1VVU1ekN1UVdISjE5TFJWTGVweW1ZTllKRkpCbU9MUTFmXzdyMWtUdE04ejZHMmxKMGdJWnVvWnFPOW5YYnhQaFdmclBZVkswTzQ2TndnOUhnUGx6M05xYlpUdkY0ajZNZkt5RXpueTJiQw?oc=5",
+  "source": "soL",
+  "summary_tr": "Kamusal eğitim sistemi zayıfladı: özel okul öğrenci sayısı %560 arttı, köy okulları kapandı.",
+  "metric": "Özel okul öğrenci artışı +%560",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-12T10:01:05.081517+00:00",
+  "type": "news",
+  "cluster_id": "cb3cb452de247"
+ },
+ {
   "title": "Dünya ekonomisi Orta Doğu'da boğuluyor",
   "link": "https://www.sozcu.com.tr/dunya-ekonomisi-orta-dogu-da-boguluyor-p357528",
   "source": "Sözcü",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-03T10:01:20.788303+00:00",
   "type": "news",
   "cluster_id": "c0dfc0a62de2d"
- },
- {
-  "title": "Selpak ve Solo milyonlarca dolara Malezyalılara satıldı",
-  "link": "https://www.sozcu.com.tr/selpak-ve-solo-milyonlarca-dolara-malezyalilara-satildi-p341964",
-  "source": "Sözcü",
-  "summary_tr": "Türk temizlik devleri Selpak ve Solo'nun sahibi Sanipak, 600 milyon dolarlık değerlemeyle Malezyalı Arch Pearl'e satıldı.",
-  "metric": "Satış değeri: 600 milyon dolar",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-03T10:01:20.788303+00:00",
-  "type": "news",
-  "cluster_id": "cd8747d8f9a34"
- },
- {
-  "title": "BM Genel Sekreteri'nin Kıbrıs ziyaretiyle donan görüşmeler yeniden başladı",
-  "link": "https://www.sozcu.com.tr/bm-genel-sekreteri-nin-kibris-ziyaretiyle-donan-gorusmeler-yeniden-basladi-p341963",
-  "source": "Sözcü",
-  "summary_tr": "BM Genel Sekreteri Antonio Guterres, 16 yılı aşkın bir aranın ardından Kıbrıs'ı ziyaret ederek ada liderleriyle görüşmeler başlattı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-03T10:01:20.788303+00:00",
-  "type": "news",
-  "cluster_id": "c83d0f701d628"
- },
- {
-  "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Yapısal adımlarımız sayesinde ekonomimiz dışsal şoklara karşı direncini korumaktadır",
-  "link": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskani-yardimcisi-yilmaz-yapisal-adimlarimiz-sayesinde-ekonomimiz-dissal-soklara-karsi-direncini-korumaktadir/4016897",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, yapısal adımlar sayesinde ekonominin dışsal şoklara karşı direncini koruduğunu belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-03T10:01:20.788303+00:00",
-  "type": "news",
-  "cluster_id": "c9903422a31ea"
- },
- {
-  "title": "Bakan Gürlek'ten hakim ve cumhuriyet savcıları hakkında esasa ilişkin alınan kararlarla ilgili açıklama",
-  "link": "https://www.aa.com.tr/tr/gundem/bakan-gurlekten-hakim-ve-cumhuriyet-savcilari-hakkinda-esasa-iliskin-alinan-kararlarla-ilgili-aciklama/4016902",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Adalet Bakanı Akın Gürlek, HSK'nın denetim ve disiplin mekanizmalarını etkin biçimde işlettiğini belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-03T10:01:20.788303+00:00",
-  "type": "news",
-  "cluster_id": "cabf23b784368"
  }
 ]
