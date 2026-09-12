@@ -1,5 +1,41 @@
 [
  {
+  "title": "Markette 15 lira, tarlada sıfır lira! Dev hasat göz göre göre çürümeye terk edildi",
+  "link": "https://www.cumhuriyet.com.tr/yasam/markette-15-lira-tarlada-sifir-lira-dev-hasat-goz-gore-gore-curumeye-terk-edildi-2537052",
+  "source": "Cumhuriyet",
+  "summary_tr": "Eskişehir'de 250 dönümlük karpuz hasadı, düşük fiyatlar nedeniyle tarlada çürümeye terk edildi. Ürün markette 15 lira ama tarımcıya hiçbir gelir sağlamıyor.",
+  "metric": "Markette 15 TL; tarımcıya 0 TL",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-12T22:01:07.838831+00:00",
+  "type": "news",
+  "cluster_id": "c6e644cc3bde5"
+ },
+ {
+  "title": "Kyiv preparing for talks to resume in October, senior Ukrainian official says",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNODF2R3NqX3FXdjdXZXN3LVczYXJmTFJPV053RDdRVEI5OHE0amI0WTB5R1BGSVJyY3MwNC1TNnVIaEpYcG9xeUU1X3RsbjI4TU9PTGtrUEx2UG5rWXRVWkR1N3pOdFVObEV6NndQaXBFZzBRRHVMckx2TnJodjdWLUw3OWxqcUoxdXlSa3ktZFBpNUNibkhHbV8tc2ctNVJjWmJQZ1VQdlU2U0RD?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ukrayna'nın üst düzey yetkilisi, Ekim ayında müzakerelerin yeniden başlanabileceğini hazırladıklarını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-12T22:01:07.838831+00:00",
+  "type": "news",
+  "cluster_id": "c6b3f46dfa790"
+ },
+ {
+  "title": "Russian attacks kill nine, injure dozens in Ukraine; Russia says it hits ships, plants",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcjF5NXdIeXlKQWY5RXRJTmlfVjFfWlNwZm9TOVNOREUxcmUwTk9MRmFUbWZzQnhNZTY1V3d2R2hBZGhlU1ZOT1licGJRdzUwcXhEbmJGTEdkNi1xRUlQUGJ0VnN0MjFLMWJGem1Ta0hGZ21ILXQybi1nS0xuUGo0Wjkta0dzZjhNOUVGTFZNcWJqTURPRzI2bngtdjg1dnZSVUZ4WjZLeF9DWU91M1ZlQjRUZ1FaMjNBc0pEMUhTMnR2Mnh1b0dZ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rus saldırıları Ukrayna'da dokuz kişiyi öldürdü, onlarca kişi yaralandı. Rusya gemi ve üretim tesislerine vuruş yaptığını iddia etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-12T22:01:07.838831+00:00",
+  "type": "news",
+  "cluster_id": "c9504a64ec5d4"
+ },
+ {
   "title": "Kaşif Kozinoğlu soruşturması: Gazeteci Selahattin Günday'ın savcılık ifadesi ortaya çıktı!",
   "link": "https://www.cumhuriyet.com.tr/siyaset/kasif-kozinoglu-sorusturmasi-gazeteci-selahattin-gunday-in-savcilik-ifadesi-ortaya-cikti-2537045",
   "source": "Cumhuriyet",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-03T17:01:06.225511+00:00",
   "type": "news",
   "cluster_id": "cc5b21bca193b"
- },
- {
-  "title": "Trump'tan İran'a 'ikiyüzlü' suçlaması: Görüşmeler başladı mı?",
-  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-iran-a-ikiyuzlu-suclamasi-gorusmeler-basladi-mi-2526184",
-  "source": "Cumhuriyet",
-  "summary_tr": "Trump, İran yönetimini ikiyüzlülükle suçlarken, yakın gelecekte yeni görüşmeler planlandığını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-03T17:01:06.225511+00:00",
-  "type": "news",
-  "cluster_id": "c26c05f678e48"
- },
- {
-  "title": "Trump'tan Hürmüz Boğazı tamamen bizim kontrolümüzde mesajı",
-  "link": "https://www.trthaber.com/haber/dunya/trumptan-hurmuz-bogazi-tamamen-bizim-kontrolumuzde-mesaji-952969.html",
-  "source": "TRT Haber",
-  "summary_tr": "Trump, Hürmüz Boğazı'nın tamamen ABD kontrolünde olduğunu açıkladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-03T17:01:06.225511+00:00",
-  "type": "news",
-  "cluster_id": "cca973f4d9a32"
- },
- {
-  "title": "9 can yetmedi: İliç dosyası kapanmadan maden yeniden açıldı",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR3ZNSHdEWHZFV1dRSjZoUHJSeTMtR1U4dlg3U3ZhQ1dFNDNOLUR0VVJjT0xrMnJlVUppREdJNktBTGV3QXFNaHlmTE5JSFpjbEJVSGVKcHg1aG1vclJuRk9MWVdxTGktcHpYRm5BXzBmOU0zM0hKYUZlRlFLVW83NlR4R0w1My1mRnlvV1FsRmExcWR4TGd1dmJPenU?oc=5",
-  "source": "soL",
-  "summary_tr": "İliç dosyası kapanmadan 9 insanın yaşamını kaybettiği maden yeniden açıldı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-03T17:01:06.225511+00:00",
-  "type": "news",
-  "cluster_id": "c33efbb39d73f"
  }
 ]
