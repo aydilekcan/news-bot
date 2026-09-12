@@ -1,5 +1,53 @@
 [
  {
+  "title": "Memur emeklisine seyyanen zam gelecek mi? Memur emeklisi, SSK ve Bağ-Kur emekliye ek zam gelecek mi?",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/memur-emeklisine-seyyanen-zam-gelecek-mi-memur-emeklisi-ssk-ve-bag-kur-emekliye-ek-zam-gelecek-mi-2536888",
+  "source": "Cumhuriyet",
+  "summary_tr": "Anayasa Mahkemesi'nde 25 bin TL ek zam davası milyonlarca memur, SSK ve Bağ-Kur emeklisinin takip ettiği konudur; karar bekleniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-12T07:01:18.200840+00:00",
+  "type": "news",
+  "cluster_id": "cfbc839617885"
+ },
+ {
+  "title": "Benzine gelen zam pompaya yansıdı... 'Benzine artık paramız yetmiyor'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/benzine-gelen-zam-pompaya-yansidi-benzine-artik-paramiz-yetmiyor-2536884",
+  "source": "Cumhuriyet",
+  "summary_tr": "Benzine 3,20 lira zam yapıldı; litre fiyatı Isparta'da 79 TL'den 82 TL'ye yükseldi.",
+  "metric": "Benzin fiyatı 79 TL -> 82 TL/litre (+%3,8)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-12T07:01:18.200840+00:00",
+  "type": "news",
+  "cluster_id": "c8189aeda65fe"
+ },
+ {
+  "title": "Kamuya 2027'de 'zorunluk olmadıkça' yeni proje alınmayacak: Gerekçe 'tasarruf'",
+  "link": "https://www.diken.com.tr/kamuya-2027de-zorunluk-olmadikca-yeni-proje-alinmayacak-gerekce-tasarruf/?utm_source=rss&utm_medium=rss&utm_campaign=kamuya-2027de-zorunluk-olmadikca-yeni-proje-alinmayacak-gerekce-tasarruf",
+  "source": "Diken",
+  "summary_tr": "Kamuya 2027'den itibaren zorunlu haller dışında yeni proje alınmayacak; tasarruf gerekçesiyle gösteriliyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-12T07:01:18.200840+00:00",
+  "type": "news",
+  "cluster_id": "cd73ab663e93b"
+ },
+ {
+  "title": "Rusya NATO ülkesini haritadan silmekle tehdit etti",
+  "link": "https://www.sozcu.com.tr/rusya-nato-ulkesini-haritadan-silmekle-tehdit-etti-p357493",
+  "source": "Sözcü",
+  "summary_tr": "Rusya Güvenlik Konseyi Başkan Yardımcısı Medvedev, Litvanya topraklarında nükleer silah konuşlandırılması halinde tehdit ve uyarıda bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-12T07:01:18.200840+00:00",
+  "type": "news",
+  "cluster_id": "c92e323c11c76"
+ },
+ {
   "title": "Benzine gece yarısı zam geldi: 80 TL'yi aştı",
   "link": "https://www.sozcu.com.tr/benzine-gece-yarisi-zam-geldi-80-tl-yi-asti-p357473",
   "source": "Sözcü",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-03T08:01:42.808421+00:00",
   "type": "news",
   "cluster_id": "c1b72d7662f81"
- },
- {
-  "title": "Ağustosta tavan kira zam oranı yüzde 31,90",
-  "link": "https://www.diken.com.tr/agustosta-tavan-kira-zam-orani-belli-oldu-2/?utm_source=rss&utm_medium=rss&utm_campaign=agustosta-tavan-kira-zam-orani-belli-oldu-2",
-  "source": "Diken",
-  "summary_tr": "Ağustos ayında tavan kira zam oranı %31,90 olarak belirlendi.",
-  "metric": "Tavan kira zam oranı %31,90",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-08-03T08:01:42.808421+00:00",
-  "type": "news",
-  "cluster_id": "c852af78d9979"
- },
- {
-  "title": "Temmuz ayı ihracatı 25,6 milyar dolarla tüm zamanların en yüksek seviyesine ulaştı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/temmuz-ayi-ihracati-25-6-milyar-dolarla-tum-zamanlarin-en-yuksek-seviyesine-ulasti/4016724",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye temmuzda ihracatını geçen yılın aynı dönemine göre %2,9 artırarak 25,6 milyar dolara çıkardı; tüm zamanların en yüksek seviyesi.",
-  "metric": "Ihracat 25,6 milyar dolar (yillik +%2,9)",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-08-03T08:01:42.808421+00:00",
-  "type": "news",
-  "cluster_id": "c701ef05981b3"
- },
- {
-  "title": "İhracatta tüm zamanların temmuz rekoru",
-  "link": "https://www.trthaber.com/haber/ekonomi/ihracatta-tum-zamanlarin-temmuz-rekoru-952919.html",
-  "source": "TRT Haber",
-  "summary_tr": "Ticaret Bakanı Bolat, temmuz ihracatının geçen yılın aynı dönemine göre %2,9 artarak 25,6 milyar dolara ulaştığını ve tüm zamanların en yüksek temmuz ihracatı olduğunu duyurdu.",
-  "metric": "Ihracat 25,6 milyar dolar (yillik +%2,9)",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-08-03T08:01:42.808421+00:00",
-  "type": "news",
-  "cluster_id": "c872cd38ec1f8"
- },
- {
-  "title": "Memur ve emeklinin ocak zammı hesabı başladı: İşte masadaki iki farklı oran",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/memur-ve-emeklinin-ocak-zammi-hesabi-basladi-iste-masadaki-iki-farkli-oran-2526008",
-  "source": "Cumhuriyet",
-  "summary_tr": "TÜİK'in temmuz enflasyonu açıklamasıyla memur ve emekli maaş zammı hesaplamaları başladı; ocak zammı için iki farklı oran masada.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-03T08:01:42.808421+00:00",
-  "type": "news",
-  "cluster_id": "c286cf4028f02"
  }
 ]
