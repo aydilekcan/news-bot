@@ -1,5 +1,65 @@
 [
  {
+  "title": "Bakan Fidan, Şara ile görüştü",
+  "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-sara-ile-gorustu-956720.html",
+  "source": "TRT Haber",
+  "summary_tr": "Dışişleri Bakanı Hakan Fidan, Suriye ziyareti kapsamında Suriye Cumhurbaşkanı Ahmed Şara ile görüştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-13T17:01:16.334237+00:00",
+  "type": "news",
+  "cluster_id": "c44bc2630821b"
+ },
+ {
+  "title": "Trump: İran ile savaş ara seçimlerden önce de bitebilir ama ara seçimlerden sonra bitecek",
+  "link": "https://www.trthaber.com/haber/dunya/trump-iran-ile-savas-ara-secimlerden-once-de-bitebilir-ama-ara-secimlerden-sonra-bitecek-956717.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Başkanı Trump, İran ile savaşın kasımdaki ara seçimlerden sonra bitmiş olacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-13T17:01:16.334237+00:00",
+  "type": "news",
+  "cluster_id": "c46557abe46f3"
+ },
+ {
+  "title": "Swedish voters go to polls to choose a new parliament as hard right bids for role in government",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOanNaU2dOb0c3MzZHbjdEeTc5ODdNOWhXOXJzNU5aNm56elRKSlo5UmRwdndlaTdKSkkySmxDVmdtaXJ3cmNzYzNIX0xrOHRNVmRwWHI0ZmM2SFlVMWQ1UVFkTVNjeUpEVnBMaXVuV1BMSDh3ZWxyTzBIRndTUDJmSlFOa0F1Y2RrbWtmc1ppWU9qSDZ3ZkRtX2dUWWdzcF9tTEJoVXp2TQ?oc=5",
+  "source": "AP",
+  "summary_tr": "İsveç'te parlamenter seçimler başladı; aşırı sağcı partiler hükümetde yer alma talebi ile öne çıkıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-13T17:01:16.334237+00:00",
+  "type": "news",
+  "cluster_id": "cdd7e23ed58a6"
+ },
+ {
+  "title": "AKP milletvekilinin ağabeyi 'şafak operasyonuyla' gözaltına alındı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/akp-milletvekilinin-agabeyi-safak-operasyonuyla-gozaltina-alindi-2537203",
+  "source": "Cumhuriyet",
+  "summary_tr": "AKP milletvekilinin ağabeyi Mehmet Dal, İl Özel İdaresi'ne yönelik soruşturma kapsamında gözaltına alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-13T17:01:16.334237+00:00",
+  "type": "news",
+  "cluster_id": "c8a9d690c0bfc"
+ },
+ {
+  "title": "Trump says US could stay in Iran and keep oil, like Venezuela deal",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc3NKNXdjMkx2Q2ZXOWVWU25Oa1hXRGFZcWJLRktNQWdoclBWVEJQdXhLMS1ZQV9TWHhmNlZSMTlIVXlSZWlWRGdrWXN2a2gxNzZiOWJlTUtVd2xIbW5tb0pJVVNGNFdmNWdEZktuV0JuT3pmaUF3VHYtZXotVklQWGt2YlEzN2Uwa21ac1I1bjlHRi1iM1VpMF90bFhJZk5wNl9aaG9rVmNsVkpUUUdF?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, ABD'nin İran'da kalıp petrol tutabileceğini, Venezuela anlaşması örneğine atıfta bulunarak söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-13T17:01:16.334237+00:00",
+  "type": "news",
+  "cluster_id": "c0c4725140dfb"
+ },
+ {
   "title": "Trump'tan Zelenskiy'e uyarı: 'Rusya’nın dizel tesislerini vurmaktan vazgeçmeli'",
   "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-zelenskiy-e-uyari-rusya-nin-dizel-tesislerini-vurmaktan-vazgecmeli-2537200",
   "source": "Cumhuriyet",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-04T09:01:20.871742+00:00",
   "type": "news",
   "cluster_id": "c21c8bd50a56d"
- },
- {
-  "title": "Irak Petrol Bakanı: Türkiye ile yapılan anlaşma kapsamında günlük 700 bin varilden fazla ihracat hedefliyoruz",
-  "link": "https://www.aa.com.tr/tr/gundem/irak-petrol-bakani-turkiye-ile-yapilan-anlasma-kapsaminda-gunluk-700-bin-varilden-fazla-ihracat-hedefliyoruz/4017824",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Irak Petrol Bakanı, Türkiye ile yapılan anlaşma kapsamında günlük 700 bin varilden fazla petrol ihracatını hedeflediklerini belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-04T09:01:20.871742+00:00",
-  "type": "news",
-  "cluster_id": "ce5049b5f9fae"
- },
- {
-  "title": "Eihale ile 6 ayda 2,7 milyar lira gelir",
-  "link": "https://www.trthaber.com/haber/ekonomi/e-ihale-ile-6-ayda-27-milyar-lira-gelir-953028.html",
-  "source": "TRT Haber",
-  "summary_tr": "Ticaret Bakanlığının eihale sistemi yılın ilk 6 ayında 2,7 milyar lira gelir sağladı.",
-  "metric": "Eihale geliri 6 ay → 2,7 milyar lira",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-04T09:01:20.871742+00:00",
-  "type": "news",
-  "cluster_id": "cf77035679397"
- },
- {
-  "title": "Ankara ihracatta rekor kırdı: 7 ayda 10,8 milyar dolar",
-  "link": "https://www.trthaber.com/haber/ekonomi/ankara-ihracatta-rekor-kirdi-7-ayda-108-milyar-dolar-953026.html",
-  "source": "TRT Haber",
-  "summary_tr": "Ankara ilinin ocak-temmuz döneminde ihracatı 10,8 milyar dolara ulaşarak rekor kırdı.",
-  "metric": "Ankara ihracatı (7 ay) → 10,8 milyar dolar",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-04T09:01:20.871742+00:00",
-  "type": "news",
-  "cluster_id": "c4347d88c38f0"
- },
- {
-  "title": "Avrupa’da aşırı sıcaklar gıda üretimini vurdu, zeytinyağı fiyatları artabilir",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ3FUUU03OUtyQk9paWdaNkNoUXdWY1FkREZSZHVFMy1CXzhXa1RObEc4Y0RQSV9ibnVuLUJyMG0wZy1kTnl6UWpUZk5oeGd4SUtrcjJMTlg5MmZLZlF3QVJMb2NlSmVWNkt5T3JyQURaNkRXLXBGN1Z0MEZWUEdLV0tsTTEydEFaZW5RRTMzOVd5czVmeFBQampqSW5seVhaaFU5NWtSdFE0THowQ1E?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Avrupa'daki aşırı sıcaklar gıda üretimini vuruyor; zeytinyağı fiyatlarının artabileceği öngörülüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-04T09:01:20.871742+00:00",
-  "type": "news",
-  "cluster_id": "cae81019f52cb"
- },
- {
-  "title": "Toyota lifts annual forecast and announces stock buyback, but shares fall",
-  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSy1kNU1lRXkxX25PQUFPbTQtT2FCaXp3VHNJb0N6czVieVFvZmY1U1lta3NzVEdwRUEzQmd6b2h0dmtOTTVyZmNTTDhiVU1od3dCWFN6U2JRMFRZeTE2cnBwTHpGekxMNzhGRk1CMnZSRllsdG5UZmpmXzRoNTVKeDlQUlBwMWFlUG9KbzJGOGkzZGtUajh4V1R2WmhMdXdiVVNiZlFiLTZHbHhlUExSS05QdnU2RFRUUTRuQ3ZsM2M1M0RSdkxFajVMWU4ycDVGanc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Toyota yıllık tahminini yükseltti ve hisse geri alımı açıkladı; ancak hisseler düştü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-04T09:01:20.871742+00:00",
-  "type": "news",
-  "cluster_id": "c25dc69863e81"
  }
 ]
