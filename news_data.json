@@ -1,5 +1,53 @@
 [
  {
+  "title": "Saudi pipeline outage threatens loss of 4% of global oil supply",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb3FTbnBqRHlWOWIwM29yRVE2dmJnTlJOcVY0RV9oMFdYRm1WcXhCZThObGp5d1lHdE9GQVBkM080dlhZT0VleG1BUm1kOHpWbEJPZUcwTnNIaEJ2ZnpsZWJyd0RpWjdMcUpGMFotNnRmQ3lMeFRpMC1mUnlxbm1nVlFMSGdMWC1LU3lBMGZlOGoyN21QZWh3dU0yM3hVUU1pMDQ2RDdWRUJFcy0t?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Suudi Arabistan'daki bir boru hattı arızası, küresel petrol arzının %4'ünün kaybolmasına neden olmakla tehdit ediyor.",
+  "metric": "Küresel petrol arzı risk: -%4",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-09-13T13:01:05.070874+00:00",
+  "type": "news",
+  "cluster_id": "ccbc428f45e7c"
+ },
+ {
+  "title": "Katılımevim'de beklenen açıklama geldi",
+  "link": "https://www.sozcu.com.tr/katilimevim-de-beklenen-aciklama-geldi-p357845",
+  "source": "Sözcü",
+  "summary_tr": "Pusula Portföy Yönetim Kurulu Başkanı Muhammet Yarız'ın yurt dışına kaçmasının ardından Katılımevim konusunda açıklama yapıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-13T13:01:05.070874+00:00",
+  "type": "news",
+  "cluster_id": "ca3b2cbe41b89"
+ },
+ {
+  "title": "Almanya'da AfD, federal seçim için yapılan anket sonucuna göre yüzde 29 ile ilk sırada yer alıyor",
+  "link": "https://www.aa.com.tr/tr/dunya/almanyada-afd-federal-secim-icin-yapilan-anket-sonucuna-gore-yuzde-29-ile-ilk-sirada-yer-aliyor/4055843",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Almanya'da AfD, ülke genelindeki kamuoyu yoklamalarında %29 ile ilk sırada yer alıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-13T13:01:05.070874+00:00",
+  "type": "news",
+  "cluster_id": "c46738677e1b0"
+ },
+ {
+  "title": "Sosyal medyadaki borsa paylaşımlarına yönelik soruşturma başlatıldı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/sosyal-medyadaki-borsa-paylasimlarina-yonelik-sorusturma-baslatildi-2537159",
+  "source": "Cumhuriyet",
+  "summary_tr": "SPK, sosyal medyada borsa manipülasyonu amaçlı yanıltıcı bilgi paylaşımlarına karşı soruşturma başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-13T13:01:05.070874+00:00",
+  "type": "news",
+  "cluster_id": "c2f4a7ab2e139"
+ },
+ {
   "title": "Çerçeve yasa sonrası ilk ziyaret... DEM Parti İmralı Heyeti, teröristbaşı Abdullah Öcalan ile görüşmek üzere yola çıktı",
   "link": "https://www.cumhuriyet.com.tr/turkiye/cerceve-yasa-sonrasi-ilk-ziyaret-dem-parti-imrali-heyeti-teroristbasi-abdullah-ocalan-ile-gorusmek-uzere-yola-cikti-2537140",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-04T07:01:16.759271+00:00",
   "type": "news",
   "cluster_id": "cb7a4daeaeef2"
- },
- {
-  "title": "Sahte ekspertizle vatandaşlık sağlayan şebekeye dev operasyon",
-  "link": "https://www.trthaber.com/haber/gundem/sahte-ekspertizle-vatandaslik-saglayan-sebekeye-dev-operasyon-953009.html",
-  "source": "TRT Haber",
-  "summary_tr": "Adalet Bakanı: 16 ilde sahte ekspertizle usulsüz vatandaşlık sağlayan şebekeye operasyon, 72 şüpheli yakalandı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-04T07:01:16.759271+00:00",
-  "type": "news",
-  "cluster_id": "cd304e64a7320"
- },
- {
-  "title": "İran'ın bileğini bükemeyen ABD, 'İran'ı cezalandırmak' erlerinden fikir istedi",
-  "link": "https://www.sozcu.com.tr/iran-in-bilegini-bukemeyen-abd-iran-i-cezalandirmak-erlerinden-fikir-istedi-p342162",
-  "source": "Sözcü",
-  "summary_tr": "ABD, Trump yönetimi İran ile sınırlı askeri seçeneklerle karşılaşıyor; CENTCOM alternatif çözümler arıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-04T06:01:15.701565+00:00",
-  "type": "news",
-  "cluster_id": "c545316aa2d4c"
- },
- {
-  "title": "Türkiye'de milyonlarca kişi göç etti: En çok bu ile akın ettiler",
-  "link": "https://www.sozcu.com.tr/turkiye-de-milyonlarca-kisi-goc-etti-en-cok-bu-ile-akin-ettiler-p342159",
-  "source": "Sözcü",
-  "summary_tr": "TÜİK verilerine göre geçen yıl 2 milyon 475 bin kişi iller arasında göç etti.",
-  "metric": "İç göç 2 milyon 475 bin 19 kişi",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-04T06:01:15.701565+00:00",
-  "type": "news",
-  "cluster_id": "c1b78e7c8ef15"
- },
- {
-  "title": "Türkiye'nin traktör devi tam 669 milyon TL kaybetti",
-  "link": "https://www.sozcu.com.tr/turkiye-nin-traktor-devi-tam-669-milyon-tl-kaybetti-p342158",
-  "source": "Sözcü",
-  "summary_tr": "Türk Traktör ve Ziraat Makineleri A.Ş. 2026'da 669 milyon TL zarar bildirdi.",
-  "metric": "Türk Traktör zararı 669 milyon TL",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-04T06:01:15.701565+00:00",
-  "type": "news",
-  "cluster_id": "cef9a2cf05e95"
  }
 ]
