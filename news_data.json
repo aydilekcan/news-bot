@@ -1,5 +1,41 @@
 [
  {
+  "title": "#ali babacan t24te",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FeVBOS3JuSURSeDFmNlJXcVhCV2tIdktIRlFZOExadC1zc3pmMnllSHExSE5JWXE3dmFCMk9MU2NxMkhYSkIxWTljRkhHNEw2TENQYm9ENVdtRjlINUxUZG9QOA?oc=5",
+  "source": "T24",
+  "summary_tr": "Ali Babacan ile ilgili haber.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-13T02:01:02.077560+00:00",
+  "type": "news",
+  "cluster_id": "cdfc4580d983f"
+ },
+ {
+  "title": "UKMTO: Hürmüz Boğazı'nda bir gemi türü belirsiz mühimmatla vuruldu",
+  "link": "https://www.aa.com.tr/tr/dunya/ukmto-hurmuz-bogazinda-bir-gemi-turu-belirsiz-muhimmatla-vuruldu/4055566",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Hürmüz Boğazı'ndan geçen bir gemi belirsiz bir mühimmatla vuruldu; Birleşik Krallık Deniz Ticaret Operasyonları olayı açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-13T02:01:02.077560+00:00",
+  "type": "news",
+  "cluster_id": "c1e894fe9a813"
+ },
+ {
+  "title": "Kamu işletmelerinin gelecek yılki yatırım ödenekleri belli oldu: Aslan payı petrol ve gaza",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/kamu-isletmelerinin-gelecek-yilki-yatirim-odenekleri-belli-oldu-aslan-payi-petrol-ve-gaza-2537029",
+  "source": "Cumhuriyet",
+  "summary_tr": "KİT'lerin gelecek yıl yatırım ödenek tavanında petrol ve gaz sektörü 353,8 milyar lirayla en yüksek payı alacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-13T02:01:02.077560+00:00",
+  "type": "news",
+  "cluster_id": "c656c894375b4"
+ },
+ {
   "title": "Deli dumruldan kasaya 699 milyar",
   "link": "https://www.sozcu.com.tr/deli-dumruldan-kasaya-699-milyar-p357660",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-03T18:01:09.971464+00:00",
   "type": "news",
   "cluster_id": "ceb679090b6cf"
- },
- {
-  "title": "Türkiye'den Lübnan'daki ihtiyaç sahiplerine 280 ton kurban eti yardımı",
-  "link": "https://www.aa.com.tr/tr/gundem/turkiyeden-lubnandaki-ihtiyac-sahiplerine-280-ton-kurban-eti-yardimi/4017380",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye'den Lübnan'a 280 ton kurban eti yardımı gönderildi.",
-  "metric": "Kurban eti yardımı: 280 ton",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-03T18:01:09.971464+00:00",
-  "type": "news",
-  "cluster_id": "c593b6971016f"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan, Suudi Arabistan Veliaht Prensi Bin Selman ile telefonda görüştü",
-  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-suudi-arabistan-veliaht-prensi-bin-selman-ile-telefonda-gorustu/4017382",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, Suudi Arabistan Veliaht Prensi Muhammed Bin Selman ile telefonda görüştü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-03T18:01:09.971464+00:00",
-  "type": "news",
-  "cluster_id": "c8d761bd6c5be"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan Suudi Arabistan Veliaht Prensi Selman ile görüştü",
-  "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-suudi-arabistan-veliaht-prensi-selman-ile-gorustu-952974.html",
-  "source": "TRT Haber",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, Suudi Arabistan Veliaht Prensi Muhammed Bin Selman ile görüşme gerçekleştirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-03T18:01:09.971464+00:00",
-  "type": "news",
-  "cluster_id": "c8d761bd6c5be"
  }
 ]
