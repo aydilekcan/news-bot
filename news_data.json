@@ -1,5 +1,29 @@
 [
  {
+  "title": "Deli dumruldan kasaya 699 milyar",
+  "link": "https://www.sozcu.com.tr/deli-dumruldan-kasaya-699-milyar-p357660",
+  "source": "Sözcü",
+  "summary_tr": "Bankalar 7 ayda ücret ve komisyondan 698,9 milyar lira gelir elde etti; kredilerden alınan komisyonlar önemli bir kısmını oluşturdu.",
+  "metric": "Banka komisyon ve ücret geliri: 7 ayda 698,9 milyar lira",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-13T01:01:33.065000+00:00",
+  "type": "news",
+  "cluster_id": "c9ece00731d1b"
+ },
+ {
+  "title": "Kayyum emeklileri kovdu",
+  "link": "https://www.sozcu.com.tr/kayyum-emeklileri-kovdu-p357661",
+  "source": "Sözcü",
+  "summary_tr": "Kayyum tarafından işletilen emekli lokali kapatıldı; düşük maaşlı emekliler etkilendi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-13T01:01:33.065000+00:00",
+  "type": "news",
+  "cluster_id": "c0befc3d8d1f4"
+ },
+ {
   "title": "Zelenskiy Miami’yi işaret etti, Kremlin adres gösterdi: Putin ile görüşmek istiyor",
   "link": "https://www.sozcu.com.tr/zelenskiy-miami-yi-isaret-etti-kremlin-adres-gosterdi-putin-ile-gorusmek-istiyor-p357650",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-03T18:01:09.971464+00:00",
   "type": "news",
   "cluster_id": "c8d761bd6c5be"
- },
- {
-  "title": "Meclis’te gündem çerçeve yasa: İmzaya açıldı ama taslak paylaşılmadı",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWnRKc1BBVGV6LVRxMHFPTjJFc0pncjBkNDFEWFJYMU5XZkdIc0JzZDEzQVVZTUgwbVZyeUJzTldpOElLeFhMeHpNRk9jZ0xtaEpmSmZtNnJmLV9mcG5nZ0F2LUJPMjFQRGdYdW9mRTZuR0tTY0JkcUVndVNpQWNTZTY4b05ONVZ5NmxzQw?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Meclis'te çerçeve yasa imzaya açıldı ancak taslak metni paylaşılmadı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-03T18:01:09.971464+00:00",
-  "type": "news",
-  "cluster_id": "c2077ede476fa"
- },
- {
-  "title": "Gazeteci Can Bursalı'ya 'dezenformasyon' soruşturması: İfadeye çağrıldığını sosyal medyadan öğrendi",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcUdYLWxUYmlQYWxOMndaZFJxaWo0SXczMzl0TlRuNlZGZW5HMDRwaEt1bW9pZ195STBGdkxYYTV0YXBjajBSWmJ5ZE9LTF9ibE9WMFhJNExsbHRlazJmaHBuLUd6SnZYYTU1LWJCbWphNFA4VElaYWV4YUc0WkRoZmk1cXVXNFhVNHpOMjN0Zk5TanA5Z3lab21ubG9ONGxzMnlRRW1hMVFIY0ducjRweVZFX244QUI3MXc?oc=5",
-  "source": "soL",
-  "summary_tr": "Gazeteci Can Bursalı'ya dezenformasyon soruşturması açıldı; ifadeye çağrıldığını sosyal medyadan öğrendi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-03T18:01:09.971464+00:00",
-  "type": "news",
-  "cluster_id": "cd951adc0fecf"
  }
 ]
