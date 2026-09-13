@@ -1,5 +1,77 @@
 [
  {
+  "title": "Boris Johnson'ın geçtiği Ukrayna sınırı kısa bir süre sonra Rusya tarafından vuruldu",
+  "link": "https://www.bbc.com/turkce/articles/c207gpxnrggo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Rusya, eski İngiltere Başbakanı Boris Johnson'ın Ukrayna sınırını geçişinden dakikalar sonra insansız hava aracı ile trenini vurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-13T18:01:10.157807+00:00",
+  "type": "news",
+  "cluster_id": "c1ffe9163517d"
+ },
+ {
+  "title": "Rusya'nın, eski İngiltere Başbakanı Johnson'ın geçişinden dakikalar sonra Ukrayna trenini vurduğu belirtildi",
+  "link": "https://www.aa.com.tr/tr/dunya/rusyanin-eski-ingiltere-basbakani-johnsonin-gecisinden-dakikalar-sonra-ukrayna-trenini-vurdugu-belirtildi/4056105",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Rusya insansız hava araçlarının, Ukrayna-Polonya sınırında eski İngiltere Başbakanı Johnson ve İsveç Başbakanı Bildt'in geçişinden sonra trenini vurduğu bildirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-13T18:01:10.157807+00:00",
+  "type": "news",
+  "cluster_id": "ce812cd14a30a"
+ },
+ {
+  "title": "İskoçya, Galler ve Kuzey İrlandalı liderler, Birleşik Krallık’tan ayrılma planı için bir araya gelecek: 'Dağılma sürecini başlatmak üzere...'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/iskocya-galler-ve-kuzey-irlandali-liderler-birlesik-krallik-tan-ayrilma-plani-icin-bir-araya-gelecek-dagilma-surecini-baslatmak-uzere-2537217",
+  "source": "Cumhuriyet",
+  "summary_tr": "İskoçya, Galler ve Kuzey İrlanda liderleri Birleşik Krallık'ın dağılma sürecini başlatmak üzere anlaşmayı imzalamaya hazırlanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-13T18:01:10.157807+00:00",
+  "type": "news",
+  "cluster_id": "cb2785a6f4ed8"
+ },
+ {
+  "title": "Suriye Cumhurbaşkanı Şara, Bakan Fidan'ı kabul etti",
+  "link": "https://www.sozcu.com.tr/suriye-cumhurbaskani-sara-bakan-fidan-i-kabul-etti-p357901",
+  "source": "Sözcü",
+  "summary_tr": "Dışişleri Bakanı Hakan Fidan, Suriye Cumhurbaşkanı Ahmed Şara ile Şam'da görüştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-13T18:01:10.157807+00:00",
+  "type": "news",
+  "cluster_id": "cba1fe8f3ebbf"
+ },
+ {
+  "title": "Ahead of Fed meeting, Trump says US should have world's lowest interest rate",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbGlUbF9PYnU0Q05JZW03V3BDSW1EcUp2djVmYXZjdWxXcmsyUWREY2M5MHpSNkU4ZERvQWlmV0d3bThhdmx2RUQtU3VockNIRTVmWGltUmllOUJuTHdrYUJqRU02cHdBUlNlb1dwSGZhWWtKejlDakkxUWhqR3RJRFc5TWRFdDFabTNUbEJfNU9aZlMzUkI0S0dqNkZYSXFYMndoNlR4c2R2SzdxZVEycDlIMHBaXzg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, Fed toplantısından önce ABD'nin dünyanın en düşük faiz oranına sahip olması gerektiğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-13T18:01:10.157807+00:00",
+  "type": "news",
+  "cluster_id": "c76b284d6b2a6"
+ },
+ {
+  "title": "Kosovo parliament re-elects Albin Kurti as prime minister, political crisis persists",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYUJlelpFdUZqRVRxdDJ6c3ZhQzE5RmNXTmp2ME8tWG80WWxPcGhDU194V2lyM2tNXzhxY1c5clo4dUZOdmItRk5jTGdMRXlwR3dNS25uZk5pejNDVGFTbzlRc2V3Y0ZQSDlYRUcyaFA4OGhMOVMzcXlSUlhSMlZCeThPX0ozTVhWQW1lYmpHMWJmejB2YVN0T1BLV0s?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Kosova parlamentosu Albin Kurti'yi başbakan olarak yeniden seçti, siyasi kriz devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-13T18:01:10.157807+00:00",
+  "type": "news",
+  "cluster_id": "c28c926b6b7e0"
+ },
+ {
   "title": "Bakan Fidan, Şara ile görüştü",
   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-sara-ile-gorustu-956720.html",
   "source": "TRT Haber",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-04T09:01:20.871742+00:00",
   "type": "news",
   "cluster_id": "c60ac65ef1b6f"
- },
- {
-  "title": "BBVA Research tarih işaret etti: Merkez Bankası ne zaman faiz indirecek?",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/bbva-research-tarih-isaret-etti-merkez-bankasi-ne-zaman-faiz-indirecek-2526336",
-  "source": "Cumhuriyet",
-  "summary_tr": "BBVA Research, temmuz enflasyon verilerinin ardından yıl sonu enflasyon tahminini sabit tuttu; hizmet enflasyonundaki direnç nedeniyle TCMB faiz indirişine dikkat çekti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-04T09:01:20.871742+00:00",
-  "type": "news",
-  "cluster_id": "c909929227a3d"
- },
- {
-  "title": "Gazze ateşkesinde son durum: İsrail'in işgal politikası devam ediyor",
-  "link": "https://www.aa.com.tr/tr/analiz/-gazze-ateskesinde-son-durum-israilin-isgal-politikasi-devam-ediyor/4017805",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail, Gazze ateşkesinde esneklik gösterse de işgal politikasını sürdürüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-04T09:01:20.871742+00:00",
-  "type": "news",
-  "cluster_id": "c04aa3ad83e43"
- },
- {
-  "title": "Terörsüz Türkiye sürecinde gözler TBMM'de",
-  "link": "https://www.trthaber.com/haber/gundem/terorsuz-turkiye-surecinde-gozler-tbmmde-953033.html",
-  "source": "TRT Haber",
-  "summary_tr": "AK Parti, Türkiye'yi terör gündeminden çıkarmayı hedefleyen 'Terörsüz Türkiye' sürecinin hukuki altyapısı için TBMM'ye 'Çerçeve Yasa' taslağı sundu.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-04T09:01:20.871742+00:00",
-  "type": "news",
-  "cluster_id": "c6ec248fdeaec"
- },
- {
-  "title": "'Çerçeve yasa' taslağı: AKP'nin Meclis'e sunduğu metinde neler var?",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcG9mSGUxc0Z6OVNIeTJrMWFWa2lveTFFUks3VzJ6MHI0dHBKczZXNGRueUFiVlNlb3JFTjMyLVZub01ScEJON2U3OHFiclBtbl9WMDA1bFpaV25XaVNMbFJZNFZmMlEtclhDZU5NNmJON0xDTjJhczdmOEFZcWZZS2Ffak5LUlRtN1Q4UjJPb1pvVUVtQ0s0dUlNNmN3SU45?oc=5",
-  "source": "soL",
-  "summary_tr": "AK Parti, 'Terörsüz Türkiye' sürecinin hukuki altyapısı için TBMM'ye 'Çerçeve Yasa' taslağı sundu.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-04T09:01:20.871742+00:00",
-  "type": "news",
-  "cluster_id": "c1bc6abd719cb"
- },
- {
-  "title": "Ukraine strikes three warehouses across Russia, killing five, local officials say",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSXNqV053eGo1Y3UtWjV1S0VuZGFOdU1KWlJRb2pDZkFlTl9ETEhta21XNjIxaDMwRDU5S1c0bTBLemdLdkVEN1FZa19jVU5ZWkRHRDd6aVBhZFNYYnRXU3pkbnN3UWlaYnNyMG12Tm9jMF9ZdkczOFQ0OTNXOHEzWTlQZ0NCRkJWUXhhYXdrSGhBdGV1anpWWXdxS053WEwydjAxSVNYanI4SjBUX0xzcEFET2VFMnE0U2Y3NERmbXFLX3h4VklR?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ukrayna, Rusya'da üç depo hedefine saldırı düzenleyerek beş kişi öldürdüğünü duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-04T09:01:20.871742+00:00",
-  "type": "news",
-  "cluster_id": "c6c9325829377"
- },
- {
-  "title": "Tarım emtia piyasasında geçen ay buğday rüzgarı esti",
-  "link": "https://www.sozcu.com.tr/tarim-emtia-piyasasinda-gecen-ay-bugday-ruzgari-esti-p342234",
-  "source": "Sözcü",
-  "summary_tr": "Tarım emtia piyasasında El Nino, küresel kuraklık ve jeopolitik gerilimler nedeniyle geçen ay buğday fiyatlarında sert yükselişler görüldü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-04T09:01:20.871742+00:00",
-  "type": "news",
-  "cluster_id": "c21c8bd50a56d"
  }
 ]
