@@ -1,5 +1,65 @@
 [
  {
+  "title": "Bakan Fidan duyurdu: Erdoğan yakın gelecekte Suriye'yi ziyaret edecek",
+  "link": "https://www.sozcu.com.tr/bakan-fidan-duyurdu-erdogan-yakin-gelecekte-suriye-yi-ziyaret-edecek-p357862",
+  "source": "Sözcü",
+  "summary_tr": "Dışişleri Bakanı Fidan, Suriye ziyaretinin ardından Cumhurbaşkanı Erdoğan'ın yakın gelecekte Suriye'yi ziyaret edeceğini duyurdu.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-13T14:01:09.897854+00:00",
+  "type": "news",
+  "cluster_id": "ce7ea3629e5c3"
+ },
+ {
+  "title": "İsveç'te halk genel seçimlerde oylarını kullanıyor",
+  "link": "https://www.sozcu.com.tr/isvec-te-halk-genel-secimlerde-oylarini-kullaniyor-p357852",
+  "source": "Sözcü",
+  "summary_tr": "İsveç'te 8 milyondan fazla kayıtlı seçmen genel seçimlerde oylarını kullanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-13T14:01:09.897854+00:00",
+  "type": "news",
+  "cluster_id": "c84b084f4c519"
+ },
+ {
+  "title": "Suriye Dışişleri Bakanı Şeybani: Türkiye ile stratejik ortaklığımız hızla ilerliyor",
+  "link": "https://www.aa.com.tr/tr/dunya/suriye-disisleri-bakani-seybani-turkiye-ile-stratejik-ortakligimiz-hizla-ilerliyor/4055970",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Suriye Dışişleri Bakanı Şeybani, Türkiye ile stratejik ortaklığın hızla ilerlemekte olduğunu belirtti.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-13T14:01:09.897854+00:00",
+  "type": "news",
+  "cluster_id": "c6689359e8695"
+ },
+ {
+  "title": "Irak, İran sınırındaki 3 sınır kapısını yeniden açıyor",
+  "link": "https://www.trthaber.com/haber/dunya/irak-iran-sinirindaki-3-sinir-kapisini-yeniden-aciyor-956711.html",
+  "source": "TRT Haber",
+  "summary_tr": "Irak, İran sınırındaki 3 sınır kapısını yeniden açmaya karar verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-13T14:01:09.897854+00:00",
+  "type": "news",
+  "cluster_id": "cbb5e593d24c3"
+ },
+ {
+  "title": "Enflasyon tahmini (OVP 2027-2029): %28,4 (2027)",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMDl2bWcxVDJqMWlrQ2ktX3dZMkVpTXBzZ2syeWVSRURKa2lIbjN6RGJUU1ZnUzNaV3JhSUdaUktoVlJWVENNQ1lWSnFmSkM1RFl1LWpqbnlMRDc0bFpYbGl2M2ZCYUJBM3hzejF4UUd4MUE4dWZFR0I2NzZLZHBuQ0N0SXQtcEt6aFd5TXhob0E3SXJYZmNDWFRzNFVmSWZGLWhoTFVNSUpENWtBeDUxUlhfSQ?oc=5",
+  "source": "TÜİK",
+  "summary_tr": "%28,4",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-09-13T14:01:09.897854+00:00",
+  "type": "forecast",
+  "cluster_id": ""
+ },
+ {
   "title": "Saudi pipeline outage threatens loss of 4% of global oil supply",
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb3FTbnBqRHlWOWIwM29yRVE2dmJnTlJOcVY0RV9oMFdYRm1WcXhCZThObGp5d1lHdE9GQVBkM080dlhZT0VleG1BUm1kOHpWbEJPZUcwTnNIaEJ2ZnpsZWJyd0RpWjdMcUpGMFotNnRmQ3lMeFRpMC1mUnlxbm1nVlFMSGdMWC1LU3lBMGZlOGoyN21QZWh3dU0yM3hVUU1pMDQ2RDdWRUJFcy0t?oc=5",
   "source": "Reuters",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-04T07:01:16.759271+00:00",
   "type": "news",
   "cluster_id": "c7eb16fad09f7"
- },
- {
-  "title": "Menderes Belediye Başkanı İlkay Çiçek dahil 13 kişi gözaltına alındı",
-  "link": "https://www.bbc.com/turkce/articles/c0kmpngkdpmo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Menderes Belediye Başkanı İlkay Çiçek dahil 13 kişi rüşvet ve irtikap soruşturmasında gözaltına alındı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-04T07:01:16.759271+00:00",
-  "type": "news",
-  "cluster_id": "cec4b5ff33f87"
- },
- {
-  "title": "'Sokak hakkı' adı altında haraç isteyen suç örgütüne operasyon: 23 gözaltı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/sokak-hakki-adi-altinda-harac-isteyen-suc-orgutune-operasyon-23-gozalti-2526289",
-  "source": "Cumhuriyet",
-  "summary_tr": "İş insanlarından 'Sokak hakkı' adı altında haraç isteyen suç örgütüne operasyon: 23 gözaltı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-04T07:01:16.759271+00:00",
-  "type": "news",
-  "cluster_id": "ce3dd9c97f2e2"
- },
- {
-  "title": "Trump, yüksek kar elde eden petrol şirketlerine tepki gösterdi",
-  "link": "https://www.sozcu.com.tr/trump-yuksek-kar-elde-eden-petrol-sirketlerine-tepki-gosterdi-p342188",
-  "source": "Sözcü",
-  "summary_tr": "ABD Başkanı Trump, yüksek kar elde eden petrol şirketlerine tepki gösterdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-04T07:01:16.759271+00:00",
-  "type": "news",
-  "cluster_id": "c737bd60c0ebc"
- },
- {
-  "title": "Haksız Türk vatandaşlığı kazandırdığı tespit edilen suç örgütüne operasyon",
-  "link": "https://www.aa.com.tr/tr/gundem/haksiz-turk-vatandasligi-kazandirdigi-tespit-edilen-suc-orgutune-operasyon-/4017632",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Sahte ekspertiz raporlarıyla haksız Türk vatandaşlığı kazandıran suç örgütüne operasyon düzenlendi.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-04T07:01:16.759271+00:00",
-  "type": "news",
-  "cluster_id": "cffe4e9381ccf"
- },
- {
-  "title": "Menderes Belediyesine yönelik rüşvet ve irtikap soruşturmasında 13 şüpheli gözaltına alındı",
-  "link": "https://www.aa.com.tr/tr/gundem/menderes-belediyesine-yonelik-rusvet-ve-irtikap-sorusturmasinda-13-supheli-gozaltina-alindi/4017608",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Menderes Belediyesine yönelik rüşvet ve irtikap soruşturmasında Başkan İlkay Çiçek dahil 13 şüpheli gözaltına alındı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-04T07:01:16.759271+00:00",
-  "type": "news",
-  "cluster_id": "cb7a4daeaeef2"
  }
 ]
