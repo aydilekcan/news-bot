@@ -1,5 +1,77 @@
 [
  {
+  "title": "Dünyanın en büyüğüydü! Türk ekonomisinin ağır topu tüm fabrikalarını kapatıyor",
+  "link": "https://www.sozcu.com.tr/dunyanin-en-buyuguydu-turk-ekonomisinin-agir-topu-tum-fabrikalarini-kapatiyor-p357809",
+  "source": "Sözcü",
+  "summary_tr": "Dünyanın en büyük denim üreticisi Türk şirketi tüm fabrikalarını kapatıyor; ekonomik kriz ve tüketim daralması sektörü vuruyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-13T11:01:09.476940+00:00",
+  "type": "news",
+  "cluster_id": "c1f035d15b676"
+ },
+ {
+  "title": "Kremlin: Rusya, ABD ve Ukrayna arasındaki müzakereler ekimde başlayabilir",
+  "link": "https://www.aa.com.tr/tr/dunya/kremlin-rusya-abd-ve-ukrayna-arasindaki-muzakereler-ekimde-baslayabilir/4055778",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Kremlin sözcüsü, Rusya-ABD-Ukrayna arasında krizin çözümüne yönelik müzakerelerin Ekim ayında başlayabileceğini belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-13T11:01:09.476940+00:00",
+  "type": "news",
+  "cluster_id": "c10ba8f5c7904"
+ },
+ {
+  "title": "Fransız otomotiv devi gözünü Türkiye'ye dikti: Dünyada sadece Bursa'da üretilecek",
+  "link": "https://www.sozcu.com.tr/fransiz-otomotiv-devi-gozunu-turkiye-ye-dikti-dunyada-sadece-bursa-da-uretilecek-p357810",
+  "source": "Sözcü",
+  "summary_tr": "Renault, Bursa'daki Oyak Renault fabrikasında dünyada sadece orada üretilecek olan Dacia Striker modelini geliştiriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-13T11:01:09.476940+00:00",
+  "type": "news",
+  "cluster_id": "c3088dcdbd7f6"
+ },
+ {
+  "title": "Saudi shares drop after drone attacks target key oil pipeline",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOel9YQnZiN2dhLU1ROHQtdHR3WHlDN2gxakJzdUZIaTlBa19JNVM2RlNHcVdiRG5EQ1pQRmlRemQ5S2RLVUt6MGw5eU92YjYwWHNfQnk2c1k5bktpNGlhaGx0a0kwX0lzeVZTaHE5ekdneFlYbVhGOXgtMklVZzFWT1prTzFjYlpDWW1zQXltUEt4ZlRGOUlpQW9zclFYaVR3NnlLalAwZ2xZb3dYWUFxa2ttSWdrdw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Drone saldırısı Suudi Arabistan'ın anahtar petrol boru hattını hedef aldı; borsa değerleri düştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-13T11:01:09.476940+00:00",
+  "type": "news",
+  "cluster_id": "ce959ba2ab338"
+ },
+ {
+  "title": "Russian drone attack injures five in Ukraine's Odesa, officials say",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZFIyUS1HT3JDbGVMeFdxNzBQcHB0TFJXRlRGRnNuYjgwVGpUWW9CWER1QlJIUFZhT3l5LVlzQThxdTRlbXpPbWlucXYtSE9GRkpyOG5FNS12TkhfaTJNdmNIb25rYUZObThRM1ZadDEzSVlNelY1Zm12SHgxZkNUZXhuRHZzVERQZXp0ZE5qQjFNbExmTUZud2RJbkFac1FUdm1uN3ZqakFfbHJBWkN4Sg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya, Ukrayna'nın Odesa şehrine drone saldırısı düzenledi; 5 kişi yaralandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-13T11:01:09.476940+00:00",
+  "type": "news",
+  "cluster_id": "cecd64e310127"
+ },
+ {
+  "title": "Yerli üretim hedefi: Kimlik ve pasaport çipleri Türkiye'de üretilecek",
+  "link": "https://www.trthaber.com/haber/bilim-teknoloji/yerli-uretim-hedefi-kimlik-ve-pasaport-cipleri-turkiyede-uretilecek-956702.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye, kimlik, pasaport ve endüstriyel çiplerin yurt içinde üretilmesi için modern üretim tesisleri kuracak.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-13T11:01:09.476940+00:00",
+  "type": "news",
+  "cluster_id": "c2d8c0a2b70b2"
+ },
+ {
   "title": "Rusya: Ukrayna'da lojistik merkezi, enerji ve demir yolu altyapı tesislerini vurduk",
   "link": "https://www.aa.com.tr/tr/dunya/rusya-ukraynada-lojistik-merkezi-enerji-ve-demir-yolu-altyapi-tesislerini-vurduk/4055657",
   "source": "Anadolu Ajansı",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-04T05:01:04.913357+00:00",
   "type": "news",
   "cluster_id": "c9b64ab607e31"
- },
- {
-  "title": "2 dönüm arazisi olana müstakil ev müjdesi: Resmi Gazete'de yayınlandı",
-  "link": "https://www.sozcu.com.tr/tarim-arazisinde-bungalov-yapma-sartlari-degisti-yeni-arazi-siniri-belli-oldu-p342136",
-  "source": "Sözcü",
-  "summary_tr": "Tarım arazilerine bungalov ve bağ evi yapılabilmesi için gereken asgari arazi büyüklüğü 5 dönümden 2 dönüme indirildi.",
-  "metric": "Asgari arazi gereksinimi 5 dönüm -> 2 dönüm (-60%)",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-04T05:01:04.913357+00:00",
-  "type": "news",
-  "cluster_id": "c1a2df2749435"
- },
- {
-  "title": "Yüksek Askeri Şura toplanıyor",
-  "link": "https://www.trthaber.com/haber/gundem/yuksek-askeri-sura-toplaniyor-952997.html",
-  "source": "TRT Haber",
-  "summary_tr": "Cumhurbaşkanı Erdoğan'ın başkanlığında Yüksek Askeri Şura (YAŞ) Beştepe'de toplanıyor. Toplantıda Türk Silahlı Kuvvetlerinde terfi, atama ve emekliye sevk kararları alınacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-04T04:01:02.865420+00:00",
-  "type": "news",
-  "cluster_id": "cbd802ea9f1f8"
- },
- {
-  "title": "Oil ticks up after selloff as talks to end US-Iran war remain uncertain",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0VaWUlWWUxJMXVaM1NiVS0yeWUtYWhpTlo4MTh0ZzZkZms3aFVLNVRfR1JISmxrY2d2VmM1UWFKTVFtSlEzYmt0N3ZuRUFLWXd5bzh5QkVXOVRxUVh3VHRnOWkzanJWb2tqUU13cURMRFR3TFphYkFzRVRsbnY5aEpDdTJLLVNLOXpwYzRNckVGQW9TcThhNHdKVlVTZ2Q4SkRraWR5TjlvbmN4VE1rLWViVFNTRUZU?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Petrol fiyatları, ABD-İran savaşını sonlandırma görüşmeleri belirsizliği nedeniyle dalgalı seyir gösteriyor. Petrol piyasası satışlardan sonra hafif yükseliş yaşanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-04T04:01:02.865420+00:00",
-  "type": "news",
-  "cluster_id": "c83957e730dcc"
- },
- {
-  "title": "Temmuzda verdiler, ağustosta aldılar",
-  "link": "https://www.sozcu.com.tr/temmuzda-verdiler-agustosta-aldilar-p342124",
-  "source": "Sözcü",
-  "summary_tr": "Emeklilerin temmuzda alınan 3.552 liralık zam, ödeme gecikmesi nedeniyle enflasyon etkisiyle 412 lira azaldı.",
-  "metric": "Emekli zam etkisi 3.552 TL -> 3.140 TL (-412 TL / -%11,6)",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-08-04T03:01:05.754615+00:00",
-  "type": "news",
-  "cluster_id": "c760f7d32b8ae"
- },
- {
-  "title": "Şehit yakını ile gazi aylıklarına artış teklifi neler içeriyor?",
-  "link": "https://www.bbc.com/turkce/articles/cdx7rlzrxqko?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "AKP ve MHP, şehit yakınları ve gazilerin aylıklarına artış içeren çerçeve yasa teklifini açıkladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-04T03:01:05.754615+00:00",
-  "type": "news",
-  "cluster_id": "c449a85ebdb8a"
- },
- {
-  "title": "PKK’lıları Habur değil bu kez Ankara salacak",
-  "link": "https://www.sozcu.com.tr/pkk-lilari-habur-degil-bu-kez-ankara-salacak-p342129",
-  "source": "Sözcü",
-  "summary_tr": "PKK'lılara yönelik 'Terörsüz Türkiye' süreci kapsamında hazırlanan yasa teklifinin bugün TBMM'ye gelmesi bekleniyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-04T03:01:05.754615+00:00",
-  "type": "news",
-  "cluster_id": "cdcd9af09bea4"
  }
 ]
