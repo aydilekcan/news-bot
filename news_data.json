@@ -1,5 +1,41 @@
 [
  {
+  "title": "Halep, Haseke, İdlib... Suriye'de halk akaryakıt zamları için sokağa çıktı: Yolları kapattılar",
+  "link": "https://www.cumhuriyet.com.tr/dunya/halep-haseke-idlib-suriye-de-halk-akaryakit-zamlari-icin-sokaga-cikti-yollar-kapattilar-2537274",
+  "source": "Cumhuriyet",
+  "summary_tr": "Suriye'de hükümetin akaryakıt zamlarına karşı Halep, Haseke ve İdlib'de protesto ve yol kapanması yaşandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-13T22:01:04.355237+00:00",
+  "type": "news",
+  "cluster_id": "c09262349cfd6"
+ },
+ {
+  "title": "İsrailli Bakan'dan 'NAZA' yönetmenlerine tehdit!",
+  "link": "https://www.cumhuriyet.com.tr/dunya/israilli-bakan-dan-naza-yonetmenlerine-tehdit-2537264",
+  "source": "Cumhuriyet",
+  "summary_tr": "İsrail Kültür Bakanı Miki Zohar, Gazze'deki sivilcileri belgeleyen NAZA belgeselinin yönetmenlerini vatandaşlıktan atmakla tehdit etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-13T22:01:04.355237+00:00",
+  "type": "news",
+  "cluster_id": "cc63c7860b6f8"
+ },
+ {
+  "title": "İsrailli bakan, Gazze'deki sivil katliamı belgeleyen \"NAZA\" yönetmenlerini vatandaşlıktan atmakla tehdit etti",
+  "link": "https://www.aa.com.tr/tr/dunya/israilli-bakan-gazzedeki-sivil-katliami-belgeleyen-naza-yonetmenlerini-vatandasliktan-atmakla-tehdit-etti/4056234",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail Kültür Bakanı Miki Zohar, Gazze'deki sivilcileri belgeleyen NAZA belgeselinin yönetmenlerini vatandaşlıktan atmakla tehdit etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-13T22:01:04.355237+00:00",
+  "type": "news",
+  "cluster_id": "c0f36a3befd3d"
+ },
+ {
   "title": "FETÖ firarisi Zekeriya Öz dahil 20 kişi hakkında zamanaşımı kaldırıldı",
   "link": "https://www.cumhuriyet.com.tr/siyaset/feto-firarisi-zekeriya-oz-dahil-20-kisi-hakkinda-zamanasimi-kaldirildi-2537247",
   "source": "Cumhuriyet",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-04T10:01:09.545997+00:00",
   "type": "news",
   "cluster_id": "c69d1ba6321a5"
- },
- {
-  "title": "Aramco posts 44% rise in net profit as Iran war drives up oil prices",
-  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXFsci0ySk53THJaUktvbFlJd0ZjTzhFNmJSU0gtY1B5RElscWFhWHJLWTcxdlJ1SDhhV1dJcmQteVdaT0NLekZaMU05V2tockhvaGFtYlgzbk5OdWpDVEM4TmFoX2FpZFMyQWdxTzJ2SkdzYVExYVdRWHBKVlNPcTBzX1hub05WWk45TE1HVDM?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Aramco'nun net karı İran savaşının petrol fiyatlarını yükseltmesiyle %44 artış gösterdi.",
-  "metric": "Aramco net karı +%44",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-04T10:01:09.545997+00:00",
-  "type": "news",
-  "cluster_id": "cd845f5e3e8d6"
- },
- {
-  "title": "Yüksek Askeri Şura (YAŞ) toplandı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/yuksek-askeri-sura-yas-toplandi-2526362",
-  "source": "Cumhuriyet",
-  "summary_tr": "Cumhurbaşkanı Erdoğan başkanlığında Yüksek Askeri Şura (YAŞ) toplantısı başladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-04T10:01:09.545997+00:00",
-  "type": "news",
-  "cluster_id": "c31242cd35ae6"
- },
- {
-  "title": "Yüksek Askeri Şura, Cumhurbaşkanı Erdoğan başkanlığında toplandı",
-  "link": "https://www.aa.com.tr/tr/gundem/yuksek-askeri-sura-cumhurbaskani-erdogan-baskanliginda-toplandi/4017880",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Cumhurbaşkanı Erdoğan başkanlığında Yüksek Askeri Şura (YAŞ) toplantısı başladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-04T10:01:09.545997+00:00",
-  "type": "news",
-  "cluster_id": "c31242cd35ae6"
  }
 ]
