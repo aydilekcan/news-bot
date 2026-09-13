@@ -1,5 +1,41 @@
 [
  {
+  "title": "Myanmar government revokes status and seeks action against UN envoy Kyaw Moe Tun",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNjM4UWs4a29DaHhDdGItQzhzZWQ4bGdCdHQ3UzBSZVVjVG8zR01tZG1PLUdjbkNKdUVzUE0waFY0Vkg0LXFIWXJqMTQ4b0NaUzR3T0RzSFlzX3dvZ25qTkpPS21jWnFuZWlKMVh2NWJCOV9tYV9qc3hFc0N3NTBMS0I2M1RFUnp2bWxWVlZPd3dOeHZ5TGp5LWJBQkpnTjEzVERrWWJPcnBuUkd5YnRfMldtZzlCbTZ3LTA4QjNOZzIzYlM0OGRUMzZWZw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Myanmar hükümeti BM temsilcisi Kyaw Moe Tun'un statüsünü iptal etti ve karşı eylem talep etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-13T06:01:07.687685+00:00",
+  "type": "news",
+  "cluster_id": "c6d300f50b1d5"
+ },
+ {
+  "title": "Swedes vote in election that could usher far right into government",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZnVER1ZkMGJZRERjcmI4MDdhUE4tX29PYlEzTkt4cHFmOHpMVktaOXhQVVNsd21oNkplc2JUOWxaS3NmTmFJTVNpWW5ydnRVTll5dzljNlZPOVQtVHNzVmpmMVNPMTFBYVJCdFVwYW54RXd1ckJEVHlWcEQ1NHoyMWJDdHp6QmVPLWx4OElKVG44RVpfRVZhRG8zVng1V1BxOF9Nd3k1SmdsY2t0WFlYaXR3?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İsveç seçimlerinde sağcı partilerin hükümete girme olasılığı yüksek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-13T06:01:07.687685+00:00",
+  "type": "news",
+  "cluster_id": "ca2c554434439"
+ },
+ {
+  "title": "AKP'li isim açıkladı: İşte AKP'nin Erdoğan için adaylık planı",
+  "link": "https://www.sozcu.com.tr/akp-li-isim-acikladi-iste-akp-nin-erdogan-icin-adaylik-plani-p357701",
+  "source": "Sözcü",
+  "summary_tr": "AKP Seçim İşleri Başkanı Erdoğan'ın önceki seçimlerdeki aday olup olmayacağı konusunda açıklama yaptı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-13T06:01:07.687685+00:00",
+  "type": "news",
+  "cluster_id": "c40ee5fc1843b"
+ },
+ {
   "title": "Zeynel Balcı: ABD-İran savaşı sürdükçe petrol fiyatları yüksek kalmaya devam edecek",
   "link": "https://www.diken.com.tr/zeynel-balci-abd-iran-savasi-surdukce-petrol-fiyatlari-yuksek-kalmaya-devam-edecek/?utm_source=rss&utm_medium=rss&utm_campaign=zeynel-balci-abd-iran-savasi-surdukce-petrol-fiyatlari-yuksek-kalmaya-devam-edecek",
   "source": "Diken",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-03T19:01:07.601478+00:00",
   "type": "news",
   "cluster_id": "cd3be8dea4cef"
- },
- {
-  "title": "Yeni Parti'ye ilk 5 günde 240 milyon TL bağış yapıldı",
-  "link": "https://www.sozcu.com.tr/yeni-parti-bagis-besinci-gun-p342073",
-  "source": "Sözcü",
-  "summary_tr": "Yeni Parti'nin beş günlük bağış kampanyasına 113 bin 678 kişi katılarak 240 milyon TL bağış yapıldı.",
-  "metric": "Yeni Parti bağışı: 240 milyon TL (5 günde, 113.678 bağışçı)",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-03T18:01:09.971464+00:00",
-  "type": "news",
-  "cluster_id": "c03e3f777d26a"
- },
- {
-  "title": "Rusya: Ukrayna'nın askeri yük taşıyan gemilerine saldırı düzenledik",
-  "link": "https://www.trthaber.com/haber/dunya/rusya-ukraynanin-askeri-yuk-tasiyan-gemilerine-saldiri-duzenledik-952973.html",
-  "source": "TRT Haber",
-  "summary_tr": "Rusya Savunma Bakanlığı, Ukrayna'nın askeri yük taşıyan gemilerine saldırı düzenlediklerini duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-03T18:01:09.971464+00:00",
-  "type": "news",
-  "cluster_id": "c0d54228797a6"
- },
- {
-  "title": "O şehirde tarihi kırılma: CHP’li belediye başkanı kalmadı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/o-sehirde-tarihi-kirilma-chp-li-belediye-baskani-kalmadi-2526198",
-  "source": "Cumhuriyet",
-  "summary_tr": "Edirne'de CHP yönetim değişikliğinin ardından tüm CHP'li belediye başkanları partilerinden ayrıldı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-03T18:01:09.971464+00:00",
-  "type": "news",
-  "cluster_id": "ca79053f5f882"
  }
 ]
