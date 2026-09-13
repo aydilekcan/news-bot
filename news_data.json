@@ -1,5 +1,41 @@
 [
  {
+  "title": "Iranian cargo ship is struck, and talks between Tehran and its neighbors are postponed",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMG04XzJlaFg3N0hjVGVucURCODFNSFJKYkdZaHY0aWZxMWJCXzlPY1pGOUNrWHRhWkc3NnJXQms3X1ZxaHBxOTBHTUZVNUFWWXBJV0hLcG9PaEg0Nm9VaTQxbVNfallyV0ZhVzlfMGpqaWMwLTV2ZmYwRGZYNm9EUzFLMnMzZkREbzRlR1JqR0tBd1Fs?oc=5",
+  "source": "AP",
+  "summary_tr": "İran'a ait kargo gemisi vuruldu; Tahran ve komşu ülkeler arasında görüşmeler ertelendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-13T20:01:10.154551+00:00",
+  "type": "news",
+  "cluster_id": "cb246c9c95538"
+ },
+ {
+  "title": "Exit polls show left-wing opposition ahead in Swedish vote, projected to win majority",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOanNaU2dOb0c3MzZHbjdEeTc5ODdNOWhXOXJzNU5aNm56elRKSlo5UmRwdndlaTdKSkkySmxDVmdtaXJ3cmNzYzNIX0xrOHRNVmRwWHI0ZmM2SFlVMWQ1UVFkTVNjeUpEVnBMaXVuV1BMSDh3ZWxyTzBIRndTUDJmSlFOa0F1Y2RrbWtmc1ppWU9qSDZ3ZkRtX2dUWWdzcF9tTEJoVXp2TQ?oc=5",
+  "source": "AP",
+  "summary_tr": "İsveç'te yapılan oylamada sol muhalefet öncü konumdadır ve çoğunluk kazanması beklenmektedir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-13T20:01:10.154551+00:00",
+  "type": "news",
+  "cluster_id": "c0b8c4deb5b7a"
+ },
+ {
+  "title": "Marketlerdeki ürünlerde yeni dönem 27 Eylül'de başlıyor",
+  "link": "https://www.sozcu.com.tr/marketlerdeki-urunlerde-yeni-donem-27-eylul-de-basliyor-p357916",
+  "source": "Sözcü",
+  "summary_tr": "AB'de 27 Eylül'den itibaren milyonlarca ürünü ilgilendiren yeni tüketici kuralları yürürlüğe girecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-13T20:01:10.154551+00:00",
+  "type": "news",
+  "cluster_id": "cdaf5968ebb8c"
+ },
+ {
   "title": "Boris Johnson'ın geçtiği Ukrayna sınırı kısa bir süre sonra Rusya tarafından vuruldu",
   "link": "https://www.bbc.com/turkce/articles/c207gpxnrggo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-04T10:01:09.545997+00:00",
   "type": "news",
   "cluster_id": "cd835ccb12624"
- },
- {
-  "title": "Çerçeve yasa teklifinin adı belli oldu",
-  "link": "https://www.sozcu.com.tr/cerceve-yasa-teklifinin-adi-belli-oldu-p342256",
-  "source": "Sözcü",
-  "summary_tr": "Çerçeve yasa teklifinin adı 'Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesi' olarak belirlendi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-04T10:01:09.545997+00:00",
-  "type": "news",
-  "cluster_id": "ca0bd33a16307"
- },
- {
-  "title": "ABD-İran hattında müzakere bilmecesi: Trump 'Görüşüyoruz' dedi, Tahran yalanladı",
-  "link": "https://www.cumhuriyet.com.tr/dunya/abd-iran-hattinda-muzakere-bilmecesi-trump-gorusuyoruz-dedi-tahran-yalanladi-2526329",
-  "source": "Cumhuriyet",
-  "summary_tr": "Trump, İran ile savaşı sona erdirmeye yönelik görüşmelerin sürdüğünü açıklayarak Tahran'a 'son şans' uyarısında bulundu; İran yalanladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-04T09:01:20.871742+00:00",
-  "type": "news",
-  "cluster_id": "c19c690d595ca"
- },
- {
-  "title": "Goldman Sachs: Türkiye'de faizin uzun süre yüksek kalması gerekebilir",
-  "link": "https://www.diken.com.tr/goldman-sachs-turkiyede-faizin-uzun-sure-yuksek-kalmasi-gerekebilir/?utm_source=rss&utm_medium=rss&utm_campaign=goldman-sachs-turkiyede-faizin-uzun-sure-yuksek-kalmasi-gerekebilir",
-  "source": "Diken",
-  "summary_tr": "Goldman Sachs, Türkiye'de faizin uzun süre yüksek kalması gerekebileceğini belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-04T09:01:20.871742+00:00",
-  "type": "news",
-  "cluster_id": "c60ac65ef1b6f"
  }
 ]
