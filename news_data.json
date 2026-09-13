@@ -1,5 +1,53 @@
 [
  {
+  "title": "İmralı heyeti Öcalan'la görüştü",
+  "link": "https://www.diken.com.tr/imrali-heyeti-ocalanla-gorustu/?utm_source=rss&utm_medium=rss&utm_campaign=imrali-heyeti-ocalanla-gorustu",
+  "source": "Diken",
+  "summary_tr": "İmralı heyeti Öcalan'la görüştü; YENİ Parti barış süreci yasasına evet dedi ve Meclis yasayı kabul etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-09-13T15:01:09.970684+00:00",
+  "type": "news",
+  "cluster_id": "cb97afb7fd5af"
+ },
+ {
+  "title": "Bakan Fidan: Suriye'deki bütün silahlı unsurların merkezi devlet yapısı altında bütünleşmesi zaruridir",
+  "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-suriyedeki-butun-silahli-unsurlarin-merkezi-devlet-yapisi-altinda-butunlesmesi-zaruridir/4056008",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Dışişleri Bakanı Fidan: Suriye'deki bütün silahlı unsurların merkezi devlet yapısı altında bütünleşmesi zorunlu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-13T15:01:09.970684+00:00",
+  "type": "news",
+  "cluster_id": "c331aa779d7f7"
+ },
+ {
+  "title": "Ukrainian drones kill 2 in Russia as Moscow hits main port hub in Black Sea",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLS1ZV0kyb2w5c2szWC15SGgxZGVsMXM4dDNiVkdTdmRPcV9kQ001dnpkODMya0xkTWQtLWhoYzZsdlFUVFV5SnJaVGpUbUNaaW4xNEN0VTVGdDlRempoRzhMYV9PcGo0UWhjUkhlZnJMRHVVVzB6WDBybXVMY1dfM181b3JYXzZIclJpU0xHbjRPdVpmUUJpbHFvdTYwdHFOWUVVYmp2M3hsN1hhcGJSbGRSV1Vqak0?oc=5",
+  "source": "AP",
+  "summary_tr": "Ukrayna Rusya'da hayatlar alan insansız hava aracı saldırıları düzenledi; Moskova Karadeniz'deki ana liman merkezini vurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-13T15:01:09.970684+00:00",
+  "type": "news",
+  "cluster_id": "ce1a630948cd1"
+ },
+ {
+  "title": "Saudi shares drop after pipeline attack, leading Gulf decline",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOel9YQnZiN2dhLU1ROHQtdHR3WHlDN2gxakJzdUZIaTlBa19JNVM2RlNHcVdiRG5EQ1pQRmlRemQ5S2RLVUt6MGw5eU92YjYwWHNfQnk2c1k5bktpNGlhaGx0a0kwX0lzeVZTaHE5ekdneFlYbVhGOXgtMklVZzFWT1prTzFjYlpDWW1zQXltUEt4ZlRGOUlpQW9zclFYaVR3NnlLalAwZ2xZb3dYWUFxa2ttSWdrdw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Suudi Arabistan borsası boru hattı saldırısı sonrasında düştü; Körfez bölgesi hisse senetleri geriledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-13T15:01:09.970684+00:00",
+  "type": "news",
+  "cluster_id": "c460a8703c197"
+ },
+ {
   "title": "Bakan Fidan duyurdu: Erdoğan yakın gelecekte Suriye'yi ziyaret edecek",
   "link": "https://www.sozcu.com.tr/bakan-fidan-duyurdu-erdogan-yakin-gelecekte-suriye-yi-ziyaret-edecek-p357862",
   "source": "Sözcü",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-04T07:01:16.759271+00:00",
   "type": "news",
   "cluster_id": "c469d41f40dd6"
- },
- {
-  "title": "Otomobil ve hafif ticari araç pazarı ocak-temmuz döneminde yüzde 10,72 daraldı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/otomobil-ve-hafif-ticari-arac-pazari-ocak-temmuz-doneminde-yuzde-10-72-daraldi/4017635",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye'de otomobil ve hafif ticari araç satışları ocak-temmuz döneminde %10,72 daraldı: 638 bin 965 adet.",
-  "metric": "Araç satışları %10,72 azalış",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-04T07:01:16.759271+00:00",
-  "type": "news",
-  "cluster_id": "cb8086376b463"
- },
- {
-  "title": "İran Cumhurbaşkanı: Toprak bütünlüğümüzü koruyacağız ancak savaşı genişletme arzusunda değiliz",
-  "link": "https://www.aa.com.tr/tr/dunya/iran-cumhurbaskani-toprak-butunlugumuzu-koruyacagiz-ancak-savasi-genisletme-arzusunda-degiliz/4017628",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran Cumhurbaşkanı Pezeşkiyan: Toprak bütünlüğümüzü koruyacağız ancak savaşı genişletme arzusu yok.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-04T07:01:16.759271+00:00",
-  "type": "news",
-  "cluster_id": "c8ab039c971a0"
- },
- {
-  "title": "Rusya: Ukrayna'nın İHA saldırısında Moskova bölgesinde 5 kişi öldü",
-  "link": "https://www.aa.com.tr/tr/dunya/rusya-ukraynanin-iha-saldirisinda-moskova-bolgesinde-5-kisi-oldu/4017611",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Rusya: Ukrayna'nın İHA saldırısında Moskova bölgesinde 5 kişi öldü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-04T07:01:16.759271+00:00",
-  "type": "news",
-  "cluster_id": "ceb0db1edf678"
- },
- {
-  "title": "Former Ukrainian top commander sees no prospect of Kyiv joining NATO",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUF3YlFCU0JxWld4Ujd0Rjdpb3ZwaXYzQUo4akpwTlJFRGZGckNXMTVUdjdtME5xbE84bkhxMlhoczNrT212akoycGNCZFVTZzFLbW9zUzVwUVBWZmlpNkdDWUUwRmxsQ3YzeTVYWGZZMVhaTXB5WTVIZDdXX01rdWpNNW9KVGVYR1JuT0gwdDV3UEtKbmVEX2JweXRGNzlPOXRWQ0s0OEh0bkU?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Eski Ukrayna komutanı: Kyiv'in NATO'ya katılma ihtimali yok.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-04T07:01:16.759271+00:00",
-  "type": "news",
-  "cluster_id": "c7eb16fad09f7"
  }
 ]
