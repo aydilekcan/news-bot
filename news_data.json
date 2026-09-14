@@ -1,5 +1,53 @@
 [
  {
+  "title": "ABD Hazine Bakanlığı İran'ın finansal ağların ihbar edenlere ödül verecek",
+  "link": "https://www.sozcu.com.tr/abd-hazine-bakanligi-iran-in-finansal-aglarin-ihbar-edenlere-odul-verecek-p358242",
+  "source": "Sözcü",
+  "summary_tr": "ABD Hazine Bakanlığı, İran'ın finansal ağlarında ihbar edenlere ödül verecek. İran yönetiminin yaptırımlardan kaçmasını hedef alan operasyon.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-14T20:01:10.181490+00:00",
+  "type": "news",
+  "cluster_id": "c33dff642ccd8"
+ },
+ {
+  "title": "ABD, İran'ın yaptırımlardan kaçmasına yardım ettiği gerekçesiyle Rus bankasına yaptırım uyguladı",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-iranin-yaptirimlardan-kacmasina-yardim-ettigi-gerekcesiyle-rus-bankasina-yaptirim-uyguladi/4057172",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD, İran'ın yaptırımlardan kaçmasına yardım ettiği gerekçesiyle Rus bankasına yaptırım uyguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-14T20:01:10.181490+00:00",
+  "type": "news",
+  "cluster_id": "cfab571e55ada"
+ },
+ {
+  "title": "İzmir ulaşımının kart ihalesi Ethem Sancak’ın şirketine gitti: 818 milyon liralık imza atıldı",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRUg4d1Q5cklXeERBV1JFMmwxT2JSSlBWWTJBRW5zN01DTFJ5UE5SVGFNaEZKUkJ0WWg4dkw1Q0ZnT3FLMGVKcm16eWhCeFk5TkJPM2tQUEhKaUhpc0tRS0VUMEpuMGdPWE5YeUZuZ2RWR3QtN0tjNFR5QXJqZXcweHFsa25JSmlISW1QMlFHRkRRbW1KSHd2aS0yUk9uQWRWcC1IeXUyc3dDS1pjUm1yc2lUOENLUTNKSjNhT2lNWQ?oc=5",
+  "source": "soL",
+  "summary_tr": "İzmir ulaşımının kart ihalesini Ethem Sancak'ın şirketi kazandı; 818 milyon liralık sözleşme imzalandı.",
+  "metric": "İzmir ulaşım kart ihalesi: 818 milyon TL",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-14T20:01:10.181490+00:00",
+  "type": "news",
+  "cluster_id": "c4423ee474ba3"
+ },
+ {
+  "title": "Avrupa Birliği, Rusya'ya yönelik bireysel yaptırımları bir hafta uzattı",
+  "link": "https://www.trthaber.com/haber/dunya/avrupa-birligi-rusyaya-yonelik-bireysel-yaptirimlari-bir-hafta-uzatti-956824.html",
+  "source": "TRT Haber",
+  "summary_tr": "AB, Rusya'ya yönelik bireysel yaptırımları bir hafta uzattı. Bazı isimlerin listeden çıkarılmasına rağmen cezalar devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-14T20:01:10.181490+00:00",
+  "type": "news",
+  "cluster_id": "cdda63584ad7d"
+ },
+ {
   "title": "Sırbistan Cumhurbaşkanı Vucic, istifa edeceği tarihi duyurdu",
   "link": "https://www.cumhuriyet.com.tr/dunya/sirbistan-cumhurbaskani-vucic-istifa-edecegi-tarihi-duyurdu-2537559",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-04T22:01:27.738037+00:00",
   "type": "news",
   "cluster_id": "c666584fe9d0c"
- },
- {
-  "title": "AMD forecasts upbeat revenue on strong AI chip demand, but shares fall on lofty expectations",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZVI0Wnk2b3Jpb0tucDcyRzl0Y05zX2RwWTZWRU5CYVhyc3BLSjc5NVJDSlZFSGZNZ1F4S1FTei1saXVaaGFaTzFsUTkyUFFOelE5bEY3eTlyMURpYXlBbmNPUk1IOTJVaVlLcjVwWk82Qlhic3lfNndTa2N1ZnNHMXBLOFFTOVRFdXcwYWF0SWQ2a0hVcUNDeDA1U0hmRXdoMXJOVUpVeW1rbmU5dXhZOVFBaHBhRXlMa2pscWRn?oc=5",
-  "source": "Reuters",
-  "summary_tr": "AMD, güçlü yapay zeka çipi talebine dayanarak gelecek dönemi için iyimser tahmin yayımladı ancak hisse senedi yüksek beklentiler nedeniyle düştü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-04T22:01:27.738037+00:00",
-  "type": "news",
-  "cluster_id": "c181766f7e003"
- },
- {
-  "title": "US revokes visa of Brazilian ambassador over diplomatic dispute, official says",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeGswUzd6Zlg2REIyREhCUnEyNHJSNUdJelJudElYdkVlZ2FnRnBDdDIyTU81clNyM0RmcHpTTHFILVY0ZmItWXA1ZkVkcGFub1ktdFdLdlVSR0pIOXZ0MHB6YkxRdW5tb3NlY3JQd0RheUJ2Tm1JcE1yU2JtRFFESUNuaUhudkl5MGNaNGxFbTBwbC1OMTcyZW9IWjBzSzQxODhMZndxTVl6eTNSODB6dXkzT0xDX01OeDRNdzl3MkV3MkU?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, diplomatik anlaşmazlık nedeniyle Brezilya büyükelçisinin vize iznini iptal etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-04T22:01:27.738037+00:00",
-  "type": "news",
-  "cluster_id": "ce6e3ab986f10"
- },
- {
-  "title": "SpaceX quarterly revenue surges in debut results as satellite, AI businesses surge",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRkFZQkJoRmRlajg5SzYxaU5EQVZ3U2RYbUtyZHRfcndUVmpYb3lwWm5DNmtVMFY3bFZoLVEyaVJ0b0dmRWYxZ05vSXhRaWFLVXVlVG9MSmV2Qjg4OEFTNU4xLU5ST2NOMDh5b3NOM1J4cGgzQmFIRjBEOUNlZXhaQ1JoV0VPeS1ZWW9XX1ZSUnZJQ19kNHN6cnYwWHFoN25saEltTjZNQWhlclNieEJCQ1VWUGtDRC1xcjNEUmxjMG9KYVJLaGNHU2RJaw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "SpaceX'in uydu ve yapay zeka işletmelerindeki büyüme sonrasında üç aylık geliri keskin şekilde artış gösterdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-04T22:01:27.738037+00:00",
-  "type": "news",
-  "cluster_id": "c913bba48b382"
- },
- {
-  "title": "US stocks rush toward records, and Dow soars 1,000 as profits keep piling up and oil prices ease",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTV9wOHRxaHZsa1ZVU3B5ZUYzRnhVT1ptZVFCcFBzOFM1SkZzQ1o3ZGlIM2FHZWphMllYbHRrS0lNWUU5ZzhUOUFfcWEtZlZjSXRNZFIwbXZ2VmI0Q1hIZVhVYXFEMlFIeTdwUXF3bVNKWXNDUFZqNFg3VlNJMmhtc2JwS0d4aGgxYlFPcllrUVg5SlFOU2o2UzdlRE5ka09lOGc?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD hisse senetleri rekor seviyelere koşarken Dow endeksi 1.000 puan yükseldi; kurumsal kâr artışı ve petrol fiyatı düşüşü piyasaları destekledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-04T22:01:27.738037+00:00",
-  "type": "news",
-  "cluster_id": "ca338dc9b4903"
  }
 ]
