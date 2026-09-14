@@ -1,5 +1,41 @@
 [
  {
+  "title": "Motorin yeniden 100 TL'ye yaklaşıyor: Vergi freni neden yetmedi?",
+  "link": "https://www.dw.com/tr/motorin-yeniden-100-tl-ye-yaklaşıyor-vergi-freni-neden-yetmedi/a-79261370?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Motorine salı günü 6,62 TL zam bekleniyor; ağustos ayında ÖTV sıfırlanmasına rağmen motorin fiyatı yeniden 100 TL'ye yaklaşıyor.",
+  "metric": "Motorin fiyatı +6,62 TL (beklenen zam)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-14T14:01:09.989700+00:00",
+  "type": "news",
+  "cluster_id": "cf8ad501d9475"
+ },
+ {
+  "title": "Erken seçim sinyali mi? Emekli maaşında masada zam yerine başka formül var",
+  "link": "https://www.sozcu.com.tr/erken-secim-sinyali-mi-emekli-maasinda-masada-zam-yerine-baska-formul-var-p358187",
+  "source": "Sözcü",
+  "summary_tr": "Hazine ve Maliye Bakanlığı emekli maaşında zam yerine hane halkı toplam gelirini baz alan 'aile gelir sistemi' formülü masasına aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-14T14:01:09.989700+00:00",
+  "type": "news",
+  "cluster_id": "c655a50821879"
+ },
+ {
+  "title": "Fed öncesi piyasa diken üstünde: Petrol yükseldi, altın ve gümüş düştü",
+  "link": "https://www.sozcu.com.tr/fed-oncesi-piyasa-diken-ustunde-petrol-yukseldi-altin-ve-gumus-dustu-p358177",
+  "source": "Sözcü",
+  "summary_tr": "Fed faiz kararı öncesi piyasalarda dalgalanma: ons altın %1,5 düştü, petrol yükseldi, altın ve gümüş zayıfladı.",
+  "metric": "Ons altın -%1,5",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-14T14:01:09.989700+00:00",
+  "type": "news",
+  "cluster_id": "c928e186b1135"
+ },
+ {
   "title": "Fed rate hike on Wednesday now likely, say economists, and at least one more to follow: Reuters Poll",
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmtGdWt3WFV1bmpCR2REM0NZMkZIOEE2c3BRdFhrc21CcUpVUEx6QTdOdDZOQ3dGV2pmYmxOVDA3WjJoclVnZlB2cXl5R3NfSDh6cy0zWGRoUFU1UjA4LTVFckZHWkVBUkJpdWtFaTFvTWNjM1IzVi1sSGhZNmNETzdJcUhOOF9MN2pGSXNyelRkSFlIUktUT1ZjX1VIY2MxQV80NWNLVi1hS0s0bEpaR2FGbzRzeVE?oc=5",
   "source": "Reuters",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-04T18:01:21.581016+00:00",
   "type": "news",
   "cluster_id": "c4192fdd5f522"
- },
- {
-  "title": "TCMB Başkanı Karahan Erzurum'da \"Para Politikası ve Makroekonomik Görünüm\" başlıklı sunum yaptı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-erzurumda-para-politikasi-ve-makroekonomik-gorunum-baslikli-sunum-yapti/4018451",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "TCMB Başkanı Fatih Karahan, Erzurum'da para politikası ve makroekonomik görünüm sunumu gerçekleştirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-04T18:01:21.581016+00:00",
-  "type": "news",
-  "cluster_id": "cf1408656a2ae"
- },
- {
-  "title": "TSK Komuta Kademesi yeniden şekillendi",
-  "link": "https://www.aa.com.tr/tr/gundem/tsk-komuta-kademesi-yeniden-sekillendi/4018438",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Cumhurbaşkanı Erdoğan başkanlığında gerçekleştirilen Yüksek Askeri Şura (YAŞ) toplantısından sonra Türk Silahlı Kuvvetleri komuta kademesi yeniden şekillendirildi.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-04T18:01:21.581016+00:00",
-  "type": "news",
-  "cluster_id": "cff2fb2dfdd31"
- },
- {
-  "title": "YAŞ kararları sonrası TSK Komuta Kademesi yeniden şekillendi",
-  "link": "https://www.trthaber.com/haber/gundem/yas-kararlari-sonrasi-tsk-komuta-kademesi-yeniden-sekillendi-953082.html",
-  "source": "TRT Haber",
-  "summary_tr": "YAŞ kararlarından sonra Cumhurbaşkanı Erdoğan başkanlığında TSK komuta kademesi yeniden şekillendirildi.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-04T18:01:21.581016+00:00",
-  "type": "news",
-  "cluster_id": "cff2fb2dfdd31"
  }
 ]
