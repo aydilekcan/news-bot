@@ -1,5 +1,53 @@
 [
  {
+  "title": "CHP'de genel başkanlığa adaylığını açıklayan ilk isim belli oldu: Kılıçdaroğlu'nun 'karşısına' kim çıkacak?",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-de-genel-baskanliga-adayligini-aciklayan-ilk-isim-belli-oldu-kilicdaroglu-nun-karsisina-kim-cikacak-2537540",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP'de genel başkanlık yarışında ilk aday adaylığını açıklamıştır. Kılıçdaroğlu'nun karşısına kimin çıkacağı beklenmektedir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-14T17:01:14.321903+00:00",
+  "type": "news",
+  "cluster_id": "c33442ee8c00e"
+ },
+ {
+  "title": "Trump, Ukrayna ile Rusya'nın birbirlerinin enerji hedeflerini vurmayacaklarını belirtti",
+  "link": "https://www.aa.com.tr/tr/dunya/trump-ukrayna-ile-rusyanin-birbirlerinin-enerji-hedeflerini-vurmayacaklarini-belirtti/4057043",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Trump, Ukrayna ile Rusya'nın birbirlerinin enerji tesislerini vurmamayı kabul ettiklerini bildirmiştir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-14T17:01:14.321903+00:00",
+  "type": "news",
+  "cluster_id": "cd37f02f76446"
+ },
+ {
+  "title": "Cumhurbaşkanı Erdoğan, BBP Genel Başkanı Destici'yi kabul etti",
+  "link": "https://www.sozcu.com.tr/cumhurbaskani-erdogan-bbp-genel-baskani-destici-yi-kabul-etti-p358223",
+  "source": "Sözcü",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, BBP Genel Başkanı Mustafa Destici ile Külliyesi'nde görüşmüştür.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-14T17:01:14.321903+00:00",
+  "type": "news",
+  "cluster_id": "c9715fddf003f"
+ },
+ {
+  "title": "Tech stocks slide on AI slowdown talks",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSnVTdV9pVm41TmZxRXIxVWVNUVJXR2VicWJXQWk3UDExZVluVjh0cktxd1VqaWdxYzR6ZVktY19OeURvbnJIa1c5T3E0bmNBRHFUMi1FZVNNWDRNOXBvV1RmVDFoUWw5MHZEcGEtcDNpTGlaS2UycU1CbjVPV1hsX0lfV1U4X2ZpTG9N?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Teknoloji hisselerinde yapay zeka yavaşlama konuşmaları nedeniyle düşüş yaşanmıştır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-14T17:01:14.321903+00:00",
+  "type": "news",
+  "cluster_id": "cc2ef195509ff"
+ },
+ {
   "title": "Akın Gürlek'ten 81 ile genelge: 'Cinsiyetsizleştirme' vurgusu",
   "link": "https://www.cumhuriyet.com.tr/turkiye/akin-gurlek-ten-81-ile-genelge-cinsiyetsizlestirme-vurgusu-2537529",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-04T20:01:17.886376+00:00",
   "type": "news",
   "cluster_id": "cd18318c0482f"
- },
- {
-  "title": "Bakan Bayraktar: 17 milyon hanenin doğal gaz ihtiyacını kendi gazımızla kendi sahamızdan karşılar hale geleceğiz",
-  "link": "https://www.trthaber.com/haber/gundem/bakan-bayraktar-17-milyon-hanenin-dogal-gaz-ihtiyacini-kendi-gazimizla-kendi-sahamizdan-karsilar-hale-gelecegiz-953084.html",
-  "source": "TRT Haber",
-  "summary_tr": "Enerji Bakanı Bayraktar: 17 milyon hanenin doğal gaz ihtiyacını kendi kaynaktan karşılayacağız.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-04T20:01:17.886376+00:00",
-  "type": "news",
-  "cluster_id": "cc14b4d0b8954"
- },
- {
-  "title": "12 maddelik çerçeve yasa teklifinde neler yer alacak?",
-  "link": "https://www.bbc.com/turkce/articles/cm2gwj9jwreo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "İktidarın 'Terörsüz Türkiye' olarak adlandırdığı yeni çözüm sürecinin hukuki zeminini oluşturacak 12 maddelik çerçeve yasa teklifinin detayları belli oldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-04T19:01:15.653356+00:00",
-  "type": "news",
-  "cluster_id": "c42f9599189e6"
- },
- {
-  "title": "Suriye ordusu seferberlik ilan etti, tüm askerler göreve çağrıldı",
-  "link": "https://www.sozcu.com.tr/suriye-ordusu-seferberlik-ilan-etti-tum-askerler-goreve-cagrildi-p342391",
-  "source": "Sözcü",
-  "summary_tr": "Suriye ordusu, Irak sınırındaki birliklerinde tam seferberlik ilan ederek askeri alarm durumuna geçti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-04T19:01:15.653356+00:00",
-  "type": "news",
-  "cluster_id": "ce2ae4c38f954"
- },
- {
-  "title": "ASELSAN'ın ilk 6 aylık cirosu 88,5 milyar lira oldu",
-  "link": "https://www.aa.com.tr/tr/ekonomi/aselsanin-ilk-6-aylik-cirosu-88-5-milyar-lira-oldu/4018453",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ASELSAN'ın 2026 yılının ilk 6 aylık cirosu, geçen yılın aynı dönemine göre %25 artışla 88,5 milyar liraya ulaştı.",
-  "metric": "ASELSAN cirı (H1) 2025: ? -> 2026: 88,5 milyar TL (+%25)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-04T19:01:15.653356+00:00",
-  "type": "news",
-  "cluster_id": "c9e71a58c2336"
  }
 ]
