@@ -1,5 +1,17 @@
 [
  {
+  "title": "Babülmendep Boğazı: Husilerin ilerleyişi Kızıldeniz'de bir deniz taşımacılığı krizini tetikleyebilir mi?",
+  "link": "https://www.bbc.com/turkce/articles/ce35vpjkn39o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "İran destekli Husiler Yemen'in Kızıldeniz kıyılarının tamamını kontrol ederek uluslararası deniz taşımacılığında kriz riski oluşturdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-14T00:01:06.909027+00:00",
+  "type": "news",
+  "cluster_id": "c4f282a54c43b"
+ },
+ {
   "title": "Halep, Haseke, İdlib... Suriye'de halk akaryakıt zamları için sokağa çıktı: Yolları kapattılar",
   "link": "https://www.cumhuriyet.com.tr/dunya/halep-haseke-idlib-suriye-de-halk-akaryakit-zamlari-icin-sokaga-cikti-yollar-kapattilar-2537274",
   "source": "Cumhuriyet",
@@ -59986,17 +59998,5 @@
   "ts": "2026-08-04T10:01:09.545997+00:00",
   "type": "news",
   "cluster_id": "c828bbd6fcad7"
- },
- {
-  "title": "BP's quarterly profit doubles to over $5 billion after Iran war oil surge",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdU9hYzNQV1Ezbmd5OXB4Z1d4QTR0QU80Z0MteS03b002RE5yd2hPb2l5Z0NqLWJ4Y21PSTN0Z29UNVBBVEVyRDRGc0VNUnoySWNlcWU4cUlVXy1iNWd0MVA3V3pXLXN1ZHlyQWcyNzRfcmNxYnJKWFBQTWZ1anZtajRzcFRSd3BIQWJhOVlfQXZUaVU2Y1RlTUhqcHBQZ1ItTjhJeEg0NA?oc=5",
-  "source": "Reuters",
-  "summary_tr": "BP'nin üç aylık karı İran ile olan gerginlik nedeniyle petrol fiyatlarının yükselmesiyle iki katına çıkarak 5 milyar doları aştı.",
-  "metric": "BP karı ~2,5 milyar -> 5+ milyar (+%100)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-04T10:01:09.545997+00:00",
-  "type": "news",
-  "cluster_id": "c69d1ba6321a5"
  }
 ]
