@@ -1,5 +1,53 @@
 [
  {
+  "title": "Değerli ve baz metallerde fiyatlar Fed ve yapay zeka baskısıyla düştü",
+  "link": "https://www.aa.com.tr/tr/ekonomi/degerli-ve-baz-metallerde-fiyatlar-fed-ve-yapay-zeka-baskisiyla-dustu/4056632",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Kıymetli ve baz metallerde fiyatlar Fed'in faiz artırım beklentileri ve yapay zeka şirketlerine yönelik satış baskısıyla düştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-14T11:01:08.281569+00:00",
+  "type": "news",
+  "cluster_id": "c84430f90dc4e"
+ },
+ {
+  "title": "Indonesia president appoints his third finance minister in under two years",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTXk2ODI0TWUxUDZCM0FULXNEWlJoY0lGSGxhZndSREZYM0RjaVUzYTlJRmtRNVpCVzlqeGtyUzFVRU9OUDNQekZaR1Vfc2laYkQwY0t6TVNWRHNRenFaZlNhV2Y3M25tN19SNlNsZWd3NHVTWDBsNWVBc2JFS0MyejUzaEExWXo2SzVFd3d2WjZzejI1N1lKajlfQ3N0UUM4RlZkT0hnT1plUFk3bkQwa3BBdk5oRnhaQ1NKNFB4bHFubm13N2c?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Endonezya Cumhurbaşkanı iki yıl içinde üçüncü maliye bakanını atadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-14T11:01:08.281569+00:00",
+  "type": "news",
+  "cluster_id": "c38e3e609dcd1"
+ },
+ {
+  "title": "Katılımevim dahil: Tera, Pusula ve ortaklıklarını devraldı",
+  "link": "https://www.diken.com.tr/katilimevim-dahil-tera-yatirim-pusula-finans-holding-ve-ortakliklarini-devraldi/?utm_source=rss&utm_medium=rss&utm_campaign=katilimevim-dahil-tera-yatirim-pusula-finans-holding-ve-ortakliklarini-devraldi",
+  "source": "Diken",
+  "summary_tr": "Tera, Katılımevim dahil Pusula ve ortaklıklarını devraldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-14T11:01:08.281569+00:00",
+  "type": "news",
+  "cluster_id": "cfece3f6697c8"
+ },
+ {
+  "title": "11 aylık su yılı yağışları son 66 yılın zirvesinde",
+  "link": "https://www.trthaber.com/haber/turkiye/11-aylik-su-yili-yagislari-son-66-yilin-zirvesinde-956777.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye'de 2026 su yılının 11 aylık döneminde yağışlar geçen yılın aynı dönemine göre yüzde 77 artarak son 66 yılın en yüksek seviyesine ulaştı.",
+  "metric": "Yağış artışı geçen yıl aynı dönem -> 2026 yılı (+%77)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-14T11:01:08.281569+00:00",
+  "type": "news",
+  "cluster_id": "cb22dd03e195b"
+ },
+ {
   "title": "Dünya petrol piyasasında yeni kriz: Suudi Arabistan’ın can damarı vuruldu",
   "link": "https://www.cumhuriyet.com.tr/dunya/dunya-petrol-piyasasinda-yeni-kriz-suudi-arabistan-in-can-damari-vuruldu-2537389",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-04T15:01:14.405714+00:00",
   "type": "news",
   "cluster_id": "cb40e7bd6ba3b"
- },
- {
-  "title": "Burun spreyi pazarında rekabet ihlaline 24 milyon lira ceza",
-  "link": "https://www.trthaber.com/haber/ekonomi/burun-spreyi-pazarinda-rekabet-ihlaline-24-milyon-lira-ceza-953068.html",
-  "source": "TRT Haber",
-  "summary_tr": "Avixa İlaç AŞ, burun spreyi pazarında hakim durumunu kötüye kullanmaktan 24 milyon lira ceza aldı.",
-  "metric": "Ceza: 24 milyon lira",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-04T15:01:14.405714+00:00",
-  "type": "news",
-  "cluster_id": "cd5ffc9d21d83"
- },
- {
-  "title": "TMSF, 106 aracı ihaleyle satışa sunacak",
-  "link": "https://www.trthaber.com/haber/ekonomi/tmsf-106-araci-ihaleyle-satisa-sunacak-953067.html",
-  "source": "TRT Haber",
-  "summary_tr": "TMSF bu ay 106 aracı ihaleyle satışa sunacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-04T15:01:14.405714+00:00",
-  "type": "news",
-  "cluster_id": "cec06648a2d8f"
- },
- {
-  "title": "McDonald's US sales growth slows as value push falters",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUEtUQkZFZkRmeUVMUF9KSXRLMUJXTzRSUXNHalpmSlp6WW4yMEJFaWQ5cTRPVHpwemJjb3hTNjgzQmswYWQ0R2hVOVkyV1pVOVBoZjhqSEFES2VVUWRLRzg1SmRxb0x6QmQxZkQwSnhhaXBLVTBrbTFNeWUwN1NISUIwQ3lxOGFWcEdDdkpBUzQwWmxPTkhJNjB1SVVlbS13OTMyS0Z0T1hQVkFpQkRF?oc=5",
-  "source": "Reuters",
-  "summary_tr": "McDonald's ABD'de satış büyümesi değer stratejisinin etkisiyle yavaşladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-04T15:01:14.405714+00:00",
-  "type": "news",
-  "cluster_id": "cb0d1db01bbd3"
- },
- {
-  "title": "Yavuz Ağıralioğlu: 'Çerçeve yasanın ne olduğunu Öcalan biliyor, ben bilmiyorum'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/yavuz-agiralioglu-cerceve-yasanin-ne-oldugunu-ocalan-biliyor-ben-bilmiyorum-2526437",
-  "source": "Cumhuriyet",
-  "summary_tr": "Anahtar Parti Genel Başkanı Yavuz Ağıralioğlu, çerçeve yasa teklifine ilişkin muhalefet edip 'Terörsüz Türkiye' sürecinin detaylarını istedi.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-04T14:01:11.453665+00:00",
-  "type": "news",
-  "cluster_id": "ce604eee5eb07"
  }
 ]
