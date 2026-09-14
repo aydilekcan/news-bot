@@ -1,5 +1,65 @@
 [
  {
+  "title": "Akın Gürlek'ten 81 ile genelge: 'Cinsiyetsizleştirme' vurgusu",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/akin-gurlek-ten-81-ile-genelge-cinsiyetsizlestirme-vurgusu-2537529",
+  "source": "Cumhuriyet",
+  "summary_tr": "Adalet Bakanı Akın Gürlek, 81 ildeki başsavcılıklara LGBTİ+ konularını hedef alan bir genelge yayınladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-14T16:01:11.689351+00:00",
+  "type": "news",
+  "cluster_id": "ca82f2bad4557"
+ },
+ {
+  "title": "Başsavcılıklara \"ailenin, gençlerin ve toplumun korunması\" için genelge",
+  "link": "https://www.aa.com.tr/tr/gundem/bassavciliklara-ailenin-genclerin-ve-toplumun-korunmasi-icin-genelge/4056999",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Adalet Bakanı Akın Gürlek, 81 ildeki başsavcılıklara ailenin ve gençlerin korunmasına yönelik bir genelge gönderdi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-14T16:01:11.689351+00:00",
+  "type": "news",
+  "cluster_id": "c5565b905c577"
+ },
+ {
+  "title": "Gürlek'ten 81 ile 'genel ahlak' genelgesi: Savcılıklara erişim engeli talimatı",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaEtIendxb1A3MEhrUERiLWdFTFI1akFiTFA2aWl3NW5kZW96aGtNS0NHUndxMVBaVEJDSC1yUFFtcF9BWTduMm9jU2lYbm50d05vRzBJeFp2cWR3MFNvcEtBZ0NUdlNxWlh0eGIwZzc3WGtjeGJMb2J0WVlXU293eUhLTTk1d0lMRzhERmxoOERfRzRCMEhMNUZZNVhuSzk4YkJneHVONFB4cGVvYTNNYlN3?oc=5",
+  "source": "soL",
+  "summary_tr": "Adalet Bakanı Gürlek, başsavcılıklara 'genel ahlak' konularında erişim engeli talimatı veren genelge yayınladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-14T16:01:11.689351+00:00",
+  "type": "news",
+  "cluster_id": "cc51a07a294e7"
+ },
+ {
+  "title": "Kira artışı tavan oranı: %31,79 (Eylül 2026)",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONmdpelZyN0hidjB6UkRieDkzMXN2NUg1cEx2dG0xR2psblhyR1NQdzVKbU5oQjdIaFZJNjZ1SV9sdmtqRG4xYXlHS2NzYkVUTTdNWHdlbjY1MUQyaDFjYWJmNmtnY3hjR0twSHJYY1RPTk40VFpMZFAwaUVwaHoxbjRlVksxZThRc2hDR1htZlFxS0RkVjFhY0RCN3Z3RXRaclJpVmtEVjczYnFpUlhOaWdZOWJldTFBd0U2U2FmcEJTMVRkdTBBVl9neHA2RVU?oc=5",
+  "source": "TÜİK",
+  "summary_tr": "%31,79",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-09-14T16:01:11.689351+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
+  "title": "İhracat birim değer endeksi (yıllık): %8,2 (Temmuz 2026)",
+  "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQaUxjempLTnpmUHA5bXgwakpFVjFaMVB0VjYzcUNpU0wyYWltUzZkRV9SNV9aR0RLUU11NEhwZUJtSUU0TkFhbHNwVzdpQ2k3NGF5RHV6TktseUZKSGFvOERJRnM1TVVqR3NWU3FQdEdfNVVkelowZjRoUS0tZ2o0UEtjTUJrelUxUmZqcHBwWDBHYnVvMmk4SGEzdE1lWDZNTGFscVdPTWxOa0lLZHZaQzRZTlpsSU9ZNUtOYjJvMVJubmhaYVd1ZU9TTVlzbDRKMFFxc0dkaG9sNUNBekdnOThNMTdWa09HQW9MY2VleFdDWXNNNU1kbG5GTFhGWGhJTE1NbmhnLUltc0xiUnk0TDVuZ0NGYmhpa2Q5QVU3NkNkREpMTC1wQktWNHFLTFpM?oc=5",
+  "source": "TÜİK",
+  "summary_tr": "%12,6 → %8,2 (-4,4 puan)",
+  "metric": "-4,4 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-09-14T16:01:11.689351+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "ABD'nin 10 yıllık tahvil faizi 2023'ten bu yana ilk kez yüzde 5'in üzerinde",
   "link": "https://www.aa.com.tr/tr/ekonomi/abdnin-10-yillik-tahvil-faizi-2023ten-bu-yana-ilk-kez-yuzde-5in-uzerinde/4056988",
   "source": "Anadolu Ajansı",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-04T19:01:15.653356+00:00",
   "type": "news",
   "cluster_id": "c9e71a58c2336"
- },
- {
-  "title": "Mahfi Eğilmez: Türkiye'de fiyat algısı neden bozuldu?",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcnBCbkhJOWVnSzF3U3dBWWdhR1V2WThMOTN5eHlKZ21sWDA2SG0wVlNSSVQ1ZDRjd3R3NzEtaUFDLTFBT0h6ZnRySWRpbFEtQ0RneEJzU0ljS3k5cDFiN2hIZFR1c3o5dy1SZTRXb2hiaVVPM0gzX21KZnBBOUM1MjUySzhKZGVNcTlqbWFn?oc=5",
-  "source": "T24",
-  "summary_tr": "Ekonomist Mahfi Eğilmez, Türkiye'de fiyat algısının neden bozulduğu sorusunu analiz ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-04T19:01:15.653356+00:00",
-  "type": "news",
-  "cluster_id": "c067e10d20205"
- },
- {
-  "title": "Son Dakika... Özgür Özel ve Veli Ağbaba hakkında fezleke düzenlendi: Adalet Bakanlığı'na gönderildi!",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-ozgur-ozel-ve-veli-agbaba-hakkinda-fezleke-duzenlendi-adalet-bakanligi-na-gonderildi-2526522",
-  "source": "Cumhuriyet",
-  "summary_tr": "Adalet Bakanlığı, Özgür Özel ve Veli Ağbaba hakkında 'zincirleme şekilde rüşvet' aldıkları iddiasıyla dokunulmazlıklarının kaldırılması talebiyle fezleke düzenledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-04T19:01:15.653356+00:00",
-  "type": "news",
-  "cluster_id": "cbbd8a1d3e035"
- },
- {
-  "title": "Toplantı yeter sayısı bulunamaması üzerine TBMM Genel Kurul birleşimi kapandı… İYİ Partili Çömez’den tepki: ‘Milletin vergileriyle çalışması gereken bu çatı…’",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/toplanti-yeter-sayisi-bulunamamasi-uzerine-tbmm-genel-kurul-birlesimi-kapandi-iyi-partili-comez-den-tepki-milletin-vergileriyle-calismasi-gereken-bu-cati-2526518",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM Genel Kurul, toplantı yeter sayısının bulunamaması nedeniyle birleşimi kapattı; muhalefet temsil konusu tartışılıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-04T19:01:15.653356+00:00",
-  "type": "news",
-  "cluster_id": "c4974fb3487db"
- },
- {
-  "title": "Son dakika... Özgür Özel hakkında fezleke hazırlandı",
-  "link": "https://www.sozcu.com.tr/ozgur-ozel-hakkinda-fezleke-4-agustos-2026-p342398",
-  "source": "Sözcü",
-  "summary_tr": "Ankara Cumhuriyet Başsavcılığı, Yeni Parti lideri Özgür Özel ve Veli Ağbaba hakkında fezleke hazırlayarak Adalet Bakanlığı'na gönderdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-04T19:01:15.653356+00:00",
-  "type": "news",
-  "cluster_id": "c4d8c99a1a738"
- },
- {
-  "title": "Vekiller gitmedi, Meclis kapandı",
-  "link": "https://www.sozcu.com.tr/vekiller-gitmedi-meclis-kapandi-p342397",
-  "source": "Sözcü",
-  "summary_tr": "TBMM Genel Kurulu, yapılan yoklamalarda toplantı yeter sayısının bulunamaması nedeniyle kapandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-04T19:01:15.653356+00:00",
-  "type": "news",
-  "cluster_id": "c436c80d1bb54"
  }
 ]

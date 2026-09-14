@@ -134,10 +134,10 @@
    "indicator_tr": "TUFE (yıllık)"
   },
   "tr_ihracat_birim_deger_endeksi": {
-   "value": "%12,6",
-   "period": "Haziran 2026",
-   "ts": "2026-08-26T09:01:47.713251+00:00",
-   "indicator_tr": "İhracat birim değer endeksi"
+   "value": "%8,2",
+   "period": "Temmuz 2026",
+   "ts": "2026-09-14T16:01:31.553346+00:00",
+   "indicator_tr": "İhracat birim değer endeksi (yıllık)"
   },
   "tr_genis_issiz_sayisi": {
    "value": "12 milyon 188 bin",
@@ -960,6 +960,12 @@
    "period": "Temmuz",
    "ts": "2026-09-14T08:01:46.623837+00:00",
    "indicator_tr": "İthalat birim değer endeksi (yıllık)"
+  },
+  "tr_kira_zam_orani": {
+   "value": "%31,79",
+   "period": "Eylül 2026",
+   "ts": "2026-09-14T16:01:31.553346+00:00",
+   "indicator_tr": "Kira artışı tavan oranı"
   }
  },
  "seen_links": {
@@ -1273,6 +1279,10 @@
   "4a8cbb548a76603ce3873de3ef2a7a31": "2026-09-14T12:01:37.168800+00:00",
   "a1ecd181b3a4c2763d1cfb8dccd0dafb": "2026-09-14T13:01:17.676445+00:00",
   "b5f77ffa55f567ed9043cb31c9964aa2": "2026-09-14T13:01:17.676445+00:00",
-  "42a222157d2b74014cbde28d707fc668": "2026-09-14T14:01:09.989700+00:00"
+  "42a222157d2b74014cbde28d707fc668": "2026-09-14T14:01:09.989700+00:00",
+  "7c37b073aa8d4c3ebc6b22c7be85524b": "2026-09-14T16:01:11.689351+00:00",
+  "949d7b1d5cb5d624ee47f4920cedd2cb": "2026-09-14T16:01:11.689351+00:00",
+  "f77d3f006bb5cfda0a4d320214c6b3b9": "2026-09-14T16:01:11.689351+00:00",
+  "715709cd83566d2b79682ecde1934221": "2026-09-14T16:01:11.689351+00:00"
  }
 }
