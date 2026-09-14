@@ -1,5 +1,41 @@
 [
  {
+  "title": "ABD'nin 10 yıllık tahvil faizi 2023'ten bu yana ilk kez yüzde 5'in üzerinde",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abdnin-10-yillik-tahvil-faizi-2023ten-bu-yana-ilk-kez-yuzde-5in-uzerinde/4056988",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD'nin 10 yıllık Hazine tahvili faizi 2023'ten bu yana ilk kez %5'in üzerinde seviyelere çıktı.",
+  "metric": "ABD 10 yıllık tahvil faizi %5 üzeri (+kırılma)",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-14T15:01:15.077621+00:00",
+  "type": "news",
+  "cluster_id": "c5c0a80a7521b"
+ },
+ {
+  "title": "Üç madde içeren bitki koruma ürünleri yasaklanacak",
+  "link": "https://www.diken.com.tr/uc-madde-iceren-bitki-koruma-urunleri-yasaklanacak/?utm_source=rss&utm_medium=rss&utm_campaign=uc-madde-iceren-bitki-koruma-urunleri-yasaklanacak",
+  "source": "Diken",
+  "summary_tr": "Tarım ve Orman Bakanlığı thiophanate methyl, indoxacarb ve phosmet maddelerini içeren bitki koruma ürünlerinin kullanımını sonlandıracak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-14T15:01:15.077621+00:00",
+  "type": "news",
+  "cluster_id": "c7957f26c773a"
+ },
+ {
+  "title": "Üç aktif madde içeren bitki koruma ürünlerinin kullanımı sonlandırılacak",
+  "link": "https://www.trthaber.com/haber/ekonomi/uc-aktif-madde-iceren-bitki-koruma-urunlerinin-kullanimi-sonlandirilacak-956801.html",
+  "source": "TRT Haber",
+  "summary_tr": "Tarım ve Orman Bakanlığı üç aktif madde (thiophanate methyl, indoxacarb, phosmet) içeren bitki koruma ürünlerinin ithalatını 1 Ekim'den sonlandıracak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-14T15:01:15.077621+00:00",
+  "type": "news",
+  "cluster_id": "c7957f26c773a"
+ },
+ {
   "title": "Motorin yeniden 100 TL'ye yaklaşıyor: Vergi freni neden yetmedi?",
   "link": "https://www.dw.com/tr/motorin-yeniden-100-tl-ye-yaklaşıyor-vergi-freni-neden-yetmedi/a-79261370?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-04T19:01:15.653356+00:00",
   "type": "news",
   "cluster_id": "c436c80d1bb54"
- },
- {
-  "title": "BM: İsrail, Gazze'nin kuzeyinde evlerin yanı sıra bölgede ayakta kalan son okulu da yıktı",
-  "link": "https://www.aa.com.tr/tr/dunya/bm-israil-gazzenin-kuzeyinde-evlerin-yani-sira-bolgede-ayakta-kalan-son-okulu-da-yikti/4018482",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "BM Genel Sekreter Sözcü Yardımcısı, İsrail güçlerinin Gazze'nin kuzeyinde bölgede ayakta kalan son okulu da yıktığını bildirdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-04T19:01:15.653356+00:00",
-  "type": "news",
-  "cluster_id": "cb781b2a46713"
- },
- {
-  "title": "Recep Karagöz yazdı: Silahların ardında kalan Kürt meselesi",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTWVNYjdoVVJ5WmpoWUJRYVFhX0xaQ1BfQjBjYTdzX29Qc0hRYzM5WF9sazc4V2U4RGFGWmo0ZTdmcnkzWVo0cEM0Y0Ixa2JueDNoX1J2MmZ3ZVJ3SmQyMjE5RDVOejRkbExVMTdvRm9BZE1oSjU0Y3dRd3ZKSXR5MzI1ZlVtS1M1OUdndzk2UDNNSThqRTl3?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Köşe yazarı Recep Karagöz, silahların ardında kalan Kürt meselesini ele alıyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-04T19:01:15.653356+00:00",
-  "type": "news",
-  "cluster_id": "c0b250fce70f0"
- },
- {
-  "title": "Çözüm sürecinde kritik eşik: Çerçeve yasada neler olacak?",
-  "link": "https://www.dw.com/tr/çözüm-sürecinde-kritik-eşik-çerçeve-yasada-neler-olacak/a-78237952?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Çerçeve yasası teklifinin yarın öğleden önce TBMM'ye sunulması bekleniyor. Teklifin içeriği hakkında görüşmeler tamamlandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-04T18:01:21.581016+00:00",
-  "type": "news",
-  "cluster_id": "c4192fdd5f522"
  }
 ]
