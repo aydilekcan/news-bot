@@ -1,5 +1,53 @@
 [
  {
+  "title": "Goldman Sachs, JP Morgan expect September Fed hike as inflation lingers",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTnlqS1c0ZUI3VGExTWl4c3VCbXVLUi1NMFZZNUNaMmdLYzR2RnRDZjFPbGhPVG83M2ZBSms4YTc0b04wMUtNTG9GWmJnM29BU1ZzOWpHTjVxWXhjNHd6TmhndFV0VWJEc2ZkVm45OWtTMEktQ2NBMEdsd3J0XzNTWE1SNXVUQ3hKWFQ1WUJKLVc1bjRVWlg5NnFyaw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Goldman Sachs ve JP Morgan, enflasyonun devam etmesi nedeniyle Eylül ayında Fed faiz artırımı beklediğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-14T07:01:16.812261+00:00",
+  "type": "news",
+  "cluster_id": "c4a5eb160788f"
+ },
+ {
+  "title": "Trafik sigortasında yeni dönem: Zamlı tarife yürürlüğe girdi",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/trafik-sigortasinda-yeni-donem-zamli-tarife-yururluge-girdi-2537312",
+  "source": "Cumhuriyet",
+  "summary_tr": "Zorunlu trafik sigortasında yeni tarife yürürlüğe girdi; primler sürücülerin risk basamağı ve araç türüne göre değişkenlik gösteriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-14T07:01:16.812261+00:00",
+  "type": "news",
+  "cluster_id": "c19e62d152c68"
+ },
+ {
+  "title": "Küresel piyasalar yapay zeka endişeleri ve jeopolitik risklerle karışık seyrediyor",
+  "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-yapay-zeka-endiseleri-ve-jeopolitik-risklerle-karisik-seyrediyor/4056310",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Küresel piyasalar yapay zeka şirketlerinin teknoloji geliştirme hızını yavaşlatma endişeleri ve artan jeopolitik risklerle karışık hareket ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-14T07:01:16.812261+00:00",
+  "type": "news",
+  "cluster_id": "cd4bc86a268a8"
+ },
+ {
+  "title": "Bakan Göktaş duyurdu: Dijital platformlara ve oyunlara yeni düzenlemeler geliyor",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/bakan-goktas-duyurdu-dijital-platformlara-ve-oyunlara-yeni-duzenlemeler-geliyor-2537314",
+  "source": "Cumhuriyet",
+  "summary_tr": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, çocukların dijital platform ve oyun kullanımına yönelik yeni düzenlemelerin geliştirildiğini duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-14T07:01:16.812261+00:00",
+  "type": "news",
+  "cluster_id": "cab4ad4d5613c"
+ },
+ {
   "title": "Savaşın tek kazananı oldu: 9 ayda yüzde 3780 yükseldi",
   "link": "https://www.sozcu.com.tr/savasin-tek-kazanani-oldu-9-ayda-yuzde-3780-yukseldi-p357986",
   "source": "Sözcü",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-04T12:01:12.920477+00:00",
   "type": "news",
   "cluster_id": "ca6054c8e9ae1"
- },
- {
-  "title": "AK Parti'den Terörsüz Türkiye düzenlemesi için muhalefet turu",
-  "link": "https://www.trthaber.com/haber/gundem/ak-partiden-terorsuz-turkiye-duzenlemesi-icin-muhalefet-turu-953058.html",
-  "source": "TRT Haber",
-  "summary_tr": "AK Parti heyeti, 'Terörsüz Türkiye' hedefi doğrultusunda hazırlanan yasal düzenlemeye ilişkin muhalefet partileriyle görüş alışverişinde bulunuyor.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-04T12:01:12.920477+00:00",
-  "type": "news",
-  "cluster_id": "c34e303ec8063"
- },
- {
-  "title": "Fitch: Türk bankaları ve hazinesinin uluslararası itibarı yüksek",
-  "link": "https://www.trthaber.com/haber/ekonomi/fitch-turk-bankalari-ve-hazinesinin-uluslararasi-itibari-yuksek-953056.html",
-  "source": "TRT Haber",
-  "summary_tr": "Fitch Ratings, Türk bankalarının ve hazinesinin uluslararası itibarının yüksek olduğunu ve borç piyasasının yarım trilyon doları aşacağını bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-04T12:01:12.920477+00:00",
-  "type": "news",
-  "cluster_id": "c2bc3d087d566"
- },
- {
-  "title": "Burhanettin Duran: Milli Dayanışma Kanun Teklifi tarihi bir adımdır",
-  "link": "https://www.trthaber.com/haber/gundem/burhanettin-duran-milli-dayanisma-kanun-teklifi-tarihi-bir-adimdir-953053.html",
-  "source": "TRT Haber",
-  "summary_tr": "İletişim Başkanı Burhanettin Duran, TBMM'de imzaya açılan 'Milli Dayanışma Kanun Teklifi'nin tarihi bir adım olduğunu belirtti.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-04T12:01:12.920477+00:00",
-  "type": "news",
-  "cluster_id": "c7abe1ae99a3e"
- },
- {
-  "title": "US companies are stepping up to cut reliance on China for critical minerals used in key weapons",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWXlhalFIVUFKQVFKRnBZMlpzMkpXSkd2dFVtUGFjQzRET3MtV2hybUZXaTAxdm1OU05Md1pNaUpoY3B2LU9iUzFjeWhQTXpqb0JibFRmYTZRRVAtX3AtT2x1M2tSSmx2emM1a1lzS0F1WWZjeUR1N0tQNzJvaVFEQ3lKbmx6M3NfeGZPY1d5cjJDR2RpalFMcUVFWjFoMzhzakdabzlYZ2t5UQ?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD şirketleri, kritik silah sistemlerinde kullanılan kritik minerallerde Çin'e bağımlılığı azaltmak için harekete geçiyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-04T12:01:12.920477+00:00",
-  "type": "news",
-  "cluster_id": "c03aa1a86b670"
  }
 ]
