@@ -1,5 +1,53 @@
 [
  {
+  "title": "Papa 14. Leo, Vatikan'da Kovid-19 salgını sırasında başlatılan maaş kesintisini kaldırdı",
+  "link": "https://www.aa.com.tr/tr/dunya/papa-14-leo-vatikanda-kovid-19-salgini-sirasinda-baslatilan-maas-kesintisini-kaldirdi/4057232",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Papa 14. Leo, COVID-19 salgını sırasında başlatılan kardinal ve öğretim üyelerinin maaş kesintilerini kaldırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-14T22:01:09.837922+00:00",
+  "type": "news",
+  "cluster_id": "ccd528a5257ad"
+ },
+ {
+  "title": "US judge blocks Trump limits on duration of visas for foreign students, journalists",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWQtY0pmajVTQ1p5SkFGaDZ4dFVRaUZPVkNRSWdrSVJaZWlzZjRPN25QWW51QUtqMTFSZ1V0Q28wbnFVWjFxVlZXTVgxTXV0VjNxanRHMGoxeXFEcGxPSG03OVQ2YkNTa0tsMVpoVnA1NElNcmJyLTludGQzYUdlU3h6UHJ2R2RzR1dnOE5aLXB5ZVhULUVmQkk4U1BJSHhsMk5Cd1hiWGtINHo3bkN1WndEcG0?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD hakim, Trump'ın yabancı öğrenci ve gazetecilere verilen vizaların süresini sınırlandıran kararını bloke etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-14T22:01:09.837922+00:00",
+  "type": "news",
+  "cluster_id": "c90cc6f4ea183"
+ },
+ {
+  "title": "'Yeni bir rezaleti daha ortaya çıkardık' diyerek duyurdu... YENİ Partili Yavuzyılmaz: 'Türkiye’ye faturası yıllık en az 100 Milyon Dolar olacak!'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/yeni-bir-rezaleti-daha-ortaya-cikardik-diyerek-duyurdu-yeni-partili-yavuzyilmaz-turkiye-ye-faturasi-yillik-en-az-100-milyon-dolar-olacak-2537606",
+  "source": "Cumhuriyet",
+  "summary_tr": "YENİ Parti milletvekili, AKP'nin Dünya Ticaret Örgütü'ndeki Çin otomobilleri davasını kaybetmesinin Türkiye'ye yıllık 100 milyon dolar fatura keseceğini iddia etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-14T22:01:09.837922+00:00",
+  "type": "news",
+  "cluster_id": "c6437a0401cd2"
+ },
+ {
+  "title": "Üç aktif madde içeren bitki koruma ürünlerinin ithalat, imalat ve kullanımı sonlandırılacak",
+  "link": "https://www.aa.com.tr/tr/ekonomi/uc-aktif-madde-iceren-bitki-koruma-urunlerinin-ithalat-imalat-ve-kullanimi-sonlandirilacak/4057230",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Tarım ve Orman Bakanlığı, thiophanate methyl, indoxacarb ve phosmet içeren bitki koruma ürünlerinin ithalatını 13 Kasım 2026'da, imalatını 13 Mayıs 2027'de sonlandıracak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-14T22:01:09.837922+00:00",
+  "type": "news",
+  "cluster_id": "c25172a559cea"
+ },
+ {
   "title": "Trump: Ukrayna, Rus enerji hedeflerini vurmamayı kabul etti",
   "link": "https://www.diken.com.tr/trump-ukrayna-rus-enerji-hedeflerini-vurmamayi-kabul-etti/?utm_source=rss&utm_medium=rss&utm_campaign=trump-ukrayna-rus-enerji-hedeflerini-vurmamayi-kabul-etti",
   "source": "Diken",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-05T04:01:05.091654+00:00",
   "type": "news",
   "cluster_id": "c3984e25e7a94"
- },
- {
-  "title": "Enflasyon ve faizde düşüş beklemeyin",
-  "link": "https://www.sozcu.com.tr/enflasyon-ve-faizde-dusus-beklemeyin-p342444",
-  "source": "Sözcü",
-  "summary_tr": "BBVA, Citi, Goldman Sachs ve HSBC bankaları, Türkiye'de enflasyon ve faizde kalıcı düşüş beklenmemesi gerektiğini belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-05T03:01:07.921867+00:00",
-  "type": "news",
-  "cluster_id": "cf0da1dcd95cc"
- },
- {
-  "title": "China AI hardware stocks slump after news US plans to ban imports of Chinese components",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU1dRTlJ3dWthcTVkQnd1NFVJTFZSeHV4TXNiZlZOaVlNa1lSNFVnQWZxZkxEQkV2NGZ3YV8wZ21mbjhRYUg3Z05nci1Ua3o1M0FyTGxIT0VLXzhYUlFpajhQVEEwYmFuZnhZNjZPdjdPcFh2elVnNlFvdVZjYlVTNWU5M21VempmYUVMSzNNMURjeEtwcFFUa2NvY2MwYVE1M0k2RDVpTFR1V0VGUVBBNHNaRkQ3UzlhX2FMUDJFNXpOX1RVU2ZZRQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD'nin Çin bileşenlerinin ithalatını yasaklama planı haberinin ardından Çin yapay zeka donanım hisse senetleri düştü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-05T03:01:07.921867+00:00",
-  "type": "news",
-  "cluster_id": "cdb2d11f59991"
- },
- {
-  "title": "Çerçeve yasa teklifi bugün Meclis başkanlığına sunuluyor",
-  "link": "https://www.bbc.com/turkce/articles/cm2gemqqr9mo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Kürt meselesine ilişkin yeni çözüm sürecinin hukuki zeminini oluşturacak çerçeve yasa teklifi bugün Meclis Başkanlığı'na sunuluyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-05T03:01:07.921867+00:00",
-  "type": "news",
-  "cluster_id": "c5b5a449a6e02"
- },
- {
-  "title": "63 general ve amiral emekli edildi",
-  "link": "https://www.sozcu.com.tr/63-general-ve-amiral-emekli-edildi-p342445",
-  "source": "Sözcü",
-  "summary_tr": "YAŞ kararlarıyla 63 general ve amiral emekli edildi. Hava Kuvvetleri Komutanı Cemal Kadıoğlu emekliye ayrılırken yerine başka bir komutan atandı.",
-  "metric": "63 general/amiral emekli edildi",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-05T03:01:07.921867+00:00",
-  "type": "news",
-  "cluster_id": "cdb2e424c2977"
  }
 ]
