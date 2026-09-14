@@ -1,5 +1,65 @@
 [
  {
+  "title": "Ukrayna'yı 'uyarmıştı... Trump: 'Ukrayna ve Rusya kabul etti'",
+  "link": "https://www.cumhuriyet.com.tr/dunya/ukrayna-yi-uyarmisti-trump-ukrayna-ve-rusya-kabul-etti-2537545",
+  "source": "Cumhuriyet",
+  "summary_tr": "Trump, Ukrayna ve Rusya'nın birbirlerinin enerji tesislerini vurmamayı kabul ettiklerini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-14T18:01:06.103432+00:00",
+  "type": "news",
+  "cluster_id": "c0e59b3a2cb20"
+ },
+ {
+  "title": "Enerjide savaş kuşatması: Petrol 108 doları aştı, ekonomik yük ağırlaşıyor",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWHIwRzFLNmVhVDdQYXFOTHNZZC1ZcTVzNTJteklFLS0wa1BVVDI2bWtVR255TjNCWUpRcWRiNlVob0haWGUzWS1rOW8wRXhvWDdzcVh3NEswZUJuNDdRclJHY3duUXlLb0p3bExOVEpsb3lYeDhFOXdRTWEwZ3BJekJDd2RwdDdjNWRRZ0VHZkx6VXBENWVaMV9Rc0V2RUVlQ09IM0FROW1McjBEYW04?oc=5",
+  "source": "soL",
+  "summary_tr": "Petrol fiyatları 108 doları aştı; enerji maliyetleri artarak ekonomik yükü ağırlaştırıyor.",
+  "metric": "Petrol 108 dolar",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-14T18:01:06.103432+00:00",
+  "type": "news",
+  "cluster_id": "cd9772448e5c8"
+ },
+ {
+  "title": "AI stocks drop on calls for a slowdown as rising oil prices push the 10-year yield to 5%",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFpLbXVrOWE4Ri1ZaUsxT0FWc1VvZHc0bU04NWdORHpjcm5XdFc1YXlOMUE3VXNrbmppdlJOMVBYMkhYS3MtYjl1d3gtbG5mMFNGLU5fdUNWOHo4V2kxcDdDOTE4cW1CRDFkTDNBMXI1ZDdxeGNFSHhldGhSY3NyYTVIQVdrMloxalNiZGJLbkI?oc=5",
+  "source": "AP",
+  "summary_tr": "Yapay zeka hisse senetleri düşüşe geçti; yükselen petrol fiyatları 10 yıllık tahvil getirilerini %5'e çıkardı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-14T18:01:06.103432+00:00",
+  "type": "news",
+  "cluster_id": "c2aa6dcc1cf41"
+ },
+ {
+  "title": "Bakan Akın Gürlek açıkladı: 1613 kişi gözaltına alındı",
+  "link": "https://www.sozcu.com.tr/bakan-akin-gurlek-acikladi-1613-kisi-gozaltina-alindi-p358225",
+  "source": "Sözcü",
+  "summary_tr": "Adalet Bakanı Akın Gürlek, 'Sokaklar Güvende' operasyonlarında 1613 kişinin gözaltına alındığını açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-14T18:01:06.103432+00:00",
+  "type": "news",
+  "cluster_id": "c016e2f60f5b5"
+ },
+ {
+  "title": "Sokaklar Güvende operasyonu: 1613 şüpheli gözaltına alındı",
+  "link": "https://www.trthaber.com/haber/gundem/sokaklar-guvende-operasyonu-1613-supheli-gozaltina-alindi-956815.html",
+  "source": "TRT Haber",
+  "summary_tr": "Adalet Bakanı Akın Gürlek, 'Sokaklar Güvende' operasyonlarında 2.594 şüpheliye adli işlem yapıldığını, 1613'ünün gözaltında olduğunu bildirdi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-14T18:01:06.103432+00:00",
+  "type": "news",
+  "cluster_id": "c6ceefb04dccb"
+ },
+ {
   "title": "CHP'de genel başkanlığa adaylığını açıklayan ilk isim belli oldu: Kılıçdaroğlu'nun 'karşısına' kim çıkacak?",
   "link": "https://www.cumhuriyet.com.tr/siyaset/chp-de-genel-baskanliga-adayligini-aciklayan-ilk-isim-belli-oldu-kilicdaroglu-nun-karsisina-kim-cikacak-2537540",
   "source": "Cumhuriyet",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-04T21:01:15.014410+00:00",
   "type": "news",
   "cluster_id": "c225034e86325"
- },
- {
-  "title": "İsrail hükümetinin, orduya Gazze Şeridi'nde saldırıları sınırlandırma talimatı verdiği ileri sürüldü",
-  "link": "https://www.aa.com.tr/tr/israilin-gazze-saldirilari/israil-hukumetinin-orduya-gazze-seridinde-saldirilari-sinirlandirma-talimati-verdigi-ileri-suruldu/4018492",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail hükümetinin orduya Gazze Şeridi'nde saldırıları sınırlandırma talimatı verdiği iddia edildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-04T20:01:17.886376+00:00",
-  "type": "news",
-  "cluster_id": "c8e158c08d9c1"
- },
- {
-  "title": "Netanyahu says no Israeli withdrawal from Gaza until Hamas has been completely disarmed",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWlgtZDJKWkRiTWNwOFRhUzM2WGhhTlR4clFocEt4TGNEV0VLb0gtbDEzQmlYZkt3OFNyckJpQ1JPUzQyRUdFVDFjbWdyaXQwNGV5dUYzeXFocWF3UnNqTkpUVnhrX3RudkJ0R3lYVXR1MmwxazZ1ZzF5SDdlQWNsWVVlZVZYVzJJNUJxQnFjYS0tQ1VyaWR2QkJZQTRYSDVG?oc=5",
-  "source": "AP",
-  "summary_tr": "Netanyahu: İsrail, Hamas tamamen silahsızlandırılana kadar Gazze'den çekilmeyecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-04T20:01:17.886376+00:00",
-  "type": "news",
-  "cluster_id": "caf78e9a20d8f"
- },
- {
-  "title": "YAŞ kararları açıklandı: Türk Hava Kuvvetleri'de ilk kadın general",
-  "link": "https://www.bbc.com/turkce/articles/cr493dqdzw0o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Türk Hava Kuvvetleri'nde ilk kadın general atandı. Orgeneral Rafet Dalkıran yeni Komutan oldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-04T20:01:17.886376+00:00",
-  "type": "news",
-  "cluster_id": "cbb0d2c21822b"
- },
- {
-  "title": "Özel ve Ağbaba hakkında 'rüşvet' iddiasıyla fezleke",
-  "link": "https://www.diken.com.tr/ozel-ve-agbaba-hakkinda-rusvet-iddiasiyla-fezleke/?utm_source=rss&utm_medium=rss&utm_campaign=ozel-ve-agbaba-hakkinda-rusvet-iddiasiyla-fezleke",
-  "source": "Diken",
-  "summary_tr": "Ankara Başsavcılığı, Yeni Parti Genel Başkanı Özgür Özel ve Malatya vekili Veli Ağbaba hakkında rüşvet iddiasıyla fezleke hazırladı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-04T20:01:17.886376+00:00",
-  "type": "news",
-  "cluster_id": "c0089c0b25d9f"
- },
- {
-  "title": "Suçlama çok ağır! Savcılık Özel'in dokunulmazlığının kaldırılması için bakanlığa başvurdu",
-  "link": "https://www.sozcu.com.tr/ozgur-ozel-hakkinda-fezleke-4-agustos-2026-p342398",
-  "source": "Sözcü",
-  "summary_tr": "Ankara Cumhuriyet Başsavcılığı, Yeni Parti lideri Özgür Özel'in dokunulmazlığının kaldırılması için bakanlığa başvurdu. Rüşvet suçlaması.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-04T20:01:17.886376+00:00",
-  "type": "news",
-  "cluster_id": "cd18318c0482f"
  }
 ]
