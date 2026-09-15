@@ -1,5 +1,65 @@
 [
  {
+  "title": "Zelenski’den Moskova’ya şartlı teklif: Saldırılar durursa biz de dururuz",
+  "link": "https://www.cumhuriyet.com.tr/dunya/zelenski-den-moskova-ya-sartli-teklif-saldirilar-durursa-biz-de-dururuz-2537833",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ukrayna Devlet Başkanı Zelenski, kritik altyapısına yönelik saldırıların durdurulması durumunda gerilimin azaltılmasına açık olduğunu bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-15T15:01:14.997526+00:00",
+  "type": "news",
+  "cluster_id": "cdcfa01dcbe0c"
+ },
+ {
+  "title": "Kremlin: Enerji ateşkesi teklifi iyi bir fikir",
+  "link": "https://www.trthaber.com/haber/turkiye/kremlin-enerji-ateskesi-teklifi-iyi-bir-fikir-956923.html",
+  "source": "TRT Haber",
+  "summary_tr": "Kremlin Sözcüsü Peskov, ABD Başkanı Trump'ın Ukrayna ve Rusya arasında 'enerji ateşkesi' teklifini iyi bir fikir olarak değerlendirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-15T15:01:14.997526+00:00",
+  "type": "news",
+  "cluster_id": "cd0354e126d1f"
+ },
+ {
+  "title": "NATO jets down drone over Lithuania and Russian ship fires flares at Danish helicopter",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTG9fSlBNMF83anJ5cU1odGllV2JVS3BENUxkaTZrSlo5MF9HLW5KaTF0UWxnM2REYWRSX21NaklvVGMxVER2aTJBZ3BuRmNzdGg4STFTOVhpQ1VCMjMycUl0elRnaHlmSEJzRXFKSTljSDE2YWxzajZEY1dxdWUxalppNktfVXNfMFc5cGRaeTJOclVobDJFS3FuMzRQOGNyN3JTQXdDeFJOQQ?oc=5",
+  "source": "AP",
+  "summary_tr": "NATO savaş uçakları Litvanya üzerinde hava alanında drone indirdi; Rus gemi Danimarkalı helikoptere flare atıştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-15T15:01:14.997526+00:00",
+  "type": "news",
+  "cluster_id": "c66586fb8f6a7"
+ },
+ {
+  "title": "'Yaklaşan seçimler' demişti... AKP'den Erdoğan'ın o sözlerine açıklama geldi: 'Erken seçim sinyali değil'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/yaklasan-secimler-demisti-akp-den-erdogan-in-sozlerine-aciklama-geldi-erken-secim-sinyali-degil-2537828",
+  "source": "Cumhuriyet",
+  "summary_tr": "Cumhurbaşkanı Erdoğan'ın 'yaklaşan seçimler' sözleri üzerine AKP, bunun erken seçim sinyali olmadığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-15T15:01:14.997526+00:00",
+  "type": "news",
+  "cluster_id": "c909cd094fa28"
+ },
+ {
+  "title": "Avrupa Parlamentosu, sınırda karbon düzenlemesinin kapsamını genişletmek istiyor",
+  "link": "https://www.aa.com.tr/tr/ekonomi/avrupa-parlamentosu-sinirda-karbon-duzenlemesinin-kapsamini-genisletmek-istiyor/4058110",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Avrupa Parlamentosu, AB'nin Sınırda Karbon Düzenleme Mekanizması'nın kapsamını otomobil parçaları ve beyaz eşya gibi alanlara genişletmek istiyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-15T15:01:14.997526+00:00",
+  "type": "news",
+  "cluster_id": "cfcf812eb9d94"
+ },
+ {
   "title": "Avrupa hava sahasında gerilim: NATO jetleri Litvanya'da İHA düşürdü, Rus ordusu Danimarka helikopterine fişek fırlattı",
   "link": "https://www.bbc.com/turkce/articles/cqde0x78pz6jo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-05T14:01:16.885537+00:00",
   "type": "news",
   "cluster_id": "cbde3785ff5d8"
- },
- {
-  "title": "İşte Meclis’e Sunulan “Terörsüz Türkiye” Çerçeve Yasası Metni ve Gerekçesi",
-  "link": "https://yetkinreport.com/2026/08/05/iste-meclise-sunulan-terorsuz-turkiye-cerceve-yasasi-metni-ve-gerekcesi/",
-  "source": "YetkinReport",
-  "summary_tr": "'Terörsüz Türkiye' olarak bilinen yeni çözüm sürecinin hukuki zeminini oluşturacak çerçeve yasası metni ve gerekçesi Meclis'e sunuldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-05T14:01:16.885537+00:00",
-  "type": "news",
-  "cluster_id": "c33c49dcef6f6"
- },
- {
-  "title": "Meclis'e sunuldu... TBMM Başkanı Numan Kurtulmuş'tan 'çerçeve yasa' açıklaması: 'Türkiye’nin iç kalesini tahkim edecek'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/meclis-e-sunuldu-tbmm-baskani-numan-kurtulmus-tan-cerceve-yasa-aciklamasi-turkiye-nin-ic-kalesini-tahkim-edecek-2526727",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM Başkanı Numan Kurtulmuş, 592 milletvekilinden 360'ının imzasıyla sunulan 12 maddelik çerçeve yasa teklifinin Türkiye'nin iç kalesini tahkim edeceğini belirtti.",
-  "metric": "Çerçeve yasa imza sayısı: 360 milletvekilinden",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-08-05T14:01:16.885537+00:00",
-  "type": "news",
-  "cluster_id": "c3d7d8f5ddbb1"
- },
- {
-  "title": "Zelenskiy: Hava savunması için tedarik edilen füze sayısı 2025'e kıyasla 3 kat azaldı",
-  "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-hava-savunmasi-icin-tedarik-edilen-fuze-sayisi-2025e-kiyasla-3-kat-azaldi/4019232",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Ukrayna Devlet Başkanı Zelenskiy, müttefiklerden hava savunma füzesi tedarikinin 2026'da 2025'e kıyasla 3 kat azaldığını belirtti.",
-  "metric": "Füze tedariki 2025 -> 2026: 1/3'e düşüş (-%67)",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-05T14:01:16.885537+00:00",
-  "type": "news",
-  "cluster_id": "cb2b5d3252a69"
- },
- {
-  "title": "AK Parti Sözcüsü Çelik: 'Terörsüz Türkiye' yasa teklifi ile sürecin en önemli aşamasına gelindi",
-  "link": "https://www.aa.com.tr/tr/gundem/ak-parti-sozcusu-celik-terorsuz-turkiye-yasa-teklifi-ile-surecin-en-onemli-asamasina-gelindi/4019179",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "AK Parti Sözcüsü Ömer Çelik, çerçeve yasa teklifinin sunulmasıyla 2 yıllık 'Terörsüz Türkiye' sürecinin en önemli aşamasına gelindiğini belirtti.",
-  "metric": "",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-08-05T14:01:16.885537+00:00",
-  "type": "news",
-  "cluster_id": "cdcee8efe9943"
- },
- {
-  "title": "Ömer Çelik: 2 yıllık sürecin en önemli aşamasındayız",
-  "link": "https://www.trthaber.com/haber/gundem/omer-celik-2-yillik-surecin-en-onemli-asamasindayiz-953169.html",
-  "source": "TRT Haber",
-  "summary_tr": "AK Parti Genel Başkan Yardımcısı Ömer Çelik, 2 yıllık çerçeve yasa sürecinin en önemli aşamasındaki olduğunu vurguladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-08-05T14:01:16.885537+00:00",
-  "type": "news",
-  "cluster_id": "c9b4bebd33156"
  }
 ]
