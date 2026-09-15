@@ -1,5 +1,41 @@
 [
  {
+  "title": "Yavuzyılmaz: DTÖ'deki 'Çin otomobilleri' davasını AKP kaybetti",
+  "link": "https://www.sozcu.com.tr/yavuzyilmaz-dtodeki-cin-otomobilleri-davasini-akp-kaybetti-p358291",
+  "source": "Sözcü",
+  "summary_tr": "Deniz Yavuzyılmaz, Türkiye'nin Dünya Ticaret Örgütü'ndeki Çin menşeli otomobillere karşı açtığı davayı kaybettiğini açıkladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-15T01:01:02.550202+00:00",
+  "type": "news",
+  "cluster_id": "cd2904c678f13"
+ },
+ {
+  "title": "North Korea's Kim vows to expand ties with Russia, backs victory in 'sacred war'",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVk05VU1ybEIwWHk3Q3VqckNXRWtwVUZlVy1GQnJBaXo0ckV6NXh2RG92LXc3LTJxSVFBRU5JQUN1dEhZSmppanRZSGVTNjhuTzhVa0hZUWdJTFZYam9SRDl4RzNDb3dhRng0WnltR0pOcWdYTVNQc2lLd2FjZzFhVmM5bDRZMV9CQlpDelRWbzZxYzNzWVVCbmVobkFLcTdwbkNXRlpSRGdWR1pSaWhhbnZuS0dUYU5XMDFvZm9iMEl4ek0?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Kuzey Kore lideri Kim, Rusya ile ilişkileri genişletmeyi ve 'kutsal savaşta' zafer sağlamayı taahhüt etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-15T01:01:02.550202+00:00",
+  "type": "news",
+  "cluster_id": "c57c2b6622c80"
+ },
+ {
+  "title": "İhracat birim değer endeksi (yıllık): %8,2",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYkQ0SHdWU0xsM0JUZmVlQVRKRkFNXzF6N3NnOW1pMXIzenRpa01ET1hJTE9zS1NxRXcxZjlyUU1kNkpKakNUOWlJZkZYaWs4a29FYTM4U3NLSnpZRV9aYThtSWxxUVFiY2ZteHJsXzhvT0FwaVVvdEk3Wi02c3VwSkhJZm54Uy14SVJleXlSVjhnV0VfbUNCM3hnclZ0VDRPdDNpczZ3aw?oc=5",
+  "source": "TÜİK",
+  "summary_tr": "%8 → %8,2 (+0,2 puan)",
+  "metric": "+0,2 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-09-15T01:01:02.550202+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "ABD uzayda silahlarının bulunduğunu ilk kez açıkça kabul etti",
   "link": "https://www.bbc.com/turkce/articles/c5lymd84glvzo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-05T05:01:12.084356+00:00",
   "type": "news",
   "cluster_id": "cf405e68aa9e0"
- },
- {
-  "title": "Hürmüz'ün açılabileceğine dair umutlarla petrol fiyatları düştü",
-  "link": "https://www.bbc.com/turkce/articles/ckg9kg3j8v7o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Trump, Hürmüz Boğazı'nın yakında açılacağını söyledi; bu beklenti petrol fiyatlarını düşürdü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-05T04:01:05.091654+00:00",
-  "type": "news",
-  "cluster_id": "c48dd7aceb9e1"
- },
- {
-  "title": "Hürmüz Boğazı'nın yeniden açılabileceği beklentisi petrol fiyatlarını düşürdü",
-  "link": "https://www.trthaber.com/haber/dunya/hurmuz-bogazinin-yeniden-acilabilecegi-beklentisi-petrol-fiyatlarini-dusurdu-953102.html",
-  "source": "TRT Haber",
-  "summary_tr": "Hürmüz Boğazı'nın açılacağı beklentisi petrol fiyatlarını düşürdü; ABD ile İran arasında görüşmeler devam ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-05T04:01:05.091654+00:00",
-  "type": "news",
-  "cluster_id": "c4c2044b31ebd"
- },
- {
-  "title": "Trump: İran'la çok iyi görüşmeler yürütüyoruz, Hürmüz Boğazı yakında açılacak",
-  "link": "https://www.trthaber.com/haber/dunya/trump-iranla-cok-iyi-gorusmeler-yurutuyoruz-hurmuz-bogazi-yakinda-acilacak-953101.html",
-  "source": "TRT Haber",
-  "summary_tr": "Trump, İran'la iyi görüşmeler yürütüldüğünü ve Hürmüz Boğazı'nın yakında açılacağını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-05T04:01:05.091654+00:00",
-  "type": "news",
-  "cluster_id": "c2a04acafee5e"
  }
 ]

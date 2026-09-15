@@ -500,10 +500,10 @@
    "indicator_tr": "TCMB Resmi Rezerv Varlıkları"
   },
   "tr_ihracat_birim_deger_endeksi_yillik": {
-   "value": "%8",
-   "period": "Temmuz",
-   "ts": "2026-09-14T12:02:43.429358+00:00",
-   "indicator_tr": "İhracat birim değer endeksi (yılı/dönemü)"
+   "value": "%8,2",
+   "period": "",
+   "ts": "2026-09-15T01:01:08.131221+00:00",
+   "indicator_tr": "İhracat birim değer endeksi (yıllık)"
   },
   "tr_memur_zam_orani_temmuz": {
    "value": "%13,52",
@@ -1278,6 +1278,7 @@
   "715709cd83566d2b79682ecde1934221": "2026-09-14T16:01:11.689351+00:00",
   "31cc30ac2e7c21cf407c0a8ca106a0c5": "2026-09-14T18:01:06.103432+00:00",
   "2b14c6fb2146d5cd77c04a1e5e93fc6f": "2026-09-14T23:01:03.815277+00:00",
-  "53a985d40c77357915a76743879d3b12": "2026-09-15T00:01:05.379720+00:00"
+  "53a985d40c77357915a76743879d3b12": "2026-09-15T00:01:05.379720+00:00",
+  "7797f4b639dc96ee387f72fff1758afc": "2026-09-15T01:01:02.550202+00:00"
  }
 }
