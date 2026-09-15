@@ -1,5 +1,65 @@
 [
  {
+  "title": "ABD ekonomisinde 19 yıl sonra bir ilk: 10 yıllık tahvil faizi yüzde 5'i aştı",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/abd-ekonomisinde-19-yil-sonra-bir-ilk-10-yillik-tahvil-faizi-yuzde-5-i-asti-2537686",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD'nin 10 yıllık Hazine tahvili getirisi %5,02'yi aşarak 19 yılın en yüksek seviyesine çıktı.",
+  "metric": "ABD 10 yıllık tahvil faizi %5,02 (2007'den sonra en yüksek)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-15T09:01:11.547207+00:00",
+  "type": "news",
+  "cluster_id": "c405a51c88d13"
+ },
+ {
+  "title": "Türkiye'de 2026 yılının en çok kazandıran meslekleri belli oldu",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/turkiye-de-2026-yilinin-en-cok-kazandiran-meslekleri-belli-oldu-2537690",
+  "source": "Cumhuriyet",
+  "summary_tr": "Türkiye'de 2026'nın en çok kazandıran meslekleri araştırması yayınlandı; aylık ortalama gelir 456 bin TL'ye ulaşan meslekler sıralandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-15T09:01:11.547207+00:00",
+  "type": "news",
+  "cluster_id": "c184ff1f14000"
+ },
+ {
+  "title": "Türkiye'de 2026’nın en çok kazandıran meslekleri açıklandı: Zirvede sürpriz değişim",
+  "link": "https://www.sozcu.com.tr/turkiye-de-2026-nin-en-cok-kazandiran-meslekleri-aciklandi-zirvede-surpriz-degisim-p358406",
+  "source": "Sözcü",
+  "summary_tr": "Boğaziçi Enstitüsü'nün 2026 yılı gelir araştırmasına göre Türkiye'de en yüksek aylık kazanca sahip 10 meslek sıralandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-15T09:01:11.547207+00:00",
+  "type": "news",
+  "cluster_id": "c184ff1f14000"
+ },
+ {
+  "title": "Diyarbakır'da bir öğrencinin en düşük masrafı 16 bin lirayı buluyor",
+  "link": "https://www.sozcu.com.tr/diyarbakir-da-bir-ogrencinin-en-dusuk-masrafi-16-bin-lirayi-buluyor-p358412",
+  "source": "Sözcü",
+  "summary_tr": "Diyarbakır'da yeni eğitim-öğretim yılı öncesi kırtasiye ve okul malzemeleri fiyatlarında önemli artışlar gözlenmiş; bir öğrencinin minimum masrafı 16 bin lirayı bulmuştur.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-15T09:01:11.547207+00:00",
+  "type": "news",
+  "cluster_id": "cf394a877a48d"
+ },
+ {
+  "title": "Tarım-ÜFE (yılık): %21,91 (Ağustos)",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRU9NSDhYWVhYZUNrNm5qeWdLdzl2Tl9pajBKbVl1SEp0OUtwYWJ6OHFWTTVvWEJoaVh3ekNTdXExRHNQNElLU2pQVVg2SXhTbnlOdktiZEozOGpyNGNhVllhU3lGLURxMFJ0U2JGSkpOUnlSb1VfMzdBR3FhSExHT21ZS2laaXJscnFFN3NXWkMwSm92UnRFdVZ1RWtMS2s2QmdWemVONFRXOHF1eXh5aw?oc=5",
+  "source": "TÜİK",
+  "summary_tr": "%9,55 → %21,91 (+12,4 puan)",
+  "metric": "+12,4 puan",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-09-15T09:01:11.547207+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "ABD uzaya silah yerleştirdiğini ilk kez resmi olarak doğruladı",
   "link": "https://www.trthaber.com/haber/dunya/abd-uzaya-silah-yerlestirdigini-ilk-kez-resmi-olarak-dogruladi-956869.html",
   "source": "TRT Haber",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-05T11:01:57.987849+00:00",
   "type": "news",
   "cluster_id": "c120d0e3b6ce1"
- },
- {
-  "title": "AI demand pushes Foxconn's monthly revenue to record in July",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOHBXRjF4cDljZWZ6Y3Y4SWI1SXVEOHhfeV9Fd3U3ald6d0d4MFFucG1HODRCdHZkNE5xbkdELVJhV2VLd3dYV2dxY2FIUXpoelZkdXFSYlRyTjAtdHRjSzE5bTJfaTJveHpuWm8tUWNTV1pacGduRDBPak56dW1vYXAzZDBsTzVGeEktdjltb0xwNDg0bFd4cGxsaklQNVdycnRNNjJTVkdWY3RlcnJLbTFn?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Yapay zeka talebinin artışı Foxconn'un temmuzda aylık gelirlerini rekor seviyeye çıkardı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-05T11:01:57.987849+00:00",
-  "type": "news",
-  "cluster_id": "c5e55d2d9c701"
- },
- {
-  "title": "Özgür Özel'in yeni dokunulmazlık fezlekesinde ne var?",
-  "link": "https://www.dw.com/tr/özgür-özel-in-yeni-dokunulmazlık-fezlekesinde-ne-var/a-78242363?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel hakkında yeni dokunulmazlık fezlekesi Muhittin Böcek ve Özkan Yalım'ın ifadelerine dayanarak hazırlandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-05T10:01:13.011885+00:00",
-  "type": "news",
-  "cluster_id": "cfc61afa47c93"
- },
- {
-  "title": "Yüksek Askeri Şura nedir? YAŞ 2026 kararları neler?",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/yuksek-askeri-sura-nedir-yas-2026-kararlari-neler-2526665",
-  "source": "Cumhuriyet",
-  "summary_tr": "Yüksek Askeri Şura (YAŞ) Cumhurbaşkanı Erdoğan başkanlığında toplanarak askeri atamalar değerlendirildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-05T10:01:13.011885+00:00",
-  "type": "news",
-  "cluster_id": "ce7a2beab10d2"
- },
- {
-  "title": "Batı Asya'da kriz ve yıkım, devlerde rekor kâr: Savaş yine sermayeye yaradı",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/bati-asya-da-kriz-ve-yikim-devlerde-rekor-kar-savas-yine-sermayeye-yaradi-2526661",
-  "source": "Cumhuriyet",
-  "summary_tr": "Batı Asya krizinin ortasında dünyanın en büyük sekiz petrol üreticisi ikinci çeyrekde rekor kar elde etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-05T10:01:13.011885+00:00",
-  "type": "news",
-  "cluster_id": "ca38daba5b8da"
- },
- {
-  "title": "Son dakika... Çerçeve yasa teklifi partilere gönderiliyor: DEM Parti imza atacak mı?",
-  "link": "https://www.sozcu.com.tr/son-dakika-cerceve-yasa-teklifi-partilere-gonderiliyor-dem-parti-imza-atacak-mi-p342599",
-  "source": "Sözcü",
-  "summary_tr": "TBMM Başkanlığına sunulan 12 maddelik çerçeve yasa teklifi partilere gönderiliyor; PKK/KCK'nın silah bırakmasını hedefliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-05T10:01:13.011885+00:00",
-  "type": "news",
-  "cluster_id": "c352606208636"
  }
 ]
