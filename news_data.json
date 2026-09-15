@@ -1,5 +1,41 @@
 [
  {
+  "title": "İcra dosyaları ve borçlar artıyor: Batak büyüyor!",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/icra-dosyalari-ve-borclar-artiyor-batak-buyuyor-2537596",
+  "source": "Cumhuriyet",
+  "summary_tr": "İcra dairelerine gelen dosya sayısı 1 Ocak-11 Eylül döneminde geçen yıla kıyasla %2,5 artarak borçlu sayısının arttığını göstermektedir.",
+  "metric": "İcra dosya sayısı yıl-yıl +%2,5",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-15T02:01:09.913439+00:00",
+  "type": "news",
+  "cluster_id": "cb6e11e2208fe"
+ },
+ {
+  "title": "Kamunun nereye ne kadar reklam verdiği yine açıklanmadı: ‘Sır’ dediler, bilgi vermediler!",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/kamunun-nereye-ne-kadar-reklam-verdigi-yine-aciklanmadi-sir-dediler-bilgi-vermediler-2537595",
+  "source": "Cumhuriyet",
+  "summary_tr": "Hazine ve Maliye Bakanı Mehmet Şimşek, kamu bankalarının reklam harcamaları hakkında bilgi vermeyi 'sır' gerekçesiyle reddetmiştir.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-15T02:01:09.913439+00:00",
+  "type": "news",
+  "cluster_id": "cbca6d0af6184"
+ },
+ {
+  "title": "Oil prices rise as Saudi pipeline outage, fresh attacks raise supply concerns",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVGZNVlpqdGZqMGlsa1lSR2IyWU0tbmd2R1ZkY2o5VDNlb0VsMEdhbWlZVzJBLXJ0WU9MTm13WnN2R0M0Slg4TzFkb1VSYVRxQXE5ejQ5eTNRbGcxdUVSNTFKYlk2WmxYbkdPMTJIUEZJRVdBUmFKVHVCamlsUzB2NFJLbkNGbkJFSjR3TTlhNF9vT2g4MXk0MjlzOHhVaWNGX3U3RGlUS0JzekpCb0VBbU8zMGdUbFpIaGlCVHlwcEtoR0U?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Suudi Arabistan'daki boru hattı arızası ve yeni saldırılar petrol arz endişelerini artırarak küresel petrol fiyatlarını yükseltmiştir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-15T02:01:09.913439+00:00",
+  "type": "news",
+  "cluster_id": "c984e609895fe"
+ },
+ {
   "title": "Yavuzyılmaz: DTÖ'deki 'Çin otomobilleri' davasını AKP kaybetti",
   "link": "https://www.sozcu.com.tr/yavuzyilmaz-dtodeki-cin-otomobilleri-davasini-akp-kaybetti-p358291",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-05T05:01:12.084356+00:00",
   "type": "news",
   "cluster_id": "ca82778414da4"
- },
- {
-  "title": "India's Sensex gains, Nifty flat after RBI rate pause",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVVdvczY0a3k0cFBWYWNRLXVWTUZudDE4Z1I3TG5lSWxLQUx4aHkyMkcxY01aYlk5V2hVMUo0cVRUOG40b2JXYW5kWjFBdXRiYTJFWmt4enA3TTZEYzNLR0tyblpsZzFrVk9SZTd2c3VaZjFCcGppYThwaDE2NTVZRm5fMkVhS180VllpSEhObG9tVWxHM3Y2RXFhb2F3elkxa21nWktHYw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Hindistan'da RBI'nin faiz kararı sonrası Sensex yükseldi, Nifty ise yatay seyretti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-05T05:01:12.084356+00:00",
-  "type": "news",
-  "cluster_id": "ca3298d38a7c3"
- },
- {
-  "title": "Gold extends gains on lower oil and softer dollar, markets await US jobs data",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSmlKVnBzQTlPclFHcWhMcVpJeXB0eVQ1ODYxMTk1bkRLbDVybnI4dXhqQ01HaDR1N1FULU03ZDhZWUlEMkFtV2Z3RmFTWHhpVDFlRi0wRG9ZSkFlWVFTUFhXUFVjN3A5Zm1FSnNUbHlwWHF4OEo0TkxvZVV2OEdJNS1ZdG9OQ3V4ME43NV9QeXpSSnVQUEdIb1Jn?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Altın fiyatları düşen petrol ve zayıflayan dolar etkisiyle yükselişini sürdürüyor. Piyasalar ABD istihdam verisini bekliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-05T05:01:12.084356+00:00",
-  "type": "news",
-  "cluster_id": "c8706a7c10b66"
- },
- {
-  "title": "Brazil downgrades diplomatic ties with Argentina after Milei insults Lula",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOEJrREUxMm9DZ0RuajlJcjJXMW85UWdCLW0tcFBWeGJKNVVWVkMwdVpnT3RmMlQ2MGg3bVItV1YwVEJqMkxfSkNNTnZENXRjTmFnVWx3S2xzaUtURUVWWmNwZEdIbWNBak00Vy1XVnBzdlZqcXo3TkJDdnJIdXdxaThFcWdKR1l0dzFRVVVxRUdHU240TGJ1RDd5ejhGUDZNMXFoQ0ttRXJYVDRsTE1od2tYTXhTZkNyZnlr?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Brezilya, Arjantin Devlet Başkanı Milei'nin Lula'ya yönelik hakaretleri nedeniyle diplomatik ilişkisini düşürdü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-05T05:01:12.084356+00:00",
-  "type": "news",
-  "cluster_id": "cf405e68aa9e0"
  }
 ]
