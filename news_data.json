@@ -1,5 +1,17 @@
 [
  {
+  "title": "ABD uzayda silahlarının bulunduğunu ilk kez açıkça kabul etti",
+  "link": "https://www.bbc.com/turkce/articles/c5lymd84glvzo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD, yörüngede konuşlandırdığı uzay silahını ilk kez resmi olarak kabul etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-15T00:01:05.379720+00:00",
+  "type": "news",
+  "cluster_id": "cffc22a6b0eee"
+ },
+ {
   "title": "Litvanya hava sahasına giren İHA, NATO savaş uçakları tarafından düşürüldü",
   "link": "https://www.aa.com.tr/tr/dunya/litvanya-hava-sahasina-giren-iha-nato-savas-ucaklari-tarafindan-dusuruldu/4057240",
   "source": "Anadolu Ajansı",
@@ -59986,17 +59998,5 @@
   "ts": "2026-08-05T04:01:05.091654+00:00",
   "type": "news",
   "cluster_id": "c2a04acafee5e"
- },
- {
-  "title": "Oil steadies after two-day slump as investors eye Hormuz traffic",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDd2cFJ5Z2dsbTliajVMY1o5eVQ3Q3djdGVaYXA2aVhJQUROSVk5NmVjSkUydkw0YUItOGI1VFl1Wl9uZVY2SWhZLVZZY2hFTTFyaEoxM0otRWQ0Vzk4bjdEV18yYkhQS05GUzQ5dHdsY0wwemg4cG53dnZkVmx0M1pMdzl2cDk2MDBlZlN3ZVY0RVMxU2JNcE5Ta2Nrd3l4OVpvTnlIY0hscHRpOUozRVpDUQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Hürmüz Boğazı trafiği beklentisiyle petrol fiyatları stabilleşti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-05T04:01:05.091654+00:00",
-  "type": "news",
-  "cluster_id": "cb3c5d67739d1"
  }
 ]
