@@ -1,5 +1,53 @@
 [
  {
+  "title": "Depo alev aldı",
+  "link": "https://www.sozcu.com.tr/depo-alev-aldi-p358288",
+  "source": "Sözcü",
+  "summary_tr": "Motorin fiyatı 6,62 liralık zamla 96 liraya ulaştı; doğu illerinde 98 lirayı aştı.",
+  "metric": "Motorin fiyatı 89,38 TL -> 96 TL (+%7,4)",
+  "lean": "left",
+  "score": 9,
+  "ts": "2026-09-15T03:01:05.939046+00:00",
+  "type": "news",
+  "cluster_id": "cf640def26f4d"
+ },
+ {
+  "title": "Adana’nın yolları ranttan",
+  "link": "https://www.sozcu.com.tr/adana-nin-yollari-ranttan-p358287",
+  "source": "Sözcü",
+  "summary_tr": "Adana'da yol yapım ihalesi bedeli 1 milyar 57 milyon liradan 3 milyar 738 milyon liraya çıktı.",
+  "metric": "Yol yapım proje bedeli 1.057 Mn TL -> 3.738 Mn TL (+%254)",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-09-15T03:01:05.939046+00:00",
+  "type": "news",
+  "cluster_id": "c45d4c56dc995"
+ },
+ {
+  "title": "Otoyolların yüzde 90’ı şirketlere geçecek",
+  "link": "https://www.sozcu.com.tr/otoyollarin-yuzde-90-i-sirketlere-gececek-p358289",
+  "source": "Sözcü",
+  "summary_tr": "YENİ Parti Milletvekili Deniz Yavuzyılmaz, köprü ve otoyol özelleştirmelerinin gerçekleşmesi halinde otoyol ağının yüzde 90'ının şirketlere geçeceğini bildirdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-15T03:01:05.939046+00:00",
+  "type": "news",
+  "cluster_id": "cefd3a2706158"
+ },
+ {
+  "title": "Yatırımcının gözü devirde",
+  "link": "https://www.sozcu.com.tr/yatirimcinin-gozu-devirde-p358283",
+  "source": "Sözcü",
+  "summary_tr": "SPK, BDDK ve Rekabet Kurumu onayları alınmadan Pusula Finansal'da yönetim değişti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-15T03:01:05.939046+00:00",
+  "type": "news",
+  "cluster_id": "c4dfe0cb5f5b6"
+ },
+ {
   "title": "İcra dosyaları ve borçlar artıyor: Batak büyüyor!",
   "link": "https://www.cumhuriyet.com.tr/turkiye/icra-dosyalari-ve-borclar-artiyor-batak-buyuyor-2537596",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-05T05:01:12.084356+00:00",
   "type": "news",
   "cluster_id": "c73af101e787c"
- },
- {
-  "title": "Çocukların karıştığı olay sayısı son 10 yılda yüzde 36 arttı",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMkFiTW53Z0dlVGNPWEVfaXpITnNLY0tiYkt2d2VWUDFzUGtlWFFmUmhYWnJMVWpRR1hTY0JCU3l5elh1VWZCUjY5WVk1MTJNZFRQMDhzWE5KS3V2NnA4U3M3VnBudmMtTnNRenVBNXFwV25qc05ZRnpFQW9qMm51SVk2aVJKWHd0YkUwNE0zY2lSeXN6bDJlZDlzNEg5aHM?oc=5",
-  "source": "soL",
-  "summary_tr": "TÜİK verilerine göre çocukların karıştığı olay sayısı son 10 yılda yüzde 36 arttı.",
-  "metric": "Çocuk olayları son 10 yıl +%36",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-05T05:01:12.084356+00:00",
-  "type": "news",
-  "cluster_id": "c3140dbb39736"
- },
- {
-  "title": "Taiwan launches major war games to test command flexibility",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdDZTVDVpUk5LTEl1NmJueDZtSkNwUlllcm1rZmFNUnY4Ml9hb1MzUHRaQ1Z4N1pFUXhyQjJ1YmRaa3hNLThUMEFNOGVkS0RZbmxzZ3pWUDdlM2pSTnN1RGdpZGRvQjNwbzFEVnVRXy03WWNkVjRwV2sta0gyQnhIWWNXN2tHYUNETTdUSDFtTFAwbU5zQ0w0WDFXZktxaENEdmFtWWZiUQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Tayvan ABD-Çin gerilimi ortamında komuta sistemi esnekliğini test etmek için büyük ölçekli savaş tatbikatı başlattı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-05T05:01:12.084356+00:00",
-  "type": "news",
-  "cluster_id": "c65cf93875812"
- },
- {
-  "title": "Altın ve gümüşte yükseliş dalgası",
-  "link": "https://www.sozcu.com.tr/altin-ve-gumuste-yukselis-dalgasi-p342458",
-  "source": "Sözcü",
-  "summary_tr": "Altın ve gümüş fiyatları ABD dolarındaki gevşeme ve petrol fiyatlarının düşüşünün etkisiyle yükselişe geçti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-05T05:01:12.084356+00:00",
-  "type": "news",
-  "cluster_id": "c93f5142aa8b6"
- },
- {
-  "title": "Oil extends declines as investors await outcome of US-Iran talks",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDd2cFJ5Z2dsbTliajVMY1o5eVQ3Q3djdGVaYXA2aVhJQUROSVk5NmVjSkUydkw0YUItOGI1VFl1Wl9uZVY2SWhZLVZZY2hFTTFyaEoxM0otRWQ0Vzk4bjdEV18yYkhQS05GUzQ5dHdsY0wwemg4cG53dnZkVmx0M1pMdzl2cDk2MDBlZlN3ZVY0RVMxU2JNcE5Ta2Nrd3l4OVpvTnlIY0hscHRpOUozRVpDUQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Petrol fiyatları ABD-İran müzakerelerin sonucunu beklerken düşüşünü sürdürüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-05T05:01:12.084356+00:00",
-  "type": "news",
-  "cluster_id": "ca82778414da4"
  }
 ]
