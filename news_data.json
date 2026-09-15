@@ -1,5 +1,29 @@
 [
  {
+  "title": "ABD'de hanehalkı geliri 2025'te rekor seviyeye yükselirken yoksulluk azaldı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abdde-hanehalki-geliri-2025te-rekor-seviyeye-yukselirken-yoksulluk-azaldi-/4058271",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD'de 2025 reel medyan hanehalkı geliri 87 bin 460 dolara ulaşarak rekor seviyeye çıktı; yoksulluk oranı yüzde 10,2'ye düştü.",
+  "metric": "Medyan hanehalkı geliri reel: 87.460 dolar (yüksek)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-15T19:01:11.323040+00:00",
+  "type": "news",
+  "cluster_id": "cf19a3d39ccd7"
+ },
+ {
+  "title": "Fransa'da zam isteyen polisler Paris'te eylem yaptı",
+  "link": "https://www.trthaber.com/haber/dunya/fransada-zam-isteyen-polisler-pariste-eylem-yapti-956941.html",
+  "source": "TRT Haber",
+  "summary_tr": "Fransa'da binlerce polis maaş artışı ve çalışma koşullarının iyileştirilmesini talep ederek Paris'te eylem düzenledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-15T19:01:11.323040+00:00",
+  "type": "news",
+  "cluster_id": "c0577265b2dbb"
+ },
+ {
   "title": "Pentagon denetçisi, İran savaşının ABD'de mühimmat sıkıntısı yarattığını doğruladı",
   "link": "https://www.bbc.com/turkce/articles/cw770k880mx6o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-05T16:01:13.008304+00:00",
   "type": "news",
   "cluster_id": "c73b33bff1f70"
- },
- {
-  "title": "360'a yakın milletvekili çerçeve yasaya imza attı; Yeni Parti ve İyi Parti henüz imzalamadı; işte AKP'li Güler'in paylaştığı detaylar",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObkR1aGwzMHFqdk9TS2Roay1SaV8zdV9CaDQtLUVwZmh0N04tdGoxQTZzNEhZczZEbm1ncDRENXMwY2E2MElGOTlLbGxVQ0pZRV9TSnhMTjg0WUhlNlZQUVUyVmljSVk4Z2N5LXlPV1lRMEU4SVlEMkNhX3BpVk4tTnRCMzBkMjIxT2RuUVkwczFXY25hX2xNbXlKVlVEOVRZYUR5OUZyTjVJQQ?oc=5",
-  "source": "T24",
-  "summary_tr": "Yaklaşık 360 milletvekili çerçeve yasaya imza attı; Yeni Parti ve İyi Parti henüz imzalamadı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-05T16:01:13.008304+00:00",
-  "type": "news",
-  "cluster_id": "c4452d8a49f66"
- },
- {
-  "title": "Israeli military strikes southern Lebanon after evacuation warning to village",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUNJWWdZUW9teWxlNDE2eWVZWTFmd0JQdmwwYUNvSEpES1BhMjBJNF9LczlwUTZkaTZjMm5MNFhEUFN1RnpZclZHamljVnlGcW5GdkFMclYyUjQ4dEpHRWwtNjJLdjNoNWx5YlU3Q1FIUmhoV1hxMktXNnZXanZLLW9YS1JjRGp6ZkNMbTNGOVlETVRSUGREMnZ5dDVhUjYyWlB1RzBwenhtUDg3dDdIYVpoTXBlN2dFWTkyVnJn?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İsrail ordusu, Güney Lübnan'da tahliye uyarısını takiben askeri operasyon gerçekleştirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-05T16:01:13.008304+00:00",
-  "type": "news",
-  "cluster_id": "cc0a666a85834"
  }
 ]
