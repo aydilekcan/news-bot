@@ -1,5 +1,29 @@
 [
  {
+  "title": "Almanya Başbakanı Merz, New York ziyaretini iptal etti",
+  "link": "https://www.cumhuriyet.com.tr/dunya/almanya-basbakan-merz-new-york-ziyaretini-iptal-etti-2537933",
+  "source": "Cumhuriyet",
+  "summary_tr": "Almanya Başbakanı Friedrich Merz, BM Genel Kurulu'na katılmak üzere planladığı New York ziyaretini iptal etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-15T22:01:04.534831+00:00",
+  "type": "news",
+  "cluster_id": "ced0d5c08825f"
+ },
+ {
+  "title": "Iran war cost hits $38 billion, forecast to rise $3 billion a month, CBO says",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNEs4SmV2UTYzblAwenVTemk5SWQtMTRPbkpoLTVxaEVrYzBYNDJfX0RrSmVVZVZadlFBVnF0WkJNeGc5czMxVWREeDFtS0dZeGJ2V2tqSVg5VWM5UUFtN1hsMXlPX3g4d1RMbk5BR1oxcVdyYjBIaHg0bFl1SXY1dDMzazVEZlNBOHdCWm8zRno2Vjc1TEJ6ekdnQ25COEVkS3FVNHJmeWEyRVZJd2p3aF80RFlhZmVtREhQbkpIdw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Kongresi Bütçe Ofisi'ne göre İran'a karşı operasyonların maliyeti 38 milyar dolara ulaştı ve aylık 3 milyar dolar artış öngörülüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-15T22:01:04.534831+00:00",
+  "type": "news",
+  "cluster_id": "c413f93a7863e"
+ },
+ {
   "title": "#kira raporu",
   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oLXlheDRSU09mVTB6ZVNwcHhGczFjaHA2eWhYbG5JYkJ3am5Kb0ZLWGlScHZIOTgwRTJqNXVfY0loTmtBYWVVdmNnMk16NDBsRzNGRQ?oc=5",
   "source": "T24",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-05T18:01:04.119561+00:00",
   "type": "news",
   "cluster_id": "c37248c386a0d"
- },
- {
-  "title": "Yeni Parti'nin Sürece Dair Tutumu Netleşiyor",
-  "link": "https://www.sozcu.com.tr/yeni-parti-de-gozler-yarina-cevrildi-resmi-aciklama-yapilacak-p342709",
-  "source": "Sözcü",
-  "summary_tr": "Yeni Parti, hukuk müşaviri danışmanlarla sürece ilişkin ön değerlendirme yapıyor; nihai karar bekleniyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-05T18:01:04.119561+00:00",
-  "type": "news",
-  "cluster_id": "cd5575e160ee9"
- },
- {
-  "title": "Çerçeve yasa teklifi Meclis'te: Kimleri kapsıyor, hangi koşullar aranacak?",
-  "link": "https://www.bbc.com/turkce/articles/cdrvng02zn7o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Meclis'te 'Terörsüz Türkiye' çerçeve yasası görüşülüyor; AKP ve DEM Parti farklı adlandırmalarla yeni çözüm sürecinin hukuki altyapısını oluşturmayı hedefliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-05T17:01:06.796071+00:00",
-  "type": "news",
-  "cluster_id": "cce22ad7d6acb"
  }
 ]
