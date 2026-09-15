@@ -1,5 +1,53 @@
 [
  {
+  "title": "Pentagon denetçisinden İran savaşına ilişkin ilk rapor: ABD tesisleri hasar gördü ve füze stokları azaldı",
+  "link": "https://www.trthaber.com/haber/dunya/pentagon-denetcisinden-iran-savasina-iliskin-ilk-rapor-abd-tesisleri-hasar-gordu-ve-fuze-stoklari-azaldi-956853.html",
+  "source": "TRT Haber",
+  "summary_tr": "Pentagon denetçisinin raporuna göre, İran savaşında ABD tesisleri hasar gördü ve füze stokları azaldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-15T05:01:20.272134+00:00",
+  "type": "news",
+  "cluster_id": "c1017c9e440fe"
+ },
+ {
+  "title": "İran ticaretini kuzeye kaydırıyor: Türkiye de rotada",
+  "link": "https://www.dw.com/tr/iran-ticaretini-kuzeye-kaydırıyor-türkiye-de-rotada/a-79261264?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "İran, ABD yaptırımlarından kaçınmak için güneydeki deniz taşımacılığını kuzeydeki limanlara ve kara yollarına kaydırıyor; Türkiye bu rotada önemli rol oynuyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-15T05:01:20.272134+00:00",
+  "type": "news",
+  "cluster_id": "cd12900f0df69"
+ },
+ {
+  "title": "Seferihisar Belediyesi'ne operasyon: Gözaltına alınan 47 kişi adliyeye sevk edildi",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/seferihisar-belediyesi-ne-operasyon-gozaltina-alinan-47-kisi-adliyeye-sevk-edildi-2537615",
+  "source": "Cumhuriyet",
+  "summary_tr": "Seferihisar Belediyesi'ne rüşvet iddiasıyla operasyon düzenlendi; 47 kişi gözaltına alındı ve adliyeye sevk edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-15T05:01:20.272134+00:00",
+  "type": "news",
+  "cluster_id": "cc5afa3576b64"
+ },
+ {
+  "title": "China's new tech, national security exit rules take effect",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUU9BOGpkbUk0UVhJRjlsRVNXdUZtNUw4ZGR4RGxqWW94OEF1T184SWh4bmhCX2hMTmJCa2dNZGpsSWlSOEhwaUtrUlVpUm5Nd3g1blU1UkxOZkU3MDhYQ2MyRUVMR1EyMXdPbzVFLW5SQ2pKcktpMmpLcl9PcDIyXzdhMERQcjd5X3gzUjFPcEdvandGSlg2aXFLZnZEcTBOV3ZWNVNZMA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin, teknoloji ve ulusal güvenlik alanında yeni çıkış kurallarını yürürlüğe koydu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-15T05:01:20.272134+00:00",
+  "type": "news",
+  "cluster_id": "c07a84e2f8e43"
+ },
+ {
   "title": "ABD ilk kez uzaya silahı konuşlandırdığını doğruladı",
   "link": "https://www.trthaber.com/haber/dunya/abd-ilk-kez-uzaya-silahi-konuslandirdigini-dogruladi-956842.html",
   "source": "TRT Haber",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-05T06:01:09.453608+00:00",
   "type": "news",
   "cluster_id": "ce59dc166be21"
- },
- {
-  "title": "Iran and Oman are working on a plan to reopen the Strait of Hormuz, and other Mideast developments",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObXBWcm1tUGMzTS10VXhUNlBaMENHZzBNMnRxVzhQZnEyN3kwSF9Cd0pQUHZLQS11Y0Jpd2tiTGIxRE1WVXNxa3lqWXBiSmdONXFjTkRXb195eThEeEpVYzlZOU1uaTE0d3M1N3Y5NU9IVGpTM0MzUkRjVzA4SnFXTk9RWDhZRzhPc1JZNVhKZUM1ZFBkSk9qeHJsanhpUzdaVUs4UFlMXzVxRE0?oc=5",
-  "source": "AP",
-  "summary_tr": "İran ve Umman Hürmüz Boğazı açılışı için plan üzerinde çalışıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-05T06:01:09.453608+00:00",
-  "type": "news",
-  "cluster_id": "cee776babeb4d"
- },
- {
-  "title": "Recep Genel: O tatlı kârların her kuruşunu bu millet ödüyor",
-  "link": "https://www.diken.com.tr/recep-genel-o-tatli-karlarin-her-kurusunu-bu-millet-oduyor/?utm_source=rss&utm_medium=rss&utm_campaign=recep-genel-o-tatli-karlarin-her-kurusunu-bu-millet-oduyor",
-  "source": "Diken",
-  "summary_tr": "Maliye faiz ödemeleri 2.5 trilyon TL'yi aştı; vatansal kaynak sorunu derinleşiyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-05T06:01:09.453608+00:00",
-  "type": "news",
-  "cluster_id": "c38e8908f9995"
- },
- {
-  "title": "Özlem Karahan: Emekli maaşına zam haftalık pazar masrafına yetmiyor",
-  "link": "https://www.diken.com.tr/ozlem-karahan-emekli-maasina-zam-haftalik-pazar-masrafina-yetmiyor/?utm_source=rss&utm_medium=rss&utm_campaign=ozlem-karahan-emekli-maasina-zam-haftalik-pazar-masrafina-yetmiyor",
-  "source": "Diken",
-  "summary_tr": "Emekli maaş artışı yetersiz; 23.552 TL aylıkla en düşük kira masrafları karşılanamıyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-05T06:01:09.453608+00:00",
-  "type": "news",
-  "cluster_id": "c64e2259fd8e6"
- },
- {
-  "title": "EXCLUSIVE: North Korean missile unit deploys in Russia for Ukraine war, Kyiv says",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaFRSNUJ4Q1ZaYlI0cVl1UjMyRHBNdE40MEYtTGJ6YXplZTdyTG9XTkRDSzg3NUNhUGVTTkY3c1I1MThScU1pZF9Ta1hDYzlHeklKZU8xVTdpUE5xemw4eU4wcUxBUXQ4N1VmMTMxM1N1dXo0SXNMWklQc21EeTFUdnpvTlF4QXRlNGpQM1FySkQ5eDhCWDRLVDVRd1VlaUlpUmtuRS1TVkNEOXRhalVyOXF6VUhFM0JxdzVMaUlXWkpNM2s?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ukrayna: Kuzey Kore füze birliği Rusya'da Ukrayna savaşında konuşlandırılmış.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-05T06:01:09.453608+00:00",
-  "type": "news",
-  "cluster_id": "c5687ec5291a6"
  }
 ]
