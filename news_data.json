@@ -1,5 +1,77 @@
 [
  {
+  "title": "Motorine bir zam daha bekleniyor: 100 lirayı aşabilir",
+  "link": "https://www.diken.com.tr/motorine-bir-zam-daha-bekleniyor-100-lirayi-asabilir/?utm_source=rss&utm_medium=rss&utm_campaign=motorine-bir-zam-daha-bekleniyor-100-lirayi-asabilir",
+  "source": "Diken",
+  "summary_tr": "Motorine 2,30-3 lira zam bekleniyor; fiyat 100 lirayı aşabilir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-15T13:01:17.339187+00:00",
+  "type": "news",
+  "cluster_id": "c9732e42c9699"
+ },
+ {
+  "title": "Otomotiv sektörü çıkmazda: Toyota ve Çinli devlerden sürpriz karar",
+  "link": "https://www.sozcu.com.tr/otomotiv-sektoru-cikmazda-toyota-ve-cinli-devlerden-surpriz-karar-p358486",
+  "source": "Sözcü",
+  "summary_tr": "Toyota, elektrikli araç rekabetinde onlarca yıllık çift ortam stratejisinden vazgeçiyor; Çin pazarında sert fiyat savaşı yaşanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-15T13:01:17.339187+00:00",
+  "type": "news",
+  "cluster_id": "c617312df0f19"
+ },
+ {
+  "title": "Rusya'da benzin sıkıntısı yeniden gündemde",
+  "link": "https://www.aa.com.tr/tr/ekonomi/rusyada-benzin-sikintisi-yeniden-gundemde/4057958",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Rusya'da akaryakıt sorunu yeniden gündemde; Ukrayna'nın enerji altyapısına yönelik İHA saldırıları benzin sıkıntısını artırıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-15T13:01:17.339187+00:00",
+  "type": "news",
+  "cluster_id": "c285c8ce1cb93"
+ },
+ {
+  "title": "İtalya'da Meloni hükümetinin hazırladığı seçim yasası reformu Senato'dan onay aldı",
+  "link": "https://www.aa.com.tr/tr/dunya/italyada-meloni-hukumetinin-hazirladigi-secim-yasasi-reformu-senatodan-onay-aldi/4057949",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İtalya Senato'su Meloni hükümetinin seçim yasası reformunu onayladı; en az %42 oy alan ittifaka ek sandalye garantiliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-15T13:01:17.339187+00:00",
+  "type": "news",
+  "cluster_id": "c7e2ae7f26dbd"
+ },
+ {
+  "title": "Bakan Fidan: Hürmüz Boğazı'nda savaş öncesi statükoya bir an önce dönülmelidir",
+  "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-hurmuz-bogazinda-savas-oncesi-statukoya-bir-an-once-donulmelidir/4057923",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Dışişleri Bakanı Fidan, Hürmüz Boğazı'nda savaş öncesi statükoya dönülmesi çağrısı yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-15T13:01:17.339187+00:00",
+  "type": "news",
+  "cluster_id": "cbc7d0b7e12ed"
+ },
+ {
+  "title": "Bakan Fidan: Savaşın Karadeniz'de de yayılması kabul edilebilir değil",
+  "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-savasin-karadenizde-de-yayilmasi-kabul-edilebilir-degil-956912.html",
+  "source": "TRT Haber",
+  "summary_tr": "Dışişleri Bakanı Fidan, Rusya-Ukrayna Savaşı'nın Karadeniz'e yayılmasının kabul edilebilir olmadığını ifade etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-15T13:01:17.339187+00:00",
+  "type": "news",
+  "cluster_id": "c9b7fe46e95d2"
+ },
+ {
   "title": "Global bond yields hit 2008 highs, raising stakes for big borrowers",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeThNUUotQTJlelBLMUoySDNIZnR5dlBReWhadGo3VWF6YTBDMG9aYW5JREJhMG9OdXFmMC1OQ1F1VGs5bkxxeXAwY0gweVFkZmpkMHYxelhsbVAta1AyUEk0bEluNWc0UnVTQ0JIZVVuTS1oQVZQdjNqazFKREV2b2RRU3dQanl0N2JvY052QTVSczVVck1YZW1uY1RVem1iNDJzQ1FEbXZwc3UzamZmTA?oc=5",
   "source": "Reuters",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-05T13:01:24.127765+00:00",
   "type": "news",
   "cluster_id": "c718bc34edac5"
- },
- {
-  "title": "Putin’den Rus ordusunda kapsamlı değişiklik: Kritik görevlere yeni atamalar",
-  "link": "https://www.cumhuriyet.com.tr/dunya/putin-den-rus-ordusunda-kapsamli-degisiklik-kritik-gorevlere-yeni-atamalar-2526708",
-  "source": "Cumhuriyet",
-  "summary_tr": "Putin, Savunma Bakanlığının yeniden yapılandırılması kapsamında orduda silah tedariki, lojistik ve cephe komutası görevlerine yeni atamalar yaptı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-05T13:01:24.127765+00:00",
-  "type": "news",
-  "cluster_id": "cc2dc00ea2303"
- },
- {
-  "title": "Ürdün’de Kudüs konulu toplantı sonrası 14 ülke İsrail politikaları kınadı",
-  "link": "https://www.aa.com.tr/tr/dunya/urdun-de-kudus-konulu-toplanti-sonrasi-14-ulke-israil-politikalari-kinadi/4019124",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Ürdün'de Kudüs konulu toplantı sonrası 14 ülke, İsrail'in Kudüs'ün Arap, Müslüman ve Hristiyan kimliğini değiştirmeye yönelik politikalarını kınadı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-05T13:01:24.127765+00:00",
-  "type": "news",
-  "cluster_id": "c1521068c9b4c"
- },
- {
-  "title": "Ürdünde Kudüs toplantısı: 14 ülke ortak açıklama yaptı",
-  "link": "https://www.trthaber.com/haber/dunya/urdunde-kudus-toplantisi-14-ulke-ortak-aciklama-yapti-953167.html",
-  "source": "TRT Haber",
-  "summary_tr": "Ürdün'de Kudüs konulu toplantı sonrası 14 ülke ortak açıklamada İsrail'in Kudüs politikalarını kınadı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-05T13:01:24.127765+00:00",
-  "type": "news",
-  "cluster_id": "c74b5b5b03852"
- },
- {
-  "title": "Numan Kurtulmuş: Devlet aklı ve millet irfanı buluştu",
-  "link": "https://www.trthaber.com/haber/gundem/numan-kurtulmus-devlet-akli-ve-millet-irfani-bulustu-953166.html",
-  "source": "TRT Haber",
-  "summary_tr": "TBMM Başkanı Kurtulmuş, çerçeve yasanın Meclis'e sunulmasını devlet aklı ile millet irfanının buluşması olarak değerlendirdi.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-05T13:01:24.127765+00:00",
-  "type": "news",
-  "cluster_id": "cef280198da93"
- },
- {
-  "title": "CHP Grup yönetimi Çerçeve Kanun Teklifini imzaladı",
-  "link": "https://www.trthaber.com/haber/gundem/chp-grup-yonetimi-cerceve-kanun-teklifini-imzaladi-953165.html",
-  "source": "TRT Haber",
-  "summary_tr": "CHP TBMM Grup Başkanı Faik Öztrak başkanlığındaki heyet, 'Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesi' çerçeve kanun teklifini imzaladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-05T13:01:24.127765+00:00",
-  "type": "news",
-  "cluster_id": "c3a338fcf4694"
- },
- {
-  "title": "Putin names head of new Russian drone forces in military reshuffle",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOWRFZk1NZFA0NXNZNmlPcF9ieHFTQjloNURNQURIcnZ1SDQ0YkZXRHFNTlA2S21Qa1dLNDJKVUwtcHpXam83c2l0dVdLcURabDR3UlR4OWZFOXJuZEJKbkdSMHFweXJZS3pKUXZ6cDRERnl2UnVWa0FoZnhqV2s1bGdmVmFKNG5tbm1wcnVEdmNDcS1LZFdnS0p1cDNrYjZsYlhwM181YnFYeGdPZkE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Putin, askeri yeniden yapılanma kapsamında yeni Rus İHA güçlerinin başını atadı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-05T13:01:24.127765+00:00",
-  "type": "news",
-  "cluster_id": "cd4454b34b5d9"
  }
 ]
