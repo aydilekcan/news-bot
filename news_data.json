@@ -1,5 +1,65 @@
 [
  {
+  "title": "Pentagon denetçisi, İran savaşının ABD'de mühimmat sıkıntısı yarattığını doğruladı",
+  "link": "https://www.bbc.com/turkce/articles/cw770k880mx6o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD Savunma Bakanlığı denetçisi, İran'la savaşın ABD'de mühimmat sıkıntısı ve ikmal darboğazı yarattığını doğruladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-15T18:01:05.419658+00:00",
+  "type": "news",
+  "cluster_id": "c33c915679425"
+ },
+ {
+  "title": "AB Yüksek Temsilcisi: Putin durdurulmadığı sürece durmayacak",
+  "link": "https://www.trthaber.com/haber/dunya/ab-yuksek-temsilcisi-putin-durdurulmadigi-surece-durmayacak-956939.html",
+  "source": "TRT Haber",
+  "summary_tr": "AB Yüksek Temsilcisi Kaja Kallas, Rusya'nın Putin durdurulmadığı sürece Avrupa'daki hibrit saldırılarına devam edeceğini uyardı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-15T18:01:05.419658+00:00",
+  "type": "news",
+  "cluster_id": "cdedeb3dae52f"
+ },
+ {
+  "title": "Özgür Özel 'milletin gündemi belli' dedi: O çarpıcı örneği paylaştı! 'Bu kara düzen...'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-milletin-gundemi-belli-dedi-o-carpici-ornegi-paylasti-bu-kara-duzen-2537867",
+  "source": "Cumhuriyet",
+  "summary_tr": "YENİ Parti lideri Özgür Özel, telefonların vergilerine ilişkin çarpıcı bir örnek paylaşarak milletin gündemini vurguladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-15T18:01:05.419658+00:00",
+  "type": "news",
+  "cluster_id": "ce3d3cf0ae984"
+ },
+ {
+  "title": "Erdoğan'ın sözleri tartışma yaratmıştı; AKP'den erken seçim ve yeni anayasa açıklaması",
+  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uRjZ5LWY0RTJNbWYta1RYX3E3QWx4NDVTalZxMExmQTh2VC1BR0FCVTdZMkpoUTFqX1NPTkprczIzNkhqdUNnX1BlaTdxNHhCdlk2ZWZyUEd0dWZKQ1Nv?oc=5",
+  "source": "T24",
+  "summary_tr": "AKP'den Erdoğan'ın sözlerinin ardından erken seçim ve yeni anayasa konusunda açıklama yapıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-15T18:01:05.419658+00:00",
+  "type": "news",
+  "cluster_id": "c5f4fda7438b1"
+ },
+ {
+  "title": "US poverty rate dips to lowest on record, Census Bureau says",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM1FjdXUwVHNINm5sUm80N3BGQmpwamNMeWJzRHZkMUptbUFlaWRaWkJIeWZhYkNqQ3hHd1J6Qy15UHpDU2lzQUp6Sjc2NE0zc3Jac0JyNHNwUm1JNUw1TzcwM1JhOXNrVEs5MkFScmctY0t1b2NiaW5EVFBkZzFOcUdsa21kcEFhX1ZkNXRn?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Nüfus Sayım Bürosu, ülkenin yoksulluk oranının rekora düşmesini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-15T18:01:05.419658+00:00",
+  "type": "news",
+  "cluster_id": "c7a25391bec17"
+ },
+ {
   "title": "Federal Reserve is expected to raise its benchmark rate, defying Trump’s demands",
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcEg4dFhUa0hYYzZsdXJhRTVFZ09rQUl5ems3Z0JuTE8zdlZJb3Z4bC1QUjZ3d0MzZG1KazlSenRUT20wSGFCMm9ya3AzQjJQeFBVZXB1enM4SDd5akRpNmgwT3RuOXRhSWZvVDYtZ3BOdkx1OWVkWmRCd292c1ItVDVVcmZKV1VPMWtjSU9IVF8tWEpUYm1pRnJacE1JbE5DbHJLbQ?oc=5",
   "source": "AP",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-05T16:01:13.008304+00:00",
   "type": "news",
   "cluster_id": "cc0a666a85834"
- },
- {
-  "title": "Tüm Yerel-Sen’den yeni çözüm sürecine tepki: ‘Terörle pazarlık olmaz’",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/tum-yerel-sen-den-yeni-cozum-surecine-tepki-terorle-pazarlik-olmaz-2526769",
-  "source": "Cumhuriyet",
-  "summary_tr": "Tüm Yerel-Sen sendikası TBMM'ye sunulan çerçeve yasaya tepki göstererek 'terörle pazarlık olmaz' açıklaması yaptı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-05T16:01:13.008304+00:00",
-  "type": "news",
-  "cluster_id": "ca59ace8cf904"
- },
- {
-  "title": "Altın uçuyor... İşte tırmanışın arkasındaki neden...",
-  "link": "https://www.sozcu.com.tr/altin-ucuyor-iste-tirmanisin-arkasindaki-neden-p342693",
-  "source": "Sözcü",
-  "summary_tr": "Altın fiyatları, ABD-İran anlaşması beklentileri ve Hürmüz Boğazı'nın açılabileceği ümidiyle yükselişte.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-05T16:01:13.008304+00:00",
-  "type": "news",
-  "cluster_id": "c40ede1159ae1"
- },
- {
-  "title": "‘Çerçeve yasa teklifi’ni imzalayan Bahçeli'den Demirtaş açıklaması: 'Avukatları vasıtasıyla düzenli görüşüyoruz'",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSGRjLXJjRU1uazNRLVZZUWRjS05DZlRVb20xYnJpYVNJSFpKbVBwWmV4Z0Jha3dsMVhmc3JXNnRKZG8yZkxZU2pzeG1rVXJtR3lsY0s0cDJuVUYySEdsaERXWmVaUm9ZN3lwX0JiMFBlc0R1ZERHdkJqQ3JXSUoydDZ2cjZLcGJ0clZ1UFl3SUtzM012cUM4TF9DMURPaWtLOHJDdWZoMlN4WS1ZbGt4SXJvemJuaTZI?oc=5",
-  "source": "soL",
-  "summary_tr": "MHP lideri Bahçeli, çerçeve yasa teklifini imzaladıktan sonra Demirtaş ile avukatları vasıtasıyla düzenli görüştüklerini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-05T16:01:13.008304+00:00",
-  "type": "news",
-  "cluster_id": "c8b9d5a4aec0e"
- },
- {
-  "title": "Progressive El-Sayed wins Michigan primary in jolt to Democrats",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa0p3Y0RnWFBLOTZuVEltR3Y5emZqWWRFU040dmhxSXBzUXpHcWNFMFBIanNoZV9GUTA2RU02QVN5aEdwT2JvR3loQmUtU2hYaU9hV1RPWE5PREJqUEJOQjU2NE5jaG9odk5RMnl5OEZLZlpBdlotZXdXRmF1UTc5eDZncURyNUg3ajJiemRZelMwLXI2WkJBZXFwR1JyRE5kNF9Ba19iWV9seERkeEpDZ3ozWnRGVEtLQ2VJ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD Michigan eyalet senatörü seçiminde Demokratların ilerici adayı Abdul El-Sayed birinci turda galip geldi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-05T16:01:13.008304+00:00",
-  "type": "news",
-  "cluster_id": "c46680817286b"
- },
- {
-  "title": "Abdul El-Sayed wins Michigan Senate primary in major victory for Democrats’ progressive wing",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb21OakF0VFB5eUd5WV84MmZLTDJUaTA5SjhMbjVKX3pOMGczZWE0X2tjZkplbV94TkJjejZNbmpVNkREc242Zk9MTDI0SVhid1ViUjVucFpIazNGdld1a2pHY1JvaEZfZjE3YmlVajlLU0pJV2FfMVdYbVl4cmttRGVRQk1JYXY5VVVjS2o1TzhRY3A0SkJZd0FjVC1tRmFX?oc=5",
-  "source": "AP",
-  "summary_tr": "Abdul El-Sayed, Michigan Senatörü seçimi ön seçiminde kazanarak Demokratların ilerici kanadı için büyük zafer elde etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-05T16:01:13.008304+00:00",
-  "type": "news",
-  "cluster_id": "c46680817286b"
  }
 ]
