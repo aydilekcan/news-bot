@@ -1,5 +1,65 @@
 [
  {
+  "title": "Vergi gelirinde yüzde 35,7 artış: 9 trilyon lirayı aştı",
+  "link": "https://www.diken.com.tr/vergi-gelirinde-yuzde-357-artis-9-trilyon-lirayi-asti/?utm_source=rss&utm_medium=rss&utm_campaign=vergi-gelirinde-yuzde-357-artis-9-trilyon-lirayi-asti",
+  "source": "Diken",
+  "summary_tr": "Türkiye'de ocak-ağustos döneminde vergi geliri 9 trilyon lirayı aştı, geçen yılın aynı dönemine göre %35,7 artış kaydedildi.",
+  "metric": "Vergi geliri %35,7 artış (+)",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-15T10:01:09.679767+00:00",
+  "type": "news",
+  "cluster_id": "c37a3c3a78176"
+ },
+ {
+  "title": "Üzüm üreticisi zor hasatla karşı karşıya: Maliyet arttı, fiyatlar geriledi",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/uzum-ureticisi-zor-hasatla-karsi-karsiya-maliyet-artti-fiyatlar-geriledi-2537718",
+  "source": "Cumhuriyet",
+  "summary_tr": "Üzüm üreticileri 2026 sezonunda maliyet artışı ve düşen alım fiyatları nedeniyle zor günler yaşıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-15T10:01:09.679767+00:00",
+  "type": "news",
+  "cluster_id": "cab57dd8674b3"
+ },
+ {
+  "title": "İnsansız hava araçlarıyla hedef alındı... Suudi Arabistan'ın Doğu-Batı petrol hattı neden kritik?",
+  "link": "https://www.cumhuriyet.com.tr/dunya/insansiz-hava-araclariyla-hedef-alindi-suudi-arabistan-in-dogu-bati-petrol-hatti-neden-kritik-2537716",
+  "source": "Cumhuriyet",
+  "summary_tr": "Suudi Arabistan'ın Doğu-Batı petrol hattına insansız hava aracı saldırısı küresel petrol piyasasında yeni risk yaratmıştır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-15T10:01:09.679767+00:00",
+  "type": "news",
+  "cluster_id": "c81392a8ef627"
+ },
+ {
+  "title": "Mobil İletişim Araçları Başkanı uyardı! Telefonlara yeni zam kapıda, ihtiyacınız varsa hemen alın!",
+  "link": "https://www.sozcu.com.tr/mobil-iletisim-araclari-baskani-uyardi-telefonlara-yeni-zam-kapida-ihtiyaciniz-varsa-hemen-alin-p358425",
+  "source": "Sözcü",
+  "summary_tr": "Mobil iletişim sektörü başkanı cep telefonları ve bilgisayarlara yeni zam uyarısında bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-15T10:01:09.679767+00:00",
+  "type": "news",
+  "cluster_id": "c15ddf32b3b1e"
+ },
+ {
+  "title": "Avrupa'nın göbeğinde 400 milyon dolarlık petrol vurgunu!",
+  "link": "https://www.sozcu.com.tr/avrupa-nin-gobeginde-400-milyon-dolarlik-petrol-vurgunu-p358432",
+  "source": "Sözcü",
+  "summary_tr": "Polonya'nın devlet kontrolündeki enerji şirketi Orlen, Venezuela'dan ham petrol tedariki sürecinde 400 milyon dolarlık vurgunu mağdur oldu.",
+  "metric": "Vurgun tutarı 400 milyon dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-15T10:01:09.679767+00:00",
+  "type": "news",
+  "cluster_id": "cb2b31502ccbe"
+ },
+ {
   "title": "ABD ekonomisinde 19 yıl sonra bir ilk: 10 yıllık tahvil faizi yüzde 5'i aştı",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/abd-ekonomisinde-19-yil-sonra-bir-ilk-10-yillik-tahvil-faizi-yuzde-5-i-asti-2537686",
   "source": "Cumhuriyet",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-05T11:01:57.987849+00:00",
   "type": "news",
   "cluster_id": "c083b4547a69c"
- },
- {
-  "title": "AK Parti Genel Başkanvekili Ala'dan \"çerçeve yasa\" açıklaması: Meclis tatile girmeden yasanın çıkmasını planlıyoruz",
-  "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskanvekili-aladan-cerceve-yasa-aciklamasi-meclis-tatile-girmeden-yasanin-cikmasini-planliyoruz/4018940",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "AK Parti Genel Başkanvekili Ala, 'çerçeve yasa'nın Meclis tatile girmeden çıkmasını planlayan ikisini başvuranlayı duyurdu.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-05T11:01:57.987849+00:00",
-  "type": "news",
-  "cluster_id": "c9bffa5e29f34"
- },
- {
-  "title": "Son dakika... Butlan CHP'si 'çerçeve yasa'ya imza atacak",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-butlan-chp-si-cerceve-yasa-ya-imza-atacak-2526671",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Merkez Yönetim Kurulu, 'çerçeve yasa' kanun teklifine imza atacak kararı aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-05T11:01:57.987849+00:00",
-  "type": "news",
-  "cluster_id": "c82177125cb56"
- },
- {
-  "title": "Son dakika... Ayrıntılar ortaya çıktı: İşte 'çerçeve yasa' kanun teklifi",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-ayrintilar-ortaya-cikti-iste-cerceve-yasa-kanun-teklifi-2526669",
-  "source": "Cumhuriyet",
-  "summary_tr": "Meclis'e sunulan 'çerçeve yasa' kanun teklifinin ayrıntıları ortaya çıktı; süreç yasası uygulanmaya hazırlanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-05T11:01:57.987849+00:00",
-  "type": "news",
-  "cluster_id": "cc213242a2305"
- },
- {
-  "title": "İşte herkesin konuştuğu 'Çerçeve yasa' kanun teklifi",
-  "link": "https://www.sozcu.com.tr/iste-herkesin-konustugu-cerceve-yasa-kanun-teklifi-p342626",
-  "source": "Sözcü",
-  "summary_tr": "Süreç kapsamında hazırlanan 'çerçeve yasa' kanun teklifinin ayrıntılarına ulaşıldı; Milli Güvenlik ve adli reformu içeriyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-05T11:01:57.987849+00:00",
-  "type": "news",
-  "cluster_id": "cc213242a2305"
- },
- {
-  "title": "EU to use €1.4 billion from interest on frozen Russian assets to help Ukraine",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVVh5T1hYRGM0UTBiVEM5TDJYNE90amJFN1Zad2JCTEJ1Q0duVzlJTnMtYTBLZzl0UXNKMkwwdUVYdU90TE5OM3RUYnM0eHVmZDI0bExyQVJpMklyMDRMampTdTJOZlcyYVlCWjNZUzZyWVVXNFYwUFJSQ1I4UVJEUk1TSlVPSmNmazYyNnV4eWg2TVNkM2NzOFUzZ0FDT2xxM1UtNWNVU0VGaWhrY0UtaEg3NEs?oc=5",
-  "source": "Reuters",
-  "summary_tr": "AB, dondurulmuş Rus varlıklarından elde edilen faizden 1,4 milyar euro'yu Ukrayna yardımına kullanacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-05T11:01:57.987849+00:00",
-  "type": "news",
-  "cluster_id": "c120d0e3b6ce1"
  }
 ]
