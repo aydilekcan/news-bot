@@ -1,5 +1,77 @@
 [
  {
+  "title": "İran basını: Hürmüz Boğazı'ndaki Keşm Adası açıklarından patlama sesleri duyuldu",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-basini-hurmuz-bogazindaki-kesm-adasi-aciklarindan-patlama-sesleri-duyuldu/4058424",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran'ın Hürmüz Boğazı'ndaki Keşm Adası açıklarında patlama sesleri duyuldu. Bölgede güvenlik gerginliği devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-16T01:01:05.858432+00:00",
+  "type": "news",
+  "cluster_id": "ccae9f663c351"
+ },
+ {
+  "title": "Suudi Arabistan: Hava savunma güçleri Mekke hava sahasına girmeye çalışan İHA'yı imha etti",
+  "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistan-hava-savunma-gucleri-mekke-hava-sahasina-girmeye-calisan-ihayi-imha-etti/4058423",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Suudi Arabistan hava savunma güçleri, Mekke hava sahasına giren İHA'yı imha etti. Koalisyon tarafından ele alınan olay.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-16T01:01:05.858432+00:00",
+  "type": "news",
+  "cluster_id": "c4868049aacbd"
+ },
+ {
+  "title": "Ukraine's Zelenskiy says Russian drones attacked Moldova twice while he was in transit",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV1VrWjltcHFDSUctNXk1cVBXdmJ3SlEtUDUxb3lva0tjbnp5ZWhuQWxlTHZpZUlvbmhWRktpNm9pMkdQMHVJeE80ZE1Xel8weHVLc29RUkF4R1VaZjQ0TFp0SVpMV0NkM1d2YmU3QkMzNmR2UGNBSzJDcUltalAtM1pveXMtbmxUSGpvUkhkLVMyTWNZZ09jX1RTMjlvYW5XYzAzX3lnRnpwaWMzRGZaemJad0MtVlNlRDBMMm1XcktLcEE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Zelenskiy, Rusya'nın Moldova'ya geçişi sırasında iki kez İHA saldırısı düzenlediğini açıkladı. Rusya'nın Moldova'ya yönelik hava saldırıları devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-16T01:01:05.858432+00:00",
+  "type": "news",
+  "cluster_id": "c6e05e242aab2"
+ },
+ {
+  "title": "Filistin topraklarını gasbeden İsrailliler, Celile'deki Arap beldesinde kaçak yerleşim kurdu",
+  "link": "https://www.aa.com.tr/tr/spor/filistin-topraklarini-gasbeden-israilliler-celiledeki-arap-beldesinde-kacak-yerlesim-kurdu/4058422",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail, Batı Şeria'dan Celile'deki Arap beldesi Mecd el-Kur'da kaçak yerleşim kurdu. Filistin topraklarındaki yerleşim politikası devam ediyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-16T01:01:05.858432+00:00",
+  "type": "news",
+  "cluster_id": "c527295351763"
+ },
+ {
+  "title": "BM, KDC'deki Ebola salgınının ölümcül ve devasa olmaya devam ettiğini bildirdi",
+  "link": "https://www.aa.com.tr/tr/dunya/bm-kdcdeki-ebola-salgininin-olumcul-ve-devasa-olmaya-devam-ettigini-bildirdi/4058415",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "BM, Kongo Demokratik Cumhuriyeti'nde Ebola salgınının ölümcül ve devam ettiğini bildirdi. Salgın kontrol altında alınmış durumda değil.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-16T01:01:05.858432+00:00",
+  "type": "news",
+  "cluster_id": "c7b36979e3187"
+ },
+ {
+  "title": "Almanya, Rusya'nın hibrit saldırılarının hedefi olmaya devam edeceğini öngörüyor",
+  "link": "https://www.aa.com.tr/tr/dunya/almanya-rusyanin-hibrit-saldirilarinin-hedefi-olmaya-devam-edecegini-ongoruyor/4058411",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Almanya Ulusal Güvenlik Konseyi, Almanya'nın Rusya'nın hibrit saldırılarının hedefi olmaya devam edeceğini öngörüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-16T01:01:05.858432+00:00",
+  "type": "news",
+  "cluster_id": "cc61ba9bfa956"
+ },
+ {
   "title": "İsrail'de seçim öncesi Netanyahu ile Ben-Gvir arasındaki anlaşmazlık tırmanıyor",
   "link": "https://www.aa.com.tr/tr/dunya/israilde-secim-oncesi-netanyahu-ile-ben-gvir-arasindaki-anlasmazlik-tirmaniyor/4058405",
   "source": "Anadolu Ajansı",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-05T20:01:10.194352+00:00",
   "type": "news",
   "cluster_id": "c5337a889901b"
- },
- {
-  "title": "BM: İsrail, ateşkese rağmen Lübnan'da tahliye emri yayımladı",
-  "link": "https://www.trthaber.com/haber/dunya/bm-israil-ateskese-ragmen-lubnanda-tahliye-emri-yayimladi-953192.html",
-  "source": "TRT Haber",
-  "summary_tr": "BM, İsrail ordusunun Lübnan'da ateşkese rağmen 3. bölgede tahliye emri yayımladığını bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-05T19:01:07.146975+00:00",
-  "type": "news",
-  "cluster_id": "c3f74957eb768"
- },
- {
-  "title": "Çerçeve yasa: Selahattin Demirtaş tahliye olup siyasete dönecek mi?",
-  "link": "https://www.dw.com/tr/çerçeve-yasa-selahattin-demirtaş-tahliye-olup-siyasete-dönecek-mi/a-78257772?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Selahattin Demirtaş'ın tahliyesi ve siyasete dönüşü çerçeve yasa teklifine bağlı. Yasa, Demirtaş ve örgüt kurucu kadrosunun tahliyesini engelleyecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-05T19:01:07.146975+00:00",
-  "type": "news",
-  "cluster_id": "c77c065d58284"
- },
- {
-  "title": "İran: Umman ile Hürmüz Boğazı konusundaki müzakereler son aşamada, Boğaz'ın açılması ABD'nin tutumuna bağlı",
-  "link": "https://www.aa.com.tr/tr/dunya/iran-umman-ile-hurmuz-bogazi-konusundaki-muzakereler-son-asamada-bogazin-acilmasi-abdnin-tutumuna-bagli/4019510",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran Dışişleri Bakan Yardımcısı Garibabadi, Umman ile Hürmüz Boğazı müzakerelerinin son aşamaya girdiğini ve Boğaz'ın açılmasının ABD'nin tutumuna bağlı olduğunu belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-05T19:01:07.146975+00:00",
-  "type": "news",
-  "cluster_id": "c1b73ac520c7b"
- },
- {
-  "title": "İran: Hürmüz Boğazı müzakereleri son aşamada, Boğaz'ın açılması ABD'nin tutumuna bağlı",
-  "link": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazi-muzakereleri-son-asamada-bogazin-acilmasi-abdnin-tutumuna-bagli-953194.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Dışişleri Bakan Yardımcısı Garibabadi, Umman ile Hürmüz Boğazı müzakerelerinin son aşamada olduğunu ve boğazın açılmasının ABD tutumuna bağlı olduğunu açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-05T19:01:07.146975+00:00",
-  "type": "news",
-  "cluster_id": "c1b73ac520c7b"
- },
- {
-  "title": "YENİ Partili Veli Ağbaba'dan sert tepki: ‘HTS kaydı varsa idam edilmeye razıyım’",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/yeni-partili-veli-agbaba-dan-sert-tepki-hts-kaydi-varsa-idam-edilmeye-raziyim-2526804",
-  "source": "Cumhuriyet",
-  "summary_tr": "YENİ Parti Malatya Milletvekili Veli Ağbaba, TBMM'de 2 Mayıs 2026'dan beri bir itirafçının iddiaları hakkında sert tepki gösterdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-05T19:01:07.146975+00:00",
-  "type": "news",
-  "cluster_id": "c5ce84e5ffcbf"
- },
- {
-  "title": "Son dakika...Gazi ve şehit yakınlarına ilişkin kanun teklifi kabul edildi",
-  "link": "https://www.sozcu.com.tr/son-dakika-gazi-ve-sehit-yakinlarina-iliskin-kanun-teklifi-kabul-edildi-p342727",
-  "source": "Sözcü",
-  "summary_tr": "Şehit yakınları ve gazilere yönelik kanun teklifi komisyonda kabul edildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-05T19:01:07.146975+00:00",
-  "type": "news",
-  "cluster_id": "c36a481b6646e"
  }
 ]
