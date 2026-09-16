@@ -1,5 +1,77 @@
 [
  {
+  "title": "Robust US retail sales underscore economy's resilience; inflation pressures building",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVdndU5ZZ1lnT0pkMEZEVG4zTjdERHB1Z1Vwem1aUURBS3pxOUpDWXh3Tkd1NDFfWWp1eDJQNWdQanlhcHBJZTJJaWs3U1JXQTluNDV2dUp2QlFNZ1ZFU1Y5T295QXM1akRDdnM4UTBjR09XUjhYV0FUWUZCM3dldUJoTHloMWk1QlFzbjNxeWxRNktyOFVyb3AzYndmMGg1?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD perakende satışları dayanıklılığı gösterirken enflasyon baskıları artmaya başladı; iki gösterge arasında gerilim bulunuyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-16T17:01:09.621332+00:00",
+  "type": "news",
+  "cluster_id": "c8b98bd026451"
+ },
+ {
+  "title": "CHP kurultayının önünde engel kalmamış",
+  "link": "https://www.diken.com.tr/chp-kurultayinin-onunde-engel-kalmamis/?utm_source=rss&utm_medium=rss&utm_campaign=chp-kurultayinin-onunde-engel-kalmamis",
+  "source": "Diken",
+  "summary_tr": "CHP sözcüsü Müslim Sarı, 'mutlak butlan' davasıyla ilgili temyiz başvurusunun geri çekildiğini açıklayarak kurultay yolunun açıldığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-16T17:01:09.621332+00:00",
+  "type": "news",
+  "cluster_id": "c535097084332"
+ },
+ {
+  "title": "Market zinciri BİM'in bankası resmen kuruldu: BDDK'dan onay bekleniyor",
+  "link": "https://www.sozcu.com.tr/market-zinciri-bim-in-bankasi-resmen-kuruldu-bddk-dan-onay-bekleniyor-p358894",
+  "source": "Sözcü",
+  "summary_tr": "BİM'in yüzde 99,99996 oranında pay sahibi olduğu Dost Katılım Bankası'nın kuruluş işlemleri tamamlandı; BDDK onayı bekleniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-16T17:01:09.621332+00:00",
+  "type": "news",
+  "cluster_id": "c534d56635087"
+ },
+ {
+  "title": "CHP’de kurultay ne zaman yapılacak? Flaş açıklama",
+  "link": "https://www.sozcu.com.tr/chp-de-kurultay-ne-zaman-yapilacak-flas-aciklama-p358888",
+  "source": "Sözcü",
+  "summary_tr": "CHP Sözcüsü Müslim Sarı, Yargıtay'a yapılan temyiz başvurusunun geri çekildiğini duyurarak kurultay sürecinin başlayacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-16T17:01:09.621332+00:00",
+  "type": "news",
+  "cluster_id": "c83127df43e21"
+ },
+ {
+  "title": "US homebuilder sentiment drops to 12-month low in September",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbG52dVE1QjhVeFNESkthcmVRenE1TG9EVzB1OHYwV0J4Vko1ZjRPTmgzM2c2cTZUbWVXSFlSVzRRYjRIVmQxejZMUVp6eTJlT2tvQnpEY1dDUmtKZlU5YXZMeDJpWjVPYkxnRWpwUEZTVjZ1ZTlKVF80Z1VwMmxzVnJHakF2V3Boakh0eUVwWXI1WUN2QXcxakxBTEVweEU?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD'de Eylül ayında ev inşaatçıları duyguları 12 aylık düşük seviyeye indi; ekonomik yavaşlama sinyali verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-16T17:01:09.621332+00:00",
+  "type": "news",
+  "cluster_id": "c6783e0643b55"
+ },
+ {
+  "title": "Bütçe açığı (8 aylık): 1,3 trilyon TL (8 ay (yıl başından))",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeEh6OW0xMExXNzBhRGJ0aXJtd05TOGJHY1Rrb0ZCY0RxZnlFTlhMZmR1QWNacHQ0UnA0b2tuS0dIcFhUcTNaWVM2QXFCSGo0MkRlcXZnbmlHQ01xMnl0b0o2eERaTGphZ25YU1dldTNBaFpDQkIzZGJ1LXVhYkk2VHE1THVaMjBRdUQ1Mi1QbllZVzc3MXFTRUp4RThEeWs2XzNIcQ?oc=5",
+  "source": "Hazine ve Maliye Bakanlığı",
+  "summary_tr": "1,3 trilyon TL",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-09-16T17:01:09.621332+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "İsrail'den Filistinlileri Gazze'den çıkartma planı",
   "link": "https://www.dw.com/tr/israil-den-filistinlileri-gazze-den-çıkartma-planı/a-79293877?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-06T22:01:36.007372+00:00",
   "type": "news",
   "cluster_id": "ccc239cc1761b"
- },
- {
-  "title": "MGK toplantısı sona erdi: Sekiz maddelik bildiri yayımlandı",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZTh4UmNhWGlHQ2tpQmVUbW9MR2hObHhRdkFYLVRJem1HN0NIamxYYmpiUk1ERXA0dlpRTGdlWk1rd0ZvNG5qSFU5TXdIZHhQRTJkOFBMcXZZTXpFUjdWc2txNDh0d3lDQ183Y2N6ekRKTE1mby01YWJ1Mm1DalAxS0FQLXRFVXo3RXFYdFR3azdFb3BHQjN4TU5wUkE?oc=5",
-  "source": "soL",
-  "summary_tr": "MGK toplantısı sona erdi; sekiz maddelik bildiri yayımlandı",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-06T22:01:36.007372+00:00",
-  "type": "news",
-  "cluster_id": "cd3f575105fa8"
- },
- {
-  "title": "Trump's Iran dilemma: He's stuck in war with no exit in sight",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTElxYUFULUk1M0M2d29aa3BiZGJHZ3BPMEpDaG9vUlRkUDUzTU5MMUYtbTlDVkt6VGpMc2g0VnpsWmRpSWhZMmxjVVIzc2NGb3psRjdCUGNUYXdFRzdHd1N1Ni1oM3BySjNWTUZiQzVSVEJWTEticG9SQUF6OHIzN0NTeWtBUlpNS2FWVWo4OEppcmVxSzlvMXBkWmVKWllteFI2QmlKVUIxUQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump, İran'la olan savaş durumundan çıkış yolu bulamadığı bir ikilemle karşı karşıya",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-06T22:01:36.007372+00:00",
-  "type": "news",
-  "cluster_id": "c53b10c152fb9"
- },
- {
-  "title": "TMO'nun fındık alım fiyatına tepki: Bu taban fiyat değil, üreticinin ölüm fermanıdır",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/tmo-nun-findik-alim-fiyatina-tepki-bu-taban-fiyat-degil-ureticinin-olum-fermanidir-2527037",
-  "source": "Cumhuriyet",
-  "summary_tr": "TMO fındık alım fiyatını 250-255 liraya açıkladı; üreticiler 'ölüm fermanı' diyerek protesto ediyor.",
-  "metric": "Fındık alım fiyatı (TMO): Giresun 255 TL/kg, Levant 250 TL/kg",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-06T15:01:12.244209+00:00",
-  "type": "news",
-  "cluster_id": "c263bb329451e"
- },
- {
-  "title": "Son Dakika... Özgür Özel'den 'çerçeve yasa' açıklaması: 'İmza atma çabamız yok'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-ozgur-ozel-den-cerceve-yasa-aciklamasi-imza-atma-cabamiz-yok-2527030",
-  "source": "Cumhuriyet",
-  "summary_tr": "YENİ Parti Genel Başkanı Özgür Özel, çerçeve yasaya 'imza atma çabamız yok' diyerek muhalefet açıklaması yaptı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-06T15:01:12.244209+00:00",
-  "type": "news",
-  "cluster_id": "c0892f5cfd168"
- },
- {
-  "title": "Adres artık İstanbul: 31 Ağustos’ta resmen başlayacak",
-  "link": "https://www.sozcu.com.tr/adres-artik-istanbul-31-agustos-ta-resmen-baslayacak-p343002",
-  "source": "Sözcü",
-  "summary_tr": "SEEBRIG Karargahı Kuzey Makedonya'dan İstanbul'a taşınıyor; 31 Ağustos'ta resmen başlayacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-06T15:01:12.244209+00:00",
-  "type": "news",
-  "cluster_id": "c0ff6010fdd21"
- },
- {
-  "title": "Çerçeve yasaya tepkiler: Şu ana kadar kim ne dedi?",
-  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSUs0VzlpTHlIOE16dERNUHVqYlNQN3ZZRGdlM2pqZXBOV3dKLUlZem11X1dsWlFOR2xWYlFPdmZ3TWJNVWh4Q1pkcW5KTHlELXZfbmZ5eHM5N2tkamdTU0lKM2p5QjBsbXE5d1hLR19VUEVPekNDcktfbGZxbm0teXBjSkVyVDBBd0E?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Çerçeve yasasına çeşitli siyasi partiler ve kişiler tepki gösteriyor; tepkilerin özeti derlenmiş.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-06T15:01:12.244209+00:00",
-  "type": "news",
-  "cluster_id": "ca3d374450749"
  }
 ]
