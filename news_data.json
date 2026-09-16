@@ -1,5 +1,41 @@
 [
  {
+  "title": "FBI: Rusya, ABD ve Avrupa'daki Ukrayna müttefiklerini hedef almayı planlıyor",
+  "link": "https://www.trthaber.com/haber/dunya/fbi-rusya-abd-ve-avrupadaki-ukrayna-muttefiklerini-hedef-almayi-planliyor-956968.html",
+  "source": "TRT Haber",
+  "summary_tr": "FBI, Rus istihbarat servislerinin ABD ve Ukrayna destekçisi Avrupa ülkelerini hedef almayı planladığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-16T04:01:00.691329+00:00",
+  "type": "news",
+  "cluster_id": "c9dd73b9af739"
+ },
+ {
+  "title": "Gold gains with Fed rate decision in spotlight",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdEVwMWpILUF1dnhqajU0di1FMVRLWGNScTJKdTR2NUl2VWZSUXpWNF9UQ3h2M0ZuMUYxZzJab09IcUMwN0RQSlRtcC1HSGdQM2poNXptR1BCeklERXdjcmE5N2tzNmdHczY1SkdnSXE0Q3dJNV9TYkNjVDdNUFZjLUhDMkRWcHlsNVF5V19sS1MwX3lnNG13?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Altın, Fed'in faiz kararı beklentisiyle yükselişte. Merkez bankası kararı piyasalarda önemli hareketlilik yaratıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-16T04:01:00.691329+00:00",
+  "type": "news",
+  "cluster_id": "cbf8c5bdcd0c1"
+ },
+ {
+  "title": "Danimarka: Rus savaş gemisinden helikopterimize acil durum işaret fişeği atıldı",
+  "link": "https://www.trthaber.com/haber/dunya/danimarka-rus-savas-gemisinden-helikopterimize-acil-durum-isaret-fisegi-atildi-956964.html",
+  "source": "TRT Haber",
+  "summary_tr": "Danimarka, Baltık Denizi'nde Rus savaş gemisinin kendi askeri helikopterine acil durum işaret fişeği attığını bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-16T04:01:00.691329+00:00",
+  "type": "news",
+  "cluster_id": "c78c71b38849f"
+ },
+ {
   "title": "Traktör tarlada, vatandaş yolda kaldı",
   "link": "https://www.sozcu.com.tr/traktor-tarlada-vatandas-yolda-kaldi-p358611",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-05T22:01:13.774634+00:00",
   "type": "news",
   "cluster_id": "c2e71acb18bf3"
- },
- {
-  "title": "Etsy'den toplu işten çıkarma kararı: Yaklaşık 220 çalışanla yollar ayrılıyor",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/etsy-den-toplu-isten-cikarma-karari-yaklasik-220-calisanla-yollar-ayriliyor-2526857",
-  "source": "Cumhuriyet",
-  "summary_tr": "Etsy, yeniden yapılanma kapsamında iş gücünün %12'sini (yaklaşık 220 çalışan) azaltacağını açıkladı.",
-  "metric": "İş gücü azaltma oranı: %12",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-05T22:01:13.774634+00:00",
-  "type": "news",
-  "cluster_id": "c1a36acb421a8"
- },
- {
-  "title": "Şehrin CHP'de kalan tek belediye başkanıydı: İstifa ettiğini duyurdu",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/sehrin-chp-kalan-tek-belediye-baskaniydi-istifa-ettigini-duyurdu-2526831",
-  "source": "Cumhuriyet",
-  "summary_tr": "Lüleburgaz Belediye Başkanı Dr. Murat Gerenli CHP'den istifa ettiğini duyurdu.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-05T21:01:05.353982+00:00",
-  "type": "news",
-  "cluster_id": "c7b0ff5da4bca"
- },
- {
-  "title": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajFnaXk0anVrT2IwaV9XMDBma0pMQU53ZF9LRUJiT01nWjJsdG5FZXhwUjNtZFp2Yy1NV3Q4dFRIeUxzV1pCWk9RMVVZNk1UbWxxMFdiNEdNTG5KSVBVWTRCaWFJSFNlT3RiMFF6RWtqN2pnRThTUU9GaHNfelhwV3RZTXdfMzJwUk1aVlFXZ0FBNk1qWFFmd2xIRWNVWVpmQl9DSkE2NnhMaXlJZ2FFeQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran, ABD tarafından yeni saldırılar başlatılması durumunda Körfez ülkelerine karşı saldırı tehdidinde bulundu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-05T20:01:10.194352+00:00",
-  "type": "news",
-  "cluster_id": "c3e8cf0322bb4"
  }
 ]
