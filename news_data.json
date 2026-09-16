@@ -1,5 +1,41 @@
 [
  {
+  "title": "Hazine ve Maliye Bakanı Şimşek: Seçim sürecinde de dezenflasyondan vazgeçmeyeceğiz",
+  "link": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-secim-surecinde-de-dezenflasyondan-vazgecmeyecegiz/4058907",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Hazine ve Maliye Bakanı Şimşek, seçim sürecinde de dezenflasyondan vazgeçmeyeceklerini belirtti.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-09-16T11:01:10.748429+00:00",
+  "type": "news",
+  "cluster_id": "ce41fd1a2a091"
+ },
+ {
+  "title": "'3 yıllık programla devam etme imkanımızın olmadığını Şimşek görmeli' diyen sanayici: İçimiz acıyor",
+  "link": "https://www.sozcu.com.tr/3-yillik-programla-devam-etme-imkanimizin-olmadigini-simsek-gormeli-diyen-sanayici-icimiz-aciyor-p358801",
+  "source": "Sözcü",
+  "summary_tr": "MOSFED Başkanı, yüksek enflasyon ve finansman yükü nedeniyle 3 yıllık ekonomi programının sürdürülemez olduğunu söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-16T11:01:10.748429+00:00",
+  "type": "news",
+  "cluster_id": "cf6d126b84d9d"
+ },
+ {
+  "title": "Piyasalarda deprem sürüyor: Atlas Portföy ödemelerini 5 gün gecikmeyle yapacak",
+  "link": "https://www.sozcu.com.tr/piyasalarda-deprem-suruyor-atlas-portfoy-odemelerini-5-gun-gecikmeyle-yapacak-p358794",
+  "source": "Sözcü",
+  "summary_tr": "Sermaye piyasalarında çalkantı devam ediyor: Atlas Portföy ödemelerini 5 gün gecikmeyle yapacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-16T11:01:10.748429+00:00",
+  "type": "news",
+  "cluster_id": "c8285ef7331ac"
+ },
+ {
   "title": "Hakim ve savcı atamalarında yeni dönem",
   "link": "https://www.trthaber.com/haber/gundem/hakim-ve-savci-atamalarinda-yeni-donem-957011.html",
   "source": "TRT Haber",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-06T10:01:17.247683+00:00",
   "type": "news",
   "cluster_id": "c54f90abebbfd"
- },
- {
-  "title": "Çerçeve yasa teklifi Meclis’te: 360’a yakın vekil imzaladı",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmRqTldLcWcwUFZPTXhLczlFb1JVVjlzN2NTYmQ5MU5WSjVleHFtaWV1dGFnMW9ra3kzWEF5S0h2RWhONkVxVUs2dXFBZ1RXN25MRUFhSGZSSlNPSVJDVWZvNWlHc1lzMW9FMm9YX1dPZVJiNnY1WTI3bmRiS2ZwYjZ5V19KcXhpajI4WDN4cHJWbTdkcDFiVQ?oc=5",
-  "source": "soL",
-  "summary_tr": "TBMM'ye 360'a yakın vekil tarafından imzalanan 'Terörsüz Türkiye' çerçeve yasa teklifi sunuldu.",
-  "metric": "İmza sayısı: 360+ vekil",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-06T10:01:17.247683+00:00",
-  "type": "news",
-  "cluster_id": "ce7a1b0e5e5d7"
- },
- {
-  "title": "EXCLUSIVE: Congo bans exports of copper, cobalt concentrates, official order says",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdLQjduWTlkYVlwaUdCYzMxODBIRVZKTkszM2xWTWxkVVBVajVGVjlDT3BtWC1JUnhpYWFMUVdqZ1NCZUV1OXR2NHlMYmpxR1VoTEFpZkwyY1p0aWJTQnhiek5wNjBWRkVmUTZiRGs1S0p0dUtxckZELTAzZ0VtY2xRSktBcEdhNjZPbjZ3Q2JhN3A2N1E2UTJDMlk0NkxpVk1KS1NPYUkyZ2UyaVkxVjlwQzY?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Kongo, bakır ve kobalt konsantreleri ihracatını yasakladı. Resmi kararla sektörde önemli bir değişim yapıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-06T10:01:17.247683+00:00",
-  "type": "news",
-  "cluster_id": "cea1a4ca027b3"
- },
- {
-  "title": "Ukrayna neden en büyük Rus alışveriş sitesine saldırıyor?",
-  "link": "https://www.dw.com/tr/ukrayna-neden-en-büyük-rus-alışveriş-sitesine-saldırıyor/a-78231195?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Ukrayna, Rus online ticaret platformu Wildberries'e ait depoları vu ruyor. Harekatin savaştaki stratejik anlamı analiz ediliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-06T10:01:17.247683+00:00",
-  "type": "news",
-  "cluster_id": "c855ba972f734"
  }
 ]
