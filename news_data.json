@@ -1,5 +1,29 @@
 [
  {
+  "title": "Fahiş fiyat operasyonunda sebze-meyve dağıtıcısı 41 firmanın yöneticisine gözaltı kararı: Tarımda sistem adaletsiz",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/fahis-fiyat-operasyonunda-sebze-meyve-dagiticisi-41-firmanin-yoneticisine-gozalti-karari-tarimda-sistem-adaletsiz-2537935",
+  "source": "Cumhuriyet",
+  "summary_tr": "Yaş sebze-meyve piyasasında fiyat manipülasyonu iddiasıyla 41 büyük dağıtıcı firmanın yöneticisine gözaltı kararı verildi; haksız kazanç sağladıkları iddia ediliyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-16T02:00:59.337974+00:00",
+  "type": "news",
+  "cluster_id": "c8628909de28d"
+ },
+ {
+  "title": "Akbelen Ormanı için kritik duruşma bugün görülecek, yurttaşlar ise adalet istiyor: 'Burada kamu yararı yok'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/akbelen-ormani-icin-kritik-durusma-bugun-gorulecek-yurttaslar-ise-adalet-istiyor-burada-kamu-yarari-yok-2537934",
+  "source": "Cumhuriyet",
+  "summary_tr": "Muğla Milas'ta termik santral için 200 parsele yönelik kamulaştırma kararına karşı açılan 96 dava Danıştay'da bugün görülecek; vatandaşlar kamu yararı olmadığını savunuyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-16T02:00:59.337974+00:00",
+  "type": "news",
+  "cluster_id": "c664d28112153"
+ },
+ {
   "title": "İran basını: Hürmüz Boğazı'ndaki Keşm Adası açıklarından patlama sesleri duyuldu",
   "link": "https://www.aa.com.tr/tr/dunya/iran-basini-hurmuz-bogazindaki-kesm-adasi-aciklarindan-patlama-sesleri-duyuldu/4058424",
   "source": "Anadolu Ajansı",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-05T20:01:10.194352+00:00",
   "type": "news",
   "cluster_id": "c4ba71752f70b"
- },
- {
-  "title": "Ukraine's Zelenskiy says he spoke to NATO head Rutte about securing interceptors",
-  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUUFjUmxBRnF1MFlqVDcwRjdUa0hhMERkX0ZKSmRGUnlFLU5UeVd4cE1JRG9TQnFPdTFvbzE1bzdmS0hKdHJaajh2THRSemluNXRqcEJnLVVHN3hFZ0N2MHhmUkhPck5COVlEbkM5WHhJTEhQdWswMkVRZmNqZlNZeEI4QV9XVFhINEwwYnN0ZEtOZWxxbHVCbVlTempHVlk4M2NnRkozcE9QNzV5T0NKS1JNMUt2d3Ftd2ZDS24yUGpiMHdfMXFXeHJ2Y3ZFTnZ1Ui1zdGFn?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ukrayna Cumhurbaşkanı Zelenskiy, NATO Genel Sekreteri Rutte ile müzakere ederek hava savunma füzeleri talep etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-05T20:01:10.194352+00:00",
-  "type": "news",
-  "cluster_id": "c77452daf53a3"
- },
- {
-  "title": "Rubio, Miliband discuss Ukraine war, Europe taking greater role in its own security",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNXhKWmZFYjctT3FLTWdsTnkyVVdsRnRoRkZCaXBIWk9hcFhnSEU2YV9UZjM1end5SjFKTzFsYXFWY2RGR2lYcEotR0RDSkZwcTVXWF9CeUM2eGZFTGhodk5DMmk2Tm1BbHp0YXRzX3pOb241N2dGQ0tFYnR1elBQU0tzWUxvTFhyZ2JUYWRqY0lkYWlvbzlGS1gwRUpYYkhuQkxJaEdFQ3JYbFdQRmZXNEk4bV9EMkNFdnA1NQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD Dışişleri Bakanı Rubio ve İngiltere Dışişleri Bakanı Miliband, Ukrayna savaşı ve Avrupa'nın güvenlik rolü hakkında görüş alışverişinde bulundu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-05T20:01:10.194352+00:00",
-  "type": "news",
-  "cluster_id": "c5337a889901b"
  }
 ]
