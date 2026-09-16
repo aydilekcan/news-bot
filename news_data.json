@@ -1,5 +1,77 @@
 [
  {
+  "title": "Şimşek'e göre 'dış faktörler olmasa' enflasyon en az yedi puan aşağıda olurdu",
+  "link": "https://www.diken.com.tr/simseke-gore-dis-faktorler-olmasa-enflasyon-en-az-yedi-puan-asagida-olurdu/?utm_source=rss&utm_medium=rss&utm_campaign=simseke-gore-dis-faktorler-olmasa-enflasyon-en-az-yedi-puan-asagida-olurdu",
+  "source": "Diken",
+  "summary_tr": "Hazine Bakanı Şimşek, dış faktörlerin olmadığı durumda enflasyonun en az 7 puan daha düşük olabileceğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-16T12:01:14.449808+00:00",
+  "type": "news",
+  "cluster_id": "ccb4b3b617e13"
+ },
+ {
+  "title": "Enflasyon hedefleri 5 yılda 17 kez değişti: Şimşek'in savaş gerekçesi ne kadar gerçekçi?",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/enflasyon-hedefleri-5-yilda-17-kez-degisti-simsek-in-savas-gerekcesi-ne-kadar-gercekci-2538104",
+  "source": "Cumhuriyet",
+  "summary_tr": "Enflasyon hedefleri son 5 yılda 17 kez değiştirildi; Bakan Şimşek'in jeopolitik kriz gerekçesinin gerçekçiliği sorgulanıyor.",
+  "metric": "Enflasyon hedefleri 5 yılda 17 kez değiştirildi",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-16T12:01:14.449808+00:00",
+  "type": "news",
+  "cluster_id": "cf7ac2a694a52"
+ },
+ {
+  "title": "Ali Mahir Başarır: 'Bir iktidar, beslenme ve barınma problemini çözemiyorsa miadı dolmuş demektir'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/ali-mahir-basarir-bir-iktidar-beslenme-ve-barinma-problemini-cozemiyorsa-miadi-dolmus-demektir-2538123",
+  "source": "Cumhuriyet",
+  "summary_tr": "YENİ Parti Grup Başkan Vekili Başarır, beslenme ve barınma sorunlarını çözemeyen iktidarın miadı dolmuş olduğunu söyledi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-16T12:01:14.449808+00:00",
+  "type": "news",
+  "cluster_id": "c81c0b939e8b1"
+ },
+ {
+  "title": "Küçük ortak seçim için tarih verdi: \"2027'de beklemiyorum\" diyerek o ayları işaret etti!",
+  "link": "https://www.sozcu.com.tr/kucuk-ortak-secim-icin-tarih-verdi-2027-de-beklemiyorum-diyerek-o-aylari-isaret-etti-p358813",
+  "source": "Sözcü",
+  "summary_tr": "BBP Genel Başkanı Destici, Cumhurbaşkanı Erdoğan ile görüşmesinin ardından 2027'den önce seçim beklemediğini ve belirli ayları işaret ettiğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-16T12:01:14.449808+00:00",
+  "type": "news",
+  "cluster_id": "c237406f4b14d"
+ },
+ {
+  "title": "5 ilde tefecilere operasyon! 9 milyar TL'lik dev işlem hacmi tespit edildi",
+  "link": "https://www.sozcu.com.tr/5-ilde-tefecilere-operasyon-9-milyar-tl-lik-dev-islem-hacmi-tespit-edildi-p358812",
+  "source": "Sözcü",
+  "summary_tr": "5 ilde organize suç örgütlerine yönelik operasyonda 53 şüpheli yakalandı; hesaplarında 9 milyar 170 milyon TL hareketlilik tespit edildi.",
+  "metric": "Tespit edilen para hareketliliği: 9 milyar 170 milyon TL",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-16T12:01:14.449808+00:00",
+  "type": "news",
+  "cluster_id": "c3dcc6dc73fa6"
+ },
+ {
+  "title": "China's top diplomat urges Iran, US to show restraint, revive talks",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeURxZkdzcC1ZX3IxSWM5TTBLc3dZYXZrYlZhcXc4LXVDU3BKeEx5Y0xRWi04dUk3TE9LN0VGbjNLRlN6UXExckR0b1BZZGh6cEFiOEE0VlExSHh6Q29lcFlYX01ZaWlOT1E4Wl9aYnhORHRZcHFKZkJSWDZSd0NtOVhtMnU5dUpROW1aTkdYMVFWQmFIWUlZQ0dPVlhIZzU0dkktSXVzelAzU1BfR3c?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin'in baş diplomatı, İran ve ABD'yi itidal göstermeye ve müzakereleri yeniden başlatmaya çağırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-16T12:01:14.449808+00:00",
+  "type": "news",
+  "cluster_id": "cefb21824c502"
+ },
+ {
   "title": "Hazine ve Maliye Bakanı Şimşek: Seçim sürecinde de dezenflasyondan vazgeçmeyeceğiz",
   "link": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-secim-surecinde-de-dezenflasyondan-vazgecmeyecegiz/4058907",
   "source": "Anadolu Ajansı",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-06T11:01:11.710618+00:00",
   "type": "news",
   "cluster_id": "c1fd674be0cd6"
- },
- {
-  "title": "'Çerçeve yasa' Meclis'te: İki yıldır esas konu konuşulmuyor, kısmi af tartışmasıyla doğrultunun üstü örtülüyor",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTnFZSlE5aElvUWVxU1BBX3V1Y0RKZWI2WlpQVVF4bFA1S2YyajMzam56MkJiSU9DQUR5N3o4bUpRZlM4elRKRnQ0ZXVPVHdmeFZRNDVFbFFpWlh0VHpxRF9RSXFUd0RMSkNYOERXVjF2TldvcXJJalV4Und3SnhPeWI3ODV6R3JYUnRuTldzWHlXeHYyQW11bjF6cTlrNlN6Rm5yNzVQaHA3WTRLXzNkVXJraDJWS194VlRYYVJR?oc=5",
-  "source": "soL",
-  "summary_tr": "soL Haber, çerçeve yasanın Mecliste tartışılırken iki yıldır asıl konunun konuşulmadığını ve kısmi af tartışmasıyla yöneltinin örtüldüğünü yazdı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-06T11:01:11.710618+00:00",
-  "type": "news",
-  "cluster_id": "cd6c9f254b7eb"
- },
- {
-  "title": "Almanya tetikte: Patlayıcı yüklü İHA nereden geldi?",
-  "link": "https://www.dw.com/tr/almanya-tetikte-patlayıcı-yüklü-iha-nereden-geldi/a-78261751?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Almanya'nın güvenlik örgütleri Leipzig Havalimanı'nda ele geçirilen patlayıcı yüklü İHA nedeniyle alarmda. İçişleri Bakanı hibrit tehdit konusunda açıklama yaptı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-06T10:01:17.247683+00:00",
-  "type": "news",
-  "cluster_id": "c12acc7a96492"
- },
- {
-  "title": "İran: Hürmüz Boğazı'nda Umman'la anlaşma yakın",
-  "link": "https://www.dw.com/tr/iran-hürmüz-boğazı-nda-umman-la-anlaşma-yakın/a-78261468?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "İran, petrol ticareti için kritik Hürmüz Boğazı'ndan geçişleri düzenleyecek Umman ile bir anlaşmanın yakın olduğunu bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-06T10:01:17.247683+00:00",
-  "type": "news",
-  "cluster_id": "c1d5b975eccb8"
- },
- {
-  "title": "MSB'den 'Terörsüz Türkiye' açıklaması",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/msb-den-terorsuz-turkiye-aciklamasi-2526944",
-  "source": "Cumhuriyet",
-  "summary_tr": "Milli Savunma Bakanlığı, TBMM'ye sunulan 360 imzalı 'Terörsüz Türkiye' çerçeve yasasının ardından açıklamada kalıcı barış ve güvenlik vizyonundan söz etti.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-06T10:01:17.247683+00:00",
-  "type": "news",
-  "cluster_id": "c4f23ffd84e56"
- },
- {
-  "title": "Adalet Bakanı Gürlek: Terörsüz Türkiye milli bir devlet politikasıdır",
-  "link": "https://www.trthaber.com/haber/gundem/adalet-bakani-gurlek-terorsuz-turkiye-milli-bir-devlet-politikasidir-953249.html",
-  "source": "TRT Haber",
-  "summary_tr": "Adalet Bakanı Akın Gürlek, 'Terörsüz Türkiye' hedefinin milletin huzuru ve devlet güvenliğini esas alan milli bir politika olduğunu belirtti.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-06T10:01:17.247683+00:00",
-  "type": "news",
-  "cluster_id": "cb5e65f25f694"
- },
- {
-  "title": "MSB: Terörsüz Türkiye, ulusal güvenliği güçlendiren ve bölgesel istikrara katkı sunan stratejik bir vizyondur",
-  "link": "https://www.trthaber.com/haber/gundem/msb-terorsuz-turkiye-ulusal-guvenligi-guclendiren-ve-bolgesel-istikrara-katki-sunan-stratejik-bir-vizyondur-953246.html",
-  "source": "TRT Haber",
-  "summary_tr": "Milli Savunma Bakanlığı, 'Terörsüz Türkiye' vizyonunun ulusal güvenliği güçlendiren ve bölgesel istikrara katkı sunan stratejik bir vizyon olduğunu açıkladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-06T10:01:17.247683+00:00",
-  "type": "news",
-  "cluster_id": "c54f90abebbfd"
  }
 ]
