@@ -1,5 +1,29 @@
 [
  {
+  "title": "İsrail'de seçim öncesi Netanyahu ile Ben-Gvir arasındaki anlaşmazlık tırmanıyor",
+  "link": "https://www.aa.com.tr/tr/dunya/israilde-secim-oncesi-netanyahu-ile-ben-gvir-arasindaki-anlasmazlik-tirmaniyor/4058405",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail'de yaklaşan seçimler öncesinde Başbakan Netanyahu liderliğindeki Likud Partisi ile aşırı sağcı Ulusal Güvenlik Partisi arasında anlaşmazlık tırmanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-16T00:01:03.198195+00:00",
+  "type": "news",
+  "cluster_id": "c1debf0d0e413"
+ },
+ {
+  "title": "US acknowledges for the first time that it has deployed weapons in space",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaTA1b21Gd0FmOUU2Z0pROU1nZGlhTlgwZmJ3eHBTWjZzRUh0bmd1UC1xdFpGLVdWTjFJOS1RMzBFbFdIREVqbUNZOWJTb0NyaUUtSEc5MGVSbTNHQWlmY3owNHhXUENhamZYZ2I1aFBqUDhoanh3bTBPb29ReURHRENFRW10QW5xOVpF?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD ilk kez resmen uzayda silah konuşlandırdığını kabul etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-16T00:01:03.198195+00:00",
+  "type": "news",
+  "cluster_id": "c51fcae763c69"
+ },
+ {
   "title": "Yalçın Doğan | Motorine zam gününde: Sebze, meyve halinde operasyon!..",
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbktuMVMzU2VRdjdBa2dyYmZQREEwMkZPb2JnRnpEVjVmM0trTk9neE12WG5lVTQyekpYWFU0TVFDMHZsRDZIZ3M1RFVrRXdBLWppYWlYa1VNbjdBOEhKN0dxNkNvMnl3VnFVRTJIYXdkbFNhVTNyWmU5Y2VHQW1uX1RRQVJZMjN0ZkY1M0VaUmNNbTl5NjQ1MlVMU1NqQQ?oc=5",
   "source": "T24",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-05T19:01:07.146975+00:00",
   "type": "news",
   "cluster_id": "c36a481b6646e"
- },
- {
-  "title": "İYİ Parti'nin ‘çerçeve yasa’ teklifi reddedildi: ‘PKK sözde hukuki bir organizasyon mudur ki kendini feshetsin’",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/iyi-parti-nin-cerceve-yasa-teklifi-reddedildi-pkk-sozde-hukuki-bir-organizasyon-mudur-ki-kendini-feshetsin-2526799",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM, İYİ Parti'nin 'çerçeve yasa' teklifini reddetti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-05T18:01:04.119561+00:00",
-  "type": "news",
-  "cluster_id": "cb90540e86193"
- },
- {
-  "title": "CHP'den çerçeve yasa açıklaması: Önceliklerimiz bu taslakta karşılanmıştır",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwelNzLUUwbFZuZVdvaW9hVFNITXpNaE9iMUY2X1FUWlI4bmZadVRaVkJ4Z3VzeEE1VDVrYXZwTUo3YU85ZG1YTnd6WE5FYWpQNkhUN1ViU3F1TUxjQ3lTUnVlWkhpdkZs?oc=5",
-  "source": "T24",
-  "summary_tr": "CHP, çerçeve yasa taslağında önceliklerinin karşılandığını açıkladı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-05T18:01:04.119561+00:00",
-  "type": "news",
-  "cluster_id": "c26a07206700c"
  }
 ]
