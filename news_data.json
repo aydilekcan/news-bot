@@ -1,5 +1,65 @@
 [
  {
+  "title": "Traktör tarlada, vatandaş yolda kaldı",
+  "link": "https://www.sozcu.com.tr/traktor-tarlada-vatandas-yolda-kaldi-p358611",
+  "source": "Sözcü",
+  "summary_tr": "Motorine 6,59 lirası dev zam yapılması sonrası çiftçiler ve üreticiler ekonomik darboğaza girdi.",
+  "metric": "Motorin zam miktarı 6,59 lira",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-09-16T03:01:08.034592+00:00",
+  "type": "news",
+  "cluster_id": "c50233e85a578"
+ },
+ {
+  "title": "Sebze-meyvede fahiş fiyat operasyonu: 41 kişiye gözaltı kararı",
+  "link": "https://www.sozcu.com.tr/sebze-meyvede-fahis-fiyat-operasyonu-41-kisiye-gozalti-karari-p358613",
+  "source": "Sözcü",
+  "summary_tr": "Tarım Bakanı Akın Gürlek, sebze-meyvede fahiş fiyatlandırma operasyonunda 22 ilde 109 iş yeri ve ikamette arama başlattığını, 41 kişiye gözaltı kararı verildiğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-16T03:01:08.034592+00:00",
+  "type": "news",
+  "cluster_id": "c6ffb54f949a3"
+ },
+ {
+  "title": "Üzüm üreticisini cezalandırdılar",
+  "link": "https://www.sozcu.com.tr/uzum-ureticisini-cezalandirdilar-p358612",
+  "source": "Sözcü",
+  "summary_tr": "Manisa'da kuru üzüm alım fiyatı 130 TL'den 100 TL'ye düşerek üreticileri cezalandırdı.",
+  "metric": "Kuru üzüm alım fiyatı 130 TL -> 100 TL (-23%)",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-16T03:01:08.034592+00:00",
+  "type": "news",
+  "cluster_id": "cc825dca3e44d"
+ },
+ {
+  "title": "Sarayın 1 dakikası emeklinin 3 aylığı",
+  "link": "https://www.sozcu.com.tr/sarayin-1-dakikasi-emeklinin-3-ayligi-p358609",
+  "source": "Sözcü",
+  "summary_tr": "Cumhurbaşkanlığı, 8 ayda saray bütçesinden 12,2 milyar lira örtülü ödenek ve 12,4 milyar lira toplam harcama yaptı.",
+  "metric": "Saray harcaması (8 ay) 12,4 milyar lira",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-16T03:01:08.034592+00:00",
+  "type": "news",
+  "cluster_id": "c392396d4b450"
+ },
+ {
+  "title": "Asian markets make nervous start ahead of Fed decision",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EZTFQYXAzY01LTC1UX2J5X2FjVEgta19TLV9QZF9LNXFQYm9CTjNkOV9YOFJ6aXJpQzFqYUc4c2JzVHpzUlFzYjBNbEthX0kxcDJWazgxR3R5TjNUQl9xcXY5ano5Wl9ETEw2VDJZOFpndVBVMFY1VElhZw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Asya piyasaları Fed faiz kararı öncesi sinirli bir başlangıç yapıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-16T03:01:08.034592+00:00",
+  "type": "news",
+  "cluster_id": "c673eb88bac6c"
+ },
+ {
   "title": "Fahiş fiyat operasyonunda sebze-meyve dağıtıcısı 41 firmanın yöneticisine gözaltı kararı: Tarımda sistem adaletsiz",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/fahis-fiyat-operasyonunda-sebze-meyve-dagiticisi-41-firmanin-yoneticisine-gozalti-karari-tarimda-sistem-adaletsiz-2537935",
   "source": "Cumhuriyet",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-05T20:01:10.194352+00:00",
   "type": "news",
   "cluster_id": "c3e8cf0322bb4"
- },
- {
-  "title": "Netanyahu, Trump’a rest çekti",
-  "link": "https://www.sozcu.com.tr/netanyahu-trump-a-rest-cekti-p342729",
-  "source": "Sözcü",
-  "summary_tr": "İsrail Başbakanı Netanyahu, ABD ile İran arasındaki nükleer müzakereler sırasında Tahran'ı uyardı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-05T20:01:10.194352+00:00",
-  "type": "news",
-  "cluster_id": "c3b9bf9248de2"
- },
- {
-  "title": "Şehit aileleri ve gazilerin haklarına ilişkin kanun teklifi, TBMM Milli Savunma Komisyonunda kabul edildi",
-  "link": "https://www.trthaber.com/haber/gundem/sehit-aileleri-ve-gazilerin-haklarina-iliskin-kanun-teklifi-tbmm-milli-savunma-komisyonunda-kabul-edildi-953196.html",
-  "source": "TRT Haber",
-  "summary_tr": "Şehit aileleri ve gazilerin haklarına ilişkin kanun teklifi TBMM Milli Savunma Komisyonunda kabul edildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-05T20:01:10.194352+00:00",
-  "type": "news",
-  "cluster_id": "c1643402f73d0"
- },
- {
-  "title": "Iran and the US say a Strait of Hormuz deal is close, but one or both would have to back down",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXpENFpMQ0V4N2VNNW9aXzJoWmV5V0R5U2t1QmY1OUFuSmQwcUIxb0x2aUZIdk9WWFFVc2RZM0NHSnh4eFhiekFUdWNjWDVkMlFkdzVCSXJaQnVyNmUtazRkVk1fUHVtc2w0N19OQnNTQV9XV0FqQUF4anhhNmhybkp3TF85NTY2MXR5MW9scDNrYWswN244QTBDRXFIM0E?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD ve İran, Hürmüz Boğazı anlaşmasına yakın olduğunu bildirdi; ancak bir veya her iki tarafın geri adım atması gerekebilir.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-05T20:01:10.194352+00:00",
-  "type": "news",
-  "cluster_id": "c20ca1e5f6414"
- },
- {
-  "title": "Tuzla'da 'Millet İradesine Saygı' yürüyüşü... Özgür Çelik ne olduğunu tek tek anlattı: 'İBB 40 milyarlık yolsuzluğun altına, hırsızlığın altına niye imza atsın?'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/tuzla-da-millet-iradesine-saygi-yuruyusu-ozgur-celik-ne-oldugunu-tek-tek-anlatti-ibb-40-milyarlik-yolsuzlugun-altina-hirsizligin-altina-niye-imza-atsin-2526816",
-  "source": "Cumhuriyet",
-  "summary_tr": "Eren Ali Bingöl'ün AKP'ye geçmesi Tuzla'da protesto edildi; Yeni Parti İstanbul İl Başkanı İBB'yi yolsuzlukla eleştirdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-05T20:01:10.194352+00:00",
-  "type": "news",
-  "cluster_id": "c66268e1aa9f0"
- },
- {
-  "title": "BM: İsrail'in Gazze'deki Sarı Hat yakınlarındaki saldırıları Filistinlilerin yaşamını sekteye uğratıyor",
-  "link": "https://www.trthaber.com/haber/dunya/bm-israilin-gazzedeki-sari-hat-yakinlarindaki-saldirilari-filistinlilerin-yasamini-sekteye-ugratiyor-953195.html",
-  "source": "TRT Haber",
-  "summary_tr": "BM, İsrail'in Gazze'deki saldırılarının Filistinlilerin yaşamını olumsuz etkilediğini duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-05T20:01:10.194352+00:00",
-  "type": "news",
-  "cluster_id": "c4ba71752f70b"
  }
 ]
