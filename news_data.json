@@ -1,5 +1,17 @@
 [
  {
+  "title": "İBB’nin yeni tarifesi belli oldu: Zam oranı yüzde 31’i buldu",
+  "link": "https://www.sozcu.com.tr/ibb-nin-yeni-tarifesi-belli-oldu-zam-orani-yuzde-31-i-buldu-p359245",
+  "source": "Sözcü",
+  "summary_tr": "İBB Meclisi 2027 düğün ve davet salonu ücret tarifesini %31 zamla kabul etti.",
+  "metric": "İBB salon tarifeleri +%31",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-17T18:01:01.066178+00:00",
+  "type": "news",
+  "cluster_id": "c1aa61ba4a916"
+ },
+ {
   "title": "İsveç'te seçimi kaybeden Başbakan Kristersson istifa etti",
   "link": "https://www.bbc.com/turkce/articles/c3wj9nzy2nzo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59986,17 +59998,5 @@
   "ts": "2026-08-08T07:01:05.009719+00:00",
   "type": "news",
   "cluster_id": "ce219450c7ecc"
- },
- {
-  "title": "Türkiye'nin konuştuğu 'Çerçeve Yasa' kabul edildi!",
-  "link": "https://www.sozcu.com.tr/turkiye-nin-konustugu-cerceve-yasa-kabul-edildi-p343441",
-  "source": "Sözcü",
-  "summary_tr": "Çerçeve Yasa teklifi Adalet Komisyonu'nda kabul edildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-08T06:01:00.768017+00:00",
-  "type": "news",
-  "cluster_id": "c2212e2906074"
  }
 ]
