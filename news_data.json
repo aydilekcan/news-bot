@@ -1,5 +1,29 @@
 [
  {
+  "title": "US House passes sanctions, tariff bill to raise economic pressure on Russia",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQVdRekRjalRLeU1yZ1Y1WjFWWmwxbWxXdGdsdWRYbUtkV3RmSlBUc0xkZUtsTWZTTmwtZ1IzT0xpX2RQUkUyemozTGFjS2dGcGdNcnJtUloxN0Z3T2I3OEdIZHd3T01WbXhhamFGanZSV0Z1LWlxaUNsTEl1TkNBSFd5WFd2THJXMEpGSnlXQ3hnbHUwOGJmX2FVZXVZUHRoeUstTXJiVERYSVZka200?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Temsilciler Meclisi Rusya'ya ekonomik baskı uygulamak için yaptırım ve tarife içeren tasarıyı kabul etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-17T04:01:05.568107+00:00",
+  "type": "news",
+  "cluster_id": "ca9dd9d919f29"
+ },
+ {
+  "title": "North Korea says US-led arms buildup justifies expanding nuclear force",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNU0zRU9hZ181OVZyTUp5OFNoY2NmUGlmZ2o0dGhXU3dKSG5oeC0wU1dpSEY3OHZtTkVDODNBUEhkcUl5XzVyWUlGNnlHdkV6VXBDSHV4QW8wbC0tZkxJV2xuS21QVjFmaGd6OHNhV0xhVTZTZHBmakdvTWQ1UjZpVXNqRGU4Z1ZtM3A4aHcyR25DTnNnOFgxZk94RjEybGVtQ1M0N20wamNYUFBHWnlNOTJCNU9QdDJQbndtcDkzbkVzQWhITjYtUW1TQkVQN2lYcnJR?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Kuzey Kore, ABD öncülüğündeki silahlanmaya karşı nükleer gücünü genişletme kararını haklı gösteriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-17T04:01:05.568107+00:00",
+  "type": "news",
+  "cluster_id": "ce44fcf375784"
+ },
+ {
   "title": "Pompaya zam tabelaya sığmadı",
   "link": "https://www.sozcu.com.tr/pompaya-zam-tabelaya-sigmadi-p358948",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-07T07:01:15.915252+00:00",
   "type": "news",
   "cluster_id": "c846d082406ed"
- },
- {
-  "title": "Yükseköğrenim mezunlarının kısa dönem ikamet izni 1 yıl daha uzatılabilecek",
-  "link": "https://www.aa.com.tr/tr/gundem/yuksekogrenim-mezunlarinin-kisa-donem-ikamet-izni-1-yil-daha-uzatilabilecek/4020735",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye'de yükseköğrenimini tamamlayan uluslararası mezunlar, kısa dönem ikamet izinlerini 1 yıl daha uzatabilecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-07T07:01:15.915252+00:00",
-  "type": "news",
-  "cluster_id": "cb77b03a020a9"
- },
- {
-  "title": "Kuşadası Belediyesi'ne yönelik operasyon derinleşiyor: 15 gözaltı",
-  "link": "https://www.trthaber.com/haber/turkiye/kusadasi-belediyesine-yonelik-operasyon-derinlesiyor-15-gozalti-953338.html",
-  "source": "TRT Haber",
-  "summary_tr": "Kuşadası Belediyesi'ne yönelik operasyonda 15 kişi gözaltına alındı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-07T07:01:15.915252+00:00",
-  "type": "news",
-  "cluster_id": "ca98e9a4b235b"
  }
 ]
