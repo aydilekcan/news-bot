@@ -1,5 +1,29 @@
 [
  {
+  "title": "ABD Başkanı Trump: Umarım (İran'la) savaşın sonuna doğru ilerliyoruz",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-umarim-iranla-savasin-sonuna-dogru-ilerliyoruz/4059576",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Trump, İran'la savaşın sonuna doğru ilerlediğini ve Tahran'ın doğrudan temasa geçtiğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-17T00:01:05.906064+00:00",
+  "type": "news",
+  "cluster_id": "ce36a3d6d429c"
+ },
+ {
+  "title": "SPK'dan Katılımevim dahil üç hissedeki işlemlerle ilgili suç duyurusu ve işlem yasağı",
+  "link": "https://www.diken.com.tr/spkdan-katilimevim-dahil-uc-hissedeki-islemlerle-ilgili-suc-duyurusu-ve-islem-yasagi/?utm_source=rss&utm_medium=rss&utm_campaign=spkdan-katilimevim-dahil-uc-hissedeki-islemlerle-ilgili-suc-duyurusu-ve-islem-yasagi",
+  "source": "Diken",
+  "summary_tr": "SPK, Katılımevim dahil üç hissede işlem yasağı koydu ve suç duyurusunda bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-17T00:01:05.906064+00:00",
+  "type": "news",
+  "cluster_id": "cef8b0265270d"
+ },
+ {
   "title": "Motorinin litre fiyatı 3 haneyi gördü... Çiftçilerden sert tepki: 'Kara sabana, öküze döneceğiz'",
   "link": "https://www.cumhuriyet.com.tr/siyaset/motorinin-litre-fiyati-3-haneyi-gordu-ciftcilerden-sert-tepki-kara-sabana-okuze-donecegiz-2538311",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-07T06:01:00.617759+00:00",
   "type": "news",
   "cluster_id": "c9620e6c03c50"
- },
- {
-  "title": "Acil kilo kilo stok yapın çağrısı yapıldı: Yüzde 100 zam gelecek",
-  "link": "https://www.sozcu.com.tr/acil-kilo-kilo-stok-yapin-cagrisi-yapildi-yuzde-100-zam-gelecek-p343136",
-  "source": "Sözcü",
-  "summary_tr": "İklim krizi nedeniyle kahve ve kakaoda tedarik alarmı verildi; uzmanlar sonbaharda fiyatlarda %100 zam beklediğini duyurdu.",
-  "metric": "Beklenen fiyat artışı: %100",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-07T06:01:00.617759+00:00",
-  "type": "news",
-  "cluster_id": "c1ab0d64f3143"
- },
- {
-  "title": "Vergi borcu olanlara 72 aya varan taksit fırsatı",
-  "link": "https://www.sozcu.com.tr/vergi-ve-borc-yapilandirmasinda-son-gun-yaklasiyor-72-aya-varan-taksit-firsati-p343130",
-  "source": "Sözcü",
-  "summary_tr": "Vergi, SGK ve MTV borçları için 72 aya varan taksit ve faiz indirimi imkanı sağlandı; son başvuru tarihi 31 Ağustos.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-07T06:01:00.617759+00:00",
-  "type": "news",
-  "cluster_id": "c9a589e48c98b"
  }
 ]
