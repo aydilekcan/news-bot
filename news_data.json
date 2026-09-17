@@ -1,5 +1,65 @@
 [
  {
+  "title": "Merkez Bankası Para Politikası Kurulu Toplantı Özeti yayımlandı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-para-politikasi-kurulu-toplanti-ozeti-yayimlandi/4060050",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "TCMB Para Politikası Kurulu, jeopolitik belirsizliklere bağlı artan enerji fiyatlarını dikkate alarak para politikası duruşu hakkında açıklama yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-17T12:01:17.963954+00:00",
+  "type": "news",
+  "cluster_id": "c3ea113276ed1"
+ },
+ {
+  "title": "İngiltere Merkez Bankası politika faizini yüzde 3,75'te sabit bıraktı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/ingiltere-merkez-bankasi-politika-faizini-yuzde-3-75te-sabit-birakti/4060029",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İngiltere Merkez Bankası (BoE) politika faizini %3,75'te sabit bıraktı.",
+  "metric": "Politika faizi %3,75 (sabit)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-17T12:01:17.963954+00:00",
+  "type": "news",
+  "cluster_id": "c1b53da708038"
+ },
+ {
+  "title": "Europe's low gas stocks pile on the economic and political pressure",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT3ZaaXBVeVNMSm9TdlAzaWhnMDdTRTZIdENoSHBiVW1QQUx3eGxlOFk5cWJtcl91VVBud284a2N4OVM5dXJmMWZlb2NfLXdvMkswNVFmR0lmX3NzaUEzdmp1aWYtVjAxangtdGoxM2dXUUFZcm96NnMyVW0xOVY0NTB1aDVMbUdSTDlpVG9jSDhtcGZMUC02cTNVNGRhWnlmNktCR3dCZ0F4eE0?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Avrupa'nın düşük doğalgaz stokları, ekonomik ve siyasi baskı yaratıyor. Enerji krizi kontrol mekanizmalarını zorlayacak potansiyel taşıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-17T12:01:17.963954+00:00",
+  "type": "news",
+  "cluster_id": "c8f3c7aa1a600"
+ },
+ {
+  "title": "EU Commission proposes under-13s social media ban",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRTVvWFhsNXV6V19jalZ3WkNuSndKa1RSS2xrVVJZM3gwa0JuLVEtNFk2Vk9MbTR0Uk90YnR0ZGFFR2lrMldvUTNuMk5fcnJ1THlnY2RIQTZnVFRodVhOSmloMnBGWERUVDJ2djU3enpFOTBUZ1EtWUxPSFo2Mk03cnFRR0Y0M2hvMGV6T0UwY0ROYUNiWW1NbHpMek9teUot?oc=5",
+  "source": "Reuters",
+  "summary_tr": "AB Komisyonu, 13 yaşından küçük çocukların sosyal medya erişiminin yasaklanmasını, 13-15 yaş grubunun ise kısıtlanmasını öneriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-17T12:01:17.963954+00:00",
+  "type": "news",
+  "cluster_id": "cfe0b86a0b6d3"
+ },
+ {
+  "title": "Volkswagen’den tarihi karar: 75 yıllık efsanenin fişi çekiliyor",
+  "link": "https://www.sozcu.com.tr/volkswagen-den-tarihi-karar-75-yillik-efsanenin-fisi-cekiliyor-p359143",
+  "source": "Sözcü",
+  "summary_tr": "Otomotiv devi Volkswagen, maliyet baskısı ve Çinli rekabet nedeniyle 75 yıllık İspanyol otomobil markasının üretimini durdurma kararı aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-17T12:01:17.963954+00:00",
+  "type": "news",
+  "cluster_id": "ca5243e7bbcd0"
+ },
+ {
   "title": "1 milyon vatandaşın 1,1 trilyon lirası kilitli kaldı",
   "link": "https://www.sozcu.com.tr/1-milyon-vatandasin-1-1-trilyon-lirasi-kilitli-kaldi-p359118",
   "source": "Sözcü",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-07T18:01:13.325395+00:00",
   "type": "news",
   "cluster_id": "ce66e3bc5d86c"
- },
- {
-  "title": "Çerçeve yasa komisyonda: Meclis mesaisi gerginlikle başladı",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObllId1VVcmxobTU1SjVqSjFkTVBuaTdzeHk0TWxLTE01cWIzY1ZzNEE4Mk4wcXZCdnZfSlR6Mm9ZZkg4emZ0cDBTTFpqTDBKZGxwTzVxVTNZNEFSR1VROUV4a0NMMU9DRmkyOW1HdU5sdmVaVnBwQ2Q0SnNWZi1kR2hnTWE4dGpQelF0NWNoRGhRbVdJSVY0?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Çözüm süreci çerçeve yasası TBMM Adalet Komisyonu'nda görüşülmeye başladı; mesai gerginlikle açıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-07T18:01:13.325395+00:00",
-  "type": "news",
-  "cluster_id": "c627787728640"
- },
- {
-  "title": "Menderes Belediyesi soruşturmasında Başkan İlkay Çiçek tutuklandı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/menderes-belediyesi-sorusturmasinda-baskan-ilkay-cicek-tutuklandi-2527358",
-  "source": "Cumhuriyet",
-  "summary_tr": "Menderes Belediye Başkanı İlkay Çiçek, rüşvet ve irtikap soruşturması kapsamında tutuklandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-07T18:01:13.325395+00:00",
-  "type": "news",
-  "cluster_id": "c4072dd7a3c62"
- },
- {
-  "title": "İş Bankası'nda üst yönetim değişikliği",
-  "link": "https://www.sozcu.com.tr/is-bankasi-kap-gorev-degisimi-7-agustos-2026-p343367",
-  "source": "Sözcü",
-  "summary_tr": "İş Bankası Grubu'nda üst yönetim değişikliği: Genel Müdür Hakan Aran görevinden ayrıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-07T18:01:13.325395+00:00",
-  "type": "news",
-  "cluster_id": "c0743958c4078"
- },
- {
-  "title": "Ümit Özdağ'dan MHP'li Feti Yıldız'a Çözüm süreci tepkisi",
-  "link": "https://www.sozcu.com.tr/umit-ozdag-dan-mhp-li-feti-yildiz-a-cozum-sureci-tepkisi-p343366",
-  "source": "Sözcü",
-  "summary_tr": "Zafer Partisi Genel Başkanı Ümit Özdağ, çözüm süreci çerçeve yasasına tepki gösterdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-07T18:01:13.325395+00:00",
-  "type": "news",
-  "cluster_id": "c9f9b0da4760d"
- },
- {
-  "title": "Menderes Belediye Başkanı Çiçek tutuklandı",
-  "link": "https://www.trthaber.com/haber/turkiye/menderes-belediye-baskani-cicek-tutuklandi-953381.html",
-  "source": "TRT Haber",
-  "summary_tr": "Menderes Belediye Başkanı İlkay Çiçek, rüşvet ve irtikap soruşturması kapsamında tutuklandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-07T18:01:13.325395+00:00",
-  "type": "news",
-  "cluster_id": "c6d577faa6cf7"
  }
 ]
