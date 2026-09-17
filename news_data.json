@@ -1,5 +1,77 @@
 [
  {
+  "title": "Merkez Bankası rezervleri 5,5 milyar dolar azaldı",
+  "link": "https://www.diken.com.tr/merkez-bankasi-rezervleri-55-milyar-dolar-azaldi/?utm_source=rss&utm_medium=rss&utm_campaign=merkez-bankasi-rezervleri-55-milyar-dolar-azaldi",
+  "source": "Diken",
+  "summary_tr": "TCMB döviz rezervleri 11 Eylül haftasında bir önceki haftaya göre 5,5 milyar dolar azaldı.",
+  "metric": "Merkez Bankası rezervleri -5,5 milyar dolar",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-17T13:01:08.815627+00:00",
+  "type": "news",
+  "cluster_id": "cacb6fde391bc"
+ },
+ {
+  "title": "Merkez Bankası rezervleri 5 milyar 523 milyon dolar azaldı",
+  "link": "https://www.sozcu.com.tr/merkez-bankasi-rezervleri-5-milyar-523-milyon-dolar-azaldi-p359166",
+  "source": "Sözcü",
+  "summary_tr": "TCMB döviz rezervleri 11 Eylül haftasında 5 milyar 523 milyon dolar azaldı.",
+  "metric": "Merkez Bankası rezervleri -5,523 milyar dolar",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-17T13:01:08.815627+00:00",
+  "type": "news",
+  "cluster_id": "cacb6fde391bc"
+ },
+ {
+  "title": "Goldman Sachs'tan akaryakıt fiyatları için yeni tahmin: 2027 yılı işaret edildi",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/goldman-sachs-tan-akaryakit-fiyatlari-icin-yeni-tahmin-2027-yili-isaret-edildi-2538487",
+  "source": "Cumhuriyet",
+  "summary_tr": "Goldman Sachs, rafinerilerin üretim kaydırmasının benzin arzını sıkılaştırdığını ve 2027 yılına işaret etmektedir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-17T13:01:08.815627+00:00",
+  "type": "news",
+  "cluster_id": "c4db179f89a9c"
+ },
+ {
+  "title": "BDDK'dan bankalar için yeni karar",
+  "link": "https://www.sozcu.com.tr/bddk-dan-bankalar-icin-yeni-karar-p359175",
+  "source": "Sözcü",
+  "summary_tr": "BDDK, Borsa İstanbul'da işlem gören bankaların hisse geri alımlarına yönelik yeni karar aldı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-17T13:01:08.815627+00:00",
+  "type": "news",
+  "cluster_id": "c6194975c1079"
+ },
+ {
+  "title": "BDDK'dan bankaların hisse geri alımlarına yönelik karar",
+  "link": "https://www.trthaber.com/haber/ekonomi/bddkdan-bankalarin-hisse-geri-alimlarina-yonelik-karar-957153.html",
+  "source": "TRT Haber",
+  "summary_tr": "BDDK, halka açık bankaların 16 Eylül'den sonra geri alım yoluyla edindikleri kendi hisse senetlerine yönelik karar aldı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-17T13:01:08.815627+00:00",
+  "type": "news",
+  "cluster_id": "c683216c50403"
+ },
+ {
+  "title": "Energy disruption hits Bangladesh and Pakistan as Gulf crisis worsens",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS0EzZXczXzVnOXpwMGNQd2NVWUNWVzBjaDl0b0lQZHNJLTk4UmpHa25CQVpMNWNSaEZCYjkwcjVGdThYbE5QeDlXN0ZPOTY5VDBtSmRwd2hOdXgxa09XT3NBVVVFUVpyYm5pWmJEZE0tWV9hSUtjMWJfSUtEWHR3WUljNmlZV2lRc1F2Q1hEWHFKZU1aVnJSZVh5eVV5aTRuQmVFTUlpbUJ0N3ZEbXlPOFRzTWw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Körfez krizi nedeniyle Bangladesh ve Pakistan'da enerji kesintileri yaşanmaktadır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-17T13:01:08.815627+00:00",
+  "type": "news",
+  "cluster_id": "ca4c7b355212d"
+ },
+ {
   "title": "Merkez Bankası Para Politikası Kurulu Toplantı Özeti yayımlandı",
   "link": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-para-politikasi-kurulu-toplanti-ozeti-yayimlandi/4060050",
   "source": "Anadolu Ajansı",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-07T20:01:05.065955+00:00",
   "type": "news",
   "cluster_id": "c37e2824753b6"
- },
- {
-  "title": "US sanctions Dubai crypto exchange for aiding Iran's IRGC, following a Reuters report",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUkNKX1cxNjJBMmFrZ2tXYVNiMmxxWGJ4R1ZBb1FhNHZDTndjZVR5YW5GMzFNcWs1dnFDMGRTc0c1bFB0cnB1ZEJYek5Kb0FtcVNXSDRWZ3UtRmdrVUJYSDZBR0dVYWlaWkh4Q3lDLU9hMzc5QzVPZVNjRng0cEJxcHdsRWRqWGoyNERWbzBFVnlRN1FxeGhDbEZSMGxqQmQtTlhheUE4cFpGdlJRYXp3SThPaEJmcEl4czViLW9PZ3BGSkZId3FFRGF3OA?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, İran İSLAM Devrim Muhafızları Ordusu'na yardım ettiği gerekçesiyle Dubai kripto para borsasına yaptırım uyguladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-07T20:01:05.065955+00:00",
-  "type": "news",
-  "cluster_id": "ca3b8057f6ece"
- },
- {
-  "title": "US Senate passes Russia sanctions championed by Graham; US House next",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0pzeU9VRmJkMDBtRWM3MFhyR3JKTENJeDVfb3pNNHpycXViQnF6LWpveDVmZlotcWVrV0M3cTV4Q1hyTUlPcnRwaDFqRW5fWE5BdlFSYVd4NnZ5MWU2X241OU1QVzZkREh5MjVVMFBlY0k3RDgtM2RDUEFWNVVwUlJ4RFo4OHpGanRuclQ1WXV0bmVZX1MtRUZWak5ERjJ1Y0FLQlR3SlBtS2VyM0EyWUlJQVRJdw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD Senatı, Graham'ın öncülüğündeki Rusya yapı yaptırımlarını onayladı; Temsilciler Meclisi sırası geldi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-07T19:01:04.137621+00:00",
-  "type": "news",
-  "cluster_id": "c27f6fc12d597"
- },
- {
-  "title": "Tasarruf finansman sistemine kısıtlama: Sözleşme sayısı sınırlanıyor",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVnZiMklPalhMTklnX3B1V3BwY1B4MEVkVWVZT1VTOU1BcGFFVnUyLW5HMzdleUh3emVfOGJoVkNxNlN5bWVkWDU5cnNFSWhHRlZicFNLVHpZb2U1Mnhubm5DLTdVMlR1ZnpkYVhtRGdvVEp2NE5GcHlnanQ1ekRpbjlMZUN4NU03RlFlaVFGVVoxeEJlNFUzVzI0Zw?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Tasarruf finansman sistemi kısıtlandı; sözleşme sayısı sınırlanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-07T19:01:04.137621+00:00",
-  "type": "news",
-  "cluster_id": "c3878a366f778"
- },
- {
-  "title": "Lebanon, Israel agree shortlist of countries that could send troops to verify Hezbollah disarmament",
-  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObTUzVkVVUGNmVndoank2S2FVLXctRzBwbDJPSVpFTDY5R2IzWUI4M0lZaUhhNm5jWG84bnlrT1ZpSUtQdHk2THVMMnJhdTF2ajNOYmExaGMyVnJHeVdtS0FteWpPclhjVzhUUDA1N25FZ0t4ZDMzZVhnU3ZVU21ScUdrc3h0alhUaElaNmRTdDZMY2g4QzhpaGh4VEliQU9WRUc2OHFHNllCbm14el83bGpTZnlWWk5xa3RObXNQcVVjOGl5Z2YwS0tRN2Rja2s?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Lübnan ve İsrail, Hezbollah silahsızlandırmasını doğrulamak için asker gönderebilecek ülkeler listesi konusunda anlaştı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-07T19:01:04.137621+00:00",
-  "type": "news",
-  "cluster_id": "c67fcbc9b0e54"
- },
- {
-  "title": "US suffers unexpected job losses in July, markets dial back rate hike expectations",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1B4WTMtdXVhNDJJNjJ2Sjl5dm14MXI4M3FUc2dYUDN5blRtOTBXQVZqX0ZaUWNQTFpZMDdlU24tY1BLWHVORE03Y0p3ekNQM0RHQjZJWEhpckhfLXl1QWFlVlV2UU9OWFhkWDZZNXA1eHdFVmlkQVlVUWdaQWVKUl9NMC1QcW8zT09NRks4eGViOXpESU82MmpuaWYydkljM1Fv?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD Temmuz ayında işsiz sayısında beklenmedik artış yaşandı; piyasalar Fed faiz artırım beklentilerini azalttı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-07T18:01:13.325395+00:00",
-  "type": "news",
-  "cluster_id": "c44fb2579a674"
- },
- {
-  "title": "Çerçeve Yasa Adalet Komisyonu'nda: Görüşmeler gergin başladı, Öcalan tartışması yaşandı",
-  "link": "https://www.bbc.com/turkce/articles/cn0nkrjlpj0o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Çözüm süreci çerçeve yasası TBMM Adalet Komisyonu'nda görüşülmeye başladı; tartışmalar gergin başladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-07T18:01:13.325395+00:00",
-  "type": "news",
-  "cluster_id": "ce66e3bc5d86c"
  }
 ]
