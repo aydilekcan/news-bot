@@ -1,5 +1,65 @@
 [
  {
+  "title": "İsveç'te seçimi kaybeden Başbakan Kristersson istifa etti",
+  "link": "https://www.bbc.com/turkce/articles/c3wj9nzy2nzo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "İsveç'te seçimleri kaybeden Başbakan Ulf Kristersson istifa etti; sağ blok merkez sol muhalefete karşı yenildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-17T17:01:08.009981+00:00",
+  "type": "news",
+  "cluster_id": "c0e4fb6b4bbf8"
+ },
+ {
+  "title": "İsveç'te iktidar değişimi: Sağ blok kaybetti, Başbakan Kristersson istifasını sundu",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORUlIWE5jTWtLUTVQbi1aNEFIdzBBak90dHU5aGc2N3liekloUWcxXzUycUtWTXQ3VHVvNzg0cjllTUdMQTRoVndfaGdJOEt2M0tKaTNUSEdjNVdvVmw0QzRaNl9iS3RvaC1URWVYM1lLSzUtY2xRQUxSX0h0WTBoY2Z1YUlnQkFqUXNHRi1la0RQbU9jT1NCUklKMWRvaTdmWVpCQ1ZfUDF4N0xHNGhRaTZqYWhVaVYzdWc?oc=5",
+  "source": "soL",
+  "summary_tr": "İsveç'te seçimler sonucu sağ blok kaybetti; Başbakan Kristersson istifasını sundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-17T17:01:08.009981+00:00",
+  "type": "news",
+  "cluster_id": "c15f8166d50ed"
+ },
+ {
+  "title": "Borsa soruşturması: Üç gözaltı, 48 kişiye yurt dışı çıkış yasağı",
+  "link": "https://www.diken.com.tr/borsa-sorusturmasi-uc-gozalti-48-kisiye-yurt-disi-cikis-yasagi/?utm_source=rss&utm_medium=rss&utm_campaign=borsa-sorusturmasi-uc-gozalti-48-kisiye-yurt-disi-cikis-yasagi",
+  "source": "Diken",
+  "summary_tr": "Borsa işlemlerine ilişkin soruşturmada 3 kişi gözaltına alındı, 48 kişiye yurt dışı çıkış yasağı konuldu.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-17T17:01:08.009981+00:00",
+  "type": "news",
+  "cluster_id": "cbaad13449ae5"
+ },
+ {
+  "title": "Emlak Konut şantiyesinde işçiler eylemde: 3 aydır maaş alamıyoruz",
+  "link": "https://www.sozcu.com.tr/emlak-konut-santiyesinde-isciler-eylemde-3-aydir-maas-alamiyoruz-p359241",
+  "source": "Sözcü",
+  "summary_tr": "Emlak Konut şantiyesinde çalışan işçiler, 3 aydır ücretlerini alamadıkları için eylem yaptı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-17T17:01:08.009981+00:00",
+  "type": "news",
+  "cluster_id": "cf4e8c025616f"
+ },
+ {
+  "title": "US labor market on solid footing; rising mortgages pressuring housing sector",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZl9MV2lRQVlhSGNPcS1Db0RCY05rTnJtS3VENVN2RjNvLUp4eW8yMWxVbFN2T003WUFITzZsVWJMa054RXVNSUxfdnBmRmdOWUg5dF8xWlViQWJGY2pVSjBKNV84RF9rRGRSWXRtZWt2NmJsX0xYek5SaTlBdEFSRk5WQ3l3bGJPTllKM0dlMmQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD'de işçi piyasası sağlam görünürken, artan ipotek oranları konut sektörüne baskı yapıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-17T17:01:08.009981+00:00",
+  "type": "news",
+  "cluster_id": "c361299d7c6c2"
+ },
+ {
   "title": "Bank of England shifts tone toward rate hikes as inflation set to top 4%",
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVWQxa3d0cG05Tmpfck4tZm5ZLTRLMUQ1bzRpVUNlbDg0ZDlNemp5d0hPbDVkcjBJdENvbFdldlA3a0h1VkZfOUt2NUE5eVNSaHlMbWZLUTBhNGZoOWEzNDZ6QVFYR095Wmt1dndTak1SaDJHbXBTZzdwWWlmZW16MjBRV3ZTanNaQm00M1VxdXE2OE5JUkdKczBSWTNVNkpJQzl6dTlXaGtHRXNWS21z?oc=5",
   "source": "Reuters",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-08T06:01:00.768017+00:00",
   "type": "news",
   "cluster_id": "c2212e2906074"
- },
- {
-  "title": "Kansu Yıldırım: Enflasyon, sınıfsal bölüşüm mekanizmasının önemli bileşenlerinden biridir",
-  "link": "https://www.diken.com.tr/kansu-yildirim-enflasyon-sinifsal-bolusum-mekanizmasinin-onemli-bilesenlerinden-biridir/?utm_source=rss&utm_medium=rss&utm_campaign=kansu-yildirim-enflasyon-sinifsal-bolusum-mekanizmasinin-onemli-bilesenlerinden-biridir",
-  "source": "Diken",
-  "summary_tr": "Kansu Yıldırım yazısında enflasyonun sınıfsal bölüşüm mekanizmasının önemli bir bileşeni olduğu analiz ediliyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-08T06:01:00.768017+00:00",
-  "type": "news",
-  "cluster_id": "cf17fd4f7da2d"
- },
- {
-  "title": "Mirasta yeni dönem: Satışta ilk hak değişecek",
-  "link": "https://www.sozcu.com.tr/mirasta-yeni-donem-satista-ilk-hak-degisecek-p343432",
-  "source": "Sözcü",
-  "summary_tr": "Miras kalan taşınmazların satışında yeni sistem planlanıyor; ilk açık artırmada mirasçılara öncelik verilecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-08T06:01:00.768017+00:00",
-  "type": "news",
-  "cluster_id": "c2d541f08efe7"
- },
- {
-  "title": "Yargıtay'dan çalışana müjde: Kıdem tazminatında hesap değişti",
-  "link": "https://www.sozcu.com.tr/yargitay-dan-calisana-mujde-kidem-tazminatinda-hesap-degisti-p343429",
-  "source": "Sözcü",
-  "summary_tr": "Yargıtay, satış ve performans primi alan çalışanların kıdem tazminatı hesaplama yöntemini değiştiren karara imza attı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-08T06:01:00.768017+00:00",
-  "type": "news",
-  "cluster_id": "cca41d2e90e62"
- },
- {
-  "title": "Trakya ihracat (aylık): 358 milyon dolar (Haziran)",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeTJYSHc5cXdMckJ4UEpKRTJvMGFKMjBEbS1jcEJqSGRfNnNsN213Nk9MeDFaZl9YR2RlUkZsZTVEdGRpNE9jbE05eE1CT0FxSk9ESmszTnhnYWRiZUI4YTNiMlRSNS1GVHhPLUYtQWk2TXZHbk8zampPcGlwbW4xRVhNdUxXZWtkckZNVTBTNlNsQktkN0JxYVY4NkdPd9IBowFBVV95cUxPX0VxMjJ4dUo1cWJaRTgybkdwMnJKS1l3R2tyRnVYcmlqR3BMWnBXR1ZPdU9xNXU4Zm5xWHFpR3d3UG1SYjZkc3I5ODdEa3JHVW5PNmJDRGxma0xpNjZTOVNWWXp0NE1pQ0h6X0NkY3ZOdHZfWVBSek1IcUJYeWtLZlJSM1JjZHRrdE1FdWZsdmVnNmYzXzBRX2FTblFiUXo1bDFR?oc=5",
-  "source": "TÜİK",
-  "summary_tr": "358 milyon dolar",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-08-08T06:01:00.768017+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "Yargıtay'dan kritik karar: SGK emekliye faiz ödeyecek!",
-  "link": "https://www.sozcu.com.tr/yargitay-dan-kritik-karar-sgk-emekliye-faiz-odeyecek-p343427",
-  "source": "Sözcü",
-  "summary_tr": "Yargıtay, emeklilik aylığının geç bağlanması nedeniyle biriken ödemelere faiz uygulanacağına karar verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-08T05:01:00.889519+00:00",
-  "type": "news",
-  "cluster_id": "c945e5d34bdba"
  }
 ]
