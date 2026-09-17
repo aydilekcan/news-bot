@@ -1,5 +1,77 @@
 [
  {
+  "title": "Trump: Önümde vermem gereken önemli bir karar var",
+  "link": "https://www.sozcu.com.tr/trump-iranla-savasin-nereye-gidecegine-karar-vermem-gerekiyor-p359254",
+  "source": "Sözcü",
+  "summary_tr": "ABD Başkanı Trump, İran'la savaşın gidişatı konusunda kritik bir karar aşamasında olduğunu belirtti; yakında sonuç vereceğini ifade etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-17T19:01:09.136390+00:00",
+  "type": "news",
+  "cluster_id": "c5f21dd4cd3d0"
+ },
+ {
+  "title": "Trump, İran'la savaşın gidişatı konusunda \"kritik bir karar aşamasında\" olduğunu belirtti",
+  "link": "https://www.aa.com.tr/tr/dunya/trump-iranla-savasin-gidisati-konusunda-kritik-bir-karar-asamasinda-oldugunu-belirtti/4060512",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, İran'la savaşın gidişatı konusunda kritik bir karar aşamasında olduğunu belirtti; yakında sonuç vereceğini ifade etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-17T19:01:09.136390+00:00",
+  "type": "news",
+  "cluster_id": "cf1c99977e5b3"
+ },
+ {
+  "title": "Trump, İran'la savaşın gidişatı konusunda kritik bir karar aşamasında olduğunu söyledi",
+  "link": "https://www.trthaber.com/haber/dunya/trump-iranla-savasin-gidisati-konusunda-kritik-bir-karar-asamasinda-oldugunu-soyledi-957190.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Başkanı Trump, İran'la savaşın gidişatı konusunda kritik bir karar aşamasında olduğunu belirtti; yakında sonuç vereceğini ifade etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-17T19:01:09.136390+00:00",
+  "type": "news",
+  "cluster_id": "cf1c99977e5b3"
+ },
+ {
+  "title": "US Democrats look to stop Trump's Saudi nuclear deal",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZUFIazFYWDhqbnZxbFFlTW4wbUgtdk53aWs1SUNJbnNjT1RSaHdkVlRvdk14NnlYVlM2OUZrcGJHQmpmaUgwb1QzUXlBU1NRX2FIMGRjdmYtTE0wRVVPZ2FJN3NqR3VhYUw3WlBaMldzb181MzRmTjc3eUdhOHNDM1JiY2tJWkllOUstU01wUlJqSnNxeXJmNTZRN3VNMFh3aXRV?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Demokratları, Trump'ın Suudi Arabistan'a karşı nükleer anlaşmasını durdurmaya çalışıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-17T19:01:09.136390+00:00",
+  "type": "news",
+  "cluster_id": "c9388cbd22186"
+ },
+ {
+  "title": "Bank of England halts long-dated gilt sales, rewrites plan to unwind QE",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOXzNBODRNWENQME11Q3prVU5TUk5RUGFpQXlGbTJ5NnAwSmFaWW96QVNFS3l4RVB2NHprOWR3UmlUd3NtQWliMmwwdWhKbXN3ZjVUS1hVQkl6akcteVpnQjBZWjlFTUVQMmF4Z205aUZoVEx3dFNJTUR4X1I5RWxudEdjd2dyV21qU3VuN01oaF9RUGFqZDY5VVFKWlJsMXVNRUJTa1FBYU5iSXBmRXRnczRlUUI0T1ho?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İngiltere Merkez Bankası, uzun vadeli devlet tahvili satışlarını durdurdu ve QE çıkış planını yeniden yazıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-17T19:01:09.136390+00:00",
+  "type": "news",
+  "cluster_id": "c7e3db05920a9"
+ },
+ {
+  "title": "Fon piyasasında taşlar yerinden oynuyor: Destek Faktoring patronu Altunç Kumova da gözaltında",
+  "link": "https://www.sozcu.com.tr/fon-piyasasinda-taslar-yerinden-oynuyor-destek-faktoring-patronu-altunc-kumova-da-gozaltinda-p359251",
+  "source": "Sözcü",
+  "summary_tr": "Fon piyasasındaki soruşturmada Destek Faktoring patronu Altunç Kumova gözaltına alındı; Destek Yatırım Bankası ile ilgili gelişmeler devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-17T19:01:09.136390+00:00",
+  "type": "news",
+  "cluster_id": "c508c2013d145"
+ },
+ {
   "title": "İBB’nin yeni tarifesi belli oldu: Zam oranı yüzde 31’i buldu",
   "link": "https://www.sozcu.com.tr/ibb-nin-yeni-tarifesi-belli-oldu-zam-orani-yuzde-31-i-buldu-p359245",
   "source": "Sözcü",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-08T08:01:09.804549+00:00",
   "type": "data",
   "cluster_id": ""
- },
- {
-  "title": "Süreç yasası teklifi komisyondan geçti",
-  "link": "https://www.diken.com.tr/surec-yasasi-teklifi-komisyondan-gecti/?utm_source=rss&utm_medium=rss&utm_campaign=surec-yasasi-teklifi-komisyondan-gecti",
-  "source": "Diken",
-  "summary_tr": "PKK'nın silah bırakması için hazırlanan 12 maddelik süreç yasası teklifi Meclis Adalet Komisyonu'ndan geçti.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-08T07:01:05.009719+00:00",
-  "type": "news",
-  "cluster_id": "cd88b821ca944"
- },
- {
-  "title": "Son Dakika... 'Çerçeve yasa' Adalet Komisyonu’nda kabul edildi!",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-cerceve-yasa-adalet-komisyonu-nda-kabul-edildi-2527430",
-  "source": "Cumhuriyet",
-  "summary_tr": "Kamuoyunda 'çerçeve yasa' olarak bilinen Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesi Kanun Teklifi TBMM Adalet Komisyonu'nda kabul edildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-08T07:01:05.009719+00:00",
-  "type": "news",
-  "cluster_id": "cd891e2f3c33c"
- },
- {
-  "title": "Terörsüz Türkiye yasa teklifi Komisyon'dan geçti",
-  "link": "https://www.trthaber.com/haber/gundem/terorsuz-turkiye-yasa-teklifi-komisyondan-gecti-953393.html",
-  "source": "TRT Haber",
-  "summary_tr": "'Terörsüz Türkiye' süreci kapsamında Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesi Kanun Teklifi TBMM Adalet Komisyonu'ndan geçti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-08T07:01:05.009719+00:00",
-  "type": "news",
-  "cluster_id": "c21a97dcfbb51"
- },
- {
-  "title": "'Suça sürüklenen çocuk' düzenlemesi: Altı madde daha kabul edildi",
-  "link": "https://www.diken.com.tr/suca-suruklenen-cocuk-duzenlemesi-alti-madde-daha-kabul-edildi/?utm_source=rss&utm_medium=rss&utm_campaign=suca-suruklenen-cocuk-duzenlemesi-alti-madde-daha-kabul-edildi",
-  "source": "Diken",
-  "summary_tr": "TBMM'de 'suça sürüklenen çocuk' düzenlemesine ilişkin altı madde daha kabul edildi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-08T07:01:05.009719+00:00",
-  "type": "news",
-  "cluster_id": "cf395aaa4ab39"
- },
- {
-  "title": "TBMM Genel Kurulu... İYİ Partili Sunat: 'Çocukların suça sürüklenmesinde 25 yıllık politikalar sorgulanmalı'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/tbmm-genel-kurulu-iyi-partili-sunat-cocuklarin-suca-suruklenmesinde-25-yillik-politikalar-sorgulanmali-2527432",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM'de çocukların suça sürüklenmesine ilişkin kanun teklifinin ikinci bölümü görüşülüyor; İYİ Parti milletvekili 25 yıllık politikaların sorgulanması çağrısında bulundu.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-08T07:01:05.009719+00:00",
-  "type": "news",
-  "cluster_id": "c50e115baa32b"
- },
- {
-  "title": "Marketlerin zam şampiyonunda dev indirim hamlesi: Tam 3 bin TIR yola çıkıyor",
-  "link": "https://www.sozcu.com.tr/marketlerin-zam-sampiyonunda-dev-indirim-hamlesi-tam-3-bin-tir-yola-cikiyor-p343445",
-  "source": "Sözcü",
-  "summary_tr": "Marketlerin zam şampiyonunda indirim hamlesi; Niğde'den 3 bin TIR yola çıkıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-08T07:01:05.009719+00:00",
-  "type": "news",
-  "cluster_id": "ce219450c7ecc"
  }
 ]
