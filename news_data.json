@@ -1,5 +1,65 @@
 [
  {
+  "title": "Fransa'da aşırı sağcı Zemmour, 2027 cumhurbaşkanlığı seçimlerine adaylığını açıkladı",
+  "link": "https://www.aa.com.tr/tr/dunya/fransada-asiri-sagci-zemmour-2027-cumhurbaskanligi-secimlerine-adayligini-acikladi/4060660",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Fransa'daki aşırı sağcı Zemmour, 2027 cumhurbaşkanlığı seçimlerine adaylığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-17T23:01:07.183241+00:00",
+  "type": "news",
+  "cluster_id": "c7d5a78a480c8"
+ },
+ {
+  "title": "JP Morgan says it has no clear oil market endgame as Iran conflict drags on",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSzYzNHdWWVhKTktiSDh6Vi0yOTdmYWZpUlBtUlAwWFNNZjNCdnNkdkxmUWFsUEFuZUl3LWRmTzd4UEdBRVFlODRqenMwUlVya1dNMjY0VkozQVo5VTJNMF9uc1lWRnZlU0pTczdHejBmX2pzWEZiWDhXaWpMZ3FvMm1YS09vVVJKdWo0bWJ1eFZwem5seElGMEFqbjhVQk5zZ1NtblRiT0NFS0dGYUVvQVlhLWtack9OdzROdGxn?oc=5",
+  "source": "Reuters",
+  "summary_tr": "JP Morgan, İran çatışması sürerken petrol piyasası için net bir sonuç senaryosu olmadığını belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-17T23:01:07.183241+00:00",
+  "type": "news",
+  "cluster_id": "c7abe6a6133b6"
+ },
+ {
+  "title": "EU to disburse €3.3 billion to Ukraine to procure missiles and drones, von der Leyen says",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUEpxdW9QQURmU29jSHEwTk9JMzk1NFU3dVVQOWdNZF9PQlJldE83S1FyUmxIWlJlcXRLeV9nc2p3TGZCX29sUFdSSGhFeEFlTWNxZmdJMXdENnZGWHZ3RmxSYUpzRVJMeU5KbjJBOVJiSTBVRHFzMWpiQ1ZXOENBVkJyY2x4V0gtc2c2RVFtbGdtNzZBOGJ4UnZRUm1ZNXU1VDB6WUt6aUw1MmxlbHVmcVp3MXZSZw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "AB, Ukrayna'ya füze ve insansız hava araçları satın almak için 3,3 milyar euro aktaracak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-17T23:01:07.183241+00:00",
+  "type": "news",
+  "cluster_id": "cbbdee2d8b5cc"
+ },
+ {
+  "title": "Nobel ödüllü bilim insanı Hinton'dan yapay zeka uyarısı: Bir şeyler yapmazsak bu durum kontrolden çıkacak",
+  "link": "https://www.aa.com.tr/tr/dunya/nobel-odullu-bilim-insani-hintondan-yapay-zeka-uyarisi-bir-seyler-yapmazsak-bu-durum-kontrolden-cikacak/4060655",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Nobel ödüllü bilim insanı Hinton, yapay zeka üzerinde kontrolü kaybetmeden önce güvenlik önlemleri alınması gerektiği uyarısında bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-17T23:01:07.183241+00:00",
+  "type": "news",
+  "cluster_id": "c29254deb6be5"
+ },
+ {
+  "title": "US stocks rally to their best day in 6 weeks after oil prices and bond yields ease",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMEZ4eWpRcFQybzI4MUxVM2pCc1ZxNWRFajBQU2o3dWRSSnNZMmt6NEMxbjBmQXRqTzREdXlLOVZJVURwQmIyMzdfeXZkNUg1RlBRa1B3LWJqUkV2VjBtSTVpRDNlWTdRZzJndy1adEJkOHdVbERwU1liZmlwWEEyTEtBQTYwc29m?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD hisse senetleri, petrol fiyatları ve tahvil getirileri düştükten sonra 6 haftanın en iyi gününü yaşadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-17T23:01:07.183241+00:00",
+  "type": "news",
+  "cluster_id": "c65a17b8c985a"
+ },
+ {
   "title": "ABD vize vermedi: BM Genel Kurulu'ndan 'Mahmud Abbas' kararı",
   "link": "https://www.cumhuriyet.com.tr/dunya/abd-vize-vermedi-bm-genel-kurulu-ndan-mahmud-abbas-karari-2538641",
   "source": "Cumhuriyet",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-08T12:01:04.357968+00:00",
   "type": "news",
   "cluster_id": "c50998ebb1a08"
- },
- {
-  "title": "Russian attacks kill 4 in Kyiv and surrounding region as air defenses fall short",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDFfY3QyOTNzV21YQ0VINm5YT013Y3BXZ2Y5aWg5M0xVUVhTRFc0U2JxTktwa0MyS0RERFR3RWZvekQzdVBYdnBnWGhtckZDay1sMS1iZmUyZllQN2hjNGM2X1ZNTjRlaVJMTnNDdW92ekg5QkJDRUVmZzhNYzNhOWM2cUpFMEU3VjB5U0lWQm40enFTUHJMSnJKWEk3T0lXUHJleHhQbEE?oc=5",
-  "source": "AP",
-  "summary_tr": "Rusya, Kyiv ve çevresine hava saldırısı düzenledi. Hava savunması yetersiz kalıp 4 kişi öldü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-08T12:01:04.357968+00:00",
-  "type": "news",
-  "cluster_id": "c468d016fd905"
- },
- {
-  "title": "7 saatlik yol 1 saat 45 dakikaya düşecek: Tarih verildi",
-  "link": "https://www.sozcu.com.tr/7-saatlik-yol-1-saat-45-dakikaya-dusecek-tarih-belli-oldu-p343526",
-  "source": "Sözcü",
-  "summary_tr": "Yerköy-Kayseri Yüksek Hızlı Tren Hattı'nda çalışmaların yarısı tamamlandı. 7 saatlik yolculuk 1 saat 45 dakikaya inecek.",
-  "metric": "Yolculuk süresi 7 saat -> 1 saat 45 dakika",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-08T12:01:04.357968+00:00",
-  "type": "news",
-  "cluster_id": "c3239610e66e1"
- },
- {
-  "title": "Anket sonucu dikkat çekti: Erdoğan’ı geçen iki isim belli oldu",
-  "link": "https://www.sozcu.com.tr/anket-sonucu-dikkat-cekti-iste-erdogan-i-gecen-iki-isim-p343520",
-  "source": "Sözcü",
-  "summary_tr": "YÖN Araştırma anketine göre Cumhurbaşkanlığı tercihleri ortaya çıktı. Erdoğan'ı geçen iki isim belli oldu.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-08T12:01:04.357968+00:00",
-  "type": "news",
-  "cluster_id": "ca44e09680f60"
- },
- {
-  "title": "İslam İşbirliği Teşkilatı, Mekke Ortak Savunma Anlaşması'nı memnuniyetle karşıladı",
-  "link": "https://www.aa.com.tr/tr/dunya/islam-isbirligi-teskilati-mekke-ortak-savunma-anlasmasini-memnuniyetle-karsiladi/4021810",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İslam İşbirliği Teşkilatı, Türkiye-Suudi Arabistan-Pakistan arasında imzalanan Mekke Ortak Savunma Anlaşması'nı memnuniyetle karşıladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-08T12:01:04.357968+00:00",
-  "type": "news",
-  "cluster_id": "c87fa3ac263a6"
- },
- {
-  "title": "İİT, Mekke Ortak Savunma Anlaşması'nı memnuniyetle karşıladı",
-  "link": "https://www.trthaber.com/haber/dunya/iit-mekke-ortak-savunma-anlasmasini-memnuniyetle-karsiladi-953418.html",
-  "source": "TRT Haber",
-  "summary_tr": "İslam İşbirliği Teşkilatı, Türkiye-Suudi Arabistan-Pakistan Mekke Ortak Savunma Anlaşması'nı memnuniyetle karşıladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-08T12:01:04.357968+00:00",
-  "type": "news",
-  "cluster_id": "c87fa3ac263a6"
  }
 ]
