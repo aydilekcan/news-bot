@@ -1,5 +1,17 @@
 [
  {
+  "title": "Trump lashes out at Fed after Warsh backs rate hike",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ09wMmRRbG83OVR3anZpSGk2VGxLdFRXVFpiMHRDcVZTSldiNTNBNUZlckZlR2k2dEY0Q2F4TFVEdzJ1aC12Z3hacGoyWWkwZjlDNWE4ZGpPejU0V1hVazhVRktwampUZTlkdEpRZWhySlFMZnVTUEtlbVU3T3RUS1hjaFJGcHdMSXMwRERiazVqbTBxOXJlMkVR?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, Fed'in faiz artışını destekleyen Warsh'a tepki gösterdi. Başkan-seçin Fed politikasına ilişkin açık eleştiri.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-17T02:01:03.474860+00:00",
+  "type": "news",
+  "cluster_id": "ca81f5db25e96"
+ },
+ {
   "title": "Hürmüz’den sonra Babülmendep krizi: ‘Çözülse dahi dizel şokunu atlatmak kolay değil’",
   "link": "https://www.cumhuriyet.com.tr/turkiye/hurmuz-den-sonra-babulmendep-krizi-cozulse-dahi-dizel-sokunu-atlatmak-kolay-degil-2538298",
   "source": "Cumhuriyet",
@@ -59986,17 +59998,5 @@
   "ts": "2026-08-07T06:01:00.617759+00:00",
   "type": "news",
   "cluster_id": "cfc89b4424bac"
- },
- {
-  "title": "Türk tekstilcilerden Trump'a tepki: Dost kazığı yedik",
-  "link": "https://www.dw.com/tr/türk-tekstilcilerden-trump-a-tepki-dost-kazığı-yedik/a-78264401?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "ABD, Türkiye'nin tekstil ve hazır giyimde %12,5 ek gümrük vergisi getirdi; Türk şirketler tepki gösterdi.",
-  "metric": "Gümrük vergisi oranı: %12,5",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-07T06:01:00.617759+00:00",
-  "type": "news",
-  "cluster_id": "c3be6811d3a6c"
  }
 ]
