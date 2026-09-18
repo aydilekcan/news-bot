@@ -1,5 +1,29 @@
 [
  {
+  "title": "Bakan Işıkhan: İşsizliği 2029 yılında yüzde 7,6'ya indirmeyi hedefliyoruz",
+  "link": "https://www.trthaber.com/haber/ekonomi/bakan-isikhan-issizligi-2029-yilinda-yuzde-76ya-indirmeyi-hedefliyoruz-957292.html",
+  "source": "TRT Haber",
+  "summary_tr": "Çalışma Bakanı Işıkhan, 2027-2029 döneminde yaklaşık 2,1 milyon ilave istihdam oluşturmayı ve işsizlik oranını yüzde 7,6'ya indirmeyi hedeflediklerini açıkladı.",
+  "metric": "İşsizlik hedefi 2029 için: %7,6 hedef",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-09-18T15:01:08.534857+00:00",
+  "type": "news",
+  "cluster_id": "c78c2e8b5d2aa"
+ },
+ {
+  "title": "Altının kilogram fiyatı 6 milyon 823 bin liraya yükseldi",
+  "link": "https://www.trthaber.com/haber/ekonomi/altinin-kilogram-fiyati-6-milyon-823-bin-liraya-yukseldi-957288.html",
+  "source": "TRT Haber",
+  "summary_tr": "Borsa İstanbul'da standart altının kilogram fiyatı 6 milyon 823 bin liraya yükseldi.",
+  "metric": "Altın (kg): 6.823.000 TL",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-18T15:01:08.534857+00:00",
+  "type": "news",
+  "cluster_id": "cb5842d00ba56"
+ },
+ {
   "title": "ABD'den 48 saat sonra Japonya da faiz artırdı",
   "link": "https://www.sozcu.com.tr/abd-den-48-saat-sonra-japonya-da-faiz-artirdi-p359504",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-09T10:01:12.871947+00:00",
   "type": "news",
   "cluster_id": "c5cc50d6f104c"
- },
- {
-  "title": "Çerçeve yasada 'süreçte görev alanlara' dokunulmazlık! İYİ Partili Olgun'dan tepki: 'Sorumsuzluk zırhı giydirilen bir mekanizma'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/cerceve-yasada-surecte-gorev-alanlara-dokunulmazlik-iyi-partili-olgun-dan-tepki-sorumsuzluk-zirhi-giydirilen-bir-mekanizma-2527667",
-  "source": "Cumhuriyet",
-  "summary_tr": "İYİ Parti'nin Hakan Şeref Olgun, çerçeve yasadaki dokunulmazlık hükmünü 'sorumsuzluk zırhı' olarak eleştirdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-09T10:01:12.871947+00:00",
-  "type": "news",
-  "cluster_id": "cbd3becc1818b"
- },
- {
-  "title": "Bir çuvalın içinden sadece bir kilo çıkıyor: Kilosu bin liradan satılıyor",
-  "link": "https://www.sozcu.com.tr/bir-cuvalin-icinden-sadece-bir-kilo-cikiyor-kilosu-bin-liradan-satiliyor-p343731",
-  "source": "Sözcü",
-  "summary_tr": "Kuru domates üretiminde verim düşüş: bir çuval domatesten sadece 1 kilo kuru domates elde ediliyor, kilo satış fiyatı 1000 lira.",
-  "metric": "Kuru domates fiyatı: 1000 TL/kg",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-09T10:01:12.871947+00:00",
-  "type": "news",
-  "cluster_id": "c0f737b09ab09"
  }
 ]
