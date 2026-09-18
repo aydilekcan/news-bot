@@ -1,5 +1,17 @@
 [
  {
+  "title": "PISA 2025'e göre Türk 15 yaşlı öğrencilerde yoksunluk (OECD ortalamasının katı): 4 kat (2025)",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON0IyWmV3aFd5SUV5bHh3MkgydmJ2Um1Ea2NSeDlDSm9GVTBtNGZINU9FVEZjWUNLM1A5SXlaTHBwaHdUM0xZSHF5R0l0OWtPWlFDbFY2U01JNUlMVE8yLS1DU09JNnNUQ2lUQU9zUTlINFBwMVZOZEVBMC1nVzl6WUJtZXVGV01kX3N6SzlWd0FzZWduaEdSUlljM2hnV2RyVXB5dGJZd1dia21PUWdlYkhkVmtqZVFKckHSAboBQVVfeXFMTjdCMlpld2hXeUlFeWx4dzJIMnZidlJtRGtjUng5Q0pvRlUwbTRmSDVPRVRGY1lDSzNQOUl5WkxwcGh3VDNMWUhxeUdJdDlrT1pRQ2xWNlNNSTVJTFRPMi0tQ1NPSTZzVENpVEFPc1E5SDRQcDFWTmRFQTAtZ1c5ellCbWV1RldNZF9zeks5VndBc2VnbmhHUlJZYzNoZ1dkclVweXRiWXdXYmttT1FnZWJIZFZramVRSnJB?oc=5",
+  "source": "OECD",
+  "summary_tr": "OECD ortalamasının 4 katı → 4 kat",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-09-18T01:01:11.732716+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Emniyet Müdürleri Kararnamesi Resmi Gazete'de",
   "link": "https://www.aa.com.tr/tr/gundem/emniyet-mudurleri-kararnamesi-resmi-gazetede/4060669",
   "source": "Anadolu Ajansı",
@@ -59986,17 +59998,5 @@
   "ts": "2026-08-08T13:01:01.241672+00:00",
   "type": "news",
   "cluster_id": "c12b63244d868"
- },
- {
-  "title": "ABD'nin stratejik petrol rezervleri 1983'ten bu yana en düşük seviyesinde",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/abd-nin-stratejik-petrol-rezervleri-1983-ten-bu-yana-en-dusuk-seviyesinde-2527478",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD stratejik petrol rezervleri 1983'ten bu yana en düşük seviyeye geriledi. Hürmüz Boğazı'nda petrol akışı kesintisini telafi etmeye çalışan ABD kendi stoklarını azaltmış durumda.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-08T12:01:04.357968+00:00",
-  "type": "news",
-  "cluster_id": "cda86cb08c600"
  }
 ]
