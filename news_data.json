@@ -1,5 +1,29 @@
 [
  {
+  "title": "Motorin zamları araç ve traktör satışlarını etkiledi: 'Dizel aracımı, traktörümü satacağım alan yok'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/motorin-zamlari-arac-ve-traktor-satislarini-etkiledi-dizel-aracimi-traktorumu-satacagim-alan-yok-2538820",
+  "source": "Cumhuriyet",
+  "summary_tr": "Motorin zamları Osmaniyelilerin traktör ve araç satışlarını olumsuz etkilemeye devam ediyor. Galerciler satış yapamadıklarını bildiriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-18T13:01:04.421084+00:00",
+  "type": "news",
+  "cluster_id": "c672f3a3ec298"
+ },
+ {
+  "title": "Gübretaş'ın İskenderun'daki limanına 190 milyon dolarlık yatırım yapılacak",
+  "link": "https://www.aa.com.tr/tr/ekonomi/gubretasin-iskenderundaki-limanina-190-milyon-dolarlik-yatirim-yapilacak/4060844",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Gübretaş, İskenderun limanını 190 milyon dolarlık yatırımla yenileyerek modernize edecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-18T13:01:04.421084+00:00",
+  "type": "news",
+  "cluster_id": "c4a6e9fde6b57"
+ },
+ {
   "title": "Japonya'da artan enflasyona karşı faiz oranları son 31 yılın en yüksek seviyesinde",
   "link": "https://www.bbc.com/turkce/articles/c6pq0w8g8rj4o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-09T08:01:39.097970+00:00",
   "type": "news",
   "cluster_id": "cdf9a5d98bd4c"
- },
- {
-  "title": "İzmir Kınık'ta çiftçi böyle feryat etti: 'Çalışarak, üreterek batıyoruz'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/izmir-kinik-ta-ciftci-boyle-feryat-etti-calisarak-ureterek-batiyoruz-2527650",
-  "source": "Cumhuriyet",
-  "summary_tr": "İzmir çiftçileri, artan girdi maliyetleri ve düşük ürün fiyatlarının arasında çalışarak batmaktan şikayetçi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-09T08:01:39.097970+00:00",
-  "type": "news",
-  "cluster_id": "c84acc0c434ed"
- },
- {
-  "title": "Yatırımlara proje bazlı devlet yardımı verilmesine yönelik kararda değişiklik yapıldı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/yatirimlara-proje-bazli-devlet-yardimi-verilmesine-yonelik-kararda-degisiklik-yapildi-/4022283",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Sanayi ve Teknoloji Bakanlığı, 5 milyar lira üzeri yatırım projelerine devlet yardımı koşullarında değişiklik yaptı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-09T08:01:39.097970+00:00",
-  "type": "news",
-  "cluster_id": "c798a8bdd0270"
  }
 ]
