@@ -1,5 +1,17 @@
 [
  {
+  "title": "Emniyet Müdürleri Kararnamesi Resmi Gazete'de",
+  "link": "https://www.aa.com.tr/tr/gundem/emniyet-mudurleri-kararnamesi-resmi-gazetede/4060669",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Emniyet Genel Müdür Yardımcılığına 4 atama yapıldı ve 39 ilin emniyet müdürü değiştirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-18T00:01:12.421293+00:00",
+  "type": "news",
+  "cluster_id": "c12609d8835c0"
+ },
+ {
   "title": "Fransa'da aşırı sağcı Zemmour, 2027 cumhurbaşkanlığı seçimlerine adaylığını açıkladı",
   "link": "https://www.aa.com.tr/tr/dunya/fransada-asiri-sagci-zemmour-2027-cumhurbaskanligi-secimlerine-adayligini-acikladi/4060660",
   "source": "Anadolu Ajansı",
@@ -59986,17 +59998,5 @@
   "ts": "2026-08-08T12:01:04.357968+00:00",
   "type": "news",
   "cluster_id": "cda86cb08c600"
- },
- {
-  "title": "İran Devrim Muhafızları: ABD şartlarımızı kabul ederse Hürmüz açılır",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTU9FdzNJb3o2SHBtM0s5MmtuSFo5bEpHQ1hPZU1DM083MUNGcldDZ2NjbDNESFFpX1dNX0RlS19YNkVPNEhUTFEzZEJzZUM1WmhmajZaSlp3QnpVRExHOVo4LUtPMXZrbmd4V0E0TTQ1R1V3Q0l0YkZvNjZDU2pQTDI1amdlTUtFbThwQ1M4MDZnNE91b1N3cElvczJQRjBqSUx5MVhKWjI?oc=5",
-  "source": "soL",
-  "summary_tr": "İran Devrim Muhafızları, ABD şartlarını kabul ederse Hürmüz Boğazı'nın açılacağını açıkladı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-08T12:01:04.357968+00:00",
-  "type": "news",
-  "cluster_id": "c50998ebb1a08"
  }
 ]
