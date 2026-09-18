@@ -1,5 +1,29 @@
 [
  {
+  "title": "Zarar küçük yatırımcıya, enkaz kamuya",
+  "link": "https://www.sozcu.com.tr/zarar-kucuk-yatirimciya-enkaz-kamuya-p359300",
+  "source": "Sözcü",
+  "summary_tr": "Borsada 130 fon tasfiye kararı alındı; milyarlarca liralık kayıp küçük yatırımcılara yükleniyor.",
+  "metric": "130 fon tasfiye",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-18T03:01:05.763920+00:00",
+  "type": "news",
+  "cluster_id": "c367e1284aff0"
+ },
+ {
+  "title": "Yen weak ahead of BOJ decision; rate hike expected",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZTZWMHVPOWZ5RDBIc2NmX2tmcE5pODNpeGhnaGJhZ0RrVkRtVTVud1FUY2NhNkttREN4QjNtTlZRTGtPNTFZVUIzWm1XNU5xNEdqTnNILXhybG1oMXVJV3N6YmxpRjFIX01sZWVEQ2xiRW1weUpEWjFfU1NCOXZuU0Vjc2xtMGpacjFGZ2ZZLXpnN1R3YWphMDcta0VyYjEyYU40?oc=5",
+  "source": "Reuters",
+  "summary_tr": "BOJ (Banka Japonya) faiz artırımı kararı öncesinde yen zayıflıyor; piyasalar merkez bankası sinyalini bekliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-18T03:01:05.763920+00:00",
+  "type": "news",
+  "cluster_id": "c313b14f8db8c"
+ },
+ {
   "title": "Bank of Japan set to raise interest rates to 31-year high",
   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON2RfLXdWN0d6WEpRd3JFZ09UTGszUGZWQ0FKUnkzT2VCRE1jUmxMLXg4QlNqdERTc1hqaHRUY3lNNHRLZVRzbWJLQzg1bEdkRjl4eGZKRXVrTWoyUVBhVFRWT1RkV0F4azdlaVVKSWtaZXJfbnJEOThMVW5STEZZVDlWUV9UX25TMUkyanlKMlZSY2J4bHcyV3k2NGQ4UWxOdE5lNG9n?oc=5",
   "source": "Reuters",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-08T13:01:01.241672+00:00",
   "type": "news",
   "cluster_id": "c82b5a2f33123"
- },
- {
-  "title": "Filistin topraklarını gasbeden İsrailliler Batı Şeria'da Kızılay ambulansına saldırdı",
-  "link": "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israilliler-bati-seriada-kizilay-ambulansina-saldirdi/4021838",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İşgal altındaki Batı Şeria'da Filistin Kızılayına ait ambulansa saldırı gerçekleşti.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-08T13:01:01.241672+00:00",
-  "type": "news",
-  "cluster_id": "c48dcd64e0695"
- },
- {
-  "title": "Karadeniz'de dron saldırısına uğrayan \"NADEZHDA\" isimli gemi Samsun'a getirildi",
-  "link": "https://www.aa.com.tr/tr/gundem/karadenizde-dron-saldirisina-ugrayan-nadezhda-isimli-gemi-samsuna-getirildi/4021834",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Karadeniz'de dron saldırısına uğrayan NADEZHDA gemisi Samsun'a ulaştırıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-08T13:01:01.241672+00:00",
-  "type": "news",
-  "cluster_id": "c849e0eb27902"
  }
 ]
