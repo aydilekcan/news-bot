@@ -1,5 +1,65 @@
 [
  {
+  "title": "Japonya'da artan enflasyona karşı faiz oranları son 31 yılın en yüksek seviyesinde",
+  "link": "https://www.bbc.com/turkce/articles/c6pq0w8g8rj4o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Japonya Merkez Bankası faiz oranını son 31 yılın en yüksek seviyesine çıkardı. Artan enflasyon ve ekonomik baskıya karşı alınan bu karar, küresel piyasaları etkileyebilir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-18T12:01:15.635984+00:00",
+  "type": "news",
+  "cluster_id": "c67415d36d371"
+ },
+ {
+  "title": "Suudi Arabistan'dan gelen bu haber Avrupa'yı krize soktu: Liderler acilen toplandı",
+  "link": "https://www.sozcu.com.tr/suudi-arabistan-dan-gelen-bu-haber-avrupa-yi-krize-soktu-liderler-acilen-toplandi-p359469",
+  "source": "Sözcü",
+  "summary_tr": "Suudi Aramco, İHA saldırısı sonrası ham petrol arzını azaltacağını bildirdi. Avrupalı alıcılar ve enerji piyasası etkileniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-18T12:01:15.635984+00:00",
+  "type": "news",
+  "cluster_id": "ca6223db85edf"
+ },
+ {
+  "title": "Record US diesel prices squeeze farmers; food prices may rise",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUXFFeEk2NVZjZU9WbTQ3QUZObDgyZ2JZdVlPRjd5dzNVdk13OFNCN2tiR0c1MElNMFFZVGdRelI5UnZkNnlMNmRQZXM1Um1sQUZQRkh2R3JvSHNkZnhtV2JzVFB4SDVoam0tZUE3WHljQWdSbXFPTEdOTkxSQXdvcTZQdXloOEpXMlVWUnprbS0ycUJ3aU1qRkVKZTc0UTFxa2h0bG43TlpCRnM5N1pVN09R?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rekor seviyedeki ABD dizel fiyatları çiftçileri sıkıştırıyor; gıda fiyatları yükselme riski taşıyor. Akaryakıt maliyeti gıda üretimini olumsuz etkiliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-18T12:01:15.635984+00:00",
+  "type": "news",
+  "cluster_id": "c38175e6dcc3f"
+ },
+ {
+  "title": "Russians vote in election that Putin sees as barometer of public support for his war in Ukraine",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY1FVNFVtMWYwUW02SE9nakxQTU1JOGEtNW5sd0hoYnBaV2w0cHU1VnNsYThCQWx1MXVTMllOOWJKdU9JZkNQMmNOa0RISG1XRmszdWNGelBKMlVJRTA0RFpranUxSlBtRWRpdVpSWlhzYUF1akxIUmVMQ0lOaUp2aWZMUDdtYkF0ZGZpTFFoZmI3N2pFdlI0YV9ydmlvdTJadTZFOHJST3dBYVkyQlJVOHZkX3hUQzBOQ3dQLUVMX3dJQQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya'da Putin, genel seçimi Ukrayna savaşına halka desteğinin bir göstergesi olarak görüyor. Oy veren Ruslar savaş politikası üzerinde karar vermek için sandığa gidiyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-18T12:01:15.635984+00:00",
+  "type": "news",
+  "cluster_id": "cca9df3de3538"
+ },
+ {
+  "title": "Warren Buffett steps down as Berkshire chairman, son Howard succeeds",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVGNSTzVqLUNZQjdoWnZWMENFaUo1cGNMSkNwVC1DNVdYVUNFWnNIVV9MR2VKUllvTDcyaXVuSXdYT1hKZkdRbWZRTFJacFoyV0VNcXpQZWJ5dDZyUFY3OGdnQi0xVklKcGJOUllOSDNwakh5Ym02c29OUjd1VUFqam90TDhzM0hOdkR3WFREWUFzNHl6N0ljbDg3LWVEOUdnajdVdnVuQkNJbmV6akZUby15U2hwd0JSQnc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Warren Buffett, Berkshire Hathaway'in başkanı olma görevinden ayrıldı. Oğlu Howard Buffett yerine geçti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-18T12:01:15.635984+00:00",
+  "type": "news",
+  "cluster_id": "c46e12d4eddb4"
+ },
+ {
   "title": "Fiyatı 250 TL'den 100 TL'ye düştü: Hasat başlayınca çiftçi perişan oldu",
   "link": "https://www.sozcu.com.tr/fiyati-250-tl-den-100-tl-ye-dustu-hasat-baslayinca-ciftci-perisan-oldu-p359457",
   "source": "Sözcü",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-09T08:01:39.097970+00:00",
   "type": "news",
   "cluster_id": "c798a8bdd0270"
- },
- {
-  "title": "Komşu ülkenin başbakanı orduya 'savaşa hazır olun' talimatı verdi",
-  "link": "https://www.sozcu.com.tr/komsu-ulkenin-basbakani-orduya-savasa-hazir-olun-talimati-verdi-p343669",
-  "source": "Sözcü",
-  "summary_tr": "Irak Başbakanı Ali ez-Zeydi, Bağdat'taki gerilim sonrası ülke genelindeki güvenlik güçlerine savaşa hazır olma talimatı verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-09T07:01:04.891787+00:00",
-  "type": "news",
-  "cluster_id": "cd23b0d027607"
- },
- {
-  "title": "Maliyeti 9,4 milyar TL'ye fırladı: 5 yıldır bitmeyen havalimanı!",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/maliyeti-9-4-milyar-tl-ye-firladi-5-yildir-bitmeyen-havalimani-2527634",
-  "source": "Cumhuriyet",
-  "summary_tr": "Bayburt-Gümüşhane Havalimanı maliyeti 9,4 milyar TL'ye çıktı; 2018'de 2021'de tamamlanacağı söylenmişti.",
-  "metric": "Maliyeti 9,4 milyar TL (tahmin edilen bütçe bilgisi haberde belirtilmemiş)",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-09T07:01:04.891787+00:00",
-  "type": "news",
-  "cluster_id": "cba541d54fb35"
- },
- {
-  "title": "'Tebligat bana ulaşmadı' dedi... Mahkemeden milyonlarca kiracıyı ilgilendiren karar",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/tebligat-bana-ulasmadi-dedi-mahkemeden-milyonlarca-kiraciyi-ilgilendiren-karar-2527627",
-  "source": "Cumhuriyet",
-  "summary_tr": "İstinaf Mahkemesi milyonlarca kiracıyı ilgilendiren bir karar aldı; tebligat maddesine ilişkin UYAP kaydında sorun tespit edildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-09T07:01:04.891787+00:00",
-  "type": "news",
-  "cluster_id": "c1aa8f6c8a8f6"
- },
- {
-  "title": "Öğrenci affı Resmi Gazete'de: Üniversiteye dönüş için 4 ay süre",
-  "link": "https://www.trthaber.com/haber/egitim/ogrenci-affi-resmi-gazetede-universiteye-donus-icin-4-ay-sure-953448.html",
-  "source": "TRT Haber",
-  "summary_tr": "Öğrenci affı Resmi Gazete'de yayımlandı; üniversiteye dönüş için 4 aylık süre tanındı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-09T07:01:04.891787+00:00",
-  "type": "news",
-  "cluster_id": "cbb7df6729e63"
- },
- {
-  "title": "Pompa alev alev: Benzine bir zam daha geliyor",
-  "link": "https://www.sozcu.com.tr/benzine-gelecek-zam-detaylari-lira-bazinda-artis-ve-yeni-fiyatlar-p343645",
-  "source": "Sözcü",
-  "summary_tr": "Benzine pazartesi gece yarısı 1.56 TL zam gelecek; İstanbul'da litre fiyatı 69.92 TL'ye, Anadolu'da 70 TL'ye çıkacak.",
-  "metric": "Benzin fiyatı +1.56 TL/litre",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-09T06:01:03.474906+00:00",
-  "type": "news",
-  "cluster_id": "c8771dd072cfa"
  }
 ]
