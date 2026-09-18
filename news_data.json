@@ -1,5 +1,29 @@
 [
  {
+  "title": "BOJ raises interest rates to 31-year high in widely expected move",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNME52a2lPWjhiY0l0eFpoZmQxaVYwRzBNOWxFYk1JUjB2R0lJV2psVHRDdU52ajhBYjFnODByT1FvakVnNTRTNnJna1hFcC15VUxRMFJvU1BwV3ozU1NEOWsyNmk4MXJUcEo2Rnp3d1YwVjZfUlpjMTVldTJRaFNpeFJIRExJUDRYOUtTZWdVVnJPR05FaU5UQTF1blpvanliQ092Q3JnZVVEal9UcFlYV252YVc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Japonya Merkez Bankası (BOJ) faiz oranını 31 yıllık tepesine çıkardı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-18T04:00:58.552275+00:00",
+  "type": "news",
+  "cluster_id": "cbb0413e07e4d"
+ },
+ {
+  "title": "Yargıtay seçiminde Yargıtay Başkanı'nın desteklediği liste kaybetti, bağımsızlar ezici üstünlükle kazandı",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWU15U2hDV1NsWnNoOGJKNzFpSktuaHJGOTdpcG1SQTNENHBqV1NmbzhzYTQ0OGUzUlIyQUdidGtLMjEtTTFYTzJNQm93NUM3UE9MME52WndUbFpRX2VKajRfMnE2TlppeHdndlpWYnpiLTFTUUt6cFQyNjU5NzR2dmViRG42LUJMbjdxTGxMWk9TRzhBU3hpN1Z4TGhWby1IcVc2NDlBWWtGaEg2YmFkRkF4V0ZheURPR2xzVkJhYUk3aFdS?oc=5",
+  "source": "T24",
+  "summary_tr": "Yargıtay seçiminde bağımsızlar, Yargıtay Başkanı'nın desteklediği listeyi ezici üstünlükle yenerek kazandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-18T04:00:58.552275+00:00",
+  "type": "news",
+  "cluster_id": "c3e71ed4e810b"
+ },
+ {
   "title": "Zarar küçük yatırımcıya, enkaz kamuya",
   "link": "https://www.sozcu.com.tr/zarar-kucuk-yatirimciya-enkaz-kamuya-p359300",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-08T14:01:02.564363+00:00",
   "type": "news",
   "cluster_id": "c8cd7a197558c"
- },
- {
-  "title": "BAE, İran'ın Hürmüz Boğazı'nda bir gemisini füzeyle hedef aldığını duyurdu",
-  "link": "https://www.trthaber.com/haber/dunya/bae-iranin-hurmuz-bogazinda-bir-gemisini-fuzeyle-hedef-aldigini-duyurdu-953424.html",
-  "source": "TRT Haber",
-  "summary_tr": "BAE, Hürmüz Boğazı'nda ADNOC tankerinin İran füzeli saldırısına maruz kaldığını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-08T13:01:01.241672+00:00",
-  "type": "news",
-  "cluster_id": "cb608455a2344"
- },
- {
-  "title": "Bulgaristan'da doğal gaz boru hattı yakınında İHA patlaması",
-  "link": "https://www.dw.com/tr/bulgaristan-da-doğal-gaz-boru-hattı-yakınında-iha-patlaması/a-78288897?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Bulgaristan'daki Trans-Balkan doğal gaz hattında İHA patlaması meydana geldi. Sofya, İHA'nın kaynağını soruşturuyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-08T13:01:01.241672+00:00",
-  "type": "news",
-  "cluster_id": "c82b5a2f33123"
  }
 ]
