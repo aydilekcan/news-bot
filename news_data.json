@@ -1,5 +1,41 @@
 [
  {
+  "title": "EXCLUSIVE: US and Denmark reach deal on Greenland, Trump says",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXUxU0wtWHlQT1lrMjB0b2Q5c080QTY4SmJDSkF3c1R1SUNkVVV5TmUxeVBaRk56ZTV4SWtqaXNBQzBfUnRiNWN5NmVQNGFTNGNGNFJqMjd5WTB3cGxhQ1p3UDdSemxwQXdYYkpjS1ktV2hkVzZRR1R4Tmw0M2VEZjQxZ0JWU0ptVlBha00tckVhSFBzclE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD ve Danimarka, Grönland'ın güvenliğine ilişkin bir anlaşmaya vardı. Trump, ABD'nin Grönland üzerinde kontrol sağlanması konusunda bir anlaşma imzalandığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-18T23:01:02.458772+00:00",
+  "type": "news",
+  "cluster_id": "c251d6f7c6316"
+ },
+ {
+  "title": "Russia sanctions bill gives Trump sweeping new tariff powers",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWEtRUVNvYVIwTTZqQ3pmak0zd0NlNjZEcmxxQ3FUWTJKVUZjTHdjUmt1SThTNVFmZWl5OXVLUmljaWJoSFRQbU5qVnZDUjcyWEhJNk5yWjZDOTNzazlrenItWHdvODFNbE5Ka3ZoMGF4ZFRGcEFFeVhlWF8tWGZYYU1XWWttR3BuR0hmdF9iY0Z2WGQwbFJfV2lOT2FwSExyT21yUE80ZVM?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump'a Rusya yaptırımları yasasıyla geniş kapsamlı yeni tarife yetkileri verildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-18T23:01:02.458772+00:00",
+  "type": "news",
+  "cluster_id": "c293e109cfd5d"
+ },
+ {
+  "title": "Warren Buffett gives up chairman title at Berkshire Hathaway in the next step of his succession plan",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcjE2N1ZNUEE5THNqMG5XQ2QxdlZVRlpqM29zWW9LUHJhXzNfWnRvbXBpd1NqVHVMQ2x2ZGQtTWNTNUFLcG9idkpzZnYyOXRmTDc0Ml9sa2dUWGRHYkprbHE5RXBGdW9yMnJNcjVISFR3NklQRU5pU3lZWE5qZjE4MTdWY0xBX2hJNUgyeHlURQ?oc=5",
+  "source": "AP",
+  "summary_tr": "Warren Buffett, Berkshire Hathaway'in başkan yönetim kurulu başkanlığından istifa etti. Ardıl planının bir sonraki adımı olarak başkanlık görevini bıraktı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-18T23:01:02.458772+00:00",
+  "type": "news",
+  "cluster_id": "c75c47b382ad2"
+ },
+ {
   "title": "Trump, 3 medya kuruluşunun Beyaz Saray’a girişini yasakladı",
   "link": "https://www.sozcu.com.tr/trump-3-medya-kurulusunun-beyaz-saray-a-girisini-yasakladi-p359572",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-09T18:01:06.872410+00:00",
   "type": "news",
   "cluster_id": "ca24aa037fd3f"
- },
- {
-  "title": "Dervişoğlu’ndan 'çerçeve yasa' tepkisi: 'Sevr’in yıl dönümüne yetiştirme ısrarınızın kaynağı nedir?'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/dervisoglu-ndan-cerceve-yasa-tepkisi-sevr-in-yil-donumune-yetistirme-israrinizin-kaynagi-nedir-2527769",
-  "source": "Cumhuriyet",
-  "summary_tr": "İYİ Parti Genel Başkanı Müsavat Dervişoğlu, TBMM'de görüşülmesi planlanan 'çerçeve yasa'ya Sevr yıldönümü bağlantısıyla tepki gösterdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-09T18:01:06.872410+00:00",
-  "type": "news",
-  "cluster_id": "c2fe8a4341f4e"
- },
- {
-  "title": "Sigarada zam dalgası sürüyor: En ucuz paket 110 lira oldu",
-  "link": "https://www.sozcu.com.tr/sigara-zam-9-agustos-2026-p343818",
-  "source": "Sözcü",
-  "summary_tr": "Sigaralara yeni zam dalgası: En ucuz paket 110 liraya yükseldi.",
-  "metric": "En ucuz sigara paketi 110 TL",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-09T18:01:06.872410+00:00",
-  "type": "news",
-  "cluster_id": "ce72be7807afb"
- },
- {
-  "title": "Şehit aileleri ve gazilerin haklarına yönelik düzenleme Genel Kurul'da",
-  "link": "https://www.trthaber.com/haber/gundem/sehit-aileleri-ve-gazilerin-haklarina-yonelik-duzenleme-genel-kurulda-953492.html",
-  "source": "TRT Haber",
-  "summary_tr": "Şehit aileleri ve gazilerin haklarına yönelik AK Parti tarafından hazırlanan kanun teklifi TBMM Genel Kurulu'nda görüşülecek.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-09T18:01:06.872410+00:00",
-  "type": "news",
-  "cluster_id": "cdb1b09d3257f"
  }
 ]
