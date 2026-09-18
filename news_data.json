@@ -1,5 +1,41 @@
 [
  {
+  "title": "Fiyatı 250 TL'den 100 TL'ye düştü: Hasat başlayınca çiftçi perişan oldu",
+  "link": "https://www.sozcu.com.tr/fiyati-250-tl-den-100-tl-ye-dustu-hasat-baslayinca-ciftci-perisan-oldu-p359457",
+  "source": "Sözcü",
+  "summary_tr": "Nazilli'de incir fiyatı 250 TL'den 100 TL'ye düştü; işçilik, gübre ve ilaç maliyetleri artarken çiftçiler zarara uğradı.",
+  "metric": "İncir fiyatı 250 TL -> 100 TL (-60%)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-18T11:02:24.025605+00:00",
+  "type": "news",
+  "cluster_id": "cbd5882c7829b"
+ },
+ {
+  "title": "YENİ Partili Karabat'tan 130 fonun tasfiyesine tepki: 'Denetim mekanizmaları neden daha erken ve etkili çalışmadı?'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/yeni-partili-karabat-tan-130-fonun-tasfiyesine-tepki-denetim-mekanizmalari-neden-daha-erken-ve-etkili-calismadi-2538771",
+  "source": "Cumhuriyet",
+  "summary_tr": "YENİ Parti milletvekili, 130 fonun tasfiyesine alınmasını eleştirerek denetim mekanizmalarının neden daha erken çalışmadığını sorguladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-18T11:02:24.025605+00:00",
+  "type": "news",
+  "cluster_id": "ce37405f7170a"
+ },
+ {
+  "title": "Milli Eğitim Bakanı Tekin: Türkiye, PISA 2025'te her üç başlıkta da performansını artıran tek OECD üyesi ülke oldu",
+  "link": "https://www.aa.com.tr/tr/gundem/milli-egitim-bakani-tekin-turkiye-pisa-2025te-her-uc-baslikta-da-performansini-artiran-tek-oecd-uyesi-ulke-oldu/4061017",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Milli Eğitim Bakanı Tekin, Türkiye'nin PISA 2025'te fen bilimleri, okuma ve matematik alanlarında performans artıran tek OECD üyesi olduğunu açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-18T11:02:24.025605+00:00",
+  "type": "news",
+  "cluster_id": "c0ca203df2fce"
+ },
+ {
   "title": "Borsadaki fon krizi nasıl çıktı, yatırımcılar risk altında mı?",
   "link": "https://www.bbc.com/turkce/articles/cxvgyvndqepyo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-09T06:01:03.474906+00:00",
   "type": "news",
   "cluster_id": "c8771dd072cfa"
- },
- {
-  "title": "Seccade üreten Türk tekstil devi iflasın eşiğinde",
-  "link": "https://www.sozcu.com.tr/seccade-ureten-turk-tekstil-devi-iflasin-esiginde-p343647",
-  "source": "Sözcü",
-  "summary_tr": "Orta Doğu ve Avrupa'ya ihracat yapan seccade üreticisi tekstil devi iflasın eşiğine geldi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-09T06:01:03.474906+00:00",
-  "type": "news",
-  "cluster_id": "c9d5d38be05c6"
- },
- {
-  "title": "China July factory-gate inflation eases to 3-month low, CPI slows",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaVNBcVdFSHViUm10d0NJVTdNYVJOdDgwZ3FvTy1JbFVwTVVlWmN1a1B3UjRaTWdYOG5VRm0yZWZXUWVKMEtLVzk4azgwcHVuX1Y3LWFrMGhnam0zRFU1dnRFQlBaSmpEOUVzM0sxUVYybml4QkIwNlVIck1LNE5wQTBEcWUtaFhZMGdCTFpnS0R5QTNDLWJheUNGT3VINWtSRzBFek13?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Çin'de temmuz ayında fabrika çıkış enflasyonu 3 aylık düşük seviyeye geriledi; CPI de yavaşladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-09T06:01:03.474906+00:00",
-  "type": "news",
-  "cluster_id": "cf356cdcf6b2f"
- },
- {
-  "title": "Üç büyükelçi atandı",
-  "link": "https://www.diken.com.tr/uc-buyukelci-atandi/?utm_source=rss&utm_medium=rss&utm_campaign=uc-buyukelci-atandi",
-  "source": "Diken",
-  "summary_tr": "Cumhurbaşkanı Erdoğan imzasıyla üç büyükelçi atanması kararı Resmi Gazete'de yayınlandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-09T06:01:03.474906+00:00",
-  "type": "news",
-  "cluster_id": "ce08536c9af18"
  }
 ]
