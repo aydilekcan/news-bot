@@ -1,5 +1,65 @@
 [
  {
+  "title": "Yatırımda haftalık tablo: Borsa yüzde 8,18 düştü",
+  "link": "https://www.diken.com.tr/yatirimda-haftalik-tablo-borsa-yuzde-818-dustu/?utm_source=rss&utm_medium=rss&utm_campaign=yatirimda-haftalik-tablo-borsa-yuzde-818-dustu",
+  "source": "Diken",
+  "summary_tr": "BIST 100 endeksi bu hafta %8,18 düşüş kaydetti.",
+  "metric": "BIST 100 (haftalık) -%8,18",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-18T16:01:06.951048+00:00",
+  "type": "news",
+  "cluster_id": "c1d8b4146d4e9"
+ },
+ {
+  "title": "Savcı Türkşad Kunthan Uçuk görevden uzaklaştırıldı",
+  "link": "https://www.diken.com.tr/savci-turksad-kunthan-ucuk-gorevden-uzaklastirildi/?utm_source=rss&utm_medium=rss&utm_campaign=savci-turksad-kunthan-ucuk-gorevden-uzaklastirildi",
+  "source": "Diken",
+  "summary_tr": "HSK, Savcı Türkşad Kunthan Uçuk'u görevden uzaklaştırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-18T16:01:06.951048+00:00",
+  "type": "news",
+  "cluster_id": "c4e1458f81f81"
+ },
+ {
+  "title": "Özgür Özel Bursa’da incir üreticileriyle buluştu: 'Çiftçinin kullandığı mazot ÖTV’siz ve KDV’siz olacak'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/ozgur-ozel-bursa-da-incir-ureticileriyle-bulustu-ciftcinin-kullandigi-mazot-otv-siz-ve-kdv-siz-olacak-2538865",
+  "source": "Cumhuriyet",
+  "summary_tr": "YENİ Parti Genel Başkanı Özgür Özel, tarım ÖTV-KDV indirimi önerdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-18T16:01:06.951048+00:00",
+  "type": "news",
+  "cluster_id": "cacb2f8163a91"
+ },
+ {
+  "title": "Sosyal medyada hakim ve savcılara küfretmişti… Savcı Türkşad Kunthan Uçuk açığa alındı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/sosyal-medyada-hakim-ve-savcilara-kufretmisti-savci-turksad-kunthan-ucuk-aciga-alindi-2538861",
+  "source": "Cumhuriyet",
+  "summary_tr": "Cumhuriyet Savcısı Türkşad Kunthan Uçuk sosyal medya paylaşımları nedeniyle açığa alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-18T16:01:06.951048+00:00",
+  "type": "news",
+  "cluster_id": "ca1c4c2f13058"
+ },
+ {
+  "title": "Gülşen'i tutuklatan savcı hakkında görevden uzaklaştırma kararı",
+  "link": "https://www.sozcu.com.tr/gulsen-i-tutuklatan-savci-hakkinda-gorevden-uzaklastirma-karari-p359529",
+  "source": "Sözcü",
+  "summary_tr": "Savcı Türkşad Kunthan Uçuk, sosyal medya video nedeniyle görevden uzaklaştırıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-18T16:01:06.951048+00:00",
+  "type": "news",
+  "cluster_id": "c50a974418007"
+ },
+ {
   "title": "Bakan Işıkhan: İşsizliği 2029 yılında yüzde 7,6'ya indirmeyi hedefliyoruz",
   "link": "https://www.trthaber.com/haber/ekonomi/bakan-isikhan-issizligi-2029-yilinda-yuzde-76ya-indirmeyi-hedefliyoruz-957292.html",
   "source": "TRT Haber",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-09T11:01:00.516827+00:00",
   "type": "news",
   "cluster_id": "c87bd61144667"
- },
- {
-  "title": "Gümüşün tırmanışı tahminleri altüst etti",
-  "link": "https://www.sozcu.com.tr/piyasalarda-yon-degisti-altin-ve-gumuste-yilbasindan-beri-boylesi-gorulmedi-p343736",
-  "source": "Sözcü",
-  "summary_tr": "Gümüş fiyatları son haftada yükseldi; ABD istihdam verilerinin faiz artırım beklentilerini zayıflatması emtia piyasalarını etkiledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-09T11:01:00.516827+00:00",
-  "type": "news",
-  "cluster_id": "cc99dfacbcc9a"
- },
- {
-  "title": "Ukrayna: Rus ordusu bu gece 17 füze ve 202 SİHA ile saldırı düzenledi",
-  "link": "https://www.trthaber.com/haber/dunya/ukrayna-rus-ordusu-bu-gece-17-fuze-ve-202-siha-ile-saldiri-duzenledi-953462.html",
-  "source": "TRT Haber",
-  "summary_tr": "Ukrayna, Rus ordusunun gece 17 füze ve 202 insansız hava aracıyla saldırı düzenlediğini bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-09T10:01:12.871947+00:00",
-  "type": "news",
-  "cluster_id": "c0dd36ba3269e"
- },
- {
-  "title": "Yemen'deki Husiler: Suudi Arabistan'da Aramco rafinerisini İHA'yla hedef aldık",
-  "link": "https://www.trthaber.com/haber/dunya/yemendeki-husiler-suudi-arabistanda-aramco-rafinerisini-ihayla-hedef-aldik-953461.html",
-  "source": "TRT Haber",
-  "summary_tr": "Yemen'deki İran destekli Husiler, Suudi Aramco'nun Cizan rafinerisini insansız hava aracıyla hedef aldıklarını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-09T10:01:12.871947+00:00",
-  "type": "news",
-  "cluster_id": "cc7fb2dd99bb2"
- },
- {
-  "title": "Three killed in Ukrainian drone attack on Belgorod, Russian authorities say",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOENwSFprNnAxMlVVRDZJclVmY0VZR1VpN2I0SnhjY2d2cGwzc2QtUHRSWk9jdEg1eW84WnFadDJHaWhIWEU3R3hPNHlsSXJCdk04R3NNbGlYTTU5RzQ1QlhER1lDLWh6Z2czZU9jWkFIdkdkdzdZLW5tcHQwTE1qZ0ctSl96OWdWbFB6WlN2UXhTbnRtYlpvNUFBY0FMWDBJN2xKanJUUU1GU1Y3N0ZSd0k4TnM2QUJW?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ukrayna'nın insansız hava aracı saldırısında Belgorod'da 3 kişi hayatını kaybetti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-09T10:01:12.871947+00:00",
-  "type": "news",
-  "cluster_id": "c901c9c1b0677"
- },
- {
-  "title": "İYİ Parti'den 'çerçeve yasa' teklifine muhalefet şerhi: 'Teklifin tümü bir ihanet metnidir'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/iyi-parti-den-cerceve-yasa-teklifine-muhalefet-serhi-teklifin-tumu-bir-ihanet-metnidir-2527668",
-  "source": "Cumhuriyet",
-  "summary_tr": "İYİ Parti, çerçeve yasa teklifine muhalefet şerhi verdi ve teklifi 'ihanet metni' olarak değerlendirdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-09T10:01:12.871947+00:00",
-  "type": "news",
-  "cluster_id": "c5cc50d6f104c"
  }
 ]
