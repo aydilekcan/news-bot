@@ -1,5 +1,41 @@
 [
  {
+  "title": "24 milyar dolar göz göre göre uçtu",
+  "link": "https://www.cumhuriyet.com.tr/yazarlar/isil-ozgenturk/24-milyar-dolar-goz-gore-gore-uctu-2538913",
+  "source": "Cumhuriyet",
+  "summary_tr": "Cumhuriyet, devlet kaynaklarından 24 milyar doların harcandığını ve yıllık bütçe açığının 130 milyar lirayı aştığını bildirdi.",
+  "metric": "Yıllık bütçe açığı 3.6 milyar lira -> 130 milyar lira aşan rakamlar",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-19T02:01:02.916671+00:00",
+  "type": "news",
+  "cluster_id": "c4180d74fd5ee"
+ },
+ {
+  "title": "1 litre yakıta 6 kilo buğday",
+  "link": "https://www.sozcu.com.tr/1-litre-yakita-6-kilo-bugday-p359582",
+  "source": "Sözcü",
+  "summary_tr": "Çiftçi tarım politikası ve akaryakıt zamlarından etkileniyor; hatalı politikalar nedeniyle üretim maliyetleri yükselmekte.",
+  "metric": "1 litre yakıt -> 6 kilo buğday karşılığı",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-19T02:01:02.916671+00:00",
+  "type": "news",
+  "cluster_id": "c965654699d4b"
+ },
+ {
+  "title": "Trump signs Russia sanctions bill into law",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMWZ3NVV2eHJuOEVQcDhZX3BVSnh2aWxQcE0wWERtWGc3MG9ZS3VmN1lqemJPNS1NbE1pU3RDTlR5TUIteF9hMVdNY2NITDU2N3lva3hWelYydUQ1Nm9xWUZZUHN3R29QeXR3VzhIdFNyOXJ6T1FLNlNEU3JIbUx3Q1ZCVWxHdnI4ZmhJVjFfd0s?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, Rusya'ya yönelik yaptırımlar yasasını imzaladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-19T02:01:02.916671+00:00",
+  "type": "news",
+  "cluster_id": "cce0eeab53928"
+ },
+ {
   "title": "Trump has a deal to build US military presence in Greenland while leaving island in Denmark's hands",
   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3VpRkZyY3B5MENtdkZiUFFhRzBMd25SZU9kMFZia2JxTEM4bFNvUFY5aTVzU2RDeXFIcWVGTVl4bUJrVzRTYkgyRVVfeXlhR1lFekxFVGFvaW42eEMyUEE0d1BJMnlFbjRzOXRhbGdnaDhiTFFTMnZQSUM0TVp4RDB6aXpBNTVqNUZUbHZFUFlIaWltTmFR?oc=5",
   "source": "AP",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-09T21:01:00.364388+00:00",
   "type": "news",
   "cluster_id": "ca9f7298f32ad"
- },
- {
-  "title": "CHP'de 'çerçeve yasa' çatlağı: Kesici 'hayır' diyeceğini açıkladı",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdWs0R1NqQ01oSXdHWlhNb3JZejFWU1JXeWlqVUNzUTdaMHNvdE5veldBUFg0d1NLY1p1WXdGbjlrOWlYVjRpTDlLSGdYYnNJUzEzdnUyMkx5VENUMGtPUjBKM1F5Vkx4VjRDNUliQjd2NW11NzYwUUlMak84ODlEbFBEcFFPcVVKNndMUFNMaHozTzY5SW1nSnU4NUxxdw?oc=5",
-  "source": "soL",
-  "summary_tr": "CHP'de çerçeve yasası konusunda iç ayrışım: Kesici 'hayır' diyeceğini açıkladı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-09T21:01:00.364388+00:00",
-  "type": "news",
-  "cluster_id": "c5d1c18dbda20"
- },
- {
-  "title": "Çerçeve yasa öncesi… Özgür Özel, MYK’yi toplayacak",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/cerceve-yasa-oncesi-ozgur-ozel-myk-yi-toplayacak-2527805",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel, 'çerçeve yasa' TBMM'de görüşülmeden önce Yeni Parti MYK toplantısı yapacak.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-09T20:00:59.378695+00:00",
-  "type": "news",
-  "cluster_id": "c69cd9cdba587"
- },
- {
-  "title": "AKP'den Üsküdar Belediye Başkanvekilliği seçimi için suç duyurusu",
-  "link": "https://www.sozcu.com.tr/uskudar-da-akp-den-itiraz-secim-yenilenecek-mi-p343836",
-  "source": "Sözcü",
-  "summary_tr": "AKP Üsküdar İlçe Başkanlığı, CHP adayının kazandığı Başkanvekilliği seçiminde şaibe iddiasıyla suç duyurusu yaptı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-09T20:00:59.378695+00:00",
-  "type": "news",
-  "cluster_id": "cdccbad49b09c"
  }
 ]
