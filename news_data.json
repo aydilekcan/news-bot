@@ -1,5 +1,41 @@
 [
  {
+  "title": "Suudi Arabistan, Husilerin Riyad’a attığı balistik füzenin imha edildiğini açıkladı",
+  "link": "https://www.aa.com.tr/tr/live-blog/suudi-arabistan-husilerin-riyad-a-attigi-balistik-fuzenin-imha-edildigini-acikladi/6413",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Suudi Arabistan, Husilerin Riyad'a attığı balistik füzenin hava kuvvetleri tarafından imha edildiğini açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-19T22:01:01.125266+00:00",
+  "type": "news",
+  "cluster_id": "c42726fe9f08b"
+ },
+ {
+  "title": "İsviçreden yeni güvenlik stratejisi",
+  "link": "https://www.trthaber.com/haber/dunya/isvicreden-yeni-guvenlik-stratejisi-957408.html",
+  "source": "TRT Haber",
+  "summary_tr": "İsviçre, Rusya-Ukrayna Savaşı ve hibrit tehditler karşısında yeni güvenlik stratejisini onayladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-19T22:01:01.125266+00:00",
+  "type": "news",
+  "cluster_id": "c1481ed9ae938"
+ },
+ {
+  "title": "Iran claims it struck an oil tanker in the Strait of Hormuz, and other Mideast developments",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWdlRjU5QTRNU0tfUUpTVW1iYUNBQ3hWejBlMVBaWTFEbFh1MkVtM1QzamhsY240NFQ3aW1vTUdMb0JaVUk2QWY1WE9SZWNqLUpzWVI4OFpyWlN1b0pXTW5vZzNEc3ZqZV9wdVowMGpzeHJub1ZFTWtoZGRyRklIbnR2d19mOVhhWG5GdkxTdTB1bktBRHFMSlVGbEZ5Mk0?oc=5",
+  "source": "AP",
+  "summary_tr": "İran, Hürmüz Boğazı'nda bir tanker vurduğunu iddia etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-19T22:01:01.125266+00:00",
+  "type": "news",
+  "cluster_id": "ca452e64d64ab"
+ },
+ {
   "title": "İran’dan ABD’ye 7 şartlı müzakere mesajı: 'Savaşa tam olarak hazırız'",
   "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-abd-ye-7-sartli-muzakere-mesaji-savasa-tam-olarak-haziriz-2539140",
   "source": "Cumhuriyet",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-10T16:01:09.818130+00:00",
   "type": "news",
   "cluster_id": "c1aa408ffc693"
- },
- {
-  "title": "Etimesgut’ta başkanvekili seçimi: CHP adayı Cumhur İttifakı oylarıyla koltuğa oturdu",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVE04SEtQNDlLTDc2SG1nVFcyUGNzVWxXaV84QTFSNlpZQ2xFV1Y5aVVOc2pqS21zdWNmQmlSTkxFUTVrR0JGSmw2NHFCQU1pZVNJZWg4QmRTS2ZNcktBNWFLMXQ1MjBqb0g4X3hNb0hXUW1OVmNTbmNlelhUdV81NS1rWjJXeXlXUDFGOFBuRTYxaENlbjVhTWxKSkV0Uzh4VEtCSk8zTm9BcEJqODhBUy1DRUxTay1IcDZzZA?oc=5",
-  "source": "soL",
-  "summary_tr": "Etimesgut belediyesi başkanvekili seçiminde CHP adayı Cumhur İttifakı oylarıyla seçildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-10T16:01:09.818130+00:00",
-  "type": "news",
-  "cluster_id": "cbcd3f15f4c03"
- },
- {
-  "title": "Yavaş'tan 'çerçeve yasa' açıklaması: 'Demokratikleşme tek mesele üzerinden konuşulamaz'",
-  "link": "https://www.bbc.com/turkce/articles/cwylxpkr49zo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "TBMM Başkanı Yavaş, yeni çözüm sürecinin hukuki zeminini oluşturacak çerçeve yasa teklifinin parlamentoya sunulduğunu açıkladı. Demokratikleşme vurgulanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-10T15:01:15.281181+00:00",
-  "type": "news",
-  "cluster_id": "c8cb26fe48b1f"
- },
- {
-  "title": "Hürmüz Boğazı belirsizliği Avrupa'da doğal gaz fiyatlarını etkiledi",
-  "link": "https://www.sozcu.com.tr/hurmuz-bogazi-belirsizligi-avrupa-da-dogal-gaz-fiyatlarini-etkiledi-p344119",
-  "source": "Sözcü",
-  "summary_tr": "Hürmüz Boğazı'ndaki belirsizlikler nedeniyle Avrupa'da doğal gaz fiyatları yüzde 8 arttı. Enerji maliyetlerine doğrudan etkili.",
-  "metric": "Avrupa doğal gaz fiyatları +%8",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-10T15:01:15.281181+00:00",
-  "type": "news",
-  "cluster_id": "c31ef71800395"
  }
 ]
