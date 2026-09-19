@@ -1,5 +1,41 @@
 [
  {
+  "title": "Komşu ülkeyi çılgına çeviren seçim: Herkesi tepki göstermeye çağırdı",
+  "link": "https://www.sozcu.com.tr/komsu-ulkeyi-cilgina-ceviren-secim-herkesi-tepki-gostermeye-cagirdi-p359609",
+  "source": "Sözcü",
+  "summary_tr": "Gürcistan, Rusya destekli Güney Osetya'da düzenlenen seçime tepki gösterdi ve uluslararası topluma çağrıda bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-19T06:01:00.825043+00:00",
+  "type": "news",
+  "cluster_id": "c0d693aef34e3"
+ },
+ {
+  "title": "Fon krizinde tehlike bitti mi? ABD'li banka kritik raporu yayınladı",
+  "link": "https://www.sozcu.com.tr/fon-krizinde-tehlike-bitti-mi-abd-li-banka-kritik-raporu-yayinladi-p359607",
+  "source": "Sözcü",
+  "summary_tr": "Türk sermaye piyasasında Fon krizi yaşanıyor; ABD'li banka diğer finansal enstrümanlara yayılma riski uyarısı yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-19T06:01:00.825043+00:00",
+  "type": "news",
+  "cluster_id": "c5a3560a85aa7"
+ },
+ {
+  "title": "Trump targets more news outlets, saying he will ban CNN, MS NOW and Politico from the White House",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmJvU3QxRHMzN3h2Umc4M3RyNFMtell5WGNTV1d2ampGY25aLUZjLVgxWlRmWS1JWVItZ3RoVXFtOUhlX01zdEhGbzhrN1VMUndiekJxOG1MZFNPTE1TZkJsZHRZb0doZUNid1NXVS1NTmtpV1FyQ3FGM0VLWDFnOWRjVXc5YnFsYTJiM3cwM21acFNYV3RieUYtcw?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump, CNN, MSNBC ve Politico'yu Beyaz Saray'dan yasaklayacağını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-19T06:01:00.825043+00:00",
+  "type": "news",
+  "cluster_id": "c0efe5e61072b"
+ },
+ {
   "title": "Motorine gece yarısı indirim geldi: 100 TL barajı yıkıldı",
   "link": "https://www.sozcu.com.tr/motorine-gece-yarisi-indirim-geldi-100-tl-baraji-yikildi-p359589",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-10T00:00:59.786159+00:00",
   "type": "news",
   "cluster_id": "c15e1d1363076"
- },
- {
-  "title": "AYM’den evlenen kadınların nüfus kaydına ilişkin karar: 'Aykırı olmadığına' hükmettiler!",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/aym-den-evlenen-kadinlarin-nufus-kaydina-iliskin-karar-aykiri-olmadigina-hukmettiler-2527831",
-  "source": "Cumhuriyet",
-  "summary_tr": "Anayasa Mahkemesi, evlenen kadının nüfus kaydının kocasının hanesine taşınmasını öngören hükmün Anayasa'ya aykırı olmadığına karar verdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-09T23:01:01.441395+00:00",
-  "type": "news",
-  "cluster_id": "c65df2a8b6d47"
- },
- {
-  "title": "Şehit aileleri ve gaziler düzenlemesi Meclis'ten geçti",
-  "link": "https://www.diken.com.tr/sehit-aileleri-ve-gaziler-duzenlemesi-meclisten-gecti/?utm_source=rss&utm_medium=rss&utm_campaign=sehit-aileleri-ve-gaziler-duzenlemesi-meclisten-gecti",
-  "source": "Diken",
-  "summary_tr": "TBMM, şehit aileleri ve gazilerin haklarına ilişkin düzenlemeyi kabul etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-09T22:00:58.838854+00:00",
-  "type": "news",
-  "cluster_id": "cc7b1d6231937"
- },
- {
-  "title": "Bakan Göktaş: Ülkemize, milletimize, şehit ailelerimize ve kahraman gazilerimize hayırlı olsun",
-  "link": "https://www.trthaber.com/haber/gundem/bakan-goktas-ulkemize-milletimize-sehit-ailelerimize-ve-kahraman-gazilerimize-hayirli-olsun-953498.html",
-  "source": "TRT Haber",
-  "summary_tr": "Bakan Göktaş, şehit aileleri ve gazilerin haklarına yönelik kanun teklifinin TBMM'den geçtiğini duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-09T22:00:58.838854+00:00",
-  "type": "news",
-  "cluster_id": "c6a1b283aebe6"
  }
 ]
