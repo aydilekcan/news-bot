@@ -1,5 +1,17 @@
 [
  {
+  "title": "Vekilimin sağlığına saat başı bir asgari",
+  "link": "https://www.sozcu.com.tr/vekilimin-sagligina-saat-basi-bir-asgari-p359583",
+  "source": "Sözcü",
+  "summary_tr": "592 milletvekili ve yakınlarının sağlık giderleri yılın ilk 8 ayında 167 milyon 814 bin liraya ulaştı.",
+  "metric": "Milletvekili sağlık harcaması: 167.814 milyon TL (8 ay)",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-19T03:01:02.491303+00:00",
+  "type": "news",
+  "cluster_id": "c2919afa82eb8"
+ },
+ {
   "title": "24 milyar dolar göz göre göre uçtu",
   "link": "https://www.cumhuriyet.com.tr/yazarlar/isil-ozgenturk/24-milyar-dolar-goz-gore-gore-uctu-2538913",
   "source": "Cumhuriyet",
@@ -59986,17 +59998,5 @@
   "ts": "2026-08-09T21:01:00.364388+00:00",
   "type": "news",
   "cluster_id": "ce2662bb8f608"
- },
- {
-  "title": "Israel military closes Palestinian Christian village Taybeh to halt settler attacks",
-  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcWhzbGhpYTNuV1JTcU8wSEotZ01CQ3lJb1pteWZiUzRpVVdmdmhUYldVSlV5cXNnR0pKQTFZVmFZeG1VUjZJWkN5Tm5Vak9FTmZFd1RncERPZnJBQmQwdllYaktkQ1VKeWQ5Qi1WaUdSdVlwbGRGaFM0NUJrNmt4MExPczhrVHdSZTVBQlJ4OUN5WVpvSi1XMDE0N0hub292RmlkOUJ1eG9xbkh2U0RXdEpraUF5VU01bXY2NFVqUVFYdjRLT0JWaVN3a0FjY0E?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İsrail ordusu, yerleşimci saldırılarını durdurmak için Filistinli Hristiyan köyü Taybeh'i kapatmıştır.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-09T21:01:00.364388+00:00",
-  "type": "news",
-  "cluster_id": "ca9f7298f32ad"
  }
 ]
