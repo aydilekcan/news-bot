@@ -1,5 +1,53 @@
 [
  {
+  "title": "İsrail ordusu Gazze ve Han Yunus kentlerinde Filistinlilerin evlerini patlayıcılarla yıktı",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-gazze-ve-han-yunus-kentlerinde-filistinlilerin-evlerini-patlayicilarla-yikti/4062284",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusu Gazze ve Han Yunus'ta Filistinlilerin evlerini patlayıcılarla yıktı; geniş çaplı yıkım rapor edildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-19T23:01:06.319972+00:00",
+  "type": "news",
+  "cluster_id": "cc01759f7e58e"
+ },
+ {
+  "title": "US Treasury's Bessent, China's He to meet on Sunday at JPMorgan headquarters",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQVRma05lOURVMXowWlB5cGxUakN3b09nZEgtbExsVUgxSml2dUE2Um9TVnZQa3JHSFU3WDZJMl85R183c2NyS0FFT1FZcXlFYUg2S0F3M2hTNk4yNnhwNlJhWGdYOV9fM3ludkZodlB0VVR6Z1VpQnBvb0pxME56TUU4VUlTMlFVS2tLWnhnMEg5VEZ4MFFzbnNsQ1lrSUt1clpCY3pXSF9uODJ5WXRaeU5heGQyR3Ns?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Hazine Sekreteri Bessent, Çin'in He temsilcisiyle Pazar günü JPMorgan merkezinde görüşecek; ticari gerginliklerin çözümü amaçlanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-19T23:01:06.319972+00:00",
+  "type": "news",
+  "cluster_id": "cfffe8e14c8bc"
+ },
+ {
+  "title": "Filistin topraklarını gasbeden İsrailliler, Batı Şeria'nın 4 kentinde 14 saldırı gerçekleştirdi",
+  "link": "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israilliler-bati-serianin-4-kentinde-14-saldiri-gerceklestirdi/4062285",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Batı Şeria'nın 4 kentinde İsrail saldırıları sonucu Filistinlilere ait 300 alanı hasar gördü.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-19T23:01:06.319972+00:00",
+  "type": "news",
+  "cluster_id": "c3318020265bb"
+ },
+ {
+  "title": "Saudi Arabia says Houthis tried to attack its capital, and other Mideast developments",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3ZQdTJKbzNUNVFFeGV0NG0xYTlhTURSZ24wTGRxWUVsNFc3cUswUHpFWWFuM0piU1kxVmZlWURxbnZkT1Zvc0gxNHZPaVQ0di1hTmRoTDA1Z3Nib3phUjkycVIwN3czNlBDZl9tb2tpZ0liSVItaGVpQmpBUTEwSDl5UnZOTnhZdlh2UjcyRjAwSkFGN0N1UjBPcWp3NVE?oc=5",
+  "source": "AP",
+  "summary_tr": "Suudi Arabistan, Husiler'in başkentine saldırı girişiminde bulunduğunu duyurdu; bölgede gerginlik devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-19T23:01:06.319972+00:00",
+  "type": "news",
+  "cluster_id": "c8cb76f8e1121"
+ },
+ {
   "title": "Suudi Arabistan, Husilerin Riyad’a attığı balistik füzenin imha edildiğini açıkladı",
   "link": "https://www.aa.com.tr/tr/live-blog/suudi-arabistan-husilerin-riyad-a-attigi-balistik-fuzenin-imha-edildigini-acikladi/6413",
   "source": "Anadolu Ajansı",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-10T16:01:09.818130+00:00",
   "type": "news",
   "cluster_id": "cf4cc1c996f86"
- },
- {
-  "title": "CHP'den istifa etmişti: Belediye meclis üyeleriyle YENİ Parti'ye geçti",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-den-istifa-etmisti-belediye-meclis-uyeleriyle-yeni-parti-ye-gecti-2528044",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP'den istifa eden Edremit Belediye Başkanı Mehmet Ertaş ve 19 belediye meclis üyesi Yeni Parti'ye katıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-10T16:01:09.818130+00:00",
-  "type": "news",
-  "cluster_id": "c90cad3469a89"
- },
- {
-  "title": "YENİ Parti milletvekili Mahmut Tanal 'çerçeve yasa' kararını açıkladı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/yeni-parti-milletvekili-mahmut-tanal-cerceve-yasa-kararini-acikladi-2528039",
-  "source": "Cumhuriyet",
-  "summary_tr": "Yeni Parti Milletvekili Mahmut Tanal, 'çerçeve yasa' konusunda AKP'nin siyasi hesabına ortak olmayacağını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-10T16:01:09.818130+00:00",
-  "type": "news",
-  "cluster_id": "c39a0cd99f336"
- },
- {
-  "title": "Etimesgut Belediyesi'nde başkanvekilliği seçimini AKP-MHP'nin desteklediği CHP'li aday kazandı",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdEpzLTlRckdKMlJnRkRwOUdHM0F5aGVxS1RFbF9rVzhjdTVxcnRIY0Z2UFNXaVgtWHJ4YUtSTXM5bFhxbHhnSlhOdWJrV3I0eUpCelplMkc4UnF3VHNPQkJ0VTM4MHdTUTA3RV9uVHNXTGF3a2lUek91THVGUG54NlpMWUFRNDhFUFV1ejlSZkw0SlZyTjNJ?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Etimesgut Belediyesi başkanvekili seçiminde AKP-MHP'nin desteklediği CHP'li aday seçildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-10T16:01:09.818130+00:00",
-  "type": "news",
-  "cluster_id": "ce9ecfaa1dabf"
- },
- {
-  "title": "Yandaş basın duyurdu: 'Cemil Tugay 14 Ağustos’ta AKP'ye katılacak'",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnhIdVBfOGFFWXU1Tm9ybVZnX1NoYjVFM3pqNncxNWktWERnY0x1TFN2d0NiVjlrdDhSNm1QSllyRER5MEE0UjVvU0lGOHFHWEExZVRsTnBmTmQzaGZiX3lCRUlPYVp1b2RNc2NGQ0xrZ2ZvTGhxVFBCRWMyaDJNbUI2VEFMZ1d2dTVLVVpRbUh6U1pzckJHNmVrNFRqUXFQ?oc=5",
-  "source": "soL",
-  "summary_tr": "Yandaş medya, Cemil Tugay'ın 14 Ağustos'ta AKP'ye katılacağını bildirdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-10T16:01:09.818130+00:00",
-  "type": "news",
-  "cluster_id": "c1aa408ffc693"
  }
 ]
