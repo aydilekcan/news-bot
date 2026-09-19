@@ -1,5 +1,65 @@
 [
  {
+  "title": "NATO’da kritik görev değişimi: Yeni başkan belli oldu",
+  "link": "https://www.sozcu.com.tr/nato-da-kritik-gorev-degisimi-yeni-baskan-belli-oldu-p359757",
+  "source": "Sözcü",
+  "summary_tr": "Almanya Genelkurmay Başkanı General Carsten Breuer, NATO Askeri Komitesi Başkanlığı'na atandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-19T19:01:02.474357+00:00",
+  "type": "news",
+  "cluster_id": "ce3fafd3a2b2b"
+ },
+ {
+  "title": "İsrail Cumhurbaşkanı, yaralı Filistinliyi başından vurarak öldüren İsrail askerini affetti",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-cumhurbaskani-yarali-filistinliyi-basindan-vurarak-olduren-israil-askerini-affetti/4062179",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail Cumhurbaşkanı Isaac Herzog, 2016'da Batı Şeria'da yaralı Filistinliyi öldüren İsrail askerini affetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-19T19:01:02.474357+00:00",
+  "type": "news",
+  "cluster_id": "c2c4d17110064"
+ },
+ {
+  "title": "Sakarya'da fındık üreticilerinden traktörlü protesto: 'Emeğimizin karşılığını istiyoruz'",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVklVNVpIQ1pDVFNVTkFJdnh4a3ZwZlhMUXdNUjFETnNQQlFYbGw1VUVmLUZzbU1Ub0hSRmhJdzJ0WlBhVmg5Z0lQMEhRWUM1ekpxYmN2dGVxM1ppaXAtT3JkbGZSUGtfTnJBdDJUbWsyVU9QYnB4WTFxUExKQXFXR1UzQTh0QUNoOGoxc2RFU0ZmZXN6bVpuQUdVT1daQXdBWmRreHhWVVZaUWJza0prY2s2ZUswams2cDdHcGpsaw?oc=5",
+  "source": "soL",
+  "summary_tr": "Sakarya'da fındık üreticileri traktörlü protesto düzenlediler; emeğinin karşılığını istiyoruz çağrısında bulundular.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-19T19:01:02.474357+00:00",
+  "type": "news",
+  "cluster_id": "ce729ef78cd3d"
+ },
+ {
+  "title": "Altılı Masa'daki bir partiden Cumhur İttifakı sinyali",
+  "link": "https://www.sozcu.com.tr/altili-masa-daki-bir-partiden-cumhur-ittifaki-sinyali-p359759",
+  "source": "Sözcü",
+  "summary_tr": "Saadet Partisi Genel Başkanı Mahmut Arıkan, Altılı Masa'daki partilerden birinin Cumhur İttifakı'yla olası işbirliğine ilişkin sinyaller verdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-19T19:01:02.474357+00:00",
+  "type": "news",
+  "cluster_id": "c6162762f825d"
+ },
+ {
+  "title": "Cumhurbaşkanı Erdoğan BM 81. Genel Kurulu genel görüşmelerine katılmak üzere yarın ABD'ye gidecek",
+  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-bm-81-genel-kurulu-genel-gorusmelerine-katilmak-uzere-yarin-abdye-gidecek/4062194",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, BM 81. Genel Kurulu genel görüşmelerine katılmak üzere ABD'ye gidecek.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-19T19:01:02.474357+00:00",
+  "type": "news",
+  "cluster_id": "c3bf473679a4d"
+ },
+ {
   "title": "Trump’ın İsrail’e milyar dolarlık silah satışına engel: Senatör itiraz etti",
   "link": "https://www.sozcu.com.tr/trump-in-israil-e-milyar-dolarlik-silah-satisina-engel-senator-itiraz-etti-p359753",
   "source": "Sözcü",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-10T15:01:15.281181+00:00",
   "type": "news",
   "cluster_id": "c9b7e32ac2843"
- },
- {
-  "title": "Intel, 15 milyar dolarlık hisse senedi arzı planlıyor",
-  "link": "https://www.aa.com.tr/tr/ekonomi/intel-15-milyar-dolarlik-hisse-senedi-arzi-planliyor/4023315",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD çip şirketi Intel, 15 milyar dolarlık hisse senedi arzı planlıyor. Küresel teknoloji sektörüne ilişkin önemli finansal hamle.",
-  "metric": "Intel hisse arzı 15 milyar dolar",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-10T15:01:15.281181+00:00",
-  "type": "news",
-  "cluster_id": "c31afb4feff83"
- },
- {
-  "title": "TBMM'de kritik görüşme: Çerçeve yasa için kim ne dedi?",
-  "link": "https://www.dw.com/tr/tbmm-de-kritik-görüşme-çerçeve-yasa-için-kim-ne-dedi/a-78308498?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "TBMM'de çerçeve yasası görüşüldü: AKP, MHP, DEM Parti ve CHP 'evet', İYİ Parti 'hayır' oyu verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-10T14:01:08.342948+00:00",
-  "type": "news",
-  "cluster_id": "c9a318a483f3a"
- },
- {
-  "title": "Başkan Öküzcüoğlu: Üzüm 11 TL, bu fiyatlarla geçinmek mümkün değil",
-  "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/baskan-okuzcuoglu-uzum-11-tl-bu-fiyatlarla-gecinmek-mumkun-degil-2528012",
-  "source": "Cumhuriyet",
-  "summary_tr": "Alaşehir Belediye Başkanı, üzüm fiyatının 11 TL'ye düştüğünü belirterek üreticilerin bu fiyatlarla geçinemeyeceğini söyledi.",
-  "metric": "Üzüm fiyatı 11 TL (düşüş)",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-10T14:01:08.342948+00:00",
-  "type": "news",
-  "cluster_id": "c28b183170a8b"
- },
- {
-  "title": "Can Atalay'dan 'Çerçeve Yasa' açıklaması: 'Barış ateşinin çevresini kuşatalım'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/can-atalay-dan-cerceve-yasa-aciklamasi-baris-atesinin-cevresini-kusatalim-2528014",
-  "source": "Cumhuriyet",
-  "summary_tr": "DEM Parti lideri Can Atalay, çerçeve yasasına ilişkin açıklama yaparak barış sürecinin korunması çağrısında bulundu.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-10T14:01:08.342948+00:00",
-  "type": "news",
-  "cluster_id": "caeb380e751ca"
- },
- {
-  "title": "Hazine, tahvil ihalesiyle 72 milyar lira borçlandı -10 Ağustos 2026",
-  "link": "https://www.sozcu.com.tr/hazine-tahvil-ihalesiyle-72-milyar-lira-borclandi-10-agustos-2026-p344101",
-  "source": "Sözcü",
-  "summary_tr": "Hazine, tahvil ihalesiyle 71,96 milyar lira borçlandı.",
-  "metric": "Hazine borçlanması 71,96 milyar TL",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-10T14:01:08.342948+00:00",
-  "type": "news",
-  "cluster_id": "c52f8d304e33a"
  }
 ]
