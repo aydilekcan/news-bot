@@ -1,5 +1,29 @@
 [
  {
+  "title": "US clears way for $2.7 billion sale to Ukraine of air-defense development upgrades",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORFphMEFsdXBIdGF5VFAxeWFrV3g4OGFVMWJySWhZcTFycXZ3bVB2VjdTZlFVNVVpbWtEMHQ1MTEwb0laQTA4cUFkZkktcU1kbWhqM2VlNDlaMDdzaVJXY29WUUF0MC1Cd3ZhaU8xSkkyQzZGSUpSTEhBRGJQZVNKTHRhSzRSNkxLVDJJMF9yTTZERWZ2djI5ckFnOGE5ajNMT2x4b2g5NFJEbmpEOV9kdGFvRWxNWjhSSEhR?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, Ukrayna'ya 2,7 milyar dolarlık hava savunma geliştirme yükseltmeleri satışına onay verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-19T04:01:03.936728+00:00",
+  "type": "news",
+  "cluster_id": "c3ba9bf53451b"
+ },
+ {
+  "title": "ABD ile Çin ekonomi heyetleri, Şi'nin ziyareti öncesinde New York'ta bir araya gelecek",
+  "link": "https://www.trthaber.com/haber/dunya/abd-ile-cin-ekonomi-heyetleri-sinin-ziyareti-oncesinde-new-yorkta-bir-araya-gelecek-957333.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD ve Çin ekonomi heyetleri, Devlet Başkanı Şi Cinping'in ABD ziyareti öncesinde New York'ta ekonomik ve ticari konuları görüşecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-19T04:01:03.936728+00:00",
+  "type": "news",
+  "cluster_id": "cce94be865ba1"
+ },
+ {
   "title": "Vekilimin sağlığına saat başı bir asgari",
   "link": "https://www.sozcu.com.tr/vekilimin-sagligina-saat-basi-bir-asgari-p359583",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-09T22:00:58.838854+00:00",
   "type": "news",
   "cluster_id": "c5f5280e04c22"
- },
- {
-  "title": "Netanyahu says Trump's new Gaza plan is unacceptable",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMm5hSE0yMGxRN0hITzZOLXp3R2tCX1dRc1IxaWp3MmZ5Uzc5T20yYmQxVlQ2ZDUzdkppNUJRNzJQcDNwaDh4aGd2cmI1S1lKY2lKRzNBUnJXVVpfOVNwa1JDM2JLenNkMi1YQ2h4MFJ3Yk1HM0FBY2RZZTVnbXd5QmhxU3ZKWTNQZDNEWmdEYVVBUzV3b2tZMEx5TDVTOER0SVZsemE4Z1F2VFJ0Ym9qX3Zn?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Netanyahu, Trump'ın yeni Gazze planını kabul edilemez olarak değerlendirmiştir.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-09T21:01:00.364388+00:00",
-  "type": "news",
-  "cluster_id": "cd407e7d59317"
- },
- {
-  "title": "İsrail basını: \"Bölgesel savunma birimleri\", ordu içinde bağımsız bir güç gibi hareket ediyor",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-basini-bolgesel-savunma-birimleri-ordu-icinde-bagimsiz-bir-guc-gibi-hareket-ediyor/4022664",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail ordusundaki bölgesel savunma birlikleri, ordu içinde bağımsız bir güç gibi hareket ederek yapısal problemler yaratıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-09T21:01:00.364388+00:00",
-  "type": "news",
-  "cluster_id": "ce2662bb8f608"
  }
 ]
