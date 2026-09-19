@@ -1,5 +1,41 @@
 [
  {
+  "title": "Hakan Fidan’dan Suudi Arabistan mesajı: ‘Askeri ihtiyaçları olabilir, bunu karşılama yönünde bir sıkıntımız olmaz’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/hakan-fidan-dan-suudi-arabistan-mesaji-askeri-ihtiyaclari-olabilir-bunu-karsilama-yonunde-bir-sikintimiz-olmaz-2539126",
+  "source": "Cumhuriyet",
+  "summary_tr": "Dışişleri Bakanı Hakan Fidan, Suudi Arabistan'ın toprak bütünlüğüne yönelik saldırılara karşı askeri destek sağlamaya hazır olduklarını açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-09-19T20:01:02.612833+00:00",
+  "type": "news",
+  "cluster_id": "cfd5501173bba"
+ },
+ {
+  "title": "‘İran hediyeleri’yle gidiyor… Erdoğan’dan ABD’ye ziyaret kararı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/iran-hediyeleri-yle-gidiyor-erdogan-dan-abd-ye-ziyaret-karari-2539120",
+  "source": "Cumhuriyet",
+  "summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, 20-23 Eylül'de Birleşmiş Milletler 81. Genel Kurulu'na katılmak üzere ABD'ye ziyaret gerçekleştirecek.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-19T20:01:02.612833+00:00",
+  "type": "news",
+  "cluster_id": "c954afb7972ca"
+ },
+ {
+  "title": "Erdoğan’dan ABD’ye ziyaret kararı",
+  "link": "https://www.sozcu.com.tr/erdogan-dan-abd-ye-ziyaret-karari-p359767",
+  "source": "Sözcü",
+  "summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, 20-23 Eylül'de Birleşmiş Milletler 81. Genel Kurulu'na katılmak üzere ABD'ye ziyaret gerçekleştirecek.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-19T20:01:02.612833+00:00",
+  "type": "news",
+  "cluster_id": "c954afb7972ca"
+ },
+ {
   "title": "NATO’da kritik görev değişimi: Yeni başkan belli oldu",
   "link": "https://www.sozcu.com.tr/nato-da-kritik-gorev-degisimi-yeni-baskan-belli-oldu-p359757",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-10T15:01:15.281181+00:00",
   "type": "news",
   "cluster_id": "c044bd3722016"
- },
- {
-  "title": "Bahçeli ile Özel arasında YENİ Parti diyaloğu",
-  "link": "https://www.sozcu.com.tr/devlet-bahceli-ile-ozel-arasinda-diyalog-p344120",
-  "source": "Sözcü",
-  "summary_tr": "MHP Genel Başkanı Bahçeli ile YENİ Parti Genel Başkanı Özel, çerçeve yasa teklifinin görüşmelerini sürüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-10T15:01:15.281181+00:00",
-  "type": "news",
-  "cluster_id": "c044bd3722016"
- },
- {
-  "title": "AK Parti Sözcüsü Çelik: Vesayetin sona ermesi ve siyasi iradenin kurumsallaşması için 10 Ağustos çok önemli bir imzadır",
-  "link": "https://www.trthaber.com/haber/gundem/ak-parti-sozcusu-celik-vesayetin-sona-ermesi-ve-siyasi-iradenin-kurumsallasmasi-icin-10-agustos-cok-onemli-bir-imzadir-953574.html",
-  "source": "TRT Haber",
-  "summary_tr": "AK Parti Sözcüsü Çelik, 10 Ağustos'u vesayetin sona ermesi ve siyasi iradenin kurumsallaşması açısından önemli bir gün olarak nitelendirdi.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-10T15:01:15.281181+00:00",
-  "type": "news",
-  "cluster_id": "c16a83e045f7e"
- },
- {
-  "title": "AKP-CHP işbirliğinin ilk zaferi Etimesgut'ta yaşandı: YENİ Parti adayı kaybetti",
-  "link": "https://www.sozcu.com.tr/akp-chp-isbirliginin-ilk-zaferi-etimesgut-ta-yasandi-yeni-parti-adayi-kaybetti-p344104",
-  "source": "Sözcü",
-  "summary_tr": "Etimesgut Belediyesi Başkan Vekilliğine CHP'nin adayı Seda Dilber seçildi. Cumhur İttifakı'nın YENİ Parti'ye verdiği destekle AKP-CHP işbirliğine vurgu yapılıyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-10T15:01:15.281181+00:00",
-  "type": "news",
-  "cluster_id": "c9b7e32ac2843"
  }
 ]
