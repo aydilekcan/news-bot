@@ -1,5 +1,29 @@
 [
  {
+  "title": "Motorine gece yarısı indirim geldi: 100 TL barajı yıkıldı",
+  "link": "https://www.sozcu.com.tr/motorine-gece-yarisi-indirim-geldi-100-tl-baraji-yikildi-p359589",
+  "source": "Sözcü",
+  "summary_tr": "Global petrol fiyatlarındaki düşüş nedeniyle motorine gece yarısı indirim uygulandı; 100 TL barajı kırıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-19T05:01:03.029669+00:00",
+  "type": "news",
+  "cluster_id": "cf33f975a6227"
+ },
+ {
+  "title": "SGK yılın son çeyreğinde takibi başlatıyor: Borçlulara haciz yolu göründü",
+  "link": "https://www.sozcu.com.tr/sgk-yilin-son-ceyreginde-takibi-baslatiyor-borclulara-haciz-yolu-gorundu-p359591",
+  "source": "Sözcü",
+  "summary_tr": "SGK, prim borcu olan esnaf ve KOBI'lere verdiği yapılandırma imkanını yılın son çeyreğinde sonlandırıyor; borçlulara haciz uygulanacak.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-19T05:01:03.029669+00:00",
+  "type": "news",
+  "cluster_id": "c44e693037e93"
+ },
+ {
   "title": "US clears way for $2.7 billion sale to Ukraine of air-defense development upgrades",
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORFphMEFsdXBIdGF5VFAxeWFrV3g4OGFVMWJySWhZcTFycXZ3bVB2VjdTZlFVNVVpbWtEMHQ1MTEwb0laQTA4cUFkZkktcU1kbWhqM2VlNDlaMDdzaVJXY29WUUF0MC1Cd3ZhaU8xSkkyQzZGSUpSTEhBRGJQZVNKTHRhSzRSNkxLVDJJMF9yTTZERWZ2djI5ckFnOGE5ajNMT2x4b2g5NFJEbmpEOV9kdGFvRWxNWjhSSEhR?oc=5",
   "source": "Reuters",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-09T22:00:58.838854+00:00",
   "type": "news",
   "cluster_id": "c6a1b283aebe6"
- },
- {
-  "title": "Mansur Yavaş: Kürt meselesinin çözümü seçim kazanmaya endekslenemez",
-  "link": "https://yetkinreport.com/2026/08/10/mansur-yavas-kurt-meselesinin-cozumu-secim-kazanmaya-endekslenemez/",
-  "source": "YetkinReport",
-  "summary_tr": "Ankara Büyükşehir Belediye Başkanı Mansur Yavaş, Terörsüz Türkiye çerçeve yasasının seçim kazanmaya endekslenmeyeceğini söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-09T22:00:58.838854+00:00",
-  "type": "news",
-  "cluster_id": "ccd68874f72c8"
- },
- {
-  "title": "'Çerçeve Yasa'ya bir ret daha: YENİ Partili Arslan 'hayır' oyu vereceğini açıkladı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/cerceve-yasa-ya-bir-ret-daha-yeni-partili-arslan-hayir-oyu-verecegini-acikladi-2527829",
-  "source": "Cumhuriyet",
-  "summary_tr": "YENİ Parti Eskişehir Milletvekili İbrahim Arslan, çerçeve yasaya 'hayır' oyu vereceğini açıkladı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-09T22:00:58.838854+00:00",
-  "type": "news",
-  "cluster_id": "c5f5280e04c22"
  }
 ]
