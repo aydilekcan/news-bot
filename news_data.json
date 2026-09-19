@@ -1,5 +1,29 @@
 [
  {
+  "title": "Trump has a deal to build US military presence in Greenland while leaving island in Denmark's hands",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3VpRkZyY3B5MENtdkZiUFFhRzBMd25SZU9kMFZia2JxTEM4bFNvUFY5aTVzU2RDeXFIcWVGTVl4bUJrVzRTYkgyRVVfeXlhR1lFekxFVGFvaW42eEMyUEE0d1BJMnlFbjRzOXRhbGdnaDhiTFFTMnZQSUM0TVp4RDB6aXpBNTVqNUZUbHZFUFlIaWltTmFR?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump, ABD'nin Grönland'da askeri üs kurması konusunda anlaşmaya vardı; ada Danimarka'nın egemenliğinde kalacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-19T01:01:02.544404+00:00",
+  "type": "news",
+  "cluster_id": "c5779a36534cd"
+ },
+ {
+  "title": "Eğitimden kıstılar!",
+  "link": "https://www.sozcu.com.tr/egitimden-kistilar-p359577",
+  "source": "Sözcü",
+  "summary_tr": "AKP'nin merkezi bütçeden eğitime ayırdığı pay 2027'de 10 yıl öncesinden daha düşük olacak.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-19T01:01:02.544404+00:00",
+  "type": "news",
+  "cluster_id": "c893489a9c250"
+ },
+ {
   "title": "ABD Başkanı Trump, Rusya'ya yönelik yaptırımlar içeren tasarıyı imzaladı",
   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-rusyaya-yonelik-yaptirimlar-iceren-tasariyi-imzaladi/4061659",
   "source": "Anadolu Ajansı",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-09T20:00:59.378695+00:00",
   "type": "news",
   "cluster_id": "cdccbad49b09c"
- },
- {
-  "title": "CHP'den ilk 'fire' geldi... Kılıçdaroğlu 'tereddütsüz destek' dedi: İlhan Kesici 'hayır' oyu vereceğini açıkladı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/chp-den-ilk-fire-geldi-kilicdaroglu-tereddutsuz-destek-dedi-ilhan-kesici-hayir-oyu-verecegini-acikladi-2527778",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP İstanbul Milletvekili İlhan Kesici, partisinin çerçeve yasasına 'hayır' oyu vereceğini açıkladı. Kılıçdaroğlu 'tereddütsüz destek' çağrısında bulundu.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-09T19:00:54.164877+00:00",
-  "type": "news",
-  "cluster_id": "c68d7a3c84597"
- },
- {
-  "title": "Kılıçdaroğlu 'tereddütsüz destek' dedi, CHP’li İlhan Kesici 'hayır' oyu vereceğini açıkladı",
-  "link": "https://www.sozcu.com.tr/ilhan-kesici-aciklamasi-9-agustos-2026-p343827",
-  "source": "Sözcü",
-  "summary_tr": "CHP İstanbul vekili İlhan Kesici, atanan başkan Kılıçdaroğlu'nun önerdiği yasaya 'hayır' oyu vereceğini açıkladı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-09T19:00:54.164877+00:00",
-  "type": "news",
-  "cluster_id": "c68d7a3c84597"
  }
 ]
