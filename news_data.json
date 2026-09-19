@@ -1,5 +1,53 @@
 [
  {
+  "title": "ABD Başkanı Trump, Rusya'ya yönelik yaptırımlar içeren tasarıyı imzaladı",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-rusyaya-yonelik-yaptirimlar-iceren-tasariyi-imzaladi/4061659",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, Rusya'ya yönelik yapıtırımlar ve enerji ithal eden ülkelere tarifeler içeren tasarıyı imzaladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-19T00:01:04.626212+00:00",
+  "type": "news",
+  "cluster_id": "cc7ae5b685b62"
+ },
+ {
+  "title": "Putin: Kiev yönetiminin müzakere etme niyeti yok",
+  "link": "https://www.trthaber.com/haber/dunya/putin-kiev-yonetiminin-muzakere-etme-niyeti-yok-957329.html",
+  "source": "TRT Haber",
+  "summary_tr": "Putin, Ukrayna Kiev yönetiminin barış müzakerelerine açık olmadığını söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-19T00:01:04.626212+00:00",
+  "type": "news",
+  "cluster_id": "c6afca352e640"
+ },
+ {
+  "title": "İran merkezli Bank Mellat'ın Türkiye'deki faaliyet izni kaldırıldı",
+  "link": "https://www.sozcu.com.tr/iran-merkezli-bank-mellatin-turkiyedeki-faaliyet-izni-kaldirildi-p359579",
+  "source": "Sözcü",
+  "summary_tr": "BDDK, İran merkezli Bank Mellat'ın Türkiye'deki faaliyet iznini kaldırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-19T00:01:04.626212+00:00",
+  "type": "news",
+  "cluster_id": "c302f1a70bf6d"
+ },
+ {
+  "title": "Borsada manipülasyon depremi: Fon yönetim kurulu başkanı dahil 4 kişi tutuklandı, 51 kişinin mal varlığına tedbir kondu",
+  "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOTDNnTnhVNjFnMENjWWNSLWdoRncxRmxRUHBEY3l2cFBKN2N1eXhhWWxrdWdIa1JRMGVfSjNOa3M3WVJDUTZvSm1uVlpBdTNQczhxSkczdzZOUHpyQmJmMG9mbkpkeWxKcUlVWEVfVDNNZ180OTJaT0ZfaWdjdFdFd0Zqa29FdjIxUmFZMHBJZ0ZTdXVhc3k3UjdBcndYYWNrT0V5cm56Z2lYbzFrWU1qUFNwaWFHSlJaYW5zQVVkTk44Unp5LXFQeGVSNjkyNHlUTFBudDBWbHlvUGFrOTJkTnZLZFBjYTZDckwyUUZEd01ROXFWNDl0X2JxWEFoZVgtOVNzUmtzWWRyc3pwYmxDbTV5ME5EMHllQUxEVHhRenh5cnFhX2ktZWJ3SS1LX2Iya1BiSzlmN25sbmM?oc=5",
+  "source": "T24",
+  "summary_tr": "Borsada manipülasyon soruşturmasında fon yönetim kurulu başkanı dahil 4 kişi tutuklandı, 51 kişinin mal varlığına tedbir kondu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-19T00:01:04.626212+00:00",
+  "type": "news",
+  "cluster_id": "cbef927e07145"
+ },
+ {
   "title": "EXCLUSIVE: US and Denmark reach deal on Greenland, Trump says",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXUxU0wtWHlQT1lrMjB0b2Q5c080QTY4SmJDSkF3c1R1SUNkVVV5TmUxeVBaRk56ZTV4SWtqaXNBQzBfUnRiNWN5NmVQNGFTNGNGNFJqMjd5WTB3cGxhQ1p3UDdSemxwQXdYYkpjS1ktV2hkVzZRR1R4Tmw0M2VEZjQxZ0JWU0ptVlBha00tckVhSFBzclE?oc=5",
   "source": "Reuters",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-09T19:00:54.164877+00:00",
   "type": "news",
   "cluster_id": "c68d7a3c84597"
- },
- {
-  "title": "İsrail ordusu ve İsrailli işgalciler Batı Şeria'da Filistinlilere yönelik saldırılarını sürdürüyor",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ve-israilli-isgalciler-bati-seriada-filistinlilere-yonelik-saldirilarini-surduruyor/4022607",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail ordusu ve işgalciler, Batı Şeria'da Filistinlilere yönelik saldırılarına devam ediyor; binalar gasp edilerek askeri noktalara çevriliyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-08-09T18:01:06.872410+00:00",
-  "type": "news",
-  "cluster_id": "c6f3c44df161a"
- },
- {
-  "title": "Syria will take back control from Russia of 2 key Mediterranean bases under a new deal",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb0xUOUZscjJubmJIbnBRTHVjbUV4emlhWXo1MjZNdVpWRFIxOFFYeVlENUR6ZDkxbkMxVkRCcGVXTWJ6dkM2OGRSMHlUZGx5bFl4aHV6dHJONmtPenpsZDZkb0NOY0NUWjhWRGFsZVV6VkM0dy1SSEJPRDBSN2Vod3dNM3B3eW9QYmdlYXFZSUJuOWFKWnA3dkd2ZmU0OGZoR3h1SGVjaEkzdw?oc=5",
-  "source": "AP",
-  "summary_tr": "Suriye, yeni anlaşma çerçevesinde Rusya'nın kontrolündeki Akdeniz'deki 2 kritik askeri üssün kontrolünü geri alacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-09T18:01:06.872410+00:00",
-  "type": "news",
-  "cluster_id": "c54d236f5d37f"
- },
- {
-  "title": "Kılıçdaroğlu: Bu sürece tereddütsüz katkı vereceğiz",
-  "link": "https://www.diken.com.tr/kilicdaroglu-bu-surece-tereddutsuz-katki-verecegiz/?utm_source=rss&utm_medium=rss&utm_campaign=kilicdaroglu-bu-surece-tereddutsuz-katki-verecegiz",
-  "source": "Diken",
-  "summary_tr": "CHP Genel Başkanı Kemal Kılıçdaroğlu, mahkeme kararıyla göreve getirildikten sonra sürece tereddütsüz katkı vereceğini açıkladı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-09T18:01:06.872410+00:00",
-  "type": "news",
-  "cluster_id": "ca24aa037fd3f"
- },
- {
-  "title": "Kılıçdaroğlu’ndan sürece destek: ‘Tereddütsüz katkı vereceğiz’",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQU9QcF9UMnBQZndhM2ZfUTFHN25LV0tmY0piVG5BblpQZjU0T1pMbC05R1ZNWjkwREQ3RmNoTzhWaEw5UDJIR2RvZzNGWjZmV2ZPaEF1VEo0SUZGaVZURk9NVmJTc2M0M2NNWFJrT09qOWdnVjB1WkVRU0FjRDN5MlhuQlRPZ2htTEZJaDgtQlpYczJHVEI5ZDhlZ3A?oc=5",
-  "source": "soL",
-  "summary_tr": "CHP Genel Başkanı Kılıçdaroğlu, Mekke Anlaşması süreci hakkında tereddütsüz destek vereceğini açıkladı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-09T18:01:06.872410+00:00",
-  "type": "news",
-  "cluster_id": "ca24aa037fd3f"
  }
 ]
