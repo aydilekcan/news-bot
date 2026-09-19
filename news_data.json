@@ -1,5 +1,41 @@
 [
  {
+  "title": "İran’dan ABD’ye 7 şartlı müzakere mesajı: 'Savaşa tam olarak hazırız'",
+  "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-abd-ye-7-sartli-muzakere-mesaji-savasa-tam-olarak-haziriz-2539140",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai, ABD'ye müzakereye başlamak için 7 şart iletti ve 'savaşa tam olarak hazırız' dedi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-19T21:01:03.154470+00:00",
+  "type": "news",
+  "cluster_id": "cf18a42eb7be0"
+ },
+ {
+  "title": "İran, savaşı bitirecek 7 şartını ABD’ye sundu",
+  "link": "https://www.sozcu.com.tr/iran-savasi-bitirecek-7-sartini-abd-ye-sundu-p359772",
+  "source": "Sözcü",
+  "summary_tr": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai, ABD ile müzakerelerin başlaması için Tahran'ın belirlediği 7 şartı ABD'ye sundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-19T21:01:03.154470+00:00",
+  "type": "news",
+  "cluster_id": "c458f1fb768cc"
+ },
+ {
+  "title": "İran: Müzakereye başlamak için 7 şart ABD hükümetine bildirildi",
+  "link": "https://www.aa.com.tr/tr/dunya/iran-muzakereye-baslamak-icin-7-sart-abd-hukumetine-bildirildi/4062233",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai, herhangi bir müzakereye başlamak için ileri sürdüğü 7 şartın ABD hükümetine bildirildiğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-19T21:01:03.154470+00:00",
+  "type": "news",
+  "cluster_id": "c5a4c25cc9860"
+ },
+ {
   "title": "Hakan Fidan’dan Suudi Arabistan mesajı: ‘Askeri ihtiyaçları olabilir, bunu karşılama yönünde bir sıkıntımız olmaz’",
   "link": "https://www.cumhuriyet.com.tr/turkiye/hakan-fidan-dan-suudi-arabistan-mesaji-askeri-ihtiyaclari-olabilir-bunu-karsilama-yonunde-bir-sikintimiz-olmaz-2539126",
   "source": "Cumhuriyet",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-10T15:01:15.281181+00:00",
   "type": "news",
   "cluster_id": "c31ef71800395"
- },
- {
-  "title": "Avrupa'da doğal gaz fiyatları yüzde 8 arttı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/avrupada-dogal-gaz-fiyatlari-yuzde-8-artti/4023317",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Hürmüz Boğazı'ndaki sevkiyat belirsizlikleri nedeniyle Avrupa doğal gaz fiyatları yüzde 8 yükseldi. Enerji maliyetlerine doğrudan etkili.",
-  "metric": "Avrupa doğal gaz fiyatları +%8",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-10T15:01:15.281181+00:00",
-  "type": "news",
-  "cluster_id": "c1fdb88d2b7b3"
- },
- {
-  "title": "Türkiye, Pakistan ve Suudi Arabistan arasındaki anlaşma bölgede nasıl yorumlandı?",
-  "link": "https://www.bbc.com/turkce/articles/cr4910593rpo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Türkiye, Pakistan ve Suudi Arabistan 7 Ağustos'ta ortak savunma anlaşması imzaladı. Anlaşma bölgede stratejik dengeler açısından önemli yorumlanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-10T15:01:15.281181+00:00",
-  "type": "news",
-  "cluster_id": "cacb88dd4aea2"
- },
- {
-  "title": "Bahçeli ile Özel arasında YENİ Parti diyaloğu: 'Bir gecede 91 milletvekiline nasıl ulaştınız'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/bahceli-ile-ozel-arasinda-yeni-parti-diyalogu-bir-gecede-91-milletvekiline-nasil-ulastiniz-2528034",
-  "source": "Cumhuriyet",
-  "summary_tr": "MHP Genel Başkanı Bahçeli ile YENİ Parti Genel Başkanı Özel, çerçeve yasa görüşmeleri sırasında diyalog kurdu. Yeni parti yapılanması tartışmalarında önemli gelişme.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-10T15:01:15.281181+00:00",
-  "type": "news",
-  "cluster_id": "c044bd3722016"
  }
 ]
