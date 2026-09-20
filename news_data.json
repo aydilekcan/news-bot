@@ -1,5 +1,29 @@
 [
  {
+  "title": "Türkiye'nin dünya turizminden aldığı pay artırılacak",
+  "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-dunya-turizminden-aldigi-pay-artirilacak-957427.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye'nin turizm geliri son 8 yılda 30 milyar dolardan 65 milyar dolara yükseldi. Kültür ve Turizm Bakanlığı dünya turizminden aldığı payı artırmayı hedefliyor.",
+  "metric": "Turizm geliri 30 milyar USD -> 65 milyar USD (+%116)",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-20T09:01:01.485268+00:00",
+  "type": "news",
+  "cluster_id": "c0b58498d9844"
+ },
+ {
+  "title": "ABD, Türkiye'nin ikinci büyük ihracat pazarı oldu",
+  "link": "https://www.trthaber.com/haber/ekonomi/abd-turkiyenin-ikinci-buyuk-ihracat-pazari-oldu-957425.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD, Türkiye'nin ikinci büyük ihracat pazarı konumuna yükseldi. Ocak-ağustos döneminde ABD'ye ihracat yüzde 12,9 artarak 9 milyar 636,7 milyon dolara ulaştı.",
+  "metric": "Türkiye'nin ABD ihracatı %12,9 artış (ocak-ağustos)",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-20T09:01:01.485268+00:00",
+  "type": "news",
+  "cluster_id": "c75e69714a72f"
+ },
+ {
   "title": "Türkiye Suudi Arabistan'a askeri destek mi sağlayacak?",
   "link": "https://www.dw.com/tr/türkiye-suudi-arabistan-a-askeri-destek-mi-sağlayacak/a-79341982?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-10T20:01:15.774578+00:00",
   "type": "news",
   "cluster_id": "c0e19fdb268b4"
- },
- {
-  "title": "Son Dakika: Meclis 'Çerçeve Yasa'yı onayladı",
-  "link": "https://www.sozcu.com.tr/meclis-cerceve-yasa-yi-9-saatte-onayladi-kabul-edildi-p344177",
-  "source": "Sözcü",
-  "summary_tr": "TBMM, 'Milli Dayanışma ve Toplumsal Bütünleşme Yasası'nı 468 oyla onayladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 9,
-  "ts": "2026-08-10T20:01:15.774578+00:00",
-  "type": "news",
-  "cluster_id": "c0e19fdb268b4"
- },
- {
-  "title": "Terörsüz Türkiye için tarihi düzenleme Meclis'ten geçti",
-  "link": "https://www.trthaber.com/haber/gundem/terorsuz-turkiye-icin-tarihi-duzenleme-meclisten-gecti-953588.html",
-  "source": "TRT Haber",
-  "summary_tr": "TBMM, 'Milli Dayanışma ve Toplumsal Bütünleşme Yasası'nı 468 oyla yasalaştırdı.",
-  "metric": "",
-  "lean": "right",
-  "score": 9,
-  "ts": "2026-08-10T20:01:15.774578+00:00",
-  "type": "news",
-  "cluster_id": "c726a09f0be55"
  }
 ]
