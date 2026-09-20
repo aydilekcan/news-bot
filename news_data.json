@@ -1,5 +1,41 @@
 [
  {
+  "title": "Trump administration prepares sanctions against International Criminal Court, sources say",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbzVOcmJ4eEtjbkl2RklqSHpWQUVfbHJWTE9fbl95b0ZaajRqbXJYLWxmUExfYUpBcDNuSEVlWGN3djQtbXNCbENmMkJqaDgyWjMtaElIcXpxNkpTdElHZTVNSkUtU3ZYSUdJLVF3WUszZUlSSXJSU1JYS19ZM05HOEJyLWlTZk10bEhYTWRGUGR3ZFlld0tVR0EyYThkaTBOWHRtbFBZUnVaTXZ5WEVPTzVTTXlFYTBDUUx0M1ZB?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump yönetimi, Uluslararası Ceza Mahkemesi'ne karşı yaptırımlar hazırlamaktadır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-20T23:01:02.814583+00:00",
+  "type": "news",
+  "cluster_id": "c6d15615adc1e"
+ },
+ {
+  "title": "Oil rises after Houthi attack on Saudi capital",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdEljbFotbFNVU2Nyb1oyaElIUXJJc1ltUmF5a1FrMl9xbEwyNG9LOWwyZ3F2dUZIUl9QYnd6OXU1cU10UGx0QzkxaVp6QkoxY3ZYSm1qc3FvbFprT29VcldJZ3V1Y1YtZ1A3MjEtTUo2dk9laHFBaWZBMFNOMmZDVC16aDBhYUdmdmZFdUJ4d0hoMW5hZTgxRk1ETQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Petrol fiyatları Husilerin Suudi Arabistan'ın başkentine yaptığı saldırının ardından yükseldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-20T23:01:02.814583+00:00",
+  "type": "news",
+  "cluster_id": "c32841f6aacd6"
+ },
+ {
+  "title": "SPK fonların tasfiye sürecini altı aya uzattı",
+  "link": "https://www.bbc.com/turkce/articles/cq36l32j8w1lo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "SPK, tasfiyesine karar verilen 131 yatırım fonunun tasfiye sürecini 3 aydan 6 aya uzattı.",
+  "metric": "Tasfiye süresi 3 ay -> 6 ay",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-20T23:01:02.814583+00:00",
+  "type": "news",
+  "cluster_id": "c89ca76825f9d"
+ },
+ {
   "title": "SPK'den kritik değişiklik: Tasfiye süresini 6 aya çıkardı",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/spk-den-kritik-degisiklik-tasfiye-suresini-6-aya-cikardi-2539395",
   "source": "Cumhuriyet",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-11T14:01:08.766071+00:00",
   "type": "news",
   "cluster_id": "c7e8b996971e3"
- },
- {
-  "title": "Yabancı Dijital Konaklama Platformları Kanunu Teklifi TBMM'de",
-  "link": "https://www.aa.com.tr/tr/gundem/yabanci-dijital-konaklama-platformlari-kanunu-teklifi-tbmmde/4024291",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "AK Parti milletvekillerinin hazırladığı Yabancı Dijital Konaklama Platformları Kanunu Teklifi TBMM Başkanlığına sunuldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-11T14:01:08.766071+00:00",
-  "type": "news",
-  "cluster_id": "c9220f2c46d1a"
- },
- {
-  "title": "Uzmanlar acil stok yapın diyerek saydı: Bu ürünlere rekor zam geliyor",
-  "link": "https://www.sozcu.com.tr/uzmanlar-acil-stok-yapin-diyerek-saydi-bu-urunlere-rekor-zam-geliyor-p344402",
-  "source": "Sözcü",
-  "summary_tr": "Kuraklık ve ürün fiyatlarındaki düşüş nedeniyle gıda fiyatlarında rekor zamlar bekleniyor; uzmanlar stok yapılmasını tavsiye ediyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-11T13:01:15.074058+00:00",
-  "type": "news",
-  "cluster_id": "c8ae9eb891670"
- },
- {
-  "title": "İran'da tecavüze direnen kadın idam edildi",
-  "link": "https://www.diken.com.tr/iranda-tecavuze-direnen-kadin-idam-edildi/?utm_source=rss&utm_medium=rss&utm_campaign=iranda-tecavuze-direnen-kadin-idam-edildi",
-  "source": "Diken",
-  "summary_tr": "İran'da cinsel saldırıya direnen 23 yaşındaki Marziye Niyeri idam edildi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-11T13:01:15.074058+00:00",
-  "type": "news",
-  "cluster_id": "c85b6a6858766"
  }
 ]
