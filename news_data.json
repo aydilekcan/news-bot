@@ -1,5 +1,53 @@
 [
  {
+  "title": "Fed's Kashkari says inflation is still too high in 'all aspects' of US economy, in Fox News interview",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc1hVd3hZZmFPOEVudnRhdFpDczA0Qkg4TmxpeDFYN1NuWnFkYVNSLTdrRU42dGdXV21YcmlsM1RVREw1amRxQWV5aWVZZTRPRy1paTNiT2o3M0syblIxdkMtR2xKLVgzUEstZ01CcXRKd0dNbUpLZUxkV1hhS0cwcDZYRXdmYjJrTTc4RERBQWNyeXdHb0ZoVjhPMkQzVDJodDBoc3c0RTc4ckFJeGJ6WDlLTDVzM05rN3k5VWNXVVFlTWM?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Fed Başkan Yardımcısı Kashkari, ABD ekonomisinin tüm yönlerinde enflasyonun hala çok yüksek olduğunu belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-20T20:01:02.640770+00:00",
+  "type": "news",
+  "cluster_id": "c3fa1b2a6d5b0"
+ },
+ {
+  "title": "Tera Portföy: İade talimatları, kısa sürede yaklaşık 300 milyar liraya varan bir çıkış talebine dönüştü",
+  "link": "https://www.diken.com.tr/tera-portfoy-iade-talimatlari-kisa-surede-yaklasik-300-milyar-liraya-varan-bir-cikis-talebine-donustu/?utm_source=rss&utm_medium=rss&utm_campaign=tera-portfoy-iade-talimatlari-kisa-surede-yaklasik-300-milyar-liraya-varan-bir-cikis-talebine-donustu",
+  "source": "Diken",
+  "summary_tr": "Tera Portföy'de iade taleplerinin ardından yaklaşık 300 milyar liraya varan bir çıkış talebine dönüştü.",
+  "metric": "Tera Portföy çıkış talebi ~300 milyar TL",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-20T20:01:02.640770+00:00",
+  "type": "news",
+  "cluster_id": "c4c08412fceb8"
+ },
+ {
+  "title": "Cumhurbaşkanı Erdoğan ABD'de",
+  "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-abdde-957460.html",
+  "source": "TRT Haber",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, Birleşmiş Milletler 81'nci Genel Kurulu görüşmelerine katılmak için ABD'ye gitti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-20T20:01:02.640770+00:00",
+  "type": "news",
+  "cluster_id": "c35fb3ad3dabb"
+ },
+ {
+  "title": "Para transferleri ve gözaltılar: Fon soruşturmasında son gelişmeler neler?",
+  "link": "https://www.bbc.com/turkce/articles/cqkg08p7v814o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "İstanbul Cumhuriyet Başsavcılığı, sermaye piyasası işlemlerine ilişkin soruşturma kapsamında iki fon yöneticisinin hesaplarını inceliyor ve gözaltılar gerçekleştiriliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-20T20:01:02.640770+00:00",
+  "type": "news",
+  "cluster_id": "c75071b40e554"
+ },
+ {
   "title": "Trump, Pezeşkiyan'la görüşmeye 'istekli': Akıllıca davransalar iyi olur",
   "link": "https://www.diken.com.tr/trump-pezeskiyanla-gorusmeye-istekli-akillica-davransalar-iyi-olur/?utm_source=rss&utm_medium=rss&utm_campaign=trump-pezeskiyanla-gorusmeye-istekli-akillica-davransalar-iyi-olur",
   "source": "Diken",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-11T11:01:10.073999+00:00",
   "type": "news",
   "cluster_id": "cb6fac9c8377c"
- },
- {
-  "title": "İsrail'in Lübnan'ın güneyinde yaralı taşıyan ambulansı hedef aldığı saldırıda 2 kişi yaralandı",
-  "link": "https://www.aa.com.tr/tr/dunya/israilin-lubnanin-guneyinde-yarali-tasiyan-ambulansi-hedef-aldigi-saldirida-2-kisi-yaralandi/4024053",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail'in insansız hava aracı Lübnan'ın güneyinde yaralı taşıyan ambulansı hedef aldı; 2 kişi yaralandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-11T11:01:10.073999+00:00",
-  "type": "news",
-  "cluster_id": "cbfb22815f46d"
- },
- {
-  "title": "Syria sentences absent Bashar al-Assad to death over killings, torture",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczRfNktLU3lTNHRHVU5wVWNGZUNaVFRZSkdJWnVyUUY3dlA4c3BmWVlHLWwxRzM0eHkzdlIwZVhDZHpGQWROUlAwbUJXcElYMTc2TExMRGh1R0xwY210RlZrYkd5N1kxTm93OVY4WFVHR1RhZ3hrUmRlclpjLWZhbFo1TmF1c3VhNXZFd2VMQ3E3ZjJmUnQxY01HYWVILXpQQ3NablB6YkZMU0xS?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Suriye mahkemesi, cuntacı Beşar Esad'ı katil ve işkenceler nedeniyle ölüm cezasına çarptırdı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-11T11:01:10.073999+00:00",
-  "type": "news",
-  "cluster_id": "c532e0fdc4d75"
- },
- {
-  "title": "Ank-Ar'dan son seçim anketi: YENİ Parti birinci sırada, AKP ve CHP'de dikkat çeken tablo",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/ank-ar-dan-son-secim-anketi-yeni-parti-birinci-sirada-akp-ve-chp-de-dikkat-ceken-tablo-2528216",
-  "source": "Cumhuriyet",
-  "summary_tr": "Ank-Ar Araştırma Şirketi'nin son anketine göre YENİ Parti birinci sırada, AKP ve CHP'de dikkat çeken tablo ortaya çıktı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-11T11:01:10.073999+00:00",
-  "type": "news",
-  "cluster_id": "cda6dc9aecc62"
- },
- {
-  "title": "Rusya'da bazı kripto paraların borsalarda işlem görmesine izin verildi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/rusyada-bazi-kripto-paralarin-borsalarda-islem-gormesine-izin-verildi/4024083",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Rusya Merkez Bankası bitcoin, ethereum ve USDT'yi Rus borsalarında işlem görebilecek kripto paralar listesine dahil etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-11T11:01:10.073999+00:00",
-  "type": "news",
-  "cluster_id": "ca66f49f9933e"
  }
 ]
