@@ -1,5 +1,29 @@
 [
  {
+  "title": "Trump, Pezeşkiyan'la görüşmeye 'istekli': Akıllıca davransalar iyi olur",
+  "link": "https://www.diken.com.tr/trump-pezeskiyanla-gorusmeye-istekli-akillica-davransalar-iyi-olur/?utm_source=rss&utm_medium=rss&utm_campaign=trump-pezeskiyanla-gorusmeye-istekli-akillica-davransalar-iyi-olur",
+  "source": "Diken",
+  "summary_tr": "ABD Başkanı Trump, İran Cumhurbaşkanı Pezeşkiyan'la görüşmeye istekli olduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-20T19:00:59.883184+00:00",
+  "type": "news",
+  "cluster_id": "cc659c3f01501"
+ },
+ {
+  "title": "Çıkış talebi 300 milyar TL'yi buldu: Fon iadeleri ve ödemeler nasıl olacak?",
+  "link": "https://www.sozcu.com.tr/fon-iadeleri-ve-odemeler-nasil-olacak-p359990",
+  "source": "Sözcü",
+  "summary_tr": "Tera Portföy'de yaklaşık 300 milyar liraya ulaşan toplu çıkış talepleri sonrası bazı fonlarda ödemelerin gerçekleştirilmesi konusu gündeme geldi.",
+  "metric": "Toplu çıkış taleplerinin tutarı: ~300 milyar TL",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-20T19:00:59.883184+00:00",
+  "type": "news",
+  "cluster_id": "c83185b994def"
+ },
+ {
   "title": "Emre Tezmen ile Kasım Garipoğlu aynı dosyada: İddianamede 350 milyon dolarlık para trafiği",
   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTFhtLTcwQjVtZ1lPVUtmQ3hfLUh4dHVMbV9RN2l4bklqNll6X0g3VDlmZklncTBVTHdFTE5hRnhXdVFqSFU1cE10blBiSV9MeW00SnFYQWI2LWNZZ3hrZEI4X25PUXlzMDZZYnp6VXBxR3VjQUU4WTJweVZEdUJiSnF1eDJsZERHNG95MzBpWkhvbkNPa3dWcTJhWUdfeGRoRVNmNllIbllSSXhxcVF1bDhNQ0pLeUxuYl93MXFkWkI?oc=5",
   "source": "T24",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-11T11:01:10.073999+00:00",
   "type": "news",
   "cluster_id": "ca66f49f9933e"
- },
- {
-  "title": "Valilere Çerçeve Yasa bilgilendirmesi yapılacak",
-  "link": "https://www.trthaber.com/haber/gundem/valilere-cerceve-yasa-bilgilendirmesi-yapilacak-953647.html",
-  "source": "TRT Haber",
-  "summary_tr": "İçişleri Bakanı Mustafa Çiftçi ve 81 vali, TBMM Başkanı Numan Kurtulmuş katılımıyla Çerçeve Yasa bilgilendirme toplantısına katılacak.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-11T11:01:10.073999+00:00",
-  "type": "news",
-  "cluster_id": "ca795bed231f1"
- },
- {
-  "title": "BRICS nations discuss linking payment systems and CBDCs, RBI chief says",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTVQ2VGhDdTZ1cGFQN0FKaVFodVRScTdJWG5XSkh1RldFZzZxWWtlazRHcU5SR2hwMG8wMWdlenM2MTNrei1tVUxoZzY4akUzVmhtaUliZXpKYmJBZmNOcFVMWlpYeTE2SjNoZHd0MWZ1Q3FtQlZSTTdjbUtfM1hjWWh0eXFuWnA2cXpqSTAwWnJOUjJPTFI1bFBBbS1EUmllRC1NQ3V1YjlxMGVobUdCZ3BBaUs?oc=5",
-  "source": "Reuters",
-  "summary_tr": "BRICS ülkeleri ödeme sistemleri ve merkez bankası dijital paraları (CBDC) bağlantısını tartışıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-11T11:01:10.073999+00:00",
-  "type": "news",
-  "cluster_id": "c90b4f0bdd697"
  }
 ]
