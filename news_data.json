@@ -1,5 +1,77 @@
 [
  {
+  "title": "Trump'tan 'İran' mesajları: 'Çok da uzak olmayan bir gelecekte...'",
+  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-iran-mesajlari-cok-da-uzak-olmayan-bir-gelecekte-2539330",
+  "source": "Cumhuriyet",
+  "summary_tr": "Trump, İran konusunda yakın zamanda önemli kararlar alacağını ve 'büyük şeyler' olacağını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-20T16:01:04.089952+00:00",
+  "type": "news",
+  "cluster_id": "c2de5d73c8d1c"
+ },
+ {
+  "title": "Trump, İran Cumhurbaşkanı Pezeşkiyan ile BM toplantıları sırasında görüşmeye açık olduğunu bildirdi",
+  "link": "https://www.aa.com.tr/tr/dunya/trump-iran-cumhurbaskani-pezeskiyan-ile-bm-toplantilari-sirasinda-gorusmeye-acik-oldugunu-bildirdi/4062655",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Trump, BM Genel Kurulu toplantıları sırasında İran Cumhurbaşkanı Pezeşkiyan ile görüşmeye açık olduğunu bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-20T16:01:04.089952+00:00",
+  "type": "news",
+  "cluster_id": "c4396c665066a"
+ },
+ {
+  "title": "Trump tehdit etti, İran uyardı: 'Büyük şeyler olacak'",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd2pLVTMtLTIxMVE2NXd2djl6NXNBaG8wS2dDenhsazkyMlZTRUg5UmV5OHpVZTFVLWZtVnBaMnk0UG5SWWExZVBsbnhuTWF3UzdIM0x3WGdseTFsTlZaZl9RMGlqbnNPR3I0dnQtdUhmck5TLXEwa0xkOGNna0kwLUFTMjNvVV9obGFab1hiZkM?oc=5",
+  "source": "soL",
+  "summary_tr": "Trump, İran konusunda tehdit içeren açıklamalar yaptı; İran uyarıda bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-20T16:01:04.089952+00:00",
+  "type": "news",
+  "cluster_id": "cdd529f492a78"
+ },
+ {
+  "title": "Russia wraps up first wartime parliamentary election with Kremlin dominance all but assured",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVTdMN1ZGRTNNQy1IQUk3RXhDYklxaHlDV2ptNHZfMWFQaGpaQmd6QkpwVUxpSjlBc0ZGWV9fMkFWeGQ0UEpnWGZONEZLc214amFHX3BnWUwtRTBKQTlScWVWRmFsNkxucWNCOFpJWXg0dVNWOFNabG1ObWlkRS1nbUhFRlU4Wl9HRVN6SGxDU19JUlUyenlIUl9MRWpsbUs3NEZFRGpGU3Y?oc=5",
+  "source": "AP",
+  "summary_tr": "Rusya, savaş sırasında ilk kez düzenlediği parlamento seçimini tamamladı; Kremlin hakimiyeti neredeyse kesinleşti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-20T16:01:04.089952+00:00",
+  "type": "news",
+  "cluster_id": "c437c9723a83d"
+ },
+ {
+  "title": "Macron, ABD'nin Grönland'da \"kalıcı güvenlik kontrolü\" için Danimarka ile vardığı anlaşmadan memnun",
+  "link": "https://www.aa.com.tr/tr/dunya/macron-abdnin-gronlandda-kalici-guvenlik-kontrolu-icin-danimarka-ile-vardigi-anlasmadan-memnun/4062643",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Macron, ABD'nin Grönland'da Danimarka ile yaptığı 'kalıcı güvenlik kontrolü' anlaşmasından memnun olduğunu belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-20T16:01:04.089952+00:00",
+  "type": "news",
+  "cluster_id": "cee961a3932e5"
+ },
+ {
+  "title": "Trump, zafer takı projesinin \"üst düzey bir askeri kompleks\" olacağını belirtti",
+  "link": "https://www.aa.com.tr/tr/dunya/trump-zafer-taki-projesinin-ust-duzey-bir-askeri-kompleks-olacagini-belirtti/4062637",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Trump, Beyaz Saray yakınlarına yapacağı zafer takısının İHA ve keskin nişancılar içeren 'üst düzey askeri kompleks' olacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-20T16:01:04.089952+00:00",
+  "type": "news",
+  "cluster_id": "c3e02d2c42d7e"
+ },
+ {
   "title": "Rusya, Ukrayna'nın Kramatorsk kentini hedef aldı",
   "link": "https://www.sozcu.com.tr/rusya-ukrayna-nin-kramatorsk-kentini-hedef-aldi-p359954",
   "source": "Sözcü",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-11T08:01:10.384058+00:00",
   "type": "news",
   "cluster_id": "c10f4c82f758d"
- },
- {
-  "title": "Akaryakıta bir zam daha: Motorinin litresi 90 liraya yaklaşacak",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOEw3c1JSYjJnN0pFeWZyMGxCUjJjOVdlckFXRDJVUTNheVV5X3VGZElpR2RDQzJvZDVsbEpLd2JlV3RSYmxYemNmMXluQ3FZT2M1dWtXWDNSdzZSNGxWM2dwMDBGb1hNWndRMVo0THJjUi0xTmpfTUZDeEpTXzB5ZTZ5bllSWkgtbm42UUJ1cWJUNHdjUVNEa0NianQ3QWNKcVE?oc=5",
-  "source": "soL",
-  "summary_tr": "Akaryakıta zam yapıldı; motorinin litresi 90 liraya yaklaşacak.",
-  "metric": "Motorin fiyatı: ~90 TL/liter",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-11T08:01:10.384058+00:00",
-  "type": "news",
-  "cluster_id": "c22a3da8552b6"
- },
- {
-  "title": "Akaryakıt fiyatlarına zam bekleniyor",
-  "link": "https://www.diken.com.tr/akaryakit-fiyatlarina-zam-bekleniyor-2/?utm_source=rss&utm_medium=rss&utm_campaign=akaryakit-fiyatlarina-zam-bekleniyor-2",
-  "source": "Diken",
-  "summary_tr": "Brent petroldeki dalgalanmalarla akaryakıt fiyatlarına zam bekleniyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-11T08:01:10.384058+00:00",
-  "type": "news",
-  "cluster_id": "cc704ac897309"
- },
- {
-  "title": "Tarımda iki ürünün ekimi yasaklanacak",
-  "link": "https://www.sozcu.com.tr/tarimda-iki-urunun-ekimi-yasaklanacak-p344310",
-  "source": "Sözcü",
-  "summary_tr": "2027'den itibaren havza ürün deseni dışındaki ürünlerin ekilmesi yasaklanacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-11T08:01:10.384058+00:00",
-  "type": "news",
-  "cluster_id": "ce018fb970dbc"
- },
- {
-  "title": "Çerçeve Yasayı kimler imzaladı kimler imzalamadı, imzalamayan 31 milletvekili kim?",
-  "link": "https://www.sozcu.com.tr/cerceve-yasayi-kimler-imzaladi-kimler-imzalamadi-imzalamayan-31-milletvekili-kim-p344275",
-  "source": "Sözcü",
-  "summary_tr": "Çerçeve Yasa TBMM'de kabul edilerek yasalaştı; 31 milletvekili yasaya imza atmadı, terörsüz Türkiye sürecinin yasal zemini oluşturuldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-11T07:01:11.308458+00:00",
-  "type": "news",
-  "cluster_id": "ca9e6dbf91746"
- },
- {
-  "title": "Akaryakıta dev zam: Tüm zamanların rekoru kırılacak",
-  "link": "https://www.sozcu.com.tr/akaryakita-dev-zam-tum-zamanlarin-rekoru-kirilacak-p344272",
-  "source": "Sözcü",
-  "summary_tr": "Döviz kuru ve brent petrol fiyatlarındaki dalgalanmalar nedeniyle akaryakıtta dev zam dalgası gündeme geldi, tüm zamanların rekorunu kıracağı belirtiliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-11T07:01:11.308458+00:00",
-  "type": "news",
-  "cluster_id": "c222069001c23"
- },
- {
-  "title": "'Çerçeve yasa'ya hangi milletvekili ne oy verdi?",
-  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ0xoUEVULWNmWGdRMEpHT3ZhMHo5YlFjQUVJSGFpQ1NQQkF1aHFnUnRYeTU5dzg3eW9XMW93dGxBTlhwRlVsTVBqemplZDVLRVNIRmtucFpudm5od0RvWmx4QTdINEpXRGE1Zl94aW1GV3VUZXhkMWg1Q0tPcHN2RWg1ZUlZRGNIZ3ln?oc=5",
-  "source": "soL",
-  "summary_tr": "Çerçeve Yasa oylamasının detaylı sonuçları açıklandı; her milletvekili ve oy verme tercihleri kamuya açılmış.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-11T07:01:11.308458+00:00",
-  "type": "news",
-  "cluster_id": "c645078e4a6fe"
  }
 ]
