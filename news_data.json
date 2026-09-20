@@ -1,5 +1,77 @@
 [
  {
+  "title": "SPK'den kritik değişiklik: Tasfiye süresini 6 aya çıkardı",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/spk-den-kritik-degisiklik-tasfiye-suresini-6-aya-cikardi-2539395",
+  "source": "Cumhuriyet",
+  "summary_tr": "SPK, yatırım fonlarının tasfiye süresini 3 aydan 6 aya uzattı.",
+  "metric": "Tasfiye süresi 3 ay -> 6 ay",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-20T22:01:03.121640+00:00",
+  "type": "news",
+  "cluster_id": "cca39b6051f67"
+ },
+ {
+  "title": "Fon tasfiyelerinde tasfiye süresi 6 aya çıkarıldı",
+  "link": "https://www.sozcu.com.tr/fon-tasfiyelerinde-sure-uzatildi-p360021",
+  "source": "Sözcü",
+  "summary_tr": "SPK, tasfiye edilecek fonların tasfiye süresini 3 aydan 6 aya çıkardı.",
+  "metric": "Tasfiye süresi 3 ay -> 6 ay",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-20T22:01:03.121640+00:00",
+  "type": "news",
+  "cluster_id": "c825644e50d54"
+ },
+ {
+  "title": "SPK, fonların tasfiyesinde süreyi 6 aya çıkardı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/spk-fonlarin-tasfiyesinde-sureyi-6-aya-cikardi/4062821",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "SPK, yatırım fonlarının tasfiye süresini 3 aydan 6 aya çıkardı.",
+  "metric": "Tasfiye süresi 3 ay -> 6 ay",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-20T22:01:03.121640+00:00",
+  "type": "news",
+  "cluster_id": "ca043deff9b29"
+ },
+ {
+  "title": "SPK’den fon tasfiyesi kararı: Süre 6 aya çıkarıldı",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ2s4eTdtTTl0UXFVRDUyeU04bVdXQXlTR1R6Y3ZJM0lFUHVUd2JPRWE4RG0wZkZ2V2h2bEV3eEF2bWZBUEtSRWxTTUZlSmNLNTYzYjZXdFBicTMzd1kxX2NaN3FXQnIyb2RqOXl4WklNQ1RreGVEOTRJTm5NWEs5UGtzazRVQmlQQ1l2djhQbw?oc=5",
+  "source": "soL",
+  "summary_tr": "SPK, fon tasfiyesi süresi 3 aydan 6 aya çıkarıldı.",
+  "metric": "Tasfiye süresi 3 ay -> 6 ay",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-20T22:01:03.121640+00:00",
+  "type": "news",
+  "cluster_id": "c873639c836d4"
+ },
+ {
+  "title": "'Fon soruşturması' genişliyor: Boykot yapanlara 'vatan haini' diyen Özkan da gözaltına alındı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/fon-sorusturmasi-genisliyor-boykot-yapanlara-vatan-haini-diyen-ozkan-da-gozaltina-alindi-2539393",
+  "source": "Cumhuriyet",
+  "summary_tr": "Fon piyasası soruşturmasında Tera Yatırım Yönetim Kurulu üyeleri Bülent Uygun ve Abdulkadir Özkan gözaltına alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-20T22:01:03.121640+00:00",
+  "type": "news",
+  "cluster_id": "c3820972a68b4"
+ },
+ {
+  "title": "Sermaye piyasası işlemleri soruşturmasında 2 gözaltı daha",
+  "link": "https://www.trthaber.com/haber/turkiye/sermaye-piyasasi-islemleri-sorusturmasinda-2-gozalti-daha-957464.html",
+  "source": "TRT Haber",
+  "summary_tr": "Sermaye piyasası işlemleri soruşturmasında Tera Yatırım Yönetim Kurulu üyeleri gözaltına alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-20T22:01:03.121640+00:00",
+  "type": "news",
+  "cluster_id": "ca919c71fdc18"
+ },
+ {
   "title": "Rising gas prices frustrate voters. Trump says it's an 'inexpensive price to pay' for the Iran war",
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUTVlR0MwV3NwMlZPbks5bzZXdlh3c0tmY201LVJIT20xTWNVRl96VkFrcGxoRHk4dG4yem5GRjJFSU1qNWljdFE0U1o5Y3R2X05JTS1IOWQ5RW5hOHVsNDFIOXpvcWpSZlM2YVFCejF6OGV4SnlsSEVlSzkwYkxkNHNwdmRfR1paVlhLXy1jWWNuWGYxcmFxcnZtR3NEWkpGeG50SEhvRkt1S2JG?oc=5",
   "source": "AP",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-11T13:01:15.074058+00:00",
   "type": "news",
   "cluster_id": "c85b6a6858766"
- },
- {
-  "title": "İran'da cinsel saldırıya direnen kadın idam edildi",
-  "link": "https://www.sozcu.com.tr/iran-da-cinsel-saldiriya-direnen-kadin-idam-edildi-p344395",
-  "source": "Sözcü",
-  "summary_tr": "İran'da cinsel saldırıya direnen 23 yaşındaki Marziye Niyeri idam edildi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-11T13:01:15.074058+00:00",
-  "type": "news",
-  "cluster_id": "c85b6a6858766"
- },
- {
-  "title": "15 ülke Türkiye'den kapış kapış alıyor: İşte 7 ayda 95 milyon dolar kazandıran o balık",
-  "link": "https://www.sozcu.com.tr/15-ulke-turkiye-den-kapis-kapis-aliyor-iste-7-ayda-95-milyon-dolar-kazandiran-o-balik-p344397",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye'nin Doğu Karadeniz'den yapılan somonu ihracatı ocak-temmuz döneminde 95,2 milyon doları aştı; 15 ülkeye gönderildi.",
-  "metric": "Türk somonu ihracatı (7 ay) 95,2 milyon dolar",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-11T13:01:15.074058+00:00",
-  "type": "news",
-  "cluster_id": "c6f81491d33d9"
- },
- {
-  "title": "Sigorta ve emeklilik sektörünün aktif büyüklüğü 4,4 trilyon liraya ulaştı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/sigorta-ve-emeklilik-sektorunun-aktif-buyuklugu-4-4-trilyon-liraya-ulasti/4024227",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye'nin sigorta ve emeklilik sektörü 2026 ilk 6 ayında toplam aktif büyüklüğünü 4,4 trilyon liraya çıkardı.",
-  "metric": "Sigorta-emeklilik aktif büyüklüğü 4,4 trilyon TL",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-11T13:01:15.074058+00:00",
-  "type": "news",
-  "cluster_id": "cf062391212af"
- },
- {
-  "title": "'Çerçeve yasa' onaylandı: TBMM'deki tarihi günden kareler",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/cerceve-yasa-onaylandi-tbmm-deki-tarihi-gunden-kareler-2528228",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM, 'Terörsüz Türkiye' adı verilen yeni çözüm süreci kapsamında 'Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun' (çerçeve yasa) 467 kabul oyu ile yasa çıkarmıştır.",
-  "metric": "",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-08-11T12:01:18.802493+00:00",
-  "type": "news",
-  "cluster_id": "c6a01dec70a1d"
- },
- {
-  "title": "AK Parti Sözcüsü Çelik: 467 kabul oyu, siyasi tarih açısından hem sayısal hem de siyasal bir niteliğe işaret ediyor",
-  "link": "https://www.aa.com.tr/tr/gundem/ak-parti-sozcusu-celik-467-kabul-oyu-siyasi-tarih-acisindan-hem-sayisal-hem-de-siyasal-bir-nitelige-isaret-ediyor/4024171",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "AK Parti Sözcüsü Çelik, çerçeve yasasının 467 kabul oyu almasının Cumhuriyet tarihi açısından sayısal ve siyasal nitelik taşıdığını belirtmiştir.",
-  "metric": "",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-08-11T12:01:18.802493+00:00",
-  "type": "news",
-  "cluster_id": "c024e829484e2"
- },
- {
-  "title": "Zelenski: Rusya, Ukrayna'yı vurmak için Kuzey Kore füzelerini kullanıyor",
-  "link": "https://www.trthaber.com/haber/dunya/zelenski-rusya-ukraynayi-vurmak-icin-kuzey-kore-fuzelerini-kullaniyor-953649.html",
-  "source": "TRT Haber",
-  "summary_tr": "Ukrayna Devlet Başkanı Zelenski, Rusya'nın Ukrayna'yı vurmak için Kuzey Kore füzelerini kullandığını açıklamıştır.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-11T12:01:18.802493+00:00",
-  "type": "news",
-  "cluster_id": "c82d07db416ff"
  }
 ]
