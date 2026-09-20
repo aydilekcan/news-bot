@@ -1,5 +1,17 @@
 [
  {
+  "title": "Günde 15 bin kişi devletten yardım bekliyor",
+  "link": "https://www.sozcu.com.tr/gunde-15-bin-kisi-devletten-yardim-bekliyor-p359797",
+  "source": "Sözcü",
+  "summary_tr": "2025'te devletten yardım talep edenlerin sayısı 679 bin 967 kişi arttı; günlük 15 bin kişi yardım bekliyor.",
+  "metric": "Yardım talep eden kişi sayısı +679.967",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-09-20T03:01:02.296474+00:00",
+  "type": "news",
+  "cluster_id": "c9eea423abd14"
+ },
+ {
   "title": "YENİ Parti’li vekiller, saha çalışmalarında gördüklerini anlattı: ‘İsim değil, geçim sıkıntısı var’",
   "link": "https://www.cumhuriyet.com.tr/turkiye/yeni-parti-li-vekiller-saha-calismalarinda-gorduklerini-anlatti-isim-degil-gecim-sikintisi-var-2539112",
   "source": "Cumhuriyet",
@@ -59986,17 +59998,5 @@
   "ts": "2026-08-10T16:01:09.818130+00:00",
   "type": "news",
   "cluster_id": "c5c740d219ce9"
- },
- {
-  "title": "Turkey deliberates law offering conditional amnesty to PKK militants",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV3Y3VnFNbmZ6eHBnaElCekJVMkJTcGxZSWZtaDFmU3JHYVVSZGVMajlpSjd3ZGlMVGljMkRQZTg3V3hNaE02M2JGTVB3ejk1RU01UUJnNmtTMUVFQ0NkQjJlV1ktLTZjMEFMemNqZWtWTEthVWUtMUw5Qk9uczI0ZU5QeGk2OTFVM1pEbFNsUi1HaGpidUxTYTAyNEpISTZGY0F1bA?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Türkiye, PKK militanlarına koşullu af sunan bir yasa tasarısı üzerine tartışmalar yürütüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-10T16:01:09.818130+00:00",
-  "type": "news",
-  "cluster_id": "c0557d7bccfb2"
  }
 ]
