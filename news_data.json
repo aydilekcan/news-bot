@@ -1,5 +1,53 @@
 [
  {
+  "title": "Russian election, cast as test of support for Ukraine war, enters final day",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWF9NeWpBYnEyU1JJdWppTldhbFJ1RDR0emoxZ1ZyNTE0WF8xTW1VTE5lb2dDYkFyUS1BVU9NdzRxYnpqdXNHVk1KWU42RTZvVy1uQXBoaDBNQ2pWQVJUY2xtTGtyMDdMMjhYdG1jbHVkYUhOaEhXcDVmYlo5Q2NWcVRfZHlmZnRKamd1YlRPOFN3VlE5OFlfWEVHbmFDenU3VzFZVWNGQVlhbkxXWjZmc25R?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya'da Ukrayna savaşına destek düzeyinin test edildiği seçimler son gününe girdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-20T06:01:09.470603+00:00",
+  "type": "news",
+  "cluster_id": "caf41f8eefffc"
+ },
+ {
+  "title": "Zeynep Aktaş: Fonlardan haftalık bazda net 275 milyar liralık çıkış",
+  "link": "https://www.diken.com.tr/zeynep-aktas-fonlardan-haftalik-bazda-net-275-milyar-liralik-cikis/?utm_source=rss&utm_medium=rss&utm_campaign=zeynep-aktas-fonlardan-haftalik-bazda-net-275-milyar-liralik-cikis",
+  "source": "Diken",
+  "summary_tr": "Yatırım fonlarından haftalık bazda net 275 milyar lira çıkış yaşanıyor.",
+  "metric": "Fonlardan haftalık çıkış 275 milyar TL",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-20T06:01:09.470603+00:00",
+  "type": "news",
+  "cluster_id": "c464bde231c58"
+ },
+ {
+  "title": "Gürkan Akgüneş | Kabzımal operasyonuyla gıda ucuzlayacak mı?",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZUJjSUFNemN1dlhfUUJOMFBHUzZkSWJCRHNxeTJjZlIteFkzU2dkZV9PcGNvM29zdC1GVFpuV3p4bGdLNFRGNmhNOWNwVzNMcVlTSG83UndXNWNtNE9QSm11ZW5JRVpFSDRfQXIwcEtFdVV0WnpNdHF0SWlFTUNPYkt1LS1xLWs5eXVUdl9LMFk0TVJBQ2c?oc=5",
+  "source": "T24",
+  "summary_tr": "Kabzımal operasyonunun gıda fiyatlarını düşürüp düşürmeyeceği analiz ediliyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-20T06:01:09.470603+00:00",
+  "type": "news",
+  "cluster_id": "c147cfd2a16e4"
+ },
+ {
+  "title": "China's CXMT says new memory-chip platform enters mass production",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLXQwT0R1TTBfLVJQNVRFbHdPV0hVRk9XTy1QVXRLZDhMbkFBazRWVzE0NXYzUVdJX0J3YTdCSzU1Q3FMVjVZTjJuUGIwT3lRTldsVTRfNi00eDVNU1JDTFNLaks0Z0M0dTlYb010S0I5RkVoc1prLXFnQkoxeEUwcmd2WWdZR2otbVBybEhKVlRjbkkzRF9mWFdZTUlUYjBMZW1BYXpxa3JXRS1WUHBQNUw3VDR0YjJvRkNv?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin'in CXMT şirketi yeni hafıza çip platformunun seri üretime başladığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-20T06:01:09.470603+00:00",
+  "type": "news",
+  "cluster_id": "cf47fb1af758b"
+ },
+ {
   "title": "ABD, Ortadoğu'da dört ülke için güvenlik uyarısında bulundu",
   "link": "https://www.diken.com.tr/abd-ortadoguda-dort-ulke-icin-guvenlik-uyarisinda-bulundu/?utm_source=rss&utm_medium=rss&utm_campaign=abd-ortadoguda-dort-ulke-icin-guvenlik-uyarisinda-bulundu",
   "source": "Diken",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-10T17:01:18.148920+00:00",
   "type": "news",
   "cluster_id": "cc54e87f8da5b"
- },
- {
-  "title": "ABD Dışişleri Bakanlığı, Trump döneminde 175 binden fazla vizeyi iptal etti",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-disisleri-bakanligi-trump-doneminde-175-binden-fazla-vizeyi-iptal-etti/4023492",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD, Trump döneminde 175 binden fazla vizeyi 'koşul ihlali' gerekçesiyle iptal etti.",
-  "metric": "Vize iptal sayısı: 175.000+",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-10T17:01:18.148920+00:00",
-  "type": "news",
-  "cluster_id": "cc54e87f8da5b"
- },
- {
-  "title": "Swedish security service says it broke up Russian spy plot",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcEFPNHFDYjhabjlIdmttTXpNenRWaUlJMHFjbTBjUnJLb3hyTm5IQktaU1FycVdWek1xYTF3TS1uYnhtYTJ6dk1RdDVNQjloTGhTT0J5UlBHSGNRaXhZdDJzZGxvRUdNNE1IWVdEQmxRekZ2cWpKdUpVeVdRbDBXbGhNTXNsbkU4X1BteTZtUFBRN0hvVHRMV1JDTEtTSHd0cWc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İsveç güvenlik servisi, Rusya tarafından organize edilen bir casusluk komplosu çözdüğünü duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-10T17:01:18.148920+00:00",
-  "type": "news",
-  "cluster_id": "cf4ff8903bdd2"
- },
- {
-  "title": "Colombia earthquake kills at least 22 as buildings collapse in several cities",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQm11YVZfbDU1RnZ6SmtvZUJDX3JZT0JpajE4MkV2TzZsRVZhRW05X1JjUnU3a093elpuM1pIdjdKa2dhSkdLY1FtYWhkd3FBSGNLcHloc0d2ck9ESmtNOG5PRDlCQkVKLTlOMEpwbl9adkozZmppWFVvbUIxV3d6WDk5WE5VcDgwazIzajlaQlZtdXA5YVE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Kolombiya'da meydana gelen deprem en az 22 kişinin ölümüne ve birkaç şehirde bina çökmelerine neden oldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-10T17:01:18.148920+00:00",
-  "type": "news",
-  "cluster_id": "c7b76d268b3d9"
- },
- {
-  "title": "UEFA, CONCACAF and AFC accuse FIFA of 'deception' and 'breach of trust' over World Cup plans",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVXJCME51SU1HS2NsdmdyWDYxeXRWaFF3QVBfTDdGWGNJejZYdEtJZTUzaTZlSjA5WHZxSzc5RXF2blhlcWctVzZia2NtRDVsQlRFSFIxTUVsSmNORzItVk15WDdfd0dYTzFaQWJqcUpIRS00Z0JDOFk4YXNESjRfcldvZTVNNFZKcEVYNzhVaUQ2NDl5SE5IelVrRjJGLUdGb1JBSg?oc=5",
-  "source": "AP",
-  "summary_tr": "UEFA, CONCACAF ve AFC, FIFA'yı Dünya Kupası planları konusunda 'aldatma' ve 'güven ihlali'yle suçladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-10T17:01:18.148920+00:00",
-  "type": "news",
-  "cluster_id": "c76f46b738c25"
  }
 ]
