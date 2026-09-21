@@ -1,5 +1,17 @@
 [
  {
+  "title": "Early results show Russia's main Kremlin party dominating tightly controlled parliamentary vote",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVTdMN1ZGRTNNQy1IQUk3RXhDYklxaHlDV2ptNHZfMWFQaGpaQmd6QkpwVUxpSjlBc0ZGWV9fMkFWeGQ0UEpnWGZONEZLc214amFHX3BnWUwtRTBKQTlScWVWRmFsNkxucWNCOFpJWXg0dVNWOFNabG1ObWlkRS1nbUhFRlU4Wl9HRVN6SGxDU19JUlUyenlIUl9MRWpsbUs3NEZFRGpGU3Y?oc=5",
+  "source": "AP",
+  "summary_tr": "Rusya'nın bugün yapılan milletvekili seçimlerinde Kremlin'e bağlı ana partisi ön seçimlerde baskın durumdadır.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-21T01:01:02.987122+00:00",
+  "type": "news",
+  "cluster_id": "cc41d91a96f9c"
+ },
+ {
   "title": "Ukrayna'dan Moskova'ya yüzlerce İHA ile 'en büyük' saldırı",
   "link": "https://www.bbc.com/turkce/articles/c207gpxnrggo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59986,17 +59998,5 @@
   "ts": "2026-08-11T16:01:08.902005+00:00",
   "type": "news",
   "cluster_id": "c47569621e0c5"
- },
- {
-  "title": "Akaryakıt zammı iptal edildi",
-  "link": "https://www.diken.com.tr/akaryakit-zammi-iptal-edildi/?utm_source=rss&utm_medium=rss&utm_campaign=akaryakit-zammi-iptal-edildi",
-  "source": "Diken",
-  "summary_tr": "Benzin ve motorin zamı iptal edildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-11T15:01:12.429348+00:00",
-  "type": "news",
-  "cluster_id": "ca67405a07d31"
  }
 ]
