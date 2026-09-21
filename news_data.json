@@ -1,5 +1,29 @@
 [
  {
+  "title": "ABD-İran hattında diplomasi beklentileri Brent petrolü 100 doların altına çekti",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abd-iran-hattinda-diplomasi-beklentileri-brent-petrolu-100-dolarin-altina-cekti/4063512",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Brent petrolü ABD-İran diplomasi beklentileriyle 100 dolar altına düştü. BM Genel Kurulu öncesi gerilimin çözümü fiyatları aşağı çekti.",
+  "metric": "Brent petrolü -> 100 doların altına",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-21T16:01:11.974424+00:00",
+  "type": "news",
+  "cluster_id": "cd3fa706c7c2f"
+ },
+ {
+  "title": "ABDİran hattında diplomasi beklentileri Brent petrolü 100 doların altına çekti",
+  "link": "https://www.trthaber.com/haber/ekonomi/abd-iran-hattinda-diplomasi-beklentileri-brent-petrolu-100-dolarin-altina-cekti-957551.html",
+  "source": "TRT Haber",
+  "summary_tr": "Brent petrolü ABD-İran diplomasi beklentileriyle 100 dolar altına düştü. BM Genel Kurulu öncesi gerilimin çözümü fiyatları aşağı çekti.",
+  "metric": "Brent petrolü -> 100 doların altına",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-21T16:01:11.974424+00:00",
+  "type": "news",
+  "cluster_id": "cd3fa706c7c2f"
+ },
+ {
   "title": "Fed's Goolsbee says strong demand may be adding to US inflation",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ0hYN2ZsV3h2enhYZkdSaVlTUFRLQnFaNnRmYVJ6LTZxdGN1SGowVDdHUUNRR3pCdXExRG9MdGFRN0dlWEdnWTVfd0NaWnRDRFo5T0pZSnZmRnJWdWxqdEljUVV3LUItRjdjbF9uUzBucjNUeWNBdlZXMDdWbE42elpySFJ6eURzTm02S0xqQWQ3bVFrVU4xLUp4MlpicnN6c19Qc1JTQzVUc1ZBVkVYV2wwS3BwRHNyZXZsZw?oc=5",
   "source": "Reuters",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-12T13:01:26.428364+00:00",
   "type": "news",
   "cluster_id": "ca0d0b4b000e0"
- },
- {
-  "title": "CHP'de mutlak butlan MYK'si atanan Kemal Kılıçdaroğlu başkanlığında toplandı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-de-mutlak-butlan-myk-si-atanan-kemal-kilicdaroglu-baskanliginda-toplandi-2528524",
-  "source": "Cumhuriyet",
-  "summary_tr": "CHP Genel Merkezi'nde Kemal Kılıçdaroğlu başkanlığında MYK toplandı; gündemde ihraçlar ve atamalar yer aldı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-12T13:01:26.428364+00:00",
-  "type": "news",
-  "cluster_id": "c8fbbdc6be2b4"
- },
- {
-  "title": "Dünyada 69 şehir incelendi İstanbul birinci oldu",
-  "link": "https://www.sozcu.com.tr/dunyada-69-sehir-incelendi-istanbul-birinci-oldu-p346732",
-  "source": "Sözcü",
-  "summary_tr": "Deutsche Bank araştırmasına göre 2020-2025 döneminde dünyada kira fiyatlarının en çok arttığı şehir İstanbul oldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-12T13:01:26.428364+00:00",
-  "type": "news",
-  "cluster_id": "c87a9f25a8e54"
  }
 ]
