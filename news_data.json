@@ -1,5 +1,29 @@
 [
  {
+  "title": "EXCLUSIVE: Fed's Musalem says more rate hikes likely needed to quell inflation",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVjJsZS0wTVZyNThsTkszYWk2c2xqN19RbzlWSnpqQ3cwZ0xCLWFTT0xaVkpkWkE5MmhDZFg1bHZzUW9EYlBuQVpUOVIydEJoVmR6OVl0ME5WNllZZTRVWXFMYy0yX19mNG9nYU5GbFpMdXdaeTA3ZDFiOXlTTlBGNDBmZ2VxR0I3UzE4M25hVGNZcDZXU0pXSFdXV1FIRVQ3dEh4XzRnLUZDN3do?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Fed yöneticisi Musalem: Enflasyonu kontrol altına almak için daha fazla faiz artışı gerekli.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-21T22:01:11.481874+00:00",
+  "type": "news",
+  "cluster_id": "c6dca0079c542"
+ },
+ {
+  "title": "Bakan Bolat: ABD ile ticaret hacmi geçen yıl 38 milyar doları aştı",
+  "link": "https://www.trthaber.com/haber/ekonomi/bakan-bolat-abd-ile-ticaret-hacmi-gecen-yil-38-milyar-dolari-asti-957582.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ticaret Bakanı Bolat: Türkiye-ABD ticaret hacmi geçen yıl 38 milyar doları aştı, bu yıl 42-43 milyar doların hedefleniyor.",
+  "metric": "Türkiye-ABD ticaret hacmi geçen yıl 38 milyar USD+",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-21T22:01:11.481874+00:00",
+  "type": "news",
+  "cluster_id": "cdf41655b1456"
+ },
+ {
   "title": "Hedef Yatırım Bankası'nın yurt dışına 2 milyar liralık işlemi durduruldu",
   "link": "https://www.diken.com.tr/hedef-yatirim-bankasinin-yurt-disina-2-milyar-liralik-islemi-durduruldu/?utm_source=rss&utm_medium=rss&utm_campaign=hedef-yatirim-bankasinin-yurt-disina-2-milyar-liralik-islemi-durduruldu",
   "source": "Diken",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-12T17:01:08.291795+00:00",
   "type": "news",
   "cluster_id": "c5dfac4593930"
- },
- {
-  "title": "Devlet Bahçeli’den çerçeve yasa açıklaması: “Zaman bizi haklı çıkardı”",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUGdEY0xlcWl4VnJoTEx0SmRuMFREWFFsY2ZURllUSS1oZE9EQWJ4Q0VRUlJUSFNqbHFLMDZKSFctZTVsYlJyQXhVaHBnRjRtMkI3YUNKSTduTEl3NF9lRmNaOTFXMTY5OXk2dllqS1AzcVR4LTlWZTM1WDFkVF95Qg?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "MHP Lideri Devlet Bahçeli, çerçeve yasa hakkında açıklama yaptı; 'zaman bizi haklı çıkardı' dedi.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-12T17:01:08.291795+00:00",
-  "type": "news",
-  "cluster_id": "c417369cd3099"
- },
- {
-  "title": "Bahçeli’den ‘çerçeve yasa’ açıklaması: ‘Kaybedecek vaktimiz yoktur’",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUS1CcUtQQjFNTWhsWmpFTTk5QlNPYnRrSzc3OWdWSU5FUHJSTGNqdjJWei00T1pMcWVTMEFYajIzUHpaa09DRWFTd3k5MnZQRk9wRm03Zjh6RFBvckdVcHVHRGgzS2FiSWt4YUFPQmRkVVRTMlJkNVBqX1ZoZnZOLThLenBuUlpkVExmVkhpcnJTXzFOOWw4YURHVDBVUVVl?oc=5",
-  "source": "soL",
-  "summary_tr": "Bahçeli, çerçeve yasa konusunda 'kaybedecek vaktimiz yoktur' açıklaması yaptı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-12T17:01:08.291795+00:00",
-  "type": "news",
-  "cluster_id": "c460d3a12aab5"
  }
 ]
