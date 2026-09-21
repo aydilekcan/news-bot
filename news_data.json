@@ -1,5 +1,53 @@
 [
  {
+  "title": "Fed's Goolsbee says strong demand may be adding to US inflation",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ0hYN2ZsV3h2enhYZkdSaVlTUFRLQnFaNnRmYVJ6LTZxdGN1SGowVDdHUUNRR3pCdXExRG9MdGFRN0dlWEdnWTVfd0NaWnRDRFo5T0pZSnZmRnJWdWxqdEljUVV3LUItRjdjbF9uUzBucjNUeWNBdlZXMDdWbE42elpySFJ6eURzTm02S0xqQWQ3bVFrVU4xLUp4MlpicnN6c19Qc1JTQzVUc1ZBVkVYV2wwS3BwRHNyZXZsZw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Fed yöneticisi Goolsbee, güçlü talebin ABD enflasyonuna katkı yapabileceğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-21T15:01:13.291845+00:00",
+  "type": "news",
+  "cluster_id": "c7856fc9ba9d5"
+ },
+ {
+  "title": "TMO, bu yıl 12,3 milyon ton hububat aldı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/tmo-bu-yil-12-3-milyon-ton-hububat-aldi/4063467",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "TMO bu yıl 12,3 milyon ton hububat aldı ve çiftçilere 180 milyar lira ödedi.",
+  "metric": "Hububat alımı: 12,3 milyon ton | Çiftçi ödemesi: 180 milyar TL",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-21T15:01:13.291845+00:00",
+  "type": "news",
+  "cluster_id": "c6aaa5796f4b5"
+ },
+ {
+  "title": "TMO, 12,3 milyon ton hububat aldı",
+  "link": "https://www.trthaber.com/haber/ekonomi/tmo-123-milyon-ton-hububat-aldi-957548.html",
+  "source": "TRT Haber",
+  "summary_tr": "TMO, 12,3 milyon ton hububat alımı için çiftçilere 180 milyar lira ödemiştir.",
+  "metric": "Hububat alımı: 12,3 milyon ton | Çiftçi ödemesi: 180 milyar TL",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-21T15:01:13.291845+00:00",
+  "type": "news",
+  "cluster_id": "c6aaa5796f4b5"
+ },
+ {
+  "title": "Akkuyu NGS'de birinci ünitenin kontrol odası hazır",
+  "link": "https://www.trthaber.com/haber/ekonomi/akkuyu-ngsde-birinci-unitenin-kontrol-odasi-hazir-957542.html",
+  "source": "TRT Haber",
+  "summary_tr": "Akkuyu Nükleer Güç Santrali'nin 1. ünitenin kontrol odası çalışmaya hazır hale gelmiştir.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-21T15:01:13.291845+00:00",
+  "type": "news",
+  "cluster_id": "cd534ef83dfc9"
+ },
+ {
   "title": "Dünya büyük savaşın kıyısından döndü: Yapay zeka iki ülkeyi burun buruna getirdi",
   "link": "https://www.sozcu.com.tr/dunya-buyuk-savasin-kiyisindan-dondu-yapay-zeka-iki-ulkeyi-burun-buruna-getirdi-p362238",
   "source": "Sözcü",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-12T13:01:26.428364+00:00",
   "type": "news",
   "cluster_id": "c87a9f25a8e54"
- },
- {
-  "title": "OPEC'in günlük ham petrol üretimi temmuzda 1,66 milyon varil arttı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/opecin-gunluk-ham-petrol-uretimi-temmuzda-1-66-milyon-varil-artti/4025302",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "OPEC'in günlük ham petrol üretimi temmuzda 1,66 milyon varil artarak 23,632 milyon variline yükseldi.",
-  "metric": "Ham petrol üretimi +1,66 milyon varil (23,632 milyon varil)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-12T13:01:26.428364+00:00",
-  "type": "news",
-  "cluster_id": "cde4fefa48dba"
- },
- {
-  "title": "VDK'nin yapay zeka destekli risk analiz sistemi \"MİHENK\" devrede",
-  "link": "https://www.aa.com.tr/tr/ekonomi/vdknin-yapay-zeka-destekli-risk-analiz-sistemi-mihenk-devrede/4025252",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Vergi Denetim Kurulu yapay zeka destekli risk analiz sistemi 'MİHENK'i devreye aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-12T13:01:26.428364+00:00",
-  "type": "news",
-  "cluster_id": "c2e849dc7bbf7"
- },
- {
-  "title": "Lübnan Meclisi genel af yasasını onayladı",
-  "link": "https://www.trthaber.com/haber/dunya/lubnan-meclisi-genel-af-yasasini-onayladi-953770.html",
-  "source": "TRT Haber",
-  "summary_tr": "Lübnan Meclisi genel af ve cezalarda istisnai indirim öngören yasa tasarısını onayladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-12T13:01:26.428364+00:00",
-  "type": "news",
-  "cluster_id": "c23ecbe4aa65f"
- },
- {
-  "title": "Candan Yıldız | Özgür Özel ‘Çerçeve yasaya yönetim olarak evet diyeceğiz’ demişti, Yeni Parti MYK’da üç fire verdi",
-  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUi1sM0xmZXZMNkQteC01RDhxbXl2NDZ5b0pJZDZXUk1NMEtKTE43c3dFeWNnblZUZ01yWS12SERyNU9JX0QxWU9JYkNOV2lIcmRMWjNhcGJuOFg4N1ptWklZWEdqa19KaU1GcHkzdnNzLUgyZ1hTLTE2a1BnNzZMcjExWmRIVXBsSE1Ob1dqTS1Wdl9rb0RucDZyc1o5U0ZDd194N3Zaa29JM0FmSUw0TXVKQ2ZTX1NpQ2YxQXFYdGFoVFIwam9jZmpycHFVdHlnbWVHZ2lfLXdnbkk?oc=5",
-  "source": "T24",
-  "summary_tr": "Yeni Parti MYK'sında Özgür Özel'in çerçeve yasaya 'evet' diyeceği açıklamasının ardından üç istifa yaşandı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-12T13:01:26.428364+00:00",
-  "type": "news",
-  "cluster_id": "c5445ee24ca7c"
  }
 ]
