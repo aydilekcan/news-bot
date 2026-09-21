@@ -1,5 +1,77 @@
 [
  {
+  "title": "İsmail Saymaz'dan çarpıcı açıklama: \"Fon Süper Yat'a aktı\"",
+  "link": "https://www.sozcu.com.tr/ismail-saymaz-dan-carpici-aciklama-fon-super-yat-a-akti-p362293",
+  "source": "Sözcü",
+  "summary_tr": "Muhammed Yarız'ın İsviçre hesabına 25 Mayıs 2026'de 14,5 milyon dolar aktarıldığı ortaya çıktı. Fon soruşturması kapsamında yeni detaylar açığa çıkıyor.",
+  "metric": "Para transferi: 14.500.000 dolar",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-21T18:01:10.203330+00:00",
+  "type": "news",
+  "cluster_id": "c50477949e6f1"
+ },
+ {
+  "title": "Evler elde kalınca fiyatları düşürmeye başladılar: Her 10 şirketten 4’ü indirime gitti",
+  "link": "https://www.sozcu.com.tr/evler-elde-kalinca-fiyatlari-dusurmeye-basladilar-her-10-sirketten-4-u-indirime-gitti-p362289",
+  "source": "Sözcü",
+  "summary_tr": "ABD'de ev talebinin zayıflaması inşaat şirketlerini indirime zorlıyor. Her 10 şirketten 4'ü fiyat düşürüyor.",
+  "metric": "Fiyat indirimi oranı: %40",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-21T18:01:10.203330+00:00",
+  "type": "news",
+  "cluster_id": "c270148fbfc40"
+ },
+ {
+  "title": "Global diesel prices hit record highs, further rises possible",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbTJkVThNdEJxOWJFWkljaTdsVjJZbTJlUXU4M19XSm1fMFVQSUZ1VUxRYjV6dkNaTE5FZnkwWndvX2UzcTlYVU5IV1JEVGUwSXprOTJEMjI3eTlJWkJodFVhWDFsX1N2akxCMm1pQ2hWbVRhR3huTjlPSTg5cGtwMjJpQ2J5RUd0SlZ1RUJWeW1lMXB2VXd0NWdYLWk3bmw1T3ZTclRLazF0RW1MVUFHZThB?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Küresel dizel fiyatları rekor seviyeye çıktı. Daha ileri artışlar mümkün görülüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-21T18:01:10.203330+00:00",
+  "type": "news",
+  "cluster_id": "c3292486548e5"
+ },
+ {
+  "title": "Muhammed Yarız'ın İsviçre'deki hesabına para gönderen iki kişi gözaltına alındı",
+  "link": "https://www.diken.com.tr/muhammed-yarizin-isvicredeki-hesabina-para-gonderen-iki-kisi-gozaltina-alindi/?utm_source=rss&utm_medium=rss&utm_campaign=muhammed-yarizin-isvicredeki-hesabina-para-gonderen-iki-kisi-gozaltina-alindi",
+  "source": "Diken",
+  "summary_tr": "Muhammed Yarız'ın İsviçre hesabına para gönderen iki kişi gözaltına alındı. Sermaye piyasası soruşturması devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-21T18:01:10.203330+00:00",
+  "type": "news",
+  "cluster_id": "cfb0bff03ec28"
+ },
+ {
+  "title": "Milyonlarca dolar para transferi tespit edilmişti: Fon soruşturmasında 2 yeni gözaltı!",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/milyonlarca-dolar-para-transferi-tespit-edilmisti-fon-sorusturmasinda-2-yeni-gozalti-2539678",
+  "source": "Cumhuriyet",
+  "summary_tr": "Fon soruşturması kapsamında Hamza Kablan ve Selim Dağbaşı gözaltına alındı. Milyonlarca dolar para transferi tespit edilmişti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-21T18:01:10.203330+00:00",
+  "type": "news",
+  "cluster_id": "c87a4476d161f"
+ },
+ {
+  "title": "Fon soruşturmasında iki yeni gözaltı: Milyonluk para trafiği mercek altında",
+  "link": "https://www.sozcu.com.tr/fon-sorusturmasinda-2-gozalti-daha-21-eylul-2026-p362288",
+  "source": "Sözcü",
+  "summary_tr": "Fon soruşturmasında iki yeni gözaltı. Tutuklu Muhammed Yarız'ın hesabına para gönderenler mercek altında.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-21T18:01:10.203330+00:00",
+  "type": "news",
+  "cluster_id": "ca83117f9517f"
+ },
+ {
   "title": "Moscow oil refinery output halted after Sunday drone attack, sources say",
   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM0ZqN3BCT1Q3OXIxNWE5Vl9GVHVTNHNJWUgwdEIwNnQ5OHlPN0lmc0R3RHRubUUzdFB0bGVVZTZrVURNMWRkREczMlNuaGgxS0pyLUVvZ0FRZVpFeE9XdExBcXJtWXM5c01wSVFCRndLelVBNnU3WFFOX2lUTE82NzdzdGxUOXRuTzZWclp1b0JFQUxqcmctUmNKUW1PZWUtOV93M2lnX2NPN2ItZXUtT2lGbHo5cHRrSHRPcFBKa0w?oc=5",
   "source": "Reuters",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-12T14:01:06.856056+00:00",
   "type": "news",
   "cluster_id": "c01f31da9e066"
- },
- {
-  "title": "F-16 aircraft crashes in training flight in Turkey, defence ministry says",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaXdCZ01PTGIxTWJuWmVlM3l6d3lROVl1Znl3Y195dGJfQzFSTHlOenZXX2dYR0dSZkJhQzg1VkJaQUlBT01uZkhjUHJhUDVrNDJsMzJHbFJmZExCSTl3cVhJMk9jN2pVSGtxQThkODBvZ21maVVFd0pMWjFkQU5qT1FzZlhBTWZBTWFWa3laZVJXbW9UcVppU0pHbEM2SVpmNmhvYUd1b29HWF9L?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Türkiye'de F-16 eğitim uçağı eğitim uçuşu sırasında düştü; pilot güvenle atlayarak kurtuldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-12T14:01:06.856056+00:00",
-  "type": "news",
-  "cluster_id": "c8ee2808f20a4"
- },
- {
-  "title": "Özgür Özel ve Veli Ağbaba'nın dokunulmazlık dosyası Meclis'te",
-  "link": "https://www.diken.com.tr/ozgur-ozel-ve-veli-agbabanin-dokunulmazlik-dosyasi-mecliste/?utm_source=rss&utm_medium=rss&utm_campaign=ozgur-ozel-ve-veli-agbabanin-dokunulmazlik-dosyasi-mecliste",
-  "source": "Diken",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel ve Veli Ağbaba'nın dokunulmazlık dosyaları TBMM'ye sevk edildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-12T13:01:26.428364+00:00",
-  "type": "news",
-  "cluster_id": "c1045cd678bd2"
- },
- {
-  "title": "ABD enflasyon verisi açıklandı: Altın fiyatları yükselişe geçti",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/abd-enflasyon-verisi-aciklandi-altin-fiyatlari-yukselise-gecti-2528529",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD tüketici ve çekirdek enflasyonu temmuzda piyasa beklentileriyle paralel şekilde geriledi; altın fiyatları yükselişe geçti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-12T13:01:26.428364+00:00",
-  "type": "news",
-  "cluster_id": "cf5b97c9ba9e2"
- },
- {
-  "title": "ABD'de enflasyon temmuzda aylık yüzde 0,1, yıllık yüzde 3,4 arttı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/abdde-enflasyon-temmuzda-aylik-yuzde-0-1-yillik-yuzde-3-4-artti/4025275",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD enflasyonu temmuzda aylık %0,1, yıllık %3,4 arttı ve beklentilerle paralel seyretti.",
-  "metric": "ABD enflasyonu (aylık) %0,1 / (yıllık) %3,4",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-12T13:01:26.428364+00:00",
-  "type": "news",
-  "cluster_id": "c260966cffcb9"
- },
- {
-  "title": "Borsada yükseliş hızlandı",
-  "link": "https://www.trthaber.com/haber/ekonomi/borsada-yukselis-hizlandi-953765.html",
-  "source": "TRT Haber",
-  "summary_tr": "Borsa İstanbul'da BIST 100 endeksi %2'den fazla artarak 2 hafta sonra ilk kez 14.000 puanı geçti.",
-  "metric": "BIST 100 >%2 artış (14.000 puan üstü)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-12T13:01:26.428364+00:00",
-  "type": "news",
-  "cluster_id": "c9ef8c0d01c0d"
- },
- {
-  "title": "TBMM'ye yeni dokunulmazlık dosyaları sevk edildi",
-  "link": "https://www.trthaber.com/haber/gundem/tbmmye-yeni-dokunulmazlik-dosyalari-sevk-edildi-953764.html",
-  "source": "TRT Haber",
-  "summary_tr": "TBMM'ye Yeni Parti Genel Başkanı Özgür Özel, Veli Ağbaba ve diğer milletvekillinin dokunulmazlık fezlekeyleri sevk edildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-12T13:01:26.428364+00:00",
-  "type": "news",
-  "cluster_id": "c288bc637f3a3"
  }
 ]
