@@ -1,5 +1,65 @@
 [
  {
+  "title": "Akaryakıtta tarihi zirve: Motorinde rakam ilk kez o seviyeyi aştı",
+  "link": "https://www.sozcu.com.tr/akaryakitta-tarihi-zirve-motorinde-rakam-ilk-kez-o-seviyeyi-asti-p362048",
+  "source": "Sözcü",
+  "summary_tr": "ABD'de motorin fiyatları galon başına 6,5050 dolara çıkarak tarihinde ilk kez bu seviyeyi aştı.",
+  "metric": "Motorin fiyatı (ABD) tarihinde ilk kez 6,5050 $/galon seviyesine ulaştı",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-21T06:01:07.308259+00:00",
+  "type": "news",
+  "cluster_id": "cd4af799ab998"
+ },
+ {
+  "title": "Sedat Başkavak: Ülke köylüsünün başı elektrik şirketleriyle dertte",
+  "link": "https://www.diken.com.tr/sedat-baskavak-ulke-koylusunun-basi-elektrik-sirketleriyle-dertte/?utm_source=rss&utm_medium=rss&utm_campaign=sedat-baskavak-ulke-koylusunun-basi-elektrik-sirketleriyle-dertte",
+  "source": "Diken",
+  "summary_tr": "Sedat Başkavak: Köylülerin elektrik şirketleriyle sorun yaşadığını, üretim ve dağıtım aşamalarında zararlarının devam ettiğini belirtti.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-21T06:01:07.308259+00:00",
+  "type": "news",
+  "cluster_id": "c338128872f39"
+ },
+ {
+  "title": "Borsa İstanbul'da manipülasyon operasyonu: 15 şüpheli gözaltında",
+  "link": "https://www.trthaber.com/haber/turkiye/borsa-istanbulda-manipulasyon-operasyonu-15-supheli-gozaltinda-957495.html",
+  "source": "TRT Haber",
+  "summary_tr": "Borsa İstanbul pay piyasasında manipülasyon operasyonunda 15 şüpheli gözaltına alındı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-09-21T06:01:07.308259+00:00",
+  "type": "news",
+  "cluster_id": "c3ac143592766"
+ },
+ {
+  "title": "TOKİ'nin indirim kampanyasında tarih belli oldu",
+  "link": "https://www.sozcu.com.tr/toki-nin-indirim-kampanyasinda-tarih-belli-oldu-p362052",
+  "source": "Sözcü",
+  "summary_tr": "TOKİ'nin geri ödemeleri devam eden konutlarda indirim kampanyası başlatılacak; tarih belirlendi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-21T06:01:07.308259+00:00",
+  "type": "news",
+  "cluster_id": "c21cd709385dd"
+ },
+ {
+  "title": "Gençlerde işsizlik oranı: %14,5",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVURiTFoyc3YtNGNtb28xRmx3QlYxUnZEZjVBa0JJY1B4SVM1Qm10dkZLLTNWRzN5NEhCa3pHd2hYbE13NGhvSVk3aXNkVDl3NmxoZllVczhldW9IRlU1VTNYemFPUWJCdzRwYjIwbk9HSWVTMHhkb3N3akM4ZHhiWDg0OThGVDZmSnRhWHBfcw?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%14,5",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-09-21T06:01:07.308259+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Fon soruşturması: İki Tera yöneticisi gözaltında",
   "link": "https://www.diken.com.tr/fon-sorusturmasi-iki-tera-yoneticisi-gozaltinda/?utm_source=rss&utm_medium=rss&utm_campaign=fon-sorusturmasi-iki-tera-yoneticisi-gozaltinda",
   "source": "Diken",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-11T20:01:06.526017+00:00",
   "type": "news",
   "cluster_id": "cdb294aa09773"
- },
- {
-  "title": "İran’dan Hürmüz Boğazı’nda yeni hamle: 'Düşman' gemilerine geçiş yasağı",
-  "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-hurmuz-bogazi-nda-yeni-hamle-dusman-gemilerine-gecis-yasagi-2528364",
-  "source": "Cumhuriyet",
-  "summary_tr": "İran Meclisi, 'düşman' ülkelere ait askeri gemilere Hürmüz Boğazı'nda geçiş yasağı getiren yasa hazırladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-11T20:01:06.526017+00:00",
-  "type": "news",
-  "cluster_id": "c6d7472ae58b0"
- },
- {
-  "title": "Hürmüz Boğazı'nda tehlikeli anlar: ABD ordusu saldırıya geçti, füzeler ateşlendi",
-  "link": "https://www.sozcu.com.tr/hurmuz-bogazi-nda-tehlikeli-anlar-abd-ordusu-saldiriya-gecti-fuzeler-ateslendi-p344507",
-  "source": "Sözcü",
-  "summary_tr": "Hürmüz Boğazı'nda ABD güçleri Panama bayraklı gemiyi hedef aldı, füze ateşlendi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-11T20:01:06.526017+00:00",
-  "type": "news",
-  "cluster_id": "c129103885aa9"
- },
- {
-  "title": "ABD Hürmüz Boğazı'nda bir gemiye daha müdahale ettiğini duyurdu",
-  "link": "https://www.trthaber.com/haber/dunya/abd-hurmuz-bogazinda-bir-gemiye-daha-mudahale-ettigini-duyurdu-953689.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD CENTCOM, Hürmüz Boğazı'nda İran ablukasını ihlal eden geminin dümen tertibatını hedef aldığını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-11T20:01:06.526017+00:00",
-  "type": "news",
-  "cluster_id": "cc0af3235d043"
- },
- {
-  "title": "İran Meclisi'nden Hürmüz Boğazı'na ilişkin yasa hazırlığı",
-  "link": "https://www.trthaber.com/haber/dunya/iran-meclisinden-hurmuz-bogazina-iliskin-yasa-hazirligi-953688.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Meclisi Ulusal Güvenlik Komisyonu Başkanı, Hürmüz Boğazı'na ilişkin 'düşman' ülkeleri sınırlandıran yasa hazırlamakta olduğunu açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-11T20:01:06.526017+00:00",
-  "type": "news",
-  "cluster_id": "ce3a495823bee"
- },
- {
-  "title": "Bakan Tekin'den 81 ilin eğitim müdürüne talimat: İki programa öncelik verilecek",
-  "link": "https://www.sozcu.com.tr/bakan-tekin-den-81-ilin-egitim-mudurune-talimat-iki-programa-oncelik-verilecek-p344505",
-  "source": "Sözcü",
-  "summary_tr": "Milli Eğitim Bakanı Yusuf Tekin, 81 ilin müdürüne 2026-2027 yılı için iki programa öncelik talimatı verdi.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-11T20:01:06.526017+00:00",
-  "type": "news",
-  "cluster_id": "ce8937ad38a44"
  }
 ]
