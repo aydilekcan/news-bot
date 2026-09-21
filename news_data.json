@@ -1,5 +1,77 @@
 [
  {
+  "title": "Erdoğan ile Trump hangi kritik konuları görüşecek?",
+  "link": "https://www.dw.com/tr/erdoğan-ile-trump-hangi-kritik-konuları-görüşecek/a-79356352?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Erdoğan New York'ta BM toplantıları için bulunuyor; Trump ile görüşmesi durumunda kritik konuları (Gazze, Suriye, ticaret) görüşecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-21T12:01:12.680763+00:00",
+  "type": "news",
+  "cluster_id": "ca4e86f05f4a9"
+ },
+ {
+  "title": "Fon krizinde yeni gözaltılar: Soruşturmada son durum ne?",
+  "link": "https://www.dw.com/tr/fon-krizinde-yeni-gözaltılar-soruşturmada-son-durum-ne/a-79350594?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Sermaye piyasalarındaki milyarlarca dolarlık fon krizinde SPK tasfiye sürecine girdi; yöneticiler para hareketleri takibe alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-21T12:01:12.680763+00:00",
+  "type": "news",
+  "cluster_id": "c0a799b774f18"
+ },
+ {
+  "title": "ABD ve Çin yeniden masada: Ticaret, yapay zekâ ve kritik mineraller",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWW9PM1d6aTFhb0tPU1ljUWFUZVhiUGh0d2E2M2JneVJuODV1YkpPR2trdUNLNDE4SVdwSTdYMWN2eVN6Z25vcTR0Tnd3UWZNVXRjUEhkNnFtdmV4dWNxUDhSWk5iMTQ5T0pVbnI1bjlMYV85R1kxSTJzZ3RoVlZ2SGxtdzI5MGkxal9GUzRJWWV5V3c4OUdEVXRUQi00RkRudTlXUnBR?oc=5",
+  "source": "soL",
+  "summary_tr": "ABD ve Çin ticaret, yapay zeka ve kritik mineraller konularında yeniden görüşmelere başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-21T12:01:12.680763+00:00",
+  "type": "news",
+  "cluster_id": "ce60c3b2522a2"
+ },
+ {
+  "title": "Bitcoin'de yükseliş hızlandı: 8,5 ayın en yüksek seviyesinde",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/bitcoin-de-yukselis-hizlandi-8-5-ayin-en-yuksek-seviyesinde-2539568",
+  "source": "Cumhuriyet",
+  "summary_tr": "Bitcoin son 8,5 ayın en yüksek seviyesi olan 84 bin dolara ulaştı; son bir ayda yaklaşık %15 değer kazandı.",
+  "metric": "Bitcoin 8,5 ayın düşük -> 84.000 USD (+%15 aylık)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-21T12:01:12.680763+00:00",
+  "type": "news",
+  "cluster_id": "c537b34cf7729"
+ },
+ {
+  "title": "AB veri kurumundan Google'a 403 milyon euro ceza",
+  "link": "https://www.trthaber.com/haber/dunya/ab-veri-kurumundan-googlea-403-milyon-euro-ceza-957537.html",
+  "source": "TRT Haber",
+  "summary_tr": "AB veri kurumu Google'a konum verilerini usulsüzce işlemesi nedeniyle 403 milyon euro ceza verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-21T12:01:12.680763+00:00",
+  "type": "news",
+  "cluster_id": "c97eefe058694"
+ },
+ {
+  "title": "ECB opens blockchain link to financial markets",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZUplN3d1UkJIeE40bnNjTHZjNk5qcThPM3JXSW8wNU9QSnhWLXRGTFpsZnVvV1dpZ0h5WFA2Qlk1MndSLXExVlBDeHN2eUxIV0szTFN0bUlGM3FOa09pek92S1haR2lRRHRYd0NJQXRlUXhLQ3NnTWJ2Tks1TEhyaGhvSEU4UVVkOXJmZ3pnNUhvR1FFVnBvSmRkcVc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ECB finansal piyasalara blockchain bağlantısını açtı; dijital varlık altyapısı genişletildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-21T12:01:12.680763+00:00",
+  "type": "news",
+  "cluster_id": "c05373c526e59"
+ },
+ {
   "title": "Katılımevim soruşturmasında 15 kişi gözaltına alındı",
   "link": "https://www.bbc.com/turkce/articles/cqkg08p7v814o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-12T10:01:25.026520+00:00",
   "type": "news",
   "cluster_id": "c604946071c81"
- },
- {
-  "title": "Putin says Russia will respond in kind if EU nations seize Russian vessels",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQakNBZk1WeHVZd2NFMWx4QS04YWNWZDd2OTdUeGtEbGI1WHNBR3FFd3huTllRR1BUTEdJMjhBRS1JeEpoSWdUNUhsOWtpa1NRV2ZJOFZ6RXJYVmU2QkNuNEFzcUQtMXZvS0V2SDViQnRUZXFHLXd0c0UwVUFRLVRxTVc1MmhXbmtPQjc0dm40ektkVXpMdXpUVUUyRVJDYnJ6d015Ulp2M0I3Mk1sOWdYTU5Sdw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Putin, AB ülkelerinin Rus gemilerine el koyması durumunda Rusya'nın karşılık vereceğini söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-12T10:01:25.026520+00:00",
-  "type": "news",
-  "cluster_id": "c176e8abcd7ec"
- },
- {
-  "title": "'Çerçeve yasa' sonrası ilk kriz... AKP Sözcüsü Çelik’ten Tülay Hatimoğulları’na tepki: 'Partimizi ve hükümetimizi hedef alan ifadeleri reddediyoruz'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/cerceve-yasa-sonrasi-ilk-kriz-akp-sozcusu-celik-ten-tulay-hatimogullari-na-tepki-partimizi-ve-hukumetimizi-hedef-alan-ifadeleri-reddediyoruz-2528486",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM Başkanı Numan Kurtulmuş, çerçeve yasanın 'genel af olmadığını' vurgulayarak TBMM oylamasından sonra hükümetin hukuki çerçevesini netleştirdi.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-12T10:01:25.026520+00:00",
-  "type": "news",
-  "cluster_id": "c08f582eca9d2"
- },
- {
-  "title": "Numan Kurtulmuş'tan 'çerçeve yasa' açıklaması: 'Bu bir genel af değil'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/numan-kurtulmus-tan-cerceve-yasa-aciklamasi-bu-bir-genel-af-degil-2528481",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM Başkanı Numan Kurtulmuş, çerçeve yasanın ulusal egemenlik ve devlet bütünlüğünü bozmayacağını vurgulayarak TBMM oylaması sonrası açıklama yaptı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-12T10:01:25.026520+00:00",
-  "type": "news",
-  "cluster_id": "cc60a83a28afc"
- },
- {
-  "title": "Piyasalarda 'ateşkes' rüzgarı esmeye başladı",
-  "link": "https://www.sozcu.com.tr/piyasalarda-ateskes-ruzgari-basladi-p346685",
-  "source": "Sözcü",
-  "summary_tr": "Altın fiyatları, ABD'de açıklanacak kritik TÜFE verisi öncesinde yükselişe geçti; ABD-İran ateşkesi uzatılmasının piyasalarda 'ateşkes rüzgarı' oluşturması bekleniyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-12T10:01:25.026520+00:00",
-  "type": "news",
-  "cluster_id": "c4049e22b924b"
- },
- {
-  "title": "Lübnan, İsrail'in gerilimi tırmandırmasına rağmen \"ateş altında\" müzakerelerde ısrarcı",
-  "link": "https://www.aa.com.tr/tr/dunya/lubnan-israilin-gerilimi-tirmandirmasina-ragmen-ates-altinda-muzakerelerde-israrci/4025071",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Lübnan, İsrail'in ateşkes ve çerçeve anlaşmalarını ihlal etmesine rağmen müzakere sürecini sürdürme konusunda ısrarcı kalmaya devam ediyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-12T10:01:25.026520+00:00",
-  "type": "news",
-  "cluster_id": "ccfd934b26963"
- },
- {
-  "title": "Denizüstü rüzgar YEKA ihalesi 2027'nin ilk çeyreğinde gerçekleştirilecek",
-  "link": "https://www.aa.com.tr/tr/ekonomi/denizustu-ruzgar-yeka-ihalesi-2027nin-ilk-ceyreginde-gerceklestirilecek/4025078",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Enerji Bakanı Alparslan Bayraktar, denizüstü rüzgar enerjisine dayalı Yenilenebilir Enerji Kaynak Alanları ihalesinin 2027'nin ilk çeyreğinde gerçekleşeceğini açıkladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-12T10:01:25.026520+00:00",
-  "type": "news",
-  "cluster_id": "ce68c0278c7c0"
  }
 ]
