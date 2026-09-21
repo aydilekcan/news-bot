@@ -1,5 +1,41 @@
 [
  {
+  "title": "Ekonomistler fonlarla risk alanın zararının kamu kaynaklarıyla kapatılmasına karşı",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/ekonomistler-fonlarla-risk-alanin-zararinin-kamu-kaynaklariyla-kapatilmasina-karsi-2539398",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ekonomistler, borsada manipülasyon soruşturması kapsamında fon şirketlerinin zararının kamu kaynağıyla kapatılmasına karşı çıktı. MASAK yöneticilerin hesap hareketlerini incelemeye başladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-21T02:01:03.973461+00:00",
+  "type": "news",
+  "cluster_id": "c7cb91fc55aea"
+ },
+ {
+  "title": "Patronlardan rektöre, eski büyükelçiden kamu bürokratlarına uzanan yönetim ağı",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/patronlardan-rektore-eski-buyukelciden-kamu-burokratlarina-uzanan-yonetim-agi-2539400",
+  "source": "Cumhuriyet",
+  "summary_tr": "Yüzlerce milyar liralık yedi fonun tasfiye sürecinde, yönetim ve risk kontrol kadrolarındaki patronlar, rektörler ve kamu bürokratlarından oluşan ağ ortaya çıktı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-21T02:01:03.973461+00:00",
+  "type": "news",
+  "cluster_id": "c6f5c21820088"
+ },
+ {
+  "title": "Diş hekimliğinde masa başı hesapları halk sağlığını tehdit ediyor",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/dis-hekimliginde-masa-basi-hesaplari-halk-sagligini-tehdit-ediyor-2539396",
+  "source": "Cumhuriyet",
+  "summary_tr": "Sağlık Bakanlığı 2026 yılı personel cetvelinde diş hekimi kadrolarında artış öngörse de, masa başı hesapları ağız ve diş sağlığı hizmetlerini tehdit ediyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-21T02:01:03.973461+00:00",
+  "type": "news",
+  "cluster_id": "c36d3972ba1ad"
+ },
+ {
   "title": "Early results show Russia's main Kremlin party dominating tightly controlled parliamentary vote",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVTdMN1ZGRTNNQy1IQUk3RXhDYklxaHlDV2ptNHZfMWFQaGpaQmd6QkpwVUxpSjlBc0ZGWV9fMkFWeGQ0UEpnWGZONEZLc214amFHX3BnWUwtRTBKQTlScWVWRmFsNkxucWNCOFpJWXg0dVNWOFNabG1ObWlkRS1nbUhFRlU4Wl9HRVN6SGxDU19JUlUyenlIUl9MRWpsbUs3NEZFRGpGU3Y?oc=5",
   "source": "AP",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-11T16:01:08.902005+00:00",
   "type": "news",
   "cluster_id": "cc6e7031cc7f8"
- },
- {
-  "title": "Trump, suikast tehdidi nedeniyle Türkiye'den gizlice askeri uçakla ayrıldı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/trump-suikast-tehdidi-nedeniyle-turkiye-den-gizlice-askeri-ucakla-ayrildi-2528312",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Başkanı Trump, İran'dan gelen suikast tehdidi nedeniyle Ankara'dan askeri uçakla ayrıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-11T16:01:08.902005+00:00",
-  "type": "news",
-  "cluster_id": "c3db05cea875e"
- },
- {
-  "title": "Karadeniz'de gerilimi artıracak gelişme",
-  "link": "https://www.sozcu.com.tr/karadeniz-de-gerilimi-artiracak-gelisme-p344454",
-  "source": "Sözcü",
-  "summary_tr": "Rusya, Karadeniz'de Odessa'nın güneyinde Ukrayna'nın devriye botunu İHA'larla vurduğunu açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-11T16:01:08.902005+00:00",
-  "type": "news",
-  "cluster_id": "caa6f8d8b5da1"
- },
- {
-  "title": "İran-Çin Ticaret Odası Başkanı Hariri: \"Deniz ablukasının İran'a ekonomik zararı savaştan daha ağır olabilir\"",
-  "link": "https://www.aa.com.tr/tr/dunya/iran-cin-ticaret-odasi-baskani-hariri-deniz-ablukasinin-irana-ekonomik-zarari-savastan-daha-agir-olabilir/4024468",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran-Çin Ticaret Odası Başkanı, ABD'nin İran'a yönelik deniz ablukasının ekonomik zararının savaştan daha ağır olabileceğini belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-11T16:01:08.902005+00:00",
-  "type": "news",
-  "cluster_id": "c47569621e0c5"
  }
 ]
