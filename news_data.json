@@ -1,5 +1,65 @@
 [
  {
+  "title": "Katılımevim soruşturmasında 15 kişi gözaltına alındı",
+  "link": "https://www.bbc.com/turkce/articles/cqkg08p7v814o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "İstanbul Cumhuriyet Başsavcılığı, Katılımevim Tasarruf Finansman AŞ paylarında piyasa dolandırıcılığı iddiasıyla 15 kişiyi gözaltına aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-21T11:01:13.711259+00:00",
+  "type": "news",
+  "cluster_id": "cb23e64933f54"
+ },
+ {
+  "title": "İstanbul'da yargı süreçlerine müdahale edildiği iddiasına ilişkin 5 şüpheli tutuklandı",
+  "link": "https://www.aa.com.tr/tr/gundem/istanbulda-yargi-sureclerine-mudahale-edildigi-iddiasina-iliskin-5-supheli-tutuklandi/4063242",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İstanbul'daki farklı adliyelerde yargı süreçlerine menfaat karşılığında müdahale edildiği iddiasıyla 5 şüpheli tutuklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-21T11:01:13.711259+00:00",
+  "type": "news",
+  "cluster_id": "c10593e673199"
+ },
+ {
+  "title": "Borsada işlem gören dev şirkete kayyum atandı",
+  "link": "https://www.sozcu.com.tr/borsada-islem-goren-dev-sirkete-kayyum-atandi-p362186",
+  "source": "Sözcü",
+  "summary_tr": "Borsa İstanbul'da işlem gören Vera Konsept Gayrimenkul Yatırım Ortaklığı A.Ş.'ne TMSF tarafından kayyum atandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-21T11:01:13.711259+00:00",
+  "type": "news",
+  "cluster_id": "c91815d3b115d"
+ },
+ {
+  "title": "Hedef Portföy'den yeni açıklama",
+  "link": "https://www.sozcu.com.tr/hedef-portfoy-den-yeni-aciklama-p362184",
+  "source": "Sözcü",
+  "summary_tr": "Hedef Portföy, TEFAS fonlarında likidite sorunu ve temerrüt bulunmadığını KAP'a bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-21T11:01:13.711259+00:00",
+  "type": "news",
+  "cluster_id": "c75da1404a06a"
+ },
+ {
+  "title": "Genç çiftlere 2 milyar 76 milyon liralık evlilik desteği",
+  "link": "https://www.trthaber.com/haber/ekonomi/genc-ciftlere-2-milyar-76-milyon-liralik-evlilik-destegi-957526.html",
+  "source": "TRT Haber",
+  "summary_tr": "Aile ve Sosyal Hizmetler Bakanlığı genç çiftlere evlilik desteği olarak 2 milyar 76 milyon lira sağladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-21T11:01:13.711259+00:00",
+  "type": "news",
+  "cluster_id": "ce709f1e46b8a"
+ },
+ {
   "title": "Rusya'daki seçimlerde sürpriz yok ama Kremlin'in sonuçları nasıl değerlendireceği önemli",
   "link": "https://www.bbc.com/turkce/articles/cm5ydr0kxp4xo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-12T10:01:25.026520+00:00",
   "type": "news",
   "cluster_id": "ce68c0278c7c0"
- },
- {
-  "title": "Motorine ÖTV indirimi bekleniyor",
-  "link": "https://www.trthaber.com/haber/ekonomi/motorine-otv-indirimi-bekleniyor-953742.html",
-  "source": "TRT Haber",
-  "summary_tr": "Hazine ve Maliye Bakanlığı, dezenflasyon sürecine katkı sağlamak amacıyla motorin üzerinden alınan ÖTV tutarında indirim hazırlamakta.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-12T10:01:25.026520+00:00",
-  "type": "news",
-  "cluster_id": "c6e4c8a91c137"
- },
- {
-  "title": "IEA: Küresel petrol arzı temmuzda günlük 2,4 milyon varil arttı",
-  "link": "https://www.trthaber.com/haber/dunya/iea-kuresel-petrol-arzi-temmuzda-gunluk-24-milyon-varil-artti-953741.html",
-  "source": "TRT Haber",
-  "summary_tr": "Uluslararası Enerji Ajansı, Körfez üreticilerinin temmuzda günlük 2,4 milyon varil petrole ek üretim devreye aldığını, küresel arz açısından pozitif sinyal verdiğini bildirdi.",
-  "metric": "Küresel petrol arzı (temmuz) +2,4 milyon varil/gün",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-12T10:01:25.026520+00:00",
-  "type": "news",
-  "cluster_id": "cc875a5956c9a"
- },
- {
-  "title": "Gümrükte vergi kaçağına geçit yok: 7 ayda 8,9 milyar ek tahakkuk ve para cezası",
-  "link": "https://www.trthaber.com/haber/ekonomi/gumrukte-vergi-kacagina-gecit-yok-7-ayda-89-milyar-ek-tahakkuk-ve-para-cezasi-953738.html",
-  "source": "TRT Haber",
-  "summary_tr": "Gümrük ve dış ticaret denetimlerinde 7 ayda 8,9 milyar lira ek tahakkuk ve para cezası uygulandığı, vergi kaçağına geçit verilmediği bildirildi.",
-  "metric": "Gümrük cezaları (7 ay) 8,9 milyar lira",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-12T10:01:25.026520+00:00",
-  "type": "news",
-  "cluster_id": "cefdd2f70edb3"
- },
- {
-  "title": "Kurtulmuş: Barışı sağladığımızda 'Türkiye Modeli' bütün dünyaya örnek olacak",
-  "link": "https://www.trthaber.com/haber/gundem/kurtulmus-barisi-sagladigimizda-turkiye-modeli-butun-dunyaya-ornek-olacak-953726.html",
-  "source": "TRT Haber",
-  "summary_tr": "TBMM Başkanı Kurtulmuş, Çerçeve Yasa'nın 467 oyla kabul edilmesine dair açıklama yaptı; barış süreci başlatılıyor.",
-  "metric": "Çerçeve Yasa: 467 oy ile kabul",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-08-12T09:01:14.236308+00:00",
-  "type": "news",
-  "cluster_id": "c18bcba28a647"
- },
- {
-  "title": "Temmuzda motorine yüzde 25 zam geldi",
-  "link": "https://www.sozcu.com.tr/temmuzda-motorine-yuzde-25-zam-geldi-p346668",
-  "source": "Sözcü",
-  "summary_tr": "Temmuzda motorin fiyatı %25 zamlanarak litresi 80 TL sınırına ulaştı; taşımacılık ve üretim sektörünü etkiledi.",
-  "metric": "Motorin zammı: +%25 (80 TL/litre)",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-12T09:01:14.236308+00:00",
-  "type": "news",
-  "cluster_id": "ccc3bbac2f5e2"
  }
 ]
