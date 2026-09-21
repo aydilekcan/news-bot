@@ -1032,6 +1032,12 @@
    "period": "",
    "ts": "2026-09-21T09:02:09.280511+00:00",
    "indicator_tr": "İthalaatta büyük ölçekli işletmelerin payı"
+  },
+  "tr_dis_ticaret_ihracat_buyuk_isletmeler": {
+   "value": "%46",
+   "period": "",
+   "ts": "2026-09-21T10:02:38.605596+00:00",
+   "indicator_tr": "İhracatın büyük ölçekli girişimler tarafından yapılan oranı"
   }
  },
  "seen_links": {
@@ -1318,6 +1324,7 @@
   "8375d6413d857609092fb873f81ed017": "2026-09-21T09:01:17.327950+00:00",
   "d6eda5244b0685f3aff627ba4f25bcd2": "2026-09-21T09:01:17.327950+00:00",
   "1faf3cc3dc14c558e1a3c2e573b4bb83": "2026-09-21T09:01:17.327950+00:00",
-  "19d1b05c9ac070b59b25ca8ee06fd522": "2026-09-21T09:01:17.327950+00:00"
+  "19d1b05c9ac070b59b25ca8ee06fd522": "2026-09-21T09:01:17.327950+00:00",
+  "fbb23f51882b82abe7073304d2a7d5a9": "2026-09-21T10:01:35.582817+00:00"
  }
 }
