@@ -1,5 +1,65 @@
 [
  {
+  "title": "Fon soruşturmasında gözaltı sayısı 17'ye yükseldi",
+  "link": "https://www.trthaber.com/haber/turkiye/fon-sorusturmasinda-gozalti-sayisi-17ye-yukseldi-957560.html",
+  "source": "TRT Haber",
+  "summary_tr": "Fon soruşturmasında gözaltı sayısı 17'ye yükseldi; tutuklu Muhammed Yarız'ın İsviçre hesabına 14,5 milyon dolar gönderimi tespit edildi.",
+  "metric": "Gözaltı sayısı 17",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-21T19:01:09.333091+00:00",
+  "type": "news",
+  "cluster_id": "c5ab2bf699252"
+ },
+ {
+  "title": "EXCLUSIVE: Trump approval falls to career low of 32% as high costs bite, Reuters/Ipsos poll finds",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2xXN3ZZR05LSzJLYVpOTFZTVlJkLWhnZUxnRDVlckVJT0pDN3RDRFJoTnJObVJGY0RYMGJLYUpGT0pNVUlrUFlBTVlzS0hNbUhWNk1lYzBNUEdRYmQwNy04X3ZHQzAzY1NGZDZxVEhsOTl3LWFrcjFDMEJhaUxPS2hlbnlUMkRsYml0bnBkSVBUR3F0YUtXbWxDdnVScmE4dGw1LUhXelhOVVNyVm9YbWRJMXI1R2wybnNz?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Reuters/Ipsos anketine göre Trump onay oranı kariyer düşüğü olan %32'ye geriledi; yüksek yaşam maliyetleri ana etken.",
+  "metric": "Trump onay oranı %32 (kariyer düşüğü)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-21T19:01:09.333091+00:00",
+  "type": "news",
+  "cluster_id": "c482e07d06f84"
+ },
+ {
+  "title": "Elektrik ve doğalgaz güvence bedeli nasıl geri alınır? Abonelik iadesi ve başvuru rehberi",
+  "link": "https://www.cumhuriyet.com.tr/yasam/elektrik-ve-dogalgaz-guvence-bedeli-nasil-geri-alinir-abonelik-iadesi-ve-basvuru-rehberi-2539691",
+  "source": "Cumhuriyet",
+  "summary_tr": "Elektrik ve doğalgaz aboneliklerinde yatırılan güvence (depozito) bedelinin iade işlemi ve başvuru rehberi açıklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-21T19:01:09.333091+00:00",
+  "type": "news",
+  "cluster_id": "cb1fc8a555442"
+ },
+ {
+  "title": "Yağmayı duyan sıraya girdi: Köprü ve otoyol özelleştirmeleri için holdinglerle görüşmeler başladı",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTlh2dG92b2J6NWtkYVBJTlI4bElXajFqNHA5bjBHNUV1c1dvU1VrbDlUMHVpYTR5dzJKVU5iQ2pkV2FjVE5mNTVaSmVPSWs2cVZXeGVOUFhsYUpReFdwZkdkUXZMR1BfcERIVFRneHFNMmxvcWs1dF9TVzQya3RlYzc1WnVzNTlZV1U0aUlNaG1PR2NoNDZjOWZ4SXNvdFdZQVFjV0RTTzRKTnI5eERLWWZUVFp5Yjg0emlV?oc=5",
+  "source": "soL",
+  "summary_tr": "Hükümet köprü ve otoyol özelleştirmeleri için holdinglerle görüşmelere başladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-21T19:01:09.333091+00:00",
+  "type": "news",
+  "cluster_id": "c32d3cc4f5db7"
+ },
+ {
+  "title": "States settle lawsuit over Paramount-Warner merger, clearing key hurdle for $81 billion deal",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVGVnbS1LSHBEVTFfdGxtMzJTNE9SUE0tZldtUTRCcmpZSkxIRFJYcHNKOHJQT2RybkRva1k5Yzd5Mmd3ZEotWWlKMDdLTjVTSVpkZXRVa1dKX1lLamJRN3VQME52cEoxQWFvT0IyV1VZT0FyeFpJY1p4RWtYU3BuWnBMTVUza3NLalpLWTViRi1qYjJJeEt6YWxkZHlhTnZGd0dCTU9fdWU1by1B?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD eyaletleri Paramount-Warner birleşmesi davası üzerinde uzlaştı; 81 milyar dolarlık anlaşma için ana engel kaldırıldı.",
+  "metric": "Anlaşma değeri: 81 milyar dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-21T19:01:09.333091+00:00",
+  "type": "news",
+  "cluster_id": "c7a5b2cb0f52b"
+ },
+ {
   "title": "İsmail Saymaz'dan çarpıcı açıklama: \"Fon Süper Yat'a aktı\"",
   "link": "https://www.sozcu.com.tr/ismail-saymaz-dan-carpici-aciklama-fon-super-yat-a-akti-p362293",
   "source": "Sözcü",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-12T14:01:06.856056+00:00",
   "type": "news",
   "cluster_id": "c4d64c078b22d"
- },
- {
-  "title": "Oylamadan 48 saat sonra iktidarın sonraki hedefi ortaya çıktı",
-  "link": "https://www.sozcu.com.tr/oylamadan-48-saat-sonra-iktidarin-hedefi-ortaya-cikti-p346759",
-  "source": "Sözcü",
-  "summary_tr": "Çerçeve Yasa 467 oyla TBMM'de kabul edildikten 48 saat sonra iktidarın referanduma yönelik hamle yapacağı öğrenildi.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-12T14:01:06.856056+00:00",
-  "type": "news",
-  "cluster_id": "c36c944bb4e4b"
- },
- {
-  "title": "Erdoğan'dan Mekke Anlaşması mesajı: 'Üç ülkeyle sınırlı kalmayabilir'",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTVFvWmd1STZNQ0xSMFVqNjFSZXdjemo2RUdrcnh4UExkM2lGRm8yVVhmV2dRQmJDVERLRk42Q29mdkYxZUxBMjd2VGlGczBLZ1JtYVVoOVVERzEwdFZsVlF4MUJjenZsN1hSXzcwcXVhOWlnZi1nWlkzNUhZTm85dlVsRVROdThjS0FSd2NhbGppSWVmR3phVGhVRHd2VWdqV2ZMNkZR?oc=5",
-  "source": "soL",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, Mekke Anlaşması'nın üç ülkeyse sınırlı kalmayabileceğini söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-12T14:01:06.856056+00:00",
-  "type": "news",
-  "cluster_id": "cb181b24a9267"
- },
- {
-  "title": "Kurtulmuş'tan 'çerçeve yasa' sonrası güvenlik zirvesi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/kurtulmus-tan-cerceve-yasa-sonrasi-guvenlik-zirvesi-2528555",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM Başkanı Kurtulmuş, İçişleri Bakanı Çiftçi ev sahipliğinde 'Milli Dayanışma ve Toplumsal Bütünleşme' konulu güvenlik zirvesi düzenledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-12T14:01:06.856056+00:00",
-  "type": "news",
-  "cluster_id": "c3cfe98d97d52"
- },
- {
-  "title": "Altın fiyatlarında son durum",
-  "link": "https://www.trthaber.com/haber/ekonomi/altin-fiyatlarinda-son-durum-953776.html",
-  "source": "TRT Haber",
-  "summary_tr": "Borsa İstanbul'da standart altının kilogram fiyatı 6 milyon 770 bin liraya ulaştı.",
-  "metric": "Altın (KMKTP) kilogram fiyatı: 6.770.001 TL",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-12T14:01:06.856056+00:00",
-  "type": "news",
-  "cluster_id": "c41b416026f52"
- },
- {
-  "title": "Bakan Çiftçi: Terörsüz Türkiye yolunda tarihi bir eşiği daha aşmış bulunuyoruz",
-  "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-terorsuz-turkiye-yolunda-tarihi-bir-esigi-daha-asmis-bulunuyoruz-953775.html",
-  "source": "TRT Haber",
-  "summary_tr": "İçişleri Bakanı Çiftçi, 'Milli Dayanışma ve Toplumsal Bütünleşme' güvenlik toplantısında terörsüz Türkiye yolunda tarihi bir eşik aşıldığını açıkladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-12T14:01:06.856056+00:00",
-  "type": "news",
-  "cluster_id": "c01f31da9e066"
  }
 ]
