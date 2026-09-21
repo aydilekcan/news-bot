@@ -1,5 +1,41 @@
 [
  {
+  "title": "Fidan, Mehmetçik’e Yemen sinyali verdi",
+  "link": "https://www.sozcu.com.tr/fidan-mehmetcik-e-yemen-sinyali-verdi-p361027",
+  "source": "Sözcü",
+  "summary_tr": "Dışişleri Bakanı Hakan Fidan, Husilerin saldırıları ardından Türkiye'nin Suudi Arabistan'a askeri destek sağlayacağını işaret etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-21T03:01:09.132853+00:00",
+  "type": "news",
+  "cluster_id": "c0776b1bf2bee"
+ },
+ {
+  "title": "Araç çok müşteri yok",
+  "link": "https://www.sozcu.com.tr/arac-cok-musteri-yok-p361023",
+  "source": "Sözcü",
+  "summary_tr": "İkinci el otomobil piyasasında krediye erişim kısıtlılığı ve düşen alım gücü nedeniyle ciddi durgunluk yaşanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-21T03:01:09.132853+00:00",
+  "type": "news",
+  "cluster_id": "ccf1cdcf2e64c"
+ },
+ {
+  "title": "Doktoralı da cep harçlığı peşinde",
+  "link": "https://www.sozcu.com.tr/doktorali-da-cep-harcligi-pesinde-p361022",
+  "source": "Sözcü",
+  "summary_tr": "Ekonomik kriz nedeniyle doktora derecesi almış gençler günlük 1.080 lira cep harçlığı veren İŞKUR eğitim programlarına yöneliyorlar.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-21T03:01:09.132853+00:00",
+  "type": "news",
+  "cluster_id": "cab9f0f794dd9"
+ },
+ {
   "title": "Ekonomistler fonlarla risk alanın zararının kamu kaynaklarıyla kapatılmasına karşı",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/ekonomistler-fonlarla-risk-alanin-zararinin-kamu-kaynaklariyla-kapatilmasina-karsi-2539398",
   "source": "Cumhuriyet",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-11T17:01:06.919671+00:00",
   "type": "news",
   "cluster_id": "c15fc526d3a7a"
- },
- {
-  "title": "Bloomberg: Fon yöneticileri SPK'dan daha sert önlemler istiyor",
-  "link": "https://www.diken.com.tr/bloomberg-fon-yoneticileri-spkdan-daha-sert-onlemler-istiyor/?utm_source=rss&utm_medium=rss&utm_campaign=bloomberg-fon-yoneticileri-spkdan-daha-sert-onlemler-istiyor",
-  "source": "Diken",
-  "summary_tr": "Yatırım fon yöneticileri SPK'dan daha sert finansal önlemler istiyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-11T17:01:06.919671+00:00",
-  "type": "news",
-  "cluster_id": "c096e7a1d955f"
- },
- {
-  "title": "Rusya'nın federal bütçe açığı yaklaşık 79 milyar dolara çıktı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/rusyanin-federal-butce-acigi-yaklasik-79-milyar-dolara-cikti/4024497",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Rusya'nın federal bütçe açığı ocak-temmuz 2026'de 6,5 trilyon rubleye (79 milyar dolar) ulaştı, bir önceki yılın aynı dönemine göre %32,3 arttı.",
-  "metric": "Rusya bütçe açığı 2025 -> 2026 (+%32,3)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-11T17:01:06.919671+00:00",
-  "type": "news",
-  "cluster_id": "cfd40d68f7528"
- },
- {
-  "title": "Four crew killed in Red Sea attack while missile strike reported in Gulf",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXg2TDlnMzVlaTc1d1hoaFVFTG91b29XZzlBMC1hNGZ1REtpdDlTLXZFcGF5Mjg0N1ZvaVpSZlpEYkR6TUM1Mktja1k2TDdIVGlBZHBrMEFGdHNXSFFQV0s0eEY3aHRBcXNxa3FKUkR6Y1RmSVZOS0lwbGVZTVFKX3VUMzU5c2wwZ2VjZ1pqWU1PeDNhb0lOeFlzcDFnN1lS?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Kızıldeniz'deki saldırıda dört gemi personeli öldü; Körfez'de füze saldırısı rapor edildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-11T16:01:08.902005+00:00",
-  "type": "news",
-  "cluster_id": "cc6e7031cc7f8"
  }
 ]
