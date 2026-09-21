@@ -1,5 +1,41 @@
 [
  {
+  "title": "Macron, artan akaryakıt fiyatlarını düşürmek için AB'den \"sektöre ilişkin düzenlemeleri esnetmesini\" istedi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/macron-artan-akaryakit-fiyatlarini-dusurmek-icin-abden-sektore-iliskin-duzenlemeleri-esnetmesini-istedi/4063670",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Fransa Cumhurbaşkanı Macron, artan akaryakıt fiyatlarını azaltmak için AB'den gaz yağı ve dizel yakıtlarına ilişkin düzenlemeleri esnetmesini istedi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-21T20:01:08.780326+00:00",
+  "type": "news",
+  "cluster_id": "c44361c142377"
+ },
+ {
+  "title": "Olup bitenleri anlayamayanlar için fon krizi | Kerim Rota anlatıyor",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdWlDT211TEoyenloQmY0SWV4Q0JoREd0SnJucTVTSFRCU2pSZnhZLWpTM2N0T044allMWlBSeU1FRWpuNjViTGF5VVBaZWZyb0R1cUNLenNmdUplaWl0NFRzVzhwdk9RV210SFdjaXRTVjBFT2xUTkhXNXl0Q2diLTQwX01iTlY1YWI5Vmg2TExCSTA3MVY2S0lVQVEzSVRT?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Kerim Rota, fon krizinin nedenlerini ve dinamiklerini anlatıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-21T20:01:08.780326+00:00",
+  "type": "news",
+  "cluster_id": "c24a32c17d547"
+ },
+ {
+  "title": "Ticaret Bakanı Bolat: Amerikan şirketlerinin Türkiye'ye yatırım yapması için devasa bir potansiyel var",
+  "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-amerikan-sirketlerinin-turkiyeye-yatirim-yapmasi-icin-devasa-bir-potansiyel-var/4063661",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ticaret Bakanı Bolat, Türkiye-ABD arasında 100 milyar dolarlık ticaret hacmi hedefine ulaşılması için özel sektörün desteğiyle çalışıldığını belirtti.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-21T20:01:08.780326+00:00",
+  "type": "news",
+  "cluster_id": "cb5c17713c523"
+ },
+ {
   "title": "Fon soruşturmasında gözaltı sayısı 17'ye yükseldi",
   "link": "https://www.trthaber.com/haber/turkiye/fon-sorusturmasinda-gozalti-sayisi-17ye-yukseldi-957560.html",
   "source": "TRT Haber",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-12T16:01:10.862578+00:00",
   "type": "news",
   "cluster_id": "c696b5c094a1d"
- },
- {
-  "title": "US consumer inflation mild in July, but economy not out of the woods yet",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVo4RlREbjZCeDFybnNPaTFlMDl0SnhGblQ3ZjE4NzA2WlVKU0diWDJqN1lPWXFvVk13eDY5TVhKYXROYXVJb2tLRzM0YVFaNXEzRWxLNWI0blFUSHZqbVN6aVRrMWFPR3Foa0hJd1FLZTluRVAtWlp0d3k1U1doeUhRVlRoRFltSzRneHcyYw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD tüketici enflasyonu Temmuz'da hafif kaldı ancak ekonominin zorluklar devam ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-12T15:01:13.409132+00:00",
-  "type": "news",
-  "cluster_id": "c74f7ccd3b2b9"
- },
- {
-  "title": "Murat Yetkin: Çerçeve yasa oylamasıyla Anayasa'yı Meclis'te değiştirme ihtimali doğdu, işte dört senaryo...",
-  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSzRibnRNX0pJVzhiNUsyaGwxcE9BQjQ1MlFkaTVoSnl5dUtDODdBa0FfQW9DWVBDa0d0cnotdGxrWG1lclBYMS03T0cwU0R1RlVaSWdpbUpwZ0hjWGZySXYwOFI1YUhDcE1uMk55LU1EdFJmbEZaUjc4WkFiYTRoa3g2d0JzY21IdGxXY0pzbFRWQ3NuTDk2MkR5Vm01cEF5TFlMTHBUQTF1cjB6Y0pzQXU5QWpjWk9hQ3RicUVRdW9aMVVROUkwN0lhM09jQ1l2WFE?oc=5",
-  "source": "T24",
-  "summary_tr": "Murat Yetkin: Çerçeve yasa oylaması Anayasa değişikliğine yol açabilir; dört senaryo analiz ediliyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-12T15:01:13.409132+00:00",
-  "type": "news",
-  "cluster_id": "cf06ff53e07cf"
- },
- {
-  "title": "Özgür Özel ve Veli Ağbaba hakkında dokunulmazlık fezlekesi TBMM Başkanlığına sunuldu",
-  "link": "https://www.bbc.com/turkce/articles/c629511kx9eo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "CHP Genel Başkanı Özgür Özel ve Malatya Milletvekili Veli Ağbaba'nın dokunulmazlığını kaldırma fezlekesi TBMM Başkanlığına sunuldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-12T14:01:06.856056+00:00",
-  "type": "news",
-  "cluster_id": "c4d64c078b22d"
  }
 ]
