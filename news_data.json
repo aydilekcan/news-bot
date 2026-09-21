@@ -1,5 +1,77 @@
 [
  {
+  "title": "China expels two top generals from party and military, alleging disloyalty, corruption",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcHBzb1ppN2J2eXJUNEdwdFEzSHI2OUpPdWNFYmhJZzZlcC1RU2ViWk9xb3g4MTEyaTNUR2dFaWlKOE1JV29iZEQ1dGQzYUp5Z3dWOTF6dDNsQV9HYlFtUEZ0eFpkSWNEdnNLaUh4MHVrbEhhcUI0aFpYSnhPOVVrWmpDSmFyR2Y3bUh2Z0trbHhueU9yY1NIaWtiV3hrLU8wanVrY2xYMWJaZkItLVJYRzJjcFg0RTRzMEVvR2dvT2Y?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Çin, dişloyalite ve yolsuzluk suçlamalarıyla iki üst düzey generali partiden ve ordunun kadrolarından çıkardı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-21T13:01:14.040820+00:00",
+  "type": "news",
+  "cluster_id": "cd6f0ce0d02b3"
+ },
+ {
+  "title": "CNN ve Politico, Trump'ın Beyaz Saray yasağına karşı dava açacak",
+  "link": "https://www.bbc.com/turkce/articles/c9zrzekx55p5o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "CNN, Politico ve MS NOW, Trump yönetimine Beyaz Saray girişlerinin yasaklanmasına karşı dava açacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-21T13:01:14.040820+00:00",
+  "type": "news",
+  "cluster_id": "cb75aa78410b1"
+ },
+ {
+  "title": "Rusya'da \"sonucu belli\" seçimlerde Putin'in partisi güçlendi",
+  "link": "https://www.dw.com/tr/rusya-da-sonucu-belli-seçimlerde-putin-in-partisi-güçlendi/a-79356616?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Rusya'da Putin'in partisi Birleşik Rusya seçimlerde güçlenerek çıktı; son 15 yılın en yüksek katılım oranı kaydedildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-21T13:01:14.040820+00:00",
+  "type": "news",
+  "cluster_id": "cf25ab558f950"
+ },
+ {
+  "title": "Trump, Rusya'nın dizel yakıt sanayisinin kontrolünü kaybettiğini savundu",
+  "link": "https://www.aa.com.tr/tr/dunya/trump-rusyanin-dizel-yakit-sanayisinin-kontrolunu-kaybettigini-savundu/4063340",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Trump, Ukrayna savaşının Rusya'nın dizel yakıt sanayisinin kontrolünü kaybetmesine neden olduğunu iddia etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-21T13:01:14.040820+00:00",
+  "type": "news",
+  "cluster_id": "c7cde37915782"
+ },
+ {
+  "title": "Global diesel shortage likely to last into 2027 as storage tanks drain",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLUROTUZDbzRZN3VncG9haUs0bGR6TFhhQ3JZTEYzZzUtVE5BV3c2SGE3dVFzN2JRS0xfYUcxdW9zay1yXzBXakItRDM4SnhYb3FudmdISGlhVGsycDhhY0FxazdVU21HdW9oQXFSckF6YlVETl9wSzJhbEM1LVlFZGM2VEpJbUZlcVY4bGs4aV94Qmh4Z3ZpTFRibVItNHFfWk8tSXhlb3hMRng2VHlmdHBMYnEwVWs?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Küresel dizel yakıt kıtlığının depo seviyeleri düşüşüyle 2027 yılına kadar sürmesi bekleniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-21T13:01:14.040820+00:00",
+  "type": "news",
+  "cluster_id": "c9ddc01957846"
+ },
+ {
+  "title": "AB, Google'a 403 milyon avro ceza kesti",
+  "link": "https://www.diken.com.tr/ab-googlea-403-milyon-avro-ceza-kesti/?utm_source=rss&utm_medium=rss&utm_campaign=ab-googlea-403-milyon-avro-ceza-kesti",
+  "source": "Diken",
+  "summary_tr": "AB, Google'a kullanıcı konum verilerini kurallara aykırı işlemesi nedeniyle 403 milyon avro ceza kesti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-21T13:01:14.040820+00:00",
+  "type": "news",
+  "cluster_id": "ca9d38f2cbbfe"
+ },
+ {
   "title": "Erdoğan ile Trump hangi kritik konuları görüşecek?",
   "link": "https://www.dw.com/tr/erdoğan-ile-trump-hangi-kritik-konuları-görüşecek/a-79356352?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-12T11:01:10.268280+00:00",
   "type": "news",
   "cluster_id": "cc57333f8661e"
- },
- {
-  "title": "Piyasaları sarsacak 'faiz' çıkışı: Enflasyon verisi öncesi Fed cephesinden sürpriz mesaj",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/piyasalari-sarsacak-faiz-cikisi-enflasyon-verisi-oncesi-fed-cephesinden-surpriz-mesaj-2528483",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Merkez Bankası yetkililerinden şahin açıklamalar geldi; kritik TÜFE verisi öncesinde faiz artırımı tartışmaları alevlendi ve küresel piyasalarda etki yaratma potansiyeli var.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-12T10:01:25.026520+00:00",
-  "type": "news",
-  "cluster_id": "c38daec77a212"
- },
- {
-  "title": "ABD ile İran ateşkesi uzatma konusunda anlaştı",
-  "link": "https://www.cumhuriyet.com.tr/dunya/abd-ile-iran-ateskesi-uzatma-konusunda-anlasti-2528479",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD ve İran, Pakistan'ın arabuluculuğunda İslamabad Mutabakatı kapsamında mevcut ateşkesi uzatma konusunda anlaşmaya vardı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-12T10:01:25.026520+00:00",
-  "type": "news",
-  "cluster_id": "c1f87bbec7201"
- },
- {
-  "title": "Rusya: Mütekabiliyet ilkesi kapsamında düşman ülkelerin ticari gemilerini tarafsız sularda hedef alabiliriz",
-  "link": "https://www.aa.com.tr/tr/dunya/rusya-mutekabiliyet-ilkesi-kapsaminda-dusman-ulkelerin-ticari-gemilerini-tarafsiz-sularda-hedef-alabiliriz/4025101",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Rusya Güvenlik Konseyi Başkan Yardımcısı Dmitriy Medvedev, mütekabiliyet ilkesi kapsamında Rusya'nın 'düşman ülkelere' ait ticari gemileri tarafsız sularda hedef alabileceğini bildirdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-12T10:01:25.026520+00:00",
-  "type": "news",
-  "cluster_id": "cd5b61f65b6be"
- },
- {
-  "title": "Pakistanlı kaynaklar, ABD ve İran'ın ateşkesi uzatmayı kabul ettiğini söyledi",
-  "link": "https://www.aa.com.tr/tr/dunya/pakistanli-kaynaklar-abd-ve-iranin-ateskesi-uzatmayi-kabul-ettigini-soyledi/4025090",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Pakistanlı hükümet kaynakları, ABD ve İran'ın 17 Ağustos'ta süresi dolacak İslamabad Mutabakatı kapsamında 60 günlük ateşkesin uzatılmasını kabul ettiğini bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-12T10:01:25.026520+00:00",
-  "type": "news",
-  "cluster_id": "c4218f8b3aa07"
- },
- {
-  "title": "Zelenski: Rusya'daki Novorossiysk Deniz Üssü'ne saldırı düzenledik",
-  "link": "https://www.trthaber.com/haber/dunya/zelenski-rusyadaki-novorossiysk-deniz-ussune-saldiri-duzenledik-953736.html",
-  "source": "TRT Haber",
-  "summary_tr": "Ukrayna Devlet Başkanı Volodimir Zelenski, Rusya'daki Novorossiysk Deniz Üssü'ne saldırı düzenlediklerini bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-12T10:01:25.026520+00:00",
-  "type": "news",
-  "cluster_id": "c186d27de81a9"
- },
- {
-  "title": "IEA slashes 2026 supply forecast as Hormuz reopening remains elusive",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUm5jZkFKN2RpUWZWbG9rSXctekpyeml5UDgwTENteGwtSmFWbHd0cGFjYV9LRVBXeHRENktmbWVKNVZCeFp0U0YxeTFQcFdqZTJ5Z0sxWjg1TGUwRm13Mm5rSWRoUWw2MzZhNlhFeUV2Wk9mRFNFWDB6QWhSckZDbUtlZ3pzSWQyU0pjS0Q1d2dRT1EtcWt0SVhuQXlPTHZiZlhZTzFWSUoxcXVDdl9qUnA0SnJWR1Zf?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Uluslararası Enerji Ajansı, Hormuç Boğazı'nın açılması belirsiz kaldığı için 2026 yılı küresel petrol arzı tahminini revize etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-12T10:01:25.026520+00:00",
-  "type": "news",
-  "cluster_id": "c604946071c81"
  }
 ]
