@@ -1,5 +1,17 @@
 [
  {
+  "title": "Fonlarda tasfiye: Yatırımcının parasını kim ödeyecek?",
+  "link": "https://www.dw.com/tr/fonlarda-tasfiye-yatırımcının-parasını-kim-ödeyecek/a-79376765?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "131 yatırım fonu tasfiye sürecine alındı; 353 bin yatırımcının parasının ödenmesi ve zarar dağılımı sorgulanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-22T16:01:10.021742+00:00",
+  "type": "news",
+  "cluster_id": "c42b700e334d0"
+ },
+ {
   "title": "Trump’tan BM kürsüsünde İran çağrısı: Tam ekonomik izolasyon uygulayın",
   "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-bm-kursusunde-iran-cagrisi-tam-ekonomik-izolasyon-uygulayin-2540015",
   "source": "Cumhuriyet",
@@ -59986,17 +59998,5 @@
   "ts": "2026-08-13T10:01:13.373035+00:00",
   "type": "news",
   "cluster_id": "c7e375418dd76"
- },
- {
-  "title": "Merkez Bankası yıl sonu enflasyon tahminini iki puan artırdı: %28",
-  "link": "https://www.bbc.com/turkce/articles/c2029l79kx2o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "TCMB Başkanı Karahan, yıl sonu enflasyon tahminini %26'dan %28'e yükseltti.",
-  "metric": "Yıl sonu enflasyon tahmini %26 -> %28 (+2 puan)",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-08-13T09:01:12.300932+00:00",
-  "type": "news",
-  "cluster_id": "c26727e974756"
  }
 ]
