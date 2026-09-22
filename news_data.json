@@ -1,5 +1,77 @@
 [
  {
+  "title": "Maaş hesaba yatar yatmaz yüzde 88 zorunlu harcamalara gidiyor",
+  "link": "https://www.sozcu.com.tr/maas-hesaba-yatar-yatmaz-yuzde-88-zorunlu-harcamalara-gidiyor-p362551",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye'de ortalama vatandaş maaşının %88'ini zorunlu harcamalara (fatura, kira, gıda) ayırıyor; tüketim gücü ciddi şekilde sınırlı.",
+  "metric": "Zorunlu harcama oranı %88",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-09-22T14:01:14.961330+00:00",
+  "type": "news",
+  "cluster_id": "c9031ec2db243"
+ },
+ {
+  "title": "Yeni Parti'nin ismi ile ilgili son karar AYM'de",
+  "link": "https://www.dw.com/tr/yeni-parti-nin-ismi-ile-ilgili-son-karar-aym-de/a-79373931?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Anayasa Mahkemesi, Özgür Özel liderliğindeki Yeni Parti'nin isim kullanımı hakkında karar verecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-22T14:01:14.961330+00:00",
+  "type": "news",
+  "cluster_id": "c667f94fcf4ce"
+ },
+ {
+  "title": "19. Türkiye Yatırım Konferansı'nın ilk gününde yatırım fırsatları ele alındı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/19-turkiye-yatirim-konferansinin-ilk-gununde-yatirim-firsatlari-ele-alindi/4064493",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Hazine Maliye Bakanı Mehmet Şimşek, Türkiye Yatırım Konferansı'nda küresel zorluklara rağmen ekonominin güçlü ve dayanıklı olduğunu vurguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-22T14:01:14.961330+00:00",
+  "type": "news",
+  "cluster_id": "cd4b39989f10a"
+ },
+ {
+  "title": "Altın için 14 kurumdan peş peşe tahminler geldi",
+  "link": "https://www.sozcu.com.tr/altin-icin-14-kurumdan-pes-pese-tahminler-geldi-p362547",
+  "source": "Sözcü",
+  "summary_tr": "14 uluslararası banka ve araştırma kuruluşunun kısa vadeli altın fiyat tahminleri derlenmiş; genel yöneliş artış beklentisi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-22T14:01:14.961330+00:00",
+  "type": "news",
+  "cluster_id": "cdff4c2efc6a5"
+ },
+ {
+  "title": "OYAK Genel Müdürü Yalçıntaş: Önümüzdeki yıllarda daha fazla OYAK şirketi halka arz olacak",
+  "link": "https://www.aa.com.tr/tr/ekonomi/oyak-genel-muduru-yalcintas-onumuzdeki-yillarda-daha-fazla-oyak-sirketi-halka-arz-olacak/4064544",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "OYAK Genel Müdürü Yalçıntaş, önümüzdeki yıllarda daha fazla OYAK şirketinin halka arz edileceğini duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-22T14:01:14.961330+00:00",
+  "type": "news",
+  "cluster_id": "cb09d61257ea9"
+ },
+ {
+  "title": "ECB, EU central banks suggest dropping stablecoin deposits rule",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSXByZ1dMUmEtUkNYT0FyXzRxTVhhUWZJS0RRYU54WlNnaDRFc2lqYWF0MllMOVp1OVVEUm5OQk9yV0FCcENvZldNN1p2MGJCNWlydVpCc3lqaWI3dkFITjFjLUY5d3d0anpSU2pQWVEycUJJMTRzaGNLOUt3c3dueXA0Q0RDbkI4cnVqa05fSFZQM1l3SXRUWUVtT3p1N2JTRy14c3lOaFRMSWYtd3c?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ECB ve AB merkez bankaları stablecoin mevduatı kuralını kaldırmayı önerdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-22T14:01:14.961330+00:00",
+  "type": "news",
+  "cluster_id": "c53c91155db4c"
+ },
+ {
   "title": "SPK pay geri alımlarında üst sınırı kaldırdı",
   "link": "https://www.diken.com.tr/spk-pay-geri-alimlarinda-ust-siniri-kaldirdi/?utm_source=rss&utm_medium=rss&utm_campaign=spk-pay-geri-alimlarinda-ust-siniri-kaldirdi",
   "source": "Diken",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-13T09:01:12.300932+00:00",
   "type": "news",
   "cluster_id": "cdb670fca3161"
- },
- {
-  "title": "Ukrainian drone strikes push up Russian trucking costs, stoking inflation",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOUNfM3NLVGpXZm1ZYTR1dERnZlhTU1dEUThhTXNfekJoN2FrSkI4azZXN0hid1QtQ1ItX1EyeElMR05XdHFsQnVTQlp6Uk41b3VIRXVrZklSYjlvc0lwZzdIS0pSM3pFUFhaVXh2Nld2alFTUW1qakxycHEzM01kVV9PWkV2R2xCT2t0SVNyNGNBU1lJa0NRb2NsamgzbHNsX0pWeFhmRXR5S0RGRnNiUXZPZHhOQnhG?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ukrayna insansız araç saldırıları Rusya'da taşımacılık maliyetlerini artırarak enflasyonu tetikliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-13T09:01:12.300932+00:00",
-  "type": "news",
-  "cluster_id": "c8c00313dba89"
- },
- {
-  "title": "Geniş tanımlı işsizlik oranı: %28,8 (Haziran 2025)",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVWNSTHBXU0JtNFhZT201aGJ1eExDNFhCS1JESzBlSkpaOXhEZ0poMjVNaXNQdnNrbFVHVURScXlFcVNVcHhfNEhEMzlCT3BiUXlZVUtVQTFuRVNKMU1Sd2hNR19FTDZtdXFrMERfZ3dHM3pJenVpUzNJaDNYbHRtaDFSX0NzUl9R?oc=5",
-  "source": "TÜİK",
-  "summary_tr": "%28,8 → %28,8",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-08-13T09:01:12.300932+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "TCMB'den yılın üçüncü Enflasyon Raporu Toplantısı: Enflasyon tahminleri yeniden yükseltildi",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/tcmb-den-yilin-ucuncu-enflasyon-raporu-toplantisi-enflasyon-tahminleri-yeniden-yukseltildi-2528725",
-  "source": "Cumhuriyet",
-  "summary_tr": "TCMB Başkanı Fatih Karahan, yılın üçüncü Enflasyon Raporu'nda yıl sonu enflasyon tahminlerini yeniden yükseltti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-08-13T08:01:16.050809+00:00",
-  "type": "news",
-  "cluster_id": "c8c542ea19601"
- },
- {
-  "title": "Morning Bid: Fed bets cool, BOJ wagers heat up",
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oM0FFVzBuNGtQVW9IOG1zaU44UGdVei1MVEx3MUY0RVhjOE5zYndQM0tMMDNfZW9lU0wyM1o4eUlnU2RFZGJIdlA1SmREYUtBZk4xdS1RYUhOeFA2T1U4ZV9pZ0ZlaXpqTTEtVFFDSlNUYWhmaFRHclBCMWlkTVE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Fed faiz indirme beklentileri soğurken BOJ (Japon Merkez Bankası) faiz artırma bahisleri ısınıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-13T08:01:16.050809+00:00",
-  "type": "news",
-  "cluster_id": "cfdcbf0352a2f"
- },
- {
-  "title": "Japan's wholesale inflation stays hot, bolstering odds of September BOJ hike",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3BxTzUyem1ETnNDcTg1SFdadWpmYmNFZVY2cFlFT0N3UklwcTA5Qnh1cjZVTGFieGVjM09lc0QtaXZwVDEtQjF4YUJaMWRnbkNXVkdOQXhZRDc3OXdIY0x4czdsSFFnOTZGUWFNS0VYM0FKaTdOR2NyMVZTSlJvWnBLMElWdTVXZ0c3WW40Y3l4LXFjb190ZThlV3A1M0x0WDc4VXZiYXpVZFBTMFNON252VmJmenJnWEQ4?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Japonya'nın yüksek toptan enflasyonu, Eylül ayında BOJ faiz artırımı olasılığını güçlendiriyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-13T08:01:16.050809+00:00",
-  "type": "news",
-  "cluster_id": "ce58f144d3462"
- },
- {
-  "title": "İmralı heyeti, Erdoğan'la bir araya gelecek",
-  "link": "https://www.diken.com.tr/imrali-heyeti-erdoganla-bir-araya-gelecek/?utm_source=rss&utm_medium=rss&utm_campaign=imrali-heyeti-erdoganla-bir-araya-gelecek",
-  "source": "Diken",
-  "summary_tr": "DEM Parti İmralı heyeti (Pervin Buldan, Mithat Sancar) 13 Ağustos akşamı Cumhurbaşkanı Erdoğan ile görüşecek.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-13T08:01:16.050809+00:00",
-  "type": "news",
-  "cluster_id": "c4447ab8a0ae2"
  }
 ]
