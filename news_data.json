@@ -1,5 +1,29 @@
 [
  {
+  "title": "TCMB Başkanı Karahan New York'ta \"Enflasyon ve Makroekonomik Görünüm\" başlıklı sunum yaptı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-new-yorkta-enflasyon-ve-makroekonomik-gorunum-baslikli-sunum-yapti/4065484",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "TCMB Başkanı Fatih Karahan New York'ta enflasyon ve makroekonomik görünümü değerlendirdi; zorlu arz koşullarının devam ettiğini vurguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-22T21:01:04.484006+00:00",
+  "type": "news",
+  "cluster_id": "c4ad94c2c6016"
+ },
+ {
+  "title": "Trump supports diesel export ban as fuel prices hit records",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVVYazU2NVBYOUFueHpwS0lxNDJzbFgzYVhRZ1ZjcjRyTGdESUlaT0UzQ0MtbDcyYklsVkk0TVRseTZHUjI0dlU4UmhfVmhQNzEwVVAwY1FTMVFaSHByTDNXd19NUHc5bXRuMWYyaGhmbXBsRUo0TkQ5LVRBQm5ZbndBSEc1amtZR3BrN21XWkFsZw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, yakıt fiyatlarının rekor seviyelere ulaştığı dönemde dizel ihracat yasağını destekliyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-22T21:01:04.484006+00:00",
+  "type": "news",
+  "cluster_id": "c418c2db475da"
+ },
+ {
   "title": "ABD'li yetkililer İran heyetiyle görüştü... Trump: 'İran'la görüşme çok iyi geçti'",
   "link": "https://www.cumhuriyet.com.tr/dunya/abd-li-yetkililer-iran-heyetiyle-gorustu-trump-iran-la-gorusme-cok-iyi-gecti-2540060",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-13T15:01:13.510337+00:00",
   "type": "news",
   "cluster_id": "ca726f600dae7"
- },
- {
-  "title": "60 saniyede ekonomide bugün (13 Ağustos 2026)",
-  "link": "https://www.aa.com.tr/tr/ekonomi/-60-saniyede-ekonomide-bugun-13-agustos-2026/4026430",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Halkbank'ın katkılarıyla 13 Ağustos 2026 tarihinde ekonomide günün gelişmeleri özetlendi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-13T15:01:13.510337+00:00",
-  "type": "news",
-  "cluster_id": "c48b378b82f93"
- },
- {
-  "title": "GENAR anketi: AKP açık ara önde, CHP ve Yeni Parti arasında 0,9 puan fark var",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOTgydU1CTHNIMEpmbWYwSEFFM0JWQURGUXBEVGJhSFN1cXRHNnAzbWdqenpkZFFhSHR2b2FlNV9mMWlHdkZLVTBUWGtzdExHZXJsN1IwYi1yMXRrRzlwbEhWcTYwLWtwamcxSmZxRWlJb2lKQ1FwamhCUk9FUWdIdzV3WDc0c0RTVXdCMlZpcXp5MXhWS1cycENLS0F3RlZ0Uy1vbEZxSm5HTkUwUGQw?oc=5",
-  "source": "T24",
-  "summary_tr": "GENAR anketi: AKP açık ara önde, CHP ve Yeni Parti arasında 0,9 puan fark bulunuyor.",
-  "metric": "CHP - Yeni Parti farkı: 0,9 puan",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-13T15:01:13.510337+00:00",
-  "type": "news",
-  "cluster_id": "cea55a1a409eb"
  }
 ]
