@@ -1,5 +1,41 @@
 [
  {
+  "title": "Erdoğan: Türkiye'ye yatırım yapan kazanmıştır, Hamdi seni bekliyoruz",
+  "link": "https://www.diken.com.tr/erdogan-turkiyeye-yatirim-yapan-kazanmistir-hamdi-seni-bekliyoruz/?utm_source=rss&utm_medium=rss&utm_campaign=erdogan-turkiyeye-yatirim-yapan-kazanmistir-hamdi-seni-bekliyoruz",
+  "source": "Diken",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, Türkiye'ye yatırım yapanların kazandığını ve Chobani kurucusu Hamdi Ulukaya'yı beklediklerini söyledi.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-09-22T06:01:02.956738+00:00",
+  "type": "news",
+  "cluster_id": "ca768b4cfa430"
+ },
+ {
+  "title": "Kıdem ve ihbarda yeni zamlı tarife: En düşük ve en yüksek tazminat rakamları ortaya çıktı",
+  "link": "https://www.sozcu.com.tr/kidem-ve-ihbarda-yeni-zamli-tarife-en-dusuk-ve-en-yuksek-tazminat-rakamlari-ortaya-cikti-p362402",
+  "source": "Sözcü",
+  "summary_tr": "Yeni yılla birlikte kıdem ve ihbar tazminatında zamlı tarife yürürlüğe girdi; en düşük ve en yüksek tazminat rakamları açıklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-22T06:01:02.956738+00:00",
+  "type": "news",
+  "cluster_id": "c88ed78410767"
+ },
+ {
+  "title": "Alibaba deepens AI push with new chip, bigger model; shares jump 5%",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUlcybzdOMWxNcmJHT1ZvUHFRTkczZzRNbHpkeUM1QjVxak5WMVdfTldrMWRtaTdHd1FvZkUwbGN4NmhwdUFSdmJxdVBVTGZxNFBWMUNqQXU3dlJzM1VXOHZsYmliZmxBRl90eFF6dEFZWl9BQTJTdkdxaDBSMGVrSXBJUkFVQkx1RTFOcktHZDQ4blo4VFh0amtSRmYxU2YxeGdQdUhFa25DeDBjSllsaVBsUVQ3X3VYdnRKMTAxN1BzZFQzUUpGSVI3TXZBZmRuTlhjejFB?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Alibaba yapay zeka çabasını derinleştirerek yeni çip ve daha büyük model sundu; hisse senedi %5 yükseldi.",
+  "metric": "Alibaba hisse senedi 0% -> +5%",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-22T06:01:02.956738+00:00",
+  "type": "news",
+  "cluster_id": "c13340a3294fc"
+ },
+ {
   "title": "Herkes bu gizemli milyarderi konuşuyor: Bir gecede Türkiye'deki hesabından 45 milyar TL çekti",
   "link": "https://www.sozcu.com.tr/herkes-bu-gizemli-milyarderi-konusuyor-bir-gecede-turkiye-deki-hesabindan-45-milyar-tl-cekti-p362371",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-12T20:01:00.477620+00:00",
   "type": "news",
   "cluster_id": "c03855e7e9094"
- },
- {
-  "title": "Son Dakika... Ekrem İmamoğlu CHP'den istifa etti: 'YENİ bir yol' çağrısı yaptı",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-ekrem-imamoglu-chp-den-istifa-etti-yeni-bir-yol-cagrisi-yapti-2528611",
-  "source": "Cumhuriyet",
-  "summary_tr": "İBB Başkanı Ekrem İmamoğlu, CHP'den istifa ettiğini duyurdu ve yeni bir siyasi yol çağrısı yaptı.",
-  "metric": "",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-08-12T18:01:07.246743+00:00",
-  "type": "news",
-  "cluster_id": "c4430fa988835"
- },
- {
-  "title": "İsrail Savunma Bakanı, Lübnan, Suriye ve Gazze’de işgal ettikleri bölgelerden çekilmeyeceklerini söyledi",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-savunma-bakani-lubnan-suriye-ve-gazze-de-isgal-ettikleri-bolgelerden-cekilmeyeceklerini-soyledi/4025683",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail Savunma Bakanı, Gazze, Lübnan ve Suriye'de işgal edilen bölgelerden çekilmeyeceklerini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-12T18:01:07.246743+00:00",
-  "type": "news",
-  "cluster_id": "cd5a508c0724f"
- },
- {
-  "title": "İmamoğlu CHP’den istifasını duyurdu",
-  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EVVZXV2pjV0ZpU1ZTV3pKUnR6dHlGY00wVEp5SjRCWGtEdjZkTzRjNTVwQXpHWmxJanY1RktKWnVKTXhWa25Wbk9sZW5sZ0FoU05Ub3ZMdF8yUUhRLXVjQ0xNNlI1N0tOWVVEYXBXQlpYZzdLWDhGZE9uNk4?oc=5",
-  "source": "soL",
-  "summary_tr": "İBB Başkanı Ekrem İmamoğlu, CHP'den istifa ettiğini açıkladı.",
-  "metric": "",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-08-12T18:01:07.246743+00:00",
-  "type": "news",
-  "cluster_id": "c0ee2697e315a"
  }
 ]
