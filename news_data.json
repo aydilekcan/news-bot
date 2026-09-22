@@ -1,5 +1,41 @@
 [
  {
+  "title": "Garanti Bankası'na 1,5 milyar lirayı aşkın ceza",
+  "link": "https://www.diken.com.tr/garanti-bankasina-15-milyar-lirayi-askin-ceza/?utm_source=rss&utm_medium=rss&utm_campaign=garanti-bankasina-15-milyar-lirayi-askin-ceza",
+  "source": "Diken",
+  "summary_tr": "Rekabet Kurulu, Garanti Bankası'na 1,5 milyar lirayı aşkın ceza kesti.",
+  "metric": "Ceza: 1,5+ milyar TL",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-22T09:01:09.634968+00:00",
+  "type": "news",
+  "cluster_id": "c5b18e64e4935"
+ },
+ {
+  "title": "Almanya'da sanayi istihdamı eriyor, savunma telafi etmiyor",
+  "link": "https://www.dw.com/tr/almanya-da-sanayi-istihdamı-eriyor-savunma-telafi-etmiyor/a-79356306?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Almanya'da sanayi her ay 15 bin kişilik istihdam kaybı yaşıyor; savunma sektörü bunu telafi edemiyor.",
+  "metric": "Aylık istihdam kaybı ~15.000 kişi",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-22T09:01:09.634968+00:00",
+  "type": "news",
+  "cluster_id": "c1f80b485611f"
+ },
+ {
+  "title": "ABD baskısıyla alınan kararın faturası ağır oldu: 2 milyon kişiye Türkiye kapısı kapandı",
+  "link": "https://www.sozcu.com.tr/abd-baskisiyla-alinan-kararin-faturasi-agir-oldu-2-milyon-kisiye-turkiye-kapisi-kapandi-p362463",
+  "source": "Sözcü",
+  "summary_tr": "ABD baskısıyla Türk hava yolu şirketleri İran uçuşlarını iptal etti; sonuç olarak yılda 2 milyondan fazla İranlı Türkiye'ye gelemiyor.",
+  "metric": "Etkilenen yolcu: 2+ milyon/yıl",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-22T09:01:09.634968+00:00",
+  "type": "news",
+  "cluster_id": "c18192284ab42"
+ },
+ {
   "title": "Katılımevim, Destek ve Hedef Holding operasyonu: 14 gözaltı",
   "link": "https://www.diken.com.tr/katilimevim-destek-ve-hedef-holding-operasyonu-14-gozalti/?utm_source=rss&utm_medium=rss&utm_campaign=katilimevim-destek-ve-hedef-holding-operasyonu-14-gozalti",
   "source": "Diken",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-13T05:01:07.320115+00:00",
   "type": "news",
   "cluster_id": "c1acf935e81ec"
- },
- {
-  "title": "Asian stocks rise as US inflation data dents September Fed hike bets",
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD enflasyon verisi Fed'in Eylül ayında faiz artırma olasılığını azalttı; Asya borsaları yükselişe geçti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-13T04:01:09.623904+00:00",
-  "type": "news",
-  "cluster_id": "ccf2211d92150"
- },
- {
-  "title": "Şirketler faktoringin eline duştu",
-  "link": "https://www.sozcu.com.tr/sirketler-faktoringin-eline-dustu-p346859",
-  "source": "Sözcü",
-  "summary_tr": "Bankalardan kredi alamayan şirketler %60'ı aşan faiz oranlarıyla faktoringe başvuruyor; işletmelerin finansal zor durumu derinleşiyor.",
-  "metric": "Faktoring faiz oranı %60+",
-  "lean": "left",
-  "score": 8,
-  "ts": "2026-08-13T03:01:06.480679+00:00",
-  "type": "news",
-  "cluster_id": "ce40015667d83"
- },
- {
-  "title": "Riskin yeni adı: Gözyaşı kapısı",
-  "link": "https://www.sozcu.com.tr/riskin-yeni-adi-gozyasi-kapisi-p346860",
-  "source": "Sözcü",
-  "summary_tr": "Orta Doğu'daki jeopolitik gerilim Babülmendep Boğazı'na sıçradı; küresel enerji piyasaları risk altında.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-13T03:01:06.480679+00:00",
-  "type": "news",
-  "cluster_id": "cd1cbb9c0f3a8"
  }
 ]
