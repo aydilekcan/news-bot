@@ -1,5 +1,29 @@
 [
  {
+  "title": "Motorin 100 lirayı gördü: Günlük yaşamı ve üretimi nasıl etkileyebilir?",
+  "link": "https://www.bbc.com/turkce/articles/c80463wg09d1o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Motorin litre fiyatı 17 Eylül'de yapılan zamla ilk kez 100 lirayı aştı ve üç haneli fiyata ulaştı. Gelişme sektörlerin günlük yaşamını ve üretim maliyetlerini doğrudan etkileyecek.",
+  "metric": "Motorin fiyatı 100 TL/litre üstüne çıktı",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-22T00:01:17.154613+00:00",
+  "type": "news",
+  "cluster_id": "c4b2ace8ed4e5"
+ },
+ {
+  "title": "EXCLUSIVE: US to open two new military bases in Greenland, sources say",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbTI3eU92Z3FoaElJN24tR3JUS1F2bFFoYUh6X3ItQjV4T0s1M0FiV0Z6dTB2aU1MX1pxamNJOVpUa0RvbkNVMnR5M0hCeEVsSGVMTlVZazhpOXRPcXB2ZDltTTZKSTRPSm8zNkFVelh2RUVyVHZPdTZJRlpmamxucjRaeGVuOFVmZlE2NmRUY0Z6Q0Q3N0Y1cHFabWZDVG1JM2F3?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, Grönland'da iki yeni askeri üs açacağını açıkladı. Hamle NATO'nun kuzey genişlemesi stratejisini ve Rusya-Çin cephesini etkileyebilir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-22T00:01:17.154613+00:00",
+  "type": "news",
+  "cluster_id": "c2083a70efec3"
+ },
+ {
   "title": "Zelenskiy and US spy chief Ratcliffe meet in Ireland, sources say",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUXNIZ2hpenZmaFFsV25XLTNidW5ZTVhxdDF6dkZFNDVUWERqVkpwNEkyczIwSXFxTF9mZmJmZ3ZxbzBVc0N0eDdvaUVvUFVvaFUwa2Q3ckgtZ2Y4QWVvTG1IUVhMdXN0b0lURm94UEt5Y0V4Tnh6QlNKTXVUTlNrYm12S3YyeHpqQVpvVkl4bnZlQ0Izb1lxckxpWFB3OS1XQXpPQzU3YlB1QQ?oc=5",
   "source": "Reuters",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-12T18:01:07.246743+00:00",
   "type": "data",
   "cluster_id": ""
- },
- {
-  "title": "Kurtulmuş'tan yeni anayasa çıkışı: Meclis aritmetiği müsait",
-  "link": "https://www.dw.com/tr/kurtulmuş-tan-yeni-anayasa-çıkışı-meclis-aritmetiği-müsait/a-78341806?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "TBMM Başkanı Kurtulmuş, Türkiye'nin yeni anayasaya ihtiyaç duyduğunu ve mevcut meclis aritmetiğinin bunu mümkün kıldığını söyledi.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-12T17:01:08.291795+00:00",
-  "type": "news",
-  "cluster_id": "cea31c5bc25c1"
- },
- {
-  "title": "Dalaman Belediye Başkanı Sezer Durmuş CHP'den istifa etti: Meclis üyeleri ile beraber YENİ Parti’ye geçti",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/dalaman-belediye-baskani-sezer-durmus-chp-den-istifa-etti-meclis-uyeleri-ile-beraber-yeni-parti-ye-gecti-2528596",
-  "source": "Cumhuriyet",
-  "summary_tr": "Dalaman Belediye Başkanı Sezer Durmuş CHP'den istifa ederek YENİ Parti'ye geçti; 11 meclis üyesi de katıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-12T17:01:08.291795+00:00",
-  "type": "news",
-  "cluster_id": "c5dfac4593930"
  }
 ]
