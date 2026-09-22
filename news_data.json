@@ -1,5 +1,65 @@
 [
  {
+  "title": "SPK pay geri alımlarında üst sınırı kaldırdı",
+  "link": "https://www.diken.com.tr/spk-pay-geri-alimlarinda-ust-siniri-kaldirdi/?utm_source=rss&utm_medium=rss&utm_campaign=spk-pay-geri-alimlarinda-ust-siniri-kaldirdi",
+  "source": "Diken",
+  "summary_tr": "Sermaye Piyasası Kurulu (SPK), şirketlerin pay geri alımlarında toplam bedel üst sınırını kaldırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-22T13:01:16.772788+00:00",
+  "type": "news",
+  "cluster_id": "ca0a1fc16bedd"
+ },
+ {
+  "title": "SPK, pay geri alımlarında bedel üst sınırını kaldırdı",
+  "link": "https://www.trthaber.com/haber/ekonomi/spk-pay-geri-alimlarinda-bedel-ust-sinirini-kaldirdi-957670.html",
+  "source": "TRT Haber",
+  "summary_tr": "SPK, pay geri alımlarında toplam bedele ilişkin üst sınırın uygulanmayacağını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-22T13:01:16.772788+00:00",
+  "type": "news",
+  "cluster_id": "ca0a1fc16bedd"
+ },
+ {
+  "title": "Şimşek tüyoyu ABD'lilere verdi: Türkiye'de en çok bu 5 sektör kazandıracak",
+  "link": "https://www.sozcu.com.tr/simsek-tuyoyu-abd-lilere-verdi-turkiye-de-en-cok-bu-5-sektor-kazandiracak-p362536",
+  "source": "Sözcü",
+  "summary_tr": "Hazine ve Maliye Bakanı Mehmet Şimşek, New York'taki yatırım buluşmasında Türkiye'de yatırım yapabilecek 5 sektörü ABD'li yatırımcılara tanıttı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-22T13:01:16.772788+00:00",
+  "type": "news",
+  "cluster_id": "cde3aa8fa519d"
+ },
+ {
+  "title": "İki işçi ve sıfır inekle Türkiye'nin 'en büyüğü' olmuşlardı: Gıda devinde deprem",
+  "link": "https://www.sozcu.com.tr/iki-isci-ve-sifir-inekle-turkiye-nin-en-buyugu-olmuslardi-gida-devinde-deprem-p362532",
+  "source": "Sözcü",
+  "summary_tr": "Borsa İstanbul'da yükselen Gündoğdu Gıda'da üretim durdu; şirket zor durumda.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-22T13:01:16.772788+00:00",
+  "type": "news",
+  "cluster_id": "c51038d18f139"
+ },
+ {
+  "title": "Türkiye'nin de aralarında bulunduğu 8 ülkeden Gazze açıklaması",
+  "link": "https://www.trthaber.com/haber/gundem/turkiyenin-de-aralarinda-bulundugu-8-ulkeden-gazze-aciklamasi-957678.html",
+  "source": "TRT Haber",
+  "summary_tr": "Türkiye dahil 8 ülkenin Dışişleri Bakanları, Gazze'deki duruma ilişkin ortak açıklama yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-22T13:01:16.772788+00:00",
+  "type": "news",
+  "cluster_id": "c65ffbac2475e"
+ },
+ {
   "title": "SPK: 'Hisse pay geri alımlarında üst sınır kaldırıldı'",
   "link": "https://www.sozcu.com.tr/spk-hisse-pay-geri-alimlarinda-ust-sinir-kaldirildi-p362512",
   "source": "Sözcü",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-13T08:01:16.050809+00:00",
   "type": "news",
   "cluster_id": "c4447ab8a0ae2"
- },
- {
-  "title": "Ödemeler dengesi verileri açıklandı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/odemeler-dengesi-verileri-aciklandi/4025943",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Haziran ayında Türkiye'nin cari işlemler hesabında 4,194 milyar dolarlık açık oluştu; altın ve enerji hariç cari hesap açığı da açıklandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-13T08:01:16.050809+00:00",
-  "type": "news",
-  "cluster_id": "c0d2af4636d55"
- },
- {
-  "title": "Güncel akaryakıt fiyatları",
-  "link": "https://www.diken.com.tr/guncel-akaryakit-fiyatlari-13-agustos-2026/?utm_source=rss&utm_medium=rss&utm_campaign=guncel-akaryakit-fiyatlari-13-agustos-2026",
-  "source": "Diken",
-  "summary_tr": "Akaryakıt fiyatları Brent petrol dalgalanmalarına bağlı olarak güncellendi (13 Ağustos 2026).",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-13T08:01:16.050809+00:00",
-  "type": "news",
-  "cluster_id": "c3ce81c890ab9"
- },
- {
-  "title": "Son Dakika... İşçiler holding binasına girdi: Yıldızlar SSS Holding patronu işçilerle canlı yayında konuştu",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-isciler-holding-binasina-girdi-yildizlar-sss-holding-patronu-iscilerle-canli-yayinda-konustu-2528731",
-  "source": "Cumhuriyet",
-  "summary_tr": "Doruk Madencilik'e ait Yıldızlar SSS Holding binasına Türkiye Maden İş üyesi madenciler girdi; holding sahibi Sabahattin Yıldız işçilerle canlı yayında görüştü.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-13T08:01:16.050809+00:00",
-  "type": "news",
-  "cluster_id": "cf2aee6a1b6d0"
- },
- {
-  "title": "Yabancılara konut satışında zirvede hangi ülke var? TÜİK temmuz verilerini açıkladı...",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/yabancilara-konut-satisinda-zirvede-hangi-ulke-var-tuik-temmuz-verilerini-acikladi-2528722",
-  "source": "Cumhuriyet",
-  "summary_tr": "TÜİK temmuz verilerine göre toplam konut ve işyeri satışları geçen yılın aynı ayına kıyasla gerileme kaydetti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-13T08:01:16.050809+00:00",
-  "type": "news",
-  "cluster_id": "c3504a733c82a"
- },
- {
-  "title": "Türkiye Ay aracını 2027'nin ilk aylarında uzaya fırlatacak",
-  "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turkiye-ay-aracini-2027nin-ilk-aylarinda-uzaya-firlatacak/4025920",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Ay Projesi kapsamında uzay aracının 2027'nin ilk aylarında fırlatılacağını açıkladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-13T08:01:16.050809+00:00",
-  "type": "news",
-  "cluster_id": "cff04ee170ebd"
  }
 ]
