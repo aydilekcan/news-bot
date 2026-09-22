@@ -1,5 +1,77 @@
 [
  {
+  "title": "Enver Altaylı'ya 'kamu görevlisini tehdit'ten soruşturma",
+  "link": "https://www.diken.com.tr/enver-altayliya-kamu-gorevlisini-tehditten-sorusturma/?utm_source=rss&utm_medium=rss&utm_campaign=enver-altayliya-kamu-gorevlisini-tehditten-sorusturma",
+  "source": "Diken",
+  "summary_tr": "Eski MİT görevlisi Kaşif Kozinoğlu'nun cezaevinde ölümüyle ilgili soruşturmada Enver Altaylı hakkında 'kamu görevlisini tehdit' suçundan yeni soruşturma açıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-22T17:01:11.471104+00:00",
+  "type": "news",
+  "cluster_id": "cb4fc65013057"
+ },
+ {
+  "title": "Hakkında tutuklama kararı verilmişti... Enver Altaylı hakkında yeni soruşturma",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/enver-altayli-hakkinda-yeni-sorusturma-savciya-hesaplasacagiz-demis-2540036",
+  "source": "Cumhuriyet",
+  "summary_tr": "Kaşif Kozinoğlu soruşturması kapsamında tutuklanan Enver Altaylı hakkında, savcıya yönelik söylemleri nedeniyle yeni soruşturma başlatıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-22T17:01:11.471104+00:00",
+  "type": "news",
+  "cluster_id": "c86a01ddd5b8f"
+ },
+ {
+  "title": "Enver Altaylı'ya görevli savcıya tehdit suçundan yeni soruşturma",
+  "link": "https://www.trthaber.com/haber/gundem/enver-altayliya-gorevli-savciya-tehdit-sucundan-yeni-sorusturma-957713.html",
+  "source": "TRT Haber",
+  "summary_tr": "Kaşif Kozinoğlu'nun cezaevinde yaşamını yitirmesiyle ilgili soruşturmada tutuklanan Enver Altaylı hakkında görevli savcıya tehdit suçundan yeni soruşturma açıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-22T17:01:11.471104+00:00",
+  "type": "news",
+  "cluster_id": "c2a6d4e8f50a0"
+ },
+ {
+  "title": "Kaşif Kozinoğlu soruşturması: Enver Altaylı tutuklandı",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZUl1VnRueGNPQTVwamdFbDlRa2VJOEV1NmY0TXdva2RMcDc0OV9lTXNkcWYyeE1ZTE1QcGlFdWJZWkNKVEZabUxkcHFXRXA1ZmhIZUxEUFR3cWNPMEdoYnB3aWRxbEVCZUVKcWtkTGJKakhxSzlmNHJLS282dFdhS19oaC12RlY0RTNnM1Q1NHU?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Kaşif Kozinoğlu soruşturması kapsamında Enver Altaylı tutuklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-22T17:01:11.471104+00:00",
+  "type": "news",
+  "cluster_id": "c53576616939a"
+ },
+ {
+  "title": "4 bin çalışanı bulunan iki yapı market zinciri iflas etti: 111 mağazada tasfiye satışları başladı",
+  "link": "https://www.sozcu.com.tr/4-bin-calisani-bulunan-iki-yapi-market-zinciri-iflas-etti-111-magazada-tasfiye-satislari-basladi-p362589",
+  "source": "Sözcü",
+  "summary_tr": "Almanya'nın ünlü yapı market zincirleri Hellweg ve BayWa Bau & Garten iflas etti; toplamda 4 bin çalışanı bulunan iki şirketin 111 mağazasında tasfiye satışları başladı.",
+  "metric": "Mağaza sayısı: 111",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-22T17:01:11.471104+00:00",
+  "type": "news",
+  "cluster_id": "c77175b20bfe7"
+ },
+ {
+  "title": "Gunman opens fire near Turkish high school, wounding at least 11",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVlRNbm80TUZNMTNQNmYyeEN5SV9tMVlmTnJrWkpRREt1RW5zM04xTWVGSTBEdXlRTmp6TGctZXZ1emlFQjY5TjJYS1hLcmx3djlvX2dRbVh5MzUtQ1ZPOW9lR1U3RzdRSDh2QkNSOEk0MEhBejNpRTMtdXZEczgyVHNHcXpxdm9McGJGMlFwaE9DWXM?oc=5",
+  "source": "AP",
+  "summary_tr": "Türkiye'deki bir liseye yakında silahlı saldırı düzenlenmiş, en az 11 kişi yaralanmıştır.",
+  "metric": "Yaralı sayısı: 11+",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-22T17:01:11.471104+00:00",
+  "type": "news",
+  "cluster_id": "c414e6626f526"
+ },
+ {
   "title": "Fonlarda tasfiye: Yatırımcının parasını kim ödeyecek?",
   "link": "https://www.dw.com/tr/fonlarda-tasfiye-yatırımcının-parasını-kim-ödeyecek/a-79376765?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-13T10:01:13.373035+00:00",
   "type": "news",
   "cluster_id": "cae2c52521f43"
- },
- {
-  "title": "Süleymancılar soruşturması: Gözaltına alınan 30 kişi belli oldu",
-  "link": "https://www.diken.com.tr/suleymancilar-sorusturmasi-gozaltina-alinan-30-kisi-belli-oldu/?utm_source=rss&utm_medium=rss&utm_campaign=suleymancilar-sorusturmasi-gozaltina-alinan-30-kisi-belli-oldu",
-  "source": "Diken",
-  "summary_tr": "Ankara Başsavcılığı, Süleymancılar cemaati soruşturmasında 30 kişinin gözaltına alındığını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-13T10:01:13.373035+00:00",
-  "type": "news",
-  "cluster_id": "cd02cacdf7f62"
- },
- {
-  "title": "“Kuriş suç örgütü” soruşturması ve Süleymancıların derin geçmişi",
-  "link": "https://yetkinreport.com/2026/08/13/kuris-suc-orgutu-sorusturmasi-ve-suleymancilarin-derin-gecmisi/",
-  "source": "YetkinReport",
-  "summary_tr": "Ankara Cumhuriyet Başsavcılığı, Süleymancılar cemaati lideri Alihan Kuriş dahil 30 kişi hakkında suç örgütü ve para aklama soruşturması başlattı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-13T10:01:13.373035+00:00",
-  "type": "news",
-  "cluster_id": "c27d613a0adab"
- },
- {
-  "title": "Türkiye'nin hububat sektörü ihracatı 7 ayda 6,9 milyar dolara ulaştı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-hububat-sektoru-ihracati-7-ayda-6-9-milyar-dolara-ulasti/4026171",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye'nin hububat, bakliyat, yağlı tohumlar sektörü ocak-temmuz döneminde 6,9 milyar dolar ihracat yaptı.",
-  "metric": "Hububat sektörü ihracatı (ocak-temmuz) 6,9 milyar dolar",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-13T10:01:13.373035+00:00",
-  "type": "news",
-  "cluster_id": "c3d8915b75508"
- },
- {
-  "title": "2,9 milyon çiftçiye 6 ayda 106 milyar lira destek",
-  "link": "https://www.trthaber.com/haber/ekonomi/29-milyon-ciftciye-6-ayda-106-milyar-lira-destek-953863.html",
-  "source": "TRT Haber",
-  "summary_tr": "Tarım ve Orman Bakanlığı, yılın ilk 6 ayında 2,9 milyon çiftçiye toplam 106 milyar 22 milyon lira tarımsal destek ödemesi yaptı.",
-  "metric": "Tarımsal destek (6 ay) 106,22 milyar lira; 2,9 milyon çiftçi",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-13T10:01:13.373035+00:00",
-  "type": "news",
-  "cluster_id": "c23dd709abc5f"
- },
- {
-  "title": "Süleymancılar’a operasyon: Alihan Kuriş dahil 49 kişi hakkında gözaltı kararı",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONVZXUm9RSllsWDUyMkk0bzVVRkt4Wmw1YlNKSS04YTJIUGkxb3E3SXRfSkhUd2tlYTFnbVRBZXpBaTJJaGI3aWV6bU9XZkpETS10eWVlcVlFUllkQjBWbktPakwtaGZLSjFBdUZiN05jNGFJNVFoRXpNaWR1alhMVzhGM1d4VWhvY041WTVuNmdGSXZHOGc3SEZKUVVpbVAyOGZ3and0QnJvUnVhR0E?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Ankara'da Süleymancılar cemaati soruşturmasında Alihan Kuriş dahil 49 kişi hakkında gözaltı kararı verildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-13T10:01:13.373035+00:00",
-  "type": "news",
-  "cluster_id": "c8cfbb41a8e7e"
- },
- {
-  "title": "Süleymancılara yönelik soruşturma: Hangi şirketlere operasyon düzenlendi?",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc1ZGZl9YZWdKWU9hRWVfejZUaHdmXzRFSmVGaFVsdmVUNUpPdGo2eEFlYXViRWJSTkp5VnNnMFpOZUFjeUc4Y0RWb3kwRTRWMFpWOWlqN1pOVEtHcGdfa20wSTRZWTlZYTNsY29aUmJzMHI1QWZucGxmUEhWTldHVjJBQlJOQ1VxQS03Z1AtQ2V0WThMdXJpZGZaaGlobDFlWW0zcndNTHdkWVN3RlE?oc=5",
-  "source": "soL",
-  "summary_tr": "Süleymancılara yönelik soruşturmada çeşitli şirketlere operasyon düzenlendi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-13T10:01:13.373035+00:00",
-  "type": "news",
-  "cluster_id": "c7e375418dd76"
  }
 ]
