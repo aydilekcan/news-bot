@@ -1,5 +1,29 @@
 [
  {
+  "title": "Herkes bu gizemli milyarderi konuşuyor: Bir gecede Türkiye'deki hesabından 45 milyar TL çekti",
+  "link": "https://www.sozcu.com.tr/herkes-bu-gizemli-milyarderi-konusuyor-bir-gecede-turkiye-deki-hesabindan-45-milyar-tl-cekti-p362371",
+  "source": "Sözcü",
+  "summary_tr": "Sermaye piyasalarını sarsan 'fon' skandalında milyardı hesaptan bir gecede 45 milyar TL çekildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-22T05:01:10.536708+00:00",
+  "type": "news",
+  "cluster_id": "c291646dcf39e"
+ },
+ {
+  "title": "Türkiye komşu ülkeye uçuşları tamamen kaldırıyor",
+  "link": "https://www.sozcu.com.tr/turkiye-komsu-ulkeye-ucuslari-tamamen-kaldiriyor-p362359",
+  "source": "Sözcü",
+  "summary_tr": "ABD yaptırımlarından sonra Türk Hava Yolları ve AJet, Mart 2027'ye kadar İran uçuşlarını durdurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-22T05:01:10.536708+00:00",
+  "type": "news",
+  "cluster_id": "c69df71a0b010"
+ },
+ {
   "title": "Yen squeezed as hawkish turn grips central banks",
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFUzRjA0NWVBcXQ2Z1Z3WGVOdGQ0XzNQbll4OGRTbnd4T1dxRnFXSzB1d19zNDM1dWFKdE9JTHRDZzlVYlpWT3FpUFFqNUVWVlFmMDM5eXE0UGZXUnpmWjh3SnpWMzJaSTEtUmJMNmZzTGpMODNYNUFlQm5pMXR1VU9fVlZNUEZQOUpMUEVzc2pVcXA0bEQ5amdQUUEzT2VLWXc?oc=5",
   "source": "Reuters",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-12T18:01:07.246743+00:00",
   "type": "news",
   "cluster_id": "c0ee2697e315a"
- },
- {
-  "title": "Putin threatens retaliation for Western seizures of Russian commercial vessels",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2RXclZINmpYTFM5Wk4zbGdGdWwwb19Ba3ZveG5YSnpvRmNfbVVmRnNzcEtpWWdWZldMdXhWTHF3Q0ZjRFpCVENFOUNjOU9kZ09hT3I5Z2hWQUJKMEI2djBIdEV4VFE5eFVrVVptTmFtc256TWlhYWVCY2MtSkUyMDNhV0MzNFVfaFNUdG1GLVI2VXA5czk1czV4REhKZmpadjd5bUNoTVI?oc=5",
-  "source": "AP",
-  "summary_tr": "Putin, Batılı ülkelerin Rus ticari gemilerine el koymasına karşılık olarak misilleme tehdidinde bulundu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-12T18:01:07.246743+00:00",
-  "type": "news",
-  "cluster_id": "c1c5e4786e578"
- },
- {
-  "title": "Almanya’da otomotiv çalışanları işten çıkarmalara karşı eylem yapacak",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/almanya-da-otomotiv-calisanlari-isten-cikarmalara-karsi-eylem-yapacak-2528614",
-  "source": "Cumhuriyet",
-  "summary_tr": "Almanya'da otomotiv sektöründeki işten çıkarmalar ve fabrika kapanmalarına karşı IG Metall sendikası eylem kararı aldı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-12T18:01:07.246743+00:00",
-  "type": "news",
-  "cluster_id": "c7826057a80ef"
  }
 ]
