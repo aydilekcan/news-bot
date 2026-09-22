@@ -1,5 +1,65 @@
 [
  {
+  "title": "SPK: 'Hisse pay geri alımlarında üst sınır kaldırıldı'",
+  "link": "https://www.sozcu.com.tr/spk-hisse-pay-geri-alimlarinda-ust-sinir-kaldirildi-p362512",
+  "source": "Sözcü",
+  "summary_tr": "SPK, hisse geri alımlarında üst sınır uygulamasını kaldırdı. Pay geri alımlarında toplam bedel limitasyonu ortadan kalktı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-22T12:01:13.163146+00:00",
+  "type": "news",
+  "cluster_id": "cc045db7c6d1a"
+ },
+ {
+  "title": "SPK, pay geri alımlarında üst sınırın uygulanmamasına karar verdi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/spk-pay-geri-alimlarinda-ust-sinirin-uygulanmamasina-karar-verdi/4064423",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Sermaye Piyasası Kurulu, pay geri alımlarında üst sınırın uygulanmayacağını karar kıldı. Şirketlere geri alım konusunda daha geniş hareket alanı tanındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-22T12:01:13.163146+00:00",
+  "type": "news",
+  "cluster_id": "cc045db7c6d1a"
+ },
+ {
+  "title": "Takasbank duyurdu: 12 hissede temerrüt alışı yapılacak",
+  "link": "https://www.sozcu.com.tr/takasbank-duyurdu-12-hissede-temerrut-alisi-yapilacak-p362507",
+  "source": "Sözcü",
+  "summary_tr": "Takasbank, 12 hisse senedinde temerrüt alımı yapacağını duyurdu. Piyasada oluşan temerrütlerin kapatılması için işlem başlatılacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-22T12:01:13.163146+00:00",
+  "type": "news",
+  "cluster_id": "ceb38b0b688e0"
+ },
+ {
+  "title": "Avrupa'da doğal gaz fiyatları üç haftanın en düşük seviyesine geriledi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/avrupada-dogal-gaz-fiyatlari-uc-haftanin-en-dusuk-seviyesine-geriledi/4064385",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Avrupa'da doğal gaz fiyatları üç haftanın en düşük seviyesine geriledi. İran'ın Hürmüz Boğazını açma sinyalinin ardından enerji fiyatlarında düşüş yaşandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-22T12:01:13.163146+00:00",
+  "type": "news",
+  "cluster_id": "cb23297d088d6"
+ },
+ {
+  "title": "Avrupa'da doğal gaz fiyatları üç haftanın en düşük seviyesinde",
+  "link": "https://www.trthaber.com/haber/dunya/avrupada-dogal-gaz-fiyatlari-uc-haftanin-en-dusuk-seviyesinde-957666.html",
+  "source": "TRT Haber",
+  "summary_tr": "Avrupa doğal gaz fiyatları 70 euro/MWh altına düştü ve üç haftanın en düşük seviyesine ulaştı. İran ve ABD haberlerinin ardından enerji maliyetleri azaldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-22T12:01:13.163146+00:00",
+  "type": "news",
+  "cluster_id": "cb23297d088d6"
+ },
+ {
   "title": "Aylardır beklenen haber geldi: Petrol sert düştü",
   "link": "https://www.sozcu.com.tr/aylardir-beklenen-haber-geldi-petrol-sert-dustu-p362491",
   "source": "Sözcü",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-13T08:01:16.050809+00:00",
   "type": "news",
   "cluster_id": "cff04ee170ebd"
- },
- {
-  "title": "Türkiye Ay aracını 2027'de uzaya fırlatacak",
-  "link": "https://www.trthaber.com/haber/bilim-teknoloji/turkiye-ay-aracini-2027de-uzaya-firlatacak-953835.html",
-  "source": "TRT Haber",
-  "summary_tr": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye Ay aracının 2027'de kendi hibrit itki roket sistemiyle uzaya fırlatılacağını açıkladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-13T08:01:16.050809+00:00",
-  "type": "news",
-  "cluster_id": "cff04ee170ebd"
- },
- {
-  "title": "Türkiye'de temmuzda 123 bin 603 konut satıldı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/turkiyede-temmuzda-123-bin-603-konut-satildi/4025946",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye'de temmuzda satılan konut sayısı 123 bin 603 olup, geçen yılın aynı ayına kıyasla %17 azaldı.",
-  "metric": "Konut satışları (yılsal) 123.603 (-%17)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-13T08:01:16.050809+00:00",
-  "type": "news",
-  "cluster_id": "c51f5fda7340d"
- },
- {
-  "title": "Hazine ve Maliye Bakanı Şimşek, motorinde \"kademeli ÖTV\" uygulamasını değerlendirdi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-motorinde-kademeli-otv-uygulamasini-degerlendirdi/4025933",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Hazine ve Maliye Bakanı Şimşek, motorine uygulanan kademeli ÖTV'nin maliyet baskılarını hafifletmeye ve enflasyonu kontrol etmeye yardımcı olduğunu değerlendirdi.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-13T08:01:16.050809+00:00",
-  "type": "news",
-  "cluster_id": "c97cbf3b317bd"
- },
- {
-  "title": "Bakan Şimşek, motorinde kademeli ÖTV uygulamasını değerlendirdi",
-  "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-motorinde-kademeli-otv-uygulamasini-degerlendirdi-953838.html",
-  "source": "TRT Haber",
-  "summary_tr": "Hazine ve Maliye Bakanı Şimşek, motorinde uygulanan kademeli ÖTV uygulamasının enflasyon ve maliyet baskısını hafiflettiğini belirtti.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-13T08:01:16.050809+00:00",
-  "type": "news",
-  "cluster_id": "c97cbf3b317bd"
- },
- {
-  "title": "Temmuz ayı konut ve iş yeri satış istatistikleri açıklandı",
-  "link": "https://www.trthaber.com/haber/ekonomi/temmuz-ayi-konut-ve-is-yeri-satis-istatistikleri-aciklandi-953840.html",
-  "source": "TRT Haber",
-  "summary_tr": "Temmuzda konut satışları yıllık bazda %17 azalarak 123 bin 603 oldu; ipotekli satışlar %23,7 arttı.",
-  "metric": "Konut satışları (yılsal) -%17; ipotekli satışlar +%23,7",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-13T08:01:16.050809+00:00",
-  "type": "news",
-  "cluster_id": "c6c4593adc65b"
  }
 ]
