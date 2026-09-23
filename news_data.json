@@ -1,5 +1,29 @@
 [
  {
+  "title": "Zelenskiy says Russia planning new mass attack on Ukraine",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV045LXNpMHZzM3o3R1h1N3ZtNmJNaTN0V3lHNkwxYmpfNU9NeFMzVG9tQmdDeDY1enVzY1FXTV9LLWtyWFBNUWlGcUFLZ1MtZkxSd2xsNW96SDhmS2taZ0c1MWo3Z2NiOEtJQUVHRXhOTU00X0Rha3JMc1BBOFVKVUpnRzA1a3Q2U3MzcXJwQW1YMTVxYnhhUXpOaWRNV0N6X0laTUxLMTUyV1E4V2pHOWNWa3VLZEpG?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Zelenskiy, Rusya'nın Ukrayna'ya karşı yeni bir toplu saldırı planladığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-23T02:01:00.432329+00:00",
+  "type": "news",
+  "cluster_id": "c3653cf17b8a6"
+ },
+ {
+  "title": "MEB’in ‘usule aykırı’ dağıttığı ücret Sayıştay raporunda ortaya çıktı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/meb-in-usule-aykiri-dagittigi-ucret-sayistay-raporunda-ortaya-cikti-2540114",
+  "source": "Cumhuriyet",
+  "summary_tr": "Sayıştay'ın MEB 2025 Denetim Raporu'nda mesleki ve teknik öğretim okullarının döner sermaye işletmelerinde usule aykırı ücret dağıtımı tespit edildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-23T02:01:00.432329+00:00",
+  "type": "news",
+  "cluster_id": "c982f5481dd8f"
+ },
+ {
   "title": "Sayıştay’ın Sağlık Bakanlığı raporunda dikkat çeken bulgular yer aldı: Yanlış tutulan kayıtlar, uygunsuz ekipmanlar!",
   "link": "https://www.cumhuriyet.com.tr/turkiye/sayistay-in-saglik-bakanligi-raporunda-dikkat-ceken-bulgular-yer-aldi-yanlis-tutulan-kayitlar-uygunsuz-ekipmanlar-2540098",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-13T17:01:29.708610+00:00",
   "type": "news",
   "cluster_id": "cba52deba508c"
- },
- {
-  "title": "Son dakika... Erdoğan ile DEM Parti İmralı Heyeti görüşmesi sona erdi",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-erdogan-ile-dem-parti-imrali-heyeti-gorusmesi-sona-erdi-2528880",
-  "source": "Cumhuriyet",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, DEM Parti İmralı Heyeti üyeleri Pervin Buldan ve Mithat Sancar'ı kabul etti; görüşme yaklaşık 1 saat 40 dakika sürdü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-13T16:01:22.089657+00:00",
-  "type": "news",
-  "cluster_id": "c5fb1f4b10590"
- },
- {
-  "title": "Cumhurbaşkanı Erdoğan, DEM Parti heyetini kabul etti",
-  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-dem-parti-heyetini-kabul-etti/4026574",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, DEM Parti TBMM Başkanvekili Pervin Buldan ve Şanlıurfa Milletvekili Mithat Sancar'ı kabul etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-13T16:01:22.089657+00:00",
-  "type": "news",
-  "cluster_id": "c3aa4f8e80347"
  }
 ]
