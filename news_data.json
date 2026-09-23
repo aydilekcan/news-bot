@@ -1,5 +1,29 @@
 [
  {
+  "title": "Emekli için önce eylem birliği",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWkxYUEVBbEQxbXprSGdEU3FGbjVxeHBDeW5vdm8xZVBhdUdQSTFkSkxxRHZFb1pFcW9PbFNOa24zelMxYl8tQkVaR3p3QkRibmxPR3BDQWhRYXdYRHJGMGgycmI1WEZGdkJiV3hlM1NTdWpaOWhVNGg1UGFBTHl3R1RpX1RTWklJaVItOVg1dw?oc=5",
+  "source": "soL",
+  "summary_tr": "Emekliler için işçi sendikaları eylem birliği oluşturmaya çağırıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-23T23:01:02.156858+00:00",
+  "type": "news",
+  "cluster_id": "c88e747e9bda5"
+ },
+ {
+  "title": "Europeans warn of rising Russian sabotage but see no imminent NATO attack",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMmhIM0ttNVlBZkxnZUxrVmRWaGI3ZHFTVVQwM3YtLTBsMExneTBCQXlnZXFoXzFRYnpRYmdCOUVxaWtzTmNiRUFsbXBBdWRzY3ZEdl9WWldfUHdmanRyYjRNNHVGRDMwaTZ4T2FKTHdiTi00b0dIVDNVNm5yOFQ0WFVRcFZnazBfWE1faW9hN3NGNVZ2OFphUTFvcVczVVQ1UWJrdHRZRjNfMFQ0anllMVEzSlVBR1BGWGkyME01TDRxa2JTWk1yaQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Avrupa ülkeleri Rusya'nın sabotaj faaliyetlerinin arttığı konusunda uyarıda bulunuyor, ancak NATO'ya karşı yakın bir tehdit görmüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-23T23:01:02.156858+00:00",
+  "type": "news",
+  "cluster_id": "c70ada6bffaa1"
+ },
+ {
   "title": "ABD yaptırımları İran'a uçuşların önünü kapatabilir mi, Türkiye nasıl etkilenecek?",
   "link": "https://www.bbc.com/turkce/articles/ck6241668yj2o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-15T13:01:00.499646+00:00",
   "type": "news",
   "cluster_id": "c81f37d41d8a5"
- },
- {
-  "title": "47 yıllık dev otobüs firması iflas etti: Tüm seferler durduruldu",
-  "link": "https://www.sozcu.com.tr/47-yillik-otobus-firmasi-iflas-etti-tum-seferler-durduruldu-p349620",
-  "source": "Sözcü",
-  "summary_tr": "47 yıllık dev otobüs firması artan maliyetlere yenik düşerek kapandı; tüm seferler durduruldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-15T12:01:04.791872+00:00",
-  "type": "news",
-  "cluster_id": "c7e5c2c7c42c8"
- },
- {
-  "title": "Erdoğan imzaladı: Üniversite harçlarına ortalama yüzde 20 zam",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQms4ek9HM2pLT1lkaEdPNzZKUUM0aHBvamN5dGcxS0R5ZVU4NThYSHdEX3diSWs5Wmp3WXluYmF0aWFiRlFNaEFtN3Y4SXRXWlgwb2lGSXlBbjJ0blVvTFpJeUxRcHRXRGZ1WmRmNy1zd3JsNXljZGpMdzhxaXRLTnpGVXBldFVvRXhlcmM0cVdPWVZvODltV3g4WkFXdnc?oc=5",
-  "source": "soL",
-  "summary_tr": "Erdoğan üniversite harçlarına ortalama %20 zam imzaladı.",
-  "metric": "Üniversite harçları ortalama +%20",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-15T12:01:04.791872+00:00",
-  "type": "news",
-  "cluster_id": "c0127e55ce52e"
  }
 ]
