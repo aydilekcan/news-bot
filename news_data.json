@@ -1,5 +1,17 @@
 [
  {
+  "title": "Sayıştay’ın Sağlık Bakanlığı raporunda dikkat çeken bulgular yer aldı: Yanlış tutulan kayıtlar, uygunsuz ekipmanlar!",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/sayistay-in-saglik-bakanligi-raporunda-dikkat-ceken-bulgular-yer-aldi-yanlis-tutulan-kayitlar-uygunsuz-ekipmanlar-2540098",
+  "source": "Cumhuriyet",
+  "summary_tr": "Sayıştay, Sağlık Bakanlığı 2025 raporunda yanlış tutulan kayıtlar, uygunsuz ekipmanlar ve yönetmelikle uyumsuz projeler tespit etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-23T01:01:02.847108+00:00",
+  "type": "news",
+  "cluster_id": "c28e15708085b"
+ },
+ {
   "title": "Yavuzyılmaz hesapladı: Avrupa Otoyolu özelleştirilirse ücret 780 TL’ye çıkabilir",
   "link": "https://www.cumhuriyet.com.tr/turkiye/yavuzyilmaz-hesapladi-avrupa-otoyolu-ozellestirilirse-ucret-780-tl-ye-cikabilir-2540117",
   "source": "Cumhuriyet",
@@ -59986,17 +59998,5 @@
   "ts": "2026-08-13T16:01:22.089657+00:00",
   "type": "news",
   "cluster_id": "c3aa4f8e80347"
- },
- {
-  "title": "Akın Gürlek'ten \"Süleymancılara operasyon\" açıklaması",
-  "link": "https://www.dw.com/tr/akın-gürlek-ten-süleymancılara-operasyon-açıklaması/a-78346067?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Adalet Bakanı Akın Gürlek, Alihan Kuriş liderliğindeki örgüte yönelik operasyonda 33 kişinin gözaltına alındığını ve işlemin mali suçlara ilişkin olduğunu açıkladı.",
-  "metric": "Gözaltı sayısı: 33",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-13T16:01:22.089657+00:00",
-  "type": "news",
-  "cluster_id": "c0e540bea085a"
  }
 ]
