@@ -1,5 +1,29 @@
 [
  {
+  "title": "Valizini toplayan yola düşüyor: Türkiye'nin bu ilinden binlerce kişi kaçmaya başladı",
+  "link": "https://www.sozcu.com.tr/valizini-toplayan-yola-dusuyor-turkiye-nin-bu-ilinden-binlerce-kisi-kacmaya-basladi-p362703",
+  "source": "Sözcü",
+  "summary_tr": "TÜİK verilerine göre Türkiye'nin bir ili nüfusunu hızlıca kaybetmekte; binlerce kişi il dışına göç ediyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-23T06:01:05.131354+00:00",
+  "type": "news",
+  "cluster_id": "c4f5081d7e24d"
+ },
+ {
+  "title": "Türk sanayi devi zor günler geçiriyor",
+  "link": "https://www.sozcu.com.tr/turk-sanayi-devi-zor-gunler-geciriyor-p362699",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye'nin seramik sektörü lideri Uşak Seramik ödeme krizine girdi; özel sektöre verilen ihraç mallarında sorun yaşanıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-23T06:01:05.131354+00:00",
+  "type": "news",
+  "cluster_id": "cdc0932d1327e"
+ },
+ {
   "title": "Murat Muratoğlu: SPK da çalışanlar da AKP'nin paylaşımı sayesinde ne iş yapacaklarını öğrenmiştir artık…",
   "link": "https://www.diken.com.tr/murat-muratoglu-spk-da-calisanlar-da-akpnin-paylasimi-sayesinde-ne-is-yapacaklarini-ogrenmistir-artik/?utm_source=rss&utm_medium=rss&utm_campaign=murat-muratoglu-spk-da-calisanlar-da-akpnin-paylasimi-sayesinde-ne-is-yapacaklarini-ogrenmistir-artik",
   "source": "Diken",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-13T19:01:10.797396+00:00",
   "type": "news",
   "cluster_id": "cc20429bc2da5"
- },
- {
-  "title": "Yeni Parti'nin İstanbul'daki ilk üyesi İmamoğlu oldu",
-  "link": "https://www.sozcu.com.tr/yeni-parti-nin-istanbul-daki-ilk-uyesi-ekrem-imamoglu-oldu-p347141",
-  "source": "Sözcü",
-  "summary_tr": "İBB Başkanı Ekrem İmamoğlu, CHP'den ayrıldıktan sonra Yeni Parti'nin İstanbul'daki ilk üyesi oldu.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-13T19:01:10.797396+00:00",
-  "type": "news",
-  "cluster_id": "cf74fe2486768"
- },
- {
-  "title": "Iran-backed Houthis clash with Yemeni forces and other Mideast developments",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2xURUdxd3E4WWRRZkVmOFBCOWIzaXNSLTJZbTkyRVVHNXlXaEd5Sk4yQ3VHcFBFNjR5YW9wOUZMSkpRYkpJZHQwNzNUQ0dQUjZfS25iUTRFY1FFbHRBQWtZb0pVenFRZC1UNG0wZjR2aUZ5cEwzWGc2SjFJLUh4Ym16eTJhVG5JLU4xNVdhRUc3NnRsWHdjMGgtZ09UaHRLMjMzM2tvTDRzblNZd2c?oc=5",
-  "source": "AP",
-  "summary_tr": "İran destekli Huthiler Yemen kuvvetleriyle çatıştı; bölgede gerilim artıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-13T19:01:10.797396+00:00",
-  "type": "news",
-  "cluster_id": "c8ee243f45372"
  }
 ]
