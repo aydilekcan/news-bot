@@ -1,5 +1,53 @@
 [
  {
+  "title": "Zelenskiy Türkiye’de üçlü zirveye yeşil ışık yaktı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/zelenskiy-turkiye-de-uclu-zirveye-yesil-isik-yakti-2540465",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ukrayna Devlet Başkanı Zelenskiy, Erdoğan ile görüşmesinin ardından Rusya-Ukrayna savaşının sona erdirilmesi için üçlü zirveye yeşil ışık yaktı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-23T21:01:07.502523+00:00",
+  "type": "news",
+  "cluster_id": "c70bc5851cd4e"
+ },
+ {
+  "title": "YENİ Parti'den başkan adaylarına 19 maddelik taahhütname: ‘Mal varlığı bildirimi’ zorunluluğu geldi",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/yeni-parti-den-baskan-adaylarina-19-maddelik-taahhutname-mal-varligi-bildirimi-zorunlulugu-geldi-2540466",
+  "source": "Cumhuriyet",
+  "summary_tr": "YENİ Parti, başkan adaylarına mal varlığı bildirimi zorunluluğu içeren 19 maddelik taahhütname hazırladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-23T21:01:07.502523+00:00",
+  "type": "news",
+  "cluster_id": "c3aa3ce884124"
+ },
+ {
+  "title": "Erdoğan, Zelenskiy ile görüştü",
+  "link": "https://www.sozcu.com.tr/erdogan-zelenskiy-ile-gorustu-p362962",
+  "source": "Sözcü",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, BM 81. Genel Kurulu kapsamında New York'ta Ukrayna Devlet Başkanı Zelenskiy ile görüştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-23T21:01:07.502523+00:00",
+  "type": "news",
+  "cluster_id": "c97c506db7e33"
+ },
+ {
+  "title": "İBB davası: İmamoğlu'ndan eski İBB Genel Sekreter Yardımcısı Önbilgin'e \"50 milyar lira\" ve \"örgüt\" soruları",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdDl1MXRjZXJlUnR6ckFmSk5VSExOcTVHUWFIR1RhU2lUMTlPMXcxY1VhbmdUNjYySzlJRkRJVkt4QnQ0c1lIMXMtdjNzZmxfX0RaTGpDd0xaSnJSMnJPUGdHQ01KUXZXc0R6ZXM0X1E1Zld4SGFDbHhDaTNaMFVVd0p2cWlyZlE3U0drck1lMkZlMV9k?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "İmamoğlu, İBB davasında eski İBB Genel Sekreter Yardımcısı Önbilgin'e 50 milyar lira ve örgüt soruları yöneltti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-23T21:01:07.502523+00:00",
+  "type": "news",
+  "cluster_id": "c42fb6f789f5f"
+ },
+ {
   "title": "Türkiye ve Irak anlaştı: PKK Sincar'dan çıkacak, TSK yerleşkesini teslim edecek",
   "link": "https://www.diken.com.tr/turkiye-ve-irak-anlasti-pkk-sincardan-cikacak-tsk-yerleskesini-teslim-edecek/?utm_source=rss&utm_medium=rss&utm_campaign=turkiye-ve-irak-anlasti-pkk-sincardan-cikacak-tsk-yerleskesini-teslim-edecek",
   "source": "Diken",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-15T10:01:02.845107+00:00",
   "type": "news",
   "cluster_id": "cb8bc3e7a8f61"
- },
- {
-  "title": "Araç kiralama sektöründe yeni dönem",
-  "link": "https://www.trthaber.com/haber/ekonomi/arac-kiralama-sektorunde-yeni-donem-954031.html",
-  "source": "TRT Haber",
-  "summary_tr": "Ticaret Bakanlığı, araç kiralama sektörü için yeni yönetmelik hazırladı. Yetki belgesi şartları ve eğitim gereklilikleri düzenleniyor.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-15T10:01:02.845107+00:00",
-  "type": "news",
-  "cluster_id": "cf3e834c8c090"
- },
- {
-  "title": "Evde Bakım Yardımı ödemeleri hesaplara yatırıldı",
-  "link": "https://www.trthaber.com/haber/ekonomi/evde-bakim-yardimi-odemeleri-hesaplara-yatirildi-954029.html",
-  "source": "TRT Haber",
-  "summary_tr": "Evde Bakım Yardımı ödemeleri hesaplara yatırıldı. Tam bağımlı vatandaşlar ve aileleri ekonomik destek aldı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-15T10:01:02.845107+00:00",
-  "type": "news",
-  "cluster_id": "c7b7a5b0f8d4b"
- },
- {
-  "title": "İşgalci İsrail'in ateşkese rağmen Lübnan'a düzenlediği saldırılarda 7 kişi hayatını kaybetti",
-  "link": "https://www.trthaber.com/haber/dunya/isgalci-israilin-ateskese-ragmen-lubnana-duzenledigi-saldirilarda-7-kisi-hayatini-kaybetti-954026.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail'in ateşkese rağmen Lübnan'ın güneyinde Ensar beldesine düzenlediği hava saldırısında 7 kişi öldü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-15T09:01:05.503540+00:00",
-  "type": "news",
-  "cluster_id": "c1129b80d59ed"
- },
- {
-  "title": "Israeli airstrike on southern Lebanon kills 7 people, Lebanese state media say",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdXVvcWZIbkY5aDNaUWczOEFHWVBiRkJ4MlVkVzNqaE1yODh5cW5BLVROY3NpamtVS05uQ2JiYk9PVDdoMjlIOVZZc2tXV21CVUNQV3cxS0N6X2p0TUxmaWMtbk1GX2dpSmdvSEF5WGhNcXJkTEk1ZU9tanhSaTUxM2dwZXhpUnQ2ODA4OE1UQWwxbVVzLWpibF9OSmRRMlpDOWdWWnQyOXZqMmUtNDdUUQ?oc=5",
-  "source": "AP",
-  "summary_tr": "İsrail'in Güney Lübnan'daki hava saldırısında 7 kişi öldü; ateşkes sürüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-15T09:01:05.503540+00:00",
-  "type": "news",
-  "cluster_id": "cbf55544fac64"
  }
 ]
