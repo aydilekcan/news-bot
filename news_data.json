@@ -1,5 +1,41 @@
 [
  {
+  "title": "Hayali asfalt dediler ihale yağdırdılar",
+  "link": "https://www.sozcu.com.tr/hayali-asfalt-dediler-ihale-yagdirdilar-p362671",
+  "source": "Sözcü",
+  "summary_tr": "Faruk Öndaş'ın şirketi, 600 bin ton asfalt parasına sadece 60 bin ton asfalt yaptığı suçlamasıyla Karayolları'ndan 2 milyar lira talep edildi.",
+  "metric": "Asfalt miktarı 600 bin ton -> 60 bin ton (%90 eksik)",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-23T03:01:02.810121+00:00",
+  "type": "news",
+  "cluster_id": "c1cd244bebd34"
+ },
+ {
+  "title": "'30 milyon tasarruf ettim diye mi yargılanıyorum!'",
+  "link": "https://www.sozcu.com.tr/30-milyon-tasarruf-ettim-diye-mi-yargilaniyorum-p362672",
+  "source": "Sözcü",
+  "summary_tr": "İBB Başkanı İmamoğlu, özel aracını belediyede kullanarak 30 milyon lira tasarruf ettiğini söyleyerek yargılamaya tepki gösterdi.",
+  "metric": "Tasarruf tutarı 30 milyon lira",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-23T03:01:02.810121+00:00",
+  "type": "news",
+  "cluster_id": "c04472e27dc98"
+ },
+ {
+  "title": "Ali Babacan’dan fon krizi için İmar Bankası formülü: Paralar çatır çatır tahsil edilir, bunu yapacak niyet lazım",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNldmRWp0RXpCVmVBa2lyZnpSajhyMVNyNzlOWjN6N2dRSlEwQ2k5MUF4OWFERFFrV3ZQbFYzRVhCR1lFMUVZeURmdV9PajdDOXd4OEFVeFBKc3MyU2VYQnlubmlYUEh3aWN6Wi1COUxTSWIxWWNqaWNGWjBJQ09sUEgwekpwSWRJcGhqY2F6MXctMkw4b3hCYmxjWkJ1QVBfWXlDS3puVkZVQmY5eWFjYlc1UDc1cDRmd3ZCTFd2enUzTUhGMFJYZjBSNUoxWlpxSjJ6dDhEZw?oc=5",
+  "source": "T24",
+  "summary_tr": "DEVA Partisi Başkanı Ali Babacan, fon kriziyle mücadele için İmar Bankası formülü önerdi ve vergi tahsilatının güçlendirilmesi gerektiğini belirtti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-23T03:01:02.810121+00:00",
+  "type": "news",
+  "cluster_id": "c017f14421682"
+ },
+ {
   "title": "Zelenskiy says Russia planning new mass attack on Ukraine",
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV045LXNpMHZzM3o3R1h1N3ZtNmJNaTN0V3lHNkwxYmpfNU9NeFMzVG9tQmdDeDY1enVzY1FXTV9LLWtyWFBNUWlGcUFLZ1MtZkxSd2xsNW96SDhmS2taZ0c1MWo3Z2NiOEtJQUVHRXhOTU00X0Rha3JMc1BBOFVKVUpnRzA1a3Q2U3MzcXJwQW1YMTVxYnhhUXpOaWRNV0N6X0laTUxLMTUyV1E4V2pHOWNWa3VLZEpG?oc=5",
   "source": "Reuters",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-13T18:01:16.247623+00:00",
   "type": "news",
   "cluster_id": "c74d621583bc2"
- },
- {
-  "title": "Tarım Ürünleri Üretici Fiyat Endeksi (yıllık): %18,81 (Temmuz 2025)",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSFJHcDlicS1GZ0UyU29lelk2LUhsV1BOR1kzY0NMOUFHUFRVSjg2MDVLTmkxOUJ4RFczb3dhMFYxSlphVEw5SzM0QU9UdVZoZEZTZ1hhQTZRTUtmd0dXN1lSczZHUGxIOVd6Znp6VGNnZmJjZk55Mm94WkkzclZjTUxBbUhwLUNhUktJQ2l0YVFXNkNpVWJWSXQ5SnpQM1cwRGQxeFhNV01mWGFhVEJtb0dR?oc=5",
-  "source": "TÜİK",
-  "summary_tr": "%18,81",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-08-13T18:01:16.247623+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "İYİ Parti milletvekili Gürban, partisinden istifa etti: AKP'ye mi geçiyor?",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/iyi-parti-milletvekili-gurban-partisinden-istifa-etti-akp-ye-mi-geciyor-2528892",
-  "source": "Cumhuriyet",
-  "summary_tr": "İYİ Parti milletvekili Mehmet Mustafa Gürban partisinden istifa etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-13T17:01:29.708610+00:00",
-  "type": "news",
-  "cluster_id": "c34c0ba2f0ce9"
- },
- {
-  "title": "Mehmet Mustafa Gürban, İYİ Parti'den istifa etti",
-  "link": "https://www.sozcu.com.tr/mehmet-mustafa-gurban-istifa-etti-p347119",
-  "source": "Sözcü",
-  "summary_tr": "İYİ Parti Gaziantep vekili Mehmet Mustafa Gürban partisinden istifa ettiğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-13T17:01:29.708610+00:00",
-  "type": "news",
-  "cluster_id": "cba52deba508c"
  }
 ]
