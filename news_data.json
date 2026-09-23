@@ -1,5 +1,29 @@
 [
  {
+  "title": "Zelenski: Rusya, savaşı bitirmeye hazır değil",
+  "link": "https://www.trthaber.com/haber/dunya/zelenski-rusya-savasi-bitirmeye-hazir-degil-957754.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ukrayna Devlet Başkanı Zelenski, Rusya'nın savaşı bitirmeye hazır olmadığını belirterek Trump ile Putin ile görüşmeye hazır olduğunu söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-23T04:01:03.251196+00:00",
+  "type": "news",
+  "cluster_id": "cb29e34da455e"
+ },
+ {
+  "title": "Oil falls on increased Gulf supply and hopes for US-Iran talks",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeFhpNFFXWGZ2azRGVllBNXpwLXZQeTFySkY3Vi12SmpTNmMyY09oU3RMa3Rqb21pNUl0ZGhSbVBWQnZBOXdOb19xSlU3TnNra0F6OWowVHp5RHlSblJGTVhXandWeEFJaDBOTi1VcjdrSjVNeGVJZnVjeUJXM3NVYUgxZ28yQkVuWXNhc1pxd093NVVBTHZnWm40c01OS00zZHAwRWVR?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Körfez'de artan petrol arzı ve ABD-İran müzakereleri umudunun etkisiyle petrol fiyatları düştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-23T04:01:03.251196+00:00",
+  "type": "news",
+  "cluster_id": "c465557fa6c84"
+ },
+ {
   "title": "Hayali asfalt dediler ihale yağdırdılar",
   "link": "https://www.sozcu.com.tr/hayali-asfalt-dediler-ihale-yagdirdilar-p362671",
   "source": "Sözcü",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-13T18:01:16.247623+00:00",
   "type": "news",
   "cluster_id": "c74522a6d972d"
- },
- {
-  "title": "US can keep naval blockade on Iranian ports \"indefinitely,\" Pentagon chief says",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVG5Gb2NKOTltbG9CVlpKTElmclFqS1JyWGtIckF6UzhMYlVCQUp4a1FEWnRzWDQxS24ycTZYTEstVHIzbzhpMENnMWVzV2kxdklsV0pFR3h5Nk93OGtDRUJndkJhWEMtaUNjQm1scHdJZlczYWlfcUZXQ2pLMGp6S3k0YTdMUS1zaUxyWk1Sd2VSUWpFUmxxb285T1JaUGdUM2paUGotRk5JLWY1QVJWR1lTOC1XWC1xbndPdk5LdkdpTXR2VXc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Pentagon Şefi, ABD'nin İran limanlarına karşı deniz ablukasını \"sınırsız\" süre boyunca devam ettirebileceğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-13T18:01:16.247623+00:00",
-  "type": "news",
-  "cluster_id": "c90bc8eeec04b"
- },
- {
-  "title": "Yemen's Houthis say they attacked Saudi Aramco refinery in Jazan with two drones",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWVhsYXl4b0NkRk9GdFhWN0lBcU16ckh5aG9SakN2TzBSMGIxSVUxYm9TY3VndmdwM0YwMjlrTGZQMmNaTWJHTlhzZXFBM004ZHhsQm1wNDVMNFNfXzZtTVVFZXBaOWRNV3h2Wjc3dXZsbGlseE1LZ00wUno4ZkMwMGpOR3JxczRNaTlGdHZsWTd1a1lpZWNiQnBfYWl4TXhwQjNNRlRXeDhETTlrYkg3R01UeTJkQUdIbkhGN1dIVl85ZFpOdVF0ZlJB?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Yemen Houthileri, Suudi Aramco Jazan rafinerisine iki insansız hava aracıyla saldırı düzenlediklerini bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-13T18:01:16.247623+00:00",
-  "type": "news",
-  "cluster_id": "c74d621583bc2"
  }
 ]
