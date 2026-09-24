@@ -1,5 +1,41 @@
 [
  {
+  "title": "China's Xi arrives in Washington, kicking off his state visit with rare planeside welcome from Trump",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR0RkaG5qaGdHbDlPcmdKVDdEMG5mdTlRa0tIQ3llODRmeGtlY0xuWmV1U1Jxd3lHQzI3ZjlFMHVLSzF1ODc2YmIzcjE5aDVDTHpUUTFiYU95Unh4Z01tc29pN21Kcm1JTGRxdE9PUWlrdTFiV0hVS1dQb3VuakxyV24wNWQySlBwUFBCbEc3V3d6VnVLTFpCX05Cc1NfcGJU?oc=5",
+  "source": "AP",
+  "summary_tr": "Çin Lideri Xi, Trump'ın nadir bir tarmac karşılaması ile Washington'a resmi ziyarete geldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-24T00:01:05.280127+00:00",
+  "type": "news",
+  "cluster_id": "cf0e2b52a8568"
+ },
+ {
+  "title": "US, China agree to extend 'the Busan agreement' until January, Bessent says",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU2llUUdOb0lDeW5MNDVtS01Tc3FqUXh5ZjhQTDZjbnU4Y3R2Umg3OTFSRlI0dUczV2swYkUtbVVISzM2a2I0cFhVdmMtTDlCMVVtdE1GVUFLdlppaU5rMHVIT2pZb3JUNTNDbTJDUWlvUXhkdGt6SGZfaElISXp2UDJXdHF2bVBtaFpMNDI0eURDNkNybUUyN29uN0thTmp2eXZ4VEpnT3M4cXh6ekRMc0h5VVZHQ1E?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD ve Çin, Busan anlaşmasını Ocak ayına kadar uzatmayı kabul etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-24T00:01:05.280127+00:00",
+  "type": "news",
+  "cluster_id": "cd69d611d9866"
+ },
+ {
+  "title": "World's largest copper mine halts operations after worker death",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORzZxbW8tVVUwZUp4SDI3elhNeEJWUGNvV09EaldxRDl0VzRFRFFNUk5JVWdCZkpraW50QmNlRTFEbDl2VGY4MGszZXdRM2UxcFNiekNycHB2WEMzYzAxc3JCZG1KUk5MRF9SSnZwRzZ5ZW1Icm5hbzZKdW45MF9Xcmk3VWNrNXhWb3NKY0wxb0haaE0?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Dünyanın en büyük bakır madeninde bir işçinin ölümü sonrası operasyonlar durduruldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-24T00:01:05.280127+00:00",
+  "type": "news",
+  "cluster_id": "c7f493b2705fc"
+ },
+ {
   "title": "Emekli için önce eylem birliği",
   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWkxYUEVBbEQxbXprSGdEU3FGbjVxeHBDeW5vdm8xZVBhdUdQSTFkSkxxRHZFb1pFcW9PbFNOa24zelMxYl8tQkVaR3p3QkRibmxPR3BDQWhRYXdYRHJGMGgycmI1WEZGdkJiV3hlM1NTdWpaOWhVNGg1UGFBTHl3R1RpX1RTWklJaVItOVg1dw?oc=5",
   "source": "soL",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-15T14:01:07.251638+00:00",
   "type": "news",
   "cluster_id": "c9265d9d69899"
- },
- {
-  "title": "Üniversitelerde katkı payları ile öğrenim ücretleri belirlendi",
-  "link": "https://www.trthaber.com/haber/egitim/universitelerde-katki-paylari-ile-ogrenim-ucretleri-belirlendi-954045.html",
-  "source": "TRT Haber",
-  "summary_tr": "2026-2027 akademik yılı üniversite harçları ve katkı payları belirlendi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-15T14:01:07.251638+00:00",
-  "type": "news",
-  "cluster_id": "c9265d9d69899"
- },
- {
-  "title": "Kemal Kılıçdaroğlu yeniden aday olacak mı? CHP’den açıklama",
-  "link": "https://www.sozcu.com.tr/kilicdaroglu-yeniden-aday-olacak-mi-chp-den-aciklama-p349632",
-  "source": "Sözcü",
-  "summary_tr": "CHP Genel Başkan Yardımcısı Bülent Kuşoğlu, Kemal Kılıçdaroğlu'nun yeniden cumhurbaşkanı adayı olup olmayacağı konusunda açıklama yaptı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-15T13:01:00.499646+00:00",
-  "type": "news",
-  "cluster_id": "cccc6e65e07b9"
- },
- {
-  "title": "Spot piyasada doğal gaz fiyatları",
-  "link": "https://www.sozcu.com.tr/spot-piyasada-dogal-gaz-fiyatlari-15-agustos-2026-p349634",
-  "source": "Sözcü",
-  "summary_tr": "Spot piyasada doğal gaz referans fiyatı 1000 metreküp için 17 bin 162 lira olarak belirlendi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-15T13:01:00.499646+00:00",
-  "type": "news",
-  "cluster_id": "c81f37d41d8a5"
  }
 ]
