@@ -1,5 +1,65 @@
 [
  {
+  "title": "Four takeaways from Trump's summit with Xi in Washington",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZUZiUFVUOGt5dnNJYXpucXZQZ2NmbjlYdzZPV2ZDZFlUZ3AyZjJJNXNkVndsZ0dJSmgwZ3BlX2R3M1dYNWtILWhtdDh2aXFndHllTy1wa0RrU3M1ZW5tR1pvWEM4a1lMbXdyR2g1M2JQZlozNjVVLWZaYjBBYm1ZMEx5VW51eFlHQ01NNnZhNHlhVDBoMW4zU3VwOA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, Washington'da Xi Jinping ile zirve yaptı. ABD-Çin ilişkilerinde dört temel çıkarım ortaya çıktı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-24T23:01:02.600720+00:00",
+  "type": "news",
+  "cluster_id": "cbe76c7f3a805"
+ },
+ {
+  "title": "Fransa'da cumhurbaşkanı adayları, Ukrayna'ya yönelik desteğin devamı konusunda ayrışıyor",
+  "link": "https://www.aa.com.tr/tr/dunya/fransada-cumhurbaskani-adaylari-ukraynaya-yonelik-destegin-devami-konusunda-ayrisiyor-/4068657",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Fransa'da cumhurbaşkanı adayları Ukrayna desteği konusunda ayrışıyor: Le Pen mali yardımı durdurmak istiyor, merkez sağcı aday desteklemeyi sürdürmek konusunda ısrarcı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-24T23:01:02.600720+00:00",
+  "type": "news",
+  "cluster_id": "c9ad45309700f"
+ },
+ {
+  "title": "Finnish leader pleads with Musk to help Ukraine hit Russian missile launchers",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYVhWUGo1UzRrdV9OR0FEenhJZ0VPZ0dBT3lTRG5zSXlrbzQ2NS1fWmcxRC1GY1FWNTRGa3JuM3J3ZjFwUnRFR0Nkbm9HOWtRYVZsQ2tpc3AwYl9KbkxuenNtOFlsN0hINVFNRDZtejVsVGUxVkFRMFc4NEM0OXBCb0pZc01MZ19ERXVlYXpBYzA5aVZuZ2ZEUTZpVWtOb3FrcnE5ODRFYUpkZS1LQTJXTXVtamhDbWs0SDBNRjM0cnpZUnN3SVRWSUpBdkwzZ1FFaVZj?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Finlandiya lideri Musk'tan Ukrayna'nın Rus füze atıcılarına saldırmasına yardımcı olması için ricada bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-24T23:01:02.600720+00:00",
+  "type": "news",
+  "cluster_id": "c92a6d985008d"
+ },
+ {
+  "title": "Billions in collateral damage: The hidden cost of Australia's housing slowdown",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdHdHMEI1ZlNuUHdOTElJYk04ZlpJQkIyME5ZUkxKT1BQc0FrekZNRjZDdGJNZEVHMHU4Q3B1dGs1Mjhra1ZsQmVEZzNKZTd5cTRvSVNyMXNNR0ZmUC0tU29CRmRRbXUxVlJ5UElzc1R6MTllRHlMc1pCWElQU2V2Vlc2ZDd3dTVoX2xBMGF5QVhDX2ZJQjBDa1FuVnpRYW55cXd1eGN3NlRQd2lTTGU1RWxkY0I4YW1TTDdTek1kUThyT3Y2eUE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Avustralya'nın konut piyasasındaki yavaşlama milyarlarca dolarlık gizli maliyetlere neden oluyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-24T23:01:02.600720+00:00",
+  "type": "news",
+  "cluster_id": "ce49d75fdc943"
+ },
+ {
+  "title": "FBI employees in Trump Mar-a-Lago case seek clarity on subpoenas in Florida 'grand conspiracy' probe",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT1RON1NQVTBpX3N5Nmx4Undvd2dXZnc2ZXlhdGVQX1JSajRJcmhORDVubHpmWHhvYjZPRmkwQ0Zsa01UMFVPb1d1WlZVdnJjZEZxTzRueDlJV3JBVHYwSy1ZblBsNVlNY25QNjBnVWxnOHh6ZjExUzhxQ1pHamZtNHRvNFdXMElIWXRKUWtub2ZUR08zS3U0MQ?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump Mar-a-Lago davasında FBI çalışanları Florida 'büyük komplo' soruşturmasında celpleme konusunda açıklık istedi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-24T23:01:02.600720+00:00",
+  "type": "news",
+  "cluster_id": "c92e41ed5dab6"
+ },
+ {
   "title": "NATO’da Rusya alarmı: Göz ardı edilemez",
   "link": "https://www.sozcu.com.tr/nato-da-rusya-alarmi-goz-ardi-edilemez-p363305",
   "source": "Sözcü",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-17T12:01:12.800149+00:00",
   "type": "news",
   "cluster_id": "c2f3d899a8b9e"
- },
- {
-  "title": "Bakan Şimşek: Jeopolitik gelişmelerin olumsuz etkilerine rağmen mali disiplini koruyoruz",
-  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-jeopolitik-gelismelerin-olumsuz-etkilerine-ragmen-mali-disiplini-koruyoruz/4029442",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Hazine ve Maliye Bakanı Şimşek, jeopolitik gelişmelere rağmen mali disiplini koruduklarını belirtti.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-17T12:01:12.800149+00:00",
-  "type": "news",
-  "cluster_id": "ccf152cfed001"
- },
- {
-  "title": "İsrail'in Gazze'ye saldırılarında can kaybı 73 bin 399'a yükseldi",
-  "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzeye-saldirilarinda-can-kaybi-73-bin-399a-yukseldi/4029438",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail'in Gazze'ye saldırılarında can kaybı 73 bin 399'a yükseldi.",
-  "metric": "Gazze can kaybı -> 73.399",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-17T12:01:12.800149+00:00",
-  "type": "news",
-  "cluster_id": "c5c069d250ed2"
- },
- {
-  "title": "Katil İsrail'in Gazze'ye saldırılarında can kaybı 73 bin 399'a yükseldi",
-  "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazzeye-saldirilarinda-can-kaybi-73-bin-399a-yukseldi-954160.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail ordusunun Gazze Şeridi'ne saldırılarında can kaybı 73 bin 399'a yükseldi.",
-  "metric": "Gazze can kaybı -> 73.399",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-17T12:01:12.800149+00:00",
-  "type": "news",
-  "cluster_id": "c5c069d250ed2"
- },
- {
-  "title": "Trump, İran'ın nükleer silaha sahip olmasını engellemenin bir numaralı hedef olduğunu belirtti",
-  "link": "https://www.trthaber.com/haber/dunya/trump-iranin-nukleer-silaha-sahip-olmasini-engellemenin-bir-numarali-hedef-oldugunu-belirtti-954164.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD Başkanı Trump, İran'ın nükleer silaha sahip olmasını engellemenin bir numaralı hedef olduğunu belirtti.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-17T12:01:12.800149+00:00",
-  "type": "news",
-  "cluster_id": "cfb13c97d3c41"
- },
- {
-  "title": "China's recovery sputters as consumption, output lose steam",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQU1zd0xiWmtwQ3dnX2tSQlRPUjJYMWM2aHpFRkR6UC1uWlVHUWJ6V3FzN0E0TThVSFJtYjlyREVPUDlidHBWbWd6YnBZbnExU0FlTElqMFNKRmRVLXlMeHZobkI0NGl5Y0dTSWlxZ2RpZ1R2N0NDM19aZEI2Y1pob2JlQmNhTGxNX1Zwb2Z6TjhOdUJEdjVHS1VuTUN3WmEtY3BGc0NnMGc1R0tTaDZZVw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Çin'in ekonomik toparlanması tüketim ve üretim azalması ile durgunlaşıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-17T12:01:12.800149+00:00",
-  "type": "news",
-  "cluster_id": "cb381a64de495"
  }
 ]
