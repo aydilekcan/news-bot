@@ -1,5 +1,65 @@
 [
  {
+  "title": "Motorine zam geliyor",
+  "link": "https://www.diken.com.tr/motorine-zam-geliyor-2/?utm_source=rss&utm_medium=rss&utm_campaign=motorine-zam-geliyor-2",
+  "source": "Diken",
+  "summary_tr": "Motorine 2 lira 55 kuruş zam bekleniyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-24T09:01:06.899898+00:00",
+  "type": "news",
+  "cluster_id": "c83a690023861"
+ },
+ {
+  "title": "TürkiyeABD ticaret hacminde hedef 50 milyar dolar",
+  "link": "https://www.trthaber.com/haber/ekonomi/turkiye-abd-ticaret-hacminde-hedef-50-milyar-dolar-957967.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ticaret Bakanı Bolat, Türkiye-ABD ticaret hacminin 2028'de 50 milyar dolara ulaşmasını hedeflediklerini bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-24T09:01:06.899898+00:00",
+  "type": "news",
+  "cluster_id": "c0145b5eae85d"
+ },
+ {
+  "title": "Almanya ekonomisinde beklentiler değişti: Büyüme tahmini iki katı aştı",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/almanya-ekonomisinde-beklentiler-degisti-buyume-tahmini-iki-kati-asti-2540587",
+  "source": "Cumhuriyet",
+  "summary_tr": "Almanya ekonomi araştırma enstitüleri, 2026 büyüme tahminini iki katına çıkardı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-24T09:01:06.899898+00:00",
+  "type": "news",
+  "cluster_id": "cad05465ceff3"
+ },
+ {
+  "title": "ABD tahvil faizlerinde son 19 yılın zirvesi test edildi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abd-tahvil-faizlerinde-son-19-yilin-zirvesi-test-edildi/4067439",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD tahvil faizleri son 19 yılın zirvesi test etti; makroekonomik veriler ekonomik güç koruduğunu gösterdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-24T09:01:06.899898+00:00",
+  "type": "news",
+  "cluster_id": "c7d8a839e430f"
+ },
+ {
+  "title": "Batı Akdeniz'den 100'den fazla ülkeye 630 milyon dolarlık yaş meyve ve sebze ihracatı",
+  "link": "https://www.trthaber.com/haber/ekonomi/bati-akdenizden-100den-fazla-ulkeye-630-milyon-dolarlik-yas-meyve-ve-sebze-ihracati-957963.html",
+  "source": "TRT Haber",
+  "summary_tr": "Batı Akdeniz'den 100'den fazla ülkeye yaş meyve ve sebze ihracatı yılın 8,5 aylık döneminde 630 milyon dolara ulaştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-24T09:01:06.899898+00:00",
+  "type": "news",
+  "cluster_id": "c88054b89c6fc"
+ },
+ {
   "title": "Şi'nin ABD ziyareti başladı: Çin, İran konusunda Trump'la nasıl ayrışıyor?",
   "link": "https://www.bbc.com/turkce/articles/cq2e0y8x8w9mo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-16T08:00:58.031642+00:00",
   "type": "news",
   "cluster_id": "c34e6f6463fad"
- },
- {
-  "title": "Alihan Kuriş tutuklandı",
-  "link": "https://www.trthaber.com/haber/gundem/alihan-kuris-tutuklandi-954068.html",
-  "source": "TRT Haber",
-  "summary_tr": "Alihan Kuriş tutuklandı. Ankara Cumhuriyet Başsavcılığının çıkar amaçlı suç örgütüne yönelik soruşturmasında 38 şüpheli gözaltına alındı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-16T08:00:58.031642+00:00",
-  "type": "news",
-  "cluster_id": "c34e6f6463fad"
- },
- {
-  "title": "\"Alihan Kuriş çıkar amaçlı suç örgütü\"ne yönelik operasyonda 32 şüpheli tutuklandı",
-  "link": "https://www.aa.com.tr/tr/gundem/alihan-kuris-cikar-amacli-suc-orgutune-yonelik-operasyonda-32-supheli-tutuklandi/4028587",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Alihan Kuriş'in liderliğindeki çıkar amaçlı suç örgütüne yönelik operasyonda 32 şüpheli tutuklandı, 6 kişiye adli kontrol uygulandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-16T08:00:58.031642+00:00",
-  "type": "news",
-  "cluster_id": "c8a120a3fdfa0"
- },
- {
-  "title": "Kuzey Kore Rusya'nın savaşından nasıl zengin oldu?",
-  "link": "https://www.dw.com/tr/kuzey-kore-rusya-nın-savaşından-nasıl-zengin-oldu/a-78334280?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Kuzey Kore, Rusya'ya sağladığı savaş yardımlarından elde ettiği gelirle ekonomisini güçlendirdi ve Kim Jong Un'un iktidarını pekiştirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-16T07:01:07.862286+00:00",
-  "type": "news",
-  "cluster_id": "c5ee826ba0dd5"
- },
- {
-  "title": "Russian missile attack on Kyiv sparks fires, injures one, Ukraine officials say",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDQ2bnhPSnIySk54TjdqYmlQeVd3eEkxSU00ckF6OHZjUkI1S3ZUQm9VRUFvakFsajBqcjFVWlE5cTZsNjFNdUozMGlxQ0tvWTQ2Unl2SjF4UlJpMVlHSFdxOV9xa3hXcWFqMFloSGNFNHVSTVM2UUItcDdhaUZ5dzRTa3Z0eEpPdV9PUVBhV3Z3WVhGZ1NQNjd5LVA5RWNOTjhXV3IxOGJEanUzM1BwcFNycFczNDdMWUEzYXhDQkk?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Rusya, Kyiv'e füze saldırısı düzenleyerek yangınlar çıkardı ve bir kişi yaralandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-16T07:01:07.862286+00:00",
-  "type": "news",
-  "cluster_id": "ce0c70580b97e"
- },
- {
-  "title": "SDG’nin Kobani sorumlusu Erdoğan ve Bahçeli'yi övdü, 'YPG-SDG’nin feshini birkaç gün içinde duyuracağız' dedi",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/sdg-nin-kobani-sorumlusu-erdogan-ve-bahceli-yi-ovdu-ypg-sdg-nin-feshini-birkac-gun-icinde-duyuracagiz-dedi-2529433",
-  "source": "Cumhuriyet",
-  "summary_tr": "SDG'nin Kobani sorumlusu, Şam'daki HTŞ yönetimiyle askeri sorunların %99 oranında çözüldüğünü ve SDG'nin birkaç gün içinde feshEdileceğini duyurdu.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-16T07:01:07.862286+00:00",
-  "type": "news",
-  "cluster_id": "cfb8e5304ee94"
  }
 ]
