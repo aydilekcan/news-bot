@@ -1,5 +1,77 @@
 [
  {
+  "title": "ABB Başkanı Yavaş, butlandan gelen sert açıklamalar sonrası CHP'den istifa etti: ‘Bağımsız devam edeceğim’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/abb-baskani-yavas-butlandan-gelen-sert-aciklamalar-sonrasi-chp-den-istifa-etti-bagimsiz-devam-edecegim-2540487",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ankara Büyükşehir Belediye Başkanı Mansur Yavaş, CHP yönetiminden gelen siyasi aidiyete ilişkin açıklamalar sonrası CHP'den istifa ederek bağımsız devam edeceğini açıkladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-24T02:01:01.536176+00:00",
+  "type": "news",
+  "cluster_id": "c2629e8300417"
+ },
+ {
+  "title": "Trump: Türkiye ve Bangladeş 111 Boeing uçağı alacak",
+  "link": "https://www.sozcu.com.tr/trump-turkiye-ve-banglades-111-boeing-ucagi-alacak-p362982",
+  "source": "Sözcü",
+  "summary_tr": "ABD Başkanı Trump, Türkiye ve Bangladeş'in Boeing'e toplam 111 uçaklık sipariş vereceğini açıkladı.",
+  "metric": "Boeing sipariş (Türkiye ve Bangladeş) 111 uçak",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-24T02:01:01.536176+00:00",
+  "type": "news",
+  "cluster_id": "c0627bf3e7355"
+ },
+ {
+  "title": "Fon krizi AKP kulislerini karıştırdı: ‘Kim göz yumdu, kim korudu?’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/fon-krizi-akp-kulislerini-karistirdi-kim-goz-yumdu-kim-korudu-2540478",
+  "source": "Cumhuriyet",
+  "summary_tr": "Yatırım fonlarında yaşanan kriz AKP çevrelerinde mali kayıplar ve devlet kurumlarına güven sorunu yarattı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-24T02:01:01.536176+00:00",
+  "type": "news",
+  "cluster_id": "c69acc8195580"
+ },
+ {
+  "title": "Sayıştay’ın Sağlık Bakanlığı raporunda dikkat çeken bulgular: Zarara uğrandı, hukuki yola başvurulmadı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/sayistay-in-saglik-bakanligi-raporunda-dikkat-ceken-bulgular-zarara-ugrandi-hukuki-yola-basvurulmadi-2540485",
+  "source": "Cumhuriyet",
+  "summary_tr": "Sayıştay raporu, Sağlık Bakanlığı'nın yüklenici kusuru nedeniyle feshedilen sözleşmelerde uğradığı zararın hukuki yola başvurulmadığını tespit etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-24T02:01:01.536176+00:00",
+  "type": "news",
+  "cluster_id": "cdbb2d75ba160"
+ },
+ {
+  "title": "Sayıştay’dan maden denetimi uyarısı: Başka işle görevli personele ‘git bir de denetim yap gel’ demişler...",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/sayistay-dan-maden-denetimi-uyarisi-baska-isle-gorevli-personele-git-bir-de-denetim-yap-gel-demisler-2540476",
+  "source": "Cumhuriyet",
+  "summary_tr": "Sayıştay, madenlerdeki denetimlerin yetersizliğine uyarı yaptı; denetim görevli olmayan personele verildiğini tespit etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-24T02:01:01.536176+00:00",
+  "type": "news",
+  "cluster_id": "cb3d709f54481"
+ },
+ {
+  "title": "Kamu İhale Kurumu da usulsüz ihale yapmış!",
+  "link": "https://www.sozcu.com.tr/kamu-ihale-kurumu-da-usulsuz-ihale-yapmis-p362980",
+  "source": "Sözcü",
+  "summary_tr": "Kamu İhale Kurumu, HAVELSAN'dan yaklaşık 183 milyon liralık hizmet alımını Sayıştay'ın mevzuata aykırı bulması nedeniyle uyuşmazlık yaşadı.",
+  "metric": "HAVELSAN hizmet alımı ~183 milyon TL (usulsüz tespit)",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-24T02:01:01.536176+00:00",
+  "type": "news",
+  "cluster_id": "cf01c418316d0"
+ },
+ {
   "title": "ABD Başkanı Trump, Çin Devlet Başkanı Şi'yi havaalanında karşıladı",
   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-cin-devlet-baskani-siyi-havaalaninda-karsiladi/4067171",
   "source": "Anadolu Ajansı",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-15T16:01:01.618316+00:00",
   "type": "news",
   "cluster_id": "c8f4b228b7fa8"
- },
- {
-  "title": "Madencilerin hak eylemi 6’ncı gününde: Başaran Aksu serbest bırakıldı",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWh0Vk9uQWUzSzVhYXJzR2pGWW9najd2dWpJUzlhYk5XY0o0cTJiRkRIdVpxYnZQbmFOMG5jTmF4TUQ0TEJuV3hDM0MwLWxyT1BxZl9CTTFmMXBta2U3SVFRaThvV2NpbVR5V2VSR2k5NFRJVnUzbjBIdmR4YV9jT3FRc3VXMWIteDVydEtqVFhPbmZEbzdfdmh6RXJESlNRRUFpdkY0VEc?oc=5",
-  "source": "soL",
-  "summary_tr": "Madencilerin hak eylemi 6. gününde, aktivist Başaran Aksu serbest bırakıldı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-15T16:01:01.618316+00:00",
-  "type": "news",
-  "cluster_id": "cd6caa76daee5"
- },
- {
-  "title": "Tuncer Bakırhan: \"Ne bölünme, ne çatışma ne de kimseden bir şey alma süreci'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/tuncer-bakirhan-ne-bolunme-ne-catisma-ne-de-kimseden-bir-sey-alma-sureci-2529336",
-  "source": "Cumhuriyet",
-  "summary_tr": "DEM Parti Eş Genel Başkanı Tuncer Bakırhan, 'Türkiye Cumhuriyeti bizim ortak evimizdir' diyerek Terörsüz Türkiye sürecine ilişkin açıklama yaptı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-15T15:01:05.118727+00:00",
-  "type": "news",
-  "cluster_id": "cb6ffb92cc94f"
- },
- {
-  "title": "Bakan Yumaklı: Hasat sezonunu 140 milyon tonluk bir üretimle kapatmış olacağız",
-  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-hasat-sezonunu-140-milyon-tonluk-bir-uretimle-kapatmis-olacagiz/4028310",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Tarım ve Orman Bakanı Yumaklı, 2026 hasat sezonunu 140 milyon tonluk üretimle kapatacaklarını açıkladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-15T15:01:05.118727+00:00",
-  "type": "news",
-  "cluster_id": "c830c72c4ce06"
- },
- {
-  "title": "Numan Kurtulmuş: Aramızdaki söz ayrıştırmanın değil, beraberliğin sözü olacak",
-  "link": "https://www.trthaber.com/haber/gundem/numan-kurtulmus-aramizdaki-soz-ayristirmanin-degil-beraberligin-sozu-olacak-954046.html",
-  "source": "TRT Haber",
-  "summary_tr": "TBMM Başkanı Numan Kurtulmuş, Terörsüz Türkiye sürecinde 'ayrıştırmanın değil beraberliğin sözü' olacağını belirtti.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-15T15:01:05.118727+00:00",
-  "type": "news",
-  "cluster_id": "c439d15f1eaba"
- },
- {
-  "title": "Bakırhan’dan ‘çerçeve yasa’ açıklaması: ‘Kürt meselesinin çözümü değil, ilk adım’",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSjZPeVptcEliRlRIZjAtWTFBSzdPSXJ2bEZaVktIVlZZeWE3UU9hWE5CUmUtajZad1VqSWZibUNna0tSemJyOWloRTVEYy1zR2o3NmVsaFpGUWR6R2VQQ3RyWmdYNF9tVmFyMWZKLVBXUlZMd1dsVTltaUhId3NjVUpLZTI3YzhYOWphR1llQnJKZEdlOERDQnNFWGdIYVh0ckg4MDJQNWgtd3RNdnpBR2h3?oc=5",
-  "source": "soL",
-  "summary_tr": "DEM Parti Eş Genel Başkanı Tuncer Bakırhan, 'çerçeve yasa'nın Kürt meselesinin çözümü değil ilk adım olduğunu açıkladı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-15T15:01:05.118727+00:00",
-  "type": "news",
-  "cluster_id": "c3592548ee47f"
- },
- {
-  "title": "İran Kızılhaç'tan yardım istedi: Pilotlarımız Katar'da rehin",
-  "link": "https://www.dw.com/tr/iran-kızılhaç-tan-yardım-istedi-pilotlarımız-katar-da-rehin/a-78383270?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "İran, Mart ayındaki saldırıda düşürülen üç pilotun Katar'da rehin tutulduğunu duyurdu ve serbest kalmaları için yardım istedi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-15T14:01:07.251638+00:00",
-  "type": "news",
-  "cluster_id": "cdbffecc894d9"
  }
 ]
