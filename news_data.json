@@ -1,5 +1,53 @@
 [
  {
+  "title": "Fon krizinde yeni perde: Erdoğan’ın attığı neşter siyasete uzanacak mı?",
+  "link": "https://yetkinreport.com/2026/09/24/fon-krizinde-yeni-perde-erdoganin-attigi-nester-siyasete-uzanacak-mi/",
+  "source": "YetkinReport",
+  "summary_tr": "Erdoğan'ın New York'tan müdahalesiyle borsa/fon skandalında yeni gelişme; siyasetçiler de soruşturmanın kapsamında olabilir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-24T21:01:08.058080+00:00",
+  "type": "news",
+  "cluster_id": "c009f5f108c21"
+ },
+ {
+  "title": "Fon soruşturması: Sekiz kişi daha tutuklandı",
+  "link": "https://www.diken.com.tr/fon-sorusturmasi-sekiz-kisi-daha-tutuklandi/?utm_source=rss&utm_medium=rss&utm_campaign=fon-sorusturmasi-sekiz-kisi-daha-tutuklandi",
+  "source": "Diken",
+  "summary_tr": "İstanbul başsavcılığının fon soruşturmasında Pusula Porföy'den 8 kişi daha tutuklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-24T21:01:08.058080+00:00",
+  "type": "news",
+  "cluster_id": "c8ff6f4ebdc28"
+ },
+ {
+  "title": "'Kahve devi' Starbucks, 250 mağazasını kapatma kararı aldı: 'Zor olacağını biliyoruz'",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/kahve-devi-starbucks-250-magazasini-kapatma-karari-aldi-zor-olacagini-biliyoruz-2540771",
+  "source": "Cumhuriyet",
+  "summary_tr": "Starbucks Kuzey Amerika'da 250 mağazasını kapatıyor; şirket ekonomik zorluklar yaşıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-24T21:01:08.058080+00:00",
+  "type": "news",
+  "cluster_id": "c0bf660e0f6cb"
+ },
+ {
+  "title": "Starbucks to shutter 250 stores in North America this week in 2nd wave of closings",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNakxReFNDbDRFSGQwQlpHalJIWjdRZXRxcEdidEZkNklXSkR3MVdtekg3TGNwZk1QLUVNZWhQd2d2NzRFMVNvVzlETHQ2aUE0eHBOdHFBTmhrQ0xzMVV4TlBoZ29EVXQ4QXM4dF9jUW9SWmE5bUtBOUdnR1VPdGpDdklldTFTNkdOY0ZRWWIxZjlXanNiTW1QYXI2cw?oc=5",
+  "source": "AP",
+  "summary_tr": "Starbucks bu hafta Kuzey Amerika'da 250 mağazasını kapatıyor; kapanışların ikinci dalgası.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-24T21:01:08.058080+00:00",
+  "type": "news",
+  "cluster_id": "ce8e3b941dc2e"
+ },
+ {
   "title": "'Fon krizi' haberlerine erişim engeli: Gerekçesi 'milli güvenlik'",
   "link": "https://www.cumhuriyet.com.tr/siyaset/fon-krizi-haberlerine-erisim-engeli-gerekcesi-milli-guvenlik-2540758",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-17T11:01:13.068105+00:00",
   "type": "news",
   "cluster_id": "cc1374d4c8c72"
- },
- {
-  "title": "AI market correction is coming, ECB blog predicts",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOejNkZVFTSjVNZEVpMms5aWtNbzdCcWMyZFQwT2xHRnQzanhqbHoxZzZKSGdTblptSHhUT0Jjamk3ZWI1VnJHOFZPWnk0VERidlZsNFItMzE2T2UyOEhfYWVGOUt1MkRLLVlNTWlNYnViUGhnalAtS3RDSS0tX3ZSckR1MjM4UmF4YzNDZ3hyN1AxYVhEaE1fMWpOQlFhVlZBbXdJVF9sVTNhNjJGMEQ0THlBVHc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ECB blog yapay zeka pazar düzeltmesinin geleceğini öngörüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-17T11:01:13.068105+00:00",
-  "type": "news",
-  "cluster_id": "c98a0b9308eac"
- },
- {
-  "title": "İBB davası 40 gün aradan sonra yeniden başladı",
-  "link": "https://www.bbc.com/turkce/articles/c5yvvv1z4yko?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "İBB davasında 40 günlük aranın ardından duruşmaya devam edildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-17T11:01:13.068105+00:00",
-  "type": "news",
-  "cluster_id": "c76bfc1694d95"
- },
- {
-  "title": "İBB davasında 2'nci celse başladı",
-  "link": "https://www.diken.com.tr/ibb-davasinda-2nci-celse-basladi/?utm_source=rss&utm_medium=rss&utm_campaign=ibb-davasinda-2nci-celse-basladi",
-  "source": "Diken",
-  "summary_tr": "İBB davasının ikinci celesi başladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-17T11:01:13.068105+00:00",
-  "type": "news",
-  "cluster_id": "cc9037ec4c0b3"
- },
- {
-  "title": "Türk hamsisine öyle bir ülke talip oldu ki! 7 ayda milyon dolarlar aktı",
-  "link": "https://www.sozcu.com.tr/turk-hamsisine-oyle-bir-ulke-talip-oldu-ki-7-ayda-milyon-dolarlar-akti-p350147",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye hamsi ihracatı ocak-temmuz döneminde 10,8 milyon dolara ulaştı.",
-  "metric": "Hamsi ihracatı (7 ay) $10.888.755",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-17T11:01:13.068105+00:00",
-  "type": "news",
-  "cluster_id": "c5c3ded914f2c"
  }
 ]
