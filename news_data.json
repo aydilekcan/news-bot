@@ -1,5 +1,17 @@
 [
  {
+  "title": "Oil prices edge lower as Iran says it is open to diplomacy to end the war",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1FxSEFPZkVpeHV0LS1WTURzc3lOWWM3d0dfTG1mQ0hBWmZiLWhia1FPbnUzdm5yMVhuZE1RenYyOTNqYmFqT2d5MzVtNE1IcHJCNGJ4aXU0US1Tc09OWnJINzRpQkFTWXdsczlhcE50N25wT052OUZhS21QOG9haGV4XzFTZnQ4NzNTWFlVbU1QcDRyZC0yejVxX1dabVZmWHMyMVM0dWE5RGpNWXZNVHBn?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran, Gazze savaşını sona erdirmek için diplomasiye açık olduğunu belirtti; petrol fiyatları bu açıklamaya yanıt olarak düştü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-24T03:00:57.490239+00:00",
+  "type": "news",
+  "cluster_id": "c831b432c531c"
+ },
+ {
   "title": "ABB Başkanı Yavaş, butlandan gelen sert açıklamalar sonrası CHP'den istifa etti: ‘Bağımsız devam edeceğim’",
   "link": "https://www.cumhuriyet.com.tr/turkiye/abb-baskani-yavas-butlandan-gelen-sert-aciklamalar-sonrasi-chp-den-istifa-etti-bagimsiz-devam-edecegim-2540487",
   "source": "Cumhuriyet",
@@ -59986,17 +59998,5 @@
   "ts": "2026-08-15T17:01:03.586543+00:00",
   "type": "data",
   "cluster_id": ""
- },
- {
-  "title": "Demirtaş ve Mızraklı'dan 'çerçeve yasa' mesajı",
-  "link": "https://www.sozcu.com.tr/demirtas-ve-mizrakli-dan-cerceve-yasa-mesaji-p349670",
-  "source": "Sözcü",
-  "summary_tr": "DEM Parti heyeti, Demirtaş'ın çerçeve yasa konusunda mesaj gönderdiğini duyurdu.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-15T16:01:01.618316+00:00",
-  "type": "news",
-  "cluster_id": "c8f4b228b7fa8"
  }
 ]
