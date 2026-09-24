@@ -1,5 +1,77 @@
 [
  {
+  "title": "'Fon krizi' haberlerine erişim engeli: Gerekçesi 'milli güvenlik'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/fon-krizi-haberlerine-erisim-engeli-gerekcesi-milli-guvenlik-2540758",
+  "source": "Cumhuriyet",
+  "summary_tr": "Sermaye piyasası fon krizi ile ilgili bazı yatırım şirketlerine ve yöneticilerine erişim engeli uygulandı; gerekçe 'milli güvenlik' olarak belirtildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-24T20:01:08.415069+00:00",
+  "type": "news",
+  "cluster_id": "cd0ac0d472c3d"
+ },
+ {
+  "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Fon soruşturmalarında ilgili tüm bakanlıklarımız gayretlerini sürdürüyor",
+  "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-fon-sorusturmalarinda-ilgili-tum-bakanliklarimiz-gayretlerini-surduruyor/4068527",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Cumhurbaşkanı Yardımcısı Yılmaz, fon soruşturmalarında tüm bakanlıkların gayretlerini sürdürdüğünü ve sermaye piyasalarının güçleneceğini açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-09-24T20:01:08.415069+00:00",
+  "type": "news",
+  "cluster_id": "c3714f12bc694"
+ },
+ {
+  "title": "Fon soruşturmasında 8 şüpheli tutuklandı",
+  "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-8-supheli-tutuklandi-958045.html",
+  "source": "TRT Haber",
+  "summary_tr": "Sermaye piyasasında işlemlere ilişkin soruşturmada 8 şüpheli tutuklandı, 2 kişi adli kontrolle serbest bırakıldı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-09-24T20:01:08.415069+00:00",
+  "type": "news",
+  "cluster_id": "c110d7ac2ce1f"
+ },
+ {
+  "title": "'Borsa vurgunu' soruşturması genişliyor: 21 şüpheliye daha tutuklama talebi",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTTQyaXFINjZYRUJlTDlwVExXM1MwVDhQRWhRa2U2dUo4bFFSdU52OFpMM0doeFpkV1FVelRwa1ZrTm51a2Y3T3RfSXNsUkNQNmZuX1M4eHlGWkRvdGxRVXlWY3BfQ3VwZGltT2tDcGpMbzJiTDg0VnAzcjdvYWhhcXZnX3ZzdGFhUlRyZjJma2xwOEp2S05mcml4UWJCSnhmNmxwdko0b0RQMHctSHlv?oc=5",
+  "source": "soL",
+  "summary_tr": "'Borsa vurgunu' soruşturması genişliyor; 21 şüpheliye daha tutuklama talep edildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-24T20:01:08.415069+00:00",
+  "type": "news",
+  "cluster_id": "cc1dbe1873e36"
+ },
+ {
+  "title": "İfade Özgürlüğü Derneği kurucusu Yaman Akdeniz’in X hesabına erişim engeli!",
+  "link": "https://www.sozcu.com.tr/yaman-akdeniz-in-x-hesabina-erisim-engeli-getirildi-p363270",
+  "source": "Sözcü",
+  "summary_tr": "İfade Özgürlüğü Derneği kurucusu Prof. Yaman Akdeniz'in X hesabına Türkiye'den erişim engeli uygulandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-24T20:01:08.415069+00:00",
+  "type": "news",
+  "cluster_id": "c4dd926a2cb7e"
+ },
+ {
+  "title": "Kahve devi 250 şubesini kapatıyor",
+  "link": "https://www.sozcu.com.tr/kahve-devi-250-subesini-kapatiyor-p363269",
+  "source": "Sözcü",
+  "summary_tr": "Starbucks, Kuzey Amerika'da yaklaşık 250 şubesini kapatma kararı aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-24T20:01:08.415069+00:00",
+  "type": "news",
+  "cluster_id": "cdb3c9375de84"
+ },
+ {
   "title": "Erdoğan 'Sorumlulardan hesap sorulacak' dedi, Şimşek istifa iddiasını yalanladı",
   "link": "https://www.bbc.com/turkce/articles/cq4g53jg5y9no?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-17T11:01:13.068105+00:00",
   "type": "news",
   "cluster_id": "c5c3ded914f2c"
- },
- {
-  "title": "Bu hazırlıklar seçimin ayak sesleri mi?",
-  "link": "https://www.sozcu.com.tr/bu-hazirliklar-secimin-ayak-sesleri-mi-p350144",
-  "source": "Sözcü",
-  "summary_tr": "Enflasyonla mücadeledeki sıkı para politikasında üretim ve piyasa likiditeyi rahatlatacak adımlar hazırlanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-17T11:01:13.068105+00:00",
-  "type": "news",
-  "cluster_id": "c7a5d999dcedf"
- },
- {
-  "title": "Türkiye hamsi ihracatından 7 ayda 10,8 milyon dolar kazandı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-hamsi-ihracatindan-7-ayda-10-8-milyon-dolar-kazandi/4029396",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye hamsi ihracatından ocak-temmuz döneminde 10,8 milyon dolar kazandı.",
-  "metric": "Hamsi ihracatı $10.888.755",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-17T11:01:13.068105+00:00",
-  "type": "news",
-  "cluster_id": "c415a403e2821"
- },
- {
-  "title": "CANLI | İBB davasında ikinci celse başladı: İmamoğlu için savunma hakkı talebi",
-  "link": "https://www.sozcu.com.tr/canli-veya-ibb-davasinda-ikinci-celse-basladi-imamoglu-icin-savunma-hakki-talebi-p350131",
-  "source": "Sözcü",
-  "summary_tr": "İBB davasının ikinci celesi başladı; İmamoğlu da dahil 414 sanık hakkında duruşmalar devam ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-17T10:01:09.974191+00:00",
-  "type": "news",
-  "cluster_id": "ce9e0e030a56e"
- },
- {
-  "title": "İBB davası 40 günlük aranın ardından yeniden başladı",
-  "link": "https://www.bbc.com/turkce/articles/c5yvvv1z4yko?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "İBB davasının 40 günlük aranın ardından İstanbul 33. Ağır Ceza Mahkemesi'nde bugün devam ettiği belirtildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-17T10:01:09.974191+00:00",
-  "type": "news",
-  "cluster_id": "c9664ed6e2cc0"
- },
- {
-  "title": "Drones attack the Kurdistan Regional Government prime minister's office in Iraq",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX1RqUHdlLUdxNkQweWdveHJybEs3OWpDaTFNRUhpWDFsSGd1V1hub0QzaTdNSlA3Sm1oX1I3NmEzNDdXRWx6UHZxUTJ0c0dmd1hUSzFfSnBraG5WVUQ5Y0RvLWlXUnY1Wi1OWnRQdFhISExZWWYyN2N0UUhJdWlMZzE3LUZXMTJrTFUtcmhIZkFmaU9YZGJONkN4NG9WSTByREhvVkpheWE1S2REbVBNcVNvNmNNQzhjVG9qcHRheG9NcnM?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Irak'ta Kürt Bölgesel Yönetimi Başbakanı Mesrur Barzani'nin ofisi İHA ile vuruldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-17T10:01:09.974191+00:00",
-  "type": "news",
-  "cluster_id": "c9a131b3ed653"
- },
- {
-  "title": "MEB'den yabancı okullarla ilgili karar çıktı",
-  "link": "https://www.sozcu.com.tr/mebden-yabanci-okullarla-ilgili-karar-cikti-p350123",
-  "source": "Sözcü",
-  "summary_tr": "Milli Eğitim Bakanlığı, izinsiz faaliyet yürüten yabancı okullardaki öğrencilerin Türk okullarına geçişlerinde denklik kararı aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-17T10:01:09.974191+00:00",
-  "type": "news",
-  "cluster_id": "c199e3967c6d3"
  }
 ]
