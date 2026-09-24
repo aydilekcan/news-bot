@@ -1,5 +1,77 @@
 [
  {
+  "title": "TCMB rezervlerinde sert düşüş: 4,3 milyar dolar kayıp",
+  "link": "https://www.sozcu.com.tr/tcmb-rezervlerinde-sert-dusus-4-3-milyar-dolar-kayip-p363163",
+  "source": "Sözcü",
+  "summary_tr": "TCMB toplam rezervleri 18 Eylül haftasında 4,3 milyar dolar azalarak sert düşüş yaşadı.",
+  "metric": "TCMB rezervleri -4,319 milyar dolar",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-24T12:01:18.326402+00:00",
+  "type": "news",
+  "cluster_id": "cc6f5a6fd984e"
+ },
+ {
+  "title": "100 metrekare ev için en çok ödeyen şehir belli oldu: Kira bedeli 46 Bin TL’yi aştı",
+  "link": "https://www.sozcu.com.tr/100-metrekare-ev-icin-en-cok-odeyen-sehir-belli-oldu-kira-bedeli-46-bin-tl-yi-asti-p363157",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye'de kiralık konut piyasasında kira bedeli en fazla ödenen şehirde 46 bin TL'yi aştı.",
+  "metric": "Kira bedeli 46.000+ TL (aylık, 100 m²)",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-24T12:01:18.326402+00:00",
+  "type": "news",
+  "cluster_id": "ca54488cc1e77"
+ },
+ {
+  "title": "Petrol piyasasında büyük hamle: Suudi Arabistan'dan Asya'ya 100 milyon varillik satış",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/petrol-piyasasinda-buyuk-hamle-suudi-arabistan-dan-asya-ya-100-milyon-varillik-satis-2540628",
+  "source": "Cumhuriyet",
+  "summary_tr": "Suudi Arabistan, Asya pazarına 100 milyon varillik ham petrol satışı gerçekleştirerek sevkiyatlarını artırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-24T12:01:18.326402+00:00",
+  "type": "news",
+  "cluster_id": "cdedab9212171"
+ },
+ {
+  "title": "Bankalardaki paraya bir haftada 434 milyar lira eklendi",
+  "link": "https://www.sozcu.com.tr/bankalardaki-paraya-bir-haftada-434-milyar-lira-eklendi-p363166",
+  "source": "Sözcü",
+  "summary_tr": "Bankacılık sektörünün toplam mevduatı bir haftada 434 milyar 877 milyon lira arttı.",
+  "metric": "Toplam mevduat +434,877 milyar TL (haftalık)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-24T12:01:18.326402+00:00",
+  "type": "news",
+  "cluster_id": "cbf93ca37f756"
+ },
+ {
+  "title": "Dolar endeksi yaklaşık 2 ayın zirvesinde",
+  "link": "https://www.sozcu.com.tr/dolar-endeksi-yaklasik-2-ayin-zirvesinde-p363165",
+  "source": "Sözcü",
+  "summary_tr": "Dolar endeksi Fed'in şahin para politikası beklentileriyle yaklaşık 2 ayın zirvesine çıktı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-24T12:01:18.326402+00:00",
+  "type": "news",
+  "cluster_id": "cbec3a16f09a0"
+ },
+ {
+  "title": "Bakan Bolat, Türkiye ile ABD'nin ticaret hacminin 2028'de 50 milyar dolara ulaşacağını söyledi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-turkiye-ile-abdnin-ticaret-hacminin-2028de-50-milyar-dolara-ulasacagini-soyledi/4067409",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ticaret Bakanı Bolat, Türkiye-ABD ticaret hacminin 2028'de 50 milyar dolara ulaşacağını bildirdi; cari yıl için 43 milyar dolar hedefleniyor.",
+  "metric": "Ticaret hacmi 43 milyar dolar (2026) -> 50 milyar dolar (2028 hedefi)",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-24T12:01:18.326402+00:00",
+  "type": "news",
+  "cluster_id": "c266109fa071f"
+ },
+ {
   "title": "İsimleri tek tek ifşa oldu! Türkiye'nin konuştuğu 12 para babası kim?",
   "link": "https://www.sozcu.com.tr/isimleri-tek-tek-ifsa-oldu-turkiye-nin-konustugu-12-para-babasi-kim-p363134",
   "source": "Sözcü",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-16T17:01:00.192391+00:00",
   "type": "news",
   "cluster_id": "c0596a1eaebf9"
- },
- {
-  "title": "Türkiye ve 7 ülke, İsrail’in Trump'ın Gazze Planına ilişkin yol haritasını uygulamayı reddetmesini kınadı",
-  "link": "https://www.aa.com.tr/tr/dunya/turkiye-ve-7-ulke-israil-in-trumpin-gazze-planina-iliskin-yol-haritasini-uygulamayi-reddetmesini-kinadi/4028912",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye ve 7 ülke, İsrail'in Trump'ın Gaza Planı yol haritasını uygulamayı reddetmesini kınadı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-16T17:01:00.192391+00:00",
-  "type": "news",
-  "cluster_id": "c0596a1eaebf9"
- },
- {
-  "title": "Hamas: İsrail, Şarm ElŞeyh Anlaşması'na ve Trump'ın Gazze planına uymuyor",
-  "link": "https://www.trthaber.com/haber/dunya/hamas-israil-sarm-el-seyh-anlasmasina-ve-trumpin-gazze-planina-uymuyor-954095.html",
-  "source": "TRT Haber",
-  "summary_tr": "Hamas, İsrail'in Şarm ElŞeyh Anlaşması'na ve Trump'ın Gazze planına uymadığını iddia etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-16T16:01:00.129214+00:00",
-  "type": "news",
-  "cluster_id": "c845659179d36"
- },
- {
-  "title": "Trump's envoys in Middle East to push for Gaza peace plan",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWlULVBMUTk3T05wRS0tNnBRUWFReXlURUhCaTNIZVlRaUtVOHczUm5CTi1YRWlveXN6cC1hWDBKOTJqbUpna3JYZUhzLTVrTnU0bXFWd3JncVNCeUc3NTNING9KeHFSNWpUWWhCNFBGUm1aQzBna3c1OFNtclBMZEY1VERJS0x1elM2ZEVwXzZVeTRzelkyM3ZoWTNGeGRGZkE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Trump'ın Ortadoğu temsilcileri Gazze barış planını ilerletmek için bölgedeler.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-16T16:01:00.129214+00:00",
-  "type": "news",
-  "cluster_id": "cb8c2b346480b"
- },
- {
-  "title": "Iranian parliament advances bill to curb foreign influence",
-  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS1l5UHpVYkM5cWxRVlYyTGVJWkVlWXJaWkxrNXZYaEhOSG9nYU9sdWVwSm4xeGkxV1U2ZXJrVlR2WlhFbjBZTWxYeE5sOWFWaWVLUC1CQ0NoV0VsVFJnU2Q3T2g4UFRUSUk1WWZDZGp1SVMzZ2xzdHJSRXRMWDctVXlBekt4ODhIeGJjOUFvLUtrb2NZclVBejZtbkg2djNWeG15QjEwNTE1eEZ6YlA5ZXNJdlljdDlRS2U3WklxZURuZ2VOSmJrRFF3cEw3QQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran meclisi yabancı nüfuzu sınırlamak için bir yasa tasarısını ilerletiyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-16T16:01:00.129214+00:00",
-  "type": "news",
-  "cluster_id": "ccb155327abe6"
- },
- {
-  "title": "İşgalci İsrail'in Lübnan'a saldırılarında ölenlerin sayısı 4 bin 346'ya çıktı",
-  "link": "https://www.trthaber.com/haber/dunya/isgalci-israilin-lubnana-saldirilarinda-olenlerin-sayisi-4-bin-346ya-cikti-954094.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail'in Lübnan'a düzenlediği saldırılarda ölenlerin sayısı 4 bin 346'ya çıktı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-16T15:00:58.087589+00:00",
-  "type": "news",
-  "cluster_id": "c5acd7865a396"
- },
- {
-  "title": "Katil İsrail, ateşkese rağmen Gazze'de yerinden edilenlerin kaldığı çadırlara saldırdı",
-  "link": "https://www.trthaber.com/haber/dunya/katil-israil-ateskese-ragmen-gazzede-yerinden-edilenlerin-kaldigi-cadirlara-saldirdi-954093.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail ordusu, ateşkese rağmen Gazze'de yerinden edilen Filistinlilerin çadırlarına saldırı düzenledi.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-16T15:00:58.087589+00:00",
-  "type": "news",
-  "cluster_id": "cd5ff24fea72c"
  }
 ]
