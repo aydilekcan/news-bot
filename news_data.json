@@ -1,5 +1,77 @@
 [
  {
+  "title": "Dollar perched at two-month high as hot PMI fuels inflation fears, rate hike bets",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWmQ0RTlyNTJnNVVWaUx1Uk1pbTl0UWVTOXFORWhmM3dqdHJXZDdWZFlHRmNQdS1zSHhYWG1RTDVBeFlWdFhxT0N5WTBnNFQ4VFBQdFNvUk01YUFRUmZGQUZUa0h1ZUJqdkNnaWRXXzl2cWRlRE5vM1FuR1hfdnFNcnFRaVJYdGtPX081cXN5dTFSR0JwbzhYYnhHclN4UEVmU3g4X2lNWlJGMkd5S1lSZFlhUFdWMVpYUlc0?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Dolar iki ayın en yüksek seviyesinde; güçlü PMI verisi enflasyon endişelerini ve faiz artırım beklentilerini tetikledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-24T05:01:05.245613+00:00",
+  "type": "news",
+  "cluster_id": "ce24f272ab4f7"
+ },
+ {
+  "title": "Ukrayna'nın güneyindeki Oleşki'de gıda krizi tehlikesi",
+  "link": "https://www.dw.com/tr/ukrayna-nın-güneyindeki-oleşki-de-gıda-krizi-tehlikesi/a-79387880?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Rus işgali altındaki Herson bölgesinin Oleşki ilçesinde gıda krizi yaşanıyor; Kiev ve Moskova arasında sivillerin tahliyesi görüşülüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-24T05:01:05.245613+00:00",
+  "type": "news",
+  "cluster_id": "cbdb232470db8"
+ },
+ {
+  "title": "SoftBank issues $11.1 billion in bonds in OpenAI financing push",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeldGcjFrNndNWHBkZ3ppV1hNSklkU3BNWGw5ZWFZQ1VyMWptRmJTN2pEMVBfUVFoLU0xOUhaUVN4VVR3RTNKeXNySkFGZ2tsRWVLRkY0SnhTdDUwcTZwWS1PYVBPdklXN0NLd1phMEt6Uzc3blZleGxGYUh0ZmhLY1RVREJxcE5VNFBsenVhcXpnV0R2WGVXWk9uUGdvT3BRSVRDVFFZSk1aZl92ZGxwSG1sbWg?oc=5",
+  "source": "Reuters",
+  "summary_tr": "SoftBank, OpenAI finansmanı için 11,1 milyar dolar tahvil ihraç etti.",
+  "metric": "SoftBank tahvil ihracı: 11,1 milyar dolar",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-24T05:01:05.245613+00:00",
+  "type": "news",
+  "cluster_id": "c39ac4cb4b5bd"
+ },
+ {
+  "title": "Alaattin Aktaş: Faiz ödemesi atlaya zıplaya artmaya devam ediyor",
+  "link": "https://www.diken.com.tr/alaattin-aktas-faiz-odemesi-atlaya-ziplaya-artmaya-devam-ediyor/?utm_source=rss&utm_medium=rss&utm_campaign=alaattin-aktas-faiz-odemesi-atlaya-ziplaya-artmaya-devam-ediyor",
+  "source": "Diken",
+  "summary_tr": "Hazine'nin iç borç faiz ödemesi hızla artmaya devam ediyor; yazara göre artış alarming boyuttadır.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-24T05:01:05.245613+00:00",
+  "type": "news",
+  "cluster_id": "c5a662eeb54ae"
+ },
+ {
+  "title": "Motorine gece yarısı dev indirim geldi: Tabelalar yeniden değişti",
+  "link": "https://www.sozcu.com.tr/motorine-gece-yarisi-dev-indirim-geldi-tabelalar-yeniden-degisti-p362996",
+  "source": "Sözcü",
+  "summary_tr": "Küresel piyasa hareketliliği ve döviz kurundaki dalgalanmalar sonrasında motorin fiyatlarında gece yarısı indirim yapıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-24T05:01:05.245613+00:00",
+  "type": "news",
+  "cluster_id": "cd0137e2ba634"
+ },
+ {
+  "title": "Gold muted as Fed policy tightening prospects weigh",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenM1U09oVWJmVW8zbUtuN1ZLcWU1dGRKa1Rqdk1FU0k5QmVDSGRwcG9hR1NVVFVYOGhkSWpMdVF0aWFZMWx6TlNSWHZiajl5UWdzbWFZNmpGUW53MEhhbGgteHgtOGZGTzdlVGdWVjhWR2pMSzdJSWdCSmVTRHA4RVlCWS1tNU1NQU9QanFEQTRnNjhSSlhFQ052dEE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Altın fiyatları, Fed'in politika sıkılaştırması beklentisiyle sıkışık seyrediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-24T05:01:05.245613+00:00",
+  "type": "news",
+  "cluster_id": "c0cf9cba1f809"
+ },
+ {
   "title": "Dünya Alem (61) | Borsada yatırım fonu vurgunu: Milyarlar bir gecede nasıl buharlaştı?",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbHY1dUtBZmJlYTNQTldDejdISnRUUUZ3R19pcTI2dDZKbUFVSHNVSEsyVGhSaU55MUxMREFHak5oQ09FWEhPZW1MTmZKLThUdWM3TXNheXFscDdjY0diWGgtMUo2MHRCaTgwQUJNMVZsNklRVHJybjI0aE5XZzZ5S2lRdkN1ckhBZEtMTmxiektEQVBLSWQwRnNrN1JSSXlCRV9UR2Z0SmNxaWpjenZ6emtYMHE?oc=5",
   "source": "Medyascope",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-15T20:01:00.140489+00:00",
   "type": "news",
   "cluster_id": "c685421fae9d9"
- },
- {
-  "title": "Erdoğan’dan Trump'a F-35 hatırlatması: Verdiği sözü yerine getirmesini bekliyorum",
-  "link": "https://www.sozcu.com.tr/recep-tayyip-erdogan-15-agustos-2026-aciklamalari-p349692",
-  "source": "Sözcü",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, Trump'tan F-35 uçaklarına ilişkin sözlerini yerine getirmesini beklediğini söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-15T20:01:00.140489+00:00",
-  "type": "news",
-  "cluster_id": "ce21a04d3f18d"
- },
- {
-  "title": "Süleymancılara operasyon… MASAK raporunun ayrıntıları ortaya çıktı! Kuriş bağlantılı şirketlerde 66 milyar liralık para trafiği",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/suleymancilara-operasyon-masak-raporunun-ayrintilari-ortaya-cikti-kuris-baglantili-sirketlerde-66-milyar-liralik-para-trafigi-2529365",
-  "source": "Cumhuriyet",
-  "summary_tr": "MASAK raporu: Alihan Kuriş'e bağlı şirketlerde 66 milyar lira para trafiği tespit edildi.",
-  "metric": "Para trafiği: 66 milyar TL",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-15T19:01:02.189431+00:00",
-  "type": "news",
-  "cluster_id": "c63080649d0a1"
- },
- {
-  "title": "\"Alihan Kuriş çıkar amaçlı suç örgütü\" soruşturmasında \"şüpheli\" para trafiği deşifre edildi",
-  "link": "https://www.aa.com.tr/tr/gundem/alihan-kuris-cikar-amacli-suc-orgutu-sorusturmasinda-supheli-para-trafigi-desifre-edildi/4028426",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "MASAK raporu: Alihan Kuriş suç örgütüne bağlı şirketlerde şüpheli para trafiği deşifre edildi.",
-  "metric": "Para trafiği: 66 milyar TL",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-15T19:01:02.189431+00:00",
-  "type": "news",
-  "cluster_id": "c07cd5003039b"
- },
- {
-  "title": "Alihan Kuriş suç örgütü soruşturmasında şüpheli para trafiği deşifre edildi",
-  "link": "https://www.trthaber.com/haber/gundem/alihan-kuris-suc-orgutu-sorusturmasinda-supheli-para-trafigi-desifre-edildi-954052.html",
-  "source": "TRT Haber",
-  "summary_tr": "MASAK raporu: Alihan Kuriş suç örgütüne bağlı şirketlerde şüpheli para trafiği deşifre edildi.",
-  "metric": "Para trafiği: 66 milyar TL",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-15T19:01:02.189431+00:00",
-  "type": "news",
-  "cluster_id": "c07cd5003039b"
- },
- {
-  "title": "'Sıfır fiyatından pahalı' diye ihbar edildi: Satıcıya ceza yağdı",
-  "link": "https://www.sozcu.com.tr/sifirdan-pahali-tesla-ilana-ceza-p349679",
-  "source": "Sözcü",
-  "summary_tr": "Ticaret Bakanlığı, Tesla aracının sıfır fiyatının üzerinde satılması nedeniyle satıcıya ceza uyguladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-15T18:01:03.373952+00:00",
-  "type": "news",
-  "cluster_id": "c7ba072125eda"
- },
- {
-  "title": "Numan Kurtulmuş’tan ‘süreç’ açıklaması: 'Terör meselesini geride bırakıyoruz'",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/numan-kurtulmus-tan-surec-aciklamasi-teror-meselesini-geride-birakiyoruz-2529353",
-  "source": "Cumhuriyet",
-  "summary_tr": "TBMM Başkanı Numan Kurtulmuş, 40 yılı aşkın süredir devam eden terör çatışmalarının sonlandırıldığını açıkladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 8,
-  "ts": "2026-08-15T17:01:03.586543+00:00",
-  "type": "news",
-  "cluster_id": "cef9b8903859b"
  }
 ]
