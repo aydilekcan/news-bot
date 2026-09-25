@@ -1,5 +1,29 @@
 [
  {
+  "title": "Netanyahu BM Genel Kurulu için geldiği New York’ta binlerce kişi tarafından protesto edildi",
+  "link": "https://www.aa.com.tr/tr/dunya/netanyahu-bm-genel-kurulu-icin-geldigi-new-york-ta-binlerce-kisi-tarafindan-protesto-edildi/4068707",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail Başbakanı Netanyahu, BM Genel Kurulu'nda binlerce kişi tarafından Gazze'deki soykırım gerekçesiyle protesto edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-25T04:01:00.064714+00:00",
+  "type": "news",
+  "cluster_id": "c05e7b1d28239"
+ },
+ {
+  "title": "Pezeşkiyan, ABD ile anlaşmaya istekli olduklarını söyledi",
+  "link": "https://www.trthaber.com/haber/dunya/pezeskiyan-abd-ile-anlasmaya-istekli-olduklarini-soyledi-958065.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Cumhurbaşkanı Pezeşkiyan, ABD ile müzakereye dayalı anlaşma yapma konusunda istekli olduklarını belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-25T04:01:00.064714+00:00",
+  "type": "news",
+  "cluster_id": "c7bc52a739d16"
+ },
+ {
   "title": "Oil prices fall as markets look to Iran truce, but remain wary of attacks on oil facilities",
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3EzX3oydnQxRk5Ld1BKbk82ek14ZVdyLVpTdldjdEpqeDJfTVZ2Q0F1TnhvaWlhR1p0Z3hScDV0S2Z1UFR5OXhKSWk3NmtqTzd0SkJfa2RLRFpOOUlEcE5mR1d4Z21Td2FCQVZqNHV1eDloQkplT1NHaHhyTDlqOG5DYlFFdnRERThxNU0yX29LcTRyal9pMHQ4ZzNoU0VKZkdHN2hFYjhCZUpZZ3d2am11SDJYYVBiN0JxWVBtczNRYkh1?oc=5",
   "source": "Reuters",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-17T14:01:09.218686+00:00",
   "type": "news",
   "cluster_id": "c6c62a21a4d4c"
- },
- {
-  "title": "İzmir'de Menderes Belediyesi AKP'ye geçti, seçimde yumruklu kavga çıktı",
-  "link": "https://www.bbc.com/turkce/articles/c98v038jjj1o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "İzmir'de Menderes Belediyesi AKP'ye geçti. Yolsuzluk soruşturmasındaki tutuklu başkanın yerine yeni yönetim atandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-17T13:01:12.044571+00:00",
-  "type": "news",
-  "cluster_id": "c1a5f4181e5e0"
- },
- {
-  "title": "Pervin Buldan'dan üç faili meçhul cinayet için başvuru",
-  "link": "https://www.dw.com/tr/pervin-buldan-dan-üç-faili-meçhul-cinayet-için-başvuru/a-78398959?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "TBMM Başkanvekili Pervin Buldan, 1994'te öldürülen eşi ve iki diğer kişinin faili meçhul cinayetleri için başvuru yaptı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-17T13:01:12.044571+00:00",
-  "type": "news",
-  "cluster_id": "cb2aec8f51eae"
  }
 ]
