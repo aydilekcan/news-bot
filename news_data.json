@@ -1,5 +1,53 @@
 [
  {
+  "title": "Netflix'ten Türkiye'ye büyük yatırım, otomotiv sektörünü kıskaca alan 'Made in EU' krizi: İşte Erdoğan'ın ABD'li yatırımcılarla yaptığı toplantıda konuşulanlar...",
+  "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPdVlYSGVLeXQyWWYtaThKZ0lLQ0VndC16eVBSMng1UGltY3ZzcUc5enlLTFNoSHlCZEJxc2p2c2tlUnp3aElhc0lGbmsyVXJXNUxFT3JUd1UxMG5USFItQmZQSTNpTnItUHRfUkFRU0UwcjJYSW1aUVluOGJuZnhSRkdMUWFSRGNnYW44TXZBYzlvMGE0b0ljaE5sRHBvQk92RjY5QTFFRjZXd0JSUXgyNEE5aWFrWkhtS2g2bHRTV005NjlpcHBJZ2NVTVg5cXpwVnRBWldPUnFteW1RaE5QV3N3eldiX01tdFRweFhvdk81eU1uMzN3ZWJmT2tVX1pldlAzX2xxWG5GU1luQ2NIbzBBc0xjc2dDM2c?oc=5",
+  "source": "T24",
+  "summary_tr": "Erdoğan ABD'li yatırımcılarla Netflix'in Türkiye yatırımı ve otomotiv sektörünü etkileyen 'Made in EU' krizini görüştü.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-25T19:01:04.331608+00:00",
+  "type": "news",
+  "cluster_id": "cde18b17bb677"
+ },
+ {
+  "title": "Bolu Belediyesi davasında mütalaa: Tanju Özcan'ın 217 yıla kadar hapsi istendi",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/bolu-belediyesi-davasinda-mutalaa-tanju-ozcan-in-217-yila-kadar-hapsi-istendi-2541073",
+  "source": "Cumhuriyet",
+  "summary_tr": "Bolu Belediyesi irtikap davasında savcılık, Başkan Tanju Özcan hakkında 69,5 yıldan 217 yıla kadar hapis istedi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-25T19:01:04.331608+00:00",
+  "type": "news",
+  "cluster_id": "c23aca49188d1"
+ },
+ {
+  "title": "Tanju Özcan için istenen ceza belli oldu",
+  "link": "https://www.sozcu.com.tr/tanju-ozcan-icin-istenen-ceza-belli-oldu-p363564",
+  "source": "Sözcü",
+  "summary_tr": "Bolu Belediyesi davasında savcılık, Başkan Tanju Özcan için 69,5 yıldan 217 yıla kadar hapis cezası istedi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-25T19:01:04.331608+00:00",
+  "type": "news",
+  "cluster_id": "c90a524a6c586"
+ },
+ {
+  "title": "Russia's Perm oil refinery halted operations after Friday drone attack, sources say",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2FOWmZzc0w0QnNVM3NsRkFoQm05RHBGZXluZzB0OHlUc1RuVldUOFd2dFZULURweDI4Y0VIeVpoMWpwNG9aUl9BejZKTDAxMFNaUVg0RjYxWnRTLUlEWHpHOFNhZE5MWm53S1gwM2lpdWg0a2JKd1RHTTlIZHZTdHpXT0dJTFBlQnFwVzljdXBuMkFyZmM0aWpiUVdpWXVNcGFsNHZZcHZETy0wS1V6NHoyOE5FZUozNm14TVl4NkpLQnpPeWRWMQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya'nın Perm petrol rafineresi Cuma günkü İHA saldırısı sonrası faaliyetlerini durdurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-25T19:01:04.331608+00:00",
+  "type": "news",
+  "cluster_id": "c7aa29418e2f7"
+ },
+ {
   "title": "Emekli ölümüne çırpınıyor!",
   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWRpbE9tQlY0MUF4c0pUSnVHQmhZVFRqTU1NczhUc2g2NFJxVHJKN0NKb2VQQkZ3NHU3TUpWNXd1dm1fYXNHdG91S1YtRnhQNHByUTVmNksyOHNMTmJpcm5UUGdSY2F3YUFwUXNOZWdGT0EwZGFrTlJxcmhaY0hiWHRuaDhGV1lp?oc=5",
   "source": "soL",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-18T09:01:17.138357+00:00",
   "type": "news",
   "cluster_id": "c1186723097d4"
- },
- {
-  "title": "Temmuzda hız kaybeden Çin ekonomisinde büyüme beklentisi zayıfladı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/temmuzda-hiz-kaybeden-cin-ekonomisinde-buyume-beklentisi-zayifladi/4030215",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Temmuzda makroekonomik verilere göre Çin ekonomisinin hız kaybettiği ve büyüme beklentisinin zayıfladığı ortaya çıktı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-18T09:01:17.138357+00:00",
-  "type": "news",
-  "cluster_id": "c40ff1befe405"
- },
- {
-  "title": "Şehit yakınları ve gazilerin haklarını güçlendiren kanun yürürlükte",
-  "link": "https://www.trthaber.com/haber/gundem/sehit-yakinlari-ve-gazilerin-haklarini-guclendiren-kanun-yururlukte-954252.html",
-  "source": "TRT Haber",
-  "summary_tr": "Şehit anne ve babalarına bağlanan aylıklar asgari ücretin altına düşmemesi yasal güvenceye alındı.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-18T09:01:17.138357+00:00",
-  "type": "news",
-  "cluster_id": "ce85280901bb0"
- },
- {
-  "title": "İBB davasında ikinci celse | Ekrem İmamoğlu: \"Savunma hakkım elimden alındı, şiddetle reddediyorum\"",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTTZtOUxZblVmdVVKeW1POVJ1amlONS1nTG9RNnhVbTFOc2hVZ0ZvQkdQd0ZBZU1FMERRNWNYajB6S0FDSzQ0OUZLNFcwN2Vtd1h0SjZ3Wk1LRWpRc1Zmb2dMaF9fQVp1aVh0XzFZV0RXQzBhWnBQQUw1djB2UDBqbmJhMWpSUUxuYWNBX3Q0ODBYaW5teHZvV2lMYzBGNEVUNWc?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "İBB davasında ikinci celede İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu, savunma hakkının kendisinden alındığını iddia ederek şiddetle reddetti.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-18T09:01:17.138357+00:00",
-  "type": "news",
-  "cluster_id": "ccb509588878f"
- },
- {
-  "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail, his party says",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVGZFRmk3eFl2TkpCVERjbnZWVzQxblROOXAtU1QzWjladlllUk8ySUxFQ0lYWVlld21JMF8xampzYWRyQktLd0xFbFl5VEJkNGxCWnlRbWVQMXZoTlRWZW0tNTFiWjk0SkFmYTc0dGdNaWI4SlVzR0o0LW9UQUR6c3plWTVPSW5ET3dPVjVDZGNvZTAxNXVhbzBWeG1SMC0tcHJiRElQaE53TnVfU1d2R0lKdmR4WTVXNlNCeUV6Qk9udDVJbTQwSFFDQmI?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Pakistan Yüksek Mahkemesi eski başbakan İmran Khan'ın hapisten hastaneye nakledilmesini emretti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-18T09:01:17.138357+00:00",
-  "type": "news",
-  "cluster_id": "cd49496c16b61"
  }
 ]
