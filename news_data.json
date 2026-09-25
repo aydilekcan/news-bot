@@ -1,5 +1,77 @@
 [
  {
+  "title": "Eylemde kendini vuran emekli polis hayatını kaybetti",
+  "link": "https://www.diken.com.tr/eylemde-kendini-vuran-emekli-polis-hayatini-kaybetti/?utm_source=rss&utm_medium=rss&utm_campaign=eylemde-kendini-vuran-emekli-polis-hayatini-kaybetti",
+  "source": "Diken",
+  "summary_tr": "Anayasa Mahkemesi önündeki emekli eyleminde kendini vuran emekli polis hayatını kaybetti. Olay, emeklilerin ekonomik sıkıntılarını ve dezavantajlı durumlarını vurgulayan kritik bir gelişmedir.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-09-25T17:01:13.622678+00:00",
+  "type": "news",
+  "cluster_id": "cbf69a92a99a0"
+ },
+ {
+  "title": "Emekli intiharının ardından… Siyasilerden peş peşe tepki",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/emekli-intiharinin-ardindan-siyasilerden-pes-pese-tepki-2541062",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ankara'da emeklilerin AYM önündeki eylemi sırasında emekli polis intihar girişiminde bulundu. Siyasilerden peş peşe tepki gelmesi, emeklilerin yaşadığı ekonomik krizi gündeme getiriyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-09-25T17:01:13.622678+00:00",
+  "type": "news",
+  "cluster_id": "c1cb739ce5563"
+ },
+ {
+  "title": "Fon krizinde yatırımcıların parası nasıl geri ödenebilir?",
+  "link": "https://www.bbc.com/turkce/articles/cknvlly1vj19o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Türkiye'de 131 yatırım fonunun tasfiye sürecine alınmasının ardından yüz binlerce yatırımcının parasının geri ödenmesi konusu inceleniyor. Fon krizinde yatırımcıların tazminat süreci belirsizliğini içeriyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-25T17:01:13.622678+00:00",
+  "type": "news",
+  "cluster_id": "c5c7d52b10be9"
+ },
+ {
+  "title": "Son dakika... Özel’den intihar eden emekliyle ilgili açıklama: ‘Artık bu çığlık duyulsun’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-ozel-den-intihar-eden-emekliyle-ilgili-aciklama-artik-bu-ciglik-duyulsun-2541065",
+  "source": "Cumhuriyet",
+  "summary_tr": "YENİ Parti lideri Özgür Özel, emekli eyleminde intihar eden yurttaş için iktidara seslenerek 'Bu çığlık duyulsun' mesajı verdi. Emeklilerin ekonomik çıkmazını politikaya taşıyan açıklama.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-25T17:01:13.622678+00:00",
+  "type": "news",
+  "cluster_id": "c77b5218b50e2"
+ },
+ {
+  "title": "Germany's BASF approaches Evonik to create global chemicals giant",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVTRzNmNGdnRuX1ByTm9KcTA4M3RPc2otTG5idGplY255bk9aVjJaYjJSNjAyakVvWHpjaDBpeENQTTB0dUNQNkJWckpndXB0YXY4X0lGYWNLaVFVZlFRUHNPNVIydFRxXzI2UDA3cXhYUlNMTnVrVFd3MHJoUnYtWlZjZU5SYzM5WjRzZ2M2RjhPRVk0dk5qSldSMFdvN2lCaS1nSzVHNDNlR2lZVHJtZTFXYkxVZWc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Almanya'nın BASF, Evonik şirketiyle birleşme görüşmelerini başlattı. Küresel kimya sektöründe büyük bir konsolidasyon hamlesi planlanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-25T17:01:13.622678+00:00",
+  "type": "news",
+  "cluster_id": "c6aa20c5680ad"
+ },
+ {
+  "title": "DMM, fon piyasasındaki gelişmelere ilişkin iddiaları yalanladı",
+  "link": "https://www.trthaber.com/haber/gundem/dmm-fon-piyasasindaki-gelismelere-iliskin-iddialari-yalanladi-958163.html",
+  "source": "TRT Haber",
+  "summary_tr": "Cumhurbaşkanlığı İletişim Başkanlığı DMM, son dönemde fon piyasasında yaşanan gelişmelere ilişkin iddiaları yalanladı. Fon krizi hakkında resmi bir açıklama yapılmıştır.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-25T17:01:13.622678+00:00",
+  "type": "news",
+  "cluster_id": "cb19e05124931"
+ },
+ {
   "title": "Rusya’dan Kiev’e İHA saldırısı: 4 kişi hayatını kaybetti",
   "link": "https://www.cumhuriyet.com.tr/turkiye/rusya-dan-kiev-e-iha-saldirisi-4-kisi-hayatini-kaybetti-2541052",
   "source": "Cumhuriyet",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-18T09:01:17.138357+00:00",
   "type": "news",
   "cluster_id": "c79b776bfae7d"
- },
- {
-  "title": "Yeni nesil suç örgütlerine karşı yeni dönem: TEM de devrede olacak",
-  "link": "https://www.trthaber.com/haber/gundem/yeni-nesil-suc-orgutlerine-karsi-yeni-donem-tem-de-devrede-olacak-954244.html",
-  "source": "TRT Haber",
-  "summary_tr": "Sosyal medya üzerinden çocukları suça çeken yeni nesil suç örgütlerine karşı mücadelede TEM de devreye alınacak.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-18T09:01:17.138357+00:00",
-  "type": "news",
-  "cluster_id": "c73701d905594"
- },
- {
-  "title": "Trump’tan Umman’a tehdit: “Engel çıkarırsa onları fena halde bombalarız”",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb2U2eFprVjZyZG42bDZHcGhoQTktd2w0c3owUjhvLUVXSzZsY2RXQkNYcGZZZ0VxSThaS0dLZTNQRzJFeGFRVXhENnJCWTZkYUJsc3ptX0w4VVRKWF9hU1hhWTZEeUdxYkF4RE5fRzYzNHlHek9iSnl0bnhVWDJTVmItYUxkbFJ5QTRGX2haTjQxOWVtQmp6cVd3UU9pQUJXcm9N?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Trump, Umman'ın Hormuz Boğazı'nda engel çıkarırsa ülkeyi 'fena halde bombalarız' şeklinde tehdit etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-18T08:01:08.675474+00:00",
-  "type": "news",
-  "cluster_id": "c4139fc052b2f"
- },
- {
-  "title": "Ukraine launches 620 drones at Moscow region in major attack, mayor says",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYTd5R1Mzb0NRVnU0YUttNG1oM1FpMlB5NS1ickFwVVhGUC1LMk04SE90Q2pPaHFxWllacjZMeEtCZnJvLUZWblFuMHRaNDNyQTN3R0tpei1mMHZhdWQ5ODFGVVFHSExTMmo5RGFna3lzRC1Pd3FfZEVKUG5OQlB3WHVPaDNVcjJvSVBVdFNiaEdpdVNESHdCQmZPSEdQSkx6WEE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ukrayna, Moskova bölgesine karşı 620 adet insansız hava aracı ile büyük çaplı saldırı düzenledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-18T08:01:08.675474+00:00",
-  "type": "news",
-  "cluster_id": "c60dc0810dcb4"
- },
- {
-  "title": "Çin ekonomisinde temmuz faturası ağır oldu: Piyasalarda tehlike çanları...",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/cin-ekonomisinde-temmuz-faturasi-agir-oldu-piyasalarda-tehlike-canlari-2530000",
-  "source": "Cumhuriyet",
-  "summary_tr": "Çin ekonomisinde temmuzda perakende satışlar ve sanayi üretimindeki büyüme hızı yavaşladı, iç talepteki zayıflanma belirginleşti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-18T08:01:08.675474+00:00",
-  "type": "news",
-  "cluster_id": "cfde4c7308779"
- },
- {
-  "title": "Temmuzda İstanbul ve Ankara'da konut fiyatları arttı İzmir'de düştü",
-  "link": "https://www.sozcu.com.tr/temmuzda-konut-fiyatlari-artti-reel-deger-dusus-devam-etti-p350411",
-  "source": "Sözcü",
-  "summary_tr": "TCMB Konut Fiyat Endeksi temmuzda aylık yüzde 1,5 arttı. İstanbul ve Ankara'da fiyatlar yükselirken, İzmir'de düştü.",
-  "metric": "Konut Fiyat Endeksi (aylık) %1,5 artış",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-18T08:01:08.675474+00:00",
-  "type": "news",
-  "cluster_id": "c216ac8d81704"
- },
- {
-  "title": "Konut Fiyat Endeksi temmuzda yüzde 1,5 arttı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/konut-fiyat-endeksi-temmuzda-yuzde-1-5-artti/4030167",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Konut Fiyat Endeksi temmuzda aylık yüzde 1,5, yıllık bazda yüzde 25 arttı.",
-  "metric": "KFE (aylık) %1,5 artış | KFE (yıllık) %25 artış",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-18T08:01:08.675474+00:00",
-  "type": "news",
-  "cluster_id": "ce68673a3abf6"
  }
 ]
