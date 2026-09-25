@@ -1,5 +1,77 @@
 [
  {
+  "title": "Son dakika... Suudi Arabistan'dan Türkiye ve Pakistan genelkurmay başkanlarına 'acil' toplantı çağrısı",
+  "link": "https://www.cumhuriyet.com.tr/dunya/son-dakika-suudi-arabistan-dan-turkiye-ve-pakistan-genelkurmay-baskanlarina-acil-toplanti-cagrisi-2540834",
+  "source": "Cumhuriyet",
+  "summary_tr": "Suudi Arabistan, Türkiye ve Pakistan genelkurmay başkanlarını ortak savunma anlaşması kapsamında Riyad'a acil toplantıya çağırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-25T06:01:37.092592+00:00",
+  "type": "news",
+  "cluster_id": "c6eeb958502af"
+ },
+ {
+  "title": "Son dakika... Merkez Bankası'nın eski iki numarası tutuklandı",
+  "link": "https://www.sozcu.com.tr/son-dakika-fon-sorusturmasinda-11-tutuklama-daha-p363337",
+  "source": "Sözcü",
+  "summary_tr": "Merkez Bankası'nın eski iki yöneticisi fon soruşturmasında tutuklandı; toplam tutuklanan sayısı 45'e ulaştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-25T06:01:37.092592+00:00",
+  "type": "news",
+  "cluster_id": "c27504abc4d3e"
+ },
+ {
+  "title": "Rusya'nın Rostov bölgesindeki petrol rafinerisi, İHA saldırısının ardından faaliyetlerini durdurdu",
+  "link": "https://www.aa.com.tr/tr/dunya/rusyanin-rostov-bolgesindeki-petrol-rafinerisi-iha-saldirisinin-ardindan-faaliyetlerini-durdurdu/4068716",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Rusya'nın Rostov bölgesindeki Novoşahtinsk Petrol Rafinerisi, İHA saldırısından sonra faaliyetlerini geçici olarak durdurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-25T06:01:37.092592+00:00",
+  "type": "news",
+  "cluster_id": "c2eb034b2c9dd"
+ },
+ {
+  "title": "Konut satışlarında e-Devlet dönemi başlıyor",
+  "link": "https://www.sozcu.com.tr/konut-satislarinda-e-devlet-donemi-basliyor-p363344",
+  "source": "Sözcü",
+  "summary_tr": "Ticaret Bakanlığı, gayrimenkul sektöründe şeffaflığı artırmak ve spekülatif fiyat artışlarını önlemek için e-Devlet sistemiyle konut satışlarını başlattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-25T06:01:37.092592+00:00",
+  "type": "news",
+  "cluster_id": "c87823c246ae6"
+ },
+ {
+  "title": "Bakan Fidan, \"Ortak Savunma için Mekke Anlaşması Dışişleri Bakanları Toplantısı\"na katıldı",
+  "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-ortak-savunma-icin-mekke-anlasmasi-disisleri-bakanlari-toplantisina-katildi/4068721",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Dışişleri Bakanı Hakan Fidan, Ortak Savunma için Mekke Anlaşması Dışişleri Bakanları Toplantısı'na katıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-25T06:01:37.092592+00:00",
+  "type": "news",
+  "cluster_id": "c218c2b515243"
+ },
+ {
+  "title": "Bakan Fidan, Mekke Anlaşması Dışişleri Bakanları Toplantısı'na katıldı",
+  "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-mekke-anlasmasi-disisleri-bakanlari-toplantisina-katildi-958076.html",
+  "source": "TRT Haber",
+  "summary_tr": "Dışişleri Bakanı Hakan Fidan, Ortak Savunma için Mekke Anlaşması Dışişleri Bakanları Toplantısı'na katıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-25T06:01:37.092592+00:00",
+  "type": "news",
+  "cluster_id": "c218c2b515243"
+ },
+ {
   "title": "Çin ve Avrupa kıskacı: Türk otomotivinde tehlike büyüyor",
   "link": "https://www.dw.com/tr/çin-ve-avrupa-kıskacı-türk-otomotivinde-tehlike-büyüyor/a-79414984?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-17T16:01:05.123317+00:00",
   "type": "news",
   "cluster_id": "c44eb13258413"
- },
- {
-  "title": "4 ayrı yeni nesil suç örgütüne operasyon",
-  "link": "https://www.trthaber.com/haber/turkiye/4-ayri-yeni-nesil-suc-orgutune-operasyon-954173.html",
-  "source": "TRT Haber",
-  "summary_tr": "Adalet Bakanı Gürlek, 4 yeni nesil suç örgütüne yönelik operasyonda 818 şüphelinin kiralık kasalarına el koyulduğunu açıkladı.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-17T16:01:05.123317+00:00",
-  "type": "news",
-  "cluster_id": "c44eb13258413"
- },
- {
-  "title": "Irak Başbakanı Zeydi: Irak, Hürmüz Boğazı’nın kapatılmasından en fazla etkilenen ülkelerden biri",
-  "link": "https://www.aa.com.tr/tr/dunya/irak-basbakani-zeydi-irak-hurmuz-bogazi-nin-kapatilmasindan-en-fazla-etkilenen-ulkelerden-biri/4029716",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Irak Başbakanı Zeydi, ülkenin Hürmüz Boğazı'nın kapatılmasından en fazla etkilenen ülkelerden biri olduğunu açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-17T16:01:05.123317+00:00",
-  "type": "news",
-  "cluster_id": "c6289bc29be8d"
- },
- {
-  "title": "Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVl4WFplN0o4aVNSQ0REMXZlRmNzNTk4dURRMV8wUXhVQjNzVkZ0S3R4el9XSnE1MWZfLXc1RlZtZmJITURZRS1NaThGcXBKV0NZY2JXRGU1c093dzM1M0ZLcUtaRERHS1B4QUtXU3pwUk5XVWpSTEtXXzlTQ1BBZU85ZE50NHZQN2hXa1FTODlNRHU5UzhWS0tzMGktMktwMXI3X3pNYmRFMVIzSTlJbzl5SWRQa05qZ0lXWnM1bw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran, ABD'nin diplomasi yolunun başarısız olması durumunda Hürmüz Boğazı'nda saldırıya geçme tehdidi verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-17T15:01:10.321034+00:00",
-  "type": "news",
-  "cluster_id": "c063a70fcf2bb"
- },
- {
-  "title": "Iran says it will escalate if US does not honour deal within weeks",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ19NRUJoZTZ6N2V4Q2RUejU0UTRHc2dqa0ltemFkMUpKSkNEVmlPTmZxcUg2VkxycU1TN1l6STVpeXFvTTJHNlR4S3lnVTBkVmVUVExtUm1faHVrR0lmdWJyc0kzSjVBU0xBWEc4TFBlMmlvLU1NcHg5aDNBaDJUcWpETTJldHRoQzdhT2FUa3dINjVDd2J1UGFNcVd0VEp6cW43T3AxbmNjbzBfc3JCRWxjWGZEVWtFZEIwdQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İran, ABD'nin anlaşmaya uymaması halinde haftalar içinde tırmandırma yapacağını bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-17T15:01:10.321034+00:00",
-  "type": "news",
-  "cluster_id": "c9d6e884fa108"
- },
- {
-  "title": "The 60-day deadline for an Iran peace deal is expiring. Here’s where things stand",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3BhNEdxTFpDOGtvRmx2RU5kNWtFR1oxYXhsOEFWWm1NdG9IMkRaeEJvUmE5WUN0UjMxbXdwSXFmcXNKTjNGbkNfY1hrdjJtZnl0QVZXNk5jeVNFRV9qSklqTUhBVFpyTnFkdVBMeEZGRkJmWFFCWC1Ca3EtN2xGMzYtd3loMXdrTGhDSXpjV1ZzcGRnZUJfdEZueHdmSmFZR1BkcXV3?oc=5",
-  "source": "AP",
-  "summary_tr": "İran barış anlaşması için 60 günlük son tarih yaklaşırken müzakerelerin duruşu ortaya çıktı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-17T15:01:10.321034+00:00",
-  "type": "news",
-  "cluster_id": "c0e3abfa27734"
- },
- {
-  "title": "Devlet Bahçeli: “Abdullah Öcalan’ın sürece katkı sunabileceği şartlar oluşturulmalı”",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcmhLTkZERUYxSzNsQzB3UEtHRHNRY2VYT3kxemx4TURHMHI0cDN1YURfc0FxcjA5cG9EZ1RkU0gzVXJaa1gxSnZkb3FsbUh2M0loZHVsR2gwd0Zrc3lVQXc3MnQ3MVVvVnNBc2dfemhsWndtXzVaTllQTFB0OXJKdFJCeHQ3OVJIcURxR1o0NWI1VDZuNzA3SE1tUjRmcms?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "MHP Genel Başkanı Devlet Bahçeli, Abdullah Öcalan'ın 'sürece katkı sunabileceği şartlar oluşturulması' gerektiğini açıkladı. PKK meselesinde çözüm sürecine ilişkin önemli bir açıklama.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-17T14:01:09.218686+00:00",
-  "type": "news",
-  "cluster_id": "ccc2084a8a782"
  }
 ]
