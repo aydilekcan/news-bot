@@ -1,5 +1,41 @@
 [
  {
+  "title": "Emekli ölümüne çırpınıyor!",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWRpbE9tQlY0MUF4c0pUSnVHQmhZVFRqTU1NczhUc2g2NFJxVHJKN0NKb2VQQkZ3NHU3TUpWNXd1dm1fYXNHdG91S1YtRnhQNHByUTVmNksyOHNMTmJpcm5UUGdSY2F3YUFwUXNOZWdGT0EwZGFrTlJxcmhaY0hiWHRuaDhGV1lp?oc=5",
+  "source": "soL",
+  "summary_tr": "Emekli alınacak gelir seviyesinde ağır zorluklar yaşıyor, yaşam maliyeti yükünü kaldıramıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-25T18:01:04.444288+00:00",
+  "type": "news",
+  "cluster_id": "c0a6fb72abde3"
+ },
+ {
+  "title": "Trump says he talked to Xi about the Iran war",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3NaNENZd05ESDQwSFdrTGwyLUtGX3NzT1NiR0tzbWwtM282dHRxbkxLYTk2b1Rkd01xQldYM2ItTlNRV01wbnhDMWpZVkliRnBhMlFWYVg1VHh6bjRCVkQwVGFFamhhWWpJa0p5aHlVRkJpblI1UUZJeDN6VFg1Z1hhdGFBSklFN2ZyVjZ0b1IyNUpoMU5GN0tmTlZPMExVNFppU2ZSRGFwcW1QSElZaktmS3pXSElm?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, Xi Jinping ile İran savaşı konusunda görüştüğünü söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-25T18:01:04.444288+00:00",
+  "type": "news",
+  "cluster_id": "c8667778aeb72"
+ },
+ {
+  "title": "#fitch ratings türkiye raporu",
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wRGRWcmU2QkdRbkN0cDdtWFVjemEwR3AtZmNlNzhTeGVMREdwYkdJZF9ndG5jSEE0a05TRWNFakRERGRvRi1XR2FGdTFBNFU1cTI1OGIwZW5oX1BJUkJzQVZJUFJraVJNR2lLVmhzOGdDT251VmR3?oc=5",
+  "source": "T24",
+  "summary_tr": "Fitch Ratings Türkiye'ye ilişkin yeni rapor yayınladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-25T18:01:04.444288+00:00",
+  "type": "news",
+  "cluster_id": "cf857caec9da6"
+ },
+ {
   "title": "Eylemde kendini vuran emekli polis hayatını kaybetti",
   "link": "https://www.diken.com.tr/eylemde-kendini-vuran-emekli-polis-hayatini-kaybetti/?utm_source=rss&utm_medium=rss&utm_campaign=eylemde-kendini-vuran-emekli-polis-hayatini-kaybetti",
   "source": "Diken",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-18T09:01:17.138357+00:00",
   "type": "news",
   "cluster_id": "cd49496c16b61"
- },
- {
-  "title": "Spor devi bir gecede milyarlarca dolar kaybetti",
-  "link": "https://www.sozcu.com.tr/spor-devi-bir-gecede-milyarlarca-dolar-kaybetti-p350442",
-  "source": "Sözcü",
-  "summary_tr": "Spor giyim devinin hisseleri %4'ün üzerinde değer kaybederek 39 dolar seviyesine geriledi.",
-  "metric": "[hisse fiyatı] 39 dolar seviyesine düştü (-%4+)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-18T09:01:17.138357+00:00",
-  "type": "news",
-  "cluster_id": "cb5453d17a361"
- },
- {
-  "title": "Kayseri Meydanı'ndaki konuşması gündem olan Rabia Coşkun gözaltına alındı",
-  "link": "https://www.sozcu.com.tr/kayseri-meydaninda-soyledikleri-gundem-olan-rabia-coskun-gozaltina-alindi-p350430",
-  "source": "Sözcü",
-  "summary_tr": "Çerçeve Yasa'yı protesto eden Rabia Coşkun Kayseri Cumhuriyet Meydanı'ndaki konuşmasından sonra gözaltına alındı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-18T09:01:17.138357+00:00",
-  "type": "news",
-  "cluster_id": "ca88edeb9950e"
- },
- {
-  "title": "Elektrikte büyümenin yüzde 88'i yenilenebilir enerjiden",
-  "link": "https://www.trthaber.com/haber/ekonomi/elektrikte-buyumenin-yuzde-88i-yenilenebilir-enerjiden-954253.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye'nin elektrik kurulu gücündeki büyümede yenilenebilir enerji öne çıkıyor; Haziran 2025-Haziran 2026 döneminde net kapasite artışının %88'i yenilenebilir enerjiden sağlandı.",
-  "metric": "[yenilenebilir enerji payı] %88",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-18T09:01:17.138357+00:00",
-  "type": "news",
-  "cluster_id": "c79b776bfae7d"
  }
 ]
