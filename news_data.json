@@ -1,5 +1,29 @@
 [
  {
+  "title": "Çin ve Avrupa kıskacı: Türk otomotivinde tehlike büyüyor",
+  "link": "https://www.dw.com/tr/çin-ve-avrupa-kıskacı-türk-otomotivinde-tehlike-büyüyor/a-79414984?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Türk otomotiv sektörü 2026 başından bu yana hem üretim hem ihracatta küçülüyor; Çin ve Avrupa rekabeti tehdit oluşturuyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-25T05:00:59.155104+00:00",
+  "type": "news",
+  "cluster_id": "c80ff7c903d4d"
+ },
+ {
+  "title": "Economist 'fon fiyaskosu'nu analiz etti: Türkiye statüsünü kaybedebilir",
+  "link": "https://www.diken.com.tr/economist-fon-fiyaskosunu-analiz-etti-turkiye-statusunu-kaybedebilir/?utm_source=rss&utm_medium=rss&utm_campaign=economist-fon-fiyaskosunu-analiz-etti-turkiye-statusunu-kaybedebilir",
+  "source": "Diken",
+  "summary_tr": "The Economist, Türkiye'nin fon statüsünü kaybedebileceği uyarısında bulundu.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-25T05:00:59.155104+00:00",
+  "type": "news",
+  "cluster_id": "cb2f8fa3cc296"
+ },
+ {
   "title": "Netanyahu BM Genel Kurulu için geldiği New York’ta binlerce kişi tarafından protesto edildi",
   "link": "https://www.aa.com.tr/tr/dunya/netanyahu-bm-genel-kurulu-icin-geldigi-new-york-ta-binlerce-kisi-tarafindan-protesto-edildi/4068707",
   "source": "Anadolu Ajansı",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-17T14:01:09.218686+00:00",
   "type": "news",
   "cluster_id": "ccc2084a8a782"
- },
- {
-  "title": "Hazine 101,7 milyar lira borçlandı",
-  "link": "https://www.diken.com.tr/hazine-1017-milyar-lira-borclandi/?utm_source=rss&utm_medium=rss&utm_campaign=hazine-1017-milyar-lira-borclandi",
-  "source": "Diken",
-  "summary_tr": "Hazine 101,7 milyar lira borçlandı. Hazine ve Maliye Bakanlığı düzenlediği iki ihaleyle 101,6 milyar lira borçlanmayı gerçekleştirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-17T14:01:09.218686+00:00",
-  "type": "news",
-  "cluster_id": "c7c7cd5e08deb"
- },
- {
-  "title": "Japonya'da düşük büyüme ile yüksek enflasyonun BoJ'u ve hükümeti ikilemde bırakabileceği öngörülüyor",
-  "link": "https://www.aa.com.tr/tr/ekonomi/japonyada-dusuk-buyume-ile-yuksek-enflasyonun-boju-ve-hukumeti-ikilemde-birakabilecegi-ongoruluyor/4029612",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Japonya'da düşük büyüme ve yüksek enflasyonun BoJ'u ve hükümeti ikilemde bırakabileceği öngörülüyor. Beklentilerin altında gelen büyüme verileri enflasyon baskısıyla birlikte merkez bankasının politika belirlenmesini zorlaştırabilir.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-17T14:01:09.218686+00:00",
-  "type": "news",
-  "cluster_id": "c6c62a21a4d4c"
  }
 ]
