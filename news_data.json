@@ -1,5 +1,41 @@
 [
  {
+  "title": "Turizm sektöründe 2027 alarmı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/turizm-sektorunde-2027-alarmi-2540786",
+  "source": "Cumhuriyet",
+  "summary_tr": "Turizm sektörü 2027'de artan maliyetler, jeopolitik riskler ve uçak bilet fiyatlarındaki artış nedeniyle zorluk yaşayabilir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-25T02:01:03.003981+00:00",
+  "type": "news",
+  "cluster_id": "cbdc0b2fa03b3"
+ },
+ {
+  "title": "Ege ekonomisinde uyarı sinyalleri",
+  "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/ege-ekonomisinde-uyari-sinyalleri-2540830",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ege Bölgesi ekonomisinde uyarı sinyalleri: yurttaşların kredi yükü ve şirket hareketlerinde dikkat çekici gelişmeler gözleniyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-25T02:01:03.003981+00:00",
+  "type": "news",
+  "cluster_id": "c0842ea18d22c"
+ },
+ {
+  "title": "150 uçak aldık Trump bayram etti",
+  "link": "https://www.sozcu.com.tr/150-ucak-aldik-trump-bayram-etti-p363316",
+  "source": "Sözcü",
+  "summary_tr": "Trump, 150 uçak satışını \"on milyarlarca dolarlık satış ve devasa ihracat\" olarak değerlendirerek Amerikan sanayisini vurguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-25T02:01:03.003981+00:00",
+  "type": "news",
+  "cluster_id": "ce0dc96eb6071"
+ },
+ {
   "title": "Milyarlar elden ele SPK izlemede",
   "link": "https://www.sozcu.com.tr/milyarlar-elden-ele-spk-izlemede-p363314",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-17T13:01:12.044571+00:00",
   "type": "news",
   "cluster_id": "cfe28292e1b30"
- },
- {
-  "title": "İsrailli soykırım destekçisi bakan Smotrich'ten Gazze'nin tamamen işgal edilmesi çağrısı",
-  "link": "https://www.trthaber.com/haber/dunya/israilli-soykirim-destekcisi-bakan-smotrichten-gazzenin-tamamen-isgal-edilmesi-cagrisi-954168.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail Maliye Bakanı Smotrich, Gazze Şeridi'nin tamamen işgal edilmesi çağrısında bulundu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-17T13:01:12.044571+00:00",
-  "type": "news",
-  "cluster_id": "c8523dcef6f5d"
- },
- {
-  "title": "Kushner has a rare meeting with Hamas' leader on the Gaza road map. A meeting with Netanyahu is next",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb2RjS19lVHRWUHJtbzIwY1FEWmxkWG5wVGVMeDV4LUE2UC1NN0liejZ2S3NfY01RN1ZKaEVnSnFQeUNHaUc2b29qT19Ldk1xUExBQmFXSWs1TG56ZGNtVzJ3cGpPNVRWWklkc2QtQ3VkaDZzTlIzTll1VGxSMUpzM21VejFWcFk0QXg0VkZYRTBCQmRYSVFUcWNEY0t0RDFwWkFFZmtsSTRVVjZUa3RrdkxRWDRfLXVNWnc?oc=5",
-  "source": "AP",
-  "summary_tr": "Kushner, Gazze yol haritası üzerine Hamas liderinin nadir bir toplantısında bulundu; Netanyahu görüşmesi planlı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-17T13:01:12.044571+00:00",
-  "type": "news",
-  "cluster_id": "cdd336d2a9573"
- },
- {
-  "title": "Borcu olanlar için son 15 gün: SGK başvuru takvimini açıkladı",
-  "link": "https://www.sozcu.com.tr/borcu-olanlar-icin-son-15-gun-sgk-basvuru-takvimini-acikladi-p350192",
-  "source": "Sözcü",
-  "summary_tr": "SGK, prim ve ceza borçlarının taksitlendirilmesi başvurusunda 15 günlük son başvuru takvimini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-17T13:01:12.044571+00:00",
-  "type": "news",
-  "cluster_id": "c50557e6c219f"
  }
 ]
