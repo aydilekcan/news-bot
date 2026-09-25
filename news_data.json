@@ -1,5 +1,17 @@
 [
  {
+  "title": "Oil prices fall as markets look to Iran truce, but remain wary of attacks on oil facilities",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3EzX3oydnQxRk5Ld1BKbk82ek14ZVdyLVpTdldjdEpqeDJfTVZ2Q0F1TnhvaWlhR1p0Z3hScDV0S2Z1UFR5OXhKSWk3NmtqTzd0SkJfa2RLRFpOOUlEcE5mR1d4Z21Td2FCQVZqNHV1eDloQkplT1NHaHhyTDlqOG5DYlFFdnRERThxNU0yX29LcTRyal9pMHQ4ZzNoU0VKZkdHN2hFYjhCZUpZZ3d2am11SDJYYVBiN0JxWVBtczNRYkh1?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Petrol fiyatları İran ateşkesi beklentisiyle düştü, ancak petrol tesislerine saldırı riski caydırıcı etki yapıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-25T03:00:59.834780+00:00",
+  "type": "news",
+  "cluster_id": "c6eec7627a812"
+ },
+ {
   "title": "Turizm sektöründe 2027 alarmı",
   "link": "https://www.cumhuriyet.com.tr/turkiye/turizm-sektorunde-2027-alarmi-2540786",
   "source": "Cumhuriyet",
@@ -59986,17 +59998,5 @@
   "ts": "2026-08-17T13:01:12.044571+00:00",
   "type": "news",
   "cluster_id": "cb2aec8f51eae"
- },
- {
-  "title": "Japonya ekonomisinde çifte kıskaç: Merkez Bankası ve hükümet karşı karşıya geldi!",
-  "link": "https://www.sozcu.com.tr/japonya-ekonomisinde-cifte-kiskac-merkez-bankasi-ve-hukumet-karsi-karsiya-geldi-p350184",
-  "source": "Sözcü",
-  "summary_tr": "Japonya'da ikinci çeyrek büyümesi beklentinin altında kaldı ve enflasyon yükselişe geçti; merkez bankası ve hükümet politika uyuşmazlığı yaşıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-17T13:01:12.044571+00:00",
-  "type": "news",
-  "cluster_id": "cfe28292e1b30"
  }
 ]
