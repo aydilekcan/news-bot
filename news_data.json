@@ -1,5 +1,29 @@
 [
  {
+  "title": "Milyarlar elden ele SPK izlemede",
+  "link": "https://www.sozcu.com.tr/milyarlar-elden-ele-spk-izlemede-p363314",
+  "source": "Sözcü",
+  "summary_tr": "Türkiye'yi sarsan fon krizinde Sermaye Piyasası Kurulu'nun yetkileri tartışılıyor; muhalefet vekilleri SPK'nın denetim yetkilerini sorguluyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-25T01:00:56.123186+00:00",
+  "type": "news",
+  "cluster_id": "ca48e5d4ab44b"
+ },
+ {
+  "title": "Uzaktan çalışma modeline yeni düzenleme",
+  "link": "https://www.sozcu.com.tr/uzaktan-calisma-modeline-yeni-duzenleme-p363313",
+  "source": "Sözcü",
+  "summary_tr": "Uzaktan Çalışma Yönetmeliği değiştirildi; karma çalışma modeli resmen düzenlenerek işçilerin çalışma şartları belirlenmiştir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-25T01:00:56.123186+00:00",
+  "type": "news",
+  "cluster_id": "c61e977c6636c"
+ },
+ {
   "title": "Netanyahu'nun Cumhurbaşkanı Erdoğan'a sözlerine Türkiye'den sert tepkiler: 'Hadsiz ve alçak'",
   "link": "https://www.bbc.com/turkce/articles/ckeq8ez1n4wjo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-17T13:01:12.044571+00:00",
   "type": "news",
   "cluster_id": "c50557e6c219f"
- },
- {
-  "title": "Mahkeme Başkanından İmamoğlu'nun savunma talebine yanıt",
-  "link": "https://www.sozcu.com.tr/mahkeme-baskanindan-imamoglu-nun-savunma-talebine-yanit-p350188",
-  "source": "Sözcü",
-  "summary_tr": "İBB Davası'nda mahkeme başkanı, İmamoğlu'nun savunma talebine yanıt verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-17T13:01:12.044571+00:00",
-  "type": "news",
-  "cluster_id": "c8278c8dc1b6b"
- },
- {
-  "title": "Second wave of fuel shortages at petrol stations sweeps across Russia",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWVpqRUVqYVlKdHYySHdET1NlSGZhdzlDX2RKUzBFZm5EYndqXzFYNFFieGVjVFFnTHg5NXNiOEo1eVc5bVFJX0VfcmNBd21wSl96akVOQWsxaldjUkdSUTRfNW9UalMtSlhxeHo0czRwN3RiNzNzbWZLYThJVnJUNEh4cm1venZfRm15QU9XR1JPQlh4c1ZfZU9rdl9kSDUyMmFBYkRuNXZTOW9VNDg2OG05dkpjZw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Rusya'da benzin istasyonlarında ikinci yakıt kıtlığı dalgası başladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-17T13:01:12.044571+00:00",
-  "type": "news",
-  "cluster_id": "c4485f6d535f5"
  }
 ]
