@@ -1,5 +1,41 @@
 [
  {
+  "title": "Birevim’den Emlak Katılım açıklaması",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/birevim-den-emlak-katilim-aciklamasi-2540952",
+  "source": "Cumhuriyet",
+  "summary_tr": "Emlak Katılım Bankası'nın Birevim tarafından devri için resmi başvurular yapıldı. Şirket mevcut sözleşmeleri ve ödeme planlarını koruyacak.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-25T11:01:05.363941+00:00",
+  "type": "news",
+  "cluster_id": "c8e8ca8ff9707"
+ },
+ {
+  "title": "ATO Başkanı Gürsel Baran’dan enflasyon uyarısı: 'Reel sektör ve üretim ihmal edilmemeli'",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/ato-baskani-gursel-baran-dan-enflasyon-uyarisi-reel-sektor-ve-uretim-ihmal-edilmemeli-2540949",
+  "source": "Cumhuriyet",
+  "summary_tr": "ATO Başkanı Gürsel Baran, enflasyonla mücadele sırasında reel sektör ve ihracatın korunması gerektiğini vurguladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-25T11:01:05.363941+00:00",
+  "type": "news",
+  "cluster_id": "c4b86f0bba030"
+ },
+ {
+  "title": "Ev eşyaları satan 56 yıllık dev marka iflas etti",
+  "link": "https://www.sozcu.com.tr/ev-esyalari-satan-56-yillik-dev-marka-iflas-etti-p363461",
+  "source": "Sözcü",
+  "summary_tr": "İngiliz lüks ev eşyaları devi Designers Guild 56 yıl sonra iflas etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-25T11:01:05.363941+00:00",
+  "type": "news",
+  "cluster_id": "ccd837adbd185"
+ },
+ {
   "title": "Fon soruşturması: Eski TCMB Başkan Yardımcısı dahil 19 kişi daha tutuklandı",
   "link": "https://www.dw.com/tr/fon-soruşturması-eski-tcmb-başkan-yardımcısı-dahil-19-kişi-daha-tutuklandı/a-79426185?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-17T23:01:03.688856+00:00",
   "type": "news",
   "cluster_id": "cd662adbb8010"
- },
- {
-  "title": "Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Resmi Gazete'de",
-  "link": "https://www.aa.com.tr/tr/gundem/milli-dayanisma-ve-toplumsal-butunlesmenin-guclendirilmesine-dair-kanun-resmi-gazetede/4030034",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "TBMM'de 'Terörsüz Türkiye' kapsamında Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun kabul edildi ve Resmi Gazete'de yayımlandı.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-17T23:01:03.688856+00:00",
-  "type": "news",
-  "cluster_id": "c5ea3f78a0a81"
- },
- {
-  "title": "US diesel crack surpasses $100 a barrel for the first time on supply disruptions",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2p1clBfdVhTak9ubTVGRFROZ3BqSlB0U1k5MzNUNzUzYjdLUzNWQWdEajJHdDZXTzdfVWJBYlJHSk9iNTZROEJyWG55ZFBUYkhUalF6aXl2Ynkzakppczk0N3RLal9zZ0JNOXZqX2c5eFFTMmtVTlJhYTRNMjd6dnNmRER4YkFmZmp3YXA2VGdBWE1BQUJaenBkZnh1QkE0aGQ2cDA5VkRod3ZUVmsxZWVibWJBSUZzZXc?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD dizel crack'i arz kısıntıları nedeniyle ilk kez varilde 100 doları aşarak tarihi rekor kırdı.",
-  "metric": "US diesel crack $100/barrel (ilk kez)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-17T23:01:03.688856+00:00",
-  "type": "news",
-  "cluster_id": "c68b5cf743ca2"
- },
- {
-  "title": "Erdoğan, Trump ile görüştü: Gündem ABD-Türkiye ilişkileri",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/erdogan-trump-ile-gorustu-gundem-abd-turkiye-iliskileri-2529926",
-  "source": "Cumhuriyet",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile telefon görüşmesi gerçekleştirdi; gündem ABD-Türkiye ilişkileri ve bölgesel konular.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-17T22:01:13.688119+00:00",
-  "type": "news",
-  "cluster_id": "ca61560d91f0b"
  }
 ]
