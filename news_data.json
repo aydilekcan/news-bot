@@ -1,5 +1,29 @@
 [
  {
+  "title": "Fon soruşturmasında 46 şirket, 18 fon ve 42 kişinin malvarlığı donduruldu",
+  "link": "https://www.bbc.com/turkce/articles/cqkg08p7v814o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Adalet Bakanı Akın Gürlek, sermaye piyasası soruşturmasında 46 şirket, 18 fon ve 42 kişinin malvarlığını dondurduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-26T17:01:01.070121+00:00",
+  "type": "news",
+  "cluster_id": "cc5fc7adb8eec"
+ },
+ {
+  "title": "Adalet Bakanı Gürlek'ten sermaye piyasası işlemleri soruşturmalarına ilişkin açıklama",
+  "link": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlekten-sermaye-piyasasi-islemleri-sorusturmalarina-iliskin-aciklama/4070287",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Adalet Bakanı Gürlek, 1 Temmuz-16 Eylül arasında yapılan sermaye piyasası soruşturmalarında 46 tüzel kişi, 18 fon ve 42 gerçek kişinin malvarlığını dondurduğunu bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-26T17:01:01.070121+00:00",
+  "type": "news",
+  "cluster_id": "ca66958a12ea2"
+ },
+ {
   "title": "Trump, İran'ın 7 günlük teklifini \"kabul edilemez\" olarak nitelendirerek bunu reddettiğini açıkladı",
   "link": "https://www.aa.com.tr/tr/dunya/trump-iranin-7-gunluk-teklifini-kabul-edilemez-olarak-nitelendirerek-bunu-reddettigini-acikladi/4070261",
   "source": "Anadolu Ajansı",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-19T08:01:08.792511+00:00",
   "type": "news",
   "cluster_id": "c620e50f4f28c"
- },
- {
-  "title": "İşsizlik oranı: %7,9",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY2ZZT2FxOVV2OTMxZXVuRXZacnhYZXA2Z1U1OENuU1U3SDVuYlBZRFNod0liUlM1VklvQ0VEaFBZal96NTdkTDNSdGg4Z3AzY0w1OUVnZXdGeUNlbTJYOTRZcUxQY0lkbjF6Nm9uVk4yYTFubGhNbGpvYUIyOFJseVBwNTVPUHJrNUZGcklfYVJmYlUyNXZKM3hVWUNhVGNXZHNTVU1R?oc=5",
-  "source": "TUIK",
-  "summary_tr": "%7,6 → %7,9 (+0,3 puan)",
-  "metric": "+0,3 puan",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-08-19T08:01:08.792511+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "Mevsim etkisinden arındırılmış işsizlik oranı: %7,9 (Nisan-Haziran 2026)",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVYwdWdsZVROclBjbE83c3d1Znppc2JyRlVFTDVkVThMbTd5dC1HLWlIN1lOY3ZLNnNsYTR5ODZ0MkwweXRUOHE5eXlTei0yOVBqOTJLb0djZUo1QnBVVktKbzViMXlYWU5heHB4RDA4M3NSbVZRM1Q0TWlCSVdPNFZOWldjM0d5dG9vSU95eDlLSk9udG9GMm1aOGJGa29fSUFtZnJ3X1RrTV9XdDVyRkl2aEhEWkZoc2RV0gHAAUFVX3lxTFBicVNCUHRqRlVtNlJyeUl0Vmh3WTBKQVd4TWFlWGxYS1Z6UGdaejhPY1JrRlY0Y0tFWHNTa2xfTExaYXptYmVDRG5ESndkdjJfUEN1RzZvR0tQaUJhSmxoM3dMZkVJcVgtMEFVRTNCeXk0Q0RCT1E5X1ViUGk2TFNTU0dEVmQwTUdJV1E2Zlpmd2c1Z0hrVTdxQUhYUVhzREtZR0Q1U0FtaXUxd0luRzdQSkwwRU50N3lkSGZRdWlZaw?oc=5",
-  "source": "TUIK",
-  "summary_tr": "%7,9",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-08-19T08:01:08.792511+00:00",
-  "type": "data",
-  "cluster_id": ""
  }
 ]
