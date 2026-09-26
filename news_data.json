@@ -1,5 +1,65 @@
 [
  {
+  "title": "Enflasyon neden çürüme sonuç",
+  "link": "https://www.cumhuriyet.com.tr/yazarlar/jale-ozgenturk/enflasyon-neden-curume-sonuc-2541096",
+  "source": "Cumhuriyet",
+  "summary_tr": "Enflasyonun vatandaşların konut ve otomobil satın alma gücünü erode ettiğini analiz eden görüş yazısı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-26T02:01:01.207925+00:00",
+  "type": "news",
+  "cluster_id": "c7d406d17e787"
+ },
+ {
+  "title": "CHP’nin yüzde 55 oy alarak kazandığı belediyenin AKP’ye geçmesi yurttaşın tepkisini çekti",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/chp-nin-yuzde-55-oy-alarak-kazandigi-belediyenin-akp-ye-gecmesi-yurttasin-tepkisini-cekti-2541122",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP'nin yüzde 55 oy aldığı Adalar Belediyesi, operasyon ve tutuklamaların ardından mecliste yapılan seçimler sonucunda AKP'ye geçti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-26T02:01:01.207925+00:00",
+  "type": "news",
+  "cluster_id": "ce08dd722c195"
+ },
+ {
+  "title": "Sansürde hız yarışı: 175 adliyede sosyal medyaya 'kırmızı hat'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/sansurde-hiz-yarisi-175-adliyede-sosyal-medyaya-kirmizi-hat-2541126",
+  "source": "Cumhuriyet",
+  "summary_tr": "Adalet Bakanı Akın Gürlek, 175 ağır ceza merkezinde 'Dijital Ortam Güvenliği ve Dezenformasyonla Mücadele Büroları' kurulacağını duyurdu.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-26T02:01:01.207925+00:00",
+  "type": "news",
+  "cluster_id": "c0dfb135f23e6"
+ },
+ {
+  "title": "US Supreme Court bars Republican-drawn map in Missouri for third time",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd3VkNmxUVGxldnFnVmhycE5zYVRIUG1qUmNXbWRZcGp2bWZTbUp4UERnbFY1QlEwSFJzMEdUTmFuQy1ldXZONDFUWlprNFl5VlgwMlVDS0FEMjRCQUY1MXFzZTZUZG53alVsNk1ubC1rZFpGR3owWjVOOU5xOHJLLXE3VmFNaVc0R3lseDU4TV9uUlA2N2tXNUx6SkN4aGNlSTVWcHZWcw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Yüksek Mahkemesi, Cumhuriyetçilerin çizdiği Missouri haritasını üçüncü kez geçersiz kıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-26T02:01:01.207925+00:00",
+  "type": "news",
+  "cluster_id": "c3b72419728a1"
+ },
+ {
+  "title": "Trump administration uses rare authority to claw back nearly $1B in spending approved by Congress",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTWFvZGl3dnM3QXZvYy1LZFYtS3JYcGROcHZtRDN3eFg2Z241SWFSSTBpUHVONW9Pb2FnVTJQakdZNW5NMDZzSFE1dXhoMU5JS2J0UDZrZlVMcmwtYzdodElTeFdsZG9KQkZXUHNjZXMzV3NSeXpoSVF6c0N1QXVFU2tKYzhlQ1NXTGlVMXdn?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump yönetimi, Kongre tarafından onaylanan yaklaşık 1 milyar dolarlık harcamayı geri alma otoritesini kullandı.",
+  "metric": "~1 milyar dolar",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-26T02:01:01.207925+00:00",
+  "type": "news",
+  "cluster_id": "c3d5548b71a03"
+ },
+ {
   "title": "İran, Hürmüz Boğazı'na ilişkin 7 günlük plan için ABD'den karar bekliyor",
   "link": "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazina-iliskin-7-gunluk-plan-icin-abdden-karar-bekliyor/4069801",
   "source": "Anadolu Ajansı",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-18T13:01:07.597418+00:00",
   "type": "news",
   "cluster_id": "c2586c6e9ed07"
- },
- {
-  "title": "Bütçede akaryakıt ve ceza makası açıldı: ÖTV kaybının faturası trafik cezalarına yansıdı",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/butcede-akaryakit-ve-ceza-makasi-acildi-otv-kaybinin-faturasi-trafik-cezalarina-yansidi-2530146",
-  "source": "Cumhuriyet",
-  "summary_tr": "Akaryakıt vergisinde tahsilat kaybı yaşanması, trafik cezalarına yansıtıldı. Bütçe sisteminde kaybın telafi edilme yöntemi tartışılıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-18T13:01:07.597418+00:00",
-  "type": "news",
-  "cluster_id": "c6aed3db01da6"
- },
- {
-  "title": "Dev restoran zincirinde iflas depremi: Son 9 ayda 50 şubesine kilit vurdu!",
-  "link": "https://www.sozcu.com.tr/dev-restoran-zincirinde-iflas-depremi-son-9-ayda-50-subesine-kilit-vurdu-p350489",
-  "source": "Sözcü",
-  "summary_tr": "ABD'nin büyük İtalyan fastfood zinciri Fazoli's, son 9 ayda 50 şubesini kapattı; FAT Brands borç krizi yaşıyor.",
-  "metric": "Şube kapanması 9 ay içinde 50 adet",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-18T12:01:08.632945+00:00",
-  "type": "news",
-  "cluster_id": "c4b530a77a9c0"
- },
- {
-  "title": "Yargıtay'dan emsal karar... Ev sahibi kirayı satın alan kişiye ödeyecek",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/yargitay-dan-emsal-karar-ev-sahibi-kirayi-satin-alan-kisiye-odeyecek-2530120",
-  "source": "Cumhuriyet",
-  "summary_tr": "Yargıtay, kiralanmış evin satın alındıktan sonraki dönemin kira bedelinin yeni malikine verilmesi gerektiğine karar verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-18T12:01:08.632945+00:00",
-  "type": "news",
-  "cluster_id": "c2dcd01e56205"
- },
- {
-  "title": "4 ay içinde başvuru yapmayan emekli, ömür boyu daha düşük maaş alacak",
-  "link": "https://www.sozcu.com.tr/4-ay-icinde-basvuru-yapmayan-emekli-omur-boyu-daha-dusuk-maas-alacak-p350493",
-  "source": "Sözcü",
-  "summary_tr": "Emeklilik hakkı kazanan kişilerin 4 ay içinde başvuru yapmaması durumunda ömür boyu daha düşük maaş alması söz konusu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-18T12:01:08.632945+00:00",
-  "type": "news",
-  "cluster_id": "ca5c86f1f9065"
- },
- {
-  "title": "As US debt mounts, investors demand higher returns to lend",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ2N3OE9HMThkbnY4eXR1VEk1YVJrS1RweUhhclM5RDBvOU1XT0xFeDlDV0JnT3huQU85V1NBXzRQWFpYalY4X01uaXNUWXhxb1lhU0ZhMlB2QWFLeHNDT25fQ1BuNVNvaDZqWTJBUGJ5ZlNiWnZuaXQ3OW9RYWlLV0ViLVJlOWRPWDBCOTd5ZXBYaXpFTXRHWGRLMHZCXzRqT2dvMXJCT2JBdUk?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD borcu arttıkça, yatırımcılar borç verme karşılığında daha yüksek getiri talep etmeye başladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-18T12:01:08.632945+00:00",
-  "type": "news",
-  "cluster_id": "c459925fd1915"
  }
 ]
