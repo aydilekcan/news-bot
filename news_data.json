@@ -1,5 +1,29 @@
 [
  {
+  "title": "ABD ve Çin 30 milyar dolarlık mallar için daha elverişli tarife uygulamasında uzlaştı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abd-ve-cin-30-milyar-dolarlik-mallar-icin-daha-elverisli-tarife-uygulamasinda-uzlasti/4070373",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD ve Çin, karşılıklı 30 milyar dolarlık mallar için daha uygun tarife uygulamasında mutabakat sağladı.",
+  "metric": "30 milyar dolar hassas olmayan mallarda tarife indirim",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-26T19:01:00.112590+00:00",
+  "type": "news",
+  "cluster_id": "c325084ca2724"
+ },
+ {
+  "title": "ABD ve Çin'den 30 milyar dolarlık tarife uzlaşısı",
+  "link": "https://www.trthaber.com/haber/dunya/abd-ve-cinden-30-milyar-dolarlik-tarife-uzlasisi-958258.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD ve Çin, karşılıklı 30 milyar dolarlık mallar için daha uygun tarife uygulamasında mutabakat sağladı.",
+  "metric": "30 milyar dolar hassas olmayan mallarda tarife indirim",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-26T19:01:00.112590+00:00",
+  "type": "news",
+  "cluster_id": "ca3a06630a8b6"
+ },
+ {
   "title": "İran'ın Hürmüz için 7 günlük ateşkes teklifine Trump'tan yanıt: Reddediyorum!",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWFZQblJneGhzOXhWR1F1RFV1UFliOTRweTBDUTdTYTViVDlMTjNZejFPck9Ub1JYR0RiUEVkREZVZkxIRXJqczdCTF81M1FLOXFFb0txYjdZc2haTWE5M2twTDZTbjI3YVR4VUI0LU9vbGxrVXhnNXdvbkVjdEJra2tHMm5uUVJlb0MzakFIMDZmb3NaY1RWZmtPUExhNmcxNHNkVE12TmVvUQ?oc=5",
   "source": "T24",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-19T08:01:08.792511+00:00",
   "type": "news",
   "cluster_id": "c1b71bae22291"
- },
- {
-  "title": "TÜİK, nisan-haziran dönemi iş gücü istatistiklerini açıkladı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/tuik-nisan-haziran-donemi-is-gucu-istatistiklerini-acikladi/4031269",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "TÜİK verilerine göre işsizlik oranı nisan-haziran döneminde %7,9 oldu; bir önceki çeyreğe göre 0,3 puanlık azalış kaydedildi.",
-  "metric": "İşsizlik oranı %8,2 -> %7,9 (-0,3 puan)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-19T08:01:08.792511+00:00",
-  "type": "news",
-  "cluster_id": "c14d9ceef6f73"
- },
- {
-  "title": "Bahçeli talep etmişti: Öcalan’ın koordinatör olacağı kurul gündemde",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTURHbjU2QWhDZmgxc1dfNzBmbHFJbFp3V08wcnVhaXNTNDdTYTZ0YnIyRmtlUXJzakdlRElUQWZkTHB4ZWluQ1JxY0pyMmtTcnEzLV8yMkVvVmViTEFhNTRFZERlWDB4dHNoUkpxX19jTVFjcTRyN2lEQnB3OWN5TGNYRFh2dVhkTDRQSHlnXzBtT0lDOENEU2hCdjdpQUJyR29RLWRB?oc=5",
-  "source": "soL",
-  "summary_tr": "MHP Genel Başkanı Devlet Bahçeli'nin talebine istinaden Öcalan'ın koordinatör olacağı bir kurul gündemde yer aldı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-19T08:01:08.792511+00:00",
-  "type": "news",
-  "cluster_id": "ccb5ab90a1d9a"
  }
 ]
