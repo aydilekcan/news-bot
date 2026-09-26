@@ -1,5 +1,65 @@
 [
  {
+  "title": "Gazeteci Ali Tarakcı tutuklandı",
+  "link": "https://www.diken.com.tr/gazeteci-ali-tarakci-tutuklandi/?utm_source=rss&utm_medium=rss&utm_campaign=gazeteci-ali-tarakci-tutuklandi",
+  "source": "Diken",
+  "summary_tr": "Gazeteci Ali Tarakcı, 'bir bakan istifa edecek' paylaşımı nedeniyle tutuklandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-26T20:00:59.446873+00:00",
+  "type": "news",
+  "cluster_id": "c6db8ee527d54"
+ },
+ {
+  "title": "'Bir bakan istifa edecek' demişti: Gazeteci Ali Tarakcı tutuklandı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/bir-bakan-istifa-edecek-demisti-gazeteci-ali-tarakci-tutuklandi-2541317",
+  "source": "Cumhuriyet",
+  "summary_tr": "Gazeteci Ali Tarakcı, 'bir bakan Cuma günü istifa edecek' paylaşımı yapması nedeniyle tutuklandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-26T20:00:59.446873+00:00",
+  "type": "news",
+  "cluster_id": "c6db8ee527d54"
+ },
+ {
+  "title": "Sosyal medyada 'bakan istifa edecek' paylaşımı yapan Ali Tarakcı tutuklandı",
+  "link": "https://www.trthaber.com/haber/gundem/sosyal-medyada-bakan-istifa-edecek-paylasimi-yapan-ali-tarakci-tutuklandi-958260.html",
+  "source": "TRT Haber",
+  "summary_tr": "Sosyal medyada 'bakan istifa edecek' paylaşımı yapan Ali Tarakcı, yanıltıcı bilgi yayma suçundan tutuklandı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-09-26T20:00:59.446873+00:00",
+  "type": "news",
+  "cluster_id": "cda39ffef9036"
+ },
+ {
+  "title": "Fidan’dan Başika üssü açıklaması: 'Türkiye askeri varlığını azaltabilir'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/fidan-dan-basika-ussu-aciklamasi-turkiye-askeri-varligini-azaltabilir-2541323",
+  "source": "Cumhuriyet",
+  "summary_tr": "Dışişleri Bakanı Fidan, Irak silahlı grupları silahsızlandırma yol haritası hayata geçirse Türkiye'nin Başika üssündeki askeri varlığını azaltabileceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-26T20:00:59.446873+00:00",
+  "type": "news",
+  "cluster_id": "ceb4bb781fcbb"
+ },
+ {
+  "title": "Hakan Fidan’dan Başika Üssü açıklaması: “Varlığımızı kademeli olarak azaltacağız”",
+  "link": "https://www.sozcu.com.tr/hakan-fidan-dan-basika-ussu-aciklamasi-varligimizi-kademeli-olarak-azaltacagiz-p363796",
+  "source": "Sözcü",
+  "summary_tr": "Dışişleri Bakanı Fidan, Irak'ta silahlı grupları silahsızlandırma süreci başlaysa Türkiye'nin Başika üssündeki varlığını kademeli olarak azaltacağını belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-26T20:00:59.446873+00:00",
+  "type": "news",
+  "cluster_id": "cc89fb38c9a7f"
+ },
+ {
   "title": "ABD ve Çin 30 milyar dolarlık mallar için daha elverişli tarife uygulamasında uzlaştı",
   "link": "https://www.aa.com.tr/tr/ekonomi/abd-ve-cin-30-milyar-dolarlik-mallar-icin-daha-elverisli-tarife-uygulamasinda-uzlasti/4070373",
   "source": "Anadolu Ajansı",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-19T09:01:17.872906+00:00",
   "type": "data",
   "cluster_id": ""
- },
- {
-  "title": "İşsizlik oranı: %7,9 (2026 2. çeyrek)",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTjQ3NTJ1SVlWbHhMVTlUM1lrMTh4NHZjQmNJbDJvTXFhSjBic2lBRGhFbUtHSk1JTGFwUmtjNURpZDNwOTUweUtwbmR3ZlE4U0FpbEZsQjhwcHJ3eW9oS2tvMjUzN3ZVVkktR1Z6NGRiNjFhR2RMMHlyQVVMd1pXMnZHUWNBMUxYT0pOcmdQNFRYY2VuU0MwYTN2a0VaM29FbzlzSWxLWmY1LUYzVjVtQTdpQ3NOLXp2YWlnTXk2XzdyOV9aR0E?oc=5",
-  "source": "TÜİK",
-  "summary_tr": "Yüzde 0,3 azalış → %7,9 (+7,6 puan)",
-  "metric": "+7,6 puan",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-08-19T09:01:17.872906+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "İsrail'in Suriye hava üssüne düzenlediği saldırılara Türkiye ve ABD'den kınama",
-  "link": "https://www.bbc.com/turkce/articles/cj9dk1zg0ddo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "İsrail'in Suriye'deki Ebu Zuhur hava üssüne düzenlediği saldırıları Türkiye ve ABD kınadı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-19T08:01:08.792511+00:00",
-  "type": "news",
-  "cluster_id": "c175ee01a0d8e"
- },
- {
-  "title": "TÜİK: İşsizlik oranı azaldı",
-  "link": "https://www.diken.com.tr/tuik-issizlik-orani-azaldi/?utm_source=rss&utm_medium=rss&utm_campaign=tuik-issizlik-orani-azaldi",
-  "source": "Diken",
-  "summary_tr": "Türkiye'de işsizlik oranı ikinci çeyreğinde bir önceki döneme göre 0,3 puanlık azalarak %7,9'a düştü.",
-  "metric": "İşsizlik oranı %8,2 -> %7,9 (-0,3 puan)",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-19T08:01:08.792511+00:00",
-  "type": "news",
-  "cluster_id": "ca08776b4d6c4"
- },
- {
-  "title": "Büyük kırılmadan sonra bankalara koşup tüm paralarını çekmeye başladılar",
-  "link": "https://www.sozcu.com.tr/buyuk-kirilmadan-sonra-bankalara-kosup-tum-paralarini-cekmeye-basladilar-p350730",
-  "source": "Sözcü",
-  "summary_tr": "2022'deki krizin ardından milyonlarca kişi banka hesaplarındaki paralarını çekmeye başladı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-19T08:01:08.792511+00:00",
-  "type": "news",
-  "cluster_id": "c3820d2565ad9"
- },
- {
-  "title": "Devlet Bahçeli'den flaş seçim çıkışı",
-  "link": "https://www.sozcu.com.tr/devlet-bahceli-den-flas-secim-cikisi-p350719",
-  "source": "Sözcü",
-  "summary_tr": "MHP Genel Başkanı Devlet Bahçeli, seçim sisteminin değiştirilmesi gerektiğini belirtti.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-19T08:01:08.792511+00:00",
-  "type": "news",
-  "cluster_id": "c1b71bae22291"
  }
 ]
