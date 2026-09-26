@@ -1,5 +1,65 @@
 [
  {
+  "title": "Fatma Betül Sayan Kaya, fon iddiaları sonrasında AKP'deki görevinden istifa etti",
+  "link": "https://www.bbc.com/turkce/articles/c3rr448q5xdvo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "AKP Genel Başkan Yardımcısı Fatma Betül Sayan Kaya fon iddiaları nedeniyle görevinden istifa etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-26T22:01:02.200133+00:00",
+  "type": "news",
+  "cluster_id": "cd4dcf52e150c"
+ },
+ {
+  "title": "Fon vurgunu AKP kadrolarına uzandı: Fatma Betül Sayan Kaya iddialara yanıt veremedi, görevinden istifa etti",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWVJIR2VaV0NocVk1M0VsZGVPNTVQRmNVQ0ZJMEZsT0pCS3k4WFY5WTZKSmZZLXJDWU41U2JtMGJJQWJlQlM0ZXRuZ0dmNzRpakl4X1hWbV8xRGFUVnBSMzZsNmpaR092ajFtWUJHNEtlUTB3aXJaUnlNSTdGWkNPQ3FPbVBObW5PRzZGeFdrejdsazN0dVluZ1VxV0tlVWpUMG8wLTlGcFNaenQ4Wk54VW1WTE5EZUNDb1lfelNQc1Fldw?oc=5",
+  "source": "soL",
+  "summary_tr": "Fon iddiaları AKP kadrolarına uzandı; Fatma Betül Sayan Kaya iddialara yanıt veremedi ve görevinden istifa etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-26T22:01:02.200133+00:00",
+  "type": "news",
+  "cluster_id": "cd4dcf52e150c"
+ },
+ {
+  "title": "Fon soruşturmasında Tera Portföy Yönetim Kurulu Başkanı hakkında yakalama kararı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-tera-portfoy-yonetim-kurulu-baskani-hakkinda-yakalama-karari-2541353",
+  "source": "Cumhuriyet",
+  "summary_tr": "Fon soruşturmasında Tera Portföy Yönetim Kurulu Başkanı Erdin hakkında yakalama kararı çıkarıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-26T22:01:02.200133+00:00",
+  "type": "news",
+  "cluster_id": "c8035416b163b"
+ },
+ {
+  "title": "Son dakika...Fon soruşturmasında Tera Portföy Yönetim Kurulu Başkanı hakkında yakalama kararı",
+  "link": "https://www.sozcu.com.tr/son-dakika-fon-sorusturmasinda-tera-portfoy-yonetim-kurulu-baskani-hakkinda-yakalama-karari-p363807",
+  "source": "Sözcü",
+  "summary_tr": "Fon soruşturmasında Tera Portföy Yönetim Kurulu Başkanı hakkında yakalama kararı verildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-26T22:01:02.200133+00:00",
+  "type": "news",
+  "cluster_id": "c8035416b163b"
+ },
+ {
+  "title": "Fon krizinde adı geçen AKP Genel Başkan Yardımcısı Fatma Betül Sayan Kaya, görevinden 'affını' istedi",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMVV5U1d1S0VBeGQ0ZmU0UEs1TkhMLV8zOGl3Mm1yNVgwVElzeFc5LVJrbEpmWGZ3cFNBdHNOUDJ6U0V3V25IalpfWkUtdi02S2tDM3pMMXkydU5ycHBXNWx6dzNkcXoxRVpaZXIyN3otMENJRzY3a0ZpWmVNcl9aY2hOYVNnckx5WURsa2ZNTUxfZmhSTXAxbm9SRDFqQWttbVpmRDZSN3I0b2xURHZoZDJFdGxfSEtKTThCblBNVGRFVmFxY0t1WUhDQWo?oc=5",
+  "source": "T24",
+  "summary_tr": "AKP Genel Başkan Yardımcısı Fatma Betül Sayan Kaya fon krizinin ardından görevinden istifa etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-26T22:01:02.200133+00:00",
+  "type": "news",
+  "cluster_id": "cfb6c91d47edf"
+ },
+ {
   "title": "New York Times: Netanyahu 7 Ekim'den önce Hamas saldırısı konusunda uyarıldı",
   "link": "https://www.aa.com.tr/tr/dunya/new-york-times-netanyahu-7-ekimden-once-hamas-saldirisi-konusunda-uyarildi/4070424",
   "source": "Anadolu Ajansı",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-19T10:01:10.999207+00:00",
   "type": "news",
   "cluster_id": "c998b44e815ab"
- },
- {
-  "title": "Bahçeli'den 'siyasi partiler ve seçim sistemi yeniden düzenlenmeli' çağrısı",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbnFVREwzTHRqMVhraVpEWU5UeTZKWTFkaTZLTUFZY0tLZkZBU2ktcEJFd003cGhMeU11SzN6Wmk5TkxnbnF6cWhfMGFNNlRZdUtIZG9jVGxpVGdSczFUNVVCNGtscFJCVkQtdU55WXhpUXNFZVhmNjg0Nk9GU1ZxNkw4NS1RTDFDbzJoWEYyMWtaSGJnMmFnTVdzMG5fSnNYSzBaMy1XZFJTSF9LcUww?oc=5",
-  "source": "soL",
-  "summary_tr": "MHP Genel Başkanı Bahçeli, siyasi partiler ve seçim sisteminin Cumhurbaşkanlığı Hükümet Sistemi'ne göre yeniden düzenlenmesi gerektiğini söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-19T10:01:10.999207+00:00",
-  "type": "news",
-  "cluster_id": "c998b44e815ab"
- },
- {
-  "title": "Turkey slams Israel's 'untenable' claims after strikes on Syrian base",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTdCNlA1LTNVZ0ttZ2VXTGJLVnR5YjBnUnZMNFVWVzc5cUJEcHdxekdHLXBzcDNLUnp1TUx4N3J6SzJQQ0pOTEtSRFVWOTJpZC1xZEd4QTA1TkpEaG1mOXdTM2pQWU5kV3FqWTM3SlJUZEYyb180ZWxMRHlSZlVveDMtWkNJMTFwMWs0VTB6R1M1aHhNRVAzdXc2V29oOVBBRV8wM2FmWnE4OTNJVWpWU3E0Z0VBcnQ4?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Türkiye, İsrail'in Suriye üssüne yönelik saldırılarını 'kabul edilemez' olarak niteleyerek eleştirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-19T10:01:10.999207+00:00",
-  "type": "news",
-  "cluster_id": "c6d91270859bf"
- },
- {
-  "title": "Altın fiyatlarında hangi seviyeler takip edilmeli? Uzman isimden kısa ve uzun vade analizi...",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/altin-fiyatlarinda-hangi-seviyeler-takip-edilmeli-uzman-isimden-kisa-ve-uzun-vade-analizi-2530428",
-  "source": "Cumhuriyet",
-  "summary_tr": "Ekonomist Eryılmaz, altın fiyatlarında kısa vadede satış baskısı olduğunu ve 4.300 dolar seviyesinin kritik destek olduğunu belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-19T10:01:10.999207+00:00",
-  "type": "news",
-  "cluster_id": "cd0efaae1c216"
- },
- {
-  "title": "Elektrikli araçlarda tüm zamanların zirvesi: Temmuzda tüketim rekoru kırıldı",
-  "link": "https://www.sozcu.com.tr/elektrikli-araclarda-tum-zamanlarin-zirvesi-temmuzda-tuketim-rekoru-kirildi-p350770",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye'de elektrikli araçlar temmuz ayında rekor tüketim gerçekleştirdi; şarj altyapısının genişlemesi ve araç sayısının artmasıyla 89 bin 947 megavat saat enerji tüketildi.",
-  "metric": "Elektrikli araç tüketimi (Temmuz) 89.947 MWh",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-19T10:01:10.999207+00:00",
-  "type": "news",
-  "cluster_id": "cf2d586e872be"
- },
- {
-  "title": "Samsung hikes chipmaking prices by up to 15% on demand spike, sources say",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYThpWUk1aGlwTFpYY0tRMVg4dFU4LXNzSnZWdVctWVp0LVFWQzAtZGtPMmh1Z2dMSHpFelF4UmFnMFoyckVNeTV3OHE1MVI5UGhFeWZINTF3eVZzV3RIUHYtVWVFc0R1ckhsel9JeVB1Mko5a01sdjNJWVlUdDBNc1c3U2JpMUZVZDFNNTRvdUJjRE5OQk1EdmR1MTBFNGp3RHZlT3JmMk5EVm1tR1JlVzV3VGgwdHFiZm1ibE43aWVYY3k4cUdUQ3lGRQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Samsung, talep artışı nedeniyle çip üretim fiyatlarını %15'e kadar yükseltmeyi planlıyor.",
-  "metric": "Çip üretim fiyatı (+%15 ye kadar)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-19T10:01:10.999207+00:00",
-  "type": "news",
-  "cluster_id": "c6d3c07f5ed0d"
  }
 ]
