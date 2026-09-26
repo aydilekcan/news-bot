@@ -1,5 +1,53 @@
 [
  {
+  "title": "Trump, İran'ın 7 günlük teklifini \"kabul edilemez\" olarak nitelendirerek bunu reddettiğini açıkladı",
+  "link": "https://www.aa.com.tr/tr/dunya/trump-iranin-7-gunluk-teklifini-kabul-edilemez-olarak-nitelendirerek-bunu-reddettigini-acikladi/4070261",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, İran'ın Hürmüz Boğazı gemi trafiğine ilişkin 7 günlük ateşkes teklifini 'kabul edilemez' olarak reddettiğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-26T16:00:58.962416+00:00",
+  "type": "news",
+  "cluster_id": "c25f162c1c555"
+ },
+ {
+  "title": "Gürlek bilançoyu açıkladı… Fon soruşturmalarında son durum ne?",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/gurlek-bilancoyu-acikladi-fon-sorusturmalarinda-son-durum-ne-2541284",
+  "source": "Cumhuriyet",
+  "summary_tr": "Adalet Bakanı Gürlek, fon soruşturmasında 46 şirket, 18 fon ve 42 kişinin malvarlığının dondurulduğunu açıkladı.",
+  "metric": "Dondurma sayısı: 42 kişi, 46 şirket, 18 fon",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-26T16:00:58.962416+00:00",
+  "type": "news",
+  "cluster_id": "c13817fab7996"
+ },
+ {
+  "title": "Irak, uluslararası koalisyon merkezinin 30 Eylülde kapatılacağını açıkladı",
+  "link": "https://www.trthaber.com/haber/dunya/irak-uluslararasi-koalisyon-merkezinin-30-eylulde-kapatilacagini-acikladi-958243.html",
+  "source": "TRT Haber",
+  "summary_tr": "Irak, ABD öncülüğündeki uluslararası koalisyonun ülkedeki merkezinin 30 Eylülde kapatılacağını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-26T16:00:58.962416+00:00",
+  "type": "news",
+  "cluster_id": "c8c2dc905b3d2"
+ },
+ {
+  "title": "Emekliler TKP'nin eyleminde konuştu: 'Bir an önce ölmemizi istiyorlar'",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/emekliler-tkp-nin-eyleminde-konustu-bir-an-once-olmemizi-istiyorlar-2541286",
+  "source": "Cumhuriyet",
+  "summary_tr": "Emekliler TKP'nin eyleminde, emekli polis memurun intiharından sonra 'bir an önce ölmemizi istiyorlar' diyerek sosyal yardım yetersizliğini protesto ettiler.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-26T16:00:58.962416+00:00",
+  "type": "news",
+  "cluster_id": "ca7280e2d8fdc"
+ },
+ {
   "title": "Son dakika... Trump: İran'ın ateşkes teklifini reddettim",
   "link": "https://www.sozcu.com.tr/son-dakika-trump-iran-in-ateskes-teklifini-reddettim-p363765",
   "source": "Sözcü",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-19T08:01:08.792511+00:00",
   "type": "data",
   "cluster_id": ""
- },
- {
-  "title": "İşsizlik oranı: %7,9 (2. çeyrek)",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQVVGaDZjdzViQ3RiY2k4M0ZTMjVWb29SOU1LOXZzN2RLUHRsaHlDOHhCTEdHTnd5Q0xQODExWUJNNUZvR2ZDNThVOXFWdFNWT09wWHJlUG1ZSVRwdlBIbk9uQTlzcjVRWW1maGozTVNFYVdOQXBjWGx4NXpsblBpMEM0NXRZdUtaN1JkQlU5amJNN2UyZUZQR0J3YU10dw?oc=5",
-  "source": "TUIK",
-  "summary_tr": "%7,9 → %7,9",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-08-19T08:01:08.792511+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "Yumurta fiyatları uçtu: 4 haftada yüzde 61 zam geldi",
-  "link": "https://www.sozcu.com.tr/yumurta-fiyatlari-uctu-4-haftada-yuzde-61-zam-geldi-p350703",
-  "source": "Sözcü",
-  "summary_tr": "Yumurta fiyatları 4 haftada yüzde 61 zamlandı; duble yumurta tane fiyatı 4,50 liraya ulaştı.",
-  "metric": "Yumurta (duble) 4 haftada +%61",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-19T07:01:16.384997+00:00",
-  "type": "news",
-  "cluster_id": "c298c0419238d"
- },
- {
-  "title": "Furkan Vakfı'na operasyon: Alpaslan Kuytul ve eşi Semra Kuytul gözaltına alındı",
-  "link": "https://www.bbc.com/turkce/articles/cq6dn26n521o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Furkan Vakfı Başkanı Alparslan Kuytul ve eşi Semra Kuytul, Adana'da düzenlenen operasyonda gözaltına alındı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-19T07:01:16.384997+00:00",
-  "type": "news",
-  "cluster_id": "cf0d6dc2131d9"
- },
- {
-  "title": "Artvinli emeklinin pazar çilesi: 'Cebimizdeki para öldü bitti'",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/artvinli-emeklinin-pazar-cilesi-cebimizdeki-para-oldu-bitti-2530353",
-  "source": "Cumhuriyet",
-  "summary_tr": "Ardanuç pazarında emekliler, artan fiyatlar nedeniyle alım güçlerinin azaldığını söyledi. Emekli: 'Cebimizdeki para öldü bitti'",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-19T07:01:16.384997+00:00",
-  "type": "news",
-  "cluster_id": "c535bf9d7c007"
  }
 ]
