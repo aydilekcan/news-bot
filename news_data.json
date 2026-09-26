@@ -1,5 +1,77 @@
 [
  {
+  "title": "Bakan Şimşek başkanlığında fon krizi toplantıları yapıldı",
+  "link": "https://www.bbc.com/turkce/articles/ck5ywrewe8dxo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Hazine Bakanı Mehmet Şimşek başkanlığında fon krizine ilişkin kurumlar arası toplantılar yapılarak varlık transferi ve yatırımcı ödemeleri ele alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-26T11:01:03.330059+00:00",
+  "type": "news",
+  "cluster_id": "ceeecb61f7cf5"
+ },
+ {
+  "title": "Ali Babacan’dan Mehmet Şimşek’e fon krizi tepkisi",
+  "link": "https://www.sozcu.com.tr/ali-babacan-dan-mehmet-simsek-e-fon-krizi-tepkisi-p363714",
+  "source": "Sözcü",
+  "summary_tr": "DEVA Partisi Genel Başkanı Ali Babacan, fon krizi ve vatandaşların yaşadığı mağduriyete ilişkin tepki gösterdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-09-26T11:01:03.330059+00:00",
+  "type": "news",
+  "cluster_id": "c0e9f4f4b213a"
+ },
+ {
+  "title": "İktidar enflasyona kılıf buldu: Savaş",
+  "link": "https://www.sozcu.com.tr/iktidar-enflasyona-kilif-buldu-savas-p363718",
+  "source": "Sözcü",
+  "summary_tr": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, enflasyonun %75'lerden %31,5'e gerilediğini savundu; ancak yüksek fiyatlar hakkında tartışmalar devam ediyor.",
+  "metric": "Enflasyon %75 -> %31,5",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-09-26T11:01:03.330059+00:00",
+  "type": "news",
+  "cluster_id": "c2cb54a7d40d5"
+ },
+ {
+  "title": "18 milyar dolarlık fon soruşturması: Tutuklanan Emre Tezmen’in ifadesinde Galatasaraylı yönetici Özen Kuzu’ya gönderilen 1,1 milyar liralık transfer soruldu",
+  "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQN0lFV29sV1lQeTFrUGk1V0c0STdFaEpCUUkzdVZoa2daX2k3M1lJTkEtaGEtNXdKeXAtMDhXWkFjTDdabWVxakcweHE3b253VV8xdmF2MDdfV1dVSHBHdXJScWNRcVZqWXZwQlRwd1RCcDg4NnZfeW1KdWF0elJEa1ZIdFNwT3BDOVJCcjd2QW9tbElDd3ZMQWdMcE1HV3pLaE9aZG5LeENFbVFGdlZfZjFPZ3BkejBmamhhSFFQLVRpT2FSU1lRVW5fUG9PVkFYcVRDRWRod0dBemt6WG0tYUJnSmhjcmFkSGdWYWFWM1VGRzRHOGdKSWFqUUNKenAxVWdPX0I2NVl5bXF2MUJJWHdNalE?oc=5",
+  "source": "T24",
+  "summary_tr": "18 milyar dolarlık fon soruşturmasında tutuklanan Emre Tezmen'in ifadesinde Galatasaraylı yönetici Özen Kuzu'ya gönderilen 1,1 milyar liralık transfer sorgulandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-26T11:01:03.330059+00:00",
+  "type": "news",
+  "cluster_id": "c8563641af758"
+ },
+ {
+  "title": "Türkiye'nin kayıtlardaki en sıcak yılı 2024 oldu",
+  "link": "https://www.aa.com.tr/tr/gundem/turkiyenin-kayitlardaki-en-sicak-yili-2024-oldu/4070035",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Çevre Bakanı Murat Kurum, Türkiye'nin kayıtlardaki en sıcak yılının 2024 ve 1964'ten beri en kurak yılının 2024 olduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-26T11:01:03.330059+00:00",
+  "type": "news",
+  "cluster_id": "ce84de5b13dc6"
+ },
+ {
+  "title": "Toplam ciro endeksi (yıllık): %30,2 (Temmuz)",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVndDRDlOcHc3Y1M0ZXlzblVBNzB3cUNOb1ExTVBaTDdxSGJPcUFnZUhqclFDQzRndnRJM1d0WG8ybzNWc0k1TzdkSlBoenJ2WEYzRHd3X2tLTVZRdVZVelBVM3Y5QksySjFxUm91WXQwZG5YbGRTcm5CZmFwVGlYNkJ4dXlsTXRQWFNUZE9zejhLQS12c3ZjMkI5TEg?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%30,2",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-09-26T11:01:03.330059+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "İran'dan ABD'ye Hürmüz Boğazı'nı yedi gün içinde yeniden açma teklifi",
   "link": "https://www.bbc.com/turkce/articles/ckqxvvzzyjyno?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-18T22:01:09.408504+00:00",
   "type": "news",
   "cluster_id": "cb997f4da09e7"
- },
- {
-  "title": "İran savaşı sonrası için ABD’nin yeni planı ortaya çıktı",
-  "link": "https://www.sozcu.com.tr/iran-savasi-sonrasi-icin-abd-nin-yeni-plani-ortaya-cikti-p350614",
-  "source": "Sözcü",
-  "summary_tr": "Pentagon, İran'la savaşın sona ermesinden sonra Basra Körfezi'ndeki askeri varlığını azaltma seçeneğini değerlendiriyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-18T21:01:14.443065+00:00",
-  "type": "news",
-  "cluster_id": "cd1090fc9c371"
- },
- {
-  "title": "Rusya: İngiltere'yi Ukrayna'daki savaşın tarafı olarak değerlendirme hakkına sahibiz",
-  "link": "https://www.aa.com.tr/tr/dunya/rusya-ingiltereyi-ukraynadaki-savasin-tarafi-olarak-degerlendirme-hakkina-sahibiz/4031097",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Rusya Dışişleri Bakanı Lavrov, İngiltere'yi Ukrayna savaşının tarafı olarak değerlendirme hakkına sahip olduklarını belirtti.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-18T21:01:14.443065+00:00",
-  "type": "news",
-  "cluster_id": "ccc30654966f3"
- },
- {
-  "title": "İran Dışişleri Bakanı: Geçici ateşkesler savaşın tekrarıdır, İran savaşa kesin bir son vermeyi hedefliyor",
-  "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-gecici-ateskesler-savasin-tekraridir-iran-savasa-kesin-bir-son-vermeyi-hedefliyor/4031092",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran Dışişleri Bakanı Erakçi, geçici ateşkesleri savaşın tekrarı olarak nitelendirerek savaşa kesin bir son vermeyi hedeflediklerini söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-18T21:01:14.443065+00:00",
-  "type": "news",
-  "cluster_id": "c8e257b39c062"
- },
- {
-  "title": "Birleşik Arap Emirlikleri, İran'la tüm faaliyetlerini durdurdu",
-  "link": "https://www.trthaber.com/haber/dunya/birlesik-arap-emirlikleri-iranla-tum-faaliyetlerini-durdurdu-954299.html",
-  "source": "TRT Haber",
-  "summary_tr": "Birleşik Arap Emirlikleri, İran'la tüm faaliyetleri, ticari alışverişleri ve mali işlemleri durdurduğunu duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-18T21:01:14.443065+00:00",
-  "type": "news",
-  "cluster_id": "c8920dc422133"
- },
- {
-  "title": "Ukraine's ousted defence minister calls for wartime elections",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM2I5VUo0cWlLNnZ2Vnp6dlMwcnFsc2R4ZElfZFdFN3VQYTE1MnFhc242TEQzb1BmU1duV0NnSWRuSzBVajN0d3VIMkVuMG9rSmYtNFd6MF81cjJRWThVYjRXamFfWGpFTlNvbGpKUFpEWXpXQWJqTkxLRld1NzBUQnc2dnhpU0N5NDF6N25QV3J2bFA1cW9TdE9lWHduTGRmV0RoV0pESF9SNEJEZWJtelIxaXZUUXNKajBB?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Ukrayna'nın görevden alınan Savunma Bakanı, savaş sırasında seçim yapılmasını çağırdı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-18T21:01:14.443065+00:00",
-  "type": "news",
-  "cluster_id": "c599b674c4bae"
- },
- {
-  "title": "Almanya'da Başbakan Yardımcısı Klingbeil'den İsrailli Bakan Ben-Gvir'e yaptırım talebi",
-  "link": "https://www.aa.com.tr/tr/dunya/almanyada-basbakan-yardimcisi-klingbeilden-israilli-bakan-ben-gvire-yaptirim-talebi/4031068",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Almanya Başbakan Yardımcısı Klingbeil, İsrail'in Ulusal Güvenlik Bakanı Ben-Gvir'e Gazze'deki saldırılar nedeniyle yaptırım talep etti.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-18T21:01:14.443065+00:00",
-  "type": "news",
-  "cluster_id": "c66c9643038bf"
  }
 ]
