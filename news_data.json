@@ -1,5 +1,53 @@
 [
  {
+  "title": "Fon krizinde SPK neden eleştiriliyor?",
+  "link": "https://www.bbc.com/turkce/articles/c6kg09x8yjn8o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "SPK, fon krizinde düzenleme yapmakta geç kaldığı ve düzenlemeleri yetersiz olduğu için eleştiriliyor. Sermaye Piyasası Kurulu, böyle bir krizin önlenmesinde daha etkin rol oynaması bekleniyordu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-26T08:01:09.191756+00:00",
+  "type": "news",
+  "cluster_id": "cf408fbe969d3"
+ },
+ {
+  "title": "Fonlar üzerinden borsa manipülasyonu nasıl işliyor?",
+  "link": "https://www.dw.com/tr/fonlar-üzerinden-borsa-manipülasyonu-nasıl-işliyor/a-79440860?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Türkiye'de 455 binden fazla yatırımcıyı etkileyen fon krizi, bazı fonların düşük dolaşımlı hisselerde yoğunlaşması nedeniyle borsa manipülasyonu gündeme getirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-26T08:01:09.191756+00:00",
+  "type": "news",
+  "cluster_id": "c4e6a486e08ca"
+ },
+ {
+  "title": "\"Bu kriz türkiye için dönüm noktasıdır\" / Ali Babacan & Fatih Altaylı",
+  "link": "https://www.youtube.com/shorts/kfRhfvgN77Y",
+  "source": "Fatih Altaylı",
+  "summary_tr": "DEVA Partisi Genel Başkanı Ali Babacan, Fatih Altaylı'yla söyleşide fon krizini Türkiye için bir dönüm noktası olarak nitelendirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-26T08:01:09.191756+00:00",
+  "type": "news",
+  "cluster_id": "cd04aa1ebce1e"
+ },
+ {
+  "title": "Meclis de işlevsiz hale geldi: Kanun teklifleri komisyonlarda yığıldı",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSC1SOXE3WkNJdGR3b3o4ZnMzRnI5SnVuTW9pZ1AzcDlFMHhXdkNsZnUyNlEyU3lxUlI3VWFBX19RN2Rfbmp3X2ZEWHV1SDZBXzh2ZEs5d3dlYi1WeW1JU0wwQk5tTzFjRzR5Rkh3VHpkdldyS0p5SzJsZFhBaFlELUtlU29TVkd6NGl6NW00bDVadzlUYVk2bkEwbDl0N1JKSjVDM2ZXRzdrUQ?oc=5",
+  "source": "soL",
+  "summary_tr": "Türkiye Meclisi işlevsiz hale geldi; kanun teklifleri komisyonlarda yığılmış durumda.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-26T08:01:09.191756+00:00",
+  "type": "news",
+  "cluster_id": "ca0c901fb02c5"
+ },
+ {
   "title": "ABD basını yazdı: Trump İran'ın ateşkes teklfini reddetti, yeni saldırılar için tarih belirledi",
   "link": "https://www.sozcu.com.tr/abd-basini-yazdi-trump-iran-in-ateskes-teklfini-reddetti-yeni-saldirilar-icin-tarih-belirledi-p363635",
   "source": "Sözcü",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-18T17:06:05.133458+00:00",
   "type": "news",
   "cluster_id": "c8ee9f2f83432"
- },
- {
-  "title": "SON DAKİKA... YENİ Parti milletvekili Melih Meriç'e bıçaklı saldırı! Ameliyata alındı: Görüntüleri ortaya çıktı!",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-yeni-parti-milletvekili-melih-meric-e-bicakli-saldiri-2530222",
-  "source": "Cumhuriyet",
-  "summary_tr": "YENİ Parti Gaziantep Milletvekili Melih Meriç, bıçaklı saldırıya uğradı; ameliyata alındı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-18T17:06:05.133458+00:00",
-  "type": "news",
-  "cluster_id": "c8ee9f2f83432"
- },
- {
-  "title": "Yeni Parti Gaziantep Milletvekili Meriç bıçaklı saldırıda yaralandı",
-  "link": "https://www.trthaber.com/haber/turkiye/yeni-parti-gaziantep-milletvekili-meric-bicakli-saldirida-yaralandi-954291.html",
-  "source": "TRT Haber",
-  "summary_tr": "Yeni Parti Gaziantep Milletvekili Melih Meriç, eski CHP Oğuzeli İlçe Başkanı tarafından bıçaklandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-18T17:06:05.133458+00:00",
-  "type": "news",
-  "cluster_id": "c8ee9f2f83432"
- },
- {
-  "title": "Son dakika... YENİ Partili vekile bıçaklı saldırı",
-  "link": "https://www.sozcu.com.tr/son-dakika-yeni-partili-vekile-bicakli-saldiri-p350576",
-  "source": "Sözcü",
-  "summary_tr": "YENİ Parti Gaziantep Milletvekili Melih Meriç, bıçaklı saldırıya uğradı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-18T17:06:05.133458+00:00",
-  "type": "news",
-  "cluster_id": "c902a5539eeb7"
- },
- {
-  "title": "BİSAM açıkladı: 'Açlık sınırı 37 bin TL'yi aştı!'",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/bisam-acikladi-aclik-siniri-37-bin-tl-yi-asti-2530210",
-  "source": "Cumhuriyet",
-  "summary_tr": "BİSAM raporuna göre dört kişilik ailenin aylık sağlıklı beslenme maliyeti açlık sınırını aşıp 37 bin TL'yi geçti.",
-  "metric": "Açlık sınırı 37.000+ TL",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-18T16:01:10.716261+00:00",
-  "type": "news",
-  "cluster_id": "c30a9f3bdc8af"
  }
 ]
