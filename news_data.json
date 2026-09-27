@@ -1,5 +1,65 @@
 [
  {
+  "title": "Sırbistan Cumhurbaşkanı seçimler öncesi istifa etti",
+  "link": "https://www.sozcu.com.tr/sirbistan-cumhurbaskani-vucic-istifa-etti-p364017",
+  "source": "Sözcü",
+  "summary_tr": "Sırbistan Cumhurbaşkanı Aleksandar Vucic, 25 Ekim seçimleri öncesi görevinden istifa etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-27T20:01:01.104003+00:00",
+  "type": "news",
+  "cluster_id": "cb11e2c467bad"
+ },
+ {
+  "title": "Sırbistan Cumhurbaşkanı Vucic istifa etti",
+  "link": "https://www.aa.com.tr/tr/dunya/sirbistan-cumhurbaskani-vucic-istifa-etti/4071015",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Sırbistan Cumhurbaşkanı Aleksandar Vucic görevinden istifa etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-27T20:01:01.104003+00:00",
+  "type": "news",
+  "cluster_id": "cb11e2c467bad"
+ },
+ {
+  "title": "Serbia's President Vucic resigns ahead of October parliamentary elections",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTmcySFNmNWFxcDFQOEl6OU1UYy1MZ2RmcE9TU2V5N1FUYVhidncyRVRHZEtxbl9yU2Rpbi1yc0pVcmtyajlhaHFkakFqZFBPTlY3UFFObnl5aDZOcmVOajRKQzNYb2FCd2JmZnJ6clNjV0d5T0tmN1o1a0hGUDFQeHFRWi1Ba01KZDdXOG1YamVNT3RBUTRnX1RDRmNaQXhscnRYcXlON3RpdjQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Sırbistan Cumhurbaşkanı Vucic, Ekim ayında yapılacak parlamenter seçimler öncesinde istifa etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-27T20:01:01.104003+00:00",
+  "type": "news",
+  "cluster_id": "ca5d4f71ed3ff"
+ },
+ {
+  "title": "SPK'dan son dakika kararı: Şirketlere uygulanan mal varlığı tedbirleri kaldırıldı",
+  "link": "https://www.sozcu.com.tr/spk-tedbirleri-kaldirdi-p364019",
+  "source": "Sözcü",
+  "summary_tr": "SPK, fon soruşturması kapsamında şirketlere uygulanan mal varlığı tedbirlerini kaldırma kararı aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-27T20:01:01.104003+00:00",
+  "type": "news",
+  "cluster_id": "c7247dcea1022"
+ },
+ {
+  "title": "Fon soruşturmasında 106 kişi ve kuruluş için  malvarlığı tedbiri uygulanması talep edildi",
+  "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-106-kisi-ve-kurulus-icin-malvarligi-tedbiri-uygulanmasi-talep-edildi-958334.html",
+  "source": "TRT Haber",
+  "summary_tr": "Sermaye piyasası soruşturmasında 106 kişi ve kuruluş (46 tüzel kişi, 18 fon, 42 gerçek kişi) hakkında mal varlığı tedbiri talep edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-27T20:01:01.104003+00:00",
+  "type": "news",
+  "cluster_id": "cc7b304619289"
+ },
+ {
   "title": "'Terörsüz Türkiye' sürecinde kurulan yürütme kurulundan 'toplantı' kararı",
   "link": "https://www.cumhuriyet.com.tr/siyaset/terorsuz-turkiye-surecinde-kurulan-yurutme-kurulundan-toplanti-karari-2541568",
   "source": "Cumhuriyet",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-20T06:01:04.746953+00:00",
   "type": "news",
   "cluster_id": "c51e0f247aefa"
- },
- {
-  "title": "Oil gains on Middle East supply concerns amid impasse in US-Iran war",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Petrol fiyatları Ortadoğu arz endişeleri ve ABD-İran gerilimi nedeniyle yükseliş gösterdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-20T06:01:04.746953+00:00",
-  "type": "news",
-  "cluster_id": "ce848400efb65"
- },
- {
-  "title": "Dollar at three-month lows as Treasury seeks to rein in surging bond yields",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPamFxZlBhRm1DcmRBZF9VSDd4aXllSmNTWEttZ2dLUkprSnJ5c2xBNXRKT1lQTDdrbXlUUjBnTXdWdVRrWENPYkRkal9pbm9UVDNueFd0am56Z3JCakxsZ2ZHclBRMHpyUUMzeVJHV1FPcVp1dXBYNUtMNk81Z3k1QkRmV1RnRHdPVjhDU3hNYS1xaWxYOU4wMUQwWk5nTDJPWG9kblZIQV9xOG11QTJR?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Amerikan Doları üç aylık en düşük seviyelere indi; ABD Hazinesi tahvil getirilerini kontrol etmeye çalışıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-20T06:01:04.746953+00:00",
-  "type": "news",
-  "cluster_id": "cd6097240b385"
- },
- {
-  "title": "Makine sektöründen 7 ayda 16,5 milyar dolarlık ihracat",
-  "link": "https://www.aa.com.tr/tr/ekonomi/makine-sektorunden-7-ayda-16-5-milyar-dolarlik-ihracat/4032292",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türk makine sektörü ocak-temmuz döneminde 16,5 milyar dolar ihracat gerçekleştirdi.",
-  "metric": "Makine ihracatı (7 ay) 16,5 milyar dolar",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-20T06:01:04.746953+00:00",
-  "type": "news",
-  "cluster_id": "cff1433523339"
- },
- {
-  "title": "Russian ballistic missiles kill at least five in Ukraine's Kyiv, spark fires",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ2hpTTJYeTlzS2hqZHBTdkg1TjhTUklENW93WjNKNjgzZlJsaGxHTW1wTlliVEttM0lndVdGeGRBUHpHaWR4Q3JrTTJ3dThqMzl0VlJxUWZTMXdFS2R2QzlhdTRkaTFVNEoyTzFVZnptUlVqemxCUFJyS1lyVjZqNW1EOERzU3c3dW1rdmwxbjl6RGJMVmVtN1lmbHVscWNkMlVTWVhHeDd0MThsYzV3QnNCaURqb2c5b0E?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Rus balistik füzeleri Kyiv'de en az 5 kişiyi öldürdü ve yangınlara neden oldu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-20T05:01:04.639031+00:00",
-  "type": "news",
-  "cluster_id": "c81ab80a21aa7"
- },
- {
-  "title": "Kuraklık Almanya ve Avrupa'da enflasyonu körüklüyor",
-  "link": "https://www.dw.com/tr/kuraklık-almanya-ve-avrupa-da-enflasyonu-körüklüyor/a-78417689?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Avrupa'daki kuraklık ve aşırı sıcak nedeniyle gıda ve taşıma maliyetleri artıyor, enflasyonu körüklüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-20T05:01:04.639031+00:00",
-  "type": "news",
-  "cluster_id": "cada2b437ec72"
  }
 ]
