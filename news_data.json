@@ -1,5 +1,17 @@
 [
  {
+  "title": "Trump rejects Iran’s proposal to reopen the Strait of Hormuz and other Mideast news",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY3FURU1ld09YM0czSERoLWEtWEQwR1FSZm96NmpURkowVXNHQkRna0gzZEJXTWlKLUE5QW51U24tRFVHX2JDNUpvWVFyNWdGYVhaYThBVmJZMndzM1Z2eDVkVVViRG00M1k3YUpYdDE2azVBcmo4SmlhNDRSLW9Ra0taSTY1V0w3ektQdFpzQXhjTzNBNmxSalgxT0xGbC1y?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump, İran'ın Hormuz Boğazı'nı yeniden açılmasına yönelik önerisini reddetti. Ortadoğu'da kritik jeopolitik gelişme.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-27T04:00:56.143654+00:00",
+  "type": "news",
+  "cluster_id": "c0e2c321ba9e1"
+ },
+ {
   "title": "THY, işçinin maaşından keserken yeni uçaklar alıyor",
   "link": "https://www.sozcu.com.tr/thy-iscinin-maasindan-keserken-yeni-ucaklar-aliyor-p363820",
   "source": "Sözcü",
@@ -59986,17 +59998,5 @@
   "ts": "2026-08-19T11:01:07.995597+00:00",
   "type": "news",
   "cluster_id": "cec41a9c81a62"
- },
- {
-  "title": "Hasat başladı fiyatlar dibe vurdu: Sakız fiyatına kadar düştü",
-  "link": "https://www.sozcu.com.tr/hasat-basladi-fiyatlar-dibe-vurdu-sakiz-fiyatina-kadar-dustu-p350786",
-  "source": "Sözcü",
-  "summary_tr": "Hasat başlamasıyla beraber ürün fiyatı beklentinin altında kalmış, tarlada kilogramı 4,5 TL'ye gerileyen ürün sakız fiyatına kadar düştü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-19T11:01:07.995597+00:00",
-  "type": "news",
-  "cluster_id": "cf8d3b92104a4"
  }
 ]
