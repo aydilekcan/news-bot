@@ -1,5 +1,41 @@
 [
  {
+  "title": "Fon soruşturmasında 45 firma ile 19 fon hakkındaki tedbir kaldırıldı",
+  "link": "https://www.bbc.com/turkce/articles/ck5ywrewe8dxo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "İstanbul Cumhuriyet Başsavcılığı'nın yürüttüğü sermaye piyasası soruşturmasında 45 firma ve 19 fona getirilen mal varlığı tedbirleri kaldırıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-27T22:01:01.918417+00:00",
+  "type": "news",
+  "cluster_id": "ce8feff77d652"
+ },
+ {
+  "title": "45 şirket ve 19 fona dün getirilen tedbirler bugün kaldırıldı",
+  "link": "https://www.diken.com.tr/45-sirket-ve-19-fona-yonelik-tedbirler-kaldiriliyor/?utm_source=rss&utm_medium=rss&utm_campaign=45-sirket-ve-19-fona-yonelik-tedbirler-kaldiriliyor",
+  "source": "Diken",
+  "summary_tr": "Sermaye piyasası soruşturmasında 45 şirket ve 19 fona getirilen tedbirler kaldırıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-27T22:01:01.918417+00:00",
+  "type": "news",
+  "cluster_id": "c8ecffcd7c1d0"
+ },
+ {
+  "title": "Sermaye piyasası işlemleri soruşturmalarında 45 firma ve 19 fon üzerindeki mal varlığı tedbiri kaldırıldı",
+  "link": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemleri-sorusturmalarinda-45-firma-ve-19-fon-uzerindeki-mal-varligi-tedbiri-kaldirildi/4071075",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İstanbul'daki sermaye piyasası işlemleri soruşturmasında 45 firma ve 19 fon üzerindeki mal varlığı tedbiri kaldırıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-27T22:01:01.918417+00:00",
+  "type": "news",
+  "cluster_id": "c30e096e0cdd1"
+ },
+ {
   "title": "45 şirket ve 19 fona yönelik tedbirler kaldırılıyor",
   "link": "https://www.diken.com.tr/45-sirket-ve-19-fona-yonelik-tedbirler-kaldiriliyor/?utm_source=rss&utm_medium=rss&utm_campaign=45-sirket-ve-19-fona-yonelik-tedbirler-kaldiriliyor",
   "source": "Diken",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-20T07:01:21.096543+00:00",
   "type": "news",
   "cluster_id": "ccc1cc0c6d413"
- },
- {
-  "title": "ABD, İran'a 'can simidi' olan ülkelere ekonomik yaptırım uygulayacak",
-  "link": "https://www.diken.com.tr/abd-irana-can-simidi-olan-ulkelere-ekonomik-yaptirim-uygulayacak/?utm_source=rss&utm_medium=rss&utm_campaign=abd-irana-can-simidi-olan-ulkelere-ekonomik-yaptirim-uygulayacak",
-  "source": "Diken",
-  "summary_tr": "ABD Başkanı Trump, İran'a destek veren ülkelere ekonomik yaptırım uygulayacağını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-20T06:01:04.746953+00:00",
-  "type": "news",
-  "cluster_id": "c275a2dac690b"
- },
- {
-  "title": "Ukrayna: Rusya'nın Kiev'e düzenlediği saldırıda 8 kişi öldü, 33 kişi yaralandı",
-  "link": "https://www.aa.com.tr/tr/dunya/ukrayna-rusyanin-kieve-duzenledigi-saldirida-8-kisi-oldu-33-kisi-yaralandi/4032277",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Rusya Kiev'e hava saldırısında 8 kişi öldü, 33 kişi yaralandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-20T06:01:04.746953+00:00",
-  "type": "news",
-  "cluster_id": "cc1ddf5c1bd47"
- },
- {
-  "title": "South Korea estimates North Korea has up to 120 nuclear warheads, far above Trump's figure",
-  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPai1rZ0dWNGExT2VoOUNnVEs4X01iZlpPVkU0aUlQTE9aNVJXNThnV0k3aEtZMm9yNmxBWWgwTVJzdFMzN2s0ZUR5amstVHNtQnNESkdRQklHV2Jtbm4wRm84OEN0WlVZU0ZuV3lNX3ZkVnlzbG1mYkU2dnRHS0xnQzY0U1Z1amx4d0hRMnkyNmxsejlnN1ZCTFVKenRyUXdXaDdibUVBaktqT3l3N3dJTldHaFR0N19WQUtTNklFV09NLVNzWFo0ZEhhZ1gxYjhqNmhIS2hRN3U?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Güney Kore, Kuzey Kore'nin 120'ye kadar nükleer başlığa sahip olduğunu tahmin ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-20T06:01:04.746953+00:00",
-  "type": "news",
-  "cluster_id": "c442a0989d828"
  }
 ]
