@@ -1,5 +1,41 @@
 [
  {
+  "title": "45 şirket ve 19 fona yönelik tedbirler kaldırılıyor",
+  "link": "https://www.diken.com.tr/45-sirket-ve-19-fona-yonelik-tedbirler-kaldiriliyor/?utm_source=rss&utm_medium=rss&utm_campaign=45-sirket-ve-19-fona-yonelik-tedbirler-kaldiriliyor",
+  "source": "Diken",
+  "summary_tr": "SPK, fon soruşturması kapsamında 45 şirket ve 19 fona uygulanan malvarlığı tedbirlerini kaldırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-27T21:01:05.483716+00:00",
+  "type": "news",
+  "cluster_id": "c79b7a0faf5cf"
+ },
+ {
+  "title": "Fon soruşturmasında firmalara uygulanan malvarlığı tedbirleri kaldırıldı: Aralarında AKP'li vekilinin eşinin firması ve Akkuyu Nükleer'in ana yüklenicisi de var!",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/fon-sorusturmasinda-firmalara-uygulanan-malvarligi-tedbirleri-kaldirildi-aralarinda-akp-li-vekilinin-esinin-firmasi-ve-akkuyu-nukleer-in-ana-yuklenicisi-de-var-2541581",
+  "source": "Cumhuriyet",
+  "summary_tr": "Fon soruşturmasında 45 firma ve 19 fona uygulanan malvarlığı tedbirleri kaldırıldı; aralarında AKP'li vekilin eşinin firması ve Akkuyu Nükleer ana yüklenicisi var.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-27T21:01:05.483716+00:00",
+  "type": "news",
+  "cluster_id": "cbcd7ac3cbe21"
+ },
+ {
+  "title": "Fon soruşturmasında 45 firma ve 19 fon için uygulanan mal varlığı tedbirleri kaldırıldı",
+  "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-45-firma-ve-19-fon-icin-uygulanan-mal-varligi-tedbirleri-kaldirildi-958336.html",
+  "source": "TRT Haber",
+  "summary_tr": "TBMM Savcılığı, fon soruşturması kapsamında 45 firma ve 19 fon için uygulanan malvarlığı tedbirlerini kaldırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-27T21:01:05.483716+00:00",
+  "type": "news",
+  "cluster_id": "c3e12461a1bd8"
+ },
+ {
   "title": "Sırbistan Cumhurbaşkanı seçimler öncesi istifa etti",
   "link": "https://www.sozcu.com.tr/sirbistan-cumhurbaskani-vucic-istifa-etti-p364017",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-20T06:01:04.746953+00:00",
   "type": "news",
   "cluster_id": "c442a0989d828"
- },
- {
-  "title": "ABD Hazine'si tahvilleri geri aldı ama riskler devam ediyor",
-  "link": "https://www.sozcu.com.tr/abd-hazinesi-tahvilleri-geri-aldi-ama-riskler-devam-ediyor-p350994",
-  "source": "Sözcü",
-  "summary_tr": "ABD Hazine Bakanlığı uzun vadeli tahvil geri alım miktarını iki katına çıkararak küresel borçlanma maliyetlerini etkilemek istiyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-20T06:01:04.746953+00:00",
-  "type": "news",
-  "cluster_id": "c260e84df25eb"
- },
- {
-  "title": "Küresel piyasalarda tahvil piyasasındaki satış baskısının azalmasıyla pozitif fiyatlamalar öne çıkıyor",
-  "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-tahvil-piyasasindaki-satis-baskisinin-azalmasiyla-pozitif-fiyatlamalar-one-cikiyor/4032294",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD Hazinesinin tahvil geri alım operasyonları artırmasıyla küresel tahvil piyasasındaki satış baskısı azaldı ve pozitif fiyatlamalar başladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-20T06:01:04.746953+00:00",
-  "type": "news",
-  "cluster_id": "c4ef442fe0052"
- },
- {
-  "title": "China Evergrande founder sentenced to life in prison",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdnR1a0dyTTViSTRJLWQyWnN0dkhwTzhmeko0dE01RUgxMkVuVmZCVzhjUlIyNlZXcUxWRUFvZFVOZk9LYVctT1FwUnh1UEE3QzB6OFRiT0g0YnI3aFpGaVpLaTlQaDJlMURRYlFuTjFmYThXSUFQUEV3SkV4SkFCRkJPNTBfOXh0MEJRVUh4LXRSanZMRjVnY0ZpTm94M0dBSEc4TFlIOUVCZnZTb2VERWZiaw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Çin Evergrande'nin kurucusu ömür boyu hapis cezasına çarptırıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-20T06:01:04.746953+00:00",
-  "type": "news",
-  "cluster_id": "c51e0f247aefa"
  }
 ]
