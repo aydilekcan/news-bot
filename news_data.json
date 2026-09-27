@@ -1,5 +1,29 @@
 [
  {
+  "title": "Iran insists on diplomatic solution after Trump rejects peace plan",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVF9ZM3dkR3ZQUWpnUVNzR0lsd0tkTTZkZ1AwN1RnZzVzQXo3WjZWY0VTNVo4dU9PM3ZfUnBKWUZuTWtRa01jNUxtVHhyZW1TakhIWlhCdl9UV0gxc3BWMUdTZ2x2Z2czNEVNV3JVYkJGOEYzSU5MREtHYldqdXZDXy1jdWlsTVZKR3pZTy1qS01IT1FpZDlkZVBLUHEzTXVDSDFlRWhva1Vsdld3cVhnUXZiYnNxTUhtb2c?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran, Trump'ın barış planını reddetmesinin ardından diplomatik çözümü ısrarla talep ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-27T00:00:57.604051+00:00",
+  "type": "news",
+  "cluster_id": "c0b63ef7e8527"
+ },
+ {
+  "title": "TCMB Brüt Rezervleri: 178,7 milyar $",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU2tTdENSdXl0NkVPbzFWRE9xZUpGZjRFRHdhV0QxUUtOdFIzRHhJcVpyUWFKVG1XaWNaZEpPLVdjT2ZRcGQ1TmY3S3RYUEZfTUMwVGNsN3VSVTluMm9jVzBUbjBjenZHZ2pVTEpZS3Q2dldPUEd2aWF6VU9EdHRHekhCWjFONnR3Y1o0OG5ub0lFdE5mU3pMNA?oc=5",
+  "source": "TCMB",
+  "summary_tr": "178,7 milyar $",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-09-27T00:00:57.604051+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Fatma Betül Sayan Kaya, fon iddiaları sonrasında AKP'deki görevinden istifa etti",
   "link": "https://www.bbc.com/turkce/articles/c3rr448q5xdvo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-19T10:01:10.999207+00:00",
   "type": "news",
   "cluster_id": "c57c501e8189b"
- },
- {
-  "title": "Avrupa Merkez Bankası Başkanı Lagarde'dan büyüme modeli uyarısı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/avrupa-merkez-bankasi-baskani-lagardedan-buyume-modeli-uyarisi/4031447",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ECB Başkanı Lagarde, Avrupa'nın savaş sonrası büyüme modelinin aşındığını ve yeni model ihtiyacı bulunduğunu uyardı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-19T10:01:10.999207+00:00",
-  "type": "news",
-  "cluster_id": "c5d6765b8c64d"
- },
- {
-  "title": "Bahçeli: Siyasi partiler ve seçim sistemi, Cumhurbaşkanlığı Hükümet Sistemi'ne göre yeniden düzenlenmeli",
-  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQejlYZ2hNZDJvMC12OEpGcWxMQ0pMLUVNRDk3U0x2Y1dtN28wamc4Szl4Zl9VdVpaQTVGREtzQjBjX2dYczBRMUFsdGpNT3dSUE9vT2hIVUlfZEdrSmgxTHluU3Rnclp3RS1kSVVWRGU1UmMydWRKV2x2Zy1pTDdnRFh5RjJ2czhRaEl5Mm9IOUVYNlo3ZzhQUjJydmlzdGFiUXR4ZC1GcnA2ZG5VcF9PRUhoNlJPbWVfM0dEc2Q2US16d1dRWldWWnVkVWFCRTVjNnV1Q1dVanRYUFRyRlU4?oc=5",
-  "source": "T24",
-  "summary_tr": "MHP Genel Başkanı Bahçeli, siyasi partiler ve seçim sisteminin Cumhurbaşkanlığı Hükümet Sistemi'ne göre yeniden düzenlenmesi gerektiğini söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-19T10:01:10.999207+00:00",
-  "type": "news",
-  "cluster_id": "c998b44e815ab"
  }
 ]
