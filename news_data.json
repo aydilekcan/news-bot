@@ -1,5 +1,53 @@
 [
  {
+  "title": "İsrail'de muhalefet liderinden \"Netanyahu 7 Ekim'le ilgili tüm uyarıları aldı ancak dikkate almadı\" tepkisi",
+  "link": "https://www.aa.com.tr/tr/dunya/israilde-muhalefet-liderinden-netanyahu-7-ekimle-ilgili-tum-uyarilari-aldi-ancak-dikkate-almadi-tepkisi/4071093",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail Demokratlar Partisi Genel Başkanı Yair Golan, Başbakan Netanyahu'nun 7 Ekim 2023 saldırılarına ilişkin tüm uyarıları aldığını ancak dikkate almadığını iddia etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-27T23:00:57.449738+00:00",
+  "type": "news",
+  "cluster_id": "cf331ce64fb33"
+ },
+ {
+  "title": "Oil rebounds after Trump rejects Iran peace deal",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU3FBcU1hWkxSdzlSbHdGdkJEbDR0REJsckozLWtuZGRwbXJvNU1kVnFMendhelM2Q3plNUFlUm1yZTljZDFiMEQwZjVDcWt2X011c193RWUtWTVlcEE4bjBKSWtYZ1A5MnhXS2hUSlVCN0lPcjhTRmNBc2V4ZERrclRaVW45NUl0cmtsb1g2d0s3SFB5NDRPc0lnRzVSZHZ2S0E?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Petrol fiyatları Trump'ın İran barış anlaşmasını reddetmesi üzerine yükselişe geçti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-27T23:00:57.449738+00:00",
+  "type": "news",
+  "cluster_id": "ce3faee773973"
+ },
+ {
+  "title": "AKP'li ve MHP'li başkanlar gözaltına alınmıştı: Yolsuzluk soruşturmasında 35 şüpheli adliyeye sevk edildi",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/akp-li-ve-mhp-li-baskanlar-gozaltina-alinmisti-yolsuzluk-sorusturmasinda-35-supheli-adliyeye-sevk-edildi-2541616",
+  "source": "Cumhuriyet",
+  "summary_tr": "Kırıkkale'de Yahşihan Belediyesi yolsuzluk soruşturmasında eski AKP'li ve MHP'li başkanlar Ahmet Sungur ve Osman Türkyılmaz dahil 35 şüpheli adliyeye sevk edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-27T23:00:57.449738+00:00",
+  "type": "news",
+  "cluster_id": "c731388490f83"
+ },
+ {
+  "title": "Kazakistan Cumhurbaşkanı Tokayev'den askeri reform talimatı",
+  "link": "https://www.trthaber.com/haber/turk-dunyasi/kazakistan-cumhurbaskani-tokayevden-askeri-reform-talimati-958342.html",
+  "source": "TRT Haber",
+  "summary_tr": "Kazakistan Cumhurbaşkanı Tokayev, Hazar Denizinde 14 askerin öldüğü tatbikat sonrasında askeri reform planı hazırlanmasını talimattı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-27T23:00:57.449738+00:00",
+  "type": "news",
+  "cluster_id": "cf5ca4572f34d"
+ },
+ {
   "title": "Fon soruşturmasında 45 firma ile 19 fon hakkındaki tedbir kaldırıldı",
   "link": "https://www.bbc.com/turkce/articles/ck5ywrewe8dxo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-20T07:01:21.096543+00:00",
   "type": "news",
   "cluster_id": "cdc9a83b480c2"
- },
- {
-  "title": "Bugün ödemeyen borçlu çıkacak: İşte son günü gelen vergiler",
-  "link": "https://www.sozcu.com.tr/bugun-odemeyen-borclu-cikacak-iste-odenmesi-gereken-vergiler-p351021",
-  "source": "Sözcü",
-  "summary_tr": "Gelir İdaresi Başkanlığı, beyan ve ödeme süresi bugün sona eren vergi kalemlerini uyarıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-20T07:01:21.096543+00:00",
-  "type": "news",
-  "cluster_id": "c50b4904d6609"
- },
- {
-  "title": "Trump'tan İsrail'in saldırısına temkinli cevap: \"Bunun hakkında konuşamam\"",
-  "link": "https://www.sozcu.com.tr/trump-tan-israil-in-saldirisina-temkinli-cevap-bunun-hakkinda-konusamam-p351014",
-  "source": "Sözcü",
-  "summary_tr": "Trump, İsrail'in Suriye'deki Türk askerlerinin ziyaret ettiği üsse düzenlediği saldırı hakkında temkinli yanıt verdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-20T07:01:21.096543+00:00",
-  "type": "news",
-  "cluster_id": "cd3ab7fc04c2f"
- },
- {
-  "title": "56 TL'ye devredilen dev market zinciri yeniden satılıyor",
-  "link": "https://www.sozcu.com.tr/gordon-brothers-1-euroya-aldigi-poundlandi-satmaya-hazirlaniyor-p351011",
-  "source": "Sözcü",
-  "summary_tr": "Gordon Brothers, Temmuz 2025'te 1 Euro'ya satın aldığı Poundland zincirini yeniden satışa çıkarıyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-20T07:01:21.096543+00:00",
-  "type": "news",
-  "cluster_id": "cbc2c21551508"
- },
- {
-  "title": "ABD'nin Hürmüz Boğazı'nda petrol tankerleri için gizli geçiş koridoru oluşturduğu iddia edildi",
-  "link": "https://www.aa.com.tr/tr/dunya/abdnin-hurmuz-bogazinda-petrol-tankerleri-icin-gizli-gecis-koridoru-olusturdugu-iddia-edildi/4032305",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD ordusunun Hürmüz Boğazı'nda petrol tankerlerinin güvenli geçişi için gizli bir koridor oluşturduğu iddia edildi.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-20T07:01:21.096543+00:00",
-  "type": "news",
-  "cluster_id": "ccc1cc0c6d413"
  }
 ]
