@@ -1,5 +1,41 @@
 [
  {
+  "title": "THY, işçinin maaşından keserken yeni uçaklar alıyor",
+  "link": "https://www.sozcu.com.tr/thy-iscinin-maasindan-keserken-yeni-ucaklar-aliyor-p363820",
+  "source": "Sözcü",
+  "summary_tr": "THY, çalışanlarının maaşını kısarken Boeing'e 150 uçaklık sipariş verdi. Uçuş ekiplerinin geliri düşürülüyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-27T03:00:57.405993+00:00",
+  "type": "news",
+  "cluster_id": "c52e0b0e44f9e"
+ },
+ {
+  "title": "Erdoğan’ın simit hesabına zam geldi",
+  "link": "https://www.sozcu.com.tr/erdogan-in-simit-hesabina-zam-geldi-p363819",
+  "source": "Sözcü",
+  "summary_tr": "Simit fiyatına 5 liralık zam geldi. Vatandaşın günlük ucuz öğün seçeneği pahalanıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-27T03:00:57.405993+00:00",
+  "type": "news",
+  "cluster_id": "c8ecd29030146"
+ },
+ {
+  "title": "GSYH büyüme tahmini (2026): %2,7 (2026)",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVEJBaWFDeUx4X2lSMC1KWVVrNU5uWHRkUTlQQUpCZjQ3RFUyM2dUUURmcjV4U3ZFM3FaZ1RXNHF5eUROaFV3Y1FUejVDUjB3VUpnMjNJTmctMzFYTlRET2JYdV82bGxNNFR4QzVRcWhPU1JRQ0tpcWU1UVZ6OW1DMzV6dnQzRDYtVVlrU1ViY2tVQQ?oc=5",
+  "source": "OECD",
+  "summary_tr": "%2,7",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-09-27T03:00:57.405993+00:00",
+  "type": "forecast",
+  "cluster_id": ""
+ },
+ {
   "title": "Milyonlarca yurttaşın aylığı açlık sınırının altında bulunuyor: Emekli perişan halde",
   "link": "https://www.cumhuriyet.com.tr/turkiye/milyonlarca-yurttasin-ayligi-aclik-sinirinin-altinda-bulunuyor-emekli-perisan-halde-2541336",
   "source": "Cumhuriyet",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-19T11:01:07.995597+00:00",
   "type": "news",
   "cluster_id": "cf8d3b92104a4"
- },
- {
-  "title": "Türkiye ile Suriye arasında \"Fosfat Alanında Mutabakat Zaptı\" imzalandı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-ile-suriye-arasinda-fosfat-alaninda-mutabakat-zapti-imzalandi/4031576",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye ile Suriye arasında madencilikte stratejik ortaklık geliştirilmesine ilişkin 'Fosfat Alanında Mutabakat Zaptı' imzalandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-19T11:01:07.995597+00:00",
-  "type": "news",
-  "cluster_id": "cecc9768ebb04"
- },
- {
-  "title": "Avrupa'da doğal gaz 63 avrodan işlem görüyor",
-  "link": "https://www.aa.com.tr/tr/ekonomi/avrupada-dogal-gaz-63-avrodan-islem-goruyor/4031521",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Avrupa'da eylül vadeli doğal gaz kontratları megavatsaat başına 63,25 avro seviyesinde işlem görüyor.",
-  "metric": "Doğal gaz 63,25 euro/MWh",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-19T11:01:07.995597+00:00",
-  "type": "news",
-  "cluster_id": "cd133d7139f5f"
- },
- {
-  "title": "Avrupa'da doğal gaz 63 eurodan işlem görüyor",
-  "link": "https://www.trthaber.com/haber/ekonomi/avrupada-dogal-gaz-63-eurodan-islem-goruyor-954366.html",
-  "source": "TRT Haber",
-  "summary_tr": "Avrupa'da eylül vadeli doğal gaz megavatsaat fiyatı 63,25 euro seviyesinde işlem görüyor.",
-  "metric": "Doğal gaz 63,25 euro/MWh",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-19T11:01:07.995597+00:00",
-  "type": "news",
-  "cluster_id": "cd133d7139f5f"
  }
 ]
