@@ -1,5 +1,41 @@
 [
  {
+  "title": "620 bin 464 kişiye 1 milyar 82 milyon lira doğal gaz desteği",
+  "link": "https://www.trthaber.com/haber/ekonomi/620-bin-464-kisiye-1-milyar-82-milyon-lira-dogal-gaz-destegi-958290.html",
+  "source": "TRT Haber",
+  "summary_tr": "Düzenli Doğal Gaz Tüketim Desteği kapsamında 620 bin 464 hak sahibine 2026 Ocak-Eylül döneminde toplam 1 milyar 82 milyon lira destek verildi.",
+  "metric": "Doğal gaz desteği: 620.464 kişiye 1.082 milyon TL",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-09-27T10:01:04.043836+00:00",
+  "type": "news",
+  "cluster_id": "c901cfa42a9a0"
+ },
+ {
+  "title": "Fenerbahçe'nin borcu 27 milyar 821 milyon lira",
+  "link": "https://www.diken.com.tr/fenerbahcenin-borcu-27-milyar-821-milyon-lira/?utm_source=rss&utm_medium=rss&utm_campaign=fenerbahcenin-borcu-27-milyar-821-milyon-lira",
+  "source": "Diken",
+  "summary_tr": "Fenerbahçe Kulübü'nün borcu 27 milyar 821 milyon liraya ulaştı. Olağan genel kurulda mali durum görüşüldü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-27T10:01:04.043836+00:00",
+  "type": "news",
+  "cluster_id": "c655f5c1c78c4"
+ },
+ {
+  "title": "Maliye'den araç sahiplerini perişan edecek karar",
+  "link": "https://www.sozcu.com.tr/maliye-den-arac-sahiplerini-perisan-edecek-karar-p363902",
+  "source": "Sözcü",
+  "summary_tr": "Maliye Bakanlığı kararıyla motorinde ÖTV yıl sonuna kadar her ay 3 TL artacak şekilde kademeli olarak yükseltilecek.",
+  "metric": "Motorinde ÖTV: aylık +3 TL",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-27T10:01:04.043836+00:00",
+  "type": "news",
+  "cluster_id": "cf46d1e4592df"
+ },
+ {
   "title": "Smotrich: Gazze’de yaptıklarımızı Batı Şeria’da da yapmalıyız",
   "link": "https://www.cumhuriyet.com.tr/dunya/smotrich-gazze-de-yaptiklarimizi-bati-seria-da-da-yapmaliyiz-2541434",
   "source": "Cumhuriyet",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-19T16:01:08.959693+00:00",
   "type": "news",
   "cluster_id": "c747f703bc56d"
- },
- {
-  "title": "Okullarda görevlendirilecek 30 bin kişi için maaş ve başvuru şartları belli oldu",
-  "link": "https://www.sozcu.com.tr/okullarda-gorevlendirilecek-30-bin-kisi-icin-maas-ve-basvuru-sartlari-belli-oldu-p350881",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye genelindeki okullarda görev yapacak 30 bin okul bahçe görevlisinin maaş ve başvuru şartları belirlendi.",
-  "metric": "30 bin görevli",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-19T16:01:08.959693+00:00",
-  "type": "news",
-  "cluster_id": "c6546a8fb91a1"
- },
- {
-  "title": "US Treasury to double sizes of some debt buyback operations to at least $4 billion",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVG9LQ251bHQzZlRLUDhWa1JjNTNUUkh3TVN4YUZ3M09OU3d2MVYxUFdjTUdZYVBtQ1dsTEhQb0JpMXJxV1B2QjZwUFdWTVo3YU5VQjlxVGJKdDJUUXE1VFUzNDFDcWhkWE9fM1lCb21XcTRzN3FKQ3hIYW9KSXByWGVUQnB4XzlQbHJtWFl2V2RkV1FOZjhVendlV2djM2ZBRnJoMGVHRS01cTZpR3lvUQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD Hazine Bakanlığı, bazı borcunu geri satın alma işlemlerinin boyutunu en az 4 milyar dolara çıkarıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-19T15:01:06.297277+00:00",
-  "type": "news",
-  "cluster_id": "c9ffd2f9c81b8"
- },
- {
-  "title": "Yeni Partili Melih Meriç'e bıçaklı saldırı: İki tutuklama",
-  "link": "https://www.dw.com/tr/yeni-partili-melih-meriç-e-bıçaklı-saldırı-iki-tutuklama/a-78419710?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "YENİ Parti Gaziantep Milletvekili Melih Meriç'e bıçaklı saldırı düzenlendi; iki kişi gözaltına alındı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-19T15:01:06.297277+00:00",
-  "type": "news",
-  "cluster_id": "cd5ecef2ee2de"
  }
 ]
