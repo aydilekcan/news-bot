@@ -1,5 +1,53 @@
 [
  {
+  "title": "Trump, İran'la bu hafta \"daha fazla görüşme\" yapılmasını beklediğini söyledi",
+  "link": "https://www.aa.com.tr/tr/dunya/trump-iranla-bu-hafta-daha-fazla-gorusme-yapilmasini-bekledigini-soyledi/4070932",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, İran'ın Hürmüz Boğazı gemi trafiğine ilişkin 7 günlük ateşkes teklifini reddetti ve bu hafta daha fazla görüşme beklediğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-27T16:01:04.730031+00:00",
+  "type": "news",
+  "cluster_id": "c24fb118a5c1d"
+ },
+ {
+  "title": "Rusya'dan Türkiye'deki S-400'lerin üçüncü bir ülkeye olası transferine yeşil ışık",
+  "link": "https://www.bbc.com/turkce/articles/cxvgyd6yjjdjo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Rusya Dışişleri Bakanı Lavrov, S-400 füze sistemlerinin Türkiye'den dost bir ülkeye transferini kabul edebileceğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-27T16:01:04.730031+00:00",
+  "type": "news",
+  "cluster_id": "cb39e7157ed3d"
+ },
+ {
+  "title": "Yemen'de hükümet güçleriyle İran destekli Husiler arasındaki çatışmalar sürüyor",
+  "link": "https://www.trthaber.com/haber/dunya/yemende-hukumet-gucleriyle-iran-destekli-husiler-arasindaki-catismalar-suruyor-958317.html",
+  "source": "TRT Haber",
+  "summary_tr": "Yemen'de İran destekli Husiler ile hükümet güçleri arasındaki çatışmalar devam ediyor; saldırılarda ölü ve yaralılar var.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-27T16:01:04.730031+00:00",
+  "type": "news",
+  "cluster_id": "c528e238b7bfa"
+ },
+ {
+  "title": "Russia hits Ukraine's largest mobile provider, strikes data centres",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMzNYXzZmVUxfWFM4bHFTcUpnN0VKSDFxX3RtdmN6RzlSMXJOX04yQWxjOXByaGNTMmdPYnhpRGhKbEhIWGp5X0UzeFZKWnZ0S0dLVVdWTkJiX0doUkNEbjQxelIweHBIOEJmRU50TVRWLTludHN5RHh3U3Vhd1JucjNCWkZWZ0dkMEo3ZEpuLTVvdG9RdGl5MnE3T0lEaEVha1JfeGoyYU1sXzVYeml6QU11RnZ6Qnpla3NJYlhGTEpndTdnMFpB?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Rusya, Ukrayna'nın en büyük mobil operatörünü ve veri merkezlerini hedef aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-27T16:01:04.730031+00:00",
+  "type": "news",
+  "cluster_id": "cd6e07cf8bb32"
+ },
+ {
   "title": "Wadephul ve Lavrov 4,5 yıl sonra görüştü: Rusya barışa hazır değil",
   "link": "https://www.dw.com/tr/wadephul-ve-lavrov-4-5-yıl-sonra-görüştü-rusya-barışa-hazır-değil/a-79449923?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-19T20:01:06.296962+00:00",
   "type": "news",
   "cluster_id": "c04271f4797f4"
- },
- {
-  "title": "Trump'tan 'İran' çıkışı: 'Belki bir noktada...'",
-  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-iran-cikisi-belki-bir-noktada-2530624",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD Başkanı Trump, İran ile müzakerelere geri dönme olasılığından söz etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-19T20:01:06.296962+00:00",
-  "type": "news",
-  "cluster_id": "c694f7e790eca"
- },
- {
-  "title": "İran Cumhurbaşkanı Pezeşkiyan: Bilgelik, onur ve çıkarları göz önünde bulundurarak müzakere edeceğiz",
-  "link": "https://www.aa.com.tr/tr/dunya/iran-cumhurbaskani-pezeskiyan-bilgelik-onur-ve-cikarlari-goz-onunde-bulundurarak-muzakere-edecegiz/4032178",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran Cumhurbaşkanı Pezeşkiyan, ABD ile müzakerenin teslimiyet değil, ülkenin güç zirvesinden yapılacağını belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-19T20:01:06.296962+00:00",
-  "type": "news",
-  "cluster_id": "c0bfd7bdfad0e"
- },
- {
-  "title": "Pezeşkiyan: Bilgelik, onur ve çıkarları göz önünde bulundurarak müzakere edeceğiz",
-  "link": "https://www.trthaber.com/haber/dunya/pezeskiyan-bilgelik-onur-ve-cikarlari-goz-onunde-bulundurarak-muzakere-edecegiz-954399.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Cumhurbaşkanı Pezeşkiyan, ABD ile müzakerenin teslimiyet değil, ülkenin güç zirvesinden yapılacağını belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-19T20:01:06.296962+00:00",
-  "type": "news",
-  "cluster_id": "c0bfd7bdfad0e"
- },
- {
-  "title": "Canadian negotiators head home to finalize trade deal with US, avert tariffs",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnRyZExVRkFxVGJqQkpSZk83d1pCbkQ1elJqVURZSjl6TTEyZUZtdURWYWhMRldiTWpiRUFXWW1nSExxeE10cXJWMndsbl9QLXJwVDZqVTllUTNUV2s2M3pJZ3U5WExpbHh4MHpYNGE5OXpMeGU0cFlUVEdwM3IwdmtNbHRYOE5hSFRzWDF6ODBLczdqbDllaTRlamRySDlLREFqNi1UTnJuTk9uZFFmUQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Kanada, ABD ile ticaret anlaşmasını sonuçlandırmak için müzakereciler gönderdi ve tarife tehditlerini önlemeyi hedeflıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-19T20:01:06.296962+00:00",
-  "type": "news",
-  "cluster_id": "cd468f5f0fa9b"
  }
 ]
