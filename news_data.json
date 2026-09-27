@@ -1,5 +1,53 @@
 [
  {
+  "title": "Wadephul ve Lavrov 4,5 yıl sonra görüştü: Rusya barışa hazır değil",
+  "link": "https://www.dw.com/tr/wadephul-ve-lavrov-4-5-yıl-sonra-görüştü-rusya-barışa-hazır-değil/a-79449923?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Almanya ile Rusya dışişleri bakanları 4,5 yıl aradan sonra ilk kez görüştü; Rusya barışa hazır olmadığını bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-27T15:01:05.423177+00:00",
+  "type": "news",
+  "cluster_id": "cb18119ad543a"
+ },
+ {
+  "title": "İran basını: İran Silahlı Kuvvetleri, Hürmüz'de iki günde 19 gemiye müdahale etti",
+  "link": "https://www.trthaber.com/haber/dunya/iran-basini-iran-silahli-kuvvetleri-hurmuzde-iki-gunde-19-gemiye-mudahale-etti-958316.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Silahlı Kuvvetleri son iki günde Hürmüz Boğazı'ndan geçen 19 gemiye müdahale etti.",
+  "metric": "19 gemi",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-27T15:01:05.423177+00:00",
+  "type": "news",
+  "cluster_id": "c2bb4ef5870c4"
+ },
+ {
+  "title": "Erdoğan, Fatma Betül Sayan’ın istifasını kabul etti",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd0xScVhVcmdEaG10Q19VQ3RYUzRmWC1JY2RNdTd6R3VUNm9EN3dncEExalF4QklBVUxMLXlBV1JRV0FKWDNJUFN5SFlxN3ItaTRGYVkya0JLeTVvTkhyLTlRQ2F1a0dTdnNnakY1VnRaRzZmTEZILUhINTlKNk83WQ?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Cumhurbaşkanı Erdoğan, Fatma Betül Sayan'ın istifasını kabul etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-27T15:01:05.423177+00:00",
+  "type": "news",
+  "cluster_id": "c795ee214f092"
+ },
+ {
+  "title": "Safranbolu Belediyesi işçilerine yüzde 22 zam",
+  "link": "https://www.cumhuriyet.com.tr/yerel-gundem/safranbolu-belediyesi-iscilerine-yuzde-22-zam-2541522",
+  "source": "Cumhuriyet",
+  "summary_tr": "Safranbolu Belediyesi işçilerine yüzde 22 ücret zammı uygulandı.",
+  "metric": "İşçi ücreti zammı %22",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-27T15:01:05.423177+00:00",
+  "type": "news",
+  "cluster_id": "ca3faf74b1560"
+ },
+ {
   "title": "Booking, Airbnb, TravelGo... Dijital konaklama platformlarına düzenleme: Teklif komisyonda görüşülecek",
   "link": "https://www.cumhuriyet.com.tr/turkiye/booking-airbnb-travelgo-dijital-konaklama-platformlarina-duzenleme-teklif-komisyonda-gorusulecek-2541502",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-19T20:01:06.296962+00:00",
   "type": "news",
   "cluster_id": "cd468f5f0fa9b"
- },
- {
-  "title": "Fed policymakers' inflation concerns increased at July meeting, minutes show",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZUU3QzJ6YTh1c3NuVDhBeE1lZzByYWtla200SkRNWnZEWW5wWmZWXzZvS3RqYU8yM2Y1VE91aHVWMng0MnczWVNjV3poa2t2TnFmYVhMZDVJSE1kdjFGcU9MaW5vS0o0MjEwalJmU0tZekFHclBKRi13SEhnYnQtMlF2TFVIT09HRkw2UThrb1F5eWVVNnNaYXQyTjhYbVhpenc5TjFGdW1yUG55ZWVXaEhSRHc3Wk0?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Federal Reserve'in Temmuz toplantısı tutanaklarına göre, politika yapıcılar enflasyon endişelerinin arttığını belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-19T19:01:01.836462+00:00",
-  "type": "news",
-  "cluster_id": "c379a7c1e8b84"
- },
- {
-  "title": "Trump'ın Kuzey Kore açıklamalarının ardından; Güney Kore ile ABD'nin savaş tatbikatının süresi kısalıyor",
-  "link": "https://www.bbc.com/turkce/articles/cj4k710ydx9o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD Başkanı Trump'ın Kuzey Kore açıklamalarının ardından, Güney Kore Savunma Bakanlığı ABD ile yapılan ortak askeri tatbikatların süresini altı gün kısaltacağını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-19T19:01:01.836462+00:00",
-  "type": "news",
-  "cluster_id": "c35b58958a3fc"
- },
- {
-  "title": "Ukrainian man arrested over 2022 Nord Stream pipeline explosions",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaVRNeUhuWEpORzlmU2lrQ2JjYThCZWVyamI4WUtpVVdlVUptSTRfTmtnaGxBMFVrenBYWmlnSTVOMGdkdFphb3JFRTgwaTdTWmduMlJJai1zNUlXQ3BGalZHRFlKZUxnWS12RlFXY2c0LTJKUHFQV2cwX1Q1UlZiSUZ4b3ZTXzNwQmF6Yk9LRmU4Y1U?oc=5",
-  "source": "AP",
-  "summary_tr": "2022'de Nord Stream boru hattı patlamasıyla ilgili bir Ukraynalı şahıs tutuklandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-19T19:01:01.836462+00:00",
-  "type": "news",
-  "cluster_id": "c1bd7c51bff73"
- },
- {
-  "title": "ABD’den Venezuela’ya sürpriz destek: 20 yıllık dev proje yeniden başlıyor",
-  "link": "https://www.sozcu.com.tr/abd-den-venezuela-ya-surpriz-destek-20-yillik-dev-proje-yeniden-basliyor-p350910",
-  "source": "Sözcü",
-  "summary_tr": "Venezuela, yaklaşık 20 yıldır durdurulan Tocoma Hidroelektrik Santrali projesini ABD'nin desteğiyle yeniden hayata geçirmeye başladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-19T19:01:01.836462+00:00",
-  "type": "news",
-  "cluster_id": "c76d9a2bad6c0"
  }
 ]
