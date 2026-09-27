@@ -1,5 +1,29 @@
 [
  {
+  "title": "Siyasetten ilk fon firesi AK Parti’den: eski bakan Kaya ve yeni sorular",
+  "link": "https://yetkinreport.com/2026/09/27/siyasetten-ilk-fon-firesi-ak-partiden-eski-bakan-kaya-ve-yeni-sorular/",
+  "source": "YetkinReport",
+  "summary_tr": "AK Parti'li eski bakan Kaya çifti, borsa fon skandalından bir gün önce paralarını çekerek 4 ayda %1231 getiri elde etti.",
+  "metric": "Fon getirisi 4 ayda +%1231",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-27T06:01:00.091207+00:00",
+  "type": "news",
+  "cluster_id": "c61639b5c2fcf"
+ },
+ {
+  "title": "SPK'dan Sayan ailesini yakacak adım",
+  "link": "https://www.sozcu.com.tr/spk-dan-sayan-ailesini-yakacak-adim-p363844",
+  "source": "Sözcü",
+  "summary_tr": "SPK, Sayan ailesinin Özata Denizcilik hisselerine nisan ayında 163 milyon TL yatırmasından sonra adım almaya hazırlanıyor.",
+  "metric": "Yatırım tutarı 163 milyon TL",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-27T06:01:00.091207+00:00",
+  "type": "news",
+  "cluster_id": "c5e12b1431472"
+ },
+ {
   "title": "Trump rejects Iran’s proposal to reopen the Strait of Hormuz and other Mideast news",
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY3FURU1ld09YM0czSERoLWEtWEQwR1FSZm96NmpURkowVXNHQkRna0gzZEJXTWlKLUE5QW51U24tRFVHX2JDNUpvWVFyNWdGYVhaYThBVmJZMndzM1Z2eDVkVVViRG00M1k3YUpYdDE2azVBcmo4SmlhNDRSLW9Ra0taSTY1V0w3ektQdFpzQXhjTzNBNmxSalgxT0xGbC1y?oc=5",
   "source": "AP",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-19T11:01:07.995597+00:00",
   "type": "news",
   "cluster_id": "c836e50eb97c4"
- },
- {
-  "title": "İstanbul'da servis ücretlerine yüzde 10 zam",
-  "link": "https://www.diken.com.tr/istanbulda-servis-ucretlerine-yuzde-10-zam/?utm_source=rss&utm_medium=rss&utm_campaign=istanbulda-servis-ucretlerine-yuzde-10-zam",
-  "source": "Diken",
-  "summary_tr": "İstanbul'da 2026-2027 eğitim dönemi için servis ücretlerine %10 zam uygulanacak.",
-  "metric": "Servis ücreti %10 zam",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-19T11:01:07.995597+00:00",
-  "type": "news",
-  "cluster_id": "c0e82c6d4657a"
- },
- {
-  "title": "Avro Bölgesi'nde yıllık enflasyon temmuzda yüzde 2,9'a yükseldi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/avro-bolgesinde-yillik-enflasyon-temmuzda-yuzde-2-9a-yukseldi/4031522",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Avro Bölgesi'nde yıllık enflasyon temmuz ayında enerji fiyatlarındaki artışın etkisiyle %2,9'a yükseldi.",
-  "metric": "Avro Bölgesi yıllık enflasyon %2,9",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-19T11:01:07.995597+00:00",
-  "type": "news",
-  "cluster_id": "cec41a9c81a62"
  }
 ]
