@@ -1,5 +1,65 @@
 [
  {
+  "title": "ECB Başkanı Christine Lagarde: Yükselen faizler büyümeyi yavaşlatacak",
+  "link": "https://www.aa.com.tr/tr/ekonomi/ecb-baskani-christine-lagarde-yukselen-faizler-buyumeyi-yavaslatacak/4071803",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ECB Başkanı Lagarde, Avro Bölgesi'nde yükselen uzun vadeli tahvil faizlerinin ekonomik büyümeyi yavaşlatacağı uyarısında bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-28T16:01:15.427687+00:00",
+  "type": "news",
+  "cluster_id": "ca6095e559905"
+ },
+ {
+  "title": "Fon soruşturmasında Vişne izi: 22 katlık yükselişte kimler kazandı?",
+  "link": "https://www.dw.com/tr/fon-soruşturmasında-vişne-izi-22-katlık-yükselişte-kimler-kazandı/a-79462460?maca=tur-rss-tur-all-1495-rdf",
+  "source": "DW Türkçe",
+  "summary_tr": "Tera'nın yatırım yaptığı Vişne hissesi 6 ayda 22 katına çıktı, ancak fonlar çıkışı sonrasında %75 düştü; manipülasyon soruşturması devam ediyor.",
+  "metric": "Vişne hisseleri 1x -> 22x (+2100%), sonra zirvenin %75 düşüşü",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-28T16:01:15.427687+00:00",
+  "type": "news",
+  "cluster_id": "c12c2e8c656a9"
+ },
+ {
+  "title": "ABD, Çin ile uzlaşılan elverişli tarife çerçevesinin detaylarını paylaştı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abd-cin-ile-uzlasilan-elverisli-tarife-cercevesinin-detaylarini-paylasti/4071811",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD ve Çin, karşılıklı 30'ar milyar dolar ithalatı kapsayan daha elverişli gümrük tarifesi çerçevesi üzerinde mutabakata vardı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-28T16:01:15.427687+00:00",
+  "type": "news",
+  "cluster_id": "c48c122dc99fd"
+ },
+ {
+  "title": "Borsa günü yüzde 2,38 düşüşle kapattı",
+  "link": "https://www.diken.com.tr/borsa-gunu-yuzde-238-dususle-kapatti-28-eylul-2026/?utm_source=rss&utm_medium=rss&utm_campaign=borsa-gunu-yuzde-238-dususle-kapatti-28-eylul-2026",
+  "source": "Diken",
+  "summary_tr": "BIST 100 endeksi 28 Eylül'de %2,38 düşüş ile 306,59 puan azalarak kapattı; sert borsa hareketi.",
+  "metric": "BIST 100 -306,59 puan (%2,38)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-28T16:01:15.427687+00:00",
+  "type": "news",
+  "cluster_id": "c5afc2d5f945d"
+ },
+ {
+  "title": "Ticaret Bakanı Bolat'tan Brüksel'de \"Made in EU\" diplomasisi",
+  "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolattan-brukselde-made-in-eu-diplomasisi/4071828",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ticaret Bakanı Bolat, Brüksel'de 'Made in EU' yaklaşımının Türk sanayisine etkisini AB yetkilileriyle görüştü.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-28T16:01:15.427687+00:00",
+  "type": "news",
+  "cluster_id": "c2aeb8526cc28"
+ },
+ {
   "title": "SpaceX's Starship reaches orbit for the first time, deploys Starlink satellites",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRUxONEdtUHZ5SjVIV3RpTVhrdlIzVTRucmFYRThFZ014SGlwX2cxTk80MjB3UHc5c2ZmZTlkOE1kMDJLS1BCM2hyREJhdjVaMExEUXhUemw4UlB2NXJCTm1pdkphM0hXRFdVNDQ1UlBueXpYcTdtcmNwT3ZtcGpXWTlDVW0xUmowZmFpdzVFemlVbGtwckxIM3NzNkhEenhENUVkWXByU09TQW9rUlNBUUNocEtBQQ?oc=5",
   "source": "Reuters",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-21T06:01:14.318583+00:00",
   "type": "news",
   "cluster_id": "c6dcd64b9622b"
- },
- {
-  "title": "Konut fiyatlarında yön değişti: Evler ucuzlayacak mı?",
-  "link": "https://www.dw.com/tr/konut-fiyatlarında-yön-değişti-evler-ucuzlayacak-mı/a-78443340?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Türkiye'de konut fiyatları TL bazında yükseliyor ancak reel olarak gerileyerek vatandaşların satın alma gücünü azaltıyor; faiz gerilemesinin bu eğilimi kırıp kırmaması analiz ediliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-21T05:01:13.352291+00:00",
-  "type": "news",
-  "cluster_id": "cb76ee2416baf"
- },
- {
-  "title": "Kiracılara ödediği o paraları geri alma yolu açıldı",
-  "link": "https://www.sozcu.com.tr/kiracilara-odedigi-o-paralari-geri-alma-yolu-acildi-p351301",
-  "source": "Sözcü",
-  "summary_tr": "Yargıtay'dan emsal niteliğinde karar: Tehdit ve baskı altında fahiş kira ödeyen kiracılar ödedikleri parayı geri alma hakkı kazandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-21T05:01:13.352291+00:00",
-  "type": "news",
-  "cluster_id": "c80d7e2ca496f"
- },
- {
-  "title": "Ev alıp satacaklar dikkat: Zorunlu Deprem Sigortası'nda yıllardır uygulanan sistem değişti",
-  "link": "https://www.sozcu.com.tr/ev-alip-satacaklar-dikkat-zorunlu-deprem-sigortasi-nda-yillardir-uygulanan-sistem-degisti-p351305",
-  "source": "Sözcü",
-  "summary_tr": "Zorunlu Deprem Sigortası (DASK) sisteminde yıllardır uygulanan genel şartlar değiştirildi; ev alıp satacak vatandaşlar etkilenecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-21T05:01:13.352291+00:00",
-  "type": "news",
-  "cluster_id": "cbc24de1a4b8e"
- },
- {
-  "title": "Gold on track for third weekly gain after US Treasury move",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzBQclFYMVRpaFk2cVBvUUNLd2tWYjlENUhJbG9tR3RYQ2k3VTFpSV9yd0xXVVgzNnFQNGltZV9sbHhQdENsX29BekdQM0NOb2p5bjBqQWNUbnE1WGZmaEt5d0ZFQVgzZUFKeWNOSEt2eHUzZWZRdk8xb1lMZUplLVZBY2oyYlRtMHo4YmZhdWRRZ2FndkE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Altın, ABD Hazine hareketinin ardından üçüncü haftalık kazancına doğru yönelme gösteriyor; küresel finansal piyasalarda oynaklık sürüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-21T05:01:13.352291+00:00",
-  "type": "news",
-  "cluster_id": "c17c6d213678a"
- },
- {
-  "title": "Asia shares downbeat on the week as bond yields, oil stay high",
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTFQMW56em9GbmdpNkt2Y1pGekxZbWNTT2I5bHZDNUJCaFFYem9uWVlkSEd3dzBHQ19mSHA0QzZlUmMzWHJtOEtJX09qRmVaNFdYaC1wZzQ4VmJCdFdlWnFDSkhRLVkwYXRidHJPaVk2ZXFyeVNzU0dCbzNRZnhNc0dLcw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Asya hisse senetleri haftalık düşüş kaydetti; tahvil getirileri ve petrol fiyatları yüksek seviyelerde kalmayı sürdürüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-21T05:01:13.352291+00:00",
-  "type": "news",
-  "cluster_id": "c857b136b7599"
  }
 ]
