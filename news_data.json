@@ -1,5 +1,41 @@
 [
  {
+  "title": "Fon krizinde Destek Holding ve Özata Gemicilik'e operasyon: Bakan yardımcısının damadı İskender Balcı da gözaltında!",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/fon-krizinde-destek-holding-ve-ozata-gemicilik-e-operasyon-bakan-yardimcisinin-damadi-iskender-balci-da-gozaltinda-2541833",
+  "source": "Cumhuriyet",
+  "summary_tr": "Fon krizinde Destek Holding ve Özata Gemicilik'e operasyon düzenlendi; Bakan yardımcısının damadı İskender Balcı da gözaltına alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-28T14:01:13.300013+00:00",
+  "type": "news",
+  "cluster_id": "ccfe6eb923041"
+ },
+ {
+  "title": "Muhalefetten Fatma Betül Sayan Kaya ve eşi için soruşturma çağrısı",
+  "link": "https://www.bbc.com/turkce/articles/cr93ezxklevvo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "AKP'deki görevinden istifa eden Fatma Betül Sayan Kaya'nın tasfiye edilen fonlardan kazanç sağladığı iddialarına muhalefetten soruşturma çağrısı yapılıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-28T14:01:13.300013+00:00",
+  "type": "news",
+  "cluster_id": "c8420d6532220"
+ },
+ {
+  "title": "Murat Batı | 131 fon mağdurunun zararı vergilerimizle mi ödenecek?",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMExIYWUzeDg5NXZVaTNZdjFENEk2aWFjaUNGSGhMWEhNR0pNMFBkWE53MFFFWkJUckZVelc2UE1LbmRXeElfTUZNbXBQblBraFIyaWJfZlpFS1c5aFRUc0o5bC1rRHFjXzRodVBGWXNOdl9rOXlJREhYQnRBVlU0Sm80Vk41cEZHNFVSbC0tbkZyLUF2OTJsTWRFbzBKZw?oc=5",
+  "source": "T24",
+  "summary_tr": "131 fon mağdurunun zararının vergi mükellefleri tarafından mı ödeneceği sorgulanıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-28T14:01:13.300013+00:00",
+  "type": "news",
+  "cluster_id": "c11ce20631e07"
+ },
+ {
   "title": "Kiev'deki Ulusal Bilimler Akademisi'ne saldırıda en az bir ölü",
   "link": "https://www.bbc.com/turkce/articles/cmz6z52j9d23o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-21T03:01:04.669579+00:00",
   "type": "news",
   "cluster_id": "cc98dfb66356c"
- },
- {
-  "title": "Netanyahu’dan küstah söz: Duymadılar, daha iyi anlamalarını sağladık",
-  "link": "https://www.sozcu.com.tr/netanyahu-dan-kustah-soz-duymadilar-daha-iyi-anlamalarini-sagladik-p351282",
-  "source": "Sözcü",
-  "summary_tr": "Netanyahu, İsrail'in Ebu Zuhur Havaalanı'nı Türkiye'ye gözdağı vermek için vurduğunu açıklayarak diplomatik gerilimi artırdı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-21T03:01:04.669579+00:00",
-  "type": "news",
-  "cluster_id": "c78cf9bb6d2a9"
- },
- {
-  "title": "US says it will impose 'toughest sanctions in history' on Iran",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2ZEV0ttbXhQZHVsUVNRYTBoVkczUHp5MVN5ME9vWGo4ajVmWmhMUXBwdkVVaXo3MjZlSEpyTC0wWWtvaGdYZkttakoyazRFMXBCM1ZUVmZ4TldhaUF2WU1QdTgtR3NwaFlMa016ZGJ6UjBaTmZGZjVTN011RXFNWktVcm44QUxMbHE4WVNyOWpNUkJwNzVKLW0wUTdQSUZCdGNrT1NkWXZPMzVJ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD, İran'a karşı tarihinin en sıkı yaptırımlarını uygulamayı duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-21T03:01:04.669579+00:00",
-  "type": "news",
-  "cluster_id": "ceb997aeb674f"
- },
- {
-  "title": "Oil set for second weekly rise as unsettled US-Iran war crimps supply",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Petrol ikinci hafta üst üste yükselişe geçti; ABD-İran gerilimi arz kısıtlamalarını tetikledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-21T03:01:04.669579+00:00",
-  "type": "news",
-  "cluster_id": "cd82220fe17ad"
  }
 ]
