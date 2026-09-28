@@ -1,5 +1,41 @@
 [
  {
+  "title": "Trump'tan 'İran' açıklaması: 'Bunu da bizden başkası başaramazdı'",
+  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-iran-aciklamasi-bunu-da-bizden-baskasi-basaramazdi-2541931",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABD Başkanı Trump, İran'la savaşın yakında sona ereceğini ve enerji fiyatlarının düşeceğini açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-09-28T21:01:04.376034+00:00",
+  "type": "news",
+  "cluster_id": "ce7c7fe0f56ca"
+ },
+ {
+  "title": "Trump: Bu savaşı çok yakında kazanacağız",
+  "link": "https://www.sozcu.com.tr/trump-bu-savasi-cok-yakinda-kazanacagiz-p364339",
+  "source": "Sözcü",
+  "summary_tr": "ABD Başkanı Trump, İran'la savaşın çok yakında kazanılacağını ve benzin fiyatlarının ciddi şekilde düşeceğini söyledi.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-09-28T21:01:04.376034+00:00",
+  "type": "news",
+  "cluster_id": "c389fc72f2066"
+ },
+ {
+  "title": "ABD Başkanı Trump: (İran'la) Bu savaşı çok yakında kazanacağız ve her şey sona erecek",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-iranla-bu-savasi-cok-yakinda-kazanacagiz-ve-her-sey-sona-erecek/4072025",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Başkanı Trump, İran'la savaşın yakında sona ereceğini ve enerji fiyatlarının hızlı düşeceğini açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-09-28T21:01:04.376034+00:00",
+  "type": "news",
+  "cluster_id": "c389fc72f2066"
+ },
+ {
   "title": "SPK'den 37 kişi hakkında suç duyurusu: 24 kişinin lisansları da iptal edildi",
   "link": "https://www.cumhuriyet.com.tr/siyaset/spk-den-37-kisi-hakkinda-suc-duyurusu-24-kisinin-lisanslari-da-iptal-edildi-2541922",
   "source": "Cumhuriyet",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-21T10:01:14.084776+00:00",
   "type": "news",
   "cluster_id": "c893f87b682ab"
- },
- {
-  "title": "Alman muhabirin tepki çeken sorusu: Rusya tutuklamak istiyor",
-  "link": "https://www.dw.com/tr/alman-muhabirin-tepki-çeken-sorusu-rusya-tutuklamak-istiyor/a-78453233?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Rusya, Ukrayna'da Rus öldürülmesine yardım edip etmediğini soran Alman gazeteciye tutuklamak istiyor. Batı basın özgürlüğüne müdahale eleştirisi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-21T09:01:11.955645+00:00",
-  "type": "news",
-  "cluster_id": "cebc94179bbd6"
- },
- {
-  "title": "Rusya-Ukrayna gerilimi Zaporijya Nükleer Güç Santrali'nin güvenliğini zorluyor",
-  "link": "https://www.aa.com.tr/tr/ekonomi/rusya-ukrayna-gerilimi-zaporijya-nukleer-guc-santralinin-guvenligini-zorluyor/4033584",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Avrupa'nın en büyük Zaporijya Nükleer Santrali'nde saldırılar ve elektrik kesintileri güvenliği tehdit ediyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-21T09:01:11.955645+00:00",
-  "type": "news",
-  "cluster_id": "cd43bfe8f8114"
- },
- {
-  "title": "İran Genelkurmay Başkanı: Düşmanın yeni tehditlerine yıkıcı karşılık vereceğiz",
-  "link": "https://www.trthaber.com/haber/dunya/iran-genelkurmay-baskani-dusmanin-yeni-tehditlerine-yikici-karsilik-verecegiz-954555.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Genelkurmay Başkanı, düşmanın tehditlerine yıkıcı karşılık vereceğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-21T09:01:11.955645+00:00",
-  "type": "news",
-  "cluster_id": "c5ab4c6e5f29a"
  }
 ]
