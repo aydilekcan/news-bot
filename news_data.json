@@ -1,5 +1,41 @@
 [
  {
+  "title": "Rusya Devlet Başkanı Putin ordudaki personel sayısını 2 milyon 441 bin 630'a çıkardı",
+  "link": "https://www.aa.com.tr/tr/dunya/rusya-devlet-baskani-putin-ordudaki-personel-sayisini-2-milyon-441-bin-630a-cikardi/4072084",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Rusya Devlet Başkanı Putin, ordudaki personel sayısını 2 milyon 441 bin 630'a çıkaran kararname imzaladı.",
+  "metric": "Askeri personel sayısı 2.441.630'a çıkarıldı",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-09-28T23:01:03.245167+00:00",
+  "type": "news",
+  "cluster_id": "cba57f3584ee3"
+ },
+ {
+  "title": "İran ile ABD’nin Hürmüz pazarlığı ve Fidan’ın BAE ziyareti ne anlatıyor?",
+  "link": "https://yetkinreport.com/2026/09/29/iran-ile-abdnin-hurmuz-pazarligi-ve-fidanin-bae-ziyareti-ne-anlatiyor/",
+  "source": "YetkinReport",
+  "summary_tr": "İran-ABD arasındaki Hürmüz pazarlığı İsrail seçimleri öncesi sonuçlanması zor görünüyor; Türkiye tüm taraflarla konuşma avantajına sahip.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-28T23:01:03.245167+00:00",
+  "type": "news",
+  "cluster_id": "c3e2a24924850"
+ },
+ {
+  "title": "Muhsin Yazıcıoğlu'nun ölümüne ilişkin soruşturmada 36 kişi tutuklandı",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY18wOUI3VW03N054X0lyTW9mbEpiX2oxYUZtVEtTaEt1eGVRWG1jaG5NQnlPMmZOTEZObm9iY3lobTkzbU1RaFdNNkxPTk15RUFval9GTnpGY0piSjA3cElfX053bnU2a1BkTVR5R0dtQ3YyTzQ5T05SR0J5WEN3amNSZDRTWm15cHQwanM1b1Z5QWdid29CUW1xbVJNZmtQNkV1Z1dhNnZ4Zw?oc=5",
+  "source": "soL",
+  "summary_tr": "Muhsin Yazıcıoğlu'nun ölümüne ilişkin soruşturmada 36 kişi tutuklandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-28T23:01:03.245167+00:00",
+  "type": "news",
+  "cluster_id": "c8a3f5867d175"
+ },
+ {
   "title": "Muhsin Yazıcıoğlu soruşturması: 36 kişi tutuklandı",
   "link": "https://www.diken.com.tr/muhsin-yazicioglu-sorusturmasi-36-kisi-tutuklandi/?utm_source=rss&utm_medium=rss&utm_campaign=muhsin-yazicioglu-sorusturmasi-36-kisi-tutuklandi",
   "source": "Diken",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-21T10:01:14.084776+00:00",
   "type": "news",
   "cluster_id": "cefb75cf089c0"
- },
- {
-  "title": "Zorunlu deprem sigortası satıştan sonra yeni mülk sahibine devredilemeyecek",
-  "link": "https://www.aa.com.tr/tr/ekonomi/zorunlu-deprem-sigortasi-satistan-sonra-yeni-mulk-sahibine-devredilemeyecek/4033656",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "SEDDK, zorunlu deprem sigortası poliçesinin satın sonra yeni sahibine devredilmeyeceğine karar verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-21T10:01:14.084776+00:00",
-  "type": "news",
-  "cluster_id": "cb03c857b8d8c"
- },
- {
-  "title": "Hamas: İsrail, Mescidi Aksa'nın İslami kimliğini değiştiremeyecek",
-  "link": "https://www.trthaber.com/haber/dunya/hamas-israil-mescid-i-aksanin-islami-kimligini-degistiremeyecek-954566.html",
-  "source": "TRT Haber",
-  "summary_tr": "Hamas, İsrail'in Mescidi Aksa'nın İslami kimliğini değiştirmeye çalışmasını kınadı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-21T10:01:14.084776+00:00",
-  "type": "news",
-  "cluster_id": "c8d79375a8ad9"
- },
- {
-  "title": "DASK'ta önemli değişiklik: Konut satılınca poliçe devredilmeyecek",
-  "link": "https://www.trthaber.com/haber/gundem/daskta-onemli-degisiklik-konut-satilinca-police-devredilmeyecek-954564.html",
-  "source": "TRT Haber",
-  "summary_tr": "DASK zorunlu deprem sigortasında değişiklik: konut satılınca poliçe yeni sahibine devredilmeyecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-21T10:01:14.084776+00:00",
-  "type": "news",
-  "cluster_id": "c816ed436ef23"
  }
 ]
