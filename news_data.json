@@ -1,5 +1,53 @@
 [
  {
+  "title": "SPK'den 37 kişi hakkında suç duyurusu: 24 kişinin lisansları da iptal edildi",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/spk-den-37-kisi-hakkinda-suc-duyurusu-24-kisinin-lisanslari-da-iptal-edildi-2541922",
+  "source": "Cumhuriyet",
+  "summary_tr": "SPK, Tera Holding ile ilgili 37 kişi hakkında suç duyurusu yaptı; 24 kişinin lisansları iptal edildi ve 37 kişiye 2 yıl işlem yasağı getirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-28T20:01:01.405370+00:00",
+  "type": "news",
+  "cluster_id": "c4a1685011706"
+ },
+ {
+  "title": "SPK’den Tera Finansal Yatırımlar işlemleriyle ilgili 37 kişi hakkında suç duyurusu",
+  "link": "https://www.aa.com.tr/tr/ekonomi/spk-den-tera-finansal-yatirimlar-islemleriyle-ilgili-37-kisi-hakkinda-suc-duyurusu/4072013",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "SPK, Tera Finansal Yatırımlar Holding hakkında yapılan inceleme sonucunda 37 kişi hakkında suç duyurusu yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-28T20:01:01.405370+00:00",
+  "type": "news",
+  "cluster_id": "c4a1685011706"
+ },
+ {
+  "title": "SPK'dan 37 isme suç duyurusu",
+  "link": "https://www.sozcu.com.tr/spk-dan-37-isme-suc-duyurusu-p364327",
+  "source": "Sözcü",
+  "summary_tr": "SPK, Tera Holding incelemesi sonucunda 37 kişi hakkında suç duyurusu yapıldığını bildirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-28T20:01:01.405370+00:00",
+  "type": "news",
+  "cluster_id": "cafad9df859cb"
+ },
+ {
+  "title": "SPK'dan Tera Finansal Yatırımlar işlemleriyle ilgili 37 kişi hakkında suç duyurusu",
+  "link": "https://www.trthaber.com/haber/ekonomi/spkdan-tera-finansal-yatirimlar-islemleriyle-ilgili-37-kisi-hakkinda-suc-duyurusu-958449.html",
+  "source": "TRT Haber",
+  "summary_tr": "SPK, Tera Finansal Yatırımlar Holding incelemesi sonucunda 37 kişi hakkında suç duyurusu yapıldığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-28T20:01:01.405370+00:00",
+  "type": "news",
+  "cluster_id": "ce6601efbb641"
+ },
+ {
   "title": "Erdoğan fon krizine dair konuştu, Özel istifa çağrısı yaptı",
   "link": "https://www.bbc.com/turkce/articles/c6je85n724zxo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-21T09:01:11.955645+00:00",
   "type": "news",
   "cluster_id": "c5ab4c6e5f29a"
- },
- {
-  "title": "Instagram'a 'Filistin' cezası: Paylaşımların kaldırılmasına 256 bin 357 lira para cezası verildi",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/instagram-a-filistin-cezasi-paylasimlarin-kaldirilmasina-256-bin-357-lira-para-cezasi-verildi-2531029",
-  "source": "Cumhuriyet",
-  "summary_tr": "TİHEK, Instagram'da Filistin'i destekleyen paylaşımların sistematik kaldırılmasına 256.357 lira ceza verdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-21T09:01:11.955645+00:00",
-  "type": "news",
-  "cluster_id": "c0730cb7d1041"
- },
- {
-  "title": "İstanbul’un dibinde doğal gaz arayacaklar",
-  "link": "https://www.sozcu.com.tr/istanbul-un-dibinde-dogal-gaz-arayacaklar-p351419",
-  "source": "Sözcü",
-  "summary_tr": "İstanbul yakınlarında doğal gaz arama çalışmalarına başlanıyor. Enerji kaynağı çeşitlendirme adımı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-21T09:01:11.955645+00:00",
-  "type": "news",
-  "cluster_id": "c8895276b36e2"
- },
- {
-  "title": "ABD'den Türk iş insanlarına Hizbullah yaptırımı",
-  "link": "https://www.sozcu.com.tr/abd-nin-yeni-yaptirimlari-ekonomik-savasin-oncusu-oldu-p351414",
-  "source": "Sözcü",
-  "summary_tr": "ABD, Hizbullah'a yönelik yeni yaptırımlar açıkladı; Türk iş insanları da yaptırım listesinde yer aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-21T09:01:11.955645+00:00",
-  "type": "news",
-  "cluster_id": "c30e033215c6a"
- },
- {
-  "title": "TİHEK'ten Filistin paylaşımlarını kaldırması nedeniyle Instagram'a 256 bin lira ceza",
-  "link": "https://www.aa.com.tr/tr/gundem/tihekten-filistin-paylasimlarini-kaldirmasi-nedeniyle-instagrama-256-bin-lira-ceza/4033633",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "TİHEK, Instagram'a Filistin destekleyici paylaşımları kaldırması nedeniyle 256 bin lira ceza kesti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-21T09:01:11.955645+00:00",
-  "type": "news",
-  "cluster_id": "c54be5254ab21"
  }
 ]
