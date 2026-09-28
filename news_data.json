@@ -1,5 +1,17 @@
 [
  {
+  "title": "Sayıştay’ın İzmir Demokrasi Üniversitesi raporunda dikkat çeken bulgulara rastlandı: Usulsüz harcamalar, mevzuata aykırılık",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/sayistay-in-izmir-demokrasi-universitesi-raporunda-dikkat-ceken-bulgulara-rastlandi-usulsuz-harcamalar-mevzuata-aykirilik-2541562",
+  "source": "Cumhuriyet",
+  "summary_tr": "Sayıştay, İzmir Demokrasi Üniversitesi'nin denetim raporunda usulsüz harcamalar ve mevzuata aykırılıklar tespit etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-28T02:01:33.653851+00:00",
+  "type": "news",
+  "cluster_id": "c49cd66922627"
+ },
+ {
   "title": "Emniyet Genel Müdürlüğü polislerin iş bırakacağı haberlerini yalanladı",
   "link": "https://www.bbc.com/turkce/articles/c9zrzz1z3g1jo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59986,17 +59998,5 @@
   "ts": "2026-08-20T07:01:21.096543+00:00",
   "type": "news",
   "cluster_id": "c00d7047b23f6"
- },
- {
-  "title": "BM’den Gazze raporu: En ölümcül bölge",
-  "link": "https://www.cumhuriyet.com.tr/dunya/bm-den-gazze-raporu-en-olumcul-bolge-2530694",
-  "source": "Cumhuriyet",
-  "summary_tr": "BM, 2025'te Gazze'de 186 insani yardım çalışanının öldürüldüğünü rapor etti.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-20T07:01:21.096543+00:00",
-  "type": "news",
-  "cluster_id": "c0d516fbadf0b"
  }
 ]
