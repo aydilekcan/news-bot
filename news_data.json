@@ -1,5 +1,77 @@
 [
  {
+  "title": "Kiev'deki Ulusal Bilimler Akademisi'ne saldırıda en az bir ölü",
+  "link": "https://www.bbc.com/turkce/articles/cmz6z52j9d23o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Ukrayna'nın başkenti Kiev'deki Ulusal Bilimler Akademisi'ne saldırı düzenlendi, en az bir ölü var.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-28T13:01:13.742313+00:00",
+  "type": "news",
+  "cluster_id": "c2765360e04b9"
+ },
+ {
+  "title": "İran’dan ABD’ye açık uyarı: Yeni bir savaşta yeni cephe açılır",
+  "link": "https://www.cumhuriyet.com.tr/dunya/iran-dan-abd-ye-acik-uyari-yeni-bir-savasta-yeni-cephe-acilir-2541811",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran'ın askeri danışmanı, ABD yeni bir savaş başlatırsa yeni cephe açılacağını uyarı verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-28T13:01:13.742313+00:00",
+  "type": "news",
+  "cluster_id": "c532abbdb4ca7"
+ },
+ {
+  "title": "Nvidia boosts share buyback by record $150 billion as AI boom fuels growth",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzg4UzFUbWw0cThEbUEwYVdsdF9WVVpuSDZ0RkJjLWd1UE5XdVJFWjRKazNRU2lyVkxiX2xIZFplVnkxTTl4QUhnV1NaM21SdFNxTFBMYXVJMlJVU2lobmtWYkpqa2wyWlRPLWxuZTMtTzhRUVpHZ1V6VkRLS0psbzlQTWQwcGNpVXNuSGRYSjlCQU9sU3lXcXVteXk2ZmZf?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Nvidia, yapay zeka patlaması nedeniyle hisse geri satın alma programını rekor 150 milyar dolar artırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-28T13:01:13.742313+00:00",
+  "type": "news",
+  "cluster_id": "cc7f0120556c4"
+ },
+ {
+  "title": "Ukrainian forces advance in key eastern battlefield, senior commander says",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU09KcG5rRmI0eVVGNzRlRXlxVktzcmtmZ3NfSzRKVlc3emxMQWpqT0JiV1M5OVRyVFZlOS1JZVZWYjVWYzNxR2FtLVJENUszT1lMOXROd2tKLTlhRldPRTFBQkdVU3lWUFoxOXA5YWdVVGJ2Ti1ZRjRlSmpGREptSWNRTHpDZXJKUzdld1dvOG1zOXozYXFqRnVtTFprcWh1clpaSzBXRlh4cnFIMGROcDNndlRuTVRwZUl3?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ukrayna kuvvetleri doğudaki kilit savaş alanında ilerleme kaydettiğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-28T13:01:13.742313+00:00",
+  "type": "news",
+  "cluster_id": "c4c76dd91fb12"
+ },
+ {
+  "title": "Eğitim-İş davayı kazandı: Afet bölgesindeki kamu emekçileri için kritik karar",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/egitim-is-davayi-kazandi-afet-bolgesindeki-kamu-emekcileri-icin-kritik-karar-2541810",
+  "source": "Cumhuriyet",
+  "summary_tr": "Eğitim-İş Sendikası deprem bölgesindeki kamu emekçileri için açtığı davayı kazandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-09-28T13:01:13.742313+00:00",
+  "type": "news",
+  "cluster_id": "c58e60e0693cf"
+ },
+ {
+  "title": "Ethiopian pro-government forces claim capture of strategic Tigray town",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUjNEWTc5Q1dFTC1VdlRWS1lFUnFOSTBSUTc4S2tfTHRvMmlhMlpzalVtb25RMW0tbnk2R0tuNThvX1J2MUZhWlZzYlpGYndqc2JaWG9Bb0RPM1FFMWRTVndwcVBicTUzMlQ1eVRSWnl3OEVSR0hCMVlyaVBYVXBRaDhLSjE2ZjNsTVByM3dGSklBMjNVdkVJdnhxcGlJQmtlVXpQcmx2LXFya3FaMnJyazliaGFTWjVwcG5J?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Etiyopya hükümeti destekçi güçler Tigray'da stratejik bir şehri ele aldığını iddia etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-28T13:01:13.742313+00:00",
+  "type": "news",
+  "cluster_id": "cb962299d640c"
+ },
+ {
   "title": "Borsadaki kayıplara ilişkin çarpıcı çalışma: 43 hissede 2,4 trilyon liralık erime",
   "link": "https://www.sozcu.com.tr/borsadaki-kayiplara-iliskin-carpici-calisma-43-hissede-2-4-trilyon-liralik-erime-p364228",
   "source": "Sözcü",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-21T03:01:04.669579+00:00",
   "type": "news",
   "cluster_id": "cd82220fe17ad"
- },
- {
-  "title": "North Korea fires barrage of missiles toward the sea after dismissing overture from Trump",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSVBfTGgzRkkzNXpqR1ZoSHZZUmIyYVVvc3NtRFEtajRSRVRiQVAtTzQ5SWRIQldqM2xTV2ROQmY1cjc3aGlBaEFsaU5yN0xGXy05azIwNXN4SUszUlhLVWpnNVhJNVI5OE51RGZ3MFpPUWNmcGdVc0ZOUXI4OW1Cc3JXVHFIRHZhSVZUbUZ3dUI5NWl6cmZnejg1LU5lX1VFd0xKdzN1Q2NPMXRydnU0UkZXck8?oc=5",
-  "source": "AP",
-  "summary_tr": "Kuzey Kore, Trump'ın uzlaşma çağrısını reddederek denize doğru füze atışı gerçekleştirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-21T02:01:04.423448+00:00",
-  "type": "news",
-  "cluster_id": "c5dccb4b9009b"
- },
- {
-  "title": "Ege’de ekonomik sıkışma büyüyor: Borç bini aştı!",
-  "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/ege-de-ekonomik-sikisma-buyuyor-borc-bini-asti-2530952",
-  "source": "Cumhuriyet",
-  "summary_tr": "Ege bölgesinde ekonomik sıkışma derinleşiyor; kredi kullanan kişi sayısı 44,5 milyona ulaştı, borçlar bin sınırını aştı.",
-  "metric": "Kredi kullanan kişi sayısı: 44,5 milyon",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-21T02:01:04.423448+00:00",
-  "type": "news",
-  "cluster_id": "ceb01294e49d5"
- },
- {
-  "title": "US to end summer blend gasoline requirement early in attempt to lower prices",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNakdBN0hxc0xrLUhRamhRbmdpYk5ybzgyQ0hhQ2IyQVhEVWlobDcxeUY1NEJ1UXZlLVR0YVBvTkxqMkNGenZaRG5lTXZRQVZFX21kWU9ZS05RMHoxSmJwTnVkcGFQcDIzSXZRME9DV3hJckt6WHJueG4xQjE3dnNWX2hYOWN6MnN1eEthcUFKTzJvM2hDbzVmbno3UURwcUZxbl9WV2t5S2prT0dpSlhlN01QeHZUZlY2U1o4?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD yazlık benzin karmasının zorunlu kullanımını sona erdirerek fiyatları düşürmeyi hedefliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-21T01:01:02.691554+00:00",
-  "type": "news",
-  "cluster_id": "c9f9b242e4a53"
- },
- {
-  "title": "ABD Hazine Bakanı: Yaptırımlar İran ekonomisini \"ezip geçecek\" ve hükümeti \"çökertecek\"",
-  "link": "https://www.bbc.com/turkce/articles/cwymr2k11k3o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "ABD Hazine Bakanı Scott Bessent, İran ekonomisini 'çökertme' çabalarına müttefiklerden destek istedi ve yaptırımların ekonomiyi 'ezip geçeceğini' söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-20T23:01:05.917558+00:00",
-  "type": "news",
-  "cluster_id": "c761d5c34d3c8"
- },
- {
-  "title": "Cumhurbaşkanı Yardımcısı Yılmaz'dan 'yastık altı' vurgusu: 'Keşke bunlar daha fazla sisteme girse'",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/cumhurbaskani-yardimcisi-yilmaz-dan-yastik-alti-vurgusu-keske-bunlar-daha-fazla-sisteme-girse-2530941",
-  "source": "Cumhuriyet",
-  "summary_tr": "Cumhurbaşkanı Yardımcısı Yılmaz, Merkez Bankası rezervinin 178,4 milyar dolar olduğunu ancak vatandaşın yastık altındaki altınlardan daha fazla sisteme girmesini istediğini belirtti.",
-  "metric": "Merkez Bankası rezervi 178,4 milyar dolar",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-20T22:01:04.658500+00:00",
-  "type": "news",
-  "cluster_id": "c8d9878f09189"
- },
- {
-  "title": "ABD, Küba bağlantılı 9 kuruluş ve 3 kişiyi yaptırım listesine ekledi",
-  "link": "https://www.cumhuriyet.com.tr/dunya/abd-kuba-baglantili-9-kurulus-ve-3-kisiyi-yaptirim-listesine-ekledi-2530939",
-  "source": "Cumhuriyet",
-  "summary_tr": "ABD yönetimi, Küba'yı destekledikleri ve ABD'ye karşı faaliyette bulunduğu iddiasıyla 9 kuruluş ve 3 kişiyi yapı listesine ekledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-20T22:01:04.658500+00:00",
-  "type": "news",
-  "cluster_id": "cf45a82ba6f5b"
  }
 ]
