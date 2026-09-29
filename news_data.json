@@ -1,5 +1,29 @@
 [
  {
+  "title": "AYM'nin süresiz nafaka düzenlemesini iptaline ilişkin gerekçe Resmi Gazete'de yayımlandı",
+  "link": "https://www.bbc.com/turkce/articles/c70v2pp0lz4o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "AYM'nin süresiz yoksulluk nafakası hükmünü iptal eden kararının gerekçesi Resmi Gazete'de yayımlandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-29T23:01:02.165585+00:00",
+  "type": "news",
+  "cluster_id": "st3455a837b2"
+ },
+ {
+  "title": "Filistin'de Hamas, İslami Cihad ve Dahlan grubundan sürpriz seçim ittifakı",
+  "link": "https://www.aa.com.tr/tr/dunya/filistinde-hamas-islami-cihad-ve-dahlan-grubundan-surpriz-secim-ittifaki/4073177",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Hamas, İslami Cihad ve Dahlan grubu Filistin'de sürpriz bir seçim ittifakı kurdu.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-29T23:01:02.165585+00:00",
+  "type": "news",
+  "cluster_id": "ste0da87b1da"
+ },
+ {
   "title": "Resmi Gazete'de yayımlandı... AYM, 'süresiz nafaka' hükmünü iptal etti: 9 ay sonra yürürlüğe girecek",
   "link": "https://www.cumhuriyet.com.tr/turkiye/resmi-gazete-de-yayimlandi-aym-suresiz-nafaka-hukmu-iptal-edildi-9-ay-sonra-yururluge-girecek-2542329",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-23T10:01:04.381924+00:00",
   "type": "news",
   "cluster_id": "c79e2d147390f"
- },
- {
-  "title": "Suriye Dışişleri Bakanı: İsrail'le temaslarımızı kestik",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNajRSU3hVMVlELTRqY3FqaGV4NkMtWHZZYTVtZ19ERkRxS0pBenlVRHJubGpKQXlGZEp3WDRsb2lVNWtaQm5aejd5Nmo5S2NXTEJPNEtlVFp4T0xES1RGbk1uZERsSlZ5eUo5YXJPeERfQXg5aFlkeXI1VFc4WGlDbmdWT215QzlOOU8zY0hTQmQ3NDZjMUE?oc=5",
-  "source": "soL",
-  "summary_tr": "Suriye Dışişleri Bakanı, İsrail ile temaslarını kestiklerini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-23T10:01:04.381924+00:00",
-  "type": "news",
-  "cluster_id": "c347649676964"
- },
- {
-  "title": "Türkiye'nin elektrik kurulu gücü 126 bin 476 megavata ulaştı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-elektrik-kurulu-gucu-126-bin-476-megavata-ulasti/4035006",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye'nin elektrik kurulu gücü temmuz sonu itibarıyla 126 bin 476 megavata yükseldi.",
-  "metric": "Elektrik kurulu gücü 126.476 megavat",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-23T10:01:04.381924+00:00",
-  "type": "news",
-  "cluster_id": "c75cb95e36617"
  }
 ]
