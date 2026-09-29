@@ -9,7 +9,7 @@ Akis:
   3. Kalan adaylar tek bir Claude API cagrisiyla degerlendirilir; her keep=true item icin
      LLM kisa ozet + siyasi yon (left/neutral/right) doner. LLM'e son 48 saatin olaylari da
      verilir: her haber mevcut bir olaya baglanir (yeni gelisme mi, tekrar mi) ya da yeni olay acar.
-  4. Katmanli bildirim (DM + kanal ayni kural): 9-10 puan aninda "son dakika", 7-8 puan
+  4. Katmanli bildirim (DM + kanal ayni kural): 8-10 puan aninda "son dakika", 7 puan
      3 saatlik ozet mesajina (olay basina tek satir), 6 puan sadece web. Ayni olayin
      tekrari bildirim uretmez.
   5. news_data.json'a kaydedilir (dashboard buradan okur), state dosyasi (sent_ids.json) yazilir.
@@ -68,10 +68,13 @@ PER_FEED_LIMIT       = 10
 MIN_SCORE            = 6    # web/dashboard'a kayit esigi (6 = sadece arsiv, bildirim yok)
 MAX_KEEP             = 25   # run basina web'e kaydedilecek max haber
 
-# Katmanli bildirim: 9-10 aninda, 7-8 3 saatlik ozette, 6 sadece web.
-URGENT_SCORE         = 9
+# Katmanli bildirim: 8-10 aninda, 7 3 saatlik ozette, 6 sadece web.
+# (Prompt'taki puan tanimlari onem olcegidir; esikler burada belirlenir. Prompt,
+#  8+'in ~gunde 5-10 son dakika urettigi olculerek kalibre edildi — degistirirken tekrar olc.)
+URGENT_SCORE         = 8
+CRITICAL_SCORE       = 9    # 9-10: ayni olayda daha sik son dakikaya izin var
 DIGEST_SCORE         = 7
-MAX_URGENT_PER_DAY   = 6    # asilirsa urgent'lar da ozete duser
+MAX_URGENT_PER_DAY   = 8    # asilirsa urgent'lar da ozete duser
 DIGEST_HOURS         = (0, 9, 12, 15, 18, 21)  # TR saati, ozet slotlari
 DIGEST_MAX_ITEMS     = 8
 DIGEST_SILENT        = True # ozet sessiz bildirimle gelsin (son dakika sesli)
@@ -82,7 +85,8 @@ TG_MAX_CHARS         = 3900 # Telegram limiti 4096 (gorunen metin)
 # tekrari bildirim uretmez, sadece somut yeni gelisme uretir.
 STORY_MEMORY_HOURS   = 48
 STORY_PROMPT_LIMIT   = 80
-URGENT_RESEND_GAP_H  = 1    # ayni olay icin iki son dakika arasi min sure
+URGENT_RESEND_GAP_H  = 3    # ayni olay icin iki son dakika arasi min sure (8 puan)
+CRITICAL_RESEND_GAP_H = 1   # 9-10 puan icin
 HOT_STORY_COUNT      = 10   # 48 saatte bu kadar haber -> ozette "🔥 Gundem" etiketi
 MAX_DATA_CANDIDATES  = 60
 DATA_PER_FEED_LIMIT  = 8
@@ -1123,12 +1127,14 @@ def main():
         if already_notified and not group["new_dev"]:
             repeats += 1           # ayni olayin tekrari: bildirim yok, sadece web
         elif top["score"] >= URGENT_SCORE:
+            gap = CRITICAL_RESEND_GAP_H if top["score"] >= CRITICAL_SCORE else URGENT_RESEND_GAP_H
             can_urgent = (not quiet
                           and len(state["urgent_log"]) < MAX_URGENT_PER_DAY
-                          and _hours_since(story.get("notified_ts", "")) >= URGENT_RESEND_GAP_H)
+                          and _hours_since(story.get("urgent_ts", "")) >= gap)
             if can_urgent and deliver_urgent(group, is_update):
                 urgent_sent += 1
                 story["notified_ts"] = now_iso
+                story["urgent_ts"] = now_iso
                 state["urgent_log"].append(now_iso)
                 # Ayni olay ozette bekliyorsa artik gerek yok
                 state["pending"] = [p for p in state["pending"] if p["story_id"] != story["id"]]
