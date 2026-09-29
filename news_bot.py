@@ -74,7 +74,7 @@ MAX_KEEP             = 25   # run basina web'e kaydedilecek max haber
 URGENT_SCORE         = 8
 CRITICAL_SCORE       = 9    # 9-10: ayni olayda daha sik son dakikaya izin var
 DIGEST_SCORE         = 7
-MAX_URGENT_PER_DAY   = 8    # asilirsa urgent'lar da ozete duser
+MAX_URGENT_PER_DAY   = 8    # gunluk sesli son dakika MESAJI (ayni run'dakiler tek mesajda toplanir); asilirsa ozete duser
 DIGEST_HOURS         = (0, 9, 12, 15, 18, 21)  # TR saati, ozet slotlari
 DIGEST_MAX_ITEMS     = 8
 DIGEST_SILENT        = True # ozet sessiz bildirimle gelsin (son dakika sesli)
@@ -454,7 +454,7 @@ SCORE skalasi (1-10):
 - 6: Onemli ama ikinci derece (arsive gider)
 - 1-5: Sinirda, gondermeyecegim (keep=false yap)
 
-OLAY HAFIZASI (tekrari onlemek icin kritik): Sana son 48 saatte islenmis OLAYLARIN listesi verilecek ([s12] baslik — ozet). Olay = belirli somut bir vaka/karar zinciri (or. "fon sorusturmasi", "TCMB doviz donusum destegi degisikligi", "X sirketinin konkordatosu"). Ayni genel temadaki FARKLI vakalar (farkli sorusturma, farkli sirket, farkli dava, farkli ulke) AYRI olaydir; sadece ortak bir tema ("skandal", "yargi", "ekonomi") yuzunden birlestirme. Listede olay once kalici konu adiyla, sonra son gelismesiyle ve bilinen onceki gelismeleriyle verilir: aday o KONUYA aitse o olaydir, son gelismeyle ayni olmasi gerekmez. Listede (son veya onceki gelisme olarak) zaten gecen bir gelisme new_dev=false'tur. Her keep=true aday icin:
+OLAY HAFIZASI (tekrari onlemek icin kritik): Sana son 48 saatte islenmis OLAYLARIN listesi verilecek ([s12] baslik — ozet). Olay = belirli somut bir vaka/karar zinciri (or. "fon sorusturmasi", "TCMB doviz donusum destegi degisikligi", "X sirketinin konkordatosu"). Ayni vakanin alt adimlari (ayni sorusturma kapsamindaki gozalti, tutuklama, iade, istifa, suc duyurusu, aciklama, tepki) AYNI olaydir — alt olaylara BOLME. FARKLI vaka ise baska bir sorusturma/sirket/dava/ulke konusudur (or. fon sorusturmasi ile MASAK casusluk sorusturmasi ayri olaylardir); sadece ortak bir tema ("skandal", "yargi", "ekonomi") yuzunden birlestirme. Listede olay once kalici konu adiyla, sonra son gelismesiyle ve bilinen onceki gelismeleriyle verilir: aday o KONUYA aitse o olaydir, son gelismeyle ayni olmasi gerekmez. Listede (son veya onceki gelisme olarak) zaten gecen bir gelisme new_dev=false'tur. Her keep=true aday icin:
 - story: Aday listedeki bir olayla AYNI vakayi anlatiyorsa o olayin id'si ("s12"). Degilse yeni olay etiketi "n1", "n2", ... — bu listede AYNI yeni vakayi anlatan TUM adaylara (farkli kaynak, farkli kelime olsa bile) AYNI n-etiketini ver.
 - new_dev: story mevcut bir s-id ise: aday o olaya gore SOMUT YENI bir adim iceriyorsa true (gozalti -> tutuklama, aciklama -> karar, yeni rakam, yeni taraf/aktor). Ayni seyin baska kaynaktan/kelimelerle tekrari, yorum, arka plan, "kimdir/ne oldu" yazilari false. Yeni olaylar (n-etiketi) icin true.
 - topic: story yeni bir n-etiketi ise, olayin 2-6 kelimelik KALICI konu adi (or. "Fon krizi sorusturmasi", "Hakem sorusturmasi", "AYM YENI Parti isim davasi"). Tek bir gelismeyi degil vakanin kendisini adlandir. Mevcut s-id icin: listede konu adi ("... | son gelisme:") zaten varsa bos birak, yoksa ver.
@@ -829,6 +829,44 @@ def deliver_urgent(group, is_update: bool) -> bool:
         f"<a href='{_esc(top['link'])}'>→ Habere git</a>"
     )
     return broadcast(msg)
+
+
+def send_urgent_batch(state, urgent, now_iso) -> int:
+    """Run'daki son dakikalari TEK sesli mesajda gonder (tek bildirim sesi).
+    Gunluk mesaj limiti dolmussa veya gonderim basarisizsa hepsi ozete duser. Donus: gonderilen olay sayisi."""
+    if not urgent:
+        return 0
+    if len(state["urgent_log"]) >= MAX_URGENT_PER_DAY:
+        for group, story, is_update in urgent:
+            queue_for_digest(state, pending_entry(group, story, is_update, now_iso))
+        return 0
+    urgent.sort(key=lambda u: -u[0]["members"][0]["score"])
+    if len(urgent) == 1:
+        sent = urgent if deliver_urgent(urgent[0][0], urgent[0][2]) else []
+    else:
+        header = f"<b>🔴 SON DAKİKA ({len(urgent)})</b>"
+        lines, sent = [], []
+        for u in urgent:
+            line = _digest_line(pending_entry(u[0], u[1], u[2], now_iso))
+            if _visible_len("\n\n".join([header] + lines + [line])) > TG_MAX_CHARS:
+                break
+            lines.append(line)
+            sent.append(u)
+        if not broadcast("\n\n".join([header] + lines)):
+            sent = []
+    sent_ids = {id(u) for u in sent}
+    for u in urgent:
+        group, story, is_update = u
+        if id(u) in sent_ids:
+            story["notified_ts"] = now_iso
+            story["urgent_ts"] = now_iso
+            # Ayni olay ozette bekliyorsa artik gerek yok
+            state["pending"] = [p for p in state["pending"] if p["story_id"] != story["id"]]
+        else:
+            queue_for_digest(state, pending_entry(group, story, is_update, now_iso))
+    if sent:
+        state["urgent_log"].append(now_iso)
+    return len(sent)
 
 
 def _subs_block(subs) -> str:
@@ -1233,6 +1271,7 @@ def main():
     news_data = load_news_data()
     now_iso = datetime.now(timezone.utc).isoformat()
     urgent_sent = queued = repeats = web_recorded = 0
+    urgent = []
     for group in groups:
         story, existed = upsert_story(state, group, now_iso)
         top = group["members"][0]
@@ -1243,16 +1282,8 @@ def main():
             repeats += 1           # ayni olayin tekrari: bildirim yok, sadece web
         elif top["score"] >= URGENT_SCORE:
             gap = CRITICAL_RESEND_GAP_H if top["score"] >= CRITICAL_SCORE else URGENT_RESEND_GAP_H
-            can_urgent = (not quiet
-                          and len(state["urgent_log"]) < MAX_URGENT_PER_DAY
-                          and _hours_since(story.get("urgent_ts", "")) >= gap)
-            if can_urgent and deliver_urgent(group, is_update):
-                urgent_sent += 1
-                story["notified_ts"] = now_iso
-                story["urgent_ts"] = now_iso
-                state["urgent_log"].append(now_iso)
-                # Ayni olay ozette bekliyorsa artik gerek yok
-                state["pending"] = [p for p in state["pending"] if p["story_id"] != story["id"]]
+            if not quiet and _hours_since(story.get("urgent_ts", "")) >= gap:
+                urgent.append((group, story, is_update))   # run sonunda tek mesajda gonderilir
             else:
                 queue_for_digest(state, pending_entry(group, story, is_update, now_iso))
                 queued += 1
@@ -1286,6 +1317,8 @@ def main():
             "cluster_id": story["cluster_id"],
         })
 
+    urgent_sent = send_urgent_batch(state, urgent, now_iso)
+    queued += len(urgent) - urgent_sent
     digest_sent = maybe_flush_digest(state, quiet)
     log(f"Bildirim: {urgent_sent} son dakika, {queued} ozete eklendi, {repeats} tekrar elendi, "
         f"ozet: {digest_sent} haber gonderildi. Bekleyen: {len(state['pending'])}.")
