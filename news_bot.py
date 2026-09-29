@@ -85,9 +85,17 @@ TG_MAX_CHARS         = 3900 # Telegram limiti 4096 (gorunen metin)
 # tekrari bildirim uretmez, sadece somut yeni gelisme uretir.
 STORY_MEMORY_HOURS   = 48
 STORY_PROMPT_LIMIT   = 80
+STORY_DEVS_KEEP      = 10   # olay basina hafizada tutulan son gelisme basliklari
+STORY_DEVS_PROMPT    = 8    # bunlardan LLM'e gosterilen
 URGENT_RESEND_GAP_H  = 3    # ayni olay icin iki son dakika arasi min sure (8 puan)
 CRITICAL_RESEND_GAP_H = 1   # 9-10 puan icin
 HOT_STORY_COUNT      = 10   # 48 saatte bu kadar haber -> ozette "🔥 Gundem" etiketi
+# Ayni olay icindeki FARKLI gelismeler mesajda "↳" alt satiri olarak gosterilir. Ayirt etme
+# LLM'in gelisme etiketiyle (dev) ve new_dev kararina gore yapilir; baslik benzerligi
+# yalnizca bariz kopyalari yakalayan yedek kontroldur (kelime sayimi paraphrase'i ayiramiyor).
+SUB_DUP_SIMILARITY   = 0.5
+SUB_MIN_SCORE        = 7
+MAX_SUBS             = 3
 MAX_DATA_CANDIDATES  = 60
 DATA_PER_FEED_LIMIT  = 8
 MAX_DATA_DELIVER     = 8
@@ -349,12 +357,21 @@ def is_duplicate(title: str, link: str, state) -> bool:
 
 # --- Toplama ---------------------------------------------------------------
 def fix_mojibake(text: str) -> str:
-    """UTF-8'i latin-1 sanilarak bozulmus basliklari onar (or. TRT: 'BakanÄ±' -> 'Bakanı')."""
+    """UTF-8'i latin-1/cp1252 sanilarak bozulmus basliklari onar
+    (or. TRT: 'BakanÄ±' -> 'Bakanı', 'iÅŸten' -> 'işten')."""
     if "Ã" not in text and "Ä" not in text and "Å" not in text:
         return text
+    raw = bytearray()
+    for ch in text:
+        try:
+            raw += ch.encode("cp1252")
+        except UnicodeEncodeError:
+            if ord(ch) > 255:
+                return text          # bozuk degil, gercek Unicode karakter var
+            raw.append(ord(ch))      # cp1252'de tanimsiz bayt (0x81, 0x8D, ...) latin-1 olarak gelmis
     try:
-        return text.encode("latin-1").decode("utf-8")
-    except (UnicodeEncodeError, UnicodeDecodeError):
+        return raw.decode("utf-8")
+    except UnicodeDecodeError:
         return text
 
 
@@ -437,9 +454,11 @@ SCORE skalasi (1-10):
 - 6: Onemli ama ikinci derece (arsive gider)
 - 1-5: Sinirda, gondermeyecegim (keep=false yap)
 
-OLAY HAFIZASI (tekrari onlemek icin kritik): Sana son 48 saatte islenmis OLAYLARIN listesi verilecek ([s12] baslik — ozet). Olay = belirli somut bir vaka/karar zinciri (or. "fon sorusturmasi", "TCMB doviz donusum destegi degisikligi", "X sirketinin konkordatosu"). Her keep=true aday icin:
+OLAY HAFIZASI (tekrari onlemek icin kritik): Sana son 48 saatte islenmis OLAYLARIN listesi verilecek ([s12] baslik — ozet). Olay = belirli somut bir vaka/karar zinciri (or. "fon sorusturmasi", "TCMB doviz donusum destegi degisikligi", "X sirketinin konkordatosu"). Ayni genel temadaki FARKLI vakalar (farkli sorusturma, farkli sirket, farkli dava, farkli ulke) AYRI olaydir; sadece ortak bir tema ("skandal", "yargi", "ekonomi") yuzunden birlestirme. Listede olay once kalici konu adiyla, sonra son gelismesiyle ve bilinen onceki gelismeleriyle verilir: aday o KONUYA aitse o olaydir, son gelismeyle ayni olmasi gerekmez. Listede (son veya onceki gelisme olarak) zaten gecen bir gelisme new_dev=false'tur. Her keep=true aday icin:
 - story: Aday listedeki bir olayla AYNI vakayi anlatiyorsa o olayin id'si ("s12"). Degilse yeni olay etiketi "n1", "n2", ... — bu listede AYNI yeni vakayi anlatan TUM adaylara (farkli kaynak, farkli kelime olsa bile) AYNI n-etiketini ver.
 - new_dev: story mevcut bir s-id ise: aday o olaya gore SOMUT YENI bir adim iceriyorsa true (gozalti -> tutuklama, aciklama -> karar, yeni rakam, yeni taraf/aktor). Ayni seyin baska kaynaktan/kelimelerle tekrari, yorum, arka plan, "kimdir/ne oldu" yazilari false. Yeni olaylar (n-etiketi) icin true.
+- topic: story yeni bir n-etiketi ise, olayin 2-6 kelimelik KALICI konu adi (or. "Fon krizi sorusturmasi", "Hakem sorusturmasi", "AYM YENI Parti isim davasi"). Tek bir gelismeyi degil vakanin kendisini adlandir. Mevcut s-id icin: listede konu adi ("... | son gelisme:") zaten varsa bos birak, yoksa ver.
+- dev: Ayni olay (ayni story etiketi) icinde AYNI SOMUT gelismeyi (ayni olgu/karar/aciklama) anlatan adaylara AYNI kisa etiketi ver ("d1", "d2", ...); FARKLI gelismelere farkli etiket. Ayni haberin farkli kaynak/kelimelerle verilmis versiyonlari ayni dev etiketini alir.
 - TEKRARI ELEME: Mevcut bir olayin baska kaynaktaki tekrari, olay onemliyse yine keep=true olsun (new_dev=false). Bildirim uretmez ama arsivde olayin kaynak cesitliligi olarak gorunur. Puanini olayin onemine gore ver.
 
 OZET (summary_tr): keep=true ise haberi 1-2 Turkce cumlede ozetle (max 240 karakter). Spesifik ol; "aciklama yapildi" gibi mubhem ifadeler kullanma — KIM, NE yapti/karar verdi yaz.
@@ -449,8 +468,8 @@ METRIK (metric): Haberde bir oncekiyle KIYASLANABILIR sayisal degisim VARSA su f
 LEAN: keep=true ise haberin/kaynagin siyasi yonelimi: "left" / "neutral" / "right". Kaynak ipucu sana verilecek (default_lean) ama icerik farkli bir yon gosteriyorsa override et. Reuters/AP/BBC/DW gibi uluslararasi servisler neutral'dir; haber Turk hukumetini destekleyici dille anlatiyorsa right, elestiriyorsa left dusunulebilir. Emin degilsen neutral.
 
 Cikti format'i ZORUNLU: yalniz gecerli JSON array. Her item:
-{"i": <int>, "keep": <bool>, "score": <1-10 int>, "story": "s12|n1", "new_dev": <bool>, "summary_tr": "...", "metric": "...", "lean": "left|neutral|right"}
-keep=false ise story, new_dev, summary_tr, metric ve lean atlanabilir. metric yoksa "" birak. Aciklama veya markdown yazma."""
+{"i": <int>, "keep": <bool>, "score": <1-10 int>, "story": "s12|n1", "topic": "...", "dev": "d1", "new_dev": <bool>, "summary_tr": "...", "metric": "...", "lean": "left|neutral|right"}
+keep=false ise story, topic, dev, new_dev, summary_tr, metric ve lean atlanabilir. metric yoksa "" birak. Aciklama veya markdown yazma."""
 
 
 def _stories_prompt_block(stories) -> str:
@@ -461,8 +480,15 @@ def _stories_prompt_block(stories) -> str:
     def size(s):
         n, k = s.get("count", 1), len(s.get("sources", []))
         return f" ({STORY_MEMORY_HOURS} saatte {n} haber, {k} kaynak)" if n > 1 else ""
+    def head(s):
+        topic = s.get("topic")
+        h = f"{topic} | son gelisme: {s['title'][:100]}" if topic else s["title"][:110]
+        older = [d for d in s.get("devs", []) if d != s["title"]][-STORY_DEVS_PROMPT:]
+        if older:
+            h += " | bilinen onceki gelismeler: " + "; ".join(d[:70] for d in older)
+        return h
     return "\n".join(
-        f"[{s['id']}]{size(s)} {s['title'][:110]}" + (f" — {s['summary'][:140]}" if s.get("summary") else "")
+        f"[{s['id']}]{size(s)} {head(s)}" + (f" — {s['summary'][:120]}" if s.get("summary") else "")
         for s in recent
     )
 
@@ -489,6 +515,8 @@ def llm_filter(candidates, stories):
         return []
 
     known_ids = {s["id"] for s in stories}
+    # Olay basina bilinen gelismelerin token'lari: LLM bilinen bir gelismeyi yeni sansa bile duzelt
+    known_devs = {s["id"]: [tokenize(d) for d in s.get("devs", []) + [s["title"]]] for s in stories}
     keepers = []
     for v in verdicts:
         try:
@@ -511,11 +539,15 @@ def llm_filter(candidates, stories):
             story = str(v.get("story") or "").strip().lower()
             if story in known_ids:
                 item["story_key"] = story
-                item["new_dev"] = bool(v.get("new_dev"))
+                item["new_dev"] = bool(v.get("new_dev")) and not any(
+                    jaccard(item["tokens"], t) >= SUB_DUP_SIMILARITY for t in known_devs[story])
             else:
                 # Yeni olay: LLM'in n-etiketi (ayni run'da ayni olayi birlestirir) veya tekil
                 item["story_key"] = ("new:" + story) if re.fullmatch(r"n\d+", story) else f"new:solo{i}"
                 item["new_dev"] = True
+            item["topic"] = (v.get("topic") or "").strip()[:60]
+            dev = str(v.get("dev") or "").strip().lower()
+            item["dev_key"] = f"{item['story_key']}|{dev}" if re.fullmatch(r"d\d+", dev) else f"solo{i}"
             keepers.append(item)
         except Exception:
             continue
@@ -546,10 +578,46 @@ def group_by_story(keepers):
     return out
 
 
+def pick_subs(group):
+    """Gruptaki farkli gelismeleri sec: 7+ puan, LLM'e gore yeni gelisme ve temsilciden farkli dev etiketi.
+    Donus: (gosterilecek alt gelismeler, MAX_SUBS'a sigmayan gelismelerin linkleri)."""
+    top = group["members"][0]
+    shown_devs = {top.get("dev_key")}
+    shown = [top["tokens"]]
+    subs, extra = [], []
+    for m in group["members"][1:]:
+        if m["score"] < SUB_MIN_SCORE or not m.get("new_dev"):
+            continue
+        if m.get("dev_key") in shown_devs:
+            continue
+        if any(jaccard(m["tokens"], t) >= SUB_DUP_SIMILARITY for t in shown):
+            continue
+        shown_devs.add(m.get("dev_key"))
+        shown.append(m["tokens"])
+        if len(subs) < MAX_SUBS:
+            subs.append({"title": m["title"], "source": m["source"], "link": m["link"]})
+        else:
+            extra.append(m["link"])
+    return subs, extra
+
+
 def _hours_since(iso: str) -> float:
     if not iso:
         return 1e9
     return (datetime.now(timezone.utc) - datetime.fromisoformat(iso)).total_seconds() / 3600
+
+
+def _remember_devs(story, group):
+    """Gruptaki yeni gelismelerin basliklarini (dev etiketi basina bir tane) olay hafizasina ekle."""
+    devs = story.setdefault("devs", [])
+    seen_keys = set()
+    for m in group["members"]:
+        if not m.get("new_dev") or m.get("dev_key") in seen_keys:
+            continue
+        seen_keys.add(m.get("dev_key"))
+        if m["title"] not in devs:
+            devs.append(m["title"][:120])
+    story["devs"] = devs[-STORY_DEVS_KEEP:]
 
 
 def upsert_story(state, group, now_iso):
@@ -561,18 +629,24 @@ def upsert_story(state, group, now_iso):
         if story:
             story["last_ts"] = now_iso
             story["count"] = story.get("count", 1) + len(group["members"])
+            if not story.get("topic"):
+                story["topic"] = next((m["topic"] for m in group["members"] if m.get("topic")), "")
             story["score"] = max(story.get("score", 0), top["score"])
             story["sources"] = sorted(set(story.get("sources", [])) | set(sources))
             if group["new_dev"]:
                 # Son gelismeyi hafizada tut ki LLM bir sonraki adimi kiyaslayabilsin
+                if story["title"] not in story.setdefault("devs", []):
+                    story["devs"].append(story["title"][:120])
                 story["title"] = top["title"][:160]
                 story["summary"] = top.get("summary_tr", "")[:240]
+                _remember_devs(story, group)
             return story, True
     state["story_seq"] = state.get("story_seq", 0) + 1
     story = {
         "id":          f"s{state['story_seq']}",
         # Dashboard gruplamasi icin kalici, cakismayan id
         "cluster_id":  "st" + hashlib.md5(f"{top['title']}|{now_iso}".encode()).hexdigest()[:10],
+        "topic":       next((m["topic"] for m in group["members"] if m.get("topic")), ""),
         "title":       top["title"][:160],
         "summary":     top.get("summary_tr", "")[:240],
         "first_ts":    now_iso,
@@ -582,12 +656,15 @@ def upsert_story(state, group, now_iso):
         "count":       len(group["members"]),
         "sources":     sorted(set(sources)),
     }
+    _remember_devs(story, group)
     state["stories"].append(story)
     return story, False
 
 
 def pending_entry(group, story, is_update, now_iso):
     top = group["members"][0]
+    subs, extra = pick_subs(group)
+    dev_links = {x["link"] for x in subs} | set(extra)
     return {
         "story_id":   story["id"],
         "title":      top["title"],
@@ -597,12 +674,34 @@ def pending_entry(group, story, is_update, now_iso):
         "link":       top["link"],
         "lean":       top["lean"],
         "score":      top["score"],
-        "others":     [m["source"] for m in group["members"][1:]],
+        "others":     [m["source"] for m in group["members"][1:] if m["link"] not in dev_links],
+        "subs":       subs,
+        "new_dev":    group["new_dev"],
         "is_update":  is_update,
-        "extra_devs": 0,
+        "extra_devs": len(extra),
         "story_count": story.get("count", 1),
         "ts":         now_iso,
     }
+
+
+def _merge_subs(winner, loser, distinct: bool):
+    """Birlesen iki bekleyen kaydin gelismelerini kazananin alt satirlarinda topla.
+    distinct: yeni gelen kayit LLM'e gore yeni gelisme mi (degilse ayni haberin kopyasi)."""
+    cands = []
+    if distinct:
+        cands.append({"title": loser["title"], "source": loser["source"], "link": loser["link"]})
+    cands += loser.get("subs", [])
+    shown = [tokenize(winner["title"])] + [tokenize(x["title"]) for x in winner.get("subs", [])]
+    subs = list(winner.get("subs", []))
+    for c in cands:
+        t = tokenize(c["title"])
+        if any(jaccard(t, x) >= SUB_DUP_SIMILARITY for x in shown):
+            continue
+        shown.append(t)
+        subs.append(c)
+    overflow = max(0, len(subs) - MAX_SUBS)
+    winner["subs"] = subs[:MAX_SUBS]
+    return overflow
 
 
 def queue_for_digest(state, entry):
@@ -610,15 +709,20 @@ def queue_for_digest(state, entry):
     for i, p in enumerate(state["pending"]):
         if p["story_id"] != entry["story_id"]:
             continue
-        others = sorted((set(p.get("others", [])) | set(entry["others"]) | {p["source"]}) - {entry["source"]})
         if entry["score"] >= p["score"]:
-            entry["others"] = others
-            entry["extra_devs"] = p.get("extra_devs", 0) + (1 if entry["is_update"] else 0)
-            entry["is_update"] = entry["is_update"] or p.get("is_update", False)
+            winner, loser = entry, p
             state["pending"][i] = entry
         else:
-            p["others"] = sorted((set(p.get("others", [])) | set(entry["others"]) | {entry["source"]}) - {p["source"]})
-            p["extra_devs"] = p.get("extra_devs", 0) + (1 if entry["is_update"] else 0)
+            winner, loser = p, entry
+        overflow = _merge_subs(winner, loser, bool(entry.get("new_dev")))
+        # Alt satira dusmeyen kayit ayni haberin kopyasidir -> kaynak sayisina ekle
+        sub_links = {x["link"] for x in winner["subs"]}
+        pool = set(winner.get("others", [])) | set(loser.get("others", []))
+        if loser["link"] not in sub_links:
+            pool.add(loser["source"])
+        winner["others"] = sorted(pool - {winner["source"]})
+        winner["extra_devs"] = winner.get("extra_devs", 0) + loser.get("extra_devs", 0) + overflow
+        winner["is_update"] = winner.get("is_update", False) or loser.get("is_update", False)
         return
     state["pending"].append(entry)
 
@@ -711,16 +815,26 @@ def deliver_urgent(group, is_update: bool) -> bool:
     head = "🔄 GELİŞME" if is_update else "🔴 SON DAKİKA"
     summary_line = f"\n<i>{_esc(top['summary_tr'])}</i>" if top.get("summary_tr") else ""
     metric_line = f"\n📊 <b>{_esc(top['metric'])}</b>" if top.get("metric") else ""
+    subs, extra = pick_subs(group)
+    dev_links = {x["link"] for x in subs} | set(extra)
+    copies = [m["source"] for m in group["members"][1:] if m["link"] not in dev_links]
     coverage = ""
-    if len(group["members"]) > 1:
-        others = [m["source"] for m in group["members"][1:6]]
-        coverage = f"\n<i>+ {len(group['members']) - 1} kaynak daha: {_esc(', '.join(others))}</i>"
+    if extra:
+        coverage += f"\n<i>+ {len(extra)} gelişme daha</i>"
+    if copies:
+        coverage += f"\n<i>+ {len(copies)} kaynak daha: {_esc(', '.join(copies[:5]))}</i>"
     msg = (
         f"<b>{head} · {icon} {_esc(top['source'])}</b> {lean_dot}\n"
-        f"<b>{_esc(top['title'])}</b>{metric_line}{summary_line}{coverage}\n"
+        f"<b>{_esc(top['title'])}</b>{metric_line}{summary_line}{_subs_block(subs)}{coverage}\n"
         f"<a href='{_esc(top['link'])}'>→ Habere git</a>"
     )
     return broadcast(msg)
+
+
+def _subs_block(subs) -> str:
+    return "".join(
+        f"\n↳ {_esc(x['title'])} (<a href='{_esc(x['link'])}'>{_esc(x['source'])}</a>)" for x in subs
+    )
 
 
 def _digest_line(p) -> str:
@@ -735,6 +849,7 @@ def _digest_line(p) -> str:
         line += f"\n📊 {_esc(p['metric'])}"
     if p.get("summary_tr"):
         line += f"\n<i>{_esc(p['summary_tr'])}</i>"
+    line += _subs_block(p.get("subs", []))
     src = f"<a href='{_esc(p['link'])}'>{_esc(p['source'])}</a>"
     if p.get("others"):
         src += f" · +{len(p['others'])} kaynak"
