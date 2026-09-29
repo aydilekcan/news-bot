@@ -1,5 +1,17 @@
 [
  {
+  "title": "Ukraine's Zelenskiy says North Korea prepares to deploy another 10,000 troops to Russia",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYjdRek9lejNoZkhSRjhkQmg3VGpvc1dBNERSVFg3VWk1MHJHZXhhdVp2S1Q4bFNGZFlreHc4OVFfejBsd3NZNjVTVS1QQVBUNjBVZTFGOHprbFBmTXl5Q0RPNmVyYWY4OWtpXzJKd2dXSmdxVVhYUmdESVcyVXBzeEJrdjRVbEJaNkZUaHNjeHZ0SjNGMXd0RkhRVzlkeDB6NkF4Tm9kVXByS1RXT21ha2E5Y191Zzh6UVhxaDJOaG11RWdMWHZHcnJWY3kzbEk?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Zelenskiy, Kuzey Kore'nin Rusya'ya 10.000 ek asker göndermesine hazırlandığını bildirdi. Bu, savaşın uluslararasılaşmasını işaret ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-09-29T01:00:57.676285+00:00",
+  "type": "news",
+  "cluster_id": "cddd8c0a6466c"
+ },
+ {
   "title": "US FAA delays Boeing 737 MAX 10 certification, shares dive 7%",
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNGlQLVZob2RhU3RMWndhblU2bVduUVlzX001SjFlQnM2UVUwY3lvb0FyRktaZGExbDMzajc5V3ZYN3FIeGJPQ2c1V2FjWXJmb2FGdnJPVnhzT2ZlbDkxdFRMZXZlX3RHMXNpZkUwb0VBTnJoRHJoSk5HOGZkWnZ6RGJ4b0MxdGVjUXY2ZGdSbWZRZ3RTcFJ1RmdBeTRTRjREc0pldnZnRmEtRWl4QmlWMkk5YzQzcDlMUXZR?oc=5",
   "source": "Reuters",
@@ -59986,17 +59998,5 @@
   "ts": "2026-08-21T10:01:14.084776+00:00",
   "type": "news",
   "cluster_id": "c112e1ad8c9f7"
- },
- {
-  "title": "Bahçeli: İsrail'in etkisizleştirilmesi zorunluluk",
-  "link": "https://www.diken.com.tr/bahceli-israilin-etkisizlestirilmesi-zorunluluk/?utm_source=rss&utm_medium=rss&utm_campaign=bahceli-israilin-etkisizlestirilmesi-zorunluluk",
-  "source": "Diken",
-  "summary_tr": "MHP Genel Başkanı Devlet Bahçeli, İsrail'in 'etkisizleştirilmesi'nin zorunlu olduğunu söyledi.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-21T10:01:14.084776+00:00",
-  "type": "news",
-  "cluster_id": "c94167eeafb1d"
  }
 ]
