@@ -1,5 +1,53 @@
 [
  {
+  "title": "S-400’lerin devri için Putin’den 3 şart geldi",
+  "link": "https://www.sozcu.com.tr/s-400-lerin-devri-icin-putin-den-3-sart-geldi-p364375",
+  "source": "Sözcü",
+  "summary_tr": "Rusya, S-400 sistemlerinin Türkiye'ye devri için Putin'in onayı ve dostane ilişki şartlarını belirledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-29T03:01:04.681924+00:00",
+  "type": "news",
+  "cluster_id": "cec8b06289f7d"
+ },
+ {
+  "title": "Mediators are working to broker a US-Iran deal, but major hurdles remain",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWXZybWpYdGZCWHd5WlBiVFg4cDR1LXFIeGFyakJFaVZXbEJ1S3U3ZjIwTkxqVE5mOGR0Q1dERkZmSlNwZ0RZNnd5anlvTktKc2h3aUVCOVhLLUpsNGp3eVZtakc3dHJhbkNCTGFwZ3NQZG02ZTV3TVEtYy1qcTlaMnNpRV9Cci1pTTByTTZFOGFIMXNEQS1udGlFZm54Z0lWNjd3bw?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD-İran anlaşması için arabulucular çalışmalarını sürdürüyor, ancak önemli engeller devam ediyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-29T03:01:04.681924+00:00",
+  "type": "news",
+  "cluster_id": "c2434f88d0dd7"
+ },
+ {
+  "title": "Oil prices rise for second session on continued Middle East supply concern",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPalFIekNtR2pWcEdaNDNsUElsMTRodXZvOVBPbFJnSFlhbDlqbldRbE1TTGVUeTJGN2NRTk4zUGFlWG1NTl9PUkVjNHVzbnZ4YVJxbXg5aVZfZXJzYWhDa3FfZl92OG5Ic3ZNWEluX0N5ZV9aRlRYYXVYeUNUR3lXVGo1dHp4dmdzaF9pZDVGMjVCUGptMU5YcmlzcEhBa2t1NTZMMmsyeFVBWnNPLVJxS2NoM0FIUEQ0Q2ZF?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Orta Doğu'daki arz endişeleri nedeniyle petrol fiyatları ikinci gün üst üste yükseldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-29T03:01:04.681924+00:00",
+  "type": "news",
+  "cluster_id": "cdc2d234e5e77"
+ },
+ {
+  "title": "Trump disputes his ambassador's account that he asked China's president if he wanted to buy US arms",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0RpWWZ5VnRieXhDRkcyTE9ieGRNTkFCc1gxZzBiMkQ5LTZ5cUdwT1BLbTdSSGtGc042MWxUbXVzanZwTUJJcmpWN1JQTEpWOUdsNFdQdm8wTjZOUlU4eUNyMGdic3NXZG9fUV9pcHVwRi13Z3I0ZDNpdG1yWG9qUFVxczFoRlNCNEdUOE45VVM4TEEzU3Q5dQ?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump, Çin'e silah satışını teklif ettiğine dair büyükelçisinin iddiasını yalanladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-29T03:01:04.681924+00:00",
+  "type": "news",
+  "cluster_id": "c534ed81726bb"
+ },
+ {
   "title": "Cirolar enflasyona yetişemedi, kiralar gecikmeye başladı: Perakendeci 2027’den umutsuz",
   "link": "https://www.cumhuriyet.com.tr/turkiye/cirolar-enflasyona-yetisemedi-kiralar-gecikmeye-basladi-perakendeci-2027-den-umutsuz-2541940",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-21T11:01:13.374992+00:00",
   "type": "news",
   "cluster_id": "c50b5fdbca051"
- },
- {
-  "title": "Almanya'da doğal gaz depolarının \"doluluk oranı\" tartışma konusu oldu",
-  "link": "https://www.aa.com.tr/tr/ekonomi/almanyada-dogal-gaz-depolarinin-doluluk-orani-tartisma-konusu-oldu/4033723",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Almanya'nın doğal gaz depolarının yavaş dolması, kış sezonu öncesi yasal zorunlu hedeflere ulaşılmasını zorlaştırıyor.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-21T11:01:13.374992+00:00",
-  "type": "news",
-  "cluster_id": "c845f2b1c4554"
- },
- {
-  "title": "Vergi borçlarında son gün 31 Ağustos: 72 aya kadar yapılandırma",
-  "link": "https://www.trthaber.com/haber/ekonomi/vergi-borclarinda-son-gun-31-agustos-72-aya-kadar-yapilandirma-954568.html",
-  "source": "TRT Haber",
-  "summary_tr": "Vergi borçluları son gün 31 Ağustos'ta borçlarını 72 aya kadar yapılandırabiliyor.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-21T11:01:13.374992+00:00",
-  "type": "news",
-  "cluster_id": "c111a4846a8e5"
- },
- {
-  "title": "Iranian oil offers to Chinese buyers fall as US blockade bites, sources say",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNTlOa0p6cWFWR2FCZ0dZY2tEZEZLMkNWR3RvQkUzdUwyTE11aVF0TkVpMExXM3otZy0wbVRZU0lBOUpLV2lhYTdPWHBMZ3plOGFwekxwbVdQLTM5anpldkwtTWpnak05T3VLdDVUT3ItVVpEeHllS3E5SjFOeHFCT0FPeXU5c1I3X203S0pGcENjeFRESF9YaTZnV0JNNGNZUnl4RUxGTFZIN2RNU0k0YXpJbVhyVW55UlB6Rw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD'nin ticari ablukası nedeniyle İran'ın Çin'e sunduğu petrol teklifleri düşüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-21T11:01:13.374992+00:00",
-  "type": "news",
-  "cluster_id": "cd62bde9e46a6"
- },
- {
-  "title": "İsrail ordusu, ateşkese rağmen Lübnan'ın güneyine hava ve topçu saldırıları düzenledi",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyine-hava-ve-topcu-saldirilari-duzenledi/4033681",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail ordusu, ateşkes ve çerçeve anlaşmasına rağmen Lübnan güneyine hava ve topçu saldırıları düzenledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-21T10:01:14.084776+00:00",
-  "type": "news",
-  "cluster_id": "c112e1ad8c9f7"
  }
 ]
