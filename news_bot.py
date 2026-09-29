@@ -7,8 +7,11 @@ Akis:
   2. Daha once gonderilmis basliklar (link hash + normalize edilmis baslik hash + 30 gunluk
      token-overlap benzerligi) elenir.
   3. Kalan adaylar tek bir Claude API cagrisiyla degerlendirilir; her keep=true item icin
-     LLM kisa ozet + siyasi yon (left/neutral/right) doner.
-  4. Hem kullanicinin DM'ine (CHAT_ID) hem de varsa public kanala (CHANNEL_ID) gonderilir.
+     LLM kisa ozet + siyasi yon (left/neutral/right) doner. LLM'e son 48 saatin olaylari da
+     verilir: her haber mevcut bir olaya baglanir (yeni gelisme mi, tekrar mi) ya da yeni olay acar.
+  4. Katmanli bildirim (DM + kanal ayni kural): 9-10 puan aninda "son dakika", 7-8 puan
+     3 saatlik ozet mesajina (olay basina tek satir), 6 puan sadece web. Ayni olayin
+     tekrari bildirim uretmez.
   5. news_data.json'a kaydedilir (dashboard buradan okur), state dosyasi (sent_ids.json) yazilir.
 """
 
@@ -18,6 +21,7 @@ import json
 import os
 import re
 import hashlib
+import html
 import sys
 import time
 import urllib.parse
@@ -45,7 +49,11 @@ TELEGRAM_TOKEN     = os.environ.get("TELEGRAM_TOKEN", "")
 CHAT_ID            = os.environ.get("CHAT_ID", "")
 CHANNEL_ID         = os.environ.get("CHANNEL_ID", "").strip()
 ANTHROPIC_API_KEY  = os.environ.get("ANTHROPIC_API_KEY", "")
-LLM_MODEL          = os.environ.get("LLM_MODEL", "claude-haiku-4-5-20251001")
+# Haber filtresi (puan + olay eslestirme) muhakeme ister -> Sonnet 5. Resmi veri cikarimi mekanik -> Haiku.
+LLM_MODEL          = os.environ.get("LLM_MODEL", "claude-sonnet-5")
+# Sonnet 5 / Opus icin dusunme derinligi (low/medium/high). Haiku 4.5 effort'u desteklemez -> bos birak.
+LLM_EFFORT         = os.environ.get("LLM_EFFORT", "low").strip()
+DATA_LLM_MODEL     = os.environ.get("DATA_LLM_MODEL", "claude-haiku-4-5")
 
 STATE_FILE        = os.path.join(_base, "sent_ids.json")
 NEWS_DATA_FILE    = os.path.join(_base, "news_data.json")
@@ -57,8 +65,25 @@ DEDUP_WINDOW_DAYS    = 30
 SIMILARITY_THRESHOLD = 0.55
 MAX_LLM_CANDIDATES   = 180
 PER_FEED_LIMIT       = 10
-MIN_SCORE            = 6
-MAX_DELIVER          = 15
+MIN_SCORE            = 6    # web/dashboard'a kayit esigi (6 = sadece arsiv, bildirim yok)
+MAX_KEEP             = 25   # run basina web'e kaydedilecek max haber
+
+# Katmanli bildirim: 9-10 aninda, 7-8 3 saatlik ozette, 6 sadece web.
+URGENT_SCORE         = 9
+DIGEST_SCORE         = 7
+MAX_URGENT_PER_DAY   = 6    # asilirsa urgent'lar da ozete duser
+DIGEST_HOURS         = (0, 9, 12, 15, 18, 21)  # TR saati, ozet slotlari
+DIGEST_MAX_ITEMS     = 8
+DIGEST_SILENT        = True # ozet sessiz bildirimle gelsin (son dakika sesli)
+PENDING_MAX_AGE_H    = 9    # ozete girmeyi bekleyen haber en fazla bu kadar bekler
+TG_MAX_CHARS         = 3900 # Telegram limiti 4096 (gorunen metin)
+
+# Olay hafizasi: son 48 saatte islenmis olaylar LLM'e verilir; ayni olayin
+# tekrari bildirim uretmez, sadece somut yeni gelisme uretir.
+STORY_MEMORY_HOURS   = 48
+STORY_PROMPT_LIMIT   = 80
+URGENT_RESEND_GAP_H  = 1    # ayni olay icin iki son dakika arasi min sure
+HOT_STORY_COUNT      = 10   # 48 saatte bu kadar haber -> ozette "🔥 Gundem" etiketi
 MAX_DATA_CANDIDATES  = 60
 DATA_PER_FEED_LIMIT  = 8
 MAX_DATA_DELIVER     = 8
@@ -171,7 +196,8 @@ def all_feeds():
 
 # --- State -----------------------------------------------------------------
 def _empty_state():
-    return {"version": 2, "ids": {}, "fingerprints": []}
+    return {"version": 2, "ids": {}, "fingerprints": [], "stories": [], "pending": [],
+            "story_seq": 0, "urgent_log": [], "last_digest_ts": ""}
 
 
 def load_state():
@@ -187,7 +213,8 @@ def load_state():
         return {"version": 2, "ids": {h: ancient for h in data}, "fingerprints": []}
     if not isinstance(data, dict) or "ids" not in data:
         return _empty_state()
-    data.setdefault("fingerprints", [])
+    for k, v in _empty_state().items():
+        data.setdefault(k, v)
     return data
 
 
@@ -199,6 +226,13 @@ def save_state(state):
         items = sorted(state["ids"].items(), key=lambda kv: kv[1])
         state["ids"] = dict(items[-20000:])
     state["fingerprints"] = [fp for fp in state["fingerprints"] if fp.get("ts", "") >= cutoff_fp]
+    now = datetime.now(timezone.utc)
+    cutoff_story = (now - timedelta(hours=STORY_MEMORY_HOURS)).isoformat()
+    cutoff_pend  = (now - timedelta(hours=PENDING_MAX_AGE_H)).isoformat()
+    cutoff_urg   = (now - timedelta(hours=24)).isoformat()
+    state["stories"]    = [s for s in state["stories"] if s.get("last_ts", "") >= cutoff_story]
+    state["pending"]    = [p for p in state["pending"] if p.get("ts", "") >= cutoff_pend]
+    state["urgent_log"] = [t for t in state["urgent_log"] if t >= cutoff_urg]
 
     tmp = STATE_FILE + ".tmp"
     with open(tmp, "w") as f:
@@ -310,6 +344,16 @@ def is_duplicate(title: str, link: str, state) -> bool:
 
 
 # --- Toplama ---------------------------------------------------------------
+def fix_mojibake(text: str) -> str:
+    """UTF-8'i latin-1 sanilarak bozulmus basliklari onar (or. TRT: 'BakanÄ±' -> 'Bakanı')."""
+    if "Ã" not in text and "Ä" not in text and "Å" not in text:
+        return text
+    try:
+        return text.encode("latin-1").decode("utf-8")
+    except (UnicodeEncodeError, UnicodeDecodeError):
+        return text
+
+
 def collect_candidates(state):
     seen_in_batch = set()
     candidates = []
@@ -328,6 +372,7 @@ def collect_candidates(state):
                 summary_raw = re.sub(r"<[^>]+>", " ", entry.get("summary") or "")[:400]
                 if not title or not link:
                     continue
+                title = fix_mojibake(title)
                 # Google News bridge: baslik sonundaki "— Kaynak" ekini kirp
                 clean_title = re.sub(r"\s[-–|]\s[^-–|]{2,40}\s*$", "", title).strip()
 
@@ -353,7 +398,9 @@ def collect_candidates(state):
 
 
 # --- LLM filtre + ozet + lean ---------------------------------------------
-LLM_SYSTEM = """Sen Turk bir karar vericinin haber editorusun. COK SECICI ol — kullanici sadece gercekten kritik haberleri istiyor. Tipik bir saatte 5-15 baslik gecmeli; daha fazlasi gurultudur.
+LLM_SYSTEM = """Sen Turk bir karar vericinin haber editorusun. COK SECICI ol — kullanici sadece gercekten kritik haberleri istiyor ve bildirim yorgunlugu yasiyor.
+
+PUAN = BILDIRIM KATMANI: 9-10 kullaniciya ANINDA (sesli) gider — gunde sadece birkac tane olmali. 7-8 uc saatlik ozet mesajina girer. 6 sadece arsive yazilir, bildirim olmaz. Puanlari SISIRME; emin degilsen bir alt puani ver.
 
 ONCELIK: Kullanici EKONOMI haberlerine daha cok agirlik istiyor. Bir ekonomi haberi sinirdaysa keep=true lehine karar ver ve digerlerine gore daha comert puanla. Siyaset/diger alanlarda seciciligi koru.
 
@@ -379,10 +426,17 @@ ISTISNA — bu iki anahtardan biri baslikta/ozette geciyorsa keep=true (kose yaz
 - "DEVA Partisi" VEYA "Ali Babacan"
 
 SCORE skalasi (1-10):
-- 9-10: Cumhurbaskani/parti lideri kararlari, TCMB faiz, Fed faiz, savas/kriz gelismesi
-- 7-8: Onemli yasa/karar, kabine atamasi, kritik veri (CPI, buyume), AYM kararlari
-- 6: Onemli ama ikinci derece
+- 9-10 (SON DAKIKA): TCMB/Fed/ECB faiz karari, savas/ateskes/buyuk saldiri, Cumhurbaskani veya ana muhalefet liderinin kritik KARARI, bakan/eski bakan/TCMB baskani duzeyinde atama-istifa-gorevden alma-tutuklama, erken secim/kapatma davasi gibi rejim etkili gelisme, piyasada sert kriz (kur/borsa gunluk >%3), buyuk afet, milyonlarca vatandasi/birikimi etkileyen SISTEMIK finansal kriz veya buyuk yolsuzluk skandalinin patlak vermesi.
+- BUYUK OLAYLARDA KIRILMA ANI: Olay listesinde cok sayida haber/kaynak ile gorunen buyuk bir olayin (or. "48 saatte 40 haber, 9 kaynak") GIDISATINI DEGISTIREN adimi 9-10'dur: hukumet/Cumhurbaskani karari, magdurlara odeme/tazmin plani, ust duzey isimlerin (bakan, eski bakan, TCMB/kurum yoneticisi — ESKI yoneticiler DAHIL —, holding patronu) tutuklanmasi veya istifasi, yasal duzenleme. Ayni olayin RUTIN ayrintilari (yeni gozalti listesi, ifade detayi, "kimdir" yazisi, yorum/analiz, tepki aciklamasi) 9-10 DEGILDIR; bunlar 6-7'dir.
+- NOT: Buyuk bir sorusturma/kriz kapsamindaki gozalti-tutuklama haberleri asayis haberi DEGILDIR; olayin parcasi olarak degerlendir.
+- 7-8: Onemli yasa/karar, ust duzey atama, kritik veri (enflasyon, CPI, buyume), AYM/Danistay kararlari, onemli ekonomi gelismesi, gecim maliyetine dogrudan somut zam/degisim
+- 6: Onemli ama ikinci derece (arsive gider)
 - 1-5: Sinirda, gondermeyecegim (keep=false yap)
+
+OLAY HAFIZASI (tekrari onlemek icin kritik): Sana son 48 saatte islenmis OLAYLARIN listesi verilecek ([s12] baslik — ozet). Olay = belirli somut bir vaka/karar zinciri (or. "fon sorusturmasi", "TCMB doviz donusum destegi degisikligi", "X sirketinin konkordatosu"). Her keep=true aday icin:
+- story: Aday listedeki bir olayla AYNI vakayi anlatiyorsa o olayin id'si ("s12"). Degilse yeni olay etiketi "n1", "n2", ... — bu listede AYNI yeni vakayi anlatan TUM adaylara (farkli kaynak, farkli kelime olsa bile) AYNI n-etiketini ver.
+- new_dev: story mevcut bir s-id ise: aday o olaya gore SOMUT YENI bir adim iceriyorsa true (gozalti -> tutuklama, aciklama -> karar, yeni rakam, yeni taraf/aktor). Ayni seyin baska kaynaktan/kelimelerle tekrari, yorum, arka plan, "kimdir/ne oldu" yazilari false. Yeni olaylar (n-etiketi) icin true.
+- TEKRARI ELEME: Mevcut bir olayin baska kaynaktaki tekrari, olay onemliyse yine keep=true olsun (new_dev=false). Bildirim uretmez ama arsivde olayin kaynak cesitliligi olarak gorunur. Puanini olayin onemine gore ver.
 
 OZET (summary_tr): keep=true ise haberi 1-2 Turkce cumlede ozetle (max 240 karakter). Spesifik ol; "aciklama yapildi" gibi mubhem ifadeler kullanma — KIM, NE yapti/karar verdi yaz.
 
@@ -391,11 +445,25 @@ METRIK (metric): Haberde bir oncekiyle KIYASLANABILIR sayisal degisim VARSA su f
 LEAN: keep=true ise haberin/kaynagin siyasi yonelimi: "left" / "neutral" / "right". Kaynak ipucu sana verilecek (default_lean) ama icerik farkli bir yon gosteriyorsa override et. Reuters/AP/BBC/DW gibi uluslararasi servisler neutral'dir; haber Turk hukumetini destekleyici dille anlatiyorsa right, elestiriyorsa left dusunulebilir. Emin degilsen neutral.
 
 Cikti format'i ZORUNLU: yalniz gecerli JSON array. Her item:
-{"i": <int>, "keep": <bool>, "score": <1-10 int>, "summary_tr": "...", "metric": "...", "lean": "left|neutral|right"}
-keep=false ise summary_tr, metric ve lean atlanabilir. metric yoksa "" birak. Aciklama veya markdown yazma."""
+{"i": <int>, "keep": <bool>, "score": <1-10 int>, "story": "s12|n1", "new_dev": <bool>, "summary_tr": "...", "metric": "...", "lean": "left|neutral|right"}
+keep=false ise story, new_dev, summary_tr, metric ve lean atlanabilir. metric yoksa "" birak. Aciklama veya markdown yazma."""
 
 
-def llm_filter(candidates):
+def _stories_prompt_block(stories) -> str:
+    """Son olaylari LLM'e verilecek kisa listeye cevir (en yeni once)."""
+    recent = sorted(stories, key=lambda s: s.get("last_ts", ""), reverse=True)[:STORY_PROMPT_LIMIT]
+    if not recent:
+        return "(henuz yok)"
+    def size(s):
+        n, k = s.get("count", 1), len(s.get("sources", []))
+        return f" ({STORY_MEMORY_HOURS} saatte {n} haber, {k} kaynak)" if n > 1 else ""
+    return "\n".join(
+        f"[{s['id']}]{size(s)} {s['title'][:110]}" + (f" — {s['summary'][:140]}" if s.get("summary") else "")
+        for s in recent
+    )
+
+
+def llm_filter(candidates, stories):
     if not ANTHROPIC_API_KEY:
         log("ANTHROPIC_API_KEY yok — LLM filtresi devre disi.")
         return []
@@ -408,39 +476,15 @@ def llm_filter(candidates):
         + (f" — {c['raw_summary'][:140]}" if c['raw_summary'] else "")
         for i, c in enumerate(pool)
     )
-
-    body = {
-        "model": LLM_MODEL,
-        "max_tokens": 6000,
-        "system": LLM_SYSTEM,
-        "messages": [{"role": "user", "content": f"Asagidaki {len(pool)} basligi degerlendir:\n\n{items_text}\n\nSadece JSON array dondur."}],
-    }
-    try:
-        r = requests.post(
-            "https://api.anthropic.com/v1/messages",
-            headers={
-                "x-api-key": ANTHROPIC_API_KEY,
-                "anthropic-version": "2023-06-01",
-                "content-type": "application/json",
-            },
-            json=body,
-            timeout=90,
-        )
-        if not r.ok:
-            log(f"LLM HTTP hata: {r.status_code} — {r.text[:200]}")
-            return []
-        data = r.json()
-        text = "".join(blk.get("text", "") for blk in data.get("content", []) if blk.get("type") == "text").strip()
-        text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text, flags=re.MULTILINE).strip()
-        m = re.search(r"\[.*\]", text, flags=re.DOTALL)
-        if not m:
-            log(f"LLM cikti JSON degil: {text[:200]}")
-            return []
-        verdicts = json.loads(m.group(0))
-    except Exception as e:
-        log(f"LLM hata: {e}")
+    user_content = (
+        f"SON {STORY_MEMORY_HOURS} SAATTEKI OLAYLAR:\n{_stories_prompt_block(stories)}\n\n"
+        f"ADAYLAR — asagidaki {len(pool)} basligi degerlendir:\n\n{items_text}\n\nSadece JSON array dondur."
+    )
+    verdicts = _llm_json_array(LLM_SYSTEM, user_content, 16000, LLM_MODEL, LLM_EFFORT)
+    if not verdicts:
         return []
 
+    known_ids = {s["id"] for s in stories}
     keepers = []
     for v in verdicts:
         try:
@@ -460,44 +504,119 @@ def llm_filter(candidates):
             if lean not in VALID_LEANS:
                 lean = item["default_lean"]
             item["lean"] = lean
+            story = str(v.get("story") or "").strip().lower()
+            if story in known_ids:
+                item["story_key"] = story
+                item["new_dev"] = bool(v.get("new_dev"))
+            else:
+                # Yeni olay: LLM'in n-etiketi (ayni run'da ayni olayi birlestirir) veya tekil
+                item["story_key"] = ("new:" + story) if re.fullmatch(r"n\d+", story) else f"new:solo{i}"
+                item["new_dev"] = True
             keepers.append(item)
         except Exception:
             continue
     keepers.sort(key=lambda x: -x["score"])
-    return keepers[:MAX_DELIVER]
+    return keepers[:MAX_KEEP]
 
 
-# --- Clustering ------------------------------------------------------------
-CLUSTER_THRESHOLD = 0.40  # jaccard >= bu -> ayni cluster
+# --- Olay gruplama + hafiza -----------------------------------------------
+# Temsilci kaynak secimi: puan esitse once ajans/tarafsiz kaynak.
+SOURCE_PRIORITY = ["Anadolu Ajansı", "Reuters", "AP", "BBC Türkçe", "DW Türkçe", "TRT Haber"]
 
 
-def cluster_keepers(keepers):
-    """Run-scope clustering. Donus: list[{id, tokens, members[]}]."""
-    clusters = []
+def _source_rank(source: str) -> int:
+    return SOURCE_PRIORITY.index(source) if source in SOURCE_PRIORITY else len(SOURCE_PRIORITY)
+
+
+def group_by_story(keepers):
+    """LLM'in story etiketine gore grupla. Donus: list[{key, members[], new_dev}]."""
+    groups = {}
     for item in keepers:
-        tokens = item["tokens"]
-        matched = None
-        for c in clusters:
-            if jaccard(tokens, c["tokens"]) >= CLUSTER_THRESHOLD:
-                matched = c
-                break
-        if matched:
-            matched["members"].append(item)
-            # Temsilci: en yuksek skorlu uyenin token'lari
-            if item["score"] > matched["best_score"]:
-                matched["best_score"] = item["score"]
-                matched["tokens"] = tokens
-        else:
-            # Deterministik id: sorted tokens hash'i
-            cid = "c" + hashlib.md5("|".join(sorted(tokens)).encode()).hexdigest()[:12]
-            clusters.append({"id": cid, "tokens": tokens, "best_score": item["score"], "members": [item]})
+        g = groups.setdefault(item["story_key"], {"key": item["story_key"], "members": [], "new_dev": False})
+        g["members"].append(item)
+        g["new_dev"] = g["new_dev"] or item["new_dev"]
+    out = list(groups.values())
+    for g in out:
+        g["members"].sort(key=lambda m: (-m["score"], _source_rank(m["source"])))
+    out.sort(key=lambda g: -g["members"][0]["score"])
+    return out
 
-    for c in clusters:
-        # En yuksek skor en basa
-        c["members"].sort(key=lambda m: -m["score"])
-        for m in c["members"]:
-            m["cluster_id"] = c["id"]
-    return clusters
+
+def _hours_since(iso: str) -> float:
+    if not iso:
+        return 1e9
+    return (datetime.now(timezone.utc) - datetime.fromisoformat(iso)).total_seconds() / 3600
+
+
+def upsert_story(state, group, now_iso):
+    """Grubu olay hafizasina yaz (yeni olay ac veya mevcut olayi guncelle)."""
+    top = group["members"][0]
+    sources = [m["source"] for m in group["members"]]
+    if not group["key"].startswith("new:"):
+        story = next((s for s in state["stories"] if s["id"] == group["key"]), None)
+        if story:
+            story["last_ts"] = now_iso
+            story["count"] = story.get("count", 1) + len(group["members"])
+            story["score"] = max(story.get("score", 0), top["score"])
+            story["sources"] = sorted(set(story.get("sources", [])) | set(sources))
+            if group["new_dev"]:
+                # Son gelismeyi hafizada tut ki LLM bir sonraki adimi kiyaslayabilsin
+                story["title"] = top["title"][:160]
+                story["summary"] = top.get("summary_tr", "")[:240]
+            return story, True
+    state["story_seq"] = state.get("story_seq", 0) + 1
+    story = {
+        "id":          f"s{state['story_seq']}",
+        # Dashboard gruplamasi icin kalici, cakismayan id
+        "cluster_id":  "st" + hashlib.md5(f"{top['title']}|{now_iso}".encode()).hexdigest()[:10],
+        "title":       top["title"][:160],
+        "summary":     top.get("summary_tr", "")[:240],
+        "first_ts":    now_iso,
+        "last_ts":     now_iso,
+        "notified_ts": "",
+        "score":       top["score"],
+        "count":       len(group["members"]),
+        "sources":     sorted(set(sources)),
+    }
+    state["stories"].append(story)
+    return story, False
+
+
+def pending_entry(group, story, is_update, now_iso):
+    top = group["members"][0]
+    return {
+        "story_id":   story["id"],
+        "title":      top["title"],
+        "summary_tr": top.get("summary_tr", ""),
+        "metric":     top.get("metric", ""),
+        "source":     top["source"],
+        "link":       top["link"],
+        "lean":       top["lean"],
+        "score":      top["score"],
+        "others":     [m["source"] for m in group["members"][1:]],
+        "is_update":  is_update,
+        "extra_devs": 0,
+        "story_count": story.get("count", 1),
+        "ts":         now_iso,
+    }
+
+
+def queue_for_digest(state, entry):
+    """Olay basina ozette tek satir: ayni olay zaten bekliyorsa birlestir."""
+    for i, p in enumerate(state["pending"]):
+        if p["story_id"] != entry["story_id"]:
+            continue
+        others = sorted((set(p.get("others", [])) | set(entry["others"]) | {p["source"]}) - {entry["source"]})
+        if entry["score"] >= p["score"]:
+            entry["others"] = others
+            entry["extra_devs"] = p.get("extra_devs", 0) + (1 if entry["is_update"] else 0)
+            entry["is_update"] = entry["is_update"] or p.get("is_update", False)
+            state["pending"][i] = entry
+        else:
+            p["others"] = sorted((set(p.get("others", [])) | set(entry["others"]) | {entry["source"]}) - {p["source"]})
+            p["extra_devs"] = p.get("extra_devs", 0) + (1 if entry["is_update"] else 0)
+        return
+    state["pending"].append(entry)
 
 
 # --- Telegram -------------------------------------------------------------
@@ -529,18 +648,23 @@ def canonical_chat_id(target: str) -> str:
     return target
 
 
-def send_telegram(chat_id: str, text: str):
+def _esc(s: str) -> str:
+    return html.escape(s or "", quote=True)
+
+
+def send_telegram(chat_id: str, text: str, silent: bool = False):
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     r = requests.post(url, json={
         "chat_id": chat_id,
         "text": text,
         "parse_mode": "HTML",
         "disable_web_page_preview": False,
+        "disable_notification": silent,
     }, timeout=15)
     return r.ok, r.text
 
 
-def broadcast(msg: str) -> bool:
+def broadcast(msg: str, silent: bool = False) -> bool:
     """Mesaji tum hedeflere (CHAT_ID + CHANNEL_ID) gonder; ayni kanalin farkli yazimini ele."""
     delivered = False
     seen_targets = set()
@@ -552,7 +676,12 @@ def broadcast(msg: str) -> bool:
         if canon in seen_targets:
             continue
         seen_targets.add(canon)
-        ok, resp = send_telegram(target, msg)
+        try:
+            ok, resp = send_telegram(target, msg, silent)
+        except Exception as e:
+            # Gecici ag/timeout hatasi tum run'i dusurmesin (state kaydedilebilsin)
+            log(f"Telegram istek hatasi ({target}): {e}")
+            ok, resp = False, ""
         if ok:
             delivered = True
         else:
@@ -570,23 +699,95 @@ def topic_emoji(title: str, summary: str) -> str:
     return "🏛️"
 
 
-def deliver_cluster(cluster) -> bool:
-    """Cluster basina tek Telegram mesaji — en yuksek skorlu uyenin metni + diger kaynaklarin sayisi."""
-    top = cluster["members"][0]
+def deliver_urgent(group, is_update: bool) -> bool:
+    """Son dakika: olay basina tek, sesli mesaj — temsilci kaynak + diger kaynaklarin sayisi."""
+    top = group["members"][0]
     icon = topic_emoji(top["title"], top.get("summary_tr", ""))
     lean_dot = LEAN_EMOJI.get(top["lean"], "⬜")
-    summary_line = f"\n<i>{top['summary_tr']}</i>" if top.get("summary_tr") else ""
-    metric_line = f"\n📊 <b>{top['metric']}</b>" if top.get("metric") else ""
+    head = "🔄 GELİŞME" if is_update else "🔴 SON DAKİKA"
+    summary_line = f"\n<i>{_esc(top['summary_tr'])}</i>" if top.get("summary_tr") else ""
+    metric_line = f"\n📊 <b>{_esc(top['metric'])}</b>" if top.get("metric") else ""
     coverage = ""
-    if len(cluster["members"]) > 1:
-        others = [m["source"] for m in cluster["members"][1:6]]
-        coverage = f"\n<i>+ {len(cluster['members']) - 1} kaynak daha: {', '.join(others)}</i>"
+    if len(group["members"]) > 1:
+        others = [m["source"] for m in group["members"][1:6]]
+        coverage = f"\n<i>+ {len(group['members']) - 1} kaynak daha: {_esc(', '.join(others))}</i>"
     msg = (
-        f"<b>{icon} {top['source']}</b> {lean_dot}\n"
-        f"{top['title']}{metric_line}{summary_line}{coverage}\n"
-        f"<a href='{top['link']}'>→ Habere git</a>"
+        f"<b>{head} · {icon} {_esc(top['source'])}</b> {lean_dot}\n"
+        f"<b>{_esc(top['title'])}</b>{metric_line}{summary_line}{coverage}\n"
+        f"<a href='{_esc(top['link'])}'>→ Habere git</a>"
     )
     return broadcast(msg)
+
+
+def _digest_line(p) -> str:
+    icon = topic_emoji(p["title"], p.get("summary_tr", ""))
+    upd = "🔄 " if p.get("is_update") else ""
+    extra = f" <i>(+{p['extra_devs']} gelişme)</i>" if p.get("extra_devs") else ""
+    hot = ""
+    if p.get("story_count", 1) >= HOT_STORY_COUNT:
+        hot = f"🔥 <b>Gündem</b> <i>({STORY_MEMORY_HOURS} saatte {p['story_count']} haber)</i>\n"
+    line = f"{hot}{icon} {upd}<b>{_esc(p['title'])}</b>{extra} {LEAN_EMOJI.get(p['lean'], '⬜')}"
+    if p.get("metric"):
+        line += f"\n📊 {_esc(p['metric'])}"
+    if p.get("summary_tr"):
+        line += f"\n<i>{_esc(p['summary_tr'])}</i>"
+    src = f"<a href='{_esc(p['link'])}'>{_esc(p['source'])}</a>"
+    if p.get("others"):
+        src += f" · +{len(p['others'])} kaynak"
+    return line + "\n" + src
+
+
+def _visible_len(html_text: str) -> int:
+    return len(re.sub(r"<[^>]+>", "", html_text))
+
+
+def latest_digest_slot(now_tr: datetime) -> datetime:
+    base = now_tr.replace(minute=0, second=0, microsecond=0)
+    for back in range(0, 25):
+        t = base - timedelta(hours=back)
+        if t.hour in DIGEST_HOURS:
+            return t
+    return base
+
+
+def maybe_flush_digest(state, quiet: bool) -> int:
+    """Son ozet slotundan beri ozet gitmediyse bekleyen haberleri tek mesajda gonder."""
+    if quiet:
+        return 0
+    now_tr = datetime.now(TURKEY_TZ)
+    slot = latest_digest_slot(now_tr)
+    last = state.get("last_digest_ts") or ""
+    if last and datetime.fromisoformat(last) >= slot:
+        return 0
+    now_iso = datetime.now(timezone.utc).isoformat()
+    cutoff = (datetime.now(timezone.utc) - timedelta(hours=PENDING_MAX_AGE_H)).isoformat()
+    pending = [p for p in state["pending"] if p.get("ts", "") >= cutoff]
+    if not pending:
+        state["pending"] = []
+        state["last_digest_ts"] = now_iso
+        return 0
+
+    pending.sort(key=lambda p: (-p["score"], -p.get("story_count", 1), p["ts"]))
+    header = f"🗞 <b>Haber özeti · {now_tr.strftime('%H:%M')}</b>"
+    lines = []
+    for p in pending[:DIGEST_MAX_ITEMS]:
+        candidate = "\n\n".join([header] + lines + [_digest_line(p)])
+        if _visible_len(candidate) > TG_MAX_CHARS:
+            break
+        lines.append(_digest_line(p))
+    skipped = len(pending) - len(lines)
+    footer = f"\n\n<i>+{skipped} haber daha dashboard'da</i>" if skipped > 0 else ""
+    msg = "\n\n".join([header] + lines) + footer
+
+    if not broadcast(msg, silent=DIGEST_SILENT):
+        return 0   # pending korunur, sonraki run tekrar dener
+    sent_ids = {p["story_id"] for p in pending[:len(lines)]}
+    for s in state["stories"]:
+        if s["id"] in sent_ids:
+            s["notified_ts"] = now_iso
+    state["pending"] = []
+    state["last_digest_ts"] = now_iso
+    return len(lines)
 
 
 # --- Resmi veri kanali -----------------------------------------------------
@@ -659,14 +860,16 @@ def collect_data_candidates(data_state):
     return candidates
 
 
-def _llm_json_array(system: str, user_content: str, max_tokens: int):
+def _llm_json_array(system: str, user_content: str, max_tokens: int, model: str = "", effort: str = ""):
     """Anthropic messages cagrisi -> JSON array (list) veya None."""
     body = {
-        "model": LLM_MODEL,
+        "model": model or LLM_MODEL,
         "max_tokens": max_tokens,
         "system": system,
         "messages": [{"role": "user", "content": user_content}],
     }
+    if effort:
+        body["output_config"] = {"effort": effort}
     try:
         r = requests.post(
             "https://api.anthropic.com/v1/messages",
@@ -676,7 +879,7 @@ def _llm_json_array(system: str, user_content: str, max_tokens: int):
                 "content-type": "application/json",
             },
             json=body,
-            timeout=90,
+            timeout=240,
         )
         if not r.ok:
             log(f"LLM HTTP hata: {r.status_code} — {r.text[:200]}")
@@ -709,6 +912,7 @@ def data_filter(candidates):
         DATA_LLM_SYSTEM,
         f"Asagidaki {len(pool)} resmi kaynak basligini degerlendir:\n\n{items_text}\n\nSadece JSON array dondur.",
         4000,
+        DATA_LLM_MODEL,
     )
     if not verdicts:
         return []
@@ -903,25 +1107,40 @@ def main():
     candidates = collect_candidates(state)
     log(f"{len(candidates)} aday baslik toplandi (dedup sonrasi).")
 
-    if not candidates:
-        save_state(state)
-        return
-
-    keepers = llm_filter(candidates)
-    clusters = cluster_keepers(keepers)
-    log(f"LLM {len(keepers)} basligi onemli buldu -> {len(clusters)} cluster.")
+    keepers = llm_filter(candidates, state["stories"]) if candidates else []
+    groups = group_by_story(keepers)
+    log(f"LLM {len(keepers)} basligi onemli buldu -> {len(groups)} olay.")
 
     news_data = load_news_data()
     now_iso = datetime.now(timezone.utc).isoformat()
-    telegram_sent = 0
-    web_recorded = 0
-    for cluster in clusters:
-        if not quiet:
-            if deliver_cluster(cluster):
-                telegram_sent += 1
+    urgent_sent = queued = repeats = web_recorded = 0
+    for group in groups:
+        story, existed = upsert_story(state, group, now_iso)
+        top = group["members"][0]
+        already_notified = bool(story.get("notified_ts"))
+        is_update = existed and already_notified and group["new_dev"]
 
-        # Web: cluster icindeki tum uyeleri (her kaynak ayri kart)
-        for m in cluster["members"]:
+        if already_notified and not group["new_dev"]:
+            repeats += 1           # ayni olayin tekrari: bildirim yok, sadece web
+        elif top["score"] >= URGENT_SCORE:
+            can_urgent = (not quiet
+                          and len(state["urgent_log"]) < MAX_URGENT_PER_DAY
+                          and _hours_since(story.get("notified_ts", "")) >= URGENT_RESEND_GAP_H)
+            if can_urgent and deliver_urgent(group, is_update):
+                urgent_sent += 1
+                story["notified_ts"] = now_iso
+                state["urgent_log"].append(now_iso)
+                # Ayni olay ozette bekliyorsa artik gerek yok
+                state["pending"] = [p for p in state["pending"] if p["story_id"] != story["id"]]
+            else:
+                queue_for_digest(state, pending_entry(group, story, is_update, now_iso))
+                queued += 1
+        elif top["score"] >= DIGEST_SCORE:
+            queue_for_digest(state, pending_entry(group, story, is_update, now_iso))
+            queued += 1
+
+        # Web: olaydaki tum uyeler (her kaynak ayri kart), olay id'si ile gruplu
+        for m in group["members"]:
             web_recorded += 1
             state["ids"][link_hash(m["link"], m["title"])] = now_iso
             state["ids"][title_hash(m["title"])] = now_iso
@@ -935,16 +1154,20 @@ def main():
                 "score":      m["score"],
                 "ts":         now_iso,
                 "type":       "news",
-                "cluster_id": cluster["id"],
+                "cluster_id": story["cluster_id"],
             })
 
-        # Cluster basina tek fingerprint -> cross-run dedup
+        # Olay basina tek fingerprint -> ucuz cross-run on-eleme (LLM'e gitmeden)
         state["fingerprints"].append({
-            "tokens":     sorted(cluster["tokens"]),
+            "tokens":     sorted(top["tokens"]),
             "ts":         now_iso,
-            "title":      cluster["members"][0]["title"][:100],
-            "cluster_id": cluster["id"],
+            "title":      top["title"][:100],
+            "cluster_id": story["cluster_id"],
         })
+
+    digest_sent = maybe_flush_digest(state, quiet)
+    log(f"Bildirim: {urgent_sent} son dakika, {queued} ozete eklendi, {repeats} tekrar elendi, "
+        f"ozet: {digest_sent} haber gonderildi. Bekleyen: {len(state['pending'])}.")
 
     # Gonderilmeyen tum candidate'lari da state'e isaretle (LLM bir daha bakmasin)
     for c in candidates:
@@ -987,7 +1210,7 @@ def main():
 
     save_state(state)
     save_news_data(news_data)
-    log(f"Telegram: {telegram_sent} cluster, web: {web_recorded} item. State: {len(state['ids'])} id / {len(state['fingerprints'])} fp. News store: {len(news_data)}.")
+    log(f"Web: {web_recorded} item. State: {len(state['ids'])} id / {len(state['fingerprints'])} fp. News store: {len(news_data)}.")
 
 
 if __name__ == "__main__":
