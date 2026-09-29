@@ -1,5 +1,17 @@
 [
  {
+  "title": "US FAA delays Boeing 737 MAX 10 certification, shares dive 7%",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNGlQLVZob2RhU3RMWndhblU2bVduUVlzX001SjFlQnM2UVUwY3lvb0FyRktaZGExbDMzajc5V3ZYN3FIeGJPQ2c1V2FjWXJmb2FGdnJPVnhzT2ZlbDkxdFRMZXZlX3RHMXNpZkUwb0VBTnJoRHJoSk5HOGZkWnZ6RGJ4b0MxdGVjUXY2ZGdSbWZRZ3RTcFJ1RmdBeTRTRjREc0pldnZnRmEtRWl4QmlWMkk5YzQzcDlMUXZR?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD FAA, Boeing 737 MAX 10'un sertifikalandırılmasını erteledi; Boeing hisse senetleri %7 düştü.",
+  "metric": "Boeing hisseleri %7 düşüş",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-29T00:01:01.405671+00:00",
+  "type": "news",
+  "cluster_id": "c86861bc519cb"
+ },
+ {
   "title": "Rusya Devlet Başkanı Putin ordudaki personel sayısını 2 milyon 441 bin 630'a çıkardı",
   "link": "https://www.aa.com.tr/tr/dunya/rusya-devlet-baskani-putin-ordudaki-personel-sayisini-2-milyon-441-bin-630a-cikardi/4072084",
   "source": "Anadolu Ajansı",
@@ -59986,17 +59998,5 @@
   "ts": "2026-08-21T10:01:14.084776+00:00",
   "type": "news",
   "cluster_id": "c94167eeafb1d"
- },
- {
-  "title": "İran Meclis Başkanı Kalibaf, ABD'nin yeni yaptırımlarını aşmak için planlar geliştirmeleri gerektiğini söyledi",
-  "link": "https://www.aa.com.tr/tr/dunya/iran-meclis-baskani-kalibaf-abdnin-yeni-yaptirimlarini-asmak-icin-planlar-gelistirmeleri-gerektigini-soyledi/4033667",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran Meclis Başkanı Kalibaf, ABD'nin yeni yaptırımlarını aşmak için planlar geliştirmeleri gerektiğini söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-21T10:01:14.084776+00:00",
-  "type": "news",
-  "cluster_id": "cefb75cf089c0"
  }
 ]
