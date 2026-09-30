@@ -1,5 +1,53 @@
 [
  {
+  "title": "Saymaz'a konuşan AKP'li Zeybekci kabul etti: Bilgisi olmadan Tera fonuna para yatırmış",
+  "link": "https://www.diken.com.tr/saymaza-konusan-akpli-zeybekci-kabul-etti-bilgisi-olmadan-tera-fonuna-para-yatirmis/?utm_source=rss&utm_medium=rss&utm_campaign=saymaza-konusan-akpli-zeybekci-kabul-etti-bilgisi-olmadan-tera-fonuna-para-yatirmis",
+  "source": "Diken",
+  "summary_tr": "AKP'li Zeybekci, bilgisi olmadan Tera fonuna para yatırdığını kabul etti; fon krizi soruşturmasına yeni bir isim eklendi.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-09-30T06:01:19.395280+00:00",
+  "type": "news",
+  "cluster_id": "stb6bac5a5d9"
+ },
+ {
+  "title": "Fon skandalında şok detay: Site aidatlarına da ulaşılamıyor",
+  "link": "https://www.sozcu.com.tr/fon-skandalinda-sok-detay-site-aidatlarina-da-ulasilamiyor-p364731",
+  "source": "Sözcü",
+  "summary_tr": "İstanbul'da 1200 dairelik bir sitede toplanan 28 milyon liralık aidat parasının fon skandalı kapsamında portföy fonuna yatırıldığı ortaya çıktı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-30T06:01:19.395280+00:00",
+  "type": "news",
+  "cluster_id": "stb6bac5a5d9"
+ },
+ {
+  "title": "Euro, dolar karşısında eriyor! 2,5 yılın dibini gördü",
+  "link": "https://www.sozcu.com.tr/euro-dolar-karsisinda-eriyor-25-yilin-dibini-gordu-p364728",
+  "source": "Sözcü",
+  "summary_tr": "Euro, ABD ekonomisindeki güçlü büyüme ve yükselen faiz beklentileriyle dolar karşısında 2,5 yılın en düşük seviyesine geriledi.",
+  "metric": "Euro/Dolar 2,5 yılın dibi -> yeni düşük seviye",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-30T06:01:19.395280+00:00",
+  "type": "news",
+  "cluster_id": "stf25a6aa09c"
+ },
+ {
+  "title": "ABD, Küba'ya yönelik yaptırımları sıkılaştırdı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/abd-kubaya-yonelik-yaptirimlari-sikilastirdi/4073202",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD yönetimi, Küba'ya yönelik seyahat kısıtlamalarını ve finansal işlem yasaklarını genişleterek yaptırımları sıkılaştırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-30T06:01:19.395280+00:00",
+  "type": "news",
+  "cluster_id": "st9960eee3a5"
+ },
+ {
   "title": "AKP'li Fatma Betül Sayan Kaya ve eşinin tüm mal varlıkları için dondurma kararı!",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWFpSVkc5UnNNSXFRLUhCTDYwTmVZazgyREdCYmZWVERJS1JfdWtzZGs1Y3dPUDZpQ3BuaHBiQ1lIQnVqdC1NZlhqMVJNaTBvRmFjRE41cWU4ZjZ4QTQtSkprVXY2UXR3VlhhUzNVTG5oZDFIVDhZdWhWdk8yRHM2N1E0NGZKLTY3dExnR2pzd1dPQ2h6S0lSRjJOS3dKLUVCWlIyQVpNRlllcGhVX0tlTmVKb2I?oc=5",
   "source": "T24",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-23T17:01:03.870573+00:00",
   "type": "news",
   "cluster_id": "c6b637e2e02a6"
- },
- {
-  "title": "Fırıncıların rekabeti halka yaradı",
-  "link": "https://www.sozcu.com.tr/firincilarin-rekabeti-halka-yaradi-p351994",
-  "source": "Sözcü",
-  "summary_tr": "Iğdır'da fırıncılar arasındaki rekabet ekmek fiyatlarını düşürdü; 200 gram ekmek resmi fiyat 12,5 liranın altında satılıyor.",
-  "metric": "Ekmek fiyatı 12,5 TL -> altında",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-23T17:01:03.870573+00:00",
-  "type": "news",
-  "cluster_id": "c0b4d05873474"
- },
- {
-  "title": "İran'da dolar tarihin en yüksek seviyesinde",
-  "link": "https://www.diken.com.tr/iranda-dolar-tarihin-en-yuksek-seviyesinde/?utm_source=rss&utm_medium=rss&utm_campaign=iranda-dolar-tarihin-en-yuksek-seviyesinde",
-  "source": "Diken",
-  "summary_tr": "İran'da dolar serbest piyasada tarihi zirveye ulaştı. Ekonomik kriz derinleşiyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-23T16:01:02.569010+00:00",
-  "type": "news",
-  "cluster_id": "c5a24621205c1"
- },
- {
-  "title": "İran'da 7.5 trilyon fit küplük yeni doğalgaz rezervi keşfedildi",
-  "link": "https://www.cumhuriyet.com.tr/dunya/iran-da-7-5-trilyon-fit-kupluk-yeni-dogalgaz-rezervi-kesfedildi-2531676",
-  "source": "Cumhuriyet",
-  "summary_tr": "İran Petrol Bakanı, ülkenin güneyinde 7,5 trilyon fit küp doğal gaz rezervi keşfedildiğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-23T16:01:02.569010+00:00",
-  "type": "news",
-  "cluster_id": "cd08a59072a54"
- },
- {
-  "title": "İran’da Trump’ın iştahını kabartacak keşif",
-  "link": "https://www.sozcu.com.tr/iran-da-trump-in-istahini-kabartacak-kesif-p351987",
-  "source": "Sözcü",
-  "summary_tr": "İran, güneyindeki Fars eyaletinde 7,5 trilyon fit küp doğal gaz rezervi bulunduğunu açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-23T16:01:02.569010+00:00",
-  "type": "news",
-  "cluster_id": "c6dca6f73f408"
  }
 ]
