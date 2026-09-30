@@ -1,5 +1,17 @@
 [
  {
+  "title": "Eşel mobil sistemi sona erdi: Benzine 4,23, motorine 3,60 lira zam",
+  "link": "https://www.diken.com.tr/esel-mobil-sistemi-sona-erdi-benzine-415-motorine-360-lira-zam-geldi/?utm_source=rss&utm_medium=rss&utm_campaign=esel-mobil-sistemi-sona-erdi-benzine-415-motorine-360-lira-zam-geldi",
+  "source": "Diken",
+  "summary_tr": "Eşel mobil sistemin sona ermesiyle benzine 4,23, motorine 3,60 lira zam yapıldı.",
+  "metric": "Benzin zammı +4,23 TL, motorin zammı +3,60 TL",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-09-30T23:00:59.074616+00:00",
+  "type": "news",
+  "cluster_id": "stdded5b93dd"
+ },
+ {
   "title": "Akaryakıtta eşel mobil sisteminin uygulanması sona erdi",
   "link": "https://www.aa.com.tr/tr/ekonomi/akaryakitta-esel-mobil-sisteminin-uygulanmasi-sona-erdi/4074312",
   "source": "Anadolu Ajansı",
@@ -59986,17 +59998,5 @@
   "ts": "2026-08-25T08:01:05.410987+00:00",
   "type": "news",
   "cluster_id": "c6f187a730bb5"
- },
- {
-  "title": "İstanbul'da yasa dışı bahis gelirlerini aklama operasyonunda 13 şüpheli gözaltına alındı",
-  "link": "https://www.aa.com.tr/tr/gundem/istanbulda-yasa-disi-bahis-gelirlerini-aklama-operasyonunda-13-supheli-gozaltina-alindi/4036488",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İstanbul'da yasa dışı bahis gelirlerini aklama operasyonunda 13 şüpheli gözaltına alındı; 17,9 milyar liralık para transferi tespit edildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-25T08:01:05.410987+00:00",
-  "type": "news",
-  "cluster_id": "c5b5c03b49d00"
  }
 ]
