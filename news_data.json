@@ -1,5 +1,65 @@
 [
  {
+  "title": "Fon soruşturmasında Melis Sandal'a yakalama kararı",
+  "link": "https://www.bbc.com/turkce/articles/cm1j4614jppko?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Fon soruşturması kapsamında şarkıcı Mustafa Sandal'ın eşi Melis Sandal ve babası Cihan Sütşurup hakkında yakalama kararı çıkarıldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-30T11:01:23.717500+00:00",
+  "type": "news",
+  "cluster_id": "stb6bac5a5d9"
+ },
+ {
+  "title": "AKP'li Nihat Zeybekci kabul etti: ‘Faizde parası var’ demesinler diye fona yatırmış!",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM3VnSjduV2FXOVQwdWt0QlNRRUtJeVpRNWlVSFRrWTloWU9YbDhxZW5PZ1ZSc2k0YWNxTzVMYmpkZGYxczFCLUt5cFQzaktDLXNWYjN5NG9fS1VUX1BZX3UtRjBBeDQ1aGZ3MWZiZzE4MDZPT0NPbGtfWEZpalFXMU1WME5rbUxvSHhRZ3BFcWtDT0dJYUNzMDN1c0EyZDhNbVQ1ODl1LW1JTWJNbVEwbWVmQUZkcG1V?oc=5",
+  "source": "soL",
+  "summary_tr": "AKP'li Nihat Zeybekci, faiz gelirinin görünmemesi için parasını fona yatırdığını kabul etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-30T11:01:23.717500+00:00",
+  "type": "news",
+  "cluster_id": "stb6bac5a5d9"
+ },
+ {
+  "title": "TSMC evaluates potential Texas investment, sources say",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbk5sR25ad2FWc2RmSWZua1F3Mi1OR1NtTGx5bi1lQ1I0MHlmSHNyUXRGNUd5WmtOVEFMazFUY0FnM0tHdG8zbUF4QjlsaUNJWHhaZ2RXaWtUZHZhN0QteXRiNFNzb3pWcjA0Ty14cFJPenZhV0xnWktra01NaTNYa2s0Q0pEY0FxS20wV0lleWYzWGstYllNc1c3MFFxLXY1X3F4YjI5LXBhbG1J?oc=5",
+  "source": "Reuters",
+  "summary_tr": "TSMC, Teksas'ta olası yeni yatırım için değerlendirme yapıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-30T11:01:23.717500+00:00",
+  "type": "news",
+  "cluster_id": "st9f2c45f2fb"
+ },
+ {
+  "title": "Dış ticaret açığı (aylık): 5,2 milyar $ (Ağustos)",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcW5sQzJSemVxMzNxcXJ3OWtQZEdiaU01bm1OcGluY056Y1BpNkdMZzZHTlZoUF9CWEJjeVByN2t6Y1NUendsYXJqRE4wZDZMVzZwNUtUblI3RlVRbEdZa2o4M1JtV2pZVXk1bmVGODRhUTBBWElLa3liLUZVOTBCc1VmaTlDS3VFQlp2bWJjWm8tOG4teU9nOTY4TVlCeDRWZFJ3SVVfV2lHajVnOWJkelRVR3FNbDhScWRqM0p3?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%13,6 → 5,2 milyar $",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-09-30T11:01:23.717500+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
+  "title": "İhracatın imalat sanayisinden payı: %93,6 (Ağustos)",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVmJUckJHSUV5LUZOOWlZXzlPM3lzQjY1MjJGbWE2WGVucmhSOTZaYmlhcmdJNlR6Z1BfQjZ6VVRONDZIZzlCZUM4ZEd2eVRsTjVsUFpsTWRsYktBOTk0Sk5NNXVIcDU0UERlSkk5Z0cyUWlJdjJWc0NRYTJhLU1tbjNoYWRMMWVtdkdzbkpsUkRtNWdiSWx2OXVrNjVMdHU3bVZNVWN4elEwcHlYbGctU0NneExFUDljQWlLenlxajM?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%93,6",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-09-30T11:01:23.717500+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "DDK: Fon kriziyle ilgili idari ve hukuki inceleme başladı",
   "link": "https://www.bbc.com/turkce/articles/c893vr235lg2o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-24T08:01:10.185312+00:00",
   "type": "news",
   "cluster_id": "c066d583a52c9"
- },
- {
-  "title": "Hanehalkı enflasyon beklentisi arttı",
-  "link": "https://www.diken.com.tr/hanehalki-enflasyon-beklentisi-artti/?utm_source=rss&utm_medium=rss&utm_campaign=hanehalki-enflasyon-beklentisi-artti",
-  "source": "Diken",
-  "summary_tr": "Merkez Bankası hanehalkı anketi sonuçlarına göre yıllık enflasyon beklentisi arttı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-24T08:01:10.185312+00:00",
-  "type": "news",
-  "cluster_id": "c520f969dcc65"
- },
- {
-  "title": "TCMB \"Sektörel Enflasyon Beklentileri\"ni yayımladı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-sektorel-enflasyon-beklentilerini-yayimladi/4035474",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Merkez Bankası sektörel enflasyon beklentileri verilerini yayımladı; piyasa katılımcıları için beklenti gerilerken hane halkı ve reel sektör için yükseldi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-24T08:01:10.185312+00:00",
-  "type": "news",
-  "cluster_id": "c3c5a42d425c4"
- },
- {
-  "title": "Ukrayna’da kış alarmı: Hava savunması zayıflıyor, Rus füze üretimi büyüyor",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUFhpajdvMEpDVG9UbTdLNTJLTzJQTEoxT3ZEcDZMem96UTFBZ05kRnBxaGdaUGhjMFRtbFJkdXAtS2lPRWhPZWVtSlRLd25KcWpnRjFBUFl0ZnFJdzV4WUs2VjExOEwxZUtUaU9OUlgtSnlEMzZMZHVSczZmM2pZZHhiVVRhX1luQUhHLTZuNlhKaVJ1dnRoYkRQOUN0Q1M1ZzVzcmVwXzl0MlFMb2c?oc=5",
-  "source": "soL",
-  "summary_tr": "Ukrayna'nın hava savunma kapasitesi zayıflarken Rusya füze üretimini artırıyor; kış aylarında kritik tehdit.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-24T08:01:10.185312+00:00",
-  "type": "news",
-  "cluster_id": "c5facc22a01a8"
- },
- {
-  "title": "Cips, et ve peynirde 'tütsü' aroması dönemi sona eriyor: Yasak takvimi belli oldu",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/cips-et-ve-peynirde-tutsu-aromasi-donemi-sona-eriyor-yasak-takvimi-belli-oldu-2531829",
-  "source": "Cumhuriyet",
-  "summary_tr": "Avrupa Gıda Güvenliği Otoritesi kararıyla 10 tütsü aroma vericisi maddeler listesinden çıkarıldı; cips, et ve peynir sektörünü etkileyecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-24T08:01:10.185312+00:00",
-  "type": "news",
-  "cluster_id": "c2dc7b459f728"
- },
- {
-  "title": "Altın, döviz ve borsa yatırımcıları için zorlu viraj: Piyasaların gözü 3 kritik veride",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/altin-doviz-ve-borsa-yatirimcilari-icin-zorlu-viraj-piyasalarin-gozu-3-kritik-veride-2531819",
-  "source": "Cumhuriyet",
-  "summary_tr": "Küresel piyasalar ABD büyüme ve enflasyon verileri, Jackson Hole Sempozyumu ve Nvidia bilançosu öncesinde baskı altında.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-24T08:01:10.185312+00:00",
-  "type": "news",
-  "cluster_id": "c03633be802a2"
  }
 ]

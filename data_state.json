@@ -308,10 +308,10 @@
    "indicator_tr": "Dış ticaret açığı"
   },
   "tr_dis_ticaret_acigi_aylik": {
-   "value": "%13,6",
-   "period": "Temmuz",
-   "ts": "2026-08-28T10:01:34.993718+00:00",
-   "indicator_tr": "Dış ticaret açığı (aylık değişim)"
+   "value": "5,2 milyar $",
+   "period": "Ağustos",
+   "ts": "2026-09-30T11:01:28.738189+00:00",
+   "indicator_tr": "Dış ticaret açığı (aylık)"
   },
   "tr_dis_ticaret_degisim": {
    "value": "İhracat -%9,5 / İthalat -%10,8",
@@ -1134,10 +1134,15 @@
    "period": "Ağustos",
    "ts": "2026-09-30T10:01:42.279362+00:00",
    "indicator_tr": "Dış ticaret açığı değişim oranı"
+  },
+  "tr_ihracat_imalat_sanayisinin_payi": {
+   "value": "%93,6",
+   "period": "Ağustos",
+   "ts": "2026-09-30T11:01:28.738189+00:00",
+   "indicator_tr": "İhracatın imalat sanayisinden payı"
   }
  },
  "seen_links": {
-  "dbc068d908f7672abc552a7767c50b1d": "2026-09-16T11:01:10.748429+00:00",
   "145b185d513d64a81c191545ca56456a": "2026-09-16T12:01:14.449808+00:00",
   "ce50e4a06de7e28da428fd1868e7f354": "2026-09-16T13:01:12.751594+00:00",
   "96a7d10f983520d6fceedb16ee0ddd07": "2026-09-16T13:01:12.751594+00:00",
@@ -1394,6 +1399,8 @@
   "4f39e0b403be291d1a07de6a6bcc3f87": "2026-09-30T10:01:35.128690+00:00",
   "f981cb0e6b6a213170baf0b6bf201563": "2026-09-30T10:01:35.128690+00:00",
   "7ce6eef58aea8254f1b46e4958e70d33": "2026-09-30T10:01:35.128690+00:00",
-  "49523e9fd8c52a480e2810abe5805954": "2026-09-30T10:01:35.128690+00:00"
+  "49523e9fd8c52a480e2810abe5805954": "2026-09-30T10:01:35.128690+00:00",
+  "9a05fb2b2de1ae59f9e6e89c6b35caea": "2026-09-30T11:01:23.717500+00:00",
+  "e40236be22eeba436f69e965929b5a80": "2026-09-30T11:01:23.717500+00:00"
  }
 }
