@@ -20,9 +20,9 @@
    "indicator_tr": "GSYH büyüme oranı"
   },
   "tr_issizlik": {
-   "value": "%8,1",
-   "period": "Temmuz",
-   "ts": "2026-09-15T16:01:46.837036+00:00",
+   "value": "%7,8",
+   "period": "",
+   "ts": "2026-09-30T10:01:42.279362+00:00",
    "indicator_tr": "İşsizlik oranı"
   },
   "tr_dis_ticaret_haddi": {
@@ -302,9 +302,9 @@
    "indicator_tr": "İstihdam artışı"
   },
   "tr_dis_ticaret_acigi": {
-   "value": "5,2 milyar $",
+   "value": "$5,24 milyar",
    "period": "Ağustos",
-   "ts": "2026-09-30T08:01:46.770678+00:00",
+   "ts": "2026-09-30T10:01:42.279362+00:00",
    "indicator_tr": "Dış ticaret açığı"
   },
   "tr_dis_ticaret_acigi_aylik": {
@@ -662,10 +662,10 @@
    "indicator_tr": "Kira artis orani"
   },
   "tr_ihracat_aylik_degisim": {
-   "value": "%2,9",
-   "period": "Temmuz",
-   "ts": "2026-09-11T09:01:34.804330+00:00",
-   "indicator_tr": "İhracat (aylık değişim)"
+   "value": "%8,1",
+   "period": "Ağustos",
+   "ts": "2026-09-30T10:01:42.279362+00:00",
+   "indicator_tr": "İhracat yüzde değişim"
   },
   "tr_issizlik_genis_tanimli": {
    "value": "%28,8",
@@ -1128,11 +1128,15 @@
    "period": "Ağustos",
    "ts": "2026-09-30T09:02:14.596232+00:00",
    "indicator_tr": "İthalat yıldan yıla değişim"
+  },
+  "tr_dis_ticaret_dengesi_degisim": {
+   "value": "%22,3",
+   "period": "Ağustos",
+   "ts": "2026-09-30T10:01:42.279362+00:00",
+   "indicator_tr": "Dış ticaret açığı değişim oranı"
   }
  },
  "seen_links": {
-  "1d7e4e6c6d4e11b037254a8b99b148b5": "2026-09-16T10:01:18.802036+00:00",
-  "1fb2841c8c0bbbcf1cbbac5993aaa373": "2026-09-16T10:01:18.802036+00:00",
   "dbc068d908f7672abc552a7767c50b1d": "2026-09-16T11:01:10.748429+00:00",
   "145b185d513d64a81c191545ca56456a": "2026-09-16T12:01:14.449808+00:00",
   "ce50e4a06de7e28da428fd1868e7f354": "2026-09-16T13:01:12.751594+00:00",
@@ -1383,6 +1387,13 @@
   "1c569379fec1a8b8ff4e2ba0e0d318fd": "2026-09-30T09:02:02.193279+00:00",
   "4a71a194050d41e21eb8c74e58ea4a99": "2026-09-30T09:02:02.193279+00:00",
   "a689273758f660f72e315f3d24f81011": "2026-09-30T09:02:02.193279+00:00",
-  "836ac7f8c10439ef221e62fc783297b9": "2026-09-30T09:02:02.193279+00:00"
+  "836ac7f8c10439ef221e62fc783297b9": "2026-09-30T09:02:02.193279+00:00",
+  "4a8bcdbc91c79ede1011f70fb833581d": "2026-09-30T10:01:35.128690+00:00",
+  "19422af30958becec7bc13e3df0e3005": "2026-09-30T10:01:35.128690+00:00",
+  "37d264e1207b771ed08f19e1f2e98eb3": "2026-09-30T10:01:35.128690+00:00",
+  "4f39e0b403be291d1a07de6a6bcc3f87": "2026-09-30T10:01:35.128690+00:00",
+  "f981cb0e6b6a213170baf0b6bf201563": "2026-09-30T10:01:35.128690+00:00",
+  "7ce6eef58aea8254f1b46e4958e70d33": "2026-09-30T10:01:35.128690+00:00",
+  "49523e9fd8c52a480e2810abe5805954": "2026-09-30T10:01:35.128690+00:00"
  }
 }
