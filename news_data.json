@@ -1,5 +1,41 @@
 [
  {
+  "title": "İmamoğlu’ndan fon soruşturması tepkisi: ‘Üst düzey bürokrasi ve saray siyasetinin parmakları bu fonların içinde’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/imamoglu-ndan-fon-sorusturmasi-tepkisi-ust-duzey-burokrasi-ve-saray-siyasetinin-parmaklari-bu-fonlarin-icinde-2542323",
+  "source": "Cumhuriyet",
+  "summary_tr": "İmamoğlu, fon soruşturmasıyla ilgili 'üst düzey bürokrasi ve saray siyasetinin parmakları bu fonların içinde' dedi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-09-30T02:01:09.129751+00:00",
+  "type": "news",
+  "cluster_id": "stb6bac5a5d9"
+ },
+ {
+  "title": "US forces exit Iraq, emboldening Iran's proxies and Islamic State",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOemFDVTJ6blJhRFNIeVgzYzJoRzUtcG45RURTckFyYzJZb2RlX0g5TndKd1lqbmdSOG1HREZRTFZaM3dSTFZaQ3ZrQTg3a2xSZ2YyRldVT2JCMDZlVmVJOVFHTjI3TnExSktyZ25ZMjU5cXZrdDlITjVTOC11a2sxbmRjd2pvZC10UlRDQlRYclVTREt3S2c5TXRLc1NkdUxJcGFz?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD güçleri Irak'tan çekiliyor; analiz İran vekillerini ve IŞİD'i güçlendirebileceğini belirtiyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-09-30T02:01:09.129751+00:00",
+  "type": "news",
+  "cluster_id": "st5cfbfe4bb6"
+ },
+ {
+  "title": "Trump says top tech firms have signed accord to ‘self-police’ AI development",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORUtqYURpWThrQ2d5ZC02TTJXX2dLajBXTjdhTGJaSEJ6VlRVNkVUYWl5MzNNdmppZGtqQ3FLOEIyalhQeDFHTDNKMElZaTBRckh1aS1idWo4bnhramhObnVqQkhiUFBoLUhqeXZOeHBueUpVYWJPbjN3dmExVW1oYTh1TTgtSGR5QTBB?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump, büyük teknoloji şirketlerinin yapay zeka gelişimini 'kendi kendini denetleme' konusunda anlaştığını açıkladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-09-30T02:01:09.129751+00:00",
+  "type": "news",
+  "cluster_id": "stbd8457b75a"
+ },
+ {
   "title": "ABD birlikleri 20 yıl sonra Irak'tan ayrılıyor: Bundan sonra ne olacak?",
   "link": "https://www.bbc.com/turkce/articles/c30rekq470wqo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-23T11:01:09.521123+00:00",
   "type": "news",
   "cluster_id": "c1f85276e6373"
- },
- {
-  "title": "Norway to give over $9 billion to Ukraine in 2027",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdmhTa18xSnJQQ3IwQTF6LTgwY3dvY2JzNGJfUGJzVjNXdEE1SWt3b0xxQW5MSktZUUZIVHcxY092NmJ4SlRBU0JPYlZIVWFzVE42VHBMeFo4ODJITGwxZWRCc0Z5NDdfcm1aeVFzRDdiYWtMWW9GSGVfcDVRRlJGTnpZeE1MNFhUdVlOMlR2NXVDZw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Norveç 2027'de Ukrayna'ya 9 milyar doların üzerinde yardım sağlayacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-23T11:01:09.521123+00:00",
-  "type": "news",
-  "cluster_id": "c3ca1f1c78813"
- },
- {
-  "title": "Bodrum'un en lüks işletmesinde işçiler ayağa kalktı",
-  "link": "https://www.sozcu.com.tr/bodrum-un-en-luks-isletmesinde-isciler-ayaga-kalkti-p351929",
-  "source": "Sözcü",
-  "summary_tr": "Bodrum Yalıkavak'taki popüler sahil işletmesi Xuma Beach'te işçiler uzun çalışma saatleri ve ödenmemiş ücretler nedeniyle eylem başlattı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-23T11:01:09.521123+00:00",
-  "type": "news",
-  "cluster_id": "c7f426aee6f91"
- },
- {
-  "title": "Putin will draft 300,000 new troops after September elections, Zelenskiy says",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM3pBalhkVDdUUXRxcVhPUWZjN1pRczkxM2g1ZngybEJNblJiMUllNXFRRzVhR1IzdTFXNEJ3RGtRb2pQYV9ocm1tWFhYS0E4YnZwMHVzeTl3Q3k1Y21uRmI5Z2NtZDBTN2ZHa3hJQXk1M2IzNmlSSk9vQ3J6TkRMSl84eDVNTVF3cThacVltODdEdHE5WVcwZmRLV1RzRUZyUVpZUnE4b3BmYTdpMTBPeUVkbVlBdXdGTjB1eWpxQ3lEUQ?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Zelenskiy, Putin'in Eylül seçimlerinden sonra 300 bin yeni asker sevk edeceğini söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-23T10:01:04.381924+00:00",
-  "type": "news",
-  "cluster_id": "cbc08d42beb26"
  }
 ]
