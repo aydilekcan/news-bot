@@ -1,5 +1,17 @@
 [
  {
+  "title": "ABD birlikleri 20 yıl sonra Irak'tan ayrılıyor: Bundan sonra ne olacak?",
+  "link": "https://www.bbc.com/turkce/articles/c30rekq470wqo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "ABD, 2003'ten beri Irak'ta bulunan askeri varlığını sonlandırarak birliklerini 30 Eylül'e kadar geri çekiyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-09-30T00:01:03.099519+00:00",
+  "type": "news",
+  "cluster_id": "st5cfbfe4bb6"
+ },
+ {
   "title": "AYM'nin süresiz nafaka düzenlemesini iptaline ilişkin gerekçe Resmi Gazete'de yayımlandı",
   "link": "https://www.bbc.com/turkce/articles/c70v2pp0lz4o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59986,17 +59998,5 @@
   "ts": "2026-08-23T10:01:04.381924+00:00",
   "type": "news",
   "cluster_id": "cbc08d42beb26"
- },
- {
-  "title": "Bahçeli'nin çıkışının ardından iktidardan sürpriz hamle! Seçim sistemi değişiyor",
-  "link": "https://www.sozcu.com.tr/bahceli-nin-cikisinin-ardindan-iktidardan-surpriz-hamle-secim-sistemi-degisiyor-p351924",
-  "source": "Sözcü",
-  "summary_tr": "MHP lideri Devlet Bahçeli'nin seçim sistemi çağrısından sonra Cumhur İttifakı'ndan seçim sistemi değişimine yönelik hamle geldi.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-23T10:01:04.381924+00:00",
-  "type": "news",
-  "cluster_id": "c79e2d147390f"
  }
 ]
