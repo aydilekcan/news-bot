@@ -1,5 +1,65 @@
 [
  {
+  "title": "Süper Lig hakemi Yasin Kol ve yardımcı hakem Göktuğ Hazar Erel gözaltına alındı",
+  "link": "https://www.bbc.com/turkce/articles/cm62kp4k28gro?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Hakem skandalı soruşturmasında Süper Lig hakemi Yasin Kol ve yardımcı hakem Göktuğ Hazar Erel gözaltına alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-01T23:01:12.953419+00:00",
+  "type": "news",
+  "cluster_id": "st29bad6e230"
+ },
+ {
+  "title": "ABD, Suriye'yi savunma ticareti kısıtlamaları listesinden çıkardı",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-suriyeyi-savunma-ticareti-kisitlamalari-listesinden-cikardi/4075590",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Dışişleri Bakanlığı, Suriye'ye yönelik savunma ihracatı kısıtlamalarını kaldırarak ticaretin vaka bazında değerlendirileceğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-01T23:01:12.953419+00:00",
+  "type": "news",
+  "cluster_id": "st2cefe1d91d"
+ },
+ {
+  "title": "Husiler: Suudi Arabistan, başkent Sana ve diğer bazı kentlere hava saldırıları düzenliyor",
+  "link": "https://www.aa.com.tr/tr/dunya/husiler-suudi-arabistan-baskent-sana-ve-diger-bazi-kentlere-hava-saldirilari-duzenliyor/4075601",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Husiler, Suudi Arabistan'ın başkenti Sana ile Saada, Taiz ve Amran vilayetlerine hava saldırıları düzenlediğini öne sürdü.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-10-01T23:01:12.953419+00:00",
+  "type": "news",
+  "cluster_id": "st899f406021"
+ },
+ {
+  "title": "Bessent, dizel arzındaki aksaklıkların giderilmesi için Avrupa'ya çağrı yaptı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/bessent-dizel-arzindaki-aksakliklarin-giderilmesi-icin-avrupaya-cagri-yapti/4075591",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD Hazine Bakanı Bessent, küresel dizel arzındaki aksaklıkların giderilmesi için Avrupa'ya taahhütlerini yerine getirme çağrısı yaptı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-10-01T23:01:12.953419+00:00",
+  "type": "news",
+  "cluster_id": "ste768d9f260"
+ },
+ {
+  "title": "İsrail ordusunun, Gazze'nin güneyine düzenlediği saldırıda 1 polis hayatını kaybetti, 3 kişi yaralandı",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-gazzenin-guneyine-duzenledigi-saldirida-1-polis-hayatini-kaybetti-3-kisi-yaralandi/4075587",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusunun Gazze'nin güneyindeki Han Yunus'a düzenlediği saldırıda 1 polis öldü, 3 kişi yaralandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-10-01T23:01:12.953419+00:00",
+  "type": "news",
+  "cluster_id": "std25e3667a3"
+ },
+ {
   "title": "Son dakika... Bolu Belediyesi'ne yönelik soruşturmada 5 tutuklama",
   "link": "https://www.sozcu.com.tr/son-dakika-bolu-belediyesi-sorusturmasinda-5-tutuklama-p365343",
   "source": "Sözcü",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-28T08:01:09.794257+00:00",
   "type": "news",
   "cluster_id": "cf8bad9419408"
- },
- {
-  "title": "Hizmet Üretici Fiyat Endeksi (H-ÜFE) yıllık: %32,77",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdzZGcVlzdDFzVzlKLUpfTVpIcXVIWU1uNGJGMExKd0NkajVXQ3czTkhzY1R6eXBtYWNweGJXd3pMbjhPM3NlbFkwN3VRSngzMER6NDYxMU45ZHdwREtGRzNqcE9RdmVKUkEwU29lVG1OVTlrSGN0VjRBcERyZGRVQWFDcVgzNkQ1OFlFV0tHamVPenpERXBWR1hNU2bSAaIBQVVfeXFMTmI1Y3l6MGM3bFZyNFVqTkVCZFJwWk5OVDFyZnFxeERVc3BvbWdoNC16NHNKdDVDRFJiSE50TFJ5LVRmelZTamRjX3FQTUFibWw3NjlNWTMya3FlY3JNUDRhQ3NMOTlxbU9OamdzUjM4S096T0xQSzJXZk5MeFFlVWU3SXlPTnRuSzE4dkdLc25NTzQyV2NxLWROdHhGVkVIbi13?oc=5",
-  "source": "TÜİK",
-  "summary_tr": "%32,77",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-08-28T08:01:09.794257+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "Hizmet Üretici Fiyat Endeksi (H-ÜFE) aylık: %3,94",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdzZGcVlzdDFzVzlKLUpfTVpIcXVIWU1uNGJGMExKd0NkajVXQ3czTkhzY1R6eXBtYWNweGJXd3pMbjhPM3NlbFkwN3VRSngzMER6NDYxMU45ZHdwREtGRzNqcE9RdmVKUkEwU29lVG1OVTlrSGN0VjRBcERyZGRVQWFDcVgzNkQ1OFlFV0tHamVPenpERXBWR1hNU2bSAaIBQVVfeXFMTmI1Y3l6MGM3bFZyNFVqTkVCZFJwWk5OVDFyZnFxeERVc3BvbWdoNC16NHNKdDVDRFJiSE50TFJ5LVRmelZTamRjX3FQTUFibWw3NjlNWTMya3FlY3JNUDRhQ3NMOTlxbU9OamdzUjM4S096T0xQSzJXZk5MeFFlVWU3SXlPTnRuSzE4dkdLc25NTzQyV2NxLWROdHhGVkVIbi13?oc=5",
-  "source": "TÜİK",
-  "summary_tr": "%3,94",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-08-28T08:01:09.794257+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "İhracat aylık artışı: %2,9 (Temmuz)",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSXlnbTdDUjlFbmZXaWdNUDY2c0s2RUNrQkttRlJGWm5xQVNRX2FUamVnQzU4alV6SUQ2aERNa1hnMndWRG9pcFhkc2lJSG1neEM2R2t6d1NPeVJIYmg2eWkyMVVjSnNrZ043TkY0OE9GVnBMTGhMaENkeVktajUwcy1rbGpFNnpBQXZZZEZQZGgxc3VoOUt2Q3hDUFlLUnVSRWI0bnBFeXlGb3hWNlU1TDNoYkhyOGVUMF9aZlV1aENldw?oc=5",
-  "source": "TÜİK",
-  "summary_tr": "-9,5% → %2,9 (+12,4 puan)",
-  "metric": "+12,4 puan",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-08-28T08:01:09.794257+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "Dış ticaret açığı yıllık: %13,6",
-  "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54ZmRXNzVCeURRbDFyRWozZ2RvZC1LV3p3ZzdSMGw5MEU4c2hYWW53MGlBMnRkbkxEcmpLSjkwLUpqZkpGMl9YNzNld1NsR2V5YkVadmNudnRvcFU?oc=5",
-  "source": "TÜİK",
-  "summary_tr": "%13,6",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-08-28T08:01:09.794257+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "Dış ticaret açığı yıllık: %13,6 (Temmuz)",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY0RIOFhueDZ3eFdfaW4yLUFJX1ppekxYenlHRVVpWXFLanNPSVVOMm1zSXp3YUZfVTdLZEtqcWNDNEpUVkRzQzVTM0FONXBVbkxJUXdQcnFIZUUxczF5MVJlQkVVZ3JRS2VRNnhTN3lPdXNFRFgxazFwcVlmRVM0amhNVmhkejZTZnhPNzloYThZTlZkX0FTdS1EQkFSV0kwWkHSAacBQVVfeXFMTUlFSXhoSGhuX0JndzZMM3V6cGhkYXlHT2FIZFRVRGpwR3NwTUk3ZGdQNVNaMUtlLXEwaGZSZUJ3SzEwZUk1UnRtWlNORVMwRFlQcTNqWnVRSWd5YVJfNWwyWXV0dVlkWjVIZi1ZRE9zWFE0aVY0RmIxMkcxcllpMUJCTVYwYzNMSHpKS2tjdnlBbWNmWGRhUThmNy01d0J2WkJvU09EX2M?oc=5",
-  "source": "TÜİK",
-  "summary_tr": "%13,6 → %13,6",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-08-28T08:01:09.794257+00:00",
-  "type": "data",
-  "cluster_id": ""
  }
 ]
