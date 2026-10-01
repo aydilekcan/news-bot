@@ -1,5 +1,77 @@
 [
  {
+  "title": "İBB’de fark 12’ye düştü",
+  "link": "https://www.sozcu.com.tr/ibb-de-fark-12-ye-dustu-p365015",
+  "source": "Sözcü",
+  "summary_tr": "İmamoğlu hakkındaki bir mahkumiyetin kesinleşmesi halinde başkanlığının düşebileceği ve İBB Meclisi'nde yapılacak seçimi AKP'nin kazanabileceği bildirildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-01T03:01:17.608374+00:00",
+  "type": "news",
+  "cluster_id": "st26c5e1c863"
+ },
+ {
+  "title": "Foncuların gözdesi Finlandiya",
+  "link": "https://www.sozcu.com.tr/foncularin-gozdesi-finlandiya-p365014",
+  "source": "Sözcü",
+  "summary_tr": "Tutuklanan Tera Portföy sahibi Tezmen'in Finlandiya'da şirket ortağı olduğu, AKP'li eski Bakan Kaya'nın ablasının da aynı ülkede bağlantısı bulunduğu ortaya çıktı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-01T03:01:17.608374+00:00",
+  "type": "news",
+  "cluster_id": "stb6bac5a5d9"
+ },
+ {
+  "title": "Milyar çalana yok ifade kahvaltı çalana kelepçe",
+  "link": "https://www.sozcu.com.tr/milyar-calana-yok-ifade-kahvalti-calana-kelepce-p365013",
+  "source": "Sözcü",
+  "summary_tr": "Fon skandalında milyarlar kazandığı iddia edilen AKP Genel Başkan Yardımcısı ve eski Bakan Fatih hakkında sadece ifade alınırken küçük yatırımcıların tutuklandığı eleştirildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-01T03:01:17.608374+00:00",
+  "type": "news",
+  "cluster_id": "stb6bac5a5d9"
+ },
+ {
+  "title": "Öcalan'ın alt kuruldaki arkadaşları belli oluyor",
+  "link": "https://www.sozcu.com.tr/ocalan-in-alt-kuruldaki-arkadaslari-belli-oluyor-p365006",
+  "source": "Sözcü",
+  "summary_tr": "Çözüm sürecinde oluşturulan Silahsızlanma ve Strateji Koordinasyon komisyonunda Öcalan'a yakın isimlerin yer alacağı belirtildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-01T03:01:17.608374+00:00",
+  "type": "news",
+  "cluster_id": "stc1358944c3"
+ },
+ {
+  "title": "New Zealand Parliament dissolved ahead of tight November vote",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1Bpd3BKUy1yN2YzajlSbmIxbE1vaF9USEFZSGpCNWN4dlRIZVJpbVh5SUhiSlV0cjVHWklqNUpsNUtIRXFHTzhoTTNHV19iT2RBeHlrVnVoUGJmWlozYW5STGFnOENWeUxvU0lsbUVNbzlfZmtSZ3NqYjVTWmRsZGVWTzNfYUdkRUV6SldoekdCZElhRVFTSE42eUI1U2g1MWVaUkFOQzNmNkVYYUNQSnFuYw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Yeni Zelanda parlamentosu, kasımda yapılacak kritik seçim öncesi feshedildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-10-01T03:01:17.608374+00:00",
+  "type": "news",
+  "cluster_id": "st1b4a16db12"
+ },
+ {
+  "title": "Second judge blocks Trump's $100,000 fee for new H-1B worker visas",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3FZTkJ2YkRwSTR5U0dmMll4R0ZXTy01OTdDNWJrdUlDUmxSN29kaEZacnBpNm0yekdidlh6WHcxNXB1OEF0SFloWHFqMzNod2pFZnVLLXdjOW05Q2I0U1Y0R3NjNlJ1OVRrM1U3dk1MZ1hUem1yMGUtdEJaTlFrSTVPaGRUcnNDUEJIOGZMVGxRQkNJQlFhRXl3RGU5aFdOUWFaYU01ZFBLQTVrdjlDbVpB?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Bir ABD yargıcı, Trump'ın yeni H-1B çalışma vizeleri için getirdiği 100 bin dolarlık ücreti ikinci kez engelledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-10-01T03:01:17.608374+00:00",
+  "type": "news",
+  "cluster_id": "st2889a353af"
+ },
+ {
   "title": "Borsa, küresel finans krizinden sonra en büyük kaybı yaşadı",
   "link": "https://www.sozcu.com.tr/borsa-kuresel-finans-krizinden-sonra-en-buyuk-kaybi-yasadi-p365009",
   "source": "Sözcü",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-25T10:01:12.233400+00:00",
   "type": "news",
   "cluster_id": "cfcf0324e371a"
- },
- {
-  "title": "Ehliyet alacaklara kötü haber: 35 bin lirayı aştı",
-  "link": "https://www.sozcu.com.tr/ehliyet-alacaklara-kotu-haber-35-bin-lirayi-asti-p352511",
-  "source": "Sözcü",
-  "summary_tr": "2026'da ehliyet almak için gerekli eğitim ve sınav maliyeti 35 bin lirayı aştı.",
-  "metric": "Ehliyet maliyeti 35.000+ TL",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-25T10:01:12.233400+00:00",
-  "type": "news",
-  "cluster_id": "c6bb7534d3950"
- },
- {
-  "title": "ABD, İran'a karşı yeniden \"ekonomik baskı stratejisini\" devreye soktu",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-irana-karsi-yeniden-ekonomik-baski-stratejisini-devreye-soktu-/4036685",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD, İran'a karşı ekonomik baskı stratejisini merkezine alan yeni bir yaklaşıma yöneldi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-25T10:01:12.233400+00:00",
-  "type": "news",
-  "cluster_id": "cd40c96029fcf"
- },
- {
-  "title": "AİHM Kavala kararını açıkladı: Derhal serbest bırakılmalı",
-  "link": "https://www.bbc.com/turkce/articles/czdzpy2p570o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "AİHM, 9 yıldır tutuklu olan iş insanı Osman Kavala hakkında ikinci kez ihlal kararı açıkladı ve en kısa sürede serbest bırakılması gerektiğini belirtti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-25T09:01:15.790546+00:00",
-  "type": "news",
-  "cluster_id": "c240042750ca0"
- },
- {
-  "title": "AİHM Kavala kararını açıkladı: \"En kısa sürede serbest bırakılmalı\"",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcnE1LUJSZEE5aFoxS3ZtUTdkeXlZX29pMU12b3ZkZVVZUlN0T0NucHBFQUZoRXVaZjhWRjBYV3MtVjhMZzJIWFlJMzhsMUhqOWFKekJDN1pKMHFLOXkyZ2RBVU5zOENFZlI1VUpyVWJDNkoycWJTdEpwOXFoeDJaX3lqRVRYZ0dGRWs1SERzX0IwZjZNRVBIX053Z0lLTkk?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "AİHM Osman Kavala kararını açıkladı: En kısa sürede serbest bırakılmalı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-25T09:01:15.790546+00:00",
-  "type": "news",
-  "cluster_id": "c240042750ca0"
- },
- {
-  "title": "AİHM'den ikinci kez ihlal kararı: Osman Kavala en kısa sürede serbest bırakılmalı",
-  "link": "https://www.diken.com.tr/aihmden-ikinci-kez-ihlal-karari-osman-kavala-en-kisa-surede-serbest-birakilmali/?utm_source=rss&utm_medium=rss&utm_campaign=aihmden-ikinci-kez-ihlal-karari-osman-kavala-en-kisa-surede-serbest-birakilmali",
-  "source": "Diken",
-  "summary_tr": "AİHM Osman Kavala için ikinci kez ihlal kararı verdi ve acil serbest bırakılmasını talep etti.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-25T09:01:15.790546+00:00",
-  "type": "news",
-  "cluster_id": "c4a57cc13d1e7"
- },
- {
-  "title": "Son Dakika... AİHM, Osman Kavala hakkındaki kararını açıkladı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-aihm-osman-kavala-hakkindaki-kararini-acikladi-2532166",
-  "source": "Cumhuriyet",
-  "summary_tr": "AİHM Büyük Dairesi, 9 yıldır tutuklu iş insanı Osman Kavala hakkındaki kararını açıkladı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-25T09:01:15.790546+00:00",
-  "type": "news",
-  "cluster_id": "c15dc99f3dbfc"
  }
 ]
