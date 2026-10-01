@@ -1,5 +1,17 @@
 [
  {
+  "title": "PISA 2025 - Türkiye'de 15 yaşındakilerde yoksunluk (OECD ortalamasına oranı): 4 kat (2025)",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNWo4VWxQdjVJYzlfcmpQNWlEOWMzZnM5Y0x0ZW5TR3ZUUmdTYU5NRFM2VlN1cjByU3ZCZUM1TEFQRVZRemoyUFJ1Z2Rwb01lNjhlNUhrcU5hZjNjdW5QbW84REYzZWowVk9sdVBuSG5iMVNJTnJoWUlCbzYybTNneEtHQkZwRm5oVElpYUVRNGlDenptaUZtTDFwcUhqZlJHV1dRcjhWaVNJVEE4U3k0UVpjSjFZRkpwT3fSAb8BQVVfeXFMTlh6OVFzcFhEOURqWjhGYzFiZC1XMk1sWWRPeWgwTFJyRnRUbHpTOFN3THA0TWdzcjJFNVpkWmJkQk5yQlJDbDBzX1pRS3hJM3BzdUVSbGZCNjR1ZDM2T2tKcmI0Z2NyckN2VUp2WFBBZlprRUFIbXV1NVgzSU9lVzdGN0xxTDFlQ05ZVThxT0JmVk5ZeG9lX0wyZUVkZXZWeHMzS3I3Um0ydjdWbWtXT2Y1eUszWnMyLUs0dkFjeGc?oc=5",
+  "source": "OECD",
+  "summary_tr": "4 kat",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-10-01T00:01:04.840695+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Eşel mobil sistemi sona erdi: Benzine 4,23, motorine 3,60 lira zam",
   "link": "https://www.diken.com.tr/esel-mobil-sistemi-sona-erdi-benzine-415-motorine-360-lira-zam-geldi/?utm_source=rss&utm_medium=rss&utm_campaign=esel-mobil-sistemi-sona-erdi-benzine-415-motorine-360-lira-zam-geldi",
   "source": "Diken",
@@ -59986,17 +59998,5 @@
   "ts": "2026-08-25T08:01:05.410987+00:00",
   "type": "news",
   "cluster_id": "cf604fdb3339d"
- },
- {
-  "title": "İstanbul, Antalya ve Gaziantep başsavcılıklarınca düzenlenen operasyonlarda 77 gözaltı kararı",
-  "link": "https://www.aa.com.tr/tr/gundem/istanbul-antalya-ve-gaziantep-bassavciliklarinca-duzenlenen-operasyonlarda-77-gozalti-karari/4036514",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Adalet Bakanı Akın Gürlek, İstanbul, Antalya ve Gaziantep'te ekonomik suçlara ilişkin operasyonlarda 77 gözaltı kararı açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-25T08:01:05.410987+00:00",
-  "type": "news",
-  "cluster_id": "c6f187a730bb5"
  }
 ]
