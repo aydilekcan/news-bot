@@ -1,5 +1,53 @@
 [
  {
+  "title": "TBMM yeni yasama yılına bugün başlıyor",
+  "link": "https://www.trthaber.com/haber/gundem/tbmm-yeni-yasama-yilina-bugun-basliyor-958707.html",
+  "source": "TRT Haber",
+  "summary_tr": "TBMM Genel Kurulu, 51 günlük aranın ardından yeni yasama yılına başladı; gündemde Terörsüz Türkiye süreci var.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-01T04:01:07.664695+00:00",
+  "type": "news",
+  "cluster_id": "st2db6c17d99"
+ },
+ {
+  "title": "İngiltere, Çin'i yapay zeka araştırmalarını gözetlemek için akademisyenleri kullanmakla suçladı",
+  "link": "https://www.trthaber.com/haber/dunya/ingiltere-cini-yapay-zeka-arastirmalarini-gozetlemek-icin-akademisyenleri-kullanmakla-sucladi-958716.html",
+  "source": "TRT Haber",
+  "summary_tr": "İngiltere, Çin'i akademisyenler aracılığıyla yapay zeka araştırmalarında casusluk yapmakla suçladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-10-01T04:01:07.664695+00:00",
+  "type": "news",
+  "cluster_id": "stb27a9eaefc"
+ },
+ {
+  "title": "Japonya oturum izni ücretlerini yaklaşık yirmi kat artırdı",
+  "link": "https://www.trthaber.com/haber/dunya/japonya-oturum-izni-ucretlerini-yaklasik-yirmi-kat-artirdi-958708.html",
+  "source": "TRT Haber",
+  "summary_tr": "Japonya, yabancılar için kalıcı oturum izni ücretini yaklaşık 20 kat artırarak 200 bin yene çıkardı.",
+  "metric": "Oturum izni ücreti ~20 kat artış (200 bin yene)",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-10-01T04:01:07.664695+00:00",
+  "type": "news",
+  "cluster_id": "stbc0335c1ca"
+ },
+ {
+  "title": "UK says there are strong indications Iran played a part in a security incident at a US-run air base",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX0FLU2dIcXJnaHVjOGNxbVlGZHlzb0c1b1poaVJBUEFXeFBDd3l0UG8tUVdEMG5nMVFGcDcwRjA2MmhVWnBnLVhKd1dSd3VUWktRWnhIWFBoMHU2c2liRzNTX1BJSl85RXItakk3djNLUlpzaU9VQ1pqWWFibnN5RnlnX3JiRjB3RjQ3OVQ0eElPdU92clhSZ1IxbkM0MHM2SFU5cDhaMlZ3dG9lWjdhNlBGUVE?oc=5",
+  "source": "AP",
+  "summary_tr": "İngiltere, Fairford hava üssündeki güvenlik olayında İran'ın rolü olduğuna dair güçlü işaretler olduğunu açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-10-01T04:01:07.664695+00:00",
+  "type": "news",
+  "cluster_id": "st313974b5f6"
+ },
+ {
   "title": "İBB’de fark 12’ye düştü",
   "link": "https://www.sozcu.com.tr/ibb-de-fark-12-ye-dustu-p365015",
   "source": "Sözcü",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-25T10:01:12.233400+00:00",
   "type": "news",
   "cluster_id": "ca96b5c3081e9"
- },
- {
-  "title": "Hayat pahalılığı sosyal yaşamı vurdu: İstanbulluların engel nedeni bilet fiyatları, ilk kısılan kalem restoran-kafe",
-  "link": "https://www.cumhuriyet.com.tr/yasam/hayat-pahaliligi-sosyal-yasami-vurdu-istanbullularin-engel-nedeni-bilet-fiyatlari-ilk-kisilan-kalem-restoran-kafe-2532197",
-  "source": "Cumhuriyet",
-  "summary_tr": "İstanbul Barometresi verilerine göre hayat pahalılığı İstanbullularda sosyal yaşamı vuruyor; bilet fiyatları ve restoran-kafe giderleri ilk kısılan kalemler.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-25T10:01:12.233400+00:00",
-  "type": "news",
-  "cluster_id": "cddd004662b02"
- },
- {
-  "title": "AİHM: Kavala en kısa sürede serbest bırakılmalı",
-  "link": "https://www.sozcu.com.tr/aihm-kavala-en-kisa-surede-serbest-birakilmali-p352504",
-  "source": "Sözcü",
-  "summary_tr": "AİHM Büyük Dairesi, Osman Kavala'nın ikinci başvurusunda Türkiye'nin İnsan Hakları Sözleşmesi'ni ihlal ettiğine hükmetti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-25T10:01:12.233400+00:00",
-  "type": "news",
-  "cluster_id": "c78b6383f030c"
- },
- {
-  "title": "AİHM Kavala hakkında ikinci kez hak ihlali kararı verdi: \"En kısa sürede serbest bırakılmalı\"",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcnE1LUJSZEE5aFoxS3ZtUTdkeXlZX29pMU12b3ZkZVVZUlN0T0NucHBFQUZoRXVaZjhWRjBYV3MtVjhMZzJIWFlJMzhsMUhqOWFKekJDN1pKMHFLOXkyZ2RBVU5zOENFZlI1VUpyVWJDNkoycWJTdEpwOXFoeDJaX3lqRVRYZ0dGRWs1SERzX0IwZjZNRVBIX053Z0lLTkk?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "AİHM, Osman Kavala hakkında ikinci kez hak ihlali kararı vererek en kısa sürede serbest bırakılmasını talep etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-25T10:01:12.233400+00:00",
-  "type": "news",
-  "cluster_id": "c78b6383f030c"
- },
- {
-  "title": "Rusya'ya düşen füzeler Türkiye'nin cebini yaktı: Akaryakıta zam sinyali",
-  "link": "https://www.sozcu.com.tr/rusya-ya-dusen-fuzeler-turkiye-nin-cebini-yakti-akaryakita-zam-sinyali-p352512",
-  "source": "Sözcü",
-  "summary_tr": "Ukrayna'nın Rusya'nın rafineri saldırıları Moskova'nın yakıt arzını zorlayarak Türkiye'nin akaryakıt fiyatlarına baskı oluşturuyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-25T10:01:12.233400+00:00",
-  "type": "news",
-  "cluster_id": "cfcf0324e371a"
  }
 ]
