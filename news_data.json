@@ -1,5 +1,77 @@
 [
  {
+  "title": "Son Dakika: Soma'dan acı haberler geliyor. Ölü sayısı 5’e çıktı",
+  "link": "https://www.sozcu.com.tr/son-dakika-soma-dan-aci-haberler-geliyor-olu-sayisi-5-e-cikti-p365373",
+  "source": "Sözcü",
+  "summary_tr": "Soma'daki maden göçüğünde ölü sayısı 5'e yükseldi.",
+  "metric": "Ölü sayısı 2 -> 5",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-02T04:01:02.289700+00:00",
+  "type": "news",
+  "cluster_id": "st73305db2af"
+ },
+ {
+  "title": "Manisa'da maden ocağında göçük: 3 işçinin daha cenazesine ulaşıldı",
+  "link": "https://www.trthaber.com/haber/turkiye/manisada-maden-ocaginda-gocuk-3-iscinin-daha-cenazesine-ulasildi-958840.html",
+  "source": "TRT Haber",
+  "summary_tr": "Soma'daki maden göçüğünde 3 işçinin daha cenazesine ulaşıldı, ölü sayısı 5'e çıktı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-10-02T04:01:02.289700+00:00",
+  "type": "news",
+  "cluster_id": "st73305db2af"
+ },
+ {
+  "title": "İran savaşı çıkmaza girerken ABD, Orta Doğu'ya üçüncü uçak gemisini gönderdi",
+  "link": "https://www.trthaber.com/haber/dunya/iran-savasi-cikmaza-girerken-abd-orta-doguya-ucuncu-ucak-gemisini-gonderdi-958844.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD, Orta Doğu'ya üçüncü bir uçak gemisi görev gücü sevk ediyor.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-10-02T04:01:02.289700+00:00",
+  "type": "news",
+  "cluster_id": "stc9727e43b6"
+ },
+ {
+  "title": "First new F-16V fighter jets to arrive in Taiwan to bolster defences against China",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQemotSUFPaElSNFZ4OHRwM2pXYktMUzh3QmJPcVR6QkdvdVJVbENTVVo1cmxUSUxRZnhjZExnWUhYQTlXT25GWTIwTG5OMGItZlRJeV9BejdXZ3h4U0YzZFByVGE2TmtBb2REeGlNVW82OUpvOUREQktUOHFlWkl0bUVXNUZFM1FTNy1OdDgxYjFDY1hxRFhqcVNVT3Q0QmtPUktoeEZscnpYQVFDcGlGUnpjUUt3T3d5Q0wzbzlzeEcwQWFINEtPNkpMbFYtejE4OEE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Tayvan'a Çin'e karşı savunmasını güçlendirmek için ilk yeni F-16V savaş uçakları teslim edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-02T04:01:02.289700+00:00",
+  "type": "news",
+  "cluster_id": "sta8edacf355"
+ },
+ {
+  "title": "ABD'den Avrupa'ya acil yakıt çağrısı: Rezervlerinizi serbest bırakın",
+  "link": "https://www.trthaber.com/haber/dunya/abdden-avrupaya-acil-yakit-cagrisi-rezervlerinizi-serbest-birakin-958838.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD Başkanı Trump, Avrupa'dan dizel rezervlerini serbest bırakmasını istedi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-10-02T04:01:02.289700+00:00",
+  "type": "news",
+  "cluster_id": "ste768d9f260"
+ },
+ {
+  "title": "Hakemler dosyasında çok sayıda hakemin ifadesine başvuruldu",
+  "link": "https://www.trthaber.com/haber/gundem/hakemler-dosyasinda-cok-sayida-hakemin-ifadesine-basvuruldu-958837.html",
+  "source": "TRT Haber",
+  "summary_tr": "Hakemler dosyası soruşturmasında çok sayıda hakemin ifadesine başvuruldu.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-10-02T04:01:02.289700+00:00",
+  "type": "news",
+  "cluster_id": "st29bad6e230"
+ },
+ {
   "title": "Fon vurgununda bir AKP’li daha: Reklamcı, eski vekil",
   "link": "https://www.sozcu.com.tr/fon-vurgununda-bir-akp-li-daha-reklamci-eski-vekil-p365370",
   "source": "Sözcü",
@@ -59926,77 +59998,5 @@
   "ts": "2026-08-28T11:01:13.112199+00:00",
   "type": "news",
   "cluster_id": "ce4daf4160556"
- },
- {
-  "title": "Somali açıklarındaki Türk sondaj çalışmaları planlanandan bir ay önce tamamlanabilir",
-  "link": "https://www.aa.com.tr/tr/dunya/somali-aciklarindaki-turk-sondaj-calismalari-planlanandan-bir-ay-once-tamamlanabilir/4040125",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Somali Petrol Otoritesi, Türkiye'nin Somali açıklarında yürüttüğü petrol ve doğal gaz sondajının planlanandan bir ay önce tamamlanabileceğini bildirdi.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-28T11:01:13.112199+00:00",
-  "type": "news",
-  "cluster_id": "c0325db991ddd"
- },
- {
-  "title": "İhracat (aylık değişim): %2,9 (Temmuz)",
-  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMUTF4MWFBMlZFUmJjTkZMTGJndlIyU2w4RG1ZZEhidFFhU1hTamJiaVVBRmlXQjM1alQ4WVA3eUpPeTB1WFl1UThZX3B0eG5mclktM0NaTEtYMGtjTFUzZFlwMFJBUGNfZ2hacEIyZw?oc=5",
-  "source": "TÜİK",
-  "summary_tr": "%2,9 → %2,9",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-08-28T11:01:13.112199+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "Öğrencilere depozito uyarısı: Sözleşmeye 'kira bedeli' yazın",
-  "link": "https://www.diken.com.tr/ogrencilere-depozito-uyarisi-sozlesmeye-kira-bedeli-yazin/?utm_source=rss&utm_medium=rss&utm_campaign=ogrencilere-depozito-uyarisi-sozlesmeye-kira-bedeli-yazin",
-  "source": "Diken",
-  "summary_tr": "Öğrencilere kira depozito uyarısı: Sözleşmeye 'kira bedeli' yazılması tavsiye ediliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-28T10:01:06.222198+00:00",
-  "type": "news",
-  "cluster_id": "c6156db2a336f"
- },
- {
-  "title": "Türk Eximbank'tan yılın ilk yarısında ihracata 32 milyar dolarlık destek",
-  "link": "https://www.aa.com.tr/tr/ekonomi/turk-eximbanktan-yilin-ilk-yarisinda-ihracata-32-milyar-dolarlik-destek/4040029",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türk Eximbank yılın ilk yarısında ihracat desteğini %26 artırarak 15,8 milyar dolar kredi sağladı.",
-  "metric": "İhracat desteği: +%26 artış (kredi 15,8 milyar dolar)",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-28T10:01:06.222198+00:00",
-  "type": "news",
-  "cluster_id": "ced6f2838e800"
- },
- {
-  "title": "September risks are stacking up hard and fast for world markets",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUzFqNTRaNFlnMk1nN1JYVnNTUklVVU1JcTEtZW5OeVFwUC1OczhMY3NJcGpWQWJzMmoxQ3oxN0l0TW5wSEMtdEk4a3otcHJTSzVxdk94a3lLV0FNbXNBQTROVXltSk42ME02ZGVSb0NxNWFBTjlEU2YzX05YZXBOaXNpdEJhMnlWYWF1T1BVRFlmMkU?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Eylül ayı küresel piyasalar için artan riskler taşıyor; finansal belirsizliklerin yoğunlaştığı uyarısı yapılıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-28T10:01:06.222198+00:00",
-  "type": "news",
-  "cluster_id": "cba344c3dc356"
- },
- {
-  "title": "Gümüş fiyatları iki ayın zirvesinde: Yatırımcının gözü kritik toplantıda",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/gumus-fiyatlari-iki-ayin-zirvesinde-yatirimcinin-gozu-kritik-toplantida-2533078",
-  "source": "Cumhuriyet",
-  "summary_tr": "Gümüş fiyatları iki ayın en yüksek seviyesine çıktı; yatırımcılar Fed politika kararını bekliyor.",
-  "metric": "Gümüş fiyatı: ~70 dolar/ons üzerine çıktı",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-28T10:01:06.222198+00:00",
-  "type": "news",
-  "cluster_id": "c236abb9ac783"
  }
 ]
