@@ -1,5 +1,29 @@
 [
  {
+  "title": "Son Dakika... Fon soruşturmasında yeni gelişme: 20 isim daha tutuklamaya sevk edildi",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-fon-sorusturmasinda-yeni-gelisme-20-isim-daha-tutuklamaya-sevk-edildi-2543213",
+  "source": "Cumhuriyet",
+  "summary_tr": "Fon soruşturmasında 20 şüpheli daha ifadelerinin ardından tutuklanmak üzere sevk edildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-10-02T20:01:08.646044+00:00",
+  "type": "news",
+  "cluster_id": "stb6bac5a5d9"
+ },
+ {
+  "title": "Hacıosmanoğlu’ndan MHK Başkanı Gündoğdu’ya: 'FETÖ’cü, bunları bitir'",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcVFiQjFmVTNhUElLd1ZSU2s3eTIxdW9TNG5NQjJ3WnVmbXhyOEFlWVZwaWNybElOTUZlUUY2VjNhdURCaGN2a3M0NFhKMmVNZXJoRmI1Q0xvcDJjMDdhYVhKU3lQS0g0Smt1akpaSzlQS0FTN2ViRTkzOWp0WWZUOEZKNFhubHl1NnpTZFpKVVlxb1M3Qk9aMzIzM2tnZjZv?oc=5",
+  "source": "soL",
+  "summary_tr": "TFF Başkanı Hacıosmanoğlu'nun MHK Başkanı Gündoğdu'ya 'FETÖ'cü, bunları bitir' dediği ortaya çıkan yazışmalarda yer aldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-10-02T20:01:08.646044+00:00",
+  "type": "news",
+  "cluster_id": "st29bad6e230"
+ },
+ {
   "title": "BDDK'den cep telefonu kredileri ve kredi kartlarına ilişkin düzenleme",
   "link": "https://www.aa.com.tr/tr/ekonomi/bddkden-cep-telefonu-kredileri-ve-kredi-kartlarina-iliskin-duzenleme/4076485",
   "source": "Anadolu Ajansı",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-30T13:01:08.701413+00:00",
   "type": "news",
   "cluster_id": "cc100f8517a52"
- },
- {
-  "title": "Kira sözleşmesinde yeni dönem kapıda",
-  "link": "https://www.diken.com.tr/kira-sozlesmesinde-yeni-donem-kapida/?utm_source=rss&utm_medium=rss&utm_campaign=kira-sozlesmesinde-yeni-donem-kapida",
-  "source": "Diken",
-  "summary_tr": "Hazine ve Maliye Bakanlığı kira sözleşmelerinin e-Devlet Kapısı üzerinden hazırlanmasına ilişkin yeni dönem başlatıyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-30T13:01:08.701413+00:00",
-  "type": "news",
-  "cluster_id": "cadbbd614cb0e"
- },
- {
-  "title": "İsrail ordusu, ateşkese rağmen Lübnan'ın güneyinde bazı bölgeleri hedef aldı",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyinde-bazi-bolgeleri-hedef-aldi/4041541",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyindeki bölgeleri hedef aldı; savaş dinamikleri değişiyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-30T12:03:05.606211+00:00",
-  "type": "news",
-  "cluster_id": "ccdc3fa9e5c8e"
  }
 ]
