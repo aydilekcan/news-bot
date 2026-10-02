@@ -1,5 +1,41 @@
 [
  {
+  "title": "New Mexico wants Meta to pay up to $40 billion in penalties after data privacy trial",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPejVnckU0ZWxSMDJ5V2d2WXZfa0ZTQ3ctRW9zQWRCMDZYVjhBZ3F0QTJSRVNuN3MzbTZyVzNCREJLclVDZmowNzZCRDV3UmtyblJQd3M4aWxFVXc0UkRwSzExSUh4cTVpdWZuYXItYTM1YWVrbFJzMnR0ZWR3b3A4NVZrbU9maVc3Z3NpNmg3YVpaOEk4OEx1a3VFQXQteEJ6T1NHRmxaX0JKQzZHRmE5emVDOFM3bGFFNVl3?oc=5",
+  "source": "Reuters",
+  "summary_tr": "New Mexico eyaleti, veri gizliliği davasında Meta'nın 40 milyar dolara kadar ceza ödemesini talep etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-02T01:01:00.168160+00:00",
+  "type": "news",
+  "cluster_id": "stbc8410aa80"
+ },
+ {
+  "title": "US Navy awards RTX's Raytheon $24.4 billion contract for Standard Missile-6 amid stockpile concerns",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOczhaYkRTa0p5SEpDaTFhbkNSLTFyeTZBaERmYlRHb0tqNHpkb21hVWZtRHpDQUxFbkpYTVc1bFZfd3pyZ1Q3M1Yza1NrMi1fbW5FN0JGaGNJYXQzMVAzV2pmUDZuQTFoSnZrNVRwc0d6aWU2bDRadFpSQXAxOW11czc1Z2kyTXNCdW9FTEtmX0VxRUpFZEtyMUVEWkFhclYzZ2taNFZnQzJPbGRMc3dHWENFLTEyRDQ5ajlVblcyaXRpWXZDTmdoaml6bkJxenRwZ2c?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Donanması, füze stok endişeleri nedeniyle RTX'in Raytheon birimine Standard Missile-6 için 24,4 milyar dolarlık sözleşme verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-02T01:01:00.168160+00:00",
+  "type": "news",
+  "cluster_id": "st9d0f31c0a1"
+ },
+ {
+  "title": "Fed policymakers lean against October rate hike",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcEdmemN4NUZ5RjRobklFbGFkcWZ0NENTRmZfU2hmNnFuZ1ZkRzJKY09hV3VLcjllT2V3VEVHdGg1NTFBbU1BVUJycDV1ODc5cTRxM1hCWlk5aW1RY3c0RzQ2bTNMcmsybi1VdDdoMG9RdUFrakRXSnFfb2trYmpOQzU5RmNmMXpqZlpJNUY1OEtEOGxnNXhlUjkzdmpnaWZVSVcwX1MyTHl1UQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Fed yetkilileri Ekim ayında faiz artışına karşı olduklarını belirtti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-10-02T01:01:00.168160+00:00",
+  "type": "news",
+  "cluster_id": "st05e14423e4"
+ },
+ {
   "title": "Süper Lig hakemi Yasin Kol ve yardımcı hakem Göktuğ Hazar Erel gözaltına alındı",
   "link": "https://www.bbc.com/turkce/articles/cm62kp4k28gro?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-28T08:01:09.794257+00:00",
   "type": "news",
   "cluster_id": "ce595b9dac49a"
- },
- {
-  "title": "TÜİK hesabı: Ekonomik güven endeksi 100'ü aştı",
-  "link": "https://www.diken.com.tr/tuik-hesabi-ekonomik-guven-endeksi-100u-asti/?utm_source=rss&utm_medium=rss&utm_campaign=tuik-hesabi-ekonomik-guven-endeksi-100u-asti",
-  "source": "Diken",
-  "summary_tr": "Ekonomik güven endeksi ağustosta %0,8 artışla 100,6'ya yükseldi.",
-  "metric": "Ekonomik güven endeksi 100,0 -> 100,6 (+%0,8)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-28T08:01:09.794257+00:00",
-  "type": "news",
-  "cluster_id": "cbed32010da90"
- },
- {
-  "title": "Ekonomik güven endeksi ağustosta 100,6 oldu",
-  "link": "https://www.trthaber.com/haber/ekonomi/ekonomik-guven-endeksi-agustosta-1006-oldu-955191.html",
-  "source": "TRT Haber",
-  "summary_tr": "Ekonomik güven endeksi ağustosta aylık bazda %0,8 artışla 100,6 değerini aldı.",
-  "metric": "Ekonomik güven endeksi %0,8 artış",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-28T08:01:09.794257+00:00",
-  "type": "news",
-  "cluster_id": "cbed32010da90"
- },
- {
-  "title": "Hizmet Üretici Fiyat Endeksi temmuzda arttı",
-  "link": "https://www.trthaber.com/haber/ekonomi/hizmet-uretici-fiyat-endeksi-temmuzda-artti-955190.html",
-  "source": "TRT Haber",
-  "summary_tr": "Hizmet Üretici Fiyat Endeksi temmuzda aylık %3,94, yıllık %32,77 artış gösterdi.",
-  "metric": "HÜFE (yıllık) +%32,77",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-28T08:01:09.794257+00:00",
-  "type": "news",
-  "cluster_id": "cf8bad9419408"
  }
 ]
