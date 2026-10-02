@@ -1146,6 +1146,12 @@
    "period": "2025",
    "ts": "2026-10-01T00:01:10.783191+00:00",
    "indicator_tr": "PISA 2025 - Türkiye'de 15 yaşındakilerde yoksunluk (OECD ortalamasına oranı)"
+  },
+  "tr_ticaret_bakanligi_ek_tahakkuk_ceza": {
+   "value": "10,1 milyar lira",
+   "period": "2026 Ocak-Ağustos",
+   "ts": "2026-10-02T08:01:29.299360+00:00",
+   "indicator_tr": "Ticaret Bakanlığı ek tahakkuk ve ceza kararı"
   }
  },
  "seen_links": {
@@ -1404,6 +1410,8 @@
   "986f138a1fefc7a76ad862ef2690d101": "2026-10-01T23:01:12.953419+00:00",
   "123c3154f66fc03652d771be894bd71a": "2026-10-01T23:01:12.953419+00:00",
   "247ee0e3b26782e6c01242b527b9b8c9": "2026-10-02T04:01:02.289700+00:00",
-  "73c8774057a7b2de1f2d59c0cc3010ea": "2026-10-02T07:01:36.223416+00:00"
+  "73c8774057a7b2de1f2d59c0cc3010ea": "2026-10-02T07:01:36.223416+00:00",
+  "0bcf007b9a0b64031158f56a143a7824": "2026-10-02T08:01:24.763634+00:00",
+  "e3e394c139b7109640e6d0c3178bd7d0": "2026-10-02T08:01:24.763634+00:00"
  }
 }
