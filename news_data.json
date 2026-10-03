@@ -1,5 +1,41 @@
 [
  {
+  "title": "İsrail ordusunun Gazze'de bir binaya düzenlediği saldırıda 1'i çocuk 5 Filistinli öldü",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-gazzede-bir-binaya-duzenledigi-saldirida-1i-cocuk-5-filistinli-oldu/4076659",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail ordusu ateşkese rağmen Gazze'de bir binayı bombaladı, biri çocuk 5 Filistinli öldü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-10-03T01:01:01.567157+00:00",
+  "type": "news",
+  "cluster_id": "st1652778dc5"
+ },
+ {
+  "title": "Bakanlık erişim engellerinde sorumluluğu Siber Güvenlik Başkanlığı’na bıraktı: Engel AYM’de çözüm bekliyor",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/bakanlik-erisim-engellerinde-sorumlulugu-siber-guvenlik-baskanligi-na-birakti-engel-aym-de-cozum-bekliyor-2543178",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ulaştırma Bakanı Uraloğlu, erişim engeli sorumluluğunu Siber Güvenlik Başkanlığı'na bıraktı; konu AYM'de çözüm bekliyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-03T01:01:01.567157+00:00",
+  "type": "news",
+  "cluster_id": "st06121c1efb"
+ },
+ {
+  "title": "TELE2 Haber yayınlarını sonlandırıyor: “RTÜK’ün istediği 2 milyon liralık lisans ücretini karşılayamıyoruz",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRVlld0Jxak1aa1hEWk9XV0t6aTdVejEyN29sNlNVY29TUVc3LVFKYmpXMzN0TkcxZGNRNWlTLW9DYUZwMVlLeUlvZkxpSWhVYS1mQ2lIUHQ2T0JFZFZScmFwcXpUV0VVNmxua1JseE55ZnhCa2o1cTdKUm1EamVGdTRRMFZuczRXU1ZKeGhRWENMaTZiQkEzempYenhYZ1BnQlU2bW5LazVrSW1RNHZJS1B3T2FMVFk3YkNVSVBFT1RobWZqR2hTN3RzMFdjMXJlVHpHYXJ0Wng4YzlX?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Tele2 Haber, RTÜK'ün istediği 2 milyon liralık lisans ücretini karşılayamadığı için yayınlarını sonlandırıyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-10-03T01:01:01.567157+00:00",
+  "type": "news",
+  "cluster_id": "stdf08bf2fb0"
+ },
+ {
   "title": "MHK Başkanı Gündoğdu tutuklama talebiyle mahkemeye sevk edildi",
   "link": "https://www.bbc.com/turkce/articles/cm62kp4k28gro?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-30T20:00:59.499603+00:00",
   "type": "news",
   "cluster_id": "c777846d98671"
- },
- {
-  "title": "İran basını, Lark Adası'ndan patlama sesleri geldiğini belirtti",
-  "link": "https://www.trthaber.com/haber/dunya/iran-basini-lark-adasindan-patlama-sesleri-geldigini-belirtti-955395.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD'nin İran'ın Lark Adası'na saldırı düzenlemesi sonrasında İran basını adadan patlama sesleri geldiğini bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-30T20:00:59.499603+00:00",
-  "type": "news",
-  "cluster_id": "c777846d98671"
- },
- {
-  "title": "Girne açıklarında yolcu feribotu battı: En az 8 yolcu öldü, 19 kayıp var",
-  "link": "https://www.bbc.com/turkce/articles/c4gvzyyq2jwo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Girne açıklarında yolcu feribotu alabora oldu; en az 8 ölü, 19 kayıp. 259 yolcu ve mürettebatın bulunduğu gemide arama kurtarma çalışmaları sürüyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-08-30T19:01:46.454597+00:00",
-  "type": "news",
-  "cluster_id": "cce691854d03a"
- },
- {
-  "title": "KKTC'de 3 günlük yas ilan edildi",
-  "link": "https://www.trthaber.com/haber/gundem/kktcde-3-gunluk-yas-ilan-edildi-955394.html",
-  "source": "TRT Haber",
-  "summary_tr": "KKTC, Girne'deki deniz felaketi sonucu 3 günlük ulusal yas ilan etti. Feribotun batması nedeniyle can kayıpları yaşandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-30T19:01:46.454597+00:00",
-  "type": "news",
-  "cluster_id": "ce9fcdaf3a1be"
  }
 ]
