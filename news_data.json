@@ -1,5 +1,17 @@
 [
  {
+  "title": "MHK Başkanı Gündoğdu tutuklama talebiyle mahkemeye sevk edildi",
+  "link": "https://www.bbc.com/turkce/articles/cm62kp4k28gro?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "MHK Başkanı Ferhat Gündoğdu, hakem soruşturması kapsamında tutuklama talebiyle mahkemeye sevk edildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-03T00:01:01.262339+00:00",
+  "type": "news",
+  "cluster_id": "st29bad6e230"
+ },
+ {
   "title": "\"Hakemler dosyası\" soruşturmasında gözaltına alınan 7 şüpheliye tutuklama talebi",
   "link": "https://www.aa.com.tr/tr/gundem/hakemler-dosyasi-sorusturmasinda-gozaltina-alinan-7-supheliye-tutuklama-talebi/4076640",
   "source": "Anadolu Ajansı",
@@ -59986,17 +59998,5 @@
   "ts": "2026-08-30T19:01:46.454597+00:00",
   "type": "news",
   "cluster_id": "ce9fcdaf3a1be"
- },
- {
-  "title": "Rusya bir kez daha Ukrayna'yı hedef aldı",
-  "link": "https://www.sozcu.com.tr/rusya-kievde-lojistik-merkeze-iha-ile-saldirdik-p354008",
-  "source": "Sözcü",
-  "summary_tr": "Rusya, Kiev bölgesindeki askeri amaçlı bir lojistik merkezi vurdu. Ukrayna-Rusya çatışmasında devam eden hava operasyonu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-30T19:01:46.454597+00:00",
-  "type": "news",
-  "cluster_id": "c8c95aa9be6e7"
  }
 ]
