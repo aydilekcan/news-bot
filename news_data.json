@@ -1,5 +1,17 @@
 [
  {
+  "title": "North Korea fires ballistic missile toward sea, South Korea and Japan say",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaFhLbGpLUW9wdUc3cU0zLXhMNjlscGpUQjJzSmVGTk9GNFJCRDVrLUFiajVfWnY5cTRYZGxWNzRfSGZneFlXRVFmLUYzZTNoV1lRX1ExSTJ5WlUyOFFFTGVfWkFDelgyazZrN0l3QWt5bG1GM0QxTmd3OU5yWG50SHVEOEstbTkwd1ltaVh2RU5QbVBnNG1HbGZ3MU15MDl6UXUxSDVxYkJHZXNuamNXdWhUUmp2eFRJV21uQW1jT2R4VXAtcmU1cEt5WHRiQQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Kuzey Kore, denize doğru balistik füze fırlattı; Güney Kore ve Japonya bunu doğruladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-03T02:01:02.103181+00:00",
+  "type": "news",
+  "cluster_id": "st81ff72e4f6"
+ },
+ {
   "title": "İsrail ordusunun Gazze'de bir binaya düzenlediği saldırıda 1'i çocuk 5 Filistinli öldü",
   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-gazzede-bir-binaya-duzenledigi-saldirida-1i-cocuk-5-filistinli-oldu/4076659",
   "source": "Anadolu Ajansı",
@@ -59986,17 +59998,5 @@
   "ts": "2026-08-30T21:01:34.999385+00:00",
   "type": "news",
   "cluster_id": "ce04e34cecf1d"
- },
- {
-  "title": "İran basını, Hürmüz Boğazı yakınlarındaki Lark Adası'ndan patlama sesleri geldiğini bildirdi",
-  "link": "https://www.aa.com.tr/tr/dunya/iran-basini-hurmuz-bogazi-yakinlarindaki-lark-adasindan-patlama-sesleri-geldigini-bildirdi/4041986",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD'nin İran'ın Lark Adası'na saldırı düzenlemesinin ardından İran basını adadan patlama sesleri duyulduğunu bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-30T20:00:59.499603+00:00",
-  "type": "news",
-  "cluster_id": "c777846d98671"
  }
 ]
