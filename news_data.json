@@ -1,5 +1,29 @@
 [
  {
+  "title": "Oğul Yazıcı finans sektöründe 5’lemiş",
+  "link": "https://www.sozcu.com.tr/ogul-yazici-finans-sektorunde-5-lemis-p365673",
+  "source": "Sözcü",
+  "summary_tr": "Fon soruşturmasında Hayati Yazıcı'nın oğlu Mustafa Yazıcı'nın, Ali Emre Ballı ve BDDK eski Başkan Yardımcısı Murat Yönaç ile birlikte 5 finans şirketinde yöneticilik yaptığı ortaya çıktı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-03T03:01:07.864800+00:00",
+  "type": "news",
+  "cluster_id": "stef81c3cf05"
+ },
+ {
+  "title": "Trump: not going to be doing diesel export ban",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNFpjaVZQbDFyTVpod0ZuUDM2djZsT1RmNzZ5TVpZRFpRbHlFbzFIeFNuaGlPeHNWem1Kc2hZN2FEVGY0eVpqemJhTjQzMzBjcUlHWXpIbTE4ZUM0N05Mc3plQXA4VjNmdXVYc0lWZ242NlJJYVNLS2w4ZGpKdjljTnJpd0dNSUhXR3UzRVpsWlMxNkRUbWNXQTJR?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, ABD'nin dizel ihracat yasağı uygulamayacağını açıkladı; Avrupa'nın stoklanmış dizel yakıtı piyasaya sürme konusunda anlaşmasının ardından baskı yumuşadı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-03T03:01:07.864800+00:00",
+  "type": "news",
+  "cluster_id": "ste768d9f260"
+ },
+ {
   "title": "North Korea fires ballistic missile toward sea, South Korea and Japan say",
   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaFhLbGpLUW9wdUc3cU0zLXhMNjlscGpUQjJzSmVGTk9GNFJCRDVrLUFiajVfWnY5cTRYZGxWNzRfSGZneFlXRVFmLUYzZTNoV1lRX1ExSTJ5WlUyOFFFTGVfWkFDelgyazZrN0l3QWt5bG1GM0QxTmd3OU5yWG50SHVEOEstbTkwd1ltaVh2RU5QbVBnNG1HbGZ3MU15MDl6UXUxSDVxYkJHZXNuamNXdWhUUmp2eFRJV21uQW1jT2R4VXAtcmU1cEt5WHRiQQ?oc=5",
   "source": "Reuters",
@@ -59974,29 +59998,5 @@
   "ts": "2026-08-30T21:01:34.999385+00:00",
   "type": "news",
   "cluster_id": "c6a2bd6872d40"
- },
- {
-  "title": "ABD yeniden İran'ı vurdu: Ölü ve yaralılar var",
-  "link": "https://www.sozcu.com.tr/abd-yeniden-iran-i-vurdu-olu-ve-yaralilar-var-p354020",
-  "source": "Sözcü",
-  "summary_tr": "ABD ordusu İran'ın Lark Adası'na saldırı düzenledi; İran'dan ölü ve yaralılar bildiriliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-08-30T21:01:34.999385+00:00",
-  "type": "news",
-  "cluster_id": "c2e59d0cec343"
- },
- {
-  "title": "Nepal'deki selde hayatını kaybedenlerin sayısı 794'e yükseldi",
-  "link": "https://www.trthaber.com/haber/dunya/nepaldeki-selde-hayatini-kaybedenlerin-sayisi-794e-yukseldi-955400.html",
-  "source": "TRT Haber",
-  "summary_tr": "Nepal'de meydana gelen selde ölü sayısı 794'e yükseldi.",
-  "metric": "Ölü sayısı 794",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-30T21:01:34.999385+00:00",
-  "type": "news",
-  "cluster_id": "ce04e34cecf1d"
  }
 ]
