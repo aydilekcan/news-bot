@@ -1,5 +1,41 @@
 [
  {
+  "title": "Başkan vekili gözaltına alındı, 6 üye AKP'ye geçti... Ataşehir Belediyesi'nin önünde sert açıklama: 'Operasyonu ya da el değiştireceğini biliyor muydunuz...'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/baskan-vekili-gozaltina-alindi-6-uye-akp-ye-gecti-atasehir-belediyesi-nin-onunde-sert-aciklama-operasyonu-ya-da-el-degistirecegini-biliyor-muydunuz-2543644",
+  "source": "Cumhuriyet",
+  "summary_tr": "Ataşehir Belediyesi'nde başkan vekili gözaltına alınırken 6 meclis üyesi AKP'ye geçti; Yeni Parti İl Başkanı Özgür Çelik durumu operasyon olarak nitelendirdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-04T16:01:10.205467+00:00",
+  "type": "news",
+  "cluster_id": "st593bf91f56"
+ },
+ {
+  "title": "Ukrayna: ABD, ekim sonuna kadar üçlü formatta teknik düzeyde toplantı düzenlemeyi öneriyor",
+  "link": "https://www.aa.com.tr/tr/dunya/ukrayna-abd-ekim-sonuna-kadar-uclu-formatta-teknik-duzeyde-toplanti-duzenlemeyi-oneriyor/4077755",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Zelenskiy, ABD'nin ekim sonuna kadar üçlü formatta teknik düzeyde müzakere toplantısı önerdiğini açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-04T16:01:10.205467+00:00",
+  "type": "news",
+  "cluster_id": "stcc3a843d4e"
+ },
+ {
+  "title": "Öğrencilerin eylemi sürüyor... Fransa'da yaklaşık 500 okulda yarın eğitime ara verilecek",
+  "link": "https://www.cumhuriyet.com.tr/dunya/ogrencilerin-eylemi-suruyor-fransa-da-yaklasik-500-okulda-yarin-egitime-ara-verilecek-2543641",
+  "source": "Cumhuriyet",
+  "summary_tr": "Fransa'da öğrenci protestoları nedeniyle yaklaşık 500 okulda yarın eğitime kısmen veya tamamen ara verilecek.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-10-04T16:01:10.205467+00:00",
+  "type": "news",
+  "cluster_id": "stc8fc7fea4b"
+ },
+ {
   "title": "Fransa'da eğitim felç: 500 okul yarın kapanacak",
   "link": "https://www.sozcu.com.tr/fransa-da-egitim-felc-500-okul-yarin-kapanacak-p366069",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-31T09:01:10.210473+00:00",
   "type": "news",
   "cluster_id": "c94df15581f8a"
- },
- {
-  "title": "İşsizlik oranı: %8,1 (Temmuz)",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNFhKTG44ci1ocWJFQ0gxYlhZRE9jeTk2Rm5lUk9GOUIwWHZWa2Vfa2lLZ0VxYWJISDk1NV9EdVlGSk1WU01lcVNFbjQxOVFKVExUcm5sWko2VUZ2WlF4T19aN3JPeUM2eF9LZ1dSQ3h2Z0lGbXpJeVotR2I1VnJfcC1HU0pXZ1FudlNKWlNUN3dpY2M0NThnWlhnVFhRWnhZYTJwN1ZiRkNqOFpTMmEzcGJLOA?oc=5",
-  "source": "TÜİK",
-  "summary_tr": "%7,9 → %8,1 (+0,2 puan)",
-  "metric": "+0,2 puan",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-08-31T09:01:10.210473+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "İran'dan, ABD'nin Lark Adası'na saldırısına misilleme",
-  "link": "https://www.dw.com/tr/iran-dan-abd-nin-lark-adası-na-saldırısına-misilleme/a-78568700?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "İran, ABD'nin Lark Adası'na saldırısına misilleme yaparak Ürdün ve BAE'deki Amerikan hedeflerini vurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-08-31T08:01:11.391009+00:00",
-  "type": "news",
-  "cluster_id": "cf1e34e91afd2"
- },
- {
-  "title": "CENTCOM: İran'ın Hürmüz'deki mayın döşeme güçlerine karşı sınırlı bir saldırı düzenlendi",
-  "link": "https://www.trthaber.com/haber/dunya/centcom-iranin-hurmuzdeki-mayin-doseme-guclerine-karsi-sinirli-bir-saldiri-duzenlendi-955432.html",
-  "source": "TRT Haber",
-  "summary_tr": "ABD CENTCOM, İran'ın Hürmüz Boğazı'ndaki mayın döşeme güçlerine karşı sınırlı saldırı düzenlendiğini bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 9,
-  "ts": "2026-08-31T08:01:11.391009+00:00",
-  "type": "news",
-  "cluster_id": "c9dc56f657835"
  }
 ]
