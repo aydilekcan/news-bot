@@ -1,5 +1,53 @@
 [
  {
+  "title": "Yargıda rüşvet soruşturması... Eski hakim tutuklandı, 2 yargı mensubu hakkında yakalama kararı çıktı: 'Lütfü Türkkan' ayrıntısı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/yargida-rusvet-sorusturmasi-eski-hakim-tutuklandi-2-yargi-mensubu-hakkinda-yakalama-karari-cikti-lutfu-turkkan-ayrintisi-2543674",
+  "source": "Cumhuriyet",
+  "summary_tr": "Bakırköy Başsavcılığı, dava ve soruşturmalara menfaat karşılığı müdahale iddiasıyla soruşturma başlattı; eski bir hakim tutuklandı, 2 yargı mensubu hakkında yakalama kararı çıktı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-10-04T20:01:11.915154+00:00",
+  "type": "news",
+  "cluster_id": "st182e2c508f"
+ },
+ {
+  "title": "Ukraine believes Russia shared jet-drone technology with North Korea, says Zelenskiy",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ0tDWnAyNW5zeWtTcDBZSUczMHZGZUEtYXFlUHI2dkRpY0ZfYXBmUlBCdHhZQjJucnlYWmxMOXRkOXNsd2w0X245TV9mN2hHNHdkN1UzQjlabUYtb2xvdWtEem5qZXVUQVltbVFBQ2ZEOEN2cFdidGFFbWtIWGlvcklxVWJ1bTFDZmZkWWxNLWRUSGI5QXpnbmhENGpfX1N5S3NXZEpiYWVVa2tEdXNpZmtxcG5VU0dyWFdMUXJNOWJOUndEMy1WLTF1VU1qWlduQ1E?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Ukrayna lideri Zelenskiy, Rusya'nın jet-drone teknolojisini Kuzey Kore ile paylaştığına inandıklarını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-04T20:01:11.915154+00:00",
+  "type": "news",
+  "cluster_id": "std44ed56d42"
+ },
+ {
+  "title": "Cemil Tugay'dan AKP'ye geçeceği iddiasına dikkat çeken yanıt",
+  "link": "https://www.diken.com.tr/cemil-tugaydan-akpye-gececegi-iddiasina-dikkat-ceken-yanit/?utm_source=rss&utm_medium=rss&utm_campaign=cemil-tugaydan-akpye-gececegi-iddiasina-dikkat-ceken-yanit",
+  "source": "Diken",
+  "summary_tr": "CHP'den istifa eden İzmir Büyükşehir Belediye Başkanı Cemil Tugay, AKP'ye geçeceği iddialarına sosyal medyada dikkat çeken bir yanıt verdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-10-04T20:01:11.915154+00:00",
+  "type": "news",
+  "cluster_id": "st6c8e5cdca8"
+ },
+ {
+  "title": "İran Petrol Bakanı Paknejad istifa etti: Yerine gelen isim belli oldu",
+  "link": "https://www.cumhuriyet.com.tr/dunya/iran-petrol-bakani-paknejad-istifa-etti-yerine-gelen-isim-belli-oldu-2543681",
+  "source": "Cumhuriyet",
+  "summary_tr": "İran Petrol Bakanı Muhsin Paknejad istifa etti; yerine geçici olarak İran Ulusal Petrol Şirketi yöneticisi atandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-10-04T20:01:11.915154+00:00",
+  "type": "news",
+  "cluster_id": "sta278739b2f"
+ },
+ {
   "title": "YENİ Partili Zeybek'ten çarpıcı mesajlar... 'Tera–Adil Varlık ilişkisini' sordu: 'Karşımıza hep aynı isimler çıkıyor!'",
   "link": "https://www.cumhuriyet.com.tr/siyaset/yeni-partili-zeybek-ten-carpici-mesajlar-tera-adil-varlik-iliskisini-sordu-karsimiza-hep-ayni-isimler-cikiyor-2543663",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-31T11:01:19.733056+00:00",
   "type": "news",
   "cluster_id": "c6c119829b016"
- },
- {
-  "title": "Yeni adli yıl başlıyor: Hangi kritik davalar görülecek?",
-  "link": "https://www.dw.com/tr/yeni-adli-yıl-başlıyor-hangi-kritik-davalar-görülecek/a-78572235?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Yeni adli yıl başlıyor; CHP'ye yönelik butlan davası ve Ekrem İmamoğlu dahil belediye başkanlarına yönelik davalar kritik gündemdedir.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-31T11:01:19.733056+00:00",
-  "type": "news",
-  "cluster_id": "ce45e2839b909"
- },
- {
-  "title": "Bakan Bolat yılın ikinci çeyreğine ilişkin büyüme verilerini değerlendirdi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-yilin-ikinci-ceyregine-iliskin-buyume-verilerini-degerlendirdi/4042510",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Ticaret Bakanı Ömer Bolat, ikinci çeyrek büyüme verilerini değerlendirdi; küresel zorlu şartlara rağmen performans inceleniyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-31T11:01:19.733056+00:00",
-  "type": "news",
-  "cluster_id": "c3cddb3167e19"
- },
- {
-  "title": "Türkiye'nin enerji geleceğine dev yatırım hamlesi",
-  "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-enerji-gelecegine-dev-yatirim-hamlesi-955454.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye 2035 hedeflerine ulaşmak için elektrik altyapısı ve rüzgar/güneş/nükleer enerjiye yaklaşık 200 milyar dolar yatırım yapacak.",
-  "metric": "Enerji yatırımı ~200 milyar dolar",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-31T11:01:19.733056+00:00",
-  "type": "news",
-  "cluster_id": "cc84c9e5c105f"
- },
- {
-  "title": "Sezonun ilk balık fiyatları belli oldu",
-  "link": "https://www.sozcu.com.tr/sezonun-ilk-balik-fiyatlari-belli-oldu-p354189",
-  "source": "Sözcü",
-  "summary_tr": "Balık av yasağının sona ermesiyle sezonun ilk balık fiyatları belirleniyor; balıkçılar denize çıkmaya hazırlanıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-31T11:01:19.733056+00:00",
-  "type": "news",
-  "cluster_id": "c11888d20e2d3"
  }
 ]
