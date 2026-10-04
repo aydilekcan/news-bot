@@ -1,5 +1,53 @@
 [
  {
+  "title": "Iran's oil minister resigns for personal reasons, state media reports",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdHdEN1VYYjFqdkJyRThRQ2ZheFQzeElqRHRBNVR2N1UwV2lWbi1CcDdQYk9IV0ZuSURnc29jZXNDM1hmV0YzMDNRN0xlR055WlhBS0M2SVNJVW9NNE0yYlUyc3F0YVJma1JhQ0RnX096YjlGMTRiUmhVSDE4VGlOZ2MwMjljcVhNZnhER2gtYWk4QUYxZGpzZ202dVJLUQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran Petrol Bakanı'nın kişisel nedenlerle istifa ettiği devlet medyasında duyuruldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-04T21:01:08.478622+00:00",
+  "type": "news",
+  "cluster_id": "sta278739b2f"
+ },
+ {
+  "title": "İran petrol bakanı istifa etti",
+  "link": "https://www.diken.com.tr/iran-petrol-bakani-istifa-etti/?utm_source=rss&utm_medium=rss&utm_campaign=iran-petrol-bakani-istifa-etti",
+  "source": "Diken",
+  "summary_tr": "İran Petrol Bakanı Muhsin Paknejad'ın istifa ettiği açıklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-04T21:01:08.478622+00:00",
+  "type": "news",
+  "cluster_id": "sta278739b2f"
+ },
+ {
+  "title": "Brazilians voted for next president as Lula and Flávio Bolsonaro hope for first round victory",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnAtck5sQXdwQlZkQUxjQXVIQXZpWS1lUTA5d0EtdklWTnZPN01aUnpLQXZYbENYYlM4ZEoxNUVmNmNqSG9nZUJwMnNHdVA3RG1JelBnVWd3cUg0ZlpkazQtUkc4cC1SOThmYlJmY1F6czNsM3hXakZ4SGVON1E5YUp2VTNtTFh2d2ljSkhNWGdlemVjZ05jQmlWcllfM2xiVDU3NWVCdzBfdw?oc=5",
+  "source": "AP",
+  "summary_tr": "Brezilya'da başkanlık seçiminde Lula ve Flavio Bolsonaro ilk turda zafer umuyor; oy verme süreci başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-04T21:01:08.478622+00:00",
+  "type": "news",
+  "cluster_id": "sta92bd81bff"
+ },
+ {
+  "title": "EBRD Türkiye 2026 büyüme tahmini: %3 (2026)",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd3k0czVlWG9pbjRDM0E1am5vQ3loNVhkM19XTURUX3JHTTBHTkd6elJzVU02TWxFTTZlRVh4d3N2cTFkQWY4bEVRYS1aTTBwbDhlSkU3YXQ4MVJDaXNReGI1Q2hLdEo1cnlYYmdwYTNIejlObDNwanJ3LTdybUZKMnM1bE9kOVVlNXNsSnhjeExBVEnSAZgBQVVfeXFMUGhRaUlKa3FyMnlGQUVycnBKb2ZranNfdUd3YjNLS0JIVl9ZT1U5VHNSZU1SUFgtbHRJQlhfVnlybTVzdWduUVF1WnNyNjEtdXV0QWFYMFd3SlJiSW0wRTZDOHFUTlVDXzF4OS1nbVBSUEdpa2I0N2gyWUNfZ2NVQWdfaXhlUndHcVRkRnowREFDNkNDb0F1Smg?oc=5",
+  "source": "EBRD",
+  "summary_tr": "%3",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-10-04T21:01:08.478622+00:00",
+  "type": "forecast",
+  "cluster_id": ""
+ },
+ {
   "title": "Yargıda rüşvet soruşturması... Eski hakim tutuklandı, 2 yargı mensubu hakkında yakalama kararı çıktı: 'Lütfü Türkkan' ayrıntısı",
   "link": "https://www.cumhuriyet.com.tr/siyaset/yargida-rusvet-sorusturmasi-eski-hakim-tutuklandi-2-yargi-mensubu-hakkinda-yakalama-karari-cikti-lutfu-turkkan-ayrintisi-2543674",
   "source": "Cumhuriyet",
@@ -59950,53 +59998,5 @@
   "ts": "2026-08-31T12:01:07.326405+00:00",
   "type": "news",
   "cluster_id": "cf20b24aed38d"
- },
- {
-  "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Ekonomimiz dengeli bir büyüme patikası izlemeye devam etmektedir",
-  "link": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskani-yardimcisi-yilmaz-ekonomimiz-dengeli-bir-buyume-patikasi-izlemeye-devam-etmektedir/4042600",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Cumhurbaşkanı Yardımcısı Yılmaz, Türkiye ekonomisinin ikinci çeyrekte de dayanıklı büyüme performansı gösterdiğini bildirdi.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-31T12:01:07.326405+00:00",
-  "type": "news",
-  "cluster_id": "c673df76ca0fe"
- },
- {
-  "title": "İslam ülkelerine ihracat (ilk 7 ay): 41,5 milyar $ (2025 ilk 7 ay)",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd2dmcUlQX0Q5X1RnZGwycUtvc09XTDl1WlI3QzhDS29XOFFndkFOaEx6aTdJaW0zUXNwSHNsMV80a2FIR016bHEtWVdSaWtnMnhnWHFrbER5ZWNBeTRWcUxrTkl5WDVEN1FmV040VUtSREtOb3ltMjl1NkZiQVBXMEdvQzh2blNWakx2S19acHFCSW9TNzhMaFdkREMwbzU4TkVYdDV2QUQwOGd1Rm9MY2NqOERrUjVxMDNz?oc=5",
-  "source": "Ticaret Bakanlığı",
-  "summary_tr": "41,5 milyar $",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-08-31T12:01:07.326405+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "GSYH büyüme oranı: %2,3 (2026 Q2)",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZVcyU3E3MG93NS1va1BWdHNJb3J1MVM0LXltQnY3emRTWllRTGZXclFFLW80UDJJSWh2emFBU2JGY085NWlRS3ozRTlqRzNTMlJuQ1JUUDctcTRiYVluSVRiTV9xc2NlMXZULWFydC1pQlZiQXBRTVFJVnYtWV9Fa3dEd3lFUmNLT0hqYW1pUUc3cG9rblVvVg?oc=5",
-  "source": "Eurostat",
-  "summary_tr": "23 çeyrek → %2,3",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-08-31T12:01:07.326405+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "World shares are mixed and oil prices surge after US strike on Iranian rocket launchers",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5",
-  "source": "AP",
-  "summary_tr": "ABD'nin İran'daki roket fırlatıcılarına yönelik saldırısının ardından dünya borsaları karışık hareket etti; petrol fiyatları yükseldi.",
-  "metric": "Petrol fiyatları yükseldi",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-08-31T11:01:19.733056+00:00",
-  "type": "news",
-  "cluster_id": "c6c119829b016"
  }
 ]
