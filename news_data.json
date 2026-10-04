@@ -1,5 +1,65 @@
 [
  {
+  "title": "Dolar şahlandı! Altın ve gümüş kan ağladı",
+  "link": "https://www.sozcu.com.tr/dolar-sahlandi-altin-ve-gumus-kan-agladi-p365983",
+  "source": "Sözcü",
+  "summary_tr": "Haftada güçlenen dolar ve yükselen ABD tahvil faizleri nedeniyle altın ve gümüş fiyatlarında sert düşüş yaşandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-04T09:01:19.320979+00:00",
+  "type": "news",
+  "cluster_id": "st47e4bc0d92"
+ },
+ {
+  "title": "AKP’li Serkan Bayram’dan fon krizi ve belediye başkanlarına operasyon çıkışı: 'Sahada kazanamadığını masada kazanmak... Utanıyorum!'",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/akp-li-serkan-bayram-dan-fon-krizi-ve-belediye-baskanlarina-operasyon-cikisi-sahada-kazanamadigini-masada-kazanmak-utaniyorum-2543546",
+  "source": "Cumhuriyet",
+  "summary_tr": "AKP'li Serkan Bayram, fon krizi ve belediye başkanlarına yönelik operasyonları eleştirdi, parti içi durumdan utandığını söyledi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-10-04T09:01:19.320979+00:00",
+  "type": "news",
+  "cluster_id": "stb6bac5a5d9"
+ },
+ {
+  "title": "İhracat artış oranı: %8,1",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWmd4TTYxQ0FxLWlaSDU3dGZZRV9ncUZVUl9zNnVBTG10MEtsQ2tXTDRPN2pwb3BGcElFYTROT1FfWVJLMDM4dGd1YmpYeE9RNFRLZS11Qy1OODRlTEVOeFZPRmNCeWNtVWVRcWo2WUpYV2R6blJXSXpnRENVTzlwS0JPejd4UWQ2SDVlSk5HczdaNW8?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%8,1",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-10-04T09:01:19.320979+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
+  "title": "İthalat artış oranı: %10,5",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdGpBNlEyMzBzTlJrYXdSQ044MDBRdVdpbVhyMjZjYmhzd2R4MjBOb1p1YjBGUmpzeDJydU84OU9hZzhqaHEyRzBadHU2UUgzYkhQektTekNvYXVaZE90dEN6U282QndQN1NqaFpqQS1jS1UyTU1odVhHRU5JVzRaZ0NMNGVQUDlGQ3pWVTNWb0Y3b3BzbDcyY3hRRQ?oc=5",
+  "source": "TUIK",
+  "summary_tr": "%10,5",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-10-04T09:01:19.320979+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
+  "title": "Yıllıklandırılmış ihracat: 283,7 milyar USD",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWWlKNFh0bS1fb3NaaWVRSXViRUxuTlgzTFpCNmt2SFlTQk0wQm45R3JwaXZUT2EwcjFqSjRHX1pTMHFjOW55Sk1OUkJqWkNscHpqMmc4VzZJTDFJRFF5dXRBOGZJZ2xRM29ETDhmUHFzMW8ySVVDTlE4eUZXSjROVDRDMGFybGdHZEducVNoVlI0YzBZeWswekpPUmFfR1E?oc=5",
+  "source": "Hazine ve Maliye / Ticaret Bakanlığı",
+  "summary_tr": "283,7 milyar USD",
+  "metric": "",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-10-04T09:01:19.320979+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Tutuklu MHK Başkanı Ferhat Gündoğdu istifa etti",
   "link": "https://www.dw.com/tr/tutuklu-mhk-başkanı-ferhat-gündoğdu-istifa-etti/a-79535233?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59938,65 +59998,5 @@
   "ts": "2026-08-31T05:01:10.227214+00:00",
   "type": "news",
   "cluster_id": "cdd036da764f6"
- },
- {
-  "title": "İhracat: 63 milyon dolar",
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZGQ0dGVHNC1NREliZ2JZdFQ3UmtQRXZPZFJIekxiT2xSd282cW1pa3NmQUNzLUZFTks2ZGVJV0NHUENKMm55SWZoX1FjQmtaMk03eDl1RFY4QTBXY1pWdG9CNWRBby1FdU83YWRtbHJEV0tKa2RPS2pfdmphek5uV05OSjV2RmvSAYwBQVVfeXFMTUtLWURDVFRjNVJmVXU0Nm5JbnhYai1hLTVqU2FsazRBMUYwMXptYzNmRk02SWpDbXJUTlFsRHhuTW56N1hibkszdXJETU44WUNrakpfTkFfandkN3p3cld0WXZvaGRhQ2xNOEV0X1RmSG1fNTFheEZZejAtdDlTTmF6UFkxaVVCc2FyZ2U?oc=5",
-  "source": "TUIK",
-  "summary_tr": "63 milyon dolar",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-08-31T05:01:10.227214+00:00",
-  "type": "data",
-  "cluster_id": ""
- },
- {
-  "title": "Netanyahu'dan seçim öncesi korku siyaseti: Yeni tehditler savurdu",
-  "link": "https://www.trthaber.com/haber/dunya/netanyahudan-secim-oncesi-korku-siyaseti-yeni-tehditler-savurdu-955411.html",
-  "source": "TRT Haber",
-  "summary_tr": "İsrail Başbakanı Netanyahu, 27 Ekim seçimleri öncesinde İran tehdidi üzerinden kamuoyu etkilendirmeye çalışıyor; kamuoyu anketlerinde rakibinin gerisinde kalmıştır.",
-  "metric": "",
-  "lean": "right",
-  "score": 7,
-  "ts": "2026-08-31T04:00:58.479666+00:00",
-  "type": "news",
-  "cluster_id": "cf1225a158b7b"
- },
- {
-  "title": "Erdoğan imzaladı, bu fakülteler kapatıldı",
-  "link": "https://www.sozcu.com.tr/erdogan-imzaladi-bu-fakulteler-kapatildi-p354053",
-  "source": "Sözcü",
-  "summary_tr": "Cumhurbaşkanı Erdoğan imzaladığı kararla üniversitelerde yeni birimler açılırken bazı enstitü ve fakülteler kapatıldı.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-31T03:01:04.041710+00:00",
-  "type": "news",
-  "cluster_id": "ca08ccb6296de"
- },
- {
-  "title": "Çiftçinin umutlarını çöpe döküyorlar",
-  "link": "https://www.sozcu.com.tr/ciftcinin-umutlarini-cope-dokuyorlar-p354047",
-  "source": "Sözcü",
-  "summary_tr": "Çiftçiler geçen yıl düşük alım fiyatından sonra bu yıl ithalat darbesiyle karşılaşıyor; soğan üreticileri zor durumda.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-08-31T03:01:04.041710+00:00",
-  "type": "news",
-  "cluster_id": "cc80edc6b65fb"
- },
- {
-  "title": "G20 countries should consider more trade barriers on China to cut imbalances, Bessent says",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPenpidlpzUmlPS0hRbS1jaGotNFBZZHgxWVhlMER4NlRWYnh2d280dW1uMHYwZHlvZlgzNVJkNlZQNno1dndkQ1FZNTFNeTJ4eERKTkRlX29kUXhwX1lvTk5XLUZNWUhsdmwxUC04SU9RekVXUlBaRW5GWWhscWs4XzFVcmJlek5ULUFxdDh0ZzB6TlNqUDNYSUJSb2VJQ1RPVHJvS3hWNjY1UUlZaWhfMXI4RFAxaTQ0aldEZXBjbEk?oc=5",
-  "source": "Reuters",
-  "summary_tr": "G20 ülkelerine Bessent tarafından Çin'e karşı daha fazla ticari engel getirilerek dengesizlikleri azaltması önerildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-31T03:01:04.041710+00:00",
-  "type": "news",
-  "cluster_id": "c64a3bbeca27a"
  }
 ]
