@@ -1,5 +1,41 @@
 [
  {
+  "title": "Almanya Başbakanı Merz, Putin’e \"Ukrayna'daki savaşı durdurması\" çağrısında bulundu",
+  "link": "https://www.aa.com.tr/tr/dunya/almanya-basbakani-merz-putin-e-ukraynadaki-savasi-durdurmasi-cagrisinda-bulundu/4077578",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Almanya Başbakanı Merz, Kiev ziyaretinde Rusya Devlet Başkanı Putin'e savaşı durdurması çağrısında bulundu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-04T12:01:13.806646+00:00",
+  "type": "news",
+  "cluster_id": "stbd488d7fc0"
+ },
+ {
+  "title": "Fon soruşturmasında eski SPK Başkanı Gönül için Teftiş Kurulu görevlendirildi",
+  "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-eski-spk-baskani-gonul-icin-teftis-kurulu-gorevlendirildi-959066.html",
+  "source": "TRT Haber",
+  "summary_tr": "Fon soruşturması kapsamında eski SPK Başkanı İbrahim Ömer Gönül hakkında Teftiş Kurulu görevlendirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-04T12:01:13.806646+00:00",
+  "type": "news",
+  "cluster_id": "stb6bac5a5d9"
+ },
+ {
+  "title": "Iran says Strait of Hormuz will not reopen until conditions are met",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUEhSM2E2MkI0TDU0LXVLZl9GLWY5d3FoTU1PdS1ON0xUV1NNQ3FnUlZGRFhOYkVHTVp5RDFaN3pxZ1pVeVNJdTdhemxsNkdRaHJBTWNtRDEwWjg2cnlKb3F5VmpEN25tTHNmV2hLTnFkc1IxSEhLVGplNTJJSnBXMDFmOUN1V3NpRmxoVnJkcmRxd1hmbzBRTHZjd05rWlhUbDBfQmFCZWRkS0pHUTJNa041QlRtSkd5YUE?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İran, belirlediği koşullar sağlanmadan Hürmüz Boğazı'nın yeniden açılmayacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-04T12:01:13.806646+00:00",
+  "type": "news",
+  "cluster_id": "st2a9260b96f"
+ },
+ {
   "title": "Rusya Merz'in sürpriz Kiev ziyaretinde köprü bombaladı",
   "link": "https://www.dw.com/tr/rusya-merz-in-sürpriz-kiev-ziyaretinde-köprü-bombaladı/a-79536694?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-31T07:01:44.919771+00:00",
   "type": "news",
   "cluster_id": "c98d28eb24406"
- },
- {
-  "title": "Kazak petrolünde yeni rota: Hazar-Azerbaycan-Türkiye seçeneği",
-  "link": "https://yetkinreport.com/2026/08/31/kazak-petrolunde-yeni-rota-hazar-azerbaycan-turkiye-secenegi/",
-  "source": "YetkinReport",
-  "summary_tr": "Kazak petrolü için yeni rota: Hazar-Azerbaycan-Türkiye seçeneği değerlendirildi. Enerji diplomasisi ve petrol şirketi stratejileri gündemde.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-31T07:01:44.919771+00:00",
-  "type": "news",
-  "cluster_id": "c2808419ca97b"
- },
- {
-  "title": "İran'a son saldırı ABD'yi pişman etti",
-  "link": "https://www.sozcu.com.tr/iran-a-son-saldiri-abd-yi-pisman-etti-p354099",
-  "source": "Sözcü",
-  "summary_tr": "ABD'nin Hürmüz Boğazı'ndaki Larak Adası'na saldırısına İran, Ürdün'deki ABD üssünü vurup İHA düşürerek yanıt verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-31T07:01:44.919771+00:00",
-  "type": "news",
-  "cluster_id": "c217493da3e27"
- },
- {
-  "title": "Türkiye'nin TDT ülkeleriyle yıllıklandırılmış ticaret hacmi temmuz itibarıyla 27,8 milyar dolara ulaştı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-tdt-ulkeleriyle-yilliklandirilmis-ticaret-hacmi-temmuz-itibariyla-27-8-milyar-dolara-ulasti/4042181",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Türkiye'nin TDT ülkeleriyle yıllıklandırılmış ticaret hacmi temmuz itibarıyla 27,8 milyar dolara ulaştı.",
-  "metric": "TDT ticaret hacmi 27,8 milyar dolar (temmuz 2026)",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-31T07:01:44.919771+00:00",
-  "type": "news",
-  "cluster_id": "cd3c202f18b0e"
  }
 ]
