@@ -1,5 +1,41 @@
 [
  {
+  "title": "Brezilya'da Lula ve oğul Bolsonaro arasındaki başkanlık seçiminde sandıklar kapandı",
+  "link": "https://www.bbc.com/turkce/articles/cqjdmkklyvzvo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Brezilya'da başkanlık seçiminde oy verme işlemi tamamlandı, sandıklar kapandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-04T22:01:01.393248+00:00",
+  "type": "news",
+  "cluster_id": "sta92bd81bff"
+ },
+ {
+  "title": "Vahap Seçer gözaltına alınmıştı: Mansur Yavaş'tan 'Mersin' hamlesi",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/vahap-secer-gozaltina-alinmisti-mansur-yavas-tan-mersin-hamlesi-2543709",
+  "source": "Cumhuriyet",
+  "summary_tr": "ABB Başkanı Mansur Yavaş, Mersin soruşturması kapsamında gözaltına alınan Vahap Seçer için harekete geçti.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-04T22:01:01.393248+00:00",
+  "type": "news",
+  "cluster_id": "sta161d79e91"
+ },
+ {
+  "title": "Cem TV kapanma kararı aldı",
+  "link": "https://www.sozcu.com.tr/cem-tv-kapaniyor-mu-p366129",
+  "source": "Sözcü",
+  "summary_tr": "Cem TV Yayın Koordinatörü Erol Işık, kanalın yaklaşık 6,5 aylık yayın hayatına son verme kararı aldığını açıkladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-10-04T22:01:01.393248+00:00",
+  "type": "news",
+  "cluster_id": "st0e4d2b97f6"
+ },
+ {
   "title": "Iran's oil minister resigns for personal reasons, state media reports",
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdHdEN1VYYjFqdkJyRThRQ2ZheFQzeElqRHRBNVR2N1UwV2lWbi1CcDdQYk9IV0ZuSURnc29jZXNDM1hmV0YzMDNRN0xlR055WlhBS0M2SVNJVW9NNE0yYlUyc3F0YVJma1JhQ0RnX096YjlGMTRiUmhVSDE4VGlOZ2MwMjljcVhNZnhER2gtYWk4QUYxZGpzZ202dVJLUQ?oc=5",
   "source": "Reuters",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-31T13:01:13.395954+00:00",
   "type": "data",
   "cluster_id": ""
- },
- {
-  "title": "Döviz dönüşümlü kur korumalı mevduat hesapları sıfırlandı",
-  "link": "https://www.sozcu.com.tr/doviz-donusumlu-kur-korumali-mevduat-hesaplari-sifirlandi-p354210",
-  "source": "Sözcü",
-  "summary_tr": "DDKKM hesaplarının toplam bakiyesi Temmuz ayında sıfırlandı; döviz dönüşümlü kur korumalı mevduat ürünü piyasadan çekildi.",
-  "metric": "DDKKM bakiyesi 10 milyon dolar -> 0 TL",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-31T12:01:07.326405+00:00",
-  "type": "news",
-  "cluster_id": "c512713283b35"
- },
- {
-  "title": "DDKKM toplam stok bakiyesi sıfırlandı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/ddkkm-toplam-stok-bakiyesi-sifirlandi/4042583",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "DDKKM hesapları bakiyesi Temmuz ayında 10 milyon dolar azalarak tamamen sıfırlandı.",
-  "metric": "DDKKM bakiyesi 10 milyon dolar -> 0 TL",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-31T12:01:07.326405+00:00",
-  "type": "news",
-  "cluster_id": "c7466ff1f376c"
- },
- {
-  "title": "Faiz indirimi için İTO'dan kritik çağrı",
-  "link": "https://www.sozcu.com.tr/faiz-indirimi-icin-ito-dan-kritik-cagri-p354209",
-  "source": "Sözcü",
-  "summary_tr": "İTO Başkanı Avdagiç, TCMB'nin 300 baz puanlık faiz indiriminin ardından ek indirimlere çağrı yaptı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-31T12:01:07.326405+00:00",
-  "type": "news",
-  "cluster_id": "cf20b24aed38d"
  }
 ]
