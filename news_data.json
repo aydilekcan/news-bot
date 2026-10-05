@@ -1,5 +1,77 @@
 [
  {
+  "title": "Romania says two dead after fire on ship, Ukraine blames Russian drones",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNzh3OWRHN1ZFNktlZ2ZvdkxzS0Z6WWxqNUEwcVE0TEd6dHVCNmRkTllCQ0ZTR3QwaFNBQnhqSFQxT0ZhM2E0cG12anRLeDQ1M0xkSnotR3BnYXhOLVVwU3hjaE1qYXJmdmdfbHJteEhoX1FzNnNwQU5meWUwOUFFQWwzU0o4ZVF0M2lGdVBHSG05Zk5zdEUzeUpZX1VtbVVHSHhNNXl3UjhBMW9Ed0Nr?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Romanya, bir gemide çıkan yangında iki kişinin öldüğünü bildirdi; Ukrayna Rus dronlarını sorumlu tutuyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-05T15:01:23.492618+00:00",
+  "type": "news",
+  "cluster_id": "st816ea1e9a7"
+ },
+ {
+  "title": "Karadeniz'de batan 'Türkiye'ye ait' gemi hakkında neler biliniyor?",
+  "link": "https://www.bbc.com/turkce/articles/c50me03v174wo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Karadeniz'de Türkiye'ye ait bir gemide yangın çıktı, iki kişi hayatını kaybetti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-05T15:01:23.492618+00:00",
+  "type": "news",
+  "cluster_id": "st816ea1e9a7"
+ },
+ {
+  "title": "Tarih ve saatle duyurdu: Cemil Tugay’a AKP rozetini Erdoğan takacak",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdWlmTHpzbnQxS2JFbU1GdHlRNzdyZzlvZWhDbDFKdUVNX1ZyYW00VDZfSTNkM19HNVh5amtDN2ZWZEVjLWpUSWd5aGw3R0xZY1hVdDFPdGFUS1hLcTNQS2hVWmR0Z3lndHUySjJXWXJxZkRmUGZVMTlNWDFlT19nSlRqNlNQYkF0WnJ5Y1d3a3JZcDl3ZzE2WkNRZTBZNzJKTk5vOUFR?oc=5",
+  "source": "soL",
+  "summary_tr": "CHP'den istifa eden İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın AKP rozetini Cumhurbaşkanı Erdoğan'ın takacağı tarih ve saatiyle duyuruldu.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-05T15:01:23.492618+00:00",
+  "type": "news",
+  "cluster_id": "st6c8e5cdca8"
+ },
+ {
+  "title": "Airstrikes and artillery hit north Ethiopia after Tigray capital's fall, aid sources say",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYUFxY2dITnU0S3lxNkwwbjZRd0s2RDdrcmU4dk1hWGE3SnhaVUpCXzYtaERfZGoxU3RrcVlRQTdmcWhOQkRSaFVwS2NvREJCTFBtVFJFNXJ1cXdtYTFkMVJQWS0tZExYYzVsQkpOTnhLVU83RDkyeWF3c1hBWHUwZUxWM3JaVXBmYXZtckpCMGxMa1NlelRYbm1Oelo0Q2NsaTVneENEcmtBQzRmbzNyN1JnNWE4RmNQLWlPbjV5eVpjcndPSmc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Tigray'ın başkentinin düşmesinin ardından kuzey Etiyopya'da hava saldırıları ve topçu ateşi yaşandığı bildirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-05T15:01:23.492618+00:00",
+  "type": "news",
+  "cluster_id": "st010434de3d"
+ },
+ {
+  "title": "Saray'dan kritik 'fon krizi' açıklaması: Erdoğan'ın başdanışmanı Oktay Saral'dan bakanlık ve bürokratlara 'uyarı' geldi!",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/saray-dan-kritik-fon-krizi-aciklamasi-erdogan-in-basdanismani-oktay-saral-dan-bakanlik-ve-burokratlara-uyari-geldi-2543950",
+  "source": "Cumhuriyet",
+  "summary_tr": "Cumhurbaşkanı Başdanışmanı Oktay Saral, fon krizine ilişkin bakanlık ve bürokratlara uyarı niteliğinde bir açıklama yaptı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-10-05T15:01:23.492618+00:00",
+  "type": "news",
+  "cluster_id": "stb6bac5a5d9"
+ },
+ {
+  "title": "İmamoğlu’nun yasaklanan kitabı NYT’nin gündeminde: 'Siyasi manifesto'",
+  "link": "https://www.cumhuriyet.com.tr/dunya/imamoglu-nun-yasaklanan-kitabi-nyt-nin-gundeminde-siyasi-manifesto-2543948",
+  "source": "Cumhuriyet",
+  "summary_tr": "New York Times, İmamoğlu'nun Türkiye'de yasaklanan kitabını 'siyasi manifesto' olarak değerlendirdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-10-05T15:01:23.492618+00:00",
+  "type": "news",
+  "cluster_id": "st8cf939917c"
+ },
+ {
   "title": "Cumhurbaşkanı Başdanışmanı Saral: Fon soruşturmasında 'hiç kimse süreci kendi siyasi hesabına alet etmesin'",
   "link": "https://www.bbc.com/turkce/articles/cm36l6gzjnpwo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59926,77 +59998,5 @@
   "ts": "2026-09-01T19:01:15.477305+00:00",
   "type": "news",
   "cluster_id": "c41afecf44713"
- },
- {
-  "title": "Hamas, ara buluculara İsrail'e baskı kurmaları çağrısı yaptı",
-  "link": "https://www.trthaber.com/haber/dunya/hamas-ara-buluculara-israile-baski-kurmalari-cagrisi-yapti-955598.html",
-  "source": "TRT Haber",
-  "summary_tr": "Hamas, ara bulucu ülkelere İsrail'e baskı kurarak ateşkese uyma ve ihlalleri durdurmasını sağlaması çağrısı yaptı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-01T19:01:15.477305+00:00",
-  "type": "news",
-  "cluster_id": "c5d3ce7425dea"
- },
- {
-  "title": "ABD, Devrim Muhafızları hedeflerini vurdu",
-  "link": "https://www.diken.com.tr/abd-devrim-muhafizlari-hedeflerini-vurdu/?utm_source=rss&utm_medium=rss&utm_campaign=abd-devrim-muhafizlari-hedeflerini-vurdu",
-  "source": "Diken",
-  "summary_tr": "ABD Merkez Kuvvetler Komutanlığı, İran'daki Devrim Muhafızları Ordusu hedeflerine saldırı düzenledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-09-01T18:01:15.479394+00:00",
-  "type": "news",
-  "cluster_id": "c28b9f87d925f"
- },
- {
-  "title": "US military says it is striking targets in Iran",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSmJWQVBFSWFYU0JWUGhaTDYzZEFhZmlaYXZHM21lT2dwc0tEQ0VHbU94UVVsdFE5bkFhSzVVME9XeEluek9Va1NVMVlra2M4RkRJLXZCSUFtLVdlcHdDR21ybkgycHRweGJpVVJaMHdnZXZWQmpmV2J0bExPS2Rmd1Bvb3A0bHdZMVQ2VUhWRlU5ZE40OWpvREY2TFBGZTFVWTBXSnlhdTBHcUl3ZFFMZkFqZUw5Zlk?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD ordusu, İran'daki hedeflere karşı saldırı başlattığını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-09-01T18:01:15.479394+00:00",
-  "type": "news",
-  "cluster_id": "c70aad39a1229"
- },
- {
-  "title": "Erdoğan Rusya ile yeni nükleer projelerin sinyalini verdi",
-  "link": "https://www.dw.com/tr/erdoğan-rusya-ile-yeni-nükleer-projelerin-sinyalini-verdi/a-78654744?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, Rusya lideri Putin ile Bişkek'teki görüşmede Akkuyu'dan sonra yeni nükleer projeleri ele aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-01T18:01:15.479394+00:00",
-  "type": "news",
-  "cluster_id": "c2c646c994da3"
- },
- {
-  "title": "ABD saldırdı, piyasa hareketlendi: Altın düştü, petrol fırladı",
-  "link": "https://www.sozcu.com.tr/abd-saldirdi-piyasa-hareketlendi-altin-dustu-petrol-firladi-p354575",
-  "source": "Sözcü",
-  "summary_tr": "ABD Başkanı Trump'ın açıklaması sonrası Hürmüz'e saldırı düzenlendi; altın düştü, petrol fiyatı yükseldi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-01T18:01:15.479394+00:00",
-  "type": "news",
-  "cluster_id": "cb998d359e7e8"
- },
- {
-  "title": "Almanya Leipzig'deki bombalı İHA'dan Rusya'yı sorumlu tuttu",
-  "link": "https://www.dw.com/tr/almanya-leipzig-deki-bombalı-iha-dan-rusya-yı-sorumlu-tuttu/a-78654730?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Almanya, Leipzig Havalimanı'ndaki patlayıcı yüklü İHA saldırısından Rusya'yı sorumlu tuttu ve Bonn Başkonsolosluğu'nu kapatıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-01T18:01:15.479394+00:00",
-  "type": "news",
-  "cluster_id": "cc62068c23d58"
  }
 ]
