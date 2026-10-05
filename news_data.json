@@ -1,5 +1,41 @@
 [
  {
+  "title": "Fatma’dan acarı: Nacar",
+  "link": "https://www.sozcu.com.tr/fatma-dan-acari-nacar-p366144",
+  "source": "Sözcü",
+  "summary_tr": "Fon soruşturmasında adı geçen AKP'li Fatma Betül Sayan Kaya'nın vurgunda 2,2 milyar lira kazandığı iddia edildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-05T03:01:09.402897+00:00",
+  "type": "news",
+  "cluster_id": "stb6bac5a5d9"
+ },
+ {
+  "title": "Fon skandalından tutuklanan İdris Çakır kamu ihalelerinin taşeronu çıktı",
+  "link": "https://www.sozcu.com.tr/fon-skandalindan-tutuklanan-idris-cakir-kamu-ihalelerinin-taseronu-cikti-p366140",
+  "source": "Sözcü",
+  "summary_tr": "Fon soruşturmasında tutuklanan İdris Çakır'ın kamu ihalelerinde taşeron olarak çalıştığı ortaya çıktı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-05T03:01:09.402897+00:00",
+  "type": "news",
+  "cluster_id": "stb6bac5a5d9"
+ },
+ {
+  "title": "650 vurguncu kim açıklayın!",
+  "link": "https://www.sozcu.com.tr/650-vurguncu-kim-aciklayin-p366138",
+  "source": "Sözcü",
+  "summary_tr": "Fon tasfiye kararı öncesi 16-17 Eylül arasında parasını kurtaran 650 kişinin kimliğinin açıklanması istendi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-10-05T03:01:09.402897+00:00",
+  "type": "news",
+  "cluster_id": "stb6bac5a5d9"
+ },
+ {
   "title": "Yandaş medyanın ‘açığa çıktı’ dediği 50 milyon dolarlık ağ çürüdü",
   "link": "https://www.cumhuriyet.com.tr/turkiye/yandas-medyanin-aciga-cikti-dedigi-50-milyon-dolarlik-ag-curudu-2543710",
   "source": "Cumhuriyet",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-31T13:01:13.395954+00:00",
   "type": "news",
   "cluster_id": "c559260686cb9"
- },
- {
-  "title": "İki dev Togg hisselerini satıyor",
-  "link": "https://www.dw.com/tr/iki-dev-togg-hisselerini-satıyor/a-78576252?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Vestel ve Anadolu Grubu, Togg hisselerini satacak; Türkiye Varlık Fonu şirkete orta koyacak.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-31T13:01:13.395954+00:00",
-  "type": "news",
-  "cluster_id": "c880a61797eb6"
- },
- {
-  "title": "AA anketine göre enflasyon ağustosta artacak",
-  "link": "https://www.diken.com.tr/aa-anketine-gore-enflasyon-agustosta-artacak/?utm_source=rss&utm_medium=rss&utm_campaign=aa-anketine-gore-enflasyon-agustosta-artacak",
-  "source": "Diken",
-  "summary_tr": "Ekonomistler anketine göre TÜFE ağustosta %1,86 artacağı tahmin ediliyor.",
-  "metric": "TÜFE artış tahmini %1,86",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-08-31T13:01:13.395954+00:00",
-  "type": "news",
-  "cluster_id": "c196a9a329274"
- },
- {
-  "title": "Reuters: Zorlu ve Anadolu Grubu TOGG ortaklığından çekiliyor",
-  "link": "https://www.diken.com.tr/reuters-zorlu-ve-anadolu-grubu-togg-ortakligindan-cekiliyor/?utm_source=rss&utm_medium=rss&utm_campaign=reuters-zorlu-ve-anadolu-grubu-togg-ortakligindan-cekiliyor",
-  "source": "Diken",
-  "summary_tr": "Vestel ve Anadolu Grubu, Togg ortaklığından çekiliyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-08-31T13:01:13.395954+00:00",
-  "type": "news",
-  "cluster_id": "c9395a7e772a1"
  }
 ]
