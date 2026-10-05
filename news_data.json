@@ -1,5 +1,41 @@
 [
  {
+  "title": "Brazil heads to a runoff election after Bolsonaro and Lula fail to garner a majority of votes",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnAtck5sQXdwQlZkQUxjQXVIQXZpWS1lUTA5d0EtdklWTnZPN01aUnpLQXZYbENYYlM4ZEoxNUVmNmNqSG9nZUJwMnNHdVA3RG1JelBnVWd3cUg0ZlpkazQtUkc4cC1SOThmYlJmY1F6czNsM3hXakZ4SGVON1E5YUp2VTNtTFh2d2ljSkhNWGdlemVjZ05jQmlWcllfM2xiVDU3NWVCdzBfdw?oc=5",
+  "source": "AP",
+  "summary_tr": "Brezilya'da Bolsonaro ve Lula çoğunluk sağlayamadı, seçim ikinci tura kaldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-05T01:01:03.458951+00:00",
+  "type": "news",
+  "cluster_id": "sta92bd81bff"
+ },
+ {
+  "title": "Lula ve oğul Bolsonaro'nun yarıştığı Brezilya başkanlık seçimleri ikinci tura kaldı",
+  "link": "https://www.bbc.com/turkce/articles/cqjdmkklyvzvo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Brezilya'da Lula ve Bolsonaro'nun yarıştığı başkanlık seçiminde hiçbir aday salt çoğunluk alamadı, seçim ikinci tura kaldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-05T01:01:03.458951+00:00",
+  "type": "news",
+  "cluster_id": "sta92bd81bff"
+ },
+ {
+  "title": "Britain set to levy tariffs on Chinese electric cars, The Times reports",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQkwwbW1fWnVDRlYyX25hWFk5MDlZYWpMd2ltMXlKOHRrWUNJUC1sSWhjRUlGc2FnTEM3eWJsWENqSEt3UEZEclNOOFEyS2d6ZkYyNDdOMWw4YkFnUEh0STBJUDV5XzQ2dXdRQXJST05ybEMzUUhlM2dMNDRqSmI4T0dLOVV6RC11N0hUVHdxakRDclJIYVM2T0dmQk5wWW44Y2NYcHp0RWFDdVNkZ0hlR3BR?oc=5",
+  "source": "Reuters",
+  "summary_tr": "İngiltere, Çin yapımı elektrikli araçlara gümrük tarifesi uygulamaya hazırlanıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-05T01:01:03.458951+00:00",
+  "type": "news",
+  "cluster_id": "ste9552b2580"
+ },
+ {
   "title": "Brezilya başkanlık seçimlerinde oğul Bolsonaro, Lula karşısında önde",
   "link": "https://www.bbc.com/turkce/articles/cqjdmkklyvzvo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59962,41 +59998,5 @@
   "ts": "2026-08-31T13:01:13.395954+00:00",
   "type": "news",
   "cluster_id": "c763c401ad950"
- },
- {
-  "title": "Ukrayna, Rusya'ya ait radar istasyonu, S-400 komuta aracı ile lojistik ve ikmal depolarını vurdu",
-  "link": "https://www.aa.com.tr/tr/dunya/ukrayna-rusyaya-ait-radar-istasyonu-s-400-komuta-araci-ile-lojistik-ve-ikmal-depolarini-vurdu/4042725",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Ukrayna, Rusya'nın radar istasyonu, S-400 komuta aracı ve lojistik depolarını vurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-08-31T13:01:13.395954+00:00",
-  "type": "news",
-  "cluster_id": "cd841a3de8a24"
- },
- {
-  "title": "Bakan Kacır: Üretimin, yatırımın, istihdamın, ihracatın yanında olmaya devam edeceğiz",
-  "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-uretimin-yatirimin-istihdamin-ihracatin-yaninda-olmaya-devam-edecegiz/4042722",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Sanayi ve Teknoloji Bakanı Kacır, sanayi sektörünün ikinci çeyreğinde %2,4 büyüdüğünü bildirdi.",
-  "metric": "Sanayi büyümesi %2,4",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-31T13:01:13.395954+00:00",
-  "type": "news",
-  "cluster_id": "c14217a400a19"
- },
- {
-  "title": "Bakan Fidan: Mekke Anlaşması ile bölgemizde yeni bir güvenlik ve işbirliği mimarisinin tesis edilme süreci başladı",
-  "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-mekke-anlasmasi-ile-bolgemizde-yeni-bir-guvenlik-ve-isbirligi-mimarisinin-tesis-edilme-sureci-basladi/4042633",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Dışişleri Bakanı Fidan, Mekke Anlaşması ile bölgede yeni güvenlik ve işbirliği mimarisinin oluşturulduğunu belirtti.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-08-31T13:01:13.395954+00:00",
-  "type": "news",
-  "cluster_id": "cccabf3b18c6e"
  }
 ]
