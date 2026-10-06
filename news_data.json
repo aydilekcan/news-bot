@@ -1,5 +1,53 @@
 [
  {
+  "title": "Eyüpsultan Belediye Başkanı Mithat Bülent Özmen tutuklandı",
+  "link": "https://www.bbc.com/turkce/articles/cxyvzvr4y6mgo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Eyüpsultan Belediye Başkanı Mithat Bülent Özmen, yolsuzluk soruşturması kapsamında tutuklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 9,
+  "ts": "2026-10-06T01:01:05.813256+00:00",
+  "type": "news",
+  "cluster_id": "stdef02d5cee"
+ },
+ {
+  "title": "Eyüpsultan Belediye Başkanı Özmen ve 12 şüpheli tutuklandı",
+  "link": "https://www.trthaber.com/haber/turkiye/eyupsultan-belediye-baskani-ozmen-ve-12-supheli-tutuklandi-959209.html",
+  "source": "TRT Haber",
+  "summary_tr": "Eyüpsultan Belediye Başkanı Özmen ve 12 şüpheli, yolsuzluk soruşturmasında tutuklandı.",
+  "metric": "",
+  "lean": "right",
+  "score": 9,
+  "ts": "2026-10-06T01:01:05.813256+00:00",
+  "type": "news",
+  "cluster_id": "stdef02d5cee"
+ },
+ {
+  "title": "Piyasalar durgun enflasyon yüksek",
+  "link": "https://www.sozcu.com.tr/piyasalar-durgun-enflasyon-yuksek-p366465",
+  "source": "Sözcü",
+  "summary_tr": "Fon skandalı gölgesinde piyasalar durgunlaşırken eylül ayı aylık enflasyon yüzde 1,84 olarak açıklandı.",
+  "metric": "Aylık enflasyon %1,84",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-06T01:01:05.813256+00:00",
+  "type": "news",
+  "cluster_id": "st1c19490b79"
+ },
+ {
+  "title": "En düşük emekli maaşı 25553 TL",
+  "link": "https://www.sozcu.com.tr/en-dusuk-emekli-maasi-25553-tl-p366464",
+  "source": "Sözcü",
+  "summary_tr": "Ocak ayında SSK/Bağkur emeklisine %8,5, memur emeklisine %6,5 zam beklenirken en düşük emekli aylığının 25.553 TL olacağı belirtildi.",
+  "metric": "En düşük emekli maaşı -> 25.553 TL (+%8,5 tahmini)",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-06T01:01:05.813256+00:00",
+  "type": "news",
+  "cluster_id": "st247a132674"
+ },
+ {
   "title": "Fon krizi için TBMM'de araştırma komisyonu tartışması: Partiler ne diyor?",
   "link": "https://www.bbc.com/turkce/articles/ckp8g1nrmejvo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59950,53 +59998,5 @@
   "ts": "2026-09-02T08:01:12.417369+00:00",
   "type": "news",
   "cluster_id": "c58409d32d921"
- },
- {
-  "title": "İran’dan geniş çaplı misilleme: ABD üslerine füze ve İHA saldırıları",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeF9rS2tUQ0RSN1lleS1xaERuSURtanNWR0hSc3BWdGQzby1NdFozWTdDVXFtaERIOTNLa1dCUjRNdG9sd1RnaHVQMTM0YkFCX2tQQ2hpRXY0UzQtOEpZTHZuaDRpcndkdHZUQzk2c09xM2pCT0tzZXRzZUk2VEVhUHVRUzJnb0xaV0tlRHA4X1FFS29sdDF3VWtMYlNNbzFWUndydWo2Yw?oc=5",
-  "source": "soL",
-  "summary_tr": "İran geniş çaplı misilleme olarak ABD üslerine füze ve İHA saldırıları gerçekleştirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-02T08:01:12.417369+00:00",
-  "type": "news",
-  "cluster_id": "cd12a6f20c85e"
- },
- {
-  "title": "Kira enflasyonu: Deprem bölgesi ve yakınında fiyat artışı baskılanmaya başlamış",
-  "link": "https://www.diken.com.tr/kira-enflasyonu-deprem-bolgesi-ve-yakinindaki-illerde-fiyat-artisi-baskilanmaya-baslamis/?utm_source=rss&utm_medium=rss&utm_campaign=kira-enflasyonu-deprem-bolgesi-ve-yakinindaki-illerde-fiyat-artisi-baskilanmaya-baslamis",
-  "source": "Diken",
-  "summary_tr": "Merkez Bankası verilerine göre deprem bölgesi ve yakınında kira enflasyonu artışı baskılanmaya başladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-02T08:01:12.417369+00:00",
-  "type": "news",
-  "cluster_id": "c88af4117bb91"
- },
- {
-  "title": "Dolar/TL'de yeni tarihi zirve: Rekor seviyelerde yükseliş durmuyor",
-  "link": "https://www.cumhuriyet.com.tr/ekonomi/dolar-tl-de-yeni-tarihi-zirve-rekor-seviyelerde-yukselis-durmuyor-2534265",
-  "source": "Cumhuriyet",
-  "summary_tr": "Dolar/TL kuru küresel enflasyon endişeleri ve Fed faiz beklentileriyle yeni tarihi rekor seviyelerine yükseldi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-02T08:01:12.417369+00:00",
-  "type": "news",
-  "cluster_id": "c64abc24feccf"
- },
- {
-  "title": "İran İHA'sı Kuveyt'teki konutu vurdu, binada yangın çıktı",
-  "link": "https://www.sozcu.com.tr/iran-iha-si-kuveyt-teki-konutu-vurdu-binada-yangin-cikti-p354714",
-  "source": "Sözcü",
-  "summary_tr": "Kuveyt'te İran'a ait İHA konut kompleksini vurdu ve yangın çıktı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-02T08:01:12.417369+00:00",
-  "type": "news",
-  "cluster_id": "c6bb9a60935b2"
  }
 ]
