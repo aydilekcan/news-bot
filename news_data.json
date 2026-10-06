@@ -1,5 +1,41 @@
 [
  {
+  "title": "Diyanet fondan çıkma kararı aldı",
+  "link": "https://www.sozcu.com.tr/diyanet-fondan-cikma-karari-aldi-p366472",
+  "source": "Sözcü",
+  "summary_tr": "Fon skandalı sonrası Türkiye Diyanet Vakfı fondan çıktı; vakfın payları bir ayda büyük değer kaybetti.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-06T03:01:11.245616+00:00",
+  "type": "news",
+  "cluster_id": "stb6bac5a5d9"
+ },
+ {
+  "title": "Araç muayene ücretlerine dev zam kapıda",
+  "link": "https://www.sozcu.com.tr/arac-muayene-ucretlerine-dev-zam-kapida-p366473",
+  "source": "Sözcü",
+  "summary_tr": "2027 yeniden değerleme oranına göre araç muayene ücretlerinde ciddi zam bekleniyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-10-06T03:01:11.245616+00:00",
+  "type": "news",
+  "cluster_id": "st49e4c210fe"
+ },
+ {
+  "title": "Cemil Tugay’ın AKP’ye geçeceği iddiaları sonrası İzmir’deki eyleme polis müdahalesi",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM1RjQjVQVnNnNWE5UC1fM0NwR1BCVGlOYkRGbFJNQ2tlVDc2aVhkRHZ0aURZWnp5TkFVb1VBZXAzRDN0Y29vNllPcUJGcWh4NHNQeHhSZFQ2Q2NTYjZqQmxoaXhWQWFkaHJ5X0NrWGpMZXVBQlVVN3R6MkxQMkU0WmdDekgtSnA0aXRpRnBhSHI0X3BuRW9ZTFBKOXg4djlmY25sMml6RTJVRGE4eHdPeEswU2hIRlB3OVE?oc=5",
+  "source": "soL",
+  "summary_tr": "Cemil Tugay'ın AKP'ye geçeceği iddiaları sonrası İzmir'deki eyleme polis müdahale etti.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-10-06T03:01:11.245616+00:00",
+  "type": "news",
+  "cluster_id": "st6c8e5cdca8"
+ },
+ {
   "title": "TERA-Adil Varlık hattı: Ahtapot gibi sardılar",
   "link": "https://www.sozcu.com.tr/tera-adil-varlik-hatti-ahtapot-gibi-sardilar-p366467",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-09-02T09:01:11.209758+00:00",
   "type": "news",
   "cluster_id": "ca22ffb0b76cc"
- },
- {
-  "title": "Borsada açığa satış işlemlerinde seans sonuna kadar yukarı adım kuralı uygulanacak",
-  "link": "https://www.aa.com.tr/tr/ekonomi/borsada-aciga-satis-islemlerinde-seans-sonuna-kadar-yukari-adim-kurali-uygulanacak/4044877",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "BIST 100 endeksi yüzde 2 düşünce, açığa satış işlemlerinde seans sonuna kadar yukarı adım kuralı uygulandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-02T09:01:11.209758+00:00",
-  "type": "news",
-  "cluster_id": "cc0c9a949c014"
- },
- {
-  "title": "Bilgi ve iletişim sektörü büyüme serisini 10'uncu çeyreğe taşıdı",
-  "link": "https://www.trthaber.com/haber/ekonomi/bilgi-ve-iletisim-sektoru-buyume-serisini-10uncu-ceyrege-tasidi-955645.html",
-  "source": "TRT Haber",
-  "summary_tr": "Türkiye ekonomisi ikinci çeyrekte yüzde 2,3 büyürken, bilgi-iletişim sektörü 5G yatırımlarıyla büyüme serisini 10. çeyreğe taşıdı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-02T09:01:11.209758+00:00",
-  "type": "news",
-  "cluster_id": "cb3fe42f4e5e1"
- },
- {
-  "title": "Trump: İran halkı ne zaman ayaklanıp mücadele edecek?",
-  "link": "https://www.dw.com/tr/trump-iran-halkı-ne-zaman-ayaklanıp-mücadele-edecek/a-78676288?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Trump, İran ekonomisinin çökmekte olduğunu ve ülkenin savaşı bitirmeye ilgi göstermediğini söyledi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-02T08:01:12.417369+00:00",
-  "type": "news",
-  "cluster_id": "c74e3073084ca"
  }
 ]
