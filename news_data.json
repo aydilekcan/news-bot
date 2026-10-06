@@ -1,5 +1,77 @@
 [
  {
+  "title": "Trump'tan Hürmüz Boğazı açıklaması: 'Amerika Birleşik Devletleri'ne aittir'",
+  "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-hurmuz-bogazi-aciklamasi-amerika-birlesik-devletleri-ne-aittir-2544417",
+  "source": "Cumhuriyet",
+  "summary_tr": "Trump, Hürmüz Boğazı'nın ABD Donanması'nın kontrolünde olduğunu öne sürerek bölgedeki gerginliği artıran yeni bir açıklama yaptı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-06T22:01:24.647484+00:00",
+  "type": "news",
+  "cluster_id": "st8dfb071610"
+ },
+ {
+  "title": "US EIA hikes oil price forecasts again as Iran war drains global stockpile",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZk8xUmkwZm83ZUdaTWpWaEVibFZzckNxOVFNOG9OTjlWdzJBdXRqWk5GUUFoME5DWXJmNThNRlIzdVBxUXNfeGd5cTFFNjlVZmg1VkFwVXdONzVLNGh0RVF5S203NlRieWFBNEY3b0dnZlZ3MERxUGlYWTRDaGwzYUJaYWJxWjI1WTlJbDNfMFJ0TVlqSjdFNnl6SVF6UVhmQlhNM2pRUnltSDVMMXNmS21JZkMySWNFVjhtbXVSMUw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Enerji Bilgi İdaresi (EIA), İran savaşının küresel petrol stoklarını eritmesi nedeniyle petrol fiyat tahminlerini yeniden yükseltti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-06T22:01:24.647484+00:00",
+  "type": "news",
+  "cluster_id": "stf91395208d"
+ },
+ {
+  "title": "Bulgaria's leader says drone attack hits 2 commercial vessels, and Ukraine's president blames Russia",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaU5DemRLSkhTVjNkckR2UjdISjRuV05vRjh3OHNUOWhTOUpQeDluSnl4QktrUHlad0VBakVfNjUzSHhnUXZvYXd4N1dydU96anliOERsckxiVWJVRXEtZXVyWGhtOEdDczl4VW41YndjczVKM0l0RnY1dGFkLTFETW4tZXhTT1R3UXI4dFVtVkd4dVltNlNiREdVRlVmSWxyVnMxYlI3enZqWHpIQVFZ?oc=5",
+  "source": "AP",
+  "summary_tr": "Bulgaristan lideri, Karadeniz açıklarında iki ticari gemiye İHA saldırısı düzenlendiğini, Ukrayna lideri Zelenskiy ise Rusya'yı suçladığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-06T22:01:24.647484+00:00",
+  "type": "news",
+  "cluster_id": "stabafeb3755"
+ },
+ {
+  "title": "İstanbul'da ‘fon vurgunu’ protestosu: ‘İktidarın atadığı kurullar değil, bağımsız komisyon araştırsın!’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-fon-vurgunu-protestosu-iktidarin-atadigi-kurullar-degil-bagimsiz-komisyon-arastirsin-2544414",
+  "source": "Cumhuriyet",
+  "summary_tr": "İstanbul Kadıköy'de fon vurgunu soruşturmasının bağımsız komisyonca araştırılması talebiyle basın açıklaması yapıldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-10-06T22:01:24.647484+00:00",
+  "type": "news",
+  "cluster_id": "stb6bac5a5d9"
+ },
+ {
+  "title": "Türkiye’nin en büyük bağımsız internet gazetesi T24, altı gündür 'erişim engeli'ne yaptığı itirazın sonuçlandırılmasını bekliyor",
+  "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUFpJWDdPUVJtZWQxQ0FRb0t6VGM2S0JWYWc3U1VWajhWT09OTXprdTgxMjExU3prMFBSenc5UFhzN1pnWnptUkRFY1ZNelRTczBQcWNlSDNQQV9uc3V2bXlGWVExOXFoblpiNXAxclYyVUh1S1ZoYmVXNnZLRkdnaTV2MHVybTJOSUllWTdvSEE4N3RUaW1JemI2OExjM2traUxkOTdtcnNkSGhtQ3d3ODdjSTlfM2N1RWxSUklIdkJvZjUzZ1U3ZHUxU1Z3YkZmUmJhWjJFUWx6RTlMRGI2Y3haaDdDQVBWREtZZjZIcw?oc=5",
+  "source": "T24",
+  "summary_tr": "T24, erişim engeline yaptığı itirazın altı gündür sonuçlandırılmasını bekliyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-10-06T22:01:24.647484+00:00",
+  "type": "news",
+  "cluster_id": "st2161a70e49"
+ },
+ {
+  "title": "Venezuela's Cardon refinery halted after fire, sources say",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUzg2YXJYRzVZM2tjYUx4U2ozUHo4cy1jZnFlYkRLOWlITnBFRjJES2ZtMGVLMVdnUDluVDl2b0pFWURvOWNYOFNQbm1WdnNpeHd5Q05FUlVnQVhNZkkwWFpLUkdLVlR5RHFuSjBGazhKcE1FQU90OERlLWoxWVJnTlkxQnplTVdITkhvVHE0TzFTUmtJSHlQX0E3VVZaaGsxNy1HVUVwX3g0aHc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Venezuela'nın Cardon petrol rafinerisinde çıkan yangın sonrası üretim durduruldu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-10-06T22:01:24.647484+00:00",
+  "type": "news",
+  "cluster_id": "stdac0633a7d"
+ },
+ {
   "title": "Adı fon krizinde geçiyordu: AKP’li Hayati Yazıcı’nın oğlunun ortağı ölü bulundu",
   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZlNoZHkwX3NEVzFPRjBMNlFXbkJEQlJtbXhxbGI1bUtUYmRveFZJNW9LVEY2bVJQWERtOHdCc05ybkJERTJSUmY1eThhTkE0aWt0U3Jic0EtNDVzYXFuS1JlVEp6Q3hQMjRfaW5rQ202Z09CMFdHQVhLZGVITjdPcnl3ZkdpODU0WnlR?oc=5",
   "source": "Medyascope",
@@ -59926,77 +59998,5 @@
   "ts": "2026-09-03T17:01:11.845995+00:00",
   "type": "news",
   "cluster_id": "cf147355d565d"
- },
- {
-  "title": "İsrail ordusu Lübnan'ın güneyinde hava ve topçu saldırılarına devam ediyor",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-lubnanin-guneyinde-hava-ve-topcu-saldirilarina-devam-ediyor/4046748",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail ordusu, ateşkes rağmen Lübnan'ın güneyinde hava ve topçu saldırılarına devam ederek ev ve altyapı tahrip etti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-03T17:01:11.845995+00:00",
-  "type": "news",
-  "cluster_id": "cdc9177c213b7"
- },
- {
-  "title": "Grand Termal’de 110 işçinin ücret ve tazminat eylemi sürüyor",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/grand-termal-de-110-iscinin-ucret-ve-tazminat-eylemi-suruyor-2534699",
-  "source": "Cumhuriyet",
-  "summary_tr": "Yalova'daki Grand Termal Otel'in kapanmasının ardından yaklaşık 110 işçi, aylardır ödenmeyen maaş ve kıdem tazminatı için eylem yapıyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-09-03T17:01:11.845995+00:00",
-  "type": "news",
-  "cluster_id": "c0ae455cd1d3e"
- },
- {
-  "title": "AB ülkeleri gümrük reformuna yeşil ışık yaktı!",
-  "link": "https://www.sozcu.com.tr/ab-ulkeleri-gumruk-reformuna-yesil-isik-yakti-p355160",
-  "source": "Sözcü",
-  "summary_tr": "AB ülkeleri, e-ticaret yoluyla gelen ürünlerin gümrük denetimini artırmayı ve vergi tahsilatını iyileştirmeyi onayladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-03T17:01:11.845995+00:00",
-  "type": "news",
-  "cluster_id": "cfd51d160187a"
- },
- {
-  "title": "AB ülkelerinden gümrük reformuna \"yeşil ışık\"",
-  "link": "https://www.aa.com.tr/tr/ekonomi/ab-ulkelerinden-gumruk-reformuna-yesil-isik/4046729",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "AB ülkeleri, e-ticaret yoluyla gelen ürünlerin gümrük denetimini artırmayı ve vergi tahsilatını iyileştirmeyi onayladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-03T17:01:11.845995+00:00",
-  "type": "news",
-  "cluster_id": "cfd51d160187a"
- },
- {
-  "title": "Bakan Uraloğlu: Ankara-Samsun arası 2,5 saate inecek",
-  "link": "https://www.aa.com.tr/tr/gundem/bakan-uraloglu-ankara-samsun-arasi-2-5-saate-inecek/4046701",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Ankara-Kırıkkale-Çorum-Samsun Hızlı Tren Hattı tamamlandığında Ankara-Samsun arası seyahat süresi 2,5 saate inecek.",
-  "metric": "",
-  "lean": "right",
-  "score": 6,
-  "ts": "2026-09-03T17:01:11.845995+00:00",
-  "type": "news",
-  "cluster_id": "c0be2adb27184"
- },
- {
-  "title": "İslam ülkelerine ihracat (7 aylık): 41,5 milyar dolar (2025 ilk 7 ay)",
-  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYmdsVXVob2dSbEYxOC1oQmY0Q0QzcEhLcHFaXzY1NlI3aThKVDlISHg2czdydmN2UUZzV3ZYZktqM25iNFFTSk9ReVFxYTFQLXVIaTBwd3c2SE4tUWhQZm9BSVV0bjQwb0dRbXJFeGl5Y3k0akN2T29YZFJmeVdwVXpkVFk1UnVfZ1MtOFRvcXNVRnM5OEFVRnFxYjBIcTV1eG5hcFZNTmJfLWx0MnNUU1JfOWtLaTZtOFBZdzVlZUNxUVdaWjNHcXN6R0ZDZEQ3Tmp4NV9TdnA?oc=5",
-  "source": "Hazine ve Maliye / Ticaret Bakanlığı",
-  "summary_tr": "41,5 milyar dolar",
-  "metric": "",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-09-03T17:01:11.845995+00:00",
-  "type": "data",
-  "cluster_id": ""
  }
 ]
