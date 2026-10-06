@@ -1,5 +1,17 @@
 [
  {
+  "title": "TERA-Adil Varlık hattı: Ahtapot gibi sardılar",
+  "link": "https://www.sozcu.com.tr/tera-adil-varlik-hatti-ahtapot-gibi-sardilar-p366467",
+  "source": "Sözcü",
+  "summary_tr": "YENİ Partili Zeybek, Tera Bank'ın sahibi Adil Varlık etrafındaki 5 şirketlik yapıyı 'ahtapot' olarak nitelendirdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-10-06T02:01:03.467960+00:00",
+  "type": "news",
+  "cluster_id": "st383ca4919b"
+ },
+ {
   "title": "Eyüpsultan Belediye Başkanı Mithat Bülent Özmen tutuklandı",
   "link": "https://www.bbc.com/turkce/articles/cxyvzvr4y6mgo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59986,17 +59998,5 @@
   "ts": "2026-09-02T08:01:12.417369+00:00",
   "type": "news",
   "cluster_id": "c74e3073084ca"
- },
- {
-  "title": "Kremlin duyurdu: 3 dünya devinin lideri bir araya gelecek",
-  "link": "https://www.sozcu.com.tr/kremlin-duyurdu-3-dunya-devinin-lideri-bir-araya-gelecek-p354716",
-  "source": "Sözcü",
-  "summary_tr": "Kremlin Danışmanı Yuri Uşakov, Putin, Trump ve Xi Jinping'in bir araya geleceğini duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-02T08:01:12.417369+00:00",
-  "type": "news",
-  "cluster_id": "c58409d32d921"
  }
 ]
