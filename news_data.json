@@ -1,5 +1,65 @@
 [
  {
+  "title": "Başkentte uygulama noktasında ateş açılması sonucu polis memuru Türkoğlu şehit oldu",
+  "link": "https://www.aa.com.tr/tr/gundem/baskentte-uygulama-noktasinda-ates-acilmasi-sonucu-polis-memuru-turkoglu-sehit-oldu/4080328",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Ankara'da polis uygulama noktasına ateş açılması sonucu polis memuru Ahmet Türkoğlu şehit oldu.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-10-06T23:01:08.243519+00:00",
+  "type": "news",
+  "cluster_id": "st9a3713f672"
+ },
+ {
+  "title": "Ankara'da uygulama noktasında ateş açılması sonucu 1 polisimiz şehit oldu",
+  "link": "https://www.trthaber.com/haber/gundem/ankarada-uygulama-noktasinda-ates-acilmasi-sonucu-1-polisimiz-sehit-oldu-959332.html",
+  "source": "TRT Haber",
+  "summary_tr": "Ankara'da polis uygulama noktasına ateş açılması sonucu polis memuru Ahmet Türkoğlu şehit oldu.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-10-06T23:01:08.243519+00:00",
+  "type": "news",
+  "cluster_id": "st9a3713f672"
+ },
+ {
+  "title": "Ankara'da uygulama noktasında polise ateş açıldı: 1 şehit",
+  "link": "https://www.sozcu.com.tr/ankarada-uygulama-noktasinda-polise-ates-acildi-1-sehit-p366808",
+  "source": "Sözcü",
+  "summary_tr": "Ankara'da polis uygulama noktasına ateş açılması sonucu polis memuru Ahmet Türkoğlu şehit oldu.",
+  "metric": "",
+  "lean": "left",
+  "score": 8,
+  "ts": "2026-10-06T23:01:08.243519+00:00",
+  "type": "news",
+  "cluster_id": "st9a3713f672"
+ },
+ {
+  "title": "İçişleri Bakanlığı: Vahap Seçer dahil 5 isim görevden uzaklaştırıldı",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYjJkOF9pUzcxeDlNbUl1aEhHeHhBX3dHNkZWYmtTS3V3MjNCVGZUbzZfSE55ZXJELTQ2Vzk0NkNzc2tDR0hMQUJmWDcyZEhuNkQyc2dZS2ZCRUx4cGtBSHZUd0F0UFFlTDdUY05xa0JVQnNWUmNtVXI1dVJ4R2lvTVhQWFY4MnQyTmJBN2dYTV9FeVFUXzdkNFJldkxidFY2Rlk4LXEzZXc?oc=5",
+  "source": "soL",
+  "summary_tr": "İçişleri Bakanlığı, Mersin yolsuzluk soruşturması kapsamında Vahap Seçer dahil 5 ismi görevden uzaklaştırdığını açıkladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-06T23:01:08.243519+00:00",
+  "type": "news",
+  "cluster_id": "sta161d79e91"
+ },
+ {
+  "title": "Alman istihbaratının eski başkanı casusluk şüphesiyle gözaltında",
+  "link": "https://www.bbc.com/turkce/articles/cw1m4l7ky7nyo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Almanya'da gözaltındaki eski BND Başkanı Hanning'in İsrail ile ilişkileri yeniden gündeme geldi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-10-06T23:01:08.243519+00:00",
+  "type": "news",
+  "cluster_id": "st0018575ddb"
+ },
+ {
   "title": "Trump'tan Hürmüz Boğazı açıklaması: 'Amerika Birleşik Devletleri'ne aittir'",
   "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-hurmuz-bogazi-aciklamasi-amerika-birlesik-devletleri-ne-aittir-2544417",
   "source": "Cumhuriyet",
@@ -59938,65 +59998,5 @@
   "ts": "2026-09-03T18:01:41.697323+00:00",
   "type": "news",
   "cluster_id": "c6e239cb5aa22"
- },
- {
-  "title": "İBB davasında iki sanığa tahliye: İmamoğlu tahliye talebinde bulunmadı",
-  "link": "https://www.bbc.com/turkce/articles/c93vk2el415o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "İBB davasında mahkeme iki sanığa tahliye kararı verdi; İmamoğlu tahliye talebinde bulunmadı ve tutuklu yargılanmaya devam edecek.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-03T18:01:41.697323+00:00",
-  "type": "news",
-  "cluster_id": "c476dc593d30a"
- },
- {
-  "title": "Silivri: İBB davasında 2 tahliye",
-  "link": "https://www.dw.com/tr/silivri-ibb-davasında-2-tahliye/a-78895596?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "İBB davasında mahkeme iki kişiye tahliye kararı verirken, savcı 53 kişinin tutukluluğunun devamını istedi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-03T18:01:41.697323+00:00",
-  "type": "news",
-  "cluster_id": "cabc8f74523a9"
- },
- {
-  "title": "Son dakika... İBB davasında tahliye kararı",
-  "link": "https://www.sozcu.com.tr/son-dakika-ibb-davasinda-tahliye-karari-p355169",
-  "source": "Sözcü",
-  "summary_tr": "İBB davasında Bakırköy Belediyesi Başkan Yardımcısı Ali Rıza Akyüz ve iş insanı Serkan Öztürk hakkında tahliye kararı verildi.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-09-03T18:01:41.697323+00:00",
-  "type": "news",
-  "cluster_id": "cabc8f74523a9"
- },
- {
-  "title": "İBB davasında iki tahliye kararı: İmamoğlu dahil 51 kişinin tutukluluğu sürecek",
-  "link": "https://www.diken.com.tr/ibb-davasinda-iki-tahliye-karari-imamoglu-dahil-51-kisinin-tutuklulugu-surecek/?utm_source=rss&utm_medium=rss&utm_campaign=ibb-davasinda-iki-tahliye-karari-imamoglu-dahil-51-kisinin-tutuklulugu-surecek",
-  "source": "Diken",
-  "summary_tr": "İBB davasında iki sanığa tahliye kararı verildi; İmamoğlu dahil 51 kişinin tutukluluğu devam edecek.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-09-03T18:01:41.697323+00:00",
-  "type": "news",
-  "cluster_id": "c8ae998e83567"
- },
- {
-  "title": "Karadeniz’de tansiyon yükseldi: Rusya 2 gemiyi vurdu",
-  "link": "https://www.sozcu.com.tr/karadeniz-de-tansiyon-yukseldi-rusya-2-gemiyi-vurdu-p355162",
-  "source": "Sözcü",
-  "summary_tr": "Rusya, Karadeniz'de Ukrayna ordusuna silah taşıdığını iddia ettiği 2 gemiyi İHA ile vurduğunu açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-03T17:01:11.845995+00:00",
-  "type": "news",
-  "cluster_id": "cf147355d565d"
  }
 ]
