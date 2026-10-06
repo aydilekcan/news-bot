@@ -1,5 +1,41 @@
 [
  {
+  "title": "Fon krizi için TBMM'de araştırma komisyonu tartışması: Partiler ne diyor?",
+  "link": "https://www.bbc.com/turkce/articles/ckp8g1nrmejvo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Muhalefet partileri, fon vurgunu skandalı için TBMM'de Meclis araştırması komisyonu açılmasına yönelik önerge hazırlıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-06T00:01:11.474695+00:00",
+  "type": "news",
+  "cluster_id": "stb6bac5a5d9"
+ },
+ {
+  "title": "Mersin Büyükşehir Belediye Başkanı Vahap Seçer tutuklama talebiyle mahkemeye sevk edildi",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV2U2b2dxVFJHS19HUnpNSDg4SThzQkJuTW9fbDNZOEUyR1pRaTB0b0pfLU9Camg5bVU0ZnliSDkzV3R5ZWo0YkNUaW9acWVqZzJoY3RtRUVUcmVZZUxBRkpCeHNIXzlyVGxNRFJHN3VONUN4cGR5VExBY1pNSmw3ejJuR3dlbm1VMWkwdmpIUzk?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Mersin Büyükşehir Belediye Başkanı Vahap Seçer, yolsuzluk soruşturması kapsamında tutuklama talebiyle mahkemeye sevk edildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-06T00:01:11.474695+00:00",
+  "type": "news",
+  "cluster_id": "sta161d79e91"
+ },
+ {
+  "title": "AKP ülkemizi Yemen'e karşı savaşa sokuyor: Mekke İttifakı'ndan Suudi Arabistan'a 'hızla askeri güç konuşlandırma' kararı",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRjRORDZ6ZnFrcGN0Z2VQd0JSMHhBVzJMUjJxalF0QjRrOEw0YVdLMk90cERPQTF3MDNZci1tTFhpUnVBNW11U1R1dktmT1Ixa2pSRzdiZFZNeXh5RVZxSUhDQ09QeEFDc0pMSnRKTEQtd1o4QTZ3UFB1dnRLbFpvcjBidW5iZE9VREpHZk96V1VxVDVWWnh3TEJyT3AtaF9qY0xrMVU4MEpfMHBvcmVFaVM5RGwwZ2FmelBIbERKeU40QQ?oc=5",
+  "source": "soL",
+  "summary_tr": "Mekke İttifakı toplantısından Suudi Arabistan'a Türkiye ve Pakistan askerlerinin hızla konuşlandırılması kararı çıktı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-10-06T00:01:11.474695+00:00",
+  "type": "news",
+  "cluster_id": "st6ba2bd29e8"
+ },
+ {
   "title": "AYM'den 'Tayfun Kahraman' kararı: Yeniden yargılama yolu açıldı, 100 bin lira manevi tazminat",
   "link": "https://www.cumhuriyet.com.tr/siyaset/aym-den-tayfun-kahraman-karari-yeniden-yargilama-yolu-acildi-100-bin-lira-manevi-tazminat-2544055",
   "source": "Cumhuriyet",
@@ -59962,41 +59998,5 @@
   "ts": "2026-09-02T08:01:12.417369+00:00",
   "type": "news",
   "cluster_id": "c6bb9a60935b2"
- },
- {
-  "title": "Rusya: Ukrayna'nın lojistik merkezi ile liman ve enerji altyapısına saldırı düzenledik",
-  "link": "https://www.aa.com.tr/tr/dunya/rusya-ukraynanin-lojistik-merkezi-ile-liman-ve-enerji-altyapisina-saldiri-duzenledik/4044812",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Rusya Savunma Bakanlığı, Ukrayna'nın lojistik, liman ve enerji altyapısına saldırı düzenlediklerini bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-02T08:01:12.417369+00:00",
-  "type": "news",
-  "cluster_id": "c3c6d9ef92dea"
- },
- {
-  "title": "Trump, İran'ı müzakere masasına çekmeye çalıştığı iddialarını yalanladı",
-  "link": "https://www.trthaber.com/haber/dunya/trump-irani-muzakere-masasina-cekmeye-calistigi-iddialarini-yalanladi-955638.html",
-  "source": "TRT Haber",
-  "summary_tr": "Trump, ABD medyasının İran'ı müzakere masasına çekmeye çalıştığına dair haberlerini yalanladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-02T08:01:12.417369+00:00",
-  "type": "news",
-  "cluster_id": "c1ebc57c236b4"
- },
- {
-  "title": "No shortage of culprits in panic over long US Treasury yields",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVVczNWtaWmZ0TmRaZTk0UjJBaHBJb3ZmWVIwdEt4RnFwRTVLdnNQVEV6RmhJTmItdlFiR1pkTXZEUEZXZjk4elVNUE55TFJ4ckt1MHJzekhGVFhHRGNpby1Pel8xOGUydmRGdlV3REQtbFJ4VnRRc3U3c0pGaHZSTmhabDVqX0pyVWlBZzFOUWZ6dVJaNTA1QXctTm5xbnNTT3FNQ1gtckUwMnBpVEhFWg?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD Hazine tahvil verimlerinin yükselişi konusunda piyasada endişe bulunuyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-02T08:01:12.417369+00:00",
-  "type": "news",
-  "cluster_id": "cee9f5d05024f"
  }
 ]
