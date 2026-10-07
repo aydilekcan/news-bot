@@ -788,10 +788,10 @@
    "indicator_tr": "Hizmet Üretici Fiyat Endeksi (H-ÜFE) aylık"
   },
   "tr_dis_ticaret_acigi_yillik": {
-   "value": "%13,6",
-   "period": "Temmuz",
-   "ts": "2026-08-28T08:01:35.018371+00:00",
-   "indicator_tr": "Dış ticaret açığı yıllık"
+   "value": "%17,3",
+   "period": "Ağustos 2025",
+   "ts": "2026-10-07T15:01:35.085407+00:00",
+   "indicator_tr": "Dış ticaret açığı (yıllık değişim)"
   },
   "tr_ihracat_islam_ulkeleri_7ay": {
    "value": "41,5 milyar $",
@@ -1052,10 +1052,10 @@
    "indicator_tr": "Kişi başına dış borç"
   },
   "fc:oecd_tr_buyume_tahmin": {
-   "value": "%2,7",
+   "value": "%3 altında",
    "period": "",
-   "ts": "2026-09-24T08:01:46.700082+00:00",
-   "indicator_tr": "OECD Türkiye ekonomik büyüme tahmini"
+   "ts": "2026-10-07T15:01:35.085407+00:00",
+   "indicator_tr": "GSYH büyüme tahmini"
   },
   "tr_ihracat_miktar_endeksi_aylik": {
    "value": "%2,7",
@@ -1185,7 +1185,6 @@
   }
  },
  "seen_links": {
-  "275be6c4582f0970da7369edbbd7324b": "2026-09-23T15:01:13.499121+00:00",
   "2516fb272fabd6525f68551f9eacb646": "2026-09-23T18:01:14.574598+00:00",
   "d77e74f77f8347270f696b949f5c1e04": "2026-09-23T19:01:18.821941+00:00",
   "d28ec75822fa294c3976103a4d42341a": "2026-09-23T19:01:18.821941+00:00",
@@ -1437,6 +1436,8 @@
   "e33ffe9b6a1ba850d5fd7fcc9c140320": "2026-10-07T09:01:27.217721+00:00",
   "4027586b8709461ff5d7feb73c8c49d0": "2026-10-07T10:01:37.751186+00:00",
   "01ca35e5a630c147c9754242403800a3": "2026-10-07T13:01:44.851238+00:00",
-  "0bd1773614449fdaf33543608e4e6cf2": "2026-10-07T13:01:44.851238+00:00"
+  "0bd1773614449fdaf33543608e4e6cf2": "2026-10-07T13:01:44.851238+00:00",
+  "2ce59ac7af3122b06d349115dd9d0c6b": "2026-10-07T15:01:24.596377+00:00",
+  "b5c9238862139cbaf8607dcfd734d8e6": "2026-10-07T15:01:24.596377+00:00"
  }
 }
