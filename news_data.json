@@ -1,5 +1,29 @@
 [
  {
+  "title": "EXCLUSIVE: In interview, US Vice President Vance says Iran must cut nuclear enrichment to end war",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ3R3RzJuRF9NSlo0bWNMaGY3dTdUbXRmSU1BMml2V2RLd0sxazNvVUNRdXpHa21Ebk4tVWtLeHZXMG5xM2ZUVG1aTEJDU0FRWnRHZnozTHQxdVRjeTJvbXRKNzFpNG1wR3RqVDlKMXpXY09hYlFKVlF4RW5uQjJJMXhKOEt3c0ZLWE4tbWZlQW5hUnRnckxmaU1mU0R0SWwzRGNXdGo0ZTVTUXBlSHlfakN1Yw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD Başkan Yardımcısı Vance, savaşın sona ermesi için İran'ın nükleer zenginleştirmeyi azaltması gerektiğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-07T01:01:04.363693+00:00",
+  "type": "news",
+  "cluster_id": "stce608cd1b5"
+ },
+ {
+  "title": "French riot police fire tear gas as more than 250,000 rally nationwide for school funding",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUnN2bXRwby0zM25GY1BlLXJKNW5CVzJ0SDNaSTdySmR6Y2pGa1o0dDJBY2NGVFNONjk2UDFqaVRlcnhKNmw5T3pncWNhMWpyYVNuMVZyRzVOYzdkZmRYeXRGUUxpSjNqdHpJQVFYcHR0WHl1RllNZGZEdEZicG5xdW1JemhvYkpSUlVSbjc0dnFYblpzbkMtUEloUy0wMGEz?oc=5",
+  "source": "AP",
+  "summary_tr": "Fransa'da okul finansmanı için 250 binden fazla kişi ülke genelinde gösteri yaptı, polis biber gazı kullandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-07T01:01:04.363693+00:00",
+  "type": "news",
+  "cluster_id": "stc8fc7fea4b"
+ },
+ {
   "title": "Filistin: İsrail'in geçici bankacılık kararları ekonomimizi ciddi risklerle karşı karşıya bırakıyor",
   "link": "https://www.aa.com.tr/tr/dunya/filistin-israilin-gecici-bankacilik-kararlari-ekonomimizi-ciddi-risklerle-karsi-karsiya-birakiyor/4080330",
   "source": "Anadolu Ajansı",
@@ -59974,29 +59998,5 @@
   "ts": "2026-09-03T19:01:06.671839+00:00",
   "type": "news",
   "cluster_id": "cc6b558cca52e"
- },
- {
-  "title": "Son dakika...Doruk Maden işçilerine alacaklarının yüzde 80’i verildi",
-  "link": "https://www.sozcu.com.tr/son-dakika-doruk-maden-iscilerine-alacaklarinin-yuzde-80-i-verildi-p355182",
-  "source": "Sözcü",
-  "summary_tr": "Doruk Maden işçilerine alacaklarının %80'i ödendi, kalan %20 10 gün içinde verilecek.",
-  "metric": "Alacak ödeme %80 -> (kalan %20)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-03T19:01:06.671839+00:00",
-  "type": "news",
-  "cluster_id": "ce076a36e52e4"
- },
- {
-  "title": "US pressure on Iran starting to tell, as sanctions and blockade bite",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSFdWSEQ0NWhzbDhXcnU0Qkg3M2tkUTFVd3FORVkycWhEWWN4M0ZvM3gzaHRUb1c5dkw0Vm1iZXNfM1FiVUFFLURwUUhGektkY01rd0VYT1N2dXJTTks4OEhKN09lRExxZ1dCTDcwZ082XzRmMEMwNkpENlF1c1BnVFlBMmdmd1pRUC14cVZfMmpTdzVpTmpaVWtjdUszR1pxWExxX05Zb0hxSDQy?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD'nin İran'a yönelik yaptırımları ve ablokajı etkin olmaya başladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-03T19:01:06.671839+00:00",
-  "type": "news",
-  "cluster_id": "c84a4dba3aa7a"
  }
 ]
