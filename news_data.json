@@ -1,5 +1,53 @@
 [
  {
+  "title": "Attacks on tankers in Hormuz hit highest of any week since start of Iran war, sources say",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMzlOYkh2NkF3OTFOQ0g5RFdjT0VSZXU4Y0U1cDREQnltUF9XM2VBVlk1bER5cTNTS00yaWctcDdnTjI3TG1jeWVxV3JIT2ctb1JVLVg4Nm13aENfNmlQSVQ2dHZLS2dabVYyYXQydWFEQ25SQVY1UkFORHd6djNHUHFkVEpwa3d6WkRiMy15SFRwV3l4anZiSXQ2YmR2bmxWZFhYTFE1YVNBRnc1ZG0tbHJDT1RacGJ6VmRhV3RnQ3g5UmZvdE5xZ3RB?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Hürmüz Boğazı'nda tankerlere yönelik saldırılar, İran savaşı başladığından bu yana en yüksek haftalık seviyeye ulaştı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-10-07T19:01:08.673952+00:00",
+  "type": "news",
+  "cluster_id": "st8dfb071610"
+ },
+ {
+  "title": "Fatma Betül Sayan Kaya ve eşinin ifadesi: Kimse yönlendirmedi",
+  "link": "https://www.diken.com.tr/fatma-betul-sayan-kaya-ve-esinin-ifadesi-kimse-yonlendirmedi/?utm_source=rss&utm_medium=rss&utm_campaign=fatma-betul-sayan-kaya-ve-esinin-ifadesi-kimse-yonlendirmedi",
+  "source": "Diken",
+  "summary_tr": "Eski Bakan Fatma Betül Sayan Kaya ve eşinin ifadesinde yönlendirme olmadığı açıklandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-07T19:01:08.673952+00:00",
+  "type": "news",
+  "cluster_id": "stdbc70ea112"
+ },
+ {
+  "title": "Suudi Arabistan: Abha ve Riyad'daki havalimanlarına saldırılarda 3 kişi öldü, 36 kişi yaralandı",
+  "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistan-abha-ve-riyaddaki-havalimanlarina-saldirilarda-3-kisi-oldu-36-kisi-yaralandi/4081372",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Suudi Arabistan'da Abha ve Riyad havalimanlarına yapılan saldırılarda 3 kişi öldü, 36 kişi yaralandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-07T19:01:08.673952+00:00",
+  "type": "news",
+  "cluster_id": "stddde9798ba"
+ },
+ {
+  "title": "Fed policymakers divided over rate-hike logic in September, minutes show",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOVl1b0t4RWF0WnFRODUzeHAydHMzOFl1U0lKbEhOa3ZSbG1GdDdubllBRG9raTZ0VllPeWJsUEFmOUlLaGZKYkd1QXo0dEFyUzZCUjdKM0NQeHdCeUZWU1hBcTBNaGJIaVJwVkluZ3Y0elloSXRyRHJkek1VdUxJdkV0NV8xSXJxUFdOVjBJVmFRcm5Na3M2ZGlodGdtcEk2NFlnWnZXVUNQSlJBUUFUSmJiOA?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Fed tutanaklarına göre politika yapıcılar eylül ayındaki faiz artışı kararı konusunda bölündü.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-07T19:01:08.673952+00:00",
+  "type": "news",
+  "cluster_id": "st2c0b274e08"
+ },
+ {
   "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Olağanüstü tasfiyede ana paraya yoğunlaşan bir yöntemimiz var",
   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-yardimcisi-yilmaz-olaganustu-tasfiyede-ana-paraya-yogunlasan-bir-yontemimiz-var-959450.html",
   "source": "TRT Haber",
@@ -59950,53 +59998,5 @@
   "ts": "2026-09-05T11:01:13.003996+00:00",
   "type": "news",
   "cluster_id": "c85a48f14fca9"
- },
- {
-  "title": "ABD'den Türk bankasına 'İran bağlantılı' iddiasıyla yaptırım",
-  "link": "https://www.diken.com.tr/abdden-turk-bankasina-iran-baglantili-iddiasiyla-yaptirim/?utm_source=rss&utm_medium=rss&utm_campaign=abdden-turk-bankasina-iran-baglantili-iddiasiyla-yaptirim",
-  "source": "Diken",
-  "summary_tr": "ABD, İran bağlantısı iddiasıyla Türkiye merkezli Golden Glo bankasına yaptırım uyguladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-05T10:01:05.999738+00:00",
-  "type": "news",
-  "cluster_id": "cbdb63f7d9e12"
- },
- {
-  "title": "Üsküdar’daki AK Parti planı CHP-Yeni Parti ortak kararıyla bozuldu",
-  "link": "https://yetkinreport.com/2026/09/05/uskudardaki-ak-parti-plani-chp-yeni-parti-ortak-karariyla-bozuldu/",
-  "source": "YetkinReport",
-  "summary_tr": "Üsküdar Belediye Başkanvekili seçimi CHP ve Yeni Parti'nin boykotu nedeniyle ertelendi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-05T10:01:05.999738+00:00",
-  "type": "news",
-  "cluster_id": "c9198e38bc728"
- },
- {
-  "title": "Bilişim sektörü ihracatı 6,7 milyar doları aştı",
-  "link": "https://www.sozcu.com.tr/bilisim-sektoru-ihracati-6-7-milyar-dolari-asti-p355567",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye'nin bilişim ve teknoloji hizmetleri ihracatı 2025'te %25,3 artışla 6,7 milyar doları aştı.",
-  "metric": "Bilişim ihracatı: 6,7 milyar dolar (+%25,3)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-05T10:01:05.999738+00:00",
-  "type": "news",
-  "cluster_id": "c2d3478ac73b1"
- },
- {
-  "title": "Türkiye'den Almanya'ya dev ihracat çıkarması!",
-  "link": "https://www.sozcu.com.tr/turkiye-den-almanya-ya-dev-ihracat-cikarmasi-p355565",
-  "source": "Sözcü",
-  "summary_tr": "Türkiye'nin Almanya'ya dış satımı ilk 8 ayda %3,8 artışla 13,5 milyar dolara ulaştı.",
-  "metric": "Almanya ihracatı: 13,5 milyar dolar (+%3,8)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-05T10:01:05.999738+00:00",
-  "type": "news",
-  "cluster_id": "cdcf08e96151e"
  }
 ]
