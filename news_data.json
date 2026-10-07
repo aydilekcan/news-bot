@@ -1,5 +1,77 @@
 [
  {
+  "title": "Yemen'de Husiler, Aden Uluslararası Havalimanı'nı füze ve İHA'larla hedef aldı",
+  "link": "https://www.aa.com.tr/tr/dunya/yemende-husiler-aden-uluslararasi-havalimanini-fuze-ve-ihalarla-hedef-aldi/4080350",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Yemen'de İran destekli Husiler, Aden Uluslararası Havalimanı'nı balistik füze ve İHA'larla hedef aldı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-10-07T04:01:09.029988+00:00",
+  "type": "news",
+  "cluster_id": "st63dd583ffa"
+ },
+ {
+  "title": "Paramount ve Warner Bros'tan 110 milyar dolarlık dev birleşme",
+  "link": "https://www.trthaber.com/haber/dunya/paramount-ve-warner-brostan-110-milyar-dolarlik-dev-birlesme-959346.html",
+  "source": "TRT Haber",
+  "summary_tr": "Paramount, Warner Bros Discovery ile 110 milyar dolarlık birleşmeyi tamamladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-10-07T04:01:09.029988+00:00",
+  "type": "news",
+  "cluster_id": "st77f1b3a8e5"
+ },
+ {
+  "title": "Fransa'da çatışmalar hız kesmeden devam ediyor",
+  "link": "https://www.trthaber.com/haber/dunya/fransada-catismalar-hiz-kesmeden-devam-ediyor-959344.html",
+  "source": "TRT Haber",
+  "summary_tr": "Fransa'da lise öğrencileriyle başlayan protestolar üniversite öğrencileri, veliler ve sendikalara yayılarak sürüyor.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-10-07T04:01:09.029988+00:00",
+  "type": "news",
+  "cluster_id": "stc8fc7fea4b"
+ },
+ {
+  "title": "İzin almayan yabancı konaklama platformlarına erişim engeli getirilecek",
+  "link": "https://www.trthaber.com/haber/ekonomi/izin-almayan-yabanci-konaklama-platformlarina-erisim-engeli-getirilecek-959343.html",
+  "source": "TRT Haber",
+  "summary_tr": "Yabancı Dijital Konaklama Platformları Kanunu Teklifi TBMM komisyonunda kabul edildi, izinsiz platformlara erişim engeli getirilecek.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-10-07T04:01:09.029988+00:00",
+  "type": "news",
+  "cluster_id": "sta2d58c7fe6"
+ },
+ {
+  "title": "North Korea criticises US support for Taiwan, pledges backing for Russia",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMHg2SlpoVHlESU44TmVmZmNnNjFrYWw4bzYxVmtkWHBsdkppd2hFLVlSNFg3X19RRV9zc2tUa2tOX1BSckpvOVJnTHJabXJ4aHR3TDZJTENCOV9tV0ZPN3FYUkt2YjlVZllULUEyN0hTLXd5a3pFUmNEcXF4N1ZxTTVQX1JVdmNoaXdBcnhNUDRvZ0MtLTRhLUhmQzNTaEtiTlN1MTh3M3o4d0ZhQVFWaTZTQ2lCSHoyV3FocnhDRE4zX3FVTjJz?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Kuzey Kore, ABD'nin Tayvan'a desteğini eleştirdi ve Rusya'ya destek sözü verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-10-07T04:01:09.029988+00:00",
+  "type": "news",
+  "cluster_id": "stf594e06572"
+ },
+ {
+  "title": "Germany's former foreign intelligence chief arrested on suspicion of espionage and attempted treason",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSE1QSWgzLVNrRy1fbFdqc0FwdkctYmcyZ2UxcmxxdWdyRENwM3VKSFpqbnpxVUdpcHJISDlpVV96eDdSV3pyZ0UzZUtRZzR1UEhIQlNhaDdjRVVNWUJrN3dyRDAyMTZjcl9rbWx2QW54ZkV4V1lRNXU5bFJURmlhTG42RkxHODJPWmpOWi1hOWVMVDY1N1phMVJrZWtUSDNOcS0zWWdvZlBBNU1YOFNwWmdYaGMzcFg4ODd2c1dB?oc=5",
+  "source": "AP",
+  "summary_tr": "Almanya'da casusluk şüphesiyle gözaltına alınan eski BND Başkanı August Hanning tutuklandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-10-07T04:01:09.029988+00:00",
+  "type": "news",
+  "cluster_id": "st0018575ddb"
+ },
+ {
   "title": "Nacar kimin kasası?",
   "link": "https://www.sozcu.com.tr/nacar-kimin-kasasi-p366814",
   "source": "Sözcü",
@@ -59926,77 +59998,5 @@
   "ts": "2026-09-04T00:01:11.602069+00:00",
   "type": "news",
   "cluster_id": "c823872717b0a"
- },
- {
-  "title": "İsrail ordusu Lübnan'ın güneyine hava ve topçu saldırılarını sürdürüyor",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-lubnanin-guneyine-hava-ve-topcu-saldirilarini-surduruyor/4046942",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail ordusu ateşkese rağmen Lübnan güneyine hava, topçu saldırıları ve karadan sızma girişimlerini yoğunlaştırdı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-09-03T23:01:03.891118+00:00",
-  "type": "news",
-  "cluster_id": "cfcbebfcbea30"
- },
- {
-  "title": "Volkswagen Denetleme Kurulu, 50 bin kişiyi daha işten çıkarma planını onayladı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/volkswagen-denetleme-kurulu-50-bin-kisiyi-daha-isten-cikarma-planini-onayladi/4046939",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Volkswagen Denetleme Kurulu, maliyet düşürmek için ek 50 bin kişinin işten çıkarılmasını onayladı.",
-  "metric": "50.000 iş kaybı",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-03T23:01:03.891118+00:00",
-  "type": "news",
-  "cluster_id": "c63db72a2a7f2"
- },
- {
-  "title": "US diesel prices hit record high as conflicts intensify supply crunch",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZHF2Z29UenJROHZ5YlJpTFBHM1pmWmdNaWROSnhyNlhDVVZmVGVXTkRaT1k4N1NBY1B1YUhDbmE2SGQ2TllTNExHWk9JT1JCWHRKQnVpZEx5SVVNZHdhc2tsbEEtWG01Ty1QUXpMSWdWR3NuQTVQaWNhLUViMXkzRl9WNk81bDdiVk5tb1hPeVBMczFGaWVmaTNzWEdYZ29P?oc=5",
-  "source": "Reuters",
-  "summary_tr": "ABD'de dizel fiyatları çatışmaların arttığı arz sıkıntısı nedeniyle rekor seviyeye ulaştı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-03T23:01:03.891118+00:00",
-  "type": "news",
-  "cluster_id": "cf6644b96fb75"
- },
- {
-  "title": "Vance says Iran conflict is not a war, declines to offer timeline for end",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWVqMkRjNklKdUhYTF9BTE5GN1ctUG5zaGI0cVdEcW9ReEhYMmxJREpHX1o5RE5mS1VZMHAwTlBTTmZhWURSV3dMUkY1YjhBMjZEN2hvZWhYc1hiaTk1MFRacnpEVDVYWnRuTEVrVW8yZnRnTVUxcTV0UEd5NXRRVDlzTmM0NFA5b3o3Q3JPMFhHMGFJb3JVN05DTVZSbUZlNHlNVFdMTmhmajRfR25zZ05LblhOZjg?oc=5",
-  "source": "Reuters",
-  "summary_tr": "VP Vance İran çatışmasının savaş olmadığını söyledi ve bitiş tarihi sunmadı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-03T23:01:03.891118+00:00",
-  "type": "news",
-  "cluster_id": "cdb5b1d62530d"
- },
- {
-  "title": "Başkan vekili seçimi öncesi Üsküdar Belediye Meclisi'nden CHP'li 4 üye AKP'ye geçti",
-  "link": "https://www.bbc.com/turkce/articles/cz7dn28e0y4o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Üsküdar Belediye Meclisi'nde başkan vekili seçimi öncesi CHP'den 4 üye AKP'ye geçti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-03T22:01:09.275839+00:00",
-  "type": "news",
-  "cluster_id": "cea252b58ca9f"
- },
- {
-  "title": "Üsküdar Belediye Başkanvekilliği seçimi öncesi 4 CHP’li Belediye Meclis üyesi AKP’ye geçti",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeGdRTEk0QUZqNGJrZ2dWSDREVEdUa1dqVzV1VGVGbk9XREE3Qy0yOUhoWHZMZDBRU3hURmk3NVRySnJ0VTUyOVhscHd3d2gyMjdzT1kzaGZpNjZ4TXNVSjFmVzRkeDRsZjU0WUhqWGZpdTc2RzA4aUVvM3dwcVJGcDhQSDUtd1QxQVF2RzJB?oc=5",
-  "source": "Medyascope",
-  "summary_tr": "Üsküdar Belediye Başkan Vekili seçimi öncesi 4 CHP'li Meclis üyesi AKP'ye geçti.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-09-03T22:01:09.275839+00:00",
-  "type": "news",
-  "cluster_id": "cea252b58ca9f"
  }
 ]
