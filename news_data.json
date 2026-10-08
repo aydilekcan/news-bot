@@ -1,5 +1,65 @@
 [
  {
+  "title": "İsrail basını: Trump, İsrail seçimleri öncesinde İran'a saldırı düzenlemeyi planlıyor",
+  "link": "https://www.aa.com.tr/tr/dunya/israil-basini-trump-israil-secimleri-oncesinde-irana-saldiri-duzenlemeyi-planliyor/4082824",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İsrail basınına göre Trump, 27 Ekim İsrail seçimleri öncesinde İran'a saldırı düzenlemeyi planlıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-10-08T22:01:13.585507+00:00",
+  "type": "news",
+  "cluster_id": "st6f5757f46e"
+ },
+ {
+  "title": "Maltepe'de çöken binadaki enkazdan 1 kişi daha çıkarıldı: 2 kişiyi arama çalışmaları sürüyor",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/maltepe-de-coken-binadaki-enkazdan-1-kisi-daha-cikarildi-2-kisiyi-arama-calismalari-suruyor-2545022",
+  "source": "Cumhuriyet",
+  "summary_tr": "Maltepe'de çöken binanın enkazından bir kişinin cansız bedeni daha çıkarıldı, arama çalışmaları sürüyor.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-08T22:01:13.585507+00:00",
+  "type": "news",
+  "cluster_id": "sta881005ecc"
+ },
+ {
+  "title": "Özlale’den fon vurgununa dair dikkat çeken yeni çıkış: ‘Bakanlar fon vurgunu yapan kişileri TCKN detayına kadar biliyor’",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/ozlale-den-fon-vurgununa-dair-dikkat-ceken-yeni-cikis-bakanlar-fon-vurgunu-yapan-kisileri-tckn-detayina-kadar-biliyor-2545021",
+  "source": "Cumhuriyet",
+  "summary_tr": "Yeni Partili Özlale, bakanlıkların fon vurgunu yapanları TCKN detayına kadar bildiğini öne sürdü.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-08T22:01:13.585507+00:00",
+  "type": "news",
+  "cluster_id": "stb6bac5a5d9"
+ },
+ {
+  "title": "Ünlü mutfak eşyası üreticisi iflasın eşiğinde",
+  "link": "https://www.sozcu.com.tr/seden-mutfak-sensoy-madeni-esya-konkordato-p367495",
+  "source": "Sözcü",
+  "summary_tr": "Çelik mutfak eşyaları üreticisi Seden Mutfak, mali darboğaz nedeniyle konkordato ilan etti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-08T22:01:13.585507+00:00",
+  "type": "news",
+  "cluster_id": "st4979c7e6b1"
+ },
+ {
+  "title": "Özgür Özel, tutuklu Mersin Büyükşehir Belediye Başkanı Vahap Seçer'i ziyaret edecek",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/ozgur-ozel-tutuklu-mersin-buyuksehir-belediye-baskani-vahap-secer-i-ziyaret-edecek-2545024",
+  "source": "Cumhuriyet",
+  "summary_tr": "CHP lideri Özgür Özel, tutuklu Mersin Büyükşehir Belediye Başkanı Vahap Seçer'i cezaevinde ziyaret edecek.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-10-08T22:01:13.585507+00:00",
+  "type": "news",
+  "cluster_id": "sta161d79e91"
+ },
+ {
   "title": "Bakan Göktaş'tan Yeni Parti milletvekilleri Özlale ve Enginyurt hakkında suç duyurusu",
   "link": "https://www.aa.com.tr/tr/gundem/bakan-goktastan-yeni-parti-milletvekilleri-ozlale-ve-enginyurt-hakkinda-suc-duyurusu/4082800",
   "source": "Anadolu Ajansı",
@@ -59938,65 +59998,5 @@
   "ts": "2026-09-07T12:01:17.864744+00:00",
   "type": "news",
   "cluster_id": "c3505d3f05cff"
- },
- {
-  "title": "Alman basını: AfD'nin seçim zaferi Merz'i zorluyor",
-  "link": "https://www.dw.com/tr/alman-basını-afd-nin-seçim-zaferi-merz-i-zorluyor/a-79142628?maca=tur-rss-tur-all-1495-rdf",
-  "source": "DW Türkçe",
-  "summary_tr": "Almanya'da AfD'nin Saksonya-Anhalt'ta ezici seçim zaferi, CDU'yu ağır bir hezimet yaşattı. Alman basını Merz'in siyasi konumunu sorgulayan haberlerle dolu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-07T11:01:16.130275+00:00",
-  "type": "news",
-  "cluster_id": "cf8f140f50e20"
- },
- {
-  "title": "Çalışanları bekleyen 'esnek çalışma modeli' tehlikesi",
-  "link": "https://www.sozcu.com.tr/calisanlari-bekleyen-esnek-calisma-modeli-tehlikesi-p356067",
-  "source": "Sözcü",
-  "summary_tr": "2027-2029 Orta Vadeli Programı'nda esnek çalışma modeli değişiklikleri öngörülüyor ve milyonlarca çalışanın çalışma düzenini etkileyebilir.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-09-07T11:01:16.130275+00:00",
-  "type": "news",
-  "cluster_id": "cafdf62415b4d"
- },
- {
-  "title": "German chancellor faces tough times after first far-right party's state election win since Nazi era",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM29qLVk4UUFIa1hOSHdIWVd1VWxZb1JVNGpRSXhoalhNU1NYMDJCRTZKc2tnMVdaajktRm5xME9DX1BuWVplZXBGWExHWlJOYjhEeXV4SUdmeVBERHZFMlZnU0FocDRySk5FWVNpOS1LalpKb1dMWGNZeWZkS1NEZHpjYzdRR1ZvdHE4YnIwcE8yWExibUNLd0V3?oc=5",
-  "source": "AP",
-  "summary_tr": "Almanya'da Nazi döneminden sonra ilk kez far-right partisi eyalet seçiminde zafer kazandı ve Alman şansölyesi zor günlerle karşı karşıya.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-07T11:01:16.130275+00:00",
-  "type": "news",
-  "cluster_id": "cfa22a7819cc9"
- },
- {
-  "title": "Diyanet'in bütçesi 6 bakanlığı solladı",
-  "link": "https://www.sozcu.com.tr/diyanet-in-butcesi-6-bakanligi-solladi-p356075",
-  "source": "Sözcü",
-  "summary_tr": "Tarım Bakanlığı'nın 2026 bütçesi 541,8 milyar TL'den 2027'de 383 milyar TL'ye gerilerken, Diyanet'in bütçesi 6 bakanlığı solladı.",
-  "metric": "Tarım Bakanlığı bütçesi 541,8 milyar TL -> 383 milyar TL (-29,3%)",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-09-07T11:01:16.130275+00:00",
-  "type": "news",
-  "cluster_id": "cb9495996459c"
- },
- {
-  "title": "Tren bilet sisteminde sessiz sedasız yeni dönem başladı",
-  "link": "https://www.sozcu.com.tr/tren-bilet-sisteminde-sessiz-sedasiz-yeni-donem-basladi-p356068",
-  "source": "Sözcü",
-  "summary_tr": "Ulaştırma Bakanı Uraloğlu, bilet bulamayan yolcuların otomatik iade, iptal veya yer açılması durumunda bildirileceği yeni bir sistem başlattığını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-07T11:01:16.130275+00:00",
-  "type": "news",
-  "cluster_id": "cb7a7a79687d0"
  }
 ]
