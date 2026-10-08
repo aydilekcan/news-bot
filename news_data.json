@@ -1,5 +1,77 @@
 [
  {
+  "title": "Axios: İran'a muhtemel saldırılar için ABD ordusuna hazır olma emri verildi",
+  "link": "https://www.trthaber.com/haber/dunya/axios-irana-muhtemel-saldirilar-icin-abd-ordusuna-hazir-olma-emri-verildi-959488.html",
+  "source": "TRT Haber",
+  "summary_tr": "Axios'a göre Trump, İran'a muhtemel saldırılar için ABD ordusuna hazır olma emri verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-10-08T07:01:27.638994+00:00",
+  "type": "news",
+  "cluster_id": "st203fed052a"
+ },
+ {
+  "title": "EXCLUSIVE: US, Russia explore gas sale to Europe amid Ukraine war, say sources",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUEhaa1JlbmtzZjZfVFhHcXR0S3ZZUnRnTjBJNnl6UUQ3cjJPZ2JfQ1d5bDVpTEdvXzhwT2JrQTA5VGg4dVNweG9odGJwalF3cTd0clZUb1FJRE45NHVfS2R1bXRIQXliZkZPdFM4NGFkNkNlaTQxSU9Kd2R4WTEtX3FGMkx3YkR5X3lMaW9FOXRpemVncHlTRkZiWEdwakUzVnJ1NHVTdGhEWlRkNWIyeDJha2c?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Reuters'a göre ABD ve Rusya, Ukrayna savaşı sürerken Avrupa'ya gaz satışı imkanlarını görüşüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-10-08T07:01:27.638994+00:00",
+  "type": "news",
+  "cluster_id": "ste58c2702aa"
+ },
+ {
+  "title": "Türkiye'nin dev gıda şirketi iflas etti: 3 ay önce konkordato ilan etmişti",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/turkiye-nin-dev-gida-sirketi-iflas-etti-3-ay-once-konkordato-ilan-etmisti-2544749",
+  "source": "Cumhuriyet",
+  "summary_tr": "Türkiye'nin büyük gıda şirketlerinden Taban Gıda'nın konkordato süreci iflasla sonuçlandı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-08T07:01:27.638994+00:00",
+  "type": "news",
+  "cluster_id": "st3f9396f056"
+ },
+ {
+  "title": "Dolar yine bir rekora imza attı",
+  "link": "https://www.sozcu.com.tr/dolar-yine-bir-rekora-imza-atti-p367234",
+  "source": "Sözcü",
+  "summary_tr": "Dolar/TL, 49,2150 seviyesine yükselerek yeni bir rekor tazeledi.",
+  "metric": "Dolar/TL rekor -> 49,2150",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-08T07:01:27.638994+00:00",
+  "type": "news",
+  "cluster_id": "st5ff057f84b"
+ },
+ {
+  "title": "EXCLUSIVE: US opens direct talks with Myanmar's generals, reversing years of isolation",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUxEZlpiNGZBRjlsN09mekh5ejJPUnpVYjFXckJic1FDekdBRzd6dzBxZDFKdG5xZ1dsSF9Tc1hyQ1NKRnFkeXVBNXY3REhpeEo5YlBuWFpSN2EzMTFvZ2pkYS1fMTA3dVM3clYxZnJRNldtb0pZSTFncHRVcGRNMVdiVG9RWFNoclZaSUtKYTlHR3d3Mlk2bXo1OWxxTm1ZVjQ4TWVxcEtTRHFOUjN2a3V2Tm9Sc3VHeWJmRlVpVFRDNlk?oc=5",
+  "source": "Reuters",
+  "summary_tr": "ABD, yıllardır süren izolasyon politikasını tersine çevirerek Myanmar generalleriyle doğrudan görüşmelere başladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-08T07:01:27.638994+00:00",
+  "type": "news",
+  "cluster_id": "st4a25665b0d"
+ },
+ {
+  "title": "Almanya ve Hollanda'da 'kara para' operasyonu: 4 ton altın Türkiye'ye kaçırılmış",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZzhpYTR1c3VDZXhpOHg4Ym51MmlPOVJHQlJZTFZXbXI5UzBLZzdtQ2pESmNtMlowamtGeGZJaUpaNHhtWmcyV3Q0ZU1pNExIMklqbzRsdVNCSlUxY0U0QUlQdXNIWHRPeHU5MHFjTzFsOE05MlRoVHNnUnhtTDFOcldfZmZFSnB5WkFBM0d6MlQ0SjJxR244MDFvYk1WejRrNTQ0bnR6bEJFYUt2a04zVnNYVQ?oc=5",
+  "source": "soL",
+  "summary_tr": "Almanya ve Hollanda'daki operasyonda Türkiye üzerinden 4 ton altının kaçırıldığı ortaya çıktı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-10-08T07:01:27.638994+00:00",
+  "type": "news",
+  "cluster_id": "stc1e37361ee"
+ },
+ {
   "title": "İsrail ordusundan Lübnan'a yeni saldırı: Ateşkes bir kez daha ihlal edildi",
   "link": "https://www.cumhuriyet.com.tr/dunya/israil-ordusundan-lubnan-a-yeni-saldiri-ateskes-bir-kez-daha-ihlal-edildi-2544737",
   "source": "Cumhuriyet",
@@ -59926,77 +59998,5 @@
   "ts": "2026-09-05T21:01:01.880681+00:00",
   "type": "news",
   "cluster_id": "c1940cacc8410"
- },
- {
-  "title": "İran Devrim Muhafızları: ABD bağlantılı 3 gemiyi hedef aldık",
-  "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-abd-baglantili-3-gemiyi-hedef-aldik-956008.html",
-  "source": "TRT Haber",
-  "summary_tr": "İran Devrim Muhafızları, Basra Körfezi'nde ABD'nin ticari gemilere düzenlediği saldırılara karşı misilleme yapıldığını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-09-05T21:01:01.880681+00:00",
-  "type": "news",
-  "cluster_id": "c0c88bd770186"
- },
- {
-  "title": "Rusya Devlet Başkanı Putin, ABD Başkanı Trump'ın temsilcileriyle görüştü",
-  "link": "https://www.aa.com.tr/tr/dunya/rusya-devlet-baskani-putin-abd-baskani-trumpin-temsilcileriyle-gorustu/4048366",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Rusya Devlet Başkanı Putin, ABD Başkanı Trump'ın özel temsilcileriyle görüşme gerçekleştirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-05T21:01:01.880681+00:00",
-  "type": "news",
-  "cluster_id": "cbb9ee1b05f39"
- },
- {
-  "title": "Köprü ve otoyolların özelleştirme kararı mahkemeye taşındı",
-  "link": "https://www.sozcu.com.tr/kopru-ve-otoyollarin-ozellestirme-karari-mahkemeye-tasindi-p355660",
-  "source": "Sözcü",
-  "summary_tr": "Birleşik Kamu-İş Konfederasyonu, köprü ve otoyolların özelleştirilmesine yönelik Cumhurbaşkanı Kararı'nın iptali için Danıştay'a başvurdu.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-09-05T21:01:01.880681+00:00",
-  "type": "news",
-  "cluster_id": "c30a12662a7d7"
- },
- {
-  "title": "Son dakika... Üsküdar Belediyesi soruşturması: 3 isim tutuklandı",
-  "link": "https://www.sozcu.com.tr/son-dakika-uskudar-belediyesi-sorusturmasi-3-isme-tutuklama-talebi-p355646",
-  "source": "Sözcü",
-  "summary_tr": "Üsküdar Belediyesi'nde yapı ruhsatı ve iskan usulsüzlüğü iddialarıyla yürütülen soruşturmada 3 kişi tutuklandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-05T21:01:01.880681+00:00",
-  "type": "news",
-  "cluster_id": "cc602ce6c0ec6"
- },
- {
-  "title": "Üsküdar Belediyesi soruşturması: Başkan Yardımcısı Çelik ve 2 kişi hakkında tutuklama talebi",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONmFWZEdpbTZ4cXBUeGxFSUZ4c1haM2h4SHIxSVFRaEpXSGpGUXpRUHBqLXRqSHBIcXNjWHZmanREUTZXTGZtVnlZeTFkb08xWjdNUGxtcDl3TkptLVIzM3NZNVJmd0hxT0lzZnZ3QUhzYWV2Q0tyWjFTX0VjLVVLQTk4UE1JREZNSXhER1VMUVc0OXpXSTlXMm9EOWwwMkY5NHFzdzlZeXpnWFpPdDdRZ09wTW5sOUE2VDh3TzdUdVpwUms?oc=5",
-  "source": "T24",
-  "summary_tr": "Üsküdar Belediyesi'nde usulsüzlük soruşturmasında Başkan Yardımcısı Çelik dahil 2 kişi hakkında tutuklama talebi yapıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-05T21:01:01.880681+00:00",
-  "type": "news",
-  "cluster_id": "c06db13b27631"
- },
- {
-  "title": "Üsküdar seçimi için yeni hamle: Belediye Başkan Yardımcısı Çelik tutuklandı",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb2N1ZUM2SlVxQVN6ZlQ1UEo4QzhQQkpqRW00UHMybHVlT3B6SnVVX1hHcGd0MHZTQWxSTzdxYXVMZktaenByU0diTlplTzVNZzl6UTlCN1VtRnY5RnlyOExPUEJISkJiZ1F2LU8yeUx5Y3RIOHBWRzdGQXZmckVLYmw4WUxEZ0xpUDgtbzU3Y3NGYW16d0cwWmRaWVh5QmtEbkZTUTNwOUJ2QktfVmhJcGNB?oc=5",
-  "source": "soL",
-  "summary_tr": "Üsküdar Belediyesi soruşturmasında Başkan Yardımcısı Çelik tutuklandı.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-09-05T21:01:01.880681+00:00",
-  "type": "news",
-  "cluster_id": "cb8f1fa0be687"
  }
 ]
