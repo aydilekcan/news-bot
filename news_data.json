@@ -1,5 +1,65 @@
 [
  {
+  "title": "Bakan Göktaş'tan Yeni Parti milletvekilleri Özlale ve Enginyurt hakkında suç duyurusu",
+  "link": "https://www.aa.com.tr/tr/gundem/bakan-goktastan-yeni-parti-milletvekilleri-ozlale-ve-enginyurt-hakkinda-suc-duyurusu/4082800",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Bakan Mahinur Özdemir Göktaş, fon soruşturması iddiaları nedeniyle Yeni Parti milletvekilleri Ümit Özlale ve Enginyurt hakkında suç duyurusunda bulundu.",
+  "metric": "",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-10-08T21:01:18.942614+00:00",
+  "type": "news",
+  "cluster_id": "stb6bac5a5d9"
+ },
+ {
+  "title": "TMSF, Destek Finans Faktoring'e kayyım olarak atandı",
+  "link": "https://www.cumhuriyet.com.tr/siyaset/tmsf-destek-finans-faktoring-e-kayyim-olarak-atandi-2544997",
+  "source": "Cumhuriyet",
+  "summary_tr": "TMSF, fon soruşturması kapsamında Destek Finans Faktoring'e kayyım olarak atandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-08T21:01:18.942614+00:00",
+  "type": "news",
+  "cluster_id": "stb6bac5a5d9"
+ },
+ {
+  "title": "Gazeteci Mustafa Balcı hakkında gözaltı kararı",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-mustafa-balci-ve-saban-sevinc-e-gozalti-karari-2545009",
+  "source": "Cumhuriyet",
+  "summary_tr": "İstanbul Cumhuriyet Başsavcılığı, gazeteci Mustafa Balcı hakkında gözaltı kararı verdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-08T21:01:18.942614+00:00",
+  "type": "news",
+  "cluster_id": "st429dfd6eda"
+ },
+ {
+  "title": "Kaçak maden ocaklarında baskın öncesi istihbarat ağı! 16 kişi gözaltına alındı… Aralarında kamu çalışanları da var!",
+  "link": "https://www.cumhuriyet.com.tr/turkiye/kacak-maden-ocaklarinda-baskin-oncesi-istihbarat-agi-16-kisi-gozaltina-alindi-aralarinda-kamu-calisanlari-da-var-2545004",
+  "source": "Cumhuriyet",
+  "summary_tr": "Zonguldak'ta kaçak maden ocaklarına yönelik baskınlar öncesi bilgi sızdırıp rüşvet aldığı iddia edilen 16 kişi, aralarında kamu çalışanları da olmak üzere gözaltına alındı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-08T21:01:18.942614+00:00",
+  "type": "news",
+  "cluster_id": "stcf981e05d9"
+ },
+ {
+  "title": "Tasfiye edilen 3 fonda ödeme tamamlandı: 5 bin 142 yatırımcıya 1,22 milyarlık ödeme",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/tasfiye-edilen-3-fonda-odeme-tamamlandi-5-bin-142-yatirimciya-1-22-milyarlik-odeme-2545000",
+  "source": "Cumhuriyet",
+  "summary_tr": "Bulls Portföy, tasfiye edilen üç fondan (BOS, BMU, BPZ) 5.142 yatırımcıya toplam 1,22 milyar TL ödeme yapıldığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-08T21:01:18.942614+00:00",
+  "type": "news",
+  "cluster_id": "std3b8f70696"
+ },
+ {
   "title": "DİSK-AR hesapladı: Asgari ücret 9 ayda yüzde 28 eridi!",
   "link": "https://www.cumhuriyet.com.tr/ekonomi/disk-ar-hesapladi-asgari-ucret-9-ayda-yuzde-28-eridi-2544980",
   "source": "Cumhuriyet",
@@ -59938,65 +59998,5 @@
   "ts": "2026-09-07T11:01:16.130275+00:00",
   "type": "news",
   "cluster_id": "cb7a7a79687d0"
- },
- {
-  "title": "Trende bilet bulamayan yolculara Boş Yer Takip Butonu kolaylığı",
-  "link": "https://www.trthaber.com/haber/turkiye/trende-bilet-bulamayan-yolculara-bos-yer-takip-butonu-kolayligi-956132.html",
-  "source": "TRT Haber",
-  "summary_tr": "Ulaştırma Bakanı Uraloğlu, bilet bulamayan yolcular için boş yer takip sistemi uygulamasını başlattı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-07T11:01:16.130275+00:00",
-  "type": "news",
-  "cluster_id": "ce0a469edf260"
- },
- {
-  "title": "KOBİ'lere 75 milyon liraya kadar kredi desteği",
-  "link": "https://www.trthaber.com/haber/ekonomi/kobilere-75-milyon-liraya-kadar-kredi-destegi-956131.html",
-  "source": "TRT Haber",
-  "summary_tr": "KOSGEB, Küresel Rekabetçilik Destek Programı kapsamında KOBİ'lere 75 milyon liraya kadar kredi desteği sağlıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-07T11:01:16.130275+00:00",
-  "type": "news",
-  "cluster_id": "ce1ca244accc3"
- },
- {
-  "title": "İran'dan ABD'ye tehdit: Petrol varlıklarımıza saldırırsanız siz de saldırıya uğrarsınız",
-  "link": "https://www.aa.com.tr/tr/dunya/irandan-abdye-tehdit-petrol-varliklarimiza-saldirirsaniz-siz-de-saldiriya-ugrarsiniz-/4049420",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İran Meclis Başkanı Kalibaf, ABD'nin İran petrol tankerlerini hedef alması halinde bölgedeki Amerikan petrol ve doğal gaz tesislerinin hedef alınacağı tehdidinde bulundu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-09-07T10:01:11.919386+00:00",
-  "type": "news",
-  "cluster_id": "c52c250a42f83"
- },
- {
-  "title": "Rusya: Almanlar yine savaş istiyor",
-  "link": "https://www.trthaber.com/haber/dunya/rusya-almanlar-yine-savas-istiyor-956122.html",
-  "source": "TRT Haber",
-  "summary_tr": "Rusya Dışişleri Bakanı Lavrov, Almanya'nın Rusya'ya yönelik kararlarını 'gerçek bir savaşın başlangıcı' olarak nitelendirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-09-07T10:01:11.919386+00:00",
-  "type": "news",
-  "cluster_id": "c36e5583443e8"
- },
- {
-  "title": "İsrail Lübnan’ın güneyini vurdu: 2’si çocuk 11 kişi hayatını kaybetti",
-  "link": "https://www.cumhuriyet.com.tr/dunya/israil-lubnan-in-guneyini-vurdu-2-si-cocuk-11-kisi-hayatini-kaybetti-2535565",
-  "source": "Cumhuriyet",
-  "summary_tr": "İsrail'in Lübnan'ın güneyindeki Kfar Rumman kasabasına düzenlediği saldırılarda 2'si çocuk olmak üzere en az 11 kişi öldü.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-07T10:01:11.919386+00:00",
-  "type": "news",
-  "cluster_id": "c33d172dfa30f"
  }
 ]
