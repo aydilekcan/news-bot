@@ -1,5 +1,29 @@
 [
  {
+  "title": "Cemil Tugay AKP’ye geçti, Erdoğan’ı övdü",
+  "link": "https://www.sozcu.com.tr/cemil-tugay-akp-ye-gecti-erdogan-i-ovdu-p367147",
+  "source": "Sözcü",
+  "summary_tr": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay, Ankara'da düzenlenen törenle AKP'ye geçtiğini açıkladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-10-08T03:01:10.120577+00:00",
+  "type": "news",
+  "cluster_id": "st6c8e5cdca8"
+ },
+ {
+  "title": "Amazon makes fresh job cuts, mainly in retail division",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXBaTUxRTVRaaEh2ajRtZWxDekFLVElmbi1oVEw1eFJyUDg4NG5TNGxTZGw1eUFSTWhTbHVERXU2R2p1YlBFRnZhcUFXSG9vQWhPcVFxN21jdDJaMFRLY0lSU0x0YUtBREl3UXBYaVFXZmNtNmdfVGhkUmt5bnZJOTg3eTBOdjlUdTNaRTlFSGQ5YTdLcjVwWnVkLUREN2dLSkhoaEhlMHQ0U2YwWWc?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Amazon, ağırlıklı olarak perakende biriminde yeni işten çıkarmalar yaptığını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-10-08T03:01:10.120577+00:00",
+  "type": "news",
+  "cluster_id": "st30526d2327"
+ },
+ {
   "title": "Merkez Bankası Başkanı Fatih Karahan’dan fon skandalında üstü örtülü eleştiri: ‘İlgili kurumların adım atması gerekiyor’",
   "link": "https://www.cumhuriyet.com.tr/turkiye/merkez-bankasi-baskani-fatih-karahan-dan-fon-skandalinda-ustu-ortulu-elestiri-ilgili-kurumlarin-adim-atmasi-gerekiyor-2544675",
   "source": "Cumhuriyet",
@@ -59974,29 +59998,5 @@
   "ts": "2026-09-05T16:01:08.401186+00:00",
   "type": "news",
   "cluster_id": "c33528190b411"
- },
- {
-  "title": "Ekonomide 3 yıllık yol haritasını içeren Orta Vadeli Program yarın kamuoyuyla paylaşılacak",
-  "link": "https://www.aa.com.tr/tr/ekonomi/ekonomide-3-yillik-yol-haritasini-iceren-orta-vadeli-program-yarin-kamuoyuyla-paylasilacak/4048299",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Cumhurbaşkanı Yardımcısı Yılmaz, ekonominin 3 yıllık yol haritası niteliğindeki Orta Vadeli Programı kamuoyuyla paylaşacaklarını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-05T16:01:08.401186+00:00",
-  "type": "news",
-  "cluster_id": "c16e84cbdb4db"
- },
- {
-  "title": "ABD, İran'ın 2 ABD savaş gemisini hedef almasının ardından 3 İran tankerini vurduğunu açıkladı",
-  "link": "https://www.aa.com.tr/tr/dunya/abd-iranin-2-abd-savas-gemisini-hedef-almasinin-ardindan-3-iran-tankerini-vurdugunu-acikladi/4048244",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "ABD ordusu, İran'ın 2 ABD savaş gemisini hedef almasının ardından Devrim Muhafızları'na ait 3 tankeri yok ettiğini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-09-05T15:01:05.532236+00:00",
-  "type": "news",
-  "cluster_id": "cde2f3f181aac"
  }
 ]
