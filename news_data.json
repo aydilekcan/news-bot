@@ -1,5 +1,77 @@
 [
  {
+  "title": "Trump to hold inquiry into Fed's Lisa Cook at White House",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWTVtLWhNMGgxZlptWEduZTB6WUc3REtCMlEwV0VTeUotdUpVMDJqZHphZHJxeUtFSU41a19MWm9sTmZjWWVuS25YS20wWDh1MGFMYXNWMThMLWowaW1JbVFESzVDWVNhY0U0S2FUNE0wVGpxWFN6MDdWTVE3RVFWZ3Q3N1hHVFE1UHFnY3NGQWJXT2hOeG9PSE5Lb29XR3NMWXNTZkNTYmdHV1RBWGxmc2VB?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Trump, Beyaz Saray'da Fed yöneticisi Lisa Cook hakkında bir soruşturma başlatacağını duyurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-10-09T16:01:18.436258+00:00",
+  "type": "news",
+  "cluster_id": "st03dc0a13d2"
+ },
+ {
+  "title": "US hits International Criminal Court with sweeping sanctions as part of drive to dismantle tribunal",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXNFcXVnRVZfckpBb0hJMmN0aVhRQ1lxZHlsUlR4MWhLN0J0d0VYdllmYnF2SUlxV3BFN1VGbTAzQXMtaTZjbld2WFg0akNnMjNaUlBTRTlZeE1SQlZ6OXJ6Y3pibHNOQjBreHRHN295WTlVZmtnT0RnX1YwTV8yWTlibFA?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD, Uluslararası Ceza Mahkemesi'ne kapsamlı yaptırımlar uyguladı; adım mahkemeyi etkisizleştirme çabasının parçası.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 8,
+  "ts": "2026-10-09T16:01:18.436258+00:00",
+  "type": "news",
+  "cluster_id": "st0f2f89abda"
+ },
+ {
+  "title": "TVF Katılım Finans Yatırımları AŞ, Ziraat Katılım ve Halk Katılım ile pay devir sözleşmelerini imzalandı",
+  "link": "https://www.aa.com.tr/tr/ekonomi/tvf-katilim-finans-yatirimlari-as-ziraat-katilim-ve-halk-katilim-ile-pay-devir-sozlesmelerini-imzalandi/4083801",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Türkiye Varlık Fonu, TVF Katılım Finans Yatırımları'nın Ziraat Katılım ve Halk Katılım paylarının tamamını devraldığına dair sözleşme imzaladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-10-09T16:01:18.436258+00:00",
+  "type": "news",
+  "cluster_id": "st16aa48024a"
+ },
+ {
+  "title": "Çeşme Belediyesi operasyonunda 11 kişi için tutuklama talebi",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa2JwM1NVeUFHcEwwZkdzU0I5bHFkMEdxdDM5V3JSamNHa1FNZW1SYzBPZ0lRSy1ZLTRrY1pZMGRBNmctRHRHWWtyM3dpbGt2QWxtMTRTaFFzcmQ0SEs2TWlZZGFfUC1BUHJXRTNuLTRzT1JjVkt6N0Jfc2xVR2tXZ3laNU9KMDFRdEcxNzhtRE5CbFExMkRsVllkSVlwZ3c?oc=5",
+  "source": "soL",
+  "summary_tr": "Çeşme Belediyesi yolsuzluk soruşturmasında gözaltına alınan 11 şüpheli için tutuklama talep edildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-09T16:01:18.436258+00:00",
+  "type": "news",
+  "cluster_id": "st656b206066"
+ },
+ {
+  "title": "EU says it agrees with China to halve hybrid vehicle exports to EU",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWFkxRUNzbndIZnJudlpUZmRzdjlPTndBd1cwUzJ5a1pwclM3LWg1U0wwTWd5Z0lkc3NYekstSHpJaEFYcHc3dUZBM3Q4NDJzUUJOQ0FnM2FkYlJ2NUdHU2xZWEx6NThOT0h0dkZVaGtCWDVRb0JqT2g1YmdNeTRZa2JpSHZFdGRYXzN5bUlfN1lxTnpVazdkZ0l6QmRTYnBFbUtXZHhoV0o0WWFmbUE2V3lHNU9USzRwV2FObTRFRURTc2Rv?oc=5",
+  "source": "Reuters",
+  "summary_tr": "AB, Çin ile hibrit araç ihracatını AB'ye yarı yarıya azaltma konusunda anlaştıklarını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-09T16:01:18.436258+00:00",
+  "type": "news",
+  "cluster_id": "st63655ff106"
+ },
+ {
+  "title": "5 ilde uyuşturucu operasyonu: 17 kişinin mal varlığına el konuldu",
+  "link": "https://www.trthaber.com/haber/turkiye/5-ilde-uyusturucu-operasyonu-17-kisinin-mal-varligina-el-konuldu-959678.html",
+  "source": "TRT Haber",
+  "summary_tr": "Hakkari merkezli uyuşturucu operasyonunda suç gelirlerinin aklanmasına ilişkin 17 kişinin mal varlığına, 5 milyar liralık değerle el konuldu.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-10-09T16:01:18.436258+00:00",
+  "type": "news",
+  "cluster_id": "stddd445c117"
+ },
+ {
   "title": "EXCLUSIVE US imposes sanctions on International Criminal Court, hours after former judge wins Nobel",
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
   "source": "Reuters",
@@ -59926,77 +59998,5 @@
   "ts": "2026-09-08T12:01:10.014110+00:00",
   "type": "news",
   "cluster_id": "c303807284d58"
- },
- {
-  "title": "Üsküdar Belediyesi'nde başkan vekili seçimini AKP'nin adayı kazandı",
-  "link": "https://www.bbc.com/turkce/articles/ce8eg27y74po?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Türkçe",
-  "summary_tr": "Üsküdar Belediye Başkanı Sinem Dedetaş'ın tutuklanmasının ardından yapılan başkan vekili seçimini AKP'nin adayı Dündar Ziya Gültekin kazandı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-08T12:01:10.014110+00:00",
-  "type": "news",
-  "cluster_id": "c8165117aea50"
- },
- {
-  "title": "Üsküdar Belediye Başkan Vekilliği'ne AK Parti'li Dündar Ziya Gültekin seçildi",
-  "link": "https://www.aa.com.tr/tr/gundem/uskudar-belediye-baskan-vekilligine-ak-partili-dundar-ziya-gultekin-secildi-/4050704",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Üsküdar Belediye Meclisi'nde yapılan oylamada AKP'li Dündar Ziya Gültekin 23 oy alarak Belediye Başkan Vekilliği'ne seçildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-08T12:01:10.014110+00:00",
-  "type": "news",
-  "cluster_id": "c138f3935b055"
- },
- {
-  "title": "İsrail mahkemesi, Doğu Kudüs'teki 1234 yasa dışı konut için ihalenin durdurulmasını reddetti",
-  "link": "https://www.aa.com.tr/tr/dunya/israil-mahkemesi-dogu-kudusteki-1234-yasa-disi-konut-icin-ihalenin-durdurulmasini-reddetti/4050696",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "İsrail mahkemesi, işgal altındaki Doğu Kudüs'te 1.234 yasa dışı konut inşasını öngören ihale süreci devam etmesine karar verdi.",
-  "metric": "1.234 yasa dışı konut",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-08T12:01:10.014110+00:00",
-  "type": "news",
-  "cluster_id": "c953120e314db"
- },
- {
-  "title": "Üsküdar'da belediye başkan vekili belli oldu",
-  "link": "https://www.trthaber.com/haber/gundem/uskudarda-belediye-baskan-vekili-belli-oldu-956248.html",
-  "source": "TRT Haber",
-  "summary_tr": "Üsküdar Belediye Meclisi'nde yapılan oylamada AKP'li Dündar Ziya Gültekin 23 oy alarak Belediye Başkan Vekilliği'ne seçildi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-08T12:01:10.014110+00:00",
-  "type": "news",
-  "cluster_id": "c5a768d807c7d"
- },
- {
-  "title": "Hungary orders 10 Russian diplomats to leave the country over activities deemed unacceptable",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeXhUSm92S2lPWFZrTHdETVd1clVYb0dOcW1vQnNnYTE5OFJMWXRrOE5Qb00zdkxmTmpvOUhpeTBscmdVVERzb1duSVdQSkZ2V0t1N2VVM1VQcEd2aWFqR0pvelRSYVo2Y3hoMHBuS25hVDdDWnRyRFB5M3N2ekIzUjQ3LTZIWEFTMWhGNUw1RnMxbDlETldwakJsZGlQWFFxd1Y1OEMzMUlGOUxuNDRyemtR?oc=5",
-  "source": "AP",
-  "summary_tr": "Macaristan, faaliyetleri kabul edilemez bulduğu gerekçesiyle 10 Rus diplomata ülkeyi terk etmelerini emretti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-08T12:01:10.014110+00:00",
-  "type": "news",
-  "cluster_id": "c7c8d1b069872"
- },
- {
-  "title": "İhracat (dönemsel artış oranı): %4 (2026 Ocak-Ağustos)",
-  "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYjdfejd4MENyaDB4RmdxLWJ2LThWSWVKdmY5NjB0eWFZMFBhaWJFUXFVdTlGeDFlVzJjcDk2NzVnTzVRQUVJR1JnOEVlU3g2bzF2TjdzbW9uQ0c5ZEVxa1I5b1dEUFVEQXFTT3ZDdm8wSVVJaFhiV3JiVEFKOGoyc2hjcGp1RUdBNjZSakRPd05Vckp2VHBPMG9HQ0kxTHFjeGFkd1FHSFdhM2Z2NFVFMUZ4dUk1bURvd015MUhPaUlXeVEtMEFhbDYzQkRpdWpXeURCVXdpUU1pZ2oyQnRQVnhsUVJPU2tiMWYwNA?oc=5",
-  "source": "Ticaret Bakanlığı",
-  "summary_tr": "%21,1 → %4 (-17,1 puan)",
-  "metric": "-17,1 puan",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-09-08T12:01:10.014110+00:00",
-  "type": "data",
-  "cluster_id": ""
  }
 ]
