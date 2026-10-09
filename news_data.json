@@ -1,5 +1,53 @@
 [
  {
+  "title": "İstanbul'da çöken binada ölü sayısı 5'e yükseldi",
+  "link": "https://www.sozcu.com.tr/istanbul-da-coken-binada-olu-sayisi-5-e-yukseldi-p367507",
+  "source": "Sözcü",
+  "summary_tr": "Maltepe'de çöken binada ölü sayısı 5'e yükseldi, enkazdaki son kişi de çıkarıldı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-09T04:01:08.080645+00:00",
+  "type": "news",
+  "cluster_id": "sta881005ecc"
+ },
+ {
+  "title": "Trump yönetiminin, göçmenleri ABD'den gemilerle sınır dışı etmeyi değerlendirdiği öne sürüldü",
+  "link": "https://www.trthaber.com/haber/dunya/trump-yonetiminin-gocmenleri-abdden-gemilerle-sinir-disi-etmeyi-degerlendirdigi-one-suruldu-959589.html",
+  "source": "TRT Haber",
+  "summary_tr": "Trump yönetiminin düzensiz göçmenleri gemilerle Orta ve Güney Amerika'ya sınır dışı etmeyi değerlendirdiği öne sürüldü.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-10-09T04:01:08.080645+00:00",
+  "type": "news",
+  "cluster_id": "st9c709bdb38"
+ },
+ {
+  "title": "New US indictment charges Maduro with overseeing machine of repression, torture of Americans",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU01tbGJOMTBRYmRuQV94STRSQ2RYM1FWWlYtMUZfSEk5SHkxYjI4bW1yYjV1TWpGSTYtWkkwYXhRSDRzUEhwbUhwWVVlbmlEV3RXM2p5U1h1WnpYbWJXU185TFhWcFVfM1dOc2tiZk0zSl91VTNyLWRKM3ZpQlpYWnNEZXVHMUxlb1REbmQ1SWt0SUxf?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD, Maduro'ya baskı ve Amerikalılara işkence uygulanmasına göz yumduğu gerekçesiyle yeni bir iddianame açtı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-09T04:01:08.080645+00:00",
+  "type": "news",
+  "cluster_id": "st5e7ec596a3"
+ },
+ {
+  "title": "Beyaz Saray'dan Microsoft'a yabancı işçi alımı engeli",
+  "link": "https://www.trthaber.com/haber/dunya/beyaz-saraydan-microsofta-yabanci-isci-alimi-engeli-959590.html",
+  "source": "TRT Haber",
+  "summary_tr": "Beyaz Saray, Microsoft'un yabancı işçi alım programını kısıtladığını doğruladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-10-09T04:01:08.080645+00:00",
+  "type": "news",
+  "cluster_id": "st836a03a063"
+ },
+ {
   "title": "Maltepe’de bina çöktü: 4 kişi hayatını kaybetti",
   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOUQ3S1M1ckd0aEFZSWdxVjE1S1gzc1gtY2xEQVJncVAyUExhbWMzMzZnT2xyQnM3U2lfSWdESU1Kd0ltTUpvX0ZYam91WXptTDE2NXVTWk1mUkEtRjhaU1AtWnc4RjhaRS10Q2xQQUo2NTFKM2oxSlhRZmN6RG1VWTdNUmtudw?oc=5",
   "source": "Medyascope",
@@ -59950,53 +59998,5 @@
   "ts": "2026-09-07T14:01:16.193933+00:00",
   "type": "news",
   "cluster_id": "c8cb58c992446"
- },
- {
-  "title": "İran destekli milisler Suudi Arabistan'daki dev refineriyi vurdu",
-  "link": "https://www.sozcu.com.tr/iran-destekli-milisler-suudi-arabistan-daki-dev-refineriyi-vurdu-p356128",
-  "source": "Sözcü",
-  "summary_tr": "İran destekli milisler Suudi Arabistan'ın Cizan kentindeki Suudi Aramco petrol tesislerini vurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-07T14:01:16.193933+00:00",
-  "type": "news",
-  "cluster_id": "c6a7e20a9637b"
- },
- {
-  "title": "Suriye: \"İsrail'in eski hatlara çekilmesi için\" ABD aracılığıyla müzakere yürütüyoruz",
-  "link": "https://www.aa.com.tr/tr/dunya/suriye-israilin-eski-hatlara-cekilmesi-icin-abd-araciligiyla-muzakere-yurutuyoruz/4049730",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Suriye Dışişleri Bakanı İsrail'in 8 Aralık 2024 önceki hatlara çekilmesi için ABD aracılığıyla müzakere yürüttüklerini açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-07T14:01:16.193933+00:00",
-  "type": "news",
-  "cluster_id": "cd24c42710135"
- },
- {
-  "title": "Germany fights Gaza genocide claims at the top UN court",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMUM4VTlUZ0owTGV1aDBLYzVqMzBQbnM3N1BTSTZ5SDlBQTZKOEo1RWxpX3RkeUpITExneXU1UmhkdGhIRndyRjFmN21DZm05UTFXYjZ4TlhseHVNa0F3UnZRQzJGbjRKcURBUlI1SjB4YUdPZGd5MHlSa0Jfc3BSM1FGVUt0RGpHdTVxWUJnRnRabTg2QkhyYlFmY3VBSzhVcGl1YzgySm9NYllqbm13?oc=5",
-  "source": "AP",
-  "summary_tr": "Almanya BM İnsan Hakları Mahkemesinde Gazze soykırım iddialarına karşı savunma yapıyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-07T14:01:16.193933+00:00",
-  "type": "news",
-  "cluster_id": "c3bea503fe6cd"
- },
- {
-  "title": "Rekabet Kurumu’ndan otomotiv sektörüne soruşturma: 37 dev şirket mercek altında",
-  "link": "https://www.sozcu.com.tr/rekabet-kurumundan-otomotiv-sektorune-sorusturma-37-dev-sirket-mercek-altinda-p356126",
-  "source": "Sözcü",
-  "summary_tr": "Rekabet Kurumu otomotiv yan sanayisinde 37-39 şirket hakkında iş gücü piyasasına yönelik rekabet ihlali şüphesiyle soruşturma açtı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-07T14:01:16.193933+00:00",
-  "type": "news",
-  "cluster_id": "c1cb5f09d7fbe"
  }
 ]
