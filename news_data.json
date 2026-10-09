@@ -1,5 +1,41 @@
 [
  {
+  "title": "Maltepe’de bina çöktü: 4 kişi hayatını kaybetti",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOUQ3S1M1ckd0aEFZSWdxVjE1S1gzc1gtY2xEQVJncVAyUExhbWMzMzZnT2xyQnM3U2lfSWdESU1Kd0ltTUpvX0ZYam91WXptTDE2NXVTWk1mUkEtRjhaU1AtWnc4RjhaRS10Q2xQQUo2NTFKM2oxSlhRZmN6RG1VWTdNUmtudw?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Maltepe'de çöken binada ölü sayısının 4'e yükseldiği bildirildi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-09T02:01:04.131541+00:00",
+  "type": "news",
+  "cluster_id": "sta881005ecc"
+ },
+ {
+  "title": "Büyükelçi Koytak da görevden alınabilir",
+  "link": "https://www.sozcu.com.tr/buyukelci-koytak-da-gorevden-alinabilir-p367504",
+  "source": "Sözcü",
+  "summary_tr": "Fon skandalı kapsamında eski Bakan Fatma Betül Sayan Kaya'nın kardeşi Büyükelçi Ayşe Hilal Koytak'ın da görevden alınabileceği öne sürüldü.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-10-09T02:01:04.131541+00:00",
+  "type": "news",
+  "cluster_id": "stdbc70ea112"
+ },
+ {
+  "title": "Foncu Bakan Ömer Bolat mı?",
+  "link": "https://www.sozcu.com.tr/foncu-bakan-omer-bolat-mi-p367503",
+  "source": "Sözcü",
+  "summary_tr": "YENİ Partili Özlale, fon vurgununda Ticaret Bakanı Bolat'ın 170 milyon, Aile Bakanı Göktaş'ın babasının 830 milyon liralık işlemi olup olmadığını sordu.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-10-09T02:01:04.131541+00:00",
+  "type": "news",
+  "cluster_id": "stb6bac5a5d9"
+ },
+ {
   "title": "VIP liste açıklansın herkes sulhe ulaşsın",
   "link": "https://www.sozcu.com.tr/vip-liste-aciklansin-herkes-sulhe-ulassin-p367502",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-09-07T14:01:16.193933+00:00",
   "type": "news",
   "cluster_id": "c1cb5f09d7fbe"
- },
- {
-  "title": "Otomotiv yan sanayisi sektöründeki 39 teşebbüs ve teşebbüs birliği hakkında rekabet soruşturması açıldı",
-  "link": "https://www.aa.com.tr/tr/ekonomi/otomotiv-yan-sanayisi-sektorundeki-39-tesebbus-ve-tesebbus-birligi-hakkinda-rekabet-sorusturmasi-acildi/4049766",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Rekabet Kurulu otomotiv yan sanayisinde 39 teşebbüs hakkında iş gücü piyasasında rekabet ihlali şüphesiyle soruşturma açtı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-07T14:01:16.193933+00:00",
-  "type": "news",
-  "cluster_id": "c322ef101cc43"
- },
- {
-  "title": "Jaguar Land Rover yaklaşık 4 bin kişiyi işten çıkarmaya hazırlanıyor",
-  "link": "https://www.aa.com.tr/tr/ekonomi/jaguar-land-rover-yaklasik-4-bin-kisiyi-isten-cikarmaya-hazirlaniyor/4049751",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Jaguar Land Rover gelecek iki yılda yaklaşık 4 bin kişiyi işten çıkarmayı planlıyor.",
-  "metric": "İstihdam 4.000 kişi azalacak",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-07T14:01:16.193933+00:00",
-  "type": "news",
-  "cluster_id": "c008871a8d272"
- },
- {
-  "title": "EU announces €200 million partnership deal with Greenland",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdjJXQTZHMFRyNVlzb2tiOXV2eDRZcmdYZ1pJVFBtZFktYXFpTldMWVJaQUJmYUFDUmlVUEt6b191R3ZQYlZud2J6dTY5XzBsN1lyaTl1ZXhLckFXZ0RoSUdKTG12eWZibVZ5aW51V28wNktGWmtscFNCTDNMMjYzSXlzaUFEc0ZLYURLS3dXbmpiTE9tM0tqM3U5aDV4dUtYbnAw?oc=5",
-  "source": "Reuters",
-  "summary_tr": "AB Grönland ile 200 milyon euroluk ortaklık anlaşması imzaladı.",
-  "metric": "200 milyon euro",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-07T14:01:16.193933+00:00",
-  "type": "news",
-  "cluster_id": "cdc628057c9ab"
  }
 ]
