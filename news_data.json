@@ -1,5 +1,53 @@
 [
  {
+  "title": "Bakan Gürlek: 187 milyar liralık haksız kazanç tespiti yapıldı",
+  "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-187-milyar-liralik-haksiz-kazanc-tespiti-yapildi-959603.html",
+  "source": "TRT Haber",
+  "summary_tr": "Adalet Bakanı Akın Gürlek, fon soruşturmasında yapay zeka destekli incelemeyle 187 milyar liralık haksız kazanç tespit edildiğini açıkladı.",
+  "metric": "Tespit edilen haksız kazanç: 187 milyar TL",
+  "lean": "right",
+  "score": 8,
+  "ts": "2026-10-09T06:01:14.179538+00:00",
+  "type": "news",
+  "cluster_id": "stb6bac5a5d9"
+ },
+ {
+  "title": "Akaryakıta dev zam geliyor: Yine 100 liraya dayanacak",
+  "link": "https://www.sozcu.com.tr/akaryakita-dev-zam-geliyor-yine-100-liraya-dayanacak-p367542",
+  "source": "Sözcü",
+  "summary_tr": "Gece yarısından itibaren motorine 6,40 TL zam geleceği, fiyatın 100 liraya dayanacağı bildirildi.",
+  "metric": "Motorin fiyatı +6,40 TL zam",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-09T06:01:14.179538+00:00",
+  "type": "news",
+  "cluster_id": "st5503fc4321"
+ },
+ {
+  "title": "Maltepe'de çöken binada beş kişi hayatını kaybetti",
+  "link": "https://www.bbc.com/turkce/articles/cj93zg0k2p97o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "Maltepe'de çöken binada ölü sayısı 5'e yükseldiği doğrulandı, arama kurtarma 9 Ekim itibarıyla sürüyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-10-09T06:01:14.179538+00:00",
+  "type": "news",
+  "cluster_id": "sta881005ecc"
+ },
+ {
+  "title": "Yatırım vaadiyle uluslararası vurgun: 62 şüpheli adliyede",
+  "link": "https://www.sozcu.com.tr/yatirim-vaadiyle-uluslararasi-vurgun-62-supheli-adliyede-p367533",
+  "source": "Sözcü",
+  "summary_tr": "İstanbul'da Beyoğlu ve Şişli'deki çağrı merkezleri üzerinden uluslararası yatırım dolandırıcılığı yapan 62 şüpheli adliyeye sevk edildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-10-09T06:01:14.179538+00:00",
+  "type": "news",
+  "cluster_id": "st71e4358cae"
+ },
+ {
   "title": "Euro 17 ayın dibinde: Yeni bir finans krizi riski var mı?",
   "link": "https://www.dw.com/tr/euro-17-ayın-dibinde-yeni-bir-finans-krizi-riski-var-mı/a-79593105?maca=tur-rss-tur-all-1495-rdf",
   "source": "DW Türkçe",
@@ -59950,53 +59998,5 @@
   "ts": "2026-09-07T16:01:22.781700+00:00",
   "type": "news",
   "cluster_id": "cb97045a4acf2"
- },
- {
-  "title": "Russia closes German consulate in St Petersburg after drone spat",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjVpTGdycWpNOGRsUGJXdWVqVjJicC05NVdic05kMGN4dVdmY2pKVERKRUFTU3hLY3VRenkzZFNUQWR6Z0xnSF9mWF92MEtGMHV1Q2U5RE9xMzFmQnVWQmJzcS1nWERpYVEwRVJPOVBNNXFzWmJVV2VoS1RBUjBkZXpSVGFDRldCSEk1cUM2TjRvNTk3dnZIZGh5b2gtSF9nNmYtelRBdm1UOU9BeDJj?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Rusya, Almanya'ya misilleme olarak St. Petersburg'daki başkonsolosluğu kapatma kararı aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-07T16:01:22.781700+00:00",
-  "type": "news",
-  "cluster_id": "c501860f6eaa7"
- },
- {
-  "title": "Erdoğan tarih verdi: İstanbul'daki 15 bin kiralık konutlar için başvurular başlıyor",
-  "link": "https://www.cumhuriyet.com.tr/siyaset/erdogan-tarih-verdi-istanbul-daki-15-bin-kiralik-konutlar-icin-basvurular-basliyor-2535649",
-  "source": "Cumhuriyet",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, İstanbul'da 15 bin kiralık konutun başvurularının başlayacağını duyurdu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-07T16:01:22.781700+00:00",
-  "type": "news",
-  "cluster_id": "cac4468de8040"
- },
- {
-  "title": "BM raportörü, İsrail'in Gazze'deki \"suçlarının kanıtlarının yok edilmemesi\" çağrısı yaptı",
-  "link": "https://www.aa.com.tr/tr/dunya/bm-raportoru-israilin-gazzedeki-suclarinin-kanitlarinin-yok-edilmemesi-cagrisi-yapti/4049968",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "BM Filistin Raportörü, İsrail'in Gazze'deki suçlarının kanıtlarının yok edilmemesi çağrısı yaptı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-07T16:01:22.781700+00:00",
-  "type": "news",
-  "cluster_id": "c25c4c79cbe8c"
- },
- {
-  "title": "Yarısı Bizden Projesinde süre uzatıldı",
-  "link": "https://www.trthaber.com/haber/gundem/yarisi-bizden-projesinde-sure-uzatildi-956153.html",
-  "source": "TRT Haber",
-  "summary_tr": "Cumhurbaşkanı Erdoğan, Yarısı Bizden Projesinin süresinin 31 Aralık 2027'ye uzatıldığını açıkladı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-07T16:01:22.781700+00:00",
-  "type": "news",
-  "cluster_id": "c8d693cc01672"
  }
 ]
