@@ -1,5 +1,53 @@
 [
  {
+  "title": "Gürlek: 187 milyar liralık haksız fon kazancı tespit edildi",
+  "link": "https://www.diken.com.tr/gurlek-187-milyar-liralik-haksiz-fon-kazanci-tespit-edildi/?utm_source=rss&utm_medium=rss&utm_campaign=gurlek-187-milyar-liralik-haksiz-fon-kazanci-tespit-edildi",
+  "source": "Diken",
+  "summary_tr": "Adalet Bakanı Akın Gürlek, fon soruşturmasında 187 milyar liralık haksız kazanç tespit edildiğini açıkladı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-09T07:03:26.537805+00:00",
+  "type": "news",
+  "cluster_id": "stb6bac5a5d9"
+ },
+ {
+  "title": "THY'den CZN Burak'a bir çok dev markaya üretim yapan şirket iflasın eşiğinde",
+  "link": "https://www.sozcu.com.tr/thy-den-czn-burak-a-bir-cok-dev-markaya-uretim-yapan-sirket-iflasin-esiginde-p367577",
+  "source": "Sözcü",
+  "summary_tr": "THY, Nusr-Et ve CZN Burak gibi markalara peçete tedarik eden My Peçete, mali darboğaz nedeniyle iflasın eşiğine geldi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-09T07:03:26.537805+00:00",
+  "type": "news",
+  "cluster_id": "st77d4c9a840"
+ },
+ {
+  "title": "İzmir'de Çeşme Belediyesine yönelik operasyonda gözaltına alınan 12 şüpheli adliyede",
+  "link": "https://www.aa.com.tr/tr/gundem/izmirde-cesme-belediyesine-yonelik-operasyonda-gozaltina-alinan-12-supheli-adliyede/4082891",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "İzmir'de Çeşme Belediyesi'ne yönelik soruşturmada gözaltına alınan 12 şüpheli adliyeye sevk edildi.",
+  "metric": "",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-10-09T07:03:26.537805+00:00",
+  "type": "news",
+  "cluster_id": "st656b206066"
+ },
+ {
+  "title": "Çeşme Belediyesi'ne yönelik soruşturmada 12 şüpheli adliyeye sevk edildi",
+  "link": "https://www.sozcu.com.tr/cesme-belediyesi-ne-yonelik-sorusturmada-12-supheli-adliyeye-sevk-edildi-p367574",
+  "source": "Sözcü",
+  "summary_tr": "İzmir'de Çeşme Belediyesi'ne yönelik rüşvet ve suç örgütü soruşturmasında 12 şüpheli adliyeye sevk edildi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-10-09T07:03:26.537805+00:00",
+  "type": "news",
+  "cluster_id": "st656b206066"
+ },
+ {
   "title": "Bakan Gürlek: 187 milyar liralık haksız kazanç tespiti yapıldı",
   "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-187-milyar-liralik-haksiz-kazanc-tespiti-yapildi-959603.html",
   "source": "TRT Haber",
@@ -59950,53 +59998,5 @@
   "ts": "2026-09-07T18:01:15.390231+00:00",
   "type": "news",
   "cluster_id": "cb4c6d0a8089c"
- },
- {
-  "title": "Rusya'dan Almanya'ya misilleme: Başkonsolosluk ve Goethe Enstitüsü kapatılacak",
-  "link": "https://www.diken.com.tr/rusyadan-almanyaya-misilleme-baskonsolosluk-ve-goethe-enstitusu-kapatilacak/?utm_source=rss&utm_medium=rss&utm_campaign=rusyadan-almanyaya-misilleme-baskonsolosluk-ve-goethe-enstitusu-kapatilacak",
-  "source": "Diken",
-  "summary_tr": "Rusya, Almanya'ya misilleme olarak St. Petersburg'daki başkonsolosluğu ve Goethe Enstitüsü'nü kapatma kararı aldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-07T16:01:22.781700+00:00",
-  "type": "news",
-  "cluster_id": "cd4ef31aef25a"
- },
- {
-  "title": "Rusya, Almanya'nın St. Petersburg Başkonsolosluğunu kapatma kararı aldı",
-  "link": "https://www.sozcu.com.tr/rusya-almanyanin-st-petersburg-baskonsoloslugunu-kapatma-karari-aldi-p356150",
-  "source": "Sözcü",
-  "summary_tr": "Rusya Dışişleri Bakanlığı, Almanya'nın St. Petersburg Başkonsolosluğu ve Goethe Enstitüsü'nün kapatılmasına karar verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-07T16:01:22.781700+00:00",
-  "type": "news",
-  "cluster_id": "ce93d5b3c7edd"
- },
- {
-  "title": "Arap Birliği'nden \"İran'ın tırmanışı artıran adımları\" ve İsrail saldırılarına tepki",
-  "link": "https://www.aa.com.tr/tr/dunya/arap-birliginden-iranin-tirmanisi-artiran-adimlari-ve-israil-saldirilarina-tepki/4050006",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Arap Birliği, İran'ın Arap ülkelerine karşı adımlarına ve İsrail'in Gazze, Lübnan saldırılarına tepki gösterdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-07T16:01:22.781700+00:00",
-  "type": "news",
-  "cluster_id": "cba122cfe1984"
- },
- {
-  "title": "Milyonlarca çalışanı ilgilendiriyor: Yargıtay’dan yıllık izin kararı",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbmNxbk55dDRUM2tKaWRwWERneHRqX3E3RW5kV19IeWF3T2MyMTZidWd1LU9mYWYyeDEyOHMycFJrVG93UXJLX3dnVjcybllpUlI2MFQ5X1RiZW9PQ3dsUW9zc0hmOEV0RzYwYXJ4cWdHdHRCeVVEZDV6bnpBQXBzVWkxYk1CaHJLc2paeVFkNWltS1RZR1o3eE92MkV4ZVFFaWJF?oc=5",
-  "source": "T24",
-  "summary_tr": "Yargıtay, milyonlarca çalışanı ilgilendiren yıllık izin konusunda karar verdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-07T16:01:22.781700+00:00",
-  "type": "news",
-  "cluster_id": "cb97045a4acf2"
  }
 ]
