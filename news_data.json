@@ -1,5 +1,41 @@
 [
  {
+  "title": "VIP liste açıklansın herkes sulhe ulaşsın",
+  "link": "https://www.sozcu.com.tr/vip-liste-aciklansin-herkes-sulhe-ulassin-p367502",
+  "source": "Sözcü",
+  "summary_tr": "AKP Grup Başkanvekili Özlem Zengin, fon soruşturmasındaki VIP listesinin tamamen açıklanmasını istedi.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-10-09T01:01:04.004132+00:00",
+  "type": "news",
+  "cluster_id": "stb6bac5a5d9"
+ },
+ {
+  "title": "Fon krizi: İsmail Saymaz, Şaban Sevinç ve Murat Ağırel şüpheli sıfatıyla ifade verecek",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZDdqQnJFMUpGZUo3UkptQVlQN2lBRGdHSDFQLUo0YWdDM2lIQkN2MTRMa0Q1WThkNDEzZHBDRTRDRGlTTmVMeVN2UHdoeFh5Sy1YbjI1UW1IWGNZUTRkendJWGV0ZkFEOS1OYkRKNWE1WWZQLVJQa05NNDE1eUVNNFBGcUNBX1drV2RSTnZmeDhLbktueml6MjNNQ0J0UjRoVlRtY3VsTnNWNXd3b0VXa3BScWJ1WGc?oc=5",
+  "source": "Medyascope",
+  "summary_tr": "Fon krizi soruşturmasında gazeteciler Saymaz, Sevinç ve Ağırel şüpheli sıfatıyla ifade verecek.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-10-09T01:01:04.004132+00:00",
+  "type": "news",
+  "cluster_id": "stb6bac5a5d9"
+ },
+ {
+  "title": "6 bin yıllık emeği 4 ayda cebe attılar",
+  "link": "https://www.sozcu.com.tr/6-bin-yillik-emegi-4-ayda-cebe-attilar-p367501",
+  "source": "Sözcü",
+  "summary_tr": "DİSK Başkanı Arzu Çerkezoğlu, asgari ücretlinin 6 bin yıllık emeğinin 4 ayda elden gittiğini söyledi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-09T01:01:04.004132+00:00",
+  "type": "news",
+  "cluster_id": "stec21ea61cf"
+ },
+ {
   "title": "Türkiye için son tarih 15 Ekim",
   "link": "https://www.sozcu.com.tr/turkiye-icin-son-tarih-15-ekim-p367499",
   "source": "Sözcü",
@@ -59962,41 +59998,5 @@
   "ts": "2026-09-07T14:01:16.193933+00:00",
   "type": "news",
   "cluster_id": "cdc628057c9ab"
- },
- {
-  "title": "UK's Jaguar Land Rover to cut nearly 10% of workforce under turnaround plan",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRG1leHh6LUdMenZscjYwWnJhamJoaW9xVkV2SUJUeHUtejZGNTNPUDZFTGdkby02c2Y2Wmp0UXNPMUtzYlNzS1VwVXZOYlc4c1d4Vk9IV3VJX2F3VG0wYnFySE5nVzR6eDZ4MTlvcXJzVm5ESUsyeFViUFRVQW1hMjRDQ2c4dUUyWkxaQVYwMWJBODdGeGt2V2JwVG1rUHlVa2VPMFhwWVJOVW1NNWl5N203U3d3bWpGbVBV?oc=5",
-  "source": "Reuters",
-  "summary_tr": "İngiltere'nin Jaguar Land Rover şirketi dönüşüm planı kapsamında işgücünün yaklaşık %10'unu işten çıkaracak.",
-  "metric": "Jaguar Land Rover yaklaşık 4.000 çalışan (%10) işten çıkarma",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-07T14:01:16.193933+00:00",
-  "type": "news",
-  "cluster_id": "c774e171e7814"
- },
- {
-  "title": "Kremlin says it does not rule out restart of peace talks with Ukraine and US",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMkhadFFzdjltUzZtQjFKb2ZQRFpoeE9xdGlQVENQWi1TQ2xyUENBM3RudDBlTkdxdWV6Z3JQV2xRbHl3azQ4RjFud3VTRWtPdDNhUmtVVmZ5c2QxRmhxU0VxaTI3ZE1VdjdmZl9UNVk5UVA1QUxZTExXclI1clNoWHdKMUFrU0Y0MUlaVVB3cHJhaUFwUjJqaGc4YThKZElONkRYNEZ2Tmd1UkZLUWtpVGJGZ2x1YndRbkE?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Kremlin, Rusya'nın Ukrayna ve ABD ile barış görüşmelerinin yeniden başlatılmasını dışlamadığını bildirdi.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-09-07T13:01:18.758811+00:00",
-  "type": "news",
-  "cluster_id": "c81c809b00abc"
- },
- {
-  "title": "Ahmet Davutoğlu ifade için adliyede: Babacan ve Arıkan yalnız bırakmadı",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/ahmet-davutoglu-ifade-icin-adliyede-babacan-ve-arikan-yalniz-birakmadi-2535600",
-  "source": "Cumhuriyet",
-  "summary_tr": "Eski Başbakan Ahmet Davutoğlu, Cumhurbaşkanına hakaretten suçlanmayı ve Davutoğlu–Babacan eksenindeki siyasi muhalefetin hukuki takibine ilişkin sorgulanmak üzere adliyede ifade verdi.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-09-07T13:01:18.758811+00:00",
-  "type": "news",
-  "cluster_id": "c7c8878163315"
  }
 ]
