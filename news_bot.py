@@ -66,7 +66,7 @@ SIMILARITY_THRESHOLD = 0.55
 MAX_LLM_CANDIDATES   = 180
 PER_FEED_LIMIT       = 10
 MIN_SCORE            = 6    # web/dashboard'a kayit esigi (6 = sadece arsiv, bildirim yok)
-MAX_KEEP             = 25   # run basina web'e kaydedilecek max haber
+MAX_KEEP             = 50   # run basina web'e kaydedilecek max haber (2 saatlik run icin 25->50)
 
 # Katmanli bildirim: 8-10 aninda, 7 3 saatlik ozette, 6 sadece web.
 # (Prompt'taki puan tanimlari onem olcegidir; esikler burada belirlenir. Prompt,

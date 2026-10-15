@@ -1,7 +1,7 @@
 name: Haber Botu
 
 on:
-  workflow_dispatch:  # cron-job.org saat başı tetikler (punctual); manuel de çalıştırılabilir
+  workflow_dispatch:  # cron-job.org 2 saatte bir tetikler (punctual); manuel de çalıştırılabilir
 
 # Aynı anda iki run çakışıp git push'ta birbirini bozmasın
 concurrency:
