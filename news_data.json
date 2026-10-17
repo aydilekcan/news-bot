@@ -1,5 +1,77 @@
 [
  {
+  "title": "Tarih belli oldu: Benzine indirim geliyor",
+  "link": "https://www.cumhuriyet.com.tr/ekonomi/tarih-belli-oldu-benzine-indirim-geliyor-2547547",
+  "source": "Cumhuriyet",
+  "summary_tr": "Akaryakıtta haftaya litre başına 4,30 lira benzin indirimi yapılması bekleniyor.",
+  "metric": "Benzin fiyatı -4,30 TL/litre",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-17T07:01:21.932041+00:00",
+  "type": "news",
+  "cluster_id": "st683ea66b47"
+ },
+ {
+  "title": "Trump, Rusya'ya yönelik yeni yaptırımları askıya alan kararname imzaladı",
+  "link": "https://www.aa.com.tr/tr/dunya/trump-rusyaya-yonelik-yeni-yaptirimlari-askiya-alan-kararname-imzaladi/4091620",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "Trump, Rusya'ya yönelik yeni yaptırımları askıya alan kararnameyi imzaladı.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-10-17T07:01:21.932041+00:00",
+  "type": "news",
+  "cluster_id": "stb59169b895"
+ },
+ {
+  "title": "Cübbeli Ahmet'in damadı da 'fon' soruşturması bağlantılı çıktı: 'Nefsimize yenildik'",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRjV6NW9iRW9TOERCRTQ5Y084VEVBR2E3X0NESjFrdjZkRXI4MjEtWFNDZzB3NTk0VGhXY2dENDhRbzU0My1XMDVMS3Vpb010anYyT1pab0Nhc3Q5T2ZfcVV2VG9MVVlZV0ZDNEhuSlV0c0g3M3IzWHZGcGZlQ1dPOU4xVVpHYktzZXBtTkxQbFNMYmR4NzJLTXpmWXZkeF9tX1RhUEE3Z0tNX3ZvQWJyN0VaNUg2bkU?oc=5",
+  "source": "soL",
+  "summary_tr": "Fon soruşturmasında Cübbeli Ahmet'in damadının da bağlantılı çıktığı ve 'nefsimize yenildik' dediği ortaya çıktı.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-17T07:01:21.932041+00:00",
+  "type": "news",
+  "cluster_id": "st5063f40ba6"
+ },
+ {
+  "title": "SPK’den 37 kişi hakkında suç duyurusu: Çok sayıda işlem yasağı",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUG1WSXZUTFZkQ3hCc0FTSmtkYWtTVVBXOVZ0cGVkMm1aSVBqWi1vU1VKSm1sVXRGcm1pdFNnVlZQa3dCSlZEdWItc19LYmFzTlpwNGpnb1ZBWV9abjJGMm9mSndTbzhQLU9zc3B4Q01iWmxFYlhkbUEyR0pHSzh1Wk1ic0Y2Sno1SUM2MHY1OWNIRkNXQWs1YWpUOHlSMTQ?oc=5",
+  "source": "soL",
+  "summary_tr": "SPK, fon soruşturması kapsamında 37 kişi hakkında suç duyurusunda bulundu ve çok sayıda işlem yasağı getirdi.",
+  "metric": "",
+  "lean": "left",
+  "score": 6,
+  "ts": "2026-10-17T07:01:21.932041+00:00",
+  "type": "news",
+  "cluster_id": "st5063f40ba6"
+ },
+ {
+  "title": "İran'dan Trump'ın bombaların anası tehdidine yanıt: Bombanın adı ve büyüklüğü önemli değil",
+  "link": "https://www.trthaber.com/haber/dunya/irandan-trumpin-bombalarin-anasi-tehdidine-yanit-bombanin-adi-ve-buyuklugu-onemli-degil-960382.html",
+  "source": "TRT Haber",
+  "summary_tr": "İran Savunma Bakan Vekili, Trump'ın 'bombaların anası' tehdidine karşılık bombanın büyüklüğünün önemli olmadığını söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-10-17T07:01:21.932041+00:00",
+  "type": "news",
+  "cluster_id": "st5f8070315f"
+ },
+ {
+  "title": "Merkezi yönetim bütçe dengesi: -532,2 milyar TL (Eylül 2024)",
+  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOXBNLUU4YU5XbTN3ZGEydjRBYUxkVTNMZE9OQWVGeWhDVnJhNDUtSlE1S0U0NHJkSzhhUmFvb1BnUVE2NmI3YjN3Q2w1QkV6ZjktU2wydll5SUp2VzBEeGRNNnkwT1JfZFhyMjJZbHVIb1lWdVpMTWU2RTRzNWFwSjRieEV0MUtBdFdzejR1dFFXeGZ0ODlvNjlOU0JSX2VTSlJheVh3Q0JHeUExS3NjNW1jVnVad0RMSUJnSE0yRDFrb1l6WGp2cVltQi1XQlJNb3BCNnhZY1pJSXZINm5GSlJLMA?oc=5",
+  "source": "Hazine ve Maliye Bakanlığı",
+  "summary_tr": "12,8 milyar TL fazla → -532,2 milyar TL (%-4257,8)",
+  "metric": "%-4257,8",
+  "lean": "neutral",
+  "score": 0,
+  "ts": "2026-10-17T07:01:21.932041+00:00",
+  "type": "data",
+  "cluster_id": ""
+ },
+ {
   "title": "Türkiye'nin ilk yüzer üretim platformu Mavi Vatan'a açılıyor",
   "link": "https://www.trthaber.com/haber/gundem/turkiyenin-ilk-yuzer-uretim-platformu-mavi-vatana-aciliyor-960375.html",
   "source": "TRT Haber",
@@ -59926,77 +59998,5 @@
   "ts": "2026-09-11T07:01:23.368949+00:00",
   "type": "news",
   "cluster_id": "c1fd1886d6f4d"
- },
- {
-  "title": "FETÖ'nün emniyet gizli yapılanmasına operasyon: 20 gözaltı",
-  "link": "https://www.trthaber.com/haber/turkiye/fetonun-emniyet-gizli-yapilanmasina-operasyon-20-gozalti-956540.html",
-  "source": "TRT Haber",
-  "summary_tr": "İstanbul merkezli 6 ilde FETÖ'nün emniyet gizli yapılanmasına yönelik operasyonda 20 gözaltı yapıldı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-11T07:01:23.368949+00:00",
-  "type": "news",
-  "cluster_id": "ce316492c18d1"
- },
- {
-  "title": "Mustafa Mutlu: Bir telefondan bu kadar yüksek oranda vergi alan başka bir devlet var mı?",
-  "link": "https://www.diken.com.tr/mustafa-mutlu-bir-telefondan-bu-kadar-yuksek-oranda-vergi-alan-baska-bir-devlet-var-mi/?utm_source=rss&utm_medium=rss&utm_campaign=mustafa-mutlu-bir-telefondan-bu-kadar-yuksek-oranda-vergi-alan-baska-bir-devlet-var-mi",
-  "source": "Diken",
-  "summary_tr": "Cep telefonuna verilen vergi oranı sorgulanıyor; Türkiye'nin diğer ülkelere kıyasla telefonda en yüksek vergiyi uyguladığı iddia ediliyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-09-11T06:01:14.667014+00:00",
-  "type": "news",
-  "cluster_id": "cb8c1b917f189"
- },
- {
-  "title": "Altın düştükçe düşüyor: Kritik veri için geri sayım başladı",
-  "link": "https://www.sozcu.com.tr/altin-dustukce-dusuyor-kritik-veri-icin-geri-sayim-basladi-p357192",
-  "source": "Sözcü",
-  "summary_tr": "Altın fiyatları sert düşüş yaşıyor; ABD enflasyon verisinin açıklanması öncesinde fiyatlar geriletiliyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-11T06:01:14.667014+00:00",
-  "type": "news",
-  "cluster_id": "c65782505cc51"
- },
- {
-  "title": "İnternetten market alışverişi yapanlar yandı: \"Nasıl olsa görmüyor\" deyip kapıya gönderiyorlar",
-  "link": "https://www.sozcu.com.tr/internetten-market-alisverisi-yapanlar-yandi-nasil-olsa-gormuyor-deyip-kapiya-gonderiyorlar-p357190",
-  "source": "Sözcü",
-  "summary_tr": "İnternet üzerinden yapılan market alışverişlerinde kalite sorunu: ürünler fiziki mağazada stok olup raflara konulamayan mallar gönderiliyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-09-11T06:01:14.667014+00:00",
-  "type": "news",
-  "cluster_id": "c6f01c77e66a8"
- },
- {
-  "title": "Engellinin bakımı var, ödemesi yok",
-  "link": "https://www.sozcu.com.tr/engellinin-bakimi-var-odemesi-yok-p357186",
-  "source": "Sözcü",
-  "summary_tr": "Engellilerin bakım merkezlerindeki tedavi masraflarının ödenmiyor; sosyal destekte finansman sorunu yaşanıyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-09-11T06:01:14.667014+00:00",
-  "type": "news",
-  "cluster_id": "c68445530a206"
- },
- {
-  "title": "⁠Gold on track for third weekly loss as US inflation data looms​‌",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMk9xQnh0dkJvU0VUbjhfa0E5ZHhmb21sU1k4RWktNC0tdERMUlFyb05jamhUa0p0dUEwejVJbHlUaWp6VnZuUEJrc0ZmYzBMM1RwaUp0SUdWWXBiU2pRVUF4ZlRsQk1fVmY2MUlTcTFFV3RjSnQzSE5UUHdKWHJYcV9YaUVmZ01PVnVUWHI0MzU4dnJja25CTmpxc3N4STVOb1E?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Altın üçüncü haftalık kaybına doğru ilerliyor; ABD enflasyon verisi bekleniyor.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-11T06:01:14.667014+00:00",
-  "type": "news",
-  "cluster_id": "c448de95476eb"
  }
 ]
