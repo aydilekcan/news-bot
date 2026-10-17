@@ -1,5 +1,29 @@
 [
  {
+  "title": "Türkiye'nin ilk yüzer üretim platformu Mavi Vatan'a açılıyor",
+  "link": "https://www.trthaber.com/haber/gundem/turkiyenin-ilk-yuzer-uretim-platformu-mavi-vatana-aciliyor-960375.html",
+  "source": "TRT Haber",
+  "summary_tr": "Karadeniz Sakarya Gaz Sahası'nda üretimi ikiye katlayacak Türkiye'nin ilk yüzer üretim platformu Osman Gazi, Filyos'a açılıyor.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-10-17T05:01:13.015952+00:00",
+  "type": "news",
+  "cluster_id": "st8e9aa135a0"
+ },
+ {
+  "title": "Trump puts new Russia sanctions that he recently signed into law on hold, citing national interest",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZnJQRmxjVThxTzVHd0pFZ1kwcWtlM0Z1SWUxNVBnRDFFNzBsZmp0TmNFYkEwai0xSW8xcDNvbXpMRU5rU2hoZk1DZ2FuemtfdGVYTlpXN3QwZjV5emVoQlhZa0tDQ0tXM2d1emJRNjJvSHFJYTkwc0pBc1NYc2VyaVVrb2tEb0VEUW9Ka0dhRjM1WER1?oc=5",
+  "source": "AP",
+  "summary_tr": "Trump, yakın zamanda imzaladığı yeni Rusya yaptırımlarını ulusal çıkar gerekçesiyle askıya aldı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-17T05:01:13.015952+00:00",
+  "type": "news",
+  "cluster_id": "stb59169b895"
+ },
+ {
   "title": "Trump waives key Russia-related sanctions, tariffs before they take effect under new law",
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRsWXNvbUVMb01QdTFTbEhpSGhZLVZYVXZramJkQjg2RXUzbXRaZjZlcnY1QTNoeU1zQzhhOEhwOFZVSkRySFFZNWI3RjZtUHJLaDhybEhWVzFBTF9uVlZjWlNSQk5aX25iZ0EySjRQYjR5aVRiM1VERjVFWmpTOTR0Y1ZhNUtaTHpTaWdZZVRPUmppTUJtYl9IZlhGQnM3WkVSNmRreVBjaDF5anFfSHhqN1ZUc2p3cjRoU0pyUzRkZjlBM05B?oc=5",
   "source": "Reuters",
@@ -59974,29 +59998,5 @@
   "ts": "2026-09-11T06:01:14.667014+00:00",
   "type": "news",
   "cluster_id": "c448de95476eb"
- },
- {
-  "title": "Bugün saat 15:30'da açıklanacak veri altının yönünü değiştirebilir",
-  "link": "https://www.sozcu.com.tr/bugun-saat-15-30-da-tek-veri-altinin-yonunu-degistirebilir-p357169",
-  "source": "Sözcü",
-  "summary_tr": "ABD ağustos CPI verisi bugün saat 15:30'da açıklanacak; altın fiyatlarının yönünü belirleyecek kritik kuresel ekonomi datası.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-11T05:01:12.251097+00:00",
-  "type": "news",
-  "cluster_id": "cf063ed3d0837"
- },
- {
-  "title": "Yapay zeka patlaması ve tarife belirsizliği bakır fiyatlarını rekor seviyelere taşıdı",
-  "link": "https://www.trthaber.com/haber/dunya/yapay-zeka-patlamasi-ve-tarife-belirsizligi-bakir-fiyatlarini-rekor-seviyelere-tasidi-956531.html",
-  "source": "TRT Haber",
-  "summary_tr": "Yapay zeka talebinin artması, arz daralması ve tarife belirsizliği bakır fiyatlarını rekor seviyelere çıkardı; kuresel emtia piyasasında önemli hareket.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-11T05:01:12.251097+00:00",
-  "type": "news",
-  "cluster_id": "ce64f2c570dcc"
  }
 ]
