@@ -1,5 +1,17 @@
 [
  {
+  "title": "Masked settlers attack European diplomats in the occupied West Bank",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVlRiVjVsUFhzbGdNVXNZRm9JNDNUMGJDN2FrQlRjc00tM2JRTEh0bFNFVjFZdXRwN18teXNLN2lvblRwaHlzWHFQQnVqc1pVSWhHUWtDaks1eXNodVJsYmdHSzR6R0RBQk1jTjRmZ0wxYl9OZm5KQ285WU0tWDVzNDZISzA3bktzeXU0V2d1QklWYVlNWmdoQnNzRHFaQ2E1LUU3MTN4Zw?oc=5",
+  "source": "AP",
+  "summary_tr": "İşgal altındaki Batı Şeria'da maskeli İsrailli yerleşimciler Avrupalı diplomatlara saldırdı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-18T01:01:02.228923+00:00",
+  "type": "news",
+  "cluster_id": "ste67cf2ee14"
+ },
+ {
   "title": "Fransa'da sokaklar savaş alanına döndü! 143 yıllık tarihi belediye binası ateşe verildi",
   "link": "https://www.sozcu.com.tr/fransada-sokaklar-savas-alanina-dondu-143-yillik-tarihi-belediye-binasi-atese-verildi-p370168",
   "source": "Sözcü",
@@ -59986,17 +59998,5 @@
   "ts": "2026-09-11T16:01:13.790071+00:00",
   "type": "news",
   "cluster_id": "c45a40a5570f1"
- },
- {
-  "title": "Ezgi Apartmanı davası: Tahliye kararına yönelik itiraz reddedildi",
-  "link": "https://www.cumhuriyet.com.tr/turkiye/ezgi-apartmani-davasi-tahliye-kararina-yonelik-itiraz-reddedildi-2536782",
-  "source": "Cumhuriyet",
-  "summary_tr": "Kahramanmaraş Ezgi Apartmanı davasında tahliye kararına yönelik itiraz reddedildi. Davada 8'er yıl hapis cezasıyla tahliye edilen Kervan Pastanesi sahipleri hakkındaki karar kesinleşti.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-11T16:01:13.790071+00:00",
-  "type": "news",
-  "cluster_id": "cb062aadb87ea"
  }
 ]
