@@ -1,5 +1,65 @@
 [
  {
+  "title": "GENAR anket: Fon krizi AKP'nin oylarını nasıl etkiledi; işte olası bir seçimde partilerin alacağı oy oranları...",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRUFrMGNWMU8tcVBaN2ZFUG1FaHZiQzBDRUJUZjVVYUF0ZWktbjNXQm5nVjJKOFlvN3kyLUNsQkhxQVNUNUF3eEJFT1lyY19ULV9FYmlXbUUtYWRuTy01c05VbUFqWDI3eHRSMWF2UkhaQXJTWFNsSUhZdkhRa3hTNTZxNjJRWXlnNEFBVjlxSVU2aWZYS1ZXOEV6Y2EyZnk5UVJ4SThNVllhSTFSRm0xMUYwVl9Kb3ZZN2ExSnUybll0Q3JmckFya0hObE5ORXBpMXBydXJCbjJDZw?oc=5",
+  "source": "T24",
+  "summary_tr": "GENAR anketine göre fon krizi, AKP'nin oy oranını ve olası seçim sonuçlarını etkiledi.",
+  "metric": "",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-18T15:01:32.430640+00:00",
+  "type": "news",
+  "cluster_id": "st5063f40ba6"
+ },
+ {
+  "title": "US resumes intelligence-sharing with Ukraine after pause, Zelenskiy says",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2JXcTFReXJpR0UyNGM1UVFfMTVMRlJHbGpmRlh2Wk1HQ3ZQZ0Q0YUNadThFXy1IcTZXdHJMOGxNU0FqM1NTQkVaOHpOX2NaWGNMTXJaRzJnYUVmald2UmVvTExRVVdqajR0ZmVBNE8tVHhkMXFhQ3FQQmhUVGdEMmUwcXA3RHFPN2ZUOTZ6SzBqNVlpQkZGSnlOb3FjV0gyT1JIUzEtYnBwbjBySGlVcjRUaHJnN3dDb2hRMW8zbExBZw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Zelenskiy, ABD'nin Ukrayna ile istihbarat paylaşımını kısa bir duraklamanın ardından yeniden başlattığını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-18T15:01:32.430640+00:00",
+  "type": "news",
+  "cluster_id": "ste801cd0bcf"
+ },
+ {
+  "title": "Turkey will get some diesel from US-Russia supply deal, energy minister says",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYjdhZ0V0TGxFRVBoQWVSMVBlOXFvdm1rcFlmWm45dVdYS3FJdm5ZdExGM2xRd3hhb1hvWUJYdnVlRG50bm1CbjJubjRnM2JtVFp3UkdiU0QxcVJEbnZyNC1HSDhOYUM1THhiTm9heG9tTV9FTHpwMW1BOEhxN0Q0WjlocVJMZV9TSUlIN0RMZDdkQmpPQUhUQk40bkNDdzdMSVhEa3U5eUZKd2R1OVBqajZYTDI5cDhTT3FaUk5uZw?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Enerji Bakanı Bayraktar, Türkiye'nin ABD-Rusya dizel tedarik anlaşmasından pay alacağını açıkladı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-18T15:01:32.430640+00:00",
+  "type": "news",
+  "cluster_id": "stffc976b074"
+ },
+ {
+  "title": "Fransa'da sarı yeleklilerin gösterilerinde 2 binden fazla kişi gözaltına alındı",
+  "link": "https://www.trthaber.com/haber/dunya/fransada-sari-yeleklilerin-gosterilerinde-2-binden-fazla-kisi-gozaltina-alindi-960472.html",
+  "source": "TRT Haber",
+  "summary_tr": "Fransa'da sarı yeleklilerin gösterilerinde gözaltı sayısı 2 binden fazlaya yükseldi.",
+  "metric": "Gözaltı 1200 -> 2000+ (artış)",
+  "lean": "right",
+  "score": 6,
+  "ts": "2026-10-18T15:01:32.430640+00:00",
+  "type": "news",
+  "cluster_id": "st82f3c1618e"
+ },
+ {
+  "title": "Albanian PM says protests pose threat to EU membership, not government",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlc3R0V2SVhwYWpQcDQzVnptVkptdkQtWHdGZUU0SUlYdUozS3ZFQmN2bmNTQUFKbUZ5UUNWR3RWQmlFVDZSU2daT0FMcXNVM0ZIaGtYbXFTTThzWjFqV3JkWkgzbWRxZWsyTGhhYU5wVTFRc01IV3ZRSkRlTlBlZ0p1YVQzMlZYUUxTSEV6WjUxMGNQb1R6Y3k0b0dZSDZIQlo3c1l2RUpTR0o3?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Arnavutluk Başbakanı, protestoların hükümeti değil AB üyelik sürecini tehdit ettiğini söyledi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-10-18T15:01:32.430640+00:00",
+  "type": "news",
+  "cluster_id": "stb6e8818306"
+ },
+ {
   "title": "İstanbul'da sel: Kayıp iki kişinin daha cesedine ulaşıldı",
   "link": "https://www.bbc.com/turkce/articles/c9e8l1xvnv40o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59938,65 +59998,5 @@
   "ts": "2026-09-12T13:01:18.723896+00:00",
   "type": "news",
   "cluster_id": "c9be7d0a3b63b"
- },
- {
-  "title": "Kılıçdaroğlu: İmamoğlu aklanırsa ve Yavaş CHP'de kalırsa ortak aday gösterilebilir",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWVXdHQ5R1BkSmhkb3F4eGFYMTZoV1psZ25RSWtueUxsY2hMamJHMTd5bWZuME5nZHFfX0lQNDJycF9TLXJPbUdnbEc3Y1hqOVJJd1NiU0tac0FoYXhjeGMwS0QxM1JVREF5Vm5NUDhsbzNpbFBiOVE5c0dMd1hJc1pmeGEtSjNPQ01wVzBCTUtGTmdmd09fMmJaaVc1YVY3ZXhIVUV1cV9EdkNTYXZSM3hvSS1QRm10WXc?oc=5",
-  "source": "soL",
-  "summary_tr": "Kılıçdaroğlu, İmamoğlu aklanırsa ve Yavaş CHP'de kalırsa ortak aday gösterilebileceğini belirtti.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-09-12T13:01:18.723896+00:00",
-  "type": "news",
-  "cluster_id": "cfab89ba9331c"
- },
- {
-  "title": "China's Xi urges BRICS to take on peacemaking role in Middle East war",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2hwaW9IeTRsWlZUMXI0TnRSYUhSM0ZNZVRXUHpQM0NKMHJIMlhJaFZZUUJYRE5PbEpvSjg4bDFxT0FVQUp1X0hHSUhOcXJjOFZpaDY3RmRMeFpFT0VaZVlQWG12ZlZJQ3BjdF9MMVJXYUxHV0xwQjVJWGstZWpJYWxlM2pmMzBCdFc5d1NCeE5IWENOUC1Id1ZfZGJDMkMwckY5Y082T2NLOEk?oc=5",
-  "source": "Reuters",
-  "summary_tr": "Çin Devlet Başkanı Xi, BRICS'e Orta Doğu savaşında barışçı rol üstlenmesi çağrısında bulundu.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-12T13:01:18.723896+00:00",
-  "type": "news",
-  "cluster_id": "c4aaea55b1cb6"
- },
- {
-  "title": "Motorine salı günü tarihi zam geliyor",
-  "link": "https://www.sozcu.com.tr/motorine-sali-gunu-tarihi-zam-geliyor-p357585",
-  "source": "Sözcü",
-  "summary_tr": "Motorine salı günü tarihi zam geliyor; benzine bugünden 3 TL 20 kuruş zam uygulandı.",
-  "metric": "Benzin: +3,20 TL",
-  "lean": "neutral",
-  "score": 8,
-  "ts": "2026-09-12T12:01:17.578118+00:00",
-  "type": "news",
-  "cluster_id": "c06af3b8789cc"
- },
- {
-  "title": "Okullar açıldı sevincin yerini kaygı aldı: Parasız eğitim sadece kağıt üstünde",
-  "link": "https://www.cumhuriyet.com.tr/egitim/okullar-acildi-sevincin-yerini-kaygi-aldi-2536931",
-  "source": "Cumhuriyet",
-  "summary_tr": "2026-2027 eğitim yılı başladı; veliler okul giderlerini karşılamakta zorlanıyor, 'parasız eğitim' sadece kağıt üstünde kalıyor.",
-  "metric": "",
-  "lean": "left",
-  "score": 7,
-  "ts": "2026-09-12T12:01:17.578118+00:00",
-  "type": "news",
-  "cluster_id": "cdc93dfca9848"
- },
- {
-  "title": "S. Arabistan'ın Doğu-Batı Petrol Boru Hattı'nı kapatması piyasada milyonlarca varil arz eksikliğine yol açabilir",
-  "link": "https://www.aa.com.tr/tr/dunya/s-arabistanin-dogu-bati-petrol-boru-hattini-kapatmasi-piyasada-milyonlarca-varil-arz-eksikligine-yol-acabilir/4055172",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Suudi Arabistan Doğu-Batı Petrol Boru Hattı'nı kapatması piyasada milyonlarca varil arz eksikliğine yol açabilir.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-12T12:01:17.578118+00:00",
-  "type": "news",
-  "cluster_id": "cb6b423a7750c"
  }
 ]
