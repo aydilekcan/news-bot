@@ -1,5 +1,17 @@
 [
  {
+  "title": "Four dead, 39 injured at Canadian military base in grass fire fanned by high winds, officials say",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXEzTWctWFllT2dCNGlES0Ewcm9qV0djallLZ3c2bEdoRVlta2RBQ09uQ1hZQnMxbndPUHNzRzdmakNYZU5IeHRPbF9wUVlFNTBCLUwyWE9TbUFFYjRua1BEM01VWm5ab0NwRm5QWXV2eW1ycERzRklTbzdxV2NpS1lOV29pZWtsRzgyOE9RTVVRNDhOdXhBdnJ6REFJQk54azV3ag?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Kanada'daki askeri üs yangınında ölü sayısı 4'e yükseldi, 39 kişi yaralandı.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-19T01:01:10.707950+00:00",
+  "type": "news",
+  "cluster_id": "st481cc72fe5"
+ },
+ {
   "title": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı’nda bir petrol tankerinin mayına çarptığını açıkladı",
   "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-ordusu-hurmuz-bogazi-nda-bir-petrol-tankerinin-mayina-carptigini-acikladi/4092928",
   "source": "Anadolu Ajansı",
@@ -59986,17 +59998,5 @@
   "ts": "2026-09-13T08:01:13.603927+00:00",
   "type": "news",
   "cluster_id": "c56e9db5d65e1"
- },
- {
-  "title": "TUFE (aylık): %1,84 (Ağustos)",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUEx2MmZWZkZKQUhVUEFFMjZCZnpDbndJd2liU1FBYWlla1duUklocTE0ZkZ4X3VXV28zT2RqaDVNZDh5dXgya1pxdE81RkY3MjJFT3ZDaVlHSHpzeUxvSmZjTVkxX1I0SDJIMjlvd3pVazh0VEhVc0xQN09TSDJiM3hpanVWS0xaZXprYg?oc=5",
-  "source": "TUIK",
-  "summary_tr": "%31,51 → %1,84 (-29,7 puan)",
-  "metric": "-29,7 puan",
-  "lean": "neutral",
-  "score": 0,
-  "ts": "2026-09-13T08:01:13.603927+00:00",
-  "type": "data",
-  "cluster_id": ""
  }
 ]
