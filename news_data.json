@@ -1,5 +1,17 @@
 [
  {
+  "title": "Bütçeden, emeklilere seyyanen zamla seçim sinyali çıktı",
+  "link": "https://www.sozcu.com.tr/butceden-emeklilere-seyyanen-zamla-secim-sinyali-cikti-p370793",
+  "source": "Sözcü",
+  "summary_tr": "SGK bütçe transferinde öngörülen %66 artış, emeklilere seyyanen zam sinyali olarak yorumlandı.",
+  "metric": "SGK bütçe transferi artışı %66",
+  "lean": "left",
+  "score": 7,
+  "ts": "2026-10-20T03:01:14.937592+00:00",
+  "type": "news",
+  "cluster_id": "st25af41819b"
+ },
+ {
   "title": "DEM Parti ve Yeni Parti görüşmesinde hangi mesajlar öne çıktı?",
   "link": "https://www.bbc.com/turkce/articles/cxj0l72j0qy9o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59986,17 +59998,5 @@
   "ts": "2026-09-14T21:01:13.494203+00:00",
   "type": "news",
   "cluster_id": "cb7e5d5a259c9"
- },
- {
-  "title": "Sabiha Gökçen'de şişe suyun fiyatı görenleri şaşırttı",
-  "link": "https://www.sozcu.com.tr/sabiha-gokcen-havalimani-su-fiyati-ne-kadar-p358256",
-  "source": "Sözcü",
-  "summary_tr": "Sabiha Gökçen Havalimanı'nda bir şişe su 380 TL'ye satılıyor. Türkiye'de hizmet fiyatlarındaki aşırı artışı yansıtan gösterge.",
-  "metric": "Su şişesi fiyatı (Sabiha Gökçen) 380 TL",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-14T21:01:13.494203+00:00",
-  "type": "news",
-  "cluster_id": "c27bcc21d9aeb"
  }
 ]
