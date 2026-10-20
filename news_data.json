@@ -1,5 +1,17 @@
 [
  {
+  "title": "DEM Parti ve Yeni Parti görüşmesinde hangi mesajlar öne çıktı?",
+  "link": "https://www.bbc.com/turkce/articles/cxj0l72j0qy9o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Türkçe",
+  "summary_tr": "DEM Parti heyeti, Yeni Parti lideri Özgür Özel ile görüşmesinde Kürt sorunu ve İzleme Komisyonu konularını gündeme getirdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-10-20T01:01:16.282983+00:00",
+  "type": "news",
+  "cluster_id": "st76aa92e964"
+ },
+ {
   "title": "Fransa'da eylemler sonrası sokağa çıkma yasakları",
   "link": "https://www.bbc.com/turkce/articles/cqgm02rx8ng3o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Türkçe",
@@ -59986,17 +59998,5 @@
   "ts": "2026-09-14T21:01:13.494203+00:00",
   "type": "news",
   "cluster_id": "c27bcc21d9aeb"
- },
- {
-  "title": "Yemen'de hükümet güçleri: Husiler Batı Sahili'nde 76 bin savaşçı topladı",
-  "link": "https://www.aa.com.tr/tr/dunya/yemende-hukumet-gucleri-husiler-bati-sahilinde-76-bin-savasci-topladi/4057214",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Yemen'deki hükümet güçlerine göre Husiler Batı Sahili'nde 76 bin savaşçı topladı. Bölgesel güç dengesi ve Babülmendeb Boğazı kontrolü açısından önemli.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-14T21:01:13.494203+00:00",
-  "type": "news",
-  "cluster_id": "c6ffc8aa128e2"
  }
 ]
