@@ -1,5 +1,41 @@
 [
  {
+  "title": "WSJ: Musk, Starlink'in Ukrayna'da hızının yavaşlatılması emrini verdi",
+  "link": "https://www.aa.com.tr/tr/dunya/wsj-musk-starlinkin-ukraynada-hizinin-yavaslatilmasi-emrini-verdi/4095196",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "WSJ'ye göre Elon Musk, Ukrayna ordusunun kullandığı Starlink hizmetinin yavaşlatılması talimatını verdi.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-21T01:01:10.029744+00:00",
+  "type": "news",
+  "cluster_id": "stea2f474724"
+ },
+ {
+  "title": "WSJ: Anthropic, gelecekte ek bilgi işlem kapasitesi için 750 milyar dolar harcayabilir",
+  "link": "https://www.aa.com.tr/tr/dunya/wsj-anthropic-gelecekte-ek-bilgi-islem-kapasitesi-icin-750-milyar-dolar-harcayabilir/4095192",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "WSJ'ye göre Anthropic, gelecekte ek bilgi işlem kapasitesi için 750 milyar dolar harcayabilir.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-21T01:01:10.029744+00:00",
+  "type": "news",
+  "cluster_id": "stcecc66e3af"
+ },
+ {
+  "title": "Musk says SpaceX-Tesla merger is 'a good idea' as companies form deal committees",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHZoMzBtaGg1TmlMN19NRUEzM1lOZkpYb1ZXeWlLTnR4SkxObm1xbDBlN0RsQ2huaHBCMzRxU0VLb3ZPSS1ZeEdhampNY3VNclpoU2xGOWpoQjNfVzVDTHpqOVVRd0pZcVY3eGlpVkxjWTRrMGh4aWtCbVJVVnZ1Nnd1RkU1dFNtcUZCUnVxX1pRWXRTd09QUnpodWJSeEhpS3BKcmxsQkM1aFA1eExGSkNMMVIteV93OXZWa0Q2Vl9yUQ?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Elon Musk, SpaceX ile Tesla'nın birleşmesinin 'iyi bir fikir' olduğunu söyledi; şirketler anlaşma komiteleri kurdu.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-21T01:01:10.029744+00:00",
+  "type": "news",
+  "cluster_id": "st0d40419ddf"
+ },
+ {
   "title": "Musk ordered slowdown of Starlink service used by Ukraine's military, WSJ reports",
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcm00QWdmVzlvOThxOUdvQlVKYWtMYVNNRDctTko1OXVKZWRxYVhnYkwxRWd5cE13Smw4N1ZHQUpaRzc1NGhLUXVkZjZaUDh6R1JnVnNpSWJKUldWZ0RIWExIRm5VSUcyYmloVEpUMEVqdUlIUHRfbFpwNUJRTjZfQ1pXc3hxWW51dnFvai1vUFZRWWhOSkZoNE11QXBJeG9XWVpBZUR1UDVma2UxR01NY1JpUjg3bzJtc05KcnBkQUd4Z2M?oc=5",
   "source": "Reuters",
@@ -59962,41 +59998,5 @@
   "ts": "2026-09-16T06:01:11.197108+00:00",
   "type": "news",
   "cluster_id": "c445bdea78d69"
- },
- {
-  "title": "MİT koordinesinde jandarma 'yasadışı veri sorgulama' operasyonu: 5 gözaltı",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYjl3ang4OW9nekdFVmFkRkd5dGJCZEUzS2xaWmRMSUl2eGtUaFRObVRlSGVqLWhDcmNWTVBsUHhyalYwM0t0TFZzR1F4elN6ajN5bzYyLUZHdkpDaDI5WG5VV3Nib2Q0QmVlS0d0b2JoMVFCV3ZoQ2FBUnR1RWhISkVGRmpSZncxMVVFUWlxWDBOcFMzYk9yUDJhZWlzVDBRV0xxbkg1eTd6cktGRFE?oc=5",
-  "source": "soL",
-  "summary_tr": "MİT koordinesindeki jandarma operasyonunda yasadışı veri sorgulama hedef alındı; 5 gözaltı.",
-  "metric": "",
-  "lean": "neutral",
-  "score": 7,
-  "ts": "2026-09-16T06:01:11.197108+00:00",
-  "type": "news",
-  "cluster_id": "cec895d533ae1"
- },
- {
-  "title": "Şevket Sayılgan: Türkiye aynı anda iki zıt baskıyla karşı karşıya",
-  "link": "https://www.diken.com.tr/sevket-sayilgan-turkiye-ayni-anda-iki-zit-baskiyla-karsi-karsiya/?utm_source=rss&utm_medium=rss&utm_campaign=sevket-sayilgan-turkiye-ayni-anda-iki-zit-baskiyla-karsi-karsiya",
-  "source": "Diken",
-  "summary_tr": "Ekonomi yorum: Türkiye yüksek faiz ve diğer baskılarla karşı karşıya.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-09-16T06:01:11.197108+00:00",
-  "type": "news",
-  "cluster_id": "cbd29b7eba85a"
- },
- {
-  "title": "Alaattin Aktaş: TÜİK madem madde fiyatlarını açıklamıyor en azından başka bir adım atabilir",
-  "link": "https://www.diken.com.tr/alaattin-aktas-tuik-madem-madde-fiyatlarini-aciklamiyor-en-azindan-baska-bir-adim-atabilir/?utm_source=rss&utm_medium=rss&utm_campaign=alaattin-aktas-tuik-madem-madde-fiyatlarini-aciklamiyor-en-azindan-baska-bir-adim-atabilir",
-  "source": "Diken",
-  "summary_tr": "TÜİK madde fiyatlarını açıklamadığı için çiftçi zor durumda; yorum eleştiri.",
-  "metric": "",
-  "lean": "left",
-  "score": 6,
-  "ts": "2026-09-16T06:01:11.197108+00:00",
-  "type": "news",
-  "cluster_id": "c85224ea4476c"
  }
 ]
