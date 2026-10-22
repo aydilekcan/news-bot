@@ -1,5 +1,53 @@
 [
  {
+  "title": "ABD ve İsrail'in ABD ara seçimlerinin ardından İran'a yeni saldırı planları yaptığı iddiası",
+  "link": "https://www.aa.com.tr/tr/dunya/abd-ve-israilin-abd-ara-secimlerinin-ardindan-irana-yeni-saldiri-planlari-yaptigi-iddiasi/4096582",
+  "source": "Anadolu Ajansı",
+  "summary_tr": "ABD ve İsrail'in, ABD ara seçimlerinin ardından İran'a yönelik yeni saldırı planları hazırladığı iddia edildi.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-10-22T01:01:07.907402+00:00",
+  "type": "news",
+  "cluster_id": "st9344a6dcac"
+ },
+ {
+  "title": "ABD ve İsrail'in ABD ara seçimleri sonrası İran'a yeni saldırı planladığı iddia edildi",
+  "link": "https://www.trthaber.com/haber/dunya/abd-ve-israilin-abd-ara-secimleri-sonrasi-irana-yeni-saldiri-planladigi-iddia-edildi-960831.html",
+  "source": "TRT Haber",
+  "summary_tr": "ABD ve İsrail'in, ABD ara seçimlerinin ardından İran'a yönelik yeni saldırı planları hazırladığı iddia edildi.",
+  "metric": "",
+  "lean": "right",
+  "score": 7,
+  "ts": "2026-10-22T01:01:07.907402+00:00",
+  "type": "news",
+  "cluster_id": "st9344a6dcac"
+ },
+ {
+  "title": "US orders some diplomats to leave Saudi Arabia as fears of escalating Houthi attacks rise",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSkdGRlFLaE1FOXc3dGM0UHhMVnpzcjF6SkR4TzJRTWtuTm0wZmpGVFJMeEZydGx5VndhUGo3dzN2ZHJCOHdnVVVGVE9LNFNfVlgyTzlmRHJadlRuTk10OFdaZ1otTlB2OEhHWTJvUlQ3Sk5QYUI4Tk9HRjhfMVFmWXBUM0JSXzllODBTNTRqOEk5U00?oc=5",
+  "source": "AP",
+  "summary_tr": "ABD, Husi saldırı tehdidinin artması nedeniyle bazı diplomatların Suudi Arabistan'ı terk etmesini emretti.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 7,
+  "ts": "2026-10-22T01:01:07.907402+00:00",
+  "type": "news",
+  "cluster_id": "sta8593db26c"
+ },
+ {
+  "title": "Tesla cuts spending before potential SpaceX deal even as Musk bets future on AI, robots",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS3hNUU9fZGR5WUQ1NElPSE9qdjdWSmtWSmVodXRzWENUMzFnVDZVYUlvckprUGFOSXljOE5DSVJOTWw1b1FlTTkwV0NJY0NyWEd5bFdGUDJrZVBqNWNFMHR6TUFMVERfenZyNTgwQmFJSU9OR3dKdl9EY1ZiS2doUlhjbmYyUEI0c2c4NGhQX3VxOHNCQ185V05xdUVkMTQtZVJHbTYybUV1U0NWQmFfZlN6enNtR2poWnpvOFBaQmo1TU9yd0xn?oc=5",
+  "source": "Reuters",
+  "summary_tr": "Tesla, olası SpaceX anlaşması öncesinde harcamalarını kısarken Musk geleceğini yapay zeka ve robotlara bağlıyor.",
+  "metric": "",
+  "lean": "neutral",
+  "score": 6,
+  "ts": "2026-10-22T01:01:07.907402+00:00",
+  "type": "news",
+  "cluster_id": "stce151e695b"
+ },
+ {
   "title": "Tasfiye kararı verilen fonlara ilişkin kanun teklifi, TBMM Genel Kurulu'nda",
   "link": "https://www.trthaber.com/haber/gundem/tasfiye-karari-verilen-fonlara-iliskin-kanun-teklifi-tbmm-genel-kurulunda-960828.html",
   "source": "TRT Haber",
@@ -59950,53 +59998,5 @@
   "ts": "2026-09-17T09:01:15.594773+00:00",
   "type": "news",
   "cluster_id": "c8a12eec85156"
- },
- {
-  "title": "Borsa bankacılık hisseleriyle yükseliyor: Yüzde 2'yi aştı",
-  "link": "https://www.diken.com.tr/borsa-bankacilik-hisseleriyle-yukseliyor-yuzde-2yi-asti/?utm_source=rss&utm_medium=rss&utm_campaign=borsa-bankacilik-hisseleriyle-yukseliyor-yuzde-2yi-asti",
-  "source": "Diken",
-  "summary_tr": "Borsa İstanbul'da BIST 100 endeksi bankacılık hisseleri öncülüğünde yüzde 2,2 artarak 13.415 puana yükseldi.",
-  "metric": "BIST 100 +%2,2",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-17T09:01:15.594773+00:00",
-  "type": "news",
-  "cluster_id": "c51c32f772c0f"
- },
- {
-  "title": "Borsadaki yükseliş yüzde 2'yi aştı",
-  "link": "https://www.sozcu.com.tr/borsadaki-yukselis-yuzde-2-yi-asti-p359092",
-  "source": "Sözcü",
-  "summary_tr": "Borsa İstanbul'da BIST 100 endeksi bankacılık hisseleri öncülüğünde yüzde 2,2 artarak 13.415 puana yükseldi.",
-  "metric": "BIST 100 +%2,2",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-17T09:01:15.594773+00:00",
-  "type": "news",
-  "cluster_id": "cb26ee633affa"
- },
- {
-  "title": "Piyasalarda güven rallisi: Borsadaki yükseliş yüzde 2'yi aştı",
-  "link": "https://www.trthaber.com/haber/ekonomi/piyasalarda-guven-rallisi-borsadaki-yukselis-yuzde-2yi-asti-957115.html",
-  "source": "TRT Haber",
-  "summary_tr": "Borsa İstanbul'da BIST 100 endeksi bankacılık hisseleri öncülüğünde yüzde 2,2 artarak 13.415 puana yükseldi.",
-  "metric": "BIST 100 +%2,2",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-17T09:01:15.594773+00:00",
-  "type": "news",
-  "cluster_id": "cb26ee633affa"
- },
- {
-  "title": "Sakarya yılın 8 ayında 97 bin 201 aracı yurt dışına gönderdi",
-  "link": "https://www.aa.com.tr/tr/ekonomi/sakarya-yilin-8-ayinda-97-bin-201-araci-yurt-disina-gonderdi/4059806",
-  "source": "Anadolu Ajansı",
-  "summary_tr": "Sakarya'da ocak-ağustos döneminde banttan indirilen 143 bin 236 aracın yüzde 67,8'i (97 bin 201 adet) ihraç edildi.",
-  "metric": "Sakarya ihracatı 143.236 araçtan 97.201 (+%67,8)",
-  "lean": "neutral",
-  "score": 6,
-  "ts": "2026-09-17T09:01:15.594773+00:00",
-  "type": "news",
-  "cluster_id": "c3ca99becd0e3"
  }
 ]
